@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 17
 type: "OPENING"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Summer Group Exhibition | AUG 12"
 ---
 

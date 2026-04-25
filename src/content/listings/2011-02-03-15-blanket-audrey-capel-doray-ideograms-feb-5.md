@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 15
 type: ""
+venue: "BLANKET"
 summary: "BLANKET | Audrey Capel Doray: ideograms | FEB 5"
 ---
 
@@ -37,7 +38,7 @@ images/messages, cooperated with it, and in the process produced work that
 not only illuminates this critical cultural period, but is relevant to our
 present condition.
 
-Audrey Capel Doray was born in MontrÃƒÂ©al in 1931. After receiving a Bachelor
+Audrey Capel Doray was born in MontrÃ©al in 1931. After receiving a Bachelor
 of Fine Arts from McGill University she moved to Vancouver in 1957 where
 she taught at the Vancouver School of Art. In 1962, Capel Doray joined the
 New Design Gallery, the first influential art space in Vancouver that

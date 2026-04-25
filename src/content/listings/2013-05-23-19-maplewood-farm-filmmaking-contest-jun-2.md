@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 19
 type: ""
+venue: "Maplewood Farm"
 summary: "Maplewood Farm | filmmaking contest | JUN 2"
 ---
 
 Bring film making to the farmyard May 31st - June 2nd, 2013
 
 Announcing the first Film On The Farm 48 Hour challenge! North 
-Vancouverâ€™s Maplewood Farm is opening its doors to creative 
+Vancouver’s Maplewood Farm is opening its doors to creative 
 filmmakers who think they have what it takes to write, shoot and edit a 
 10 minute movie in just one weekend!
 

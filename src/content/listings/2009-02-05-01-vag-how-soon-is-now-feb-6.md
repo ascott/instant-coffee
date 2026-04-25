@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: How Now Is Too Soon"
 emailDate: "Thu, 05 Feb 2009 09:40:10 -0800"
 number: 1
 type: ""
+venue: "VAG"
 summary: "VAG | How Soon is Now | FEB 6"
 ---
 

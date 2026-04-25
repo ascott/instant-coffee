@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 9
 type: "TALK"
+venue: "Newton Recreation Centre"
 summary: "Newton Recreation Centre | Cultural Grants 2024 Information Sessions | 630PM | AUG 21"
 ---
 

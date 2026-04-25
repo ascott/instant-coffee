@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 38
 type: "CALL"
+venue: "Vancouver Park Board"
 summary: "Vancouver Park Board | Fieldhouse Activation Program | JUL 19"
 ---
 

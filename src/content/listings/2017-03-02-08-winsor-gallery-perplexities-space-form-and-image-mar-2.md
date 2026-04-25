@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 8
 type: "OPENING"
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Perplexities: Space, Form and Image | MAR 2"
 ---
 

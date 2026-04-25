@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 34
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Antimatter Media Art [VICTORIA] | Oct 20 to Nov 25 | OCT 20"
 ---
 

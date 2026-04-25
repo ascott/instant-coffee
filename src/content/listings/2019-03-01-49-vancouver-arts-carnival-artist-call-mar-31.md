@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 49
 type: "CALL"
+venue: "Vancouver Arts Carnival"
 summary: "Vancouver Arts Carnival | Artist Call | MAR 31"
 ---
 

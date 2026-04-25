@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 5
 type: "OPENING"
+venue: "EQUINOX GALLERY"
 summary: "EQUINOX GALLERY | Hamed Rashtian: Reveries | 5PM | JUL 7"
 ---
 

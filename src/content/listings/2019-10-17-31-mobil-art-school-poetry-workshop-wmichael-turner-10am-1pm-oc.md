@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 31
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Poetry Workshop w/Michael Turner | 10AM-1PM | OCT 19"
 ---
 

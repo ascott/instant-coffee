@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 8
 type: "EDUCATION"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | The Limits of Aurality | MAR 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 27
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivers Monthly Félicia Atkinson | 7PM | APR 18"
 ---
 

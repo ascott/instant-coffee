@@ -4,47 +4,48 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 17
 type: ""
-summary: "Richmond Art Gallery | Job Posting â€“ School Art Program Coordinator | DEC 10"
+venue: "Richmond Art Gallery"
+summary: "Richmond Art Gallery | Job Posting – School Art Program Coordinator | DEC 10"
 ---
 
 Richmond Art Gallery
-Job Posting â€“ School Art Program Coordinator, Richmond Art Gallery
+Job Posting – School Art Program Coordinator, Richmond Art Gallery
 
 Applications are now being accepted for the School Art Program Coordinator
 position at the Richmond Art Gallery. This well established,
 multi-disciplinary visual arts program provides exhibition-related art
 workshops and tours for Pre-K to Secondary students from schools throughout
 the LMR. The School Art Coordinator also provides professional development
-workshops for regional teachers, prepares teachersâ€™ guides for each
+workshops for regional teachers, prepares teachers’ guides for each
 exhibition (5/year), leads the Spring Art Camp program and assists the
 Education and Public Programs Coordinator on special projects.
 
 Primary Duties/Responsibilities
 
-Â· Develops school programs and learning resources based on exhibitions
+· Develops school programs and learning resources based on exhibitions
 
-Â· Develop marketing materials for school program educational programs
+· Develop marketing materials for school program educational programs
 
-Â· Recruit, train, schedule and supervise volunteers to assist with
+· Recruit, train, schedule and supervise volunteers to assist with
 school programs
 
-Â· Plan, schedule, and facilitate workshops, courses, and various
+· Plan, schedule, and facilitate workshops, courses, and various
 art programs for school groups and teachers; maintain booking schedule
 
-Â· Assist Education Coordinator with the preparation of grant and
+· Assist Education Coordinator with the preparation of grant and
 funding applications
 
-Â· Works with Secondary School Art Teachers in organising annual
+· Works with Secondary School Art Teachers in organising annual
 Arts for Life Conference
 
-Â· Manage budget, plan and purchase art materials
+· Manage budget, plan and purchase art materials
 
-Â· Facilitate gallery tours to audience members of all ages
+· Facilitate gallery tours to audience members of all ages
 
-Â· Assist with the management of projects and conferences; assist
+· Assist with the management of projects and conferences; assist
 with post-project evaluations and follow-up
 
-Â· Attend meetings, events, conferences and other professional
+· Attend meetings, events, conferences and other professional
 development opportunities
 
 Qualifications

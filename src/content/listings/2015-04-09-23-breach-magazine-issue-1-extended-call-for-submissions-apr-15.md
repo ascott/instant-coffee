@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 23
 type: "CALL"
+venue: "Breach Magazine"
 summary: "Breach Magazine | Issue 1 Extended Call for Submissions | APR 15"
 ---
 
@@ -35,7 +36,7 @@ not intend to limit our content based on the colonial construction of the
 borders, and therefore are interested in issues that extend beyond the
 national level as well. Our call for submissions on the theme of decolonial
 aesthetics pertains to all off-shoots of colonialism that propagate the
-imperial agendaâ€”capitalism, legacies of the slave trade, and environmental
+imperial agenda—capitalism, legacies of the slave trade, and environmental
 degradation, to name but a few.
 
 Complete submission details can be found at http://www.breachmagazine.ca.

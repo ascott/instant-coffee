@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 4
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Dear Friends & Readings | 730PM | JUL 6"
 ---
 

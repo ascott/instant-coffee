@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 16
 type: ""
+venue: "Irving K. Barber Learning Center,"
 summary: "Irving K. Barber Learning Center, | iFormations, a group exhibition | until | AUG 31"
 ---
 

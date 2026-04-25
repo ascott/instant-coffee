@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 6
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Sean George | JAN 9"
 ---
 

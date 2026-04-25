@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 20
 type: "EDUCATION"
+venue: "Artspeak Radio Digest"
 summary: "Artspeak Radio Digest | ARD: Proximities | 9PM | AUG 4"
 ---
 

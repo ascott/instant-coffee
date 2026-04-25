@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 21
 type: "CALL"
+venue: "ALCHEMY SPRING ISLAND 2026"
 summary: "ALCHEMY SPRING ISLAND 2026 | residency | NOV 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 43
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Black Arts Vancouver | Movie Night Fundraiser | FEB 7"
 ---
 

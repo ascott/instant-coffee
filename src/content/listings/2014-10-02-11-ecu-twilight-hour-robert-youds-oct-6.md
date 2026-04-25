@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 11
 type: ""
+venue: "ECU"
 summary: "ECU | Twilight Hour | Robert Youds | OCT 6"
 ---
 
@@ -16,7 +17,7 @@ Robert Youds was born in Burnaby holds a BFA from UVic and an MFA from York
 University and is currently a Professor of Visual Arts at University of
 Victoria.
 
-â€œSince the 1980s, Robert Youds has conducted a singular investigation of
+“Since the 1980s, Robert Youds has conducted a singular investigation of
 the material conditions of the pictorial--a path that has led him from
 paintings with cut-out apertures through stretched lines of colour made of
 strands of latex and velvet cushions bound with ropes through to his recent

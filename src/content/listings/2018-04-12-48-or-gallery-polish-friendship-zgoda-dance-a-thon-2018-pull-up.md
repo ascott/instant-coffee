@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 48
 type: "FUNDRAISER"
+venue: "Or Gallery @ Polish Friendship ‘Zgoda’"
 summary: "Or Gallery @ Polish Friendship ‘Zgoda’ | Dance-a-thon 2018: Pull Up To The Bumper | 8PM-1AM | APR 27"
 ---
 

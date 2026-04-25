@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 42
 type: ""
+venue: "JOB"
 summary: "JOB | Fort Gallery [Fort Langley] | Executive Director – Part Time position | DEC 31"
 ---
 

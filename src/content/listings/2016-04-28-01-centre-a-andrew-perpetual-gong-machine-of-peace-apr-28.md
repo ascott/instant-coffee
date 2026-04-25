@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 1
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Andrew: Perpetual Gong Machine of Peace | APR 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 15
 type: "OPENING"
+venue: "AUDAIN GALLERY SFU Hastings"
 summary: "AUDAIN GALLERY SFU Hastings | Elif Saydam: Hospitality | 7PM | OCT 17"
 ---
 

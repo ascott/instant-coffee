@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 3
 type: "CALL"
+venue: "Caetani Cultural Centre (Vernon)"
 summary: "Caetani Cultural Centre (Vernon) | Funded Ceramic Artist-in-Residence Program"
 ---
 

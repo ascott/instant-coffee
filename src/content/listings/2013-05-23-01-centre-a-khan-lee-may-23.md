@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 1
 type: ""
+venue: "Centre A"
 summary: "Centre A | Khan Lee | MAY 23"
 ---
 
@@ -42,7 +43,7 @@ and celebratory.
 Khan Lee was born in Seoul, Korea where he studied architecture at
 Hong-Ik University, and studied fine art at Emily Carr Institute of Art
 and Design in Vancouver. He is a founding member of Vancouver
-based artist collective Ã¢â‚¬ËœIntermissionÃ¢â‚¬â„¢ and presently a member of 
+based artist collective â€˜Intermissionâ€™ and presently a member of 
 Instant Coffee artist collective. His experiments with form, medium, 
 content, and expression have resulted in performance, sculpture, and 
 media works. Lee lives and works in Vancouver BC, and has exhibited

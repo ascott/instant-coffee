@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 23
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Emma LaMorte & Adam Shiu-Yang Shaw | JAN 16"
 ---
 
@@ -13,7 +14,7 @@ Friday Jan 16, 7-10 pm
 
 INTERNAL CLIMATES
 
-[â€¦-Command from control
+[…-Command from control
 -This is engine 53 we have arrived at location fourty-two hundred Firewalk
 Way permission to investigate
 -Granted
@@ -25,7 +26,7 @@ i repeat not a residential. it is an abandoned building
 -Medic 46 engine 52 ladder 56 have you arrived at the location?
 -Engine 52 ladder 56 affirmative, we have left our vehicles and are in the
 building
--Car 36 I canâ€™t seem to find you in here, can you state your location?
+-Car 36 I can’t seem to find you in here, can you state your location?
 -Ladder 56 we entered the north side of the premises, climbing a stairwell
 to the third floor
 -Car 36 I entered the west end of the building heading south but I seem to
@@ -35,8 +36,8 @@ be trapped by gates on all sides. Control for back up to the west entrance.
 -Negative I must be farther south now
 -Medic 46 we seem to be lost inside the building now, control for back up
 to the north entrance, search for flashing lights
--Roger that, ladder 56 no sight of lights from my position, weâ€™ll keep
-searchingâ€¦]
+-Roger that, ladder 56 no sight of lights from my position, we’ll keep
+searching…]
 
 A new collaboration by Emma LaMorte and Adam Shiu-Yang Shaw
 

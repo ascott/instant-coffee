@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 62
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Relief Printing w/Maya U Schueller-Elmes | 130-4PM | OCT 26"
 ---
 

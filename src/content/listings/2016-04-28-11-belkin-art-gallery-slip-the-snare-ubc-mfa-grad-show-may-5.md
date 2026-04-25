@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 11
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Slip the Snare: UBC MFA Grad Show | MAY 5"
 ---
 

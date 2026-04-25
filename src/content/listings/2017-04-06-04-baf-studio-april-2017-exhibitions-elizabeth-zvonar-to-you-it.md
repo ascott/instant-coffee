@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 4
 type: "OPENING"
+venue: "BAF Studio April 2017 Exhibitions"
 summary: "BAF Studio April 2017 Exhibitions | Elizabeth Zvonar: To you it was fast | APR 6"
 ---
 

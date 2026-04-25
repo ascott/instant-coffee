@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: and that is it"
 emailDate: "Thu, 02 Jul 2015 11:25:48 -0700"
 number: 3
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Ute Aurand: Eye Movement Stillness | JUL 8"
 ---
 

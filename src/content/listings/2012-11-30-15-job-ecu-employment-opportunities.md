@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 15
 type: ""
+venue: "JOB"
 summary: "JOB | ECU | EMPLOYMENT OPPORTUNITIES |"
 ---
 
@@ -23,7 +24,7 @@ Assistant Professor - Industrial Design
 Assistant Professor - Interaction Design 
 Assistant Professor - History and Theory of Design
 Assistant Professor - English (EAL/ESL Specialization)
-Assistant/Associate Professor â€“ Illustrative Practices
+Assistant/Associate Professor – Illustrative Practices
 
 Please visit ecuad.ca/jobs for details. 
 

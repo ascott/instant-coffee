@@ -364,9 +364,9 @@ Vancouver 2010 Cultural Olympiad.
 
 The Western Front Front - Another False Front is an architectural
 intervention constructed on the exterior of the Western Front building.
-Terris' addition consists of a new, larger faÃ§ade, including parapet and
+Terris' addition consists of a new, larger façade, including parapet and
 cornice. Exaggerating its formal elements, the structure has been built at
-one-and-a-half times scale, and installed on top of the existing faÃ§ade at
+one-and-a-half times scale, and installed on top of the existing façade at
 a slight angle.
 
 Historically, wooden false front were ornamental structures erected on the
@@ -385,7 +385,7 @@ This affiliation grew into the Western Front Society, one of Canada's
 longest-running artist-run centres.
 
 Drawing from architectural history to contemporary discussions around
-faÃ§adism (the practice of demolishing a building while leaving its faÃ§ade
+façadism (the practice of demolishing a building while leaving its façade
 intact), Terris' project juxtaposes bygone projections of culture and
 prosperity with references to the rapidly expanding economic cycle of
 modern-day Vancouver.
@@ -854,7 +854,7 @@ decade as a curator and administrator at major institutions in the United
 States. From 2001-06 she worked in the curatorial and conservation
 departments of the Solomon R. Guggenheim Museum. There she co-curated the
 groundbreaking exhibition -Seeing Double: Emulation in Theory and Practice-
-and coordinated the Deutsche Guggenheim exhibition Ã¢-Nam June Paik: Global
+and coordinated the Deutsche Guggenheim exhibition â-Nam June Paik: Global
 Groove 2004- in Berlin. She was also the coordinator of the Variable Media
 Network, an international consortium of art institutions dedicated to the
 preservation and documentation of video, performance and installation art.
@@ -970,7 +970,7 @@ lone, far from impassive NDN survives the
 inarticulate, intoxicated streets of capitalism's cities,
 might be mistaken for overheard conversation,
 except for the vivid ironies, ideas and hope it finally
-expresses. Â¦words jangled out/ of my mouth/
+expresses. ¦words jangled out/ of my mouth/
 fluttering like razorblade butterflies And the
 urban Indian becomes a lover, a father and, yes, a
 poet.
@@ -1630,8 +1630,8 @@ other professionals from the Netherlands and abroad in a very condensed
 period of time, and having the chance to exchange ideas with them, either
 during thematic seminars or during informal encounters. Guest teachers over
 the past years have been e.g. Carlos Basualdo (US) , Gerardo Mosquera
-(CU/US), Paul O'Neill (GB), Jacques RanciÃ¨re (FR), Simon Sheik (SE), Pier
-Luigi Tazzi (IT), Teresa Gleadowe (UK) and Nina MÃ¶ntmann.
+(CU/US), Paul O'Neill (GB), Jacques Rancière (FR), Simon Sheik (SE), Pier
+Luigi Tazzi (IT), Teresa Gleadowe (UK) and Nina Möntmann.
 
 - the opportunity to get acquainted with de Appel from 'the inside', and
 get a better

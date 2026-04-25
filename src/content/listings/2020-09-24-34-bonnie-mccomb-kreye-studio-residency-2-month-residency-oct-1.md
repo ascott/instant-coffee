@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 34
 type: "CALL"
+venue: "Bonnie McComb Kreye Studio Residency"
 summary: "Bonnie McComb Kreye Studio Residency | 2 month residency | OCT 15"
 ---
 

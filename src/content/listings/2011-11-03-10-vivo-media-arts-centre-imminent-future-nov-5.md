@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 10
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Imminent Future | NOV 5"
 ---
 
@@ -30,7 +31,7 @@ Harjap Grewal is an anti-authoritarian organizer/activist based in
 Vancouver, Coast Salish Territories, working with the No One Is Illegal 
 collective and various local campaigns. He organizes within the local 
 South Asian community, with communities of color, and in solidarity 
-with indigenous sovereignty struggles. Harjapâ€™s environmental activism 
+with indigenous sovereignty struggles. Harjap’s environmental activism 
 has been primarily in support of indigenous communities, and against 
 the Alberta Tar Sands development and infrastructure. In recent years, 
 he has done workshops and presentations on the economic crisis, the 
@@ -62,7 +63,7 @@ published numerous articles and chapters in the areas of
 contemporary political theory, indigenous thought and politics, and 
 radical social and political thought (marxism, anarchism, post-
 colonialism). His most recent work on Frantz Fanon and the politics of 
-recognition won Contemporary Political Theoryâ€™s Annual Award for 
+recognition won Contemporary Political Theory’s Annual Award for 
 Best Article of the Year in 2007, and he is currently writing about the 
 transformational value of "revenge" in relation to indigenous and anti-
 colonial struggles. He is Yellowknives Dene. He will speak about his 

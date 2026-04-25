@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 4
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | FIONA ACKERMAN: Herbaria | 5-8PM | JUN 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 22
 type: ""
+venue: "City of Abbotsford"
 summary: "City of Abbotsford | PUBLIC ART FORUM: Cath Brunner and Buster Simpson | APR 6"
 ---
 

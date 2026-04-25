@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 25
 type: "EVENT"
+venue: "Cinevolution Media Arts Society"
 summary: "Cinevolution Media Arts Society | Chinatown Mural Walks | MAY 3"
 ---
 

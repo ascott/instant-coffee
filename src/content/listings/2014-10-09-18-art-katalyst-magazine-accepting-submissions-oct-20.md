@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: west winds of loss"
 emailDate: "Thu, 09 Oct 2014 11:55:48 -0700"
 number: 18
 type: ""
+venue: "Art Katalyst Magazine"
 summary: "Art Katalyst Magazine | ACCEPTING SUBMISSIONS | OCT 20"
 ---
 

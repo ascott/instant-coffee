@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 18
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Re-Photography: Multi-Format Images to 16mm Film | MAY 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 44
 type: "CALL"
+venue: "(s)hiver arts festival (Yukon)"
 summary: "(s)hiver arts festival (Yukon) | Call for Submissions | JAN 25-27 | JAN 25"
 ---
 

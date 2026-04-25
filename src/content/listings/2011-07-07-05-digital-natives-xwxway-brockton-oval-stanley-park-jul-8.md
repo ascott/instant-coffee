@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 5
 type: ""
-summary: "Digital Natives | XwÃ¡Ã½xway (Brockton Oval, Stanley Park) | JUL 8"
+venue: "Digital Natives"
+summary: "Digital Natives | Xwáýxway (Brockton Oval, Stanley Park) | JUL 8"
 ---
 
 JULY 8, 9, 10, 2011, Noon to 11pm
 
-XwÃ¡Ã½xway (Brockton Oval, Stanley Park), Vancouver
+Xwáýxway (Brockton Oval, Stanley Park), Vancouver
 
 Free admission
 
-Other Sights for Artistsâ€™ Projects is pleased to announce that Digital Natives will 
+Other Sights for Artists’ Projects is pleased to announce that Digital Natives will 
 be included in the TIME-BASED video program, as part of SummerLive at 
 Brockton Oval in Stanley Park, Vancouver. This free event will feature outdoor 
 music stages, family entertainment, sports activities, performing and visual arts 
@@ -30,7 +31,7 @@ Vancouver organizations and archives.
 
 The Time-Based program is available here.
 
-Read Raymond Boisjolyâ€™s commentary on XwÃ¡Ã½xway
+Read Raymond Boisjoly’s commentary on Xwáýxway
 
 Time-Based blogspot.
 

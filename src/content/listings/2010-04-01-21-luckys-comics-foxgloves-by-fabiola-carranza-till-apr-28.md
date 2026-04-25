@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: doing 'nothings' while everyone el
 emailDate: "Thu, 01 Apr 2010 03:24:17 -0700"
 number: 21
 type: ""
+venue: "Lucky's Comics"
 summary: "Lucky's Comics | FOXGLOVES by Fabiola Carranza | till | APR 28"
 ---
 

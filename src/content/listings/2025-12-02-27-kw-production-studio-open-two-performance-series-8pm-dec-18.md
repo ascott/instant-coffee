@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 27
 type: "PERFORMANCE"
+venue: "KW Production Studio"
 summary: "KW Production Studio | open two Performance Series | 8PM | DEC 18"
 ---
 

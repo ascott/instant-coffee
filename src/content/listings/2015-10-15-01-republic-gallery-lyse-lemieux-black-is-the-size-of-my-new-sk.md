@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 1
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Lyse Lemieux - Black is the size of my new skirt | OCT 15"
 ---
 
@@ -19,17 +20,17 @@ Opening Reception: October 15, 6-8pm
 
 Republic Gallery is pleased to present Black is the size of my new skirt, a
 solo exhibition of new work by Lyse Lemieux. This latest series of
-sculptural drawings continues Lemieuxâ€™s ongoing fascination with gesture,
+sculptural drawings continues Lemieux’s ongoing fascination with gesture,
 materiality and abstraction.
 
 The pleated skirt is a recurrent motif throughout the exhibition; its
 sequential lines represent at once a concrete, pictorial figuration and the
-gesticulate trajectory of motion. Lemieuxâ€™s body-scaled works tease an
+gesticulate trajectory of motion. Lemieux’s body-scaled works tease an
 oblique, elusive familiarity that hints at portraiture or figure-drawing,
 even as any discernible features are obfuscated amid interrupted movements.
 These bold, black lines of cut wool manifest the ink lines of a drawing;
 here, the gesture is re-articulated through the felt fabric. The
-trajectories of these lines â€” and their collisions among assemblages of
+trajectories of these lines — and their collisions among assemblages of
 papers, prints, and textiles â€” might also be â€œfeltâ€  through a haptic
 visuality, one which Lemieux alludes to in the show's synaesthetic title.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 20
 type: "EXHIBITION"
+venue: "Art Council of Surrey Gallery"
 summary: "Art Council of Surrey Gallery | Everywhere, Forever. Immigrant Group Exhibition. | AUG 15"
 ---
 

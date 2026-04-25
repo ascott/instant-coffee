@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 54
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cinematheque | 4th Small-File Media Festival | OCT 20-21 | OCT 20"
 ---
 

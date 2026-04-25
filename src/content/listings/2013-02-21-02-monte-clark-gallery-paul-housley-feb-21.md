@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 2
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | PAUL HOUSLEY | FEB 21"
 ---
 
@@ -19,7 +20,7 @@ Gallery will present a solo exhibition of works by UK artist Paul
 Housley.
 
 Housley has a singular ability to represent his subjects in a style
-that is both direct andobtuse. Though many of Housleyâ€™s paintings
+that is both direct andobtuse. Though many of Housley’s paintings
 reference the old masters, their small scale is anti-grandiose,
 fitting equally alongside his paintings of commonplace objects. The
 weight of his subject matter, whether iconic portrait or every-day
@@ -30,12 +31,12 @@ Alongside paintings presented in the exhibition, Housley will show a
 selection of his sculptural works. As the artist commonly references
 objects rather than photographs when composing his paintings, these
 additional works create a complimentary dialogue and augment an
-understanding of the artistâ€™s practice.
+understanding of the artist’s practice.
 
 Paul Housley received his M.A. in painting from the Royal College of
 Art in London in 1995. He has recently exhibited at the Peter Bergman
 Gallery (Stockholm), White Columns (New York), Andrea Rosen Gallery
-(New York), and Poppy Sebire Gallery (London). Housleyâ€™s work has been
+(New York), and Poppy Sebire Gallery (London). Housley’s work has been
 printed in numerous publications including Artforum, Modern Painters,
 The Independent, and ArtSlant.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 14
 type: "EVENT"
+venue: "XINEMA"
 summary: "XINEMA | 3!3!3!: XINEMA's 3-year Anniversary Party! | DEC 13"
 ---
 

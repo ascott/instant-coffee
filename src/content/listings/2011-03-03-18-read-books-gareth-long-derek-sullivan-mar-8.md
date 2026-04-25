@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 18
 type: ""
+venue: "READ books"
 summary: "READ books | Gareth Long & Derek Sullivan | MAR 8"
 ---
 
@@ -24,9 +25,9 @@ Long and Derek Sullivan in residence to perform their on-going project The
 Illustrated Dictionary of Received Ideas.
 
 Seated at their Invented Desk For Copying, a desk re-imagined from the
-unfinished pages of Gustave Flaubertâ€™s last novel Bouvard and PÃ©cuchet, the
-artists work towards illustrating and translating every entry in Flaubertâ€™s
-The Dictionary of Received Ideas. Flaubertâ€™s satirical dictionary contains
+unfinished pages of Gustave Flaubert’s last novel Bouvard and Pécuchet, the
+artists work towards illustrating and translating every entry in Flaubert’s
+The Dictionary of Received Ideas. Flaubert’s satirical dictionary contains
 950 biting and surprisingly contemporary entries which Long and Sullivan
 interpret and compile into their collected illustrations. This work forms
 an on-going series of bookworks titled The Illustrated Dictionary of
@@ -35,7 +36,7 @@ Received Ideas.
 Long and Sullivan have performed numerous public drawing sessions to
 further their work on The Illustrated Dictionary of Received Ideas at
 galleries and book stores including Printed Matter Inc, MoMA PS1, Mercer
-Union, Art Metropole, The MusÃ©e Juste Pour Rire in Montreal, Flat Time
+Union, Art Metropole, The Musée Juste Pour Rire in Montreal, Flat Time
 House in London, UK, and Shandy Hall in Coxwold, UK.
 
 Gareth Long lives and works in New York. He holds a BA in Visual Studies

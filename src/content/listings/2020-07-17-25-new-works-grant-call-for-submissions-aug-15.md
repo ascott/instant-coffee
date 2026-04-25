@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 25
 type: "CALL"
+venue: "New Works Grant"
 summary: "New Works Grant | Call for Submissions | AUG 15"
 ---
 

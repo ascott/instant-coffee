@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 16
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Environmental art movement showcased through nine | FEB 8"
 ---
 

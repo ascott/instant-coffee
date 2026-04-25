@@ -146,7 +146,7 @@ Packing Plant.)
 The Cactus Packing Project is an ongoing collaboration/travelling
 exhibition by Filipino artist, Christian Vistan in Delta, BC and potter,
 Jasmine Baetz in Boston, MA. This will be the second iteration/stop of
-The Cactus Packing Projectâ€”the first, as part of a group exhibition,
+The Cactus Packing Project—the first, as part of a group exhibition,
 Four Significant Landscapes, at The Packing Plant, an artist-run project
 space located in Nashville, TN. This iteration of The Cactus Packing
 Project at the Ladner Pioneer Library involves several cacti shipped

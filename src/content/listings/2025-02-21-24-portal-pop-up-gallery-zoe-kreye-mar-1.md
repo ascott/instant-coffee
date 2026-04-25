@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 24
 type: "OPENING"
+venue: "PORTAL POP-UP GALLERY"
 summary: "PORTAL POP-UP GALLERY | Zoe Kreye | MAR 1"
 ---
 

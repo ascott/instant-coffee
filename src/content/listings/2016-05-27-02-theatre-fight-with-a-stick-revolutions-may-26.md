@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 2
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Fight With a Stick | Revolutions | MAY 26"
 ---
 

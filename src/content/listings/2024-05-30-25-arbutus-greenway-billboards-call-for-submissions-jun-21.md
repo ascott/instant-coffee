@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 25
 type: "CALL"
+venue: "Arbutus Greenway Billboards"
 summary: "Arbutus Greenway Billboards | call for submissions | JUN 21"
 ---
 

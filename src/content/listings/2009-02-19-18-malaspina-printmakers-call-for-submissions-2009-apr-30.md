@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: come mint meant breathe"
 emailDate: "Thu, 19 Feb 2009 10:50:12 -0800"
 number: 18
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Call for Submissions 2009 | APR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 14
 type: "OPENING"
+venue: "SFU Audain Gallery Hastings"
 summary: "SFU Audain Gallery Hastings | Ali Shariq Jamali and Jess MacCormack | 6PM | OCT 15"
 ---
 

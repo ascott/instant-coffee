@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 17
 type: "TALK"
+venue: "Langara College"
 summary: "Langara College | Speakers Series 2008: Instant Coffee & Marko Simci | NOV 18"
 ---
 

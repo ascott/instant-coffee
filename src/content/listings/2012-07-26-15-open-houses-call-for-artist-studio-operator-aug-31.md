@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 15
 type: ""
+venue: "Open Houses"
 summary: "Open Houses | Call for Artist Studio Operator | AUG 31"
 ---
 
@@ -52,4 +53,4 @@ http://www.facebook.com/mindofasnail
 We've got great references from previous landlords, good credit etc.
 We are ready to move anytime from now to October and are looking to 
 spend about $1000/month.
-email Jessica or ChloÃ© at mindofasnail@gmail.com
+email Jessica or Chloé at mindofasnail@gmail.com

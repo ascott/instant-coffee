@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 11
 type: ""
+venue: "Langara College Centre"
 summary: "Langara College Centre | Speaker Series - Ken Lum | MAR 3"
 ---
 
@@ -25,9 +26,9 @@ the Sydney Biennale, Venice Biennale, Documenta XI in Kassel, Germany, the
 Ken Lum was Head of the Graduate Program in Studio Art from 2000 to 2006 at
 the University of British Columbia, where he taught from 1990 until 2006.
 He also spent two years as a visiting professor at the ecole Nationale
-SuprÃƒÂ©rieure des Beaux-Arts in Paris. Lum guest-taught at the Akademie der
+SuprÃ©rieure des Beaux-Arts in Paris. Lum guest-taught at the Akademie der
 Bildenden Kunst in Munich, Germany, the China Art Academy in Hangzhou,
-China and the lÃ¢ Ecole da Arts Plastique in Fort de France, Martinique. He
+China and the lâ Ecole da Arts Plastique in Fort de France, Martinique. He
 has been widely published and is the Founding Editor of Yishu: The Journal
 of Contemporary Chinese Art. Lum was made a Guggenheim Fellow in 1999 and
 awarded a Killam Award for Outstanding Research in 1998 and the Hnatyshyn

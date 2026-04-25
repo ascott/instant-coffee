@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: new year"
 emailDate: "Wed, 27 Dec 2023 23:35:08 -0800"
 number: 8
 type: "CALL"
+venue: "Langley Arts Council"
 summary: "Langley Arts Council | My Heritage - Call to Artists | FEB 2"
 ---
 

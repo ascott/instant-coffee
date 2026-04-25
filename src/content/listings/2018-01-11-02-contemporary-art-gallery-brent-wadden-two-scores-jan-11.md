@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 2
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Brent Wadden: Two Scores | JAN 11"
 ---
 

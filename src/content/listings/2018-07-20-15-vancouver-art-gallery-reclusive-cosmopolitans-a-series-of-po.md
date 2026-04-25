@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 15
 type: "EVENT"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Reclusive Cosmopolitans: A Series of Poetry Activa | JUL 24"
 ---
 

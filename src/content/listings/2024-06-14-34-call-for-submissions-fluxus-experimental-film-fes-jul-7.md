@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 34
 type: "CALL"
+venue: "Call for Submissions: Fluxus Experimental Film Fes"
 summary: "Call for Submissions: Fluxus Experimental Film Fes | JUL 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 17
 type: "CALL"
+venue: "The Public Art Program"
 summary: "The Public Art Program | City of Vancouver | JUN 7"
 ---
 

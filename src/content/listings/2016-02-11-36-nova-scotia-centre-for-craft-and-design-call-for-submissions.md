@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 36
 type: "CALL"
+venue: "Nova Scotia Centre for Craft and Design"
 summary: "Nova Scotia Centre for Craft and Design | Call for Submissions | MAR 18"
 ---
 

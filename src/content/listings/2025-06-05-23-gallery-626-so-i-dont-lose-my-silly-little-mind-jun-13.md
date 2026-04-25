@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 23
 type: "OPENING"
+venue: "Gallery 626"
 summary: "Gallery 626 | so I don't lose my silly little mind... | JUN 13"
 ---
 

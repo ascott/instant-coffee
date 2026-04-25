@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yes we no"
 emailDate: "Wed, 03 Dec 2008 22:30:06 -0800"
 number: 5
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Artspeak | Retrospect | DEC 5"
 ---
 
@@ -12,7 +13,7 @@ Retrospect
 Publication available at Artspeak starting December 5th, 2008
 
 Retrospect
-Texts by Juan A. GaitÃ¡n, Melvin Moti and Susan Sontag. Reprinted
+Texts by Juan A. Gaitán, Melvin Moti and Susan Sontag. Reprinted
 Postscripts by Colin Browne, Kathleen Ritter and Althea Thauberger.
 
 Work by Don Coltman, Kristan Horton, Jack Lindsay, Melvin Moti, Taras

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 10
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO Media Arts Centre | Video Editing Intermediate | MAR 24"
 ---
 

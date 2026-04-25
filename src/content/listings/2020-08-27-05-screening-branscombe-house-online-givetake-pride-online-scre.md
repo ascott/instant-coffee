@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 5
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Branscombe House [ONLINE] | Give/Take: Pride Online Screening | 7PM | AUG 27"
 ---
 

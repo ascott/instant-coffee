@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 16
 type: "OPENING"
+venue: "Macaulay + Co"
 summary: "Macaulay + Co | CAROLINE MONNET Materials of Memory | 4PM | JAN 17"
 ---
 

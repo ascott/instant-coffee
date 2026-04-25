@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking a turn for the better"
 emailDate: "Thu, 06 May 2010 10:39:18 -0700"
 number: 3
 type: ""
+venue: "Jeffrey Boone Gallery"
 summary: "Jeffrey Boone Gallery | Jonathan Syme | MAY 6"
 ---
 

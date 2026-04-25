@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 9
 type: "TALK"
+venue: "Vancouver Art Gallery (Online)"
 summary: "Vancouver Art Gallery (Online) | ART CONNECTS | Transboundary Experiences | 1:30PM | JUN 16"
 ---
 

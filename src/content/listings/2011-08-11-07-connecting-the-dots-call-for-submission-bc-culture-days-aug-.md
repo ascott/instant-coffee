@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Righteousness and Recklessness"
 emailDate: "Thu, 11 Aug 2011 11:16:30 -0700"
 number: 7
 type: ""
+venue: "Connecting the Dots"
 summary: "Connecting the Dots | CALL FOR SUBMISSION: BC Culture Days | AUG 21"
 ---
 

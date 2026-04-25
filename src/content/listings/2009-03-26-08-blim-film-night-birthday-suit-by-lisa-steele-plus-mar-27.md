@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 8
 type: ""
+venue: "BLIM Film night"
 summary: "BLIM Film night | \"Birthday Suit\" by Lisa Steele plus | MAR 27"
 ---
 

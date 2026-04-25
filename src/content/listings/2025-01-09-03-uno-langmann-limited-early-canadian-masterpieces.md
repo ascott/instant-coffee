@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Uno Langmann Limited"
 summary: "Uno Langmann Limited | EARLY CANADIAN MASTERPIECES"
 ---
 

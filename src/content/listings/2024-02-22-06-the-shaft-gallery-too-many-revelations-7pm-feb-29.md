@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 6
 type: "OPENING"
+venue: "The Shaft Gallery"
 summary: "The Shaft Gallery | Too Many Revelations | 7PM | FEB 29"
 ---
 

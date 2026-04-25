@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 7
 type: ""
+venue: "UBC"
 summary: "UBC | FORM & ENERGY LECTURE SERIES | PHILIPPE RAHM | MAR 27"
 ---
 

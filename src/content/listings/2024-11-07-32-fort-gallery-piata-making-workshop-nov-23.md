@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 32
 type: "EDUCATION"
+venue: "Fort Gallery"
 summary: "Fort Gallery | Piñata making workshop | NOV 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Britannia Art Gallery"
 summary: "Britannia Art Gallery | Ghost Stories | NOV 6"
 ---
 

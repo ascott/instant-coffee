@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 15
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Celebration Hall at Mountain View Cemetery | TRANSFIGURED LIGHT: PROVERB | SEP 27"
 ---
 

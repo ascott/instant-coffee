@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 34
 type: "OPENING"
+venue: "Connection Salon Gallery"
 summary: "Connection Salon Gallery | Making art with friends | 530PM | APR 25"
 ---
 

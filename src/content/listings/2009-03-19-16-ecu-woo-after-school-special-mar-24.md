@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 16
 type: ""
+venue: "ECU"
 summary: "ECU | Woo After-School Special | MAR 24"
 ---
 

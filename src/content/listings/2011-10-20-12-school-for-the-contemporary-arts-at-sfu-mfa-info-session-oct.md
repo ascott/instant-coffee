@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 12
 type: ""
+venue: "SCHOOL FOR THE CONTEMPORARY ARTS at SFU"
 summary: "SCHOOL FOR THE CONTEMPORARY ARTS at SFU | MFA INFO SESSION | OCT 25"
 ---
 

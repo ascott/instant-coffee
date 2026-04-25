@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 6
 type: "EVENT"
+venue: "Moniker Press"
 summary: "Moniker Press | November Open Studio + Book Sale | NOV 11"
 ---
 

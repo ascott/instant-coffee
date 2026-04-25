@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 20
 type: ""
+venue: "ISEA2015"
 summary: "ISEA2015 | CALL FOR PROPOSALS ARTWORKS | AUG 10"
 ---
 
@@ -22,10 +23,10 @@ overarching theme of disruption.
 The International Symposium on Electronic Art (ISEA) will be held in 
 Vancouver, Canada August 14 - 18, 2015. 
 
-ISEA is one of the worldâ€™s most important international academic 
+ISEA is one of the world’s most important international academic 
 arts/technology events for the interdisciplinary discussion and showcase of 
 creative productions applying new technologies in art for interactive, 
-electronic and digital media. Itâ€™s an event that annually brings together 
+electronic and digital media. It’s an event that annually brings together 
 artists, academics, scientists, and designers. The symposium consists of a 
 peer reviewed conference and a wide-ranging program of artistic activity 
 including partner events such as residencies, screenings, and 
@@ -38,7 +39,7 @@ online works, performances, screenings, installations, visual art, electronic
 literature, works that engage with public space, photography, media art, 
 interdisciplinary projects, music and video. There will be a gallery exhibition 
 as well as works that engage with other sites in and around the downtown 
-Woodwardâ€™s main campus and elsewhere in Vancouver.
+Woodward’s main campus and elsewhere in Vancouver.
 
 The ISEA2015 committee encourages individual artists and/or creative 
 teams to conceptualize and scale their projects with budget considerations 
@@ -46,12 +47,12 @@ in mind. ISEA2015 will consult with selected artists around grants and
 funding applications.
 
 Important dates:
-â€¢	Deadline for submissions: August 10, 2014
-â€¢	Projected Date of Notification of Acceptance: September 15, 
+•	Deadline for submissions: August 10, 2014
+•	Projected Date of Notification of Acceptance: September 15, 
 2014
 
 THEME
-ISEA2015â€™s theme of DISRUPTION invites a conversation about the 
+ISEA2015’s theme of DISRUPTION invites a conversation about the 
 aesthetics of change, renewal, and game-changing paradigms. We look to 
 raw bursts of energy, reconciliation, error, and the destructive and creative 
 forces of the new. Disruption contains both blue sky and black smoke. 
@@ -142,7 +143,7 @@ change? How do defamiliarization and rupture cross from literature into
 other spheres? Using text and code, how can we investigate contemporary 
 aesthetics at this moment within bookforms, narrative, electronic, or 
 generative literature? What are the possibilities of creation and destruction 
-using the medium of code and the function of the literary in todayâ€™s culture?
+using the medium of code and the function of the literary in today’s culture?
 
 SCIENCE + INTERDISCIPLINARITY
 Science informs art as art problematizes science. How have disruptive 
@@ -171,7 +172,7 @@ including but not limited to site-specific work, interactive projects, online
 works, performances, screenings, installations, visual art, electronic 
 literature, works that engage with public space, photography, media art, 
 interdisciplinary projects, and video. There will be a gallery exhibition as 
-well as works that engage with other sites in and around the Woodwardâ€™s 
+well as works that engage with other sites in and around the Woodward’s 
 main campus and elsewhere in Vancouver. 
 
 The ISEA2015 committee encourages individual artists and/or creative 
@@ -181,17 +182,17 @@ funding applications.
 
 To submit work, please send the following by email to isea2015-
 art@sfu.ca. These elements must be compiled into a single PDF. 
-â€¢	Brief project description (200 words)
-â€¢	Thematic statement
-â€¢	1 - 2 images
-â€¢	If submitting a video, send a link to the vimeo
-â€¢	Artist bio or CV 
-â€¢	Proposed budget
-â€¢	Technical and logistic requirements
+•	Brief project description (200 words)
+•	Thematic statement
+•	1 - 2 images
+•	If submitting a video, send a link to the vimeo
+•	Artist bio or CV 
+•	Proposed budget
+•	Technical and logistic requirements
 
 TIMELINE:
-â€¢	Deadline for submissions: August 10, 2014
-â€¢	Projected Date of Notification of Acceptance: September 15, 
+•	Deadline for submissions: August 10, 2014
+•	Projected Date of Notification of Acceptance: September 15, 
 2014
 
 ISEA INTERNATIONAL

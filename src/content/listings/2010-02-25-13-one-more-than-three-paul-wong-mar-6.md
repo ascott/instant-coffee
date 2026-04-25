@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 13
 type: ""
+venue: "One More Than Three"
 summary: "One More Than Three | PAUL WONG | MAR 6"
 ---
 

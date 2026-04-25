@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 23
 type: "OPENING"
+venue: "Cartems Donuterie (534 W Pender St)"
 summary: "Cartems Donuterie (534 W Pender St) | Janet Wang - we will be alright | JAN 20"
 ---
 

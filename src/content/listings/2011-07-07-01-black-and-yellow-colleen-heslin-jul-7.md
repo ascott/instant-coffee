@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 1
 type: ""
+venue: "Black and Yellow"
 summary: "Black and Yellow | Colleen Heslin | JUL 7"
 ---
 
@@ -14,14 +15,14 @@ Picnic at Bluefish Caves
 
 Opening Thursday July 7, 7pm-10pm
 July 8 - August 6, Wed-Sun 10am-10pm
-Room 106 â€“ The Waldorf Hotel
+Room 106 – The Waldorf Hotel
 1489 East Hastings, Vancouver, BC
 
 Picnic at Bluefish Caves is a body of work based on a popular 
-national icon, the Hudsonâ€™s Bay Blanket. These collaged 
+national icon, the Hudson’s Bay Blanket. These collaged 
 images and objects access multiple readings by deconstructing 
 and reassembling formal structures from pre-existing design. 
-Heslinâ€™s re-working of surface aesthetics open new perspectives, 
+Heslin’s re-working of surface aesthetics open new perspectives, 
 ideas and relationships within history and popular culture.
 
 About the Artist

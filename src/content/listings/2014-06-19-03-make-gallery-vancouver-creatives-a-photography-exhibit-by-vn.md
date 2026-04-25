@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 3
 type: ""
+venue: "Make Gallery"
 summary: "Make Gallery | Vancouver Creatives: A Photography Exhibit by VNB | JUN 19"
 ---
 
@@ -31,7 +32,7 @@ contemporarily. Midway between documentary and portraiture, the
 resulting 22 handprinted black-and-white photographs focus on many key 
 industries making up the creative fabric of present-day Vancouver. All 
 photographs are purely analog, a VNB Photo trait, being taken on special 
-coated paper using a massive 1920s 8Ã—10 camera system to deliver 
+coated paper using a massive 1920s 8×10 camera system to deliver 
 authentic and vibrant historical portraits of inspiring Vancouverites.
 
 For over 6 months, VNB reached out industry per industry to dozens of 
@@ -43,11 +44,11 @@ talents and vote for them to win individual industry categories. As a result
 10 of the portraits featured in the exhibition were directly chosen from the 
 participating community.
 
-The intent behind the work isnâ€™t to claim â€˜theâ€™ very best creative 
-Vancouverites but rather to offer an open discourse on â€˜who does whatâ€™ 
+The intent behind the work isn’t to claim ‘the’ very best creative 
+Vancouverites but rather to offer an open discourse on ‘who does what’ 
 remarkably in the most diverse yet inclusive fashion possible. In the end 
-the vision presented isnâ€™t absolute or conclusive: it brings together both the 
-promise and legacy of Vancouverâ€™s creative culture.
+the vision presented isn’t absolute or conclusive: it brings together both the 
+promise and legacy of Vancouver’s creative culture.
 
 View the full portfolio here: http://vnbphoto.com/vancouver-creatives/
 

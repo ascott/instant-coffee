@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 8
 type: ""
+venue: "PHG @ Satellite Gallery"
 summary: "PHG @ Satellite Gallery | Damian Moppett & Andrea Pinheiro | JUL 8"
 ---
 
-Opening Reception: Not Photographâ€”Damian Moppett & Andrea Pinheiro
+Opening Reception: Not Photograph—Damian Moppett & Andrea Pinheiro
 
 Satellite Gallery | Friday, July 8th | 6pm-9pm
 

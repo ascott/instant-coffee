@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 16
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | HEIDI JOHANSEN AND CHARLIE ROBERTS | DEC 10"
 ---
 
 HEIDI JOHANSEN AND CHARLIE ROBERTS
 
 Opening Reception December 10th
-December 10th â€“ January 15th
+December 10th – January 15th
 
 In this new series of sculptures by Heidi Johansen and paintings by
 Charlie Roberts, the artists explore themes of darkness, Norwegian winter

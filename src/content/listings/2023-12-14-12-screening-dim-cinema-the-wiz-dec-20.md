@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wizzzzz "
 emailDate: "Wed, 13 Dec 2023 20:55:09 -0800"
 number: 12
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | The Wiz | DEC 20"
 ---
 

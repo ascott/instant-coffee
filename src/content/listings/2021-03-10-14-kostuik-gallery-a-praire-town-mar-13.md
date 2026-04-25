@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 14
 type: "EXHIBITION"
+venue: "Kostuik Gallery"
 summary: "Kostuik Gallery | A Praire Town | MAR 13"
 ---
 

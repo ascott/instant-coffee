@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 30
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Reading | Travis O’Brian ‘Raven with Robin's Egg’ | 3PM | MAR 30"
 ---
 

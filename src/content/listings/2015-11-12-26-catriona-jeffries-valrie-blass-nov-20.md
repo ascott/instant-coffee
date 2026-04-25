@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 26
 type: "OPENING"
-summary: "Catriona Jeffries | ValÃ©rie Blass | NOV 20"
+venue: "Catriona Jeffries"
+summary: "Catriona Jeffries | Valérie Blass | NOV 20"
 ---
 
-ValÃ©rie Blass
+Valérie Blass
 To only ever say one thing forever the same thing
 
 Catriona Jeffries
@@ -15,7 +16,7 @@ Catriona Jeffries
 
 Opening reception: Friday, 20 November, 2015, 7-9pm
 
-For ValÃ©rie Blass, things are not what they seem. Bodies become clothes,
+For Valérie Blass, things are not what they seem. Bodies become clothes,
 become costume, become prop, become photograph, become projection, become
 painting, become shadow, become sculpture. Through material and formal
 experiment, her previous work collaged the figure and abstract form,
@@ -31,11 +32,11 @@ one thing forever the same thing we become implicated in the experience of
 looking, our bodies persuaded to adjust to both the photograph and
 sculpture together. For Blass, the image is not enough.
 
-ValÃ©rie Blass lives and works in MontrÃ©al, QC and holds an MFA in visual
-and media arts from UniversitÃ© du QuÃ©bec. To only ever say one thing
+Valérie Blass lives and works in Montréal, QC and holds an MFA in visual
+and media arts from Université du Québec. To only ever say one thing
 forever the same thing is her first exhibition with the gallery. She has
 had recent solo exhibitions at Artspeak, Vancouver; The Hole, New York and
-the MusÃ©e dâ€™art contemporain de MontrÃ©al and group exhibitions in Los
+the Musée d’art contemporain de Montréal and group exhibitions in Los
 Angeles, Toronto, Montreal, New York, and Berlin. Her CV and images are
 available here.
 

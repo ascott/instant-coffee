@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 11
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Curator's Tour: Ian Thom View from the Inside | 7PM | SEP 25"
 ---
 

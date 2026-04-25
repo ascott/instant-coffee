@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 28
 type: ""
+venue: "Capture Photography Festival 2.0"
 summary: "Capture Photography Festival 2.0 | Call for Submissions | OCT 14"
 ---
 
@@ -13,7 +14,7 @@ Duration: One month
 Location: Metro-Vancouver
 
 The Capture Photography Festival returns for the month of April of 2015 with 
-Metro Vancouverâ€™s high-profile not-for-profit celebration of local and 
+Metro Vancouver’s high-profile not-for-profit celebration of local and 
 international contemporary photography and lens-based art. Capture will 
 once again celebrate and promote photography through a convergence of 
 exhibitions by preeminent cultural institutions and commercial galleries, 
@@ -23,10 +24,10 @@ events and films.
 The Capture Photography Festival is now accepting proposals for 
 participating exhibitions. In order for an exhibit to be included in the Festival 
 programming, proposal must be submitted before October 31, 2014. 
-Proposals are reviewed on an ongoing basis by Captureâ€™s submission panel 
+Proposals are reviewed on an ongoing basis by Capture’s submission panel 
 and decision letters will be sent out no later than December 15, 2014. 
 Decisions will be made as we receive submissions--the sooner we receive 
-an application the the sooner you will be notified of your exhibitionâ€™s status 
+an application the the sooner you will be notified of your exhibition’s status 
 with the festival.
 
 The call is open to all exhibitions of photo and lens-based works focusing on 

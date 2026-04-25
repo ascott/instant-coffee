@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 21
 type: ""
+venue: "ON MAIN"
 summary: "ON MAIN | Canada Line | Tony Pantages: Polar Bear: Native | NOV 21"
 ---
 

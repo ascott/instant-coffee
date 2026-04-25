@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 23
 type: ""
+venue: "Western Front"
 summary: "Western Front | Variety Show Television | OCT 13"
 ---
 
@@ -31,7 +32,7 @@ uncategorizable spectacles. The night promises to be simultaneously
 irritatingly fun, soulfully drunk, absurd, and engaging. Come for the entire 
 event or drop by anytime!
 
-DONâ€™T MISS IT! All events will be held in the Grand Luxe Hall at Western 
+DON’T MISS IT! All events will be held in the Grand Luxe Hall at Western 
 Front.
 
 Presented by Western Front Media Arts and Western Front Exhibitions in 
@@ -41,5 +42,5 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free

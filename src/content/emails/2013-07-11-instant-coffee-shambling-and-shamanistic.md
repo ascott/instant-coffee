@@ -560,7 +560,7 @@ Scott McFarland lives and works in Toronto, Canada. His works are
 included in public collections such as the Museum of Modern Art, the
 Vancouver Art Gallery, the National Gallery of Canada, the San
 Francisco Museum of Modern Art, and the J. Paul Getty Museum. An
-upcoming exhibition of McFarlandÃ¢ï¿½ï¿½s work from the last five years will
+upcoming exhibition of McFarlandâ��s work from the last five years will
 be presented at the Art Gallery of Ontario in Spring of 2014.
 
 Gallery hours:
@@ -623,7 +623,7 @@ Running from May 9 to August 17, 2013, The Biography of Images: Parallel
 Biographies is the third in a series of group exhibitions based on the
 Austrian Federal Photography Collection, in this case bringing together
 artists from Vienna and Vancouver. The exhibition includes work by the
-Vienna-based artists Thomas Freiler, KrÃ¼ger & Pardeller, Tatiana Lecomte,
+Vienna-based artists Thomas Freiler, Krüger & Pardeller, Tatiana Lecomte,
 Christian Mayer, Sissa Micheli, and Anita Witek, and the Vancouver-based
 artists Arni Haraldsson, Tim Lee, Kyla Mallett, Jayce Salloum, Kevin
 Schmidt, and Elizabeth Zvonar.
@@ -668,13 +668,13 @@ HANGS IN THE BALANCE.
 Some artists, like companies, focus on creating one type of product over
 and over again; others, over time, grow massively diverse portfolios of
 products and services. Starting with a chocolate bar vendor he titled
-mykiosk, since 1997, KoreaÃ¢ï¿½ï¿½based German artist Dirk Fleischmann has been
+mykiosk, since 1997, Koreaâ��based German artist Dirk Fleischmann has been
 building a highly diversified conglomerate of micro companies, a practice
 through which he investigates contemporary modes of production, as they
-pertain to both economic value and cultural meaning. FleischmannÃ¢ï¿½ï¿½s
+pertain to both economic value and cultural meaning. Fleischmannâ��s
 enterprises range from chandelier manufacturing to textiles and
 derivatives. Riffing off of the strategies of artists engaged in
-institutional critique and social practice alike, FleischmannÃ¢ï¿½ï¿½s work
+institutional critique and social practice alike, Fleischmannâ��s work
 explores the relationship between narrative and commodification.
 Considering abstraction inherent in geographic distance his work probes
 questions surrounding collaboration, status and new international divisions
@@ -787,7 +787,7 @@ EVENTS
 
 Please RSVP to events: graypublications@gmail.com
 
-GRAY Publications Â©2013
+GRAY Publications ©2013
 
 www.graypublications.org
 
@@ -1156,8 +1156,8 @@ info@satellitegallery.ca
 604-681-8425
 
 Satellite Gallery is an experimental exhibition space shared by three arts
-institutionsÃ¢ï¿½ï¿½Presentation House Gallery, Morris and Helen Belkin Art
-Gallery, and the Museum of AnthropologyÃ¢ï¿½ï¿½and is a Michael OÃ¢ï¿½ï¿½Brian Family
+institutionsâ��Presentation House Gallery, Morris and Helen Belkin Art
+Gallery, and the Museum of Anthropologyâ��and is a Michael Oâ��Brian Family
 Foundation project.
 
 560 Seymour Street, 2nd Floor

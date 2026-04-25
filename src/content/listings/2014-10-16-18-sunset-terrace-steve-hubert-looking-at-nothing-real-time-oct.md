@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 18
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Steve Hubert - Looking at Nothing, Real-time | OCT 23"
 ---
 

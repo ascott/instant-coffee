@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NAKED STATE"
 emailDate: "Thu, 20 Dec 2018 15:00:17 -0800"
 number: 2
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Described Tour | JAN 5"
 ---
 

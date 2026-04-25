@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 8
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Feral Domestic | 3PM | JAN 13"
 ---
 

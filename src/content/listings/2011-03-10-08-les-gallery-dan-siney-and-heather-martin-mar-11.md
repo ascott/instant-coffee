@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 8
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | Dan Siney and Heather Martin | MAR 11"
 ---
 

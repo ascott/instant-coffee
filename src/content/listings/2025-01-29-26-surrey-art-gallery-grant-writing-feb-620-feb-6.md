@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 26
 type: "EDUCATION"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Grant Writing | FEB 6&20 | FEB 6"
 ---
 

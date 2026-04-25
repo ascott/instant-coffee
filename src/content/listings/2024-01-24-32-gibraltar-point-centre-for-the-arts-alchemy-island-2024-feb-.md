@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 32
 type: "CALL"
+venue: "Gibraltar Point Centre for the Arts"
 summary: "Gibraltar Point Centre for the Arts | Alchemy Island 2024 | FEB 22"
 ---
 

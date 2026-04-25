@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 33
 type: "EVENT"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Paint Night with Erin Lucey | SEP 26"
 ---
 

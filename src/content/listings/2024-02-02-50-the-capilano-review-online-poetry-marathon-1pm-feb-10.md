@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 50
 type: "FUNDRAISER"
+venue: "The Capilano Review [ONLINE]"
 summary: "The Capilano Review [ONLINE] | Poetry Marathon | 1PM | FEB 10"
 ---
 

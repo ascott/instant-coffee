@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 23
 type: "EVENT"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Wetland Project: Soundwalk, Lunch & Talk | MAY 6"
 ---
 

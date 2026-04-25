@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 16
 type: "OPENING"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Cedric Bomford | Mountain Embassy | 2PM | SEP 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 12
 type: ""
+venue: "NEWS"
 summary: "NEWS | Centre A | Makiko Hara 2016 Curator-in-Residence + Fundraiser | FEB 14"
 ---
 

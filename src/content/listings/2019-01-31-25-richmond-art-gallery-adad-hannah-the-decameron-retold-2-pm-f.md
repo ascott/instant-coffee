@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 25
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Adad Hannah | The Decameron Retold | 2 PM | FEB 9"
 ---
 

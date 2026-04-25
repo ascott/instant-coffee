@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 10
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Artist Talk: Amie Siegel - 6pm | JAN 11"
 ---
 

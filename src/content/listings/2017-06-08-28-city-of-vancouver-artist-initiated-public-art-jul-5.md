@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 28
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | Artist-Initiated Public Art | JUL 5"
 ---
 

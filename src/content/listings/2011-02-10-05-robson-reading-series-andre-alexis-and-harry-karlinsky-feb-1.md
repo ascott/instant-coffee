@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 5
 type: ""
+venue: "Robson Reading Series"
 summary: "Robson Reading Series | Andre Alexis and Harry Karlinsky | FEB 10"
 ---
 
 Please join us this Thursday, February 10 at 7 pm for a creatively
-historical reading and discussion with AndrÃƒÂ© Alexis and Harry Karlinsky.
+historical reading and discussion with AndrÃ© Alexis and Harry Karlinsky.
 We're looking forward to an intellectually stimulating evening with these
 two authors.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 4
 type: "PERFORMANCE"
+venue: "BOOMBOX"
 summary: "BOOMBOX | July Triple Bill | Jul 17, 18, 19 | JUL 17"
 ---
 

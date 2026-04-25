@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 27
 type: "TALK"
+venue: "Emily Carr University"
 summary: "Emily Carr University | Visual Art Forums | Samuel Roy-Bois | NOV 27"
 ---
 
@@ -13,11 +14,11 @@ Emily Carr University Lecture Hall | Room 301, South Building
 1400 Johnston Street, Granville Island
 
 Originally from Quebec City, Samuel Roy-Bois currently resides in
-Vancouver. He acquired his BFA from UniversitÃ© Laval in Quebec (1996) and a
-Masters Degree in Fine Arts from Concordia University in MontrÃ©al (2001).
+Vancouver. He acquired his BFA from Université Laval in Quebec (1996) and a
+Masters Degree in Fine Arts from Concordia University in Montréal (2001).
 His work has been presented at SFU Gallery, Carleton University Gallery,
-MusÃ©e dâ€™art contemporain de MontrÃ©al, Contemporary Art Gallery, MusÃ©e
-National des Beaux Arts du QuÃ©bec and Point Ã©phÃ©mÃ¨re in Paris. He is
+Musée d’art contemporain de Montréal, Contemporary Art Gallery, Musée
+National des Beaux Arts du Québec and Point éphémère in Paris. He is
 Assistant Professor in Creative Studies at UBC Okanagan.
 
 Roy-Bois is interested in the complex dynamics defining our relationship to

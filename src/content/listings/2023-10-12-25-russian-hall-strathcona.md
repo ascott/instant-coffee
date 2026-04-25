@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 25
 type: "PERFORMANCE"
+venue: "Russian Hall (Strathcona)"
 summary: "Russian Hall (Strathcona) | "
 ---
 

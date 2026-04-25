@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 13
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Mitch Speed | SEP 11"
 ---
 

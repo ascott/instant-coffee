@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 27
 type: "CALL"
+venue: "VLAFF 2025"
 summary: "VLAFF 2025 | Call for Youth Jury | JUN 1"
 ---
 

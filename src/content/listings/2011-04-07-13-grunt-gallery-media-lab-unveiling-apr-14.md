@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 13
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Media Lab Unveiling | APR 14"
 ---
 
@@ -33,30 +34,30 @@ Contractor Mac LaPort of MKL Custom Homes, Project Manager
 Jeremiah Hart and Mark "the Apprentice" Eilers for their work on the 
 construction and installation.
 
-Grunt galleryâ€™s former kitchen space has been transformed into a 
+Grunt gallery’s former kitchen space has been transformed into a 
 lab for the development and presentation of new media artworks, 
 educational support, and adjunct programming for our exhibitions 
 and performance programs. It will also facilitate the streaming of live 
 content allowing us to develop more international impact for the 
 artists we support. 
 
-This media lab will also be a key component of gruntâ€™s Activating the 
+This media lab will also be a key component of grunt’s Activating the 
 Archive project. Activating the Archive is a multi-year project that 
-involves bringing the archive of gruntâ€™s 26 years of production into 
+involves bringing the archive of grunt’s 26 years of production into 
 the digital realm through the development of an online, interactive, 
 database driven website. The media lab will provide facilities for the 
 initial digitization of records and capturing of video. It will also 
 become a site for a curated program of contemporary artists to 
 develop and present new media and performance based work in 
-response to materials found in gruntâ€™s archive. 
+response to materials found in grunt’s archive. 
 
-Gruntâ€™s kitchen has been central to gruntâ€™s history as the literal and 
+Grunt’s kitchen has been central to grunt’s history as the literal and 
 metaphorical heart of the organization. This small room has been 
-the â€˜think-tankâ€™ of our collective where programs and exhibitions 
+the ‘think-tank’ of our collective where programs and exhibitions 
 have been developed while sipping a cup of coffee. It has also been 
 the place where many new ideas and organizations have come into 
-fruition. Gruntâ€™s kitchen has been at the core of what we do. Please 
-join us as we launch this newly equipped space and gruntsâ€™ 
+fruition. Grunt’s kitchen has been at the core of what we do. Please 
+join us as we launch this newly equipped space and grunts’ 
 continued commitment to providing artists with new ways of 
 presenting and disseminating their work.
 

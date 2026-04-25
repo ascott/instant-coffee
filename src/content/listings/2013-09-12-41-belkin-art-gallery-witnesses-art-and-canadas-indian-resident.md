@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 41
 type: ""
-summary: "Belkin Art Gallery | Witnesses | Art and Canadaâ€™s Indian Residential Schools | til | DEC 1"
+venue: "Belkin Art Gallery"
+summary: "Belkin Art Gallery | Witnesses | Art and Canada’s Indian Residential Schools | til | DEC 1"
 ---
 
-Witnesses: Art and Canadaâ€™s Indian Residential Schools
+Witnesses: Art and Canada’s Indian Residential Schools
 
 September 6 to December 1, 2013
 
@@ -24,7 +25,7 @@ Sunday, September 8:
 For more exhibition programming, visit belkin.ubc.ca
 
 All welcome. Admission is free.
-Witnesses: Art and Canadaâ€™s Indian Residential Schools presents artists who 
+Witnesses: Art and Canada’s Indian Residential Schools presents artists who 
 have produced work arising from the history of Indian Residential Schools in 
 Canada and coincides with, but is independent from, the Truth and 
 Reconciliation Commission of Canada National Event that will take place in 
@@ -37,10 +38,10 @@ public about Indian Residential Schools, to illustrate how this issue has
 become embedded in Canadian art history and to demonstrate the strong 
 social and cultural capacity of art. Combined, the works in the exhibition 
 represent a convergence of various voices addressing this often difficult aspect 
-of Canadaâ€™s colonial history.
+of Canada’s colonial history.
 The exhibition includes iconic historical works by artists such as Joane 
 Cardinal-Schubert, Alex Janvier and Norval Morrisseau, as well as more 
-recent work and special commissions by some of Canadaâ€™s most respected 
+recent work and special commissions by some of Canada’s most respected 
 contemporary artists. Works have been sourced from across Canada and 
 borrowed from artists, collectors and museums. Other artists include Gerry 
 Ambers, Carl Beam, Rebecca Belmore, Chris Bose, Cathy Busby, Beau 
@@ -63,14 +64,14 @@ MakerLABS: Opening late fall, 2013! |
 MakerLABS: Opening late fall, 2013!
 
 MakerLABS (http://www.makerlabs.ca/) is a digital fabrication studio and 
-multidisciplinary workshop where you can make almost anything. Itâ€™s a personal 
+multidisciplinary workshop where you can make almost anything. It’s a personal 
 prototyping space that puts all the tools for 3D printing, laser cutting, 
-metalworking, woodworking, craft and apparel in your hands. Itâ€™s an educational 
+metalworking, woodworking, craft and apparel in your hands. It’s an educational 
 facility where you can learn the practical skills to create new objects and 
-opportunities. And itâ€™s a social environment rooted in the ideas of open access 
+opportunities. And it’s a social environment rooted in the ideas of open access 
 and exchange, fostering a community of like-minded people building together.
 
-We welcome members of all types, with any level of experience â€“ from beginners 
+We welcome members of all types, with any level of experience – from beginners 
 to experts, hobbyists to professionals, and everyone in between.
 
 Please help us by taking our survey at makerlabs.ca, and sharing it with others 

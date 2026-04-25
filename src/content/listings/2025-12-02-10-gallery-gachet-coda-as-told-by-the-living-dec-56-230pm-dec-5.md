@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 10
 type: "EVENT"
+venue: "gallery gachet"
 summary: "gallery gachet | Coda: As Told by the Living* | DEC 5&6 | 230PM | DEC 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 28
 type: "CALL"
+venue: "Vancouver Heritage Foundation"
 summary: "Vancouver Heritage Foundation | The WALL - call for proposals | FEB 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 10
 type: "EVENT"
+venue: "RAG"
 summary: "RAG | Gathering with Tania Willard | 3PM | NOV 7"
 ---
 

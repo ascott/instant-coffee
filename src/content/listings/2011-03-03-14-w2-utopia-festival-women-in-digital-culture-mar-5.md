@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 14
 type: ""
+venue: "W2 Utopia Festival"
 summary: "W2 Utopia Festival | Women In Digital Culture | MAR 5"
 ---
 
@@ -20,7 +21,7 @@ March 5 at W2 Storyeum.
 To celebrate, we're sharing a compilation from DJ She, DJ Lady Jane, Betti
 Forde, and Blondtron. The 74-minute compilation gives you a sample of the
 talented DJs featured at Utopia, while raising awareness for the 100th
-Anniversary of International Womenâ€™s Day. (Utopia Artist Compiltion also
+Anniversary of International Women’s Day. (Utopia Artist Compiltion also
 available.)
 Listen / download: http://soundcloud.com/blondtron/utopia-dj-compilation
 http://soundcloud.com/blondtron/utopia-artist-compilation
@@ -41,12 +42,12 @@ the Conference and evening performance.
 Mobile Dance Party info:
 http://www.creativetechnology.org/page/mobile-dance-party
 
-At 8pm, our 100th Anniversary International Womenâ€™s Day Showcase begins.
+At 8pm, our 100th Anniversary International Women’s Day Showcase begins.
 Featuring musical performances by First Nations artists Tanya Tagaq, JB The
 First Lady, and cello prodigy Chris Derksen; live readings by local
 Vancouver writers Hannah Calder, Hiromi Goto, Kim Fu and Antoinette Rea;
 and the biggest lineup of female electronic artists ever to hit a Canadian
-stage â€“ including Peaches, Isis Salam (Thunderheist), Betti Forde,
+stage – including Peaches, Isis Salam (Thunderheist), Betti Forde,
 B-Traits, The Librarian, Lynx, Zenobia, She, Blondtron, Lady Lane, Tank
 Girl, Miss M, Just Sheila, The Square Root of Evil, JNL, Miss Innocent, and
 DJ Tapes. Visual Media artists include VJ Electrabelle, Julie Gendron,

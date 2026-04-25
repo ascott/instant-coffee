@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 9
 type: "EDUCATION"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Art At Work Workshop: Tax Prep Made Painless | FEB 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 22
 type: "EVENT"
+venue: "The Western Front"
 summary: "The Western Front | Adults Are So Last Year! | JUN 2"
 ---
 

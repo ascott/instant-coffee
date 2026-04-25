@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | The Polygon Gallery | Guest Services Supervisor"
 ---
 

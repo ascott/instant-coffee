@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 23
 type: "TALK"
+venue: "Centre A"
 summary: "Centre A | Intimacy and Distances: Artist & Curator Talk | SEP 16"
 ---
 

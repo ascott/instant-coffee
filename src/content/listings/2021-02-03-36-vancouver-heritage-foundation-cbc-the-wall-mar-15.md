@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 36
 type: "CALL"
+venue: "Vancouver Heritage Foundation"
 summary: "Vancouver Heritage Foundation | CBC The WALL | MAR 15"
 ---
 

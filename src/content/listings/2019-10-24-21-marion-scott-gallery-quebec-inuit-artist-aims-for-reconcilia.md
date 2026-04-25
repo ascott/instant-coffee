@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 21
 type: "OPENING"
+venue: "Marion Scott Gallery"
 summary: "Marion Scott Gallery | Quebec Inuit Artist Aims for Reconciliation | NOV 2"
 ---
 

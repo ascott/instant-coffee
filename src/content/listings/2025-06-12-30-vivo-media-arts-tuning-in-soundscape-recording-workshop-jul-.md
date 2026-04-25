@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 30
 type: "EDUCATION"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | Tuning In: Soundscape Recording Workshop | JUL 12"
 ---
 

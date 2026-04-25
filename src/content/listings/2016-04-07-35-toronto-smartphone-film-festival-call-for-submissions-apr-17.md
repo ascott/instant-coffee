@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 35
 type: "CALL"
+venue: "Toronto Smartphone Film Festival"
 summary: "Toronto Smartphone Film Festival | Call for Submissions | APR 17"
 ---
 

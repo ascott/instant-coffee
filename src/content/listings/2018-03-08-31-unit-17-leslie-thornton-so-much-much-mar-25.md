@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 31
 type: ""
+venue: "UNIT 17"
 summary: "UNIT 17 | Leslie Thornton | SO MUCH MUCH | MAR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 38
 type: "OPENING"
+venue: "Kwantlen Polytechnic University"
 summary: "Kwantlen Polytechnic University | Kapwa Lagi! | 5PM | NOV 22"
 ---
 

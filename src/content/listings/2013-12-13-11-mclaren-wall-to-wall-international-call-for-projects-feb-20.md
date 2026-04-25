@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://friendsof439.wordpress.com/
 emailDate: "Fri, 13 Dec 2013 15:55:11 -0800"
 number: 11
 type: ""
+venue: "McLaren Wall-to-Wall"
 summary: "McLaren Wall-to-Wall | INTERNATIONAL CALL FOR PROJECTS | FEB 20"
 ---
 

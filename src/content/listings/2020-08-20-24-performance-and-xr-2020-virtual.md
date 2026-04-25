@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 24
 type: "EVENT"
+venue: "Performance and XR 2020"
 summary: "Performance and XR 2020 | Virtual"
 ---
 

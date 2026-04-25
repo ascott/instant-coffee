@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Sophia Zarders: Creatures & Dandelions | JUN 29"
 ---
 

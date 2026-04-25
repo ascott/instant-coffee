@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 16
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | François Roux | MAR 16"
 ---
 

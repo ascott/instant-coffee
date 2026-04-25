@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 14
 type: "TALK"
+venue: "Special Sunday Supper"
 summary: "Special Sunday Supper | Kate Henderson | SEP 6"
 ---
 
@@ -22,11 +23,11 @@ Visual Art from the University of British Columbia in 2013 and her BFA
 with a Major in Photography from Emily Carr University of Art and
 Design in 2007.
 
-Hendersonâ€™s practice navigates the transitional space between the
+Henderson’s practice navigates the transitional space between the
 analog/digital and the body/machine in technologies of seeing,
 surveillance and spectatorship. Henderson repositions low-resolution
 Internet images and videos through digital projection, slide projection,
-print and installationâ€”a process that locates and materializes the
+print and installation—a process that locates and materializes the
 digital substrate thereby giving physical form to a seemingly intangible
 medium. Remediating contemporary and historical images of ruin,
 catastrophe and the industrial sublime, Henderson seeks to illuminate

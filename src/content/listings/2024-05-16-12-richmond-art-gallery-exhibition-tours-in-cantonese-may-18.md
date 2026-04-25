@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 12
 type: "EVENT"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | EXHIBITION TOURS IN CANTONESE | MAY 18"
 ---
 

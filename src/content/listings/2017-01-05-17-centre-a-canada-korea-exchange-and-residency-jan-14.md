@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 17
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | CANADA-KOREA EXCHANGE AND RESIDENCY | JAN 14"
 ---
 

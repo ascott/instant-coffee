@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: now conforming to safety requireme
 emailDate: "Thu, 20 Aug 2009 09:01:09 -0700"
 number: 6
 type: ""
+venue: "Fillip"
 summary: "Fillip | Library Launch & Talk | AUG 26"
 ---
 
@@ -30,7 +31,7 @@ Artexte engages in research, interpretation, and dissemination initiatives in or
 influence and appreciation of contemporary visual art. These activities are informed by their 
 significant collection of art documentation and authoritative resources, as well as a network of 
 multidisciplinary partners. Their activities touch on all aspects of contemporary visual arts from 
-1965 on, with special emphasis placed on QuÃ©bec and Canada.
+1965 on, with special emphasis placed on Québec and Canada.
 
 Fillip
 305 Cambie Street

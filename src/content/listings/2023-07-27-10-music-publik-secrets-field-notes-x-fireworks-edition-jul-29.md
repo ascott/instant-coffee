@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 10
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Publik Secrets | Field Notes x Fireworks Edition | JUL 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 23
 type: "CALL"
+venue: "Alien Press"
 summary: "Alien Press | Call for Submissions - Writing | SEP 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 8
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Belkin Art Gallery | Concert inspired by the exhibition Tom Burrows | MAR 6"
 ---
 

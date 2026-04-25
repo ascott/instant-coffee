@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 9
 type: ""
+venue: "W2 Perel Gallery"
 summary: "W2 Perel Gallery | Michael Turner: curatorial talk | MAR 7"
 ---
 

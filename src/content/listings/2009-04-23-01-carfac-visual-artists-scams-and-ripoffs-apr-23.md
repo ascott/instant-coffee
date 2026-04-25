@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 1
 type: ""
+venue: "CARFAC"
 summary: "CARFAC | Visual Artists, Scams and Ripoffs | APR 23"
 ---
 

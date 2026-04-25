@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stories of Home"
 emailDate: "Thu, 14 May 2020 18:35:10 -0700"
 number: 17
 type: "CALL"
+venue: "Gay Gardens"
 summary: "Gay Gardens | Online Exhibition / Art Book | MAY 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Trajectories of Unlooking | SEP 9"
 ---
 

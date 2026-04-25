@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 13
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Rain Cabana-Boucher: $185 | JUN 6"
 ---
 

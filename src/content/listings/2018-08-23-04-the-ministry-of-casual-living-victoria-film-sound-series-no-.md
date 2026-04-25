@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 4
 type: "EVENT"
+venue: "The Ministry of Casual Living"
 summary: "The Ministry of Casual Living | VICTORIA | Film + Sound Series No. 3 Capital City Archives | AUG 24"
 ---
 

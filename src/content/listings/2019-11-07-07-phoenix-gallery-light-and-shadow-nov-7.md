@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 7
 type: "OPENING"
+venue: "Phoenix Gallery"
 summary: "Phoenix Gallery | Light and Shadow | NOV 7"
 ---
 

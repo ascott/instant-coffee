@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 14
 type: "OPENING"
+venue: "Monte Clark"
 summary: "Monte Clark | Graham Gillmore - Mastery of Life | MAY 28"
 ---
 

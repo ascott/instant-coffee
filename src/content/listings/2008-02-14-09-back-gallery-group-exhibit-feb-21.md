@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee at cruising speed"
 emailDate: "Thu, 14 Feb 2008 07:58:05 -0800"
 number: 9
 type: ""
+venue: "BACK GALLERY"
 summary: "BACK GALLERY | group exhibit | FEB 21"
 ---
 

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 28
 type: ""
+venue: "Goethe Satellite"
 summary: "Goethe Satellite | FIT | @ waldorf | Invitation to Participate | until | SEP 15"
 ---
 
 Invitation to Participate
 FIT - freie internationale tankstelle
 Waldorf Hotel
-June 2 â€“ September 15, 2011
+June 2 – September 15, 2011
 
 FIT is a â€œfueling station for the creative spiritâ€  by Berlin artist Dida
 Zende, the first project presented in connection with the Goethe Satellite
@@ -61,7 +62,7 @@ I am friendly, reliable, quiet, clean, and I have great references
 
 2.
 two openings for shared studio space |
-The Gam is a studio, gallery and boutique located in Vancouverâ€™s downtown
+The Gam is a studio, gallery and boutique located in Vancouver’s downtown
 east side and fronts an artist-only building at 110 E Hastings St (ACME
 Studios). We are looking to expand our studio operations and currently
 have two openings for shared studio space. As a Gam studio mate you will

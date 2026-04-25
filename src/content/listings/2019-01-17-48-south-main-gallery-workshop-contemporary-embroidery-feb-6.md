@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 48
 type: "EDUCATION"
+venue: "South Main Gallery"
 summary: "South Main Gallery | WORKSHOP | Contemporary Embroidery | FEB 6"
 ---
 

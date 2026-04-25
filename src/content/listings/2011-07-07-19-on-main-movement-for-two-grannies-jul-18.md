@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 19
 type: ""
+venue: "ON MAIN"
 summary: "ON MAIN | Movement For Two Grannies | JUL 18"
 ---
 
@@ -14,7 +15,7 @@ project celebrating Vancouver 125.
 Movement For Two Grannies is an elegant and ethereal work of cinematography 
 that features two Chinese grannies engaged in a moment of intimate and 
 affectionate friendship. Shot on green screen, the backlit grannies are placed 
-against a shimmering flow â€“ oceanic, vast and expansive, rippling with an 
+against a shimmering flow – oceanic, vast and expansive, rippling with an 
 ancient lineage. The scene is surreal, sensual and serene, unlike the 
 environment of the Canada Line Skytrain Stations. The slow movements of the 
 grannies are in sharp contrast to the function of Light Rapid Transit systems 
@@ -22,8 +23,8 @@ designed to move commuters efficiently, spaces not user-friendly for our
 grannies. Here, Laiwan proposes an endearing rendition of a 10-second action 
 movie, unhurried and cherished.
 
-â€œFor the 125th birthday of Vancouver, I celebrate my elders with â€˜Movement For 
-Two Granniesâ€™. With tenacity, endurance, resilience and humour they move 
+“For the 125th birthday of Vancouver, I celebrate my elders with ‘Movement For 
+Two Grannies’. With tenacity, endurance, resilience and humour they move 
 forward passing on values and ethics, rituals and philosophies, through daily 
 movements that ripple out beyond Vancouver. Their legacy and lineage are the 
 foundations of a strong, vibrant cultural community in Chinatown. Dedicated to 

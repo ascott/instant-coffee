@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 29
 type: ""
+venue: "Symposium on Decolonial Aesthetics"
 summary: "Symposium on Decolonial Aesthetics | Open Call For Submissions | APR 7"
 ---
 

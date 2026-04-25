@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 12
 type: "EDUCATION"
+venue: "Art + Technology LAB, Anvil Centre"
 summary: "Art + Technology LAB, Anvil Centre | Intro"
 ---
 

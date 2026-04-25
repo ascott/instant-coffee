@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 3
 type: "EVENT"
+venue: "Capilano Review @ Arts Factory Society"
 summary: "Capilano Review @ Arts Factory Society | Future Concrete | MAR 3"
 ---
 

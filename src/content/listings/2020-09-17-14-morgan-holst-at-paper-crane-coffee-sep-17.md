@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "Morgan Holst at Paper Crane Coffee"
 summary: "Morgan Holst at Paper Crane Coffee | SEP 17"
 ---
 

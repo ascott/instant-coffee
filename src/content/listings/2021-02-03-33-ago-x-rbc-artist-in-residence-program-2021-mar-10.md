@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 33
 type: "CALL"
+venue: "AGO x RBC"
 summary: "AGO x RBC | Artist-In-Residence Program 2021 | MAR 10"
 ---
 

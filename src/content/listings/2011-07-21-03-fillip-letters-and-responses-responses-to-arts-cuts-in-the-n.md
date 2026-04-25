@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 3
 type: ""
+venue: "Fillip: Letters and Responses"
 summary: "Fillip: Letters and Responses | Responses to Arts Cuts in the Netherlands | JUL 21"
 ---
 
@@ -34,7 +35,7 @@ police when he attempted to prevent a colleague from being dragged away.
 
 State support of Dutch culture within and outside of the Netherlands has 
 generously and actively contributed to the vital development of global artistic 
-practice, presentation, and discourse. Given the Netherlandsâ€™ role as an 
+practice, presentation, and discourse. Given the Netherlands’ role as an 
 exemplar of cultural cultivation, we believe that this series of events signals a 
 dramatic turn and sets an unfortunate precedent in the international cultural 
 landscape. While a tidal wave of cuts in funding for culture has swept across 

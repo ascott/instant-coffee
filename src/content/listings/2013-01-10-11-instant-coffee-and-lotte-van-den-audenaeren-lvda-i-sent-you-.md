@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 11
 type: ""
+venue: "Instant Coffee and Lotte Van den Audenaeren [LVDA]"
 summary: "Instant Coffee and Lotte Van den Audenaeren [LVDA] | I SENT YOU | JAN 16"
 ---
 
@@ -11,7 +12,7 @@ Vancouver Brussels Exchange Project
 Hosted by Instant Coffee and Lotte Van den Audenaeren [LVDA] 
 
 PART 1 Vancouver
-@ Instant Coffeeâ€™s Store Front Studio 441 Powell St. Vancouver, Canada. 
+@ Instant Coffee’s Store Front Studio 441 Powell St. Vancouver, Canada. 
 Jan 16th 7 to 9pm and Jan 24th 3 to 7pm or by appointment call 604 782 
 5591 
 
@@ -21,7 +22,7 @@ I SENT YOU
 Collected and transported by LVDA
 
 A multiple exhibition with art works by Brussels based artists Michel 
-FranÃ§ois, Ann Veronica Janssens & Richard Venlet and LVDA. The artists 
+François, Ann Veronica Janssens & Richard Venlet and LVDA. The artists 
 were asked to deliver / donate / formulate a message to an unknown 
 audience. 
 
@@ -32,13 +33,13 @@ course of the artwork once it exits the exhibition context. The work is public
 and becomes common property.
 LVDA functions as the transporter / messenger / accomplice / executor.
 
-Michel FranÃ§oisâ€™s facsimile print shows the image of a pair of sandals used 
+Michel François’s facsimile print shows the image of a pair of sandals used 
 by a Mexican citizen attempting to cross the US border. On her journey to 
 Vancouver, LVDA crossed the US and Mexican border with these sandals: an 
 assignment & responsibility given to her by the artist. These sandals are 
 included in the exhibition.
 
-Ann Veronica Janssens offers a piece without materiality: PhosphÃ¨nes is a 
+Ann Veronica Janssens offers a piece without materiality: Phosphènes is a 
 nomadic and visual proposal.
 
 Richard Venlet, A page from his book becomes a multiple sculpture.
@@ -47,18 +48,18 @@ LVDA PROJECTS: During her stay in Vancouver, LVDA will work on small
 site specific gestures & multiples. Some pieces will arrive or will be sent back 
 to Brussels by mail (no new messages).
 
-Michel FranÃ§ois
-FranÃ§oisâ€™ work consists of snapshots within a process of stratification in 
-which individual works acts as elements of language. Michel FranÃ§ois lives 
+Michel François
+François’ work consists of snapshots within a process of stratification in 
+which individual works acts as elements of language. Michel François lives 
 and works in Brussels. Past solo exhibitions include CRAC Languedoc-
-Roussillon, SÃ¨te, France (2012); Ecole nationale supÃ©rieure des Beaux-Arts, 
-Paris, France (2012); IAC, Villeurbanne, France (2010); MusÃ©e des Beaux-
+Roussillon, Sète, France (2012); Ecole nationale supérieure des Beaux-Arts, 
+Paris, France (2012); IAC, Villeurbanne, France (2010); Musée des Beaux-
 Arts, Lausanne, Switzerland (2009); SMAK, Ghent, Belgium for which he also 
 proposed the curatorial project Faux Jumeaux (2009) and Macba, Barcelona, 
 Spain (2009); Kunsthalle Bern, Switzerland (2000) and Haus der Kunst, 
 Munich, Germany (2000). 
 Ann Veronica Janssens
-Ann Veronica Janssensâ€™ projects are often based on technical or scientific 
+Ann Veronica Janssens’ projects are often based on technical or scientific 
 facts. Cognition, reflexes, meanings and psychology lie at the heart of these 
 experimentations. By pushing back the limits of perception, by rendering 
 visible the invisible, these experiences act as passages from one reality to 
@@ -77,10 +78,10 @@ realms of sculpture, art-historical research, exhibition design and architecture
 based not so much on collaboration or collaborative practice as such, his 
 installations often incorporate the work of other artists, thus connecting his 
 work with a definite â€œcuratorial turnâ€  in recent art, as well as with an older, 
-more established tradition of interest in strategies of â€˜framingâ€™ and display and 
+more established tradition of interest in strategies of ‘framing’ and display and 
 â€œinstitutional critiqueâ€ . His work has been shown at the Centre for Fine Art in 
-Brussels, the Museo EspaÃ±ol de Arte Contemporaneo in Madrid, Galerie 
-Bruges La Morte in Bruges, the MusÃ©e des Beaux-Arts in Dunkerque, the 
+Brussels, the Museo Español de Arte Contemporaneo in Madrid, Galerie 
+Bruges La Morte in Bruges, the Musée des Beaux-Arts in Dunkerque, the 
 SMAK in Ghent and the FRAC in Paris. 
 
 LVDA
@@ -91,7 +92,7 @@ unfolds multiple layers of perception through simple deconstruction and
 reconstruction of visual representation. The interventions, additions and 
 deletions organized by LVDA have a minimal or limited materiality, though 
 they cause a drastic impact on their environment. Her works have a tendency 
-to appear barely present, or in the process of disappearing â€“ like light, 
+to appear barely present, or in the process of disappearing – like light, 
 shadows or apparitions. Lotte Van den Audenaeren (born 1979) lives and 
 works in Brussels. She is a graduate of Sint-Lukas Brussels University 
 College of Art and Design. She participated the Erasmus program at Fontys 
@@ -129,7 +130,7 @@ Instant Coffee recently produced two wall murals, Perpetual Sunset, a sequin
 sunset and Blanket Mural a sculptural wall mural for the City of Edmonton. 
 Also in 2012 a colourful environment for the Southhill Community in 
 Vancouver.
-As part of the City of Vancouverâ€™s Cultural Olympic programme, the Collective 
+As part of the City of Vancouver’s Cultural Olympic programme, the Collective 
 opened Light Bar a full-spectrum light bar installation and venue for light 
 therapy, light lectures, light shows, light reading and light rock. In 2009 
 Instant Coffee exhibited the Disco Fallout Shelter, at the Toronto Sculpture 
@@ -137,12 +138,12 @@ Garden, and as part of Subvision, Hamburg; Nooks as part of How Soon is
 Now, Vancouver Art Gallery; Light Bar as part of Assume Nothing, New Social 
 Practice, Art Gallery of Greater Victoria; Bright Future as part of 88 Blocks 
 Art on Main a Public Art Commission by Translink. Other residencies and 
-exhibitions include, Artist In Residence, SÃ¸lyst, Denmark, Light Bar Research 
+exhibitions include, Artist In Residence, Sølyst, Denmark, Light Bar Research 
 and Residency, Hotel Maria Kapel, The Netherlands, Kuenstlerhaeuser 
 Worpswede, Germany, Flaggfabrikken Kunsthall, Bergen, Norway; If You 
-Lived Here Youâ€™d Be Home By Now, Henry Art Gallery, Seattle; Wish You 
+Lived Here You’d Be Home By Now, Henry Art Gallery, Seattle; Wish You 
 Were Here, Casa del Encuentro MDE07 encuentro internacional, Medellin, 
-Colombia. Instant Coffeeâ€™s most consistent members are Jinhan Ko, Kelly 
+Colombia. Instant Coffee’s most consistent members are Jinhan Ko, Kelly 
 Lycan, Khan Lee, Jenifer Papararo, with auxiliary members Kate Monro and 
 Cecilia Berkovic.
 www.instantcoffee.org

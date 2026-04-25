@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 12
 type: "EVENT"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Amberlie Perkin - Veils & Echoes | NOV 2"
 ---
 

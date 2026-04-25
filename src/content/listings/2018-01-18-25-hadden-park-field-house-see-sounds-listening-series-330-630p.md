@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 25
 type: "EVENT"
+venue: "Hadden Park Field House"
 summary: "Hadden Park Field House | See Sounds Listening Series | 3:30- 6:30PM | JAN 21"
 ---
 

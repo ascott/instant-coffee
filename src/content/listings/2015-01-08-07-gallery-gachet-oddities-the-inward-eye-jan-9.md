@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 7
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Oddities - The Inward Eye | JAN 9"
 ---
 
@@ -17,16 +18,16 @@ order to educate the public and promote social and economic justice through
 artistic means. Our gallery and studio space, precariously balanced in a
 neighbourhood undergoing advanced gentrification, has emerged as a symbol
 of creative refuge and artist-driven authenticity.
-Gallery Gachet is pleased to present this yearâ€™s Annual Members Show,
+Gallery Gachet is pleased to present this year’s Annual Members Show,
 Oddities. Artists include: Afuwa, d.June Conley, Rebecca Chunn, Cherise
 Clarke, Lara Fitzgerald, Edzy Edzed, Murray Huehn, Kara Lee, Pierre
 Leichner, Peter Lojewski, Laurie Marshall, Shelagh Moore, Carmen Ostrander,
-Mary Oâ€™Toole, Bruce Ray, Karen Ward, and Ilir Xhediku.
+Mary O’Toole, Bruce Ray, Karen Ward, and Ilir Xhediku.
 
 In the sixteenth and seventeenth centuries, a cabinet of curiosities was a
 place, or more precisely a wooden piece of furniture with several
 compartments, where people would exhibit bizarre objects, artifacts and
-specimens â€”in a word oddities. Everything from a two-headed cow fetus
+specimens —in a word oddities. Everything from a two-headed cow fetus
 soaking in formaldehyde to an alleged unicorn horn, these objects gesture
 towards the complexity of the world and the vastness of the unknown. While
 these displays were successful in sparking the creative imaginations of
@@ -56,7 +57,7 @@ subjective realms one can create within their own mind. These works take
 the viewer on a journey through the meaning of dreams to a landscape which
 transcends physical laws.
 
-Bruce Rayâ€™s Bio
+Bruce Ray’s Bio
  I have been an artist all my life. I was trained in commercial art in high
 school. I have been involved in Gallery Gachet as a member for twenty
 years. I have had five solo shows and been involved in numerous group

@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 15
 type: "CALL"
+venue: "LIVE Biennale"
 summary: "LIVE Biennale | La Pocha Nostra! - Mentorship/Workshop | AUG 15"
 ---
 
 ATTENTION REBEL ARTISTS!
 
-Vancouverâ€™s Performance Art Celebration, the LIVE International Performance
+Vancouver’s Performance Art Celebration, the LIVE International Performance
 Art Biennale offers a new opportunity for emerging artists to participate
-in a unique mentorship/workshop with the infamous transâ€“art superâ€“group La
+in a unique mentorship/workshop with the infamous trans–art super–group La
 Pocha Nostra!
 
-This oneâ€“time mentorship/workshop is taking place September 20 to 23, and
+This one–time mentorship/workshop is taking place September 20 to 23, and
 culminates with a grand spectacle on September 23 to open LIVE 2015. Up to
 12 artists will be selected by La Pocha Nostra from submissions. There is
 NO CHARGE for participation. If selected, LIVE will PAY YOU an artist fee

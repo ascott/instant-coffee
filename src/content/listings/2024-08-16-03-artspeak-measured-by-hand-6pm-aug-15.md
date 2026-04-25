@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 3
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Measured by Hand | 6PM | AUG 15"
 ---
 

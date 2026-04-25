@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 20
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Richmond Art Gallery | FILM SCREENING AND TEA CEREMONY WITH LAM"
 ---
 

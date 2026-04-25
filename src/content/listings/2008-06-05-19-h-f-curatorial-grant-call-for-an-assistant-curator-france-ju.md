@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thirty three and a third % brighte
 emailDate: "Thu, 05 Jun 2008 08:20:36 -0700"
 number: 19
 type: ""
+venue: "H + F CURATORIAL GRANT"
 summary: "H + F CURATORIAL GRANT | CALL FOR AN ASSISTANT CURATOR | France | JUL 15"
 ---
 

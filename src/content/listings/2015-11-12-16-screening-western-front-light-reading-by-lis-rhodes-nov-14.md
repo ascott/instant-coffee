@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front | Light Reading by Lis Rhodes | NOV 14"
 ---
 
@@ -26,5 +27,5 @@ screen and then it is silent. In the final section of the film she begins
 again - reading the images as these are moved and re-placed, describing the
 piecing together of the film as she tries to piece together the strands of
 her story. "She watched herself being looked at She looked at herself being
-watched but she could not perceive herself as the subject of the sentenceâ€¦"
-â€“Lis Rhodes
+watched but she could not perceive herself as the subject of the sentence…"
+–Lis Rhodes

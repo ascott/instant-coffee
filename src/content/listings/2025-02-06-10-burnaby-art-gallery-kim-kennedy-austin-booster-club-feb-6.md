@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 10
 type: "OPENING"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Kim Kennedy Austin: Booster Club | FEB 6"
 ---
 

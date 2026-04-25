@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Online Viewing Room | Greg Girard | Mixed Use"
 ---
 

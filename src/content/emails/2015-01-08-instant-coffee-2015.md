@@ -70,19 +70,19 @@ The exhibition by Vancouver/Hornby Island artist Tom Burrows presents work
 by the artist from his early career to the present. The exhibition is a
 timely refocusing of attention on an artist who has made an immense
 contribution to the development of art in Vancouver, not only as an artist
-but as an educator and activist as wellâ€”in 1975 he received a United
+but as an educator and activist as well—in 1975 he received a United
 Nations commission to document squatters communities in Europe, Africa and
-Asia, a work that is now in the Belkinâ€™s collection. Burrows first rose to
+Asia, a work that is now in the Belkin’s collection. Burrows first rose to
 prominence in the late-1960s and was included in several exhibitions at the
 UBC Fine Arts Library, an institution that was seminal in encouraging
-Vancouverâ€™s growing and now vibrant art community. Burrowsâ€™ work, which
+Vancouver’s growing and now vibrant art community. Burrows’ work, which
 demonstrates an interest in process and new materials, has encompassed a
 number of disciplines including sculpture, early performance art, video,
 painting and iconic hand-built houses on the Maplewood Mudflats and Hornby
 Island. Currently most well known for his innovative monochromatic cast
 resin â€œpaintings/sculpturesâ€  produced during the last forty-five years,
 this exhibition examines the full breadth of his career with works from the
-Belkinâ€™s permanent collection and others borrowed from the artist,
+Belkin’s permanent collection and others borrowed from the artist,
 collectors and public institutions.
 
 Burrows has had solo exhibitions in London, Rome, Tokyo, Berlin, New York,
@@ -90,9 +90,9 @@ Edinburgh and across Canada. His work is included in private, corporate and
 public collections in Europe, Asia and the Americas.
 
 We gratefully acknowledge the generous support of the Canada Council for
-the Arts, the Vancouver Foundation and our Belkin Curatorâ€™s Forum members.
+the Arts, the Vancouver Foundation and our Belkin Curator’s Forum members.
 
-â€”
+—
 
 For more information contact:
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
@@ -168,7 +168,7 @@ Opening January 8th @ 8pm
 "[Apparatus], a thoroughly heterogeneous ensemble consisting of discourses,
 institutions, architectural forms, regulatory decisions, laws,
 administrative measures, scientific statements, philosophical, moral and
-philanthropic propositionsâ€“in short, the said as much as the unsaid. Such
+philanthropic propositions–in short, the said as much as the unsaid. Such
 are the elements of the apparatus. The apparatus itself is the system of
 relations that can be established between these elements."
 
@@ -180,29 +180,29 @@ Photography has historically been defined as the meshing of two things: a
 flat surface covered in a photosensitive material, and the apparatus needed
 to filter light onto such material. In lieu of Greenbergian modernism, for
 an artwork to be successful it must adhere to the stylistic properties of
-its medium. In art history, this has been used as a language â€“ allowing the
+its medium. In art history, this has been used as a language – allowing the
 physical properties of the medium to connote its apparent inherencies.
 
 Placing Light ontologically addresses medium specificity, disregarding the
-criteria needed for photography to be â€™successfulâ€™. Instead, the exhibition
+criteria needed for photography to be ’successful’. Instead, the exhibition
 purposes abstract and peripheral photographic equipment in order to
 consider photography in an expanded field.
 
-Justin Somjenâ€™s interaction with the medium lays not only in its apparatus
+Justin Somjen’s interaction with the medium lays not only in its apparatus
 and light-sensitive materials, but in the materials that store, transport,
 and protect these apparatus. Nylon quilted camera bags have been
 deconstructed and reconstructed to create non-functional accessories to
-wooden panels â€“ mirroring an abstracted lens-apparatus. These parts that
-make a whole stratify the gallery space, presenting a â€˜meshâ€™ for the
+wooden panels – mirroring an abstracted lens-apparatus. These parts that
+make a whole stratify the gallery space, presenting a ‘mesh’ for the
 spectator that is both illusory and planar. The works allude to the
 specificity of photography while taking an affective turn towards a
-Foucaultian â€˜depositifâ€™, projecting assembled affects.
+Foucaultian ‘depositif’, projecting assembled affects.
 
 -
 
 Justin Somjen is a photography-based artist practicing in Toronto. Recently
-graduated from Ryersonâ€™s photography program, his work plays with
-photographyâ€™s inherent characteristics and utilizes them in sculptural
+graduated from Ryerson’s photography program, his work plays with
+photography’s inherent characteristics and utilizes them in sculptural
 compositions. Continually favoring form as a main subject, he retrieves
 shape, line and formal qualities to manifest in reductive allegories.
 Convinced that form carries equal historical and cultural weight to
@@ -251,7 +251,7 @@ improvisation.
 ------------------------------------------------------------------------
 Mainstreeters: Taking Advantage, 1972 - 1982
 
-January 9â€”March 14, 2015
+January 9—March 14, 2015
 Opening Reception: January 8, 6 to 9pm
 
 Satellite Gallery, 560 Seymour Street, 2nd fl, Vancouver, 604-681-8425
@@ -260,17 +260,17 @@ Satellite Gallery launches a new exhibition that uncovers an
 under-recognized chapter of Vancouver art history. Mainstreeters: Taking
 Advantage, 1972-1982 is an exhibition, website and publication that shines
 a light on a self-identified collective of socially and artistically
-motivated men and women who came of age on Vancouver's Main Streetâ€”once the
+motivated men and women who came of age on Vancouver's Main Street—once the
 dividing line between a predominantly Anglo middle-class west side and a
 multicultural working-class east side.
 
-The Mainstreetersâ€”Kenneth Fletcher, Deborah Fong, Carol Hackett, Marlene
+The Mainstreeters—Kenneth Fletcher, Deborah Fong, Carol Hackett, Marlene
 MacGregor, Annastacia McDonald, Charles Rea, Jeanette Reinhardt and Paul
-Wongâ€”were an "art gang" who took advantage of the times, a new medium
+Wong—were an "art gang" who took advantage of the times, a new medium
 (video), and each other. Emerging from the end-stage hippie era, the gang
 drew from glam, punk and a thriving gay scene to become an important node
 in the local art scene. Their activities connect the influential
-interdisciplinary salon of Vancouverâ€™s Roy Kiyooka in the early 1960s with
+interdisciplinary salon of Vancouver’s Roy Kiyooka in the early 1960s with
 the collective-oriented social practices that have emerged worldwide in the
 early years of the 21st century. Like the current "digital natives"
 generation, the Mainstreeters were the first generation to grow up with
@@ -328,7 +328,7 @@ Friday, January 9, 2015 | 11:30am
 Room 245 | 2nd Floor, North Building
 Add event to calendar (http://ate.so/?rcrAiDi)
 
-Emily Carrâ€™s Print Media department and Malaspina Printmakers present the
+Emily Carr’s Print Media department and Malaspina Printmakers present the
 second in a series of artists' talks in conjunction with their exhibitions
 at Malaspina.
 
@@ -340,8 +340,8 @@ Friends (Glasgow), 1582 Dupont (Toronto), Modern Fuel (Kingston), Khyber
 ICA (Halifax), Platform Centre for photographic + digital arts (Winnipeg),
 The New Gallery (Calgary), Peak Gallery (Toronto), Saw Gallery (Ottawa),
 The Hole (New York), Museum of Contemporary Canadian Art (Toronto), and
-Graphic Design Festival (Breda). Her work is in the collection of the MusÃ©e
-dâ€™art contemporain de Baie-Saint-Paul (Quebec). She has been published in
+Graphic Design Festival (Breda). Her work is in the collection of the Musée
+d’art contemporain de Baie-Saint-Paul (Quebec). She has been published in
 Portrait of a Generation, Papercraft: Design and Art with Paper, Ottawa
 Citizen, The Record, NOW Magazine, cmagazine, The Globe and Mail, The
 Coast, and Uptown Magazine. She has received over twelve awards from the
@@ -364,16 +364,16 @@ order to educate the public and promote social and economic justice through
 artistic means. Our gallery and studio space, precariously balanced in a
 neighbourhood undergoing advanced gentrification, has emerged as a symbol
 of creative refuge and artist-driven authenticity.
-Gallery Gachet is pleased to present this yearâ€™s Annual Members Show,
+Gallery Gachet is pleased to present this year’s Annual Members Show,
 Oddities. Artists include: Afuwa, d.June Conley, Rebecca Chunn, Cherise
 Clarke, Lara Fitzgerald, Edzy Edzed, Murray Huehn, Kara Lee, Pierre
 Leichner, Peter Lojewski, Laurie Marshall, Shelagh Moore, Carmen Ostrander,
-Mary Oâ€™Toole, Bruce Ray, Karen Ward, and Ilir Xhediku.
+Mary O’Toole, Bruce Ray, Karen Ward, and Ilir Xhediku.
 
 In the sixteenth and seventeenth centuries, a cabinet of curiosities was a
 place, or more precisely a wooden piece of furniture with several
 compartments, where people would exhibit bizarre objects, artifacts and
-specimens â€”in a word oddities. Everything from a two-headed cow fetus
+specimens —in a word oddities. Everything from a two-headed cow fetus
 soaking in formaldehyde to an alleged unicorn horn, these objects gesture
 towards the complexity of the world and the vastness of the unknown. While
 these displays were successful in sparking the creative imaginations of
@@ -403,7 +403,7 @@ subjective realms one can create within their own mind. These works take
 the viewer on a journey through the meaning of dreams to a landscape which
 transcends physical laws.
 
-Bruce Rayâ€™s Bio
+Bruce Ray’s Bio
  I have been an artist all my life. I was trained in commercial art in high
 school. I have been involved in Gallery Gachet as a member for twenty
 years. I have had five solo shows and been involved in numerous group
@@ -437,7 +437,7 @@ and soundscapes.
 
 The project is an mirror of the transformative theatre experience that PuSh
 Festival provides to its audiences. The Experience Spheres seek to deepen
-the participantsâ€™ sense of place, belonging and temporalityâ€”to emerge with
+the participants’ sense of place, belonging and temporality—to emerge with
 a more fully rounded understanding and awareness of their place in the world.
 
 2. BAF is delighted to present new paintings by BAF studio resident: Antoni
@@ -476,9 +476,9 @@ He has been a resident artist at the Archie Bray Foundation for the Ceramic
 Arts (Helena, MT) and has participated in an international residency at the
 European Ceramic Work Centre ('s-Hertogenbosch, NL).
 
-Tangâ€™s work has been showcased at galleries and in printed and online
+Tang’s work has been showcased at galleries and in printed and online
 media. He has been exhibited at the Museum of Fine Art in Boston, the
-MusÃ©e d'art contemporain de MontrÃ©al in QB, and Art Labor in Shanghai, as
+Musée d'art contemporain de Montréal in QB, and Art Labor in Shanghai, as
 well being a recipient of the 2012 RBC Emerging Artist Award at the
 Gardiner Museum in Toronto. He has been profiled by The Knowledge Network,
 and featured in printed publications including The National Post, Wired (UK
@@ -522,7 +522,7 @@ Submission types:
 
 The 21st International Symposium on Electronic Art (ISEA) will be held
 August 14-18, 2015, in Vancouver, Canada. The ISEA2015 symposium will be
-hosted by Simon Fraser Universityâ€™s Faculty of Communication Arts and
+hosted by Simon Fraser University’s Faculty of Communication Arts and
 Technology (FCAT), and a vast variety of local academic and artistic
 partners. ISEA is the largest nomadic international gathering on
 'electronic and emergent media'. Since its start in the Netherlands in 1988
@@ -644,7 +644,7 @@ ISEA International Headquarters is supported by the University of Brighton
 International Program Committee:
 
 Adrian Cheok Keio University, Japan
-Adrian Carballal Universidade da CoruÃ±a, Spain
+Adrian Carballal Universidade da Coruña, Spain
 Alan Dorin Monash University, Australia
 Amaranth Borsuk University of Washington at Bothell, USA
 Amy K. Hoover University of Central Florida, USA
@@ -691,7 +691,7 @@ Absolute Space - CALL FOR SUBMISSIONS
 
 Deadline: January 13, 2015
 
-â€œAbsolute space, in its own nature, without relation to anything external,
+“Absolute space, in its own nature, without relation to anything external,
 remains always similar and immovable. Relative space is some movable
 dimension or measure of the absolute spaces; which our senses determine by
 its position to bodies; and which is commonly taken for immovable space;
@@ -782,23 +782,23 @@ Vancouver, BC V6A 1R1
 T. 604.336.7633
 
 Lost steps wander through indecisive bodies of light, colour and texture at
-Jamaa El Fna, Africaâ€™s busiest square and the epicentre of Marrakesh. By
+Jamaa El Fna, Africa’s busiest square and the epicentre of Marrakesh. By
 questioning digital precision in his photographic work, Josema Zamorano
 subverts the ubiquitous re-production of street spectacles by countless
-digital snapshots and shows another face of Moroccoâ€™s most important public
+digital snapshots and shows another face of Morocco’s most important public
 space. Although the camera can be seen as a machine for replicating a
 controlled view of reality, and the world seems more and more as if it is
 controlled by cameras, Josema smudges light to partially lose command while
 performing the gesture-based creation of his images. The outcome is an
 unstable combination of spontaneity and precision, planned but unimagined.
-His light paintings aim at rendering a clear gaze by showing realityâ€™s
+His light paintings aim at rendering a clear gaze by showing reality’s
 inherent ambiguity.
 
 Josema Zamorano is a visual artist, native to Mexico, now living in
 Vancouver. In recent years he has been imagining bridges between
 photography, painting, and poetry either by exposing unconventional ways of
-photo-graphing or by imaging poetry as visual artifact. Josemaâ€™s
-polymorphousâ€”mostly streetâ€”photography and writing advance questions about
+photo-graphing or by imaging poetry as visual artifact. Josema’s
+polymorphous—mostly street—photography and writing advance questions about
 the identity of people, places, and things.
 
 With intersecting interests in poetry, existential philosophy, and visual
@@ -821,11 +821,11 @@ Up in the Air: Eli Bornowsky.
 
 Eli Bornowsky has been practicing as an artist in Vancouver over the past
 decade, and has accomplished an impressive and diverse body of abstract
-paintings. This exhibition features a number of large canvas â€˜doublesâ€™
+paintings. This exhibition features a number of large canvas ‘doubles’
 which mirror each other with their almost-but-not-quite identical forms. A
 new suite of works on paper is presented, as well as a selection of works
 from the City of Burnaby Permanent Art Collection. Bornowsky explores the
-polyrhythmic textures of landscape, Renaissance painting, the artistâ€™s
+polyrhythmic textures of landscape, Renaissance painting, the artist’s
 studio, colour, Abstract Expressionism, doubles, and Cubism. Accompanying
 this exhibition is an artist book of the same title, published by the
 Burnaby Art Gallery.
@@ -862,13 +862,13 @@ environments to the accompaniment of the Royal Scottish Orchestra. The
 musical sequences are punctuated by public-access broadcasts from a
 disused 1960s TV studio, its doors re-opened by Collins to people from
 every walk of life, and by a series of short animations by Matthew Robins,
-soundtracked by Mogwaiâ€™s Barry Burns, which follows a group of characters
+soundtracked by Mogwai’s Barry Burns, which follows a group of characters
 on a night out. From children to pensioners, from poets to prisoners,
-Collinsâ€™s Glaswegians talk, sing, and dance us deep into the soul of their
+Collins’s Glaswegians talk, sing, and dance us deep into the soul of their
 city and beyond, exploring the need for human interaction amid the
 alienating information overload of the digital age.
 
-Programmed by MichÃ¨le Smith
+Programmed by Michèle Smith
 
 Tomorrow is Always Too Long
 Wednesday January 14, 2015, 7:30 pm
@@ -882,10 +882,10 @@ www.thecinematheque.ca/dim
 ------------------------------------------------------------------------
 The Geometry of Knowing
 
-Part 1: SFU Gallery, Burnaby, January 15 â€“ February 28, 2015
-Part 2: Audain Gallery, Vancouver, January 15 â€“ February 28, 2015
-Part 3: SFU Gallery, Burnaby, March 21 â€“ May 15, 2015
-Part 4: Audain Gallery, Vancouver, March 19 â€“ March 28, 2015
+Part 1: SFU Gallery, Burnaby, January 15 – February 28, 2015
+Part 2: Audain Gallery, Vancouver, January 15 – February 28, 2015
+Part 3: SFU Gallery, Burnaby, March 21 – May 15, 2015
+Part 4: Audain Gallery, Vancouver, March 19 – March 28, 2015
 
 Opening Reception and Event with Jeneen Frei Njootli and Kara Uzelman
 Wednesday, JAN 14, 2015, 7pm
@@ -902,7 +902,7 @@ space for innovative thinking and experimentation outside given frameworks.
 
 Many works in the exhibition engage hybrid forms of fieldwork, borrowing
 methodologies and tools from anthropology, hunting, marine navigation,
-chemistry, herbology and horticulture. For example, Kika Thorneâ€™s new
+chemistry, herbology and horticulture. For example, Kika Thorne’s new
 sculptural work, The Question of a Hunch, extends her ongoing interests in
 geometry, the visible spectrum and magnetism as a field upon which to
 project questions regarding chemical composition and its political
@@ -910,16 +910,16 @@ ramifications.
 
 Knowing through embodiment calls into play the geometry of sense
 perception, communication and collaboration between artists and physical
-enactments. For example, Carole Itterâ€™s 1979 photographic series, Euclid,
+enactments. For example, Carole Itter’s 1979 photographic series, Euclid,
 documents musician Al Neil tracing Euclidean geometric theorems in the sand
 at Cates Park in North Vancouver. These images were projected as part of a
-collaborative live performance with Al Neil on piano, used on Neilâ€™s Fog
+collaborative live performance with Al Neil on piano, used on Neil’s Fog
 and Boot album cover, as well as existing as photographic works in their
 own right.
 
 Manipulating materials, forms and images is a fundamental aspect of
 artistic production and transfigures how we experience, interpret and know
-the world. Camille Henrotâ€™s 2011 video, The Strife of Love in a Dream, for
+the world. Camille Henrot’s 2011 video, The Strife of Love in a Dream, for
 example, composes a visual atlas of strategies to conquer anxiety and fear
 through mythology, medicine, religion, art, ritual and tourism.
 
@@ -938,7 +938,7 @@ The exhibition includes work by over thirty Canadian and international
 artists across the first three parts, including works from the SFU Art
 Collection. The fourth component is constituted as an SFU School for
 Contemporary Arts visual arts course in which students respond to the
-exhibitionâ€™s theme.
+exhibition’s theme.
 
 Part 1: Derya Akay, Eli Bornowsky, Neil Campbell, Julia Feyrer, Lawren
 Harris, Roy Kiyooka, Michael Morris, Gordon Smith, Frank Stella, Takao
@@ -949,7 +949,7 @@ Jungen, David MacWilliam, N.E. Thing Co., Kara Uzelman, Brent Wadden. Part
 Devon Knowles, Evan Lee, Bruce Nauman, Hannah Rickards, Kika Thorne, Brent
 Wadden. Part 4: Students from the SCA
 
-Curated by Amy Kazymerchyk and Melanie Oâ€™Brian. Supported by a Project
+Curated by Amy Kazymerchyk and Melanie O’Brian. Supported by a Project
 Grant from the Canada Council for the Arts.
 
 Events
@@ -1009,22 +1009,22 @@ Readings are at 7 pm in SB 406. The public is welcome.
 
 Author Bios:
 
-RenÃ©e Sarojini Saklikar writes thecanadaproject, a life-long poem chronicle
+Renée Sarojini Saklikar writes thecanadaproject, a life-long poem chronicle
 that includes poetry, fiction, and essays. Work from thecanadaproject
 appears in literary journals, newspapers, and anthologies, including The
 Vancouver Review, Geist, Poetry is Dead, SubTerrain, Arc Poetry Magazine
 and The Georgia Straight and Ryga, a journal of provocations. The first
 completed series from thecanadaproject is a book length poem, children of
 air india, (Nightwood Editions 2013) about the bombing of Air India Flight
-182. You can find out more about RenÃ©eâ€™s work at
+182. You can find out more about Renée’s work at
 thecanadaproject.wordpress.com. Follow her on twitter @reneesarojini
 
 Wanda John-Kehewin has studied Criminology, Sociology, Aboriginal studies
-and creative writing with Simon Fraser Universityâ€™s Writerâ€™s Studio
+and creative writing with Simon Fraser University’s Writer’s Studio
 Program. She sees writing as a medium to understanding and responding to
 the near decimation of First Nations culture, language and tradition. She
-has been published in Quills Poetry, Salish Seas, UBCâ€™s Aboriginal
-Anthology, SFUâ€™s Emerge anthology. Her first book of poetry, In The Dog
+has been published in Quills Poetry, Salish Seas, UBC’s Aboriginal
+Anthology, SFU’s Emerge anthology. Her first book of poetry, In The Dog
 House, was published in April 2013 by Talonbooks.
 
 David Wong is an architect, an urban ecologist, and an author. He is an
@@ -1032,12 +1032,12 @@ advocate for sharing knowledge on the historic contributions of the Chinese
 to nation building, and has a passion for the arts and for the environment.
 His graphic novel, Escape to Gold Mountain: A Graphic History of the
 Chinese in North America (Arsenal Pulp 2012), was released to acclaimed
-reviews. Named by the Vancouver Sun as one of BCâ€™s 100 influential
-Chinese-Canadians, David was a recipient of a Queenâ€™s Diamond Jubilee medal
+reviews. Named by the Vancouver Sun as one of BC’s 100 influential
+Chinese-Canadians, David was a recipient of a Queen’s Diamond Jubilee medal
 in 2012, and was inducted as an Honorary Witness by the Truth and
 Reconciliation Commission of Canada in 2013.
 
-Jeff Derksenâ€™s books of poetry include The Vestiges (Talonbooks 2014),
+Jeff Derksen’s books of poetry include The Vestiges (Talonbooks 2014),
 Transnational Muscle Cars (Talonbooks 2003), Dwell (Talonbooks 1994), and
 Downtime (Talonbooks, Winner of the 1991 BC Book Prize - Dorothy Livesay
 Poetry Prize). His book of essays include Annihilated Time: poetry and
@@ -1052,7 +1052,7 @@ Amber Dawn is a writer from Vancouver, Canada. Author of the Vancouver
 Book Award-winning memoir How Poetry Saved My Life (Arsenal Pulp, 2013) and
 the Lambda Award-winning novel Sub Rosa (Arsenal Pulp 2010), she also
 edited the anthologies Fist of the Spider Women: Fear and Queer Desire and
-With A Rough Tongue. Amber Dawn was 2012 winner of the Writersâ€™ Trust of
+With A Rough Tongue. Amber Dawn was 2012 winner of the Writers’ Trust of
 Canada Dayne Ogilvie Prize for LGBT writers. Until August 2012, she was
 director of programming for the Vancouver Queer Film Festival. She
 currently teaches Speculative Fiction writing at Douglas College and Poetry
@@ -1083,15 +1083,15 @@ six books of poetry: Fireweed, The Post Electric Caveman, Pathways Into the
 Mountains, and ecologue (Harbour 2005), Decompositions (Talonbooks 2010),
 and Internodes (Talonbooks 2013).
 
-Marcus Youssefâ€™s plays and performance events, many of which were written
+Marcus Youssef’s plays and performance events, many of which were written
 or created with friends and colleagues, include: Winners and Losers,
 Jabber, How Has My Love Affected You?, Ali and Ali and the aXes of Evil
 (Talonbooks 2005), Everyone, Adrift (Talonbooks 2008), Peter Panties,
 HIVE's I & II, and A Line in the Sand. They have been performed across
 North America, Australia and Europe, translated into French, Czech,
-Flemish, and Italian. Awards: Alcan Performing Arts, Chalmerâ€™s Canadian
+Flemish, and Italian. Awards: Alcan Performing Arts, Chalmer’s Canadian
 Play, Arts Club Silver Commission, Seattle Times Footlight, Vancouver
-Criticsâ€™ Choice Innovation (three times), and numerous
+Critics’ Choice Innovation (three times), and numerous
 Jessies/Masques/Doras. Marcus is artistic director of Neworld Theatre.
 Joe Denham is the author of two collections of poetry, Flux (Nightwood
 2003) and Windstorm (Nightwood 2009), and a novel, The Year of Broken Glass
@@ -1099,7 +1099,7 @@ Joe Denham is the author of two collections of poetry, Flux (Nightwood
 fishboat captain throughout the waters of coastal BC. He currently lives in
 Halfmoon Bay, BC with his wife and two children.
 
-Al Rempelâ€™s books of poetry are This Isn't the Apocalypse We Hoped For
+Al Rempel’s books of poetry are This Isn't the Apocalypse We Hoped For
 (Caitlin Press 2013), understories and a chapbook called The Picket Fence
 Diaries. His poems have also appeared in The Malahat Review, GRAIN, CV2,
 Event, and in anthologies such as The Best Canadian Poetry in English, 2011
@@ -1123,14 +1123,14 @@ Curator: Makiko Hara
 grunt gallery presents Crossed, an exhibition by artist Ahmad Tabrizi and
 curated by Makiko Hara. This multi-media exhibition creates a sense of
 portraiture compiled of Farsi script, piles of dressmaking pins, and
-glimpses of the artist himself â€“ both visually and through audio.
+glimpses of the artist himself – both visually and through audio.
 
 Tabrizi studied comparative literature in Tehran, with an eventual goal to
 pursue a Ph.D in Persian Literature and a teaching career. His involvement
 in the student movement leading up to the Iranian revolution led to his
 flight from Iran after which he eventually found refuge in Vancouver.
 
-â€œThis installation [addresses] intellectual claustrophobia through language
+“This installation [addresses] intellectual claustrophobia through language
 as a weapon of attack and defense; what is lost in the communication
 becomes loud sounds, weaponized sounds, sounds through the presence of
 pins. Pins are a universal symbol of pain, like a loud â€œouch,â€  but silent
@@ -1138,16 +1138,16 @@ at the same time.
 
 It is also a portrait, but reduced to just eyes and language. The
 self-portrait of pinheads, though there is no specific self, is perhaps a
-very oddball portrait â€“ oddballs of displacement and misplacement and the
+very oddball portrait – oddballs of displacement and misplacement and the
 â€œdoorâ€  separating Us and Them. The Persian language written on the â€œdoorâ€ 
 is used as decoration or beauty (surface). The English is used as tag or
 brandification â€“ one as â€œunknown,â€  one as insult/poetry or slogan of the
 collective experiences of refugees, the exiled, marginalized or what is
 â€œnormallyâ€  perceived as â€œthe Others.â€ 
 
-â€“ Ahmad Tabrizi, artist statement.
+– Ahmad Tabrizi, artist statement.
 
-Join us on Thursday January 15th from 7pm â€“ 10pm for the opening reception
+Join us on Thursday January 15th from 7pm – 10pm for the opening reception
 of this exhibition. An essay written by Lorna Brown will be available at
 the opening. The exhibition runs from January 15 to February 21, 2015.
 
@@ -1164,7 +1164,7 @@ Refreshments will be served
 
 The Facility for Consideration
 
-January 16 â€“ February 28th 2015
+January 16 – February 28th 2015
 Opening reception is January 15 at 7pm.
 
 Featuring work by
@@ -1190,7 +1190,7 @@ bigger, has become exponentially more complex in the last few decades. The
 implicated range of minute or distant structures and detailed architectures
 to the awareness of the individual is now immense and grows proportionately
 to the availability of information and experience. The networks we
-familiarly navigate have created a Zeno's Paradox â€“ the vertigo of never
+familiarly navigate have created a Zeno's Paradox – the vertigo of never
 being able to reach the other side of a road which we have always already
 been crossing; the array of measurable points between points multiplies as
 we regard more closely. These include our personal use of the digital, the
@@ -1274,12 +1274,12 @@ the Vancouver Art Gallery. Gradin was formerly the music editor for the
 print magazine Color, which featured art, music and skateboarding. He has
 published seven art books, and has self-published dozens of zines. Gradin
 has also been active in the community, running several artist and
-performance spaces, from L.A.â€™s Mime School to Vancouverâ€™s Emergency Room.
+performance spaces, from L.A.’s Mime School to Vancouver’s Emergency Room.
 
 Nathan Jones is an artist, curator and one of the founding members of Print
 Ready, an ongoing Vancouver-based zine and art book exhibition series. He
 has a B.A. from Emily Carr University of Art + Design and a B.Ed. from
-Simon Fraser University. Jonesâ€™ art practice has its foundation in drawing
+Simon Fraser University. Jones’ art practice has its foundation in drawing
 and painting. He has worked in a wide breadth of media, including
 independent and commercial film, musical performance, illustration and
 design for print. His work has been exhibited in Vancouver, Montreal and
@@ -1301,7 +1301,7 @@ Friday Jan 16, 7-10 pm
 
 INTERNAL CLIMATES
 
-[â€¦-Command from control
+[…-Command from control
 -This is engine 53 we have arrived at location fourty-two hundred Firewalk
 Way permission to investigate
 -Granted
@@ -1313,7 +1313,7 @@ i repeat not a residential. it is an abandoned building
 -Medic 46 engine 52 ladder 56 have you arrived at the location?
 -Engine 52 ladder 56 affirmative, we have left our vehicles and are in the
 building
--Car 36 I canâ€™t seem to find you in here, can you state your location?
+-Car 36 I can’t seem to find you in here, can you state your location?
 -Ladder 56 we entered the north side of the premises, climbing a stairwell
 to the third floor
 -Car 36 I entered the west end of the building heading south but I seem to
@@ -1323,8 +1323,8 @@ be trapped by gates on all sides. Control for back up to the west entrance.
 -Negative I must be farther south now
 -Medic 46 we seem to be lost inside the building now, control for back up
 to the north entrance, search for flashing lights
--Roger that, ladder 56 no sight of lights from my position, weâ€™ll keep
-searchingâ€¦]
+-Roger that, ladder 56 no sight of lights from my position, we’ll keep
+searching…]
 
 A new collaboration by Emma LaMorte and Adam Shiu-Yang Shaw
 
@@ -1355,21 +1355,21 @@ exhibition of their new feature length film Bugs. Following the opening
 premiere of the film, Bugs will be screened on Saturdays at 2pm from
 January 17-February 7.
 
-A response to Disney movies like A Bugâ€™s Life, the film is a modern-day
+A response to Disney movies like A Bug’s Life, the film is a modern-day
 fable about a bug society that expresses satirical ideas about success and
 individualism within a fantasy world. Extending outward from the screen
 space of the film, the installation (made in collaboration with Laura
 McCoy) moves through the entire building, toying with the notions of hype
 and publicity that are a part of going to see a movie. Both playful and
 irreverent, the exhibition embodies the humorous DIY ethos at the heart of
-Life of a Crapheadâ€™s artistic practice.
+Life of a Craphead’s artistic practice.
 
 Artist Biographies
 
 Life of a Craphead is the performance art group of Amy Lam and Jon McCurley
 since 2006. L.o.a.Ch live and work in Toronto, Canada. Projects include
 transporting two prisoners in a cage on the back of a truck, touring a live
-comedy show, giving away everything on a restaurantâ€™s menu, and building a
+comedy show, giving away everything on a restaurant’s menu, and building a
 3-story maze. They were artists-in-residence at the Art Gallery of Ontario
 in the winter of 2013 and produced the Life of a Craphead Fifty Year
 Retrospective, 2006-2056, an exhibition of all the work they will ever
@@ -1413,7 +1413,7 @@ established Grosvenor School of Modern Art, staying until 1928. At the
 school she learned colour linocutting from instructor Claude Flight. He
 introduced his pupils to the formal language of the avant-garde art of the
 Italian Futurists, the French Cubists, and the English Vorticists, all of
-which influenced Andrewâ€™s work. Following World War II Andrews emigrated
+which influenced Andrew’s work. Following World War II Andrews emigrated
 from Britain to Campbell River, BC, where she spent the rest of her life
 adapting her modernist approach to decidedly West Coast subjects including
 First Nations culture, the rainforest, and the logging and fishing industries.
@@ -1421,8 +1421,8 @@ First Nations culture, the rainforest, and the logging and fishing industries.
 Gwenda Morgan studied wood-engraving, part-time, with a variety of
 instructors from 1930-36 at the Grosvenor School. The precision of wood
 engraving appealed to her, as did its relative simplicity as a technique.
-In 1939 she joined the Womenâ€™s Land Army, labouring on local farms
-throughout World War II, and leaving a diary of her time as a â€˜land-girlâ€™.
+In 1939 she joined the Women’s Land Army, labouring on local farms
+throughout World War II, and leaving a diary of her time as a ‘land-girl’.
 Many of her experiences as well as the people and places of her home in the
 Sussex countryside were incorporated into her art. Morgan illustrated books
 for several private presses from 1936 onwards and exhibited occasionally.
@@ -1471,12 +1471,12 @@ FAXED, MAILED, OR INCOMPLETE SUBMISSIONS WILL NOT BE REVIEWED.
 <a href="/instant-coffee/listings/2015-01-08-27-surrey-art-gallery-views-from-the-southbank-i-jan-17">27. OPENING | Surrey Art Gallery | Views from the Southbank I | JAN 17</a>
 ------------------------------------------------------------------------
 Views from the Southbank I: Histories, Memories, Myths
-Re:Sourceâ€“A Living Archive 1975â€“2015
-Taryn Hubbard: Surrey City Centre nÃ©e Whalley
+Re:Source–A Living Archive 1975–2015
+Taryn Hubbard: Surrey City Centre née Whalley
 
-January 17â€“March 15 | Opening Reception: January 17, 7:30â€“9:30pm
+January 17–March 15 | Opening Reception: January 17, 7:30–9:30pm
 Formal remarks begin at 7:45 pm (opening is preceded by curator s tour from
-6:30â€“7:30pm)
+6:30–7:30pm)
 
 We're kicking off our 40th anniversary with 3 exhibitions focused on South
 of Fraser art.
@@ -1491,13 +1491,13 @@ Gibbons, Ravi Gill, Shandis Harrison, Jeremy Herndl, Brian Howell, Reuben
 Kambeitz, Micah Lexier, Suzanne Northcott, Deborah Putman, Bill Rennie, Don
 Romanchuck, Carol Sawyer, Kevin Schmidt, and Lenore Tkachuk.
 
-Also on display is Re:Sourceâ€“A Living Archive 1975â€“2015, an evolving
+Also on display is Re:Source–A Living Archive 1975–2015, an evolving
 installation that brings the Gallery's diverse archive to life through the
 lens of 5 artists: Jim Adams, Polly Gibbons, Cora Li-Leger, Haruko Okano,
 and Mandeep Wirk.
 
 Surrey-based writer Taryn Hubbard kicks off the first exhibition of Open
-Sound 2015: Polyphonic Cartograph with Surrey City Centre nÃ©e Whalleyâ€”a
+Sound 2015: Polyphonic Cartograph with Surrey City Centre née Whalley—a
 five channel soundscape of Surrey's new City Centre and surrounding community.
 
 Surrey Art Gallery gratefully acknowledges the financial assistance of City
@@ -1505,7 +1505,7 @@ of Surrey, BC Arts Council, Canada Council for the Arts, Government of
 Canada through the Department of Canadian Heritage, and Vancouver Foundation.
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 Canada
 V3W 3L1
@@ -1538,7 +1538,7 @@ Lanigan-Schmidt, and Maria Lassnig. He also curated September 11, a group
 exhibition organized on the occasion of the tenth anniversary of the
 terrorist attacks in 2011, and oversaw MoMA PS1's expanded presentation of
 the Mike Kelley retrospective in 2013, which was the largest solo
-exhibition in the institutionâ€™s history. From 2007 through 2010, Eleey was
+exhibition in the institution’s history. From 2007 through 2010, Eleey was
 a curator at the Walker Art Center in Minneapolis, where he organized
 exhibitions with Trisha Brown and Goshka Macuga, along with the group shows
 The Quick and the Dead and The Talent Show. Before joining the Walker, he
@@ -1552,9 +1552,9 @@ was a curator and producer at Creative Time.
 DEADLINE: 20 JANUARY 2015
 
 LINK & PIN performance art series, organized & curated by Adriana Disman,
-is moving to Montreal for 2015-16! To broaden L&Pâ€™s knowledge of practicing
+is moving to Montreal for 2015-16! To broaden L&P’s knowledge of practicing
 performance artists and avoid insularity, we are offering this open
-submission. The submittal is open formatâ€”it can be as simple as your name
+submission. The submittal is open format—it can be as simple as your name
 and web site, or a description of a piece you want to present, or a text on
 why you want to perform here, etc. Include whatever you think we should see
 to get a sense of your practice. Local, international, established, and
@@ -1565,7 +1565,7 @@ accrued towards a bank of artists that we can return to whenever we are
 programming.
 
 IMPORTANT: All artists should read the mandates (below) before submitting,
-as itâ€™s imperative that all programming aligns with these. As well, L&P has
+as it’s imperative that all programming aligns with these. As well, L&P has
 zero funding and cannot offer any artist/material fees or housing. We are
 happy to provide letters of invitation for grant applicants!
 
@@ -1577,11 +1577,11 @@ safe(r) space, a place where, through art, we can start a discussion about
 feminist, post/decolonial, and queer issues. *RATS 9 is wheelchair accessible
 
 LINK & PIN Mandate:
-LINK & PINâ€™s mandate is to present performance art specific works. Though I
+LINK & PIN’s mandate is to present performance art specific works. Though I
 am not interested in policing what is and isnâ€™t â€œperformance artâ€  the goal
 of this mandate is to offer space to work that is not supported via the
 plethora of dance and theatre institutions in Montreal. We love you but if
-the work youâ€™re showing could be programmed there, go there.
+the work you’re showing could be programmed there, go there.
 
 Send submissions or questions to: linkandpinperformance@gmail.com with the
 subject line "OPEN CALL 2015"
@@ -1622,7 +1622,7 @@ Curated by Michelle Jacques and Toby Lawrence
 
 In Another Place, And Here brings together the work of eight local,
 national, and international artists in an exploration of the relationships
-between geography, politics, identityâ€“and photography.
+between geography, politics, identity–and photography.
 
 The exhibition takes its cues from the Dionne Brand novel that inspired its
 title, highlighting a shared artistic inclination to investigate the
@@ -1630,7 +1630,7 @@ relationships between the self and place. The artists are from varied
 locations, and each brings a unique approach to picturing the human
 relationship to the environment. Yet out of this diversity emerges a very
 focused conversation, one that encourages the viewer to think about
-Vancouver Islandâ€™s coastal location and the complexities that underlie our
+Vancouver Island’s coastal location and the complexities that underlie our
 relationships to this place.
 
 The exhibition also provides an opportunity for the AGGV to think
@@ -1641,7 +1641,7 @@ to be widespread throughout the coastal British Columbia region, the
 selected photographic works are as thought-provoking as they are visually
 engaging.
 
-Exhibiting artists include Nadia Huggins, Oâ€™Neil Lawrence, Mike Andrew
+Exhibiting artists include Nadia Huggins, O’Neil Lawrence, Mike Andrew
 McLean, Meryl McMaster, Troy Moth, Dawit Petros, Krista Belle Stewart, and
 Li Xinmo.
 
@@ -1661,7 +1661,7 @@ Marketing and Social Media Consultant Job Description
 
 The Richmond Art Gallery, the only public gallery in Richmond, British
 Columbia, is a municipal gallery supported by the Richmond Art Gallery
-Association, an independent, non-profit society. The Galleryâ€™s mandate is
+Association, an independent, non-profit society. The Gallery’s mandate is
 to exhibit, preserve and promote contemporary visual arts and provide
 exhibition-related programming. Through its exhibitions, publications,
 educational programming, collections, and significant partnerships, the
@@ -1672,7 +1672,7 @@ and international contemporary art.
 Reporting to the Gallery Director, the Marketing and Social Media
 Consultant is a short-term contracted position funded by the BC Arts
 Council. The Consultant will assist the Director and staff in evaluating
-the Galleryâ€™s current marketing operations and social media presence to
+the Gallery’s current marketing operations and social media presence to
 enhance its visibility and promote increased attendance, membership and
 donations. The Consultant will complete research and analysis of the
 highest professional quality and communicate recommendations and findings
@@ -1680,7 +1680,7 @@ in the form of written reports, visuals, and presentations.
 
 Responsibilities:
 
-Evaluate the Galleryâ€™s current marketing collateral and publications,
+Evaluate the Gallery’s current marketing collateral and publications,
 both printed and web based
 
 Develop a strategic marketing and social media plan for the Gallery,
@@ -1689,7 +1689,7 @@ attendance.
 
 Advise on the coordination, preparation, and dissemination of print and
 digital content across various platforms consistent with institutional
-mission and excellence to further the Galleryâ€™s position as a cultural leader
+mission and excellence to further the Gallery’s position as a cultural leader
 
 Research and collect information on media outlets, new audiences and
 marketing opportunities
@@ -1706,28 +1706,28 @@ physical and online audiences and supporters
 
 Qualifications:
 
-Â· Post-secondary education in public administration, business
+· Post-secondary education in public administration, business
 administration, marketing, communications or related experience; non-profit
 arts marketing background preferred
 
-Â· 3+ years professional work experience
+· 3+ years professional work experience
 
-Â· Experience dealing with media
+· Experience dealing with media
 
-Â· Experience coordinating online and social media content
+· Experience coordinating online and social media content
 
-Â· Strong organizational and time management skills; able to manage
+· Strong organizational and time management skills; able to manage
 multiple tasks and competing priorities within short timelines.
 
-Â· Ability to work independently and with a team
+· Ability to work independently and with a team
 
-Â· Excellent writing and communications skills
+· Excellent writing and communications skills
 
 Salary: $35 hour on contract for a total of 350 hours
 
 Hours of Work:
 
-14 â€“ 20 hours a week between February â€“ July 2015 (flexible)
+14 – 20 hours a week between February – July 2015 (flexible)
 
 The consultant will work both from a home office (responsible for
 maintaining own internet and computing equipment), and from the Gallery, as
@@ -1769,7 +1769,7 @@ Thank You, we look forward to hearing from you!
 ------------------------------------------------------------------------
 Canadian Film Centre - Call for Applicants
 CFC Cineplex Entertainment Film Program: Directors' Lab, Editors' Lab,
-Producers' Lab, and Writersâ€™ Lab
+Producers' Lab, and Writers’ Lab
 
 The Cineplex Entertainment Film Program champions original voices,
 entrepreneurism and collaboration. We encourage filmmakers to take creative
@@ -1793,9 +1793,9 @@ POWELL STREET FESTIVAL SOCIETY
 
 ABOUT THE SOCIETY
 
-The Powell Street Festival Societyâ€™s (PSFS) mission is to cultivate
+The Powell Street Festival Society’s (PSFS) mission is to cultivate
 Japanese Canadian arts and culture to connect communities. Our main
-activity is producing the Powell Street Festival (PSF) in Vancouverâ€™s
+activity is producing the Powell Street Festival (PSF) in Vancouver’s
 historic Japanese Canadian neighbourhood. PSF is an annual celebration of
 Japanese Canadian arts and culture. Inaugurated in 1977, it is the largest
 event of its kind in Canada and the longest running community festival in
@@ -1822,8 +1822,8 @@ production and Festival presentation.
 The Powell Street Festival Society envisions a society enriched and
 interconnected through Japanese Canadian arts and culture. The Artistic
 Director will play a lead role in shaping the curatorial direction of the
-Society as it relates to this vision. Staying true to PSFSâ€™s mission, the
-Artistic Director will invigorate the Societyâ€™s annual season of
+Society as it relates to this vision. Staying true to PSFS’s mission, the
+Artistic Director will invigorate the Society’s annual season of
 programming, including the Festival, now entering its 39th year. The
 Artistic Director will have a vision that is expansive and engaging,
 working towards diversifying the Festival, its seasonal programming and
@@ -1835,12 +1835,12 @@ Duties and Responsibilities:
 
 Programming and Curatorial:
 -Increases research of and outreach to artists, curators and cultural
-producers whose works are consistent with the Festivalâ€™s mission.
+producers whose works are consistent with the Festival’s mission.
 -Develops a clear curatorial vision for each Festival, and communicates
 that vision through outreach and publicity.
 -Chairs monthly evening Programming Committee meetings.
 -In cooperation with the Programming Committee, oversees and leads the
-development and execution of each seasonâ€™s programming and translates it
+development and execution of each season’s programming and translates it
 into project descriptions.
 -In cooperation with the Programing Committee evaluates and selects
 Festival artists to invite, and Festival artist applicants.
@@ -2031,7 +2031,7 @@ City of Victoria
 Victoria, BC
 Budget: $125,000 (all inclusive)
 Eligibility: Open to artists who are residents of Canada
-Deadline: Monday, February 2, 2015 â€“ 1 p.m. (PST)
+Deadline: Monday, February 2, 2015 – 1 p.m. (PST)
 
 Artists and artist teams are invited to submit an Expression of Interest to
 enter a national, three-stage juried competition to create new public art
@@ -2090,13 +2090,13 @@ acknowledging artist-run centres for their artistic leadership, legacy, and
 rich contributions to the cultural landscape.
 
 Call for Submissions
-ARCCOâ€™s 2015 conference Artists at the Center: Moving from the Margins to
+ARCCO’s 2015 conference Artists at the Center: Moving from the Margins to
 Inclusion invites submissions from a variety of perspectives including
 those from artists, curators, and administrators of artist-lead initiatives
 to contribute to this conversation around the varied, transferable and
 transformative potential of engagement.
 
-Submissions may include presentations that explore â€˜engagementâ€™ in various
+Submissions may include presentations that explore ‘engagement’ in various
 ways, but not limited to:
 
 critically examining models of engagement, outreach, and inclusion
@@ -2153,8 +2153,8 @@ contemporary art in a variety of media and multi-disciplinary work.
 Acknowledgements
 ARCCO gratefully acknowledges the financial support of the Ontario Arts
 Council, the Ontario Trillium Foundation, and partner Artist-Run Centres
-and Collectives Conference / ConfÃ©rence des collectifs et des centres
-d'artistes autogÃ©rÃ©s (arca).
+and Collectives Conference / Conférence des collectifs et des centres
+d'artistes autogérés (arca).
 http://arcco.ca
 
 ------------------------------------------------------------------------
@@ -2166,7 +2166,7 @@ CAFKA - Contemporary Art Forum Kitchener and Area is seeking submissions
 for its biennial exhibition of contemporary art in the public spaces of the
 Region of Waterloo in June 2016.
 
-The biennial exhibition is curated by CAFKAâ€™s Program Committee, which will
+The biennial exhibition is curated by CAFKA’s Program Committee, which will
 consider submission proposals as part of its curatorial research.
 
 The CAFKA Biennial takes the experience of contemporary art out of the
@@ -2189,7 +2189,7 @@ Artistes Canadiens).
 Please note: Proposals that rely on the physical characteristics of
 galleries (controlled lighting, low ceilings, hanging walls etc.) cannot be
 considered. For images of public spaces for possible project installations,
-please refer to CAFKAâ€™s exhibition archive for examples from previous
+please refer to CAFKA’s exhibition archive for examples from previous
 biennials at http://www.cafka.org/exhibitions or go to
 http://www.cafka.org/page/public-spaces-waterloo-region for a photo album
 of potential public spaces.
@@ -2277,11 +2277,11 @@ hello@heidi-nagtegaal.com
 STUDIO SPACE AVAILABLE | 600 sq. ft. shared studio | AVAIL NOW
 
 There is a studio space available in a 600 sq. ft. studio located on 2nd
-and Main. Itâ€™s in a great area; itâ€™s by the Skytrain, close to Chinatown,
-Broadway is up the street and itâ€™s a few blocks from The Western Front,
+and Main. It’s in a great area; it’s by the Skytrain, close to Chinatown,
+Broadway is up the street and it’s a few blocks from The Western Front,
 Grunt Gallery and Gallery 295.
 
-The building houses other artistsâ€™ studios, a commercial wood shop and a
+The building houses other artists’ studios, a commercial wood shop and a
 recording studio. Since the recording studio is close to our space, no
 heavy machinery is permitted in the studio, but occasional noise making can
 happen downstairs. The studio has 2 windows, built-in shelves and a small
@@ -2289,7 +2289,7 @@ wall dividing the space. There is a washroom with a good size sink on the
 main floor and an industrial sink for heavy-duty chemicals downstairs.
 
 You would be sharing the space with 2 other people, a visual artist and a
-fashion student, both in their late 20s. Weâ€™re looking for someone whoâ€™s
+fashion student, both in their late 20s. We’re looking for someone who’s
 easy going, serious about their practice and open to negotiating space.
 
 The space is available now. The rent is 230$ a month, including internet

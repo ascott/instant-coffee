@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 22
 type: "OPENING"
+venue: "Dundarave Print Workshop & Gallery"
 summary: "Dundarave Print Workshop & Gallery | Findings | 530PM | FEB 28"
 ---
 

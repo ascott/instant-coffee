@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 20
 type: "OPENING"
+venue: "The Apartment"
 summary: "The Apartment | Vikky Alexander, Rochelle Goldberg | NOV 28"
 ---
 
@@ -15,7 +16,7 @@ Rochelle Goldberg
 
 The Local Link (Lust got in the way)
 
-November 28 â€“ February 14
+November 28 – February 14
 
 The Apartment is thrilled to present an exhibition of pivotal historic work
 by Vancouver photographer Vikky Alexander, all made in the 1980s.
@@ -24,12 +25,12 @@ religious diptychs and triptychs, the works in The Temptation of St Anthony
 are classic postmodern takes on objectification and temptation.
 
 The pioneering Vancouver artist and writer Ian Wallace relates how
-Alexanderâ€™s work is "an expression of the imaginary, wherein fantasies of
+Alexander’s work is "an expression of the imaginary, wherein fantasies of
 hope and utopia are acted out in the daydreams that call reality into
 question. These are collective fantasies and are linked to popular taste
 for images that transcend the everyday. The images of extreme beauty, which
 are ubiquitous in commodity culture, function as a cult of escape from the
-everydayâ€¦ Alexanderâ€™s work projects the raw indulgence that exists on the
+everyday… Alexander’s work projects the raw indulgence that exists on the
 inside of these fantasies, heightening our apprehension and anxieties of
 them from within."
 
@@ -62,8 +63,8 @@ body. This private system is not discrete.
 Chains of signification extend from a basic question: How to unlearn one
 self as surface? Shedding is a necessary peeling away while in the act of
 recovery. It starts on the outside and slowly removes its way in. The
-mapping out of self on virtual selfâ€“is a volatile convergence that will at
-any moment unravelâ€“â€“Hence there emerges an impulse to suspend this in
+mapping out of self on virtual self–is a volatile convergence that will at
+any moment unravel––Hence there emerges an impulse to suspend this in
 stone. Petrifcation is not a sudden fearful halt but the pivot of
 emergence. As the discard piles up, will it be brought to bear on the
 forces that held it on us, held us in place? Desire, degraded by this
@@ -77,7 +78,7 @@ Rochelle Goldberg
 
 The Local Link (Lust got in the way)
 
-November 28 â€“ Feb 14
+November 28 – Feb 14
 
 Opening reception Friday November 28, 8pm
 

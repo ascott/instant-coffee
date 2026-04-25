@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 16
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Music Waste & CiTR | Victory Square Block Party | SEP 6"
 ---
 

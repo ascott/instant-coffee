@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 6
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Khan Lee & Andrew Lee - Closing Event | JUL 2"
 ---
 

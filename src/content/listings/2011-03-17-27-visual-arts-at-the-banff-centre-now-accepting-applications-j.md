@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 27
 type: ""
+venue: "Visual Arts at The Banff Centre"
 summary: "Visual Arts at The Banff Centre | Now Accepting Applications | JUL 25"
 ---
 
@@ -11,11 +12,11 @@ Visual Arts at The Banff Centre
 Now Accepting Applications
 
 Trading Post with Candice Hopkins
-Program dates: January 4 â€“ February 21, 2012
+Program dates: January 4 – February 21, 2012
 Application deadline: July 25, 2011
 Trading posts were meeting places. Sites to exchange goods, they also
 facilitated the transfer of news and information. Here, cultural
-differences were performed via the trade of materials and ideasâ€”a consensus
+differences were performed via the trade of materials and ideas—a consensus
 of value was required (although always to the benefit of those running the
 posts) but contained the potential to subvert these systems. Economic and
 colonial expansion was enabled through this network of posts. Nearly every
@@ -34,7 +35,7 @@ for sharing skills. Participants are expected to bring something to
 trade/exchange/gift.
 
 Please note: Enrolment to this program is limited to individuals of
-Aboriginal descent (status, non-status, MÃ©t is, or Inuit).
+Aboriginal descent (status, non-status, Mét is, or Inuit).
 
 Banff Artist in Residence (BAIR) Programs
 Ongoing opportunities

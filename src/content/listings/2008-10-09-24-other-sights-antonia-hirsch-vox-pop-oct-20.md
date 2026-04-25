@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 24
 type: ""
+venue: "Other Sights"
 summary: "Other Sights | ANTONIA HIRSCH : VOX POP | OCT 20"
 ---
 
@@ -32,7 +33,7 @@ Without the presence of the crowd to complete the effect of the
 participatory cheer, his peculiar salute seems ominous and unsettling. Not
 shared with others in the circular sweep of the stadium, it summons up both
 the history of the arena in western culture and the evolution of the salute
-gesture. The stranded fan performs his part in isolation, his Ã¢ï¿½ï¿½communityÃ¢ï¿½ï¿½
+gesture. The stranded fan performs his part in isolation, his â��communityâ��
 imaginary - making his action deliberate and personal.
 
 Silent, and consisting of two one-minute segments, Vox Pop slows down the
@@ -61,7 +62,7 @@ regulatory conditions of public places and public life.
 Vox Pop is the inaugural project of Looking Up, a curated series of artist
 works that engage with public space and civic agency.
 
-presented by Other Sights for ArtistsÃ¢ï¿½ï¿½ Projects Association
+presented by Other Sights for Artistsâ�� Projects Association
 
 www.othersights.ca
 

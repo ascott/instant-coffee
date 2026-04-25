@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 51
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | 2020 Call for Submissions | OCT 21"
 ---
 

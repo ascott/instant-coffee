@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 22
 type: ""
+venue: "North Vancouver Community Arts Council"
 summary: "North Vancouver Community Arts Council | Call | APR 4"
 ---
 

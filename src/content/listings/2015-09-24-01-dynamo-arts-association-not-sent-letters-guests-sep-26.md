@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 1
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | NOT SENT LETTERS & GUESTS | SEP 26"
 ---
 

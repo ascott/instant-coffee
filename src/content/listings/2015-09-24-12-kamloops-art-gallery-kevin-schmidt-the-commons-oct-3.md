@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 12
 type: "OPENING"
+venue: "Kamloops Art Gallery"
 summary: "Kamloops Art Gallery | Kevin Schmidt: The Commons | OCT 3"
 ---
 

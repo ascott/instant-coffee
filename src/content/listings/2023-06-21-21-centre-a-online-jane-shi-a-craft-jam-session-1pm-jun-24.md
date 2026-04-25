@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 21
 type: "EDUCATION"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | Jane Shi: A Craft Jam Session | 1PM | JUN 24"
 ---
 

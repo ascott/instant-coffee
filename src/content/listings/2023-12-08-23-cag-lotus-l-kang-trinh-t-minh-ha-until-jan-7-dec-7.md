@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 23
 type: "EXHIBITION"
+venue: "CAG"
 summary: "CAG | Lotus L. Kang & Trinh T. Minh-ha | UNTIL JAN 7 | DEC 7"
 ---
 

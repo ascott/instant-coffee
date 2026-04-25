@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 25
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Conversations in the Field: Sound, Ecology... | NOV 15"
 ---
 
@@ -31,21 +32,21 @@ lives in Sante Fe, New Mexico where he is the current director of the Art
 and Science Laboratory. 
 
 Panelists include Stephanie Loveless, Matt Smith, and Paul Walde who 
-are all Open Sound 2014 exhibiting artists. Paul Waldeâ€™s piece 
+are all Open Sound 2014 exhibiting artists. Paul Walde’s piece 
 Mycolophonia is the latest installation to go up at the Surrey Art Gallery, 
 inspired by the work of the American composer and amateur mushroom 
 enthusiast John Cage. This recording of mushroom spores as they are 
 released into the air invites the listener to contemplate the relationship 
-between music and mushrooms. Matt Smithâ€™s BogScape is a 
+between music and mushrooms. Matt Smith’s BogScape is a 
 â€œnaturalisticâ€  installation that generates sound from weather data 
-gathering systems located in or near Burns Bog. Stephanie Lovelessâ€™s 
+gathering systems located in or near Burns Bog. Stephanie Loveless’s 
 quadraphonic sound installation Cricket, Tree, Crow uses voice to 
 investigate the communication of insect, plant, and animal worlds. These 
 artists will be joined by Jennifer Schine, an award-winning researcher, 
 sound artist, and communication specialist whose ethnographic work 
 explores the aural and oral - 2 - 
 
-heritage of British Columbiaâ€™s coastal communities. She will be 
+heritage of British Columbia’s coastal communities. She will be 
 discussing the Broughton Archipelago Sound Retreat project. 
 
 This event also features a performance by the Experimental Music Unit 

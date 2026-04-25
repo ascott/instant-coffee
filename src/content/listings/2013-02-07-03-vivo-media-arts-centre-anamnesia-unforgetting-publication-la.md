@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 3
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Anamnesia: Unforgetting Publication Launch | FEB 7"
 ---
 

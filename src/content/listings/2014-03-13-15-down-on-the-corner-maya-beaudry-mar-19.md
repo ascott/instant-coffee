@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 15
 type: "OPENING"
+venue: "down on the corner"
 summary: "down on the corner | MAYA BEAUDRY | MAR 19"
 ---
 

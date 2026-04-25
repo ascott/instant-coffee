@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 10
 type: ""
+venue: "Centre A"
 summary: "Centre A | CONTEMPORARY ARCHIVING | SEP 25"
 ---
 
@@ -45,7 +46,7 @@ Progress: Vancouver Art in the Sixties
 Speakers
 
 Fern Bayer, Independent researcher/curator/archivist, author of the
-catalogue raisonnÃƒÆ’Ã‚Â© of General Idea, (published in 2011)
+catalogue raisonnÃƒÂ© of General Idea, (published in 2011)
 Caitlin Jones, Executive director, Western Front, Vancouver
 Makiko Hara, curator, Centre A
 *Fern Bayer will participate through Skype from Toronto.
@@ -81,18 +82,18 @@ primarily Japan. For three years Bayer was the manager of the Rome studio
 of American artist Joseph Kosuth. In 1997 she guest-curated the exhibition
 The Search for the Spirit: General Idea 1968-1975 for the Art Gallery of
 Ontario, which presented several hundred previously unseen works from the
-"General Idea Archive," mostly early works that had been ÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½shelved' or put
+"General Idea Archive," mostly early works that had been Ã¢ï¿½ï¿½shelved' or put
 aside by the artists as they moved on to project after project during their
 25-year collaboration (active 1969-94). Bayer completed the 632-page
 "Finding Aid" to the vast General Idea fonds [Archive], which is currently
 housed in the National Gallery of Canada's Library and Archive and is one
 of the most actively consulted archival holding at the gallery (see
 http://www.gallery.ca/english/library/biblio/ngc112.html). She researched
-and compiled the complete body of ÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½editioned works' that was published in
+and compiled the complete body of Ã¢ï¿½ï¿½editioned works' that was published in
 Barbara Fischer, ed. General Idea Editions" 1967-1995 (Mississauga:
 Blackwood Gallery, 2003). Bayer was recently a Research Fellow at the
 National Gallery of Canada and is currently completing the catalogue
-raisonnÃƒÆ’Ã‚Â© of the entire body of work of General Idea, to be published in 2011.
+raisonnÃƒÂ© of the entire body of work of General Idea, to be published in 2011.
 
 [Caitlin Jones]
 

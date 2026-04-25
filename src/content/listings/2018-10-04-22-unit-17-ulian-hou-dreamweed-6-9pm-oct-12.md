@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 22
 type: "OPENING"
+venue: "UNIT 17"
 summary: "UNIT 17 | ulian Hou DREAMWEED | 6-9PM | OCT 12"
 ---
 

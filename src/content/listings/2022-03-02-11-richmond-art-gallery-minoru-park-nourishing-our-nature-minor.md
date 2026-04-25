@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 11
 type: "EVENT"
+venue: "Richmond Art Gallery & Minoru Park"
 summary: "Richmond Art Gallery & Minoru Park | Nourishing our Nature: Minoru Park Sensory Walk & | MAR 9"
 ---
 

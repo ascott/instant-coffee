@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 36
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | Visual Art Forums: Christina Mackie | 7 PM | FEB 14"
 ---
 

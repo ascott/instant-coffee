@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 2
 type: "TALK"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Behind the scenes tour with Jas Lally | DEC 14"
 ---
 

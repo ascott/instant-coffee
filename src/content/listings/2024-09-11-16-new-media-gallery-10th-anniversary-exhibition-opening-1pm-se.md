@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 16
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | 10th Anniversary Exhibition Opening | 1PM | SEP 14"
 ---
 

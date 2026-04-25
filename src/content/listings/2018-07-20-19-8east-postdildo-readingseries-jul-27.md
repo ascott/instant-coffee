@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 19
 type: "EVENT"
+venue: "8EAST"
 summary: "8EAST | #postdildo #readingseries | JUL 27"
 ---
 

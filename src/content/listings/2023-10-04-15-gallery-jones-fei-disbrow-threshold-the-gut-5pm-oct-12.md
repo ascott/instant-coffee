@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 15
 type: ""
+venue: "GALLERY JONES"
 summary: "GALLERY JONES | Fei Disbrow: Threshold & The Gut | 5PM | OCT 12"
 ---
 

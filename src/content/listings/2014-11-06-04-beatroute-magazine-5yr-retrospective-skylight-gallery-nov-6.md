@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 4
 type: ""
+venue: "BEATROUTE MAGAZINE"
 summary: "BEATROUTE MAGAZINE | 5yr Retrospective @Skylight Gallery | NOV 6"
 ---
 

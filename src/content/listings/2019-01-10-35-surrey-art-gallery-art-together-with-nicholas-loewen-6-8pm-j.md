@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 35
 type: "EVENT"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Art Together with Nicholas Loewen | 6-8PM | JAN 22"
 ---
 

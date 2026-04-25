@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Gallery Splash"
 summary: "Gallery Splash | Corrie Peters, Jean Anne Wightman & Jessie Paterso | JAN 3"
 ---
 

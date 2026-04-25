@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 67
 type: "EDUCATION"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | WORKSHOP | ART SUNDAYS | 2PM-3PM | OCT 27"
 ---
 

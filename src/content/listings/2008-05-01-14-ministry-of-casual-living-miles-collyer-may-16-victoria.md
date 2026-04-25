@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yawning is encouraged"
 emailDate: "Thu, 01 May 2008 09:05:07 -0700"
 number: 14
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Miles Collyer | MAY 16, Victoria"
 ---
 

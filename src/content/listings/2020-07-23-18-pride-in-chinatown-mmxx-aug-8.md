@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 18
 type: "EVENT"
+venue: "Pride in Chinatown MMXX"
 summary: "Pride in Chinatown MMXX | AUG 8"
 ---
 

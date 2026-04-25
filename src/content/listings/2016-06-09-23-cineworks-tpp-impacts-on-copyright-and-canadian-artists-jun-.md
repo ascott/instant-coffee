@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 23
 type: "EVENT"
+venue: "Cineworks"
 summary: "Cineworks | TPP: Impacts on Copyright and Canadian Artists | JUN 21"
 ---
 

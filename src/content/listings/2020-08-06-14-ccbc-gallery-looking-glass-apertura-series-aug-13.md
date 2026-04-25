@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "CCBC gallery"
 summary: "CCBC gallery | Looking Glass: Apertura Series | AUG 13"
 ---
 

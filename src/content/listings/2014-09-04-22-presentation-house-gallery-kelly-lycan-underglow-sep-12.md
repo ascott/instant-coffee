@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 22
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Kelly Lycan: Underglow | SEP 12"
 ---
 
@@ -14,7 +15,7 @@ September 13 - November 2, 2014
 Opening Reception: Friday, September 12, 7PM
 
 Presentation House Gallery is pleased to announce an exhibition of new
-works by Vancouver artist Kelly Lycan designed in response to the Galleryâ€™s
+works by Vancouver artist Kelly Lycan designed in response to the Gallery’s
 architecture. The artist reflects on the growing impact of omnipresent
 digital imagery on the display and reproduction of photographs. 
 
@@ -22,17 +23,17 @@ digital imagery on the display and reproduction of photographs.
 York photography gallery opened by Alfred Steiglitz in 1905. As home to the
 Photo-Secessionists, 291 became renowned as the first exhibition space to
 showcase photography as art, and introduced many European avant-garde
-artists to America. Lycanâ€™s structure mimics a black and white photograph
+artists to America. Lycan’s structure mimics a black and white photograph
 taken by Alfred Stieglitz of a 1906 exhibition at 291. Viewers are invited
 to walk through a simulation of the photographic illusion of this gallery
 space, complete with Victorian decorative elements including curtained
-wainscotting and burlap walls â€“ everything except pictures on the walls.
+wainscotting and burlap walls – everything except pictures on the walls.
 
 Lycan has also created interventions in Presentation House Gallery that
 frame the impact of display methods on our reception of art and the roles
 of institutions in the production of cultural histories. The temporal
 hybrids and spatial alterations - photographic details of modernist gallery
-architecture and architectural elements from the Galleryâ€™s past - disrupt a
+architecture and architectural elements from the Gallery’s past - disrupt a
 passive experience of representation. Lycan draws attention to the
 interplay between systems of representation and perceptual experience.
 "Underglow" offers an opportunity to consider the impact of architectural

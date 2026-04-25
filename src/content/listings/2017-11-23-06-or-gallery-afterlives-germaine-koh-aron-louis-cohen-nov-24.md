@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 6
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Afterlives: Germaine Koh + Aron Louis Cohen | NOV 24"
 ---
 

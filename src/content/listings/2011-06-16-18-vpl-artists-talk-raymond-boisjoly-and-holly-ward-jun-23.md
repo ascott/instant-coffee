@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 18
 type: ""
+venue: "VPL"
 summary: "VPL | Artists' Talk | Raymond Boisjoly and Holly Ward | JUN 23"
 ---
 
@@ -16,7 +17,7 @@ Central Library, 350 West Georgia Street
 Admission is free. Seating is limited.
 Please join us for an "Artists' Talk" by Raymond Boisjoly and Holly Ward in a 
 discussion of their recent local public art projects: Ward's large-scale banner 
-installation on THE WALL on the west faÃ§ade of the CBC Building and Boisjoly's 
+installation on THE WALL on the west façade of the CBC Building and Boisjoly's 
 banners in the concourse of the Central Library. The artists will provide insight 
 into their unique images and processes, as well as share in the challenges and 
 opportunities encountered working in the public sphere.

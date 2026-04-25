@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 4
 type: "EVENT"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Media Arts Symposium | 12 – 4:30 pm | NOV 18"
 ---
 

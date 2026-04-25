@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 15
 type: "EXHIBITION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | MirNs | MAR 13"
 ---
 

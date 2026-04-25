@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 8
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | a memory with you: of holding, of carrying togethe | APR 4"
 ---
 

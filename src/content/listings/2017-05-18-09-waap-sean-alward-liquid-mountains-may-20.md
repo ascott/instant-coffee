@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 9
 type: "TALK"
+venue: "WAAP"
 summary: "WAAP | SEAN ALWARD: Liquid Mountains | MAY 20"
 ---
 

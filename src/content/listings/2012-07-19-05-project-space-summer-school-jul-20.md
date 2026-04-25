@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 5
 type: ""
+venue: "Project Space"
 summary: "Project Space | Summer School | JUL 20"
 ---
 
@@ -20,24 +21,24 @@ By Erin Jane Nelson and Ming Lin
 Project Space, 222 E Georgia St (at Main)
 Free Admission
 
-ï¿½Summer School creates a hub for the production of art works and ideas. Let us
+�Summer School creates a hub for the production of art works and ideas. Let us
 be itinerant, moving from city to city and site to site, bringing the baggage of our
-cultural realities and subjectivities. Let us open the ï¿½artistsï¿½ spaceï¿½ to all and turn
+cultural realities and subjectivities. Let us open the �artists� space� to all and turn
 our processes inside out. Let us focus on the materials and moments within the
 experience of the everyday. Let us reveal the underpinnings. Let us forget about
 authorship. Let us imagine that we can make solely on the basis of experience.
-Let us imagine that artistic production is simple (it is).ï¿½
-ï¿½ Erin Jane Nelson and Ming Lin
+Let us imagine that artistic production is simple (it is).�
+� Erin Jane Nelson and Ming Lin
 
-VANCOUVER, BC ï¿½ American artists Erin Jane Nelson and Ming Lin have
+VANCOUVER, BC � American artists Erin Jane Nelson and Ming Lin have
 recruited local artists Jordan Abel, Alex Grunenfelder, Heather Martin and David
 Semeniuk to transform Project Space into a free public art school from July 21 to
 25.
 
-Exploring personal economyï¿½particularly as it relates to art institutions and art
-educationï¿½the school will launch with talks by participating teachers and will
+Exploring personal economy�particularly as it relates to art institutions and art
+education�the school will launch with talks by participating teachers and will
 close with an artist talk, exhibition of artworks produced by students and
-teachers and the release of Lesson Book, which will feature artistsï¿½ reflections on
+teachers and the release of Lesson Book, which will feature artists� reflections on
 the project as well as step-by-step instructions for each of the classes delivered
 at the school.
 

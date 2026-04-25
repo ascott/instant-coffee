@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 5
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Jelena and the Magic Flute: a story in 12 artworks | MAR 12"
 ---
 

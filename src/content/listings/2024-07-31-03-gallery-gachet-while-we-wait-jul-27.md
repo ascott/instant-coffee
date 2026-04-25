@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | While We Wait | JUL 27"
 ---
 

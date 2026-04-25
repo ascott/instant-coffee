@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 19
 type: ""
+venue: "VSVSVS Summer Residency Program v2"
 summary: "VSVSVS Summer Residency Program v2 | CALL FOR SUBMISSIONS | MAY 20"
 ---
 
@@ -44,7 +45,7 @@ MOST IMPORTANT: The residency is free. But, we cannot cover
 transportation or food costs. 
 
 Submission packages should include:
-A letter of introduction, outlining the individualâ€™s past artistic 
+A letter of introduction, outlining the individual’s past artistic 
 experience, and other relevant information
 A curriculum vitae
 A brief project proposal (no more than one page)

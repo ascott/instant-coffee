@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 39
 type: "EXHIBITION"
+venue: "CityScape Community ArtSpace"
 summary: "CityScape Community ArtSpace | Through the Garden Gates | JUL 14"
 ---
 

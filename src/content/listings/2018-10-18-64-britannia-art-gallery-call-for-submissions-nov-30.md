@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 64
 type: "CALL"
+venue: "Britannia Art Gallery"
 summary: "Britannia Art Gallery | Call for Submissions | NOV 30"
 ---
 

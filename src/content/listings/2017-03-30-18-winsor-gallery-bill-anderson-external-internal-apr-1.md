@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 18
 type: "OPENING"
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Bill Anderson | External. Internal | APR 1"
 ---
 

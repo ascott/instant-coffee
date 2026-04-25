@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 16
 type: "TALK"
+venue: "The Foreshore"
 summary: "The Foreshore | Session 17 | Carmen Papalia and Michelle Tung | JUN 13"
 ---
 

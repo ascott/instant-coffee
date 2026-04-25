@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 28
 type: "CALL"
+venue: "MOCO15"
 summary: "MOCO15 | Call for Papers & Participation | MAR 1"
 ---
 

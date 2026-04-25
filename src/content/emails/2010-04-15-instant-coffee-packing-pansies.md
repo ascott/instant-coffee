@@ -15,7 +15,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2010-04-15-02-blanket-5th-anniversary-group-show-apr-15">02. BLANKET | 5th anniversary | group show | APR 15</a>
 <a href="/instant-coffee/listings/2010-04-15-03-access-gallery-raymond-boisjoly-apr-16">03. Access Gallery | Raymond Boisjoly | APR 16</a>
 <a href="/instant-coffee/listings/2010-04-15-04-slivers-shivers-snakeskins-a-happening-apr-16">04. Slivers, Shivers, & Snakeskins | A Happening / | APR 16</a>
-<a href="/instant-coffee/listings/2010-04-15-05-ubc-belkin-breathless-days-1959-1960-apr-16">05. UBC | BELKIN | BREATHLESS DAYS 1959 â€“ 1960 | APR 16</a>
+<a href="/instant-coffee/listings/2010-04-15-05-ubc-belkin-breathless-days-1959-1960-apr-16">05. UBC | BELKIN | BREATHLESS DAYS 1959 – 1960 | APR 16</a>
 <a href="/instant-coffee/listings/2010-04-15-06-vivarium-gallery-emilio-rojas-apr-16">06. Vivarium Gallery | Emilio Rojas | APR 16</a>
 <a href="/instant-coffee/listings/2010-04-15-07-w2-perel-building-jeff-derksen-launch-and-reading-apr-16">07. W2 Perel Building | Jeff Derksen (launch and reading) | APR 16</a>
 <a href="/instant-coffee/listings/2010-04-15-08-artspeak-ammiel-alcalay-forms-of-commentary-apr-17">08. ARTSPEAK | AMMIEL ALCALAY: Forms of Commentary | APR 17</a>
@@ -36,20 +36,20 @@ Transnational Absolute; play.back.work; Eagle Transforming
 Surrey Art Gallery
 
 Ian Johnston: Transnational Absolute
-April 17 â€“ June 21
+April 17 – June 21
 
 Questioning the nature of refuse, the scope of global consumption, and the limits of ceramic art,
-Ian Johnstonâ€™s art probes humanityâ€™s complex relationship to the objects of modern convenience 
+Ian Johnston’s art probes humanity’s complex relationship to the objects of modern convenience 
 and the environment at large. In traversing the boundaries between sculpture and installation, 
-Johnstonâ€™s artwork presents poignant allegories on the life cycle of the things that surround us.
+Johnston’s artwork presents poignant allegories on the life cycle of the things that surround us.
 This exhibition includes Swimming Upstream in the Comfort of: Homage to Yves Klein (2006-
 2009), Machine for Singing (2007-2009), and Work Tangible Shadows: Intersections (2005).
-Artistâ€™s Talk
+Artist’s Talk
 
-April 17, Noonâ€“1pm, free admission | light lunch provided
+April 17, Noon–1pm, free admission | light lunch provided
 
 play.back.work: Brady Cranfield, Anju Singh and Leonard J. Paul
-April 17 â€“ January 15, 2011
+April 17 – January 15, 2011
 
 A series of sound art installations that examine the parallels between work, play and sound in 
 contemporary culture. From traditional work songs to the industrial music of the 20th century to 
@@ -60,7 +60,7 @@ recreational culture and or the â€œplay backâ€  of the recording device.
 
 Eagle Transforming: The Prints of Robert Davidson
 Organized and circulated by the Vancouver Art Gallery
-April 17 â€“ June 21
+April 17 – June 21
 
 This survey of the graphic work of one of the most critical figures in First Nations printmaking 
 reveals an artist of exceptional imagination, compositional skill and visual power. Perhaps more 
@@ -77,11 +77,11 @@ These exhibitions are presented concurrently with Crescent Beach Photography Clu
 Lightscapes.
 
 Opening Reception for all exhibitions
-Saturday, April 17, 2â€“4pm
+Saturday, April 17, 2–4pm
 free admission | refreshments provided
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 Canada V3W 3L1
 
@@ -99,7 +99,7 @@ www.arts.surrey.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-04-15-02-blanket-5th-anniversary-group-show-apr-15">02. BLANKET | 5th anniversary | group show | APR 15</a>
 ------------------------------------------------------------------------
-To celebrate Blanketâ€™s 5th anniversary, please join us for a group 
+To celebrate Blanket’s 5th anniversary, please join us for a group 
 exhibition featuring works by Eli Bornowsky, Neil Campbell, Audrey Capel 
 Doray, Matthew Chambers, Beau Dick, Matthias Dornfeld, Jeremy Hof, Brett 
 Lund, Monique Mouton, Jeremy Shaw, Mark Soo, Corin Sworn and Alexis M. 
@@ -139,7 +139,7 @@ As Boisjoly articulates:
 deliberate constructions with incidental and self-generating forms to grasp the unarticulated 
 middle beyond beginnings and the end. Live feed video projections of television static and video-
 based recursion stand as the visual surrogates for ill-defined and convoluted ideas concerning 
-the situation we find ourselves in, what will never be and what is still to comeâ€“instantaneous and 
+the situation we find ourselves in, what will never be and what is still to come–instantaneous and 
 forever deferred. 
 
 Working from disparate sources bearing no established relation to one another, The Ever-
@@ -147,7 +147,7 @@ Changing Light does not exist to redeem any mere concept. Instead, it provides a
 explore inchoate, expansive potential and existing, delimited phenomena." 
 
 Accompanying the exhibition will be the launch of a text-based public art project by Boisjoly 
-installed on the faÃ§ade of Access Galleryâ€™s new space. 
+installed on the façade of Access Gallery’s new space. 
 
 Access is a non-profit organization dedicated to emergent contemporary art practices. We 
 provide points of access for artists and audiences alike by supporting presentations of diverse 
@@ -156,7 +156,7 @@ practitioners. Access strives to spark critical conversations about contemporary
 experimentation and risk-taking within the gallery space and beyond. 
 
 Raymond Boisjoly is an Aboriginal artist living and working in Vancouver. He wishes to thank the 
-First Peoplesâ€™ Heritage, Language & Culture Council for their support. 
+First Peoples’ Heritage, Language & Culture Council for their support. 
 
 Access Gallery gratefully acknowledges the Canada Council for the Arts, BC Arts Council, City of 
 Vancouver, our members and volunteers. Access is a member of the Pacific Association of Artist 
@@ -237,25 +237,25 @@ Contact Christa Wiens - Administrator at 604-916-7497 to book an appointment or 
 info[at]chapelarts[dot]com.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2010-04-15-05-ubc-belkin-breathless-days-1959-1960-apr-16">05. UBC | BELKIN | BREATHLESS DAYS 1959 â€“ 1960 | APR 16</a>
+<a href="/instant-coffee/listings/2010-04-15-05-ubc-belkin-breathless-days-1959-1960-apr-16">05. UBC | BELKIN | BREATHLESS DAYS 1959 – 1960 | APR 16</a>
 ------------------------------------------------------------------------
-BREATHLESS DAYS 1959 â€“ 1960: A CHRONOTROPIC EXPERIMENT
-April 16 â€“ June 2, 2010
+BREATHLESS DAYS 1959 – 1960: A CHRONOTROPIC EXPERIMENT
+April 16 – June 2, 2010
 
-Reception: 5:30 â€“ 7 pm May 1
+Reception: 5:30 – 7 pm May 1
 
 Concert: UBC Contemporary Players, 2 pm April 23
 
-Conversations: 12 â€“ 1 pm April â€“ May
+Conversations: 12 – 1 pm April – May
 
-Conference: May 1 â€“ 2 and 7
+Conference: May 1 – 2 and 7
 For info, <www.breathlessdays1959-1960.wikispaces.com>
 
-Films: "A bout de souffle" and "Psycho", Double bill May 2 â€“ 3
+Films: "A bout de souffle" and "Psycho", Double bill May 2 – 3
 Pacific Cinematheque, 1131 Howe Street, Vancouver
 For info, <www.cinematheque.bc.ca>
 
-"Breathless Days 1959 â€“ 1960: A Chronotropic Experiment" presents selected work by 
+"Breathless Days 1959 – 1960: A Chronotropic Experiment" presents selected work by 
 international artists who variously, were interested in poetry, jazz, queer culture, existentialism, 
 and new movements in film, and whose work impacted the development of modern culture on the 
 west coast. The exhibition is a group project that is co-curated by Scott Watson, Director and 
@@ -265,12 +265,12 @@ exhibition are drawn from the public collections of the Morris and Helen Belkin 
 the Vancouver Art Gallery, and from the private collections of Claudia Beck and Andrew Gruft and 
 of Geoffrey Farmer.
 
-"Breathless Days 1959 â€“ 1960: A Chronotropic Experiment" complements a conference named 
-after Jean-Luc Godardâ€™s film, "A bout de souffle." Combined with the idea of a chronotrope, an 
+"Breathless Days 1959 – 1960: A Chronotropic Experiment" complements a conference named 
+after Jean-Luc Godard’s film, "A bout de souffle." Combined with the idea of a chronotrope, an 
 instrument that alters the rate of a beating heart, the paintings, photography, collages, and prints 
 in this show propose a curatorial experiment, a tumultuous weaving of connections between 
 cultures, nations and economies from Vancouver, Cape Dorset, Paris and San Francisco, at the 
-dawn of the space age. At this moment in 1959 â€“ 1960, abstract expressionism and tachism are 
+dawn of the space age. At this moment in 1959 – 1960, abstract expressionism and tachism are 
 regionally domesticated, the Inuit print comes into existence, the Beat movement is absorbed by 
 consumer culture, while global links in the art world are increasing and the Cold War is reaching
 a critical pitch.
@@ -313,7 +313,7 @@ Contrary to the fundamental ethos of sports this type of nationalist antagonism 
 deep hatred, violence triggered by competition, and passionate behaviors that allow interactions 
 outside of the norms of conduct. Traditionally the Olympic Games are the highest stage for 
 nationalist competition, being reflected in their history of political conflicts going back to their re-
-establishment at the end of the 1800â€™s. Consider a matter of national pride, sport events like the 
+establishment at the end of the 1800’s. Consider a matter of national pride, sport events like the 
 final hockey game (Canada vs. the U.S.), allow homoerotic interactions between supporting 
 members of the same team, and homophobic remarks against the adversaries that otherwise 
 would be consider unacceptable.
@@ -413,7 +413,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -478,9 +478,9 @@ Opening dates/times: April 24 to May 2, 2010, Sunday - Sunday 12 - 5pm
 RIOT is the graduation exhibition of the 2010 BFA visual art students from the School for 
 Contemporary Art at Simon Fraser University.
 
-This exhibition brings together final works by SFUâ€™s graduating BFA Visual Arts students. Materially 
+This exhibition brings together final works by SFU’s graduating BFA Visual Arts students. Materially 
 and methodologically diverse, these artworks demonstrate a critical approach to studio practice and 
-a considered relationship to contemporary art discourse, while reflecting the schoolâ€™s 
+a considered relationship to contemporary art discourse, while reflecting the school’s 
 interdisciplinary mandate.
 
 With works by Kyle Halliday, Olivia Dunbar, Mireille Lo, Abbey Neil, Simon Murtagh, Jainy Lastoria, 
@@ -502,7 +502,7 @@ during regular hours: Saturday & Sunday, 11 a.m. - 4 p.m. Summer hours in July a
 the foot of Alberni Street, below the viewing deck, at the Nature House at Lost Lagoon. 
 
 The Stanley Park Nature House is a gateway for nature interpretation and park exploration, and 
-is Vancouverâ€™s only nature interpretation centre, showcasing interpretive displays on various 
+is Vancouver’s only nature interpretation centre, showcasing interpretive displays on various 
 habitats and their flora and fauna. A re-imagining of the Nature House has created more space 
 for interactive displays that will change with the seasons, and enable the Nature House to pilot 
 our vision to host other installations that combine ecological and environmental themes with 
@@ -513,7 +513,7 @@ Roger Keyes
 Public Programs Manager
 Stanley Park Ecology Society
 programs@stanleyparkecology.ca 
-(604) 718 â€“ 6522 
+(604) 718 – 6522 
 
 Also please visit us at :
 www.stanleyparkecology.ca
@@ -523,15 +523,15 @@ www.stanleyparkecology.ca
 <a href="/instant-coffee/listings/2010-04-15-13-western-front-sfu-unpacking-apr-23">13. Western Front & SFU | Unpacking | APR 23</a>
 ------------------------------------------------------------------------
 Unpacking the Indigenous Female Body is a two-day event organized by the Department of 
-Gender, Sexuality, and Womenâ€™s Studies at Simon Fraser University.
+Gender, Sexuality, and Women’s Studies at Simon Fraser University.
 
 The nature of this symposium will be one of creative celebration and critical 
 investigation. 
 
-Dana Claxton, the Ruth Wynn Woodward Chair in Gender, Sexuality and Womenâ€™s 
+Dana Claxton, the Ruth Wynn Woodward Chair in Gender, Sexuality and Women’s 
 Studies, will lead the critical investigation as Presenter and Moderator. 
 
-On Friday night Skeena Reece and Lori Blondeau, two of Canadaâ€™s leading Aboriginal 
+On Friday night Skeena Reece and Lori Blondeau, two of Canada’s leading Aboriginal 
 performance artists, will present a new work in response to the film trilogy â€œA Man Called Horse.â€ 
 
 On Saturday, Hulleah J. Tsinhnahjinnie, the Director of the C.N. Gorman Museum and an 
@@ -539,7 +539,7 @@ Assistant Professor in the Department of Native American Studies at University o
 present the keynote address on aboriginal womanhood and the screen. 
 
 The critical investigation will continue with a series of panels disseminating research by 
-professors and graduate students working in a broad range of disciplines including Womanâ€™s 
+professors and graduate students working in a broad range of disciplines including Woman’s 
 Studies, Film History, Communications and Indigenous Studies. 
 
 SCHEDULE OF EVENTS
@@ -548,7 +548,7 @@ Friday, April 23
 The Western Front, 303 E 8th Avenue
 
 Opening Remarks and Performance 7:30PM
-Catherine Murray, Chair of Gender, Sexuality, and Womenâ€™s Studies, SFU
+Catherine Murray, Chair of Gender, Sexuality, and Women’s Studies, SFU
 Dana Claxton, Ruth Wynn Woodward Chair
 Performance by Lori Blondeau and Skeena Reece
 Reception 8:30-10:00PM
@@ -600,7 +600,7 @@ Closing Remarks 4:45-5:00PM
 Dana Claxton
 
 For more information or to register please contact Esther Harrison at the Department of Gender, 
-Sexuality and Womenâ€™s Studies at Simon Fraser University.
+Sexuality and Women’s Studies at Simon Fraser University.
 Email: rwwpasst@sfu.ca
 
 Western Front Exhibitions
@@ -621,8 +621,8 @@ H. Tuesday - Saturday 12-5pm
 ------------------------------------------------------------------------
 Lady Baltimore
 New Works By Mark DeLong
-Opening Reception Saturday April 24th 7:00 â€“ 11:00pm
-April 24th â€“ May 24th
+Opening Reception Saturday April 24th 7:00 – 11:00pm
+April 24th – May 24th
 
 LES Gallery
 1879 Powell St. Vancouver
@@ -638,7 +638,7 @@ group exhibitions including Ed Varie Gallery in New York, Hunter and Cook Galler
 and Attache Gallery internationally. Delong currently lives and works in Vancouver, B.C.
 
 Gallery hours:
-Thursday â€“ Friday 1 â€“ 6, Saturday 12 â€“ 5
+Thursday – Friday 1 – 6, Saturday 12 – 5
 www.lesgallery.ca
 
 ------------------------------------------------------------------------
@@ -666,27 +666,27 @@ US.
 Baby Dee gives everything and that is what connects her with critics and audience alike.
 While the last album was helped along by Will Oldham and Matt Sweeney producing, this one 
 was led by the calming presence of Maxim Moston (part of Antony and the Johnson's touring 
-band and a song arranger). Moston says â€œShe sent me the demo and I was floored â€“ here was a 
+band and a song arranger). Moston says “She sent me the demo and I was floored – here was a 
 true collection of lieder, or art songsâ€  What Moston envisaged in his words were â€œsong cycles 
 performed in their entirety and stripped of all excess, just piano and voice, poetry and melodyâ€ .
 Gone are the more bawdy ruminations to be replaced by a glowing heart of a record. 
 Hermetically sealed and lovingly passed on so that we can understand what love could mean 
-from Deeâ€™s perspective. It is at times jaw-dropping in its profundity.
+from Dee’s perspective. It is at times jaw-dropping in its profundity.
 
 Book of Songs can be seen as a prequel to Safe Inside the Day in so much as it was issued in 
-book form (with bonus disc) in 2004 on David Tibetâ€™s Durtro label. It was limited to 150 copies 
+book form (with bonus disc) in 2004 on David Tibet’s Durtro label. It was limited to 150 copies 
 and has been out of print for years. Essentially, this is its first outing. The reason to make the 
 record in the first place was borne out of love, and the reason to re-visit the record also came 
 from that same scary yet beautiful place.
 What makes Dee indefatigable and the record so majestic is upturning any suggestion of there 
-being limitations to love. From lines like: â€œSet as a seal on your heart, As a seal on your arm/For 
+being limitations to love. From lines like: “Set as a seal on your heart, As a seal on your arm/For 
 love is stronger than deathâ€  to the barest simplicity of being able to say to someone, â€œLike a baby 
 first time talking/Here I am, It's me, I'm hereâ€ . Baby Deeâ€™s vulnerability and insight is inspirational.
 
-So why not leave as 150 little books and move along? After all the â€˜and yetsâ€™, Dee was actually 
+So why not leave as 150 little books and move along? After all the ‘and yets’, Dee was actually 
 â€œstruck dumbâ€  with love and thus was compelled to share this record with the world.
 
-â€œEverybody has a right â€“ the right to really be the lover, to really be the beloved. Regardless of 
+“Everybody has a right – the right to really be the lover, to really be the beloved. Regardless of 
 how fucked up and inadequate we are or how short our time is together. We never lose that 
 opportunityâ€  â€“ Baby Dee 2009
 
@@ -714,15 +714,15 @@ Keith Langergraber
 April 30-June 20, 2010
 Opening Thursday, April 29 at 7PM
 
-The sci-fi fan has been unfairly maligned. Whether itâ€™s the image of the costumed Trekkie or the 
-Simpsonsâ€™ Comic Book Guy, the fan is consistently portrayed as one who lives life vicariously 
+The sci-fi fan has been unfairly maligned. Whether it’s the image of the costumed Trekkie or the 
+Simpsons’ Comic Book Guy, the fan is consistently portrayed as one who lives life vicariously 
 through narratives created by others. The relationships between fans and the objects of their 
 fandom, however, are far more nuanced. The notion of the â€œbirth of the readerâ€  is certainly not 
 new in cultural studies, but in the realm of the sci-fi fan this birth takes a particularly active and 
 increasingly participatory form.
 
-Keith Langergraberâ€™s The Society of Temporal Investigations examines fan culture through 
-multiple practices. A series of Langergraberâ€™s own drawings based on the television show 
+Keith Langergraber’s The Society of Temporal Investigations examines fan culture through 
+multiple practices. A series of Langergraber’s own drawings based on the television show 
 Battlestar Galactica conflate geographic with fictive space. The narrative of Battlestar Galactica 
 followed a fleet of star ships on an epic quest through galaxies, dimensions and time. 
 Langergraber equates this search with the common fan practice of mapping fictional locales over 
@@ -731,9 +731,9 @@ are also integrated to develop the themes of resistance, environmental degradati
 corporate and government domination that run through the genre.
 
 By repeating the image of the spiral (an icon that has special significance in science fiction) 
-Langergraber connects to another important influence on his artistic practiceâ€”the work of Robert 
+Langergraber connects to another important influence on his artistic practice—the work of Robert 
 Smithson. In his brief essay â€œThe Shape of the Future and Memoryâ€  (1966), Smithson explored 
-connections between art and time travelâ€”a few years later Spiral Jetty appeared in the Great 
+connections between art and time travel—a few years later Spiral Jetty appeared in the Great 
 Salt Lake of Utah. Langergraber further exploits the relationship between fan culture, time travel 
 and the Spiral Jetty in his own fan film, The Theatre of the Exploding Sun. It follows his alter ego 
 Eton Corrasable on a quest through space and time.
@@ -745,7 +745,7 @@ forms of academic discourse, the fan is lampooned for their manner of homage. Ne
 fandom, like those articulated in The Society of Temporal Investigations, open the door to a range 
 of possibilities for consumption, production, criticality and play.
 
-Artistâ€™s Talk and Screening
+Artist’s Talk and Screening
 Saturday, June 19 at 7PM
 Keith Langergraber will present a talk and screen the fan film Chains of Betrayal with filmmakers
 Racan Souiedan and Derek Howard. 
@@ -787,7 +787,7 @@ gastownlivework@gmail.com
 Gallery Atsu | Studio Space Availabl</a>
 Studio Space Available - Gallery Atsui
 
-Gallery Atsui is located at the corner of East Hastings and Princess in Vancouverâ€™s Downtown 
+Gallery Atsui is located at the corner of East Hastings and Princess in Vancouver’s Downtown 
 East Side. We are an independent, privately funded artist studio and gallery space. We currently 
 have 600 sq. ft. of shared studio space available May 1st.
 

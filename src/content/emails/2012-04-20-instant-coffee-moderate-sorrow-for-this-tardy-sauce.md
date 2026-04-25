@@ -48,14 +48,14 @@ Nowhereisland, a large-scale public art project conceived by artist Alex
 Hartley and commissioned as part of the UK Cultural Olympiad 2012. 
 This island, originating from the Arctic, will journey around the south 
 west region of England this summer, stopping at ports and harbours as 
-a visiting â€˜island nationâ€™. Accompanied by its land based Embassy, its 
+a visiting ‘island nation’. Accompanied by its land based Embassy, its 
 six-week journey will finish in Bristol on the 9th September 2012. The 
 public is invited to learn more, become a citizen, and track the new 
 nation's progress here.
 
 Claire Doherty is a curator and writer who investigates new and 
 unconventional models of curatorial practice. Situations commissions 
-artistsâ€™ projects, often outside conventional gallery or museum settings, 
+artists’ projects, often outside conventional gallery or museum settings, 
 with an emphasis on new forms of public engagement which span 
 international boundaries. In collaboration with the Litmus Research 
 Initiative at Massey University and a vast network of curators and 
@@ -68,14 +68,14 @@ Doherty lectures and publishes internationally. She is editor of
 Contemporary Art: From Studio to Situation; (Black Dog Publishing, 
 2004); Documents of Contemporary Art: Situation(Whitechapel/ MIT 
 Press, 2009), and co-editor with David Cross of One Day Sculpture 
-(Kerber, 2009), with Paul Oâ€™Neill, Locating the Producers: Durational 
+(Kerber, 2009), with Paul O’Neill, Locating the Producers: Durational 
 Approaches to Public Art (Valiz, 2011) and with Gerrie van Noord, 
 Heather and Ivan Morison: Falling into Place (Book Works, 2009).
 
 Lorna Brown is an artist, writer, independent curator and founding 
 member of Other Sights and participant in the Communications Office.
 
-This conversation is the final installment of â€œThe Situation is This: 
+This conversation is the final installment of “The Situation is This: 
 Speakers Series 2011â€  and a bridge to â€œThe Future is Floatingâ€ , a 
 series of Communication Office events that will take place in various 
 locations around Vancouver during 2012.
@@ -84,7 +84,7 @@ We are grateful to our Speaker Series partner the Langara College
 Centre for Art in Public Spaces and project funders the City of 
 Vancouver 125 and the Public Art Program.
 
-Listen to the interview (MP3 - DuraÂ­tion: 50:58 â€” 70.2MB)
+Listen to the interview (MP3 - Dura­tion: 50:58 — 70.2MB)
 
 About The Communications Office:
 
@@ -97,11 +97,11 @@ focus our attentions, invite new ideas and put us in touch, whether face
 to face or ear to ear.
 
 This podcast is launched on the anniversary of the 2010 eruption of 
-the Icelandic volcano EyjafjallajÃ¶kull, whose free-floating ash cloud 
+the Icelandic volcano Eyjafjallajökull, whose free-floating ash cloud 
 covered much of Northern Europe, causing 6 days of air travel 
 disruptions across the continent. The grounding of European flights 
-avoided about 344Ã—106 kg of CO2 emissions per day, while the 
-volcano emitted about 150Ã—106 kg of CO2 per day.
+avoided about 344×106 kg of CO2 emissions per day, while the 
+volcano emitted about 150×106 kg of CO2 per day.
 
 WE SEND EVENT NEWS AND UPDATES TO OTHER SIGHTS FOR 
 ARTISTS' MEMBERS WHO HAVE OPTED IN EITHER VIA OUR 
@@ -110,7 +110,7 @@ CONTACT INFORMATION TO OTHER SIGHTS FOR ARTISTS'
 PROJECTS FOR THIS PURPOSE. |
 IF YOU NO LONGER WISH TO RECEIVE EMAILS PLEASE 
 UNSUBSCRIBE
-Â©2012 OTHER SIGHTS FOR ARTISTS' PROJECTS, ALL RIGHTS 
+©2012 OTHER SIGHTS FOR ARTISTS' PROJECTS, ALL RIGHTS 
 RESERVED
 
 
@@ -176,7 +176,7 @@ and abstraction .
 His collages, large and small and his sculptures show his interest in 
 built form and in how we experience and 
 invent visual pleasure. 
-This new work points to McNeilâ€™s interest and engagement with the 
+This new work points to McNeil’s interest and engagement with the 
 physical world, and the ways in which existing forms can be 
 reinterpreted and new forms created. 
 
@@ -277,16 +277,16 @@ Monahan.
 
 This dynamic survey spans the entire gallery space and showcases 
 select work made during the past eight years. In addition, this exhibition 
-brings together, for the first time, three distinct phases of Monahanâ€™s 
+brings together, for the first time, three distinct phases of Monahan’s 
 practice: early works using drywall, more recent pieces utilizing large 
 sheets of glass and industrial ratchet straps and new works created in 
 cast bronze atop columns made from materials from foundries including 
 bricks and metal.
 
-Monahanâ€™s figurative sculptures and drawings evoke artefacts from 
-another time or era. There is a sense that Monahanâ€™s practice reaches 
+Monahan’s figurative sculptures and drawings evoke artefacts from 
+another time or era. There is a sense that Monahan’s practice reaches 
 across time, cultures and geographies, and evokes the classicism 
-within European traditions. Monahanâ€™s work reflects his interest in the 
+within European traditions. Monahan’s work reflects his interest in the 
 interplay between two and three dimensions, between drawing and 
 materiality, personal mythology and a self-reflective look at the 
 conventions of museum display and within his work there is a diverse 
@@ -339,7 +339,7 @@ and preserved. Radul purposefully steps into this gap to conjure joyful
 'bad models' of perception in Object Analysis Spectator Poem (2012). A 
 bottle, conch shell, fan, heater, chair, lectern, camera and clay bust all 
 become entities on top of which partial swathes of painted copper 
-sheeting lie across â€“ like pajamas on a radiator â€“ like 'a thing on top of 
+sheeting lie across – like pajamas on a radiator – like 'a thing on top of 
 the thing'. To complete Object Analysis Spectator Poem, Radul took the 
 works into the street to be photographed, however direct vision does 
 not suit the encounter she is seeking. Rather, using a mirror held at 
@@ -381,7 +381,7 @@ Presentation House Gallery, Vancouver (2005); Set: Room 302
 numerous international group exhibitions, such as People Things Enter 
 Exit, Catriona Jeffries, Vancouver (2011); Trust, 6th Seoul International 
 Biennale of Media Art, Seoul, Korea (2010); Behind the Fourth Wall: 
-Fictitious Lives â€“ Lived Fiction, Generali Foundation, Vienna (2010); 
+Fictitious Lives – Lived Fiction, Generali Foundation, Vienna (2010); 
 The Thing, Cultural Centre, Mechelen, Belgium, as part of All That is 
 Solid Melts into Air, MuHKA, Antwerp (2009); Acting The Part: 
 Photography As Theatre, Vancouver Art Gallery, Vancouver (2007); 
@@ -519,7 +519,7 @@ Exhibition Opening: Sans Song
 Thursday, April 26th, 7pm
 Sans Song features a combination of vocal works from the 1970s with 
 contemporary sonic and kinetic sculptures. The exhibition proposes the 
-sonic as artwork representative of the â€œin-process' between two 
+sonic as artwork representative of the “in-process' between two 
 tangible moments.
 
 Introducing new sonic, kinetic sculptural works by Nathan McNinch and 
@@ -548,7 +548,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
+Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free
 
 ------------------------------------------------------------------------
@@ -560,7 +560,7 @@ CSA SPACE VANCOUVER
 Curated by Graham Dalik & Adam Harrison
 
 27 April - 27 May, 2012
-Opening reception: Friday, 27 April, 18:00 â€“ 21:00
+Opening reception: Friday, 27 April, 18:00 – 21:00
 
 Nicole Ondre is a Vancouver-based artist, and co-founder of Exercise 
 Projects.
@@ -578,13 +578,13 @@ Mon-Wed 10am-8pm, Thurs-Sat 10am-9pm, Sundays and holidays
 11am-7pm.
 
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2012 CSA space gallery, All rights reserved.
+Copyright © 2012 CSA space gallery, All rights reserved.
 You are email because you have in past in person or on web opted into 
 our emailing list. If you wish to unsubscribe click on the subscribe 
 button.
 Our mailing address is:
 CSA space gallery
-#5â€“2414 Main Street
+#5–2414 Main Street
 Vancouver, Bc V5T 3E2
 Canada
 
@@ -893,7 +893,7 @@ social justice.
 
 Expect to brave the elements, push your limits, experience communal 
 living, and maybe spontaneously craft up superhero costumes to bike 
-around in. Explore issues like renewable energy on Canadaâ€™s stunning 
+around in. Explore issues like renewable energy on Canada’s stunning 
 east coast, watershed sustainability along the shores of the Great 
 Lakes, and food security in the fertile fields of Ontario.
 
@@ -904,11 +904,11 @@ education, bike touring, camping, working with youth, and rocking
 stunning spandex shorts. 
 
 2012 Tours:
-Rising Tide Tour, Fredericton to Halifax, May 1st â€“ June 21st
+Rising Tide Tour, Fredericton to Halifax, May 1st – June 21st
 9 Day Pedal to Plate Tour, all ages, Ottawa Region, July 7th-15th
-Water Works Tour, Kitchener-Waterloo to Ottawa, Sept 1st â€“ October 
+Water Works Tour, Kitchener-Waterloo to Ottawa, Sept 1st – October 
 22nd
-Phenomenal Food Tour, Kitchener-Waterloo to Ottawa, Sept 1st â€“ 
+Phenomenal Food Tour, Kitchener-Waterloo to Ottawa, Sept 1st – 
 October 22nd
 
 Intrigued? Apply Today. First applied, first considered.
@@ -963,9 +963,9 @@ Gallery hours Wed - Sat 10-4
 Call for ART and Writing SUBMISSIONS Winter 2012 Issue: Labour
 
 Room magazine is looking for original, unpublished art, fiction, creative
-non-fiction, and poetry that explore all iterations of womenÂ¹s labour, from
+non-fiction, and poetry that explore all iterations of women¹s labour, from
 a labour of love, birth labour, the labour movement, traditional and
-non-traditional womenÂ¹s laboursâ€¹ we want to see them all.
+non-traditional women¹s labours‹ we want to see them all.
 
 Please submit to the attention of Lorrie Miller by May 30, 2012.
 
@@ -1002,11 +1002,11 @@ Labspace Studio presents Confessions Underground...
 Part social experiment, part public intervention, Confessions 
 Underground is a video based art project that gives willing participants 
 the rare opportunity to record a private on-camera confession and 
-broadcast it publicly over 300 of Torontoâ€™s digital subway platform 
+broadcast it publicly over 300 of Toronto’s digital subway platform 
 screens.
 
-From July 1st â€“ July 14th, video confessions will be screened daily 
-throughout Torontoâ€™s underground subway system, intersecting with 
+From July 1st – July 14th, video confessions will be screened daily 
+throughout Toronto’s underground subway system, intersecting with 
 the daily comings-and-goings of commuter traffic.
 
 Sound terrifying? Yes, probably. But who knows? It could also be 
@@ -1014,11 +1014,11 @@ exhilarating, cathartic, perhaps even liberating.
 
 With access to over 1-million daily subway commuters, confessors take 
 on the potential â€œriskâ€  of being recognized by passerby. While names 
-will NOT be disclosed on screen, visual identities will. And thatâ€™s the 
+will NOT be disclosed on screen, visual identities will. And that’s the 
 exciting part; the risky part; the real challenge. Maybe you want that 
-ONE person to discover that ONE secret youâ€™ve been hiding from them 
+ONE person to discover that ONE secret you’ve been hiding from them 
 for years? Or maybe you just want the chance to finally share your 
-secret with others? Either way, the platform is yoursâ€¦.
+secret with others? Either way, the platform is yours….
 
 At its core, this project attempts to exmaine the â€œcollectiveâ€  act of 
 confessing by exploring some deeply rooted questions: What if we 
@@ -1026,8 +1026,8 @@ could confess our secrets on a mass-scale? What if we could confess
 with the support of a large group? Would that make it easier for us to 
 come clean? Would we even want to?
 
-Currently weâ€™re seeking brave collaborators willing to offer us their 
-confessions for public consumption. If youâ€™re interested in this project 
+Currently we’re seeking brave collaborators willing to offer us their 
+confessions for public consumption. If you’re interested in this project 
 (or would like to know more), please visit 
 http://confessionsunderground.com.
 
@@ -1043,7 +1043,7 @@ http://confessionsunderground.com
 We invite all CARFAC BC members in good standing to participate in 
 our inaugural postcard fundraising 
 event, Wish You Were Here taking place on Friday June 22 at 
-Woodwardâ€™s Atrium, 111 West Hastings Street, 
+Woodward’s Atrium, 111 West Hastings Street, 
 Vancouver from 10 AM - 6 PM. 
 All work by members will be exhibited and priced at $50 each. The cut 
 is 50/50 between artist and organization. 

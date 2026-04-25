@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 44
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Carnegie Community Centre | UNSETTLED documentary | 7PM | NOV 7"
 ---
 

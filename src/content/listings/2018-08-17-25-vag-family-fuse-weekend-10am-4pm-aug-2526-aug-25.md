@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 25
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Family FUSE Weekend | 10AM-4PM | AUG 25+26 | AUG 25"
 ---
 

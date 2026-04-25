@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 3
 type: "EVENT"
+venue: "Open Space [VICTORIA]"
 summary: "Open Space [VICTORIA] | Open House & Winter Market | DEC 14"
 ---
 

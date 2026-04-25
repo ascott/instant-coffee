@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 61
 type: "CALL"
+venue: "White Water Gallery (ONTARIO)"
 summary: "White Water Gallery (ONTARIO) | CALL FOR PROPOSALS | APR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 3
 type: "TALK"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | David Campany: Capture and Output | 630PM | APR 10"
 ---
 

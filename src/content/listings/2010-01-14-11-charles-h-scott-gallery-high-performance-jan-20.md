@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Strange. The first time I've heard
 emailDate: "Thu, 14 Jan 2010 04:42:53 -0800"
 number: 11
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | HIGH PERFORMANCE | JAN 20"
 ---
 

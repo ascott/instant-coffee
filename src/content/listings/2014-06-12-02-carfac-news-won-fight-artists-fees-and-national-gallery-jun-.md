@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 2
 type: ""
-summary: "CARFAC NEWS | Won fight: artistâ€™s fees and National Gallery | JUN 12"
+venue: "CARFAC NEWS"
+summary: "CARFAC NEWS | Won fight: artist’s fees and National Gallery | JUN 12"
 ---
 
 Celebrating a historic win for artists
 
 On May 14th, artists from across the country heard directly from the Supreme 
-Court Chief Justice that we had won: in the fight for minimum artistâ€™s fees the 
+Court Chief Justice that we had won: in the fight for minimum artist’s fees the 
 National Gallery had bargaining in bad faith.
 
 It was an emotional moment. And it was felt well beyond the courthouse as 
@@ -19,10 +20,10 @@ coast.
 
 This would not have been possible without your support. Through your help 
 we raised an impressive $41,000 for our costs at the Supreme Court on top 
-of the $14,000 that was raised for last yearâ€™s costs at the Federal Court. We 
-canâ€™t thank you enough.
+of the $14,000 that was raised for last year’s costs at the Federal Court. We 
+can’t thank you enough.
 
-So whatâ€™s next?
+So what’s next?
 
 The next step will be to go back to the table and negotiate an agreement for 
 how artists are paid at the National Gallery. Once we have an agreement it 

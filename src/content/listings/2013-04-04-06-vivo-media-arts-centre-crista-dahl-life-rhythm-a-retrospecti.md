@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 6
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | CRISTA DAHL: LIFE RHYTHM, A RETROSPECTIVE | APR 4"
 ---
 
@@ -16,25 +17,25 @@ www.vivomediaarts.com/event/crista-dahl-life-rhythm-retrospective
 
 Curated by Lois Klassen and Elisa Ferrari
 
-OPENING APRIL 4, 8PM â€”Sound performance by John Brennan on the
+OPENING APRIL 4, 8PM —Sound performance by John Brennan on the
 opening night
-LIVE PERFORMANCES APRIL 18, 8PM â€”Generations, Spiral Brain,
+LIVE PERFORMANCES APRIL 18, 8PM —Generations, Spiral Brain,
 Revolution
 
-â€œLife Rhythm, two words that identify my complete concept, is to be
+“Life Rhythm, two words that identify my complete concept, is to be
 understood as life and its rhythms experienced through time, space and
-energy." â€“Crista Dahl
+energy." –Crista Dahl
 
-Conceived in 1966 and formalized in 1970, Crista Dahlâ€™s Life Rhythm is a
+Conceived in 1966 and formalized in 1970, Crista Dahl’s Life Rhythm is a
 multimodal art project that aims to provide structure to the diverse information
 that we encounter: knowledges that encompass prehistoric and current ways
 of living.
 
 This exhibition features a fully interactive archive of imagery, books and ideas
 organized through Dahl's personal system of mnemonics, charts, and
-diagrams. What slips out of Dahlâ€™s cabinets and performances is a 
+diagrams. What slips out of Dahl’s cabinets and performances is a 
 repertoire
-of gestures, portraits, kinesthetic modelsâ€”an ongoing empirical inquiry into
+of gestures, portraits, kinesthetic models—an ongoing empirical inquiry into
 the visual language of the brain.
 
 In the adjacent Gallery 1965, a collection of Dahl's drawings, paintings,
@@ -53,16 +54,16 @@ Media Library& Archive that bears her name.
 
 Born in Seattle in 1934 Crista Dahl describes this retrospective as inclusive of
 some sixty-five years of creative practice. Continually stymied by political and
-domestic conditions, Dahlâ€™s pursuit of art training has followed innovative 
+domestic conditions, Dahl’s pursuit of art training has followed innovative 
 and
-experimental trajectoriesâ€”from running an artist gallery/jazz coffee house in
+experimental trajectories—from running an artist gallery/jazz coffee house in
 Seattle in 1963, to her beatnik life in San Francisco. Living in Haight-Ashbury
 in the mid 60's had an enduring influence on Dahl's life-work, as did her
-discovery of Will and Ariel Durantâ€™s "The Story of Civilization" in the 
+discovery of Will and Ariel Durant’s "The Story of Civilization" in the 
 Powell
 River Library near Lund, where she was sheltering her sons from Vietnam War
 service in 1968. After moving to Vancouver in 1971 Dahl became an
-enthusiastic and committed member of some of this cityâ€™s most 
+enthusiastic and committed member of some of this city’s most 
 celebrated
 collectives and histories including the Intermedia Society, Little Hot Stove
 League, the Matrix International Video Exchange Conference, the New Era

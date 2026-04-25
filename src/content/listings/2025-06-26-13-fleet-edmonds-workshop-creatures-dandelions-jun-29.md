@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 13
 type: "EDUCATION"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | [WORKSHOP] Creatures & Dandelions | JUN 29"
 ---
 

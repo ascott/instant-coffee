@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 11
 type: ""
+venue: "CAG"
 summary: "CAG | Reading: Ser Serpas | 12:00 PM | APR 18"
 ---
 

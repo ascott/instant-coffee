@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Oxygen Art Centre Window gallery"
 summary: "Oxygen Art Centre Window gallery | Why? - Marcus Dnomm | FEB 9"
 ---
 

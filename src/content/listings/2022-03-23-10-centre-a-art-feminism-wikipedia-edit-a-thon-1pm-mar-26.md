@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 10
 type: "EDUCATION"
+venue: "Centre A"
 summary: "Centre A | Art + Feminism Wikipedia Edit-a-thon | 1PM | MAR 26"
 ---
 

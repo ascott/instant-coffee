@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 16
 type: "EVENT"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | SOUND OF THE SUN Vol. III Cassette Launch (RSVP) | JUN 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 37
 type: "CALL"
+venue: "Emotion Cartography"
 summary: "Emotion Cartography | Call for Participants | MAR 15"
 ---
 

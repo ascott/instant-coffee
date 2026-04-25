@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 19
 type: "OPENING"
+venue: "Conduit Gallery"
 summary: "Conduit Gallery | considering contraints | zandi dandizette | 7 PM | FEB 7"
 ---
 

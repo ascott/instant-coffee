@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 13
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | SEASON'S SEASONINGS: RETRO JAM | DEC 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 33
 type: ""
+venue: "NEWS"
 summary: "NEWS | Access Gallery | Annual General Meeting | 6PM | JUN 20"
 ---
 

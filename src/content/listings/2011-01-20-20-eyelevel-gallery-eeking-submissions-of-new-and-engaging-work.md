@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 20
 type: ""
+venue: "Eyelevel Gallery"
 summary: "Eyelevel Gallery | eeking submissions of new and engaging work | FEB 11"
 ---
 
@@ -34,11 +35,11 @@ immigrants, students, cruise ships, and tourists each year. This constant
 flow of people continues
 to stimulate the city's deep cultural roots.
 
-â€˜Come From Awayâ€™ is a curated show exploring the role Halifax plays in the
+‘Come From Away’ is a curated show exploring the role Halifax plays in the
 development of
 Canadian culture and personal Canadian identity. This show addresses some
 of the key cultural
-signifiers of â€˜Canadian Identityâ€™ through exploring a variety of ideas and
+signifiers of ‘Canadian Identity’ through exploring a variety of ideas and
 media. This show will
 embrace the diversity of culture in Halifax with an open call to inspired
 emerging artists who are

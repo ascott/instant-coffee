@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 10
 type: ""
+venue: "Initial Gallery"
 summary: "Initial Gallery | â€œthe Diarist, the Commentator, & the Seerâ€  | JUL 4"
 ---
 
@@ -22,7 +23,7 @@ Andy shows us what we want and the truth we need to get it. He creates a
 world of fun but there will be no games. This is a place for the noble and 
 money has nothing to do with it. Painting
 the Seer: Jessica Bell - Inspiration as their guide, a seer takes us to higher 
-ground. Bringing together what works and sparing what doesnâ€™t, Jessicaâ€™s 
+ground. Bringing together what works and sparing what doesn’t, Jessica’s 
 abstract assembly of fabric is both complex and reassuring. Assemblage
 Artist reception:
 

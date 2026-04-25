@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 3
 type: ""
+venue: "Hadden Park Field House"
 summary: "Hadden Park Field House | See Sounds Listening Series: Hildegard Westerkamp | FEB 9"
 ---
 

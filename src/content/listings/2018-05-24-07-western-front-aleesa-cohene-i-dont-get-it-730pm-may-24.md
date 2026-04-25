@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 7
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Aleesa Cohene - I Don't Get It | 730PM | MAY 24"
 ---
 

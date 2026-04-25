@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 25
 type: ""
+venue: "Art OMI"
 summary: "Art OMI | Call: Residency | NOV 30"
 ---
 

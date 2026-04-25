@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 6
 type: "OPENING"
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Pushing up Daisies | NOV 7"
 ---
 

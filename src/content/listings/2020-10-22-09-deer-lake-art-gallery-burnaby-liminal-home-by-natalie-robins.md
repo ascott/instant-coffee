@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Deer Lake Art Gallery (Burnaby)"
 summary: "Deer Lake Art Gallery (Burnaby) | Liminal Home by Natalie Robinson | OCT 24"
 ---
 

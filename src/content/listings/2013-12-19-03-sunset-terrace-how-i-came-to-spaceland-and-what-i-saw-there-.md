@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the flatting imperative"
 emailDate: "Thu, 19 Dec 2013 12:46:17 -0800"
 number: 3
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | How I Came to Spaceland, and What I Saw There | DEC 19"
 ---
 

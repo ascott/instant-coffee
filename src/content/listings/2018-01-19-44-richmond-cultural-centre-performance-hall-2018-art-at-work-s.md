@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 44
 type: "EDUCATION"
+venue: "Richmond Cultural Centre Performance Hall"
 summary: "Richmond Cultural Centre Performance Hall | 2018 Art at Work Symposium: Igniting Connections | JAN 27"
 ---
 

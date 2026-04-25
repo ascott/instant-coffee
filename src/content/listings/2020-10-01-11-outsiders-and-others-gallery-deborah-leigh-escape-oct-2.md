@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 11
 type: "OPENING"
+venue: "Outsiders and Others gallery"
 summary: "Outsiders and Others gallery | Deborah Leigh: Escape | OCT 2"
 ---
 

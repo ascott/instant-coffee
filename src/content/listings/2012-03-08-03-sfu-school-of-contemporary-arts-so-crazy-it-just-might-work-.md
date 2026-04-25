@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 3
 type: ""
+venue: "SFU School of Contemporary Arts"
 summary: "SFU School of Contemporary Arts | SO CRAZY IT JUST MIGHT WORK | MAR 8"
 ---
 

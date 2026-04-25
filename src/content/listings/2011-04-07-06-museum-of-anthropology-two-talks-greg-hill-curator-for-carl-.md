@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 6
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Two Talks: Greg Hill, Curator for Carl Beam | APR 10"
 ---
 
@@ -11,7 +12,7 @@ As part of the exhibition 'Carl Beam,' the Museum of Anthropology
 presents: Two Talks: Greg Hill, Curator for Carl Beam. Greg Hill, the 
 Audain Curator of Indigenous Art at the National Gallery of Canada, 
 as he offers two different perspectives on his role as curator of the 
-exhibition. Hill was born in Fort Erie, Ontario and is a Kanyenâ€™kehaka 
+exhibition. Hill was born in Fort Erie, Ontario and is a Kanyen’kehaka 
 (Mohawk) of the Six Nations of the Grand River Territory.
 
 Talk One is Sunday, April 10th at 1PM; Talk Two is Tuesday, April 
@@ -27,12 +28,12 @@ Museum of Anthropology | Film Screening: Aekideh | APR 16 + APR
 26
 
 As part of the exhibition, 'Carl Beam,' the Museum of Anthropology 
-presents two screenings of the film: Aekideh. â€˜Aakidehâ€™ is an Ojibwe 
+presents two screenings of the film: Aekideh. ‘Aakideh’ is an Ojibwe 
 word meaning brave or brave-hearted. Artist Carl Beam earned a 
 reputation for being fearless, visionary and ultimately, unforgettable. 
 From his early years growing up on Manitoulin Island to his turbulent 
 years spent at a residential school, this documentary explores how 
-these early experiences not only impacted Beamâ€™s life but also his 
+these early experiences not only impacted Beam’s life but also his 
 art. Screening time: 65 minutes. For background on the film, visit 
 www.carlbeamdoc.com.
 

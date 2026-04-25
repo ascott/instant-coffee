@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 55
 type: "EXHIBITION"
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Arts of Resistance | MAY 17"
 ---
 

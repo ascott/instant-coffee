@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 11
 type: "EDUCATION"
+venue: "Gallery"
 summary: "Gallery | Holiday Embroidery Workshop with Hannah Stewart | DEC 13"
 ---
 

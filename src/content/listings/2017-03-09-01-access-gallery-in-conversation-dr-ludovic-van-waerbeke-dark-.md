@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 1
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | In Conversation | Dr Ludovic Van Waerbeke: Dark Matter & Dark Energy | MAR 9"
 ---
 

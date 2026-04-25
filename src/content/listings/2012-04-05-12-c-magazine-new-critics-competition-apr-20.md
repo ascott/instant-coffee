@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 12
 type: ""
+venue: "C Magazine"
 summary: "C Magazine | NEW CRITICS COMPETITION | APR 20"
 ---
 
@@ -83,7 +84,7 @@ C Magazine Issue 113 on Newsstands Now
 Issue 113 "Memory" includes features by Scott McLeod on the 8th 
 Mercosul Biennial, Carol Zemel on Yael Bartana, Michelle Kasprzak 
 on art and social media, Saelan Twerdy in conversation with Derek 
-Sullivan, ChloÃ© Roubert on the National September 11 Memorial, 
+Sullivan, Chloé Roubert on the National September 11 Memorial, 
 and Allison Collins and Eli Bornowsky on Pacific Standard Time. 
 C113 also includes an artist project by CN Tower Liquidation and 
 reviews of exhibitions by Diana Thorneycroft, Laurel Woodcock, Tonik 

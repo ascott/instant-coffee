@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 7
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | Diversity Initiatives Grants Program | deadline | SEP 8"
 ---
 

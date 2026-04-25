@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Longlight Debt and Gloves on your 
 emailDate: "Thu, 29 Dec 2016 08:15:42 -0800"
 number: 6
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Ethan Murley | JAN 7"
 ---
 

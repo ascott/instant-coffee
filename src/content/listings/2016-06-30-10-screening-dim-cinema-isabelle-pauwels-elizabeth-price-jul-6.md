@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 10
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Isabelle Pauwels & Elizabeth Price | JUL 6"
 ---
 

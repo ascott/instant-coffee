@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 19
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Nine Cakes for Nine Decades | OCT 24"
 ---
 

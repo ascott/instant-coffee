@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 8
 type: ""
+venue: "Macaulay & Co."
 summary: "Macaulay & Co. | Walter Scott | A Small Metal Crow with Wings on the Way | FEB 24"
 ---
 

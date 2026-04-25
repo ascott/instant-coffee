@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 40
 type: "CALL"
+venue: "UNIT/PITT - The Garden, The Gallery"
 summary: "UNIT/PITT - The Garden, The Gallery | Summer Studio Residency Call | MAY 15"
 ---
 

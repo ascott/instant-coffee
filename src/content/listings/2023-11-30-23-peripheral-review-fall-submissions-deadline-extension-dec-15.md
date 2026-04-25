@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 23
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Fall Submissions Deadline Extension | DEC 15"
 ---
 

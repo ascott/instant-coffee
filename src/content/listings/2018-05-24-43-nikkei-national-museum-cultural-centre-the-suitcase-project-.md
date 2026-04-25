@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 43
 type: "EXHIBITION"
+venue: "Nikkei National Museum & Cultural Centre"
 summary: "Nikkei National Museum & Cultural Centre | The Suitcase Project | JUN 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 20
 type: "EDUCATION"
+venue: "GATHERED GALLERY [ONLINE]"
 summary: "GATHERED GALLERY [ONLINE] | WORKSHOP - TRADE SECRETS | OCT 27"
 ---
 

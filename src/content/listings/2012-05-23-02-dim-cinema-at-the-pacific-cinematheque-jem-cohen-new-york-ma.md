@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 2
 type: ""
+venue: "DIM Cinema at the Pacific Cinematheque"
 summary: "DIM Cinema at the Pacific Cinematheque | Jem Cohen: New York | MAY 24"
 ---
 
@@ -21,14 +22,14 @@ the dream state of the whole past existing in simultaneous disarray."
 LUC SANTE, LOW LIFE AND EVIDENCE
 
 Following DIM's presentation of his feature-length Benjamin Smoke in 
-March, â€œNew York" highlights Jem Cohenâ€™s 20-year practice of 
+March, “New York" highlights Jem Cohen’s 20-year practice of 
 picturing New York City. Cohen constructs his city portraits as a 
 witness and collector, compiling film reels and audio recordings that 
 develop into compositions over time.
 Cohen focuses his camera on the liminal spaces of the city and the 
 people who live and work on the margins. His endurance process 
 developed in tandem with his astuteness to the ebb and flow of life 
-passing through capital. In Lost Book Found Cohen reflects, â€œI became 
+passing through capital. In Lost Book Found Cohen reflects, “I became 
 invisible, and then I began to see things that had once been invisible to 
 me.â€ 
 

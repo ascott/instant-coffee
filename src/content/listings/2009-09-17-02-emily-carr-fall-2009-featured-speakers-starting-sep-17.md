@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 2
 type: ""
+venue: "Emily Carr"
 summary: "Emily Carr | Fall 2009 Featured Speakers | starting | SEP 17"
 ---
 
@@ -23,7 +24,7 @@ Oct. 8 Bumpy Road...Bumpy Road...HOLE in the Road! Hanif Janmohamed
 
 Oct .15 The Art of Engagement: Tania Willard
 
-Oct. 22 A Filmmakerâ€™s Personal Approach to Collaboration: Thomas Riedelsheimer
+Oct. 22 A Filmmaker’s Personal Approach to Collaboration: Thomas Riedelsheimer
 
 Oct. 29 Living on the Edge: Bing Thom
 

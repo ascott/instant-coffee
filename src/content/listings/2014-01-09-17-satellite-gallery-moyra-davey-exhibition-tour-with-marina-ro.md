@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 17
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Moyra Davey: Exhibition Tour with Marina Roy | JAN 18"
 ---
 
@@ -20,7 +21,7 @@ Join us at Satellite Gallery as artist Marina Roy will consider the current
 exhibition Moyra Davey: Ornament and Reproach through the lens of 
 the quotidian, the accidental, and the literary. In particular, she will look 
 at the constellation of domestic objects, books, old photographs, 
-money, and dust of the apartment interior in Daveyâ€™s work, as well as 
+money, and dust of the apartment interior in Davey’s work, as well as 
 her perambulatory engagement with the street, subway, and cemetery.
 
 Marina Roy is a Vancouver-based artist working across a variety of 
@@ -51,8 +52,8 @@ and video works. For her 2001 exhibition at goodwater in Toronto, she
 began producing photographic mailers that carry the physical traces of 
 their journeys through the mail system, a practice that has continued 
 for subsequent exhibitions. She has mailed over 1,000 photographs 
-across the world. A new set of mailers â€“ 27 folded photographs taken 
-in Trinity Church Cemetery in upper Manhattan â€“ will be featured in the 
+across the world. A new set of mailers – 27 folded photographs taken 
+in Trinity Church Cemetery in upper Manhattan – will be featured in the 
 exhibition.
 
 Born in Canada, Moyra Davey studied photography at Concordia 

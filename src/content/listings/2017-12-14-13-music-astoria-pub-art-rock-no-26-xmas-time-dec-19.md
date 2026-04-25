@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 13
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Astoria Pub | ART ROCK? no. 26 xmas time ! | DEC 19"
 ---
 

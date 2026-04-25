@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 9
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Guest Lecture: Dr. Donald M. Stadtner | MAY 29"
 ---
 
@@ -32,10 +33,10 @@ also tells the little-known
 
 story of how, fifty years ago, the Canadian artist and â€œdiscovererâ€  of
 Inuit art, James Houston, travelled to Japan to study printmaking with
-Unâ€™ichi Hiratsuka.
+Un’ichi Hiratsuka.
 
 In conjunction with this exhibit is: Faces and Voices of the Inuit Art
-Market â€“ A UBC Student Exhibit
+Market – A UBC Student Exhibit
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2

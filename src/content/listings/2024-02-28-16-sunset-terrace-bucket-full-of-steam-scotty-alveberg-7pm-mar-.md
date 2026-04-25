@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 16
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Bucket Full of Steam - Scotty Alveberg | 7PM | MAR 1"
 ---
 

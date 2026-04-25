@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 10
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Wanna talk about reading? Jimmy Robert | JAN 19"
 ---
 

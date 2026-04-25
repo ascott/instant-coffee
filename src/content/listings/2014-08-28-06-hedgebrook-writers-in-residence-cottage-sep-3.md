@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 6
 type: ""
+venue: "Hedgebrook"
 summary: "Hedgebrook | Writers in Residence Cottage | SEP 3"
 ---
 
@@ -30,25 +31,25 @@ women writers from all over the world for residencies of two to six weeks,
 at no cost to the writer.
 
 Residents are housed in six handcrafted cottages, where they spend their
-days in solitude â€“ writing, reading, taking walks in the woods on the
+days in solitude – writing, reading, taking walks in the woods on the
 property or on nearby Double Bluff beach. In the evenings, they gather in
 the farmhouse kitchen to share a home-cooked gourmet meal, their work,
 their process and their stories. The Writers in Residence Program is
-Hedgebrookâ€™s core program, supporting the fully-funded residencies of
+Hedgebrook’s core program, supporting the fully-funded residencies of
 approximately 40 women writers at the retreat each year.
 
 Hedgebrook also invites several established women writers to be in
-residence each year. These invitational residencies expand Hedgebrookâ€™s
-community to include high-profile writers who embody Hedgebrookâ€™s spirit
+residence each year. These invitational residencies expand Hedgebrook’s
+community to include high-profile writers who embody Hedgebrook’s spirit
 and mission. Invited writers stay in a 7th residence, Meadowhouse,
-originally the groundskeeperâ€™s cottage. In exchange for their residency,
-Invited writers offer to raise Hedgebrookâ€™s visibility in the world by
+originally the groundskeeper’s cottage. In exchange for their residency,
+Invited writers offer to raise Hedgebrook’s visibility in the world by
 being guests of honor and keynote speakers at our public events.
 
 Accommodations
 
-Our six hand-crafted cottages â€“ Oak, Fir, Owl, Cedar, Willow and Waterfall
-â€“ were designed by architect Chuck Dougherty, who worked with the Amish in
+Our six hand-crafted cottages – Oak, Fir, Owl, Cedar, Willow and Waterfall
+– were designed by architect Chuck Dougherty, who worked with the Amish in
 Pennsylvania. While all the cottages have a similar design, they are built
 of a variety of woods and have unique color schemes and furnishings.
 Stained glass windows, pottery sinks, and other features were designed and
@@ -60,10 +61,10 @@ notice, it is possible to accommodate a bed downstairs for those who don't
 feel they can climb the ship ladder to the loft. The main floor has a work
 area with ample desk space, a sitting area with window seat looking out
 into the woods, and a comfortable, overstuffed armchair. Bookshelves have
-space for the writerâ€™s personal library, as well as a cottage journal in
+space for the writer’s personal library, as well as a cottage journal in
 which each resident is invited to make entries during her stay. With
-entries dating from Hedgebrookâ€™s genesis in 1988, the journals are the
-cottageâ€™s living legacy â€“ and a way for writers to connect with those who
+entries dating from Hedgebrook’s genesis in 1988, the journals are the
+cottage’s living legacy – and a way for writers to connect with those who
 have come before, and those will come after her stay.
 
 A small half-bathroom and a fully equipped efficiency kitchen finish out
@@ -74,9 +75,9 @@ floors and a washer/dryer.
 
 The historic Farmhouse is the center of the Hedgebrook community, where
 residents gather for dinner at a table overlooking Deer Lagoon and Puget
-Sound. All meals are prepared by Hedgebrookâ€™s chefs, using organic food
+Sound. All meals are prepared by Hedgebrook’s chefs, using organic food
 from our garden and local farmers. The Farmhouse living room, with a
-library full of Hedgebrook writerâ€™s books, serves as a gathering place for
+library full of Hedgebrook writer’s books, serves as a gathering place for
 residents to converse and share their work.
 
 Application

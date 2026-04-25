@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 5
 type: ""
+venue: "www.journal3.org"
 summary: "www.journal3.org | | MAR 17"
 ---
 
@@ -14,7 +15,7 @@ We are excited to announce the release of a new issue of #3. #3 is an
 independent community supported arts journal published quarterly in a
 freely available digital edition.
 
-â€œThe role of #3 has always been to bring artists and theorists together
+“The role of #3 has always been to bring artists and theorists together
 into dialogues on a broad range of aesthetic and social subjects. The role
 of its editors is as orchestrators of these discussions; curators in a
 gallery of images and words. While this may have been the proud ideal for
@@ -31,12 +32,12 @@ This issue is built around three chapters
 
 Contributors to this issue include: photographers and artists Laura
 Letinsky, Hans-Peter Feldmann, Simon Norfolk, Broomberg & Chanarin, Chloë
-Ã˜stmo, Chris Biddy and Bumi Thomas; the filmmaker Wanuri Kahiu; the
+Østmo, Chris Biddy and Bumi Thomas; the filmmaker Wanuri Kahiu; the
 Guantonomo trials courtroom illustrator Janet Hamlin; as well as noted
 academics and critics Lindiwe Dovey, Julian Stallabrass, Ken Harrow,
 Sylvester Ogbechie, and Don Omope.
 
-The issue also includes extracts from Dostoyevskyâ€™s The Brothers Karamazov,
+The issue also includes extracts from Dostoyevsky’s The Brothers Karamazov,
 a re-publication of the partial court transcript featuring the testimony of
 Allen Ginsberg and Norman Mailer during the Boston-based obscenity trial of
 Naked Lunch, and extracts from a talk given by Slavoj Zizek courtesy of the

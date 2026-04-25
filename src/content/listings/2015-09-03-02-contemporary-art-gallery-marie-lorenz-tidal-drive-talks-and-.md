@@ -4,7 +4,8 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 2
 type: "EVENT"
-summary: "Contemporary Art Gallery | Marie Lorenz: Tidal DÃ©rive - Talks and Tours | SEP 3"
+venue: "Contemporary Art Gallery"
+summary: "Contemporary Art Gallery | Marie Lorenz: Tidal Dérive - Talks and Tours | SEP 3"
 ---
 
 LIVE STREAMING: New York-based artist Marie Lorenz on a journey
@@ -18,7 +19,7 @@ of the Fraser River.
 Live stream link: www.contemporaryartgallery.ca/blog/live-stream/
 
 Marie Lorenz
-Tidal DÃ©rive
+Tidal Dérive
 September 1 to 7, 2015
 Fraser River: Hope to Richmond, September 1 to 3
 Salt Spring Island to Isle-de-Lis/Rum Island, September 5 to 7
@@ -38,11 +39,11 @@ In 2014, Marie Lorenz participated in a CAG residency at the Burrard
 Marina Field House Studio which included the construction and launch
 of a boat created from salvaged wood found locally around Vancouver
 and the lower mainland coast line. Driftboat has since travelled to
-Northern California where Lorenz completed tidal dÃ©rives in San
+Northern California where Lorenz completed tidal dérives in San
 Francisco and most recently along the Russian River, Guerneville,
 California.
 
-From September 1 to 7, Tidal DÃ©rive will unfold as an ambitious multi-
+From September 1 to 7, Tidal Dérive will unfold as an ambitious multi-
 day trip along the Fraser River (Hope to Richmond) and between the
 Southern Gulf Islands. Along the route Lorenz will invite participants to
 boat with her. Studying tidal charts of the area, Lorenz uses tides and
@@ -54,7 +55,7 @@ water. The experience and movement of floating, powered by natural
 forces, allows for keen observations and further exploration. As Lorenz
 describes:
 
-â€œI believe that the act of floating has an impact on observation. The
+“I believe that the act of floating has an impact on observation. The
 viewer maintains an awareness of their balance and form as they
 absorb the details in their surroundings. This kind of observation
 creates something new out of something familiar. My boat projects are
@@ -109,17 +110,17 @@ NOTES TO EDITORS:
 
 1. Launch event in Hope, BC
 Time: 9am
-Place: â€˜Put inâ€™ at Wardle Street and 7th Avenue, Hope.
+Place: ‘Put in’ at Wardle Street and 7th Avenue, Hope.
 
-2. Talks and Tours: Our Working Waterfront/Tidal DÃ©rive
+2. Talks and Tours: Our Working Waterfront/Tidal Dérive
 Thursday, September 3, 5-7pm, free
 
-Our Working Waterfront: Guided Tour with Curator, Oana Capota â€“
+Our Working Waterfront: Guided Tour with Curator, Oana Capota –
 5pm
 New Westminster Museums & Archives, 777 Columbia Street, New
 Westminster
 
-Tidal DÃ©rive: Artist Talk with artist Marie Lorenz â€“ 6pm
+Tidal Dérive: Artist Talk with artist Marie Lorenz – 6pm
 Samson V Maritime Museum, 880 Quayside Drive, New Westminster
 Join an evening of exploring the Fraser River through two unique public
 programs: A tour of Our Working Waterfront, 1945-2015 at the New

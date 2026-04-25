@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 8
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Graeme Wahn | AUG 10"
 ---
 

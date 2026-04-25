@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 19
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Animal, Vegetable, Mineral - Tess Rafael | MAR 12"
 ---
 

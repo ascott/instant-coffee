@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 28
 type: "EDUCATION"
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | Put Yourself in Drag by SKIM | AUG 25"
 ---
 

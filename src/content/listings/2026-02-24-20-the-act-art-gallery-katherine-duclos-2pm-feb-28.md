@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 20
 type: "TALK"
+venue: "The ACT Art Gallery"
 summary: "The ACT Art Gallery | KATHERINE DUCLOS | 2PM | FEB 28"
 ---
 

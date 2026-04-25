@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | To Be Belligerent//To Commit To Memory//To Live Wi | APR 4"
 ---
 

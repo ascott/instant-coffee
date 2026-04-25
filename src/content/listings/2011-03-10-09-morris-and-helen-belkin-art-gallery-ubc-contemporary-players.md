@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 9
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | UBC Contemporary Players | MAR 11"
 ---
 

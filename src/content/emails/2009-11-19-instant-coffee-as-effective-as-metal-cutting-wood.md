@@ -15,7 +15,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2009-11-19-03-ecu-the-on-edge-sonnet-labbe-nov-19">03. ECU | The On Edge | Sonnet L"Abbe | NOV 19</a>
 <a href="/instant-coffee/listings/2009-11-19-04-rag-wanda-koop-face-to-face-nov-19">04. RAG | Wanda Koop: FACE to FACE | NOV 19</a>
 <a href="/instant-coffee/listings/2009-11-19-05-surrey-art-gallery-e-mixer-nov-19">05. Surrey Art Gallery | E-MIXER | NOV 19</a>
-<a href="/instant-coffee/listings/2009-11-19-06-w2-perel-gallery-respondencywest-a-literary-salon-nov-19">06. W2 Perel Gallery | RespondencyWest* â€“ A Literary Salon | NOV 19</a>
+<a href="/instant-coffee/listings/2009-11-19-06-w2-perel-gallery-respondencywest-a-literary-salon-nov-19">06. W2 Perel Gallery | RespondencyWest* – A Literary Salon | NOV 19</a>
 <a href="/instant-coffee/listings/2009-11-19-07-every-letter-in-the-alphabet-three-little-words-nov-20">07. EVERY LETTER IN THE ALPHABET | THREE LITTLE WORDS | NOV 20</a>
 <a href="/instant-coffee/listings/2009-11-19-08-the-bridge-tunnel-gallery-the-cutting-nov-20">08. The Bridge & Tunnel Gallery | THE CUTTING | NOV 20</a>
 <a href="/instant-coffee/listings/2009-11-19-09-vivo-willy-le-maitre-nov-20">09. VIVO | Willy Le Maitre | NOV 20</a>
@@ -89,7 +89,7 @@ Keren Cytter, Four Seasons, 2009, DVD, duration 12:00
 Tarje Eikanger Gullaksen, Unfinished Symphony, 2009, DVD, duration 19:00
 Eliza Newman-Saul, Nothing Will Come of Nothing, 2009, DVD, duration 9:24
 Chto Delat/What is to be done?, Partisan Songspiel, 2009, DVD, duration 29:00
-Isabelle Cornaro, Premier rÃƒÂ©ve d'Oskar Fischinger, 2008, DVD, duration 1:41
+Isabelle Cornaro, Premier rÃ©ve d'Oskar Fischinger, 2008, DVD, duration 1:41
 and 1:33
 Susan Hiller, The Last Silent Movie, 2007, DVD, duration 20:00
 
@@ -118,7 +118,7 @@ City of Vancouver, and donors.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday Ã¢â‚¬â€œ Saturday, 12-5pm
+* Tuesday â€“ Saturday, 12-5pm
 * Admission is free
 
 If you no longer wish to receive these emails click HERE to uns
@@ -375,7 +375,7 @@ t. 604.247.8312.e.phickey@richmond.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2009-11-19-05-surrey-art-gallery-e-mixer-nov-19">05. Surrey Art Gallery | E-MIXER | NOV 19</a>
 ------------------------------------------------------------------------
-SURREY ART GALLERY in partnership with INTERACTIVE FUTURES â€™09 STEREO Presents
+SURREY ART GALLERY in partnership with INTERACTIVE FUTURES ’09 STEREO Presents
 
 E-MIXER
 
@@ -395,17 +395,17 @@ University of British Columbia.
 
 E-MIXER will include Acoustic Illusions, a series of sound works that
 experiment with sensory illusion of the aural field. Acoustic Illusions is
-part of Interactive Futures â€™09: Stereo and the performers are Martin
+part of Interactive Futures ’09: Stereo and the performers are Martin
 Gotfrit, Peter Bowles and Yota Kobayashi with Mark McGregor.
 
-E-MIXER is presented in conjunction with Interactive Futures â€˜09: Stereo
+E-MIXER is presented in conjunction with Interactive Futures ‘09: Stereo
 and Intersections Digital Studios at Emily Carr University of Art + Design.
 
 Featuring graduate student projects by Morgan Rauscher, Miles Thorogood,
 and Lois Klassen from Emily Carr University of Art + Design; Arefe
 Dalvandi, Diego Maranan, and Benjamin Unterman from the School of
 Interactive Art and Technology, Simon Fraser University, Surrey; along with
-Scott Billings and Julio LÃ³pez from the University of British Columbia
+Scott Billings and Julio López from the University of British Columbia
 Department of Art History, Fine Art and Theory.
 
 E-MIXER
@@ -421,16 +421,16 @@ HOW TO GET TO THE SURREY ART GALLERY?
 We are located in the Surrey Arts Centre, on 88 Avenue, 1 block east of
 King George Highway, in Bear Creek Park.
 
-By SkyTrain â€“ take the Expo Line, get off at Surrey Central Station, and
+By SkyTrain – take the Expo Line, get off at Surrey Central Station, and
 catch the 321 bus to 88 Avenue.
 
-By Car - Directions are available at www.arts.surrey.ca â€“ click â€œSurrey Art
+By Car - Directions are available at www.arts.surrey.ca – click “Surrey Art
 Galleryâ€ , â€œAbout the Galleryâ€ , and â€œVisitor Infoâ€ .
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2009-11-19-06-w2-perel-gallery-respondencywest-a-literary-salon-nov-19">06. W2 Perel Gallery | RespondencyWest* â€“ A Literary Salon | NOV 19</a>
+<a href="/instant-coffee/listings/2009-11-19-06-w2-perel-gallery-respondencywest-a-literary-salon-nov-19">06. W2 Perel Gallery | RespondencyWest* – A Literary Salon | NOV 19</a>
 ------------------------------------------------------------------------
-RespondencyWest* â€“ A Literary Salon
+RespondencyWest* – A Literary Salon
 continues with
 * Oana Avasilichioaei on Steve Collis *
 
@@ -445,7 +445,7 @@ please confirm that you would like to register and provide us with a little
 background about yourself, your interests, and writers that you enjoy
 reading. Cost: $20-$30 (sliding) per registrant for all 8 sessions. We are
 open to all registrants and will not turn anyone away. If the cost is
-prohibitive please let us know. Also, please register even if you canâ€™t
+prohibitive please let us know. Also, please register even if you can’t
 make all the readings / lectures. (If unregistered admission = $5. )
 
 InfluencyWest is a unique lecture and reading salon modeled on the highly
@@ -489,12 +489,12 @@ Thursday, November 26th: Closing Session
 THE BOOKS BEING DISCUSSED
 
 Lan(d)guage: a sequence of poetics by Ken Belford. Caitlin (2008)
-Lisa Robertsonâ€™s Magneta Soul Whip by Lisa Robertson. Coach House Books (2009)
+Lisa Robertson’s Magneta Soul Whip by Lisa Robertson. Coach House Books (2009)
 Tube Sock Army by Kim Duff. LINE BOOKS (2008)
 sybil unrest. By Larisa Lai and Rita Wong. LINEbooks (2008)
 feria: a poempark by Oana Avasilchioaei. Wolsak & Wynn (2008)
 The Commons. Stephen Collis. Talon Books (2008)
-All these books can be purchased at the Peopleâ€™s Co-op Bookstore at 1391
+All these books can be purchased at the People’s Co-op Bookstore at 1391
 Commercial Drive, Vancouver, BC.
 
 AUTHOR BIOS
@@ -503,7 +503,7 @@ Oana Avasilichioaei is a poet and translator (French and Romanian). She has
 published two collections of poems, feria: a poempark (Wolsak & Wynn, 2008)
 and Abandon (Wolsak & Wynn, 2005), as well as a translation of Romanian
 poet Nichita Stănescu, Occupational Sickness (BuschekBooks, 2006). A
-collaborative, book-length work with ErÃ­n Moure, Expeditions of a ChimÃ¦ra,
+collaborative, book-length work with Erín Moure, Expeditions of a Chimæra,
 involving translational and authorial impossibilities is just out this fall
 (BookThug). She has given readings and talks on poetry and translation in
 Canada, USA, Mexico and Europe, and she was the founder and curator of the
@@ -512,13 +512,13 @@ currently the writer-in-residence at Green College, UBC.
 
 Stephen Collis is the author of four books of poetry, Mine (New Star 2001),
 Anarchive (New Star 2005), which was nominated for the Dorothy Livesay
-Poetry Prize, The Commons (Talonbooks 2008)â€”the latter two form parts of
+Poetry Prize, The Commons (Talonbooks 2008)—the latter two form parts of
 the on-going â€œBarricades Projectâ€ â€”and On the Material (Talonbooks 2010). He
 is also the author of two book-length studies, Phyllis Webb and the Common
 Good (Talonbooks 2007) and Through Words of Others: Susan Howe and
 Anarcho-Scholasticism (ELS Editions 2006). He is currently editing a
 collection of essays, Reading Duncan Reading, organizing the Charles Olson
-Centenary Conference (June 4-6 2010), and continuing to work on â€œThe
+Centenary Conference (June 4-6 2010), and continuing to work on “The
 Barricades Project.â€  A member of the Kootenay School of Writing, he teaches
 American literature, poetry, and poetics at Simon Fraser University.
 
@@ -622,7 +622,7 @@ amalgamations of inter subjective perspective visualize reality as an
 artifact of communication.
 
 "In Edia, entities make and break connections apparently at will,
-paralleling and modeling packet communication - and in Edia Ã¢â‚¬â€œ this
+paralleling and modeling packet communication - and in Edia â€“ this
 system is raised to the level of sentience, for Edia is organic, an
 organism or swarm-organism itself. Part of the brilliance of the work
 is its 'unclarity' - in the same way that Marcel Duchamp's or David
@@ -705,7 +705,7 @@ University (2004) and was a researcher in visual art at the Jan Van Eyck
 Academie in Maastricht, The Netherlands (2005-2007). He has shown
 extensively both nationally and internationally, including exhibitions at
 the Doulun Museum of Modern Art, Shanghai; The Power Plant, Toronto; PS1
-Contemporary Art Centre, New York; and the 5th Biennale de MontrÃƒÂ©al.
+Contemporary Art Centre, New York; and the 5th Biennale de MontrÃ©al.
 Upcoming projects include a solo presentation at the Justina M. Barnicke
 Gallery, Toronto and a residency at the Irish Museum of Modern Art, Dublin.
 
@@ -734,26 +734,26 @@ Monday 23 November 2009, 7:30pm
 Pacific Cinematheque [1131 Howe]
 Tickets $9.50/$8 students + $3 membership
 
-UK artists Karen Mirza and Brad ButlerÃ¢â‚¬â„¢s artistic practice challenges and
+UK artists Karen Mirza and Brad Butlerâ€™s artistic practice challenges and
 interrogates participation, collaboration, the social turn, and the
 traditional roles of the artist as producer and the audience as recipient.
 This investigation currently manifests in The Museum of Non Participation,
 a cross-cultural artistic intervention and appraisal of standard forms of
 representing and experiencing the everyday in Karachi and London. The
-Exception and the Rule is Mirza and ButlerÃ¢â‚¬â„¢s most recent film from this
+Exception and the Rule is Mirza and Butlerâ€™s most recent film from this
 ongoing series. Conscious of their outside perceptions of the city and its
-geo-political weight, they investigate the everyday patterns of KarachiÃ¢â‚¬â„¢s
+geo-political weight, they investigate the everyday patterns of Karachiâ€™s
 inhabitants and social architecture.
 
 Their earlier work, Non Places, The Space Between, and The Autonomous
-Object? provide history and context to Mirza and ButlerÃ¢â‚¬â„¢s commitment to
+Object? provide history and context to Mirza and Butlerâ€™s commitment to
 questioning the objectivity of the cinematic frame and its implications in
 anthropology, ethnography, and architecture.
 
 Brad Butler is a UK filmmaker and co-founder of the no.w.here media arts
 centre in London. Brads most recent work is a return to issues raised in
 his anthropological studies spending 10 years as an active participant in
-experimental film. BradÃ¢â‚¬â„¢s new solo work In Search of Structure is the first
+experimental film. Bradâ€™s new solo work In Search of Structure is the first
 of a new body of work that brings together his experience in both fields.
 
 co-presented by www.dimcinema.ca | www.cineworks.ca |
@@ -771,31 +771,31 @@ discussion. Open to the public, Thought on Film fosters the close reading
 of texts confronting issues in contemporary, cutting-edge cinematic
 practice and philosophy.
 
-Provoked by the presentation of Willy Le Maitreâ€™s Eida at VIVO Media Arts
-as part of Interactive Futures 09, Novemberâ€™s meeting will feature an
-excerpt from Gilles Deleuzeâ€™s The Fold: Leibniz and the Baroque.
+Provoked by the presentation of Willy Le Maitre’s Eida at VIVO Media Arts
+as part of Interactive Futures 09, November’s meeting will feature an
+excerpt from Gilles Deleuze’s The Fold: Leibniz and the Baroque.
 
 Edia is a real-time narrated media presentation by Le Maitre displayed in
 stereographic format. Edia explores the topologies of information space.
 While an individual is situated in a body, its counterpart, the dividual,
-is situated in its bodyâ€™s relations, communication, emotings. Eida details
+is situated in its body’s relations, communication, emotings. Eida details
 the notion of a distributed self and its relative psychogeography,
 encompassing the non-Euclidean space of networked culture in general. Edia
 is an entity that distributes the self in a constellation of points around
 the globe. The points are personified by 'friends' in dialouge. The
 entity's interconnected points can fluidly scale to encompass vast
-dimensions in time and space. In The Fold, Deleuze argues that Leibnizâ€™s
+dimensions in time and space. In The Fold, Deleuze argues that Leibniz’s
 writings constitute the grounding elements of a Baroque philosophy and of
 theories for analyzing contemporary arts and science.
 Experimenting with the form of reading groups and their discussions, this
-monthâ€™s selection will be read out loud by participants. No pre-reading
+month’s selection will be read out loud by participants. No pre-reading
 required!
 
 If you have any questions about Thought on Film, please do not hesitate to
 contact Programs Manager + Curator cheyanne turions at cheyanne@cineworks.ca.
 
 Thought On Film XXII
-reading an excerpt from Gilles Deleuzeâ€™s The Fold: Leibnitz and the Baroque
+reading an excerpt from Gilles Deleuze’s The Fold: Leibnitz and the Baroque
 Cineworks [1131 Howe, back lane entrance]
 Tuesday, 24 November 2009, 6pm
 Free
@@ -820,9 +820,9 @@ Edited by Urban Subjects (Sabine Bitter, Jeff Derksen, Helmut Weber) with
 contributions by Sabine Bitter & Helmut Weber, Ljiljana Blagojevic, Zoran
 Eric, Klaus Ronnberger, and a foreword by Neil Smith
 
-This artistsâ€™ book by Sabine Bitter and Helmut Weber presents an original
+This artists’ book by Sabine Bitter and Helmut Weber presents an original
 and previously unpublished text from 1986 by French philosopher and
-urbanist Henri Lefebvre. Lefebvreâ€™s text, central to urban restructuring
+urbanist Henri Lefebvre. Lefebvre’s text, central to urban restructuring
 processes, is based on "autogestion" (self-management). Printed as a
 facsimile, the text is contextualized and interpreted by accompanying
 commentaries and essays. The publication is available in five editions with
@@ -837,8 +837,8 @@ Contributions by Reinhard Braun, Martin Hochleitner, Jeff Derksen, Michael
 Zinganel, Jochen Becker, Clint Burnham, Candice Hopkins, Cecily Nicholson,
 Heidi Schatzl
 
-Published on the occasion of Sabine Bitter & Helmut Weberâ€™s retrospective
-exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artistsâ€™
+Published on the occasion of Sabine Bitter & Helmut Weber’s retrospective
+exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artists’
 work negotiating the rhetoric of crisis and failure that surrounds the
 concepts of utopias, the welfare state, and socialist cities.
 
@@ -884,9 +884,9 @@ Edited by Urban Subjects (Sabine Bitter, Jeff Derksen, Helmut Weber) with
 contributions by Sabine Bitter & Helmut Weber, Ljiljana Blagojevic, Zoran
 Eric, Klaus Ronnberger, and a foreword by Neil Smith
 
-This artistsâ€™ book by Sabine Bitter and Helmut Weber presents an original
+This artists’ book by Sabine Bitter and Helmut Weber presents an original
 and previously unpublished text from 1986 by French philosopher and
-urbanist Henri Lefebvre. Lefebvreâ€™s text, central to urban restructuring
+urbanist Henri Lefebvre. Lefebvre’s text, central to urban restructuring
 processes, is based on "autogestion" (self-management). Printed as a
 facsimile, the text is contextualized and interpreted by accompanying
 commentaries and essays. The publication is available in five editions with
@@ -901,8 +901,8 @@ Contributions by Reinhard Braun, Martin Hochleitner, Jeff Derksen, Michael
 Zinganel, Jochen Becker, Clint Burnham, Candice Hopkins, Cecily Nicholson,
 Heidi Schatzl
 
-Published on the occasion of Sabine Bitter & Helmut Weberâ€™s retrospective
-exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artistsâ€™
+Published on the occasion of Sabine Bitter & Helmut Weber’s retrospective
+exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artists’
 work negotiating the representation of cities and the production of space
 by everyday practices, state-planning, and global pressures.
 - Show quoted text -
@@ -940,10 +940,10 @@ technology. This exhibition hopes to draw connections between those facets.
 Below are a few statements by the artists in their attempts to circumscribe
 the topic in question:
 
-Ã¢â‚¬Å“In the digital world there exists data that is real yet intangible,
+â€œIn the digital world there exists data that is real yet intangible,
 hovering over these boundaries the information itself is ephemeral and
 should not truly exist in material form. However, even if deleted, this
-information will have left inerasable traces of its existence in our world. Ã¢â‚¬Å“
+information will have left inerasable traces of its existence in our world. â€œ
 
 The modification of physical interaction has changed through the variable
 existence and experience of materials within a growing objectless,
@@ -1228,7 +1228,7 @@ www.oakvillegalleries.com
 ------------------------------------------------------------------------
 Call for Submissions:
 Animation With Love
-Currated by: SiloÃ«n Daley and Dylan Edwards
+Currated by: Siloën Daley and Dylan Edwards
 The program will showcase short animated media that expresses a heartfelt
 personal investment on the part of the artists. We are looking for potent
 work that either taps the creative potential of the animation artform,
@@ -1322,17 +1322,17 @@ Phone: 902.582.3842
 
 Fax: 902.582.7943
 
-Box 190 â€¢ 555 Ross Creek Road â€¢ Canning â€¢ NS â€¢ B0P 1H0
+Box 190 • 555 Ross Creek Road • Canning • NS • B0P 1H0
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+……………………………………………………………..
 
-Arts â€¢Passion â€¢ Wonder
+Arts •Passion • Wonder
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+……………………………………………………………..
 
 The Ross Creek Centre for the Arts is a non-profit, multi disciplinary arts
 education and development centre based on 186 acres of farm and forest in
-Nova Scotiaâ€™s Annapolis Valley. Our facilities and programs are designed to
+Nova Scotia’s Annapolis Valley. Our facilities and programs are designed to
 serve the artistic and cultural communities of Nova Scotia, of Canada, and
 of the world, with a focus on professional artist development, youth
 education and Aboriginal arts programming.
@@ -1399,7 +1399,7 @@ utilities. please contact suzan at smarczak75@hotmail.com to view the space.
 <a href="/instant-coffee/listings/2009-11-19-02-centre-a-helen-belkin-art-gallery-michael-ames-theatre-nov-1">2.
 The Gam | looking to share studio space</a>
 Our artist collective â€œThe Gam,â€  has just acquired an amazing new space.
-It is a 2000 sq. ft. gallery/studio within an artistsâ€™ only building.
+It is a 2000 sq. ft. gallery/studio within an artists’ only building.
 Aroused? We are looking to share our space with a dynamic, easy-going
 individual that is willing to work in an open, collective environment. This
 special someone should also be excited about the opportunity to take part

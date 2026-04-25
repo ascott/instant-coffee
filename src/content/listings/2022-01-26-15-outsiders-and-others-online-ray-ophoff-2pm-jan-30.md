@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 15
 type: "TALK"
+venue: "Outsiders and Others [ONLINE]"
 summary: "Outsiders and Others [ONLINE] | Ray Ophoff | 2PM | JAN 30"
 ---
 

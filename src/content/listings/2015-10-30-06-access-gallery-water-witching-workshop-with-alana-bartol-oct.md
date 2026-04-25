@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 6
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | Water Witching Workshop with Alana Bartol | OCT 31"
 ---
 
@@ -35,7 +36,7 @@ info@accessgallery.ca or 604 689 2907.
 
 Alana Bartol an interdisciplinary artist, curator, and educator from
 Windsor, Ontario, currently based in Calgary, Alberta. She is interested
-in ecology as a â€˜life scienceâ€™ that interrogates relationships between
+in ecology as a ‘life science’ that interrogates relationships between
 place and self, nature, and community. Her collaborative and individual
 works explore concepts of visibility and survival through our
 relationships with nature and each other. Bartol holds an MFA from

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: This May Be for Forever"
 emailDate: "Thu, 05 Dec 2013 11:40:18 -0800"
 number: 14
 type: ""
+venue: "Blim at VIVO"
 summary: "Blim at VIVO | 10 birthday bash | DEC 7"
 ---
 

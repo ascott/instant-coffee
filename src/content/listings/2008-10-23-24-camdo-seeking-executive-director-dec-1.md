@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 24
 type: ""
+venue: "CAMDO"
 summary: "CAMDO | seeking: EXECUTIVE DIRECTOR | DEC 1"
 ---
 
@@ -161,6 +162,6 @@ Candidate Submissions
 
 Inquiries, nominations and applications should be made by email to Dr.
 Niamh Oâ&#65533;&#65533;Laoghaire, President of CAMDO: niamh.olaoghaire@utoronto.ca.
-Applications should include a current resumÃ© and letter of interest.
+Applications should include a current resumé and letter of interest.
 
 Application Deadline: December 1 or until a suitable candidate has been found.

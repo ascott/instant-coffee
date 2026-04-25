@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 11
 type: ""
+venue: "Waldorf"
 summary: "Waldorf | Day for Night | Vancouver's 125th birthday | MAR 27"
 ---
 
@@ -23,7 +24,7 @@ screening of programming selected from the local CBC Television
 Archives vault. From 60s West End beatniks to 80s Kitsilano yuppies
 and Gastown artists looking for affordable studio space - Day for
 Night travels back in time to prove that old French dictum, "plus a
-change, plus c'est la mÃªme chose."
+change, plus c'est la même chose."
 
 Featuring locally-produced commercials and a special centennial
 message to Vancouver from Ronald Reagan.

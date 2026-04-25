@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interview with the vampire"
 emailDate: "Thu, 27 Oct 2016 18:40:17 -0700"
 number: 21
 type: "TALK"
+venue: "VISR @ Or Gallery"
 summary: "VISR @ Or Gallery | Jerry Zaslove \"Why Are We So Afraid of Revolution? | NOV 7"
 ---
 

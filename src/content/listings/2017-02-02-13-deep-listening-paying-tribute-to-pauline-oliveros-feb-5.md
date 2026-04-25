@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 13
 type: "CALL"
+venue: "DEEP LISTENING"
 summary: "DEEP LISTENING | Paying Tribute To Pauline Oliveros | FEB 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 33
 type: "PERFORMANCE"
+venue: "Future Leisure at 45W"
 summary: "Future Leisure at 45W | Shooting Gallery Performance Series | MAR 26-28 | MAR 26"
 ---
 

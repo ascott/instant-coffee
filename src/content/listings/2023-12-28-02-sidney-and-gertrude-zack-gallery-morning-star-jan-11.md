@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: new year"
 emailDate: "Wed, 27 Dec 2023 23:35:08 -0800"
 number: 2
 type: "OPENING"
+venue: "Sidney and Gertrude Zack Gallery"
 summary: "Sidney and Gertrude Zack Gallery | Morning Star | JAN 11"
 ---
 

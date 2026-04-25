@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 7
 type: "OPENING"
+venue: "Douglas Udell"
 summary: "Douglas Udell | LES THOMAS | NOV 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 2
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Decoy Magazine | Bcc: Digital Art Subscription | Li Alin | APR 27"
 ---
 

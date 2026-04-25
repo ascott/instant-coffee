@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 10
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Samson Young: It's a heaven over there | 7-9PM | FEB 23"
 ---
 

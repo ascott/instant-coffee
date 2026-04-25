@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 52
 type: "EDUCATION"
+venue: "The Capilano Review"
 summary: "The Capilano Review | Poets Theatre Workshop | MARCH 9-10 | MAR 9"
 ---
 

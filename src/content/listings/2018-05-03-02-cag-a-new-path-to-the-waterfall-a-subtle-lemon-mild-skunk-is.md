@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 2
 type: "EDUCATION"
+venue: "CAG: A New Path to the Waterfall"
 summary: "CAG: A New Path to the Waterfall | A subtle lemon, mild skunk-ish and sweet potato... | MAY 3"
 ---
 

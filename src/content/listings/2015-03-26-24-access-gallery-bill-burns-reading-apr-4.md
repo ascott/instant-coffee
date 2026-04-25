@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 24
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | Bill Burns Reading | APR 4"
 ---
 

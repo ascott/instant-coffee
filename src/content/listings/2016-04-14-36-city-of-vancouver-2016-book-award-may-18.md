@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 36
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | 2016 Book Award | MAY 18"
 ---
 

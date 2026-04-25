@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 16
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | The Dance Centre | TvT Interlink International | SEPT 5&6 | SEP 5"
 ---
 

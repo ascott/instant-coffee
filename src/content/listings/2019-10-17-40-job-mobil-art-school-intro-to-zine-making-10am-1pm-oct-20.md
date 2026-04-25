@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 40
 type: ""
+venue: "JOB"
 summary: "JOB | Mobil Art School | Intro to Zine making | 10AM-1PM | OCT 20"
 ---
 

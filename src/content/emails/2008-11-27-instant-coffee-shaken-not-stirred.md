@@ -310,7 +310,7 @@ Tow trucks arrive at 6 pm to relocate the sculptures to Ontario Street
 
 Park is a project for the Ontario Street Greenway by Vancouver-based artist
 and architect Marko Simcic. Commissioned by the City of
-VancouverÃ¢&#65533;&#65533;s Public
+Vancouverâ&#65533;&#65533;s Public
 Art Program, Park consists of two mobile, stainless steel sculptures, each
 approximately the size and weight of a small automobile. Currently on view
 at the Pendulum Gallery, the exhibition will conclude with a literal launch
@@ -318,7 +318,7 @@ of the project onto the streets of Vancouver. The sculptures will occupy
 curb lane parking spots and will be relocated from time to time to various
 addresses along Ontario Street. Whether adjacent to public sites such as
 schools or parks, commercial properties, or permitted to occupy residential
-parking through their Ã¢&#65533;&#65533;adoptionÃ¢&#65533;&#65533; by Ontario
+parking through their â&#65533;&#65533;adoptionâ&#65533;&#65533; by Ontario
 Street residents, Park tracks
 the many forms by which the street, our most symbolic public space, is
 regulated.
@@ -344,7 +344,7 @@ theatre artists. She has recently completed recording a CD of improvised
 duets with 13 of Vancouver's top musicians. Stefan Smulovitz is renowned
 for his "quicksilver ability to morph and manipulate sound via digital
 technology" (Georgia Straight). He is a performer on both laptop and viola,
-and has created over 60 live scores for film. StefanÃ¢&#65533;&#65533;s
+and has created over 60 live scores for film. Stefanâ&#65533;&#65533;s
 compositions have
 been performed by the Vancouver Symphony Orchestra, Turning Point, Ensemble
 Symposium, Chor Leoni, Electra, the Sonic Boom Festival from 2002-2007 and
@@ -382,17 +382,17 @@ East Van Studios
 <a href="/instant-coffee/listings/2008-11-27-09-western-front-performance-art-fia-backstrom-nov-29">09. Western Front Performance Art | Fia Backstrom | NOV 29</a>
 ------------------------------------------------------------------------
 Fia Backstrom
-HERD INSTINCT 360Â°
+HERD INSTINCT 360°
 
 Performance event:
 Saturday, November 29 at 7 PM
 Western Front Grand Luxe
 
-Western Front Performance Art is pleased to present HERD INSTINCT 360Â°, a
+Western Front Performance Art is pleased to present HERD INSTINCT 360°, a
 performance by Fia Backstrom organized by independent curator and writer
 Johan Lundh.
 
-HERD INSTINCT 360Â° is a staged gathering of performances and lectures.
+HERD INSTINCT 360° is a staged gathering of performances and lectures.
 Investigating human collective behavior through subjects such as cult
 mentality, corporate action and faux activism, the performance references
 the politics of group dynamics--the mass-psychosis and totalitarian
@@ -457,7 +457,7 @@ Sunday Dec.14th, 12:00pm - 5:00pm (around back after 6:00pm)
 Second chance to get some holiday shopping in!
 
 Crafts for a Cause: A Craft Fair to Support Social Justice Struggles
-Rhizome CafÃ©, 317 East Broadway, www.rhizomecafe.ca
+Rhizome Café, 317 East Broadway, www.rhizomecafe.ca
 Saturday, December 6,
 6:00-10:00pm
 $2 suggested donation at the door, but no one turned away for lack of funds
@@ -595,7 +595,7 @@ Screening I
 November 26, 2008, 7 - 9 PM
 Between Here and There, Now and Then
 Curated by Liz Park
-Featuring works by Chip Lord, Mona Hatoum, Guillermo GÃ³mez-PeÃ±a and Roberto
+Featuring works by Chip Lord, Mona Hatoum, Guillermo Gómez-Peña and Roberto
 Sifuentes, and Antonia Hirsch
 Screening III
 December 10, 2008, 7 - 9 PM
@@ -645,7 +645,7 @@ Woodfin. In The Returning, Woodfin furthers his exploration of what he
 identifies as the mundane, first presented in his exhibition, This Night.
 
 Out of darkness I hope to bring dignity and rest to beasts that have
-worked very hard. To create a silenceÂ¦To keep in mind that a painting can
+worked very hard. To create a silence¦To keep in mind that a painting can
 simply be a portrait of an animal and that this simplicity gives weight and
 value to the underdogs of the world.
 
@@ -779,7 +779,7 @@ Micah Lexier is a Toronto based artist whose work has been shown at the
 Contemporary Art Gallery, Vancouver; The New Museum, New York; The British
 Museum, London; Printed Matter, New York; Gitte Weise Galerie, Berlin;
 Musee d'art Contemporain, Montreal; the Vancouver Art Gallery and the Art
-Gallery of Ontario. He is represented in Canada by TrÃ©panier Baer, Calgary
+Gallery of Ontario. He is represented in Canada by Trépanier Baer, Calgary
 and Birch Libralato, Toronto.
 
 Join us on Friday, December 5th from 8-10pm for the launch of this bookwork
@@ -855,7 +855,7 @@ Gallery hours 12 - 5PM Tuesday - Saturday
 Collision
 Shudder Gallery's first annual Christmas "functional art" group show
 
-Lorenzo GiuffrÃ¨, Keith Jones, Mysa Kaczkowski, Hernan Kahs, Denver Lynxleg,
+Lorenzo Giuffrè, Keith Jones, Mysa Kaczkowski, Hernan Kahs, Denver Lynxleg,
 Rose-Marie Pickard, Susan Schroeder, Nick Smit, Nico Soule, Jason Statler,
 Monika Valyi, Jason Ververgaert
 

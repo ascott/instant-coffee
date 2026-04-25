@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 7
 type: ""
+venue: "The Temporary Gallery of Reproduced"
 summary: "The Temporary Gallery of Reproduced | One day when Gregor woke... | OCT 29"
 ---
 

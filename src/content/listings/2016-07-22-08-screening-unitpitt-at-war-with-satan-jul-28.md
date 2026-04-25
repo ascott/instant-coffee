@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interactive automata"
 emailDate: "Thu, 21 Jul 2016 17:00:10 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | UNIT/PITT | At War with Satan! | JUL 28"
 ---
 

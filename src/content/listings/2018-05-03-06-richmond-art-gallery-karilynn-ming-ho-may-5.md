@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 6
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Karilynn Ming Ho | MAY 5"
 ---
 

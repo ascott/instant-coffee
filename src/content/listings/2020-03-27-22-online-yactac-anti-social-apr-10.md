@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 22
 type: "CALL"
+venue: "ONLINE"
 summary: "ONLINE | Yactac | “Anti-Social” | APR 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 26
 type: ""
+venue: "Mad Pride Cabaret submission"
 summary: "Mad Pride Cabaret submission | JUL 22"
 ---
 

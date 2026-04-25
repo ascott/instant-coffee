@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 45
 type: ""
+venue: "JOB"
 summary: "JOB | Ferry Building Gallery | Summer Gallery Assistant | APR 19"
 ---
 

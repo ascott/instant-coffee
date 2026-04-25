@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 19
 type: "EDUCATION"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | Indigenous History in Colour | FEB 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 36
 type: "OPENING"
+venue: "Conduit Gallery"
 summary: "Conduit Gallery | JAMES K-M: PYRAMIDS | 7-9PM | JUN 20"
 ---
 

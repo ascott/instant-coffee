@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 15
 type: ""
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | The Plaskett Award | Ten Yrs | Exhibition and Symposium | MAY 9"
 ---
 
@@ -27,6 +28,6 @@ Saturday, May 10 from 1:00 to 4:00 pm at Emily Carr University of Art +
 Design on Granville Island (Room NB 245). Concurrent with the Grad Show, 
 the symposium brings together eight artists and two writer-curators to 
 examine the effect of place, specifically in painting. Speakers include Ben 
-Reeves, JÃ¼rgen Partenheimer, Landon Mackenzie, Jennifer Lefort, Mark 
+Reeves, Jürgen Partenheimer, Landon Mackenzie, Jennifer Lefort, Mark 
 Neufeld, Willie Brisco, Ehryn Torrel, Megan Hepburn, Julie Trudel and 
 Steffanie Ling.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: new year"
 emailDate: "Wed, 27 Dec 2023 23:35:08 -0800"
 number: 6
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Intersecting Orbits: Michael Morris and Joan Balza | JAN 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 17
 type: "TALK"
+venue: "Griffin Art Projects [ONLINE]"
 summary: "Griffin Art Projects [ONLINE] | Live with Martha Wilson | 1PM | OCT 25"
 ---
 

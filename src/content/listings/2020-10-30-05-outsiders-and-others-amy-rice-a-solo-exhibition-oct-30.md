@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Amy Rice: a solo exhibition | OCT 30"
 ---
 

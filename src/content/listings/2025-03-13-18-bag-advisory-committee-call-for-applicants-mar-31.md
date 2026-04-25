@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 18
 type: "CALL"
+venue: "BAG"
 summary: "BAG | Advisory Committee Call for Applicants | MAR 31"
 ---
 

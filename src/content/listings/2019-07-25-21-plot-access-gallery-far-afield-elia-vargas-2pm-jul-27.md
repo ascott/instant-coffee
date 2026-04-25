@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 21
 type: "TALK"
+venue: "PLOT @ Access Gallery"
 summary: "PLOT @ Access Gallery | Far Afield: Elia Vargas | 2PM | JUL 27"
 ---
 

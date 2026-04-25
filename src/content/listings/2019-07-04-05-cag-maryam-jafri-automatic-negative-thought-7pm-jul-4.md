@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 5
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Maryam Jafri | Automatic Negative Thought | 7PM | JUL 4"
 ---
 

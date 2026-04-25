@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 7
 type: "FUNDRAISER"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | POST BREAK IN THANK YOU SUMMER CONCERT DANCE PARTY | JUL 22"
 ---
 

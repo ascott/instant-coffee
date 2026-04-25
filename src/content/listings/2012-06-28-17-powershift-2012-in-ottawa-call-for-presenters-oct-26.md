@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 17
 type: ""
+venue: "PowerShift 2012 in Ottawa"
 summary: "PowerShift 2012 in Ottawa | Call for presenters | OCT 26"
 ---
 
@@ -63,13 +64,13 @@ we are looking at, while it is less likely to get chosen for this particular
 event, it will definitely still be considered.
 
 Below (scroll down) we describe the four different types of sessions we 
-are looking for speakers and facilitators for â€“ Skills-based workshops, 
+are looking for speakers and facilitators for – Skills-based workshops, 
 speakers and panelists (both for â€œfrontlineâ€  and â€œdigging deeperâ€ , 
 issues-based panels), Issues-based workshops, and Caucuses (for 
 caucuses we encourage suggestions from people who would prefer 
 not to facilitate themselves as well). Each of the four session types has 
 a separate form for prospective facilitators and speakers to fill-out that 
-can be found below. The form shouldnâ€™t take more than 20 minutes to 
+can be found below. The form shouldn’t take more than 20 minutes to 
 fill out. If interested, you are encouraged to apply for multiple session 
 types or workshops / topics in the same type. Please fill out a separate 
 form for each application (with the exception of the speaker / panelist 

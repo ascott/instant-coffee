@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 5
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Archipelago | FEB 3"
 ---
 

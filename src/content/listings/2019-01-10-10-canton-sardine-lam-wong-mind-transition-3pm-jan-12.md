@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 10
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Lam Wong: Mind Transition | 3PM | JAN 12"
 ---
 

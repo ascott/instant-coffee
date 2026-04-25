@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 24
 type: ""
+venue: "Concourse Gallery @ ECU"
 summary: "Concourse Gallery @ ECU | The Future of Education Project | MAR 20"
 ---
 

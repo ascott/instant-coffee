@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 24
 type: "CALL"
+venue: "Perpendicular Play Vol. 3"
 summary: "Perpendicular Play Vol. 3 | Call for Submissions: Passenger Side | APR 30"
 ---
 

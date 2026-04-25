@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 36
 type: "CALL"
+venue: "PLATFORM (Winnipeg)"
 summary: "PLATFORM (Winnipeg) | 2015 Call for Submissions | OCT 30"
 ---
 
@@ -13,7 +14,7 @@ PLATFORM centre for photographic + digital arts
 PLATFORM welcomes proposals for new or recent work by contemporary artists,
 artist collectives, curators or collaborations practicing within the realm
 of photographic and digital art practices. To gain a greater understanding
-of the centre and itâ€™s programming please visit our website to review past
+of the centre and it’s programming please visit our website to review past
 programming. For further information please contact
 programming@platformgallery.org.
 
@@ -22,8 +23,8 @@ artist-run centre that fosters an environment of critical discourse for the
 exhibition, promotion, and dissemination of photo-based and digital art
 practices. PLATFORM programs six in house exhibitions each yeah and is
 committed to paying CARFAC fees. Eligible submissions are reviewed by the
-Directors and a rotating advisory panel comprised of PLATFORMâ€™s Board of
-Directors. The Centreâ€™s programming is usually scheduled 2â€“3 years in
+Directors and a rotating advisory panel comprised of PLATFORM’s Board of
+Directors. The Centre’s programming is usually scheduled 2–3 years in
 advance. PLATFORM will not return submission packages and only successful
 applicants will be notified.
 
@@ -71,7 +72,7 @@ artists, and acrylic or watercolour painters working on smaller canvas.
 (Inadequate ventilation for oil painting.) Some storage space for
 stretchers and such. The studio is secured with a gate. Street parking is
 almost always available, and nearby bus + nightbus routes along Hastings.
-Close to cafÃ©s, restaurants and corner stores. Call/text Brit at
+Close to cafés, restaurants and corner stores. Call/text Brit at
 778.887.0044 to see.
 
 2.
@@ -85,7 +86,7 @@ Are you a collaborative, creative artist looking to share studio space?
 Share 1000sq.ft studio space with four other women artists in the Herd of
 Women Studio at 1000 Parker Street.
 
-This space is best suited to an artist who doesnâ€™t need wall space, either
+This space is best suited to an artist who doesn’t need wall space, either
 for working or for displaying their work. It is next to a large, bright
 window and is approximately 100 ft. sq.
 

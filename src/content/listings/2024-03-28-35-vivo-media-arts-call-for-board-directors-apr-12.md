@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 35
 type: "CALL"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | Call for Board Directors | APR 12"
 ---
 

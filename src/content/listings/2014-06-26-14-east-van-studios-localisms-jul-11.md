@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: they do not always believe the man
 emailDate: "Thu, 26 Jun 2014 16:11:54 -0700"
 number: 14
 type: ""
+venue: "East Van Studios"
 summary: "East Van Studios | Localisms | JUL 11"
 ---
 

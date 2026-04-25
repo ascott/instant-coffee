@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 35
 type: "EVENT"
+venue: "Or Gallery"
 summary: "Or Gallery | Discussion with Anthea Black | 1-5PM | NOV 10"
 ---
 

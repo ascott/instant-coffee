@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 33
 type: ""
+venue: "JOB"
 summary: "JOB | Modern Fuel Artist-Run Centre | Operations Director | MAR 10"
 ---
 

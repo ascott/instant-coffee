@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 22
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Flow: Works from the Permanent Collection | APR 14"
 ---
 

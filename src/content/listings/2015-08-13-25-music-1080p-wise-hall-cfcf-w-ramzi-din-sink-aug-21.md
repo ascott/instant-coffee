@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 25
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | 1080p @ Wise Hall | CFCF w/ RAMZI + Din Sink | AUG 21"
 ---
 

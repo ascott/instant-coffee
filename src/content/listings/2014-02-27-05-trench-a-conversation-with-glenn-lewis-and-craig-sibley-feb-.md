@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 5
 type: ""
+venue: "trench"
 summary: "trench | A Conversation with Glenn Lewis and Craig Sibley | FEB 27"
 ---
 
@@ -23,7 +24,7 @@ Please RSVP to alison@trenchgallery.com, seating is limited
 
 Glenn Lewis has an upcoming retrospective solo show at Kunstverein in 
 Amsterdam. For more information please visit www.kunstverein.nl
-Copyright Â© 2014 Trench Contemporary Art, All rights reserved. 
+Copyright © 2014 Trench Contemporary Art, All rights reserved. 
 You are receiving this email because you shared your address with us. 
 
 Our mailing address is:

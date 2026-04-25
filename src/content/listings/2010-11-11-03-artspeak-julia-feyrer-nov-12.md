@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 3
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Julia Feyrer | NOV 12"
 ---
 
@@ -44,7 +45,7 @@ Horses, Don't They?, co-edited the audiozine Spoox, and
 authored Comedy
 Tragedy, an artist book. She studied at Emily Carr Institute of 
 Art +
-Design and the St.Ã‚Â¤delschule School of Fine Arts. She lives 
+Design and the St.Â¤delschule School of Fine Arts. She lives 
 in Vancouver.
 
 * 233 Carrall Street

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 19
 type: "CALL"
+venue: "Dek Unu Magazine"
 summary: "Dek Unu Magazine | Open Call | JAN 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 27
 type: "CALL"
+venue: "Symphony of Fire IV"
 summary: "Symphony of Fire IV | submissions are now open | JAN 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 13
 type: ""
+venue: "Waldorf"
 summary: "Waldorf | Day for Night | Days of Heaven (1978) and Man on Wire (2008) | MAR 20"
 ---
 
@@ -16,7 +17,7 @@ The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 Day for Night: Films in the Afternoon presents a dreamy double bill:
 Days of Heaven (1978) and Man on Wire (2008)
 
-â€œNobodyâ€™s perfect. There was never a perfect person around. You just
+“Nobody’s perfect. There was never a perfect person around. You just
 have half-angel, half-devil in you.â€  - Linda Manz in Days of Heaven
 
 Following February's screening of Terrence Malick's Badlands (1973),
@@ -32,7 +33,7 @@ sister (Linda Manz of Dennis Hopper's Vancouver-shot Out of the Blue)
 flee by rail to the countryside of the Texas panhandle. They find work
 harvesting wheat in the fields of a stoic farmer (Sam Shepard). A love
 triangle ensues followed by the drama of a swarm of locusts, a hellish
-fire and, ultimately, another unintended murder â€“ Malick captures it
+fire and, ultimately, another unintended murder – Malick captures it
 all with dreamlike authenticity, creating a timeless, gritty picture
 of the American west at the turn of the century.
 
@@ -50,7 +51,7 @@ Terrence Malick's remarkably rich second feature is a story of human
 lives touched and passed over by the divine, told in a rush of
 stunning and precise imagery. Nestor Almendros's cinematography is as
 sharp and vivid as Malick's narration is elliptical and enigmatic. The
-result is a film that hovers just beyond our graspâ€”mysterious,
+result is a film that hovers just beyond our grasp—mysterious,
 beautiful, and, very possibly, a masterpiece. - The Chicago Reader
 
 93 minutes

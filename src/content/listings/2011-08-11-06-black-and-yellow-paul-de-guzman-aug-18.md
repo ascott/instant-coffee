@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Righteousness and Recklessness"
 emailDate: "Thu, 11 Aug 2011 11:16:30 -0700"
 number: 6
 type: ""
+venue: "Black and Yellow"
 summary: "Black and Yellow | Paul de Guzman | AUG 18"
 ---
 
@@ -32,7 +33,7 @@ relevance of vernacular urban experience. The correspondence on
 these postcards acts as a reminder that architecture invokes 
 narrative and is a result of a lived social human experience.
 
-Alongside an installation of de Guzmanâ€™s collection, Fieldwork 
+Alongside an installation of de Guzman’s collection, Fieldwork 
 exhibits diptychs that include pre-WWII architectural postcards 
 juxtaposed with structures made from Lego Building Blocks. While 
 the Lego structures are loosely modeled after some architectural 

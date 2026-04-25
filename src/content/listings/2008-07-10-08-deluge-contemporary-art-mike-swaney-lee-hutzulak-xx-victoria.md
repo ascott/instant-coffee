@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee Boils: 95% hotter"
 emailDate: "Thu, 10 Jul 2008 09:30:06 -0700"
 number: 8
 type: ""
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | Mike Swaney + Lee Hutzulak XX | Victoria | JUL 22"
 ---
 

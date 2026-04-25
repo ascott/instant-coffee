@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 41
 type: "TALK"
+venue: "Centre A"
 summary: "Centre A | Asian Futures without Asians | 2PM | APR 9"
 ---
 

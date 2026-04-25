@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Dream Technologies: Early Works of Tony Conrad | AUG 24"
 ---
 

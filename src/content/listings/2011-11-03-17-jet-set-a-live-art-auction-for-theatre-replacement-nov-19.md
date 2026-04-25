@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 17
 type: ""
+venue: "JET SET"
 summary: "JET SET | A Live Art Auction for Theatre Replacement | NOV 19"
 ---
 

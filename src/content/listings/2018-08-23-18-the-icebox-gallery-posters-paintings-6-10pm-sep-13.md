@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 18
 type: "OPENING"
+venue: "The Icebox Gallery"
 summary: "The Icebox Gallery | Posters & Paintings | 6-10PM | SEP 13"
 ---
 

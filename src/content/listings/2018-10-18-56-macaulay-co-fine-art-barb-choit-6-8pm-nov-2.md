@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 56
 type: "OPENING"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Barb Choit | 6-8PM | NOV 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 10
 type: "EDUCATION"
+venue: "The Gallery George"
 summary: "The Gallery George | Photo Art and Photo Editing Workshop | JUN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Paul Kyle Gallery | Jack Bush by NFB | 8PM | FEB 19"
 ---
 

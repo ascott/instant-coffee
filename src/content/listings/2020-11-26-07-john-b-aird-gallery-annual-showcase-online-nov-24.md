@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Neighbour's Plate"
 emailDate: "Thu, 26 Nov 2020 09:10:12 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "John B. Aird Gallery"
 summary: "John B. Aird Gallery | Annual Showcase [online] | NOV 24"
 ---
 

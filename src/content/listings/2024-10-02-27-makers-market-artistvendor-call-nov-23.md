@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 27
 type: "CALL"
+venue: "Makers Market"
 summary: "Makers Market | artist/vendor call | NOV 23"
 ---
 

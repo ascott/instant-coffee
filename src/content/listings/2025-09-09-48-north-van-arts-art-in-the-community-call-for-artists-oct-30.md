@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 48
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | Art in the Community: Call for Artists | OCT 30"
 ---
 

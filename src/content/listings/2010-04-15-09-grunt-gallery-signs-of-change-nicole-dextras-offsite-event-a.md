@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 9
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Signs of Change, Nicole Dextras Offsite Event | APR 19"
 ---
 

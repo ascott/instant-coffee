@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 16
 type: ""
+venue: "JOB"
 summary: "JOB | Unit 17 | Gallery Assistant | JAN 30"
 ---
 

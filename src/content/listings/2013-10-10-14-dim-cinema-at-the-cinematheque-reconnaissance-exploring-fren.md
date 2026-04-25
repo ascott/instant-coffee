@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 14
 type: ""
+venue: "DIM Cinema at The Cinematheque"
 summary: "DIM Cinema at The Cinematheque | Reconnaissance: Exploring French Territory | OCT 21"
 ---
 

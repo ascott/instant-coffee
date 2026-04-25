@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 25
 type: "TALK"
+venue: "Inform Interiors"
 summary: "Inform Interiors | Shep Steiner: Allegory, Conversion, Camera Lucida | APR 25"
 ---
 

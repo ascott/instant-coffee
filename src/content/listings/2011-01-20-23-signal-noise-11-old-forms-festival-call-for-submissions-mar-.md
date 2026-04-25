@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 23
 type: ""
+venue: "SIGNAL & NOISE 11 OLD FORMS FESTIVAL"
 summary: "SIGNAL & NOISE 11 OLD FORMS FESTIVAL | CALL FOR SUBMISSIONS | MAR 1"
 ---
 
@@ -28,8 +29,8 @@ the resuscitation of analogoue communication.
 
 Special attention will be paid to work that converses with the aural/oral
 and visual history and identity dating, pre-dating and post-dating
-Vancouverâ€™s 125 years. We encourage artists, curators and centres to
-submit works or ideas for programs that highlight Vancouverâ€™s media art
+Vancouver’s 125 years. We encourage artists, curators and centres to
+submit works or ideas for programs that highlight Vancouver’s media art
 history.
 
 Signal & Noise Media Arts Festival: June 23-26 2011

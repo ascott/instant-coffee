@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 27
 type: "TALK"
+venue: "AHVA UBC"
 summary: "AHVA UBC | Claire Fontaine | 530PM | SEP 12"
 ---
 

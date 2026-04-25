@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 10
 type: ""
+venue: "Open Season"
 summary: "Open Season | by Pongsakorn Yananissorn and Denise Holland | MAR 10"
 ---
 

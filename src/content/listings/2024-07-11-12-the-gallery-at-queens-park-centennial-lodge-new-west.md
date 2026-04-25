@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 12
 type: "EVENT"
+venue: "The Gallery at Queens Park (Centennial Lodge), New"
 summary: "The Gallery at Queens Park (Centennial Lodge), New | West"
 ---
 

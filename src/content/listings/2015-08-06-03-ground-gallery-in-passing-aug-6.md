@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 3
 type: "OPENING"
+venue: "Ground Gallery"
 summary: "Ground Gallery | In Passing | AUG 6"
 ---
 
-Ground Galleryâ€™s inaugural exhibition, In Passing, is a reflection on
-impermanence and precarity, set within one of Vancouverâ€™s many unoccupied
+Ground Gallery’s inaugural exhibition, In Passing, is a reflection on
+impermanence and precarity, set within one of Vancouver’s many unoccupied
 residential properties. Amidst a social maelstrom of ongoing land claim
 disputes, municipal housing crises, gentrification, and the contentions
 that accompany it, eight artists offer delicate channels into negotiations
@@ -35,8 +36,8 @@ impasse that is endemic to discussions of land, ownership, property, and
 the legacy of estate in Vancouver. Heated polemical debates and more
 traditional forms of activism find an unusual ally in the soft-spokenness
 of In Passing. Central to the exhibition, and abridging each of the
-artistâ€™s furtive works, is also a complicated relationship to the practice
-of trespassing. Trespassing, as conceived from the French trespasser, â€œto
+artist’s furtive works, is also a complicated relationship to the practice
+of trespassing. Trespassing, as conceived from the French trespasser, “to
 pass overâ€ , is often associated with the property rights to a parcel of
 land. But to â€œpass overâ€  can also be understood as a bypass, the whim of a
 cursory glance, or the disregard of something not worth remembering. Rather

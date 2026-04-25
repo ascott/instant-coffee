@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 22
 type: ""
+venue: "JOB"
 summary: "JOB | CiTR 101.9 FM & Discorder | Promotions Coordinator | OCT 16"
 ---
 

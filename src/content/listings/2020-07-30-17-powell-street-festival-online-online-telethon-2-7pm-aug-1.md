@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 17
 type: "FUNDRAISER"
+venue: "Powell Street Festival [ONLINE]"
 summary: "Powell Street Festival [ONLINE] | online Telethon | 2-7PM | AUG 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee meets the Everyday Society and perh
 emailDate: "Thu, 15 May 2008 08:25:05 -0700"
 number: 12
 type: ""
+venue: "VAG"
 summary: "VAG | KRAZY | MAY 16 | artist talk: Marv Newland | MAY 20"
 ---
 

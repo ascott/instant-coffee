@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Jorden Doody: I Must Be Streaming | JUL 25"
 ---
 

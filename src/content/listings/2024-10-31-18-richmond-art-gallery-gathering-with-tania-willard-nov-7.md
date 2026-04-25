@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 18
 type: "EVENT"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | GATHERING WITH TANIA WILLARD | NOV 7"
 ---
 

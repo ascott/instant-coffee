@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 6
 type: ""
+venue: "ECU"
 summary: "ECU | The On Edge readings series | Roger Farr + Rob Budde | MAR 27"
 ---
 
@@ -23,12 +24,12 @@ in Prince George. He has published seven books (poetry, novels,
 interviews, and short fiction), his latest being declining america 
 (BookThug) and, just this month, Dreamland Theatre (Caitlin). His 
 recent interest is experimental activist ecopoetry; he is working on a 
-study of Devilâ€™s Club / Hoolhghulh tentatively titled "Panax" and an 
+study of Devil’s Club / Hoolhghulh tentatively titled "Panax" and an 
 essay on animal-human relations called â€œThe Parahuman.â€ 
 
 Roger Farr is the author of Surplus (poetry; Line Books, 2006), IKMQ 
 (prose-poetry; New Star, 2012), and Means (poetry, radio script, 
-prose; Line Books, 2012). He has been described as â€œa poet of great 
+prose; Line Books, 2012). He has been described as “a poet of great 
 heart and aesthetic/political commitment.â€  As a cultural critic, his 
 writing on radical social movements and the avant-garde has 
 appeared in numerous literary and 'movement' periodicals, and has 

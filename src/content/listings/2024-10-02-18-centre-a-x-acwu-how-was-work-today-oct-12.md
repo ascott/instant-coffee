@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 18
 type: "EVENT"
+venue: "Centre A x ACWU"
 summary: "Centre A x ACWU | How was work today? | OCT 12"
 ---
 

@@ -21,7 +21,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2009-11-12-09-ecu-david-platzker-nov-13">09. ECU | DAVID PLATZKER | NOV 13</a>
 <a href="/instant-coffee/listings/2009-11-12-10-ubcs-ams-and-ahva-galleries-weareart-nov-13">10. UBC's AMS and AHVA Galleries | WEAREART | NOV 13</a>
 <a href="/instant-coffee/listings/2009-11-12-11-vag-owen-kydd-nov-14">11. VAG | Owen Kydd | NOV 14</a>
-<a href="/instant-coffee/listings/2009-11-12-12-launch-at-railway-club-oana-avasilichioaei-erin-moure-nov-15">12. Launch at Railway Club | oana AVASILICHIOAEI & eriÂ­n MOURE | NOV 15</a>
+<a href="/instant-coffee/listings/2009-11-12-12-launch-at-railway-club-oana-avasilichioaei-erin-moure-nov-15">12. Launch at Railway Club | oana AVASILICHIOAEI & eri­n MOURE | NOV 15</a>
 <a href="/instant-coffee/listings/2009-11-12-13-vag-expanding-horizons-tour-by-john-obrian-nov-17">13. VAG | Expanding Horizons tour by John O'Brian | NOV 17</a>
 <a href="/instant-coffee/listings/2009-11-12-14-artspeak-underground-man-nov-18">14. ARTSPEAK | Underground Man | NOV 18</a>
 <a href="/instant-coffee/listings/2009-11-12-15-charles-h-scott-gallery-vintage-dan-graham-projects-for-publ">15. Charles H. Scott Gallery | VINTAGE DAN GRAHAM: PROJECTS FOR PUBLICATION | NOV 18</a>
@@ -484,7 +484,7 @@ Emily Carr University, 1399 Johnston Street, Vancouver, BC V6H 3R9
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2009-11-12-10-ubcs-ams-and-ahva-galleries-weareart-nov-13">10. UBC's AMS and AHVA Galleries | WEAREART | NOV 13</a>
 ------------------------------------------------------------------------
-UBCÃ¢ï¿½ï¿½s AMS and AHVA Galleries present WEAREART, a collaborative show and
+UBCâ��s AMS and AHVA Galleries present WEAREART, a collaborative show and
 fundraiser featuring works from Faculty, Staff, and Students from the
 Department of Art History, Visual Art, and Theory at UBC. WEAREART is a
 mixed media event centered on each artist's interpretation of the grey
@@ -550,7 +550,7 @@ www.vanartgallery.bc.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2009-11-12-12-launch-at-railway-club-oana-avasilichioaei-erin-moure-nov-15">12. Launch at Railway Club | oana AVASILICHIOAEI & eriÂ­n MOURE | NOV 15</a>
+<a href="/instant-coffee/listings/2009-11-12-12-launch-at-railway-club-oana-avasilichioaei-erin-moure-nov-15">12. Launch at Railway Club | oana AVASILICHIOAEI & eri­n MOURE | NOV 15</a>
 ------------------------------------------------------------------------
 oana AVASILICHIOAEI
 & eri­n MOURE
@@ -616,7 +616,7 @@ tyrant and a wolfbat.
 Erin Moure's most recent book of poems is inspired by the medieval Iberian
 lyric repertoire: O Cadoiro (2007). Her translations of Chus Pato from
 Galician and (with Robert Majzels) Nicole Brossard from French are widely
-known Chus Pato's m-TalÃƒÂ¡ just appeared in Moure's English version in
+known Chus Pato's m-TalÃ¡ just appeared in Moure's English version in
 spring of 2009. A new book of poetry, O Resplandor, will appear from Anansi
 in 2010. Moure will be writer in residence at the University of Ottawa from
 January-April 2010.
@@ -694,7 +694,7 @@ Keren Cytter, Four Seasons, 2009, DVD, duration 12:00
 Tarje Eikanger Gullaksen, Unfinished Symphony, 2009, DVD, duration 19:00
 Eliza Newman-Saul, Nothing Will Come of Nothing, 2009, DVD, duration 9:24
 Chto Delat/What is to be done?, Partisan Songspiel, 2009, DVD, duration 29:00
-Isabelle Cornaro, Premier rÃªve d'Oskar Fischinger, 2008, DVD, duration 1:41
+Isabelle Cornaro, Premier rêve d'Oskar Fischinger, 2008, DVD, duration 1:41
 and 1:33
 Susan Hiller, The Last Silent Movie, 2007, DVD, duration 20:00
 
@@ -920,7 +920,7 @@ marginalizing or eliminating other media and approaches.
 As an exhibition founded by artists and always aimed at bringing into close
 encounter artists and audiences, the Committee and Curator assure you
 that the selection process of OPEN e v+ a 2010 will clearly be open to any
-and all artistsâ€™ approaches. All submissions will be chosen by the Curator
+and all artists’ approaches. All submissions will be chosen by the Curator
 by the quality they offer; the ultimate theme or concept of e v+ a 2010
 will arise out of that quality.
 For any further clarification of these or any other matters please reach e
@@ -980,7 +980,7 @@ confidential letters of reference (either included in the application, or
 sent under separate cover).
 
 The applications and inquiries should be addressed to: Professors John
-OÃ¢ï¿½ï¿½Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
+Oâ��Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
 Department of Art History, Visual Art and Theory, University of British
 Columbia, 403-6333 Memorial Road, Vancouver, B.C., V6T 1Z2, Canada.
 
@@ -1023,7 +1023,7 @@ OPEN CALL and residency programme "netres" @ Sparwasser HQOur aim is to
 research internationally and to invite two Nordic/Baltic artists to Berlin.
 Visual artists and other arts related producers who use the public sphere,
 better described with Scandinavian offentligheden or German die
-Ã–ffentlichkeit can apply. We are also interested to know how you would
+Öffentlichkeit can apply. We are also interested to know how you would
 consider the use of rhetoric practically and critically. We are not
 expecting descriptions of sculptures for an open square but rather works
 reflecting situations and performance of life itself. The works do not
@@ -1087,7 +1087,7 @@ art.
 Artists and curators are invited to submit exhibition projects. The Centre
 SAGAMIE will publish a colour book to accompany each exhibition. Artists
 will be remunerated according to the CARFAC/RAAV fee schedule. The
-exhibition hall is spacious (floor space: 50â€™x30â€™, 15mx9m; ceiling: 11â€™,
+exhibition hall is spacious (floor space: 50’x30’, 15mx9m; ceiling: 11’,
 3.4m) and is located in downtown Alma. The exhibition center welcomes all
 forms of contemporary artistic expression, with particular emphasis on
 projects exploring contemporary digital art. This forum for experimental
@@ -1113,7 +1113,7 @@ Proposals must be postmarked before January 31, 2010*** and sent to :
 Centre SAGAMIE
 50, rue St-Joseph
 C.P. 517
-Alma, QuÃ©bec
+Alma, Québec
 Canada
 G8B 5W1
 
@@ -1122,7 +1122,7 @@ Please indicate clearly at the top of your proposal whether you are under
 or over 35 years of age. Emerging artists (35 years and under) will be
 evaluated within their peer group by the programming committee, as will
 more experienced artists, in order to facilitate the integration of the new
-generation of artists into the network of independent artistsâ€™ centers.
+generation of artists into the network of independent artists’ centers.
 
 ** PRINTING OF VISUAL DOCUMENTS
 Note that you are now required to submit the entire proposal on standard
@@ -1148,28 +1148,28 @@ forward this message to artists and centers you are familiar with.
 
 Visit our BLOG at this address: http://www.centresagamie.blogspot.com
 
-ï¿¼
+￼
 
 Le Centre SAGAMIE est soutenu par le Conseil des arts et des lettres du
-QuÃ©bec, le Conseil des Arts du Canada et par Ville dâ€™Alma. Le Centre
-SAGAMIE remercie Ã©galement la ConfÃ©rence RÃ©gionale des Ã‰lus (CRÃ‰), le
+Québec, le Conseil des Arts du Canada et par Ville d’Alma. Le Centre
+SAGAMIE remercie également la Conférence Régionale des Élus (CRÉ), le
 Fonds
-de stabilisation et de consolidation des arts et de la culture du QuÃ©bec,
-le CRCD, Emploi QuÃ©bec, le CRC, le CLD ainsi que ses 349 membres pour leur
+de stabilisation et de consolidation des arts et de la culture du Québec,
+le CRCD, Emploi Québec, le CRC, le CLD ainsi que ses 349 membres pour leur
 soutien financier. Le Centre SAGAMIE est membre du Regroupement des
-centres d'artistes autogÃ©rÃ©s du QuÃ©bec.
+centres d'artistes autogérés du Québec.
 
 The Centre SAGAMIE receives support from the Conseil des arts et des
-lettres du QuÃ©bec, the Canada Council for the Arts and the City of Alma.
-The Centre SAGAMIE is also grateful to the ConfÃ©rence RÃ©gionale des Ã‰lus
-(CRÃ‰), the Fonds de stabilisation et de consolidation des arts et de la
-culture du QuÃ©bec, the CRCD, Emploi QuÃ©bec, the CRC, the CLD and its 349
+lettres du Québec, the Canada Council for the Arts and the City of Alma.
+The Centre SAGAMIE is also grateful to the Conférence Régionale des Élus
+(CRÉ), the Fonds de stabilisation et de consolidation des arts et de la
+culture du Québec, the CRCD, Emploi Québec, the CRC, the CLD and its 349
 membres for their financial support. The Centre SAGAMIE is a member of the
-Regroupement des centres d'artistes autogÃ©rÃ©s du QuÃ©bec.
+Regroupement des centres d'artistes autogérés du Québec.
 
 SAGAMIE
 Centre d'art contemporain / Contemporary Art Centre
-50, St-Joseph, C.P. 517, Alma, (QuÃ©bec), G8B 5W1, tÃ©lÃ©phone et tÃ©lÃ©copie :
+50, St-Joseph, C.P. 517, Alma, (Québec), G8B 5W1, téléphone et télécopie :
 (418) 662-7280
 sagamie@cgocable.ca http://www.sagamie.com/
 

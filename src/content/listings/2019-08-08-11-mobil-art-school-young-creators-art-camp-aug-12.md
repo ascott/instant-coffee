@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 11
 type: "EVENT"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Young Creators Art Camp | AUG 12"
 ---
 

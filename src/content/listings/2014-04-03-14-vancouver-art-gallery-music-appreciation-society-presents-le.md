@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 14
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Music Appreciation Society presents Led Zeppelin | APR 8"
 ---
 

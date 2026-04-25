@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 12
 type: ""
+venue: "Western Front"
 summary: "Western Front | Abbas Akhava | MAR 6"
 ---
 
@@ -18,12 +19,12 @@ Travelling flora, an absent tamer, a fine layer of dust and a visitor remains.
 
 Abbas Akhavan currently lives and works in Toronto. His practice ranges from 
 site-specific ephemeral installations to drawing, video and performance. The 
-domestic sphere has been an ongoing research in Akhavanâ€™s work. Earlier 
+domestic sphere has been an ongoing research in Akhavan’s work. Earlier 
 works explore the relationship between the house and nation state and how 
 the trauma and systemic violence enacted upon civilians can be inherited and 
-re-enacted within the family lineage â€“ the home as a forked space between 
+re-enacted within the family lineage – the home as a forked space between 
 hospitality and hostility. More recent works have shifted focus onto spaces 
-just outside the home â€“ the garden, the backyard, and other domesticated 
+just outside the home – the garden, the backyard, and other domesticated 
 landscapes. Akhavan was the recipient of the Berlin Kunstpreis 2012. 
 Our Art Auction Preview will be held on the same evening upstairs in the Luxe 
 Hall. 

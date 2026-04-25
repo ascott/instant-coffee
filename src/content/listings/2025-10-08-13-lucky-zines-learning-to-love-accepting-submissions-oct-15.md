@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 13
 type: "CALL"
+venue: "Lucky Zines"
 summary: "Lucky Zines | Learning to Love - accepting submissions | OCT 15"
 ---
 

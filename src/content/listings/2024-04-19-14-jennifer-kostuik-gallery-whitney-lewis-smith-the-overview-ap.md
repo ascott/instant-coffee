@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "Jennifer Kostuik Gallery"
 summary: "Jennifer Kostuik Gallery | Whitney Lewis-Smith: The Overview | APR 18"
 ---
 

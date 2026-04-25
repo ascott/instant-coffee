@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 28
 type: ""
+venue: "PUBLIC RECORDINGS 8 DAYS"
 summary: "PUBLIC RECORDINGS 8 DAYS | CALL FOR PARTICIPANTS | DEC 1"
 ---
 
@@ -27,7 +28,7 @@ understood as interwoven threads of creative development. 8 DAYS is an
 opportunity to share artistic practices and concerns and to challenge, 
 invigorate and inspire each other. This is an occasion to contextualize 
 oneself within a larger frame. 8 DAYS escapes the pressures of 
-production-driven work. It creates space to reflect on oneâ€™s current 
+production-driven work. It creates space to reflect on one’s current 
 practice and through rigorous dialogue and experimentation encourages 
 new artistic possibilities. 
 
@@ -96,10 +97,10 @@ org
 
 Project History
 8 DAYS was held at la B.A.R.N. on Lac Leslie in the Pontiac Region of 
-Quebec, from June 16 â€“ 24, 2012. It was hosted and supported by 10 
+Quebec, from June 16 – 24, 2012. It was hosted and supported by 10 
 Gates Dancing Inc. and Public Recordings. Selection committee: Sara 
 Coffin, Ame Henderson, Tedd Robinson, Stephen Thompson 
-Participants: Justine A. Chambers, Claudia Fancello, Marie Claire FortÃ©, 
+Participants: Justine A. Chambers, Claudia Fancello, Marie Claire Forté, 
 Ame Henderson, Benjamin Kamino, Davida Monk, Tedd Robinson, 
 Stephen Thompson, Michael Trent 
 
@@ -107,9 +108,9 @@ Stephen Thompson, Michael Trent
 August 10-18, 2013. It was hosted by Justine A. Chambers and Public 
 Recordings, and received support from the Canada Council for the Arts, 
 Public Recordings, The Dance Centre and ten fifteen maple. Selection 
-committee: Martin BÃ©langer, Justine A. Chambers, Benjamin Kamino, 
+committee: Martin Bélanger, Justine A. Chambers, Benjamin Kamino, 
 Davida Monk Participants: Naomi Brand, Justine A. Chambers, Karine 
-Denault, Claudia Fancello, Marie Claire FortÃ©, Caroline Gravel, Ame 
+Denault, Claudia Fancello, Marie Claire Forté, Caroline Gravel, Ame 
 Henderson, Christopher House, Davida Monk, Andrew Tay, Stephen 
 Thompson, Michael Trent, Laurie Young 
 
@@ -117,9 +118,9 @@ Thompson, Michael Trent, Laurie Young
 was hosted by Public Recordings, and received support from the Canada 
 Council for the Arts, Artscape Gibraltar Point, Toronto Dance Theatre and 
 10 Gates Dancing Inc. Selection committee: Naomi Brand, Caroline 
-Gravel, Robin Poitras, Laurie Young Participants: Martin BÃ©langer, Naomi 
+Gravel, Robin Poitras, Laurie Young Participants: Martin Bélanger, Naomi 
 Brand, Justine A. Chambers, Karine Denault, Claudia Fancello, Marie 
-Claire FortÃ©, Caroline Gravel, Ame Henderson, Christopher House, 
+Claire Forté, Caroline Gravel, Ame Henderson, Christopher House, 
 Benjamin Kamino, Jennifer Mascall, Freya Olafson, Bee Pallomina, Tedd 
 Robinson, Andrew Tay, Stephen Thompson, Michael Trent, Peter 
 Trosztmer, Katie Ward, Laurie Young

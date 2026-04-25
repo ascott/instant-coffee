@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 3
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Artist Salon with Art Column Artists Part II | 7PM | AUG 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 6
 type: "EXHIBITION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | WHO’S YOUR DADDY? | JAN 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 20
 type: "CALL"
+venue: "City of Surrey"
 summary: "City of Surrey | Newton Roundabout Public Artwork | JAN 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 41
 type: "CALL"
+venue: "The City of Surrey"
 summary: "The City of Surrey | Utility Box Wraps | JUN 9"
 ---
 

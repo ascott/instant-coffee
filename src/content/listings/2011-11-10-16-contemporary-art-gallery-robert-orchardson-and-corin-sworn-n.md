@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 16
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Robert Orchardson and Corin Sworn | NOV 17"
 ---
 

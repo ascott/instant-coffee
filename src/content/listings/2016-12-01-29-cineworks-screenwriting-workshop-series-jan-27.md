@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 29
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Screenwriting Workshop Series | JAN 27"
 ---
 

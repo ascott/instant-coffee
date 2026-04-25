@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 13
 type: "EDUCATION"
+venue: "SFU Galleries [ONLINE]"
 summary: "SFU Galleries [ONLINE] | Site/ations with Tania Willard | 530PM | OCT 14"
 ---
 

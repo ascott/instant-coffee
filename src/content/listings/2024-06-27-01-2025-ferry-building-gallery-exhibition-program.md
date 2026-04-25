@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 1
 type: "CALL"
+venue: "2025 Ferry Building Gallery exhibition program"
 summary: "2025 Ferry Building Gallery exhibition program"
 ---
 

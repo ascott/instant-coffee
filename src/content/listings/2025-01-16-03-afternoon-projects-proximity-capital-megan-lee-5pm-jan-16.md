@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 3
 type: ""
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Proximity Capital - Megan Lee | 5PM | JAN 16"
 ---
 

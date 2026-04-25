@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU | Forms of Resistance | JAN 17"
 ---
 

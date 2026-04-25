@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 12
 type: ""
+venue: "ECU"
 summary: "ECU | talk | James Rout, Mutable Memory and Digital Heritage | JAN 27"
 ---
 

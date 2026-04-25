@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 15
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Rhys Edwards - Vitalist Fantasies | NOV 9"
 ---
 

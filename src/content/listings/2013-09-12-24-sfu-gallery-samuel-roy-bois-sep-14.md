@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 24
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | Samuel Roy-Bois | SEP 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vegetabled Micro Email Utopia"
 emailDate: "Wed, 17 Jan 2024 21:50:14 -0800"
 number: 18
 type: "EVENT"
+venue: "PuSh 2024"
 summary: "PuSh 2024 | asses.masses | JAN 20,27 + FEB 3 | JAN 20"
 ---
 

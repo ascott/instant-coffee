@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yep, we are back 33.3 percent bett
 emailDate: "Sun, 12 May 2013 14:55:18 -0700"
 number: 5
 type: ""
+venue: "The White Rabbit"
 summary: "The White Rabbit | call: a week-long artist residency, NS | MAY 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 6
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Chris von Szombathy: Espohagus Now | JUN 10"
 ---
 

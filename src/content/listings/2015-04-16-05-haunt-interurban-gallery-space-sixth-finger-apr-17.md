@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 5
 type: "OPENING"
+venue: "HAUNT @ Interurban Gallery space"
 summary: "HAUNT @ Interurban Gallery space | Sixth Finger | APR 17"
 ---
 
@@ -31,7 +32,7 @@ graduation exhibition for SFU visual arts students) and located only a
 short walk from the Audain Gallery, Sixth Finger is the polydactyly to the
 work of the six artists included in this exhibition. It is extraneous to
 the work in the graduation show, but also functions as an example of these
-six individualsâ€™ respective drives to experiment through production.
+six individuals’ respective drives to experiment through production.
 
 HAUNT is a non-profit arts platform that embraces inventive and transitory
 venues. We produce exhibitions, performances, special projects and public
@@ -62,7 +63,7 @@ relationship to the works, both as art objects and installations, encourage
 viewers to question and reconsider the significance in the value of the
 space in which they embody and occupy.
 
-Born in Taipei, Taiwan, Anchi Linâ€™s practice, primarily in performance and
+Born in Taipei, Taiwan, Anchi Lin’s practice, primarily in performance and
 video, engages in dialogues of body and self, and in decontextualizing
 language and sound. Traces of Lin's Taiwanese background can be found in
 her works, in the form of food, objects, and cultural traditions.

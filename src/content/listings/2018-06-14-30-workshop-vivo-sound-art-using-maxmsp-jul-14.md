@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 30
 type: "EVENT"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO | Sound Art using Max/MSP | JUL 14"
 ---
 

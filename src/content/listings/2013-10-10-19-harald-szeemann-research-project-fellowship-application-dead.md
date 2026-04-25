@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 19
 type: ""
+venue: "Harald Szeemann Research Project Fellowship"
 summary: "Harald Szeemann Research Project Fellowship | Application deadline | NOV 1"
 ---
 

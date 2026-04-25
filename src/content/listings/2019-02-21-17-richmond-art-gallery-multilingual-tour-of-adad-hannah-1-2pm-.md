@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 17
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | MULTILINGUAL TOUR of Adad Hannah | 1-2PM | FEB 24"
 ---
 

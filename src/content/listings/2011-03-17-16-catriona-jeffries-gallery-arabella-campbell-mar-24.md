@@ -4,21 +4,22 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 16
 type: ""
+venue: "Catriona Jeffries Gallery"
 summary: "Catriona Jeffries Gallery | Arabella Campbell | MAR 24"
 ---
 
 Catriona Jeffries Gallery is pleased to announce an exhibition of new work
 by Arabella Campbell. Working across painting, sculpture and photography,
-the work in the exhibition is directed by Campbellâ€™s persistent curiosity
+the work in the exhibition is directed by Campbell’s persistent curiosity
 in the material conditions of abstraction and the paradoxes created by the
 slightest shifts in context and surrounding details of time and place.
 
 In this new body of work Campbell maintains her investigation into the
 fundamental precepts of painting and the physical circumstances of the
 spaces in which art is conceived, produced and displayed. Loosely
-appropriating the geometry produced by Dan Flavinâ€™s Untitled (Marfa
+appropriating the geometry produced by Dan Flavin’s Untitled (Marfa
 Project) at the Chinati Foundation in Marfa, Texas, Campbell stratifies the
-experience of light created by Flavinâ€™s installation into a series of
+experience of light created by Flavin’s installation into a series of
 paintings, installed as a sculptural arrangement of leaned canvases. This
 spatial composition of serial paintings is then layered further through a
 grid of scans of the paintings themselves, creating another system whereby
@@ -37,12 +38,12 @@ through the edges of the photograph and the dense backdrop of trees,
 indicating again to her considered curiosity in making interventions into
 existing orders. The photographic device of framing appears in another
 image of a house floating on the Pacific ocean. Guiding our attention to a
-beautiful rectilinear window in the houseâ€™s wood shingled exterior, the
+beautiful rectilinear window in the house’s wood shingled exterior, the
 photograph creates an aesthetic puncture of the frame within the pictorial,
-reminiscent of Campbellâ€™s photographs of fishing symbols found along the
+reminiscent of Campbell’s photographs of fishing symbols found along the
 West Coast. Within the space of the gallery itself, Campbell enacts a
 literal geometric puncture through the removal and displacement of a
-portion of her studio wall into a gallery wall, while the green painterâ€™s
+portion of her studio wall into a gallery wall, while the green painter’s
 tape she has previously used to mark the top edge of a painting has now
 been released off the painting to be adhered directly to the wall,
 producing a painterly apparition.
@@ -69,9 +70,9 @@ or Anne Low at +1 604 736 1554.
 Forthcoming Exhibitions
 
 Robert Kleyn, Works 1969-1983
-19 May â€“ 25 June 2011
+19 May – 25 June 2011
 
-Art Basel 15 â€“ 19 June 2011
+Art Basel 15 – 19 June 2011
 Contact us
 
 www.catrionajeffries.com

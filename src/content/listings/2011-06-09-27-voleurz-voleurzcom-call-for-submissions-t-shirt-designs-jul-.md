@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 27
 type: ""
+venue: "Voleurz (voleurz.com)"
 summary: "Voleurz (voleurz.com) | Call for Submissions: t-shirt designs | JUL 1"
 ---
 

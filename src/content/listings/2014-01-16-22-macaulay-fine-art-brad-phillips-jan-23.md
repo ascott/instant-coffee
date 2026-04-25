@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 22
 type: ""
+venue: "Macaulay Fine Art"
 summary: "Macaulay Fine Art | Brad Phillips | JAN 23"
 ---
 

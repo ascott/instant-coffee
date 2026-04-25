@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 6
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | \"Desire Paths\" | 6PM | JUL 18"
 ---
 

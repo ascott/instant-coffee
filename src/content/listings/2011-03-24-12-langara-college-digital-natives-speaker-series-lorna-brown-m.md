@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 12
 type: ""
+venue: "Langara College"
 summary: "Langara College | Digital Natives Speaker series: Lorna Brown | MAR 30"
 ---
 

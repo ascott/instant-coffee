@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 8
 type: "TALK"
+venue: "Queen Alexandra Elementary School"
 summary: "Queen Alexandra Elementary School | TASTEMAKERS Artist Talk: Ron Tran | MAR 31"
 ---
 

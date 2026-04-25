@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 9
 type: "PERFORMANCE"
+venue: "Model"
 summary: "Model | Ramaya Tegegne: YOU DON'T ALWAYS HAVE TO BE YOU... | OCT 23"
 ---
 

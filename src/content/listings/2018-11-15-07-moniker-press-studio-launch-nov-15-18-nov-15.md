@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 7
 type: "EVENT"
+venue: "Moniker Press"
 summary: "Moniker Press | Studio Launch | NOV 15-18 | NOV 15"
 ---
 

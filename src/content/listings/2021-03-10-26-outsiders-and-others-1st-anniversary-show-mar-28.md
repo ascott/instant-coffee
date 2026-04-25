@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 26
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | 1st Anniversary Show | MAR 28"
 ---
 

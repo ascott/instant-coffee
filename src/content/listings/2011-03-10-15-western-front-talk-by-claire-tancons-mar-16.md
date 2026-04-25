@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 15
 type: ""
+venue: "Western Front"
 summary: "Western Front | Talk by Claire Tancons | MAR 16"
 ---
 
@@ -49,16 +50,16 @@ International Center of Photography where she contributed to Only Skin
 Deep. Changing Visions of the American Self (2004), at the Walker Art
 Center where she provided curatorial assistance to How Latitudes Become
 Forms: Art in a Global Age (2003) and the Paula Cooper Gallery where she
-organized Paul D. Miller aka DJ Spookyâ€™s Path is Prologue: Rebirth of a
+organized Paul D. Miller aka DJ Spooky’s Path is Prologue: Rebirth of a
 Nation (2004). Tancons has also organized exhibitions at non-profit art
 organizations in New York such as Artists Space, Robin Rhode: The Score,
 2005, The Kitchen, Ralph Lemon: The efflorescence of Walter, 2007 and The
-Rotunda Gallery, Masâ€™: From Process to Procession, 2007, as well as in Port
+Rotunda Gallery, Mas’: From Process to Procession, 2007, as well as in Port
 of Spain, Trinidad, Lighting the Shadow: Trinidad in and out of Light,
 2004. She has written for Nka, Third Text and Small Axe as well as for a
 host of exhibition catalogues and lectures and publishes regularly about
 her work on Carnival at conferences worldwide. Tancons holds an MA in
-Museum Studies from the Ã‰cole du Louvre in Paris, an MA in Art History from
+Museum Studies from the École du Louvre in Paris, an MA in Art History from
 the Courtauld Institute in London and is a former curatorial fellow of the
 Whitney Museum Independent Study Program. A native of Guadeloupe, French
 West Indies, Tancons currently lives and works in New Orleans.

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 10
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | Brad Phillips | FEB 11"
 ---
 
 CSA Space
 
 February 11th - 20th
-Opening: Friday, February 11 Â· 7:00pm
+Opening: Friday, February 11 · 7:00pm
 
 #5-2414 Main Street
 Vancouver, BC

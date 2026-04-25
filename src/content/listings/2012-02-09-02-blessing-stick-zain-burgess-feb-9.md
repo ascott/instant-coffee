@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 2
 type: "OPENING"
+venue: "Blessing Stick"
 summary: "Blessing Stick | ZAIN BURGESS | FEB 9"
 ---
 
@@ -26,7 +27,7 @@ Zain Burgess was born and raised in Deep Cove, North Vancouver. He
 received an Associates Degree in Sociology and Philosophy at 
 Capilano University and received a B.F.A. from Emily Carr University of 
 Art and Design with supplementary studies in Berlin at Weissensee 
-Kunsthalle, University of Art and Design. Heâ€™s been living in between 
+Kunsthalle, University of Art and Design. He’s been living in between 
 Berlin and Vancouver since, basing himself out of Vancouver. His work 
 consists of installation, performance, video and sculpture that works 
 with ideas of the cinematic phenomenology and the speculative 

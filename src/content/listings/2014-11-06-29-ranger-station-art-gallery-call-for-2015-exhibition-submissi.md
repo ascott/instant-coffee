@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 29
 type: ""
+venue: "RANGER STATION ART GALLERY"
 summary: "RANGER STATION ART GALLERY | CALL FOR 2015 EXHIBITION SUBMISSIONS | DEC 1"
 ---
 
@@ -28,7 +29,7 @@ Your submission must include:
 
 - A one-page proposal including brief artist statement and gallery show 
 description
-- A Curriculum Vitae (an artistâ€™s resume) or Biography relating to art 
+- A Curriculum Vitae (an artist’s resume) or Biography relating to art 
 practice (2 pages max).
 - Visual Documentation of up to 10 images of recent work; jpeg format 
 only, 300 dpi preferred, no larger than 1024 x 768 pixels. All images 

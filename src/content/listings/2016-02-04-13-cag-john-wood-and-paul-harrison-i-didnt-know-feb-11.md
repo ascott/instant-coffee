@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 13
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | John Wood and Paul Harrison - I DIDN'T KNOW... | FEB 11"
 ---
 

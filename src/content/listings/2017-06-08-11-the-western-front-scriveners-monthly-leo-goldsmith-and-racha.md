@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 11
 type: "TALK"
+venue: "The Western Front"
 summary: "The Western Front | Scrivener's Monthly | Leo Goldsmith and Rachael Rakes presenting Peter W | JUN 10"
 ---
 

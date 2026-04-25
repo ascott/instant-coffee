@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 24
 type: "CALL"
+venue: "STAND Festival Online Auction"
 summary: "STAND Festival Online Auction | Call for Artists | SEP 15"
 ---
 

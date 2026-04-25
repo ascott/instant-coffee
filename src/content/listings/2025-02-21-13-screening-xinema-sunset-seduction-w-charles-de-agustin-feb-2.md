@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA | SUNSET SEDUCTION w/ Charles de Agustin | FEB 23"
 ---
 

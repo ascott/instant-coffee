@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 24
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | CALL for Submissions | APR 10"
 ---
 
-This is an open call for Gallery 295â€™s second annual juried exhibition 
+This is an open call for Gallery 295’s second annual juried exhibition 
 for emerging artists practicing in photography and related mediums. 
-The work in Index is a gathering of some of Vancouverâ€™s most 
+The work in Index is a gathering of some of Vancouver’s most 
 interesting new artists using photography today. This exhibition will 
 not be curated on a theme but rather the work will be chosen on the 
 basis of artistic merit and originality.
@@ -17,14 +18,14 @@ basis of artistic merit and originality.
 Index's aim is to give emerging artists one of their first exhibitions in a 
 professional context, showcasing a series of images and their artistic 
 interests. Gallery 295 provides opportunities for artists by engaging 
-with The Labâ€™s facilities and technicians.
+with The Lab’s facilities and technicians.
 
 To apply please email the following information to 
 info@gallery295.com. Please do not send multiple emails or 
 attachments. A single zipped file is preferable. 
 
 - Include Index Submission in the subject line.
-- 10 â€“ 20 images, jpg format, 740 pixels on long side. (Less than 
+- 10 – 20 images, jpg format, 740 pixels on long side. (Less than 
 1mb per file)
 - Image list specifying titles, year, dimensions, medium
 - Project Statement (if applicable) max 300 words

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: sometimes the wrong way is the rig
 emailDate: "Wed, 17 Sep 2008 20:35:29 -0700"
 number: 12
 type: ""
+venue: "VAG"
 summary: "VAG | Philosophers’ Café: The F Word | OCT 2"
 ---
 

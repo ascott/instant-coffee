@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 5
 type: ""
+venue: "UBC Botanical Garden"
 summary: "UBC Botanical Garden | Kevin Murphy | JUL 8"
 ---
 
@@ -18,7 +19,7 @@ Artist Talk: August 2, 7pm, in the Garden Pavilion
 Exhibition runs June 27 - August 18
 6804 SW Marine Drive, Vancouver, BC
 
-Located in the gardenâ€™s Main Lawn, New Xanadu features an elaborate 
+Located in the garden’s Main Lawn, New Xanadu features an elaborate 
 steel and plastic structure, modelled after 20th century utopian 
 architectural styles and science fiction fantasies. Functioning as an 
 observation hive, the installation houses a colony of honeybees. Solar 

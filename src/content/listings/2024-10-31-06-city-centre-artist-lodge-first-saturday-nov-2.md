@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 6
 type: "EVENT"
+venue: "City Centre Artist Lodge"
 summary: "City Centre Artist Lodge | First Saturday | NOV 2"
 ---
 

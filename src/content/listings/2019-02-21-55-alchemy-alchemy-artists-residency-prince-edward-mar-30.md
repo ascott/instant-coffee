@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 55
 type: "CALL"
+venue: "ALCHEMY"
 summary: "ALCHEMY | Alchemy Artists Residency | Prince Edward | MAR 30"
 ---
 

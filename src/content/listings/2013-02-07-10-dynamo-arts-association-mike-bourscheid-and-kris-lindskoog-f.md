@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 10
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Mike Bourscheid and Kris Lindskoog | FEB 15"
 ---
 
@@ -17,7 +18,7 @@ Dynamo Arts Association is pleased present new sculpture and works on
 paper by Mike Bourscheid and Kris Lindskoog.
 
 Mike Bourscheid lives and works in Berlin, Luxembourg and Vancouver. He 
-received a Bachelor in Arts Plastiques at UniversitÃ© d'Aix Marseille, a BFA 
+received a Bachelor in Arts Plastiques at Université d'Aix Marseille, a BFA 
 and MFA from the University of Arts Berlin (UdK), Germany. Recent solo 
 exhibitions include: diese Aufgebocktheit, UdK Berlin, Germany, (2012) 
 Waldi auf dem Dach, Galerie Traversee, Munich, Germany, (2011) Group 

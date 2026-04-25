@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 23
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Vancouver Art Gallery | Weekly Intonarumori Sound Performances | APR 12"
 ---
 

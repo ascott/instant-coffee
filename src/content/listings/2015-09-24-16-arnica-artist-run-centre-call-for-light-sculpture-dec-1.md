@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 16
 type: "CALL"
+venue: "Arnica Artist-Run Centre"
 summary: "Arnica Artist-Run Centre | Call for Light Sculpture | DEC 1"
 ---
 

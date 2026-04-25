@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 33
 type: "CALL"
+venue: "City of Vancouver - Engineering Services"
 summary: "City of Vancouver - Engineering Services | Artist in Residence | NOV 24"
 ---
 

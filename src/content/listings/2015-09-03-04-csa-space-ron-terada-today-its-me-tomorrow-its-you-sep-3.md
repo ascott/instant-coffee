@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 4
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Ron Terada: Today It's Me, Tomorrow It's You | SEP 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 30
 type: "EDUCATION"
+venue: "SFU [ONLINE] [WORKSHOP]"
 summary: "SFU [ONLINE] [WORKSHOP] | Women in Hip-Hop from the Birthplace | OCT 29"
 ---
 

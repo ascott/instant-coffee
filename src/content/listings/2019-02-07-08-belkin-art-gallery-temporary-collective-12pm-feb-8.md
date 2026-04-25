@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 8
 type: "PERFORMANCE"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Temporary Collective | 12PM | FEB 8"
 ---
 

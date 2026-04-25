@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 20
 type: ""
+venue: "The Commons"
 summary: "The Commons | Linda Bouchard | JAN 19"
 ---
 
@@ -16,26 +17,26 @@ $20 at the door
 
 The Commons is thrilled to present an intimate evening with French Canadian 
 composer Linda Bouchard. Immersed in collaboration with visual artists, 
-Bouchardâ€™s recent work utilizes digital samples, extended and manipulated, 
+Bouchard’s recent work utilizes digital samples, extended and manipulated, 
 which are drawn from and respond to projected images. Her atmospheric 
-project â€œseek(s) to express emotional experiences in their most raw form, 
+project “seek(s) to express emotional experiences in their most raw form, 
 without a literal or narrative setting. Like a collage of different perceptions that 
 eventually forms a whole picture, I attempt to create a world from "real time" 
 experience: reconstructing an imagined emotional event that unfolds in a 
 compressed time frame.â€  This is the second in series of solo performances 
-organized by FranÃ§ois Houle. 
+organized by François Houle. 
 
 Linda Bouchard will present four recent works, all Canadian Premiers. In 
 Unspoken, 2013, a collaboration with video artists David and Hi-Jin Hodge, 
 Bouchard used manipulated samples of a previous composition called 
-"L'Ã©chapppÃ©e d'ailes" (a flock of wings escaping) for gamelan orchestra to 
+"L'échapppée d'ailes" (a flock of wings escaping) for gamelan orchestra to 
 create a meditative, ever changing sonic environment that is shaped around 
 the breathing of Hodge's diverse subjects pictured in 15 second video 
 portraits. Sonic Forecast, 2009, is a Film by Luis Maurette (Buenos Aires) 
 with live score inspired by the Myanmar (Burmese) anti-government protests 
 led by students and Buddhist Monks in September 2007. Also present will be 
 a World Premiere of Black Ice with projected image by Eliane Duval and Low 
-Wind, an improvisation with FranÃ§ois Houle joining Bouchardâ€™s live electronics 
+Wind, an improvisation with François Houle joining Bouchard’s live electronics 
 on clarinet.
 
 Linda Bouchard is active as a composer, conductor and producer. Her works 
@@ -54,7 +55,7 @@ Performance, a non-profit arts organization of which she is Artistic Director.
 
 Linda Bouchard
 Sat Jan 19, 8pm
-organized by FranÃ§ois Houle 
+organized by François Houle 
 119B E Pender St
 $20 at the door, seating is very limited for this intimate, one night only event
 

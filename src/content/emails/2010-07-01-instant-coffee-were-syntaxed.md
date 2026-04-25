@@ -23,7 +23,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2010-07-01-11-304-days-sean-alward-till-jul-10">11. 304 Days | Sean Alward | Till | JUL 10</a>
 <a href="/instant-coffee/listings/2010-07-01-12-monte-clark-gallery-pasted-till-jul-10">12. MONTE CLARK GALLERY | PASTED | till | JUL 10</a>
 <a href="/instant-coffee/listings/2010-07-01-13-or-gallery-hold-still-wild-youth-the-gina-show-archive-til-j">13. Or Gallery | Hold Still Wild Youth: the GINA Show Archive | til | JUL 10</a>
-<a href="/instant-coffee/listings/2010-07-01-14-demystifying-public-art-commissions-instructor-adrian-gllner">14. Demystifying Public Art Commissions | Instructor: Adrian GÃ¶llner | JUL 11</a>
+<a href="/instant-coffee/listings/2010-07-01-14-demystifying-public-art-commissions-instructor-adrian-gllner">14. Demystifying Public Art Commissions | Instructor: Adrian Göllner | JUL 11</a>
 <a href="/instant-coffee/listings/2010-07-01-15-luckys-gallery-amanda-lye-till-jul-14">15. Luckys Gallery | AMANDA LYE |till | JUL 14</a>
 <a href="/instant-coffee/listings/2010-07-01-16-the-clutch-call-to-visual-artists-jul-15">16. The Clutch | CALL TO VISUAL ARTISTS | JUL 15</a>
 <a href="/instant-coffee/listings/2010-07-01-17-u-nderstanding-the-c-reative-w-orkforce-a-study-of-artists-a">17. U NDERSTANDING THE C REATIVE W ORKFORCE | A STUDY OF ARTISTS AND ARTS PRACTICE | JUL 15</a>
@@ -136,10 +136,10 @@ these works we see Lewis digging into the history of an
 industrialized civilization. His own memories of growing up in
 rural western Canada are infused with its overwhelmingly vast
 landscapes. These memories coupled with his own personal
-struggle to justify mankindï¿½s unsustainable path within it
+struggle to justify mankind�s unsustainable path within it
 conjure up themes of death, religion, innocence and the
 supernatural.
-This is Lewisï¿½ first show in two years and first ever in western
+This is Lewis� first show in two years and first ever in western
 Canada.
 
 Scott Lewis was born in the grassy plains of Alberta and raised
@@ -271,8 +271,8 @@ ID and seniors
 BUTOH WORKSHOPS
 
 Mari Osanai Introductory Session
-Dates: 13 ï¿½ 15 August
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 13 � 15 August
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 Noguchi Taizo (Noguchi Gymnastics)
@@ -282,14 +282,14 @@ by Tatsumi Hijikata and Kazuo Ohno. The aim is to develop
 the uniqueness of each individual movement and to relieve
 any undue strain. Taizo means gym in Japanese, but not in the
 conventional sense. As Osanai explains, "This technique has
-nothing to do withï¿½ the swelling of the muscles nor resistance
+nothing to do with� the swelling of the muscles nor resistance
 forces. The body learns to move in a certain way but is loose
 and fluid. It becomes soft and flexible as it moves from the
 weight, which is not fighting anymore but used to be moved."
 
 Mari Osanai Intensive Session
-Dates: 16 ï¿½ 26 August (day off: 24 August)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 16 � 26 August (day off: 24 August)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
 Noguchi Taiso for Dancers
 In this session, Mari Osanai will share with the students the
@@ -300,22 +300,22 @@ body will be explored in this session in which each body part is
 viewed and approached as a unique laboratory.
 
 Yukio Waguri Introductory Session
-Dates: 10 ï¿½ 12 September
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 10 � 12 September
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 Words & Movement. The Two Elements That Bring into
 Existence Butoh.
 Participants will seek the butoh way of body according to
-Tatsumi Hijikataï¿½s method. Thinking of the body as a medium
+Tatsumi Hijikata�s method. Thinking of the body as a medium
 and as a transfiguring container, the students will experience
-the seven butoh worlds with Waguriï¿½s Butoh Kaden.
+the seven butoh worlds with Waguri�s Butoh Kaden.
 
 Yukio Waguri Intensive Session
-Dates: 16 ï¿½ 26 September (day off: 21 September)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 16 � 26 September (day off: 21 September)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
-Dancing Hijikataï¿½s Butoh
+Dancing Hijikata�s Butoh
 This session will deepen the understanding of the Butoh
 notation of the seven worlds. At the same time, students will be
 encouraged to develop a clear working relationship between
@@ -323,19 +323,19 @@ space and time and practice reserving the power to take an
 objective analysis of their dances.
 
 Imre Thormann Introductory Session
-Dates: 1 ï¿½ 3 October
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 1 � 3 October
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 
 Imre Thormann Intensive Session
-Dates: 7 ï¿½ 17 October (day off: 12 October)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 7 � 17 October (day off: 12 October)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
 
 Butoh and Noguchi Taizo
-Introductory and Intensive Sessions will deal with Thormannï¿½s
-statement, ï¿½In my workshop I do not convey any fixed form or
+Introductory and Intensive Sessions will deal with Thormann�s
+statement, �In my workshop I do not convey any fixed form or
 technique, but the natural principles that form the basis of
 movement (spiral, wave, gravity, emotion, etc.). We will focus
 on movements like standing and walking, as well as on
@@ -345,8 +345,8 @@ for fresh approaches that will help us to execute movements
 easily but with a deeper sensation."
 
 Yukio Suzuki Introductory Session
-Dates: 22 ï¿½ 24 October
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 22 � 24 October
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 Re-construction of Your Body
@@ -357,8 +357,8 @@ change the texture of the body as a thing. Then, to play with
 the new thing.
 
 Yukio Suzuki Intensive Session
-Dates: 28 October ï¿½ 7 November (day off: 2 November)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 28 October � 7 November (day off: 2 November)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
 Standing and Disable Standing
 Students will try to make their own space and time with an idea
@@ -369,12 +369,12 @@ yet in control.
 
 DROP IN CLASSES
 LEIMAY Open Training
-Times: 3 p.m. ï¿½ 7 p.m.
+Times: 3 p.m. � 7 p.m.
 Cost: $15 per class; $10 per class for NYBK students
 Lead by Artistic Director Ximena Garnica, LEIMAY Open
 Training will take place every Saturday during the months of
 August, October and November. This class is an opportunity to
-experience the companyï¿½s ongoing training and to be
+experience the company�s ongoing training and to be
 considered for LEIMAY performance and investigation projects.
 
 INTERVIEWS AND LECTURES
@@ -411,9 +411,9 @@ Oikawa, one of the most important contemporary Japanese
 dance teachers. She has taught and presented her work in
 Greece, Canada, Japan and the Unites States.
 
-Yukio Waguri was the main male dancer at Tatsumi Hijikataï¿½s
+Yukio Waguri was the main male dancer at Tatsumi Hijikata�s
 Asbestos-kan from 1972 to 1978. From this period, he kept
-notes of the words Hijikata-butohï¿½s co-founder-spoke while
+notes of the words Hijikata-butoh�s co-founder-spoke while
 choreographing. These words are called Butoh-fu, a unique
 method for choreography. Waguri has made his own
 interpretation of these words and continues to use them as a
@@ -434,10 +434,10 @@ the Japan Now Festival in Bern (Switzerland) and Gdansk
 works in Berlin and travels throughout Europe teaching and
 performing.
 
-Yukio Suzuki is one of Japanï¿½s most exciting choreographers
-and dancers. He studied butoh at the ï¿½Karada no Gakkoï¿½ of the
+Yukio Suzuki is one of Japan�s most exciting choreographers
+and dancers. He studied butoh at the �Karada no Gakko� of the
 Asbestos-kan and from Ko Murobushi. While leading his own
-company, Kingyo, Suzuki also dances for Ko Murobushiï¿½s
+company, Kingyo, Suzuki also dances for Ko Murobushi�s
 company Ko & Edge Co. and has danced for Tuyoshi Shirai,
 Goro Namerikawa (the starting member of Sankaijuku), and in
 the performance group SAL-VANILLA. Recently, he has
@@ -569,43 +569,43 @@ visit www.gachet.org for complete festival line-up and details! Or grab a
 festival guide at the gallery.
 
 OBJECTIVES:
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Highlighting the global movement advocating for mental health and human
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Highlighting the global movement advocating for mental health and human
 rights through sharing and showcasing artistic expression on these themes.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Connecting artistsÃƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ work that addresses the social
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Connecting artistsÃ�Â¢Ã¯Â¿Â½Ã¯Â¿Â½ work that addresses the social
 determinants of mental
 health.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Challenge stigmas of people living with mental health and trauma
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Challenge stigmas of people living with mental health and trauma
 issues.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Providing a forum for discussion and education on these and related
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Providing a forum for discussion and education on these and related
 (contextual) issues.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Creating links to the rights of individuals for holistic health and
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Creating links to the rights of individuals for holistic health and
 security worldwide.
 
 For more information, please contact:
 Cherise Clarke, World Mad Pride Coordinator/Curator
 e: madpride@gachet.org | t: 604.687.2468 begin_of_the_skype_highlighting	      604.687.2468	end_of_the_skype_highlighting
-begin_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ 604.687.2468 begin_of_the_skype_highlighting		   604.687.2468      end_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ end_of_the_skype_highlighting
-begin_of_the_skype_highlightingÃƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ 604.687.2468 begin_of_the_skype_highlighting		 604.687.2468	   end_of_the_skype_highlightingÃƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ end_of_the_skype_highlighting
+begin_of_the_skype_highlightingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â 604.687.2468 begin_of_the_skype_highlighting		   604.687.2468      end_of_the_skype_highlightingÂ Â Â Â Â Â end_of_the_skype_highlighting
+begin_of_the_skype_highlightingÃ�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â 604.687.2468 begin_of_the_skype_highlighting		 604.687.2468	   end_of_the_skype_highlightingÃ�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â end_of_the_skype_highlighting
 
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ What can one say of the future of a world where increasing injury to
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ What can one say of the future of a world where increasing injury to
 the planet is a symptom of human psychopathology?" -Paul Shepard, "Nature
 and Madness
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ The (natural) world is sick; it needs healing; it is speaking
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ The (natural) world is sick; it needs healing; it is speaking
 through
 us, and it speaks the loudest through the most sensitive of us. -Sarah
 Conn, Centre for Psychology and Social Change, Cambridge MA
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ In (the dominant) culture, listening to the voices of the earth
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ In (the dominant) culture, listening to the voices of the earth
 as if
 the nonhuman world felt, heard, spoke would seem the essence of madness to
 most people...
 "The context for defining sanity in our time has reached planetary
 magnitude."-Theodore Roszak, Where Psyche Meets Gaia
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Perhaps working on my feelings is not more subjective than
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Perhaps working on my feelings is not more subjective than
 working on
 neighbourhood air quality. Perhaps killing weeds on my lawn with
 herbicides may be as repressive as what I am doing with my childhood
 memories. -James Hillman, A Psyche the Size of the Earth
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ My grandmother said (translated from Okanagan), The people down
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ My grandmother said (translated from Okanagan), The people down
 there
 are dangerous. They are all insane. -Jeanette Armstrong, Keepers of the Earth
 
@@ -633,7 +633,7 @@ Motto, Berlin.
 Motto Storefront transforms Artspeak into a temporary space for
 the sale, presentation, and discussion of contemporary art
 publishing. The selection of printed matter for the store has
-been made by Motto, a Berlin and ZÃ¼rich-based bookstore and
+been made by Motto, a Berlin and Zürich-based bookstore and
 distributor specializing in experimental, small run, and self-
 published artist books, magazines, and fanzines.
 
@@ -654,7 +654,7 @@ studio engaging the field of visual identity. From research
 projects, such as the Sealand Identity Project (2004), Museum
 of Conflict (2006), and Quaero (2007), the group has moved
 into installations and critical design projects such as Affiche
-FrontiÃ¨re (CAPC musee dart contemporain de Bordeaux, 2008)
+Frontière (CAPC musee dart contemporain de Bordeaux, 2008)
 and Stadtstaat (Kunstlerhaus Stuttgart and Casco Utrecht). Its
 recent book, Uncorporate Identity (Lars Muller Publishers,
 2010), matches design with inquiries on globalization and
@@ -694,7 +694,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051 begin_of_the_skype_highlighting	       604.688.0051	 end_of_the_skype_highlighting
 Fax 604.685.1912
-Tuesday ï¿½ Saturday, 12-5pm
+Tuesday � Saturday, 12-5pm
 Admission is free
 
 
@@ -753,7 +753,7 @@ Surrey, BC
 Canada V3W 3L1
 
 604-501-5566 begin_of_the_skype_highlighting		  604-501-5566	    end_of_the_skype_highlighting
-begin_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ 604-501-5566 begin_of_the_skype_highlighting		   604-501-5566      end_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ end_of_the_skype_highlighting
+begin_of_the_skype_highlightingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â 604-501-5566 begin_of_the_skype_highlighting		   604-501-5566      end_of_the_skype_highlightingÂ Â Â Â Â Â end_of_the_skype_highlighting
 
 artgallery@surrey.ca
 
@@ -824,7 +824,7 @@ The Robson Reading Series presents
 
 ANTONIA BANYARD & BILLIE LIVINGSTON
 
-The Robson Reading Series is thrilled that itï¿½ll cap off its
+The Robson Reading Series is thrilled that it�ll cap off its
 current season with fiction authors Billie Livingston and
 Antonia Banyard on Thursday, July 8th . Please join us for live
 literature and cozy conversation at 7pm at the UBC
@@ -835,15 +835,15 @@ Going Back (Thistledown Press, 2010). Set in a small town in
 the BC interior, where potheads, loggers, environmentalists,
 conspiracy theorists, and aging hippies provide a vibrant
 backdrop to dark themes. Specifically, when the anniversary of
-a suicide reunites five former friends who havenï¿½t seen each
+a suicide reunites five former friends who haven�t seen each
 other for ten years, each is forced to confront secrets from the
-past ï¿½secrets that lock their present lives in limbo.
+past �secrets that lock their present lives in limbo.
 Antonia Banyard has been published in literary magazines and
 anthologies in Canada, the US, England, and Australia. Her
-childrenï¿½s non-fiction book, Dangerous Crossings! was published
+children�s non-fiction book, Dangerous Crossings! was published
 in 2007 and received award nominations from the Canadian
-Childrenï¿½s Book Centre and the Ontario Library Associationï¿½s
-Red Maple Award. With her writerï¿½s group, the Seven Sisters,
+Children�s Book Centre and the Ontario Library Association�s
+Red Maple Award. With her writer�s group, the Seven Sisters,
 she published two anthologies and performed readings at
 festivals, schools, and bookstores across BC. She lives in
 Nelson, BC.
@@ -926,7 +926,7 @@ roy arden / douglas coupland / graham gillmore / holger kalberg / alison yip
 June 10 - July 10, 2010
 Opening reception: Saturday, June 12 at 2pm.
 
-From the French verb coller, ï¿½collageï¿½ means ï¿½to pasteï¿½. Collage as an
+From the French verb coller, �collage� means �to paste�. Collage as an
 art medium was popularized in the early 20th century by such artists
 as Pablo Picasso and Max Ernst, and the new manner of assembling
 paper, text, ephemera, and other media offered a unique method for
@@ -935,15 +935,15 @@ artists such as Kurt Schwitters, Robert Raushenberg, and David
 Hockney. Today, collage explores not only traditional cut-and-paste
 methods, but also sculpture, installation, and digital means.
 
-Roy Ardenï¿½s paper and digital collages are meditations on the complex
+Roy Arden�s paper and digital collages are meditations on the complex
 phenomenon of archives. Humans create images, which begets their
 collection, storage, ordering, interpretation, and re-use. Yet, there
 is always an element of folly to any archive, no matter how important
 or useful. These works display an array of themes and subjects,
-however, as with most of Ardenï¿½s work, history and modernity are the
+however, as with most of Arden�s work, history and modernity are the
 larger and more central subjects.
 
-Douglas Couplandï¿½s Domestic Collages seal items under a thick, resin
+Douglas Coupland�s Domestic Collages seal items under a thick, resin
 sheen. Bingo cards, San Pellegrino, Lego boxes, playing cards, an
 Artforum cover, and other ephemera are arranged on canvases by the
 artist. The result is classic Coupland, where his clever manipulation
@@ -955,18 +955,18 @@ curiosity typifies the work of Graham Gillmore. Well known for his
 large-scale paintings, Gillmore has throughout his career incorporated
 collage into his metier. These small-scale works at first offer
 familiar and recognizable imagery, but upon closer inspection, the
-viewer becomes aware of Gillmoreï¿½s warped and clever undertones.
+viewer becomes aware of Gillmore�s warped and clever undertones.
 
-Holger Kalbergï¿½s new collages incorporate the artistï¿½s unique
+Holger Kalberg�s new collages incorporate the artist�s unique
 vocabulary, one that he has established using geometry, shapes, and
 colours. His work often suggests abstraction, but occasionally borders
 on the representational. This complex world of symbols and signs
 purposely offers the viewer a variety of interpretations: as Kalberg
-says, ï¿½between abstraction and representation [inhabits] a realm that
-is located somewhere at the edge of recognition.ï¿½
+says, �between abstraction and representation [inhabits] a realm that
+is located somewhere at the edge of recognition.�
 
-Alison Yipï¿½s observational style draws on the impressionistï¿½s interest
-in leisure and the everyday. Akin to her oil paintings, Yipï¿½s collages
+Alison Yip�s observational style draws on the impressionist�s interest
+in leisure and the everyday. Akin to her oil paintings, Yip�s collages
 generalize light and omit fine detail. These intimate works are
 carefully constructed with edges, color, and light, the final pieces
 resulting in depth and perception beyond their assembled parts.
@@ -983,7 +983,7 @@ Email: info@monteclarkgallery.com
 Web: www.monteclarkgallery.com
 
 Gallery hours:
-Tuesday ï¿½ Saturday, 10am ï¿½ 6pm
+Tuesday � Saturday, 10am � 6pm
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-07-01-13-or-gallery-hold-still-wild-youth-the-gina-show-archive-til-j">13. Or Gallery | Hold Still Wild Youth: the GINA Show Archive | til | JUL 10</a>
@@ -994,7 +994,7 @@ June 5 - July 10, 2010
 
 Curated by Allison Collins
 
-A new exhibition about the GINA Show, John Andersonï¿½s television art
+A new exhibition about the GINA Show, John Anderson�s television art
 project, will be shown nearly thirty years after its initial broadcast in
 1979 on Vancouver Cable 10, at the height of the punk and media DIY
 movement in Vancouver.
@@ -1048,11 +1048,11 @@ E. or @ orgallery.org
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2010-07-01-14-demystifying-public-art-commissions-instructor-adrian-gllner">14. Demystifying Public Art Commissions | Instructor: Adrian GÃ¶llner | JUL 11</a>
+<a href="/instant-coffee/listings/2010-07-01-14-demystifying-public-art-commissions-instructor-adrian-gllner">14. Demystifying Public Art Commissions | Instructor: Adrian Göllner | JUL 11</a>
 ------------------------------------------------------------------------
 Demystifying Public Art Commissions
 
-Instructor: Adrian GÃ¶llner
+Instructor: Adrian Göllner
 Date: Sunday July 11th, 2010
 Time: 1:00 PM to 4:30+ PM
 Location: Alliance for Arts & Culture, 938 Howe St, Suite 100,
@@ -1074,7 +1074,7 @@ public art competitions are being set. However, the process
 followed by commissioning bodies varies widely.
 
 With the intention of demystifying the process for artists, the
-session will begin with an artistï¿½s talk by Adrian. He will
+session will begin with an artist�s talk by Adrian. He will
 illustrate the relationship of studio-based artwork and site-
 specific work to public art commissions. Then, after breaking
 down and discussing the commission process, participants will
@@ -1082,22 +1082,22 @@ consider an actual public art commission opportunity, create a
 concept for it and then assess the approach from the
 perspective of a jury.
 
-Adrian GÃ¶llner is a contemporary artist working in Ottawa. His
+Adrian Göllner is a contemporary artist working in Ottawa. His
 work has been shown in solo and group exhibitions throughout
 Canada, the United States, Europe and New Zealand. He is
 also the recipient of numerous Canada Council and Ontario
 Arts Council Grants, and his work is held in a wide number of
 collections, including the Anglo-Irish Bank, the Department of
-Foreign Affairs, and the Canadian War Museum. GÃ¶llner has
+Foreign Affairs, and the Canadian War Museum. Göllner has
 been described as a site-specific satirist. Employing a variety of
 mediums and techniques in a chameleon-like adaptation to
-the environments in which he exhibits, GÃ¶llner freely combines
+the environments in which he exhibits, Göllner freely combines
 Cold War imagery, graphing techniques and references to
-Modernism in artworks that critique consumer culture. GÃ¶llner
+Modernism in artworks that critique consumer culture. Göllner
 has had the fortune to receive 15 public art commissions.
 Notable amongst these is an integrated sculpture for the new
 Canadian Embassy in Berlin and artistic street lighting for the
-Vancouver 2010 Winter Olympics. GÃ¶llner maintains a website
+Vancouver 2010 Winter Olympics. Göllner maintains a website
 at www.adriangollner.ca.
 
 ------------------------------------------------------------------------
@@ -1106,7 +1106,7 @@ at www.adriangollner.ca.
 AMANDA LYE
 Miniatures: Systems, Structures and the Inane
 
-24 June ï¿½ 8 July 2010
+24 June � 8 July 2010
 
 Opening reception 24 June, 7pm
 
@@ -1126,7 +1126,7 @@ box (along walls and upon shelves and tables) proposes value
 distinctions and provides structuralized containment for a
 frenetic assemblage. Although precarious, the varied objects
 are arranged in a carefully maintained order of idiosyncrasy.
-With a utopian spirit, Lyeï¿½s anomic structures recoup failed
+With a utopian spirit, Lye�s anomic structures recoup failed
 visions, vital knowledges, and familiar narratives of what has
 been or what could be.
 
@@ -1148,21 +1148,21 @@ Cultch is proud to invite visual artists to submit applications for
 exhibitions during the 2010/2011 premier season for the new
 art gallery. There are up to eight exhibition slots of four weeks
 each throughout the year. Submissions can be single or
-multiple artistsï¿½ proposals. Located just east of Commercial
+multiple artists� proposals. Located just east of Commercial
 Drive, The Cultch (Vancouver East Cultural Centre) has built a
-reputation over the past 37 years as one of the West Coastï¿½s
+reputation over the past 37 years as one of the West Coast�s
 most innovative and exciting presenting venues. The mandate
 of The Cultch is to contribute to the enrichment of our city and
-communityï¿½s social and cultural life through the presentation,
+community�s social and cultural life through the presentation,
 by established and emerging artists, of innovative programs of
 contemporary music, theatre, dance and visual arts.
 
 We ask that artists submit 10 to 15 slides of their work in a CD or
-electronic format, an artistï¿½s statement and working title of the
-proposed exhibition, and an artistï¿½s biography, resume or
+electronic format, an artist�s statement and working title of the
+proposed exhibition, and an artist�s biography, resume or
 curriculum vitae.
 
-The Cultchï¿½s gallery is a multi-use space and not a traditional
+The Cultch�s gallery is a multi-use space and not a traditional
 art gallery. Because of the nature of the building design, the
 gallery is also the lobby for performances, and is occasionally
 used for meetings and other small events. Due to the diverse
@@ -1242,19 +1242,19 @@ Centre for Policy Studies on Culture and Communities
 ------------------------------------------------------------------------
 JOB POSTING - Sled Island Executive Festival Director
 
-Sled Island, one of North Americaï¿½s fastest growing music
+Sled Island, one of North America�s fastest growing music
 festivals, is seeking an experienced and highly motivated
 individual for the newly created top-level position of Executive
 Festival Director.
 
 Now in its fourth year, Sled Island has established itself as an
-important part of North Americaï¿½s music scene, consistently
+important part of North America�s music scene, consistently
 showcasing some of the finest established and emerging
 musical talent from around the world and recently being
 recognized by listeners of CBC Radio3 as one of the top 10
 annual music festivals in Canada.
 
-Sled Islandï¿½s new Executive Festival Director will be
+Sled Island�s new Executive Festival Director will be
 responsible for continuing to build and expand the annual four-
 day festival, which has previously brought together such acts as
 Spoon, Cat Power, Mogwai, RZA, Tren Brothers, Tegan and
@@ -1265,7 +1265,7 @@ Breeders.
 The successful applicant will have a passion for music and
 community building, be highly organized and have extensive
 experience with producing and promoting cultural events.
-Specifically, Sled Islandï¿½s Executive Festival Director should
+Specifically, Sled Island�s Executive Festival Director should
 have experience with the following:
 
 - Managing staff and volunteers;
@@ -1279,11 +1279,11 @@ Experience with booking and promoting live music is a
 considerable asset.
 
 Compensation for this unique full-time position will be
-commensurate to the successful candidateï¿½s level of experience
+commensurate to the successful candidate�s level of experience
 and qualifications.
 
 Submissions should be addressed to the attention of Sled
-Islandï¿½s Board of Directors, Hiring Committee, and can be sent
+Island�s Board of Directors, Hiring Committee, and can be sent
 electronically to zak@sledisland.com or by mail to: 1740 13th
 Avenue SW, Calgary AB T3C 0T9. Submissions must be
 received by July 19th, 2010.
@@ -1352,7 +1352,7 @@ Opening Reception: Friday 25 June 2010 8pm
 
 Artist Talk by Brendan Fernandes: Saturday 26 June 2010 2pm
 
-MFA in Paper MachÃƒï¿½Ã‚Â© event hosted by Hannah Jickling with Vincent
+MFA in Paper MachÃ�Â© event hosted by Hannah Jickling with Vincent
 Trasov: Thursday 15 July 2010 6 pm
 
 Field Work presents projects by Canadian artists which foster
@@ -1361,7 +1361,7 @@ search of skills, expertise, and conversation outside of the artistic
 field, the artists in this exhibition venture into specific locales
 developing dialogue with amateur scientists, speech coaches, students,
 and passersby on the street. Presented though various media within the
-exhibition, each project offers traces of artistsÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½ experiences in the
+exhibition, each project offers traces of artistsÃ¢ï¿½ï¿½ experiences in the
 field.
 
 The exhibition will feature three new projects: Diane Borsato
@@ -1369,10 +1369,10 @@ organizes a series of field trips between the Vancouver Chapter of
 Royal Astronomical Society of Canada and the Vancouver Mycology
 Society; Roy Caussy develops and interaction between horse and human;
 and Hannah Jickling offers a Vancouver installment of her MFA in Paper
-MachÃƒï¿½Ã‚Â© project. For his 2009 video performances Foe and Performing Foe,
+MachÃ�Â© project. For his 2009 video performances Foe and Performing Foe,
 Brendan Fernandes hired a speech coach to teach him to speak English
 with Swahili, Indian, and Canadian accents, and practiced these
-intonations with a group of university students. Will KwanÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s 2004
+intonations with a group of university students. Will KwanÃ¢ï¿½ï¿½s 2004
 Learning From Chinatown is a large-scale map of Chinatown in New York
 City based on maps he had asked people in the neighborhood to draw.
 
@@ -1380,8 +1380,8 @@ Join us for the following public events occurring throughout the
 exhibition. Fernandes will discuss his two video works within the
 frame of his practice Saturday 26 June 2010 at 2pm. Hannah Jickling
 will develop an installation throughout the duration of the exhibition
-as part of her MFA in Paper MachÃƒï¿½Ã‚Â© project. Her project will culminate
-in an evening of paper machÃƒï¿½Ã‚Â© workshops and conversation Thursday July
+as part of her MFA in Paper MachÃ�Â© project. Her project will culminate
+in an evening of paper machÃ�Â© workshops and conversation Thursday July
 15, 2010 at 6pm.
 
 This exhibition is curated by Shaun Dacey, a candidate to the Masters
@@ -1420,8 +1420,8 @@ Proposal Guidelines
 Theme:
 Artists are asked to incorporate imagery reflecting the Pride
 Parade story (protest, diversity of LGBT people and
-celebration) and its current theme to ï¿½ï¿½Educate, Liberate,
-Celebrateï¿½ï¿½.
+celebration) and its current theme to ��Educate, Liberate,
+Celebrate��.
 
 Materials and design:
 The trophy must be of durable, shatter-proof material. Metal is
@@ -1441,7 +1441,7 @@ finished work is to be completed, ready for presentation, by July
 
 Proposals may delivered in person, my mail or e-mailed in PDF
 format, and should include the following:
-1. A one-page resume of the artistï¿½s qualification and up to two
+1. A one-page resume of the artist�s qualification and up to two
 pages of images of previous work relevant to this Call.
 2. Initial concept sketch, up to two pages..
 3. Written description of the concept.
@@ -1478,11 +1478,11 @@ What began as a small protest march through the Davie Village
 has blossomed into a world-class Pride Parade attracting not
 only supporters within the LGBT community in Vancouver but
 our friends worldwide. The bigger we get, the more fun we
-have and the more we can showcase Canadaï¿½s proud diversity.
+have and the more we can showcase Canada�s proud diversity.
 Particularly dear to the hearts of the VPS is the fact that our
 Pride Parade can provide inspiration and courage to the LGBT
 community worldwide. Our Pride started as a brave peaceful
-protest (ï¿½Weï¿½re here! Weï¿½re queer!ï¿½) and has grown into a role
+protest (�We�re here! We�re queer!�) and has grown into a role
 model for LGBT communities who continue to fight hard for
 their human rights.
 
@@ -1519,7 +1519,7 @@ celebration!
 
 When
 August 21st to September 6th, 2010
-Opening Day: August 21, 10am ï¿½ 11pm
+Opening Day: August 21, 10am � 11pm
 Set up: Containers will be in position for the week of August
 16th
 Pick up: Pick up will take place Sept 7th to 9th
@@ -1563,21 +1563,21 @@ surface.
 
 SUBMISSION DEADLINE - June 30th
 Submission Requirements:
-ï¿½ Drawing, write up and other details of your proposed work,
+� Drawing, write up and other details of your proposed work,
 including any
 technical requirements including electricity
-ï¿½ Resume or CV
-ï¿½ Completed Submission form
-ï¿½ Biography
-ï¿½ Artist Statement
-ï¿½ Three Images of past artwork(s) photo, CD, jpeg, pdf (no larger
+� Resume or CV
+� Completed Submission form
+� Biography
+� Artist Statement
+� Three Images of past artwork(s) photo, CD, jpeg, pdf (no larger
 than 450
 dpi per image)
-ï¿½ A numbered list of artworks
-ï¿½ S.A.S.E.
+� A numbered list of artworks
+� S.A.S.E.
 
 The PNE retains the right to advertise the art exhibition and has
-permission to use artistï¿½s names for that purpose.
+permission to use artist�s names for that purpose.
 
 If you have questions please contact Caryn or Valerie by email
 or phone.
@@ -1607,9 +1607,9 @@ ____________________
 LIST OF PAST WORKS:
 1) Title:
 __________________________________________________
-_______Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬
+_______¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 
-Size (hï¿½ x wï¿½):
+Size (h� x w�):
 __________________________________________________
 ________
 
@@ -1621,7 +1621,7 @@ ____________
 __________________________________________________
 _______
 
-Size (hï¿½ x wï¿½):
+Size (h� x w�):
 __________________________________________________
 ________
 
@@ -1633,7 +1633,7 @@ ____________
 __________________________________________________
 _______
 
-Size (hï¿½ x wï¿½):
+Size (h� x w�):
 __________________________________________________
 ________
 
@@ -1736,12 +1736,12 @@ French photographer Henri Cartier- Bresson who is widely regarded as the
 founding father of photojournalism and one of the most important figures in
 early twentieth century art. With his famous Leica, Cartier-Bresson was
 able to capture life in motion with visual wit and a keen eye for
-geometrical composition. In coining the term ï¿½the decisive moment,ï¿½ he
+geometrical composition. In coining the term �the decisive moment,� he
 summed up his approach to photography as the interaction of mind, body and
 instinct.
 
 Born in 1908 in Chanteloupen-Brie, Henri Cartier-Bresson stood to inherit
-his familyï¿½s prosperous textile manufacture, but instead took up drawing
+his family�s prosperous textile manufacture, but instead took up drawing
 and painting. He travelled to Africa in 1931, where he worked and stalked
 game before falling ill with malaria. It was when he returned to France to
 convalesce in Marseilles that he began taking candid photographs with his
@@ -1750,8 +1750,8 @@ Cartier-Bresson travelled to Spain and Italy, to Mexico and the United
 States, photographing ordinary and extraordinary people, capturing their
 spontaneous gestures and revealing the subtleties of the human condition.
 
-This exhibition features twenty-five of Cartier-Bressonï¿½s gelatin silver
-prints from the National Galleryï¿½s permanent collection, all dating from
+This exhibition features twenty-five of Cartier-Bresson�s gelatin silver
+prints from the National Gallery�s permanent collection, all dating from
 the 1930s and 1940s.
 
 Lionel Thomas
@@ -1762,9 +1762,9 @@ Opening reception: June 8, 7-9pm
 
 Lionel Thomas (1915-2005), a pioneer of West Coast abstraction and
 proponent of the modern movement, helped transform the region through his
-art and practice. Thomasï¿½s many prominent public artworks include Symbols
-of the Cuneiforms circa 1960, an illuminated sculpture on the faÃ§ade of the
-former Vancouver Public Library. This exhibition profiles Thomasï¿½s rarely
+art and practice. Thomas�s many prominent public artworks include Symbols
+of the Cuneiforms circa 1960, an illuminated sculpture on the façade of the
+former Vancouver Public Library. This exhibition profiles Thomas�s rarely
 seen abstract paintings inspired by nature. Thomas lived in West Vancouver
 and taught at the University of British Columbia from 1950 until 1981.
 
@@ -1795,7 +1795,7 @@ Pre-register at http://www.3daynovel.com
 <a href="/instant-coffee/listings/2010-07-01-26-teck-gallery-sfu-besa-muslims-who-saved-jews-in-world-war-ii">26. Teck Gallery, SFU | BESA: Muslims Who Saved Jews in World War II | til | SEP 29</a>
 ------------------------------------------------------------------------
 BESA: Muslims Who Saved Jews in World War II
-June 24 ï¿½ October 29, 2010
+June 24 � October 29, 2010
 Opening Event: Thursday, June 24, 2010
 
 Teck Gallery, SFU Vancouver Campus
@@ -1826,10 +1826,10 @@ Besnik Konci, the Albanian Ambassador to Canada
 
 Speakers
 Dr. Zijad Delic, Executive Director, Canadian Islamic
-Congress: ï¿½Jewish-Muslim Relations in Islam and the Balkansï¿½
+Congress: �Jewish-Muslim Relations in Islam and the Balkans�
 Dr. Steven Wasserstrom, Moe and Izetta Tonkon Professor of
-Judaic Studies at Reed College: ï¿½Thoughts on the Rise of the
-Term Abrahamic Religionsï¿½
+Judaic Studies at Reed College: �Thoughts on the Rise of the
+Term Abrahamic Religions�
 
 Followed by a reception in the Teck Gallery c. 8:30pm
 

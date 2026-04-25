@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA x UNIT/PITT | Budding | 8:30PM | JUL 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 6
 type: "CALL"
+venue: "Edmonton Arts Council"
 summary: "Edmonton Arts Council | Butler Memorial Park | JAN 6"
 ---
 

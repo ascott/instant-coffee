@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 14
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in French | 3PM | MAR 3"
 ---
 

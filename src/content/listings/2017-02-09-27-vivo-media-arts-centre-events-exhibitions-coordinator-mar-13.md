@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 27
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Events + Exhibitions Coordinator | MAR 13"
 ---
 

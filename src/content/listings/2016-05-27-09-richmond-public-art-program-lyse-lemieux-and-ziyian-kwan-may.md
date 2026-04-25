@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 9
 type: "EVENT"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Lyse Lemieux and Ziyian Kwan | MAY 27"
 ---
 

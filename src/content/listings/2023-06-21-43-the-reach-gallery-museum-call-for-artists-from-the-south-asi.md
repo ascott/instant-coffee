@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 43
 type: "CALL"
+venue: "The Reach Gallery Museum"
 summary: "The Reach Gallery Museum | Call for Artists from the South Asian Communities | JUL 9"
 ---
 

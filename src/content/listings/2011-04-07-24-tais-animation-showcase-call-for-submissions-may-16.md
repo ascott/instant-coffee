@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 24
 type: ""
+venue: "TAIS ANIMATION SHOWCASE"
 summary: "TAIS ANIMATION SHOWCASE | Call for Submissions | MAY 16"
 ---
 
@@ -31,7 +32,7 @@ Toronto, Ontario M6K 1X9
 CANADA
 Please include the completed submission form (downloadable at 
 http://www.tais.ca/animationshowcase_submissionform.pdf) , an 
-artist bio and two film stills (tiff or jpg @ 300 dpi â€“ 2 x 3). 
+artist bio and two film stills (tiff or jpg @ 300 dpi – 2 x 3). 
 Description, bio, contact info and download links may be emailed to 
 tais@bellnet.ca or included in mailed submission package. Please 
 do not send large files via email.

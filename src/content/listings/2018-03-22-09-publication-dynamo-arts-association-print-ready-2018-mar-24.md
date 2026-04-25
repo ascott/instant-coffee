@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 9
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Dynamo Arts Association | Print Ready 2018 | MAR 24"
 ---
 

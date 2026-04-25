@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee conditioned"
 emailDate: "Thu, 31 Jan 2008 17:20:08 -0800"
 number: 9
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | Judy Radul: Artist-in-Residence"
 ---
 

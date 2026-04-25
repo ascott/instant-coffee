@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 16
 type: "OPENING"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Dove Allouche | Kameela Jana Rasheed | 7-9PM | SEP 27"
 ---
 

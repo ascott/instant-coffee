@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 21
 type: ""
+venue: "Flooded zine"
 summary: "Flooded zine | Submissions for Issue one are now open | JUL 15"
 ---
 

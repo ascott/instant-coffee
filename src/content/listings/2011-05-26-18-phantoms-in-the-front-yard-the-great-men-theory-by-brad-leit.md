@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 18
 type: ""
+venue: "Phantoms in the Front Yard"
 summary: "Phantoms in the Front Yard | The Great Men Theory by Brad Leith | JUN 5"
 ---
 

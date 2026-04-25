@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 15
 type: "TALK"
+venue: "Rennie Museum"
 summary: "Rennie Museum | Rennie Speaker Series: Ian Wallace | OCT 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 30
 type: "PERFORMANCE"
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | Catching Up to the Future of Our Past | JAN30+31 | JAN 30"
 ---
 

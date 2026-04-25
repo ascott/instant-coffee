@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 6
 type: ""
+venue: "Atelier Gallery"
 summary: "Atelier Gallery | Michael Swaney | SEP 4"
 ---
 

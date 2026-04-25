@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "VAG"
 summary: "VAG | Emily Carr and the Idea of Nature | FEB 6"
 ---
 

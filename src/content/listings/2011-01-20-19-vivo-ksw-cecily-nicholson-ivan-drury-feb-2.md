@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 19
 type: ""
+venue: "VIVO & KSW"
 summary: "VIVO & KSW | cecily NICHOLSON & ivan DRURY | FEB 2"
 ---
 
@@ -46,7 +47,7 @@ home is where the cart is
 CECILY NICHOLSON is a Vancouver and Surrey-based organizer.
 She has worked with women of the downtown eastside community
 of Vancouver for the past decade and is currently the Coordinator of
-Funds with the Downtown Eastside Womenâ€™s Centre. Cecily has
+Funds with the Downtown Eastside Women’s Centre. Cecily has
 collaborated most recently as a member of the VIVO Media Arts
 collective, Press Release poetry collective and No One is Illegal,
 Vancouver collective. Triage, a book of poetry, is forthcoming from

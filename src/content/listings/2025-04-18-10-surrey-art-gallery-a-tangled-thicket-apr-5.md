@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | A Tangled Thicket | APR 5"
 ---
 

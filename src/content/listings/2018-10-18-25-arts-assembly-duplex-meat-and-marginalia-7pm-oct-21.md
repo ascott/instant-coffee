@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 25
 type: "OPENING"
+venue: "ARTS ASSEMBLY @ DUPLEX"
 summary: "ARTS ASSEMBLY @ DUPLEX | MEAT AND MARGINALIA | 7PM | OCT 21"
 ---
 

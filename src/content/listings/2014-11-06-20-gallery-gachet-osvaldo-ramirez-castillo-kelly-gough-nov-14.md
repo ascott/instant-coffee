@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 20
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Osvaldo Ramirez Castillo | Kelly Gough | NOV 14"
 ---
 
@@ -12,9 +13,9 @@ In November Gallery Gachet presents:
 Coalescence: A Body of Memories
 Osvaldo Ramirez Castillo | Kelly Gough
 
-Exhibition runs: Nov 14th â€“ Dec 21st, 2014
-Opening reception: Fri, Nov 14th, 2014, 7 â€“ 10pm
-Artistâ€™s performance by Kelly Gough
+Exhibition runs: Nov 14th – Dec 21st, 2014
+Opening reception: Fri, Nov 14th, 2014, 7 – 10pm
+Artist’s performance by Kelly Gough
 
 Artist Talk | Panel discussion
 Exploring trauma and the artistic process
@@ -53,7 +54,7 @@ a personal lexicon of imagery sourced from Pre-Columbian mythology,
 Salvadoran popular folklore, North American vernacular and visual 
 culture appropriated in mythic form. 
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..............................
+………………………………………………………………..............................
 ......
 
 Salon Shop Exhibition
@@ -74,6 +75,6 @@ She received her Bachelor of Fine Arts from Emily Carr University and
 her teacher training at SFU. She has been a pottery instructor for 35 
 years with Parks and Recreation, currently teaching at The Roundhouse. 
 She has displayed her work in numerous galleries including an 
-International Potterâ€™s Show in Seto, Japan. She has spent time studying 
+International Potter’s Show in Seto, Japan. She has spent time studying 
 and working in Japan, New Zealand, Thailand, Turkey, Ecuador and 
 Greece.

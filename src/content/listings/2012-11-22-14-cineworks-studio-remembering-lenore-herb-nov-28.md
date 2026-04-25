@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 14
 type: ""
+venue: "Cineworks Studio"
 summary: "Cineworks Studio | Remembering Lenore Herb | NOV 28"
 ---
 

@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 31
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Janice Kerbel: Score | SEP 12"
 ---
 
 Janice Kerbel
 Score
 
-12 September â€“ 24 October 2015
-Opening reception: Saturday, 12 September, 3:00 â€“ 6:00
+12 September – 24 October 2015
+Opening reception: Saturday, 12 September, 3:00 – 6:00
 
 Catriona Jeffries is pleased to announce the forthcoming exhibition of
-Janice Kerbelâ€™s Score, an expanded suite of silkscreen prints that
+Janice Kerbel’s Score, an expanded suite of silkscreen prints that
 considers ways of scoring music with the use of typographic
 convention alone. Emerging from DOUG, a performative work in the
 form of 9 songs for 6 voices, Score continues Kerbel's interest in the
@@ -44,5 +45,5 @@ The Common Guild; Kill the Workers, Chisenhale, London; Badischer
 Kunstverein, Karlsrhue; and Walter Phillips Gallery, Banff Centre for the
 Arts; Janice Kerbel, Arts Club of Chicago; See it Now, Art Now, Tate
 Britain; Remarkable, commissioned for Frieze Projects; and Nick Silver
-Canâ€™t Sleep, commissioned by Artangel/BBC Radio3. Janice has been
+Can’t Sleep, commissioned by Artangel/BBC Radio3. Janice has been
 nominated for Turner Prize 2015.

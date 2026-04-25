@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 3
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Surface Tension | FEB 10"
 ---
 
@@ -67,4 +68,4 @@ Granville Island, Vancouver, BC V6H 3S3
 malaspinagallery@telus.net
 www.malaspinaprintmakers.com
 
-Gallery Hours: Tuesday Ã¢ï¿½ï¿½ Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm
+Gallery Hours: Tuesday â�� Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm

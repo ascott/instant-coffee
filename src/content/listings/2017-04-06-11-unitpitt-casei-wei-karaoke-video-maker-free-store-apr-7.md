@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 11
 type: "PERFORMANCE"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Casei Wei: Karaoke Video Maker Free Store | APR 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 24
 type: "OPENING"
+venue: "1129 E Hastings St"
 summary: "1129 E Hastings St | Sara-Jeanne Bourget, Mark Johnsen, Reyhan Yazdani | SEP 13"
 ---
 

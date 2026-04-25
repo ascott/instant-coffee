@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 6
 type: ""
+venue: "Wil Aballe"
 summary: "Wil Aballe | PATRYK STASIECZEK | APR 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 39
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Artist's Roundtable with Curator Katherine Ylitalo | SEP 14"
 ---
 

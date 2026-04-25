@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 47
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | New Acquisitions Screening | 7-930PM | JUL 18"
 ---
 

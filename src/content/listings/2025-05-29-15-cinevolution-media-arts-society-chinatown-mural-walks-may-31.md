@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 15
 type: "EVENT"
+venue: "Cinevolution Media Arts Society"
 summary: "Cinevolution Media Arts Society | Chinatown Mural Walks | MAY 31 & JUN 1 | MAY 31"
 ---
 

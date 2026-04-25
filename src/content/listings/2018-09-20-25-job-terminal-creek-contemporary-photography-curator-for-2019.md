@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 25
 type: ""
+venue: "JOB"
 summary: "JOB | Terminal Creek Contemporary | Photography Curator for 2019 CAPTURE Photo Fest | SEP 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 18
 type: "EXHIBITION"
+venue: "The Gallery at The Cultch"
 summary: "The Gallery at The Cultch | 1 + 2 + 3 | FEB 1"
 ---
 

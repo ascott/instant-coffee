@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 30
 type: "OPENING"
+venue: "Zebraclub South Granville & 15th"
 summary: "Zebraclub South Granville & 15th | Charlie Mahoney-Volk | APR 25"
 ---
 

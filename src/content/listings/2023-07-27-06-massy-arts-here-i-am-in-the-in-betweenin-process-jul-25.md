@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Massy Arts"
 summary: "Massy Arts | Here I am, in the in-between/In Process | JUL 25"
 ---
 

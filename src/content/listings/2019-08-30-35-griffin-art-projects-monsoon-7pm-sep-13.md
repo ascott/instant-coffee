@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 35
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | MONSOON | 7PM | SEP 13"
 ---
 

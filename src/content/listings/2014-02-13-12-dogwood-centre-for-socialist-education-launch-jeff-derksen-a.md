@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 12
 type: ""
+venue: "Dogwood Centre for Socialist Education"
 summary: "Dogwood Centre for Socialist Education | launch: Jeff Derksen and Ken Belford | FEB 18"
 ---
 

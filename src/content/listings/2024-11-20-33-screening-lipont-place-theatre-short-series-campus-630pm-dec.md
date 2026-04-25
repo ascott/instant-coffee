@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 33
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Lipont Place Theatre | Short Series ‘Campus’ | 630PM | DEC 3"
 ---
 

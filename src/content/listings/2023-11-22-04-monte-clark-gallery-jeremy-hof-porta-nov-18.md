@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Jeremy Hof: Porta | NOV 18"
 ---
 

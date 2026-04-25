@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 18
 type: ""
+venue: "Douglas Udell Gallery"
 summary: "Douglas Udell Gallery | Andrew Valko | FEB 22"
 ---
 
@@ -21,18 +22,18 @@ wood, he uses a router and carves into the material creating textures
 that reinforce the act of painting. What often results are soft finishes 
 and meticulously painted subjects imbued with cool, diffused lighting.
 
-Valkoâ€™s illustrative realist paintings take up themes from contemporary 
+Valko’s illustrative realist paintings take up themes from contemporary 
 culture: static drive-in cinemas of a bygone era, extraterrestrial activity 
 and youth culture in the digital age. In this exhibition, Valko confronts 
 viewers with his signature voyeuristic impulse. The gaze is cast on the 
 â€œselfieâ€  generation and its penchant for self-imaging and yearning for 
-meaningful social connection. Valkoâ€™s voyeuristic gaze acts as a mirror 
+meaningful social connection. Valko’s voyeuristic gaze acts as a mirror 
 of reflection that invites viewers to assess the meaning of privacy and 
 community, intimacy, and solitude in the digital age.
 
 Andrew Valko has worked in printmaking, portraiture and painting for 
 the last three decades. Valko has had solo exhibitions at various 
-galleries all over Canada. In addition, Valkoâ€™s work has been published 
+galleries all over Canada. In addition, Valko’s work has been published 
 and reviewed in various publications such as Border Crossings, The 
 New Yorker Magazine, Asian Art News, Canadian Art, Galleries West 
 Magazine, The Globe and Mail, among others. His work can be found 

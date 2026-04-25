@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 4
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | THE MEG TORWL COLLECTION | RECEPTION | JUN 19"
 ---
 

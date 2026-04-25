@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 14
 type: "OPENING"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | MARINA ROY | Dirty Clouds | NOV 16"
 ---
 

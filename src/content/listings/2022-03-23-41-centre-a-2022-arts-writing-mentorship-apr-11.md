@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 41
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | 2022 ARTS WRITING MENTORSHIP | APR 11"
 ---
 

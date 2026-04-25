@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 69
 type: "CALL"
+venue: "Neutral Ground Artist Run Centre (REGINA)"
 summary: "Neutral Ground Artist Run Centre (REGINA) | CALL FOR PROPOSALS | MAY 15"
 ---
 

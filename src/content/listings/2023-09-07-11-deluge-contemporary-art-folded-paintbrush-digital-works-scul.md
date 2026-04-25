@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 11
 type: "OPENING"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | Folded Paintbrush Digital Works & Sculpture Barry | SEP 9"
 ---
 

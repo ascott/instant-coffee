@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 36
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | An Oral History of Television w/ Judy Radul | 630PM | SEP 18"
 ---
 

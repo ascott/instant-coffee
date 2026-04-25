@@ -23,7 +23,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-05-12-10-the-crying-room-the-writing-on-the-wall-sylvain-sailly-until">10. The Crying Room | The Writing on the Wall | Sylvain Sailly | until | MAY 16</a>
 <a href="/instant-coffee/listings/2011-05-12-11-ecu-rennie-collection-speaker-series-martin-creed-may-17">11. ECU Rennie Collection Speaker Series | Martin Creed | MAY 17</a>
 <a href="/instant-coffee/listings/2011-05-12-12-vag-isabelle-pauwels-the-culture-series-may-17">12. VAG | Isabelle Pauwels THE CULTURE SERIES | MAY 17</a>
-<a href="/instant-coffee/listings/2011-05-12-13-western-front-sophie-blair-clment-may-19">13. Western Front | Sophie BÃ©lair ClÃ©ment | MAY 19</a>
+<a href="/instant-coffee/listings/2011-05-12-13-western-front-sophie-blair-clment-may-19">13. Western Front | Sophie Bélair Clément | MAY 19</a>
 <a href="/instant-coffee/listings/2011-05-12-14-221a-ilwtm-iwilwtw-jay-pozo-josh-hite-scott-billing-may-20">14. 221A | ILWTM; IWILWTW, Jay Pozo, Josh Hite, Scott Billing | MAY 20</a>
 <a href="/instant-coffee/listings/2011-05-12-15-east-van-studio-group-painting-exhibition-a-good-day-for-hor">15. East Van Studio | group painting exhibition | A Good Day For Horse Races | MAY 20</a>
 <a href="/instant-coffee/listings/2011-05-12-16-langara-college-centre-for-art-in-public-spaces-call-artist-">16. Langara College Centre for Art in Public Spaces | call: Artist in Residence | MAY 20</a>
@@ -77,7 +77,7 @@ Info
 Deadline: May 10
 A new itinerant artists in residency program in a campsite
 1st edition:
-MAY 31 â€“ JUNE 6_2011 - Venice Biennale
+MAY 31 – JUNE 6_2011 - Venice Biennale
 theme: THE STATELESS PAVILLION
 apply now on the website!
 
@@ -97,7 +97,7 @@ story.After the attack, time has come for the pirates to halt on the
 mainland: colonize the territory and share the treasures stored during
 their long trip, before taking the Sea route again.
 
-The pirate camp â€“ filling up the ideal gap between the sea, the pirates
+The pirate camp – filling up the ideal gap between the sea, the pirates
 dominion, and the land, the system's dominion - is first and foremost a
 work of art itself. It is the metaphorical representation of the natural
 and necessary condition of being-an-artist.
@@ -110,8 +110,8 @@ to critically observe and depict the world.
 Pirate Camp wants do be an answer to young artists' needs since going to
 the great arts biennals, the most important art fairs and exhibitions can
 be very expensive. Hence, the creation of a campsite totally free of charge
-that will allow a specific number of artists â€“ selected through a public
-competition â€“ to experience these events.
+that will allow a specific number of artists – selected through a public
+competition – to experience these events.
 
 The first PIRATE CAMP edition will be held during the 54th Biennale d'Arte
 di Venezia from May 31 to June 6, 2011 breaking for the first time the
@@ -160,9 +160,9 @@ Gallery Gachet Presents
 Margins | Frederick Cummings
 +
 The Mentally Ill as Simulacra |Quin Martins
-Fri May 13th â€“ Sunday June 26th, 2011
-Opening reception: Fri May 13th, 7 â€“ 10pm
-Durational performance by Bobbi Kozinuk, 7 â€“ 9pm
+Fri May 13th – Sunday June 26th, 2011
+Opening reception: Fri May 13th, 7 – 10pm
+Durational performance by Bobbi Kozinuk, 7 – 9pm
 Performance by Shagatha Crusty, 9pm
 
 Frederick Cummings and Quin Martins both deal with ideas about mental
@@ -172,20 +172,20 @@ homoerotic and sexually charged imagery to jar his audience, and Martins
 seeks a more wryly humorous approach with conceptual, tongue in cheek forms
 of art making.
 
-Margins is a retrospective of Cummingsâ€™ nine-year long art career featuring
+Margins is a retrospective of Cummings’ nine-year long art career featuring
 painting, drawing, performance art, photography and video work. His art
 reflects the experience of a person with disabilities operating across
 several marginalized communities: someone living with schizophrenia, a
 person who is HIV +, an abuse survivor, homosexual, and part First Nations.
 Through exhibition of his vast body of work, Cummings hopes to enlighten
 his audience with his marginalized experiences and reveal a glimpse into
-the challenges heâ€™s faced through being abused, HIV positive and a mental
+the challenges he’s faced through being abused, HIV positive and a mental
 health consumer. He tackles these issues head on, and shows how these
 things have engineered his growth and transformed him into a more confident
 and successful artist, using his signature provocative and sexually
 rebellious techniques.
 
-Regarding The Mentally Ill as Simulacra, Martinsâ€™ approach is more subtle,
+Regarding The Mentally Ill as Simulacra, Martins’ approach is more subtle,
 but no less effective. The word simulacrum describes the representation of
 another thing, that is, a copy, and has been of interest to philosophers
 dating back to Plato. Often, something that is described as a simulacrum is
@@ -197,14 +197,14 @@ person in society is seen through the simulacra lens as a lesser version of
 a â€œnormalâ€  person; so that the entrenched stigmatization of the â€œmentally
 illâ€  person is reified.
 
-Martins states: â€œThere are symptoms of certain mental illnesses that even
+Martins states: “There are symptoms of certain mental illnesses that even
 give a person the sensation of being a living simulacrum. A person can
 feel as if they are an actor and that their life is some sort of film or TV
 show. A person can also have the sensation that they are somehow not a
 â€œwholeâ€  person again reinforcing the nightmarish idea of the mentally ill
 as simulacra.â€ 
 
-This exhibit of Martinsâ€™ explores these fascinating ideas around mental
+This exhibit of Martins’ explores these fascinating ideas around mental
 illness and stigmatization through his video and installation works.
 
 Media requests: Lara Fitzgerald, programming@gachet.org, t: 604 687 2468.
@@ -258,7 +258,7 @@ at the Waldorf Hotel. Check with the front desk for more details.
 It is tradition for the graduating students of the Emily Carr photo program
 to organize and exhibit their work into an external graduation show. We
 feel very strongly about this, our first academically-independent group
-exhibitionâ€”our inaugural display to the outside world of the work we have
+exhibition—our inaugural display to the outside world of the work we have
 been compiling over the course of these four years. The organizing panel
 are united by a desire to present a professional, thoughtfully-curated
 selection of work by each graduating student. We are a body of individuals,
@@ -269,8 +269,8 @@ laden with history and weighty photographic practices. We show our
 influences, our respect for and aversion to those influences, and our
 desire to develop a visual dialogue with them, our surroundings, and
 ourselves. We are shaped by our pasts, our presents, and our peers. We love
-what weâ€™re doing, or else we wouldnâ€™t have done it this hard. And while
-weâ€™re old hats in school, weâ€™re pretty fresh meat out here in this
+what we’re doing, or else we wouldn’t have done it this hard. And while
+we’re old hats in school, we’re pretty fresh meat out here in this
 rocky/wooded/prairie/desert home and native land. We will continue. We will
 show you our make and measure. And then we will go to fucking Hawaii.
 
@@ -290,7 +290,7 @@ and transient practices as well as nurture a participatory learning
 environment for artists, designers, curators, critics, volunteers, and
 the public.
 
-Submissions: Friday, May 13th, 2:00pm â€“ 8:00pm
+Submissions: Friday, May 13th, 2:00pm – 8:00pm
 
 --
 
@@ -343,10 +343,10 @@ Andrew Lee & Jennifer Schine. Through facilitating a portal of
 exchange between visual art and new music, CO-LAB is designed 
 to develop experimental models of cross-disciplinary collaboration 
 among the artists/workshop leaders and participants. The concept 
-of the workshops is based on Jaques Attaliâ€™s notion on sound 
+of the workshops is based on Jaques Attali’s notion on sound 
 culture:
-â€œsound/music is more than an object of study: itâ€™s a way of 
-perceiving the world; a tool of understandingâ€¦ [it is] thus necessary 
+“sound/music is more than an object of study: it’s a way of 
+perceiving the world; a tool of understanding… [it is] thus necessary 
 to imagine radically new theoretical forms, in order to speak to new 
 realities. Sound, the organization of noise, is one such form. It 
 reflects the manufacture of society; it constitutes the audible 
@@ -355,7 +355,7 @@ Jacques Attali from Noise: The Political Economy of Music
 
 NOISE/DE-NOISE with Giorgio Magnanensi
 
-1:00 â€“ 5:30 pm, Saturday, May 14, 2011 at Centre A
+1:00 – 5:30 pm, Saturday, May 14, 2011 at Centre A
 
 This workshop led by Giorgio Magnanensi will focus on the use of 
 denoising-techniques in a creative and compositional manner. 
@@ -406,7 +406,7 @@ funding agencies, including the Canada Council for the Arts, the
 British Columbia Arts Council, and the City of Vancouver through the 
 Office of Cultural Affairs. 
 
-Special thanks to the projectâ€™s community partners: Immigration 
+Special thanks to the project’s community partners: Immigration 
 Service Society of BC (ISSofBC) and Co-Op Radio.
 
 Centre A
@@ -442,7 +442,7 @@ Join us on May 15th for the continuation of the series at 1:30pm.
 13. "The Outside and the Inside and the Secret of Fear of the Secret"
 
 Berlin Alexanderplatz is the summa of Fassbinder's art and the
-culmination of his lifelong relationship with Alfred DÃ¶blin's
+culmination of his lifelong relationship with Alfred Döblin's
 monumental novel of Berlin in the 1920s, a book he said was "embedded
 in my mind, my flesh, my body as a whole, and my soul." Originally
 produced as a 13-part made-for-television movie (though always
@@ -488,11 +488,11 @@ embodiment of this contemporary youth ritual. The adaptation of trance
 ritual within hybrid culture lead to Trypps #6 (Malobi). Structures of
 ethnographic spectatorship are negotiated, and the body of the filmmaker
 folds into the cinematographic process. Trypps #7 (Badlands) fully indulges
-the semiotics of the moving image. The perception of a womanâ€™s LSD trip in
+the semiotics of the moving image. The perception of a woman’s LSD trip in
 Badlands National Park is suspended between the gullies and horizons of the
-desert landscape. â€œConcerned with notions of the romantic sublime,
+desert landscape. “Concerned with notions of the romantic sublime,
 phenomenological experience, and secular spiritualism, the work continues
-Russellâ€™s unique investigation into the possibilities of cinema as a site
+Russell’s unique investigation into the possibilities of cinema as a site
 for transcendenceâ€  (Museum of Contemporary Art Chicago). Ben Russell:
 www.dimeshow.com
 
@@ -526,7 +526,7 @@ arrive/depart and stand/walk past these info screens daily. Slash Forward
 is repeated every 2 minutes, 24/7.
 
 Derived from the forward-slash, Slash Forward is the third stage in what
-began as a concretist device on Turnerâ€™s blog http://mtwebsit.blogspot.com/
+began as a concretist device on Turner’s blog http://mtwebsit.blogspot.com/
 and was later adapted to 140 slashes in the Twitter-driven Digital Natives
 LED billboard presentation on the Burrard Street Bridge
 http://digitalnatives.othersights.ca/tag/vancouver/. Is Slash Forward a
@@ -540,7 +540,7 @@ doorway these forward-slashes stand in for has become a recurring motif in
 his work, one that reminds us to always â€œmind the gap.â€ 
 
 Michael Turner is an award-winning writer of fiction, criticism and song.
-His books include Hard Core Logo, The Pornographerâ€™s Poem and 8x10. He is
+His books include Hard Core Logo, The Pornographer’s Poem and 8x10. He is
 also the co-author of Fred Herzog: Vancouver Photographs.
 
 10 Seconds is curated by Paul Wong and presented by On Main in partnership
@@ -603,12 +603,12 @@ It is probable that Creed is best known in Vancouver for Work No. 851
 (2008) his seventy-five foot neon sentiment EVERYTHING IS GOING TO BE
 ALRIGHT, permanently installed at Wing Sang. The phrase should rightly be
 read as a glowing beacon of optimism and conciliation. A converse
-interpretation, however, might lead one to ask â€œbut exactly how good is
-â€˜alrightâ€™? By entangling the double entendre in many of his works, Creed
+interpretation, however, might lead one to ask “but exactly how good is
+‘alright’? By entangling the double entendre in many of his works, Creed
 seemingly employs binary opposites: on or off; big and small; open, then
 closed. When these opposites collide, as they do so often in these
 numerically catalogued works, what was once a simple dualism is exploded,
-revealing infinite ulterior facets. The door into Martin Creedâ€™s world is
+revealing infinite ulterior facets. The door into Martin Creed’s world is
 much like Work No. 129: a door continuously opening and closing (1995),
 where we can look through it and see nothing or everything, or both, in
 equal parts.
@@ -616,7 +616,7 @@ equal parts.
 Creed renders the invisible tangible to spectacular effect with Work No.
 329 (2004). By employing party balloons to contain precisely fifty percent
 of the calculated volume of a particular room, the artist provokes the
-viewerâ€™s awareness of how they may negotiate the remainder. Creed craftily
+viewer’s awareness of how they may negotiate the remainder. Creed craftily
 compounds elements again in Work No. 372 (2004-2005). A grand piano, an
 elegant yet burdensome instrument, normally used to play florid
 compositions brimful of scintillating keystrokes is transformed into a
@@ -636,7 +636,7 @@ will be making its North American debut at Wing Sang.
 Martin Creed was born in Wakefield, England in 1968 and currently lives and
 works in London and Alicudi, Italy. He won the Turner Prize in 2001 and in
 recent years has worked on music, dance, writing, sculpture and painting.
-Creedâ€™s recent solo exhibitions and projects include Moscow Museum of
+Creed’s recent solo exhibitions and projects include Moscow Museum of
 Modern Art; Fruitmarket Gallery, Edinburgh; Hiroshima City Museum of
 Contemporary Art, Hiroshima; Ikon Gallery, Birmingham; and the Duveen
 Commission, Tate Britain, London.
@@ -646,7 +646,7 @@ related to identity, social injustice, appropriation, painting and
 photography. Bob Rennie has garnered an international reputation as a
 dedicated collector, amassing one of the largest collections of
 contemporary art in Canada. In 2009, renovations were completed on the
-oldest building in Vancouverâ€™s Chinatown to display the collection to the
+oldest building in Vancouver’s Chinatown to display the collection to the
 public. Rennie Collection at Wing Sang holds two exhibitions a year with
 supporting catalogues and events. To book a tour, and to find out further
 information go to www.renniecollection.org
@@ -670,7 +670,7 @@ Isabelle Pauwels as part of the Culture Series.
 
 Pauwels is a Vancouver-based artist with a primary thematic focus on
 narrative structures and how they shape our sensory experience.
-Working primarily in video installation, Pauwelsâ€™ conceptually-based
+Working primarily in video installation, Pauwels’ conceptually-based
 work draws from interests in hybrid cultural forms, prosumer
 production, early history of television and film, and narratives of
 colonial-era exploration. She is the winner of the 2009 Brink Award
@@ -709,9 +709,9 @@ Canada V6Z 2H7
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-05-12-13-western-front-sophie-blair-clment-may-19">13. Western Front | Sophie BÃ©lair ClÃ©ment | MAY 19</a>
+<a href="/instant-coffee/listings/2011-05-12-13-western-front-sophie-blair-clment-may-19">13. Western Front | Sophie Bélair Clément | MAY 19</a>
 ------------------------------------------------------------------------
-Sophie BÃ©lair ClÃ©ment 
+Sophie Bélair Clément 
 
 May 20 - July 16, 2011
 Opening May 19, 6 PM
@@ -720,41 +720,41 @@ Detail of a gallery view from Bob Parent's 'Golden Age of Jazz'
 exhibition. Western Front, December 1979. 
 
 The Western Front is pleased to present a solo exhibition by 
-Montreal based artist Sophie BÃ©lair ClÃ©ment. The exhibition is the 
+Montreal based artist Sophie Bélair Clément. The exhibition is the 
 culmination of research done by the artist during her Media Arts 
-residency at the Western Front this past winter. BÃ©lair ClÃ©ment uses 
-a variety of discursive working methodsâ€”writing, talks, 
-correspondence, and restagingâ€”to interpret generational 
+residency at the Western Front this past winter. Bélair Clément uses 
+a variety of discursive working methods—writing, talks, 
+correspondence, and restaging—to interpret generational 
 assumptions and the engrained practices that inform exhibition 
 making and display strategies in art institutions. For this exhibition 
 she turns her eye toward the near 40-year history of the Western 
 Front. 
 
 Through both regimented research processes and associative 
-instinct, BÃ©lair ClÃ©ment uses the curious and often-overlooked 
+instinct, Bélair Clément uses the curious and often-overlooked 
 details that she gathers during her research phase to inform her 
 practice. From this, she generates installations involving; 
 architectural interventions, artistic collaborations, as well as 
 borrowed artworks and other objects, to reposition our view of the 
 strategies used by art institutions that rarely get a second thought 
-from the public. By reframing these scenarios, BÃ©lair ClÃ©ment 
+from the public. By reframing these scenarios, Bélair Clément 
 exposes the mechanisms that shape our perception of, and our 
-response to artworks. Ultimately, drawing attention to the visitorsâ€™ 
+response to artworks. Ultimately, drawing attention to the visitors’ 
 often highly mediated experience of a particular exhibition space 
-from the artwork, to the lighting conditions or the institutionâ€™s staff 
+from the artwork, to the lighting conditions or the institution’s staff 
 themselves. 
 
-Often, the primary starting point for BÃ©lair ClÃ©mentâ€™s practice is the 
+Often, the primary starting point for Bélair Clément’s practice is the 
 archive. Using her own comparative research methodology, she 
-mined the Western Frontâ€™s video and print archives, spent time with 
-the institutionâ€™s founding members and mapped architectural shifts 
-throughout the buildingâ€™s history during her residency. From this line 
-of inquiry, the new body of work produced for this exhibition, BÃ©lair 
-ClÃ©ment reveals the complex circumstances that arise when our 
+mined the Western Front’s video and print archives, spent time with 
+the institution’s founding members and mapped architectural shifts 
+throughout the building’s history during her residency. From this line 
+of inquiry, the new body of work produced for this exhibition, Bélair 
+Clément reveals the complex circumstances that arise when our 
 memory of an artwork, an exhibition and institutional histories, 
 become inseparable from each other.
 
-PROLOGUE: Watching Intermedia History, 1973, Â¾ inch videotape 
+PROLOGUE: Watching Intermedia History, 1973, ¾ inch videotape 
 transferred to DVD.
 
 Narratives performed by: Paul Wong, Michael Morris & Vincent 
@@ -765,55 +765,55 @@ Vancouver.
 
 00:00 to 01:00 (recorded on 27 April, 2011)
 
-Paul Wong: I donâ€™t get to hear it back, right?
-Jesse McKee: No, no, thereâ€™s no audio
-PW: Oh, thereâ€™s no audio. The original has audio though, right? 
-Right. Right... Right. So Ed Varney. Thatâ€™s Gerry Gilbert sitting in 
+Paul Wong: I don’t get to hear it back, right?
+Jesse McKee: No, no, there’s no audio
+PW: Oh, there’s no audio. The original has audio though, right? 
+Right. Right... Right. So Ed Varney. That’s Gerry Gilbert sitting in 
 there. And, hum, we were just talking about Gerry Gilbert with Hank 
-Bull the other night. Kind of whatever happened to Gerry Gilbertâ€¦ 
-who apparentlyâ€¦ passed on within the last several yearsâ€¦ Gerry 
-Gilbert the mad poetâ€¦
+Bull the other night. Kind of whatever happened to Gerry Gilbert… 
+who apparently… passed on within the last several years… Gerry 
+Gilbert the mad poet…
 
 00:00 to 01:00 (recorded on 2 May, 2011)
 
-Michael Morris: Hereâ€™s... Marianneâ€¦ was it Marianne there?
-Vincent Trasov: Itâ€™s Glenn I think
+Michael Morris: Here’s... Marianne… was it Marianne there?
+Vincent Trasov: It’s Glenn I think
 MM: Oh is it Glenn?
-VT: Robertâ€¦
-MM: Yeahâ€¦ and thatâ€™sâ€¦ Ed Varney
-VT: Ed Varneyâ€¦
+VT: Robert…
+MM: Yeah… and that’s… Ed Varney
+VT: Ed Varney…
 MM+VT: Gerry Gilbert
 MM: Robert was trying to stop smoking, so he was trying to find 
-Beedi smokes... they were Indian cigarettesâ€¦
-MM+VT: Itâ€™s John Jack Bailyn
+Beedi smokes... they were Indian cigarettes…
+MM+VT: It’s John Jack Bailyn
 
 00:00 to 01:00 (recorded on 5 April, 2011)
 
-Glenn Lewis: Thereâ€™s Gerry Gilbert. That was Ed Varney we saw just 
+Glenn Lewis: There’s Gerry Gilbert. That was Ed Varney we saw just 
 before that and myself talking to Robert Filliou. And I forget basically 
-what he ... heâ€™s asking about Intermedia and basically we are 
+what he ... he’s asking about Intermedia and basically we are 
 explaining it to him via photographs but the photographs have not 
 appeared yet. And we are smoking like chimneys.
 
 00:00 to 01:00 (recorded on 28 March, 2011)
 
-Eric Metcalfe: Well Thatâ€™s Glenn Lewis. Looks like. Having a smoke 
-of course and heâ€™s half dressed. And there is M. Robert Filliou, the 
-great French philosopher... Fluxus. And that looks likeâ€¦ Ed Varney 
-of Intermedia whoâ€™s going to form Intermedia Press. Some 
-publications there. Thatâ€™s Gerry Gilbert, the poet. Yeah, he was an 
-interesting fellowâ€¦ his life ended rather sadly in a wayâ€¦ a very 
-tragic story there, I wonâ€™t get into it right now. Filliou of course is 
+Eric Metcalfe: Well That’s Glenn Lewis. Looks like. Having a smoke 
+of course and he’s half dressed. And there is M. Robert Filliou, the 
+great French philosopher... Fluxus. And that looks like… Ed Varney 
+of Intermedia who’s going to form Intermedia Press. Some 
+publications there. That’s Gerry Gilbert, the poet. Yeah, he was an 
+interesting fellow… his life ended rather sadly in a way… a very 
+tragic story there, I won’t get into it right now. Filliou of course is 
 looking very very good. He was a terrific man, he really was, ...I 
-wonder if (â€¦) about him... you know. And he lived in the States. He 
+wonder if (…) about him... you know. And he lived in the States. He 
 was from France but he lived in the states.
 
-Sophie BÃ©lair ClÃ©ment is an artist from Montreal and she has 
+Sophie Bélair Clément is an artist from Montreal and she has 
 exhibited previously at Galerie Clark, Montreal, The Aboa Vetus & 
 Ars Nova Museum, Turku, Finland, Optica, Montreal, Galerie 
 Leonard & Bina Ellen of Concordia University, Montreal. In 2010, she 
-was the Conseil des arts et des letters du QuÃ©bec resident at the 
-KÃ¼nstlerhaus Bethanien in Berlin, Germany. 
+was the Conseil des arts et des letters du Québec resident at the 
+Künstlerhaus Bethanien in Berlin, Germany. 
 
 The Western Front gratefully acknowledges the support of the 
 Canada Council for the Arts, the BC Arts Council through the 
@@ -852,7 +852,7 @@ http://221a.ca/ilwtm-iwilwtw
 I live with twenty machines; I wish I lived with twenty wives
 
 Curated By: Dennis Rosenfeld
-Exhibition: May 21 â€“ Jun 26
+Exhibition: May 21 – Jun 26
 Opening Reception: 8 pm, May 20
 Artist Talk: 2 pm, Jun 18
 
@@ -869,12 +869,12 @@ our lives to be recorded, represented and re-lived online.
 It should come as no surprise that technologies that promise to bring
 us together also serve to compartmentalize our experience of the
 world. Much of our daily experience consists of situations in which we
-attempt to abstract ourselves from our physicality â€“ we seal out
+attempt to abstract ourselves from our physicality – we seal out
 external sights and sounds and replace them with recorded / generated
 ones. We watch television and movies, and immerse ourselves in on-line
 games and virtual worlds whose explicit aim is the denial and
 substitution of the body and of physical experience. Even the act of
-watching has become more private â€“ from the movie theatre (a large
+watching has become more private – from the movie theatre (a large
 group experience), to the television (viewable alone or in a small
 group), down to the screen of a laptop or an iPhone (a decidedly
 solitary experience).
@@ -982,8 +982,8 @@ Winning photographers will be judged on their ability to capture a true,
 uncompromised photographic vision as well as demonstrate an original and
 bold approach in their photography. From all submissions received, editors
 will select the most outstanding up-and-coming talents to showcase in Photo
-Lifeâ€™s August/September issue as well as in the Photo Life Emerging
-Photographerâ€™s on-line gallery.
+Life’s August/September issue as well as in the Photo Life Emerging
+Photographer’s on-line gallery.
 
 Photographers who wish to participate in the Photo Life Emerging
 photographers Competition are invited to send their submissions exclusively
@@ -1066,8 +1066,8 @@ coming together: the ALL INCLUDED.
 Founded in 1998 by artists Pierre Allard and Annie Roy, ATSA creates urban
 interventions in response to current issues of concern to them. ATSA is the
 recipient of the Pratt & WhitneyNature de l'art prize from the Conseil des
-Arts de MontrÃ©al, the Citoyen de la Culture 2008 prize from Arts et la
-Ville for Ã‰tat d'Urgence, and the Artistes pour la Paix 2008 prize.
+Arts de Montréal, the Citoyen de la Culture 2008 prize from Arts et la
+Ville for État d'Urgence, and the Artistes pour la Paix 2008 prize.
 
 Source: Annie Roy, 514-581-5457 info@atsa.qc.ca www.atsa.qc.ca 
 
@@ -1138,8 +1138,8 @@ Martin Creed. It is probable that Creed is best known in Vancouver for Work
 No. 851 (2008) his seventy-five foot neon sentiment EVERYTHING IS GOING TO
 BE ALRIGHT, permanently installed at Wing Sang. The phrase should rightly
 be read as a glowing beacon of optimism and conciliation. A converse
-interpretation, however, might lead one to ask â€œbut exactly how good is
-â€˜alrightâ€™? In Work No. 1000: Broccoli prints (2009-2010), a special
+interpretation, however, might lead one to ask “but exactly how good is
+‘alright’? In Work No. 1000: Broccoli prints (2009-2010), a special
 commission to be shown for the very first time during this exhibition, the
 artist halves an imperceptively complex shape, a sprig of broccoli, using
 the exposed plain to conduct printed impressions.
@@ -1147,7 +1147,7 @@ the exposed plain to conduct printed impressions.
 Martin Creed was born in Wakefield, England in 1968 and currently lives and
 works in London and Alicudi, Italy. He won the Turner Prize in 2001 and in
 recent years has worked on music, dance, writing, sculpture and painting.
-Creedâ€™s recent solo exhibitions and projects include Moscow Museum of
+Creed’s recent solo exhibitions and projects include Moscow Museum of
 Modern Art; Fruitmarket Gallery, Edinburgh; Hiroshima City Museum of
 Contemporary Art, Hiroshima; Ikon Gallery, Birmingham; and the Duveen
 Commission, Tate Britain, London.
@@ -1239,52 +1239,52 @@ Regina, SK S4P 2G3
 <a href="/instant-coffee/listings/2011-05-12-22-dazibao-call-jun-1">22. Dazibao | CALL | JUN 1</a>
 ------------------------------------------------------------------------
 
-CONCOURS JEUNE TÃŠTE D'AFFICHE 2011
+CONCOURS JEUNE TÊTE D'AFFICHE 2011
 DATE LIMITE > 1er JUIN
 
-Appel de dossiers destinÃ© aux Ã©tudiants des universitÃ©s canadiennes et/ou
-Ã©tudiants canadiens Ã  lâ€™Ã©tranger, ayant complÃ©tÃ© une maÃ®trise en arts
-visuels au cours de lâ€™annÃ©e.
+Appel de dossiers destiné aux étudiants des universités canadiennes et/ou
+étudiants canadiens à l’étranger, ayant complété une maîtrise en arts
+visuels au cours de l’année.
 
-Dazibao offre Ã  un artiste ayant complÃ©tÃ© sa maÃ®trise en arts visuels au
-cours de lâ€™annÃ©e 2010-2011 la chance de faire connaÃ®tre son travail
-photographique. Le dÃ©pliant de la programmation annuelle de Dazibao offre,
-sur une face, toutes les informations gÃ©nÃ©rales concernant le centre et sa
-programmation annuelle. Lâ€™autre face est dÃ©diÃ©e Ã  lâ€™oeuvre d'un artiste en
-dÃ©but de carriÃ¨re sÃ©lectionnÃ© par le prÃ©sent appel de dossiers. TirÃ©e Ã 
-plus de 10 000 exemplaires, cette affiche bÃ©nÃ©ficie dâ€™une vaste
+Dazibao offre à un artiste ayant complété sa maîtrise en arts visuels au
+cours de l’année 2010-2011 la chance de faire connaître son travail
+photographique. Le dépliant de la programmation annuelle de Dazibao offre,
+sur une face, toutes les informations générales concernant le centre et sa
+programmation annuelle. L’autre face est dédiée à l’oeuvre d'un artiste en
+début de carrière sélectionné par le présent appel de dossiers. Tirée à
+plus de 10 000 exemplaires, cette affiche bénéficie d’une vaste
 distribution sur le plan local, national et international, offrant une
-visibilitÃ© exceptionnelle Ã  lâ€™oeuvre choisie.
+visibilité exceptionnelle à l’oeuvre choisie.
 
 VOTRE PROPOSITION DOIT COMPRENDRE :
-1. un curriculum vitÃ¦
-2. un maximum de 10 images sur support numÃ©rique
-3. un texte dÃ©crivant votre dÃ©marche artistique (maximum de 250 mots).
+1. un curriculum vitæ
+2. un maximum de 10 images sur support numérique
+3. un texte décrivant votre démarche artistique (maximum de 250 mots).
 
-Les propositions doivent Ãªtre oblitÃ©rÃ©es par la poste au plus tard le 1er
-juin. Si cette date tombe une fin de semaine ou un jour fÃ©riÃ©, elle est
-reportÃ©e au jour ouvrable suivant.
+Les propositions doivent être oblitérées par la poste au plus tard le 1er
+juin. Si cette date tombe une fin de semaine ou un jour férié, elle est
+reportée au jour ouvrable suivant.
 
-Les propositions incomplÃ¨tes, mises Ã  la poste aprÃ¨s la date limite ou
-transmises par messagerie Ã©lectronique ne seront pas acceptÃ©es. Veuillez
+Les propositions incomplètes, mises à la poste après la date limite ou
+transmises par messagerie électronique ne seront pas acceptées. Veuillez
 prendre note que nous ne retournons pas les dossiers.
 
-Envoyer Ã  :
-Concours Jeune tÃªte dâ€™affiche
-Dazibao, en rÃ©sidence Ã  la CinÃ©mathÃ¨que quÃ©bÃ©coise
+Envoyer à :
+Concours Jeune tête d’affiche
+Dazibao, en résidence à la Cinémathèque québécoise
 335, boul. de Maisonneuve Est, bureau 329
-MontrÃ©al (QuÃ©bec) H2X 1K1
+Montréal (Québec) H2X 1K1
 
 ________________________________________________________________________________________
 
-2011 JEUNE TÃŠTE D'AFFICHE CONTEST
+2011 JEUNE TÊTE D'AFFICHE CONTEST
 DEADLINE > JUNE 1st
 
 Call for proposals for students of Canadian universities and/or Canadian
-students abroad who completed a Masterâ€™s degree in Fine Arts during the year.
+students abroad who completed a Master’s degree in Fine Arts during the year.
 
-Dazibao offers an artist graduating in 2010-2011 with a Masterâ€™s degree in
-Fine Arts, the chance to make his or her photographic work known. Dazibaoâ€™s
+Dazibao offers an artist graduating in 2010-2011 with a Master’s degree in
+Fine Arts, the chance to make his or her photographic work known. Dazibao’s
 programming brochure features, on one side, general information about the
 centre as well as its yearly programming. The other side is dedicated to
 the work of an emerging artist who is selected through the present call for
@@ -1293,7 +1293,7 @@ distributed locally, nationally and internationally, thus allowing the
 selected photographic work to receive enormous exposure.
 
 YOUR PROPOSAL MUST INCLUDE:
-1. a curriculum vitÃ¦
+1. a curriculum vitæ
 2. a maximum of 10 digital images
 3. an artist statement (maximum 250 words)
 
@@ -1305,8 +1305,8 @@ submissions sent after the competition closing date will not be accepted.
 Please note that we will not returning the submissions.
 
 Send to:
-Jeune tÃªte dâ€™affiche Contest
-Dazibao, en rÃ©sidence Ã  la CinÃ©mathÃ¨que quÃ©bÃ©coise
+Jeune tête d’affiche Contest
+Dazibao, en résidence à la Cinémathèque québécoise
 335 de Maisonneuve East, office 329
 Montreal (Quebec) H2X 1K1
 
@@ -1404,7 +1404,7 @@ Please visit www.quickdrawanimation.ca for full Application Details.
 LOCK UP YOUR SONS & DAUGHTERS
 
 In 2001, curator Bill Taylor created a hilarious and chilling short film
-series of anti-gay propaganda films from the 1950â€™s to the 1990â€™s. 
+series of anti-gay propaganda films from the 1950’s to the 1990’s. 
 Perversion for Profit, Boys Beware! and Red Light, Green Light and many
 more were an instant hit and Bill took the series around North America and
 was a hit at the Just For Laughs Festival!
@@ -1412,7 +1412,7 @@ was a hit at the Just For Laughs Festival!
 The provocative short films series continued on a whirlwind tour until July
 3, 2003 when Bill, happy but burnt out, returned home.
 
-Bill said, â€œIf I had to pick three highlights of the roughly two years on
+Bill said, “If I had to pick three highlights of the roughly two years on
 the road, they would be:
 
 1) Playing in Rochester, New York, as part of their Gay and Lesbian Film

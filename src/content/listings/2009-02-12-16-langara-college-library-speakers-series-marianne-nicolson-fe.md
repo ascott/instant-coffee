@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 16
 type: ""
+venue: "Langara College Library"
 summary: "Langara College Library | Speakers Series: Marianne Nicolson | FEB 17"
 ---
 

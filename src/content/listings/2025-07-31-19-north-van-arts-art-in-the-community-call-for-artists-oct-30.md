@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 19
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | Art in the Community: Call for Artists | OCT 30"
 ---
 

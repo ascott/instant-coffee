@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 2
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | TechniCowlour | 5PM | FEB 12"
 ---
 

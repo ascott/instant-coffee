@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 23
 type: ""
+venue: "TRENCH"
 summary: "TRENCH | Jen Aitken | APR 12"
 ---
 
@@ -33,7 +34,7 @@ humor. With no top/bottom, front/back reference the works are open for
 interpretation and playfully reference the body as well as a multitude of 
 other forms and objects such as organs, furniture, machine parts or 
 sea life. Never letting the viewer to commit to any one of these 
-references as a starting point Aitkens desire is to â€œevoke brief in-body 
+references as a starting point Aitkens desire is to “evoke brief in-body 
 experiences and visceral reactionsâ€  to the works. Aitkens sculpture 
 allows the viewer to wander in and out, sensually exploring the forms, 
 their playful nature, possible origins and her exquisite attention to 

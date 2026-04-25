@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 9
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Trout Lake Park | Vines Art Festival | AUG 8-19th | AUG 8"
 ---
 

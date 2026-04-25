@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 15
 type: ""
+venue: "Waldorf"
 summary: "Waldorf | Day for Night: | Notes for a Film about Donna and Ga | MAR 6"
 ---
 
@@ -21,14 +22,14 @@ world where homeless people, socialist poseurs and fashion designers
 co-exist.
 
 Following a dispute with her father, Madeleine (Nicola Lipman), a
-young QuÃ©bÃ©cois women, goes to live in Vancouver. She works at several
+young Québécois women, goes to live in Vancouver. She works at several
 jobs there and becomes the mistress of Toro (John Juliani), a macho
 social worker and political activist. Preoccupied with fantasies about
 falling in love with a clown, Madeleine believes she may have met him
 in David (Wayne Specht), a young man she encounters by accident. While
 Toro reveals himself to be an egotistical, cruel male chauvinist,
 David proves to have an ineffectual gentleness. He and a skid row
-habituÃ© (Gordon Robertson) help Madeleine regain confidence in herself
+habitué (Gordon Robertson) help Madeleine regain confidence in herself
 and realize she is her own person, free of illusions.
 
 The first contemporary Canadian feature film directed by a woman,
@@ -44,12 +45,12 @@ Preceded by:
 
 Notes for a Film About Donna & Gail (1966)
 
-One of Don Owenâ€™s seminal works, the medium-length Notes for a Film
+One of Don Owen’s seminal works, the medium-length Notes for a Film
 About Donna & Gail depicts the short-lived friendship between two
-working-class women in Montreal: the waifish Donna (MichÃ¨le Chicoine)
+working-class women in Montreal: the waifish Donna (Michèle Chicoine)
 and the hard-edged, more experienced Gail (Jackie Burroughs). Although
-they are at first inseparable, Donnaâ€™s strange, erratic behaviourâ€“ and
-her penchant for fantasy â€“ becomes an increasingly insurmountable
+they are at first inseparable, Donna’s strange, erratic behaviour– and
+her penchant for fantasy – becomes an increasingly insurmountable
 obstacle. Arguably the first English-Canadian film to feature lesbian
 characters and to reflect a strong European influence, Notes uses such
 techniques as a shady, unreliable narrator (Patrick Watson) to raise

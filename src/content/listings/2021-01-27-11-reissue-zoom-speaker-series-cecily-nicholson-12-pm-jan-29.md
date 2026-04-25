@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 11
 type: "TALK"
+venue: "ReIssue. [ZOOM]"
 summary: "ReIssue. [ZOOM] | Speaker Series: Cecily Nicholson | 12 PM | JAN 29"
 ---
 

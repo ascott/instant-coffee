@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 4
 type: "OPENING"
+venue: "Nanaimo Art Gallery (NANAIMO)"
 summary: "Nanaimo Art Gallery (NANAIMO) | Estuary | 7PM | JUL 18"
 ---
 

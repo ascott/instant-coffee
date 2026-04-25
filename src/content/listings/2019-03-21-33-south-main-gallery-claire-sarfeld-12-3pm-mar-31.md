@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 33
 type: "OPENING"
+venue: "South Main Gallery"
 summary: "South Main Gallery | Claire Sarfeld | 12-3PM | MAR 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 21
 type: "EVENT"
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Night Shift: Quantum Futures | 7-9PM | APR 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 8
 type: "OPENING"
+venue: "Concourse Gallery (ECUAD)"
 summary: "Concourse Gallery (ECUAD) | Converging Borders | NOV 10"
 ---
 

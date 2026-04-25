@@ -17,7 +17,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-06-16-05-221a-ilwtm-iwilwtw-artist-talk-jun-18">05. 221A | ILWTM; IWILWTW, Artist Talk | JUN 18</a>
 <a href="/instant-coffee/listings/2011-06-16-06-community-arts-dialogue-community-politics-and-resistance-in">06. COMMUNITY ARTS DIALOGUE | Community, Politics and Resistance in Vancouver | JUN 18</a>
 <a href="/instant-coffee/listings/2011-06-16-07-motto-vancouver-the-chinook-book-launch-jun-18">07. Motto Vancouver | The Chinook: Book Launch | JUN 18</a>
-<a href="/instant-coffee/listings/2011-06-16-08-other-sights-for-artists-projects-grow-walk-jun-18">08. Other Sights for Artistâ€™s Projects | Grow Walk | JUN 18</a>
+<a href="/instant-coffee/listings/2011-06-16-08-other-sights-for-artists-projects-grow-walk-jun-18">08. Other Sights for Artist’s Projects | Grow Walk | JUN 18</a>
 <a href="/instant-coffee/listings/2011-06-16-09-sfu-gallery-burnaby-robert-young-lacunarian-picturing-jun-18">09. SFU Gallery Burnaby | Robert Young: Lacunarian Picturing | JUN 18</a>
 <a href="/instant-coffee/listings/2011-06-16-10-yactac-gallery-for-your-reference-jun-18">10. YacTac Gallery | FOR YOUR REFERENCE | JUN 18</a>
 <a href="/instant-coffee/listings/2011-06-16-11-museum-of-anthropology-double-exhibition-inuit-prints-faces-">11. Museum of Anthropology | Double Exhibition: Inuit Prints & Faces and Voices | JUN 19</a>
@@ -38,7 +38,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-06-16-01-contemporary-art-gallery-shary-boyle-flesh-and-blood-ron-tra">01. Contemporary Art Gallery | Shary Boyle | Flesh and Blood | Ron Tran Off-site | JUN 16</a>
 ------------------------------------------------------------------------
 The Contemporary Art Gallery launches two new projects: Flesh and Blood a 
-solo exhibition by Toronto-based artist Shary Boyle curated by Louise DÃ©ry, and 
+solo exhibition by Toronto-based artist Shary Boyle curated by Louise Déry, and 
 the interactive artwork A Way To Go by Vancouver-based artist Ron Tran, 
 commissioned by the Contemporary Art Gallery.
 
@@ -54,7 +54,7 @@ sculpture, painting, writing and performance Boyle creates installations that
 examine a range of psychological and emotional situations rooted in a fictional 
 world. Her position is at once feminist yet poetic, located within dreamlike states. 
 Tense with troubled emotions, possessing an expressive immediacy and poised 
-between grace and strangeness, her portraits and â€˜genre scenesâ€™ read as 
+between grace and strangeness, her portraits and ‘genre scenes’ read as 
 allegories of the human condition. Their resolutely symbolic language raises bold 
 perspectives on the present, revealing a conscience haunted by a consideration 
 of the morals of our world today. Centring on heredity, sexuality and death, and 
@@ -62,15 +62,15 @@ the nature of our place within the greater animal kingdom, these conditions form
 a visual investigation into the complex links between the individual and society as 
 a whole.
 
-Flesh and Blood is curated by Louise DÃ©ry and accompanied by a new 
+Flesh and Blood is curated by Louise Déry and accompanied by a new 
 hardcover catalogue, including images of work in the exhibition. It is available at 
 the Contemporary Art Gallery, priced $40. Please email 
 info@contemporaryartgallery.ca for more information. 
 
-The exhibition is organized by Galerie de l'UQAM (UniversitÃ© du QuÃ©bec Ã  
-MontrÃ©al) in partnership with the Art Gallery of Ontario and with the collaboration 
+The exhibition is organized by Galerie de l'UQAM (Université du Québec à 
+Montréal) in partnership with the Art Gallery of Ontario and with the collaboration 
 of the Contemporary Art Gallery, Vancouver. With support from The Canada 
-Council for the Arts and the Conseil des arts et des lettres du QuÃ©bec.
+Council for the Arts and the Conseil des arts et des lettres du Québec.
 
 At the Contemporary Art Gallery the exhibition is generously supported by 
 Canadian Heritage.
@@ -86,9 +86,9 @@ offering to walk them home at night or relocating ordinary objects such as his
 apartment door, which he removed for six weeks for display in an exhibition. 
 
 For A Way to Go, Tran guides his audience on an unexpected route through 
-Vancouverâ€™s downtown core, navigating alleyways and shortcuts. The 
-word â€˜alleyâ€™ derives from the original French word â€˜allÃ©eâ€™ which literally translates 
-as â€˜a way to goâ€™. For this project, Tran names several alleyways as a means to 
+Vancouver’s downtown core, navigating alleyways and shortcuts. The 
+word ‘alley’ derives from the original French word ‘allée’ which literally translates 
+as ‘a way to go’. For this project, Tran names several alleyways as a means to 
 establish their usage and elevate their status. Unlike traditional methods of street 
 naming, which often reference political figures or historical events, Tran has 
 used personal experiences, such as encounters with individuals and objects to 
@@ -96,7 +96,7 @@ determine the description of these overlooked places. Following the trail
 established by the artist, participants are led into an immersive, interactive 
 experience through the use of a GPS enabled mobile device. A series of digital 
 images, audio tracks and video files corresponding to specific locations are 
-revealed reflecting the artistâ€™s experiences and offering an understanding of his 
+revealed reflecting the artist’s experiences and offering an understanding of his 
 descriptive classifications while bringing to light hidden narratives. A Way to Go 
 creates opportunities to re-examine downtown Vancouver through a project that 
 is decidedly personal and unique.
@@ -116,12 +116,12 @@ Canadian Art Foundation. With special thanks to Hannah Hughes.
 
 Public Events
 
-Shary Boyle and Louise DÃ©ry in-conversation
+Shary Boyle and Louise Déry in-conversation
 Friday, June 17, 6pm
 An in-conversation event between artist and curator in conjunction with the 
 touring exhibition Flesh and Blood. Discussion will centre on the development of 
 the exhibition, its various differing presentations and focus on the major themes 
-running through Boyleâ€™s work. Places are free.
+running through Boyle’s work. Places are free.
 
 Walking Tour 
 Saturday July 9, 4pm 
@@ -146,7 +146,7 @@ grateful for the support of Vancouver Foundation and our members, donors, and
 volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada 
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm. 
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm. 
 Admission is by donation. For more information please contact: 
 info@contemporaryartgallery.ca or 604.681.2700
 
@@ -256,18 +256,18 @@ The Or Gallery is pleased to present Bronze Tinfoil Ball, a new exhibition by
 Vancouver artist Kelly Lycan.
 
 The exhibition features a single artwork: a small bronze cast of a crumpled ball 
-of aluminum (â€˜tinâ€™) foil, presented in the middle of the gallery on a narrow plinth. 
-The work is part of Lycanâ€™s ongoing interest in the beauty of ordinary objects; 
+of aluminum (‘tin’) foil, presented in the middle of the gallery on a narrow plinth. 
+The work is part of Lycan’s ongoing interest in the beauty of ordinary objects; 
 beauty that she aims to make apparent through her practice of displacing 
 objects from their original context.
 
 Gilded in aluminum leaf, the bronze sculpture looks nearly identical to its familiar 
 namesake, and it is principally the heavy weight of it that reveals its true material. 
 The bronze ball is produced with the same lost-wax technique used in Classical 
-Greek statuary and much traditional sculpture. The â€˜heroicâ€™ connotation of 
+Greek statuary and much traditional sculpture. The ‘heroic’ connotation of 
 bronze, emphasized by the lighting and design of the exhibition space to 
-resemble early 20th Century museum galleries, is contrasted by the â€˜disposableâ€™ 
-connotation of a small ball of foil. This humorous gesture reflects Lycanâ€™s critical 
+resemble early 20th Century museum galleries, is contrasted by the ‘disposable’ 
+connotation of a small ball of foil. This humorous gesture reflects Lycan’s critical 
 practice of examining how value is created across personal, consumer, and 
 artistic worlds and how material objects contribute to the formation of identities 
 and ideologies.
@@ -281,7 +281,7 @@ collective that builds social structures, where ideas, materials and actions are
 explored. Instant Coffee has exhibited Canada, South America, Europe and the 
 USA.
 
-Bronze Tinfoil Ball marks the second project of the Or Galleryâ€™s Economies/1 
+Bronze Tinfoil Ball marks the second project of the Or Gallery’s Economies/1 
 series, examining systems of value and exchange in contemporary art.
 
 
@@ -294,11 +294,11 @@ http://221a.ca/ilwtm-iwilwtw
 I live with twenty machines; I wish I lived with twenty wives
 
 Curated By: Dennis Rosenfeld
-Exhibition: May 21 â€“ Jun 26
+Exhibition: May 21 – Jun 26
 Opening Reception: 8 pm, May 20
 Artist Talk: 2 pm, Jun 18
 
-Scott Billingsâ€™ practice explores the mimetic relationship between the
+Scott Billings’ practice explores the mimetic relationship between the
 technological apparatus and somatic motility. Often employing his own
 body and figures of animals, he makes moving images and moving objects
 which reside somewhere between cinema and automata. Irreducible to
@@ -307,7 +307,7 @@ spectral body seeks to evince the spurious dualisms and thresholds of
 man/animal, body/mind, animate/ inanimate. By illuminating the
 animality of the cinematic apparatus, his work attempts to register an
 embodied active spectatorship: one which prompts an interrogation of
-the device â€“ the source of the moving illusion â€“ while presencing the
+the device – the source of the moving illusion – while presencing the
 viewerʼs body within the space. Scott Billings holds an MFA from the
 University of British Columbia, a BFA from Emily Carr University, and
 a BASc in Mechanical Engineering from the University of Waterloo. He
@@ -423,7 +423,7 @@ Community Arts Council of Vancouver creates community through the arts.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-06-16-07-motto-vancouver-the-chinook-book-launch-jun-18">07. Motto Vancouver | The Chinook: Book Launch | JUN 18</a>
 ------------------------------------------------------------------------
-Saturday, June 18 Â· 1:00pm - 4:00pm
+Saturday, June 18 · 1:00pm - 4:00pm
 Motto Vancouver
 555 Hamilton Street
 Vancouver, BC
@@ -433,11 +433,11 @@ informal talk by artist and foehn wind expert, Monique R. Levesque at 3pm.
 
 Wojtyra's book inspects and breathes new life into The Chinook, a project that 
 the artist produced in 2009. As an in situ project, Wojtyra invited viewers to a 
-specific crystallized moment of artâ€™s conception and life. Themed around the 
-artistâ€™s binationalism and the romance of nationalism at-large, The Chinook 
+specific crystallized moment of art’s conception and life. Themed around the 
+artist’s binationalism and the romance of nationalism at-large, The Chinook 
 triangulated the relational mythos around the studio, gallery, and art history. An 
-underlying ecological critique of artâ€™s objecthood informs the third strand of The 
-Chinookâ€™s aesthetic and intellectual ambition.
+underlying ecological critique of art’s objecthood informs the third strand of The 
+Chinook’s aesthetic and intellectual ambition.
 
 In book form, The Chinook posthumously returns us to a long evaporated 
 spacetime, creating a record that slinks onto the shelves of the art library.
@@ -454,7 +454,7 @@ $15
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-06-16-08-other-sights-for-artists-projects-grow-walk-jun-18">08. Other Sights for Artistâ€™s Projects | Grow Walk | JUN 18</a>
+<a href="/instant-coffee/listings/2011-06-16-08-other-sights-for-artists-projects-grow-walk-jun-18">08. Other Sights for Artist’s Projects | Grow Walk | JUN 18</a>
 ------------------------------------------------------------------------
 
 Grow Walk:
@@ -463,9 +463,9 @@ Sustainability in Relationship: Conscious, Connected and Creative Living
 Saturday June 18, 2011, 1:30-3:00pm
 Beginning at the North enterance to Creekside Community Centre (1 Athletes 
 Way)
-Presented by Other Sights for Artistâ€™s Projects
+Presented by Other Sights for Artist’s Projects
 
-Other Sightâ€™s is pleased to present the second of a series of walks through 
+Other Sight’s is pleased to present the second of a series of walks through 
 South East False Creek as part of the Grow project.
 
 Join curator and scholar Rajdeep Singh Gill and artist, writer, and activist Fabiola 
@@ -490,7 +490,7 @@ Fraser Valley. Rajdeep is the co-founder and managing editor of Creativity
 Commons Collective and Press.
 
 Fabiola Nabil Naguib is an internationally active artist, author, and activist. She 
-has contributed to numerous public, gallery and community projects. Naguibâ€™s 
+has contributed to numerous public, gallery and community projects. Naguib’s 
 art, critical essays and poetry have been published in various journals and 
 anthologies such as West Coast Line, Fuse, Yishu and Collision: Interarts 
 Practice and Research (Cambridge Scholars Publishing, 2008). She is the 
@@ -528,16 +528,16 @@ SFU Gallery Burnaby, June 18th - August 5
 Evergreen Cultural Centre, June 18th - September 3
 
 These two exhibitions, which share the same title, provide an intriguing
-overview of Robert YoungÃ¢â‚¬â„¢s practice since 1977. A history of his work will
+overview of Robert Youngâ€™s practice since 1977. A history of his work will
 be at the Evergreen Cultural Centre and an in-depth survey of his paintings
 of domestic architectural spaces will constitute the exhibition at the SFU
-Gallery Burnaby. When combined with YoungÃ¢â‚¬â„¢s "Quotidian View" exhibition at
+Gallery Burnaby. When combined with Youngâ€™s "Quotidian View" exhibition at
 the Burnaby Art Gallery in 2009, the three shows add up to a true
 retrospective of an artist who has created virtual communities of
 chronologically disparate people and places in his art for the past fifty
 years. Operating at the interface of drawing and painting, his pictures are
 sometimes reminiscent of Renaissance formal languages and at others of a
-Postmodern colliding of cultures. YoungÃ¢â‚¬â„¢s quotational and citational
+Postmodern colliding of cultures. Youngâ€™s quotational and citational
 practices, which date back to the early 1960s, presaged the art of the
 1980s as well as the quotational times in which we live today.
 
@@ -563,7 +563,7 @@ parking attendant).
 
 Simon Fraser University Gallery | Academic Quadrangle, Room 3004 | SFU
 Burnaby Campus| 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
-Gallery Hours: Tuesday Ã¢â‚¬â€œ Friday: 10am Ã¢â‚¬â€œ 4pm, Saturday: 12pm Ã¢â‚¬â€œ 5pm. 
+Gallery Hours: Tuesday â€“ Friday: 10am â€“ 4pm, Saturday: 12pm â€“ 5pm. 
 Closed
 Saturdays on holiday long weekends.
 
@@ -652,14 +652,14 @@ Museum of Anthropology
 Satellite Gallery | Inside Out, Outside In: An Afternoon of Creating, Sharing, and 
 Tea. | June 19
 
-Sunday Workshop â€” Inside Out, Outside In: An Afternoon of Creating, Sharing, 
+Sunday Workshop — Inside Out, Outside In: An Afternoon of Creating, Sharing, 
 and Tea.
 
 June 19 | 2-4pm
 
 Join artists Vanessa Black and Neil Chung at Satellite Gallery on Sunday, June 
 19th at 2pm, as they lead you through an exploration of clay, memory, and 
-knowledge set within Peter Morinâ€™s Museum. This program is free of charge, and 
+knowledge set within Peter Morin’s Museum. This program is free of charge, and 
 space is limited. Please RSVP at 604-681-8425 or 
 info@satellitegallery.ca
 
@@ -671,7 +671,7 @@ show her work in exhibitions both in Ottawa and Vancouver, and has been a
 member of a commercial gallery in Ottawa called La Petite Mort. Her work is 
 part of several private and public collections in Ottawa, Vancouver and Toronto.
 
-During Vanessaâ€™s final semester at Emily Carr she developed a body of work 
+During Vanessa’s final semester at Emily Carr she developed a body of work 
 that she continues to build upon and broaden her artistic vocabulary. She 
 currently works to support her practice and has a studio space in the bustling art 
 centre around Main Street in Vancouver.
@@ -709,14 +709,14 @@ Day for Night presents 1990s VHS Cultural Studies
 
 Day for Night visited its personal media archive (stored in a
 Vancouver Island basement) and brought back selections from the golden
-age of VCR timer-recorded programming. Jean ChrÃ©tien was Prime
+age of VCR timer-recorded programming. Jean Chrétien was Prime
 Minister. Bill Clinton was President. I had a landline, and a curfew.
 
 Among the highlights:
 
 Italian-American Feminist Public Intellectual Camille Paglia
 interviewed on Bravo's "Life on Venus Avenue" hosted by CHUM's Ziggy
-Lorenc (theme music by Moxy FrÃ¼vous).
+Lorenc (theme music by Moxy Früvous).
 
 UTV news coverage of a near-riot at [the former] A&B sound on Seymour Street.
 
@@ -747,24 +747,24 @@ indolence.
 
 Miscreants and Reprobates features a number of new works by Myfanwy
 MacLeod made specifically for this exhibition as well as earlier
-prints and drawings such as The Drunkardâ€™s Walk, or How Randomness
+prints and drawings such as The Drunkard’s Walk, or How Randomness
 Rules Our Lives and Anecdotes of Modern Art. The exhibition situates
-these works in dialogue with William Hogarthâ€™s iconic Gin Lane and
-Beer Street, A Harlotâ€™s Progress and Industry and Idleness.
+these works in dialogue with William Hogarth’s iconic Gin Lane and
+Beer Street, A Harlot’s Progress and Industry and Idleness.
 
 Myfanwy MacLeod has been shown extensively in solo and group
 exhibition throughout the world including Nomads at the National
 Gallery of Canada in 2009. In 2010 she was commissioned by the City of
 Vancouver to produce her large-scale public sculpture, The Birds for
 the former Olympic Village site in False Creek. Miscreants and
-Reprobates is the second exhibition of MacLeodâ€™s work at the Charles
+Reprobates is the second exhibition of MacLeod’s work at the Charles
 H. Scott Gallery. Her A Brief Overview of Personology was shown at the
 gallery in 2000.
 
 William Hogarth (1697-1764) was highly successful during his lifetime
 and his prints continue to be popular for their witty depictions of
 all levels of English society during that colourful era. The Hogarth
-works in the exhibition are part of Emily Carr Universityâ€™s Wosk
+works in the exhibition are part of Emily Carr University’s Wosk
 Masterworks Print Collection.
 
 The exhibition is curated by Cate Rimmer.
@@ -874,7 +874,7 @@ June 23-27 2011
 www.signalandnoise.ca
 1965 Main St. Vancouver BC
 
-Aleksandra DomanoviÃ¦ / Amie Siegel / Anu Sahota / Artavazd Pelechian / 
+Aleksandra Domanoviæ / Amie Siegel / Anu Sahota / Artavazd Pelechian / 
 Basketball / Ben Rivers / Brady Cranfield / Deborah Stratman / Ellie Ga / 
 Geoffrey Pugen/ Giorgio Magnanensi / Hank Bull / Joshua Stevensen / Julian 
 Hou / Hito Steyerl / Marianna Milhorat / Marina Roy / Nimalan Yoganathan / 
@@ -894,7 +894,7 @@ Ben Rivers, Slow Action | 2010 | 44 min | 4-Channel 16mm/HD Projection | UK
 8:30pm, 110min
 Ellie Ga, The Fortunetellers | 2008-2010 | 60min | Multi-Media Performance | USA
 Marina Roy, Mineral Intelligence | 2010 | 10min | HD | Canada
-Marianna Milhorat, Lâ€™Internationale | 2010 | 9:10min | 16mm/SD | USA
+Marianna Milhorat, L’Internationale | 2010 | 9:10min | 16mm/SD | USA
 Nimalan Yoganathan, Soundscapes of Inukjuak | 2011 | 30min | Multi-Channel 
 Sound Performance | Canada
 
@@ -909,7 +909,7 @@ Hito Steyerl, In Free Fall | 2010 | 32min | HD | Germany
 Amie Siegel, Black Moon | 2010 | 20min | 16mm/HD | USA
 
 9:30pm, 60min
-Aleksandra DomanoviÃ¦, 19:30 | 2011 | 12min | HD | Germany
+Aleksandra Domanoviæ, 19:30 | 2011 | 12min | HD | Germany
 
 Music from CBC and ex-Yugolslav National Television Station ID music will be 
 remixed and performed live by Basketball, Brady Cranfield, Joshua Stevensen 
@@ -922,8 +922,8 @@ Transcription Listening Lounge: Anu Sahota, RCI Radio Documentaries
 
 8pm, 115min
 Geoffrey Pugen, Bridge Kids | 2010 | 12min | HD | Canada
-Deborah Stratman, â€¦These Blazeing Starrs! | 2011 | 14min |16mm | USA
-Giorgio Magnanensi, teatro dellâ€™udito V (TDU V) | 2011 | 20min | A/V Performance 
+Deborah Stratman, …These Blazeing Starrs! | 2011 | 14min |16mm | USA
+Giorgio Magnanensi, teatro dell’udito V (TDU V) | 2011 | 20min | A/V Performance 
 | Canada
 Sarah Biagini, I Swim Now | 2010 | 8:50min | 16mm | USA
 Yin-Ju Chen and James T. Hong, End Transmission | 2010 | 15min | HD | 
@@ -955,7 +955,7 @@ Canada
 
 INSTALLATIONS
 
-Anu Sahota, Network Service | 2011 (1950â€“1980) | Multi-Channel Installation and 
+Anu Sahota, Network Service | 2011 (1950–1980) | Multi-Channel Installation and 
 Projection | Canada
 Frederick Brummer, Dimension X | 2011 | Interactive Installation | Canada
 
@@ -973,7 +973,7 @@ Central Library, 350 West Georgia Street
 Admission is free. Seating is limited.
 Please join us for an "Artists' Talk" by Raymond Boisjoly and Holly Ward in a 
 discussion of their recent local public art projects: Ward's large-scale banner 
-installation on THE WALL on the west faÃ§ade of the CBC Building and Boisjoly's 
+installation on THE WALL on the west façade of the CBC Building and Boisjoly's 
 banners in the concourse of the Central Library. The artists will provide insight 
 into their unique images and processes, as well as share in the challenges and 
 opportunities encountered working in the public sphere.
@@ -1006,7 +1006,7 @@ There will also be adult beverages available for purchase.
 Geist's 2nd Decennial Class Photo
 Location: W.I.S.E. Hall, 1882 Adanac Street, Vancouver BC
 Date: Friday, June 24, 2011
-Time: 7:00 â€“ 10:00 pm. The W.I.S.E. Hall will be open later for those who wish to 
+Time: 7:00 – 10:00 pm. The W.I.S.E. Hall will be open later for those who wish to 
 continue celebrating the greatness of Geist.
 Price: Admission is by donation to the Geist Writers and Artists Fund.
 

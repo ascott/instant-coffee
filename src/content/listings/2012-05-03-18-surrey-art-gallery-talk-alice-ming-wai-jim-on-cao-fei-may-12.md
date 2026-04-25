@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 18
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Talk: Alice Ming Wai Jim on Cao Fei | MAY 12"
 ---
 
@@ -18,8 +19,8 @@ Free
 
 How has the astoundingly rapid modernization of China affected the 
 lives, experiences, and imaginations of artists in China? Are the issues 
-that Cao Fei â€“ one of the acclaimed 21st century generation of artists 
-in China â€“ addresses and the way in which she addresses them, 
+that Cao Fei – one of the acclaimed 21st century generation of artists 
+in China – addresses and the way in which she addresses them, 
 representative of young artists in China today? Montreal-based art 
 critic and curator, Alice Ming Wai Jim will discuss the work of Cao Fei in 
 the context of contemporary new media art from China on Saturday, 

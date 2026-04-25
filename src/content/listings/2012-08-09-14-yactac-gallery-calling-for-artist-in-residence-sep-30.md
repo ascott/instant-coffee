@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 14
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | calling for artist in residence | SEP 30"
 ---
 
@@ -60,9 +61,9 @@ Art
 Project Funding >> {please read}
 
 What is Project Funding?
-Itâ€™s a really great thing!
+It’s a really great thing!
 
-{Get thisâ€¦}
+{Get this…}
 Yactac will reimburse up to half of your residency fee, which you can use 
 towards funding project(s) for your â€œFinal Exhibitionâ€ .
 *Cost breakdowns and receipts used will be required for all purchases affiliated 

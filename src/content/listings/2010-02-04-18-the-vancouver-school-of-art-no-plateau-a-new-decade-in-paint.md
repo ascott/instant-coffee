@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 18
 type: ""
+venue: "The Vancouver School of Art"
 summary: "The Vancouver School of Art | NO PLATEAU: A NEW DECADE IN PAINTING | FEB 10"
 ---
 

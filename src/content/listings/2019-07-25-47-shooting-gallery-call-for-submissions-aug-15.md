@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 47
 type: "CALL"
+venue: "Shooting Gallery"
 summary: "Shooting Gallery | Call for Submissions | AUG 15"
 ---
 

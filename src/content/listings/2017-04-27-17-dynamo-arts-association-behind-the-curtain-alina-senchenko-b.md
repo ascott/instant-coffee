@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 17
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Behind the Curtain | Alina Senchenko & Bara Hladikova | MAY 4"
 ---
 

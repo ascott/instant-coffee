@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 23
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | [WORKSHOP] Two-Day Soundscape | JUL 1"
 ---
 

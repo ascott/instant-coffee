@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "The Alternator Centre for Contemporary Art"
 summary: "The Alternator Centre for Contemporary Art | Kelowna | Audie Murray | Amanda Wood | JUL 31"
 ---
 

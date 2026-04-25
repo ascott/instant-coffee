@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 41
 type: "CALL"
+venue: "City of Surrey"
 summary: "City of Surrey | 152 St Bridge at Nicomekl | JUN 9"
 ---
 

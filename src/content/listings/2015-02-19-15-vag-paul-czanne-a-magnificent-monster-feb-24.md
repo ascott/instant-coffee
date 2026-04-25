@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 15
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Paul Cézanne: A Magnificent Monster | FEB 24"
 ---
 

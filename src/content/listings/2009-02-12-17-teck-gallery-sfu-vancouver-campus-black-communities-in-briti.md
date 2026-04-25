@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 17
 type: ""
+venue: "Teck Gallery, SFU Vancouver Campus"
 summary: "Teck Gallery, SFU Vancouver Campus | Black Communities in British Columbia, 1858 - 2008 | FEB 18"
 ---
 

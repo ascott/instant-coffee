@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: This May Be for Forever"
 emailDate: "Thu, 05 Dec 2013 11:40:18 -0800"
 number: 8
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | talk:John O'Brian & Everything Co. | DEC 10"
 ---
 

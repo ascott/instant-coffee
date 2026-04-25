@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 8
 type: ""
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | The Storyboard Label | MAY 25"
 ---
 
@@ -25,7 +26,7 @@ created a space of quiet contemplation. Initially embarking on different
 paths with unique intentions, the end results arrive in a similar 
 atmospheric space. Whether the work strives to invoke empathy in the 
 viewer through representations of identity, politics, or in its formal 
-attributes, ultimately itâ€™s a journey one takes slowly and individually.
+attributes, ultimately it’s a journey one takes slowly and individually.
 
 ---
 Scott Lewis

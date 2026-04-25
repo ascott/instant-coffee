@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 7
 type: "OPENING"
+venue: "2028 Clark Drive"
 summary: "2028 Clark Drive | Pamela Anderson: New Paintings by Jacob Parsons | AUG 16"
 ---
 

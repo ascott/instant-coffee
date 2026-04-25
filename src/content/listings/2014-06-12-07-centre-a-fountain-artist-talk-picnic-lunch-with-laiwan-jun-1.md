@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 7
 type: ""
+venue: "CENTRE A"
 summary: "CENTRE A | FOUNTAIN | Artist talk + picnic lunch with Laiwan | JUN 14"
 ---
 
 FOUNTAIN
 
 Artist talk + picnic lunch with Laiwan and special guests
-Saturday, June 14, 12:00pm â€“ 2:00 pm
+Saturday, June 14, 12:00pm – 2:00 pm
 Location: CBC Plaza (700 Hamilton Street, Vancouver)
 
-Join us for an artistâ€™s talk and picnic lunch to celebrate Laiwanâ€™s webwork for 
+Join us for an artist’s talk and picnic lunch to celebrate Laiwan’s webwork for 
 FOUNTAIN! In creating this webwork, Laiwan has brought together individuals 
-whose activities explore the historical layers of Vancouverâ€™s built 
+whose activities explore the historical layers of Vancouver’s built 
 environment. Come hear Laiwan in conversation with these special guests as 
 they expand on ideas expressed in virtual space and respond to the overall 
 webwork and the large-scale companion piece at The WALL, a public art 
@@ -29,7 +30,7 @@ Celia Brauer, Founder of the False Creek Watershed Society
 moderated by Joni Low
 
 The event is free and open to the public, rain or shine. A light lunch will be 
-served â€“ so do let us know if you can make it. Bring a blanket, bring a friend!
+served – so do let us know if you can make it. Bring a blanket, bring a friend!
 
 *In the meantime, we invite you to explore this webwork and its many 
 streams of participation: http://www.laiwanette.net/fountain/ *
@@ -39,13 +40,13 @@ Contact: info@centrea.org
 
 About the speakers:
 
-BRUCE MACDONALD is a historical consultant specializing in Vancouverâ€™s 
+BRUCE MACDONALD is a historical consultant specializing in Vancouver’s 
 past. His work for the City of Vancouver has included speaking, cartography, 
 historical plaque writing and design, and heritage house assessment. He is 
 the author of the award-winning book â€œVancouver: A Visual Historyâ€  (1992), 
 which has led to work with many local artists and writers on projects 
 involving awareness of the city, and with various media interested in 
-Vancouver, such as local TV and radio, the Vancouver Sun, Macleanâ€™s and 
+Vancouver, such as local TV and radio, the Vancouver Sun, Maclean’s and 
 National Geographic magazines.
 
 CEASE WYSS (Skwxw'u7mesh Nation) - As an ethnobotanist, media artist, 
@@ -61,7 +62,7 @@ rights to hunt, gather, and fish in their traditional territories.
 
 CELIA BRAUER is founder of the False Creek Watershed Society, a non-profit 
 group established in 2005 to generate wider public awareness about 
-Vancouverâ€™s natural history, the preservation and rehabilitation of our local 
+Vancouver’s natural history, the preservation and rehabilitation of our local 
 water systems, and First Nations culture. From a very young age, she was 
 inspired by the magic of the natural world. With a BFA from Concordia 
 University and training as a Master Gardener, Celia continues to work in 
@@ -79,9 +80,9 @@ and is current Chair of the Board of Directors at grunt gallery (Vancouver).
 
 ---
 
-The Wall is a public art initiative that explores the theme of Vancouverâ€™s built 
+The Wall is a public art initiative that explores the theme of Vancouver’s built 
 environment. It is made possible through a partnership between Vancouver 
 Heritage Foundation, JJ Bean Coffee Roasters and CBC Radio-Canada. The 
-2014 project has received additional support from this yearâ€™s participating arts 
+2014 project has received additional support from this year’s participating arts 
 organization, Centre A. Every year a new artist is selected by The Wall 
 Advisory Committee.

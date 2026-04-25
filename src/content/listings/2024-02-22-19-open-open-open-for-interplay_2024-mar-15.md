@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 19
 type: "CALL"
+venue: "open, open, open for interplay_2024"
 summary: "open, open, open for interplay_2024 | MAR 15"
 ---
 

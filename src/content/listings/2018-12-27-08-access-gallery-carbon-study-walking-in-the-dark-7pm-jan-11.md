@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 8
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | carbon study: walking in the dark | 7PM | JAN 11"
 ---
 

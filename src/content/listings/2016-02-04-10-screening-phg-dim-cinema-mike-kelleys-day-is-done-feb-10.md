@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 10
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | PHG & DIM Cinema | Mike Kelley's Day Is Done | FEB 10"
 ---
 

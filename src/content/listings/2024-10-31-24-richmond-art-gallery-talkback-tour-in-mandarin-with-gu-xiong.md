@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 24
 type: "EVENT"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | Talkback Tour in Mandarin with Gu Xiong | NOV 9"
 ---
 

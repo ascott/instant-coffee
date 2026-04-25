@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interview with the vampire"
 emailDate: "Thu, 27 Oct 2016 18:40:17 -0700"
 number: 6
 type: "OPENING"
+venue: "Audain Art Museum"
 summary: "Audain Art Museum | Intersections: Contemporary Artist Films | OCT 28"
 ---
 

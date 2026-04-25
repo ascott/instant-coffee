@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 38
 type: "OPENING"
+venue: "Trapp Projects"
 summary: "Trapp Projects | GREEN GLASS DOOR | 6-9PM | APR 25"
 ---
 

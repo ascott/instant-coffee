@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 45
 type: "CALL"
+venue: "City of Port Moody, BC"
 summary: "City of Port Moody, BC | Artist Caretaker in Residence Program | APR 4"
 ---
 

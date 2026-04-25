@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 18
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Wine & Screenprinting Night | JUN 28"
 ---
 

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 16
 type: "CALL"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Program Manager Employment Opportunity | AUG 31"
 ---
 
 ORGANIZATION DESCRIPTION
 Celebrating its 40th anniversary, Malaspina is a non-profit artist-run
 centre that advances education, promotes excellence in the art form, and
-increases the publicâ€™s understanding and appreciation of contemporary art
+increases the public’s understanding and appreciation of contemporary art
 and print media. Malaspina supports and promotes the contemporary visual
 arts through the critical and technical exploration of print media.
 Through the excellence of our facilities and programming, we create a

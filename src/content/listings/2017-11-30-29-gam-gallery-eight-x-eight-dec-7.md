@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 29
 type: "OPENING"
+venue: "Gam Gallery"
 summary: "Gam Gallery | EIGHT x EIGHT | DEC 7"
 ---
 

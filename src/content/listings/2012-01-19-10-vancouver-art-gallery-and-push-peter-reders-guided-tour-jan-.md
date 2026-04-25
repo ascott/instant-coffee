@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 10
 type: ""
+venue: "Vancouver Art Gallery and PUSH"
 summary: "Vancouver Art Gallery and PUSH | Peter Reder's Guided Tour | JAN 25"
 ---
 
 Guided Tour
 Presented by the PuSh International Performing Arts Festival, Vancouver Art 
 Gallery and Boca del Lupo
-January 25 â€“ 29, 2012
+January 25 – 29, 2012
 Jan 25, 6pm | Jan 26-29 6pm & 9pm
 Vancouver Art Gallery, 750 Hornby Street.
 
 A beguiling mixture of video and performance, Peter Reder's Guided Tour takes 
-place after-hours in the darkened passages of the Vancouver Art Galleryâ€”a 
+place after-hours in the darkened passages of the Vancouver Art Gallery—a 
 former provincial courthouse and one of the city's most treasured turn-of-the-
 century heritage buildings. From the London-based artist that brought City of 
 Dreams to the 2011 PuSh Festival, Guided Tour similarly explores notions of 
@@ -26,7 +27,7 @@ contemplation of the nature of architectural spaces and the memories they
 embody.
 
 Peter Reder creates intimate, witty, and thoughtful work, often based on 
-historical sources. His site-based work has been seen in some of the worldâ€™s 
+historical sources. His site-based work has been seen in some of the world’s 
 great museums, galleries, and public buildings. He has produced work in the UK 
 for LIFT, National Theatre, South London Gallery, and Somerset House, as well 
 as internationally. Guided Tourpremiered at the Edinburgh Festival in 

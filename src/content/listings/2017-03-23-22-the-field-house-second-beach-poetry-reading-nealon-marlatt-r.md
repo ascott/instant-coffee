@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 22
 type: ""
+venue: "The Field House @ Second Beach"
 summary: "The Field House @ Second Beach | Poetry Reading | Nealon, Marlatt, Rami | MAR 29"
 ---
 

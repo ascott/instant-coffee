@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 6
 type: "EDUCATION"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Weaving our Way | Weaving Workshop ect | 2-5PM | SEP 22"
 ---
 

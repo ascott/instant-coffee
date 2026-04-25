@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 9
 type: ""
+venue: "THE TOAST COLLECTIVE"
 summary: "THE TOAST COLLECTIVE | Chang E Ling | solo exhibition | MAR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 5
 type: "OPENING"
+venue: "BAF"
 summary: "BAF | Karin Jones and Sarah Khan | MAR 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 37
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Simeon Posen- Coast to Coast to Coast | 6-8PM | JUL 12"
 ---
 

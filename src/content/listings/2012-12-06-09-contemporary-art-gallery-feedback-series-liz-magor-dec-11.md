@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 9
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | feedback series: Liz Magor | DEC 11"
 ---
 
@@ -47,7 +48,7 @@ Nicolas Sassoon, WAVES at
 Yaletown-Roundhouse Station, Canada Line continues until January 20, 2013.
 
 WAVES is presented in partnership with the Canada Line Public Art Program 
-â€” IntransitBC.
+— IntransitBC.
 
 Gallery hours: Tuesday to Sunday, 12-6 pm.
 

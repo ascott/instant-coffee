@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 32
 type: "OPENING"
+venue: "FAULT LINE PROJECTS (Salt Spring Island)"
 summary: "FAULT LINE PROJECTS (Salt Spring Island) | NEWS FROM FLOWERS | 5-8PM | JUL 13"
 ---
 

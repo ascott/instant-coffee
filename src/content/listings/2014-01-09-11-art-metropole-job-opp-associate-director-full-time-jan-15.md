@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 11
 type: ""
+venue: "Art Metropole"
 summary: "Art Metropole | Job Opp: Associate Director (Full Time) | JAN 15"
 ---
 
@@ -39,8 +40,8 @@ and staff and oversee their implementation and control
 with shop manager
 
 - Manage day-to-day financial details in collaboration with staff 
-including scheduling and execution of payments of artistsÂ´ and 
-publishersÂ´ fees from inventory and projects
+including scheduling and execution of payments of artists´ and 
+publishers´ fees from inventory and projects
 
 - Assist in the development and control of project budgets for 
 programming, publishing, and travel

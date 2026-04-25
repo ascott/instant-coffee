@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 20
 type: "OPENING"
+venue: "The Cabinet"
 summary: "The Cabinet | Zoe Todd | NOV 14"
 ---
 

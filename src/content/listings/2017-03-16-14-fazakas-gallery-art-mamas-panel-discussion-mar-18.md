@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 14
 type: "TALK"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Art Mamas Panel Discussion | MAR 18"
 ---
 

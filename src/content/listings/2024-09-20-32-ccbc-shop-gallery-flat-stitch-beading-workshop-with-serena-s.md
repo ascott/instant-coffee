@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 32
 type: "EVENT"
+venue: "CCBC Shop & Gallery"
 summary: "CCBC Shop & Gallery | Flat-Stitch Beading Workshop with Serena Steel | SEP 27"
 ---
 

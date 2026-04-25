@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 9
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Artist Talk: Ishiuchi Miyako | OCT 16"
 ---
 

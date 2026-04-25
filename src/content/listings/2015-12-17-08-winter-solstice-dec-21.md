@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fashionable innovation"
 emailDate: "Thu, 17 Dec 2015 13:00:31 -0800"
 number: 8
 type: "EVENT"
+venue: "Winter Solstice"
 summary: "Winter Solstice | DEC 21"
 ---
 

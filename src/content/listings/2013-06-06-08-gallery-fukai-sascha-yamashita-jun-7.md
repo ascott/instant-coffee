@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 8
 type: ""
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | Sascha Yamashita | JUN 7"
 ---
 

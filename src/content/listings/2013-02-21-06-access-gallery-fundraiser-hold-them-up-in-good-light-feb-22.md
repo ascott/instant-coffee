@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 6
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Fundraiser: Hold Them Up in Good Light | FEB 22"
 ---
 
 Hold Them Up in Good Light
 
-Friday February 22nd, 8pm â€“ 12am
+Friday February 22nd, 8pm – 12am
 222 East Georgia St.
 $15, Free for Members.
 
@@ -21,14 +22,14 @@ away with music provided by SWEATY BONES // Featuring DJ Pancake
 Semester (Jenny Lee Craig),DJ Merci Beaucruz (Francis Cruz), DJ Dayglow 
 (Kara Stokowski), DJ Endless Summer (Ian Deleon), Pillowhead (Justin 
 Wright), DJ HNAGZ (Heidi Nagtegaal), and DJ Banned for Life (Nathalee 
-Paolinelli), hors dâ€™ourves and desserts by Silvestre Gusto Latino, and 
+Paolinelli), hors d’ourves and desserts by Silvestre Gusto Latino, and 
 handcrafted cocktails by Malika Montague.
 
 Hold Them Up in Good Light will feature both live and silent auctions hosted 
 by special guests Glaze & Stipple, the Duo that Never Fails to Express 
-(Elizabeth Milton and Tara Travis). This yearâ€™s auction features over 40 works 
+(Elizabeth Milton and Tara Travis). This year’s auction features over 40 works 
 from a mix of internationally renowned and locally respected artists, as well 
-as some Vancouverâ€™s most exciting emerging talent. Artists include: Neil 
+as some Vancouver’s most exciting emerging talent. Artists include: Neil 
 Wedman, Nicole Ondre, Elizabeth Zvonar, Howie Tsui, Rachelle Sawatsky, 
 Ryan Peter, Anne Low, Matthew Brown, Alison Yip, Jonathan Syme, Erica 
 Stocking, Shannon Oksanen, Sydney Hermant, Kaeli Robinsong, Kate Moss, 

@@ -4,7 +4,8 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 16
 type: ""
-summary: "(Parenthesis) @Agro CafÃ© | Talk: Rita Wong and Mimi Gellman | FEB 17"
+venue: "(Parenthesis) @Agro Café"
+summary: "(Parenthesis) @Agro Café | Talk: Rita Wong and Mimi Gellman | FEB 17"
 ---
 
 (Parenthesis)
@@ -32,8 +33,8 @@ an appreciation for original nations and sites reflecting a respectful
 diversity relationship.
 
 $5 per session; open to everyone!
-Monday evenings (January â€“ April 2014); 7:00 â€“ 8:30 pm
-Agro CafÃ©, 1363 Railspur Alley, Granville Island
+Monday evenings (January – April 2014); 7:00 – 8:30 pm
+Agro Café, 1363 Railspur Alley, Granville Island
 
 Hosted and developed by Vancouver-based culture critic Donald 
 Brackett.

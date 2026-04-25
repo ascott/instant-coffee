@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 38
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | A Pragmatic Response to Real Circumstances | "
 ---
 

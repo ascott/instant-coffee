@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 15
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Collage Party with Jay Cabalu | JAN 18"
 ---
 

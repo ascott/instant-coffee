@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | 20 Years On: New Drawings by Keegan Wenkman | FEB 5"
 ---
 

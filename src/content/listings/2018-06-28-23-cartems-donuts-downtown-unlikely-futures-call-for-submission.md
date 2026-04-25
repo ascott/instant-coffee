@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 23
 type: "CALL"
+venue: "Cartems Donuts Downtown"
 summary: "Cartems Donuts Downtown | “Unlikely Futures” Call for Submissions | JUL 6"
 ---
 

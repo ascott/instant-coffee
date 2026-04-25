@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 17
 type: "EVENT"
+venue: "the Blue Cabin"
 summary: "the Blue Cabin | Invasion Day | Foreshore Session | 4PM | JAN 25"
 ---
 

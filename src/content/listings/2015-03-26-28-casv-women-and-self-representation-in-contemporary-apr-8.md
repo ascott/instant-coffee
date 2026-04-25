@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 28
 type: "TALK"
+venue: "CASV"
 summary: "CASV | Women and Self-Representation in Contemporary ... | APR 8"
 ---
 

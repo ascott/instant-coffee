@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 7
 type: "OPENING"
+venue: "Art Gallery of Victoria"
 summary: "Art Gallery of Victoria | In Another Place, And Here | JAN 23"
 ---
 

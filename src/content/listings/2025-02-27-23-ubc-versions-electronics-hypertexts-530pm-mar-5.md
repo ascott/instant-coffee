@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 23
 type: "TALK"
+venue: "UBC"
 summary: "UBC | Versions, Electronics, Hypertexts | 530PM | MAR 5"
 ---
 

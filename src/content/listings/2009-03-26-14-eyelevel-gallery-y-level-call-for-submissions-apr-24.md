@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 14
 type: ""
+venue: "Eyelevel Gallery"
 summary: "Eyelevel Gallery | Y-Level Call For Submissions | APR 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 8
 type: "EVENT"
+venue: "Project Space"
 summary: "Project Space | Alina Senchenko & Mart-Matteus Kampus | MAR 18"
 ---
 

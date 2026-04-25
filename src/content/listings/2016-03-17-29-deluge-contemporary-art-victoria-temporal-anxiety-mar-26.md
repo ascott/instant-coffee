@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 29
 type: "EXHIBITION"
+venue: "Deluge Contemporary Art (Victoria)"
 summary: "Deluge Contemporary Art (Victoria) | Temporal Anxiety | MAR 26"
 ---
 

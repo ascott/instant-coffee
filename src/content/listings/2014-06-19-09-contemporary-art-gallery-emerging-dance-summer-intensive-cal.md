@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 9
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Emerging Dance Summer Intensive Call | JUN 25"
 ---
 
@@ -11,7 +12,7 @@ Contemporary Art Gallery, Vancouver
 
 Emerging Dance Summer Intensive| Call for participants aged 17 to 25yrs old
 
-July 3 â€“ September 4, 2014
+July 3 – September 4, 2014
 (Every Tuesday and Thursday for three hour sessions)
 
 July dates: 12-3pm
@@ -37,9 +38,9 @@ developing an idea into a performance targeting self-motivated individuals
 who would benefit from a summer of discussions around the issues and 
 questions that arise for emerging artists today.
 
-The Summer Intensive is part of the CAGâ€™s two month residency with artist 
+The Summer Intensive is part of the CAG’s two month residency with artist 
 Brendan Fernandes at the CAG Burrard Marina Field House Studio. 
-Participants will engage and respond to Fernandesâ€™ practice interrogating 
+Participants will engage and respond to Fernandes’ practice interrogating 
 their own perceptions of diaspora and cultural identity in relation to 
 authenticity. While in Vancouver, Fernandes will undertake new research 
 exploring the gendered and queer male body in ballet, questioning hierarchies 
@@ -48,7 +49,7 @@ studied ballet and modern dance techniques, and left due to injury, Fernandes
 seeks to explore the ways that this art form has affected and shaped his 
 sense of self, as a means to recover the language of movement embodied 
 within his own identity. Fernandes will work with a ballet foot stretcher, a 
-wooden device used to develop the â€˜perfectlyâ€™ formed arch in a dancerâ€™s foot. 
+wooden device used to develop the ‘perfectly’ formed arch in a dancer’s foot. 
 Considering the rigid physical requirements and its effect on those who 
 attempt to fit the mould, Fernandes proposes to develop a performance with 
 associated photographs utilizing architectural supports such as walls, floors, 

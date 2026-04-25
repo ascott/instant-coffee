@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "People Gallery"
 summary: "People Gallery | Sons Of Disappointment | JUL 10"
 ---
 

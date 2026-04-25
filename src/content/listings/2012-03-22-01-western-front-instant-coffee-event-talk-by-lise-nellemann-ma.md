@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 1
 type: ""
+venue: "WESTERN FRONT"
 summary: "WESTERN FRONT | Instant Coffee Event | Talk by Lise Nellemann | MAR 22"
 ---
 
@@ -21,9 +22,9 @@ curatorial method.
 
 This lecture series is part of *Feeling So Much Yet Doing So Little* by 
 Instant Coffee, an exhibition and series of events that is a tangential 
-revisiting of the Canadian Artist Collectiveâ€™s 12 year history. Lise 
+revisiting of the Canadian Artist Collective’s 12 year history. Lise 
 Nellemann is the second speaker in the series. Norwegian collective 
-Rakkett and SofÃ­a HernÃ¡ndez Chong Cuy* will follow. Each lecture is 
+Rakkett and Sofía Hernández Chong Cuy* will follow. Each lecture is 
 moderated by Caitlin Jones and will address their distinct theoretical 
 and collaborative approaches.
 
@@ -45,7 +46,7 @@ Archive. In 2005, Lise invited Instant Coffee to take over Sparwasser
 for six weeks, for which the Collective set up a temporary studio and 
 held over 20 events and gatherings.
 
-*SofÃ­a HernÃ¡ndez Chong Cuyâ€™s lecture has been postponed until later 
+*Sofía Hernández Chong Cuy’s lecture has been postponed until later 
 in 2013.
 
 For a full listing of events visit www.front.bc.ca
@@ -54,5 +55,5 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
+Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free

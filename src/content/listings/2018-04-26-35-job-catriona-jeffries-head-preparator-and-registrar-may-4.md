@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 35
 type: ""
+venue: "JOB"
 summary: "JOB | Catriona Jeffries | Head Preparator and Registrar | MAY 4"
 ---
 

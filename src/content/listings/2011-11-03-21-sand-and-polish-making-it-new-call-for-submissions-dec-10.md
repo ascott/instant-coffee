@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 21
 type: ""
+venue: "Sand and Polish: Making It New"
 summary: "Sand and Polish: Making It New | Call for Submissions | DEC 10"
 ---
 

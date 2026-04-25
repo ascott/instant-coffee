@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 08:46:05 -0700"
 number: 13
 type: ""
+venue: "F-O-R-M"
 summary: "F-O-R-M | Sunset Screening | 730PM | SEP 7"
 ---
 

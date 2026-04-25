@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 13
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Curator’s Tour by Bruce Grenville | APR 2"
 ---
 

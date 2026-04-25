@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 9
 type: "TALK"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Ann Livingston with Olumoroti George | MAY 18"
 ---
 

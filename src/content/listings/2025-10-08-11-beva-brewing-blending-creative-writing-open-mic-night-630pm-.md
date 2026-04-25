@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 11
 type: "EVENT"
+venue: "Beva Brewing & Blending"
 summary: "Beva Brewing & Blending | Creative Writing Open Mic Night | 630PM | OCT 15"
 ---
 

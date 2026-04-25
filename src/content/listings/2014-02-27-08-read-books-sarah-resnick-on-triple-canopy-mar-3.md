@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 8
 type: ""
+venue: "READ Books"
 summary: "READ Books | Sarah Resnick: On Triple Canopy | MAR 3"
 ---
 
@@ -15,10 +16,10 @@ Monday March 3, 2014
 5pm
 
 Triple Canopy editor Sarah Resnick will present an overview of the 
-magazineâ€™s history, working methods, and the way in which specific artistic 
+magazine’s history, working methods, and the way in which specific artistic 
 and literary projects have been conceived, edited, and designed in 
 collaboration with contributors. She will also discuss the particulars of the 
-magazineâ€™s newly redesigned publishing platform, which aims to articulate 
+magazine’s newly redesigned publishing platform, which aims to articulate 
 and enrich the relationships between writing code and reading prose, 
 between digital interfaces and printed pages, between social media and 
 public space.
@@ -26,7 +27,7 @@ public space.
 Sarah Resnick is a writer and managing editor of Triple Canopy. Her work 
 has appeared in n+1 and The Happy Hypocrite, among other publications. 
 Before joining Triple Canopy, she worked as an archivist, and earned a 
-masterâ€™s degree in media archiving and preservation from New York 
+master’s degree in media archiving and preservation from New York 
 University. She lives in New York.
 
 Sarah Resnick's talk is presented by READ Books in collaboration with Fillip 

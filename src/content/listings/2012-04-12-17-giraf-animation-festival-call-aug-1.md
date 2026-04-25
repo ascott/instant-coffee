@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 17
 type: ""
+venue: "GIRAF Animation Festival"
 summary: "GIRAF Animation Festival | CALL | AUG 1"
 ---
 
@@ -16,7 +17,7 @@ and mediums. Our programs are a strong eclectic mix of animation,
 representing the best of the medium from Claymation to CG. We focus on 
 presenting indie, experimental, and underground animations that push 
 boundaries through new techniques, unique visions, and stimulating subject 
-matter. Our 2011 program featured visiting artist David Oâ€™Reilly, and 3 of the 5 
+matter. Our 2011 program featured visiting artist David O’Reilly, and 3 of the 5 
 Academy Award nominees for Best Short Animation!
 We DO NOT CHARGE A SUBMISSION FEE, and encourage short and feature 
 length local, national, international, and student submissions. 

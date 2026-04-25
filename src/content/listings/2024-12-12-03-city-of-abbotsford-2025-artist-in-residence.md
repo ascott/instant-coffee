@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 3
 type: "CALL"
+venue: "City of Abbotsford"
 summary: "City of Abbotsford | 2025 Artist in Residence"
 ---
 

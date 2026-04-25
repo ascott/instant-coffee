@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 17
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | The Lind Prize | 2018 Opening Reception & Awards Ceremony | SEP 20"
 ---
 

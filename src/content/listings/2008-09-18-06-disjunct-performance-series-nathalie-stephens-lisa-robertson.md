@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: sometimes the wrong way is the rig
 emailDate: "Wed, 17 Sep 2008 20:35:29 -0700"
 number: 6
 type: ""
+venue: "disjunct! performance series"
 summary: "disjunct! performance series | Nathalie Stephens & Lisa Robertson | SEP 19"
 ---
 

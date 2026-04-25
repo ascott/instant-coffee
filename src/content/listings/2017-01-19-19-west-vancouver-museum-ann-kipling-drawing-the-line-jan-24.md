@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 19
 type: "OPENING"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Ann Kipling Drawing the Line | JAN 24"
 ---
 

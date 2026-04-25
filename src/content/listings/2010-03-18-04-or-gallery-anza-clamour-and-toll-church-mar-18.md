@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a sudden full spectrum light bar m
 emailDate: "Thu, 18 Mar 2010 11:55:38 -0700"
 number: 4
 type: ""
+venue: "Or Gallery @ Anza"
 summary: "Or Gallery @ Anza | Clamour and Toll: Church | MAR 18"
 ---
 
@@ -26,7 +27,7 @@ intellectual experience of language.
 TASKMASTER
 
 Rachelle Sawatsky presents a talk about the early history of Essondale, one
-of VancouverÃ¢s earliest hospitals for the mentally ill.
+of Vancouverâs earliest hospitals for the mentally ill.
 
 FLATGREY
 
@@ -34,6 +35,6 @@ Neal Rockwell presents a new monologue.
 
 RUSALKA
 
-Donato Mancini reads his poem Ã¢ ligature.
+Donato Mancini reads his poem â ligature.
 
 THE RITA

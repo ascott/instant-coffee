@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Wen-Li Chen: To My Unborn Child | SEP 14"
 ---
 

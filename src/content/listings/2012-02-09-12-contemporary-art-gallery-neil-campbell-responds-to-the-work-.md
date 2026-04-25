@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 12
 type: "TALK"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Neil Campbell responds to the work of Guo Fengyi | FEB 11"
 ---
 

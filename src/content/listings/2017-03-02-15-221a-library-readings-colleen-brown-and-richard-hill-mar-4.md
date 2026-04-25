@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 15
 type: "EVENT"
+venue: "221A"
 summary: "221A | Library Readings: Colleen Brown and Richard Hill | MAR 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 17
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | LARRY CLARK and KOHEI YOSHIYUKI | SEP 10"
 ---
 

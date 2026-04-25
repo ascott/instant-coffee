@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 14
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Hadden Park | Fieldnotes: Gamelan & ghOstMist | 3pm | JUL 7"
 ---
 

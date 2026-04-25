@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 14
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Out of Maelstrom | 6-9PM | NOV 17"
 ---
 

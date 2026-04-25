@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | ECU | Emblematic Elusions Film Screening & Lecture | 6PM | APR 14"
 ---
 

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 7
 type: ""
+venue: "Project Space"
 summary: "Project Space | Jeffry Lee: exhibition and book launch | JUN 1"
 ---
 
 Project Space
 222 E Georgia Street | Vancouver BC | V6A 1Z7 
-info@projectspace.ca | (604) 690Â·4164 
+info@projectspace.ca | (604) 690·4164 
 
 Music Album Meets Photo Album in Hard Drugs and Jeffry Lee's Party 
 Foreverer 
@@ -22,7 +23,7 @@ Exhibition: June 1 to July 7, 2012
 Project Space, 222 E Georgia St (at Main)
 No cover
 
-VANCOUVER, BC â€“ Project Space Press launches its first book, Party 
+VANCOUVER, BC – Project Space Press launches its first book, Party 
 Foreverer by Jeffry Lee and Hard Drugs, co-published by Karmazots 
 Press and The Storyboard Label. Part illustrated photo album and part 
 music album (via a digital download), the book captures a snapshot of 
@@ -39,7 +40,7 @@ time in New York City. Party Foreverer, in book format, offers not only a
 more elaborate memento to connect him with his past, but also an 
 opportunity to share this coming-of-age-like narrative with his friends, 
 fans and strangers: Artist moves from Vancouver to New York City to 
-cut his teeth in the world of art orâ€”as it turned outâ€”music. Makes life-
+cut his teeth in the world of art or—as it turned out—music. Makes life-
 long friends; is initiated into something bigger than himself through 
 collaboration with a new best friend, his wife, an idol from his youth, and 
 a friend from home who yo-yos between Vancouver and New York. 
@@ -69,4 +70,4 @@ from June 1st to July 7.
 For more information or to arrange media interviews, contact: 
 
 Tracy Stefanucci, Publisher/Editor, Project Space Press
-tracy@projectspace.ca | (604) 690Â·4164
+tracy@projectspace.ca | (604) 690·4164

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 21
 type: "CALL"
+venue: "Queer Zone: a drawing performance"
 summary: "Queer Zone: a drawing performance | Call for Participants | AUG 13"
 ---
 

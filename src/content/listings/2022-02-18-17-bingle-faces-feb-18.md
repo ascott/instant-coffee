@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 17
 type: "EXHIBITION"
+venue: "BINGLE"
 summary: "BINGLE | Faces | FEB 18"
 ---
 

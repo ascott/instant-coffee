@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 20
 type: "EVENT"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | Tuning In: Soundscape Recording | Nancy Tam | JUL 1"
 ---
 

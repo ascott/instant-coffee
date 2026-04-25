@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 6
 type: ""
+venue: "243 Union Street"
 summary: "243 Union Street | Randy Grskovic | NOV 23"
 ---
 

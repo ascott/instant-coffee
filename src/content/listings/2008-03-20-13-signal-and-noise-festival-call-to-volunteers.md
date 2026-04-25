@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not just you"
 emailDate: "Thu, 20 Mar 2008 08:40:13 -0700"
 number: 13
 type: ""
+venue: "SIGNAL AND NOISE FESTIVAL"
 summary: "SIGNAL AND NOISE FESTIVAL | CALL TO VOLUNTEERS"
 ---
 

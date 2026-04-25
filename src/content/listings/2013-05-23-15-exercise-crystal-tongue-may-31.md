@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 15
 type: ""
+venue: "Exercise"
 summary: "Exercise | Crystal Tongue | MAY 31"
 ---
 
@@ -14,7 +15,7 @@ May 31- June 29 2013
 Rebecca Brewer
 Vanessa Disler
 Tiziana La Melia
-Marie- HÃ©lÃ¨ne Tessier
+Marie- Hélène Tessier
 Elizabeth Zvonar
 
 Curated by Amy Kazymerchyk

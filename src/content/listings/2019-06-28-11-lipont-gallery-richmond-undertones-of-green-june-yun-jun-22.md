@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "Lipont Gallery (Richmond)"
 summary: "Lipont Gallery (Richmond) | Undertones of Green - June Yun | JUN 22"
 ---
 

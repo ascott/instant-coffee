@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 20
 type: ""
+venue: "EYELEVEL GALLERY"
 summary: "EYELEVEL GALLERY | PRINTED MATTER RESIDENCY | DEC 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 8
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Kate Sansom | JAN 23"
 ---
 
@@ -13,7 +14,7 @@ Kate Sansom
 
 Access Gallery Artist Residency
 
-21 November 2009 â€“ 23 January 2010
+21 November 2009 – 23 January 2010
 
 Closing Reception:
 
@@ -28,7 +29,7 @@ the theme of apocalyptic anxiety and cultural speculation.
 
 On 23 January 2010, Access Gallery proudly hosts the closing reception for
 Den. The artist will present her findings, share her ideas, and further her
-appeal to enlist visitorsâ€™ underground spaces as communal shelters in the
+appeal to enlist visitors’ underground spaces as communal shelters in the
 event of a great upheaval.
 
 Kate Sansom is a conceptual artist, and occasional curator. Her work

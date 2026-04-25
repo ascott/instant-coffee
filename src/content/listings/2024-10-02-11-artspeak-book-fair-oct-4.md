@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 11
 type: "EVENT"
+venue: "Artspeak Book Fair"
 summary: "Artspeak Book Fair | OCT 4"
 ---
 

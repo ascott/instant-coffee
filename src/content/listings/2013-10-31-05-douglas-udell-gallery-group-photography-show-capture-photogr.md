@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 5
 type: ""
+venue: "Douglas Udell Gallery"
 summary: "Douglas Udell Gallery | Group Photography Show, Capture Photography Festiv | NOV 2"
 ---
 
@@ -14,7 +15,7 @@ Douglas Udell Gallery, Vancouver
 Douglasudellgallery.com
 
 Douglas Udell Gallery presents a special group photography show for the 
-second half of Vancouverâ€™s Capture Photography Festival.
+second half of Vancouver’s Capture Photography Festival.
 
 This photo exhibition features work from international heavyhitters in the field 
 of contemporary photography. Artists include Hiroshi Sugimoto, Loretta Lux, 

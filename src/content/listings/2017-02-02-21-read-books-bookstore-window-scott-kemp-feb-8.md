@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 21
 type: "OPENING"
+venue: "READ Books bookstore window"
 summary: "READ Books bookstore window | Scott Kemp | FEB 8"
 ---
 

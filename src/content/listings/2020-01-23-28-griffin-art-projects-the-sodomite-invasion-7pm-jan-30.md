@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 28
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | The Sodomite Invasion | 7PM | JAN 30"
 ---
 

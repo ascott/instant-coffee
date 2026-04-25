@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 24
 type: "CALL"
+venue: "Cinevolution"
 summary: "Cinevolution | Media Art Micro Grant - BIPOC Artist and Worker | JUL 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: failure is out of the question"
 emailDate: "Wed, 02 Jul 2008 03:45:17 -0700"
 number: 17
 type: ""
+venue: "On Main"
 summary: "On Main | ATTILA RICHARD LUKACS | til | AUG 3"
 ---
 

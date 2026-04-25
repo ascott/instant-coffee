@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "Massy Arts Society"
 summary: "Massy Arts Society | Open Book Art Collective: Away | JUL 3"
 ---
 

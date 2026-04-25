@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 18
 type: "EDUCATION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | [WORKSHOP] Introductory Cyanotype | FEB 3"
 ---
 

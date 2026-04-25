@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 52
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Barrelled Voices - Adam Dodd | 7-10pm | FEB 8"
 ---
 

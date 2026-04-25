@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 38
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Roy Henry Vickers | APR 21"
 ---
 

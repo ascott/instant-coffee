@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 4
 type: "OPENING"
+venue: "AVENUE"
 summary: "AVENUE | Dates: Making Friends By Accident | FEB 5"
 ---
 
@@ -20,9 +21,9 @@ AVENUE, 165 e.Hastings
 
 viewing by appointment
 
-inÂ·tiÂ·maÂ·cy
+in·ti·ma·cy
 [in-tuh-muh-see]
-Noun, plural inÂ·tiÂ·maÂ·cies.
+Noun, plural in·ti·ma·cies.
 
 1.
 The state of being intimate.

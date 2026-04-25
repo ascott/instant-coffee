@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 10
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Haircuts by Children  | JAN 26-27"
 ---
 

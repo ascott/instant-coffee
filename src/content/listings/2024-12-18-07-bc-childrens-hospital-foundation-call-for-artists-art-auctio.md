@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 7
 type: "CALL"
+venue: "BC Children's Hospital Foundation"
 summary: "BC Children's Hospital Foundation | Call for Artists: Art Auction Fundraiser | DEC 22"
 ---
 

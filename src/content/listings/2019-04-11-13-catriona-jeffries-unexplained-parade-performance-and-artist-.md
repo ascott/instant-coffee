@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Unexplained Parade: Performance and artist talk | APR 13"
 ---
 

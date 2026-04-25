@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 16
 type: "EVENT"
+venue: "SFU Burnaby"
 summary: "SFU Burnaby | Germaine Koh and Community Fabric Collective | FEB 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 28
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Churchmouse Philip Hinge | UNTIL DEC 20th | DEC 20"
 ---
 

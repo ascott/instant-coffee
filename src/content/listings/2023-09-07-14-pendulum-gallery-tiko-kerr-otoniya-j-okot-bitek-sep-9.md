@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 14
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Tiko Kerr | Otoniya J. Okot Bitek | SEP 9"
 ---
 

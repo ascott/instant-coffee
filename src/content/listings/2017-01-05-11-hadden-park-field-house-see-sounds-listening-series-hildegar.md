@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 11
 type: "EVENT"
+venue: "Hadden Park Field House"
 summary: "Hadden Park Field House | See Sounds Listening Series: Hildegard Westerkamp | JAN 12"
 ---
 

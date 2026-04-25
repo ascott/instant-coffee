@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 9
 type: "TALK"
+venue: "Libby Leshgold Gallery (ONLINE)"
 summary: "Libby Leshgold Gallery (ONLINE) | Artist-publishers, care and social action | 4PM | JUL 30"
 ---
 

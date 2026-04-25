@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 12
 type: "CALL"
+venue: "Small File Media Festival"
 summary: "Small File Media Festival | 2024 Call for Work | JUN 15"
 ---
 

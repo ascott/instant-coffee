@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 19
 type: ""
-summary: "Blim Gallery | Cute to Kill II â€” Special Halloween Edition | OCT 28"
+venue: "Blim Gallery"
+summary: "Blim Gallery | Cute to Kill II — Special Halloween Edition | OCT 28"
 ---
 
 Blim, Asa Mori, and Powell Street Festival Society present:
-Cute to Kill II â€” Special Halloween Edition
-Friday October 28 | 8 â€“ 11 PM | $12/10 | @ VIVO (Main St. Ã— 4th Ave.)
+Cute to Kill II — Special Halloween Edition
+Friday October 28 | 8 – 11 PM | $12/10 | @ VIVO (Main St. × 4th Ave.)
 
 Cute to Kill 2 is an expose of recent video works from local, national, and 
-international animators and video artists. Each short film explores the artistsâ€™ 
+international animators and video artists. Each short film explores the artists’ 
 morbid fascination with dark subject matter through the guise of â€œcuteâ€  (a 
 prevalent juxtaposition in contemporary Asian pop culture). In their first co-
 production, Yuriko Iga (of Blim) and Asa Mori bring together a wide range of 

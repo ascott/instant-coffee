@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 23
 type: ""
+venue: "Community Arts Council of Vancouver"
 summary: "Community Arts Council of Vancouver | Eco-Art Salon with Oliver Kellhammer | JUN 22"
 ---
 
 Eco-Art Salon with Oliver Kellhammer. June 22nd 7-9pm at the Roundhouse
 Community Centre - Room B, 181 Roundhouse Mews, Vancouver, BC
 
-This event is part of the Community Arts Council of Vancouverâ€™s EcoArt
+This event is part of the Community Arts Council of Vancouver’s EcoArt
 Salon Series! Each salon will feature an environmental artist who will
-present their work - stimulating discussion around questions such as â€˜What
-it means to be an environmental artist?â€™ and â€˜What is the potential for
-community engaged environmental arts in Vancouver?â€™
+present their work - stimulating discussion around questions such as ‘What
+it means to be an environmental artist?’ and ‘What is the potential for
+community engaged environmental arts in Vancouver?’
 
 On June 22, 2011 Land artist, Oliver Kellhammer will give a talk about some
 of his projects entitled: Botanical Interventions - Open Source Landscape

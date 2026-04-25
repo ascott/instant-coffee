@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: expect some mess and try to relax"
 emailDate: "Thu, 13 Aug 2009 09:50:12 -0700"
 number: 4
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | Upcoming Workshops | AUG 15"
 ---
 

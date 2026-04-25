@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 26
 type: ""
+venue: "Centre A"
 summary: "Centre A | FILM SCREENING | Ali Kazimi | OCT 20"
 ---
 
@@ -35,15 +36,15 @@ Ali Kazimi's Undesirables: White Canada & the Komagata Maru
 Award.
 
 TO|FROM BC Electric Railway 100 Years is a group exhibition 
-celebrating the historic BC Electric Railway (BCER) buildingâ€™s 
+celebrating the historic BC Electric Railway (BCER) building’s 
 centennial anniversary, the current home of Centre A. Sitting below the 
 six-story Second Empire Renaissance styled building, the early 1900s 
 saw the BCER terminal blossom into a bustling interurban railway 
-station. Addressing the buildingâ€™s importance to the collective memory 
+station. Addressing the building’s importance to the collective memory 
 of Vancouver, six contemporary artists, Raymond Boisjoly, Stan 
 Douglas, Ali Kazimi, Vanessa Kwan, Evan Lee and Cindy Mochizuki will 
-draw on the site and the neighbourhoodâ€™s expansive history to 
-consider the buildingâ€™s significance as a cosmopolitan centre for new 
+draw on the site and the neighbourhood’s expansive history to 
+consider the building’s significance as a cosmopolitan centre for new 
 immigrants. This show runs until November 10.
 
 ALSO OF NOTE
@@ -52,7 +53,7 @@ Online Publication
 
 Our online publication of TO|FROM can be viewed HERE.
 
-Copyright Â© 2012 Centre A. All rights reserved.
+Copyright © 2012 Centre A. All rights reserved.
 2 West Hastings Street | Vancouver BC V6B 1G6 | 604.683.8326
 www.centrea.org | info@centrea.org
 Hours: Tuesday-Saturday 11am-6pm | Admission Free

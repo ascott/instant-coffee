@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 29
 type: ""
+venue: "Postgraduate programme ALPes"
 summary: "Postgraduate programme ALPes | Art, Landscape, Place, Sound Space: CALL | JUN 17"
 ---
 
-Postgraduate programme ALPes â€“ Art, Landscape, Place, Sound Space
+Postgraduate programme ALPes – Art, Landscape, Place, Sound Space
 
 Call for Applications
 
@@ -16,7 +17,7 @@ Geneva University of Art and Design
 head.hesge.ch/alpes
 
 Lili Weiss, My plainpalais
-PLAINE/OFF, GenÃ¨ve, April 2010
+PLAINE/OFF, Genève, April 2010
 Contact
 
 jean.stern@hesge.ch
@@ -52,5 +53,5 @@ background. It leads to the realisation of individual and group practical
 work involved with territory and the city.
 
 Qualification awarded: Certificate of Advanced Studies (20 ECTS)
-Duration: 2 semesters (i.e. 1 â€“ 2 days per week over 32 weeks in total)
+Duration: 2 semesters (i.e. 1 – 2 days per week over 32 weeks in total)
 Fees: 750 CHF per semester

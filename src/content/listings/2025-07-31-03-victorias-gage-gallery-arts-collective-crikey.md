@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Victoria's Gage Gallery Arts Collective"
 summary: "Victoria's Gage Gallery Arts Collective | Crikey!"
 ---
 

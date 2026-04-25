@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 21
 type: "CALL"
+venue: "AHA / Interference Archive (Brooklyn)"
 summary: "AHA / Interference Archive (Brooklyn) | Call for Submissions | OCT 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 11
 type: "TALK"
+venue: "BAG Offsite"
 summary: "BAG Offsite | Damla Tamer | DEC 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 24
 type: "CALL"
+venue: "Factory Media Centre"
 summary: "Factory Media Centre | Call for Submissions: Fluxus Experimental Film Fes | JUL 7"
 ---
 

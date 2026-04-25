@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | RAG | The Swordsman (1990) & DISCUSSION | 530PM | JUL 31"
 ---
 

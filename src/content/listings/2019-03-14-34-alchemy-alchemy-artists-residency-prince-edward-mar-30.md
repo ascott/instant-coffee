@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 34
 type: "CALL"
+venue: "ALCHEMY"
 summary: "ALCHEMY | Alchemy Artists Residency | Prince Edward | MAR 30"
 ---
 

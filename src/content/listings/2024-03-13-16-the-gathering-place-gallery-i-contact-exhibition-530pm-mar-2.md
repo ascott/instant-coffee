@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 16
 type: "EVENT"
+venue: "The Gathering Place Gallery"
 summary: "The Gathering Place Gallery | (I) Contact exhibition | 530PM | MAR 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 16 Jul 2025 22:15:13 -0700"
 number: 4
 type: "EDUCATION"
+venue: "Roundhouse Community Arts and Recreation Centre"
 summary: "Roundhouse Community Arts and Recreation Centre | Collage and Mixed Media / Luxurious Oil Pastels"
 ---
 

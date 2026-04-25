@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 28
 type: ""
+venue: "VIVO MEDIA ARTS CENTRE"
 summary: "VIVO MEDIA ARTS CENTRE | “Learning in a fantastically public medium” | MAR 13"
 ---
 

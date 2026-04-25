@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 12
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | Field Studies: Exercises in a Living Landscape | APR 11"
 ---
 

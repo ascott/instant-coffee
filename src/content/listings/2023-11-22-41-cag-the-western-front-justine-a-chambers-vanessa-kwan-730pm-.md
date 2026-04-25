@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 41
 type: "TALK"
+venue: "CAG @ The Western Front"
 summary: "CAG @ The Western Front | Justine A. Chambers & Vanessa Kwan | 730PM | DEC 7"
 ---
 

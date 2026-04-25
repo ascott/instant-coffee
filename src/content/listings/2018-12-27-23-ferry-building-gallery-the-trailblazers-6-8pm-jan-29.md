@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 23
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | The Trailblazers | 6-8PM | JAN 29"
 ---
 

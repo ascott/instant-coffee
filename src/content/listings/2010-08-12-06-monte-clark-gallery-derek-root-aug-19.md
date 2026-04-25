@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feeling so much doing so little"
 emailDate: "Thu, 12 Aug 2010 11:15:08 -0700"
 number: 6
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | DEREK ROOT | AUG 19"
 ---
 

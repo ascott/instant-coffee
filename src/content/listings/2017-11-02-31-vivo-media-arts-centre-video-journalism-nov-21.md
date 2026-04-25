@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 31
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Video Journalism | NOV 21"
 ---
 

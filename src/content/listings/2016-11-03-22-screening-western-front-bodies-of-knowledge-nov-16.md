@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 22
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front | Bodies of Knowledge | NOV 16"
 ---
 

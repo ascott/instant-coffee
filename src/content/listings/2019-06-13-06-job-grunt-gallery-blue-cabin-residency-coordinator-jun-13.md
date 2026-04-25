@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 6
 type: ""
+venue: "JOB"
 summary: "JOB | grunt gallery | Blue Cabin Residency Coordinator | JUN 13"
 ---
 

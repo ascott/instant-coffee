@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 20
 type: "EVENT"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Tour | Dissonance: Gohar Dasthi | 1:30PM | MAR 18"
 ---
 

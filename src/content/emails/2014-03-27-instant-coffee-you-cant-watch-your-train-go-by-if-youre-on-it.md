@@ -37,7 +37,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-03-27-23-vivo-not-sent-letters-guests-apr-4">23. VIVO | NOT SENT LETTERS & GUESTS | APR 4</a>
 <a href="/instant-coffee/listings/2014-03-27-24-gallery-295-call-for-submissions-apr-10">24. Gallery 295 | CALL for Submissions | APR 10</a>
 <a href="/instant-coffee/listings/2014-03-27-25-future-generation-art-prize-2014-application-deadline-apr-12">25. Future Generation Art Prize 2014 | application deadline | APR 12</a>
-<a href="/instant-coffee/listings/2014-03-27-26-ubcs-museum-of-anthropology-without-masks-contemporary-afro-">26. UBCâ€™s Museum of Anthropology | Without Masks: Contemporary Afro-Cuban Art | MAY 2</a>
+<a href="/instant-coffee/listings/2014-03-27-26-ubcs-museum-of-anthropology-without-masks-contemporary-afro-">26. UBC’s Museum of Anthropology | Without Masks: Contemporary Afro-Cuban Art | MAY 2</a>
 <a href="/instant-coffee/listings/2014-03-27-27-city-of-vancouver-mayors-arts-awards-nominations-open-for-th">27. City of Vancouver Mayor's Arts Awards | Nominations Open for the 2014 | MAY 9</a>
 28. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 
@@ -88,11 +88,11 @@ Read more on the
 exhibition here
 
 The Contemporary Art Gallery presents a major new commission at 
-the Yaletown-Roundhouse Station by influential Vancouverâ€“based 
+the Yaletown-Roundhouse Station by influential Vancouver–based 
 photographer Marian Penner Bancroft.
 
 In Boulevard, details from a sequence of photographs of winter trees 
-are grouped in mirrored formations around two of the stationâ€™s glass 
+are grouped in mirrored formations around two of the station’s glass 
 walls. Penner Bancroft made these images along the Cambie 
 Heritage Boulevard where the Canada Line forms a subterranean 
 echo of the road.
@@ -143,7 +143,7 @@ Exhibition: March 28 - May 3, 2014
 
 Gallery Hours: Tuesday-Saturday 12-5pm
 
-Taking its title from the lead character in Bertolt Brechtâ€™s 1932 play 
+Taking its title from the lead character in Bertolt Brecht’s 1932 play 
 Saint Joan of the Stockyards, Joan Dark evokes theatrical structures 
 to navigate the slippage between objects and language. With an 
 emphasis on the role of writing within the exhibition space, Joan Dark 
@@ -181,18 +181,18 @@ Opening Reception: Thursday, March 27, 7 PM
 Fountain, a public art project by Laiwan: opening Thursday, March 27 
 @ 12pm, CBC Plaza
 
-VANCOUVER, BC (March 20, 2014) â€“ Please join us as we celebrate 
+VANCOUVER, BC (March 20, 2014) – Please join us as we celebrate 
 the official launch of Fountain: the source or origin of anything. 
 Fountain is a large-scale public photo installation and parallel 
 interactive web project created by artist Laiwan for The Wall at the 
 CBC Plaza, a Vancouver Heritage Foundation public art initiative. 
 
-Date: Thursday March 27, 12:00 â€“ 1:00pm (Opening remarks at 
+Date: Thursday March 27, 12:00 – 1:00pm (Opening remarks at 
 12:15 pm)
 Location: CBC Outdoor Stage, 700 Hamilton Street, Vancouver
 
 In addition to a few words from Vancouver Heritage Foundation and 
-the artist, the event will include performances by Andrew Leeâ€™s 
+the artist, the event will include performances by Andrew Lee’s 
 musical project Holy Hum, an assortment of sweets, and a special 
 offering from JJ Bean. A complimentary printed brochure with a 
 curatorial essay by Joni Low will also be available at the opening. 
@@ -202,16 +202,16 @@ For more information, please visit www.centrea.org or call
 
 About Fountain: the source or origin of anything
 
-The installed image, selected by the artist from the CBCâ€™s analogue 
+The installed image, selected by the artist from the CBC’s analogue 
 media archive, is a frame from the 16mm film Summer Afternoon 
 (1956), which follows the adventures of two children near Keefer and 
-Columbia Streets along the northern shores of False Creek â€“ areas 
-that have since been filled in as land. The openness of this moment â€“ 
+Columbia Streets along the northern shores of False Creek – areas 
+that have since been filled in as land. The openness of this moment – 
 of easy access to water, sightlines to a distant shore, and reflection of 
-boats floating beneath the Old Georgia Viaduct â€“ mirrors a space of 
+boats floating beneath the Old Georgia Viaduct – mirrors a space of 
 extended imagination, a fluidity of consciousness.
 
-Laiwanâ€™s parallel web project extends the exploration of fluidity 
+Laiwan’s parallel web project extends the exploration of fluidity 
 throughout the city, bringing together the oral and natural histories of 
 nearby communities. This virtual public space, a communal archive, 
 is open for all to contribute, to create a shared flow of ideas over time. 
@@ -224,12 +224,12 @@ About The Wall:
 The Wall is a public art initiative made possible through a partnership 
 between Vancouver Heritage Foundation, JJ Bean Coffee Roasters 
 and CBC Radio-Canada. The 2014 project has received additional 
-support from this yearâ€™s participating arts organization, Centre A. 
+support from this year’s participating arts organization, Centre A. 
 Every year a new artist is selected by The Wall Advisory Committee. 
 
 Laiwan and Joni Low would like to gratefully acknowledge all 
 contributors to their Indiegogo campaign for their helping to make 
-Fountainâ€™s web project a reality.
+Fountain’s web project a reality.
 
 About Laiwan:
 
@@ -245,11 +245,11 @@ Chair of the Board of Directors at grunt gallery (Vancouver).
 
 About Centre A:
 
-Established in 1999, Centre A is Canadaâ€™s only public gallery 
+Established in 1999, Centre A is Canada’s only public gallery 
 devoted to contemporary art of the Asia-Pacific. Located in 
-Chinatownâ€™s East Georgia Gallery Cluster, we have presented the 
+Chinatown’s East Georgia Gallery Cluster, we have presented the 
 works of over 300 Canadian and international artists and produced 
-over 80 original projects. As a key piece of Vancouverâ€™s cultural 
+over 80 original projects. As a key piece of Vancouver’s cultural 
 infrastructure, Centre A works with artists, curators and other cultural 
 producers from throughout the region to facilitate critical inquiry and 
 provide a platform for conversation and artistic experimentation.
@@ -329,12 +329,12 @@ in Prince George. He has published seven books (poetry, novels,
 interviews, and short fiction), his latest being declining america 
 (BookThug) and, just this month, Dreamland Theatre (Caitlin). His 
 recent interest is experimental activist ecopoetry; he is working on a 
-study of Devilâ€™s Club / Hoolhghulh tentatively titled "Panax" and an 
+study of Devil’s Club / Hoolhghulh tentatively titled "Panax" and an 
 essay on animal-human relations called â€œThe Parahuman.â€ 
 
 Roger Farr is the author of Surplus (poetry; Line Books, 2006), IKMQ 
 (prose-poetry; New Star, 2012), and Means (poetry, radio script, 
-prose; Line Books, 2012). He has been described as â€œa poet of great 
+prose; Line Books, 2012). He has been described as “a poet of great 
 heart and aesthetic/political commitment.â€  As a cultural critic, his 
 writing on radical social movements and the avant-garde has 
 appeared in numerous literary and 'movement' periodicals, and has 
@@ -351,17 +351,17 @@ READ | Charles H. Scott Gallery | Emily Carr University of Art +
 Design
 
 Cathy Busby
-Steveâ€™s Vinyl
+Steve’s Vinyl
 March 27, 2014 at 5pm
 Book Launch at READ
 
-Please join us at READ Books for the launch of Steveâ€™s Vinyl.
+Please join us at READ Books for the launch of Steve’s Vinyl.
 
 In 1993, music loving Steve Busby died of an AIDS-related illness, 
 leaving an eclectic record collection to his sister, artist Cathy Busby. 
 After 18 years of keeping the collection, Cathy organized a one-night 
 celebration and album give away. The one-night only event is now a 
-book, Steveâ€™s Vinyl, with writing from Steve and Cathy, photos from 
+book, Steve’s Vinyl, with writing from Steve and Cathy, photos from 
 the album give-away, and memories of Steve collected the night of 
 the event. Like the event itself, the book is a tribute to Steve and his 
 varied tastes in music, men, and identities and a way of activating the 
@@ -375,7 +375,7 @@ Seminary, New York and then at Emily Carr. She has been a visiting
 researcher with a Fulbright Fellowship at New York University and 
 she is currently a visiting professor at the University British Columbia.
 
-Steveâ€™s Vinyl is published by Visual AIDS, New York and Emily Carr 
+Steve’s Vinyl is published by Visual AIDS, New York and Emily Carr 
 University Press in the Pile Driver Editions Series.
 
 READ | Charles H. Scott Gallery
@@ -492,10 +492,10 @@ applied, allows the artist an arena of spontaneous creation. Each
 one-of-a-kind print references ten thousand years of creativity on the 
 Northwest Coast.
 
-Galanin writes of this process, â€œThe motions of creating these images 
+Galanin writes of this process, “The motions of creating these images 
 explore, reference and mimic a customary (traditional) aesthetic that 
 has been ongoing for generations. An aesthetic that is put into motion 
-through our existence on this land. The Stellar remnant is whatâ€™s left, 
+through our existence on this land. The Stellar remnant is what’s left, 
 the print, in motion like the birth of a star.â€ 
 
 Nicholas Galanin is a Tlingit/Aleut multi-disciplinary artist. Galanin 
@@ -538,7 +538,7 @@ The
 exhibition includes the premiere of three commissioned artworks by 
 Vancouver-based artists Patrick Daggitt, Dan Leonard, andSammy 
 Chien. Five international artworks will be screened by Kim Asendorf 
-(Germany), Michael Borris (France), Joseph YÃ¸lk Chiocchi(United 
+(Germany), Michael Borris (France), Joseph Yølk Chiocchi(United 
 States of America), Chris Collins (United States of America), and 
 James Hicks (United Kingdom).
 
@@ -646,14 +646,14 @@ VIVO Media Arts Centre is losing its current home with the
 redevelopment of Main Street after 20 years in Mount Pleasant. As 
 we imagine our future, VIVO remains firmly committed to serving the 
 greater cultural ecology of Vancouver and beyond. Help empower 
-the next stage of VIVOâ€™s 40 year commitment to artist-run cultural 
-production, education and dissemination by joining us at VIVOâ€™S AT 
+the next stage of VIVO’s 40 year commitment to artist-run cultural 
+production, education and dissemination by joining us at VIVO’S AT 
 LARGE: OPEN HOUSE.
 
 VIVO invites the public to attend AT LARGE: OPEN HOUSE on 
-Friday, March 28th where weâ€™ll celebrate our accomplishments, 
+Friday, March 28th where we’ll celebrate our accomplishments, 
 explore new directions, and reflect on the past, present and future of 
-VIVO. Contemplate and celebrate VIVOâ€™s commitment with us and 
+VIVO. Contemplate and celebrate VIVO’s commitment with us and 
 enjoy an evening of art, music, food, drink and conversation. Bring 
 your own ideas about the past, present and future of VIVO. We want 
 to hear from you.
@@ -661,7 +661,7 @@ to hear from you.
 Meet with staff, interns, volunteers, legacy members, new artist 
 members, collaborative partners, and the Board of Directors. Enjoy 
 live performances by the Vancouver Experimental Theremin 
-Orchestra, local favourites from VIVOâ€™s critically-acclaimed music 
+Orchestra, local favourites from VIVO’s critically-acclaimed music 
 improvisational series â€œDestroy Vancouver,â€  and take in a rare 
 selection of media arts produced and presented at VIVO over the 
 years.
@@ -673,7 +673,7 @@ ABOUT VIVO Media Arts Centre
 VIVO was incorporated 1973 as the Satellite Video Exchange Society 
 and is remember by any as Video Inn, the first video exchange 
 library, and one of the earliest international video centres and 
-Canadian artist-run centres. VIVOâ€™s mandate is to directly support 
+Canadian artist-run centres. VIVO’s mandate is to directly support 
 artists and independent community-based producers to develop, 
 exchange, and disseminate their skills in a supportive environment 
 through accessible services and programs. Our vision is a robust, 
@@ -731,14 +731,14 @@ Because it's great, and we are Yactac!
 VANCOUVER ART GALLERY | TOUR | Myfanwy MacLeod, Or There 
 and Back Again | March 29, 3pm
 
-Curator & Artistâ€™s Tour
+Curator & Artist’s Tour
 Myfanwy MacLeod, Or There and Back Again
 Saturday, March 29, 3pm
 in the Gallery
 
 Grant Arnold, Audain Curator of British Columbia Art, and artist 
 Myfanwy MacLeod tour two exhibitions Myfanwy MacLoed, Or There 
-and Back Again along with Artistâ€™s Choice: Cock and Bull. Sharing a 
+and Back Again along with Artist’s Choice: Cock and Bull. Sharing a 
 floor, these two exhibitions interweave, bringing a solo exhibition by 
 MacLeod into dialogue with a selection of works from the Gallery 
 collection. Taking a tag-team approach, curator and artist/curator will 
@@ -757,27 +757,27 @@ vanartgallery.bc.ca
 <a href="/instant-coffee/listings/2014-03-27-16-vancouver-art-gallery-exhibition-out-of-sight-mar-29">16. Vancouver Art Gallery | Exhibition: Out of Sight | MAR 29</a>
 ------------------------------------------------------------------------
 Exhibition Out of Sight makes meaningful connections 
-among recent acquisitions in Vancouver Art Galleryâ€™s Permanent 
+among recent acquisitions in Vancouver Art Gallery’s Permanent 
 Collection
 
-March 20, 2014, Vancouver, BC â€“ Opening on March 29, 2014, 
-Vancouver Art Galleryâ€™s new exhibition Out of Sight: New 
-Acquisitions explores artistsâ€™ engagement with ideas around 
+March 20, 2014, Vancouver, BC – Opening on March 29, 2014, 
+Vancouver Art Gallery’s new exhibition Out of Sight: New 
+Acquisitions explores artists’ engagement with ideas around 
 perception and representation. This exhibition features close to 100 
 contemporary and historical works that have been added to the 
-Galleryâ€™s permanent collection in the past three years, the majority of 
+Gallery’s permanent collection in the past three years, the majority of 
 which are on view for the first time.
 
-â€œThe Vancouver Art Gallery is extremely proud of the significant 
+“The Vancouver Art Gallery is extremely proud of the significant 
 growth we have experienced in our permanent collection, and this 
 exhibition is an acknowledgement of some of the recent generous 
 donations that have enriched our holdings,â€  said Kathleen S. Bartels, 
-the Vancouver Art Galleryâ€™s Director. â€œOut of Sight exemplifies our 
-strategy to activate the Galleryâ€™s permanent collection by showcasing 
+the Vancouver Art Gallery’s Director. “Out of Sight exemplifies our 
+strategy to activate the Gallery’s permanent collection by showcasing 
 works in meaningful and engaging ways.â€ 
 
 Artists presented in Out of Sight investigate the ambiguities of 
-perceptionâ€”the imperfect nature of what we see and experienceâ€”by 
+perception—the imperfect nature of what we see and experience—by 
 creating intriguing depictions that exist on the edge of representation. 
 The exhibition was inspired by a recent donation of photographs by 
 visionary scientist and photographer Harold Edgerton. Taking 
@@ -789,7 +789,7 @@ bullet strikes an object or the trajectory of a golf club as it is swung,
 Edgerton extends the capacity of human perception by making time 
 stand still.
 
-â€œTaking Edgertonâ€™s remapping of the possibilities of space and time 
+“Taking Edgerton’s remapping of the possibilities of space and time 
 as a thematic starting point, Out of Sight offers stimulating 
 juxtapositions of contemporary and historical artists who collectively 
 encourage us to reconsider what we see in our everyday 
@@ -805,7 +805,7 @@ Holger Kalberg challenge the conventions of pictorial space, defying
 perspectival depth and creating new spatial possibilities, Robert 
 Youds, Richard Artschwager and Elspeth Pratt use everyday 
 materials to explore perspective, depth and surface, and create 
-visual and physical encounters that confront the viewerâ€™s perception. 
+visual and physical encounters that confront the viewer’s perception. 
 Artists such as Iain Baxter and Diana Thater examine the limits of 
 representation, challenging traditional modes of display and 
 conventional ways of seeing. Angela Grossmann, Monique Fouquet 
@@ -890,7 +890,7 @@ Eli Bornowsky
 Lawren Harris: Canadian Visionary
 7pm, in the Gallery
 
-â€œWhen we realize that every experience comes to us under the 
+“When we realize that every experience comes to us under the 
 universal great law of justice, whether the experience be good or 
 bad, painful or sorrowful, pleasing or otherwise, and that these 
 experiences are but the wrap and woof of the pattern of our lives, we 
@@ -898,13 +898,13 @@ will weave with more skillful fingers the design upon which we wish
 to build.â€ 
 -Lawren Harris
 
-Theosophy played a central role in Lawren Harrisâ€™ late abstract 
+Theosophy played a central role in Lawren Harris’ late abstract 
 paintings, undergirding his turn away from representing the 
 transcendent Canadian landscape toward abstraction. Followers of 
 Theosophy took up a spiritualism that is oriented toward universal 
 brotherhood and a mission to escape from a culture perceived to be 
 pervasively materialist. This talk by Vancouver-based painter Eli 
-Bornowsky discusses the late period of Harrisâ€™s practice and the 
+Bornowsky discusses the late period of Harris’s practice and the 
 influence of spirituality and theosophical pursuits in his artistic 
 process. 
 
@@ -922,7 +922,7 @@ vanartgallery.bc.ca
 Jesse Nishihata - Visual Storyteller (1929 - 2006)
 April 2 - May 4, 2014
 
-Opening Wednesday April 2nd | 7pm â€“ 9pm
+Opening Wednesday April 2nd | 7pm – 9pm
 
 Nikkei National Museum 6688 Southoaks Crescent (at Kingsway & 
 Sperling)
@@ -932,21 +932,21 @@ W: http://centre.nikkeiplace.org/j_nishihata_exhibit/
 Admission by donation
 Parking free
 
-Pioneer, visual poet, and prolific filmmaker, Jesse Nishihata (1929 â€“ 
+Pioneer, visual poet, and prolific filmmaker, Jesse Nishihata (1929 – 
 2006) paved the way for many artists who have followed and has 
-directly inspired leaders in the creative community today. Jesseâ€™s 
+directly inspired leaders in the creative community today. Jesse’s 
 extensive filmography began with hipster journalistic work covering 
-Mods and Rockers in 1964 for CBCâ€™s Other Voices Series. Several 
-critical productions for CBCâ€™s Public Affairs followed between 1966 
+Mods and Rockers in 1964 for CBC’s Other Voices Series. Several 
+critical productions for CBC’s Public Affairs followed between 1966 
 through 1978. In 1977 he earned a Genie award for his seminal 
 work, The Inquiry Film which was a precedent shattering examination 
-of Native rights and economic development in Canadaâ€™s North. 
-Jesseâ€™s first film about the Japanese Canadian WWII experience 
+of Native rights and economic development in Canada’s North. 
+Jesse’s first film about the Japanese Canadian WWII experience 
 Watari Dori: Bird of Passage (1973) was framed around his own 
 family history and in 1989 he produced a video record of the 
 Japanese Canadian fight for Redress in Justice in Our Time: how 
 Redress was won. In this retrospective exhibition, visitors will have 
-an opportunity to select through several films from Jesseâ€™s oeuvre in 
+an opportunity to select through several films from Jesse’s oeuvre in 
 an atmosphere of a private screening.
 
 Additional Programming:
@@ -962,7 +962,7 @@ Department of Art History, Visual Art & Theory, University of British
 Columbia
 
 Rachel Haidu
-â€œGetting Past Difference: Black Audio Film Collective, James 
+“Getting Past Difference: Black Audio Film Collective, James 
 Coleman, Steve McQueenâ€ 
 
 Wednesday, April 2, 2014
@@ -998,7 +998,7 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 
@@ -1026,7 +1026,7 @@ nebulae implying the body is one in a vast sea of stars. The
 photographs interspersed throughout the exhibition ground and 
 confuse the constructed images through the improbable reflections 
 and refractions of colour, light and nature within our constructed 
-world, abstracting how we understand what weâ€™re seeing.
+world, abstracting how we understand what we’re seeing.
 
 Future Cities Shanghai 
 Malcolm Levy 
@@ -1042,7 +1042,7 @@ the larger series 'Other-Frames' which looks to activate the questions
 of what the chip of the camera can reveal in a greater context. The 
 work itself is an activity of searching for unexploited qualities inherent 
 in exploitation; not a defiant negation as with the alternative media 
-originated in the â€™60s, but a manipulation of manipulation.
+originated in the ’60s, but a manipulation of manipulation.
 
 For more information visit www.gallery295.com
 
@@ -1080,11 +1080,11 @@ tendencies in the art of its time, including arte povera, conceptual art
 and post-Minimalism to conceive of curatorial practice as a linguistic 
 medium.
 
-Working with Szeemannâ€™s book as case study, With A Bao A Qu 
+Working with Szeemann’s book as case study, With A Bao A Qu 
 reflects on the form and structure of the artist's book. By stylistically 
 adopting a subjective literary voice, drawn, at least partially, from 
-Jorge Luis Borgesâ€™s Book of Imaginary Beings (published in English 
-in 1969), Fuscoâ€™s book shifts its focus away from the reading of art's 
+Jorge Luis Borges’s Book of Imaginary Beings (published in English 
+in 1969), Fusco’s book shifts its focus away from the reading of art's 
 conceptual properties to that of its physical, material embodiment.
 
 Maria Fusco is a Belfast-born writer, editor and critic. Her research is 
@@ -1099,11 +1099,11 @@ Fusco was the inaugural Writer in Residence at Whitechapel Gallery
 in London, and Critic in Residence at The Kadist Art Foundation in 
 Paris. She was Director of Art Writing at Goldsmiths, University of 
 London where she founded and led MFA Art Writing. Currently, 
-Fusco is a Chancellorâ€™s Fellow at Edinburgh College of Art in 
+Fusco is a Chancellor’s Fellow at Edinburgh College of Art in 
 Scotland.
 
-New Documents is a Vancouver and Los Angelesâ€“based art book 
-publisher operating in collaboration with Vancouverâ€™s Projectile 
+New Documents is a Vancouver and Los Angeles–based art book 
+publisher operating in collaboration with Vancouver’s Projectile 
 Publishing Society.
 
 Maria Fusco is in Vancouver to participate in 'There are reasons for 
@@ -1132,7 +1132,7 @@ Winsor Gallery is pleased to present Concurrent, a group exhibition.
 The premise behind Concurrent is straightforward: twenty of our 
 represented artists to each invite one artist to exhibit alongside them. 
 The result is a micro-simulation that explores the intricacy of 
-relationships between artists and their artwork â€“ and allows each 
+relationships between artists and their artwork – and allows each 
 artist to contextualize their own work in a very direct sense.
 
 Participating artists include Fiona Ackerman + Ron Moppett, Alex 
@@ -1152,7 +1152,7 @@ Vancouver, BC V5T 1A6
 www.winsorgallery.com
 info@winsorgallery.com
 
-Open Tues â€“ Fri, 10-6pm
+Open Tues – Fri, 10-6pm
 Saturdays 10-5pm
 or by appointment
 
@@ -1170,7 +1170,7 @@ Tara Travis & Elizabeth Milton
 Soressa Gardner & Dennis E. Bolen
 
 ongoing projections & digital shorts by
-Manuel PiÃ±a
+Manuel Piña
 Annie Briard
 
 digital shorts by
@@ -1178,7 +1178,7 @@ Dahlačkov
 Kristen Roos, Paolo Pennuti & Elisa Ferrari
 Graham Meisner
 Laura Lamb
-EdÃ©n Bastida Kullick
+Edén Bastida Kullick
 Kate Henderson
 Margaret Dragu
 
@@ -1223,13 +1223,13 @@ garish excesses of popular culture.
 
 Soressa Gardner & Dennis E. Bolen
 return to NSL&G with a new interdisciplinary work, using material 
-from Bolenâ€™s recently published poetry collection Black Liquor to 
+from Bolen’s recently published poetry collection Black Liquor to 
 explore both post-war, working-class malaise and the cynically 
 reasoned present. Gardner is a new music composer and classically 
 trained vocalist. Bolen is a novelist, editor, teacher and journalist (as 
-well as Gardnerâ€™s partner and frequent collaborator).
+well as Gardner’s partner and frequent collaborator).
 
-Manuel PiÃ±a
+Manuel Piña
 is a Vancouver-based artist and teacher originally from Havana, 
 Cuba. Much of his recent work considers the ways in which images 
 are conceived, consumed and understood within digitally mediated 
@@ -1275,11 +1275,11 @@ Laura Lamb
 is a Vancouver-based visual artist originally from Kenora, Ontario. 
 Her work explores the appearance of narrative; the struggle to live 
 authentically; displacement, marginality, utopia and disaster. Before 
-creating the umbrella project and fictive world of Lambâ€™s Performing 
+creating the umbrella project and fictive world of Lamb’s Performing 
 Objects, Laura created bodies of work in video and photography. For 
 NSL&G Lamb presents Bits and Tatters, a recent video work.
 
-EdÃ©n Bastida Kullick
+Edén Bastida Kullick
 is an interdisciplinary artist and doctoral student in Buenos Aires, 
 Argentina (originally from Monterrey, Mexico). For NSL&G he 
 presents Stat US, a short digital film questioning the Puerto Rican 
@@ -1306,7 +1306,7 @@ Neil Eustache
 returns to NSL&G after presenting the interactive Cool Indians On 
 Main Street VIVO Bench last fall with Vancouver-based 
 interdisciplinary artist Charlene Vickers. Eustache, a wannabe Indian 
-extra whoâ€™s seriously part white, will read from his most recent poems 
+extra who’s seriously part white, will read from his most recent poems 
 and other writings.
 
 Jeremy Todd
@@ -1336,9 +1336,9 @@ SPECIAL THANKS to all VIVO Media Arts Centre Staff & Volunteers.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-03-27-24-gallery-295-call-for-submissions-apr-10">24. Gallery 295 | CALL for Submissions | APR 10</a>
 ------------------------------------------------------------------------
-This is an open call for Gallery 295â€™s second annual juried exhibition 
+This is an open call for Gallery 295’s second annual juried exhibition 
 for emerging artists practicing in photography and related mediums. 
-The work in Index is a gathering of some of Vancouverâ€™s most 
+The work in Index is a gathering of some of Vancouver’s most 
 interesting new artists using photography today. This exhibition will 
 not be curated on a theme but rather the work will be chosen on the 
 basis of artistic merit and originality.
@@ -1346,14 +1346,14 @@ basis of artistic merit and originality.
 Index's aim is to give emerging artists one of their first exhibitions in a 
 professional context, showcasing a series of images and their artistic 
 interests. Gallery 295 provides opportunities for artists by engaging 
-with The Labâ€™s facilities and technicians.
+with The Lab’s facilities and technicians.
 
 To apply please email the following information to 
 info@gallery295.com. Please do not send multiple emails or 
 attachments. A single zipped file is preferable. 
 
 - Include Index Submission in the subject line.
-- 10 â€“ 20 images, jpg format, 740 pixels on long side. (Less than 
+- 10 – 20 images, jpg format, 740 pixels on long side. (Less than 
 1mb per file)
 - Image list specifying titles, year, dimensions, medium
 - Project Statement (if applicable) max 300 words
@@ -1398,16 +1398,16 @@ their applications.
 www.futuregenerationartprize.org 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-03-27-26-ubcs-museum-of-anthropology-without-masks-contemporary-afro-">26. UBCâ€™s Museum of Anthropology | Without Masks: Contemporary Afro-Cuban Art | MAY 2</a>
+<a href="/instant-coffee/listings/2014-03-27-26-ubcs-museum-of-anthropology-without-masks-contemporary-afro-">26. UBC’s Museum of Anthropology | Without Masks: Contemporary Afro-Cuban Art | MAY 2</a>
 ------------------------------------------------------------------------
 Without Masks: Contemporary Afro-Cuban Art
 Opens Friday, May 2, 2014
-UBCâ€™s Museum of Anthropology - 6393 NW Marine Drive 
+UBC’s Museum of Anthropology - 6393 NW Marine Drive 
 
 Presented by UBC's Museum of Anthropology, Without Masks: 
 Contemporary Afro-Cuban Art features over 80 Afro-Cuban artworks 
 collected by Chris and Marina von Christierson. Curated by Cuban poet, 
-art critic and curator Orlando HernÃ¡ndez, the exhibition was first shown 
+art critic and curator Orlando Hernández, the exhibition was first shown 
 at the Johannesberg Art Gallery. It explores the ties that link the histories 
 and cultures of Cuba and Africa, and includes works that reflect 
 controversial and conflicting aspects of the Cuban national reality that 

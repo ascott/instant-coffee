@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 5
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Hamza Walker on Altered States | 7PM | AUG 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Judy Chartrand | FEB 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 28
 type: ""
+venue: "HELEN PITT"
 summary: "HELEN PITT | CALL FOR SUBMISSIONS: CURATORIAL RESIDENCIES | FEB 1"
 ---
 

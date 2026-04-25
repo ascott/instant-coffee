@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffeed"
 emailDate: "Thu, 07 Feb 2008 09:20:25 -0800"
 number: 12
 type: ""
+venue: "looking for sublet"
 summary: "looking for sublet | MARCH 1"
 ---
 

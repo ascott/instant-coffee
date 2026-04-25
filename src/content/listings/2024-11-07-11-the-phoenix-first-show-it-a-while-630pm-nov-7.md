@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 11
 type: "OPENING"
+venue: "The Phoenix"
 summary: "The Phoenix | First Show it a While! | 630PM | NOV 7"
 ---
 

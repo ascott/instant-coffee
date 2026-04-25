@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 4
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Myfanwy MacLeod: The Private Life of the Rabbit | OCT 30"
 ---
 

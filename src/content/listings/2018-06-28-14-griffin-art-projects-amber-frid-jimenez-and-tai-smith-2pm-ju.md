@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 14
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Amber Frid-Jimenez and T’ai Smith | 2PM | JUN 30"
 ---
 

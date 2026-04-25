@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: toofur"
 emailDate: "Fri, 25 May 2012 16:00:46 -0700"
 number: 4
 type: ""
+venue: "221A"
 summary: "221A | WHAT A DRAG, Erdem Tasdelen | MAY 25"
 ---
 

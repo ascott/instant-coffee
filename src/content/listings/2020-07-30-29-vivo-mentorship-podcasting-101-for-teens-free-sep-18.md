@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 29
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | MENTORSHIP | Podcasting 101 for Teens (free!) | SEP 18"
 ---
 

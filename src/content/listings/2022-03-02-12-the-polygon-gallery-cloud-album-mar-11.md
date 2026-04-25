@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 12
 type: "EXHIBITION"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Cloud Album | MAR 11"
 ---
 

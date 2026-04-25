@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 9
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | The Living Room | FEB 1"
 ---
 

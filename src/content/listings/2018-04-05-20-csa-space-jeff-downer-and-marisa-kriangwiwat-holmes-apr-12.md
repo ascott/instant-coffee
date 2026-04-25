@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 20
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Jeff Downer and Marisa Kriangwiwat Holmes | APR 12"
 ---
 

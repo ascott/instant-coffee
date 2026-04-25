@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 10
 type: "OPENING"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Churchmouse | NOV 13"
 ---
 

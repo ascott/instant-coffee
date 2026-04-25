@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 8
 type: "EDUCATION"
+venue: "UBC Centre for Cultural Planning and Development"
 summary: "UBC Centre for Cultural Planning and Development | Creative Placemaking | FEB 8"
 ---
 

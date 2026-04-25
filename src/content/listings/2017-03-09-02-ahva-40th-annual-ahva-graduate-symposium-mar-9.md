@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 2
 type: ""
+venue: "AHVA"
 summary: "AHVA | 40th Annual AHVA Graduate Symposium | MAR 9"
 ---
 

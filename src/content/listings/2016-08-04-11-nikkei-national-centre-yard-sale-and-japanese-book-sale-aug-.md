@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 11
 type: "EVENT"
+venue: "Nikkei National Centre"
 summary: "Nikkei National Centre | Yard Sale and Japanese Book Sale | AUG 13"
 ---
 

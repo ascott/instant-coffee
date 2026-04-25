@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 27
 type: "CALL"
+venue: "ECU"
 summary: "ECU | The Leeway Studio Residency | MAR 15"
 ---
 

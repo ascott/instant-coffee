@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 9
 type: ""
+venue: "Other Sights"
 summary: "Other Sights | T&T at Pendulum Gallery | FEB 5"
 ---
 

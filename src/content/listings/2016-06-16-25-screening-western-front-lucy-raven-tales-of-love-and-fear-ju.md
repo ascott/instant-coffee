@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front | Lucy Raven: Tales of Love and Fear | JUN 29"
 ---
 

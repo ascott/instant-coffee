@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 12
 type: ""
+venue: "JOB"
 summary: "JOB | Gallery Gache | JOB POSTING: Programming Coordinator | MAR 16"
 ---
 

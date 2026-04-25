@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 20
 type: "EVENT"
+venue: "211 E Georgia St"
 summary: "211 E Georgia St | Sky Island: an exhibition and event series | JUL 8"
 ---
 

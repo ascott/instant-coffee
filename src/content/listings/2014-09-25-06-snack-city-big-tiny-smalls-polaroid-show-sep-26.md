@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 6
 type: ""
+venue: "Snack City"
 summary: "Snack City | Big Tiny Smalls polaroid show | SEP 26"
 ---
 

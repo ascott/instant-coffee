@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 6
 type: ""
+venue: "W2 Atrium/SFU Woodward's"
 summary: "W2 Atrium/SFU Woodward's | Art, Revolution and Ownership | SEP 8"
 ---
 
@@ -22,8 +23,8 @@ Artist in Conversation with Copyright
 September 8, W2 Atrium/SFU Woodward's
 5:30 & 6:15pm: plastic orchid factory dance performance.
 6:30-9:30pm: Tina Piper (McGill), Laura Murray (Canadian Copyright: 
-A Citizenâ€™s Guide) & Mark Hosler (Negativland) join dancers in an 
-artistsâ€™ talkback and reception to benefit the ALO.
+A Citizen’s Guide) & Mark Hosler (Negativland) join dancers in an 
+artists’ talkback and reception to benefit the ALO.
 
 September 9-11, Waldorf Hotel
 Art installation (part of the New Forms Festival) featuring Diyan 
@@ -40,7 +41,7 @@ conversation and exhibition are open to the public free of charge.
 
 (If you have enough space, this would be our description:)
 
-The Artistsâ€™ Legal Outreach (ALO) in association with New Forms 
+The Artists’ Legal Outreach (ALO) in association with New Forms 
 Festival 2011 and W2 Community Media Arts presents Art, 
 Revolution and Ownership, a multidisciplinary exploration of the 
 ideas that inform art and the law. The performances, exhibitions and 

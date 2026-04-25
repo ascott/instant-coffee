@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 9
 type: "TALK"
+venue: "ODD Gallery"
 summary: "ODD Gallery | Monique Martin | Continuous | 7PM | AUG 20"
 ---
 

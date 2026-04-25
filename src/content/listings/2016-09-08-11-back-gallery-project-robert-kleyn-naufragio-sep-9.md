@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 11
 type: "OPENING"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Robert Kleyn: Naufragio | SEP 9"
 ---
 

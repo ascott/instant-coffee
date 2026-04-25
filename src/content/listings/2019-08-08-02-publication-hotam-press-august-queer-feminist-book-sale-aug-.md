@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 2
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Hotam Press | August Queer + Feminist Book Sale | AUG 1"
 ---
 

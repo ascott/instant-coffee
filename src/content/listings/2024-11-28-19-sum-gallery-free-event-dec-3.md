@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 19
 type: "EVENT"
+venue: "SUM gallery"
 summary: "SUM gallery | Free Event | DEC 3"
 ---
 

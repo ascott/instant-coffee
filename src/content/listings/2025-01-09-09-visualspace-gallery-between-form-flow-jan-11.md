@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 9
 type: "OPENING"
+venue: "VisualSpace Gallery"
 summary: "VisualSpace Gallery | Between Form & Flow | JAN 11"
 ---
 

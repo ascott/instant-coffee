@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Colleen Heslin | NOV 22"
 ---
 

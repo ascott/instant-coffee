@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 45
 type: "OPENING"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Thom Mayne: Constructing the Spontaneous | 1PM | FEB 10"
 ---
 

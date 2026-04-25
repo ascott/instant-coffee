@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 2
 type: "TALK"
+venue: "ECU"
 summary: "ECU | On Edge Readings Series - Carrianne Leung | FEB 19"
 ---
 

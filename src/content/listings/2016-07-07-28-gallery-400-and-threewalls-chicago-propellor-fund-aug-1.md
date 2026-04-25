@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 28
 type: "CALL"
+venue: "Gallery 400 and Threewalls (Chicago)"
 summary: "Gallery 400 and Threewalls (Chicago) | Propellor Fund | AUG 1"
 ---
 

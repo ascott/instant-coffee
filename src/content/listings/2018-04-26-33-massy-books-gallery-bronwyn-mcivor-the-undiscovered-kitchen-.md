@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 33
 type: "OPENING"
+venue: "Massy Books Gallery"
 summary: "Massy Books Gallery | Bronwyn McIvor: The Undiscovered Kitchen | 7-10PM | MAY 3"
 ---
 

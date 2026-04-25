@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 28
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Room of Her Own - Setareh Yasan | 7-10PM | JAN 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 16
 type: ""
+venue: "Franklin Furnace Fund"
 summary: "Franklin Furnace Fund | CALL FOR ARTISTS | APR 1"
 ---
 
@@ -25,7 +26,7 @@ inception in 1985, the FRANKLIN FURNACE FUND has boosted the
 careers of such emerging artists as Tanya Barfield, Patty Chang, Papo 
 Colo, Brody Condon, Karen Finley, John Fleck, Kate Gilmore, Murray 
 Hill, Holly Hughes, Mouchette, Pope.L, Pamela Sneed, Jack Waters, 
-Cathy Weis, and Ricardo Miranda ZuÃ±iga.
+Cathy Weis, and Ricardo Miranda Zuñiga.
 
 Deadline: April 1, 2012
 

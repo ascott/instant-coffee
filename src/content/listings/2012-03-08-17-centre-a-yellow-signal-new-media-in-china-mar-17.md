@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 17
 type: ""
+venue: "Centre A"
 summary: "Centre A | Yellow Signal: New Media in China | MAR 17"
 ---
 

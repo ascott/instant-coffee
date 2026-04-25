@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 23
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | Group Exhibition | until | AUG 18"
 ---
 

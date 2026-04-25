@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 17
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | NEWS! Panel Discussion | MAR 16"
 ---
 
@@ -35,7 +36,7 @@ House Gallery.
 Read more at: www.satellitegallery.ca
 
 Satellite Gallery is located on the second floor of 560 Seymour and is open 
-Wednesday to Saturday 12:00â€“6:00 PM. NEWS! will be showing at Satellite 
+Wednesday to Saturday 12:00–6:00 PM. NEWS! will be showing at Satellite 
 Gallery until March 30th. 
 
 560 Seymour Street, Vancouver, BC, V6B 3J5

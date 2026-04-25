@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 17
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | 6th Annual Oppenheimer Park Community Art Show | OCT 24"
 ---
 

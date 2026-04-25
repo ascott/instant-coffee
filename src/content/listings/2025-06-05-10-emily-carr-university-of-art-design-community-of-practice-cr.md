@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | Community of Practice: Creative Work | JUN 5"
 ---
 

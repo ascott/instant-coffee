@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 25
 type: "EDUCATION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | WVAM! DROP-IN FAMILY ART PROJECT | 12-4 PM | NOV 25"
 ---
 

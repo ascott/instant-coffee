@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 8
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | UNIT/PITT | Christians: improvisations | 730PM | FEB 28"
 ---
 

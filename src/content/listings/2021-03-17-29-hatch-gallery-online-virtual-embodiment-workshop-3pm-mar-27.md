@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 29
 type: "EDUCATION"
+venue: "Hatch Gallery [ONLINE]"
 summary: "Hatch Gallery [ONLINE] | Virtual Embodiment Workshop | 3PM | MAR 27"
 ---
 

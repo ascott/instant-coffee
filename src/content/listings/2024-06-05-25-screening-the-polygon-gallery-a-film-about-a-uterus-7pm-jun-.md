@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Polygon Gallery | a film about a uterus | 7PM | JUN 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 43
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Ceramics: Bas-relief | JUL 9"
 ---
 

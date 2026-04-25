@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 28
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | NOT SENT LETTERS & GUESTS | MAR 5"
 ---
 

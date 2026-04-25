@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 18
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Feminist Land Art Retreat: Free Rein | MAY 30"
 ---
 

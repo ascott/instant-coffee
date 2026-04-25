@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 12
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in Mandarin | 3 pm | DEC 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 16
 type: "TALK"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Scott Sueme with Pennylane Shen | 1PM | NOV 9"
 ---
 

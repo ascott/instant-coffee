@@ -4,19 +4,20 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 13
 type: ""
+venue: "Flaggfabrikken, Norway"
 summary: "Flaggfabrikken, Norway | Curatron Mansion Residency | JUN 15"
 ---
 
-Flaggfabrikken â€“ Center for Contemporary Art
+Flaggfabrikken – Center for Contemporary Art
 Curatron Mansion Residency
 
 Supported by the Municipality of Bergen
 
-October 14â€“November 11, 2014
+October 14–November 11, 2014
 
 Apply by: June 15
 
-Flaggfabrikken â€“ Center for Contemporary Art 
+Flaggfabrikken – Center for Contemporary Art 
 Mollendalsveien 17
 5009 Bergen
 Norway
@@ -27,7 +28,7 @@ flaggfabrikken.net
 Share this: Facebook | Twitter
 Curatron Mansion Residency 
 
-Flaggfabrikken â€“ Center for Contemporary Art is offering the opportunity to 
+Flaggfabrikken – Center for Contemporary Art is offering the opportunity to 
 undertake a one-month residency for four artists in Bergen, Norway. With the 
 financial support from the municipality of Bergen we will offer each artist a 
 studio, accommodation, paid travel expenses and a daily allowance during 
@@ -42,7 +43,7 @@ Group, Bergen Center for Electronic Arts and SOMA.
 During the residency the artist will be expected to give a small talk on his/her 
 work for local artists and curators.
 
-Curatronâ€”selection process 
+Curatron—selection process 
 We will be using the Curatron software system as our method to define the 
 artists within the group of the residency. Curatron is an online software tool 
 developed to involve artists directly in the curatorial selection process. Each 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 30
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Marian Penner Bancroft radial systems | MAR 9"
 ---
 

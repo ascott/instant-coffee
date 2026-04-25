@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | The 3 Rooms of Melancholia | JUN 6"
 ---
 

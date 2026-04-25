@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 36
 type: "OPENING"
+venue: "South Main Gallery"
 summary: "South Main Gallery | some body, anybody | 3-6PM | MAR 2"
 ---
 

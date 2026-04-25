@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 26
 type: ""
+venue: "ECU"
 summary: "ECU | Visual Art Forums | Duane Linklater | NOV 17"
 ---
 
@@ -15,7 +16,7 @@ Please join us for an Artist Talk by Duane Linklater, on the occasion of his
 solo exhibition at Catriona Jeffries opening on Friday, November 14, 
 2014.
 
-Duane Linklater is OmaskÃªko Cree, from Moose Cree First Nation in 
+Duane Linklater is Omaskêko Cree, from Moose Cree First Nation in 
 Northern Ontario and is currently based in North Bay, Ontario. He was 
 educated at the University of Alberta, receiving a Bachelor of Native 
 Studies and a Bachelor of Fine Arts. Duane attended the Milton Avery 

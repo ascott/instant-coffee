@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 20
 type: "TALK"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | Pegah Tabassinejad & Olumoroti Soji-George | 230PM | NOV 9"
 ---
 

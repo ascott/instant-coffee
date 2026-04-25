@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 8
 type: "TALK"
+venue: "Pollyanna Library @ 221A"
 summary: "Pollyanna Library @ 221A | SFU Book + Speaker Series | 6-9PM | NOV 15"
 ---
 

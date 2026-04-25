@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 22
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | 1080p @ Wise Hall | CFCF w/ RAMZI + Din Sink | AUG 21"
 ---
 

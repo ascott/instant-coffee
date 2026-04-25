@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feels something akin to shy in you
 emailDate: "Thu, 31 Jul 2014 12:37:30 -0700"
 number: 19
 type: ""
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | Norte, Hangganan Ng Kasaysayan - Film Screening | AUG 14"
 ---
 

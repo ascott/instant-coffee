@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 38
 type: ""
+venue: "JOB"
 summary: "JOB | The Contemporary Art Gallery | Learning and Public Engagement Assistant | MAY 1"
 ---
 

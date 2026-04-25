@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 11
 type: ""
+venue: "UBC 2012 BFA/BA Visual Art Graduating Exhibition"
 summary: "UBC 2012 BFA/BA Visual Art Graduating Exhibition | TOO DEEP FOR YOU | APR 19"
 ---
 

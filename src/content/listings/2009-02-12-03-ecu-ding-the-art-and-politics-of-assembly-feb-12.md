@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 3
 type: ""
+venue: "ECU"
 summary: "ECU | DING: the Art and Politics of Assembly | FEB 12"
 ---
 

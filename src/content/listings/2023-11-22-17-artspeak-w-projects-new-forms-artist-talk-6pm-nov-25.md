@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 17
 type: "TALK"
+venue: "Artspeak @ W Projects"
 summary: "Artspeak @ W Projects | New Forms artist talk | 6PM | NOV 25"
 ---
 

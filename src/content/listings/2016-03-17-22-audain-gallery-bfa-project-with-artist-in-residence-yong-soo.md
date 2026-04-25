@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 22
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | BFA Project with Artist in Residence Yong Soon Min | MAR 23"
 ---
 

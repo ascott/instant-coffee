@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 13
 type: ""
+venue: "Theatre, UBC Robson Square"
 summary: "Theatre, UBC Robson Square | Report from Venice! – Architects Against Housing A | OCT 10"
 ---
 

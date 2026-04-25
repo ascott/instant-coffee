@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 7
 type: ""
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | ALL THE ROTTEN EGGS IN ONE BASKET | FEB 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 12
 type: "CALL"
+venue: "Branscombe House Artist Residency Program"
 summary: "Branscombe House Artist Residency Program | Call for Proposals | MAY 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 36
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Western Front | Concert | 8PM | MAR 15"
 ---
 

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 18
 type: ""
+venue: "Centre for Art Tapes"
 summary: "Centre for Art Tapes | CALL: Animation With Love | DEC 31"
 ---
 
 Call for Submissions:
 Animation With Love
-Currated by: SiloÃ«n Daley and Dylan Edwards
+Currated by: Siloën Daley and Dylan Edwards
 The program will showcase short animated media that expresses a heartfelt
 personal investment on the part of the artists. We are looking for potent
 work that either taps the creative potential of the animation artform,

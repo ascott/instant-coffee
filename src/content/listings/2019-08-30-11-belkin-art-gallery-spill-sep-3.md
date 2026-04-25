@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | SPILL | SEP 3"
 ---
 

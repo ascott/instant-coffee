@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Her Body Will Remember | JUN 22"
 ---
 

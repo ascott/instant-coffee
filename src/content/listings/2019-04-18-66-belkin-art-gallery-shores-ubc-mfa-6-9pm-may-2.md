@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 66
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | SHORES: UBC MFA | 6-9PM | MAY 2"
 ---
 

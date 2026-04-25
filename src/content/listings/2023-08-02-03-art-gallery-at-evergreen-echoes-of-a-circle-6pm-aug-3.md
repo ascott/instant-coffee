@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 3
 type: "OPENING"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Echoes of a Circle | 6PM | AUG 3"
 ---
 

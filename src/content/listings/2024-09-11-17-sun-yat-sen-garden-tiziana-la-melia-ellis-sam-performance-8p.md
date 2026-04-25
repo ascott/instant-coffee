@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 17
 type: "EVENT"
+venue: "Sun Yat-Sen Garden"
 summary: "Sun Yat-Sen Garden | Tiziana La Melia & Ellis Sam performance | 8PM | SEP 14"
 ---
 

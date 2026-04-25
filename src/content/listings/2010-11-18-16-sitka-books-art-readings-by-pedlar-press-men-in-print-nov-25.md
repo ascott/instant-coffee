@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 16
 type: ""
+venue: "Sitka Books & Art"
 summary: "Sitka Books & Art | readings by Pedlar Press \"Men In Print.\" | NOV 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 2
 type: ""
+venue: "Exercise"
 summary: "Exercise | Marina Pinsky | OCT 5"
 ---
 

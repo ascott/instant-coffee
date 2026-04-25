@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 22
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Singing Water Stone | 6PM | JAN 22"
 ---
 

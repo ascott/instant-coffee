@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 14
 type: ""
+venue: "DOWN ON THE CORNER"
 summary: "DOWN ON THE CORNER | JONATHAN SYME | JAN 19"
 ---
 

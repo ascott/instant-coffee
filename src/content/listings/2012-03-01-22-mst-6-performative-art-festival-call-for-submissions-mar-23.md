@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 22
 type: ""
+venue: "M:ST 6 Performative Art Festival"
 summary: "M:ST 6 Performative Art Festival | Call for Submissions | MAR 23"
 ---
 

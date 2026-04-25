@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 12
 type: ""
+venue: "WESTERN FRONT"
 summary: "WESTERN FRONT | Variety Show Television | OCT 13"
 ---
 
 Variety Show Television | Saturday October 13th 
 
-A FREE two-part presentation on artistâ€™s experimental television 
+A FREE two-part presentation on artist’s experimental television 
 practices.
 
 Part 1: Show Talk will feature a rare opportunity to see highlights from 

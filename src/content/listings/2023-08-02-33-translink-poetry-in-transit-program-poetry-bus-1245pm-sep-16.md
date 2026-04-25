@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 33
 type: "EVENT"
+venue: "TransLink"
 summary: "TransLink | Poetry in Transit Program - Poetry Bus! | 1245PM | SEP 16"
 ---
 

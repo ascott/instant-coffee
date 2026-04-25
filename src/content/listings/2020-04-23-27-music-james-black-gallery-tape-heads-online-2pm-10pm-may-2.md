@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 27
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | James Black Gallery | Tape Heads Online | 2PM-10PM | MAY 2"
 ---
 

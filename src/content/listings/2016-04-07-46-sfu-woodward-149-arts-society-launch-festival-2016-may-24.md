@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 46
 type: "CALL"
+venue: "SFU Woodward & 149 Arts Society"
 summary: "SFU Woodward & 149 Arts Society | LAUNCH! Festival 2016 | MAY 24"
 ---
 

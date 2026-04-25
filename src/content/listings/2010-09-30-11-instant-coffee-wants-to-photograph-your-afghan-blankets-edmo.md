@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 11
 type: ""
+venue: "INSTANT COFFEE"
 summary: "INSTANT COFFEE | wants to photograph your afghan blankets, Edmonton | OCT 7"
 ---
 
@@ -15,7 +16,7 @@ A Public Call and Event
 
 The artist collective Instant Coffee would like to photograph your favourite
 afghan blankets. The resulting photographs will be used as part of a public
-art commission for EdmontonÂ¹s New North Central Community Recreation Centre.
+art commission for Edmonton¹s New North Central Community Recreation Centre.
 
 The afghan blanket with its erratic and saturated palette, its repetitive
 patterns and grid forms became a common household craft and item in North

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 30
 type: "EVENT"
+venue: "Cineworks"
 summary: "Cineworks | Text to Speech - Donna Haraway | 7-930PM | OCT 16"
 ---
 

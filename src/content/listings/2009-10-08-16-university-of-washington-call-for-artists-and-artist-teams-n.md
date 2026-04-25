@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: on the count of three"
 emailDate: "Thu, 08 Oct 2009 09:24:10 -0700"
 number: 16
 type: ""
+venue: "University of Washington"
 summary: "University of Washington | Call for Artists and Artist Teams | NOV 9"
 ---
 

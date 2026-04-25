@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 14
 type: ""
+venue: "DIM Cinema"
 summary: "DIM Cinema | The Permanent Longing for Elsewhere | MAR 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 3
 type: "OPENING"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Bouquet for flowers Scott Kemp | 630PM | MAR 13"
 ---
 

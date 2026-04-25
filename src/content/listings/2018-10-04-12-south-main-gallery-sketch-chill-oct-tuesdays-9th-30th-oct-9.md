@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 12
 type: "EDUCATION"
+venue: "South Main Gallery"
 summary: "South Main Gallery | Sketch & Chill | OCT Tuesdays 9th-30th | OCT 9"
 ---
 

@@ -67,7 +67,7 @@ Dennis Ha, Peggy & Karen Ngan
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-11-03-02-centre-a-maraya-website-launch-and-exhibition-opening-nov-4">02. Centre A | Maraya website launch and exhibition opening | NOV 4</a>
 ------------------------------------------------------------------------
-8:00 â€“ 10:30 pm
+8:00 – 10:30 pm
 
 Maraya website launch and exhibition opening.
 
@@ -199,9 +199,9 @@ http://www.ellacollier.com/
 Friday, November 4 - 8:00pm -11:00pm - FREE
 BLIM ART SHOW (November 2011)
 Blim presents:
-Letâ€™s Happy
+Let’s Happy
 New Work by Lee Hutzulak and Aaron Read
-LEE HUTZULAK The collection of images Lee presents with Letâ€™s Happy 
+LEE HUTZULAK The collection of images Lee presents with Let’s Happy 
 continues a trajectory started in 2001 when he aban- doned graphite as a 
 medium of choice in favour of coloured pens, ink and acrylic paint. More recently 
 he has shifted focus from pens to brush, looking for more painterly effects and a 
@@ -216,20 +216,20 @@ with his music, it is an instinctual, intel- lectual counterpoint to the metaphy
 poetry of the image. Many of these paintings were made while visiting family in 
 Japan this fall, and the culture has infused both the words and the images found 
 in this new work.
-AARON READ The drawings selected for Letâ€™s Happy are that of a strange cast. 
+AARON READ The drawings selected for Let’s Happy are that of a strange cast. 
 Ghouls, vapors, schemers, thieves, and alche- mists: these figures roam 
-through an unnamed and treacherous landscape â€“ only defined by a system of 
+through an unnamed and treacherous landscape – only defined by a system of 
 signs and clues. At every turn the existence of these strange beings is 
 imbalanced. Casual encounters turn to commu- nal transmutations, a casual 
-stroll subverts normalcy into an unexpected â€˜mind trapâ€™. Their world is as 
+stroll subverts normalcy into an unexpected ‘mind trap’. Their world is as 
 treacher- ous as ours, and they are all looking for parallel answers: a reason for 
 their confusing ephemeral existence, a sense of peace.
 --
-Opening: Friday, November 4 - 8 â€“ 11pm | Show Runs November 4-26. 
+Opening: Friday, November 4 - 8 – 11pm | Show Runs November 4-26. 
 OPENING NIGHT ONLY: FIELD SONGS FROM THE DEAD OF NIGHT | Lee 
 Hutzulak An immersive, multi-channel soundscape featuring field recordings of 
 crickets gathered while on a recent trip to Japan. Driving in from the train station I 
-assumed there was a problem with the car and asked about. It wasnâ€™t until we 
+assumed there was a problem with the car and asked about. It wasn’t until we 
 had arrived at our semi rural/suburban destination, parked the car and the noise 
 continued that I realized the sound was coming from everywhere. Field recording 
 gold! I selected several locations in the nearby farmer fields for their distinct 
@@ -255,27 +255,27 @@ www.blim.ca
 
 TONIK WOJTYRA
 Paragraph of Possibility
-November 5th â€“ December 17th, 2011
+November 5th – December 17th, 2011
 
 Join us for our opening reception: Saturday, November 5th, 4pm
 
 New Location: 222 E. Georgia St.
 
-Gallery Hours: Tues. â€“ Sat. 12-5pm
+Gallery Hours: Tues. – Sat. 12-5pm
 â€œI have a dream today!â€  â€“ Martin Luther King Jr.
 
-â€œAnd so the three possibilities I have mentioned have always stood before man 
+“And so the three possibilities I have mentioned have always stood before man 
 whenever he has encountered an Other: he could choose war, he could fence 
 himself in behind a wall, or he could start up a dialogue.â€  â€“ Ryszard Kapuścinski
 
-Access Gallery presents Paragraph of Possibility â€“ a public art project by 
+Access Gallery presents Paragraph of Possibility – a public art project by 
 Vancouver-based artist Tonik Wojtyra.
 
 Paragraph of Possibility takes intellectual shape as a collaborative writing 
 exercise and public art sculpture. Wojtyra has worked to shape the project with 
 the imaginations of the residents of Ross House, participants of a drop-in-art 
 class at the Urban Native Youth Association (UNYA), Bombast Furniture, and 
-the staff of Access Gallery. Weaving these strands of communities, Wojtyraâ€™s 
+the staff of Access Gallery. Weaving these strands of communities, Wojtyra’s 
 exhibition is a milestone in a potentially never-ending narrative identifying our 
 collective dreams.
 Paragraph of Possibility was written primarily working with two disparate 
@@ -289,15 +289,15 @@ politics; it will be distributed throughout Vancouver as a poster.
 The installed exhibition at Access Gallery creates a further space for 
 collaboration and represents the paragraph aesthetically. Wojtyra has produced 
 a series of works in response to the text of the paragraph including a 
-collaborative sculpture with UNYA and a round-table with Bombastâ€™s Russell 
-Baker. The table serves to extend the projectâ€™s dialogue to a wider audience via 
-a series of round-table discussions developed with Access Galleryâ€™s Director 
+collaborative sculpture with UNYA and a round-table with Bombast’s Russell 
+Baker. The table serves to extend the project’s dialogue to a wider audience via 
+a series of round-table discussions developed with Access Gallery’s Director 
 Shaun Dacey. The forum series aims to discuss the future of our global 
 imaginary, public space, our youth, local community and Art. Oscillating 
 between the intimately local and the publicly global, the round-tables will 
 address the roles artists play in communities like the DTES.
 
-Access Gallery gratefully acknowledges support from the City of Vancouverâ€™s 
+Access Gallery gratefully acknowledges support from the City of Vancouver’s 
 125th Anniversary Grants Program and the participation of the Government of 
 Canada, the Canada Council for the Arts, BC Arts Council, our members and 
 volunteers. Access is a member of the Pacific Association of Artist Run 
@@ -320,7 +320,7 @@ experience and expertise in navigating and approaching public and
 private organizations for funding. This seminar is geared towards artists, 
 curators, community-based artist initiatives, and arts organizations.
 
-Nov 5th 10am â€“ 1pm $27.00
+Nov 5th 10am – 1pm $27.00
 Burnaby Art Gallery
 
 burnabyartgallery.ca
@@ -371,7 +371,7 @@ adding richness to domestic routine.
 
 Keith Rice-Jones, sculptor builds and assembles both hard edged and softer 
 organic forms whose edges, surfaces and spaces create rhythms and repeated 
-patterns. Keithâ€™s design training is rooted in the Arts and Crafts tradition but he is 
+patterns. Keith’s design training is rooted in the Arts and Crafts tradition but he is 
 also influenced by Bauhaus and modernism.
 
 -30-1277 Lynn Valley Rd
@@ -408,7 +408,7 @@ Reception: Thursday November 10, 7-10 pm
 
 Kathryn Alder, Paige Armstrong, Sophia Bartholomew, Liesel Baumann, John 
 Baziuk, Samantha Bullis, Dan Fagan, Lily Jones, Cliff Sun, Monique Wells, 
-Gamze YalÃ§in, Jimmy Yao
+Gamze Yalçin, Jimmy Yao
 
 In "Anaesthetics: Walter Benjamin's Artwork Essay Reconsidered," Susan Buck 
 Morss summarizes Benjamin's concerns at the end of "The Work of Art in the 
@@ -472,7 +472,7 @@ Harjap Grewal is an anti-authoritarian organizer/activist based in
 Vancouver, Coast Salish Territories, working with the No One Is Illegal 
 collective and various local campaigns. He organizes within the local 
 South Asian community, with communities of color, and in solidarity 
-with indigenous sovereignty struggles. Harjapâ€™s environmental activism 
+with indigenous sovereignty struggles. Harjap’s environmental activism 
 has been primarily in support of indigenous communities, and against 
 the Alberta Tar Sands development and infrastructure. In recent years, 
 he has done workshops and presentations on the economic crisis, the 
@@ -504,7 +504,7 @@ published numerous articles and chapters in the areas of
 contemporary political theory, indigenous thought and politics, and 
 radical social and political thought (marxism, anarchism, post-
 colonialism). His most recent work on Frantz Fanon and the politics of 
-recognition won Contemporary Political Theoryâ€™s Annual Award for 
+recognition won Contemporary Political Theory’s Annual Award for 
 Best Article of the Year in 2007, and he is currently writing about the 
 transformational value of "revenge" in relation to indigenous and anti-
 colonial struggles. He is Yellowknives Dene. He will speak about his 
@@ -566,14 +566,14 @@ exhibited in galleries such as Deitch Projects in New York, Peres Projects in Lo
 Angeles, Deste Foundation Center for Contemporary Art in Athens and was 
 included in the 2010 Whitney Biennial at the Whitney Museum of American Art.
 
-Aurel Schmidtâ€™s intricately detailed drawings include objects and creatures such 
+Aurel Schmidt’s intricately detailed drawings include objects and creatures such 
 as flies, condoms, and cigarette butts that are pieced together to form larger 
 figures. Through exquisite draftsmanship, Schmidt questions conventions of 
 beauty and masculinity as well as standard associations with decomposition, 
 rot, and refuse. She relates her interest in finding the beauty in ugliness to the 
 idea of the human condition as a cyclical process of renewal and decay. By 
-using the detritus of our lives as the building blocks for her subjects, Schmidtâ€™s 
-work becomes a sort of memento moriâ€”a reminder of our own vulnerability and 
+using the detritus of our lives as the building blocks for her subjects, Schmidt’s 
+work becomes a sort of memento mori—a reminder of our own vulnerability and 
 mortality
 
 -- 
@@ -612,8 +612,8 @@ and drawing.
 
 Poemitron is a software program Gay developed in collaboration with her 
 brother and particle physicist Colin Gay. The program randomly selects a word 
-in a text and replaces it with a synonym from the programâ€™s database. This 
-process takes place in real time. Gayâ€™s work spampoet is a computer projection 
+in a text and replaces it with a synonym from the program’s database. This 
+process takes place in real time. Gay’s work spampoet is a computer projection 
 in which the artist collected spam, texts from junk email, and processed them 
 using the Peomitron software. This creates a text that is continuously altering 
 and results in surprising combinations of words, often creating unexpected 
@@ -675,7 +675,7 @@ participation and dispersal.
 
 In this expanded field of art and interaction, curators, institutions and 
 artists themselves have shifted their relationship to the creative 
-processâ€”and the display and creation of public art. This series of talks 
+process—and the display and creation of public art. This series of talks 
 will address some of these perspectives; from the evolution of 
 curatorial practices beyond gallery walls, to artists engaging with civic 
 infrastructure, to mapping the open-ended, transient nature of 
@@ -698,9 +698,9 @@ the participation of Gilles Poulin-Denis.  
 Originally from Quebec City, Samuel Roy-Bois is currently residing in 
 Vancouver. His solo exhibitions include Polarizer, Southern Alberta Art 
 Gallery, 2009, Let us, then, be up an doing..., Contemporary Art 
-Gallery, Vancouver, 2008; Divertissements, Point Ã©phÃ©mÃ¨re, Paris, 
-2007; Improbable and ridiculous, MusÃ©e dâ€™art contemporain de 
-MontrÃ©al, 2006.
+Gallery, Vancouver, 2008; Divertissements, Point éphémère, Paris, 
+2007; Improbable and ridiculous, Musée d’art contemporain de 
+Montréal, 2006.
 
 Also in this series...
 
@@ -780,8 +780,8 @@ the second exhibition in his apartments series, Henry (Have you ever been this
 low?), Lee has developed a new body of work including his well-known hand 
 painted cloths and newer cardboard paintings. These works will be arranged in 
 the loose setting of a domestic environment, inhabited by an absent character 
-who is partially inspired by an unpopular civic politician from Leeâ€™s home city of 
-Hong Kong. The exhibition will encapsulate the emotions of a scorned manâ€”
+who is partially inspired by an unpopular civic politician from Lee’s home city of 
+Hong Kong. The exhibition will encapsulate the emotions of a scorned man—
 where the accumulated shame and guilt of an ostracized public figure can be 
 reflected upon.
 
@@ -789,7 +789,7 @@ Lee Kit is an artist who lives and works in Hong Kong. His work has previously
 been exhibited at Art Basel | Art Statements 42 (Basel), ShugoArts (Tokyo), MiArt 
 (Milan), Bonier Konsthal (Stockholm), Royal College of Art (London) and 
 Para/Site (Hong Kong). Upcoming solo exhibitions will take place at Project Fulfill 
-Space (Taipei) and Galleria Dellâ€™Arco (Palermo). 
+Space (Taipei) and Galleria Dell’Arco (Palermo). 
 
 With thanks to the Osage Art Foundation for their generous support of this 
 exhibition
@@ -807,14 +807,14 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free 
 
 Copyright (C) 2011 Western Front Society All rights reserved 
 
-Sent to j.papararo@contemporaryartgallery.ca â€” why did I get this? 
+Sent to j.papararo@contemporaryartgallery.ca — why did I get this? 
 unsubscribe from this list | update subscription preferences 
-Western Front Society â€¢ 303 East 8th Ave. â€¢ Vancouver, BC V5T 1S1 
+Western Front Society • 303 East 8th Ave. • Vancouver, BC V5T 1S1 
 
 
 
@@ -878,20 +878,20 @@ Sound Thinking Symposium
 
 Surrey Art Gallery
 
-Sunday November 20, 12â€“5pm
+Sunday November 20, 12–5pm
 
 Voices in museums and galleries around the world, are not only 
-speaking about art â€“ they may be forms of art. Spoken dialogue, song, 
+speaking about art – they may be forms of art. Spoken dialogue, song, 
 and non-verbal sounds have much to tell us about what it means to be 
 human today. These meanings shift when situated as art works in 
-museums and galleries. Surrey Art Galleryâ€™s symposium Active Voice: 
+museums and galleries. Surrey Art Gallery’s symposium Active Voice: 
 Vocality as Medium, Object and Material explores this subject. It brings 
 together an eclectic group of sound artists, visual artists, performers, 
 and writers who work across a range of methods and a number of 
 practices devoted to the exploration of sound and the visual arts. 
-Sound Thinking 2011 is part of the Galleryâ€™s Open Sound program, 
+Sound Thinking 2011 is part of the Gallery’s Open Sound program, 
 and takes place at the Surrey Art Gallery on Sunday, November 20, 
-12â€“5pm. Admission is free. Seating is limited.
+12–5pm. Admission is free. Seating is limited.
 
 More than just a vehicle for communication, the voice defines and 
 determines individuals, it can play with the borders of sense and 
@@ -909,7 +909,7 @@ Ottawa-based artist Dipna Horra will discuss transmigration and vocal
 art; and Judy Radul will talk on art, voice and the courtroom in addition 
 to her work with voice more broadly. Prolific London, UK-based scholar 
 Steven Connor will give the keynote Broken Voices, which addresses 
-noises in the voice â€“ such as whispers, slurps, pops, wheezes â€“ that 
+noises in the voice – such as whispers, slurps, pops, wheezes – that 
 tend to be overlooked in accounts of the voice as meaning or 
 expression. Experimental vocal performances will be premiered by Lief 
 Hall and Karilynn Ming Ho.
@@ -927,18 +927,18 @@ Performances: by Karilynn Ming Ho and Lief Hall
 Conveners: Lisa Coulthard (UBC, Film Studies) and Jordan Strom 
 (Curator, Surrey Art Gallery)
 
-Admission is free â€“ donations to the Gallery are welcome
+Admission is free – donations to the Gallery are welcome
 
 Sound Thinking 2011 is presented in conjunction with Open Sound: 
 Nests Built by Birds, a series of sound art installations situated in the 
-Surrey Art Centreâ€™s public spaces that foreground the innovative use of 
+Surrey Art Centre’s public spaces that foreground the innovative use of 
 voice through mediated forms of speech and song. The artists in this 
-yearâ€™s Open Sound exhibition are Andrea Young and Andre Cormier, 
+year’s Open Sound exhibition are Andrea Young and Andre Cormier, 
 Ellen Moffat, and Dipna Horra.
 
 About Sound Thinking
 
-Founded in 2008, the Surrey Art Galleryâ€™s Sound Thinking symposium 
+Founded in 2008, the Surrey Art Gallery’s Sound Thinking symposium 
 is an annual one day event which brings together practitioners and 
 professionals in the field of sound art. The symposium features leading 
 sound artists, scholars and researchers in the field sound studies, 
@@ -1115,7 +1115,7 @@ Unstable Natures
 
 Latitude 53, March 2012
 
-The ADGSA is excited to host Unstable Natures at Latitude 53, one of Albertaâ€™s 
+The ADGSA is excited to host Unstable Natures at Latitude 53, one of Alberta’s 
 leading
 contemporary art centres. We are currently seeking innovative new artworks by 
 current and recent
@@ -1151,7 +1151,7 @@ We are currently applying for grants to meet the CARFAC artist fee schedule.
 Shipping fees will be
 paid by the artist. Submission materials will not be returned. Please send 
 required materials to
-unstablenatures@gmail.com with the subject heading â€œUnstable Natures 
+unstablenatures@gmail.com with the subject heading “Unstable Natures 
 Submissionâ€  by December 19,
 2011. You may also mail a CD submission to:
 

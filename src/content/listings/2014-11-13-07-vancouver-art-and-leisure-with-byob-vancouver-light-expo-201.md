@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 7
 type: "EVENT"
+venue: "Vancouver Art and Leisure with BYOB"
 summary: "Vancouver Art and Leisure with BYOB | Vancouver Light Expo 2014 | NOV 14"
 ---
 
@@ -69,7 +70,7 @@ Heartbeats
 
 Curated by Ashlee Luk
 
-â€œBYOB is a series of one-night-exhibitions curated by different people
+“BYOB is a series of one-night-exhibitions curated by different people
 around the world. The idea is simple: Find a place, invite many artists,
 ask them to bring their projectors."
 

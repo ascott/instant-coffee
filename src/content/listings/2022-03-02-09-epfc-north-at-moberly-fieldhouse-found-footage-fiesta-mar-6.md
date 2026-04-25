@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 9
 type: "EVENT"
+venue: "EPFC North at Moberly Fieldhouse"
 summary: "EPFC North at Moberly Fieldhouse | Found Footage Fiesta | MAR 6"
 ---
 

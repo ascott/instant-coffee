@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 9
 type: "OPENING"
+venue: "Spare Room"
 summary: "Spare Room | Peter Ullstrom | Layout | APR 7"
 ---
 

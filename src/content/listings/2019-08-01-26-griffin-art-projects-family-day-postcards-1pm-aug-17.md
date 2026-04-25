@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 26
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Family Day: Postcards | 1PM | AUG 17"
 ---
 

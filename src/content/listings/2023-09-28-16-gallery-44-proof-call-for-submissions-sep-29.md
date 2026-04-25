@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 16
 type: "CALL"
+venue: "Gallery 44"
 summary: "Gallery 44 | Proof | Call for Submissions | SEP 29"
 ---
 

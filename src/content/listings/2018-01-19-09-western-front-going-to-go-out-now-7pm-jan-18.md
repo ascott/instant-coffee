@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 9
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | going to go out now | 7pm | JAN 18"
 ---
 

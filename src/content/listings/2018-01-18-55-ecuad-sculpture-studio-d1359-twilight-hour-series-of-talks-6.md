@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 55
 type: "TALK"
+venue: "ECUAD - Sculpture Studio D1359"
 summary: "ECUAD - Sculpture Studio D1359 | Twilight Hour - series of talks | 6pm | FEB 21"
 ---
 

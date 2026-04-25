@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 14
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | Marian Penner Bancroft | NOV 7"
 ---
 
@@ -38,7 +39,7 @@ Canadian and international artists. The gallery's roster includes artists workin
 in installation, video, sculpture, photography, mixed media, and contemporary 
 painting. A number of our artists work internationally, including recent 
 residencies and exhibitions in Spain, Denmark, Germany, France, and the 
-United States. Republic Gallery recently took part in Papier 13 in MontrÃ©al.
+United States. Republic Gallery recently took part in Papier 13 in Montréal.
 
 
 For more information please contact us by phone at 604.632.1590 or by email 

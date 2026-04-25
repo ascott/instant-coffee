@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 35
 type: "TALK"
+venue: "The Dance Centre [ONLINE]"
 summary: "The Dance Centre [ONLINE] | An Artist-in-Residence Online Studio Showing | 5PM | APR 6"
 ---
 

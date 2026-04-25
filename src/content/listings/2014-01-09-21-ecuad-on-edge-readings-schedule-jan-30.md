@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 21
 type: ""
+venue: "ECUAD: On Edge"
 summary: "ECUAD: On Edge | readings schedule | JAN 30"
 ---
 
@@ -11,11 +12,11 @@ On Edge readings schedule.
 
 All readings are at 7 pm on Thursdays in SB 406 at Emily Carr:
 
-Jan 30 â€“Daniela Elza + Gillian Jerome 
-Feb 27 â€“Adrienne Fitzpatrick + Veena Gokhale 
+Jan 30 –Daniela Elza + Gillian Jerome 
+Feb 27 –Adrienne Fitzpatrick + Veena Gokhale 
 March 6 - Gerry Shikatani 
-Mar 13 â€“ Daniel Heath Justice + Jeremy Tankard 
-Mar 27 â€“ Roger Farr + Rob Budde 
+Mar 13 – Daniel Heath Justice + Jeremy Tankard 
+Mar 27 – Roger Farr + Rob Budde 
 
 Author bios:
 
@@ -29,7 +30,7 @@ helps run the Twisted Poets Reading Series, and is on the board of the
 Capilano Review. Daniela will be the 2014 Writer-In-Residence at the 
 University of the Fraser Valley.
 
-Gillian Jeromeâ€™s first book of non-fiction Hope In Shadows, Stories and 
+Gillian Jerome’s first book of non-fiction Hope In Shadows, Stories and 
 Photographs from Vancouver's Downtown Eastside (with Brad Cran) 
 won the 2008 City of Vancouver Book Award and was shortlisted for a 
 BC Book Prize. Her first book of poems, Red Nest (Nightwood), won 
@@ -50,24 +51,24 @@ the Central Interior and Northwest Coast of BC.
 Veena Gokhale has published fiction and poetry in literary journals and 
 anthologies, read from her work, and received writing grants since 
 1993. Guernica Editions published her first collection, Bombay Wali 
-and Other Stories, in 2013. Mark Frutkin says of Bombay Wali, â€œâ€¦
+and Other Stories, in 2013. Mark Frutkin says of Bombay Wali, “…
 These are rich stories, well-imagined, deeply felt." Starting her career 
 as a journalist in Bombay, Gokhale first came to Canada on a 
 journalism fellowship in 1990. She eventually immigrated to Canada, 
 completed a Masters, and worked for non-profit organizations. She 
-received a grant from VivacitÃ© MontrÃ©al, Quebec Arts Council, for her 
+received a grant from Vivacité Montréal, Quebec Arts Council, for her 
 first novel whose working title is Simply There To Help. 
 http://www.veenago.com/story
 
 Gerry Shikatani has created work in prose, textsound performance, 
 experimental film collaboration and above all, poetry. His poetry 
 collections include AQUEDUCT: poems and texts from Europe, 1979-
-87 and his latest volume The Portâ€™s Seasonal Rental (2011). His 
+87 and his latest volume The Port’s Seasonal Rental (2011). His 
 current literary work niwa, set in gardens in Japan, is the second part 
 of his two-volume garden poems. Volume 1, First Book, Three 
-Gardens of AndalucÃ­a appeared in 2003. Gerry is the founding director 
-of Lorcaâ€™s Granada: writersâ€™ retreat, workshop and colloquia in 
-Granada, Spain in homage to the legacy of Federico GarcÃ­a Lorca. As 
+Gardens of Andalucía appeared in 2003. Gerry is the founding director 
+of Lorca’s Granada: writers’ retreat, workshop and colloquia in 
+Granada, Spain in homage to the legacy of Federico García Lorca. As 
 an international culinary critic and travel/gastronomy writer, he is a 
 specialist on Spain and recipient of the Cross of the Order of Civil 
 Merit, granted by King Juan Carlos of Spain.
@@ -86,14 +87,14 @@ American Literature.
 
 Jeremy Tankard is the award-winning author and illustrator of the best-
 selling picture books: Grumpy Bird, Boo Hoo Bird and Me Hungry and 
-the illustrator of Piggy Bunny by Rachel Vail, and Itâ€™s a Tiger! by David 
+the illustrator of Piggy Bunny by Rachel Vail, and It’s a Tiger! by David 
 LaRochelle. Jeremy was born in Cape Town, South Africa but left at 
 the age of four for a new life in the United States. He eventually landed 
 in Canada where he lived in Calgary, Toronto and now Vancouver.
 
 Roger Farr is the author of Surplus (poetry; Line Books, 2006), IKMQ 
 (prose-poetry; New Star, 2012), and Means (poetry, radio script, 
-prose; Line Books, 2012). He has been described as â€œa poet of great 
+prose; Line Books, 2012). He has been described as “a poet of great 
 heart and aesthetic/political commitment.â€  As a cultural critic, his writing 
 on radical social movements and the avant-garde has appeared in 
 numerous literary and 'movement' periodicals, and has been broadcast 
@@ -104,7 +105,7 @@ Rob Budde teaches creative writing at the University of Northern BC in
 Prince George. He has published seven books (poetry, novels, 
 interviews, and short fiction), his latest being Finding Ft. George 
 (Caitlin Press) and declining america (BookThug). His recent interest is 
-experimental activist ecopoetry; he is working on a study of Devilâ€™s 
+experimental activist ecopoetry; he is working on a study of Devil’s 
 Club / Hoolhghulh tentatively titled Panax and an essay on animal-
 human relations called â€œThe Parahuman.â€ 
 

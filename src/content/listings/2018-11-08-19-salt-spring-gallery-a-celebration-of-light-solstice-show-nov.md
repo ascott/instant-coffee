@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 19
 type: ""
+venue: "Salt Spring Gallery"
 summary: "Salt Spring Gallery | A Celebration of Light Solstice Show | NOV 16"
 ---
 

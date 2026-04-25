@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 13
 type: "OPENING"
+venue: "The Bakery"
 summary: "The Bakery | Life Jacket by Ryan Romero | 7-10PM | FEB 23"
 ---
 

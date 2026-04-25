@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: nothing happens in good weather"
 emailDate: "Wed, 16 Jan 2008 19:41:13 -0800"
 number: 8
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Trust in Me | JAN 22"
 ---
 

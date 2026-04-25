@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 8
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | ARTIST TALK: Hua Jin | JUN 2"
 ---
 

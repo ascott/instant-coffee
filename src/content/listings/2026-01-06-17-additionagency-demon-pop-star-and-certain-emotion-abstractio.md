@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 17
 type: "OPENING"
+venue: "Addition.Agency"
 summary: "Addition.Agency | Demon, Pop Star, and Certain Emotion Abstractions | JAN 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 20
 type: "OPENING"
+venue: "Gordon Smith Gallery of Contemporary Art"
 summary: "Gordon Smith Gallery of Contemporary Art | 13 Ways to Summon Ghosts | JUN 23"
 ---
 

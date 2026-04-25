@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 16
 type: "OPENING"
+venue: "Robert Lynds Gallery"
 summary: "Robert Lynds Gallery | Sascha Yamashita - Secret Sacred Ritual | JUN 2"
 ---
 
@@ -16,12 +17,12 @@ Robert Lynds Gallery
 Vancouver, BC V6J 1K1
 
 The Robert Lynds Gallery is pleased to present the work of Sascha
-Yamashita. Yamashitaâ€™s interdisciplinary solo-exhibition, Secret Sacred
+Yamashita. Yamashita’s interdisciplinary solo-exhibition, Secret Sacred
 Ritual, explores elements of rite within his esoteric ceremonial
 performance in the construction and deconstruction of the art object.
 Yamashita transforms the gallery space into a sacrosanct domain to house
 his series of process-based panels, and for the witnessing of the artifact
-of his ceremonial practice. Examining secret societies, Yamashitaâ€™s work
+of his ceremonial practice. Examining secret societies, Yamashita’s work
 references various religions and sacred cults throughout history through
 the appropriation of symbols, and challenges the supremacy of the
 commodified art object.
@@ -44,7 +45,7 @@ fortifying its staying power as a prominent west-side gallery.
 Vancouver, BC V6J 1K1
 
 Hours of Operation:
-Tuesday â€“ Friday 10am to 5:30pm
+Tuesday – Friday 10am to 5:30pm
 Saturday 11am to 5pm
 Sunday - Monday by appointment
 Contact:

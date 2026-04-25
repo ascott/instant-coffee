@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 5
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | a moment here | 4PM | FEB 27"
 ---
 

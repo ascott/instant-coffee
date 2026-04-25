@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 34
 type: "EDUCATION"
+venue: "vancouver ceramics"
 summary: "vancouver ceramics | Pottery class | 6 week course | MAR 22"
 ---
 

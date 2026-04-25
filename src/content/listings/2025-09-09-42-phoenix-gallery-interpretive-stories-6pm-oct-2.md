@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 42
 type: "OPENING"
+venue: "Phoenix Gallery"
 summary: "Phoenix Gallery | Interpretive Stories | 6PM | OCT 2"
 ---
 

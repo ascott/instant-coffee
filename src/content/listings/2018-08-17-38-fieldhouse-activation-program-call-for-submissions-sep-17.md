@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 38
 type: "CALL"
+venue: "Fieldhouse Activation Program"
 summary: "Fieldhouse Activation Program | Call for Submissions | SEP 17"
 ---
 

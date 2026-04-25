@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 1
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | GREG GIRARD | FEB 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Crush of Colour"
 summary: "Crush of Colour | Studio Time"
 ---
 

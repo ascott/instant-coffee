@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 48
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Found Word Poetry with Gabi Dao | 12-3PM | NOV 24"
 ---
 

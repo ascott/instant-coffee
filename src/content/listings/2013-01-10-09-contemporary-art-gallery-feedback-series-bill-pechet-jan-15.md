@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 9
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Feedback Series: Bill Pechet | JAN 15"
 ---
 
@@ -46,7 +47,7 @@ Nicolas Sassoon, WAVES at
 Yaletown-Roundhouse Station, Canada Line continues until January 20, 2013.
 
 WAVES is presented in partnership with the Canada Line Public Art Program 
-â€” IntransitBC.
+— IntransitBC.
 
 Gallery hours: Tuesday to Sunday, 12-6 pm.
 

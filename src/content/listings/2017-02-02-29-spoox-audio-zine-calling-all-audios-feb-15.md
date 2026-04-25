@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 29
 type: "CALL"
+venue: "SPOOX AUDIO ZINE"
 summary: "SPOOX AUDIO ZINE | CALLING ALL AUDIOS | FEB 15"
 ---
 

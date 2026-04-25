@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 6
 type: "EVENT"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | Battle Your Demons in Dreamspace | JUN 29"
 ---
 

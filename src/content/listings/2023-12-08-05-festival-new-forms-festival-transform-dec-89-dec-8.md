@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 5
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | New Forms Festival | TRANSFORM | DEC 8&9 | DEC 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 9
 type: ""
+venue: "plastic orchid factory"
 summary: "plastic orchid factory | Listen, Listen Festival | OCT 7"
 ---
 

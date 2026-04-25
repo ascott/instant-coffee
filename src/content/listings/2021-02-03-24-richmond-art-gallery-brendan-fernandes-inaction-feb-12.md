@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 24
 type: "EXHIBITION"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Brendan Fernandes: Inaction | FEB 12"
 ---
 

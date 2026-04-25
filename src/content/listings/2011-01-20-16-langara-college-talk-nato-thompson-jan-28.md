@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 16
 type: ""
+venue: "Langara College"
 summary: "Langara College | TALK: Nato Thompson | JAN 28"
 ---
 

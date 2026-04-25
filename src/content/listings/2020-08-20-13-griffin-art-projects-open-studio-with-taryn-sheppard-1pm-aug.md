@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 13
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Open Studio with Taryn Sheppard | 1PM | AUG 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 13
 type: "PERFORMANCE"
+venue: "Mutable Subject"
 summary: "Mutable Subject | Interplay 2017 | SEP 8"
 ---
 

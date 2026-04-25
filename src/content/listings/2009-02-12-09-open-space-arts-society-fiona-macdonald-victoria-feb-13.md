@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 9
 type: ""
+venue: "Open Space Arts Society"
 summary: "Open Space Arts Society | Fiona Macdonald | Victoria | FEB 13"
 ---
 

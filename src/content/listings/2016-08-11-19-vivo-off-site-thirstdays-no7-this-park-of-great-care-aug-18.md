@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 19
 type: "EVENT"
+venue: "VIVO off-site"
 summary: "VIVO off-site | thirstDays No.7 - \"this park of great care\" | AUG 18"
 ---
 

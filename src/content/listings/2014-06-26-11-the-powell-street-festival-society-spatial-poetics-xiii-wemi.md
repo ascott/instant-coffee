@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: they do not always believe the man
 emailDate: "Thu, 26 Jun 2014 16:11:54 -0700"
 number: 11
 type: ""
+venue: "The Powell Street Festival Society"
 summary: "The Powell Street Festival Society | Spatial Poetics XIII: WeMix | JUL 3"
 ---
 

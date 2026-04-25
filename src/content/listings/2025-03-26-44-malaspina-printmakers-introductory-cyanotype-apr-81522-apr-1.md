@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 44
 type: "EDUCATION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Introductory Cyanotype | APR 8,15,22 | APR 18"
 ---
 

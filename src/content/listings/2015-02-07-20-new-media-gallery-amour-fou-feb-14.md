@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 20
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | AMOUR FOU | FEB 14"
 ---
 

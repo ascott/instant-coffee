@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 25
 type: "EVENT"
+venue: "Unit 17"
 summary: "Unit 17 | garden don’t care VTU celebration | 4PM | JUL 28"
 ---
 

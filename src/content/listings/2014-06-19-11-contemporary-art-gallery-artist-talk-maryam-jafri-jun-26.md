@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 11
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Artist Talk: Maryam Jafri | JUN 26"
 ---
 
@@ -13,7 +14,7 @@ Maryam Jafri
 Thursday, June 26, 7pm
 
 Please join us for a talk by New York based artist Maryam Jafri, one of the 
-artists included in The Act of Seeing with Oneâ€™s Own Eyes.
+artists included in The Act of Seeing with One’s Own Eyes.
 
 Maryam Jafri lives and works in New York and Copenhagen. In her moving 
 image works, Jafri blurs the distinction between scripted films and unscripted 
@@ -24,16 +25,16 @@ factory are not told that they are making fetish products to be sold to the
 masses in the United States, and this selective disclosure can be seen in the 
 disconnect between the production process and the final product itself. 
 Parallels can be made between the secretive nature within the leather 
-factory, the viewerâ€™s unsurety of who is an actor and who is not, as well as 
+factory, the viewer’s unsurety of who is an actor and who is not, as well as 
 to the overall editing process which yields a carefully restrained video work 
 about the complex topics of overseas factories and the world of fetish 
-paraphernalia. Jafriâ€™s solo exhibitions include: Solo Show, Gasworks, London 
+paraphernalia. Jafri’s solo exhibitions include: Solo Show, Gasworks, London 
 (2014); Backdrop, Bielefelder kustverein, Bielefeld, Germany (2013); Stages, 
 WYSPA Institute of Art, Gdansk (2012); Geographies, Museum of 
 Contemporary Art, Roskilde (2012); Headlines and Small Print (with Anderas 
 Fogarasi), Galerie Nova/WHW Zagreb (2012); Global Slum, Beirut Project 
 Space, Cairo (2012). She has also exhibited in group exhibitions including: 
-Fassbinder Jetzt â€“ Fassbinder and Contemporary Art, Deutsches 
+Fassbinder Jetzt – Fassbinder and Contemporary Art, Deutsches 
 Filmmuseum, Frankfurt (2013); Past is Present (Murals), Museum of 
 Contemporary Art, Detroit (2013); Ten Thousand Wiles, Hundred Thousand 
 Tricks, MuKHA, Antwerp (2013); When Attitudes Became Forms Become 

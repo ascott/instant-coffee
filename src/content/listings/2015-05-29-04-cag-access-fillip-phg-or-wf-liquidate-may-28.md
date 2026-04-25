@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 4
 type: "EVENT"
+venue: "CAG, Access, FIllip, PHG, Or & WF"
 summary: "CAG, Access, FIllip, PHG, Or & WF | Liquidate | MAY 28"
 ---
 
@@ -11,7 +12,7 @@ LIQUIDATE
 
 An art publication sale by Contemporary Art Gallery, Access Gallery,
 Fillip, Presentation House Gallery, Or Gallery and Western Front
-Weâ€™ve been busy spring cleaning. The Contemporary Art Gallery, Access
+We’ve been busy spring cleaning. The Contemporary Art Gallery, Access
 Gallery, Fillip, Presentation House Gallery, Or Gallery and Western Front
 have joined forces to bring you some serious discounts on art publications
 new and old. This one time only evening sale is not to be missed.
@@ -30,7 +31,7 @@ artists, curators and cultural practitioners, as well as those entering a
 new experimental phase of their practice. We enable critical conversations
 and risk taking through new configurations of audience, artists and community.
 Sample titles on sale:
-Unsuitable as an Institution: The Tenacity of Access Gallery 1992â€”2014
+Unsuitable as an Institution: The Tenacity of Access Gallery 1992—2014
 Far Away So Close, Part I
 Far Away So Close, Part II
 Ian Johnston: Reinventing Consumption
@@ -50,11 +51,11 @@ children, offer a series of residencies for Canadian and international
 artists directly contributing to the local scene, and publish insightful
 catalogues that create a lasting legacy of exhibited work.
 Sample titles on sale:
-Every building on 100 West Hastings â€“ Stan Douglas
-DONKY@NINJA@WITCH â€“ FASTWÃœRMS
-You are my sunshine/You are my nebula â€“ Euan MacDonald
+Every building on 100 West Hastings – Stan Douglas
+DONKY@NINJA@WITCH – FASTWÜRMS
+You are my sunshine/You are my nebula – Euan MacDonald
 Brian Jungen
-Cabin Photographs â€“ Scott McFarland
+Cabin Photographs – Scott McFarland
 
 About Fillip and New Documents:
 Fillip is a Vancouver-based publishing organization formed in 2004 to
@@ -85,7 +86,7 @@ The D'Or Series (Food for Thought, Notes on Collaboration, Explorations in
 Psychic Geography, Goin' Solo)
 
 About Presentation House Gallery:
-Presentation House Galleryâ€™s mandate is to exhibit and disseminate
+Presentation House Gallery’s mandate is to exhibit and disseminate
 photography and media art, emphasizing contemporary Canadian work within a
 context of historical and international art. Since 1984 they have produced
 over 100 publications, featuring a diverse range of artists and
@@ -96,7 +97,7 @@ Annette Kelm. Presentation House Gallery aims to offer the community a
 range of experiences which will engage viewers with new considerations
 about the world in which they live.
 Sample titles on sale:
-Active Process: Artistâ€™s Books Photographic and Contemporary, Twenty-eight
+Active Process: Artist’s Books Photographic and Contemporary, Twenty-eight
 U.S. and Canadian Artists
 Death and the Family, Gisele Amantea, Marian Penner Bancroft, Wyn Geleynse,
 etc.
@@ -105,7 +106,7 @@ Judy Radul: People Things Enter Exit
 Attila Richard Lukacs / POLAROIDS / Michael Morris
 
 About Western Front:
-Established in 1973 the Western Front is one of Canadaâ€™s leading
+Established in 1973 the Western Front is one of Canada’s leading
 artist-run-centers for contemporary art and new music. We produce and
 present visual art, exhibitions, new music concerts and workshops,
 media-art residencies, performance art and other artist driven initiatives.

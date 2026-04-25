@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 2
 type: ""
+venue: "Emily Carr University"
 summary: "Emily Carr University | Curators Talk: Stephanie Smith | FEB 9"
 ---
 

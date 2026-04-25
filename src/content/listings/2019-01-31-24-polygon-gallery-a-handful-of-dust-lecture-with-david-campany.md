@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 24
 type: "EVENT"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | a Handful of Dust: Lecture with David Campany | FEB 9"
 ---
 

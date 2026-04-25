@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 8
 type: "EDUCATION"
+venue: "North Van Arts"
 summary: "North Van Arts | WORKSHOP SCHEDULE | OCT 12"
 ---
 

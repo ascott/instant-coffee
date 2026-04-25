@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 14
 type: "OPENING"
+venue: "Rising Sun Gallery"
 summary: "Rising Sun Gallery | Decolonization: Transcendence of an Indigenous Ide | AUG 12"
 ---
 

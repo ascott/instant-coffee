@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 2
 type: ""
+venue: "Western Front"
 summary: "Western Front | Jeremy Bailey | JAN 26"
 ---
 
@@ -25,13 +26,13 @@ platforms for both online and live performative contexts, often working
 with consumer technology. At Western Front Bailey will perform Nam 
 June Paik for Western Front, in which he designates himself the first 
 practitioner of â€œKinect Artâ€ , in which he utilizes the consumer gaming 
-system Microsoft Kinect, referencing Nam June Paikâ€™s relationship to 
+system Microsoft Kinect, referencing Nam June Paik’s relationship to 
 the invention of video art.
 
-Western Front Media Arts is presenting Jeremy Baileyâ€™s performance in 
+Western Front Media Arts is presenting Jeremy Bailey’s performance in 
 partnership with Electric Speed at the Surrey Art Gallery, an exhibition 
 of works commissioned for presentation on urban screens, curated by 
-Kate Armstrong and Malcolm Levy. Baileyâ€™s new work, Explore The 
+Kate Armstrong and Malcolm Levy. Bailey’s new work, Explore The 
 Future of Creativity will be presented alongside works by John Sasaki, 
 Will Gill and Jillian MacDonald. For more information visit 
 electricspeed.ca 

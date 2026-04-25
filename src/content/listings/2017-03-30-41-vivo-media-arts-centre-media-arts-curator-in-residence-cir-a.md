@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 41
 type: "CALL"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Media Arts Curator-in-Residence (CIR) | APR 20"
 ---
 

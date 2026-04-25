@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 6
 type: ""
-summary: "Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me [cont.] | JUL 28"
+venue: "Kootenay School of Writing"
+summary: "Kootenay School of Writing | I’m In You, You’re In Me [cont.] | JUL 28"
 ---
 
 I'm In You, You're In Me [cont.]
 
-Iâ€™m In You, Youâ€™re In Me [cont.]
+I’m In You, You’re In Me [cont.]
 
 A Kootenay School of Writing summer series of poets presenting 
 poems / antipoems / language. 
@@ -35,16 +36,16 @@ After a certain age our memories are so intertwined with one another
 that what we are thinking of, the book we are reading, scarcely matters 
 anymore. We have put something of ourselves everywhere, everything 
 is fertile, everything is dangerous, and we can make discoveries no 
-less precious than in Pascal's PensÃ©es in an advertisement for soap.
+less precious than in Pascal's Pensées in an advertisement for soap.
 - from In Search of Lost Time, Vol V, The Captive & The Fugitive - 
 Marcel Proust
 
 Deepwater Horizon Heron
 
 Figure of flight, feathered longing on wings, 
-Living mirror of the soulâ€™s migration, 
+Living mirror of the soul’s migration, 
 
-Whose words are arcs of air, a singingâ€” 
+Whose words are arcs of air, a singing— 
 You, historian, mark the horizon, 
 
 And scan the depths from your axis of stillness 
@@ -53,8 +54,8 @@ To probe for what might swallow your hunger.
 When we build industrial mosquitoes 
 And lower our coke straws, our proboscis 
 
-Nosing into the oceanâ€™s dark abyss 
-Until it explodes, and abyss looks backâ€” 
+Nosing into the ocean’s dark abyss 
+Until it explodes, and abyss looks back— 
 
 No Twitter plumes, no blazings of anger, 
 No spill pools, no American swimwear 

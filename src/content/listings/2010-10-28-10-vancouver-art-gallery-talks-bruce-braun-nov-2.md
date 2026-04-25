@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 10
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | TALKS: Bruce Braun | NOV 2"
 ---
 
@@ -25,17 +26,17 @@ In conjunction with the exhibition In Dialogue with Carr, Public Programs
 at the Vancouver Art Gallery is pleased to present a lecture by Bruce
 Braun, After wilderness: waste, resilience and the environmental imagination.
 
-Braun describes: ï¿½As with most artists, interest in Emily Carr has waxed
-and waned. The 1970s and 1980s marked a high point, as Carrï¿½s life and work
+Braun describes: �As with most artists, interest in Emily Carr has waxed
+and waned. The 1970s and 1980s marked a high point, as Carr�s life and work
 captured the attention of feminist and postcolonial scholars, as well as an
 increasingly vocal and influential environmental movement. This talk
 explores ideas of nature and landscape that coincided with rising interest
-in Carrï¿½s work and contrasts them with recent movements in contemporary art
+in Carr�s work and contrasts them with recent movements in contemporary art
 and urban design that figure the relation between natural history and human
-history in very different ways.ï¿½
+history in very different ways.�
 
 Bruce Braun teaches at the University of Minnesota. His books include The
-Intemperate Rainforest: Nature, Culture and Power on Canadaï¿½s West Coast;
+Intemperate Rainforest: Nature, Culture and Power on Canada�s West Coast;
 Remaking Reality: Nature at the Millennium; and Political Matter:
 Technoscience, Democracy and Public Life.
 
@@ -50,13 +51,13 @@ By Donation Tuesday Evenings Sponsored by: Sun Life Financial
 Saturday, November 6th, 2pm
 In the Gallery, 2nd floor
 
-Guest Tour of Song Dongï¿½Waste Not
+Guest Tour of Song Dong�Waste Not
 
 Hsingyuan Tsao
 
-In conjunction with Song Dong ï¿½ Waste Not, Hsingyuan Tsao, professor in art
+In conjunction with Song Dong � Waste Not, Hsingyuan Tsao, professor in art
 history at the University of British Columbia, provides a tour of Song
-Dongï¿½s installation, offering a glimpse into the historical and
+Dong�s installation, offering a glimpse into the historical and
 socio-political contexts behind the objects that comprise the work.
 
 Professor Tsao holds a Ph.D. in Art History from Stanford University. Her

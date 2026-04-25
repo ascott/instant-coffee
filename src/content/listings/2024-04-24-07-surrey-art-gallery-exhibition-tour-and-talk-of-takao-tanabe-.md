@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 7
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Exhibition Tour and Talk of Takao Tanabe | 630PM | APR 24"
 ---
 

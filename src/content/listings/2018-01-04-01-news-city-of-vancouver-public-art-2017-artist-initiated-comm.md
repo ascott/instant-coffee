@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | City of Vancouver - Public Art | 2017 Artist-initiated commissions"
 ---
 

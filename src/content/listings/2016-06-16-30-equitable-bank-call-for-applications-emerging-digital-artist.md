@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 30
 type: "CALL"
+venue: "Equitable Bank"
 summary: "Equitable Bank | Call for Applications, Emerging Digital Artists Aw | SEP 15"
 ---
 

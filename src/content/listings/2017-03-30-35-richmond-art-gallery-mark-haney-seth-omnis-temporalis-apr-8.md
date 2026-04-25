@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 35
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Mark Haney & Seth | Omnis Temporalis | APR 8"
 ---
 

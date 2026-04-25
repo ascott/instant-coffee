@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 9
 type: "OPENING"
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | andy dixon : expensive things | APR 30"
 ---
 

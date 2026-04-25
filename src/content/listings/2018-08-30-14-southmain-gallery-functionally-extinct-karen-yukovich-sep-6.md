@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 14
 type: "OPENING"
+venue: "SouthMain Gallery"
 summary: "SouthMain Gallery | Functionally Extinct: Karen Yukovich | SEP 6"
 ---
 

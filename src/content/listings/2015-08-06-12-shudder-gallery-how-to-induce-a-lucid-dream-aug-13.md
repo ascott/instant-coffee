@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 12
 type: "OPENING"
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | How To Induce A Lucid Dream | AUG 13"
 ---
 
@@ -24,7 +25,7 @@ remember dreams or have a more involved roll once inside the dream is a
 regulated study of self and reality. The journey between these two states
 is a physical transformation of energy that with practice could be induced.
 
-Sylvana dAngeloâ€™s ongoing examination of her surroundings manifests as
+Sylvana dAngelo’s ongoing examination of her surroundings manifests as
 visual art. Her work focuses on the connections any moment could have with
 the subject, their surroundings and the unifying effect of shared experiences.
 www.sylvanaisthebest.com

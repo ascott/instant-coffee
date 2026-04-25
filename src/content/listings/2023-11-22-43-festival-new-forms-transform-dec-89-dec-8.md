@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 43
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | New Forms | TRANSFORM | DEC 8&9 | DEC 8"
 ---
 

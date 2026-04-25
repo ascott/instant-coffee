@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Instant Coffee: (Caffeine Instanti
 emailDate: "Thu, 28 Feb 2008 09:50:33 -0800"
 number: 13
 type: ""
+venue: "S. Pointe & Co. Inc"
 summary: "S. Pointe & Co. Inc | Call 4 Public Art | Edmonton"
 ---
 

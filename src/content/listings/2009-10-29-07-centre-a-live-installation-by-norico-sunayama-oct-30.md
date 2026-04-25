@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 7
 type: ""
+venue: "Centre A"
 summary: "Centre A | Live installation by Norico Sunayama | OCT 30"
 ---
 

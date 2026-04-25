@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 14
 type: "EVENT"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Sunday Summer Reading Series: Brit Bachmann | AUG 23"
 ---
 

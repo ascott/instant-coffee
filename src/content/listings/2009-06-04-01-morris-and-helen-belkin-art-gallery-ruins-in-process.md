@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 1
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Ruins in Process"
 ---
 

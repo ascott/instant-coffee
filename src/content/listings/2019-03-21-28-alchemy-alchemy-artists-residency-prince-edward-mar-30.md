@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 28
 type: "CALL"
+venue: "ALCHEMY"
 summary: "ALCHEMY | Alchemy Artists Residency | Prince Edward | MAR 30"
 ---
 

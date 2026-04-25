@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 31
 type: "EVENT"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | ARTS ASSEMBLY: ACT 1 | APR 27"
 ---
 

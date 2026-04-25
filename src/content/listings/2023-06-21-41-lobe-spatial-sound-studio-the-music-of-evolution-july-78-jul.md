@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 41
 type: "EVENT"
+venue: "Lobe Spatial Sound Studio"
 summary: "Lobe Spatial Sound Studio | The Music of Evolution | JULY 7&8 | JUL 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 12
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Speaking Pictures with Gary Johnston | JUN 22"
 ---
 

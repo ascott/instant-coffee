@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "ARTS ASSEMBLY"
 summary: "ARTS ASSEMBLY | Jacob Gleesoon | Tent Shop | AUG 8"
 ---
 

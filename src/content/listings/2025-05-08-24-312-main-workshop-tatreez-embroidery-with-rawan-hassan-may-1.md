@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 24
 type: "EDUCATION"
+venue: "312 Main"
 summary: "312 Main | [WORKSHOP] Tatreez Embroidery with Rawan Hassan | MAY 17"
 ---
 

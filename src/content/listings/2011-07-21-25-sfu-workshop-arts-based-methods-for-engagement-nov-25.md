@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 25
 type: ""
+venue: "SFU"
 summary: "SFU | WORKSHOP: Arts-Based Methods for Engagement | NOV 25"
 ---
 

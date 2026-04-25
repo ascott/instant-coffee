@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 22
 type: "CALL"
+venue: "City of Burnaby"
 summary: "City of Burnaby | 2026 DLAR Ceramic Arts Residency | MAR 29"
 ---
 

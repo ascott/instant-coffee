@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 2
 type: "CALL"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Rental rates"
 ---
 

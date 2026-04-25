@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 3
 type: "CALL"
+venue: "Langley Arts Council"
 summary: "Langley Arts Council | Calling all young BC-based artists aged 7 - 30!"
 ---
 

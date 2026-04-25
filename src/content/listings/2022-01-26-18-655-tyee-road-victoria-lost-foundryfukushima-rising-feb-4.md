@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 18
 type: "EXHIBITION"
+venue: "655 Tyee Road [Victoria]"
 summary: "655 Tyee Road [Victoria] | LOST FOUNDRY/FUKUSHIMA RISING | FEB 4"
 ---
 

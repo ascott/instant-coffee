@@ -4,21 +4,22 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 12
 type: "CALL"
+venue: "Breach Magazine"
 summary: "Breach Magazine | Call for Submissions | MAR 30"
 ---
 
 Breach is currently accepting submissions for its launch, on the theme of
 decolonial aesthetics. This inaugural issue aims to interrogate, in the
-words of Olu Oguibe, the expectation that "the â€˜ethnics,â€™ â€˜postcolonials,â€™
-â€˜minorities,â€™ all those who have ancestry, connections, or affiliations
-â€˜elsewhereâ€™ ... belong in a different space, should create work of a
+words of Olu Oguibe, the expectation that "the ‘ethnics,’ ‘postcolonials,’
+‘minorities,’ all those who have ancestry, connections, or affiliations
+‘elsewhere’ ... belong in a different space, should create work of a
 particular flavor, deal with a certain set of themes, exhibit in particular
 avenues in particular locations outside the mainstream, or be prepared to
 offer work of a particular nature to earn momentary mainstream
 acknowledgement, after which they are quietly returned to obscurityâ€ .
 
 Taking a cue from the Transnational Decolonial Institute in recognizing the
-â€œconfinement that Euro-centered concepts of arts and aesthetics have
+“confinement that Euro-centered concepts of arts and aesthetics have
 imposed" on artists, we wish to highlight other ways of sensing, and to
 break from ways of thinking that are rooted in Empire: colonial and settler
 narratives that displace other histories; frameworks for viewing and
@@ -44,9 +45,9 @@ whether artists have a responsibility to draw attention to these issues,
 and whether First Nations artists in particular are weighted down by
 expectations that these issues be central themes of their work.
 
--If â€œtraditionally, the significance of museums was based on their role to
+-If “traditionally, the significance of museums was based on their role to
 relate a master narrative that was shared by their audienceâ€ , and there
-â€œexist today competing histories (religious, ethnic, or postcolonial) that
+“exist today competing histories (religious, ethnic, or postcolonial) that
 deconstruct an exclusive significance of â€˜artâ€™â€ , then what is the role of
 the museum of today? Is the museum obsolete?
 
@@ -62,7 +63,7 @@ not intend to limit our content based on the colonial construction of the
 borders, and therefore are interested in issues that extend beyond the
 national level as well. Our call for submissions on the theme of decolonial
 aesthetics pertains to all off-shoots of colonialism that propagate the
-imperial agendaâ€”capitalism, legacies of the slave trade, and environmental
+imperial agenda—capitalism, legacies of the slave trade, and environmental
 degradation, to name but a few.
 
 Complete submission details can be found at http://www.breachmagazine.ca.

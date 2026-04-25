@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 18
 type: "TALK"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Sidi Chen | 1PM | APR 13"
 ---
 

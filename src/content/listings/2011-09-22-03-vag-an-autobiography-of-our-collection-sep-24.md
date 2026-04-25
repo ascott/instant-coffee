@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto evocating an era of to an
 emailDate: "Thu, 22 Sep 2011 12:17:20 -0700"
 number: 3
 type: ""
+venue: "VAG"
 summary: "VAG | An Autobiography of Our Collection | SEP 24"
 ---
 

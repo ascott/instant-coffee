@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 24
 type: ""
+venue: "North Vancouver Community Arts Council"
 summary: "North Vancouver Community Arts Council | Call for Exhibition Proposals | DEC 31"
 ---
 

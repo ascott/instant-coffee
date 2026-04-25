@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 3
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Graham Landin & Ben Marvin | NOV 7"
 ---
 
@@ -26,21 +27,21 @@ or so...
 
 a)
 
-Whatâ€™s the definition of harmony? Actually hang on letâ€™s try work this out. I 
-think itâ€™s when two or more things fit together â€” when two or more things fit 
-but at differing pitches â€” slightly off but slightly not â€” yeah when two or more 
-things just work together but at differing levelsâ€” differing tonesâ€” diff-erâ€”ring 
-shadesâ€” difffffferring textures.
+What’s the definition of harmony? Actually hang on let’s try work this out. I 
+think it’s when two or more things fit together — when two or more things fit 
+but at differing pitches — slightly off but slightly not — yeah when two or more 
+things just work together but at differing levels— differing tones— diff-er—ring 
+shades— difffffferring textures.
 
-What happens when these two or more things fit together â€” at differing 
-pitchesâ€” slightly off but slightly not â€” when they just work together but at 
+What happens when these two or more things fit together — at differing 
+pitches— slightly off but slightly not — when they just work together but at 
 differing levels/tones/shades/textures? You mean when 
-things/objects/materials/moments harmonize? Yeahâ€”Itâ€™s something you 
-feel/see/hear/recognizeâ€” a rhythm of sortsâ€” rhythmic momentsâ€”Rhythmic 
-moments of material harmonyâ€”materials harmonizeâ€”yeah things fit â€” 
-conversation in form â€”beyond conversation
+things/objects/materials/moments harmonize? Yeah—It’s something you 
+feel/see/hear/recognize— a rhythm of sorts— rhythmic moments—Rhythmic 
+moments of material harmony—materials harmonize—yeah things fit — 
+conversation in form —beyond conversation
 
-â€” beyond receptionâ€” thatâ€™s flipped straight up
+— beyond reception— that’s flipped straight up
 
 b)
 

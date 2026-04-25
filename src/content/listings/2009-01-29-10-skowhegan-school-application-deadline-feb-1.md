@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two times double crossed legged"
 emailDate: "Thu, 29 Jan 2009 09:40:07 -0800"
 number: 10
 type: ""
+venue: "SKOWHEGAN SCHOOL"
 summary: "SKOWHEGAN SCHOOL | APPLICATION DEADLINE | FEB 1"
 ---
 
@@ -43,7 +44,7 @@ Katharina Grosse
 
 Steve McQueen
 
-Hanneline RÃ¸geberg
+Hanneline Røgeberg
 
 Dr. Paul Farmer,
 Paul Mellon Distinguished Fellow

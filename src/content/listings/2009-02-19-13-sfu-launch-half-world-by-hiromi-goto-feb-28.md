@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: come mint meant breathe"
 emailDate: "Thu, 19 Feb 2009 10:50:12 -0800"
 number: 13
 type: ""
+venue: "SFU"
 summary: "SFU | Launch: Half World by Hiromi Goto | FEB 28"
 ---
 

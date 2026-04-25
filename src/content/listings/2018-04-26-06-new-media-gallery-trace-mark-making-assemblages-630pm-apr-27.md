@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 6
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | TRACE Mark-Making Assemblages | 630PM | APR 27"
 ---
 

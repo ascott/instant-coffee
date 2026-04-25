@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 14
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Unit 17 (Back Garden) | E.S.P.: Ecologies | SEP 14"
 ---
 

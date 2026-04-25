@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 13
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Written Reviews: Toronto & Vancouver | FEB 20"
 ---
 

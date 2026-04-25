@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 10
 type: "OPENING"
+venue: "Centre A (online)"
 summary: "Centre A (online) | Gu Xiong: The Remains of a Journey | NOV 13"
 ---
 

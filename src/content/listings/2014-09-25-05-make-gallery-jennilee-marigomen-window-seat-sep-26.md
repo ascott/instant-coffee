@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 5
 type: ""
+venue: "Make Gallery"
 summary: "Make Gallery | Jennilee Marigomen - Window Seat | SEP 26"
 ---
 
@@ -18,17 +19,17 @@ Vancouver
 
 Window Seat is a sequence of simple and beautiful gestures that both
 acknowledge the metaphor of photography-as-window and consciously resists
-reading the world metaphorically. Rather, Jennilee Marigomenâ€™s photographs
+reading the world metaphorically. Rather, Jennilee Marigomen’s photographs
 show the benefit of careful attention to the overlooked and often ephemeral
 beauty in our everyday surroundings.
 
-The succession of objects and scenes slowly reveals the projectâ€™s context:
-one comes to recognize the seaside townâ€™s whitewashed walls, sunseekers,
+The succession of objects and scenes slowly reveals the project’s context:
+one comes to recognize the seaside town’s whitewashed walls, sunseekers,
 blue sea, and bluer swimming pools. Yet even as street signs and warm light
 hint at a geographical referent for the work, the images in Window Seat
 continually veer away from a unified narrative, documenting neither a place
 nor a journey, in service of the beautiful particular. Within the project,
-the worldâ€™s pieces celebrate the often fragmentary, isolated, and quietly
+the world’s pieces celebrate the often fragmentary, isolated, and quietly
 beautiful frame untasked with telling a larger, linear story. The
 succession of images suggests that the world is made up of neglected sites
 imbedded in the everyday, which the keen sensibilities of a talented

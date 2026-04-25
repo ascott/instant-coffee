@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vegetabled Micro Email Utopia"
 emailDate: "Wed, 17 Jan 2024 21:50:14 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "The Dance Centre"
 summary: "The Dance Centre | Ramanenjana | JAN 19-21 | JAN 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 6
 type: "OPENING"
+venue: "Red Gate Arts Society"
 summary: "Red Gate Arts Society | Things Fall Into Place | 7PM | AUG 1"
 ---
 

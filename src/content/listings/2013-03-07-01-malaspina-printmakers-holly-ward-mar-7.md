@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 1
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Holly Ward | MAR 7"
 ---
 

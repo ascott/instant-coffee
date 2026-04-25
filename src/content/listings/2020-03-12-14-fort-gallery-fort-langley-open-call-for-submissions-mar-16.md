@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 14
 type: "CALL"
+venue: "Fort Gallery (Fort Langley)"
 summary: "Fort Gallery (Fort Langley) | Open Call for Submissions | MAR 16"
 ---
 

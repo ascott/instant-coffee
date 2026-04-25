@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Sessions: Kelley & Trecartin | MAR 1"
 ---
 

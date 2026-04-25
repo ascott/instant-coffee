@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 47
 type: "TALK"
+venue: "Richmond City Hall"
 summary: "Richmond City Hall | Lulu Speakers Series: Art in the City | MAY 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 24
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Deanna Bowen | Rolande Souliere | 7-9PM | APR 4"
 ---
 

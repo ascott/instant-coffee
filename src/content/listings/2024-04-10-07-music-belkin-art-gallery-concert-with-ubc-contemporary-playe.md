@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 7
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Belkin Art Gallery | Concert with UBC Contemporary Players | 2PM | APR 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 12
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Josh Thorpe and Jeff Tutt: For Real Toads | MAY 5"
 ---
 

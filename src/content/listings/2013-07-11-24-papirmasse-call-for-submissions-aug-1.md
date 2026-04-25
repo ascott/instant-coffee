@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 24
 type: ""
+venue: "Papirmasse"
 summary: "Papirmasse | Call for Submissions | AUG 1"
 ---
 

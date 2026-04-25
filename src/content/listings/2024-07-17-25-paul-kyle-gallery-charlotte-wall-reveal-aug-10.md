@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 25
 type: "EXHIBITION"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Charlotte Wall: Reveal | AUG 10"
 ---
 

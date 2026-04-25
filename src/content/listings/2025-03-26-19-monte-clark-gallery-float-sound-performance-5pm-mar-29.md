@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 19
 type: "EVENT"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Float Sound performance | 5PM | MAR 29"
 ---
 

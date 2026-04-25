@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 9
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Germinal | APR 7"
 ---
 

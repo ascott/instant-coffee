@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 23
 type: "OPENING"
+venue: "ACT Art Gallery"
 summary: "ACT Art Gallery | Cindy Mochizuki | 2PM | SEP 13"
 ---
 

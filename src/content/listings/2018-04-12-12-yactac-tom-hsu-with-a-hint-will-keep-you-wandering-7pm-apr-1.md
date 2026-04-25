@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 12
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Tom Hsu: With a Hint Will Keep You Wandering | 7PM | APR 12"
 ---
 

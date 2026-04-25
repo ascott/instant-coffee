@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 46
 type: "CALL"
+venue: "School of Creative Arts (Windsor, ON)"
 summary: "School of Creative Arts (Windsor, ON) | Emerging Artist Research Residency | JAN 15"
 ---
 
@@ -11,10 +12,10 @@ Call For Submissions:
 Emerging Artist Research Residency
 MAY 1-29, 2016
 
-The University of Windsorâ€™s School of creative arts/Visual arts offers a
+The University of Windsor’s School of creative arts/Visual arts offers a
 one-month Emerging Artist Research Residency. This program is an
 opportunity for emerging artists to: cultivate new ideas through
-research and production, access the schoolâ€™s resources and facilities,
+research and production, access the school’s resources and facilities,
 and explore the cultural regions of Windsor and Detroit.
 Resources available include: Sculpture Studio and Equipment, Multi
 Media, Woodshop, and much more. Each resident artist will present

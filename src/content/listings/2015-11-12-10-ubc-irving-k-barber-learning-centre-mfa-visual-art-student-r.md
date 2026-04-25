@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 10
 type: "EVENT"
+venue: "UBC Irving K. Barber Learning Centre"
 summary: "UBC Irving K. Barber Learning Centre | MFA Visual Art Student Roundtable | NOV 13"
 ---
 
@@ -27,8 +28,8 @@ Moderator: Michelle Weinstein
 
 2:30
 Jeneen Frei Njootli
-Pulling knowledge through the body, through anotherâ€™s body, what is
-left unsaid. What is the residue? Where is the work? gâ€™ashondaiâ€™kwa
+Pulling knowledge through the body, through another’s body, what is
+left unsaid. What is the residue? Where is the work? g’ashondai’kwa
 Moderator: Lindsay Lachance
 
 3:10-3:30 pm Coffee Break
@@ -36,7 +37,7 @@ Moderator: Lindsay Lachance
 3:30
 Olivia Whetung
 some beads look like bullets
-Moderator: LÃ©a Toulouse
+Moderator: Léa Toulouse
 
 4:15
 

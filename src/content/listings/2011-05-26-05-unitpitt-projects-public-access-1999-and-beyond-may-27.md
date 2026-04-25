@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 5
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Public Access: 1999 And Beyond. | MAY 27"
 ---
 

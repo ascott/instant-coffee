@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 17
 type: ""
+venue: "Centre A"
 summary: "Centre A | A Little Distillery in Nowgong | JAN 30"
 ---
 

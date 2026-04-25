@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 6
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Brigitta Kocsis | Contingent Bodies | MAR 2"
 ---
 

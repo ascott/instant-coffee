@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 40
 type: "TALK"
+venue: "WAAP"
 summary: "WAAP | Marina Roy, Randy Lee Cutler and Ingrid Koenig | DEC 9"
 ---
 

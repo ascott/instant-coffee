@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 20
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Request for Proposals | Canada 150 | MAR 6"
 ---
 

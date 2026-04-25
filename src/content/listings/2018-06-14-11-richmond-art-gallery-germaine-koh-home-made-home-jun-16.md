@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 11
 type: "OPENING"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | Germaine Koh: Home Made Home | JUN 16"
 ---
 

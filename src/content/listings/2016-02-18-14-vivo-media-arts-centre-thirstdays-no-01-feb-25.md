@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | thirstDays No. 01 | FEB 25"
 ---
 

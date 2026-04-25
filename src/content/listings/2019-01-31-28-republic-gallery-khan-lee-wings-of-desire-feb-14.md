@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 28
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Khan Lee: Wings of Desire | FEB 14"
 ---
 

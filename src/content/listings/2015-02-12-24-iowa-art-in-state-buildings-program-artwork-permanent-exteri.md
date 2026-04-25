@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 24
 type: "CALL"
+venue: "Iowa Art in State Buildings Program"
 summary: "Iowa Art in State Buildings Program | Artwork permanent exterior installation | APR 2"
 ---
 
@@ -41,11 +42,11 @@ contact Katharina at katharinamschulz@gmail.com
 2.
 
 THE BLANK TANK GALLERY
-#102 â€“ 148 ALEXANDER STREET, VANCOUVER
+#102 – 148 ALEXANDER STREET, VANCOUVER
 Gastown/Railtown
 (formerly the Trench Gallery space)
 
-â€¦IS NOW AVAILABLE TO ARTISTS FOR WEEKEND SOLO/GROUP EXHIBITIONS & POP-UP
+…IS NOW AVAILABLE TO ARTISTS FOR WEEKEND SOLO/GROUP EXHIBITIONS & POP-UP
 SHOWS/SALES
 
 CURRENTLY BOOKING FEBRUARY THRU TO END OF 2015

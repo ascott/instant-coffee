@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stories of Home"
 emailDate: "Thu, 14 May 2020 18:35:10 -0700"
 number: 1
 type: "CALL"
+venue: "@QuaranTonics"
 summary: "@QuaranTonics | T O N I C S | 2020 (ANYTIME)"
 ---
 

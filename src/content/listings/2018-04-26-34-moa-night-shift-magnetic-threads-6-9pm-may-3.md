@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 34
 type: "EVENT"
+venue: "MOA"
 summary: "MOA | Night Shift: Magnetic Threads | 6-9PM | MAY 3"
 ---
 

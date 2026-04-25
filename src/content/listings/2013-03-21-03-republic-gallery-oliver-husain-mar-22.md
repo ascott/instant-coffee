@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 3
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | OLIVER HUSAIN | MAR 22"
 ---
 

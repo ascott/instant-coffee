@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 46
 type: "EXHIBITION"
+venue: "Nana Home Gallery"
 summary: "Nana Home Gallery | 7,7lb | APR 26"
 ---
 

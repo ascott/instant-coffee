@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 2
 type: "OPENING"
+venue: "grace-gallery"
 summary: "grace-gallery | Andy Dixon: How To Draw Everything | NOV 6"
 ---
 

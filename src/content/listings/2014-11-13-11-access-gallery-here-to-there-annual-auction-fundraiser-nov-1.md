@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 11
 type: "FUNDRAISER"
+venue: "Access Gallery"
 summary: "Access Gallery | Here to There: Annual Auction Fundraiser | NOV 15"
 ---
 
-Here to There: Accessâ€™ Annual Auction Fundraiser
+Here to There: Access’ Annual Auction Fundraiser
 
 Works on view November 8-15, 2014
 Preview night, Thursday, November 13, 2014, 7:00 pm
@@ -25,7 +26,7 @@ possible for the gallery to present compelling and critically engaged
 emergent practices and to develop exciting new programs. Here to There will
 feature artworks generously donated by more than 50 local and international
 artists. Proceeds from this fundraiser will in part go towards the
-development of Accessâ€™ new Traveling Artist Residency, 23 Days at Sea,
+development of Access’ new Traveling Artist Residency, 23 Days at Sea,
 which will enable selected artists to book passage aboard a cargo ship and
 sail across the Pacific Ocean from Vancouver to Busan, Korea and Shanghai,
 China. Artists will be considered â€œin residenceâ€  for the twenty-three days

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 45
 type: "EDUCATION"
+venue: "New Leaf Editions"
 summary: "New Leaf Editions | [WORKSHOP] Psychedelic Printshark | JUL 13-14 | JUL 13"
 ---
 

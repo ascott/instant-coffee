@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 16
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | RECLAIM : Lisa Jackson + Jonathan Schipper | 630PM | NOV 2"
 ---
 

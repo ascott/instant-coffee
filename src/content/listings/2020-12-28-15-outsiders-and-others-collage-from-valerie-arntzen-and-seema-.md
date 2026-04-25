@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 15
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Collage from Valerie Arntzen and Seema Shah | DEC 3"
 ---
 

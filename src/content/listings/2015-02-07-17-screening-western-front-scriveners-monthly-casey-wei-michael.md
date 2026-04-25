@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front | Scrivener's Monthly: Casey Wei & Michael Turner | FEB 12"
 ---
 
@@ -15,21 +16,21 @@ Thursday, February 12th @ 8pm
 Western Front, 303 East 8th Avenue
 Free Admission
 
-Scrivenerâ€™s Monthly presents a screening of Vancouver artist Casey Weiâ€™s
+Scrivener’s Monthly presents a screening of Vancouver artist Casey Wei’s
 new film, Kingsgate Mall Happenings, with a response by writer Michael Turner.
 
-Weiâ€™s film, produced during a Western Front Media Arts production
-residency, documents the artistâ€™s month-long programming at Kingsgate Mall
+Wei’s film, produced during a Western Front Media Arts production
+residency, documents the artist’s month-long programming at Kingsgate Mall
 in June 2014, which included live music, a talk show, an open mic, a zine
 library and more. Turner, who had been scheduled to present at the
 Happenings before they were unexpectedly cut short, will reflect on the
-projectâ€™s ideals, successes and failures as a snapshot of Mount Pleasant
+project’s ideals, successes and failures as a snapshot of Mount Pleasant
 and the Vancouver arts community.
 
 Artist Biographies
 
 Casey Wei (b. 1985 Shanghai) is a Vancouver-based artist and musician. She
-graduated from SFUâ€™s MFA program in 2012 and has made two films: Murky
+graduated from SFU’s MFA program in 2012 and has made two films: Murky
 Colors (2012), and Vater und Sohn/Father and Son/父与子 (2014). Her films
 collage together self-shot and appropriated footage to explore themes of
 family, memory and history. She is currently editing footage from Kingsgate

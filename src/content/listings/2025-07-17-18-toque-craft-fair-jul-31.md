@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 16 Jul 2025 22:15:13 -0700"
 number: 18
 type: "CALL"
+venue: "Toque Craft Fair"
 summary: "Toque Craft Fair | JUL 31"
 ---
 

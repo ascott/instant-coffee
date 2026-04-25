@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 9
 type: ""
+venue: "BLIM"
 summary: "BLIM | Square Waves Festival 2010 | DEC 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Wil Aballe"
 summary: "Wil Aballe | JOAN BALZAR - Above or Beyond | SEP 5"
 ---
 

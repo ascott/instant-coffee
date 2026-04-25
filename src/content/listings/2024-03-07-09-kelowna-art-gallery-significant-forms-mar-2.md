@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 9
 type: ""
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Significant Forms | MAR 2"
 ---
 

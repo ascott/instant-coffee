@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 16
 type: ""
+venue: "The Foreshore"
 summary: "The Foreshore | Martinez and Kreye Workshop | MAR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "Left of Main"
 summary: "Left of Main | Left of PuSh | JAN 26, 27, 30 & 31 | JAN 26"
 ---
 

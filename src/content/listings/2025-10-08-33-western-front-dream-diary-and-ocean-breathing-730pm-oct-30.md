@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 33
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | Dream Diary and Ocean Breathing | 730PM | OCT 30"
 ---
 

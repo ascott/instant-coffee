@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 4
 type: ""
+venue: "The Dance Centre"
 summary: "The Dance Centre | Helen Walkley: How is sleep beautiful? | OCT 1"
 ---
 

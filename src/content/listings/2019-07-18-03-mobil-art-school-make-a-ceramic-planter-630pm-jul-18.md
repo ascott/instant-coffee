@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 3
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Make a Ceramic Planter | 6:30PM | JUL 18"
 ---
 

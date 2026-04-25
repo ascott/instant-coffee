@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 18
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | The Polygon Gallery | Camera Geologica: Elemental History Photo | 6PM | OCT"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 21
 type: ""
+venue: "K Zhang Art Studio"
 summary: "K Zhang Art Studio | CALL for Under the Sky Art Exhibition | AUG 13"
 ---
 

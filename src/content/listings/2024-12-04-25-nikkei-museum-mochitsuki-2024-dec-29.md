@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 25
 type: "EVENT"
+venue: "Nikkei Museum"
 summary: "Nikkei Museum | Mochitsuki 2024 | DEC 29"
 ---
 

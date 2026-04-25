@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 18
 type: "CALL"
+venue: "VABF"
 summary: "VABF | VOLUNTEER FOR 2018 VANCOUVER ART BOOK FAIR | OCT 18"
 ---
 

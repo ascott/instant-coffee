@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 12
 type: "OPENING"
+venue: "Emily Carr University"
 summary: "Emily Carr University | Mixtape: Black Holes, Trauma and Leather | JUL 16"
 ---
 

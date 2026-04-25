@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 20
 type: ""
+venue: "CRAFT PRIDE PROCESSION"
 summary: "CRAFT PRIDE PROCESSION | Come join us and celebrate CRAFT! | AUG 6"
 ---
 

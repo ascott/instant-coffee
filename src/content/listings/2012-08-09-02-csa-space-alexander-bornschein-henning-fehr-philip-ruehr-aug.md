@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 2
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | ALEXANDER BORNSCHEIN & HENNING FEHR / PHILIP RUEHR | AUG 9"
 ---
 
@@ -14,8 +15,8 @@ Curated by Graham Dalik and Adam Harrison
 10 - 30 August, 2012
 Opening reception Thursday, 9th August, 6 - 9 p.m.
 
-Alexander Bornschein, Henning Fehr and Philipp RÃ¼hr are artists living
-and working in DÃ¼sseldorf, Germany. They will be present at the
+Alexander Bornschein, Henning Fehr and Philipp Rühr are artists living
+and working in Düsseldorf, Germany. They will be present at the
 opening.
 
 CSA Space

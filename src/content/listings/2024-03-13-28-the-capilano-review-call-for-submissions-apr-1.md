@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 28
 type: "CALL"
+venue: "The Capilano Review"
 summary: "The Capilano Review | Call for Submissions | APR 1"
 ---
 

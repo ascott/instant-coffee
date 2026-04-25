@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 73
 type: "TALK"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Ultimate Traveller: Impressions Madagascar | 7-9PM | OCT 30"
 ---
 

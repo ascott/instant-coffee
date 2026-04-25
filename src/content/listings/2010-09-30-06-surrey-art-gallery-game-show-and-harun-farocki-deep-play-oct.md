@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 6
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Game Show and Harun Farocki Deep Play | OCT 2"
 ---
 
@@ -37,14 +38,14 @@ The exhibition Game Show includes artworks as fictional games,
 re-interpreted games, portrayals of existing recreational subcultures like
 BMX biking and skateboarding, video games, amateur sport, alternative
 playgrounds, board games to paintball. In Grand Theft Love Song (2010),
-Myfanwy Ashmore choreographs the main thug character in a â€œfirst-person
+Myfanwy Ashmore choreographs the main thug character in a “first-person
 shooterâ€  video game to perform modern interpretive dance to a Duke
 Ellington score. Mimicking the camera angles, tracking and zoom shots of
 â€œpoker televisionâ€  and gambling room video surveillance, Paul Wongâ€™s
 Mahjong (2010) installation reveals the intricate micro-dynamics and verbal
 and visual queues that are integral to this classic game. â€œMinor leagueâ€ 
 professional wrestling shows off its carnival spectacle, theatrical prowess
-and undercurrent of racial and class dynamics in Brian Howellâ€™s Wrestlers
+and undercurrent of racial and class dynamics in Brian Howell’s Wrestlers
 (2001) series.
 
 Game Show is a group exhibition that investigates the many relationships
@@ -56,10 +57,10 @@ This group exhibition examines play and games as forms of mediated display,
 communication, and social relationship building while, at the same time,
 revealing the similarities and differences in approaches to play across the
 diverse cultural practices associated with recreation, amateur sport,
-electronic and board games. Drawn, in part, from the Surrey Art Galleryâ€™s
-Permanent Collection, Game Showâ€™s combination of photographs, drawings,
+electronic and board games. Drawn, in part, from the Surrey Art Gallery’s
+Permanent Collection, Game Show’s combination of photographs, drawings,
 prints, videos and sculpture, raise questions about how play and games
-function in todayâ€™s globalized world.
+function in today’s globalized world.
 
 Harun Farocki Deep Play
 
@@ -73,11 +74,11 @@ immerses the viewer inside humanity's largest sporting spectacle. This
 monumental installation has taken on an even more poignant light in the
 aftermath of the 2010 World Cup Final, where audiences were able to
 experience soccer through new forms of digital media like never before.
-Farockiâ€™s critically acclaimed artwork presents an exacting portrait of how
+Farocki’s critically acclaimed artwork presents an exacting portrait of how
 sport has been shaped and transformed by contemporary mass media and new
 technology.
 
-Described by Thomas Elsaesser as â€œcinemaâ€™s most illustrious
+Described by Thomas Elsaesser as “cinema’s most illustrious
 artist-archeologist,â€  Berlin-based Farocki has been a pioneer in the field
 of documentary art for the past four decades. Farocki has made close to 90
 films, including features, essays and documentaries. His media installation
@@ -92,7 +93,7 @@ exhibitions, Checking in with your hotspots (until October 17) Open Sound:
 play.back.work, and Our World As We See It: South Surrey White Rock Art
 Society.
 
-Surrey Art Gallery is at 13750 â€“ 88th Avenue, 1 block east of King George
+Surrey Art Gallery is at 13750 – 88th Avenue, 1 block east of King George
 Blvd. in
 Bear Creek Park, Surrey, BC Canada
 

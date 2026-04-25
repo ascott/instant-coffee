@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 25
 type: "CALL"
+venue: "XINEMA"
 summary: "XINEMA | EXPERIMENTAL FILM & MEDIA ART/WORKSHOPS/GUEST PROG | JUN 1"
 ---
 

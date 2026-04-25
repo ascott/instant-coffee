@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 4
 type: ""
+venue: "221A"
 summary: "221A | Part 3: Staging by Willie Brisco | MAR 1"
 ---
 
@@ -34,13 +35,13 @@ be radical: they are aware that the original frame is itself made up and
 therefore any form of 'break' with it only works to confirm it's power. The 
 foundation of the law is originally 'illegal' from the order that it creates.
 
-This split between frame and content is the founding principle of the â€˜Aesthetic 
-Regime of the Artsâ€™ as Ranciere discusses. It took the history of modern art, 
-from â€˜The Painting of Modern Lifeâ€™ to Dada to Institutional Critique to confirm 
+This split between frame and content is the founding principle of the ‘Aesthetic 
+Regime of the Arts’ as Ranciere discusses. It took the history of modern art, 
+from ‘The Painting of Modern Life’ to Dada to Institutional Critique to confirm 
 this foundational principle. Since this is already known to us, why not relax? 
 The call for change will always win because living with this contradiction would 
 be more unbearable. Can we hear the call and not react? Could this lack of 
-action be the movement weâ€™re looking for?
+action be the movement we’re looking for?
 
 Please join us on March 1, 2013 for a performance by Willie Brisco who will 
 create the stage set for The Part of No Part.
@@ -78,8 +79,8 @@ With work by Betino Assa, Sony Assu, Dean Baldwin, Heather Benning,
 Katie Bethune-Leamen, Jennifer Marman & Daniel Borins, Diane Borsato, 
 Michel de Broin, Adam David Brown, Maryanne Casasanta, John Armstrong 
 and Paul Collins, Michel Daigneault, Maura Doyle, Dave Dyment, Scott 
-Everingham, Janieta Eyre, FASTWÃœRMS, Elisa Julia Gilmour, Sky Glabush, 
-Martin Golland, Jessica Groome, David R. Harper, Iris HÃ¤ussler, Colleen 
+Everingham, Janieta Eyre, FASTWÜRMS, Elisa Julia Gilmour, Sky Glabush, 
+Martin Golland, Jessica Groome, David R. Harper, Iris Häussler, Colleen 
 Heslin, Dil Hildebrand, Robert Houle, Joanne Hui, Instant Coffee, Chris 
 Ironside, Jay Isaac, Patrick Howlett and Kelly Jazvac, Sarah Anne Johnson, 
 Laurie Kang, Andrea Kastner, Eleanor King, JP King, Kristiina Lahde, Maryse 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | changeXchange | MAR 30"
 ---
 

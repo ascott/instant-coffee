@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 7
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Betty Tompkins: Women Words | 6-8PM | JUN 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 19
 type: ""
+venue: "Vancouver International Film Festival"
 summary: "Vancouver International Film Festival | viff.org | SEP 29"
 ---
 

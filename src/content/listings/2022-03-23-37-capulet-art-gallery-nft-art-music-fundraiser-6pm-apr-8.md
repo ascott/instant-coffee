@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 37
 type: "FUNDRAISER"
+venue: "Capulet Art Gallery"
 summary: "Capulet Art Gallery | NFT Art & Music Fundraiser | 6PM | APR 8"
 ---
 

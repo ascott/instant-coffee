@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 10
 type: "EVENT"
+venue: "Cathedral Suqare Park"
 summary: "Cathedral Suqare Park | Re-grounding the Footnotes: DRIL Art Collective | JUN 4"
 ---
 

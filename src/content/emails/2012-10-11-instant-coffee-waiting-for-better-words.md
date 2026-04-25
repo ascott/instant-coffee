@@ -102,13 +102,13 @@ As part of her residency, Claire Fontaine will work with students from
 both the MFA Program at the School for the Contemporary Arts at 
 Simon Fraser University and the MFA in Visual Art Program at the 
 University of British Columbia, screening a selection of films and 
-leading a series of seminars exploring the artistâ€™s notion of the â€œhuman 
+leading a series of seminars exploring the artist’s notion of the “human 
 strike.â€  This work with students will culminate in a final public 
 presentation by Claire Fontaine, featuring a talk and a screening of 
 excerpts from the selected films, on November 24 at 7:00 pm at the 
 Djavad Mowafaghian Cinema in the Goldcorp Centre for the Arts.
 Carelessness Causes Fire is realized with the support of the Consulat 
-gÃ©nÃ©ral de France in Vancouver, and presented in partnership with the 
+général de France in Vancouver, and presented in partnership with the 
 Institutions by Artists conference, which runs from October 12 to 14, 
 2012, at Simon Fraser University at Goldcorp Centre for the Arts.
 The Audain Gallery is curated by Sabine Bitter, working with gallery 
@@ -154,7 +154,7 @@ Canada Council and Emily Carr University.
 <a href="/instant-coffee/listings/2012-10-11-03-fag-satellite-access-gallery-sharlene-bamboat-performances-o">03. FAG Satellite @ Access Gallery | Sharlene Bamboat | Performances | OCT 11</a>
 ------------------------------------------------------------------------
 Final week of FAG Satellite @ Access Gallery;
-The Queenâ€™s Punishment /Sharlene Bamboat / October 11-13
+The Queen’s Punishment /Sharlene Bamboat / October 11-13
 
 Performances at Access Gallery: October 11, 8:30 PM / October 12, 
 8:30 PM / October 13, 9:30 PM
@@ -165,11 +165,11 @@ retribution
 A 3 part performance installation by Sharlene Bamboat.
 
 On March 29, 2012 it was announced that Canada would stop 
-producing the 1Â¢ coin, commonly known as the penny. A symbol of 
-sovereignty and colonial rule, the pennyâ€™s place in Canadian national 
-currency ensured the circulation of the Queenâ€™s profile in Canadaâ€™s 
+producing the 1¢ coin, commonly known as the penny. A symbol of 
+sovereignty and colonial rule, the penny’s place in Canadian national 
+currency ensured the circulation of the Queen’s profile in Canada’s 
 public sphere since her coronation in 1952. The year 2012 also 
-marked another historic event: the Queenâ€™s Diamond Jubilee. What 
+marked another historic event: the Queen’s Diamond Jubilee. What 
 better way to mark the waning of a colonial symbol than the 
 simultaneous pomp and pageantry of a $7.5 million celebration for the 
 Queen in Canada?
@@ -184,19 +184,19 @@ composition, Bamboat uses performance to chart the history of the
 Canadian penny through the legacy of British imperialism. Following 
 her own lineage through colonialism, Bamboat considers how the 
 establishment of British rule in Canada (1763) connects with the 
-introduction of the 1Â¢ coin and handing over of India to the British 
+introduction of the 1¢ coin and handing over of India to the British 
 crown nearly a century later (1858). With the rise and fall of the British 
 Empire, Bamboat traces the residues of those archaic forms of 
-governance â€“ those colonial nationalisms that persist in our present. 
+governance – those colonial nationalisms that persist in our present. 
 Matching the punishment to the crime, Bamboat sentences the Queen 
-to a laborious task of accounting for the pennyâ€™s history in colonial rule.
+to a laborious task of accounting for the penny’s history in colonial rule.
 
 To commemorate the punishment, the artist will be issuing limited 
 edition commemorative postcards with 154 absolved pennies.
 
 - Natalie Kouri-Towe
 
-The Queenâ€™s Punishment is the final installation in a series by 
+The Queen’s Punishment is the final installation in a series by 
 emerging Feminist artists in conjunction with the FAG Satellite @ 
 Access.
 
@@ -211,7 +211,7 @@ Bamboat regularly works in collaboration with artists and academics. In
 2011, she co-created Border Sounds with media artist Alexis Mitchell. 
 A site specific sound and performance installation, Border Sounds 
 challenged the nature of territorial and national borders culminating in 
-a silent disco in an underground parking garage in Toronto. Bamboatâ€™s 
+a silent disco in an underground parking garage in Toronto. Bamboat’s 
 2012 installation, Throwback, a collaboration with the Feminist Art 
 Gallery (FAG) and Montreal-based video and performance artist Ali El-
 Darsa, was a performative response to queer archiving, and the 
@@ -220,7 +220,7 @@ American art production. Upcoming shows include a commission for
 8Fest, Toronto and a performance for Hemispheric Institute Encuentro, 
 Sao Paolo, Brazil.
 
-Bamboatâ€™s work has been exhibited across Canada, Europe, South 
+Bamboat’s work has been exhibited across Canada, Europe, South 
 Asia and the United Kingdom. She is on the programming committee of 
 the Pleasure Dome Film & Video Collective, and works as the 
 programmer for SAVAC (South Asian Visual Arts Centre).
@@ -340,7 +340,7 @@ community and civic history, the Geyser was commissioned by
 the City of Vancouver. The water feature is a reference to both the
 natural and man-made elements of the centre: it is thematically
 tied to the history of underground streams in the area, and is also
-mechanically tied to the LEED-certified buildingÃ¢â‚¬â„¢s grey water
+mechanically tied to the LEED-certified buildingâ€™s grey water
 collection cistern.
 speaker bios
 Vanessa Kwan and Erica Stocking are Vancouver-based artists
@@ -350,8 +350,8 @@ to produce work that is materially diverse, conceptually oriented,
 and concerned with the communities and histories that inform a
 site or situation. They both graduated from Emily Carr University
 of Art and Design in 2004 and they have collaborated on the
-performance art collective Ã¢â‚¬Å“NormaÃ¢â‚¬ , which received a MayorÃ¢
-â‚¬â„¢s Art
+performance art collective â€œNormaâ€ , which received a Mayorâ
+€™s Art
 Award for Public Art in 2011.
 about the Centre
 The Langara College Centre for Art in Public Spaces engages
@@ -438,7 +438,7 @@ Vancouver, British Columbia.
 It is our goal to provide an exciting retail space to connect young artists 
 with new collectors and appreciators. Rather than seeking donations 
 from the public, we promise to provide quality artwork at a reasonable 
-price. Consider it a â€˜mom and pop-up-shopâ€™ for art in Vancouver.
+price. Consider it a ‘mom and pop-up-shop’ for art in Vancouver.
 
 Foregoing the traditional models of an art gallery, Good Luck will 
 change the art on the walls daily, while keeping stock of everything we 
@@ -456,11 +456,11 @@ account for our hours of operation and daily events: @GoodLuckArt
 Institutions by Artists: Print Centre
 
 During its upcoming Institutions by Artists conference, Fillip is pleased 
-to present a series of parallel events in the lobby of SFU Woodwardâ€™s 
+to present a series of parallel events in the lobby of SFU Woodward’s 
 that investigate the material culture produced by the institutional 
 practices of artists. The Print Centre will feature talks, launches, and 
 screenings by conference presenters and attendees. These events are 
-free and open to the publicâ€”everyone is welcome.
+free and open to the public—everyone is welcome.
 
 The programme will be presented alongside a temporary bookstore 
 organized in collaboration with Motto Books, Berlin.
@@ -495,7 +495,7 @@ Oct. 13, 6 pm
 Talk: â€œA Story of the Museum of American Artâ€  (Berlin)
 A Museum technician outlines the trajectory of an educational 
 institution dedicated to assembling, preserving, and exhibiting 
-memoriesâ€”primarily those of the prewar MoMA.
+memories—primarily those of the prewar MoMA.
 
 Oct. 14, 1 pm
 Launch: This Book is a Classroom
@@ -595,7 +595,7 @@ Daniel Presnell
 ------------------------------------------------------------------------
 Variety Show Television | Saturday October 13th 
 
-A FREE two-part presentation on artistâ€™s experimental television 
+A FREE two-part presentation on artist’s experimental television 
 practices.
 
 Part 1: Show Talk will feature a rare opportunity to see highlights from 
@@ -632,7 +632,7 @@ a small handmade magazine produced on the occasion of an event
 and typically based on one question to form a responsive journal.
 
 For this issue Instant Coffee has invited select attendees of The 
-Convention to take â€œnotesâ€™ at select sessions to be published as part of 
+Convention to take “notes’ at select sessions to be published as part of 
 GOOD NEWS #5. 
 
 This issue will act as peripheral document of some of the concepts and 
@@ -675,7 +675,7 @@ exhibited in many prominent art institutions as well has produced
 numerous Public Art projects. Currently Instant Coffee recently 
 produced a sculptural wall mural for the City of Edmonton and created 
 a colourful environment for the Southhill Community in Vancouver. As 
-part of the City of Vancouverâ€™s Cultural Olympic programme, the 
+part of the City of Vancouver’s Cultural Olympic programme, the 
 Collective opened Light Bar a full-spectrum light bar installation and 
 venue for light therapy, light lectures, light shows, light reading and 
 light rock. In 2009 Instant Coffee exhibited the Disco Fallout Shelter, at 
@@ -684,11 +684,11 @@ Nooks as part of How Soon is Now, Vancouver Art Gallery; Light Bar as
 part of Assume Nothing, New Social Practice, Art Gallery of Greater 
 Victoria; Bright Future as part of 88 Blocks Art on Main a Public Art 
 Commission by Translink and Come In: Disco Fallout Shelter as part of 
-LIVE 2009, Vancouver and Instant Coffee, SÃ¸lyst, Denmark. Other 
+LIVE 2009, Vancouver and Instant Coffee, Sølyst, Denmark. Other 
 recent residencies and exhibitions include Light Bar Research and 
 Residency, Hotel Maria Kapel, The Netherlands, Kuenstlerhaeuser 
 Worpswede, Germany, Flaggfabrikken Kunsthall, Bergen, Norway; If 
-You Lived Here Youâ€™d Be Home By Now, Henry Art Gallery, Seattle; 
+You Lived Here You’d Be Home By Now, Henry Art Gallery, Seattle; 
 Wish You Were Here, Casa del Encuentro MDE07 encuentro 
 internacional, Medellin, Colombia. Instant Coffee's most consistent 
 members are Jinhan Ko, Kelly Lycan, Khan Lee, Jenifer Papararo, 
@@ -780,8 +780,8 @@ including campy features, abstract formal experiments and graphic
 porn. The screenings were such a success that Dorr soon opened his 
 own space, called EZTV, in a nearby strip mall, which grew into a video 
 collective that also rented out production equipment and provided tech 
-support for queer artists. This pioneering independent video gallery â€“ 
-the first in the US â€“ was not only a resource for alternative media-
+support for queer artists. This pioneering independent video gallery – 
+the first in the US – was not only a resource for alternative media-
 makers throughout the 1980s, but also became a primary site of 
 organizing for the Southern California branches of ACT UP and Queer 
 Nation. In this talk, Bryan-Wilson examines how the particular 
@@ -796,31 +796,31 @@ Contemporary Art at the University of California, Berkeley. Her
 research interests include questions of artistic labour, feminism and 
 queer theory. Her writings on artists such as Laylah Ali, Ida 
 Applebroog, Sadie Benning, Harmony Hammond, Sharon Hayes, 
-CristÃ³bal Lehyt, Yoko Ono, Yvonne Rainer, Anne Wilson and 
+Cristóbal Lehyt, Yoko Ono, Yvonne Rainer, Anne Wilson and 
 Francesca Woodman have appeared in exhibition catalogues as well 
 as in the Art Bulletin, Artforum, Bookforum, Camera Austria, Camera 
 Obscura, October, Journal of Modern Craft and Oxford Art Journal. 
 She is the author of Art Workers: Radical Practice in the Vietnam War 
-Era (University of California, 2009), which was named an â€œoutstanding 
+Era (University of California, 2009), which was named an “outstanding 
 academic titleâ€  by Choice magazine, and the editor of Robert Morris, 
 forthcoming from MIT Press/October Files series. Bryan-Wilson was an 
 essayist for the State of Mind catalogue, as well as the project art 
 historian for the Pacific Standard Time exhibition Collaboration Labs.
 
-Julia Bryan-Wilsonâ€™s lecture is presented in conjunction with the 
+Julia Bryan-Wilson’s lecture is presented in conjunction with the 
 exhibition currently on view at the Belkin Art Gallery, State of Mind: 
 New California Art Circa 1970.
 
 _________________________________________________
 
-Fiftieth Anniversary of Fluxus 1962â€“2012
+Fiftieth Anniversary of Fluxus 1962–2012
 
-October 5 â€“ December 31, 2012
+October 5 – December 31, 2012
 Walter C. Koerner Library, Main floor, 1958 Main Mall, UBC
 
-An exhibition celebrating 50 years of Fluxus â€“ an international network 
+An exhibition celebrating 50 years of Fluxus – an international network 
 of avant-garde intermedia artists, composers and designers active 
-from the early 1960s to the late 1970s â€“ opens at the Walter C. 
+from the early 1960s to the late 1970s – opens at the Walter C. 
 Koerner Library on Friday, October 5 as part of the Art in the Library 
 project. Selected by artists Michael Morris and Vincent Trasov, the 
 works in the exhibition are comprised of collages, books, prints and 
@@ -830,11 +830,11 @@ Archives and the Morris/Trasov Archive at the Belkin Art Gallery.
 Fluxus â€“ which comes from the Latin word â€œto flowâ€  - was born from the 
 experimental composition classes taught by avant-garde musician 
 John Cage from 1956 to 1961 at the New York School for Social 
-Research. Interested in Cageâ€™s ideas about merging art and daily life, 
-George Maciunas began attending Cageâ€™s Electronic Music class in 
+Research. Interested in Cage’s ideas about merging art and daily life, 
+George Maciunas began attending Cage’s Electronic Music class in 
 1960. Maciunas, considered the father of Fluxus, developed a 
-sensibility towards intermediaâ€”music, performance, poetry, 
-typographyâ€”that came to characterize the spirit of Fluxus.
+sensibility towards intermedia—music, performance, poetry, 
+typography—that came to characterize the spirit of Fluxus.
 
 In September 1962, the first Fluxus Festival was held in Wiesbaden, 
 Germany. By presenting music and performance work it pitted itself 
@@ -842,7 +842,7 @@ against the modernist, formal abstract painting prevalent in the United
 States in the 1950s and, like the ideas of Cage, the Festival related to 
 the early 20th century nihilistic humour of Dada and Marcel Duchamp. 
 Fluxus was global in spirit and included artists such as Joseph Beuys, 
-Milan KnÃ­Å¾Ã¡k, Yoko Ono, Nam June Paik, Carolee Schneemann, and 
+Milan Knížák, Yoko Ono, Nam June Paik, Carolee Schneemann, and 
 Meiko Shiomi. In opposition to the mainstream art market, non-
 traditional materials and approaches were used to create happenings, 
 minute events such as eating lunch every day at the same time, activity 
@@ -873,7 +873,7 @@ In 2012, the Audain Foundation graciously renewed its funding for this
 important collaborative project and we look forward to another 
 successful series of innovative and provocative exhibitions.
 
-â€”
+—
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-10-11-17-w2-media-cafe-creative-commons-canada-oct-15">17. W2 Media Cafe | Creative Commons Canada | OCT 15</a>
@@ -936,7 +936,7 @@ from the Berlin underground to the front lines of the Spanish Civil War
 and on to other parts of Europe, the story teems with characters, 
 almost all of whom are based on historical figures.
 
-Peter Ulrich Weiss (8 November 1916 â€“ 10 May 1982) was a German 
+Peter Ulrich Weiss (8 November 1916 – 10 May 1982) was a German 
 writer, painter, graphic artist, and experimental filmmaker of adopted 
 Swedish nationality. He is particularly known for his plays Marat/Sade 
 and The Investigation and his novel The Aesthetics of Resistance. 
@@ -955,9 +955,9 @@ filmmaker remains less well-known.
 Karen Mirza and Brad Butler have worked together since 1998, and in 
 2004 formed no.w.here, an artist-run space for the production, 
 discussion and dissemination of practices engaged with the moving 
-image, politics, technology and aesthetics. no.w.hereâ€™s role as a 
+image, politics, technology and aesthetics. no.w.here’s role as a 
 cooperative environment is directly related to the centering of Mirza 
-and Butlerâ€™s own practice upon collaboration, dialogue and the social. 
+and Butler’s own practice upon collaboration, dialogue and the social. 
 Mirza and Butler are currently producing a new film, entitled Deep 
 State, in collaboration with science fiction author China Mieville which 
 takes its starting point in different moments of political struggle, 
@@ -974,7 +974,7 @@ their work but their collective approach to production.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-10-11-19-ecu-concourse-gallery-exchange-show-2012-oct-18">19. ECU | Concourse Gallery | EXCHANGE SHOW 2012 | OCT 18</a>
 ------------------------------------------------------------------------
-EXCHANGE SHOW 2012: October 18 â€“ 25, 2012
+EXCHANGE SHOW 2012: October 18 – 25, 2012
 Concourse Gallery (1399 Johnston Street Vancouver, BC)
 Emily Carr University would like to welcome back its students returning 
 from the 2011/2012 Exchange Program with the exhibition EXCHANGE 
@@ -1006,7 +1006,7 @@ Person or Nation to Move Forward
 PANELISTS: Madeleine Thien, novelist Rawi Hage, writer, visual artist, 
 and curator Dana Claxton, Visual Arts, UBC
 
-DATE: October 18, 5:00 pm â€“ 6:30 pm
+DATE: October 18, 5:00 pm – 6:30 pm
 
 LOCATION: Coach House, Green College, UBC (6201 Cecil Green 
 Park Road, Vancouver)
@@ -1019,7 +1019,7 @@ College Series
 DESCRIPTION: Panelists from a variety of arts backgrounds including 
 writing and the visual arts will collectively look at forgiveness, 
 reconciliation and accountability in a global and local context. What is 
-â€˜Artâ€™sâ€™ response to this topical subject, which grips many nations in both 
+‘Art’s’ response to this topical subject, which grips many nations in both 
 the East and West? What is its response to the challenges inherent in 
 reconciliation? What does Art contribute to achieving these ends?
 
@@ -1072,10 +1072,10 @@ Langara.
 ------------------------------------------------------------------------
 Shudder Gallery is pleased to present:
 
-I BELIEVE I CAN FLY â€“ New works by V.Vecker 
+I BELIEVE I CAN FLY – New works by V.Vecker 
 
-October 19thâ€“30th 2012. 
-Opening reception October 18th 7pmâ€“11pm
+October 19th–30th 2012. 
+Opening reception October 18th 7pm–11pm
 
 Artist will be in attendance. 
 
@@ -1105,7 +1105,7 @@ Gallery Hours thurs,fri,sat 12:30-5:30pm
 ------------------------------------------------------------------------
 
 TRENCH Gallery, 148 Alexander Street
-Oct 18 â€“ Nov 24
+Oct 18 – Nov 24
 Sculpture and Photography
 Opening Reception Thursday, October 18th, 6-9pm, Artist in 
 Attendance
@@ -1113,7 +1113,7 @@ Attendance
 Nicholas Galanin is the 2012/13 Audain Professor in Contemporary 
 Arts of the Pacific Northwest at the University of Victoria. "I LOOOOVE 
 YOUR CULTURE" is his second solo show at Trench and includes 
-primarily sculpture and photography. Galaninâ€™s work is a highly 
+primarily sculpture and photography. Galanin’s work is a highly 
 charged mix of beauty, material knowledge, politics and contemporary 
 cultural representation. Valuing his culture as highly as his individuality, 
 Galanin has become one of North America's Leading Conceptual 
@@ -1191,7 +1191,7 @@ explorations of the everyday heighten an awareness of cultural
 constructs, while reimagining their significance in our present cultural 
 climate. Recent exhibitions include Drifter's Clip at Open Space in 
 Victoria, BC (2011) and City Hall, a site-specific performative 
-drawing installation for VancouverÃ¢â‚¬â„¢s city-wide Drawn Festival 
+drawing installation for Vancouverâ€™s city-wide Drawn Festival 
 (2009). In 2013, DRIL will participate in a group exhibition at Kamloops 
 Art Gallery. 
 
@@ -1220,7 +1220,7 @@ Monitoring [A Dollʼs House] is a performance, interactive and multi-
 channel video installation which explores identity, surveillance, 
 technology, and privacy.
 
-[Pegah]: â€œSince I am from Iran, the difference between the life one 
+[Pegah]: “Since I am from Iran, the difference between the life one 
 leads outside, in public, and the life she leads inside, within interiors 
 (i.e., those places where she can hide herself from the outside world 
 and feel safe) has always been very striking to me. What was 
@@ -1303,15 +1303,15 @@ Ali Kazimi's Undesirables: White Canada & the Komagata Maru
 Award.
 
 TO|FROM BC Electric Railway 100 Years is a group exhibition 
-celebrating the historic BC Electric Railway (BCER) buildingâ€™s 
+celebrating the historic BC Electric Railway (BCER) building’s 
 centennial anniversary, the current home of Centre A. Sitting below the 
 six-story Second Empire Renaissance styled building, the early 1900s 
 saw the BCER terminal blossom into a bustling interurban railway 
-station. Addressing the buildingâ€™s importance to the collective memory 
+station. Addressing the building’s importance to the collective memory 
 of Vancouver, six contemporary artists, Raymond Boisjoly, Stan 
 Douglas, Ali Kazimi, Vanessa Kwan, Evan Lee and Cindy Mochizuki will 
-draw on the site and the neighbourhoodâ€™s expansive history to 
-consider the buildingâ€™s significance as a cosmopolitan centre for new 
+draw on the site and the neighbourhood’s expansive history to 
+consider the building’s significance as a cosmopolitan centre for new 
 immigrants. This show runs until November 10.
 
 ALSO OF NOTE
@@ -1320,7 +1320,7 @@ Online Publication
 
 Our online publication of TO|FROM can be viewed HERE.
 
-Copyright Â© 2012 Centre A. All rights reserved.
+Copyright © 2012 Centre A. All rights reserved.
 2 West Hastings Street | Vancouver BC V6B 1G6 | 604.683.8326
 www.centrea.org | info@centrea.org
 Hours: Tuesday-Saturday 11am-6pm | Admission Free
@@ -1362,9 +1362,9 @@ The aesthetics, poetics and history of electromagnetic sound will be
 examined, as well as how electromagnetic technologies are reshaping human
 subjectivity and the social world.
 
-Sound Thinking is part of the GalleryÃ¢â‚¬â„¢s Open Sound program, and takes place
-at the Surrey Art Gallery on Sunday, October 21, 12Ã¢â‚¬â€œ5pm. Admission is free
-Ã¢â‚¬â€œ donations are gratefully received. Seating is limited.
+Sound Thinking is part of the Galleryâ€™s Open Sound program, and takes place
+at the Surrey Art Gallery on Sunday, October 21, 12â€“5pm. Admission is free
+â€“ donations are gratefully received. Seating is limited.
 
 Keynote speaker: Douglas Kahn, author of the forthcoming book Arts of the
 Spectrum: In the Nature of Electromagnetism, and Professor of Media and
@@ -1381,12 +1381,12 @@ Conveners: Ross Birdwise and Jordan Strom
 
 Sound Thinking 2012 is presented in conjunction with Open Sound 2012: On
 Air, Underground: Making the Inaudible Audible, a series of sound art
-installations situated in the Surrey Art CentreÃ¢â‚¬â„¢s public spaces give
+installations situated in the Surrey Art Centreâ€™s public spaces give
 expression to voiceless and sometimes intangible things. The artists in
-this yearÃ¢â‚¬â„¢s Open Sound exhibition are Kristen Roos, Alex GrÃƒÂ¼nenfelder, and
+this yearâ€™s Open Sound exhibition are Kristen Roos, Alex GrÃ¼nenfelder, and
 Debashis Sinha.
 
-Founded in 2008, the Surrey Art GalleryÃ¢â‚¬â„¢s Sound Thinking symposium is an
+Founded in 2008, the Surrey Art Galleryâ€™s Sound Thinking symposium is an
 annual one day event which brings together practitioners and professionals
 in the field of sound art. The symposium features leading sound artists,
 scholars and researchers in the field sound studies, along with visual
@@ -1487,11 +1487,11 @@ VANCOUVER The Powell Street Festival Society and BLIM are
 pleased to present in partnership with VIVO Arts Media Centre the third 
 edition of Cute to Kill, an expose of recent video works from local, 
 national, and international animators and video artists. This series of 
-short films explore the artistsâ€™ morbid fascination with dark subject 
+short films explore the artists’ morbid fascination with dark subject 
 matter through the guise of â€œcuteâ€ --a prevalent juxtaposition in 
 contemporary Asian pop culture.
 
-Blimâ€™s Yuriko Iga and Vancouver-based artist Daniel Giantomaso co-
+Blim’s Yuriko Iga and Vancouver-based artist Daniel Giantomaso co-
 curate Cute to Kill III, a wide range of adorably despondent short films 
 to be viewed as a collection for this one night only. Featuring short 
 animations by international Japanese artists Hoji Tsuchiya, Saori 
@@ -1502,16 +1502,16 @@ classic Ringing Bell (1978) by Masami Hata.
 
 As part of the short animation line-up, we present three works by Hoji 
 Tsuchiya, Monkey Dreams (2006), Night Park (2005) and Tashou 
-Kougou (2008) displaying the artistâ€™s eclectic use of methods and 
+Kougou (2008) displaying the artist’s eclectic use of methods and 
 materials such as paper cutouts, shadow puppets, banana peels, and 
 photocopiers. On the other end of the spectrum, Silver Night of the 
 Light (2005) by self-taught animator Saori Shiroki is a melancholic 
-painterly animation. Local artist Kiyoshi Kohatsuâ€™s film features a story 
-of a voodoo doll and the ownerâ€™s misfortunes. Atsushi Wadaâ€™s award-
+painterly animation. Local artist Kiyoshi Kohatsu’s film features a story 
+of a voodoo doll and the owner’s misfortunes. Atsushi Wada’s award-
 winning animation The Great Rabbit (2012) (Silver Bear award at 
-Berlin Film Festival) displays the worshipping of a â€˜great rabbit,â€™ 
+Berlin Film Festival) displays the worshipping of a ‘great rabbit,’ 
 examining the theme of disobedience. Capping off the screening of 
-shorts is Shin Hashimotoâ€™s work Beluga (2011), a surrealist display of 
+shorts is Shin Hashimoto’s work Beluga (2011), a surrealist display of 
 fantasy and violence, which has been selected for screenings at 
 various European film festivals. 
 
@@ -1520,7 +1520,7 @@ glitch musician Takashi Masahiro, the evening will feature a special
 presentation of the cult classic animation Ringing Bell by Masami Hata. 
 Produced by Sanrio, the Japanese company best known for its 
 manufacturing of iconic Hello Kitty products, Ringing Bell evolves from 
-a cute childrenâ€™s story about an adorable lamb into a dark film of 
+a cute children’s story about an adorable lamb into a dark film of 
 vengeance. 
 
 MEDIA CONTACT: Kristen Lambertson (gm@powellstreetfestival.com 
@@ -1694,7 +1694,7 @@ Please note that we do not accept email proposals for our main space.
 
 All submissions can be sent to:
 
-Eyelevel Gallery â€“ Programming Committee
+Eyelevel Gallery – Programming Committee
 c/o: Michael McCormack 
 2159 Gottingen Street
 Halifax, Nova Scotia, Canada
@@ -1725,7 +1725,7 @@ https://www.facebook.com/topdownbottomup
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-10-11-35-cineworks-sfu-arsenal-pulp-press-an-evening-with-sarah-schul">35. Cineworks & SFU & Arsenal Pulp Press | An Evening with Sarah Schulman | NOV 3</a>
 ------------------------------------------------------------------------
-Cineworks in partnership with SFUâ€™s Vancity Office of Community 
+Cineworks in partnership with SFU’s Vancity Office of Community 
 Engagement and Arsenal Pulp Press and Xtra! Present:
 
 Witness to a Lost Generation:
@@ -1764,7 +1764,7 @@ programs@cineworks.ca or 604.685.3841
 
 Cineworks gratefully acknowledges the support of our membership, 
 volunteers, sponsors and the ongoing financial assistance of our 
-funders â€“the Canada Council for the Arts, the British Columbia Arts 
+funders –the Canada Council for the Arts, the British Columbia Arts 
 Council and the City of Vancouver. www.cineworks.ca
 
 
@@ -1781,7 +1781,7 @@ Vancouver's Largest Zine Fair and Festival of Alternative Culture
 November 17, 2012
 W2 Community Media Arts Centre
 111 West Hastings Street
-1 â€“ 7pm
+1 – 7pm
 $5 admission includes the fall issue of Broken Pencil Magazine
 
 For Canzine line-up visit
@@ -1806,9 +1806,9 @@ Project Description
 As part of her interaction with the archive in the Wandering Art 
 Metropole Publications and Ephemera Archive: Part 2, leannej invites 
 artists to submit two-dimensional work to The New Archive Project 
-throughout the exhibition (October 5 â€“ November 17). The Wandering 
+throughout the exhibition (October 5 – November 17). The Wandering 
 Archive features back issues and other materials from FILE Megazine
-â€”an art magazine published by Art Metropole from 1972 and 1986â€”
+—an art magazine published by Art Metropole from 1972 and 1986—
 which will be on display at Project Space. Artists are encouraged to 
 reference the history of FILE and the ground-breaking work of General 
 Idea when creating new archive materials and are also asked to 
@@ -1825,8 +1825,8 @@ until1986, FILE approached art publishing with a fun, inclusive, camp
 sensibility. Unlike the more established art magazines published at the 
 time, FILE did not critique art; instead, the editors approached its 
 content much like a mobile gallery.FILE took its name from the iconic 
-Life Magazine. This approachâ€”reusing popular and mass cultural 
-themesâ€”was typical of the editors and contributors of FILE. Later 
+Life Magazine. This approach—reusing popular and mass cultural 
+themes—was typical of the editors and contributors of FILE. Later 
 calling itself â€œthe alternative to the alternative,â€  FILE used images and 
 texts from popular and mass culture to make new art. It is in this same 
 spirit that artists are asked to participate in this project. Artists are 
@@ -1835,11 +1835,11 @@ documents to create a new â€œalternative to the alternative.â€  This new
 alternative archive will add yet another layer to the already rich history 
 and legacy of FILE Megazine.
 
-For more information on FILEâ€™s history, see Diedrich Diederichsenâ€™s 
+For more information on FILE’s history, see Diedrich Diederichsen’s 
 enlightening article in Artforum.
 
 Artist Bio
-leannejâ€™s work is situated between art and writing, editing and curating, 
+leannej’s work is situated between art and writing, editing and curating, 
 the page and the gallery, and print and the web. Her work has been 
 published in books, magazines and anthologies, and has been 
 installed in art galleries and on the web. Her most recent work explores 
@@ -1850,7 +1850,7 @@ Gallery and Publication Studio Vancouver.
 The New Archive project is part of:
 The Wandering Art Metropole Publications and Ephemera Archive: 
 Part 2 project, co-produced by Project Space and Art Metropole, will 
-bring a selection of Art Metropoleâ€™s archive to Vancouver from October 
+bring a selection of Art Metropole’s archive to Vancouver from October 
 5 to November 17. Materials will be displayed on support structures 
 created by artist Shane Krepakevich. Vancouver-based artists leannej 
 and Spoox Audiozine will interact with the archive, revealing new 
@@ -1869,7 +1869,7 @@ CALL FOR ENTRIES
 
 switch is now issuing an open call to artists working with film, lens 
 based work and moving image 
-to submit work responding to the theme of â€˜movementsâ€™
+to submit work responding to the theme of ‘movements’
 
 switch is an event that promotes and shows contemporary works of 
 moving image in a public context. 

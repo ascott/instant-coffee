@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 40
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | thirstDays number ten - 7:30pm | NOV 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 5
 type: "OPENING"
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | Susanna Browne + Monique Levesque | NOV 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 4
 type: "OPENING"
+venue: "Yactac at Red Gate Arts Society"
 summary: "Yactac at Red Gate Arts Society | Written While Wandering: Alex Pichler | FEB 2"
 ---
 

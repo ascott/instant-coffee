@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 17
 type: ""
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Japanese War and Disaster | JUN 17"
 ---
 
@@ -18,10 +19,10 @@ historical exhibition explores the use of prints as an artistic rallying
 cry for national pride and unity in the face of extreme hardship. The
 recent devastating events in Japan have brought new meaning to this
 exhibition, originally conceived as a companion to A Brush with War, the
-Canadian War Museumâ€™s visiting exhibition opening at the AGGV on June 24.
-Sixty stunning pieces from the AGGVâ€™s renowned collection have been chosen
+Canadian War Museum’s visiting exhibition opening at the AGGV on June 24.
+Sixty stunning pieces from the AGGV’s renowned collection have been chosen
 for the exhibition by Asian Art curator Barry Till.
-â€œThe 50 war prints featured are taken from the Meiji period when two
+“The 50 war prints featured are taken from the Meiji period when two
 significant wars were fought and won, against China in 1894-1895 and
 against Russia in 1904-1905. Commissioned by the Japanese propaganda office
 in Tokyo, these patriotic images helped to create a sense of national
@@ -29,16 +30,16 @@ unity,â€  explains Till.
 Prints depicting three major Japanese earthquakes in 1855, 1896 and 1923
 are also featured in War and Disaster. Prints were made in lieu of
 photographs and were used to commemorate and inform people of the
-tragedies. The 20 artworks in the exhibition include Utagawa Kokunimasaâ€™s
+tragedies. The 20 artworks in the exhibition include Utagawa Kokunimasa’s
 spectacular Tsunami Disaster in Meiji Era woodblock print of the June 1896
 tsunami in northeastern Japan.
-â€œThe print tells the miraculous story of a woman who was taking a bath in a
+“The print tells the miraculous story of a woman who was taking a bath in a
 wooden tub when the tsunami hit and was swept along and deposited unharmed,
 still in the tub, on the top of a hill,â€  said Till.
 For more information, visit www.aggv.ca or call 250-384-4171.
 
 -30-
-Related Events â€“ All at AGGV
+Related Events – All at AGGV
 
 July 14th, 7:30 p.m.
 Lecture: Contemporary Responses to Disaster presented by the Wayward

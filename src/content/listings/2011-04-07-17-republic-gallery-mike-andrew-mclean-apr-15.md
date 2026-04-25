@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 17
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | Mike Andrew McLean | APR 15"
 ---
 
@@ -28,7 +29,7 @@ represent my travels through, and interpretations of, Revelstoke,
 Glacier, Kootenay, Yoho, Jasper, Banff, and Waterton Lakes 
 National Parks.
 
-"Range" is sectioned into two distinct categories â€“ people and 
+"Range" is sectioned into two distinct categories – people and 
 places. The individuals I photograph are those who live and/or work 
 within these park boundaries, fellow hikers encountered on or near 
 the summits of mountain peaks, and groups of recreational 
@@ -47,7 +48,7 @@ these mountain landscapes.
 Mike Andrew McLean received his BFA in Media Arts from the Nova 
 Scotia College of Art and Design in Halifax. Since 2004 he has lived 
 on Vancouver Island, where he completed his MFA at the University 
-of Victoria. McLeanâ€™s work has recently been shown in the group 
+of Victoria. McLean’s work has recently been shown in the group 
 exhibition "Sentimental Journeys" at the Contemporary Art Gallery in 
 Vancouver, and in the solo exhibition "Range: Mountain National 
 Parks Photographs" at the Art Gallery of Greater Victoria (LAB 9.1) 

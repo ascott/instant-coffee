@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 27
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Curse of the Livable City: Panel Discussion | APR 25"
 ---
 
 Curse of the Livable City: Panel Discussion
 Saturday, April 25
-2:00 â€“ 3:30pm
+2:00 – 3:30pm
 
 In connection to the exhibition GREG GIRARD: RICHMOND/KOWLOON, the Richmond
 Art Gallery presents a discussion on the changing cityscape, led by
@@ -25,7 +26,7 @@ How do these changes compare to what is happening in other cities around
 the world?
 
 Panelists:
-Glenn Deer, Assistant Professor of English & Associate Editor of â€œCanadian
+Glenn Deer, Assistant Professor of English & Associate Editor of “Canadian
 Literatureâ€ , Dept. of English, UBC
 Greg Girard, Photographer
 Bing Thom, Principal, Bing Thom Architects

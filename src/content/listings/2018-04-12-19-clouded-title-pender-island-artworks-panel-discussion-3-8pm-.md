@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 19
 type: "EVENT"
+venue: "CLOUDED TITLE (PENDER ISLAND)"
 summary: "CLOUDED TITLE (PENDER ISLAND) | Artworks & Panel Discussion | 3-8PM | APR 14"
 ---
 

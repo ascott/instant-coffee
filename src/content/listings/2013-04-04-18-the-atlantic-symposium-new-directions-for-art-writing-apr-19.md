@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 18
 type: ""
+venue: "THE ATLANTIC SYMPOSIUM"
 summary: "THE ATLANTIC SYMPOSIUM | NEW DIRECTIONS FOR ART WRITING | APR 19"
 ---
 

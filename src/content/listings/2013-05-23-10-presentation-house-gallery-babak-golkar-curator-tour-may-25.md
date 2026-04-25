@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 10
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Babak Golkar, curator tour | MAY 25"
 ---
 
@@ -14,20 +15,20 @@ V7M 3G9
 Gallery Hours: Weds-Sun 12pm-5pm
 604 986 1351
 
-Presentation House Gallery invites you to a Curatorâ€™s Tour on Saturday 
+Presentation House Gallery invites you to a Curator’s Tour on Saturday 
 May 25, 1:00 PM
 
 Join guest curator, Babak Golkar for an intimate tour of the exhibition 
-Friendship of Nations: Polish Shiâ€™ite Showbiz and a discussion around 
+Friendship of Nations: Polish Shi’ite Showbiz and a discussion around 
 the works of artist collective Slavs and Tatars.
 
 About the exhibition:
 
-Friendship of Nations: Polish Shiâ€™ite Showbiz traces a shared 
+Friendship of Nations: Polish Shi’ite Showbiz traces a shared 
 genealogy between Iran and Poland. Beginning as an investigation into 
 the Iranian Revolution of 1979 and the Solidarność movement of 1980 
-â€“ two key moments that bookend the stories of twenty-first century 
-Islamic modernity and twentieth-century communism, respectively â€“ 
+– two key moments that bookend the stories of twenty-first century 
+Islamic modernity and twentieth-century communism, respectively – 
 the project draws on research that stretches from the seventeenth-
 century Sarmatism of the Polish nobility, to the recent Green 
 movement in Iran. Channeling the folklore and artisanal crafts of both 

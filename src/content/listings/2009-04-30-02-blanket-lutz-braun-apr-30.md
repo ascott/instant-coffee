@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: full of sass and sparkle"
 emailDate: "Thu, 30 Apr 2009 08:30:09 -0700"
 number: 2
 type: ""
+venue: "Blanket"
 summary: "Blanket | Lutz Braun | APR 30"
 ---
 

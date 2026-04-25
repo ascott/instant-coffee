@@ -1226,7 +1226,7 @@ archive and networks.
 
 The conference will coincide with the exhibition Traffic: Conceptual Art
 in Canada c. 1965 to 1980, curated by Grant Arnold, Catherine Crowston,
-MichÃ¨le ThÃ©riault with Vincent Bonin, Jayne Wark, and Barbara Fischer. The
+Michèle Thériault with Vincent Bonin, Jayne Wark, and Barbara Fischer. The
 exhibition is produced by the Vancouver Art Gallery, Art Gallery of
 Alberta, Leonard and Bina Ellen Art Gallery, Halifax, INK, and the Justina
 M. Barnicke Gallery. The exhibition will premiere at the four major
@@ -1385,7 +1385,7 @@ Sheng Jie was born in China in 1975. She studied classical Western music at
 an early age and was trained as a violinist. She has studied at Beijing
 College of Art and Design (BFA), China Central Academy of Fine Arts,
 Edinburgh Art College (Film & TV department), and received her MFA from
-Ecole supÃ©rieure des arts dÃ©coratifs in Strasbourg, France. Now working and
+Ecole supérieure des arts décoratifs in Strasbourg, France. Now working and
 living in Beijing, she has performed and exhibited extensively worldwide,
 including Beijing, Shanghai, Hongkong, Paris, Berlin, Newcastle. She is the
 founder of Shan AV Lab, a platform dedicated to art education and

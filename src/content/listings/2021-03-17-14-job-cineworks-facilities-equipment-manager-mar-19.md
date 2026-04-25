@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 14
 type: ""
+venue: "JOB"
 summary: "JOB | Cineworks | Facilities & Equipment Manager | MAR 19"
 ---
 

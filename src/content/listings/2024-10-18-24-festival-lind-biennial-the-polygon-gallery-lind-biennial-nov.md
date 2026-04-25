@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 24
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Lind Biennial | The Polygon Gallery: Lind Biennial | NOV 9"
 ---
 

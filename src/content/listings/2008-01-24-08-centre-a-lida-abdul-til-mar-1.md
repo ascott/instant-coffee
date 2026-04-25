@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 8
 type: ""
+venue: "Centre A"
 summary: "Centre A | Lida Abdul  | til Mar 1"
 ---
 

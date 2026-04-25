@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 8
 type: "OPENING"
+venue: "OffSide GALLERY"
 summary: "OffSide GALLERY | Sol Hashemi: Recent Works, Recent Brews | FEB 10"
 ---
 

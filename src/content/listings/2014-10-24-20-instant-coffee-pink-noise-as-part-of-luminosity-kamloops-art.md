@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 20
 type: ""
+venue: "INSTANT COFFEE PINK NOISE"
 summary: "INSTANT COFFEE PINK NOISE | as part of Luminosity, Kamloops Art Gallery | OCT 31"
 ---
 
@@ -12,10 +13,10 @@ Instant Coffee: Pink Noise
 Din Sink 
 Aileen Bryant
 Mr Vacation
-Soledad MuÃ±oz Fiegehen and Young Braised
+Soledad Muñoz Fiegehen and Young Braised
 Joe Chylan and the Fucks Not Given
 Ronan McGrath
-Johan BjÃ¶rck
+Johan Björck
 Sinoia Caves
 Pink Erasers 
 The Pink Lincolns 
@@ -27,7 +28,7 @@ Noise drives at colliding and provoking the basic sensory mechanics of
 colour and sound to form temperamental emotional connections. Their 
 cursory research takes its initial form as part of Luminocity as a gathering 
 place and a series of music performances. Instant Coffee will turn 
-Kamloopsâ€™ Rotary Bandshell at Riverside Park into a vibrant pink-washed 
+Kamloops’ Rotary Bandshell at Riverside Park into a vibrant pink-washed 
 venue from which to host four evenings of events. Come through the back 
 and delve into a material investigation of pink noise.* 
 
@@ -77,10 +78,10 @@ late night: pink slide show
 
 Saturday, November 1st, 9pm 
 
-Soledad MuÃ±oz Fiegehen and Jaymes Bowman (Young Braised)
+Soledad Muñoz Fiegehen and Jaymes Bowman (Young Braised)
 
 They have recently come together on stage to perform a mix of rap, and 
-experimental noise with visual effect. MuÃ±oz Fiegehen is an artist who 
+experimental noise with visual effect. Muñoz Fiegehen is an artist who 
 uses sculpture and the built environment to project and transform sound. 
 Bowman comes from a Christian urban music background, which he twists 
 into unique live performances that focus on language through an under 
@@ -100,13 +101,13 @@ Friday, November 7, 9pm
 
 Ronan McGrath 
 
-Kamloopâ€™s Ronan McGrath will perform The Rose Tree an articulation of 
+Kamloop’s Ronan McGrath will perform The Rose Tree an articulation of 
 his fixation on pink noise. As well as his guitar/sampler oriented tracks from 
 his current 'No Spectrum' project. 
 
-Johan BjÃ¶rck 
+Johan Björck 
 
-Johan BjÃ¶rck is a Swedish visual artists and musician whose performance 
+Johan Björck is a Swedish visual artists and musician whose performance 
 for Pink Noise will combine euro-funk, poetry and jazz-keyboard 
 soundcloud.com/johanbjorck
 

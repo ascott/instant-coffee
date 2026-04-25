@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mother of Pearl Moustache Comb"
 emailDate: "Thu, 17 Aug 2017 08:47:17 -0700"
 number: 4
 type: "EVENT"
+venue: "Plaza Projects"
 summary: "Plaza Projects | How to Read a Window | AUG 19"
 ---
 

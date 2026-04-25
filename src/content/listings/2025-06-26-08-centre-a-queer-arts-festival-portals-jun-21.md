@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Queer Arts Festival: Portals | JUN 21"
 ---
 

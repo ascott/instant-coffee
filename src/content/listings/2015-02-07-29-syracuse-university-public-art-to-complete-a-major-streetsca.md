@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 29
 type: "CALL"
+venue: "Syracuse University"
 summary: "Syracuse University | Public Art to Complete a Major Streetscape | MAR 1"
 ---
 

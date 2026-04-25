@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 18
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | 221A | The Longest Way to Eat a Melon | 6PM | JUL 19"
 ---
 

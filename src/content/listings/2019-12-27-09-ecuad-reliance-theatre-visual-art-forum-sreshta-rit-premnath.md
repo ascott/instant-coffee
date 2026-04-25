@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 9
 type: "TALK"
+venue: "ECUAD - Reliance Theatre"
 summary: "ECUAD - Reliance Theatre | Visual Art Forum: Sreshta Rit Premnath... | 6PM | JAN 9"
 ---
 

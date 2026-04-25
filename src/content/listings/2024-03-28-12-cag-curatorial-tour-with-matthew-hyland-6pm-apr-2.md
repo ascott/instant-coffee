@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 12
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Matthew Hyland | 6PM | APR 2"
 ---
 

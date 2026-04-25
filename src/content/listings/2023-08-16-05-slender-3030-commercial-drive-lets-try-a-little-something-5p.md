@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 5
 type: "OPENING"
+venue: "Slender, 3030 Commercial Drive"
 summary: "Slender, 3030 Commercial Drive | “Let's try a little something” | 5PM | AUG 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: You're the stars up in the sky; yo
 emailDate: "Fri, 22 Oct 2010 09:28:53 -0700"
 number: 9
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Hot One Inch Action | OCT 23"
 ---
 

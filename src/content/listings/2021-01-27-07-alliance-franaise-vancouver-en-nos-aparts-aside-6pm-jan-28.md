@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 7
 type: "PERFORMANCE"
+venue: "Alliance Française Vancouver"
 summary: "Alliance Française Vancouver | En nos apartés / Aside | 6PM | JAN 28"
 ---
 

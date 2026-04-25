@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 30
 type: "EVENT"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | A Kitchen in your Calendar | 7PM | OCT 25"
 ---
 

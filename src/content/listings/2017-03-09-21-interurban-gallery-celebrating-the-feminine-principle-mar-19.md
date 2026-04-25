@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 21
 type: ""
+venue: "InterUrban Gallery"
 summary: "InterUrban Gallery | CELEBRATING THE FEMININE PRINCIPLE | MAR 19"
 ---
 

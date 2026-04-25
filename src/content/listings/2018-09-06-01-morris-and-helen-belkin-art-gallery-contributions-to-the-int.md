@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 1
 type: "CALL"
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Contributions to the Intuition Commons"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 14
 type: ""
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Art in the DTES Panel Discussion | MAR 25"
 ---
 

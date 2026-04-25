@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 9
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Videos by Hisham Mayet of Sublime Frequencies | NOV 20"
 ---
 

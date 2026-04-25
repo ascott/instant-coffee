@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 33
 type: "EVENT"
+venue: "READ Books"
 summary: "READ Books | Design Against Design | JUL 4"
 ---
 

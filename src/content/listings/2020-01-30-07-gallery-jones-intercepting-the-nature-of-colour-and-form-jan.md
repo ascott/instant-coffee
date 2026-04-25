@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 7
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | INTERCEPTING THE NATURE OF COLOUR AND FORM | JAN 30"
 ---
 

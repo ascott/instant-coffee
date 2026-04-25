@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 45
 type: "CALL"
+venue: "Benjamin Lumb Art House"
 summary: "Benjamin Lumb Art House | Open call to all Artists - \"White Cube\" | MAY 5"
 ---
 

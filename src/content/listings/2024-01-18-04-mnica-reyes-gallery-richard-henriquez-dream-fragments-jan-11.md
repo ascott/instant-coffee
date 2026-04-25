@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vegetabled Micro Email Utopia"
 emailDate: "Wed, 17 Jan 2024 21:50:14 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | Richard Henriquez Dream Fragments | JAN 11"
 ---
 

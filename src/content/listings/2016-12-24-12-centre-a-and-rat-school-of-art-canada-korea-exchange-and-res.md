@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 12
 type: "CALL"
+venue: "Centre A and RAT School of ART"
 summary: "Centre A and RAT School of ART | Canada-Korea Exchange and Residency Program | JAN 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 6
 type: ""
+venue: "HELEN PITT GALLERY"
 summary: "HELEN PITT GALLERY | panel discussion: Signs, City Wall, City Path | FEB 20"
 ---
 
@@ -21,7 +22,7 @@ Signs, City Wall, City Path is a public installation by local artists
 Jenipher Hur and Avery Nabata. Part of the Bright Light festival, this work
 is a series of outdoor installations that humourously co-opt billboard
 marketing, tourist maps and other forms of official public signage.
-Jenipher Hur and Avery Nabata address the familiar features of Vancouverâ€™s
+Jenipher Hur and Avery Nabata address the familiar features of Vancouver’s
 constantly changing cityscape, subtly drawing our critical attention to the
 way the city represents and negotiates its complex social reality.
 

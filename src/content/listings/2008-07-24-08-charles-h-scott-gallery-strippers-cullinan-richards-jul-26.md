@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: it doesn't have to be perfect to b
 emailDate: "Thu, 24 Jul 2008 08:10:06 -0700"
 number: 8
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Strippers: Cullinan + Richards | JUL 26"
 ---
 

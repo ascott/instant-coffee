@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 34
 type: "FUNDRAISER"
+venue: "Malaspina Printmakers Society"
 summary: "Malaspina Printmakers Society | Holiday Mini Print Submissions & Holiday Sale! | DEC 11"
 ---
 

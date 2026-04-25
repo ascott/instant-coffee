@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 18
 type: "EVENT"
+venue: "The Dance Centre"
 summary: "The Dance Centre | Arno Schuitemaker | MAR 14"
 ---
 

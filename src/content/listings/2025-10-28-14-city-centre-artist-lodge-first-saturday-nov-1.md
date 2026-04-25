@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Small Gods"
 emailDate: "Mon, 27 Oct 2025 20:50:04 -0700"
 number: 14
 type: ""
+venue: "City Centre Artist Lodge"
 summary: "City Centre Artist Lodge | First Saturday | NOV 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 9
 type: "OPENING"
+venue: "Nature's Sprawl: Urban Newgrowth"
 summary: "Nature's Sprawl: Urban Newgrowth | Diego Narvaez | MAR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 22
 type: "OPENING"
+venue: "Gallery 1965"
 summary: "Gallery 1965 | Rachel Rozanski: Remnants | APR 21"
 ---
 

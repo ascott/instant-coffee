@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 9
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | 3D Illusions and Collage with Jack Kenna | 1PM | MAR 12"
 ---
 

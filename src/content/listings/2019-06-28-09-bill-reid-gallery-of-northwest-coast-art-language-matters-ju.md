@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Bill Reid Gallery of Northwest Coast Art"
 summary: "Bill Reid Gallery of Northwest Coast Art | Language Matters | JUN 19"
 ---
 

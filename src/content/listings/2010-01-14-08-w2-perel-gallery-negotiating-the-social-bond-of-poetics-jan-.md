@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Strange. The first time I've heard
 emailDate: "Thu, 14 Jan 2010 04:42:53 -0800"
 number: 8
 type: ""
+venue: "W2 Perel Gallery"
 summary: "W2 Perel Gallery | Negotiating the Social Bond of Poetics | JAN 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 7
 type: "EDUCATION"
+venue: "Oppenheimer Park"
 summary: "Oppenheimer Park | free craft workshops | JUL 30"
 ---
 

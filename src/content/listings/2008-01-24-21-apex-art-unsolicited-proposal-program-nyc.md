@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 21
 type: ""
+venue: "APEX art"
 summary: "APEX art | Unsolicited Proposal Program | NYC"
 ---
 

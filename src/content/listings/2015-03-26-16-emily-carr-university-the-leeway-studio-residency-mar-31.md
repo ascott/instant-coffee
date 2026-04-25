@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 16
 type: "CALL"
+venue: "Emily Carr University"
 summary: "Emily Carr University | The Leeway Studio Residency | MAR 31"
 ---
 
@@ -35,11 +36,11 @@ participate in a community outreach activity such as an artist talk,
 workshop or exhibition during the residency term.
 
 This residency includes:
-â€¢ unlimited studio access during University hours (except during
+• unlimited studio access during University hours (except during
 scheduled workshops)
-â€¢ access to a range of professional equipment, tools and basic art materials
-â€¢ technical support and resources for a wide range of disciplines
-â€¢ $200 material / production budget
+• access to a range of professional equipment, tools and basic art materials
+• technical support and resources for a wide range of disciplines
+• $200 material / production budget
 Please note the residency does not include travel, accommodation, artist
 fees or access to Emily Carr facilities beyond the Leeway [ie: no shop
 access (wood, metal, print)].

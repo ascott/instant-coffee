@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "3425 W Broadway Vancouver, BC"
 summary: "3425 W Broadway Vancouver, BC | Peace Maker"
 ---
 

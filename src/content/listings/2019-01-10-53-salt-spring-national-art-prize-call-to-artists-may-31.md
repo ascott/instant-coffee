@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 53
 type: "CALL"
+venue: "Salt Spring National Art Prize"
 summary: "Salt Spring National Art Prize | Call to Artists | MAY 31"
 ---
 

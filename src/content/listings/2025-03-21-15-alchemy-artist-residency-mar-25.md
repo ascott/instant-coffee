@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 15
 type: "CALL"
+venue: "Alchemy Artist Residency"
 summary: "Alchemy Artist Residency | MAR 25"
 ---
 

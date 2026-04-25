@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 32
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Burnaby Arts Council & Opus Art Supplies | Summer Arts Festival | JUL 5"
 ---
 

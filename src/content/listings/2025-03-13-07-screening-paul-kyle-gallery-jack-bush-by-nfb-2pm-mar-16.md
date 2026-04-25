@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Paul Kyle Gallery | 'Jack Bush' by NFB | 2PM | MAR 16"
 ---
 

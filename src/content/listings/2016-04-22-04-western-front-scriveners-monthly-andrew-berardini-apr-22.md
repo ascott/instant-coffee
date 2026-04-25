@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 4
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly: Andrew Berardini | APR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 16
 type: "TALK"
+venue: "Centre A"
 summary: "Centre A | Intimacy and Distances: Artist &Curator Talk | 2PM | SEP 16"
 ---
 

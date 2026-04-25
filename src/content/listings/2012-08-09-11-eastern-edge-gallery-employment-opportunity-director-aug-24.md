@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 11
 type: ""
+venue: "Eastern Edge Gallery"
 summary: "Eastern Edge Gallery | Employment Opportunity: Director | AUG 24"
 ---
 

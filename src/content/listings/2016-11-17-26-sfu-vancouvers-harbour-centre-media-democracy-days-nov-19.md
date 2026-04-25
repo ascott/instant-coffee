@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 26
 type: "EVENT"
+venue: "SFU Vancouver's Harbour Centre"
 summary: "SFU Vancouver's Harbour Centre | Media Democracy Days | NOV 19"
 ---
 

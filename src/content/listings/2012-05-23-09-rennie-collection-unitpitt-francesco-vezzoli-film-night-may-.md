@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 9
 type: ""
+venue: "Rennie Collection"
 summary: "Rennie Collection | UNIT/PITT | Francesco Vezzoli Film Night | MAY 25"
 ---
 
@@ -19,7 +20,7 @@ To purchase: http://www.brownpapertickets.com/event/246101
 
 Rennie Collection is pleased to present, for ONE NIGHT ONLY, an 
 evening of cinema on May 25, 2012 by Italian artist Francesco Vezzoli. 
-This event, which runs from 7-9pm, is the first exhibition of Vezzoliâ€™s 
+This event, which runs from 7-9pm, is the first exhibition of Vezzoli’s 
 work in Vancouver, with all proceeds from ticket and drink sales to 
 benefit UNIT/PITT Projects.
 
@@ -57,7 +58,7 @@ Angeles (2009); Moderna Museet, Stockholm (2009-2010); Kunsthalle
 Wien (2009); and the Garage Center for Contemporary Culture, 
 Moscow (2010). His works have also been included in several biennials 
 including the 2006 Whitney Biennial, the 49th and 51st Venice 
-Biennials, the 26th SÃ£o Paulo Biennial; and the 6th International 
+Biennials, the 26th São Paulo Biennial; and the 6th International 
 Istanbul Biennial.
 
 UNIT/PITT Projects (formerly the Helen Pitt Gallery) is a non-profit 
@@ -75,6 +76,6 @@ works related to identity, social injustice, appropriation, painting and
 photography. Bob Rennie has garnered an international reputation as 
 a dedicated collector, amassing one of the largest collections of 
 contemporary art in Canada. In 2009, renovations were completed on 
-the oldest building in Vancouverâ€™s Chinatown to display the collection to 
+the oldest building in Vancouver’s Chinatown to display the collection to 
 the public. Rennie Collection at Wing Sang holds two exhibitions a year 
 with supporting catalogues and events.

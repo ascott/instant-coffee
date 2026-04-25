@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 1
 type: "OPENING"
+venue: "Langara college @ 49th"
 summary: "Langara college @ 49th | Langara Fine Arts Grad Show + Sale | APR 20"
 ---
 

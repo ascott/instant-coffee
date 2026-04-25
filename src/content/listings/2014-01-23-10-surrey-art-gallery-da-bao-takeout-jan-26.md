@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 10
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Da bao |Takeout | JAN 26"
 ---
 
 Da bao |Takeout
 Surrey Art Gallery
 January 25 to March 23, 2014
-Opening Reception â€“ Saturday January 25, 7 30pm to 9 30pm 
+Opening Reception – Saturday January 25, 7 30pm to 9 30pm 
 (preceded by Curator s Tour 6 30 to 7 30)
 
 From painting to photography and sculpture to video installation, the 
@@ -30,7 +31,7 @@ people, and ideas. The seventeen artists in this exhibition are a mix
 of second- or third-generation Chinese-Canadians, Chinese who 
 have travelled abroad to study art, and Canadians who have 
 travelled to China for residencies or exhibitions. They share the 
-experience of being â€˜taken outâ€™ of familiar environments and 
+experience of being ‘taken out’ of familiar environments and 
 encountering a strikingly different culture. While their individual 
 voices are unique, collectively they speak to issues of cultural 
 transference, highlighting the gaps, distances, and 
@@ -47,7 +48,7 @@ Da bao | Takeout is curated by Toronto-based Shannon Anderson
 and Beijing-based Doug Lewis. The exhibition is organized and 
 circulated by the Varley Art Gallery of Markham.
 
-The exhibition continues to March 23 â€“ admission is by donation.
+The exhibition continues to March 23 – admission is by donation.
 
 Also on exhibit, until February 9, is a survey of new work by the 
 Fraser Valley Quilters Guild.
@@ -64,18 +65,18 @@ Winnipeg. As an artist, Lewis has exhibited in many galleries in
 countries such as Canada, USA, Croatia, UK, South Korea, and 
 China with mediums that range from multi- to-mixed-media including 
 performance.
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 Opening Reception
-Saturday, January 25, 7 30â€“9 30pm | Formal Remarks: 7 45pm
+Saturday, January 25, 7 30–9 30pm | Formal Remarks: 7 45pm
 with live music mix
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 The Gallery gratefully acknowledge the generous support of Canada 
 Council for the Arts, B.C. Arts Council, and City of Surrey
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue,
+13750 – 88th Avenue,
 Surrey, BC
 Canada
 V3W 3L1

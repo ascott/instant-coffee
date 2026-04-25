@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 14
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Bcc: Digital Art Subscription | Sabrina Ratté | APR 27"
 ---
 

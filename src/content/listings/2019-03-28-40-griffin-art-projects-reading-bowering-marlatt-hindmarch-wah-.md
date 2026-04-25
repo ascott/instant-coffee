@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 40
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | READING: Bowering, Marlatt, Hindmarch, Wah | TISH | APR 6"
 ---
 

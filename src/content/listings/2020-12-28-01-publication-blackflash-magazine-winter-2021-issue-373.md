@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 1
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | BlackFlash Magazine | Winter 2021 - Issue 37.3"
 ---
 

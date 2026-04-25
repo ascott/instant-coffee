@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 18
 type: "EXHIBITION"
+venue: "SFU Galleries [ONLINE]"
 summary: "SFU Galleries [ONLINE] | Amy Lam: Make-Believe Bathroom | SEP 15"
 ---
 

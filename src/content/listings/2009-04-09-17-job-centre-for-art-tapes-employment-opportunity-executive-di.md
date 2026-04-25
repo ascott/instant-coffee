@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that's not our monster"
 emailDate: "Thu, 09 Apr 2009 10:30:15 -0700"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | Centre for Art Tapes | Employment Opportunity | Executive Director | MAY 4"
 ---
 

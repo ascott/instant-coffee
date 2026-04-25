@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 14
 type: "TALK"
+venue: "Gallery 295"
 summary: "Gallery 295 | One Hour Photo Series: THE FLATS BLOCK PARTY | JUL 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 25
 type: "CALL"
+venue: "M:ST Performance Art Festival (Calgary)"
 summary: "M:ST Performance Art Festival (Calgary) | Call for Submissions | NOV 30"
 ---
 
@@ -17,7 +18,7 @@ exhibitions, media, audio and site-specific works, public interventions,
 workshops, lectures and panel discussion based proposals.
 
 About the M:ST Festival
-Since itâ€™s inception in 2001, the Mountain Standard Time Performative Art
+Since it’s inception in 2001, the Mountain Standard Time Performative Art
 Festival has showcased original, diverse, entertaining, and
 thought-provoking performative works. M:ST ensures that the exceptional
 quality of performative art is recognized and sustained in the Southern

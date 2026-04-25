@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 14
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Underground Man | NOV 18"
 ---
 
@@ -59,7 +60,7 @@ Keren Cytter, Four Seasons, 2009, DVD, duration 12:00
 Tarje Eikanger Gullaksen, Unfinished Symphony, 2009, DVD, duration 19:00
 Eliza Newman-Saul, Nothing Will Come of Nothing, 2009, DVD, duration 9:24
 Chto Delat/What is to be done?, Partisan Songspiel, 2009, DVD, duration 29:00
-Isabelle Cornaro, Premier rÃªve d'Oskar Fischinger, 2008, DVD, duration 1:41
+Isabelle Cornaro, Premier rêve d'Oskar Fischinger, 2008, DVD, duration 1:41
 and 1:33
 Susan Hiller, The Last Silent Movie, 2007, DVD, duration 20:00
 

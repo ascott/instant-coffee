@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 32
 type: "TALK"
+venue: "The Gathering Place Community Center"
 summary: "The Gathering Place Community Center | Art Talks in Plain English Series | 530PM | SEP 25"
 ---
 

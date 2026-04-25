@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 15
 type: "EVENT"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | MARKO SIMCIC | NOV 29"
 ---
 

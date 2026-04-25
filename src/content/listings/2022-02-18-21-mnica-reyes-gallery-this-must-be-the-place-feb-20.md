@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 21
 type: "OPENING"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | THIS MUST BE THE PLACE | FEB 20"
 ---
 

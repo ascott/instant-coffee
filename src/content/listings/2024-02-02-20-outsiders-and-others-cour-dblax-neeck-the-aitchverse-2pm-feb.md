@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 20
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Cour d'Blax-Neeck: The Aitchverse | 2PM | FEB 3"
 ---
 

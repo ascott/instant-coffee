@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 18
 type: ""
+venue: "READ"
 summary: "READ | Charles H. Scott Gallery | Randy Lee Cutle | APR 16"
 ---
 
@@ -17,16 +18,16 @@ Wednesday April 16, 2014 at 5pm
 READ Books
 
 READ Books and Theory Island Press are pleased to invite you to the launch 
-of â€˜Open Wide: An Abecedarium for the Great Digestive Systemâ€™ an 
+of ‘Open Wide: An Abecedarium for the Great Digestive System’ an 
 electronic book by Randy Lee Cutler. Designed by Celeste Martin, this e-book 
 includes work by Marina Roy, Abbas Akhavan, Liz Magor, Geoffrey Farmer 
 and Graham Meisner.
 
-â€˜Open Wideâ€™ brings together writing, images and music that reflect a 
+‘Open Wide’ brings together writing, images and music that reflect a 
 fascination for digestion as a metaphor for experience. Assembling her 
 interests in writing, curating and contemporary art Cutler has obsessively 
 followed the looping trajectory of metabolism expanding the topic beyond its 
-conventional implications. â€˜Open Wideâ€™ presents an imaginative and unusual 
+conventional implications. ‘Open Wide’ presents an imaginative and unusual 
 collection of writing and images, an ABC primer that is an alphabet guide to 
 bodily rhythms, chemical reactions and aesthetic transformations that 
 encompass visual art, cinema, ecology, biology and philosophical meditations.
@@ -41,7 +42,7 @@ screenings of her experimental videos; Kitchen Semiotics (12th Seoul
 International New Media Festival) and Alimentary Passage (Arsenal Gallery, 
 Berlin) and performances, SaltWalks: Three Movements, (Access Gallery, 
 Vancouver) Ask me About Salt (Visualeyez Performance Art Festival) and 
-Hors dâ€™oeuvres (Fuse, Vancouver Art Gallery). She has authored numerous 
+Hors d’oeuvres (Fuse, Vancouver Art Gallery). She has authored numerous 
 essays published in catalogues and by C magazine, The Fillip Review , Texte 
 zur Kunst , Canadian Art , Artspeak Gallery and the Vancouver Art Gallery.
 

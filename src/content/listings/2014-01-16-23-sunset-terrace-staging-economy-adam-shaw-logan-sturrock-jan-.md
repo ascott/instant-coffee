@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 23
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Staging Economy: Adam Shaw & Logan Sturrock | JAN 23"
 ---
 

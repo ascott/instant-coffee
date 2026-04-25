@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 11
 type: ""
-summary: "Limelight at Metro Theatre | Sans faÃ§on. Tristan Surtees and Charles Blanc | JAN 27"
+venue: "Limelight at Metro Theatre"
+summary: "Limelight at Metro Theatre | Sans façon. Tristan Surtees and Charles Blanc | JAN 27"
 ---
 
 Limelight: Saturday Night at Metro Theatre
-Metro Theatre | Sans faÃ§on, Limelight: Saturday Night | January 27, 2013
+Metro Theatre | Sans façon, Limelight: Saturday Night | January 27, 2013
 
 Metro Theatre/ 1370 Marine Drive SW, Vancouver
 
 January 27, 2013, 5:00pm - 7:00pm
 
 Please join us for an informal evening of conversation and dialogue with 
-international artist duo, Sans faÃ§on. Tristan Surtees and Charles Blanc will be 
+international artist duo, Sans façon. Tristan Surtees and Charles Blanc will be 
 sharing their most recent experiences and images captured during the official 
 Vancouver presentation of Limelight: Saturday Night. Their travelling public art 
 installation discreetly replaces two street light heads with theatrical 
@@ -31,7 +32,7 @@ There is limited seating so be sure to sign up on Eventbrite!
 http://limelightsaturdaynight-es2.eventbrite.ca/
 
 ARTIST BIO
-Sans faÃ§on is an artist collaboration between French architect Charles Blanc 
+Sans façon is an artist collaboration between French architect Charles Blanc 
 and British artist Tristan Surtees. The duo develops both temporary and 
 permanent projects aimed to investigate the complex relationship between 
 people and place.

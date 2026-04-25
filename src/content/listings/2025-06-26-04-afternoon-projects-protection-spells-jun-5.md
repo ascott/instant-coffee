@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Protection Spells | JUN 5"
 ---
 

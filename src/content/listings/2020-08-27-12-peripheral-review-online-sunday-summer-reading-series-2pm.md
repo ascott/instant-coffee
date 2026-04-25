@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 12
 type: "TALK"
+venue: "Peripheral Review [ONLINE]"
 summary: "Peripheral Review [ONLINE] | Sunday Summer Reading Series | 2PM | "
 ---
 

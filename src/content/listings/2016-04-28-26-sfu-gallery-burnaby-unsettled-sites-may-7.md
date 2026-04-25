@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 26
 type: "OPENING"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Unsettled Sites | MAY 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 25
 type: "CALL"
+venue: "Griffin Art Projects Residency"
 summary: "Griffin Art Projects Residency | Indigenous North Shore Studio Art Award | MAR 7"
 ---
 

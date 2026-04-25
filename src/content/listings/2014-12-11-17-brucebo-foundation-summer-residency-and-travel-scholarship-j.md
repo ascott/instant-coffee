@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 17
 type: "CALL"
+venue: "Brucebo Foundation"
 summary: "Brucebo Foundation | Summer Residency and Travel Scholarship | JAN 31"
 ---
 
@@ -21,17 +22,17 @@ Europe. Two young artists, Caroline Benedicks of Sweden and William Blair
 Bruce of Hamilton, Canada, meet in Paris, marry and after many years on the
 European continent, settle on Gotland Island. With the untimely death of
 William in 1906 and that of Caroline in 1935, the estate, in the early
-70â€™s, created the Brucebo Fine Art Scholarship Foundation, an organization
+70’s, created the Brucebo Fine Art Scholarship Foundation, an organization
 promoting island-based cultural history and fine art. To commemorate the
-unique Swedish-Canadian link of Carolineâ€™s and Williamâ€™s marriage and
+unique Swedish-Canadian link of Caroline’s and William’s marriage and
 impressive artistry, two annual fine art scholarships for younger,
 professional Canadian artists were established : The Brucebo Fine Art
 Summer Residency Scholarship and The William Blair Bruce European Fine Art
 Travel Scholarship.
 
 The Brucebo Fine Art Summer Residency Scholarship funds a three month
-working residency â€“ starting June 1, 2014 â€“ at the Brucebo studio cottage
-in the SjÃ¤lsÃ¶ fishing village, 7 km north of of Visby in Gotland, Sweden.
+working residency – starting June 1, 2014 – at the Brucebo studio cottage
+in the Själsö fishing village, 7 km north of of Visby in Gotland, Sweden.
 The scholarship covers travel expenses Canada - Gotland (return), the use
 of the studio cottage, a monthly food stipend plus a small equipment
 grant. Total approximate value : SEK 30.000.
@@ -39,7 +40,7 @@ grant. Total approximate value : SEK 30.000.
 The William Blair Bruce Travel Scholarship finances a European research
 sejour, to be undertaken within the next year. The tour is based on an
 approved Fine Art-related investigative project. Total value: SEK 30.000.
-As a final part of the â€˜Bruce Travelâ€™ the recipient must visit Visby via
+As a final part of the ‘Bruce Travel’ the recipient must visit Visby via
 Stockholm. While in Visby, she/he will give a public lecture sponsored by
 the Foundation on the investigative theme pursued during her/his recent
 European travel.
@@ -52,8 +53,8 @@ For more information on the Scholarships, the studio cottage, previous
 scholarship recipients and the Caroline Benedicks - William Blair Bruce
 story, visit the Brucebo Scholarships website at : www.bruceboscholarships.com
 
-The scholarships are administered by Concordia Universityâ€™s Faculty of Fine
-Arts, Associate Deanâ€™s Office in Montreal and the Chair of the Brucebo Fine
+The scholarships are administered by Concordia University’s Faculty of Fine
+Arts, Associate Dean’s Office in Montreal and the Chair of the Brucebo Fine
 Art Evaluation Committee: Jessica Auer. For more information on the
 scholarships, the residency or your application, email:
 brucebosubmission@gmail.com

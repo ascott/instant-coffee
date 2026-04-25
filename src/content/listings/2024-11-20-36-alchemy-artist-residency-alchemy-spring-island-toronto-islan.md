@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 36
 type: "CALL"
+venue: "Alchemy Artist Residency"
 summary: "Alchemy Artist Residency | Alchemy Spring Island Toronto Islands | DEC 12"
 ---
 

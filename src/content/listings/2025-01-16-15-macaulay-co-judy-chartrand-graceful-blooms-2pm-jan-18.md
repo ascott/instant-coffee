@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 15
 type: ""
+venue: "macaulay + co"
 summary: "macaulay + co | Judy Chartrand : Graceful Blooms | 2PM | JAN 18"
 ---
 

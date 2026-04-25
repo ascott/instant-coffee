@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 38
 type: "OPENING"
+venue: "Michael Wright Art Gallery (Port Coquitlam)"
 summary: "Michael Wright Art Gallery (Port Coquitlam) | Mat Holmstrom | 6-8PM | JAN 24"
 ---
 

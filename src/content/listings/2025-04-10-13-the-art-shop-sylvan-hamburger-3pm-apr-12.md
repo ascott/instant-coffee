@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 13
 type: "OPENING"
+venue: "The Art Shop"
 summary: "The Art Shop | Sylvan Hamburger | 3PM | APR 12"
 ---
 

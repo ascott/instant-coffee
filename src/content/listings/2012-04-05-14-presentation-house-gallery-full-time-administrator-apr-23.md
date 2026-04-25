@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 14
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Full Time Administrator | APR 23"
 ---
 

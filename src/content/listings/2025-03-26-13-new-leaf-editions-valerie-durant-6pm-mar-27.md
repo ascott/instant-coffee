@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 13
 type: "OPENING"
+venue: "New Leaf Editions"
 summary: "New Leaf Editions | Valerie Durant | 6PM | MAR 27"
 ---
 

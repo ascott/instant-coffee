@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 17
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Questions of Photography and Social Transformation | DEC 7"
 ---
 

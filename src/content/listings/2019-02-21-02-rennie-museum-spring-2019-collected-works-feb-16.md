@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Rennie Museum"
 summary: "Rennie Museum | Spring 2019: Collected Works | FEB 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 3
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Mapping Ancestry through... | 7PM | OCT 3"
 ---
 

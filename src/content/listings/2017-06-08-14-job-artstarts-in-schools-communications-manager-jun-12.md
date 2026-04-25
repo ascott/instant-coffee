@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 14
 type: ""
+venue: "JOB"
 summary: "JOB | ArtStarts in Schools | Communications Manager | JUN 12"
 ---
 

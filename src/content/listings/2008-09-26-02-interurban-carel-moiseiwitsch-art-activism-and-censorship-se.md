@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: warning: it really is dirty"
 emailDate: "Fri, 26 Sep 2008 00:00:20 -0700"
 number: 2
 type: ""
+venue: "InterUrban"
 summary: "InterUrban | Carel Moiseiwitsch: art, activism and censorship | SEP 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 2
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | Andreas Bunte | OCT 16"
 ---
 
@@ -14,10 +15,10 @@ Lettuce partially emerging from a shopping bag Lettuce partially emerging
 from a shopping bag is an exhibition featuring new video work by 
 Berlin‐
 based artist Andreas Bunte. A 16mm film, Suspended Duration, is the 
-showâ€™s centrepiece. In it, Bunte references the scientific work undertaken 
+show’s centrepiece. In it, Bunte references the scientific work undertaken 
 by motion-study laboratories through the incorporation of black and white 
 raster backgrounds. Taking ordinary objects as subject-matter, Bunte 
-confounds such labsâ€™ aims of achieving scientific abstraction, instead 
+confounds such labs’ aims of achieving scientific abstraction, instead 
 capturing the contingency of the filmic image through his inclusion of 
 â€œaccidentalâ€  footage as well. In this way, the film extends both literal and 
 metaphorical frames by repositioning the fringes to the centre in spatial 
@@ -25,8 +26,8 @@ and temporal ways, drawing attention to processes that do not produce
 anything significant, do not demand optimization, and that are not usually 
 subject to extended filmic attention.
 
-The exhibitionâ€™s title is taken from the book Attempt at exhausting a place 
-in Paris by French writer Georges Perec, in which he explored â€œthe 
+The exhibition’s title is taken from the book Attempt at exhausting a place 
+in Paris by French writer Georges Perec, in which he explored “the 
 infraordinary: the markings and manifestations of the everyday that 
 consistently escape our attention as they compose the essence of our 
 lives.â€ *

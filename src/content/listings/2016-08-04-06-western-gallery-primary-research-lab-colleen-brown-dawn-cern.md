@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 6
 type: "EVENT"
+venue: "Western Gallery"
 summary: "Western Gallery | Primary Research Lab - Colleen Brown & Dawn Cerny | AUG 7"
 ---
 

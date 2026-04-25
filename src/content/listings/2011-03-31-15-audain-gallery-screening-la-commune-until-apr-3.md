@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 15
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | screening: La Commune | until | APR 3"
 ---
 
@@ -41,7 +42,7 @@ see bear fruit. The Commune was violently suppressed at the end
 of May, with more than 20,000 Parisians killed in street fighting or 
 summarily executed. This March through May 2011, a group of SFU 
 faculty and students will mark the 140th anniversary of the 
-Commune by declaring La Commune de Vancouverâ€”a series of 
+Commune by declaring La Commune de Vancouver—a series of 
 talks, film screenings, presentations, colloquia, poetry readings, 
 performances, and provocations, many in both French and English. 
 Events will be held at SFU Burnaby and in downtown Vancouver 

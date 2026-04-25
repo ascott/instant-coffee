@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Power to the People | SEP 4"
 ---
 

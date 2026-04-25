@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 24
 type: "CALL"
+venue: "Interstitial:Science Innovations by Canadian Women"
 summary: "Interstitial:Science Innovations by Canadian Women | Call for Submissions | APR 6"
 ---
 

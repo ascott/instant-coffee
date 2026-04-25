@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: show us your jazz hands"
 emailDate: "Thu, 07 May 2009 09:10:15 -0700"
 number: 14
 type: ""
+venue: "Grunt"
 summary: "Grunt | Nathalie Ball | MAY 15"
 ---
 

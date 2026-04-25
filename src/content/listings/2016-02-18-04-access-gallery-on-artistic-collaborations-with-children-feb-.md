@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 4
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | On Artistic Collaborations with Children | FEB 18"
 ---
 

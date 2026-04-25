@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 2
 type: "OPENING"
+venue: "Sweetpup Studios"
 summary: "Sweetpup Studios | Andrea Lukic - I was on your side, even when you.. | AUG 11"
 ---
 

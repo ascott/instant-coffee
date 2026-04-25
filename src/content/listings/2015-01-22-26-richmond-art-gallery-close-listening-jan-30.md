@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 26
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | CLOSE LISTENING | JAN 30"
 ---
 

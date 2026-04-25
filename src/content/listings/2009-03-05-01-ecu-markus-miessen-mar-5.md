@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in the tradition of the now"
 emailDate: "Thu, 05 Mar 2009 08:55:15 -0800"
 number: 1
 type: ""
+venue: "ECU"
 summary: "ECU | Markus Miessen | MAR 5"
 ---
 
@@ -26,7 +27,7 @@ collaborations, Miessen has published books such as "East Coast Europe"
 Participation" (Sternberg, 2007), "With/Withoutâ&#65533;&#65533;Spatial Products, Practices
 and Politics in the Middle East" (Bidoun, 2007), "Did Someone Say
 Participate? An Atlas of Spatial Practice" (MIT Press, 2006) and "Spaces of
-Uncertainty" (MÃ¼ller+Busmann, 2002). He frequently contributes to magazines
+Uncertainty" (Müller+Busmann, 2002). He frequently contributes to magazines
 and journals. His work has been exhibited and published widely, including
 at the Lyon, Venice, and Shenzhen Biennials. Miessen has taught and
 lectured internationally at institutions such as the Architectural

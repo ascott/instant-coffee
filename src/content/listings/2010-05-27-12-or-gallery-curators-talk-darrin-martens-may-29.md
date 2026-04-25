@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 12
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Curator's Talk: Darrin Martens | MAY 29"
 ---
 
@@ -23,14 +24,14 @@ April 24 - May 29, 2010
 
 Curated by Darrin Martens
 
-Friend or Foe features new work by two renowned Canadian artists â€“ Rebecca
+Friend or Foe features new work by two renowned Canadian artists – Rebecca
 Belmore and Terrance Houle. The exhibition explores the stereotyped First
 Nations body within contemporary social contexts. Belmore will present a
 new video projection based on a recent performance held at The University
-of British Columbiaâ€™s Museum of Anthropology. The performance explores both
+of British Columbia’s Museum of Anthropology. The performance explores both
 the relationship between First Nations and the Museum and the homeless
 aboriginal body. Alongside this work will be, Victorious, a reconfigured
-video work from the 2009 Hive Festival. Houleâ€™s contribution includes a
+video work from the 2009 Hive Festival. Houle’s contribution includes a
 recent series of pin-hole photographs documenting and questioning
 aboriginal stereotypes within the context of First Nations dioramas at the
 Calgary Stampede alongside a new video projection, which examines the myths
@@ -45,7 +46,7 @@ into and explore colonialism and the social affects of racial stereotyping.
 Anishinabe born Rebecca Belmore bases her practice in Vancouver, British
 Columbia. Since 1987, her multi-disciplinary work has addressed history,
 place and identity through the media of sculpture, installation, video and
-performance. Belmore was Canadaâ€™s official representative at the 2005
+performance. Belmore was Canada’s official representative at the 2005
 Venice Biennale.
 
 Terrance Houle is an internationally recognized multi-disciplinary artist

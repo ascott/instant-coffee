@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 3
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | EUN KYUNG KIM AND KALLI NIEDOBA | MAR 13"
 ---
 

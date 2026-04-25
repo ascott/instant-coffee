@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 20
 type: "TALK"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Curator's Talk and Tour | FEB 26"
 ---
 

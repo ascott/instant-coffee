@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 11
 type: ""
+venue: "Asian Centre, UBC"
 summary: "Asian Centre, UBC | Nanjing - Vancouver 2012 | SEP 1"
 ---
 
@@ -20,7 +21,7 @@ Li, Qin Shen, Howard Ursuliak, Weide Xu, Siming Yang, Qin Zhao
 
 Curated by Wei Xia
 
-A series of exhibitions â€œSpace beyond the Boxes â€“ The Choice of 
+A series of exhibitions “Space beyond the Boxes – The Choice of 
 Destinyâ€  was launched in Shangdong Contemporary Arts Center in 
 Nanjing, China in May 2011.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 11
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | BAF | Virtual Movie Night | Art 21 Vancouver | MAY 7"
 ---
 

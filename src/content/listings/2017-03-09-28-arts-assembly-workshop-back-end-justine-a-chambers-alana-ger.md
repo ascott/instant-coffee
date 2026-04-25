@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 28
 type: ""
+venue: "Arts Assembly"
 summary: "Arts Assembly | WORKSHOP | Back End | Justine A. Chambers & Alana Gerecke | MAR 25"
 ---
 

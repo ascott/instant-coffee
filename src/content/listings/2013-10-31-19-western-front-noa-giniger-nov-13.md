@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 19
 type: ""
+venue: "Western Front"
 summary: "Western Front | Noa Giniger | NOV 13"
 ---
 
@@ -15,7 +16,7 @@ Exhibition: Nov 14 - Dec 21, 2013
 Western Front is pleased to present Absolute Countdown, a solo exhibition 
 by Amsterdam based artist Noa Giniger.
 
-Noa Ginigerâ€™s minimal and playful work is founded on the basis that nothing is 
+Noa Giniger’s minimal and playful work is founded on the basis that nothing is 
 stable, secure or steady. She frequently takes actions, words and phrases 
 that are closely connected to her own experiences, and presents them to 
 others. Once stripped of their biography or location, they may strike a 
@@ -33,5 +34,5 @@ featured in Kiosk, Programma magazine and F.R. David. Absolute Countdown
 will be Giniger's first solo exhibition in North America.
 
 This project was made with the support the Ostrofsky Family Fund, 
-Mondriaan Fund, Stichting SchÃ¼rmann-Krant, and Israelâ€™s Office of Cultural 
+Mondriaan Fund, Stichting Schürmann-Krant, and Israel’s Office of Cultural 
 Affairs and Cineworks Independent Filmmakers Society.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 10
 type: ""
+venue: "VIVO"
 summary: "VIVO | AUDIO Workshops | DEC 6"
 ---
 

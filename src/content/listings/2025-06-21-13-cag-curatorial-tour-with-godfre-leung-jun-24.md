@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 13
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Godfre Leung | JUN 24"
 ---
 

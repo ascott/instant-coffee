@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 17
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Opens Two New Exhibitions | JUN 12"
 ---
 
@@ -12,14 +13,14 @@ Contemporary Art Gallery, Vancouver
 New Exhibitions Open
 Thursday June 12, 7-10pm
 
-'The Act of Seeing with Oneâ€™s Own Eyes'
-Stefan BrÃ¼ggemann, 'Headlines and Last Lines in the Movies'
+'The Act of Seeing with One’s Own Eyes'
+Stefan Brüggemann, 'Headlines and Last Lines in the Movies'
 
-Opening reception: Thursday, June 12, 7â€“10pm
+Opening reception: Thursday, June 12, 7–10pm
 
 Join us to celebrate the opening of our two new exhibitions:
 
-'The Act of Seeing with Oneâ€™s Own Eyes'
+'The Act of Seeing with One’s Own Eyes'
 
 Ed Atkins
 Edgardo Aragon
@@ -35,7 +36,7 @@ Shahryar Nashat
 June 13 to June 29, 2014
 B. C. Binning and Alvin Balkind Galleries
 
-'The Act of Seeing with Oneâ€™s Own Eyes' is a group exhibition of recent film 
+'The Act of Seeing with One’s Own Eyes' is a group exhibition of recent film 
 and video that seeks to interrogate notions of uncertainty within the 
 documentary format. Work by ten artists engages with the conventions of 
 source footage, narrative voice and re-enactment, questioning perceptions of 
@@ -50,20 +51,20 @@ This exhibition is generously supported by Inform Interiors.
 Western Front and Dim Cinema and will screen in the Grand Luxe Hall at the 
 Western Front, 303 8 Ave E, Vancouver from June 26 to June 29 during 
 opening hours: noon to 5pm. Please join for a reception and screening 
-Thursday, June 26 from 8â€“10pm.
+Thursday, June 26 from 8–10pm.
 
-Stefan BrÃ¼ggemann
+Stefan Brüggemann
 'Headlines and Last Lines in the Movies'
 June 13 to September 7, 2014
-Gallery faÃ§ade
+Gallery façade
 
-'Headlines & Last Lines in the Movies' transforms the faÃ§ade of the 
+'Headlines & Last Lines in the Movies' transforms the façade of the 
 Contemporary Art Gallery, wooden cladding covering its frontage and south 
 east corner. Resembling a construction site, the structure becomes the 
 ground for the work; the title a precise description of itself. In this new mural, 
-BrÃ¼ggemann writes headlines from current newspapers, from local to global, 
-in combination with excerpts of last lines from popular films. â€˜Forget it Jake, its 
-Chinatownâ€™ could be spray-painted next to â€˜Enbridge Pipeline Rejectedâ€™, the 
+Brüggemann writes headlines from current newspapers, from local to global, 
+in combination with excerpts of last lines from popular films. ‘Forget it Jake, its 
+Chinatown’ could be spray-painted next to ‘Enbridge Pipeline Rejected’, the 
 juxtaposition of appropriated texts creating both a familiarity and an oddly 
 appropriate pairing suggestive of narratives that may exist to connect current 
 news items with scripted dialogue.

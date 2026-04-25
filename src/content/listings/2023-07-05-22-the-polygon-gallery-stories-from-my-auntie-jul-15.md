@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 22
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Stories From My Auntie | JUL 15"
 ---
 

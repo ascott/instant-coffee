@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 40
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Call for Artists - Other Ways of Knowing | MAR 31"
 ---
 

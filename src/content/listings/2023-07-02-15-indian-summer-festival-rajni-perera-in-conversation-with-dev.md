@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 15
 type: "EVENT"
+venue: "INDIAN SUMMER FESTIVAL"
 summary: "INDIAN SUMMER FESTIVAL | Rajni Perera: In Conversation with Devyani Saltzma | JUL 7"
 ---
 

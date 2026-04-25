@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 19
 type: "TALK"
+venue: "UBC Lasserre Building"
 summary: "UBC Lasserre Building | Maria Hupfield: If You Want to Be Included You Ha | MAR 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 9
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly with T'ai Smith | DEC 11"
 ---
 
@@ -17,11 +18,11 @@ Free Admission
 Scrivener's Monthly is pleased to present an evening with UBC Art History
 professor T'ai Smith.
 
-Re-translating Marxâ€™s Capital, Volume I, Part 1, Tâ€™ai Smith shows how 20
-yards of linen transform into a coatâ€”and then, through a specious turn in
+Re-translating Marx’s Capital, Volume I, Part 1, T’ai Smith shows how 20
+yards of linen transform into a coat—and then, through a specious turn in
 logic, back into threads again.
 
-Tâ€™ai Smith is an assistant professor in the Department of Art History,
+T’ai Smith is an assistant professor in the Department of Art History,
 Visual Art and Theory and a Wall Scholar at the Peter Wall Institute of
 Advanced Studies at University of British Columbia. Her articles and
 reviews have appeared in Art Journal, Grey Room, Journal of Modern Craft,
@@ -34,7 +35,7 @@ political economy since the 19th-century.
 
 - - -
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 â€œnot publishingâ€  involves readings, performances, and other articulations.

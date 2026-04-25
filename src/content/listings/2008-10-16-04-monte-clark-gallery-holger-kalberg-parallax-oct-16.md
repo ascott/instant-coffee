@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 4
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | HOLGER KALBERG - PARALLAX | OCT 16"
 ---
 

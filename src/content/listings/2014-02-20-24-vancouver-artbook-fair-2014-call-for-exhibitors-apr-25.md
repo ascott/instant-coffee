@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 24
 type: ""
+venue: "Vancouver Art/Book Fair 2014"
 summary: "Vancouver Art/Book Fair 2014 | Call for Exhibitors | APR 25"
 ---
 
@@ -25,7 +26,7 @@ Canada and one of only two on the West Coast. In 2014 the event is
 anticipated to attract over 1,500 visitors from across the Greater Vancouver 
 Area and beyond.
 
-Presented by Project Space, VA/BF is a two-day festival of artistsâ€™ publishing 
+Presented by Project Space, VA/BF is a two-day festival of artists’ publishing 
 featuring nearly one hundred local, national and international publishers, as 
 well as a diverse line-up of programs, performances and installations. 
 Featured artists travel to Vancouver from across Canada and the globe, and 
@@ -42,7 +43,7 @@ at the Vancouver Art Gallery
 
 Members Only Preview: Friday, October 3, 2014
 
-Satellite events will take place as part of Artistsâ€™ Books Week (September 29 
+Satellite events will take place as part of Artists’ Books Week (September 29 
 to October 5, 2014), a series of programs hosted by local publishers, 
 curators and artist-run centres across Vancouver. This year, the Fair will 
 also coincide with the Vancouver Book Fair, taking place next door at UBC 
@@ -50,11 +51,11 @@ Robson Square, which features collectible, antiquarian and rare books.
 
 Registration Details:
 
-Â· All registrations are for both days of the Fair
+· All registrations are for both days of the Fair
 
-Â· Tables are approximately 3' x 6'
+· Tables are approximately 3' x 6'
 
-Â· Full tables are $250 CDN and half tables are $150 CDN; however, a 
+· Full tables are $250 CDN and half tables are $150 CDN; however, a 
 limited number of sponsored tables are available to those who must travel a 
 great distance or who have other special limitations. To apply for a 
 sponsored table, please contact sean@vancouverartbookfair.com. 

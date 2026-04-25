@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 1
 type: ""
+venue: "Catriona Jeffries Gallery"
 summary: "Catriona Jeffries Gallery | IAN WALLACE | SEP 17"
 ---
 
@@ -48,7 +49,7 @@ beyond, beginning with "Panam Scan" (1970) through to "Poverty" (1980), includin
 precursor works to major works such as "The Summer Script" (1973-1974), "An Attack on 
 Literature" (1975), "Image/Text" (1979), and "Lookout" (1979). The exhibition also includes an 
 installation of large-scale works that have not been shown in nearly three decades, including 
-"The Hypnerotomachia Series" (1977), "L'AprÃ¨s-Midi" (1977-1979), "The Calling" (1977) and "The 
+"The Hypnerotomachia Series" (1977), "L'Après-Midi" (1977-1979), "The Calling" (1977) and "The 
 Studio" (1977) as well as early video projects related to this work.
 
 Through these works, Wallace pioneers early investigations of the moving and still image and 

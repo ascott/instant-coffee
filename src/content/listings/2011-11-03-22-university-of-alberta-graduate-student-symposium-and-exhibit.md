@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 22
 type: ""
+venue: "University of Alberta"
 summary: "University of Alberta | graduate student symposium and exhibition | DEC 19"
 ---
 
@@ -27,7 +28,7 @@ Unstable Natures
 
 Latitude 53, March 2012
 
-The ADGSA is excited to host Unstable Natures at Latitude 53, one of Albertaâ€™s 
+The ADGSA is excited to host Unstable Natures at Latitude 53, one of Alberta’s 
 leading
 contemporary art centres. We are currently seeking innovative new artworks by 
 current and recent
@@ -63,7 +64,7 @@ We are currently applying for grants to meet the CARFAC artist fee schedule.
 Shipping fees will be
 paid by the artist. Submission materials will not be returned. Please send 
 required materials to
-unstablenatures@gmail.com with the subject heading â€œUnstable Natures 
+unstablenatures@gmail.com with the subject heading “Unstable Natures 
 Submissionâ€  by December 19,
 2011. You may also mail a CD submission to:
 

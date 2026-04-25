@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 18
 type: "OPENING"
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Marie Khouri | Jack Shadbolt | 2-4pm | JAN 20"
 ---
 

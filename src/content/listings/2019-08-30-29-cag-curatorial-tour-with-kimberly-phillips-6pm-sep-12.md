@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 29
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Kimberly Phillips | 6pm | SEP 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 34
 type: "CALL"
+venue: "Zero Gravity"
 summary: "Zero Gravity | Performance Art WORKSHOP | APR 1"
 ---
 

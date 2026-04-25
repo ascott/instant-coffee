@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 14
 type: "CALL"
+venue: "Render"
 summary: "Render | Call for Submissions: | AUG 15"
 ---
 

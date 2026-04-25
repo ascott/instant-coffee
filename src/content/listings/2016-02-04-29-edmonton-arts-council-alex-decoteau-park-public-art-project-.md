@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 29
 type: "CALL"
+venue: "Edmonton Arts Council"
 summary: "Edmonton Arts Council | Alex Decoteau Park Public Art Project | MAR 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 6
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | COMPOSITE VIEWS | SEP 28"
 ---
 

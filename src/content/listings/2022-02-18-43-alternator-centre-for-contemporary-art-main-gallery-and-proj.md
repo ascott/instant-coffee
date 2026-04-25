@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 43
 type: "CALL"
+venue: "Alternator Centre for Contemporary Art"
 summary: "Alternator Centre for Contemporary Art | Main Gallery and Project Gallery | MAR 21"
 ---
 

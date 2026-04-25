@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interactive automata"
 emailDate: "Thu, 21 Jul 2016 17:00:10 -0700"
 number: 10
 type: "EVENT"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | thirstDays No. 06 | JUL 28"
 ---
 

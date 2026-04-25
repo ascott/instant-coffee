@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 16 Jul 2025 22:15:13 -0700"
 number: 20
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Seema Shah: Missing Pieces | AUG 2"
 ---
 

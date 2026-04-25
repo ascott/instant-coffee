@@ -27,7 +27,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-04-28-14-canadian-art-foundation-gallery-hop-vancouver-apr-30">14. Canadian Art Foundation | Gallery Hop Vancouver | APR 30</a>
 <a href="/instant-coffee/listings/2011-04-28-15-museum-of-anthropology-festival-of-anthropology-films-apr-30">15. Museum of Anthropology | Festival of Anthropology Films | APR 30</a>
 <a href="/instant-coffee/listings/2011-04-28-16-sfu-gallery-artist-talk-with-edgar-heap-of-birds-apr-30">16. SFU Gallery | artist talk with Edgar Heap of Birds | APR 30</a>
-<a href="/instant-coffee/listings/2011-04-28-17-simon-fraser-university-gallery-solange-fabio-amaznia-projec">17. Simon Fraser University Gallery | Solange FabiÃ£o: "AmazÃ´nia (Projecting On Black)" | APR 30</a>
+<a href="/instant-coffee/listings/2011-04-28-17-simon-fraser-university-gallery-solange-fabio-amaznia-projec">17. Simon Fraser University Gallery | Solange Fabião: "Amazônia (Projecting On Black)" | APR 30</a>
 <a href="/instant-coffee/listings/2011-04-28-18-unitpitt-projects-book-launch-free-concert-michael-turner-ap">18. UNIT/PITT Projects | Book Launch: "Free Concert", Michael Turner | APR 30</a>
 <a href="/instant-coffee/listings/2011-04-28-19-day-for-night-films-in-the-afternoon-ken-lum-presents-the-ho">19. Day for Night: Films in the Afternoon | Ken Lum presents: THE HOUSEMAID | MAY 1</a>
 <a href="/instant-coffee/listings/2011-04-28-20-digital-natives-symposium-may-1">20. Digital Natives | Symposium | MAY 1</a>
@@ -83,13 +83,13 @@ Fillip and Motto Books
 
 April 28, 2011
 The Waldorf Hotel
-8 pm â€“ late
+8 pm – late
 
 Launch
 Recent Publications
 Fillip and Motto Books present Recent Publications, a party hosted 
 by the Waldorf Hotel in conjunction with the release of two new Fillip 
-Editions publications: Fact â€˜nâ€™ Value by Donato Mancini and How 
+Editions publications: Fact ‘n’ Value by Donato Mancini and How 
 High Is the City, How Deep Is Our Love by Jeff Derksen. Copies of 
 the recently released spring issue of Fillip magazine will also be 
 available, along with a large selection of other new titles from Motto 
@@ -101,14 +101,14 @@ among many others.
 Mittens & Gloves (Jeff K. and Courtenay W.) and Christopher Olsen 
 will play pop music from the past five decades.
 The Waldorf Hotel is located at 1489 East Hastings Street, 
-Vancouver. The event will take place in both the hotelâ€™s lobby and 
+Vancouver. The event will take place in both the hotel’s lobby and 
 downstairs, in the Hideaway Room.
 
 About Motto Books
 Motto is a bookstore and distributor specializing in experimental, 
 small-run, and self-published artist books, magazines, and zines. 
 Motto Vancouver opened in the winter of 2011 at the Or Gallery (555 
-Hamilton Street). Other Motto stores are located in Berlin, ZÃ¼rich, 
+Hamilton Street). Other Motto stores are located in Berlin, Zürich, 
 and Brussels.
 
 Fillip
@@ -143,7 +143,7 @@ Books, 2006) which was shortlist...ed for the 2006 A.M. Klein Award
 for Poetry and Hello Serotonin (Coach House Books, 2004) and the 
 humour book Asthmatica (Insomniac Press, 2005). His most recent 
 editorial projects are the anthologies Career Suicide! Contemporary 
-Literary Humour (DC Books, 2003) and Post-Prairie â€“ a 
+Literary Humour (DC Books, 2003) and Post-Prairie – a 
 collaborative effort with Robert Kroetsch, (Talonbooks, 2005). He 
 lives in Montreal where he is the Editor of Matrix magazine and 
 Snare Books.
@@ -170,7 +170,7 @@ April 28th at 611 Alexander, this dimly-lit exhibition of video, media,
 performance, and studio-based work in installation, photography, 
 painting, and sculpture will be followed on the 29th by live 
 performances of dance, music, and theatre at the Goldcorp Centre 
-for the Arts (Woodwardâ€™s Building).
+for the Arts (Woodward’s Building).
 
 Visual Arts April 29th-May 6th
 Opening Reception Thursday April 28th 7-10 pm
@@ -186,7 +186,7 @@ Portugal Espanol, and Bball & Realteensluts.
 Dancing to Follow.
 
 Performing Arts Night Friday April 29th 7pm
-Goldcorp Center for The Arts (Woodwardâ€™s Building)
+Goldcorp Center for The Arts (Woodward’s Building)
 149 West Hastings
 
 In order with location beginning at 7 pm
@@ -228,7 +228,7 @@ fidelity to the demands of an absent and inadequate authority. It will
 provide an opportunity to enact a moment of faith generated for its 
 own sake in an effort to open up the possible.
 
-Keogh will create a series of â€˜devotionalâ€™ paintings, and objects 
+Keogh will create a series of ‘devotional’ paintings, and objects 
 resembling relics all displayed in ways which suggest an activation 
 through being carried (attached to staffs, sitting on palanquins or 
 with brass handles on the sides, or attached to ribbons so as to be 
@@ -243,7 +243,7 @@ viewers to the artistic activity that occurred outside the gallery context.
 This project follows the example set by A Fine Red Line: A Curatorial 
 Miscellany, an event and publication by IM Press in London, and 
 argues that a new mystical aura arises from the simultaneous 
-appearance of art objectsâ€™ contradictory states of being. It is a 
+appearance of art objects’ contradictory states of being. It is a 
 backwards movement through a cloud of unknowing. It is not 
 contemplative in the sense of early Christian monks, but an exercise 
 of mind and body, a simultaneity in the sense of quantum physics.
@@ -309,7 +309,7 @@ Patrick Blaeser
 Patrick Blaeser has a BFA in Photography form ECUAD and MFA 
 from the Glasgow School of Art. He uses a variety of mediums 
 including photography, textiles and illustration and to express 
-apocalyptic and Utopian attitudes. Blaeserâ€™s practice consists of 
+apocalyptic and Utopian attitudes. Blaeser’s practice consists of 
 examining society to pick apart issues through the lens of possible 
 futures and pasts. By reevaluating these fictions he tries to discover 
 new routes for understanding and adjusting those ideas and how 
@@ -359,7 +359,7 @@ AJA ROSE BOND & GABRIEL SALOMAN
 Momentarily: Learning from Mega-Events now available for free 
 download 
 
-Momentarily: Learning from Mega-Events, Western Frontâ€™s latest 
+Momentarily: Learning from Mega-Events, Western Front’s latest 
 publication is available in its entirety for download at 
 http://front.bc.ca/mediaarts/events/3397 and at 
 http://www.front.bc.ca/momentarily/momentarily.pdf. Print copies of 
@@ -371,7 +371,7 @@ Momentarily: Learning from Mega-Events
 
 Strategic, simplified, spotless, homogenizing representations 
 require a pluralistic response which engages the visual tactically. 
-Unlike the image of Vancouver, the projectâ€™s category-defying 
+Unlike the image of Vancouver, the project’s category-defying 
 qualities are not clear-cut nor easily pinned down. This project 
 exists within several forms each increasingly visible: a residency, an 
 exhibition that commissioned two new works, a symposium with 
@@ -381,10 +381,10 @@ A research process that has unfolded since 2009, Momentarily:
 Learning from Mega-Events began with a shared interest in the 
 impacts of the 2010 Olympic Games on Vancouver, at a time when 
 this city has been noted as especially livable. Through multiple 
-textual forms â€“ from semi-fiction to interview to theoretical historical 
-examination â€“ this publication explodes first doubts and curiosities.
+textual forms – from semi-fiction to interview to theoretical historical 
+examination – this publication explodes first doubts and curiosities.
 
-Starting off, Western Frontâ€™s Executive Director Caitlin Jones has 
+Starting off, Western Front’s Executive Director Caitlin Jones has 
 expounded upon how this publication fits into a rich organizational 
 history of mail art and public accessibility. Artist collective Bik Van 
 der Pol share a text which has been uttered by the anonymous 
@@ -398,7 +398,7 @@ and Urban Subjects as proposals in the most productive sense.
 
 Activist Am Johal traces the link between development, culture and 
 the State. Myka Tucker-Abramson evokes and analyzes the 
-effectiveness of todayâ€™s universities as sites for public learning. 
+effectiveness of today’s universities as sites for public learning. 
 Pelin Tan reveals the undercurrents of a recent clash between the 
 art public and a local community within the Tophane neighbourhood 
 of Istanbul. Moments, as defined by urbanist Henri Lefebvre, are 
@@ -496,7 +496,7 @@ http://www.hammockresidency.com
 ------------------------------------------------------------------------
 W2 Moving Party
 
-April 29, 2011 7pm â€“ Late
+April 29, 2011 7pm – Late
 151 W Cordova 
 
 Media & Visual Artists: Dr. Spiny (RedGate) / Matty Harris (RedGate) / 
@@ -510,7 +510,7 @@ DVS1 (Prologue/ Transmat - Klockworks - Minneapolis/St Paul) / TJ
 Hooker (Subversive - Black Knights) / Miss Myte (Aspect Media) / 
 Caleb Fox (Subversive - Black Knights) / J.F.Killah (SHAHdj's) / 
 Johnny Dubz (Perception) /Michael Red (Lighta! / low indigo) / 
-Librarian (Bass Coast Project) / Prison Garde / NiÃ±a Mendoza + 
+Librarian (Bass Coast Project) / Prison Garde / Niña Mendoza + 
 MORE
 
 In the past year, 60,000 people have come together to participate in 
@@ -535,7 +535,7 @@ Garret Stevens (www.facebook.com/#!/GTylerStevens)
 
 Tickets available online at http://www.w2movingparty.eventbrite.com 
 Tickets also available at Beatstreet, Zulu, The Fall Tattoo Gallery, 
-and the Peopleâ€™s Co-op Bookstore. Advance $15 Door $20 [$10 
+and the People’s Co-op Bookstore. Advance $15 Door $20 [$10 
 Early Entry 7pm]
 
 
@@ -550,7 +550,7 @@ www.nodecenter.org
 
 Contact
 info@nodecenter.org
-Ignacio GarcÃ­a GÃ³mez del Valle / Perla Montelongo
+Ignacio García Gómez del Valle / Perla Montelongo
 Phone: +49 152 2769 9078 Address
 www.nodecenter.org
 Node Center for Curatorial Studies
@@ -559,9 +559,9 @@ Waldemarstr. 37A
 Germany
 Info
 Open application period: 
-April 1st â€“ April 30th 2011 
+April 1st – April 30th 2011 
 Program dates: 
-June 21st â€“ September 16th 2011
+June 21st – September 16th 2011
 
 Share this announcement on: Facebook | Twitter 
 Node Center Berlin announces The Curatorial Studies Residency 
@@ -628,10 +628,10 @@ Institution, or with projects developed as an independent curator.
 The results of the application process will be published May 15th, 
 2011.
 
-Cost of the program: â‚¬3,410
+Cost of the program: €3,410
 
 To formalize you enrollment upon acceptance, you will be asked to 
-make an initial deposit payment of 700â‚¬ by May 20th, 2011. This 
+make an initial deposit payment of 700€ by May 20th, 2011. This 
 deposit will be credited towards your tuition balance.
 
 For further information please contact us: info@nodecenter.org / 
@@ -728,7 +728,7 @@ required.
 Graphic & Web Designer
 Implementing the fair's brand identity, the in-house designer will 
 create templates for and populate each piece of collateral, and see 
-the materials â€“ including catalogues and booklets - through from 
+the materials – including catalogues and booklets - through from 
 concept to production. The ideal candidate will be bilingual in 
 spoken and written English and Arabic, have a degree in graphic 
 design, have a minimum of two years professional design and 
@@ -805,7 +805,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -901,8 +901,8 @@ at www.moa.ubc.ca/events.-----------------Museum of Anthropology |
 Digital Natives Symposium | May 1stFor four weeks in April, as part 
 of the Digital Natives project, text messages from artists and writers 
 from across North America were broadcast on a giant electronic 
-billboard at the south end of Vancouverâ€™s Burrard Street Bridge, on 
-SkwxwÃº7mesh territory. Interrupting the flow of advertisements, the 
+billboard at the south end of Vancouver’s Burrard Street Bridge, on 
+Skwxwú7mesh territory. Interrupting the flow of advertisements, the 
 10-second messages responded to the location and history of the 
 billboard, to digital language and translation, and to the city itself. 
 This symposium brings together artists, writers, and curators for an 
@@ -918,7 +918,7 @@ PMFree with Admission - 6393 N.W. Marine Drive, Vancouver BC
 V6T 1Z2More information can be found at www.moa.ubc.ca/events 
 or by e-mailing programs@moa.ubc.ca-------------------Museum of 
 Anthropology |Film Screening: For the Next 7 Generations | May 
-8thThis Mothersâ€™ Day screening celebrates the work of 13 
+8thThis Mothers’ Day screening celebrates the work of 13 
 indigenous grandmothers from around the world who are 
 committed to creating a positive future for the next 7 generations.The 
 event runs from 1-3 PMFree with Admission - 6393 N.W. Marine 
@@ -932,11 +932,11 @@ Edenshaw.The event begins at 1 PMFree with Admission - 6393
 N.W. Marine Drive, Vancouver BC V6T 1Z2More information can be 
 found at www.moa.ubc.ca/events---------------------Museum of 
 Anthropology | 'Twisted' by Martha Carter - School Performance | May 
-18th and May 20thOpen to teachers and their classes, mmHoPâ€™s 
+18th and May 20thOpen to teachers and their classes, mmHoP’s 
 Artistic Director Martha Carter performs Twisted, her interdisciplinary 
 performance piece about dance, scoliosis, and personal 
 transformation. The story is told through monologue, movement, 
-music, and visuals, revealing Carterâ€™s touching, yet comedic journey 
+music, and visuals, revealing Carter’s touching, yet comedic journey 
 of living with a twisted spine while pursuing a career in dance. Q & A 
 sessions follow performances. Cost $10 per student, including 
 HST. (Teachers: call or email 604.822.3825 or 
@@ -974,36 +974,36 @@ department.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-04-28-17-simon-fraser-university-gallery-solange-fabio-amaznia-projec">17. Simon Fraser University Gallery | Solange FabiÃ£o: "AmazÃ´nia (Projecting On Black)" | APR 30</a>
+<a href="/instant-coffee/listings/2011-04-28-17-simon-fraser-university-gallery-solange-fabio-amaznia-projec">17. Simon Fraser University Gallery | Solange Fabião: "Amazônia (Projecting On Black)" | APR 30</a>
 ------------------------------------------------------------------------
-Solange FabiÃ£o: "AmazÃ´nia (Projecting On Black)"
+Solange Fabião: "Amazônia (Projecting On Black)"
 Simon Fraser University Gallery
 April 30 to June 11, 2011
 
-Solange FabiÃ£oâ€™s "AmazÃ´nia (Projecting on Black)" is a fourteen-
+Solange Fabião’s "Amazônia (Projecting on Black)" is a fourteen-
 part, nine-hour video work made in 2008, of which three parts (c. 
-150 minutes) will be screened at SFU. "AmazÃ´nia" literally positions 
+150 minutes) will be screened at SFU. "Amazônia" literally positions 
 viewers alone in the Amazon, with no other human 
-presence. "AmazÃ´nia" breaks with cinematic tradition; projected 
+presence. "Amazônia" breaks with cinematic tradition; projected 
 onto a black screen, its light falls onto the silence of darkness, 
-mirroring the earthâ€™s state before the light of the sun falls on it. The 
-rainforest is never silent â€“ as night rapidly falls in the dusk videos, 
+mirroring the earth’s state before the light of the sun falls on it. The 
+rainforest is never silent – as night rapidly falls in the dusk videos, 
 the shift in forest sounds reflects the shift in lighting.
 
-FabiÃ£o is originally from Brazil and is now based in New York City. 
+Fabião is originally from Brazil and is now based in New York City. 
 Her practice explores a wide range of art forms, including 
-architecture â€” she is currently collaborating with Steven Holl on the 
-CitÃ© de Lâ€™OcÃ©an et du Surf, a museum of oceanic issues in Biarritz, 
+architecture — she is currently collaborating with Steven Holl on the 
+Cité de L’Océan et du Surf, a museum of oceanic issues in Biarritz, 
 France.
 
-Opening Reception: Saturday April 30, 1 â€“ 4 pm.
+Opening Reception: Saturday April 30, 1 – 4 pm.
 Six lunchtime talks with Bill Jeffries: Tuesday to Thursday, May 17 to 
 19, 12:05 and 12:35.
 Evening Hours: The Gallery will be open until 7pm on May 24, 25 
 and 26.
 
 FREE PARKING! April 30th only . This card or a printout of the 
-Solange FabiÃ£o: "AmazÃ´nia (Projecting on Black)" page from our 
+Solange Fabião: "Amazônia (Projecting on Black)" page from our 
 Web site, is your parking pass in any Visitor Lot at SFU (face up on 
 dashboard or hand to parking attendant).
 
@@ -1012,8 +1012,8 @@ Academic Quadrangle, Room 3004
 SFU Burnaby Campus
 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
 
-Gallery Hours: Tuesday â€“ Friday : 10am â€“ 5pm
-Saturday : 12pm â€“ 5pm.
+Gallery Hours: Tuesday – Friday : 10am – 5pm
+Saturday : 12pm – 5pm.
 Closed Saturdays on holiday long weekends.
 
 
@@ -1068,11 +1068,11 @@ day, Dong-sik receives a love letter from a female factory worker
 named Seon-yeong. He reports this fact to the factory dormitory
 supervisor, and Seon-yeong is forced to leave her job. Meanwhile, 
 her
-friend Gyeong-hui begins frequenting Dong-sikâ€™s new house on the
-pretext of receiving piano lessons. When his wifeâ€™s health begins to
+friend Gyeong-hui begins frequenting Dong-sik’s new house on the
+pretext of receiving piano lessons. When his wife’s health begins to
 decline, Dong-sik asks Gyeong-hui to recommend a good 
 housemaid. While
-Dong-sikâ€™s wife is away visiting her family, Gyeong-hui confesses to
+Dong-sik’s wife is away visiting her family, Gyeong-hui confesses to
 him that she is in love with him, only to be run out of the house. The
 housemaid, who had been watching secretly from outside the 
 window,
@@ -1082,7 +1082,7 @@ psychological manipulation, self-destruction and sexual predation
 has
 been unleashed on the household.
 
-â€”Mi-jeong Lee
+—Mi-jeong Lee
 
 In Korean with English subtitles | 110 minutes
 
@@ -1098,7 +1098,7 @@ art at the University of British Columbia, Vancouver, where he taught
 from 1990 until 2006. Lum joined the faculty of Bard College,
 Annandale-on-Hudson, in 2005 and worked there until 2007. He 
 has been
-an invited professor at the Ã‰cole Nationale SupÃ©rieure des Beaux-
+an invited professor at the École Nationale Supérieure des Beaux-
 Arts,
 Paris, the Akademie der Bildenden Kunst, Munich, California 
 College of
@@ -1113,11 +1113,11 @@ Three
 Star Press, Paris. Lum was Project Manager for Okwui Enwezor's 
 The
 Short Century: Independence and Liberation Movements in Africa 
-1945 â€“
+1945 –
 1994 (2001). He was also co-curator of the 7th Sharjah Biennial
-(2005), and Shanghai Modern: 1919 â€“ 1945 (2005). Lum has 
+(2005), and Shanghai Modern: 1919 – 1945 (2005). Lum has 
 exhibited
-widely, including SÃ£o Paulo Biennial (1998), Shanghai Biennale 
+widely, including São Paulo Biennial (1998), Shanghai Biennale 
 (2000),
 Documenta 11 (2002), the Istanbul Biennial (2007), and the 
 Gwangju
@@ -1132,35 +1132,35 @@ the Moscow Biennale later this year.
 Digital Natives Symposium
 
 May 1, 2011
-1 â€“ 5 pm with a reception to follow
+1 – 5 pm with a reception to follow
 
 Museum of Anthropology Theatre
 6393 N.W. Marine Drive Vancouver, B.C.
 Tel: 604.822.5087
 programs@moa.ubc.ca
 
-Other Sights for Artistsâ€™ Projects and Museum of Anthropology Public 
-Programs invite you to Digital Natives Symposium, May 1, 2011, 1 â€“ 
+Other Sights for Artists’ Projects and Museum of Anthropology Public 
+Programs invite you to Digital Natives Symposium, May 1, 2011, 1 – 
 5 pm with a reception to follow.
 
 Digital Natives is a public art project sited on the electronic billboard 
-at the Burrard Street Bridge from April 4 â€“ 30, 2011. Curators Lorna 
+at the Burrard Street Bridge from April 4 – 30, 2011. Curators Lorna 
 Brown and Clint Burnham invited artists and writers from across 
 North America to contribute messages to be broadcast on the 
 billboard, coinciding with the 125th Anniversary of the City of 
 Vancouver. Taking the form of Twitter messages, the contributors 
-responded to the siteâ€™s charged history, the ten-second format and 
+responded to the site’s charged history, the ten-second format and 
 the 140-character limit of tweets. The sign itself became an artistic 
 and literary space for exchange between native and non-native 
 communities exploring how language is used in advertising, its 
 tactical role in colonization, and as a complex vehicle of 
 communication. Many of the English messages were translated and 
-displayed in SkwxwÃº7mesh, Kwakâ€™wala, 
+displayed in Skwxwú7mesh, Kwak’wala, 
 hǝnâ€™qâ€™ǝminâ€™ǝmâ€™/Musqueam, Tahltan and Nlakaâ€™pamuctsin in 
 addition to the hybrid forms that are part of twitter usage. Tweets 
 from the public were gathered and broadcast in the later part of the 
 month, making Digital Natives public art that the public not 
-only â€˜receivedâ€™ but had the opportunity to produce.
+only ‘received’ but had the opportunity to produce.
 
 The Symposium will feature a number of contributing artists and 
 writers, including Sonny Assu, Edgar Heap of Birds, Phillip Djwa, 
@@ -1194,27 +1194,27 @@ Drawings 2000 - 2011
 In conjunction with the Centre A 12th Anniversary Fundraising Gala 
 & Art Auction
 
-Exhibition: April 21 Â¨C May 5, 2011
-Artist Talk & Film Screening: Thursday, April 21, 6 Â¨C 8 pm
-Â¡Â°From 0 Yen House to House at Ground Â£Â¤0 Â¡Â±
+Exhibition: April 21 ¨C May 5, 2011
+Artist Talk & Film Screening: Thursday, April 21, 6 ¨C 8 pm
+¡°From 0 Yen House to House at Ground £¤0 ¡±
 Artist talk live streaming: http://www.ustream.tv/channel/kyohei-
 sakaguchi-artist-talk
 Opening Reception: April 21, 8 pm
-*the gallery is closed from April 22 Â¨C 25 for the Easter Holiday
+*the gallery is closed from April 22 ¨C 25 for the Easter Holiday
 
 Curator Makiko Hara
 
-Centre A is pleased to present Â¡Â°Kyohei Sakaguchi - DrawingsÂ¡Â± a 
+Centre A is pleased to present ¡°Kyohei Sakaguchi - Drawings¡± a 
 solo exhibition of Japanese artist, Kyohei Sakaguchi. This will be the 
 second solo exhibition of Sakaguchi in Vancouver, and the first-ever 
 presentation of the artist highlighting his drawing works. The 
 exhibition features more than 150 drawings by the artist produced 
 during the last 10 years, from 2000- 2011. Comprised of works 
-assembled from the artistÂ¡Â¯s archive and from several private 
+assembled from the artist¡¯s archive and from several private 
 collectors, this exhibition explores a number of distinct ways that 
 Sakaguchi uses drawing in an important role in the development of 
 his philosophy and attitude, and in the creation of his art in relation 
-to his urban Â¡Â®field workÂ¡Â¯, research and writing.
+to his urban ¡®field work¡¯, research and writing.
 
 Born in Kumamoto, Japan and currently living in Tokyo, Kyohei 
 Sakaguchi is multi-talented artist, writer, thinker, urban researcher 
@@ -1229,42 +1229,42 @@ France 2007); Contemporary Art Museum (Kumamoto , Japan
 2009), and Scotiabank Nuit Blanche (Toronto 2009) .
 
 Between 2004 and 2010, Sakaguchi has published five fiction and 
-nonÂ¨Cfiction books in Japanese based on his Â¡Â®urban field researchÂ¡Â¯ 
+non¨Cfiction books in Japanese based on his ¡®urban field research¡¯ 
 with an innovative and self sufficient group of people living in 
-temporary houses in urban streets. His most Recent book, Â¡Â°How to 
+temporary houses in urban streets. His most Recent book, ¡°How to 
 Live in Cities: Starting from Scratch, Urban Hunting and Gathering 
-LifestyleÂ¡Â± (Ota Shuppan, 2010) received significant media and 
+Lifestyle¡± (Ota Shuppan, 2010) received significant media and 
 critical coverage. Sakaguchi has become one of the most influential 
 thinkers, writers and lecturers in the in Japan today. 
 
-This year, one of his novels, Â¡Â°Tokyo 0 Yen-House- 0 Yen LifeÂ¡Â± 
+This year, one of his novels, ¡°Tokyo 0 Yen-House- 0 Yen Life¡± 
 (Daiwa-shobo, Japan 2008) will be made into a large budget feature 
 film, and will be published as an e-book in Korean, English and 
 French for the first time. 
 
-The exhibition is specially organized in conjunction with Centre AÂ¡Â¯s 
+The exhibition is specially organized in conjunction with Centre A¡¯s 
 12th Anniversary Fundraising Gala Dinner and Art Auction with the 
 aim of addressing the unique relationship and personal support 
 system between artists, collectors and the non-profit art 
 organization. Since his first Vancouver solo exhibition at Vancouver 
-Art Gallery in 2006, Sakaguchi has donated drawings to Centre AÂ¡Â¯s 
+Art Gallery in 2006, Sakaguchi has donated drawings to Centre A¡¯s 
 fundraising Auctions every year. Over the last 4 years, Vancouver 
 collectors have acquired a significant number of his works. This 
 year, for our upcoming auction on May 7th, Sakaguchi is generously 
-donating a large scale oil drawing on canvas (196Â¡Â± x 60Â¡Â±). For this 
+donating a large scale oil drawing on canvas (196¡± x 60¡±). For this 
 occasion, we present this new work together along with his other 
 drawings assembled from prominent Vancouver collections. 
 
 On April 21, Sakaguchi will give a public talk presenting his most 
 recent field work and sustainable housing projects 
-including Â¡Â°House at Ground Â£Â¤0 Â¡Â± of which the artist has initiated for 
+including ¡°House at Ground £¤0 ¡± of which the artist has initiated for 
 the reconstruction of severely damaged towns by the recent 
-massive quake and Tsunami in Japan followed by the JapanÂ¡Â¯s 
+massive quake and Tsunami in Japan followed by the Japan¡¯s 
 worst nuclear accident.
 
 All drawings in the exhibition (except the works loaned from the 
 collectors) are available for purchase during the exhibition and the 
-proceeds of the sales support his House at Ground Â£Â¤0 project in 
+proceeds of the sales support his House at Ground £¤0 project in 
 Japan.
 
 Our gratitude to Jack & Maryon Adelaar, Rick Erickson, Sherry 
@@ -1279,9 +1279,9 @@ funding agencies, including the Canada Council for the Arts, the
 British Columbia Arts Council, and the City of Vancouver through the 
 Office of Cultural Affairs.
 
-Kyohei SakaguchiÂ¡Â¯s Website: www.0yenhouse.com
+Kyohei Sakaguchi¡¯s Website: www.0yenhouse.com
 The artist will attend the opening and stay in Vancouver from April 
-17 Â¨C 24.
+17 ¨C 24.
 Interview with the artist is available by appointment during his stay in 
 Vancouver.
 
@@ -1294,7 +1294,7 @@ Centre A
 Vancouver International Centre for Contemporary Asian Art
 2 West Hastings Street, Vancouver, BC, Canada V6B 1G6 
 Tel: 604.683.8326, www.centrea.org, info@centrea.org
-Gallery Hours: Tuesday Â¨C Saturday 11 am Â¨C 6 pm, Sunday Â¨C Monday 
+Gallery Hours: Tuesday ¨C Saturday 11 am ¨C 6 pm, Sunday ¨C Monday 
 closed
 
 
@@ -1303,19 +1303,19 @@ closed
 ------------------------------------------------------------------------
 emily carr degree exhibition 2011
 
-The Degree Exhibition highlights studentsâ€™ creativity and innovation 
-across design, media and visual arts in our Bachelor and Mastersâ€™ 
+The Degree Exhibition highlights students’ creativity and innovation 
+across design, media and visual arts in our Bachelor and Masters’ 
 programs.
 
 Please join us as we celebrate the class of 2011!
 
-When: May 8 â€“ 22, 2011
-Time: 10am â€“ 6pm, daily
+When: May 8 – 22, 2011
+Time: 10am – 6pm, daily
 Where: Emily Carr University of Art + Design
 1399 |1400 Johnston Street
 Granville Island
 
-Opening Night takes place on Saturday, May 7 from 5 â€“ 
+Opening Night takes place on Saturday, May 7 from 5 – 
 9pm.
 Exhibitions are free and open to the public.
 
@@ -1535,14 +1535,14 @@ KATIE KOZAK
 ANITA SIKMA
 SEAN SIKORSKI
 
-April 21 â€“ May 13 2010
+April 21 – May 13 2010
 
 Opening Reception April 21, 7pm
 Performance by Leah Abramson and Lucien Durey May 12, 7pm
 
 ///////////////////////////////////////////
 
-Luckyâ€™s Gallery is pleased to present the forthcoming group 
+Lucky’s Gallery is pleased to present the forthcoming group 
 exhibition Sunday with Vancouver artists Leah Abramson, Lucien 
 Durey, Tobin Gibson, Katie Kozak, Anita Sikma and Sean Sikorski. 
 An exhibition paradoxical in character Sunday explores the shy 
@@ -1606,7 +1606,7 @@ CANADA
 Please include the completed submission form (downloadable at
 www.tais.ca/animationshowcase_submissionform.pdf), an artist 
 bio and two
-film stills (tiff or jpg @ 300 dpi Â­ 2 x 3). Submission form, bio, films
+film stills (tiff or jpg @ 300 dpi ­ 2 x 3). Submission form, bio, films
 stills and download links may be emailed to tais@bellnet.ca or 
 included in
 mailed submission package. Please do not send large files via 
@@ -1706,10 +1706,10 @@ Visit Caroline's website
 Writing the Narrative Scene
 Location: Listel Hotel, 1300 Robson Street, Vancouver BC
 Date: Saturday, May 21, 2011
-Time: 1:00 â€“ 4:00 pm
+Time: 1:00 – 4:00 pm
 Price: $50 (includes a one-year subscription to Geist for yourself or 
 a friend) 
-To register click here or call us at 604â€“681â€“9161
+To register click here or call us at 604–681–9161
 
 Geist, 210 - 111 West Hastings Street, Vancouver BC V6B 1H4.
 

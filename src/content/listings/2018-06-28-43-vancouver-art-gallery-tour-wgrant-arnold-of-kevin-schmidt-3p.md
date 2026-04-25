@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 43
 type: "EDUCATION"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Tour w/Grant Arnold of Kevin Schmidt | 3PM | JUL 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 19
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Talk & Workshop with Charlene Vickers | 1PM | FEB 28"
 ---
 

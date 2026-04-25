@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 20
 type: ""
+venue: "Pixilerations [v.8]: New Media Fringe Festival"
 summary: "Pixilerations [v.8]: New Media Fringe Festival | CALL | APR 19"
 ---
 
@@ -55,24 +56,24 @@ media artworks in New England.
 
 Since its inception in 2004, Pixilerations has grown to present 369 
 national and international new media artists. Artists have responded 
-to our thematic â€˜Call4Worksâ€™ such as Pairings [v.7], "The Great 
+to our thematic ‘Call4Works’ such as Pairings [v.7], "The Great 
 Disruption [v.6], Fragments and Wholes [v.5] and Stories+/-
 Ornaments [v.4]. Pixilerations has featured convention-defying guest 
 artists in exhibitions, performances and residencies including DJ 
 Spooky, Ulrich Maiss, Liz Phillips, Laurie Anderson, SKIF++, Myriam 
 Thyes, Gail Wight, Heidi Kumao, Dar-Kuen Wu, Pauline Oliveros, 
-Dean & Britta, and Mark Cetilia & Joe Cantrellâ€™s CallSpace, a 
+Dean & Britta, and Mark Cetilia & Joe Cantrell’s CallSpace, a 
 Creative Capital Project.
 
 The Pixilerations festival aims to attract diverse audiences; it 
 includes a blend of traditional venues such as art galleries, 
 auditoriums, recital Halls, with non-traditional spaces such as 
-cinemas, cafes and outdoor areas in Providenceâ€™s historic Arts 
+cinemas, cafes and outdoor areas in Providence’s historic Arts 
 District.
 
 In an era of Facebook/Twitter-inflamed revolutions, biotechnology 
 ethics wars, and youtube-generated museum exhibitions, this year's 
-festival seeks to examine the question "Where â€“ and what â€“ is New 
+festival seeks to examine the question "Where – and what – is New 
 Media Art today?" New Media art traditionally held a role at the 
 intersections of art, science, technology, and social realms, yet 
 artists who do not identify as New Media artists now make free use 

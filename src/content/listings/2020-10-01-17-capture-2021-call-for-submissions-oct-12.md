@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 17
 type: "CALL"
+venue: "Capture 2021"
 summary: "Capture 2021 | Call for Submissions | OCT 12"
 ---
 

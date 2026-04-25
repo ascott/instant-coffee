@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 16
 type: "TALK"
+venue: "CAG - Off-site at Roundhouse"
 summary: "CAG - Off-site at Roundhouse | Wolfgang Weileder | 7PM | OCT 11"
 ---
 

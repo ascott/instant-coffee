@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 12
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Korakrit Arunanondchai | 7PM | JUL 14"
 ---
 

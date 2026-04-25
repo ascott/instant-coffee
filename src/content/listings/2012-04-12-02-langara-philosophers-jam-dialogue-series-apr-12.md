@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 2
 type: ""
+venue: "Langara"
 summary: "Langara | Philosophers' Jam Dialogue Series | APR 12"
 ---
 

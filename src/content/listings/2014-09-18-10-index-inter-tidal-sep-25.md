@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 10
 type: ""
+venue: "INDEX"
 summary: "INDEX | Inter Tidal | SEP 25"
 ---
 

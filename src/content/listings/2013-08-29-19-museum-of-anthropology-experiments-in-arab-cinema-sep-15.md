@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 19
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Experiments in Arab Cinema | SEP 15"
 ---
 
@@ -17,7 +18,7 @@ successful Safar/Voyage exhibition.
 
 Sept. 15, 2013 at 2:30pm 
 
-MOAâ€™s Michael M. Ames Theatre Gallery
+MOA’s Michael M. Ames Theatre Gallery
 
 Free with museum admission
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 52
 type: "TALK"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Impressions of Indonesia Part 2 | 7-9PM | FEB 13"
 ---
 

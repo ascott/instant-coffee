@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 19
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | They Live (John Carpenter, 1988) | OCT 15"
 ---
 

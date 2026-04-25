@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interview with the vampire"
 emailDate: "Thu, 27 Oct 2016 18:40:17 -0700"
 number: 8
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | #callresponse | OCT 28"
 ---
 

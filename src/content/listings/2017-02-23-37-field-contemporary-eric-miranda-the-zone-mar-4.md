@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 37
 type: ""
+venue: "Field Contemporary"
 summary: "Field Contemporary | Eric Miranda | The Zone | MAR 4"
 ---
 

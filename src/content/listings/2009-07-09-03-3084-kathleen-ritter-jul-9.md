@@ -4,25 +4,26 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 3
 type: ""
+venue: "3084"
 summary: "3084 | KATHLEEN RITTER | JUL 9"
 ---
 
 KATHLEEN RITTER | NEVER ALONE
 
 JULY 9 2009: PUBLIC VIEW
-6.45PM FOR 7.00PM ESCORT TO SPACE (limited space Â– please register)
+6.45PM FOR 7.00PM ESCORT TO SPACE (limited space  please register)
 
-JULY 10 Â– JULY 12 2009: BY APPOINTMENT
+JULY 10  JULY 12 2009: BY APPOINTMENT
 
-www.3084.ca Â– location / registration / appointments / further information
+www.3084.ca  location / registration / appointments / further information
 
-All alone, IÂ’m so all alone. There is no one else but you. All alone by the telephone, waiting for a 
-ring, a ting-a-ling. IÂ’m all alone every evening. All alone, feeling blue. Wondering where you are 
+All alone, Im so all alone. There is no one else but you. All alone by the telephone, waiting for a 
+ring, a ting-a-ling. Im all alone every evening. All alone, feeling blue. Wondering where you are 
 and how you are, and if you are all alone too. I hear the ticking of the clock, I'm lying here, the 
 room's pitch dark. I wonder where you are tonight; no answer on the telephone. And the night 
 goes by so very slow. I hope that it won't end though. Alone. When I was young I never needed 
 anyone and making love was just for fun. Those days are gone. Living alone, I think of all the 
-friends IÂ’ve known, but when I dial the telephone, nobodyÂ’s home. All by myself. DonÂ’t want to be
+friends Ive known, but when I dial the telephone, nobodys home. All by myself. Dont want to be
 all by myself anymore. All by myself. Maybe I give up too easy. Maybe I don't fight enough. 
 Maybe my heart is afraid of falling in love. I can't do this alone. I don't know what to do. Alone. 
 I'm trying to stay with you. It's not all about you. Boy, I can't do this alone. You're making this 
@@ -32,7 +33,7 @@ caress. All alone am I ever since your goodbye. All alone with just a beat of my
 around but I don't hear a sound. Just the lonely beating of my heart.
 
 In the final week of the 3084 program, Kathleen Ritter concludes the project with a response 
-drawing on the layered echoes of desire that resonate throughout the self-storage facility Â– a 
+drawing on the layered echoes of desire that resonate throughout the self-storage facility  a 
 container for tightly rationalised zones of erasure that for many reasons, increasing numbers of 
 people want. 
 
@@ -51,7 +52,7 @@ Prefix (2009), Modern Fuel (2008), the Robert McLaughlin Gallery (2008), Western
 Skol (2000), and Access (2000). Her writing has been published in the anthology Places and 
 Non-Places of Contemporary Art (2005) and the journals SWITCH, Prefix Photo, ESSE, Open 
 Letter, and Fillip Magazine. She has curated several projects, including Expect Delays (2003), a 
-series of artistÂ’s interventions that took place throughout the City of Vancouver, and How Soon Is 
+series of artists interventions that took place throughout the City of Vancouver, and How Soon Is 
 Now (2009), new work by artists from the province at the Vancouver Art Gallery.
 
 ABOUT 3084: SHORT-TERM STORAGE FOR MATERIALISED IDEAS / IDEATED MATERIALS
@@ -65,6 +66,6 @@ of such space and a facility for this approach.
 
 Throughout June and July 2009, 3084 will facilitate the short-term storage of materialised ideas / 
 ideated materials by a selection of artists based in Vancouver. These projects will be open to 
-public encounter through a series of open storage events and viewings by appointment Â– please 
+public encounter through a series of open storage events and viewings by appointment  please 
 see www.3084.ca for details.
 http://www.3084.ca

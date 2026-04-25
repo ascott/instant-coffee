@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 17
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Film Screening | Deep Water (2006) | FEB 15"
 ---
 

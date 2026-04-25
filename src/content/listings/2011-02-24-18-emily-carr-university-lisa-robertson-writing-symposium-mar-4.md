@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 18
 type: ""
+venue: "EMILY CARR UNIVERSITY"
 summary: "EMILY CARR UNIVERSITY | LISA ROBERTSON | Writing Symposium | MAR 4"
 ---
 
@@ -15,14 +16,14 @@ LIMINAL POSITIONS
 FRIDAY MARCH 4, 6-8PM South Building #301, RECEPTION 8PM Agro Cafe,
 SATURDAY MARCH 5, 10:30AM-4:30PM, South Building #301.
 
-This yearÃ¢ï¿½ï¿½s conference seeks to gauge and engage the current state of Canadian
+This yearâ��s conference seeks to gauge and engage the current state of Canadian
 academic research across the fields of art, history, philosophy, critical +
 cultural studies. Presenting critical and creative explorations into the
 potentially rich contradictions inherent in criticizing culture while
 earnestly taking part in producing it.
 
 Liminal Positions aims to provide a forum for the discussion of questions
-centered around the notion of in-betweenness. Asking where the Ã¢ï¿½ï¿½workÃ¢ï¿½ï¿½ of
+centered around the notion of in-betweenness. Asking where the â��workâ�� of
 art actually occurs and considering the role of the artist within commodity
 culture? Or conversely, how have cultural analysts approached writing or
 theorizing popular culture or current events?

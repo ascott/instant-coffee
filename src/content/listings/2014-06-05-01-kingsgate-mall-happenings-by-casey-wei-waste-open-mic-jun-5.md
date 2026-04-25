@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 1
 type: ""
+venue: "Kingsgate Mall Happenings by Casey Wei"
 summary: "Kingsgate Mall Happenings by Casey Wei | Waste Open Mic ... | JUN 5"
 ---
 

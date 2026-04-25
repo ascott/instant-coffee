@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 24
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | Upcoming VIVO Workshop | FEB 17"
 ---
 
@@ -15,14 +16,14 @@ Eventbrite.
 
 A beginner to intermediate-level workshop best suited to people with a high
 level of comfort with computers and technology. This will be a smaller
-class, so there will be flexibility based on the groupâ€™s experience. This
+class, so there will be flexibility based on the group’s experience. This
 workshop will cover the basic usage of the applications Modul8 and
 MadMapper, for the creation of dynamic video art, VJing and projection
 mapping. The course will begin with a hands-on crash course in Modul8. As a
 group the class will go through a series of instructions on how to use the
 software, section by section, button by button. By the end of the first two
 classes, participants will have enough of an understanding of the software
-to use the videos theyâ€™ve created with MadMapper. With MadMapper, students
+to use the videos they’ve created with MadMapper. With MadMapper, students
 will learn to project moving images on isolated surfaces, also called
 mapping. Students will have the opportunity to create a project with the
 support of the instructor.

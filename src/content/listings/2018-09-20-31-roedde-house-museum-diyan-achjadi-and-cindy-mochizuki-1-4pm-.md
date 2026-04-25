@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 31
 type: "OPENING"
+venue: "Roedde House Museum"
 summary: "Roedde House Museum | Diyan Achjadi and Cindy Mochizuki | 1-4PM | SEP 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 17
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | MICROCOS(MS) | JAN 28"
 ---
 
@@ -29,12 +30,12 @@ gases; or for soluble poisons capable of being produced in such quantities as to
 destroy the vegetation of whole continents; or for breeds of disease germs 
 immunised against all possible antibodies.â€  â€“ George Orwell - 1984
 
-A people whoâ€™s primary aims are driving, shopping, and television are subject to 
-terrorism at any time. â€“ Steven Deitz
+A people who’s primary aims are driving, shopping, and television are subject to 
+terrorism at any time. – Steven Deitz
 
 Yactac Gallery is proud to present "Microcos(ms)", a group exhibition by four 
 Contemporary Canadian artists. The works illustrate the presence of biological 
-threats in todayâ€™s society, where fear tactics prop up the present 
+threats in today’s society, where fear tactics prop up the present 
 pharmaceutical economy. The process of division and amalgamation in 
 microorganisms on manufactured surfaces is translated and applied through 
 multiple medias.

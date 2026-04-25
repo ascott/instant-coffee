@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 11
 type: "CALL"
+venue: "Buddies In Bad Times Theatre"
 summary: "Buddies In Bad Times Theatre | CALL FOR SUBMISSIONS | OCT 14"
 ---
 

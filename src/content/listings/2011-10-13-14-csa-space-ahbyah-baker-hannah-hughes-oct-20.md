@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 14
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | Ahbyah Baker & Hannah Hughes | OCT 20"
 ---
 

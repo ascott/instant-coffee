@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 27
 type: ""
+venue: "The Fieldhouse Studio Residency Program"
 summary: "The Fieldhouse Studio Residency Program | Call for proposals | JUL 9"
 ---
 

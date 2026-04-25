@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 7
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Lief Hall Paper House | MAR 30"
 ---
 
@@ -20,7 +21,7 @@ materials, objects and architecture in performance and media. Over the
 month of March, Hall composed, choreographed, animated and 
 constructed the elements of Paper House.
 
-Lief Hallâ€™s multidisciplinary practice employs light, sound, sculpture and 
+Lief Hall’s multidisciplinary practice employs light, sound, sculpture and 
 movement to create affective environments. Her installations, 
 performances and compositions induce tension between the virtual and 
 real by projecting 3D computer animation and video onto bodies and 
@@ -48,7 +49,7 @@ flourish when long curtains of it are suspended. Video projections on
 Paper House create shadows that alter perceptions of space, weight 
 and depth. The projections transform solid objects into fluid forms, 
 creating architecture out of moving light. The texture and patterning of 
-Hallâ€™s 3D animation also obscures the dancers forms, dissolving them 
+Hall’s 3D animation also obscures the dancers forms, dissolving them 
 into the materiality of their own construction.
 
 All Events + Exhibitions are free. Public funding and membership fees 

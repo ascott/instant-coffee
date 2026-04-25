@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 2
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Asking for It - Patryk Stasieczek | MAR 26"
 ---
 
 Asking For It
 Patryk Stasieczek
-March 27th â€” April 25th, 2015
-Opening March 26th, 7:00 â€” 10:00PM
+March 27th — April 25th, 2015
+Opening March 26th, 7:00 — 10:00PM
 17 West Broadway, Vancouver BC.
 
 As part of Capture Photography Festival, FIELD Contemporary is please to
-present Patryk Stasieczekâ€™s solo exhibition Asking for It, curated by
+present Patryk Stasieczek’s solo exhibition Asking for It, curated by
 Avalon Mott.
 
 This exhibition is the result of an ongoing photographic investigation into

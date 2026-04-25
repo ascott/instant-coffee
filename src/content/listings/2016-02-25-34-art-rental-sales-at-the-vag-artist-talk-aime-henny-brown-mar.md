@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 34
 type: "TALK"
+venue: "Art Rental & Sales at the VAG"
 summary: "Art Rental & Sales at the VAG | Artist Talk: Aime Henny Brown | MAR 6"
 ---
 

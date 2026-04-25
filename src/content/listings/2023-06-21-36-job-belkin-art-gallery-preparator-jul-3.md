@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 36
 type: ""
+venue: "JOB"
 summary: "JOB | Belkin Art Gallery | Preparator | JUL 3"
 ---
 

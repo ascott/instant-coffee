@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 34
 type: "OPENING"
+venue: "Art Gallery at Evergreen (COQUITLAM)"
 summary: "Art Gallery at Evergreen (COQUITLAM) | Amalie Atkins: where the hour floats | 230 PM | MAR 2"
 ---
 

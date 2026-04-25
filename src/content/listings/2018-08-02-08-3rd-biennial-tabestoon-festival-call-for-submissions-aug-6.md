@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 8
 type: "CALL"
+venue: "3rd biennial Tabestoon Festival"
 summary: "3rd biennial Tabestoon Festival | Call for Submissions | AUG 6"
 ---
 

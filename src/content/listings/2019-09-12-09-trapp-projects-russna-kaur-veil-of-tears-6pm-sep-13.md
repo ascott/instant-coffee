@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 9
 type: "OPENING"
+venue: "Trapp Projects"
 summary: "Trapp Projects | RUSSNA KAUR | VEIL OF TEARS | 6PM | SEP 13"
 ---
 

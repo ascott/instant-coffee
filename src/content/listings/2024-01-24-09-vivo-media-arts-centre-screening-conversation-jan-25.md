@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 9
 type: "EVENT"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Screening + Conversation | JAN 25"
 ---
 

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 14
 type: "CALL"
+venue: "Lark Productions & CBC"
 summary: "Lark Productions & CBC | Crash Gallery - New Art Competition TV Series | JUN 1"
 ---
 
 YOU ARE INVITED TO A LIVE TAPING OF CRASH GALLERY - A NEW ART COMPETITION
 TELEVISION SERIES
 
-Lark Productions and CBC have teamed up to bring you Crash Gallery â€“ a
+Lark Productions and CBC have teamed up to bring you Crash Gallery – a
 ground breaking new art competition series. Artists of all backgrounds will
 step out of their comfort zone and create spontaneous art while competing
 against their peers in front of a live voting audience.
@@ -20,8 +21,8 @@ to cheer them on and ultimately decide who the victor of the evening will be.
 
 This is your chance to see what creative cloth these artists are cut from
 as you watch them go toe to toe in a mainstream network television event.
-Watch them paint, sculpt, and perhaps even paper machÃ© their way to the top
-of this new art competition â€“ and new TV series.
+Watch them paint, sculpt, and perhaps even paper maché their way to the top
+of this new art competition – and new TV series.
 
 WHO:
 Artists, Gallery Owners, Curators, Art Experts, Art Lovers and Aficionados!

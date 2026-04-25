@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 22
 type: ""
+venue: "SFU Woodward's"
 summary: "SFU Woodward's | The fall, rise and re-imagination of societies | JUN 17"
 ---
 
@@ -16,11 +17,11 @@ Goldcorp Centre for the Arts
 
 The fall, rise and re-imagination of societies
 
-Spur is Canadaâ€™s first national festival of politics, art and ideas. Spur
+Spur is Canada’s first national festival of politics, art and ideas. Spur
 is produced by Diaspora Dialogues and the Literary Review of Canada.
 Designed to engage Canadians in a feisty, nation-wide search for ways
 forward on the most current of issues, Spur is multi-partisan,
-forward-looking and solutions-orientedâ€”spurring ideas into action.
+forward-looking and solutions-oriented—spurring ideas into action.
 
 With editions in Toronto, Winnipeg and Vancouver in 2013, and an eventual
 roll-out from coast-to-coast-to-coast, Spur is a modern-day railroad,
@@ -32,11 +33,11 @@ all backgrounds, building a broad public forum accessible to all.
 
 spurfestival.ca
 
-Spur is Canadaâ€™s first national festival of politics, art and ideas. Spur
+Spur is Canada’s first national festival of politics, art and ideas. Spur
 is produced by Diaspora Dialogues and the Literary Review of Canada.
 Designed to engage Canadians in a feisty, nation-wide search for ways
 forward on the most current of issues, Spur is multi-partisan,
-forward-looking and solutions-orientedâ€”spurring ideas into action.
+forward-looking and solutions-oriented—spurring ideas into action.
 
 With editions in Toronto, Winnipeg and Vancouver in 2013, and an eventual
 roll-out from coast-to-coast-to-coast, Spur is a modern-day railroad,

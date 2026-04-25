@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 3
 type: ""
+venue: "Contemporary Art Society of Vancouver"
 summary: "Contemporary Art Society of Vancouver | Lecture: Attila Lukacs and Michael Morris | NOV 25"
 ---
 

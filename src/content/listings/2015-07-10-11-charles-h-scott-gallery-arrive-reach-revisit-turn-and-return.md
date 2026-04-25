@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 11
 type: "OPENING"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | arrive, reach, revisit, turn and return | JUL 16"
 ---
 

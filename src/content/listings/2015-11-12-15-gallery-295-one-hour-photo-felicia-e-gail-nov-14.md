@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 15
 type: "TALK"
+venue: "Gallery 295"
 summary: "Gallery 295 | One Hour Photo: Felicia E. Gail | NOV 14"
 ---
 
@@ -26,23 +27,23 @@ materials, Tarps, take on a transformative quality and lead one through a
 rich dispersal of use recorded as-photograph within the tarps themselves.
 Here the relationships between what is presented are aroused by her
 intersubjective connections with these materials, which are explored as
-photographic stand-ins as a function of personhood â€“ translated into
+photographic stand-ins as a function of personhood – translated into
 poetics through form. Parallel to her as-photograph tarps is the spatial
 construction of support structures as-landscape. These supports intersect
 the whole of the gallery with deliberate spaces for intimacy.
 
 Together these materials and temporary structures, in tandem with
-photographic images and used-up film canisters, articulate Gailâ€™s own
+photographic images and used-up film canisters, articulate Gail’s own
 horizon as a frame through which her subjective poetics takes place. This
 immersive horizon of objects invokes and obscures what is understood as
 seen and experienced. In travel back to blue Gail implements a kind of
-autopoiesis â€“ a system where the installation is itself a generative
+autopoiesis – a system where the installation is itself a generative
 production and result of a history located in the roots of South-Eastern
 Americana, loss, desire, and the complex journey to the Pacific North West.
 The as-photograph pieces within the as-landscape installation serve as a
-kind of time-travel into Gailâ€™s original purposing of these items through
+kind of time-travel into Gail’s original purposing of these items through
 their repurposed forms emphasizing their socio-political connotations. As a
-whole these materials bring the poetics of Felicia E. Gailâ€™s expanded
+whole these materials bring the poetics of Felicia E. Gail’s expanded
 photographic practice into the foreground and immediately transports her
 poetics into the backgrounded horizon of personal interpretation and
 projected meaning, which for Gail results as a function of time-travel.

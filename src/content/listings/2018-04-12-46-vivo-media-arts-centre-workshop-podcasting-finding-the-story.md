@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 46
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | WORKSHOP | Podcasting: Finding the Story | APR 26"
 ---
 

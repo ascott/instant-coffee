@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not nonsense but making no sense"
 emailDate: "Thu, 05 Nov 2009 03:27:25 -0800"
 number: 5
 type: ""
+venue: "Blanket"
 summary: "Blanket | Monique Mouton | NOV 6"
 ---
 

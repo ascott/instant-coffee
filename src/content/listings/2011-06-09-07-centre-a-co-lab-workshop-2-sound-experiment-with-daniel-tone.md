@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 7
 type: ""
+venue: "Centre A"
 summary: "Centre A | CO-LAB Workshop #2 | Sound Experiment with Daniel Tones | JUN 11"
 ---
 

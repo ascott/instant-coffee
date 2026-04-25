@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 50
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Presentation House Theatre | Reverberations Collective | MARCH 7-17 | MAR 7"
 ---
 

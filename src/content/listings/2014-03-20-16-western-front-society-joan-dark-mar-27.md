@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 16
 type: ""
+venue: "Western Front Society"
 summary: "Western Front Society | JOAN DARK | MAR 27"
 ---
 

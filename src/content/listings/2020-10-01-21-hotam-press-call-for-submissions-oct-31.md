@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 21
 type: "CALL"
+venue: "Hotam Press"
 summary: "Hotam Press | Call for Submissions | OCT 31"
 ---
 

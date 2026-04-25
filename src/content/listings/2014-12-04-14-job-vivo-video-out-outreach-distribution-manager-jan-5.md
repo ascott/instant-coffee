@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 14
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO | VIDEO OUT: OUTREACH + DISTRIBUTION MANAGER | JAN 5"
 ---
 

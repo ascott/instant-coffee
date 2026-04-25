@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 27
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Germaine Koh | til | MAR 8"
 ---
 

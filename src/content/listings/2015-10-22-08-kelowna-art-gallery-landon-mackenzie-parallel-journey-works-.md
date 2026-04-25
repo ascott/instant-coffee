@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 8
 type: "OPENING"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Landon Mackenzie: Parallel Journey: Works on Paper | OCT 23"
 ---
 

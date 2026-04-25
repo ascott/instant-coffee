@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 13
 type: "OPENING"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Genevieve Robertson | 7PM | FEB 6"
 ---
 

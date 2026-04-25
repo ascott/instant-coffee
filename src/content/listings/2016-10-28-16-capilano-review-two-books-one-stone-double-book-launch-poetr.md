@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interview with the vampire"
 emailDate: "Thu, 27 Oct 2016 18:40:17 -0700"
 number: 16
 type: "TALK"
+venue: "Capilano Review"
 summary: "Capilano Review | TWO BOOKS, ONE STONE Double Book Launch & Poetry.. | NOV 4"
 ---
 

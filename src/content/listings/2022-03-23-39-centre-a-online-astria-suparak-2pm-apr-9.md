@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 39
 type: "EVENT"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | ASTRIA SUPARAK | 2PM | APR 9"
 ---
 

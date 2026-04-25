@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 30
 type: "CALL"
+venue: "Apply now for BC Achievement’s art award programs"
 summary: "Apply now for BC Achievement’s art award programs | JUN 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 27
 type: ""
+venue: "CAG and Vancouver Design Week"
 summary: "CAG and Vancouver Design Week | James Langdon | SEP 16"
 ---
 
@@ -25,7 +26,7 @@ of Contemporary Art Leipzig, Germany. Langdon will offer a short course in
 reading objects, environments and messages. Stimulated by the curious genre
 of design fiction, the programme asserts storytelling as the primary
 function of design. Langdon will conduct a three day workshop oSeptember
-16â€“18 exploring narrative approaches to design, a series of connected
+16–18 exploring narrative approaches to design, a series of connected
 exercises subjecting a collection of found materials to various manual and
 conceptual processes. 
 

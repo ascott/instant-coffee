@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 11
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | League with Germaine Koh | APR 12"
 ---
 
@@ -27,11 +28,11 @@ fly.
 Germaine Koh is a Canadian visual artist based in Vancouver. Her 
 conceptually-generated work is concerned with the significance of everyday 
 actions, familiar objects and common places. Her exhibition history includes 
-the BALTIC Centre (Newcastle), De Appel (Amsterdam), MusÃ©e d'art 
-contemporain de MontrÃ©al, Para/Site Art Space (Hong Kong), Frankfurter 
+the BALTIC Centre (Newcastle), De Appel (Amsterdam), Musée d'art 
+contemporain de Montréal, Para/Site Art Space (Hong Kong), Frankfurter 
 Kunstverein, Bloomberg SPACE (London), The Power Plant (Toronto), Seoul 
 Museum of Art, Artspace (Sydney), The British Museum (London), the 
 Contemporary Art Gallery (Vancouver), Plug In ICA (Winnipeg), Art Gallery of 
-Ontario (Toronto), and the Liverpool, Sydney and MontrÃ©al biennials. Koh was 
+Ontario (Toronto), and the Liverpool, Sydney and Montréal biennials. Koh was 
 a recipient of the 2010 VIVA Award, and a finalist for the 2004 Sobey Art 
 Award.

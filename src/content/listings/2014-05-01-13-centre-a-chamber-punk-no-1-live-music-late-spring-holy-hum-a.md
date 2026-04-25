@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 13
 type: ""
+venue: "Centre A Chamber Punk no. 1"
 summary: "Centre A Chamber Punk no. 1 | live music: Late Spring, Holy Hum and Dear Suzy | MAY 9"
 ---
 

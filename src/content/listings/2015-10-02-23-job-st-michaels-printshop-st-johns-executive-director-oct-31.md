@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 23
 type: ""
+venue: "JOB"
 summary: "JOB | St. Michael's Printshop (St. John's) | Executive Director | OCT 31"
 ---
 

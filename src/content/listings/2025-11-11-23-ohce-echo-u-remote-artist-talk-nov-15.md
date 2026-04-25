@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 23
 type: "OPENING"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | u: remote artist talk | NOV 15"
 ---
 

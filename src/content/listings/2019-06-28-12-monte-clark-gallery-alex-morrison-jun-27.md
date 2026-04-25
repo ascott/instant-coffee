@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Alex Morrison | JUN 27"
 ---
 

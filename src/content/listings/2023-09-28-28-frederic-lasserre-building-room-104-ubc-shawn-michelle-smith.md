@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 28
 type: "TALK"
+venue: "Frederic Lasserre Building, Room 104, UBC"
 summary: "Frederic Lasserre Building, Room 104, UBC | Shawn Michelle Smith | 530PM | OCT 4"
 ---
 

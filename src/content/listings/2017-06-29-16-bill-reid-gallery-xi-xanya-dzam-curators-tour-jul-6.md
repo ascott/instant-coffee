@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 16
 type: "TALK"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | Xi xanya dzam Curators Tour | JUL 6"
 ---
 

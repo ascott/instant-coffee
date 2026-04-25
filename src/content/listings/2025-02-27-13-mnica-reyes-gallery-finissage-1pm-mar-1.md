@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 13
 type: "TALK"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | FINISSAGE | 1PM | MAR 1"
 ---
 

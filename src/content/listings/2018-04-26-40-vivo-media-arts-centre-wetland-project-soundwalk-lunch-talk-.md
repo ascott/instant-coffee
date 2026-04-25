@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 40
 type: "EVENT"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Wetland Project: Soundwalk, Lunch & Talk | 11AM | MAY 6"
 ---
 

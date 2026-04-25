@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 25
 type: "EVENT"
+venue: "Nikkei National Museum & Cultural Centre"
 summary: "Nikkei National Museum & Cultural Centre | Remembrance Day ceremony | NOV 11"
 ---
 

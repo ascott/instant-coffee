@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 20
 type: "OPENING"
+venue: "312 Main St. Vancouver"
 summary: "312 Main St. Vancouver | Gaza Remains the Story | 6PM | MAY 16"
 ---
 

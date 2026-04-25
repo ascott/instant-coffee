@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 9
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Grunt | Brunt Magazine - Issue 4 Launch | NOV 8"
 ---
 

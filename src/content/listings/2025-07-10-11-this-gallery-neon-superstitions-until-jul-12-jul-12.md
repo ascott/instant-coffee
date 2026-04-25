@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Neon Superstitions | Until Jul 12 | JUL 12"
 ---
 

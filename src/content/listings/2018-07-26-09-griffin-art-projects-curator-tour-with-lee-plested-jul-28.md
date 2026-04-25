@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 9
 type: "TALK"
+venue: "GRIFFIN ART PROJECTS"
 summary: "GRIFFIN ART PROJECTS | Curator Tour with Lee Plested | JUL 28"
 ---
 

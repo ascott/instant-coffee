@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Arc.hive Run Center (Victoria)"
 summary: "Arc.hive Run Center (Victoria) | Cabin Fever | AUG 8"
 ---
 

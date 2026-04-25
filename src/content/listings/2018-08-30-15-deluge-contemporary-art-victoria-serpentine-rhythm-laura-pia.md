@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 15
 type: "OPENING"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | VICTORIA | Serpentine Rhythm: Laura Piasta | SEP 7"
 ---
 

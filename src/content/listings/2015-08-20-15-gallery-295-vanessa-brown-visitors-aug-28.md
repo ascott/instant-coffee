@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 15
 type: "OPENING"
+venue: "Gallery 295"
 summary: "Gallery 295 | Vanessa Brown - Visitors | AUG 28"
 ---
 
@@ -43,6 +44,6 @@ photo collage.
 
 VANESSA BROWN is a Vancouver-based artist who works predominantly in
 sculpture and painting. She graduated with a BFA from Emily Carr University
-in 2013 and was the recipient of the Chancellorâ€™s Award. She has exhibited
+in 2013 and was the recipient of the Chancellor’s Award. She has exhibited
 in Canada and in Germany. Her recent exhibitions include Wil Aballe Art
 Projects, FIELD Contemporary, and Erin Stump Projects.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 25
 type: "OPENING"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | World Building: Cindy Mochizuki&Shizuka Kai | 630PM | NOV 6"
 ---
 

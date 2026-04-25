@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VAG | The Cinematheque | He Who Dreams | 2pm | DEC 9"
 ---
 

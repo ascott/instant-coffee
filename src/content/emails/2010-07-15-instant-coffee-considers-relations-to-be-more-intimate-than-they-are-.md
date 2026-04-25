@@ -68,23 +68,23 @@ Thursday, July 15, 2010 6 pm
 Access Gallery's NEW LOCATION: 437 W. Hastings St. Vancouver
 
 As part of the exhibition Field Work, Hannah Jickling and Vincent Trasov
-will present a tour of the monument, Paper MachÃ© Peanut, in the form of a
+will present a tour of the monument, Paper Maché Peanut, in the form of a
 combined artist talk.
 
-Hannah Jickling was born in British Columbia and grew up in Canadaâ€™s far
+Hannah Jickling was born in British Columbia and grew up in Canada’s far
 north. She received her BFA at the Nova Scotia College of Art and Design
 in Halifax (2003), and completed her MFA with a focus on social practices,
 at Portland State University in Oregon (2010). Recent work includes the
-invention of a new graduate program, MFA in Paper MachÃ©. For Field Work,
-she has applied her paper machÃ© research and practice in the creation of
-Paper MachÃ© Peanut. Her inspiration for this work draws from eclectic
+invention of a new graduate program, MFA in Paper Maché. For Field Work,
+she has applied her paper maché research and practice in the creation of
+Paper Maché Peanut. Her inspiration for this work draws from eclectic
 sources, including ongoing exchange and correspondence with artist Vincent
 Trasov.
 
 Vincent Trasov was born in Edmonton, Alberta in 1947 and currently lives
 and works between Berlin and Vancouver. Trasov assumed the identity of Mr.
 Peanut in 1970, in exploring persona and identity, anthropomorphism and
-contemporary mythology. During the late 60â€™s and early 70â€™s he
+contemporary mythology. During the late 60’s and early 70’s he
 collaborated with many Vancouver artists, playing a part in the development
 of early media and performance artwork in Canada. Much of Trasov's current
 research investigates the changing roles of monuments in the former East
@@ -118,7 +118,7 @@ Now Available
 Once More on Publicness
 
 Fillip is pleased to announce the immediate online availability of Once
-More on Publicness: A Postscript to Secret Publicity by Sven LÃ¼tticken â€”
+More on Publicness: A Postscript to Secret Publicity by Sven Lütticken —
 the first in a series of essays on art and publicness, which thematizes the
 majority of texts in Fillip 12. Developed in conjunction with the
 commission of a site-specific project by Dutch artist Mark Manders, Fillip
@@ -134,11 +134,11 @@ its publics. Links to these texts will be sent out every Monday through
 this e-mail list. To opt out of these messages, please let us know. Letters
 of response may be sent to letters@fillip.ca.
 
-Fillip 12 includes pieces by Sven LÃ¼tticken, Jeff Derksen, Julian Myers,
+Fillip 12 includes pieces by Sven Lütticken, Jeff Derksen, Julian Myers,
 Lorna Brown with Anne Pasternak, Sean Dockray, Kristina Lee Podesva, and
 others. It is available for pre-order at $15 postage paid international,
 and through Motto Distribution (Europe), Textfield Distribution (USA), and
-Disticor (Canada/USA). Subscriptions are available for $25 / â‚¬25 for one
+Disticor (Canada/USA). Subscriptions are available for $25 / €25 for one
 year (three issues) via the Fillip website. Subscribe before August 1st to
 be entered to win a small library from Motto Books worth over 300 dollars!
 
@@ -155,7 +155,7 @@ August 2: Julian Myers
 * www.fillip.ca
 
 If you no longer wish to receive these emails click HERE to unsubscribe.
-Image: Andrea Fraser, Kunst Muss HÃ¤ngen, Performance, Galerie Christian
+Image: Andrea Fraser, Kunst Muss Hängen, Performance, Galerie Christian
 Nagel, Cologne 2001. Photo: Simon Vogel. Courtesy of Galerie Christian
 Nagel, Cologne/Berlin/Antwerp.
 
@@ -213,10 +213,10 @@ For Immediate Release June 28, 2010
 
 Redefining Drawing
 Curated by Rachel Rosenfield Lafo
-July 15 â€“ August 15, 2010
+July 15 – August 15, 2010
 
 Opening: Thursday, July 15th 6-9pm
-Curatorâ€™s Talk: Saturday, July 17th 2-3pm
+Curator’s Talk: Saturday, July 17th 2-3pm
 Guest Artist Talk with Alan Storey: Saturday July 24th 2-3pm
 
 Redefining Drawing is an opportunity to think outside the box of the
@@ -235,7 +235,7 @@ their artwork.
 
 In recent years the medium of drawing has gained in visibility and
 popularity. There are many reasons for this refocus. For one, drawings are
-seductive, revealing evidence of the artistâ€™s hand and offering a direct
+seductive, revealing evidence of the artist’s hand and offering a direct
 link to the creative process. This immediacy of drawing, and the act of
 mark-making is, for some, a counter to the hectic pace of our lives, often
 dominated by technology and media overload. Also, from a practical
@@ -252,7 +252,7 @@ see the image, it takes shape at the edges of our memory.
 Just as Dingilian creates his own worlds inside glass bottles, Carol Prusa
 (Florida) envisions cosmologies of the universe, creating â€œdomes of heavenâ€ 
 that are a visual embodiment of her scientific interests. She describes the
-process of her delicate, three dimensional drawings: â€œUsing fabricated
+process of her delicate, three dimensional drawings: “Using fabricated
 acrylic hemispheres that I sandblast and gesso to prepare a curved,
 geometric ground, silverpoint (a thin silver wire) is used to deposit
 silver in hatching marks on the gesso layer to create the under-drawing.
@@ -272,7 +272,7 @@ compositions that feature insects, humans, and other references to the
 natural world.
 
 Jane Masters utilizes a variety of techniques to achieve detailed,
-patterned compositions. Working with a craftersâ€™ wood-burning tool, she
+patterned compositions. Working with a crafters’ wood-burning tool, she
 burns holes into paper forming decorative patterns and humorous words and
 phrases like â€œPlace Ad Hereâ€  that wryly comment on the tradition of folk
 art needlework samplers and advertising signs. She also creates etched
@@ -282,15 +282,15 @@ intricate patterning and attention to detail.
 Kumiko Fujinami (Canada/Japan) draws with white gel pens on a black
 background to create a fine network of loose and densely interwoven lines
 that recall constellations in the night sky. There is both and obsessive
-sense combined with fluidity in Fujinamiâ€™s working method, as if the lines
+sense combined with fluidity in Fujinami’s working method, as if the lines
 in her drawings ebb and flow like living beings as she works on them.
 
-Vancouver artist Alan Storeyâ€™s inclusion in this exhibition represents a
+Vancouver artist Alan Storey’s inclusion in this exhibition represents a
 different way of redefining drawing. Since the 1980s, Storey has invented
 drawing machines, devices that work within parameters established by the
 artist that nevertheless result in drawings that are determined by an
 element of chance. Unlike the work of the other artists in this exhibition,
-Storeyâ€™s drawings are not hand-made. Instead, the artist creates the
+Storey’s drawings are not hand-made. Instead, the artist creates the
 machine by hand and the machine then creates the drawings. For this
 exhibition Storey reconfigures one of his signature drawing machines, in
 which a small battery-operated vehicle drags felt tip pens across stretched
@@ -301,10 +301,10 @@ drawing develop over the duration of the show.
 All images for the exhibition are listed under ReDefining Drawing at:
 http://www.kostuikgallery.com
 
-Monday to Wednesday 10am â€“ 6pm
-Thursday 10am â€“ 8pm
-Friday to Saturday 10am â€“ 6pm
-Sunday 1 pm â€“ 5pm
+Monday to Wednesday 10am – 6pm
+Thursday 10am – 8pm
+Friday to Saturday 10am – 6pm
+Sunday 1 pm – 5pm
 
 Please ask Jennifer Kostuik or Rachel Rosenfield Lafo for further
 information on any artist.
@@ -431,7 +431,7 @@ The Lido Gallery
 Unrealized Art Projects is an exploration and examination of the motives
 behind the collecting and purchasing of a wide variety of objects over a
 four year period. Each item was selected for the direct purpose or
-facilitation of Helen Teagerâ€™s art practice during this time. Chosen for
+facilitation of Helen Teager’s art practice during this time. Chosen for
 either aesthetic or functional properties, these objects remain unrealized
 of their intended purpose. As a result, everyone in attendance will have an
 opportunity to purchase each object, hopefully realizing a new potential.
@@ -472,7 +472,7 @@ My talk will reflect on what can be learned, for poetry, from how some
 Lacanians theorize the subject within consumer culture. The consumer
 culture of late, global capitalism has been theorized as a society of
 commanded enjoyment (McGowan) in which the time of the Other doesn't
-exist (GuÃƒÂ©guen) and the virtual subject presents itself as an object in
+exist (GuÃ©guen) and the virtual subject presents itself as an object in
 commodity form (i.e., as a product lifestyle) (Frankenberger). Is, then,
 the version of revolutionary modernism Mayakovsky and Brik formulated under
 the rubric of a social command for poetry part of a long-passed society
@@ -616,7 +616,7 @@ Motto Storefront is organized by Artspeak and Fillip, with Motto, Berlin.
 Motto Storefront transforms Artspeak into a temporary space for the sale,
 presentation, and discussion of contemporary art publishing. The selection
 of printed matter for the store has been made by Motto, a Berlin and
-ZÃƒÂ¼rich-based bookstore and distributor specializing in experimental, small
+ZÃ¼rich-based bookstore and distributor specializing in experimental, small
 run, and self-published artist books, magazines, and fanzines.
 
 Talks and Workshops
@@ -653,7 +653,7 @@ www.mottodistribution.com
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free
 
 
@@ -762,7 +762,7 @@ __________________
 
 Amy Lynn Kazymerchyk
 Associate Programmer: DIM
-Pacific CinÃƒÂ©mathÃƒÂ¨que
+Pacific CinÃ©mathÃ¨que
 cinematheque.bc.ca
 dimcinema.ca
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 6
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | No Strings Attached | OCT 3"
 ---
 

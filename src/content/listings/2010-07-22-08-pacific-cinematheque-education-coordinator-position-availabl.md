@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 8
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | EDUCATION COORDINATOR POSITION AVAILABLE | JUL 30"
 ---
 
@@ -63,7 +64,7 @@ required to submit a Criminal Record Check.
 This is a permanent, full-time position with a starting salary between
 $28,000 to 30,000 per annum, including a shared-cost group benefit plan and
 3-weeks annual vacation time. Also possible is a pro-rated, revolving
-10-month SeptemberÃ¢ï¿½ï¿½June contract, pending negotiations.
+10-month Septemberâ��June contract, pending negotiations.
 
 Please send a cover letter and resumÃ�Â©, preferably emailed in PDF format, to:
 

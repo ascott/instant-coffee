@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Digital Carnival Z [ONLINE]"
 summary: "Digital Carnival Z [ONLINE] | Virtual Festival Launch | APR 21"
 ---
 

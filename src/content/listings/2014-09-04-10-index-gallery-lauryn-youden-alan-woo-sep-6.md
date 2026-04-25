@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 10
 type: ""
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | Lauryn Youden & Alan Woo | SEP 6"
 ---
 

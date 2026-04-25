@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 1
 type: ""
-summary: "Western Front Exhibitions | Scrivenerâ€™s Monthly; Michael Taussig | MAR 28"
+venue: "Western Front Exhibitions"
+summary: "Western Front Exhibitions | Scrivener’s Monthly; Michael Taussig | MAR 28"
 ---
 
-Scrivenerâ€™s Monthly is pleased to present Michael Taussig Talking
+Scrivener’s Monthly is pleased to present Michael Taussig Talking
 About Peasant Tree Farms as A Mode of Thought and Beauty in The Age of
 Agri-Terrorism on Thursday March 28th at 8pm at the Western Front.
 
 Mick Taussig is the author of several books on mimesis, agriculture,
-shamanism, and color. He was once a shipâ€™s doctor and now teaches
+shamanism, and color. He was once a ship’s doctor and now teaches
 anthropology at Columbia University in New York.
 
 Please come early, attendance is limited.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore
+Scrivener’s Monthly is a series of public presentations that explore
 the space between material practices and spoken words: a periodical
 that talks. Set alongside the exhibitions program at Western Front,
 this experiment in â€œnot publishingâ€  involves readings, performances,

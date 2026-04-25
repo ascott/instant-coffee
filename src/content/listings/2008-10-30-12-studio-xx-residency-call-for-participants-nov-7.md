@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not afraid to use the wooden sp
 emailDate: "Thu, 30 Oct 2008 08:35:15 -0700"
 number: 12
 type: ""
+venue: "Studio XX Residency"
 summary: "Studio XX Residency | CALL FOR PARTICIPANTS | NOV 7"
 ---
 
 CALL FOR PARTICIPANTS | Fearless City Mobile Presents | Studio XX Residency
-with BÃ©rengÃ¨re Marin Dubuard (Beewoo)
+with Bérengère Marin Dubuard (Beewoo)
 November 18- November 28 2008
 http://www.studioxx.org
 For ten days- November 18-28 2008- Montreal New Media Artist and Studio XX
-Production Director BÃ©rengÃ¨re Marin Dubuard (Beewoo) with collaborate with
+Production Director Bérengère Marin Dubuard (Beewoo) with collaborate with
 four women from Fearless City Mobile in the Downtown Eastside. This
 intensive residency will explore feminist interventions in Open Source
 technology, the differing class realities of Vancouver neighbourhoods, and
@@ -24,19 +25,19 @@ a high profile live streaming performance at the Vancouver Art Gallery's
 WACK! Fuse event on November 28th 6pm-1am.
 ____
 
-BÃ©rengÃ¨re Marin Dubuard (aka beewoo):: Artist
+Bérengère Marin Dubuard (aka beewoo):: Artist
 Beewoo has worked in photography, video and installation while living in
 Japan, traveling in Asia and living in Melbourne, Australia between 1991 1999.
 She then travelled throughout Europe and North America showing her
 real-time video performances with the group Battery Operated. She has been
 involved in making multimedia artwork of various forms as part of
 collectives such as KIT and Battery Operated and has performed with
-MontrÃ©al's sound artists Alexis Bellavance, les Platinistes NumÃ©rique and
+Montréal's sound artists Alexis Bellavance, les Platinistes Numérique and
 virgilage&jmx. Her work has been presented at electronic festivals such as
 INVIDEO, Italy; Split 2001, Croatia; FCMM, Canada and in places like The
 Anchorage, New York City and Stubnitz Rostock, Germany. OFFF, Spain; FCMM,
 Elektra and Mois Multi in Canada. She is a founding member of the
-multimedia label C0C0S0L1DC1T1. Based in MontrÃ©al since 2001, she has done
+multimedia label C0C0S0L1DC1T1. Based in Montréal since 2001, she has done
 research involving real-time video processing and interactivity in the
 Interstices research group. She was a member of the Mix_Session Committee
 at SAT (Society for Arts and Technology) where she often performed as a VJ.

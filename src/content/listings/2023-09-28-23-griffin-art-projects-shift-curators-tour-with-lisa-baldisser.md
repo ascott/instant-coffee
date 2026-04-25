@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 23
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | SHIFT Curator’s Tour with Lisa Baldissera | 1PM | OCT 1"
 ---
 

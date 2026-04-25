@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 14
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Connecting the Dots | 5PM | OCT 30"
 ---
 

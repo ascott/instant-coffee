@@ -4,25 +4,26 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 21
 type: ""
+venue: "CARFAC National"
 summary: "CARFAC National | CARFAC National, Vancouver | MAY 31"
 ---
 
 CARFAC National presents:
 Artists for Artistsc
 Mentorship, teaching strategies and other tools for visual artists
-May 31st â€“ June 2nd, 2013, Vancouver
+May 31st – June 2nd, 2013, Vancouver
 
 www.carfac.ca
 
 This spring visual artists from across Canada will meet in Vancouver 
-for CARFAC Nationalâ€™s annual conference, Artists for Artists. Panels 
+for CARFAC National’s annual conference, Artists for Artists. Panels 
 will cover, tools for marketing yourself to schools, reclaiming traditional 
 knowledge for indigenous communities, how artists can benefit from 
 the knowledge of their peers through mentorship programs, and how 
-the Artistâ€™s Resale Right would allow artists to share in the profits made 
+the Artist’s Resale Right would allow artists to share in the profits made 
 from their work if it comes to Canada. Mix and mingle with other artists 
-at receptions celebrating CARFACâ€™s 45th Anniversary and the winner 
-of this yearâ€™s Visual Arts Advocacy Award.
+at receptions celebrating CARFAC’s 45th Anniversary and the winner 
+of this year’s Visual Arts Advocacy Award.
 
 Call for Nominations: CARFAC National Visual Arts Advocate Award
 

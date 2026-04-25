@@ -4,14 +4,15 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 3
 type: ""
-summary: "grunt gallery | Christoph RunnÃ© | JAN 12"
+venue: "grunt gallery"
+summary: "grunt gallery | Christoph Runné | JAN 12"
 ---
 
 grunt
 
 The Symbolic Meaning of Tree
 
-Christoph RunnÃ©
+Christoph Runné
 
 Opening: Thu, 12 January 2012, 7-11pm
 
@@ -21,8 +22,8 @@ grunt gallery, 350 E 2nd Avenue, Unit 116
 
 Gallery Hours: Tuesday - Saturday, 12 - 5pm
 
-Grunt gallery is pleased to present Christoph RunnÃ©'s 16mm film
-installation entitled "Baum". Through this work, RunnÃ© explores the
+Grunt gallery is pleased to present Christoph Runné's 16mm film
+installation entitled "Baum". Through this work, Runné explores the
 visual symbolism of the tree. While the human condition often seems
 caught in cycles of hopelessness, homelessness, poverty, and
 "uprooted-ness", caused by socio-economic strife, wars, and
@@ -44,11 +45,11 @@ trees caused by the single-frame footage shot of a motion picture
 camera-a staccato movement suggestive of Morse-code
 communication or the arrhythmic pressing of typewriter keys.
 
-Christoph RunnÃ© is a Vancouver-based experimental film, video, and
+Christoph Runné is a Vancouver-based experimental film, video, and
 installation artist. His work explores the unhidden yet seemingly
 invisible world around us. He creates visual tone poems with a
 humanitarian heartbeat whose minimalist and impressionistic
 methodology contradicts the complex human conditions with which
-RunnÃ© engages.
+Runné engages.
 
 contact: demian@grunt.ca

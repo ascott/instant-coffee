@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please be advised requests for ill
 emailDate: "Thu, 08 Aug 2013 16:25:10 -0700"
 number: 2
 type: ""
+venue: "Access Gallery: Video Store"
 summary: "Access Gallery: Video Store | screenings hosted by Brady Cranfield | AUG 8"
 ---
 

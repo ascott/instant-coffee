@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 7
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | ZOOVEILLANCE | 1PM | FEB 17"
 ---
 

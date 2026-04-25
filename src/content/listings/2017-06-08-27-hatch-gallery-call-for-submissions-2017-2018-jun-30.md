@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 27
 type: "CALL"
+venue: "Hatch Gallery"
 summary: "Hatch Gallery | Call for Submissions 2017-2018 | JUN 30"
 ---
 

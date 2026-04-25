@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 15
 type: ""
+venue: "16th Japan Media Arts Festival"
 summary: "16th Japan Media Arts Festival | Call for Entries | SEP 20"
 ---
 

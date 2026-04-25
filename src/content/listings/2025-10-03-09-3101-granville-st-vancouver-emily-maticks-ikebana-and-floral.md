@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 9
 type: "OPENING"
+venue: "3101 Granville St, Vancouver"
 summary: "3101 Granville St, Vancouver | Emily Matick's Ikebana and Floral Installation | OCT 2"
 ---
 

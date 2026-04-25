@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 20
 type: ""
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Tour of Coast Salish Textiles: Up Close | MAR 15"
 ---
 

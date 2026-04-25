@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 17
 type: ""
+venue: "The Miss Guides"
 summary: "The Miss Guides | Walking the Ruins: Fragments of Vancouver | til | AUG 1"
 ---
 
@@ -29,7 +30,7 @@ corner of Granville and Hastings Streets, beside the Sinclair
 Centre, rain or shine (bring an umbrella!)
 
 Walking the Ruins runs July 9-August 1: Thursdays + Fridays at 7pm;
-Saturdays at 2pm. Tickets $20 (includes entry to Harbour CenterÂ’s The
+Saturdays at 2pm. Tickets $20 (includes entry to Harbour Centers The
 Lookout, valued at $13) available through: themissguides.com or
 ticketstonight.ca or 604.684.2787
 

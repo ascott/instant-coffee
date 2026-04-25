@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 26
 type: "EVENT"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Artist Exhibition Tour | 2PM | MAR 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 22
 type: "EDUCATION"
+venue: "ECU"
 summary: "ECU | Ensemble Workshop Series | 4PM | FEB 6"
 ---
 

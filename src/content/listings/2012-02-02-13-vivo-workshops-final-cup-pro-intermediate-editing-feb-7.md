@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 13
 type: ""
+venue: "VIVO Workshops"
 summary: "VIVO Workshops | FINAL CUP PRO INTERMEDIATE: EDITING | FEB 7"
 ---
 

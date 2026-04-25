@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 19
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Hyung-Min Yoon | SEP 19"
 ---
 

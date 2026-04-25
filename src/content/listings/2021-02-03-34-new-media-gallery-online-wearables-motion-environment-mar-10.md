@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 34
 type: "EDUCATION"
+venue: "New Media Gallery [ONLINE]"
 summary: "New Media Gallery [ONLINE] | Wearables: Motion + Environment | MAR 10"
 ---
 

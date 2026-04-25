@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 8
 type: ""
+venue: "Concourse Gallery"
 summary: "Concourse Gallery | ECU | Ensuing Pictures: The Peer-to-Peer Exhibition | OCT 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 30
 type: ""
+venue: "MKG 127"
 summary: "MKG 127 | Toronto | INSTANT COFFEE: say nothing in bright colours | OCT 18"
 ---
 

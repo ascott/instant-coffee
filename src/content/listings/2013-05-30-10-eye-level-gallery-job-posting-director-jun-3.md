@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE : if we do not know we do not know 
 emailDate: "Thu, 30 May 2013 11:55:34 -0700"
 number: 10
 type: ""
+venue: "Eye Level Gallery"
 summary: "Eye Level Gallery | Job Posting – Director | JUN 3"
 ---
 

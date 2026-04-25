@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 7
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Archives Access: Jayce Salloum | 730PM | NOV 21"
 ---
 

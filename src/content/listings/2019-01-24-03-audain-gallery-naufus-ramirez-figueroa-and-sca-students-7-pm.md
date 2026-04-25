@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 3
 type: "PERFORMANCE"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Naufus Ramirez-Figueroa and SCA Students | 7 pm | JAN 24"
 ---
 

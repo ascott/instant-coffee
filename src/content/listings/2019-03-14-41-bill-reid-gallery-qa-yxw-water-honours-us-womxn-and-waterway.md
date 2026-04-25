@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 41
 type: "EXHIBITION"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | qaʔ yəxw - water honours us: Womxn and Waterways | APR 10"
 ---
 

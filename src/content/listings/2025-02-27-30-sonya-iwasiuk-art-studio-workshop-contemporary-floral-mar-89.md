@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 30
 type: "EDUCATION"
+venue: "Sonya Iwasiuk Art Studio"
 summary: "Sonya Iwasiuk Art Studio | [WORKSHOP] Contemporary Floral / MAR 8&9 | MAR 8"
 ---
 

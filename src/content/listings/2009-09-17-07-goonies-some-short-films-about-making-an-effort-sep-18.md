@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 7
 type: ""
+venue: "Goonies"
 summary: "Goonies | Some short films about making an effort | SEP 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 29
 type: "OPENING"
+venue: "Burnaby Arts Gallery"
 summary: "Burnaby Arts Gallery | Jeff Ladouceur: Pearl Path | 7-9PM | JUN 14"
 ---
 

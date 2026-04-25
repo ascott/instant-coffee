@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 21
 type: ""
+venue: "INSTANT COFFEE"
 summary: "INSTANT COFFEE | LIGHT BAR | opening & event schedule | FEB 12"
 ---
 
@@ -89,7 +90,7 @@ Saturday, March 13: Van Bands: KICK EVRYTHING and CALL THE CITY play loud, 10pm
 Wednesday, March 17: Slickerslacker is Fiona Bowie and Jim Peers (guitar,
 vox, knobs and tubes, buttons, various utensils and sliders), 10pm
 
-Thursday, March 18: Danish Artist Ditte LyngkÃ¦r Pedersen will host a
+Thursday, March 18: Danish Artist Ditte Lyngkær Pedersen will host a
 screening event based on her video works and give a short presentation on
 the artists-run exhibition space rum46 in Ã�rhus, Denmark, 8pm
 

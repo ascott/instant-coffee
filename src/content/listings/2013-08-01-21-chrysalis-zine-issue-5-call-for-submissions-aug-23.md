@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 21
 type: ""
+venue: "Chrysalis Zine Issue 5"
 summary: "Chrysalis Zine Issue 5 | Call for Submissions | AUG 23"
 ---
 

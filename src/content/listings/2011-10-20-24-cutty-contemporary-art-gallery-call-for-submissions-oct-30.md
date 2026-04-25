@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 24
 type: ""
+venue: "Cutty Contemporary Art Gallery"
 summary: "Cutty Contemporary Art Gallery | CALL FOR SUBMISSIONS | OCT 30"
 ---
 
@@ -14,20 +15,20 @@ document of the discussion. Artwork is never self-contained once it has been
 exhibited; it is open for interpretation, inspection, reaction and reprocessing. Our 
 goal with art has always been the inciting of conversation and discussion. 
 
-Weâ€™re looking for writers to collaborate with us on the catalogue for our most 
-recent exhibition at the gallery, Randy Grskovicâ€™s Reoccurring Themes. We are 
+We’re looking for writers to collaborate with us on the catalogue for our most 
+recent exhibition at the gallery, Randy Grskovic’s Reoccurring Themes. We are 
 going to be printing a newsprint periodical with documentation from the exhibition 
-and are accepting writing to accompany the images. What weâ€™re searching for 
-is a response to the artwork itself. Each piece has itâ€™s own story/context. It 
+and are accepting writing to accompany the images. What we’re searching for 
+is a response to the artwork itself. Each piece has it’s own story/context. It 
 could be in the way of a review of the physical piece, an idea sparked by the 
-work. A previously written work that relates to a certain themeâ€¦ a poemâ€¦ a 
-drawing â€¦ a post it noteâ€¦ whateverâ€¦It could be positive; it could be negative. It 
+work. A previously written work that relates to a certain theme… a poem… a 
+drawing … a post it note… whatever…It could be positive; it could be negative. It 
 could be real; it could be fiction. It could be short; it can be long.
 
 Our main goal is to collaborate with writers on this project. If you would like to 
 have a conversation with us please let us know and we can start the process.
 
-The work can be viewed on weekends from 12pm â€“ 6pm or by appointment. 
+The work can be viewed on weekends from 12pm – 6pm or by appointment. 
 Please feel free to email us and make an appointment:
 
 cuttycag@gmail.com

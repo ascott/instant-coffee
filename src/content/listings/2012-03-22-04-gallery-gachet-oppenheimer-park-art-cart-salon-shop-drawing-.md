@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 4
 type: ""
+venue: "Gallery Gachet & Oppenheimer Park"
 summary: "Gallery Gachet & Oppenheimer Park | Art Cart + Salon Shop: drawing room | MAR 23"
 ---
 
 Art Cart + Salon Shop: drawing room
 New Works from Gallery Gachet & Oppenheimer Park
 Curated by Ali Lohan and Ayaz Kamani
-March 23rd â€“ April 20th, 2012
+March 23rd – April 20th, 2012
 The Art Cart Red Ribbon Launch: Friday March 23rd 10:30am, at 
 Oppenheimer Park. Media welcome at 11am. Refreshments served. 
-The Art Cartâ€™s inaugural exhibition, drawing room will be displayed 
+The Art Cart’s inaugural exhibition, drawing room will be displayed 
 before Art Cart heads off on its maiden voyage around the city.
 At 7pm, celebrate with the Art Cart + Salon Shop artists at Gallery 
 Gachet for drawing room's opening reception
@@ -29,7 +30,7 @@ posterity. Drawing is simply marks made on something. It is a medium
 that has survived due to its versatility.
 
 For the following month, Gallery Gachet will pay homage to the 
-resilience of mark making with the Drawuary: Donâ€™t Not Draw Show, by 
+resilience of mark making with the Drawuary: Don’t Not Draw Show, by 
 Franklin St. Studios, who lost their studio space at Red Gate to rising 
 rents and creeping gentrification. We will also celebrate the launch of 
 the Art Cart + Salon Shop, as artists from Oppenheimer Park and 

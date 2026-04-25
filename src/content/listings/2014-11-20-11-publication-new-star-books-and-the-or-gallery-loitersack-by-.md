@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 11
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | New Star Books and the Or Gallery | Loitersack by Donato Mancini : booklaunch | NOV 22"
 ---
 
 Loitersack by Donato Mancini : booklaunch
 
 Saturday November 22
-20:30â€“22:30
+20:30–22:30
 Or Gallery
 555 Hamilton St.
 

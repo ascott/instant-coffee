@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 29
 type: "CALL"
+venue: "Bonnie McComb Kreye Studio Residency"
 summary: "Bonnie McComb Kreye Studio Residency | (VICTORIA) | Call for applications | NOV 1"
 ---
 

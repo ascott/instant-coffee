@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 36
 type: "EDUCATION"
+venue: "155 W 7th Ave"
 summary: "155 W 7th Ave | WORKSHOP 1: CHARLOTTE FALK | MAKING SPACE | 1-4PM | MAY 5"
 ---
 

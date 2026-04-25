@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 6
 type: "TALK"
+venue: "HATCH Art Gallery UBC"
 summary: "HATCH Art Gallery UBC | (con)text Alexandra Bischoff | 5-7pm | JAN 18"
 ---
 

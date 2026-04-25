@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 14
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | 10,000 Ships | 1-3PM | FEB 23"
 ---
 

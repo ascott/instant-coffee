@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 12
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | At Home and Elsewhere | NOV 14"
 ---
 

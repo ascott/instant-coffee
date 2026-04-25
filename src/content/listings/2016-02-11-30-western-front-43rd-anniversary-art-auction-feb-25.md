@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 30
 type: "FUNDRAISER"
+venue: "Western Front"
 summary: "Western Front | 43rd Anniversary Art Auction | FEB 25"
 ---
 

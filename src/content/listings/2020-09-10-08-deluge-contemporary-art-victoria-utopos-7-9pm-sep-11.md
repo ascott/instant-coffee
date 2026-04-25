@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 8
 type: "OPENING"
+venue: "Deluge Contemporary Art [Victoria]"
 summary: "Deluge Contemporary Art [Victoria] | UTOPOS | 7-9PM | SEP 11"
 ---
 

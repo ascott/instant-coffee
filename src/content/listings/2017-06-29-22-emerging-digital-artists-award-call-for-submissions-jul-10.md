@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 22
 type: "CALL"
+venue: "Emerging Digital Artists Award"
 summary: "Emerging Digital Artists Award | CALL FOR SUBMISSIONS | JUL 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 29
 type: "PERFORMANCE"
+venue: "The Shooting Gallery"
 summary: "The Shooting Gallery | Performance Series #12 | MAR 4"
 ---
 

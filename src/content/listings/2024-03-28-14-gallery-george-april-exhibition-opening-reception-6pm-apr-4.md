@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 14
 type: "OPENING"
+venue: "Gallery George"
 summary: "Gallery George | APRIL EXHIBITION OPENING RECEPTION | 6PM | APR 4"
 ---
 

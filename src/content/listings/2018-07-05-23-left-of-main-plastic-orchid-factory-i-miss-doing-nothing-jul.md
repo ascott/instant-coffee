@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 23
 type: "PERFORMANCE"
+venue: "Left of Main - Plastic Orchid Factory"
 summary: "Left of Main - Plastic Orchid Factory | I MISS DOING NOTHING, July 11-14 | JUL 11"
 ---
 

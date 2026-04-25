@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 5
 type: "EVENT"
+venue: "PuSh"
 summary: "PuSh | Portraits in Motion | Volker Gerling/Aurora Nova | JAN 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 7
 type: "EVENT"
+venue: "Duplex"
 summary: "Duplex | Back-alley Bargains and Dancing Waters | Liam Johnstone | 7 PM | FEB 1"
 ---
 

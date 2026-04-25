@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee Boils: 95% hotter"
 emailDate: "Thu, 10 Jul 2008 09:30:06 -0700"
 number: 4
 type: ""
+venue: "Post Contemporary Art"
 summary: "Post Contemporary Art | group exhibition  | JUL 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 10
 type: "OPENING"
+venue: "Elissa Cristall Projects"
 summary: "Elissa Cristall Projects | LEAH RAINEY \"RAKING LIGHT\" | NOV 29"
 ---
 

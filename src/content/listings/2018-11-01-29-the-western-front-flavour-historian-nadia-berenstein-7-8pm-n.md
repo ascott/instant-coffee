@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 29
 type: "TALK"
+venue: "The Western Front"
 summary: "The Western Front | Flavour Historian Nadia Berenstein | 7-8PM | NOV 7"
 ---
 

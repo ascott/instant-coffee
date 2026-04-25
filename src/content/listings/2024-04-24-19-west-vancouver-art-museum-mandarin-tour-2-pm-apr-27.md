@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 19
 type: "EDUCATION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | MANDARIN TOUR | 2 PM | APR 27"
 ---
 

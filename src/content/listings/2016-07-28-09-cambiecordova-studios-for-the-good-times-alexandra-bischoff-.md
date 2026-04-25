@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 9
 type: "EVENT"
+venue: "Cambie/Cordova Studios"
 summary: "Cambie/Cordova Studios | For the good times: Alexandra Bischoff | JUL 31"
 ---
 

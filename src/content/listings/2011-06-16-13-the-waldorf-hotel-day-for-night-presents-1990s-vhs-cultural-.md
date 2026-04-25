@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 13
 type: ""
+venue: "The Waldorf Hotel"
 summary: "The Waldorf Hotel | Day for Night presents 1990s VHS Cultural Studies | JUN 19"
 ---
 
@@ -15,14 +16,14 @@ Day for Night presents 1990s VHS Cultural Studies
 
 Day for Night visited its personal media archive (stored in a
 Vancouver Island basement) and brought back selections from the golden
-age of VCR timer-recorded programming. Jean ChrÃ©tien was Prime
+age of VCR timer-recorded programming. Jean Chrétien was Prime
 Minister. Bill Clinton was President. I had a landline, and a curfew.
 
 Among the highlights:
 
 Italian-American Feminist Public Intellectual Camille Paglia
 interviewed on Bravo's "Life on Venus Avenue" hosted by CHUM's Ziggy
-Lorenc (theme music by Moxy FrÃ¼vous).
+Lorenc (theme music by Moxy Früvous).
 
 UTV news coverage of a near-riot at [the former] A&B sound on Seymour Street.
 

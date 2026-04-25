@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 44
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Kay Meek Arts Centre | Arthur Erickson’s Dyde House | 7PM | JUL 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 20
 type: "CALL"
+venue: "Dek Unu Magazine"
 summary: "Dek Unu Magazine | Open Call | DEC 20"
 ---
 

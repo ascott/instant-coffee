@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 2
 type: ""
+venue: "ART WASTE"
 summary: "ART WASTE | artwaste.tumblr.com | JUN 5"
 ---
 
-ART WASTE // JUNE 5 â€“ 8, 2014
+ART WASTE // JUNE 5 – 8, 2014
 artwaste.tumblr.com
 
 Presented in co-ordination with local music festival Music Waste, Art Waste is 
@@ -23,10 +24,10 @@ Art Waste Group Show
 7PM - 11PM
 Gallery Gachet - 88 E Cordova
 
-This year's theme of group show submissions is â€˜Public/Private' to address 
+This year's theme of group show submissions is ‘Public/Private' to address 
 this dichotomy in artistic practice and in the public realm, and to act as 
 catalyst for artists to share their private world with the public world. 
-Featuring the works of: Forked Animal, Noe Bagshaw, VÃ­ctor Ballesteros, 
+Featuring the works of: Forked Animal, Noe Bagshaw, Víctor Ballesteros, 
 Kate Brown, Eva Bryant, Kyle Buds, Angela Campbell, Cheryl Carpenter, Paul 
 Antony Carr, Romulo Cesar, Annie Chiavaroli, Gillian Cole, Tanya Crail, 
 Sylvana dAngelo, Sarah Davidson, Drek, Rommy Ghaly, Georgia Graham, Kati 

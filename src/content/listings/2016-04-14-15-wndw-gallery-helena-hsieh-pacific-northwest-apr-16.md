@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 15
 type: "OPENING"
+venue: "WNDW Gallery"
 summary: "WNDW Gallery | Helena Hsieh: Pacific Northwest | APR 16"
 ---
 

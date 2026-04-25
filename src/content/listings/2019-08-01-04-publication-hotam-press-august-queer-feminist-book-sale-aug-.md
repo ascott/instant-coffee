@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 4
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Hotam Press | August Queer + Feminist Book Sale | AUG 1"
 ---
 

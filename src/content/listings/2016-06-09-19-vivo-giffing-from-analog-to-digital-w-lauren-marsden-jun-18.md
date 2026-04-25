@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 19
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | GIFFING: From Analog to Digital w/ Lauren Marsden | JUN 18"
 ---
 

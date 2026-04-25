@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 9
 type: ""
+venue: "The Reel Pan-AfriCAN SoundsCAPE"
 summary: "The Reel Pan-AfriCAN SoundsCAPE | Culture & Film Festival | OCT 26"
 ---
 

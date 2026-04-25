@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 5
 type: "TALK"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Denise Hawrysio | AUG 7"
 ---
 

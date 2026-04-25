@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 41
 type: "PERFORMANCE"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | LIVE Biennale - Zeus Bascon and Jordan Baylo | 7PM | OCT 12"
 ---
 

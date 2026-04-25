@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 19
 type: "CALL"
+venue: "Obsidian Artist Residency on Mayne Island"
 summary: "Obsidian Artist Residency on Mayne Island | JUN 30"
 ---
 

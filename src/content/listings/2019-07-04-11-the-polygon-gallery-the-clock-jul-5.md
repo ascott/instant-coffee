@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | The Clock | JUL 5"
 ---
 

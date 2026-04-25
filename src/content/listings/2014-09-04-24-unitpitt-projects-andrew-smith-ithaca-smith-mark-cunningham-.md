@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 24
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Andrew Smith, Ithaca Smith, Mark Cunningham | SEP 12"
 ---
 
 Andrew Smith, Ithaca Smith, Mark Cunningham: The Monochrome Shop
 
 Open for business from September 13 to Saturday October 11. Opening
-reception, Friday September 12, 8pm â€” part of #SWARM15.
+reception, Friday September 12, 8pm — part of #SWARM15.
 
 The monochrome shop is here to sell
 
@@ -19,10 +20,10 @@ Cunningham.
 
 The monochrome shop is here to sell. While we take the commodification of
 art as a given, and as a starting point, this is not a position that we
-inhabit with ease or comfort. We occupy it because we simply canâ€™t afford
+inhabit with ease or comfort. We occupy it because we simply can’t afford
 not to. Like the commodity, the monochrome is at first glance something
 trivial and obvious, while on the contrary it is a thing so complex, and so
-full of metaphysical subtleties that it canâ€™t help but contaminate and
+full of metaphysical subtleties that it can’t help but contaminate and
 change the way we relate to people and things. So stupid, yet so mentally
 and emotionally exposed. So brash, yet so insecure.
 
@@ -31,11 +32,11 @@ abstraction today. We experience the economy as a monochromatic field that
 includes every- and no-thing, every- and no-where, every extreme of
 existence, as well as the thinning middle, and in which everything that
 circulates between us is coloured by money. Monochromatic abstraction, like
-most â€˜eventsâ€™ of the modernist avant garde that have been accorded any
+most ‘events’ of the modernist avant garde that have been accorded any
 historical significance, mostly appears today as little more than an
 over-repeated trope squeezed out of MFA programs everywhere, a trope that
 leans heavily toward the whims of the art market. In which case, why
-shouldnâ€™t we just do the same thing? Those debts donâ€™t pay off themselves.
+shouldn’t we just do the same thing? Those debts don’t pay off themselves.
 Which is to say, monochromes sell, or at least this is our speculation.
 
 The commodification of our monochromes does not preclude other, surplus
@@ -46,16 +47,16 @@ and a place to disappear.
 
 How much would you pay for a place to disappear?
 
-Friday September 12, 8pm â€“ Opening Reception
-Wednesday September 17, 7pm â€“ Artist talk by Ithaca Smith
-Saturday October 4, 2pm â€“ Book launch and talk by Mark Cunningham
+Friday September 12, 8pm – Opening Reception
+Wednesday September 17, 7pm – Artist talk by Ithaca Smith
+Saturday October 4, 2pm – Book launch and talk by Mark Cunningham
 
 Alongside these scheduled events, each artist will be keeping shop in the
 gallery at the following times throughout the exhibition:
-Andrew Smith and Mark Cunningham â€“ Saturday September 13, 12-5pm; Saturday
+Andrew Smith and Mark Cunningham – Saturday September 13, 12-5pm; Saturday
 October 11, 12-5pm.
-Ithaca Smith â€“ Wednesday September 17, 12-5pm
-Mark Cunningham â€“ Each Wednesday for the duration of the project, 12-2pm;
+Ithaca Smith – Wednesday September 17, 12-5pm
+Mark Cunningham – Each Wednesday for the duration of the project, 12-2pm;
 Saturdays, September 20 and 27, 12-2pm.
 (NB: This shop-keeping schedule may be subject to change at short notice.)
 
@@ -66,7 +67,7 @@ gaze, approached from both voyeuristic and autobiographical standpoints.
 
 Ithaca Smith is a self-taught artist, poet, and writer. Her approach to
 production is multi-faceted and informed by the phenomenological binding of
-the body, place and capital. This will be Smithâ€™s inaugural exhibition of
+the body, place and capital. This will be Smith’s inaugural exhibition of
 paintings that she has commissioned by the artist Andrew Smith. Ithaca
 Smith lives and works in Portland, Oregon.
 

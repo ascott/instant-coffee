@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 14
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Carole Itter | 530PM | SEP 7"
 ---
 

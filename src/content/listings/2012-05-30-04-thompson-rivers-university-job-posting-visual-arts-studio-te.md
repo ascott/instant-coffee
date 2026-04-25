@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 4
 type: ""
+venue: "Thompson Rivers University"
 summary: "Thompson Rivers University | JOB Posting: VISUAL ARTS STUDIO TECHNICIAN | MAY 31"
 ---
 
@@ -14,7 +15,7 @@ effect from May 17, 2012 to May 31, 2012, closing at 4:00 pm.
 of your email.
 Please be advised that effective August 13, 2012 to June 14, 2013,
 there is a temporary, full-time position for a Visual Arts Studio
-Technician â€“ Visual & Performing Arts. The hours of work will be
+Technician – Visual & Performing Arts. The hours of work will be
 Monday to Friday, 8:30 am to 4:30 pm, subject to change depending 
 upon
 departmental requirements.

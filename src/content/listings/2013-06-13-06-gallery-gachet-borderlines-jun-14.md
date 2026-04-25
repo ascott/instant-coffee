@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 6
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | BorderLines | JUN 14"
 ---
 

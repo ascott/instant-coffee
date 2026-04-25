@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 14
 type: ""
+venue: "Trench"
 summary: "Trench | MONOMANIA | until | AUG 26"
 ---
 

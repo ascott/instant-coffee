@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 5
 type: "TALK"
+venue: "Anvil Centre"
 summary: "Anvil Centre | Holly Schmidt and Janet Wang | MAY 15"
 ---
 

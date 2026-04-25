@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 21
 type: "TALK"
+venue: "Rennie Collection"
 summary: "Rennie Collection | Rennie Speaker Series: Simon Starling | NOV 16"
 ---
 

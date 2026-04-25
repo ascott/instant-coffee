@@ -54,23 +54,23 @@ wrong
 Wrong Wave 2014 - three nights of art bands
 
 Thursday October 16 at The Fox Cabaret
-July Fourth Toilet â€“ Death Prizm â€“ Late Spring
+July Fourth Toilet – Death Prizm – Late Spring
 $10 at door, or $20 festival pass
 Doors: 7:30
 
 Friday October 17th at the Western Front
-the grain of the voice an evening with Frog Eyes â€“ Nicholas Kgrovich â€“ 
+the grain of the voice an evening with Frog Eyes – Nicholas Kgrovich – 
 Eden Veaudry
 $8 at door, or $20 festival pass
 Doors: 7:30
 
 Saturday October 18th at the Djavad Mowafaghian World Art Centre at 
 SFU Woodwards
-Mecca Normal â€“ Fake Tears
+Mecca Normal – Fake Tears
 $5 at door, or buy festival pass
 Doors: 7:30
 
-This yearâ€™s festival of artists who rock and rockers that art spans three 
+This year’s festival of artists who rock and rockers that art spans three 
 nights at three venues, kicking off at The Fox Cabaret on Thursday 
 October 16th to celebrate the 20th Anniversary of Vancouver art rock 
 legends, July Fourth Toilet with local acts Death Prizm and Late Spring. 
@@ -80,7 +80,7 @@ myriad qualities of the voice in song; Frog Eyes, Nicholas Kgrovich, and
 Eden Veaudry. Wrong Wave 2014 wraps up on Saturday October 18th with 
 two acts to the power of two -- Mecca Normal and Fake Tears -- at the 
 Djavad Mowafaghian World Art Centre at SFU Woodwards co-presented 
-by SFUâ€™s Vancity Office of Community Engagement.
+by SFU’s Vancity Office of Community Engagement.
 
 Wrong Wave began back in the 1980s at the original Helen Pitt Gallery and 
 was revived in 2011 by UNIT/PITT (formerly the Helen Pitt Gallery). The 
@@ -88,7 +88,7 @@ festival celebrates the long Vancouver tradition of Art Rock: artists who
 rock, and rockers who make art.
 
 Wrong Wave 2014: Art Rock? Reprise features posters by three artists in 
-the festivalâ€™s featured acts: Jean Smith of Mecca Normal, Robert Dayton of 
+the festival’s featured acts: Jean Smith of Mecca Normal, Robert Dayton of 
 July Fourth Toilet, and Carey Mercer of Frog Eyes.
 
 Wrong Wave 2014 is curated by artist and musician Sydney Hermant for 
@@ -108,10 +108,10 @@ Lettuce partially emerging from a shopping bag Lettuce partially emerging
 from a shopping bag is an exhibition featuring new video work by 
 Berlin‐
 based artist Andreas Bunte. A 16mm film, Suspended Duration, is the 
-showâ€™s centrepiece. In it, Bunte references the scientific work undertaken 
+show’s centrepiece. In it, Bunte references the scientific work undertaken 
 by motion-study laboratories through the incorporation of black and white 
 raster backgrounds. Taking ordinary objects as subject-matter, Bunte 
-confounds such labsâ€™ aims of achieving scientific abstraction, instead 
+confounds such labs’ aims of achieving scientific abstraction, instead 
 capturing the contingency of the filmic image through his inclusion of 
 â€œaccidentalâ€  footage as well. In this way, the film extends both literal and 
 metaphorical frames by repositioning the fringes to the centre in spatial 
@@ -119,8 +119,8 @@ and temporal ways, drawing attention to processes that do not produce
 anything significant, do not demand optimization, and that are not usually 
 subject to extended filmic attention.
 
-The exhibitionâ€™s title is taken from the book Attempt at exhausting a place 
-in Paris by French writer Georges Perec, in which he explored â€œthe 
+The exhibition’s title is taken from the book Attempt at exhausting a place 
+in Paris by French writer Georges Perec, in which he explored “the 
 infraordinary: the markings and manifestations of the everyday that 
 consistently escape our attention as they compose the essence of our 
 lives.â€ *
@@ -265,7 +265,7 @@ his language of abstraction, presenting a series of acrylic-on-canvas
 works. The paintings depict seemingly random forms that sit
 harmoniously together, tethered by their subtle texture and colour.
 
-The way we view Rootâ€™s forms is interpreted depending on perspective;
+The way we view Root’s forms is interpreted depending on perspective;
 interchangeably they reference microscopic shapes and colossal,
 celestial visions from space. The compositions also echo the order of
 an archeological display, a hint of artifacts arranged in an exhibit.
@@ -305,35 +305,35 @@ Chinese Art
 
 The Vancouver Art Gallery announced today the launch of a new, 
 comprehensive initiative committed to advancing scholarship and public 
-appreciation of Asian art. Building upon the Galleryâ€™s longstanding 
+appreciation of Asian art. Building upon the Gallery’s longstanding 
 commitment to fostering cultural connections throughout the Pacific Rim, 
-the Institute of Asian Art will expand and further develop the Galleryâ€™s 
+the Institute of Asian Art will expand and further develop the Gallery’s 
 exhibitions, public programs, and permanent collections dedicated to the 
 visual arts of Asia, with particular focus on China, India, Japan and Korea. 
 The Gallery has created a new, endowed senior curatorial position for 
-Asian artâ€”marking the first time in its history that it will have a curator 
-devoted to the fieldâ€”and will form an international advisory council to help 
-support the Instituteâ€™s diverse range of programs. The Gallery also plans 
-to dedicate permanent space in its new Herzog & de Meuronâ€“ designed 
+Asian art—marking the first time in its history that it will have a curator 
+devoted to the field—and will form an international advisory council to help 
+support the Institute’s diverse range of programs. The Gallery also plans 
+to dedicate permanent space in its new Herzog & de Meuron– designed 
 building to Asian art.
 
-â€œThe City of Vancouver has one of the fastest growing Asian communities 
+“The City of Vancouver has one of the fastest growing Asian communities 
 in North America and is one of the most important gateways to the Asia 
 Pacific. For the past 25 years, the Gallery has been at the forefront of the 
 incredible exchange of art and ideas between these two regions, and we 
 are thrilled to continue building upon this commitment with the launch of 
 the Institute of Asian Art,â€  said Kathleen Bartels, Director of Vancouver Art 
-Gallery. â€œWith dedicated curatorial leadership and the support of an 
+Gallery. “With dedicated curatorial leadership and the support of an 
 international network of advisors, the Institute of Asian Art will be an 
 important resource for our community, stimulating new dialogue and further 
 strengthening the ties between Vancouver and the Asian Pacific region.â€  
 
-The Institute of Asian Artâ€™s inaugural programs focus on historical and 
+The Institute of Asian Art’s inaugural programs focus on historical and 
 contemporary Chinese art and include: 
-â€¢ The Forbidden City: Inside the Court of Chinaâ€™s Emperors (opening 
+• The Forbidden City: Inside the Court of China’s Emperors (opening 
 October 18, 2014), a major traveling exhibition featuring approximately 200 
-rarely seen historic works, from Beijingâ€™s Palace Museum; and
-â€¢ Unscrolled: Reframing Tradition in Contemporary Chinese Art (opening 
+rarely seen historic works, from Beijing’s Palace Museum; and
+• Unscrolled: Reframing Tradition in Contemporary Chinese Art (opening 
 November 15, 2014), a focused exhibition spotlighting the work of three 
 generations of contemporary Chinese artists.
 
@@ -344,18 +344,18 @@ launch a major exhibition of contemporary art from India. Future exhibitions
 will be mounted on an annual basis, ranging from surveys of contemporary 
 art, to premieres of historic collections from abroad, to focused collection-
 based shows. Through the establishment of a dedicated acquisition fund, 
-the Institute will oversee the continued growth of the museumâ€™s permanent 
+the Institute will oversee the continued growth of the museum’s permanent 
 collection of contemporary Asian Art.
 
-â€œI am absolutely delighted to see the realization of the Institute of Asian Art. 
+“I am absolutely delighted to see the realization of the Institute of Asian Art. 
 The timing is perfect as we celebrate two significant Chinese exhibitions at 
 the Gallery in the coming weeks,â€  said Zheng Shengtian, Trustee of the 
-Vancouver Art Gallery. â€œThe Institute is a logical result of years of the 
-Galleryâ€™s efforts to exhibit and promote Asian art for the community, and it 
+Vancouver Art Gallery. “The Institute is a logical result of years of the 
+Gallery’s efforts to exhibit and promote Asian art for the community, and it 
 will no doubt open a new and exciting chapter for the Vancouver Art 
 Gallery through expanded programs and outreach.â€ 
 
-Located in one of North Americaâ€™s largest cities on the Pacific Rim, the 
+Located in one of North America’s largest cities on the Pacific Rim, the 
 Vancouver Art Gallery has spearheaded major Asian art projects and 
 promoted cross-cultural collaborations throughout its history. Since 1985, 
 the Gallery has presented twenty-eight exhibitions of Asian art including 
@@ -369,16 +369,16 @@ Tianshou (1998), and Contemporary Art in Asia: Traditions / Tensions
 (1997), and has acquired major works by such prominent artists as Song 
 Dong, MadeIn Company and Fiona Tan.
 
-About The Forbidden City: Inside the Court of Chinaâ€™s Emperors
-October 18, 2014 â€“ January 11, 2015
-The Forbidden City: Inside the Court of Chinaâ€™s Emperors presents 
-approximately 200 works rarely seen outside of Chinaâ€”including 80 works 
-exclusively shown in Vancouverâ€”that provide a glimpse into the iconic and 
+About The Forbidden City: Inside the Court of China’s Emperors
+October 18, 2014 – January 11, 2015
+The Forbidden City: Inside the Court of China’s Emperors presents 
+approximately 200 works rarely seen outside of China—including 80 works 
+exclusively shown in Vancouver—that provide a glimpse into the iconic and 
 long-hidden city which was the centre of imperial power from 1416-1911. 
-Through historic artworks selected from the collections of Beijingâ€™s Palace 
-Museumâ€”including paintings, ceramics, gold and silver wares, jade, 
-cloisonnÃ©, bronzes, and textiles all ranging from as early as 500 B.C.â€”the 
-exhibition showcases the imperial life during Chinaâ€™s last heyday as an 
+Through historic artworks selected from the collections of Beijing’s Palace 
+Museum—including paintings, ceramics, gold and silver wares, jade, 
+cloisonné, bronzes, and textiles all ranging from as early as 500 B.C.—the 
+exhibition showcases the imperial life during China’s last heyday as an 
 empire. The Forbidden City is organized by the Palace Museum, Beijing, 
 China, and the Royal Ontario Museum, Toronto, and the coordinating 
 curators for the Vancouver Art Gallery presentation are Timothy Brook, 
@@ -387,7 +387,7 @@ Columbia and Daina Augaitis, Chief Curator/Associate Director, Vancouver
 Art Gallery.
 
 About Unscrolled: Reframing Tradition in Chinese Contemporary Art
-November 15, 2014 â€“ March 22, 2015
+November 15, 2014 – March 22, 2015
 Featuring the work of three generations of contemporary Chinese artists, 
 Unscrolled: Reframing Tradition in Chinese Contemporary Art explores 
 how artists are both informed by their cultural heritage and continue to 
@@ -406,7 +406,7 @@ throughout the city, province, and beyond. As the largest public art
 museum in Western Canada, the Gallery features the work of ground-
 breaking contemporary artists from around the world, presents historical art 
 of international significance, and provides a global platform for British 
-Columbiaâ€™s dynamic artistic community, including the work of First Nation 
+Columbia’s dynamic artistic community, including the work of First Nation 
 artists as well as art of the Asia Pacific. Its growing collection represents 
 the most comprehensive resource for art in British Columbia and is the 
 principal repository for visual art produced in the region, as well as related 
@@ -419,8 +419,8 @@ internationally.
 In response to the significant growth in collections, exhibitions and 
 attendance over the past decade, the Gallery announced in 2014 the 
 selection of Herzog & de Meuron for the design of a new and expanded 
-home in downtown Vancouver. The new facility will double the Galleryâ€™s 
-current size and will be a vital catalyst to Vancouver, enhancing the cityâ€™s 
+home in downtown Vancouver. The new facility will double the Gallery’s 
+current size and will be a vital catalyst to Vancouver, enhancing the city’s 
 cultural community and serving as a centre for cross-cultural dialogue and 
 exchange in the visual arts.
 
@@ -448,11 +448,11 @@ jsorce/eviemeister@resnicowschroeder.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-10-16-08-dim-cinema-at-the-cinematheque-pierre-huyghe-the-host-and-th">08. DIM Cinema at The Cinematheque | Pierre Huyghe: The Host and the Cloud | OCT 20</a>
 ------------------------------------------------------------------------
-â€œHuygheâ€™s strength lies in his understanding . . . [that] images have
+“Huyghe’s strength lies in his understanding . . . [that] images have
 become masks for universal media ventriloquism.â€  (Jean Baudrillard)
 
 VANCOUVER PREMIERE! DIM Cinema is delighted to present the
-Vancouver premiere of Pierre Huygheâ€™s The Host and the Cloud, a
+Vancouver premiere of Pierre Huyghe’s The Host and the Cloud, a
 feature-length film by the acclaimed French artist (a major Huyghe
 retrospective was recently presented at the Pompidou in Paris and is
 coming soon to LACMA in Los Angeles). Combining staged and 
@@ -460,8 +460,8 @@ improvised
 action, this live film project, shot in a building that once housed the
 French National Museum of Art and Popular Traditions, follows a group of
 actors through a series of fragmented narratives, fantastical visions, and
-dreamlike rituals as they freely interpret three public holidays â€”
-Halloween, Valentineâ€™s Day, and May Day. â€œThe film might be Huygheâ€™s 
+dreamlike rituals as they freely interpret three public holidays —
+Halloween, Valentine’s Day, and May Day. “The film might be Huyghe’s 
 most
 elaborate, intriguing and, quite possibly, weirdest offering to dateâ€ 
 (Naomi Fry, Frieze).
@@ -473,7 +473,7 @@ Tix: $11/9 + $3membership
 www.dimcinema.ca
 www.thecinematheque.ca/dim
 
-Contact: MichÃ¨le Smith, programming@dimcinema.ca
+Contact: Michèle Smith, programming@dimcinema.ca
 For updates and more information, visit us on Facebook
 (http://www.facebook.com/dimcinema/) and/or subscribe to our newsletter
 
@@ -496,7 +496,7 @@ Concerti for throat singers, operas on Indigenous subjects, and powwow
 symphonies. Despite an increasing number of collaborations between 
 Indigenous artists and classical music ensembles, the political exigencies 
 of First Nations communities across Canada are scarcely referenced in 
-such work. As Cherokee scholar Craig Womack has noted, while â€œAmerica 
+such work. As Cherokee scholar Craig Womack has noted, while “America 
 loves Native American Culture[,] America is much less enthusiastic about 
 Native American land claimsâ€ . This talk examines the space between 
 classical and Indigenous musical forms, and the attendant politics of 
@@ -530,16 +530,16 @@ Kwan. We will mark this occasion with an informal conversation between
 Kwan and Access Gallery Director/Curator Kimberly Phillips, and to speak 
 around ideas of distance, â€œdark magicâ€  and the works in the exhibition. 
 
-Raymond Boisjoly is an Indigenous artist of Haida and QuÃ©bÃ©cois descent 
+Raymond Boisjoly is an Indigenous artist of Haida and Québécois descent 
 from Chilliwack, BC, currently based in Vancouver. He is represented by 
-Catriona Jeffries Gallery. This fall, Boisjoly will serve as Lead Faculty for â€œIn 
+Catriona Jeffries Gallery. This fall, Boisjoly will serve as Lead Faculty for “In 
 Kindâ€  Negotiations, a thematic residency at the Banff Centre. 
 Vanessa Kwan is a Vancouver-based artist and curator. Her work has been 
 exhibited at a number of galleries and artist-run centres. Recent projects 
 include Sad Sack, a series of collaborations on the subject of melancholy, 
 and Everything Between Open and Closed, a study of signs. She currently 
 works as Curator of Special Projects at grunt gallery, and was curator of 
-performance at the Vancouver Art Gallery from 2008â€“2014.
+performance at the Vancouver Art Gallery from 2008–2014.
 
 Kimberly Phillips, Ph.D.
 Director/Curator
@@ -566,8 +566,8 @@ Chic, Tehran Thrills, Aesthetic Bodies, Political Subjects (ZetaBooks, 2007)
 and taught at the National School of Political and Administrative Studies, 
 Bucharest; American University in Paris; University of California, Irvine; 
 Royal University for Women, Bahrain and Galatasaray University, Istanbul. 
-He worked as deputy director for the Romanian Cultural Institute â€˜Dimitrie 
-Cantemirâ€™ in Istanbul and is currently based in Vancouver, interested in 
+He worked as deputy director for the Romanian Cultural Institute ‘Dimitrie 
+Cantemir’ in Istanbul and is currently based in Vancouver, interested in 
 urban ecology and social business models.
 
 555 Nelson Street, Vancouver
@@ -589,19 +589,19 @@ When: Tuesday, October 21, 2014. 7:00 PM
 Where: Djavad Mowafaghian World Art Centre, Goldcorp Centre for the 
 Arts, 149 W. Hastings St.
 
-Presented by SFUâ€™s Vancity Office of Community Engagement. FREE 
+Presented by SFU’s Vancity Office of Community Engagement. FREE 
 event.
 
 Jordan Strom | Verging on the Visible: Recent Art from Surrey and its 
 Proximities
 
-Within the new multi-nodal cityâ€”especially the rapidly developing zones 
-that are away from the traditional urban coreâ€”identifiable sites of deep 
+Within the new multi-nodal city—especially the rapidly developing zones 
+that are away from the traditional urban core—identifiable sites of deep 
 time, cycles of extended journey, forms of ludic urban structure and 
 aspects of mythic struggle can arise in daily life and art. In the City of 
 Surrey, and its larger vicinity south of the Fraser River, works of visual art 
 have illuminated these categories against a backdrop of the contemporary 
-city as refuge. It is here that the parameters of the â€˜arrival cityâ€™sâ€™ creative 
+city as refuge. It is here that the parameters of the ‘arrival city’s’ creative 
 force is determined as much by internal migration under duress (such as 
 the new waves of â€œflightâ€  from the cityâ€™s historical centres) as by 
 transnational exile.
@@ -610,8 +610,8 @@ Drawing from several recent Surrey Art Gallery exhibitions including
 Beyond Vague Terrain: The City and the Serial Image (2012) & Scenes of 
 Selves, Occasions for Ruses (2012) and Figuring Ground (2013) this 
 presentation will examine select artworks that engage with the Canadian 
-â€˜edge cityâ€™ condition and situate a number of key artistic strategiesâ€”and 
-the relative invisibility of â€˜edge cityâ€™ cultural productionâ€”within both the 
+‘edge city’ condition and situate a number of key artistic strategies—and 
+the relative invisibility of ‘edge city’ cultural production—within both the 
 Vancouver and international art contexts.
 
 About the speaker:
@@ -801,8 +801,8 @@ Simi Sara, Host of The Simi Sara Show, CKNW
 ------------------------------------------------------------------------
 Sunny Side Up
 Christopher Kuhn
-October Thursday 24th â€” November Saturday 22nd
-Opening Thursday, October 23rd 6:00 â€” 10:00 PM
+October Thursday 24th — November Saturday 22nd
+Opening Thursday, October 23rd 6:00 — 10:00 PM
 FIELD Contemporary
 17 West Broadway
 
@@ -865,7 +865,7 @@ FIELD Satellite, 29 West Broadway, Vancouver, BC
 
 FIELD Satellite is pleased to present N I R D V A N D V A, an exhibition 
 featuring work by Vancouver-based artists Kuh Del Rosario and Scott 
-Lewis. The title of the show takes its root in Sanskrit and refers to oneÂ´s 
+Lewis. The title of the show takes its root in Sanskrit and refers to one´s 
 ability to be free from dualities. The concept of Nirdvandva was later 
 popularized in the realm of psychology by Carl Jung who used it as a 
 frame for discussing Hegelian dialectics and the notion of transcendence. It 
@@ -873,7 +873,7 @@ is the ethos of Nirdvandva that is shared in the art practices of both Del
 Rosario and Lewis.
 
 Although invested in material process, decay and regeneraton, both artists 
-arrive at this commonality through their own trajectory. Del RosarioÂ´s 
+arrive at this commonality through their own trajectory. Del Rosario´s 
 interrogation of sculpture recalls early memories of living in The Philippines 
 and of witnessing objects devolve into detritus, get beaten into the earth, 
 and then slowly grow as they compound with other materials in their 
@@ -881,14 +881,14 @@ proximity. Her sculptures speak to the life cycles many urban materials
 face as they are extracted from nature, transformed by industry only to be 
 discarded and then consumed again by the planet until they recapitulate 
 themselves as hybrid objects - incapable of performing their part within the 
-logic of their desired mechanism, but mutated from nature. In LewisÂ´s 
+logic of their desired mechanism, but mutated from nature. In Lewis´s 
 practice the life cycle of materials articulate themselves on the canvas 
 through a process that fluctuates between additive gesture and forced 
 erosion. Sometimes this manifests itself in the literal application of 
 materials such as wheat-paste posters and newsprint that are later 
 scraped away. Sometimes this relationship is merely implied by the 
 topographical effect that comes from mixing and manipulating paint that 
-does not bind with its substract. Embedded in his sensibility is LewisÂ´s 
+does not bind with its substract. Embedded in his sensibility is Lewis´s 
 relationship to his own background as a musician and the cathartic power 
 of post-punk noise.
 
@@ -949,16 +949,16 @@ OPENING RECEPTION
 Tuesday, October 28
 6-9 pm
 
-The unusual landscapes painted in Rebecca Chaperonâ€™s Eccentric 
+The unusual landscapes painted in Rebecca Chaperon’s Eccentric 
 Gardens are imagined physical spaces brimming with creative energy. 
 They represent the inner â€œplacesâ€  we access for creativity and imagination, 
 places that exist within our larger internal/personal landscape.
 In the Eccentric Gardens exhibition at Initial Gallery we see new sculptures 
-and paintings from Chaperon that reveal the artistâ€™s nostalgia for place 
+and paintings from Chaperon that reveal the artist’s nostalgia for place 
 crystallized. These Eccentric Gardens are living symbols for this perpetual 
 internal place that is the wellspring of creativity and imagination. 
-Chaperonâ€™s work often presents a surreal version of the world, places that 
-waver just outside of our perception. This time Chaperonâ€™s exploration of 
+Chaperon’s work often presents a surreal version of the world, places that 
+waver just outside of our perception. This time Chaperon’s exploration of 
 place has led to a gentle introversion - to depict a place that is her creative 
 origin.
 
@@ -991,16 +991,16 @@ Opening Saturday October, 25th, 2014
 
 7pm onward
 
-The other day I was listening to Robert Ashleyâ€™s composition Automatic 
+The other day I was listening to Robert Ashley’s composition Automatic 
 Writing on headphones. Amidst the chaos of hissing sounds, and bi-lingual 
 mutters, there is a bass line that bounces along with so much pleasure that 
-it seems like itâ€™s coming from a different space, a different circumstance, 
-but there it is glued to Ashleyâ€™s composition.
+it seems like it’s coming from a different space, a different circumstance, 
+but there it is glued to Ashley’s composition.
 
 This reminded me of a night when I was sitting alone in the middle room 
 at Avenue, and like many nights I could hear what was occurring next door 
-on the Balmoralâ€™s dance floor. The bass seemed to shine through the 
-roomâ€™s stucco wall, rattling it, animating it, as if it was a creature in its own 
+on the Balmoral’s dance floor. The bass seemed to shine through the 
+room’s stucco wall, rattling it, animating it, as if it was a creature in its own 
 right, enticing me to document its presence. I fished a field recorder out of 
 my bag. Turning on this machine always seduces me. The amplification of 
 hearing to colossal levels. The unbelievable affirming nudge that what your 
@@ -1009,7 +1009,7 @@ you are listening to? Just press record. That evening the sounds coming
 from the Balmoral were fucked; this was the descriptor that came to mind 
 to describe a scene that I could not understand. A throttling bass line, a 
 beat, and a melody; all discernible, all comfortably submergible within the 
-clichÃ©s that populate any dance floor, all of this was mixed with a sound 
+clichés that populate any dance floor, all of this was mixed with a sound 
 that I could not name but only picture. It was as though a bomb had been 
 set off in the Balmoral. As the music stretched on so did the explosions, 
 covering the groove stroke for stroke. Its every ripple seemed to propose a 
@@ -1038,7 +1038,7 @@ to show somebody. Taking my headphones off was like realizing one had
 left the oven on. A sensation I feel some duty to report as I am referring to 
 the fact that Avenue was once a pizza parlour. I rushed into the larger room 
 to find a studio mate sitting beneath his light, listening in full blast to an 
-album called New History Warfare by Colin Stetson. â€œThis, is mixing with 
+album called New History Warfare by Colin Stetson. “This, is mixing with 
 that?â€  Against the sound coming from the boom box my friend could of only 
 seen a mouthed statement along with a few giggly arm gestures directed at 
 the Balmoral, it probably looked as though I was dancing, raving towards 
@@ -1049,7 +1049,7 @@ On Saturday October the 25th a symphony in the twelve-tone style will
 take place at Avenue, a gallery next to the bar The Balmoral. The works 
 from the previous exhibition [♫♫♫] have been cast as musicians. An 
 artwork from the Hatchery show sets the stage. The pictures from TOO 
-TRUE provide the frame for a sound system. A video from Jump In, Itâ€™s 
+TRUE provide the frame for a sound system. A video from Jump In, It’s 
 Warm projects the surface of a bar. And so on, and so...
 
 http://k007.kiwi6.com/hotlink/y8nkkzq03x/Balmoral_tone.wav
@@ -1082,13 +1082,13 @@ Paul presents a series of carved wooden forms whose surfaces have been
 worked meticulously over time. He then juxtaposes each of his forms with 
 a distinctly foreign matter such as latex, sand, or metallic nails. The 
 infusion of foreign matter acts like a protective membrane for its wooden 
-counterpart. Some of Paulâ€™s sculptures stand upright freely while others 
+counterpart. Some of Paul’s sculptures stand upright freely while others 
 succumb to gravity and reach outwardly on the surface of the floor.
 
 Darius offers a multitude of forms and media chronicling the permutations 
 of a hand-tended, manicured grass lawn in the shape of his 11 x 7 ft. fourth 
 floor balcony. He exhibits multiple objects that recount the stages of the 
-lawnâ€™s care, its journey through False Creek and its inevitable decay: a 
+lawn’s care, its journey through False Creek and its inevitable decay: a 
 grass lawn, a raft constructed for the transportation of his lawn (complete 
 with short picket fence), a video performance embedded within the floor of 
 his raft following the safe transport of the lawn from its origin on his 
@@ -1101,16 +1101,16 @@ Darius Stein and Paul Halley are both based in Vancouver.
 <a href="/instant-coffee/listings/2014-10-16-22-sfu-phg-sag-and-maillardville-field-trip-oct-25">22. SFU, PHG, SAG and Maillardville | Field Trip | OCT 25</a>
 ------------------------------------------------------------------------
 Field Trip
-Sat, 25 Oct 2014 11:00 AM â€“ 9:00 PM
+Sat, 25 Oct 2014 11:00 AM – 9:00 PM
 $10. Tickets at https://www.eventbrite.ca/e/field-trip-tickets-13419731779
 
-Field Trip is an invitation to explore the art that lies beyond Vancouverâ€™s 
+Field Trip is an invitation to explore the art that lies beyond Vancouver’s 
 borders by creating a convenient transportation option to shuttle art 
 audiences to important suburban art institutions around Metro Vancouver. 
 What began as an informal conversation has now become an actuality: an 
 art bus that will shuttle enthusiastic gallery goers to exhibition spaces and 
 communities in the region. An experience that extends beyond traversing 
-from point â€˜Aâ€™ to point â€˜Bâ€™, the bus will also be a site of conversations and 
+from point ‘A’ to point ‘B’, the bus will also be a site of conversations and 
 events related to art in the destination communities. The one day tour will 
 visit the Presentation House Gallery in North Vancouver, SFU Gallery on 
 Burnaby Mountain, Mallardville Cultural Appreciation Society in Coquitlam, 
@@ -1121,11 +1121,11 @@ Meeting place: Audain Gallery, 149 West Hastings St. - 11:00am
 
 Bus stops:
 
-â€¢ Presentation House Gallery
-â€¢ SFU Gallery
-â€¢ Maillardville Cultural Appreciation Society
-â€¢ Surrey Art Gallery
-â€¢ optional tour: SFU Surreyâ€™s SIAT Media Lab
+• Presentation House Gallery
+• SFU Gallery
+• Maillardville Cultural Appreciation Society
+• Surrey Art Gallery
+• optional tour: SFU Surrey’s SIAT Media Lab
 
 Please note:
 
@@ -1149,7 +1149,7 @@ He is currently a member of both the Vancouver Public Art Committee and
 Centre A (the Vancouver International Centre for Contemporary Asian Art) 
 board.
 
-Field Trip is a partnership project co-presented by SFUâ€™s Vancity Office of 
+Field Trip is a partnership project co-presented by SFU’s Vancity Office of 
 Community Engagement and SFU Galleries.
 
 ------------------------------------------------------------------------
@@ -1165,13 +1165,13 @@ To be beside yourself. To think of others, besides yourself. To feel outside
 yourself. We are in interaction with an affective field, the body a surface of 
 intensities, the brain translating these, at times, as emotions or feelings. 
 Artworks have the capacity to move us, and artworks contain much that 
-resists interpretation. The â€˜emotional turnâ€™ in art might stem from the 
+resists interpretation. The ‘emotional turn’ in art might stem from the 
 realization that the experience of the body means something, especially in 
-its connection to the surrounding world â€“ how relations between things, 
+its connection to the surrounding world – how relations between things, 
 object, beings, and events, assemblages of materials and entities external 
 to ourselves, have potential for sparking new affective relations. Feeling 
 the body destabilized and decentered can bring one closer to demystifying 
-the â€™primacy of the subject,â€™ a position upon which oppressive, alienating 
+the ’primacy of the subject,’ a position upon which oppressive, alienating 
 structures continue to capitalize. We have come to realize that to be 
 affected and to have the capacity to affect figures largely around questions 
 of agency, and trying to come to terms with what lies beyond our 
@@ -1209,7 +1209,7 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Department of Art History, Visual Art & Theory
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 ahva.dept@ubc.ca
@@ -1220,7 +1220,7 @@ www.ahva.ubc.ca | www.facebook.com/ahva.ubc.ca
 <a href="/instant-coffee/listings/2014-10-16-24-the-hnatyshyn-foundation-emerging-curator-call-for-nominees-">24. The Hnatyshyn Foundation | Emerging Curator | call for nominees | NOV 6</a>
 ------------------------------------------------------------------------
 CALL FOR CANDIDATES AND NOMINATIONS
-The Hnatyshyn Foundation â€“ TD Bank Group Award for Emerging Curator 
+The Hnatyshyn Foundation – TD Bank Group Award for Emerging Curator 
 of Contemporary Canadian Art (2014)
 Deadline for submissions: November 6, 2014
 Overview
@@ -1229,28 +1229,28 @@ Contemporary Canadian Art Award of $10,000 is awarded annually to
 support an emerging curator under the age of 35 whose body of work 
 incorporates a public presence and peer recognition. The recipient will be 
 selected by a jury of art professionals.
-Eligibility â€“ Nominators
+Eligibility – Nominators
 Nominators must be established Canadian curators or respected educators 
 in curatorial studies.
-Eligibility â€“ Candidates
+Eligibility – Candidates
 To be eligible, candidates must have curated a minimum of two exhibitions 
 and must be
-â€¢ An emerging curator whose body of work incorporates specialized 
+• An emerging curator whose body of work incorporates specialized 
 training (not necessarily gained at an academic institution), a public 
 presence and peer recognition
-â€¢ Nominated by an established Canadian curator or respected educator in 
+• Nominated by an established Canadian curator or respected educator in 
 curatorial studies. (Candidates may initiate an application, but must include 
 a qualified nominator.)
-â€¢ Under age 35 as of December 31st of this year
-â€¢ A Canadian citizen or permanent resident of Canada
-â€¢ An emerging curator whose work demonstrates evidence of potential and 
+• Under age 35 as of December 31st of this year
+• A Canadian citizen or permanent resident of Canada
+• An emerging curator whose work demonstrates evidence of potential and 
 shows:
 o Thoughtfulness;
 o Relevance;
 o Exemplary selection of work;
 o Visual clarity;
 o Strong visual and contextual connections;
-o Audience engagement â€“ methods, feedback, reviews;
+o Audience engagement – methods, feedback, reviews;
 o Impact of exhibitions (on community, art world, curatorial practice).
 1
 How to Apply
@@ -1266,14 +1266,14 @@ opportunities for young people and the environment. For further
 information, please visit www.td.com/corporate-responsibility.
 About The Hnatyshyn Foundation
 The Hnatyshyn Foundation is a private charity established by the late Right 
-Honourable Ramon John Hnatyshyn, Canadaâ€™s twenty-fourth Governor 
+Honourable Ramon John Hnatyshyn, Canada’s twenty-fourth Governor 
 General, to assist emerging and established artists in all disciplines with 
 their schooling and training, and promote to the Canadian public the 
 importance of the arts in our society. Its programs are funded by 
 contributions from foundations, corporations, individuals and governments, 
 including the Government of Canada through Canadian Heritage. 
 Information about The Hnatyshyn Foundation programs is available at the 
-Foundationâ€™s website www.rjhf.com.
+Foundation’s website www.rjhf.com.
 Contact
 Executive Director The Hnatyshyn Foundation director@rjhf.com (613) 
 233-0108
@@ -1287,7 +1287,7 @@ soup, pots, art, and entertainment in support of the 2015 LIVE Biennale.
 Come out and help us make LIVE 2015 happen!
 
 Attending this special fundraising event gets you your own handmade 
-ceramic bowl filled with delicious soup â€” and a chance to bid on classic 
+ceramic bowl filled with delicious soup — and a chance to bid on classic 
 ceramic pieces by renowned artists such as Sing-Ying Ho, Glenn Lewis, 
 Gailan Ngan, Wayne Ngan, and John Springer in a once only auction 
 hosted by the eminent Hank Bull.
@@ -1306,7 +1306,7 @@ Tickets available online at eventbrite.ca/e/stoned-soup-live-biennale-
 fundraiser-tickets-13355028249
 Preview the art and check back for updates! http://livebiennale.tumblr.com/ 
 
-LIVE 2015â€”presenting a dynamic mix of performance art from here and 
+LIVE 2015—presenting a dynamic mix of performance art from here and 
 around the world. Join us in 2015 for a celebration featuring performances, 
 events, workshops, talks, festivities and more.
 
@@ -1336,7 +1336,7 @@ reflect the multiple layers of community, relationships and memories this
 new initiative will help to foster for many years to come.
 
 All information on how to apply to this public art opportunity can be found 
-by downloading a PDF copy of the RFQ document from the Artistâ€™s 
+by downloading a PDF copy of the RFQ document from the Artist’s 
 Opportunities webpage:
 http://www.richmond.ca/culture/publicart/opportunities.htm
 
@@ -1382,7 +1382,7 @@ Deadline: November 20, 2014
 
 The City of Prince George seeks to commission an artist to create public 
 art that celebrates the spirit of northern British Columbia for the 
-municipalityâ€™s 100th anniversary.
+municipality’s 100th anniversary.
 
 For the full description of the project and to view the RFP, go to: 
 http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument?

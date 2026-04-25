@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 39
 type: "OPENING"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Picturing Arctic Modernity | 7-9PM | NOV 15"
 ---
 

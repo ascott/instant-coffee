@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wizzzzz "
 emailDate: "Wed, 13 Dec 2023 20:55:09 -0800"
 number: 6
 type: "CALL"
+venue: "ACT Art Gallery"
 summary: "ACT Art Gallery | Children's Focused Exhibition | APR 28"
 ---
 

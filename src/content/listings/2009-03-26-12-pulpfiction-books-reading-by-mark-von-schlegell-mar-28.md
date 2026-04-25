@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 12
 type: ""
+venue: "Pulpfiction Books"
 summary: "Pulpfiction Books | reading by Mark von Schlegell | MAR 28"
 ---
 
@@ -42,8 +43,8 @@ adolescents. When self-styled chrononaut Count Reginald Skaw shows up off
 Mercury with an inter-station cruiser at his disposal, thereâ&#65533;&#65533;s suddenly the
 possibility of escape -- into the past. Ryan, an Irish Republican, has
 always fancied himself a skeptic where time travel is concerned. But the
-girl of his dreams, Black Rose Army confederate KorÃ© McAllister, thinks
-otherwise. And when KorÃ© mysteriously disappears with Count Skaw, a little
+girl of his dreams, Black Rose Army confederate Koré McAllister, thinks
+otherwise. And when Koré mysteriously disappears with Count Skaw, a little
 witch emerges out of the textual wilderness of fourteenth century Preussland
 to dispute the legitimacy of history itself.
 

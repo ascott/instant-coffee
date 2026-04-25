@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 20
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Read-Through | The Artist's Studio is Her Bedroom | FEB 11"
 ---
 

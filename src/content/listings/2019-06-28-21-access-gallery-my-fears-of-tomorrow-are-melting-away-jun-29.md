@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 21
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | My Fears of Tomorrow Are Melting Away | JUN 29"
 ---
 

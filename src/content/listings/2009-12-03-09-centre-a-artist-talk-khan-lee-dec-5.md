@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 9
 type: ""
+venue: "Centre A"
 summary: "Centre A | Artist Talk: Khan Lee | DEC 5"
 ---
 

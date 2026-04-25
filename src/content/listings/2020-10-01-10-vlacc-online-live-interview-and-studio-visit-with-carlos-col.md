@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 10
 type: "TALK"
+venue: "VLACC"
 summary: "VLACC | ONLINE | Live interview and Studio Visit with Carlos Colín | OCT 1"
 ---
 

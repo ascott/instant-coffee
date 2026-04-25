@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 10
 type: "EVENT"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | The No-Way Cabaret | DEC 12"
 ---
 
@@ -22,23 +23,23 @@ Salish Territories
 Facebook Event: https://www.facebook.com/events/797200380342202/
 
 What do you do when a multinational energy corporation sues a handful of
-citizens for $5M? â€¦. You throw a party and you have a bake sale!
+citizens for $5M? …. You throw a party and you have a bake sale!
 
 On Friday, December 12, dozens of Vancouver based artists and performers
 will come together for a cabaret celebrating the resilience and
 determination of those who put themselves on the line to resist Kinder
-Morganâ€™s Trans Mountain Pipeline on Burnaby Mountain.
+Morgan’s Trans Mountain Pipeline on Burnaby Mountain.
 
 In April of 2014 curator Mariane Bourcheix-Laporte and artist Gabriel
 Saloman collaborated with Burnaby Residents Opposing Kinder-Morgan
-Expansion (B.R.O.K.E.) and UNIT/PITT Projects to create the Peopleâ€™s
+Expansion (B.R.O.K.E.) and UNIT/PITT Projects to create the People’s
 Procession Against The Pipelines, an 8-kilometre walk along the existing
-and proposed TransMountain Pipeline in Burnaby, BC. The Peopleâ€™s Procession
+and proposed TransMountain Pipeline in Burnaby, BC. The People’s Procession
 included speakers, performers, a flotilla and a rally featuring hundreds of
 people rallying against the pipeline's expansion. Since then, opposition
 has mushroomed and recently became big news when the Texas-based energy
 corporation Kinder-Morgan went to court seeking an injunction and a massive
-civil suit against a handful of protesters opposing the companyâ€™s work in a
+civil suit against a handful of protesters opposing the company’s work in a
 protected area of Burnaby Mountain. Victims of the civil suit include SFU
 professor and poet Stephen Collis, grandfather and anti-racism activist
 Allan Dutton, and B.R.O.K.E.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 12
 type: "OPENING"
+venue: "Gallery 881 x Strathcona BIA"
 summary: "Gallery 881 x Strathcona BIA | Fall for Strathcona Group Exhibition | 2PM | MAR 1"
 ---
 

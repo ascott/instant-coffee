@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 17
 type: ""
+venue: "221A"
 summary: "221A | Call for Curatorial Residents 2013-14 | FEB 4"
 ---
 

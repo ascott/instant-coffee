@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 19
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Doing what we can with what we know... | MAR 27"
 ---
 

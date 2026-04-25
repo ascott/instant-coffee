@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 37
 type: "EDUCATION"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | [WORKSHOP] Comic Storytelling w/ Napatsi Folger | FEB 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 12
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Triangle Trade and Nicoletta Baumeister | 730-9PM | JAN 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 16
 type: "TALK"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | Artist Salon with Art Column Artists Part II | AUG 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 8
 type: "EDUCATION"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Moon Lantern Making Workshop | AUG 10"
 ---
 

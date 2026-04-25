@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 25
 type: "OPENING"
+venue: "Pale Fire Projects"
 summary: "Pale Fire Projects | Maru Aponte 0- Salt Stains | 5PM | MAR 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 18
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Book Launch: \"Free Concert\", Michael Turner | APR 30"
 ---
 

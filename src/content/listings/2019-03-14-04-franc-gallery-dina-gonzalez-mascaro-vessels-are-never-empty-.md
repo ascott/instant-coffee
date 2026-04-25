@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Franc Gallery"
 summary: "Franc Gallery | Dina Gonzalez Mascaro: Vessels are Never Empty | MAR 9"
 ---
 

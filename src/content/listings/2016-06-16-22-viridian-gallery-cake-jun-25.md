@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 22
 type: "OPENING"
+venue: "Viridian Gallery"
 summary: "Viridian Gallery | CAKE | JUN 25"
 ---
 

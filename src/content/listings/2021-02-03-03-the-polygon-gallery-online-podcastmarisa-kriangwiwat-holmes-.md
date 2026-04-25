@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 3
 type: "EDUCATION"
+venue: "The Polygon Gallery [ONLINE]"
 summary: "The Polygon Gallery [ONLINE] | Podcast:Marisa Kriangwiwat Holmes and Maya Beaudry | JAN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 13
 type: ""
+venue: "221a"
 summary: "221a | Derya Akay, Barry Doupe, and Anne Low read | Let rat tails write my epigraph | FEB 14"
 ---
 

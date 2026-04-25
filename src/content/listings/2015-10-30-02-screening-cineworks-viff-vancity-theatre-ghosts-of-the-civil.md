@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 2
 type: ""
-summary: "SCREENING | Cineworks & VIFF Vancity Theatre | Ghostsâ€¦ Of The Civil Dead (35mm) | OCT 29"
+venue: "SCREENING"
+summary: "SCREENING | Cineworks & VIFF Vancity Theatre | Ghosts… Of The Civil Dead (35mm) | OCT 29"
 ---
 
 Cineworks and VIFF Vancity Theatre present:
 
-Ghostsâ€¦ Of The Civil Dead (Australia, 1988, 93 mins)
+Ghosts… Of The Civil Dead (Australia, 1988, 93 mins)
 35mm film print from the National Film and Sound Archive of Australia
 Director: John Hillcoat
 Writer/Producer: Evan English
@@ -25,7 +26,7 @@ Concessions: $9
 Non-members: $11
 Tickets: http://bit.ly/1M5A6zi
 Special Offer: This screening is FREE with a ticket to Ghost Materialities
-â€“ details at http://bit.ly/1OGRKAj
+– details at http://bit.ly/1OGRKAj
 
 This is a one-off screening opportunity made possible by exceptional
 permission granted to Jem Noble (Cineworks) by Producer Evan English,
@@ -35,10 +36,10 @@ doubly special with a screening from 35mm film print from the National Film
 and Sound
 Archive of Australia.
 
-Long in rights limbo (and never issued on bluray), GHOSTSâ€¦ Of The Civil
+Long in rights limbo (and never issued on bluray), GHOSTS… Of The Civil
 Dead is a near legendary Australian prison drama co-written and starring
 Nick Cave, and the feature debut of director John Hillcoat (The Road; The
-Proposition). Hard-hitting doesnâ€™t begin to do it justice, this is an
+Proposition). Hard-hitting doesn’t begin to do it justice, this is an
 intense, scary, uncompromising film, but one that seems more relevant than
 ever judging by the mini-industry in prison-building that has taken over
 North America in the interim.
@@ -50,13 +51,13 @@ report on its causes. The film, like the Committee, flashes back to trace
 the events that have led to the lockdown. What we see is a process of
 systematic, brutalizing repression - culminating in an explosion of violence.
 
-"Echoes of Stanley Kubrick at his most uncompromisingâ€¦" Derek Malcolm, The
+"Echoes of Stanley Kubrick at his most uncompromising…" Derek Malcolm, The
 Guardian
 
 "The most powerful ever to come out of Australia." Andrew Urban, The Age
 
-"The anger that seethes throughout John Hillcoatâ€™s debut feature film,
-Ghostsâ€¦ of the Civil Dead, can be felt in almost every scene." Thomas
+"The anger that seethes throughout John Hillcoat’s debut feature film,
+Ghosts… of the Civil Dead, can be felt in almost every scene." Thomas
 Caldwell, Senses of Cinema
 
 Founded in 1982, The Greater Vancouver International Film Festival Society

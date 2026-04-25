@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 20
 type: ""
+venue: "AMS Gallery"
 summary: "AMS Gallery | Kate Henderson | JAN 24"
 ---
 

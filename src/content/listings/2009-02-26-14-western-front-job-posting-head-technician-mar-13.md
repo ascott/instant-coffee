@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 14
 type: ""
+venue: "Western Front"
 summary: "Western Front | Job Posting: Head Technician | MAR 13"
 ---
 
@@ -17,7 +18,7 @@ Start Date: April 1, 2009
 Years Experience: 3+
 Salary: $30,750/year
 
-The Western Front seeks a highly skilled technical professionalÂ¨for
+The Western Front seeks a highly skilled technical professional¨for
 the position of Head Technician. Reporting to the Management Team,
 The Head Technician provides technical support to the organization's
 five programmes Exhibitions, Media Arts, New Music, Performance Art,
@@ -68,8 +69,8 @@ taken place, including exhibitions, performances, installations,
 screenings and residencies.
 
 This position includes a competitive benefits package. The Western
-Front Society is committed to the principles of EmploymentÂ¨Equity and
-encourages applications from Aboriginal persons, members of aÂ¨visible
+Front Society is committed to the principles of Employment¨Equity and
+encourages applications from Aboriginal persons, members of a¨visible
 minority group or persons with a disability.
 
 Applications containing cover letter, resume or CV and three

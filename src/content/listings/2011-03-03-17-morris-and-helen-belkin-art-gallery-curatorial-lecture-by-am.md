@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 17
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Curatorial Lecture by Amareswar Galla | MAR 8"
 ---
 

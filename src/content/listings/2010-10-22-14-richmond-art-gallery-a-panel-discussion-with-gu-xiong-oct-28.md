@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: You're the stars up in the sky; yo
 emailDate: "Fri, 22 Oct 2010 09:28:53 -0700"
 number: 14
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | A Panel Discussion with Gu Xiong | OCT 28"
 ---
 

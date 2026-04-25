@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why do good things happen to bad p
 emailDate: "Thu, 14 Oct 2010 11:55:39 -0700"
 number: 13
 type: ""
+venue: "Museum of Anthropology Exhibit"
 summary: "Museum of Anthropology Exhibit | Man Ray, African Art and the Modernist Lens | OCT 30"
 ---
 
@@ -15,7 +16,7 @@ The Museum of Anthropology is pleased to announce Man Ray, African Art, and the 
 
 Man Ray, African Art, and the Modernist Lens brings to light photographs of African objects by American artist Man Ray (1890-1976) produced over a period of almost twenty years. In addition to providing fresh insight into Man Rayâ??s photographic practice, the exhibition raises questions concerning the representation, reception, and perception of African art as mediated by the camera lens.
 
-Featured are more than 50 photographs by Man Ray from the 1920s and 1930s alongside approximately 50 photographs by his international avant-garde contemporaries such as Charles Sheeler, Walker Evans, Alfred Stieglitz, and AndrÃ© KertÃ©sz. For the first time, a number of these photographs are presented alongside the original African objects they feature. The juxtaposition offers a rare opportunity to encounter first-hand how various photographic techniques of framing, lighting, camera angle, and cropping evoke radically different interpretations of these objects. Books, avant-garde journals, and popular magazines also on display illustrate how these photographs circulated and promoted ideas about African art and culture to an international audience.
+Featured are more than 50 photographs by Man Ray from the 1920s and 1930s alongside approximately 50 photographs by his international avant-garde contemporaries such as Charles Sheeler, Walker Evans, Alfred Stieglitz, and André Kertész. For the first time, a number of these photographs are presented alongside the original African objects they feature. The juxtaposition offers a rare opportunity to encounter first-hand how various photographic techniques of framing, lighting, camera angle, and cropping evoke radically different interpretations of these objects. Books, avant-garde journals, and popular magazines also on display illustrate how these photographs circulated and promoted ideas about African art and culture to an international audience.
 
 Curated by Wendy Grossman, the exhibition frames the objects and images within diverse contexts, including the Harlem Renaissance, Surrealism, and the worlds of high fashion and popular culture.
 

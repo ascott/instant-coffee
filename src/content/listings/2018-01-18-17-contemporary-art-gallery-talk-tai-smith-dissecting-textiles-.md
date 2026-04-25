@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 17
 type: "TALK"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Talk | T’ai Smith: Dissecting Textiles | 3pm | JAN 20"
 ---
 

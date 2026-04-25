@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 9
 type: "CALL"
+venue: "UC Berkeley Department of Art Practice"
 summary: "UC Berkeley Department of Art Practice | First Annual â€œSPECULATIVE LECTUREâ€ | AUG 14"
 ---
 
@@ -13,9 +14,9 @@ A UC Berkeley Department of Art Practice Wiesenfeld Visiting Artist Lecture
 
 Proposal Deadline: 11:59 PM, August 14th, 2015
 Decision Announced: August 21st, 2015
-Date of Lecture: To Be Determined, February â€“ April, 2016
+Date of Lecture: To Be Determined, February – April, 2016
 Where: UC Berkeley Campus
-Presenterâ€™s Honorarium: $750
+Presenter’s Honorarium: $750
 Presentation Budget: $250
 Submission materials: 300 word proposal, 5 images or links, image
 description, travel plans, CV/website

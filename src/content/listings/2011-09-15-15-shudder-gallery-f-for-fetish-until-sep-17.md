@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 15
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | F for Fetish | until | SEP 17"
 ---
 

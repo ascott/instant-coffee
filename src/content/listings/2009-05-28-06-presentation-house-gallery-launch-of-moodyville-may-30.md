@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that looks nice"
 emailDate: "Thu, 28 May 2009 08:57:00 -0700"
 number: 6
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Launch of MOODYVILLE | MAY 30"
 ---
 

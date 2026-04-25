@@ -111,14 +111,14 @@ well-exercised practice applied in the production of art, but with the
 number of failures necessary to succeed undetermined and 
 increased
 exponentially. The studio being a common site for failure, where a
-dayâ€™s productivity can be measured by discovering what doesnâ€™t 
+day’s productivity can be measured by discovering what doesn’t 
 work.
 The accumulated failures amass into experiences that determine
-success. But what renders Watsonâ€™s simple formal fraught is that in
+success. But what renders Watson’s simple formal fraught is that in
 making art what constitutes either a failure or a success rarely
 presents itself outright, remaining more in the realm of ambiguities,
 and sometimes these uncertainties are exactly what determine an
-artworkâ€™s success or not.
+artwork’s success or not.
 
 Our question is: What constitutes a successful failure?
 
@@ -145,7 +145,7 @@ What he becomes (detail), 2012, oil on canvas, 60â€  x 48â€
 SHAHEER ZAZAI
 A Failed Revolution
 
-April 5 â€“ May 26, 2012
+April 5 – May 26, 2012
 Opening reception Thursday, April 5, 5-8 pm
 
 Artist present
@@ -158,21 +158,21 @@ hours
 Wednesday - Saturday 12 noon - 5pm or by appointment
 
 2 of 2 Gallery is pleased to announce a solo exhibition of new 
-paintings by Toronto based artist Shaheer Zazai. Zazaiâ€™s second 
-show at 2 of 2 Gallery is an archeological dig into humanityâ€™s long-
-standing persistence of revolution; itâ€™s miscommunication and the 
+paintings by Toronto based artist Shaheer Zazai. Zazai’s second 
+show at 2 of 2 Gallery is an archeological dig into humanity’s long-
+standing persistence of revolution; it’s miscommunication and the 
 negligence of the failure that follows.
 
 This body of work deals with the constant re-examination of identity 
 and culture that is manifested in contemporary art. The standpoint 
 taken is one that denies the possibility of positive definition, arguing 
-the destructive effect of ideological â€˜progressâ€™ and slowly putting to 
+the destructive effect of ideological ‘progress’ and slowly putting to 
 rest the hollow optimism of post-modern thought. The process is 
 one of archeology,
 uncovering a genealogy of flawed revolutions in the constant 
 presence of human error.
 
-â€œA principle is the expression of perfection, and as imperfect beings 
+“A principle is the expression of perfection, and as imperfect beings 
 like us cannot practice perfection, we devise every moment limits of 
 its compromise in practice.â€  
 
@@ -185,7 +185,7 @@ of Chaos, Gallery 1313, Toronto, Canada (2010), 95th Annual
 Graduate Exhibition - OCAD University, Toronto, Canada (2010), 
 Annual Retrospective Exhibition - OCAD University Toronto, Canada 
 (2010), Perogitory - Private Studio/Gallery, Toronto, Canada (2010). 
-Zazaiâ€™s paintings are included in private collections in Canada, 
+Zazai’s paintings are included in private collections in Canada, 
 Europe and Dubai. 
 
 
@@ -199,7 +199,7 @@ REBECCA BREWER
 
 Nine Paintings of Ayn Rand
 
-April 6 â€” May 6
+April 6 — May 6
 Opening reception Friday April 6, 7-10 PM
 
 Gallery hours 12-5 Thurs-Sat (ring buzzer)
@@ -223,7 +223,7 @@ www.exercisecanada.com
 Exhibition Title: Here There Nowhere, Flaccid Means Without End
 Artist: Ali Ahadi
 Opening: Friday, 6 April, 7-11pm
-Exhibition Dates: Fri, 6 April â€“ Sat, 12 May, 2012
+Exhibition Dates: Fri, 6 April – Sat, 12 May, 2012
 Creative Contributor: Glenn Alteen
 Medium: Photography, Video
 
@@ -256,7 +256,7 @@ grunt.ca / demian@grunt.ca / ph. 604.875.9516
 <a href="/instant-coffee/listings/2012-04-05-05-surrey-art-gallery-marianne-nicolson-etienne-zack-and-cao-fe">05. Surrey Art Gallery | Marianne Nicolson, Etienne Zack and Cao Fei | APR 7</a>
 ------------------------------------------------------------------------
 Vision Machine: Marianne Nicolson and Etienne Zack
-April 7 â€“ June 10, 2012
+April 7 – June 10, 2012
 Opening Reception: April 14, 7:30-9:30pm
 Conversation with Marianne Nicolson and Etienne Zack: April 14, 
 6:30-7:30pm
@@ -268,11 +268,11 @@ cityscape of vibrantly-hued architectural ruins appears as if under a
 giant electron microscope. The relationships between cultural 
 history and scientific vision, economy and environment, immersive 
 three dimensional space and the flatness of pictures are all central 
-to the newest works by Victoria-based Kwakwakaâ€™wakw artist 
+to the newest works by Victoria-based Kwakwaka’wakw artist 
 Marianne Nicolson and LA-based Canadian artist Etienne Zack. 
-Surrey Art Galleryâ€™s exhibition Vision Machine premieres two of 
-Zackâ€™s largest painted canvasses to date, and the latest variation of 
-Nicolsonâ€™s enveloping, etched glass shadow machines.
+Surrey Art Gallery’s exhibition Vision Machine premieres two of 
+Zack’s largest painted canvasses to date, and the latest variation of 
+Nicolson’s enveloping, etched glass shadow machines.
 
 Open to the public as of April 7, Vision Machine will officially 
 celebrate its commencement on April 14 with a talk by the artists at 
@@ -280,14 +280,14 @@ celebrate its commencement on April 14 with a talk by the artists at
 and continues to June 10. Admission to this exhibition is by 
 donation.
 
-Vision Machineâ€™s two acclaimed artists revel in the traditions of 
-theatrical display and breaking down the picture frameâ€™s boundaries 
+Vision Machine’s two acclaimed artists revel in the traditions of 
+theatrical display and breaking down the picture frame’s boundaries 
 by combining optical effects from the past and future. Nicolson 
-describes her latest work as addressing â€œvision and perception, in 
+describes her latest work as addressing “vision and perception, in 
 particular, the differences in cultural perception regarding resource 
 management, economy, and the massive resource extraction of oil 
 from Canada's tar-sands.â€  Zack explains that his new paintings are 
-â€œa way to explore picture making to activate and pry open different 
+“a way to explore picture making to activate and pry open different 
 pictorial, cultural, and historical forces in order to experience them 
 yet again in idiosyncratic ways.â€  Both artists take the optical 
 machinery of an earlier time (such as prisms and magic lanterns) 
@@ -296,10 +296,10 @@ overhead projectors and videotape cassettes) back into the sensual
 worlds of painting and sculpture.
 
 Born in Comox in 1969, Marianne Nicolson is a member of the 
-Dzawadaâ€™enuxw Tribe of the Kwakwakaâ€™wakw Nation. Currently 
-based in Victoria, Nicolsonâ€™s multimedia work has been featured in 
+Dzawada’enuxw Tribe of the Kwakwaka’wakw Nation. Currently 
+based in Victoria, Nicolson’s multimedia work has been featured in 
 important group exhibitions including the 17th Biennale of Sydney 
-Australia, and Borderzones at UBCâ€™s Museum of Anthropology, both 
+Australia, and Borderzones at UBC’s Museum of Anthropology, both 
 in 2010. Her solo exhibitions such as The Return of Abundance (Art 
 Gallery of Greater Victoria, 2007), and The House of Ghosts 
 (Vancouver Art Gallery, 2008) often engage language through 
@@ -308,7 +308,7 @@ cultural forms.
 
 Born in Montreal in 1976, Etienne Zack has been based on the west 
 coast for the past decade, partly in Vancouver and in Los Angeles. 
-Zack has exhibited his art at many of Canadaâ€™s premiere 
+Zack has exhibited his art at many of Canada’s premiere 
 contemporary art museums, including a solo exhibition at the 
 Museum of Contemporary Art of Montreal in 2010. His paintings have 
 been shown in numerous international galleries including venues in 
@@ -320,7 +320,7 @@ presented later this spring at the Massachusetts Museum of
 Contemporary Art.
 
 Cao Fei: Simulus
-April 7 â€“ June 10, 2012
+April 7 – June 10, 2012
 Opening Reception: April 14, 7:30-9:30pm
 
 Our computer age has produced many online interactive worlds 
@@ -328,19 +328,19 @@ which mirror the real world in which we live. Over the past decade
 these virtual places have been increasingly infiltrated by practicing 
 visual artists who now occupy these virtual spaces to present their 
 art, perform new identities and generate alternative forms of living. 
-The exhibition Simulus, by Cao Fei, one of Chinaâ€™s acclaimed 21st 
+The exhibition Simulus, by Cao Fei, one of China’s acclaimed 21st 
 century generation of artists, presents an interactive game 
-environment and two films constructed from â€˜realâ€™ events that have 
+environment and two films constructed from ‘real’ events that have 
 taken place in the computer-based simulated online environment 
 Second Life.
 
 The flash game installation Apocalypse Tomorrow (2011) presents 
 an expansive seascape where the viewer-player must avoid 
 constantly surfacing obstacles made up of familiar architectural 
-forms and monuments from the Chinaâ€™s recent past. RMB City 
+forms and monuments from the China’s recent past. RMB City 
 Planning (2007) and Live and RMB City (2009) are videos that 
-montage together scenes incorporating a multiplicity of characters â€“ 
-including Cao Feiâ€™s avatar China Tracy â€“ within a fictional city 
+montage together scenes incorporating a multiplicity of characters – 
+including Cao Fei’s avatar China Tracy – within a fictional city 
 collaged together from existing turn-of-the-millennium cities in 
 China.
 
@@ -349,7 +349,7 @@ from Guangzhou Academy of Fine Arts in Guangzhou, China (2001).
 Using a combination of personal narrative, fantasy forms, and 
 dramatic inventions, Cao Fei has been highlighting the new 
 economic order and its effect on the personal lives of those 
-negotiating Chinaâ€™s rapidly changing social systems. Cao Feiâ€™s work 
+negotiating China’s rapidly changing social systems. Cao Fei’s work 
 has appeared in solo exhibitions at the Dunedin Public Art Gallery, 
 New Zealand (2010), the Serpentine Gallery, London (2008); Orange 
 County Museum of Art, Newport Beach, California (2007); Museum 
@@ -366,7 +366,7 @@ summer 2012.
 
 Concurrent to Vision Machine and Cao Fei Simulus, the Surrey Art 
 Gallery is presenting the sound work Audio Migrations by artist Alex 
-Grunenfelder, as part of Open Sound 2012: On Air, Underground â€“ 
+Grunenfelder, as part of Open Sound 2012: On Air, Underground – 
 Making the Inaudible Audible, which is guest curated by Ross 
 Birdwise.
 
@@ -394,7 +394,7 @@ Capilano University Studio Gallery
 This exhibition is Curated by Marcus Bowcott . 
 
 â€œRE + REâ€  is a builderʼs term about â€œreviewing and replacingâ€  or 
-â€œreviewing and 
+“reviewing and 
 renovatingâ€ . Itʼs an apt title for this exhibition. More importantly the 
 spirit of â€œRE + REâ€  is 
 at the heart of McNeilʼs practice of photography, painting, sculpture 
@@ -415,7 +415,7 @@ The unsentimental nature of this work is not only embodied in form, it
 is embraced in 
 process. McNeilʼs self critical practice involves reconﬁguring highly 
 articulated images in 
-relation to a table saw. After all, as he states... â€œthe saw is a drawing 
+relation to a table saw. After all, as he states... “the saw is a drawing 
 instrument, a tool 
 for editing.â€  
 
@@ -427,7 +427,7 @@ Drawings Opening Thursday, April 12th. 6pm-9pm. Artist in
 attendance. Jen is joining us all the way from Toronto. 
 
 "Never letting the viewer to commit to any one of these references as 
-a starting point Aitkens desire is to â€œevoke brief in-body experiences 
+a starting point Aitkens desire is to “evoke brief in-body experiences 
 and visceral reactionsâ€  to the works. Aitkens sculpture allows the 
 viewer to wander in and out, sensually exploring the forms, their 
 playful nature, possible origins and her exquisite attention to detail." 
@@ -466,13 +466,13 @@ June 2012.
 
 Job description
 Vancouver Indigenous Media Arts Festival (VIMAF) is an Aboriginal-
-run media arts organization that is rebuilding the West Coastâ€™s film, 
+run media arts organization that is rebuilding the West Coast’s film, 
 video and media arts presence. VIMAF held its inaugural festival in 
 the historical Woodwards building, in conjunction with W2 
 Community Media Arts Society, in November of 2011.The 
 organization endeavours to develop a crucial piece of infrastructure 
 that has been missing from the Indigenous cultural sector and 
-British Columbiaâ€™s creative industries. 
+British Columbia’s creative industries. 
 
 VIMAF is a forum for all people to celebrate and enjoy Indigenous 
 culture. As Vancouver's only Indigenous media arts festival, VIMAF 
@@ -544,7 +544,7 @@ Opening Reception: Friday, April 13, 2012, 7 - 10 pm
 Exhibition Dates: April 14 - 28, 2012
 Gallery Hours: Tuesday - Saturday 12 - 6 pm
 
-The Visual Arts students at SFUâ€™s School for the Contemporary Arts 
+The Visual Arts students at SFU’s School for the Contemporary Arts 
 present I flux, an exhibition that showcases the work of the 
 undergraduate class of 2012.
 
@@ -699,7 +699,7 @@ C Magazine Issue 113 on Newsstands Now
 Issue 113 "Memory" includes features by Scott McLeod on the 8th 
 Mercosul Biennial, Carol Zemel on Yael Bartana, Michelle Kasprzak 
 on art and social media, Saelan Twerdy in conversation with Derek 
-Sullivan, ChloÃ© Roubert on the National September 11 Memorial, 
+Sullivan, Chloé Roubert on the National September 11 Memorial, 
 and Allison Collins and Eli Bornowsky on Pacific Standard Time. 
 C113 also includes an artist project by CN Tower Liquidation and 
 reviews of exhibitions by Diana Thorneycroft, Laurel Woodcock, Tonik 
@@ -738,7 +738,7 @@ April 20th for exhibition applications/proposals.
 As an artist-run centre, founded on artistic autonomy, Forest City Gallery 
 (FCG) is committed to excellence in programming, exhibitions and 
 events that reflect and address recent developments in cultural 
-production. FCGâ€™s mandate is to serve as a forum for local, regional, 
+production. FCG’s mandate is to serve as a forum for local, regional, 
 national and international artists through the presentation of relevant 
 contemporary practices in visual/media arts, performance, literature and 
 music. FCG aims to serve artists of all disciplines and career levels 
@@ -840,7 +840,7 @@ by artists, field trips, and use of site facilities and available tools.
 Interested artists should submit the following before May 1st
 
 1. A brief description (max 1 page) of your proposed project while at 
-White Rabbit â€“ please include ideas/concepts you will be exploring, 
+White Rabbit – please include ideas/concepts you will be exploring, 
 materials and any tools that you will need. We encourage projects 
 that are harmonious with the environment, therefore please specify 
 and justify the proposed use of any unnatural materials.

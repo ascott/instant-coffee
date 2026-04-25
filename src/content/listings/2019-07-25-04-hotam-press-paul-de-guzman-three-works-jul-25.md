@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Paul de Guzman | Three Works | JUL 25"
 ---
 

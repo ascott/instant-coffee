@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 3
 type: "EVENT"
+venue: "MCAS"
 summary: "MCAS | Closing Reception: Katrina Niebergal | JUN 17"
 ---
 

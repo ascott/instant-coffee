@@ -89,7 +89,7 @@ forthcoming exhibition, Melanchotopia at the Witte de With,
 Rotterdam in September of 2011. Morrison has had recent solo
 exhibitions at Artspeak, Vancouver (2010); Every Letter in the
 Alphabet, Vancouver (2010); CSA Space, Vancouver (2009);
-Catriona Jeffries, Vancouver (2007) and BÃƒÂ¼ro Friedrich, Berlin
+Catriona Jeffries, Vancouver (2007) and BÃ¼ro Friedrich, Berlin
 (2005). His work was included in the recent Sydney Biennial (2010);
 It Is What It Is, National Gallery of Canada, Ottawa (2010); Following
 a Line, Contemporary Art Gallery, Vancouver (2010); Cubes, Blocks
@@ -110,7 +110,7 @@ Arabella Campbell
 Robert Kleyn, Works 1969-1983
 19 May - 25 June 2011
 
-Art Basel 15 Ã¢ï¿½ï¿½ 19 June 2011
+Art Basel 15 â�� 19 June 2011
 
 
 
@@ -186,7 +186,7 @@ between Berlin and Vancouver. In 2005, he was chosen as the first
 inaugural
 recipient of the Joseph Plaskett Award, which was created to 
 support an
-artist for a year in Europe. Neufeldâ€™s work has been shown in 
+artist for a year in Europe. Neufeld’s work has been shown in 
 Vancouver,
 Seattle, Berlin, Toronto, Melbourne, and Skien, Norway. He has a 
 BFA from
@@ -254,7 +254,7 @@ actions and sudden questions. As the performance space gives way under the
 vermillion, she asks again and again, "What colour is this?" Because red
 remains that diabolical colour in which everything is revealed.
 
-Rouge is a compelling one-woman show by Julie AndrÃƒÂ©e T. An iconoclast in
+Rouge is a compelling one-woman show by Julie AndrÃ©e T. An iconoclast in
 the first degree, her work refuses all semblance of theatrical character
 and narrative. Rouge is a depiction in extreme monochromea constantly
 mutating piece that takes shape in a frenzy of accumulation and a search
@@ -266,7 +266,7 @@ Julie Andre T. has entranced audiences with hybrid works where dialogue, a
 series of actions and a mishmash of unusual images are gradually distilled
 into poetry. Born in Montreal in 1973, she is a graduate of Concordia
 University and is currently guest faculty in performance art at the School
-of The Museum of Fine Arts in Boston. Julie AndrÃƒÂ©e T. finds expression
+of The Museum of Fine Arts in Boston. Julie AndrÃ©e T. finds expression
 through installation and performance, and was a featured artist at this
 years Avignon Festival. Between the poetic and the pedestrian, her work
 draws on abstract yet recognizable common spaces that serve as points of
@@ -477,7 +477,7 @@ and fashion AES+F expose the fantasy visualization of pop culture.
 Superimposed on a surreal landscape, beautiful airbrushed youth
 dressed in camouflage sportswear, wield baseball bats, golf clubs
 and swords enacting a choreographed slow-motion battle
-accompanied by the music of Wagners GÃƒÂ¶tterdÃƒÂ¤mmerung.
+accompanied by the music of Wagners GÃ¶tterdÃ¤mmerung.
 Weapons are raised and threaten repeatedly and brutally, yet the
 hand-to-hand combat is bloodless and without pain.
 
@@ -741,7 +741,7 @@ V6T1Z1
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-02-03-13-western-front-media-art-oliver-laric-and-aleksandra-domanovi">13. Western Front Media Art | Oliver Laric and Aleksandra Domanovic | FEB 4</a>
 ------------------------------------------------------------------------
-Ã¥Â±Â±Ã¥Â¯Â¨ TURBO
+å±±å¯¨ TURBO
 
 Oliver Laric and Aleksandra Domanovic 
 
@@ -757,11 +757,11 @@ month-long production residency at Western Front. Both Laric and Domanovic
 work primarily on the internet, but often extend their respective practices
 into physical space.
 
-The installation takes its point departure from two words Shanzhai (Ã¥Â±Â±Ã¥Â¯Â¨)
+The installation takes its point departure from two words Shanzhai (å±±å¯¨)
 and Turbo, terms that refer to imitation, copying and the ongoing way in
 which images and objects are translated and appropriated across cultures.
 
-Shanzhai (Ã¥Â±Â±Ã¥Â¯Â¨) defines a production system outside of the legal domain,
+Shanzhai (å±±å¯¨) defines a production system outside of the legal domain,
 centered in Shenzhen in the province of Guangdong, China. Shanzhai
 literally means mountain stronghold, implying a place of creativity
 unsupervised by state monopoly. Shanzhai products adapt to local needs,
@@ -870,7 +870,7 @@ images/messages, cooperated with it, and in the process produced work that
 not only illuminates this critical cultural period, but is relevant to our
 present condition.
 
-Audrey Capel Doray was born in MontrÃƒÂ©al in 1931. After receiving a Bachelor
+Audrey Capel Doray was born in MontrÃ©al in 1931. After receiving a Bachelor
 of Fine Arts from McGill University she moved to Vancouver in 1957 where
 she taught at the Vancouver School of Art. In 1962, Capel Doray joined the
 New Design Gallery, the first influential art space in Vancouver that
@@ -1321,7 +1321,7 @@ cameras, lighting, and dancers
 CONTACT/REGISTRATION: info@cineworks.ca or Cineworks at 604-685-3841
 
 Cineworks gratefully acknowledges the ongoing support of our membership,
-volunteers, sponsors and fundersÂ­â€“the Canada Council for the Arts, the
+volunteers, sponsors and funders­–the Canada Council for the Arts, the
 British Columbia Arts Council and the City of Vancouver.
 
 
@@ -1547,7 +1547,7 @@ information.
 Centro Cultural Montehermoso Kulturunea
 
 info@montehermoso.net
-Fray ZacarÃ­as MartÃ­nez, 2. 01001 Vitoria-Gasteiz. SPAIN
+Fray Zacarías Martínez, 2. 01001 Vitoria-Gasteiz. SPAIN
 www.montehermoso.net
 
 Montehermoso 2011 Art and Research Grants
@@ -1587,7 +1587,7 @@ Contemporary Art and Thought. Projects that offer propositions for the
 creation of a feminist Art Historiography in Spain and applications whose
 objective is the development of a project linked with educational practice
 and contemporary art will be recognized. The award for the research project
-shall not exceed â‚¬9,000. This amount includes the researcher's fee, as well
+shall not exceed €9,000. This amount includes the researcher's fee, as well
 as project development expenses.
 
 FILM SCRIPT
@@ -1603,7 +1603,7 @@ www.montehermoso.net // info@montehermoso.net
 2010 Selected projects
 Artists' projects
 Filipa Raposo
-Erick BeltrÃ¡n Flores
+Erick Beltrán Flores
 Marina Naprushkina
 June Crespo
 Oier Etxeberria
@@ -1617,10 +1617,10 @@ Catalina Lozano
 Research
 Anna Colin
 Sohrab Mohebbi
-Montse de Mateo PugmartÃ­ and Sergio InclÃ¡n Cervera
+Montse de Mateo Pugmartí and Sergio Inclán Cervera
 
 Film script
-Mikel SaÃ©z de SantamarÃ­a and Daniel Remen
+Mikel Saéz de Santamaría and Daniel Remen
 
 
 

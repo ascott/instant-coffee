@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 11
 type: ""
+venue: "UBC Botanical Garden"
 summary: "UBC Botanical Garden | Artist Talk: Kevin Murphy | AUG 2"
 ---
 

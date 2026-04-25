@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 5
 type: ""
+venue: "Exercise"
 summary: "Exercise | Tiziana La Melia | AUG 25"
 ---
 
@@ -30,7 +31,7 @@ Pyramid Power, W, Pelt, and West Coast Line.
 A print edition and a publication by La Melia will be launched at the end of the 
 exhibition. The publication includes a collection of poems, short stories, 
 anecdotes and an essay by contributors: Julia Feyrer, Kayla Guthrie, Tamara 
-Henderson, Oscar HÃ¼ber, Jen Hutton, Maryse Lariviere, Michael Loncaric, 
+Henderson, Oscar Hüber, Jen Hutton, Maryse Lariviere, Michael Loncaric, 
 Nicolas Matranga, and Lisa Robertson.
 
 Gallery hours 12-5 Friday and Saturday (ring buzzer)

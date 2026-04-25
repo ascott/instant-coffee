@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 30
 type: "EDUCATION"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Youth Photo Workshop: Let's Photo Zine | APR 23"
 ---
 

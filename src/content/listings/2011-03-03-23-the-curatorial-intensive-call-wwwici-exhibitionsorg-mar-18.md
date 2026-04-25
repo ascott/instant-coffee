@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 23
 type: ""
+venue: "The Curatorial Intensive"
 summary: "The Curatorial Intensive | CALL www.ici-exhibitions.org | MAR 18"
 ---
 

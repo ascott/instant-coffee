@@ -14,7 +14,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-07-07-02-csa-donato-mancini-jul-7">02. CSA | DONATO MANCINI | JUL 7</a>
 <a href="/instant-coffee/listings/2011-07-07-03-the-stag-sarah-foulquier-sylvain-daval-jul-7">03. The STAG | Sarah Foulquier & Sylvain Daval | JUL 7</a>
 <a href="/instant-coffee/listings/2011-07-07-04-or-gallery-off-site-the-unspeakable-compromise-of-the-portab">04. Or Gallery off-site | The Unspeakable Compromise of the Portable Work | JUL 8</a>
-<a href="/instant-coffee/listings/2011-07-07-05-digital-natives-xwxway-brockton-oval-stanley-park-jul-8">05. Digital Natives | XwÃ¡Ã½xway (Brockton Oval, Stanley Park) | JUL 8</a>
+<a href="/instant-coffee/listings/2011-07-07-05-digital-natives-xwxway-brockton-oval-stanley-park-jul-8">05. Digital Natives | Xwáýxway (Brockton Oval, Stanley Park) | JUL 8</a>
 <a href="/instant-coffee/listings/2011-07-07-06-interurban-gallery-01-magazine-group-exhibition-jul-8">06. Interurban Gallery | 01 Magazine Group Exhibition | JUL 8</a>
 <a href="/instant-coffee/listings/2011-07-07-07-les-gallery-whilst-moving-backwardsgroup-exhibition-jul-8">07. LES GALLERY | Whilst moving backwards...group exhibition | JUL 8</a>
 <a href="/instant-coffee/listings/2011-07-07-08-phg-satellite-gallery-damian-moppett-andrea-pinheiro-jul-8">08. PHG @ Satellite Gallery | Damian Moppett & Andrea Pinheiro | JUL 8</a>
@@ -46,14 +46,14 @@ Picnic at Bluefish Caves
 
 Opening Thursday July 7, 7pm-10pm
 July 8 - August 6, Wed-Sun 10am-10pm
-Room 106 â€“ The Waldorf Hotel
+Room 106 – The Waldorf Hotel
 1489 East Hastings, Vancouver, BC
 
 Picnic at Bluefish Caves is a body of work based on a popular 
-national icon, the Hudsonâ€™s Bay Blanket. These collaged 
+national icon, the Hudson’s Bay Blanket. These collaged 
 images and objects access multiple readings by deconstructing 
 and reassembling formal structures from pre-existing design. 
-Heslinâ€™s re-working of surface aesthetics open new perspectives, 
+Heslin’s re-working of surface aesthetics open new perspectives, 
 ideas and relationships within history and popular culture.
 
 About the Artist
@@ -77,7 +77,7 @@ Curated by Christopher Brayshaw and Steven Tong
 7 July - 21 August, 2011
 Opening reception Thursday, 7 July, 2011, 6-9 pm
 
-#5â€“2414 Main Street
+#5–2414 Main Street
 Vancouver, BC
 V5T 3E2 CANADA
 
@@ -93,7 +93,7 @@ mancini_csa.png
 
 
 Sarah Foulquier & Sylvain Daval
-Â« A dime and a shoe string Â»
+« A dime and a shoe string »
 
 Thursday, July 7
 6pm-8pm
@@ -101,7 +101,7 @@ Thursday, July 7
 The STAG
 826 E Pender St.
 
-The STAG is pleased to invite you to the launch of Â« A dime and a shoe string Â», 
+The STAG is pleased to invite you to the launch of « A dime and a shoe string », 
 a new publication produced by Sarah Foulquier and Sylvain Daval.
  This event will end Sarah Foulquier and Sylvain Daval's 6 month residency at 
 the STAG where they have developed their project - Self Shelf Swap - in 
@@ -110,7 +110,7 @@ project's mandate is to create a network of individual micro-libraries available
 everyone from a common shared catalogue - centralized on the Internet. The 
 development of Self Shelf Swap anticipates the Strathcona Art Gallery's 
 transition in Fall 2011 into a semi-public library, event space and reading room. 
-The manuals comprising Â« A dime and a shoe string Â» correspond to the first 
+The manuals comprising « A dime and a shoe string » correspond to the first 
 version (0.1) of the project. As the name suggests, it is a bricolage of 
 experiences and reflections on developing the project and its first technical 
 developments. Symbolically and effectively in a professional catalogue system 
@@ -120,17 +120,17 @@ manuals: How to do your library and How to participate to the STAG library. It i
 limited of 50 and will be free and available to all who attend. 
 
 The Self Shelf Swap team is composed of Foulquier and Daval, along with fellow 
-members Sebastien FeugÃ¨re, artist and computer developer, Yves Saint-larry, 
+members Sebastien Feugère, artist and computer developer, Yves Saint-larry, 
 graphist, both of whom live and work in France and Sydney Hart, an artist and 
 theorician who lives and works in UK.
 
 Sarah Foulquier lives and works in Vancouver. Born in Avignon, France, she 
-holds a DNAP (diplÃ´me national dâ€™arts plastiques) from the Ã‰cole Des Beaux-
-Arts De Lyon and a DNSEP (diplÃ´me national supÃ©rieur dâ€™arts plastiques) from 
-the Ã‰cole Nationale Des Beaux Arts de Bourges. Foulquier has participated in 
-exhibitions at the Centre Dâ€™art Contemporain (Meymac, FR), La Calavera (Lyon, 
+holds a DNAP (diplôme national d’arts plastiques) from the École Des Beaux-
+Arts De Lyon and a DNSEP (diplôme national supérieur d’arts plastiques) from 
+the École Nationale Des Beaux Arts de Bourges. Foulquier has participated in 
+exhibitions at the Centre D’art Contemporain (Meymac, FR), La Calavera (Lyon, 
 FR), Chantier Public (Lyon, FR), the Roger Tator Gallery (Lyon, FR) and Sous-
-location (MontrÃ©al, QC). She had a solo show in 2010 at Western Front, 
+location (Montréal, QC). She had a solo show in 2010 at Western Front, 
 Vancouver.
 
 Sylvain Daval was born in Aix-en Provence, France. He studied visual art at the 
@@ -173,18 +173,18 @@ A bus is available to take visitors to the opening reception, leaving the
 Or Gallery (555 Hamilton) at 7:30PM and returning at 10PM.
 
 The Or Gallery is pleased to present a new destination-based art project
-for Vancouverâ€™s Dunbar-Southlands neighbourhood by Vancouver/New York 
+for Vancouver’s Dunbar-Southlands neighbourhood by Vancouver/New York 
 based
 artist-curator Barb Choit. The Unspeakable Compromise of the Portable Work
 is a series of exhibitions and events produced and curated by Choit in an
-open studio setting situated in a 1000sq. ft. office space near Vancouverâ€™s
+open studio setting situated in a 1000sq. ft. office space near Vancouver’s
 Dunbar Street. The offices are also currently partially occupied by Dialog
 Medical Systems Inc., a Vancouver based software company that produces
 billing software for doctors and dentists, now in the process redefining
 its business model in the face of a rapidly shifting technological marketplace.
 
 Taking cues from the seminal 1979 article The Function of the Studio by
-French conceptual artist Daniel Buren, The Unspeakable Compromiseâ€¦ will
+French conceptual artist Daniel Buren, The Unspeakable Compromise… will
 involve a collaboration between Choit and a diverse range of artists to
 produce an ever-changing configuration of artworks, performances and
 artifacts that investigate and illuminate multiple economies and reveal
@@ -194,12 +194,12 @@ workers that are subject to the same fluctuations and outside influences as
 others in information economy workforces.
 
 The offices of Dialog Medical Systems Inc. are located at 202-3540 41st
-Avenue West, in Vancouverâ€™s Dunbar-Southlands neighbourhood. The office
+Avenue West, in Vancouver’s Dunbar-Southlands neighbourhood. The office
 building itself is home to a number of businesses (predominantly
-service-industry and health related) including â€“ Dentists, Doctors, Travel
+service-industry and health related) including – Dentists, Doctors, Travel
 Agents, Mineral Extraction companies, Software companies, Investment
 companies, Physiotherapists, Laboratories, Acupuncturists and an Asian
-Womenâ€™s Health Center.
+Women’s Health Center.
 
 Artist included in the exhibition are John Anderson, Becket Bowes and Beth
 Howe, Adam Brickell, Aaron Carpenter, Nathan Gwynne + The Ice Machine and
@@ -212,7 +212,7 @@ will also maintain a blog over the course of the exhibition, hosted at
 portablework.orgallery.org
 
 The Unspeakable Compromise of the Portable Work marks the third project in
-the Or Galleryâ€™s Economies/1 series
+the Or Gallery’s Economies/1 series
 
 Or Gallery
 
@@ -230,15 +230,15 @@ Admission Free
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-07-07-05-digital-natives-xwxway-brockton-oval-stanley-park-jul-8">05. Digital Natives | XwÃ¡Ã½xway (Brockton Oval, Stanley Park) | JUL 8</a>
+<a href="/instant-coffee/listings/2011-07-07-05-digital-natives-xwxway-brockton-oval-stanley-park-jul-8">05. Digital Natives | Xwáýxway (Brockton Oval, Stanley Park) | JUL 8</a>
 ------------------------------------------------------------------------
 JULY 8, 9, 10, 2011, Noon to 11pm
 
-XwÃ¡Ã½xway (Brockton Oval, Stanley Park), Vancouver
+Xwáýxway (Brockton Oval, Stanley Park), Vancouver
 
 Free admission
 
-Other Sights for Artistsâ€™ Projects is pleased to announce that Digital Natives will 
+Other Sights for Artists’ Projects is pleased to announce that Digital Natives will 
 be included in the TIME-BASED video program, as part of SummerLive at 
 Brockton Oval in Stanley Park, Vancouver. This free event will feature outdoor 
 music stages, family entertainment, sports activities, performing and visual arts 
@@ -255,7 +255,7 @@ Vancouver organizations and archives.
 
 The Time-Based program is available here.
 
-Read Raymond Boisjolyâ€™s commentary on XwÃ¡Ã½xway
+Read Raymond Boisjoly’s commentary on Xwáýxway
 
 Time-Based blogspot.
 
@@ -329,7 +329,7 @@ Daniel Jackson, New York
 Grant Willing, Brooklyn
 Heather Martin, Vancouver
 Jennilee Marigomen, Vancouver
-Jeff Otto Oâ€™Brien, Vancouver
+Jeff Otto O’Brien, Vancouver
 Jessica Eaton, Montreal
 Les Ramsay, Vancouver
 Melissa Paget, Vancouver
@@ -389,25 +389,25 @@ This group show of new works by Maryanne Casasanta, Steven Hubert, Bitsy
 Knox and Les Ramsay examines interior and exterior spaces and explores their 
 construction, boundaries and function.
 
-Steven Hubertâ€™s painting, bearing the same title as the show, is a layered scene 
+Steven Hubert’s painting, bearing the same title as the show, is a layered scene 
 that positions the viewer looking out of a window. It expands and contracts to 
 both draw the viewer into its spatial logic and also to somehow reject their 
 interaction. 
 
-Bitsy Knoxâ€™s participation in the exhibition includes four free-standing cats, a 
+Bitsy Knox’s participation in the exhibition includes four free-standing cats, a 
 series of objects deriving from her participation in The Clifford Irving Show 
-(Objectif Exhibitions, Antwerp) by re-creating part of Robert Filiouâ€™s Raining Cats 
+(Objectif Exhibitions, Antwerp) by re-creating part of Robert Filiou’s Raining Cats 
 and Dogs. Inconspicuously included into the gallery space, they function 
 simultaneously as static objects and silent observers, negotiating the realms of 
 kitsch, set design, performance and painting.
 
-Maryanne Casasantaâ€™s Peace Bard is a hand crafted box containing hexagonal 
+Maryanne Casasanta’s Peace Bard is a hand crafted box containing hexagonal 
 cards, each of which depict naturally occurring structures and shapes found in 
 the forest. By containing these photos of the outside world, which are 
 themselves pictures of loosely defined containing structures, the boundaries and 
 operations of inside and outside are playfully recast.
 
-Les Ramsayâ€™s paintings are gently tricky, their patterns and shapes undulate, 
+Les Ramsay’s paintings are gently tricky, their patterns and shapes undulate, 
 foregrounds and backgrounds switch places fluidly. Spaces are constructed 
 and then flipped, patterns are conceived of and then broken. 
 
@@ -420,14 +420,14 @@ Micah Lexier at the Plug In Institute of Contemporary Art, Winnipeg.
 
 Steven Hubert is currently working on his MFA at Simon Fraser University. He 
 has had solo shows at CSA Space, Vancouver, Ministry of Casual Living, 
-Victoria, and Jeffrey Boone Gallery, Vancouver. Stevenâ€™s work has also been 
+Victoria, and Jeffrey Boone Gallery, Vancouver. Steven’s work has also been 
 shown at the Helen Pitt Gallery and the Or Gallery. This year he received the 
 SSHRC Joseph-Armand Bombardier Canada Graduate Scholarship.
 
 Bitsy Knox was born in Vancouver, but lives and works in Brussels, Belgium. 
 Her paintings, videos, installations, writing, and performances have recently 
 been exhibited at Komplot, Brussels, Le Commisariat, Paris, Objectif 
-Exhibitions, Antwerp, TENT, Rotterdam, and Museu dâ€™Arte Contemporani 
+Exhibitions, Antwerp, TENT, Rotterdam, and Museu d’Arte Contemporani 
 Barcelona MACBA, Barcelona, She recently completed her MFA at the Piet 
 Zwart Institute in Rotterdam. 
 
@@ -451,7 +451,7 @@ www.lesgallery.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-07-07-08-phg-satellite-gallery-damian-moppett-andrea-pinheiro-jul-8">08. PHG @ Satellite Gallery | Damian Moppett & Andrea Pinheiro | JUL 8</a>
 ------------------------------------------------------------------------
-Opening Reception: Not Photographâ€”Damian Moppett & Andrea Pinheiro
+Opening Reception: Not Photograph—Damian Moppett & Andrea Pinheiro
 
 Satellite Gallery | Friday, July 8th | 6pm-9pm
 
@@ -506,28 +506,28 @@ Satellite Gallery.
 ------------------------------------------------------------------------
 New Exhibition Website Invites Visitors to Check Into the Grand Hotel
 
-VANCOUVER, B.C. â€“ A new website created by the Vancouver Art Gallery 
+VANCOUVER, B.C. – A new website created by the Vancouver Art Gallery 
 gives visitors the opportunity to follow Gallery curators over the next two years as 
-they develop a major exhibition. As part of the Galleryâ€™s long-standing 
+they develop a major exhibition. As part of the Gallery’s long-standing 
 commitment to exhibitions examining architecture, design and visual culture, 
 Grand Hotel will explore both the design and social construction of hotels. The 
 exhibition opens in June 2013 and curators Jennifer M. Volland and Bruce 
 Grenville will share their explorations in a dedicated website and blog as they 
 shape the presentation.
 
-â€œWeâ€™re very excited about this blog and the opportunity to open the doors of 
+“We’re very excited about this blog and the opportunity to open the doors of 
 Grand Hotel so that visitors can see behind-the-scenes as we develop this 
-exhibition,â€œ says Bruce Grenville, senior curator of the Vancouver Art 
-Gallery, â€œWriting publicly about the unfolding of an exhibition in advance of the 
+exhibition,“ says Bruce Grenville, senior curator of the Vancouver Art 
+Gallery, “Writing publicly about the unfolding of an exhibition in advance of the 
 opening is a first-time experiment for usâ€ .
 
 Grand Hotel aims to chart the evolution of the hotel from its humble origins as an 
 isolate and utilitarian structure to a cultural phenomenon on the contemporary 
 global landscape. The exhibition will offer an extensive survey of historical and 
-contemporary hotel design from around the world. â€œAt the beginning of our work 
+contemporary hotel design from around the world. “At the beginning of our work 
 on this project,â€  says guest curator Jennifer M. Volland, â€œwe came to see the 
 hotel as an early example of a network. We wanted to trace the proliferation of 
-the hotel across time and space â€“ both as a formal object and as a conceptual 
+the hotel across time and space – both as a formal object and as a conceptual 
 idea â€“ from the outset. â€ 
 
 The blog component of the Grand Hotel website will function as a research tool 
@@ -540,7 +540,7 @@ exhibition, critical writings and excerpts, personal reflections by the curators
 other contributors, photo essays, interviews and topical observations on diverse 
 research subjects. The website will also share various versions of the floorplans 
 and design sketches for the exhibition as they unfold. Current posts include 
-essays on the evolution of San Franciscoâ€™s renowned Clift Hotel, the influence of 
+essays on the evolution of San Francisco’s renowned Clift Hotel, the influence of 
 hotels in selling a lifestyle, and the origins of the hotel as a building type. Updates 
 are available via Twitter @grandhotelex or RSS.
 
@@ -590,7 +590,7 @@ Canadian Art Foundation. With special thanks to Hannah Hughes.
 The Contemporary Art Gallery is generously supported by the Canada Council for the Arts, the Province of British Columbia, and the City of Vancouver. We are grateful for the support of Vancouver Foundation and our members, donors, and volunteers.
 
 
-Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm.  Admission is by donation. For more information please contact:   info@contemporaryartgallery.ca or 604.681.2700
+Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm.  Admission is by donation. For more information please contact:   info@contemporaryartgallery.ca or 604.681.2700
 
 
 
@@ -741,7 +741,7 @@ matters of mental health affect each and every one of us. With your permission
 we will add you to our Flickr photo group and potentially project your image within 
 a collection around Vancouver. You donâ€™t have to have a â€œmental health issueâ€  or 
 illness to be supporter. Face your own mind, reveal your identity in a display of 
-solidarity and support everyoneâ€™s mental wellness.
+solidarity and support everyone’s mental wellness.
 
 Donating to our Face Your Mind campaign will enable us to support the work of 
 artists who identify with mental health issues and who are participating in our 
@@ -750,7 +750,7 @@ struggling with mental illness and in support of our gallery, as we face the
 challenge of surviving through an increasingly impoverished arts and mental 
 health funding climate. Our presence within these communities is crucial and we 
 cannot continue to produce our exhibitions and programming initiatives without 
-your help. Please give what you can afford, even if itâ€™s just a photo.
+your help. Please give what you can afford, even if it’s just a photo.
 
 HOW TO HELP
 
@@ -759,7 +759,7 @@ giving us your permission to use your image in our Face Your Mind Campaign.
 
 Donations can be made through Pay Pal via credit card, through our website, 
 www.gachet.org, or by check or cash at our location at 88 East Cordova Street. 
-Please call 604 687 2468 and let us know you wish to donate to our â€œFace Your 
+Please call 604 687 2468 and let us know you wish to donate to our “Face Your 
 Mind Campaignâ€ .
 
 We thank you for your support and contributions.
@@ -778,7 +778,7 @@ Exhibition runs: July 8th - 31st
 featuring the work of Collective and Volunteer Members
 Fri July 8th: 6 - 8pm, Opening Un-reception
 8 - 10pm, Stand Up for Mental Health Comedy Night
-Thurs July 14th: 8pm - late, Mad Poetsâ€™ Anti-cabaret sponsored by the West 
+Thurs July 14th: 8pm - late, Mad Poets’ Anti-cabaret sponsored by the West 
 Coast Mental Health Network
 Fri July 22nd: 7 - 10pm, Stand Up for Mental Health Comedy Night
 Sat July 23rd: 2 - 4pm, RE: Beauty, special workshop with Isabella Mori
@@ -792,10 +792,10 @@ economic justice, Gallery Gachet embraces Mad Pride as a unique vantage
 point from which to address current issues in an alternative framework: that of 
 cultural and global mental health.
 
-This yearâ€™s programming theme embraces and jostles with ideas 
+This year’s programming theme embraces and jostles with ideas 
 around â€œmodes of recoveryâ€ . The gallery is facing major financial cut backs this 
 year and with practically no money to run programming, we are responding in 
-our usual mad and crazy way â€“ with a non-exhibit, anti-cabaret and comedy for 
+our usual mad and crazy way – with a non-exhibit, anti-cabaret and comedy for 
 our Mad Pride celebrations. We are defying the usual parameters and breaking 
 new ground in the face of â€œzero dollars.â€ 
 
@@ -829,7 +829,7 @@ rather than succumb to crisis. We aim to create what theorist Hakim Bey calls
 a â€œTemporary Autonomous Zoneâ€  facing these issues head-on.
 
 Our objective is to reach out to the global mental health community, especially in 
-B.C. In a quest to gain support, weâ€™ll call out to people to face their own mental 
+B.C. In a quest to gain support, we’ll call out to people to face their own mental 
 health and give us a photo of themselves in their support of our Mad Pride 
 initiative. We activate this Face Your Mind photo campaign during the month of 
 July and create a photo gallery on one wall that will grow during the duration of 
@@ -958,13 +958,13 @@ the Emily Carr University of Art and Design. Since that time he has been an
 active participant in the community, producing the vast amount of work included 
 in the exhibition along with various other sound, paint and print projects, which 
 are the areas he focused on while at the Emily Carr University of Art and Design. 
-The works in Da Carnivalesque reflect Urpiâ€™s zeal for life as he uses objects that 
-might be considered part of the so-called â€˜everyday,â€™ but are moreover illustrative 
+The works in Da Carnivalesque reflect Urpi’s zeal for life as he uses objects that 
+might be considered part of the so-called ‘everyday,’ but are moreover illustrative 
 of a playful imagination reflected in the kitschy and garish aspects of his 
-installation work. Urpiâ€™s formal considerations are tactile and geometric, creating 
+installation work. Urpi’s formal considerations are tactile and geometric, creating 
 an overarching stimulation of the senses that is at once grotesque and 
 sensuous, calling up a Rococo aesthetic that has become carnal and 
-uninhibited. His intuitive working process lends to the exhibitionâ€™s unadulterated 
+uninhibited. His intuitive working process lends to the exhibition’s unadulterated 
 celebration embodied in Carnival festivities across the world, where circus and 
 masquerade subvert the the mundane-ness of the everyday, thereby bringing 
 balance to the order of things, if only for a short time. The Gam Gallery is 
@@ -1018,7 +1018,7 @@ Myles Bigelow
 19 Adam Chodzko: Something in the Water; A Search for the Turn of the 
 Backwash
 
-Program dates: November 14 â€“ December 9, 2011
+Program dates: November 14 – December 9, 2011
 
 Application deadline: July 15, 2011
 
@@ -1027,9 +1027,9 @@ Guests: Simon Starling, Martin Clark
 By utilising art to explore new ways of relating to each other it's time to reveal 
 and tamper with the networks that connect individual subjectivity to wider 
 collective and unconscious flows in the world. What unspeakable truth rises to 
-the surface from this kind of looking? Itâ€™s a collaboration. Each participant 
-contributing equally, sharing authorship. Whilst thereâ€™ll be plenty of opportunity for 
-individual studio practice weâ€™ll navigate this residency through field trips, hikes, 
+the surface from this kind of looking? It’s a collaboration. Each participant 
+contributing equally, sharing authorship. Whilst there’ll be plenty of opportunity for 
+individual studio practice we’ll navigate this residency through field trips, hikes, 
 meetings with â€œrealâ€  people, collaborative video projects, individual quests, a lot 
 of â€œshow and tell,â€  too much late night Googling, coincidences and 
 misunderstandings, all tempered with the enjoyment of the potential to be found 
@@ -1037,7 +1037,7 @@ in getting radically lost.
 
 20 Trading Post with Candice Hopkins
 
-Program dates: January 4 â€“ February 21, 2012
+Program dates: January 4 – February 21, 2012
 
 Application deadline: July 25, 2011
 
@@ -1048,11 +1048,11 @@ and to explore the potential of trade. Trading Post will not address a single th
 but instead bring together a diverse group of Aboriginal and Indigenous cultural 
 workers within a collaborative environment in order to consider the potentiality 
 and limits of exchange. Please note: Enrolment to this program is limited to 
-individuals of Aboriginal descent (status, non-status, MÃ©tis, or Inuit).
+individuals of Aboriginal descent (status, non-status, Métis, or Inuit).
 
 02 Ken Lum's Master Class: Art and the effects of the Real
 
-Program dates: January 4 â€“ February 21, 2012
+Program dates: January 4 – February 21, 2012
 
 Application deadline: July 25, 2011
 
@@ -1096,7 +1096,7 @@ KARLHEINZ WEINBERGER
 Presentation House Gallery is pleased to present an exhibition of rare vintage 
 photographs by Karlheinz Weinberger (1921-2006), that together with 
 magazines and samples of vintage D.I.Y. clothing, document a youth subculture 
-in Zurich that emerged in the aftermath of the Second World War and was â€œbent 
+in Zurich that emerged in the aftermath of the Second World War and was “bent 
 on subverting Swiss propriety.â€ 
 
 Living in Zurich, Switzerland, Weinberger was a self-taught â€œamateurâ€  
@@ -1111,15 +1111,15 @@ In 1958, Weinberger met and began photographing members of a small band of
 teenagers. In post-war Switzerland, these self-named â€œrebelsâ€  (referred to by the 
 Swiss as â€œHalbstarkâ€  or â€œhalf strongâ€ ) were comprised of working class boys and 
 girls dissatisfied by the conservative climate of the day. They adopted a gang 
-identity modeled on American pop iconsâ€”with exaggerated hairdos and 
-homemade clothingâ€”in the manner of James Dean and Elvis Presley. Through 
-Weinbergerâ€™s empathetic and obsessive gaze, the teens reveal a mix of 
+identity modeled on American pop icons—with exaggerated hairdos and 
+homemade clothing—in the manner of James Dean and Elvis Presley. Through 
+Weinberger’s empathetic and obsessive gaze, the teens reveal a mix of 
 defiance and vulnerability, like rebellious adolescents anywhere, and a complex 
 expression of social identity.
 
-This exhibition marks the first opportunity to see Karlheinz Weinbergerâ€™s 
+This exhibition marks the first opportunity to see Karlheinz Weinberger’s 
 compelling photographs in Canada. In keeping with many of Presentation House 
-Galleryâ€™s unique projects, it celebrates previously unknown and vernacular 
+Gallery’s unique projects, it celebrates previously unknown and vernacular 
 aspects of photographic history.
 
 Intimate Stranger is curated by Gianni Jetzer in collaboration with the Estate of 
@@ -1148,7 +1148,7 @@ project celebrating Vancouver 125.
 Movement For Two Grannies is an elegant and ethereal work of cinematography 
 that features two Chinese grannies engaged in a moment of intimate and 
 affectionate friendship. Shot on green screen, the backlit grannies are placed 
-against a shimmering flow â€“ oceanic, vast and expansive, rippling with an 
+against a shimmering flow – oceanic, vast and expansive, rippling with an 
 ancient lineage. The scene is surreal, sensual and serene, unlike the 
 environment of the Canada Line Skytrain Stations. The slow movements of the 
 grannies are in sharp contrast to the function of Light Rapid Transit systems 
@@ -1156,8 +1156,8 @@ designed to move commuters efficiently, spaces not user-friendly for our
 grannies. Here, Laiwan proposes an endearing rendition of a 10-second action 
 movie, unhurried and cherished.
 
-â€œFor the 125th birthday of Vancouver, I celebrate my elders with â€˜Movement For 
-Two Granniesâ€™. With tenacity, endurance, resilience and humour they move 
+“For the 125th birthday of Vancouver, I celebrate my elders with ‘Movement For 
+Two Grannies’. With tenacity, endurance, resilience and humour they move 
 forward passing on values and ethics, rituals and philosophies, through daily 
 movements that ripple out beyond Vancouver. Their legacy and lineage are the 
 foundations of a strong, vibrant cultural community in Chinatown. Dedicated to 
@@ -1211,7 +1211,7 @@ Deadline: postmarked July 31 2011
 Papirmasse is putting out a postcard issue to celebrate the summer! We want 
 your laziest, tawdriest, sexiest, slummingest, most adventurous summer stories 
 and images. Did you climb a mountain? Throw up at a wedding reception? Win a 
-national election? Whatever the case may be â€“ real or fictional â€“ we want to see 
+national election? Whatever the case may be – real or fictional – we want to see 
 it.
 
 You can submit either a short story (max. 300 words) or a visual image.
@@ -1221,7 +1221,7 @@ How to submit:
 This is a postcard issue, and we want you to submit by mailing us a postcard.
 
 Artists: mail us a 5.25 x 7.25 inch postcard that visually addresses the theme of 
-what you did on your summer vacation. Donâ€™t worry about making it too literal â€“ 
+what you did on your summer vacation. Don’t worry about making it too literal – 
 we like a little imagination. On the back please include your full name, website (if 
 you have one), mailing address, e-mail address, and phone number.
 
@@ -1230,7 +1230,7 @@ be either typed or handwritten, and all forms of writing are accepted. On the ba
 please include your full name, website (if you have one), mailing address, e-mail 
 address, and phone number.
 
-Please note that the final print size will be 5Ã—7 inches.
+Please note that the final print size will be 5×7 inches.
 
 Send entries to:
 
@@ -1257,10 +1257,10 @@ For full information on prizes please visit www.papirmasse.com/art/?p=1428
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-07-07-21-creating-the-tools-computational-aesthetics-opening-aug-5">21. Creating the Tools | Computational Aesthetics Opening | AUG 5</a>
 ------------------------------------------------------------------------
-Creating the Tools â€“ Computational Aesthetics Opening | Marriot Downtown | 
+Creating the Tools – Computational Aesthetics Opening | Marriot Downtown | 
 AUG 5
 ---------------------------------------------------------------------------------
-Vancouver Marriott Pinnacle Downtown Hotel Â· 1128 West Hastings Street Â· 
+Vancouver Marriott Pinnacle Downtown Hotel · 1128 West Hastings Street · 
 Vancouver
 Public Art Opening: Fri Aug 5, 5:30 pm
 Symposium: Aug 5-7 (9 am each day)

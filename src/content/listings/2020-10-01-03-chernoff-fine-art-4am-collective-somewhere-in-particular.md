@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | 4AM Collective - Somewhere in Particular"
 ---
 

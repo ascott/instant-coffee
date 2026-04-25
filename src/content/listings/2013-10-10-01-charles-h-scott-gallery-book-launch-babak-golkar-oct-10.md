@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 1
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Book Launch: Babak Golkar | OCT 10"
 ---
 

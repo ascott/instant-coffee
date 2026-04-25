@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | ELIZABETH MCINTOSH | NOV 18"
 ---
 
@@ -35,7 +36,7 @@ time McIntosh has worked with collage in this scale, but it is the first
 instance in which she has built a structure as the ground.
 
 Recent solo exhibitions include A Good Play, Diaz Contemporary, Toronto
-(2010), Cut Out, Goodwater, Toronto (2009) and Parisian Laundry, MontrÃ©al.
+(2010), Cut Out, Goodwater, Toronto (2009) and Parisian Laundry, Montréal.
 She has participated in group exhibitions at the Vancouver Art Gallery
 (2006), Santa Monica Museum of Art (2006), and Hallwalls, Buffalo, (2003).
 In 2010, Emily Carr University Press in collaboration with Diaz

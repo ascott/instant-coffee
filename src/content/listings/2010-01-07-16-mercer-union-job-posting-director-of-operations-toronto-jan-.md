@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 16
 type: ""
+venue: "Mercer Union"
 summary: "Mercer Union | JOB POSTING: Director of Operations, Toronto | JAN 15"
 ---
 

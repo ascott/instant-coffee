@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 41
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Culture Crawl 16mm Film Workshop | NOV 28"
 ---
 
@@ -11,7 +12,7 @@ Cineworks and Eastside Culture Crawl present:
 
 An Introduction to Creating Handmade 16mm Films
 
-Sat 28 November, 1.00pm â€“ 5.00pm
+Sat 28 November, 1.00pm – 5.00pm
 Cineworks Annex, 235 Alexander Street (lane entrance)
 Eastside Culture Crawl Special Price: $20(+ taxes)
 Instructor: Jesse Andrewartha

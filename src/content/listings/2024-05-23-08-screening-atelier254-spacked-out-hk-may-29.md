@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Atelier254 | Spacked Out (HK) | MAY 29"
 ---
 

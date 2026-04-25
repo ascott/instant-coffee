@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Slice of Life Gallery"
 summary: "Slice of Life Gallery | The Secret Thread"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "VAG"
 summary: "VAG | Riopelle: Crossroads in Time | MAR 21"
 ---
 

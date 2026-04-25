@@ -17,9 +17,9 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-05-26-05-unitpitt-projects-public-access-1999-and-beyond-may-27">05. UNIT/PITT Projects | Public Access: 1999 And Beyond. | MAY 27</a>
 <a href="/instant-coffee/listings/2011-05-26-06-centre-a-howie-tsui-may-28">06. Centre A | Howie Tsui | MAY 28</a>
 <a href="/instant-coffee/listings/2011-05-26-07-japanese-canadian-national-museum-monogatari-tales-of-powell">07. Japanese Canadian National Museum | Monogatari, Tales of Powell Street | MAY 28</a>
-<a href="/instant-coffee/listings/2011-05-26-08-other-sights-for-artists-projects-grow-by-holly-schmidt-may-">08. Other Sights for Artistâ€™s Projects | GROW by Holly Schmidt | MAY 28</a>
+<a href="/instant-coffee/listings/2011-05-26-08-other-sights-for-artists-projects-grow-by-holly-schmidt-may-">08. Other Sights for Artist’s Projects | GROW by Holly Schmidt | MAY 28</a>
 <a href="/instant-coffee/listings/2011-05-26-09-museum-of-anthropology-guest-lecture-dr-donald-m-stadtner-ma">09. Museum of Anthropology | Guest Lecture: Dr. Donald M. Stadtner | MAY 29</a>
-<a href="/instant-coffee/listings/2011-05-26-10-day-for-night-films-in-the-afternoon-claire-denis-franois-tr">10. Day for Night: Films in the Afternoon | Claire Denis & FranÃ§ois Truffaut | MAY 29</a>
+<a href="/instant-coffee/listings/2011-05-26-10-day-for-night-films-in-the-afternoon-claire-denis-franois-tr">10. Day for Night: Films in the Afternoon | Claire Denis & François Truffaut | MAY 29</a>
 <a href="/instant-coffee/listings/2011-05-26-11-museum-of-anthropology-carl-beam-last-week-may-29">11. Museum of Anthropology | Carl Beam | LAST WEEK! | MAY 29</a>
 <a href="/instant-coffee/listings/2011-05-26-12-satellite-gallery-peter-morins-museum-artist-performance-and">12. Satellite Gallery | Peter Morin's Museum: Artist Performance and Book | MAY 29</a>
 <a href="/instant-coffee/listings/2011-05-26-13-the-crying-room-the-writing-on-the-wall-alex-morrison-until-">13. The Crying Room: The Writing on the Wall | Alex Morrison | until | MAY 30</a>
@@ -134,7 +134,7 @@ Arts, The Leon and Thea Koerner Foundation, 2010 Legacies Now (Arts Now),
 and the Doris Shadbolt Endowment Fund for the Arts. It is published in
 cooperation with UBC Press.
 
-â€”
+—
 For more information contact:
 Naomi Sawada, tel: 604-822-3640, naomi.sawada@ubc.ca
 Morris and Helen Belkin Art Gallery
@@ -181,14 +181,14 @@ grunt gallery demian@grunt.ca
 ------------------------------------------------------------------------
 LAURA PIASTA
 The Smallest of Victories
-May 27th â€“ July 2, 2011
-Opening Reception Friday May 27, 7pm â€“ 11pm (Artist in Attendance)
+May 27th – July 2, 2011
+Opening Reception Friday May 27, 7pm – 11pm (Artist in Attendance)
 
 This exhibit of new works by Laura Piasta uses geometry as a motif to
 signify a system that can stand in for an abstract concept. Using
-repetition to focus the viewerâ€™s attention on relationships between forms,
+repetition to focus the viewer’s attention on relationships between forms,
 one is drawn into contemplation of the conceptual narratives behind the
-work in a way which goes beyond a rational understanding of them. Piastaâ€™s
+work in a way which goes beyond a rational understanding of them. Piasta’s
 practice derives from her experience as a dancer, where music and emotions
 were revealed through the lines and positioning of the body. This same
 disclosure of concepts through placement of the physical is echoed in this
@@ -197,7 +197,7 @@ physical properties of the pieces one is able to understand the conceptual
 framework of the works in a way which touches on a transcendent or an
 intuitive awareness of meaning.
 
-Laura Piasta is currently working towards her Masterâ€™s of Fine Arts at Umea
+Laura Piasta is currently working towards her Master’s of Fine Arts at Umea
 Academy of Fine Arts in Sweden. She has had a solo show at Blanket Gallery,
 Vancouver and has shown at the Atelierhof, Berlin, The Grim Museum, Berlin
 and The Contemporary Art Gallery, Vancouver. In 2007 she received a VADA award.
@@ -354,13 +354,13 @@ Arts, the Ontario Arts Council, and the City of Ottawa.
 ------------------------------------------------------------------------
 Monogatari, Tales of Powell Street (1920 - 1941)
 Opening party, Friday, May 27, 7-9pm
-Exhibit May 28 â€“ October 1, 2011
+Exhibit May 28 – October 1, 2011
 Japanese Canadian National Museum
 6688 Southoaks Crescent, Burnaby, BC V5E 4M7 Canada
 
 Discover the many monogatari (tales) of Powell Street - the vibrant pre-war
 commercial and residential district of the Japanese community in Vancouver.
-By 1921, most of Vancouverâ€™s 4000 Japanese residents lived in or within
+By 1921, most of Vancouver’s 4000 Japanese residents lived in or within
 walking distance of the area. The street bustled with vegetable and fish
 markets, businesses, traditional Japanese bath houses and food stores. It
 was a unique mingling of traditional Japanese culture with contemporary
@@ -371,7 +371,7 @@ in groups to Strathcona School and then on to the Japanese Language School
 in the afternoon.
 
 In 1942, due to racism, political and economic opportunism, almost 22,000
-people of Japanese ancestry were uprooted from their homes in BC â€“ almost
+people of Japanese ancestry were uprooted from their homes in BC – almost
 half of those people came from the Powell Street area. Only a few Japanese
 Canadians ever returned to the area.
 
@@ -385,18 +385,18 @@ creations. Many posters designers have gone on to become important artists
 in the community including Tamio Wakayama, Kaori Kasai, Lotus Miyashita,
 Lynda Nakashima and Kathy Shimizu.
 
-Museum hours: Tuesday â€“ Saturday 11am â€“ 5pm
+Museum hours: Tuesday – Saturday 11am – 5pm
 First Thursday open until 9pm
 Admission by donation
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-05-26-08-other-sights-for-artists-projects-grow-by-holly-schmidt-may-">08. Other Sights for Artistâ€™s Projects | GROW by Holly Schmidt | MAY 28</a>
+<a href="/instant-coffee/listings/2011-05-26-08-other-sights-for-artists-projects-grow-by-holly-schmidt-may-">08. Other Sights for Artist’s Projects | GROW by Holly Schmidt | MAY 28</a>
 ------------------------------------------------------------------------
-Grow: May 1 â€“ November 30 2011
+Grow: May 1 – November 30 2011
 
 Lead Artist: Holly Schmidt
 
-Other Sights for Artistâ€™s Projects is pleased to present Grow, a public art
+Other Sights for Artist’s Projects is pleased to present Grow, a public art
 project that acts as a public forum, teaching tool and creative laboratory
 for ecological and social sustainability practices in South East False
 Creek (SEFC), Vancouver, Canada.
@@ -437,8 +437,8 @@ and activist.
 Other Sights and the Grow project are pleased to be partnering with the
 Vancouver Design Nerds and the Environmental Youth Alliance.
 
-Presented by Other Sights for Artistâ€™s Projects, Grow is part of an
-on-going series of artistâ€™s works that address issues of sustainability in
+Presented by Other Sights for Artist’s Projects, Grow is part of an
+on-going series of artist’s works that address issues of sustainability in
 the development of South East.
 
 Contact:
@@ -477,10 +477,10 @@ also tells the little-known
 
 story of how, fifty years ago, the Canadian artist and â€œdiscovererâ€  of
 Inuit art, James Houston, travelled to Japan to study printmaking with
-Unâ€™ichi Hiratsuka.
+Un’ichi Hiratsuka.
 
 In conjunction with this exhibit is: Faces and Voices of the Inuit Art
-Market â€“ A UBC Student Exhibit
+Market – A UBC Student Exhibit
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2
@@ -490,10 +490,10 @@ More information can be found at http://www.moa.ubc.ca/exhibits.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-05-26-10-day-for-night-films-in-the-afternoon-claire-denis-franois-tr">10. Day for Night: Films in the Afternoon | Claire Denis & FranÃ§ois Truffaut | MAY 29</a>
+<a href="/instant-coffee/listings/2011-05-26-10-day-for-night-films-in-the-afternoon-claire-denis-franois-tr">10. Day for Night: Films in the Afternoon | Claire Denis & François Truffaut | MAY 29</a>
 ------------------------------------------------------------------------
 Day for Night: Films in the Afternoon presents a double bill of French
-cinema: Claire Denis's "Beau Travail" and FranÃ§ois Truffaut's "The
+cinema: Claire Denis's "Beau Travail" and François Truffaut's "The
 Story of Adele H."
 
 The Waldorf Hotel |1489 East Hastings
@@ -518,20 +518,20 @@ punctuations.
 
 Followed at 3:45 by:
 
-L'Histoire d'AdÃ¨le H. (The Story of Adele H.)
-Directed by FranÃ§ois Truffaut
+L'Histoire d'Adèle H. (The Story of Adele H.)
+Directed by François Truffaut
 1975
 95 minutes
 
-Based on the real-life diaries of AdÃ¨le Hugo (and impeccably
+Based on the real-life diaries of Adèle Hugo (and impeccably
 photographed by Nestor Almendros), The Story of Adele H. is a
 psychological drama opening in Halifax, Nova Scotia, in the 1860s. The
-daughter of famous French writer Victor Hugo, AdÃ¨le (Isabelle Adjani)
-has left her father's home to seek out her fiancÃ©, the English soldier
+daughter of famous French writer Victor Hugo, Adèle (Isabelle Adjani)
+has left her father's home to seek out her fiancé, the English soldier
 Lt. Albert Pinson (Bruce Robinson). Pinson wants nothing to do with
 her, but she still obsessively follows him and spies on his affairs.
 Unable to cope with the truth, and using her imagination and her
-feelings as carefully as someone writing a piece of fiction, AdÃ¨le
+feelings as carefully as someone writing a piece of fiction, Adèle
 created another world where she became Lieutenant Pinson's wife, where
 love was her religion (and no humiliation too great a sacrifice), and
 where she kept a coded journal. It is this journal that is the basis
@@ -543,12 +543,12 @@ Both films are in French with English subtitles
 <a href="/instant-coffee/listings/2011-05-26-11-museum-of-anthropology-carl-beam-last-week-may-29">11. Museum of Anthropology | Carl Beam | LAST WEEK! | MAY 29</a>
 ------------------------------------------------------------------------
 The exhibition, organized by the National Gallery of Canada, features a
-selection of 50 of Beamâ€™s most remarkable works spanning his 30-year
+selection of 50 of Beam’s most remarkable works spanning his 30-year
 career, from his monumental-scale paintings and constructions, to his
-ceramics and video. Carl Beam (1943-2005) was born in Mâ€™Chigeeng (West Bay)
+ceramics and video. Carl Beam (1943-2005) was born in M’Chigeeng (West Bay)
 on Manitoulin Island. Of Ojibway heritage, the artist has exerted a strong
 influence on a whole generation of Aboriginal artists and has been
-instrumental in the development of the art of Canadaâ€™s First Nations. He is
+instrumental in the development of the art of Canada’s First Nations. He is
 renowned for his powerful combinations of highly charged images from his
 personal Anishinaabe aesthetic, which is more akin to the expressive
 layering of Rauschenberg than the traditional forms of Anishinabek
@@ -618,15 +618,15 @@ ELOQUENT MONOLOGUES OF THE INTACT CICLES
 
 ERIK JEREZANO
 
-Opening Reception: Thursday June 2nd, 7 â€“ 11 p.m. (performance at 9 p.m.)
+Opening Reception: Thursday June 2nd, 7 – 11 p.m. (performance at 9 p.m.)
 
-June 3 â€“ 25, 2011
+June 3 – 25, 2011
 
-Shudder Gallery is pleased to present Erik Jerezanoâ€™s latest exhibition of
+Shudder Gallery is pleased to present Erik Jerezano’s latest exhibition of
 drawings, titled â€œEloquent Monologues of the Intact Ciclesâ€ , presents a
 world inhabited by bizarre composite creatures and circumstances. The
-exhibition runs in conjunction with Music Waste Vancouverâ€™s premier
-independent music festival highlighting the regionâ€™s most exciting and
+exhibition runs in conjunction with Music Waste Vancouver’s premier
+independent music festival highlighting the region’s most exciting and
 innovative bands with a performance by Sean Parker
 
 Jerezano is renowned for his highly visionary drawings, which delve into
@@ -634,21 +634,21 @@ metamorphosis. For him, the creative process requires the pursuit of a
 balance that is both visual and emotional. He does not set out with a
 preconceived idea but rather waits for the image to speak and lead him to
 new forms. Gradually he has evolved a personal mythology as he explores his
-psyche through the magical medium of his imagination. Jerezanoâ€™s beasts
+psyche through the magical medium of his imagination. Jerezano’s beasts
 seem to have their own evolutionary mechanism of change affected by chance,
 influences and circumstances.
 
 Jerezano remembers stories told to him by different family members in
 Mexico about â€œnahualesâ€ , who are people that can change form to become
 animals. He uses this poetic possibility to explore transmutation. Images
-move fluidly from skeletons to comically naÃ¯ve mounds with teeth. The works
+move fluidly from skeletons to comically naïve mounds with teeth. The works
 are always questioning reality and posing eccentric reinterpretations.
 
 Born in Mexico, Jerezano immigrated to Canada in 2001. Indeed, he sees a
 link between the immigration process, which always leaves something behind,
 and the habitual loss of limbs in his drawings.
 
-Jerezano lives and works in Toronto. He is a member of the Zâ€™otz*
+Jerezano lives and works in Toronto. He is a member of the Z’otz*
 collective and while living and working in Mexico he was a part of an
 collective that worked on outdoor murals. He is represented by Galerie
 Trois Points in Montreal, General Hardware Contemporary in Toronto and
@@ -660,7 +660,7 @@ Shudder Gallery
 
 Vancouver V6A 2R9
 
-Gallery hours: Thursday â€“ Saturday 12:30 â€“ 5:30 p.m.
+Gallery hours: Thursday – Saturday 12:30 – 5:30 p.m.
 
 http://shuddergallery.com
 
@@ -719,7 +719,7 @@ Various Artists and Video Screening
 Preteen Gallery (Mexico City)
 Petra Cortright
 Season (Seattle)
-Lucas Blalock, Dawn Cerny, Natalie HÃ¤usler, Rachel Kaye, Adam Marnie,
+Lucas Blalock, Dawn Cerny, Natalie Häusler, Rachel Kaye, Adam Marnie,
 Shannon McConnell, Philip Miner, Peter Scherrer, Mike Simi, Bradley
 Rubenstein, Jesse Sugarmann, Ian Toms, Marius Wilms
 Unit/Pitt Projects (Vancouver)
@@ -771,7 +771,7 @@ These misty landscapes float somewhere near minimalism, the focus of
 the viewer drawn towards the fog shapes. In certain images the hues
 are dreamy, while in others the smoke infusion appears bizarre. The
 contrast of the synthetic within these outdoor settings results in
-unearthly landscapes, highlighting Bubasâ€™s well-known ability to
+unearthly landscapes, highlighting Bubas’s well-known ability to
 create mysterious and captivating narratives within her images.
 
 MONTE CLARK GALLERY
@@ -800,7 +800,7 @@ of One Big Hapa Family. Q&A will follow screening. Rated PG.
 After a realization at a family reunion, half Japanese-Canadian filmmaker,
 Jeff Chiba Stearns, embarks on a journey of self-discovery to find out why
 everyone in his Japanese-Canadian family married interracially after his
-grandparentsâ€™ generation. This feature live action and animated documentary
+grandparents’ generation. This feature live action and animated documentary
 explores why almost all Japanese-Canadians are marrying interracially, and
 how their mixed children perceive their unique multiracial identities.
 
@@ -884,11 +884,11 @@ Email: info@lattimergallery.com
 
 LANDMARK GALLERY CELEBRATES 25 YEARS IN THE SAME LOCATION
 
-VANCOUVER, BC â€“ MAY 20, 2011: Plastic pails and manufactured toys arenâ€™t
+VANCOUVER, BC – MAY 20, 2011: Plastic pails and manufactured toys aren’t
 exactly the traditional objects that come to mind when considering
 Northwest Coast Native art. Materials like argillite, gold, silver and
 cedar may seem more familiar. Disrupting the conventional boundaries of
-traditional Northwest Coast art isnâ€™t a new topic, but it is one that
+traditional Northwest Coast art isn’t a new topic, but it is one that
 ignites an extensive, polarized dialogue. Both emerging and established
 artists within this market strive to contest what some people view as a
 limited art form, while simultaneously incorporating techniques and
@@ -898,7 +898,7 @@ On June 9th, 1986, Leona opened the doors of Leona Lattimer Gallery and
 made her first sale. Her investment in the artists as individuals and her
 commitment to the quality of their work became the foundation for a
 business based on personal relationships. Twenty-five years later, in the
-same location, Leonaâ€™s grandson Peter Lattimer of Lattimer Gallery
+same location, Leona’s grandson Peter Lattimer of Lattimer Gallery
 continues to support and encourage artists to create pieces without
 restrictions. In celebration of our silver anniversary, we will be
 showcasing twenty-five different pieces by twenty-five different artists.
@@ -906,7 +906,7 @@ There will be unique creations from the minds of young artists displayed
 alongside masterpieces of some of the greatest Native artists known such as
 Bill Reid, Earl Muldon, Norval Morrisseau and Daphne Odjig.
 
-The show will be on display at the gallery from June 9th â€“ June 30th and a
+The show will be on display at the gallery from June 9th – June 30th and a
 preview of the pieces will be available on our website on June 1st. Join us
 at the gallery for our opening reception on Thursday, June 9th from 5pm-8pm
 to celebrate the dedication of our artists, friends and family in helping
@@ -933,7 +933,7 @@ photography, Performance Photography extends participants a
 once-in-a-lifetime opportunity to immerse themselves in the exclusive world
 of photographing the performing arts. Over the course of this seven-day
 program, faculty will introduce methods of photography for creative
-exploration, and participants will delight in The Banff Centreâ€™s
+exploration, and participants will delight in The Banff Centre’s
 multi-faceted field work opportunities with our Dance, Theatre, Opera, and
 Music performers.
 
@@ -963,21 +963,21 @@ Field 103W by Janet Bright
 
 Our Communities Our Stories: You Look Marvelous!
 
-Womenâ€™s garments and accessories from the Permanent Collection
+Women’s garments and accessories from the Permanent Collection
 
 The Reach Gallery Museum Abbotsford
 32388 Veterans Way
 June 16 to October 9, 2011
 Opening Reception: Thursday, June 16, 2011 at 7pm
 
-May 25, 2011, Abbotsford, BCâ€¦..The Reach Gallery Museum Abbotsford opens
+May 25, 2011, Abbotsford, BC…..The Reach Gallery Museum Abbotsford opens
 four new exhibitions for Summer 2011: The Tree: From the Sublime to the
 Social, organized and circulated by the Vancouver Art Gallery and curated
 by Daina Augaitis, Chief Curator/ Associate Director, with Emmy Lee,
 Assistant Curator; Fraser Valley 2011 Biennale, presented in collaboration
 with the Abbotsford, Langley, Maple Ridge and Mission Arts Councils; Field
 103W by Janet Bright and Our Communities Our Stories: You Look Marvelous!
-Womenâ€™s garments and accessories from the Permanent Collection. The
+Women’s garments and accessories from the Permanent Collection. The
 exhibitions run from June 16 to October 9, 2011, with the opening reception
 June 16 from 7 to 9pm, 32388 Veterans Way, Abbotsford.
 
@@ -985,11 +985,11 @@ The Tree: From the Sublime to the Social
 Organized and circulated by the Vancouver Art Gallery, this exhibition
 considers the tree as a subject in art from the late nineteenth century to
 the present. The Tree reveals a variety of different aesthetics and
-culture perspectives of some of British Columbiaâ€™s most important visual
-artists, from Emily Carrâ€™s well-known interpretations of the West Coast
-forests, Gordon Smithâ€™s abstracts of the natural world, Rodney Grahamâ€™s
-photographs of up-side down trees, Lawrence Paul Yuxweluptunâ€™s politically
-charged art works which explore environmental devastation to Ian Wallaceâ€™s
+culture perspectives of some of British Columbia’s most important visual
+artists, from Emily Carr’s well-known interpretations of the West Coast
+forests, Gordon Smith’s abstracts of the natural world, Rodney Graham’s
+photographs of up-side down trees, Lawrence Paul Yuxweluptun’s politically
+charged art works which explore environmental devastation to Ian Wallace’s
 photographs of mass protests against clear-cut logging of old growth
 forests. The diverse representations of the tree in this exhibition
 demonstrate its enduring power as a symbol, as well as our complex and
@@ -1015,7 +1015,7 @@ The paintings in this exhibit were created based on the self-defined theory
 of 'Memo Realism', a theory which acknowledges the importance of memory,
 recognition, connection and reflection in the creation of art intended to
 elicit emotion, reaction and a sense of satisfaction for an artist and
-inevitably the viewer of art. Brightâ€™s paintings rendered in this style
+inevitably the viewer of art. Bright’s paintings rendered in this style
 acknowledge and express the imprecision, fuzziness and these gaps of memory
 through the use of paint drippings, scrapings and intentional un-detailed
 brushwork. It is engaging then, for the viewer of these paintings, to fill
@@ -1027,10 +1027,10 @@ Our Communities Our Stories: You Look Marvelous!
 More than simply articles of clothing, our favourites carry memories and
 stories that imbue them with importance, tangible links to wonderful
 moments in our past. You Look Marvelous! reaches into the permanent
-collection closet for garments with stories to tell â€“ and look good doing it!
+collection closet for garments with stories to tell – and look good doing it!
 
 The exhibitions open Thursday, June 16 with a reception, including wine and
-hors dâ€™oeuvres, from 7 to 9pm, with opening remarks at 7:30pm. On Saturday,
+hors d’oeuvres, from 7 to 9pm, with opening remarks at 7:30pm. On Saturday,
 June 18, the Reach hosts the Biennale Arts & Cultural Fair from 1-5pm in
 the Abbotsford Civic Plaza adjacent to The Reach. The festivities include
 performances, artist demonstrations, workshops, hands on arts and more. On
@@ -1065,11 +1065,11 @@ thereach.ca
 Eco-Art Salon with Oliver Kellhammer. June 22nd 7-9pm at the Roundhouse
 Community Centre - Room B, 181 Roundhouse Mews, Vancouver, BC
 
-This event is part of the Community Arts Council of Vancouverâ€™s EcoArt
+This event is part of the Community Arts Council of Vancouver’s EcoArt
 Salon Series! Each salon will feature an environmental artist who will
-present their work - stimulating discussion around questions such as â€˜What
-it means to be an environmental artist?â€™ and â€˜What is the potential for
-community engaged environmental arts in Vancouver?â€™
+present their work - stimulating discussion around questions such as ‘What
+it means to be an environmental artist?’ and ‘What is the potential for
+community engaged environmental arts in Vancouver?’
 
 On June 22, 2011 Land artist, Oliver Kellhammer will give a talk about some
 of his projects entitled: Botanical Interventions - Open Source Landscape

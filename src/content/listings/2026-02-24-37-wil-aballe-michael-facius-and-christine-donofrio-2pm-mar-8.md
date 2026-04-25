@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 37
 type: "TALK"
+venue: "Wil Aballe"
 summary: "Wil Aballe | MICHAEL FACIUS and CHRISTINE D'ONOFRIO | 2PM | MAR 8"
 ---
 

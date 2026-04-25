@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 11
 type: ""
+venue: "Baltic Art Center"
 summary: "Baltic Art Center | 2010 AIR residency | JAN 15"
 ---
 
@@ -44,7 +45,7 @@ reviewed by an international jury. The applications are assessed on the
 basis of merit and the ability of BAC to support the proposed project.
 
 You can apply to come to BAC for a minimum of 4 weeks and a maximum of 8
-weeks during the period April â€“ June, or September â€“ December 2010. It is
+weeks during the period April – June, or September – December 2010. It is
 possible to divide your stay across two separate visits should this benefit
 your project. Please specify your preferred time and length of stay in the
 application.
@@ -86,7 +87,7 @@ screenings in conjunction with the residency and production programs.
 
 In 2009 BAC hosted the following artists and curators as part of the AIR
 program: Petra Bauer & Kim Einarsson (SE), Ruth Hege Halstensen (NO), Lise
-Harlev (DK), Sara JordenÅ‘ (SE) and Tommy StÃ¸ckel (DK).
+Harlev (DK), Sara Jordenő (SE) and Tommy Støckel (DK).
 
 Please visit www.balticartcenter.com for further information.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 19
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Tommy Ting and Maja Ngom | SEP 12"
 ---
 
@@ -27,7 +28,7 @@ and longing, which began to steep into their collaboration. It was only towards
 realizing the project that they recognized this distance as their shared space 
 and the setting for their work.
 
-Drawing upon themes from Conradâ€™s novel, the artists created echoes and 
+Drawing upon themes from Conrad’s novel, the artists created echoes and 
 webs of metaphors that were born out of their relationship to the writer and his 
 work, investigating the idea of desire and its entanglement to the colonial 
 discourse. Unearthly Waters touches upon moment of encounter with the 

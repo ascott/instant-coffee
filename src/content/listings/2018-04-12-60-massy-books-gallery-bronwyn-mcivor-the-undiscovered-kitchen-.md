@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 60
 type: "OPENING"
+venue: "Massy Books Gallery"
 summary: "Massy Books Gallery | Bronwyn McIvor: The Undiscovered Kitchen | 7-10PM | MAY 3"
 ---
 

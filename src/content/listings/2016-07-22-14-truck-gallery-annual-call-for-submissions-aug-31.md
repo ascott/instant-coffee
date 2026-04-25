@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interactive automata"
 emailDate: "Thu, 21 Jul 2016 17:00:10 -0700"
 number: 14
 type: "CALL"
+venue: "Truck Gallery"
 summary: "Truck Gallery | Annual Call for Submissions | AUG 31"
 ---
 

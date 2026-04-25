@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 8
 type: ""
+venue: "The Western Front"
 summary: "The Western Front | New Star Books Firebombing Benefit | MAR 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 32
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Access Gallery | Miss Solitude: Cuttings | APR 27"
 ---
 

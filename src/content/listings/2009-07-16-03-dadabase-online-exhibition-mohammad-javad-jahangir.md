@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 3
 type: ""
+venue: "dadabase"
 summary: "dadabase | ONLINE EXHIBITION- MOHAMMAD JAVAD JAHANGIR"
 ---
 
@@ -21,7 +22,7 @@ in the crowd that poked fun at the lack of the global media coverage
 of large pro Ahmadinejad demonstrations. The sign depicted a
 television containing a still-frame of an empty city street with the
 CNN logo at the bottom. Underneath the television set read the words
-Â³We are the invisible crowd for the western media.Â²With this series
+³We are the invisible crowd for the western media.²With this series
 of photographs, Mohammad Javad is attempting to map the social and
 economic makeup of the pro Government masses in Iran. Ignored by
 modern secular middle class as uneducated, ignorant and or hired

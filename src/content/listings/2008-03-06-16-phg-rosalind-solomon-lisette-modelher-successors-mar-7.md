@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: We're not your mother"
 emailDate: "Thu, 06 Mar 2008 09:45:28 -0800"
 number: 16
 type: ""
+venue: "PHG"
 summary: "PHG | Rosalind Solomon: Lisette Model&Her Successors | MAR 7"
 ---
 

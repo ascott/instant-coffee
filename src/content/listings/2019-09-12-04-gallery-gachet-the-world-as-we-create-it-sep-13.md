@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | The World As We Create It | SEP 13"
 ---
 

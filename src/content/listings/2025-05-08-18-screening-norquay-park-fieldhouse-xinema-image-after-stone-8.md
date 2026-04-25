@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Norquay Park Fieldhouse | XINEMA: Image after stone | 830PM | MAY 15"
 ---
 

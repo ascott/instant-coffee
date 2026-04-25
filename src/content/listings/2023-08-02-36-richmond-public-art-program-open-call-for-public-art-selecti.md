@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 36
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Open Call for Public Art Selection Panelists | SEP 28"
 ---
 

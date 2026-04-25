@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:30:20 -0700"
 number: 34
 type: ""
+venue: "Dek Unu Magazine"
 summary: "Dek Unu Magazine | November Edition | OCT 1"
 ---
 

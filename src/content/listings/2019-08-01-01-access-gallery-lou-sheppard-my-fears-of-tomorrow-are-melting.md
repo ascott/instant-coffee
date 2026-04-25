@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Access Gallery"
 summary: "Access Gallery | Lou Sheppard | My Fears of Tomorrow Are Melting Away"
 ---
 

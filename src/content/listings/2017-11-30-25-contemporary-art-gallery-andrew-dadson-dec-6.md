@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 25
 type: "TALK"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Andrew Dadson | DEC 6"
 ---
 

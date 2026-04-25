@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 21
 type: "EVENT"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Closing Reception | Steven Brekelmans | 6-9PM | FEB 28"
 ---
 

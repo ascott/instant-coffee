@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 8
 type: "OPENING"
+venue: "Gallery 295 - Lightbox Project Space"
 summary: "Gallery 295 - Lightbox Project Space | Gerri York | APR 15"
 ---
 

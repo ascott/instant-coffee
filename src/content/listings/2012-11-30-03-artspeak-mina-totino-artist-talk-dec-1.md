@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 3
 type: "TALK"
+venue: "Artspeak"
 summary: "Artspeak | Mina Totino Artist Talk | DEC 1"
 ---
 
@@ -31,5 +32,5 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

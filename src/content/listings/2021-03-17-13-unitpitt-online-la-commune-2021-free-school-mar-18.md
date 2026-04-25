@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 13
 type: "EDUCATION"
+venue: "UNIT/PITT [ONLINE]"
 summary: "UNIT/PITT [ONLINE] | La Commune 2021 Free School | MAR 18"
 ---
 

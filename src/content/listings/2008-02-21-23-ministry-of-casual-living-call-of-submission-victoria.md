@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: what duty do we do?"
 emailDate: "Thu, 21 Feb 2008 08:23:56 -0800"
 number: 23
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | CAll of Submission | Victoria"
 ---
 

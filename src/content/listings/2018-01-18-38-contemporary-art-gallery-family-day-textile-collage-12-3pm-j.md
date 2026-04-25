@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 38
 type: "EVENT"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Family Day | Textile Collage | 12-3pm | JAN 27"
 ---
 

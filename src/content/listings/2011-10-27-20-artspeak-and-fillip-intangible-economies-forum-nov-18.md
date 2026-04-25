@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 20
 type: ""
+venue: "Artspeak and Fillip"
 summary: "Artspeak and Fillip | Intangible Economies Forum | NOV 18"
 ---
 
@@ -26,7 +27,7 @@ enacting the unruly force of such transactions.
 
 Intangible Economies was initially developed through a series of texts published 
 in Fillip magazine over the past year and will culminate in a book anthology 
-published as part of Fillipâ€™s ongoing Folio Series in 2012.
+published as part of Fillip’s ongoing Folio Series in 2012.
 
 Schedule
 
@@ -40,7 +41,7 @@ Monika Szewczyk
 Olaf Nicolai
 
 Sunday, November 20, 2011
-Juan GaitÃ¡n
+Juan Gaitán
 Candice Hopkins
 Jan Verwoert
 
@@ -65,5 +66,5 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

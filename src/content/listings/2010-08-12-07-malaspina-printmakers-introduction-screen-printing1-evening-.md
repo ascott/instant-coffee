@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feeling so much doing so little"
 emailDate: "Thu, 12 Aug 2010 11:15:08 -0700"
 number: 7
 type: ""
+venue: "MALASPINA PRINTMAKERS"
 summary: "MALASPINA PRINTMAKERS | Introduction: Screen-printing1 Evening Intensives | AUG 21"
 ---
 
@@ -13,7 +14,7 @@ Introduction to Screen-printing in 1 Evening Intensives
 
 Introduction to Monotype
 
-August 21, 11 am â€“ 5 pm Saturday
+August 21, 11 am – 5 pm Saturday
 
 Course Fee: $70 Material Fee: $10
 
@@ -46,7 +47,7 @@ previous printing experience.
 
 Water-based Screen-printing
 
-September 22 â€“ October 27, 7 - 10 pm Wednesday Evenings
+September 22 – October 27, 7 - 10 pm Wednesday Evenings
 
 Course Fee: $250 Material Fee: $20
 
@@ -61,7 +62,7 @@ registering multiple layers of an image, and of course, cleaning your screens.
 
 Traditional Copperplate Etching
 
-September 18 â€“ October 30, 1 â€“ 5 pm Saturdays
+September 18 – October 30, 1 – 5 pm Saturdays
 
 Course Fee: $260 Material Fee: $60
 
@@ -75,9 +76,9 @@ class. You will also learn how to print your etching on to rag and chine
 colle paper. This course is suitable for those with no prior experience in
 printmaking or for those looking to refresh their etching skills.
 
-Speaking with Many Voices â€“ Printing with Many Processes
+Speaking with Many Voices – Printing with Many Processes
 
-September 14 â€“ November 2, 7 â€“ 10 pm Tuesday Evenings
+September 14 – November 2, 7 – 10 pm Tuesday Evenings
 
 Course Fee: $240 Material Fee: $60
 
@@ -104,7 +105,7 @@ images. Each of these images will begin with a digital layer. Etching,
 lithography monotype and relief are possibilities for successive layers.
 The studio portion of the course will be an exploration of the strengths
 and weaknesses of layering multiple printmaking techniques. The finished
-works will be considered for inclusion in the upcoming memberâ€™s exhibition.
+works will be considered for inclusion in the upcoming member’s exhibition.
 
 This course is intended to help you learn to work with multiple printing
 processes to develop images with varied layers of visual languages. In this
@@ -114,7 +115,7 @@ most suitable for those with previous experience in at least one print medium.
 
 Introduction to Collography
 
-November 6 - 27, 1 â€“ 5 pm Saturdays
+November 6 - 27, 1 – 5 pm Saturdays
 
 Course Fee: $190 Material Fee: $15
 

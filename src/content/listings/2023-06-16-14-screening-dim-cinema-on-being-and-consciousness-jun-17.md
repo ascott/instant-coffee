@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 14
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | On Being and Consciousness | JUN 17"
 ---
 

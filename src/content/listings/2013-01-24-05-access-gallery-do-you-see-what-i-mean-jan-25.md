@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 5
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Do You See What I Mean? | JAN 25"
 ---
 
 January 25-27 + February 1-3, 2013
-Do You See What I Mean? invites youâ€”the spectatorâ€”to experience Vancouver 
+Do You See What I Mean? invites you—the spectator—to experience Vancouver 
 in a radically new fashion, turning the routine of daily life into an extraordinary 
 journey of heightened senses and transformed perceptions. Created by Lyon-
 based choreographers Martin Chaput and Martial Chazallon, this captivating 
-piece of one-on-one theatre is a 2Â½ hour blindfolded tour into the streets, 
+piece of one-on-one theatre is a 2½ hour blindfolded tour into the streets, 
 storefronts and secret spaces of our city. Do You See What I Mean? is a deeply 
-transformative work wherein spectatorsâ€™ everyday worldview is radically re-
+transformative work wherein spectators’ everyday worldview is radically re-
 positioned in an emotional and interpersonal manner.
 
 Departures every 15 minutes starting at 12PM, with the last departure at 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 17
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Scott Massey | OCT 10"
 ---
 

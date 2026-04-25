@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: west winds of loss"
 emailDate: "Thu, 09 Oct 2014 11:55:48 -0700"
 number: 15
 type: ""
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | Compagnie Gilles Jobin: QUANTUM | OCT 16"
 ---
 

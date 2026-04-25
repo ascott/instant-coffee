@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 40
 type: "CALL"
+venue: "Toronto Island"
 summary: "Toronto Island | Camp Wavelength music and arts festival | APR 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 5
 type: ""
+venue: "EVERY LETTER IN THE ALPHABET"
 summary: "EVERY LETTER IN THE ALPHABET | Zain Burgess | OCT 29"
 ---
 

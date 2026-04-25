@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 2
 type: "EVENT"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Life-sized cyanotype portraits | JUL 7-AUG 3 | JUL 7"
 ---
 

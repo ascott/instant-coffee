@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 13
 type: ""
+venue: "ECU: Speaker Series"
 summary: "ECU: Speaker Series | Jo-Anne Birnie Danzker | MAR 11"
 ---
 

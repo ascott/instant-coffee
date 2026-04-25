@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 16
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Kate Bird and John Mackie | FEB 16"
 ---
 
 February 14 to March 30, 2013
 
-OPENING RECEPTION Thursday, February 14, 5:00 â€“ 8:00 PM
+OPENING RECEPTION Thursday, February 14, 5:00 – 8:00 PM
 
 EVENTS at Satellite Gallery
 
@@ -34,7 +35,7 @@ word to images.
 NEWS! will explore the developments of photography as a medium. The range 
 of pictures reveals many subjects and styles of photography: comic photo-
 ops, famous visitors, civic events, prominent politicians and anonymous 
-citizens, disasters, scandals, and plenty of sportsâ€”a specialty of many staff 
+citizens, disasters, scandals, and plenty of sports—a specialty of many staff 
 photographers. The exhibition also includes material from the archive, and 
 brings to light its intricate filing and indexing systems. 
 
@@ -43,7 +44,7 @@ Province newspapers, and is curated by Helga Pakasaar, Presentation House
 Gallery. 
 
 Satellite Gallery is located at 560 Seymour Street and is open Wednesday to 
-Saturday 12:00 â€“ 6:00 PM.
+Saturday 12:00 – 6:00 PM.
 
 For additional information go to: http://www.satellitegallery.ca or call 604-681-
 8425.

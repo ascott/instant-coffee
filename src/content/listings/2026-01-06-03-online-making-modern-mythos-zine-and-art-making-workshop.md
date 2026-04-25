@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 3
 type: "EDUCATION"
+venue: "online"
 summary: "online | Making Modern Mythos Zine and Art Making Workshop"
 ---
 

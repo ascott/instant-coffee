@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 30
 type: "CALL"
+venue: "Breach Magazine"
 summary: "Breach Magazine | Call for Submissions | MAR 30"
 ---
 

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 12
 type: ""
+venue: "SFU"
 summary: "SFU | Visual Art Student Show | MAR 5"
 ---
 
 W2 Community Media Arts and SFU Visual Art Students Present:
 
-SFUÃ¢ï¿½ï¿½s Visual Art Student Show
+SFUâ��s Visual Art Student Show
 
 March 6-14, 2010
 Opening - Friday March 5, 7pm

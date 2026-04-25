@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 17
 type: "TALK"
+venue: "gallery gachet"
 summary: "gallery gachet | Pegah Tabassinejad and Chad Wong | 4PM | MAY 31"
 ---
 

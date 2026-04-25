@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 18
 type: "CALL"
+venue: "SAVAC"
 summary: "SAVAC | Monitor 8 Call for Short Film and Video Submissio | NOV 16"
 ---
 
@@ -16,7 +17,7 @@ films and videos by/and/or about South Asians from Canada and around the
 world. We invite independent and innovative short films and videos that
 explore the aesthetic and form of the moving image and its relation to
 narrative. Monitor 8 encourages new, experimental and risk-taking work that
-challenges the viewerâ€™s active engagement. Submission details are available
+challenges the viewer’s active engagement. Submission details are available
 online at <http://savac.net/submissions/273-monitor-8-call.html> and you
 can learn more about the program here.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 41
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Andrew Dadson | Green Piece | 4PM | SEP 28"
 ---
 

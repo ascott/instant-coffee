@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 25
 type: "EVENT"
+venue: "Brady Ciel Marks and Mark Timmings: Wetland Projec"
 summary: "Brady Ciel Marks and Mark Timmings: Wetland Projec | APR 22"
 ---
 

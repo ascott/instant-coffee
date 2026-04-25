@@ -61,7 +61,7 @@ technologically determined role of the spectator. Soo has exhibited widely at
 venues including the CCA Wattis Institute, San Francisco; Museum van 
 Hedendaagse Kunst Antwerpen, Antwerp; Vancouver Art Gallery, Vancouver; 
 Western Bridge, Seattle; Nasher Museum of Art at Duke University, Durham; 
-Boston Institute of Contemporary Art, Boston; Johann KÃ¶nig, Berlin; and Marian 
+Boston Institute of Contemporary Art, Boston; Johann König, Berlin; and Marian 
 Goodman Gallery, Paris. He was the recipient of a Jack and Doris Shadbolt 
 Foundation VIVA Award for the Visual Arts in 2009.
 
@@ -90,8 +90,8 @@ Curated by Graham Dalik and Adam Harrison
 10 - 30 August, 2012
 Opening reception Thursday, 9th August, 6 - 9 p.m.
 
-Alexander Bornschein, Henning Fehr and Philipp RÃ¼hr are artists living
-and working in DÃ¼sseldorf, Germany. They will be present at the
+Alexander Bornschein, Henning Fehr and Philipp Rühr are artists living
+and working in Düsseldorf, Germany. They will be present at the
 opening.
 
 CSA Space
@@ -111,7 +111,7 @@ SUMMER EXHIBITION OF DIGITAL ART REFLECTIONS
 An exhibition featuring 22 digital works by 12 artists will light up two outdoors 
 screens in downtown Vancouver until the end of September 2012.
 
-The works are a selection from the City of Vancouver Public Art Programâ€™s 
+The works are a selection from the City of Vancouver Public Art Program’s 
 Digital Arts Collection. They were commissioned by the Public Art program 
 between 2010 and 2012 under initiatives including: Olympic and Paralympic 
 Public Art and Celebrate Vancouver 125: Platforms. The screens, located on the 
@@ -120,52 +120,52 @@ Georgia, will display the works interspersed with advertising content.
 
 LOCATIONS AND SCHEDULE
 
-CoreVision â€“ A pair of permanent screens at the mounted at the northeast corner 
+CoreVision – A pair of permanent screens at the mounted at the northeast corner 
 of Robson and Granville streets. These screens will feature a 20-minute 
 compilation of all the artworks, every weekend during the summer until late 
-September. This coincides with the Cityâ€™s VIVA Vancouver programming on 
+September. This coincides with the City’s VIVA Vancouver programming on 
 Granville which transforms public space usually used by vehicles into space for 
 citizens to congregate. The compilations will air approximately twice an hour: 
-Fridays from 5pm â€“ 10: pm; Saturdays from 11am â€“ 7pm, and Sundays from 
+Fridays from 5pm – 10: pm; Saturdays from 11am – 7pm, and Sundays from 
 11am to 8pm.
 
-CBC â€“ corner of the public plaza at 700 Hamilton Street (between Robson and 
+CBC – corner of the public plaza at 700 Hamilton Street (between Robson and 
 Georgia)
 This single screen will host a compilation of eight, 10-second works curated by 
 Paul Wong and originally aired as part of a partnership between the City of 
-Vancouver and InTransit BCâ€™s Canada Line Public Art Program. While these 
+Vancouver and InTransit BC’s Canada Line Public Art Program. While these 
 pieces will run seven days a week until the end of September, they have been 
-specifically programmed to coincide with CBCâ€™s Musical Nooners which feature 
+specifically programmed to coincide with CBC’s Musical Nooners which feature 
 a free weekday dose of live music from noon to 1pm.
 
 THE WORKS AND ARTISTS
 
-10 Seconds in Time curated by Paul Wong (eight segments, 0:10 each) â€” This 
+10 Seconds in Time curated by Paul Wong (eight segments, 0:10 each) — This 
 series was originally shown on the Canada Line screens from April 2011 to 
 March 2012. Artists were invited to address a diversity of themes past, present 
-and future tense by creating original works of art marking Vancouverâ€™s 125th 
+and future tense by creating original works of art marking Vancouver’s 125th 
 Anniversary. The artists whose work is included in 10- Seconds in Time are:
 
-Chelsea Oâ€™Brian - Escape Velocity is a liberating flight of fancy that blends the 
+Chelsea O’Brian - Escape Velocity is a liberating flight of fancy that blends the 
 speed of a helicopter with the grace and beauty of a performer suspended in the 
-air. Itâ€™s a vision of the artist, combining technology and skill to represent a new 
+air. It’s a vision of the artist, combining technology and skill to represent a new 
 way of seeing the world.
 
-Dana Claxton â€“ Hippie Chick celebrates Vancouverâ€™s history of counter-culture 
+Dana Claxton – Hippie Chick celebrates Vancouver’s history of counter-culture 
 using archival footage from the first Easter Be-In in Stanley Park in 1967. 
-Claxtonâ€™s focus on the undulating movements of a hippie chick with long flowing 
-hair suggests that one of the streams in the hippie movementâ€™s demand for social 
+Claxton’s focus on the undulating movements of a hippie chick with long flowing 
+hair suggests that one of the streams in the hippie movement’s demand for social 
 change was manifested through creative expression and collective dance.
 
 Douglas Coupland - Vancouver Codes extends the graphic black and white QR 
-code into the realm of colorful modernist paintings, while retaining the codeâ€™s 
+code into the realm of colorful modernist paintings, while retaining the code’s 
 original interactive function.
 
-James Yan â€“ One Percent (Loading Vancouver) graphically parodies the font 
+James Yan – One Percent (Loading Vancouver) graphically parodies the font 
 used in Windows 95, with its blue background mimicking the official color in the 
 City of Vancouver emblem â€” â€œfor the sea and sky that surround our cityâ€ . One 
 Percent shows the downloading buffer from 0 to 86%. Viewers wait to see what 
-is never revealed â€” lost histories, unrecorded moments, or things yet to come. 
+is never revealed — lost histories, unrecorded moments, or things yet to come. 
 This is a media artwork that toys with viewer anticipation and expectation. Yan 
 jams the regular flow of information.
 
@@ -173,28 +173,28 @@ Jeff Chiba Stearns - An Ode to Vancouver Hockey Fans is an animated
 reflection on the hockey riot in Vancouver. The artist questions the fine-line 
 between controlled celebration and out-of-control mayhem.　
 　
-Laiwan â€“ Movement for Two Grannies is an elegant and ethereal work of 
+Laiwan – Movement for Two Grannies is an elegant and ethereal work of 
 cinematography that features two Chinese grannies engaged in a moment of 
 intimate and affectionate friendship. Shot on green screen, the backlit grannies 
 are placed against a shimmering ocean, vast and expansive, rippling with an 
 ancient lineage. The scene is surreal, sensual and serene.
 
-Michael Turner â€“ Slash Forward was designed to be placed amidst commercial 
+Michael Turner – Slash Forward was designed to be placed amidst commercial 
 ads/public service announcements/breaking news. Derived from the common 
 use of the forward-slash, Slash Forward is the third stage in what began as a 
 concrete poetry device used by Turner. 140 bright white slashes appear 
 graphically on a deep red field, presenting the illusion of forward/backward 
 motion.
 
-Tony Pantages â€“ Polar Bear: Native to Vancouver is a tribute to the annual Polar 
-Bear Swim that takes place every New Yearâ€™s Day in Vancouver. Started by 
+Tony Pantages – Polar Bear: Native to Vancouver is a tribute to the annual Polar 
+Bear Swim that takes place every New Year’s Day in Vancouver. Started by 
 Peter Pantages in 1920 with 10 members, this is the oldest and largest polar bear 
 swim and the genesis of the worldwide polar bear swim movement.
 ________________________________________________________
 
 PROGRAM INFORMATION
 
-Public Art Program The City of Vancouverâ€™s Public Art Program provides 
+Public Art Program The City of Vancouver’s Public Art Program provides 
 opportunities for citizens and visitors to enjoy unique images, objects and 
 perspectives. These projects are part a growing number of digital media works 
 supported by the Public Art Program. The program has facilitated over a hundred 
@@ -227,7 +227,7 @@ Organized by Wil Aballe
 
 Please join us Friday, August 10th, from 8 p.m. to midnight, at the opening 
 reception for WOBBLE, a group exhibition of a small sample of geometrically-
-themed new media art by 3 artists: Scott Billings, Barry DoupÃ© and Yota 
+themed new media art by 3 artists: Scott Billings, Barry Doupé and Yota 
 Kobayashi. WOBBLE examines abstraction in contemporary new media art 
 making, which lifts geometrics from traditional pure line and shape due to the 
 possibilities afforded by the dynamicism of the moving image.
@@ -241,13 +241,13 @@ Scott Billings (b.1978 Toronto, ON) is a Vancouver-based artist working in video
 sculpture, and installation. His work examines the ways in which the apparatus 
 reveals both the mechanisms of causality and its own dormant animality. Billings 
 has exhibited locally and internationally including the Czech Republic, China, 
-Brooklyn, and Seattle. Billings attended an artist residency at the Å kolskÃ¡ 28 
+Brooklyn, and Seattle. Billings attended an artist residency at the Školská 28 
 Gallery in Prague in 2010 and has just returned from the 2012 summer residency 
 at the Plug In Institute in Winnipeg. Billings holds an MFA from UBC, a BFA from 
 Emily Carr University, and a BASc in Mechanical Engineering from the 
 University of Waterloo. 
 
-Barry DoupÃ© (b. 1982 Victoria, BC) is a Vancouver-based artist primarily working 
+Barry Doupé (b. 1982 Victoria, BC) is a Vancouver-based artist primarily working 
 with computer animation. He graduated from the Emily Carr University in 2004 
 with a Bachelor of Media Arts majoring in animation. His films use imagery and 
 language derived from the subconscious; developed through writing exercises 
@@ -270,7 +270,7 @@ Russolo (1st prize in 2010, Italy/France), Prix Jue de Temp/Times Play Awards
 <a href="/instant-coffee/listings/2012-08-09-05-shudder-gallery-ban-da-loop-aug-10">05. Shudder Gallery | BAN DA LOOP | AUG 10</a>
 ------------------------------------------------------------------------
 BAN DA LOOP
-a group show â€“ august 10 2012
+a group show – august 10 2012
 7PM to late
 
 the switch side the under world
@@ -290,7 +290,7 @@ featuring art works
 jessica bell
 silje-marie salhaus
 shawna mclellen
-sylvana dâ€™angelo
+sylvana d’angelo
 
 & musical performances
 jesse taylor + bryce k p agecoutay
@@ -298,7 +298,7 @@ ashlee luk
 olivia carmen meek
 kelly christine davis
 
-curated by sylvana dâ€™angelo
+curated by sylvana d’angelo
 
 contact
 
@@ -309,7 +309,7 @@ phone number:
 studio number:
 +1 604.354.0504
 
-433 Columbia St â€¢ Vancouver BC â€¢ V5V 1E3
+433 Columbia St • Vancouver BC • V5V 1E3
 
 
 ------------------------------------------------------------------------
@@ -347,7 +347,7 @@ mountains. The gunslinger hung perilously
 
 from the cliff's edge, his last thoughts were
 
-of his horseâ€”he could hold on no longer,
+of his horse—he could hold on no longer,
 
 he let go. He walked through the casino,
 
@@ -373,7 +373,7 @@ Debra Jiggleigh Bitz rode her stallion off
 
 into the sunset. We loves our oil bohy.
 
-â€œWelcome to Death Valley, no fucker gets
+“Welcome to Death Valley, no fucker gets
 
 in, no fucker gets out.â€  ...and the carcus
 
@@ -381,7 +381,7 @@ baked in the midday sun... She nervously
 
 waited at the far end of the bar, until the
 
-squealing finally subsided. â€œI met my
+squealing finally subsided. “I met my
 
 husband here 46 years ago in the sheep
 
@@ -435,7 +435,7 @@ r trap co
 ------------------------------------------------------------------------
 Shudder Gallery
 
-TUESDAY AUGUST 14 7PM â€“ WEEK THREE | images for your portfolio, 
+TUESDAY AUGUST 14 7PM – WEEK THREE | images for your portfolio, 
 photography, re-sizing and uploading
 - taking professional photos of your work for your portfolio
 - indoor /outdoor lighting situations
@@ -451,10 +451,10 @@ with your tuition
 WHAT TO EXPECT FROM THIS CLASS
 - if you attend all classes you will have a working, original online presence 
 including a portfolio, online store, blog or web site
-- the ability to maintain a continuous online profile, easy to update image galleryâ€™s, 
+- the ability to maintain a continuous online profile, easy to update image gallery’s, 
 store, video ext
 - a sharp polished look that will improve your chances to receive bursaries, 
-grants, artist residencyâ€™s, jobs or the ability to earn more with your online store
+grants, artist residency’s, jobs or the ability to earn more with your online store
 
 www.shuddergallery.com
 www.sylvanaisthebest.com
@@ -468,7 +468,7 @@ phone number:
 studio number:
 +1 604.354.0504
 
-433 Columbia St â€¢ Vancouver BC â€¢ V5V 1E3
+433 Columbia St • Vancouver BC • V5V 1E3
 
 
 ------------------------------------------------------------------------
@@ -495,11 +495,11 @@ we get new clothes from old clothes
 
 we tailor any garment to your body type
 
-we get you to the clothes youâ€™ve always wanted but never imagined
+we get you to the clothes you’ve always wanted but never imagined
 
 we make it all up on the spot!
 
-Come along just to have a look, or join in the transformation! Itâ€™s easy:
+Come along just to have a look, or join in the transformation! It’s easy:
 
 1. Go through your wardrobe and pick out the garments that have been sitting 
 there for a long time.
@@ -554,41 +554,41 @@ of the Contemporary Art Society of Vancouver (CASV), a membership
 organization. 
 
 B. DUTIES AND RESPONSIBILITIES
-Â· Compose and send email invitations, event reminders to the membership
-Â· Coordinate guest lists for events and forward directions
-Â· Check CASV email and relay communications to appropriate Board 
+· Compose and send email invitations, event reminders to the membership
+· Coordinate guest lists for events and forward directions
+· Check CASV email and relay communications to appropriate Board 
 members
-Â· Coordinate annual Art Hop with Canadian Art Foundation
-Â· Update the website: events, bios, news
-Â· Maintain and update email contact list of new and renewing members, as 
+· Coordinate annual Art Hop with Canadian Art Foundation
+· Update the website: events, bios, news
+· Maintain and update email contact list of new and renewing members, as 
 well as non-member subscriptions collected from website
-Â· Distribute publicity for public events
-Â· Coordinate annual Emerging Artist Prize competition and reception
-Â· Assist in the coordination of events
-Â· Coordinate website maintenance and updating
-Â· Maintain Facebook posts and updates
-Â· Oversee all CASV inventory including supplies and materials
-Â· Other duties as assigned
+· Distribute publicity for public events
+· Coordinate annual Emerging Artist Prize competition and reception
+· Assist in the coordination of events
+· Coordinate website maintenance and updating
+· Maintain Facebook posts and updates
+· Oversee all CASV inventory including supplies and materials
+· Other duties as assigned
 
 C. CONTACTS AND COMMUNICATION
-Â· CASV Board Members
-Â· Website designer
-Â· Members
+· CASV Board Members
+· Website designer
+· Members
 
 D. KNOWLEDGE AND SKILL REQUIREMENTS
-Â· Excellent administrative and organizational skills
-Â· Proficiency in Word Press
-Â· Some graphic design experience
-Â· Microsoft Office Suite
-Â· A demonstrated ability to be creative, flexible, well-organized
+· Excellent administrative and organizational skills
+· Proficiency in Word Press
+· Some graphic design experience
+· Microsoft Office Suite
+· A demonstrated ability to be creative, flexible, well-organized
 
 E. WORK ENVIRONMENT
-Â· Work from home â€“ CASV has no office
-Â· Can set own hours
-Â· Use personal computer
+· Work from home – CASV has no office
+· Can set own hours
+· Use personal computer
 
 F. SALARY
-Â· $16.00 an hour/ approximately 15 hours a month; flexible depending on 
+· $16.00 an hour/ approximately 15 hours a month; flexible depending on 
 CASV programming schedule
 
 Position Reports To: Rachel Lafo, Volunteer President, Board of Directors
@@ -824,9 +824,9 @@ Art
 Project Funding >> {please read}
 
 What is Project Funding?
-Itâ€™s a really great thing!
+It’s a really great thing!
 
-{Get thisâ€¦}
+{Get this…}
 Yactac will reimburse up to half of your residency fee, which you can use 
 towards funding project(s) for your â€œFinal Exhibitionâ€ .
 *Cost breakdowns and receipts used will be required for all purchases affiliated 
@@ -857,7 +857,7 @@ Full details at: http://papirmasse.com/art/submissions
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-08-09-01-city-of-vancouver-public-art-program-mark-soo-aug-9">1.
 1/2 house for rent | </a>
-$1100 / 2br - 850ftÂ² - with den (hastings/sunrise)
+$1100 / 2br - 850ft² - with den (hastings/sunrise)
 
 2 bedroom with den in character home. Recently renovated. It is the whole lower 
 level of a 2 level house. includes laundry, and yard. 

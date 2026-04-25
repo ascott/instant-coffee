@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 28
 type: "OPENING"
+venue: "Franc Gallery"
 summary: "Franc Gallery | Ed Spence - Soft Error | APR 14"
 ---
 

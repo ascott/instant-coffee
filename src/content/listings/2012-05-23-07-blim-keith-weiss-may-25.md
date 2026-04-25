@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 7
 type: ""
+venue: "Blim"
 summary: "Blim | Keith Weiss | MAY 25"
 ---
 
@@ -13,7 +14,7 @@ Screening Process
 
 By Keith Weiss
 
-Opening: 8 â€“ 11 PM, Friday May 25
+Opening: 8 – 11 PM, Friday May 25
 
 The main focus of these silkscreen editions was to develop an 
 understanding of the tools and materials which I utilize to create the 

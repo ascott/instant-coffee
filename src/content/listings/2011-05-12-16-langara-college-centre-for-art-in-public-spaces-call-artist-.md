@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 16
 type: ""
+venue: "Langara College Centre for Art in Public Spaces"
 summary: "Langara College Centre for Art in Public Spaces | call: Artist in Residence | MAY 20"
 ---
 

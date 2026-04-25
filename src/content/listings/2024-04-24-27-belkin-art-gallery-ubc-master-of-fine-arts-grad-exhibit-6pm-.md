@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 27
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | UBC Master of Fine Arts Grad Exhibit | 6PM | MAY 2"
 ---
 

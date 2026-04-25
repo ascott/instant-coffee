@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this might be oversize"
 emailDate: "Thu, 10 Sep 2009 10:10:13 -0700"
 number: 15
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | Between the Lines | SEP 11"
 ---
 

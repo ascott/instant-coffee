@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 25
 type: "EXHIBITION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Los Angeles Plays Itself | AUG 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stories of Home"
 emailDate: "Thu, 14 May 2020 18:35:10 -0700"
 number: 20
 type: "EVENT"
+venue: "North Van Arts"
 summary: "North Van Arts | Online | Art in the Garden Live Online | MAY 30"
 ---
 

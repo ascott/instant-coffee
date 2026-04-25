@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 7
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Obvious Truths About Working in the Arts | 1PM | MAR 16"
 ---
 

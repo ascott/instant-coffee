@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 4
 type: ""
+venue: "KSW"
 summary: "KSW | THE LANDLORD | a Rent Assembly Pre-Screening | MAR 8"
 ---
 

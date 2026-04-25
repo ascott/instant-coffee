@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 32
 type: "EDUCATION"
+venue: "Kamloops Art Gallery [ONLINE]"
 summary: "Kamloops Art Gallery [ONLINE] | CURATOR’S TOUR with CHARO NEVILLE | 7PM | OCT 30"
 ---
 

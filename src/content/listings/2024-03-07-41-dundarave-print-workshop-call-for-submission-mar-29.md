@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 41
 type: ""
+venue: "Dundarave Print Workshop"
 summary: "Dundarave Print Workshop | CALL FOR SUBMISSION | MAR 29"
 ---
 

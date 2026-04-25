@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 43
 type: ""
+venue: "Magazinist's FAUST"
 summary: "Magazinist's FAUST | Live Film Score | APR 30"
 ---
 

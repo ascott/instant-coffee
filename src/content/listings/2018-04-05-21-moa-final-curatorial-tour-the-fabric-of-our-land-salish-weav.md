@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 21
 type: "EVENT"
+venue: "MOA"
 summary: "MOA | Final Curatorial Tour | The Fabric of Our Land: Salish Weaving | APR 12"
 ---
 

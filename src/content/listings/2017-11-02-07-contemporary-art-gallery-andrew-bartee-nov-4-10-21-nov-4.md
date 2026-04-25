@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 7
 type: "PERFORMANCE"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Andrew Bartee NOV 4, 10, 21 | NOV 4"
 ---
 

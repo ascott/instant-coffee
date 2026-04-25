@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 20
 type: "TALK"
+venue: "Vancouver Art Gallery Annex"
 summary: "Vancouver Art Gallery Annex | Artist Talk: Mark Mizgala | APR 11"
 ---
 

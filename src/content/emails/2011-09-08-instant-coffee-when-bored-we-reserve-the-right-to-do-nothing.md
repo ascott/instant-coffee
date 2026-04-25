@@ -18,7 +18,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-09-08-06-w2-atriumsfu-woodwards-art-revolution-and-ownership-sep-8">06. W2 Atrium/SFU Woodward's | Art, Revolution and Ownership | SEP 8</a>
 <a href="/instant-coffee/listings/2011-09-08-07-western-front-neil-beloufa-and-glenn-lewis-sep-8">07. Western Front | Neil Beloufa and Glenn Lewis | SEP 8</a>
 <a href="/instant-coffee/listings/2011-09-08-08-221a-3-canada-canada-3-me-sep-9">08. 221A | <3 CANADA & CANADA <3 ME | SEP 9</a>
-<a href="/instant-coffee/listings/2011-09-08-09-access-gallery-once-it-is-a-story-it-remains-one-or-fades-se">09. Access Gallery | Once it is a story it remains one or fadesâ€¦ | SEP 9</a>
+<a href="/instant-coffee/listings/2011-09-08-09-access-gallery-once-it-is-a-story-it-remains-one-or-fades-se">09. Access Gallery | Once it is a story it remains one or fades… | SEP 9</a>
 <a href="/instant-coffee/listings/2011-09-08-10-artspeak-finite-infinite-sep-9">10. Artspeak | Finite + Infinite | SEP 9</a>
 <a href="/instant-coffee/listings/2011-09-08-11-gallery-fukai-emma-lehto-sep-9">11. Gallery FUKAI | Emma Lehto | SEP 9</a>
 <a href="/instant-coffee/listings/2011-09-08-12-instant-coffee-2011-nff-when-bored-we-reserve-the-right-to-d">12. Instant Coffee @ 2011 NFF | when bored we reserve the right to do nothing | SEP 9</a>
@@ -69,13 +69,13 @@ Corita Kent was one of the most innovative pop artists in the 1960s
 and became internationally recognized for her brightly coloured 
 silkscreen prints. To create is to relate is the first major solo 
 exhibition in Canada of her work. Admired by Charles and Ray 
-Eames, Buckminster Fuller and John Cage, Kentâ€™s work was an 
+Eames, Buckminster Fuller and John Cage, Kent’s work was an 
 outlet for her spiritual and political beliefs, reflecting her desire for 
 social justice and peace during the period of the Vietnam War. As a 
 Sister of the Immaculate Heart of Mary in Los Angeles, she ran the 
 Art Department there until 1968.
 
-The exhibition focuses exclusively on Kentâ€™s silkscreen prints of the 
+The exhibition focuses exclusively on Kent’s silkscreen prints of the 
 1960s. She mixed contemporary advertising with the slogans, poetry 
 and song lyrics she experienced daily in Los Angeles, signaling her 
 belief that the urban environment - the commonplace - was far from 
@@ -103,7 +103,7 @@ Alvin Balkind Gallery
 The CAG will present the first exhibition in North America devoted 
 entirely to the vignettes of 18th century British wood engraver, artist 
 and naturalist Thomas Bewick. This presentation of historical work - 
-a first at the CAG - is intended to challenge the viewerâ€™s 
+a first at the CAG - is intended to challenge the viewer’s 
 understanding of what a contemporary art space should show, 
 building a bridge between image making techniques and 
 endeavors of different eras.
@@ -111,7 +111,7 @@ endeavors of different eras.
 Originally intended to be published in books about natural history - 
 not hung on gallery walls - many vignettes depict people 
 encountering different situations, often while traveling, working or 
-even crossing rivers and other obstacles. Bewickâ€™s more 
+even crossing rivers and other obstacles. Bewick’s more 
 introspective images frequently reveal human frailties: in one a 
 horse stops on the bank of a river to avoid falling into the water while 
 his rider is oblivious. With his workshop partner, Bewick produced 
@@ -122,7 +122,7 @@ presented each specimen by describing it in words and illustrating it
 with a printed image. In the time before photography such 
 illustrations served as scientific evidence. The grand idea of 
 publishing these books was to give ordinary people access to 
-information that until then was confined to the â€œlibraries of the 
+information that until then was confined to the “libraries of the 
 wealthy.â€ 
 
 Image:
@@ -144,8 +144,8 @@ Window Spaces
 
 Costa Rican artist Federico Herrero creates a major new 
 commission utilizing the windows of the CAG to transform the 
-faÃ§ade of the building. Vibrantes will reveal the performative aspect 
-of Herreroâ€™s practice. Akin to Matisse and his late paper cutouts, 
+façade of the building. Vibrantes will reveal the performative aspect 
+of Herrero’s practice. Akin to Matisse and his late paper cutouts, 
 Herrero will use sheets of coloured adhesive vinyl to develop this 
 exciting and dynamic piece evolving as a work in progress, allowing 
 visitors an opportunity to see the artist create while the exterior of the 
@@ -157,15 +157,15 @@ installation period.
 
 Image:
 Federico Herrero, Paisaje (2007), Parque Berrio, Bienal de Medellin 
-MDE007, Colombia. Courtesy of the artist and Sies + HÃ¶ke Galerie, 
-DÃ¼sseldorf.
+MDE007, Colombia. Courtesy of the artist and Sies + Höke Galerie, 
+Düsseldorf.
 
 Federico Herrero, 'Paisaje' (2007), Parque Berrio, 
 Bienal de Medellin MDE007, Colombia 
 
 Birthday Bash
 
-Thursday September 8th, 2011 marks the CAGâ€™s 40th birthday, 
+Thursday September 8th, 2011 marks the CAG’s 40th birthday, 
 please join us to celebrate. The Birthday Bash will follow the 
 exhibition opening and continue until 11 pm featuring music 
 provided by David Wisdom and additional birthday activities created 
@@ -203,11 +203,11 @@ Emily Carr University of Art & Design
 IN THE THEATRE SB301
 
 Utilizing photography, film, video, audio, writing and drawing, 
-Buckinghamâ€™s work questions the role that social memory plays in 
+Buckingham’s work questions the role that social memory plays in 
 contemporary life. His projects create physical and social contexts 
 that encourage viewers to question what is most familiar to them. 
 His work has been seen in one-person and group exhibitions at 
-ARC / MusÃ©e dâ€™art moderne de la Ville de Paris, Paris; Camden Arts 
+ARC / Musée d’art moderne de la Ville de Paris, Paris; Camden Arts 
 Centre, London; The Corcoran Gallery of Art, Washington DC; 
 Hamburger Bahnhof National Gallery, Berlin; Kunst-Werke, Berlin; 
 Moderna Museet, Stockholm; Museum Moderner Kunst, Vienna; 
@@ -313,7 +313,7 @@ grunt.ca
 <a href="/instant-coffee/listings/2011-09-08-04-morris-and-helen-belkin-art-gallery-happy-ubc-mfa-graduate-e">04. Morris and Helen Belkin Art Gallery | Happy | UBC MFA Graduate Exhibition | SEP 8</a>
 ------------------------------------------------------------------------
 Happy
-Joe BÃ©rubÃ©, Marilyne Blais, Jordy Hamilton, Chunping Huang, Nick 
+Joe Bérubé, Marilyne Blais, Jordy Hamilton, Chunping Huang, Nick 
 Lakowski, Joomi Seo, Damla Tamer
 UBC Master of Fine Arts Graduate Exhibition 2011
 September 2 - 18, 2011
@@ -326,7 +326,7 @@ Saturday, September 10, 12-5 pm
 
 The Morris and Helen Belkin Art Gallery is pleased to present 
 Happy, an exhibition of work by the 2011 graduates of the University 
-of British Columbiaâ€™s two-year Masters of Fine Arts program. The 
+of British Columbia’s two-year Masters of Fine Arts program. The 
 work of these seven emerging artists explores various themes that 
 intersect with one another at many points, questioning the dualities 
 of art and everyday life; object and representation; real and virtual 
@@ -336,7 +336,7 @@ temporality leads to questions of what is emergent in artistic
 practice, how the present is experienced in the conscience and 
 envisions anxieties surrounding the future.
 
-Joe BÃ©rubÃ© uses painting, installation and video to explore spatial 
+Joe Bérubé uses painting, installation and video to explore spatial 
 complexities and the potentials of perception. The imagined or 
 virtual and the real coexist in a space of explicit contradiction, 
 whether in landscape (such as with the phenomenon of the mirage 
@@ -346,13 +346,13 @@ between intention and perception), which he explores in his work.
 Marilyne Blais is interested in artistic practices that are engaged 
 with collectivity and material experimentation, and how these 
 aspects are experienced in the present. She investigates the notion 
-of â€˜makingâ€™ as open-ended and unfinished in sculptural works that 
+of ‘making’ as open-ended and unfinished in sculptural works that 
 are collaborative and processual in nature.
 
-Questions surrounding the words â€˜workâ€™ and â€˜labourâ€™ are central to 
-Jordy Hamiltonâ€™s thinking about art. Working intuitively from the 
+Questions surrounding the words ‘work’ and ‘labour’ are central to 
+Jordy Hamilton’s thinking about art. Working intuitively from the 
 embedded histories and formal properties of found paintings, 
-Hamilton employs Giorgio Agambenâ€™s concepts of praxis (an action 
+Hamilton employs Giorgio Agamben’s concepts of praxis (an action 
 engaged with political structures and ideas of productivity) and 
 poesis (an engagement with the flux of time that allows for 
 emergent social possibilities) by re-stretching and repainting the 
@@ -366,7 +366,7 @@ images across time and space. She considers life to be the stage
 of everyday performances and examines situations where 
 boundaries of identity are crossed.
 
-Nick Lakowskiâ€™s figurative sculptures are driven by anxieties around 
+Nick Lakowski’s figurative sculptures are driven by anxieties around 
 surveillance, resuscitation, immortality, medicine and bio-power. 
 Disease, sexuality, pornography and the un-dead are used as 
 tropes for the understanding of control, technological progress, 
@@ -374,27 +374,27 @@ reproduction and mortality. These themes are set into play with
 dystopic and hysterical futures to create disturbing, comical and 
 misanthropic fictions.
 
-Damla Tamerâ€™s practice has developed around storytelling and 
+Damla Tamer’s practice has developed around storytelling and 
 anecdotes, investigating notions of memory and truth. Tamer is 
 interested how the memory and recital of past events generates 
 new narratives. By combining drawings with her anecdotes, 
-Tamerâ€™s work explores the possible connections that an image can 
+Tamer’s work explores the possible connections that an image can 
 have with an event, allowing for a playful and open relationship 
 between the two.
 
 Joomi Seo finds it relevant to draw attention to the permeation of 
 visual culture and the tendency toward democratization in 
-contemporary art. Following Allan Kaprowâ€™s assertion that the 
-distinctions between art and non-art are â€˜pseudo-distinctions,â€™ and 
-how the â€˜found objectâ€™ implies various aspects of everyday life, 
-Seoâ€™s on-going projects (including graphic notations, experimental 
+contemporary art. Following Allan Kaprow’s assertion that the 
+distinctions between art and non-art are ‘pseudo-distinctions,’ and 
+how the ‘found object’ implies various aspects of everyday life, 
+Seo’s on-going projects (including graphic notations, experimental 
 sound performances, YouTube tutorial series, and installation) blur 
 the boundary between art and life.
 
 The exhibition is presented with support from the Department of Art 
 History, Visual Art and Theory at the University of British Columbia.
 
-â€”
+—
 
 For further information please contact: Naomi Sawada at 
 naomi.sawada@ubc.ca,
@@ -416,7 +416,7 @@ vivomediaarts.com events@vivomediaarts.com
 NICOLAS BOONE
 NOTHING HAPPENING (Performance) + LIQUIDATION
 Thursday September 8, 7-10pm (Swarm) FREE
-Curated by Marie-HÃ©lÃ¨ne Tessier
+Curated by Marie-Hélène Tessier
 +
 Main St Swarm After-party// PLATOON (formerly The Stick), MYTHS 
 (CD Release Party), CAVING (Andy Dixon) 10pm-1am FREE
@@ -424,9 +424,9 @@ Main St Swarm After-party// PLATOON (formerly The Stick), MYTHS
 VIVO presents NOTHING HAPPENING, a three-hour live 
 performance by French Artist in Residence Nicolas Boone, 
 alongside LIQUIDATION, a retrospective exhibition of his video 
-works. Both events are presented in conjunction with PAARCâ€™s 
+works. Both events are presented in conjunction with PAARC’s 
 Swarm Festival of Artist Run Culture on Thursday September 8 from 
-7-10pm. The performance serves as a set for Booneâ€™s next video 
+7-10pm. The performance serves as a set for Boone’s next video 
 production, to be presented with a live soundtrack by Philippe 
 Pasquier on Wednesday September 21 during the LIVE 
 International Performance Biennale Sept 15-25, hosted by VIVO. 
@@ -441,7 +441,7 @@ concrete truck, steamroller, excavator, barricades, orange cones,
 and traffic control tape. NOTHING HAPPENING addresses the 
 savage economic development that is steamrolling cultural spaces, 
 bohemia and marginality to create a condo wonderland. It is a mirror 
-reflecting our cityâ€™s relationship to territory, land, and frontiers of 
+reflecting our city’s relationship to territory, land, and frontiers of 
 economic and political power. NOTHING HAPPENING is a video 
 loop of hand shakes between City Hall, land speculators and private 
 enterprises. NOTHING HAPPENING is an artist preaching upside 
@@ -466,7 +466,7 @@ NOTHING HAPPENING AND LIQUIDATION are co-presented by
 LIVE International Performance Biennale, DIM Cinema and the 
 Pacific Cinematheque. Nicolas Boone's Artist Residency and 
 Exhibition is generously supported by the Consulate General of 
-France in Vancouver and Institut FranÃ§ais. NOTHING HAPPENING is 
+France in Vancouver and Institut Français. NOTHING HAPPENING is 
 sponsored by Kerrisdale Equipment, Lafarge, and A+B Tool 
 Rentals. The installation of LIQUIDATION is supported by The Grunt 
 Gallery, The Western Front and SFU School for Interactive Art and 
@@ -501,8 +501,8 @@ Artist in Conversation with Copyright
 September 8, W2 Atrium/SFU Woodward's
 5:30 & 6:15pm: plastic orchid factory dance performance.
 6:30-9:30pm: Tina Piper (McGill), Laura Murray (Canadian Copyright: 
-A Citizenâ€™s Guide) & Mark Hosler (Negativland) join dancers in an 
-artistsâ€™ talkback and reception to benefit the ALO.
+A Citizen’s Guide) & Mark Hosler (Negativland) join dancers in an 
+artists’ talkback and reception to benefit the ALO.
 
 September 9-11, Waldorf Hotel
 Art installation (part of the New Forms Festival) featuring Diyan 
@@ -519,7 +519,7 @@ conversation and exhibition are open to the public free of charge.
 
 (If you have enough space, this would be our description:)
 
-The Artistsâ€™ Legal Outreach (ALO) in association with New Forms 
+The Artists’ Legal Outreach (ALO) in association with New Forms 
 Festival 2011 and W2 Community Media Arts presents Art, 
 Revolution and Ownership, a multidisciplinary exploration of the 
 ideas that inform art and the law. The performances, exhibitions and 
@@ -538,7 +538,7 @@ recently restored video works from our archive.
 
 Exhibition
 Neil Beloufa: As Far As We Know
-September 09 â€“ Nov 05, 2011
+September 09 – Nov 05, 2011
 
 Western Front has commissioned a new moving image work by 
 Paris based artist Neil Beloufa for his autumn solo exhibition. Shot 
@@ -555,19 +555,19 @@ through understanding, in a world without a horizon.
 
 Public Work
 Glenn Lewis: TAXONOMIES
-September 09 â€“ Dec 16, 2011
+September 09 – Dec 16, 2011
 
-Glenn Lewisâ€™ TAXONOMIES is a public work that was created for the 
+Glenn Lewis’ TAXONOMIES is a public work that was created for the 
 exterior and interior of the Western Front building. It consists of six 
 planted coniferous trees in newly thrown ceramic pots, wooden 
 signs and a large format photographic study. TAXONOMIES 
-incorporates several elements that are characteristic of Lewisâ€™ 
+incorporates several elements that are characteristic of Lewis’ 
 established 50-year art practice. Cumulatively in this new work, 
 these elements come together to draw attention to the displacement 
 of the lumber industry as a primary industry in the region, and as a 
 consequence, the decline of wooden architecture in the city of 
 Vancouver. As one of the founding members of the Western Front in 
-1973, Glenn Lewisâ€™ has personally been involved in the centre and 
+1973, Glenn Lewis’ has personally been involved in the centre and 
 the dynamic surrounding of the Mount Pleasant community.
 
 SWARM Screening
@@ -592,7 +592,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free 
 
 
@@ -603,7 +603,7 @@ Admission Free
 http://221a.ca/i-heart
 
 Curated By: Francisco-Fernando Granados
-Exhibition: Aug 19 â€“ Sept 19
+Exhibition: Aug 19 – Sept 19
 Reception (as part of Swarm 12): 8 pm, Sept 9
 Artist Talk: 2 pm, Sept 17
 
@@ -632,7 +632,7 @@ particular sets of social circumstances.
 
 The idea of embodiment is crucial to the possibility of enacting a
 nuanced engagement with the political dimensions of figure/ground
-relations. Judith Butlerâ€™s early work on feminism and 
+relations. Judith Butler’s early work on feminism and 
 phenomenology
 uses the term embodiment to account for the process through 
 which an
@@ -662,11 +662,11 @@ significant, ever-present visual dimension. In recent memory, these
 exchanges have been played out in Canada through stories like the 
 one
 involving a political campaign worker for the last federal election
-who, according to the CBC [2], circulated an email â€œseeking people 
+who, according to the CBC [2], circulated an email “seeking people 
 in
 â€˜national folklore costumesâ€™â€  for a promotional photo-op. More 
 serious
-examples include the federal governmentâ€™s refusal to request the
+examples include the federal government’s refusal to request the
 repatriation of Omar Khadr, the Canadian citizen captured as a minor
 in Afghanistan by the US military. Khadr, who was held without 
 charges
@@ -674,9 +674,9 @@ for almost three years, was eventually judged in the extra-judicial
 tribunals set up by the United States government in Guantamo Bay 
 [3].
 Both cases bring up the issue of belonging in aesthetic terms: the
-subjective perception of the bodyâ€™s identity creates a set of possible
-interactions with the nation. As if to say â€œwe need you to look
-â€˜folkloric,â€™ but there are limits to how much you can deviate from the
+subjective perception of the body’s identity creates a set of possible
+interactions with the nation. As if to say “we need you to look
+‘folkloric,’ but there are limits to how much you can deviate from the
 prescribed image of the nation.â€  Indeed, there are borders.
 
 Yet, there are some things that escape the languages of identity and
@@ -692,19 +692,19 @@ Essay in
 Phenomenology and Feminist Theory. Theatre Journal. Vol. 40, No. 
 4, 1988.
 
-[2] Amber Hildebrandt, â€˜T.O. Tory staffer makes â€˜ethnic costumeâ€™ rally
-appeal.â€™ CBC News. April 13, 2011. Retrieved May 30, 2011.
+[2] Amber Hildebrandt, ‘T.O. Tory staffer makes ‘ethnic costume’ rally
+appeal.’ CBC News. April 13, 2011. Retrieved May 30, 2011.
 http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/13/c
 v-election-conservative-ethnic-vote.html
 
-[3] â€˜Omar Khadrâ€™s road to trial.â€™ CBC News. Last updated August 12,
+[3] ‘Omar Khadr’s road to trial.’ CBC News. Last updated August 12,
 2010. Retrieved August 14, 2011.
 http://www.cbc.ca/news/canada/story/2009/11/12/f-omar-khadr-
 timeline.html
 Roya Akbari is an Iranian artist living in Vancouver and Tehran. She
 is works in video, photography, installation, and film. Upon
 graduating from Emily Carr University in 2011, she was awarded the
-Presidentâ€™s Media Arts Award for Installation Art. Akbari has
+President’s Media Arts Award for Installation Art. Akbari has
 participated in group exhibitions in Vancouver, as well as having a
 solo show in Tehran.
 
@@ -720,18 +720,18 @@ W: http://221a.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-09-08-09-access-gallery-once-it-is-a-story-it-remains-one-or-fades-se">09. Access Gallery | Once it is a story it remains one or fadesâ€¦ | SEP 9</a>
+<a href="/instant-coffee/listings/2011-09-08-09-access-gallery-once-it-is-a-story-it-remains-one-or-fades-se">09. Access Gallery | Once it is a story it remains one or fades… | SEP 9</a>
 ------------------------------------------------------------------------
-Once it is a story it remains one or fadesâ€¦
-September 10th â€“ October 22nd, 2011
+Once it is a story it remains one or fades…
+September 10th – October 22nd, 2011
 
 Join us for our opening reception and SWARM12 Event: Friday, 
 September 9th, 8pm
 
 New Location: 222 E. Georgia St.
 
-Gallery Hours: Tues. â€“ Sat. 12-5pm
-â€œIf I told you that what you are about to read is not a story, but only 
+Gallery Hours: Tues. – Sat. 12-5pm
+“If I told you that what you are about to read is not a story, but only 
 appears to be a story, and if you then continued and read through 
 the artifact that only appears to be a story, but in fact is not, and you 
 understood it as a story, then in your mind it would be lodged as a 
@@ -740,14 +740,14 @@ that. Once it is a story it remains one or fades. It could be a series of
 lies or mistakes, but nevertheless it is a story or it doesnâ€™t exist.â€  â€”
 Fred Douglas
 
-In celebration of Accessâ€™ twentieth year we are inviting artists to re-
+In celebration of Access’ twentieth year we are inviting artists to re-
 imagine, re-think, and/or re-present their works from past Access 
 exhibitions. Taking its title from the above quote by Vancouver poet 
-and artist Fred Douglas Once it is a story it remains one or fadesâ€¦ 
+and artist Fred Douglas Once it is a story it remains one or fades… 
 is the first of two exhibitions exploring the Access archive. Once it is 
-a storyâ€¦ presents the histories, narratives, and lifespans of past 
-projects. Thinking about Douglasâ€™ comments on the fading, Once it 
-is s a storyâ€¦ also explores the life of an art object, where original 
+a story… presents the histories, narratives, and lifespans of past 
+projects. Thinking about Douglas’ comments on the fading, Once it 
+is s a story… also explores the life of an art object, where original 
 contexts fade and new readings emerge.
 
 This exhibition brings together three projects previously presented 
@@ -818,7 +818,7 @@ Run Centres.
 For more information contact Access Gallery at: access@vaarc.ca or 
 visit our website: www.accessgallery.ca
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2011 Access Gallery, All rights reserved.
+Copyright © 2011 Access Gallery, All rights reserved.
 You are receiving this email because you signed up for our 
 membership e-list!
 Our mailing address is:
@@ -899,7 +899,7 @@ Panel Discussion
 November 10, 2011 at 7PM
 Iain Baxter&, David Bellman & Meirion Cynog Evans, Adam Lauder, 
 Mary Williams
-Djavad Mowafaghian Cinema, SFU Woodwardâ€™s, 149 West Hastings
+Djavad Mowafaghian Cinema, SFU Woodward’s, 149 West Hastings
 
 Exhibition Tour
 November 12, 2011 at 2PM
@@ -919,7 +919,7 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -940,22 +940,22 @@ The Gallery is located at 602 Hastings St E. Vancouver, BC
 Gallery FUKAI is pleased to announce Amended: Snicket, Lemony. 
 A Series of Unfortunate Events: A Bad Beginning. HarperCollins: 
 New York, NY. 1999. An installation by artist Emma lehto formed 
-from the physical deconstruction of the childrenâ€™s modern classic 
+from the physical deconstruction of the children’s modern classic 
 novel.
 
-Emma Lehtoâ€™s fascination with text and font has lead her down a 
+Emma Lehto’s fascination with text and font has lead her down a 
 path to use books in a way that most of us would never dare. Our 
-society and the education system weâ€™ve grown up with have always 
+society and the education system we’ve grown up with have always 
 implied and lectured us that books should never be altered, abused, 
 or destroyed.
 
-Initially at first glance, Emma Lehtoâ€™s use of books may appear to 
+Initially at first glance, Emma Lehto’s use of books may appear to 
 destroy the book, but on closer inspection this is not the simple 
 case. The viewer cannot help but begin to notice the dissection of 
 the rudimentary aspects or ingredients a book is made up of. 
 Words, space, paper, spine etc. are all isolated and laid out before 
 the viewer. This painstaking and intricately detailed process, much 
-like that of a surgeonâ€™s practice or chemistsâ€™ changes your 
+like that of a surgeon’s practice or chemists’ changes your 
 perception from the particular book being abused, to an in-depth 
 analysis into the fascination of bookmaking and passion for text.
 
@@ -974,7 +974,7 @@ galleryfukai@gmail.com
 ------------------------------------------------------------------------
 when bored we reserve the right to do nothing by Instant Coffee
 
-We have nothing to say. Well, maybe thatâ€™s inaccurate. We have lots 
+We have nothing to say. Well, maybe that’s inaccurate. We have lots 
 to say, but nothing we say is meaningful, or better yet what we want 
 to say is â€œpurposefullyâ€  meaningless. There is no direct intent. Even 
 though that statement rings true it is an improbability, dubious 
@@ -982,9 +982,9 @@ because we have proceeded with some aims. We have made a
 plan and followed it, and before that we defined a goal. We wanted 
 to create a space for people to gather, where they might linger, but 
 our purpose beyond this humble wish is undetermined, or maybe 
-that last word isnâ€™t strong enough. Letâ€™s say instead that we are 
-determinately resistant to establishing a specific objective â€“ 
-honestly we donâ€™t even know what that looks like. Actually, it might 
+that last word isn’t strong enough. Let’s say instead that we are 
+determinately resistant to establishing a specific objective – 
+honestly we don’t even know what that looks like. Actually, it might 
 have a matt black background and radiant pink highlights with 
 chainsawed stumps. It may include two or three haystacks, some 
 plywood, a few jumbled aphorisms and an Instant Coffee member 
@@ -995,8 +995,8 @@ Instant Coffee
 The Vancouver organizations, other sights and South Hill Arts 
 Committee have invited Instant Coffee to produce a mural for the 
 South Hill community in Vancouver in part to celebrate the 
-neighbourhood, but also in recognition of Vancouverâ€™s 125 years. 
-when bored we reserve the right to do nothing, instant coffeeâ€™s 
+neighbourhood, but also in recognition of Vancouver’s 125 years. 
+when bored we reserve the right to do nothing, instant coffee’s 
 installation for 2011 New Forms Festival, is the first prototype for this 
 commission.
 
@@ -1019,7 +1019,7 @@ www.instantcoffee.org
 ------------------------------------------------------------------------
 Creative Destruction
 Matthew Buckingham
-10 September â€” 22 October, 2011
+10 September — 22 October, 2011
 Opening Friday 9 September
 
 Artist Talk
@@ -1033,7 +1033,7 @@ The Or Gallery is pleased to present Creative Destruction, an
 exhibition by New York-based artist Matthew Buckingham. Central to 
 the exhibition is a new video installation work titled Where Will We 
 Live? produced at the Or Gallery in July of this year. The work is 
-based on an assignment designed by the artistâ€™s father, Edward 
+based on an assignment designed by the artist’s father, Edward 
 Buckingham, for his grade 4 classes. Students are asked to create 
 an â€œinventory listâ€  of an imagined present or future city. Using simple 
 paper construction techniques each student creates a number of 
@@ -1053,11 +1053,11 @@ Sombart and Joseph Schumpeter, and later analyzed by David
 Harvey.
 
 Utilizing photography, film, video, audio, writing and drawing, 
-Buckinghamâ€™s work questions the role that social memory plays in 
+Buckingham’s work questions the role that social memory plays in 
 contemporary life. His projects create physical and social contexts 
 that encourage viewers to question what is most familiar to them. 
 His work has been seen in one-person and group exhibitions at 
-ARC / MusÃ©e dâ€™art moderne de la Ville de Paris, Paris; Camden Arts 
+ARC / Musée d’art moderne de la Ville de Paris, Paris; Camden Arts 
 Centre, London; The Corcoran Gallery of Art, Washington DC; 
 Hamburger Bahnhof National Gallery, Berlin; Kunst-Werke, Berlin; 
 Moderna Museet, Stockholm; Museum Moderner Kunst, Vienna; 
@@ -1067,7 +1067,7 @@ Art, New York. He was a 2003 recipient of the DAAD Artist in Berlin
 Fellowship.
 
 This project is made possible with special support from the BC Arts 
-Council Special Project Assistance â€“ Innovations program. 
+Council Special Project Assistance – Innovations program. 
 Additional thanks to Arts Umbrella, Ian Barbour, Erin Boniferro, 
 Stephanie Damgaard, Pete Hagge, Sarah Hoemberg, Jessica Jang, 
 and Josh Olson.
@@ -1104,7 +1104,7 @@ Brian Lye
 Sept 9-Oct 22
 
 re-LIVE Vancouver 2011 inhabits the Satellite Gallery streetfront 
-window starting from this Friday. Brian Lyeâ€™s Training a Fool is Not a 
+window starting from this Friday. Brian Lye’s Training a Fool is Not a 
 Joke (2011) is a looped film that takes inspiration from Rodney 
 Graham's Vexation Island (1997). Set in the back yard of a South 
 Vancouver home that is slated for demolition, Lye performs as an 
@@ -1133,7 +1133,7 @@ MIX: An Evening of Art, Music, Video, and Performance
 
 September 17th, 2011
 
-6:00pmâ€”midnight
+6:00pm—midnight
 
 Satellite Gallery
 560 Seymour Street, 2nd Floor,
@@ -1149,7 +1149,7 @@ New Forms Festival 11, September 9-11, at the Waldorf
 New Forms enters its 11th year this fall by redefining yet another 
 space in Vancouver through media arts. The festival will run from 
 Sept 9-11, 2011, and will take place at the Waldorf Hotel. Focusing 
-on concepts around the theme of â€˜Public Domainâ€™, the festival will 
+on concepts around the theme of ‘Public Domain’, the festival will 
 feature installations in the hotel rooms, electronic music artists in 
 the 3 performance spaces, and projections and video mapping on 
 the facade of the building. For further details please check out our 
@@ -1308,7 +1308,7 @@ EVENTS
 
 OPENING RECEPTION SEPTEMBER 10, 8PM
 
-FILM SCREENING LARRY CLARKâ€™S WASSUP ROCKERS 
+FILM SCREENING LARRY CLARK’S WASSUP ROCKERS 
 Wednesday September 21, 930pm
 The rio theatre, 1660 EAST BROADWAY, Vancouver
 
@@ -1316,11 +1316,11 @@ Presentation House Gallery is pleased to present two concurrent
 exhibitions by the acclaimed photographers Larry Clark and Kohei 
 Yoshiyuki. Their photo essays of analog black and white prints 
 speak of an earlier era in different parts of the world, America and 
-Japan. Both photographers exploit the cameraâ€™s invasive and 
+Japan. Both photographers exploit the camera’s invasive and 
 voyeuristic capacities. It is made evident that they are embedded 
-observers spying on illicit social activities. Clarkâ€™s images 
+observers spying on illicit social activities. Clark’s images 
 graphically document the underworld of drug use, sex and violence 
-in his hometown, Tulsa, Oklahoma from 1963 to 1971. Yoshiyukiâ€™s 
+in his hometown, Tulsa, Oklahoma from 1963 to 1971. Yoshiyuki’s 
 images, collectively titled The Park, were taken at night in the vicinity 
 of Tokyo from 1971 to 1979 and capture sexual encounters between 
 straight and gay partners, and the peeping toms who stalked them.
@@ -1329,15 +1329,15 @@ Clark first gained notoriety when his photographs were compiled in
 the independently published 1971 book Tulsa. Now regarded as a 
 classic photography project, Tulsa has been acclaimed as a 
 powerful and highly personal social documentary, still emulated by 
-art as well as commercial photographers. Clarkâ€™s images range 
+art as well as commercial photographers. Clark’s images range 
 from shadowy black and white scenes of heroin injection to portraits 
 of small-time thugs to teenage makeout sessions. His refusal to 
 moralize reveals an intimacy only possible between peers in a 
-social scene. This insider view is amplified in Clarkâ€™s recently found 
+social scene. This insider view is amplified in Clark’s recently found 
 16 mm film, Tulsa, shot at the same time. It is part of the exhibition 
 and is shown in Canada for the first time. 
 
-Clarkâ€™s enduring fascination with teenage life and marginal 
+Clark’s enduring fascination with teenage life and marginal 
 lifestyles has been the focus of his commercial films, such as his 
 groundbreaking Kids of 1995. His film of 2005, Wassup Rockers, 
 will be screened in conjunction with the exhibition. Blurring 
@@ -1358,7 +1358,7 @@ surveillance, today a part of everyday life.
 Larry Clark lives and works in New York and Los Angeles. He 
 continues to exhibit his artwork worldwide and to produce feature-
 length films, and is included in major museum collections. Recent 
-exhibitions include Kiss the past hello at Musee Dâ€™Art Moderne de la 
+exhibitions include Kiss the past hello at Musee D’Art Moderne de la 
 Ville de Paris, Paris, and Teenage Lust at Institute of Contemporary 
 Photography, New York.
 Kohei Yoshiyuki was born in 1946 in Japan, where he currently lives 
@@ -1398,13 +1398,13 @@ Presented by CPPS and Emily Carr University
 One could argue that, out of any technological changes, the advent 
 of photography in the mid-nineteenth century has most 
 fundamentally altered the way we see the world around us. 
-Photographyâ€™s influence in our daily lives has been pervasive, and 
+Photography’s influence in our daily lives has been pervasive, and 
 its growing ubiquity and impact over the course of the twentieth 
 century has been intimately tied to systems of belief, power, and 
 ideology. In short, one can no longer help but see the world through 
 a lens.
 
-Likewise, photographyâ€™s impact on art has been profound. Of 
+Likewise, photography’s impact on art has been profound. Of 
 particular interest are the ways in which other traditional art forms 
 have responded to the development of photography. How has 
 painting changed to accommodate or reject photography? How 
@@ -1413,8 +1413,8 @@ seeing? For artists working across media, what role does
 photography play in the changing modes of representation?
 
 A one-night panel discussion, moderated by Kathleen Ritter, is 
-structured around a question posed to four artistsâ€”Mark Lewis, Liz 
-Magor, Marianne Nicolson, and Ian Wallaceâ€”who work across 
+structured around a question posed to four artists—Mark Lewis, Liz 
+Magor, Marianne Nicolson, and Ian Wallace—who work across 
 disciplines: What role does photography play in your practice?
 
 This panel discussion is organized by the Canadian Photographic 
@@ -1423,7 +1423,7 @@ volunteer artists, collectors, and curators with expertise in the field of
 photography. Since its inception in 1986, CPPS has commissioned 
 portfolios of new photographic works by some of Canada's leading 
 contemporary artists. The portfolios represent a range of 
-approaches to photographyâ€”narrative, conceptual, formalâ€”and 
+approaches to photography—narrative, conceptual, formal—and 
 reflect the innovation and rigor characteristic of Canada's 
 contemporary art scene. The society is primarily focussed on the 
 support and production of contemporary photography and assists 
@@ -1433,7 +1433,7 @@ Mark Lewis (b. 1957, Hamilton, Ontario) lives and works in London,
 England. He attended Harrow College of Art (London) and the 
 Polytechnic of Central London. Lewis began making films in the mid-
 1990s. He has had numerous solo exhibitions, including: the 
-Hamburger Kunstverein, Musee dâ€™art Moderne (Luxembourg), BFI 
+Hamburger Kunstverein, Musee d’art Moderne (Luxembourg), BFI 
 Southbank (London), the National Museum of Contemporary Art 
 (Bucharest), International and National Projects -P.S.1 
 Contemporary Art Center, (New York) and the Vancouver Art Gallery. 
@@ -1489,7 +1489,7 @@ Wrong Wave
 
 In 1983, UNIT/PITT presented the Wrong Wave Festival. Twenty-
 eight years later, we are pleased to present three nights of music by 
-artists, or more specifically music by artistsâ€™ bands. Curated by The 
+artists, or more specifically music by artists’ bands. Curated by The 
 Music Appreciation Society, the festival will consist of two nights of 
 bands and DJs at The Waldorf Hotel (Wednesday the 14th and 
 Thursday the 15th), a one-night â€œchamber performanceâ€  by Mathew 
@@ -1609,72 +1609,72 @@ Canada
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-09-08-21-dazibao-call-oct-1">21. DAZIBAO | CALL | OCT 1</a>
 ------------------------------------------------------------------------
-APPEL DE DOSSIERS : COLLABORATION SPÃ‰CIALE ENTRE 
+APPEL DE DOSSIERS : COLLABORATION SPÉCIALE ENTRE 
 DAZIBAO ET PRIM
 
 DATE LIMITE > 1ER OCTOBRE
 
 Dazibao et PRIM s'unissent pour offrir une occasion exceptionnelle 
-Ã  un artiste de produire et de diffuser une Å“uvre. La proposition 
-retenue tiendra compte des spÃ©cificitÃ©s respectives des deux 
-organismes et devra par consÃ©quent soulever des problÃ©matiques 
-propres aux pratiques de lâ€™image tout en n'ayant crainte d'y 
-confronter l'audio, la vidÃ©o et le traitement numÃ©rique.
+à un artiste de produire et de diffuser une œuvre. La proposition 
+retenue tiendra compte des spécificités respectives des deux 
+organismes et devra par conséquent soulever des problématiques 
+propres aux pratiques de l’image tout en n'ayant crainte d'y 
+confronter l'audio, la vidéo et le traitement numérique.
 
-L'artiste retenu disposera d'un an pour rÃ©aliser son projet. Les 
-Ã©quipements de PRIM seront accessibles Ã  l'artiste pour 
-lâ€™Ã©quivalent dâ€™une somme maximale de 8 000$, selon les taux 
-d'utilisation en vigueur. (PRIM se rÃ©serve le droit de limiter le 
-nombre d'heures par secteur). PRIM offrira Ã  l'artiste lâ€™Ã©quivalent de 
-1 000$ de formation audio et/ou vidÃ©o (non monnayable ou 
-transfÃ©rable). Une somme forfaitaire de 2 000$ sera offerte aux 
-artistes provenant de lâ€™extÃ©rieur de MontrÃ©al en guise de frais de 
+L'artiste retenu disposera d'un an pour réaliser son projet. Les 
+équipements de PRIM seront accessibles à l'artiste pour 
+l’équivalent d’une somme maximale de 8 000$, selon les taux 
+d'utilisation en vigueur. (PRIM se réserve le droit de limiter le 
+nombre d'heures par secteur). PRIM offrira à l'artiste l’équivalent de 
+1 000$ de formation audio et/ou vidéo (non monnayable ou 
+transférable). Une somme forfaitaire de 2 000$ sera offerte aux 
+artistes provenant de l’extérieur de Montréal en guise de frais de 
 subsistance.
 
-Le projet sera ensuite prÃ©sentÃ© dans le cadre de la programmation 
-de Dazibao et bÃ©nÃ©ficiera de tout l'encadrement logistique ainsi que 
-promotionnel accordÃ© aux programmations rÃ©guliÃ¨res du centre. 
+Le projet sera ensuite présenté dans le cadre de la programmation 
+de Dazibao et bénéficiera de tout l'encadrement logistique ainsi que 
+promotionnel accordé aux programmations régulières du centre. 
 L'artiste recevra un droit d'exposition et des droits de reproduction 
-selon les barÃ¨mes (RAAV, CARFAC) en vigueur.
+selon les barèmes (RAAV, CARFAC) en vigueur.
 
 VOTRE PROPOSITION DOIT COMPRENDRE
 
 1. un curriculum vitae
 
-2. un texte sur votre dÃ©marche artistique
+2. un texte sur votre démarche artistique
 
-3. de la documentation visuelle de vos Å“uvres antÃ©rieures
+3. de la documentation visuelle de vos œuvres antérieures
 
-4. une description prÃ©cise du projet soumis, tant Ã  l'Ã©gard des 
-contenus dÃ©veloppÃ©s que du traitement technique et des dispositifs 
-de diffusion envisagÃ©s
+4. une description précise du projet soumis, tant à l'égard des 
+contenus développés que du traitement technique et des dispositifs 
+de diffusion envisagés
 
-5. une Ã©valuation des besoins techniques de production
+5. une évaluation des besoins techniques de production
 
-Veuillez noter que les dossiers ne sont pas retournÃ©s et que les 
-rÃ©ponses seront connues dans un dÃ©lai maximum de six mois.
+Veuillez noter que les dossiers ne sont pas retournés et que les 
+réponses seront connues dans un délai maximum de six mois.
 
-CRITÃˆRES DE SÃ‰LECTION
+CRITÈRES DE SÉLECTION
 
-CaractÃ¨re novateur de la proposition
+Caractère novateur de la proposition
 Pertinence du propos
-AdÃ©quation entre les contenus dÃ©veloppÃ©s et les technologies 
-utilisÃ©es
+Adéquation entre les contenus développés et les technologies 
+utilisées
 
-Les propositions doivent Ãªtre oblitÃ©rÃ©es par la poste au plus tard le 
-1er octobre. Si cette date tombe une fin de semaine ou un jour fÃ©riÃ©, 
-elle est reportÃ©e au jour ouvrable suivant.
+Les propositions doivent être oblitérées par la poste au plus tard le 
+1er octobre. Si cette date tombe une fin de semaine ou un jour férié, 
+elle est reportée au jour ouvrable suivant.
 
-Les propositions incomplÃ¨tes, ou mises Ã  la poste aprÃ¨s la date 
-limite ou transmises par messagerie Ã©lectronique ne seront pas 
-acceptÃ©es.
+Les propositions incomplètes, ou mises à la poste après la date 
+limite ou transmises par messagerie électronique ne seront pas 
+acceptées.
 
-ENVOYER Ã€ :
-Appel de dossiers : Collaboration spÃ©ciale entre Dazibao et PRIM 
+ENVOYER À :
+Appel de dossiers : Collaboration spéciale entre Dazibao et PRIM 
 Dazibao
 
 335, Boul. De Maisonneuve Est
-MontrÃ©al (QuÃ©bec) Canada H2X 1K1
+Montréal (Québec) Canada H2X 1K1
 
 CALL FOR PROPOSALS : SPECIAL COLLABORATION BETWEEN 
 DAZIBAO AND PRIM
@@ -1690,7 +1690,7 @@ digital media.
 
 The selected artist will have one year to complete his/her project. 
 The equivalent of up to $8 000 in equipment and facilities from PRIM 
-will be accessible to the artist, based on PRIMâ€™s current rates. (PRIM 
+will be accessible to the artist, based on PRIM’s current rates. (PRIM 
 reserves the right to limit the number of hours per domain). PRIM 
 will offer the artist $1 000 in video and/or audio training (non 
 transferable, no cash value). For artists living outside of the Montreal 
@@ -1737,7 +1737,7 @@ accepted.
 SEND TO :
 
 Call for proposals : Special collaboration between Dazibao and 
-PRIM Dazibao 335, de Maisonneuve Blvd East MontrÃ©al, (QuÃ©bec) 
+PRIM Dazibao 335, de Maisonneuve Blvd East Montréal, (Québec) 
 H2x 1K1
 
 
@@ -1916,8 +1916,8 @@ Three Years at Sea Part II featuring the work of Bas Jan Ader,
 Matthew
 Benedict, Karl Haendel, Nina Katchadourian, and Slave Pianos. The
 second in a multi-part series about the sea, the exhibition looks at
-ill-fated voyages from Shackletonâ€™s Antarctic expedition to Bas Jan
-Aderâ€™s attempt to sail across the Atlantic. Accompanying the works of
+ill-fated voyages from Shackleton’s Antarctic expedition to Bas Jan
+Ader’s attempt to sail across the Atlantic. Accompanying the works of
 contemporary art are objects and archival materials on loan from the
 Maritime Museum and private collections.
 
@@ -1928,24 +1928,24 @@ Search of the Miraculous, a component of which is in the exhibition.
 Ader would have known of Donald Crowhurst, an English 
 yachtsman who in
 1968 also went missing on a solo voyage (a copy of a book about
-Crowhurst was found in Aderâ€™s possessions). The story of both men 
+Crowhurst was found in Ader’s possessions). The story of both men 
 is
 conflated in a work by the Australian collective Slave Pianos (Danius
 Kesminus, Michael Stevenson, Neil Kelly, Rohan Drape). The 
 Strange
 Voyage of Bas Jan Ader is a radio play, musical score and collection
-of documents that are drawn from an interview with Aderâ€™s widow 
+of documents that are drawn from an interview with Ader’s widow 
 and
 the ramblings of Crowhurst.
 
-Two artists in the exhibition take Ernest Shackletonâ€™s doomed
+Two artists in the exhibition take Ernest Shackleton’s doomed
 expedition to the Antarctic as their subject. Los Angeles-based Karl
 Haendel has produced an installation of hyper-realistic drawings 
 taken
 from photographs of the expedition while New York artist Nina
-Katchadourianâ€™s Endurance is a video projection in which original 
+Katchadourian’s Endurance is a video projection in which original 
 film
-footage of Shackletonâ€™s ship breaking up in the ice is projected on
+footage of Shackleton’s ship breaking up in the ice is projected on
 her tooth. A historic event of great notoriety is also the subject of
 New York-based Matthew Benedict Titanic Breakfast Sampler.
 
@@ -2008,7 +2008,7 @@ studio spaces which are designed to support creative activities and
 social exchanges.
 
 You are also welcome to experience the extraordinary nature of 
-HÃ¤meenkyrÃ¶ Finland (European Union Landscape Award in 2009) 
+Hämeenkyrö Finland (European Union Landscape Award in 2009) 
 where you can soak in the fresh air, go for wandering walks in the 
 deep forests, swimming in the many lakes nearby, go skiing and 
 skating at winter time, do guided hiking and trekking trips in the 
@@ -2019,7 +2019,7 @@ trolls, witches, myths and its inherent ties with nature.
 
 -- 
 Arteles Creative Center
-HahmajÃ¤rventie 26, 38490 HaukijÃ¤rvi, Finland
+Hahmajärventie 26, 38490 Haukijärvi, Finland
 info@arteles.org
 +358 3 410 23 787
 www.arteles.org

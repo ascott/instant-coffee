@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 24
 type: ""
+venue: "JOB"
 summary: "JOB | Richmond Art Gallery | Gallery Technician | JUL 17"
 ---
 

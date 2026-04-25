@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 2
 type: ""
+venue: "Plug In Institute of Contemporary Art"
 summary: "Plug In Institute of Contemporary Art | Summer Institute 2014 Call for Applications | NOV 1"
 ---
 
@@ -13,12 +14,12 @@ Plug In Institute of Contemporary Art, Winnipeg, Manitoba
 Deadline for applications: November 1, 2013
 
 Plug In Institute of Contemporary Art, in partnership with Mentoring Artists for 
-Womenâ€™s Art, is now accepting applications for the 2014 Summer Institute 
+Women’s Art, is now accepting applications for the 2014 Summer Institute 
 featuring Toronto-based artists Deirdre Logue and Allyson Mitchell as faculty.
 
 The Summer Institute is an international post-graduate artist residency for 
 professional artists working in all disciplines and media. The 2014 edition of 
-Plug In ICAâ€™s Summer Institute invites participants who wish to work 
+Plug In ICA’s Summer Institute invites participants who wish to work 
 independently or collaboratively, based upon their own interests and projects. 
 There will also be opportunities to work in a collaborative peer-to-peer 
 environment through group activities, planned during the session. A number of 
@@ -32,28 +33,28 @@ participants will have the opportunity to consider a broad range of practices,
 language and strategies that could be called â€œfeminist,â€  and that contribute to 
 anti-oppression politics.
 
-This critical discursive opportunity will take place in Plug In ICAâ€™s new 
+This critical discursive opportunity will take place in Plug In ICA’s new 
 purpose-built facilities, with an adjoining workshop, art research library, 
-gallery, bookshop and cafÃ©. Plug In ICA is located at the perimeter of the 
+gallery, bookshop and café. Plug In ICA is located at the perimeter of the 
 University of Winnipeg campus, adjacent to the Winnipeg Art Gallery, and in 
 the heart of an urban environment. 
 
 Deirdre Logue and Allyson Mitchell are artists and co-founders of FAG 
-(Feminist Art Gallery). Operating out of the coupleâ€™s converted garage in 
+(Feminist Art Gallery). Operating out of the couple’s converted garage in 
 Toronto, Logue and Mitchell have aligned development and artistic goals in 
 order to operate FAG on its own terms. Their alternative funding system 
 resists the reliance on government or corporate cash, favoring instead a 
-network of feminist community contributors. FAGâ€™s micro-funding program, 
+network of feminist community contributors. FAG’s micro-funding program, 
 DAG, has supported a variety of art projects, among them Les Blues, a group 
 dedicated to increasing the visibility and histories of queer people of colour. 
 NAG, their angry letter writing campaign, took the Toronto International Film 
-Festival to task for their racist and misogynist list of â€œ100 essential filmmakers 
+Festival to task for their racist and misogynist list of “100 essential filmmakers 
 of all time.â€  Recent exhibitions include the presentation of art porn hybrid 
 Community Action Center by AL Steiner and AK Burns and a focus on the UK 
 based Cinenova collection as animated by eight local activists and artists.
 
-FAG is committed to the cultivation of a new kind of sisterhood that isnâ€™t 
-based on gender and privilege and a new kind of brotherhood that isnâ€™t based 
+FAG is committed to the cultivation of a new kind of sisterhood that isn’t 
+based on gender and privilege and a new kind of brotherhood that isn’t based 
 on rape and pillage. FAG is feminist in its resistance and in its attempts to 
 reconcile â€œartsâ€  participation in oppressive systems. FAG is feminist in its 
 insistence on closing the gap between studio, gallery, art, activism, social 
@@ -62,9 +63,9 @@ https://www.facebook.com/FeministArtGallery
 
 As well as operating this truly alternative arts space, Deirdre Logue is 
 currently the Development Director at Vtape and Allyson Mitchell works as 
-Associate Professor in the School of Gender, Sexuality and Womenâ€™s 
+Associate Professor in the School of Gender, Sexuality and Women’s 
 Studies at York University. Both have prolific international art practices. 
 www.allysonmitchell.com and www.deirdrelogue.com
 
 For more information and to apply for the Summer Institute 2014, please visit 
-Plug In ICAâ€™s website at http://plugin.org/summer-institute.
+Plug In ICA’s website at http://plugin.org/summer-institute.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 15
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Serve the Servos [Workshop] | OCT 19"
 ---
 

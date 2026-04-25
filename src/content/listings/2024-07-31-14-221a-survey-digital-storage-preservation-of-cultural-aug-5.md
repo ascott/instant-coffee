@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 14
 type: "CALL"
+venue: "221A"
 summary: "221A | Survey: Digital Storage & Preservation of Cultural | AUG 5"
 ---
 

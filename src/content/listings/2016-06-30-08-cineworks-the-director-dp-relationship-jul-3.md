@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 8
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | The Director-DP Relationship | JUL 3"
 ---
 

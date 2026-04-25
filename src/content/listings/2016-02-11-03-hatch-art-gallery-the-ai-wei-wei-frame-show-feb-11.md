@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 3
 type: "OPENING"
+venue: "Hatch Art Gallery"
 summary: "Hatch Art Gallery | The Ai Wei Wei Frame Show | FEB 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | 1st Draft Qian Cheng | MAY 1"
 ---
 

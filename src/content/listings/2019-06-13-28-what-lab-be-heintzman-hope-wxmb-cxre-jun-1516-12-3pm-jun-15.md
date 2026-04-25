@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 28
 type: "EDUCATION"
+venue: "What Lab"
 summary: "What Lab | Be Heintzman Hope | Wxmb Cxre | JUN 15+16 | 12-3PM | JUN 15"
 ---
 

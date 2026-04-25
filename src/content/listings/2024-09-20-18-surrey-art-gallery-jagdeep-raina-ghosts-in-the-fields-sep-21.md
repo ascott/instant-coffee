@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 18
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Jagdeep Raina: Ghosts In The Fields | SEP 21"
 ---
 

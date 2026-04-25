@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 11
 type: ""
+venue: "Gam Gallery"
 summary: "Gam Gallery | Wish You Were Here! | FEB 28"
 ---
 
 Wish You Were Here!
-February 28 â€“ March 21, 2014 
-Opening Reception: February 28, 7:30 â€“ 11 pm
+February 28 – March 21, 2014 
+Opening Reception: February 28, 7:30 – 11 pm
 
 Gam Gallery
 110 E Hastings St., Vancouver BC
@@ -28,10 +29,10 @@ imagining our surroundings.
 
 The sculptures in Wish You Were Here! seek to preserve a moment in time. 
 The dioramas included in the exhibition are of places found within 
-Vancouverâ€™s rapidly developing and re-developing landscape documented by 
+Vancouver’s rapidly developing and re-developing landscape documented by 
 the artist and made into miniature form. The resulting work depicts scenes 
 that may or may not still exist, standing as a record of the continuously 
-changing cityscape. As Susan Stewart claims in her book On Longing, â€œWe 
+changing cityscape. As Susan Stewart claims in her book On Longing, “We 
 ﬁnd the miniature at the origin of private, individual history, but we ﬁnd the 
 gigantic at the origin of public and natural history.â€  The works in the exhibition 
 oscillate between allusion and deﬁnition, souvenir and model, and the 
@@ -42,7 +43,7 @@ civic identity, the perspectives of and relationship between the tourist and
 local, as well as the value we place on certain landscapes over others. The 
 proximity and tenuous relationship between culture and nature in the specific 
 context of Vancouver provides a fascinating hub of contradictions that 
-inspire McNeilâ€™s artistic practice and desire to study the urban pastoral 
+inspire McNeil’s artistic practice and desire to study the urban pastoral 
 through the medium of miniature sculpture.
 
 ---

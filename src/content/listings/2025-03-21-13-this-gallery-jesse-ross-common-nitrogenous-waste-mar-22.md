@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 13
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Jesse Ross - common nitrogenous waste | MAR 22"
 ---
 

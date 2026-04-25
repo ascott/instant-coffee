@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 32
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Food as Sculpture by Svava Tergesen | 1PM | APR 2"
 ---
 

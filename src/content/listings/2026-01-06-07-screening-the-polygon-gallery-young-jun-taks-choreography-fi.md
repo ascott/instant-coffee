@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Polygon Gallery | Young-jun Tak’s Choreography Film Series | JAN 8"
 ---
 

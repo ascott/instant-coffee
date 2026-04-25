@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 30
 type: "EXHIBITION"
+venue: "The Sidney and Gertrude Zack Gallery"
 summary: "The Sidney and Gertrude Zack Gallery | Morning Star - Rosamunde Bordo | CLOSING FEB 7 | FEB 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 22
 type: "OPENING"
+venue: "Salt Spring Gallery"
 summary: "Salt Spring Gallery | Melanie Thompson - Imaginarium Botanica install | APR 12"
 ---
 

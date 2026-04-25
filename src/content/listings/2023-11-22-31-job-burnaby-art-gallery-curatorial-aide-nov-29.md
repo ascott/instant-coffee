@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 31
 type: ""
+venue: "JOB"
 summary: "JOB | Burnaby Art Gallery | Curatorial Aide | NOV 29"
 ---
 

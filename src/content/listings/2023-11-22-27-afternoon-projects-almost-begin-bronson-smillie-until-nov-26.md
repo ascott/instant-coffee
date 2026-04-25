@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 27
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Almost Begin Bronson Smillie | UNTIL NOV 26 | NOV 26"
 ---
 

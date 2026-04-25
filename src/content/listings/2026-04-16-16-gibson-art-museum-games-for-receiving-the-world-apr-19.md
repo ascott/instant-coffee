@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 16
 type: ""
+venue: "Gibson Art Museum"
 summary: "Gibson Art Museum | Games for Receiving the World | APR 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 12
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | The Culture Series: David Wisdom | JUL 26"
 ---
 
@@ -20,7 +21,7 @@ David Wisdom
 As part of the Culture Series at the Vancouver Art Gallery, musician, 
 photographer and former CBC radio host David Wisdom presents two special 
 summer nights of his legendary slide shows. Featuring Marv Newland, Neil 
-Wedman, Kathy Slade, Manuel Pina, James Oâ€™Mara, Doug Lander on July 26th, 
+Wedman, Kathy Slade, Manuel Pina, James O’Mara, Doug Lander on July 26th, 
 and Bill Jeffries, Karin Bubas, Rodney Graham, Stuart McCall, Robert Kleyn, 
 Connie Kuhns on August 23rd, the evenings will unfold with Wisdom and his line 
 up of speakers presenting their slide shows set to music.

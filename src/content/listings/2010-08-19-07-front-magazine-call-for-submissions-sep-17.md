@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: refuse glow ball"
 emailDate: "Thu, 19 Aug 2010 10:15:10 -0700"
 number: 7
 type: ""
+venue: "Front Magazine"
 summary: "Front Magazine | CALL for submissions | SEP 17"
 ---
 

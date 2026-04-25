@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 21
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | The Performance of Everything | Workshop | JUL 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 18
 type: ""
+venue: "Deluge Contemporary Art, Victoria"
 summary: "Deluge Contemporary Art, Victoria | Robert Youds | MAR 9"
 ---
 

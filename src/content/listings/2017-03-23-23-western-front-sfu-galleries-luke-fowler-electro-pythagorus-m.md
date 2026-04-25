@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 23
 type: ""
+venue: "Western Front + SFU Galleries"
 summary: "Western Front + SFU Galleries | Luke Fowler | Electro-pythagorus | MAR 29"
 ---
 

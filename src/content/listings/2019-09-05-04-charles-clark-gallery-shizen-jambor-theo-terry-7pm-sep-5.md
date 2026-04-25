@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 4
 type: "OPENING"
+venue: "Charles Clark Gallery"
 summary: "Charles Clark Gallery | Shizen Jambor & Theo Terry | 7PM | SEP 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 24
 type: "OPENING"
+venue: "Trapp Projects"
 summary: "Trapp Projects | Contra Band | 1PM | MAR 2"
 ---
 

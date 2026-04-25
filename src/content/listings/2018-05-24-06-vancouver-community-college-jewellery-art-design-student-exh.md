@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 6
 type: "OPENING"
+venue: "Vancouver Community College"
 summary: "Vancouver Community College | Jewellery Art & Design Student Exhibition | 6-9PM | MAY 24"
 ---
 

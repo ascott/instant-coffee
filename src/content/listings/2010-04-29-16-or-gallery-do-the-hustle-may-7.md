@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 16
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | DO THE HUSTLE | MAY 7"
 ---
 

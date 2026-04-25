@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 28
 type: "CALL"
+venue: "SANTA ROSA ARTS AND HEALING"
 summary: "SANTA ROSA ARTS AND HEALING | On Curation - Mentorship Project | APR 24"
 ---
 

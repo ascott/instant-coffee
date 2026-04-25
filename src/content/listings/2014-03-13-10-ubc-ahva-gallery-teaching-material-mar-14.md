@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 10
 type: "OPENING"
+venue: "UBC AHVA Gallery"
 summary: "UBC AHVA Gallery | Teaching Material | MAR 14"
 ---
 

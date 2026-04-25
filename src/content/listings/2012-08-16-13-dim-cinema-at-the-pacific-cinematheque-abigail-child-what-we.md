@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 13
 type: ""
+venue: "Dim Cinema at the Pacific Cinematheque"
 summary: "Dim Cinema at the Pacific Cinematheque | Abigail Child: What We desire | AUG 20"
 ---
 
@@ -14,22 +15,22 @@ Monday August 20 2012, 7:30pm
 $10.50/$9 + $3 membership
 dimcinema.ca / cinematheque.bc.ca
 
-In her vast and compelling oeuvre, media artist and poet Abigail Childâ€™s 
-created three unique films that speak to womenâ€™s political, sexual, and 
+In her vast and compelling oeuvre, media artist and poet Abigail Child’s 
+created three unique films that speak to women’s political, sexual, and 
 economic experiences on the streets of New York. Mutiny (1983) is a 
-panoply of expression and gesture. Itâ€™s a collage of women: at home, 
-on the street, at the workplace, and at school â€” talking, singing, 
+panoply of expression and gesture. It’s a collage of women: at home, 
+on the street, at the workplace, and at school — talking, singing, 
 dancing, and playing the violin. Mutiny belongs to a series of montage 
 films, entitled "Is this is what you were born for?", in which Child 
 conducts an archaeological dig through the miasma of images and 
 expectations we are born into. In Game (1972), an intimate portrait of a 
-couple, Childâ€™s compassion, generosity, and fearlessness nurture a 
+couple, Child’s compassion, generosity, and fearlessness nurture a 
 complex conversation on civil rights, sexual politics, prison justice, love, 
 and economics that reveals the real game within American culture. 
 B/side (1996) is a poetic rumination on urban homelessness. Framed 
 by footage of the encampment locally known as Dinkinsville on New 
-Yorkâ€™s Lower East Side, B/side is composed of sensitive vÃ©ritÃ© footage 
-of the siteâ€™s external conditions and intimate vignettes of womenâ€™s 
+York’s Lower East Side, B/side is composed of sensitive vérité footage 
+of the site’s external conditions and intimate vignettes of women’s 
 interior fantasies.
 
 Abigail Child is a media artist and writer whose original montage pushes 

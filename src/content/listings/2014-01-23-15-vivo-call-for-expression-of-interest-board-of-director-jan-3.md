@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 15
 type: ""
+venue: "VIVO"
 summary: "VIVO | Call for Expression of Interest: Board of Director | JAN 31"
 ---
 
@@ -58,7 +59,7 @@ Interested individuals are asked to submit their resume and a letter of
 intent in person or by mail to the address below by January 31, 2014:
 
 VIVO Media Arts Centre
-Attn: Board Nominations Committee â€“ General Manager
+Attn: Board Nominations Committee – General Manager
 1965 Main Street Vancouver BC V5T 3C1
 or by email to admin@vivomediaarts.com
 

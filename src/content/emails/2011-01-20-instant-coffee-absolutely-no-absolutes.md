@@ -14,7 +14,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-01-20-02-painted-carpet-scrap-gold-jan-20">02. PAINTED CARPET | SCRAP GOLD | JAN 20</a>
 <a href="/instant-coffee/listings/2011-01-20-03-western-front-media-arts-michael-turners-three-readings-onli">03. Western Front Media Arts | Michael Turner's Three Readings | online | JAN 20</a>
 <a href="/instant-coffee/listings/2011-01-20-04-artspeak-robert-arndt-jan-21">04. ARTSPEAK | Robert Arndt | JAN 21</a>
-<a href="/instant-coffee/listings/2011-01-20-05-blim-justine-nagans-typeface-jan-21">05. BLIM | Justine Naganâ€™s Typeface | JAN 21</a>
+<a href="/instant-coffee/listings/2011-01-20-05-blim-justine-nagans-typeface-jan-21">05. BLIM | Justine Nagan’s Typeface | JAN 21</a>
 <a href="/instant-coffee/listings/2011-01-20-06-les-gallery-megan-hepburn-and-anders-oinonen-jan-21">06. LES Gallery | MEGAN HEPBURN AND ANDERS OINONEN | JAN 21</a>
 <a href="/instant-coffee/listings/2011-01-20-07-surrey-art-gallery-germaine-koh-and-gordon-hicks-jan-22">07. Surrey Art Gallery | Germaine Koh and Gordon Hicks | JAN 22</a>
 <a href="/instant-coffee/listings/2011-01-20-08-waldorf-day-for-night-films-in-the-afternoon-jan-23">08. waldorf | Day for Night | Films in the Afternoon | JAN 23</a>
@@ -102,7 +102,7 @@ executed supersensible Kantian subjectivity.
 In a breath, Logan Sturrock is assembling a feast for all cognitive
 receptors, and under the guidance and implementation of Chris
 Boni, the exhibition SCRAP GOLD will make you pan the gutters on
-your way to the next Canucks matchâ€¦no doubt. Come buy Art or
+your way to the next Canucks match…no doubt. Come buy Art or
 juiced beet & ginger shots.
 Please. And thank you.
 
@@ -127,7 +127,7 @@ Bowering) now available for download at www.front.bc.ca
 * bpNichol and Steve McCaffery performing Aupe Relationship at Western
 Front , November 21st, 1977.
 
-Western Front Media Arts is pleased to present Michael Turnerâ€™s text Three
+Western Front Media Arts is pleased to present Michael Turner’s text Three
 Readings: Camera, Tape and Sound (Kathy Acker, Steve McCaffery/bpNicol, and
 Kevin Davies, as introduced by George Bowering) for free PDF download. As
 part of Past is Prologue, Western Front Media Arts new archival research
@@ -148,7 +148,7 @@ The file is available for download to the right side of the page.
 For more information please contact Sarah Todd at sarahtodd@front.bc.ca
 Michael Turner is an award-winning writer of fiction, criticism and song.
 His books include Hard Core Logo (Arsenal Pulp, Vancouver, 1993), The
-Pornographerâ€™s Poem (Doubleday, Toronto, 1999) and 8Ã—10(Doubleday, Toronto,
+Pornographer’s Poem (Doubleday, Toronto, 1999) and 8×10(Doubleday, Toronto,
 2009), and his criticism has appeared in the magazines Art Papers, Art On
 Paper, and Modern Painters. He has written catalogue essays on Julia Feyrer
 (Artspeak Gallery, 2010), Tim Lee (Presentation House Gallery, Vancouver,
@@ -184,19 +184,19 @@ Robert Arndt
 January 22 - March 26, 2011
 Opening January 21, 8pm
 Artist Talk February 12, 2pm
-Robert Arndtâ€™s most recent video work, Placeholder, uses a
+Robert Arndt’s most recent video work, Placeholder, uses a
 commercial documentation shoot for a series of homogenous
 blocks as the setting for an absurdist theatre of critical dialogue.
 Through this familiar backdrop of well-considered object
 presentation, the scene becomes a site of dubious discourse, akin
 to an aesthetic sample group. Actors adopt the roles of off-camera
 producers and directors, engaging in disagreeable narration and
-directing the objectsâ€™ placement while negotiating aesthetic
+directing the objects’ placement while negotiating aesthetic
 judgments, language, and the structures of authority through the
 practicalities of collaborative documentation. Moving beyond the
-presentation of video as theatre model, Arndtâ€™s video installation
+presentation of video as theatre model, Arndt’s video installation
 implicates the screen, gallery, and viewer in this discourse through
-itâ€™s unconventional presentation.
+it’s unconventional presentation.
 Arndt's work suggests a manner of reading the object/subject under
 a diversiform of presentations, styles, subjectivity, and institutional
 structures through art and cinematic history. His work shifts
@@ -216,16 +216,16 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-01-20-05-blim-justine-nagans-typeface-jan-21">05. BLIM | Justine Naganâ€™s Typeface | JAN 21</a>
+<a href="/instant-coffee/listings/2011-01-20-05-blim-justine-nagans-typeface-jan-21">05. BLIM | Justine Nagan’s Typeface | JAN 21</a>
 ------------------------------------------------------------------------
-Justine Naganâ€™s Typeface â€” A Chronicle of Typography in the
+Justine Nagan’s Typeface — A Chronicle of Typography in the
 Digital Age and Dying Art of Timeless Craftsmanship
 Friday January 21 | Doors: 7 & 9 PM, Screening: 7:30 & 9:30 PM |
-$7 â€“ 10 sliding scale
+$7 – 10 sliding scale
 IN ORDER TO ACCOMMODATE AS MANY AS POSSIBLE, WE WILL
 BE HAVING TWO SCREENINGS FRIDAY, JANUARY 21: 7:30 &
 9:30PM. LIMITED SEATING, NO ADVANCE TICKETS.
@@ -236,7 +236,7 @@ digital age. The Hamilton Wood Type Museum in Two Rivers, WI
 personifies cultural preservation, rural re-birth and the lineage of
 American graphic design. At Hamilton, international artisans meet
 retired craftsmen and together navigate the convergence of modern
-design and traditional technique. But the Museumâ€™s days may be
+design and traditional technique. But the Museum’s days may be
 numbered. What is the responsibility of artists and historians to
 preserve a dying craft? How can rural towns survive in a shifting
 industrial marketplace where big-box retailers are king?
@@ -244,7 +244,7 @@ Year: 2009 | Runtime: 63 mins | Language: English | Country: USA |
 Color: Color
 IMDb Link: imdb.com/title/tt1207998/
 Director: Justine Nagan
-The highly anticipated directorial debut of Kartemquin Filmsâ€™
+The highly anticipated directorial debut of Kartemquin Films’
 Executive Director and Producer Justine Nagan was filmed in
 Wisconsin. Typeface focuses on a rural Midwestern museum and
 print shop where international artists meet retired craftsmen and
@@ -256,7 +256,7 @@ through Two Rivers and there, found a block-long warehouse that
 housed 1.5 million pieces of wood type, handcrafted relics of a
 bygone era. The result? A 60-minute movie, that tells the story of
 how the art of typography struggles to find its place in the digital age.
-It also chronicles the Hamilton Familyâ€™s own fight for survival.
+It also chronicles the Hamilton Family’s own fight for survival.
 â€œI stumbled upon Hamilton by chance,â€  said Nagan. â€œThe age old
 artisan handwork and craftsmanship is inspiring and the place is
 both a national and historical treasure. The story of a diminishing
@@ -301,7 +301,7 @@ www.blim.ca
 MEGAN HEPBURN AND ANDERS OINONEN
 Pulling a Slow One
 Opening Reception January 21st 201, 7pm-11pm
-January 21st â€“ February 26th, 2011
+January 21st – February 26th, 2011
 
 This show of new works by Megan Hepburn and Anders Oinonen
 explores contrasting yet complementary painting processes.
@@ -322,7 +322,7 @@ completed her MFA at Concordia University in Montreal.
 Anders Oinonen has had solo shows at CTRL Gallery, Houston,
 Texas and Mehr (Midtown), New York and Greener Pastures
 Contemporary Art, Toronto. Oinonen has shown in group shows at
-MusÃ©e d'art contemporain de MontrÃ©al, MontrÃ©al and Deitch
+Musée d'art contemporain de Montréal, Montréal and Deitch
 Projects, New York. Anders currently has an artist project featured in
 Hunter And Cook issue 07.
 
@@ -352,8 +352,8 @@ January 22 to March 27
 
 Presented with the Vancouver Biennale
 
-Since Indiaâ€™s economic liberalizations of the early 1990s, the
-countryâ€™s visual landscape and the daily life for many of its citizens
+Since India’s economic liberalizations of the early 1990s, the
+country’s visual landscape and the daily life for many of its citizens
 has been dramatically transformed. Likewise, Indian visual art has
 taken on many new characteristics over the past twenty years as it
 responds to these changes. For those artists based in the
@@ -376,7 +376,7 @@ the world.
 Artists: Ranbir Kaleka, Reena Saini Kallat, TV Santhosh, Sudarshan
 Shetty, artist collective Thukral & Tagra, Hema Upadhyay
 
-Panel Discussion â€“ Conversation on Contemporary Indian Art |
+Panel Discussion – Conversation on Contemporary Indian Art |
 Saturday, March 5, 2-4pm
 
 Surrey Art Gallery
@@ -402,12 +402,12 @@ telepresence, manifested by constant mobile phone and portable
 computer use, relationships between time and space are being
 altered in significant ways. The exhibition There/Here presents a set
 of three artworks related to this contemporary condition. In Koh and
-Hicksâ€™ new work There/Here (2011), multiple doorways link space
+Hicks’ new work There/Here (2011), multiple doorways link space
 and time through the sensation of touch. Using an internet data
 stream, the actions performed on one object are duplicated on the
 other. In this spatial diptych of co-relation the act of entering is
 simultaneously a form of uncanny exiting. Also included in the
-exhibition are Kohâ€™s Call (2006) and Hicksâ€™ loop_02 (2011). Call
+exhibition are Koh’s Call (2006) and Hicks’ loop_02 (2011). Call
 (2006) alters redundant telephone technology to provoke random
 contact and informal discussion with strangers across short
 distances. loop_02 (2011) presents two simultaneous images that
@@ -427,7 +427,7 @@ free admission | refreshments provided
 
 Other related programs for both exhibitions
 
-Curatorâ€™s Tour | Thursday, February 10, 7:30-8:30pm | Surrey Art
+Curator’s Tour | Thursday, February 10, 7:30-8:30pm | Surrey Art
 Gallery
 Join Jordan Strom, Curator of Exhibitions and Collections, Surrey Art
 Gallery for a guided tour of the current exhibitions.
@@ -482,23 +482,23 @@ Ogier, who died of a heart attack at the age of 25, mere weeks after
 the film was released), an interior designer in her 20s who lives with
 her athletic architect boyfriend, Remi, in the suburbs and spends
 her weekends partying until dawn in Paris and crashing at her pied-
-Ã -terre. Like many Rohmer characters who seek to rationalize
+à-terre. Like many Rohmer characters who seek to rationalize
 impossible situations, Louise believes she has figured out a perfect
 system in which she can maintain and even strengthen her long-
 term relationship while negotiating a way to stay free. Music and
 cameos by 80s French electro-pop duo Elli and Jacno.
 
-Every Sunday come down to the Waldorfâ€™s lower-level clubhouse to
+Every Sunday come down to the Waldorf’s lower-level clubhouse to
 spend the afternoon in the dark with friends and a stiff cocktail to
-watch some of the worldâ€™s great films selected by the hotelâ€™s
+watch some of the world’s great films selected by the hotel’s
 resident cineaste, Anu Sahota. DAY FOR NIGHT presents an
 intimate environment to share in a love of classics and eccentrics
 from Hollywood, documentaries from all over, NFB shorts and
 Canadian television, and rarely-screened art films. DAY FOR NIGHT
 will surprise you with guest presenters, archival footage and
-broadcast ephemera â€“ maintaining a focus on Vancouverâ€™s culture
+broadcast ephemera – maintaining a focus on Vancouver’s culture
 and history. The perfect tonic to end a rousing weekend, DAY FOR
-NIGHT is the Waldorf Hotelâ€™s celebration of film.
+NIGHT is the Waldorf Hotel’s celebration of film.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-01-20-09-ecu-talk-volker-gerling-jan-24">09. ECU | talk | Volker Gerling | JAN 24</a>
@@ -507,7 +507,7 @@ Monday, January 24, 2011 - 7:00pm
 Emily Carr Lecture Theatre | SB Room 301
 1400 Johnston Street, Granville Island, Vancouver
 
-Volker Gerlingâ€™s flip-book cinema has quietly become legendary. Having
+Volker Gerling’s flip-book cinema has quietly become legendary. Having
 walked some 3000 kilometres through Germany on foot, Gerling took
 photographs of people he met during his wanderings, creating portraits in
 the form of photographic flip-books. He met an old man who wanted to
@@ -519,7 +519,7 @@ Gerling describes great, small, serious and quirky accidental encounters
 and, for a moment, brings his protagonists to life on the screen. They
 appear so life-like in fact, that the observer feels as if they have known
 the subject for years. On stage, Gerling flips through the photos
-underneath a video camera lens and projects the images onto a screen â€“
+underneath a video camera lens and projects the images onto a screen –
 recounting the stories of those who let themselves be photographed. These
 magical studies inspire gentle but profound reflection upon the transitory
 nature of the moment and the significance of interpersonal encounters. The
@@ -530,7 +530,7 @@ numerous international theatre festivals throughout Europe.
 This lecture is presented in partnership with the PuSh Festival; January 18
 - February 6, 2011.
 
-Each semester, Emily Carrâ€™s Speaker Series brings to campus the unique and
+Each semester, Emily Carr’s Speaker Series brings to campus the unique and
 diverse perspectives of world-renowned artists, architects, designers,
 curators, scholars, and writers. Each speaker presents their work and
 invites the audience to participate in a critical discussion. The primary
@@ -570,7 +570,7 @@ Charles H. Scott Gallery in Vancouver, Kunstlerhaus Bethanien in Berlin,
 and the British Museum in London UK, and was awarded the prestigious Jack
 and Doris Shadbolt Foundation's VIVA Award in 2010.
 
-Germaine Kohâ€™s latest exhibition There/Here in collaboration with Gordon
+Germaine Koh’s latest exhibition There/Here in collaboration with Gordon
 Hicks is on view at Surrey Art Gallery from 15 January to 20 March 2011.
 Regular collaborators, Koh and Hicks are interested in how, in our age of
 everyday telepresence generated by continual computer and PDA use,
@@ -595,7 +595,7 @@ ROY ARDEN
 
 UNDERTHESUN
 
-January 28 â€“ March 27, 2011
+January 28 – March 27, 2011
 
 Opening reception: Thursday, January 27, 2011, 6-9pm
 
@@ -615,7 +615,7 @@ paper and digital collage. Always focused on finding multiple root causes
 for our present condition through relentless digging, quotation and
 reinterpretation, his recent adventure with various media seems like a
 search for new diagnostic tools, insights that could not be revealed by
-photography alone. Combining made and found objects, Ardenâ€™s new sculptural
+photography alone. Combining made and found objects, Arden’s new sculptural
 works extend his oeuvre to a bricolage that is at once playful and
 completely serious.
 
@@ -638,7 +638,7 @@ contact info@contemporaryartgallery.ca
 Roy Arden: UNDERTHESUN is sponsored by The Hamber Foundation.
 
 Publication: a pictorial artist's publication, made possible with support
-from the City of Vancouverâ€™s 125th Anniversary Grants Program, will be
+from the City of Vancouver’s 125th Anniversary Grants Program, will be
 available during the exhibition.
 
 Our education programmes are generously sponsored by Connor, Clark & Lunn
@@ -650,7 +650,7 @@ We are grateful for the support of Vancouver Foundation and our members,
 donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm.
 Admission is by donation. For more information please contact:
 info@contemporaryartgallery.ca or 604-681-2700
 
@@ -826,7 +826,7 @@ www.nodecenter.org
 Contact
 
 info@nodecenter.org
-Ignacio GarcÃ­a GÃ³mez del Valle / Perla Montelongo
+Ignacio García Gómez del Valle / Perla Montelongo
 Phone: +49 152 2769 9078
 
 Address
@@ -836,9 +836,9 @@ www.nodecenter.org
 Info
 
 Open application period:
-January 1st â€“ January 30th 2011
+January 1st – January 30th 2011
 Program dates:
-March 15th â€“ June 7th 2011
+March 15th – June 7th 2011
 
 The Node Center for Curatorial Studies is a platform of formation,
 experimentation, and diffusion in the field of curatorship and in the
@@ -904,7 +904,7 @@ The results of the application process will be published February 7th, 2011.
 ------------------------------------------------------------------------
 Trampoline Hall
 
-Sunday, January 30 Â· 7:00pm - 10:30pm
+Sunday, January 30 · 7:00pm - 10:30pm
 
 @Performance Works
 1218 Cartwright Street
@@ -921,7 +921,7 @@ a Q&A with the audience which is usually also a ...lot of fun.
 
 Trampoline Hall was invented by the writer Sheila Heti, and is hosted by
 Misha Glouberman. In Toronto, it is something of an institution, playing
-sold-out shows every month for the past eight years or so. Itâ€™s also played
+sold-out shows every month for the past eight years or so. It’s also played
 to great crowds in around a dozen US cities, including Atlanta, Boston, New
 York, Louisville, Chicago, and San Francisco, and at the Push Festival in
 Vancouver in 2009.
@@ -937,7 +937,7 @@ set design by Mark DeLong Dan Siney
 
 ~~~~
 
-""Unrulyâ€¦ Caustically Funny" - Durham Independent
+""Unruly… Caustically Funny" - Durham Independent
 
 "They've been doing this for several years up in Toronto... now New Yorkers
 are in its thrall. Clearly, we love it." - The Village Voice
@@ -996,7 +996,7 @@ home is where the cart is
 CECILY NICHOLSON is a Vancouver and Surrey-based organizer.
 She has worked with women of the downtown eastside community
 of Vancouver for the past decade and is currently the Coordinator of
-Funds with the Downtown Eastside Womenâ€™s Centre. Cecily has
+Funds with the Downtown Eastside Women’s Centre. Cecily has
 collaborated most recently as a member of the VIVO Media Arts
 collective, Press Release poetry collective and No One is Illegal,
 Vancouver collective. Triage, a book of poetry, is forthcoming from
@@ -1084,11 +1084,11 @@ immigrants, students, cruise ships, and tourists each year. This constant
 flow of people continues
 to stimulate the city's deep cultural roots.
 
-â€˜Come From Awayâ€™ is a curated show exploring the role Halifax plays in the
+‘Come From Away’ is a curated show exploring the role Halifax plays in the
 development of
 Canadian culture and personal Canadian identity. This show addresses some
 of the key cultural
-signifiers of â€˜Canadian Identityâ€™ through exploring a variety of ideas and
+signifiers of ‘Canadian Identity’ through exploring a variety of ideas and
 media. This show will
 embrace the diversity of culture in Halifax with an open call to inspired
 emerging artists who are
@@ -1144,20 +1144,20 @@ www.eyelevelgallery.ca
 Matilda Aslizadeh: "Phantom Smile"
 
 January 8 to February 26 , 2011
-Opening Reception: Saturday January 8 , 3â€“5 pm
+Opening Reception: Saturday January 8 , 3–5 pm
 
 SFU Gallery, Academic Quadrangle
 Room 3004, SFU Burnaby Campus
 
-Matilda Aslizadehâ€™s Phantom Smile presents a suite of six fictional female
+Matilda Aslizadeh’s Phantom Smile presents a suite of six fictional female
 faces, each in an Edenic, misty fog of celebrity and allure. Just as
-individuals are a DNA blend, Aslizadehâ€™s creations exist in a liminal,
+individuals are a DNA blend, Aslizadeh’s creations exist in a liminal,
 blended state between nature and culture that adds a new twist to the
 history of the photographic portrait. The projection of beauty in these
-seemingly natural, but over-developed smiles is perhaps Hollywoodâ€™s
-greatest gift to popular culture. Aslizadehâ€™s phantom smiles mirror
-cinemaâ€™s performative artificiality, and reference projects such as Cindy
-Shermanâ€™s, while providing a corrective to the overly elaborate schemes
+seemingly natural, but over-developed smiles is perhaps Hollywood’s
+greatest gift to popular culture. Aslizadeh’s phantom smiles mirror
+cinema’s performative artificiality, and reference projects such as Cindy
+Sherman’s, while providing a corrective to the overly elaborate schemes
 some have employed to make basic points about the nature of identity.
 
 Please join us for an artist talk with Matilda Aslizadeh: Monday January
@@ -1173,7 +1173,7 @@ any Visitor Lot at SFU (face up on dashboard or hand to parking attendant).
 
 SFU Gallery | 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
 
-Gallery Hours: Tuesday â€“ Friday : 10am â€“ 5pm, Saturday : 12pm â€“ 5pm. Closed
+Gallery Hours: Tuesday – Friday : 10am – 5pm, Saturday : 12pm – 5pm. Closed
 Saturdays on holiday long weekends.
 
 ------------------------------------------------------------------------
@@ -1220,8 +1220,8 @@ the resuscitation of analogoue communication.
 
 Special attention will be paid to work that converses with the aural/oral
 and visual history and identity dating, pre-dating and post-dating
-Vancouverâ€™s 125 years. We encourage artists, curators and centres to
-submit works or ideas for programs that highlight Vancouverâ€™s media art
+Vancouver’s 125 years. We encourage artists, curators and centres to
+submit works or ideas for programs that highlight Vancouver’s media art
 history.
 
 Signal & Noise Media Arts Festival: June 23-26 2011

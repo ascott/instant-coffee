@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 3
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Deep Blue | Sabisha Friedberg: The Hant Variance finale | 7PM | MAR 29"
 ---
 

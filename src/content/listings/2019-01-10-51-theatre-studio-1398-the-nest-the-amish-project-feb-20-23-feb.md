@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 51
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Studio 1398 (The NEST) | The Amish Project | FEB 20-23 | FEB 20"
 ---
 

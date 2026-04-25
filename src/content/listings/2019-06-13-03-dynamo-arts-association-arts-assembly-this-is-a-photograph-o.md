@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 3
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Arts Assembly | This is a Photograph of Me | 6PM | JUN 13"
 ---
 

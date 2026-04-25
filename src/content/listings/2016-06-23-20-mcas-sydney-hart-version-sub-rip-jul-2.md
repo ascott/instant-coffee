@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 20
 type: "OPENING"
+venue: "MCAS"
 summary: "MCAS | Sydney Hart: Version Sub Rip | JUL 2"
 ---
 

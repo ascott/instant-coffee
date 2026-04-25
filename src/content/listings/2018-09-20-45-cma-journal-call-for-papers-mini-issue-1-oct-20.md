@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 45
 type: "CALL"
+venue: "CMA Journal"
 summary: "CMA Journal | Call for Papers: Mini Issue #1 | OCT 20"
 ---
 

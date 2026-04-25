@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 2
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Kimberly Phillips | 6PM | JUN 13"
 ---
 

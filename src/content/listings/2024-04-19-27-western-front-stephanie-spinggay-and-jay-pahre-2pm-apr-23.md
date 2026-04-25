@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 27
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Stephanie Spinggay and Jay Pahre | 2PM | APR 23"
 ---
 

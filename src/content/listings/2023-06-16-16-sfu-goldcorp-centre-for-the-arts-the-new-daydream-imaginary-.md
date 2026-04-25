@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 16
 type: "EVENT"
+venue: "SFU Goldcorp Centre for the Arts"
 summary: "SFU Goldcorp Centre for the Arts | The New Daydream Imaginary | JUN 17"
 ---
 

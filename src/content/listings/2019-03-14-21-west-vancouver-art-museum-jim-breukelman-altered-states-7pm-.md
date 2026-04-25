@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 21
 type: "OPENING"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | JIM BREUKELMAN: ALTERED STATES | 7pm | MAR 19"
 ---
 

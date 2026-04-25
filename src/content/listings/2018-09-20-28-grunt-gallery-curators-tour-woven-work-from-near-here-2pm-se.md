@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 28
 type: "TALK"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Curators Tour | Woven Work From Near Here | 2PM | SEP 29"
 ---
 

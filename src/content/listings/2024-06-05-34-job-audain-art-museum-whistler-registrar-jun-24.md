@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 34
 type: ""
+venue: "JOB"
 summary: "JOB | Audain Art Museum [WHISTLER] | Registrar | JUN 24"
 ---
 

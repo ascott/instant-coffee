@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 38
 type: "TALK"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Ellen Davis on Channa Horwitz | 630PM | JUL 13"
 ---
 

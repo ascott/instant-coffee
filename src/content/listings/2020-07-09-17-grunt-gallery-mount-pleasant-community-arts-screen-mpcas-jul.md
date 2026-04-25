@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 17
 type: "CALL"
+venue: "grunt gallery"
 summary: "grunt gallery | Mount Pleasant Community Arts Screen (MPCAS) | JUL 31"
 ---
 

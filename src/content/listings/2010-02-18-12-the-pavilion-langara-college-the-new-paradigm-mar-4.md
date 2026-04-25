@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 12
 type: ""
+venue: "The Pavilion (Langara College)"
 summary: "The Pavilion (Langara College) | The New Paradigm | MAR 4"
 ---
 

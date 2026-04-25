@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 29
 type: "EVENT"
+venue: "SFU Galleries [ONLINE]"
 summary: "SFU Galleries [ONLINE] | Gathering: Go Together | 12-2PM | NOV 27"
 ---
 

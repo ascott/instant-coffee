@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 20
 type: ""
-summary: "UBC | Jakob Jakobsen â€“ Artist Talk | MAR 6"
+venue: "UBC"
+summary: "UBC | Jakob Jakobsen – Artist Talk | MAR 6"
 ---
 
-Jakob Jakobsen â€“ Artist Talk
-â€œSelf-institutionalization can be viewed as a kind of exorcism, a kind of 
+Jakob Jakobsen – Artist Talk
+“Self-institutionalization can be viewed as a kind of exorcism, a kind of 
 externalization of this internalized control.â€ 
 Wednesday, March 6, 2013 6:00 PM
 Jakob Jakobsen is a politically engaged visual artist, educator and activist. He 

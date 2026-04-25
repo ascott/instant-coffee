@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 11
 type: "OPENING"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Ron Simmer | MAR 19"
 ---
 

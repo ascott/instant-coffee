@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 8
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | The Vancouver Artpunk Archive of Doreen Grey | NOV 23"
 ---
 

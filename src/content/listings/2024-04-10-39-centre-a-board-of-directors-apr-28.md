@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 39
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Board of Directors | APR 28"
 ---
 

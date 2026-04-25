@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 24
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Hadden Park’s Field House | FESTIVAL FOR PUBLIK SPACE | 5-930PM | AUG 18"
 ---
 

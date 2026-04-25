@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 20
 type: "CALL"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | Exhibition Proposals | MAR 31"
 ---
 

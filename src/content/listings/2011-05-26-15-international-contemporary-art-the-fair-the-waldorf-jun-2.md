@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 15
 type: ""
+venue: "International Contemporary Art"
 summary: "International Contemporary Art | THE FAIR @ the waldorf | JUN 2"
 ---
 
@@ -55,7 +56,7 @@ Various Artists and Video Screening
 Preteen Gallery (Mexico City)
 Petra Cortright
 Season (Seattle)
-Lucas Blalock, Dawn Cerny, Natalie HÃ¤usler, Rachel Kaye, Adam Marnie,
+Lucas Blalock, Dawn Cerny, Natalie Häusler, Rachel Kaye, Adam Marnie,
 Shannon McConnell, Philip Miner, Peter Scherrer, Mike Simi, Bradley
 Rubenstein, Jesse Sugarmann, Ian Toms, Marius Wilms
 Unit/Pitt Projects (Vancouver)

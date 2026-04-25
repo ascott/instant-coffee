@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 18
 type: "TALK"
+venue: "Dpt. Art History Visual Art & Theory, UBC"
 summary: "Dpt. Art History Visual Art & Theory, UBC | Artist talk - Emily Wardill | FEB 25"
 ---
 

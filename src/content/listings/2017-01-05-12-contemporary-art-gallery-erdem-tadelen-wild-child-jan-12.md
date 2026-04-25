@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 12
 type: "OPENING"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Erdem Tadelen - Wild Child | JAN 12"
 ---
 

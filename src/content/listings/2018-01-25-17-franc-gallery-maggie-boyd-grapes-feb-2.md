@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 17
 type: ""
+venue: "Franc Gallery"
 summary: "Franc Gallery | MAGGIE BOYD: Grapes | FEB 2"
 ---
 

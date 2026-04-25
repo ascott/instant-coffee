@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 7
 type: "EVENT"
+venue: "Lucky's Comics"
 summary: "Lucky's Comics | \"CRULLER ERROR\" by MARC BELL+GRAND REOPENING | 7PM | AUG 4"
 ---
 

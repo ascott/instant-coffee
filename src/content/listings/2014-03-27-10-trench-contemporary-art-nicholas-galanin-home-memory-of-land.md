@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 10
 type: ""
+venue: "TRENCH Contemporary Art"
 summary: "TRENCH Contemporary Art | Nicholas Galanin: Home, Memory of Land & Space | MAR 27"
 ---
 
@@ -21,10 +22,10 @@ applied, allows the artist an arena of spontaneous creation. Each
 one-of-a-kind print references ten thousand years of creativity on the 
 Northwest Coast.
 
-Galanin writes of this process, â€œThe motions of creating these images 
+Galanin writes of this process, “The motions of creating these images 
 explore, reference and mimic a customary (traditional) aesthetic that 
 has been ongoing for generations. An aesthetic that is put into motion 
-through our existence on this land. The Stellar remnant is whatâ€™s left, 
+through our existence on this land. The Stellar remnant is what’s left, 
 the print, in motion like the birth of a star.â€ 
 
 Nicholas Galanin is a Tlingit/Aleut multi-disciplinary artist. Galanin 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 31
 type: "EDUCATION"
+venue: "ONLINE Course: Performance Art"
 summary: "ONLINE Course: Performance Art | the human body, intimacy and taboo | FEB 24"
 ---
 

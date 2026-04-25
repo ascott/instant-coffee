@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 13
 type: ""
+venue: "ECU 2010 graduates"
 summary: "ECU 2010 graduates | 48 Short Films | MAY 21"
 ---
 

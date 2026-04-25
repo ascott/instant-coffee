@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 18
 type: "EVENT"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Kelly Lycan:"
 ---
 

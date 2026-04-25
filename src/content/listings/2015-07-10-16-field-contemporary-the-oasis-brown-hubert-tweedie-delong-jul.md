@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 16
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | THE OASIS - Brown, Hubert, Tweedie, DeLong | JUL 17"
 ---
 

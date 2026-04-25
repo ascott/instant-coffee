@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "Nikkei National Museum [ONLINE]"
 summary: "Nikkei National Museum [ONLINE] | Broken Promises | 1PM | SEP 26"
 ---
 

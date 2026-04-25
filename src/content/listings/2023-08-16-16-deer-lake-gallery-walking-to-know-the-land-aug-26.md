@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Walking to Know the Land | AUG 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: now conforming to safety requireme
 emailDate: "Thu, 20 Aug 2009 09:01:09 -0700"
 number: 7
 type: ""
+venue: "Affluenza"
 summary: "Affluenza | CALL FOR ARTISTIC CONTRIBUTIONS | AUG 31"
 ---
 
@@ -13,10 +14,10 @@ Discussion and Exhibition
 
 17 September 2009, Chapel Arts, Dunlevy Street, Vancouver
 
-Type of Call: Visual artists â€¨â€¨â€¨
+Type of Call: Visual artists    
 
 Description: An evening of inspired debate and exhibition among leading thinkers about the 
-spread of Affluenza Â– the affliction of having to keep up with The JonesÂ’ and accumulating debt 
+spread of Affluenza  the affliction of having to keep up with The Jones and accumulating debt 
 in trying to gain happiness. http://en.wikipedia.org/wiki/Affluenza 
 
 Affluenza is a two-pronged event:
@@ -24,11 +25,11 @@ Affluenza is a two-pronged event:
 a tongue-in-cheek discussion and party opens up a dialogue and allows people to reflect on how 
 our values drive our spending patterns and why our consumer behavior reflects how we feel 
 about ourselves. Confirmed panelists include John de Graaf, documentary film-maker, 
-Â‘Â’AffluenzaÂ’Â’, Seattle, Washington; Neil Boorman, author of Bonfire of the Brands, London, 
+Affluenza, Seattle, Washington; Neil Boorman, author of Bonfire of the Brands, London, 
 England, and; Conrad Schmidt, Head of the Work Less Party, Vancouver
 2-week art exhibit will run over the event giving more people a chance to enjoy art that reflects
 Affluenza and offering pieces for sale.
-The event highlights real issues with a humorous bent at a time when seriously, weÂ’ve just got to
+The event highlights real issues with a humorous bent at a time when seriously, weve just got to
 laugh at ourselves. This is the first event, with others of its kind to follow in New York and 
 Amsterdam in 2010.
 

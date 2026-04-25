@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 21
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Artist Salon featuring Keely O'Brien | 7-9PM | JUL 5"
 ---
 

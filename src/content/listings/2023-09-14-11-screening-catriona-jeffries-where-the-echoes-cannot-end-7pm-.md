@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 11
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Catriona Jeffries | Where the echoes cannot end | 7PM | SEP 15"
 ---
 

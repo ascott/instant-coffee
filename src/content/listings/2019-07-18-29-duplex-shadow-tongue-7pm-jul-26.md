@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 29
 type: "OPENING"
+venue: "DUPLEX"
 summary: "DUPLEX | Shadow Tongue | 7PM | JUL 26"
 ---
 

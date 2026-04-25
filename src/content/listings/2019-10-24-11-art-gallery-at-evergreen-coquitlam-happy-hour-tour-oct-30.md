@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 11
 type: "EVENT"
+venue: "Art Gallery at Evergreen (Coquitlam)"
 summary: "Art Gallery at Evergreen (Coquitlam) | Happy Hour Tour | OCT 30"
 ---
 

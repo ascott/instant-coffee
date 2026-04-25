@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 16
 type: ""
+venue: "Western Front Exhibitions"
 summary: "Western Front Exhibitions | Keith Langergraber | APR 29"
 ---
 
@@ -15,15 +16,15 @@ Keith Langergraber
 April 30-June 20, 2010
 Opening Thursday, April 29 at 7PM
 
-The sci-fi fan has been unfairly maligned. Whether itâ€™s the image of the costumed Trekkie or the 
-Simpsonsâ€™ Comic Book Guy, the fan is consistently portrayed as one who lives life vicariously 
+The sci-fi fan has been unfairly maligned. Whether it’s the image of the costumed Trekkie or the 
+Simpsons’ Comic Book Guy, the fan is consistently portrayed as one who lives life vicariously 
 through narratives created by others. The relationships between fans and the objects of their 
 fandom, however, are far more nuanced. The notion of the â€œbirth of the readerâ€  is certainly not 
 new in cultural studies, but in the realm of the sci-fi fan this birth takes a particularly active and 
 increasingly participatory form.
 
-Keith Langergraberâ€™s The Society of Temporal Investigations examines fan culture through 
-multiple practices. A series of Langergraberâ€™s own drawings based on the television show 
+Keith Langergraber’s The Society of Temporal Investigations examines fan culture through 
+multiple practices. A series of Langergraber’s own drawings based on the television show 
 Battlestar Galactica conflate geographic with fictive space. The narrative of Battlestar Galactica 
 followed a fleet of star ships on an epic quest through galaxies, dimensions and time. 
 Langergraber equates this search with the common fan practice of mapping fictional locales over 
@@ -32,9 +33,9 @@ are also integrated to develop the themes of resistance, environmental degradati
 corporate and government domination that run through the genre.
 
 By repeating the image of the spiral (an icon that has special significance in science fiction) 
-Langergraber connects to another important influence on his artistic practiceâ€”the work of Robert 
+Langergraber connects to another important influence on his artistic practice—the work of Robert 
 Smithson. In his brief essay â€œThe Shape of the Future and Memoryâ€  (1966), Smithson explored 
-connections between art and time travelâ€”a few years later Spiral Jetty appeared in the Great 
+connections between art and time travel—a few years later Spiral Jetty appeared in the Great 
 Salt Lake of Utah. Langergraber further exploits the relationship between fan culture, time travel 
 and the Spiral Jetty in his own fan film, The Theatre of the Exploding Sun. It follows his alter ego 
 Eton Corrasable on a quest through space and time.
@@ -46,7 +47,7 @@ forms of academic discourse, the fan is lampooned for their manner of homage. Ne
 fandom, like those articulated in The Society of Temporal Investigations, open the door to a range 
 of possibilities for consumption, production, criticality and play.
 
-Artistâ€™s Talk and Screening
+Artist’s Talk and Screening
 Saturday, June 19 at 7PM
 Keith Langergraber will present a talk and screen the fan film Chains of Betrayal with filmmakers
 Racan Souiedan and Derek Howard. 
@@ -86,7 +87,7 @@ gastownlivework@gmail.com
 Gallery Atsu | Studio Space Availabl
 Studio Space Available - Gallery Atsui
 
-Gallery Atsui is located at the corner of East Hastings and Princess in Vancouverâ€™s Downtown 
+Gallery Atsui is located at the corner of East Hastings and Princess in Vancouver’s Downtown 
 East Side. We are an independent, privately funded artist studio and gallery space. We currently 
 have 600 sq. ft. of shared studio space available May 1st.
 

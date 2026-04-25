@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: nothing happens in good weather"
 emailDate: "Wed, 16 Jan 2008 19:41:13 -0800"
 number: 19
 type: ""
+venue: "UBC"
 summary: "UBC | WRITING ABOUT WAR: BY PEOPLE WHO HAVE BEEN THERE | JAN 23"
 ---
 

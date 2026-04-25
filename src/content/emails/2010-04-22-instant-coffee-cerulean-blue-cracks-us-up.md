@@ -125,7 +125,7 @@ Vancouver, BC
 ------------------------------------------------------------------------
 Artist Talk by Richard Jackson: Rennie Collection Speaker Series
 
-Thursday April 22, 2010 at 7pm-Â¨Emily Carr Lecture Theatre (Room 301)
+Thursday April 22, 2010 at 7pm-¨Emily Carr Lecture Theatre (Room 301)
 
 This lecture is free and open to the public.
 
@@ -762,9 +762,9 @@ open to the public.
 
 Other events taking place in association with the conference proceedings
 include:
-Ã¢ï¿½Â¢ Art exhibition "Breathless Days 1959-1960: A Chronotropic
+â�¢ Art exhibition "Breathless Days 1959-1960: A Chronotropic
 Experiment," at the Morris and Helen Belkin Art Gallery (April 16- June 2)
-Ã¢ï¿½Â¢ Film screening of Jean-Luc Godard's "A Bout de Souffle" (1960) and
+â�¢ Film screening of Jean-Luc Godard's "A Bout de Souffle" (1960) and
 Alfred Hitchcock's "Psycho" (1960) in their original 35mm format at Pacific
 Cinematheque (May 2 - 3, 7:00pm), http://www.cinematheque.bc.ca/
 Online collaborative project (2009-2010) open to the public,

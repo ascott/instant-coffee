@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 3
 type: ""
+venue: "GALLERY 295"
 summary: "GALLERY 295 | Elizabeth Zvonar | APR 3"
 ---
 
@@ -27,7 +28,7 @@ nebulae implying the body is one in a vast sea of stars. The
 photographs interspersed throughout the exhibition ground and 
 confuse the constructed images through the improbable reflections 
 and refractions of colour, light and nature within our constructed 
-world, abstracting how we understand what we aâ‚¬â„¢re seeing.
+world, abstracting how we understand what we a€™re seeing.
 
 Future Cities Shanghai 
 Malcolm Levy 
@@ -43,7 +44,7 @@ the larger series 'Other-Frames' which looks to activate the questions
 of what the chip of the camera can reveal in a greater context. The 
 work itself is an activity of searching for unexploited qualities inherent 
 in exploitation; not a defiant negation as with the alternative media 
-originated in the Ã¢â‚¬â„¢60s, but a manipulation of manipulation.
+originated in the â€™60s, but a manipulation of manipulation.
 
 For more information visit www.gallery295.com
 

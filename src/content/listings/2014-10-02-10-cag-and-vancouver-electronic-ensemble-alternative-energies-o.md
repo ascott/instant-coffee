@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 10
 type: ""
+venue: "CAG and Vancouver Electronic Ensemble"
 summary: "CAG and Vancouver Electronic Ensemble | Alternative Energies | OCT 6"
 ---
 
@@ -19,7 +20,7 @@ www.contemporaryartgallery.ca
 contact@contemporaryartgallery.ca
 tel 604 681 2700
 
-In response to the exhibition by JÃ¼rgen Partenheimer, VEE will create a
+In response to the exhibition by Jürgen Partenheimer, VEE will create a
 special improvised performance as part of the Vancouver New Music Festival.
 Players will be scattered across the gallery rooms, as sound, light and
 colour flow throughout the building creating an abstract sonic environment.

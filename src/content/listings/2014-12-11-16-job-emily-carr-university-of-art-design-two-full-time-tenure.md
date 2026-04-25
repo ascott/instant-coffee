@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 16
 type: ""
+venue: "JOB"
 summary: "JOB | Emily Carr University of Art + Design | Two full-time tenure track positions open | JAN 11"
 ---
 

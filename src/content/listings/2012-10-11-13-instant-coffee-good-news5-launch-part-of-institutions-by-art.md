@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 13
 type: ""
+venue: "INSTANT COFFEE"
 summary: "INSTANT COFFEE | GOOD NEWS#5 launch part of Institutions by Artists | OCT 14"
 ---
 
@@ -13,7 +14,7 @@ a small handmade magazine produced on the occasion of an event
 and typically based on one question to form a responsive journal.
 
 For this issue Instant Coffee has invited select attendees of The 
-Convention to take â€œnotesâ€™ at select sessions to be published as part of 
+Convention to take “notes’ at select sessions to be published as part of 
 GOOD NEWS #5. 
 
 This issue will act as peripheral document of some of the concepts and 
@@ -56,7 +57,7 @@ exhibited in many prominent art institutions as well has produced
 numerous Public Art projects. Currently Instant Coffee recently 
 produced a sculptural wall mural for the City of Edmonton and created 
 a colourful environment for the Southhill Community in Vancouver. As 
-part of the City of Vancouverâ€™s Cultural Olympic programme, the 
+part of the City of Vancouver’s Cultural Olympic programme, the 
 Collective opened Light Bar a full-spectrum light bar installation and 
 venue for light therapy, light lectures, light shows, light reading and 
 light rock. In 2009 Instant Coffee exhibited the Disco Fallout Shelter, at 
@@ -65,11 +66,11 @@ Nooks as part of How Soon is Now, Vancouver Art Gallery; Light Bar as
 part of Assume Nothing, New Social Practice, Art Gallery of Greater 
 Victoria; Bright Future as part of 88 Blocks Art on Main a Public Art 
 Commission by Translink and Come In: Disco Fallout Shelter as part of 
-LIVE 2009, Vancouver and Instant Coffee, SÃ¸lyst, Denmark. Other 
+LIVE 2009, Vancouver and Instant Coffee, Sølyst, Denmark. Other 
 recent residencies and exhibitions include Light Bar Research and 
 Residency, Hotel Maria Kapel, The Netherlands, Kuenstlerhaeuser 
 Worpswede, Germany, Flaggfabrikken Kunsthall, Bergen, Norway; If 
-You Lived Here Youâ€™d Be Home By Now, Henry Art Gallery, Seattle; 
+You Lived Here You’d Be Home By Now, Henry Art Gallery, Seattle; 
 Wish You Were Here, Casa del Encuentro MDE07 encuentro 
 internacional, Medellin, Colombia. Instant Coffee's most consistent 
 members are Jinhan Ko, Kelly Lycan, Khan Lee, Jenifer Papararo, 

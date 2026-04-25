@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 26
 type: "EVENT"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | TOUR OF RABBIT LANE: DOUGLAS COUPLAND | 2 PM | MAR 31"
 ---
 

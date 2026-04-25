@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 13
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Michelle Gay | NOV 8"
 ---
 
@@ -25,8 +26,8 @@ and drawing.
 
 Poemitron is a software program Gay developed in collaboration with her 
 brother and particle physicist Colin Gay. The program randomly selects a word 
-in a text and replaces it with a synonym from the programâ€™s database. This 
-process takes place in real time. Gayâ€™s work spampoet is a computer projection 
+in a text and replaces it with a synonym from the program’s database. This 
+process takes place in real time. Gay’s work spampoet is a computer projection 
 in which the artist collected spam, texts from junk email, and processed them 
 using the Peomitron software. This creates a text that is continuously altering 
 and results in surprising combinations of words, often creating unexpected 

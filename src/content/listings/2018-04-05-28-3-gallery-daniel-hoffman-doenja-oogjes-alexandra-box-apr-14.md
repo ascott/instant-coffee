@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 28
 type: "OPENING"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Daniel Hoffman @ Doenja Oogjes & Alexandra Box-... | APR 14"
 ---
 

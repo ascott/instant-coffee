@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 44
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Hannah Rickards: Artist Talk | 730PM | NOV 21"
 ---
 

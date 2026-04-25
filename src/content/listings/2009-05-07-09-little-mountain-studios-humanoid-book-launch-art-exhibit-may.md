@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: show us your jazz hands"
 emailDate: "Thu, 07 May 2009 09:10:15 -0700"
 number: 9
 type: ""
+venue: "Little Mountain Studios"
 summary: "Little Mountain Studios | HUMANOID book launch & art exhibit | MAY 11"
 ---
 

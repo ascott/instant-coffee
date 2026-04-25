@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 36
 type: "OPENING"
+venue: "ECUAD"
 summary: "ECUAD | MFA Thesis Exhibition | PART 2 | 6-8PM | APR 4"
 ---
 

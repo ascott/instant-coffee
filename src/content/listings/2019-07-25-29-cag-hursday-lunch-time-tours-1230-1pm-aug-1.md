@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 29
 type: "TALK"
+venue: "CAG"
 summary: "CAG | hursday Lunch Time Tours | 1230-1PM | AUG 1"
 ---
 

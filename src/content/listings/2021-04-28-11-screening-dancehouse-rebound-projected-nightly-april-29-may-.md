@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 11
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DanceHouse | REBO(U)ND | Projected Nightly April 29 - May 8 | APR 29"
 ---
 

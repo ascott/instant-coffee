@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 2
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Michael Turner: Writing in the Time..."
 ---
 

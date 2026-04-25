@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 9
 type: "TALK"
+venue: "grunt gallery [ONLINE]"
 summary: "grunt gallery [ONLINE] | Spark Artist Talk with Ocean Hyland | 1215PM | MAR 18"
 ---
 

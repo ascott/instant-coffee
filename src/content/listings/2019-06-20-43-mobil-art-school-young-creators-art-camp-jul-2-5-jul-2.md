@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 43
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Young creators art camp | JUL 2- 5 | JUL 2"
 ---
 

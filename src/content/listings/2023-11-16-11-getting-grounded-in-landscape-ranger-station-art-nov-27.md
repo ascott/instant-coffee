@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 11
 type: "TALK"
+venue: "Getting Grounded in Landscape / Ranger Station Art"
 summary: "Getting Grounded in Landscape / Ranger Station Art | NOV 27"
 ---
 

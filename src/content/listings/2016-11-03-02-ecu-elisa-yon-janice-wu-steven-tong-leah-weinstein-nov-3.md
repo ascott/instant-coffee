@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 2
 type: "TALK"
+venue: "ECU"
 summary: "ECU | Elisa Yon, Janice Wu, Steven Tong, Leah Weinstein | NOV 3"
 ---
 

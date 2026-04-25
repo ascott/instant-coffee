@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 23
 type: ""
+venue: "Hycroft Manor"
 summary: "Hycroft Manor | Adapt or Perish: Twenty Years of Fillip | 7PM | JAN 25"
 ---
 

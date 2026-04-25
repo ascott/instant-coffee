@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 25
 type: ""
+venue: "JOB"
 summary: "JOB | Art Gallery at Evergreen | Curatorial Assistant | APR 15"
 ---
 

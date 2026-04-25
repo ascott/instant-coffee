@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Get Social and Get Saved"
 emailDate: "Thu, 29 May 2008 07:35:09 -0700"
 number: 8
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Reminder: Independent Publishing Workshop | JUN 7"
 ---
 

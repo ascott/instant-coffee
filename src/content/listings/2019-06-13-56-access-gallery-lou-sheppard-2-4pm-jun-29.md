@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 56
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | Lou Sheppard | 2-4PM | JUN 29"
 ---
 

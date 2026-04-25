@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 30
 type: ""
+venue: "New Leaf Creative Solutions"
 summary: "New Leaf Creative Solutions | CALL | APR 15"
 ---
 
@@ -13,7 +14,7 @@ Exhibition (BIMPE).
 
 BIMPE is held every two years in Vancouver, British Columbia, 
 Canada. This exhibition is a showcase for small scale works measuring 
-no more than 15cm Ã— 10cm, and is open to images made using all 
+no more than 15cm × 10cm, and is open to images made using all 
 printmaking techniques from traditional line etching to contemporary 
 digital processes. It is open to all artists in the whole world who use 
 printmaking techniques.

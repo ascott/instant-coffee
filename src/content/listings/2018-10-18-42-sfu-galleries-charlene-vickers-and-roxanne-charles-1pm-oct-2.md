@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 42
 type: "TALK"
+venue: "SFU Galleries"
 summary: "SFU Galleries | Charlene Vickers and Roxanne Charles | 1PM | OCT 27"
 ---
 

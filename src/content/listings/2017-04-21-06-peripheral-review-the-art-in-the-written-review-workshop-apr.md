@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 6
 type: "EDUCATION"
+venue: "Peripheral Review"
 summary: "Peripheral Review | The Art in the Written Review Workshop | APR 22"
 ---
 

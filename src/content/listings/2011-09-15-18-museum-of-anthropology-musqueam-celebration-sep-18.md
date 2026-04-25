@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 18
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Musqueam Celebration | SEP 18"
 ---
 
@@ -14,7 +15,7 @@ SEPTEMBER 18th |
 
 In recognition of the longstanding relationship between the Musqueam First 
 Nation and the Museum of Anthropology, we invite you to join us on the afternoon 
-of Sunday, September 18, to witness MOAÂ¡Â¯s welcome plaza receiving the 
+of Sunday, September 18, to witness MOA¡¯s welcome plaza receiving the 
 Musqueam name xʷəÂ¨Â½iwən ce:p kʷÂ¦ÃˆəÂ¦Ãˆ nəὠeyəɬ, Â¡Â±Remember your teachings.Â¡Â± 
 As part of the celebration, we will also be commemorating the installation of two 
 Musqueam artworks, Salish Footprint by Susan Point and Transformation by Joe 

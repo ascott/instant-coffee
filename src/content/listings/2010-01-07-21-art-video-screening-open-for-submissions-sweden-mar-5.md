@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 21
 type: ""
+venue: "Art Video Screening"
 summary: "Art Video Screening | open for submissions, Sweden | MAR 5"
 ---
 

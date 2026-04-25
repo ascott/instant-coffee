@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Ciprian Muresan and Raymond Boisjoly | FEB 7"
 ---
 
@@ -79,7 +80,7 @@ The colloquial use and structure of the written or spoken word figure
 prominently in BoisjolyÃ¢€™s work. He often transforms the 
 meaning and 
 significance of language by rendering phrases indecipherable or by reordering 
-clichÃƒÂ©d aphorisms and mixing metaphors.
+clichÃ©d aphorisms and mixing metaphors.
 
 As It Comes re-assembles passages taken from three North American First 
 Nations autobiographies: Black Elk Speaks, Yellow Wolf His Own Story and 

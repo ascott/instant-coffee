@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 16
 type: "EVENT"
+venue: "Audain Art Centre UBC"
 summary: "Audain Art Centre UBC | AHVA Open House | 5PM | DEC 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 8
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Take A Deep Breath | 7-11PM | JAN 18"
 ---
 

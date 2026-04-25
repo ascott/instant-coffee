@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 37
 type: "CALL"
+venue: "UBC Okanagan Gallery"
 summary: "UBC Okanagan Gallery | artist residency program call to artists | MAR 15"
 ---
 

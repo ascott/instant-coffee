@@ -22,10 +22,10 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-09-18-08-monte-clark-gallery-stephen-waddell-sep-20">08. MONTE CLARK GALLERY | Stephen Waddell | SEP 20</a>
 <a href="/instant-coffee/listings/2014-09-18-09-surrey-art-gallery-flora-and-fauna-400-years-of-artists-insp">09. Surrey Art Gallery | Flora and Fauna - 400 Years of Artists Inspired b | SEP 20</a>
 <a href="/instant-coffee/listings/2014-09-18-10-index-inter-tidal-sep-25">10. INDEX | Inter Tidal | SEP 25</a>
-<a href="/instant-coffee/listings/2014-09-18-11-sfu-woodwards-goldcorp-centre-for-the-arts-a-lecture-by-carr">11. SFU Woodwardâ€™s Goldcorp Centre for the Arts | A LECTURE BY CARRIE MACLEOD: Performing Home | SEP 30</a>
+<a href="/instant-coffee/listings/2014-09-18-11-sfu-woodwards-goldcorp-centre-for-the-arts-a-lecture-by-carr">11. SFU Woodward’s Goldcorp Centre for the Arts | A LECTURE BY CARRIE MACLEOD: Performing Home | SEP 30</a>
 <a href="/instant-coffee/listings/2014-09-18-12-vancouver-art-gallery-lecture-by-herzog-de-meuron-oct-1">12. Vancouver Art Gallery | lecture by Herzog & de Meuron | OCT 1</a>
 <a href="/instant-coffee/listings/2014-09-18-13-who-counts-a-feminist-art-throwdown-a-free-national-symposiu">13. Who Counts?: A Feminist Art Throwdown | A free national symposium about art and feminism | OCT 3</a>
-<a href="/instant-coffee/listings/2014-09-18-14-the-aphrodisiac-device-international-queer-residency-in-valp">14. The Aphrodisiac Device | International Queer Residency in ValparaÃ­so, Chile | OCT 15</a>
+<a href="/instant-coffee/listings/2014-09-18-14-the-aphrodisiac-device-international-queer-residency-in-valp">14. The Aphrodisiac Device | International Queer Residency in Valparaíso, Chile | OCT 15</a>
 <a href="/instant-coffee/listings/2014-09-18-15-isea2015-call-for-artworks-dec-20">15. ISEA2015 | Call for Artworks | DEC 20</a>
 <a href="/instant-coffee/listings/2014-09-18-16-gallery-44-open-call-with-no-deadline-dec-31">16. Gallery 44 | open call, with no deadline | DEC 31</a>
 17. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -133,7 +133,7 @@ http://www.mortonsubotnick.com/
 
 Murcof + Simon Geilfus [Antivj]
 www.antivj.com/murcof
-*This performance is sponsored by the Consulat gÃƒÂ©nÃƒÂ©ral de France Ãƒ
+*This performance is sponsored by the Consulat gÃ©nÃ©ral de France Ã
 Vancouver - We wish to acknowledge and thank them for their support of this
 performance. *
 
@@ -155,7 +155,7 @@ https://soundcloud.com/visionist
 Wen -DJ- (Keysound Recordings)
 http://staypaidbookings.com/artists/wen
 
-Young Braised & Soledad MuÃƒÂ±oz -Live- (1080p)
+Young Braised & Soledad MuÃ±oz -Live- (1080p)
 http://youngbraised.com/
 http://soledadmunoz.com/
 
@@ -170,7 +170,7 @@ http://chimerik.com/
 Instant Coffee LIGHT BAR
 http://www.instantcoffee.org/
 
-Jonny ÃƒËœstrem
+Jonny Ã˜strem
 http://cargocollective.com/jostrem/Jonny-Ostrem
 
 Kevin Beasley
@@ -194,7 +194,7 @@ http://www.nateboyce.net/
 Nicolas Sassoon
 http://nicolassassoon.com/
 
-PepÃƒÂ©
+PepÃ©
 
 Rick Silva
 http://ricksilva.net/
@@ -239,7 +239,7 @@ Permanent Record
 
 Jason Deary
 
-Opening September 18th. 7:00 â€” 11:00 PM
+Opening September 18th. 7:00 — 11:00 PM
 
 September 18th - October 18th
 
@@ -247,11 +247,11 @@ Field Contemporary
 
 17 West Broadway
 
-Permanent Record is a continuation of Dearyâ€™s investigation of the historical languages and contemporary vocabularies of painting, and our relationship to them as both viewers and practitioners. To Deary, paintings are consumed as both physical objects and documented images and engage in a form of communication that transcends the tradition of written language. He poses the question how does the translation from the physical to the document alter our perception of those languages?
+Permanent Record is a continuation of Deary’s investigation of the historical languages and contemporary vocabularies of painting, and our relationship to them as both viewers and practitioners. To Deary, paintings are consumed as both physical objects and documented images and engage in a form of communication that transcends the tradition of written language. He poses the question how does the translation from the physical to the document alter our perception of those languages?
 
-This new work utilizes the assembled artifacts or recorded actions, moments and experiments from the artistâ€™s experimental self generated archive.
+This new work utilizes the assembled artifacts or recorded actions, moments and experiments from the artist’s experimental self generated archive.
 Invented, discovered, borrowed and mimicked painted languages come together to form new conversations. The work is simultaneously about the paint as a material, and the formal compositions it can make. They drift between the abstract and the representational. Familiar forms, tropes and structures
-from the gallery are referenced. Almost tongue-in-cheek nods to abstract expressionism, op-art, cubism and surrealism make appearances in an attempt to relate to looming figures in painting, itâ€™s burdened past and murky present. The black and white palette Deary employs relates to this history.
+from the gallery are referenced. Almost tongue-in-cheek nods to abstract expressionism, op-art, cubism and surrealism make appearances in an attempt to relate to looming figures in painting, it’s burdened past and murky present. The black and white palette Deary employs relates to this history.
 
 Jason Deary is a Toronto based artist. His painting are informed by his professional work in galleries with collections as an educator, preparator and programmer. In his recent studio practice, Deary investigates and unpacks the various languages and vocabularies of painting through the lens of the museological. He builds paintings to explore how we make and consume
 art, our relationship to objects and images, the art of installation and the installation of art. Most recently Deary had a solo exhibition, New Artifacts, at Katherine Mulherin Projects, Toronto. Permanent Record will be Deary's debut exhibition in Western Canada.
@@ -302,7 +302,7 @@ www.roundhouse.ca
 <a href="/instant-coffee/listings/2014-09-18-04-mov-why-i-design-30-designers-talk-sep-19">04. MOV | Why I Design: 30+ Designers Talk | SEP 19</a>
 ------------------------------------------------------------------------
 Why I Design: 30+ Designers Talk With You About What They Do (and Why
-Theyâ€™re Doing It in Vancouver)
+They’re Doing It in Vancouver)
 
 Date: Friday, September 19, 2014
 
@@ -318,16 +318,16 @@ More Info: http://museumofvancouver.ca/programs or call 604-736-4431
 
 The Museum of Vancouver invites Vancouverites to explore and celebrate
 innovation in action. Thirty+ designers, live, in concert and stationed
-throughout the museumâ€™s galleries, discuss their work during Why I Design,
+throughout the museum’s galleries, discuss their work during Why I Design,
 a signature Vancouver Design Week event and party on Friday night,
 September 19.
 
 Why I Design aims the spotlight on the process of invention. Participating
 designers will engage you with stories behind the development of everyday
-technologies and cool things youâ€™ve never seen beforeâ€”from play spaces to
+technologies and cool things you’ve never seen before—from play spaces to
 packaging, furniture to footwear, scuba fins to cemeteries. You can ask the
-designersâ€”ranging from those launching their careers to innovative leaders
-in international corporationsâ€”what motivates them, how they do what they
+designers—ranging from those launching their careers to innovative leaders
+in international corporations—what motivates them, how they do what they
 do, and why Vancouver inspires them to keep doing it.
 
 The participating designers represent enormously diverse creativity. See
@@ -337,17 +337,17 @@ display that can be worn while playing any sport. Admire apparel that can
 weather the worst that Vancouver can throw at you. Test a vest that helps
 kids feel less anxiety. Learn what makes a play space fun. Find flip-flops
 that are actually good for your feet. Discover who puts the flash into rock
-concerts. Thereâ€™s a lot to explore as you navigate a party thatâ€™s dense
+concerts. There’s a lot to explore as you navigate a party that’s dense
 with designers.
 
-This isnâ€™t an art display or trade show. Why I Design provides an
+This isn’t an art display or trade show. Why I Design provides an
 alternative to standard presentations by breaking down walls between
-disciplines and between designers and the public. Itâ€™s an opportunity to
+disciplines and between designers and the public. It’s an opportunity to
 interact with the designers of the products and environments that shape
 your life.
 
 Admission to Why I Design includes entry to the premiere of the exhibition
-From Rationing to Ravishing: The Transformation of Womenâ€™s Clothing in the
+From Rationing to Ravishing: The Transformation of Women’s Clothing in the
 1940s and 1950s; and to Neon Vancouver/Ugly Vancouver. Come celebrate with
 us the transformative power of design during Vancouver Design Week.
 
@@ -410,12 +410,12 @@ New Forms Festival 2014 | Kevin Beasley Talk
 September 19 @ 7:00pm
 Free Admission
 
-The physicality of sound is foundational to Beasleyâ€™s site-specific
-practice that works to expose a locationâ€™s historical weight by revealing
+The physicality of sound is foundational to Beasley’s site-specific
+practice that works to expose a location’s historical weight by revealing
 the invisible aural materiality and protracted moments from both mythical
 and scientific time. Prior to his current residency at the Studio Museum in
 Harlem, he was an artist-in-residence at the International Studio and
-Curatorial Program (ISCP) in Brooklyn, NY. Beasleyâ€™s sculptural
+Curatorial Program (ISCP) in Brooklyn, NY. Beasley’s sculptural
 installations and performances have been included in recent internationally
 renowned exhibitions, such as at the 2014 Whitney Biennial, New York; the
 Walker Art Center, Minneapolis; the Museum of Contemporary Art Cleveland;
@@ -429,7 +429,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. admin@front.bc.ca
-Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
+Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free
 
 ------------------------------------------------------------------------
@@ -447,9 +447,9 @@ since Canadian Art first began publishing in September 1984.
 Panel speakers include Gabrielle Moser, Sarah Milroy and Sky Goodden. As
 you likely already know, these critics have published in the Globe and
 Mail, Artforum, Artinfo, Fillip, the National Post, Border Crossings, Esse,
-C Magazine, Modern Paintersâ€¦ the list goes on.
+C Magazine, Modern Painters… the list goes on.
 
-All three of these critics have also worked in editorial capacitiesâ€”Milroy
+All three of these critics have also worked in editorial capacities—Milroy
 at Canadian Art, Moser on the board of C and other publications, and
 Goodden at Artinfo Canada. So they can offer perspectives on this issue as
 editors as well as writers.
@@ -512,12 +512,12 @@ it in the exhibition.
 Stephen Waddell (born 1968, Vancouver, Canada) received his MFA from
 the University of British Columbia in 1994, and has exhibited in
 galleries and institutions including Monte Clark Gallery, the
-Vancouver Art Gallery, Espai dâ€™art contemporani de Castello in
+Vancouver Art Gallery, Espai d’art contemporani de Castello in
 Castello, Spain, Kunstforum Baloise in Basel, Switzerland and C/O in
-Berlin. Waddellâ€™s works are included in the permanent collections of
+Berlin. Waddell’s works are included in the permanent collections of
 the Armand Hammer Collection in Los Angeles, the Vancouver Art
 Gallery, the National Gallery of Canada, and numerous others. A book
-of Waddellâ€™s work, Hunt and Gather, was recently published by Steidl
+of Waddell’s work, Hunt and Gather, was recently published by Steidl
 Publishing in Germany. The artist lives and works in Vancouver,
 Canada.
 
@@ -552,8 +552,8 @@ and spiritual regeneration. Flora and Fauna: 400 Years of Artists Inspired
 by Nature explores the natural world through paintings, drawings, prints,
 photographs, and crafted objects. Responding to the richness and diversity
 of plant life and the creatures that occupy natural spaces, the artists in
-this exhibition express natureâ€™s complexity and fragility in a variety of
-ways â€“ from the epic and analytical to the detailed and intimate. This
+this exhibition express nature’s complexity and fragility in a variety of
+ways – from the epic and analytical to the detailed and intimate. This
 exceptionally varied exhibition, drawn mainly from the collections of the
 National Gallery of Canada, features 74 works dating from the 16th to the
 21st centuries. Presenting a wide variety of media, scale, and style, it
@@ -584,7 +584,7 @@ at the National Gallery of Canada, and is the co-curator of the exhibition
 Flora and Fauna: 400 Years of Artists Inspired by Nature. During her tour,
 Thomas will examine how and why the artworks on display were chosen, share
 interesting stories about the artworks, and illuminate ideas explored in
-the exhibition. Admission to the opening reception and visiting curatorâ€™s
+the exhibition. Admission to the opening reception and visiting curator’s
 tour is free (donations are gratefully received).
 
 Surrey Art Gallery gratefully acknowledges the support of the B.C. Arts
@@ -636,9 +636,9 @@ ryanmathieson.com
 indexgallery.net
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-09-18-11-sfu-woodwards-goldcorp-centre-for-the-arts-a-lecture-by-carr">11. SFU Woodwardâ€™s Goldcorp Centre for the Arts | A LECTURE BY CARRIE MACLEOD: Performing Home | SEP 30</a>
+<a href="/instant-coffee/listings/2014-09-18-11-sfu-woodwards-goldcorp-centre-for-the-arts-a-lecture-by-carr">11. SFU Woodward’s Goldcorp Centre for the Arts | A LECTURE BY CARRIE MACLEOD: Performing Home | SEP 30</a>
 ------------------------------------------------------------------------
-SFU Woodwardâ€™s Goldcorp Centre for the Arts
+SFU Woodward’s Goldcorp Centre for the Arts
 
 PERFORMING HOME: ENACTING A NEW CHOREOGRAPHY OF BELONGING, A LECTURE BY
 CARRIE MACLEOD
@@ -646,7 +646,7 @@ Tue, 30 Sep 2014 7:00 PM
 
 Is there an art to reinventing home in the upheaval of displacement? This
 evening will offer a feast of poetic narratives on how communities in
-transition are creating new spaces of belonging â€“ against all odds.
+transition are creating new spaces of belonging – against all odds.
 
 In considering the multiple meanings of home in this contemporary global
 culture, we will ask who is making room for whom when frictions from forced
@@ -685,22 +685,22 @@ Following their Selection as Design Architects of the new Vancouver Art Gallery
 Wednesday, October 1, 2014, 7:00 pm
 Vogue Theatre (918 Granville Street, Vancouver)
 
-What: Join Pritzker Prizeâ€“winning architectural firm Herzog & de Meuron
+What: Join Pritzker Prize–winning architectural firm Herzog & de Meuron
 for their first public presentation in Vancouver following their selection
 as the design architects for the new Vancouver Art Gallery. This talk will
 offer audiences insight into the distinctive design approach and vision
 that has made Herzog & de Meuron one of the most lauded architectural firms
-in the world. The talk will include the firmâ€™s initial impressions of
+in the world. The talk will include the firm’s initial impressions of
 Vancouver as well as their diverse take on museum design through a
 selection of previous projects, including the Tate Modern in London, the De
 Young Museum in San Francisco, the Parrish Art Museum in Water Mill, NY,
-and the newly constructed PÃ©rez Art Museum in Miami. The presentation will
+and the newly constructed Pérez Art Museum in Miami. The presentation will
 be followed by an open Q&A with the public.
 
 Herzog & de Meuron was selected in April 2014 to design the new Vancouver
-Art Gallery, marking the firmâ€™s first project in Canada. Conceptual designs
+Art Gallery, marking the firm’s first project in Canada. Conceptual designs
 for the new building, which will more than double the space of the
-Galleryâ€™s current facility, are expected to be unveiled in 2015.
+Gallery’s current facility, are expected to be unveiled in 2015.
 
 When: October 1, 2014, 7pm
 
@@ -718,8 +718,8 @@ About Herzog & de Meuron:
 Founded in Basel in 1978, Herzog & de Meuron is internationally recognized
 for designs that are both highly inventive and responsive to the site,
 geography and culture of the place for which they are conceived. Led by
-five Senior Partnersâ€”Jacques Herzog, Pierre de Meuron, Christine
-Binswanger, Ascan Mergenthaler and Stefan Marbachâ€”Herzog & de Meuron have
+five Senior Partners—Jacques Herzog, Pierre de Meuron, Christine
+Binswanger, Ascan Mergenthaler and Stefan Marbach—Herzog & de Meuron have
 designed a wide range of projects, from highly recognized public facilities
 such as museums and stadiums, to distinguished private projects, and have
 been awarded numerous prizes, including The Pritzker Architecture Prize in
@@ -731,7 +731,7 @@ respected and innovative visual arts institutions in Canada and is
 committed to strengthening links among artists and among the diverse
 communities throughout the city, province, and beyond. The Gallery features
 the work of international ground-breaking artists, both historic and
-contemporary, and provides a global platform for British Columbiaâ€™s dynamic
+contemporary, and provides a global platform for British Columbia’s dynamic
 artistic community. Its growing collection represents the most
 comprehensive resource for visual culture in British Columbia and is the
 principal repository for visual art produced in the region, as well as
@@ -762,10 +762,10 @@ www.vanartgallery.bc.ca
 
 Who Counts?: A Feminist Art Throwdown
 A free national symposium about art and feminism in Canada today
-October 3 â€“ 5, 2014, multiple venues, Winnipeg.
+October 3 – 5, 2014, multiple venues, Winnipeg.
 
-Winnipeg, Manitoba, August 29, 2014 â€“ In celebration of MAWAâ€™s 30th birthday,
-Mentoring Artists for Womenâ€™s Art (MAWA) and Manitoba Artist-Run Centres
+Winnipeg, Manitoba, August 29, 2014 – In celebration of MAWA’s 30th birthday,
+Mentoring Artists for Women’s Art (MAWA) and Manitoba Artist-Run Centres
 Coalition
 (MARCC) present three days of lectures, debates and events that will bring
 together
@@ -774,7 +774,7 @@ feminist art in
 Canada now. Twenty-four galleries in the province will also be exhibiting
 artworks by
 Manitoba and Indigenous women artists. Hop on the free party bus that will roam
-between exhibitions on Friday, October 3. Attend the â€œWhat Is Feminist
+between exhibitions on Friday, October 3. Attend the “What Is Feminist
 Art?â€  and â€œIs
 Art Gendered?â€  debates on Saturday, October 4 at the Garrick Theatre. Donâ€™t
 miss
@@ -785,7 +785,7 @@ School of Art Gallery on Sunday, October 5.
 
 Participants include representatives of every feminist visual arts centre
 in Canada, as
-well as artists, curators, writers, academics, researchersâ€¦ and you! The
+well as artists, curators, writers, academics, researchers… and you! The
 conference
 welcomes everyone, of all backgrounds and genders. Conversations will be
 passionate, provocative and timely. Has gender equality in the visual arts been
@@ -799,7 +799,7 @@ artist-run
 centres in Winnipeg.
 
 About MAWA
-Mentoring Artists for Womenâ€™s Art encourages and supports the intellectual and
+Mentoring Artists for Women’s Art encourages and supports the intellectual and
 creative development of women in the visual arts by providing an ongoing
 forum for
 education and critical dialogue.
@@ -819,13 +819,13 @@ ADDITIONAL INFO FOR IC POST:
 
 WHO COUNTS? A FEMINIST ART THROWDOWN
 
-Mentoring Artists for Womenâ€™s Art (MAWA) and Manitoba Artist-Run Centres
+Mentoring Artists for Women’s Art (MAWA) and Manitoba Artist-Run Centres
 Coalition (MARCC) present:
 
 Who Counts? A Feminist Art Throwdown
 Symposium about art, feminism and artist-run culture
-Friday, October 3 â€“ Sunday, October 5, 2014
-No need to register â€¦ just show up! Everyone is welcome!
+Friday, October 3 – Sunday, October 5, 2014
+No need to register … just show up! Everyone is welcome!
 www.mawa.ca
 #MAWA30
 
@@ -852,22 +852,22 @@ lecture about the future of feminist art by Stephanie Poruchnyk-Butler and
 Sigrid Dahle. See p. 2 for details.
 
 7-10pm
-All Winnipeg galleries open and exhibiting Manitoba and Indigenous womenâ€™s
-artwork in recognition of MAWAâ€™s 30th birthday and contribution to the
-community. Join MAWA for the closing reception for our membersâ€™ showcase,
+All Winnipeg galleries open and exhibiting Manitoba and Indigenous women’s
+artwork in recognition of MAWA’s 30th birthday and contribution to the
+community. Join MAWA for the closing reception for our members’ showcase,
 The Power of 30, coordinated by curator Jennifer Smith. Jump on the free
 party bus that will roam between exhibitions.
 
 Saturday, October 4
 
 noon-5pm
-All Winnipeg galleries open and exhibiting Manitoba and Indigenous womenâ€™s
+All Winnipeg galleries open and exhibiting Manitoba and Indigenous women’s
 artwork.
 
 3-5pm
 â€œWhat Is Feminist Art?â€  â€” panelists duke it out, presenting examples of
 artworks they believe are feminist, artworks they believe are not, and why.
-Featuring down-and-dirty Sharlene Bamboat (Toronto), keepinâ€™-it-Riel Cathy
+Featuring down-and-dirty Sharlene Bamboat (Toronto), keepin’-it-Riel Cathy
 Mattes (Brandon) and lay-it-on-the-line Joan Borsa (Saskatoon), refereed by
 Dominique Rey (Winnipeg). The Garrick Theatre, 330 Garry St. Free!
 
@@ -879,14 +879,14 @@ Thorneycroft (Winnipeg). The Garrick Theatre. Free!
 
 10pm-2am
 The Throwdown Hoedown! Winnipeg arts administrators go head-to-head, DJ-ing
-all-womenâ€™s dance music assisted by DJ Mawa Cutsworth. The Marlborough
+all-women’s dance music assisted by DJ Mawa Cutsworth. The Marlborough
 Hotel, 331 Smith St. $10.
 
 Sunday, October 5
 
 2-3pm
 The Wendy Wersch Memorial Lecture: Possibility: Art, Community and Changing
-the World by Sheila Spence at the University of Manitoba School of Artâ€™s
+the World by Sheila Spence at the University of Manitoba School of Art’s
 new ARTlab. Free!
 
 3-5pm
@@ -902,7 +902,7 @@ Experimental Film & Video programming collective and is the Artistic
 Director of SAVAC (South Asian Visual Arts Centre) in Toronto.
 
 Joan Borsa is an independent curator, art critic and Associate Professor at
-the Department of Art and Art History and the Womenâ€™s and Gender Studies
+the Department of Art and Art History and the Women’s and Gender Studies
 Program, University of Saskatchewan.
 
 Amy Fung is a writer and curator currently based in Vancouver. She is known
@@ -911,7 +911,7 @@ publications such as Canadian Art, Fuse and Blackflash. Her most recent
 curatorial project, They Made A Day Be A Day Here, has been touring for the
 past two years.
 
-Seema Goelâ€™s work focuses on human-animal, human-place and human-human
+Seema Goel’s work focuses on human-animal, human-place and human-human
 relationships, with particular emphasis on our abilities to engage with,
 change and manipulate these things. Using an eclectic range of materials,
 she draws from her dual background in the arts and sciences.
@@ -921,7 +921,7 @@ practice she focuses on Aboriginal issues and art. She is now Assistant
 Professor in the Visual and Aboriginal Arts Department, Brandon University.
 
 Kristin Nelson has exhibited her work from Montreal to Vancouver, from
-Winnipeg to Oaxaca, MÃ©xico. Her work is represented by Actual in Winnipeg.
+Winnipeg to Oaxaca, México. Her work is represented by Actual in Winnipeg.
 She recently completed her MFA at Concordia University and is active in
 MAWA (as a mentor), Manitoba Printmakers Association and the Arts and
 Disability Network of Manitoba.
@@ -942,7 +942,7 @@ Sheila Spence has exhibited her photographs nationally and internationally.
 As an activist, she has conspired overtly and covertly to foster dialogue
 and change on feminist and queer issues. And as an arts
 manager/administrator, Spence directed the rebirth of Manitoba Printmakers
-Associationâ€™s Martha Street Studio.
+Association’s Martha Street Studio.
 
 Known for making art that hovers on the edge of public acceptance, Diana
 Thorneycroft has pursued subject matter that often challenges her audience.
@@ -954,9 +954,9 @@ This symposium is supported by ARCA, Artist Run Centres Association of
 Canada.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-09-18-14-the-aphrodisiac-device-international-queer-residency-in-valp">14. The Aphrodisiac Device | International Queer Residency in ValparaÃ­so, Chile | OCT 15</a>
+<a href="/instant-coffee/listings/2014-09-18-14-the-aphrodisiac-device-international-queer-residency-in-valp">14. The Aphrodisiac Device | International Queer Residency in Valparaíso, Chile | OCT 15</a>
 ------------------------------------------------------------------------
-El Dispositivo AfrodisÃ­aco | The Aphrodisiac Device
+El Dispositivo Afrodisíaco | The Aphrodisiac Device
 
 ✺International Queer Residency in ValparaÃ­so, Chile ✺
 
@@ -970,7 +970,7 @@ community, without eclipsing the local particularities of each culture.
 
 A central goal of the residency is to bring together queer artists,
 activists and cultural creators from around the world and to engage with
-Chilean and ValparaÃ­so LGBTQ art and political histories: to act in
+Chilean and Valparaíso LGBTQ art and political histories: to act in
 mutually beneficial ways to both existing local communities as well as
 visiting artists. Throughout its activities, the residency aims to remain
 critical and conscious of the power dynamics inherent in travel between the
@@ -983,8 +983,8 @@ two-week residency.
 PLACE
 Built upon dozens of steep hills intersected with a dense warren of
 streets, stairways, funicular elevators and alleys overlooking the Pacific
-Ocean. ValparaÃ­so has a rich cultural and political legacy, as the
-countryâ€™s port city. During the golden age of its port, Valparaiso was
+Ocean. Valparaíso has a rich cultural and political legacy, as the
+country’s port city. During the golden age of its port, Valparaiso was
 called Little San Francisco, and it still shares the creative, outsider
 nature with many port cities. Average temperature for summer days in
 January are 17-30 C. January is the dry season, with very little
@@ -1020,7 +1020,7 @@ projects, online works, performances, screenings, installations, visual
 art, electronic literature, works that engage with public space,
 photography, media art, interdisciplinary projects, music and video. There
 will be a gallery exhibition as well as works that engage with other sites
-in and around the downtown Woodwardâ€™s main campus and elsewhere in Vancouver.
+in and around the downtown Woodward’s main campus and elsewhere in Vancouver.
 
 The ISEA2015 committee encourages individual artists and/or creative teams
 to conceptualize and scale their projects with budget considerations in
@@ -1028,7 +1028,7 @@ mind. ISEA2015 will consult with selected artists around grants and funding
 applications.
 THEME
 
-ISEA2015â€™s theme of DISRUPTION invites a conversation about the aesthetics
+ISEA2015’s theme of DISRUPTION invites a conversation about the aesthetics
 of change, renewal, and game-changing paradigms. We look to raw bursts of
 energy, reconciliation, error, and the destructive and creative forces of
 the new. Disruption contains both blue sky and black smoke. When we speak
@@ -1098,7 +1098,7 @@ disruption. How can we exploit the body itself in renegotiating physical
 habit, cultural experience and embodied texts in the context of embodied
 innovation, and disruptive technology through the lens of embodiment? What
 are the key drivers of innovation as it is situated within and upon the
-body and what are the consequences â€“ social, political, biological,
+body and what are the consequences – social, political, biological,
 creative, performative, in cyborgs and in fashion? How can we see movement
 as a driver of knowledge and innovation? What is physical movement now?
 PROTOTYPE + DIY
@@ -1121,7 +1121,7 @@ literature into other spheres? Using text and code, how can we investigate
 contemporary aesthetics at this moment within bookforms, narrative,
 electronic, or generative literature? What are the possibilities of
 creation and destruction using the medium of code and the function of the
-literary in todayâ€™s culture?
+literary in today’s culture?
 SCIENCE + INTERDISCIPLINARITY
 
 Science informs art as art problematizes science. How have disruptive
@@ -1150,7 +1150,7 @@ online works, performances, screenings, installations, visual art,
 electronic literature, works that engage with public space, photography,
 media art, interdisciplinary projects, and video. There will be a gallery
 exhibition as well as works that engage with other sites in and around the
-Woodwardâ€™s main campus and elsewhere in Vancouver.
+Woodward’s main campus and elsewhere in Vancouver.
 
 The ISEA2015 committee encourages individual artists and/or creative teams
 to conceptualize and scale their projects with budget considerations in
@@ -1162,7 +1162,7 @@ These elements must be compiled into a single PDF.
 
 - Brief project description (200 words)
 - Thematic statement (including to which subtheme you are applying) (200 words)
-- 1 â€“ 2 images
+- 1 – 2 images
 - If submitting sound work or video, send a link to soundcloud/ vimeo
 - Artist bio or CV
 - Proposed budget
@@ -1198,15 +1198,15 @@ the submission of exhibition proposals from emerging, mid-career and
 established artists and curators who are innovative in their use of
 materials and approach to photography. Gallery 44 views photography within
 the larger context of contemporary artistic practices and relevant cultural
-issues in todayâ€™s society.
+issues in today’s society.
 
 Submission guidelines can be viewed on our website:
 http://gallery44.org/call-for-submission/emerging-mid-career-
 and-established-artists-and-curators
 
-PROOF 22 CALL FOR EMERGING CANADIAN ARTISTS â€“ Deadline November 7
+PROOF 22 CALL FOR EMERGING CANADIAN ARTISTS – Deadline November 7
 
-Proof is Gallery 44â€™s annual exhibition of photo-based work by Canadian
+Proof is Gallery 44’s annual exhibition of photo-based work by Canadian
 emerging artists reflecting a range of current concerns and practices in
 contemporary photography from across the country. Proof is often one of the
 first exhibitions in a professional context for an emerging artist as was

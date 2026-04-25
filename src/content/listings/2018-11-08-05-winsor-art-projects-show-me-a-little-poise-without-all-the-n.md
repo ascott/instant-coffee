@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 5
 type: ""
+venue: "Winsor Art Projects"
 summary: "Winsor Art Projects | Show Me a Little Poise Without All the Noise | NOV 8"
 ---
 

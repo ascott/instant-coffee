@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 19
 type: "CALL"
+venue: "Empire of Dirt"
 summary: "Empire of Dirt | Artist-led Cohort Residencies | JAN 16"
 ---
 

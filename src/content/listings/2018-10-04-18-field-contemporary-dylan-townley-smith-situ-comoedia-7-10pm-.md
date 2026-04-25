@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 18
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Dylan Townley-Smith - Situ Comoedia | 7-10PM | OCT 11"
 ---
 

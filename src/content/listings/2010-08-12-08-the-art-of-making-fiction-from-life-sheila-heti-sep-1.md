@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feeling so much doing so little"
 emailDate: "Thu, 12 Aug 2010 11:15:08 -0700"
 number: 8
 type: ""
+venue: "The Art of Making Fiction from Life"
 summary: "The Art of Making Fiction from Life | Sheila Heti | SEP 1"
 ---
 

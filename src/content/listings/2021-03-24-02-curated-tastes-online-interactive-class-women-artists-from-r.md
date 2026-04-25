@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 2
 type: "EDUCATION"
+venue: "Curated Tastes [ONLINE INTERACTIVE CLASS]"
 summary: "Curated Tastes [ONLINE INTERACTIVE CLASS] | Women Artists from Renaissance to Impressionism | MAR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Get Social and Get Saved"
 emailDate: "Thu, 29 May 2008 07:35:09 -0700"
 number: 6
 type: ""
+venue: "CSA"
 summary: "CSA | ROBYN LABA | MAY 29"
 ---
 

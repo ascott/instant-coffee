@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Velvet Terrorism: Pussy Riot’s Russia | MAR 22"
 ---
 

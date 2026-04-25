@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 16
 type: ""
+venue: "Modern Fuel Artist-Run Centre"
 summary: "Modern Fuel Artist-Run Centre | seeking: Artistic Director, Kingston | OCT 1"
 ---
 
@@ -16,7 +17,7 @@ Run Centre facilitating the presentation, interpretation, and production of
 contemporary visual, time-based and interdisciplinary arts. Modern Fuel 
 supports innovation and experimentation, and is committed to the education 
 of interested publics and the diversification of its audiences. This is an 
-exciting time for Modern Fuel as it moves into Kingstonâ€™s new arts cluster, the 
+exciting time for Modern Fuel as it moves into Kingston’s new arts cluster, the 
 Tett Centre for Creativity & Learning.
 
 Position Summary:
@@ -35,7 +36,7 @@ Key Roles and Responsibilities:
 ● Chairs the Programming Committee
 ● With the Programming Committee and other involved individuals and 
 organizations, the Artistic Director develops the annual schedule of 
-exhibitions and events for Modern Fuelâ€™s programming streams: Main Gallery, 
+exhibitions and events for Modern Fuel’s programming streams: Main Gallery, 
 State of Flux, New Media Workspace and Art in the Streets.
 ● Initiates and solicits programming at the Centre, which may include up 
 to 2 independently curated exhibitions. Communicates and coordinates with 
@@ -70,7 +71,7 @@ Director and Gallery Assistant.
 ● Engages in community networking including organizing artist dinners.
 ● Assists the Administrative Director and relevant staff and Board 
 members with the development of budgets, maintenance of financial records 
-as needed, and preparation of the year-end auditorâ€™s report as needed.
+as needed, and preparation of the year-end auditor’s report as needed.
 ● Supports the coordination of membership renewal campaigns.
 ● Presents a welcoming and informative face to the patrons and public 
 who visit the gallery.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 16
 type: "OPENING"
+venue: "Deluge Contemporary Art (Victoria)"
 summary: "Deluge Contemporary Art (Victoria) | Immaculate Debris - Jeremy Borsos | JUN 17"
 ---
 

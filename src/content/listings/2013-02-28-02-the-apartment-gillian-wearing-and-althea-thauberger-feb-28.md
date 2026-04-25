@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 2
 type: ""
+venue: "The Apartment"
 summary: "The Apartment | GILLIAN WEARING and ALTHEA THAUBERGER | FEB 28"
 ---
 
@@ -13,12 +14,12 @@ London
 and The Apartment's first exhibition of Vancouver artist Althea Thauberger
 THURSDAY FEBRUARY 28, 8-10pm
 
-Gillian Wearing, Crowd, 2012, color video for monitor 15 mins Â© the 
+Gillian Wearing, Crowd, 2012, color video for monitor 15 mins © the 
 artist, courtesy Maureen Paley, London
 
 GILLIAN WEARING
 ALTHEA THAUBERGER
-Thursday February 28 â€“ April 14
+Thursday February 28 – April 14
 OPENING RECEPTION 8-10PM
 
 The Apartment is pleased to present an exhibition of video work by 
@@ -29,7 +30,7 @@ Gillian Wearing settled in London in 1983 where she studied at the Chelsea
 School of Art and Goldsmiths College, University of London, earning a BFA in 
 1990. Her work explores the differences between public and private life, the 
 individual and society, voyeurism and exhibitionism, and fiction and fact. In its 
-candor and psychological intensity, Wearingâ€™s work extends the traditions of 
+candor and psychological intensity, Wearing’s work extends the traditions of 
 photographic portraiture and has described her methodology as â€œediting lifeâ€ , 
 acknowledging influences such as August Sander, Walker Evans, and Diane 
 Arbus.
@@ -44,22 +45,22 @@ strays from the inner script of its subject. Through enacting her individual
 expressivity in this colour video, a recording of the ritual dancing is performed, 
 a allegory of an individual striking out within a crowd.
 
-Resonating in a similar manner but different in tone Wearingâ€™s newest video, 
+Resonating in a similar manner but different in tone Wearing’s newest video, 
 Crowd (2012), depicts a patch of earth populated by grass and weeds, a few 
-ants crawling around the isolated plot. This living replica of Albrecht DÃ¼rerâ€™s 
-1503 watercolour Great Piece of Turf â€“ Study of Weeds, 2012, is filmed 
-through the dimming and brightening light of the artistâ€™s studio. In conversation 
+ants crawling around the isolated plot. This living replica of Albrecht Dürer’s 
+1503 watercolour Great Piece of Turf – Study of Weeds, 2012, is filmed 
+through the dimming and brightening light of the artist’s studio. In conversation 
 the two works realize a naturalist tableau, a meditation on the staged 
 representation of life, frail but striving.
 
-Solo exhibitions of Gillian Wearingâ€™s work have been organized by the 
+Solo exhibitions of Gillian Wearing’s work have been organized by the 
 Whitechapel Gallery, London (2012), which toured to K20, Kunstsammlung 
 Nordrhein-Westfalen, Dusseldorf (2012), and the Museum Brandhorst, 
 Munich, (opening March 2013), Galleria Civica de Arte Contemporanea di 
 Trento (2007), the Museum of Contemporary Art in Chicago (2003), Sala de 
 Exposiciones de la FundaciÃ³n â€œla Caixaâ€  in Madrid (2001, MusÃ©e dâ€™Art 
 Moderne de la Ville de Paris (2001), Serpentine Gallery in London (2000) and 
-La Centre dâ€™Art Contemporain in Geneva (1998). A major monograph on 
+La Centre d’Art Contemporain in Geneva (1998). A major monograph on 
 Gillian Wearing was published by Ridinghouse to coincide with her 
 retrospective at the Whitechapel Gallery, in 2012.In 1997 she was awarded 
 the Turner Prize. We would like to deeply thank Maureen Paley for her 
@@ -70,13 +71,13 @@ Althea Thauberger, Recovered Gelatin Dry Plates (Unknown American Nudist
 Colony no 8.) ca. 1935/2012
 
 At this time The Apartment will also present an exhibition by Vancouver 
-based artist Althea Thauberger. This will be Thaubergerâ€™s first exhibition with 
+based artist Althea Thauberger. This will be Thauberger’s first exhibition with 
 the gallery.
 
 Althea Thauberger documents people - alone and as groups - who find 
 themselves existing in resonate social conditions. The conflicting social and 
 political prerogatives of the subjects, contexts and apparatuses she works 
-through develop a kind of honesty, criticality and self-reflexivity. The artistâ€™s 
+through develop a kind of honesty, criticality and self-reflexivity. The artist’s 
 practice invites those participating in her works to decide what kind of future 
 they desire to be a part of. Thauberger uses documentary strategies to 
 examine the complex relationship people have with lived experience both 
@@ -91,11 +92,11 @@ the field of these landscapes. The subjects are pictured within a radical
 community, captured in the tentative possibilities of their togetherness as well 
 as its innate limitations. 
 
-Thauberger received her B.F.A from Concordia University, MontrÃ©al in 2000 
+Thauberger received her B.F.A from Concordia University, Montréal in 2000 
 and her M.F.A in Visual Arts from the University of Victoria, Canada in 2002. 
-In the past year, Thaubergerâ€™s works have been presented at the 2012 
-Liverpool Biennial; The Power Plant, Toronto; La MusÃ©e dâ€™art contemporain de 
-MontrÃ©al; Overgaden Institute of Contemporary Art, Copenhagen; PrÃ¡delna, 
+In the past year, Thauberger’s works have been presented at the 2012 
+Liverpool Biennial; The Power Plant, Toronto; La Musée d’art contemporain de 
+Montréal; Overgaden Institute of Contemporary Art, Copenhagen; Prádelna, 
 Bohnice Psychiatric Hospital, Prague; and in numerous sites across the 
 public realm. We would like to extend our gratitude to Susan Hobbs for her 
 assistance with this exhibition.

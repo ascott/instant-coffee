@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Corita Kent Film Screenings | SEP 15"
 ---
 

@@ -4,25 +4,26 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 7
 type: ""
+venue: "C Magazine"
 summary: "C Magazine | C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS | SEP 24"
 ---
 
 C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS NOW
 Issue 107 includes feature essays by Carla Benzan, writing about the lives
-and deaths of Carolee Schneemannâ€™s cats; Karen Houle, on ethics and animal
-kinship; Jon Davies, on Mike Whiteâ€™s film, Year of the Dog; and Helena
+and deaths of Carolee Schneemann’s cats; Karen Houle, on ethics and animal
+kinship; Jon Davies, on Mike White’s film, Year of the Dog; and Helena
 Reckitt, writing about touch and affect in human/non-human animal
 relationships. Reviews include the winning entry for the 2010 New Critics
-Competition: Corinna Kirsch on Justin Thomas Schaeferâ€™s Comedy Comedy, as
+Competition: Corinna Kirsch on Justin Thomas Schaefer’s Comedy Comedy, as
 well as reviews of exhibitions and projects by Marina Abramović, Adrian
 Blackwell, Christian Boltanski, Carlos Garaicoa, David Hoffos, Kristan
 Horton, Stephen Kelly, Ryan Trecartin, Daryl Vocat, Marion Wagschal, and
 the Alberta Biennial. This issue also includes Bird Radio for Afghanistan,
 an artist project by Bill Burns, with an accompanying essay by Gentiane
-BÃ©langer.
+Bélanger.
 
 2010 C New Critics Competition:
-C Magazine is proud to announce the winner of this yearâ€™s C New Critics
+C Magazine is proud to announce the winner of this year’s C New Critics
 Competition:
 
 Corinna Kirsch
@@ -34,7 +35,7 @@ Review of Wangechi Mutu: This You Call Civilization? at the Art Gallery of
 Ontario, Toronto.
 
 Corinna Kirsch is a curator and writer living in Chicago. She was the 2009
-- 2010 Oâ€™Brien Curatorial Fellow at the Weisman Art Museum at the
+- 2010 O’Brien Curatorial Fellow at the Weisman Art Museum at the
 University of Minnesota and is the co-founder of the curatorial project
 space Concertina Gallery in Chicago. In 2009 she received her MA in Modern
 Art History, Theory, and Criticism from The School of the Art Institute of
@@ -42,9 +43,9 @@ Chicago. Her review of Justin Thomas Schaefer: Comedy Comedy at Midway
 Contemporary Art, Minneapolis appears in C107.
 
 Farah Yusuf is an artist and student who lives and works in Toronto. She is
-completing her final year towards a BFA in OCADâ€™s Art Criticism and
+completing her final year towards a BFA in OCAD’s Art Criticism and
 Curatorial Practices program. Her new media work r u part of the art? was
-shown at Torontoâ€™s Nuit Blanche in 2008. Her writing will appear in C
+shown at Toronto’s Nuit Blanche in 2008. Her writing will appear in C
 Magazine issue 109, in Spring 2011.
 
 The C New Critics Competition is an annual competition designed to help
@@ -66,7 +67,7 @@ http://www.thedrakehotel.ca
 
 Venue Sponsor: The Drake Hotel
 
-C School is an initiative aimed at extending C Magazineâ€™s mandate to
+C School is an initiative aimed at extending C Magazine’s mandate to
 advance education in contemporary visual art and culture. C School offers
 study guides and research material in conjunction with each issue theme,
 beginning with C104 (study guides and bibliographies are available online
@@ -79,7 +80,7 @@ inquiries, contact Kate at
 info@cmagazine.com
 
 PHOTO CREDIT:
-Francis AlÃ¿s (in collaboration with Rafael Ortega), Gringo, 2003, Mexico,
+Francis Alÿs (in collaboration with Rafael Ortega), Gringo, 2003, Mexico,
 video documentation of an action, 5 min. Image courtesy of David Zwirner,
 New York
 __________________________________

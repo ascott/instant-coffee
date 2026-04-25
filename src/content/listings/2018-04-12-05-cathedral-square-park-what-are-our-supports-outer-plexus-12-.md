@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 5
 type: "EVENT"
+venue: "Cathedral Square Park"
 summary: "Cathedral Square Park | What Are Our Supports: Outer Plexus | 12-4PM | APR 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 5
 type: ""
+venue: "Red Gate Arts Society"
 summary: "Red Gate Arts Society | Over Under Over Under: A Show About Patterns | JUL 24"
 ---
 

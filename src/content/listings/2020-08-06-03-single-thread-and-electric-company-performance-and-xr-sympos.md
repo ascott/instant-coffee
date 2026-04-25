@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 3
 type: "PERFORMANCE"
+venue: "Single Thread and Electric Company"
 summary: "Single Thread and Electric Company | Performance and XR Symposium"
 ---
 

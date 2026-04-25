@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 28
 type: ""
+venue: "Goldcorp Centre for the Arts"
 summary: "Goldcorp Centre for the Arts | An evening with Sarah Schulman | NOV 3"
 ---
 

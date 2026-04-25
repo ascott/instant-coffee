@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 7
 type: ""
+venue: "ie Gallery"
 summary: "ie Gallery | Aaron Carter + Felicia Batzloff, Document of a Wal | MAR 9"
 ---
 

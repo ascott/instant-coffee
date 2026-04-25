@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 5
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Richard Storms - un•re:mark•a•ble | 5 PM | JAN 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 6
 type: "TALK"
+venue: "SFU School for the CA [ONLINE]"
 summary: "SFU School for the CA [ONLINE] | VISUAL ART FORUM: Samson Young | 7PM | NOV 19"
 ---
 

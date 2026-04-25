@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 13
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly with Light Industry - 7PM | JAN 11"
 ---
 

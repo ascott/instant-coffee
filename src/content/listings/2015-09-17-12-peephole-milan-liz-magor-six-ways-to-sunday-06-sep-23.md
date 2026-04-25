@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 12
 type: "OPENING"
+venue: "Peephole (Milan)"
 summary: "Peephole (Milan) | Liz Magor - Six Ways to Sunday #06 | SEP 23"
 ---
 

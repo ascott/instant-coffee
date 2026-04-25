@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 21
 type: ""
+venue: "Cinematheque"
 summary: "Cinematheque | DIM | The Permanent Longing for Elsewhere | MAR 21"
 ---
 
@@ -23,11 +24,11 @@ the part of the host community). People have always wandered, but the
 recent proliferation of migration and mobility in our globalized world
 shifts the reference point of migrant and fixed resident alike: everyone is
 a fellow traveler. While nation-states have long provided a foundation for
-understanding alliances between large groups of people, todayâ€™s cultural
+understanding alliances between large groups of people, today’s cultural
 flows spill across national borders. Migrants are one element among many
 that constitute global circulations of culture, politics and economy, and
 the contemporary denizen must continually negotiate acculturations between
-the many communities that compose their lives. â€œThe Permanent Longing for
+the many communities that compose their lives. “The Permanent Longing for
 Elsewhereâ€  features works that hone in on a sense of frustration that often
 accompanies experiences of migration, exploring how national identification
 is breaking down as a suitable frame of reference in a globalized world. By

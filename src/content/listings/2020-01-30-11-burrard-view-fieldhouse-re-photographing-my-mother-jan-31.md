@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 11
 type: "OPENING"
+venue: "Burrard View Fieldhouse"
 summary: "Burrard View Fieldhouse | Re-Photographing My Mother | JAN 31"
 ---
 

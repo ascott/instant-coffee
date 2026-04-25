@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 11
 type: "OPENING"
+venue: "EXERCISE"
 summary: "EXERCISE | Adam Harrison | DEC 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 13
 type: ""
+venue: "Concourse Gallery"
 summary: "Concourse Gallery | Downstream: Reimagining Water | MAR 7"
 ---
 

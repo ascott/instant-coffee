@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 42
 type: "EXHIBITION"
+venue: "MOA"
 summary: "MOA | PLAYING WITH FIRE: CERAMICS OF THE EXTRAORDINARY | NOV 22"
 ---
 

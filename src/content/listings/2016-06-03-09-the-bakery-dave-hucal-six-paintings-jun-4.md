@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 9
 type: "OPENING"
+venue: "The Bakery"
 summary: "The Bakery | Dave Hucal - Six Paintings | JUN 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 16
 type: "TALK"
+venue: "Bill Reid Gallery of Northwest Coast Art"
 summary: "Bill Reid Gallery of Northwest Coast Art | Jaad Kuujus/Meghann O'Brien | 2-3pm | NOV 24"
 ---
 

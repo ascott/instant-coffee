@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 6
 type: "OPENING"
+venue: "Gallery 295"
 summary: "Gallery 295 | travel back to blue - Felicia E. Gail | OCT 23"
 ---
 

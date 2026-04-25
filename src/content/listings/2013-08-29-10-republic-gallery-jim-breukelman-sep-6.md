@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 10
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | JIM BREUKELMAN | SEP 6"
 ---
 
@@ -17,9 +18,9 @@ Opening reception: Friday September 6, 6- 9 pm
 In his first exhibition at Republic since 2009, Vancouver photographer Jim 
 Breukelman returns with a new body of work highlighting his recent 
 experimentation with photoassemblage. As its title implies, Out of Fiction 
-borrows from both fantasy â€“ as expressed in raw creativity responding to the 
-banal templates often offered in childrenâ€™s colouring books â€“ and reality: how 
-these processes of imagination manifest themselves â€œin ways both 
+borrows from both fantasy – as expressed in raw creativity responding to the 
+banal templates often offered in children’s colouring books – and reality: how 
+these processes of imagination manifest themselves “in ways both 
 foreseeable and unforeseeableâ€ . The act of bringing these elements together 
 in finished photographic works illuminates the proximity of their origins in a 
 historical, cultural imaginary, as well as the tenuousness of the divisions 
@@ -34,18 +35,18 @@ best-known for his â€œenvironmental portraitsâ€  which mark various idios
 of contemporary human life, such as his series Mesocosm, Paintball: Urban 
 War Game Landscapes, and Hot Properties, works from which were featured 
 in the 2012 Canadian Biennial at the National Gallery in Ottawa. Earlier in 
-2012, Jim received a Mayorâ€™s Arts Award in Visual Art from the City of 
+2012, Jim received a Mayor’s Arts Award in Visual Art from the City of 
 Vancouver. Hot Properties #1 was recently selected by Canada Post to be 
 featured on a postage stamp in a series commemorating 100 years of 
 photography in Canada.
 
 Founded in Fall 2006, Republic Gallery exhibits emerging and mid-career 
-Canadian and international artists. The galleryâ€™s roster includes artists 
+Canadian and international artists. The gallery’s roster includes artists 
 working in installation, video, sculpture, photography, mixed media, and 
 contemporary painting. A number of our artists work internationally, including 
 recent residencies and exhibitions in Spain, Denmark, Germany, France, and 
 the United States. Republic Gallery recently took part in Papier 13 in 
-MontrÃ©al.
+Montréal.
 
 For more information please contact us by phone at 604.632.1590 or by email 
 at info@republicgallery.com.

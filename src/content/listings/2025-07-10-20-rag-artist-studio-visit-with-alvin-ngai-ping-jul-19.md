@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 20
 type: "TALK"
+venue: "RAG"
 summary: "RAG | Artist Studio Visit with Alvin Ngai Ping | JUL 19"
 ---
 

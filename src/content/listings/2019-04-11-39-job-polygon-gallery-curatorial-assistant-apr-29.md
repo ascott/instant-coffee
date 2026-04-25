@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 39
 type: ""
+venue: "JOB"
 summary: "JOB | Polygon Gallery | Curatorial Assistant | APR 29"
 ---
 

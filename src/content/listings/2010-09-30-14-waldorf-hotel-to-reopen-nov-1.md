@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 14
 type: ""
+venue: "Waldorf Hotel"
 summary: "Waldorf Hotel | To Reopen | NOV 1"
 ---
 
-Vancouverâ€™s Famous Waldorf Hotel To Reopen in Nov 2010 As A Multi-Venue
+Vancouver’s Famous Waldorf Hotel To Reopen in Nov 2010 As A Multi-Venue
 Concept Hotel.
 
 Vancouver, Canada - September 27th, 2010.
@@ -31,7 +32,7 @@ contemporary art, music, food and culture convene under one roof. The
 programming for the space will be both artistically expansive and
 thematically inclusive.
 
-The hotelâ€™s interiors are virtually untouched in many areas and the new
+The hotel’s interiors are virtually untouched in many areas and the new
 vision expands on the theatricality and surrealism of the original concept.
 The hotel complex consists of thirty rooms, two restaurants (directed by
 Ernesto Gomez and executive chef Ned Bell), a Tiki bar (restored and

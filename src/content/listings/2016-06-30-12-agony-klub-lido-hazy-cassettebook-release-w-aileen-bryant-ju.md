@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 12
 type: "EVENT"
+venue: "Agony Klub @ Lido"
 summary: "Agony Klub @ Lido | hazy cassette/book release w/ Aileen Bryant | JUL 7"
 ---
 

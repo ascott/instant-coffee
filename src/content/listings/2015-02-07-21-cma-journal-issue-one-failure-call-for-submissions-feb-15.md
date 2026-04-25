@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 21
 type: "CALL"
+venue: "CMA Journal"
 summary: "CMA Journal | Issue One: FAILURE - Call for Submissions | FEB 15"
 ---
 

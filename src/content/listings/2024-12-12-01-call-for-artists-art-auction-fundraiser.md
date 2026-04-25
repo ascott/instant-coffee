@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 1
 type: "CALL"
+venue: "Call for Artists: Art Auction Fundraiser"
 summary: "Call for Artists: Art Auction Fundraiser"
 ---
 

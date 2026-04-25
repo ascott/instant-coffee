@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 14
 type: ""
+venue: "UBC @ RED GATE"
 summary: "UBC @ RED GATE | OFF-CAMPUS | MAR 6"
 ---
 

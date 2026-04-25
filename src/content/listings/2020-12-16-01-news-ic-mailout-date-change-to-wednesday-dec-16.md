@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sand Praxis"
 emailDate: "Wed, 16 Dec 2020 06:15:08 -0800"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | IC Mailout Date Change | to *WEDNESDAY* | DEC 16"
 ---
 

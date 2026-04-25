@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 31
 type: "OPENING"
+venue: "Vines Den"
 summary: "Vines Den | DRIVING IN PALESTINE | 6PM | AUG 9"
 ---
 

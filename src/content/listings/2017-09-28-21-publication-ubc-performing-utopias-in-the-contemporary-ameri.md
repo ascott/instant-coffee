@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 21
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | UBC | Performing Utopias in the Contemporary Americas | OCT 11"
 ---
 

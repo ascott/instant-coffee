@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 1
 type: ""
+venue: "BLANKET"
 summary: "BLANKET | Eli Bornowsky | JUN 9"
 ---
 
 Eli Bornowsky
-June 9 â€“ July 16, 2011
+June 9 – July 16, 2011
 Opening Reception Thursday June 9 6-9pm
 
 BLANKET CONTEMPORARY ART INC.
@@ -26,7 +27,7 @@ watercolour and gouache on paper mounted on wood, balsa wood, glue
 8 1/16" x 11 1/16"
 
 Blanket is very pleased to present a solo show by Eli Bornowsky. This is
-the artistâ€™s third solo exhibition with the gallery. Over the last year,
+the artist’s third solo exhibition with the gallery. Over the last year,
 Bornowsky has departed from his iconic and austere color paintings to
 explore new structures and a wide range of motifs. His acclaimed solo
 exhibition at the Western Front in 2010 (curated by Jesse McKee) marked the
@@ -42,19 +43,19 @@ also for the viewer. Here intellection is as important as sensation, and the
 work draws a tension between thinking and seeing. It is within this tension
 that he sees (and reads) potential for subjective freedom and awareness, not
 to mention pleasure. It is a poetic, philosophical and phenomenal tension.
-In Bornowskyâ€™s work the hierarchy of the compositions are intentionally
+In Bornowsky’s work the hierarchy of the compositions are intentionally
 uncertain, allowing the viewer freedom to navigate the composition, pushing
 and pulling his or her own perception against a composition that is always
-in flux. It has been Bornowskyâ€™s ethic to develop pictures that allow the
+in flux. It has been Bornowsky’s ethic to develop pictures that allow the
 viewer to arrive at understandings of their own, to use each picture, in
 other words, as a tool, to experience reality.
 
-Bornowskyâ€™s formative influence was music. In his youth he was trained as a
+Bornowsky’s formative influence was music. In his youth he was trained as a
 classical trumpet player but quickly moved into, computer music, free jazz,
-minimalism and noise. Listening continues to inform Bornowskyâ€™s practice and
+minimalism and noise. Listening continues to inform Bornowsky’s practice and
 is often used as a way to begin to learn the language of his pictures. In
 2008, Bornowsky curated the exhibition Making Real at the Or Gallery where
-he worked with the artist Richard Tuttle. Tuttleâ€™s influence on Bornowskyâ€™s
+he worked with the artist Richard Tuttle. Tuttle’s influence on Bornowsky’s
 work is apparent in the way each artist reflects on the relation between
 abstract forms and language and the kind of practical mysticism that keeps
 the spiritual present while acknowledging the difference between artistic

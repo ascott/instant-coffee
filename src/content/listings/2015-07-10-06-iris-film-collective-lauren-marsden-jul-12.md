@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 6
 type: "TALK"
+venue: "Iris Film Collective"
 summary: "Iris Film Collective | Lauren Marsden | JUL 12"
 ---
 

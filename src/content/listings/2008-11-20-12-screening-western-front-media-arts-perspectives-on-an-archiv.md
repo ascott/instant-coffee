@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 12
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front Media Arts | Perspectives on an Archive | NOV 26"
 ---
 
@@ -41,7 +42,7 @@ Chip Lord, YVR: Arrival and Departure, 1979
 
 Mona Hatoum, Bars, Barbs and Borders â&#65533;&#65533; The Negotiating Table, 1983
 
-Guillermo GÃ³mez-PeÃ±a and Roberto Sifuentes, Dangerous Border Game, 1996
+Guillermo Gómez-Peña and Roberto Sifuentes, Dangerous Border Game, 1996
 
 Antonia Hirsch, Empire Line, 1998
 

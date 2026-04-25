@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 33
 type: "CALL"
+venue: "SPOOX AUDIO ZINE: Issue 14: Rote Notes"
 summary: "SPOOX AUDIO ZINE: Issue 14: Rote Notes | CALLING ALL AUDIOS - SPOOX : 12 - 13 -14 | FEB 15"
 ---
 

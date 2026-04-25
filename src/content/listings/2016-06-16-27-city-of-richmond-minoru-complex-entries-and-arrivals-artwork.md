@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 27
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | Minoru Complex Entries and Arrivals Artwork | JUL 15"
 ---
 

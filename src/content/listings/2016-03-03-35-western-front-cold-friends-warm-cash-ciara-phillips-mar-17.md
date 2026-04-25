@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 35
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Cold Friends, Warm Cash - Ciara Phillips | MAR 17"
 ---
 

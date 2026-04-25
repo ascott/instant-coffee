@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 23
 type: "TALK"
+venue: "SFU School for the Contemporary Arts"
 summary: "SFU School for the Contemporary Arts | [ONLINE] VISUAL ART FORUM: Sanja Iveković | 930AM | OCT 27"
 ---
 

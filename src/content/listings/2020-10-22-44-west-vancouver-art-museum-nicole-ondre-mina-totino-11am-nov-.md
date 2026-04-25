@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 44
 type: "TALK"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | NICOLE ONDRE & MINA TOTINO | 11AM | NOV 14"
 ---
 

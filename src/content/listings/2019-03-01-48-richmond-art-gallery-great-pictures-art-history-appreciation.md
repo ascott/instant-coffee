@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 48
 type: "EDUCATION"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Great Pictures: Art History & Appreciation Course | MAR 30"
 ---
 

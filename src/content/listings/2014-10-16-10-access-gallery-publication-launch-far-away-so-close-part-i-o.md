@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 10
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Publication Launch: Far Away So Close: Part I, | OCT 21"
 ---
 
@@ -19,16 +20,16 @@ Kwan. We will mark this occasion with an informal conversation between
 Kwan and Access Gallery Director/Curator Kimberly Phillips, and to speak 
 around ideas of distance, â€œdark magicâ€  and the works in the exhibition. 
 
-Raymond Boisjoly is an Indigenous artist of Haida and QuÃ©bÃ©cois descent 
+Raymond Boisjoly is an Indigenous artist of Haida and Québécois descent 
 from Chilliwack, BC, currently based in Vancouver. He is represented by 
-Catriona Jeffries Gallery. This fall, Boisjoly will serve as Lead Faculty for â€œIn 
+Catriona Jeffries Gallery. This fall, Boisjoly will serve as Lead Faculty for “In 
 Kindâ€  Negotiations, a thematic residency at the Banff Centre. 
 Vanessa Kwan is a Vancouver-based artist and curator. Her work has been 
 exhibited at a number of galleries and artist-run centres. Recent projects 
 include Sad Sack, a series of collaborations on the subject of melancholy, 
 and Everything Between Open and Closed, a study of signs. She currently 
 works as Curator of Special Projects at grunt gallery, and was curator of 
-performance at the Vancouver Art Gallery from 2008â€“2014.
+performance at the Vancouver Art Gallery from 2008–2014.
 
 Kimberly Phillips, Ph.D.
 Director/Curator

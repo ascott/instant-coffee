@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 8
 type: ""
+venue: "The Orpheum"
 summary: "The Orpheum | Jim Green Memorial | APR 14"
 ---
 

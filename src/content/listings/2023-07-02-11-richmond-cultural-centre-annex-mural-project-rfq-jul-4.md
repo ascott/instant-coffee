@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 11
 type: "CALL"
+venue: "Richmond Cultural Centre Annex Mural Project, RFQ"
 summary: "Richmond Cultural Centre Annex Mural Project, RFQ | JUL 4"
 ---
 

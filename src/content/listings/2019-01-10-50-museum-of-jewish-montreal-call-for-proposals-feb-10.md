@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 50
 type: "CALL"
+venue: "Museum of Jewish Montreal"
 summary: "Museum of Jewish Montreal | Call for Proposals | FEB 10"
 ---
 

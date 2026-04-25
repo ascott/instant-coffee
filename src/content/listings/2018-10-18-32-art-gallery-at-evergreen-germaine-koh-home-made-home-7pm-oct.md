@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 32
 type: "TALK"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Germaine Koh: Home Made Home | 7PM | OCT 24"
 ---
 

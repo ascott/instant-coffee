@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Strange. The first time I've heard
 emailDate: "Thu, 14 Jan 2010 04:42:53 -0800"
 number: 19
 type: ""
+venue: "Kunsthal Charlottenborg"
 summary: "Kunsthal Charlottenborg | Vacancy for Director | Denmark | FEB 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Donna Haraway: Storytelling for Earthly Survival | OCT 17"
 ---
 

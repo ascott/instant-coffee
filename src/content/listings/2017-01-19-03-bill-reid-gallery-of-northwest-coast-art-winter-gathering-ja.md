@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 3
 type: "EVENT"
+venue: "Bill Reid Gallery of Northwest Coast Art"
 summary: "Bill Reid Gallery of Northwest Coast Art | Winter Gathering | JAN 19"
 ---
 

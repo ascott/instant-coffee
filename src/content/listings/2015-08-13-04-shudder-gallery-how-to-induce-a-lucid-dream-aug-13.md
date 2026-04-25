@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 4
 type: "OPENING"
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | How To Induce A Lucid Dream | AUG 13"
 ---
 

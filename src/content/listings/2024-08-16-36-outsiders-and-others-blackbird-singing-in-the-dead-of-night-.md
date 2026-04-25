@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 36
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Blackbird Singing in the Dead of Night | 2PM | SEP 7"
 ---
 

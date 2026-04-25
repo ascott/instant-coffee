@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 1
 type: ""
+venue: "UBC: Ziegler Speaker Series"
 summary: "UBC: Ziegler Speaker Series | Graham Harman: What Objects Can Do for the Arts | FEB 27"
 ---
 
@@ -11,7 +12,7 @@ UBC
 
 Graham Harman
 
-The next lecture in the Ziegler Speaker Series, entitled â€œâ€œWhat Objects Can Do 
+The next lecture in the Ziegler Speaker Series, entitled ““What Objects Can Do 
 for the Artsâ€  will be presented by Prof. Graham Harman, Distinguished 
 University Professor at the American University in Cairo.
 

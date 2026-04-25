@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 23
 type: "EVENT"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Dan Starling: Unsettled Histories | MAR 31"
 ---
 

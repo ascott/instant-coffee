@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 4
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Performance by Dan Starling | JAN 31"
 ---
 
@@ -17,25 +18,25 @@ exhibition will be accompanied by an oral story performance entitled Revolting
 Rhyme. 
 
 Dan Starling's solo exhibition takes Charlie and the Chocolate Factory, the 
-popular childrenâ€™s book written by Roald Dahl in 1964 as it's starting point. 
+popular children’s book written by Roald Dahl in 1964 as it's starting point. 
 Dahl was criticized for his racist characterization of the workers in the 
 chocolate factory of the book as â€œpygmies from Africa.â€  In the subsequent 
-edition, he chose to refer to them instead as the â€œOompa-loompas from 
+edition, he chose to refer to them instead as the “Oompa-loompas from 
 Oompaloompaland.â€  Starling chose to redraw all the original illustrations from 
 the second edition using drypoint and then produce a series of subsequent 
-alterations to the images that call attention to this history as a kind of â€œreturn 
+alterations to the images that call attention to this history as a kind of “return 
 of the repressed.â€  Working in drypoint and etching, a new medium for Starling, 
 the final project will encompass four new books showing this evolution as it 
 progresses.
 
 Dan Starling is a multidisciplinary artist whose practice encompasses video, 
 sculpture, performance, installation, photography, painting as well as artist 
-books and art writing. Starlingâ€™s work takes different aesthetic traditions and 
+books and art writing. Starling’s work takes different aesthetic traditions and 
 rubs them together to bring forth the contradictions inherent in each. He 
 studied art history at UBC and visual art at Emily Carr and has experience 
 exhibiting locally, nationally and recently in an international art context in both 
 solo and group exhibitions. In the spring of 2011, Starling returned to 
-Vancouver after completing a Meisterschuler at the StÃ¤delschule Art 
+Vancouver after completing a Meisterschuler at the Städelschule Art 
 Academy in Frankfurt Germany. He is currently a sessional faculty member 
 at Emily Carr University.
 

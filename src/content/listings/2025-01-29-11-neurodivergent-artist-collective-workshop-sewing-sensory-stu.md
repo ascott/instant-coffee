@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 11
 type: "EDUCATION"
+venue: "Neurodivergent Artist Collective"
 summary: "Neurodivergent Artist Collective | [WORKSHOP] Sewing Sensory Stuffies | FEB 1"
 ---
 

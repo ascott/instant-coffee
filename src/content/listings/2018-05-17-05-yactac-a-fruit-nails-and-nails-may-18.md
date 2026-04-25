@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 5
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | A Fruit, nails and nails | MAY 18"
 ---
 

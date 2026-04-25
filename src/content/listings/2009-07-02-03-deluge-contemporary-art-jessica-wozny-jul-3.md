@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no excuses"
 emailDate: "Thu, 02 Jul 2009 08:30:59 -0700"
 number: 3
 type: ""
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | Jessica Wozny | JUL 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 14
 type: "TALK"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Michelle Sound&Eliot White-Hill Kwulasultun | 4PM | SEP 14"
 ---
 

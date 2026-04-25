@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 34
 type: "EVENT"
+venue: "Music Box- Harmony Room"
 summary: "Music Box- Harmony Room | Crush of Colour - Studio Time | SEP 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 27
 type: "TALK"
+venue: "grunt gallery [ONLINE]"
 summary: "grunt gallery [ONLINE] | Smokes, Sings Loud: Artist Talk w/ Michelle Sound | FEB 24"
 ---
 

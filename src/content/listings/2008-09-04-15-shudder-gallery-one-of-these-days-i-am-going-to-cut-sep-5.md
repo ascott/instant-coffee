@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you must enter a Byline"
 emailDate: "Thu, 04 Sep 2008 09:20:55 -0700"
 number: 15
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | One Of These Days I am Going To Cut... | SEP 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 15
 type: "OPENING"
+venue: "01 Production Studio"
 summary: "01 Production Studio | Thirty five and a half | JUN 7"
 ---
 

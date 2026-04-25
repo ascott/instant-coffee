@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 19
 type: ""
+venue: "The Cabinet"
 summary: "The Cabinet | Nearly touching the promise, 2024 | MAR 8"
 ---
 

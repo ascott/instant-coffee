@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 9
 type: "EXHIBITION"
+venue: "Alternator Centre for Contemporary Art"
 summary: "Alternator Centre for Contemporary Art | Wasting Techniques | JAN 29"
 ---
 

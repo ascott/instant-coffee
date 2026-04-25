@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 21
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Paradise Lost? Contemporary Works from the Pacific | JUL 24"
 ---
 
@@ -70,8 +71,8 @@ info@satellitegallery.ca
 604-681-8425
 
 Satellite Gallery is an experimental exhibition space shared by three arts
-institutionsÃ¢ï¿½ï¿½Presentation House Gallery, Morris and Helen Belkin Art
-Gallery, and the Museum of AnthropologyÃ¢ï¿½ï¿½and is a Michael OÃ¢ï¿½ï¿½Brian Family
+institutionsâ��Presentation House Gallery, Morris and Helen Belkin Art
+Gallery, and the Museum of Anthropologyâ��and is a Michael Oâ��Brian Family
 Foundation project.
 
 560 Seymour Street, 2nd Floor

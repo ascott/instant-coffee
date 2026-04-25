@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | 221A | Jesse McKee as Curator of Projects and Residencies | JUL 9"
 ---
 

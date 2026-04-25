@@ -50,7 +50,7 @@ Pulling Feathers from a Broken Tooth
 
 Casey Wei
 Jeremy Jansen
-Johan BjÃƒÂ¶rck
+Johan BjÃ¶rck
 Megan Hepburn
 Scott Lewis
 Steve Hubert
@@ -90,7 +90,7 @@ exhibited in many galleries including Gallery TPW, Parisian Laundry and Jen
 Bekman Gallery. His work has been published in Prefix Photo Magazine and 
 Magenta Foundations Flash Forward in 2010 & 2012. He currently holds a 
 position in the photography department at OCADU and York University and is 
-represented in Toronto by ESP â€“ Erin Stump Projects.
+represented in Toronto by ESP – Erin Stump Projects.
 Henry Tsang is a visual and media artist and occasional curator whose work 
 has been exhibited internationally. His projects incorporate digital media, 
 video, photography, language and sculptural elements in the exploration of 
@@ -115,7 +115,7 @@ Evann Siebens and Keith Doyle
 IccarusCar
 February 13 - March 23, 2014
 
-â€œMark my words: a combination airplane and motorcar is coming. You may 
+“Mark my words: a combination airplane and motorcar is coming. You may 
 smile, but it will come.â€  â€“ Henry Ford 1940
 
 Having survived the horrors of the Second World War, the western world 
@@ -130,13 +130,13 @@ jokes. Nostalgia for that optimistic moment was an entry point for Doyle and
 Siebens, yet tempered by humour, pessimism and the hubris of the Inventor 
 or Artist.
 
-Inspired by Molt Taylorâ€™s 1949 Aerocar One and the Greek myth of Icarus, 
+Inspired by Molt Taylor’s 1949 Aerocar One and the Greek myth of Icarus, 
 IcarusCar is an installation incorporating photography, video, sculpture and a 
 full-size1969 MGB-GT. Shifting between fiction and document this project 
 follows the artists as they and their characters work at creating their own 
 version of the flying car. The performers set out to test their flying car only to 
 have it break down repeatedly on the side of the Alberta freeway. Reality 
-sets in. Itâ€™s hard to make a car fly when it wonâ€™t drive.
+sets in. It’s hard to make a car fly when it won’t drive.
 
 IcarusCar slips from fiction to documentary and back again, revealed through 
 multiple moving images and sculptural artifact. By stripping away the 
@@ -178,7 +178,7 @@ accepted until April 30, 2014, and participating galleries and artists will
 announced soon after.
 
 â€œThe theme of Juneâ€™s submission group show will be â€˜public/privateâ€™â€ , said 
-organizers Katayoon Yousefbigloo and Sara Wylie. â€œWe want to address this 
+organizers Katayoon Yousefbigloo and Sara Wylie. “We want to address this 
 dichotomy in artistic practice and in the greater context of the collapsing 
 divide between these two realms in modern society. The theme is simply a 
 suggestion for the submissions and may serve as a catalyst for artists to 
@@ -211,7 +211,7 @@ Screening: Glenn Lewis' Blue Tape Around a City Block (1969)
 
 Gene, 2404 Main St Vancouver, BC
 
-Fabiola Carranza (b. San JosÃ©, Costa Rica) is an artist living in Vancouver. 
+Fabiola Carranza (b. San José, Costa Rica) is an artist living in Vancouver. 
 She received a Bachelor in Media Arts degree from Emily Carr University in 
 2006 and is currently completing a Masters of Fine Arts degree at the 
 University of British Columbia. Carranza's approach to art making combines a 
@@ -245,7 +245,7 @@ colours in pools of water on the paintings surface, he allows semi-
 transparent rivers of pigment to flood into the shadows and stretch into the 
 light. Referencing his surroundings and often en plein air, Brent begins his 
 paintings with lively, gestural drawings that are unique in style. His final 
-workâ€™s depict scenes which are colourful and whimsical, yet detailed and full 
+work’s depict scenes which are colourful and whimsical, yet detailed and full 
 of life.
 
 The show opens on Friday, February 14, and runs until March 1. The gallery 
@@ -255,46 +255,46 @@ is open Thursday to Saturday 1 to 4 PM.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-13-07-satellite-gallery-cindy-sherman-meets-dzunuk-wa-feb-14">07. Satellite Gallery | Cindy Sherman meets Dzunuk wa | FEB 14</a>
 ------------------------------------------------------------------------
-Cindy Sherman meets Dzunukâ€™wa:
-From the Michael and Inna Oâ€™Brian Collection 
+Cindy Sherman meets Dzunuk’wa:
+From the Michael and Inna O’Brian Collection 
 
-Friday, February 14 â€“ Saturday, March 29, 2014
-Opening reception Thursday, February 13, 6:00 â€“ 9:00 pm
+Friday, February 14 – Saturday, March 29, 2014
+Opening reception Thursday, February 13, 6:00 – 9:00 pm
 
-Satellite Gallery, 560 Seymour (Wed â€“ Sat, 12 noon â€“ 6 pm; free admission)
+Satellite Gallery, 560 Seymour (Wed – Sat, 12 noon – 6 pm; free admission)
 www.satellitegallery.ca
 
 The private collection of Vancouver-based arts patrons, Michael and Inna 
 O'Brian, is the focus of this first collaborative exhibition by the four partner 
-institutions at Satellite Gallery. Cindy Sherman meets Dzunukâ€™wa is a rare 
+institutions at Satellite Gallery. Cindy Sherman meets Dzunuk’wa is a rare 
 opportunity for the public to see selected highlights from the collection, 
 including works by such key Canadian and international artists as Brian 
 Jungen, Ann Kipling, Mary Pratt, Jean-Paul Riopelle, Victor Vasarely, and 
 Lawrence Paul Yuxweluptun.
 
-Formed over a period of 25 years, the Oâ€™Brian collection is both eclectic and 
+Formed over a period of 25 years, the O’Brian collection is both eclectic and 
 unpredictable in its breadth and range of media, from paintings and sculptures 
 to ceremonial regalia and conceptual photography. It emphasizes regional art 
-from the postwar era to the present day, revealing the collectorsâ€™ special 
+from the postwar era to the present day, revealing the collectors’ special 
 interest in local and emerging artists, many of whom have become personal 
-friends. â€œMy passion for the visual arts is not just about owning and collecting 
+friends. “My passion for the visual arts is not just about owning and collecting 
 art,â€  says Michael Oâ€™Brian; â€œThe work must create within me a desire to feel 
 and understand what was in the artistâ€™s mind at the time of its creation.â€ 
 
-Taking an experimental approach to the exhibition, the curatorsâ€”Karen 
+Taking an experimental approach to the exhibition, the curators—Karen 
 Duffek (Museum of Anthropology, UBC), Helga Pakasaar (Presentation House 
 Gallery), Cate Rimmer (Charles H. Scott Gallery, Emily Carr University), and 
-Keith Wallace (Morris and Helen Belkin Gallery, UBC)â€”have avoided 
+Keith Wallace (Morris and Helen Belkin Gallery, UBC)—have avoided 
 chronological and thematic categories by placing the diverse works into 
-unexpected juxtapositions. Just as New York artist Cindy Shermanâ€™s untitled 
+unexpected juxtapositions. Just as New York artist Cindy Sherman’s untitled 
 portrait of vanity and the grotesque comes face to face with 
-Kwakwakaâ€™wakw artist Beau Dickâ€™s mask of Dzunukâ€™wa, the Giant of the 
+Kwakwaka’wakw artist Beau Dick’s mask of Dzunuk’wa, the Giant of the 
 Woods, artworks in the exhibition are presented as a series of 
 conversations, from intimate to confrontational. 
 
-â€œWe have each brought different perspectives into the process of assembling 
+“We have each brought different perspectives into the process of assembling 
 the exhibit,â€  says Duffek, â€œand want to honour the vision of the Michael 
-Oâ€™Brian Family Foundation, which founded Satellite Gallery as a space for 
+O’Brian Family Foundation, which founded Satellite Gallery as a space for 
 new and temporary projects, collaborations, and experiments in the arts.â€ 
 
 ------------------------------------------------------------------------
@@ -324,7 +324,7 @@ Broken City Lab
 Saturday, February 15, 2pm
 The Field House Studio at Burrard Marina
 1655 Whyte Avenue
-In partnership with SFU Philosophers CafÃ©, Broken City Lab will host an artist 
+In partnership with SFU Philosophers Café, Broken City Lab will host an artist 
 talk and discussion at the Burrard Marina Field House Studio.
 Residency at the Field House
 Broken City Lab
@@ -343,15 +343,15 @@ specific research towards a new project that explores and makes visible
 issues at the intersection of education, public space and civic life. This new 
 project will develop a sequence of programming that circulates in and around 
 the Burrard Marina Field House.
-Broken City Labâ€™s work recently appeared in the 13th International Venice 
+Broken City Lab’s work recently appeared in the 13th International Venice 
 Biennial of Architecture as part of the Grounds for Detroit exhibit and the 
 collective was long-listed for the Sobey Art Award. Previous projects have 
-included working with the City of Windsorâ€™s Transit Authority to install 
+included working with the City of Windsor’s Transit Authority to install 
 community-created text-based art in its buses; interactive outdoor projections 
 detailing hundreds of ideas for saving the city; the design and distribution of 
 removable micro-gardens; interactive text-based performance so‹ftware; 
 large-scale messages projected across an international border; artists hosted 
-for an interdisciplinary storefront residency project; a 350 Â¬foot long 
+for an interdisciplinary storefront residency project; a 350 ¬foot long 
 message painted on a parking lot visible from planes and satellites; and 
 leading numerous psycho-geographic walks, DIY workshops and community 
 brainstorming sessions in cities all across Canada.
@@ -380,15 +380,15 @@ http://www.dimcinema.ca / http://www.thecinematheque.ca
 
 "Synthetic Properties" brings together two recent films that illustrate the 
 simultaneous banality and wonder of contemporary image and object making 
-technology. Helen Martenâ€™s Evian Disease exploits the medium of digital 
+technology. Helen Marten’s Evian Disease exploits the medium of digital 
 animation. Structured by six narrators floating through a modern apartment, 
 the spectacularly artificial composition investigates the absurd materiality of 
 digital artifice and the sanitized but seductive formal vocabulary of CGI 
-animation. Zoe Tissandierâ€™s new work In Praise of Scribes focuses a similarly 
+animation. Zoe Tissandier’s new work In Praise of Scribes focuses a similarly 
 meditative gaze upon an advanced 3D printing machine. An in-depth visual 
 analysis of the 3D printing process produces an allegory around the 
 potentiality and complexity of the endlessly reproducible object, drawing the 
-printing processâ€™s resultant object as both banal artifact and fetishistic 
+printing process’s resultant object as both banal artifact and fetishistic 
 talisman.
 
 Evian Disease (2012) by Helen Marten. Animation by Adam Sinclair Digital 
@@ -401,7 +401,7 @@ the artist.
 
 Helen Marten lives and works in London. Recent solo exhibitions includeEvian 
 Disease, Palais de Tokyo, Paris (2012); Park Nights: Dust and Piranhas, 
-Serpentine Gallery (2011); Take a stick and make it sharp, Johann KÃ¶nig, 
+Serpentine Gallery (2011); Take a stick and make it sharp, Johann König, 
 Berlin (2011) and Wicked Patterns, T293, Naples (2010). Marten participated 
 in the 2013 Venice Biennale. Recent group exhibitions include New pictures 
 of common objects, MoMA PS1, New York (2012).
@@ -428,9 +428,9 @@ Developmental Cognitive Neuroscience in the Department of Psychiatry at the
 University of British Columbia. Her work integrates developmental, cognitive, 
 neuroscience and molecular genetic approaches to examine fundamental 
 questions about the development of the cognitive control abilities that rely on 
-a region of the brain known as â€˜prefrontal cortexâ€™. Her recent work, including 
+a region of the brain known as ‘prefrontal cortex’. Her recent work, including 
 a paper in the journal Science is affecting early education practices around 
-the world. Diamond will respond to AurÃ©lien Fromentâ€™s exhibition.
+the world. Diamond will respond to Aurélien Froment’s exhibition.
 This series invites cultural and critical producers to present thoughts and 
 ideas rooted in their own interests and practices, and invites audiences to 
 join in the conversations that will explore relevant contemporary issues, 
@@ -700,7 +700,7 @@ Exhibiting artists Vancouver-based Laiwan and Toronto-based Xiaojing Yan,
 as well as Vancouver-based artist/curator Zheng Shengtian will discuss their 
 own work in the context of the current Surrey Art Gallery exhibition (Da bao)
 (Takeout). The conversation will be moderated by Surrey Art Gallery, Curator 
-of Exhibitions and Collections, Jordan Strom. Admission is free â€“ donations 
+of Exhibitions and Collections, Jordan Strom. Admission is free – donations 
 gratefully received.
 
 ABOUT THE ARTISTS
@@ -727,20 +727,20 @@ the only English-language journal on contemporary Chinese art. He is a
 founding member and has been a Board Director of the Vancouver 
 International Centre for Contemporary Asian Art since 1999. He has 
 presented his artwork internationally for several decades. His artistic 
-collaboration with Wang Dongling â€“ Guanshan Gathering â€“ is being presented 
+collaboration with Wang Dongling – Guanshan Gathering – is being presented 
 at the Chambers Gallery (New York) until February 22. As an independent 
 curator, Zheng has organized and curated numerous exhibitions including 
 Jiangnan: Modern and Contemporary Chinese Art (Vancouver), Shanghai 
-Modern (Munich, Kiel, Germany), and Art and Chinaâ€™s Revolution (New York).
+Modern (Munich, Kiel, Germany), and Art and China’s Revolution (New York).
 
 Born in China, Xiaojing Yan is a Toronto-based artist. She holds an MFA in 
 Sculpture from Indiana University of Pennsylvania (USA), and a BFA from 
-Nanjing Arts Institute (China). Yanâ€™s work has been exhibited in galleries and 
+Nanjing Arts Institute (China). Yan’s work has been exhibited in galleries and 
 museums in China, Canada, and the United States, including the Art Toronto 
-art fairâ€™s flagship exhibition Beyond Geography in 2012. Recent solo shows 
+art fair’s flagship exhibition Beyond Geography in 2012. Recent solo shows 
 have appeared at venues including The Red Head Gallery (Toronto, 2012), 
 Glenhyrst Art Gallery of Brant (Brantford, 2011), Artspace (Peterborough, 
-2011), and Phoenix Art Gallery (China, 2009). Yanâ€™s work is included in many 
+2011), and Phoenix Art Gallery (China, 2009). Yan’s work is included in many 
 collections; Seneca College at Newnham Campus (Toronto, 2013) houses her 
 permanent installation Cloudscape. She has done many public art projects 
 including her most recent wall sculpture Soar at Shanfang Elementary School 
@@ -755,7 +755,7 @@ matter as shadow theatre, mushroom farming, tai chi, urban development,
 cooking, and rickshaws. This group exhibition explores both the cross-
 cultural and social dynamic between China and the West, specifically 
 Canada. Centered on the metaphor of take-away food culture (in Mandarin 
-â€˜da baoâ€™ refers to take-out food), the art on display presents ironic, critical, 
+‘da bao’ refers to take-out food), the art on display presents ironic, critical, 
 and humorous perspectives on the import and export of culture, people, and 
 ideas. Participating artists are Sara Angelucci and Han Xu, John Armstrong 
 and Paul Collins, Cathy Busby, Gang Chen, Brendan Fernandes, Nan Hao, 
@@ -778,27 +778,27 @@ Surrey Art Gallery is located at 13750 - 88 Avenue, Surrey, BC, Canada.
 <a href="/instant-coffee/listings/2014-02-13-20-winsor-gallery-fiona-ackerman-feb-22">20. Winsor Gallery | Fiona Ackerman | FEB 22</a>
 ------------------------------------------------------------------------
 Fiona Ackerman
-Itâ€™s Not You, Itâ€™s Me
+It’s Not You, It’s Me
 Opening | Saturday, February 22nd, 2-4pm
 Artist will be in attendance
 
-Exhibition | February 22nd â€“ March 29th, 2014
+Exhibition | February 22nd – March 29th, 2014
 
-Hours | Tues â€“ Fri, 10am â€“ 6pm; Saturday, 10am â€“ 5pm; or by appointment
+Hours | Tues – Fri, 10am – 6pm; Saturday, 10am – 5pm; or by appointment
 Winsor Gallery
 258 East 1st Avenue
 Vancouver, BC V5T 1A6
 +1 604 681 4870 | info@winsorgallery.com | winsorgallery.com
 
-Itâ€™s Not You, Itâ€™s Me sees Ackerman tackle the highly intimate subject matter of 
-other artistsâ€™ studios through her own transformative sensibility. Over the 
+It’s Not You, It’s Me sees Ackerman tackle the highly intimate subject matter of 
+other artists’ studios through her own transformative sensibility. Over the 
 past few years, Ackerman has documented the environments in which 
-eminent Canadian artists â€“ from Lawrence Paul Yuxweluptun to Ron Moppett 
-â€“ produce their work. Beyond merely representing them, Ackerman crosses 
+eminent Canadian artists – from Lawrence Paul Yuxweluptun to Ron Moppett 
+– produce their work. Beyond merely representing them, Ackerman crosses 
 her own symbols and mannerisms into these singular spaces. The result are 
-paintings that are playful yet exact, which are â€“ as the exhibitionâ€™s title 
-suggests â€“ just as much about Ackermanâ€™s own artistic history as they are of 
-her subjectsâ€™.
+paintings that are playful yet exact, which are – as the exhibition’s title 
+suggests – just as much about Ackerman’s own artistic history as they are of 
+her subjects’.
 
 Originally from Montreal, Fiona Ackerman is a painter living and working in 
 Vancouver, BC. Since completing her BFA through Concordia and Emily Carr 
@@ -807,8 +807,8 @@ Europe. She received an honorable mention for the Kingston Prize for
 Canadian Portraiture in 2009, and was included in Carte Blanche 2: Painting, a 
 survey and showcase painting in Canada (published by The Magenta 
 Foundation, fall 2008). In 2012, she exhibited â€œHeterotopiaâ€  at Winsor Gallery, 
-a study into the inner workings of the artistâ€™s studio. She continues to explore 
-this theme in the work for her 2014 exhibition at Winsor Gallery, entitled â€œItâ€™s 
+a study into the inner workings of the artist’s studio. She continues to explore 
+this theme in the work for her 2014 exhibition at Winsor Gallery, entitled “It’s 
 Not You, Itâ€™s Meâ€ . Another viewing of more new works will take place in the 
 fall of 2014 in Germany.
 
@@ -836,7 +836,7 @@ project towards the construction of the system. The contributions will be
 organized in a navigational system, enabling users to interact with individual 
 participants or look for common themes and methods that unite or separate a 
 multiplicity of practices. The online system will establish interconnections 
-between the participantsâ€™ contributions, transforming an individually 
+between the participants’ contributions, transforming an individually 
 generated form of knowledge into a collective one. By offering an integrated 
 interface that weaves together search results from within the system and 
 specific targeted information available elsewhere on the Internet, the project 
@@ -848,7 +848,7 @@ As a volunteer, you will be involved in one or more of the following:
 - Describing and organizing the digital contributions of the artists, 
 scientists and scholars who have been invited to participate in the project.
 
-- Contributing to the development of the systemâ€™s design by testing and 
+- Contributing to the development of the system’s design by testing and 
 using its built features.
 
 - Using various editing software to prepare digital files for inclusion in the 
@@ -882,8 +882,8 @@ technologies and archiving standards used in leading libraries and collections.
 - Learn about organizing and holding academic and public education 
 program events.
 
-The volunteersâ€™ work schedule is flexible and participants in the volunteer 
-program can chose how much time theyâ€™d like to dedicate to the project. 
+The volunteers’ work schedule is flexible and participants in the volunteer 
+program can chose how much time they’d like to dedicate to the project. 
 Except the initial training, occasional meetings, and the two-day conference 
 (March 7-8, 2014) the majority of the volunteer work will be completed on any 
 computer that can connect to the Internet. The time frame for the volunteer 
@@ -908,11 +908,11 @@ University of British Columbia.
 <a href="/instant-coffee/listings/2014-02-13-22-classic-chic-productions-an-evening-with-lisa-wolpe-feb-27">22. Classic Chic Productions | AN EVENING WITH LISA WOLPE | FEB 27</a>
 ------------------------------------------------------------------------
 AN EVENING WITH LISA WOLPE: Classic Chic Productions present An 
-Evening with Lisa Wolpe-a unique opportunity to witness an â€˜Inside the 
-Actors Studioâ€™ style interview with acclaimed Shakespearean Drag King, Lisa 
-Wolpe (Artistic Director, Los Angeles Womenâ€™s Shakespeare Company). Lisa 
+Evening with Lisa Wolpe-a unique opportunity to witness an ‘Inside the 
+Actors Studio’ style interview with acclaimed Shakespearean Drag King, Lisa 
+Wolpe (Artistic Director, Los Angeles Women’s Shakespeare Company). Lisa 
 will talk about her life in the theatre, the hows and whys of playing cross-
-gender, and what itâ€™s like to play those great parts of Hamlet, Iago, Leontes, 
+gender, and what it’s like to play those great parts of Hamlet, Iago, Leontes, 
 Richard III, Jacquis, and Shylock. Classic Chic also welcomes guests Morgan 
 Brayton and The Legion of Flying Monkeys. February 27-6pm at The Anza 
 Club, 3 West 8th Avenue, Vancouver Map: http://goo.gl/maps/LLX8Z 
@@ -952,7 +952,7 @@ assemblage of private and public structures, and as an ideology: a
 concentrated and dynamic interaction of social, cultural, and economic 
 forces. The works presented in the exhibition deal with this interaction in 
 disparate ways. Akhavan disrupts the idea of the utopic by juxtaposing 
-images of Iraqi voters displaying their ink-stained fingertips with his workâ€™s 
+images of Iraqi voters displaying their ink-stained fingertips with his work’s 
 title, And After and After, suggesting the anxiety of an unknowable future in 
 Iraq following the American invasion. Hirsch questions our use of everyday 
 viewing technologies that revoke the real in favour of the image, asking 
@@ -973,7 +973,7 @@ The 2014 Lulu Series: Art in the City line‑up features engaging discussions on
 Art in the City and its importance to establishing connections between 
 citizens and their communities.
 
-On Thursday, March 13, Cath Brunner, Director of 4Cultureâ€™s public art 
+On Thursday, March 13, Cath Brunner, Director of 4Culture’s public art 
 program for King County, WA, will showcase some innovative examples of 
 art where you least expect it, but where it may have the greatest potential to 
 positively impact the public realm. Preceding her talk will be a short 
@@ -989,7 +989,7 @@ On Thursday, May 15, Charles Montgomery, author of Happy City:
 Transforming Our Lives Through Urban Design, will explain how cities 
 influence how we feel, behave, and treat other people in ways most of us 
 never realize. Preceding this talk will a brief performance by the Indigenous 
-vocal ensemble, Mâ€™Girl.
+vocal ensemble, M’Girl.
 
 All events will be held at Richmond City Hall Council Chambers, located at 
 6911 No. 3 Road at 7 p.m. They are free to the public and seating is limited. To 
@@ -1018,15 +1018,15 @@ www.richmond.ca/artists
 This Stays in the Room
 A Play Based on True Stories of Shame and Forgiveness. 
 
-Dates / Times: March 19 â€“ 30, 2014 (Tuesday â€“ Sunday)
-Late shows also. March 19 â€“ 21, 23, 25 â€“ 27, 30 @ 8:00pm. 
-March 22, 28 â€“ 29 @ 7:00pm and 10:00pm
+Dates / Times: March 19 – 30, 2014 (Tuesday – Sunday)
+Late shows also. March 19 – 21, 23, 25 – 27, 30 @ 8:00pm. 
+March 22, 28 – 29 @ 7:00pm and 10:00pm
 
 Horseshoes & Hand Grenades Theatre presents the world premiere of an 
 innovative, multi-media dramatic work This Stays in the Room. From the 
 company that brought you Except in the Unlikely Event of War, Re:Union, and 
 Palace of the End, this collective creation brings together several of 
-Vancouverâ€™s finest theatre artists in a provocative and intimate experience 
+Vancouver’s finest theatre artists in a provocative and intimate experience 
 which will propel the audience on a theatrical journey that asks: why do you 
 shame and how do you forgive? Come enter a vulnerable and exposed 
 environment where the stories you will hear are the actual lived-experiences 
@@ -1105,7 +1105,7 @@ LUMINOUS BODIES
 International Call / Gibraltar Point Thematic Residency
 Facilitator, Teresa Ascencao
 
-Program Dates: July 11 â€“ 25, 2014
+Program Dates: July 11 – 25, 2014
 Submission Deadline: March 31, 2014
 Cost including taxes: $975 (private bedroom) $700 (shared bedroom)
 Includes: accommodation, large shared studio, workshop facilitation, and an 
@@ -1122,7 +1122,7 @@ colonialism and social movements are explored for ideas in transgressing
 these forces. Residents work individually or collaboratively to create 
 artworks that reinvent the body through media of their choice, such as 
 photography, video, installation, drawing, performance art, new media etc. 
-Critiques of residentsâ€™ work in progress occur on a regular basis. There will 
+Critiques of residents’ work in progress occur on a regular basis. There will 
 be a closing exhibition of artworks created during the residency.
 
 Gibraltar Point offers rich potential for the creation of corporeal artworks 
@@ -1167,7 +1167,7 @@ Duration: One month
 Location: Metro-Vancouver
 
 The Capture Photography Festival returns for the month of April of 2015 with 
-Metro Vancouverâ€™s high-profile not-for-profit celebration of local and 
+Metro Vancouver’s high-profile not-for-profit celebration of local and 
 international contemporary photography and lens-based art. Capture will 
 once again celebrate and promote photography through a convergence of 
 exhibitions by preeminent cultural institutions and commercial galleries, 
@@ -1177,10 +1177,10 @@ events and films.
 The Capture Photography Festival is now accepting proposals for 
 participating exhibitions. In order for an exhibit to be included in the Festival 
 programming, proposal must be submitted before October 31, 2014. 
-Proposals are reviewed on an ongoing basis by Captureâ€™s submission panel 
+Proposals are reviewed on an ongoing basis by Capture’s submission panel 
 and decision letters will be sent out no later than December 15, 2014. 
 Decisions will be made as we receive submissions--the sooner we receive 
-an application the the sooner you will be notified of your exhibitionâ€™s status 
+an application the the sooner you will be notified of your exhibition’s status 
 with the festival.
 
 The call is open to all exhibitions of photo and lens-based works focusing on 

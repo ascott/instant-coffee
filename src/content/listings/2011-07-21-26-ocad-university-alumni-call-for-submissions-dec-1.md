@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 26
 type: ""
+venue: "OCAD University Alumni"
 summary: "OCAD University Alumni | Call for submissions | DEC 1"
 ---
 
@@ -13,7 +14,7 @@ Alumni of OCAD University are invited to submit work for
 
 2012: OCAD U Alumni Exhibition, a juried exhibition and sale that
 
-will encompass all of the universityâ€™s twelve disciplines.
+will encompass all of the university’s twelve disciplines.
 
 Opening on March 9, 2012 at the Gladstone Hotel, 
 

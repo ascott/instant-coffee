@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 41
 type: "TALK"
+venue: "221A - Pollyanna Library"
 summary: "221A - Pollyanna Library | Cole Pauls | 6-8PM | OCT 25"
 ---
 

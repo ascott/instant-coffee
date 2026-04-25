@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 39
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | The Lind Prize 2018: Teen Choice Awards | 4-530PM | OCT 4"
 ---
 

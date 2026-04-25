@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 15
 type: "OPENING"
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | Hyung-Min Yoon & Lacie Burning | 8-11PM | APR 13"
 ---
 

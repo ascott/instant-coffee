@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 4
 type: ""
+venue: "LINEbooks at 1067 Granville Street"
 summary: "LINEbooks at 1067 Granville Street | PoetryPianoPoetry | MAR 20"
 ---
 

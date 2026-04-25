@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 8
 type: "OPENING"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Arts Alive and Artist Apprenticeship | MAY 2"
 ---
 

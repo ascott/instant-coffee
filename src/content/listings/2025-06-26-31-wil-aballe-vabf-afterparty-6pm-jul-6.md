@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 31
 type: "EVENT"
+venue: "Wil Aballe"
 summary: "Wil Aballe | VABF AFTERPARTY | 6PM | JUL 6"
 ---
 

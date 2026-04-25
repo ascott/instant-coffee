@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 27
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Marlon Kroll \"cold open\" | UNTIL OCT 19 | OCT 19"
 ---
 

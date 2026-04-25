@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 19
 type: ""
+venue: "ELSEWHERE COLLABORATIVE"
 summary: "ELSEWHERE COLLABORATIVE | CALL: 2010 residencies | Greensboro, NC | DEC 31"
 ---
 

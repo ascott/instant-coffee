@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 52
 type: "FUNDRAISER"
+venue: "Centre A"
 summary: "Centre A | Annual Shoe Party! | 6:30PM | OCT 24"
 ---
 

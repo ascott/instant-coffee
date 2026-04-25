@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: west winds of loss"
 emailDate: "Thu, 09 Oct 2014 11:55:48 -0700"
 number: 19
 type: ""
+venue: "DIM Cinema at the Cinematheque"
 summary: "DIM Cinema at the Cinematheque | Pierre Huyghe: The Host and the Cloud | OCT 20"
 ---
 

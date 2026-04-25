@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 5
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Spatial Politics and the City Symposium | MAR 27"
 ---
 
@@ -38,13 +39,13 @@ Regime: Outlaws and Outsiders in the Neo-Liberal State"
 
 Alison B. Hirsch, Assistant Professor, School of Architecture, University
 of Southern California, "The Participatory City: Activist Landscape
-Architecture in the â€™60s, â€™70s and Today"
+Architecture in the ’60s, ’70s and Today"
 
 Moderator: Chris Gaudet, Public and Academic Programs Assistant, UBC Belkin
 Art Gallery
 
 In her article "Looking for the Utopian", Andrea Anderson claims that the
-aesthetic of Burrowsâ€™ interventions in the Maplewood Mudflats was
+aesthetic of Burrows’ interventions in the Maplewood Mudflats was
 "dependent on the movements of the community as well as of nature." How
 might (legal, architectural, artistic) interventions into landscapes enable
 their emergence or persistence as socially meaningful spaces: homes,
@@ -67,11 +68,11 @@ in Vancouver"
 Moderator: Mari Fujita, Chair, Environmental Design and Associate
 Professor, Architecture, UBC School of Architecture and Landscape Architecture
 
-How might Vancouverâ€™s (often highly conflictual) spatial histories be
-activated by artistic interventions? How have communities â€“ especially
-communities that have defined themselves, or been defined, as marginal â€“
-shaped the cityâ€™s public spaces? What possibilities do practices of
-contestation, such as Vancouverâ€™s long history of squatting, open for
+How might Vancouver’s (often highly conflictual) spatial histories be
+activated by artistic interventions? How have communities – especially
+communities that have defined themselves, or been defined, as marginal –
+shaped the city’s public spaces? What possibilities do practices of
+contestation, such as Vancouver’s long history of squatting, open for
 thinking and representing a city for which sovereignty and land title are
 constantly at issue?
 
@@ -79,7 +80,7 @@ Spatial Politics and the City is made possible with assistance from the UBC
 Curatorial Lecture Series supported by the Audain Endowment for Curatorial
 Studies in the Department of Art History, Visual Art and Theory.
 
-â€”
+—
 
 For further information please contact: Jana Tyner at jana.tyner@ubc.ca,
 tel: (604) 822-1389, or fax: (604) 822-6689

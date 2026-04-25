@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 36
 type: ""
+venue: "Monitor 10"
 summary: "Monitor 10 | Call for New South Asian Short Film + Video | SEP 30"
 ---
 
@@ -17,7 +18,7 @@ invite independent and innovative short films and videos that explore the aesthe
 and form of the moving image and its relation to narrative. 
 
 Monitor 10 encourages new, experimental and risk-taking work that challenges 
-the viewerâ€™s active engagement.
+the viewer’s active engagement.
 
 Selected works will be screened in April 2014 in Toronto, Canada. Monitor 10 will 
 be programmed by independent curator and artist Shai Heredia.

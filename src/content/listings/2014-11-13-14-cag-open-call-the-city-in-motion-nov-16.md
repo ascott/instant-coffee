@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 14
 type: "CALL"
+venue: "CAG"
 summary: "CAG | Open Call - The City in Motion | NOV 16"
 ---
 
-OPEN CALL â€“ CITY IN MOTION
+OPEN CALL – CITY IN MOTION
 
 Open Call - The City in Motion
 
@@ -42,7 +43,7 @@ This innovative program is an opportunity for youth to experiment with
 various media, offering training and mentorship on the concepts,
 documentation tactics and technical logistics for developing video/film/new
 media work. Through studio and gallery visits, workshops and screenings
-will also be connected to Vancouverâ€™s cultural community. Designed to
+will also be connected to Vancouver’s cultural community. Designed to
 immerse participants in a rigorous schedule that supports the process of
 developing an idea into a final permanent installation, the CAG is
 targeting self-motivated individuals interested in collaborating in the

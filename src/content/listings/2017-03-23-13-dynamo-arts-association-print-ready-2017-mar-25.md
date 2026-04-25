@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 13
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Print Ready 2017 | MAR 25"
 ---
 

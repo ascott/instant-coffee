@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 2
 type: "OPENING"
+venue: "Western Front @ Dude Chilling Park"
 summary: "Western Front @ Dude Chilling Park | Urgent Imagination: Holly War | JUN 9"
 ---
 

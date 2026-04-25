@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 22
 type: "EDUCATION"
+venue: "grunt gallery"
 summary: "grunt gallery | Reading Room | 530-730PM | FEB 13, 20, 27 | FEB 13"
 ---
 

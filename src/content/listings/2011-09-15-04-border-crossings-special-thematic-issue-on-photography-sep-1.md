@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 4
 type: ""
+venue: "BORDER CROSSINGS"
 summary: "BORDER CROSSINGS | Special Thematic Issue on PHOTOGRAPHY | SEP 15"
 ---
 
@@ -42,31 +43,31 @@ in the shifting of technologies and tenses - from darkroom to digital,
 taking a captured past into a technological future.
 
 ARTICLES
-Stephen Horne explores Lynne Cohenâ€™s photographed interiors, discovering in
+Stephen Horne explores Lynne Cohen’s photographed interiors, discovering in
 them the intriguing tension of â€œstage sets waiting for an action to begin.â€ 
 
 Daniel Baird assays the continuum of self, as embodied, and expanded, by
 Suzy Lake in her experiments in self-portraiture.
 
-And Lee Henderson follows the flux in Evan Leeâ€™s photoconceptual work and
-in his approach to new technologies: â€œSeen through his artwork, the changes
+And Lee Henderson follows the flux in Evan Lee’s photoconceptual work and
+in his approach to new technologies: “Seen through his artwork, the changes
 to photography are all liberations.â€ 
 
 ALSO IN THIS ISSUE:
 PHOTO PORTFOLIO by Jessica Eaton in her â€œCubes for Albers and Lewittâ€  series.
 
 BORDERVIEWS on the mysteriously prolific and previously unseen work of
-Vivian Maier; Sarah Anne Johnsonâ€™s playful, timely and provocative â€œArctic
+Vivian Maier; Sarah Anne Johnson’s playful, timely and provocative “Arctic
 Wonderlandâ€ ; the â€œedgy brightnessâ€  of Steve Ackermanâ€™s black-and-white
-photography; and the merging of stellar and cellular in Andrew Wrightâ€™s
+photography; and the merging of stellar and cellular in Andrew Wright’s
 â€œCoronaeâ€  series.
 
 And our extensive CROSSOVERS section, with reviews of recent exhibitions of
 Stan Douglas, Rodney Graham and Tacita Dean, Anna von Gwinner and Markus
-SchÃ¤del, Kent Monkman, Davida Nemeroff, Guillermo Trejo, Elspeth Pratt,
-Susan Feindel, The Otolith Group, Thomas Hirschhorn and IÃ±igo
+Schädel, Kent Monkman, Davida Nemeroff, Guillermo Trejo, Elspeth Pratt,
+Susan Feindel, The Otolith Group, Thomas Hirschhorn and Iñigo
 Manglano-Ovalle, the Venice Biennale, Donigan Cumming, â€œThe Durable Idiomâ€ ,
-Allison Schulnik, Jessica Groome, Anri Sala, â€œVoices of Fire: toward a post
+Allison Schulnik, Jessica Groome, Anri Sala, “Voices of Fire: toward a post
 Postmodern theory of Abstractionâ€ , and Gordon Lebredt: Nonworks.
 
 Border Crossings is a quarterly cultural magazine published in Winnipeg.

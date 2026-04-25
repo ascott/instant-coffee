@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 13
 type: ""
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Cedar weaving demonstration with Melvin Williams | MAR 10"
 ---
 

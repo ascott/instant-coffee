@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 1
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Son Namprah - in the light of the bathing ritual | OCT 22"
 ---
 

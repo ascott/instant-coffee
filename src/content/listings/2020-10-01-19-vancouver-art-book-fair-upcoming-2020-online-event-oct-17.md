@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 19
 type: "EVENT"
+venue: "Vancouver Art Book Fair"
 summary: "Vancouver Art Book Fair | upcoming 2020 online event | OCT 17"
 ---
 

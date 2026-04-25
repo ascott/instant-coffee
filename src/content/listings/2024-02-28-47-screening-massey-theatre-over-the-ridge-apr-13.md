@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 47
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Massey Theatre | Over the Ridge | APR 13"
 ---
 

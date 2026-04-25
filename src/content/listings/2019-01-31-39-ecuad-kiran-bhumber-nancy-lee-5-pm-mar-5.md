@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 39
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | Kiran Bhumber + Nancy Lee | 5 PM | MAR 5"
 ---
 

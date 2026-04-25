@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 39
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Frenkel Defects | NOV 27"
 ---
 
@@ -33,7 +34,7 @@ photochemical process, giving birth to a new, textural aesthetic that plays
 out on the surface of the filmstrip.
 
 More than ever before, film is used as an artistic medium to remind us of
-its unique physicality, giving a new sense to Andrei Tarkovskyâ€™s idea of
+its unique physicality, giving a new sense to Andrei Tarkovsky’s idea of
 â€œsculpting in time.â€  For this yearâ€™s edition of Frenkel Defects at
 Cineworks, one of two 70-minute programs of rare and diverse works will be
 screened, nearly all of which originate outside North America, presented in
@@ -42,20 +43,20 @@ their intended 16mm format, including:
 Part 1
 Konrad & Kurfurst - Esther Urlus (07 mins)
 Eric Stewart - WAKE (08 mins)
-DISTRUKTUR - In the Travelerâ€™s Heart (20 mins)
+DISTRUKTUR - In the Traveler’s Heart (20 mins)
 
 Part 2
-AndrÃ©s Denegri - Aula Magna (10 mins)
-DraÅ¾en Zanchi - Split Film 100110 (30 mins)
+Andrés Denegri - Aula Magna (10 mins)
+Dražen Zanchi - Split Film 100110 (30 mins)
 
 Almost all films in the Frenkel Defects series have been produced with the
 help of â€œartist-run film labsâ€  - collectively-run organizations dedicated
-to facilitating artistsâ€™ working in photochemical film -- including
-LaborBerlin (Berlin), Lâ€™Abominable (Paris) and Filmwerkplaats (Rotterdam).
+to facilitating artists’ working in photochemical film -- including
+LaborBerlin (Berlin), L’Abominable (Paris) and Filmwerkplaats (Rotterdam).
 
 While these and other organizations have been active in Europe for almost
 two decades, the trend is largely emergent in North America, with
-Cineworksâ€™ Annex facility (235 Alexander Street basement), established in
+Cineworks’ Annex facility (235 Alexander Street basement), established in
 2008, being an older sibling among company in Boston, Oakland, Denver, New
 York, Montreal to name a few. Process Reversal, having secured abundant
 donations of lab equipment, hopes to continue assisting in the growth of

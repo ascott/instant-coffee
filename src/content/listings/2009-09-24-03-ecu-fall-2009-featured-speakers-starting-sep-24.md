@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: our songs are better"
 emailDate: "Thu, 24 Sep 2009 09:00:25 -0700"
 number: 3
 type: ""
+venue: "ECU"
 summary: "ECU | Fall 2009 Featured Speakers | starting | SEP 24"
 ---
 

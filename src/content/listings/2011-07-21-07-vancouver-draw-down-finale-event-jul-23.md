@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 7
 type: ""
+venue: "Vancouver Draw Down Finale Event"
 summary: "Vancouver Draw Down Finale Event | | JUL 23"
 ---
 
@@ -29,7 +30,7 @@ FREE and open to everyone!
 
 Drop by and help create collaborative creature drawings in the lobby at Sunset. 
 Each creature begins with a random brush mark, and depends on at least three 
-different peopleâ€™s contributions.
+different people’s contributions.
 
 For further information about the Vancouver Draw Down Finale event at Sunset 
 contact:

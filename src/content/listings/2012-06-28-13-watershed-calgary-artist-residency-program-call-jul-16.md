@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 13
 type: ""
+venue: "WATERSHED+, Calgary"
 summary: "WATERSHED+, Calgary | Artist Residency Program | Call | JUL 16"
 ---
 
@@ -25,7 +26,7 @@ The WATERSHED+ Artist Residency intends to support, promote and
 facilitate innovative and collaborative
 contemporary art practice.
 
-The selected artists will broadly explore issues relevant to Calgaryâ€™s 
+The selected artists will broadly explore issues relevant to Calgary’s 
 watershed, water management and the Ralph
 Klein Park (RKP) environment. The residency will provide artists 
 wishing to research, experiment and produce new
@@ -39,12 +40,12 @@ enrich our understanding, appreciation and
 emotional connection to our environment.
 
 The WATERSHED+ Artist Residency Program at RKP is a partnership 
-between The City of Calgaryâ€™s Public Art
+between The City of Calgary’s Public Art
 Program, Utilities & Environmental Protection Department, and Parks 
 Environmental & Education Initiatives.
 
 The Residency program will offer two streams of continuing residency 
-opportunities â€“ a short term residency of
+opportunities – a short term residency of
 up to four weeks in length and a long term residency for a minimum of 
 three months in length (which does not
 have to be consecutive). The first residency will begin October, 2012. 

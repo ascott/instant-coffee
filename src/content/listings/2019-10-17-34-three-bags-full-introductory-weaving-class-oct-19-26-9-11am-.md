@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 34
 type: "EDUCATION"
+venue: "Three Bags Full"
 summary: "Three Bags Full | Introductory Weaving Class | OCT 19, 26 | 9-11AM | OCT 19"
 ---
 

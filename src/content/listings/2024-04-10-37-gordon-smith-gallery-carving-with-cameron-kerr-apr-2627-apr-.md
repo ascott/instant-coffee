@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 37
 type: "EVENT"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | Carving with Cameron Kerr | APR 26&27 | APR 26"
 ---
 

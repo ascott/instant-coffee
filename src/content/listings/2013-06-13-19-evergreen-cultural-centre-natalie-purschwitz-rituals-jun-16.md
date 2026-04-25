@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 19
 type: ""
+venue: "Evergreen Cultural Centre"
 summary: "Evergreen Cultural Centre | Natalie Purschwitz: Rituals | JUN 16"
 ---
 

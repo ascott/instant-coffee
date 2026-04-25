@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 20
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Am Stram Gram | SEP 14"
 ---
 

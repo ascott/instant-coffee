@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 12
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | First Nations / Second Nature | FEB 6"
 ---
 
@@ -45,7 +46,7 @@ A newly commissioned work by Vancouver artist Rebecca Belmore will be in
 the Hastings Street window of the gallery.
 
 The show also includes a new work from Jimmie Durham, an important figure
-in contemporary indigenous art, a work from Cheryl LÃ¢ Hirondelle in
+in contemporary indigenous art, a work from Cheryl Lâ Hirondelle in
 collaboration with Andrew Lee, and a photo-text installation by New
 York-based artist Andrea Geyer and a large-scale installation by Matthew
 Buckingham, also of New York.

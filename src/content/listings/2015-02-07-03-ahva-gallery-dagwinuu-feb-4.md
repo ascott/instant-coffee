@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 3
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | dagwinuu | FEB 4"
 ---
 
@@ -12,7 +13,7 @@ AHVA Gallery
 
 dagwinuu - an exhibition showcasing recent work by first year MFA Visual
 Art candidates.
-February 5 â€“ February 28, 2015
+February 5 – February 28, 2015
 Opening Reception: Wednesday, February 4th from 5 to 7 pm
 
 Please join the UBC Department of Art History, Visual Art & Theory (AHVA)

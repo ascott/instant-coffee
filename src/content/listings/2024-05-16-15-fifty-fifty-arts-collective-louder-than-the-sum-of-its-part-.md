@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "fifty fifty arts collective"
 summary: "fifty fifty arts collective | louder than the sum of its part | MAY 25"
 ---
 

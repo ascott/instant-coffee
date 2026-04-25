@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 12
 type: "EVENT"
+venue: "PLOT @ Access Gallery"
 summary: "PLOT @ Access Gallery | Far Afield: Jean Routhier | JUN 21-23 | JUN 21"
 ---
 

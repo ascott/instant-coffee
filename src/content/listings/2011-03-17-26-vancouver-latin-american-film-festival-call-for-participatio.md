@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 26
 type: ""
+venue: "Vancouver Latin American Film Festival"
 summary: "Vancouver Latin American Film Festival | Call for participation | APR 25"
 ---
 
@@ -18,7 +19,7 @@ The jury will choose one winning fiction film out of ten films which will
 be screened during the ninth edition of the Latin American Film Festival,
 September 1-11, 2011.
 
-The students who are selected will be recognized in VLAFFâ€™s annual
+The students who are selected will be recognized in VLAFF’s annual
 catalogue and will received a Full Festival Pass, including an invitation
 to the Opening and Closing Gala Events. The members of the jury must make a
 commitment to see each of the ten fiction films and be available to meet

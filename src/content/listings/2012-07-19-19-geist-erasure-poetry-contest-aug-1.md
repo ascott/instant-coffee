@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 19
 type: ""
+venue: "Geist"
 summary: "Geist | Erasure Poetry Contest | AUG 1"
 ---
 
@@ -16,7 +17,7 @@ There's $1000 in prizes and the Geist Erasure Trophy to be won, as well as
 publication in Geist and at geist.com. Oh yes, and literary fame, too.
 
 The Erasure Poetry Contest asks you to create your own poetic masterpiece
-from an excerpt of How Should a Person Be? by Sheila Hetiï¿½erasing letters,
+from an excerpt of How Should a Person Be? by Sheila Heti�erasing letters,
 words and sentences until your own genius emerges.
 
 Visit geist.com/erasure for more details and to read the excerpt.

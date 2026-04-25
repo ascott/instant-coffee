@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 14
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Selectors' Records / Publication Studio | Nascar: Stories by Steffanie Ling | AUG 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 38
 type: "CALL"
+venue: "Second Annual Small File Media Festival"
 summary: "Second Annual Small File Media Festival | Call for work | JUN 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 10
 type: ""
+venue: "OR GALLERY"
 summary: "OR GALLERY | Talk: Kika Thorne and Dr. Laura Janara | DEC 11"
 ---
 

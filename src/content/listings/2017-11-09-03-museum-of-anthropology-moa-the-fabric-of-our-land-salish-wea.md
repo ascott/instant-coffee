@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 3
 type: "EVENT"
+venue: "Museum of Anthropology (MOA)"
 summary: "Museum of Anthropology (MOA) | The Fabric of Our Land: Salish Weaving | NOV 10"
 ---
 

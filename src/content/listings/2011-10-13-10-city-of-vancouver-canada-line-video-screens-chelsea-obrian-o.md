@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 10
 type: ""
+venue: "CITY OF VANCOUVER"
 summary: "CITY OF VANCOUVER | Canada Line video screens | Chelsea O'Brian | OCT 17"
 ---
 

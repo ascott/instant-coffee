@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 1
 type: "FUNDRAISER"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | FIRECRACKER POW!3"
 ---
 

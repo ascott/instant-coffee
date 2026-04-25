@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 1
 type: "EVENT"
+venue: "Or Gallery"
 summary: "Or Gallery | A Holiday Party & Edition Launch | DEC 11"
 ---
 
@@ -23,7 +24,7 @@ PLUS White Columns Print Portfolio (2007)
 letter-press prints by Peter Doig, Dave Muller, Adam Pendleton, and Kay Rosen.
 
 PLUS Or Gallery editions by Stan Douglas, Ron Terada, Nicole+Ryan,
-Hadley+Maxwellâ€¦
+Hadley+Maxwell…
 
 PLUS Fillip & New Document editions
 

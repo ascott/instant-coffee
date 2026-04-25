@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 49
 type: "TALK"
+venue: "The ACT Art Gallery"
 summary: "The ACT Art Gallery | Coexistence - Dr. Prabhjot Parmar | 2PM | FEB 10"
 ---
 

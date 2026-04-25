@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 24
 type: ""
+venue: "Hamilton Artists Inc."
 summary: "Hamilton Artists Inc. | Call for Submissions | NOV 1"
 ---
 

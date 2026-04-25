@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 43
 type: "CALL"
+venue: "Canton-sardine"
 summary: "Canton-sardine | The Curator’s Sauna | JUL 29"
 ---
 

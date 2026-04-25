@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 20
 type: ""
+venue: "Koffler Centre"
 summary: "Koffler Centre | CALL | Bookmark Project | deadline | OCT 1"
 ---
 
@@ -40,7 +41,7 @@ presence echoes their memory inside the book. Upon returning, the reader
 once again replaces the bookmark in order to immerse back into the text.
 The act of reading therefore proceeds in the continual interchange between
 the reader and the bookmark, initiated and sustained by the process of
-Ã¢ï¿½ï¿½inserting'.
+â��inserting'.
 
 Both unique bookmarks and multiples created by fine art students and
 practicing artists will be introduced into the 8,000 books on display

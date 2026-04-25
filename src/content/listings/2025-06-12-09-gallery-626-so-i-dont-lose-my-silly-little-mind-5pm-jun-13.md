@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 9
 type: "OPENING"
+venue: "Gallery 626"
 summary: "Gallery 626 | so I don't lose my silly little mind... | 5PM | JUN 13"
 ---
 

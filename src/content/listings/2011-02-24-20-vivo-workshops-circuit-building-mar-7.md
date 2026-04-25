@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 20
 type: ""
+venue: "VIVO WORKSHOPS"
 summary: "VIVO WORKSHOPS | CIRCUIT BUILDING | MAR 7"
 ---
 

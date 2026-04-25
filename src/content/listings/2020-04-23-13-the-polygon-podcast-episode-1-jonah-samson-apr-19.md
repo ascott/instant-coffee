@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 13
 type: "TALK"
+venue: "The Polygon Podcast"
 summary: "The Polygon Podcast | Episode 1: Jonah Samson | APR 19"
 ---
 

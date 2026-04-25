@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 13
 type: "OPENING"
+venue: "The Ferry Building"
 summary: "The Ferry Building | West Vancouver Grad Show Press Release | JUN 5"
 ---
 

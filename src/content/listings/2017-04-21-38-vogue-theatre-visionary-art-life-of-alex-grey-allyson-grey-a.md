@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 38
 type: "EVENT"
+venue: "Vogue Theatre"
 summary: "Vogue Theatre | Visionary Art & Life of Alex Grey & Allyson Grey | APR 28"
 ---
 

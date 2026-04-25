@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 16
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | SUPER 8: Shoot-to-Screen | JUN 22-23 | JUN 22"
 ---
 

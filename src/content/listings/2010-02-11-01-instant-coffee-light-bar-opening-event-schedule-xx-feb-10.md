@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we'll keep the light on for you"
 emailDate: "Thu, 11 Feb 2010 09:00:31 -0800"
 number: 1
 type: ""
+venue: "INSTANT COFFEE"
 summary: "INSTANT COFFEE | LIGHT BAR | opening & event schedule XX | FEB 10"
 ---
 

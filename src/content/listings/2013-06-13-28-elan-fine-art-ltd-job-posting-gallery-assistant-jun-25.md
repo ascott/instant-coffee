@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 28
 type: ""
+venue: "Elan Fine Art Ltd"
 summary: "Elan Fine Art Ltd | Job Posting: Gallery Assistant | JUN 25"
 ---
 
 Having had galleries and working in the art business for over 35 years,
 Paul Kyle now works by appointment from his private showroom in Vancouver
-B.C. Canada. Elanâ€™s focus is on contemporary and modern Canadian and
+B.C. Canada. Elan’s focus is on contemporary and modern Canadian and
 international secondary market works as well as representing the estate of
 his father, Joseph Kyle. Elan is designed to give the collector an
 opportunity to view works in a focused concentrated manner, in a

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: toofur"
 emailDate: "Fri, 25 May 2012 16:00:46 -0700"
 number: 8
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | RYAN PETER | MAY 25"
 ---
 
@@ -23,7 +24,7 @@ Through the use of seemingly ordinary chemical substances such as industrial pla
 
 --
 
-Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA (2008) from The University of British Columbia. He was a finalist for the 11th Annual RBC Canada Painting Competition, exhibited at the MusÃ©e d'art contemporain de MontrÃ©al and at The Power Plant in Toronto. He has participated in recent group exhibitions at Equinox Gallery, Vancouver and the AHVA Library Gallery at UBC. In addition to his painting practice, Peter also works collaboratively with artist Raymond Boisjoly on projects for exhibitions in Canada and the United States. This is his second solo show with Republic Gallery.
+Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA (2008) from The University of British Columbia. He was a finalist for the 11th Annual RBC Canada Painting Competition, exhibited at the Musée d'art contemporain de Montréal and at The Power Plant in Toronto. He has participated in recent group exhibitions at Equinox Gallery, Vancouver and the AHVA Library Gallery at UBC. In addition to his painting practice, Peter also works collaboratively with artist Raymond Boisjoly on projects for exhibitions in Canada and the United States. This is his second solo show with Republic Gallery.
 
 --
 

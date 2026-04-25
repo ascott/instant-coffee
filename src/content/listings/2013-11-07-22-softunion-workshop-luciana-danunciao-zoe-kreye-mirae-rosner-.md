@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 22
 type: ""
-summary: "Soft/Union WORKSHOP | Luciana D'AnunciaÃ§Ã£o, Zoe Kreye, Mirae Rosner | NOV 16"
+venue: "Soft/Union WORKSHOP"
+summary: "Soft/Union WORKSHOP | Luciana D'Anunciação, Zoe Kreye, Mirae Rosner | NOV 16"
 ---
 
-Movement Workshop with Luciana D'AnunciaÃ§Ã£o,
+Movement Workshop with Luciana D'Anunciação,
 Zoe Kreye and Mirae Rosner
 Saturday, November 16, 2013
 
@@ -16,7 +17,7 @@ Gallery welcomes Soft/Union - a dance and movement workshop that stems
 from the processes that have been integral to the iconic westcoast dancer's 
 choreography and art forms. 
 
-Soft/Union will be led by Luciana Dâ€™Anunciacao, Zoe Kreye and Mirae Rosner. 
+Soft/Union will be led by Luciana D’Anunciacao, Zoe Kreye and Mirae Rosner. 
 Patterns of daily routines create well worn pathways that shape our modes of 
 experience. When we invite our bodies to lead we free ourselves to follow 
 unexpected directions and discover our vivid imaginations. Soft/Union is body-
@@ -24,12 +25,12 @@ based. We will learn from our senses and perception, build awareness of
 individual and group process and create space for embodied experience. 
 Accessible to all bodies and experience levels.
 
-Mirae Rosner (Canada), Zoe Kreye (Canada) & Luciana D'AnunciaÃ§Ã£o (Brazil) 
+Mirae Rosner (Canada), Zoe Kreye (Canada) & Luciana D'Anunciação (Brazil) 
 are members of, and gain deep inspiration from working with Dance Troupe 
 Practice (DTP): a self-organized and non-hierarchical dance collective that is 
 open to those interested in exploring life and creativity through movement.
 
-Based in Vancouver since 2007, Luciana D'AnunciaÃ§Ã£o is a Brazilian artist 
+Based in Vancouver since 2007, Luciana D'Anunciação is a Brazilian artist 
 whose practice draws upon performance, dance, video, and installation. She 
 has performed and exhibited in Canada, Brazil, the United States, Germany, 
 the United Kingdom, and Poland. Currently D'Anunciacao is a graduate 

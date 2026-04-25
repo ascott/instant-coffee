@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 39
 type: "EXHIBITION"
+venue: "Richmond Museum"
 summary: "Richmond Museum | Doors Open Richmond | JUN 7"
 ---
 

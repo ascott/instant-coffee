@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 11
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks and Iris Film Collective | Yawar Mallku (Blood of The Condor) | JUN 21"
 ---
 

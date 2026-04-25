@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 44
 type: ""
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | Associate Curator | APR 2"
 ---
 

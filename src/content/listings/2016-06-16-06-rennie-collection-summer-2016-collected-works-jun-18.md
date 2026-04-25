@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 6
 type: "EVENT"
+venue: "Rennie Collection"
 summary: "Rennie Collection | Summer 2016: Collected Works | JUN 18"
 ---
 

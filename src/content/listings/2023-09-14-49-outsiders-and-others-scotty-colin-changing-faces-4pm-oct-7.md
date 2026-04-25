@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 49
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Scotty Colin: Changing Faces | 4PM | OCT 7"
 ---
 

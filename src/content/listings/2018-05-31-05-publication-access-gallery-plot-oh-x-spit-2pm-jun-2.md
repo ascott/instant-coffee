@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 5
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Access Gallery | PLOT: OH x SPIT | 2PM | JUN 2"
 ---
 

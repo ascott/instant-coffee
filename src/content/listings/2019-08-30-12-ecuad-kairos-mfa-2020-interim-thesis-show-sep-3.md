@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "ECUAD"
 summary: "ECUAD | KAIROS | MFA 2020 Interim Thesis Show | SEP 3"
 ---
 

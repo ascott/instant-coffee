@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 20
 type: ""
+venue: "UBC"
 summary: "UBC | Audain Art Centre | Marinate Me | APR 16"
 ---
 
@@ -36,6 +37,6 @@ Follow us on Twitter: @MarinateMeUBC
 
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003

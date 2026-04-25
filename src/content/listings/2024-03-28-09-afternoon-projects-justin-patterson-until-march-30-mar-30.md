@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Justin Patterson | UNTIL MARCH 30 | MAR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Bothkinds Project Space"
 summary: "Bothkinds Project Space | Near Dwellers as Indwellers | DEC 5"
 ---
 

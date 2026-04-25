@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 10
 type: ""
+venue: "Railway Club"
 summary: "Railway Club | Liar Magazine Launch Party | APR 22"
 ---
 

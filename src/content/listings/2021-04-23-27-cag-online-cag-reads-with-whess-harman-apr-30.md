@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 27
 type: "TALK"
+venue: "CAG [ONLINE]"
 summary: "CAG [ONLINE] | CAG Reads with Whess Harman | APR 30"
 ---
 

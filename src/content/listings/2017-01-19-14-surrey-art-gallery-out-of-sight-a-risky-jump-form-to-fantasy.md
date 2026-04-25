@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 14
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Out of Sight, A Risky Jump, Form to Fantasy | JAN 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 33
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | VIVO Media Arts Centre | Curiosity Collider Collisions | 7PM| NOV 8-10TH | NOV 8"
 ---
 

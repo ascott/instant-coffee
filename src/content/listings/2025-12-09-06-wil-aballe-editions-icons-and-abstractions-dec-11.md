@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 6
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | Editions, Icons and Abstractions | DEC 11"
 ---
 

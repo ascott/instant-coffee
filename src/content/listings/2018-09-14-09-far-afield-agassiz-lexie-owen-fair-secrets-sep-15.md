@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 9
 type: "EVENT"
+venue: "Far Afield (AGASSIZ)"
 summary: "Far Afield (AGASSIZ) | Lexie Owen: Fair Secrets | SEP 15"
 ---
 

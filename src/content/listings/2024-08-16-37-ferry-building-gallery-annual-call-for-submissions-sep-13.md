@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 37
 type: "CALL"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Annual Call for submissions | SEP 13"
 ---
 

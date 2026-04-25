@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 14
 type: ""
+venue: "Balcone"
 summary: "Balcone | Artist Talk by Randy Grskovic | NOV 25"
 ---
 

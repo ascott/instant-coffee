@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 15
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Miriam Aroeste | APR 10"
 ---
 
@@ -39,7 +40,7 @@ For more information visit
 www.backgalleryproject.com
 
 Follow on Twitter | Friend on Facebook | Forward to Friend 
-Copyright Â© 2014 Back Gallery Project, All rights reserved.
+Copyright © 2014 Back Gallery Project, All rights reserved.
 
 Our mailing address is:
 Back Gallery Project

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 3
 type: ""
+venue: "Ten Sixty Seven"
 summary: "Ten Sixty Seven | reading: stephen CAIN & jordan SCOTT | OCT 09"
 ---
 

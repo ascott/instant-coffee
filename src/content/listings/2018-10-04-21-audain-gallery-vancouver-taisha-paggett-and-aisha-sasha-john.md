@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 21
 type: "TALK"
+venue: "Audain Gallery (Vancouver)"
 summary: "Audain Gallery (Vancouver) | taisha paggett and Aisha Sasha John | 7-9PM | OCT 12"
 ---
 

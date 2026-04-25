@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 14
 type: ""
+venue: "CFA"
 summary: "CFA | Jeremy Stanbridge: CHROMAPLAST | JUN 1"
 ---
 

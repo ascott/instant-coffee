@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 28
 type: "EXHIBITION"
+venue: "Libby Leshgold Gallery glass corner"
 summary: "Libby Leshgold Gallery glass corner | flying kiss for receiving cheek | MAR 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Cover Me Extended Play | FEB 1"
 ---
 

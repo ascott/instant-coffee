@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 32
 type: "OPENING"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Kelly Lycan: The Fireplace | 7PM | JUN 20"
 ---
 

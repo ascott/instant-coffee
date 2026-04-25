@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 41
 type: "CALL"
+venue: "City of Surrey"
 summary: "City of Surrey | Vinyl Window Wrap | MAR 30"
 ---
 

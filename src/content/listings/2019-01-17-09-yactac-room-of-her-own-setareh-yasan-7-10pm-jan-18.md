@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 9
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Room of Her Own - Setareh Yasan | 7-10PM | JAN 18"
 ---
 

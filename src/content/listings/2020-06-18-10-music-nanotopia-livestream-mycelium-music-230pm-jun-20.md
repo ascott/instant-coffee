@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 10
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Nanotopia Livestream | Mycelium Music | 230PM | JUN 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 16
 type: "TALK"
+venue: "[ONLINE]"
 summary: "[ONLINE] | Spark Artist Talk with Keysha Rivera | FEB 17"
 ---
 

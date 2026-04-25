@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 36
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Documentary Workflow for Women* | SEP 17"
 ---
 

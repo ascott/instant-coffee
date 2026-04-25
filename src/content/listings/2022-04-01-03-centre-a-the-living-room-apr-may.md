@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | The Living Room | APR – MAY"
 ---
 

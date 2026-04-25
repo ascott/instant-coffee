@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 16
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Visceral Bodies | FEB 6"
 ---
 

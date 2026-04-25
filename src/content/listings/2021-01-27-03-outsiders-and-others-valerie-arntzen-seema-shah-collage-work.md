@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Valerie Arntzen & Seema Shah: Collage Works | JAN 4"
 ---
 

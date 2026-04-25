@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 13
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Slow Looking | 2PM | FEB 15"
 ---
 

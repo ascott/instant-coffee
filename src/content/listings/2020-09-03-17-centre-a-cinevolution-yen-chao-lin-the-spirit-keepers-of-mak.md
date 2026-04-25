@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 17
 type: "TALK"
+venue: "Centre A & Cinevolution"
 summary: "Centre A & Cinevolution | Yen-Chao Lin | The Spirit Keepers of Makuta'ay | SEP 25"
 ---
 

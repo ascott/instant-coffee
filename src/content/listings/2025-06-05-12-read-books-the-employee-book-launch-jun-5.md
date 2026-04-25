@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 12
 type: "EVENT"
+venue: "READ Books"
 summary: "READ Books | The Employee Book launch | JUN 5"
 ---
 

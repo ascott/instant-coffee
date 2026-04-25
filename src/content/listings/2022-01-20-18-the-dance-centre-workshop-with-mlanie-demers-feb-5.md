@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 18
 type: "EDUCATION"
+venue: "The Dance Centre"
 summary: "The Dance Centre | WORKSHOP with MÉLANIE DEMERS | FEB 5"
 ---
 

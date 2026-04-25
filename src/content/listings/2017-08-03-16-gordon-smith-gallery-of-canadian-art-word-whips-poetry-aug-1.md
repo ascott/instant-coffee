@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 16
 type: "EVENT"
+venue: "Gordon Smith Gallery of Canadian Art"
 summary: "Gordon Smith Gallery of Canadian Art | Word Whips Poetry | AUG 15"
 ---
 

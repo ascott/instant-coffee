@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 31
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks and Eastside Culture Crawl | A Night with Torch and Spear | Geoffrey Farmer | NOV 25"
 ---
 

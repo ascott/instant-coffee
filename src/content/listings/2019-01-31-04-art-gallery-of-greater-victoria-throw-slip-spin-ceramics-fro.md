@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Throw, Slip, Spin: Ceramics from the AGGV | JAN 25"
 ---
 

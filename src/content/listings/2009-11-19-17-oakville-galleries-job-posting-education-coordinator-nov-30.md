@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 17
 type: ""
+venue: "Oakville Galleries"
 summary: "Oakville Galleries | JOB POSTING | EDUCATION COORDINATOR | NOV 30"
 ---
 

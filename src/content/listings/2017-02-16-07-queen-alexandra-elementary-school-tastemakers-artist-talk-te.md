@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 7
 type: "TALK"
+venue: "Queen Alexandra Elementary School"
 summary: "Queen Alexandra Elementary School | Tastemakers Artist Talk: Terrance Houle | FEB 17"
 ---
 

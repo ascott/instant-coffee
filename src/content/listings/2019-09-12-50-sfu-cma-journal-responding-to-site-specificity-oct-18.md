@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 50
 type: "CALL"
+venue: "SFU CMA Journal"
 summary: "SFU CMA Journal | Responding to Site Specificity | OCT 18"
 ---
 

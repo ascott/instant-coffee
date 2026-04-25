@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 34
 type: "EVENT"
+venue: "Or Gallery - Cathedral Square Park"
 summary: "Or Gallery - Cathedral Square Park | AFTERLIVES: (currency) | JAN 25-31 | JAN 25"
 ---
 

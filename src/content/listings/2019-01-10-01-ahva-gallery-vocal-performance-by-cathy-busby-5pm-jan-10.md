@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 1
 type: "PERFORMANCE"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Vocal Performance by Cathy Busby | 5PM | JAN 10"
 ---
 

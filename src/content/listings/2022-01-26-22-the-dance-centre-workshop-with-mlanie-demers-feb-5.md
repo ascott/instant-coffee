@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 22
 type: "EDUCATION"
+venue: "The Dance Centre"
 summary: "The Dance Centre | WORKSHOP with MÉLANIE DEMERS | FEB 5"
 ---
 

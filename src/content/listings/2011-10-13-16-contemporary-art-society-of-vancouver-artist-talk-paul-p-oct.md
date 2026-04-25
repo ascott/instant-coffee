@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 16
 type: ""
+venue: "Contemporary Art Society of Vancouver"
 summary: "Contemporary Art Society of Vancouver | Artist Talk: Paul P. | OCT 21"
 ---
 

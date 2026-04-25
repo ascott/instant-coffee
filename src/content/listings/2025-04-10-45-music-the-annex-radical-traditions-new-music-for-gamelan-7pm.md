@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 45
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Annex | Radical Traditions: New Music for Gamelan | 7PM | MAY 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 17
 type: "TALK"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | Zool Suleman | 2PM | AUG 9"
 ---
 

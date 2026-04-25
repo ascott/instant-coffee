@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 25
 type: "EXHIBITION"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Future Memoria | JUN 22"
 ---
 

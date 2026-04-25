@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 15
 type: "EDUCATION"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | Graffiti Workshop with KC Hall | JUL 20"
 ---
 

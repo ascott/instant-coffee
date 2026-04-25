@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 2
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Esther Shalev-Gerz | JAN 10"
 ---
 
@@ -34,7 +35,7 @@ with additional work by Shalev-Gerz at the Belkin Art Gallery.
 
 For over twenty years, Shalev-Gerz has created installation and photographic 
 work that addresses questions of collective and personal memory, of 
-portraitureâ€™s possibilities, the politics of representation, history, place and 
+portraiture’s possibilities, the politics of representation, history, place and 
 citizenship. The pieces in this exhibition offer new ways to approach our 
 relationship to these questions.
 
@@ -43,14 +44,14 @@ resident of Paris since 1984. She is a Professor at Valand School of Fine
 Arts, University of Gothenburg, Sweden where she is currently leading an 
 international research project on Trust and the Unfolding Dialogue funded by 
 the Swedish Research Council. Current and recent exhibitions include: a 
-retrospective at the MusÃ©e Cantonal des Beaux-Arts de Lausanne with a 
+retrospective at the Musée Cantonal des Beaux-Arts de Lausanne with a 
 catalogue published by JRP|Ringier (22 September 2012-6 January 2013); an 
 installation ofMenschenDinge as part of the group exhibition Newtopia at 
 Kazerne Dossin, Mechelen, Belgium (1 December 2012-31 March 
 2013);Describing Labor at Wolfsonian-FIU, Miami (5 December 2012-7 April 
 2013); Kamloops Art Gallery, Kamloops (2012); Jeu de Paume, Paris (2010); 
 Vilnius Art Academy Gallery, Vilnius (2009); Maritime Museum, Greenwich, 
-(2007); Stiftung GedenkstÃ¤tten Buchenwald und Mittelbau-Dora, Weimar 
+(2007); Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora, Weimar 
 (2006); Sprengel Museum, Hannover (2002); Historiska Museet, Stockholm 
 (2002).
 

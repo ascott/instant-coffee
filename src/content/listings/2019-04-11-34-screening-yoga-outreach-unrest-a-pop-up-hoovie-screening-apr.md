@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 34
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Yoga Outreach | Unrest - A pop-up Hoovie screening | APR 27"
 ---
 

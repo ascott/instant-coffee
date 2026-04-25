@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 4
 type: ""
+venue: "Art Waste Festival"
 summary: "Art Waste Festival | Preview Show at Red Gate Gallery | FEB 13"
 ---
 
@@ -29,7 +30,7 @@ accepted until April 30, 2014, and participating galleries and artists will
 announced soon after.
 
 â€œThe theme of Juneâ€™s submission group show will be â€˜public/privateâ€™â€ , said 
-organizers Katayoon Yousefbigloo and Sara Wylie. â€œWe want to address this 
+organizers Katayoon Yousefbigloo and Sara Wylie. “We want to address this 
 dichotomy in artistic practice and in the greater context of the collapsing 
 divide between these two realms in modern society. The theme is simply a 
 suggestion for the submissions and may serve as a catalyst for artists to 

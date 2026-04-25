@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 28
 type: "EVENT"
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | MOV Happy Hour Choir Series | APR 25"
 ---
 

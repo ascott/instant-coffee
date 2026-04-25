@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 43
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Special Effects for Video for Teens | MAR 18"
 ---
 

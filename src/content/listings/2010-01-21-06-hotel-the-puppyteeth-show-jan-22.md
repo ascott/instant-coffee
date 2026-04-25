@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 6
 type: ""
+venue: "HOTEL"
 summary: "HOTEL | The Puppyteeth Show | JAN 22"
 ---
 

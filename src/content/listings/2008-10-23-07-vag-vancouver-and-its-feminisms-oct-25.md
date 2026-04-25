@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 7
 type: ""
+venue: "VAG"
 summary: "VAG | Vancouver and its Feminisms | OCT 25"
 ---
 
@@ -45,11 +46,11 @@ that explores how feminist art enables the public expression of feelings.
 The presentation will emphasize the importance of collectivity and utopia
 in feminist art both past and present.
 
-Ann Cvetkovich is Professor of English and WomenÃ¢ï¿½ï¿½s and Gender Studies at
+Ann Cvetkovich is Professor of English and Womenâ��s and Gender Studies at
 the University of Texas at Austin. She is the author of Mixed Feelings:
 Feminism, Mass Culture, and Victorian Sensationalism (Rutgers, 1992) and An
 Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures (Duke,
-2003). She edited, with Ann Pellegrini, Ã¢ï¿½ï¿½Public Sentiments,Ã¢ï¿½ï¿½ a special
+2003). She edited, with Ann Pellegrini, â��Public Sentiments,â�� a special
 issue of The Scholar and Feminist Online (www.barnard.edu/sfonline
 <http://www.barnard.edu/sfonline> ). She is also editor, with Annamarie
 Jagose, of GLQ: A Journal of Lesbian and Gay Studies. She is currently

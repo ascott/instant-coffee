@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 18
 type: "EVENT"
+venue: "Gordon Smith Gallery of Canadian Art"
 summary: "Gordon Smith Gallery of Canadian Art | Word Whips Poetry | AUG 15"
 ---
 

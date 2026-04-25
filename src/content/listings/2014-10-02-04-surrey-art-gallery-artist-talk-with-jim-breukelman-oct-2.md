@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 4
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artist Talk with Jim Breukelman | OCT 2"
 ---
 

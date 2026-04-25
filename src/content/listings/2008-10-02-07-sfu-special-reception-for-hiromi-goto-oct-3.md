@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 7
 type: ""
+venue: "SFU"
 summary: "SFU | Special Reception for Hiromi Goto | OCT 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 1
 type: ""
+venue: "Queer Arts Festival"
 summary: "Queer Arts Festival | Job Call: Production Manager and Visual Arts..."
 ---
 

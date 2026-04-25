@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 21
 type: ""
+venue: "The Powell Street Festival Society"
 summary: "The Powell Street Festival Society | Spatial Poetics XIII: WeMix | JUL 3"
 ---
 
@@ -25,12 +26,12 @@ Spatial Poetics, an evening of experimental performance pieces, returns July
 create new performance-based work together and encouraged to work 
 beyond their usual disciplines.
 
-This thirteenth edition of Spatial Poetics is curated by YACTAC â€“ the Young 
-Asian Collective Twins Artist Collective â€“ who are two sets of twin sisters 
+This thirteenth edition of Spatial Poetics is curated by YACTAC – the Young 
+Asian Collective Twins Artist Collective – who are two sets of twin sisters 
 (Janice & Justine Cheung and Peggy & Karen Ngan). As the title suggests, 
 "WeMix" features an eclectic mix of emerging Asian Canadian artists working 
 in a variety of different forms. As working artists themselves, YACTAC‟s 
-affinity runs deep with interdisciplinary and collaborative practice. â€œIt is like a 
+affinity runs deep with interdisciplinary and collaborative practice. “It is like a 
 milkshake,â€  say YACTAC. â€œWe mix butoh, shakuhachi flute, conceptual art, 
 poetry, music and design.â€ 
 
@@ -45,7 +46,7 @@ cellist/composer Nicholas Epperson will pay homage to Japanese Canadians
 through poems, music and dance.
 
 Spatial Poetics XIII: WeMix is a presentation for the upcoming 38th Annual 
-Powell Street Festival taking place August 1 â€“ 3, 2014 at Oppenheimer Park 
+Powell Street Festival taking place August 1 – 3, 2014 at Oppenheimer Park 
 and other venues.
 
 -30-

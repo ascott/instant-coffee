@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 5
 type: "OPENING"
+venue: "GRIFFIN ART PROJECTS"
 summary: "GRIFFIN ART PROJECTS | Flower Petal Tongues | SEP 14"
 ---
 

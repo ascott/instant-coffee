@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 38
 type: ""
+venue: "JOB"
 summary: "JOB | Access Gallery | STUDENT CO-OP POSITION: Curatorial Assistant | APR 29"
 ---
 

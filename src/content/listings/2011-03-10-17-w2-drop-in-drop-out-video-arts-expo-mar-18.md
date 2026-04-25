@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 17
 type: ""
+venue: "W2"
 summary: "W2 | Drop In / Drop Out: Video Arts Expo | MAR 18"
 ---
 
@@ -38,13 +39,13 @@ production in Vancouver.
 Participating Artists:
 
 Liz Van Allen Cairns & Jessica Parsons, Mairin Cooley, Jordan & David
-Doody, Athena Papadopoulos, Greg Ryan, Luciana D'AnunciaÃ§Ã£o, Theodore
+Doody, Athena Papadopoulos, Greg Ryan, Luciana D'Anunciação, Theodore
 Bernard, Shawna Mclellan &Sydney Koke & Trevor Rutley , Peter Hadfield,
 Simon Redcrop, Patrick Cruz, Sam Buss, Vincent Van Haaf, Stephen & David
 James, Charlie Satterlee & Chris Boni, Barry Doupe, Emilio Rojas, Daniel
 Rincon, Zahid Jiwa, Devin Mackenzie, Robert Fougere, Paul Paper & Jennilee
 Marigomen, Sammy Chien, Krista Lomax, Sebnem Ozpeta, Ian MacTilstra, Barry
-DoupÃ©, Trifecta (Chase Porter, Sydney Gregoire, Parker McMullin with Drew
+Doupé, Trifecta (Chase Porter, Sydney Gregoire, Parker McMullin with Drew
 Willis & Michaela Mckay) Monica Rudd, Owen Ellis, Darren Gawle & Jen Smyth,
 Leslie Kennah, Melissa Paget, Chris Boni & Charlie Saterlie, Yi Xin Tong,
 Gillian Cole, Nathan Whitford, Marie Horstead, Sarah Jane Holtom, Erica
@@ -80,7 +81,7 @@ http://www.truthislightrecords.com/
 Drop Out Video Arts Society
 http://www.dropoutvideo.com
 
-BYOB and Artist RafaÃ«l Rozendaal:
+BYOB and Artist Rafaël Rozendaal:
 
 http://www.byobworldwide.com/
 

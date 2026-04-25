@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 28
 type: ""
+venue: "JOB"
 summary: "JOB | GRIFFIN ART PROJECTS | Gallery Director | JUN 15"
 ---
 

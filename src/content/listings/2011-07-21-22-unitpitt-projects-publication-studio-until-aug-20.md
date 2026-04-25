@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 22
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Publication Studio | until | AUG 20"
 ---
 
@@ -17,7 +18,7 @@ printing and binding, browse our titles or just to talk about books.
 Books make friends! Spend your Saturday afternoons with Publication Studio, or 
 visit us during the week for freshly made books!
 
-July 23 â€“ residency opening and Rebound Party from 12 to 5pm
+July 23 – residency opening and Rebound Party from 12 to 5pm
 
 *Rebound Party: Bring your favorite old paperback with disintegrating covers and 
 spine, and Publication Studio will re-bind your book in your own homemade 
@@ -30,7 +31,7 @@ Imagination and a new book by leannej (the first in a series of Rereading The
 Riot Act books, co-published by Publication Studio and UNIT/PITT) from 2 to 4 
 pm
 
-August 6 â€“ Rebound Party from 12 to 5pm
+August 6 – Rebound Party from 12 to 5pm
 
 August 13 â€“ book launch: â€œI Look Up, Volume 2â€  by Mina Totino from 2 to 4 pm
 
@@ -42,7 +43,7 @@ additional events during the residency.
 
 Publication Studio is an experiment in sustainable publication that prints and 
 binds books on demand, creating original work with artists and writers. 
-Publication Studio is a laboratory for publicationâ€”not just the production of 
+Publication Studio is a laboratory for publication—not just the production of 
 books, but the production of a public. This public, which is more than a market, 
 is created through deliberate acts, the circulation of texts, discussions, and 
 gatherings in physical space, and the maintenance of a digital commons. Please 
@@ -59,7 +60,7 @@ is presented as a conceptual artist book. Totino has long been drawn to clouds
 as subject matter for their whimsical, sublime, and mundane character and for 
 their rich associations from cloud watching as an idle pursuit to transcendent 
 depictions by Kaspar David Friedrich and John Constable. The photographs are 
-presented chronologically, with each Polaroid documenting the artistâ€™s gaze and 
+presented chronologically, with each Polaroid documenting the artist’s gaze and 
 representing time and place via the sky.
 
 Edited by Kathy Slade and published by the Charles H. Scott Gallery and 

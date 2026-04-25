@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 20
 type: ""
+venue: "FIELD CONTEMPORARY"
 summary: "FIELD CONTEMPORARY | HIGHWAY MAGAZINE NO. 1 | OCT 4"
 ---
 
@@ -14,7 +15,7 @@ ENDS BY ERICA WILK
 MONIKER PRESS
 
 with sound performances curated by
-SOLEDAD MUÃ‘OZ
+SOLEDAD MUÑOZ
 
 presented in conjunction with
 VANCOUVER ART/BOOK FAIR
@@ -22,17 +23,17 @@ ARTISTS' BOOK WEEK
 
 ________________
 Saturday October 4
-6â€“10pm
+6–10pm
 Field Contemporary, 17 West Broadway
 
 ________________
 Field Contemporary is excited to announce our hosting of the Highway
 Magazine vol. 1 launch and the Moniker Press Ends book launch in
 conjunction with the unveiling of our new in-house, art-centric bookstore
-during Vancouver Art/Book Fairâ€™s Artist Book Week.
+during Vancouver Art/Book Fair’s Artist Book Week.
 
 Join us Saturday October 4th to enjoy drinks, live readings, and sound
-performances curated by Genero founder Soledad MuÃ±oz.
+performances curated by Genero founder Soledad Muñoz.
 
 Highway is a publication committed to finding new ways to think about and
 understand culture. Through artist collaborations, fragmentary fiction,

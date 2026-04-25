@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "SFU Goldcorp Centre for the Arts"
 summary: "SFU Goldcorp Centre for the Arts | Suzanne Kite: Take Care, My Boy | MAR 2"
 ---
 

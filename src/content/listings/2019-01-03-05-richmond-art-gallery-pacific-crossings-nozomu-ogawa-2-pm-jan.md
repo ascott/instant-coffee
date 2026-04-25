@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GET WITH IT"
 emailDate: "Thu, 03 Jan 2019 09:00:40 -0800"
 number: 5
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Pacific Crossings | Nozomu Ogawa | 2 pm | JAN 12"
 ---
 

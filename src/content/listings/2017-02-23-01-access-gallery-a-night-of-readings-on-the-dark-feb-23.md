@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 1
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | A Night of Readings on the Dark | FEB 23"
 ---
 

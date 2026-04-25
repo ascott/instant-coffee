@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | José Luis Torres: HANDMADE | MAY 10"
 ---
 

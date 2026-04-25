@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 19
 type: ""
+venue: "Eyelevel Galley"
 summary: "Eyelevel Galley | Call for Submissions | OCT 31"
 ---
 
@@ -44,7 +45,7 @@ Please note that we do not accept email proposals for our main space.
 
 All submissions can be sent to:
 
-Eyelevel Gallery Ã¢â‚¬â€œ Programming Committee
+Eyelevel Gallery â€“ Programming Committee
 c/o: Michael McCormack
 2063 Gottingen Street
 Halifax, Nova Scotia, Canada

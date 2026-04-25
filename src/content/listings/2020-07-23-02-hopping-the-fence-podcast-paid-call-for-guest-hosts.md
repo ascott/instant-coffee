@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 2
 type: "CALL"
+venue: "Hopping the Fence Podcast"
 summary: "Hopping the Fence Podcast | Paid Call for Guest Hosts"
 ---
 

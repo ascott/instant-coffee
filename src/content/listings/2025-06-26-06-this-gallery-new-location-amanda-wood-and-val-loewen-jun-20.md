@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "THIS Gallery [NEW LOCATION]"
 summary: "THIS Gallery [NEW LOCATION] | Amanda Wood and Val Loewen | JUN 20"
 ---
 

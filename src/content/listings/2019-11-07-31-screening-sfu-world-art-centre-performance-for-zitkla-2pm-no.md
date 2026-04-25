@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 31
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU: World Art Centre | PERFORMANCE: For Zitkála-Šá | 2PM | NOV 17"
 ---
 

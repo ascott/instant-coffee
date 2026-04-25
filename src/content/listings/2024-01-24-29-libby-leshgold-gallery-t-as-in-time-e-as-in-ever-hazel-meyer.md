@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 29
 type: "EXHIBITION"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | T, AS IN TIME E, AS IN EVER: Hazel Meyer and Athea | FEB 9"
 ---
 

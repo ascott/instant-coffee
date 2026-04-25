@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 9
 type: "CALL"
+venue: "Factory Media Centre"
 summary: "Factory Media Centre | Call for Submissions: Public Works | DEC 31"
 ---
 

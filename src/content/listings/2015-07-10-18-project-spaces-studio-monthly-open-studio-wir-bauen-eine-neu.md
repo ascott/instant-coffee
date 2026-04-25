@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 18
 type: "OPENING"
+venue: "Project Space’s Studio"
 summary: "Project Space’s Studio | Monthly Open Studio: Wir Bauen Eine Neue Stadt | JUL 17"
 ---
 

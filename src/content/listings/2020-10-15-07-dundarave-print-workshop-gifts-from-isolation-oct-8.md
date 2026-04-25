@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Dundarave Print Workshop"
 summary: "Dundarave Print Workshop | Gifts from Isolation | OCT 8"
 ---
 

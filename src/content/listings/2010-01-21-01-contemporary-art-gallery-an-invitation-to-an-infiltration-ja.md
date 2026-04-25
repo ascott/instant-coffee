@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | An Invitation to An Infiltration | JAN 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 10
 type: "OPENING"
+venue: "Silke Puu"
 summary: "Silke Puu | Only Sweeping | MAR 29"
 ---
 
@@ -60,8 +61,8 @@ Bejeweled in a pursuit of extreme beauty, Brendan commutes between Montreal
 
 Jerry Zaslove
 Jerry Zaslove is a writer and teacher who has taught at Simon Fraser
-University since 1965. His photograph, â€œFred Douglasâ€™s Car, 2005" is an
-homage to Fred Douglasâ€™s art and writing. The image is one fragment from a
+University since 1965. His photograph, “Fred Douglas’s Car, 2005" is an
+homage to Fred Douglas’s art and writing. The image is one fragment from a
 series of essays and photographs titled Understanding Posthumous Memory.
 The installation and publication, â€œKafka in the Penal Colony,â€  presented at
 the SFU Gallery is a recent work.

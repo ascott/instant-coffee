@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Visiteur - Kerry Vaughn Erickson | JUL 29"
 ---
 

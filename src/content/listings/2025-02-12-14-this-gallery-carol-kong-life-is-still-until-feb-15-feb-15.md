@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 14
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Carol Kong - Life Is Still | UNTIL FEB 15 | FEB 15"
 ---
 

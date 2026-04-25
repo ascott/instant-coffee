@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 33
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Sarindar Dhaliwal Sylvia Grace Borda Jeremy Herndl | SEP 21"
 ---
 
@@ -12,10 +13,10 @@ Figuring Ground - Sylvia Grace Borda and Jeremy Herndl
 
 Surrey Art Gallery
 
-September 21 â€“ December 15
+September 21 – December 15
 
 Opening Reception: September 21, 7 30-9 30pm
-Artistâ€™s Talk with Sarindar Dhaliwal - September 21, 6:30pm
+Artist’s Talk with Sarindar Dhaliwal - September 21, 6:30pm
 
 Sarindar Dhaliwal: Narratives from the Beyond
 
@@ -37,7 +38,7 @@ raised and educated), and Canada (where she has lived and worked for close
 to three decades). The complex and often hidden traumas of the partition 
 between India and Pakistan are symbolized in Dhaliwals map of these two 
 countries formed from marigold flowers that appear as though on fire. The joys 
-and traumas of childhood are infused in the artistâ€™s giant handmade fairy tale 
+and traumas of childhood are infused in the artist’s giant handmade fairy tale 
 books and large-scale, meticulously arranged coloured pencil collections. The 
 world of sport returns again and again, as in the delicately embroidered 
 cricket leg pad framed within an ornate marble window. Together, these 
@@ -49,7 +50,7 @@ Figuring Ground: Sylvia Grace Borda and Jeremy Herndl
 
 The vibrant, rapidly-shifting landscapes of Surrey and its region are featured in 
 Surrey Art Gallerys exhibition Figuring Ground: Sylvia Grace Borda and 
-Jeremy Herndl. With an eye to Canadaâ€™s long venerable tradition of landscape 
+Jeremy Herndl. With an eye to Canada’s long venerable tradition of landscape 
 art, these two artists present dynamically seductive pictures that capture 
 often-overlooked spaces of habitation and labour in the contemporary edge 
 city. Borda repositions the modern practice of farming in the Surrey and 
@@ -72,19 +73,19 @@ Launch of Exhibitions
 These exhibitions launch on September 21 with an opening reception from 
 7:30pm to 9:30pm (formal remarks at 7:45pm). At 6:30pm, Toronto-based 
 visual artist Sarindar Dhaliwal gives an illustrated talk. Admission to the 
-opening reception and artistâ€™s talk is free. The exhibitions continue to 
-December 15 â€“ admission is by donation.
+opening reception and artist’s talk is free. The exhibitions continue to 
+December 15 – admission is by donation.
 
 Also on exhibit, until December 8, is Nancy Paterson: Stock Market Skirt. 
-Patersonâ€™s kinetic installation is one of the first telerobotic sculptures totally 
-interfaced with the Internet. The Stock Market Skirtâ€™s hemline rises and falls 
-according to stock prices streamed live from the internet. Patersonâ€™s 
+Paterson’s kinetic installation is one of the first telerobotic sculptures totally 
+interfaced with the Internet. The Stock Market Skirt’s hemline rises and falls 
+according to stock prices streamed live from the internet. Paterson’s 
 installation thoughtfully and playfully brings together economics, technology, 
 feminism, and art.
 
 Events
 
-Artistâ€™s Talk with Sarindar Dhaliwal
+Artist’s Talk with Sarindar Dhaliwal
 Saturday, September 21, 6:30pm
 Dhaliwal gives an illustrated talk on her experience living between three 
 countries, the legacies of partition, and her artistic practice. She addresses 
@@ -95,12 +96,12 @@ after death as represented in the ethereal collection of life knowledge known
 as the akashic library, and how this informs her most recent body of work 
 about the cartographer who was charged with geographically dividing India to 
 create the nation of Pakistan in 1947.
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 Opening Reception
 Saturday, September 21, 7:30-9:30pm | Formal Remarks: 7:45pm
 with live music mix
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 Surrey Art Gallery is located at 13750 - 88 Avenue, Surrey, BC, Canada. 604-
 501-5566 | www.surrey.ca/arts

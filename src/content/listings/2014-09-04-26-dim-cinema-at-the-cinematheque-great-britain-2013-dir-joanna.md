@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 26
 type: ""
+venue: "DIM Cinema at the Cinematheque"
 summary: "DIM Cinema at the Cinematheque | Great Britain , 2013. Dir: Joanna Hogg. 104 min. | SEP 15"
 ---
 
 Great Britain , 2013. Dir: Joanna Hogg. 104 min.
 
 The third feature from writer-director Joanna Hogg
-(Unrelated, Archipelago) â€œreaffirms Hogg's status as a distinctive,
+(Unrelated, Archipelago) “reaffirms Hogg's status as a distinctive,
 singular, and challenging voice of British cinemaâ€  (Mark Kermode, The
 Guardian). Doyenne of punk Viv Albertine and Turner-nominated artist Liam
 Gillick play a married couple who decide to move house, a midlife upheaval
@@ -28,6 +29,6 @@ Tix: $11/9 + $3membership
 dimcinema.ca (http://www.dimcinema.ca) / thecinematheque.ca
 (http://www.thecinematheque.ca)
 
-Contact: MichÃ¨le Smith, programming@dimcinema.ca
+Contact: Michèle Smith, programming@dimcinema.ca
 For updates and more information, visit us on Facebook
 (http://www.facebook.com/dimcinema/)

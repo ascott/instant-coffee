@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 31
 type: ""
+venue: "JOB"
 summary: "JOB | grunt gallery | Recollective Project Coordinator | JUL 25"
 ---
 

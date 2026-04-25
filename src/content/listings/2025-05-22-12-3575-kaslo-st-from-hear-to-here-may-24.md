@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "3575 Kaslo St"
 summary: "3575 Kaslo St | From Hear to Here | MAY 24"
 ---
 

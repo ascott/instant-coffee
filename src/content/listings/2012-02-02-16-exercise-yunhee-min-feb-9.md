@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 16
 type: ""
+venue: "Exercise"
 summary: "Exercise | YUNHEE MIN | FEB 9"
 ---
 
@@ -13,7 +14,7 @@ YUNHEE MIN
 
 Spectra: fixtures, attachments, and ornamentals
 
-February 9â€”March 4
+February 9—March 4
 Opening reception Thursday February 9, 7-10pm
 
 An edition of prints by Min will be produced with the exhibition.

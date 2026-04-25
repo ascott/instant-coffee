@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 6
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Libby Leshgold Gallery + READ Books | Blackie Schwartzkopf's ABC of Being and Time | AUG 25"
 ---
 

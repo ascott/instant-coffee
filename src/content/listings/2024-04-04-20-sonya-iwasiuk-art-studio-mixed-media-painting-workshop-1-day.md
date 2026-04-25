@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 20
 type: ""
+venue: "Sonya Iwasiuk Art Studio"
 summary: "Sonya Iwasiuk Art Studio | MIXED MEDIA PAINTING WORKSHOP - 1 DAY | APR 7"
 ---
 

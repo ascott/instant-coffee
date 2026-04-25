@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 7
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Materially speaking | APR 13"
 ---
 
@@ -44,16 +45,16 @@ Lou Lynn began exploring the sculptural potential of glass in the mid
 undertook at the Pilchuck Glass School, in Washington. Her work 
 draws from an interest in archaic and industrial tools and artifacts. 
 Working in glass and bronze, Lynn creates a tension between the 
-materialsâ€™ strength and fragility and is central in her re-interpretation 
+materials’ strength and fragility and is central in her re-interpretation 
 of tools and artifacts that once held a prominent place in industrial 
 and domestic environments. 
 
-Lynnâ€™s sculpture has been widely exhibited and is displayed in 
+Lynn’s sculpture has been widely exhibited and is displayed in 
 prominent public collections in Canada and internationally. Lynn is 
 the recipient of the Vancouver Foundation VADA Award and in 2006 
 the Gerson Award for Excellence, Innovation & Leadership, from the 
 Craft Council of BC. She has twice been nominated for the Governor 
-Generalâ€™s Award (Saidye Bronfman Award) and in 2010 she was 
+General’s Award (Saidye Bronfman Award) and in 2010 she was 
 inducted into the Royal Canadian Academy of Arts. Lou Lynn lives 
 and maintains a studio in Winlaw, BC.
 
@@ -67,7 +68,7 @@ and Japan. He has been a resident artist at the Archie Bray
 Foundation for the Ceramic Arts (Helena, MT) and at the European 
 Ceramic Work Centre (s-Hertogenbosch, NL).
 
-Tangâ€™s work is exhibited in Canada and internationally. He has 
+Tang’s work is exhibited in Canada and internationally. He has 
 been profiled by The Knowledge Network, and featured in printed 
 publications including The National Post, Wired (UK and Italy), and 
 ELLE (Canada). In 2012 Tang received the RBC Emerging Artist 
@@ -109,11 +110,11 @@ RELATED PROGRAMMING
 
 THURSDAY, MAY 9
 
-Artistsâ€™ Talk with Brendan Lee Satish Tang and Julie York
+Artists’ Talk with Brendan Lee Satish Tang and Julie York
 
 7:00pm -8:00pm
 
-Meet and Greet Director, Rachel Rosenfield Lafo following the Artistsâ€™ 
+Meet and Greet Director, Rachel Rosenfield Lafo following the Artists’ 
 talk
 
 8:00pm -9:00pm No-host bar-social. Free admission
@@ -125,7 +126,7 @@ FILM SCREENING: AI WEI WEI: NEVER SORRY
 Director: Alison Klayman / 91 Mins / Documentary / Language: 
 Mandarin / English
 
-Time: 7:00pm â€“ 9:30pm
+Time: 7:00pm – 9:30pm
 
 Admission: $5 cash at the door; Richmond Art Gallery members free
 

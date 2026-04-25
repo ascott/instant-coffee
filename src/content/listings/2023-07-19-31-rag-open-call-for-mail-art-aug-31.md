@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 31
 type: "CALL"
+venue: "RAG"
 summary: "RAG | Open Call for Mail Art | AUG 31"
 ---
 

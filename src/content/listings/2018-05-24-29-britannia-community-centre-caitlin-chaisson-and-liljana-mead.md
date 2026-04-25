@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 29
 type: "EDUCATION"
+venue: "Britannia Community Centre"
 summary: "Britannia Community Centre | Caitlin Chaisson and Liljana Mead Martin | 12-3PM | JUN 2"
 ---
 

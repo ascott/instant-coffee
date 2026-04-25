@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 3
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Aquarian Foundation: III/XII/IX | JUN 29"
 ---
 

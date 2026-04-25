@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 18
 type: "OPENING"
+venue: "PHG"
 summary: "PHG | Stan Douglas: Synthetic Pictures | MAR 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 7
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | JORDY HAMILTON | JUN 5"
 ---
 
@@ -28,11 +29,11 @@ The hair of the dog? To fight fire with fire? A spike with a spike, networks
 with networking, institutions with institutionalisms? Power with the 
 accumulation of power? Strikes with strikes, violence with violence, class 
 with class? Escapism with escape... Art with art? What means justify what 
-end? For the self? The career? The family? The nation? The world? Allâ€™s fair 
+end? For the self? The career? The family? The nation? The world? All’s fair 
 in love and war, right? Sorry, he says, but it's all for my love Olive!
 
 A small selection from a larger body of new paintings, this show stems from 
-a single image cartoon of Popeye The Sailor Man. The cartoonâ€™s relation to the 
+a single image cartoon of Popeye The Sailor Man. The cartoon’s relation to the 
 depiction of time, repetition, violence, and love inspired the series. The 
 paintings are constructed using a simple system. Right fist or left fist? Back 
 of the hand or front of the hand? White paint or black paint? 
@@ -41,7 +42,7 @@ Bio
 
 Jordy Hamilton completed an MFA at the University of British Columbia in 
 2011. In 2012, he was a finalist in the RBC Painting Competition, as well as in 
-the Contemporary Art Society of Vancouverâ€™s inaugural emerging artistâ€™s 
+the Contemporary Art Society of Vancouver’s inaugural emerging artist’s 
 prize. Jordy currently lives and works in Vancouver. Within his art practice, 
 painting has functioned as the primary mode in a multifaceted approach to 
 making art. Sculpture, film, photography and installation have been produced 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 30
 type: "EXHIBITION"
+venue: "S’ELIYEMETAXWTEXW ART GALLERY"
 summary: "S’ELIYEMETAXWTEXW ART GALLERY | INNER SANCTUARY | UNTIL FEB 27 | FEB 27"
 ---
 

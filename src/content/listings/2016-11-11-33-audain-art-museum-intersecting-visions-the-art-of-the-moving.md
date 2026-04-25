@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 33
 type: "EVENT"
+venue: "Audain Art Museum"
 summary: "Audain Art Museum | Intersecting Visions: The Art of the Moving Image | DEC 2"
 ---
 

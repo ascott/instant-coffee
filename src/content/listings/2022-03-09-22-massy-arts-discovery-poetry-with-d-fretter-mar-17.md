@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 22
 type: "EVENT"
+venue: "Massy Arts"
 summary: "Massy Arts | Discovery Poetry with D Fretter | MAR 17"
 ---
 

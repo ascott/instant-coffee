@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 35
 type: "OPENING"
+venue: "VanDusen Botanical Garden"
 summary: "VanDusen Botanical Garden | Roberta Mickelson Gallery @Yosef Wosk Library | 1PM | APR 3"
 ---
 

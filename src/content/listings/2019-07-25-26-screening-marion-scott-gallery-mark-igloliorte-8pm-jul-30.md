@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 26
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Marion Scott Gallery | Mark Igloliorte | 8PM | JUL 30"
 ---
 

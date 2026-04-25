@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 23
 type: "EVENT"
+venue: "Pollyanna Library @ 221A"
 summary: "Pollyanna Library @ 221A | Judith Butler Reading Group | 7-9PM | NOV 20"
 ---
 

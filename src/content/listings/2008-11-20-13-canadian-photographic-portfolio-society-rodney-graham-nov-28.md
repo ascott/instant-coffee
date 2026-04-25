@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 13
 type: "OPENING"
+venue: "CANADIAN PHOTOGRAPHIC PORTFOLIO SOCIETY"
 summary: "CANADIAN PHOTOGRAPHIC PORTFOLIO SOCIETY | RODNEY GRAHAM | NOV 28"
 ---
 
@@ -19,7 +20,7 @@ RG image
 Cast A Pall, 2008
 
 edition of 15, with 2 proofs
-each edition consists of two 19" x 18" GiclÃ©e prints on HahnemÃ¼hle
+each edition consists of two 19" x 18" Giclée prints on Hahnemühle
 Watercolour paper
 black lacquer Eastern Maple frames
 Certificate of Authenticity from the artist's studio

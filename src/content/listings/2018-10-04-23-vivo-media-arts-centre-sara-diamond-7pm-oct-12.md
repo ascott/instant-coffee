@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 23
 type: "TALK"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Sara Diamond | 7PM | OCT 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 15
 type: "CALL"
+venue: "Ground Gallery"
 summary: "Ground Gallery | Call for Submissions: Unoccupied, Unowned... | JUL 6"
 ---
 

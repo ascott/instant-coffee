@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 10
 type: "OPENING"
+venue: "Remington Gallery"
 summary: "Remington Gallery | Untitled & Friends | 8PM | JUL 6"
 ---
 

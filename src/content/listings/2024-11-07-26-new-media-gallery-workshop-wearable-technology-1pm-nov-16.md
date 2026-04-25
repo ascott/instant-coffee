@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 26
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | [WORKSHOP] Wearable Technology | 1PM | NOV 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is elementally fundamental. HELL Y
 emailDate: "Thu, 17 Feb 2011 11:28:21 -0800"
 number: 3
 type: ""
+venue: "ACCESS"
 summary: "ACCESS | Total Eclipse of the Art: Fundraiser Auction | FEB 18"
 ---
 

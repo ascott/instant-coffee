@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 32
 type: "CALL"
+venue: "City of Surrey Community Art Program"
 summary: "City of Surrey Community Art Program | Crescent Beach Pop-Up Gallery Artist Call | DEC 1"
 ---
 

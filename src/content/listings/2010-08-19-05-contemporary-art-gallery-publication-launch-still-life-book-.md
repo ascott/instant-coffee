@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: refuse glow ball"
 emailDate: "Thu, 19 Aug 2010 10:15:10 -0700"
 number: 5
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Publication Launch: STILL LIFE & book sale | AUG 21"
 ---
 
@@ -26,7 +27,7 @@ life; and Evan Lee uses the dollar store to discuss the complex relations
 between the consumption of objects and what a still life represents.
 
 Still Life is the second publication in a series of three that use the
-petit genres of landscape, portrait and still life to reflect the CAGâ€™s
+petit genres of landscape, portrait and still life to reflect the CAG’s
 recent programming and to frame current tendencies in contemporary art.
 
 Also last chance to see Triumphant Carrot: The Persistence of Still Life,
@@ -34,7 +35,7 @@ which closes August 22nd
 
 BOOK SALE
 
-Be sure not to miss the publication sale, with many popular titles at 50 â€“
+Be sure not to miss the publication sale, with many popular titles at 50 –
 75% off, free giveaways and special promotions on your favourite CAG
 publications.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 4
 type: "OPENING"
+venue: "R Space"
 summary: "R Space | Francois Roux | Rehearsal/Reversal | NOV 10"
 ---
 

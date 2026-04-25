@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 8
 type: "PERFORMANCE"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Oraf Orafsson: Burnt Offering | DEC 9"
 ---
 

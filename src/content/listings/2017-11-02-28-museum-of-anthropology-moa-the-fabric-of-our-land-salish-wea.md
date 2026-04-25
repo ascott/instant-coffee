@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 28
 type: "EVENT"
+venue: "Museum of Anthropology (MOA)"
 summary: "Museum of Anthropology (MOA) | The Fabric of Our Land: Salish Weaving | NOV 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 30
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | HOHOL Screening Event | 630PM | JUL 25"
 ---
 

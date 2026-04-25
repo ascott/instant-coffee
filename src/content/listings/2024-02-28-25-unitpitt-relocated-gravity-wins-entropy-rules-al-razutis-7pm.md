@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 25
 type: "OPENING"
+venue: "UNIT/PITT (relocated)"
 summary: "UNIT/PITT (relocated) | Gravity Wins, Entropy Rules: Al Razutis | 7PM | MAR 2"
 ---
 

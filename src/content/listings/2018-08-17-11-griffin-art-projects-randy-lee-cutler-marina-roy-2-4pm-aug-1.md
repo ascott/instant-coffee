@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 11
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Randy Lee Cutler & Marina Roy | 2-4PM | AUG 18"
 ---
 

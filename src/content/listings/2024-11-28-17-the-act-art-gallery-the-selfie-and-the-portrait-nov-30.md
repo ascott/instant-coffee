@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 17
 type: "TALK"
+venue: "The ACT Art Gallery"
 summary: "The ACT Art Gallery | The Selfie and The Portrait | NOV 30"
 ---
 

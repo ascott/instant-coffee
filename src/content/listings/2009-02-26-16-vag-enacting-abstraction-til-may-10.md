@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 16
 type: ""
+venue: "VAG"
 summary: "VAG | Enacting Abstraction | til | MAY 10"
 ---
 

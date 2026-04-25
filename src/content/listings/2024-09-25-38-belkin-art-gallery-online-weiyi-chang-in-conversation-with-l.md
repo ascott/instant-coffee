@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 38
 type: "TALK"
+venue: "Belkin Art Gallery [ONLINE]"
 summary: "Belkin Art Gallery [ONLINE] | Weiyi Chang in conversation with Lisa Myers | 1230PM | OCT 8"
 ---
 

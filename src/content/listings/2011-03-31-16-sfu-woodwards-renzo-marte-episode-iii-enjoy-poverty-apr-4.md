@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 16
 type: ""
+venue: "SFU Woodwards"
 summary: "SFU Woodwards | Renzo Marte: Episode III: Enjoy Poverty | APR 4"
 ---
 

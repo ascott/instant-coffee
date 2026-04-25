@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 21
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Video Journalism Workshop MAR 6th + 9th | MAR 6"
 ---
 

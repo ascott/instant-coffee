@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 6
 type: "OPENING"
+venue: "AUDAIN GALLERY SFU Hastings"
 summary: "AUDAIN GALLERY SFU Hastings | Do Trees Need Poetry? | 7PM | FEB 13"
 ---
 

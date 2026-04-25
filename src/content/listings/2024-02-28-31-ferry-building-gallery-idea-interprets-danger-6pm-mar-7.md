@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 31
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | IDEA Interprets: Danger | 6PM | MAR 7"
 ---
 

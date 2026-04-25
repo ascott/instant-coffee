@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 14
 type: "OPENING"
+venue: "Douglas Udell"
 summary: "Douglas Udell | Ann Kipling | NOV 15"
 ---
 

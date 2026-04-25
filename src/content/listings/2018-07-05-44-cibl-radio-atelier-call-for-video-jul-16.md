@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 44
 type: "CALL"
+venue: "CIBL radio -Atelier"
 summary: "CIBL radio -Atelier | Call for Video | JUL 16"
 ---
 

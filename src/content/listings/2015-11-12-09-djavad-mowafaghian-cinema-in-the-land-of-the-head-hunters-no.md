@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 9
 type: "TALK"
+venue: "Djavad Mowafaghian Cinema"
 summary: "Djavad Mowafaghian Cinema | In the Land of the Head Hunters | NOV 13"
 ---
 
@@ -15,7 +16,7 @@ Join us for a screening and panel discussion on In the Land of the
 Head Hunters, the first feature film made in B.C. and the oldest
 surviving feature made in Canada. It is also the first feature made
 with an entirely indigenous North American cast. A portrait of the
-KwakwakaÃ¢'wakw (formerly Kwakiutl) people of northern Vancouver
+Kwakwakaâ'wakw (formerly Kwakiutl) people of northern Vancouver
 Island and the central coast, it was directed by Edward S. Curtis, the
 renowned American photographer of First Nations life. The film mixes
 documentary and dramatic elements, recording authentic traditions and
@@ -29,7 +30,7 @@ Panel discussion to follow the screening.
 
 PANELISTS
 
-Bill Cranmer is a Hereditary Chief of the NÃ¢'amgis First Nation.
+Bill Cranmer is a Hereditary Chief of the Nâ'amgis First Nation.
 
 Andy Everson is a contemporary First Nations artist from the K'omoks
 First Nation on Vancouver Island. Holding a master's degree in

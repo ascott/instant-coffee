@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 18
 type: ""
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Lawrence Paul Yuxweluptun | FEB 3"
 ---
 

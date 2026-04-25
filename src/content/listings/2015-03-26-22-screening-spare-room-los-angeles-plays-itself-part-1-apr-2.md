@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 22
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SPARE ROOM | Los Angeles Plays Itself (PART 1) | APR 2"
 ---
 

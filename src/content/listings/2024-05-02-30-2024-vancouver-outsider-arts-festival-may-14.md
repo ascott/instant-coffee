@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 30
 type: "CALL"
+venue: "2024 Vancouver Outsider Arts Festival"
 summary: "2024 Vancouver Outsider Arts Festival | MAY 14"
 ---
 

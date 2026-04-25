@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 23
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | READ Books | Hyung-Min Yoon: \"Black Book\" | 3-5PM | OCT 20"
 ---
 

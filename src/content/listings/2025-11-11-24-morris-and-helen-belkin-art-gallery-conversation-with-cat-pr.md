@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 24
 type: "TALK"
+venue: "MORRIS AND HELEN BELKIN ART GALLERY"
 summary: "MORRIS AND HELEN BELKIN ART GALLERY | Conversation with Cat Prueitt and Christine Evans | NOV 19"
 ---
 

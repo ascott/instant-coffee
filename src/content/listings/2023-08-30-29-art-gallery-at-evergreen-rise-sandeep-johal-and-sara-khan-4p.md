@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 29
 type: "OPENING"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | RISE: Sandeep Johal and Sara Khan | 4PM | SEP 16"
 ---
 

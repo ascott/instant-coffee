@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 4
 type: ""
+venue: "Gam Gallery"
 summary: "Gam Gallery | Louise Francis-Smith: Window / Community | OCT 17"
 ---
 

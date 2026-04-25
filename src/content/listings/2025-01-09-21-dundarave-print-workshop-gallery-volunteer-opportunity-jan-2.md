@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 21
 type: "CALL"
+venue: "Dundarave Print Workshop & Gallery"
 summary: "Dundarave Print Workshop & Gallery | Volunteer Opportunity | JAN 24"
 ---
 

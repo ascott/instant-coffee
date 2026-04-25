@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 20
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Mark Boulos | till | DEC 5"
 ---
 

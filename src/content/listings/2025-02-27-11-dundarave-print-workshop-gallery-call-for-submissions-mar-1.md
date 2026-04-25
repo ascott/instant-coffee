@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 11
 type: "CALL"
+venue: "Dundarave Print Workshop + Gallery"
 summary: "Dundarave Print Workshop + Gallery | Call for Submissions | MAR 1"
 ---
 

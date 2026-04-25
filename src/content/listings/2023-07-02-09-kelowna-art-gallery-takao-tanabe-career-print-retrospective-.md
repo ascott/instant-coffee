@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Takao Tanabe career print retrospective | JUL 1"
 ---
 

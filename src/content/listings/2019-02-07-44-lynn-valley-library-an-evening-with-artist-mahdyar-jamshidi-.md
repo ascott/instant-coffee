@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 44
 type: "TALK"
+venue: "Lynn Valley Library"
 summary: "Lynn Valley Library | An Evening with Artist Mahdyar Jamshidi | 7-815 PM | FEB 27"
 ---
 

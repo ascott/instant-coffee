@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 14
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Disembody | NOV 30"
 ---
 

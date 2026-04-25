@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 23
 type: "CALL"
+venue: "Untitled Art Society (Calgary)"
 summary: "Untitled Art Society (Calgary) | Call for Expressions of Interest | MAR 31"
 ---
 

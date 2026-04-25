@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 56
 type: "CALL"
+venue: "Tangled Art + Disability"
 summary: "Tangled Art + Disability | CALL FOR SUBMISSIONS | MAY 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 14
 type: ""
+venue: "GRAY Publications"
 summary: "GRAY Publications | TERROR 0.2 LAUNCH and Events | JUL 18"
 ---
 
@@ -47,7 +48,7 @@ EVENTS
 
 Please RSVP to events: graypublications@gmail.com
 
-GRAY Publications Â©2013
+GRAY Publications ©2013
 
 www.graypublications.org
 

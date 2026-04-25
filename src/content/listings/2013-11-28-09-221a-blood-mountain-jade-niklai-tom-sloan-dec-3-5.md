@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 9
 type: ""
+venue: "221A"
 summary: "221A | Blood Mountain: Jade Niklai & Tom Sloan | DEC 3-5"
 ---
 

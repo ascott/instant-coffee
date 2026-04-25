@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 27
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Eastside Arts Society | CREATE! Eastside Arts Festival | JUL 22"
 ---
 

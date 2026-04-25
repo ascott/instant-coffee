@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 8
 type: ""
+venue: "University of the Fraser Valley"
 summary: "University of the Fraser Valley | Faculty Exhibition | MAR 2"
 ---
 

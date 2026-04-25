@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 9
 type: ""
+venue: "Instant Coffee PINK NOISE"
 summary: "Instant Coffee PINK NOISE | as part of Luminocity, Kamloops -- week two | NOV 7"
 ---
 
@@ -12,7 +13,7 @@ Instant Coffee presents PINK NOISE as part of Luminocity
 Instant Coffee: Pink Noise -- Week Two
 
 Ronan McGrath
-Johan BjÃ¶rck
+Johan Björck
 Sinoia Caves
 Pink Eraser
 The Pink Lincolns
@@ -24,7 +25,7 @@ project Pink Noise drives at colliding and provoking the basic sensory
 mechanics of colour and sound to form temperamental emotional 
 connections. Their cursory research takes its initial form as part of 
 Luminocity as a gathering place and a series of music performances. 
-Instant Coffee will turn Kamloopsâ€™ Rotary Bandshell at Riverside Park into 
+Instant Coffee will turn Kamloops’ Rotary Bandshell at Riverside Park into 
 a vibrant pink-washed venue from which to host four evenings of events. 
 Come through the back and delve into a material investigation of pink 
 noise.*
@@ -60,9 +61,9 @@ The Black Rainbow.
 
 http://www.youtube.com/watch?v=vRmsMyiBN8k
 
-Johan BjÃ¶rck
+Johan Björck
 
-Johan BjÃ¶rck is a Swedish visual artists and musician whose 
+Johan Björck is a Swedish visual artists and musician whose 
 performance for Pink Noise will combine euro-funk, poetry and jazz-
 keyboard
 
@@ -70,7 +71,7 @@ http://soundcloud.com/johanbjorck
 
 Ronan McGrath
 
-Kamloopâ€™s Ronan McGrath will perform The Rose Tree an articulation of 
+Kamloop’s Ronan McGrath will perform The Rose Tree an articulation of 
 his fixation on pink noise. As well as his guitar/sampler oriented tracks 
 from his current 'No Spectrum' project.
 

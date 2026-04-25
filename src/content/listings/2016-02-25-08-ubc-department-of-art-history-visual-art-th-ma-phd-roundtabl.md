@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 8
 type: "TALK"
+venue: "UBC Department of Art History, Visual Art & Th"
 summary: "UBC Department of Art History, Visual Art & Th | MA & PhD Roundtable Presentations | FEB 26"
 ---
 

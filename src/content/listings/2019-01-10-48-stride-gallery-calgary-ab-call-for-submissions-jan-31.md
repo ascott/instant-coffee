@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 48
 type: "CALL"
+venue: "Stride Gallery, Calgary AB"
 summary: "Stride Gallery, Calgary AB | Call for Submissions | JAN 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 2
 type: "EDUCATION"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Poet's Theatre Workshop | Mar 9, 10"
 ---
 

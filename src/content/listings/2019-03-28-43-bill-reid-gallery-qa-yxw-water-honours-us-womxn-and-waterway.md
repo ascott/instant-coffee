@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 43
 type: "OPENING"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | qaʔ yəxw - water honours us: Womxn and Waterways | APR 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 12
 type: ""
+venue: "ECU"
 summary: "ECU | ie, gallery | SHOW ME HOW | MAY 26"
 ---
 
@@ -28,7 +29,7 @@ As part of a larger public-art project, SHOW ME HOW aims to create a
 'knowledge gallery' where participants can donate a skill through 
 drawing. 'Knowledge' for this project is defined as any set of 
 instructions: it could be the special way you scramble eggs, plant your 
-tulip bulbs, or celebrate a special holidayâ€“ anything that other people 
+tulip bulbs, or celebrate a special holiday– anything that other people 
 may benefit from.
 
 SHOW ME HOW is a free drawing event. All materials are provided. 

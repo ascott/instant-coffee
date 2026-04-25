@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 12
 type: ""
+venue: "The Commons"
 summary: "The Commons | Anatomize Obfuscation | JAN 16"
 ---
 
@@ -13,7 +14,7 @@ image: Jasmine Reimer, Bath Mat, 2011, found object, styrofoam, 24x30x2"
 
 The Commons is proud to present Anatomize Obfuscation, an exhibition of 
 three female artists who work in assemblage sculpture, collage, and painting. 
-These artistsâ€™ abstract use of ostensibly mundane materials speak of these 
+These artists’ abstract use of ostensibly mundane materials speak of these 
 common objects as charged with aesthetic potential. The formal refinement 
 fostered by these artists displays a loving-connection for their ubiquitous 
 materials. The exhibition includes new work by Guadalupe Martinez, Jasmine 

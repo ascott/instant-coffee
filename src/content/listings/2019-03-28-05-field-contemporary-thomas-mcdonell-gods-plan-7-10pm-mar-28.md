@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 5
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Thomas McDonell | God's Plan | 7-10PM | MAR 28"
 ---
 

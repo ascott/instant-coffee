@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 29
 type: "CALL"
+venue: "Media Art Alliance of the Pacific"
 summary: "Media Art Alliance of the Pacific | Board of Directors | MAY 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 17
 type: ""
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | Lauryn Youden & Alan Woo | SEP 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 13
 type: "OPENING"
+venue: "Monica Reyes Gallery"
 summary: "Monica Reyes Gallery | Jayce Salloum/Bernadette Phan exhibition | OCT 3"
 ---
 

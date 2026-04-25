@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 19
 type: "EVENT"
+venue: "Massy Arts Society"
 summary: "Massy Arts Society | Marc Bell Artist Meet and Greet | SEP 19"
 ---
 

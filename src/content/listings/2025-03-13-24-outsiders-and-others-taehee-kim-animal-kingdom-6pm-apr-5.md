@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 24
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Taehee Kim: Animal Kingdom | 6PM | APR 5"
 ---
 

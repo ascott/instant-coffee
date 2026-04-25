@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 38
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Person/ne Forum: Ethics of Care | JUL 6"
 ---
 

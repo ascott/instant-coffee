@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 23
 type: "CALL"
+venue: "The Gold Saucer Studio"
 summary: "The Gold Saucer Studio | Beyond Spectacle residency | FEB 7"
 ---
 

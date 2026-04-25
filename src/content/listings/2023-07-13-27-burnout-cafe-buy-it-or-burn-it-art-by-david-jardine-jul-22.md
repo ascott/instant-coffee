@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 27
 type: ""
+venue: "Burnout Cafe"
 summary: "Burnout Cafe | Buy It Or Burn It - Art by David Jardine | JUL 22"
 ---
 

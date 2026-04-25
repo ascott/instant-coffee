@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 21
 type: ""
+venue: "Classic Chic Productions @ Anza Club"
 summary: "Classic Chic Productions @ Anza Club | AN EVENING WITH LISA WOLPE | FEB 27"
 ---
 
 AN EVENING WITH LISA WOLPE: Classic Chic Productions present An 
-Evening with Lisa Wolpe-a unique opportunity to witness an â€˜Inside the 
-Actors Studioâ€™ style interview with acclaimed Shakespearean Drag King, 
-Lisa Wolpe (Artistic Director, Los Angeles Womenâ€™s Shakespeare 
+Evening with Lisa Wolpe-a unique opportunity to witness an ‘Inside the 
+Actors Studio’ style interview with acclaimed Shakespearean Drag King, 
+Lisa Wolpe (Artistic Director, Los Angeles Women’s Shakespeare 
 Company). Lisa will talk about her life in the theatre, the hows and whys 
-of playing cross-gender, and what itâ€™s like to play those great parts of 
+of playing cross-gender, and what it’s like to play those great parts of 
 Hamlet, Iago, Leontes, Richard III, Jacquis, and Shylock. Classic Chic 
 also welcomes guests Morgan Brayton and The Legion of Flying 
 Monkeys. 

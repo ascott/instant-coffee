@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 3
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | And they thought, where do we go from here? | NOV 12"
 ---
 
@@ -24,7 +25,7 @@ Koenker, and Renee Van Halm. In 1975, these seven artists, all
 associated with the Vancouver School of Art (Emily Carr University of
 Art + Design), gathered at the Mido Gallery on Main Street to create a
 new society that would allow them to apply for funds for an
-international print exhibition. 40 years later, weâ€™re showing their work
+international print exhibition. 40 years later, we’re showing their work
 from that time period, along with newer work. Please join us for the
 opening celebration on Thursday, November 12, 2015, from 6pm to
 9pm.
@@ -69,7 +70,7 @@ Michael Jolliffe studied at the Vancouver School of Art from 1974 to
 discovered Christianity in 1980, he began exploring religious themes in
 large, brightly coloured and heavily impastoed oils, and mixed media
 abstractions. After a visit to Florence in 1992, his palette became more
-subdued, but still focused on biblical parables. Jolliffeâ€™s work has been
+subdued, but still focused on biblical parables. Jolliffe’s work has been
 exhibited across North America since the mid-1970s, and is included in
 numerous public and corporate collections. He previously taught at
 Concordia University and at the Emily Carr College of Art and Design,
@@ -85,7 +86,7 @@ she is currently based in Vancouver.
 
 Renee Van Halm completed her undergraduate studies at the
 Vancouver School of Art, and received a MFA from Concordia
-University in MontrÃ©al. She helped to establish Mercer Union, an artist-
+University in Montréal. She helped to establish Mercer Union, an artist-
 run centre in Toronto, in 1979, and taught for over a decade at York
 University before joining the faculty of Emily Carr University of Art and
 Design in 1992. Her work has been exhibited in solo and group

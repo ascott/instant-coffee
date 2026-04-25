@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 8
 type: ""
+venue: "CHERNOFF FINE ART"
 summary: "CHERNOFF FINE ART | CHRIS KOWAL: 1986 | APR 11"
 ---
 

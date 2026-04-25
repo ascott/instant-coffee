@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 7
 type: ""
+venue: "Nikkei National Museum & Cultural Centre"
 summary: "Nikkei National Museum & Cultural Centre | POST-REDRESS | NOV 2"
 ---
 
@@ -14,13 +15,13 @@ Japanese Canadian Redress agreement.
 
 3-5pm Panel Discussion - Research on Japanese Canadians: What are the 
 Challenges? What are the Possibilities? Moderated by Roy Miki, the panel 
-will feature Audrey Kobayashi (Queenâ€™s University), Jeff Masuda (University of 
+will feature Audrey Kobayashi (Queen’s University), Jeff Masuda (University of 
 Manitoba), Kirsten Emiko McAllister (Simon Fraser University), Mona Oikawa 
 (York University) and John Price (University of Victoria). Sponsored by the 
 Nikkei National Museum, SFU's Centre for Policy Studies on Culture and 
 Communities and the Asian Canadian Study Society.
 
-3pm Book launch of Dr. Mona Oikawaâ€™s Cartographies of Violence: 
+3pm Book launch of Dr. Mona Oikawa’s Cartographies of Violence: 
 Japanese Canadian Women, Memory, and the Subjects of Internment (2012)
 
 5 - 6:30pm Exhibit Reception and opening of our new Resource Centre. 

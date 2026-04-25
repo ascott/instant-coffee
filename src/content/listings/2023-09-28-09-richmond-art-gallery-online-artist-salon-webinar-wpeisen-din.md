@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 9
 type: "TALK"
+venue: "Richmond Art Gallery [ONLINE]"
 summary: "Richmond Art Gallery [ONLINE] | Artist Salon Webinar w/Peisen Ding | 7PM | SEP 27"
 ---
 

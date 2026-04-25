@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 31
 type: ""
+venue: "The Reach Gallery, Abbotsford"
 summary: "The Reach Gallery, Abbotsford | Jayce Salloum and Khadim Ali | until | DEC 31"
 ---
 
 Jayce Salloum and Khadim Ali: 
 the heart that has no love/pain/generosity is not a heart
-September 27, 2012 â€“ January 6, 2013
+September 27, 2012 – January 6, 2013
 The Reach Gallery Abbotsford
 32388 Veterans Way, Abbotsford, BC
 
@@ -19,9 +20,9 @@ drawings, videotapes and objects which examine the aftermath of the
 destruction of the colossal 5th century Buddhas of the Bamiyan Valley in 
 Central Afghanistan (destroyed by the Taliban in March 2001). Recording the 
 destitution of central Afghanistan today, the exhibition focuses on the 
-situation of the Hazara people, a persecuted Shiâ€™a Muslim minority, who 
+situation of the Hazara people, a persecuted Shi’a Muslim minority, who 
 believe themselves to be descended from the sculptors who produced the 
-colossal figures of the Buddha, UNESCOâ€™s efforts to conserve the Buddhist 
+colossal figures of the Buddha, UNESCO’s efforts to conserve the Buddhist 
 statues and caves, and rebuilding efforts following the stationing of NATO 
 forces in the Bamiyan Valley.
 

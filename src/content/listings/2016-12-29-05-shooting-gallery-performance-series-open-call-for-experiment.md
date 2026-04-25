@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Longlight Debt and Gloves on your 
 emailDate: "Thu, 29 Dec 2016 08:15:42 -0800"
 number: 5
 type: "CALL"
+venue: "Shooting Gallery Performance Series"
 summary: "Shooting Gallery Performance Series | Open Call for experimental performance works | JAN 6"
 ---
 

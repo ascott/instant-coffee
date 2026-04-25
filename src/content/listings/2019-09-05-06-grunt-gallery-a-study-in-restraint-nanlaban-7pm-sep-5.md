@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 6
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | A study in restraint, nanlaban | 7PM | SEP 5"
 ---
 

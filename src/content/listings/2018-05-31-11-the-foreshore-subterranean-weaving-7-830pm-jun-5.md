@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 11
 type: "TALK"
+venue: "The Foreshore"
 summary: "The Foreshore | Subterranean Weaving | 7-8:30PM | JUN 5"
 ---
 

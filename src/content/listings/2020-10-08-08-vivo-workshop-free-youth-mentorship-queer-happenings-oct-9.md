@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 8
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | WORKSHOP | Free Youth Mentorship: Queer Happenings | OCT 9"
 ---
 

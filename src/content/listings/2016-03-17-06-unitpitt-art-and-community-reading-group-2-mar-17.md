@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 6
 type: "EVENT"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Art and Community Reading Group #2 | MAR 17"
 ---
 

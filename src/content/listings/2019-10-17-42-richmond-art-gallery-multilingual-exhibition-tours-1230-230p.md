@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 42
 type: "EVENT"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Multilingual Exhibition Tours | 1230 -230PM | OCT 20"
 ---
 

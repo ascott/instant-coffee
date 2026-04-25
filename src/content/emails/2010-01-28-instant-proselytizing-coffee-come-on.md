@@ -320,7 +320,7 @@ nose bullet. Campbell, who claimed he fired in self-defense, was never
 brought to trial. There was a huge funeral procession for Goodwin that
 filled the streets of Cumberland, and Goodwin's death resonated in
 Vancouver, sparking the first general strike in Canada's history. This
-synopsis of GoodwinÃŠÂ¼s story is one of many, and the facts change depending
+synopsis of GoodwinÊ¼s story is one of many, and the facts change depending
 on where you find it.
 
 I first heard the story of Ginger Goodwin from my aunt, who lives below the
@@ -334,14 +334,14 @@ sign has generated great debate, and in 2001 the newly appointed provincial
 Liberals had it quietly removed.
 
 At the time of the removal, B.C. Federation of Labour President Jim
-Sinclair wrote Ã¢ï¿½ï¿½Ginger Goodwin was not only an Officer of the Federation,
+Sinclair wrote â��Ginger Goodwin was not only an Officer of the Federation,
 he was a miner, an organizer, a community leader and a tireless advocate
-for the rights of working peopleÃ¢ï¿½Â¦ At least five BC communities have streets
+for the rights of working peopleâ�¦ At least five BC communities have streets
 commemorating coal baron Robert Dunsmuir. Ginger Goodwin Way provides a
-very modest balance.Ã¢ï¿½ï¿½
+very modest balance.â��
 
 The story of Ginger Goodwin has always been plural and ambiguous: one
-figureÃ¢ï¿½ï¿½s story with many variants. In many ways his story could be seen as
+figureâ��s story with many variants. In many ways his story could be seen as
 a point of contestation between official narratives and those that
 circulate by other means.
 
@@ -354,7 +354,7 @@ re- interpreting and taking ownership of narratives that are either in
 danger of being lost, or are only told from one dominant position. The
 exhibition itself derives from the idea that a story can be told within a
 story or beside a story without being the only anchor of the particular
-narrative. GoodwinÃ¢ï¿½ï¿½s story then, becomes an entry point to approach the
+narrative. Goodwinâ��s story then, becomes an entry point to approach the
 diverging stories present in the exhibition itself.
 
 Or Gallery
@@ -514,7 +514,7 @@ emphasize the inconsistency of emotions. Thus work lingers in between a
 place of darkness and one of playfulness, with the ability to both affect
 and evoke sensations. There is a dichotomy between the difficulty of
 comprehending the reality of the internal world and a reaction to the
-outside worldâ€™s fragility. Some of my paintings depict figures who are
+outside world’s fragility. Some of my paintings depict figures who are
 brought together by disparate objects or evocations that trail behind them,
 which brings forth themes of the home and the decorative, as well as
 problems arising from our world's excessive fabrication and collection of
@@ -617,12 +617,12 @@ Akoumasflore: Scenoscome, co presentation with the Canadian Film Centre
 Seed: Napoleon Brosseau and Gabe Sahwney
 Mondo Spider: Zero Emissions: eatART (Canada)
 mo_ving: Raquel Kogan, curated by Claudio Rivera-Seguel (Brazil/Chile)
-Breaking the Ice: SocietÃ© des arts technologiques (Canada)
+Breaking the Ice: Societé des arts technologiques (Canada)
 Reactable: Sergi JordÃ , Martin Kaltenbrunner, GÃ¼nter Geiger and Marcos
 Alonso (Austria/Spain)
 Instant Places: Canada CODE: Ian Birse, Laura Kavanaugh (Canada)
 PLAY: The Hertzian Collective: Geoffrey Shea (Canada)
-Analogue Nostalgia Presents / prÃ©sente â€“ Foreign Voices, Common Stories
+Analogue Nostalgia Presents / présente – Foreign Voices, Common Stories
 (Ghettoblaster): James Phillips (Canada)
 
 CODE Lounge: Featuring works by Organelle and Shea Allan-McCachen
@@ -630,7 +630,7 @@ EmilyCarr University of Art and Design >>weblink>>
 
 The Paradise Institute: Janet Cardiff and Georges Bures Miller (Canada)
 Organized by the National Gallery of Canada
-Electromode / Peau dâ€™Ane : Valerie Lamontagne (Canada)
+Electromode / Peau d’Ane : Valerie Lamontagne (Canada)
 Skorpions and Captain Electric : Joanna Berzowska, XS Labs (Canada)
 Walking City and Living Pod : Ying Gao (Canada)
 Company Keeper and Emotional Ties : Sara Diamond (Canada)
@@ -748,14 +748,14 @@ She is looking forward the discussion with the audience.
 Maria Eichhorn is an artist who lives and works in Berlin.
 In 2009 her work will appear in : Film Lexicon of
 Sexual Practices, Eva Presenhuber Gallery, Zurich, The Multiples,
-Edition Block, Berlin and Vides, Une rÃ©trospective, Centre
-Pompidou, MusÃ©e National dÂ´Art Moderne, Paris.
+Edition Block, Berlin and Vides, Une rétrospective, Centre
+Pompidou, Musée National d´Art Moderne, Paris.
 
 Her book The Artist's Contract. Interviews with Carl Andre, Daniel
 Buren, Paula Cooper, Hans Haacke, Jenny Holzer, Adrian Piper,
 Robert Projansky, Robert Ryman, Seth Siegelaub, John Weber,
 Lawrence Weiner, Jackie Winsor was published in 2009 by the
-publishers Verlag der Buchhandlung Walther KÃ¶nig.
+publishers Verlag der Buchhandlung Walther König.
 
 The Distinguished Visiting Artist Program is made possible through the
 generous support of Rennie Marketing Systems.
@@ -890,7 +890,7 @@ Opening Reception: Friday February 5, 6-8 pm
 Other Sights is pleased to announce T & T: False Creek, an exhibition
 created by Canadian artists Tyler Brett and Tony Romano (T&T) to be
 installed in the Pendulum Gallery during the 2010 Winter Olympics.
-Consisting of sculptural assemblages, panoramic print and a childrenâ€™s
+Consisting of sculptural assemblages, panoramic print and a children’s
 colouring centre, the exhibition transforms the public atrium of the HSBC
 Building into an optimistic post-apocalyptic environment.
 
@@ -1044,7 +1044,7 @@ Montehermoso Kulturunea
 Montehermoso 2010 Art and Research Grants
 Centro Cultural
 Montehermoso Kulturunea
-Fray ZacarÃ­as MartÃ­nez, 2
+Fray Zacarías Martínez, 2
 01001 Vitoria-Gasteiz
 SPAIN
 info@montehermoso.net
@@ -1106,21 +1106,21 @@ info@montehermoso.net
 2009 Selected projects
 Artists' projects:
 Leonor Antunes (Lisbon, 1972)
-Paloma Polo CarreÃ±o (Madrid, 1983)
+Paloma Polo Carreño (Madrid, 1983)
 Nadia Barkate & Marion Cruza (Bilbao, 1980; Bilbao 1982)
 Niamh O'Malley (Castlebar, 1975)
-Carissa RodrÃ­guez (New York, 1970)
+Carissa Rodríguez (New York, 1970)
 Azucena Vieites (Hernani, 1967)
 Erika Arzt & Juan Linares (London, 1969; Cambrils, 1972)
 Jorge Satorre (Mexico DF, 1979)
 
 Curatorial project:
-Tetriss Production (MalmÃ¶)
+Tetriss Production (Malmö)
 
 Research:
 Giovanna Zapperi (Rome, 1978)
 Aaron Schuster (Washington, 1974)
-AloÃ±a Intxaurandieta & Edu Hurtado (Lezo, 1984; Valladolid, 1986)
+Aloña Intxaurandieta & Edu Hurtado (Lezo, 1984; Valladolid, 1986)
 
 Film Script:
 Juan Ibarrondo (Vitoria-Gasteiz, 1962)
@@ -1137,7 +1137,7 @@ Artspeak is pleased to announce the publication Judgment and Contemporary
 Art Criticism (2010). The result of a public forum and reading room that
 investigated the present state of art criticism, this publication features
 commissioned texts by forum presenters and respondents Jeff Derksen,
-Diedrich Diederichsen, James Elkins, Maria Fusco, Sven LÃ¼tticken, Tom
+Diedrich Diederichsen, James Elkins, Maria Fusco, Sven Lütticken, Tom
 Morton, Kristina Lee Podesva, William Wood and Tirdad Zolghadr. Examining
 the efficacy and function of art criticism, the publication focuses on the
 role of judgment and valuation in contemporary art writing and includes
@@ -1166,7 +1166,7 @@ Artspeak is a Vancouver based artist run centre established in 1986 that
 presents contemporary practices, innovative publications, book works,
 editions, talks, and events that encourage dialogue between visual art and
 writing. Past publications include the work of artists and writers such as
-Roy Arden, Stan Douglas, Juan A. GaitÃ¡n, Janice Kerbel, Tim Lee, Mark
+Roy Arden, Stan Douglas, Juan A. Gaitán, Janice Kerbel, Tim Lee, Mark
 Lewis, Shirin Neshat, Isabelle Pauwels, Lisa Robertson, Kathy Slade, and
 Susan Sontag.
 

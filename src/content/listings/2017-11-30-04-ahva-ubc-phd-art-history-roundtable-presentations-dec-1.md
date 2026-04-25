@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 4
 type: "EVENT"
+venue: "AHVA"
 summary: "AHVA | UBC PhD Art History Roundtable Presentations | DEC 1"
 ---
 

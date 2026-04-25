@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 12
 type: "OPENING"
+venue: "Lobe Gallery"
 summary: "Lobe Gallery | HEAT LOUNGE | 4-8PM | MAR 14"
 ---
 

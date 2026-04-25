@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "MOA"
 summary: "MOA | Rebecca Belmore | UNTIL OCT 13 | OCT 13"
 ---
 

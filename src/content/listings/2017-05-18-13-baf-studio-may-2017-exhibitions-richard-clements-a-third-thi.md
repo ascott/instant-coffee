@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 13
 type: "OPENING"
+venue: "BAF Studio May 2017 Exhibitions"
 summary: "BAF Studio May 2017 Exhibitions | Richard Clements: A Third Thing | MAY 25"
 ---
 

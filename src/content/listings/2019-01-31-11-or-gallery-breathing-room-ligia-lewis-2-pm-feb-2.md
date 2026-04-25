@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 11
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Breathing Room: Ligia Lewis | 2 PM | FEB 2"
 ---
 

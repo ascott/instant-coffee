@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 9
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | ANTONIA HIRSCH | FEB 2"
 ---
 
@@ -18,12 +19,12 @@ light tender
 Exhibition dates: February 1 - March 2, 2013
 Opening reception: Saturday, February 2, 2-4 pm
 
-Antonia Hirschâ€™s installation incorporates objects and video to continue her 
+Antonia Hirsch’s installation incorporates objects and video to continue her 
 inquiry into the interconnection between affect and economy. The show brings 
 together the abstract phenomenon of colour and the very concrete trade in cut 
 flowers. light tender mobilizes these elements of trade, affect, and colour and 
 proposes that an economy be understood as not merely a system of fiscal 
-transactions, but as a system of representationâ€”expressive of a way of 
+transactions, but as a system of representation—expressive of a way of 
 perceiving and interacting with the world and each other. While affect is both a 
 generator and a consequence of economic exchanges, it is, conversely, also 
 the modality of those economic exchanges that structure affect, resulting in 

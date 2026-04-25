@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 28
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Access Gallery | PLOT: OH x SPIT | 2PM | JUN 2"
 ---
 

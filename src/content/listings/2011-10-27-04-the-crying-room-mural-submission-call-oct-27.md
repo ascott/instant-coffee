@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 4
 type: ""
+venue: "The Crying Room"
 summary: "The Crying Room | Mural Submission Call | OCT 27"
 ---
 

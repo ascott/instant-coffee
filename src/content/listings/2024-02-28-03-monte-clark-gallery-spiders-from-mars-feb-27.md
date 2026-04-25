@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Spiders from Mars | FEB 27"
 ---
 

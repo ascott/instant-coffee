@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 11
 type: ""
+venue: "ECU"
 summary: "ECU | Johnathan Taggart | JUL 12"
 ---
 
-Johnathan Taggart â€“ July 12, 2012 : 7:00pm Room 301 at Emily Carr 
+Johnathan Taggart – July 12, 2012 : 7:00pm Room 301 at Emily Carr 
 University
 Johnathan Taggart is an award-winning photojournalist based in 
 Vancouver, Canada, specializing in social documentary, editorial 

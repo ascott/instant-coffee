@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 13
 type: ""
+venue: "Leo Koo Gallery"
 summary: "Leo Koo Gallery | James Kemp | NOV 7"
 ---
 
@@ -21,13 +22,13 @@ connection to natural materials and processes in a way that fetishizes the
 unashamedly organic. His sculptures twist and turn, unsure of themselves as 
 they take on new characteristics from different perspectives. They engage 
 through their unpredictability, as surface and shape compete for attention. 
-Kempâ€™s thoughtfully applied textures result in surfaces that are spackled, 
+Kemp’s thoughtfully applied textures result in surfaces that are spackled, 
 gouged, and impressed with bite marks and crevices. These provide onlookers 
 with a moment of recognition and uneasy attraction, and incite the instinctual 
 need to understand through touch. The wrinkles and folds of his materials are 
 at once familiar and unidentifiable, and the sculptures, more akin to rolling 
 flesh, are haphazardly stacked or warped into impossible shapes. The 
-discomfort provoked by Kempâ€™s pieces seems to reveal the extent to which 
+discomfort provoked by Kemp’s pieces seems to reveal the extent to which 
 we are repelled by a close encounter with the organic or instinctual, being 
 more accustomed to the processed and aseptic.
 
@@ -36,7 +37,7 @@ Kemp, a graduate from Emily Carr University of Art + Design and winner of the
 Artist in Residence at the Port Moody Arts Centre. Kemp has assisted artists 
 such as David Robinson and Liz Magor, the latter for whom he helped develop 
 public artwork for the Surrey Museum and a recent exhibition at Catriona 
-Jeffries Gallery, among other projects. A number of Kempâ€™s works have joined 
+Jeffries Gallery, among other projects. A number of Kemp’s works have joined 
 the permanent collection at the Genesee Center for the Arts in Rochester, 
 New York, where he exhibited in 2013. He has participated in group and solo 
 shows throughout the Lower Mainland and in Montreal, and was a nominee for 

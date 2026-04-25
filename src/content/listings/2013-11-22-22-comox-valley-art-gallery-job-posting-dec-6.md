@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 22
 type: ""
+venue: "Comox Valley Art Gallery"
 summary: "Comox Valley Art Gallery | Job posting | DEC 6"
 ---
 

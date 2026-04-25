@@ -18,7 +18,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-02-16-04-ubc-2012-bfaba-real-art-real-music-real-times-feb-16">04. UBC 2012 BFA/BA | REAL ART | REAL MUSIC | REAL TIMES | FEB 16</a>
 <a href="/instant-coffee/listings/2012-02-16-05-dim-cinema-film-diary-john-price-feb-20">05. DIM Cinema | Film Diary: John Price | FEB 20</a>
 <a href="/instant-coffee/listings/2012-02-16-06-monte-clark-gallery-graham-gillmore-feb-23">06. MONTE CLARK GALLERY | GRAHAM GILLMORE | FEB 23</a>
-<a href="/instant-coffee/listings/2012-02-16-07-simon-fraser-university-aurlien-froment-feb-23">07. Simon Fraser University | AurÃ©lien FROMENT | FEB 23</a>
+<a href="/instant-coffee/listings/2012-02-16-07-simon-fraser-university-aurlien-froment-feb-23">07. Simon Fraser University | Aurélien FROMENT | FEB 23</a>
 <a href="/instant-coffee/listings/2012-02-16-08-artscape-gibraltar-point-a-thematic-residency-by-lucas-soi-f">08. Artscape Gibraltar Point | A Thematic Residency by Lucas Soi | FEB 24</a>
 <a href="/instant-coffee/listings/2012-02-16-09-vancouver-art-gallery-fuse-beat-nation-feb-24">09. VANCOUVER ART GALLERY | FUSE | Beat Nation | FEB 24</a>
 <a href="/instant-coffee/listings/2012-02-16-10-blim-blim-monthly-community-market-feb-26">10. Blim | Blim Monthly Community Market | FEB 26</a>
@@ -64,7 +64,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday Ã¢â‚¬â€œ Saturday 12 Ã¢â‚¬â€œ 5pm
+Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
 Admission Free
 
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ Old Growth Book Launch
 Michael Nicoll Yahgulanaas 
 
 Thursday February 16, 2012, 7-9pm 
-Rhizome CafÃ©
+Rhizome Café
 317 East Broadway, Vancouver
 
 Old Growth Michael Nicoll Yahgulanass
@@ -211,23 +211,23 @@ Monday February 20, 7:30pm
 Tickets $9/$10.50
 dimcinema.ca/ cinematheque.bc.ca 
 
-The gestures in John Priceâ€™s films â€” a hazy body in the throes of a 
+The gestures in John Price’s films — a hazy body in the throes of a 
 ragged dance, a child nestled in a blanket on a beach rock, or a 
-woman in a brown trench coat and high heals tweaking out â€” are not 
+woman in a brown trench coat and high heals tweaking out — are not 
 for us. They have no message, no promise, and no delivery. They are 
 the impressions of a man watching his life closely, intuitively following 
 each moment with a flickering shutter. Alone in the darkroom with 
 cheap expired reels and industry tail ends, Price mixes chance with 
 chemistry to work out tones, tints and grain. The images may fall off 
-altogether, but he doesnâ€™t care. The intimacy of the alchemical process 
-will still remain and he will remember it. The films presented in â€œFilm 
+altogether, but he doesn’t care. The intimacy of the alchemical process 
+will still remain and he will remember it. The films presented in “Film 
 Diaryâ€  touch central themes in Priceâ€™s archive: The City, The Family 
 and The Sea. After Eden (2000) and Nine + 20 (2001) are part urban 
 ethnography and part excavation: the journey of a traveler in search of 
 faith amidst a landscape of concrete and lost souls. Ten Thousand 
 Dreams (2004) marks the birth of Price's first child and his shift to 
 witnessing the the city and the landscape through his children's eyes. 
-Selections from his Sea Series #1- 10 (2008-2011) map Priceâ€™s 
+Selections from his Sea Series #1- 10 (2008-2011) map Price’s 
 children locating their footing along the shores, spits, and bays of the 
 Great Lakes chain.
 
@@ -251,7 +251,7 @@ Sea Series #5 Georgian Bay: a survey of littoral recreation, 35mm,
 Sea Series #8 Landfall at Lilliput, 35mm, 4min, 2010
 Gun/Play, 35mm, 8:45min, 2006
 The Sounding Lines are Obsolete, 16mm, 10min 2009
-Sea Series #6 Landfall at MÃ©tis-sur-Mer, 35mm, 4min, 2010
+Sea Series #6 Landfall at Métis-sur-Mer, 35mm, 4min, 2010
 
 Total running time: 82min
 
@@ -259,7 +259,7 @@ __________________
 
 Amy Kazymerchyk
 Associate Programmer: DIM Cinema
-Pacific CinÃ©mathÃ¨que
+Pacific Cinémathèque
 cinematheque.bc.ca
 dimcinema.ca
 
@@ -269,9 +269,9 @@ dimcinema.ca
 GRAHAM GILLMORE
 WILLING TO LEARN
 
-February 23 â€“ March 24, 2012
+February 23 – March 24, 2012
 
-Opening reception: Thursday February 23, 6pm â€“ 8pm, artist in 
+Opening reception: Thursday February 23, 6pm – 8pm, artist in 
 attendance.
 
 Through his visual use of language, Graham Gillmore shows us that
@@ -281,7 +281,7 @@ incorporated in these works examines conflicting sources of knowledge:
 science and religion, as well as personal and universal human
 experiences.
 
-Renowned for his large text-based panel paintings, Gillmoreâ€™s new
+Renowned for his large text-based panel paintings, Gillmore’s new
 works examine the deconstruction and cognition of language and 
 meaning
 not only in panel works but through paintings on canvas and paper as
@@ -293,16 +293,16 @@ Vancouver, BC V6H 3G4
 www.monteclarkgallery.com
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-02-16-07-simon-fraser-university-aurlien-froment-feb-23">07. Simon Fraser University | AurÃ©lien FROMENT | FEB 23</a>
+<a href="/instant-coffee/listings/2012-02-16-07-simon-fraser-university-aurlien-froment-feb-23">07. Simon Fraser University | Aurélien FROMENT | FEB 23</a>
 ------------------------------------------------------------------------
 
 
-VISITING ARTIST TALK: AURÃ‰LIEN FROMENT
+VISITING ARTIST TALK: AURÉLIEN FROMENT
 
 Thursday, February 23, 2012 
 1:00 pm Studio D at SFU Woodward's
 
-As a multidisciplinary visual artist, the works of AurÃ©lien Froment take 
+As a multidisciplinary visual artist, the works of Aurélien Froment take 
 the form of video, performance, installation, photography, and 
 publication. He has worked with mnemonics, puzzles, gesture, 
 semantics, word play, and tricks to explore issues of memory, 
@@ -311,7 +311,7 @@ words. In recent work, he has focused on the nature of presentation
 and audience expectation to create a new dialogue between people, 
 places, and objects.
 
-AurÃ©lien Froment was born in Angers in 1976. Between 1995 and 
+Aurélien Froment was born in Angers in 1976. Between 1995 and 
 2000, he studied at ERBA in Nantes, while applying for a professional 
 projectionist certificate. Training at both places gave him the chance to 
 explore the components and peripheral elements of the 
@@ -321,13 +321,13 @@ films, publications and performances. Solo presentations were realised
 with several organisations in recent years, including Les Laboratoires 
 d'Aubervilliers, Project Arts Centre, FRAC Champagne-Ardenne, Palais 
 de Tokyo, Centro Cultural Montehermoso, Gasworks, Wattis, Stuk, 
-Centre Culturel FranÃ§ais de Milan, Le Credac, MusÃ©e dâ€™art 
+Centre Culturel Français de Milan, Le Credac, Musée d’art 
 contemporain de Rochechouart and Pavilion. His work has been 
 presented in group exhibitions including Tate Britain, Nam June Paik 
 Centre, Basel Kunsthalle, Mudam, Centre Pompidou, Gwangju Biennale 
 Sculpture Centre and Lyon Biennale.
 
-AurÃ©lien Froment
+Aurélien Froment
 
 As a multidisciplinary visual artist, the works of Aurelien Froment take 
 the form of video, performance, installation, photography, and 
@@ -338,7 +338,7 @@ words. In recent work, he has focused on the nature of presentation
 and audience expectation to create a new dialogue between people, 
 places, and objects.
 
-AurÃ©lien Froment was born in Angers in 1976. Between 1995 and 
+Aurélien Froment was born in Angers in 1976. Between 1995 and 
 2000, he studied at ERBA in Nantes, while applying for a professional 
 projectionist certificate. Training at both places gave him the chance to 
 explore the components and peripheral elements of the 
@@ -348,7 +348,7 @@ films, publications and performances. Solo presentations were realised
 with several organisations in recent years, including Les Laboratoires 
 d'Aubervilliers, Project Arts Centre, FRAC Champagne-Ardenne, Palais 
 de Tokyo, Centro Cultural Montehermoso, Gasworks, Wattis, Stuk, 
-Centre Culturel FranÃ§ais de Milan, Le Credac, MusÃ©e dâ€™art 
+Centre Culturel Français de Milan, Le Credac, Musée d’art 
 contemporain de Rochechouart and Pavilion. His work has been 
 presented in group exhibitions including Tate Britain, Nam June Paik 
 Centre, Basel Kunsthalle, Mudam, Centre Pompidou, Gwangju Biennale 
@@ -375,7 +375,7 @@ A Thematic Residency by Lucas Soi
 Artscape Gibraltar Point
 Toronto Island, Ontario
 
-Program Dates: July 7 â€“ 19, 2012
+Program Dates: July 7 – 19, 2012
 Application Deadline: February 24, 2012 
 Cost: $550 CDN + HST
 
@@ -419,10 +419,10 @@ or contact@soifischer.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-02-16-09-vancouver-art-gallery-fuse-beat-nation-feb-24">09. VANCOUVER ART GALLERY | FUSE | Beat Nation | FEB 24</a>
 ------------------------------------------------------------------------
-Join the Beat Nation at Vancouver Art Galleryâ€™s FUSE 
+Join the Beat Nation at Vancouver Art Gallery’s FUSE 
 Friday, February 24th, 2012
 
-VANCOUVER, BC â€“ Join the beat on Friday, February 24th as the 
+VANCOUVER, BC – Join the beat on Friday, February 24th as the 
 Vancouver Art Gallery brings the latest edition of FUSE to the city. This 
 hip hop-inspired event will feature a mashup of performance, music, 
 dance and art in the galleries in celebration of the opening of Beat 
@@ -431,14 +431,14 @@ Nation: Art, Hip Hop and Aboriginal Culture.
 FUSE: BEAT NATION takes place from 8:30pm to 1am. Performers 
 include:
 
-Jackson 2Bears: this Victoria-based Kanienâ€™kehaka (Mohawk) artist and 
+Jackson 2Bears: this Victoria-based Kanien’kehaka (Mohawk) artist and 
 DJ brings music and visuals to his Gallery performance;
 Bear Witness: award-winning multimedia artist and filmmaker Bear 
 Witness brings his DJ skills to FUSE;
-A Tribe Called Red: this DJ collectiveâ€™s signature dubstep re-mixes of 
-native American drum circles have been called â€œthe most exciting music 
+A Tribe Called Red: this DJ collective’s signature dubstep re-mixes of 
+native American drum circles have been called “the most exciting music 
 in Indian Countryâ€ ;
-Dedos: recognized as one of Canadaâ€™s graffiti/b-boy pioneers, this 
+Dedos: recognized as one of Canada’s graffiti/b-boy pioneers, this 
 Juno Award-winning artist brings his dance style to the Gallery;
 Silver Jackson (Nicholas Galanin): showing another side of his artistic 
 expression, Tlingit/Aleut multimedia artist Galanin picks up his guitar 
@@ -478,13 +478,13 @@ limited to crafts, and there will be a focus on nurturing and promoting
 creative production in our community. We want to appeal to young, old, 
 hip, plain, babies, animals, men, women, everyone.
 We are very excited about this event and what it can contribute to 
-Mount Pleasantâ€™s artistic vitality, and how it can help support and 
+Mount Pleasant’s artistic vitality, and how it can help support and 
 encourage the local creative community.
 February 26 Market will feature:
 Blim 
 Gypsy Wolf
 Open Sesame 
-Farmerâ€™s Daughter 
+Farmer’s Daughter 
 Sassy Vintage 
 Cute Cards 
 Army of Rokosz 
@@ -596,21 +596,21 @@ job.
 
 Desired/Required Skills:
 
-â€¢ Understanding of Social Media platforms for marketing purposes
+• Understanding of Social Media platforms for marketing purposes
 
-â€¢ Proficiency with Photoshop for design of marketing kits
+• Proficiency with Photoshop for design of marketing kits
 
-â€¢ Knowledge of contemporary art
+• Knowledge of contemporary art
 
 (preferably some educational or professional experience)
 
-â€¢ Strong written and interpersonal skills
+• Strong written and interpersonal skills
 
-â€¢ Fluency in written and spoken English
+• Fluency in written and spoken English
 
-â€¢ Some French an asset
+• Some French an asset
 
-â€¢ Positive and energetic personality with enthusiasm for the gallery and 
+• Positive and energetic personality with enthusiasm for the gallery and 
 its potential
 
 How to Apply:
@@ -663,7 +663,7 @@ explore and think differently about creativity and how it shapes our
 world. Located in beautiful and culturally rich Vancouver, British 
 Columbia, Emily Carr attracts more than 1800 students from 60 
 countries to our undergraduate and graduate programs. 
-Letters of application should address the candidateâ€™s expertise in the 
+Letters of application should address the candidate’s expertise in the 
 areas of teaching, pedagogical philosophy, current research, 
 professional work and community service. The applicant should include 
 a current curriculum vitae and supporting material including a CD or 
@@ -714,7 +714,7 @@ of energetic chromatic play.
 Merging the Colour Field with glimmers of Impressionism, Full Spectrum 
 revels in the illusionistic and material potential of paint. Kubis promotes 
 the sheer pleasure of creating idiosyncratic pictures that arouse the 
-eye â€“ in an age of anxiety she encourages engaged looking. For Kubis, 
+eye – in an age of anxiety she encourages engaged looking. For Kubis, 
 aesthetic engagement has the potential to change how we perceive the 
 world; in â€œFull Spectrumâ€  Kubis pursues well-being in painted form.
 Anda Kubis studied at Ontario College of Art and Design University 
@@ -730,7 +730,7 @@ To deepen her understanding of contemporary art practice Anda has
 curated many exhibitions and run experimental art galleries. Her 
 curatorial projects include Red Carpet and Superplastic for Drabinsky 
 Gallery, Self Help at Mercer Union and Alias, Alibi for Free Parking 
-Gallery. Andaâ€™s projects reflect upon the relevance of art practice in a 
+Gallery. Anda’s projects reflect upon the relevance of art practice in a 
 consumer driven, media dominated society. She is represented by 
 Elissa Cristall Gallery in Vancouver, Newzones in Calgary, Drabinsky 
 Gallery in Toronto and Tapper-Popermajer Contemporary in Sweden.
@@ -814,7 +814,7 @@ inception in 1985, the FRANKLIN FURNACE FUND has boosted the
 careers of such emerging artists as Tanya Barfield, Patty Chang, Papo 
 Colo, Brody Condon, Karen Finley, John Fleck, Kate Gilmore, Murray 
 Hill, Holly Hughes, Mouchette, Pope.L, Pamela Sneed, Jack Waters, 
-Cathy Weis, and Ricardo Miranda ZuÃ±iga.
+Cathy Weis, and Ricardo Miranda Zuñiga.
 
 Deadline: April 1, 2012
 

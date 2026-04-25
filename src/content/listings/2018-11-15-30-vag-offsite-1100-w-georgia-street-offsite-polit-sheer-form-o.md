@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 30
 type: "OPENING"
+venue: "VAG offsite - 1100 W Georgia Street"
 summary: "VAG offsite - 1100 W Georgia Street | Offsite: Polit-Sheer-Form Office | 530-7PM | NOV 22"
 ---
 

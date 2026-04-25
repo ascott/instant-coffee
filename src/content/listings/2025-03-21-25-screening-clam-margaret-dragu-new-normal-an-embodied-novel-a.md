@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | C.L.A.M. | Margaret Dragu, New Normal: an embodied novel | APR 3"
 ---
 

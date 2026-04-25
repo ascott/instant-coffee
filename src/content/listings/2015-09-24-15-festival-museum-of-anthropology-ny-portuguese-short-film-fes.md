@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 15
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Museum of Anthropology | NY Portuguese Short Film Festiva | OCT 10"
 ---
 

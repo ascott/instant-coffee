@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 1
 type: "CALL"
+venue: "Caetani Cultural Centre"
 summary: "Caetani Cultural Centre | Self-Directed Artist in Residence (Vernon, BC)"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 3
 type: ""
+venue: "Blessing Stick"
 summary: "Blessing Stick | WINTER BEACH TOUR | PROPHECY SUN @ BOWEN ISLAND | MAR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 10
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema at The Cinematheque | Corin Sworn: The Spectre of Breath | SEP 5"
 ---
 

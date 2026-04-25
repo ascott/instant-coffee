@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 7
 type: "TALK"
+venue: "Libby Leshgold"
 summary: "Libby Leshgold | talk with Vancouver-based artist Cornelia Wyngaar | JAN 20"
 ---
 

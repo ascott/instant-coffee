@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 11
 type: "EVENT"
+venue: "Gallery 44"
 summary: "Gallery 44 | ONLINE WORKSHOP Living Images | MAR 19"
 ---
 

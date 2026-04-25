@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 33
 type: "TALK"
+venue: "NWCF @ ECU"
 summary: "NWCF @ ECU | Allan Collier: BC Pottery 1920 - 1950 | MAR 31"
 ---
 

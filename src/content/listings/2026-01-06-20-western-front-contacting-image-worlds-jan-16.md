@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 20
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | Contacting Image Worlds | JAN 16"
 ---
 

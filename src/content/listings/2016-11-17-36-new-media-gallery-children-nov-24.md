@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 36
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | CHILDREN | NOV 24"
 ---
 

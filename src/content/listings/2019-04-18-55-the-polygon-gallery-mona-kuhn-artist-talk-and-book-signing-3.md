@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 55
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Mona Kuhn: Artist Talk and Book Signing | 3-5PM | APR 28"
 ---
 

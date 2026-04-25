@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 14
 type: "TALK"
+venue: "AHVA at UBC"
 summary: "AHVA at UBC | Godfrey Leung | Yasunan Tone's CD Player Composition | MAR 28"
 ---
 

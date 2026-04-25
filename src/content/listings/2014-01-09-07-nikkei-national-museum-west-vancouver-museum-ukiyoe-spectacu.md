@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 7
 type: ""
+venue: "Nikkei National Museum & West Vancouver Museum"
 summary: "Nikkei National Museum & West Vancouver Museum | Ukiyoe Spectacular: Japanese woodblock prints | JAN 11"
 ---
 
@@ -25,7 +26,7 @@ Vancouver Museum and the Nikkei National Museum. This is a rare
 opportunity to see unusual works by internationally renowned artists, 
 such as Kuniyoshi, Yoshifuji and Hiroshige, among many others. 
 Curated by ukiyo-e scholar Inagaki Shinichi and West Vancouver 
-Museumâ€™s Kiriko Watanabe, Ukiyoe Spectacular reveals compelling 
+Museum’s Kiriko Watanabe, Ukiyoe Spectacular reveals compelling 
 images of the supernatural and epic myths, as well as portraits of 
 courageous samurai and historical events. 
 

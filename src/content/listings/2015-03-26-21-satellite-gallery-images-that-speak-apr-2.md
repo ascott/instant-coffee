@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 21
 type: "OPENING"
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Images that Speak | APR 2"
 ---
 
@@ -35,10 +36,10 @@ realism. Responding in part to the ubiquity of digital images, some of the
 artists forfeit cameras altogether and take inspiration from early
 modernist photographers such as Man Ray.
 Ryan Foerster exposes photo-sensitive paper to the natural elements and
-Ryan Peterâ€™s photograms integrate drawing and painting while Eileen
-Quinlanâ€™s abstractions and Michelle Abelesâ€™ collaged mash-ups come from
+Ryan Peter’s photograms integrate drawing and painting while Eileen
+Quinlan’s abstractions and Michelle Abeles’ collaged mash-ups come from
 analogue darkroom processes. A spirit of reinvention informs Susanne
-Kriemannâ€™s archive works and Matt Saunders unorthodox treatments of
+Kriemann’s archive works and Matt Saunders unorthodox treatments of
 photographic negatives. Together, the works in Images That Speak offer
 provocative insights into the limits of photography, and its fundamental
 richness.

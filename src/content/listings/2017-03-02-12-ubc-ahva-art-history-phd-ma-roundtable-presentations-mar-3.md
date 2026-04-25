@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 12
 type: "TALK"
+venue: "UBC AHVA"
 summary: "UBC AHVA | Art History PhD + MA Roundtable Presentations | MAR 3"
 ---
 

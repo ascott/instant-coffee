@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 24
 type: "CALL"
+venue: "Journal of Art, Media and Visual Culture"
 summary: "Journal of Art, Media and Visual Culture | FRICTION | JUN 1"
 ---
 

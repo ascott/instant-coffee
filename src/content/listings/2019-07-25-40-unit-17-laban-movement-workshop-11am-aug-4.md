@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 40
 type: "EDUCATION"
+venue: "Unit 17"
 summary: "Unit 17 | Laban Movement Workshop | 11AM | AUG 4"
 ---
 

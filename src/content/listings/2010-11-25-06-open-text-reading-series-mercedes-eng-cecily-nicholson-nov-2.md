@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 6
 type: ""
+venue: "OPEN TEXT READING SERIES"
 summary: "OPEN TEXT READING SERIES | MERCEDES ENG & CECILY NICHOLSON | NOV 25"
 ---
 

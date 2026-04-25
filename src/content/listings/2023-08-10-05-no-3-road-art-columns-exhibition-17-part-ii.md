@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "No. 3 Road Art Columns"
 summary: "No. 3 Road Art Columns | Exhibition 17, Part II"
 ---
 

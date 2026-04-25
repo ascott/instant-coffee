@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 21
 type: "CALL"
+venue: "TransLink"
 summary: "TransLink | SeaBus Curator of Indigenous Art RFP | SEP 11"
 ---
 

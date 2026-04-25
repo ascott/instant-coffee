@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 10
 type: "CALL"
+venue: "Art-A-Porter"
 summary: "Art-A-Porter | OPEN CALL - WEARABLE ART | OCT 2"
 ---
 

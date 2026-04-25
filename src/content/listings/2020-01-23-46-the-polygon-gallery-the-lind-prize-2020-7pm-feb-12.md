@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 46
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | THE LIND PRIZE 2020 | 7PM | FEB 12"
 ---
 

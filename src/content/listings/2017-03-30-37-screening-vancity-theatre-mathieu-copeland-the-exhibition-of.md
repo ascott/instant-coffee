@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 37
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Vancity Theatre | Mathieu Copeland | the exhibition of a film | APR 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 6
 type: "TALK"
+venue: "Langara Centre for Art in Public Spaces"
 summary: "Langara Centre for Art in Public Spaces | Speakers Series: Francisco Camacho | OCT 11"
 ---
 
@@ -63,8 +64,8 @@ funding.
 
 Jesse McKee is the outgoing exhibitions curator at the Western Front in 
 Vancouver. There he developed commissions and organized solo exhibitions 
-with artists such as Eli Bornowsky (Vancouver), Sophie BÃ©lair ClÃ©ment 
-(Montreal), and NeÃ¯l Beloufa (Paris), among others. He is taking tenure at the 
+with artists such as Eli Bornowsky (Vancouver), Sophie Bélair Clément 
+(Montreal), and Neïl Beloufa (Paris), among others. He is taking tenure at the 
 Banff Centre as the curator of the Walter Phillips Gallery as of November 2011. 
 Previously he was a public programs curator at the Barbican Art Gallery, 
 London, where he developed education programs and live events for exhibitions 
@@ -73,5 +74,5 @@ Architecture for a Changing Planet 1969-2009. He was a guest curator at Gallery
 101, Ottawa, in 2011, where he organized the exhibition Well Formed Data, 
 which included work by Susan Hiller (UK/USA), Patricia Esquivias (VE) and 
 Falke Pisano (NL), among others. In autumn 2012 he will be curating a film 
-program for the CinÃ©mathÃ¨que quÃ©bÃ©coise in Montreal. He studied at the Royal 
+program for the Cinémathèque québécoise in Montreal. He studied at the Royal 
 College of Art, London, on the MA Curating Contemporary Art.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 8
 type: ""
+venue: "DIM Cinema at the Pacific Cinematheque"
 summary: "DIM Cinema at the Pacific Cinematheque | Barry Doupe | DEC 10"
 ---
 
@@ -15,14 +16,14 @@ Tix: $10.50/$9 + $3 membership
 http://www.dimcinema.ca
 
 DIRECTOR BARRY DOUPÃ‰ IN ATTENDANCE! ► In The Colors that 
-Combine to Make White are Important, Vancouver animator Barry DoupÃ© 
+Combine to Make White are Important, Vancouver animator Barry Doupé 
 explores the power structure within a failing Japanese glass factory. Two 
-parallel storylines â€” one involving the investigation of a suspect employee, 
-the other a stolen painting â€” converge in an exposition on gender and desire. 
-DoupÃ©â€™s computer-animated film has its characters rapidly evolve through 
+parallel storylines — one involving the investigation of a suspect employee, 
+the other a stolen painting — converge in an exposition on gender and desire. 
+Doupé’s computer-animated film has its characters rapidly evolve through 
 three distinct acts, while subverting the dominant archetypes in the Japanese 
 salaryman genre. The hierarchical relationship between boss and employees 
-is undone to examine language, art, and expression. DoupÃ©â€™s characters are 
+is undone to examine language, art, and expression. Doupé’s characters are 
 looking for something only to be found through a crisis of feeling, a shaking up 
 of the human world. The film peeks into another, formerly invisible world, one 
 which wants to know the meaning of the body, the meaning of attraction. 
@@ -33,7 +34,7 @@ points, flattening them out into a dialogue of desperate, over-reaching
 thoughts and searching inquiries about nature, love, mortality, and 
 consciousness. Colour, computer animation/ SD video. 119mins.
 
-Barry DoupÃ©, born 1982 in Victoria, B.C., is a Vancouver-based artist 
+Barry Doupé, born 1982 in Victoria, B.C., is a Vancouver-based artist 
 primarily working with computer animation. He graduated from Emily Carr 
 University in 2004 with a Bachelor of Media Arts majoring in animation. His 
 films have been screened at various venues across Canada and around the 

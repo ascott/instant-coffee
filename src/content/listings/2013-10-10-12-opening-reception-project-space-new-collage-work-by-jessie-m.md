@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 12
 type: ""
+venue: "Opening Reception & Project Space"
 summary: "Opening Reception & Project Space | New collage work by Jessie McNeil | OCT 19"
 ---
 

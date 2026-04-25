@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 3
 type: "TALK"
+venue: "grunt @ Native Education College"
 summary: "grunt @ Native Education College | Spark feat. Larissa Healey | MAR 17"
 ---
 

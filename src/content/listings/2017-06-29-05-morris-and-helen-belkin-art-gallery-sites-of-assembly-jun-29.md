@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 5
 type: "OPENING"
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Sites of Assembly | JUN 29"
 ---
 

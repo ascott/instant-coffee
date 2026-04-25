@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 4
 type: "CALL"
+venue: "Similkameen Artist Residency"
 summary: "Similkameen Artist Residency | call for applications"
 ---
 

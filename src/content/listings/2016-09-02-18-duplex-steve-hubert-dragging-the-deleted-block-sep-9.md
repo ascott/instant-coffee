@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 18
 type: "OPENING"
+venue: "Duplex"
 summary: "Duplex | Steve Hubert: Dragging the Deleted Block.... | SEP 9"
 ---
 

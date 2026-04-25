@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 18
 type: "CALL"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Submission: Open Call Geometry of Knowing Part 4 | JAN 28"
 ---
 

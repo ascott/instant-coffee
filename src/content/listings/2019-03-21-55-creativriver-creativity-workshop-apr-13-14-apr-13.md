@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 55
 type: "EDUCATION"
+venue: "Creativriver"
 summary: "Creativriver | Creativity Workshop | APR 13-14 | APR 13"
 ---
 

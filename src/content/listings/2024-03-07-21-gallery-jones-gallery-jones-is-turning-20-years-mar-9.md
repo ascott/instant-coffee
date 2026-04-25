@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 21
 type: ""
+venue: "Gallery Jones"
 summary: "Gallery Jones | Gallery Jones is turning 20 years | MAR 9"
 ---
 

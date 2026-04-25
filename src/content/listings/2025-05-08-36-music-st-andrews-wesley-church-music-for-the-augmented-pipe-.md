@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 36
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | St. Andrew's-Wesley Church | Music for the Augmented Pipe Organ | 7PM | JUN 2"
 ---
 

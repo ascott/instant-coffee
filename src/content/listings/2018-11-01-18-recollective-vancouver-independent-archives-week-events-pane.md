@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 18
 type: "EVENT"
+venue: "Recollective: Vancouver Independent Archives Week"
 summary: "Recollective: Vancouver Independent Archives Week | events panels conversations screenings NOV 2-13 | NOV 2"
 ---
 

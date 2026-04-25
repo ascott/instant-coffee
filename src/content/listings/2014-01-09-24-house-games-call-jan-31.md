@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 24
 type: ""
+venue: "House Games"
 summary: "House Games | call | JAN 31"
 ---
 

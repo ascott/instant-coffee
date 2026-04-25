@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 33
 type: "CALL"
+venue: "School of Machines, Making & Make-Believe'"
 summary: "School of Machines, Making & Make-Believe' | Applications Open | APR 20"
 ---
 
@@ -19,7 +20,7 @@ the summer, we'll also explore public intervention led by talented guest
 artists and instructors form around the globe, plus much more! Join us and
 come spend your summer in Berlin!
 
-Early bird price of â‚¬3999* (incl. VAT), ends April 20th.
+Early bird price of €3999* (incl. VAT), ends April 20th.
 
 For more information, see the program here: http://schoolofma.org/programs/
 Questions? Please get in touch: info[at]schoolofma.org

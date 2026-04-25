@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 24
 type: "EDUCATION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Introductory Cyanotype Workshop | SEP 14"
 ---
 

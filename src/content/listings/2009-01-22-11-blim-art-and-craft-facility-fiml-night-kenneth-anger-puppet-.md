@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sorry if my dismissal seemed flipp
 emailDate: "Thu, 22 Jan 2009 12:05:21 -0800"
 number: 11
 type: ""
+venue: "Blim Art and Craft Facility"
 summary: "Blim Art and Craft Facility | fiml night: Kenneth Anger// Puppet Making Workshop | JAN 30"
 ---
 

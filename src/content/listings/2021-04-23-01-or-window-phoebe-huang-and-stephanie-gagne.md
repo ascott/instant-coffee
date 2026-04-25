@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Or Window"
 summary: "Or Window | Phoebe Huang and Stephanie Gagne"
 ---
 

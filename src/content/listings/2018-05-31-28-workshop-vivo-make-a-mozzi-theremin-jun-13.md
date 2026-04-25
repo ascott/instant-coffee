@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 28
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO | Make a Mozzi Theremin | JUN 13"
 ---
 

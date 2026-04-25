@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 38
 type: "TALK"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Kandis Williams | APR 14"
 ---
 

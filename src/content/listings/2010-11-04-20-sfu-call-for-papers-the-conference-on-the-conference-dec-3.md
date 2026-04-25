@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 20
 type: ""
+venue: "SFU"
 summary: "SFU | CALL for papers | THE CONFERENCE ON THE CONFERENCE | DEC 3"
 ---
 
@@ -60,7 +61,7 @@ Codification of the concept 'very'
 Institutional art
 Ideas of academic autonomy and healthy debate
 Conference as an art form (sometimes sublime and sometimes desultory)
-Conference paper clichÃ©s (i.e., saving grace, silver lining, take the good
+Conference paper clichés (i.e., saving grace, silver lining, take the good
 with the bad, don't throw out the baby with the bath-water)
 Is the want for more intimate intellectual exchange a naive romantic
 longing for simpler times of generating controversy and crisis within one's
@@ -69,7 +70,7 @@ The Greek symposium
 Poetics of the syllabus
 Eventalism
 Corporate/academic spectacles in The Eyes of the University
-"Eventalism, Ã‰vÃ©nement and 'the surprise of the event' (Nancy)"
+"Eventalism, Événement and 'the surprise of the event' (Nancy)"
 Staging a conference as a mere administrative exercise
 
 Submissions should include:

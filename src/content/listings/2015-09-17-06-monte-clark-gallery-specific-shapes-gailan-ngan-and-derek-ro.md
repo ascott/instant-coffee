@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 6
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Specific Shapes - Gailan Ngan and Derek Root | SEP 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Catalogue of Stitches | Fei Disbrow | Until Oct 10"
 ---
 

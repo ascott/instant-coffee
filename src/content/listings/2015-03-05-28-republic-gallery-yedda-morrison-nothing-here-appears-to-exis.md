@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 28
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Yedda Morrison - Nothing Here Appears to Exist... | MAR 19"
 ---
 

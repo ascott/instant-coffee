@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 11
 type: "EDUCATION"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | Elemental Banner Workshop | SEP 26"
 ---
 

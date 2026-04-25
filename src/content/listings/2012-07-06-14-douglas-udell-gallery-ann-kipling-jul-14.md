@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 14
 type: ""
+venue: "Douglas Udell Gallery"
 summary: "Douglas Udell Gallery | Ann Kipling | JUL 14"
 ---
 
@@ -17,12 +18,12 @@ Please join us for the opening of Drawing Place: Ann Kipling on
 Saturday, July 14,
 2-4pm. Artist talk and book signing at 3pm.
 
-Ann Kiplingâ€™s works on paper are noted for their tonal subtlety while 
+Ann Kipling’s works on paper are noted for their tonal subtlety while 
 depicting simple subjects with elaborate mark making that documents 
 continued shifts in time. With their sensitive register of time and 
 movement through a dynamic network of nervous lines, the drawings of 
 Ann Kipling vibrate with life and energy. In the words of Robin 
-Laurence, Kiplingâ€™s art is a â€œdirect, unmediated, almost electrical 
+Laurence, Kipling’s art is a “direct, unmediated, almost electrical 
 response to the plants, animals, and people that share her 
 environment.â€ 
 
@@ -32,7 +33,7 @@ was one of the three ever offered an honorary degree from Emily Carr
 University of Art and Design and was the recipient of a one-woman 
 exhibition at the Vancouver Art Gallery in 1995.
 
-This exhibition features a selection of works from Kiplingâ€™s recent 2011 
+This exhibition features a selection of works from Kipling’s recent 2011 
 solo exhibition at the Burnaby Art Gallery. Inspired by the hilled 
 landscape in and around her home in the British Columbia interior, the 
 works are as much about the process of drawing and perceiving as 

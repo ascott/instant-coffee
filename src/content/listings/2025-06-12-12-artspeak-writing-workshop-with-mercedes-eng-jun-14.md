@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Artspeak"
 summary: "Artspeak | Writing Workshop with Mercedes Eng | JUN 14"
 ---
 

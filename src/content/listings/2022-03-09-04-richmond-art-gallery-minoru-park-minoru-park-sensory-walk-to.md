@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 4
 type: "EVENT"
+venue: "Richmond Art Gallery & Minoru Park"
 summary: "Richmond Art Gallery & Minoru Park | Minoru Park Sensory Walk & Tour | 10AM | MAR 9"
 ---
 

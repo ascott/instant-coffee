@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 34
 type: "CALL"
+venue: "Cartems Donuts (Main St)"
 summary: "Cartems Donuts (Main St) | CAPTURE Photo Festival 2019 venue proposals | SEP 30"
 ---
 

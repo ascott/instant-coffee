@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "ie gallery"
 summary: "ie gallery | ECU | Sea Inside | FEB 10"
 ---
 
@@ -30,7 +31,7 @@ Marten Sims is a current candidate for MAA at Emily Carr University,
 freelance graphic designer and co-director of the Wake Project 
 Society, a grass-roots non-profit devoted to public education about the 
 importance of our oceans sharks and tuna. His current research project 
-â€˜Sea Insideâ€™ examines the need to transform peoples perspectives of 
+‘Sea Inside’ examines the need to transform peoples perspectives of 
 the state of the worlds ocean through creativity, the arts and culture.
 
 Originally from the UK, Marten received his BA (hons) in Graphic 
@@ -42,7 +43,7 @@ Some of his recent high profile branding projects include the
 rebranding and large format graphics of BC Place Stadium, and the 
 brand identity of provincial sports organisation Sport BC. In 2011, 
 Marten was the recipient of the IDEA Award for his photographic work 
-â€˜Darwinâ€™s Surfacesâ€™, which is currently featured in the Vancouver 
+‘Darwin’s Surfaces’, which is currently featured in the Vancouver 
 General Hospital waiting room.
 
 Created and Designed by Marten Sims
@@ -58,7 +59,7 @@ Maksim Bentsianov, Marten Sims, Mike Swallow, Peter Mcfarlane,
 Renee Sutton, Rianne Svelnis, Robin Pickell, Sandra Sabau, Sara 
 Ciantar, Sasha Mann, Sophie Shalbert, Stephanie Jonnson, Sogol 
 Assadbeigi, Tom Powell, Theunis Snyman, Vicky Bowes, Will Phongly, 
-Yasher Nijati, Zara Contractor and you â€“ the viewer, the participant.
+Yasher Nijati, Zara Contractor and you – the viewer, the participant.
 
 ie, gallery | Emily Carr University of Art + Design | 
 www.masters.ecuad.ca/iegallery

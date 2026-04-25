@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 13
 type: "PERFORMANCE"
+venue: "Franc Gallery"
 summary: "Franc Gallery | Suf(fix) Study No. 6 | MAY 5"
 ---
 

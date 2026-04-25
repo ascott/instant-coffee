@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 19
 type: "OPENING"
+venue: "Haunt"
 summary: "Haunt | Susanna Browne: I Need You | APR 10"
 ---
 

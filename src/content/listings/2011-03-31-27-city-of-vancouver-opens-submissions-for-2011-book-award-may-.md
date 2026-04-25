@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 27
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | opens submissions for 2011 Book Award | MAY 25"
 ---
 

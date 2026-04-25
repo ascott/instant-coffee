@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 27
 type: "CALL"
+venue: "UGM Rotating Gallery"
 summary: "UGM Rotating Gallery | Call for Submissions | MAY 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 13
 type: ""
+venue: "UBC AHVA"
 summary: "UBC AHVA | Tameka Norris | Ivy League Ratchet | JAN 17"
 ---
 

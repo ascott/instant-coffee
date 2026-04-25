@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 10
 type: ""
+venue: "Kamloops Art Gallery"
 summary: "Kamloops Art Gallery | An Era of Discontent: Art as Occupation | OCT 12"
 ---
 

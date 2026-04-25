@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 23
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Marian Penner Bancroft and Michael Morris | NOV 18"
 ---
 

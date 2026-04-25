@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 15
 type: "TALK"
+venue: "Wil Aballe"
 summary: "Wil Aballe | Alex Gibson + Christopher Lacroix | APR 4"
 ---
 

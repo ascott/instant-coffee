@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 51
 type: "EDUCATION"
+venue: "Dundarave Print"
 summary: "Dundarave Print | Introduction to Experimental Printmaking | APR 9"
 ---
 

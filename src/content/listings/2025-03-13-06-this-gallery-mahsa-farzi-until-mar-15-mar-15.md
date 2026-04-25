@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Mahsa Farzi | UNTIL MAR 15 | MAR 15"
 ---
 

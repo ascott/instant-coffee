@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 27
 type: ""
+venue: "LIVE 2013 8th EDITION"
 summary: "LIVE 2013 8th EDITION | 25+ ARTISTS | 5 DAYS | SEP 18"
 ---
 
 LIVE 2013
 
-THE 8th EDITION OF VANCOUVERâ€™S PERFORMANCE ART INVASION
+THE 8th EDITION OF VANCOUVER’S PERFORMANCE ART INVASION
 
-25+ ARTISTS | 5 DAYS | SEPT 18â€“22
+25+ ARTISTS | 5 DAYS | SEPT 18–22
 
 LIVE International Performance Art Biennale announces an invasion of artists 
 from here and around the world. LIVE 2013 is the eighth biennial edition of 
-Vancouverâ€™s renowned international performance art celebration dedicated to 
+Vancouver’s renowned international performance art celebration dedicated to 
 commissioning and presenting new visual art performances in Canada.
 
 LIVE 2013 heats up over 5 consecutive nights from September 18 to 22, when 
@@ -28,29 +29,29 @@ edge performance art.
 PROGRAM HIGHLIGHTS
 
 LIVE is pleased to initiate an innovative new pedagogical program led by 
-renowned German artist and educator JÃ¼rgen Fritz, co-founder of Black 
+renowned German artist and educator Jürgen Fritz, co-founder of Black 
 Market International, International Performance Association, and the Festival 
 Platform for Young Performance Artists. From September 14 to 17, Fritz will 
-be facilitating â€˜Exploring Performance Artâ€™, an intensive four-day pre-festival 
-workshop from 10AM â€“ 5PM, hosted by VIVO Media Arts.
+be facilitating ‘Exploring Performance Art’, an intensive four-day pre-festival 
+workshop from 10AM – 5PM, hosted by VIVO Media Arts.
 
-LIVE 2013 closes with the North American Premiere of â€˜Marcel Duchampâ€™, a 
-new play by French curator and critic Guillaume DÃ©sanges and FrÃ©dÃ©ric 
+LIVE 2013 closes with the North American Premiere of ‘Marcel Duchamp’, a 
+new play by French curator and critic Guillaume Désanges and Frédéric 
 Cherboeuf. Presented at the Fei & Milton Wong Experimental Theatre SFU 
-Woodwards, â€˜Marcel Duchampâ€™ is co-produced by the LIVE Performance Art 
-Biennale and SFU Woodwardâ€™s with the generous support of the Consulat 
+Woodwards, ‘Marcel Duchamp’ is co-produced by the LIVE Performance Art 
+Biennale and SFU Woodward’s with the generous support of the Consulat 
 general de France a Vancouver. Sunday September 23, 7:30. Tickets $20/$25 
-available on-line through the SFU Woodwards Box Office. Donâ€™t miss it.
+available on-line through the SFU Woodwards Box Office. Don’t miss it.
 
-Guillaume DÃ©sanges is also presenting a free public lecture on Monday 
+Guillaume Désanges is also presenting a free public lecture on Monday 
 September 23 at The Western Front. His artist talk is supported by the LIVE 
 Performance Art Biennale & the Morris and Helen Belkin Art Gallery.
 
-LIVE 2013â€™s nightly line-up starts at 8 PM at our main venue, VIVO Media 
+LIVE 2013’s nightly line-up starts at 8 PM at our main venue, VIVO Media 
 Arts at 1965 Main St. Evening admission is only $10/$5.
 
 Durational and site-specific performance actions will be happening daily 
-throughout Vancouverâ€™s downtown core. Go to livebiennale.ca and friend us on 
+throughout Vancouver’s downtown core. Go to livebiennale.ca and friend us on 
 facebook for details, times and locations.
 
 The Dunlevy Snack Bar at 433 Dunlevy Ave. will host informal lunch talks and 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 6
 type: "EVENT"
+venue: "ECU"
 summary: "ECU | Indigenous moving image art | 530PM | APR 11"
 ---
 

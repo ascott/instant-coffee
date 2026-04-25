@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: our songs are better"
 emailDate: "Thu, 24 Sep 2009 09:00:25 -0700"
 number: 11
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Four Exhibitions | SEP 26"
 ---
 

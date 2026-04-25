@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 24
 type: "EXHIBITION"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | What We Bring With Us | JAN 29"
 ---
 

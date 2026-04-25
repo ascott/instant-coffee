@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 2
 type: ""
+venue: "ECU: On Edge readings"
 summary: "ECU: On Edge readings | Adrienne Fitzpatrick + Veena Gokhale | FEB 27"
 ---
 
@@ -31,11 +32,11 @@ BC.
 Veena Gokhale has published fiction and poetry in literary journals and 
 anthologies, read from her work, and received writing grants since 1993. 
 Guernica Editions published her first collection, Bombay Wali and Other 
-Stories, in 2013. Mark Frutkin says of Bombay Wali, â€œâ€¦These are rich 
+Stories, in 2013. Mark Frutkin says of Bombay Wali, “…These are rich 
 stories, well-imagined, deeply felt." Starting her career as a journalist in 
 Bombay, Gokhale first came to Canada on a journalism fellowship in 1990. 
 She eventually immigrated to Canada, completed a Masters, and worked for 
-non-profit organizations. She received a grant from VivacitÃ© MontrÃ©al, 
+non-profit organizations. She received a grant from Vivacité Montréal, 
 Quebec Arts Council, for her first novel whose working title is Simply There 
 To Help. http://www.veenago.com/story
 

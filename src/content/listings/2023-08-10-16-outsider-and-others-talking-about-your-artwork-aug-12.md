@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 16
 type: "EDUCATION"
+venue: "Outsider and Others"
 summary: "Outsider and Others | Talking About Your Artwork | AUG 12"
 ---
 

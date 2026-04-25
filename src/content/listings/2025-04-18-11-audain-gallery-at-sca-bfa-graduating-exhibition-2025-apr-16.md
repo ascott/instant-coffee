@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "Audain Gallery at SCA"
 summary: "Audain Gallery at SCA | BFA Graduating Exhibition 2025 | APR 16"
 ---
 

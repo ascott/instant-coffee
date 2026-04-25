@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 17
 type: "TALK"
+venue: "SFU Gallery"
 summary: "SFU Gallery | Froot Zalad - Exhibition Tour | APR 11"
 ---
 
@@ -17,9 +18,9 @@ Saturday, April 11, 2pm
 Opening Reception
 Wednesday, April 15, 7pm
 
-Featuring work by StÃ©phane Bernard, Alex Hill, Jasmine Huang, Brennan
+Featuring work by Stéphane Bernard, Alex Hill, Jasmine Huang, Brennan
 Kelly, Jasmine Kwong, Adrianna Lademann, Lauren Lavery, Anchi Lin,
-Stephanie Ng, Cydney Paddon, Jocelyn SÃ¡nchez, Ariel So, Wan Hang Tsang,
+Stephanie Ng, Cydney Paddon, Jocelyn Sánchez, Ariel So, Wan Hang Tsang,
 Larisa Volkova, Betsy Wen, Cory Woodcock, Angela Yan and Michelle Zhang.
 
 What To Say If Someone Asks: "Why Froot Zalad ?"

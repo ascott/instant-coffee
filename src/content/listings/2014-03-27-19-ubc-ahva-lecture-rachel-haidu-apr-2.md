@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 19
 type: ""
+venue: "UBC"
 summary: "UBC | AHVA | Lecture: Rachel Haidu | APR 2"
 ---
 
@@ -12,7 +13,7 @@ Department of Art History, Visual Art & Theory, University of British
 Columbia
 
 Rachel Haidu
-â€œGetting Past Difference: Black Audio Film Collective, James 
+“Getting Past Difference: Black Audio Film Collective, James 
 Coleman, Steve McQueenâ€ 
 
 Wednesday, April 2, 2014
@@ -48,6 +49,6 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003

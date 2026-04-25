@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "WAAP"
 summary: "WAAP | Group show THE BEST EXAMPLE IS ALL TOGETHER | DEC 10"
 ---
 

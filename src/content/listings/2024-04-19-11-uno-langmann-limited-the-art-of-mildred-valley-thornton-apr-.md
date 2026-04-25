@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "Uno Langmann Limited"
 summary: "Uno Langmann Limited | THE ART OF MILDRED VALLEY THORNTON | APR 13"
 ---
 

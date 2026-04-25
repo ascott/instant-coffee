@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 9
 type: "EXHIBITION"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Response: Our Land Narrative | MAR 10"
 ---
 

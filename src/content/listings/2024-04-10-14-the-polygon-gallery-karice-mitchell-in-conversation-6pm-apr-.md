@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 14
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Karice Mitchell in Conversation | 6PM | APR 11"
 ---
 

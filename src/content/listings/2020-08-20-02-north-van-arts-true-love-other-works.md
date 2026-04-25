@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "North Van Arts"
 summary: "North Van Arts | True Love & Other Works"
 ---
 

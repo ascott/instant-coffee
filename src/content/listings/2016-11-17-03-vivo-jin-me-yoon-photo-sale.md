@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 3
 type: "FUNDRAISER"
+venue: "VIVO"
 summary: "VIVO | Jin-me Yoon Photo Sale"
 ---
 

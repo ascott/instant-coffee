@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 59
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Young creators art camp | JUL 2- 5 | JUL 2"
 ---
 

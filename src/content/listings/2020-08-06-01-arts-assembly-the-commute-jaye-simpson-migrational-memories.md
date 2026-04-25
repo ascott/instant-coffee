@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Arts Assembly"
 summary: "Arts Assembly | the commute: jaye simpson | Migrational Memories"
 ---
 

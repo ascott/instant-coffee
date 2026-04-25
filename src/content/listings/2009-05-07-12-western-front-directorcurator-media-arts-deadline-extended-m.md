@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: show us your jazz hands"
 emailDate: "Thu, 07 May 2009 09:10:15 -0700"
 number: 12
 type: ""
+venue: "Western Front"
 summary: "Western Front | Director/Curator, Media Arts | deadline extended | MAY 12"
 ---
 

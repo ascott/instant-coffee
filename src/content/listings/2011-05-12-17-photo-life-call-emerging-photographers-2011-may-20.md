@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 17
 type: ""
+venue: "Photo Life:"
 summary: "Photo Life: | CALL: EMERGING PHOTOGRAPHERS 2011 | MAY 20"
 ---
 
@@ -20,8 +21,8 @@ Winning photographers will be judged on their ability to capture a true,
 uncompromised photographic vision as well as demonstrate an original and
 bold approach in their photography. From all submissions received, editors
 will select the most outstanding up-and-coming talents to showcase in Photo
-Lifeâ€™s August/September issue as well as in the Photo Life Emerging
-Photographerâ€™s on-line gallery.
+Life’s August/September issue as well as in the Photo Life Emerging
+Photographer’s on-line gallery.
 
 Photographers who wish to participate in the Photo Life Emerging
 photographers Competition are invited to send their submissions exclusively

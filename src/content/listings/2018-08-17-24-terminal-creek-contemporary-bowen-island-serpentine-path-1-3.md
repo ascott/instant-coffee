@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 24
 type: "OPENING"
+venue: "Terminal Creek Contemporary (Bowen Island)"
 summary: "Terminal Creek Contemporary (Bowen Island) | Serpentine Path | 1- 3PM | AUG 25"
 ---
 

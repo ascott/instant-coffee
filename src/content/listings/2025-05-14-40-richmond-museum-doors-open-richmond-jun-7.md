@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 40
 type: "EXHIBITION"
+venue: "Richmond Museum"
 summary: "Richmond Museum | Doors Open Richmond | JUN 7"
 ---
 

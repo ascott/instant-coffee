@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 12
 type: "EVENT"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Activating Pigeon Park: Roots & Resilience | AUG 26"
 ---
 

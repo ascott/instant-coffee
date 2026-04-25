@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 22
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Total Eclipse of the Art | Fundraiser Auction | FEB 18"
 ---
 
@@ -33,7 +34,7 @@ festivities will be a retro dance party with all of your favourite 80s hits.
 
 Featuring work by: Diyan Achjadi, Joshua Bartholomew and Cedric Meister,
 Jesse Birch + Jesse Gray, Raymond Boisjoly, Fabiola Carranza, Roy Caussy,
-Christine Dâ€™Onofrio, Lucien Durey, Lisa Fedorak, Brendan Fernandes, Jacob
+Christine D’Onofrio, Lucien Durey, Lisa Fedorak, Brendan Fernandes, Jacob
 Gleeson, Lee Henderson, Julian Hou, Paul Kajander, David Khang, Lois
 Klassen, Vanessa Kwan, Laiwan, Gwenessa Lam, Evan Lee, Tiziana LeMelia,
 Marilou Lemmens & Richard Ibghy, Daylen Luchsinger, Elizabeth Milton, Tegan

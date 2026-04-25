@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 19
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Ali Ahadi | APR 6"
 ---
 

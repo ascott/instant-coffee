@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 24
 type: "FUNDRAISER"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Red Gate | Green Envy | 8:30-late | APR 20"
 ---
 

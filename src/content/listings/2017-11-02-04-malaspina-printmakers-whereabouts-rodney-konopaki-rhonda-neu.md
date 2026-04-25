@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 4
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Whereabouts: Rodney Konopaki & Rhonda Neufeld | NOV 2"
 ---
 

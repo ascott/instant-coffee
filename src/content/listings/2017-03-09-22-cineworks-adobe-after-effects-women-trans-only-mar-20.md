@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 22
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | Adobe After Effects (Women / Trans* Only) | MAR 20"
 ---
 

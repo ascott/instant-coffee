@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 23
 type: "EXHIBITION"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | A Future for Memory | FEB 11"
 ---
 

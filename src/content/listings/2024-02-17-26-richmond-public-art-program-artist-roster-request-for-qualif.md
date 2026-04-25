@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 26
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Artist Roster | Request for Qualifications | MAR 1"
 ---
 

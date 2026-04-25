@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | baby | EXHIBITION DATES: Aug 28 - Sept 28, 2020"
 ---
 

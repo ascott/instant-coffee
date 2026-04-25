@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 7
 type: ""
+venue: "ONMAIN"
 summary: "ONMAIN | PAUL WONG | ZOOOOOM | FEB 20"
 ---
 
@@ -46,7 +47,7 @@ http://paulwongprojects.bigcartel.com/
 
 Lifetime Olympic Pop Up Shop, 354 Water Street, Vancouver, BC.
 
-â€˜5â€™ is commissioned by The City of Vancouver through its Olympic and
+‘5’ is commissioned by The City of Vancouver through its Olympic and
 Paralympic Public Art Program, as part of Mapping and Marking
 Artist-Initiated Projects for Vancouver 2010.
 

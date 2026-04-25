@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 27
 type: "OPENING"
+venue: "Conduit Gallery"
 summary: "Conduit Gallery | considering contraints | zandi dandizette | 7 PM | FEB 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 34
 type: ""
+venue: "the shack"
 summary: "the shack | Marc Paris - ternary | SEP 21"
 ---
 
@@ -22,7 +23,7 @@ sea. It is designed to reflect the signal of a radar system whose
 operator can detect the presence, direction, distance and speed of the
 vessel to which it is attached. As a means to reflect on his own
 transient experience on the water, Paris integrates this object with
-the gallery space, entering a dialogue regarding walls as â€˜sculptureâ€™
+the gallery space, entering a dialogue regarding walls as ‘sculpture’
 and walls as an indicator of place or location.
 
 In his final undergraduate year at Emily Carr University, Paris is
@@ -34,7 +35,7 @@ substructure. He has recently exhibited in Vancouver at Gallery Fukai
 The Shack (Art) Collective, who makes use of a converted garage for
 exhibiting all forms of art and for the physical, mental, and
 spiritual practice of yoga, provides an ideal venue for ˈtərnərē: the
-pronunciation of â€˜ternaryâ€™, an adjective describing something with
+pronunciation of ‘ternary’, an adjective describing something with
 three parts. The ritual nature of yoga plays a role here in supporting
 the experience of art as a slow and meditative process, in transition
 from one frame of mind, body and spirit to another.

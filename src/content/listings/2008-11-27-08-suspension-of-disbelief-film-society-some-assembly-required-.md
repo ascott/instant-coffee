@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 8
 type: ""
+venue: "Suspension of Disbelief Film Society"
 summary: "Suspension of Disbelief Film Society | SOME ASSEMBLY REQUIRED | NOV 29"
 ---
 

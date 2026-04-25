@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Meydan: Derya Akay | APR 24"
 ---
 

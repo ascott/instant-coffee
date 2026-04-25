@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 27
 type: "CALL"
+venue: "BIPOC New Media Screen"
 summary: "BIPOC New Media Screen | JUL 28"
 ---
 

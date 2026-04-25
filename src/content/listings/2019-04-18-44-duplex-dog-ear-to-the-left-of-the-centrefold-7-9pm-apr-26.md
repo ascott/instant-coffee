@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 44
 type: "OPENING"
+venue: "DUPLEX"
 summary: "DUPLEX | Dog-Ear to the Left of the Centrefold | 7-9PM | APR 26"
 ---
 

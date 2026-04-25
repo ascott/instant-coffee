@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 35
 type: ""
+venue: "Nanaimo Art Gallery"
 summary: "Nanaimo Art Gallery | Fulhame's Map | APR 6"
 ---
 

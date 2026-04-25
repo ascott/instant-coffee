@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 4
 type: "EVENT"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Described Tour | 11AM | JAN 5"
 ---
 

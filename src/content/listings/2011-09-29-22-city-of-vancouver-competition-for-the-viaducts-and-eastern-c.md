@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 22
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | competition for the Viaducts and Eastern Core | NOV 4"
 ---
 

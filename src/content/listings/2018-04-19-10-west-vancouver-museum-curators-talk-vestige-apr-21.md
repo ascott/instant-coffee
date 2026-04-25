@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 10
 type: "TALK"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Curator's Talk: Vestige | APR 21"
 ---
 

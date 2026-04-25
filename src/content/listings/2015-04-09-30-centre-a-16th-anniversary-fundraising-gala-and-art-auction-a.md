@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 30
 type: "FUNDRAISER"
+venue: "Centre A"
 summary: "Centre A | 16th Anniversary Fundraising Gala and Art Auction | APR 18"
 ---
 
@@ -25,7 +26,7 @@ Join us for an evening of art, food and fun as we celebrate 16 years of
 Centre A's exhibition history, honour significant figures, and dance with
 the Biltmore Cabaret's Guilty Pleasures DJs!
 
-This yearâ€™s participating artists include Liz Magor, Karen Zalamea, Lorna
+This year’s participating artists include Liz Magor, Karen Zalamea, Lorna
 Brown, Wayne Ngan, Maraya, Michael Love and more, including a limited
 edition growler featuring artwork by Howie Tsui.
 

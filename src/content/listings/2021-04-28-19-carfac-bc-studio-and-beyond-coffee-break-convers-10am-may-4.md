@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 19
 type: "EVENT"
+venue: "CARFAC BC"
 summary: "CARFAC BC | Studio and Beyond: Coffee Break Convers | 10AM | MAY 4"
 ---
 

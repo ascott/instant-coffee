@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 22
 type: ""
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Chinatown 2050 | ONLINE | 12PM | JUL 16"
 ---
 

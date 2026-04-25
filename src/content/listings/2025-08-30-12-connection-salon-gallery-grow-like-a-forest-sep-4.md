@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 12
 type: "OPENING"
+venue: "Connection Salon Gallery"
 summary: "Connection Salon Gallery | Grow like a Forest | SEP 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 10
 type: "CALL"
+venue: "New Artist Project Spaces"
 summary: "New Artist Project Spaces | North Vancouver | JAN 11"
 ---
 

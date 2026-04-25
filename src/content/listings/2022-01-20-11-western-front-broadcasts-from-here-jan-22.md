@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 11
 type: "EXHIBITION"
+venue: "Western Front"
 summary: "Western Front | Broadcasts from Here | JAN 22"
 ---
 

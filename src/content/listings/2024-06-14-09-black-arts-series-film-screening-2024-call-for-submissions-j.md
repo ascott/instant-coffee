@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 9
 type: "CALL"
+venue: "Black Arts Series Film Screening 2024"
 summary: "Black Arts Series Film Screening 2024 | Call for Submissions | JUN 13"
 ---
 

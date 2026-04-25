@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 17
 type: ""
+venue: "Trench Contemporary Art"
 summary: "Trench Contemporary Art | Ryder White | JUN 21"
 ---
 

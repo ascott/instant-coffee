@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 22
 type: ""
+venue: "Access Gallery, Project Space, and 221A"
 summary: "Access Gallery, Project Space, and 221A | Seasons Seasons | DEC 17"
 ---
 

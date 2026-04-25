@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 9
 type: ""
+venue: "Maillardville Cultural Appreciation Society"
 summary: "Maillardville Cultural Appreciation Society | MANDY MITTON | APR 5"
 ---
 

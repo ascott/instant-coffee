@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 15
 type: "CALL"
+venue: "Centre A x Taylight Brewing"
 summary: "Centre A x Taylight Brewing | Label Design Campaign | DEC 15"
 ---
 

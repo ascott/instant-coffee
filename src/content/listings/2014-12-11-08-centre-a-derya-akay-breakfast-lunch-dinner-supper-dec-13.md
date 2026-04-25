@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 8
 type: "EVENT"
+venue: "CENTRE A"
 summary: "CENTRE A | Derya Akay - Breakfast, Lunch, Dinner & Supper | DEC 13"
 ---
 

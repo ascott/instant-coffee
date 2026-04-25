@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 6
 type: "OPENING"
+venue: "gallery 1515"
 summary: "gallery 1515 | Monique Motut-Firth | CONSUMED | APR 6"
 ---
 

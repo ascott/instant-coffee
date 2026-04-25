@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 25
 type: "CALL"
+venue: "The Enigma of Objects"
 summary: "The Enigma of Objects | Call for Submissions | JAN 31"
 ---
 

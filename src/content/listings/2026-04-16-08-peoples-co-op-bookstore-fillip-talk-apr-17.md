@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 8
 type: ""
+venue: "People’s Co-Op Bookstore"
 summary: "People’s Co-Op Bookstore | Fillip talk | APR 17"
 ---
 

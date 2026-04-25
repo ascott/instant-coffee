@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | 20 Years On: New Drawings by Keegan Wenkman | JAN 5"
 ---
 

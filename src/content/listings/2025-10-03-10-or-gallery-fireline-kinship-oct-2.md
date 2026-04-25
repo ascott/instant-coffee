@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 10
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Fireline Kinship | OCT 2"
 ---
 

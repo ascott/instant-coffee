@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "BAG"
 summary: "BAG | Golden Hour | AUG 31"
 ---
 

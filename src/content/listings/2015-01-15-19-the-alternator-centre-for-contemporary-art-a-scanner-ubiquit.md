@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 19
 type: "EXHIBITION"
+venue: "The Alternator Centre for Contemporary Art"
 summary: "The Alternator Centre for Contemporary Art | A Scanner Ubiquity | JAN 23"
 ---
 
@@ -20,7 +21,7 @@ DATA MINING TAKES OVER LOCAL GALLERY
 Ever wondered where all the personal information that we feed into the
 Internet ends up? So do Vancouver artists Nathan McNinch and Kevin Day.
 Their exhibition, A Scanner Ubiquity, on show at the Alternator Centre for
-Contemporary Art from January 23 â€“ March 7
+Contemporary Art from January 23 – March 7
 , collates samples of seemingly useless but readily available public
 information and turns it into works of art.
 
@@ -33,11 +34,11 @@ continuously printed on paper, creating something similar to a polygraph
 using the gathered information.
 
 Also included in the show are a series of large wall-sized paper
-â€˜drawingsâ€™ depicting nonsensical HTML code of websites, and a custom-made
+‘drawings’ depicting nonsensical HTML code of websites, and a custom-made
 one-pixel camera that takes photos one pixel at a time and prints them out
 at pre-programmed intervals, accumulating the photos in a heap on the
 floor. The photographic data are fragmented beyond function and legibility,
-and focus on the mathematical quantification of â€˜beingâ€™ instead.
+and focus on the mathematical quantification of ‘being’ instead.
 
 The exhibition demonstrates the process by which human attributes become
 privatized and reduced to data and statistics, fully exploited in the

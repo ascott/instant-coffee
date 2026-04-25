@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 2
 type: "CALL"
+venue: "AHVA, Audain Arts Centre"
 summary: "AHVA, Audain Arts Centre | 40th Annual AHVA Graduate Student Symposium | DEC 15"
 ---
 

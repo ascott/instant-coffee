@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 34
 type: "EXHIBITION"
+venue: "The Dance Centre"
 summary: "The Dance Centre | Danny Nielsen | MAY 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 19
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Unheld II | 630PM | OCT 16"
 ---
 

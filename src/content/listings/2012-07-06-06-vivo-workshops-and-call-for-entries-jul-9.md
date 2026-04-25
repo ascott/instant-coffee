@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 6
 type: ""
+venue: "VIVO"
 summary: "VIVO | Workshops and Call for Entries | JUL 9"
 ---
 

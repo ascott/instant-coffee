@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 14
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Preview Days | MAR 1-3 | MAR 3"
 ---
 

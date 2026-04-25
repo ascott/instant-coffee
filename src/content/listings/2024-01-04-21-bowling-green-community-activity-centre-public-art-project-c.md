@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 21
 type: "CALL"
+venue: "Bowling Green Community Activity Centre"
 summary: "Bowling Green Community Activity Centre | Public Art Project - Call to Artists | FEB 5"
 ---
 

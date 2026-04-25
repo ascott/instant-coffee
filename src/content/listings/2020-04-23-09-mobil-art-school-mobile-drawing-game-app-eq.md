@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 9
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | mobile drawing game app, EQ"
 ---
 

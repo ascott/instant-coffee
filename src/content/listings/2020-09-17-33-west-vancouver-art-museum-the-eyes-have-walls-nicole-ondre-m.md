@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 33
 type: "EVENT"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | THE EYES HAVE WALLS: NICOLE ONDRE & MINA"
 ---
 

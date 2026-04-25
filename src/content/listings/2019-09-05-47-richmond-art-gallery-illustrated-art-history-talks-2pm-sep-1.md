@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 47
 type: "EDUCATION"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Illustrated Art History Talks | 2PM | SEP 14"
 ---
 

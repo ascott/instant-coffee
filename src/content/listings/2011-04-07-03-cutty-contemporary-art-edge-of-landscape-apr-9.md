@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 3
 type: ""
+venue: "Cutty Contemporary Art"
 summary: "Cutty Contemporary Art | Edge of Landscape | APR 9"
 ---
 
-Cutty Contemporary Art | Edge of Landscape | APRIL 9th â€“ MAY 8th 
+Cutty Contemporary Art | Edge of Landscape | APRIL 9th – MAY 8th 
 2011
 
-Opening Reception: April 9th, 4pm â€“ 7pm
+Opening Reception: April 9th, 4pm – 7pm
 
 Cutty is an artist-run commercial gallery located at 564 Beatty St.
 
-Open Saturdays and Sundays 10am â€“ 4pm.
+Open Saturdays and Sundays 10am – 4pm.
 
 Cutty CAG is pleased to present its first group show, Edge of
-Landscape. The show offers an investigation into Vancouverâ€™s
+Landscape. The show offers an investigation into Vancouver’s
 relationship to landscape, as a space outside of the traditional
 Canadian landscape trope and sitting on the western edge of the
 continent. The works chosen address contemporary conceptions of

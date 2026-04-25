@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: what duty do we do?"
 emailDate: "Thu, 21 Feb 2008 08:23:56 -0800"
 number: 27
 type: ""
+venue: "\"Thank You Art\" Day"
 summary: "\"Thank You Art\" Day | MAR 9 |&#65288;http://www.39art.com)"
 ---
 

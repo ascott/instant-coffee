@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 56
 type: "EVENT"
+venue: "DUDOC"
 summary: "DUDOC | Displacement Forum + Exhibition | OCT 25&26 | 3PM | OCT 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 11
 type: ""
+venue: "Lake Country Art Gallery"
 summary: "Lake Country Art Gallery | 2013 Call for Submisisons | APR 1"
 ---
 

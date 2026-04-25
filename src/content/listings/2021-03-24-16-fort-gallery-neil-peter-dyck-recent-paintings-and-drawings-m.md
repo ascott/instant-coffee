@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "Fort Gallery"
 summary: "Fort Gallery | Neil Peter Dyck: Recent Paintings and Drawings | MAR 30"
 ---
 

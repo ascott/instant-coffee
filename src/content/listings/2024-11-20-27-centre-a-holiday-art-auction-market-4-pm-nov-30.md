@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 27
 type: "FUNDRAISER"
+venue: "Centre A"
 summary: "Centre A | Holiday Art Auction & Market | 4 PM | NOV 30"
 ---
 

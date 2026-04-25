@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 17
 type: "CALL"
+venue: "Ethical Public Art in Canada"
 summary: "Ethical Public Art in Canada | Call for Proposals | JAN 31"
 ---
 

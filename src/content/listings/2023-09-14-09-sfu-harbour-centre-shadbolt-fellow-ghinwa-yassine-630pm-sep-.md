@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 9
 type: "TALK"
+venue: "SFU Harbour Centre"
 summary: "SFU Harbour Centre | Shadbolt Fellow Ghinwa Yassine | 630PM | SEP 14"
 ---
 

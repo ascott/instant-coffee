@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 6
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | ART STUDIO AWARDS DEADLINE FRIDAY | SEP 5"
 ---
 

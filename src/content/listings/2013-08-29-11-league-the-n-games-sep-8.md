@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 11
 type: ""
+venue: "League"
 summary: "League | The n Games | SEP 8"
 ---
 
@@ -16,7 +17,7 @@ sports. Spectators are welcome.
 
 Tuesday 24 September: How To Kickstart workshop <http://league-league.org/?
 p=1725> 
-Free but limited admission â€” get your ticket beginning 26 August at 
+Free but limited admission — get your ticket beginning 26 August at 
 <https://www.eventbrite.com/event/6656795655> 
 Recently expanded to Canada, Kickstarter is a funding platform for creative 
 projects. Join Kickstarter Art Program Director Stephanie Pereira for a primer on 

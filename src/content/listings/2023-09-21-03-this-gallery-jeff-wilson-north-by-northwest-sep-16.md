@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Jeff Wilson - North by Northwest | SEP 16"
 ---
 

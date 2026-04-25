@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 23
 type: ""
+venue: "DIM CINEMA"
 summary: "DIM CINEMA | IN PERSON FROM AUSTRALIA: RICHARD TUOHY | NOV 15"
 ---
 
 IN PERSON FROM AUSTRALIA: RICHARD TUOHY
 Active in film since the late 1980s, Richard Tuohy has spent the past
 decade immersed in the materialist tradition of experimental filmmaking 
-â€”
+—
 work that tests the absolute limits of the medium itself. Drawing
 primarily on natural forms and environments as subject matter for his
-celluloid manipulations â€” an array of classic and novel in-camera,
-darkroom, printing, and editing techniques â€” Tuohy â€œabstracts out the
+celluloid manipulations — an array of classic and novel in-camera,
+darkroom, printing, and editing techniques — Tuohy “abstracts out the
 fleshiness of the particularâ€  to create dynamic studies of form,
 structure, time, and pattern, an approach he describes as â€œcine-cubism.â€ 
 The filmmaker will present a series of 16mm films, culminating in a live

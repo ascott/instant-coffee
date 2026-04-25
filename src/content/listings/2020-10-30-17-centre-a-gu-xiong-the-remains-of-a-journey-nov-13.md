@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Gu Xiong: The Remains of a Journey | NOV 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 9
 type: "EDUCATION"
+venue: "Social Emergency Response Centers"
 summary: "Social Emergency Response Centers | OCT 29"
 ---
 

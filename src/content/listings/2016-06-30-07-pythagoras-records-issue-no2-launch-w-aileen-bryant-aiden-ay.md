@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 7
 type: "EVENT"
+venue: "Pythagoras Records"
 summary: "Pythagoras Records | Issue no.2 LAUNCH w/ Aileen Bryant & Aiden Ayers.. | JUL 2"
 ---
 

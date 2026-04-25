@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 4
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | VELVET TERRORISM: PUSSY RIOT’S RUSSIA | 6PM | MAR 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 9
 type: "EDUCATION"
+venue: "Cineworks and F-O-R-M"
 summary: "Cineworks and F-O-R-M | Dance Film Workshop | MAY 27"
 ---
 

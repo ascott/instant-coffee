@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 6
 type: ""
+venue: "Lucky's Gallery"
 summary: "Lucky's Gallery | DANIEL BRODIE | till | JUL 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 7
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | ROLANDE SOULIERE | 6PM | JUL 18"
 ---
 

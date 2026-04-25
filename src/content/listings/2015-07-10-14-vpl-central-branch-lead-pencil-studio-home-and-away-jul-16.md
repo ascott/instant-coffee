@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 14
 type: "TALK"
+venue: "VPL, Central branch"
 summary: "VPL, Central branch | Lead Pencil Studio - Home And Away | JUL 16"
 ---
 

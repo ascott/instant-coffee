@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 8
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | Stephen Waddell | SEP 20"
 ---
 
@@ -42,12 +43,12 @@ it in the exhibition.
 Stephen Waddell (born 1968, Vancouver, Canada) received his MFA from
 the University of British Columbia in 1994, and has exhibited in
 galleries and institutions including Monte Clark Gallery, the
-Vancouver Art Gallery, Espai dâ€™art contemporani de Castello in
+Vancouver Art Gallery, Espai d’art contemporani de Castello in
 Castello, Spain, Kunstforum Baloise in Basel, Switzerland and C/O in
-Berlin. Waddellâ€™s works are included in the permanent collections of
+Berlin. Waddell’s works are included in the permanent collections of
 the Armand Hammer Collection in Los Angeles, the Vancouver Art
 Gallery, the National Gallery of Canada, and numerous others. A book
-of Waddellâ€™s work, Hunt and Gather, was recently published by Steidl
+of Waddell’s work, Hunt and Gather, was recently published by Steidl
 Publishing in Germany. The artist lives and works in Vancouver,
 Canada.
 

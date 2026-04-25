@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 7
 type: ""
+venue: "Queen Alexandra Elementary School"
 summary: "Queen Alexandra Elementary School | Tastemakers Artist Talk: Phranc | MAR 10"
 ---
 

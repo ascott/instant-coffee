@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 4
 type: "OPENING"
+venue: "The Cabinet"
 summary: "The Cabinet | Mina Totino | 430PM | MAR 14"
 ---
 

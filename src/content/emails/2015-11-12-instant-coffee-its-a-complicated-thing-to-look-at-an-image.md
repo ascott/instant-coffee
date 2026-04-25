@@ -15,7 +15,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-11-12-02-macaulay-co-fine-art-tyler-bright-hilton-i-dont-want-anybody">02. OPENING | Macaulay & Co. Fine Art | Tyler Bright Hilton: I Don't Want Anybody Else | NOV 12</a>
 <a href="/instant-coffee/listings/2015-11-12-03-malaspina-printmakers-and-they-thought-where-do-we-go-from-h">03. OPENING | Malaspina Printmakers | And they thought, where do we go from here? | NOV 12</a>
 <a href="/instant-coffee/listings/2015-11-12-04-new-media-gallery-artist-talk-lauren-marsden-nov-12">04. TALK | New Media Gallery | Artist Talk: Lauren Marsden | NOV 12</a>
-<a href="/instant-coffee/listings/2015-11-12-05-roundhouse-community-centre-2015-mayors-arts-awards-nov-12">05. EVENT | Roundhouse Community Centre | 2015 Mayorâ€™s Arts Awards | NOV 12</a>
+<a href="/instant-coffee/listings/2015-11-12-05-roundhouse-community-centre-2015-mayors-arts-awards-nov-12">05. EVENT | Roundhouse Community Centre | 2015 Mayor’s Arts Awards | NOV 12</a>
 <a href="/instant-coffee/listings/2015-11-12-06-screening-the-cinematheque-traces-that-resemble-us-wallace-c">06. SCREENING | The Cinematheque | Traces That Resemble Us: Wallace & Claxton | NOV 12</a>
 <a href="/instant-coffee/listings/2015-11-12-07-western-front-cut-nov-12">07. OPENING | Western Front | Cut | NOV 12</a>
 <a href="/instant-coffee/listings/2015-11-12-08-contemporary-art-gallery-rbc-canadian-painting-competition-e">08. EXHIBITION | Contemporary Art Gallery | RBC Canadian Painting Competition Exhibition | NOV 13</a>
@@ -23,7 +23,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-11-12-10-ubc-irving-k-barber-learning-centre-mfa-visual-art-student-r">10. EVENT | UBC Irving K. Barber Learning Centre | MFA Visual Art Student Roundtable | NOV 13</a>
 <a href="/instant-coffee/listings/2015-11-12-11-unitpitt-projects-we-should-take-below-the-gambling-splinter">11. OPENING | UNIT/PITT Projects | We Should Take Below - The Gambling Splinter | NOV 13</a>
 <a href="/instant-coffee/listings/2015-11-12-12-vivo-spark-emerging-collisions-between-art-and-science-nov-1">12. EVENT | VIVO | Spark! Emerging collisions between art and science | NOV 13</a>
-<a href="/instant-coffee/listings/2015-11-12-13-charles-h-scott-gallery-an-my-l-nov-14">13. OPENING | Charles H. Scott Gallery | An-My LÃª | NOV 14</a>
+<a href="/instant-coffee/listings/2015-11-12-13-charles-h-scott-gallery-an-my-l-nov-14">13. OPENING | Charles H. Scott Gallery | An-My Lê | NOV 14</a>
 <a href="/instant-coffee/listings/2015-11-12-14-gallery-295-3rd-annual-emerging-curator-exhibition-nov-14">14. CALL | Gallery 295 | 3rd Annual Emerging Curator Exhibition | NOV 14</a>
 <a href="/instant-coffee/listings/2015-11-12-15-gallery-295-one-hour-photo-felicia-e-gail-nov-14">15. TALK | Gallery 295 | One Hour Photo: Felicia E. Gail | NOV 14</a>
 <a href="/instant-coffee/listings/2015-11-12-16-screening-western-front-light-reading-by-lis-rhodes-nov-14">16. SCREENING | Western Front | Light Reading by Lis Rhodes | NOV 14</a>
@@ -36,7 +36,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-11-12-23-lasserre-building-curatorial-lecture-with-carolyn-christov-b">23. TALK | Lasserre Building | Curatorial Lecture with Carolyn Christov-Bakargiev | NOV 19</a>
 <a href="/instant-coffee/listings/2015-11-12-24-merge-night-jobs-nov-19">24. TALK | Merge | Night Jobs | NOV 19</a>
 <a href="/instant-coffee/listings/2015-11-12-25-screening-the-cinematheque-traces-that-resemble-us-roy-arden">25. SCREENING | The Cinematheque | Traces That Resemble Us: Roy Arden and Vikky Alexander | NOV 19</a>
-<a href="/instant-coffee/listings/2015-11-12-26-catriona-jeffries-valrie-blass-nov-20">26. OPENING | Catriona Jeffries | ValÃ©rie Blass | NOV 20</a>
+<a href="/instant-coffee/listings/2015-11-12-26-catriona-jeffries-valrie-blass-nov-20">26. OPENING | Catriona Jeffries | Valérie Blass | NOV 20</a>
 <a href="/instant-coffee/listings/2015-11-12-27-music-goldcorp-centre-for-the-arts-corbin-murdoch-and-the-na">27. MUSIC | Goldcorp Centre for the Arts | Corbin Murdoch and The Nautical Miles | NOV 20</a>
 <a href="/instant-coffee/listings/2015-11-12-28-museum-of-anthropology-invisible-the-spiritual-world-of-taiw">28. OPENING | Museum of Anthropology | (In)visible: The Spiritual World of Taiwan | NOV 20</a>
 <a href="/instant-coffee/listings/2015-11-12-29-project-space-monthly-open-studio-art-games-night-nov-20">29. EVENT | Project Space | Monthly Open Studio: Art Games Night | NOV 20</a>
@@ -57,7 +57,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-11-12-44-vivo-eata-iii-women-in-focus-dec-2">44. FUNDRAISER | VIVO | EATa III: WOMEN IN FOCUS | DEC 2</a>
 <a href="/instant-coffee/listings/2015-11-12-45-the-post-at-750-queer-arts-festival-winter-warmer-dec-4">45. EVENT | The Post at 750 | Queer Arts Festival: Winter Warmer | DEC 4</a>
 <a href="/instant-coffee/listings/2015-11-12-46-school-of-creative-arts-windsor-on-emerging-artist-research-">46. CALL | School of Creative Arts (Windsor, ON) | Emerging Artist Research Residency | JAN 15</a>
-<a href="/instant-coffee/listings/2015-11-12-47-the-contemporary-art-society-call-for-submissions-emerging-a">47. CALL | The Contemporary Art Society | Call for Submissions: Emerging Artistâ€™s Prize | JAN 15</a>
+<a href="/instant-coffee/listings/2015-11-12-47-the-contemporary-art-society-call-for-submissions-emerging-a">47. CALL | The Contemporary Art Society | Call for Submissions: Emerging Artist’s Prize | JAN 15</a>
 48. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 
 ------------------------------------------------------------------------
@@ -120,7 +120,7 @@ uses portraits of the late River Phoenix as well as the artist's alter ego
 Minmei to comment on both the complexity and the simplicity of
 contemporary relationships.
 
-â€“ W. Bruce C. Bailey, November, 2015
+– W. Bruce C. Bailey, November, 2015
 
 Born in 1979 in Ontario, Canada, Tyler Bright Hilton studied at the
 Ontario College of Art and Design before moving to London, England
@@ -159,7 +159,7 @@ Koenker, and Renee Van Halm. In 1975, these seven artists, all
 associated with the Vancouver School of Art (Emily Carr University of
 Art + Design), gathered at the Mido Gallery on Main Street to create a
 new society that would allow them to apply for funds for an
-international print exhibition. 40 years later, weâ€™re showing their work
+international print exhibition. 40 years later, we’re showing their work
 from that time period, along with newer work. Please join us for the
 opening celebration on Thursday, November 12, 2015, from 6pm to
 9pm.
@@ -204,7 +204,7 @@ Michael Jolliffe studied at the Vancouver School of Art from 1974 to
 discovered Christianity in 1980, he began exploring religious themes in
 large, brightly coloured and heavily impastoed oils, and mixed media
 abstractions. After a visit to Florence in 1992, his palette became more
-subdued, but still focused on biblical parables. Jolliffeâ€™s work has been
+subdued, but still focused on biblical parables. Jolliffe’s work has been
 exhibited across North America since the mid-1970s, and is included in
 numerous public and corporate collections. He previously taught at
 Concordia University and at the Emily Carr College of Art and Design,
@@ -220,7 +220,7 @@ she is currently based in Vancouver.
 
 Renee Van Halm completed her undergraduate studies at the
 Vancouver School of Art, and received a MFA from Concordia
-University in MontrÃ©al. She helped to establish Mercer Union, an artist-
+University in Montréal. She helped to establish Mercer Union, an artist-
 run centre in Toronto, in 1979, and taught for over a decade at York
 University before joining the faculty of Emily Carr University of Art and
 Design in 1992. Her work has been exhibited in solo and group
@@ -259,9 +259,9 @@ Skytrain Station : New Westminster (Directly Across from Anvil)
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-11-12-05-roundhouse-community-centre-2015-mayors-arts-awards-nov-12">05. EVENT | Roundhouse Community Centre | 2015 Mayorâ€™s Arts Awards | NOV 12</a>
+<a href="/instant-coffee/listings/2015-11-12-05-roundhouse-community-centre-2015-mayors-arts-awards-nov-12">05. EVENT | Roundhouse Community Centre | 2015 Mayor’s Arts Awards | NOV 12</a>
 ------------------------------------------------------------------------
-The 2015 Mayorâ€™s Arts Awards
+The 2015 Mayor’s Arts Awards
 
 Roundhouse Community Arts and Recreation Centre
 181 Roundhouse Mews, Vancouver
@@ -271,20 +271,20 @@ Awards Ceremony - 6pm
 
 Join us in Congratulating the Recipients!
 
-Artists who represent the finest talent in Vancouverâ€™s arts and culture
+Artists who represent the finest talent in Vancouver’s arts and culture
 community will be honoured for their achievements with the 2015
-Mayorâ€™s Arts Awards at a special ceremony on November 12 at the
+Mayor’s Arts Awards at a special ceremony on November 12 at the
 Roundhouse Community Arts and Recreation Centre.
 
 The awards celebrate the contributions of honourees and emerging
 artists in the categories of studio and performing arts, support of the
 arts, and lifetime achievement.
 
-â€œVancouver City Council supports a diverse and thriving cultural
-community that is vital to a vibrant, healthy city. The 2015 Mayorâ€™s Arts
+“Vancouver City Council supports a diverse and thriving cultural
+community that is vital to a vibrant, healthy city. The 2015 Mayor’s Arts
 Awards honourees and emerging artists represent the depth and
 diversity of talent that we have in this city,â€  said Mayor Gregor
-Robertson. â€œOn behalf of my colleagues on Vancouver City Council, I
+Robertson. “On behalf of my colleagues on Vancouver City Council, I
 extend my congratulations to these extraordinary artists, who make
 Vancouver such an inspiring and creative city.â€ 
 
@@ -295,31 +295,31 @@ careers. Each honouree in the studio and performing arts categories is
 invited to select an emerging artist in their discipline who demonstrates
 the promise of the next generation.
 
-The 2015 Mayorâ€™s Arts Awards honourees (emerging artists indicated
+The 2015 Mayor’s Arts Awards honourees (emerging artists indicated
 in parentheses) are:
 
 Studio Arts:
-Â· Debra Sloan (Sam Knopp) for craft and design
-Â· Alice Spurrell (Jennifer Peters) for culinary arts
-Â· Cindy Mochizuki (Amanda Strong) for film and new media
-Â· Kate Braid (Rob Taylor) for literary arts
-Â· Brian Jungen (Ron Tran) for visual arts
-Â· Liz Magor (Devon Knowles) for public art
-Â· Renae Morriseau (Lorelei Williams) for community engaged art
+· Debra Sloan (Sam Knopp) for craft and design
+· Alice Spurrell (Jennifer Peters) for culinary arts
+· Cindy Mochizuki (Amanda Strong) for film and new media
+· Kate Braid (Rob Taylor) for literary arts
+· Brian Jungen (Ron Tran) for visual arts
+· Liz Magor (Devon Knowles) for public art
+· Renae Morriseau (Lorelei Williams) for community engaged art
 
 Performing Arts:
-Â· Crystal Pite (Lesley Telford) for dance
-Â· Veda Hille (Adrian Teacher) for music
-Â· Margo Kane (Tai Amy Grauman) for theatre
+· Crystal Pite (Lesley Telford) for dance
+· Veda Hille (Adrian Teacher) for music
+· Margo Kane (Tai Amy Grauman) for theatre
 
 Support of the Arts:
-Â· Leonard Schein for philanthropy
-Â· Audrey Zaharichuk for volunteerism
-Â· Goldcorp for business support
-Â· Jane Westheuser for arts board member of the year
+· Leonard Schein for philanthropy
+· Audrey Zaharichuk for volunteerism
+· Goldcorp for business support
+· Jane Westheuser for arts board member of the year
 
 Lifetime Achievement:
-Â· Joy Coghill, C.M.
+· Joy Coghill, C.M.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-11-12-06-screening-the-cinematheque-traces-that-resemble-us-wallace-c">06. SCREENING | The Cinematheque | Traces That Resemble Us: Wallace & Claxton | NOV 12</a>
@@ -343,7 +343,7 @@ corresponding group exhibition at Monte Clark Gallery.
 
 On November 12 at 6:30pm, Ian Wallace will introduce his selected
 film, Jean-Luc Godard's Contempt (1963), a work cited in Wallace's
-ongoing Masculin/FÃ©minin series (1997-). "A major work of modern art
+ongoing Masculin/Féminin series (1997-). "A major work of modern art
 by one of the greatest artists in the history of cinema." (IW)
 
 On November 12 at 8:30pm, Dana Claxton will introduce her selected
@@ -365,9 +365,9 @@ Exhibition: November 13 - December 19, 2015
 Gallery Hours: Tuesday-Saturday, 12-5pm
 Free Admission
 
-On the cover of The Slitsâ€™ 1979 album Cut, Viv Albertine, Tessa Pollitt,
+On the cover of The Slits’ 1979 album Cut, Viv Albertine, Tessa Pollitt,
 and Ari Up stand shirtless, covered in mud, exuding a look of defiance.
-Itâ€™s a complicated thing to look at an image, to consider what it
+It’s a complicated thing to look at an image, to consider what it
 represents and how it circulates. The artists in this exhibition are
 engaged in a conversation about positions of looking, about subtraction
 and addition, about time and accumulation. Annie MacDonell makes
@@ -377,17 +377,17 @@ music. Elizabeth Zvonar makes collages and sculptures.
 Artist Biographies:
 
 Annie MacDonell is a visual artist working with photography, film,
-sculpture, writing, performance and installation. MacDonellâ€™s work often
+sculpture, writing, performance and installation. MacDonell’s work often
 begins in appropriation and spirals off into critical and self-reflexive
 meditations on the constitution, function, and circulation of images in
-the 21st century. She received a BFA from Ryerson Universityâ€™s School
+the 21st century. She received a BFA from Ryerson University’s School
 of Image Arts in 2000, followed by graduate studies at Le Fresnoy,
 Studio National des Arts Contemporains, in Tourcoing, France. Recent
 performances have been presented at le Centre Pompidou in Paris,
 and the Scotiabank Contact Festival in Toronto. Recent solo shows
 have been held at Mulherin New York, the Art Gallery of Ontario, the
 Art Gallery of Windsor and Mercer Union in Toronto. She has
-participated in recent group exhibitions at la BibliothÃ¨que National in
+participated in recent group exhibitions at la Bibliothèque National in
 Paris, The Power Plant, Toronto, MOCA Cleveland, the Daegu Photo
 Biennale in South Korea and Le Grand Palais, Paris. In 2012 she was
 shortlisted for the AGO AMIA Prize for Photography, and in 2012 and
@@ -395,9 +395,9 @@ shortlisted for the AGO AMIA Prize for Photography, and in 2012 and
 photography program at Ryerson University and her work is
 represented by Katharine Mulherin Contemporary Art.
 
-Lis Rhodes is a major figure in the history of artistsâ€™ filmmaking in
+Lis Rhodes is a major figure in the history of artists’ filmmaking in
 Britain and was a leading member of the influential London
-Filmmakersâ€™ Co-op. In 1979 she co-founded Circles Womenâ€™s Film and
+Filmmakers’ Co-op. In 1979 she co-founded Circles Women’s Film and
 Video Distribution, the first British organization to distribute the work of
 women film and video artists. She currently lives and works in London,
 where a survey exhibition of her career, Lis Rhodes: Dissonance and
@@ -416,12 +416,12 @@ internationally in New York, Australia, Japan and Belgium. In 2008,
 Zvonar was the inaugural artist at the Malaspina Print Research
 Residency and was an Artist in Residence at the Banff Centre for the
 thematic residency Cosmic Ray Research. Zvonar received the 2009
-City of Vancouver Mayorâ€™s Award for Emerging Visual Artist; in 2011
+City of Vancouver Mayor’s Award for Emerging Visual Artist; in 2011
 she was presented with the Emily Award for outstanding achievement
 by an Emily Carr alumna. From 2012-15 Zvonar held the post of City of
 Vancouver Artist in Residence. Most recently, she presented the solo
 exhibition The Challenge of Abstraction at Daniel Faria Gallery in
-Toronto. Zvonar was the 2015 recipient of the Shadbolt Foundationâ€™s
+Toronto. Zvonar was the 2015 recipient of the Shadbolt Foundation’s
 VIVA award.
 
 
@@ -435,16 +435,16 @@ November 13 to 29, gallery hours, free.
 The winners will be announced at the CAG on November 18.
 The exhibition will be closed on November 16, 17 and 19.
 
-The Contemporary Art Gallery is delighted to host this yearâ€™s RBC
+The Contemporary Art Gallery is delighted to host this year’s RBC
 Canadian Painting Competition which since 1999, with the support of
 the Canadian Art Foundation, has been a unique initiative, helping
-bridge the gap from emerging to established artists. This yearâ€™s
+bridge the gap from emerging to established artists. This year’s
 selected finalists are from Eastern Canada: Hangama Amiri (Halifax,
 NS); Andrew Maize (Lunenburg, NS); Paul Hardy, Cindy Phenix and
 John Player (Montreal, QC); from Central Canada: Jessica Bell
 (Ottawa, ON); Patrick Cruz (Guelph, ON); Hanna Hur, Caroline Larsen,
 and Claire Scherzinger (Toronto, ON); and from Western Canada:
-Robert Taite (Winnipeg, MB); Simon de BrÃ©e, Megan Hepburn, Russell
+Robert Taite (Winnipeg, MB); Simon de Brée, Megan Hepburn, Russell
 Leng and Tristan Unrau (Vancouver, BC).
 
 For more information, visit www.rbc.com/paintingcompetition
@@ -465,7 +465,7 @@ Join us for a screening and panel discussion on In the Land of the
 Head Hunters, the first feature film made in B.C. and the oldest
 surviving feature made in Canada. It is also the first feature made
 with an entirely indigenous North American cast. A portrait of the
-KwakwakaÃ¢'wakw (formerly Kwakiutl) people of northern Vancouver
+Kwakwakaâ'wakw (formerly Kwakiutl) people of northern Vancouver
 Island and the central coast, it was directed by Edward S. Curtis, the
 renowned American photographer of First Nations life. The film mixes
 documentary and dramatic elements, recording authentic traditions and
@@ -479,7 +479,7 @@ Panel discussion to follow the screening.
 
 PANELISTS
 
-Bill Cranmer is a Hereditary Chief of the NÃ¢'amgis First Nation.
+Bill Cranmer is a Hereditary Chief of the Nâ'amgis First Nation.
 
 Andy Everson is a contemporary First Nations artist from the K'omoks
 First Nation on Vancouver Island. Holding a master's degree in
@@ -519,8 +519,8 @@ Moderator: Michelle Weinstein
 
 2:30
 Jeneen Frei Njootli
-Pulling knowledge through the body, through anotherâ€™s body, what is
-left unsaid. What is the residue? Where is the work? gâ€™ashondaiâ€™kwa
+Pulling knowledge through the body, through another’s body, what is
+left unsaid. What is the residue? Where is the work? g’ashondai’kwa
 Moderator: Lindsay Lachance
 
 3:10-3:30 pm Coffee Break
@@ -528,7 +528,7 @@ Moderator: Lindsay Lachance
 3:30
 Olivia Whetung
 some beads look like bullets
-Moderator: LÃ©a Toulouse
+Moderator: Léa Toulouse
 
 4:15
 
@@ -623,21 +623,21 @@ Erik Zepka, Jaedan Leimert, Jeremiah Birnbaum, Julia Maddison, Luke
 Blackstone, Michelle Weinstein, Patrick Keeling, Robi Smith, and Willa Downing.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-11-12-13-charles-h-scott-gallery-an-my-l-nov-14">13. OPENING | Charles H. Scott Gallery | An-My LÃª | NOV 14</a>
+<a href="/instant-coffee/listings/2015-11-12-13-charles-h-scott-gallery-an-my-l-nov-14">13. OPENING | Charles H. Scott Gallery | An-My Lê | NOV 14</a>
 ------------------------------------------------------------------------
 https://www.facebook.com/events/1634547750127280/
 
-An-My LÃª
+An-My Lê
 November 14, 2015 to January 10, 2016
 Opening Reception: Saturday November 14, 2015 at 3:00pm
 
-Iâ€™m interested in experiencing something, and the act of taking a
-picture is a way for me to process that experience into an imageâ€¦For
+I’m interested in experiencing something, and the act of taking a
+picture is a way for me to process that experience into an image…For
 me, so much of that comes from the details, the ability of the print
 to describe the space between things.
 â€” An-My LÃª, â€œAn-My LÃªâ€™s Events Ashore,â€  The New Yorker
 
-In her first exhibition in Canada, An-My LÃª presents a selection of
+In her first exhibition in Canada, An-My Lê presents a selection of
 photographic works that depict landscapes transformed by military
 activities, blurring the boundaries between Hollywood portrayals and
 photojournalistic documentation. Much of her work is inspired by her
@@ -647,18 +647,18 @@ immersed herself in re-enactments of battles from the Vietnam War
 carried out by military enthusiasts, and 29 Palms, where she
 documented US troop training in conditions and locations that simulate
 the Middle East. Images from Events Ashore are also included in the
-exhibition; for this project, LÃª was given permission to photograph
+exhibition; for this project, Lê was given permission to photograph
 military installations throughout the world, from the Arctic to the
 Antarctic, from 2005 to 2012.
 
 The artist documented everything from sweeping panoramas at sea to
 military exercises on land and humanitarian efforts in countries such
-as Haiti. LÃªâ€™s relationship with her subject matter speaks of her own
-complex experiences. As she says: â€œMy life has been completely
-affected by American foreign policyâ€¦They were the perpetrators, but
+as Haiti. Lê’s relationship with her subject matter speaks of her own
+complex experiences. As she says: “My life has been completely
+affected by American foreign policy…They were the perpetrators, but
 they were also the saviours.â€ 
 
-An-My LÃª was the Audain Distinguished Artist-in-Residence at Emily
+An-My Lê was the Audain Distinguished Artist-in-Residence at Emily
 Carr University in spring 2015. Her work has been widely exhibited,
 including solo and group exhibitions throughout Europe, North
 America,
@@ -667,7 +667,7 @@ fellowships from the John Simon Guggenheim Memorial Foundation
 and the
 MacArthur Foundation.
 
-Image: An-My LÃª from Events Ashore, 2014.
+Image: An-My Lê from Events Ashore, 2014.
 
 Presenting Sponsor RBC Wealth Management
 
@@ -740,23 +740,23 @@ materials, Tarps, take on a transformative quality and lead one through a
 rich dispersal of use recorded as-photograph within the tarps themselves.
 Here the relationships between what is presented are aroused by her
 intersubjective connections with these materials, which are explored as
-photographic stand-ins as a function of personhood â€“ translated into
+photographic stand-ins as a function of personhood – translated into
 poetics through form. Parallel to her as-photograph tarps is the spatial
 construction of support structures as-landscape. These supports intersect
 the whole of the gallery with deliberate spaces for intimacy.
 
 Together these materials and temporary structures, in tandem with
-photographic images and used-up film canisters, articulate Gailâ€™s own
+photographic images and used-up film canisters, articulate Gail’s own
 horizon as a frame through which her subjective poetics takes place. This
 immersive horizon of objects invokes and obscures what is understood as
 seen and experienced. In travel back to blue Gail implements a kind of
-autopoiesis â€“ a system where the installation is itself a generative
+autopoiesis – a system where the installation is itself a generative
 production and result of a history located in the roots of South-Eastern
 Americana, loss, desire, and the complex journey to the Pacific North West.
 The as-photograph pieces within the as-landscape installation serve as a
-kind of time-travel into Gailâ€™s original purposing of these items through
+kind of time-travel into Gail’s original purposing of these items through
 their repurposed forms emphasizing their socio-political connotations. As a
-whole these materials bring the poetics of Felicia E. Gailâ€™s expanded
+whole these materials bring the poetics of Felicia E. Gail’s expanded
 photographic practice into the foreground and immediately transports her
 poetics into the backgrounded horizon of personal interpretation and
 projected meaning, which for Gail results as a function of time-travel.
@@ -811,8 +811,8 @@ screen and then it is silent. In the final section of the film she begins
 again - reading the images as these are moved and re-placed, describing the
 piecing together of the film as she tries to piece together the strands of
 her story. "She watched herself being looked at She looked at herself being
-watched but she could not perceive herself as the subject of the sentenceâ€¦"
-â€“Lis Rhodes
+watched but she could not perceive herself as the subject of the sentence…"
+–Lis Rhodes
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-11-12-17-job-city-of-vancouver-public-art-program-cultural-job-opport">17. JOB | City of Vancouver - Public Art Program | CULTURAL JOB OPPORTUNITIES | NOV 15</a>
@@ -912,25 +912,25 @@ ECU Lecture Theatre | Room 301, South Building
 Gareth Moore (b. 1975, Matsqui, British Columbia) lives and works in
 Vancouver. Recent solo exhibitions include A Burning Bag as a Smoke-Grey
 Lotus at Stroom den Haag, The Hague (2015) & La Loge, Brussels (2015);
-Household Temple Yard, La CriÃ©e Centre d'Art Contemporain, Rennes (2014);
+Household Temple Yard, La Criée Centre d'Art Contemporain, Rennes (2014);
 Glasgow Sculpture Studios (2014); Household, Temple, Yard, Catriona
 Jeffries, Vancouver (2013); Allochthonous Window, Vancouver Art Gallery
 (2013); Rocks on a Clock, Some Photos of Ducks, A Collection of Masks and a
-Post to Touch, LÃ¼ttgenmeijer, Berlin (2009); Selected Chapters from
+Post to Touch, Lüttgenmeijer, Berlin (2009); Selected Chapters from
 Uncertain Pilgrimage..., Catriona Jeffries, Vancouver (2009); CCA Wattis
 Institute of Contemporary Arts, San Francisco (2008); Gareth Moore: As a
 Wild Boar Passes Water, Witte de With, Rotterdam (2008). His work A place,
 near the buried canal(2012) was commissioned as part of dOCUMENTA (13) and
 he has been included in numerous international group exhibitions, including
 Journeys, Israel Museum, Jerusalem (2014); Play time, Les ateliers de
-Rennes, Biennale d'Art contemporain Ã  Rennes (2014); Bat Ear,
-LÃ¼ttgenmeijer, Berlin (2014); Andrea BÃ¼ttner, JoÃ«lle de La CasiniÃ¨re,
+Rennes, Biennale d'Art contemporain à Rennes (2014); Bat Ear,
+Lüttgenmeijer, Berlin (2014); Andrea Büttner, Joëlle de La Casinière,
 Gareth Moore, Catriona Jeffries, Vancouver (2013); The Intellection of Lady
 Spider House, Edmonton Art Gallery (2013); Woodman, Woodman, Spare That
-Tree, LÃ¼ttgenmeijer (2010); Every Version Belongs to the Myth, Project
+Tree, Lüttgenmeijer (2010); Every Version Belongs to the Myth, Project
 Arts Centre, Dublin (2009); Sentimental Journey, Contemporary Art Gallery,
 Vancouver (2009); Nomads, National Gallery of Canada, Ottawa (2009). His
-Childrenâ€™s Films, a curatorial film project developed specifically for
+Children’s Films, a curatorial film project developed specifically for
 children has been shown at the Bielefelder Kunstverein, (2011);
 International Project Space, Birmingham (2012); Whistable Biennial, UK
 (2012); Contemporary Art Gallery, Vancouver (2012); Schemla Haus,
@@ -993,7 +993,7 @@ Patrick Cruz is a Filipino-Canadian artist born in Manila, Philippines.
 Cruz is currently living and working in Guelph, Ontario where he is
 pursuing his Masters in Fine Arts at the University of Guelph. He studied
 Painting at the University of the Philippines and received his Bachelor of
-Fine Arts from Emily Carr University of Art + Design in 2010. Cruzâ€™s work
+Fine Arts from Emily Carr University of Art + Design in 2010. Cruz’s work
 adopts aesthetic strategies from folk sensibilities such as ornamentation,
 decoration and patterning as a means of decolonizing the destabilizing
 force of modernity and its effects on marginalized cultures.
@@ -1074,24 +1074,24 @@ Thursday, November 19, 2015 at 6:30 pm
 Room 102 - Lasserre Building, 6333 Memorial Road, UBC
 
 The Belkin Art Gallery is pleased to present a talk by Carolyn Christov-
-Bakargiev, â€œThe 14th Istanbul Biennial: On Annie Besant, thought
+Bakargiev, “The 14th Istanbul Biennial: On Annie Besant, thought
 forms, mad science, love and politics,â€  as part of the Curatorial Lecture
 Series. This lecture will explore the relationship between the 14th
 Istanbul Biennial titled Saltwater. A Theory of Thought Forms and 19th
-and early 20th century theosophist Annie Besantâ€™s notion of thought
+and early 20th century theosophist Annie Besant’s notion of thought
 forms and their impact on action and the world today, at a critical
 moment for Turkey and the region.
 
 Carolyn Christov-Bakargiev is the Edith Kreeger Wolf Distinguished
 Visiting Professor in Art Theory and Practice at Northwestern
-University (2013â€“15), Getty Visiting Research Scholar (2015), and was
-recently appointed as Director of Castello di Rivoli Museo dâ€™Arte
-Contemporanea and GAM â€“ Galleria Civica dâ€™Arte Moderna e
+University (2013–15), Getty Visiting Research Scholar (2015), and was
+recently appointed as Director of Castello di Rivoli Museo d’Arte
+Contemporanea and GAM – Galleria Civica d’Arte Moderna e
 Contemporanea di Torino, commencing on January 1, 2016. She
 drafted the 14th Istanbul Biennial, titled SALTWATER. A Theory of
-Thought Forms (5th September â€“ 1st November 2015). Previously, she
+Thought Forms (5th September – 1st November 2015). Previously, she
 was the artistic director of dOCUMENTA (13) (2012); the artistic
-director of the 16th Biennale of Sydney, Revolutionsâ€”Forms That Turn
+director of the 16th Biennale of Sydney, Revolutions—Forms That Turn
 (2008); and senior curator at P.S.1 Contemporary Art Center, a MoMA
 affiliate in New York, from 1999 to 2001.
 
@@ -1115,19 +1115,19 @@ We have jobs that are our day jobs. We're usually working in the same
 field, and we could work at the same job in the same place for months or
 years at a time. People around us mostly understand how we make a living.
 
-Then there are things we feel compelled to do, interests we have that donâ€™t
+Then there are things we feel compelled to do, interests we have that don’t
 get as much daylight. Focused, private creative pursuits we always want to
 spend more time on. We make bolder and less bold moves, step forward and
 back, closer and away, more or less fond, but the interest remains.
 
-Iâ€™ve come to think of these kinds of creative pursuits as night jobs. Very
-many people are working this night shift in their own way. People donâ€™t
-know us for these jobs. Theyâ€™re not our calling cards, but they feel in
+I’ve come to think of these kinds of creative pursuits as night jobs. Very
+many people are working this night shift in their own way. People don’t
+know us for these jobs. They’re not our calling cards, but they feel in
 some way essential to how we operate and express ourselves.
 
 Night Jobs is an evening event in which three individuals show and tell
 about a stream of their work and thinking that rarely sees the light of
-day. With these speakers and their night jobs weâ€™ll look at the vulnerable,
+day. With these speakers and their night jobs we’ll look at the vulnerable,
 the surprising and the essential.
 
 ------------------------------------------------------------------------
@@ -1158,12 +1158,12 @@ dialogue serves its true subject: the traumatic experience of modernity.
 On November 19 at 8:30pm, Vikky Alexander will introduce her
 selected film, Jacques Tatis Playtime (1967). My interest in Playtime
 comes from its satirical perspective on architecture. I like to think that it
-is a film about architectureâ€™s revenge. (VA)
+is a film about architecture’s revenge. (VA)
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-11-12-26-catriona-jeffries-valrie-blass-nov-20">26. OPENING | Catriona Jeffries | ValÃ©rie Blass | NOV 20</a>
+<a href="/instant-coffee/listings/2015-11-12-26-catriona-jeffries-valrie-blass-nov-20">26. OPENING | Catriona Jeffries | Valérie Blass | NOV 20</a>
 ------------------------------------------------------------------------
-ValÃ©rie Blass
+Valérie Blass
 To only ever say one thing forever the same thing
 
 Catriona Jeffries
@@ -1171,7 +1171,7 @@ Catriona Jeffries
 
 Opening reception: Friday, 20 November, 2015, 7-9pm
 
-For ValÃ©rie Blass, things are not what they seem. Bodies become clothes,
+For Valérie Blass, things are not what they seem. Bodies become clothes,
 become costume, become prop, become photograph, become projection, become
 painting, become shadow, become sculpture. Through material and formal
 experiment, her previous work collaged the figure and abstract form,
@@ -1187,11 +1187,11 @@ one thing forever the same thing we become implicated in the experience of
 looking, our bodies persuaded to adjust to both the photograph and
 sculpture together. For Blass, the image is not enough.
 
-ValÃ©rie Blass lives and works in MontrÃ©al, QC and holds an MFA in visual
-and media arts from UniversitÃ© du QuÃ©bec. To only ever say one thing
+Valérie Blass lives and works in Montréal, QC and holds an MFA in visual
+and media arts from Université du Québec. To only ever say one thing
 forever the same thing is her first exhibition with the gallery. She has
 had recent solo exhibitions at Artspeak, Vancouver; The Hole, New York and
-the MusÃ©e dâ€™art contemporain de MontrÃ©al and group exhibitions in Los
+the Musée d’art contemporain de Montréal and group exhibitions in Los
 Angeles, Toronto, Montreal, New York, and Berlin. Her CV and images are
 available here.
 
@@ -1233,7 +1233,7 @@ Vancouver. Whether collaborating with jazz artists for mash-up
 performances, with visual artists for a year-long song-blog, with
 bluegrass bands or brass quintets, The Nautical Miles continue to push
 the boundaries of contemporary Canadian folk music. With this band,
-you can never be certain what will come next, only that you donâ€™t want
+you can never be certain what will come next, only that you don’t want
 to miss it.
 
 The Nautical Miles have toured across Canada and in Europe,
@@ -1242,7 +1242,7 @@ Alliance and the Western Canadian Music Awards , and performed at
 internationally recognized performing arts festivals such as The
 Vancouver International Jazz Festival and The Isle of Wight Festival.
 CBC Radio has twice recorded their concerts for national broadcast.
-Recently, their single Mythmaker, debuted at #1 on CBC Radio 3â€™s
+Recently, their single Mythmaker, debuted at #1 on CBC Radio 3’s
 Chart show The R3-30.
 
 ------------------------------------------------------------------------
@@ -1254,14 +1254,14 @@ November 20, 2015 - April 3, 2016 at MOA.
 Opening: November 20, 2015
 Exhibition Dates: November 20 - April, 3, 2016
 
-UBCâ€™s Museum of Anthropology (MOA) opens a window onto the
+UBC’s Museum of Anthropology (MOA) opens a window onto the
 ethereal world of contemporary Taiwan with the unveiling of the
 profound new exhibition (In)visible: The Spiritual World of Taiwan
-through Contemporary Art, on display November 20, 2015 â€“ April 3,
+through Contemporary Art, on display November 20, 2015 – April 3,
 2016 at MOA (6393 NW Marine Drive). As part of the Spotlight Taiwan
 initiative, (In)visible features a stunning and diverse collection of artistic
-mediums from seven Taiwanese artists, whose works â€“ each presented
-in Canada for the first time â€“ will explore the coexistence of modernity
+mediums from seven Taiwanese artists, whose works – each presented
+in Canada for the first time – will explore the coexistence of modernity
 and tradition, while examining the significance of the spiritual world in
 present day Taiwan. Spotlight Taiwan is made possible through the
 generous support of the Ministry of Culture, Republic of China
@@ -1292,22 +1292,22 @@ medium. We invite you to play these art games, discuss and reflect on
 this emerging medium.
 
 â€œI know of no other way of coping with great tasks, than play.â€ 
-â€” Friedrich Nietzsche
+— Friedrich Nietzsche
 
 What is an art game?
 
 Artists have a long history of using games in their practices and
 creative processes. Surrealists invented the exquisite corpse, Fluxus
 Editions included numerous games and puzzles, Yoko Ono created a
-chess game, Guy Debord designed the Kriegspiel (Game of War)â€”the
+chess game, Guy Debord designed the Kriegspiel (Game of War)—the
 list goes on. How are these games different from Monopoly and GTA?
 What does it mean for an artist to use games as a medium? These are
 some of the questions that inform the works presented at this event.
 
-The four works available to play and purchase includeâ€”
+The four works available to play and purchase include—
 
 CARDOGRAPHY by Nick Lowen: In this game, "drawing a card"
-actually does require a crayonâ€”you get to decide how your game will
+actually does require a crayon—you get to decide how your game will
 look and how you'll play it. While there is a simple set of rules to get
 you started, every game develops into something unique, both visually
 and mechanically.
@@ -1322,12 +1322,12 @@ to be on it.
 PROTOTYPE by Mary Pilon: Prototype has only one rule: Make a
 game and play it. The players, who are provided with a selection of
 cards, pieces and panels, are then put into a position to act or not to
-act, and the result of the game is entirely based upon the participantsâ€™
+act, and the result of the game is entirely based upon the participants’
 willingness and creativity. The game is meant to encourage
-participation, creativity andâ€”when all is said and doneâ€”critical
+participation, creativity and—when all is said and done—critical
 examination and self-reflection.
 
-UNTITLED by Patrick Oâ€™Neill: This experimental video game is an
+UNTITLED by Patrick O’Neill: This experimental video game is an
 attempt to reconcile the relationship between the user and the game
 world where the characters are locked into certain working conditions
 within the game's design, while you (the user) drive them to act on your
@@ -1335,7 +1335,7 @@ behalf. How do we liberate the characters? Can we subvert the
 system?
 
 Monthly Open Studio events are hosted every third Friday of the month
-and are organized by Project Spaceâ€™s Curatorial Collective. This edition
+and are organized by Project Space’s Curatorial Collective. This edition
 was organized by Sarah Davidson and curated by Zoya Mirzaghitova.
 
 ------------------------------------------------------------------------
@@ -1350,7 +1350,7 @@ Nov 20 - Nov 22, 2015
 Opening reception: Friday, November 20 7:00 PM - 10:00 PM
 Gallery Hours Saturday and Sunday 11AM - 6PM
 
-Please join us on Friday Nov. 20 for the opening reception of â€œFresh
+Please join us on Friday Nov. 20 for the opening reception of “Fresh
 Bakedâ€ , a weekend only group exhibition of resident artists from the Bakery
 Studios. The title of the show is an apt response relating the name of the
 gallery space to the output of recent work by eight professionals working
@@ -1372,8 +1372,8 @@ Gallery Gachet and artist Carmen Papalia.
 Amanda Cachia, Carmen Papalia, Cheryl L'Hirondelle and Margaret
 Dragu: moderated by Cecily Nicholson.
 
-The social condition of disabilityâ€”in which a group or individual is
-disempowered by the systems that they are in relation toâ€”is an
+The social condition of disability—in which a group or individual is
+disempowered by the systems that they are in relation to—is an
 epidemic that effectively marginalizes entire communities with diverse
 and complex needs. Locally, this oppression plays out in schools,
 hospitals, cultural institutions, policing, and through various arms of
@@ -1387,7 +1387,7 @@ towards a new accessibility:
 -How does our negotiation of access alter our environment?
 -What are the tenets of an open model for access?
 
-BIOâ€™s of participants:
+BIO’s of participants:
 
 Amanda Cachia is an independent curator from Sydney, Australia and
 is currently completing her PhD in Art History, Theory & Criticism at the
@@ -1411,12 +1411,12 @@ Richmond Women's Centre's Inspirational Woman Award & Mall
 Peepre Award for Outstanding Fitness Leader. She is an internationally
 famous cleaning lady.
 
-Cheryl Lâ€™Hirondelle is an Alberta-born mixed blood
+Cheryl L’Hirondelle is an Alberta-born mixed blood
 (Cree/Metis/German/Polish) community-engaged multi /
 interdisciplinary artist and singer/songwriter, who has been presenting
-and exhibiting her work since the 1980â€™s. Her creative practice
-investigates a Cree worldview (nÃªhiyawin) in contemporary time-space.
-Lâ€™Hirondelle uses song, voice, audio and more to develop endurance-
+and exhibiting her work since the 1980’s. Her creative practice
+investigates a Cree worldview (nêhiyawin) in contemporary time-space.
+L’Hirondelle uses song, voice, audio and more to develop endurance-
 based performances, interventions, site-specific installations,
 participatory projects while she keeps singing and writing songs where
 ever and with whomever she can. Currently Toronto-based, Cheryl has
@@ -1438,10 +1438,10 @@ Museum, the Columbus Museum of Art and the Vancouver Art Gallery.
 <a href="/instant-coffee/listings/2015-11-12-32-grunt-wf-vivo-independent-archives-week-nov-22">32. EVENT | grunt, WF & VIVO | Independent Archives Week | NOV 22</a>
 ------------------------------------------------------------------------
 grunt gallery, Western Front, and VIVO Media Arts Centre to host inaugural
-Independent Archives Week from November 22â€“28, 2015.
+Independent Archives Week from November 22–28, 2015.
 
-Featuring: Al Neil, Althea Thauberger, Amy deâ€™Ath, Carole Itter, Colin
-Browne, Dr. Gabriela Aceves SepÃºlveda, Dr. Kristin L. Dowell, Ethnographic
+Featuring: Al Neil, Althea Thauberger, Amy de’Ath, Carole Itter, Colin
+Browne, Dr. Gabriela Aceves Sepúlveda, Dr. Kristin L. Dowell, Ethnographic
 Terminalia, Gayblevision, George Sawchuk, Henri Robideau, Krista Lomax, the
 Lenore Herb Archive, Luke Fowler, Metro Media, Rebecca Belmore, Stacey Ho
 and more.
@@ -1449,16 +1449,16 @@ and more.
 Vancouver Independent Archives Week is a weeklong series of public events
 that will engage the Vancouver community to raise awareness about
 artist-run centre (ARC) archives. Tours, performances, public talks and
-screenings will take place throughout the week of activities â€“ all free to
+screenings will take place throughout the week of activities – all free to
 the public.
 
 The focus is as diverse as the archives themselves: the punk poetry of the
-Lenore Herb archive, the history of Al Neil and Carole Itterâ€™s cabin,
-little seen footage of Vancouverâ€™s Gayblevision and highlights from years
+Lenore Herb archive, the history of Al Neil and Carole Itter’s cabin,
+little seen footage of Vancouver’s Gayblevision and highlights from years
 of independent music and literature scenes. Vancouver artists have a long
-history as cultural innovators, activists and archivists â€“ their work,
+history as cultural innovators, activists and archivists – their work,
 preserved in the distinct collections of the three participating centres,
-has captured moments in Vancouverâ€™s cultural evolution, documenting
+has captured moments in Vancouver’s cultural evolution, documenting
 important moments and alternative opportunities for social change. Archival
 collections at ARCs provide a unique â€œgrassrootsâ€  window into the
 alternative histories that have shaped our city. Urban Aboriginal, visible
@@ -1480,37 +1480,37 @@ Foundation.
 Sunday November 22nd
 Archives Week kickoff screening & reception @ Vancity Theatre, 3pm. Hosted
 by Colin Browne. Reception to follow in Vancity lobby.
-Â· grunt: Al Neil and Carole Itterâ€™s Cabin by Krista Lomax, Rebecca
-Belmoreâ€™s Victorious and George Sawchuk: At Home in the Woods
-Â· VIVO: Punk, poetry, and politics from the Lenore Herb Archive
-Â· Western Front: New Music from the Media Archive
+· grunt: Al Neil and Carole Itter’s Cabin by Krista Lomax, Rebecca
+Belmore’s Victorious and George Sawchuk: At Home in the Woods
+· VIVO: Punk, poetry, and politics from the Lenore Herb Archive
+· Western Front: New Music from the Media Archive
 
 Monday November 23th
-Artist talk: Dr. Kristin L. Dowellâ€™s Artist-Run Archives/Indigenous Art
+Artist talk: Dr. Kristin L. Dowell’s Artist-Run Archives/Indigenous Art
 Histories @ the Native Education College, 12pm.
 
 Tuesday November 24th
-Launch of the Western Frontâ€™s newly digitized Literary Collection -
-screening, live reading with Amy deâ€™Ath, and archive viewing stations @ the
+Launch of the Western Front’s newly digitized Literary Collection -
+screening, live reading with Amy de’Ath, and archive viewing stations @ the
 Western Front 7pm.
 
 Wednesday November 25th
-Double book launch: Henri Robideauâ€™s Eraser St. and Ethnographic
-Terminaliaâ€™s Terminus: Archives, Ephemera, and Electronic Art E-zine with
+Double book launch: Henri Robideau’s Eraser St. and Ethnographic
+Terminalia’s Terminus: Archives, Ephemera, and Electronic Art E-zine with
 Dr. Kate Hennessy and Tarah Hogue @ grunt, 6pm
 
 Thursday November 26th
 Artists in the Archive Panel discussion @ the Western Front, 7pm. Moderated
-by Caitlin Jones with Dr. Gabriela Aceves SepÃºlveda, Luke Fowler, and
+by Caitlin Jones with Dr. Gabriela Aceves Sepúlveda, Luke Fowler, and
 Althea Thauberger.
 
 Friday November 27th
 Radical Rewind @ VIVO 7pm
-Â· Acting Up in the 70s: Analogue Actions on the West Coast (Metro Media)
-Â· Acting Out in the 80s: Making Gay Tele-visible (Gayblevision)
+· Acting Up in the 70s: Analogue Actions on the West Coast (Metro Media)
+· Acting Out in the 80s: Making Gay Tele-visible (Gayblevision)
 
 Saturday November 28th
-Listening Event: Launch of Stacey Hoâ€™s residency podcast episode 2 @ VIVO,
+Listening Event: Launch of Stacey Ho’s residency podcast episode 2 @ VIVO,
 7:30pm.
 
 Archives Week Wrap party with screening and DJs @ VIVO, 9pm.
@@ -1519,11 +1519,11 @@ Daytime public archives open houses at all three centres with tours and
 material on display.
 
 Ongoing Exhibitions
-Â· Thursday-Saturday @ VIVO: Years of Years: Artists in the Crista
+· Thursday-Saturday @ VIVO: Years of Years: Artists in the Crista
 Dahl Media Library and Archive (Studio & Print Archive)
-Â· All Week @ grunt: Gabriela Aceves SepÃºlvedaâ€™s Remediating Mama
-Pinaâ€™s Cookbook
-Â· Literary and New Music Selections @ the Western Front
+· All Week @ grunt: Gabriela Aceves Sepúlveda’s Remediating Mama
+Pina’s Cookbook
+· Literary and New Music Selections @ the Western Front
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-11-12-33-screening-dim-cinema-ph-gallery-almanac-circa-1970-nov-23">33. SCREENING | DIM Cinema & PH Gallery | Almanac circa 1970 | NOV 23</a>
@@ -1536,7 +1536,7 @@ In 1970, the Stills Division of the National Film Board of Canada
 commissioned a series of photographic booklets by West Coast artists that
 were later compiled into an anthology. The B.C. Almanac(h) C-B artists
 conceived the book as an exhibition, and designed the accompanying
-exhibition as a 3-D version of the bookâ€™s production. To bring to light
+exhibition as a 3-D version of the book’s production. To bring to light
 this forgotten event in the history of West Coast media art, Presentation
 House Gallery has reprinted the anthology and remounted the exhibition,
 along with works from the period by artists featured in the book.
@@ -1549,9 +1549,9 @@ expressive potential of newly accessible camera technologies.
 
 Cosmic Ray | Bruce Conner/USA 1961. 5 min. 16mm
 Variations on a Cellophane Wrapper | David Rimmer/Canada 1970. 9 min. 16mm
-7362 | Pat Oâ€™Neill/USA 1967. 10 min.
+7362 | Pat O’Neill/USA 1967. 10 min.
 Aaeon | Al Razutis/Canada 1970. 24 min. 16mm
-Runs Good | Pat Oâ€™Neill/USA 1970. 15 min. 16mm
+Runs Good | Pat O’Neill/USA 1970. 15 min. 16mm
 Crossroads | Bruce Conner/USA 1976. 37 min. 35mm
 
 Total running time: approx. 99 minutes
@@ -1619,7 +1619,7 @@ Free for Members or with Gallery admission.
 Paul Kajander
 
 Opening Reception and Screenings: Nov 26 @ 7:00pm
-Additional Screenings: Nov 27 â€“ Nov 28, 2015
+Additional Screenings: Nov 27 – Nov 28, 2015
 
 255 E. 2nd Ave, Vancouver
 Presented by New Forms Media Society
@@ -1641,7 +1641,7 @@ accommodates the mess."
 
 Through moving images and prints produced in stereoscopic 3-D, the works
 presented in (Untitled but Unnamed) are the result of artist Paul
-Kajander's research into biographical details surrounding Beckettâ€™s
+Kajander's research into biographical details surrounding Beckett’s
 formative years in Foxrock, Dublin and subsequent expatriation from Ireland.
 
 Curated by Robin Selk
@@ -1658,8 +1658,8 @@ We acknowledge the support of the Canada Council for the Arts, which last
 year invested $153 million to bring the arts to Canadians throughout the
 country.
 
-Nous remercions le Conseil des arts du Canada de son soutien. Lâ€™an dernier,
-le Conseil a investi 153 millions de dollars pour mettre de lâ€™art dans la
+Nous remercions le Conseil des arts du Canada de son soutien. L’an dernier,
+le Conseil a investi 153 millions de dollars pour mettre de l’art dans la
 vie des Canadiennes et des Canadiens de tout le pays.
 
 Additional acknowledgments to the Manuscripts & Archives Research Library
@@ -1718,7 +1718,7 @@ the exhibition ART/AIDS/AMERICA at the Tacoma Art Museum from
 now until Jan 10, 2016. Generally considered merely a tragic tangent to
 US culture, AIDS has in fact been one of the most powerful shaping
 forces in American culture since the 1980s. Of course, we have
-repressed AIDSâ€™ role in the making of our culture in keeping with our
+repressed AIDS’ role in the making of our culture in keeping with our
 longstanding, repression of AIDS in general. But repression, as known
 from psychoanalysis, is the sign of great power. The lecture will be
 followed by a Q&A with Dr. Katz.
@@ -1728,13 +1728,13 @@ works at the intersection of art history and queer history. Widely
 recognized as a leading authority in queer art history, his work as
 curator, scholar, and activist has had a profound impact on the
 understanding of queer art and artists in both academia and the larger
-world. Katz founded the Harvey Milk Institute, the worldâ€™s largest queer
+world. Katz founded the Harvey Milk Institute, the world’s largest queer
 studies institute, and serves as president and chief curator of New York
 City's Leslie Lohman Museum of Gay and Lesbian Art. His recent work
-includes co-curating â€œHide/Seek: Difference and Desire in American
+includes co-curating “Hide/Seek: Difference and Desire in American
 Art,â€  an exhibition at the Smithsonian National Portrait Gallery that
 broke ground by focusing on LGBTQ (lesbian, gay, bisexual,
-transgender and queer) issues. Katz directs SUNY Buffaloâ€™s PhD
+transgender and queer) issues. Katz directs SUNY Buffalo’s PhD
 program in visual studies. Katz is currently co-curating
 ART/AIDS/AMERICA at the Tacoma Art Museum from now until
 January 10, 2016, and will curate the 2016 Queer Arts Festival visual
@@ -1769,7 +1769,7 @@ photochemical process, giving birth to a new, textural aesthetic that plays
 out on the surface of the filmstrip.
 
 More than ever before, film is used as an artistic medium to remind us of
-its unique physicality, giving a new sense to Andrei Tarkovskyâ€™s idea of
+its unique physicality, giving a new sense to Andrei Tarkovsky’s idea of
 â€œsculpting in time.â€  For this yearâ€™s edition of Frenkel Defects at
 Cineworks, one of two 70-minute programs of rare and diverse works will be
 screened, nearly all of which originate outside North America, presented in
@@ -1778,20 +1778,20 @@ their intended 16mm format, including:
 Part 1
 Konrad & Kurfurst - Esther Urlus (07 mins)
 Eric Stewart - WAKE (08 mins)
-DISTRUKTUR - In the Travelerâ€™s Heart (20 mins)
+DISTRUKTUR - In the Traveler’s Heart (20 mins)
 
 Part 2
-AndrÃ©s Denegri - Aula Magna (10 mins)
-DraÅ¾en Zanchi - Split Film 100110 (30 mins)
+Andrés Denegri - Aula Magna (10 mins)
+Dražen Zanchi - Split Film 100110 (30 mins)
 
 Almost all films in the Frenkel Defects series have been produced with the
 help of â€œartist-run film labsâ€  - collectively-run organizations dedicated
-to facilitating artistsâ€™ working in photochemical film -- including
-LaborBerlin (Berlin), Lâ€™Abominable (Paris) and Filmwerkplaats (Rotterdam).
+to facilitating artists’ working in photochemical film -- including
+LaborBerlin (Berlin), L’Abominable (Paris) and Filmwerkplaats (Rotterdam).
 
 While these and other organizations have been active in Europe for almost
 two decades, the trend is largely emergent in North America, with
-Cineworksâ€™ Annex facility (235 Alexander Street basement), established in
+Cineworks’ Annex facility (235 Alexander Street basement), established in
 2008, being an older sibling among company in Boston, Oakland, Denver, New
 York, Montreal to name a few. Process Reversal, having secured abundant
 donations of lab equipment, hopes to continue assisting in the growth of
@@ -1843,7 +1843,7 @@ developed as a positive of the original negative, producing an image of
 unparalleled quality and sharpness compared to all other methods of
 reproducing a motion picture image.
 
-The Model C, introduced in the 1960â€™s, has many excellent features for
+The Model C, introduced in the 1960’s, has many excellent features for
 'striking' both black & white and colour prints, and is considered -- even
 to this day --to be one of the premier contact printers. In this workshop,
 the basic workflow for the operation of the printer will be covered,
@@ -1856,25 +1856,25 @@ experimentation on the contact printer will be discussed, such as
 multi-pass printing, colour separation, and contact printing 'objects.'
 
 INSTRUCTOR: Kevin Rice (Process Reversal, USA)
-Originating from Denver, Colorado, Kevin Rice is a â€˜film archivistâ€™ whose
+Originating from Denver, Colorado, Kevin Rice is a ‘film archivist’ whose
 practice focuses on the study of photochemical theories, the development of
 lab resources for filmmakers, and the documentation of various darkroom
 odysseys on motion picture film. He has taught and screened work at several
-artist-run film labs including no.w.here London, lâ€™abominable Paris,
+artist-run film labs including no.w.here London, l’abominable Paris,
 Klubvizija Zagreb and Laborberlin. In 2012, he helped found Process
 Reversal, a film collective dedicated to producing resources for filmmakers
 and film labs. Rice's most recent efforts include the engineering of a b&w
 reversal process based on the properties of seawater for an adaptation of
-Homerâ€™s Epic Cycle.
+Homer’s Epic Cycle.
 
 RELATED EVENTS:
 
 Frenkel Defects III: A Traveling Screening Series of Contemporary
-Experimental 16mm Films â€“
+Experimental 16mm Films –
 http://cineworks.ca/attend/event/137
 
 Process Reversal: An Artist-Run, Photochemical Initiative; Artist Talk by
-Kevin Rice (USA) â€“
+Kevin Rice (USA) –
 http://cineworks.ca/attend/event/138
 
 PARTNER INFORMATION:
@@ -1897,7 +1897,7 @@ Cineworks and Eastside Culture Crawl present:
 
 An Introduction to Creating Handmade 16mm Films
 
-Sat 28 November, 1.00pm â€“ 5.00pm
+Sat 28 November, 1.00pm – 5.00pm
 Cineworks Annex, 235 Alexander Street (lane entrance)
 Eastside Culture Crawl Special Price: $20(+ taxes)
 Instructor: Jesse Andrewartha
@@ -1946,8 +1946,8 @@ the aftermath." - Chantal Joffe
 Echoing the idea of Chantal Joffe, we cannot speak of the original
 intentions of the Tex Mex paintings. The series began as a reaction to
 fascinations; it is a series that evolved from the obsessive tendency of
-a painter. The viewer is presented with a loose narrative based on Ã¢
-â‚¬ËœTexMexÃ¢â‚¬â„¢ food trends and a playful palette.
+a painter. The viewer is presented with a loose narrative based on â
+€˜TexMexâ€™ food trends and a playful palette.
 
 Corie Waugh is a visual artist who works with oil paint andphotography.
 Her focus is on process-based work, paying close attention to the
@@ -2011,7 +2011,7 @@ You may also submit up to 2 other items of relevant support material
 and should only be provided if they relate directly to your proposal.
 Submission Procedure:
 If applying by e-mail: Please include all written support as a single PDF
-file. Send PDF's and JPEGâ€™s to info@mstfestival.org before Monday,
+file. Send PDF's and JPEG’s to info@mstfestival.org before Monday,
 November 30, 2015 at 4:30pm, with the subject line ATTN: CALL FOR
 SUBMISSIONS.
 
@@ -2026,7 +2026,7 @@ Submissions must be postmarked by Monday, November 30, 2015 at
 Send all submissions to:
 
 ATTN: M:ST Festival Programming Committee
-#212, 223 â€“ 12th Avenue SW
+#212, 223 – 12th Avenue SW
 Calgary, AB Canada T2R 0G9
 
 Application Tips:
@@ -2050,9 +2050,9 @@ EATa III: WOMEN IN FOCUS |The First Decade
 A Fundraiser in Support of VIVO's Conservation Programs
 Wednesday, December 2nd 2015
 At VIVO Media Arts Centre, 2625 Kaslo Street, Vancouver
-6:30 pm â€“ 10 pm
+6:30 pm – 10 pm
 
-VIVO looks back on Vancouverâ€™s original feminist media art centre and
+VIVO looks back on Vancouver’s original feminist media art centre and
 gallery, Women in Focus (WIF), during its first decade (1974-1984).
 The evening features WIF founder, Marion Barling, an exhibition of
 archival materials including original video productions, and an Italian
@@ -2086,17 +2086,17 @@ critical players in that historical moment.
 
 Brief History of Women In Focus
 Women in Focus was initiated by Marion Barling in 1974 as one of the
-activities offered by the UBC Womenâ€™s Office Collective, working out of
+activities offered by the UBC Women’s Office Collective, working out of
 the Student Union Building. WIF produced media about, and of interest
 to, women, that were shown on Vancouver Cable 10 during its 1975
-and 1976 season. These programs were funded by the Womenâ€™s
+and 1976 season. These programs were funded by the Women’s
 Programme of the Secretary of State.
 In 1976 Women in Focus went out on its own. In 1978 WIF created its
-first public event, The Vancouver Womenâ€™s Film and Video Festival. It
+first public event, The Vancouver Women’s Film and Video Festival. It
 offered distribution to women video and film producers and its gallery
 (initated 1979) exhibited local, national and international artists over the
 next 16 years. WIF ceased operations in 1992 and its film and video
-archive was donated by the Society to VIVOâ€™s archive.
+archive was donated by the Society to VIVO’s archive.
 Marion Barling Self-Portrait for Web
 
 ------------------------------------------------------------------------
@@ -2118,10 +2118,10 @@ Call For Submissions:
 Emerging Artist Research Residency
 MAY 1-29, 2016
 
-The University of Windsorâ€™s School of creative arts/Visual arts offers a
+The University of Windsor’s School of creative arts/Visual arts offers a
 one-month Emerging Artist Research Residency. This program is an
 opportunity for emerging artists to: cultivate new ideas through
-research and production, access the schoolâ€™s resources and facilities,
+research and production, access the school’s resources and facilities,
 and explore the cultural regions of Windsor and Detroit.
 Resources available include: Sculpture Studio and Equipment, Multi
 Media, Woodshop, and much more. Each resident artist will present
@@ -2152,12 +2152,12 @@ University of Windsor
 Windsor ON N9B 3P4
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-11-12-47-the-contemporary-art-society-call-for-submissions-emerging-a">47. CALL | The Contemporary Art Society | Call for Submissions: Emerging Artistâ€™s Prize | JAN 15</a>
+<a href="/instant-coffee/listings/2015-11-12-47-the-contemporary-art-society-call-for-submissions-emerging-a">47. CALL | The Contemporary Art Society | Call for Submissions: Emerging Artist’s Prize | JAN 15</a>
 ------------------------------------------------------------------------
 Starting November 1st, 2015, Emerging artists in the Lower Mainland
 are invited to submit their artwork (in all media) for consideration for the
-Contemporary Art Society of Vancouverâ€™s third annual Emerging
-Artistâ€™s Prize.
+Contemporary Art Society of Vancouver’s third annual Emerging
+Artist’s Prize.
 
 The Contemporary Art Society, in an effort to provide emerging artists
 with an opportunity to showcase their work and to receive financial
@@ -2178,7 +2178,7 @@ Gallery in Vancouver in the spring of 2016. The winner will awarded a
 cash prize of $3,000, with the other four finalists receiving a cash prize
 of $500 each. The prize is entirely funded by CASV membership and
 all Emerging Artist Prize donations encourage and support young
-contemporary artists. CASVâ€™s Emerging Artistâ€™s Prize is the only one of
+contemporary artists. CASV’s Emerging Artist’s Prize is the only one of
 its kind selected through an open competition. Other artist prizes
 awarded in Vancouver are by nomination only, and focus on mid-career
 or senior artists.
@@ -2258,15 +2258,15 @@ Grey Stone Studio is a shared artist studio space and we have two artist
 spaces currently available.
 The shared studio space 1100 sqft space that provides:
 
-â€¢ Shared Woodshop/ Metalshop (over 300 sqft)
-â€¢ Paint sink
-â€¢ Washrooms provided on site
-â€¢ 24h access
-â€¢ 100sqft personal artist space
-â€¢ 22ft high space
-â€¢ Concrete floors
-â€¢ At grade loading with garage door.
-â€¢ Free parking
+• Shared Woodshop/ Metalshop (over 300 sqft)
+• Paint sink
+• Washrooms provided on site
+• 24h access
+• 100sqft personal artist space
+• 22ft high space
+• Concrete floors
+• At grade loading with garage door.
+• Free parking
 
 Studio rate: $450/month. This includes use of the communal shop space with
 tools and personal artist space. Heating, electricity, water.
@@ -2274,7 +2274,7 @@ tools and personal artist space. Heating, electricity, water.
 We are looking for sculptors, painters, mixed media artists, designers and
 anyone that is excited about creating.
 
-instant coffee: itâ€™s a complicated thing to look at an image
+instant coffee: it’s a complicated thing to look at an image
 
 
 ................................................................

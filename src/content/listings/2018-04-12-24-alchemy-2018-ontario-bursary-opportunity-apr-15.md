@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 24
 type: "CALL"
+venue: "ALCHEMY 2018 (Ontario)"
 summary: "ALCHEMY 2018 (Ontario) | BURSARY OPPORTUNITY | APR 15"
 ---
 

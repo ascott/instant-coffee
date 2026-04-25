@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 11
 type: ""
+venue: "The Toast Collective"
 summary: "The Toast Collective | Other Worlds Film Night Brother from Another Plant | APR 5"
 ---
 

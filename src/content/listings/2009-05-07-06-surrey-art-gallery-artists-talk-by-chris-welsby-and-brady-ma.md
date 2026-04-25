@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: show us your jazz hands"
 emailDate: "Thu, 07 May 2009 09:10:15 -0700"
 number: 6
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artist’s Talk by Chris Welsby and Brady Marks | MAY 7"
 ---
 

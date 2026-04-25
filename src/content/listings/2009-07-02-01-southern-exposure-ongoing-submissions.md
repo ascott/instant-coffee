@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no excuses"
 emailDate: "Thu, 02 Jul 2009 08:30:59 -0700"
 number: 1
 type: ""
+venue: "Southern Exposure"
 summary: "Southern Exposure | Ongoing submissions"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 8
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Jack Jeffrey: Recent Sculpture at Red Gate Arts... | JUL 22"
 ---
 

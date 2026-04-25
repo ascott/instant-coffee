@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Catriona Jeffries | Steven Cottingham Chain-link | 9PM | JUL 21"
 ---
 

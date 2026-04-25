@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "PLATFORMS 2020 Public Works, City of Vancouver"
 summary: "PLATFORMS 2020 Public Works, City of Vancouver | Randy Lee Cutler: On the Other Hand | SEP 8"
 ---
 

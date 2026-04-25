@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 6
 type: "EVENT"
+venue: "ECU"
 summary: "ECU | Student Art Sale | NOV 23-25th | NOV 23"
 ---
 

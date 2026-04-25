@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 9
 type: "OPENING"
+venue: "Emily Carr Univ 2nd floor Exhibit"
 summary: "Emily Carr Univ 2nd floor Exhibit | Frybread as Foq | 5PM | FEB 1"
 ---
 

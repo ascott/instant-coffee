@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 15
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | T-shirt Design Contest | SEP 30"
 ---
 
@@ -22,19 +23,19 @@ Gachet "Salon Shop" all year, starting this fall. Here is Gallery Gachet's
 Basis of Unity to give you some inspiration:
 
 Our Basis of Unity
-â€¢	We agree to support the artistic and professional development of 
+•	We agree to support the artistic and professional development of 
 our community as a means to achieve social, cultural and economic 
 justice
-â€¢	We agree to support the wellness of people marginalized by their 
+•	We agree to support the wellness of people marginalized by their 
 mental health, trauma and/or abuse experience
-â€¢	We work for the elimination of discrimination against people 
+•	We work for the elimination of discrimination against people 
 marginalized by their mental health, trauma and/or abuse experience
-â€¢	We believe in the expression and practice of art and culture as a 
+•	We believe in the expression and practice of art and culture as a 
 human right
-â€¢	We agree to promote the critical function of art and culture in 
+•	We agree to promote the critical function of art and culture in 
 building a healthy societyW
-â€¢	We believe art is a means for survival, self-expression and health
-â€¢	
+•	We believe art is a means for survival, self-expression and health
+•	
 The "Salon Shop" is an inclusive micro-gallery space located within our 
 Gachet walls featuring work by Gachet's collective and volunteer 
 members. As art and cultural spaces and resources are seized and 

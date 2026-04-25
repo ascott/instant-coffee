@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 12
 type: "TALK"
+venue: "Unit 17"
 summary: "Unit 17 | Sharona Franklin | 3pm | MAR 16"
 ---
 

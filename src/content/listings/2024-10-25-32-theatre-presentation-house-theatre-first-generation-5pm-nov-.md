@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 32
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Presentation House Theatre | First Generation | 5PM | NOV 9"
 ---
 

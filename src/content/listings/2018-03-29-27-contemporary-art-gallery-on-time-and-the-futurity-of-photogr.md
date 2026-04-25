@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 27
 type: "TALK"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | On Time and the Futurity of Photography | 3-4PM | APR 7"
 ---
 

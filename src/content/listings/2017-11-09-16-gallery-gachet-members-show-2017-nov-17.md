@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 16
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Members Show 2017 | NOV 17"
 ---
 

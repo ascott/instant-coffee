@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 28
 type: "EVENT"
+venue: "The Dance Centre"
 summary: "The Dance Centre | Daina Ashbee | FEB 6"
 ---
 

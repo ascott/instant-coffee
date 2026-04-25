@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 17
 type: "EDUCATION"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Marketing Your Artwork | APR 30"
 ---
 

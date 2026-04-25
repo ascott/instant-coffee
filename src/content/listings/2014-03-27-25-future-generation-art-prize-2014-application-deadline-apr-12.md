@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 25
 type: ""
+venue: "Future Generation Art Prize 2014"
 summary: "Future Generation Art Prize 2014 | application deadline | APR 12"
 ---
 

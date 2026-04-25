@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | Activate DTES & the Flats"
 ---
 

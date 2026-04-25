@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 4
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Sensing Salon | NOV 24"
 ---
 

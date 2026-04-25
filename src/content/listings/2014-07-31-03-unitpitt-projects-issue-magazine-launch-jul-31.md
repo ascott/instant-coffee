@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feels something akin to shy in you
 emailDate: "Thu, 31 Jul 2014 12:37:30 -0700"
 number: 3
 type: ""
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | ISSUE Magazine launch | JUL 31"
 ---
 

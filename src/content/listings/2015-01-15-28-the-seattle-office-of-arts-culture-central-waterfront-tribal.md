@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 28
 type: "CALL"
+venue: "The Seattle Office of Arts & Culture"
 summary: "The Seattle Office of Arts & Culture | Central Waterfront Tribal Art Project | FEB 2"
 ---
 

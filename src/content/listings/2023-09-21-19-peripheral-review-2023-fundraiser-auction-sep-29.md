@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 19
 type: "FUNDRAISER"
+venue: "Peripheral Review"
 summary: "Peripheral Review | 2023 Fundraiser Auction | SEP 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 6
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Documentarian: New Acquisitions Screening | 7-930P | JAN 10"
 ---
 

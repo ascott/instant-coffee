@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 26
 type: "TALK"
+venue: "CAG @ SFU"
 summary: "CAG @ SFU | Ryan Gander in conversation | SEP 11"
 ---
 
@@ -17,4 +18,4 @@ Djavad Mowafaghian World Art Centre
 
 Join us for a special in-conversation event between Gander and CAG Director
 Nigel Prince, a playful discussion centred on the themes and ideas present
-in the exhibition: Make every show like itâ€™s your last.
+in the exhibition: Make every show like it’s your last.

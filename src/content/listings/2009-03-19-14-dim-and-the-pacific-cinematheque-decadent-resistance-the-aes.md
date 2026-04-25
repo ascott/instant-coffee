@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 14
 type: ""
+venue: "DIM and the Pacific Cinematheque"
 summary: "DIM and the Pacific Cinematheque | Decadent Resistance: The Aesthetics of Politics | MAR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 40
 type: "CALL"
+venue: "The Salt Spring National Art Prize"
 summary: "The Salt Spring National Art Prize | Call for Submissions | MAY 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 10
 type: "EVENT"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Juxtapoz x Superflat | NOV 5"
 ---
 

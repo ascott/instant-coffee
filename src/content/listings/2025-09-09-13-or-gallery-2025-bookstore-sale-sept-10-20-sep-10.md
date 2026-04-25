@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 13
 type: "EVENT"
+venue: "Or Gallery"
 summary: "Or Gallery | 2025 Bookstore Sale | SEPT 10-20 | SEP 10"
 ---
 

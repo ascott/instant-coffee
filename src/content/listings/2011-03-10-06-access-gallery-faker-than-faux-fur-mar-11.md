@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 6
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Faker than Faux Fur | MAR 11"
 ---
 
@@ -21,7 +22,7 @@ use of humor, ambiguity, and absurdity. Bartholomew, Hou, and Moore
 conceived and developed the idea of an installation collaboratively yet
 present a range of individual and independent works by each artist.
 
-Initially the trio was inspired by the plans and models for Emilio Ambaszâ€™
+Initially the trio was inspired by the plans and models for Emilio Ambasz’
 â€œMan is an Island,â€  which proposes an imagined structure in an idyllic
 landscape. The utopic model possesses the material effect of being
 something without actually being it. It also anticipates the becoming of
@@ -31,7 +32,7 @@ potentiality seem to be at the root of this exhibition.
 Seeking to remove the filter or screen that gives a film set or prop a
 natural appearance the three artists of Faker Than Faux Fur create
 installations that reference the simulacral world of Hollywood back lots,
-accentuating the propâ€™s immediate failure and/or success as representations
+accentuating the prop’s immediate failure and/or success as representations
 of a real or imagined world. Each artist infuses their sculptural replicas
 with further symbolic adjustments and material adaptations to askew the
 viewers reading of the works. Through the construction of false versions of

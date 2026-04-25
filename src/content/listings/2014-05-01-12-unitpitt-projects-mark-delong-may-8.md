@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 12
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Mark DeLong | MAY 8"
 ---
 

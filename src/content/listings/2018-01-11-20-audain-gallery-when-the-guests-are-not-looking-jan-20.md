@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 20
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | When the Guests Are Not Looking | JAN 20"
 ---
 

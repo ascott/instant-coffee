@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 34
 type: ""
+venue: "JOB"
 summary: "JOB | Powell Street Festival Society | Artistic Director and Administrative Assistant | JAN 30"
 ---
 
@@ -11,9 +12,9 @@ POWELL STREET FESTIVAL SOCIETY
 
 ABOUT THE SOCIETY
 
-The Powell Street Festival Societyâ€™s (PSFS) mission is to cultivate
+The Powell Street Festival Society’s (PSFS) mission is to cultivate
 Japanese Canadian arts and culture to connect communities. Our main
-activity is producing the Powell Street Festival (PSF) in Vancouverâ€™s
+activity is producing the Powell Street Festival (PSF) in Vancouver’s
 historic Japanese Canadian neighbourhood. PSF is an annual celebration of
 Japanese Canadian arts and culture. Inaugurated in 1977, it is the largest
 event of its kind in Canada and the longest running community festival in
@@ -40,8 +41,8 @@ production and Festival presentation.
 The Powell Street Festival Society envisions a society enriched and
 interconnected through Japanese Canadian arts and culture. The Artistic
 Director will play a lead role in shaping the curatorial direction of the
-Society as it relates to this vision. Staying true to PSFSâ€™s mission, the
-Artistic Director will invigorate the Societyâ€™s annual season of
+Society as it relates to this vision. Staying true to PSFS’s mission, the
+Artistic Director will invigorate the Society’s annual season of
 programming, including the Festival, now entering its 39th year. The
 Artistic Director will have a vision that is expansive and engaging,
 working towards diversifying the Festival, its seasonal programming and
@@ -53,12 +54,12 @@ Duties and Responsibilities:
 
 Programming and Curatorial:
 -Increases research of and outreach to artists, curators and cultural
-producers whose works are consistent with the Festivalâ€™s mission.
+producers whose works are consistent with the Festival’s mission.
 -Develops a clear curatorial vision for each Festival, and communicates
 that vision through outreach and publicity.
 -Chairs monthly evening Programming Committee meetings.
 -In cooperation with the Programming Committee, oversees and leads the
-development and execution of each seasonâ€™s programming and translates it
+development and execution of each season’s programming and translates it
 into project descriptions.
 -In cooperation with the Programing Committee evaluates and selects
 Festival artists to invite, and Festival artist applicants.

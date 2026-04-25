@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 27
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Young creators art camp | JUL 2"
 ---
 

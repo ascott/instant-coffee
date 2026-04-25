@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 3
 type: ""
+venue: "Negotiating the Social Bond of Poetics"
 summary: "Negotiating the Social Bond of Poetics | Clint Burnham - reading | JUL 9"
 ---
 
@@ -341,7 +342,7 @@ those attending the workshop. If you have any further questions about the
 theme or reading material, contact Nancy by email:
 Gillespie(dot)nancy(at)gmail(dot)com.
 
-Â¨Please visit the KSW website for the Negotiating the Social Bond of
+¨Please visit the KSW website for the Negotiating the Social Bond of
 Poetics Series Thematic Abstract, list of resources, and complete list of
 writers associated with the series.
 

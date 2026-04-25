@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: toofur"
 emailDate: "Fri, 25 May 2012 16:00:46 -0700"
 number: 5
 type: ""
+venue: "Blim"
 summary: "Blim | Keith Weiss | MAY 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 7
 type: ""
+venue: "shudder gallery + dance awkward"
 summary: "shudder gallery + dance awkward | random patterns | DEC 2"
 ---
 

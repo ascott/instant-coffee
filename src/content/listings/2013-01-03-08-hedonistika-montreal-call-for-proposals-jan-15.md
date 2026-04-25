@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you are a complex diamond and we 
 emailDate: "Thu, 03 Jan 2013 11:03:39 -0800"
 number: 8
 type: ""
+venue: "Hedonistika, Montreal"
 summary: "Hedonistika, Montreal | call for proposals | JAN 15"
 ---
 
-Hedonistika call for proposals â€“ Deadline January 15th, 2013
+Hedonistika call for proposals – Deadline January 15th, 2013
 
-MontrÃ©al, QuÃ©bec â€“ Canada
+Montréal, Québec – Canada
 
 Scheduled for the fall 2013
 
@@ -35,7 +36,7 @@ that explore the critical issues within these realms. The curators are
 accepting proposals for complete works (and works almost complete) for
 the exhibition in the festival portion of the event. Proposed
 projects should have a technological component. Artists should submit
-a pdf document comprised of â€¦
+a pdf document comprised of …
 
 A short CV (2 pgs)
 

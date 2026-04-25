@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 5
 type: "EVENT"
+venue: "CiTR + Discorder @ PLOT"
 summary: "CiTR + Discorder @ PLOT | Pender Guy Radio Listening Party | NOV 24"
 ---
 

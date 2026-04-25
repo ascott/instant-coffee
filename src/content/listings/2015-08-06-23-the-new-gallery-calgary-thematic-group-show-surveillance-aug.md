@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 23
 type: "CALL"
+venue: "The New Gallery (Calgary)"
 summary: "The New Gallery (Calgary) | Thematic Group Show - Surveillance | AUG 23"
 ---
 
@@ -18,14 +19,14 @@ November 14, 2015. Artists are encouraged to consider the following prompt
 when they apply:
 
 With the passing of Bill C-51 life in Canada no longer toes the line of a
-Big Brother state â€“ it is a reality presently actualizing. Surveillance has
+Big Brother state – it is a reality presently actualizing. Surveillance has
 been an increasingly omnipresent force in North American culture. A social
 expectancy and understanding that we will be watched in some capacity has
-formed. Physically and digitally, a personâ€™s actions are monitored, and the
-question of whether or not that is harmful to oneâ€™s existence arises.
+formed. Physically and digitally, a person’s actions are monitored, and the
+question of whether or not that is harmful to one’s existence arises.
 
-Applicants are also urged to consider the mechanisms and structures â€“
-including but not limited to the social, political, and physical means â€“
+Applicants are also urged to consider the mechanisms and structures –
+including but not limited to the social, political, and physical means –
 that create surveillance states.
 
 SUBMISSION PROCEDURE AND GUIDELINES
@@ -49,7 +50,7 @@ research, and interests, if applicable.
 
 3. Support: Please include up to fifteen pieces of additional support
 material, including digital images, videos, text excerpts, or audio clips
-alongside a corresponding numbered image list detailing the artworkâ€™s
+alongside a corresponding numbered image list detailing the artwork’s
 title, medium, physical size, date of completion, and any other necessary
 descriptors. Our Programming Committee will review up to a maximum of five
 minutes of time-based work.
@@ -70,5 +71,5 @@ exhibitions. Additionally, we will provide limited financial resources to
 aid artists in managing shipping and travel costs.
 
 Please send completed submission packages to:
-ATTN: Programming Committee â€“ Thematic
+ATTN: Programming Committee – Thematic
 info@thenewgallery.org

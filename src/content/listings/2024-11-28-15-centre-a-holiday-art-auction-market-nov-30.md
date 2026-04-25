@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 15
 type: "FUNDRAISER"
+venue: "Centre A"
 summary: "Centre A | Holiday Art Auction & Market | NOV 30"
 ---
 

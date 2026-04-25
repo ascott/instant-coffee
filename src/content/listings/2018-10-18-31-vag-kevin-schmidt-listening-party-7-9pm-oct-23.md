@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 31
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Kevin Schmidt: listening party | 7-9PM | OCT 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GET WITH IT"
 emailDate: "Thu, 03 Jan 2019 09:00:40 -0800"
 number: 4
 type: "OPENING"
+venue: "the fifty fifty arts collective (Victoria)"
 summary: "the fifty fifty arts collective (Victoria) | Leviathanic Allusion by Natasha van Netten | 7-10p | JAN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 17
 type: "EVENT"
+venue: "UBC AHVA"
 summary: "UBC AHVA | 7th Annual AHVA Graduate Symposium | MAR 1"
 ---
 

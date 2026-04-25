@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 17
 type: ""
+venue: "SFU, Teck Gallery"
 summary: "SFU, Teck Gallery | Bridge City Links for a Fragile Peninsula | MAR 15"
 ---
 
-Bridge City Links for a Fragile Peninsula, 1895Ã¢ï¿½ï¿½1980
+Bridge City Links for a Fragile Peninsula, 1895â��1980
 March 15 to June 22, 2010
 
 Simon Fraser University, Teck Gallery

@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 13
 type: "EVENT"
+venue: "Cineworks"
 summary: "Cineworks | Odd Sundays; Analogue Film Lab Drop-In | MAY 31"
 ---
 
 Cineworks Annex, Ironworks, 235 Alexander Street
 (basement, lane entrance: please ring the bell to the right of the gate)
-Sunday May 31, 10.00am â€“ 2.00pm
+Sunday May 31, 10.00am – 2.00pm
 
 FREE
 
 Open Film Lab and Analogue Studio Drop-In
 
-Odd Sundays are open studio and darkroom events at The Annexâ€“â€“Cineworks'
+Odd Sundays are open studio and darkroom events at The Annex––Cineworks'
 analogue film facility, focusing on hand-, tank-, and machine-based film
 processing, optical and contact printing, animation, installation and
 exhibition.
@@ -23,7 +24,7 @@ exhibition.
 Come for an Annex equipment and facilities orientation (please arrive by
 10.30am for one of these), bring your own cine film or stills negative to
 develop, come for a chat if you'd like to know more about working with
-35mm, 16mm and 8mm film, or if youâ€™d like advice on a project you have in mind.
+35mm, 16mm and 8mm film, or if you’d like advice on a project you have in mind.
 
 Sunday May 31 will feature a Chromaflex chemistry line, with hands-on
 demonstrations of the processing technique pioneered by Richard Tuohy and

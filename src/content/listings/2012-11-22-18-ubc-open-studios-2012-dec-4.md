@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 18
 type: ""
+venue: "UBC OPEN STUDIOS 2012"
 summary: "UBC OPEN STUDIOS 2012 | | DEC 4"
 ---
 

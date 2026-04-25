@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "AUDAIN GALLERY SFU Hastings"
 summary: "AUDAIN GALLERY SFU Hastings | BFA Graduating Exhibition 2024 | APR 17"
 ---
 

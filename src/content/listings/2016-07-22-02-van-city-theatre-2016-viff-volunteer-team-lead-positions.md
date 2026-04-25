@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interactive automata"
 emailDate: "Thu, 21 Jul 2016 17:00:10 -0700"
 number: 2
 type: "CALL"
+venue: "Van City Theatre"
 summary: "Van City Theatre | 2016 VIFF VOLUNTEER TEAM LEAD POSITIONS"
 ---
 

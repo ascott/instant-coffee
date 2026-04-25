@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 14
 type: "OPENING"
+venue: "Left of Main"
 summary: "Left of Main | Half an Hour of Our Time | APR 17"
 ---
 

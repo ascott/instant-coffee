@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 3
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | Roy Arden | until | JAN 7"
 ---
 

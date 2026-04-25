@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 2
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Smileys | GrandChildren\\Kick Evrything\\eeek! | NOV 26"
 ---
 

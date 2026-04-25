@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 10
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | in conversation | Kota Ezawa, Clint Burnham and Stephen Collis | FEB 4"
 ---
 
@@ -16,24 +17,24 @@ Vancouver Art Gallery
 
 Free with gallery admission.
 
-On the occasion of Kota Ezawaâ€™s new installation at Vancouver Art 
+On the occasion of Kota Ezawa’s new installation at Vancouver Art 
 Gallery Offsite, we are pleased to present the artist in conversation 
 with writer/curator Clint Burnham, writer/educator/activist Stephen 
 Collis, moderated by Offsite curator Kathleen Ritter.
 
-For Offsite, Ezawaâ€™s large-scale wooden tableau features a group of 
+For Offsite, Ezawa’s large-scale wooden tableau features a group of 
 people raising their hands in what appears to be a town hall meeting. 
 The work is a visual representation of democracy by one of its most 
-prevalent signifiers: the vote. Ezawaâ€™s rendering is faithful to the 
-original source image by maintaining the photographâ€™s basic structure 
+prevalent signifiers: the vote. Ezawa’s rendering is faithful to the 
+original source image by maintaining the photograph’s basic structure 
 and framing. By eliminating details, the image refers less to the specific 
 group of individuals, and more to a general sign of a collective body 
 united in a common purpose. In light of recent events in which 
 demands for societal reform have become apparent in Canada and 
-internationally, Ezawaâ€™s portrait of democracy could not be more 
+internationally, Ezawa’s portrait of democracy could not be more 
 timely.
 
-Ezawaâ€™s work brings to mind a range of associations with regards to 
+Ezawa’s work brings to mind a range of associations with regards to 
 democracy, collective decision making and the investment of the 
 individual in the creation of public space. Clint Burnham, co-curator 
 (with Lorna Brown) of the recent public art project Digital Natives 
@@ -41,7 +42,7 @@ individual in the creation of public space. Clint Burnham, co-curator
 <http://digitalnatives.othersights.ca/> ) and Stephen Collis, whose 
 recent involvement in Occupy Vancouver is documented at 
 http://occupyvancouvervoice.com/ <http://occupyvancouvervoice.com/> 
-, will give local perspective to Ezawaâ€™s evocative image. Public space, 
+, will give local perspective to Ezawa’s evocative image. Public space, 
 in our current historical moment, has become a contested territory, and 
 the occupation of it a powerful and controversial statement. In this 
 context, how has the practice of placing art in public space evolved?
@@ -52,7 +53,7 @@ Scott Gallery, Vancouver; Artpace, San Antonio; and the Wadsworth
 Atheneum in Hartford. He has participated in group exhibitions at the 
 Vancouver Art Gallery; Museum of Modern Art, New York; Metropolitan 
 Museum of Art; San Francisco Museum of Modern Art, Andy Warhol 
-Museum in Pittsburgh; Art Institute of Chicago; MusÃ©e dâ€™Art Moderne 
+Museum in Pittsburgh; Art Institute of Chicago; Musée d’Art Moderne 
 de la Ville de Paris; as well as the 5th Seoul International Biennale of 
 Media Art and the 2004 Shanghai Biennale. Ezawa lives in San 
 Francisco and Berlin.

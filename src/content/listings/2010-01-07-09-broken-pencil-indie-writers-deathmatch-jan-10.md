@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 9
 type: ""
+venue: "Broken Pencil"
 summary: "Broken Pencil | Indie Writers Deathmatch | JAN 10"
 ---
 

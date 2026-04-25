@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yawning is encouraged"
 emailDate: "Thu, 01 May 2008 09:05:07 -0700"
 number: 17
 type: ""
+venue: "WESTERN FRONT"
 summary: "WESTERN FRONT | CALL: Between Video and Performance"
 ---
 

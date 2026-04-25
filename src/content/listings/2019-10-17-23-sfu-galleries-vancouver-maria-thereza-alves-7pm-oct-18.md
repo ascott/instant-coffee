@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 23
 type: "TALK"
+venue: "SFU Galleries (VANCOUVER)"
 summary: "SFU Galleries (VANCOUVER) | Maria Thereza Alves | 7PM | OCT 18"
 ---
 

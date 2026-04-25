@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 12
 type: "TALK"
+venue: "Monica Reyes Gallery"
 summary: "Monica Reyes Gallery | Jason McLean and Kevin Spenst | 2PM | SEP 14"
 ---
 

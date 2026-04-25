@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 22
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | V.Vecker | OCT 18"
 ---
 
 Shudder Gallery is pleased to present:
 
-I BELIEVE I CAN FLY â€“ New works by V.Vecker 
+I BELIEVE I CAN FLY – New works by V.Vecker 
 
-October 19thâ€“30th 2012. 
-Opening reception October 18th 7pmâ€“11pm
+October 19th–30th 2012. 
+Opening reception October 18th 7pm–11pm
 
 Artist will be in attendance. 
 

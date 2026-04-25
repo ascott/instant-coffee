@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 7
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Dislocutions: a panel discussion about art and tra | OCT 15"
 ---
 

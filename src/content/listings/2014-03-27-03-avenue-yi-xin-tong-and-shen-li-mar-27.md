@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 3
 type: ""
+venue: "Avenue"
 summary: "Avenue | Yi Xin Tong and Shen Li | MAR 27"
 ---
 

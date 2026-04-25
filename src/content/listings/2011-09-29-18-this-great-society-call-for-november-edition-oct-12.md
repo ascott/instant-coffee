@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 18
 type: ""
+venue: "This Great Society"
 summary: "This Great Society | Call for November edition | OCT 12"
 ---
 

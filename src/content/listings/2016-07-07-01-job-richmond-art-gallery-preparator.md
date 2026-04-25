@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | Richmond Art Gallery | Preparator"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 22
 type: "OPENING"
+venue: "SUM gallery"
 summary: "SUM gallery | Odera Igbokwe: New Yams Festival | JUN 22"
 ---
 

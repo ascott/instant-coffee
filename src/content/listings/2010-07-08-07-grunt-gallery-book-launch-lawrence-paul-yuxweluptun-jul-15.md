@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 7
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Book Launch: Lawrence Paul Yuxweluptun | JUL 15"
 ---
 

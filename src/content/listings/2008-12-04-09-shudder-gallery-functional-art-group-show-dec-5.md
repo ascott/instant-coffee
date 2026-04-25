@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yes we no"
 emailDate: "Wed, 03 Dec 2008 22:30:06 -0800"
 number: 9
 type: "OPENING"
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | \"functional art\" group show | DEC 5"
 ---
 

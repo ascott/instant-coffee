@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 25
 type: ""
+venue: "MOA"
 summary: "MOA | Safar/Voyage | APR 20"
 ---
 
@@ -16,7 +17,7 @@ Vancouver, BC
 Following the universal theme of voyage, the first major Canadian group 
 exhibition of contemporary artists from the Middle Eastern region arrives at 
 MOA in Spring of 2013. Guest curated by Fereshteh Daftari, formerly of 
-MoMA, Safar/Voyageâ€™s scope takes viewers from the planet earth, down to 
+MoMA, Safar/Voyage’s scope takes viewers from the planet earth, down to 
 maps, and further to specific cities such as Tehran and Cairo, after which it 
 proceeds to reveal internal and meditative spaces, from emotional and 
 existential to spiritual imaginings. Using a wide range of media, from painting 

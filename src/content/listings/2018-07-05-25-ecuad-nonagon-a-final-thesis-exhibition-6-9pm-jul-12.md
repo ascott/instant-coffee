@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 25
 type: "OPENING"
+venue: "ECUAD"
 summary: "ECUAD | NONAGON: A Final Thesis Exhibition | 6-9PM | JUL 12"
 ---
 

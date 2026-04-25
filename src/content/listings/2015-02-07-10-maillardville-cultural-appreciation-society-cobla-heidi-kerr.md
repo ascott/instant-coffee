@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 10
 type: "OPENING"
+venue: "Maillardville Cultural Appreciation Society"
 summary: "Maillardville Cultural Appreciation Society | Cobla - Heidi Kerr | FEB 7"
 ---
 

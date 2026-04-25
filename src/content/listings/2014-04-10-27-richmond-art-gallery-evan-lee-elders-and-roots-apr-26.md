@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 27
 type: ""
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | Evan Lee: Elders and Roots | APR 26"
 ---
 
@@ -22,13 +23,13 @@ Vancouver.
 All three bodies of work are portraits - linked by their relation to Asia, 
 globalism, migrations and the plight of the aged. The images speak to us 
 about biological complexity and fragility, while referencing human migration as 
-well as the globalization of foods and medicines. Leeâ€™s drawings of elderly 
-Chinese women in Vancouverâ€™s lanes are paired with stunning high-
+well as the globalization of foods and medicines. Lee’s drawings of elderly 
+Chinese women in Vancouver’s lanes are paired with stunning high-
 resolution scans of anthropomorphic Ginseng roots. 
 
 The Ginseng Roots Studies were made using an ordinary desktop scanner 
 instead of a camera. Each of the 36 roots in this series were found and 
-purchased at a local supermarket. Leeâ€™s drawings were made from 
+purchased at a local supermarket. Lee’s drawings were made from 
 photographs that the artist took of elderly Chinese women walking, working 
 and resting in the streets of east Vancouver. Instead of printing and 
 displaying the original photographs, Lee presents simple pencil drawings as a 
@@ -39,17 +40,17 @@ exhibitions include: On the Nature of Things at the Kamloops Art Gallery;
 Again and Again and Again and In Dialogue with Carr at the Vancouver Art 
 Gallery; Triumphant Carrot: the Persistence of Still Life and Playing Homage at 
 the Contemporary Art Gallery; Evan Lee Captures at Presentation House 
-Gallery; Le Mois de la Photo Ã  Montreal; At Play at the Liu Hai Su Museum 
+Gallery; Le Mois de la Photo à Montreal; At Play at the Liu Hai Su Museum 
 (Shanghai) and Curb Appeal at Confederation Centre (Charlottetown).
 
-Evan Leeâ€™s work has been featured and reviewed in Border Crossings, Flash 
+Evan Lee’s work has been featured and reviewed in Border Crossings, Flash 
 Art International, Lapiz International Art Magazine, Yishu Journal of 
 Contemporary Chinese Art, Canadian Art, and Art on Paper. Lee is 
 represented by Monte Clark Gallery in Vancouver. The exhibition is guest 
 curated by Bill Jeffries, former Director/Curator of the SFU Art Gallery.
 
 The opening reception is on Saturday, April 26 from 2:00pm to 4:00pm with an 
-Artistâ€™s tour beginning at 2:30pm. Evan Lee will give a talk on Saturday, May 
+Artist’s tour beginning at 2:30pm. Evan Lee will give a talk on Saturday, May 
 31, 2-3pm. The exhibition continues until June 15, 2014. 
 
 The Richmond Art Gallery gratefully acknowledges the support of the City of 

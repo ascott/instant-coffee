@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 5
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Pyatt Hall | Talonbooks spring 2024 launch & readings | 7PM | APR 24"
 ---
 

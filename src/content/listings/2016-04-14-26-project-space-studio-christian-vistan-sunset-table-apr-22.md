@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 26
 type: "EVENT"
+venue: "Project Space Studio"
 summary: "Project Space Studio | Christian Vistan - Sunset Table | APR 22"
 ---
 

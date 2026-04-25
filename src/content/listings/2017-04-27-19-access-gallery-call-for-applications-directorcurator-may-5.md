@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 19
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Call for Applications: DIRECTOR/CURATOR | MAY 5"
 ---
 

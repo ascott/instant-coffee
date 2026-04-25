@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 18
 type: ""
+venue: "JOB"
 summary: "JOB | Grunt Gallery | Administrative Coordinator | JUL 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 42
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Catching Butterflies by Fiona Zhao | 7-10PM | JUN 21"
 ---
 

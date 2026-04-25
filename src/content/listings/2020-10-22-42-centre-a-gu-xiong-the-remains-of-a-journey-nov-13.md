@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 42
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Gu Xiong: The Remains of a Journey | NOV 13"
 ---
 

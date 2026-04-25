@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 35
 type: "OPENING"
+venue: "New Gallery (Calgary)"
 summary: "New Gallery (Calgary) | Color, Value and Hue | APR 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 22
 type: "EVENT"
+venue: "Evergreen Cultural Centre"
 summary: "Evergreen Cultural Centre | Emerging Creators Incubator Pop-Up Showcase | JUL 25"
 ---
 

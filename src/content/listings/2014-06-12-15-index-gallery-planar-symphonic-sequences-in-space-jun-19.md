@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 15
 type: ""
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | PLANAR - Symphonic Sequences in Space | JUN 19"
 ---
 
@@ -36,7 +37,7 @@ of sound lies. It is another dimension of assemblage, driven by desire.
 The use of sound in space exonerates the use of linear thinking and 
 inherently links itself to a rhizomatic and affectual space. 
 
-The rhizome is inherently connected to an artistâ€™s practice, as each series, 
+The rhizome is inherently connected to an artist’s practice, as each series, 
 each study, is connected through a thought process that seeks to grasp onto 
 a certain interconnectivity of existence.
 

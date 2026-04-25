@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 4
 type: ""
+venue: "NEWS"
 summary: "NEWS | Vancouver Art Gallery | Vancouver Art Gallery Announces New Trustees"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 9
 type: "OPENING"
+venue: "Publication Studio Vancouver"
 summary: "Publication Studio Vancouver | Trapp Editions: Love & Ornament | DEC 13"
 ---
 
@@ -20,7 +21,7 @@ launch of a new edition by Tony Romano.
 PSV is pleased to present Trapp Editions: Love & Ornament, an exhibition by
 Trapp Projects featuring art work and publications by Claire Greenshaw,
 Tony Romano, Isabelle Pauwels, Kathy Slade, T&T (Tony Romano & Tyler
-Brett), Jacques VilleglÃ© and others. The exhibition launches a new edition
+Brett), Jacques Villeglé and others. The exhibition launches a new edition
 Love and Ornament (2006-2014), a photographic â€œrecordâ€  by Toronto-based
 artist Tony Romano.
 
@@ -31,7 +32,7 @@ Editions has produced close to two hundred editions that vary in form from
 music recordings, photographs, lenticular prints, sculptures and
 publications, this exhibition presents a selection of works that fit the
 context of Publication Studio. On display in the exhibition are prints,
-artistsâ€™ books, catalogues and record covers.
+artists’ books, catalogues and record covers.
 
 Trapp Projects was initiated by Patrik Andersson in 1997 as a curatorial
 platform on which to introduce local and international artist to as wide an

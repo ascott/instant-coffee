@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 8
 type: ""
+venue: "The Bridge & Tunnel Gallery"
 summary: "The Bridge & Tunnel Gallery | THE CUTTING | NOV 20"
 ---
 

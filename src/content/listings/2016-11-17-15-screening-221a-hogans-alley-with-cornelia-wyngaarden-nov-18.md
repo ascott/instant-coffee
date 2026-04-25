@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | 221a | Hogan's Alley with Cornelia Wyngaarden | NOV 18"
 ---
 

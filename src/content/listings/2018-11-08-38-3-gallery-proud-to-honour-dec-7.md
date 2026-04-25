@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 38
 type: ""
+venue: "#3 Gallery"
 summary: "#3 Gallery | Proud To Honour | DEC 7"
 ---
 

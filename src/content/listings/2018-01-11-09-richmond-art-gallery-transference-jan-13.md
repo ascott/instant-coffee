@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 9
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Transference | JAN 13"
 ---
 

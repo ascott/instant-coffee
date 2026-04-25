@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 15
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Mahal 3: Packing and Unpacking Balikbayan Box Flow | JUN 8"
 ---
 
@@ -19,7 +20,7 @@ Vancouver is a city defined by its expanding and deepening
 connections with peoples and cultures from around the world. The 
 dynamic growth of immigrant populations reflects the wealth of 
 knowledge and experiences contained in the everyday life of the city. 
-To give students an opportunity to learn from Vancouverâ€™s diverse 
+To give students an opportunity to learn from Vancouver’s diverse 
 immigrant communities, the UBC Departments of Anthropology and 
 Sociology offer the Immigrant Vancouver Ethnographic Field School 
 (IVEFS). 
@@ -27,7 +28,7 @@ Sociology offer the Immigrant Vancouver Ethnographic Field School
 In his book "White Love," historian Vicente Rafael considers the 
 Tagalog word mahal as a translation of the word love. It refers to that 
 which is dear, but also means valuable and expensive. Rafael writes 
-that such ambiguities express love as a promise of fulfillment â€“ a costly 
+that such ambiguities express love as a promise of fulfillment – a costly 
 one. mahal explores the desires which carry the Filipina/o across 
 borders. 
 
@@ -50,7 +51,7 @@ cardboard box â€œfilledâ€  with gifts by Filipino im/migrants living and
 working abroad, and sent to family and friends in the Philippines. This 
 collaborative project builds upon narratives depicted in the short film, 
 produced by the UBC Ethnographic Film Unit and directed by Dada 
-Docot, Almira Walde-Renaud and Daniel Smartt, â€œBalikabayan: Return 
+Docot, Almira Walde-Renaud and Daniel Smartt, “Balikabayan: Return 
 to the Nationâ€  (http://vimeo.com/24159140). 
 
 The project, as part of the IVEFS coursework, endeavors to add to the 
@@ -68,7 +69,7 @@ Philippines. Essential to this project is the recording of the narratives
 behind the gifts. Who are the gifts' senders, and who are its recipients? 
 What can we unpack from these big boxes of gifts? Not to be treated 
 as objects of curiosities, we hope that this project will reveal to us 
-fragments of the intimate stories in migration â€“ stories which are often 
+fragments of the intimate stories in migration – stories which are often 
 ignored, when migrants are reduced to mere numbers and statistics. 
 
 The Vancouver component of the project collaborates with academic 

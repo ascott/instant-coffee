@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 7
 type: ""
+venue: "Motto Storefront"
 summary: "Motto Storefront | Metahaven Talk | JUL 3"
 ---
 
@@ -16,7 +17,7 @@ Motto, Berlin.
 Motto Storefront transforms Artspeak into a temporary space for
 the sale, presentation, and discussion of contemporary art
 publishing. The selection of printed matter for the store has
-been made by Motto, a Berlin and ZÃ¼rich-based bookstore and
+been made by Motto, a Berlin and Zürich-based bookstore and
 distributor specializing in experimental, small run, and self-
 published artist books, magazines, and fanzines.
 
@@ -37,7 +38,7 @@ studio engaging the field of visual identity. From research
 projects, such as the Sealand Identity Project (2004), Museum
 of Conflict (2006), and Quaero (2007), the group has moved
 into installations and critical design projects such as Affiche
-FrontiÃ¨re (CAPC musee dart contemporain de Bordeaux, 2008)
+Frontière (CAPC musee dart contemporain de Bordeaux, 2008)
 and Stadtstaat (Kunstlerhaus Stuttgart and Casco Utrecht). Its
 recent book, Uncorporate Identity (Lars Muller Publishers,
 2010), matches design with inquiries on globalization and
@@ -77,5 +78,5 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051 begin_of_the_skype_highlighting	       604.688.0051	 end_of_the_skype_highlighting
 Fax 604.685.1912
-Tuesday ï¿½ Saturday, 12-5pm
+Tuesday � Saturday, 12-5pm
 Admission is free

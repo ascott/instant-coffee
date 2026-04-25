@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 5
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Vancouver Art and Leisure | Alternative Pride Festival | JUL 28"
 ---
 

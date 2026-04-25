@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  considers relations to be more in
 emailDate: "Thu, 15 Jul 2010 08:45:46 -0700"
 number: 13
 type: ""
+venue: "Canada Council for the Arts"
 summary: "Canada Council for the Arts | Seeking: CADAC Implementation Officer, Arts | JUL 23"
 ---
 

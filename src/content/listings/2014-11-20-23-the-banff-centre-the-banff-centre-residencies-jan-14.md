@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 23
 type: "CALL"
+venue: "The Banff Centre"
 summary: "The Banff Centre | The Banff Centre Residencies | JAN 14"
 ---
 
@@ -41,7 +42,7 @@ Program dates: April 27, 2015-May 15, 2015
 Application deadline: January 14, 2015
 
 The Banff International Curatorial Institute's Critical Art Writing
-Ensemble will explore art writing as an aspect of literature â€“ exhibition
+Ensemble will explore art writing as an aspect of literature – exhibition
 catalogues can expand into short novels and stories; reviews into haikus
 and soliloquies that can transcend the ephemerality of quotidian journalism.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 5
 type: ""
+venue: "Access"
 summary: "Access | Marketing Coordinator: deadline | OCT 3"
 ---
 
@@ -55,7 +56,7 @@ participating centres
 Qualifications
 
 * 3+ years' experience in Arts Marketing or a related field
-* BachelorÂ´s degree in Marketing/Business or a combination of education
+* Bachelor´s degree in Marketing/Business or a combination of education
 and work experience
 * Proven history in creating and implementing marketing and/or
 communication plans

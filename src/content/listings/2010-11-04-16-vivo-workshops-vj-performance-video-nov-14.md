@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 16
 type: ""
+venue: "VIVO WORKSHOPS"
 summary: "VIVO WORKSHOPS | VJ: PERFORMANCE VIDEO | NOV 14"
 ---
 

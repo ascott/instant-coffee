@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 22
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Mark Rudwell: Recent Selected Photographs | SEP 27"
 ---
 

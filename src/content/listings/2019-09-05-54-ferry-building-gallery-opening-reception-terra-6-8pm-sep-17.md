@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 54
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Opening Reception: Terra | 6-8PM | SEP 17"
 ---
 

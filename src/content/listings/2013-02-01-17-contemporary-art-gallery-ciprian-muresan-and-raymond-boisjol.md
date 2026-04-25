@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 17
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Ciprian Muresan and Raymond Boisjoly | FEB 7"
 ---
 
@@ -39,7 +40,7 @@ realities of the contemporary world.
 
 Included in the show are two newly commissioned pieces by the 
 Contemporary Art Gallery with our partners FRAC Champagne-Ardenne and 
-Centre dâ€™Art Contemporain, Geneva: an installation, Recycled Playground, 
+Centre d’Art Contemporain, Geneva: an installation, Recycled Playground, 
 which gives the exhibition its title and overarching tone, and a companion 
 video Protesting Against Myself. Mureşanâ€™s videos, drawings and 
 installations 
@@ -73,13 +74,13 @@ House, using it as a studio and a place for community engagement,
 coinciding with the launch of As It Comes, two new interrelated public works.
 
 The colloquial use and structure of the written or spoken word figure 
-prominently in Boisjolyâ€™s work. He often transforms the meaning and 
+prominently in Boisjoly’s work. He often transforms the meaning and 
 significance of language by rendering phrases indecipherable or by reordering 
-clichÃ©d aphorisms and mixing metaphors.
+clichéd aphorisms and mixing metaphors.
 
 As It Comes re-assembles passages taken from three North American First 
 Nations autobiographies: Black Elk Speaks, Yellow Wolf His Own Story and 
-During My Time by Florence Edenshaw Davidson, Boisjolyâ€™s great 
+During My Time by Florence Edenshaw Davidson, Boisjoly’s great 
 grandmother. All of the texts tell of the legislation of indigenous rights amidst 
 the coming of modernity, with each written as a personal account yet 
 authored by and credited to someone else.
@@ -92,4 +93,4 @@ of British Columbia through the Ministry of Advanced Education, Innovation
 and Technology.
 
 As It Comes at Yaletown-Roundhouse Station, Canada Line is presented in 
-partnership with the Canada Line Public Art Program â€” IntransitBC.
+partnership with the Canada Line Public Art Program — IntransitBC.

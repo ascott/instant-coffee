@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 22
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | DIM Cinema | Michael Snow/Judy Radul | 7pm | MAR 27"
 ---
 

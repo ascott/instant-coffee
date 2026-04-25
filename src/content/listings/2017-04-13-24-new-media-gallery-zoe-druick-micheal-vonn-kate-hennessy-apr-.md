@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 24
 type: "TALK"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Zoe Druick, Micheal Vonn, Kate Hennessy | APR 22"
 ---
 

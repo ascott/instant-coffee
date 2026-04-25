@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 2
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | Vancouver Institute for Social Research (VISR)"
 ---
 

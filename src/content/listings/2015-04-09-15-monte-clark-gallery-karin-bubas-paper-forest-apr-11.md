@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 15
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Karin Bubas - Paper Forest | APR 11"
 ---
 
@@ -28,7 +29,7 @@ Rather than presenting her photographs as traditional two dimensional
 prints, Bubas began printing multiple images from her negatives to
 laser cut and reconstruct the scenes into three-dimensional tableaux,
 building up layers and layers of intricate details. The final result
-is a selection of three-dimensional photographs or paper Ã¢â‚¬Å“tolesÃ¢â‚¬
+is a selection of three-dimensional photographs or paper â€œtolesâ€
 housed in Plexiglas cases. The scenes are lush and mesmerizing, but
 also suggest a tone of isolation; Bubas' unique perceptiveness and
 skill for conveying narrative is readily apparent.

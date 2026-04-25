@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 3
 type: ""
+venue: "Little Mountain Gallery"
 summary: "Little Mountain Gallery | Reality | JUL 27"
 ---
 

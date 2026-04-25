@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 11
 type: ""
+venue: "Vancouver Institute for Social Research"
 summary: "Vancouver Institute for Social Research | Jerry Zaslove | NOV 10"
 ---
 
@@ -26,7 +27,7 @@ November 10
 Jerry Zaslove
 â€œBenjaminâ€™s â€œLitmus Testâ€ : The Aesthetics of Violence and Culture as an 
 â€œEnigmatic Signifierâ€ 
-I will try to conceptualize BenjaminÂ¹s use of violence as the State driven 
+I will try to conceptualize Benjamin¹s use of violence as the State driven 
 â€œenigmatic signifierâ€  of culture that creates complicity that masks the 
 negative of repression of violence within the rights based powerlessness 
 of culture to arrest structural violence. The enigma of the negative of 
@@ -39,16 +40,16 @@ Literature and Social History of Art influenced but not limited by the
 traditions of critical theory for the arts, aesthetics, psychoanalysis, and 
 social thought. Most recent writing: â€œKafka in theâ€™ Penal Colonyâ€ , essays 
 on the place of the University in society, Exile and memory, the City in 
-History â€“ Elsewhere and Otherwise, forms and social realities of thinking 
-about community. Dr. Zaslove has taught at SFU since its opening year â€“ 
+History – Elsewhere and Otherwise, forms and social realities of thinking 
+about community. Dr. Zaslove has taught at SFU since its opening year – 
 home in English, Humanities, and as Founding Director of the Institute for 
 the Humanities.
 
 November 17
 Jaleh Mansoor
-Santiago Sierraâ€™s Biopolitics of Abstraction
+Santiago Sierra’s Biopolitics of Abstraction
 
-Much of Spanish artist Santiago Sierraâ€™s practice addresses the
+Much of Spanish artist Santiago Sierra’s practice addresses the
 fundamental violence inscribed in the wage relation, in which surplus
 value necessary to the expansion of capital is extracted through labor
 and compensated in a self reproducing matrix of remuneration
@@ -81,11 +82,11 @@ In states of illness, pain, delirium or trauma, infallibility is often
 suspended. Perceptual and sensorial systems may distort. Emotion and 
 intuition may become highly sensitive or muted. Cognition may slack. The 
 capacity to view, annunciate or gesture may be halted or restrained. 
-Oneâ€™s relation to aesthetic, social and political spheres (shaken by the 
+One’s relation to aesthetic, social and political spheres (shaken by the 
 trembling of others) are often ruptured, or severed even. In 
 convalescence (singular and collective), the last infallible is the wall: the 
-bedroom wallâ€“ the hospital wallâ€“the prison wallâ€“the analystâ€™s wallâ€“the 
-military wallâ€“the wall of languageâ€“the gallery wall. Surface Tension will 
+bedroom wall– the hospital wall–the prison wall–the analyst’s wall–the 
+military wall–the wall of language–the gallery wall. Surface Tension will 
 consider experience (visual, ideological, rhetorical, reflexive, kinetic) up 
 against these walls.
 
@@ -101,12 +102,12 @@ December 1
 Nicole Shukin
 Striking Images: The Politics of Cinematic Affect
 
-An early silent film classic â€“ Sergei Eisensteinâ€™s Strike (1925) â€“ will serve 
-as this seminarâ€™s entry point into larger questions of aesthetics and 
+An early silent film classic – Sergei Eisenstein’s Strike (1925) – will serve 
+as this seminar’s entry point into larger questions of aesthetics and 
 politics. The technique of dialectical montage that Eisenstein practices in 
-this film â€“ exemplified by a scene in which the brutal suppression of 
+this film – exemplified by a scene in which the brutal suppression of 
 striking factory workers is dramatically intercut with shots of a bull being 
-stunned with a pole-axe, and then slaughtered â€“ prompts an analysis of 
+stunned with a pole-axe, and then slaughtered – prompts an analysis of 
 the politics of cinematic affect. For Eisenstein, such startling 
 juxtapositions of images were themselves designed to strike spectators 
 with visceral force, by-passing representation in order to directly affect 
@@ -114,12 +115,12 @@ viewers and move them to political action. His cinematic philosophy
 poses an immediate connection between aesthetics and politics that I 
 suggest underlies how the radical relation between the two continues to 
 be thought today.
-Eisensteinâ€™s practice of dialectical montage has received ample critical 
-attention, and in this seminar weâ€™ll have a chance to compare two 
+Eisenstein’s practice of dialectical montage has received ample critical 
+attention, and in this seminar we’ll have a chance to compare two 
 different takes on his socialist cinema, one by Jonathan Beller in The 
-Cinematic Mode of Production and the other by Jacques RanciÃ¨re in Film 
+Cinematic Mode of Production and the other by Jacques Rancière in Film 
 Fables. Yet what I propose is at once most obvious and yet overlooked in 
-aesthetic or biopolitical readings of Eisensteinâ€™s cinema is the homology 
+aesthetic or biopolitical readings of Eisenstein’s cinema is the homology 
 that Strike inadvertently implies between animal slaughter and the 
 affective force of moving images. How exactly are animal slaughter and 
 moving images interimplicated, and what does this interimplication signal 
@@ -151,7 +152,7 @@ Dalhousie Review and CR: The New Centennial Review.
 
 December 8
 Robert Brain
-On Silicon Valleyâ€™s Quantified Self Movement
+On Silicon Valley’s Quantified Self Movement
 
 "The Quantified Self" is a movement organized around the individual 
 consumer's increasingly sophisticated capacity for digital self-surveillance 
@@ -162,13 +163,13 @@ scrutinize the historical precedents and biopolitical implications of this
 Silicon Valley based lifestyle movement.
 
 Bio:
-Dr. Robert Brainâ€™s research interests centre on problems of the cultural 
+Dr. Robert Brain’s research interests centre on problems of the cultural 
 history of the sciences in the long nineteenth-century, with special foci in 
 the relations between the sciences and the arts of modernism, the role of 
 the sciences in modern empire and colonial expansion; evolution and the 
 sciences of mind, brain, and behaviour; instruments and material cultures 
 of laboratory and field; visuality and representation in the sciences; 
-history of universal expositions, worldâ€™s fairs, and modern museums; 
+history of universal expositions, world’s fairs, and modern museums; 
 cybernetics and media theory, cultural history of philosophy and systems 
 of thought.
 

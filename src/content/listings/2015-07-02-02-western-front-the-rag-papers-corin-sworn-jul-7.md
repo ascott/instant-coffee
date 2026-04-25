@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: and that is it"
 emailDate: "Thu, 02 Jul 2015 11:25:48 -0700"
 number: 2
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | The Rag Papers - Corin Sworn | JUL 7"
 ---
 

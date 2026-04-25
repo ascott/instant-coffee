@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 11
 type: ""
+venue: "League"
 summary: "League | B.Y.O.B: Bring Your Own Bocce | MAY 26"
 ---
 
 Upcoming League play: Sunday 26 May
 
-For the next League play date on Sunday 26 May, youâ€™re asked to 
+For the next League play date on Sunday 26 May, you’re asked to 
 B.Y.O.B: Bring Your Own Bocce.
 
-Bocce, PÃ©tanque , Bowls and Bowling, Curling, Golf, Croquet, Marbles 
-â€” all are games of precision and strategic positioning. Each uses 
+Bocce, Pétanque , Bowls and Bowling, Curling, Golf, Croquet, Marbles 
+— all are games of precision and strategic positioning. Each uses 
 objects and settings that have peculiar characteristics to be tamed and 
 mastered. Imagine any of these games played using objects with quite 
 different tendencies: softness, size, bounciness, fragility or lightness, 
@@ -25,7 +26,7 @@ objects.
 This League play day will unfold in two locations:
 
 11:00am-1:00pm special appearance at Memorial Park West, for 
-Dunbarâ€™s Salmonberry Days Festival (map: http://goo.gl/maps/BOsy3) 
+Dunbar’s Salmonberry Days Festival (map: http://goo.gl/maps/BOsy3) 
 1:00-3:00pm at our regular location, Elm Park in Kerrisdale (map: 
 http://goo.gl/maps/Qh8M4).
 

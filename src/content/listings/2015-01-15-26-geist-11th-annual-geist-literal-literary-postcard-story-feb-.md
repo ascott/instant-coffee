@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 26
 type: "CALL"
+venue: "Geist"
 summary: "Geist | 11th Annual Geist Literal Literary Postcard Story | FEB 1"
 ---
 
@@ -34,5 +35,5 @@ Best of luck and happy writing!
 
 PS: Read some of our favourite entries for inspiration!
 Nettie, Rose, Daphne and Ginger by James MacSwain; A Newbie's Guide to the
-Farmer's Market by Britta Boudreau; and SchrÃ¶dingerâ€™s Cat by Jessica
+Farmer's Market by Britta Boudreau; and Schrödinger’s Cat by Jessica
 Michalofsky.

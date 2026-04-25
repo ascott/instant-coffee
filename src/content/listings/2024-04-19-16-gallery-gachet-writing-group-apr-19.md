@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 16
 type: "EVENT"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Writing Group | APR 19"
 ---
 

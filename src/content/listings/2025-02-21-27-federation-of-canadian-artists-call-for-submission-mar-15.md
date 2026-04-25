@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 27
 type: "CALL"
+venue: "Federation of Canadian Artists"
 summary: "Federation of Canadian Artists | Call for Submission | MAR 15"
 ---
 

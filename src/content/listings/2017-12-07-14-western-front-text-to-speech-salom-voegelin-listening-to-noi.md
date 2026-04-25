@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 14
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Text to Speech |  | Salomé Voegelin, Listening to Noise and Silence | DEC 13"
 ---
 

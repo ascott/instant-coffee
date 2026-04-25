@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 15
 type: "OPENING"
+venue: "VisualSpace Gallery"
 summary: "VisualSpace Gallery | Seasons | 2PM | JAN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 25
 type: "EDUCATION"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | The Only Animal presents: Slow Social Club | MAR 1"
 ---
 

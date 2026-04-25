@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 63
 type: "EDUCATION"
+venue: "BC Artscape Sun Wah Centre"
 summary: "BC Artscape Sun Wah Centre | Techniques for Cutting and Sculpting Paper | SEP 29"
 ---
 

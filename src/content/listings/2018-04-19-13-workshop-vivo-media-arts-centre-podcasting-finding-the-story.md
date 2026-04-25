@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 13
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO Media Arts Centre | Podcasting: Finding the Story | APR 26"
 ---
 

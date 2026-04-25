@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 34
 type: "CALL"
+venue: "Washington State Arts Commission"
 summary: "Washington State Arts Commission | 2015 Public Artist Roster Competition | JUN 23"
 ---
 

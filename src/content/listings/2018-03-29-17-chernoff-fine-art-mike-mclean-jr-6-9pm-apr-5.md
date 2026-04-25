@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 17
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Mike McLean: JR | 6-9pm | APR 5"
 ---
 

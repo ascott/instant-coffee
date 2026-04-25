@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 6
 type: "TALK"
+venue: "Art Rental & Sales, Vancouver Art Gallery"
 summary: "Art Rental & Sales, Vancouver Art Gallery | Nicola Tibbetts - 7pm | JAN 8"
 ---
 

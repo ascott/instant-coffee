@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 53
 type: "CALL"
+venue: "ALCHEMY 2018"
 summary: "ALCHEMY 2018 | Programmed Art Residency Prince Edward County | FEB 15"
 ---
 

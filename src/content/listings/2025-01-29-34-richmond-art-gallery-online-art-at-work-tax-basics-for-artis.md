@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 34
 type: "EDUCATION"
+venue: "Richmond Art Gallery [ONLINE]"
 summary: "Richmond Art Gallery [ONLINE] | Art at Work: Tax Basics for Artists | FEB 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 19
 type: ""
+venue: "Unit 17"
 summary: "Unit 17 | Jessica Bell | FEB 25"
 ---
 

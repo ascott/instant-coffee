@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 6
 type: "EVENT"
+venue: "Theatre Terrific Ensemble"
 summary: "Theatre Terrific Ensemble | Digital Fracture: VOICES | OCT 30"
 ---
 

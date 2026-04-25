@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 31
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | SFU MFA Graduating Exhibition 2018 | 7-9PM | SEP 5"
 ---
 

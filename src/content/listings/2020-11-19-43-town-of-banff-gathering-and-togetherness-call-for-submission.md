@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 43
 type: "CALL"
+venue: "Town of Banff"
 summary: "Town of Banff | Gathering and Togetherness - Call for Submissions | JAN 6"
 ---
 

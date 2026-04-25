@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 19
 type: ""
+venue: "Nova Scotia Centre for Craft and Design"
 summary: "Nova Scotia Centre for Craft and Design | Summer Professional Development Residencies | APR 30"
 ---
 
@@ -19,7 +20,7 @@ the studios will be accessible 24 hours a day
 residents are expected to keep their spaces and the studio tidy, as 
 well as treat the facilities and equipment respectfully
 
-there will be a group exhibition of residentsâ€™ work held in the Mary E. 
+there will be a group exhibition of residents’ work held in the Mary E. 
 Black Gallery in September
 
 the deadline for all application forms is on Friday April 30th, 2013 at 

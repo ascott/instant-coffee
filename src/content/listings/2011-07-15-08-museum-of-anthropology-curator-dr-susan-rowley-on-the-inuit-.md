@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like an onion makes you want to cr
 emailDate: "Thu, 14 Jul 2011 22:35:36 -0700"
 number: 8
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Curator: Dr. Susan Rowley on the Inuit Art Market | JUL 19"
 ---
 

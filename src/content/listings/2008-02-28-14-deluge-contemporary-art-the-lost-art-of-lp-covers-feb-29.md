@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Instant Coffee: (Caffeine Instanti
 emailDate: "Thu, 28 Feb 2008 09:50:33 -0800"
 number: 14
 type: ""
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | The Lost Art of LP Covers | FEB 29"
 ---
 

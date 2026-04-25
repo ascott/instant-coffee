@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 17
 type: "OPENING"
+venue: "Benjamin Lumb Art House"
 summary: "Benjamin Lumb Art House | Jean Paul Langlois | 8PM | APR 5"
 ---
 

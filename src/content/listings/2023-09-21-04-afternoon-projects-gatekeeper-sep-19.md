@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Gatekeeper | SEP 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee at cruising speed"
 emailDate: "Thu, 14 Feb 2008 07:58:05 -0800"
 number: 13
 type: ""
+venue: "Eyelevel Gallery"
 summary: "Eyelevel Gallery | CALL FOR SUBMISSIONS | Halifax"
 ---
 

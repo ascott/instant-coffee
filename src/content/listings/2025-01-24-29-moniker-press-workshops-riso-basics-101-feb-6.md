@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 29
 type: "EDUCATION"
+venue: "Moniker Press"
 summary: "Moniker Press | WORKSHOPS: Riso Basics (101) | FEB 6"
 ---
 

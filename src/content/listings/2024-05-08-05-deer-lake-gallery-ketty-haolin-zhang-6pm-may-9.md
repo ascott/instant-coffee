@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 5
 type: "OPENING"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Ketty Haolin Zhang | 6PM | MAY 9"
 ---
 

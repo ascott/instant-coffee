@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 16
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Becoming Animal/Becoming Landscape & Joan Balzar | JUN 23"
 ---
 

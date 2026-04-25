@@ -227,7 +227,7 @@ Selected Poems (Farrar, Straus, and Giroux, forthcoming 2010), Blind
 Witness: Three American Operas (Factory School, 2008); Girly Man
 (University of Chicago, 2006), and My Way: Speeches and Poems (Chicago,
 1999). He is the co-founder and co-editor, with Al Filreis, of PENNsound
-(writing.upenn.edu/pennsound); editor, and co-founder, with Loss PequenÃ±o
+(writing.upenn.edu/pennsound); editor, and co-founder, with Loss Pequenño
 Glazier, of The Electronic Poetry Center (epc.buffalo.edu); co-editor, with
 Hank Lazer, of Modern and Contemporary Poetics, a book series from the
 University of Alabama Press (1998-); and host and co-producer of LINEbreak
@@ -717,7 +717,7 @@ prominent subject in the work in all of the images collected by Lee,
 the on-camera flash is reflected in the mirror and results in a white
 overexposed area which obscures the identity of the subject.
 Continuing his experiments with photography and its processes, Lee
-prints the Flashers using a giclÃƒÂ©e pigment (inkjet) process onto the
+prints the Flashers using a giclÃ©e pigment (inkjet) process onto the
 reverse of vintage photographic paper. These anachronistic materials
 are not compatible, and the result is like mixing oil and water: the
 ink, prohibited from absorption, does not adhere or dry. Lee uses
@@ -756,7 +756,7 @@ Send us a post­card along with a story that relates to the image. The
 relation­ship can be as tan­gen­tial as you like, so long as there is
 some clear con­nec­tion to the image or place.
 
-Maximum length: 500 words, ficÂ­tion or non-fiction.
+Maximum length: 500 words, fic­tion or non-fiction.
 
 Winning entries will be pub­lished in Geist and at geist.com.
 Honourable mentions will be pub­lished at geist.com.
@@ -769,12 +769,12 @@ story or the card. Include a cover letter with these details:
 * Your name
 * Story title(s)
 * Address
-* Phone numÂ­ber
+* Phone num­ber
 * Email address
 * How you found out about the contest
 
 (Your per­sonal infor­maÂtion is confidential and will be used by
-Geist only to conÂ­tact you.)
+Geist only to con­tact you.)
 
 Entry Fee: $20 for the first entry (includes a 1-year sub­scription
 or subscrip­tion exten­sion), $5 for each addi­tional entry.
@@ -918,7 +918,7 @@ traditional and functional artifacts: nineteenth and twentieth century wool
 and cedar weavings produced within a network of inter-related and
 over-lapping oral traditions. This legacy is expanded in the exhibition and
 brought into the present with the work of contemporary practitioners Keith
-Nahanee (Squamish Nation), and Melvin Williams (LilÂ¹wat Nation).
+Nahanee (Squamish Nation), and Melvin Williams (Lil¹wat Nation).
 
 The exhibition is organized by Presentation House Gallery and generously
 supported by The Audain Foundation and by the North Vancouver Office of
@@ -1006,20 +1006,20 @@ Psychoanalysis, and Seminar XX: On Feminine Sexuality, The Limits of Love
 and Knowledge, and some of the selected fragments from Television. He
 proposes that there are four fundamental discourses, or structures of
 discourse, that produce different social bonds for the subject. These
-discourses consist of the masterâ€™s discourse, the hystericâ€™s discourse, the
-university discourse, and the analystâ€™s discourse. While Lacan is concerned
+discourses consist of the master’s discourse, the hysteric’s discourse, the
+university discourse, and the analyst’s discourse. While Lacan is concerned
 with the limitation of the master's discourse and the university discourse,
 he sees the potential of transformation in the analyst's discourse.
 Although he asserts that it is necessary to make an hysterization of
-discourse in the process of analysisâ€”because this is the first step towards
-questioning the masterâ€™s discourseâ€”he asserts that this discourse must then
-be shifted to the analystâ€™s discourse for Real change to occur. Seminar
+discourse in the process of analysis—because this is the first step towards
+questioning the master’s discourse—he asserts that this discourse must then
+be shifted to the analyst’s discourse for Real change to occur. Seminar
 XVII, which took place in 1969, follows the student and social revolt of
 May 68, a historical moment in which Lacan was immersed. He is critical of
 revolutions that appear to simply question the master and the university,
 and as a consequence only reproduce a new master, without shifting social
 bonds, as he cynically suggests that the Parisian students of 68 were in
-danger of doing. However, we do find moments in Lacanâ€™s seminars in which
+danger of doing. However, we do find moments in Lacan’s seminars in which
 he suggests that a writer can hold a similar position as an analyst, and
 thus one would assume, also be able to shift these other discourses to
 enact some social change. Therefore, I am using this frame to ask
@@ -1027,7 +1027,7 @@ questions, develop a dialogue, about poetics and social change. Can
 poetics operate like the analyst's discourse to create a different social
 bond through language? Do poets intervene in these other discourses or
 intersect with them in subversive ways that shift discourse and social
-bonds? Is Lacanâ€™s concept of the structure of the four discourses useful
+bonds? Is Lacan’s concept of the structure of the four discourses useful
 for us today, particularly as we head into financial cuts in the arts and
 academia that may limit interventions in hegemonic discourses? Or do we
 need to rethink what poetics and discourse are and reconsider how we engage
@@ -1035,7 +1035,7 @@ with and disseminate them?
 
 - Nancy Gillespie
 
-A further description of Lacanâ€™s four discourses will be available for
+A further description of Lacan’s four discourses will be available for
 workshop registrants.
 
 for more information click here : http://www.kswnet.org/

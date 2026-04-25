@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 31
 type: "CALL"
+venue: "YVR Art Foundation"
 summary: "YVR Art Foundation | 2019 SCHOLARSHIP PROGRAM | JAN 25"
 ---
 

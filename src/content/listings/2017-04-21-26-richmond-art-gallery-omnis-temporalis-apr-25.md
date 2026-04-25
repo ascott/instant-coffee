@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 26
 type: "PERFORMANCE"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Omnis Temporalis | APR 25"
 ---
 

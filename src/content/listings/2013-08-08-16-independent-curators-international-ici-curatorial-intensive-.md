@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please be advised requests for ill
 emailDate: "Thu, 08 Aug 2013 16:25:10 -0700"
 number: 16
 type: ""
+venue: "Independent Curators International (ICI)"
 summary: "Independent Curators International (ICI) | Curatorial Intensive in Bogotá | SEP 16"
 ---
 

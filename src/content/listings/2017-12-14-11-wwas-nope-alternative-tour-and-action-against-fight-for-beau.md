@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 11
 type: "EVENT"
+venue: "WWAS NOPE"
 summary: "WWAS NOPE | Alternative Tour and Action Against Fight For Beau | DEC 16"
 ---
 

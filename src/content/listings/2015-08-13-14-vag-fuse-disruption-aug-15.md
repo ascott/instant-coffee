@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 14
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | FUSE: DISRUPTION | AUG 15"
 ---
 
@@ -65,7 +66,7 @@ a corporate meme, in which disruption connects equally to rupture and
 faux-utopian progress. In the video the artist is shown working in a studio
 environment to create a handmade blue sky.
 
-Kubrick or KorineÃ¢â€žÂ¢ (Alex Munt and Justin Harvey) launches a TV channel
+Kubrick or Korineâ„¢ (Alex Munt and Justin Harvey) launches a TV channel
 conceived for cultural producer, icon and visual artist James Franco. Part
 project and part product, 24 Hour Franco encases the Hollywood image-flow
 within avant-garde form and speaks to the comingling of art and celebrity
@@ -87,13 +88,13 @@ states of human affect as tradable commodities, "investing" in emotions
 such as anger, joy, disgust and amazement. It then links these emotions
 with actual stocks to make investments using a simulated brokerage account.
 
-Andres WannerÃ¢â‚¬â„¢s Signature Strokes is a series of performative interventions
+Andres Wannerâ€™s Signature Strokes is a series of performative interventions
 in which a remotely controlled drone paints ephemeral graffiti in public
 space. The title is a play on signature strikesÃ¢â‚¬â€ drone killings based on
 suspicious behavioural patterns thought to be signatures of terrorists.
 
 Taking up notions of fragments and nostalgia, By the Road is a sound
-sculpture created by BjÃƒÂ¸rn Erik Haugen. The soundtracks consist of the
+sculpture created by BjÃ¸rn Erik Haugen. The soundtracks consist of the
 sound from car chases in famous movies translated into death metal music.
 
 During the evening, FUSE-goers can also see the following exhibitions:

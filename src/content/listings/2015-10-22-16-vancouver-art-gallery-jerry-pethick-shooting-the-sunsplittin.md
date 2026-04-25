@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 16
 type: "OPENING"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Jerry Pethick: Shooting the Sun/Splitting the Pie | OCT 24"
 ---
 

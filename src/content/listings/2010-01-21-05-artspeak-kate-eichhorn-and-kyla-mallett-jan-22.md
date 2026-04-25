@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 5
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | KATE EICHHORN AND KYLA MALLETT | JAN 22"
 ---
 
@@ -23,7 +24,7 @@ Research (Moderated by Jacqueline Turner)
 The third event in the series will examine issues of research and the
 archive with writer Kate Eichhorn and visual artist Kyla Mallett. Kate
 Eichhorn is the author of Fond and co-editor of Prismatic Publics:
-Innovative Canadian Womenâ€™s Poetry and Poetics. She has published widely on
+Innovative Canadian Women’s Poetry and Poetics. She has published widely on
 the subjects of archives, print cultures and feminist poetics. Her second
 collection of poetry is forthcoming in 2010, and she is currently
 completing a critical study on archival genres and the poetics of everyday
@@ -45,5 +46,5 @@ among others.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free

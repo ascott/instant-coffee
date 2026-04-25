@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 31
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Tom Richardson | Rehearsal for a Synthetic Theatre | APR 6"
 ---
 

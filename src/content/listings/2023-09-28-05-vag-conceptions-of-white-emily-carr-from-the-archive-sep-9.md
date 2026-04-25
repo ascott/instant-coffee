@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "VAG"
 summary: "VAG | Conceptions of White & Emily Carr from the archive | SEP 9"
 ---
 

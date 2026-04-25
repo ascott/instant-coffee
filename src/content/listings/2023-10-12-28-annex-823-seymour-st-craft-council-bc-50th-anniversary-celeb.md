@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 28
 type: "EVENT"
+venue: "ANNEX, 823 Seymour St"
 summary: "ANNEX, 823 Seymour St | Craft Council BC 50th Anniversary Celebration | 7PM | OCT 17"
 ---
 

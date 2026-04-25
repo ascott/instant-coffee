@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it's not easy being this hypermobi
 emailDate: "Thu, 16 Apr 2009 08:50:13 -0700"
 number: 16
 type: ""
+venue: "Balcone Art Society"
 summary: "Balcone Art Society | Call for Submission | MAY 15"
 ---
 

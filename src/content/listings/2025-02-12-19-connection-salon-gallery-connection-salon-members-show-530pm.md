@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 19
 type: "OPENING"
+venue: "Connection Salon Gallery"
 summary: "Connection Salon Gallery | Connection Salon Members Show | 530PM | FEB 20"
 ---
 

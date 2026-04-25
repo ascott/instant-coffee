@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 33
 type: "EDUCATION"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | The Only Animal presents: Slow Social Club | FEB 9"
 ---
 

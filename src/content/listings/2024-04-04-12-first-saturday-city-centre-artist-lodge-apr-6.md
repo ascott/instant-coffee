@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 12
 type: ""
+venue: "First Saturday"
 summary: "First Saturday | City Centre Artist Lodge | APR 6"
 ---
 

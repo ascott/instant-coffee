@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 34
 type: "OPENING"
+venue: "Salt Spring Gallery"
 summary: "Salt Spring Gallery | Melanie Thompson - Imaginarium Botanica | 5PM | APR 12"
 ---
 

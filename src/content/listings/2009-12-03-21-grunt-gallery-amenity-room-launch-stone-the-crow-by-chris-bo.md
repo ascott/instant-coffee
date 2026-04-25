@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 21
 type: ""
+venue: "grunt gallery (Amenity Room)"
 summary: "grunt gallery (Amenity Room) | launch: Stone the Crow by Chris Bose | DEC 13"
 ---
 
@@ -29,7 +30,7 @@ lone, far from impassive NDN survives the
 inarticulate, intoxicated streets of capitalism's cities,
 might be mistaken for overheard conversation,
 except for the vivid ironies, ideas and hope it finally
-expresses. Â¦words jangled out/ of my mouth/
+expresses. ¦words jangled out/ of my mouth/
 fluttering like razorblade butterflies And the
 urban Indian becomes a lover, a father and, yes, a
 poet.

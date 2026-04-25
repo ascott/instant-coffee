@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Kinky | JUN 18"
 ---
 

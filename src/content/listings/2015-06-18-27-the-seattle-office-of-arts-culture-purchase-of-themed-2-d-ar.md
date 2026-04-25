@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 27
 type: "CALL"
+venue: "The Seattle Office of Arts & Culture"
 summary: "The Seattle Office of Arts & Culture | Purchase of Themed 2-D Artworks | JUL 29"
 ---
 
-Call to Artists â€“ Purchase of Themed 2-D Artworks
+Call to Artists – Purchase of Themed 2-D Artworks
 The Seattle Office of Arts & Culture, in partnership with Seattle Public
 Utilities
 Eligibility: Professional artists residing in Washington, Oregon, British

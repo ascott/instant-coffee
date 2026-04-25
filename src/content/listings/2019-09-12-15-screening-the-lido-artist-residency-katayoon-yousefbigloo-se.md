@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Lido Artist Residency | Katayoon Yousefbigloo | SEP 15, 22, 29 | 8PM | SEP 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 21
 type: ""
+venue: "Dr. Sun Yat-Sen Classical Chinese Garden"
 summary: "Dr. Sun Yat-Sen Classical Chinese Garden | The Jade Pond Haiku Anthology | JAN 20"
 ---
 

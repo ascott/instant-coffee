@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 5
 type: "TALK"
+venue: "Fonderie Darling"
 summary: "Fonderie Darling | Conversation | Vikky Alexander, Vincent Bonin & Caroline Andrieux | AUG 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 47
 type: "TALK"
+venue: "MOV"
 summary: "MOV | Built City Speaker Series | 7PM | JAN 31"
 ---
 

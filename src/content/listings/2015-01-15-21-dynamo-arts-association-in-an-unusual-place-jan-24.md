@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 21
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | In an unusual place | JAN 24"
 ---
 
@@ -16,15 +17,15 @@ installation, and collage by artists whose pieces engage with the
 relationship between identity, physical space, and the social tensions
 unleashed by the intersection of these two forces.
 
-Born in Cherkassy, Ukraine, ALINA SENCHENKOâ€™s work utilizes photography and
+Born in Cherkassy, Ukraine, ALINA SENCHENKO’s work utilizes photography and
 text in installation to explore the invisible social and political issues
-in a contemporary society. Senchenkoâ€™s work investigates the concept of
-home in a society that is constantly moving, in which peopleâ€™s connections
+in a contemporary society. Senchenko’s work investigates the concept of
+home in a society that is constantly moving, in which people’s connections
 with spaces are perpetually in question.
 
-Originally from Hong Kong, HEI LAM NGâ€™s work reflects the frustrations of
+Originally from Hong Kong, HEI LAM NG’s work reflects the frustrations of
 identity through a skillful combination of modern photography and
-traditional printmaking. Ngâ€™s work playfully addresses the loss and
+traditional printmaking. Ng’s work playfully addresses the loss and
 acquisition of identity in situations of displacement.
 
 LUKE MADDAFORD is a Canadian artist whose work engages alternative methods

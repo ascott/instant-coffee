@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 22
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | In Conversation: Alana Bartol & David Semeniuk | SEP 12"
 ---
 

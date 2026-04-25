@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 36
 type: ""
+venue: "Presentation House Theatre"
 summary: "Presentation House Theatre | World Premiere of Dil Ka by Playwright Lee Nisar | MAR 21"
 ---
 

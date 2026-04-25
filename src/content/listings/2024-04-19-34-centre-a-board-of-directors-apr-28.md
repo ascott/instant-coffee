@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 34
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Board of Directors | APR 28"
 ---
 

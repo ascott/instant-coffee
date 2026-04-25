@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 51
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | grunt gallery | Book Launch and Reception | 7PM | JUL 28"
 ---
 

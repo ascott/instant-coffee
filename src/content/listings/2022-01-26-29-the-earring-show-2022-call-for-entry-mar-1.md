@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 29
 type: "CALL"
+venue: "The Earring Show 2022"
 summary: "The Earring Show 2022 | Call for Entry | MAR 1"
 ---
 

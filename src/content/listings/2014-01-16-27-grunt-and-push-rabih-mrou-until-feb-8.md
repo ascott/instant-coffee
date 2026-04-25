@@ -4,28 +4,29 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 27
 type: ""
-summary: "Grunt and PuSh | Rabih MrouÃ© | until | FEB 8"
+venue: "Grunt and PuSh"
+summary: "Grunt and PuSh | Rabih Mroué | until | FEB 8"
 ---
 
 GRUNT
 
 Nothing To Lose
-Rabih MrouÃ©
+Rabih Mroué
 
 Opening Reception: Friday Jan 10, 7-10pm
 Exhibition Dates: Jan 10 - Feb 8, 2014
 
-Beirut artist, Rabih MrouÃ©, returns to Vancouver with a video installation 
+Beirut artist, Rabih Mroué, returns to Vancouver with a video installation 
 exhibition entitled, Nothing To Lose. 
 
 This exhibition questions what we know and what we have read, the 
 tumultuous relationship between fact, fiction and construed narratives. 
-MrouÃ©'s practice explores the media's ability to reinterpret and misinterpret, 
+Mroué's practice explores the media's ability to reinterpret and misinterpret, 
 and the subjective impact this has on the public. 
 
 His performances are both conceptually and politically bold, using the 
 backdrop of Lebanon to construct works that speak to everyone. When 
-inquired about past projects MrouÃ© states, "My works deal with issues that 
+inquired about past projects Mroué states, "My works deal with issues that 
 have been swept under the table in the current political climate of Lebanon." 
 His practice emerges from a generation of artists in Beirut that came of age 
 during the civil war (1977-1990); works often address the aftermath, using 
@@ -47,12 +48,12 @@ Facebook event: https://www.facebook.com/events/782135018480402/
 
 grunt gallery: 116-350 East 2nd Ave, Vancouver, BC V5T 4R8
 
-PuSh Festival events with Rabih MrouÃ©: 
+PuSh Festival events with Rabih Mroué: 
 
-â€“ "The Pixelated Revolution" at SFU Goldcorp Centre for the Arts from 
+– "The Pixelated Revolution" at SFU Goldcorp Centre for the Arts from 
 January 15 -18 http://pushfestival.ca/2014/shows/pixelated-revolution
 
-â€“ PuSh Festival is hosting a breakfast series event with MrouÃ© on January 16 
+– PuSh Festival is hosting a breakfast series event with Mroué on January 16 
 (FREE)
 http://pushfestival.ca/2014/shows/rabih-mroue/) and will be presenting 
 

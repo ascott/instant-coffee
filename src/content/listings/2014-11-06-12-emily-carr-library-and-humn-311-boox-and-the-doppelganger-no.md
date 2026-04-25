@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 12
 type: ""
+venue: "Emily Carr Library and HUMN 311"
 summary: "Emily Carr Library and HUMN 311 | BOOX and The Doppelganger, | NOV 12"
 ---
 
 The Emily Carr Library and HUMN 311 are pleased to present Boox and 
-The DoppelgÃ¤nger, two exhibitions from the Artistsâ€™ Books Collection.
+The Doppelgänger, two exhibitions from the Artists’ Books Collection.
 
 BOOX
 November 13 to 19, 2014
@@ -16,8 +17,8 @@ Opening on Wednesday, November 12 at 7:00pm
 Emily Carr Library Window
 
 Boox is an exhibition presenting a video recording of titles from the 
-Artistsâ€™ Book Collection at the Emily Carr library. Transformed through 
-video and structured according to the cameraâ€™s perspective, Boox takes 
+Artists’ Book Collection at the Emily Carr library. Transformed through 
+video and structured according to the camera’s perspective, Boox takes 
 the intimate act of reading and pushes it into the public.
 
 The selected books construct meaning as the reader interacts and 
@@ -31,7 +32,7 @@ the room given for the viewer to be situated. There is opportunity to be a
 narrator, an observer, a voyeur, an accomplice, or an operator.
 
 What happens when we capture the reading process on video? What is it 
-like to follow someone elseâ€™s method of exploring a book and only be 
+like to follow someone else’s method of exploring a book and only be 
 presented one perspective?
 
 Boox is curated by Areum Kim, Christine Novosel, Hannah Fisher, Linton 
@@ -39,32 +40,32 @@ Murphy, and Lauren Nelson.
 
 For information please visit ecuboox.tumbler.com
 
-The DoppelgÃ¤nger
+The Doppelgänger
 November 13 to 19, 2014
 Opening on Wednesday, November 12 at 7:00pm
 Emily Carr Library
 
 With all the oddities of the world, would it really be so strange to 
-unknowingly possess the same facadeâ€”or storiesâ€”as someone else? 
-Your doppelgÃ¤nger exists somewhere out there. They look like you, move 
+unknowingly possess the same facade—or stories—as someone else? 
+Your doppelgänger exists somewhere out there. They look like you, move 
 like you, talk like you, and could even have the same tastes in books.
 
-Artistsâ€™ books are eerily similar in form and function to a typical book. 
+Artists’ books are eerily similar in form and function to a typical book. 
 Until you open them, you might mistake them for something more run-of-
-the-mill. Utilizing the same mechanisms as an ordinary book, the Artistsâ€™ 
-book is the doppelgÃ¤nger of the literary sphere; here, we begin to 
+the-mill. Utilizing the same mechanisms as an ordinary book, the Artists’ 
+book is the doppelgänger of the literary sphere; here, we begin to 
 uncover the otherworldly possibilities of art in book packaging, and books 
 with artistic motivations.
 
-The exhibition includes work by Francis AlÃ¿s, Sophie Calle, Rodney 
+The exhibition includes work by Francis Alÿs, Sophie Calle, Rodney 
 Graham, Constance De Jong, Hana Pesut and Marlene Yuen.
 
-The DoppelgÃ¤nger is curated by AimÃ©e Haug, Joseph Haney, Jacquie 
+The Doppelgänger is curated by Aimée Haug, Joseph Haney, Jacquie 
 Duruisseau, and Alexandra Bischoff.
 
-Boox and The DoppelgÃ¤nger are the first two in a series of four 
-exhibitions of work from the Emily Carr Libraryâ€™s Artistsâ€™ Books Collection 
-and are presented as part of HUMN 311: The Practice of Artistsâ€™ 
+Boox and The Doppelgänger are the first two in a series of four 
+exhibitions of work from the Emily Carr Library’s Artists’ Books Collection 
+and are presented as part of HUMN 311: The Practice of Artists’ 
 Publishing.
 
 Emily Carr University Library

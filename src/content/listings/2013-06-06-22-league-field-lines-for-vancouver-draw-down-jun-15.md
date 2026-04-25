@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 22
 type: ""
+venue: "League"
 summary: "League | Field Lines for Vancouver Draw Down | JUN 15"
 ---
 

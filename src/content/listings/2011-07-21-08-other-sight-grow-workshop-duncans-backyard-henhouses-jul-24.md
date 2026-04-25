@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 8
 type: ""
+venue: "Other Sight"
 summary: "Other Sight | Grow Workshop: Duncan's Backyard Henhouses | JUL 24"
 ---
 
@@ -12,7 +13,7 @@ Duncan's Backyard Henhouses
 
 Visit our website!
 
-Other Sightâ€™s is pleased to present this workshop as part of the Grow project.
+Other Sight’s is pleased to present this workshop as part of the Grow project.
 
 Please join Duncan Martin and his chickens from Duncan's Backyard 
 Henhouses for an afternoon at the Bulkhead Lab. Duncan will be leading informal 

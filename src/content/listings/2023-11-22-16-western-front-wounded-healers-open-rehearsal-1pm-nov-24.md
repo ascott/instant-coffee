@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 16
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Wounded Healers Open Rehearsal | 1PM | NOV 24"
 ---
 

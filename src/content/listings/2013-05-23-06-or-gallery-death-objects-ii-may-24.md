@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 6
 type: ""
+venue: "OR GALLERY"
 summary: "OR GALLERY | Death & Objects II | MAY 24"
 ---
 

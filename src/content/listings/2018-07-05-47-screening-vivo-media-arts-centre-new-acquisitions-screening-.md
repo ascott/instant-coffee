@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 47
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | New Acquisitions Screening | 7-930PM | JUL 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 1
 type: "CALL"
+venue: "Ethnocultural Art History Research Group"
 summary: "Ethnocultural Art History Research Group | BIPOC Instagram Project"
 ---
 

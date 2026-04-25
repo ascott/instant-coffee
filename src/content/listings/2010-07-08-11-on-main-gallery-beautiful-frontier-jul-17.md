@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 11
 type: ""
+venue: "On Main Gallery"
 summary: "On Main Gallery | Beautiful Frontier | JUL 17"
 ---
 
@@ -18,7 +19,7 @@ Gallery Hours: Wed - Sat. 1 - 5 pm
 ON MAIN Gallery, 1965 Main St., Vancouver. BC.
 for further information: e: onmain@gmail.com or phone (604) 872-7713
 
-â€˜Beautiful Frontierâ€™ is a unique installation at On Main Gallery
+‘Beautiful Frontier’ is a unique installation at On Main Gallery
 created for Vancouver's second annual Drawn Festival
 http://drawnfestival.ca Beautiful Frontier is a site-specific project.
 Scrolls are suspended exploring drawing as a traditional form and as a
@@ -38,7 +39,7 @@ Lukacs, Laiwan, Brian Howell, Michele Quan, Dana Claxton, and Angela Fama.
 
 Rosanne Bennett and Katherine Coe both graduated from Emily Carr in
 1991/92. Over the past 15 years both artists have had numerous solo and
-group exhibitions. Katherineâ€™s drawings appeared at the Elliott Louis
+group exhibitions. Katherine’s drawings appeared at the Elliott Louis
 Gallery as part of the Emerging Artists (2009) her work recently appeared
 in the Creative Quarterly Journal of Art and Design (#18, 2010). She also
 studied art history at the University of British Columbia and was

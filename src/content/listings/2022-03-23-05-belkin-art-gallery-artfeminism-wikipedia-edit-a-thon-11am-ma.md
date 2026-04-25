@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 5
 type: "EVENT"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Art+Feminism Wikipedia Edit-a-thon | 11AM | MAR 24"
 ---
 

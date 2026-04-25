@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 13
 type: ""
+venue: "SFU; Symposium"
 summary: "SFU; Symposium | CURT LANG: VANCOUVER 1972 | MAY 9"
 ---
 
@@ -13,9 +14,9 @@ Symposium followed by a tour of the exhibition
 Wednesday May 9, 7pm. Room 1600, SFU Vancouver, 515 W. 
 Hastings St.
 
-Curt Lang (1937â€“1998) carved a meteoric path through the Vancouver 
+Curt Lang (1937–1998) carved a meteoric path through the Vancouver 
 cultural scene from the 1950s to the 1990s. Join us Wednesday May 9, 
-7pm for a symposium on Curt Langâ€™s varied life, followed by a walking 
+7pm for a symposium on Curt Lang’s varied life, followed by a walking 
 tour of the exhibition currently on display at the SFU Teck Gallery.
 
 Speakers: Claudia Cornwall, Gordon Cornwall, Bill Jeffries & Greg Lang

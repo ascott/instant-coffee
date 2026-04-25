@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 30
 type: ""
+venue: "FONDERIE DARLING, MONTREAL"
 summary: "FONDERIE DARLING, MONTREAL | call: INTERNATIONAL RESIDENCY | JUN 1"
 ---
 
@@ -11,7 +12,7 @@ INTERNATIONAL RESIDENCY
 
 DETAILS
 
-- The residency takes place at the Darling Foundry in MontrÃ©al
+- The residency takes place at the Darling Foundry in Montréal
 
 - The program accommodates an artist who is from outside of Canada
 
@@ -38,7 +39,7 @@ page when the application opens) to the Darling Foundry.
 
 Past recipients:
 2014. Tris Vonna-Michell / 2013. Patty Chang and David Kelley / 2012. Dineo 
-Seshee Bopape / 2011. Yuki Higashino / 2010. Glenda LeÃ³n / 2009. Luis 
+Seshee Bopape / 2011. Yuki Higashino / 2010. Glenda León / 2009. Luis 
 Guerra
 
 This program is funded by The Canada Council for the Arts

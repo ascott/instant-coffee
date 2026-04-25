@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 6
 type: "EDUCATION"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Weaving Workshop | January 6-20 | JAN 6"
 ---
 

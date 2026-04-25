@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 2
 type: "OPENING"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Tyler Bright Hilton: I Don't Want Anybody Else | NOV 12"
 ---
 
@@ -31,7 +32,7 @@ uses portraits of the late River Phoenix as well as the artist's alter ego
 Minmei to comment on both the complexity and the simplicity of
 contemporary relationships.
 
-â€“ W. Bruce C. Bailey, November, 2015
+– W. Bruce C. Bailey, November, 2015
 
 Born in 1979 in Ontario, Canada, Tyler Bright Hilton studied at the
 Ontario College of Art and Design before moving to London, England

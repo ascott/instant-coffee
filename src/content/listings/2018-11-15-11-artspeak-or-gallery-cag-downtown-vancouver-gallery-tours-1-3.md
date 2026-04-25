@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 11
 type: "TALK"
+venue: "Artspeak, Or Gallery, CAG"
 summary: "Artspeak, Or Gallery, CAG | Downtown Vancouver Gallery Tours | 1-3PM | NOV 17"
 ---
 

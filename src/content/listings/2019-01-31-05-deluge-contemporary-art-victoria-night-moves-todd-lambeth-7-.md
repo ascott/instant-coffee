@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 5
 type: "OPENING"
+venue: "Deluge Contemporary Art (VICTORIA)"
 summary: "Deluge Contemporary Art (VICTORIA) | Night Moves: Todd Lambeth | 7 PM | JAN 25"
 ---
 

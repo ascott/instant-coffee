@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 22
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | ECU | Goodbye Charles | FEB 28"
 ---
 

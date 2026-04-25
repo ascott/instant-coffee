@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 5
 type: "CALL"
+venue: "M:ST"
 summary: "M:ST | Call for Streaming Artwork"
 ---
 

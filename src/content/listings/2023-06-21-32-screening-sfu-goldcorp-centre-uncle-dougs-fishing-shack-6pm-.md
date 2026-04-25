@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 32
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Goldcorp Centre | Uncle Dougs Fishing Shack | 6PM | JUN 29"
 ---
 

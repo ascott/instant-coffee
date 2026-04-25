@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 14
 type: ""
+venue: "221A"
 summary: "221A | ILWTM; IWILWTW, Jay Pozo, Josh Hite, Scott Billing | MAY 20"
 ---
 
@@ -12,7 +13,7 @@ http://221a.ca/ilwtm-iwilwtw
 I live with twenty machines; I wish I lived with twenty wives
 
 Curated By: Dennis Rosenfeld
-Exhibition: May 21 â€“ Jun 26
+Exhibition: May 21 – Jun 26
 Opening Reception: 8 pm, May 20
 Artist Talk: 2 pm, Jun 18
 
@@ -29,12 +30,12 @@ our lives to be recorded, represented and re-lived online.
 It should come as no surprise that technologies that promise to bring
 us together also serve to compartmentalize our experience of the
 world. Much of our daily experience consists of situations in which we
-attempt to abstract ourselves from our physicality â€“ we seal out
+attempt to abstract ourselves from our physicality – we seal out
 external sights and sounds and replace them with recorded / generated
 ones. We watch television and movies, and immerse ourselves in on-line
 games and virtual worlds whose explicit aim is the denial and
 substitution of the body and of physical experience. Even the act of
-watching has become more private â€“ from the movie theatre (a large
+watching has become more private – from the movie theatre (a large
 group experience), to the television (viewable alone or in a small
 group), down to the screen of a laptop or an iPhone (a decidedly
 solitary experience).

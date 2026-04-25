@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 44
 type: "TALK"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Azadeh Emadi | 6-7PM | MAY 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 9
 type: "EVENT"
+venue: "Western Front @ CRAB PARK"
 summary: "Western Front @ CRAB PARK | TEXT TO SPEECH - Trinh T. Minh-ha | AUG 10"
 ---
 

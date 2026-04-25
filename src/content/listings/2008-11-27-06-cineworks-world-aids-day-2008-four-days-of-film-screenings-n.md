@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 6
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | WORLD AIDS DAY 2008: four days of film screenings | NOV 29"
 ---
 

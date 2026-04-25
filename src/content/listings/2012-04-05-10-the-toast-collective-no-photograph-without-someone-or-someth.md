@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 10
 type: ""
+venue: "The Toast Collective"
 summary: "The Toast Collective | \"No Photograph Without Someone or Something\" | APR 13"
 ---
 

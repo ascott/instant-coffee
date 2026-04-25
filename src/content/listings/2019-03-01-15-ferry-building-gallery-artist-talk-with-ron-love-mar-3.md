@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 15
 type: "TALK"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Artist Talk with Ron Love | MAR 3"
 ---
 

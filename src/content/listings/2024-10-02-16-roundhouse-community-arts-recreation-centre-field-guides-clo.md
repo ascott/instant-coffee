@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 16
 type: "TALK"
+venue: "Roundhouse Community Arts & Recreation Centre"
 summary: "Roundhouse Community Arts & Recreation Centre | Field Guides Closer Conversations | OCT 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 20
 type: ""
+venue: "Plug In Institute of Contemporary Art"
 summary: "Plug In Institute of Contemporary Art | Employment Opportunities | JUN 30"
 ---
 

@@ -17,7 +17,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-04-16-04-screening-vivo-recent-acquisition-apr-16">04. SCREENING | VIVO | Recent Acquisition | APR 16</a>
 <a href="/instant-coffee/listings/2015-04-16-05-haunt-interurban-gallery-space-sixth-finger-apr-17">05. OPENING | HAUNT @ Interurban Gallery space | Sixth Finger | APR 17</a>
 <a href="/instant-coffee/listings/2015-04-16-06-project-space-sinelismo-expanded-non-territory-apr-17">06. EVENT | Project Space | Sinelismo, Expanded Non-Territory | APR 17</a>
-<a href="/instant-coffee/listings/2015-04-16-07-vox-montreal-raymond-boisjoly-from-age-to-age-as-its-apr-17">07. OPENING | VOX Montreal | Raymond Boisjoly â€œFrom age to age, as its..." | APR 17</a>
+<a href="/instant-coffee/listings/2015-04-16-07-vox-montreal-raymond-boisjoly-from-age-to-age-as-its-apr-17">07. OPENING | VOX Montreal | Raymond Boisjoly “From age to age, as its..." | APR 17</a>
 <a href="/instant-coffee/listings/2015-04-16-08-avenue-lit-lit-lit-lit-apr-18">08. OPENING | Avenue | LIT LIT LIT LIT | APR 18</a>
 <a href="/instant-coffee/listings/2015-04-16-09-burnaby-art-gallery-scott-massey-unstable-ground-apr-18">09. OPENING | Burnaby Art Gallery | Scott Massey: Unstable Ground | APR 18</a>
 <a href="/instant-coffee/listings/2015-04-16-10-centre-a-16th-anniversary-fundraising-gala-and-art-auction-a">10. FUNDRAISER | Centre A | 16th Anniversary Fundraising Gala and Art Auction | APR 18</a>
@@ -45,7 +45,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-04-16-32-publication-pick-your-battle-publications-derby-a-poem-in-si">32. PUBLICATION | Pick Your Battle Publications | DERBY A Poem in Six Parts | MAY 1</a>
 <a href="/instant-coffee/listings/2015-04-16-33-charles-h-scott-gallery-extensions-may-2">33. OPENING | Charles H. Scott Gallery | EXTENSIONS | MAY 2</a>
 <a href="/instant-coffee/listings/2015-04-16-34-city-of-port-moody-evergreen-line-inlet-centre-station-plaza">34. CALL | City of Port Moody | Evergreen Line, Inlet Centre Station Plaza | MAY 4</a>
-<a href="/instant-coffee/listings/2015-04-16-35-ugms-rotating-gallery-call-for-submissions-may-8">35. CALL | UGMâ€™s Rotating Gallery | Call for Submissions | MAY 8</a>
+<a href="/instant-coffee/listings/2015-04-16-35-ugms-rotating-gallery-call-for-submissions-may-8">35. CALL | UGM’s Rotating Gallery | Call for Submissions | MAY 8</a>
 <a href="/instant-coffee/listings/2015-04-16-36-city-of-edmonton-north-east-transit-garage-public-art-projec">36. CALL | City of Edmonton | North East Transit Garage Public Art Project | MAY 19</a>
 
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 Jorges Manes Rubio: Buona Fortuna
 
-April 16 â€“ May 9, 2015
+April 16 – May 9, 2015
 
 Opening reception:
 Thursday April 16, 6-9 pm
@@ -63,9 +63,9 @@ In his new work Buona Fortuna, Rubio transports us to the mountains of the
 villages were abandoned after a series of devastating earthquakes and
 landslides. Hidden among these ruins, and despite all the decay and
 destruction, several churches and chapels reveal themselves in all their
-glory. A closer look into Rubioâ€™s photographs expose empty altars and
+glory. A closer look into Rubio’s photographs expose empty altars and
 pedestals; in fact all the relics are missing. This is direct consequence
-from the looters and art merchants who didnâ€™t think twice about breaking in
+from the looters and art merchants who didn’t think twice about breaking in
 and remove paintings, sculptures and other sacred relics.
 
 Despite all the emptiness and disrepair, Rubio manages to capture these
@@ -82,7 +82,7 @@ Rubio is currently busy trying to get all the permissions and funding to
 reopen some of them to the public. His plan is creating a series of new
 artworks and installations that will replace the stolen figures,
 transforming these abandoned places into new cultural scenarios. But for
-now, his photographs have brought to life places that we couldnâ€™t even
+now, his photographs have brought to life places that we couldn’t even
 dream of.
 
 ------------------------------------------------------------------------
@@ -98,7 +98,7 @@ Optimum viewing time between 7-7.30pm, come early to applaud the sunset
 
 This past winter Kate Moss traveled to the other side of the world to make
 a new series of drawings in collaboration with the sun. On the hot tin roof
-of her brotherâ€™s shed, the Australian sun bleached away negative space
+of her brother’s shed, the Australian sun bleached away negative space
 around wonky donkey lines drawn on acetate and pressed against
 monochromatic sheets of paper. The landscape and environment revealed
 impressions of time through a physical transformation.
@@ -108,12 +108,12 @@ installation of atmospheric accents and fleeting aromas that take us on a
 trip, a trip that involves surf boards, deep blue skies, Australian flora,
 red earth, relaxation, faded denim jackets, and sun bleached hair.
 
-The playful lines that wander through Mossâ€™s practice are lines based in
+The playful lines that wander through Moss’s practice are lines based in
 rhythm, experimentation and conversation. They measure rhythms in tune with
 actions, the pace of walking and talking with an attitude that comes
 straight from the beach.
 
-â€”Laura Piasta
+—Laura Piasta
 
 applause @ sunset trailer by Johan Bjorck:
 https://www.youtube.com/watch?v=pWT0O6Za3WI
@@ -131,7 +131,7 @@ Michael Morris
 VIVA Award
 Elizabeth Zvonar
 -
-Alvin Balkind Curatorâ€™s Prize
+Alvin Balkind Curator’s Prize
 Cate Rimmer, Charles H. Scott Gallery
 
 Ceremonies followed by Reception
@@ -146,11 +146,11 @@ Visual Arts Prizes on April 16, 2015
 Three distinguished individuals in the field of visual arts in British
 Columbia will receive the most prestigious awards in this province: the
 Audain Prize for Lifetime Achievement in the Visual Arts, the VIVA Awards
-and the Alvin Balkind Curatorâ€™s Prize. This year, Michael Morris is awarded
+and the Alvin Balkind Curator’s Prize. This year, Michael Morris is awarded
 the thirteenth Audain Prize, funded by the Audain Foundation for the Visual
 Arts. Elizabeth Zvonar is the recipient of the 2015 VIVA Award, granted
 annually by the Jack and Doris Shadbolt Foundation for the Visual Arts. The
-Foundation will also present the second biannual Alvin Balkind Curatorâ€™s
+Foundation will also present the second biannual Alvin Balkind Curator’s
 Prizes to Cate Rimmer and the Charles H. Scott Gallery, the institution
 where she works as Curator of Gallery + Exhibitions.
 
@@ -220,7 +220,7 @@ graduation exhibition for SFU visual arts students) and located only a
 short walk from the Audain Gallery, Sixth Finger is the polydactyly to the
 work of the six artists included in this exhibition. It is extraneous to
 the work in the graduation show, but also functions as an example of these
-six individualsâ€™ respective drives to experiment through production.
+six individuals’ respective drives to experiment through production.
 
 HAUNT is a non-profit arts platform that embraces inventive and transitory
 venues. We produce exhibitions, performances, special projects and public
@@ -251,7 +251,7 @@ relationship to the works, both as art objects and installations, encourage
 viewers to question and reconsider the significance in the value of the
 space in which they embody and occupy.
 
-Born in Taipei, Taiwan, Anchi Linâ€™s practice, primarily in performance and
+Born in Taipei, Taiwan, Anchi Lin’s practice, primarily in performance and
 video, engages in dialogues of body and self, and in decontextualizing
 language and sound. Traces of Lin's Taiwanese background can be found in
 her works, in the form of food, objects, and cultural traditions.
@@ -272,26 +272,26 @@ of written works.
 
 In order to protect themselves from their predators, certain species
 imitate the appearance of wide open, threatening eyes on the surface of
-their bodies. To appear lifelike, sometimes even the pupilÂ´s reflective
+their bodies. To appear lifelike, sometimes even the pupil´s reflective
 qualities are reproduced. The prey thus turns the weapon of sight against
 its predator, the hunted makes itself off-putting. This makes one wonder
 whether skin could actually transform itself into a real eye. As Roger
 Caillois warns us, "If you play the ghost too often, you'll turn into one."
 
-â€” SINELISMO
+— SINELISMO
 
 As a collective, SINELISMO previously produced the introduction for a book
-by member Soledad MuÃ±oz Fiegehen, which was launched last month in Portland:
+by member Soledad Muñoz Fiegehen, which was launched last month in Portland:
 
 "'Again the search, Another disappointment: a translation work by Soledad
-MuÃ±oz Fiegehen,' uses translation as a means to recover the voice of
+Muñoz Fiegehen,' uses translation as a means to recover the voice of
 Chilean writer and artist Pedro Lemebel. Lemebel's books, literary
 chronicles and performance art narrated the story of the minoritized in
-Chileâ€™s social strata from the era of military dictatorship to the present
-day. By extending Lemebelâ€™s works into English-speaking communities, 'Again
+Chile’s social strata from the era of military dictatorship to the present
+day. By extending Lemebel’s works into English-speaking communities, 'Again
 the search, Another disappointment' rescues the gesture of a muted society
 so that a better understanding of Chilean history flourishes in the hands
-of younger generations. It is MuÃ±ozâ€™ hope that this can develop a
+of younger generations. It is Muñoz’ hope that this can develop a
 progressive notion of the common and community." (via RECESS)
 
 PROJECT SPACE MEMBERS get a sticker, postcard and 10% discount on
@@ -301,14 +301,14 @@ DIRECTIONS TO THE EVENT: Please follow the signs from the front door of 236
 and enter around back in the alley. Knock loudly to be let in.
 
 Monthly open studio events are hosted every third Friday of the month and
-are organized by Project Spaceâ€™s Curatorial Collective. This edition was
+are organized by Project Space’s Curatorial Collective. This edition was
 organized by Sarah Davidson.
 
 BECOME A MEMBER OF PROJECT SPACE: http://www.projectspace.ca/membership
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-04-16-07-vox-montreal-raymond-boisjoly-from-age-to-age-as-its-apr-17">07. OPENING | VOX Montreal | Raymond Boisjoly â€œFrom age to age, as its..." | APR 17</a>
+<a href="/instant-coffee/listings/2015-04-16-07-vox-montreal-raymond-boisjoly-from-age-to-age-as-its-apr-17">07. OPENING | VOX Montreal | Raymond Boisjoly “From age to age, as its..." | APR 17</a>
 ------------------------------------------------------------------------
 Raymond Boisjoly
 â€œFrom age to age, as its shape slowly unravelledâ€¦â€ 
@@ -316,29 +316,29 @@ Raymond Boisjoly
 2015.04.17 - 06.27
 Opening on April 17, 2015, at 5:00 pm
 VOX, image contemporaine
-2 Rue Sainte-Catherine E #401, MontrÃ©al
+2 Rue Sainte-Catherine E #401, Montréal
 
-Raymond Boisjoly is an Indigenous artist of Haida and QuÃ©bÃ©cois descent.
+Raymond Boisjoly is an Indigenous artist of Haida and Québécois descent.
 His work focuses on the representation of aboriginality, language as a
 cultural practice, and the ways in which these issues are materialized and
 experienced. His process is situated in proximity to photography, and he is
 interested in vernacular forms of representation and modes of production of
 images.
 
-The series of large-format inkjet prints â€œFrom age to age, as its shape
+The series of large-format inkjet prints “From age to age, as its shape
 slowly unravelledâ€¦â€ â€”created specifically for VOX, along with a silent
-videoâ€”is derived from a process premised on the deliberate misuse and
+video—is derived from a process premised on the deliberate misuse and
 unlikely interfacing of seemingly incompatible technologies associated with
 the production and consumption of digital images. A video found on YouTube
 was played on an iPhone, which was placed on a flatbed scanner. The moving
-image resists the scannerâ€™s attempt to fix it, resulting not in a mere
+image resists the scanner’s attempt to fix it, resulting not in a mere
 snapshot but a mangled still, freezing an interstitial moment between
 frames, a mediated image denying access to its ostensible content.
 
 The source video is a digitized version of Statues Also Die (1953) by Chris
 Marker, Alain Resnais and Ghislain Cloquet. This anti-colonial short
-filmâ€”banned in France for more than a decade after its initial
-releaseâ€”frames the changed historical circumstances of African statuary and
+film—banned in France for more than a decade after its initial
+release—frames the changed historical circumstances of African statuary and
 material culture as a shift to the very being of these objects. Displaced
 from their intended context to museums and taken merely for tokens of
 aesthetic pleasure, these works of tribal art are newly mediated for
@@ -359,16 +359,16 @@ April 18, 2015, 8:00 PM
 LIT LIT LIT LIT features an evening of new readings, written and given by
 Alex Bovril, Kara Hansen, Steffanie Ling & Zebulon Zang.
 
-Asked to write a biography to accompany a reading, the writer canâ€™t think
+Asked to write a biography to accompany a reading, the writer can’t think
 of anything to write about himself. Does he give the names of cities,
 institutions, achievements? What achievements? He steps out for fresh air.
-During, a car (on which the painterâ€™s ladders are piled) drives up. The
+During, a car (on which the painter’s ladders are piled) drives up. The
 writer asks the painter for help with the biography and the painter agrees,
 but they end up talking only about window cleaning. The painter wishes he
-could write: when you do condos youâ€™re cleaning these windows that take,
+could write: when you do condos you’re cleaning these windows that take,
 like, half a minute, and all day long briefly glimpsing hundreds of
-bedrooms, which is to say of hundreds of unconnected livesâ€”or lives that
-just seemed unconnected but which in writing could take on connectionsâ€”the
+bedrooms, which is to say of hundreds of unconnected lives—or lives that
+just seemed unconnected but which in writing could take on connections—the
 painter gets to thinking. They finish enjoying the fresh air and part ways,
 the writer still not knowing what to say about himself. For now, Alex
 Bovril is a writer in Vancouver.
@@ -402,7 +402,7 @@ http://165avenue.tumblr.com/
 ------------------------------------------------------------------------
 Scott Massey: Unstable Ground
 
-April 17 â€“ June 21, 2015
+April 17 – June 21, 2015
 (Upper Gallery)
 Opening Reception: Saturday, April 18, 8-10pm
 
@@ -412,7 +412,7 @@ alongside members from the Royal Astronomical Society of Canada (RASC) and
 the Vancouver Telescope Centre. Beer sponsored by Steamworks Brewery.
 
 About the Exhibit: Presented as part of the 2015 Capture Photography
-Festival, Scott Masseyâ€™s photographic series Unstable Ground records the
+Festival, Scott Massey’s photographic series Unstable Ground records the
 visual effects of the earth hurtling through space, a well-known but
 commonly overlooked phenomenon. This accelerated movement is the reason we
 feel gravity, witness sunrise and sunset, and view the stars turning slowly
@@ -450,7 +450,7 @@ Join us for an evening of art, food and fun as we celebrate 16 years of
 Centre A's exhibition history, honour significant figures, and dance with
 the Biltmore Cabaret's Guilty Pleasures DJs!
 
-This yearâ€™s participating artists include Liz Magor, Karen Zalamea, Lorna
+This year’s participating artists include Liz Magor, Karen Zalamea, Lorna
 Brown, Wayne Ngan, Maraya, Michael Love and more, including a limited
 edition growler featuring artwork by Howie Tsui.
 
@@ -475,7 +475,7 @@ will be held every month.
 ------------------------------------------------------------------------
 Greg Girard: Richmond/Kowloon
 
-April 18 â€“ June 28, 2015
+April 18 – June 28, 2015
 Opening reception Friday, April 17 from 7:00pm -9:00pm
 artist in attendance
 
@@ -485,14 +485,14 @@ Richmond Art Gallery
 Richmond Art Gallery is pleased to present Greg Girard: Richmond/Kowloon by
 Vancouver-based artist Greg Girard. Organized by Richmond Art Gallery
 Curator, Nan Capogna, the exhibition comprises previously created work
-documenting Hong Kongâ€™s renowned Kowloon Walled City and premieres a new
+documenting Hong Kong’s renowned Kowloon Walled City and premieres a new
 body of photographic images of Richmond, BC and its residents. Greg
 Girard: Richmond/Kowloon is a participating exhibition in the Capture
 Photography Festival.
 
 A singular Hong Kong phenomenon, the Walled City housed up to 35,000 people
 living in over 300 interconnected high-rise buildings covering one square
-city block in a densely populated neighbourhood forming a â€œcity within a
+city block in a densely populated neighbourhood forming a “city within a
 cityâ€ . Though demolished 20 years ago in 1993, interest in the Kowloon
 Walled City continues, fuelled in part by urban legends that persist about
 this extraordinary community. The Kowloon images, published in book form,
@@ -502,7 +502,7 @@ In the past 25 years the City of Richmond has undergone profound physical
 and demographic changes, a process of urbanization and immigration, much of
 it from Hong Kong and China, as well as other cities. Recording the city,
 homes, shops and businesses where Richmond residents live and work,
-Girardâ€™s new body of work reflects a city in transition, impacted by
+Girard’s new body of work reflects a city in transition, impacted by
 migrations of people seeking better opportunities in a new country.
 
 This exhibition links the two communities, Richmond and Kowloon, both of
@@ -522,7 +522,7 @@ Kowloon Walled City (Watermark, 1993).
 
 Based in Shanghai between 1998 and 2011, his photographic monograph,
 Phantom Shanghai (Magenta, Toronto, 2007), with a foreword by novelist
-William Gibson, looks at the rapid and at times violent changes in Chinaâ€™s
+William Gibson, looks at the rapid and at times violent changes in China’s
 largest city as Shanghai raced to remake itself at the beginning of the
 21st Century.
 Other recent titles include Hanoi Calling (Magenta, Toronto, 2010); and In
@@ -535,14 +535,14 @@ at the Gallery for $15.00.
 
 Public programming will include an Artist Talk with Greg Girard on
 Saturday, May 23 from 2-3pm and a Panel Discussion, CURSE OF THE LIVABLE
-CITY on Saturday, April 25, 2:00 â€“ 3:30pm. Facilitator: Leslie Van Duzer,
+CITY on Saturday, April 25, 2:00 – 3:30pm. Facilitator: Leslie Van Duzer,
 Professor and Director, School of Architecture & Landscape Architecture,
 UBC. Panelists: Greg Girard, Photographer; Bing Thom, Principal, Bing Thom
 Architects; Glenn Deer, Assistant Professor of English & Associate Editor
 of Canadian Literature, Dept. of English, UBC and Rufina Wu, Architect AIBC.
 
-As one of Capture Photography Festivalâ€™s public installations, the
-Vancouver Airport authority will exhibit Greg Girardâ€™s work at the Canada
+As one of Capture Photography Festival’s public installations, the
+Vancouver Airport authority will exhibit Greg Girard’s work at the Canada
 Line Station Walkway to the YVR International Terminal from early April
 through June.
 
@@ -572,7 +572,7 @@ and Political Rights.
 C-51 effectively makes Canada a police state, with abeyance of due process,
 rule of established law, or parliamentary over site.
 
-By ignoring the charter, Mr. Harperâ€™s government is acting outside the law,
+By ignoring the charter, Mr. Harper’s government is acting outside the law,
 thus we ask that the Governor General declare the Harper government null
 and void and immediately call a general election.
 
@@ -598,7 +598,7 @@ Opening:Tuesday 21 April 2015
 18:00 to 21:00
 
 La Loge
-Kluisstraat - rue de lâ€™Ermitage 86
+Kluisstraat - rue de l’Ermitage 86
 B-1050 Brussels
 
 More information available soon.
@@ -617,7 +617,7 @@ http://la-loge.be/project/a-burning-bag-as-a-s
 Julia Feyrer and Tamara Henderson
 Consider the Belvedere
 
-April 22â€“August 16, 2015
+April 22–August 16, 2015
 
 ICA, Philadelphia
 118 S. 36th Street, Philadelphia
@@ -657,7 +657,7 @@ Free
 
 Join us for talk by Canadian artist Shannon Bool. Bool will discuss her
 recent installation at the Yaletown-Roundhouse Station, 'Flight of the
-Medici Mamluk' and her new CAG commission 'Michelangeloâ€™s Place' alongside
+Medici Mamluk' and her new CAG commission 'Michelangelo’s Place' alongside
 recent projects.
 
 The Contemporary Art Gallery presents the second part of a new commission
@@ -669,23 +669,23 @@ forms. Central to her practice is the paradoxical examination of the depth
 and psychological weight that surfaces carry, which she underlines in
 unorthodox material processes.
 
-Located near to the gallery entrance is Michelangeloâ€™s Place, the final
+Located near to the gallery entrance is Michelangelo’s Place, the final
 version in a series of marble benches Bool has recently produced. The
 sculpture references the benches found circling the elevated Piazzale
 Michelangelo in Florence, built in 1869 to showcase copies of
-Michelangeloâ€™s most famous works and to provide a panoramic view of the city.
+Michelangelo’s most famous works and to provide a panoramic view of the city.
 
 Shannon Bool lives and works in Berlin. Solo exhibitions include: The
-Fourth Wall Through the Third Eye, Galerie Kadel Willborn, DÃ¼sseldorf; Walk
+Fourth Wall Through the Third Eye, Galerie Kadel Willborn, Düsseldorf; Walk
 Like an Etruscan, Daniel Faria Gallery, Toronto (2013); The Inverted Harem
 II, Bonner Kunstverein (2011); CRAC Alsace, Altkirch, France; The Inverted
-Harem, GAK-Gesellschaft fÃ¼r Aktuelle Kunst, Bremen (2010); and RMIT Project
+Harem, GAK-Gesellschaft für Aktuelle Kunst, Bremen (2010); and RMIT Project
 Space, Melbourne, Australia (2008). Group exhibitions include MMK2 Boom She
-Boom, Works from the MMK Collection, Frankfurt (2015); The KlÃ¶ntal
+Boom, Works from the MMK Collection, Frankfurt (2015); The Klöntal
 Triennale, Kunsthaus Glarus, Switzerland (2014); Soft Pictures, Fondazione
 Sandretto Re Rebaugengo, Turin (2013); Painting Forever!, KW, Berlin
 (2013); Justina M. Barnicke Gallery, Toronto (2013); the Sprengel Museum,
-Hannover (2012); 7Ã—14, Kunsthalle Baden-Baden; Rock Opera, CACP Museum of
+Hannover (2012); 7×14, Kunsthalle Baden-Baden; Rock Opera, CACP Museum of
 Contemporary Art, Bordeaux (2009); Drawing on Sculpture: Graphic
 Interventions on the Photographic Surface, Henry Moore Institute, Leeds
 (2007); Make Your Move, Projects Arts Centre, Dublin; Spiralen der
@@ -696,7 +696,7 @@ Work is held in the collections of The National Gallery of Canada,
 Berlinische Galerie, Berlin; Fondazione Sandretto, Turin, MMK Museum fur
 Modern Kunst, Frankfurt am Main; Lenbachhaus, Munich, and the Saatchi
 Collection, London. She is represented by Kadel Willborn Gallery in
-DÃ¼sseldorf and Daniel Faria Gallery, Toronto.
+Düsseldorf and Daniel Faria Gallery, Toronto.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-04-16-17-screening-capture-the-cinematheque-wavelength-blow-up-apr-22">17. SCREENING | Capture @ The Cinematheque | Wavelength + Blow-Up | APR 22</a>
@@ -706,15 +706,15 @@ Capture Photography Festival presents
 WAVELENGTH + BLOW-UP
 April 22, 24 - 7:00pm
 
-VANCOUVER â€” The Cinematheque and the second annual Capture Photography
+VANCOUVER — The Cinematheque and the second annual Capture Photography
 Festival present two masterworks from the mid-'60s that explore the
 intersection between photography and cinema: Canadian great Michael Snow's
 iconic Wavelength (1967), and Michelangelo Antonioni's landmark
 English-language debut, Blow-Up (1966).
 
 Curated by Vancouver-based artist Casey Wei, this two-film program draws
-thematic lines between Snow's legendary 45-minute continuous zoom â€” one of
-avant-garde cinema's most celebrated and influential works â€” and
+thematic lines between Snow's legendary 45-minute continuous zoom — one of
+avant-garde cinema's most celebrated and influential works — and
 Antonioni's critically-lauded tale of a swinging '60s fashion photographer
 (David Hemmings) who begins to lose his grip on reality when he
 inadvertently photographs a murder.
@@ -733,8 +733,8 @@ http://www.thecinematheque.ca/wavelength-and-blowup
 <a href="/instant-coffee/listings/2015-04-16-18-republic-gallery-khan-lee-take-your-time-apr-22">18. OPENING | Republic Gallery | Khan Lee: Take Your Time | APR 22</a>
 ------------------------------------------------------------------------
 Khan Lee: Take Your Time
-Opening reception April 22 6â€“8PM
-Exhibition runs April 22â€“June 6, 2015
+Opening reception April 22 6–8PM
+Exhibition runs April 22–June 6, 2015
 
 Republic Gallery is pleased to present Take Your Time, a solo exhibition of
 new work by Khan Lee, as part of the 2015 Capture Photography Festival. In
@@ -745,7 +745,7 @@ Time opens April 22nd at 6PM and runs through June 6, 2015.
 For Lee, all conceptions have the potential to be used as a medium. By
 isolating its properties from its given function and suggesting a new
 expression, anything can form the basis of a conceptual process. With this
-exhibition, Leeâ€™s careful observation of the shapes of various durational
+exhibition, Lee’s careful observation of the shapes of various durational
 events culminates in a body of work that iterates his visual conception of
 the essence of time.
 
@@ -757,7 +757,7 @@ It simultaneously contains parallel events that do not intersect, and
 static moments, which might be imperceptibly slow-changing. The artist
 will be in attendance.
 
-â€”-
+—-
 
 Khan Lee was born in Seoul, Korea. He studied architecture at Hong-Ik
 University, before immigrating to Canada to study fine art at Emily Carr
@@ -799,30 +799,30 @@ identity. The film contains interviews with a wide range of enigmatic,
 powerful characters from Alberta to Haida Gwaii, including educators,
 farmers, and Indigenous knowledge keepers.
 
-Co-director and producer Tomas Borsa comments on the timing of the filmâ€™s
-release: â€œWeâ€™ve reached a liminal moment in Canadian history, in which
+Co-director and producer Tomas Borsa comments on the timing of the film’s
+release: “We’ve reached a liminal moment in Canadian history, in which
 falling oil prices, coinciding with a fall federal election, mean that
 energy politics will be at the forefront of conversation for quite some
 time. The Northern Gateway is the single most salient and significant
 marker of that trend in Canada, and treating it as a case study might help
 to forecast the direction similar debates will take in the future.â€ 
 
-The location of the filmâ€™s Vancouver premiere at VIVO Media Arts Centre is
-equally significant: â€œVIVO has a long and storied history of ruffling
-feathers. Theyâ€™ve amassed one of the most significant collections of
+The location of the film’s Vancouver premiere at VIVO Media Arts Centre is
+equally significant: “VIVO has a long and storied history of ruffling
+feathers. They’ve amassed one of the most significant collections of
 independent media in Canada, and have been there to witness similar stories
-of struggle in the past â€“ Clayoquot Sound, Lyell Island, to name a few.
+of struggle in the past – Clayoquot Sound, Lyell Island, to name a few.
 Itâ€™s a huge honour to hold the screening in that setting.â€ 
 
 The April 22nd screening marks the conclusion to a 14-stop premiere tour of
 the film throughout communities in Northern BC. Other screenings on that
 tour include Quesnel, Tache, Fort St. James, Burns Lake, Old Hazelton,
-Unistâ€™otâ€™en Camp, Terrace, Smithers, Kitimat, Skidegate, and Masset.
+Unist’ot’en Camp, Terrace, Smithers, Kitimat, Skidegate, and Masset.
 
-On the decision to premiere the film in Northern BC, Borsa comments: â€œWe
+On the decision to premiere the film in Northern BC, Borsa comments: “We
 wanted to premiere the film in Northern BC as a condition of respect to
-those impacted by the project. Thereâ€™s a tendency for journalists to
-â€˜parachute inâ€™, collect material, and then leave. We wanted to respect the
+those impacted by the project. There’s a tendency for journalists to
+‘parachute in’, collect material, and then leave. We wanted to respect the
 intrinsic link between place and identity felt by many who live in the path
 of the pipeline by holding the first screenings in the regions in question.â€ 
 x
@@ -838,7 +838,7 @@ and Grandview Hwy, or just up the street from Renfrew Skytrain. Call
 ------------------------------------------------------------------------
 The Kitchen Garden at Home/Store
 Ron Tran
-April 9 â€“ May 23, 2015
+April 9 – May 23, 2015
 
 Reception: April 23, 7pm
 
@@ -866,7 +866,7 @@ hello@221a.ca
 <a href="/instant-coffee/listings/2015-04-16-21-presentation-house-tris-vonna-michell-apr-23">21. OPENING | Presentation House | Tris Vonna-Michell | APR 23</a>
 ------------------------------------------------------------------------
 Tris Vonna-Michell
-April 24 â€“ May 31, 2015
+April 24 – May 31, 2015
 
 Conversation with the Artist and Curator Helga Pakasaar
 April 23, 7PM, followed by the Exhibition Opening Reception, 8PM
@@ -878,21 +878,21 @@ North Vancouver, BC
 Tris Vonna-Michell layers photographic images and film with spoken word
 into entangled narratives. This exhibition brings together new iterations
 of three ongoing installations, using primarily analogue technology. The
-visual material is animated by intense monologues propelled by the artistâ€™s
+visual material is animated by intense monologues propelled by the artist’s
 distinctly fast-paced, urgent voice. Informed by experimental writers such
 as Allen Ginsberg, his spoken word compositions full of detours,
 repetitions and dead ends are disorienting and unravel into circuitous tales.
 
 In this exhibition, Vonna-Michell threads together disparate historical
 information, social observation, and personal anecdotes. Swept into the
-narratorâ€™s anxieties, the works pull us into different times and places
+narrator’s anxieties, the works pull us into different times and places
 (Paris, Chandigarh and Berlin) to negotiate complex situations. This
 exhibition asks us to pay attention to the nature of coincidence and
 repetition, as a way to make sense of the malleability of images and language.
 
 Tris Vonna-Michell lives and works between Stockholm, Sweden and
 Southend-on-Sea, UK. Recent solo exhibitions have taken place at Moderna
-Museet, Malmo; VOX Centre de lâ€™image contemporain, Montreal (2014); T293,
+Museet, Malmo; VOX Centre de l’image contemporain, Montreal (2014); T293,
 Rome (2013); and Metro Pictures, New York (2011). Recent group
 exhibitions, include Un Nouveau Festival, Centre Pompidou, Paris (2014);
 Unrest of Form. Imagining the Political Subject, Secession, Vienna (2013);
@@ -901,7 +901,7 @@ The Butterfly lmage, The Grand Duke Jean Museum of Modern Art, Luxembourg
 Triennial, Tate Britain, London (2009); and Time Crevasse, Yokohama
 Triennial (2008). Vonna-Michell was awarded the Baloise Art Prize and Ars
 Viva Prize for Fine Arts in 2008, and was shortlisted for the 2014 Turner
-Prize. He studied at the Glasgow School of Art, the StÃ¤delschule, Frankfurt
+Prize. He studied at the Glasgow School of Art, the Städelschule, Frankfurt
 am Main, and briefly at Emily Carr University of Art and Design. He
 initiated the Mount Analogue publishing project.
 
@@ -926,8 +926,8 @@ Un Quiet Bodies
 Salon Shop exhibition:
 The Transience of Value | Lena Tan
 
-Opening reception: Friday, April 24th, 7.00 â€“ 10.00pm
-Exhibition runs: April 24th â€“ May 31st, 2015
+Opening reception: Friday, April 24th, 7.00 – 10.00pm
+Exhibition runs: April 24th – May 31st, 2015
 --
 
 Un Quiet Bodies
@@ -935,7 +935,7 @@ Un Quiet Bodies
 Un Quiet Bodies features the work of Aja Rose Bond and Chandra Melting Tallow.
 
 Un Quiet Bodies delves into the complex realities of the physiology of
-trauma, self-awareness, and levels of ability impacting oneâ€™s capacity to
+trauma, self-awareness, and levels of ability impacting one’s capacity to
 survive in a society designed for the â€œable-bodiedâ€ . Bondâ€™s work emphasizes
 the relationship between work, leisure and self-care when accounting for
 physical and mental limitations. Melting Tallow explores the implications
@@ -947,7 +947,7 @@ Zine Reading and Discussion Group - May 17th, 1-3pm 
 when language runs dry: a zine for people with chronic pain and their
 allies facilitated by Aja Rose Bond
 
-Closing Performance - May 31st, 7Â­pm
+Closing Performance - May 31st, 7­pm
 Shrouded Forms - Sound by Chandra Melting Tallow
 *limited audience of 15 please, RSVP by email programming@gachet.org or in
 person at the gallery
@@ -978,7 +978,7 @@ contact@gachet.org
 
 April 24-May 15, 2015
 
-Sâ€™eliyemetxwtexw Art Gallery (B 136) and Building C, M-F 10am-6pm
+S’eliyemetxwtexw Art Gallery (B 136) and Building C, M-F 10am-6pm
 Opening Reception April 24 6:30pm
 University of the Fraser Valley
 
@@ -986,7 +986,7 @@ Every year members of the University of the Fraser Valley, and its
 surrounding community, come together to support a culturally enriching
 experience in the Visual Arts Department: the BFA Grad Show.
 
-This yearâ€™s exhibition will feature works byâ€¦
+This year’s exhibition will feature works by…
 Ryan Cadarette
 Evelyn Dewar
 Tessa Dumanski
@@ -1030,7 +1030,7 @@ NURSE prescribe heady medication. Releases to date include Heads Remain
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-04-16-26-index-gallery-this-could-take-decades-oksanen-paolinelli-apr">26. OPENING | INDEX GALLERY | This Could Take Decades - Oksanen & Paolinelli | APR 25</a>
 ------------------------------------------------------------------------
-A simultaneous crystallization between two practices, â€œThis Could Take
+A simultaneous crystallization between two practices, “This Could Take
 Decadesâ€  features the work of artists Shannon Oksanen and Nathalee
 Paolinelli. One practice traverses interiority and self-introspection,
 while the other embraces the exuberance and whimsy of childhood.
@@ -1052,7 +1052,7 @@ Canada
 ------------------------------------------------------------------------
 Curse of the Livable City: Panel Discussion
 Saturday, April 25
-2:00 â€“ 3:30pm
+2:00 – 3:30pm
 
 In connection to the exhibition GREG GIRARD: RICHMOND/KOWLOON, the Richmond
 Art Gallery presents a discussion on the changing cityscape, led by
@@ -1068,7 +1068,7 @@ How do these changes compare to what is happening in other cities around
 the world?
 
 Panelists:
-Glenn Deer, Assistant Professor of English & Associate Editor of â€œCanadian
+Glenn Deer, Assistant Professor of English & Associate Editor of “Canadian
 Literatureâ€ , Dept. of English, UBC
 Greg Girard, Photographer
 Bing Thom, Principal, Bing Thom Architects
@@ -1122,7 +1122,7 @@ Tuesday, April 28 @ 8pm
 Western Front, 303 East 8th Avenue
 Free Admission
 
-Scrivenerâ€™s Monthly presents an evening with poet, critic, and editor Quinn
+Scrivener’s Monthly presents an evening with poet, critic, and editor Quinn
 Latimer. Latimer will read from new and recent work, including selections
 from Stories, Myths, Ironies, and Other Songs: Conceived, Directed, Edited,
 and Produced by M. Auder (2014) and Anthology, a manuscript-in-process.
@@ -1148,16 +1148,16 @@ also appears in Boston Review, The Paris Review, and in many artist books
 and critical anthologies. Her lecture-performances, text works, and video
 collaborations have recently been featured at Chisenhale Gallery, London;
 Kunsthalle Zurich, Switzerland; the German Pavilion, Venice Architecture
-Biennale, Italy; Fondation dâ€™Enterprise Galeries Lafayette, Paris; and
+Biennale, Italy; Fondation d’Enterprise Galeries Lafayette, Paris; and
 Qalandia International, Ramallah/Jerusalem. A recipient of an Arts Writing
 Grant from Creative Capitol/Warhol Foundation for her work on contemporary
-feminist art practices, Latimer teaches at Genevaâ€™s Haute Ã©cole dâ€™art et de
+feminist art practices, Latimer teaches at Geneva’s Haute école d’art et de
 design (HEAD), and is currently Editor-in-Chief of Publications for
 documenta 14.
 
 ---
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 not publishing involves readings, performances, and other articulations.
@@ -1184,7 +1184,7 @@ in Canada and one of only two on the West Coast. In 2015 the event is
 anticipated to attract over 3,000 visitors from across the Greater
 Vancouver Area and beyond.
 
-Presented by Project Space, VA/BF is a two-day festival of artistsâ€™
+Presented by Project Space, VA/BF is a two-day festival of artists’
 publishing featuring over one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 installations. Featured artists travel to Vancouver from across Canada and
@@ -1198,7 +1198,7 @@ Free and open to the public Saturday, October 17 and Sunday, October 18,
 
 Members Preview: Friday, October 16, 2014
 
-From October 12 to 18 satellite events will take place as part of Artistsâ€™
+From October 12 to 18 satellite events will take place as part of Artists’
 Books Week, a series of programs hosted by local publishers, artists,
 collectives, artist-run centres and institutions across Vancouver.
 Exhibitors are encouraged to collaborate with Vancouver hosts to participate.
@@ -1267,25 +1267,25 @@ Note that the award winner must be under 30 years of age by December 31,
 2015 and is required to demonstrate proof of age on signing of the
 exhibition contract.
 
-Visit the Art Gallery of Guelphâ€™s website for more information, including a
+Visit the Art Gallery of Guelph’s website for more information, including a
 floor plan:
 http://www.artgalleryofguelph.ca/3rd-annual-middlebrook-prize-young-canadian-curators
 
 Important Dates
-Call for Submissions: March 31 â€“ May 1, 2015
+Call for Submissions: March 31 – May 1, 2015
 Winning Recipient Announcement: May 11, 2015
-Exhibition Dates: September 17 â€“ December 13, 2015
+Exhibition Dates: September 17 – December 13, 2015
 Exhibition Reception: September 17, 2015
 
 Applications are to be submitted in a single PDF document, with the subject
 line Middlebrook Prize, to: Middlebrook Prize Jury at info@msac.ca
 
 The Middlebrook Prize for Young Canadian Curators is funded by the Centre
-Wellington Community Foundationâ€™s Middlebrook Social Innovation Fund, with
+Wellington Community Foundation’s Middlebrook Social Innovation Fund, with
 support from John and Miranda Kissick.
 
-The Macdonald Stewart Art Centre and its sponsors â€” University of Guelph,
-City of Guelph, and the Upper Grand District School Board â€” acknowledge the
+The Macdonald Stewart Art Centre and its sponsors — University of Guelph,
+City of Guelph, and the Upper Grand District School Board — acknowledge the
 support of the Ontario Arts Council, Canada Council for the Arts, Ontario
 Trillium Foundation, and the Department of Canadian Heritage.
 
@@ -1322,7 +1322,7 @@ Master of Applied Arts Graduate Exhibition
 Amanda Arcuri, Dallas V. Duobaitis, Britta Fluevog, Monique Motut-Firth,
 prOphecy sun
 
-Saturday, May 2 â€“ Sunday, May 17
+Saturday, May 2 – Sunday, May 17
 Opening reception Saturday, May 2, 17:00 - 22:00
 Charles H. Scott Gallery
 Emily Carr University of Art + Design | 1399 Johnston Street, Vancouver
@@ -1339,14 +1339,14 @@ http://facebook.com/events/307064722802040/
 <a href="/instant-coffee/listings/2015-04-16-34-city-of-port-moody-evergreen-line-inlet-centre-station-plaza">34. CALL | City of Port Moody | Evergreen Line, Inlet Centre Station Plaza | MAY 4</a>
 ------------------------------------------------------------------------
 Request for Qualifications
-Public Art Project: Evergreen Line â€“ Inlet Centre Station Plaza
+Public Art Project: Evergreen Line – Inlet Centre Station Plaza
 City of Port Moody
 Port Moody, BC
 Budget: $36,380
 Eligibility: This competition is open to local, and national artists and
 artist teams. This call is open to professional artists and emerging
 professional artists.
-Deadline: Monday, May 4, 2015 â€“ 9 a.m.
+Deadline: Monday, May 4, 2015 – 9 a.m.
 
 The City of Port Moody seeks an artist or artist team interested in
 providing artwork for the Inlet Centre Station Plaza. The artwork
@@ -1360,24 +1360,24 @@ For questions regarding the submission requirements or process, contact the
 City of Port Moody by email at ktracey@portmoody.ca.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-04-16-35-ugms-rotating-gallery-call-for-submissions-may-8">35. CALL | UGMâ€™s Rotating Gallery | Call for Submissions | MAY 8</a>
+<a href="/instant-coffee/listings/2015-04-16-35-ugms-rotating-gallery-call-for-submissions-may-8">35. CALL | UGM’s Rotating Gallery | Call for Submissions | MAY 8</a>
 ------------------------------------------------------------------------
-People are more than just a physical need. Thatâ€™s why Union Gospel
-Missionâ€™s innovative continuum of careâ€”which includes Emergency Shelter,
+People are more than just a physical need. That’s why Union Gospel
+Mission’s innovative continuum of care—which includes Emergency Shelter,
 Alcohol & Drug Recovery, Employment & Education Services, Art Therapy, a
-unique Photo 101 course, and moreâ€”is designed to meet the needs of the
+unique Photo 101 course, and more—is designed to meet the needs of the
 whole person. We strive to build a warm, creative, and healing space where
 our guests, residents, and tenants can re-build their lives. When
-considering our guestsâ€™ social emotional, or spiritual needs we like to
+considering our guests’ social emotional, or spiritual needs we like to
 daydream about the different ways that we can spark, inspire, and cultivate
-their imagination. Thatâ€™s why, three years ago, we transformed our fifth
-floor into UGMâ€™s Rotating Gallery. By curating local, hope-filled art on
+their imagination. That’s why, three years ago, we transformed our fifth
+floor into UGM’s Rotating Gallery. By curating local, hope-filled art on
 our walls, we believe that we can create an environment that brings dignity
-and life to marginalized peopleâ€™s livesâ€”and weâ€™d love to have your
+and life to marginalized people’s lives—and we’d love to have your
 partnership and participation. We are searching for artists interested in
-exhibiting a two-dimensional piece on our fifth floorâ€™s Rotating Gallery
+exhibiting a two-dimensional piece on our fifth floor’s Rotating Gallery
 for one year. Please submit your proposal by Friday, May 8th. Your artwork
-could play a vital role in our residentsâ€™ livesâ€”all of who are working hard
+could play a vital role in our residents’ lives—all of who are working hard
 to overcome poverty, homelessness, or addiction.
 
 Please submit your proposal to artcommittee@ugm.ca by May 8, 2015. Please
@@ -1385,7 +1385,7 @@ include a photo of your piece along with the following information: artist
 name, title of piece, medium, and size of piece (note: we cannot accept
 pieces that are smaller than 16â€ x20â€  or larger than 48â€ x48â€ ).
 
-If you have any questions, please contact UGMâ€™s Art Committee at
+If you have any questions, please contact UGM’s Art Committee at
 604.215.5445 ext 594 or artcommittee@ugm.ca. We look forward to reviewing
 your submission.
 
@@ -1399,12 +1399,12 @@ http://ugm.ca
 <a href="/instant-coffee/listings/2015-04-16-36-city-of-edmonton-north-east-transit-garage-public-art-projec">36. CALL | City of Edmonton | North East Transit Garage Public Art Project | MAY 19</a>
 ------------------------------------------------------------------------
 Request for Qualifications
-Call to Artists â€“ North East Transit Garage Public Art Project
+Call to Artists – North East Transit Garage Public Art Project
 The Edmonton Arts Council Public Art Program on behalf of the City of Edmonton
 Edmonton, Alberta
 Budget: $1,000,000 CAD (maximum, all inclusive)
 Eligibility: Open to all local, national and international professional artists
-Deadline: Tuesday, May 19, 2015 â€“ 4:30 p.m. (MDT)
+Deadline: Tuesday, May 19, 2015 – 4:30 p.m. (MDT)
 
 The Edmonton Arts Council Public Art Program on behalf of the City of
 Edmonton seeks an artist or artist team to integrate site-specific,
@@ -1412,12 +1412,12 @@ place-making public art at the North East Transit Garage (NETG).
 
 The commissioned artwork will be chosen through a two-stage Artwork
 Selection process:
-â€¢ The first stage will short-list four applicants based on qualifications.
-â€¢ Short-listed applicants will be required to visit the site in order to
+• The first stage will short-list four applicants based on qualifications.
+• Short-listed applicants will be required to visit the site in order to
 gain a familiarity with Edmonton and the NETG site.
-â€¢ $5000.00 travel and maquette fee (including shipping) will be paid to the
+• $5000.00 travel and maquette fee (including shipping) will be paid to the
 shortlisted artists to produce their proposal.
-â€¢ The second stage of the competition will select an artwork based on a
+• The second stage of the competition will select an artwork based on a
 full project proposal with a maquette from short-listed applicants.
 
 For more information and submission guidelines:

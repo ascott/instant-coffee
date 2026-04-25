@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 4
 type: ""
+venue: "EMILY CARR"
 summary: "EMILY CARR | ANNUAL INTERIM MAA EXHIBITION | APR 4"
 ---
 
@@ -19,7 +20,7 @@ ekphrasis.info
 Emily Carrs first year MAA cohort presents Ekphrasis. An exhibition 
 composed of new work, from design, media arts, and visual arts students 
 Madeleine Campbell, Adam Cristobal, Hoda Hamouda, Amiel Logan, Ann 
-Milligan, Michelle OByrne, Patryk Stasieczek, Pascale ThÃ©orÃªt-Groulx and 
+Milligan, Michelle OByrne, Patryk Stasieczek, Pascale Théorêt-Groulx and 
 Melanie Waddell.
 
 Signalling the midpoint of the Master of Applied Arts graduate program, this

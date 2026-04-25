@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 56
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | READING | 3PM | MAR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 2
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | Angus Ferguson | DEC 3"
 ---
 
@@ -14,7 +15,7 @@ Please join us for the opening this Friday December 3rd from 8pm onward.
 Gallery Atsui is located at 602 Hastings Street East.
 
 For his first solo exhibition at Gallery Atsui, Angus Ferguson presents one
-chapter of his on-going project identifying the paintersâ€™ studio as a kind
+chapter of his on-going project identifying the painters’ studio as a kind
 of abject special effects workshop. Haphazardly pulling from inspirations
 as disparate as Albrecht Durer, Carl Sagan, Mary Shelley and Jim Henson,
 Ferguson equates painterly gesture with mutation, his wild strokes and

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 32
 type: "TALK"
+venue: "The Gathering Place"
 summary: "The Gathering Place | Plain English Series | 530PM | JUL 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 14
 type: ""
+venue: "Cristall Gallery"
 summary: "Cristall Gallery | Anda Kubis | MAR 2"
 ---
 
@@ -22,7 +23,7 @@ of energetic chromatic play.
 Merging the Colour Field with glimmers of Impressionism, Full Spectrum 
 revels in the illusionistic and material potential of paint. Kubis promotes 
 the sheer pleasure of creating idiosyncratic pictures that arouse the 
-eye â€“ in an age of anxiety she encourages engaged looking. For Kubis, 
+eye – in an age of anxiety she encourages engaged looking. For Kubis, 
 aesthetic engagement has the potential to change how we perceive the 
 world; in â€œFull Spectrumâ€  Kubis pursues well-being in painted form.
 Anda Kubis studied at Ontario College of Art and Design University 
@@ -38,7 +39,7 @@ To deepen her understanding of contemporary art practice Anda has
 curated many exhibitions and run experimental art galleries. Her 
 curatorial projects include Red Carpet and Superplastic for Drabinsky 
 Gallery, Self Help at Mercer Union and Alias, Alibi for Free Parking 
-Gallery. Andaâ€™s projects reflect upon the relevance of art practice in a 
+Gallery. Anda’s projects reflect upon the relevance of art practice in a 
 consumer driven, media dominated society. She is represented by 
 Elissa Cristall Gallery in Vancouver, Newzones in Calgary, Drabinsky 
 Gallery in Toronto and Tapper-Popermajer Contemporary in Sweden.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 12
 type: ""
+venue: "The Banff Centre"
 summary: "The Banff Centre | Visual Arts Residency | AUG 17"
 ---
 
@@ -22,7 +23,7 @@ Much of the visual art of the twenty-first century vivifies the formerly
 neutral, decorative surfaces that have surrounded the discussion, 
 production, and display of artworks: the gallery opening, the white 
 cube, the PowerPoint lecture, the auction house. And over the last 
-decade a renewed sense of artâ€™s expressive possibility has flourished 
+decade a renewed sense of art’s expressive possibility has flourished 
 as more stuff began to be treated as if it were art. A cloud of evaluative 
 anxiety accompanies this new art. Perhaps we have so much 
 information today that only its deficit can bring about a truly arresting 

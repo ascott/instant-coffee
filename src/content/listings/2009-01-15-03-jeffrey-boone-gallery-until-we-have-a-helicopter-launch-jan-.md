@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 3
 type: ""
+venue: "Jeffrey Boone Gallery"
 summary: "Jeffrey Boone Gallery | Until We Have A Helicopter : LAUNCH | JAN 15"
 ---
 

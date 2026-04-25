@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 9
 type: ""
+venue: "ECU"
 summary: "ECU | talk | Volker Gerling | JAN 24"
 ---
 
@@ -11,7 +12,7 @@ Monday, January 24, 2011 - 7:00pm
 Emily Carr Lecture Theatre | SB Room 301
 1400 Johnston Street, Granville Island, Vancouver
 
-Volker Gerlingâ€™s flip-book cinema has quietly become legendary. Having
+Volker Gerling’s flip-book cinema has quietly become legendary. Having
 walked some 3000 kilometres through Germany on foot, Gerling took
 photographs of people he met during his wanderings, creating portraits in
 the form of photographic flip-books. He met an old man who wanted to
@@ -23,7 +24,7 @@ Gerling describes great, small, serious and quirky accidental encounters
 and, for a moment, brings his protagonists to life on the screen. They
 appear so life-like in fact, that the observer feels as if they have known
 the subject for years. On stage, Gerling flips through the photos
-underneath a video camera lens and projects the images onto a screen â€“
+underneath a video camera lens and projects the images onto a screen –
 recounting the stories of those who let themselves be photographed. These
 magical studies inspire gentle but profound reflection upon the transitory
 nature of the moment and the significance of interpersonal encounters. The
@@ -34,7 +35,7 @@ numerous international theatre festivals throughout Europe.
 This lecture is presented in partnership with the PuSh Festival; January 18
 - February 6, 2011.
 
-Each semester, Emily Carrâ€™s Speaker Series brings to campus the unique and
+Each semester, Emily Carr’s Speaker Series brings to campus the unique and
 diverse perspectives of world-renowned artists, architects, designers,
 curators, scholars, and writers. Each speaker presents their work and
 invites the audience to participate in a critical discussion. The primary

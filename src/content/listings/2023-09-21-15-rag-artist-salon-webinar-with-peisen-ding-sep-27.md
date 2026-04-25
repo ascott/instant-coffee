@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 15
 type: "EVENT"
+venue: "RAG"
 summary: "RAG | Artist Salon Webinar with Peisen Ding | SEP 27"
 ---
 

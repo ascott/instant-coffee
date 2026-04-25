@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "CAG"
 summary: "CAG | Kablusiak: Double Feature"
 ---
 

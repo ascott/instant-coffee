@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "MOV"
 summary: "MOV | Full Museum, Full Heart | JUN 20"
 ---
 

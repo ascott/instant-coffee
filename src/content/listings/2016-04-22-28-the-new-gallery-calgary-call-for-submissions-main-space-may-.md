@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 28
 type: "CALL"
+venue: "The New Gallery (Calgary)"
 summary: "The New Gallery (Calgary) | Call for Submissions (Main Space) | MAY 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you must enter a Byline"
 emailDate: "Thu, 04 Sep 2008 09:20:55 -0700"
 number: 14
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | In the diagram below... | SEP 5"
 ---
 

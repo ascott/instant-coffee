@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 28
 type: "TALK"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Greg Girard - 1970s Vancouver in Photographs | SEP 21"
 ---
 

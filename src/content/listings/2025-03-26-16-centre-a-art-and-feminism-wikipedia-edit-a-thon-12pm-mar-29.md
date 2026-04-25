@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 16
 type: "EDUCATION"
+venue: "Centre A"
 summary: "Centre A | Art and Feminism Wikipedia Edit-a-thon | 12PM | MAR 29"
 ---
 

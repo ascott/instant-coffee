@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 75
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | dot.dot.dot. | 7-10PM | MAY 9"
 ---
 

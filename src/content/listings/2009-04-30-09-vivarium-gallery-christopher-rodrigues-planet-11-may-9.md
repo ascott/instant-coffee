@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: full of sass and sparkle"
 emailDate: "Thu, 30 Apr 2009 08:30:09 -0700"
 number: 9
 type: ""
+venue: "VIVARIUM GALLERY"
 summary: "VIVARIUM GALLERY | Christopher Rodrigues: Planet 11 | MAY 9"
 ---
 

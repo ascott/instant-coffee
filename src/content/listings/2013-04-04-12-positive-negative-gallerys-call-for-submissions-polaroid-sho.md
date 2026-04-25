@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 12
 type: ""
+venue: "Positive Negative Gallery’s"
 summary: "Positive Negative Gallery’s | CALL FOR SUBMISSIONS: Polaroid show | APR 10"
 ---
 

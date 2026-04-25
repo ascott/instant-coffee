@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Alternatives Gallery"
 summary: "Alternatives Gallery | Black Lives Matter Memorial Exhibit | Until Aug"
 ---
 

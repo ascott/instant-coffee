@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 8
 type: "EVENT"
+venue: "8EAST"
 summary: "8EAST | Ryan Fitzpatrick | Cloth Reading | 1-3PM | OCT 6"
 ---
 

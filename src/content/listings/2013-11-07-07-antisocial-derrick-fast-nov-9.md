@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 7
 type: ""
+venue: "Antisocial"
 summary: "Antisocial | derrick fast | NOV 9"
 ---
 

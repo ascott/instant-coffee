@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 3
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | WORKS FROM THE GORDON & MARION SMITH COLLECTION | JUN 9"
 ---
 
@@ -37,9 +38,9 @@ Wakefield, Jeff Wall, Ian Wallace and Irene Whittome.
 This exhibition is guest curated by Ian Thom, Senior Curator, Vancouver Art
 Gallery.
 
-West Vancouver Museum | 680 â€“17th Street, West Vancouver, BC V7V 3T2 | 604
+West Vancouver Museum | 680 –17th Street, West Vancouver, BC V7V 3T2 | 604
 925 7295 | www.westvancouvermuseum.ca
-Open Tuesdayâ€“Saturday, 11am to 5pm, Closed Sundays, Mondays, and Statutory
+Open Tuesday–Saturday, 11am to 5pm, Closed Sundays, Mondays, and Statutory
 Holidays
 
 Many thanks in advance,

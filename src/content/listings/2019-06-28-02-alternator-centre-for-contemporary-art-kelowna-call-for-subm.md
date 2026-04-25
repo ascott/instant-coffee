@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 2
 type: "CALL"
+venue: "Alternator Centre for Contemporary Art (Kelowna)"
 summary: "Alternator Centre for Contemporary Art (Kelowna) | Call for Submissions"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 26
 type: ""
+venue: "Camosun College, Victoria"
 summary: "Camosun College, Victoria | the artfoundations21 conference | JUN 11"
 ---
 

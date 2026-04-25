@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 9
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Neither Here Nor There: MFA Spring Exhibition | MAY 7"
 ---
 
 Neither Here Nor There: MFA Spring Exhibition
 
 Audain Gallery, Vancouver
-May 8 â€“ 17, 2014
+May 8 – 17, 2014
 
 The idea of a place that is "neither here nor there" invokes somewhere in 
 limbo, an in-between space where nothing is what it seems, and where 
@@ -27,7 +28,7 @@ comprised of an exhibition of interdisciplinary works both inside and outside
 of the Audain Gallery, accompanied by a five night series of live 
 performances at SFU at the Goldcorp Centre for the Arts.
 
-Audain Gallery and offsite: Luciana D'AnunciaÃ§Ã£o, Lucien Durey, Deborah 
+Audain Gallery and offsite: Luciana D'Anunciação, Lucien Durey, Deborah 
 Edmeades, Curtis Grahauer, Jeff Langille, Avery Nabata, Clint Sleeper, Jaime 
 Williams and Nathaniel Wong.
 
@@ -43,13 +44,13 @@ Opening Reception
 Wednesday, May 7, 7pm
 
 Performance Series: A Real Good Performance Festival
-May 7 â€“ 11
+May 7 – 11
 
 Wednesday, May 7
 
 The door is open, please come in
-Luciana D'AnunciaÃ§Ã£o
-5pmâ€“10pm, Room 4210
+Luciana D'Anunciação
+5pm–10pm, Room 4210
 FREE
 
 How I learned to stop verbing and blank the object
@@ -117,7 +118,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audain@sfu.ca

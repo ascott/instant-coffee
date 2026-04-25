@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 20
 type: ""
+venue: "SFU Woodward"
 summary: "SFU Woodward | Experiments in Arab Cinema | NOV 15"
 ---
 
-Experiments in Arab Cinema â€“ a film series of contemporary experiments in 
+Experiments in Arab Cinema – a film series of contemporary experiments in 
 film from Morocco, Lebanon, and Egypt, curated by SFU Professor Laura 
 Marks
 November 15-16, 2013
@@ -46,7 +47,7 @@ dizzying double-screen video, The Holy Zero, explains the numerical forces
 underlying the visible world.
 
 Gheith al-Amine, King Lost His Tooth (2012, 5:00)
-Mohssin Harraki, ProblÃ¨me 5 (arabes gÃ©nÃ©alogiques) (Morocco/France, 2010-
+Mohssin Harraki, Problème 5 (arabes généalogiques) (Morocco/France, 2010-
 2011, 2:14)
 Mounir Fatmi, Mixology (Morocco/France, 2010, 11:40)
 Ahmed El Shaer, Recycle the Code (Egypt, 2010, 2:47)
@@ -72,7 +73,7 @@ November 16, 8 p.m. - The Body in the Archive
 Like The Three Disappearances of Souad Hosni, some of these works search 
 for latent histories in archives of cinema and late-night TV. Maha Maamoun's 
 2026 is a dark science-fiction fantasy inspired by Chris Marker's low-budget 
-classic La JetÃ©e. Raed Yassin's The New Film of 2009, composed of 
+classic La Jetée. Raed Yassin's The New Film of 2009, composed of 
 hundreds of Egyptian popular films, proves scarily prescient of the longevity of 
 Egypt's military regime. Sherif El Azma's dive into the archive of 1930s 
 Egyptian and colonial cinema results in a seductive and uncanny neo-noir 
@@ -109,7 +110,7 @@ Arts at Simon Fraser University, Vancouver, where she is the Dena Wosk
 University
 Professor.
 
-SFU Woodwardâ€™s Cultural Programs
+SFU Woodward’s Cultural Programs
 
 SFU Woodward's Cultural Programs a dedicated part of SFU becoming 
 Canada's most Community Engagement University. Through cultural 
@@ -117,7 +118,7 @@ programming and arts discourse, SFU Woodward's supports public access to
 the arts within its unique location in Vancouver's DTES, with the belief that the 
 right to culture is for all.
 
-SFU Wâ€™s core activities are focused on community partnerships within 
+SFU W’s core activities are focused on community partnerships within 
 Vancouver's vibrant arts community, resulting in a wide variety of free and low-
 cost public programming at Goldcorp Centre for the Arts. In three short years 
 SFU Woodward's has formed relationships with 25 cultural partners, 

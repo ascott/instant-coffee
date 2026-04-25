@@ -24,10 +24,10 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-02-06-10-west-vancouver-museum-ukiyoe-spectacular-japanese-woodblock-">10. West Vancouver Museum | Ukiyoe Spectacular: Japanese woodblock prints | FEB 12</a>
 <a href="/instant-coffee/listings/2014-02-06-11-centre-a-kotama-bouabane-and-henry-tsang-feb-13">11. Centre A | Kotama Bouabane and Henry Tsang | FEB 13</a>
 <a href="/instant-coffee/listings/2014-02-06-12-index-gallery-pulling-feathers-from-a-broken-tooth-feb-13">12. Index Gallery | Pulling Feathers from a Broken Tooth | FEB 13</a>
-<a href="/instant-coffee/listings/2014-02-06-13-satellite-gallery-cindy-sherman-meets-dzunukwa-feb-13">13. Satellite Gallery | Cindy Sherman meets Dzunukâ€™wa | FEB 13</a>
+<a href="/instant-coffee/listings/2014-02-06-13-satellite-gallery-cindy-sherman-meets-dzunukwa-feb-13">13. Satellite Gallery | Cindy Sherman meets Dzunuk’wa | FEB 13</a>
 <a href="/instant-coffee/listings/2014-02-06-14-trench-contemporary-art-glenn-lewis-feb-13">14. TRENCH Contemporary Art | Glenn Lewis | FEB 13</a>
 <a href="/instant-coffee/listings/2014-02-06-15-positive-negative-gallery-brent-clowater-feb-14">15. Positive Negative Gallery | Brent Clowater | FEB 14</a>
-<a href="/instant-coffee/listings/2014-02-06-16-parenthesis-agro-caf-talk-rita-wong-and-mimi-gellman-feb-17">16. (Parenthesis) @Agro CafÃ© | Talk: Rita Wong and Mimi Gellman | FEB 17</a>
+<a href="/instant-coffee/listings/2014-02-06-16-parenthesis-agro-caf-talk-rita-wong-and-mimi-gellman-feb-17">16. (Parenthesis) @Agro Café | Talk: Rita Wong and Mimi Gellman | FEB 17</a>
 <a href="/instant-coffee/listings/2014-02-06-17-yactac-gallery-derek-coulombe-feb-21">17. Yactac Gallery | Derek Coulombe | FEB 21</a>
 <a href="/instant-coffee/listings/2014-02-06-18-douglas-udell-gallery-andrew-valko-feb-22">18. Douglas Udell Gallery | Andrew Valko | FEB 22</a>
 <a href="/instant-coffee/listings/2014-02-06-19-radical-spirits-a-one-night-multidisciplinary-arts-extravaga">19. Radical Spirits | A One-Night Multidisciplinary Arts Extravagana | FEB 23</a>
@@ -119,7 +119,7 @@ explore the fluidity and function of electronic noise (field recordings,
 circuit bending) and text (poetry, found, spoken, visual).
 
 ANDREA NEUMANN. Born 1968 in Freiburg, Studied classical piano at 
-the Hochschule der KÃ¼nste, Berlin. Has been active primarily as 
+the Hochschule der Künste, Berlin. Has been active primarily as 
 musician and composer in the fields of new music and experimental 
 music since 1994. She has been significantly involved in the formation 
 and development of the "echtzeitmusik" scene in Berlin, which borders 
@@ -144,7 +144,7 @@ Great Uncles of the Revolution which includes well-known Toronto
 bassist Andrew Downing and jazz trumpeter Kevin Turcotte. Both of 
 these recording acts are Juno Award winners.
 Jesse is heavily involved in the world of creative & improvised music 
-and has performed and recorded with the likes of FranÃ§ois Houle, 
+and has performed and recorded with the likes of François Houle, 
 Eugene Chadbourne, Evan Parker, Secret Mommy, Mats Gustafsson, 
 Dave Douglas, Peggy Lee, Matthew Bourne, Orkestra Rova, Dylan van 
 der Schyff, Tony Wilson, Fred Frith, Eyvind Kang, Dylan van der 
@@ -157,14 +157,14 @@ skills in the West. During this time, Josh toured internationally with a
 violin group called Barrage. Soon after, Josh delved into the world of 
 improv and electronic music playing in numerous projects in Calgary, 
 Alberta.
-Joshâ€™s musical interests reside somewhere in the middle of jazz, free 
+Josh’s musical interests reside somewhere in the middle of jazz, free 
 jazz, avant garde, contemporary classical, folk, improvisational, rock 
 and electronic. Mainly, Josh is a performer/composer fusing many 
 means of styles through the studies of electronics and the violin.
 Along the way, Josh has played with numerous different groups and 
 individuals. Some collaborations were with Chad VanGaalen, Lori 
 Freedman, Philippe Lauzier, members of Bell Orchestre, Pierre-Yves 
-Martel, Michael Blake, Bernard Falaise, Rainer Wiens, Michel F CotÃ©, 
+Martel, Michael Blake, Bernard Falaise, Rainer Wiens, Michel F Coté, 
 Sam Shalabi and many more.
 www.joshzubot.ca
 
@@ -176,7 +176,7 @@ Tony Wilson, Ron Samworth, Dylan van der Schyff, Torsten Muller,
 Veda Hille, Lisa Miller, John Korsrud, Wayne Horvitz and Robin 
 Holcomb. Peggy also leads or co-leads a number of musical projects: 
 The Peggy Lee Band, Film in Music, Waxwing (with Tony Wilson and 
-Jon Bentley) and Beautiful Tool (with Mary Margaret Oâ€™Hara). Peggy 
+Jon Bentley) and Beautiful Tool (with Mary Margaret O’Hara). Peggy 
 will be playing solo for this evening of performance.
 www.peggy.net
 
@@ -224,14 +224,14 @@ Canada.
 CAROLINE MONNET, DEVIN TROY STROTHER, LAWRENCE PAUL 
 YUXWELUPTUN
 
-February 8â€“March 29, 2014 
+February 8–March 29, 2014 
 Opening: Friday, February 7, 8pm 
 
 Barn Swallows brings together three artists whose works combine the 
 vocabulary of popular and traditional visual-cultures with the tropes of 
 modernist abstraction to create unique hybrid forms. Each artist uses 
 this strategy for a different purpose, as the basis for formalist 
-exploration, to consider representationâ€™s role in the political tensions of 
+exploration, to consider representation’s role in the political tensions of 
 modernity, or to reflect on the power dynamics at play in the portrayal 
 of race and gender in art history and popular culture. [...]
 
@@ -239,7 +239,7 @@ Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 www.artspeak.ca 
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-06-06-catriona-jeffries-geoffrey-farmer-feb-7">06. Catriona Jeffries | Geoffrey Farmer | FEB 7</a>
@@ -279,8 +279,8 @@ reincarnation of a Tibetan Lama or Tulku.
 Tweets culled from the twitter page of Abz Love are presented as Zen 
 Koans for contemplation. Utilizing as research material for her 
 knowledge of Buddhism such enlightened sources as the 1986 Eddie 
-Murphy movie The Golden Child, Hermann Hesseâ€™s novel Siddhartha, 
-Vicki MacKenzieâ€™s book Reincarnation: The Boy Lama, a BBC4 
+Murphy movie The Golden Child, Hermann Hesse’s novel Siddhartha, 
+Vicki MacKenzie’s book Reincarnation: The Boy Lama, a BBC4 
 program The Reluctant Lama along with a smattering of Wikipedia 
 pages, this exhibition posits a surely fundamental misreading and 
 misrepresentation of Tibetan Buddhism. 
@@ -306,28 +306,28 @@ Luis Jacob
 Tuesday Feb 11, 7 pm, free
 
 Join us for a special addition to our Feedback series. Acclaimed 
-Toronto-based artist Luis Jacob will respond to AurÃ©lien Fromentâ€™s 
-exhibition 'FrÃ¶bel FrÃ¶beled', he will discuss his own practice and 
+Toronto-based artist Luis Jacob will respond to Aurélien Froment’s 
+exhibition 'Fröbel Fröbeled', he will discuss his own practice and 
 interest in pedagogical ideas contained in the exhibition.
 
 Luis Jacob is an artist based in Toronto, whose diverse practice 
 addresses social interaction and the subjectivity of aesthetic 
 experience. Realized as painting, video, installation, photography and 
-actions in the public sphere, Jacobâ€™s work invites a collision of meaning 
+actions in the public sphere, Jacob’s work invites a collision of meaning 
 systems that destabilize our conventions of viewing and that open up 
 possibilities for engagement and the creation of knowledge.
 
-As an artist, he has achieved an international reputation â€“ particularly 
+As an artist, he has achieved an international reputation – particularly 
 since his participation in documenta12, curated by Ruth Noack and 
-Roger BÃ¼rgel in 2007. Several significant solo exhibitions include 
+Roger Bürgel in 2007. Several significant solo exhibitions include 
 Kunstverein Hamburg (curated by Meike Behm and Yilmaz Dziewior in 
-2008) ; StÃ¤dtisches Museum Abteiberg, MÃ¶nchengladbach (curated by 
-Suzanne Titz in 2009); Fonderie Darling, MontrÃ©al (curated by Marie 
+2008) ; Städtisches Museum Abteiberg, Mönchengladbach (curated by 
+Suzanne Titz in 2009); Fonderie Darling, Montréal (curated by Marie 
 Fraser in 2010); Museum of Contemporary Canadian Art, Toronto 
 (curated by David Liss in 2011); and Kunsthalle Lingen (curated by 
 Meike Behm in 2012).
 
-Jacobâ€™s work was also featured in group exhibitions at the Taipei 
+Jacob’s work was also featured in group exhibitions at the Taipei 
 Biennial (2012); Centro de Arte Dos de Mayo, Madrid (2012); Witte de 
 With Contemporary Art, Rotterdam (2012); Generali Foundation, 
 Vienna (2011); Solomon R. Guggenheim Museum, New York (2010); 
@@ -339,10 +339,10 @@ The Power Plant Contemporary Art Gallery, Toronto (2008).
 His work is found in the permanent collection of the Generali 
 Foundation (Vienna, Austria); National Gallery of Canada (Ottawa, 
 Canada); Solomon R. Guggenheim Museum (New York, USA); 
-StÃ¤dtisches Museum Abteiberg (MÃ¶nchengladbach, Germany); Morris 
+Städtisches Museum Abteiberg (Mönchengladbach, Germany); Morris 
 and Helen Belkin Art Gallery, University of British Columbia 
-(Vancouver, Canada); MusÃ©e dâ€™art contemporain de MontrÃ©al 
-(Canada); Museionâ€š Museum of Modern and Contemporary Art 
+(Vancouver, Canada); Musée d’art contemporain de Montréal 
+(Canada); Museion‚ Museum of Modern and Contemporary Art 
 (Bolzano, Italy); Agnes Etherington Art Centre (Kingston, Canada); Art 
 Gallery of Ontario (Toronto, Canada); and the Justina M. Barnicke 
 Gallery, University of Toronto (Toronto, Canada).
@@ -363,8 +363,8 @@ UBC Department of Art History, Visual Art and Theory presents:
 
 â€œDeniseâ€  - a new exhibition at the AHVA Gallery 
 
-Exhibition Dates: February 12 â€“ March 1, 2014
-Opening Reception: Wednesday, February 12, 5 â€“ 7pm
+Exhibition Dates: February 12 – March 1, 2014
+Opening Reception: Wednesday, February 12, 5 – 7pm
 
 Please join the Department of Art History, Visual Art and Theory, UBC 
 at the new AHVA Gallery on Wednesday, February12th between 5 and 
@@ -380,7 +380,7 @@ Ducharme, Jessica Gnyp , Daniel Phillips and Michelle Weinstein.
 
 Address: AHVA Gallery - rm. 1001, Audain Art Centre, 6398 University 
 Blvd.
-Gallery Hours: Wednesday â€“ Saturday, 12 â€“ 4pm.
+Gallery Hours: Wednesday – Saturday, 12 – 4pm.
 Phone: 604 822 4563
 Web: www.gallery.ahva.ubc.ca
 
@@ -449,7 +449,7 @@ first come first served basis.
 West Vancouver Museum
 680 17th Street, West Vancouver, BC V7V 3T2
 Westvancouvermuseum.ca
-Open: Tue-Sat, 11am â€“ 2 pm
+Open: Tue-Sat, 11am – 2 pm
 Admission by donation.
 
 
@@ -463,8 +463,8 @@ Follow Suit
 
 Kotama Bouabane and Henry Tsang
 
-February 13, 2014 â€“ April 12, 2014
-Gallery Hours: Tuesdays â€“ Saturdays, 11am â€“ 6pm
+February 13, 2014 – April 12, 2014
+Gallery Hours: Tuesdays – Saturdays, 11am – 6pm
 Opening reception: Thursday, February 13, 2014, 7pm | 229 East 
 Georgia Street, Vancouver BC
 Essay: Chris Lee
@@ -517,7 +517,7 @@ Otherness.
 
 *data.un.org
 
-The exhibition will be on display from February 13, 2014 â€“ April 12, 
+The exhibition will be on display from February 13, 2014 – April 12, 
 2014.
 
 A small publication with an essay by Chris Lee is being produced in 
@@ -544,7 +544,7 @@ Pulling Feathers from a Broken Tooth
 
 Casey Wei
 Jeremy Jansen
-Johan BjÃ¶rck
+Johan Björck
 Megan Hepburn
 Scott Lewis
 Steve Hubert
@@ -556,52 +556,52 @@ Opening Reception Thursday, February 13th; 7pm - 11pm
 Curated by Scott Lewis
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-02-06-13-satellite-gallery-cindy-sherman-meets-dzunukwa-feb-13">13. Satellite Gallery | Cindy Sherman meets Dzunukâ€™wa | FEB 13</a>
+<a href="/instant-coffee/listings/2014-02-06-13-satellite-gallery-cindy-sherman-meets-dzunukwa-feb-13">13. Satellite Gallery | Cindy Sherman meets Dzunuk’wa | FEB 13</a>
 ------------------------------------------------------------------------
-Cindy Sherman meets Dzunukâ€™wa:
-From the Michael and Inna Oâ€™Brian Collection 
+Cindy Sherman meets Dzunuk’wa:
+From the Michael and Inna O’Brian Collection 
 
-Friday, February 14 â€“ Saturday, March 29, 2014
-Opening reception Thursday, February 13, 6:00 â€“ 9:00 pm
+Friday, February 14 – Saturday, March 29, 2014
+Opening reception Thursday, February 13, 6:00 – 9:00 pm
 
-Satellite Gallery, 560 Seymour (Wed â€“ Sat, 12 noon â€“ 6 pm; free 
+Satellite Gallery, 560 Seymour (Wed – Sat, 12 noon – 6 pm; free 
 admission)
 www.satellitegallery.ca
 
 The private collection of Vancouver-based arts patrons, Michael and 
 Inna O'Brian, is the focus of this first collaborative exhibition by the four 
 partner institutions at Satellite Gallery. Cindy Sherman meets 
-Dzunukâ€™wa is a rare opportunity for the public to see selected highlights 
+Dzunuk’wa is a rare opportunity for the public to see selected highlights 
 from the collection, including works by such key Canadian and 
 international artists as Brian Jungen, Ann Kipling, Mary Pratt, Jean-
 Paul Riopelle, Victor Vasarely, and Lawrence Paul Yuxweluptun.
 
-Formed over a period of 25 years, the Oâ€™Brian collection is both 
+Formed over a period of 25 years, the O’Brian collection is both 
 eclectic and unpredictable in its breadth and range of media, from 
 paintings and sculptures to ceremonial regalia and conceptual 
 photography. It emphasizes regional art from the postwar era to the 
-present day, revealing the collectorsâ€™ special interest in local and 
-emerging artists, many of whom have become personal friends. â€œMy 
+present day, revealing the collectors’ special interest in local and 
+emerging artists, many of whom have become personal friends. “My 
 passion for the visual arts is not just about owning and collecting art,â€  
-says Michael Oâ€™Brian; â€œThe work must create within me a desire to feel 
-and understand what was in the artistâ€™s mind at the time of its 
+says Michael O’Brian; “The work must create within me a desire to feel 
+and understand what was in the artist’s mind at the time of its 
 creation.â€ 
 
-Taking an experimental approach to the exhibition, the curatorsâ€”
+Taking an experimental approach to the exhibition, the curators—
 Karen Duffek (Museum of Anthropology, UBC), Helga Pakasaar 
 (Presentation House Gallery), Cate Rimmer (Charles H. Scott Gallery, 
 Emily Carr University), and Keith Wallace (Morris and Helen Belkin 
-Gallery, UBC)â€”have avoided chronological and thematic categories by 
+Gallery, UBC)—have avoided chronological and thematic categories by 
 placing the diverse works into unexpected juxtapositions. Just as New 
-York artist Cindy Shermanâ€™s untitled portrait of vanity and the 
-grotesque comes face to face with Kwakwakaâ€™wakw 
-artist Beau Dickâ€™s mask of Dzunukâ€™wa, the Giant of the Woods, 
+York artist Cindy Sherman’s untitled portrait of vanity and the 
+grotesque comes face to face with Kwakwaka’wakw 
+artist Beau Dick’s mask of Dzunuk’wa, the Giant of the Woods, 
 artworks in the exhibition are presented as a series of conversations, 
 from intimate to confrontational. 
 
-â€œWe have each brought different perspectives into the process of 
+“We have each brought different perspectives into the process of 
 assembling the exhibit,â€  says Duffek, â€œand want to honour the vision of 
-the Michael Oâ€™Brian Family Foundation, which founded Satellite Gallery 
+the Michael O’Brian Family Foundation, which founded Satellite Gallery 
 as a space for new and temporary projects, collaborations, and 
 experiments in the arts.â€ 
 
@@ -618,20 +618,20 @@ ceramics, photography, and sculpture.
 
 Exactly fifty years after his two year study at the prestigious Leach 
 Pottery Studio at St. Ives in 1962, Glenn Lewis was invited back to the 
-studio to attend the Master Potter residency. Lewisâ€™s return to ceramics 
+studio to attend the Master Potter residency. Lewis’s return to ceramics 
 exemplifies his patient mastering of material and form. Exhibited with 
-playful photographs and early ceramics, Lewisâ€™ work pushes the 
+playful photographs and early ceramics, Lewis’ work pushes the 
 boundaries of art, craft and the unexpected, all with perfect â€œflakeyâ€  
 flair.
 
 Seventeen pieces of pottery, bowls and covered pots, are each 
 accompanied by a photograph. The corresponding photograph, some 
 from his 1962 visit and other taken recently in 2013, relate to a specific 
-site and memory of the artistâ€™s. Their correlation with the pot and the 
-photograph is built from a process that Lewis has termed â€œpoetical 
+site and memory of the artist’s. Their correlation with the pot and the 
+photograph is built from a process that Lewis has termed “poetical 
 thinkingâ€  where everyday encounters and relationships between 
 objects are constructed into formal arrangements. The village of St. 
-Ives, and the artistâ€™s own memories and connotations become 
+Ives, and the artist’s own memories and connotations become 
 essential in our experience of viewing. 
 
 For more information please contact Trench at:
@@ -663,14 +663,14 @@ Often mixing his colours in pools of water on the paintings surface, he
 allows semi-transparent rivers of pigment to flood into the shadows 
 and stretch into the light. Referencing his surroundings and often en 
 plein air, Brent begins his paintings with lively, gestural drawings that 
-are unique in style. His final workâ€™s depict scenes which are colourful 
+are unique in style. His final work’s depict scenes which are colourful 
 and whimsical, yet detailed and full of life.
 
 The show opens on Thursday, February 14, and runs until March 1. 
 The gallery is open Thursday to Saturday 1 to 4 PM
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-02-06-16-parenthesis-agro-caf-talk-rita-wong-and-mimi-gellman-feb-17">16. (Parenthesis) @Agro CafÃ© | Talk: Rita Wong and Mimi Gellman | FEB 17</a>
+<a href="/instant-coffee/listings/2014-02-06-16-parenthesis-agro-caf-talk-rita-wong-and-mimi-gellman-feb-17">16. (Parenthesis) @Agro Café | Talk: Rita Wong and Mimi Gellman | FEB 17</a>
 ------------------------------------------------------------------------
 (Parenthesis)
 
@@ -697,8 +697,8 @@ an appreciation for original nations and sites reflecting a respectful
 diversity relationship.
 
 $5 per session; open to everyone!
-Monday evenings (January â€“ April 2014); 7:00 â€“ 8:30 pm
-Agro CafÃ©, 1363 Railspur Alley, Granville Island
+Monday evenings (January – April 2014); 7:00 – 8:30 pm
+Agro Café, 1363 Railspur Alley, Granville Island
 
 Hosted and developed by Vancouver-based culture critic Donald 
 Brackett.
@@ -748,18 +748,18 @@ wood, he uses a router and carves into the material creating textures
 that reinforce the act of painting. What often results are soft finishes 
 and meticulously painted subjects imbued with cool, diffused lighting.
 
-Valkoâ€™s illustrative realist paintings take up themes from contemporary 
+Valko’s illustrative realist paintings take up themes from contemporary 
 culture: static drive-in cinemas of a bygone era, extraterrestrial activity 
 and youth culture in the digital age. In this exhibition, Valko confronts 
 viewers with his signature voyeuristic impulse. The gaze is cast on the 
 â€œselfieâ€  generation and its penchant for self-imaging and yearning for 
-meaningful social connection. Valkoâ€™s voyeuristic gaze acts as a mirror 
+meaningful social connection. Valko’s voyeuristic gaze acts as a mirror 
 of reflection that invites viewers to assess the meaning of privacy and 
 community, intimacy, and solitude in the digital age.
 
 Andrew Valko has worked in printmaking, portraiture and painting for 
 the last three decades. Valko has had solo exhibitions at various 
-galleries all over Canada. In addition, Valkoâ€™s work has been published 
+galleries all over Canada. In addition, Valko’s work has been published 
 and reviewed in various publications such as Border Crossings, The 
 New Yorker Magazine, Asian Art News, Canadian Art, Galleries West 
 Magazine, The Globe and Mail, among others. His work can be found 
@@ -784,7 +784,7 @@ Radical Spirits: A One-Night-Only Multidisciplinary Arts Extravaganza
 Leah Tottenham and Adriana Lademann, co-creators of the Radical 
 Spirits project, are pleased to announce that the Radical Spirits 
 multidisciplinary art exhibition will be taking place Sunday, February 23, 
-2014 from 7:00 pm until midnight at Astorinoâ€™s Ballroom (1739 
+2014 from 7:00 pm until midnight at Astorino’s Ballroom (1739 
 Venables St., Vancouver, BC). The Radical Spirits show is an all-ages 
 community event with no admission fee. The venue is supplied by The 
 Safe Amplification Site Society.
@@ -794,7 +794,7 @@ address the relationship between the supernatural, the spiritual, and
 any multitude of feminist expressions. The themes underlying the 
 project are intentionally broad and are interpreted differently by 
 everyone, and we believe that this subjectivity is a crucial part of the 
-project. Each artistâ€™s individual take on the themes of the Radical 
+project. Each artist’s individual take on the themes of the Radical 
 Spirits project helps us in our goal, which is to examine and critique the 
 cultural silencing and erasure of radical feminism. We want to 
 challenge and reject this erasure by exhibiting art that reworks themes 
@@ -829,8 +829,8 @@ February 26 to April 20, 2014
 Opening reception: Tuesday February 25 at 7:30pm
 
 Hyperflat is a survey of the work of Jeannie Thib (1955-2013). The 
-exhibition showcases the artistâ€™s extensive investigation into 
-ornamental motifs. Thibâ€™s work borrows decorative patterns from 
+exhibition showcases the artist’s extensive investigation into 
+ornamental motifs. Thib’s work borrows decorative patterns from 
 textiles and domestic surfaces, reconstitutes them through operations 
 of cutting and piling, and reinvents them with magnification, repetition 
 and excision. It translates historical designs into contemporary 
@@ -839,7 +839,7 @@ sculptural forms.
 
 Curator, Tila Kellman sees Thib's manipulation of ornament as a 
 critique of Modernist, rectilinear space and our built environment. 
-Kellman writes: â€œIn her practice, using advanced design and fabricating 
+Kellman writes: “In her practice, using advanced design and fabricating 
 techniques and contemporary industrial materials, Jeannie Thib offers 
 a critique of the Modernist, rectilinear, standardized space and design 
 that prizes efficiency. She asks, what if our built environment were 
@@ -849,21 +849,21 @@ Jeannie received a BFA from York University, Toronto, in 1979. She
 has exhibited in Europe, the USA, Mexico, Cuba and widely across 
 Canada. Recent solo exhibitions include B and K Projects, 
 Copenhagen, Denmark, Museo de Arte INBA, Ciudad Juarez, Mexico 
-and Maison Patrimoniale de BarthÃ¨te, Boussan, France. Thib has 
+and Maison Patrimoniale de Barthète, Boussan, France. Thib has 
 participated in group exhibitions at Object Gallery, Sydney, Australia, 
 Long Yi Bang Gallery, Beijing, China and the Tree Museum, Muskoka, 
 ON. Her work is represented in numerous collections including The 
-National Gallery of Canada, MusÃ©e des Beaux-Arts de MontrÃ©al, 
-MusÃ©e dâ€™Art Contemporain de MontrÃ©al and The Washington DC 
+National Gallery of Canada, Musée des Beaux-Arts de Montréal, 
+Musée d’Art Contemporain de Montréal and The Washington DC 
 Convention Center, USA.
 
-On Jeannie Thibâ€™s recent passing, Joy Walker, a Toronto-based artist 
-and a collaborator of Thibâ€™s, Joy Walker writes, â€œJeannie has made us 
+On Jeannie Thib’s recent passing, Joy Walker, a Toronto-based artist 
+and a collaborator of Thib’s, Joy Walker writes, “Jeannie has made us 
 all look a little more closely at quiet details, bringing them into sharp 
 focus. She has definitely done that for me. She will be deeply missed.â€ 
 
 Jeannie Thib: Hyperflat is curated by Tila Kellman and organized by 
-Saint Maryâ€™s University Art Gallery in Halifax.
+Saint Mary’s University Art Gallery in Halifax.
 
 Admission is free and open to the public. For further information please 
 contact the Charles H. Scott Gallery at +1 604 844 3809 or 
@@ -881,11 +881,11 @@ chscott.ecuad.ca
 ------------------------------------------------------------------------
 
 AN EVENING WITH LISA WOLPE: Classic Chic Productions present An 
-Evening with Lisa Wolpe-a unique opportunity to witness an â€˜Inside the 
-Actors Studioâ€™ style interview with acclaimed Shakespearean Drag King, 
-Lisa Wolpe (Artistic Director, Los Angeles Womenâ€™s Shakespeare 
+Evening with Lisa Wolpe-a unique opportunity to witness an ‘Inside the 
+Actors Studio’ style interview with acclaimed Shakespearean Drag King, 
+Lisa Wolpe (Artistic Director, Los Angeles Women’s Shakespeare 
 Company). Lisa will talk about her life in the theatre, the hows and whys 
-of playing cross-gender, and what itâ€™s like to play those great parts of 
+of playing cross-gender, and what it’s like to play those great parts of 
 Hamlet, Iago, Leontes, Richard III, Jacquis, and Shylock. Classic Chic 
 also welcomes guests Morgan Brayton and The Legion of Flying 
 Monkeys. 
@@ -912,7 +912,7 @@ disciplines and media. The programming committee seeks projects
 that are thoughtful, innovative, and socially engaged.
 
 Operating in Kamloops since 2003, Arnica is currently located in the 
-Old Courthouse Building, one of the cityâ€™s most prominent historical 
+Old Courthouse Building, one of the city’s most prominent historical 
 landmarks. Arnica has two small exhibition spaces. The main gallery 
 can accommodate work of all media, and measures 238 square feet. 
 The Vault is ideally suited for intimate installations, sound, and video 
@@ -921,9 +921,9 @@ occupy one or both of our exhibition spaces. Due to the historic
 designation of our building, we cannot present projects that propose 
 permanent modifications to the space.
 
-Proposals are selected through a peer review process by Arnicaâ€™s 
+Proposals are selected through a peer review process by Arnica’s 
 Programming Committee. Proposals will be selected based on the 
-following criteria: artistic merit of the proposed project, fit with Arnicaâ€™s 
+following criteria: artistic merit of the proposed project, fit with Arnica’s 
 mandate, and the ability of Arnica to provide appropriate space/support 
 for the project. Arnica is committed to supporting projects through 
 CARFAC exhibition fees. Assistance for travel and shipping is 

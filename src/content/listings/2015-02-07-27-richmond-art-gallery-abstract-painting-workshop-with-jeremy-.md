@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 27
 type: "CALL"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Abstract Painting Workshop with Jeremy Hof | FEB 21"
 ---
 
 ABSTRACT PAINTING WORKSHOP WITH ARTIST JEREMY HOF
 Saturday, February 21, 1:00-3:00pm
 Course # 918458
-$15/1 session â€“ includes all materials
+$15/1 session – includes all materials
 
 Explore working with abstraction and colour to complete a finished acrylic
 painting in this one day workshop. All skill levels welcome. For ages

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 6
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Sabine Bitter / Helmut Weber | SEP 5"
 ---
 

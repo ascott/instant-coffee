@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 5
 type: "CALL"
+venue: "Massy Arts"
 summary: "Massy Arts | CALL - INDIGENOUS POETS TO TEACH LITERARY WORKSHOP"
 ---
 

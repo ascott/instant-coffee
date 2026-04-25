@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 8
 type: ""
+venue: "221a"
 summary: "221a | Myriam Ben Salah: Curator's Talk & Screening | FEB 11"
 ---
 

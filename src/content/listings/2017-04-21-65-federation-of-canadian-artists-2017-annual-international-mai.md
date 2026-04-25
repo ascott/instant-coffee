@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 65
 type: "CALL"
+venue: "Federation of Canadian Artists"
 summary: "Federation of Canadian Artists | 2017 Annual International Mail-In Art Exhibition | JUN 3"
 ---
 

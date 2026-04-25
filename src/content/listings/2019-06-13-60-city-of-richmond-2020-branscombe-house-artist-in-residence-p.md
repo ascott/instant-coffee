@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 60
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | 2020 Branscombe House Artist-in-Residence Program | JUL 3"
 ---
 

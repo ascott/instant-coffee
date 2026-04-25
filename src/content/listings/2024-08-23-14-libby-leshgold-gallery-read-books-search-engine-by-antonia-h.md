@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 14
 type: "EVENT"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | READ Books | Search Engine by Antonia Hirsch | AUG 28"
 ---
 

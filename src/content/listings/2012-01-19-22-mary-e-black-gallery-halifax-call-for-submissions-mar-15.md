@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 22
 type: ""
+venue: "Mary E. Black Gallery, Halifax"
 summary: "Mary E. Black Gallery, Halifax | CALL FOR SUBMISSIONS | MAR 15"
 ---
 

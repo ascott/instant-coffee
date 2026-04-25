@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 19
 type: ""
+venue: "Whispers Project"
 summary: "Whispers Project | Invitation to Writers | JUN 8"
 ---
 

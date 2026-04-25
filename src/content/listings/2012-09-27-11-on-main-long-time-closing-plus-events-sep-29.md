@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 11
 type: ""
+venue: "On Main"
 summary: "On Main | Long Time: closing plus events | SEP 29"
 ---
 
@@ -33,7 +34,7 @@ Havent seen the exhibition yet? Check out our Curatorial Intern's essay
 on the exhibition then come down to the gallery 12-6pm Wed-Sat.
 
 When I began to write about the context of this show as the Curatorial 
-Intern for On Main I didnâ€™t know where to begin. The question was how 
+Intern for On Main I didn’t know where to begin. The question was how 
 to context the many layers of qualities and circumstance that 
 interconnect in such inert ways to form a concerted thesis, a creative 
 partnership, an exhibition and publication.
@@ -49,17 +50,17 @@ way, not so different then understanding anything: how our bodies age,
 how cities change, our self, others. Time is the unifying theme of all 
 works in this exhibition, and with it, the exhibition will end.  
 
-I remember when I saw Lisa Steeleâ€™s, Birthday Suit with scars and 
+I remember when I saw Lisa Steele’s, Birthday Suit with scars and 
 defects, 1974, as she mesmerized me with the magic of magnetic 
-tapeâ€™s ability to record the unceasing passage of time, and within this 
-the lived bodyâ€™s journey through life, and the deathly depiction of all 
+tape’s ability to record the unceasing passage of time, and within this 
+the lived body’s journey through life, and the deathly depiction of all 
 things. This process based work declared the body as a subject of 
 interrogation and preservation.With this, the Long Time marks several 
 important milestone in time. 
 
   First and foremost, in the life and career of the artists, who have 
 once again turned the camera back onto them self returning to the 
-early video experimentation of the mid 70â€™s to produce a broad 
+early video experimentation of the mid 70’s to produce a broad 
 intersection into their recent 21st Century praxis. For this exhibition, we 
 were lucky to witness the completion of before I wake..., a difficult and 
 traumatic work for the artist to complete which had been in progress 
@@ -72,8 +73,8 @@ final installment, to complete the series, explores what happens after
 death; what happens after just one of them dies? With this concern for 
 the transience of all things, video rescues the subject for eternity and 
 yet, makes clear their mortality: all representations will die, all 
-representations are death. In Roland Barthesâ€™ Camera Lucida, Barthes 
-considers a picture of his mother: â€œthe photograph tells me death in the 
+representations are death. In Roland Barthes’ Camera Lucida, Barthes 
+considers a picture of his mother: “the photograph tells me death in the 
 future. What pricks me is the discovery of this equivalence. In front of 
 the photograph of my mother as a child, I tell myself: she is going to 
 die: I shudder ... over a catastrophe which has already occurredâ€ . Like 
@@ -88,11 +89,11 @@ long project within the artist run center culture is no coincidence. In
 fact, I believe it to be a deliberate creative, ethical and political decision 
 by the Steele + Tomczak. Many of those involved with the Long Time 
 have been artist-run from the very beginning. Tomczak is one of the 
-co-founders of Vancouverâ€™s early artist run centers PUMPS + Power, 
+co-founders of Vancouver’s early artist run centers PUMPS + Power, 
 and along with Lisa Steele runs VTape. Lisa Steele is co-founder of V-
 Tape, a Toronto based artist run center which is also the largest 
 archive of art tapes in North America. Crista Dahl, VIVO cofounder, has 
-organized VIVOâ€™s expansive collection of Steele + Tomczak from within 
+organized VIVO’s expansive collection of Steele + Tomczak from within 
 the archive for this exhibition. Furthermore, the curator, Paul Wong, is 
 cofounder of VIVO Media Arts Center and On Main. The two 
 organizations have partnered to present this important artist-run 
@@ -110,7 +111,7 @@ of international significance. We hope to enlighten the public to these
 important contributions within Canadian video art history. In this 
 respect, the Long Time will be on tour throughout Canada in the 
 coming years. We hope you get a chance to appreciate the exhibition 
-in itâ€™s first iteration here at On Main.
+in it’s first iteration here at On Main.
 
    On behalf of On Main, I would like to thank all those who have 
 visited us at 1965 Main St over the course of this exhibition. I would like 

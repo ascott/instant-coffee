@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 9
 type: "EVENT"
+venue: "Moniker Press"
 summary: "Moniker Press | June Open Studio + Book Sale | JUN 16"
 ---
 

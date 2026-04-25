@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 29
 type: "EVENT"
+venue: "People's Co-op Bookstore"
 summary: "People's Co-op Bookstore | THIRD FRIDAY reading series | 730PM | APR 19"
 ---
 

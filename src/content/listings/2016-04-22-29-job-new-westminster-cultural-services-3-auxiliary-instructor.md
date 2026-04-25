@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 29
 type: ""
+venue: "JOB"
 summary: "JOB | New Westminster Cultural Services | 3 Auxiliary Instructor Positions for Summer | JUN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 3
 type: ""
+venue: "On The Rise Artist Collective"
 summary: "On The Rise Artist Collective | ART MART Summer Salon | JUN 4"
 ---
 

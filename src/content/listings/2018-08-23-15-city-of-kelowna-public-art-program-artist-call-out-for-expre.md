@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 15
 type: "CALL"
+venue: "City of Kelowna Public Art Program"
 summary: "City of Kelowna Public Art Program | Artist Call-Out for Expression of Interest | SEP 8"
 ---
 

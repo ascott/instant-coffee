@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 1
 type: ""
+venue: "Western Front"
 summary: "Western Front | Instant Coffee: Feeling So Much Yet DoingSo Little | FEB 16"
 ---
 
@@ -38,5 +39,5 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday Ã¢â‚¬â€œ Saturday 12 Ã¢â‚¬â€œ 5pm
+Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
 Admission Free

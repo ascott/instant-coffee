@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 17
 type: "CALL"
+venue: "Capture Photography Festival 2017"
 summary: "Capture Photography Festival 2017 |  | NOV 15"
 ---
 

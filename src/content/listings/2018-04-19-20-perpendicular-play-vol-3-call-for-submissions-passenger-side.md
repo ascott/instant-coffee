@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 20
 type: "CALL"
+venue: "Perpendicular Play Vol. 3"
 summary: "Perpendicular Play Vol. 3 | Call for Submissions: Passenger Side | APR 30"
 ---
 

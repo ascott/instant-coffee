@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 8
 type: ""
+venue: "Publication Studio"
 summary: "Publication Studio | Launch & Readings: BARTLEBY REVIEW: ISSUE 1-20 | OCT 4"
 ---
 
@@ -25,7 +26,7 @@ Steffanie Ling, Charlie Satterlee and Kate Noble. Please join us for the
 launch for individually selected readings by past contributors Jabari
 Jordan-Walker, Tiziana La Melia, Steffanie Ling, Kalli Niedoba and Ellis Sam.
 
-This event is part of the Vancouver Art Book Fairâ€™s Artists' Books Week
+This event is part of the Vancouver Art Book Fair’s Artists' Books Week
 organized by Project Space
 
 www.bartlebyreview.com

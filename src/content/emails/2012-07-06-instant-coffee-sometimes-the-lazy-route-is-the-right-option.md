@@ -27,7 +27,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-07-06-13-artspeak-aaron-flint-jamison-artist-talk-jul-14">13. Artspeak | Aaron Flint Jamison | Artist Talk | JUL 14</a>
 <a href="/instant-coffee/listings/2012-07-06-14-douglas-udell-gallery-ann-kipling-jul-14">14. Douglas Udell Gallery | Ann Kipling | JUL 14</a>
 <a href="/instant-coffee/listings/2012-07-06-15-on-main-camerawhore-jul-14">15. On Main | camera/whore | JUL 14</a>
-<a href="/instant-coffee/listings/2012-07-06-16-satellite-gallery-projections-the-paintings-of-henry-speck-u">16. Satellite Gallery | Projections: The Paintings of Henry Speck, Udziâ€™st | JUL 14</a>
+<a href="/instant-coffee/listings/2012-07-06-16-satellite-gallery-projections-the-paintings-of-henry-speck-u">16. Satellite Gallery | Projections: The Paintings of Henry Speck, Udzi’st | JUL 14</a>
 <a href="/instant-coffee/listings/2012-07-06-17-the-papergirl-project-call-for-submissions-jul-18">17. The Papergirl Project | Call For Submissions | JUL 18</a>
 <a href="/instant-coffee/listings/2012-07-06-18-survey-tell-us-what-you-think-about-affordable-housing-jul-3">18. Survey | Tell us what you think about Affordable Housing... | JUL 30</a>
 <a href="/instant-coffee/listings/2012-07-06-19-spark-box-studio-fall-2012-artist-residency-open-call-jul-31">19. Spark Box Studio | Fall 2012 Artist Residency Open Call | JUL 31</a>
@@ -46,7 +46,7 @@ Geronimo Inutiq
 and in the media lab, Northern Haze: Living the Dream (2011). Director: 
 Derek Aqqiaruq 
 Opening: Thurs. July 5, 7-10pm
-Exhibition Dates: Thurs. July 5, 2012 â€“ Sat. August 4, 2012
+Exhibition Dates: Thurs. July 5, 2012 – Sat. August 4, 2012
 Curator: Tania Willard
 
 BLIZZARD: Emerging Northern Artists looks at indigenous artists 
@@ -56,8 +56,8 @@ development for over two years, looks at the influence of Inuit and
 Northern traditional art forms and how these are translated by a 
 younger generation of artists whose roots are in the North. How does 
 the landscape and context of the North influence the visions of its 
-young artists and how do our interpretations of that dreamingâ€”our 
-preconceptions about the Northâ€”influence our understanding? 
+young artists and how do our interpretations of that dreaming—our 
+preconceptions about the North—influence our understanding? 
 Curated by Artist/Curator Tania Willard, whose recent curatorial project 
 Beat Nation (co-curated with Kathleen Ritter) just closed at the 
 Vancouver Art Gallery, BLIZZARD looks at a younger generation of 
@@ -99,7 +99,7 @@ Featuring:
 
 PEGGY LEE with DELIA BRETT
 
-YOTA KOBAYASHI with BARRY DOUPÃ‰
+YOTA KOBAYASHI with BARRY DOUPÉ
 
 ANDREW LEE with ALEX ZHANG HUNGTAI
 
@@ -111,7 +111,7 @@ Spatial Poetics XI: Some Monster is an evening of experimental and
 collaborative performances by an eclectic line-up of artists.
 
 The thematic starting point for the eleventh edition of Spatial Poetics is 
-the idea of the collaboration-as-chimeraâ€”or hybrid monster. Bringing 
+the idea of the collaboration-as-chimera—or hybrid monster. Bringing 
 disparate practices and artists together often begets strange offspring; 
 this is where creative monsters get born. And while the theme conjures 
 up long-held cultural ideas around fear and horror, these collaborative 
@@ -144,7 +144,7 @@ The exhibition Madness + Mobility: The Art of Inclusion presents the
 works of four Vancouver-based artists and industrial designers who
 employ innovative and artful solutions to making art and space
 inclusive. Each artist examines the confinements - psychological,
-physical and economic â€“ that artists and individuals can face when
+physical and economic – that artists and individuals can face when
 informed by mental health issues, physical impairment or other forms
 of marginalization. Engaging the concept of mobility - literally and
 metaphorically - these creators work to invent escape routes from
@@ -153,7 +153,7 @@ underscoring the creative process essential to equitable access.
 
 Related programs (all programs are free and open to the public):
 
-Artistsâ€™ panel discussion: Melodie Acero, Dean Bennett, and Lavinia
+Artists’ panel discussion: Melodie Acero, Dean Bennett, and Lavinia
 Chu with Gabriella Solti, Thursday, July 12, 2012 at 6:30pm
 
 Cutting the Disability out of Disability Arts, a talk by social
@@ -257,7 +257,7 @@ Featuring photographs by Sean Arden, Wendy Bower, Douglas Curran,
 Curt Fischbach, Pat Francois, Greg Girard, Ian Joyce, Stuart Seidel, 
 Justin Wonnacott, and Jonathan Taggart
 
-During the month of July Emily Carr Universityâ€™s Continuing Studies 
+During the month of July Emily Carr University’s Continuing Studies 
 Program is offering an exciting array of institutes, exhibitions and 
 classes. Opening in the Concourse Gallery, Saturday, July 7th is the 
 photographic exhibition The Documentary Tradition, part of the July 
@@ -274,9 +274,9 @@ July and works by students of the Continuing Studies program.
 
 Some of the projects featured in the exhibition include:
 
-A selection of Greg Girardâ€™s spectacular Phantom Shanghai 
+A selection of Greg Girard’s spectacular Phantom Shanghai 
 photographs which combine anthropology with a lyrical realism. Girard 
-photographed the cityâ€™s buildings, shops, homes, and neighborhoods 
+photographed the city’s buildings, shops, homes, and neighborhoods 
 looking at present-day Shanghai, where politically inspired neglect 
 meets politically inspired development. Jonathan Taggart, a founding 
 member of the Boreal Collective will exhibit a recent project on remote 
@@ -290,12 +290,12 @@ sociologists, psychologists, and in the art and photography
 communities. Curt Fischbach has documented the fights and the 
 behind the scene world of two time Olympic gold medalist, Cuban boxer 
 Guillermo Rigondeaux who currently holds the World Boxing 
-Associationâ€™s super-bantamweight world title. Wendy Bowerâ€™s portraits 
-of Holden, Albertaâ€™s Farmers Day Parade, show the small prairie town 
-celebrating at a community gathering were men still talk â€˜cropsâ€™. Stuart 
+Association’s super-bantamweight world title. Wendy Bower’s portraits 
+of Holden, Alberta’s Farmers Day Parade, show the small prairie town 
+celebrating at a community gathering were men still talk ‘crops’. Stuart 
 Seidel will show photographs from his travels in Cuba and Pat Francois 
 will be showing portraits from his travels through Mexico. Closer to 
-Vancouver, Ian Joyce has photographed a young familyâ€™s idyllic lifestyle 
+Vancouver, Ian Joyce has photographed a young family’s idyllic lifestyle 
 in the Belcarra community.
 
 JULY 2012 PHOTOGRAPHY INSTITUTE: Guest faculty teaching in July 
@@ -319,7 +319,7 @@ Artist Talk: August 2, 7pm, in the Garden Pavilion
 Exhibition runs June 27 - August 18
 6804 SW Marine Drive, Vancouver, BC
 
-Located in the gardenâ€™s Main Lawn, New Xanadu features an elaborate 
+Located in the garden’s Main Lawn, New Xanadu features an elaborate 
 steel and plastic structure, modelled after 20th century utopian 
 architectural styles and science fiction fantasies. Functioning as an 
 observation hive, the installation houses a colony of honeybees. Solar 
@@ -458,9 +458,9 @@ www.vanartgallery.bc.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-07-06-08-topdown-bottomup-nelly-cesar-a-nice-roasting-jul-11">08. Topdown Bottomup | Nelly Cesar | A Nice Roasting | JUL 11</a>
 ------------------------------------------------------------------------
-artist run event: a performance by nelly cÃ©sar. 
+artist run event: a performance by nelly césar. 
 
-nelly cÃ©sar will present a different version, co-opting / appropriating / 
+nelly césar will present a different version, co-opting / appropriating / 
 shifting / ameliorating sophia bartholomew's project and installation 
 A/VERSION in the topdown bottomup gallery space.
 
@@ -536,15 +536,15 @@ The Contemporary Art Gallery presents the first solo exhibition in North
 America by Dublin-based artist Sarah Browne
 
 Sarah Browne
-How to Use Foolâ€™s Gold
+How to Use Fool’s Gold
 July 13 to September 2, 2012
 
 The Contemporary Art Gallery presents the first solo exhibition in North 
 America of work by Irish artist Sarah Browne. This exciting survey 
-spans the entire gallery including the artistâ€™s entry for the 2009 Venice 
+spans the entire gallery including the artist’s entry for the 2009 Venice 
 Biennale.
 
-Using â€˜the economyâ€™ as the basis for her artistic practice, Browne works 
+Using ‘the economy’ as the basis for her artistic practice, Browne works 
 with small communities of people, documenting resourceful forms of 
 exchange such as gifting, subsistence and subsidies, to reveal the 
 hidden social relations that exist in small-scale economic structures, 
@@ -556,7 +556,7 @@ potential for a more radical resourcefulness is sought as a
 manifestation of creative opposition to prevailing systems. Vancouver 
 with its immediate history of Vietnam draft dodgers and alternative 
 island lifestyles provides an interesting context for an examination of 
-Browneâ€™s work.
+Browne’s work.
 
 Central to the exhibition is a new film titled Second Burial at Le Blanc 
 (2011-12) commissioned by the CAG with Project Arts Centre, Dublin 
@@ -569,7 +569,7 @@ poignant, a sort of anti-monument in progress to what Le Blanc
 represented as a working alternative to the Eurozone crisis and state of 
 affairs across the world.
 
-The exhibition also gives its name to How to Use Foolâ€™s Gold (Pyrite 
+The exhibition also gives its name to How to Use Fool’s Gold (Pyrite 
 Radio) (2012), a crystal radio collecting the broadcasts that fill the air 
 around us, a metaphor for those things of value that go unseen, 
 revealed by a mineral mistaken as a precious commodity.
@@ -587,20 +587,20 @@ series of experiences that ask questions about the world around us.
 NOTES TO EDITORS:
 Public Events, Exhibition Opening & Public Programmes
 
-1) Exhibition Opening â€“ Thursday, July 12th, 7-10 pm at the CAG
-Public Opening and celebration of Sarah Browneâ€™s exhibition. The artist 
+1) Exhibition Opening – Thursday, July 12th, 7-10 pm at the CAG
+Public Opening and celebration of Sarah Browne’s exhibition. The artist 
 will be in attendance. The exhibition is generously supported by Culture 
-Ireland and The Arts Council/ An Chomhairle EalaÃ­on with assistance 
+Ireland and The Arts Council/ An Chomhairle Ealaíon with assistance 
 from OPUS Vancouver. Opening reception sponsor: Kronenbourg 
 1664.
 
-2) Artist Talk â€“ Saturday, July 14, 2 pm
+2) Artist Talk – Saturday, July 14, 2 pm
 Sarah Browne: Artist Talk at the CAG
 Artist Sarah Browne gives a formal lecture on her work exploring the 
 critical underpinnings and key themes to her recent work and the 
-Contemporary Art Galleryâ€™s installation.
+Contemporary Art Gallery’s installation.
 
-3) Guided Visits â€“ Saturday, July 21 and Sunday, August 12 at 3 pm at 
+3) Guided Visits – Saturday, July 21 and Sunday, August 12 at 3 pm at 
 the CAG
 Join Nigel Prince, Executive Director and Jill Henderson, Gallery 
 Coordinator for a guided visit. Open to the public, guided visits provide 
@@ -616,34 +616,34 @@ VIVO Media Arts Centre as well as individuals from Slow Boat at Ikon
 Gallery in Birmingham. The artists will independently create a series of 
 sound-works for broadcast on the Scarcity Radio internet channel. 
 
-5) How to Use Foolâ€™s Gold
+5) How to Use Fool’s Gold
 www.scarcityradio.org / www.ikonslowboat.com
 July 14 to August 31, 2012 at the CAG
 The exhibition also gives its name to a new film developed by Sarah 
-Browne as part of her residency as lead artist with Slow Boat, Ikonâ€™s 
+Browne as part of her residency as lead artist with Slow Boat, Ikon’s 
 Youth Programme. Released online in a series of episodes throughout 
 July and August to coincide with the exhibition at the CAG, this work 
 has evolved through her research project with the group, Scarcity 
 Radio. Set in a little-used geology museum, the work explores the links 
 between metaphors of mining and telecommunications to challenge our 
-understanding of scarcity, partly in response to last yearâ€™s riots in 
+understanding of scarcity, partly in response to last year’s riots in 
 Birmingham, UK, as well as those in the 1980s.
 
 NOTES TO EDITORS:
 Public Events, Exhibition Opening & Public Programmes
-1) Exhibition Opening â€“ Thursday, July 12th, 7-10pm at the CAG
-Public Opening and celebration of Sarah Browneâ€™s exhibition. The artist 
+1) Exhibition Opening – Thursday, July 12th, 7-10pm at the CAG
+Public Opening and celebration of Sarah Browne’s exhibition. The artist 
 will be in attendance.
 Exhibition is generously supported by Culture Ireland and The Arts 
-Council/ An Chomhairle EalaÃ­on with assistance from OPUS Vancouver. 
+Council/ An Chomhairle Ealaíon with assistance from OPUS Vancouver. 
 Opening reception sponsor: Kronenbourg 1664.
 
-2) Artist Talk â€“ Saturday, July 14, 2pm
+2) Artist Talk – Saturday, July 14, 2pm
 Sarah Browne: Artist Talk at the CAG
 Artist Sarah Browne gives a formal lecture on her work exploring the 
 critical underpinnings and key themes to her recent work and the 
-Contemporary Art Galleryâ€™s installation.
-3) Guided Visits â€“ Saturday, July 21 and Sunday, August 12 at 3pm at 
+Contemporary Art Gallery’s installation.
+3) Guided Visits – Saturday, July 21 and Sunday, August 12 at 3pm at 
 the CAG
 Join Nigel Prince, Executive Director and Jill Henderson, Gallery 
 Coordinator for a guided visit. Open to the public, guided visits provide 
@@ -658,17 +658,17 @@ Mentorship Program at the Cultch will work alongside a group from
 VIVO Media Arts Centre as well as individuals from Slow Boat at Ikon 
 Gallery in Birmingham. The artists will independently create a series of 
 sound-works for broadcast on the Scarcity Radio internet channel. 
-5) How to Use Foolâ€™s Gold
+5) How to Use Fool’s Gold
 www.scarcityradio.org / www.ikonslowboat.com
 July 14 to August 31, 2012 at the CAG
 The exhibition also gives its name to a new film developed by Sarah 
-Browne as part of her residency as lead artist with Slow Boat, Ikonâ€™s 
+Browne as part of her residency as lead artist with Slow Boat, Ikon’s 
 Youth Programme. Released online in a series of episodes throughout 
 July and August to coincide with the exhibition at the CAG, this work 
 has evolved through her research project with the group, Scarcity 
 Radio. Set in a little-used geology museum, the work explores the links 
 between metaphors of mining and telecommunications to challenge our 
-understanding of scarcity, partly in response to last yearâ€™s riots in 
+understanding of scarcity, partly in response to last year’s riots in 
 Birmingham, UK, as well as those in the 1980s.
 
 6) About the Contemporary Art Gallery
@@ -697,16 +697,16 @@ The Contemporary Art Gallery presents WAVES by Vancouver based
 and French born artist Nicolas Sassoon, the second commission for the 
 Yaletown-Roundhouse Station as part of our offsite programme.
 
-The work forms part of Sassoonâ€™s ongoing investigations using MoirÃ© 
-patterns â€“ a visual blur inadvertently discovered by Swiss photographer 
-Ernst MoirÃ© in the late 1800s - whereby two images are overlaid to 
-create a third â€˜planeâ€™. The resulting optical effect causes the eye to see 
+The work forms part of Sassoon’s ongoing investigations using Moiré 
+patterns – a visual blur inadvertently discovered by Swiss photographer 
+Ernst Moiré in the late 1800s - whereby two images are overlaid to 
+create a third ‘plane’. The resulting optical effect causes the eye to see 
 movement where there is none. 
 
-The artistâ€™s interest in creating visually vibrating patterns stems from his 
+The artist’s interest in creating visually vibrating patterns stems from his 
 curiosity with various factors relating to computer screens, a matrix 
 display with inherent limitations of depth, detail and colour. Sassoon 
-uses such considerations â€“ restrained palette and individual pixels â€“ as 
+uses such considerations – restrained palette and individual pixels – as 
 the parameters to make a series of hypnotic animations specifically 
 designed to be seen on such displays. Avoidance of smooth gradients 
 instead leans toward the hard-edged, grids and lines creating complex 
@@ -717,7 +717,7 @@ The new commission at the Yaletown-Roundhouse Station is formed by
 the layering of a multi-coloured pixelated background, placed behind a 
 symmetrical pattern of vertical, curved black lines. With no central focal 
 point the graphic mural is activated by the movement of the viewer as 
-commuters pass by going about their daily routine. Sassoonâ€™s patterns 
+commuters pass by going about their daily routine. Sassoon’s patterns 
 are tied to the landscape, their vibrating effect evocative of elements 
 found in nature, a field of raking grass, clouds sweeping across an 
 otherwise clear sky, the diagonal cascade of torrential rain or the soft 
@@ -730,10 +730,10 @@ NOTES TO EDITORS:
 Public Events, Exhibition Opening and Public Programmes
 
 1) Exhibition Opening - Thursday, July 12th, 7-10 pm at the CAG
-Public Opening and celebration of Nicolas Sassoonâ€™s offsite project. 
+Public Opening and celebration of Nicolas Sassoon’s offsite project. 
 The artist will be in attendance.
 
-2) Guided Visits â€“ Saturday, July 21 and Sunday, August 12 at 3 pm at 
+2) Guided Visits – Saturday, July 21 and Sunday, August 12 at 3 pm at 
 the CAG
 Join Nigel Prince, Executive Director and Jill Henderson, Gallery 
 Coordinator for a guided visit. Open to the public, guided visits provide 
@@ -757,7 +757,7 @@ Shearer.
 Jill Henderson, Gallery Coordinator 
 T: 604.681.2700 E: j.henderson@contemporaryartgallery.ca
 
-Gallery hours: Tues â€“ Sun: 12 â€“ 6 pm
+Gallery hours: Tues – Sun: 12 – 6 pm
 FREE ADMISSION
 
 ###
@@ -774,7 +774,7 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W: 
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues â€“ Sun: 12 â€“ 6 pm. FREE ADMISSION 
+Hours: Tues – Sun: 12 – 6 pm. FREE ADMISSION 
 
 ###
 
@@ -788,7 +788,7 @@ CAG on Facebook / CAG Blog / CAG on VIMEO / CAG on YouTube
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-07-06-11-ecu-johnathan-taggart-jul-12">11. ECU | Johnathan Taggart | JUL 12</a>
 ------------------------------------------------------------------------
-Johnathan Taggart â€“ July 12, 2012 : 7:00pm Room 301 at Emily Carr 
+Johnathan Taggart – July 12, 2012 : 7:00pm Room 301 at Emily Carr 
 University
 Johnathan Taggart is an award-winning photojournalist based in 
 Vancouver, Canada, specializing in social documentary, editorial 
@@ -828,26 +828,26 @@ Pacific Bindery
 
 Please join us at the Pacific Bindery for a factory tour and discussion 
 with artist Aaron Flint Jamison. This event is presented in conjunction 
-with Jamisonâ€™s exhibition that is on view at Artspeak until July 21st. More 
+with Jamison’s exhibition that is on view at Artspeak until July 21st. More 
 information available here.
 
 Aaron Flint Jamison (b. Billings, MT, 1979) has exhibited at Culturgest 
 (Porto), castillo/corrales (Paris), Pied a Terre (San Francisco), Open 
 Satellite (Seattle), Midway Contemporary (Minneapolis), Marfa Book 
 Company (Marfa, TX), Museum of Modern Art (New York), and the 
-Center d'Ã¨dition contemporaine (Geneva), among others. Jamison lives 
+Center d'èdition contemporaine (Geneva), among others. Jamison lives 
 and works in Portland, OR, where he is a founder of the art center Yale 
 Union. Jamison co-founded the artist-run center Department of Safety 
 (2002-2010) in Anacortes, WA, and is the founder and editor of Veneer 
 Magazine. Jamison is represented by Air de Paris.
 
 This event is co-presented with Western Front Exhibitions as part of 
-Scrivenerâ€™s Monthly, a series of public presentations that explore the 
+Scrivener’s Monthly, a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks.
 
 This project is made possible with special support from the BC Arts 
-Council Special Project Assistance â€“ Innovations program.
+Council Special Project Assistance – Innovations program.
 
 233 Carrall Street
 Vancouver, BC
@@ -855,7 +855,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -872,12 +872,12 @@ Please join us for the opening of Drawing Place: Ann Kipling on
 Saturday, July 14,
 2-4pm. Artist talk and book signing at 3pm.
 
-Ann Kiplingâ€™s works on paper are noted for their tonal subtlety while 
+Ann Kipling’s works on paper are noted for their tonal subtlety while 
 depicting simple subjects with elaborate mark making that documents 
 continued shifts in time. With their sensitive register of time and 
 movement through a dynamic network of nervous lines, the drawings of 
 Ann Kipling vibrate with life and energy. In the words of Robin 
-Laurence, Kiplingâ€™s art is a â€œdirect, unmediated, almost electrical 
+Laurence, Kipling’s art is a “direct, unmediated, almost electrical 
 response to the plants, animals, and people that share her 
 environment.â€ 
 
@@ -887,7 +887,7 @@ was one of the three ever offered an honorary degree from Emily Carr
 University of Art and Design and was the recipient of a one-woman 
 exhibition at the Vancouver Art Gallery in 1995.
 
-This exhibition features a selection of works from Kiplingâ€™s recent 2011 
+This exhibition features a selection of works from Kipling’s recent 2011 
 solo exhibition at the Burnaby Art Gallery. Inspired by the hilled 
 landscape in and around her home in the British Columbia interior, the 
 works are as much about the process of drawing and perceiving as 
@@ -914,7 +914,7 @@ presents
 camera/whore
 ɔɐɯǝɹɐʍɥoɹǝ
 Saturday, July 14, 2012
-8 pm â€“ 2 am
+8 pm – 2 am
 Admission $5
 Gallery 1965
 1965 Main St. Vancouver, BC
@@ -1020,7 +1020,7 @@ http://www.grunt.ca/
 
 B R I N G　　 U R　　C A M E R A S
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2012 ON MAIN, All rights reserved. 
+Copyright © 2012 ON MAIN, All rights reserved. 
 You are receiving this email because you have subscribed to the ON 
 MAIN mailing list. 
 Our mailing address is: 
@@ -1031,9 +1031,9 @@ Canada
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-07-06-16-satellite-gallery-projections-the-paintings-of-henry-speck-u">16. Satellite Gallery | Projections: The Paintings of Henry Speck, Udziâ€™st | JUL 14</a>
+<a href="/instant-coffee/listings/2012-07-06-16-satellite-gallery-projections-the-paintings-of-henry-speck-u">16. Satellite Gallery | Projections: The Paintings of Henry Speck, Udzi’st | JUL 14</a>
 ------------------------------------------------------------------------
-Projections: The Paintings of Henry Speck, Udziâ€™stalis
+Projections: The Paintings of Henry Speck, Udzi’stalis
 July 14 to September 15, 2012
 
 Opening Reception, Friday, July 13, 6 to 9pm at Satellite Gallery
@@ -1044,10 +1044,10 @@ http://www.satellitegallery.ca
 604-681-8425
 info@satellitegallery.ca
 
-The Kwakwakaâ€™wakw artist Henry Speck, or Udziâ€™stalis (1908 â€“ 1971), 
+The Kwakwaka’wakw artist Henry Speck, or Udzi’stalis (1908 – 1971), 
 became a â€œnewly discovered phenomenonâ€  in 1964 when his paintings 
 of masked dancers, coastal creatures, and sea monsters were shown 
-at Vancouverâ€™s New Design Gallery.
+at Vancouver’s New Design Gallery.
 
 Chief Speck, from Turnour Island, British Columbia, was a community 
 leader, teacher, and cultural practitioner. By the 1930s he was also 
@@ -1056,22 +1056,22 @@ and textures. His work caught the attention of the Austrian artist and
 theorist, Wolfgang Paalen, and was declared by the Haida artist Bill 
 Reid to be â€œfar beyond anything attempted before in Kwakiutl art.â€ 
 
-Experience Henry Speckâ€™s paintings through originals and large-scale 
+Experience Henry Speck’s paintings through originals and large-scale 
 projections that refigure his work against a backstory of media images, 
-sound, and filmâ€”an installation that evokes the changing contexts of 
+sound, and film—an installation that evokes the changing contexts of 
 the mythic and the modern in the 20th century.
 
-Co-curated by Karen Duffek (MOAâ€™s Curator of Contemporary Visual 
+Co-curated by Karen Duffek (MOA’s Curator of Contemporary Visual 
 Arts) and Marcia Crosby (writer, scholar, and PhD candidate, UBC 
 Department of Art History, Visual Art, and Theory). This exhibition is 
-made possible with support from the Michael Oâ€™Brian Family 
+made possible with support from the Michael O’Brian Family 
 Foundation, and is organized by the UBC Museum of Anthropology and 
 Satellite Gallery. 
 
 Satellite Gallery is an experimental exhibition space shared by three 
-arts institutionsâ€”Presentation House Gallery, Morris and Helen Belkin 
-Art Gallery (UBC), and the Museum of Anthropology (UBC)â€”and is a 
-Michael Oâ€™Brian Family Foundation project. 
+arts institutions—Presentation House Gallery, Morris and Helen Belkin 
+Art Gallery (UBC), and the Museum of Anthropology (UBC)—and is a 
+Michael O’Brian Family Foundation project. 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-07-06-17-the-papergirl-project-call-for-submissions-jul-18">17. The Papergirl Project | Call For Submissions | JUL 18</a>
@@ -1133,7 +1133,7 @@ ARTISTS: Tell us what you think about Affordable Housing and
 Creation Space
 RUNS JULY 1-30
 
-ABOUT the Artistsâ€™ Affordable Housing and Creation Space Survey
+ABOUT the Artists’ Affordable Housing and Creation Space Survey
 
 The City of Richmond and PUBLIC have launched this survey as part of 
 a Community Needs Assessment, to better understand the space 
@@ -1179,7 +1179,7 @@ Canada
 
 Spark Box Studio Residency is now accepting Fall 2012 applications
 
-Spark Box Studioâ€™s Artist Residency Program provides live/work space 
+Spark Box Studio’s Artist Residency Program provides live/work space 
 to accommodate both emerging and professional printmakers, 
 photographers, painters, illustrators, curators and writers. Artists-in-
 residence have access to our professional studio and resources. The 
@@ -1230,7 +1230,7 @@ http://www.richmond.ca/culture/publicart/opportunities.htm
 Dear Friends,
 
 Alex Leslie and I are guest-editing Issue 5 of the boundary-crossing 
-online journal Incongruous Quarterly. The them is â€œCompanion 
+online journal Incongruous Quarterly. The them is “Companion 
 Animalsâ€  (Dear Creature,) and information about the call is below. 
 
 Please forward widely. We are interested in all iterations of poetry and 
@@ -1242,7 +1242,7 @@ information on how to submit.
 Dear Creature,
 
 We are looking for work that addresses one of the many relationships 
-humans share with non-humans â€” exploitation, companionship, abuse, 
+humans share with non-humans — exploitation, companionship, abuse, 
 partnership and labor, and sometimes a contradictory combination of 
 these relationships. Contributions might address any of the following:
 
@@ -1258,7 +1258,7 @@ entirely on exchange?
 
 Our Economic Relationship to Non-Human Creatures:
 How do we make profit and business on the backs of animals, some of 
-whom are our companions? What does Charlotteâ€™s Web imprint on us? 
+whom are our companions? What does Charlotte’s Web imprint on us? 
 After the Vancouver Olympics a pack of sled dogs was massacred in 
 Whistler when business declined. How do we force animals to conform 
 to the arcs of our commercial needs? What is the supply and demand 
@@ -1276,7 +1276,7 @@ Animals as Emblems and Fashion:
 Humans wear non-humans as leather jackets, feather earrings, 
 snakeskin, ivory, and fur coats, but they also wear emblems of animals 
 on their clothing. Animals are visible everyday icons in advertising and 
-art. Put a bird on it. Donâ€™t put a bird on it. Telus ads. How do we 
+art. Put a bird on it. Don’t put a bird on it. Telus ads. How do we 
 incorporate and romanticize the bodies of animals as fashion and 
 object and fad?
 
@@ -1286,15 +1286,15 @@ emotional equal? Can a human and an animal create a relationship
 based on equality? Do both become hybrids?
 
 Idioms and metaphors:
-Youâ€™ve got a dog in the fight. That dog wonâ€™t hunt. Kicking the dog. 
-Fucking the dog. (Insert adjective) like a dog. Dog-tired. Dogâ€™s 
-breakfast. Shaggy dog story. Hair of the dog that bit me. Itâ€™s a dogâ€™s life. 
+You’ve got a dog in the fight. That dog won’t hunt. Kicking the dog. 
+Fucking the dog. (Insert adjective) like a dog. Dog-tired. Dog’s 
+breakfast. Shaggy dog story. Hair of the dog that bit me. It’s a dog’s life. 
 Let sleeping dogs lie. Love me, love my dog. Tail wagging the dog. A 
-dog is a manâ€™s best friend.
+dog is a man’s best friend.
 
 -Nikki and Alex
 
-â€“
+–
 
 ABOUT THE GUEST EDITORS:
 
@@ -1309,12 +1309,12 @@ alexleslie.wordpress.com
 
 Nikki Reimer is author of the poetry book [sic] (Frontenac House 2010), 
 nominated for the 2011 Gerald Lampert Memorial Award, and several 
-chapbooks, including that stays news (Nomados, 2011). Her â€œEast Van 
+chapbooks, including that stays news (Nomados, 2011). Her “East Van 
 Catsâ€  photographic tryptich appeared at the Just Act Natural Group 
 Exhibition in Kingston, ON in June 2010, and she has edited Van City 
 Kitty on VancouverisAwesome.com since November 2010. Nikki has 
 lived with oodles of cats throughout her life, including two that she 
-rescued off East Georgia Street, and Bella, whom sheâ€™s been cat-sitting 
+rescued off East Georgia Street, and Bella, whom she’s been cat-sitting 
 since 2003. Website: http://reimerwrites.com/
 
 ---------30---------

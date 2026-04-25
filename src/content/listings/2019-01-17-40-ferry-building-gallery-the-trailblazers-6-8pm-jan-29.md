@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 40
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | The Trailblazers | 6-8PM | JAN 29"
 ---
 

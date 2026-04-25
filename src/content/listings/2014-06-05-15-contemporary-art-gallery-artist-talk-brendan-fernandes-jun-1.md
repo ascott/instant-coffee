@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 15
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Artist Talk: Brendan Fernandes | JUN 10"
 ---
 
@@ -13,7 +14,7 @@ Artist Talk: Brendan Fernandes - Tuesday, June 10, 7pm
 
 This summer the CAG will host a two month residency from June to August 
 with Canadian artist Brendan Fernandes. Please join us for a talk introducing 
-Fernandesâ€™ residency, he will discuss his recent projects.
+Fernandes’ residency, he will discuss his recent projects.
 
 While in Vancouver, Fernandes will undertake new research exploring the 
 gendered and queer male body in ballet, questioning hierarchies that dance 
@@ -25,11 +26,11 @@ own identity.
 
 Brendan Fernandes is a Canadian artist of Kenyan and Indian descent 
 splitting his time between Toronto and New York City. In 2010 he was a 
-finalist for the Sobey Art Award Canadaâ€™s preeminent award for 
+finalist for the Sobey Art Award Canada’s preeminent award for 
 contemporary art and was recently awarded a Robert Rauschenberg 
 Residency Fellowship. He has exhibited widely throughout Canada, the US 
-and internationally including exhibitions at the MusÃ©e dâ€™art contemporain de 
-MontrÃ©al; The National Gallery of Canada, Ottawa; The Solomon R. 
+and internationally including exhibitions at the Musée d’art contemporain de 
+Montréal; The National Gallery of Canada, Ottawa; The Solomon R. 
 Guggenheim Museum; New York; The Andy Warhol Museum, Pittsburgh and 
 the Deutsche Guggenheim, Berlin. His work is represented by Diaz 
 Contemporary, Toronto.

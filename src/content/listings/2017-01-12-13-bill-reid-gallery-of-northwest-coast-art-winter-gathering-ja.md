@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 13
 type: "EVENT"
+venue: "Bill Reid Gallery of Northwest Coast Art"
 summary: "Bill Reid Gallery of Northwest Coast Art | Winter Gathering | JAN 19"
 ---
 

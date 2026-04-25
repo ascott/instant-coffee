@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 25
 type: "TALK"
+venue: "VAG Art Rental & Sales"
 summary: "VAG Art Rental & Sales | Jean Paul Langlois | SEP 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 19
 type: "EVENT"
+venue: "UBC - Art History, Visual Art and Theory"
 summary: "UBC - Art History, Visual Art and Theory | MFA and BFA Open Studios | DEC 6"
 ---
 

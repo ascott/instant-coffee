@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 30
 type: ""
+venue: "Vancouver Heritage Foundation + CBC Radio-Canada"
 summary: "Vancouver Heritage Foundation + CBC Radio-Canada | Call for Artists | MAR 23"
 ---
 

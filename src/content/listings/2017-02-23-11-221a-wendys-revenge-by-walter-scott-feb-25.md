@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 11
 type: ""
+venue: "221a"
 summary: "221a | Wendy's Revenge by Walter Scott | FEB 25"
 ---
 

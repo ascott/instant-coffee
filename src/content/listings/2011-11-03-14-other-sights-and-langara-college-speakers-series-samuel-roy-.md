@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 14
 type: ""
+venue: "OTHER SIGHTS AND LANGARA COLLEGE"
 summary: "OTHER SIGHTS AND LANGARA COLLEGE | SPEAKERS SERIES - SAMUEL ROY-BOIS | NOV 8"
 ---
 
@@ -23,7 +24,7 @@ participation and dispersal.
 
 In this expanded field of art and interaction, curators, institutions and 
 artists themselves have shifted their relationship to the creative 
-processâ€”and the display and creation of public art. This series of talks 
+process—and the display and creation of public art. This series of talks 
 will address some of these perspectives; from the evolution of 
 curatorial practices beyond gallery walls, to artists engaging with civic 
 infrastructure, to mapping the open-ended, transient nature of 
@@ -46,9 +47,9 @@ the participation of Gilles Poulin-Denis.  
 Originally from Quebec City, Samuel Roy-Bois is currently residing in 
 Vancouver. His solo exhibitions include Polarizer, Southern Alberta Art 
 Gallery, 2009, Let us, then, be up an doing..., Contemporary Art 
-Gallery, Vancouver, 2008; Divertissements, Point Ã©phÃ©mÃ¨re, Paris, 
-2007; Improbable and ridiculous, MusÃ©e dâ€™art contemporain de 
-MontrÃ©al, 2006.
+Gallery, Vancouver, 2008; Divertissements, Point éphémère, Paris, 
+2007; Improbable and ridiculous, Musée d’art contemporain de 
+Montréal, 2006.
 
 Also in this series...
 

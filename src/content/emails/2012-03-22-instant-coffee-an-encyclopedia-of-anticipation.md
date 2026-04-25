@@ -50,9 +50,9 @@ curatorial method.
 
 This lecture series is part of *Feeling So Much Yet Doing So Little* by 
 Instant Coffee, an exhibition and series of events that is a tangential 
-revisiting of the Canadian Artist Collectiveâ€™s 12 year history. Lise 
+revisiting of the Canadian Artist Collective’s 12 year history. Lise 
 Nellemann is the second speaker in the series. Norwegian collective 
-Rakkett and SofÃ­a HernÃ¡ndez Chong Cuy* will follow. Each lecture is 
+Rakkett and Sofía Hernández Chong Cuy* will follow. Each lecture is 
 moderated by Caitlin Jones and will address their distinct theoretical 
 and collaborative approaches.
 
@@ -74,7 +74,7 @@ Archive. In 2005, Lise invited Instant Coffee to take over Sparwasser
 for six weeks, for which the Collective set up a temporary studio and 
 held over 20 events and gatherings.
 
-*SofÃ­a HernÃ¡ndez Chong Cuyâ€™s lecture has been postponed until later 
+*Sofía Hernández Chong Cuy’s lecture has been postponed until later 
 in 2013.
 
 For a full listing of events visit www.front.bc.ca
@@ -83,7 +83,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
+Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free
 
 
@@ -166,16 +166,16 @@ Opening reception Thursday March 22nd 7-11pm
 
 Exhibition runs March 24th - April 7th 
 
-Look Up Itâ€™s The End is a solo sculptural installation by Jeff StÃ¼ckel at 
+Look Up It’s The End is a solo sculptural installation by Jeff Stückel at 
 Shudder Gallery. The work in this exhibition uses a minimalist aesthetic 
 to evoke unconscious symbolism among a group of objects. Crossing 
 over between photography, sculpture and painting, and using 
-processes of continual abstraction and reduction, StÃ¼ckelâ€™s installation 
+processes of continual abstraction and reduction, Stückel’s installation 
 provides both a sense of loss and generation. The show creates a 
 tentative narrative space, which expands from an unnatural motif of a 
-photographed constructed birdâ€™s nest.
+photographed constructed bird’s nest.
 
-Jeff StÃ¼ckel graduated with a BFA from the University of Victoria in 
+Jeff Stückel graduated with a BFA from the University of Victoria in 
 2005. Based in Vancouver BC, he has exhibited at Dynamo Gallery, 
 Interurban Gallery, the Ministry of Casual Living and the Fifty- Fifty arts 
 collective.
@@ -192,10 +192,10 @@ www.shuddergallery.com
 Art Cart + Salon Shop: drawing room
 New Works from Gallery Gachet & Oppenheimer Park
 Curated by Ali Lohan and Ayaz Kamani
-March 23rd â€“ April 20th, 2012
+March 23rd – April 20th, 2012
 The Art Cart Red Ribbon Launch: Friday March 23rd 10:30am, at 
 Oppenheimer Park. Media welcome at 11am. Refreshments served. 
-The Art Cartâ€™s inaugural exhibition, drawing room will be displayed 
+The Art Cart’s inaugural exhibition, drawing room will be displayed 
 before Art Cart heads off on its maiden voyage around the city.
 At 7pm, celebrate with the Art Cart + Salon Shop artists at Gallery 
 Gachet for drawing room's opening reception
@@ -211,7 +211,7 @@ posterity. Drawing is simply marks made on something. It is a medium
 that has survived due to its versatility.
 
 For the following month, Gallery Gachet will pay homage to the 
-resilience of mark making with the Drawuary: Donâ€™t Not Draw Show, by 
+resilience of mark making with the Drawuary: Don’t Not Draw Show, by 
 Franklin St. Studios, who lost their studio space at Red Gate to rising 
 rents and creeping gentrification. We will also celebrate the launch of 
 the Art Cart + Salon Shop, as artists from Oppenheimer Park and 
@@ -255,7 +255,7 @@ Council of Vancouver.
 ------------------------------------------------------------------------
 C. 1983 Part II
 OPENING RECEPTION Friday, March 23, Opening Reception, 7 pm
-With a special screening of Rodney Grahamâ€™s Two Generators (1984, 
+With a special screening of Rodney Graham’s Two Generators (1984, 
 4 minutes, sound) screening continuously in the Presentation House 
 Theatre from 7:30 to 9:00 pm. 
 Artsits in the exhibition: Vikky Alexander, Kati Campbell, Share 
@@ -298,7 +298,7 @@ lumber solidly glued together. Cut from douglas fir, one of the hardest
 softwoods, each stool is the playful result of the simplification of form 
 and process.
 
-Samuel Roy Boisâ€™s work will be on display until March 29th.
+Samuel Roy Bois’s work will be on display until March 29th.
 
 ALSO on Saturday
 
@@ -307,7 +307,7 @@ Pryography (Woodburning) Workshop 2-5pm
 Come, burn a design on a piece of wood and make a button 
 
 as part of Instant Coffee, Feeling So Much Yet Doing So Little, a 
-tangential revisiting of the Canadian Artist Collectiveâ€™s prodigious 12 
+tangential revisiting of the Canadian Artist Collective’s prodigious 12 
 year history and an indirect hypothesizing of their speculative future, 
 each Saturday Instant Coffee has invited artists, critics and curators to 
 host a series of low key events.
@@ -363,7 +363,7 @@ Concourse Gallery, Emily Carr University of Art & Design
 March 26th-April 6th, 2012
 OPENING RECEPTION: Thursday, March 29th, 2012, 6-9pm
 
-Emily Carr University of Art + Designâ€™s first year masters cohort 
+Emily Carr University of Art + Design’s first year masters cohort 
 presents â€œInventory of Language,â€  a group exhibition at the Concourse 
 Gallery offering a window into their studio explorations within the 
 graduate program.
@@ -371,7 +371,7 @@ graduate program.
 Coached by curator Cate Rimmer, the sixteen resident graduate 
 students have come together to produce a wide-reaching 
 interdisciplinary exhibition with the aims of sharing their critical arts-
-based research with Vancouverâ€™s artists, curators, theoreticians, 
+based research with Vancouver’s artists, curators, theoreticians, 
 educators and the public at large. The diverse bodies of work 
 presented in â€œInventory of Languageâ€  include painting and drawing, 
 printmaking, photography, sculpture,
@@ -382,12 +382,12 @@ professional artists and designers intersecting from across Canada
 and the United States, Colombia, Pakistan, Italy, Iceland, Australia and 
 Korea. The group is made up of Felicia Batzloff, Annie Briard, Aaron 
 Carter, Zara Contractor, Jenny Cronin, Ashley Guindon , Allison Karow 
-(Sunny), Liz Knox, Paolo Pennuti, Rafa Puyana, Mira Song, LeÃ³ 
-StefÃ¡nsson, Lloyd Stone, Carol Tsang, Tokio Webster and Laurence 
+(Sunny), Liz Knox, Paolo Pennuti, Rafa Puyana, Mira Song, Leó 
+Stefánsson, Lloyd Stone, Carol Tsang, Tokio Webster and Laurence 
 Wong.
 
 â€œInventory of a Languageâ€  will run from March 26th to April 6th, 2012 at 
-Emily Carr Universityâ€™s Concourse Gallery. The public is invited to meet 
+Emily Carr University’s Concourse Gallery. The public is invited to meet 
 the artists, see the work and enjoy refreshments at the opening event.
 
 www.ie-gallery.com
@@ -400,9 +400,9 @@ Media Inquiries: ie.space@ecuad.ca
 Scott McFarland
 Winter Retreating Spring Offence
 
-March 29 â€“ May 5, 2012
+March 29 – May 5, 2012
 
-Opening reception: Thursday March 29, 6pm â€“ 8pm
+Opening reception: Thursday March 29, 6pm – 8pm
 Artist in attendance
 
 Spring in Canada is a welcome sight after the hardships of a long cold 
@@ -458,13 +458,13 @@ www.monteclarkgallery.com
 <a href="/instant-coffee/listings/2012-03-22-10-petley-jones-gallery-gwaai-edenshaw-mar-29">10. petley jones gallery | Gwaai Edenshaw | MAR 29</a>
 ------------------------------------------------------------------------
 Petley Jones Gallery (1554 West 6th Avenue, 604-732-5353 
-www.petleyjones.com) proudly presents Sounds Good on Paper â€“ Gwaai 
+www.petleyjones.com) proudly presents Sounds Good on Paper – Gwaai 
 Edenshaw, the first solo exhibition of the acclaimed Haida artist runs from 
 March 29th (opening 6:30pm) to April 21st, 2012.
 
 Gwaai Edenshaw (b.1977, Haida Gwaii) is most well known for his carvings and 
 jewelry pieces. Sounds Good on Paper offers viewers an introduction to the 
-whimsical storytelling-nature and contemporary thought process of Gwaaiâ€™s 
+whimsical storytelling-nature and contemporary thought process of Gwaai’s 
 artistic practice.
 
 Featuring over a dozen works on paper in graphite, mixed media and pencil, the 
@@ -473,7 +473,7 @@ cast mask (â€œRavens Tailâ€ , paper, 42 x 25.5 x 8 inches), displayed her
 first time.
 
 Gwaai is a strong voice in the Haida community. This exhibition explores not 
-only Gwaaiâ€™s individual artistic practice, but also addresses the larger issue of 
+only Gwaai’s individual artistic practice, but also addresses the larger issue of 
 historically limiting definitions of â€œFirst Nationsâ€  art.
 
 Regards,
@@ -533,7 +533,7 @@ subjects or at least to make tangible the processes of erasure and
 entropy that affect them.
 
 Exhibiting artists: Kevin Day & Nathan McNinch, Colin Lyons, Aydin 
-Matlabi, Faye Mullen, Tristan Sober-Blodgett and Ã‰tienne Tremblay-
+Matlabi, Faye Mullen, Tristan Sober-Blodgett and Étienne Tremblay-
 Tardif
 
 Curated By: Louis-Alexandre Douesnard, Tarah Hogue, Toby 
@@ -543,63 +543,63 @@ Symposium: Lillooet Room Irving K. Barber Learning Center, 1961
 East Mall, UBC
 
 Friday, March 30th, 2012
-10:30â€“ 10:45: Opening Remarks
+10:30– 10:45: Opening Remarks
 
 Panel I:
-10:45 â€“ 11:30:
-Chris Jones (University of Florida), â€œ'Walk into the View': 
+10:45 – 11:30:
+Chris Jones (University of Florida), “'Walk into the View': 
 Rephotography as Art Practice 1975-2010"
-11:30 â€“ 12:15:
-Frances Cullen (University of Alberta), â€œStillness in Motion: Alex 
+11:30 – 12:15:
+Frances Cullen (University of Alberta), “Stillness in Motion: Alex 
 Pragerâ€™s Despair and the Reassessment of Cinematic Timeâ€ 
 
-12:15 â€“ 1:15:
+12:15 – 1:15:
 Lunch Break
 
-1:15 â€“ 1:30:
+1:15 – 1:30:
 Keynote Introduction
-1:30 â€“ 3:00:
-Keynote Speaker â€“ Dr. Darby English (University of Chicago)
+1:30 – 3:00:
+Keynote Speaker – Dr. Darby English (University of Chicago)
 
-3:00 â€“ 3:30:
+3:00 – 3:30:
 Coffee Break
 
 Panel II:
-3:30 â€“ 3:45:
+3:30 – 3:45:
 Exhibition Introduction
-3:45 â€“ 4:30:
-Alexandra L. Simpson (Queenâ€™s University), â€œBlindness and Site: Art 
+3:45 – 4:30:
+Alexandra L. Simpson (Queen’s University), “Blindness and Site: Art 
 Illustrating the Invisible in Touch Tour Picturesâ€ 
 
-5:00 â€“ 7:00:
+5:00 – 7:00:
 Reception and Exhibition
 Location: AMS Art Gallery
 
 Saturday, March 31st, 2012
-10:30 â€“ 10:45: Coffee & Opening Remarks
+10:30 – 10:45: Coffee & Opening Remarks
 
 Panel III
-10:45 â€“ 11:30:
-Catherine Walsh (Boston University), â€œDisplacement and Figuration in 
+10:45 – 11:30:
+Catherine Walsh (Boston University), “Displacement and Figuration in 
 Giambolognaâ€™s Appenninoâ€ 
-11:30 â€“ 12:15:
+11:30 – 12:15:
 Christina Gray (UCLA), â€œHumour and Adolf Loosâ€ 
-12:15 â€“ 1:00:
-Alexey Golubev (UBC), â€œUnseen Materiality in Marginalia of Post-
+12:15 – 1:00:
+Alexey Golubev (UBC), “Unseen Materiality in Marginalia of Post-
 Stalinist Soviet Magazinesâ€ 
 
-1:00 â€“ 2:00:
+1:00 – 2:00:
 Lunch Break
 
 Panel IV
-2:00 â€“ 2:45:
-Carley Hodgkinson (NSCAD), â€œRe-imagining the Temporary and Void 
+2:00 – 2:45:
+Carley Hodgkinson (NSCAD), “Re-imagining the Temporary and Void 
 Spaces of the Cityâ€ 
-2:45 â€“ 3:30:
-Erica Zacharias (UBC), â€œInsight Out of Site: Staging Gordon Matta-
+2:45 – 3:30:
+Erica Zacharias (UBC), “Insight Out of Site: Staging Gordon Matta-
 Clarkâ€ 
 
-3:30 â€“ 4:00
+3:30 – 4:00
 Closing Remarks
 
 ------------------------------------------------------------------------
@@ -618,7 +618,7 @@ and architecture in performance and media. Over the month of March, Hall
 composed, choreographed, animated and constructed the elements of Paper 
 House.
 
-Lief Hallâ€™s multidisciplinary practice employs light, sound, sculpture and 
+Lief Hall’s multidisciplinary practice employs light, sound, sculpture and 
 movement to create affective environments. Her installations, performances and 
 compositions induce tension between the virtual and real by projecting 3D 
 computer animation and video onto bodies and fluid sculptural objects made of 
@@ -643,7 +643,7 @@ paper that cause the material to contort and flourish when long curtains of it a
 suspended. Video projections on Paper House create shadows that alter 
 perceptions of space, weight and depth. The projections transform solid objects 
 into fluid forms, creating architecture out of moving light. The texture and 
-patterning of Hallâ€™s 3D animation also obscures the dancers forms, dissolving 
+patterning of Hall’s 3D animation also obscures the dancers forms, dissolving 
 them into the materiality of their own construction.
 
 
@@ -775,7 +775,7 @@ Klondike Institute of Art & Culture (KIAC), Dawson City, Yukon
 DEADLINE: APRIL 1, 2012
 www.kiac.ca
 
-1. EXHIBITION PROPOSALS â€“ ODD Gallery, Dawson City, Yukon
+1. EXHIBITION PROPOSALS – ODD Gallery, Dawson City, Yukon
 We invite professional artists and curators of all experience to submit 
 proposals for exhibitions of contemporary visual art. The ODD Gallery 
 is housed in the main Klondike Institute of Art & Culture building. We 
@@ -785,7 +785,7 @@ Manufactured. The ODD Gallery supports CARFAC-recommended
 exhibition and artist talk fee rates, and offers shipping support. Please 
 visit http://www.kiac.ca/oddgallery/submissions/ for more information.
 
-2. ARTIST IN RESIDENCE â€“ Klondike Institute of Art & Culture, 
+2. ARTIST IN RESIDENCE – Klondike Institute of Art & Culture, 
 Dawson City, Yukon
 We invite artists of all experience to submit proposals for a work-
 creation, development or research tenure of 4 to 12 weeks in our 
@@ -859,15 +859,15 @@ http://www.vivomediaarts.com/event/them-fckin-robots
 ------------------------------------------------------------------------
 Winsor Gallery is pleased to present The Future is Female, an exhibition of new 
 works by Angela Grossmann. Please join us for the opening reception on 
-Wednesday, April 4, from 6:00 â€“ 8:00 pm. The artist will be in attendance. We 
+Wednesday, April 4, from 6:00 – 8:00 pm. The artist will be in attendance. We 
 also welcome you to join us on Saturday, April 28, at 3:30 pm for an engaging 
 artist talk by Angela, presented as part of Canadian Art Gallery Hop Vancouver. 
-Winsor Gallery is open Monday â€“ Saturday, 10:00 am â€“ 6:00 pm, and Sundays, 
-11:00 am â€“ 5:00 pm.
+Winsor Gallery is open Monday – Saturday, 10:00 am – 6:00 pm, and Sundays, 
+11:00 am – 5:00 pm.
 
 ANGELA GROSSMANN
 THE FUTURE IS FEMALE
-April 4 â€“ May 6, 2012
+April 4 – May 6, 2012
 
 Angela Grossmannn 
 <http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/r/>
@@ -978,10 +978,10 @@ important to you. The videos with the most likes will be given travel
 bursaries of up to $500 each. For more information and contest rules 
 visit our website. 
 
-CARFACâ€™s work involves educating artists about their economic and 
+CARFAC’s work involves educating artists about their economic and 
 legal rights. Many of the questions that our artist members call us 
-about are legal in nature â€“ everything from copyright to contract 
-disputes and tax issues. This yearâ€™s conference will explore the unique 
+about are legal in nature – everything from copyright to contract 
+disputes and tax issues. This year’s conference will explore the unique 
 challenges faced by artists and arts organizations when things get 
 legal. 
 

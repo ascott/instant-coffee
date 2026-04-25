@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 12
 type: ""
+venue: "Beaverton Arts Commission"
 summary: "Beaverton Arts Commission | Call to Artists | SEP 30"
 ---
 
@@ -24,7 +25,7 @@ Submitting:
 
 * Deadline: September 30, 2009
 * Installation to be completed fall of 2010.
-* Artist and artist teams must apply using the CaFÃ‰ (www.callforentry.org) application system. 
+* Artist and artist teams must apply using the CaFÉ (www.callforentry.org) application system. 
 There is no application fee to use the system
 
 The Selection Committee will select up to three finalists to develop a full proposal for the project. 

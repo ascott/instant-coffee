@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 32
 type: "CALL"
+venue: "Vancouver Island School of Art (VISA)"
 summary: "Vancouver Island School of Art (VISA) | Bonne McComb Kreye Studio Residency | NOV 30"
 ---
 

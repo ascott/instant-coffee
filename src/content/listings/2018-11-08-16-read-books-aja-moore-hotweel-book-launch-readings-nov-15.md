@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 16
 type: ""
+venue: "READ Books"
 summary: "READ Books | Aja Moore: hotweel (Book Launch + Readings) | NOV 15"
 ---
 

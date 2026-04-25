@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: coughing up not passing the buck"
 emailDate: "Thu, 02 Sep 2010 12:40:18 -0700"
 number: 23
 type: ""
+venue: "Art Gallery of Alberta, edmonton"
 summary: "Art Gallery of Alberta, edmonton | seeking Public Program and Outreach Coordinator | SEP 27"
 ---
 

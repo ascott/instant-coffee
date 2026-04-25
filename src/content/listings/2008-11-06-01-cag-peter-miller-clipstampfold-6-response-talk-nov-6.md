@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 1
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Peter Miller: Clip/Stamp/Fold 6: Response Talk | NOV 6"
 ---
 

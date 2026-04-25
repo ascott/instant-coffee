@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 2
 type: ""
+venue: "BLANKET"
 summary: "BLANKET | 5th anniversary | group show | APR 15"
 ---
 
-To celebrate Blanketâ€™s 5th anniversary, please join us for a group 
+To celebrate Blanket’s 5th anniversary, please join us for a group 
 exhibition featuring works by Eli Bornowsky, Neil Campbell, Audrey Capel 
 Doray, Matthew Chambers, Beau Dick, Matthias Dornfeld, Jeremy Hof, Brett 
 Lund, Monique Mouton, Jeremy Shaw, Mark Soo, Corin Sworn and Alexis M. 

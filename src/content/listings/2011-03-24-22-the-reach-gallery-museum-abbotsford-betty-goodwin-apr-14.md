@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 22
 type: ""
+venue: "The Reach Gallery Museum Abbotsford"
 summary: "The Reach Gallery Museum Abbotsford | Betty Goodwin | APR 14"
 ---
 
@@ -27,7 +28,7 @@ April 14 - May 29, 2011
 
 Opening Reception - Thursday, April 14, 7-9pm
 
-March 22, 2011, Abbotsford, BC-Â¦..The Reach Gallery Museum Abbotsford opens
+March 22, 2011, Abbotsford, BC-¦..The Reach Gallery Museum Abbotsford opens
 three new exhibitions in April: Man Turned to Stone: Txwelatse; Betty
 Goodwin: Darkness and Memory and Our Communities Our Stories: Sikh
 Pioneers - 100 Years of Immigration, Integration and Identity. The
@@ -35,7 +36,7 @@ exhibitions run from April 14 to May 29, 2011, with the opening reception
 April 14 from 7 to 9pm, 32388 Veterans Way, Abbotsford.
 
 Man Turned to Stone: Txwelatse
-Organized in collaboration with the StÃƒÂ³:lÃ…ï¿½ Research and Resource Management
+Organized in collaboration with the StÃ³:lÅ� Research and Resource Management
 Centre and the T'xwelatse Family
 Stone Txwelatse, is an ancestor of the Chilliwack (Tselxweyeqw), one of
 the St tribes, a man who was born thousands of years ago and
@@ -44,7 +45,7 @@ mistreating his wife. Through his transformation he was to give lessons to
 the people on how to live together in a good way. For the St, Stone
 Txwelatse is a beloved, ancestor; a stone man with a living soul.
 
-Over one hundred years ago, Stone TÃ¢xwelatse was taken from St
+Over one hundred years ago, Stone Tâxwelatse was taken from St
 territory. He was more recently discovered in Seattle in the collection of
 the Burke Museum of Natural and Cultural History. After a 14-year
 campaign, Stone Txwelatse was repatriated to the St in 2006. As part
@@ -101,7 +102,7 @@ one of the first steps in preserving the century plus long history of Sikhs
 in Canada. This exhibition is organized in collaboration with the Khalsa
 Diwan Society and Centre for Indo Canadian Studies at the University of the
 Fraser Valley. Historic photos that document the development the
-establishment of Abbotsfordï¿½s Sikh community, family artefacts that
+establishment of Abbotsford�s Sikh community, family artefacts that
 illustrate the stories told by pioneers and a glimpse into the Sikh faith
 will provide a fascinating background for the community-wide temple
 Centennial celebrations.

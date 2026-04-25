@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 22
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Evan Lee | Full Circle | SEP 19"
 ---
 

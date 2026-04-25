@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "John B. Aird Gallery"
 summary: "John B. Aird Gallery | Julius Poncelet Manapul - Decolonizing Antiquities | NOV 5"
 ---
 

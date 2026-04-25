@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 3
 type: ""
+venue: "grace gallery"
 summary: "grace gallery | Stacy Sakai | SEP 17"
 ---
 

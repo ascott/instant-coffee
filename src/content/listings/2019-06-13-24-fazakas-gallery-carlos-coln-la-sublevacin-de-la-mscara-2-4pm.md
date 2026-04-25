@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 24
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | CARLOS COLÍN: La Sublevación de la Máscara | 2-4PM | JUN 15"
 ---
 

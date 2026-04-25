@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 3
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Western Front | ALBUM LAUNCH Mepalu Sari"
 ---
 

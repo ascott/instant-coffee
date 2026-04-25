@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 20
 type: "TALK"
+venue: "CAG and Western Front"
 summary: "CAG and Western Front | Krista Belle Stewart, conversation with Dory Nason | JAN 29"
 ---
 

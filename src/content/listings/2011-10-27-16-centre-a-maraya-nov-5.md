@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 16
 type: ""
+venue: "Centre A"
 summary: "Centre A | Maraya | NOV 5"
 ---
 
@@ -27,13 +28,13 @@ Website design by Work at Play with technical support Codename Design
 
 Centre A is pleased to present Maraya, a large scale experimental and multi-
 layered art project consisting of an exhibition, series of public talk, walking tour 
-and newly commissioned interactive website. Maraya(from the Arabic mâ€™raya for 
-mirror or reflection) examines the surprising reappearance of Vancouverâ€™s most 
+and newly commissioned interactive website. Maraya(from the Arabic m’raya for 
+mirror or reflection) examines the surprising reappearance of Vancouver’s most 
 picture-postcard urban development, False Creek in the United Arab Emirates, 
 as the Dubai Marina. These two cities are pioneering sites for a new type of 21st 
 century urbanism, the hallmark of which is the urban waterfront development 
 with glass and steel condominium towers, expansive seawall walkways and 
-shimmering urban vistas. Marayaâ€™s multi- faceted artwork will act as a mirror for 
+shimmering urban vistas. Maraya’s multi- faceted artwork will act as a mirror for 
 publics in both cities to see themselves and their built environments reflected 
 through the lens of contemporary art. In focusing on this significant case study 
 of the two sites, the project aims to facilitate critical discourse reflecting on the 
@@ -47,7 +48,7 @@ have produced a new body of artworks, including photo and video documents,
 interviews, video installations and a live video portal connection between two 
 cities presented in the exhibition as well as in the new website.
 
-â€œMaraya,â€”borrowing the arabic word for mirror and reflectionâ€” asks us all to 
+“Maraya,—borrowing the arabic word for mirror and reflection— asks us all to 
 engage in the remaking of our seawalls. To explore the thousands of images that 
 chronicle the building of both waterfront communities from 2007-2011, building 
 digital paths and connections between publics both here and there. Our online 
@@ -70,7 +71,7 @@ audience through online participation.
 
 During the exhibition, Centre A organizes a series of public salons to approach 
 the subject from a diverse range of perspectives; the speakers include Christos 
-Dikeakos, one of Canadaâ€™s most prominent contemporary artists, urban 
+Dikeakos, one of Canada’s most prominent contemporary artists, urban 
 geographer Eugene McCann and social and cultural activist, Am Johal. A walking 
 tour led by sound artist Jean Routhier will be held prior to the exhibition.
 

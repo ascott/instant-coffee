@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 2
 type: "OPENING"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | VICTORIA | Remnant | Grant Watson | NOV 10"
 ---
 

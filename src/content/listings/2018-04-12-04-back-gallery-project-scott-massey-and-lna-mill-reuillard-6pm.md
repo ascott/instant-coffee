@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 4
 type: "OPENING"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Scott Massey and Lna Mill-Reuillard | 6PM | APR 12"
 ---
 

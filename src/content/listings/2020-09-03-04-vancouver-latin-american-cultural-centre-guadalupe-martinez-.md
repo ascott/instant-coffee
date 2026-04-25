@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 4
 type: "TALK"
+venue: "Vancouver Latin American Cultural Centre"
 summary: "Vancouver Latin American Cultural Centre | Guadalupe Martinez | 6PM | SEP 3"
 ---
 

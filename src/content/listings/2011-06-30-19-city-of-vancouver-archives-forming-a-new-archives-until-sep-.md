@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 19
 type: ""
+venue: "City of Vancouver Archives"
 summary: "City of Vancouver Archives | Forming: A New Archives | until | SEP 2"
 ---
 
-In collaboration with DuctalÂ® by Lafarge and The University of 
+In collaboration with Ductal® by Lafarge and The University of 
 British Columbia School of Architecture and Landscape 
 Architecture (SALA), the City of Vancouver Archives is pleased 
 to introduce its latest exhibit: Forming: A New Archives for 
 Downtown Vancouver
 
-With concrete forming much of Vancouverâ€™s urban landscape, 
+With concrete forming much of Vancouver’s urban landscape, 
 its presence has become pervasive, and in the context of urban 
 infrastructure, its usage has been rather conventional. More 
 recently, new forms of concrete have been developed, 
@@ -30,9 +31,9 @@ model their designs at a variety of scales. Such explorations
 served to inform the students as they went on to design a larger 
 scale building project that would act as a satellite facility to the 
 City of Vancouver Archives. Collaborating with the studio were 
-representatives of DuctalÂ® from Lafarge who assisted the 
+representatives of Ductal® from Lafarge who assisted the 
 students in casting a life-sized portion of each of their buildings 
-in DuctalÂ®, Lafargeâ€™s Ultra High Performance Concrete. This is 
+in Ductal®, Lafarge’s Ultra High Performance Concrete. This is 
 a new material allowing for increased creative liberties with 
 concrete design while also maintaining the strength of the 
 structure. 
@@ -49,7 +50,7 @@ people, allowing for information to become even more
 accessible to the public and for the Archives to integrate itself 
 into the fabric of city life. 
 
-Exhibit run: Tuesday, June 14, 2011 â€“ Friday, September 2, 
+Exhibit run: Tuesday, June 14, 2011 – Friday, September 2, 
 2011
 
 Ductal, Lafarge Press Release: http://www.ductal-
@@ -79,4 +80,4 @@ Landscape Architecture
 
 City of Vancouver Archives
 
-DuctalÂ® by Lafarge
+Ductal® by Lafarge

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 54
 type: "CALL"
+venue: "Camp Wavelength"
 summary: "Camp Wavelength | Call for Art Submissions | APR 30"
 ---
 

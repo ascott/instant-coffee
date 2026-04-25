@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 10
 type: ""
+venue: "Vancouver Draw Down 2014"
 summary: "Vancouver Draw Down 2014 | vancouverdrawdown.com | JUN 14"
 ---
 

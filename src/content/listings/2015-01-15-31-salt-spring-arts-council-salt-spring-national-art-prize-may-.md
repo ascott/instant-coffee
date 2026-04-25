@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 31
 type: "CALL"
+venue: "Salt Spring Arts Council"
 summary: "Salt Spring Arts Council | Salt Spring National Art Prize | MAY 31"
 ---
 

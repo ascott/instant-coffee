@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interactive automata"
 emailDate: "Thu, 21 Jul 2016 17:00:10 -0700"
 number: 6
 type: "EVENT"
+venue: "WAAP"
 summary: "WAAP | Stairwell: Scott Billings and Josh Hit | JUL 27"
 ---
 

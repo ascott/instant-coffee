@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 31
 type: "FUNDRAISER"
+venue: "The HiVE"
 summary: "The HiVE | film screening for Unist'ot'en | 630-930 PM | MAR 1"
 ---
 

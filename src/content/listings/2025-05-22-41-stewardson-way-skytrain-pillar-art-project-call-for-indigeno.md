@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 41
 type: "CALL"
+venue: "Stewardson Way: SkyTrain Pillar Art Project"
 summary: "Stewardson Way: SkyTrain Pillar Art Project | Call for Indigenous Artists | JUL 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thirty three and a third % brighte
 emailDate: "Thu, 05 Jun 2008 08:20:36 -0700"
 number: 16
 type: ""
+venue: "Jan van Eyck Academie"
 summary: "Jan van Eyck Academie | Design Negation | The Netherlands | JUN 15"
 ---
 

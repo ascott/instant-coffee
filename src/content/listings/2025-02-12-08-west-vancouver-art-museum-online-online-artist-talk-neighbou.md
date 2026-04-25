@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 8
 type: "TALK"
+venue: "West Vancouver Art Museum [ONLINE]"
 summary: "West Vancouver Art Museum [ONLINE] | Online Artist Talk: Neighbours | 7PM | FEB 13"
 ---
 

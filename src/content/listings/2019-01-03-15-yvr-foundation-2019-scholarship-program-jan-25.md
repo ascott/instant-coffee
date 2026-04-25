@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GET WITH IT"
 emailDate: "Thu, 03 Jan 2019 09:00:40 -0800"
 number: 15
 type: "CALL"
+venue: "YVR Foundation"
 summary: "YVR Foundation | 2019 Scholarship Program | JAN 25"
 ---
 

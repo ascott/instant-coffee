@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 14
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Leg-In-Boot Square | PIONEERS IN CINEMA LAUNCHES IN LEG-IN-BOOT SQUARE | JUL 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 33
 type: "CALL"
+venue: "Salt Lake City Arts Council"
 summary: "Salt Lake City Arts Council | Regent Street Public Art Project | JUN 20"
 ---
 

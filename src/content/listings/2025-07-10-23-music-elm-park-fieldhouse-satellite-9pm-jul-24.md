@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 23
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Elm Park Fieldhouse | SATELLITE | 9PM | JUL 24"
 ---
 

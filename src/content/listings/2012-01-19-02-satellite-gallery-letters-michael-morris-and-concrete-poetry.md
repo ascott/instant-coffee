@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 2
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | LETTERS: MICHAEL MORRIS AND CONCRETE POETRY | JAN 19"
 ---
 

@@ -446,7 +446,7 @@ Georgetown University Gallery in Washington D.C. and the
 University of
 Maine Museum of Art in Orono, Maine.
 
-Ã¢ï¿½ï¿½An interest in the use of symbolic personal objects to 
+â��An interest in the use of symbolic personal objects to 
 create visual
 narratives has been a constant thread throughout the work by 
 Torrie
@@ -457,12 +457,12 @@ traditional
 and non-traditional approaches to creating prints. The concepts 
 of identity
 and representation are present in each work signifying 
-GroeningÃ¢ï¿½ï¿½s interest
+Groeningâ��s interest
 in exploring her own identity and the multiplicity of meaning 
 that objects
 may symbolize in relation to one another and within the 
 context of each
-digital collage.Ã¢ï¿½ï¿½ says the exhibitionÃ¢ï¿½ï¿½s curator 
+digital collage.â�� says the exhibitionâ��s curator 
 Darrin Martens.
 
 An opening reception will be held Saturday, September 13, 
@@ -481,7 +481,7 @@ required).
 * Artist Talk on Sunday, September 21, 5-6:30 p.m. free of 
 charge.
 
-For more information about the GalleryÃ¢ï¿½ï¿½s exhibits, 
+For more information about the Galleryâ��s exhibits, 
 programs, tours or
 registration call 604.297.4422 or visit burnabyartgallery.ca.
 

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 6
 type: ""
+venue: "WAAP"
 summary: "WAAP | HOWIE TSUI | NOV 8"
 ---
 
 HOWIE TSUI
 CELESTIALS OF GOLD MOUNTAIN
 Opens FRIDAY, November 8, 2013 (please note: not Thurs, Nov 7) 7-9 p.m.
-Runs Nov 8 â€“ Dec 21, 2013
+Runs Nov 8 – Dec 21, 2013
 
 WAAP
 528-2050 Scotia St.
@@ -37,7 +38,7 @@ Stauffer Prize (2005) from the Canada Council for most outstanding young
 artist. His work is in private collections, the Canada Council Art Bank, City of 
 Ottawa, Ottawa Art Gallery, and Centre d'exposition de Baie-Saint-Paul. Solo 
 exhibits include the Carleton University Art Gallery, Ace Art Inc (Winnipeg), 
-MontrÃ©al arts interculturels, Centre A, Agnes Etherington Art Centre 
+Montréal arts interculturels, Centre A, Agnes Etherington Art Centre 
 (Kingston), with group engagements at the West Vancouver Museum, Boston 
 University School of Fine Arts, Art Institute of Chicago and the Asian Art 
 Museum of San Francisco. His work has been featured in Border Crossings, 

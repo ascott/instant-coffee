@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | DOXA x XINEMA: Eastern Anthems | 830PM | MAY 11"
 ---
 

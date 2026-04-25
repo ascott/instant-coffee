@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 4
 type: "OPENING"
+venue: "AVENUE"
 summary: "AVENUE | (SCBA) Self-Contained Breathing Apparatus | NOV 14"
 ---
 
@@ -43,7 +44,7 @@ nowhere except snugly into this indent in the wall, four pocket fans (blue
 and yellow) with fresh AA batteries, bottled essence of a basketball
 lay-up, two window frames for those summer breezes (error: currently not
 summer), bright laundry wires with clippers, dripping wet clothes
-(underwears welcome), 1 balloon, download bar stuck at 20.95% â€” but thatâ€™s
+(underwears welcome), 1 balloon, download bar stuck at 20.95% — but that’s
 all we need right now.
 
 Now do a sniff test of your environment; it is far from spoiled.

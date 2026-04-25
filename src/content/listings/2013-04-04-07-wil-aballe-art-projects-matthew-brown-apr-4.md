@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 7
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | MATTHEW BROWN | APR 4"
 ---
 
@@ -22,7 +23,7 @@ Toronto-based painter Matthew Brown.
 book called "Our Universe"; it was full of mind-blowing colour illustrations of
 the surfaces of other planets, and of terrifying speculative renderings of what
 creatures would be capable of inhabiting them. When I first saw Matthew
-Brownâ€™s paintings, they brought the same strange feelings I received from 
+Brown’s paintings, they brought the same strange feelings I received from 
 the
 book flooding back to me. Originating in tiny abstract line drawings, Brownâ
 €™s
@@ -51,4 +52,4 @@ exhibition, "Relax a little; one of your most celebrated nervous tics will be
 your undoing" at Narwhal Art Projects, Toronto curated by Jon Davies and
 Kristin Weckworth.
 
-Artistâ€™s website: www.birthdaycakeisland.com
+Artist’s website: www.birthdaycakeisland.com

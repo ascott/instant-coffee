@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 6
 type: "OPENING"
+venue: "Nanaimo Art Gallery"
 summary: "Nanaimo Art Gallery | Silva Part I: O Horizon | SEP 3"
 ---
 

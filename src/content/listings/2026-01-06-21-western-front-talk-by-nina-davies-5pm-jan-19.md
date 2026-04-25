@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 21
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Talk by Nina Davies | 5PM | JAN 19"
 ---
 

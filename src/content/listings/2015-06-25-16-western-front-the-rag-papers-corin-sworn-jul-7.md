@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 16
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | The Rag Papers - Corin Sworn | JUL 7"
 ---
 
@@ -12,7 +13,7 @@ Western Front
 The Rag Papers
 Exhibition by Corin Sworn
 Opening Reception: July 7 @ 7:00pm
-Exhibition Dates: July 2 â€“ August 2, 2015
+Exhibition Dates: July 2 – August 2, 2015
 
 Western Front Media Arts presents a solo exhibition of The Rag Papers, by
 the Canadian, Glasgow-based artist Corin Sworn. This month-long

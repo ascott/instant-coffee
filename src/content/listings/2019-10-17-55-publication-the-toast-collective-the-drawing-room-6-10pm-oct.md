@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 55
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | The Toast Collective | The Drawing Room | 6-10PM | OCT 24"
 ---
 

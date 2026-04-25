@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 21
 type: "EVENT"
+venue: "Audain Gallery at the SCA"
 summary: "Audain Gallery at the SCA | Andrea Valentine-Lewis: Curating in Collaboration | NOV 15"
 ---
 

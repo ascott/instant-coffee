@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 15
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | Bridget Moser: Freak on a Leash | JUN 16"
 ---
 

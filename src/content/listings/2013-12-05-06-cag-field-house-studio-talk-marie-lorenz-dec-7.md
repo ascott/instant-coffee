@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: This May Be for Forever"
 emailDate: "Thu, 05 Dec 2013 11:40:18 -0800"
 number: 6
 type: ""
+venue: "CAG, Field House Studio"
 summary: "CAG, Field House Studio | Talk: Marie Lorenz | DEC 7"
 ---
 

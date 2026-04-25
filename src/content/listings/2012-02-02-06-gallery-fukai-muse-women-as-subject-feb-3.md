@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 6
 type: ""
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | (M)use. Women As Subject | FEB 3"
 ---
 
@@ -39,12 +40,12 @@ historical â€œgreat menâ€  of art and literature.
 
 Pennylane Shen is currently the associate curator of Elliott Louis Gallery and 
 has been the curator of Jacana Contemporary Art Gallery in Vancouver. She 
-holds a Masterâ€™s Degree in Visual Culture Theory from New York University and 
+holds a Master’s Degree in Visual Culture Theory from New York University and 
 teaches in the photography department at Langara College. An avid supporter of 
 community arts and culture, she is also active in several non-profit 
-organizations such as the Art for Life annual art auction, New Yorkâ€™s 
+organizations such as the Art for Life annual art auction, New York’s 
 International Asian Film Festival and the Vancouver Asian Film Festival. In 
-Vancouver, Pennylane manages the figurative artistsâ€™ collective Phantoms in 
+Vancouver, Pennylane manages the figurative artists’ collective Phantoms in 
 the Front Yard, showcasing the work of prominent Vancouver artists and holding 
 monthly lectures on art and criticism.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thirty three and a third % brighte
 emailDate: "Thu, 05 Jun 2008 08:20:36 -0700"
 number: 13
 type: ""
+venue: "CAG"
 summary: "CAG | Max Dean / Samuel Roy-Bois | JUN 12"
 ---
 

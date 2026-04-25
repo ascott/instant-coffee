@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 11
 type: ""
+venue: "Simon Fraser University Gallery"
 summary: "Simon Fraser University Gallery | The Winnipeg Alphabestiary | MAY 5"
 ---
 
@@ -26,7 +27,7 @@ alphabet letters randomly, and asked to match their letter to an animal
 subject.
 
 The alphabestiary format has both a long history and a close 
-association with childrenâ€™s books, assisting children with language 
+association with children’s books, assisting children with language 
 development,in particular learning the alphabet. This process lends 
 itself to the formation of letter and image associations. One defining 
 characteristic that separates humans from animals is language, and yet 

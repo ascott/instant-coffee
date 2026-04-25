@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | NAZANIN OGHANIAN | JULY 25-AUG 14 | JUL 25"
 ---
 

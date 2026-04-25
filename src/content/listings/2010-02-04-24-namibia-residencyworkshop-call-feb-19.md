@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 24
 type: ""
+venue: "Namibia Residency/Workshop"
 summary: "Namibia Residency/Workshop | CALL | FEB 19"
 ---
 

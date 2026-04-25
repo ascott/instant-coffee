@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 45
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Artist's Roundtable w/ Katherine Ylitalo | 1PM | SEP 14"
 ---
 

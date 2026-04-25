@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 28
 type: "CALL"
+venue: "ECLECTIC47"
 summary: "ECLECTIC47 | ECLECTIC Fest: Digital Revolution | MAY 5"
 ---
 

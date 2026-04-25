@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: failure is out of the question"
 emailDate: "Wed, 02 Jul 2008 03:45:17 -0700"
 number: 8
 type: ""
+venue: "Balmoral Scholarships"
 summary: "Balmoral Scholarships | Call for Applications 2009 | JUL 19"
 ---
 

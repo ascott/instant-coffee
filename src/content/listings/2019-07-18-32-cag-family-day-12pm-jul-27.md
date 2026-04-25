@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 32
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | 12PM | JUL 27"
 ---
 

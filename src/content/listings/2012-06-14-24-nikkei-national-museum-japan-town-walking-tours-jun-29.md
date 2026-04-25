@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 24
 type: ""
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Japan Town Walking tours | JUN 29"
 ---
 

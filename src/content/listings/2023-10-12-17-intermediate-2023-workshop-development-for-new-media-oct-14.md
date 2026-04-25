@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 17
 type: "EDUCATION"
+venue: "INTER/MEDIATE 2023"
 summary: "INTER/MEDIATE 2023 | [WORKSHOP] DEVELOPMENT FOR NEW MEDIA | OCT 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 7
 type: "OPENING"
+venue: "Nikkei Museum"
 summary: "Nikkei Museum | Umami: Savouring Artistic Nikkei Identity | 6PM | FEB 13"
 ---
 

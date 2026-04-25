@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 5
 type: "OPENING"
+venue: "Arnica Artist Run Centre, Kamloops"
 summary: "Arnica Artist Run Centre, Kamloops | Light It Up | FEB 6"
 ---
 

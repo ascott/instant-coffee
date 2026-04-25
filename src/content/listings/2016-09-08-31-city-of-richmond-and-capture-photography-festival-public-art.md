@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 31
 type: "CALL"
+venue: "City of Richmond and Capture Photography Festival"
 summary: "City of Richmond and Capture Photography Festival | Public Art Proposals | OCT 3"
 ---
 

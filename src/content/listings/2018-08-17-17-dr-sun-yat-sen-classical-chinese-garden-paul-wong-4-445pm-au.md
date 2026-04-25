@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 17
 type: "TALK"
+venue: "Dr. Sun Yat-Sen Classical Chinese Garden"
 summary: "Dr. Sun Yat-Sen Classical Chinese Garden | Paul Wong | 4 - 445PM | AUG 24"
 ---
 

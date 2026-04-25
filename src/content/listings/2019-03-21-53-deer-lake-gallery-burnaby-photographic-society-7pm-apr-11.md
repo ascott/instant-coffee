@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 53
 type: "OPENING"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Burnaby Photographic Society | 7PM | APR 11"
 ---
 

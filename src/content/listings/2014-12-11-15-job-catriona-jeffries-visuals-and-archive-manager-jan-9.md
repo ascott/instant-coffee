@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 15
 type: ""
+venue: "JOB"
 summary: "JOB | Catriona Jeffries | Visuals and Archive Manager | JAN 9"
 ---
 
 Visuals and Archive Manager at Catriona Jeffries, Vancouver
 
 The gallery is seeking to fill the position of a Visuals and Archive
-Manager. This position oversees all aspects relating to the galleryâ€™s
+Manager. This position oversees all aspects relating to the gallery’s
 archive, visuals and website. The successful candidate would be responsible
 for the digital and physical image and text archive; layout and updating of
-gallery visuals such as artist PDFâ€™s, text PDFâ€™s, design of regular
+gallery visuals such as artist PDF’s, text PDF’s, design of regular
 communication documents , alongside the management and maintenance of the
 gallery website and IT details.
 

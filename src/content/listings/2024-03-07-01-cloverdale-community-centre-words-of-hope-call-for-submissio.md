@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 1
 type: ""
+venue: "Cloverdale Community Centre"
 summary: "Cloverdale Community Centre | Words of Hope | Call for Submissions"
 ---
 

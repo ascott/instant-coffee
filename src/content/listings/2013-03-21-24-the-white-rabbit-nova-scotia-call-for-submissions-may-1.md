@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 24
 type: ""
+venue: "The White Rabbit, Nova Scotia"
 summary: "The White Rabbit, Nova Scotia | Call for Submissions | MAY 1"
 ---
 
@@ -45,7 +46,7 @@ and prepared by qualified chefs.
 Interested artists should submit the following by May 1, 2013:
 
 1. A brief description (max 1 page) of your proposed project while at 
-White Rabbit â€“ please include ideas/concepts you will be exploring, 
+White Rabbit – please include ideas/concepts you will be exploring, 
 materials and any tools that you will need. We encourage projects that 
 are harmonious with the environment, therefore please specify and 
 justify the proposed use of any unnatural materials.

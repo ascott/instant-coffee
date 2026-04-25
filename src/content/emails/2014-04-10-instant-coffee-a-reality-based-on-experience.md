@@ -65,13 +65,13 @@ diverse physical and mental energies. A commitment to form is modeled
 expressively, animated by a subconscious emotive palette. A murky nocturnal 
 narrative emerges as figures co-mingle in secret non-verbal communication, 
 or play a game of chance trying their luck with cards. Terra firmly dissolves, 
-and subtle transformations occur. His faux-naÃ¯ve style works to fuse the 
+and subtle transformations occur. His faux-naïve style works to fuse the 
 decorative arts with references to the historical avant-garde, as figures 
 seem to emerge from the depths by an act of spiritual conjuring.
 
 Charlie Roberts, b.1983 i Kansas, USA. Lives and works in Olso, Norway. 
 Selected solo exhibitions: Kravets Wehby Gallery, New York (2013, 2011, 
-2010, 2008, 2006), David Risley Gallery, KÃ¶penhamn (2013), Richard Heller 
+2010, 2008, 2006), David Risley Gallery, Köpenhamn (2013), Richard Heller 
 Gallery, Santa Monica, USA (2012, 2009, 2008, 2007, 2006), Kunsthal KAdE, 
 Amsterfoort, Holland (2010), Rice Gallery, Texas, USA (2008), Vous Etes Ici, 
 Amsterdam, Holland (2012, 2008, 2007), Galleri Magnus Karlsson, Stockholm 
@@ -90,9 +90,9 @@ Western Front 303 East 8th Avenue
 
 Western Front Curator in Residence Shama Khanna will present a series of 
 films, writing and research related to her ongoing project Flatness. The 
-Flatness project extends from the thematic programme of artistsâ€™ moving 
+Flatness project extends from the thematic programme of artists’ moving 
 image works curated by Khanna at Oberhausen International Short Film 
-Festival in May 2013 entitled, â€˜Flatness: Cinema after the Internetâ€™. Returning to 
+Festival in May 2013 entitled, ‘Flatness: Cinema after the Internet’. Returning to 
 the small screen, in July 2013 Khanna launched the website flatness.eu 
 presenting many of the works from the festival (including programmes by 
 sub-curators Oliver Laric, Anthea Hamilton and Ed Atkins), and research and 
@@ -164,12 +164,12 @@ Vancouver, 1 from Toronto and a 5th from Auckland, New Zealand. This
 spring exhibition will use plant and flora imagery to explore perennial matters 
 such as economic policies, financial crises, the art market and immigration.
 
-Time is simultaneously slowed down and sped up in Sarah Smuts Kennedyâ€™s 
-Principle of Hope, a stop-motion animation described by the artist as a â€˜poetic 
-drama of cause and effectâ€™ that documents the life cycle of six colonies of 
+Time is simultaneously slowed down and sped up in Sarah Smuts Kennedy’s 
+Principle of Hope, a stop-motion animation described by the artist as a ‘poetic 
+drama of cause and effect’ that documents the life cycle of six colonies of 
 chia seedlings, a rediscovered Aztec super food traded as currency and 
 banned by the colonising Spanish. Principle of Hope follows the utopian 
-impulse using the aesthetic strategy of modelling possible â€˜what ifâ€™ scenarios, 
+impulse using the aesthetic strategy of modelling possible ‘what if’ scenarios, 
 in this case the cause and effect implications current global economic policy 
 of growth has on resource use and demand.
 
@@ -186,7 +186,7 @@ experience. Cut flowers bring the essence of the outside inside, through the
 freshness of their blooms, but also the inevitable and necessary degradation 
 of their matter.
 
-Brad Tinmouthâ€™s sculpture, Tulipiere, is derived from his research on 
+Brad Tinmouth’s sculpture, Tulipiere, is derived from his research on 
 Tulipmania. Tulipmania was a brief period of time where Dutch tulip bulbs 
 fueled what is considered the world's first speculative economic bubble. 
 Tulips plagued by a colour breaking virus that caused vibrant streaks of 
@@ -197,13 +197,13 @@ wages of a skilled worker. As tulip price plateaued these contract holders
 found themselves holding highly inflated paper shares of still ungrown bulbs 
 and no clients willing to pay the over-inflated reseller's price. This caused a 
 major crash in the market leaving thousands with nothing but beautiful 
-â€˜brokenâ€™ tulips.
+‘broken’ tulips.
 
 Interestingly, because the price of tulips had risen to such heights, it became 
 such that it was much more affordable to purchase a painting of tulips than it 
 was to buy actual tulips, fueling the art market that resulted in the Golden Age 
 of Dutch painting. Two transmounted cibachrome prints from Christopher 
-Rodriguesâ€™ series of Still Lifes refer to the oil paintings of Dutch masters 
+Rodrigues’ series of Still Lifes refer to the oil paintings of Dutch masters 
 Coenraat Roepel (Still Life with Flowers, 1721) and Rachel Ruysch (Still Life 
 with Flowers on a Marble Tabletop, 1716). The cibachrome medium is an 
 additionally significant choice as the silver particles of the photograph echo 
@@ -213,7 +213,7 @@ painting while "borrowing" pixels of color from images found on the Internet
 using search engines and scanned from his own paintings; he entirely 
 absents the camera from the artistic process.
 
-Sean Alwardâ€™s work utilizes the inherent light sensitivity of plants in order to 
+Sean Alward’s work utilizes the inherent light sensitivity of plants in order to 
 make photo prints. In one body of work, leaf surfaces act as an analogue for 
 photographic paper and chlorophyll assumes the role of silver halide. For his 
 Double Invasive series, the artist took samples of English ivy and Norway 
@@ -249,7 +249,7 @@ graduated from York University. His work deals with sustainable and efficient
 systems. He aims to make everyone as happy as he is. Tinmouth is the Studio 
 Manager for Kent Monkman and was co-director of Butcher Gallery from 
 2009-2013. His work has been shown at Cooper Cole and Nuit Blanche in 
-Toronto, Pierre FranÃ§ois Ouellette art contemporain 221 in Montreal, Esam 
+Toronto, Pierre François Ouellette art contemporain 221 in Montreal, Esam 
 Caen in France, Preteen Gallery in Mexico and Dokfest in German. He has an 
 upcoming solo exhibition at OhMyDays Gallery in Singapore in the summer of 
 2014. http://bradtinmouth.com 
@@ -291,26 +291,26 @@ Gallery of South Australia, Adelaide.www.sarahsmutskennedy.com
 
 AJAY KURIAN
 
-April 12â€“May 24, 2014
+April 12–May 24, 2014
 Opening: Friday, April 11, 8pm
 Artist Talk: Saturday, April 12, 2pm
 
 AJAY KURIAN:
 
-Do you think that Iâ€™m attempting to trace any ghosts?
+Do you think that I’m attempting to trace any ghosts?
 
 KIM NGUYEN:
 
-I donâ€™t know if you are tracing the ghost or if you are collecting, relocating, 
+I don’t know if you are tracing the ghost or if you are collecting, relocating, 
 and generating them. The ghost always exists somewhere in between but is 
 never the original, and I think you are not particularly interested in accuracy 
-even if your work has elements of precision. Itâ€™s not about following the 
+even if your work has elements of precision. It’s not about following the 
 ghosts to a specific end point or in a predetermined manner but rather making 
 the path less finite or elongated.
 
 AK:
 
-Art often feels much more like an encounter of some kind than a thingâ€“an 
+Art often feels much more like an encounter of some kind than a thing–an 
 encounter that can unfold a series of divergent paths, an encounter with a 
 thing that never has as good of a name as the encounter itself.
 
@@ -323,18 +323,18 @@ AK:
 The encounter is something that exists whether we want it to or not. Some 
 days the painting in my bedroom is art. Other days it is decor and stuff on the 
 wall. Some days the Pollock at the Met is art. Other days it is an oversized 
-print that Iâ€™ve seen in too many clichÃ©s. The tradition of much of art from the 
+print that I’ve seen in too many clichés. The tradition of much of art from the 
 20th century is to make us avid and inquisitive in how we address the world 
 around us. Much of it came from out of daily life, asking and sometimes 
 imploring us to look again. Sometimes for beauty, sometimes for savagery, 
 oftentimes a cocktail of the two and many other ingredients. In a way, art kept 
 training us to see differently, to begin to diagnose the world on our own, 
 without its help. After seeing so many Aaron Siskind photographs as a kid, I 
-certainly didnâ€™t look at the marks on the walls the same way. But after I 
-noticed the marks on the walls, Aaron Siskind wasnâ€™t really that compelling 
+certainly didn’t look at the marks on the walls the same way. But after I 
+noticed the marks on the walls, Aaron Siskind wasn’t really that compelling 
 anymore. I realized early that art was not eternal, it was something that 
 mattered sometimes and not in a linear way. I suppose this is what I mean by 
-the encounter. Some encounters donâ€™t go away, but some doâ€”some come 
+the encounter. Some encounters don’t go away, but some do—some come 
 back. Either way, cultural periods allow for different encounters and what 
 that means.
 
@@ -347,23 +347,23 @@ definitions are shifting, contingent on time, circumstance and context, and that
 this fluidity of time, memory, and perception is a bit of a trained exercise. I do 
 not consider art to be eternal and actually have grown so incredibly weary of 
 â€œlegacyâ€  in the past few years for similar reasons. Your perspective is 
-perhaps less cynical than mine. To clarify my initial reaction: letâ€™s say I see a 
-billowing curtain in a window. At some point in my life maybe I think itâ€™s 
+perhaps less cynical than mine. To clarify my initial reaction: let’s say I see a 
+billowing curtain in a window. At some point in my life maybe I think it’s 
 beautiful and poetic in that American Beauty bag in the wind sort of way. And 
-then tomorrow I think itâ€™s just a curtain. And maybe I like that itâ€™s just a curtain, 
-and that there isnâ€™t much more to it, and thatâ€™s okay. I have such a sensitivity 
+then tomorrow I think it’s just a curtain. And maybe I like that it’s just a curtain, 
+and that there isn’t much more to it, and that’s okay. I have such a sensitivity 
 to the colonialist nature of art that maybe I just want certain things in my life to 
 not be defined by it, to somehow exist in parallel but not be in service of. 
-Sometimes I so painfully want a curtain to just be a curtain because if itâ€™s 
+Sometimes I so painfully want a curtain to just be a curtain because if it’s 
 anything more, I may not have much left to give.
 
 AK:
 
 I have a bottle in my studio that has layers of painting medium encrusted 
-within it like layered, golden skins. Every time Iâ€™d use it (when I used to paint) it 
-would crust over and Iâ€™d have to bust its surface to get more out. So you can 
-see all that history in this bottle. Itâ€™s a beautiful object, but I never want it to be 
-artâ€¦
+within it like layered, golden skins. Every time I’d use it (when I used to paint) it 
+would crust over and I’d have to bust its surface to get more out. So you can 
+see all that history in this bottle. It’s a beautiful object, but I never want it to be 
+art…
 
 I named the title of this show â€œTapetum Lucidum.â€  Why do you think that is?
 
@@ -375,7 +375,7 @@ these reflections of light lies the myth of salvation.
 
 AK:
 
-I wonder what the myth of salvation means todayâ€¦
+I wonder what the myth of salvation means today…
 
 LINK
 
@@ -388,20 +388,20 @@ Maybe these are the clouds of salvation?
 KN:
 
 The darkest part of that video for me was how they made a very close mold 
-of the manâ€™s head and then proceeded to erase his face entirely in order to 
-make the mask. Both this mask and Sabbathâ€™s song are like a sad reverse 
+of the man’s head and then proceeded to erase his face entirely in order to 
+make the mask. Both this mask and Sabbath’s song are like a sad reverse 
 Medusa. Are these replicas and surrogates some form of uchronic dream?
 
 There is also a funny uncanny moment in which Letterman is smoking the e-
-cig and I realize that heâ€™s allowed to do it because we have no rules about 
+cig and I realize that he’s allowed to do it because we have no rules about 
 televising the smoking of nicotine water vapour (or when Katherine Heigl 
-stumbled over whether or not she could say she inhaled). Itâ€™s okay because 
+stumbled over whether or not she could say she inhaled). It’s okay because 
 we all believe in the artifice? Is it depressing that we no longer see (or desire 
 to see?) beyond the myth?
 
 AK:
 
-I didnâ€™t know what uchronic meant so I searched for it on Google and was 
+I didn’t know what uchronic meant so I searched for it on Google and was 
 really fascinated by its definition: not a completely fictional time, but one that is 
 maybe an alternative, a hypothetical, still related to our reality but still not ours. 
 Its provenance is also rather interesting.
@@ -422,7 +422,7 @@ AK:
 I curated a show in St. Louis at White Flag Projects about 4 years ago and 
 they have a library upstairs and I thought of creating various plaques for the 
 library: Historical Fiction, Science Fiction, Religious Fiction, Utility Fiction, 
-Platonic Fiction, Bastard Fictionâ€¦the list could go on almost endlessly.
+Platonic Fiction, Bastard Fiction…the list could go on almost endlessly.
 
 KN:
 
@@ -440,7 +440,7 @@ recently had solo exhibitions at 47 Canal in New York and Jhaveri
 Contemporary in India. Recent group shows have been held at Art:Concept, 
 Paris; MoMA PS1, Jack Hanley, New York, and Hannah Barry, London. He 
 presented a performative lecture at the New Museum in 2013 and has 
-organized exhibitions under the heading of Greshamâ€™s Ghost in years past. 
+organized exhibitions under the heading of Gresham’s Ghost in years past. 
 Kurian will be participating in a group show at Carlier Gebauer in Berlin during 
 Berlin Gallery Week in May 2014.
 
@@ -456,10 +456,10 @@ Friday, April 11 7-9 p.m.
 The Burrard Arts Foundation (BAF) is proud to announce the opening of our 
 new non-profit gallery space, BAF Studio, located at 108 East Broadway in 
 Vancouver. The space consists of 3 distinct galleries, showcasing thework 
-of up-and-coming contemporary artists. The galleryâ€™s aim is to provide 
+of up-and-coming contemporary artists. The gallery’s aim is to provide 
 Vancouverites with more opportunities to enjoy contemporary art in 
 Vancouver, and will also serve as a valuable platform for emerging artists to 
-showcase their work. BAF Studio will be open for the publicâ€™s enjoyment 
+showcase their work. BAF Studio will be open for the public’s enjoyment 
 Tuesday through Saturday from 12:00 pm to 5:00 pm, and all of our 
 exhibitions are free. The Official Opening Event takes place on Friday April 
 11, 2014, from 7:00 pm to 9:00 pm. For our opening show, we are working 
@@ -529,18 +529,18 @@ As part of our contribution to the city wide Canadian Art Gallery Hop, this
 year artist Kevin Schmidt will lead a walking tour and discussion of the ideas 
 and themes present in his exhibition.
 
-6:00 P.M.â€“8:00 P.M.
+6:00 P.M.–8:00 P.M.
 CONTEMPORARY ART GALLERY
 TO ATTEND, PLEASE RSVP TO RSVP@CANADIANART.CA
 
 The perfect way to end the Hop day is with a celebration! Join Canadian Art 
 editor Richard Rhodes at the launch of the Spring issue. The event will take 
-place at the Contemporary Art Gallery where you can enjoy Kevin Schmidtâ€™s 
+place at the Contemporary Art Gallery where you can enjoy Kevin Schmidt’s 
 new solo exhibition.
 
 The Spring issue of Canadian Art includes an exploration of the work of Erin 
 Shirreff, who recently had an exhibition at the CAG; a look at the late Arnaud 
-Maggs; Tammi Campbellâ€™s relationship with Frank Stella, Clement Greenberg 
+Maggs; Tammi Campbell’s relationship with Frank Stella, Clement Greenberg 
 and Modernism in general; along with other highlight articles about painter 
 Otto Rogers, sculptor Ron Huebner and multimedia artists Barbara Astman 
 and Julie Favreau.
@@ -560,14 +560,14 @@ Saturday, April 12, 4:30 pm
 This fall, October 31 to November 8, the Kamloops Art Gallery will host 
 Luminocity, a week-long public art project featuring video projection and new 
 media works in public spaces throughout the downtown core of Kamloops. 
-Inspired by public art events such as Nuit Blanche, this will be the KAGâ€™s 
+Inspired by public art events such as Nuit Blanche, this will be the KAG’s 
 inaugural presentation with videos screening in storefronts, in the windows 
 of the TNRD building and the Old Courthouse building. Site specific 
 installations will also be on view at Riverside Park.
 
 Known for exploding the social scene in Vancouver with their Light Bar, 
 Instant Coffee will activate Kamloops through their installations and event-
-based activities throughout the week-long event. Instant Coffeeâ€™s 
+based activities throughout the week-long event. Instant Coffee’s 
 programming allows the social, speculative and actual to play an essential 
 role in the celebration of our past and prospective future.
 
@@ -585,7 +585,7 @@ Education and Public Programs Coordinator
 ehope@kag.bc.ca
 
 KAMLOOPS ART GALLERY
-101 â€“ 465 Victoria Street
+101 – 465 Victoria Street
 Kamloops BC V2C 2A9
 250-377-2400
 www.kag.bc.ca
@@ -625,20 +625,20 @@ W: http://centre.nikkeiplace.org/j_nishihata_exhibit/
 Admission by donation
 Parking free
 
-Pioneer, visual poet, and prolific filmmaker, Jesse Nishihata (1929 â€“ 2006) 
+Pioneer, visual poet, and prolific filmmaker, Jesse Nishihata (1929 – 2006) 
 paved the way for many artists who have followed and has directly inspired 
-leaders in the creative community today. Jesseâ€™s extensive filmography 
+leaders in the creative community today. Jesse’s extensive filmography 
 began with hipster journalistic work covering Mods and Rockers in 1964 for 
-CBCâ€™s Other Voices Series. Several critical productions for CBCâ€™s Public 
+CBC’s Other Voices Series. Several critical productions for CBC’s Public 
 Affairs followed between 1966 through 1978. In 1977 he earned a Genie 
 award for his seminal work, The Inquiry Film which was a precedent 
 shattering examination of Native rights and economic development in 
-Canadaâ€™s North. Jesseâ€™s first film about the Japanese Canadian WWII 
+Canada’s North. Jesse’s first film about the Japanese Canadian WWII 
 experience Watari Dori: Bird of Passage (1973) was framed around his own 
 family history and in 1989 he produced a video record of the Japanese 
 Canadian fight for Redress in Justice in Our Time: how Redress was won. In 
 this retrospective exhibition, visitors will have an opportunity to select through 
-several films from Jesseâ€™s oeuvre in an atmosphere of a private screening. 
+several films from Jesse’s oeuvre in an atmosphere of a private screening. 
 Exhibition continues to May 4, 2014. Museum open Tuesday - Sunday 11am - 
 5pm.
 
@@ -669,12 +669,12 @@ fly.
 Germaine Koh is a Canadian visual artist based in Vancouver. Her 
 conceptually-generated work is concerned with the significance of everyday 
 actions, familiar objects and common places. Her exhibition history includes 
-the BALTIC Centre (Newcastle), De Appel (Amsterdam), MusÃ©e d'art 
-contemporain de MontrÃ©al, Para/Site Art Space (Hong Kong), Frankfurter 
+the BALTIC Centre (Newcastle), De Appel (Amsterdam), Musée d'art 
+contemporain de Montréal, Para/Site Art Space (Hong Kong), Frankfurter 
 Kunstverein, Bloomberg SPACE (London), The Power Plant (Toronto), Seoul 
 Museum of Art, Artspace (Sydney), The British Museum (London), the 
 Contemporary Art Gallery (Vancouver), Plug In ICA (Winnipeg), Art Gallery of 
-Ontario (Toronto), and the Liverpool, Sydney and MontrÃ©al biennials. Koh was 
+Ontario (Toronto), and the Liverpool, Sydney and Montréal biennials. Koh was 
 a recipient of the 2010 VIVA Award, and a finalist for the 2004 Sobey Art 
 Award.
 
@@ -686,13 +686,13 @@ April 12 to June 15 | Opening Reception - April 12, 7 30 - 9 30pm
 Artist s Talk with Ali Kazimi - April 12, 6 30pm
 
 Marking the 100th anniversary of the Komagata Maru episode, Surrey Art 
-Galleryâ€™s group exhibition Ruptures in Arrival - Art in the Wake of the 
+Gallery’s group exhibition Ruptures in Arrival - Art in the Wake of the 
 Komagata Maru brings together for the first time a cross-section of visual art 
 related to this history, and presents these works alongside art that 
-addresses more recent histories of mass migration from Asia to Canadaâ€™s 
-West Coast. Ten artists from Canada and India contribute works â€“ in a wide 
+addresses more recent histories of mass migration from Asia to Canada’s 
+West Coast. Ten artists from Canada and India contribute works – in a wide 
 range of media including painting, drawing, photography, sculpture, 3D film, 
-and installation art â€“ that explore history s relationship to memory, mass media 
+and installation art – that explore history s relationship to memory, mass media 
 s affects on personal experience, the creative use of fact and fiction, and the 
 visual narratives of transpacific mass migration. Over the course of the 
 exhibition, events such as artist s talks, film screenings, tours, Family Day, 
@@ -703,10 +703,10 @@ Admission to this exhibition is by donation.
 
 The Komagata Maru was a Japanese steamship that sailed to Vancouver in 
 1914, carrying 376 passengers from Punjab, India. Only 23 passengers were 
-allowed to land, and following 2 months of detention in Vancouverâ€™s harbour 
+allowed to land, and following 2 months of detention in Vancouver’s harbour 
 the ship was forced to return to India. The Komagata Maru episode has come 
 to reflect a troubling moment in Canadian history when the federal 
-governmentâ€™s discriminatory immigration policies coincided with widespread 
+government’s discriminatory immigration policies coincided with widespread 
 racism among mainstream Canadian society. The episode had tragic 
 consequences for many individuals. It has become an important locus for 
 conversations on Canadian history, identity, and citizenship. The Ruptures in 
@@ -724,32 +724,32 @@ route of the Komagata Maru and its passengers journey from Asia to Canada
 and back again. Toronto filmmaker and new media artist Ali Kazimi has 
 created a new immersive 3D film installation that presents a series of 
 vignettes about everyday life for South Asian Canadians on shore during the 
-time of the Komagata Maru s detention in Vancouverâ€™s harbour. Surrey-based 
+time of the Komagata Maru s detention in Vancouver’s harbour. Surrey-based 
 artist Jarnail Singh will present the newest and largest in a series of paintings 
 he has been working on about the Komagata Maru episode. Evan Lee, a 
 Vancouver-based artist, has created a new set of inkjet prints using 3D 
 digital modelling based on press photography from the arrival of two boats to 
-Canadaâ€™s West Coast: the MV Ocean Lady from Sri Lanka in 2009, and the 
-MV Sun Sea from Chinaâ€™s Fujian province in 1999.
+Canada’s West Coast: the MV Ocean Lady from Sri Lanka in 2009, and the 
+MV Sun Sea from China’s Fujian province in 1999.
 
 Surrey Art Gallery gratefully acknowledges the financial assistance of City of 
 Surrey, BC Arts Council, Canada Council for the Arts, Government of Canada 
 through the Department of Canadian Heritage, and Vancouver Foundation.
 
 Ruptures in Arrival: Art in the Wake of the Komagata Maru is presented in 
-partnership with Komagata Maru 1914 â€“ 2014: Generations, Geographies and 
+partnership with Komagata Maru 1914 – 2014: Generations, Geographies and 
 Echoes, a collaboration between eight organizations across Metro 
 Vancouver that are presenting events and exhibitions related to the living 
 legacies of the Komagata Maru episode. www.komagatamaru100.com
 
-Exhibition Launch with Artistâ€™s Talk and Opening Reception
+Exhibition Launch with Artist’s Talk and Opening Reception
 Ruptures in Arrival: Art in the Wake of the Komagata Maru launches on April 
-12 with an artistâ€™s talk at 6:30pm, followed by an opening reception from 
+12 with an artist’s talk at 6:30pm, followed by an opening reception from 
 7:30pm to 9:30pm (formal remarks at 7:45pm). Toronto-based artist Ali Kazimi 
 will give an illustrated talk about his art practice, major works, and the context 
 for his work on display in the exhibition. There is another event taking place 
 on this evening, so visitors are encouraged to arrive early in order to find 
-parking. Admission to the opening reception and artistâ€™s talk is free (donations 
+parking. Admission to the opening reception and artist’s talk is free (donations 
 are gratefully received).
 
 Also on exhibit is BogScape, a sound art installation inspired by Burns Bog by 
@@ -758,7 +758,7 @@ Sonorous Kingdom, an exhibition that addresses the relationship between
 sound and vegetation.
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 Canada
 V3W 3L1
@@ -773,7 +773,7 @@ WHY ART AND ACTIVISM GOES BETTER TOGETHER THAN OIL AND WATER
 
 The Pipeline Ends Here
 
-The Peopleâ€™s Procession Against the Pipelines
+The People’s Procession Against the Pipelines
 
 Gabriel Saloman and Burnaby Residents Opposing Kinder Morgan Expansion 
 (BROKE)
@@ -790,26 +790,26 @@ proposed pipeline route in Burnaby. After approaching Burnaby Residents
 Opposing Kinder-Morgan Expansion (BROKE) to collaborate, that humble walk 
 has become a whole lot more than anyone expected. The result of months of 
 research, workshops, planning and outreach will be evident on Saturday, 
-April 12 when the Peopleâ€™s Procession & Rally Against the Pipelines snakes 
+April 12 when the People’s Procession & Rally Against the Pipelines snakes 
 its way through Burnaby neighborhoods that are directly effected by the 
 TransMountain pipeline, tank farm and refinery.
 
-The Peopleâ€™s Procession will begin at 10:00am with an opening ceremony in 
+The People’s Procession will begin at 10:00am with an opening ceremony in 
 Forest Grove Park. The walkers will follow the existing Kinder-Morgan 
 pipeline route heading west, stopping briefly for a rest in Squint Lake Park, 
 before winding its way north to where a large rally will take place at 1:00pm 
 in Westridge Park, near the site of 2007′s massive pipeline rupture. The rally 
 will feature music, speakers (including Burnaby MP Kennedy Stewart, Ben 
 West of Forest Ethics and others), poetry, comedy and more. From there the 
-procession will conclude itâ€™s journey to Westridge Marine Terminal, â€œthe end 
+procession will conclude it’s journey to Westridge Marine Terminal, “the end 
 of the lineâ€  for tar sands shipments before they are put on tankers and sent 
 abroad. As walkers arrive, a flotilla of boats, canoes and kayaks organized 
 by North Shore NOPE will be making noise on the Burrard Inlet.
 
 Saloman was commissioned to create a performative public walk as part of 
 Unit/Pitt Projectsâ€™ â€œCollective Walks/Spaces of Contestationâ€  exhibition, curated 
-by Mariane Bourcheix-Laporte. The Vancouver galleryâ€™s exhibition which 
-runs from March 22 â€“ May 3, with a reception on Friday, April 18, is an 
+by Mariane Bourcheix-Laporte. The Vancouver gallery’s exhibition which 
+runs from March 22 – May 3, with a reception on Friday, April 18, is an 
 access point to 3 other walks co-created by the invited artists and a 
 community groups of their choosing. Collaborations include Lauren Marsden 
 and the Vancouver Public Library; Didier Morelli and the Britannia Outreach 
@@ -818,26 +818,26 @@ adventures every Sunday for the duration of the exhibition.
 
 The Peopleâ€™s Procession was imagined by Saloman as a â€œcounter-mapâ€  as a 
 response to the maps provided by Kinder-Morgan and the Federal 
-Government. Speaking about the Peopleâ€™s Procession, Saloman has said â€œI 
+Government. Speaking about the People’s Procession, Saloman has said “I 
 wanted to create a map that showed the real lives that are affected by this 
 project; a map that could be a different kind of educational tool. By making this 
 map with our bodies, moving through space, the participants carry the 
-knowledge with them and the tools to share it with others â€“ they simply have 
+knowledge with them and the tools to share it with others – they simply have 
 to go for walk.â€  In addition to the Peopleâ€™s Procession, Saloman is creating a 
 printed map of the Burnaby pipeline network that includes oral histories; 
 recent and archival photos; and the streets, green spaces and waterways 
 affected by the pipeline.
 
-For Saloman, there was no question of whether Art and Activism could mix. â€œI 
+For Saloman, there was no question of whether Art and Activism could mix. “I 
 know that artists have a way of seeing the world, of understanding how 
 moving and affecting images are created, that is both similar and different to 
 how activists see things. I wanted to see if a protest created from the 
-perspective of artists might create something different than what weâ€™re used 
+perspective of artists might create something different than what we’re used 
 to seeing, but still be very effective. Luckily BROKE immediately understood 
-that Art could speak to people in unique ways and theyâ€™ve been fantastic 
+that Art could speak to people in unique ways and they’ve been fantastic 
 collaborators.â€ 
 
-The Peopleâ€™s Procession & Rally Against the Pipeline will begin at 10:00 am in 
+The People’s Procession & Rally Against the Pipeline will begin at 10:00 am in 
 Forest Grove Park and culminate in a rally at 1:00pm in Westridge Park. The 
 North Shore Flotilla will be meeting at Whey-a-Chen/Cates Park at 2:00pm and 
 head out at 2:30pm.
@@ -845,11 +845,11 @@ head out at 2:30pm.
 For more information, follow these links:
 Unit/Pitt Projects: www.unitpitt.ca
 
-The Peopleâ€™s Procession & Rally: http://www.burnabypipelinewatch.ca
+The People’s Procession & Rally: http://www.burnabypipelinewatch.ca
 
 The North Shore Flotilla: http://nsnope.org
 
-Spaces of Contestation is supported through the BC Arts Councilâ€™s Arts-
+Spaces of Contestation is supported through the BC Arts Council’s Arts-
 Based Community Development Program and by the Hamber Foundation. The 
 accompanying speaker series is co-presented by UNIT/PITT, the SFU Vancity 
 Office of Community Engagement and the SFU Institute for the Humanities.
@@ -903,7 +903,7 @@ Vancouver, BC V5T 1A6
 www.winsorgallery.com
 info@winsorgallery.com
 
-Open Tues â€“ Fri, 10-6pm
+Open Tues – Fri, 10-6pm
 Saturdays 10-5pm
 or by appointment
 
@@ -929,15 +929,15 @@ cultural, sociological and anthropological perspectives within a new social
 and economic reality that has made itself evident in Cuba during the past 
 decade. 
 
-Co-produced with Bildmuseet, UmeÃ¥ University, Sweden the exhibition will 
-run in UmeÃ¥ from February 8 to April 19, 2015.
+Co-produced with Bildmuseet, Umeå University, Sweden the exhibition will 
+run in Umeå from February 8 to April 19, 2015.
 
 Catalogue Release
 
 The exhibition is accompanied by a 128-page fully illustrated book, co-
 published with Black Dog Publishing of London, featuring essays by exhibition 
 curators Antonio Eligio (Tonel) and Keith Wallace, as well as writing by Cecilia 
-Andersson from Bildmuseet, UmeÃ¥ University. The essays provide a 
+Andersson from Bildmuseet, Umeå University. The essays provide a 
 contextual account of Cuban art during the past three decades, as well as 
 carefully tracing the current perspectives on some of the work and issues 
 that have emerged in Cuba during the past decade. The artists represented 
@@ -945,11 +945,11 @@ share a new engagement with the current socio-economic and political
 changes taking place in Cuba, and the underlying anticipation about what the 
 future will bring.
 
-In his essay, Wallace writes: â€œThe Spaces Between focuses on a particular 
+In his essay, Wallace writes: “The Spaces Between focuses on a particular 
 city in a specific national context and affords a tangible sense of Havana, the 
 challenges it faces, and the artistic strategies at play. But we are reminded 
-that deficitsâ€”social, political, or otherwiseâ€”similar to those in Havana arise 
-in other parts of the world as well, and give pause to think about oneâ€™s own 
+that deficits—social, political, or otherwise—similar to those in Havana arise 
+in other parts of the world as well, and give pause to think about one’s own 
 circumstances. Are not all social and political systems struggling in some 
 way, and are we not waiting for things to change?â€ 
 
@@ -965,14 +965,14 @@ More about the exhibition
 
 The title for the exhibition and accompanying book, The Spaces Between, 
 emerged from the receptive spaces that exist between the artwork and its 
-viewer, the anticipatory spaces between Cubaâ€™s actual past and its imagined 
+viewer, the anticipatory spaces between Cuba’s actual past and its imagined 
 future, and the ambiguous spaces between language and its ability to 
 communicate clearly or truthfully. The exhibition features some seventy 
 works, including drawings, paintings, prints, photographs and videos, by 
 fourteen artists: Juan Carlos Alom, Javier Castro, Sandra Ceballos Obaya, 
-Celia - Yunior, Ricardo G. ElÃ­as, Luis GÃ¡rciga Romay, Luis GÃ³mez 
-Armenteros, JesÃºs Hdez-GÃ¼ero, Ernesto Leal, Glenda LeÃ³n, Eduardo PonjuÃ¡n 
-GonzÃ¡lez, Grethell RasÃºa, LÃ¡zaro Saavedra GonzÃ¡lez and Jorge Wellesley.
+Celia - Yunior, Ricardo G. Elías, Luis Gárciga Romay, Luis Gómez 
+Armenteros, Jesús Hdez-Güero, Ernesto Leal, Glenda León, Eduardo Ponjuán 
+González, Grethell Rasúa, Lázaro Saavedra González and Jorge Wellesley.
 
 The artists in the exhibition are cross-generational; some have international 
 reputations while others are younger and not so well known abroad. Some of 
@@ -984,16 +984,16 @@ internal political agenda and lack of physical access to the outside world for
 most of its citizens, tends towards an introverted and a self-conscious sense 
 of identity within a global context. The artists in The Spaces Betweenare 
 exploring ways of articulating this phenomenon both through direct social 
-engagement and through practices carried out in the privacy of oneâ€™s studio.
+engagement and through practices carried out in the privacy of one’s studio.
 
 The Spaces Between is the first major exhibition in Vancouver of art from 
 Cuba since Utopian Territories that took place in seven galleries in 1997. The 
 exhibition is curated by Antonio Eligio (Tonel) and Keith Wallace and co-
 produced by the Morris and Helen Belkin Art Gallery, University of British 
-Columbia, and Bildmuseet, UmeÃ¥ University, with support from The Canada 
+Columbia, and Bildmuseet, Umeå University, with support from The Canada 
 Council for the Arts.
 
-â€”
+—
 
 For more information contact: 
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
@@ -1100,16 +1100,16 @@ Wednesday April 16, 2014 at 5pm
 READ Books
 
 READ Books and Theory Island Press are pleased to invite you to the launch 
-of â€˜Open Wide: An Abecedarium for the Great Digestive Systemâ€™ an 
+of ‘Open Wide: An Abecedarium for the Great Digestive System’ an 
 electronic book by Randy Lee Cutler. Designed by Celeste Martin, this e-book 
 includes work by Marina Roy, Abbas Akhavan, Liz Magor, Geoffrey Farmer 
 and Graham Meisner.
 
-â€˜Open Wideâ€™ brings together writing, images and music that reflect a 
+‘Open Wide’ brings together writing, images and music that reflect a 
 fascination for digestion as a metaphor for experience. Assembling her 
 interests in writing, curating and contemporary art Cutler has obsessively 
 followed the looping trajectory of metabolism expanding the topic beyond its 
-conventional implications. â€˜Open Wideâ€™ presents an imaginative and unusual 
+conventional implications. ‘Open Wide’ presents an imaginative and unusual 
 collection of writing and images, an ABC primer that is an alphabet guide to 
 bodily rhythms, chemical reactions and aesthetic transformations that 
 encompass visual art, cinema, ecology, biology and philosophical meditations.
@@ -1124,7 +1124,7 @@ screenings of her experimental videos; Kitchen Semiotics (12th Seoul
 International New Media Festival) and Alimentary Passage (Arsenal Gallery, 
 Berlin) and performances, SaltWalks: Three Movements, (Access Gallery, 
 Vancouver) Ask me About Salt (Visualeyez Performance Art Festival) and 
-Hors dâ€™oeuvres (Fuse, Vancouver Art Gallery). She has authored numerous 
+Hors d’oeuvres (Fuse, Vancouver Art Gallery). She has authored numerous 
 essays published in catalogues and by C magazine, The Fillip Review , Texte 
 zur Kunst , Canadian Art , Artspeak Gallery and the Vancouver Art Gallery.
 
@@ -1150,16 +1150,16 @@ A special project at Satellite Gallery
 Satellite Gallery invites four first year Master of Fine Arts (MFA) students 
 from the Department of Art History, Visual Art and Theory at the University of 
 British Columbia to create an experimental, site responsive collaboration using 
-the Galleryâ€™s exhibition spaces. Artists Eric Angus, Jamey Braden, Anyse 
+the Gallery’s exhibition spaces. Artists Eric Angus, Jamey Braden, Anyse 
 Ducharme and Jessica Gnyp embark on a unique investigation that invites 
 visual risk taking and will result in the unexpected. The Gallery will maintain its 
 regular gallery hours during this process to invite the public to witness and 
 participate in the unfolding of this work. The artists will be working and 
-collaborating in the Gallery from April 16, [Wed â€“ Sat, noon â€“ 6 pm], and 
+collaborating in the Gallery from April 16, [Wed – Sat, noon – 6 pm], and 
 culminating in a closing event on May 2, from 7pm to 10pm. 
 
 When asked to occupy the Satellite Gallery for a period of three weeks with 
-only the mandate to produce work collaboratively, the artists said, â€œWe found 
+only the mandate to produce work collaboratively, the artists said, “We found 
 ourselves momentarily frozen, faced with the great unknown of what, how, 
 and who might come out of such an experimental framework: occupying a 
 gallery in an attempt to create generative work together.â€  They continue, â€œThe 
@@ -1168,17 +1168,17 @@ predicting what elephants and dolphins might naturally create together,
 knowing only that they are both mammals, have grey skin, and do not speak 
 the same language.â€ 
 
-Using Satellite Galleryâ€™s distinctive site above Club FiveSixty as a point of 
+Using Satellite Gallery’s distinctive site above Club FiveSixty as a point of 
 departure, the Club becomes a site to respond to within the Gallery, an 
 embodied place to research, a historical institution about which to learn, a 
 fantasy place on which to project thoughts, feelings and creative imaginings. 
-The artists share a particular interest in looking at the Galleryâ€™s site using a 
+The artists share a particular interest in looking at the Gallery’s site using a 
 multitude of digital and sculptural processes, documenting the afterhours 
 soundscape that engulfs the Gallery, and creating a parallel night club 
 through physical, material play.
 
 Extended Party Mix 
-Dates: April 16 â€“ May 2, 2014
+Dates: April 16 – May 2, 2014
 Closing Reception: May 2 | 7:00pm to 10:00pm
 Venue: Satellite Gallery | 560 Seymour, 2nd Floor, Vancouver, BC V6B 3J5 
 Website: www.satellitegallery.ca
@@ -1186,7 +1186,7 @@ Website: www.satellitegallery.ca
 For More Information Contact:
 Karen Benbassat Ali I T. 604.681-8425 | karen@satellitegallery.ca
 
-This project is made possible with support from the Michael Oâ€™Brian Family 
+This project is made possible with support from the Michael O’Brian Family 
 Foundation and the Department of Art History, Visual Art and Theory at UBC 
 in collaboration with Satellite Gallery. A special thank you to Marina Roy for 
 her dedication and support of this project.
@@ -1223,21 +1223,21 @@ Follow us on Twitter: @MarinateMeUBC
 
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-04-10-21-unitpitt-at-sfu-woodward-kirsty-robertson-capitalist-cocktai">21. UNIT/PITT at SFU Woodward | Kirsty Robertson: Capitalist Cocktails ... | APR 16</a>
 ------------------------------------------------------------------------
-Kirsty Robertson: Capitalist Cocktails and Moscow Mules â€“ Activism in the 
+Kirsty Robertson: Capitalist Cocktails and Moscow Mules – Activism in the 
 Museum and Gallery
 
 Spaces of Contestation Speaker Series, Talk 5
 
 Wednesday April 16, 7pm
 
-World Art Centre at SFU Woodwardâ€™s (149 West Hastings)
+World Art Centre at SFU Woodward’s (149 West Hastings)
 
 Activism in the museum and gallery
 
@@ -1274,7 +1274,7 @@ performances.
 
 The speaker series is co-presented by UNIT/PITT, the SFU Vancity Office of 
 Community Engagement and the SFU Institute for the Humanities. Collective 
-Walks/Spaces of Contestation is supported through the BC Arts Councilâ€™s 
+Walks/Spaces of Contestation is supported through the BC Arts Council’s 
 Arts-Based Community Development Program and by the Hamber Foundation.
 
 UNIT/PITT 
@@ -1285,10 +1285,10 @@ UNIT/PITT
 The Young and the Repless: SFU Visual Art BFA Graduating Exhibition
 
 Audain Gallery, Vancouver
-April 17 â€“ April 26
+April 17 – April 26
 
-This April at Audain Gallery, the seventeen students of SFUâ€™s School for 
-Contemporary Artsâ€™ 4th year class present their Graduating Exhibition, The 
+This April at Audain Gallery, the seventeen students of SFU’s School for 
+Contemporary Arts’ 4th year class present their Graduating Exhibition, The 
 Young and the Repless. The title humorously refers to our status as emerging 
 artists who have completed four years of study, but who are without 
 representation or reputations. As we organize our exhibition and make our art 
@@ -1320,21 +1320,21 @@ ON MAIN GALLERY PRESENTS: Thru the Trapdoor!
 Is this email not displaying correctly?
 View it in your browser.
 
-OMG â€“ On Main Gallery presents: THRU THE TRAPDOOR
+OMG – On Main Gallery presents: THRU THE TRAPDOOR
 A major interdisciplinary art event featuring over 50 artists and curators.
 Artistic Director: Paul Wong
 Producer: Rick Erickson
 
-Opening: Tuesday Apr. 22, 8 â€“ 10 PM
-Exhibition: Apr 23 â€“ 25, 12 â€“ 8 PM Free Admission
+Opening: Tuesday Apr. 22, 8 – 10 PM
+Exhibition: Apr 23 – 25, 12 – 8 PM Free Admission
 Performances, Interactive Works, Artist and Curator Talks: Apr 23 - 25, 6-8 
 PM 
-Art Party: Saturday Apr 26, 8PM â€“ 2AM $10 Admission
+Art Party: Saturday Apr 26, 8PM – 2AM $10 Admission
 1965 Main St., Vancouver
 
 Site-specific installations, projections, visuals, sculpture, performance, music, 
 relational experiences, assemblages, constructions, participatory 
-happenings, sound, interactive art, and moreâ€¦
+happenings, sound, interactive art, and more…
 
 Trapdoor is a 5-day exhibition concluding with a monumental closing event. 
 This is the final act and the end of an era for 1965 Main St., an important and 
@@ -1415,21 +1415,21 @@ Trevor Discoe
 Vjeko Sager
 Wynne Palmer
 William Bros 
-AND MOREâ€¦
+AND MORE…
 
 For the closing Art Party on Sat. April 26, we are going all out creating a 
 spectacular experience. Happening in a combined 10,000 sq. ft. of space, the 
 Art Party will include the upstairs, downstairs, and parking lot of 1965 Main 
 St. There will be video mapping on the building exterior, and we will feature 
-an additional lineup of performers, DJâ€™s, musicians, and visual artists for this 
+an additional lineup of performers, DJ’s, musicians, and visual artists for this 
 stellar event.
 
-This is going to be legendary, harking back to the free spirit of 1980â€™s artistsâ€™ 
+This is going to be legendary, harking back to the free spirit of 1980’s artists’ 
 warehouse shows.
 
 Sponsors/participating organizations to date: Bomber Brewing, Cinevolution 
 Media Arts Society, grunt Gallery, Hybridity Media, New Forms Festival, Or 
-Gallery, VANDOCUMENT, VIVO Media Arts Centre, and moreâ€¦
+Gallery, VANDOCUMENT, VIVO Media Arts Centre, and more…
 
 For further information and images, please contact 
 kenneth@onmaingallery.com
@@ -1481,7 +1481,7 @@ Thursday, May 29 to Saturday, June 7, 2014
 
 Arts Health BC (artshealthbc.ca), Judith Marcuse Projects, the International 
 Centre of Art for Social Change (ICASC), the ASC! Project, and the City of 
-Vancouver invite you to join us in the Studio Theatre of Vancouverâ€™s 
+Vancouver invite you to join us in the Studio Theatre of Vancouver’s 
 Performing Arts Lodge (PAL) for a series of events designed to explore aging 
 and the wellbeing of seniors in our communities. All events are free!
 
@@ -1536,13 +1536,13 @@ Vancouver.
 All three bodies of work are portraits - linked by their relation to Asia, 
 globalism, migrations and the plight of the aged. The images speak to us 
 about biological complexity and fragility, while referencing human migration as 
-well as the globalization of foods and medicines. Leeâ€™s drawings of elderly 
-Chinese women in Vancouverâ€™s lanes are paired with stunning high-
+well as the globalization of foods and medicines. Lee’s drawings of elderly 
+Chinese women in Vancouver’s lanes are paired with stunning high-
 resolution scans of anthropomorphic Ginseng roots. 
 
 The Ginseng Roots Studies were made using an ordinary desktop scanner 
 instead of a camera. Each of the 36 roots in this series were found and 
-purchased at a local supermarket. Leeâ€™s drawings were made from 
+purchased at a local supermarket. Lee’s drawings were made from 
 photographs that the artist took of elderly Chinese women walking, working 
 and resting in the streets of east Vancouver. Instead of printing and 
 displaying the original photographs, Lee presents simple pencil drawings as a 
@@ -1553,17 +1553,17 @@ exhibitions include: On the Nature of Things at the Kamloops Art Gallery;
 Again and Again and Again and In Dialogue with Carr at the Vancouver Art 
 Gallery; Triumphant Carrot: the Persistence of Still Life and Playing Homage at 
 the Contemporary Art Gallery; Evan Lee Captures at Presentation House 
-Gallery; Le Mois de la Photo Ã  Montreal; At Play at the Liu Hai Su Museum 
+Gallery; Le Mois de la Photo à Montreal; At Play at the Liu Hai Su Museum 
 (Shanghai) and Curb Appeal at Confederation Centre (Charlottetown).
 
-Evan Leeâ€™s work has been featured and reviewed in Border Crossings, Flash 
+Evan Lee’s work has been featured and reviewed in Border Crossings, Flash 
 Art International, Lapiz International Art Magazine, Yishu Journal of 
 Contemporary Chinese Art, Canadian Art, and Art on Paper. Lee is 
 represented by Monte Clark Gallery in Vancouver. The exhibition is guest 
 curated by Bill Jeffries, former Director/Curator of the SFU Art Gallery.
 
 The opening reception is on Saturday, April 26 from 2:00pm to 4:00pm with an 
-Artistâ€™s tour beginning at 2:30pm. Evan Lee will give a talk on Saturday, May 
+Artist’s tour beginning at 2:30pm. Evan Lee will give a talk on Saturday, May 
 31, 2-3pm. The exhibition continues until June 15, 2014. 
 
 The Richmond Art Gallery gratefully acknowledges the support of the City of 
@@ -1599,11 +1599,11 @@ WE MUST CONFRONT VAGUE IDEAS WITH CLEAR IMAGES
 
 -
 
-A group show exhibiting recent graduates of Emily Carrâ€™s photography 
+A group show exhibiting recent graduates of Emily Carr’s photography 
 program.
 
 Thursday, May 8th 
-7pm â€“ 11pm
+7pm – 11pm
 
 @ INDEX
 1305 Powell St.
@@ -1717,7 +1717,7 @@ INTERNATIONAL RESIDENCY
 
 DETAILS
 
-- The residency takes place at the Darling Foundry in MontrÃ©al
+- The residency takes place at the Darling Foundry in Montréal
 
 - The program accommodates an artist who is from outside of Canada
 
@@ -1744,7 +1744,7 @@ page when the application opens) to the Darling Foundry.
 
 Past recipients:
 2014. Tris Vonna-Michell / 2013. Patty Chang and David Kelley / 2012. Dineo 
-Seshee Bopape / 2011. Yuki Higashino / 2010. Glenda LeÃ³n / 2009. Luis 
+Seshee Bopape / 2011. Yuki Higashino / 2010. Glenda León / 2009. Luis 
 Guerra
 
 This program is funded by The Canada Council for the Arts

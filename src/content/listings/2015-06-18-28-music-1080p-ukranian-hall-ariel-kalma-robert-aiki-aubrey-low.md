@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 28
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | 1080p @ Ukranian Hall | Ariel Kalma + Robert Aiki Aubrey Lowe | AUG 1"
 ---
 
@@ -14,7 +15,7 @@ FACEBOOK EVENT: http://on.fb.me/1TfCElq
 
 Ariel Kalma & Robert Aiki Aubrey Lowe
 LISTEN: http://bit.ly/1FSMiAp
-Four decades since Ariel Kalmaâ€™s debut album, the French-born musician has
+Four decades since Ariel Kalma’s debut album, the French-born musician has
 circulated corners of culture now legend with his entrancing naturalism,
 linking recently with fellow electronic synth voyagers Robert Aiki Aubrey
 Lowe, known for his solo ambience as Lichens and experimental psych band

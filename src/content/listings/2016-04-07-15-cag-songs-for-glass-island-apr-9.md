@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 15
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Songs for Glass Island | APR 9"
 ---
 

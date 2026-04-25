@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 15
 type: "OPENING"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | QUICKIE | 2-5PM, 6-11PM | AUG 11"
 ---
 

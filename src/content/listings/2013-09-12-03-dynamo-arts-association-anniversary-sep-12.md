@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 3
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Anniversary | SEP 12"
 ---
 

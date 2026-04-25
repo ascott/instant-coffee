@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Toronto Outdoor Art Fair"
 summary: "Toronto Outdoor Art Fair | Toronto Online Art Fair | JUL 2"
 ---
 

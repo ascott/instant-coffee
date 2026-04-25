@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 18
 type: "EVENT"
+venue: "Philippine Women Centre of BC"
 summary: "Philippine Women Centre of BC | Sinigang Sundays | MAR 20"
 ---
 

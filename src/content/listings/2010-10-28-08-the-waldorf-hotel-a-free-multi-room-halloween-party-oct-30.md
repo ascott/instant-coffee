@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 8
 type: ""
+venue: "The Waldorf Hotel"
 summary: "The Waldorf Hotel | a free multi-room Halloween party | OCT 30"
 ---
 
@@ -13,7 +14,7 @@ we're throwing a free multi-room Halloween party on Saturday, Oct 30th.
 The event will showcase the entire complex including our newly renovated
 hotel rooms and lobby, two dining areas, a freshly restored 1950s tiki bar
 and both nightclub and banquet spaces (the Cabaret and the Leeteg Room).
-The night is being produced in collaboration with some of Vancouverï¿½s most
+The night is being produced in collaboration with some of Vancouver�s most
 interesting artists and musicians. Full program listing includes:
 
 Performances by Rodney Graham, Animal Bodies and Joyce Collingwood.
@@ -30,14 +31,14 @@ costumes).
 
 Food Selections by the Cafe and Dining Room at the Waldorf.
 
-Throughout the evening Artist Paul Wong will be presenting ï¿½The Hotelï¿½, a
+Throughout the evening Artist Paul Wong will be presenting �The Hotel�, a
 site-specific experience for the Waldorf Hotel that will blur the
 boundaries of public/private space. Participants will wander the hotel
-hallways and enter ï¿½guest roomsï¿½ at their own discretion.
+hallways and enter �guest rooms� at their own discretion.
 
 The Waldorf Hotel is located at 1489 East Hasting. Entrance to the event is
 free but space is limited. If you have received this email and would like
 to attend, please email us at rsvp@waldorfhotel.com
 facebook twitter
-Â©2010 The Waldorf Hotel | www.waldorfhotel.com | 1489 East Hastings St. |
+©2010 The Waldorf Hotel | www.waldorfhotel.com | 1489 East Hastings St. |
 V5L 1S4

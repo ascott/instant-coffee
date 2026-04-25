@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 16
 type: "OPENING"
+venue: "Unit 17 [NEW LOCATION]"
 summary: "Unit 17 [NEW LOCATION] | Gabi Dao - Hold these questions close | 6PM | JAN 18"
 ---
 

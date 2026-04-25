@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 37
 type: "OPENING"
+venue: "Art Gallery at Evergreen (Coquitlam)"
 summary: "Art Gallery at Evergreen (Coquitlam) | Something More than Nothing | NOV 20"
 ---
 

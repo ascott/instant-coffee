@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 19
 type: "OPENING"
+venue: "Alternator Centre for Contemporary Art"
 summary: "Alternator Centre for Contemporary Art | Moozhan Ahmadzadegan | Where Are You Really From? | NOV 20"
 ---
 

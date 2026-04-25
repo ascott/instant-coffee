@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 61
 type: "EVENT"
+venue: "SFU Goldcorp Centre, Studio T"
 summary: "SFU Goldcorp Centre, Studio T | Champion - An immersive theatre game | 730PM | MAY 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 24
 type: "TALK"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Curators Talk: Wanda Nanibush | MAR 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 8
 type: "EDUCATION"
+venue: "UNIT/PITT Garden + Gallery"
 summary: "UNIT/PITT Garden + Gallery | [WORKSHOP] Slow Social Club | 130PM | MAR 16"
 ---
 

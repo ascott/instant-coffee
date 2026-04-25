@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tributaries"
 emailDate: "Fri, 04 Jul 2025 03:00:07 -0700"
 number: 7
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Rebecca La Marre: Craft Parlour | 6PM | JUL 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 44
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Barking Sphinx Performance Society | Vancouver Improvised Music Meeting 2017 | MAR 23"
 ---
 

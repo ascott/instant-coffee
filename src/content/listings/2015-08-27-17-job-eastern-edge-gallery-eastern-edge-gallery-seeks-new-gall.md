@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | Eastern Edge Gallery | Eastern Edge Gallery Seeks New Gallery Director | SEP 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 16
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | ROLANDE SOULIERE | JUL 18"
 ---
 

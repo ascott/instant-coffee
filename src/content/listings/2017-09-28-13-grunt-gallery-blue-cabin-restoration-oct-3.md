@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 13
 type: "TALK"
+venue: "grunt gallery"
 summary: "grunt gallery | Blue Cabin Restoration | OCT 3"
 ---
 

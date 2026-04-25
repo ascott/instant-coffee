@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 30
 type: "CALL"
+venue: "Richmond City Hall Galleria"
 summary: "Richmond City Hall Galleria | open call submission | SEP 22"
 ---
 

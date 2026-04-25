@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 15
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Some Kind of Darkness | SEP 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 14
 type: "EVENT"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | Future Concrete - Book launch/closing party | APR 16"
 ---
 

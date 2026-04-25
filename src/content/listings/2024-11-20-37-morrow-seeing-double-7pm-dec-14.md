@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 37
 type: "EVENT"
+venue: "Morrow"
 summary: "Morrow | SEEING DOUBLE | 7PM | DEC 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee Boils: 95% hotter"
 emailDate: "Thu, 10 Jul 2008 09:30:06 -0700"
 number: 14
 type: ""
+venue: "Hayward Touring"
 summary: "Hayward Touring | Curatorial Call for Proposals | deadline | SEP 8"
 ---
 

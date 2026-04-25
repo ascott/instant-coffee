@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 13
 type: "EVENT"
+venue: "The Western Front"
 summary: "The Western Front | THE FORESHORE LISTENS | 7-9PM | SEP 26"
 ---
 

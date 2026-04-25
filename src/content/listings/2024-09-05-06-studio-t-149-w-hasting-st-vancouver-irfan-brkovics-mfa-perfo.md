@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 6
 type: "PERFORMANCE"
+venue: "Studio T – 149 W. Hasting St., Vancouver"
 summary: "Studio T – 149 W. Hasting St., Vancouver | Irfan Brkovic's MFA Performance | SEP 5"
 ---
 

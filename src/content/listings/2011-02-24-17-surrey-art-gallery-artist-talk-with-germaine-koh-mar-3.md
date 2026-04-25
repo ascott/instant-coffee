@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 17
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artist Talk with Germaine Koh | MAR 3"
 ---
 
@@ -14,7 +15,7 @@ technological communication. Vancouver artist Germaine Koh and Toronto
 artist Gordon Hicks are interested in how, in our age of everyday
 telepresence manifested by constant phone and computer use, relationships
 between time and space are being altered in significant ways. There/Here,
-Koh and HicksÃ¢ï¿½ï¿½ current exhibition at the Surrey Art Gallery, presents a
+Koh and Hicksâ�� current exhibition at the Surrey Art Gallery, presents a
 compelling work of interactive sculpture that addresses the influence of
 technology on our daily lives. Join Germaine Koh for a discussion about the
 exhibition and her collaboration with Gordon Hicks on Thursday, March 3,
@@ -32,10 +33,10 @@ Born in Malaysia and based in Vancouver, Germaine Koh is an internationally
 active artist recognized for her wide breadth of artistic practice
 concerned with everyday objects and daily activities that often go
 unnoticed, yet profoundly shape our experiences. She has exhibited widely
-in such venues as De Appel (Amsterdam), MusÃƒÂ©e d'art contemporain de
-MontrÃƒÂ©al, Para/Site Art Space (Hong Kong), Frankfurter Kunstverein
+in such venues as De Appel (Amsterdam), MusÃ©e d'art contemporain de
+MontrÃ©al, Para/Site Art Space (Hong Kong), Frankfurter Kunstverein
 (Germany), Bloomberg SPACE (London), The Power Plant (Toronto), Seoul
-Museum of Art, Artspace (Sydney) and the Liverpool, Sydney and MontrÃƒÂ©al
+Museum of Art, Artspace (Sydney) and the Liverpool, Sydney and MontrÃ©al
 biennials. Koh was a recipient of the prestigious Jack and Doris Shadbolt
 Foundation's VIVA Award in 2010 and was a finalist for the 2004 Sobey Art
 Award. Formerly an Assistant Curator of Contemporary Art at the National

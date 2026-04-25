@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 37
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Deanna Bowen | Roland Souliere | 7pm | APR 4"
 ---
 

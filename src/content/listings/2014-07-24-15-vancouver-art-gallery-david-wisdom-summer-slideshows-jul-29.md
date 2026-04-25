@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 15
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | David Wisdom, Summer Slideshows | JUL 29"
 ---
 
@@ -22,7 +23,7 @@ David Wisdom
 Connie Kuhns
 Hank Bull
 Scout Upex
-James Oâ€™Mara
+James O’Mara
 Erica Zacharias
 Dennis Ha
 Sophia Burke

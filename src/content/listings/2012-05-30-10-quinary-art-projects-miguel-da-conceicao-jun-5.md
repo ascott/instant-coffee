@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 10
 type: ""
+venue: "Quinary Art Projects"
 summary: "Quinary Art Projects | Miguel da Conceicao | JUN 5"
 ---
 

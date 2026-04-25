@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't be fooled"
 emailDate: "Thu, 23 Jul 2009 10:00:47 -0700"
 number: 11
 type: ""
+venue: "Jan van Eyck Academie"
 summary: "Jan van Eyck Academie | CALL FOR ARTISTS' APPLICATIONS | SEP 15"
 ---
 

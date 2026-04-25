@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 30
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in French | 3PM | NOV 17"
 ---
 

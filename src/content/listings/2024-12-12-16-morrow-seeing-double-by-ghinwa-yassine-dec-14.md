@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 16
 type: "PERFORMANCE"
+venue: "MORROW"
 summary: "MORROW | SEEING DOUBLE BY GHINWA YASSINE | DEC 14"
 ---
 

@@ -4,34 +4,35 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 10
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Andante (a walking pace) | FEB 2"
 ---
 
 RICHMOND ART GALLERY
-Exhibition Dates: February 2 â€“ March 24, 2013
+Exhibition Dates: February 2 – March 24, 2013
 Title: Andante (a walking pace)
 Opening Reception Saturday, February 2, 3:00-5:00pm
-Artists: Cheryl Lâ€™Hirondelle, Mike Andrew McLean, Haruko Okano, Ruth 
+Artists: Cheryl L’Hirondelle, Mike Andrew McLean, Haruko Okano, Ruth 
 Scheuing, UWHAH; a collaborative entity of Vancouver-based artists.
 
 The title of the exhibition draws from the tempo marking, andante, to mean - 
 â€œat a walking paceâ€  â€“ a moderately slow pace that enables one to be attentive 
-to oneâ€™s surroundings, literally and imaginatively. The history of walking is an 
+to one’s surroundings, literally and imaginatively. The history of walking is an 
 intriguing one with the capacity for narratives that hold cultural, political, social 
 and spiritual meanings.
 The works in the exhibition Andante (a walking pace) are conceived as a 
 conceptual practice, a process from which emerge diverse narratives reflecting 
-artistsâ€™ responses to the various urban and rural landscapes they move in and 
-consider. Walking has an intimate relationship with the earth â€“ whether it is 
-covered in concrete or left bare. Cheryl Lâ€™Hirondelle and Ruth Scheuing 
-explore the urban environment; their responses to the cityâ€™s architecture and 
-geography recall the â€˜Situationistsâ€™ and â€˜Psychogeographyâ€™, and the practice 
+artists’ responses to the various urban and rural landscapes they move in and 
+consider. Walking has an intimate relationship with the earth – whether it is 
+covered in concrete or left bare. Cheryl L’Hirondelle and Ruth Scheuing 
+explore the urban environment; their responses to the city’s architecture and 
+geography recall the ‘Situationists’ and ‘Psychogeography’, and the practice 
 of â€œderiveâ€  (drifting). Through their unplanned navigations to encounter new and 
 authentic experiences, both artists focus our attention to details abstracted 
 from their exploratory walks. The natural environment is the terrain traversed in 
-Haruko Okano and Mike Andrew McLeanâ€™s work. Haruko Okano immerses 
+Haruko Okano and Mike Andrew McLean’s work. Haruko Okano immerses 
 herself in nature to focus her attention and to better ensure an unmediated 
-experience. Mike Andrew McLeanâ€™s images of the Canadian Rockies 
+experience. Mike Andrew McLean’s images of the Canadian Rockies 
 evidence a changing landscape while reminding us of its impact in on the 
 formation of a collective Canadian identity. The collaborative artists, UWHAH, 
 seek to bridge both wilderness and urban contexts, responding to the 
@@ -51,8 +52,8 @@ British Columbia Arts Council and the Province of British Columbia.
 
 RELATED PROGRAMMING
 
-Artistsâ€™ Tour / Talk 
-Saturday, February 2, 2:30pmâ€“3:00 pm 
+Artists’ Tour / Talk 
+Saturday, February 2, 2:30pm–3:00 pm 
 Free Admission. Everyone welcome to attend. 
 
 Free Film Screening: puujee 

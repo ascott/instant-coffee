@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 36
 type: "EXHIBITION"
+venue: "Unit 17 (offsite)"
 summary: "Unit 17 (offsite) | Tania Willard: Land Bank | OCT 7"
 ---
 

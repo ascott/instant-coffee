@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 15
 type: "TALK"
+venue: "Fort Gallery (Fort Langley)"
 summary: "Fort Gallery (Fort Langley) | Mark Fosythe | 7PM | FEB 7"
 ---
 

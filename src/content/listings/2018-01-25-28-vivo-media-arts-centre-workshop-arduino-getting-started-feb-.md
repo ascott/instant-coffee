@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 28
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | WORKSHOP | Arduino: Getting Started | FEB 17"
 ---
 

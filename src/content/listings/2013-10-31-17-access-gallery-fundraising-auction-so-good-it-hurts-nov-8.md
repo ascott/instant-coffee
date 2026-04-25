@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 17
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Fundraising Auction! SO GOOD IT HURTS | NOV 8"
 ---
 
@@ -12,14 +13,14 @@ Access Gallery presents our Annual Fundraising Auction!
 SO GOOD IT HURTS
 
 Friday, November 8, 2013
-7:00pm â€“ 12:00am
+7:00pm – 12:00am
 222 East Georgia Street
 $20; Free for Members.
 
 Auction Preview Evening: Wednesday, November 6, 2013
-7:00 â€“ 10:00pm
+7:00 – 10:00pm
 
-Works on view November 2 â€“ November 8, 2013, regular gallery hours
+Works on view November 2 – November 8, 2013, regular gallery hours
 
 Visit our Auction Website: auction.accessgallery.ca
 
@@ -29,14 +30,14 @@ Absentee/Phone bids accepted at k.phillips@accessgallery.ca and (604) 689-
 Access Gallery invites you to our 2013 auction fundraiser! Join us on Friday 
 November 8th at 7pm for So Good It Hurts.
 
-Come sip lovely drinks, nibble hors dâ€™ourves and deserts by Chicha Silvestre 
+Come sip lovely drinks, nibble hors d’ourves and deserts by Chicha Silvestre 
 Gusto Latino and Mochikas, and dance the night away with music by Heidi 
 Nagtegaal.
 
 So Good It Hurts will feature both live and silent auctions hosted by special 
-guests The Lady Benjamins. This yearâ€™s auction features over 45 works 
+guests The Lady Benjamins. This year’s auction features over 45 works 
 generously donated by internationally renowned and locally respected artists, 
-as well as some of Vancouverâ€™s most exciting emergent talent. Artists 
+as well as some of Vancouver’s most exciting emergent talent. Artists 
 include: Alison MacTaggart, Andrew Lee, Angela Grossmann, Angus 
 Ferguson, Attila Richard Lukacs, Brady Cranfield, Christine D'Onofrio, Damla 
 Tamer, David Wisdom, Dawn Johnston, Eric Metcalfe, Fan-Ling Suen, 

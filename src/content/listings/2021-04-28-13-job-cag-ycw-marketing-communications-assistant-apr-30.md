@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 13
 type: ""
+venue: "JOB"
 summary: "JOB | CAG | YCW Marketing & Communications Assistant | APR 30"
 ---
 

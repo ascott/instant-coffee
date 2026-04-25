@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 6
 type: "OPENING"
+venue: "ODD Gallery"
 summary: "ODD Gallery | ANNE STEVES | FLIGHT [CAGE] | 7PM | OCT 24"
 ---
 

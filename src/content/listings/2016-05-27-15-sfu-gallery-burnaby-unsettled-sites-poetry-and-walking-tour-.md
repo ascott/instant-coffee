@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 15
 type: "EVENT"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Unsettled Sites: Poetry and Walking Tour | MAY 28"
 ---
 

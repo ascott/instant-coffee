@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thirty three and a third % brighte
 emailDate: "Thu, 05 Jun 2008 08:20:36 -0700"
 number: 5
 type: ""
+venue: "Helen Pitt"
 summary: "Helen Pitt | Billy Mavreas and Nayeob Kim, Susan Kang | JUN 6"
 ---
 

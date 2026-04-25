@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 21
 type: ""
+venue: "SFU Galleries"
 summary: "SFU Galleries | Exhibitions Coordinator | OCT 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 13
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Introduction to Ceramic Sculpture | 6:30PM | AUG 15"
 ---
 

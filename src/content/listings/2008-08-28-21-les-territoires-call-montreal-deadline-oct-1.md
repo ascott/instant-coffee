@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 21
 type: ""
+venue: "Les Territoires"
 summary: "Les Territoires | Call | Montreal | deadline | OCT 1"
 ---
 

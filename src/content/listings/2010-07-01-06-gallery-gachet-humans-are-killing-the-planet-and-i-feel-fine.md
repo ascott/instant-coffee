@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 6
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | HUMANS ARE KILLING THE PLANET AND I FEEL FINE | JUL 2"
 ---
 
@@ -92,43 +93,43 @@ visit www.gachet.org for complete festival line-up and details! Or grab a
 festival guide at the gallery.
 
 OBJECTIVES:
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Highlighting the global movement advocating for mental health and human
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Highlighting the global movement advocating for mental health and human
 rights through sharing and showcasing artistic expression on these themes.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Connecting artistsÃƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ work that addresses the social
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Connecting artistsÃ�Â¢Ã¯Â¿Â½Ã¯Â¿Â½ work that addresses the social
 determinants of mental
 health.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Challenge stigmas of people living with mental health and trauma
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Challenge stigmas of people living with mental health and trauma
 issues.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Providing a forum for discussion and education on these and related
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Providing a forum for discussion and education on these and related
 (contextual) issues.
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Creating links to the rights of individuals for holistic health and
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Creating links to the rights of individuals for holistic health and
 security worldwide.
 
 For more information, please contact:
 Cherise Clarke, World Mad Pride Coordinator/Curator
 e: madpride@gachet.org | t: 604.687.2468 begin_of_the_skype_highlighting	      604.687.2468	end_of_the_skype_highlighting
-begin_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ 604.687.2468 begin_of_the_skype_highlighting		   604.687.2468      end_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ end_of_the_skype_highlighting
-begin_of_the_skype_highlightingÃƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ 604.687.2468 begin_of_the_skype_highlighting		 604.687.2468	   end_of_the_skype_highlightingÃƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ Ãƒï¿½Ã‚ end_of_the_skype_highlighting
+begin_of_the_skype_highlightingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â 604.687.2468 begin_of_the_skype_highlighting		   604.687.2468      end_of_the_skype_highlightingÂ Â Â Â Â Â end_of_the_skype_highlighting
+begin_of_the_skype_highlightingÃ�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â 604.687.2468 begin_of_the_skype_highlighting		 604.687.2468	   end_of_the_skype_highlightingÃ�Â Ã�Â Ã�Â Ã�Â Ã�Â Ã�Â end_of_the_skype_highlighting
 
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ What can one say of the future of a world where increasing injury to
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ What can one say of the future of a world where increasing injury to
 the planet is a symptom of human psychopathology?" -Paul Shepard, "Nature
 and Madness
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ The (natural) world is sick; it needs healing; it is speaking
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ The (natural) world is sick; it needs healing; it is speaking
 through
 us, and it speaks the loudest through the most sensitive of us. -Sarah
 Conn, Centre for Psychology and Social Change, Cambridge MA
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ In (the dominant) culture, listening to the voices of the earth
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ In (the dominant) culture, listening to the voices of the earth
 as if
 the nonhuman world felt, heard, spoke would seem the essence of madness to
 most people...
 "The context for defining sanity in our time has reached planetary
 magnitude."-Theodore Roszak, Where Psyche Meets Gaia
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ Perhaps working on my feelings is not more subjective than
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ Perhaps working on my feelings is not more subjective than
 working on
 neighbourhood air quality. Perhaps killing weeds on my lawn with
 herbicides may be as repressive as what I am doing with my childhood
 memories. -James Hillman, A Psyche the Size of the Earth
-Ãƒï¿½Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½Ãƒï¿½Ã‚Â¢ My grandmother said (translated from Okanagan), The people down
+Ã�Â¢Ã¯Â¿Â½Ã�Â¢ My grandmother said (translated from Okanagan), The people down
 there
 are dangerous. They are all insane. -Jeanette Armstrong, Keepers of the Earth
 

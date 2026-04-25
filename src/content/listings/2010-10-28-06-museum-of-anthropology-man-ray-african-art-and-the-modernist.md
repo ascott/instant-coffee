@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 6
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Man Ray, African Art and the Modernist Lens | OCT 29"
 ---
 
@@ -24,14 +25,14 @@ at MOA from October 29, 2010 through January 23, 2011.
 Man Ray, African Art, and the Modernist Lens brings to light photographs of
 African objects by American artist Man Ray (1890-1976) produced over a
 period of almost twenty years. In addition to providing fresh insight into
-Man Rayï¿½s photographic practice, the exhibition raises questions concerning
+Man Ray�s photographic practice, the exhibition raises questions concerning
 the representation, reception, and perception of African art as mediated by
 the camera lens.
 
 Featured are more than 50 photographs by Man Ray from the 1920s and 1930s
 alongside approximately 50 photographs by his international avant-garde
 contemporaries such as Charles Sheeler, Walker Evans, Alfred Stieglitz, and
-AndrÃ© KertÃ©sz. For the first time, a number of these photographs are
+André Kertész. For the first time, a number of these photographs are
 presented alongside the original African objects they feature. The
 juxtaposition offers a rare opportunity to encounter first-hand how various
 photographic techniques of framing, lighting, camera angle, and cropping

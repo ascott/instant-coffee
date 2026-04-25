@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 5
 type: ""
+venue: "Blim"
 summary: "Blim | New Work by Allison Karow (aka. sunny) | FEB 3"
 ---
 
@@ -34,7 +35,7 @@ the
 handmade but my practice is interdisciplinary and includes painting,
 drawing, print-making and animation in addition to book binding.
 --
-Opening: Friday, February 3 - 8 Ã¢â‚¬â€œ 11pm | Show Runs February 3-25
+Opening: Friday, February 3 - 8 â€“ 11pm | Show Runs February 3-25
 
 www.megaspora.us
 

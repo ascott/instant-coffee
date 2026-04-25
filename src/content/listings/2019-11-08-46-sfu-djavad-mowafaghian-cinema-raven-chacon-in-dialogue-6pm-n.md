@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 46
 type: "TALK"
+venue: "SFU: Djavad Mowafaghian Cinema"
 summary: "SFU: Djavad Mowafaghian Cinema | Raven Chacon in Dialogue | 6PM | NOV 23"
 ---
 

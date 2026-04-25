@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF Vancity Theatre | Jem Noble: Ghost Materialities | OCT 29"
 ---
 

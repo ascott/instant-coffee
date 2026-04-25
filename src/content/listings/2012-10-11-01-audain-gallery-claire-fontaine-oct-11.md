@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 1
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Claire Fontaine | OCT 11"
 ---
 
@@ -55,13 +56,13 @@ As part of her residency, Claire Fontaine will work with students from
 both the MFA Program at the School for the Contemporary Arts at 
 Simon Fraser University and the MFA in Visual Art Program at the 
 University of British Columbia, screening a selection of films and 
-leading a series of seminars exploring the artistâ€™s notion of the â€œhuman 
+leading a series of seminars exploring the artist’s notion of the “human 
 strike.â€  This work with students will culminate in a final public 
 presentation by Claire Fontaine, featuring a talk and a screening of 
 excerpts from the selected films, on November 24 at 7:00 pm at the 
 Djavad Mowafaghian Cinema in the Goldcorp Centre for the Arts.
 Carelessness Causes Fire is realized with the support of the Consulat 
-gÃ©nÃ©ral de France in Vancouver, and presented in partnership with the 
+général de France in Vancouver, and presented in partnership with the 
 Institutions by Artists conference, which runs from October 12 to 14, 
 2012, at Simon Fraser University at Goldcorp Centre for the Arts.
 The Audain Gallery is curated by Sabine Bitter, working with gallery 

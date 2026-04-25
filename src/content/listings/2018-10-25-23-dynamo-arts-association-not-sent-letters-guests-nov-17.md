@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: #tearitdown2018"
 emailDate: "Thu, 25 Oct 2018 12:00:18 -0700"
 number: 23
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | NOT SENT LETTERS & GUESTS | NOV 17"
 ---
 

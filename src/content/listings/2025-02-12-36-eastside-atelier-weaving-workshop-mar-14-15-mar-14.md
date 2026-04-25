@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 36
 type: "EDUCATION"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Weaving Workshop | MAR 14-15 | MAR 14"
 ---
 

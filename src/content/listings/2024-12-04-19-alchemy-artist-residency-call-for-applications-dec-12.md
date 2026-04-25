@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 19
 type: "CALL"
+venue: "Alchemy Artist Residency"
 summary: "Alchemy Artist Residency | Call for Applications | DEC 12"
 ---
 

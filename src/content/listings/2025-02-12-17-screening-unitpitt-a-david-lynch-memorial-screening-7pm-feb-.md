@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | UNIT/PITT | A David Lynch Memorial Screening | 7PM | FEB 17"
 ---
 

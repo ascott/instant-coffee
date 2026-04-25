@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 50
 type: "EXHIBITION"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | qaʔ yəxw - water honours us: Womxn and Waterways | APR 10"
 ---
 

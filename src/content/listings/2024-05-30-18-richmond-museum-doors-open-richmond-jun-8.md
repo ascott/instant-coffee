@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 18
 type: "EVENT"
+venue: "Richmond Museum"
 summary: "Richmond Museum | Doors Open Richmond | JUN 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing your altitude"
 emailDate: "Thu, 08 Apr 2010 08:55:19 -0700"
 number: 4
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | JAMIE HILDER AND MICHAEL TURNER | APR 9"
 ---
 

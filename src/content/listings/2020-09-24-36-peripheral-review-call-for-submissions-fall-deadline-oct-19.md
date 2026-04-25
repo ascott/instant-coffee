@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 36
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions: Fall Deadline | OCT 19"
 ---
 

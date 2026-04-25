@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Jonathan Petersen | APR 6"
 ---
 

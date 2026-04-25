@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 23
 type: ""
+venue: "Cineworks Studio"
 summary: "Cineworks Studio | GRACE Notes | JUN 19"
 ---
 
@@ -20,7 +21,7 @@ Doors at 7 p.m. Open Screening + Curator Talk back
 
 PROGRAM DESCRIPTION
 
-Curated by Stacey Ho and initiated by Montreal's VidÃ©ographe, GRACE NOTES
+Curated by Stacey Ho and initiated by Montreal's Vidéographe, GRACE NOTES
 is a program of videos and films in which graceful cinema is understood as
 a means of awakening new and joyful ways of acting. In this configuration,
 grace is a notion that is open to adaptation. Showcasing the work of Sarah
@@ -37,7 +38,7 @@ Curatorial text:
 The sunken beast is trembling. Nuts and bolts fly through the air then
 crumble into crumbs. We imagine a whole ocean sucked into this little
 pocket of nothing of space and pressure. The machine is cracking open. It
-is made of paper-mÃ¢chÃ©. Blinking, we are outside surrounded by its shell.
+is made of paper-mâché. Blinking, we are outside surrounded by its shell.
 There is light and there are trees. It's 6:30am EST on the street where you
 live. There's a car alarm sounding over and over and with each bleat big
 orange squares form in front of your eyes, smacking you over the head like

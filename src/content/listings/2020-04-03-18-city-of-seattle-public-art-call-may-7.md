@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 18
 type: "CALL"
+venue: "City of Seattle"
 summary: "City of Seattle | Public Art Call | MAY 7"
 ---
 

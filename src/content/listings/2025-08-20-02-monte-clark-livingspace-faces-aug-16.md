@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Monte Clark @ Livingspace"
 summary: "Monte Clark @ Livingspace | FACES | AUG 16"
 ---
 

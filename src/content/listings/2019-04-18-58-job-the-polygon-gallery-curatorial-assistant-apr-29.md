@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 58
 type: ""
+venue: "JOB"
 summary: "JOB | The Polygon Gallery | Curatorial Assistant | APR 29"
 ---
 

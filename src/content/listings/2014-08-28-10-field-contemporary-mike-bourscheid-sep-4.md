@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 10
 type: ""
+venue: "Field Contemporary"
 summary: "Field Contemporary | Mike Bourscheid | SEP 4"
 ---
 
@@ -23,7 +24,7 @@ Mike Bourscheid lives and works in Luxemburg and in Vancouver. He received
 MFA at the University of arts Berlin (UdK) under the guidance of Michaela
 Meise and Lothar Baumgarten.
 
-Growing up in Luxembourg, Mike Bourscheidâ€™s youth was immersed in
+Growing up in Luxembourg, Mike Bourscheid’s youth was immersed in
 storytelling, fairy tales and the personal heroics of daily pub culture.
 His hometown was small and conservative. Like most small towns, the pubs
 were the epicenter of drama, where suppressed social and political tensions

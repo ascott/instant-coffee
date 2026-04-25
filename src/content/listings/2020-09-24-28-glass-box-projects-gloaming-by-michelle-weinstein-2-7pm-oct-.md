@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 28
 type: "OPENING"
+venue: "Glass Box Project(s)"
 summary: "Glass Box Project(s) | Gloaming by Michelle Weinstein | 2-7PM | OCT 1"
 ---
 

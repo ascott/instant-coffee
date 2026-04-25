@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a sudden full spectrum light bar m
 emailDate: "Thu, 18 Mar 2010 11:55:38 -0700"
 number: 3
 type: ""
+venue: "CentreA"
 summary: "CentreA | WORLD TEA PARTY- Part Two | MAR 18"
 ---
 
@@ -50,7 +51,7 @@ Live and silent auction, entertainment, fun
 Entrance by donation
 
 Friday, March 19, 4-5pm
-Le thÃ© de l'amitiÃ©
+Le thé de l'amitié
 Skype Tea with Oboro (Montreal) featuring parlour games and other surprises.
 
 Friday, March 19, 7-9pm

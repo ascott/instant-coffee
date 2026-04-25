@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 21
 type: "CALL"
+venue: "Breach Magazine"
 summary: "Breach Magazine | Issue 3: New Institutional Structures | OCT 4"
 ---
 

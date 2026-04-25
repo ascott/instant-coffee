@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 3
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Queer Arts Festival | Various Locations | JUN 1"
 ---
 

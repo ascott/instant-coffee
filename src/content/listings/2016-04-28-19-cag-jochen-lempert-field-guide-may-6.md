@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 19
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Jochen Lempert - Field Guide | MAY 6"
 ---
 

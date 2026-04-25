@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 27
 type: "TALK"
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | Ben Evans James | SEP 26"
 ---
 

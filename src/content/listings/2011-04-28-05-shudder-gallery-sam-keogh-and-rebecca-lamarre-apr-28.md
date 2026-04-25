@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 5
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Sam Keogh and Rebecca LaMarre | APR 28"
 ---
 
@@ -27,7 +28,7 @@ fidelity to the demands of an absent and inadequate authority. It will
 provide an opportunity to enact a moment of faith generated for its 
 own sake in an effort to open up the possible.
 
-Keogh will create a series of â€˜devotionalâ€™ paintings, and objects 
+Keogh will create a series of ‘devotional’ paintings, and objects 
 resembling relics all displayed in ways which suggest an activation 
 through being carried (attached to staffs, sitting on palanquins or 
 with brass handles on the sides, or attached to ribbons so as to be 
@@ -42,7 +43,7 @@ viewers to the artistic activity that occurred outside the gallery context.
 This project follows the example set by A Fine Red Line: A Curatorial 
 Miscellany, an event and publication by IM Press in London, and 
 argues that a new mystical aura arises from the simultaneous 
-appearance of art objectsâ€™ contradictory states of being. It is a 
+appearance of art objects’ contradictory states of being. It is a 
 backwards movement through a cloud of unknowing. It is not 
 contemplative in the sense of early Christian monks, but an exercise 
 of mind and body, a simultaneity in the sense of quantum physics.

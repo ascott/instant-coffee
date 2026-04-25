@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 36
 type: "OPENING"
+venue: "WAAP (NEW LOCATION: 1129 E Hastings st)"
 summary: "WAAP (NEW LOCATION: 1129 E Hastings st) | Myths | 6PM | SEP 13"
 ---
 

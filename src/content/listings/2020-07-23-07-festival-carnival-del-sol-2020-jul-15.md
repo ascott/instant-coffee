@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 7
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Carnival Del Sol 2020 | JUL 15"
 ---
 

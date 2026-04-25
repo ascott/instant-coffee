@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 11
 type: "TALK"
+venue: "Elan Fine Art"
 summary: "Elan Fine Art | Tony Robbins | OCT 14"
 ---
 

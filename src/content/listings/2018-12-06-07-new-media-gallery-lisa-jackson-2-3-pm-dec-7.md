@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 7
 type: "TALK"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Lisa Jackson | 2-3 pm | DEC 7"
 ---
 

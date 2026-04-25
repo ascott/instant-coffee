@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 15
 type: ""
+venue: "Waldorf"
 summary: "Waldorf | DAY FOR NIGHT | True Romance and Badlands | FEB 13"
 ---
 

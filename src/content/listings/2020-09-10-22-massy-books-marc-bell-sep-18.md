@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "Massy Books"
 summary: "Massy Books | Marc Bell | SEP 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 12
 type: ""
+venue: "TWENTY + CHANGE"
 summary: "TWENTY + CHANGE | REMINDER: CALL FOR PROJECTS | JAN 16"
 ---
 
@@ -59,30 +60,30 @@ RAPPEL: APPEL A PROJETS
 
 DATE LIMITE: LE 16 JANVIER 2009, 17:00HR
 
-Twenty + Change est une sÃ©rie continue d'expositions mettant en Ã©vidance
+Twenty + Change est une série continue d'expositions mettant en évidance
 des designersoeuvrant dans les domaines de l'architecture, l'architecture
-du paysage et le design urbain. La premiÃ¨re edition Twenty + Change en 2007
-avait comme but de prÃ©senter le travail des designers torontois en debut de
-carriÃ¨re. Compte tenu du succÃ¨s et de l'intÃ©ret gÃ©nÃ©ral porte sur cette
-premiÃ¨re exposition, la prochaine Ã©dition de Twenty + Change parcourira le
+du paysage et le design urbain. La première edition Twenty + Change en 2007
+avait comme but de présenter le travail des designers torontois en debut de
+carrière. Compte tenu du succès et de l'intéret général porte sur cette
+première exposition, la prochaine édition de Twenty + Change parcourira le
 Canada au complet, et donc est a la recherche de projets Ã  travers le pays.
 
 Appel Ã  projets pour l'exposition :
 
 Twenty + Change cherche Ã  Ã©tablir un forum public pour des jeunes designers
-en debut decarrieres n'ayant pas encore recus une attention mÃ©diatique ni
-une reconnaissance du public pour leur travail thÃ©orique ou pour leurs
-oeuvres realisÃ©es. Le comitÃ© organisateur de Twenty + Change invite en ce
+en debut decarrieres n'ayant pas encore recus une attention médiatique ni
+une reconnaissance du public pour leur travail théorique ou pour leurs
+oeuvres realisées. Le comité organisateur de Twenty + Change invite en ce
 moment les jeunes firmes Ã©mergentes au Canada Ã  soumettre des projets qui
-pourraient Ã©ventuellement Ãªtre inclus dans la prochaines exposition, qui
+pourraient éventuellement être inclus dans la prochaines exposition, qui
 sera lancÃ©e le 3 juin 2009 et part la suite voyagera Ã  travers le pays. Les
 projets choisis seront inclus dans le catalogue de l'exposition qui sera
 disponible a partir du l'ouverture de l'exposition Twenty + Change 2009.
 
-Les projets seront choisis par un comitÃ© de sÃ©lection comprenant
+Les projets seront choisis par un comité de sélection comprenant
 praticiens, Ã©crivains, et professeurs Å&#65533;uvrant dans les domaines de
 lâ&#65533;&#65533;architecture, de lâ&#65533;&#65533;architecture du paysage, du design urbain, ou de
-disciplines connexes. Le comitÃ© de sÃ©lection inclus :
+disciplines connexes. Le comité de sélection inclus :
 
 Joost Bakker, Principal, Hotson Bakker Boniface Haden architects +
 urbanistes, Vancouver
@@ -90,7 +91,7 @@ urbanistes, Vancouver
 Ian Chodikoff, Editeur, revue Canadian Architect
 
 Anne Cormier, Directrice, Ã&#65533;cole dâ&#65533;&#65533;architecture de lâ&#65533;&#65533;UniversitÃ© de MontrÃ©al,
-MontrÃ©al
+Montréal
 
 Christine Macy, Doyenne, Faculty of Architecture and Planning at Dalhousie
 University, Halifax
@@ -98,12 +99,12 @@ University, Halifax
 Chris Pommer, Principal, PLANT Architect Inc., Toronto
 
 La date limite pour la reception des soumissions est le 16 janvier 2009 a
-17:00 heures. PriÃ¨re de consulter fichier pdf ci-joint pour les critÃ¨res de
+17:00 heures. Prière de consulter fichier pdf ci-joint pour les critères de
 soumission.
 
 La date limite pour la reception des soumissions est le 16 janvier 2009 Ã 
 17:00 heures. Veuilleznoter que les critÃ¨res de soumission ont Ã©tÃ© mis Ã 
-jour. PriÃ¨re de consulter fichier pdf ci-joint pourles critÃ¨res de soumission.
+jour. Prière de consulter fichier pdf ci-joint pourles critères de soumission.
 
 Pour toutes informations supplementaires consultez le site
 www.twentyandchange.org

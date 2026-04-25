@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 29
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | MARCY FRIESEN | 6PM | APR 1"
 ---
 

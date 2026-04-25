@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 39
 type: "CALL"
+venue: "Social and Environmental Justice in the Arts"
 summary: "Social and Environmental Justice in the Arts | Curator-in-Residence | MAY 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 62
 type: "CALL"
+venue: "VIVO"
 summary: "VIVO | Bring Your Own Beamer | APR 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 13
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | ojo | 6-9pm | NOV 23"
 ---
 

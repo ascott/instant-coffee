@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 9
 type: ""
+venue: "Maraya Project events & salons"
 summary: "Maraya Project events & salons | Soundwalk with Jean Routhier | OCT 29"
 ---
 
@@ -51,13 +52,13 @@ essence. Interested in the gaps and gasps in sounds conducive to the
 transmission of tales he sometimes hears in the ether, Routhier finds inspiration
 in everyday situations. His work has been presented internationally and nationally
 at the Vancouver Vibrates, the Silence and Signal & Noise Festivals
-(Vancouver), ISEA 2006 (San JosÃƒÂ©, CA), Open Air-Ars Electronica 2002 (Linz,
+(Vancouver), ISEA 2006 (San JosÃ©, CA), Open Air-Ars Electronica 2002 (Linz,
 Austria), Overgarden Festival (Copenhagen, Danemark), DLux Media Arts
 Festival (Melbourne, Australia), Global Mix Festival (Cracow, Poland), ICMC '94
 (International Computer Music Conference, Florida, USA), La Panderia (Mexico
-City), Ãƒâ€°cole des Beaux-Arts (Aix-en-Provence, France), Studio Cormier
-(MontrÃƒÂ©al), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey),
-Helen Pitt Gallery (Vancouver), Articule (MontrÃƒÂ©al). His audio works have been
+City), Ã‰cole des Beaux-Arts (Aix-en-Provence, France), Studio Cormier
+(MontrÃ©al), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey),
+Helen Pitt Gallery (Vancouver), Articule (MontrÃ©al). His audio works have been
 featured on Kunstradio (Vienna, Austria), CBC and Radio-Canada. Jean curated
 for the Surrey Art Gallery a series of audio artists as part of its ongoing Open
 Sound exhibit, as well as helped organize its audio art symposium in 2008 and
@@ -71,13 +72,13 @@ Art. He creates site-based systems that explore the aesthetics of engagement
 using a variety of designed forms and tools that address our many publics.
 These spatial and pedagogical projects, expand the social agency of art making,
 rethinking notions of space and place, authorship and audience. Working
-collaboratively and primarily within the public sphere, LevinÃ¢â‚¬â„¢s work ranges 
+collaboratively and primarily within the public sphere, Levinâ€™s work ranges 
 from
 billboard projects, alternative tours of cities, land care centres and alternative
 mapping and telecommunication systems. Recently commissioned projects
-include a user-generated Ã¢â‚¬ËœsousveillanceÃ¢â‚¬â„¢ system and a global contributive 
+include a user-generated â€˜sousveillanceâ€™ system and a global contributive 
 new
-media platform, both showcased for VancouverÃ¢â‚¬â„¢s 2010 Cultural Olympiad. 
+media platform, both showcased for Vancouverâ€™s 2010 Cultural Olympiad. 
 He
 has been artist in residence for the Vancouver Parks Board, the TechLab at the
 Surrey Art Gallery, Emily Carr University and at the International Art Space,
@@ -96,14 +97,14 @@ journal West Coast Line. Pacific Avenue (LINEbooks, 2009) is his first poetry
 collection. Lowry is the Assistant Dean of Critical Studies and Community
 Engagements at Emily Carr University of Art + Design.
 
-Henry TsangÃ¢â‚¬â„¢s projects have been exhibited internationally, incorporating 
+Henry Tsangâ€™s projects have been exhibited internationally, incorporating 
 digital
 media, video, photography, language and sculptural elements in the exploration
 of the relationship between the public, community and identity in the new global
 order. Projects in the public sphere range from community-based curatorial and
 engagement practices to permanent commissioned artworks. Welcome to the
 Land of Light is a 100 metre-long installation located on the seawall handrail
-along Vancouver's False Creek. He has also worked with artistsÃ¢â‚¬â„¢ collectives
+along Vancouver's False Creek. He has also worked with artistsâ€™ collectives
 which produce temporary public art installations on shared political concerns,
 including The Association for Noncommercial Culture and Collective Echoes
 Youth Public Artists Collective, and has mentored many young artists through
@@ -111,7 +112,7 @@ various programs. Video installations such as Orange County, 2004, and
 Olympus, 2006, shot in California, Beijing, Torino and Vancouver, examine
 overlapping urban and socio-political spaces; and Napa North, 2008, looks at the
 relationship between wine, real estate and cultural translation in British
-ColumbiaÃ¢â‚¬â„¢s Okanagan Valley. His curatorial projects (Self Not Whole: 
+Columbiaâ€™s Okanagan Valley. His curatorial projects (Self Not Whole: 
 Cultural
 Identity & Chinese-Canadian Artists in Vancouver, 1991; Racy Sexy: Race,
 Culture and Sexuality, 1993; and City at the End of Time: Hong Kong 1997,

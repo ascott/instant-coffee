@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 12
 type: ""
+venue: "Buschlen Mowatt"
 summary: "Buschlen Mowatt | Toni Latour | MAY 20"
 ---
 
@@ -16,7 +17,7 @@ Reception: May 20, 6-8pm
 
 The Family Project: Latour Family, 55.5x37", 2007-10
 
-The Family Project consists of 24 large scale photographs of Latourâ€™s family,
+The Family Project consists of 24 large scale photographs of Latour’s family,
 her former partner Rina Larsson's family and merged images of both families
 and the former couple. These photographs are accompanied by a vitrine that
 holds a taxidermied mouse and a plaque describing Kaguya.

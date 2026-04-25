@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part of the same \"changing west\"
 emailDate: "Fri, 14 Oct 2016 15:00:22 -0700"
 number: 15
 type: "TALK"
+venue: "VISR @ Or Gallery"
 summary: "VISR @ Or Gallery | Adel Iskander - Digital Bakhtin | OCT 17"
 ---
 

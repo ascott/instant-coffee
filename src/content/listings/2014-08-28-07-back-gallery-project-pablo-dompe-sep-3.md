@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 7
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Pablo Dompe | SEP 3"
 ---
 
@@ -19,22 +20,22 @@ New works by Pablo Dompe
 
 Emerged comprises a selection of drawings and sculptures in marble, wood,
 and plastic developed by Pablo Dompe in Vancouver between 2013 and 2014.
-The installationâ€™s arrangement and the carving processes are inspired by
-Dompeâ€™s experience in the field of archeology where the finding of
+The installation’s arrangement and the carving processes are inspired by
+Dompe’s experience in the field of archeology where the finding of
 artifacts, bodily remains, sediments and rock formations reveal indications
 and traces that attempt to understand the enigmas of our origins.
 In archeology, as in art meaning emerges in chaotic or harmonious ways. It
 is through a process of signification that a coherent read of our histories
 emerge.
-This exhibition presents a material expression of DompÃ©â€™s search for a
+This exhibition presents a material expression of Dompé’s search for a
 coherent archeology of his environment, his studio, the proximate or far
 realities that surround him.
 
 About the artist:
-Pablo DompÃ© is an artist born in Buenos Aires, Argentina in 1976.
+Pablo Dompé is an artist born in Buenos Aires, Argentina in 1976.
 He works in marble, metal and wood exploring formal and conceptual tensions
 that emerge from the study of organic reals.
-DompÃ© has participated in numerous symposiums and biennales in Argentina
+Dompé has participated in numerous symposiums and biennales in Argentina
 (Cipoletti, Neuquen, Santa Rosa) also attended the one in Saransk, Russia.
 His large scale public sculptures can be seen at the Plaza Republica
 Argentina in Montevideo, Uruguay; Mordovian Erzia Museum in Saransk Russia;

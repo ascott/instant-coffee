@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 5
 type: "OPENING"
+venue: "Red Gate Gallery"
 summary: "Red Gate Gallery | Works on Paper - Group Show | FEB 5"
 ---
 

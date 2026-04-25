@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 19
 type: "OPENING"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Visualizing a Culture for Strangers | JAN 29"
 ---
 

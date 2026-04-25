@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 23
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | GRANT WRITING DEMYSTIFIED | APR 6"
 ---
 
@@ -18,7 +19,7 @@ The morning session will see an overview of the kinds of funding
 available from the public sector for short films with up-to-date 
 information on guidelines, expectations and application closing dates. 
 The afternoon is hands-on as participants judge a set of three funding 
-applications from a juryâ€™s perspective. The participants will be divided 
+applications from a jury’s perspective. The participants will be divided 
 into groups and evaluate the proposals in a mock jury style. After they 
 have made their decisions the instructors will hold a post-mortem with 
 the groups to discuss the results. 

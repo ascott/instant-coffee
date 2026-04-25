@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 8
 type: "EDUCATION"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | [WORKSHOP] Art Writing Event: Staff Hui Ci Ling | JUL 19"
 ---
 

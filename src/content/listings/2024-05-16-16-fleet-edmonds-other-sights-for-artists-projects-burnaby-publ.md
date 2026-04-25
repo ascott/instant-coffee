@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 16
 type: "EVENT"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Other Sights for Artists’ Projects & Burnaby Publi | MAY 25"
 ---
 

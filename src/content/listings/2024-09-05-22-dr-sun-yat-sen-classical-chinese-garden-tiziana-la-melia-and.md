@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 22
 type: "PERFORMANCE"
+venue: "Dr. Sun Yat-Sen Classical Chinese Garden"
 summary: "Dr. Sun Yat-Sen Classical Chinese Garden | Tiziana La Melia and Ellis Sam | SEP 14"
 ---
 

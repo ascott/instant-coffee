@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 17
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Christians: improvisations for guitar, bass, and d | FEB 28"
 ---
 

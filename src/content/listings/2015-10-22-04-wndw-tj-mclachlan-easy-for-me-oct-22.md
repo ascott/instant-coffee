@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 4
 type: "OPENING"
+venue: "WNDW"
 summary: "WNDW | TJ McLachlan: Easy For Me | OCT 22"
 ---
 

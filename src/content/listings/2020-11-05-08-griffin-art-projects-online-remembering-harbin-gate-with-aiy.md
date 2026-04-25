@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 8
 type: "EVENT"
+venue: "Griffin Art Projects [ONLINE]"
 summary: "Griffin Art Projects [ONLINE] | Remembering Harbin Gate with aiya哎呀 | 1PM | NOV 8"
 ---
 

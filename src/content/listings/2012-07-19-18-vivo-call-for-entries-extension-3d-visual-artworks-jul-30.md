@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 18
 type: ""
+venue: "VIVO"
 summary: "VIVO | Call for Entries: Extension | 3D Visual Artworks | JUL 30"
 ---
 

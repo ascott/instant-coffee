@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 5
 type: "OPENING"
+venue: "Lipont Gallery"
 summary: "Lipont Gallery | Intricately Woven: Art by Xiangmei Su | 7PM | OCT 11"
 ---
 

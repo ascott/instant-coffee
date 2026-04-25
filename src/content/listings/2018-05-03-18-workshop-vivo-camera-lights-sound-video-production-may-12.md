@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 18
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO | Camera, Lights, Sound! | Video Production | MAY 12"
 ---
 

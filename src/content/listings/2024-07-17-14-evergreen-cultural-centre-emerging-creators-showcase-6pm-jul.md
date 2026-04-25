@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 14
 type: "OPENING"
+venue: "Evergreen Cultural Centre"
 summary: "Evergreen Cultural Centre | Emerging Creators Showcase | 6PM | JUL 25"
 ---
 

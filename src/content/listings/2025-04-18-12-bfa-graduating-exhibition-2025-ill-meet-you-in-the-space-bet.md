@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 12
 type: "OPENING"
+venue: "BFA Graduating Exhibition 2025"
 summary: "BFA Graduating Exhibition 2025 | I’ll Meet You in the Space Between | APR 16"
 ---
 

@@ -68,14 +68,14 @@ http://spooxmagazine.org
 01 Shane Munro - 1 2 1
 02 Jeremy Todd - Hey Now!
 03 James Whitman - Eisenstiens Bedroom (with lyrics by Barry 
-DoupÃ©)
+Doupé)
 04 Phoebe Heintzman Hope - Sovereign Symphonique
 05 Matthew Green - Famous Sagitarius
 06 Anonymous - Happy Answering Machine
 07 The Giant Head That Ruled Imperfectly - when the people have 
 elephantiasis the revolution will come
 08 Julia Feyrer - New Kids "Sound Collage" year 2000
-09 MikaÃ«l D. Brkic, Boguslaw Mooczkowsky, Vilde von Krogh - The 
+09 Mikaël D. Brkic, Boguslaw Mooczkowsky, Vilde von Krogh - The 
 Crystal Flowers
 10 Maritas Laugh - Song One
 11 Julianne Chladny - The Rockaby Lady Eugene Field c.1850-95
@@ -93,11 +93,11 @@ SCOTT MCFARLAND
 
 SANS SOUCI
 
-August 11 â€“ September 10, 2011
+August 11 – September 10, 2011
 
 Opening reception:
 
-Thursday August 11, 6 â€“ 8 pm
+Thursday August 11, 6 – 8 pm
 
 Artist in attendance
 
@@ -181,7 +181,7 @@ nature, and other species, may be a vital part of a rich and
 meaningful existence. Many people feel restless and stressed in 
 urban life, and experiences with nature such as observing life 
 cycles, such as those of the mason bee, can be restorative. Habitat 
-and art, or â€˜habitart,â€™ is fun and enriches the lives of not only the 
+and art, or ‘habitart,’ is fun and enriches the lives of not only the 
 artist, but their neighbours, as well as the surrounding ecosystem. 
 She believes that change starts in your own back yard!
 
@@ -201,7 +201,7 @@ http://othersights.ca/
 http://www.grow-urbanagricultureproject.ca/
 
 Other Sights gratefully acknowledges support from the City of 
-Vancouverâ€™s 125th Anniversary grants program, the Canon 
+Vancouver’s 125th Anniversary grants program, the Canon 
 Community Urban Agriculture Fund, Vancouver Park Board 
 Neighbourhood Matching Fund, the Canada Council for the Arts and 
 Yardworks.
@@ -213,9 +213,9 @@ REGISTER NOW
 
 Contact information was provided to Other Sights for periodic project 
 news and updates.
-Unsubscribe â€¢ Update subscription preferences
+Unsubscribe • Update subscription preferences
 
-Grow Presented by Other Sights for Artistsâ€™ Projects Association 9 - 
+Grow Presented by Other Sights for Artists’ Projects Association 9 - 
 156 E 8th Avenue Vancouver, BC V5T 1R7
 
 
@@ -249,7 +249,7 @@ relevance of vernacular urban experience. The correspondence on
 these postcards acts as a reminder that architecture invokes 
 narrative and is a result of a lived social human experience.
 
-Alongside an installation of de Guzmanâ€™s collection, Fieldwork 
+Alongside an installation of de Guzman’s collection, Fieldwork 
 exhibits diptychs that include pre-WWII architectural postcards 
 juxtaposed with structures made from Lego Building Blocks. While 
 the Lego structures are loosely modeled after some architectural 
@@ -417,12 +417,12 @@ transcending the existing confines of contemporary art curating. The
 Zabludowicz Collection keenly welcomes transdisciplinary and 
 experimental proposals.
 
-This initiative builds on the Zabludowicz Collectionâ€™s existing 
+This initiative builds on the Zabludowicz Collection’s existing 
 commitment to experimental curatorial practices, which has 
 resulted in projects with international curators and curating 
 students, including Proposal for a Floor in New York with Alex 
 Gartenfeld, The Library of Babel / In and Out of Place with Anna-
-Catharina Gebbers in 2010, Past-Forward with Vincent HonorÃ© in 
+Catharina Gebbers in 2010, Past-Forward with Vincent Honoré in 
 2008 and the annual Testing Ground programme produced in 
 collaboration with the MA curating students from the Royal College 
 of Art and Goldsmiths College, London.
@@ -472,7 +472,7 @@ also exhibits in permanent venues in the USA and Finland.
 
 There's still time to see We Will Live, We Will See, the inaugural 
 Zabludowicz Collection Curatorial Open exhibition, curated by Pavel 
-S. PyÅ“, which is at the Zabludowicz Collection in London until 14 
+S. Pyœ, which is at the Zabludowicz Collection in London until 14 
 August 2011.
 
 
@@ -481,7 +481,7 @@ August 2011.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-08-11-01-equinox-gallery-some-paintings-aug-11">1.
 FOR SALE | propane-powered 1985 Ford Econoline Travel Van </a>
-SAVE ON FUEL COSTS â€” Less pollution with propane the original 
+SAVE ON FUEL COSTS — Less pollution with propane the original 
 alternative fuel
 
 My beloved propane-powered 1985 Ford Econoline Travel Van is 
@@ -489,7 +489,7 @@ now for
 sale. Asking $3800. open to offers. 4 captains chairs in front - table
 + bench seats convert to bed or plywood deck for equipment.
 
-Contact â€” vixmedia (at) gmail (dot) com to view â€” located in the
+Contact — vixmedia (at) gmail (dot) com to view — located in the
 Marpole district of Vancouver, Canada.
 
 Note: the price of propane is approximately half of the cost of

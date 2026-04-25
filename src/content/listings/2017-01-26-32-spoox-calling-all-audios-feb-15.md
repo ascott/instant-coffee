@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 32
 type: "CALL"
+venue: "SPOOX"
 summary: "SPOOX | CALLING ALL AUDIOS | FEB 15"
 ---
 

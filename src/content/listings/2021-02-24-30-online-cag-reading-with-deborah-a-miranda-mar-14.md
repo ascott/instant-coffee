@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 30
 type: "EVENT"
+venue: "[ONLINE] CAG"
 summary: "[ONLINE] CAG | Reading with Deborah A. Miranda | MAR 14"
 ---
 

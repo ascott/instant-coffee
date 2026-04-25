@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 24
 type: "OPENING"
+venue: "Trapp Projects at NADA"
 summary: "Trapp Projects at NADA | BACK TO THE FUTURE PAST: TYLER BRETT & PAUL HOLSB | APR 5"
 ---
 

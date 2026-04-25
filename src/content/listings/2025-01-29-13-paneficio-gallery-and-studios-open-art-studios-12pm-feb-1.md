@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 13
 type: "EVENT"
+venue: "Paneficio Gallery and Studios"
 summary: "Paneficio Gallery and Studios | Open Art Studios | 12PM | FEB 1"
 ---
 

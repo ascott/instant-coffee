@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 8
 type: ""
+venue: "Yukon Arts Centre Public Art Gallery"
 summary: "Yukon Arts Centre Public Art Gallery | Gallery Summer Outreach Summer Student Position | MAY 6"
 ---
 
@@ -18,7 +19,7 @@ Centre Public Art Gallery in presenting/developing visual art exhibitions,
 managing art programs, and working in collection and arts administration. 
 Particular focus for this job is Outreach art programming and promoting the 
 Gallery through social media. The intern will have the opportunity to work with 
-the AdÃ¤ka Cultural Festival and will be integral to Culture Days planning in the 
+the Adäka Cultural Festival and will be integral to Culture Days planning in the 
 Yukon. Hands-on experience will be gained through working on exhibitions, 
 events and education programs as part of the Gallery Team at the Yukon Arts 
 Centre, with our programming partners in the community and directly with 

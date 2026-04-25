@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Marion Scott Gallery"
 summary: "Marion Scott Gallery | Janet Nungnik: The Eagle's Shadow | MAR 30"
 ---
 

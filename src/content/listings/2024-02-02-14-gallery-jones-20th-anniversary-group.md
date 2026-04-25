@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 14
 type: "EXHIBITION"
+venue: "Gallery Jones"
 summary: "Gallery Jones | 20th Anniversary Group"
 ---
 

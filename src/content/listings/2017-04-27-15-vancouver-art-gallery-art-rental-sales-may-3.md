@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 15
 type: "CALL"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Art Rental & Sales | MAY 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 53
 type: "EVENT"
+venue: "grunt gallery"
 summary: "grunt gallery | Representing the Ephemeral | 7PM | JUL 9"
 ---
 

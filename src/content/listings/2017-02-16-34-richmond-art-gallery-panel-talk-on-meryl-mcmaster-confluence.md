@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 34
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Panel Talk on Meryl McMaster: Confluence | FEB 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 11
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | In A Queer Time and Place - New Additions #8 | AUG 12"
 ---
 
@@ -22,7 +23,7 @@ On Wednesday, August 12th Video Out will host a screening of works newly in
 distribution at VIVO Media Arts Centre that were selected based on the Call
 for Submissions "In A Queer Time and Place".
 
-The title of the call was directly inspired by Jack Halberstamâ€™s canonical
+The title of the call was directly inspired by Jack Halberstam’s canonical
 2005 text of the same name. In an effort to define a contemporary queer
 aesthetic (as Halberstam endeavoured to do) works selected for this program
 represent current visual and conceptual concerns and strategies within the

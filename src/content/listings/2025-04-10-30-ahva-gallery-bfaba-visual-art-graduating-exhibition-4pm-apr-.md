@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 30
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | BFA/BA Visual Art Graduating Exhibition | 4PM | APR 22"
 ---
 

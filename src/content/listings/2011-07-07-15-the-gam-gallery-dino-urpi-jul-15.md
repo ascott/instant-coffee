@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 15
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | Dino Urpi | JUL 15"
 ---
 
@@ -17,13 +18,13 @@ the Emily Carr University of Art and Design. Since that time he has been an
 active participant in the community, producing the vast amount of work included 
 in the exhibition along with various other sound, paint and print projects, which 
 are the areas he focused on while at the Emily Carr University of Art and Design. 
-The works in Da Carnivalesque reflect Urpiâ€™s zeal for life as he uses objects that 
-might be considered part of the so-called â€˜everyday,â€™ but are moreover illustrative 
+The works in Da Carnivalesque reflect Urpi’s zeal for life as he uses objects that 
+might be considered part of the so-called ‘everyday,’ but are moreover illustrative 
 of a playful imagination reflected in the kitschy and garish aspects of his 
-installation work. Urpiâ€™s formal considerations are tactile and geometric, creating 
+installation work. Urpi’s formal considerations are tactile and geometric, creating 
 an overarching stimulation of the senses that is at once grotesque and 
 sensuous, calling up a Rococo aesthetic that has become carnal and 
-uninhibited. His intuitive working process lends to the exhibitionâ€™s unadulterated 
+uninhibited. His intuitive working process lends to the exhibition’s unadulterated 
 celebration embodied in Carnival festivities across the world, where circus and 
 masquerade subvert the the mundane-ness of the everyday, thereby bringing 
 balance to the order of things, if only for a short time. The Gam Gallery is 

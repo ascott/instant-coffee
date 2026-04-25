@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happily destined for a life of imi
 emailDate: "Thu, 13 Jan 2011 12:50:34 -0800"
 number: 1
 type: ""
+venue: "Audain Gallery SFU"
 summary: "Audain Gallery SFU | The Long Take | till | JAN 12"
 ---
 

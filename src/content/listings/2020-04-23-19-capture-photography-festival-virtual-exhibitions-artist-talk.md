@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 19
 type: "TALK"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Virtual Exhibitions Artist Talk | 4-5PM | APR 28"
 ---
 

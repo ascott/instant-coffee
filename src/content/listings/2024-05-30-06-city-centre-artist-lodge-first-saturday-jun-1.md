@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 6
 type: "EVENT"
+venue: "City Centre Artist Lodge"
 summary: "City Centre Artist Lodge | First Saturday | JUN 1"
 ---
 

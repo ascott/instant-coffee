@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 20
 type: ""
+venue: "The Regina ATC Collective"
 summary: "The Regina ATC Collective | Call for Submission-No Story Too Small to Trade | JUN 30"
 ---
 

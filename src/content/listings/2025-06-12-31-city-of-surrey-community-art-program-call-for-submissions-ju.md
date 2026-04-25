@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 31
 type: "CALL"
+venue: "City of Surrey Community Art Program"
 summary: "City of Surrey Community Art Program | Call for Submissions | JUL 14"
 ---
 

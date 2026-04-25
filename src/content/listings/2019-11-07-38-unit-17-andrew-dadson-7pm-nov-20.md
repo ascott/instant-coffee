@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 38
 type: "TALK"
+venue: "Unit 17"
 summary: "Unit 17 | Andrew Dadson | 7PM | NOV 20"
 ---
 

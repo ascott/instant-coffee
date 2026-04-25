@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 43
 type: "CALL"
+venue: "Vancouver Outsider Arts Festival"
 summary: "Vancouver Outsider Arts Festival | Call for Outsider Artists! | MAR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 4
 type: ""
+venue: "Blim"
 summary: "Blim | Blim Monthly Community Market | DEC 20"
 ---
 

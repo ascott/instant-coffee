@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 42
 type: "CALL"
+venue: "Queer in Arts Festival"
 summary: "Queer in Arts Festival | Job Call: Production Manager and Visual Arts Prepa | MAR 27"
 ---
 

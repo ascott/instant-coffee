@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fashionable innovation"
 emailDate: "Thu, 17 Dec 2015 13:00:31 -0800"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Traces That Resemble Us: Arndt & Graham | DEC 17"
 ---
 

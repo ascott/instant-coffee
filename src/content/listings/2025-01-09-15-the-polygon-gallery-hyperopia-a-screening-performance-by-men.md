@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 15
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Hyperopia: A screening performance by Mena El Sha | JAN 16"
 ---
 

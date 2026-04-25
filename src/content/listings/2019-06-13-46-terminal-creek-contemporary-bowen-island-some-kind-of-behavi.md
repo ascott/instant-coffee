@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 46
 type: "OPENING"
+venue: "Terminal Creek Contemporary (BOWEN ISLAND)"
 summary: "Terminal Creek Contemporary (BOWEN ISLAND) | Some Kind of Behaviour | 12-4PM | JUN 22"
 ---
 

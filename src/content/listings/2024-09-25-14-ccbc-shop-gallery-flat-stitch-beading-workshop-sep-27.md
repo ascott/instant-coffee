@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 14
 type: "EDUCATION"
+venue: "CCBC Shop & Gallery"
 summary: "CCBC Shop & Gallery | Flat-Stitch Beading Workshop | SEP 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 4
 type: "OPENING"
+venue: "M.C.A.S."
 summary: "M.C.A.S. | Sydney Hart - Version Sub Rip | JUL 2"
 ---
 

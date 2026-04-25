@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mother of Pearl Moustache Comb"
 emailDate: "Thu, 17 Aug 2017 08:47:17 -0700"
 number: 24
 type: "CALL"
+venue: "City of Richmond Public Art Program"
 summary: "City of Richmond Public Art Program | No.3 Road Art Column Program 2018 | SEP 18"
 ---
 

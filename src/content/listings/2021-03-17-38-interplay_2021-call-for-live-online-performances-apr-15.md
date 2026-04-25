@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 38
 type: "CALL"
+venue: "interplay_2021"
 summary: "interplay_2021 | call for live online performances | APR 15"
 ---
 

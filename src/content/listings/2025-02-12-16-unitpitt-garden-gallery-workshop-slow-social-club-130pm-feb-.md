@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 16
 type: "EDUCATION"
+venue: "UNIT/PITT Garden + Gallery"
 summary: "UNIT/PITT Garden + Gallery | [WORKSHOP] Slow Social Club | 130PM | FEB 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 5
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | Storytelling with Emily Dundas Oke | 12PM & 2PM | AUG 25"
 ---
 

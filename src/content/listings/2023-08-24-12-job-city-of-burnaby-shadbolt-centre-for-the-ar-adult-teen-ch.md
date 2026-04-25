@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 12
 type: ""
+venue: "JOB"
 summary: "JOB | City of Burnaby – Shadbolt Centre for the Ar | Adult, Teen & Children Ceramic Arts Instructors | AUG 31"
 ---
 

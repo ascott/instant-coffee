@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 20
 type: "EVENT"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | The Transparency Machine | JUL 24"
 ---
 

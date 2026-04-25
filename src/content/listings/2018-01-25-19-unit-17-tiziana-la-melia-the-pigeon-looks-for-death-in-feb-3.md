@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 19
 type: ""
+venue: "UNIT 17"
 summary: "UNIT 17 | Tiziana La Melia: The Pigeon Looks for Death in... | FEB 3"
 ---
 

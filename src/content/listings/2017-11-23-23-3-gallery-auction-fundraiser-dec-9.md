@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 23
 type: "FUNDRAISER"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Auction Fundraiser | DEC 9"
 ---
 

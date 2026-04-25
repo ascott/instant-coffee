@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 18
 type: "CALL"
+venue: "Cinevolution"
 summary: "Cinevolution | Digital Carnival Z - Call for Artists | NOV 15"
 ---
 

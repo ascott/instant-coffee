@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 36
 type: "EVENT"
+venue: "Burnaby Arts Council"
 summary: "Burnaby Arts Council | Park's Edge Paint Off | JUL 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we’re waylaid "
 emailDate: "Wed, 04 Jan 2012 21:35:09 -0800"
 number: 12
 type: ""
+venue: "221A Artist Run Centre"
 summary: "221A Artist Run Centre | CALL FOR CURATORIAL RESIDENTS 2012-13 | FEB 6"
 ---
 

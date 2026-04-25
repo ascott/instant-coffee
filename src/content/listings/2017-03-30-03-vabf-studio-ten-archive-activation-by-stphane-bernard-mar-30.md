@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 3
 type: "EVENT"
+venue: "VABF Studio"
 summary: "VABF Studio | Ten + | Archive Activation by Stéphane Bernard | MAR 30"
 ---
 

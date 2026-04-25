@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 36
 type: "EVENT"
+venue: "One-Offs Pop Up"
 summary: "One-Offs Pop Up | Where No Thing is Like Any Other | DEC 2&3 | DEC 2"
 ---
 

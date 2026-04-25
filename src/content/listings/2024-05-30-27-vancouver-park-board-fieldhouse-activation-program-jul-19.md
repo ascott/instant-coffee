@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 27
 type: "CALL"
+venue: "Vancouver Park Board"
 summary: "Vancouver Park Board | Fieldhouse Activation Program | JUL 19"
 ---
 

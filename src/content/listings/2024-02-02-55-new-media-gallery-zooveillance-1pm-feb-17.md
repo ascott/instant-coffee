@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 55
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | ZOOVEILLANCE | 1PM | FEB 17"
 ---
 

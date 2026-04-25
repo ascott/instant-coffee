@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 12
 type: "TALK"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Holly Marie Armishaw and Miret Rodriguez | 1PM | NOV 17"
 ---
 

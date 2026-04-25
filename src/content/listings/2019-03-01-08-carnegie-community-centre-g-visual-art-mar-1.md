@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 8
 type: "OPENING"
+venue: "Carnegie Community Centre"
 summary: "Carnegie Community Centre | G Visual Art | MAR 1"
 ---
 

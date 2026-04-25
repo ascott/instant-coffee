@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 19
 type: ""
+venue: "COMMUNITY ARTS DIALOGUE"
 summary: "COMMUNITY ARTS DIALOGUE | Community, Politics and Resistance in Vancouver | JUN 18"
 ---
 

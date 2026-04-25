@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 14
 type: ""
+venue: "Centre A"
 summary: "Centre A | rhee | In memory of Wonil Rhee | MAR 16"
 ---
 
@@ -11,7 +12,7 @@ rhee
 In memory of Wonil Rhee
 
 Wednesday, March 16, 2011
-7:30 pm â€“ 9 pm
+7:30 pm – 9 pm
 Centre A (2 West Hastings Street, Vancouver)
 Live Streaming: http://www.ustream.tv/channel/wonilrhee
 
@@ -53,6 +54,6 @@ Centre A
 Vancouver International Centre for Contemporary Asian Art
 2 West Hastings Street, Vancouver, BC
 Canada V6B 1G6 Tel: 604.683.8326
-Gallery Hours: Tuesday â€“ Saturday 11 am â€“ 6 pm
-Sunday â€“ Monday closed
+Gallery Hours: Tuesday – Saturday 11 am – 6 pm
+Sunday – Monday closed
 www.centrea.org info@centrea.org

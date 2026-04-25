@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 57
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Batia Suter and Helga Pakasaar | 730PM | NOV 2"
 ---
 

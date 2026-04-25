@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 29
 type: ""
+venue: "Elissa Cristall Gallery"
 summary: "Elissa Cristall Gallery | Pictures at an Exhibition | FEB 24"
 ---
 

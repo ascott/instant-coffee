@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 13
 type: ""
+venue: "Langara College"
 summary: "Langara College | Behind the Lens with John Huet | MAR 5"
 ---
 

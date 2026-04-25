@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 12
 type: "TALK"
+venue: "221A"
 summary: "221A | Livestream: Introducing 221A’s 2021 Fellows | JAN 22"
 ---
 

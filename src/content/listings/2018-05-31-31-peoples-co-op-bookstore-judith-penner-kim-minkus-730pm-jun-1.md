@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 31
 type: "EVENT"
+venue: "People's Co-op Bookstore"
 summary: "People's Co-op Bookstore | Judith Penner & Kim Minkus | 7:30PM | JUN 14"
 ---
 

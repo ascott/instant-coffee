@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 34
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Wil Aballe Art Projects | QOQQOON | JUL 19"
 ---
 

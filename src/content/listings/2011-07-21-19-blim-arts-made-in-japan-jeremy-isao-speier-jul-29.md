@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 19
 type: ""
+venue: "BLIM Arts"
 summary: "BLIM Arts | MADE IN JAPAN: JEREMY ISAO SPEIER | JUL 29"
 ---
 
@@ -11,9 +12,9 @@ MADE IN JAPAN: JEREMY ISAO SPEIER
 
 Presented with BLIM Arts
 
-July 29 â€“ August 27, 2011
+July 29 – August 27, 2011
 
-Opening Friday, July 29, 6:30 â€“ 11:30PM
+Opening Friday, July 29, 6:30 – 11:30PM
 
 MIJ: Made In Japan: Deep Purple: Space Truckin', (1972), (2011)
 
@@ -48,13 +49,13 @@ industrial, but also as Main shifts toward gentrification the less industrial it
 becomes. The object marks the ever-changing psychographics of this Main 
 area. An important part of Speier's practice is about his urban geographical 
 vernacular of recycling and salvaging found objects and materials for reuse and 
-repurpose in his work. Speier uses obsolete technology of the 1970â€™s and 1980â€™s 
+repurpose in his work. Speier uses obsolete technology of the 1970’s and 1980’s 
 to reconfigure parts and motors for hand-made and self-made technologies in 
 Made in Japan.
 
 Time Traveler: BIO
 
-Jeremy Isao Speier is a time traveler â€“ explorer and his layered kinetic work is 
+Jeremy Isao Speier is a time traveler – explorer and his layered kinetic work is 
 about mobility and multiplicity. Speier is very interested in ideas around time: 
 Newtonian-time like the frame of a filmstrip across the time line; or Kant-time as 
 neither an event nor a thing; or Einstein-time and his special theory of relativity, 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 20
 type: "TALK"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Mark Sealy | APR 5"
 ---
 

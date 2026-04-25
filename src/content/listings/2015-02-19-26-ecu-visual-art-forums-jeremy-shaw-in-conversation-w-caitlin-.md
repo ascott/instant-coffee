@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 26
 type: "TALK"
+venue: "ECU Visual Art Forums"
 summary: "ECU Visual Art Forums | Jeremy Shaw in conversation w/ Caitlin Jones | MAR 2"
 ---
 

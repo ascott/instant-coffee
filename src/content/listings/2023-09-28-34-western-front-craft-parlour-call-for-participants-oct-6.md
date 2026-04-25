@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 34
 type: "CALL"
+venue: "Western Front"
 summary: "Western Front | Craft Parlour: Call for Participants | OCT 6"
 ---
 

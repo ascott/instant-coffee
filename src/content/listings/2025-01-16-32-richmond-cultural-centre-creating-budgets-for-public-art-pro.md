@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 32
 type: ""
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | Creating Budgets for Public Art Projects | FEB 8"
 ---
 

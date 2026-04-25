@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 8
 type: "OPENING"
+venue: "Gallery 626"
 summary: "Gallery 626 | Tiny Show | JAN 9"
 ---
 

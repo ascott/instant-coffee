@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 9
 type: "EVENT"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | DESTROY VANCOUVER XVII | JUN 25"
 ---
 

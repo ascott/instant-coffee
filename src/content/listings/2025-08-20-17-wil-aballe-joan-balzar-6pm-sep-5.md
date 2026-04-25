@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 17
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | JOAN BALZAR | 6PM | SEP 5"
 ---
 

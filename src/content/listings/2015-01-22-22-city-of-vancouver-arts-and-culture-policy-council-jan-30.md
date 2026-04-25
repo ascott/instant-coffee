@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 22
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | Arts and Culture Policy Council | JAN 30"
 ---
 

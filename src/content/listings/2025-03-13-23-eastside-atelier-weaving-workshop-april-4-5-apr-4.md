@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 23
 type: "EDUCATION"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Weaving Workshop | April 4-5 | APR 4"
 ---
 

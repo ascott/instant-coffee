@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 45
 type: "OPENING"
+venue: "Ground Floor Art Center"
 summary: "Ground Floor Art Center | Andrew James McKay | 8-11PM | APR 25"
 ---
 

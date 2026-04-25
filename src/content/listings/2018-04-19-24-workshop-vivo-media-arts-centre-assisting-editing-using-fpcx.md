@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 24
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO Media Arts Centre | Assisting Editing using FPCX | MAY 9"
 ---
 

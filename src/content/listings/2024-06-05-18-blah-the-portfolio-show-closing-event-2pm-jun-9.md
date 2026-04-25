@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 18
 type: "EVENT"
+venue: "BLAH"
 summary: "BLAH | The Portfolio Show CLOSING EVENT | 2PM | JUN 9"
 ---
 

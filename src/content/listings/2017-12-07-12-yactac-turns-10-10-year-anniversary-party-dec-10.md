@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 12
 type: "EVENT"
+venue: "Yactac Turns 10"
 summary: "Yactac Turns 10 | 10 Year Anniversary Party | DEC 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 8
 type: "CALL"
+venue: "CIVL Radio"
 summary: "CIVL Radio | $30k Journalism Grant | AUG 28"
 ---
 

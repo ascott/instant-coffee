@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 4
 type: "EVENT"
+venue: "Griffin Art Projects Residency"
 summary: "Griffin Art Projects Residency | COMBINE Art Fair 2023 | DEC 8-10 | DEC 8"
 ---
 

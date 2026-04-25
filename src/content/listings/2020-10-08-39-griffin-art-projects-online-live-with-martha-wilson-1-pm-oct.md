@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 39
 type: "TALK"
+venue: "Griffin Art Projects [ONLINE]"
 summary: "Griffin Art Projects [ONLINE] | Live with Martha Wilson | 1 PM | OCT 25"
 ---
 

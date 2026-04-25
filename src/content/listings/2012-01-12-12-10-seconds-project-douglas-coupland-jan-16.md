@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 12
 type: ""
+venue: "10 SECONDS PROJECT"
 summary: "10 SECONDS PROJECT | DOUGLAS COUPLAND | JAN 16"
 ---
 
@@ -15,7 +16,7 @@ the Government of Canada.
 
 Vancouver Codesis the latest manifestation of recent new work by Douglas 
 Coupland that extends the graphic black and white QR code into the realm of 
-colorful modernist paintings, while retaining the codeâ€™s original interactive 
+colorful modernist paintings, while retaining the code’s original interactive 
 function. Vancouver Codes is launching on Canada Line video screens Jan.16-
 31, 2012, on youtube, facebook and at www.onmaingallery.com. 
 
@@ -34,12 +35,12 @@ present information on screen.
 
 In 2011, Coupland exhibited several series of new paintings that riffed on the 
 use of QR codes. The paintings function as both 2-D works of art and as codes 
-that can be scanned to receive a message. Two of these paintings â€˜Live Long 
-And Prosperâ€™ and â€˜ Everything Beautiful is Trueâ€™ are part of Vancouver Codes.
+that can be scanned to receive a message. Two of these paintings ‘Live Long 
+And Prosper’ and ‘ Everything Beautiful is True’ are part of Vancouver Codes.
 
 Vancouver Codesis 10 seconds of elegantly shifting codes that link to twenty 
 pieces of data: including youtube videos, photographs of various sites such as 
-Grouse Mountain, VanDusen Gardens, public artworks including Couplandâ€™s 
+Grouse Mountain, VanDusen Gardens, public artworks including Coupland’s 
 Digital Orca and Terry Fox sculptures, and written messages. He has also 
 created a QR code that links to www.onmaingallery.com: all reasons to take out 
 your smart phone, scan that screen, and see where Coupland takes you. 
@@ -47,8 +48,8 @@ your smart phone, scan that screen, and see where Coupland takes you.
 Douglas Couplandis a well-known Canadian writer and visual artist. His fiction is 
 complemented by works in design and visual art arising from his early formal 
 training. His first novel, the 1991 international bestseller Generation X: Tales 
-for an Accelerated Culture, popularized terms such as â€˜McJobâ€™ and â€˜Generation 
-Xâ€™. He has published thirteen novels, a collection of short stories, seven non-
+for an Accelerated Culture, popularized terms such as ‘McJob’ and ‘Generation 
+X’. He has published thirteen novels, a collection of short stories, seven non-
 fiction books, and a number of works for film and television. Since resuming his 
 practice as a visual artist in 2001, he has exhibited in North America, Europe 
 and Asia. Recent major commissions include a Terry Fox memorial for 

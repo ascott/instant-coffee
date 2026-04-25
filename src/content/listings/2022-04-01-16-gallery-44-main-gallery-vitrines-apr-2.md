@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 16
 type: "CALL"
+venue: "Gallery 44"
 summary: "Gallery 44 | Main Gallery + Vitrines | APR 2"
 ---
 

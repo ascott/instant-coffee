@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 15
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | The Syndicate of Public Speakers | FEB 6"
 ---
 

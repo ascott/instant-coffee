@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 20
 type: "EVENT"
+venue: "Griffin Art Projects [ONLINE]"
 summary: "Griffin Art Projects [ONLINE] | Documenting Chinatown: A Conversation with Morris | APR 25"
 ---
 

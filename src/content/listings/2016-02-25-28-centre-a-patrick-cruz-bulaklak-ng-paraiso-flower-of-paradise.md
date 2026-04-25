@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 28
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Patrick Cruz: Bulaklak ng Paraiso (Flower of Paradise) | MAR 4"
 ---
 

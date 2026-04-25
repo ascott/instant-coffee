@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 28
 type: "EVENT"
+venue: "Seymour Art Gallery [DEEP COVE]"
 summary: "Seymour Art Gallery [DEEP COVE] | NEW & EMERGING Art and Poetry Reading | AUG 27"
 ---
 

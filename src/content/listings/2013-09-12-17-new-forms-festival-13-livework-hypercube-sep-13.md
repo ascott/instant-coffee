@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 17
 type: ""
+venue: "New Forms Festival 13"
 summary: "New Forms Festival 13 | Live/Work: Hypercube | SEP 13"
 ---
 

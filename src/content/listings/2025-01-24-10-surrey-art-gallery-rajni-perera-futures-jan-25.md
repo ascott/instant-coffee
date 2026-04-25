@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 10
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Rajni Perera: Futures | JAN 25"
 ---
 

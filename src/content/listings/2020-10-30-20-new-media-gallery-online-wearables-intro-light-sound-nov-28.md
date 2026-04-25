@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 20
 type: "EDUCATION"
+venue: "New Media Gallery [ONLINE]"
 summary: "New Media Gallery [ONLINE] | Wearables: Intro, Light + Sound | NOV 28"
 ---
 

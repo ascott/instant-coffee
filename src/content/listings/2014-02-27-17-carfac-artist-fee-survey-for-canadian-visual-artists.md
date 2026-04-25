@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 17
 type: ""
+venue: "CARFAC"
 summary: "CARFAC | Artist Fee Survey for Canadian Visual Artists"
 ---
 
@@ -32,32 +33,32 @@ voted on by our members on a yearly basis.
 
 Complete the survey: http://svy.mk/N7SgKh
 
-Sondage sur la rÃ©munÃ©ration des artistes canadiens en arts visuels
+Sondage sur la rémunération des artistes canadiens en arts visuels
 
-Mais avez-vous payÃ© l'artiste ? Partagez vos expÃ©riences ! 
+Mais avez-vous payé l'artiste ? Partagez vos expériences ! 
 
-La rÃ©munÃ©ration des artistes en arts visuels est au cÅ“ur du mandat de 
+La rémunération des artistes en arts visuels est au cœur du mandat de 
 CARFAC. La grille tarifaire de CARFAC comprend des recommandations sur 
 les droits d'exposition, les droits de reproduction et les honoraires pour 
 services professionnels.
 
-Nous voulons connaÃ®tre votre opinion en tant qu'artiste, fondÃ©e sur votre 
-expÃ©rience personnelle Ã  l'Ã©gard du paiement des diffÃ©rents types de droits 
+Nous voulons connaître votre opinion en tant qu'artiste, fondée sur votre 
+expérience personnelle à l'égard du paiement des différents types de droits 
 et honoraires. 
 
 Nous sommes une association d'artistes et quand vous partagez votre 
-expÃ©rience avec nous, nous pouvons mieux reprÃ©senter tous les artistes 
-canadiens en arts visuels et nÃ©gocier une grille tarifaire avec davantage de 
-confiance et d'assurance. Nous vous encourageons Ã  remplir le sondage et Ã  
-transmettre le questionnaire Ã  d'autres artistes professionnels.
+expérience avec nous, nous pouvons mieux représenter tous les artistes 
+canadiens en arts visuels et négocier une grille tarifaire avec davantage de 
+confiance et d'assurance. Nous vous encourageons à remplir le sondage et à 
+transmettre le questionnaire à d'autres artistes professionnels.
 
-La grille tarifaire de CARFAC constitue un guide gÃ©nÃ©ral sur ce que devrait 
-Ãªtre la rÃ©munÃ©ration minimale des artistes, et chaque artiste ou son collectif 
-peut s'en inspirer pour fixer un tarif ou nÃ©gocier un tarif supÃ©rieur. CARFAC 
+La grille tarifaire de CARFAC constitue un guide général sur ce que devrait 
+être la rémunération minimale des artistes, et chaque artiste ou son collectif 
+peut s'en inspirer pour fixer un tarif ou négocier un tarif supérieur. CARFAC 
 fait des recommandations depuis 1968 en ce qui a trait aux tarifs pour 
-l'utilisation des Å“uvres protÃ©gÃ©es par le droit d'auteur et aux honoraires de 
+l'utilisation des œuvres protégées par le droit d'auteur et aux honoraires de 
 services professionnels pour des artistes en arts visuels et en arts 
-mÃ©diatiques; nous nÃ©gocions et actualisons nos tarifs rÃ©guliÃ¨rement. Nos 
-membres sont appelÃ©s Ã  voter sur tous ces tarifs une fois par an. 
+médiatiques; nous négocions et actualisons nos tarifs régulièrement. Nos 
+membres sont appelés à voter sur tous ces tarifs une fois par an. 
 
 Sondage : http://svy.mk/NzHrQZ

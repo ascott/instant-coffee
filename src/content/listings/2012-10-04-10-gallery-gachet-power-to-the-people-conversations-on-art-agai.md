@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 10
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Power to the People: Conversations on Art Against | OCT 7"
 ---
 
 Panel Day at Gallery Gachet
 Power to the People: Conversations on Art Against Oppression
-Sun Oct 7th, 2012, 2 â€“ 6.30pm
+Sun Oct 7th, 2012, 2 – 6.30pm
 Gallery Gachet, 88 East Cordova Street, Vancouver
 www.gachet.org
 
-Panel 1 â€“ The Power of Art, Activism and Performance - 2 - 3.30pm
+Panel 1 – The Power of Art, Activism and Performance - 2 - 3.30pm
 Co-presented by Institutions by Artists, LIVE and Gallery Gachet
 Performance has the power to create socio-economic change. Artists working 
 in the field of performance art, community based theatre, and participatory art 
@@ -31,7 +32,7 @@ festival, LIVE. livebiennale.ca
 Speakers:
 Chumpon Apisuk, is founder of Concrete House, an art and community space 
 and the only performance art venue in Thailand. He is also a founder and 
-director of Asiatopia â€“ an International Performance Art Festival in Thailand. In 
+director of Asiatopia – an International Performance Art Festival in Thailand. In 
 2004, he was nominated as coordinator of _Silabha_ a cultural program of the 
 15th International AIDS Conference in Bangkok and is known for his activism 
 in HIV/AIDS, Human Rights, and democracy issues. He has been 
@@ -44,7 +45,7 @@ Terry Hunter, is Co-founder/Executive Director of Vancouver Moving Theatre
 and Artistic Producer of the Downtown Eastside Heart of the City Festival. Mr. 
 Hunter has also produced numerous innovative productions that give voice to 
 the residents of the Downtown Eastside. Highlights include In the Heart of a 
-City: The DTES Community Play (2003); Weâ€™re All In This Together- the 
+City: The DTES Community Play (2003); We’re All In This Together- the 
 Shadows Project (2005-07), and A Downtown Eastside Romeo and Juliet 
 (2008), a tragic comedy theatre production that shed light on homelessness 
 from a Downtown Eastside perspective.
@@ -77,7 +78,7 @@ facing marginalization while seeking to open a space for all women to find an
 empowered, self-directed voice, one that engages with their inner creativity 
 and connects to their strength as women.
 
-Moderator â€“ Bernadine Fox, Artist and Writer
+Moderator – Bernadine Fox, Artist and Writer
 Bernadine Fox, is a visual artist and social activist working in the field of 
 disability arts, art and mental health. By weaving colours, objects, and words, 
 Fox constructs ethnographic-based narratives in art as she examines the 
@@ -97,7 +98,7 @@ expression; inspiring a process of reflection and questioning, where people
 challenge the traditional beliefs they hold. Noi has received a number of 
 honors in recognition of her work, including the â€œIt Worksâ€  award from the 
 Norwegian government in 1990, a scholarship from Harvard Law School for 
-International Human Rights training in 1997, and the â€œOutstanding Social 
+International Human Rights training in 1997, and the “Outstanding Social 
 Workerâ€  award, in 2000, from the Social Welfare Department of Thailandâ€™s 
 Ministry of Social and Labour Affairs. Recently, Empower received the 
 â€œHuman Rights Awardâ€  in 2006 as an outstanding organization committed to 
@@ -108,11 +109,11 @@ www.empowerfoundation.org.
 
 Susan Davis, is an active sex worker of 24 years, who is involved in sex 
 worker rights and labour organizing and is development coordinator for 
-Canadaâ€™s first sex worker cooperative, the West Coast Cooperative of Sex 
+Canada’s first sex worker cooperative, the West Coast Cooperative of Sex 
 Industry Professionals. She is a respected spokeswoman for the sex worker 
 rights movement whc has lectured on her experiences at universities and 
 colleges and testified to various government bodies, including to the Missing 
-Womenâ€™s Commission of Inquiry. Susan sits on numerous committees as 
+Women’s Commission of Inquiry. Susan sits on numerous committees as 
 she works to support sex worker rights and safety.
 
 Shauna Paull is the author of roughened in undercurrent (Leaf Press, 2008). A 
@@ -123,7 +124,7 @@ different organizations in Vancouver. In community, Shauna has worked
 extensively with migrant and refugee women in areas of labour and mobility 
 rights, poverty alleviation and legislative reform.
 
-5.30 - 6.30pm â€“ screening of Empower Foundationâ€™s movie, â€œLast Rescue in 
+5.30 - 6.30pm – screening of Empower Foundation’s movie, “Last Rescue in 
 Siamâ€ ,
 followed by informal reception with turkey fare and drinks!
 
@@ -133,6 +134,6 @@ performance and promise of contemporary artist-run centres and initiatives.
 Including a three day conference, a series of exhibitions and events, 
 commissions and publications, Institutions by Artists is organized by Pacific 
 Assn. of Artist-run Centres, Fillip magazine and ARCA, the Artist-Run 
-Centres and Collectives Conference/ConfÃ©rence des collectifs et des centres 
-dâ€™artistes autogÃ©rÃ©s.
+Centres and Collectives Conference/Conférence des collectifs et des centres 
+d’artistes autogérés.
 Complete listings: arcpost.ca

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 1
 type: "TALK"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Paper Play:"
 ---
 

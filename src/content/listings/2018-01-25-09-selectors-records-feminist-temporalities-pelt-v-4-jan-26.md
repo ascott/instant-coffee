@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 9
 type: ""
+venue: "Selectors Records"
 summary: "Selectors Records | Feminist Temporalities (PELT V. 4) | JAN 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 21
 type: "EDUCATION"
+venue: "pomo arts"
 summary: "pomo arts | [WORKSHOP] DIY Keychains | OCT 17"
 ---
 

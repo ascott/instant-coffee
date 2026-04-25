@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 27
 type: "CALL"
+venue: "RECESS"
 summary: "RECESS | Moving Out Open Call | FEB 1"
 ---
 
@@ -33,7 +34,7 @@ to build a model for what a curatorial program might look like in times of
 growing economic precarity and a lack of fixed resources.
 
 We are accepting submissions from West Coast artists and groups that cohere
-with RECESSâ€™ mission and the specific concerns of Moving Out.
+with RECESS’ mission and the specific concerns of Moving Out.
 
 Please e-mail completed applications to info@recessart.com by February 1st,
 2015. Applicants will be notified on a rolling basis through May, 2015.
@@ -47,7 +48,7 @@ directly to your email.
 - A description of your proposed project. Please include:
 - - A clear and concise description of your proposed project and how
 you intend it to be presented as part of Moving Out (no more than 200 words).
-- Explain how your proposed project relates to Moving Outâ€™s
+- Explain how your proposed project relates to Moving Out’s
 conceptual motivation (no more than 200 words).
 - - Describe any support you will require to complete the project you
 are proposing. This should include any materials, travel, venues, services,

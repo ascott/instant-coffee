@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 19
 type: "EDUCATION"
+venue: "Burnaby Arts Council"
 summary: "Burnaby Arts Council | Canada Council Info Session | 10 AM | JAN 30"
 ---
 

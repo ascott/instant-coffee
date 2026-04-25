@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Appenda...3"
 emailDate: "Fri, 04 Nov 2016 07:26:09 -0700"
 number: 3
 type: ""
+venue: "NEWS"
 summary: "NEWS | Sobey Art Award | Jeremey Shaw | NOV 3"
 ---
 

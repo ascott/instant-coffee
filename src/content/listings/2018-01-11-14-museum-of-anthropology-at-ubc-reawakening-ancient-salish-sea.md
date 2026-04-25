@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 14
 type: ""
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Reawakening Ancient Salish Sea Basketry | JAN 18"
 ---
 

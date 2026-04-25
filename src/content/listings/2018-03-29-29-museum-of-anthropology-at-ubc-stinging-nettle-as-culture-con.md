@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 29
 type: "EVENT"
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Stinging Nettle as Culture Connector | 1-2PM | APR 7"
 ---
 

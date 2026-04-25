@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the only way up is down"
 emailDate: "Thu, 11 Jun 2009 09:25:08 -0700"
 number: 5
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | Jessica Eaton | JUN 12"
 ---
 

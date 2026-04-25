@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery: opens two exhibitions"
 summary: "Contemporary Art Gallery: opens two exhibitions | Stefan Bruggemann and The Act of Seeing... | JUN 12"
 ---
 
@@ -55,14 +56,14 @@ Thursday, June 26 from 8-10pm.
 Stefan Bruggemann
 'Headlines and Last Lines in the Movies'
 June 13 to September 7, 2014
-Gallery faÃƒÂ§ade
+Gallery faÃ§ade
 
 'Headlines & Last Lines in the Movies' transforms the facade of the
 Contemporary Art Gallery, wooden cladding covering its frontage and south
 east corner. Resembling a construction site, the structure becomes the
 ground for the work; the title a precise description of itself. In this new mural,
 Bruggemann writes headlines from current newspapers, from local to global,
-in combination with excerpts of last lines from popular films. Ã¢â‚¬ËœForget it Jake, 
+in combination with excerpts of last lines from popular films. â€˜Forget it Jake, 
 its
 Chinatown could be spray-painted next to Enbridge Pipeline Rejected, the
 juxtaposition of appropriated texts creating both a familiarity and an oddly

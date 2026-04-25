@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 16
 type: ""
+venue: "Western Front"
 summary: "Western Front | Lee Kit | NOV 17"
 ---
 
@@ -22,8 +23,8 @@ the second exhibition in his apartments series, Henry (Have you ever been this
 low?), Lee has developed a new body of work including his well-known hand 
 painted cloths and newer cardboard paintings. These works will be arranged in 
 the loose setting of a domestic environment, inhabited by an absent character 
-who is partially inspired by an unpopular civic politician from Leeâ€™s home city of 
-Hong Kong. The exhibition will encapsulate the emotions of a scorned manâ€”
+who is partially inspired by an unpopular civic politician from Lee’s home city of 
+Hong Kong. The exhibition will encapsulate the emotions of a scorned man—
 where the accumulated shame and guilt of an ostracized public figure can be 
 reflected upon.
 
@@ -31,7 +32,7 @@ Lee Kit is an artist who lives and works in Hong Kong. His work has previously
 been exhibited at Art Basel | Art Statements 42 (Basel), ShugoArts (Tokyo), MiArt 
 (Milan), Bonier Konsthal (Stockholm), Royal College of Art (London) and 
 Para/Site (Hong Kong). Upcoming solo exhibitions will take place at Project Fulfill 
-Space (Taipei) and Galleria Dellâ€™Arco (Palermo). 
+Space (Taipei) and Galleria Dell’Arco (Palermo). 
 
 With thanks to the Osage Art Foundation for their generous support of this 
 exhibition
@@ -49,11 +50,11 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free 
 
 Copyright (C) 2011 Western Front Society All rights reserved 
 
-Sent to j.papararo@contemporaryartgallery.ca â€” why did I get this? 
+Sent to j.papararo@contemporaryartgallery.ca — why did I get this? 
 unsubscribe from this list | update subscription preferences 
-Western Front Society â€¢ 303 East 8th Ave. â€¢ Vancouver, BC V5T 1S1
+Western Front Society • 303 East 8th Ave. • Vancouver, BC V5T 1S1

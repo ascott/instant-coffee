@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 4
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Sunbeams | JUN 28"
 ---
 
@@ -37,12 +38,12 @@ but rather an examination of our relationships to rituals, prophecies, and our
 own sense of mortality.
 
 Everyday life, literature, psychology, and art history are frequently referenced 
-in Shannon Boolâ€™s (Berlin) work, which takes a range of forms including wall 
+in Shannon Bool’s (Berlin) work, which takes a range of forms including wall 
 paintings, photograms, collage, and sculpture. Casino Runner (Aztec Inn) 
 (2011) is a twenty-foot-long carpet whose pattern is derived from a wall-to-wall 
 floor covering of an Aztec-themed casino from the 1980s. The casino itself is 
 homage to a relic of American Art Deco, the Aztec Hotel, which continues to 
-operate in Monrovia, California. The hotel exemplifies American Art Decoâ€™s 
+operate in Monrovia, California. The hotel exemplifies American Art Deco’s 
 appropriation of the geometric patterns and symbols of ancient Mexican 
 civilizations, and Casino Runner complicates this cross-cultural relationship. 
 Hand-woven by traditional village weavers in Anatolia, Turkey, the carpet 
@@ -53,7 +54,7 @@ Since 2009, Heather Goodchild (Toronto) has focused her work on Anna Ward
 Brouse, an imagined character in a secret society conceived by the artist. 
 Brouse is an amalgamation of several 19th century North American spiritual 
 leaders, and within this constructed narrative Goodchild develops systems, 
-regalia and rituals of Brouseâ€šs visions, using this process to locate meaning 
+regalia and rituals of Brouse‚s visions, using this process to locate meaning 
 within her own desire for spirituality and ritual in a culture lacking religion. In 
 Journey Portrait (2009) and Journey Landscape (2009), Goodchild draws from 
 the rituals and symbolism of Freemasonry, Girl Guides, and childhood 
@@ -81,5 +82,5 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

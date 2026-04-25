@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 9
 type: "CALL"
+venue: "CALL FOR ARTISTS & ARTISANS!"
 summary: "CALL FOR ARTISTS & ARTISANS! | AUG 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 16
 type: "EDUCATION"
+venue: "Dundarave Print Workshop + Gallery"
 summary: "Dundarave Print Workshop + Gallery | Transforming the Ordinary | MAR 29/30 | MAR 29"
 ---
 

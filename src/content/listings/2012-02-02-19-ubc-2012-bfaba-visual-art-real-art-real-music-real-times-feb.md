@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 19
 type: ""
+venue: "UBC 2012 BFA/BA Visual Art"
 summary: "UBC 2012 BFA/BA Visual Art | REAL ART | REAL MUSIC | REAL TIMES | FEB 16"
 ---
 
@@ -19,7 +20,7 @@ Vancouver, BC
 
 The UBC 2012 BFA/BA Visual Art graduating class cordially invites you 
 to an exciting artistic and musical event to promote and raise the funds 
-for this yearâ€™s Graduating Exhibition 'Too Deep For You,' which will 
+for this year’s Graduating Exhibition 'Too Deep For You,' which will 
 open in April 2012.
 
 SILENT ART AUCTION will feature works by:

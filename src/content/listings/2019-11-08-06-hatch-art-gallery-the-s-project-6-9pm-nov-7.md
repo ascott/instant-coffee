@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 6
 type: "EVENT"
+venue: "Hatch Art Gallery"
 summary: "Hatch Art Gallery | The S Project | 6-9PM | NOV 7"
 ---
 

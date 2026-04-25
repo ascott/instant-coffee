@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 36
 type: "CALL"
+venue: "City of Victoria"
 summary: "City of Victoria | Public Art for Johnson Street Parkade | FEB 2"
 ---
 
@@ -13,7 +14,7 @@ City of Victoria
 Victoria, BC
 Budget: $125,000 (all inclusive)
 Eligibility: Open to artists who are residents of Canada
-Deadline: Monday, February 2, 2015 â€“ 1 p.m. (PST)
+Deadline: Monday, February 2, 2015 – 1 p.m. (PST)
 
 Artists and artist teams are invited to submit an Expression of Interest to
 enter a national, three-stage juried competition to create new public art

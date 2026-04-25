@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 43
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | The Writing Table joined by Sky Goodden | 6-8PM | APR 24"
 ---
 

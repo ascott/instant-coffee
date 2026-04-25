@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 9
 type: "TALK"
+venue: "AHVA Gallery [ONLINE]"
 summary: "AHVA Gallery [ONLINE] | ARTIST TALKS | 4PM | APRIL 28-29 | APR 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watc
 emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
 number: 7
 type: ""
+venue: "OR at Djavad Mowafaghian World Art Centre"
 summary: "OR at Djavad Mowafaghian World Art Centre | PERFORMANCE: Clamour and Toll | FEB 16"
 ---
 

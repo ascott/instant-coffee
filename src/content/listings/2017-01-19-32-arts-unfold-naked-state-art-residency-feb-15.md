@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 32
 type: "CALL"
+venue: "Arts Unfold"
 summary: "Arts Unfold | Naked State art residency | FEB 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 22
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | ECU | Launch and talk with Lyndl Hall | 6PM | NOV 13"
 ---
 

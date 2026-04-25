@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 2
 type: ""
+venue: "Centre A"
 summary: "Centre A | Henry Tsang and Kotama Bouabane | FEB 13"
 ---
 
@@ -32,7 +33,7 @@ exhibited in many galleries including Gallery TPW, Parisian Laundry and Jen
 Bekman Gallery. His work has been published in Prefix Photo Magazine and 
 Magenta Foundations Flash Forward in 2010 & 2012. He currently holds a 
 position in the photography department at OCADU and York University and is 
-represented in Toronto by ESP â€“ Erin Stump Projects.
+represented in Toronto by ESP – Erin Stump Projects.
 Henry Tsang is a visual and media artist and occasional curator whose work 
 has been exhibited internationally. His projects incorporate digital media, 
 video, photography, language and sculptural elements in the exploration of 

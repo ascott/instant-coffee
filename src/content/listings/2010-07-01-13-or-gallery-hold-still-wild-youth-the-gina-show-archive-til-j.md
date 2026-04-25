@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 13
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Hold Still Wild Youth: the GINA Show Archive | til | JUL 10"
 ---
 
@@ -12,7 +13,7 @@ June 5 - July 10, 2010
 
 Curated by Allison Collins
 
-A new exhibition about the GINA Show, John Andersonï¿½s television art
+A new exhibition about the GINA Show, John Anderson�s television art
 project, will be shown nearly thirty years after its initial broadcast in
 1979 on Vancouver Cable 10, at the height of the punk and media DIY
 movement in Vancouver.

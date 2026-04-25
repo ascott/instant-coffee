@@ -425,10 +425,10 @@ __
 Feb 24 09 | Cineworks | 6pm | Free | cineworks.ca
 Thought on Film: The Condition of Post-modernity
 An excerpt from David Harvey's The Condition of Post-modernity will be
-presented for group reading and discussion. HarveyÃ¢ï¿½ï¿½s answer to Fred
+presented for group reading and discussion. Harveyâ��s answer to Fred
 JamesonÃ¢ï¿½ï¿½s Cultural Logic of Late Capitalism, and Jean-FranÃ&#65533;Â§ois LyotardÃ¢ï¿½ï¿½s
 The Postmodern Condition is a significant influence on Young, Giroux and
-BlackwellÃ¢ï¿½ï¿½s work because of HarveyÃ¢ï¿½ï¿½s rigorous basis of his analysis of
+Blackwellâ��s work because of Harveyâ��s rigorous basis of his analysis of
 cultural and social change in the economic and his special emphasis on
 social geography and the production of space.
 ________
@@ -603,13 +603,13 @@ www.jeffreyboonegallery.com
 REECE TERRIS
 
 Opening Reception: Thursday 12 February 6-9pm (Reece Terris in Attendance)
-Exhibition Dates: 05 February Â­ 15 March 2009
+Exhibition Dates: 05 February ­ 15 March 2009
 Artist Talk: Saturday 07 February 2pm
 
 The Jennifer Kostuik Gallery is pleased to announce the first solo
 exhibition with interdisciplinary artist Reece Terris. The exhibit consists
 of two parts. The first features new work based on the process of creating
-the artistÂ¹s large-scale installation project for the Vancouver Art Gallery,
+the artist¹s large-scale installation project for the Vancouver Art Gallery,
 entitled Ought Apartment. The second part of the exhibit provides a survey
 of prominent works by Terris from 2002 to the present.
 
@@ -623,20 +623,20 @@ choices of the era, with exterior walls removed to allow views within. In
 keeping with the authenticity and architectural accuracy of the work, the
 dimensions of each apartment fluctuate so that the design at each level
 indicates the floor plan specific to that decade. As a result, each floor
-reflects the dimension, layout and dÃ©cor emblematic of that periodÂ¹s
+reflects the dimension, layout and décor emblematic of that period¹s
 domestic living and interior design arrangements.
 
-The front section of the Jennifer Kostuik Gallery will feature TerrisÂ¹ new
+The front section of the Jennifer Kostuik Gallery will feature Terris¹ new
 photographic series, Interior Views. These photographs capture interior
 scenes from homes slated for demolition, when the artist was in the process
 of removing and recycling household objects to be used in the Ought
 Apartment installation. They are testimonies of the last stand in time for a
-home, depicting a lone chair or a childÂ¹s drawings on a blank wall, before
+home, depicting a lone chair or a child¹s drawings on a blank wall, before
 its final destruction. The photographs are a considered attempt to emphasize
-the role played by objects in culture Â­ to allow the viewer to witness the
+the role played by objects in culture ­ to allow the viewer to witness the
 fugitive character of their own commitment to consumption. Ideas of
 conservation, maintenance and sustainability permeate the work, reflecting
-the artistÂ¹s investigation towards the enduring nature of material culture
+the artist¹s investigation towards the enduring nature of material culture
 while critiquing of the ethical and environmental costs to which we will
 satisfy the ideal that our home is a refection of ourselves.
 
@@ -645,16 +645,16 @@ Biography
 Born and raised in Vancouver, Terris has traveled and worked as a
 professional carpenter in different countries around the world. His art
 practice extends into a variety of media, including sculptural installation,
-performance, video and photography. TerrisÂ¹ work has been exhibited
+performance, video and photography. Terris¹ work has been exhibited
 throughout Canada and the USA: Spectacle and Artifice (2008), The Macdonald
 Stewart Art Centre, ON; Contrasting Objectives (2006), Whatcom Museum of
 History & Art, Bellingham, WA; Campsites (2005), The Walter Phillips Gallery
 Banff, AB; Trailer (Trivial Pursuit) (2002), Vancouver Art Gallery.
 
-Gallery hours: Tuesday to Wednesday 10am Â­ 6pm
-Thursday to Friday 10am Â­ 8pm
-Saturday 10am Â­ 6pm
-Sunday 1pm Â­ 5pm
+Gallery hours: Tuesday to Wednesday 10am ­ 6pm
+Thursday to Friday 10am ­ 8pm
+Saturday 10am ­ 6pm
+Sunday 1pm ­ 5pm
 
 
 
@@ -678,7 +678,7 @@ all available works.
 AEXCESS auction. Featuring work by:
 
 Abbas Akhavan, Rebecca Belmore, Raymond Boisjoly, Matthew Brown, Matt
-Bushell, Wes Cameron, Sean Coggins, Christine DÃ¢'Onofrio, Derek Dunlop,
+Bushell, Wes Cameron, Sean Coggins, Christine Dâ'Onofrio, Derek Dunlop,
 Jessica Eaton, Geoffrey Farmer, Angus Ferguson, Jason Fitzpatrick, Jacob
 Gleeson, Babak Golkar, Jesse Gray, Jeremy Hatch and David Khang, Christian
 Kliegel, Gwenessa Lam, Arvo Leo, Justin Ogilvie, Sara Mameni, Phillip
@@ -844,7 +844,7 @@ Ideal applicants will have:
 
 - Excellent organizational and management skills
 
--Â¢ Advanced writing skills and verbal communication
+-¢ Advanced writing skills and verbal communication
 
 -Superior grant writing capability
 

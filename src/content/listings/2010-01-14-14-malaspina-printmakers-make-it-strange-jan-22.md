@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Strange. The first time I've heard
 emailDate: "Thu, 14 Jan 2010 04:42:53 -0800"
 number: 14
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Make It Strange | JAN 22"
 ---
 

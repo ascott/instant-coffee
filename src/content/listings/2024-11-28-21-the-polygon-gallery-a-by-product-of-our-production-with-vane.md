@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 21
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | A By-Product Of Our Production With Vanessa R. Sch | DEC 5"
 ---
 

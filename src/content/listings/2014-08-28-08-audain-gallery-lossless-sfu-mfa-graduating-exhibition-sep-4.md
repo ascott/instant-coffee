@@ -4,39 +4,40 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 8
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Lossless: SFU MFA Graduating Exhibition | SEP 4"
 ---
 
 Lossless: SFU MFA Graduating Exhibition
 
 Audain Gallery, Vancouver
-September 4 â€“ 27, 2014
+September 4 – 27, 2014
 
 Lossless is an exhibition featuring graduating projects by the 2014 MFA
-candidates at Simon Fraser Universityâ€™s School for the Contemporary Arts.
-Video, sculpture, performance and installation projects by this yearâ€™s
+candidates at Simon Fraser University’s School for the Contemporary Arts.
+Video, sculpture, performance and installation projects by this year’s
 graduates share a number of related concerns, while formulating distinct
 frameworks for individual investigation.
 
-Deborah Edmeadesâ€™ video work and Luciana Dâ€™AnunciaÃ§Ã£oâ€™s performances pursue
-questions of subjective and sensory experience. Edmeadesâ€™ two-channel
+Deborah Edmeades’ video work and Luciana D’Anunciação’s performances pursue
+questions of subjective and sensory experience. Edmeades’ two-channel
 video, On the Validity of Illusion, shows a woman offering sage advice to
-her double. The trope of the spirit guide figures the events that follow â€“
-the staging of various optical tricks and sensory effects â€“ as charmed
+her double. The trope of the spirit guide figures the events that follow –
+the staging of various optical tricks and sensory effects – as charmed
 one-acts and mythical labours. The methodical experiments conjure the work
 of a scientist but the tone suggests rather, serious and exhaustive play.
-Performances by D'AnunciaÃ§Ã£o engage the body as a shape, a sound and a
+Performances by D'Anunciação engage the body as a shape, a sound and a
 malleable force. Poses and gestures, in combination with projected light
 and video, visually disorder the body and render the human form strange to
 the eye. Responding to various materials that have been uprooted and
-imported for the performance, the artistâ€™s graduating project, When will my
+imported for the performance, the artist’s graduating project, When will my
 hands become roots?, considers embodied impressions of locatedness.
 
 Videos by Jeffrey Langille and sculptures by Avery Nabata explore temporal
-orders and perceptual modes. Langilleâ€™s videos are often set in liminal
+orders and perceptual modes. Langille’s videos are often set in liminal
 zones and animated by atmospheric effects and happenstance events. Some
 scenes are so quiet and motionless that the moving images could be mistaken
-for still photos. Once weâ€™re drawn into the slow tempo of these works
+for still photos. Once we’re drawn into the slow tempo of these works
 however, we begin to pay careful attention to their subjects and subtle
 â€œhappenings.â€  Interested in cycles of making and unmaking, Nabataâ€™s wood
 sculptures are lightly managed, anticipatory objects. The subtle forms
@@ -45,12 +46,12 @@ gathering in their minimal parts some projection of a cohesive whole.
 
 Nathaniel Wong has examined, often to comic effect, vernacular languages
 and forms that exist alongside established disciplines. Invoking the
-conventions of music and cinema, Wongâ€™s installation, Thus Spoke Death and
+conventions of music and cinema, Wong’s installation, Thus Spoke Death and
 Transfiguration, loosely relates engrained creative habits, ritual acts and
 blithe theatricality.
 
 The exhibition of a graduating project represents the culmination of a
-candidateâ€™s studies, and is presented in partial fulfillment of the
+candidate’s studies, and is presented in partial fulfillment of the
 requirements for the degree of Master of Fine Arts.
 
 Presented with the School for the Contemporary Arts at SFU.
@@ -60,12 +61,12 @@ Opening Reception
 Wednesday, September 10, 7pm
 
 Installation and Performance: When will my hands become roots?
-Luciana Dâ€™AnunciaÃ§Ã£o
-September 10 â€“ 13
+Luciana D’Anunciação
+September 10 – 13
 Studio T (on the 2nd floor)
-Sept. 10: Installation, 7 â€“ 9pm
-Sept. 11 â€“ 13: Installation, 12 â€“ 6pm
-Sept. 11 â€“ 13: Performance, 8pm
+Sept. 10: Installation, 7 – 9pm
+Sept. 11 – 13: Installation, 12 – 6pm
+Sept. 11 – 13: Performance, 8pm
 
 Thank you!
 
@@ -73,7 +74,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audain@sfu.ca

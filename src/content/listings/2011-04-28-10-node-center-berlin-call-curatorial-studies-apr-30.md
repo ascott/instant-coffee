@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 10
 type: ""
+venue: "Node Center Berlin"
 summary: "Node Center Berlin | CALL: Curatorial studies | APR 30"
 ---
 
@@ -15,7 +16,7 @@ www.nodecenter.org
 
 Contact
 info@nodecenter.org
-Ignacio GarcÃ­a GÃ³mez del Valle / Perla Montelongo
+Ignacio García Gómez del Valle / Perla Montelongo
 Phone: +49 152 2769 9078 Address
 www.nodecenter.org
 Node Center for Curatorial Studies
@@ -24,9 +25,9 @@ Waldemarstr. 37A
 Germany
 Info
 Open application period: 
-April 1st â€“ April 30th 2011 
+April 1st – April 30th 2011 
 Program dates: 
-June 21st â€“ September 16th 2011
+June 21st – September 16th 2011
 
 Share this announcement on: Facebook | Twitter 
 Node Center Berlin announces The Curatorial Studies Residency 
@@ -93,10 +94,10 @@ Institution, or with projects developed as an independent curator.
 The results of the application process will be published May 15th, 
 2011.
 
-Cost of the program: â‚¬3,410
+Cost of the program: €3,410
 
 To formalize you enrollment upon acceptance, you will be asked to 
-make an initial deposit payment of 700â‚¬ by May 20th, 2011. This 
+make an initial deposit payment of 700€ by May 20th, 2011. This 
 deposit will be credited towards your tuition balance.
 
 For further information please contact us: info@nodecenter.org / 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 11
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | CURRENT x INTER/MEDIATE | PLAYFIELD | 2PM | JUL 23"
 ---
 

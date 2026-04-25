@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 4
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Combo Club | art show and music night"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we'll keep the light on for you"
 emailDate: "Thu, 11 Feb 2010 10:30:16 -0800"
 number: 9
 type: ""
+venue: "Helen Pitt Gallery"
 summary: "Helen Pitt Gallery | Jenipher Hur and Avery Nabata | FEB 12"
 ---
 

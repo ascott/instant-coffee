@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 13
 type: "OPENING"
+venue: "Yactac @ Dynamo"
 summary: "Yactac @ Dynamo | Son Namprah - in the light of the bathing ritual | OCT 20"
 ---
 
@@ -19,14 +20,14 @@ Warut, (B. Bangkok Thailand) is an multi disciplinary artist basing in
 Vancouver and Bangkok. He received his bachelor degree of Fine Arts
 majoring in Visual Arts from university of British Columbia.
 
-Warutâ€™s interest lies in function of narrative constituting memory, history
+Warut’s interest lies in function of narrative constituting memory, history
 as well as sociopolitical gesture, which he draws from his personal ethnic
 background. Having grown up in a constitutional monarchy system where
-conflict of political beliefs and values is a part of daily life, Warutâ€™s
+conflict of political beliefs and values is a part of daily life, Warut’s
 work reflects philosophical contradiction of traditional value in a highly
 religious state with the symbolic kingship as the status quo.
 
-â€œThe songkran festival is a tradition that has water as the main focus of
+“The songkran festival is a tradition that has water as the main focus of
 happiness for the celebration of new year in which the people of Thailand
 has continually observed for centuries. The word Songkran came from the
 Sanskrit language which means the passing or movement of the Sun into its

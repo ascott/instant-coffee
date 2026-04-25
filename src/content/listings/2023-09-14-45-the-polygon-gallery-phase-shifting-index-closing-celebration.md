@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 45
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Phase Shifting Index Closing Celebration | 5PM | SEP 24"
 ---
 

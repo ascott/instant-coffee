@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 7
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | While We Wait | 4PM | AUG 30"
 ---
 

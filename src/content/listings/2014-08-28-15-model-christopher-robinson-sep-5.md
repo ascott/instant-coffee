@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 15
 type: ""
+venue: "MODEL"
 summary: "MODEL | CHRISTOPHER ROBINSON | SEP 5"
 ---
 

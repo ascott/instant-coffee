@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 5
 type: ""
+venue: "Western Front"
 summary: "Western Front | Deirdre Logue | SEP 23"
 ---
 

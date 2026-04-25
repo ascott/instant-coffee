@@ -67,7 +67,7 @@ that become a secondary feature to the work. What is central to the work is
 the nature of time. The artist frequently introduces natural elements such
 as sunlight and darkness as anchor points for the perception of time.
 
-The exhibition includes Ã¢ï¿½ï¿½Bordeaux PieceÃ¢ï¿½ï¿½ (2004), which is nearly 14 hours
+The exhibition includes â��Bordeaux Pieceâ�� (2004), which is nearly 14 hours
 in length and comprised of 70 short films shot at 10 minute intervals
 between 5:30 am and 10:00 pm over the course of several days. Actors play
 out the same scripted scene over and over, while the slow movement of
@@ -457,7 +457,7 @@ artists are eligible. Independent curators or non-profit art organizations
 may also apply to work with one or more artists.
 Call for Expressions of Interest:
 http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf
-<file:///Â¥Â¥pdfÂ¥artistinitiated2010.pdf>
+<file:///¥¥pdf¥artistinitiated2010.pdf>
 
 ---
 You are currently subscribed to publicart-online as:
@@ -560,7 +560,7 @@ NEW LOCATION!!
 555 Hamilton St. Vancouver, BC, Canada V6B 2R1
 T. +1 604.683.7395 or @ orgallery.org
 http://www.orgallery.org
-Gallery hours 12 - 5PM Â¨Tuesday - Saturday
+Gallery hours 12 - 5PM ¨Tuesday - Saturday
 
 
 
@@ -578,7 +578,7 @@ Free admission
 
 In 2005-06, Julie Angus rowed 10,000 kilometers across the Atlantic Ocean,
 becoming the first woman in the world to travel from mainland to mainland
-in a rowboat. She was accompanied by her fiancÃ© at the time, Colin Angus,
+in a rowboat. She was accompanied by her fiancé at the time, Colin Angus,
 who was completing a round-the-world expedition using human power only.
 
 The 145 days they spent rowing across the Atlantic offered Julie Angus, a
@@ -1057,7 +1057,7 @@ Without the presence of the crowd to complete the effect of the
 participatory cheer, his peculiar salute seems ominous and unsettling. Not
 shared with others in the circular sweep of the stadium, it summons up both
 the history of the arena in western culture and the evolution of the salute
-gesture. The stranded fan performs his part in isolation, his Ã¢ï¿½ï¿½communityÃ¢ï¿½ï¿½
+gesture. The stranded fan performs his part in isolation, his â��communityâ��
 imaginary - making his action deliberate and personal.
 
 Silent, and consisting of two one-minute segments, Vox Pop slows down the
@@ -1086,7 +1086,7 @@ regulatory conditions of public places and public life.
 Vox Pop is the inaugural project of Looking Up, a curated series of artist
 works that engage with public space and civic agency.
 
-presented by Other Sights for ArtistsÃ¢ï¿½ï¿½ Projects Association
+presented by Other Sights for Artistsâ�� Projects Association
 
 www.othersights.ca
 
@@ -1143,12 +1143,12 @@ As an artist producing works for gallery installations and public spaces,
 Antonia Hirsch will address issues and concerns faced by artists as they
 develop projects for temporary and permanent contexts. Her recently
 commissioned permanent public artwork Double Blind will is a key feature of
-the Vancouver Community CollegeÃ¢ï¿½ï¿½s (VCC) Broadway Campus Expansion Project.
+the Vancouver Community Collegeâ��s (VCC) Broadway Campus Expansion Project.
 Using convex security mirrors that are common to urban public spaces,
-Double Blind extends across three floors within the soaring atrium of VCCÃ¢ï¿½ï¿½s
+Double Blind extends across three floors within the soaring atrium of VCCâ��s
 new building. In winter 2006/07 and as part of Group Search: Art in the
 Library, Antonia Hirsch presented Anthropometrics, a largescale poster
-series that appeared Ã¢ï¿½ï¿½informallyÃ¢ï¿½ï¿½ on hoardings across the City of
+series that appeared â��informallyâ�� on hoardings across the City of
 Vancouver, and at the Vancouver Public Library. Referencing these examples,
 Hirsch will explore the issues of production and the concerns of audience
 reception that are specific to art in public spaces.
@@ -1174,7 +1174,7 @@ Project for the Main Street Transit
 Corridor
 +
 Marko Simcic
-Ã¢ï¿½ï¿½ParkÃ¢ï¿½ï¿½, a project for the Ontario
+â��Parkâ��, a project for the Ontario
 Street Greenway
 Spring 2009
 

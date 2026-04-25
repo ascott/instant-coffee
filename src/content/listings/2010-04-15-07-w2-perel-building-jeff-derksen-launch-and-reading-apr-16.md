@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 7
 type: ""
+venue: "W2 Perel Building"
 summary: "W2 Perel Building | Jeff Derksen (launch and reading) | APR 16"
 ---
 

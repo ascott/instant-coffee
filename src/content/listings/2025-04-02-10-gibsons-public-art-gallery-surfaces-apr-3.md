@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | SURFACES | APR 3"
 ---
 

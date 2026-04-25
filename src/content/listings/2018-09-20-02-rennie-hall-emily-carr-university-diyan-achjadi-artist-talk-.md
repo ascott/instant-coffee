@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 2
 type: "TALK"
+venue: "Rennie Hall, Emily Carr University"
 summary: "Rennie Hall, Emily Carr University | Diyan Achjadi Artist Talk | 6PM | SEP 20"
 ---
 

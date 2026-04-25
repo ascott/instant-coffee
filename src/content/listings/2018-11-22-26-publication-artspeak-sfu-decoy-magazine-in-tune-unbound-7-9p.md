@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 26
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Artspeak | SFU & Decoy Magazine: In Tune, Unbound | 7-9pm | NOV 28"
 ---
 

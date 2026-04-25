@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Art Rental & Sales at the VAG"
 summary: "Art Rental & Sales at the VAG | Rebecca Chaperon: Peripheral Visions | JUL 4"
 ---
 

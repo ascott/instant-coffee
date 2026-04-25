@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 28
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | 2019 Artists Engaging Community Program, (RFQ) | OCT 22"
 ---
 

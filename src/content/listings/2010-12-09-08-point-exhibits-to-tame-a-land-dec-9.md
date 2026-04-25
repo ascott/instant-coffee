@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 8
 type: ""
+venue: "Point Exhibits"
 summary: "Point Exhibits | TO TAME A LAND | DEC 9"
 ---
 
@@ -34,12 +35,12 @@ drained of all elemental life! So speaks Galactus!" - Stan Lee, Fantastic
 Four #48
 
 The title of the exhibition, To Tame A Land, makes reference to the 1955
-novel of the same name by American author Louis Lâ€™Amour. It is a coming of
-age story of a young boy orphaned and left to wander â€œa wild land of
+novel of the same name by American author Louis L’Amour. It is a coming of
+age story of a young boy orphaned and left to wander “a wild land of
 canyons and buttes, and on dust-choked cattle trails.â€ Vancouver is known
 worldwide for its natural beauty, and the mountains, forests, lakes and
 ocean it is surrounded by is featured in architectural design almost as a
-faÃ§ade, a picture to be viewed through the glass window of an apartment
+façade, a picture to be viewed through the glass window of an apartment
 building. As our experience of land in the city becomes increasingly
 filtered through urbanization and economics, our perception of the
 wilderness has changed.
@@ -55,7 +56,7 @@ before. With all that we have gained, what has been lost?
 In this exhibition eight artists explore this idea through sculpture. They
 work with the mythical aspects of nature and the symbolic value of organic
 shapes and forms that, in living amongst and apart from for so long, we
-canâ€™t help but look at anew.
+can’t help but look at anew.
 
 Michelle Allard was recently Artist in Residence at La Cite Internationale
 des Arts (Paris)

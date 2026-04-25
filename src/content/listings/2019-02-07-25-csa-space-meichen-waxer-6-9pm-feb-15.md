@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 25
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Meichen Waxer | 6-9PM | FEB 15"
 ---
 

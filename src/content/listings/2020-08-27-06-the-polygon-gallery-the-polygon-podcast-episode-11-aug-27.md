@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 6
 type: "EDUCATION"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | The Polygon Podcast: Episode 11 | AUG 27"
 ---
 

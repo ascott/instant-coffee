@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 3
 type: ""
+venue: "221A"
 summary: "221A | Kalli Niedoba | NOV 6"
 ---
 
@@ -11,7 +12,7 @@ Big Beige Eyes is a solo exhibition of work by Kalli Niedoba inspired by
 the upscale beige-tinted interior of a Los Angeles branch of Citibank. The 
 bank has invested in interior design as a means to orchestrate social 
 order; The bank seeks to meet the goals of finance. As people line up, 
-they are accounted for as customers of varying class standing â€“ and a 
+they are accounted for as customers of varying class standing – and a 
 pseudo-democratic welcome desk stands waiting as an artifice of 
 infrastructure.
 

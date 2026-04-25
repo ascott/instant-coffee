@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: they do not always believe the man
 emailDate: "Thu, 26 Jun 2014 16:11:54 -0700"
 number: 13
 type: ""
+venue: "Special Sunday Supper"
 summary: "Special Sunday Supper | Samuel Roy-Bois | JUL 6"
 ---
 

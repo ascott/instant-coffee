@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 4
 type: ""
+venue: "Leo Koo Gallery"
 summary: "Leo Koo Gallery | | | | Front Lines | | | | OCT 3"
 ---
 

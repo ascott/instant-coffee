@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 26
 type: "EXHIBITION"
+venue: "Access Gallery"
 summary: "Access Gallery | Small Gods | UNTIL DEC 14 | DEC 14"
 ---
 

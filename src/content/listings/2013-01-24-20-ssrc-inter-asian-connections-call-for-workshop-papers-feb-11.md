@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 20
 type: ""
+venue: "SSRC"
 summary: "SSRC | Inter-Asian Connections | Call for Workshop Papers | FEB 11"
 ---
 
@@ -45,8 +46,8 @@ artists. However, critical inquiry into inter-Asian artistic collaborations and
 activities has only just begun to enter into scholarly discussions in theory and 
 in practice. As cultural critic C.J. Wan-Ling Wee noted, in the 1980s and
 1990s the idea of contemporary â€œNew Asiaâ€  was curated into â€œbeingâ€ â€™ as one 
-that imagined â€œa cosmopolitan-multicultural Asia able to transcend national 
-boundaries, even as there was the awareness that the regionâ€™s cultural 
+that imagined “a cosmopolitan-multicultural Asia able to transcend national 
+boundaries, even as there was the awareness that the region’s cultural 
 diversity and history of political fractures made this endeavor difficult.â€  In the 
 new millennium, the renewed emphasis on inter-Asian cooperation has led to 
 the concomitant realization of the notion of a Global Asia and distinctions 
@@ -75,7 +76,7 @@ large: Manchester hosts the Asian Triennial in the UK, and the Asia Pacific
 Triennial is based in Brisbane, Australia. Meanwhile Istanbul in West Asia 
 which hosts one of the most prestigious international art biennales alongside 
 Venice, Sydney and Sao Paolo, is uniquely situated between Europe and 
-Asia. For the purposes of the workshopâ€™s research agenda then, Inter-Asia 
+Asia. For the purposes of the workshop’s research agenda then, Inter-Asia 
 refers to not only regional networks but also transnational connections 
 between residents in the Middle East through Eurasia, East
 Asia, South Asia and Southeast Asia, and the overseas Asian diaspora as 

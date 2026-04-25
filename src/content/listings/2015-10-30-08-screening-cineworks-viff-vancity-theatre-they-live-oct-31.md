@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks & VIFF Vancity Theatre | They Live | OCT 31"
 ---
 
@@ -29,7 +30,7 @@ reveal the true nature of the world we live in: the power elite is in fact
 an alien race, feeding off our apathy through the promotion of rampant
 consumerism. Far-fetched? Tell that to Donald Trump!
 
-See also Ghost Materialities, Thurs 29 October â€“ a presentation addressing
+See also Ghost Materialities, Thurs 29 October – a presentation addressing
 this film and John Hillcoat's Ghosts... Of The Civil Dead (both released in
 1988) as searing critiques of Reaganomics / Neoliberalism:
 http://bit.ly/1OGRKAj

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 32
 type: "OPENING"
+venue: "ECUAD"
 summary: "ECUAD | Leaning Out of Windows – Step One | 6-9pm | JAN 25"
 ---
 

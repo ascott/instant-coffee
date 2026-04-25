@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 17
 type: "EDUCATION"
+venue: "Wild Clay Workshop"
 summary: "Wild Clay Workshop | MAR 27"
 ---
 

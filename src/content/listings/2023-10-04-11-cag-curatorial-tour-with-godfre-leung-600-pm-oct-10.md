@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 11
 type: ""
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Godfre Leung? | 6:00 PM | OCT 10"
 ---
 

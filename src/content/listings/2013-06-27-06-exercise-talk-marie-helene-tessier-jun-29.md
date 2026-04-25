@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 6
 type: ""
+venue: "Exercise"
 summary: "Exercise | Talk: Marie- Helene Tessier | JUN 29"
 ---
 
@@ -33,7 +34,7 @@ genitals; hundreds of penises; angel penises, godly ones, all cut off, to
 replace them with leaves, cloth, and what not. In the other room, her father 
 was having a long-term affair with the home tutor, while Lacan was starting to 
 understand that language cannot capture everything. The Icelandic 
-Phallological Museum located in Reykjavik, houses the worldâ€™s largest display 
+Phallological Museum located in Reykjavik, houses the world’s largest display 
 of penises, from whales, seals, land mammals and humans, including elves 
 and trolls. Ha ha ha. Sick !" (Marie-Helene Tessier)
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 8
 type: ""
+venue: "Simon Fraser University Gallery"
 summary: "Simon Fraser University Gallery | to show, to give, to make it be there | JAN 9"
 ---
 

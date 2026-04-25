@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 53
 type: "TALK"
+venue: "ECU - Rennie Hall"
 summary: "ECU - Rennie Hall | PANEL | PRACTICE | 5-7PM | OCT 24"
 ---
 

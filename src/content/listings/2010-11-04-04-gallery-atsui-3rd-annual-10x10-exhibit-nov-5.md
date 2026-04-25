@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 4
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | 3rd Annual 10x10 exhibit | NOV 5"
 ---
 
@@ -31,7 +32,7 @@ Exhibit runs from November 5th until the 28th. Walk-in hours are every
 Saturday of the month from 2-4pm, as well as for the East Side Culture
 Crawl on November 25th 6-10pm, 26th 11-6pm & 27th 12-6pm.
 
-ARTIST BIOâ€™S & STATEMENTS ABOUT THE WORK:
+ARTIST BIO’S & STATEMENTS ABOUT THE WORK:
 
 Erin Boniferro is an artist and small business owner living in Vancouver
 BC. After graduating from Emily Carr in 2002, she went on to work for
@@ -61,7 +62,7 @@ application that often becomes the fate of even the hardiest tree, each
 panel was finished by a professional furniture maker.
 
 
-Sonja HÃ©bert born of Acadian heritage has been living and creating in
+Sonja Hébert born of Acadian heritage has been living and creating in
 Vancouver for 19 years. Since receiving her degree from the Emily Carr
 Institute of Art and Design she has continued to develop her practice
 through international and national art residencies, local art events and
@@ -72,11 +73,11 @@ sponsored by Genome BC. Her large scale drawings have been featured in Via
 TVA, a national television series profiling Canadian artists.
 
 The main themes in her work are of dislocation, hybridization, the cycles
-of life and adaptation. Sonjaâ€™s drawings are made of charcoal, graphite,
+of life and adaptation. Sonja’s drawings are made of charcoal, graphite,
 oil sticks and decoupage. Her choices of media for installation are varied
 and include unconventional sculptural materials and altered objects.
 
-â€œI find inspiration in many things but mostly through natural science,
+“I find inspiration in many things but mostly through natural science,
 debris, and mythology, the gesture of dancers, graphs, politics and dreams.
 I draw to get back to basics, to the initial mark making process with
 carbon, the fundamental molecule of all life. I also enjoy manipulating
@@ -112,10 +113,10 @@ presently is experimenting working with more organic ways of printmaking.
 
 Brandy Masch was born in Kitimat, British Columbia, and studied art from an
 early age. She graduated high school in Kelowna and continued on to
-Kelownaâ€™s Okanagan University College to build her portfolio to apply to
+Kelowna’s Okanagan University College to build her portfolio to apply to
 Emily Carr. In 2001, majoring in Printmaking and Drawing she graduated
 from Emily Carr College of Art and Design in Vancouver, British Columbia
-with a BFA. Furthering her education she enrolled in Emily Carrâ€™s
+with a BFA. Furthering her education she enrolled in Emily Carr’s
 Integrated Media Program. Brandy continues to learn and develop her
 knowledge of products and mediums while living and working in Vancouver.
 
@@ -130,7 +131,7 @@ Park neighborhood. Ehren works for a tombstone and monument company in
 Vancouver, and is one of the directors of Little Mountain Gallery. He
 efforts to draw everyday, and aspires to create a new series of works in
 the public realm, painting murals honoring pioneers of Vancouver, depicting
-the people, buildings and neighborhoods of the cityâ€™s forgotten past.
+the people, buildings and neighborhoods of the city’s forgotten past.
 
 
 Vancouver born artist Karin Vengshoel left a near decade career in fashion
@@ -144,7 +145,7 @@ The foundation of her work lies in the consistently strong process-based
 element, where she employs repetitive techniques to create oil and mixed
 media paintings on wood and canvas.
 
-About the work: Karinâ€™s interest in astronomy has had a deep impact on the
+About the work: Karin’s interest in astronomy has had a deep impact on the
 direction of her work. Each new piece created is a testimony to the
 awe-inspiring magnitude of the universe and the increasing ability of
 humanity to see and understand it.
@@ -166,7 +167,7 @@ influence.
 
 A timely interest in typography, sign painting and font design coupled with
 a distaste for mass marketing led to long term involvement within the mid
-90â€™s re-emergence of graffiti culture, unexpectedly marketable, the
+90’s re-emergence of graffiti culture, unexpectedly marketable, the
 commercialization of the culture attributed to his departure, its
 association with freight trains ultimately steered his inclinations to the
 ethics of tramp travel, riding between cities as an affordable and
@@ -182,12 +183,12 @@ other ventures.
 
 Wile exploring the illusions of identity and the man made archetypes that
 drive the considerations of our perspective, both historically and
-contemporary, Nolanâ€™s work with found materials and objects, in assemblage
+contemporary, Nolan’s work with found materials and objects, in assemblage
 to painting and drawing combinations, commemorates the foundation of our
 present through a glimpse of our past as our landscape becomes increasingly
 less obvious to our heritage.
 
-The array of media that makes up Nealâ€™s work stems from a passion for first
+The array of media that makes up Neal’s work stems from a passion for first
 hand experience, incorporating tangible archetypes in assemblage to his
 illustrative antic, painterly expressions, text and texture.
 

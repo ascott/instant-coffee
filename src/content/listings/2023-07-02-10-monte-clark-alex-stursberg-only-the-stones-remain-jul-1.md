@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Monte Clark"
 summary: "Monte Clark | Alex Stursberg? Only the Stones Remain | JUL 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 48
 type: "PERFORMANCE"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | LIVE Biennale - Elizabeth Milton | 730PM | OCT 14"
 ---
 

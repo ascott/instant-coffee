@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 14
 type: "EVENT"
+venue: "City Centre Artist Lodge"
 summary: "City Centre Artist Lodge | Hand Stamped GiftWrap Workshop | DEC 3"
 ---
 

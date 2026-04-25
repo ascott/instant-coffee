@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 22
 type: "PERFORMANCE"
+venue: "Green Auto (Pandora & Victoria)"
 summary: "Green Auto (Pandora & Victoria) | Maraschino Tonight | 8PM | SEP 21"
 ---
 

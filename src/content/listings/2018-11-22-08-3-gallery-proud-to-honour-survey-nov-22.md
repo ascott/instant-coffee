@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 8
 type: "CALL"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Proud To Honour Survey | NOV 22"
 ---
 

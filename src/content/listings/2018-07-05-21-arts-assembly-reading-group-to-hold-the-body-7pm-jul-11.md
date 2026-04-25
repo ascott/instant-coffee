@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 21
 type: "EDUCATION"
+venue: "ARTS ASSEMBLY"
 summary: "ARTS ASSEMBLY | Reading Group: to hold the body | 7PM | JUL 11"
 ---
 

@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 26
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | DANA CLAXTON | SEP 19"
 ---
 
 DANA CLAXTON
 Indian Candy
-September 19 â€“ November 2
-Opening September 19th, 6 â€“ 8pm
+September 19 – November 2
+Opening September 19th, 6 – 8pm
 
-VANCOUVER, September 2013 â€“ Winsor Gallery announced today the 
+VANCOUVER, September 2013 – Winsor Gallery announced today the 
 upcoming exhibition, Indian Candy, featuring new photography and print 
 media by renowned artist Dana Claxton. The show runs from September 19th 
 to November 2nd, 2013. An opening reception will be held on September 
@@ -23,7 +24,7 @@ archive in order to create aluminum-mounted chromogenic prints. Bright,
 slick, and visually delicious, Indian Candy speaks volumes on how 
 Indigenous iconography has been consumed by popular culture.
 
-â€œDana Claxtonâ€™s newest body of work has been long-awaited and does not 
+“Dana Claxton’s newest body of work has been long-awaited and does not 
 disappoint,â€  says gallery owner Jennifer Winsor. â€œWith such bright and 
 seductive surfaces, these works become both a literal reversal of the white-
 washing of history and a brilliant tribute to pop art and culture.â€ 
@@ -47,17 +48,17 @@ About Winsor Gallery
 Founded by Jennifer Winsor in 2002, Winsor Gallery has distinguished itself 
 locally, nationally, and internationally as a premier source for contemporary 
 art. Foremost a commercial gallery, Winsor Gallery strives to ensure the long-
-term development of our artistsâ€™ careers through promotion, collaboration, and 
+term development of our artists’ careers through promotion, collaboration, and 
 thoughtful curation.
 Through this commitment to forging strong relationships with our artists, we 
 have accrued one of the most attractive portfolios of established and emerging 
 talent in Vancouver, and many of our represented artists have been recipients 
-of such prestigious awards as the Governor Generalâ€™s Award, the Joseph 
+of such prestigious awards as the Governor General’s Award, the Joseph 
 Plaskett Award, the Gold Medal of the Royal Architecture Institute of Canada, 
 and the International Studio Award at the Museum of Modern Art New York.
 A cornerstone of the Vancouver art scene, Winsor relocated from its seminal 
 South Granville space in 2012 to The Flats on East 1st Avenue. The gallery is 
-part of a burgeoning industrial neighbourhood that has become Vancouverâ€™s 
+part of a burgeoning industrial neighbourhood that has become Vancouver’s 
 new centre for contemporary art.
 Contact:
 info@winsorgallery.com

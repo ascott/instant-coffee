@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 2
 type: ""
+venue: "Blim Art and Craft Facility"
 summary: "Blim Art and Craft Facility | Madeline Smith | JAN 8"
 ---
 

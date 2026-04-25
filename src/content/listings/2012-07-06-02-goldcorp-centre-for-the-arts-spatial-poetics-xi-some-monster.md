@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 2
 type: ""
+venue: "Goldcorp Centre for the Arts"
 summary: "Goldcorp Centre for the Arts | SPATIAL POETICS XI: SOME MONSTER | JUL 5"
 ---
 
@@ -15,7 +16,7 @@ Featuring:
 
 PEGGY LEE with DELIA BRETT
 
-YOTA KOBAYASHI with BARRY DOUPÃ‰
+YOTA KOBAYASHI with BARRY DOUPÉ
 
 ANDREW LEE with ALEX ZHANG HUNGTAI
 
@@ -27,7 +28,7 @@ Spatial Poetics XI: Some Monster is an evening of experimental and
 collaborative performances by an eclectic line-up of artists.
 
 The thematic starting point for the eleventh edition of Spatial Poetics is 
-the idea of the collaboration-as-chimeraâ€”or hybrid monster. Bringing 
+the idea of the collaboration-as-chimera—or hybrid monster. Bringing 
 disparate practices and artists together often begets strange offspring; 
 this is where creative monsters get born. And while the theme conjures 
 up long-held cultural ideas around fear and horror, these collaborative 

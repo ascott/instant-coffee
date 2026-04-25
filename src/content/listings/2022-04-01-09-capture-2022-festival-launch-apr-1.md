@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 9
 type: "OPENING"
+venue: "Capture 2022 Festival Launch"
 summary: "Capture 2022 Festival Launch | APR 1"
 ---
 

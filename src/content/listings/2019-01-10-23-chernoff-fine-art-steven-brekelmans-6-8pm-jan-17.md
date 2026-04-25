@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 23
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Steven Brekelmans | 6-8PM | JAN 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 52
 type: "TALK"
+venue: "CAG- Burrard Marina Field House"
 summary: "CAG- Burrard Marina Field House | Deanna Bowen in Conv w/Cecily Nicholson | 2PM | JUL 21"
 ---
 

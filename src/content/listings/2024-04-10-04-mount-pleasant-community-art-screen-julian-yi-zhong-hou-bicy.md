@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Mount Pleasant Community Art Screen"
 summary: "Mount Pleasant Community Art Screen | Julian Yi-Zhong Hou | Bicycle Moon (Blue Light) | APR 1"
 ---
 

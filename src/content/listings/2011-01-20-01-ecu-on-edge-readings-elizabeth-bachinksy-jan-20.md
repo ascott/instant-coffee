@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 1
 type: ""
+venue: "ECU: On Edge readings"
 summary: "ECU: On Edge readings | Elizabeth Bachinksy | JAN 20"
 ---
 

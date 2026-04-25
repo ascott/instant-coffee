@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 23
 type: "CALL"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | CALL for BOARD MEMBERS | MAR 18"
 ---
 

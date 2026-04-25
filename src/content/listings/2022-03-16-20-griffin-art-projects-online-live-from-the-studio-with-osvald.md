@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 20
 type: "EVENT"
+venue: "Griffin Art Projects [ONLINE]"
 summary: "Griffin Art Projects [ONLINE] | Live from the Studio with Osvaldo Castillo | MAR 27"
 ---
 

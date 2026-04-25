@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 3
 type: "EVENT"
+venue: "SFU Gallery"
 summary: "SFU Gallery | Soundwalk with Brady Ciel Marks and Alex Muir | SEP 26"
 ---
 

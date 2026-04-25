@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Instant Coffee: (Caffeine Instanti
 emailDate: "Thu, 28 Feb 2008 09:50:33 -0800"
 number: 17
 type: ""
+venue: "New Seattle Center Skatepark"
 summary: "New Seattle Center Skatepark | Call for Artists"
 ---
 

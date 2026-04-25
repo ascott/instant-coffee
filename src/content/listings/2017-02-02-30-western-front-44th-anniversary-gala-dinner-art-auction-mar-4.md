@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 30
 type: "FUNDRAISER"
+venue: "Western Front"
 summary: "Western Front | 44th Anniversary Gala Dinner & Art Auction | MAR 4"
 ---
 

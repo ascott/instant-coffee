@@ -4,21 +4,22 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 4
 type: ""
+venue: "Initial Gallery"
 summary: "Initial Gallery | Materialized out of Finland | JUL 24"
 ---
 
 Materialized out of Finland
 
-Curated by Ã„kkigalleria
+Curated by Äkkigalleria
 
-July 24th â€“ 26th 2014
+July 24th – 26th 2014
 
 Opening reception Thursday, July 24th 6-8 pm
 
 Maija Holma - Leena Kangaskoski - Antti Laitinen - Emma Lappalainen- 
 Janne Nabb & Maria Teeri - Jukka Silokunnas - Lasse Ursin
-For its 5th anniversary, the Finnish nomadic art gallery, Ã„kkigalleria, is 
-venturing outside of its hometown JyvÃ¤skylÃ¤ to present work by seven 
+For its 5th anniversary, the Finnish nomadic art gallery, Äkkigalleria, is 
+venturing outside of its hometown Jyväskylä to present work by seven 
 Finnish artists in the exhibition Materialized out of Finland in collaboration 
 with Initial Gallery. The selection of pieces is balanced between the two 
 strong roots of Finnish culture and economy: wilderness and technology.
@@ -34,13 +35,13 @@ relationship to nature.
 
 About the gallery:
 
-Ã„kkigalleria is an artist-run, non-profit, nomadic exhibition space that 
+Äkkigalleria is an artist-run, non-profit, nomadic exhibition space that 
 appears spontaneously when appropriate locations become available. Our 
 intention is to provide a rent-free platform for a commixture of artists to 
-show new work. Ã„kkigalleria was established in 2009, with the intension of 
+show new work. Äkkigalleria was established in 2009, with the intension of 
 mobilizing the visual arts into happenings and events; to offer alternative 
 venues for sharing visual arts; to provide live, cultural and social activities 
-for the residents of JyvÃ¤skylÃ¤; to support local and emerging artists; to 
+for the residents of Jyväskylä; to support local and emerging artists; to 
 activate vacant spaces; and to instigate exchange between artists and 
 artistic disciplines. We strive to promote creative risk taking, to find new 
 and imaginative ways to bring art to different public spheres by engaging 

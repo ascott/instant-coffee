@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 3
 type: "CALL"
+venue: "Canton-sardine"
 summary: "Canton-sardine | The Curator's Sauna"
 ---
 

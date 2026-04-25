@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 9
 type: ""
+venue: "SFU Gallery Burnaby"
 summary: "SFU Gallery Burnaby | Robert Young: Lacunarian Picturing | JUN 18"
 ---
 
@@ -13,16 +14,16 @@ SFU Gallery Burnaby, June 18th - August 5
 Evergreen Cultural Centre, June 18th - September 3
 
 These two exhibitions, which share the same title, provide an intriguing
-overview of Robert YoungÃ¢â‚¬â„¢s practice since 1977. A history of his work will
+overview of Robert Youngâ€™s practice since 1977. A history of his work will
 be at the Evergreen Cultural Centre and an in-depth survey of his paintings
 of domestic architectural spaces will constitute the exhibition at the SFU
-Gallery Burnaby. When combined with YoungÃ¢â‚¬â„¢s "Quotidian View" exhibition at
+Gallery Burnaby. When combined with Youngâ€™s "Quotidian View" exhibition at
 the Burnaby Art Gallery in 2009, the three shows add up to a true
 retrospective of an artist who has created virtual communities of
 chronologically disparate people and places in his art for the past fifty
 years. Operating at the interface of drawing and painting, his pictures are
 sometimes reminiscent of Renaissance formal languages and at others of a
-Postmodern colliding of cultures. YoungÃ¢â‚¬â„¢s quotational and citational
+Postmodern colliding of cultures. Youngâ€™s quotational and citational
 practices, which date back to the early 1960s, presaged the art of the
 1980s as well as the quotational times in which we live today.
 
@@ -48,7 +49,7 @@ parking attendant).
 
 Simon Fraser University Gallery | Academic Quadrangle, Room 3004 | SFU
 Burnaby Campus| 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
-Gallery Hours: Tuesday Ã¢â‚¬â€œ Friday: 10am Ã¢â‚¬â€œ 4pm, Saturday: 12pm Ã¢â‚¬â€œ 5pm. 
+Gallery Hours: Tuesday â€“ Friday: 10am â€“ 4pm, Saturday: 12pm â€“ 5pm. 
 Closed
 Saturdays on holiday long weekends.
 

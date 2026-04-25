@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 45
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | 2020 Engaging Artists in Community | SEP 30"
 ---
 

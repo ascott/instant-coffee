@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 15
 type: "EDUCATION"
+venue: "Nikkei National Museum and Joy Kogawa House"
 summary: "Nikkei National Museum and Joy Kogawa House | Opening the Memory Chest | JUL 25"
 ---
 

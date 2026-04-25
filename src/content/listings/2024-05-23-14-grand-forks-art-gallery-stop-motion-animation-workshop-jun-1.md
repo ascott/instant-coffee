@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 14
 type: "EDUCATION"
+venue: "Grand Forks Art Gallery"
 summary: "Grand Forks Art Gallery | Stop Motion Animation Workshop | JUN 1&2 | JUN 1"
 ---
 

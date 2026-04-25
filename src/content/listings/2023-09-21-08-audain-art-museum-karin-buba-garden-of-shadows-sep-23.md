@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 8
 type: "EVENT"
+venue: "Audain Art Museum"
 summary: "Audain Art Museum | Karin Bubaš: Garden of Shadows | SEP 23"
 ---
 

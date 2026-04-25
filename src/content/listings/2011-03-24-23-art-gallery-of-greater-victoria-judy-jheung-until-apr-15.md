@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 23
 type: ""
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Judy Jheung | until | APR 15"
 ---
 
@@ -27,7 +28,7 @@ Viewers are encouraged to download an iTunes app to their smartphone to
 fully experience the installation. 
 
 The project is part of Art in Bloom 2011, the Art Gallery of Greater
-Victoriaâ€™s bi-annual fundraiser that runs from March 28 to April 2, 2011.
+Victoria’s bi-annual fundraiser that runs from March 28 to April 2, 2011.
 
 Judy Jheung, a Vancouver based artist, whose installations are often
 interactive, rendering in a form that propels the audience along a journey.

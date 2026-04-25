@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 19
 type: "CALL"
+venue: "Mount Pleasant Community Art Screen"
 summary: "Mount Pleasant Community Art Screen | Call for Submissions | FEB 7"
 ---
 

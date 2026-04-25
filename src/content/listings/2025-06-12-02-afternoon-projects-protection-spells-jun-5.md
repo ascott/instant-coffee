@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Protection Spells | JUN 5"
 ---
 

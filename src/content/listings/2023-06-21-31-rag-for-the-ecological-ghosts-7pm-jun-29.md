@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 31
 type: "OPENING"
+venue: "RAG"
 summary: "RAG | For the ecological ghosts | 7PM | JUN 29"
 ---
 

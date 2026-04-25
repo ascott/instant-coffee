@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 23
 type: "OPENING"
+venue: "SUM gallery"
 summary: "SUM gallery | FOREST / FLUX / FREQUENCY | NOV 7"
 ---
 

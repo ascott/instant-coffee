@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 19
 type: ""
+venue: "University of Regina"
 summary: "University of Regina | CALL: resdiency in Visual art | MAY 20"
 ---
 

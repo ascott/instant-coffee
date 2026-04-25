@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery at YLW (Kelowna)"
 summary: "Kelowna Art Gallery at YLW (Kelowna) | Sheldon Pierre Louis | JUL 8"
 ---
 

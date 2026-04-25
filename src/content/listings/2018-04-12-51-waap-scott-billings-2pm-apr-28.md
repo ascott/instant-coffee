@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 51
 type: "TALK"
+venue: "WAAP"
 summary: "WAAP | Scott Billings | 2PM | APR 28"
 ---
 

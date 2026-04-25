@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 27
 type: "EXHIBITION"
+venue: "MOA"
 summary: "MOA | Lawrence Paul Yuxweluptun: Unceded Territories | MAY 10"
 ---
 

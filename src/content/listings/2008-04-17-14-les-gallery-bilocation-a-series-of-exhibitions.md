@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: waiting for something to happen"
 emailDate: "Thu, 17 Apr 2008 09:10:58 -0700"
 number: 14
 type: ""
+venue: "L.E.S. Gallery"
 summary: "L.E.S. Gallery | BILOCATION: a series of exhibitions"
 ---
 

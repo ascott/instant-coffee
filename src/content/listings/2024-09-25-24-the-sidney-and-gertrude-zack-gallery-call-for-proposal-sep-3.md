@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 24
 type: "CALL"
+venue: "The Sidney and Gertrude Zack Gallery"
 summary: "The Sidney and Gertrude Zack Gallery | Call for Proposal | SEP 30"
 ---
 

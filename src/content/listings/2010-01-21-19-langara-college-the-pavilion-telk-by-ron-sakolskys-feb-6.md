@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 19
 type: ""
+venue: "Langara College"
 summary: "Langara College | The Pavilion: telk by Ron Sakolsky's | FEB 6"
 ---
 

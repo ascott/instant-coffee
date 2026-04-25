@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 23
 type: "OPENING"
+venue: "Elan Fine Art"
 summary: "Elan Fine Art | James O'Mara | Encounters | 1-5PM | JUN 15"
 ---
 

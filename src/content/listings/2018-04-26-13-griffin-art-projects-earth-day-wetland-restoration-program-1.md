@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 13
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Earth Day - Wetland Restoration Program | 12-5PM | APR 28"
 ---
 

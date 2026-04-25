@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 29
 type: "EDUCATION"
+venue: "Wild Clay Workshop"
 summary: "Wild Clay Workshop | OCT 3,10,17 | OCT 3"
 ---
 

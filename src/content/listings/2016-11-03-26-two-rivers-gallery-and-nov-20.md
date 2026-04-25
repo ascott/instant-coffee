@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 26
 type: "CALL"
+venue: "Two Rivers Gallery"
 summary: "Two Rivers Gallery | AND... | NOV 20"
 ---
 

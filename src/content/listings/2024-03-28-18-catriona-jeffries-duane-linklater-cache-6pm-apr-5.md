@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 18
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Duane Linklater - cache | 6PM | APR 5"
 ---
 

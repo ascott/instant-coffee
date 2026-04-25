@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 6
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Catriona Jeffries | Locus Amoenus: Extinct Flame | JUL 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 9
 type: "PERFORMANCE"
+venue: "Centre A"
 summary: "Centre A | Sammy Chien | 5-6:30PM | NOV 9"
 ---
 

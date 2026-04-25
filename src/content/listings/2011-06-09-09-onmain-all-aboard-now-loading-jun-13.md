@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 9
 type: ""
+venue: "ONMAIN"
 summary: "ONMAIN | ALL ABOARD! NOW LOADING | JUN 13"
 ---
 
@@ -24,7 +25,7 @@ exhibition. One Percent is part of the exhibition Spatial Recognition June
 As an immigrant, James had observed that Canada is technically behind in
 comparison to China. One Percent acknowledges this perspective by
 referencing the look and feel of Windows 95, the pervasive Microsoft
-operating system in use at the end of the 20th century. One Percentâ€™s
+operating system in use at the end of the 20th century. One Percent’s
 â€œLoading Vancouverâ€  graphic parodies the font used in Windows 95. Its
 background blue field mimics the official blue used in the City of
 Vancouver emblem: â€œfor the sea and sky that surround our city.â€  Viewers

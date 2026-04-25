@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 7
 type: ""
+venue: "PHG"
 summary: "PHG | DANCE PERFORMANCE and TOUR | JUL 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 21
 type: "EXHIBITION"
+venue: "Rennie Museum"
 summary: "Rennie Museum | KERRY JAMES MARSHALL: COLLECTED WORKS | JUN 2"
 ---
 

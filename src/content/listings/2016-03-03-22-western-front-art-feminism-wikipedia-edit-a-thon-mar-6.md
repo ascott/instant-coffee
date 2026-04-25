@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 22
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Art + Feminism Wikipedia Edit-a-thon | MAR 6"
 ---
 

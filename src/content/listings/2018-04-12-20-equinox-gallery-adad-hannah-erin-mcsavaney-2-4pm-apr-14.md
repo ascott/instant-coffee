@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 20
 type: "OPENING"
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Adad Hannah | Erin McSavaney | 2-4PM | APR 14"
 ---
 

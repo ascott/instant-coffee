@@ -4,27 +4,28 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 16
 type: ""
-summary: "Contemporary Art Gallery XXX | opening and artist talk: JÃ¼rgen Partenheimer | SEP 11"
+venue: "Contemporary Art Gallery XXX"
+summary: "Contemporary Art Gallery XXX | opening and artist talk: Jürgen Partenheimer | SEP 11"
 ---
 
 Exhibition Opening
-JÃ¼rgen Partenheimer
-The Archive â€“ The Raven Diaries
+Jürgen Partenheimer
+The Archive – The Raven Diaries
 September 12 to November 9, 2014
 
-Exhibition Opening â€“ Thursday, September 11, 7 to 10pm at the CAG
+Exhibition Opening – Thursday, September 11, 7 to 10pm at the CAG
 Public opening and celebration of the exhibition. Artist in attendance.
 Opening reception sponsor: Kronenbourg 1664 and E & J Gallo Winery Canada
 
 The Contemporary Art Gallery presents the first solo exhibition in Canada
-of work by acclaimed German artist JÃ¼rgen Partenheimer. Reflecting the
-diversity of the artistâ€™s practice, the exhibition comprises works on
+of work by acclaimed German artist Jürgen Partenheimer. Reflecting the
+diversity of the artist’s practice, the exhibition comprises works on
 paper, text, printmaking, ceramics and sculpture, much of it produced in
 Vancouver in spring 2014 during his recent residency as the Audain
 Distinguished Artist-in-Residence, hosted by Emily Carr University of Art +
 Design.
 
-Partenheimerâ€™s work is essentially abstract; his drawings and paintings,
+Partenheimer’s work is essentially abstract; his drawings and paintings,
 caught seemingly on the verge of dissolution, are remarkable for their
 fragile beauty, whilst sculpture and ceramic work, suggesting some
 usefulness, remain elusive with respect to any specific function. Drawing
@@ -53,20 +54,20 @@ back to a space of the imagination through the perception of the world of
 things.
 
 Four institutions have joined together in a partnership showing various
-aspects of Partenheimerâ€™s work: the Pinakothek der Moderne in Munich, the
+aspects of Partenheimer’s work: the Pinakothek der Moderne in Munich, the
 Falckenberg Collection, Deichtorhallen Hamburg, the Gemeentemuseum Den Haag
 and the Contemporary Art Gallery in Vancouver. All four exhibitions have
 independent installation concepts related to their locations and spaces,
 and open up various subjective and reflexive realms of experience to visitors.
 
 The accompanying book contains a series of commissioned essays where
-philosophers, historians, artistâ€™s, physicists and poets reflect on the
-multi-faceted nature of Partenheimerâ€™s work. The publication The Archive is
+philosophers, historians, artist’s, physicists and poets reflect on the
+multi-faceted nature of Partenheimer’s work. The publication The Archive is
 available for sale in the CAG bookshop or online at
 www.contemporaryartgallery.ca for the special exhibition price of $50.
 
 As part of the Vancouver New Music Festival, the Vancouver Electronic
-Ensemble will create an improvised performance responding to Partenheimerâ€™s
+Ensemble will create an improvised performance responding to Partenheimer’s
 work. See notes to editors section below for further details.
 
 The exhibition is generously supported by Jane Irwin and Ross Hill. We
@@ -74,23 +75,23 @@ gratefully acknowledge the support of the Consulate General of the Federal
 Republic of Germany, Vancouver. With assistance from Niki Design and Glass
 Studio Inc., North Vancouver.
 
-Artist Talk | JÃ¼rgen Partenheimer
+Artist Talk | Jürgen Partenheimer
 Saturday, September 13, 4pm
 Join the artist on a walk through tour of his exhibition.
 
-JÃ¼rgen Partenheimer
-The Archive â€“ The Raven Diaries
+Jürgen Partenheimer
+The Archive – The Raven Diaries
 September 12 to November 9, 2014
 
 The Contemporary Art Gallery presents the first solo exhibition in Canada
-of work by acclaimed German artist JÃ¼rgen Partenheimer. Reflecting the
-diversity of the artistâ€™s practice, the exhibition comprises works on
+of work by acclaimed German artist Jürgen Partenheimer. Reflecting the
+diversity of the artist’s practice, the exhibition comprises works on
 paper, text, printmaking, ceramics and sculpture, much of it produced in
 Vancouver in spring 2014 during his recent residency as the Audain
 Distinguished Artist-in-Residence, hosted by Emily Carr University of Art +
 Design.
 
-Partenheimerâ€™s work is essentially abstract; his drawings and paintings,
+Partenheimer’s work is essentially abstract; his drawings and paintings,
 caught seemingly on the verge of dissolution, are remarkable for their
 fragile beauty, whilst sculpture and ceramic work, suggesting some
 usefulness, remain elusive with respect to any specific function. His

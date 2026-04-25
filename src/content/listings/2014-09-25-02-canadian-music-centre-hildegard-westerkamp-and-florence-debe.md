@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 2
 type: ""
+venue: "Canadian Music Centre"
 summary: "Canadian Music Centre | Hildegard Westerkamp and Florence Debeugny | SEP 26"
 ---
 
-Canadian Music Centreâ€“BC Region and Vancouver New Music present
+Canadian Music Centre–BC Region and Vancouver New Music present
 At the Edge of Wilderness
 A Sound-Slide Installation by composer Hildegard Westerkamp and
 photographer Florence Debeugny
 Opening reception: September 26, 2014; 5 - 7PM | Performance by Peggy Lee
 September 29 - October 17, 2014; Monday - Friday, 9AM - 5PM | FREE
-Canadian Music Centreâ€“BC Creative Hub (837 Davie Street)
+Canadian Music Centre–BC Creative Hub (837 Davie Street)
 
-When the resource industries moved into British Columbiaâ€™s landscapes,
+When the resource industries moved into British Columbia’s landscapes,
 industrial sites and company towns were cut into the wilderness. The edge
 between wilderness and development is explored in this sound-slide
 installion featuring photography and sounds that were gathered in various

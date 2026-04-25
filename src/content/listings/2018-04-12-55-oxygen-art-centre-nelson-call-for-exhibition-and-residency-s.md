@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 55
 type: "CALL"
+venue: "Oxygen Art Centre (NELSON)"
 summary: "Oxygen Art Centre (NELSON) | Call for Exhibition and Residency Submissions | APR 30"
 ---
 

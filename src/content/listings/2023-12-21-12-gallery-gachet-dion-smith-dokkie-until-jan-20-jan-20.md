@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 12
 type: "EXHIBITION"
+venue: "gallery gachet"
 summary: "gallery gachet | Dion Smith-Dokkie | UNTIL JAN 20 | JAN 20"
 ---
 

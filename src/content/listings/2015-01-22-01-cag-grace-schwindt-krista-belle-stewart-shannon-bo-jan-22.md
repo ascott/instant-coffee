@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 1
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Grace Schwindt - Krista Belle Stewart - Shannon Bo | JAN 22"
 ---
 

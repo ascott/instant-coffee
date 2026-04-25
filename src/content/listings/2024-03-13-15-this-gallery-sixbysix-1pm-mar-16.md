@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 15
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | SIXBYSIX | 1PM | MAR 16"
 ---
 

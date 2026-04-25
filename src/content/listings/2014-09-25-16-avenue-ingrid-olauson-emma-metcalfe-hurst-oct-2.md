@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 16
 type: ""
+venue: "Avenue"
 summary: "Avenue | Ingrid Olauson & Emma Metcalfe Hurst | OCT 2"
 ---
 
@@ -76,14 +77,14 @@ I'll be wearing a mood ring, no shirt.
 Yourself?
 _______________________________________________
 NikiKinetic 10:01 PM
-Iâ€™ll have a rose in my hair and moonlight in my eyes
+I’ll have a rose in my hair and moonlight in my eyes
 _______________________________________________
 NatureBoy88 10:01 PM
 Roses increase happiness and enjoyment
 do you think there's something here?
 _______________________________________________
 NikiKinetic 10:03 PM
-the greatest thing youâ€™ll learn is my love
+the greatest thing you’ll learn is my love
 _______________________________________________
 NatureBoy88 10:03 PM
 I have to go water my plants...ttyl

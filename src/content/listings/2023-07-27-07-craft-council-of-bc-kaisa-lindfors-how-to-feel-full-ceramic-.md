@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 7
 type: "OPENING"
+venue: "Craft Council of BC"
 summary: "Craft Council of BC | Kaisa Lindfors – How to feel full: ceramic vases a | JUL 27"
 ---
 

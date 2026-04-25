@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 13
 type: "TALK"
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | Sean Karemaker | 2 PM | FEB 2"
 ---
 

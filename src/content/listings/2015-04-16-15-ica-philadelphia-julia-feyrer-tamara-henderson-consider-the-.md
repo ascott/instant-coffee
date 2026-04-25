@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "ICA, Philadelphia"
 summary: "ICA, Philadelphia | Julia Feyrer Tamara Henderson Consider the Bel... | APR 22"
 ---
 
 Julia Feyrer and Tamara Henderson
 Consider the Belvedere
 
-April 22â€“August 16, 2015
+April 22–August 16, 2015
 
 ICA, Philadelphia
 118 S. 36th Street, Philadelphia

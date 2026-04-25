@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 7
 type: "EVENT"
+venue: "Duplex"
 summary: "Duplex | EMO Puts Out | 7-11PM | MAR 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 24
 type: "OPENING"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | Playhouse | 6PM | SEP 20"
 ---
 

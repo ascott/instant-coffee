@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 6
 type: ""
+venue: "FRONT magazine"
 summary: "FRONT magazine | Seeking | Art Director / Co-Editor | MAY 25"
 ---
 

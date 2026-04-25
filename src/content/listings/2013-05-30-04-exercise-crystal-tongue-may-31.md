@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE : if we do not know we do not know 
 emailDate: "Thu, 30 May 2013 11:55:34 -0700"
 number: 4
 type: ""
+venue: "Exercise"
 summary: "Exercise | Crystal Tongue | MAY 31"
 ---
 

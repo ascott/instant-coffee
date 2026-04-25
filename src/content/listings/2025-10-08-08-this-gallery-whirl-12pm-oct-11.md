@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 8
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Whirl | 12PM | OCT 11"
 ---
 

@@ -90,7 +90,7 @@ grateful for the support of Vancouver Foundation and our members, donors
 and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã¢ï¿½ï¿½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â�� 6 pm.
 
 Admission is free by donation.
 
@@ -193,7 +193,7 @@ generations to the Red River Settlement and to Kinesota, Manitoba. He has
 published five much-praised and award-winning books of poetry--The
 Gathering: Stones for the Medicine Wheel (1993), Native Canadiana: Songs
 from the Urban Rez (1996), Love Medicine and One Song (1997), I Knew Two
-MÃ©tis Women (1999) and Singing Home the Bones (2005)--as well as a memoir,
+Métis Women (1999) and Singing Home the Bones (2005)--as well as a memoir,
 Thunder in My Veins: Memories of a Metis Childhood. He is also featured in
 a 2006 documentary entitled Singing Home the Bones, which follows the
 poet's journey toward a sense of wholeness from the discovery of the
@@ -303,7 +303,7 @@ artists working in the emerging forms of multimedia and performed cinema.
 ANTHONY ROBERTS is a writer/director, composer and teacher. He has worked
 on a number of groundbreaking film and multimedia projects whose concerns
 range from interactivity to improvisation to surrealist collage. In 1990 he
-formed The Truth Channel with filmmaker Bill MullanÃ¢ï¿½ï¿½an experimental
+formed The Truth Channel with filmmaker Bill Mullanâ��an experimental
 multimedia group that has co-produced over two-dozen
 installations/performances.
 
@@ -515,22 +515,22 @@ viewer in a negotiation with psychologically complex spaces, reinforced by
 spatial alterations. Her engaging footage is typically a dense weaving of
 multiple, layered narratives.
 
-Â³B-----+-----+------+-----EÂ² (2008) was shot in a decaying porn theatre Â­
+³B-----+-----+------+-----E² (2008) was shot in a decaying porn theatre ­
 the Fox Cinema on Main Street in Vancouver. A static camera records two
-simultaneous activities Â­ a porn film of the nurse genre projected on the
+simultaneous activities ­ a porn film of the nurse genre projected on the
 screen and people entering and exiting the theatre. Taking its cue from porn
 films, there is no clear plot or character development. The only clear
 action seems to be changes in light. The artist draws on experimental cinema
-Â­ especially structuralist film Â­ making the viewer aware of lighting,
+­ especially structuralist film ­ making the viewer aware of lighting,
 camera angles and juxtaposition, as well as their own perceptual processes.
 Sounds from producing the footage and the artist giving instructions
 reinforce this effect.
 
-Similarly, Â³B & EÂ² (2009) thwarts narrative expectations. It is shot in the
-rural house of the artistÂ¹s grandparents in West Flanders as the estate is
+Similarly, ³B & E² (2009) thwarts narrative expectations. It is shot in the
+rural house of the artist¹s grandparents in West Flanders as the estate is
 being split up, registering the end of the domestic world of the last
-generation of colonial Belgians. PauwelsÂ¹ camera - often hand-held and
-usually in motion Â­ viscerally records her changing relationships to family
+generation of colonial Belgians. Pauwels¹ camera - often hand-held and
+usually in motion ­ viscerally records her changing relationships to family
 members, objects and spaces. The house and domestic routines become a
 staging ground for an intimate encounter with the familial situation. A
 sense of the complexity of the circumstances is reinforced by the fragmented
@@ -538,11 +538,11 @@ dialogue, collaged elements and references to the process of shooting the
 video.
 
 In these two installations, the artist draws out the evocative meanings
-suggested by the exhibition title, Â³B and EÂ². This exhibition highlights
+suggested by the exhibition title, ³B and E². This exhibition highlights
 Isabelle Pauwels concern with exploring the intersections of documentary
 realism and the artifice of staging and storytelling.
 
-A PHG publication will provide an overview of Isabelle PauwelsÂ¹ art
+A PHG publication will provide an overview of Isabelle Pauwels¹ art
 practice.
 
 Isabelle Pauwels has been exhibiting since 2001. Born in Belgium, she is a
@@ -616,7 +616,7 @@ Katharina Grosse
 
 Steve McQueen
 
-Hanneline RÃ¸geberg
+Hanneline Røgeberg
 
 Dr. Paul Farmer,
 Paul Mellon Distinguished Fellow
@@ -651,7 +651,7 @@ For details and nomination guidelines, visit artgalleryofnovascotia.ca
 The 2009 Sobey Art Award curatorial advisory panel is made up of five
 distinguished representatives, each from an art gallery located in five
 regions across Canada. The panelists represent the Atlantic Provinces,
-QuÃ©bec, Ontario, Prairies and the North, and the West Coast and Yukon.
+Québec, Ontario, Prairies and the North, and the West Coast and Yukon.
 The curatorial panel creates a list of five artists from each region;
 these 25 artists are selected from the list of all nominated artists.
 The panel makes their decisions based on professional knowledge of
@@ -663,7 +663,7 @@ Liz Wylie, Curator at the Kelowna Art Gallery (West Coast and Yukon)
 Kitty Scott, Director, Visual Arts, The Banff Centre (Prairies and the
 North)
 Ivan Jurakic, Curator at Cambridge Galleries (Ontario)
-Louise DÃ©ry, Director/Curator for Galerie l'UQAM (QuÃ©bec)
+Louise Déry, Director/Curator for Galerie l'UQAM (Québec)
 Terry Graff, Curator & Deputy Director for the Beaverbrook Art Gallery
 (Atlantic)
 
@@ -699,7 +699,7 @@ BACKGROUND
 The Art Gallery of Nova Scotia is responsible for accepting nominations
 for the 2009 Sobey Art Award from recognized agents and institutions. A
 panel of curatorial advisors, consisting of a representative from a
-noted gallery in each of five regions (Atlantic, QuÃ©bec, Ontario,
+noted gallery in each of five regions (Atlantic, Québec, Ontario,
 Prairies and The North and West Coast and Yukon), develops the shortlist
 for the Award. The curatorial panel creates a list of five artists from
 each region; these are selected from the list of nominated artists, and
@@ -719,9 +719,9 @@ by the Art Gallery of Nova Scotia.
 
 Previous winners have included:
 2002 - Brian Jungen (West Coast and Yukon)
-2004 - Jean-Pierre Gauthier (QuÃ©bec)
+2004 - Jean-Pierre Gauthier (Québec)
 2006 - Annie Pootoogook (Prairies and the North)
-2007 - Michel de Broin (QuÃ©bec)
+2007 - Michel de Broin (Québec)
 2008 - Tim Lee (West Coast and Yukon)
 
 SOBEY ART FOUNDATION

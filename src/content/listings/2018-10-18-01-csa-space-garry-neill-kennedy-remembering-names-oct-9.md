@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "CSA Space"
 summary: "CSA Space | Garry Neill Kennedy: Remembering Names | OCT 9"
 ---
 

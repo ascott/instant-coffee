@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 1
 type: ""
+venue: "New Forms Festival 14"
 summary: "New Forms Festival 14 | Opening Tonight | event listings | SEP 18"
 ---
 
@@ -106,7 +107,7 @@ http://www.mortonsubotnick.com/
 
 Murcof + Simon Geilfus [Antivj]
 www.antivj.com/murcof
-*This performance is sponsored by the Consulat gÃƒÂ©nÃƒÂ©ral de France Ãƒ
+*This performance is sponsored by the Consulat gÃ©nÃ©ral de France Ã
 Vancouver - We wish to acknowledge and thank them for their support of this
 performance. *
 
@@ -128,7 +129,7 @@ https://soundcloud.com/visionist
 Wen -DJ- (Keysound Recordings)
 http://staypaidbookings.com/artists/wen
 
-Young Braised & Soledad MuÃƒÂ±oz -Live- (1080p)
+Young Braised & Soledad MuÃ±oz -Live- (1080p)
 http://youngbraised.com/
 http://soledadmunoz.com/
 
@@ -143,7 +144,7 @@ http://chimerik.com/
 Instant Coffee LIGHT BAR
 http://www.instantcoffee.org/
 
-Jonny ÃƒËœstrem
+Jonny Ã˜strem
 http://cargocollective.com/jostrem/Jonny-Ostrem
 
 Kevin Beasley
@@ -167,7 +168,7 @@ http://www.nateboyce.net/
 Nicolas Sassoon
 http://nicolassassoon.com/
 
-PepÃƒÂ©
+PepÃ©
 
 Rick Silva
 http://ricksilva.net/

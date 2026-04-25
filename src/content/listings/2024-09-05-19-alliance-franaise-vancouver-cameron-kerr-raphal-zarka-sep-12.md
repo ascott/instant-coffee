@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 19
 type: "OPENING"
+venue: "Alliance Française Vancouver"
 summary: "Alliance Française Vancouver | Cameron Kerr & Raphaël Zarka | SEP 12"
 ---
 

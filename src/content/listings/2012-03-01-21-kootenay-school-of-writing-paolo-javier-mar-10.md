@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 21
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | Paolo Javier | MAR 10"
 ---
 

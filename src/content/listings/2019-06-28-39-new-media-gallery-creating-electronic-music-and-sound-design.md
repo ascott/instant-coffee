@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 39
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Creating Electronic Music and Sound Design | JUL 6"
 ---
 

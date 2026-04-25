@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 19
 type: "TALK"
+venue: "VAG Art Connects [ONLINE]"
 summary: "VAG Art Connects [ONLINE] | Inhabiting Culture: A Conversation... | 1PM | SEP 17"
 ---
 

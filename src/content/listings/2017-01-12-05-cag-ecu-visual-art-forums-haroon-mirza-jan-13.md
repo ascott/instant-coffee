@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 5
 type: "TALK"
+venue: "CAG @ ECU"
 summary: "CAG @ ECU | Visual Art Forums: Haroon Mirza | JAN 13"
 ---
 

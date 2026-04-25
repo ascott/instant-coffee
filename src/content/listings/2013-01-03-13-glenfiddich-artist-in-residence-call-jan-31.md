@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you are a complex diamond and we 
 emailDate: "Thu, 03 Jan 2013 11:03:39 -0800"
 number: 13
 type: ""
+venue: "Glenfiddich Artist-in-Residence"
 summary: "Glenfiddich Artist-in-Residence | CALL | JAN 31"
 ---
 

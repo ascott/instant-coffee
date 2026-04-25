@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 2
 type: ""
+venue: "Avenue"
 summary: "Avenue | Scott Kemp, Logan Sturrock, Zeb Zang | FEB 6"
 ---
 

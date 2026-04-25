@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 32
 type: ""
+venue: "JOB"
 summary: "JOB | Eastern Edge Gallery (St. John’s) | Seeking New Gallery Director | MAR 31"
 ---
 

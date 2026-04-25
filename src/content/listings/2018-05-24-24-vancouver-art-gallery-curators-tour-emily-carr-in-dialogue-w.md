@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 24
 type: "TALK"
+venue: "Vancouver Art Gallery, Curators Tour"
 summary: "Vancouver Art Gallery, Curators Tour | Emily Carr in Dialogue with Mattie Gunterman | 3PM | MAY 31"
 ---
 

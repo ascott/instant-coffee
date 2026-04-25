@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 21
 type: "OPENING"
+venue: "Pale Fire"
 summary: "Pale Fire | Tania Willard: Sensitized | 12-10PM | SEP 16"
 ---
 

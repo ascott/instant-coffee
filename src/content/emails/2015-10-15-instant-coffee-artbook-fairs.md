@@ -16,18 +16,18 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-10-15-03-screening-cineworks-andean-horror-film-fest-oct-16">03. SCREENING | Cineworks | Andean Horror Film Fest | OCT 16</a>
 <a href="/instant-coffee/listings/2015-10-15-04-artspeak-lisa-radon-reading-oct-17">04. TALK | Artspeak | Lisa Radon - Reading | OCT 17</a>
 <a href="/instant-coffee/listings/2015-10-15-05-burnaby-art-gallery-b-prittie-library-the-many-worlds-of-jac">05. EXHIBITION | Burnaby Art Gallery @ B. Prittie Library | The Many Worlds of Jack Wise | OCT 17</a>
-<a href="/instant-coffee/listings/2015-10-15-06-cag-panel-discussion-sustenance-festival-oct-17">06. TALK | CAG | Panel Discussion â€“ Sustenance Festival | OCT 17</a>
+<a href="/instant-coffee/listings/2015-10-15-06-cag-panel-discussion-sustenance-festival-oct-17">06. TALK | CAG | Panel Discussion – Sustenance Festival | OCT 17</a>
 <a href="/instant-coffee/listings/2015-10-15-07-monte-clark-gallery-owen-kydd-oct-17">07. OPENING | Monte Clark Gallery | Owen Kydd | OCT 17</a>
 <a href="/instant-coffee/listings/2015-10-15-08-publication-new-documents-seth-and-sheila-stayed-behind-oct-">08. PUBLICATION | New Documents | Seth and Sheila Stayed Behind | OCT 17</a>
 <a href="/instant-coffee/listings/2015-10-15-09-project-space-vag-vancouver-artbook-fair-oct-17">09. EVENT | Project Space @ VAG | Vancouver Art/Book Fair | OCT 17</a>
-<a href="/instant-coffee/listings/2015-10-15-10-publication-studio-vancouver-readings-book-launch-bartleby-r">10. EVENT | Publication Studio Vancouver | Readings & Book Launch BARTLEBY REVIEW: 21â€“40 | OCT 17</a>
+<a href="/instant-coffee/listings/2015-10-15-10-publication-studio-vancouver-readings-book-launch-bartleby-r">10. EVENT | Publication Studio Vancouver | Readings & Book Launch BARTLEBY REVIEW: 21–40 | OCT 17</a>
 <a href="/instant-coffee/listings/2015-10-15-11-city-of-vancouver-public-art-strathcona-branch-library-call-">11. CALL | City of Vancouver Public Art | Strathcona Branch Library - Call to Artists | OCT 20</a>
 <a href="/instant-coffee/listings/2015-10-15-12-seliyemetaxwtexw-art-gallery-misinterpretation-sikh-feminism">12. EXHIBITION | S'eliyemetaxwtexw Art Gallery | (Mis)Interpretation: Sikh Feminisms | OCT 20</a>
 <a href="/instant-coffee/listings/2015-10-15-13-yactac-dynamo-son-namprah-in-the-light-of-the-bathing-ritual">13. OPENING | Yactac @ Dynamo | Son Namprah - in the light of the bathing ritual | OCT 20</a>
 <a href="/instant-coffee/listings/2015-10-15-14-audain-gallery-lili-reynaud-dewar-my-epidemic-teaching-oct-2">14. OPENING | Audain Gallery | Lili Reynaud-Dewar: My Epidemic (Teaching...) | OCT 21</a>
 <a href="/instant-coffee/listings/2015-10-15-15-cag-reading-and-book-launch-rob-stone-oct-22">15. TALK | CAG | Reading and Book Launch: Rob Stone | OCT 22</a>
 <a href="/instant-coffee/listings/2015-10-15-16-charles-h-scott-gallery-colleen-heslin-in-conversation-with-">16. TALK | Charles H. Scott Gallery | Colleen Heslin in Conversation with Neil Campbell | OCT 22</a>
-<a href="/instant-coffee/listings/2015-10-15-17-grunt-gallery-gnration-sacrifie-by-sayeh-sarfaraz-oct-22">17. OPENING | grunt gallery | GÃ©nÃ©ration SacrifiÃ©e by Sayeh Sarfaraz | OCT 22</a>
+<a href="/instant-coffee/listings/2015-10-15-17-grunt-gallery-gnration-sacrifie-by-sayeh-sarfaraz-oct-22">17. OPENING | grunt gallery | Génération Sacrifiée by Sayeh Sarfaraz | OCT 22</a>
 <a href="/instant-coffee/listings/2015-10-15-18-gallery-295-3rd-annual-emerging-curator-exhibition-oct-23">18. CALL | Gallery 295 | 3rd Annual Emerging Curator Exhibition | OCT 23</a>
 <a href="/instant-coffee/listings/2015-10-15-19-gallery-295-travel-back-to-blue-felicia-e-gail-oct-23">19. OPENING | Gallery 295 | travel back to blue - Felicia E. Gail | OCT 23</a>
 <a href="/instant-coffee/listings/2015-10-15-20-model-ramaya-tegegne-you-dont-always-have-to-be-you-oct-23">20. PERFORMANCE | Model | Ramaya Tegegne: YOU DON'T ALWAYS HAVE TO BE YOU... | OCT 23</a>
@@ -53,17 +53,17 @@ Opening Reception: October 15, 6-8pm
 
 Republic Gallery is pleased to present Black is the size of my new skirt, a
 solo exhibition of new work by Lyse Lemieux. This latest series of
-sculptural drawings continues Lemieuxâ€™s ongoing fascination with gesture,
+sculptural drawings continues Lemieux’s ongoing fascination with gesture,
 materiality and abstraction.
 
 The pleated skirt is a recurrent motif throughout the exhibition; its
 sequential lines represent at once a concrete, pictorial figuration and the
-gesticulate trajectory of motion. Lemieuxâ€™s body-scaled works tease an
+gesticulate trajectory of motion. Lemieux’s body-scaled works tease an
 oblique, elusive familiarity that hints at portraiture or figure-drawing,
 even as any discernible features are obfuscated amid interrupted movements.
 These bold, black lines of cut wool manifest the ink lines of a drawing;
 here, the gesture is re-articulated through the felt fabric. The
-trajectories of these lines â€” and their collisions among assemblages of
+trajectories of these lines — and their collisions among assemblages of
 papers, prints, and textiles â€” might also be â€œfeltâ€  through a haptic
 visuality, one which Lemieux alludes to in the show's synaesthetic title.
 
@@ -81,32 +81,32 @@ The Chorus
 Dan Starling
 
 Dan Starling will present an audiovisual discussion about the Chorus, a
-character in Ancient Greek drama representing â€˜the peopleâ€™ that has been
+character in Ancient Greek drama representing ‘the people’ that has been
 largely erased from popular forms of contemporary theatre. The program will
-illustrate the artistâ€™s research on the history of Greek theatre, as well
+illustrate the artist’s research on the history of Greek theatre, as well
 as the progression and loss of the Chorus as a figure that embodies public
 debate. With an underpinning of psychoanalytic theory and following a
 Frankfurt School style deconstruction, subjects under discussion follow the
 Chorus through experimental theatre works of Richard Scheckner to question
-itâ€™s potential role today, arriving at a high point of contemporary
+it’s potential role today, arriving at a high point of contemporary
 tragedy: Star Wars: Episode III.
 
 The evening seeks open conversation and mutual inquiry into the role of the
 Chorus, and contributes to the development of a video, essay and artist
 book project.
 
-Artistâ€™s Biography
+Artist’s Biography
 
-Dan Starlingâ€™s work reconsiders the formal conventions of narratives,
+Dan Starling’s work reconsiders the formal conventions of narratives,
 genres and aesthetics through deep research into social and political
 histories as well as contemporary society and popular beliefs. His working
 process involves various materials, often resulting in the pairing of a
 critical essay with a material illustration or serial, as in the
 printmaking project Charlie and the Chocolate Factory and the Return of the
 Repressed, a set of performances directed for The Part of No Part, and
-numerous publications. In 2013 he completed The Kidnapperâ€™s Opera, a
+numerous publications. In 2013 he completed The Kidnapper’s Opera, a
 feature- length video work based on the kidnapping of Canadian billionaire
-Jimmie Pattisonâ€™s daughter. Starling studied at Emily Carr University (BFA
+Jimmie Pattison’s daughter. Starling studied at Emily Carr University (BFA
 2005) and Staedelschule, Frankfurt (Meisterschueler 2011). His work has
 been exhibited internationally, including recently in Looking Back at You:
 Masks by Artists, Confederation Centre of the Arts, P.E.I.
@@ -197,22 +197,22 @@ that celebrates fantastic horror and folktales.
 Schedule:
 
 Friday October 16:
-5:00 pm â€“ The Curse of Jarjacha.
-7:00 pm â€“ The Other Cinema
-8:00 pm â€“ Opening Reception
+5:00 pm – The Curse of Jarjacha.
+7:00 pm – The Other Cinema
+8:00 pm – Opening Reception
 
 Saturday October 17:
-5:00 pm â€“ The Mystery of the Kharisiri
-7:30 pm â€“ Pishtaco
+5:00 pm – The Mystery of the Kharisiri
+7:30 pm – Pishtaco
 
 Friday October 23:
-5:00 pm â€“ Pishtaco
-7:00 pm â€“ The Mystery of the Kharisiri
+5:00 pm – Pishtaco
+7:00 pm – The Mystery of the Kharisiri
 
 Saturday October 24:
-5:00 pm â€“ The Curse of Jarjacha
-7:00 pm â€“ The Other Cinema. Directors
-8:00 pm â€“ Horror in the Andes: A discussion on Andean folktales and genre films
+5:00 pm – The Curse of Jarjacha
+7:00 pm – The Other Cinema. Directors
+8:00 pm – Horror in the Andes: A discussion on Andean folktales and genre films
 
 Over its thirty year history, the School for the Contemporary Arts at SFU
 has produced outstanding alumni who have gone on to play a major role in
@@ -253,17 +253,17 @@ Bob Prittie Library | 6100 Willingdon Avenue
 This Burnaby Art Gallery offsite exhibition features a selection of
 artworks by Jack Wise reproduced in various media. Most of the black and
 white images shown in this exhibit are from The Many Worlds of Jack Wise, a
-portfolio of the artistâ€™s then recent work published by The Bau Xi Gallery
+portfolio of the artist’s then recent work published by The Bau Xi Gallery
 in the fall of 1967. The large format of the portfolio meant that many of
-Jackâ€™s works could be reproduced at their actual size. It was hoped that
-the publication would allow a wide audience access to Jackâ€™s artwork at an
+Jack’s works could be reproduced at their actual size. It was hoped that
+the publication would allow a wide audience access to Jack’s artwork at an
 affordable price.
 
 In addition to the reproductions shown in this offsite exhibition, the City
 of Burnaby Permanent Art Collection includes a dozen original works by Jack
 Wise, many of which are too large or too delicate to show in the library.
 
-â€œThe legacy of Jack Wise is a stunning array of artistic output, produced
+“The legacy of Jack Wise is a stunning array of artistic output, produced
 over a lifetime of dedicated, educated, and intelligent hard work. Looking
 closely at his artwork will take you on a personal visit to some of his
 many worlds...,â€  says local artist and art historian Gary Sim.
@@ -272,9 +272,9 @@ An appreciation of Jack Wise by Sim can be found on the Burnaby Art Gallery
 website: http://bit.ly/1GwnWhm.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-10-15-06-cag-panel-discussion-sustenance-festival-oct-17">06. TALK | CAG | Panel Discussion â€“ Sustenance Festival | OCT 17</a>
+<a href="/instant-coffee/listings/2015-10-15-06-cag-panel-discussion-sustenance-festival-oct-17">06. TALK | CAG | Panel Discussion – Sustenance Festival | OCT 17</a>
 ------------------------------------------------------------------------
-Panel Discussion â€“ Sustenance Festival
+Panel Discussion – Sustenance Festival
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver
 www.contemporaryartgallery.ca
@@ -299,7 +299,7 @@ In his exhibition at Monte Clark Gallery, Owen Kydd presents a
 selection of new works including photographic murals and videos on
 digital screens.
 
-Writer Aaron Peck first described Kyddâ€™s early video works on monitors
+Writer Aaron Peck first described Kydd’s early video works on monitors
 as â€œdurational photographs,â€  pieces that challenged the boundaries
 between photography and video while at the same time resisting aspects
 of cinema inherent to moving images. Kydd has since continued to
@@ -344,8 +344,8 @@ New Documents is pleased to announce the availability of Seth and Sheila
 Stayed Behind, a new collaboration between Seth Fluker and Sheila Heti.
 Seth and Sheila Stayed Behind pairs a short story by Sheila Heti with
 photographs by Seth Fluker. â€œSethâ€  and â€œSheilaâ€  are the main characters of
-Hetiâ€™s abstract narrative of longing and transition, one which sets the
-stage for Flukerâ€™s photographs of a wintry Toronto landscape, filled with
+Heti’s abstract narrative of longing and transition, one which sets the
+stage for Fluker’s photographs of a wintry Toronto landscape, filled with
 anthropomorphized automobiles and embankments of dirty snow.
 
 Sheila Heti is the author of seven books, including How Should a Person Be?
@@ -357,11 +357,11 @@ Toronto Launch
 Saturday, October 17, 4 pm
 
 Join Sheila Heti and Seth Fluker at Art Metropole, Toronto, for a launch of
-Seth and Sheila Stayed Behind, organized in conjunction with Seth Flukerâ€™s
+Seth and Sheila Stayed Behind, organized in conjunction with Seth Fluker’s
 window installation at Art Metropole running through November 1, 2015.
 
 Buy the Book
-29 Ã— 21.5 cm
+29 × 21.5 cm
 40 Pages, Hard Cover
 ISBN: 978-1-927354-22-3
 First Edition (2015)
@@ -384,7 +384,7 @@ October 17 + 18, 12-6PM
 Hosted by the Vancouver Art Gallery
 750 Hornby Street, Vancouver
 
-Presented by Project Space, VA/BF is a multi-day festival of artistsâ€™
+Presented by Project Space, VA/BF is a multi-day festival of artists’
 publishing featuring over one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 artist projects. Featured artists travel to Vancouver from across Canada
@@ -400,17 +400,17 @@ and continue to grow VA/BF by becoming a Member.
 For more information, see www.VancouverArtBookFair.com
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-10-15-10-publication-studio-vancouver-readings-book-launch-bartleby-r">10. EVENT | Publication Studio Vancouver | Readings & Book Launch BARTLEBY REVIEW: 21â€“40 | OCT 17</a>
+<a href="/instant-coffee/listings/2015-10-15-10-publication-studio-vancouver-readings-book-launch-bartleby-r">10. EVENT | Publication Studio Vancouver | Readings & Book Launch BARTLEBY REVIEW: 21–40 | OCT 17</a>
 ------------------------------------------------------------------------
-Readings and Book Launch for BARTLEBY REVIEW: 21â€“40
+Readings and Book Launch for BARTLEBY REVIEW: 21–40
 
 7pm
 Saturday, October 17th
 Publication Studio Vancouver
 222 East Georgia Street
 
-Publication Studio Vancouver presents the launch of BARTLEBY REVIEW: 21â€“40,
-a compilation of the last twenty issues of Vancouverâ€™s free and occasional
+Publication Studio Vancouver presents the launch of BARTLEBY REVIEW: 21–40,
+a compilation of the last twenty issues of Vancouver’s free and occasional
 leaflet of criticism and other writing. Featuring an introduction by Peter
 Gazendam and a new design by Jaz Halloran. Please join us at the launch for
 readings by past contributors, Kara Hansen and Ingrid Olauson.
@@ -418,17 +418,17 @@ readings by past contributors, Kara Hansen and Ingrid Olauson.
 In Vancouver, we have many of what art historian William Wood described as
 â€œoccasional criticsâ€ â€”the off-duty journalist or curator, the intrigued
 artist, writers and poets. He wrote this about Vancouver in 1990, and for
-the most part, itâ€™s still the case. BARTLEBY publishes writing that might
+the most part, it’s still the case. BARTLEBY publishes writing that might
 otherwise be lost to the pruned paradigm. Melville's scrivener usually
 comes to mind too, but we practice his mantra ("I would prefer not to")
 only notionally. Our production certainly exercises a willful refrain from
 certain expectations of art criticism and publishing which may hinder the
 publication of, or distract from, writing simply as autonomous works of
 inquiry. These aspects are further touched upon in our first anthology,
-BARTLEBY REVIEW: 1â€“20 (Publication Studio, 2014)
+BARTLEBY REVIEW: 1–20 (Publication Studio, 2014)
 
 This event is presented by BARTLEBY REVIEW and Publication Studio Vancouver
-as part of the Vancouver Art/Book Fairâ€™s open-source event series Artistsâ€™
+as part of the Vancouver Art/Book Fair’s open-source event series Artists’
 Books Week
 
 http://bartlebyreview.com
@@ -438,18 +438,18 @@ http://bookmachine.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-10-15-11-city-of-vancouver-public-art-strathcona-branch-library-call-">11. CALL | City of Vancouver Public Art | Strathcona Branch Library - Call to Artists | OCT 20</a>
 ------------------------------------------------------------------------
-Call to Artists â€“ nÃ©c'a?mat ct Strathcona Branch Library
-City of Vancouver â€“ Public Art Program | Vancouver, BC, Canada
+Call to Artists – néc'a?mat ct Strathcona Branch Library
+City of Vancouver – Public Art Program | Vancouver, BC, Canada
 Deadline for submissions: Tuesday, October 20, 2015, 5:00pm
 Budget: Up to $100,000 (all inclusive)
 
 The City of Vancouver Public Art Program in partnership with the Vancouver
 Public Library and the architectural firm Dialog have identified a public
-art opportunity at the new nÃ©c'a?mat ct Strathcona Branch Library at 730
+art opportunity at the new néc'a?mat ct Strathcona Branch Library at 730
 East Hastings Street. The commission is for new work. Eligible artists are
 invited to submit credentials and a letter of interest for consideration.
 
-The nÃ©c'a?mat ct Strathcona library is the first public facility in
+The néc'a?mat ct Strathcona library is the first public facility in
 Vancouver with a Coast Salish name. nÃ©c'a?mat ct means â€œWe are oneâ€  in the
 hen'q'emin'em (Musqueam) language. Public art at the site should reflect the
 character of this neighbourhood which is rich in cultural histories and
@@ -465,8 +465,8 @@ project should include consideration of lighting.
 
 ELIGIBILITY
 This opportunity is suitable for artists who:
-Â· Have experience in producing artworks for public spaces
-Â· Reside in Vancouver or the Lower Mainland
+· Have experience in producing artworks for public spaces
+· Reside in Vancouver or the Lower Mainland
 
 Link to Call:
 http://vancouver.ca/parks-recreation-culture/artist-call-for-strathcona-branch-library.aspx
@@ -477,17 +477,17 @@ http://vancouver.ca/parks-recreation-culture/artist-call-for-strathcona-branch-l
 (Mis)Interpretation: Sikh Feminisms in representations, texts and lived
 realities
 
-Sept 29 â€“ Oct 20
+Sept 29 – Oct 20
 S'eliyemetaxwtexw Art Gallery
 University of the Fraser Valley Campus, 33844 King Road, Abbotsford Campus,
-B 136 Gallery Hrs: Mon â€“ Fri, 10:00 AM â€“ 6:00 PM
+B 136 Gallery Hrs: Mon – Fri, 10:00 AM – 6:00 PM
 
 The Centre for Indo-Canadian Studies, with support from the Visual Arts
 Department at UFV and UFV International Presents an upcoming exhibition
 entitled: (Mis)Interpretation: Sikh Feminisms in representations, texts and
 lived realities. The exhibition includes the exploration of the five
 kakkars (Sikh outward symbols) through the female lens, the interpretations
-of Gurbani (Sikh scriptures) discussing the feminine, womenâ€™s engagement
+of Gurbani (Sikh scriptures) discussing the feminine, women’s engagement
 with the SGGSJ (Sikh scriptures) and the daily lived realities of Sikh
 women. Exhibition available for viewing until October 20th. Contact Sharn
 at Sharanjit.sandhra@ufv.ca or (604) 851-6325.
@@ -502,8 +502,8 @@ intellectual and artistic freedom, cultural sensitivity, social diversity,
 and collaborative relations with Indigenous peoples. In October 2014, The
 Gallery was renamed S'eliyemetaxwtexw Art Gallery (pronounced
 S-uh-lee-uh-mut-out-ook). This new name not only acknowledges that the
-Gallery sits on the unceded territory of the StÃ³:lo Nation but also
-confirms the Department of Visual Artsâ€™ ongoing commitment to building and
+Gallery sits on the unceded territory of the Stó:lo Nation but also
+confirms the Department of Visual Arts’ ongoing commitment to building and
 maintaining lasting relationships with our Indigenous neighbours.
 
 ------------------------------------------------------------------------
@@ -521,14 +521,14 @@ Warut, (B. Bangkok Thailand) is an multi disciplinary artist basing in
 Vancouver and Bangkok. He received his bachelor degree of Fine Arts
 majoring in Visual Arts from university of British Columbia.
 
-Warutâ€™s interest lies in function of narrative constituting memory, history
+Warut’s interest lies in function of narrative constituting memory, history
 as well as sociopolitical gesture, which he draws from his personal ethnic
 background. Having grown up in a constitutional monarchy system where
-conflict of political beliefs and values is a part of daily life, Warutâ€™s
+conflict of political beliefs and values is a part of daily life, Warut’s
 work reflects philosophical contradiction of traditional value in a highly
 religious state with the symbolic kingship as the status quo.
 
-â€œThe songkran festival is a tradition that has water as the main focus of
+“The songkran festival is a tradition that has water as the main focus of
 happiness for the celebration of new year in which the people of Thailand
 has continually observed for centuries. The word Songkran came from the
 Sanskrit language which means the passing or movement of the Sun into its
@@ -583,12 +583,12 @@ Grenoble. She has recently presented solo exhibitions at the New Museum,
 New York; Index, Stockholm; Outpost, Norwich, England; and Kunsthalle
 Basel, and participated in the 12th Lyon Biennial, the 2012 La Triennale,
 and the 5th Berlin Biennial. Since 2010 she has held a professorship at
-Haute Ã©cole d'art et design in Geneva.
+Haute école d'art et design in Geneva.
 
 Reynaud-Dewar is a 2015 Audain Visual Artist in Residence, which is
 co-presented by SFU Galleries and SFU's School for the Contemporary Arts.
-Her residency and exhibition are supported by the Institut franÃ§ais and the
-Consulat GÃ©nÃ©ral de France Ã  Vancouver.
+Her residency and exhibition are supported by the Institut français and the
+Consulat Général de France à Vancouver.
 
 Curated by Amy Kazymerchyk.
 
@@ -596,7 +596,7 @@ Events
 
 My Epidemic (Teaching Bjarne Melgaard's Class)
 Seminar Friday and Saturday, October 9 - 10; 16 - 17; 23 - 24; 30 - 31
-Ramaya Tegegne joins the seminar October 23 â€“ 24.
+Ramaya Tegegne joins the seminar October 23 – 24.
 Audain Gallery
 
 Ramaya Tegegne
@@ -610,7 +610,7 @@ Saturday, October 31, 1PM
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-10-15-15-cag-reading-and-book-launch-rob-stone-oct-22">15. TALK | CAG | Reading and Book Launch: Rob Stone | OCT 22</a>
 ------------------------------------------------------------------------
-Reading and Book Launch: Rob Stone â€“
+Reading and Book Launch: Rob Stone –
 Contemporary Art Gallery, 555 Nelson Street, Vancouver
 www.contemporaryartgallery.ca
 
@@ -622,7 +622,7 @@ Aurality published by MIT Press in 2015. Stone is Associate Professor in
 Critical and Cultural Studies at Emily Carr University of Art + Design and
 sits on the advisory panel, Disappearance, of Oslo Pilot. Recent projects
 include an essay on sound for the Nordic Pavilion at Venice and
-exhibition/performance work on Luigi Russoloâ€™s intonarumori.
+exhibition/performance work on Luigi Russolo’s intonarumori.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-10-15-16-charles-h-scott-gallery-colleen-heslin-in-conversation-with-">16. TALK | Charles H. Scott Gallery | Colleen Heslin in Conversation with Neil Campbell | OCT 22</a>
@@ -632,16 +632,16 @@ Colleen Heslin and Neil Campbell on Treading Buoylines.
 
 Treading Buoylines is an exhibition of new work by Colleen Heslin. The
 paintings in the exhibition, all made within the past year, speak to the
-artistâ€™s recent investigations into form, materiality, experimentation and
+artist’s recent investigations into form, materiality, experimentation and
 happenstance. Though they engage in discourses around painterly
-abstraction, Heslinâ€™s works are comprised of fabric, ink and dyeâ€”materials
+abstraction, Heslin’s works are comprised of fabric, ink and dye—materials
 that are traditionally associated with crafting and needlework. The artist
 stitches these two seemingly discordant practices together, and although
 the resulting paintings speak of gendered use value, Heslin is more focused
 on the opportunities for experimentation that her choice of materials
 allow. In contrast to paint being applied to the surface of the canvas,
-Heslinsâ€™ inks and dyes seep into the wet surface of the commonplace fabric.
-As the artist has described, â€œthe mark-making that appears on the fabric in
+Heslins’ inks and dyes seep into the wet surface of the commonplace fabric.
+As the artist has described, “the mark-making that appears on the fabric in
 my work consists of traces of pigment from the process of water drying. The
 lines from this process influence my formal decisions and potentials, and
 that is the space where the experimental process and formal abstraction
@@ -662,14 +662,14 @@ New York City, NY and Interior at Teck Gallery, Vancouver, B.C.
 Presenting Sponsor RBC Wealth Management.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-10-15-17-grunt-gallery-gnration-sacrifie-by-sayeh-sarfaraz-oct-22">17. OPENING | grunt gallery | GÃ©nÃ©ration SacrifiÃ©e by Sayeh Sarfaraz | OCT 22</a>
+<a href="/instant-coffee/listings/2015-10-15-17-grunt-gallery-gnration-sacrifie-by-sayeh-sarfaraz-oct-22">17. OPENING | grunt gallery | Génération Sacrifiée by Sayeh Sarfaraz | OCT 22</a>
 ------------------------------------------------------------------------
 grunt gallery exhibits:
-GÃ©nÃ©ration SacrifiÃ©e by Sayeh Sarfaraz
+Génération Sacrifiée by Sayeh Sarfaraz
 
 Artist: Sayeh Sarfaraz
-Opening Reception: Thursday October 22 (7â€“10pm) at grunt gallery
-Exhibition Dates: October 22 â€“ November 28, 2015
+Opening Reception: Thursday October 22 (7–10pm) at grunt gallery
+Exhibition Dates: October 22 – November 28, 2015
 
 Artist Sayeh Sarfarez translates political movements and uprising occurring
 in Iran into a drawing series in which childlike, almost naive forms and
@@ -677,7 +677,7 @@ innocent aesthetics are juxtaposed with threatening motifs.
 
 Figures within these pictures are abstracted into flat-coloured shapes;
 crowded scenes appear simplistic and innocent in nature until a violent
-narrative appears. The basis of Sarfarazâ€™ drawings and compositions are
+narrative appears. The basis of Sarfaraz’ drawings and compositions are
 rooted in Persian miniature paintings which she expresses in a contemporary
 format with modern references.
 
@@ -688,17 +688,17 @@ and censorship. Between the childlike quality and the brutality of current
 events, the images challenge us to fight against our docile loss of
 critical perspective.
 
-Join us for the opening reception of GÃ©nÃ©ration SacrifiÃ©e on Thursday
-October 22nd (7 â€“ 10pm) at grunt gallery. The artist will be in attendance
-at the opening. This exhibition occurs from Oct 22 â€“ Nov 28, 2015.
+Join us for the opening reception of Génération Sacrifiée on Thursday
+October 22nd (7 – 10pm) at grunt gallery. The artist will be in attendance
+at the opening. This exhibition occurs from Oct 22 – Nov 28, 2015.
 
 URL: http://grunt.ca/exhibitions/au-pays-des-mollahs/
 Facebook Event: https://www.facebook.com/events/421675221370331/
 
 Artist Bio:
 
-Sayeh Sarfaraz was born in Shiraz, Iran and later attended lâ€™Ã‰cole
-SupÃ©rieure Des Arts DÃ©coratifs de Strasbourg France. She is currently based
+Sayeh Sarfaraz was born in Shiraz, Iran and later attended l’École
+Supérieure Des Arts Décoratifs de Strasbourg France. She is currently based
 in Montreal, Quebec.
 
 ------------------------------------------------------------------------
@@ -766,23 +766,23 @@ materials, Tarps, take on a transformative quality and lead one through a
 rich dispersal of use recorded as-photograph within the tarps themselves.
 Here the relationships between what is presented are aroused by her
 intersubjective connections with these materials, which are explored as
-photographic stand-ins as a function of personhood â€“ translated into
+photographic stand-ins as a function of personhood – translated into
 poetics through form. Parallel to her as-photograph tarps is the spatial
 construction of support structures as-landscape. These supports intersect
 the whole of the gallery with deliberate spaces for intimacy.
 
 Together these materials and temporary structures, in tandem with
-photographic images and used-up film canisters, articulate Gailâ€™s own
+photographic images and used-up film canisters, articulate Gail’s own
 horizon as a frame through which her subjective poetics takes place. This
 immersive horizon of objects invokes and obscures what is understood as
 seen and experienced. In travel back to blue Gail implements a kind of
-autopoiesis â€“ a system where the installation is itself a generative
+autopoiesis – a system where the installation is itself a generative
 production and result of a history located in the roots of South-Eastern
 Americana, loss, desire, and the complex journey to the Pacific North West.
 The as-photograph pieces within the as-landscape installation serve as a
-kind of time-travel into Gailâ€™s original purposing of these items through
+kind of time-travel into Gail’s original purposing of these items through
 their repurposed forms emphasizing their socio-political connotations. As a
-whole these materials bring the poetics of Felicia E. Gailâ€™s expanded
+whole these materials bring the poetics of Felicia E. Gail’s expanded
 photographic practice into the foreground and immediately transports her
 poetics into the backgrounded horizon of personal interpretation and
 projected meaning, which for Gail results as a function of time-travel.
@@ -831,7 +831,7 @@ Ramaya Tegegne lives and works in Geneva, Switzerland. She currently
 co-runs the contemporary art space Forde and the bookshop Oraibi Books with
 Beckbooks. She has recently presented her work at Marbriers 4, Geneva;
 Galerie Emanuel Layr, Vienna; Sunview Lunchoenette, New York; Berlin;
-Maladie dâ€™Amour, Grenoble; and Curtat Tunnel, Lausanne. Her latest artistâ€™s
+Maladie d’Amour, Grenoble; and Curtat Tunnel, Lausanne. Her latest artist’s
 book, Menage a trois, has just been published by Fri Art Fribourg on the
 occasion of her solo exhibition there.
 
@@ -882,7 +882,7 @@ Salmon People was made possible through the GRAND AD-NODE Project Fund,
 Emily Carr University of Art + Design.
 
 About UrbanScreen:
-Imagined by artists and built by the City, Surreyâ€™s UrbanScreen is Canada's
+Imagined by artists and built by the City, Surrey’s UrbanScreen is Canada's
 largest non-commercial outdoor urban screen dedicated to presenting digital
 and interactive art. UrbanScreen is an offsite venue of the Surrey Art
 Gallery and is located on the west wall of Chuck Bailey Recreation Centre
@@ -897,7 +897,7 @@ Council Unique Opportunities Program, and is a legacy of the Vancouver 2010
 Cultural Olympiad project CODE. Surrey Art Gallery gratefully acknowledges
 funding support from the Canada Council for the Arts and the BC Arts
 Council for its ongoing programming including this exhibition.
-UrbanScreenâ€™s equipment renewal was made possible by the Canada Cultural
+UrbanScreen’s equipment renewal was made possible by the Canada Cultural
 Spaces Fund of the Department of Canadian Heritage and the City of Surrey.
 
 More information about UrbanScreen is available at www.surreyurbanscreen.ca.
@@ -920,10 +920,10 @@ Meet at the Title Wall.
 <a href="/instant-coffee/listings/2015-10-15-23-beers-london-contemporary-visions-6-oct-26">23. CALL | BEERS London | Contemporary Visions 6 | OCT 26</a>
 ------------------------------------------------------------------------
 JURY
-- Kurt Beers, Director of BEERS London & Author of â€˜100 Painters of Tomorrowâ€™
+- Kurt Beers, Director of BEERS London & Author of ‘100 Painters of Tomorrow’
 - Victor Benady, London-based collector
-- Tony Godfrey, Curator and Author of Phaidonâ€™s â€˜Painting Todayâ€™, â€˜The New
-Imageâ€™, â€˜Painting in the Eightiesâ€™, & Conceptual Art
+- Tony Godfrey, Curator and Author of Phaidon’s ‘Painting Today’, ‘The New
+Image’, ‘Painting in the Eighties’, & Conceptual Art
 - Alan Sastre, Artist and 2014 Contemporary Visions finalist
 - Helen Toomer, Director of PULSE Contemporary Art Fair (Miami & New York)
 - Rebecca Wilson, Chief Curator & VP at Saatchi Art, former Director of
@@ -959,12 +959,12 @@ Location: Metro Vancouver and parts of the Lower Mainland
 The Capture Photography Festival is now accepting proposals for
 participating exhibitions. To be eligible for inclusion in the Festival
 programming, proposals must be submitted before October 31, 2015. Proposals
-will be reviewed by Captureâ€™s submission panel and decision letters will be
+will be reviewed by Capture’s submission panel and decision letters will be
 sent out no later than December 15, 2015.
 
 The call is open to all exhibitions of photo and lens-based works focusing
 on any subject matter. Additionally, we welcome proposals for innovative
-events and public art projectsâ€”think outside the box! The panel will be
+events and public art projects—think outside the box! The panel will be
 looking to showcase projects that demonstrate artistic excellence and
 present a diverse range of subject matter.
 
@@ -985,7 +985,7 @@ exhibitions, media, audio and site-specific works, public interventions,
 workshops, lectures and panel discussion based proposals.
 
 About the M:ST Festival
-Since itâ€™s inception in 2001, the Mountain Standard Time Performative Art
+Since it’s inception in 2001, the Mountain Standard Time Performative Art
 Festival has showcased original, diverse, entertaining, and
 thought-provoking performative works. M:ST ensures that the exceptional
 quality of performative art is recognized and sustained in the Southern

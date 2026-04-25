@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 18
 type: "OPENING"
+venue: "Libby Leshgold Gallery, Emily Carr University"
 summary: "Libby Leshgold Gallery, Emily Carr University | Practice as Ritual / Ritual as Practice | SEP 14"
 ---
 

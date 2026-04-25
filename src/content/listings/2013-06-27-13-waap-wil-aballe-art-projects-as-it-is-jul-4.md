@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 13
 type: ""
+venue: "WAAP"
 summary: "WAAP | WIL ABALLE ART PROJECTS | AS IT IS | JUL 4"
 ---
 
@@ -31,7 +32,7 @@ constructed simply, elegantly and snapped onto rectilinear axes. These
 objects evoke two-dimensional linear drawings but the space occupied is 
 three-dimensional.
 
-2011 RBC semi-finalist Deirdre McAdamsâ€™ practice represents an 
+2011 RBC semi-finalist Deirdre McAdams’ practice represents an 
 engagement with the minimal vocabulary of geometric and optical abstraction, 
 and is characterized by a spirit of experimentation within the limits of pre-
 determined methodological confines. Rounding out the exhibition are small 
@@ -42,7 +43,7 @@ identifiable optical painting style.
 Jeremy Hof lives and works in Vancouver, BC, mainly in painting, drawing, 
 sculpture and installation. He graduated with a BFA from ECUAD in 2007. He 
 was the winner of the 2008 RBC Canadian Painting Competition. He has 
-exhibited at the National Gallery of Canada, Musee dâ€™art contemporain de 
+exhibited at the National Gallery of Canada, Musee d’art contemporain de 
 Montreal, Power Plant, Museum of Contemporary Canadian Art, 
 Contemporary Art Gallery, Vancouver Art Gallery, Blanket Gallery, The 
 Rooms, Museum London, Mendel Art Gallery and Art Gallery of Alberta.
@@ -62,7 +63,7 @@ awarded an Honourable Mention in the 2011 RBC Painting Competition, as
 well as a prize in 2010 from Canadian Art Magazine for her writing on 
 contemporary art.
 
-Sean Mills lives and works in Vancouver. He received his bachelorâ€™s degree in 
+Sean Mills lives and works in Vancouver. He received his bachelor’s degree in 
 visual art from Emily Carr University in 2010. He has shown at Gallery Fukai, 
 Emily Carr Alumni Gallery at Queen Elizabeth Theatre, Surrey Art Gallery, 
 CityScape Community Art Space, Yactac Gallery Space, Elissa Cristall 

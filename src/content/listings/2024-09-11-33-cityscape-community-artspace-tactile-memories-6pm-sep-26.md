@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 33
 type: "OPENING"
+venue: "CityScape Community Artspace"
 summary: "CityScape Community Artspace | Tactile Memories | 6PM | SEP 26"
 ---
 

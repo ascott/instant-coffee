@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA Fieldhouse | Skin, inscribed | 8PM | JUN 3"
 ---
 

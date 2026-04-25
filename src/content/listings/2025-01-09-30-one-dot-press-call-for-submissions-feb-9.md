@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 30
 type: "CALL"
+venue: "One Dot Press"
 summary: "One Dot Press | Call for submissions | FEB 9"
 ---
 

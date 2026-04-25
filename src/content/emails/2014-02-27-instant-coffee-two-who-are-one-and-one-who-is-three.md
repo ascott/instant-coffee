@@ -21,7 +21,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-02-27-07-artspeak-tania-willard-on-barn-swallows-mar-1">07. Artspeak | Tania Willard on Barn Swallows | MAR 1</a>
 <a href="/instant-coffee/listings/2014-02-27-08-read-books-sarah-resnick-on-triple-canopy-mar-3">08. READ Books | Sarah Resnick: On Triple Canopy | MAR 3</a>
 <a href="/instant-coffee/listings/2014-02-27-09-timeraiser-call-mar-3">09. Timeraiser | call | MAR 3</a>
-<a href="/instant-coffee/listings/2014-02-27-10-contemporary-art-gallery-feed-back-talk-marie-hlne-tessier-m">10. Contemporary Art Gallery | Feed Back Talk: Marie-HÃ©lÃ¨ne Tessier | MAR 4</a>
+<a href="/instant-coffee/listings/2014-02-27-10-contemporary-art-gallery-feed-back-talk-marie-hlne-tessier-m">10. Contemporary Art Gallery | Feed Back Talk: Marie-Hélène Tessier | MAR 4</a>
 <a href="/instant-coffee/listings/2014-02-27-11-audain-gallery-panel-marina-marrow-jan-pfeiffer-jerry-zaslov">11. Audain Gallery | panel: Marina Marrow, Jan Pfeiffer, Jerry Zaslove | MAR 5</a>
 <a href="/instant-coffee/listings/2014-02-27-12-western-front-auction-preview-evening-mar-5">12. Western Front | Auction Preview Evening | MAR 5</a>
 <a href="/instant-coffee/listings/2014-02-27-13-avenue-beyond-the-walls-of-intelligence-life-is-defined-mar-">13. Avenue | Beyond the walls of intelligence, life is defined | MAR 6</a>
@@ -32,7 +32,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-02-27-18-spaces-of-contestation-speaker-series-poet-and-activist-step">18. Spaces of Contestation Speaker Series | Poet and activist Stephen Collis | MAR 12</a>
 <a href="/instant-coffee/listings/2014-02-27-19-2014-toronto-korean-film-festival-call-for-submissions-mar-1">19. 2014 Toronto Korean Film Festival | Call for Submissions | MAR 14</a>
 <a href="/instant-coffee/listings/2014-02-27-20-sonic-boom-music-festival-2014-mar-26">20. SONIC BOOM MUSIC FESTIVAL 2014 | | MAR 26</a>
-<a href="/instant-coffee/listings/2014-02-27-21-deluge-contemporary-art-victoria-edgardo-aragn-mar-28">21. Deluge Contemporary Art, Victoria | Edgardo AragÃ³n | MAR 28</a>
+<a href="/instant-coffee/listings/2014-02-27-21-deluge-contemporary-art-victoria-edgardo-aragn-mar-28">21. Deluge Contemporary Art, Victoria | Edgardo Aragón | MAR 28</a>
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-27-01-ubc-ziegler-speaker-series-graham-harman-what-objects-can-do">01. UBC: Ziegler Speaker Series | Graham Harman: What Objects Can Do for the Arts | FEB 27</a>
@@ -41,7 +41,7 @@ UBC
 
 Graham Harman
 
-The next lecture in the Ziegler Speaker Series, entitled â€œâ€œWhat Objects Can Do 
+The next lecture in the Ziegler Speaker Series, entitled ““What Objects Can Do 
 for the Artsâ€  will be presented by Prof. Graham Harman, Distinguished 
 University Professor at the American University in Cairo.
 
@@ -100,11 +100,11 @@ BC.
 Veena Gokhale has published fiction and poetry in literary journals and 
 anthologies, read from her work, and received writing grants since 1993. 
 Guernica Editions published her first collection, Bombay Wali and Other 
-Stories, in 2013. Mark Frutkin says of Bombay Wali, â€œâ€¦These are rich 
+Stories, in 2013. Mark Frutkin says of Bombay Wali, “…These are rich 
 stories, well-imagined, deeply felt." Starting her career as a journalist in 
 Bombay, Gokhale first came to Canada on a journalism fellowship in 1990. 
 She eventually immigrated to Canada, completed a Masters, and worked for 
-non-profit organizations. She received a grant from VivacitÃ© MontrÃ©al, 
+non-profit organizations. She received a grant from Vivacité Montréal, 
 Quebec Arts Council, for her first novel whose working title is Simply There 
 To Help. http://www.veenago.com/story
 
@@ -205,7 +205,7 @@ Please RSVP to alison@trenchgallery.com, seating is limited
 
 Glenn Lewis has an upcoming retrospective solo show at Kunstverein in 
 Amsterdam. For more information please visit www.kunstverein.nl
-Copyright Â© 2014 Trench Contemporary Art, All rights reserved. 
+Copyright © 2014 Trench Contemporary Art, All rights reserved. 
 You are receiving this email because you shared your address with us. 
 
 Our mailing address is:
@@ -223,23 +223,23 @@ SCRIVENER'S MONTHLY: ARIANA REINES
 Friday, February 28, 2014 @ 8:00pm
 Western Front
 
-Scrivenerâ€™s Monthly presents an evening with New York poet, playwright and 
+Scrivener’s Monthly presents an evening with New York poet, playwright and 
 translator Ariana Reines. For her first visit to Vancouver, she will read some 
 brand new stuff, alongside selections from her recent books of poetry 
 Thursday (2012) and Mercury (2011).
 
-This will be the last scheduled Scrivenerâ€™s Monthly, so donâ€™t miss it!
+This will be the last scheduled Scrivener’s Monthly, so don’t miss it!
 
 Ariana Reines is the author of The Cow (Alberta Prize, 2006), Coeur de Lion 
 (2007), Mercury, (2011), Thursday, (2012), and TELEPHONE, (2009, 
 commissioned and produced by The Foundry Theatre), an Obie-winning play. 
-For Semiotext(e), she is the translator of The Little Black Book of GrisÃ©lidis 
+For Semiotext(e), she is the translator of The Little Black Book of Grisélidis 
 Real: Days and Nights of an Anarchist Whore by Jean-Luc Hennig, and 
 Preliminary Materials for a Theory of the Young-Girl by TIQQUN. For Mal-O-
 Mar, she translated My Heart Laid Bare by Charles Baudelaire. Performances 
 and theatrical works include THE ORIGIN OF THE WORLD at Stuart Shave 
 Modern Art, LORNA (with Jim Fletcher) at the Martin E. Segal Theatre, MISS 
-STâ€™S HIEROGLYPHIC SUFFERING at the Solomon R. Guggenheim Museum, and 
+ST’S HIEROGLYPHIC SUFFERING at the Solomon R. Guggenheim Museum, and 
 SWISSNESS, at The Swiss Institute.
 
 Recent writing has appeared in Mousse, Parkett, The Boston Review, The 
@@ -274,11 +274,11 @@ Tania Willard, Secwepemc Nation, works within the shifting ideas of
 contemporary and traditional as it relates to cultural arts and production.Often 
 working with bodies of knowledge and skills that are conceptually linked to 
 her interest in intersections between Aboriginal and other cultures. Willard 
-has worked as an artist in residence with gallery gachet in Vancouverâ€™s 
+has worked as an artist in residence with gallery gachet in Vancouver’s 
 Downtown East Side, the Banff Centre's visual arts residency, fiction and 
 Trading Post and was a curator in residence with grunt gallery. Collection's of 
 Willard's work include the Department of Foreign Affairs and International 
-Trade, Kamloops Art Gallery and Thompson Rivers University. Willardâ€™s recent 
+Trade, Kamloops Art Gallery and Thompson Rivers University. Willard’s recent 
 curatorial work includes Beat Nation: Art Hip Hop and Aboriginal Culture, 
 featuring 27 contemporary Aboriginal artists currently at Vancouver Art 
 Gallery.
@@ -288,33 +288,33 @@ Gallery.
 CAROLINE MONNET, DEVIN TROY STROTHER, LAWRENCE PAUL 
 YUXWELUPTUN
 
-February 8â€“March 29, 2014
+February 8–March 29, 2014
 
 Barn Swallows brings together three artists whose works combine the 
 vocabulary of popular and traditional visual-cultures with the tropes of 
 modernist abstraction to create unique hybrid forms. Each artist uses this 
 strategy for a different purpose, as the basis for formalist exploration, to 
-consider representationâ€™s role in the political tensions of modernity, or to 
+consider representation’s role in the political tensions of modernity, or to 
 reflect on the power dynamics at play in the portrayal of race and gender in 
 art history and popular culture.
 
-LAWRENCE PAUL YUXWELUPTUNâ€™s recent ovoid paintings and sculptures 
+LAWRENCE PAUL YUXWELUPTUN’s recent ovoid paintings and sculptures 
 complement his more familiar figurative tableaux of the past thirty years. While 
 the idealized Northwest-Coast formline shapes are freed from their traditional 
-depictive role, the titles nonetheless root these works in the artistâ€™s broader 
+depictive role, the titles nonetheless root these works in the artist’s broader 
 concern with representation, the
 
 landscape and First Nations political struggles.
 
-By contrast, CAROLINE MONNETâ€™s Anomalia collage and silkscreen series 
+By contrast, CAROLINE MONNET’s Anomalia collage and silkscreen series 
 approaches abstraction by splicing together found images of urban 
 development, resource extraction and Hollywood depictions of First Nations 
 culture, dissolving the originals into a fragmentary field of overlapping facets. 
 These fields are, in turn, cropped into the shapes of silhouettes of animal and 
-human figuresâ€”each image in the series offering a different view on the 
+human figures—each image in the series offering a different view on the 
 collision of nature and culture in recent history.
 
-DEVIN TROY STROTHERâ€™s high-relief assemblages and paintings centre 
+DEVIN TROY STROTHER’s high-relief assemblages and paintings centre 
 around caricatures of black figures in sometimes gory, sexualized scenes on 
 top of abstract backgrounds, which poke fun at the pretensions of formalism. 
 Sardonic titles like A Black Joan Jonas in â€œNigga Iâ€™m a Coyoteâ€  highlight the 
@@ -333,10 +333,10 @@ Monday March 3, 2014
 5pm
 
 Triple Canopy editor Sarah Resnick will present an overview of the 
-magazineâ€™s history, working methods, and the way in which specific artistic 
+magazine’s history, working methods, and the way in which specific artistic 
 and literary projects have been conceived, edited, and designed in 
 collaboration with contributors. She will also discuss the particulars of the 
-magazineâ€™s newly redesigned publishing platform, which aims to articulate 
+magazine’s newly redesigned publishing platform, which aims to articulate 
 and enrich the relationships between writing code and reading prose, 
 between digital interfaces and printed pages, between social media and 
 public space.
@@ -344,7 +344,7 @@ public space.
 Sarah Resnick is a writer and managing editor of Triple Canopy. Her work 
 has appeared in n+1 and The Happy Hypocrite, among other publications. 
 Before joining Triple Canopy, she worked as an archivist, and earned a 
-masterâ€™s degree in media archiving and preservation from New York 
+master’s degree in media archiving and preservation from New York 
 University. She lives in New York.
 
 Sarah Resnick's talk is presented by READ Books in collaboration with Fillip 
@@ -376,19 +376,19 @@ Deadline for applications: March 3, 2014
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-02-27-10-contemporary-art-gallery-feed-back-talk-marie-hlne-tessier-m">10. Contemporary Art Gallery | Feed Back Talk: Marie-HÃ©lÃ¨ne Tessier | MAR 4</a>
+<a href="/instant-coffee/listings/2014-02-27-10-contemporary-art-gallery-feed-back-talk-marie-hlne-tessier-m">10. Contemporary Art Gallery | Feed Back Talk: Marie-Hélène Tessier | MAR 4</a>
 ------------------------------------------------------------------------
-CAG - Contemporary Art Gallery Feedback Talk: Marie-HÃ©lÃ¨ne Tessier 
+CAG - Contemporary Art Gallery Feedback Talk: Marie-Hélène Tessier 
 Tuesday March 4th at 7pm
 
 Froment Fromented
-A critical pastiche in response to FrÃ¶bel FrÃ¶beled
+A critical pastiche in response to Fröbel Fröbeled
 _________________________________________________________
 
-Marie-HÃ©lÃ¨ne Tessier is a visual artist and writer based in Vancouver. Her 
+Marie-Hélène Tessier is a visual artist and writer based in Vancouver. Her 
 work is site-specific and migrates freely between fiction, philosophy, fashion 
-and art within the same piece. Here, Tessier will respond to AurÃ©lien 
-Fromentâ€™s current exhibition titled Froebel Froebeled through the medium of 
+and art within the same piece. Here, Tessier will respond to Aurélien 
+Froment’s current exhibition titled Froebel Froebeled through the medium of 
 pastiche. Unlike parody, pastiche celebrates rather than mocks, the work it 
 imitates. However, in this exercise, she is offering a critical pastiche; drawing 
 on Froment's main themes, as well as questioning the Hegelian origins of 
@@ -421,7 +421,7 @@ Marrow, Jan Pfeiffer and Jerry Zaslove, moderated by Samir Gandesha.
 
 Considering the complex and far-reaching implications of the exhibition of
 Marat Sade Bohnice in the unique context of Vancouver, the panel will
-address topics including Peter WeissÃ¢â‚¬â„¢ life and practice, the Foucauldian
+address topics including Peter Weissâ€™ life and practice, the Foucauldian
 themes of madness and the carceral, the histories of de-institutionalization
 and mental health reform in British Columbia and elsewhere, shifting notions
 of human rights and citizenship, and the critical value of cultural intervention
@@ -477,7 +477,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 Ã¢â‚¬â€œ 149 West Hastings
+#3275 â€“ 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audaingallery@sfu.ca
@@ -613,14 +613,14 @@ Goldcorp Centre for the Arts
 149 W Hastings St. Vancouver, BC
 
 Friday March 7, 6:00-9:30 PM.
-Saturday March 8: 10:00 AM â€“ 6:30 PM.
+Saturday March 8: 10:00 AM – 6:30 PM.
 www.incrediblemachines.info (http://incrediblemachines.info)
 In conjunction with Access Gallery (http://accessgallery.ca/), the independent 
 curator Mohammad Salemy presents Incredible Machines, a conference 
 addressing different aspects of the expanding role of networked computers 
 and digital processes in the production of knowledge.
 ++++
-A spectre is haunting the space of knowledge â€” the spectre of 
+A spectre is haunting the space of knowledge — the spectre of 
 telecomputation. Unlike the modern age when scientific authority and the idea 
 of objectivity were typically embodied in concrete objects like atlases, 
 encyclopedias, books and photographs, the materiality and credibility of 
@@ -635,9 +635,9 @@ statistically driven and object-oriented form of structural positivism has
 emerged as the dominant condition for the production and dissemination of 
 knowledge. 
 Starting first in the natural and social sciences and later in the humanities, the 
-â€˜digital turnâ€™ has recently begun to reshape how artists look at the world, 
+‘digital turn’ has recently begun to reshape how artists look at the world, 
 conceive of their practices and connect with audiences. Incredible Machines 
-probes the ramifications of knowledge productionâ€™s dependence on 
+probes the ramifications of knowledge production’s dependence on 
 machines, mechanical thinking and telecomputation as well as the theoretical 
 and practical entanglement of technological apparatuses with aesthetic 
 theory and art practices.
@@ -661,7 +661,7 @@ Respondents:
 Ali Ahadi, Morehshin Allahyari, Julieta Aranda, Amanda Beech, Samuel 
 Forsythe, Kate Henderson, Gelare Khoshgozaran, Deneb Kozikoski, Nick 
 Land, Jason LaRiviere, Matteo Pasquinelli, Judith Rodenbeck, Brian Rogers, 
-Nooshin Rostami, Rory Rowan, Martha Schwendener, Robin Simpson, Tâ€™ai 
+Nooshin Rostami, Rory Rowan, Martha Schwendener, Robin Simpson, T’ai 
 Smith, Kate Steinmann, Jayne Wilkinson
 
 In addition to physical attendance, those interested in participating in the 
@@ -680,14 +680,14 @@ https://docs.google.com/forms/d/1NtLYo6Lrif4YmqsXEQginvlJNQm1V4Uow3
 AnOt3eg1k/viewform
 The Incredible Machines conference marks the second phase of a multi-part 
 curatorial project by the independent curator Mohammad Salemy, which 
-began in September 2013 with an exhibition at Vancouverâ€™s Access Gallery, 
+began in September 2013 with an exhibition at Vancouver’s Access Gallery, 
 where he is currently curator-in-residence. The exhibition, Encyclonospace 
 Iranica (http://encyclonospace.com), showcased works by nine Iranian 
 artists who responded to the relationship between telecomputation and 
 knowledge production proposed by the Iranian philosopher Reza Negarestani. 
 Incredible Machines is generously sponsored by the Canada Council for the 
 Arts (http://www.canadacouncil.ca/), with additional support from the 
-University of British Columbiaâ€™s Department of Art History, Visual Art and 
+University of British Columbia’s Department of Art History, Visual Art and 
 Theory (http://www.ahva.ubc.ca/), Simon Fraser University [Vancity Office 
 of Community Engagement (http://sfuwoodwards.ca/index.php/community), 
 the Institute for the Humanities (http://www.sfu.ca/humanities-institute/), 
@@ -721,18 +721,18 @@ of the artwork, its pure presenceâ€  (Boris Groys 2008,"The Topology of
 Contemporary Art," 78-79).
 
 Art that makes us angry often requires the most careful analysis and 
-reflection. Negative responses serve as evidence of a workâ€™s provocative 
-natureâ€”they suggest that the art in question warrants a reaction. In exploring 
-this ideaâ€”that an affective response to artwork offers a benchmark for an 
-effective workâ€”we would propose that the art we find the most frustrating 
+reflection. Negative responses serve as evidence of a work’s provocative 
+nature—they suggest that the art in question warrants a reaction. In exploring 
+this idea—that an affective response to artwork offers a benchmark for an 
+effective work—we would propose that the art we find the most frustrating 
 or offensive is, in fact, more culturally valuable and productive.
 
 Possible topics could include:
 
 Disputed works of public art (with a contemporary focus)
-Contemporary culture warsâ€”political backlash against controversial works
+Contemporary culture wars—political backlash against controversial works
 Art that exploits or endangers
-Futility by designâ€”interactive works that purposely frustrate or provoke their 
+Futility by design—interactive works that purposely frustrate or provoke their 
 users
 The ups and downs of participatory art
 Negative responses/suspicion towards commercial success within the art 
@@ -770,33 +770,33 @@ voted on by our members on a yearly basis.
 
 Complete the survey: http://svy.mk/N7SgKh
 
-Sondage sur la rÃ©munÃ©ration des artistes canadiens en arts visuels
+Sondage sur la rémunération des artistes canadiens en arts visuels
 
-Mais avez-vous payÃ© l'artiste ? Partagez vos expÃ©riences ! 
+Mais avez-vous payé l'artiste ? Partagez vos expériences ! 
 
-La rÃ©munÃ©ration des artistes en arts visuels est au cÅ“ur du mandat de 
+La rémunération des artistes en arts visuels est au cœur du mandat de 
 CARFAC. La grille tarifaire de CARFAC comprend des recommandations sur 
 les droits d'exposition, les droits de reproduction et les honoraires pour 
 services professionnels.
 
-Nous voulons connaÃ®tre votre opinion en tant qu'artiste, fondÃ©e sur votre 
-expÃ©rience personnelle Ã  l'Ã©gard du paiement des diffÃ©rents types de droits 
+Nous voulons connaître votre opinion en tant qu'artiste, fondée sur votre 
+expérience personnelle à l'égard du paiement des différents types de droits 
 et honoraires. 
 
 Nous sommes une association d'artistes et quand vous partagez votre 
-expÃ©rience avec nous, nous pouvons mieux reprÃ©senter tous les artistes 
-canadiens en arts visuels et nÃ©gocier une grille tarifaire avec davantage de 
-confiance et d'assurance. Nous vous encourageons Ã  remplir le sondage et Ã  
-transmettre le questionnaire Ã  d'autres artistes professionnels.
+expérience avec nous, nous pouvons mieux représenter tous les artistes 
+canadiens en arts visuels et négocier une grille tarifaire avec davantage de 
+confiance et d'assurance. Nous vous encourageons à remplir le sondage et à 
+transmettre le questionnaire à d'autres artistes professionnels.
 
-La grille tarifaire de CARFAC constitue un guide gÃ©nÃ©ral sur ce que devrait 
-Ãªtre la rÃ©munÃ©ration minimale des artistes, et chaque artiste ou son collectif 
-peut s'en inspirer pour fixer un tarif ou nÃ©gocier un tarif supÃ©rieur. CARFAC 
+La grille tarifaire de CARFAC constitue un guide général sur ce que devrait 
+être la rémunération minimale des artistes, et chaque artiste ou son collectif 
+peut s'en inspirer pour fixer un tarif ou négocier un tarif supérieur. CARFAC 
 fait des recommandations depuis 1968 en ce qui a trait aux tarifs pour 
-l'utilisation des Å“uvres protÃ©gÃ©es par le droit d'auteur et aux honoraires de 
+l'utilisation des œuvres protégées par le droit d'auteur et aux honoraires de 
 services professionnels pour des artistes en arts visuels et en arts 
-mÃ©diatiques; nous nÃ©gocions et actualisons nos tarifs rÃ©guliÃ¨rement. Nos 
-membres sont appelÃ©s Ã  voter sur tous ces tarifs une fois par an. 
+médiatiques; nous négocions et actualisons nos tarifs régulièrement. Nos 
+membres sont appelés à voter sur tous ces tarifs une fois par an. 
 
 Sondage : http://svy.mk/NzHrQZ
 
@@ -810,20 +810,20 @@ Riot Dogs and Research Labs: Poetry and Struggle
 by Urban Subjects
 
 Wednesday March 12, 7pm
-World Art Centre at SFU Woodwardâ€™s (149 West Hastings)
+World Art Centre at SFU Woodward’s (149 West Hastings)
 
-What is poetry for in a time of spiralling struggle? Sometimes itâ€™s just a riot 
-dog, at best maybe able to bite a copâ€™s leg, or at least warn you when they 
+What is poetry for in a time of spiralling struggle? Sometimes it’s just a riot 
+dog, at best maybe able to bite a cop’s leg, or at least warn you when they 
 are at the door. Sometimes it allows us to think differently about the spaces 
 we need to contest. Poet and activist Stephen Collis will explore some of 
-these spaces, inside and outside of poemsâ€”from the streets, to urban and 
+these spaces, inside and outside of poems—from the streets, to urban and 
 suburban â€œcommons,â€  to the conceptual space of the future and the 
 pervasive and interconnected spaces of resource extraction that enclose 
 such futurity in diminishing climate returns. 
 
 Stephen Collis is a poet and professor of contemporary literature at Simon 
 Fraser University. His many books of poetry include The Commons (Talon 
-Books 2008), On the Material (Talon Books 2010â€”awarded the BC Book 
+Books 2008), On the Material (Talon Books 2010—awarded the BC Book 
 Prize for Poetry), and To the Barricades (Talon Books 2013). He has also 
 written two books of criticism and a novel, The Red Album (BookThug 2013). 
 His collection of essays on the Occupy movement, Dispatches from the 
@@ -846,7 +846,7 @@ the realization of site-specific participatory performances.
 
 The speaker series is co-presented by UNIT/PITT, the SFU Vancity Office of 
 Community Engagement and the SFU Institute for the Humanities. The project 
-is supported through the BC Arts Councilâ€™s Arts-Based Community 
+is supported through the BC Arts Council’s Arts-Based Community 
 Development Program and by the Hamber Foundation.
 
 For more information on the project: 
@@ -919,12 +919,12 @@ http://www.tkff.ca/#!2014-submission-/c10qm
 SONIC BOOM MUSIC FESTIVAL 2014: Vancouver is abuzz with vibrant, 
 contemporary, classical music, and the Sonic Boom Festival is alive with it. 
 March 26-30th, two acoustically beautiful venues on Seymour Street will find 
-themselves surrounded by the sounds of British Columbiaâ€™s vibrant, 
+themselves surrounded by the sounds of British Columbia’s vibrant, 
 contemporary, classical (New Music) scene, featuring composer and guitarist 
 John Oliver, the Art-Song Chamber ensemble the Erato Ensemble and Harpist 
 Heidi Kreutzen. The Sonic Boom Music Festival| March 26-30, 2014 7:30pm| Each 
 night will be different musical events, featuring different performers. Venues: 
-Vancouver Symphony Orchestraâ€™s School of Musicâ€™s Pyatt Hall (843 Seymour 
+Vancouver Symphony Orchestra’s School of Music’s Pyatt Hall (843 Seymour 
 Street, Vancouver). Map: http://goo.gl/maps/80ytm Orpheum Annex (823 
 Seymour Street, Vancouver). Map: http://goo.gl/maps/9ptff Tickets: 
 http://sonicboom2014.brownpapertickets.com For more information, please visit 
@@ -932,11 +932,11 @@ www.vancouverpromusica.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-02-27-21-deluge-contemporary-art-victoria-edgardo-aragn-mar-28">21. Deluge Contemporary Art, Victoria | Edgardo AragÃ³n | MAR 28</a>
+<a href="/instant-coffee/listings/2014-02-27-21-deluge-contemporary-art-victoria-edgardo-aragn-mar-28">21. Deluge Contemporary Art, Victoria | Edgardo Aragón | MAR 28</a>
 ------------------------------------------------------------------------
 Ley Fuga
 
-Edgardo AragÃ³n
+Edgardo Aragón
 
 March 28 to May 24, 2014
 Opening Friday, March 28, 7 to 10pm
@@ -946,27 +946,27 @@ Deluge Contemporary Art
 Exhibition Hours: Wed to Sat, 12 to 5pm
 
 In his first exhibition in Canada, Ley Fuga introduces the video work of 
-Mexican artist Edgardo AragÃ³n. A native of the southern state of Oaxaca, 
-AragÃ³n uses three generations of his own family as well as the landscape 
+Mexican artist Edgardo Aragón. A native of the southern state of Oaxaca, 
+Aragón uses three generations of his own family as well as the landscape 
 itself as protagonists in poetic reenactments of rural life under narco rule. 
 Oblique yet harrowing in their elegance and restraint, these videos function 
 as microhistories encapsulating familial narratives and oral histories situated 
 in the spartan aesthetics of the countryside while eschewing the 
 stereotypical visual violence of necropolitics.
 
-In Efectos de Familia, AragÃ³n's younger male family members perform a 
+In Efectos de Familia, Aragón's younger male family members perform a 
 series of actions that quickly and cumulatively reveal themselves to be re-
-enactents of traumatic historical eventsâ€”"a series of small exercises 
+enactents of traumatic historical events—"a series of small exercises 
 exploring masculinity and the power relationships that exist in Mexican 
-society"â€”boys miming chicinarcos emulating the infinitely expanding 
+society"—boys miming chicinarcos emulating the infinitely expanding 
 vocabulary of death in the cartels' perverse lexicon of crime and punishment. 
 The dislocative properties of power imposed on a powerless landscape 
 frame La Trampa, a three-channel installation that features a split focus rural 
 vista, overlaid with the performance of a lost but resurrected corrido 
 commemorating the 1979 massacre by Mexican federales of peasants caught 
-harvesting marijuana. In the video, AragÃ³n sends a small airplane over these 
+harvesting marijuana. In the video, Aragón sends a small airplane over these 
 locations like a ghost, while the camera lingers on the remains of another that 
-never made it out. Matamoros feels like a road movieâ€”a picturesque 
+never made it out. Matamoros feels like a road movie—a picturesque 
 travelogue, punctuated by security checkpoints, from the tiny town of 
 Otumba in Oaxaca to the Texas border. The narrator, Pedro Vasquez Reyes, 
 gradually reveals his story as a drug mule hauling marijuana and cash in his 
@@ -978,24 +978,24 @@ the artist's father.
 Ley Fuga ("the law of flight" or simply "vanishing act") is an archaic term for a 
 type of extrajudicial execution commonly used during the Mexican Revolution, 
 wherein a prisoner is shot in the back while his captors simulate his 
-"escape." In this eponymous work, AragÃ³n constructs a symbolic suicide as 
+"escape." In this eponymous work, Aragón constructs a symbolic suicide as 
 a man removes his shirt, drapes it on the mast of a small raft in a stream and, 
 as it begins to drift out beyond his reach, fires on it. Describing his output as 
 "the dismembering of my own history, my family, my village, my origins which 
 lead to a deeply pessimistic vision that is borderline nihilistic despite the visual 
-poetics of the work," AragÃ³n nonetheless reveals political and economic 
-realities: occult unsung histories which the power eliteâ€”politicians and 
-narcotraficantes alikeâ€”would prefer moulder, unremembered and 
+poetics of the work," Aragón nonetheless reveals political and economic 
+realities: occult unsung histories which the power elite—politicians and 
+narcotraficantes alike—would prefer moulder, unremembered and 
 undisturbed.
 
-Edgardo AragÃ³n (born 1985) received his B.A. in Fine Arts from ENPEG la 
+Edgardo Aragón (born 1985) received his B.A. in Fine Arts from ENPEG la 
 Esmeralda, Mexico City. His work has been featured in solo exhibitions at 
 institutions including Museo Universitario de Arte Contemporaneo (Mexico 
 City), MoMA P.S.1 (New York) and Luckman Gallery (Los Angeles), as well 
-as group exhibitions including Resisting the Present, Musee dâ€™Art Moderne de 
+as group exhibitions including Resisting the Present, Musee d’Art Moderne de 
 la Ville de Paris, Disponible: A Kind of Mexican Show, San Francisco Art 
 Institute, Historias Fugaces, Laboral Centro de Arte Gijon and El horizonte del 
-topo, Palais des Beaux-Arts, Brussels. AragÃ³n's work was included in the 
+topo, Palais des Beaux-Arts, Brussels. Aragón's work was included in the 
 3rd Moscow Biennial of Young Artists, the 12th Istanbul Biennial, and the 8th 
 Mercosur Biennial. His films have been screened at festivals in Werkletiz, 
 Marseille and Mexico City. He lives and works in Oaxaca and Mexico City.

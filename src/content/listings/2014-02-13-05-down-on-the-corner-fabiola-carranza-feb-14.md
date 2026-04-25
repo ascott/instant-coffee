@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 5
 type: ""
+venue: "Down on the Corner"
 summary: "Down on the Corner | FABIOLA CARRANZA | FEB 14"
 ---
 
@@ -18,7 +19,7 @@ Screening: Glenn Lewis' Blue Tape Around a City Block (1969)
 
 Gene, 2404 Main St Vancouver, BC
 
-Fabiola Carranza (b. San JosÃ©, Costa Rica) is an artist living in Vancouver. 
+Fabiola Carranza (b. San José, Costa Rica) is an artist living in Vancouver. 
 She received a Bachelor in Media Arts degree from Emily Carr University in 
 2006 and is currently completing a Masters of Fine Arts degree at the 
 University of British Columbia. Carranza's approach to art making combines a 

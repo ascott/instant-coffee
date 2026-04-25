@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "10th Annual Oppenheimer Park Community Art Show"
 summary: "10th Annual Oppenheimer Park Community Art Show | Reflections | SEP 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: This May Be for Forever"
 emailDate: "Thu, 05 Dec 2013 11:40:18 -0800"
 number: 4
 type: ""
+venue: "SUNSET TERRACE"
 summary: "SUNSET TERRACE | SURVIVING A WEEK IN THE WILDERNESS | DEC 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 19
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Richmond Art Gallery | Pa-Pag-Page Publication Launch | 7-9PM | NOV 2"
 ---
 

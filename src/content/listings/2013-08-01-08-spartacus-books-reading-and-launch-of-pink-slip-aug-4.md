@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 8
 type: ""
+venue: "Spartacus Books"
 summary: "Spartacus Books | reading and launch of Pink Slip | AUG 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 46
 type: "EVENT"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Talkback Tour with Daniella Barreto | 2PM | FEB 10"
 ---
 

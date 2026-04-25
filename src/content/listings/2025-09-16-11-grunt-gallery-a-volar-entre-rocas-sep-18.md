@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "grunt gallery"
 summary: "grunt gallery | A volar entre rocas | SEP 18"
 ---
 

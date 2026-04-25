@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that looks nice"
 emailDate: "Thu, 28 May 2009 08:57:00 -0700"
 number: 2
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Craig Sibley | MAY 28"
 ---
 

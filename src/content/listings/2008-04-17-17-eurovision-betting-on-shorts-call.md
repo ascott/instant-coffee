@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: waiting for something to happen"
 emailDate: "Thu, 17 Apr 2008 09:10:58 -0700"
 number: 17
 type: ""
+venue: "Eurovision"
 summary: "Eurovision | Betting on Shorts | CALL"
 ---
 

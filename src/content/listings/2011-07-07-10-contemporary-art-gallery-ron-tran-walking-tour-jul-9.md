@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 10
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Ron Tran Walking Tour | JUL 9"
 ---
 
@@ -29,4 +30,4 @@ Canadian Art Foundation. With special thanks to Hannah Hughes.
 The Contemporary Art Gallery is generously supported by the Canada Council for the Arts, the Province of British Columbia, and the City of Vancouver. We are grateful for the support of Vancouver Foundation and our members, donors, and volunteers.
 
 
-Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm.  Admission is by donation. For more information please contact:   info@contemporaryartgallery.ca or 604.681.2700
+Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm.  Admission is by donation. For more information please contact:   info@contemporaryartgallery.ca or 604.681.2700

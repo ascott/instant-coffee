@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 8
 type: "EVENT"
+venue: "Egg Tempera Portraits"
 summary: "Egg Tempera Portraits | Ranger Station Art Gallery / 12-4PM | NOV 25"
 ---
 

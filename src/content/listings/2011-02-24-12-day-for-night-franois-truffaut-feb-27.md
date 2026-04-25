@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 12
 type: ""
+venue: "DAY FOR NIGHT"
 summary: "DAY FOR NIGHT | Franois Truffaut | FEB 27"
 ---
 
@@ -27,7 +28,7 @@ They include Ferrand (Truffaut), the director who observes at one
 point that making a movie is like a stagecoach trip through the old
 West ("At first you hope for a pleasant trip. Then you simply hope to
 reach your destination"); Julie (Jacqueline Bisset), the beautiful
-Hollywood star of the film within; Alphonse (Jean-Pierre LÃƒï¿½Ã‚Â©aud of 400
+Hollywood star of the film within; Alphonse (Jean-Pierre LÃ�Â©aud of 400
 Blows), a nice, nut-brained young actor preoccupied by movies and
 women, in that order; Alexandre (Jean-Pierre Aumont), the aging male
 lead of the film within, and Severine (Miss Cortese), Alexandre's
@@ -36,7 +37,7 @@ when he reveals plans to settle down with his new young male lover.
 
 Day for Night is Truffaut's fondest, most compassionate film, and
 although it is packed with references to films and film people
-(Welles, Vigo, Fellini, BuÃƒï¿½Ã‚Â±uel, among others) and although it is
+(Welles, Vigo, Fellini, BuÃ�Â±uel, among others) and although it is
 dedicated to Lillian and Dorothy Gish, it's not a particularly inside
 movie. That is, it has great fun showing us how movies are made, how
 rain and snow are manufactured, how animals are directed (or not), how

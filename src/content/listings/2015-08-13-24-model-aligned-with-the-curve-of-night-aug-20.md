@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 24
 type: "OPENING"
+venue: "Model"
 summary: "Model | Aligned with the curve of night | AUG 20"
 ---
 
@@ -29,13 +30,13 @@ SLOW EDITIONS.
 
 Lauren rice is an artist based in Vancouver. She received a BA from the 
 University of British Columbia and in 2013 was a guest student of Lucy 
-McKenzie at the DÃ¼sseldorf Kunstakademie. 
+McKenzie at the Düsseldorf Kunstakademie. 
 
 Agnes Scherer is a german artist and cultural scientist. Born 1985, she 
 grew up in a rural Bavarian region where music events for young 
 people are still called "Beat Nights". She studied art history, 
-archaeology, cultural anthropology, sociology and fine art in TÃ¼bingen, 
-Vienna and DÃ¼sseldorf. Currently she is working on an operetta project 
+archaeology, cultural anthropology, sociology and fine art in Tübingen, 
+Vienna and Düsseldorf. Currently she is working on an operetta project 
 in Scotland. 
 
 Sojourner Truth Parsons is getting older and isn't so thrilled about it. 

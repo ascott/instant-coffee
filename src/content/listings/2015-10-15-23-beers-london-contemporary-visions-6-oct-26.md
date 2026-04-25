@@ -4,14 +4,15 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 23
 type: "CALL"
+venue: "BEERS London"
 summary: "BEERS London | Contemporary Visions 6 | OCT 26"
 ---
 
 JURY
-- Kurt Beers, Director of BEERS London & Author of â€˜100 Painters of Tomorrowâ€™
+- Kurt Beers, Director of BEERS London & Author of ‘100 Painters of Tomorrow’
 - Victor Benady, London-based collector
-- Tony Godfrey, Curator and Author of Phaidonâ€™s â€˜Painting Todayâ€™, â€˜The New
-Imageâ€™, â€˜Painting in the Eightiesâ€™, & Conceptual Art
+- Tony Godfrey, Curator and Author of Phaidon’s ‘Painting Today’, ‘The New
+Image’, ‘Painting in the Eighties’, & Conceptual Art
 - Alan Sastre, Artist and 2014 Contemporary Visions finalist
 - Helen Toomer, Director of PULSE Contemporary Art Fair (Miami & New York)
 - Rebecca Wilson, Chief Curator & VP at Saatchi Art, former Director of

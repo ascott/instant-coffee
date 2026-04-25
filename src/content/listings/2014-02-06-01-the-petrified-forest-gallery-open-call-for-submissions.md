@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 1
 type: ""
+venue: "The Petrified Forest Gallery"
 summary: "The Petrified Forest Gallery | Open Call for Submissions"
 ---
 

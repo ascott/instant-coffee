@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 12
 type: ""
+venue: "Buschlen Mowatt Galleries"
 summary: "Buschlen Mowatt Galleries | charity fundraiser | DEC 8"
 ---
 

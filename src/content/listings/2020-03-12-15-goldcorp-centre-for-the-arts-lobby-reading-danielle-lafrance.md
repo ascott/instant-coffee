@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 15
 type: "EVENT"
+venue: "Goldcorp Centre for the Arts Lobby"
 summary: "Goldcorp Centre for the Arts Lobby | Reading | Danielle LaFrance: JUST LIKE I LIKE IT | MAR 16"
 ---
 

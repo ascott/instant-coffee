@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 15
 type: "OPENING"
+venue: "Two Rivers Gallery"
 summary: "Two Rivers Gallery | New Exhibitions: Elapsed & North | FEB 12"
 ---
 
@@ -39,11 +40,11 @@ Elapsed looks at the work of Adad Hannah, Philippa Jones, Marianne
 Nicolson, Ann Smith and Jennifer Pighin, five exciting artists whose work
 seems to bridge the past with the future. Each artist makes artwork from a
 unique perspective embodying different philosophical approaches to their
-practice. Adad Hannahâ€™s video represents a contemporary reimagining of a
-past event in Prince Georgeâ€™s history in a way that crosses into theatre.
-Ann Smithâ€™s remarkable Ravens Tail weaving reprises a once lost form of
+practice. Adad Hannah’s video represents a contemporary reimagining of a
+past event in Prince George’s history in a way that crosses into theatre.
+Ann Smith’s remarkable Ravens Tail weaving reprises a once lost form of
 Indigenous weaving. Marianne Nicolson draws comparisons with significant
-moments in her own Kwakwakaâ€™wakw history and present day in a series of
+moments in her own Kwakwaka’wakw history and present day in a series of
 mixed media paintings. Jennifer Pighin contrasts the past and present day
 using the notion of flight. Finally, Philippa Jones uses the form of an
 animated bird to imply events in a recent past, and offer the hope of new
@@ -54,6 +55,6 @@ Two Rivers Gallery is partnering with the 2015 Canada Winter Games to host
 North on the occasion of the Canada Winter Games. North is an exhibition
 featuring work in a range of media from across BC that explores the title
 theme. With particular focus on ideas such as youth, sport, community and
-culture â€“pillars of the Canada Games â€“ Two Rivers Gallery is excited to
+culture –pillars of the Canada Games – Two Rivers Gallery is excited to
 welcome work by artists from across the province to create a compelling
 showcase that explores what the North means to us.

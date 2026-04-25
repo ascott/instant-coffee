@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 2
 type: ""
+venue: "Rio Theatre"
 summary: "Rio Theatre | Jeremy Isao Speier: HERO | AUG 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 10
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Rain Cabana-Boucher: $185 | 6PM | JUN 6"
 ---
 

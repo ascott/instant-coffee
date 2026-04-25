@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 16
 type: ""
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | IT CAME FROM THE SKY | JUL 31"
 ---
 

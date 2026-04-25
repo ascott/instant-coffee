@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 8
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Patrick Cruz | JUN 5"
 ---
 
@@ -47,11 +48,11 @@ spiritual industrialization.
 Recent solo showings include Bite the Dog that feeds you (2014), Yactac 
 Gallery; West coast Maximalist (2013), Sunset Terrace; birth of a seagull 
 eschewed by a crow in good standing (2012), Small Gallery; Yin Yang 
-Temple (2011), Unit/Pitt; Forecast situation (2011), Luckyâ€™s Gallery and Made 
+Temple (2011), Unit/Pitt; Forecast situation (2011), Lucky’s Gallery and Made 
 in the Philippines (2010), W00 Gallery. Recent group exhibitions include Cool 
 Memories (2014), Light & Space Contemporary; Radiation (2013), 
 Chulangkorn Art University; Dark side of the Sun (2013), Art informal; 
 Monomania (2013), Trench Gallery; Welcome to Sax Island (2012) Or Gallery 
-Berlin; Picturing Intuition (2011) Sub Gallery; The Gift (2010) Luckyâ€™s 
+Berlin; Picturing Intuition (2011) Sub Gallery; The Gift (2010) Lucky’s 
 Gallery.Upcoming exhibitions include a group show in Planet Gallery in Seoul, 
 Korea and collaborative projects in Manila, Philippines.

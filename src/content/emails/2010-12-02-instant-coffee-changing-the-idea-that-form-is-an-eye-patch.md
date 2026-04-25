@@ -26,7 +26,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2010-12-02-14-point-exhibits-to-tame-a-land-dec-9">14. Point Exhibits | TO TAME A LAND | DEC 9</a>
 <a href="/instant-coffee/listings/2010-12-02-15-contemporary-art-gallery-conversation-jan-verwoert-elizabeth">15. Contemporary Art Gallery | Conversation: Jan Verwoert & Elizabeth McIntosh | DEC 10</a>
 <a href="/instant-coffee/listings/2010-12-02-16-les-gallery-heidi-johansen-and-charlie-roberts-dec-10">16. LES Gallery | HEIDI JOHANSEN AND CHARLIE ROBERTS | DEC 10</a>
-<a href="/instant-coffee/listings/2010-12-02-17-richmond-art-gallery-job-posting-school-art-program-coordina">17. Richmond Art Gallery | Job Posting â€“ School Art Program Coordinator | DEC 10</a>
+<a href="/instant-coffee/listings/2010-12-02-17-richmond-art-gallery-job-posting-school-art-program-coordina">17. Richmond Art Gallery | Job Posting – School Art Program Coordinator | DEC 10</a>
 <a href="/instant-coffee/listings/2010-12-02-18-ubc-graduate-conference-call-for-papers-dec-15">18. UBC : graduate conference | CALL FOR PAPERS | DEC 15</a>
 
 ------------------------------------------------------------------------
@@ -66,12 +66,12 @@ PATRICK CRUZ
 
 CONCRETE MIRAGE
 
-December 3 â€“ 18, 2010
+December 3 – 18, 2010
 
-Opening reception: Thursday December 2nd, 7:00 â€“ 11:00 pm
+Opening reception: Thursday December 2nd, 7:00 – 11:00 pm
 
 Concrete Mirage presents new work that consists of painting, sculpture
-and drawing. Cruzâ€™s work continues to interrogate ideas of identity, color
+and drawing. Cruz’s work continues to interrogate ideas of identity, color
 and form within the context of art production and cultural displacement.
 
 Shudder Gallery
@@ -82,11 +82,11 @@ Vancouver, B.C.
 
 604.488.5477
 
-Thursday: 1230 â€“ 530
+Thursday: 1230 – 530
 
-Friday: 1230 â€“ 530
+Friday: 1230 – 530
 
-Saturday: 1230 â€“ 530
+Saturday: 1230 – 530
 
 http://shuddergallery.com
 
@@ -102,7 +102,7 @@ Please join us for the opening this Friday December 3rd from 8pm onward.
 Gallery Atsui is located at 602 Hastings Street East.
 
 For his first solo exhibition at Gallery Atsui, Angus Ferguson presents one
-chapter of his on-going project identifying the paintersâ€™ studio as a kind
+chapter of his on-going project identifying the painters’ studio as a kind
 of abject special effects workshop. Haphazardly pulling from inspirations
 as disparate as Albrecht Durer, Carl Sagan, Mary Shelley and Jim Henson,
 Ferguson equates painterly gesture with mutation, his wild strokes and
@@ -127,14 +127,14 @@ The artist will be in attendance.
 ------------------------------------------------------------------------
 BLIM ART SHOW
 Blim presents:
-No Manâ€™s Land
+No Man’s Land
 by Matt Watson
-No Manâ€™s Land is a collection of drawn memories, assembled fragments and
-remixed snapshots from the wrong side of the tracks. Itâ€™s a shout out to
-the creatures and characters who inhabit societyâ€™s forgotten corners where
+No Man’s Land is a collection of drawn memories, assembled fragments and
+remixed snapshots from the wrong side of the tracks. It’s a shout out to
+the creatures and characters who inhabit society’s forgotten corners where
 blackberry bushes and wildflowers grow like weeds, generations of drained
 whiskey bottles lie in ditches and lives go unnoticed.
-The raw beauty in the worldâ€™s discarded remnants is a crucial source of
+The raw beauty in the world’s discarded remnants is a crucial source of
 inspiration to this work. From the margins and gutters come stories and
 materials rich with character, surrounded by anonymity and legend. The
 pieces evolve as patchwork mosaics, reviv- ing traces of information while
@@ -176,20 +176,20 @@ course of the evening through interaction with the general public.
 <a href="/instant-coffee/listings/2010-12-02-05-gallery-gachet-claudia-bernal-dec-3">05. Gallery Gachet | Claudia Bernal | DEC 3</a>
 ------------------------------------------------------------------------
 Made of the Same Blood | Claudia Bernal
-Exhibition runs: December 3rd â€“ January 16th @ Gallery Gachet, 88 East
+Exhibition runs: December 3rd – January 16th @ Gallery Gachet, 88 East
 Cordova Street
 Opening reception: Friday December 3rd; Performance at 8pm, Thursday
 December 9th: Performance at 7pm + Roundtable discussion: 8pm -10pm
 
-Gallery Gachet presents the Vancouver premiere of Claudia Bernalâ€™s Made of
+Gallery Gachet presents the Vancouver premiere of Claudia Bernal’s Made of
 the Same Blood, a video-installation and performance created over three
-years (2004 to 2007) as a result of the artistâ€™s reflection on what is
+years (2004 to 2007) as a result of the artist’s reflection on what is
 considered a collective drama in Colombia, but also in many regions of the
 world: the forced displacement of entire communities because of armed
 conflicts and violence.
 
-Considered one of the worldâ€™s most violent countries, Colombia has been
-torn apart since the 1950â€™s by an undeclared civil war between drug mafias,
+Considered one of the world’s most violent countries, Colombia has been
+torn apart since the 1950’s by an undeclared civil war between drug mafias,
 militaries, guerrillas, and paramilitaries. Expelled from their wealthy
 lands, thousands of people flee the conflict and migrate each day to big
 cities, leading to severe social problems: dispossession, urban
@@ -197,11 +197,11 @@ over-population, disarticulation of the family structure, loss of identity,
 and more violence and poverty. In this collective drama, women are without
 doubt the most affected.
 
-Made of the Same Blood uses everyday objects rich in potential meaning â€“
-dozens of hair braids, a fishing net, water and wool â€“ to summon fear,
+Made of the Same Blood uses everyday objects rich in potential meaning –
+dozens of hair braids, a fishing net, water and wool – to summon fear,
 isolation, danger, movement, social cohesion, liberation, aggression,
 wandering, uprooting: all contradictory sentiments rising from the symbolic
-power of the installationâ€™s objects. These are brought to life as the
+power of the installation’s objects. These are brought to life as the
 artist uses her body as a creative space through live performance.
 
 Bernal dares to push interdisciplinary onto a new terrain by integrating a
@@ -210,29 +210,29 @@ the film features three victims, three survivors, three women who can
 transform violence into poetry, the artistic treatment of the images allows
 a renewed dialogue with the installation and the performance.
 
-Bernalâ€™s work speaks of a promised paradise, an Eden of spiritual
-transcendenceâ€¦ the promise of a purified infinity (...) Artists like Frida
+Bernal’s work speaks of a promised paradise, an Eden of spiritual
+transcendence… the promise of a purified infinity (...) Artists like Frida
 Kahlo, Ana Mendieta, Nora Ancarola or Claudia Bernal can take on as their
 own the pain of the other and represent the conflicts of humanity in a
 poetic, timeless and universal way.
 
-â€“ Elina Norandi, Art Historian / University of Barcelona
+– Elina Norandi, Art Historian / University of Barcelona
 
-A thing that calls our attention in Claudia Bernalâ€™s work is the unity
+A thing that calls our attention in Claudia Bernal’s work is the unity
 among the diversity of elements which liberates feelings, it is her unified
 cosmogonic vision [which] largely escapes the post-modern conceptual
 bursting and its hybrid and intellectualist collage of aesthetic elements
-(â€¦). Heart and soul have much to do with this art of emotion and sensation.
-(â€¦) Bernal gives room to popular contents, in a fusion with contemporary
+(…). Heart and soul have much to do with this art of emotion and sensation.
+(…) Bernal gives room to popular contents, in a fusion with contemporary
 artistic vernacular. A shamanic breath, a sense of magic infuse her work
-(â€¦) created in the unity of perception and feeling, even before the most
+(…) created in the unity of perception and feeling, even before the most
 intense tragedy.
 
-â€“Andre Seleanu, Art Critic
+–Andre Seleanu, Art Critic
 
 Through the apparent hiding that symbols and metaphors exercise, Made of
 the Same Blood embodies great signifying power which allows a widening of
-the semantic field â€“ universalizing it â€“ to the point that the work creates
+the semantic field – universalizing it – to the point that the work creates
 clarity and illuminates the memory of all victims of violence and the
 political dimension of their fates.
 
@@ -245,9 +245,9 @@ T: 604 722 9242, programming@gachet.org
 ------------------------------------------------------------------------
 PUBLICATION STUDIO at Toque 2010
 
-Friday, December 3, 6 pm â€“ 9 pm
+Friday, December 3, 6 pm – 9 pm
 
-Saturday, December 4, 11 am â€“ 5 pm
+Saturday, December 4, 11 am – 5 pm
 
 At the Western Front Luxe Hall, 303 East 8th Ave, Vancouver
 
@@ -264,7 +264,7 @@ these books onsite.
 
 Publication Studio is an experiment in sustainable publication that prints
 and binds books on demand, creating original work with artists and writers.
-Publication Studio is a laboratory for publication in its fullest sense â€”
+Publication Studio is a laboratory for publication in its fullest sense —
 not just the production of books, but the production of a public. This
 public, which is more than a market, is created through deliberate acts,
 the circulation of texts, discussions, and gatherings in physical space,
@@ -291,8 +291,8 @@ Fees for larger runs can be negotiated.
 ------------------------------------------------------------------------
 EVENTS: DECEMBER 2010
 
-DEC 3 â€“ 8
-DEC 13 â€“ 24
+DEC 3 – 8
+DEC 13 – 24
 REDFLAGDESIGN_SHOP
 A fine selection of products for the holiday season.
 Including the latest items from REDFLAGDESIGN.
@@ -304,18 +304,18 @@ VANCOUVER, BC
 MAP / Parking in front
 
 HOURS:
-12:00 PM â€“ 6:30 PM
+12:00 PM – 6:30 PM
 Closed on Sundays
 
-DEC 9 â€“ 11
-GUEST EVENT â€“ VINCENT MASSEY POTTERY
+DEC 9 – 11
+GUEST EVENT – VINCENT MASSEY POTTERY
 The REDFLAGDESIGN_SHOP opens its doors to host
 Vincent and Cheryl Massey for their annual Christmas Show.
 WWW.VINCENTMASSEYPOTTERY.COM
 
-Thursday Dec. 9th 4:00 PM â€“ 8:00 PM
-Friday Dec. 10th 2:00 PM â€“ 8:00 PM
-Saturday Dec. 11th 10:00 AM â€“ 4:00 PM
+Thursday Dec. 9th 4:00 PM – 8:00 PM
+Friday Dec. 10th 2:00 PM – 8:00 PM
+Saturday Dec. 11th 10:00 AM – 4:00 PM
 
 REDFLAGDESIGN_SHOP
 318 INDUSTRIAL AVE.
@@ -329,31 +329,31 @@ Toque: Print + Paper
 
 2010 Holiday Sale
 
-Friday, December 3 from 6 pm â€“ 9 pm
-Saturday, December 4 from 11 am â€“ 5 pm
+Friday, December 3 from 6 pm – 9 pm
+Saturday, December 4 from 11 am – 5 pm
 at the Western Front Luxe Hall, 303 East 8th Ave, Vancouver
 
-Toque, the Western Frontâ€™s annual craft sale, gets a new look this year
+Toque, the Western Front’s annual craft sale, gets a new look this year
 with a focus on books, text and printed material. Please join us on
 December 3rd and 4rth at this unique holiday sale featuring local
 designers, crafters, artists and artist collectives.
 
 Nineteen vendors contribute to Toque this year, with wares ranging from
-books, zines, cards, handcrafted dÃ©cor, jewellery, and other special gifts.
-Long-time Toque favourites return, such as local publisher Simply Readâ€™s
-childrenâ€™s books, Perro Verlagâ€™s wide selection of indie art publications
-from around the world, and Contexture Designâ€™s map based mobiles. These
+books, zines, cards, handcrafted décor, jewellery, and other special gifts.
+Long-time Toque favourites return, such as local publisher Simply Read’s
+children’s books, Perro Verlag’s wide selection of indie art publications
+from around the world, and Contexture Design’s map based mobiles. These
 Toque regulars appear alongside exciting newcomers such as the West Coast
-classic Arsenal Pulp Press, Vancouverâ€™s independent music collective Safe
+classic Arsenal Pulp Press, Vancouver’s independent music collective Safe
 Amplification Society as well as legendary New York Based contemporary art
 publisher Printed Matter, and many others. Look for exclusive Western Front
 publications, as well as a limited edition commissioned tea towel and
 colouring poster by Jeff Hamada, Vancouver based artist and creator of the
 popular blog www.booooooom.com
 
-Toque opens Friday from 6 â€“ 9 pm, where you can browse and enjoy a drink.
+Toque opens Friday from 6 – 9 pm, where you can browse and enjoy a drink.
 On Saturday come by between 11am and 4pm for shopping as well as a special
-collaboration with Collage Collage, a local childrenâ€™s arts and crafts shop
+collaboration with Collage Collage, a local children’s arts and crafts shop
 and teaching space. Bring your children for fun crafting and colouring!
 Fine baked goods will be available from Hatty Cakes.
 
@@ -460,7 +460,7 @@ Issue 116 features:
 INTERVIEWS with
 
 Raymond Pettibon
-â€œI like to say things with a visual economy of line and, as much as I can,
+“I like to say things with a visual economy of line and, as much as I can,
 in words.â€  states Pettibon in an interview with Border Crossings. The
 California-based artist talks with BC about his comic-like works on paper
 that combine text and drawn images inspired by figures from popular
@@ -484,8 +484,8 @@ David Bolduc: Towards a More Interior Life by Gary Michael Dault
 Startling new FICTION by Canadian writer Laura Trunkey
 
 BORDERVIEWS on truth-telling by Cathy Busby, the trucking architecture of
-Randall Anderson, Jillian McDonaldâ€™s ghouls and zombies and Cliff Eyland
-and Guy Maddinâ€™s rapturous book collaborations.
+Randall Anderson, Jillian McDonald’s ghouls and zombies and Cliff Eyland
+and Guy Maddin’s rapturous book collaborations.
 
 Including REVIEWS of Carolee Schneemann, William Eakin, Anne Truitt, Larry
 Glawson, Jessica Stockholder, David Wityk, the Sixth Berlin Biennial for
@@ -512,23 +512,23 @@ Talks at the Vancouver Art Gallery
 Saturday, December 4th 2pm
 In the Gallery, 2nd floor
 
-Song Dong â€“ Waste Not
+Song Dong – Waste Not
 Gallery Conversation with Hank Bull and Keith Wallace
 
-Song Dongâ€™s monumental installation, titled Waste Not, is a collaboration
+Song Dong’s monumental installation, titled Waste Not, is a collaboration
 between the artist and his mother, Zhao Xiangyuan. The installation
-comprises the frame of his motherâ€™s house along with all of the everyday
-objects she meticulously collected over the course of her lifetimeâ€”a
+comprises the frame of his mother’s house along with all of the everyday
+objects she meticulously collected over the course of her lifetime—a
 collection of over ten thousand worn and broken objects, each one of little
-value. Together, the assembled materialsâ€”clothes, books, kitchen utensils,
-toiletries, school supplies, shopping bags, rice bowls, dollsâ€”were used,
+value. Together, the assembled materials—clothes, books, kitchen utensils,
+toiletries, school supplies, shopping bags, rice bowls, dolls—were used,
 then recycled, then hoarded. Meticulously arranged in careful groupings
 throughout the exhibition space, the objects form a miniature cityscape
 that viewers can navigate around and through.
 
 Hank Bull, the Director of Centre A: Vancouver International Centre for
 Contemporary Asian Art, and Keith Wallace, editor-in-chief of Yishu:
-Journal of Contemporary Chinese Art, lead a conversation about Song Dongâ€™s
+Journal of Contemporary Chinese Art, lead a conversation about Song Dong’s
 work in the larger context of contemporary Chinese art, the globalized
 economy and its impact on China.
 
@@ -566,21 +566,21 @@ Guest Tour by Jennifer Cane
 
 Emily Carr remains a figurehead in the history of British Columbia art,
 especially in her representation of the natural world as it relates to the
-development of modernism. Carrâ€™s images of the densely forested landscape
+development of modernism. Carr’s images of the densely forested landscape
 of the West Coast and the totemic art of the First Nations peoples had an
 important effect on establishing a visual identity for the province and
 were deeply influential on both her contemporaries and subsequent
 generations of artists. The exhibition In Dialogue with Carr strategically
-pairs the work of Emily Carr with key contemporary BC artistsâ€“Douglas
+pairs the work of Emily Carr with key contemporary BC artists–Douglas
 Coupland, Evan Lee, Liz Magor and Marianne Nicolson-to draw out a dialogue
-between Carrâ€™s legacy and the myriad ways in which artists respond to it.
+between Carr’s legacy and the myriad ways in which artists respond to it.
 
 Jennifer Cane, programs manager and curator at Cineworks Independent
 Filmmakers Society in Vancouver, leads a special tour of In Dialogue with
 Carr. Cane looks at tourism, industry and the environment, and the visual
 representation of wilderness at these intersections.
 
-Jennifer Cane is a graduate of the Masterâ€™s program in Critical and
+Jennifer Cane is a graduate of the Master’s program in Critical and
 Curatorial Studies at the University of British Columbia and the BFA
 program in Art History from Concordia University in Montreal. Past projects
 include the exhibition The Wild so Close at the Or Gallery in Vancouver,
@@ -589,7 +589,7 @@ Makes. An upcoming independent project for the Yukon Arts Centre in 2012
 will present works related to sleep, dreaming, and the social realities of
 waking life. Her research pursuits have centered upon issues related to
 authenticity, social history, labour and leisure culture, and her MA thesis
-examined recent developments of the â€˜tourist gazeâ€™ in contemporary
+examined recent developments of the ‘tourist gaze’ in contemporary
 Vancouver art practice.
 
 Free with Gallery admission.
@@ -649,7 +649,7 @@ Opening Reception Thursday December 9th, 2010, 6-9pm
 
 Blanket Gallery is pleased to present a second solo exhibition with Corin
 Sworn.
-Swornâ€™s exhibition for Blanket Gallery continues her interest in the
+Sworn’s exhibition for Blanket Gallery continues her interest in the
 use of artifacts as indexes to assist particular stories. Her present work
 examines the reflexive viewer or reader as they make sense of their
 experience through the interpretive acts that these stories encourage.
@@ -657,7 +657,7 @@ experience through the interpretive acts that these stories encourage.
 In the video work The Lens Prism an actor performs various narratives in an
 empty theatre. These stories are delivered either as memory or as the
 citation of research. Each describes some structure of digressions- Chris
-Markerâ€™s La Jette, a poem by Raymond Roussel or the Great Exhibition of
+Marker’s La Jette, a poem by Raymond Roussel or the Great Exhibition of
 1851. The stories although reflecting one another remain separate and
 contemplation is prolonged as a movement though rather than as a conclusion
 to be reached.
@@ -717,12 +717,12 @@ drained of all elemental life! So speaks Galactus!" - Stan Lee, Fantastic
 Four #48
 
 The title of the exhibition, To Tame A Land, makes reference to the 1955
-novel of the same name by American author Louis Lâ€™Amour. It is a coming of
-age story of a young boy orphaned and left to wander â€œa wild land of
+novel of the same name by American author Louis L’Amour. It is a coming of
+age story of a young boy orphaned and left to wander “a wild land of
 canyons and buttes, and on dust-choked cattle trails.â€  Vancouver is known
 worldwide for its natural beauty, and the mountains, forests, lakes and
 ocean it is surrounded by is featured in architectural design almost as a
-faÃ§ade, a picture to be viewed through the glass window of an apartment
+façade, a picture to be viewed through the glass window of an apartment
 building. As our experience of land in the city becomes increasingly
 filtered through urbanization and economics, our perception of the
 wilderness has changed.
@@ -738,7 +738,7 @@ before. With all that we have gained, what has been lost?
 In this exhibition eight artists explore this idea through sculpture. They
 work with the mythical aspects of nature and the symbolic value of organic
 shapes and forms that, in living amongst and apart from for so long, we
-canâ€™t help but look at anew.
+can’t help but look at anew.
 
 Michelle Allard was recently Artist in Residence at La Cite Internationale
 des Arts (Paris)
@@ -773,11 +773,11 @@ www.artaftermoney.com
 Public Conversation with Jan Verwoert and Elizabeth McIntosh
 Friday, December 10, 7pm
 
-In conjunction with Violetâ€™s Hair, Elizabeth McIntoshâ€™s solo exhibition at
+In conjunction with Violet’s Hair, Elizabeth McIntosh’s solo exhibition at
 the Contemporary Art Gallery, we host a public conversation between art
 critic Jan Verwoert and the artist
 
-Available at the CAG is A Good Play, an artist monograph on McIntoshâ€™s
+Available at the CAG is A Good Play, an artist monograph on McIntosh’s
 recent work which includes an essay by Verwoert published by ECI Press, 2010
 
 Jan Verwoert is an art critic based in Berlin. Next to being a contributing
@@ -785,9 +785,9 @@ editor to Frieze magazine he also writes for contemporary art journals and
 magazines including Afterall and Metropolis M. His book Bas Jan Ader - In
 Search of the Miraculous was published in 2006 by Afterall Books/MIT Press.
 
-Elizabeth McIntoshâ€™s recent exhibitions include A Good Play, Diaz
+Elizabeth McIntosh’s recent exhibitions include A Good Play, Diaz
 Contemporary, Toronto (2010), Cut Out, Goodwater, Toronto (2009) and
-Parisian Laundry, MontrÃ©al. She has participated in group exhibitions at
+Parisian Laundry, Montréal. She has participated in group exhibitions at
 the Vancouver Art Gallery (2006), Santa Monica Museum of Art (2006), and
 Hallwalls, Buffalo, (2003). McIntosh lives and works in Vancouver, where
 she is a respected educator at the Emily Carr University of Art + Design.
@@ -802,7 +802,7 @@ We are grateful for the support of Vancouver Foundation and our members,
 donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm.
 Admission is by donation. For more information please contact:
 info@contemporaryartgallery.ca or 604-681-2700
 
@@ -813,7 +813,7 @@ info@contemporaryartgallery.ca or 604-681-2700
 HEIDI JOHANSEN AND CHARLIE ROBERTS
 
 Opening Reception December 10th
-December 10th â€“ January 15th
+December 10th – January 15th
 
 In this new series of sculptures by Heidi Johansen and paintings by
 Charlie Roberts, the artists explore themes of darkness, Norwegian winter
@@ -838,46 +838,46 @@ Vancouver, BC V5L 1H8
 www.lesgallery.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2010-12-02-17-richmond-art-gallery-job-posting-school-art-program-coordina">17. Richmond Art Gallery | Job Posting â€“ School Art Program Coordinator | DEC 10</a>
+<a href="/instant-coffee/listings/2010-12-02-17-richmond-art-gallery-job-posting-school-art-program-coordina">17. Richmond Art Gallery | Job Posting – School Art Program Coordinator | DEC 10</a>
 ------------------------------------------------------------------------
 Richmond Art Gallery
-Job Posting â€“ School Art Program Coordinator, Richmond Art Gallery
+Job Posting – School Art Program Coordinator, Richmond Art Gallery
 
 Applications are now being accepted for the School Art Program Coordinator
 position at the Richmond Art Gallery. This well established,
 multi-disciplinary visual arts program provides exhibition-related art
 workshops and tours for Pre-K to Secondary students from schools throughout
 the LMR. The School Art Coordinator also provides professional development
-workshops for regional teachers, prepares teachersâ€™ guides for each
+workshops for regional teachers, prepares teachers’ guides for each
 exhibition (5/year), leads the Spring Art Camp program and assists the
 Education and Public Programs Coordinator on special projects.
 
 Primary Duties/Responsibilities
 
-Â· Develops school programs and learning resources based on exhibitions
+· Develops school programs and learning resources based on exhibitions
 
-Â· Develop marketing materials for school program educational programs
+· Develop marketing materials for school program educational programs
 
-Â· Recruit, train, schedule and supervise volunteers to assist with
+· Recruit, train, schedule and supervise volunteers to assist with
 school programs
 
-Â· Plan, schedule, and facilitate workshops, courses, and various
+· Plan, schedule, and facilitate workshops, courses, and various
 art programs for school groups and teachers; maintain booking schedule
 
-Â· Assist Education Coordinator with the preparation of grant and
+· Assist Education Coordinator with the preparation of grant and
 funding applications
 
-Â· Works with Secondary School Art Teachers in organising annual
+· Works with Secondary School Art Teachers in organising annual
 Arts for Life Conference
 
-Â· Manage budget, plan and purchase art materials
+· Manage budget, plan and purchase art materials
 
-Â· Facilitate gallery tours to audience members of all ages
+· Facilitate gallery tours to audience members of all ages
 
-Â· Assist with the management of projects and conferences; assist
+· Assist with the management of projects and conferences; assist
 with post-project evaluations and follow-up
 
-Â· Attend meetings, events, conferences and other professional
+· Attend meetings, events, conferences and other professional
 development opportunities
 
 Qualifications

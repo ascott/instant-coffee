@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yawning is encouraged"
 emailDate: "Thu, 01 May 2008 09:05:07 -0700"
 number: 13
 type: ""
+venue: "Video Out"
 summary: "Video Out | position of Coordinator, Video Out Distribution"
 ---
 

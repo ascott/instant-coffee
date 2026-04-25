@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 3
 type: "EVENT"
+venue: "Emily Carr University Library"
 summary: "Emily Carr University Library | Reading by Jennifer Zilm & Marusya Bociurkiw | OCT 11"
 ---
 

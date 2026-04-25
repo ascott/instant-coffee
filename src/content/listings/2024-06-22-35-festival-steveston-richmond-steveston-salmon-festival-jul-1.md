@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 35
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Steveston, Richmond | Steveston Salmon Festival | JUL 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 14
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | ANTON CU UNJIENG | 2PM | NOV 23"
 ---
 

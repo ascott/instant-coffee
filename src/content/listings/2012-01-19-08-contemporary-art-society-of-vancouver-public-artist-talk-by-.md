@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 8
 type: ""
+venue: "Contemporary Art Society of Vancouver"
 summary: "Contemporary Art Society of Vancouver | Public Artist Talk by Brendan Tang | JAN 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 4
 type: ""
+venue: "SFU MFA Spring Review"
 summary: "SFU MFA Spring Review | THE DARK ARTS | APR 28"
 ---
 
@@ -15,7 +16,7 @@ April 28th at 611 Alexander, this dimly-lit exhibition of video, media,
 performance, and studio-based work in installation, photography, 
 painting, and sculpture will be followed on the 29th by live 
 performances of dance, music, and theatre at the Goldcorp Centre 
-for the Arts (Woodwardâ€™s Building).
+for the Arts (Woodward’s Building).
 
 Visual Arts April 29th-May 6th
 Opening Reception Thursday April 28th 7-10 pm
@@ -31,7 +32,7 @@ Portugal Espanol, and Bball & Realteensluts.
 Dancing to Follow.
 
 Performing Arts Night Friday April 29th 7pm
-Goldcorp Center for The Arts (Woodwardâ€™s Building)
+Goldcorp Center for The Arts (Woodward’s Building)
 149 West Hastings
 
 In order with location beginning at 7 pm

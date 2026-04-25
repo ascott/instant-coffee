@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 20
 type: "EXHIBITION"
+venue: "Vancouver Public Art Program"
 summary: "Vancouver Public Art Program | Platforms: Nine Places for Seeing | JAN 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 32
 type: "EVENT"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | A series of sonic emanations | March 10th-18th | MAR 10"
 ---
 

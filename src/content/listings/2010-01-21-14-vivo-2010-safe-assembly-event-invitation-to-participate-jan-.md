@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 14
 type: ""
+venue: "VIVO 2010: Safe Assembly"
 summary: "VIVO 2010: Safe Assembly | EVENT: Invitation to Participate | JAN 27"
 ---
 
-VIVO 2010: Safe Assembly â€“ Invitation to Participate - JAN 27, 7:30 PM
+VIVO 2010: Safe Assembly – Invitation to Participate - JAN 27, 7:30 PM
 
 Since 1973, VIVO Media Arts Centre (aka Satellite Video Exchange Society,
 aka Video In), has provided a space for diverse dialogues, artistic
@@ -30,7 +31,7 @@ the cultural meaning and social impact of the Olympics.
 
 We will be operating a radio transmitter during the last two weeks of
 February. Our signal will also be streaming online. Our range will be
-humble â€“ and thus situated.
+humble – and thus situated.
 Social Propaganda Mixing Machine is an open call for participants to create
 sound or image propaganda.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 8
 type: "EVENT"
+venue: "1000 Parker Street Studios"
 summary: "1000 Parker Street Studios | Parker Art Salon | May 25 – 27 | 1-5PM | MAY 25"
 ---
 

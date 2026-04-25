@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 10
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Roundtable: Legacies of War in the Pacific Rim | MAR 26"
 ---
 

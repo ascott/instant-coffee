@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 10
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Exhibition and Event proposals | SEP 14"
 ---
 

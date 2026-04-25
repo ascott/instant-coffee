@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 10
 type: ""
+venue: "UBC's AMS and AHVA Galleries"
 summary: "UBC's AMS and AHVA Galleries | WEAREART | NOV 13"
 ---
 
-UBCÃ¢ï¿½ï¿½s AMS and AHVA Galleries present WEAREART, a collaborative show and
+UBCâ��s AMS and AHVA Galleries present WEAREART, a collaborative show and
 fundraiser featuring works from Faculty, Staff, and Students from the
 Department of Art History, Visual Art, and Theory at UBC. WEAREART is a
 mixed media event centered on each artist's interpretation of the grey

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 35
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | DOXA x XINEMA: Eastern Anthems | 830PM | MAY 11"
 ---
 

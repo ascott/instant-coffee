@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 7
 type: "OPENING"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Art & Parenthood | APR 30"
 ---
 

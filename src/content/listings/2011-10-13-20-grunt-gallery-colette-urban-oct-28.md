@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 20
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Colette Urban | OCT 28"
 ---
 

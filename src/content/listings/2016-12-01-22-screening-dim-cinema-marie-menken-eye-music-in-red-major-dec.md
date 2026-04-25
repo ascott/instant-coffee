@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 22
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Marie Menken: Eye Music in Red Major | DEC 7"
 ---
 

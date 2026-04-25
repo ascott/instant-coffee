@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 3
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Joar Nango | The same condition repeated at... | NOV 13"
 ---
 
@@ -20,7 +21,7 @@ artist and architect Joar Nango. Nango presents a new series of
 photographs, text and sculptures incorporating salvaged building materials
 including wood, concrete, wool, and a 1960s Mongolian felt. The work draws
 from the artist's ongoing archive of research relating to the built
-environment and the material cultures of the North. Nangoâ€™s practice
+environment and the material cultures of the North. Nango’s practice
 highlights the role of local knowledge in creating livable communities:
 championing indigenous approaches to design and alternative models for
 social space.
@@ -32,14 +33,14 @@ the Sami poet and writer Sigbjorn Skaden.
 Artist Biography
 
 Joar Nango (b. 1979, Alta, Norway) lives and works in Romssa, Norway.
-Inhabiting the frontier between architecture, design and art, Nangoâ€™s
+Inhabiting the frontier between architecture, design and art, Nango’s
 practice explores issues of native identity through contradictions in
 contemporary architecture and the built environment. In particular, he is
 interested in the creative simplicity and sustainable knowledge that exists
 within informal building environments of the north. In 2010 Nango
 co-founded the architectural collective FFB specializing in temporary
 structures and interventions in urban contexts. FFB was nominated for Norsk
-Formâ€™s prize for young architects in 2012. Joar Nango has exhibited
+Form’s prize for young architects in 2012. Joar Nango has exhibited
 internationally, including recently as part of 43SNA, Medellin, Colombia
 (2013), the Norwegian Sculpture Biennale at Vigelandsmuseet, Oslo, Norway
 (2013), and Archizines at the Storefront for Art and Architecture, NYC, USA

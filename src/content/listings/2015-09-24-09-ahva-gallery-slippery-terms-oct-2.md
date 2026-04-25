@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 9
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Slippery Terms | OCT 2"
 ---
 

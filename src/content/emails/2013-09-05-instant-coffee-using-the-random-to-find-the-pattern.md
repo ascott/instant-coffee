@@ -23,7 +23,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-09-05-09-vancouver-art-gallery-notes-from-elsewhere-screening-and-pan">09. Vancouver Art Gallery | Notes From Elsewhere : Screening and Panel | SEP 7</a>
 <a href="/instant-coffee/listings/2013-09-05-10-bob-brittie-library-burnaby-jen-weih-how-deep-is-your-disast">10. Bob Brittie Library, Burnaby | Jen Weih | How Deep Is Your Disaster | until | SEP 8</a>
 <a href="/instant-coffee/listings/2013-09-05-11-league-the-n-games-sep-8">11. League | The n Games | SEP 8</a>
-<a href="/instant-coffee/listings/2013-09-05-12-western-front-scriveners-monthly-will-holder-and-kaisa-lassi">12. Western Front | Scrivenerâ€™s Monthly: Will Holder and Kaisa Lassina | SEP 9</a>
+<a href="/instant-coffee/listings/2013-09-05-12-western-front-scriveners-monthly-will-holder-and-kaisa-lassi">12. Western Front | Scrivener’s Monthly: Will Holder and Kaisa Lassina | SEP 9</a>
 <a href="/instant-coffee/listings/2013-09-05-13-sunset-terrace-mitch-speed-sep-11">13. Sunset Terrace | Mitch Speed | SEP 11</a>
 <a href="/instant-coffee/listings/2013-09-05-14-grunt-gallery-josephin-battger-sergej-tolksdorf-sep-12">14. grunt gallery | Josephin Battger & Sergej Tolksdorf | SEP 12</a>
 <a href="/instant-coffee/listings/2013-09-05-15-initial-gallery-cameraman-sep-12">15. Initial Gallery | Cameraman | SEP 12</a>
@@ -53,7 +53,7 @@ Back Alley Entrance
 info@gallery295.com
 www.gallery295.com
 
-Gallery 295 proudly presents Dan SineyÃ¢â‚¬â„¢s new photographic diptychs 
+Gallery 295 proudly presents Dan Sineyâ€™s new photographic diptychs 
 opening
 September 5th at Gallery 295. This exhibition will also be on display during
 SWARM.
@@ -83,13 +83,13 @@ Jennilee Marigomen and Chris Taylor. Sineys work has been exhibited in
 group shows throughout North America, Europe and Japan, with solo and two-
 person exhibitions in Canada. Most recently his work was exhibited in
 Phantasmagoria at the Presentation House Gallery, and in a collaborative
-exhibition with Andrea Pinheiro, Ã¢â‚¬Å“Strange Weather,Ã¢â‚¬ at The University of
+exhibition with Andrea Pinheiro, â€œStrange Weather,â€ at The University of
 Algoma.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-09-05-02-access-curators-talk-su-ying-lee-and-suzanne-carte-sep-5">02. Access | curators talk: Su-Ying Lee and Suzanne Carte | SEP 5</a>
 ------------------------------------------------------------------------
-Curatorsâ€™ Talk via Skype | Thursday, September 5, 7pm
+Curators’ Talk via Skype | Thursday, September 5, 7pm
 Join Director/Curator Kimberly Phillips as she rings up curators Su-Ying Lee 
 and Suzanne Carte in Toronto about the ideas that underpin Under New 
 Management: Video Store. Under New Management runs until September 7, 
@@ -98,8 +98,8 @@ Management: Video Store. Under New Management runs until September 7,
 Organized by Toronto-based curators Su-Ying Lee and Suzanne Carte, Under 
 New Management will temporarily convert Access into a video rental store. 
 The project assumes the characteristics of the retail environment to connect 
-to the local community while challenging the galleryâ€™s role as an intermediary 
-that delimits the viewerâ€™s direct access to art. Video titles in stock are artistsâ€™ 
+to the local community while challenging the gallery’s role as an intermediary 
+that delimits the viewer’s direct access to art. Video titles in stock are artists’ 
 works procured through an international open call for submissions. 
 â€œCustomersâ€  are asked to pay what they wish, which can be interpreted as 
 cash, a non-monetary exchange, critique or no remuneration. This facet is in 
@@ -116,7 +116,7 @@ businesses both large and small. The most unfortunate loss, as we have
 witnessed recently in Vancouver, is that of local independent operations that 
 carried rare and foreign titles, cult favorites, documentaries and experimental 
 films. The plight of the small business has a special relevance to Access 
-Gallery and its location on East Georgia Street in Vancouverâ€™s Chinatown, 
+Gallery and its location on East Georgia Street in Vancouver’s Chinatown, 
 where numerous independent, family-operated shops are closing due to 
 escalating rental rates and rapid development.
 
@@ -132,7 +132,7 @@ Gallery of Mississauga and as professional development and public program
 coordinator at the Ontario Association of Art Galleries. Independently, 
 Suzanne has curated exhibitions in public spaces, artist-run centres, 
 commercial and public art galleries including All Systems Go!, MOTEL and 
-Manâ€™s Ruin. Su-Ying Lee is Assistant Curator at the Museum of Canadian 
+Man’s Ruin. Su-Ying Lee is Assistant Curator at the Museum of Canadian 
 Contemporary Art. From 2011-2012, she was Curator in Residence at the 
 Justina M. Barnicke Gallery, funded by the Canada Council for the Arts. She 
 has curated exhibitions that include the work of Kent Monkman and Lawrence 
@@ -181,7 +181,7 @@ painting, drawing, sculpture and digital media.
 
 Csetkwe Fortier elaborates on her painting practice and focus on preservation
 of traditional foods, The jars of stcuwin (salmon) represent the preservation
-and processing of cultural nutritionÃ¢â‚¬Â¦ It is through the use of image, colour,
+and processing of cultural nutritionâ€¦ It is through the use of image, colour,
 and technique that I express my sadness, frustration and hope in respect to
 the threat to our health. The content of the jars symbolize the entrapment and
 dependence that the corporations and government are trying to enforce on the
@@ -195,7 +195,7 @@ the hunger pains and bring attention to our story.
 
 The artists acknowledge an active and ongoing mentorship with artist,
 Lawrence Paul Yuxweluptun, throughout the creation of this exhibition.
-Bracken describes the relationship as multifaceted. Ã¢â‚¬Å“He has given us
+Bracken describes the relationship as multifaceted. â€œHe has given us
 invaluable tips and tricks that have helped our technical process in painting
 and we have had good talks about concept, form, Indian politics and life, art
 world dealings, and the history of Indigenous art on the coast and in the
@@ -236,7 +236,7 @@ The Flowers of Evil and the writings of French thief and prostitute, Jean Genet,
 who stated: "There exists a close relationship between flowers and convicts.
 The fragility and delicacy of the former are of the same nature as the brutal
 insensitivity of the latter". This deeply resonant statement was a theme
-throughout all of GenetÃ¢â‚¬â„¢s writings, and becomes the foundation for this 
+throughout all of Genetâ€™s writings, and becomes the foundation for this 
 body of
 work.
 
@@ -253,7 +253,7 @@ photography in an age of digital production.
 Jonah Samson has been photographing, writing, curating and collecting for
 over a decade. His writing on photography has been included in magazines
 across North America. He has exhibited nationally and internationally,
-including Otherworldly at the MusÃƒÂ©e EugÃƒÂ¨ne Leroy, Lille, France (2012) 
+including Otherworldly at the MusÃ©e EugÃ¨ne Leroy, Lille, France (2012) 
 and
 the Museum of Arts and Design, New York (2011), Pleasantville at Studio 9,
 Istanbul (2011), The Archives of Pleasantville Historical Society at G. Gibson
@@ -262,7 +262,7 @@ in the UK (2010). In September 2013 Samson will present Another Happy
 Day, a selection of found photographs from his personal collection, which he
 was invited to develop into a book and exhibition at Presentation House
 Gallery, Vancouver. In the same month he will also release an artist
-publication titled Dead ManÃ¢â‚¬â„¢s Hand, based on early 20th century crime
+publication titled Dead Manâ€™s Hand, based on early 20th century crime
 photography and Film Noir. Samson currently lives on Cape Breton Island,
 Nova Scotia.
 
@@ -272,14 +272,14 @@ Nova Scotia.
 Or Gallery
 
 Lynn Marsh
-PlÃ¤nterwald
+Plänterwald
 
-September 7 â€” October 12, 2013
+September 7 — October 12, 2013
 Reception Friday, September 6, 8PM 
-Curated by Mark LanctÃ´t and Jonathan Middleton 
+Curated by Mark Lanctôt and Jonathan Middleton 
 
 Shot in an abandoned former GDR amusement park located just outside of 
-Berlin, PlÃ¤nterwald is a film about the gradual processes of decay and 
+Berlin, Plänterwald is a film about the gradual processes of decay and 
 overgrowth. By choosing as subject a forgotten place of leisure that to this 
 day remains gated and guarded by security guards, Lynne Marsh draws a 
 telling parallel between the spaces of spectacle, of control and of Nature. The 
@@ -287,7 +287,7 @@ passage of time as indicated by how submerged in foliage the corroding site
 has become, turns the fun park into a sylvan pastoral.
 
 Captured in the process of returning to nature, the site still retains the human 
-presence of security guards, what the artist has called â€œguardians of a â€˜deadâ€™ 
+presence of security guards, what the artist has called “guardians of a ‘dead’ 
 space.â€  As they patrol a place with no clear use or value, they become 
 representatives of corporate law and order that offers protection without 
 preservation. They stand idly by as the object of their surveillance slowly 
@@ -296,7 +296,7 @@ future holds in store? Abandoned sites whose guardians, like soldiers cut off
 from communication lines at the end of a war, are unaware that the old order 
 has fallen?
 
-PlÃ¤nterwald marks the first exhibition in the series Troubled Pastoral / 
+Plänterwald marks the first exhibition in the series Troubled Pastoral / 
 Pastorales troubles.
 
 A reception will also be held in conjunction with SWARM 14 on the evening of 
@@ -319,11 +319,11 @@ Opening reception: Friday September 6, 6- 9 pm
 In his first exhibition at Republic since 2009, Vancouver photographer Jim
 Breukelman returns with a new body of work highlighting his recent
 experimentation with photoassemblage. As its title implies, Out of Fiction
-borrows from both fantasy Ã¢â‚¬â€œ as expressed in raw creativity responding to the
-banal templates often offered in childrenÃ¢â‚¬â„¢s colouring books Ã¢â‚¬â€œ and reality: 
+borrows from both fantasy â€“ as expressed in raw creativity responding to the
+banal templates often offered in childrenâ€™s colouring books â€“ and reality: 
 how
-these processes of imagination manifest themselves Ã¢â‚¬Å“in ways both
-foreseeable and unforeseeableÃ¢â‚¬ . The act of bringing these elements 
+these processes of imagination manifest themselves â€œin ways both
+foreseeable and unforeseeableâ€ . The act of bringing these elements 
 together
 in finished photographic works illuminates the proximity of their origins in a
 historical, cultural imaginary, as well as the tenuousness of the divisions
@@ -361,34 +361,34 @@ at info@republicgallery.com.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-09-05-07-richmond-art-gallery-fictive-realities-sep-6">07. Richmond Art Gallery | Fictive Realities | SEP 6</a>
 ------------------------------------------------------------------------
-Date: September 7 â€“ November 3, 2013
+Date: September 7 – November 3, 2013
 Artists: Michelle Gay , Lee Henderson, Doug Jarvis, Steve Lyons, Peter Morin 
 Title: Fictive Realities
 Opening Friday September 6, 7:00pm to 9:00pm
 Curator: Paul Walde
 Description
-Fictive Realities: What is real and how do we know itâ€™s real? In a wired world 
+Fictive Realities: What is real and how do we know it’s real? In a wired world 
 where so much of our daily communication and consumption of information is 
 mediated through technology, how do we separate fiction from reality? 
 Language itself is already mediating and informing our experiences as we 
 post, tweet and blog to potentially millions. Recognizing that many of things 
-that we take for granted in everyday life are constructionsâ€” fabrications that 
-colour our vision of our lives and our environmentsâ€”the artists in Fictive 
+that we take for granted in everyday life are constructions— fabrications that 
+colour our vision of our lives and our environments—the artists in Fictive 
 Realities present â€œtruthsâ€  about our lives by overlaying them on the familiar 
 and the mundane. Using technologies such interactive digital projection, 
 artware (artist made software), video mediated sculptural installations, and 
 good old fashioned storytelling, Fictive Realities is an exhibition that literally 
 and figuratively projects alternate visions of our reality making us aware of the 
 fictions we inhabit. 
-Saturday, Sept 7, 2:00 â€“ 4:00 pm
-ARTISTSâ€™ PANEL DISCUSSION
+Saturday, Sept 7, 2:00 – 4:00 pm
+ARTISTS’ PANEL DISCUSSION
 
 Guest curator Paul Walde facilitates a panel discussion with the artists 
 exhibiting in Fictive Realities.
 
 Free admission, everyone welcome.
 
-Curator Paul Walde is an intermedia artist, composer, and curator. Waldeâ€™s 
+Curator Paul Walde is an intermedia artist, composer, and curator. Walde’s 
 body of work suggests unexpected interconnections between landscape, 
 identity, and technology and includes painting, photography, printmaking, 
 sculpture, installation and audio. Recently his work was seen at the Electric 
@@ -413,7 +413,7 @@ member of Audio Lodge, a Canadian experimental sound art collective.
 Michelle Gay studied art and art history at the University of Toronto and 
 received her MFA from NSCAD (Halifax, Nova Scotia). Her work often 
 experiments with the ubiquitous desktop PC, as a site of intimate virtual or 
-digital experiences â€“ teasing out resonant connections between machines 
+digital experiences – teasing out resonant connections between machines 
 and bodies and between digital and actual spaces. She often collaborates 
 with her brother and particle physicist Colin Gay on these â€œartwareâ€  projects. 
 Interested in the possibilities of touch and poetics within new media platforms, 
@@ -444,8 +444,8 @@ LABEL Festival in Victoria BC, and was the 2010-11 Artist-in-residence
 Fellow at the Centre for Studies in Religion and Society, University of Victoria. 
 His personal and collective projects have recently been shown at G++ 
 Interactive Media Arts Gallery, Victoria, PAVED Arts, Saskatoon, Latitude 53, 
-Edmonton, Eastern Edge, St. Johnâ€™s, Harbour Front Gallery, Toronto, and the 
-Xiâ€™an Academy of Fine Arts in Xiâ€™an, China. Jarvis is the current President of 
+Edmonton, Eastern Edge, St. John’s, Harbour Front Gallery, Toronto, and the 
+Xi’an Academy of Fine Arts in Xi’an, China. Jarvis is the current President of 
 the Pacific Association of Artist Run Centres and a board member of the 
 Ministry of Casual Living. He holds an MFA in studio art from the University of 
 Guelph, ON, and is currently Guest Curator at Open Space Arts Society 
@@ -457,7 +457,7 @@ recently been exhibited at Espace Electra, Fondation EDF (Paris), Artspace
 and in the 2009 Windsor Biennial at the Art Gallery of Windsor. He received 
 an MA in Art History from Concordia University and a BFA in Studio Art from 
 the University of Western Ontario. He participated in a two month artist 
-residency at CitÃ© Internationale des Arts in Paris just prior to beginning his 
+residency at Cité Internationale des Arts in Paris just prior to beginning his 
 PhD course work at UWO. His studies are funded by the SSHRC.
 
 Peter Morin is a Tahltan Nation artist, curator and writer currently based in 
@@ -469,9 +469,9 @@ exhibitions and live events. Morin has curated exhibitions at the Museum of
 Anthropology, Western Front, The Burnaby Art Gallery and Grunt Gallery 
 among others and in 2011 curated Revisiting the Silence, an exhibition of 
 photographs by Adelaide de Menil, at the Bill Reid Gallery of Northwest Coast 
-Art and Peter Morinâ€™s Museum at Satellite Gallery, both in Vancouver. In 2010 
+Art and Peter Morin’s Museum at Satellite Gallery, both in Vancouver. In 2010 
 the artist was awarded the British Columbia Creative Achievement Award for 
-First Nationsâ€™ Art. Morin is currently serving as the curator in residence at 
+First Nations’ Art. Morin is currently serving as the curator in residence at 
 Open Space Artist Run Centre in Victoria BC.
 
 Richmond Art Gallery 
@@ -610,7 +610,7 @@ other miscelany.
 July 8-September 8, 2013
 
 Jen Weih is a Vancouver-based artist whose practice includes video, print,
-sculpture, installation and sound performance. WeihÃ¢â‚¬â„¢s two series of works
+sculpture, installation and sound performance. Weihâ€™s two series of works
 present diverging aspects of her practice. One set of images are based on
 fragments, sketches, research and notes from the period 2005-2013, showing
 elements of inspiration and preliminary thoughts for works. The other set of
@@ -645,17 +645,17 @@ how to bring a Kickstarter project to life.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-09-05-12-western-front-scriveners-monthly-will-holder-and-kaisa-lassi">12. Western Front | Scrivenerâ€™s Monthly: Will Holder and Kaisa Lassina | SEP 9</a>
+<a href="/instant-coffee/listings/2013-09-05-12-western-front-scriveners-monthly-will-holder-and-kaisa-lassi">12. Western Front | Scrivener’s Monthly: Will Holder and Kaisa Lassina | SEP 9</a>
 ------------------------------------------------------------------------
-Scrivenerâ€™s Monthly is pleased to host Will Holder and Kaisa Lassinaro on 
+Scrivener’s Monthly is pleased to host Will Holder and Kaisa Lassinaro on 
 Monday September 9th at 7pm in the Luxe Hall at Western Front.
 
-Will Holder will read from Silvia Federiciâ€™s â€œPeople vs Freedom on land, 
+Will Holder will read from Silvia Federici’s “People vs Freedom on land, 
 animals and womenâ€  as part of the ongoing series â€œâ€¦for single mothersâ€¦â€  
 
 Kaisa Lassinaro will screen â€œAgnes Martin 1974: An Interviewâ€  in the context 
 of a forthcoming printed compilation of interviews from the Video Data Bank, 
-conducted between 1974â€“1988 by feminist video artists, and founders of the 
+conducted between 1974–1988 by feminist video artists, and founders of the 
 Video Data Bank, Lyn Blumenthal and Kate Horsfield.
 
 Will Holder is a typographer who edits and publishes. His publications do not 
@@ -664,12 +664,12 @@ readings, or rehearsals.
 
 Kaisa Lassinaro works as a graphic designer and is interested in feminist film 
 and video; and appropriating archives related to the subject. An example of 
-this work is a graphic transcript of Lizzie Bordenâ€™s 1983 film Born in Flames, 
+this work is a graphic transcript of Lizzie Borden’s 1983 film Born in Flames, 
 published by Occasional Papers (occasionalpapers.org), 2011.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the space 
+Scrivener’s Monthly is a series of public presentations that explore the space 
 between material practices and spoken words: a periodical that talks. Set 
-alongside the exhibitions program at Western Front, this experiment in â€œnot 
+alongside the exhibitions program at Western Front, this experiment in “not 
 publishingâ€  involves readings, performances, and other articulations.
 
 Western Front is located at 303 East 8th Avenue, Vancouver. Please visit our 
@@ -784,33 +784,33 @@ Vancouver, Canada
 
 Join us for the reception on Thursday September 12, 6-9pm
 
-Byron Daunceyâ€™s photography has a straightforwardness and clarity that first 
+Byron Dauncey’s photography has a straightforwardness and clarity that first 
 captivated the city in the form of street art. Dauncey spearheaded what in 
-hindsight can be understood as Vancouverâ€™s most intense and vibrant period 
+hindsight can be understood as Vancouver’s most intense and vibrant period 
 for this anarchic and yet refreshing form, those years just prior to the 
-Olympics before city officials began to scrub clean our alley walls. Daunceyâ€™s 
+Olympics before city officials began to scrub clean our alley walls. Dauncey’s 
 work in this period is singular and persuasive. Deploying photography with a 
 Dadaist sensibility, Dauncey specialized in the everyday object strategically 
 displaced: light switches, alarm pulls, plug sockets and alarm clocks. All 
-these appeared throughout the city in places where they didnâ€™t belong and yet 
+these appeared throughout the city in places where they didn’t belong and yet 
 precisely where they would coax the passerby into a more wakeful and 
 plugged-in engagement with their environment. Being street art, this work was 
 intensely mimetic, provoking imitation and refraction in the work of numerous 
-other artists, the effect of which was to shape â€“ collaboratively and 
-competitively, depending on the moment â€“ a resonant dialogue in the streets, 
+other artists, the effect of which was to shape – collaboratively and 
+competitively, depending on the moment – a resonant dialogue in the streets, 
 alleys and laneways of Gastown, Strathcona and Commercial Drive.
 
 Clarity, simplicity, openness and human scale. Memory and the moment 
-now. A Dadaistâ€™s wink to the absurdities of contemporary preoccupations. 
-These are the elements that permeate Daunceyâ€™s work. He is a genuinely 
-refreshing presence in the cityâ€™s art community, which exists at a raw and 
-challenging moment in Vancouverâ€™s history. Daunceyâ€™s work approaches the 
+now. A Dadaist’s wink to the absurdities of contemporary preoccupations. 
+These are the elements that permeate Dauncey’s work. He is a genuinely 
+refreshing presence in the city’s art community, which exists at a raw and 
+challenging moment in Vancouver’s history. Dauncey’s work approaches the 
 site of its creation without judgment or commentary, but using a language and 
 sensibility that enables it to capture the beauty of moments and places in 
 sudden and transformative juxtaposition.
 
-â€œByron is an uncommonly mature person for his age. Thoughtful, capable, 
-discreet and never intrusive. He is a very gifted photographer of peopleâ€”both 
+“Byron is an uncommonly mature person for his age. Thoughtful, capable, 
+discreet and never intrusive. He is a very gifted photographer of people—both 
 in candid situations and in the studio. He is one of the pioneers of the 
 unposed fashion photograph, which seems to be an increasingly popular 
 idiom. The proofs he has shown me of these photos reveal a sensitivity to the 
@@ -828,7 +828,7 @@ during these walkabouts.â€  â€” Fred Herzog
 Anspayaxw
 an installation for voice, image, and sound
 
-September 12 â€“ October 26, 2013
+September 12 – October 26, 2013
 Opening Reception: September 12, 5:30pm to 9pm
 Artist Talk by John Wynne: September 12, 5:50 pm
 
@@ -845,14 +845,14 @@ handmade street signs on the reserve. These photographs, mounted on flat
 speakers, become the source of voices and an array of environmental sounds, 
 from bingo calling to water running under the frozen Kispiox River.
 
-In Anspayaxw, tensions between language documentation and the artistâ€™s 
+In Anspayaxw, tensions between language documentation and the artist’s 
 own creative expression are recognized and represented in image and sound. 
 Wynne considers the complex relationships linking language speakers and 
 linguistic researchers to questions of power, ownership, and the desire to 
 document, preserve, and revitalize endangered languages.
 
 John Wynne's practice includes large-scale sound installations in galleries 
-and public spaces, photographs that produce sound, and â€œcomposed 
+and public spaces, photographs that produce sound, and “composed 
 documentariesâ€  that explore the boundaries between documentation and 
 abstraction. 
 
@@ -861,7 +861,7 @@ Northwest, UBC Museum of Anthropology.
 
 Ten Thousand Suns
 
-September 12 â€“ October 26, 2013 
+September 12 – October 26, 2013 
 
 Opening reception: 
 Thursday, September 12, 5:30 to 9:00 pm 
@@ -869,12 +869,12 @@ Thursday, September 12, 5:30 to 9:00 pm
 Satellite Gallery presents Ten Thousand Suns, a new group exhibition that 
 features works in sculpture, audio, video and performance by Rebecca 
 Belmore, Tanya Tagaq, Luke Parnell, Guadalupe Martinez, Abbas Akhavan, 
-Jamie Look, Ali Ahadi, Erin Siddall, Carlos ColÃ­n and Brianne Nord-Stewart. 
+Jamie Look, Ali Ahadi, Erin Siddall, Carlos Colín and Brianne Nord-Stewart. 
 These artistsinvestigate our past and present relationships to resource 
 extraction, the body and land.
 
-The location of the exhibition in downtown Vancouverâ€”a global resource 
-exploration hub, major international port and un-ceded First Nations territoryâ€”
+The location of the exhibition in downtown Vancouver—a global resource 
+exploration hub, major international port and un-ceded First Nations territory—
 is home to some 1,200 junior mining exploration companies that operate 
 globally. Coal alone accounts for almost 40% of the total volume of goods 
 moved through the Port of Vancouver. At present only three land-claim 
@@ -889,13 +889,13 @@ practice.
 
 Ten Thousand Suns is curated by Jeremy Jaud, a UBC Critical and Curatorial 
 Studies MA Candidate. This exhibition is made possible with support from the 
-Michael Oâ€™Brian Family Foundation, the Killy Foundation, Government of the 
+Michael O’Brian Family Foundation, the Killy Foundation, Government of the 
 Northwest Territories, and the Audain Endowment for Curatorial Studies 
 through the Department of Art History, Visual Art and Theory in collaboration 
 with the Morris and Helen Belkin Art Gallery at The University of British 
 Columbia, and Satellite Gallery.
 
-â€”
+—
 
 Satellite Gallery
 560 Seymour Street, 2nd Floor. Vancouver, BC
@@ -924,19 +924,19 @@ Thursday, September 12, 2013 only
 Western Front | Swarm | September 12th @ 7pm
 
 Sylvain Sailly | Exhibition | Continuum Model
-Exhibition: Sept 13 â€“ Oct 26
+Exhibition: Sept 13 – Oct 26
 
 Western Front is pleased to present a solo exhibition by Vancouver based 
 artist Sylvain Sailly. Presenting an entirely new body of work, the exhibition 
-will feature new animated works, (produced while working with Barry DoupÃ©), 
+will feature new animated works, (produced while working with Barry Doupé), 
 in concert with sculptural objects, sound works, and architectural 
 interventions. This new body of work is based around the diagrams and 
 schematics often employed by industries and advertising.
 
-Saillyâ€™s practice poetically explores contemporary information systems 
+Sailly’s practice poetically explores contemporary information systems 
 through the intersections of technology and sculpture, exploring industrial 
 modes of production to inform otherwise intangible socio-economic realities. 
-This will be Saillyâ€™s first solo exhibition in Canada.
+This will be Sailly’s first solo exhibition in Canada.
 
 Mark Clintberg | Public Artwork | It happens at night.
 
@@ -947,7 +947,7 @@ in defining the operation and uses of public space.
 
 Robert Kleyn | Public Artwork | Canopy
 
-In the late 1980â€™s Phillip McCrumb fell through the roof of the original Knights 
+In the late 1980’s Phillip McCrumb fell through the roof of the original Knights 
 of Pythias canopy at the front door of the Western Front. More than twenty 
 years later, artist/architect Robert Kleyn has created a new permanent 
 canopy over the buildings entrance.
@@ -979,7 +979,7 @@ and longing, which began to steep into their collaboration. It was only towards
 realizing the project that they recognized this distance as their shared space 
 and the setting for their work.
 
-Drawing upon themes from Conradâ€™s novel, the artists created echoes and 
+Drawing upon themes from Conrad’s novel, the artists created echoes and 
 webs of metaphors that were born out of their relationship to the writer and his 
 work, investigating the idea of desire and its entanglement to the colonial 
 discourse. Unearthly Waters touches upon moment of encounter with the 
@@ -1014,14 +1014,14 @@ GATED SAUDI ARAMCO HEADQUARTERS
 Centre A announces its Fall 2013 exhibition, â€œMinutes from a Second Story,â€  
 by Hajra Waheed.
 
-VANCOUVER, BC â€“ Centre A: Vancouver International Centre for 
-Contemporary Asian Art is delighted to host MontrÃ©al-based artist Hajra 
+VANCOUVER, BC – Centre A: Vancouver International Centre for 
+Contemporary Asian Art is delighted to host Montréal-based artist Hajra 
 Waheed's solo exhibition, â€œMinutes from a Second Storyâ€ . Born in Calgary, 
 Waheed was raised within the gated headquarters of Saudi ARAMCO, the 
 largest transnational oil corporation in the world and home base to 25% of the 
 worldâ€™s oil exports. â€œMinutes from a Second Storyâ€  is a comprehensive body of 
 work that includes video and mixed media works on paper that reflect upon 
-Waheedâ€™s experiences of growing up in ARAMCOâ€™s gated compound. 
+Waheed’s experiences of growing up in ARAMCO’s gated compound. 
 
 Centre A is proud to commission a new body of small format video works 
 titled The Video Project (2012), which reflect broadly on everyday life in the 
@@ -1030,13 +1030,13 @@ Scrapbook Project (2010-11), a 34 page visual diary that recuperates and
 reconsiders an important period of Gulf history, between the end of the Cold 
 War and beginning of the first Gulf War.
 
-â€œIt was during my most formative years, that I began studying this place with a 
+“It was during my most formative years, that I began studying this place with a 
 discerning eye. I realized how critical it was/is to begin to make better sense 
 of this rather strange lived experience,â€  states Waheed. â€œThough it is by no 
 means the basis of all of my work, the experiences that I had there have 
 played a profound role in the many narratives I continue to explore today.â€ 
 
-Haema Sivanesan, Executive Director, Centre A states, â€œWaheed draws on 
+Haema Sivanesan, Executive Director, Centre A states, “Waheed draws on 
 personal experience to critique, in part, restrictions on the use of photography 
 in Saudi Arabia and its impact on the popular imagination. Her work explores 
 how the absence of photographs constitutes a loss, and her practice is 
@@ -1045,13 +1045,13 @@ memory, absence, isolationism and the negotiation of a profoundly different
 world view on the production and display of images.â€ 
 
 â€œMinutes from a Second Storyâ€  is the second exhibition to be held at Centre 
-Aâ€™s new gallery space in the heart of Vancouverâ€™s original Chinatown block. 
+A’s new gallery space in the heart of Vancouver’s original Chinatown block. 
 The exhibition will be on display from September 13 - November 2, 2013. 
 
 Information:
-September 13 â€“ November 2, 2013
-Gallery hours: Tuesdays â€“ Saturdays, 11am â€“ 6pm
-Preview reception: Friday, September 13, 2013 7pm â€“ 10pm
+September 13 – November 2, 2013
+Gallery hours: Tuesdays – Saturdays, 11am – 6pm
+Preview reception: Friday, September 13, 2013 7pm – 10pm
 
 Public Programs:
 Visiting International Speaker
@@ -1076,7 +1076,7 @@ partnerships and programmes that generate new thinking around the material
 in the collection and about the art of the region. Earlier, he co-founded and 
 was Curatorial Director of the London-based arts organization Green 
 Cardamom. He was a Fellow of the Clore Leadership Programme, Research 
-Fellow at Goldsmith College, and Arts Director for the UKâ€™s Festival of Muslim 
+Fellow at Goldsmith College, and Arts Director for the UK’s Festival of Muslim 
 Cultures (2006-07). His recent projects include: Safavids Revisited at the 
 British Museum (2009); Where Three Dreams Cross at the Whitechapel 
 Gallery, London (2010); Beyond the Page: Miniature as Attitude in 
@@ -1089,23 +1089,23 @@ management consultant and banker.
 
 Nasar will speak on questions of geography, region and nation with insights 
 into developments in contemporary art from West Asia or the â€œMiddle Eastâ€ , 
-and with relation to the current exhibition at Centre A, â€œMinutes from a Second 
+and with relation to the current exhibition at Centre A, “Minutes from a Second 
 Storyâ€  by Hajra Waheed. 
 
 Asia Art Archive is an independent, non-profit organization dedicated to 
 documenting the recent history of contemporary art in Asia within an 
 international context. Founded in 2000, AAA is widely regarded as one of the 
-worldâ€™s leading public resources for contemporary art in Asia. It continues to 
+world’s leading public resources for contemporary art in Asia. It continues to 
 grow through a systematic program of research and critical engagement.
 
 Minutes From a Second Story | Artist Talk
 Hajra Waheed, artist
 moderated by Michael Filimowicz, Faculty Director of Interdisciplinary 
-Program (Philosophersâ€™ CafÃ©) in Lifelong Learning, Simon Fraser University. 
+Program (Philosophers’ Café) in Lifelong Learning, Simon Fraser University. 
 
 Saturday, September 21, 2013, 3pm
 
-Co-presented by the Philosophersâ€™ CafÃ©, Simon Fraser University
+Co-presented by the Philosophers’ Café, Simon Fraser University
 
 Minutes From a Second Story | Panel Discussion
 Laura U Marks, Dena Wosk University Professor, 
@@ -1116,7 +1116,7 @@ in conversation with Haema Sivanesan
 Saturday, October 12, 2013
 3pm
 
-Hajra Waheedâ€™s art practice responds to strictly imposed restrictions on 
+Hajra Waheed’s art practice responds to strictly imposed restrictions on 
 photography during her years growing up in Saudi Arabia. This panel 
 discussion examines histories of aniconism in the Arab-Islamic world, and its 
 tense relation to visual cultures and photo-practices that are ubiquitous in the 
@@ -1134,11 +1134,11 @@ contemporary Asian art, foregrounding a range of diverse contemporary
 artistic practices
 
 Centre A provides a platform for art that engages and educates, promoting 
-critical thought and reflective experiences. The Centreâ€™s gallery space, in the 
-heart of Vancouverâ€™s Chinatown, welcomes artists and visitors from diverse 
+critical thought and reflective experiences. The Centre’s gallery space, in the 
+heart of Vancouver’s Chinatown, welcomes artists and visitors from diverse 
 backgrounds.
 
-Centre A makes a significant contribution to Vancouverâ€™s cultural landscape 
+Centre A makes a significant contribution to Vancouver’s cultural landscape 
 by contributing to the cultural infrastructure of the city, with a view to 
 positioning Asia within the Canadian imagination.
 
@@ -1196,25 +1196,25 @@ other re-imagines it.
 Nelson is best-known for his labyrinthine architectural installations that unfold 
 as narrative structures, where the viewer moves through immersive 
 environments seemingly abandoned, yet imagining the unseen occupants of 
-these intricate spaces is central to the viewerâ€™s experience. They contain a 
-multi-layered narrative, a set of atmospheres that similarly inform Nelsonâ€™s 
+these intricate spaces is central to the viewer’s experience. They contain a 
+multi-layered narrative, a set of atmospheres that similarly inform Nelson’s 
 discrete sculptural works.
 For the Contemporary Art Gallery, Nelson revisits ideas and forms first seen 
 in The Amnesiacs, a serial project begun in 1996, which references a narrative 
-involving an imaginary cast of characters â€” a group of â€˜outsidersâ€™ to the 
+involving an imaginary cast of characters — a group of ‘outsiders’ to the 
 mainstream who uncannily resemble a disembodied late twentieth century 
 biker gang, albeit without bikes. These quintessential outlaws of myth and 
 literature, as depicted in the popular imagination of North America, are 
 paralleled here with another favourite genre; that of the hunter or fur trader, 
-exploring both groupsâ€™ economic underpinning of these romantic faÃ§ades, and 
+exploring both groups’ economic underpinning of these romantic façades, and 
 the resulting conflicts involved in the expansion of territory.
 In the new series of sculptures, created for the exhibition, it is as if an 
 anonymous beachcomber has gathered material from the ocean and by sifting 
 through it, deciphered the collected debris by creating assemblages. 
 The new photographic work is a sequence of projected 35mm slides produced 
-during recent road trips across British Columbia and into Alberta. Nelsonâ€™s 
+during recent road trips across British Columbia and into Alberta. Nelson’s 
 interest in the photographic depiction of the Canadian landscape came 
-through seeing a series of slides from Dr. Wilson Duffâ€™s family trips across the 
+through seeing a series of slides from Dr. Wilson Duff’s family trips across the 
 province, presented at the Museum of Anthropology, Vancouver. These 
 images resonated with Nelson as much as the objects in the museum, as a 
 language to be unraveled.
@@ -1224,7 +1224,7 @@ http://www.contemporaryartgallery.ca/exhibitions/mike-nelson/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1)	Exhibition Opening â€“ Friday, September 13, 7-10pm at the CAG
+1)	Exhibition Opening – Friday, September 13, 7-10pm at the CAG
 Public opening and celebration of the exhibition. Artist in attendance.
 Opening reception sponsor: Kronenbourg 1664.
 
@@ -1237,19 +1237,19 @@ Krisztina Laszlo
 Thursday, October 17, 7pm
 Krisztina Laszlo holds a cross-appointment at the University of British 
 Columbia as the archivist for the Morris and Helen Belkin Art Gallery and the 
-Museum of Anthropology. Her research interests include artistâ€™s archives, 
+Museum of Anthropology. Her research interests include artist’s archives, 
 curatorial and artistic interpretations of the archive, cultural property and 
 preservation of media art. Laszlo will discuss a series of slides produced by 
 archaeologist and anthropologist Wilson Duff now held in the MOA collection 
 referenced by Mike Nelson in his exhibition at the CAG.
 Jem Noble
 Thursday, October 24, 7pm
-Artist Jem Nobleâ€™s practice encompasses digital image-making, sound, 
+Artist Jem Noble’s practice encompasses digital image-making, sound, 
 sculpture, performance and text and is concerned with questions of framing, 
 indeterminacy and co-production. He has collaborated with 2012 Turner Prize 
 winner, Elizabeth Price, producing sound and music for her large-scale video 
 installations. Noble is founding member of the Blackout Arts expanded-
-cinema collective (2002â€“2010) and was co-director of Venn Festival of new 
+cinema collective (2002–2010) and was co-director of Venn Festival of new 
 and exploratory music and sound between 2004 and 2008. Noble will respond 
 to the work of Mike Nelson.
 Kathy Slade
@@ -1257,7 +1257,7 @@ Tuesday, October 29, 7pm
 Vancouver based artist Kathy Slade works with embroidery, sound, sculpture, 
 books, film and video. She will be responding to the work of Kay Rosen.
 
-3)	Free Guided Visits â€“ Saturdays, 3 pm - September 21, September 28 
+3)	Free Guided Visits – Saturdays, 3 pm - September 21, September 28 
 (Spanish), September 29, October 5, October 19 (French), October 26 
 (Mandarin) and November 2.
 Join Nigel Prince, Executive Director, Jill Henderson, Communications 
@@ -1287,7 +1287,7 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W: 
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues â€“ Sun: 12 â€“ 6 pm. FREE ADMISSION
+Hours: Tues – Sun: 12 – 6 pm. FREE ADMISSION
 
 ENDS
 
@@ -1300,7 +1300,7 @@ Amphibian14, Bracken Hanuse Corlett, KAST, Byron Steele, Nigel Z: God
 Save The Queen
 
 September 14 to October 26, 2013
-Opening Friday, September 13, 8pm â€” part of SWARM
+Opening Friday, September 13, 8pm — part of SWARM
 Curated by Chris Bose
 
 Nigel-Z-flag
@@ -1320,9 +1320,9 @@ KAST My art all started when I was younger, I guess, but the art I mostly do
 now is not seen as an artistic art form, as we writers see it, but it is viewed as 
 vandalism, trash, crime, even gang related! Although we are unwanted, we still 
 thrive in an urban environment. Art is not just a hobby that brings a little light 
-of joy into the dark night where I wonder. Mostly, itâ€™s my lifestyle. Iâ€™ve been 
+of joy into the dark night where I wonder. Mostly, it’s my lifestyle. I’ve been 
 painting graff for around twelve years now, with a few breaks, but it has led me 
-to other forms of art. Iâ€™ve had no professional training, besides watching a few 
+to other forms of art. I’ve had no professional training, besides watching a few 
 Bob Ross shows, and was a solo graffiti artist most of the time. I started 
 painting landscapes with oil in 2008 and now have combined the two forms 
 together to form my own little think which pushes me in a direction.
@@ -1331,15 +1331,15 @@ Byron Steele a.k.a. MaRvIN StRAnGE I started sculpting when i was 16.
 Started working in a scrap yard and taking things home, rooting in garbage 
 and things just came together. Started sculpting again in the last 3 years. I 
 use anything i can get my hands on: knives, dremels, drills, torches, lighters, 
-whateverâ€™s handy at the time. when i sit down to sculpt, something else takes 
-over: MaRvIN StRAnGE. when i come to, itâ€™s in front of me, what inspires me 
-really. I want to take peopleâ€™s preconceptions of art and step all over them.
+whatever’s handy at the time. when i sit down to sculpt, something else takes 
+over: MaRvIN StRAnGE. when i come to, it’s in front of me, what inspires me 
+really. I want to take people’s preconceptions of art and step all over them.
 
 Bracken Hanuse Corlett is a multimedia Northwest Coast artist hailing from 
 the Wuikinuxv and Klahoose Nations. He has worked as a news writer for 
 Redwire Magazine, and is the Co-founder and Co-coordinator of the newly 
 formed Vancouver Indigenous Media Arts Festival. He is a graduate of the 
-Enâ€™owkin Centre of Indigenous Art and is currently in his final year at Emily 
+En’owkin Centre of Indigenous Art and is currently in his final year at Emily 
 Carr University of Art and Design. He has also studied Northwest Coast art, 
 carving and design from acclaimed Heiltsuk artists Bradley Hunt and his sons 
 Shawn Hunt and Dean Hunt. Some of his notable exhibitions have been at 
@@ -1356,7 +1356,7 @@ and hair flying everywhere, the Amphibian has re-discovered his performance
 outlet with this Project.
 
 Chris Bose is a writer, multi-disciplinary artist, musician and filmmaker. He is 
-a war party baby born of the Nâ€™lakaâ€™pamux and Secwepemc Nations in BC, 
+a war party baby born of the N’laka’pamux and Secwepemc Nations in BC, 
 and currently spends his time in Kamloops BC.
 
 UNIT/PITT Projects | 236 East Pender Street, Vancouver BC Canada V6A 1T7 
@@ -1426,8 +1426,8 @@ www.sfugalleries.ca | gallery@sfu.ca | 778.782.42.66
 ------------------------------------------------------------------------
 Langara Launches New Dialogue Series
 
-Vancouver, BC, September 3, 2013 â€“ Langaraâ€™s Department of Philosophy is 
-thrilled to announce the return of the popular Philosophersâ€™ Jam series for its 
+Vancouver, BC, September 3, 2013 – Langara’s Department of Philosophy is 
+thrilled to announce the return of the popular Philosophers’ Jam series for its 
 third season. 
 
 Hundreds of enquiring minds have attended the series at the College over the 
@@ -1440,14 +1440,14 @@ What happens to our democracy when people are more and more transparent
 will be explored by lawyer Micheal Vonn, who is the policy director for the BC 
 Civil Liberties Association.
 
-â€œWe're very excited to have such dynamic speakers participate in the 
-Philosophersâ€™ Jam series," said this seasonâ€™s event coordinator Alex Boston, 
+“We're very excited to have such dynamic speakers participate in the 
+Philosophers’ Jam series," said this season’s event coordinator Alex Boston, 
 an instructor from Langara's Philosophy Department. "We've had some 
 incredible discussions result from the previous events, and I'm sure this one 
 won't disappoint."
 
-The inaugural Philosophersâ€™ Jam of the fall 2013 season takes place on 
-Thursday, September 19, at 7:00 pm at Langara Collegeâ€™s Main Campus (100 
+The inaugural Philosophers’ Jam of the fall 2013 season takes place on 
+Thursday, September 19, at 7:00 pm at Langara College’s Main Campus (100 
 West 49th Avenue). The sessions include a short presentation by the guest 
 speaker followed by an open dialogue period. All events are free and open to 
 the public.
@@ -1462,7 +1462,7 @@ Speaker: John Russell, Langara Philosophy Department
 November 21: Positive and Negative Liberty
 Speaker: Tim Christie, Fraser International College
 
-All Philosophersâ€™ Jams are held on Thursdays and begin at 7:00 pm. Light 
+All Philosophers’ Jams are held on Thursdays and begin at 7:00 pm. Light 
 refreshments will be served. For more information, including full topic 
 descriptions and speaker bios, visit:www.langara.bc.ca/philosophers-jam.
 
@@ -1483,10 +1483,10 @@ Communications Officer, Communications & Marketing
 ------------------------------------------------------------------------
 DANA CLAXTON
 Indian Candy
-September 19 â€“ November 2
-Opening September 19th, 6 â€“ 8pm
+September 19 – November 2
+Opening September 19th, 6 – 8pm
 
-VANCOUVER, September 2013 â€“ Winsor Gallery announced today the 
+VANCOUVER, September 2013 – Winsor Gallery announced today the 
 upcoming exhibition, Indian Candy, featuring new photography and print 
 media by renowned artist Dana Claxton. The show runs from September 19th 
 to November 2nd, 2013. An opening reception will be held on September 
@@ -1497,7 +1497,7 @@ archive in order to create aluminum-mounted chromogenic prints. Bright,
 slick, and visually delicious, Indian Candy speaks volumes on how 
 Indigenous iconography has been consumed by popular culture.
 
-â€œDana Claxtonâ€™s newest body of work has been long-awaited and does not 
+“Dana Claxton’s newest body of work has been long-awaited and does not 
 disappoint,â€  says gallery owner Jennifer Winsor. â€œWith such bright and 
 seductive surfaces, these works become both a literal reversal of the white-
 washing of history and a brilliant tribute to pop art and culture.â€ 
@@ -1521,17 +1521,17 @@ About Winsor Gallery
 Founded by Jennifer Winsor in 2002, Winsor Gallery has distinguished itself 
 locally, nationally, and internationally as a premier source for contemporary 
 art. Foremost a commercial gallery, Winsor Gallery strives to ensure the long-
-term development of our artistsâ€™ careers through promotion, collaboration, and 
+term development of our artists’ careers through promotion, collaboration, and 
 thoughtful curation.
 Through this commitment to forging strong relationships with our artists, we 
 have accrued one of the most attractive portfolios of established and emerging 
 talent in Vancouver, and many of our represented artists have been recipients 
-of such prestigious awards as the Governor Generalâ€™s Award, the Joseph 
+of such prestigious awards as the Governor General’s Award, the Joseph 
 Plaskett Award, the Gold Medal of the Royal Architecture Institute of Canada, 
 and the International Studio Award at the Museum of Modern Art New York.
 A cornerstone of the Vancouver art scene, Winsor relocated from its seminal 
 South Granville space in 2012 to The Flats on East 1st Avenue. The gallery is 
-part of a burgeoning industrial neighbourhood that has become Vancouverâ€™s 
+part of a burgeoning industrial neighbourhood that has become Vancouver’s 
 new centre for contemporary art.
 Contact:
 info@winsorgallery.com

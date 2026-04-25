@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 14
 type: ""
+venue: "Vancouver's Alliance for Arts & Culture"
 summary: "Vancouver's Alliance for Arts & Culture | Concerned about culture? | OCT 6"
 ---
 

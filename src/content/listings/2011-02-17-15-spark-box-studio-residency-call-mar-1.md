@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is elementally fundamental. HELL Y
 emailDate: "Thu, 17 Feb 2011 11:28:21 -0800"
 number: 15
 type: ""
+venue: "Spark Box Studio Residency"
 summary: "Spark Box Studio Residency | CALL | MAR 1"
 ---
 

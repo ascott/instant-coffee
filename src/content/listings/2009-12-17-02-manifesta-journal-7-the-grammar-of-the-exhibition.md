@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 2
 type: ""
+venue: "Manifesta Journal #7"
 summary: "Manifesta Journal #7 | The Grammar of the Exhibition"
 ---
 
@@ -68,8 +69,8 @@ definition of space in artistic and curatorial practices.
 
 MJ#7 includes contributions by: Zeigam Azizov, Mieke Bal, Cathleen Chaffee,
 Anselm Franke, RoseLee Goldberg, Milena Hoegsberg, Bartomeu Mar­, Isabel
-Tejeda MartÃ­n, Peter Osborne, Filipa Ramos, Marco Scotini, Mary Anne
-Staniszewski, MarkÃ©ta StarÃ¡.
+Tejeda Martín, Peter Osborne, Filipa Ramos, Marco Scotini, Mary Anne
+Staniszewski, Markéta Stará.
 
 Manifesta Journal is an initiative of the Manifesta Foundation, Amsterdam
 and is published together with our ongoing Italian publication partner

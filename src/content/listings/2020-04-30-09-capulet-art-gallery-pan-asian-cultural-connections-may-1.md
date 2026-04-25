@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Capulet Art Gallery"
 summary: "Capulet Art Gallery | PAN-ASIAN CULTURAL CONNECTIONS | MAY 1"
 ---
 

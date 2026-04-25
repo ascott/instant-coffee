@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 10
 type: "EVENT"
+venue: "SFU School for the Contemporary Arts"
 summary: "SFU School for the Contemporary Arts |  | OCT 15"
 ---
 

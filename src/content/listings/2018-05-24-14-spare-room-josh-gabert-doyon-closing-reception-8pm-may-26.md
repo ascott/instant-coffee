@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 14
 type: "EVENT"
+venue: "Spare Room"
 summary: "Spare Room | Josh Gabert-Doyon - Closing Reception | 8PM | MAY 26"
 ---
 

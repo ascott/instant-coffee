@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 6
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | Thought On Film XV | APR 27"
 ---
 

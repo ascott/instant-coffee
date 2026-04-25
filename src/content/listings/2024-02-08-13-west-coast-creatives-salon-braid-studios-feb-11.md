@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 13
 type: "TALK"
+venue: "West Coast Creatives Salon"
 summary: "West Coast Creatives Salon | Braid Studios | FEB 11"
 ---
 

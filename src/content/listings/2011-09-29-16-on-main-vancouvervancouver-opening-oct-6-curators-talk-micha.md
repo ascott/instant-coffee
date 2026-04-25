@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 16
 type: ""
+venue: "On Main"
 summary: "On Main | VANCOUVER/VANCOUVER | opening: Oct 6 | curator's talk: Michael Turner | OCT 8"
 ---
 
@@ -18,7 +19,7 @@ By Appointment: onmain@gmail.com 604.872.7713
 ______________________________________________________
 
 â€œâ€¦a rare opportunity to view pivotal pieces.â€  Preview Magazine
-â€œâ€¦well worth seeing." Malcolm Parry, Vancouver Sun
+“…well worth seeing." Malcolm Parry, Vancouver Sun
 
 This inaugural exhibition is a celebration of Vancouver art and artists featuring 
 works from the collection of Rick Erickson curated by Michael Turner. On Main 
@@ -46,8 +47,8 @@ Man Ray, Frederic Remington, Chick Rice, Charlie Roberts, Marc Rudis,
 Unknown, Jan Wade, Neil Wedman , Paul Wong, Michael Nicoll Yahgulanaas 
 and Lawrence Paul Yuxweluptun.
 
-Curatorâ€™s Talk with Michael Turner Sat., Oct. 8th 8pm
-â€œWhat distinguishes Rick Ericksonâ€™s collecting is that while many grow to 
+Curator’s Talk with Michael Turner Sat., Oct. 8th 8pm
+“What distinguishes Rick Erickson’s collecting is that while many grow to 
 appreciate art, Rick grew up on Main Street with artists. While the more 
 ambitious art collections often boast a focus, this collection is a reflection of his 
 four-corner engagement with the city and its histories. In that sense it is as much 

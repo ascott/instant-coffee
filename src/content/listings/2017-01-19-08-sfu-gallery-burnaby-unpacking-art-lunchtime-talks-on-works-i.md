@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 8
 type: "TALK"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Unpacking Art: Lunchtime Talks on Works in the SFU | JAN 19"
 ---
 

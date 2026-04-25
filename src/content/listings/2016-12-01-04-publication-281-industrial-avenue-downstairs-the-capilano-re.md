@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 4
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | 281 Industrial Avenue (downstairs) | The Capilano Review Fall Issue | DEC 2"
 ---
 

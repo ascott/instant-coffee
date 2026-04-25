@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 4
 type: "EVENT"
+venue: "grunt gallery"
 summary: "grunt gallery | Kitchen Logic and Solstice Party | DEC 12"
 ---
 
@@ -20,13 +21,13 @@ happened, it occurs to her to wonder how in the hell the kitchen took 30
 years to turn into a sculpture."
 
 Revisit some old narratives and sketch out a possible present one, with
-grunt gallery, Julia Feyrer and friends. 1985 â€“ 2015
+grunt gallery, Julia Feyrer and friends. 1985 – 2015
 
 Friday, December 12th: Recording 7pm (with Pietro Sammarco)
 Friday, December 19th: Solstice Party *closing event*
 
 Exhibition Text:
-Part 1 â€“ History creeps: the grunt kitchen and Julia Feyrer:
+Part 1 – History creeps: the grunt kitchen and Julia Feyrer:
 http://grunt.ca/wordpress/wp-content/uploads/2014/11/Hedit_Julia-Feyrer-Part-1_FINAL1.pdf
 
 URL: http://grunt.ca/exhibitions/kitchen/

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 11
 type: ""
+venue: "Or Gallery @ Cathedral Square Park"
 summary: "Or Gallery @ Cathedral Square Park | common place: Emily Neufeld & Cease Wyss | MAR 10"
 ---
 

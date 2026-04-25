@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 25
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | Intro to 3d Printing | JUN 21"
 ---
 

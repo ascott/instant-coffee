@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 4
 type: "OPENING"
+venue: "Or Gallery (NEW LOCATION)"
 summary: "Or Gallery (NEW LOCATION) | Hold On - Anna Zett | 7PM | OCT 16"
 ---
 

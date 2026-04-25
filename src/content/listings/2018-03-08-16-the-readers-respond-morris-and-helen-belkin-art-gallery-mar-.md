@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 16
 type: ""
+venue: "The Readers Respond"
 summary: "The Readers Respond | Morris and Helen Belkin Art Gallery | MAR 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking a turn for the better"
 emailDate: "Thu, 06 May 2010 10:39:18 -0700"
 number: 20
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | Call for submissions | JUN 1"
 ---
 

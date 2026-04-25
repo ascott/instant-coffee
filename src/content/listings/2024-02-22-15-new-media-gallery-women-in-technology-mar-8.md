@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 15
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Women in Technology | MAR 8"
 ---
 

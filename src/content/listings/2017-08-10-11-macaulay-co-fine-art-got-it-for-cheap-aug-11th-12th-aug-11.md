@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 11
 type: "EVENT"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | GOT IT FOR CHEAP Aug 11th + 12th | AUG 11"
 ---
 

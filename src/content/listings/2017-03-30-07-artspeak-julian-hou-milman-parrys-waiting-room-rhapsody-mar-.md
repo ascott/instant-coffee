@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 7
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Julian Hou | Milman Parry's Waiting Room Rhapsody | MAR 31"
 ---
 

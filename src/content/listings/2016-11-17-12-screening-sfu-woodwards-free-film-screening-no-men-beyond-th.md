@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 12
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Woodward's | Free film screening: No Men Beyond This Point | NOV 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 28
 type: "EVENT"
+venue: "Roundhouse Community Centre"
 summary: "Roundhouse Community Centre | Vancouver Art Book Fair | JUL 4-6 | JUL 4"
 ---
 

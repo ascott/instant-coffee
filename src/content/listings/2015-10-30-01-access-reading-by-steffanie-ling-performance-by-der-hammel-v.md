@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 1
 type: "EVENT"
+venue: "Access"
 summary: "Access | Reading by Steffanie Ling & Performance by Der Hammel von Kouver | OCT 29"
 ---
 
@@ -38,7 +39,7 @@ occasional pamphlet of criticism and writing in Vancouver, and a
 curator at CSA Space. Currently, she is writing a book of letters and
 stories that weigh in on banality, social awkwardness and smoking.
 
-Tanya Lukin Linklaterâ€˜s practice spans experimental choreography,
+Tanya Lukin Linklater‘s practice spans experimental choreography,
 performance, video, and text. Her work has been performed/exhibited
 internationally, and her poetry and essays have been published in
 numerous journals and catalogues. She studied atUniversity of Alberta

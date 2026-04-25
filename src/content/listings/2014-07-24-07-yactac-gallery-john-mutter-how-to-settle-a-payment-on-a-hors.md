@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 7
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | John Mutter: How To Settle A Payment On A Horse | JUL 24"
 ---
 
@@ -20,12 +21,12 @@ V5X3B7
 
 https://www.youtube.com/watch?v=ey6uTe3mCOo
 
-â€œI felt like a yak trapped in salt. Under the parched noon I felt cracked,
+“I felt like a yak trapped in salt. Under the parched noon I felt cracked,
 and rootless. The wind whipped my my serape around me and blew across 
 my
 tracks, erasing them.
 
-'A deal is a deal' my father used to say, but heâ€™s swimming with the fishes
+'A deal is a deal' my father used to say, but he’s swimming with the fishes
 now, his muscles slick with scales. He can look up at the way the light
 hits the waves as many times as he wants.
 
@@ -42,12 +43,12 @@ On days like that no one moved. The air tasted bitter with a trace of old
 campfires.
 
 That day no one stood in the street, instead they all went inside and just
-leaned against the wall, sighing. Thatâ€™s why I knew right away it was bad,
+leaned against the wall, sighing. That’s why I knew right away it was bad,
 even before I heard the tap of boots on the long wooden porches, coming
 towards me, and the clanking of spurs. I saw him without even looking up.
 
 The worst kinds of deals are made in silence, and already I knew it would
-end in a killing, and I wouldnâ€™t even remember to bury him. These days the
+end in a killing, and I wouldn’t even remember to bury him. These days the
 dead have to fend for themselves, with the cost of shovels being how it is
 and even the ground too hard and dry for digging. And I hated killing, but
 more than that I was tired. He stood there with his back to the sky,
@@ -69,19 +70,19 @@ Presented on ipads and screens with headphones, the new works
 seamlessly
 combine still photography and video with music and sound. The detailed 
 and
-immersive scenarios question humanityâ€™s role on earth, drawing attention 
+immersive scenarios question humanity’s role on earth, drawing attention 
 to
 both the positive and negative; exaggerated symbols and classic scenes 
 from
-literature and film celebrate the extensive history of humanityâ€™s creative
+literature and film celebrate the extensive history of humanity’s creative
 output, while content and theme sarcastically and satirically point to
-popular cultureâ€™s disconnect from reality and mankindâ€™s withdrawal from
+popular culture’s disconnect from reality and mankind’s withdrawal from
 nature. Characters are played exclusively by Vancouver-based musicians 
 and
 artists.
 
 The temporal context of each scene is omitted, allowing audiences to
-animate their own narrative based on their understanding of clichÃ©s in
+animate their own narrative based on their understanding of clichés in
 human storytelling. Hints, however, are given in visual clues in fabrics,
 patterns, animals and objects that play reoccurring roles; music and sound
 create contrast, context and space.

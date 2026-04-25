@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: coughing up not passing the buck"
 emailDate: "Thu, 02 Sep 2010 12:40:18 -0700"
 number: 3
 type: ""
+venue: "Emily Carr Speaker's Series"
 summary: "Emily Carr Speaker's Series | Alex Steffen | SEP 8"
 ---
 

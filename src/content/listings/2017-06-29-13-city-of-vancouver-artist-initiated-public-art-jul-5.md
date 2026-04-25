@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 13
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | Artist-Initiated Public Art | JUL 5"
 ---
 

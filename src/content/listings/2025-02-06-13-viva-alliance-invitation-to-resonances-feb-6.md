@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 13
 type: "EXHIBITION"
+venue: "VIVA Alliance"
 summary: "VIVA Alliance | Invitation to Resonances | FEB 6"
 ---
 

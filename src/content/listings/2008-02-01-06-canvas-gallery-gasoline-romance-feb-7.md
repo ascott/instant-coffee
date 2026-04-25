@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee conditioned"
 emailDate: "Thu, 31 Jan 2008 17:20:08 -0800"
 number: 6
 type: ""
+venue: "CANVAS Gallery"
 summary: "CANVAS Gallery | Gasoline Romance | FEB 7"
 ---
 

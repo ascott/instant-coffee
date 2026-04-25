@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Djavad Mowafaghian Cinema | THE FILMS OF PHILIP HOFFMAN | 6PM | SEP 17"
 ---
 

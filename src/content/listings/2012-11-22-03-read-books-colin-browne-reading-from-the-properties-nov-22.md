@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 3
 type: ""
+venue: "READ Books"
 summary: "READ Books | Colin Browne Reading from The Properties | NOV 22"
 ---
 

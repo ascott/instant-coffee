@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 18
 type: "PERFORMANCE"
+venue: "Centre A"
 summary: "Centre A | Here I only worry about my feet... Elk Walk | JUL 1"
 ---
 

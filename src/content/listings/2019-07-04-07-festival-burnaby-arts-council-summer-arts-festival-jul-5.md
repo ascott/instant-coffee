@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 7
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Burnaby Arts Council | Summer Arts Festival | JUL 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing your altitude"
 emailDate: "Thu, 08 Apr 2010 08:55:19 -0700"
 number: 13
 type: ""
+venue: "Langara College"
 summary: "Langara College | The Pavilion | Jen Weih, Kate Sansom and Joshua Bartholomew | APR 14"
 ---
 

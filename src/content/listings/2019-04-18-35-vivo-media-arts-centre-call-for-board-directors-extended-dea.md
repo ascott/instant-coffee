@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 35
 type: "CALL"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Call for Board Directors (EXTENDED DEADLINE) | APR 22"
 ---
 

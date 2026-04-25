@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 23
 type: "TALK"
+venue: "Copywriting BC Chapter"
 summary: "Copywriting BC Chapter | Practivism 9: Designing for the Inclusive Future | NOV 17"
 ---
 

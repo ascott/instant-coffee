@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 16
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in Spanish | 3PM | FEB 8"
 ---
 

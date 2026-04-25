@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 7
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | AEXCESS: annual fundraising auction | FEB 13"
 ---
 

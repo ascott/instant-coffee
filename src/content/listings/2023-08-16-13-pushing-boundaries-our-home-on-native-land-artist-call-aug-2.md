@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 13
 type: "CALL"
+venue: "Pushing Boundaries: Our Home on Native Land"
 summary: "Pushing Boundaries: Our Home on Native Land | Artist Call | AUG 24"
 ---
 

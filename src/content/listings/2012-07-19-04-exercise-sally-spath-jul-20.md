@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 4
 type: ""
+venue: "Exercise"
 summary: "Exercise | SALLY SPATH | JUL 20"
 ---
 

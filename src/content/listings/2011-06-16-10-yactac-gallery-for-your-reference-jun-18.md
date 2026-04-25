@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 10
 type: ""
+venue: "YacTac Gallery"
 summary: "YacTac Gallery | FOR YOUR REFERENCE | JUN 18"
 ---
 

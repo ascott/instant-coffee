@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we like those knobbly claws"
 emailDate: "Thu, 01 Oct 2009 09:21:52 -0700"
 number: 3
 type: ""
+venue: "ELISSA CRISTALL GALLERY"
 summary: "ELISSA CRISTALL GALLERY | ERIC DEIS | OCT 1"
 ---
 

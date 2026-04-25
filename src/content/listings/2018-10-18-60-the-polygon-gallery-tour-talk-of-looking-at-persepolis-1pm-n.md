@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 60
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Tour + Talk of “Looking at Persepolis” | 1PM | NOV 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 8
 type: ""
+venue: "The Apartment"
 summary: "The Apartment | Jonathan Baldock and Colleen Brown | JAN 11"
 ---
 
@@ -29,7 +30,7 @@ that references a specific lineage of art history and absurdist theatre to
 do with rituals and materials of healing, conflating the forms of 
 sculpture, painting and performance against the body. Through 
 juxtapositions of genre and material, Baldock encourages the 
-exhibitionâ€™s ongoing metamorphosis. Hot Spots presents felt, ceramic, 
+exhibition’s ongoing metamorphosis. Hot Spots presents felt, ceramic, 
 sand, and scent through methodologies of painting: the unique 
 alchemy of the artist amongst the transcendental "I". 
 
@@ -81,7 +82,7 @@ subsequent rearrangement) the objects in Rezoning surrender to
 relationships, sympathetic narratives of support and collapse. The 
 common frontal, albeit three-dimensional, relationship with sculpture 
 and the immersive experience of installations are two common modes 
-that speak to different aspects of an individualâ€™s experience. In 
+that speak to different aspects of an individual’s experience. In 
 Rezoning, Brown initiates an additional relationship of being beside, 
 near and with; drawing attention to our social relationships in the built 
 landscape. In this way Rezoning is an active investigation of 
@@ -91,7 +92,7 @@ provide Brown and her dialogue partners with the impetus to stand
 beside each other and the work, realizing their active/passive position 
 within this landscape of things.
 
-Colleen Brownâ€™s work has most recently been included in David 
+Colleen Brown’s work has most recently been included in David 
 Horwitz:Carry-on at Gallery West in The Hague andBlack Hole is Also 
 Supernova at the Richmond Art Gallery. Brown began her education 
 with a B.A. Psych from Simon Fraser University, focusing on 

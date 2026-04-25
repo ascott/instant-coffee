@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 14
 type: ""
+venue: "DYNAMO ARTS ASSOCIATION"
 summary: "DYNAMO ARTS ASSOCIATION | Sylvana d'Angelo | MAY 9"
 ---
 
@@ -24,7 +25,7 @@ ambitious project that attempts to uncover the mysteries surrounding the
 occult. Please join us for the opening reception Friday, May 9, 2014 8pm - 
 11pm. The artist will also be present during the event. 
 
-â€œUnsubstantiated claims of bizarre behavior that are difficult to prove or 
+“Unsubstantiated claims of bizarre behavior that are difficult to prove or 
 disproveâ€ 
 - Kenneth V Lanning, Special Agent for the FBI Behavioral Science Unit 
 (1992)
@@ -36,7 +37,7 @@ performing Satanic Ritual Abuse (SRA) on unsuspecting victims regularly.
 The initial investigations into SRA were conducted by anthropologists and 
 sociologists, who failed to find evidence of SRA actually occurring; instead 
 they concluded that SRA was a result of rumors and folk legends that were 
-spread by â€œmedia hype, Christian fundamentalism, mental health and law 
+spread by “media hype, Christian fundamentalism, mental health and law 
 enforcement professionals and child abuse advocatesâ€  (The Dilemma of 
 Ritual Abuse: Cautions and Guides for Therapists. Fraser, GA - 1997). 
 Nonetheless Satanic Ritual Abuse became a moral panic that seemed to 

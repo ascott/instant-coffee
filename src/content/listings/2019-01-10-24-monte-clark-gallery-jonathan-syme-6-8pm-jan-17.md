@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 24
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Jonathan Syme | 6-8pm | JAN 17"
 ---
 

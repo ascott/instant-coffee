@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 8
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | Take Your Time | OCT 30"
 ---
 

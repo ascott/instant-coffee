@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 12
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Talk: Mohammed Salemy | FEB 24"
 ---
 
-ENCYCLONOSPACE IRANICA: Talk with Curator â€“ in â€“ Residence 
+ENCYCLONOSPACE IRANICA: Talk with Curator – in – Residence 
 Mohammed Salemy
 
-Sunday February 24, 2 â€“ 4pm,
+Sunday February 24, 2 – 4pm,
 Access Gallery, 222 East Georgia St.
 
-Access invites you to an informal afternoon with the galleryâ€™s curator-in-
+Access invites you to an informal afternoon with the gallery’s curator-in-
 residence. Mohammad Salemy has been involved with a project titled 
 ENCYCLONOSPACE IRANICA, an extensive curatorial research initiative that 
 engages with diasporic Iranian artists and other knowledge producers. Instead 

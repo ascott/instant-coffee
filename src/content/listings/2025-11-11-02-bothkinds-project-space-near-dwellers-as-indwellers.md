@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Bothkinds Project Space"
 summary: "Bothkinds Project Space | Near Dwellers as Indwellers"
 ---
 

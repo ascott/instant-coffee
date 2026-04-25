@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 5
 type: "EVENT"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Keg de Souza - Appetite for Construction | NOV 4"
 ---
 

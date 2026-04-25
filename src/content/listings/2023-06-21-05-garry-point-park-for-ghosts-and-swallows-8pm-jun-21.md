@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 5
 type: "PERFORMANCE"
+venue: "Garry Point Park"
 summary: "Garry Point Park | For ghosts and swallows | 8PM | JUN 21"
 ---
 

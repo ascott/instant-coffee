@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 21
 type: ""
+venue: "The Banff Centre"
 summary: "The Banff Centre | Call: Visual Arts Thematic Residencies | DEC 16"
 ---
 

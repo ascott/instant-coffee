@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 28
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Ruscha + Bismuth: Miracles and Missing Pieces | MAY 31"
 ---
 

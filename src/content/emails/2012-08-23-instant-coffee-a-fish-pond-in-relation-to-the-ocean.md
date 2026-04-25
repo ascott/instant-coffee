@@ -12,12 +12,12 @@ listingCount: 30
 
 instant coffee listings / send us your art posts for free 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-08-23-01-other-sights-for-artists-projects-commissioned-text-by-randy">01. Other Sights for Artists' Projects | ComÂ­misÂ­sioned Text by Randy Lee Cutler | AUG 23</a>
+<a href="/instant-coffee/listings/2012-08-23-01-other-sights-for-artists-projects-commissioned-text-by-randy">01. Other Sights for Artists' Projects | Com­mis­sioned Text by Randy Lee Cutler | AUG 23</a>
 <a href="/instant-coffee/listings/2012-08-23-02-access-gallery-fag-satellite-aug-24">02. Access Gallery | FAG Satellite | AUG 24</a>
 <a href="/instant-coffee/listings/2012-08-23-03-manomano-the-stag-library-and-access-gallery-the-2nd-annual-">03. manomano, The STAG Library and Access Gallery | The 2nd Annual CRAFT PRIDE PROCESSION | AUG 24</a>
 <a href="/instant-coffee/listings/2012-08-23-04-richmond-art-gallery-haiku-poetry-slam-aug-24">04. Richmond Art Gallery | HAIKU POETRY SLAM | AUG 24</a>
 <a href="/instant-coffee/listings/2012-08-23-05-exercise-tiziana-la-melia-aug-25">05. Exercise | Tiziana La Melia | AUG 25</a>
-<a href="/instant-coffee/listings/2012-08-23-06-kootenay-school-of-writing-im-in-you-youre-in-me-concl-aug-2">06. Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me [Concl.] | AUG 25</a>
+<a href="/instant-coffee/listings/2012-08-23-06-kootenay-school-of-writing-im-in-you-youre-in-me-concl-aug-2">06. Kootenay School of Writing | I’m In You, You’re In Me [Concl.] | AUG 25</a>
 <a href="/instant-coffee/listings/2012-08-23-07-or-gallery-michael-turner-beach-talks-3-aug-25">07. Or Gallery | Michael Turner Beach Talks 3 | AUG 25</a>
 <a href="/instant-coffee/listings/2012-08-23-08-weekend-leisure-annual-karaoke-block-party-aug-25">08. Weekend Leisure | ANNUAL KARAOKE BLOCK PARTY! | AUG 25</a>
 <a href="/instant-coffee/listings/2012-08-23-09-arts-in-the-heart-of-mt-pleasant-aug-30">09. Arts in the Heart - of Mt. Pleasant. | | AUG 30</a>
@@ -30,16 +30,16 @@ instant coffee listings / send us your art posts for free
 16. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-08-23-01-other-sights-for-artists-projects-commissioned-text-by-randy">01. Other Sights for Artists' Projects | ComÂ­misÂ­sioned Text by Randy Lee Cutler | AUG 23</a>
+<a href="/instant-coffee/listings/2012-08-23-01-other-sights-for-artists-projects-commissioned-text-by-randy">01. Other Sights for Artists' Projects | Com­mis­sioned Text by Randy Lee Cutler | AUG 23</a>
 ------------------------------------------------------------------------
 Other Sights for Artists' Projects
 
-ComÂ­misÂ­sioned Text
+Com­mis­sioned Text
 
-InforÂ­mal ComÂ­muÂ­niÂ­ties:
-CelesÂ­tial, TerÂ­resÂ­trial and SubÂ­terÂ­ranean Movements
-Other Sights for Artistsâ€™ Projects is pleased to announce a recent addition to 
-our Commissioned Texts series: â€œInformal Communities: Celestial, Terrestrial 
+Infor­mal Com­mu­ni­ties:
+Celes­tial, Ter­res­trial and Sub­ter­ranean Movements
+Other Sights for Artists’ Projects is pleased to announce a recent addition to 
+our Commissioned Texts series: “Informal Communities: Celestial, Terrestrial 
 and Subterranean Movementsâ€  by Randy Lee Cutler.
 
 http://www.othersights.ca/informal-communities-pdf
@@ -52,9 +52,9 @@ architecture, and eco-philosophy; design charrettes to prototype containers
 for urban farming; drop-in workshops on urban farming; and events such as 
 the Grow Seed Exchange that brought people together to share knowledge, 
 skills and ideas. Written in response to her conversations with the artist and 
-from her perspective as a participant in many of Growâ€™s activities, Cutler 
-foregrounds her observations and thoughts about the projectâ€™s evolution 
-against a backdrop of weather reports. This strategy positions Schmidtâ€™s work 
+from her perspective as a participant in many of Grow’s activities, Cutler 
+foregrounds her observations and thoughts about the project’s evolution 
+against a backdrop of weather reports. This strategy positions Schmidt’s work 
 at the confluence of art and daily experience.
 
 Randy Lee Cutler is an associate professor at Emily Carr University in the 
@@ -76,7 +76,7 @@ photography and social change.
 Informal Communities is the latest addition to Other Sights Commissioned 
 Text series. Other essays include Last Chance by Bruce Grenville, Take the 
 Road to the Future Now by Jordan Strom, and The Transcendental Monument 
-by Holly Ward. Other Sightsâ€™ print publications include Digital Natives, edited 
+by Holly Ward. Other Sights’ print publications include Digital Natives, edited 
 by Lorna Brown and Clint Burnham, and T&T: False Creek with foreword by 
 Patrick Andersson and essay by Jordan Strom.
 
@@ -95,8 +95,8 @@ This fall the Feminist Art Gallery (FAG) Satellite @ Access Gallery offers an
 active and inclusive space for dialogue surrounding Feminist practices, 
 showcasing the work of emerging Canadian Feminist artists: Chase Joynt, 
 Alexis Mitchell, Heidi Nagtegaal, Ariel Smith, Valerie Salez, and Sharlene 
-Bamboat. With a belief in artâ€™s ability to create social change, The Feminist 
-Art Gallery is â€“ a response, a process, a site, a protest, an outcry, an 
+Bamboat. With a belief in art’s ability to create social change, The Feminist 
+Art Gallery is – a response, a process, a site, a protest, an outcry, an 
 exhibition, a performance, an economy, a conceptual framework, a place and 
 an opportunity. FAG is a Toronto-based gallery in the renovated garage of 
 Allyson Mitchell and Deirdre Logue opened in 2010 with a mission to grow 
@@ -107,7 +107,7 @@ web of matronage whereby people and institutions contribute to a pool of
 resources insuring that artists will always be paid for exhibiting their work.
 
 Commencing on August 24th, in conjunction with the 2nd annual Craft Pride 
-Procession, Mitchell and Logue will carry their Canâ€™t/Wonâ€™t banners to 
+Procession, Mitchell and Logue will carry their Can’t/Won’t banners to 
 Access Gallery and install them on the gallery walls for the duration of the 
 project. During subsequent weeks FAG has invited this broad mix of Canadian 
 Feminist artists to transform Access through installation, screenings, and 
@@ -145,14 +145,14 @@ Borden's feminist cult classic 1983 science fiction film in all its 16mm glory.
 The film will by introduced by FAG Co-founders Deirdre Logue and Allyson 
 Mitchell.
 
-â€˜Born in Flames poses the question of whether oppression against women will 
-be eliminated under any kind of social system. [â€¦] It is a fantasy presenting 
+‘Born in Flames poses the question of whether oppression against women will 
+be eliminated under any kind of social system. […] It is a fantasy presenting 
 a group of women who, confronted with the very â€œordinaryâ€  oppression women 
 have been experiencing for decades, refuse to take it any longer and become 
 armed fighters against the government. Their position is that oppression 
 against women is not eliminated automatically with â€œsocialismâ€  â€“ not only do 
 political values have to change, cultural values must change and become 
-embedded in practice.â€™ â€” Lizzie Borden in Heresies #16, 1983
+embedded in practice.’ — Lizzie Borden in Heresies #16, 1983
 
 Sarah Todd, Curator of Media Arts at the Western Front will also give a short 
 talk about the Cinenova collection of which Born in Flames is a part of.
@@ -160,7 +160,7 @@ talk about the Cinenova collection of which Born in Flames is a part of.
 Other Upcoming events/installations for FAG @ Access include;
 
 August 25-September 6 Deirdre Logue and Allyson Mitchell (Toronto) 
-CANâ€™T/WONâ€™T
+CAN’T/WON’T
 
 September 7-13 Chase Joynt (Toronto) RESISTERECTOMY
 
@@ -175,7 +175,7 @@ September 26-October 02 Ariel Smith (Ottawa) Little girl/ugly girl/not bad/just
 evil girl
 October 03-06 Valerie Salez (Canada) In the shadow of my own dust
 
-October 07-14 Sharlene Bamboat (Toronto) The Queenâ€™s Punishment
+October 07-14 Sharlene Bamboat (Toronto) The Queen’s Punishment
 
 Access Gallery gratefully acknowledges the Canada Council for the Arts, BC 
 Arts Council, City of Vancouver, our members and volunteers. Access is a 
@@ -295,16 +295,16 @@ Pyramid Power, W, Pelt, and West Coast Line.
 A print edition and a publication by La Melia will be launched at the end of the 
 exhibition. The publication includes a collection of poems, short stories, 
 anecdotes and an essay by contributors: Julia Feyrer, Kayla Guthrie, Tamara 
-Henderson, Oscar HÃ¼ber, Jen Hutton, Maryse Lariviere, Michael Loncaric, 
+Henderson, Oscar Hüber, Jen Hutton, Maryse Lariviere, Michael Loncaric, 
 Nicolas Matranga, and Lisa Robertson.
 
 Gallery hours 12-5 Friday and Saturday (ring buzzer)
 Or by appointment
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-08-23-06-kootenay-school-of-writing-im-in-you-youre-in-me-concl-aug-2">06. Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me [Concl.] | AUG 25</a>
+<a href="/instant-coffee/listings/2012-08-23-06-kootenay-school-of-writing-im-in-you-youre-in-me-concl-aug-2">06. Kootenay School of Writing | I’m In You, You’re In Me [Concl.] | AUG 25</a>
 ------------------------------------------------------------------------
-Iâ€™m In You, Youâ€™re In Me [Concl.]
+I’m In You, You’re In Me [Concl.]
 
 A Kootenay School of Writing summer series of poets presenting poems / 
 antipoems / language. 
@@ -354,7 +354,7 @@ To surrendor to loss
 
 Animageis captivating
 You know Toshow Lay
-bare Stairs whose steps donâ€™t
+bare Stairs whose steps don’t
 follow
 Expose your color
 
@@ -457,10 +457,10 @@ beings, and enjoying the fame of their passed selves, make accumulation of
 glory unto their last durations. Others rather than be lost in the uncomfortable 
 night of nothing, were content to recede into the common being, and make 
 one particle of the publick soul of all things, which was no more than to return 
-into their unknown and divine Originall again. Ã†gyptian ingenuity was more 
+into their unknown and divine Originall again. Ægyptian ingenuity was more 
 unsatisfied, continuing their bodies in sweet consistences, to attend the 
 return of their souls. But all was vanity, feeding the winde, and folly. The 
-Ã†gyptian Mummies, which Cambyses or time hath spared, avarice now 
+Ægyptian Mummies, which Cambyses or time hath spared, avarice now 
 consumeth. Mummie is become Merchandise, Miszraim cures wounds, and 
 Pharaoh is sold for balsoms.
 
@@ -473,18 +473,18 @@ There were no visitors about on that leaden-grey day shortly before Christmas,
 not even the obligatory group of schoolchildren one inevitably encounters in 
 such a place. But as if they had come to people this deserted stage, a squad 
 of characters in Napoleonic costume suddenly appeared tramping up and 
-down the few streets, beatÂ¬ing drums and blowing fifes; and bringing up the 
+down the few streets, beat¬ing drums and blowing fifes; and bringing up the 
 rear was a slatternly, garishly made-up sutler woman pulling a curious 
-handÂ¬cart with a goose shut in a cage. For a while I watched these 
+hand¬cart with a goose shut in a cage. For a while I watched these 
 mummers, who seemed to be in perpetual motion, as they disappeared 
 amongst the buildings only to re-emerge elsewhere. At length I bought a 
 ticket for the Waterloo Panorama, housed in an immense domed rotunda, 
-where from a raised platform in the middle one can view the battle â€” a 
-favourite subject with panorama artists â€” in every direction. It is like being at 
+where from a raised platform in the middle one can view the battle — a 
+favourite subject with panorama artists — in every direction. It is like being at 
 the centre of events. On a sort of landscaped proscenium, immediately below 
 the wooden rail amidst tree-stumps and undergrowth in the blood-stained 
 sand, lie lifesize horses, and cut-down infantrymen, hussars and chevaux-
-lÃ©gers, eyes rolling in pain or already extinguished. Their faces are moulded 
+légers, eyes rolling in pain or already extinguished. Their faces are moulded 
 from wax but the boots, the leather belts, the weapons, the cuirasses, and 
 the splendidly coloured uniforms, probably stuffed with eelgrass, rags and the 
 like, are to all appearances authentic. Across this horrific three-dimensional 
@@ -500,7 +500,7 @@ The night after the battle, the air must have been filled with death rattles and
 groans. Now there is nothing but the silent brown soil. Whatever became of 
 the corpses and mortal remains? Are they buried under the memorial? Are we 
 standing on a mountain of death? Is that our ultimate vantage point? Does one 
-really have the much-vaunted historÂ¬ical overview from such a position? 
+really have the much-vaunted histor¬ical overview from such a position? 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-08-23-07-or-gallery-michael-turner-beach-talks-3-aug-25">07. Or Gallery | Michael Turner Beach Talks 3 | AUG 25</a>
@@ -508,7 +508,7 @@ really have the much-vaunted historÂ¬ical overview from such a position?
 TALK
 
 Michael Turner 
-Beach Talks 3: Mic Check: Protesting, Protesting, One, Two, Threeâ€¦ 
+Beach Talks 3: Mic Check: Protesting, Protesting, One, Two, Three… 
 Saturday, August 25, 4PM 
 Kitsilano Beach
 (map of approximate location)
@@ -518,7 +518,7 @@ arsenal. While known primarily as an information delivery system, one which
 involves a conductor and a partisan audience (where amplification equipment 
 is forbidden), it is also deployed as a critical response mechanism designed 
 to interrupt/inform speakers and audiences who have electronic amplification 
-at their disposal â€” a dual function that alludes to definitions of ideology as 
+at their disposal — a dual function that alludes to definitions of ideology as 
 both a belief system and that which masks conditions perpetuated by belief 
 systems.
 
@@ -529,7 +529,7 @@ described as â€œcreepy.â€  The question I am interested in is why a syste
 effective should unsettle those it helps to empower? To assist us (in what I 
 hope will be more a seminar-style discussion than a lecture) I will include 
 several historical examples, such as the â€œGreek Chorusâ€  in Sophoclesâ€™s 
-Antigone (c. 441 BC), Carl Orffâ€™s Antigonae (1949), Pete Seegerâ€™s version of 
+Antigone (c. 441 BC), Carl Orff’s Antigonae (1949), Pete Seeger’s version of 
 â€œWe Shall Overcomeâ€ , and the use of unison sonic structures in trance and 
 techno music.
 
@@ -541,14 +541,14 @@ Gov. Scott Walker mic checked
 
 Greek Chorus
 
-Carl Orffâ€™s Antigone
+Carl Orff’s Antigone
 
 Pete Seeger
 
 trance riff
 
 Michael Turner is a Vancouver-based writer of fiction, criticism and song. His 
-books include Hard Core Logo, The Pornographerâ€™s Poem and 8Ã—10, and his 
+books include Hard Core Logo, The Pornographer’s Poem and 8×10, and his 
 reviews have appeared in magazines such as Art on Paper, Art Papers, 
 Canadian Art and Modern Painters. He has also written numerous essays on 
 local/historical interdisciplinary practices of the 1960s and 70s, in addition to 
@@ -636,7 +636,7 @@ she has had exhibitions at the Banff Centre, Richmond Art Gallery and Centre
 A. Her most recent exhibition in 2011 was at the Himalayas Art Museum in 
 Shanghai.
 
-June Yunâ€™s artwork builds on the edge of Eastern and Western cultures. 
+June Yun’s artwork builds on the edge of Eastern and Western cultures. 
 Through her life/ travel experiences from East to West, and then looking back 
 at the East, she transforms her appreciations and struggles into visual forms: 
 oil painting, drawing, video and installation. Those framed thoughts are 
@@ -666,7 +666,7 @@ Li, Qin Shen, Howard Ursuliak, Weide Xu, Siming Yang, Qin Zhao
 
 Curated by Wei Xia
 
-A series of exhibitions â€œSpace beyond the Boxes â€“ The Choice of 
+A series of exhibitions “Space beyond the Boxes – The Choice of 
 Destinyâ€  was launched in Shangdong Contemporary Arts Center in 
 Nanjing, China in May 2011.
 
@@ -724,7 +724,7 @@ gone by people were familiar with stories told through the spoken and
 written word and pictures because they usually depicted events from 
 religious life, history, and traditions or communicated prevailing myths 
 and legends. Today, however, in our pluralistic, postmodern society, we 
-cannot simply assume commonalities of experienceâ€”there is no single 
+cannot simply assume commonalities of experience—there is no single 
 narrative. Instead, the artists in Odd Occurrences offer a rich mixture of 
 fabricated narratives derived from personal experience, cultural origins, 
 current events, dreams, myths, and folk-tales. Telling their tales with 
@@ -734,19 +734,19 @@ of found and newly invented imagery. These open-ended, nonlinear
 narratives, often stories suggested but not fully realized, allow for 
 multiple levels of viewer interpretation.
 
-Kristin Bjornerudâ€™s watercolours derive from personal narratives, 
+Kristin Bjornerud’s watercolours derive from personal narratives, 
 memories, and dreams often inspired by folk tales and magic realism. 
 Her female protagonists engage in acts of labour, struggles, and 
 ritualistic behaviour in invented landscapes or undefined dream-like 
 spaces.
 
-Tamara Bondâ€™s new mixed media works on canvas and paper combine 
+Tamara Bond’s new mixed media works on canvas and paper combine 
 a colourful and dizzying array of characters and narratives in magical 
 worlds based on real events and experiences, dreams, and myths. 
 Balancing beauty and darkness, her drawings are filled with hybrid 
 creatures, scale distortions, and fantasy landscapes.
 
-Tomoyo Ihayaâ€™s mixed media images stem from her extended visits to a 
+Tomoyo Ihaya’s mixed media images stem from her extended visits to a 
 remote region in northern India where the residents carry on their lives 
 with rudimentary amenities, cooking over fire pits without running water 
 and electricity. Informed by her practice of Tibetan Buddism, she 
@@ -848,13 +848,13 @@ For further information please contact onmain@gmail.com
 ------------------------------------------------------------------------
 
 TRENCH Gallery, 148 Alexander Street
-Sept 6 â€“ Oct 13
+Sept 6 – Oct 13
 Photographs and New Sculpture
 Opening Reception Friday, Sept 7, 6-9pm
 
 TRENCH Annex at the EAST VAN STUDIOS, 870 East Cordova Street
 3 Days only Sept 7,8,9
-4 Channel Video Installation â€“ Entitled: I Won't Take Your Hand Monsieur 
+4 Channel Video Installation – Entitled: I Won't Take Your Hand Monsieur 
 Manet, I Have Not Washed in Eight Days.
 Opening Reception Friday, Sept 7, 6-9pm
 
@@ -870,21 +870,21 @@ investigates our tendency to adopt differing personas, as a means to mediate
 the space between ourselves and society. The show also includes a series of 
 assemblage sculptures which address issues of social expression and 
 constraint, historical reference, authenticity and personal mortality. Lewis 
-believes found materials, as Heidegger put it, create â€œa kind of knowing-how 
-rather than knowing-thatâ€¦what is most important and meaningful in our lives 
+believes found materials, as Heidegger put it, create “a kind of knowing-how 
+rather than knowing-that…what is most important and meaningful in our lives 
 is not and should not be accessible to critical reflection.â€ 
 
-A 4 channel video installation at Trench Annex: I Wonâ€™t Take Your Hand 
-Monsieur Manet, I Have Not Washed in Eight Days, continues Lewisâ€™s 
+A 4 channel video installation at Trench Annex: I Won’t Take Your Hand 
+Monsieur Manet, I Have Not Washed in Eight Days, continues Lewis’s 
 exploration of re-enacting alternative personas, by appropriating the identity of 
 Cezanne washing himself in all the fountains of Aix-en-Provence. Inspired by 
-Cezanneâ€™s small strokes of warm and cool colours as an alternative to 
+Cezanne’s small strokes of warm and cool colours as an alternative to 
 perspective, his decades-long play with temporal looping of film and video, 
-both Cezanneâ€™s and Manetâ€™s instigation of modern art, and Duchampâ€™s 
+both Cezanne’s and Manet’s instigation of modern art, and Duchamp’s 
 Fountain, Lewis creates a process-present work that merges a temporal 
 relationship between the past and future. These â€œbath[s] of knowledgeâ€  in 
 nature (as Cezanne described it), appropriate the tinkling and rushing of the 
-fountains as well, and, as Duchamp states: â€œwhether Mr. Mutt with his own 
+fountains as well, and, as Duchamp states: “whether Mr. Mutt with his own 
 hands made the fountain or not has no importance. He chose it.â€ 
 
 For more information please contact Trench at 604-681-2577.

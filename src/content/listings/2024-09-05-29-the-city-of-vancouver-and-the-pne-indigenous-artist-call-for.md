@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 29
 type: "CALL"
+venue: "The City of Vancouver and the PNE"
 summary: "The City of Vancouver and the PNE | Indigenous artist call for PNE Amphitheatre | OCT 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 1
 type: ""
+venue: "ECU: On Edge readings series"
 summary: "ECU: On Edge readings series | Erin Moure | FEB 10"
 ---
 
@@ -17,10 +18,10 @@ at the Emily Carr University Library
 Granville Island, Vancouver
 Coast Salish Territories
 
-Montreal poet ErÃ­n Moure writes mainly in English, albeit multilingually.
+Montreal poet Erín Moure writes mainly in English, albeit multilingually.
 She considers translation to be part of her practice, and has translated
 Nicole Brossard (with Robert Majzels), Galician poet Chus Pato, Chilean
-AndrÃ©s Ajens, as well as the famed modernist Portuguese poet Fernando
+Andrés Ajens, as well as the famed modernist Portuguese poet Fernando
 Pessoa, among others. In her own most recent books, O Cadoiro and O
 Resplandor (both from Anansi), poetry becomes hybrid and even the author's
 name and signature are altered and invented in the process of dealing with

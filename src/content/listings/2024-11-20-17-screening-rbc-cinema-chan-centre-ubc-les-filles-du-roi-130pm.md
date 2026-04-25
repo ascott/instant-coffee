@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | RBC Cinema, Chan Centre UBC | Les Filles du Roi | 130PM | NOV 26"
 ---
 

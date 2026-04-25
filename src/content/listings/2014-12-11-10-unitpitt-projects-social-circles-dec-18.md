@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 10
 type: "OPENING"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | SOCIAL CIRCLES | DEC 18"
 ---
 

@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 10
 type: ""
-summary: "Dynamo Arts Association | Itâ€™s A Long Story | JUL 26"
+venue: "Dynamo Arts Association"
+summary: "Dynamo Arts Association | It’s A Long Story | JUL 26"
 ---
 
 Dynamo Arts Association presents,
 
-Itâ€™s A Long Story
+It’s A Long Story
 
-July 26thÂ­ - August 5th
+July 26th­ - August 5th
 
-Opening receptionÂ­ - July 26th at 7PM
+Opening reception­ - July 26th at 7PM
 
 30 e.6th ave
 
-Viewing by appointmentÂ­ - (604) Â­516 Â­9551
+Viewing by appointment­ - (604) ­516 ­9551
 
 Tommy Chain
 
@@ -31,7 +32,7 @@ Mike Lachman
 
 Stephan Wright
 
-Itâ€™s A Long Story recounts particular understandings of a multidimensional 
+It’s A Long Story recounts particular understandings of a multidimensional 
 notion of the
 
 interior within the parameters of a given exhibition space. The exhibition 

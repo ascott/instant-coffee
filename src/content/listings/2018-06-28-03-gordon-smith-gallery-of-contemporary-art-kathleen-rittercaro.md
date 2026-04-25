@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 3
 type: "TALK"
+venue: "Gordon Smith Gallery of Contemporary Art"
 summary: "Gordon Smith Gallery of Contemporary Art | Kathleen Ritter,Carol Sawyer,Kimberly Phillips | 7PM | JUN 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 19
 type: "EVENT"
+venue: "312 Main, Vancouver, BC"
 summary: "312 Main, Vancouver, BC | *Our Networks 2024: Does not (cloud) compute* | JUL 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: coughing up not passing the buck"
 emailDate: "Thu, 02 Sep 2010 12:40:18 -0700"
 number: 24
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | 125th Anniversary Grants Program | OCT 1"
 ---
 

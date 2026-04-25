@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 19
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | MEXICAN MODERNISM with Audain Curator Grant Arnold | DEC 14"
 ---
 

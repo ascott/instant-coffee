@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 9
 type: "EXHIBITION"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Designing Death | OPENING MARCH 29+30 | FEB 8"
 ---
 

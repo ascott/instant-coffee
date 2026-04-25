@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this is not a limited edition"
 emailDate: "Thu, 14 May 2009 09:10:11 -0700"
 number: 9
 type: ""
+venue: "221A Artist Run Centre"
 summary: "221A Artist Run Centre | HALVING by Joji Fukushima | MAY 22"
 ---
 

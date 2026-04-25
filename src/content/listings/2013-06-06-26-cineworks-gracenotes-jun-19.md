@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 26
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | GRACENOTES | JUN 19"
 ---
 

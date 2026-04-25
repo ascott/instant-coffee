@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 11
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Grad Show 2008 | APR 13"
 ---
 
@@ -12,14 +13,14 @@ Hours
 
 Tue.- Sat. 12pm - 6pm
 
-April 14- â€œ April 30, 2011; Grad Show 2008: Visual Art 
+April 14- “ April 30, 2011; Grad Show 2008: Visual Art 
 Graduation Exhibition
 
 Opening: April 13, 7 - 10pm
 
 Nikita Alagappa, Elena Boulankova, Ryan Chow, Michelle Lui, Laura 
 McKillop, Monica Rudd, David Stein, Vikram Uchida-Khanna, Alexis 
-Vanderveen, LÃµrinc Vass, Jason Wang, and Nathaniel Wong
+Vanderveen, Lõrinc Vass, Jason Wang, and Nathaniel Wong
 The School for the Contemporary Arts and the Audain Gallery is 
 pleased to announce Grad Show 2008, the 2011 graduation 
 exhibition of undergraduate visual arts students. The title of this 

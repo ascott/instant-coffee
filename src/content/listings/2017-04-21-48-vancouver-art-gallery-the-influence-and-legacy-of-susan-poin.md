@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 48
 type: "TALK"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | The Influence and Legacy of Susan Point | MAY 2"
 ---
 

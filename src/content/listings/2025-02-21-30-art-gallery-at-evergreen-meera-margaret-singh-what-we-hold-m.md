@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 30
 type: "OPENING"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Meera Margaret Singh: What We Hold? | MAR 22"
 ---
 

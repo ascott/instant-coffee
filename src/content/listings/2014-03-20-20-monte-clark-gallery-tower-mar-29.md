@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 20
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | TOWER | MAR 29"
 ---
 

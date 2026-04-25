@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | The Noisebau Puppets Forsaken | SEP 5"
 ---
 

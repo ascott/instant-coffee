@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: How Now Is Too Soon"
 emailDate: "Thu, 05 Feb 2009 09:30:10 -0800"
 number: 5
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | CINEMATIC STAGECRAFT | FEB 7"
 ---
 

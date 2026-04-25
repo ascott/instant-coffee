@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 36
 type: ""
+venue: "Lipont Place"
 summary: "Lipont Place | Tong Fang; Escape | APR 7"
 ---
 

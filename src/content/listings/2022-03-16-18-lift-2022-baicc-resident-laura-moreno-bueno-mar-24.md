@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 18
 type: "TALK"
+venue: "LIFT"
 summary: "LIFT | 2022 BAICC RESIDENT LAURA MORENO BUENO | MAR 24"
 ---
 

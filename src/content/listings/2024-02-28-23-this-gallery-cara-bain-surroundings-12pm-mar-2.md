@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 23
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Cara Bain - Surroundings | 12PM | MAR 2"
 ---
 

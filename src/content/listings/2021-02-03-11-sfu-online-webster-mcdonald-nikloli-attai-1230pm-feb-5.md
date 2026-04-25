@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 11
 type: "TALK"
+venue: "SFU [ONLINE]"
 summary: "SFU [ONLINE] | Webster McDonald & Nikloli Attai | 1230PM | FEB 5"
 ---
 

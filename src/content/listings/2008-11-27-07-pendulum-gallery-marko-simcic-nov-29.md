@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 7
 type: ""
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | MARKO SIMCIC | NOV 29"
 ---
 
@@ -24,7 +25,7 @@ Tow trucks arrive at 6 pm to relocate the sculptures to Ontario Street
 
 Park is a project for the Ontario Street Greenway by Vancouver-based artist
 and architect Marko Simcic. Commissioned by the City of
-VancouverÃ¢&#65533;&#65533;s Public
+Vancouverâ&#65533;&#65533;s Public
 Art Program, Park consists of two mobile, stainless steel sculptures, each
 approximately the size and weight of a small automobile. Currently on view
 at the Pendulum Gallery, the exhibition will conclude with a literal launch
@@ -32,7 +33,7 @@ of the project onto the streets of Vancouver. The sculptures will occupy
 curb lane parking spots and will be relocated from time to time to various
 addresses along Ontario Street. Whether adjacent to public sites such as
 schools or parks, commercial properties, or permitted to occupy residential
-parking through their Ã¢&#65533;&#65533;adoptionÃ¢&#65533;&#65533; by Ontario
+parking through their â&#65533;&#65533;adoptionâ&#65533;&#65533; by Ontario
 Street residents, Park tracks
 the many forms by which the street, our most symbolic public space, is
 regulated.
@@ -58,7 +59,7 @@ theatre artists. She has recently completed recording a CD of improvised
 duets with 13 of Vancouver's top musicians. Stefan Smulovitz is renowned
 for his "quicksilver ability to morph and manipulate sound via digital
 technology" (Georgia Straight). He is a performer on both laptop and viola,
-and has created over 60 live scores for film. StefanÃ¢&#65533;&#65533;s
+and has created over 60 live scores for film. Stefanâ&#65533;&#65533;s
 compositions have
 been performed by the Vancouver Symphony Orchestra, Turning Point, Ensemble
 Symposium, Chor Leoni, Electra, the Sonic Boom Festival from 2002-2007 and

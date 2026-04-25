@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 3
 type: "OPENING"
+venue: "Jennifer Kostuik Gallery"
 summary: "Jennifer Kostuik Gallery | Artist Talk and Reception: Brent Comber | FEB 9"
 ---
 
@@ -13,15 +14,15 @@ Thursday evening, Februrary 9th, 5:30-8pm.
 Please join us for an evening of stories, discussion, and an open 
 invition to touch the art work!
 
-When Brent Comber was given wood from one of Canadaâ€™s oldest 
+When Brent Comber was given wood from one of Canada’s oldest 
 known trees located in near the Capilano River in North Vancouver BC, 
 he did not realize that working with this ancient material would have 
 such a profound effect on him. The powerful history of the tree, 
 including the many different communities that had inhabited the area 
 over the centuries, inspired him to look backward in time. Working with 
 this significant material triggered a desire to create art that would 
-engage the viewerâ€™s curiosity while also revealing the entire story of the 
-tree. Thus the inspiration for Comberâ€™s art stems from his connection 
+engage the viewer’s curiosity while also revealing the entire story of the 
+tree. Thus the inspiration for Comber’s art stems from his connection 
 to the basic material used in his work. This connection has everything 
 to do with personal history, a sense of place in the region and the 
 community in which the artist was born. 
@@ -35,11 +36,11 @@ well as to themselves. It is his interpretation of the natural world that
 drives Brent to create art works that reflect the stories that surround 
 him.
 
-Comberâ€™s art is created for indoor and outdoor applications. A natual 
+Comber’s art is created for indoor and outdoor applications. A natual 
 story teller, the artist will discuss the inspiration and application choices 
 behind his Alder Disk, Solid Spheres, Shattered Spheres and his 
 Sentinal Series. It is this notion of changing perceptions that drives 
-Comberâ€™s art, his desire to convey the physicality that occurs when 
+Comber’s art, his desire to convey the physicality that occurs when 
 working with wood and to reveal how his process hopes to unfold the 
 unique energy that exists within this universal material.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 28
 type: "PERFORMANCE"
+venue: "The Dance Centre and New Works"
 summary: "The Dance Centre and New Works | Family Room (world premiere) | APR 19"
 ---
 

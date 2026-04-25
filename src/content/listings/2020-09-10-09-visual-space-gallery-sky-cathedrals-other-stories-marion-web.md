@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Visual Space Gallery"
 summary: "Visual Space Gallery | Sky Cathedrals & Other Stories | Marion Webber | SEP 11"
 ---
 

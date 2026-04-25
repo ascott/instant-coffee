@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 21
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Billy-Ray Belcourt | 7PM | SEP 12"
 ---
 

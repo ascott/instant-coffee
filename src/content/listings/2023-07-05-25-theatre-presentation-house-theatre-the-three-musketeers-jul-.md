@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 25
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Presentation House Theatre | The Three Musketeers | JUL 21"
 ---
 

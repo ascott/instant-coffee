@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 35
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | 16mm Basics: Intro to the Bolex | MAR 12"
 ---
 

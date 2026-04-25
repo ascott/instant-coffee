@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 11
 type: "TALK"
+venue: "Lulu Speaker Series"
 summary: "Lulu Speaker Series | Puya Khalili and Charlotte Wall | MAR 28"
 ---
 

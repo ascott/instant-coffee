@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 2
 type: ""
+venue: "Historic Stewart Farm"
 summary: "Historic Stewart Farm | Landscapes | Call for Submissions"
 ---
 

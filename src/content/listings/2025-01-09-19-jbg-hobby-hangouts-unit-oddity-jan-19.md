@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 19
 type: "EVENT"
+venue: "JBG"
 summary: "JBG | Hobby Hangouts: Unit Oddity | JAN 19"
 ---
 

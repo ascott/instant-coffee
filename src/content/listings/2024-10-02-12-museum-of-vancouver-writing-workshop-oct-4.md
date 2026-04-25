@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | Writing Workshop | OCT 4"
 ---
 

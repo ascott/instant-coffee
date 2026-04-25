@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 25
 type: ""
+venue: "Chilkoot Trail Artist Residency Program 2013"
 summary: "Chilkoot Trail Artist Residency Program 2013 | open for submissions | FEB 1"
 ---
 
 Chilkoot Trail Artist Residency Program 2013 is open for submissions
 
-Once again, weâ€™re hitting the Trail. 
+Once again, we’re hitting the Trail. 
 
 Together, the Yukon Arts Centre, Parks Canada and the US National Park 
-Service are seeking submissions for three visual artists â€“ one from Canada, 
+Service are seeking submissions for three visual artists – one from Canada, 
 one from the United States and one regional (Yukon or Alaskan residents) to 
 participate in an international creative journey within the Klondike Gold Rush 
 National Historic Park, Alaska and the Chilkoot Trail National Historic Site, 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 20
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | 3rd Biennale of Tabestoon Festival | Shipyards North Vancouver | AUG 25 + 26 | AUG 25"
 ---
 

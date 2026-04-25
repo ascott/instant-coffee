@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 27
 type: "CALL"
+venue: "Slow Wave Small Projects"
 summary: "Slow Wave Small Projects | JUN 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 2
 type: ""
+venue: "Luckys Gallery"
 summary: "Luckys Gallery | TIFFIN BREEN | FEB 10"
 ---
 

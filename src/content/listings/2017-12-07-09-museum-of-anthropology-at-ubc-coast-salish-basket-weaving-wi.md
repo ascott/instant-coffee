@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 9
 type: "EVENT"
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | COAST SALISH BASKET WEAVING WITH JESSICA SILVEY | DEC 9"
 ---
 

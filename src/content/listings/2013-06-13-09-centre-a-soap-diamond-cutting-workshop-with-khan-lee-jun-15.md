@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 9
 type: ""
+venue: "Centre A"
 summary: "Centre A | Soap Diamond Cutting Workshop with Khan Lee | JUN 15"
 ---
 
@@ -31,8 +32,8 @@ Refreshments will be served during the workshop.
 Limited to 20 participants! Please reserve your place by RSVP to
 info@centrea.org, or call 604-683-8326 before June 14.
 
-*Please note that due to the set-up of the workshop, the video â€˜hearts and
-arrowsâ€™ will not be available for viewing during the workshop. We apologize
+*Please note that due to the set-up of the workshop, the video ‘hearts and
+arrows’ will not be available for viewing during the workshop. We apologize
 for the inconvenience.
 Also of Note
 

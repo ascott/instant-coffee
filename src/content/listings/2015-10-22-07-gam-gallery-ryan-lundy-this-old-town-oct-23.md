@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 7
 type: "OPENING"
+venue: "Gam Gallery"
 summary: "Gam Gallery | Ryan Lundy: This Old Town | OCT 23"
 ---
 

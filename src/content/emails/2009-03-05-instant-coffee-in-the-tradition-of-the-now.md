@@ -52,7 +52,7 @@ collaborations, Miessen has published books such as "East Coast Europe"
 Participation" (Sternberg, 2007), "With/Withoutâ&#65533;&#65533;Spatial Products, Practices
 and Politics in the Middle East" (Bidoun, 2007), "Did Someone Say
 Participate? An Atlas of Spatial Practice" (MIT Press, 2006) and "Spaces of
-Uncertainty" (MÃ¼ller+Busmann, 2002). He frequently contributes to magazines
+Uncertainty" (Müller+Busmann, 2002). He frequently contributes to magazines
 and journals. His work has been exhibited and published widely, including
 at the Lyon, Venice, and Shenzhen Biennials. Miessen has taught and
 lectured internationally at institutions such as the Architectural
@@ -689,10 +689,10 @@ from characteristic approaches and methods of art making.
 
 PLEASE SUBMIT PROPOSALS FOR PARTICIPATION UNDER THE FOLLOWING GUIDELINES:
 
-10-20 digital images of recent workÂ¨
+10-20 digital images of recent work¨
 
 Still images should be in JPG format, at 1000 pixels wide on the longest
-side (this should create a file under 500kb)Â¨ Time-based work should be
+side (this should create a file under 500kb)¨ Time-based work should be
 hosted online (YouTube, Vimeo, personal side) with web address provided.
 
 Proposed use of time during residency lock-in and how you hope the

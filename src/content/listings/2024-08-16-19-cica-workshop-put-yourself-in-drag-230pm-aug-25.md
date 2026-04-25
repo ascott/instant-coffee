@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 19
 type: "EDUCATION"
+venue: "CICA"
 summary: "CICA | [WORKSHOP] Put Yourself in Drag | 230PM | AUG 25"
 ---
 

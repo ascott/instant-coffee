@@ -24,7 +24,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-02-07-11-presentation-house-gallery-geoffrey-james-on-lee-friedlander">11. TALK | Presentation House Gallery | Geoffrey James on Lee Friedlander | FEB 7</a>
 <a href="/instant-coffee/listings/2015-02-07-12-vag-the-poetics-of-space-artists-talk-and-tour-feb-10">12. TALK | VAG | The Poetics of Space Artists' Talk and Tour | FEB 10</a>
 <a href="/instant-coffee/listings/2015-02-07-13-seymour-art-gallery-make-re-make-un-make-feb-12">13. OPENING | Seymour Art Gallery | MAKE RE|MAKE UN|MAKE | FEB 12</a>
-<a href="/instant-coffee/listings/2015-02-07-14-seliyemetaxwtexw-art-gallery-paradigmconnectionsdoing-what-w">14. OPENING | Sâ€™ELIYEMETAXWTEXW Art Gallery | [PARADIGM]Connections:Doing what we love! | FEB 12</a>
+<a href="/instant-coffee/listings/2015-02-07-14-seliyemetaxwtexw-art-gallery-paradigmconnectionsdoing-what-w">14. OPENING | S’ELIYEMETAXWTEXW Art Gallery | [PARADIGM]Connections:Doing what we love! | FEB 12</a>
 <a href="/instant-coffee/listings/2015-02-07-15-two-rivers-gallery-new-exhibitions-elapsed-north-feb-12">15. OPENING | Two Rivers Gallery | New Exhibitions: Elapsed & North | FEB 12</a>
 <a href="/instant-coffee/listings/2015-02-07-16-screening-vivo-recent-acquisition-screening3-feb-12">16. SCREENING | VIVO | Recent Acquisition Screening#3 | FEB 12</a>
 <a href="/instant-coffee/listings/2015-02-07-17-screening-western-front-scriveners-monthly-casey-wei-michael">17. SCREENING | Western Front | Scrivener's Monthly: Casey Wei & Michael Turner | FEB 12</a>
@@ -52,16 +52,16 @@ Featuring an extensive body of works produced over 14 years by the artist
 
 January 28, 2015
 
-The Vancouver Art Galleryâ€™s critically acclaimed and enormously popular
+The Vancouver Art Gallery’s critically acclaimed and enormously popular
 exhibition Douglas Coupland: everywhere is anywhere is anything is
 everything is now available for the first time to audience from around the
 world through Google Art Project.
 (...)
 
-â€œThis is a groundbreaking project for the Vancouver Art Gallery. We are
+“This is a groundbreaking project for the Vancouver Art Gallery. We are
 excited to work with Google to expand our audience by permanently featuring
 Douglas Coupland: everywhere is anywhere is anything is everything online,â€ 
-said Kathleen S. Bartels, the Vancouver Art Galleryâ€™s Director. â€œWe hope to
+said Kathleen S. Bartels, the Vancouver Art Gallery’s Director. “We hope to
 engage visitors from around the globe to consider what defines contemporary
 culture through the artworks of Douglas Coupland.â€ 
 (...)
@@ -82,13 +82,13 @@ placed upside down but appearing right side up to the viewer. Across the
 display scroll phrases of valediction: â€œFarewell Libido;â€  â€œFarewell
 Hollywood;â€  â€œFarewell to the Idea of Infinite Growth.â€ 
 
-Itâ€™s like a funeral procession in words, evoking loss on a massive scale
+It’s like a funeral procession in words, evoking loss on a massive scale
 and reminding us of the things we may have taken for granted. Rounding out
 the mood of melancholy is a Handel aria, brought to the spectator through
 headphones. If this sounds grim, fear not: Verhoeven has the type of humour
 that makes us laugh in recognition. And while it may be a humbling
-experience, itâ€™s the humility of awe, not shame. Verhoeven turns public
-space into private worlds, work that straddles a paradox: itâ€™s an epic but
+experience, it’s the humility of awe, not shame. Verhoeven turns public
+space into private worlds, work that straddles a paradox: it’s an epic but
 intimate experience.
 
 Please note:
@@ -101,7 +101,7 @@ Advance online reservation highly recommended. If you do not reserve in
 advance, or are late for your reserved time, admission will be on a
 first-come-first-served basis.
 
-Advance reservations for the 4:00â€“6:30PM time slots are not available
+Advance reservations for the 4:00–6:30PM time slots are not available
 online; visitors will be received on a first-come-first-served basis only
 during this timeframe.
 
@@ -113,7 +113,7 @@ AHVA Gallery
 
 dagwinuu - an exhibition showcasing recent work by first year MFA Visual
 Art candidates.
-February 5 â€“ February 28, 2015
+February 5 – February 28, 2015
 Opening Reception: Wednesday, February 4th from 5 to 7 pm
 
 Please join the UBC Department of Art History, Visual Art & Theory (AHVA)
@@ -148,9 +148,9 @@ AVENUE, 165 e.Hastings
 
 viewing by appointment
 
-inÂ·tiÂ·maÂ·cy
+in·ti·ma·cy
 [in-tuh-muh-see]
-Noun, plural inÂ·tiÂ·maÂ·cies.
+Noun, plural in·ti·ma·cies.
 
 1.
 The state of being intimate.
@@ -215,7 +215,7 @@ In the conception and creation of the works that comprise Latent Image
 (Part One), McLean focuses on variant techniques that allow for
 reproduction of an image: stabilized photogenic drawing, salt paper
 printing, cyanotype, ferrotype, albumen printing and finally, photographs
-made with the Kodak 1â€”the first consumer oriented camera, patented in 1888.
+made with the Kodak 1—the first consumer oriented camera, patented in 1888.
 His intention throughout these contemporary reinterpretations is
 consistent, despite the manifold chemical and material variations involved
 in their production, reigniting interest in the way photographs are made
@@ -223,13 +223,13 @@ and perceived in our media-saturated society and allowing for fluid
 investigations of the medium itself.
 
 Mike Andrew McLean holds a BFA in Media Arts from NSCAD University, and an
-MFA from the University of Victoria. McLeanâ€™s work, which draws upon
+MFA from the University of Victoria. McLean’s work, which draws upon
 research into the historical and contemporary uses of photography, has
-recently been shown in solo and group exhibitions including Vancouverâ€™s
+recently been shown in solo and group exhibitions including Vancouver’s
 Contemporary Art Gallery, the Art Gallery of Greater Victoria, Richmond Art
 Gallery, Open Space, Southern Alberta Art Gallery and Gallery 44 in
 Toronto. With the assistance of Canada Council and BC Arts Council
-production grants, McLeanâ€™s most recent projects Latent Image and Debris
+production grants, McLean’s most recent projects Latent Image and Debris
 investigate the earliest forms of production within the medium.
 
 http://mikeandrewmclean.com
@@ -247,20 +247,20 @@ ECU Lecture Theatre | Room 301, South Building
 Add event to calendar (http://ate.so/?5mItvm9)
 
 Presentation House Gallery and Emily Carr University are pleased to
-celebrate the launch of acclaimed photographer Geoffrey Jamesâ€™ most recent
+celebrate the launch of acclaimed photographer Geoffrey James’ most recent
 publication, Inside Kingston Penitentiary (Black Dog Publishing). The event
-will feature a talk by James and a discussion with prisonersâ€™ rights expert
+will feature a talk by James and a discussion with prisoners’ rights expert
 Michael Jackson.
 
-Inside Kingston Penitentiary proffers a glimpse into one of Canadaâ€™s most
-forbiddingâ€”and forbiddenâ€”establishments. Opened in 1835, Kingston
-Penitentiary was a maximum-security prison that housed some of the nationâ€™s
+Inside Kingston Penitentiary proffers a glimpse into one of Canada’s most
+forbidding—and forbidden—establishments. Opened in 1835, Kingston
+Penitentiary was a maximum-security prison that housed some of the nation’s
 most infamous criminals until its closure in 2013. James was permitted
 access to the facility during its final six months of operation.
 
 The remarkable series of images that resulted captures the dynamics of
 tension and monotony, danger and community that punctuate the lives of
-inmates and staff alike. As the exhibition curator Jan Allen notes, â€œInside
+inmates and staff alike. As the exhibition curator Jan Allen notes, “Inside
 Kingston Penitentiary offers an empathetic confrontation driven by a
 compulsion to understand the situation of all those within the walls. It
 is, after all, a situation created by, and accountable to, those outside
@@ -269,20 +269,20 @@ the walls.â€
 Signed copies of Inside Kingston Penitentiary will be available at the
 special launch price of $35.
 
-Geoffrey James is one of Canadaâ€™s most prolific photographers, with a
+Geoffrey James is one of Canada’s most prolific photographers, with a
 career spanning over thirty years. James probes the social implications of
 human-made landscapes. His work has been exhibited internationally, and is
-included in major museum collections. Jamesâ€™ insightful studies of place
+included in major museum collections. James’ insightful studies of place
 have been the subject of numerous books. He had a survey exhibition,
 Utopia/Dystopia, at the National Gallery of Canada in 2008. James has
 received many awards, including the Gershon Iskowitz Prize in 2005 and the
-Governor-Generalâ€™s Award in Visual and Media Arts in 2012.
+Governor-General’s Award in Visual and Media Arts in 2012.
 
-Michael Jackson is a professor in the University of British Columbiaâ€™s
-Faculty of Law who specializes in prisonerâ€™s rights and Aboriginal rights.
+Michael Jackson is a professor in the University of British Columbia’s
+Faculty of Law who specializes in prisoner’s rights and Aboriginal rights.
 His books, Prisoners of Isolation: Solitary Confinement in Canada (1983)
 and Justice Behind the Walls: Human Rights in Canadian Prisons (2002),
-complement Jamesâ€™ project. In his forty years of teaching and advocating
+complement James’ project. In his forty years of teaching and advocating
 human rights, Jackson has represented prisoners and First Nations in major
 cases before the Supreme Court of Canada, and has proposed reforms to the
 criminal justice system before committees in the Senate and House of
@@ -306,7 +306,7 @@ There will be a slideshow presentation with a signing to follow.
 
 Intelligent Sentient? is a loosely-told narrative of existential crisis. A
 transparent Keith Haring-inspired human wanders through a series of Luke
-Ramseyâ€™s signature vividly-coloured, incredibly detailed dreamscapes,
+Ramsey’s signature vividly-coloured, incredibly detailed dreamscapes,
 seemingly oblivious to its surroundings as it wonders what is nature? What
 is intelligence? What is love? Wordless but teeming, Intelligent Sentient?
 is exquisitely realized. It is both mesmerizing and nightmarish, like an
@@ -325,20 +325,20 @@ Curated by Shauna McCabe and circulated by the Textile Museum of Canada |
 Pollard Gallery
 
 Marimekko, With Love provides a retrospective examination of the iconic
-Finnish design companyâ€™s mid-century origins and the role it played in
+Finnish design company’s mid-century origins and the role it played in
 shaping a new aesthetic and approach to living through fashion and design.
 Founded in 1951 by visionary designer Armi Ratia and her husband Viljo,
 Marimekko not only sparked an international revolution in post-WWII pattern
 and textile production, but also captured a new philosophy based on the
 power of design in everyday life. In North America, two ground-breaking
-studios â€“ Karelia in Toronto, Ontario and Design Research in Cambridge,
-Massachusetts â€“ introduced Marimekko and contemporary Finnish design to
+studios – Karelia in Toronto, Ontario and Design Research in Cambridge,
+Massachusetts – introduced Marimekko and contemporary Finnish design to
 international audiences by the late 1950s.
 
 The exhibition draws together landmark Marimekko fabrics and fashions
-created by pioneering designers under Ratiaâ€™s leadership from the 1950s to
+created by pioneering designers under Ratia’s leadership from the 1950s to
 the 1970s as well as a breadth of archival material highlighting the
-personal stories and social relationships at the heart of the companyâ€™s
+personal stories and social relationships at the heart of the company’s
 international impact. Marimekko, With Love is circulated by the Textile
 Museum of Canada, and is curated by their Executive Director, Shauna McCabe.
 - See more at: http://aggv.ca/marimekkowithlove#sthash.NNh7burD.dpuf
@@ -406,10 +406,10 @@ Canadian photographer Geoffrey James.
 
 Geoffrey James has known Lee Friedlander for close to 40 years and has an
 intimate knowledge of his practice and publications, and they have worked
-together on photography projects. Like Friedlander, Jamesâ€™ work often
+together on photography projects. Like Friedlander, James’ work often
 involves examinations of social environments and landscapes that have been
 shaped by human activity. They also share an unabated passion for producing
-photography books. James will discuss Friedlanderâ€™s profound influence on
+photography books. James will discuss Friedlander’s profound influence on
 photography over the past sixty years, with Presentation House Gallery
 curator, Helga Pakasaar.
 
@@ -418,12 +418,12 @@ prolific photographers of our time and has had exhibitions across the
 globe. A major retrospective and comprehensive catalogue was produced by
 the Museum of Modern Art, New York, in 2005. Spanning over fifty years, the
 Thick of Things exhibition attests to the undiminished vitality of
-Friedlanderâ€™s unique observations of the world. Geoffrey James has
+Friedlander’s unique observations of the world. Geoffrey James has
 exhibited extensively across North America and Europe over the past thirty
 years. In 2005, he had a retrospective, Dystopia/Utopia, at the National
 Gallery of Canada and has a forthcoming exhibition about the socialist
 experiment in Cuba at the Slought Foundtion in Philadelphia. James has
-received many awards including the Governor-Generalâ€™s Award in Visual and
+received many awards including the Governor-General’s Award in Visual and
 Media Arts in 2012.
 
 This exhibition is made possible through the support of the Artworkers
@@ -438,7 +438,7 @@ Tuesday, February 10, 7pm
 In the Gallery, 3rd Floor
 
 Exhibition co-curator Daina Augaitis leads this tour with exhibiting
-artists RenÃ©e Van Halm, Shelagh Keeley and Michael Drebert. Short
+artists Renée Van Halm, Shelagh Keeley and Michael Drebert. Short
 presentations about the works on display will explore cultural,
 phenomenological and conceptual approaches to considering space.
 
@@ -453,8 +453,8 @@ space; in the book Bachelard discusses the way our perceptions of shelter
 begin to delineate the very essence of how we think and imagine. Using this
 text as a starting point, the exhibition explores the symbolic meaning of
 spaces as tied to ideas of perception, memory, intimacy and experience.
-Inspired by CÃ©zanne's analytic approach to depicting space (on view in a
-concurrent exhibition at the Gallery in CÃ©zanne and the Modern), the first
+Inspired by Cézanne's analytic approach to depicting space (on view in a
+concurrent exhibition at the Gallery in Cézanne and the Modern), the first
 section of the exhibition, "Fracturing of Form," examines the ways artists
 have historically contended with conveying pictorial problems of depth on a
 two dimensional plane. The following area, "Psychic Weight of the
@@ -480,7 +480,7 @@ Curator/Associate Director, with assistant curator Emmy Lee Wall.
 ------------------------------------------------------------------------
 MAKE RE|MAKE UN|MAKE: repetition and artistic processes
 
-February 12 â€“ March 8, 2015
+February 12 – March 8, 2015
 Reception: Sunday, February 15, 2-4 p.m.
 Curator Talk: Saturday, March 7, 2 p.m.
 Free Bookbinding Workshops: Sunday, March 8, Kids 11 a.m. and Adults 2 p.m.
@@ -488,10 +488,10 @@ Free Bookbinding Workshops: Sunday, March 8, Kids 11 a.m. and Adults 2 p.m.
 â€œMAKE RE|MAKE UN|MAKEâ€  highlights the work of six artists, each working
 in different media, whose work utilizes repetition as a device to
 investigate diverse ideas and themes. Repetition is intrinsic to each of
-these artistsâ€™ creative processes, and is used both formally and
+these artists’ creative processes, and is used both formally and
 conceptually throughout the exhibition.
 
-Neil Chungâ€™s video installations use repetition of sounds as well as
+Neil Chung’s video installations use repetition of sounds as well as
 looping to create meditative rhythms that address our relationships with
 technology and nature. In the work of Suzanne Fulbrook repetition and
 disintegration are paramount; using a process of watercolour and saltwater
@@ -502,7 +502,7 @@ photography that call attention to ideas about the finite vs. infinite,
 while observing and recording the state of changing landscapes as a
 consequence of human contact. Elizabeth MacKenzie uses repetition in her
 growing series of ink drawings on rice paper to consider and affirm
-difference through the archetypal figure of Frankensteinâ€™s monster. Tamara
+difference through the archetypal figure of Frankenstein’s monster. Tamara
 Skubovius employs repetition to tell stories about the land and those who
 inhabit it, and through the process of porcelain casting, creates serial
 objects that hold cultural symbolism and contemporary significance for the
@@ -515,7 +515,7 @@ use or worth within material culture.
 A limited-edition publication accompanies the exhibition. As several of the
 artists reside outside of Vancouver, each artist was asked to respond on
 paper to four questions about their artistic processes, using a standard
-page size. When the artists completed this â€˜visual interview,â€™ the pages
+page size. When the artists completed this ‘visual interview,’ the pages
 were mailed to the curator and assembled for the publication. This offers a
 unique opportunity for viewers to bring part of the exhibition home with them.
 
@@ -527,9 +527,9 @@ Open 10 am-5 pm, 7 days a week
 http://seymourartgallery.com
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-02-07-14-seliyemetaxwtexw-art-gallery-paradigmconnectionsdoing-what-w">14. OPENING | Sâ€™ELIYEMETAXWTEXW Art Gallery | [PARADIGM]Connections:Doing what we love! | FEB 12</a>
+<a href="/instant-coffee/listings/2015-02-07-14-seliyemetaxwtexw-art-gallery-paradigmconnectionsdoing-what-w">14. OPENING | S’ELIYEMETAXWTEXW Art Gallery | [PARADIGM]Connections:Doing what we love! | FEB 12</a>
 ------------------------------------------------------------------------
-Sâ€™ELIYEMETAXWTEXW (S-uh-lee-uh-mut-out-ook) Art Gallery
+S’ELIYEMETAXWTEXW (S-uh-lee-uh-mut-out-ook) Art Gallery
 
 [PARADIGM] Connections: Doing what we love!
 Graphic Design Exhibition
@@ -539,14 +539,14 @@ Exhibition and Reception 5:00 pm: Building B, 136 Gallery
 15 Fabulous Speakers and a Spectacular Gallery Exhibition
 A lively 20 slides x 20 second presentation style featuring stories about
 doing what we love! The event includes a gala reception in UFV's
-Sâ€™eliyemetaxwtexw Art Gallery featuring visual connections through
+S’eliyemetaxwtexw Art Gallery featuring visual connections through
 community branding projects and typography portraits created by UFV's
 Graphic + Digital Design students!
 
 University of the Fraser Valley | 33844 King Road, Abbotsford Campus, B 136
 Contact: 604.504.7441, Local 4405
 
-Gallery Hrs: Mon â€“ Fri, 10:00 AM â€“ 6:00 PM
+Gallery Hrs: Mon – Fri, 10:00 AM – 6:00 PM
 More info:
 http://pechakucha.ca
 
@@ -585,11 +585,11 @@ Elapsed looks at the work of Adad Hannah, Philippa Jones, Marianne
 Nicolson, Ann Smith and Jennifer Pighin, five exciting artists whose work
 seems to bridge the past with the future. Each artist makes artwork from a
 unique perspective embodying different philosophical approaches to their
-practice. Adad Hannahâ€™s video represents a contemporary reimagining of a
-past event in Prince Georgeâ€™s history in a way that crosses into theatre.
-Ann Smithâ€™s remarkable Ravens Tail weaving reprises a once lost form of
+practice. Adad Hannah’s video represents a contemporary reimagining of a
+past event in Prince George’s history in a way that crosses into theatre.
+Ann Smith’s remarkable Ravens Tail weaving reprises a once lost form of
 Indigenous weaving. Marianne Nicolson draws comparisons with significant
-moments in her own Kwakwakaâ€™wakw history and present day in a series of
+moments in her own Kwakwaka’wakw history and present day in a series of
 mixed media paintings. Jennifer Pighin contrasts the past and present day
 using the notion of flight. Finally, Philippa Jones uses the form of an
 animated bird to imply events in a recent past, and offer the hope of new
@@ -600,7 +600,7 @@ Two Rivers Gallery is partnering with the 2015 Canada Winter Games to host
 North on the occasion of the Canada Winter Games. North is an exhibition
 featuring work in a range of media from across BC that explores the title
 theme. With particular focus on ideas such as youth, sport, community and
-culture â€“pillars of the Canada Games â€“ Two Rivers Gallery is excited to
+culture –pillars of the Canada Games – Two Rivers Gallery is excited to
 welcome work by artists from across the province to create a compelling
 showcase that explores what the North means to us.
 
@@ -652,21 +652,21 @@ Thursday, February 12th @ 8pm
 Western Front, 303 East 8th Avenue
 Free Admission
 
-Scrivenerâ€™s Monthly presents a screening of Vancouver artist Casey Weiâ€™s
+Scrivener’s Monthly presents a screening of Vancouver artist Casey Wei’s
 new film, Kingsgate Mall Happenings, with a response by writer Michael Turner.
 
-Weiâ€™s film, produced during a Western Front Media Arts production
-residency, documents the artistâ€™s month-long programming at Kingsgate Mall
+Wei’s film, produced during a Western Front Media Arts production
+residency, documents the artist’s month-long programming at Kingsgate Mall
 in June 2014, which included live music, a talk show, an open mic, a zine
 library and more. Turner, who had been scheduled to present at the
 Happenings before they were unexpectedly cut short, will reflect on the
-projectâ€™s ideals, successes and failures as a snapshot of Mount Pleasant
+project’s ideals, successes and failures as a snapshot of Mount Pleasant
 and the Vancouver arts community.
 
 Artist Biographies
 
 Casey Wei (b. 1985 Shanghai) is a Vancouver-based artist and musician. She
-graduated from SFUâ€™s MFA program in 2012 and has made two films: Murky
+graduated from SFU’s MFA program in 2012 and has made two films: Murky
 Colors (2012), and Vater und Sohn/Father and Son/父与子 (2014). Her films
 collage together self-shot and appropriated footage to explore themes of
 family, memory and history. She is currently editing footage from Kingsgate
@@ -722,7 +722,7 @@ surface through the application of a painted mask. In the first, small
 pinhole images are reduced to little more than gestures hidden beneath
 thick daubs of paint. The wide angle distortion of the lens used transforms
 the photographic index into a semi-abstracted island on the photo paper.
-Pinheiroâ€™s Paper series shifts the responsibility of the camera as
+Pinheiro’s Paper series shifts the responsibility of the camera as
 documentarian to the scanner, where sheets of blank photographic paper are
 applied with paint and allowed to transform within the bed of the scanner,
 as the colour shifts through its exposure to light.
@@ -782,7 +782,7 @@ http://cmajournal.ca/call-for-submissions/
 Geometry of Knowing
 Event with Derya Akay and Julia Feyrer
 
-Sunday, FEB 15, 2015 / 12 â€“ 2PM
+Sunday, FEB 15, 2015 / 12 – 2PM
 SFU Gallery
 
 Walking, talking, sowing, drinking and waiting... will explore cycles of
@@ -796,7 +796,7 @@ return from the SFU Gallery at 2PM. Limited space. Reserve now by emailing
 audaingallery@sfu.ca.
 
 Free parking at SFU Burnaby on Sunday, February 15 from 12PM-3PM. Use a
-printout of this email or a copy of SFU Galleriesâ€™ Spring 2015 Program
+printout of this email or a copy of SFU Galleries’ Spring 2015 Program
 Guide. Place on dashboard or hand to parking attendant.
 
 Geometry of Knowing is a group exhibition that investigates approaches to
@@ -810,22 +810,22 @@ standardization and specialization regarding how people learn, art is a
 space for innovative thinking and experimentation outside given frameworks.
 
 Part 1
-JAN 15 â€“ FEB 28, 2015
+JAN 15 – FEB 28, 2015
 SFU Gallery
 
 Part 2
-JAN 15 â€“ FEB 28, 2015
+JAN 15 – FEB 28, 2015
 Audain Gallery
 
 Part 3
-MAR 21 â€“ MAY 15, 2015
+MAR 21 – MAY 15, 2015
 SFU Gallery
 
 Part 4
-MAR 19 â€“ MAR 28, 2015
+MAR 19 – MAR 28, 2015
 Audain Gallery
 
-Curated by Amy Kazymerchyk and Melanie Oâ€™Brian. Supported by the Canada
+Curated by Amy Kazymerchyk and Melanie O’Brian. Supported by the Canada
 Council for the Arts.
 
 ------------------------------------------------------------------------
@@ -840,7 +840,7 @@ Create an Augmented Reality site-specific experience
 Our 2nd Story mobile app gives access to your content onsite
 Theme: RISK
 Place: Granville Island
-Workshops: Wednesdays 4-8 PM, March 11 â€“ June 17, 2015
+Workshops: Wednesdays 4-8 PM, March 11 – June 17, 2015
 Premiere: September 10-20, 2015 at Vancouver Fringe
 
 Using our custom mobile app, participants will collaborate in the creation
@@ -897,14 +897,14 @@ Eventbrite.
 
 A beginner to intermediate-level workshop best suited to people with a high
 level of comfort with computers and technology. This will be a smaller
-class, so there will be flexibility based on the groupâ€™s experience. This
+class, so there will be flexibility based on the group’s experience. This
 workshop will cover the basic usage of the applications Modul8 and
 MadMapper, for the creation of dynamic video art, VJing and projection
 mapping. The course will begin with a hands-on crash course in Modul8. As a
 group the class will go through a series of instructions on how to use the
 software, section by section, button by button. By the end of the first two
 classes, participants will have enough of an understanding of the software
-to use the videos theyâ€™ve created with MadMapper. With MadMapper, students
+to use the videos they’ve created with MadMapper. With MadMapper, students
 will learn to project moving images on isolated surfaces, also called
 mapping. Students will have the opportunity to create a project with the
 support of the instructor.
@@ -919,10 +919,10 @@ Free admission.
 Info 604.606.6400 www.thedancecentre.ca
 
 Migrant Bodies is a two-year research project created through a partnership
-between The Dance Centre (Vancouver), Circuit-Est centre chorÃ©graphique
+between The Dance Centre (Vancouver), Circuit-Est centre chorégraphique
 (Montreal), Comune di Bassano del Grappa (Italy), The Croatian Institute
 for Movement and Dance (Croatia), and La Briqueterie - Centre de
-dÃ©veloppement chorÃ©graphique du Val-de-Marne (France). Migrant Bodies aims
+développement chorégraphique du Val-de-Marne (France). Migrant Bodies aims
 to use artistic and cultural tools to open up a civil reflection on
 migration in European and Canadian societies.
 
@@ -936,9 +936,9 @@ Opera Estate Festival Veneto.
 
 The Vancouver creative team includes Su-Feh Lee, Co-Artistic Director of
 battery opera performance; interdisciplinary artist Sammy Chien; and
-writers Alexa Mardon and Andreas Kahre. The other choreographers are CÃ©cile
-Proust (France), Manuel Roque (QuÃ©bec), Alessandro Sciarroni (Italy) and
-Jasna VinovrÅ¡ki (Croatia).
+writers Alexa Mardon and Andreas Kahre. The other choreographers are Cécile
+Proust (France), Manuel Roque (Québec), Alessandro Sciarroni (Italy) and
+Jasna Vinovrški (Croatia).
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-02-07-26-exterior-commission-for-convention-center-houston-arts-allia">26. CALL | Exterior Commission for Convention Center | Houston Arts Alliance | FEB 20</a>
@@ -976,7 +976,7 @@ Sara Kellner by email at sara@haatx.com.
 ABSTRACT PAINTING WORKSHOP WITH ARTIST JEREMY HOF
 Saturday, February 21, 1:00-3:00pm
 Course # 918458
-$15/1 session â€“ includes all materials
+$15/1 session – includes all materials
 
 Explore working with abstraction and colour to complete a finished acrylic
 painting in this one day workshop. All skill levels welcome. For ages

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 22
 type: "EVENT"
+venue: "UNIT 17"
 summary: "UNIT 17 | Apparitions | CLOSING RECEPTION | 6-9PM | SEP 27"
 ---
 

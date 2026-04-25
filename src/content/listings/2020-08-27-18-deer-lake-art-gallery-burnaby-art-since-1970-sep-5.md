@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 18
 type: "EXHIBITION"
+venue: "Deer Lake Art Gallery (Burnaby)"
 summary: "Deer Lake Art Gallery (Burnaby) | Art Since 1970 | SEP 5"
 ---
 

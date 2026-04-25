@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 22
 type: "CALL"
+venue: "Island Mountain Arts"
 summary: "Island Mountain Arts | accepting exhibition submissions | AUG 15"
 ---
 

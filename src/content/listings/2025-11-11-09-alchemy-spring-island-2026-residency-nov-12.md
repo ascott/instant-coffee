@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 9
 type: "CALL"
+venue: "ALCHEMY SPRING ISLAND 2026"
 summary: "ALCHEMY SPRING ISLAND 2026 | residency | NOV 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 26
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Capture Photography Festival | APR 7"
 ---
 

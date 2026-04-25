@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 11
 type: ""
+venue: "Blanket"
 summary: "Blanket | Eli Bornowsky | OCT 17"
 ---
 
@@ -41,8 +42,8 @@ silent two-way dialogue. The dots possess a synasthaesic quality; they make
 their presence felt both through their colour and texture, as well as
 through how they collide against each other, how they float, thump and hum
 against the background and get us thinking. These spheres may have come from
-a recognizable set of traditions butÃ¢ï¿½Â¹to refer to the well-worn Pythagorean
-phraseÃ¢ï¿½Â¹they are not without their own special music.
+a recognizable set of traditions butâ�¹to refer to the well-worn Pythagorean
+phraseâ�¹they are not without their own special music.
 
 Blanket
 Contemporary Art Inc.

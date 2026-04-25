@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 5
 type: "CALL"
+venue: "Alchemy Island '19"
 summary: "Alchemy Island '19 | Alchemy Artists Residency | DEC 7"
 ---
 

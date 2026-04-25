@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 31
 type: ""
+venue: "Surrey 2015 Cultural Grants"
 summary: "Surrey 2015 Cultural Grants | | OCT 8"
 ---
 

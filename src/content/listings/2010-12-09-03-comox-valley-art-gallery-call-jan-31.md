@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 3
 type: ""
+venue: "COMOX VALLEY ART GALLERY"
 summary: "COMOX VALLEY ART GALLERY | CALL | JAN 31"
 ---
 

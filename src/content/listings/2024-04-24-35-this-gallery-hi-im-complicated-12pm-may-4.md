@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 35
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Hi, I’m Complicated | 12PM | MAY 4"
 ---
 

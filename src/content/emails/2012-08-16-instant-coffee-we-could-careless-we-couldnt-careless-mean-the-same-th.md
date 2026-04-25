@@ -14,7 +14,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-08-16-01-fillip-grouper-live-in-stanley-park-aug-16">01. Fillip | Grouper Live in Stanley Park | AUG 16</a>
 <a href="/instant-coffee/listings/2012-08-16-02-fuse-magazine-online-the-arc-by-kathleen-ritter-aug-16">02. FUSE MAGAZINE | ONLINE: The Arc by Kathleen Ritter | AUG 16</a>
-<a href="/instant-coffee/listings/2012-08-16-03-miracle-connelly-presents-laura-piasta-and-johan-sprinkles-b">03. MIRACLE & CONNELLY PRESENTS | Laura Piasta and Johan "Sprinkles" BjÃ¶rck | AUG 16</a>
+<a href="/instant-coffee/listings/2012-08-16-03-miracle-connelly-presents-laura-piasta-and-johan-sprinkles-b">03. MIRACLE & CONNELLY PRESENTS | Laura Piasta and Johan "Sprinkles" Björck | AUG 16</a>
 <a href="/instant-coffee/listings/2012-08-16-04-monte-clark-gallery-20-years-aug-16">04. MONTE CLARK GALLERY | 20 YEARS | AUG 16</a>
 <a href="/instant-coffee/listings/2012-08-16-05-quinary-art-projects-happy-hour-until-we-have-a-helicopter-a">05. Quinary Art Projects | HAPPY HOUR: Until We Have A Helicopter | AUG 16</a>
 <a href="/instant-coffee/listings/2012-08-16-06-in-solidarity-with-pussy-riot-day-of-action-aug-17">06. In Solidarity with Pussy Riot | Day of Action | AUG 17</a>
@@ -44,14 +44,14 @@ AUGUST 16, 8pm
 Free Performance
 
 Fillip is pleased to present Sleep, a site-specific sound installation by 
-Grouper in Vancouverâ€™s Stanley Park this Thursday, August 16, at 8 
+Grouper in Vancouver’s Stanley Park this Thursday, August 16, at 8 
 pm. Grouper is the solo project of Portland-based electro-acoustic 
 noise musician Liz Harris, who uses collaged magnetic tape to create 
 hauntingly resonant sonic environments.
 
 Sleep was initially performed at the Berkeley Art Museum in 2011. In 
 Vancouver, the piece will be performed in an abandoned polar bear 
-enclosureâ€”a space decommissioned in 1996 following the closure of 
+enclosure—a space decommissioned in 1996 following the closure of 
 the Vancouver Zoo. The enclosure is located just south of the 
 Vancouver Aquarium in Stanley Park off Avison Way (map).
 
@@ -59,34 +59,34 @@ This is a free performance and space is will be extremely limited.
 
 Record Release
 
-Thursdayâ€™s performance coincides with the release of SLEEP 
+Thursday’s performance coincides with the release of SLEEP 
 (Fragment), a new 12â€  record by Grouper, published by Fillip in an 
 edition of 800 on 180 gsm white vinyl. A limited number of advanced 
 copies of the record will be available for purchase at the performance.
 
 An after party and record release will be hosted by Solder and Sons 
-following Thursdayâ€™s performance.
+following Thursday’s performance.
 
 Pre-order through PayPal
 
-Â· Fillip
-Â· 305 Cambie Street
-Â· Vancouver, British Columbia
-Â· V6B 2N4 Canada
-Â· 604.781.4417
-Â· www.fillip.ca
+· Fillip
+· 305 Cambie Street
+· Vancouver, British Columbia
+· V6B 2N4 Canada
+· 604.781.4417
+· www.fillip.ca
 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-08-16-02-fuse-magazine-online-the-arc-by-kathleen-ritter-aug-16">02. FUSE MAGAZINE | ONLINE: The Arc by Kathleen Ritter | AUG 16</a>
 ------------------------------------------------------------------------
-FUSE MAGAZINEâ€™S ONLINE EXCLUSIVE: The Arc by Kathleen Ritter, Live 
+FUSE MAGAZINE’S ONLINE EXCLUSIVE: The Arc by Kathleen Ritter, Live 
 on
 Q with Jian Ghomeshi: A Performance Reconstruction in Graphic Novella
 Form, by UK artist Jem Noble. When fire tore through the building on
 the corner of Broadway and Kingsway in Vancouver early Christmas
 morning in 2009, a vital community of artist studios was decimated.
-Artist and curator Kathleen Ritterâ€™s studio was among those
+Artist and curator Kathleen Ritter’s studio was among those
 destroyed...
 
 To see more go to: http://fusemagazine.org/category/artist-projects
@@ -97,16 +97,16 @@ you like what you see, please consider subscribing to FUSE or making a
 one-time donation.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-08-16-03-miracle-connelly-presents-laura-piasta-and-johan-sprinkles-b">03. MIRACLE & CONNELLY PRESENTS | Laura Piasta and Johan "Sprinkles" BjÃ¶rck | AUG 16</a>
+<a href="/instant-coffee/listings/2012-08-16-03-miracle-connelly-presents-laura-piasta-and-johan-sprinkles-b">03. MIRACLE & CONNELLY PRESENTS | Laura Piasta and Johan "Sprinkles" Björck | AUG 16</a>
 ------------------------------------------------------------------------
 MIRACLE & CONNELLY PRESENTS artists Laura Piasta and Johan 
-"Sprinkles" BjÃ¶rck. Please join us on August 16, 2012 at East Van 
-Studios between noon and midnight as Piasta and BjÃ¶rck invite us to a 
+"Sprinkles" Björck. Please join us on August 16, 2012 at East Van 
+Studios between noon and midnight as Piasta and Björck invite us to a 
 reading of A Poem About Life.
 
 The sometimes collaborative - sometimes independent - duo are 
 enjoying a sojourn through Vancouver via a residency at The Banff 
-Centre in Alberta. En route back to Sweden, Piasta and BjÃ¶rck will 
+Centre in Alberta. En route back to Sweden, Piasta and Björck will 
 present a varied output exploring a range of media including video, 
 ceramic, painting, performance, bronze and sound. The work can be in 
 one moment unassuming and heartfelt, swinging in the next moment 
@@ -114,12 +114,12 @@ over to bold and improvised. The work discloses the influence of
 Romanian sculptor Constantin BrÃ¢ncuși, the non-chalance of Danish 
 painter Tal R and the earnest but ridiculous joie de vivre of Swiss 
 rascals Fischli/Weiss. Similar to the latter, Laura Piasta and Johan 
-BjÃ¶rck's art gently invites us to explore an absurd summer realm 
+Björck's art gently invites us to explore an absurd summer realm 
 marked by infrasound, abstraction and a baseball game played within a 
 forest of pine. 
 
 *
-Laura Piasta and Johan BjÃ¶rck's A Poem About Life / East Van Studios, 
+Laura Piasta and Johan Björck's A Poem About Life / East Van Studios, 
 870 East Cordova Street, Vancouver BC / August 16, 2012 - Noon to 
 Midnight 
 
@@ -179,7 +179,7 @@ alleged members of the feminist punk collective Pussy Riot are on trial,
 facing a seven-year sentence following their arrest in the Spring of 
 2012 for an action Pussy Riot performed at the Cathedral of Christ the 
 Savior in Moscow. We encourage you to answer, in equally impatient 
-and unreasonable terms, the Russian governmentâ€™s excessive use of 
+and unreasonable terms, the Russian government’s excessive use of 
 force specifically as well as its intimidation towards all forms of dissent 
 in general, especially against artistic and political freedom of 
 expression. 
@@ -197,8 +197,8 @@ voice can move, grow, debate, and generate a desire and belief in the
 right to individual autonomy and equality regardless of difference. And 
 so will we.
 
-As Dr. Martin Luther King Jr once famously wrote: â€œInjustice anywhere is 
-a threat to justice everywhereâ€¦ Whatever affects one directly, affects 
+As Dr. Martin Luther King Jr once famously wrote: “Injustice anywhere is 
+a threat to justice everywhere… Whatever affects one directly, affects 
 all indirectly.â€ 
 
 And so, the actions of Pussy Riot are our actions.
@@ -234,7 +234,7 @@ Dena Beard (Curator)
 Aja Rose Bond & Gabriel Saloman (The STAG)
 Alex Cuff (Writer, Teacher)
 Randy Lee Cutler (Emily Carr University)
-Courtney Dailey (Red76/Mildredâ€™s Lane/Project Mobile Livre - The Book 
+Courtney Dailey (Red76/Mildred’s Lane/Project Mobile Livre - The Book 
 Mobile)
 Joseph del Pesco (Kadist Art Foundation)
 Jamie Emerick (Artist)
@@ -333,7 +333,7 @@ Food Swap and Pickling Demo
 Sat. Aug 18th, 2-4pm, FREE
 Join Roberta LaQuaglia, from the Vancouvers Farmers Market and 
 Holly Schmidt for an afternoon of food swapping. Come prepared with 
-food youâ€™ve canned, pickled, baked or grown to trade with others. 
+food you’ve canned, pickled, baked or grown to trade with others. 
 Spread out your picnic blanket and wares and begin swapping. For the 
 uninitiated, chef Andrea Potter will offer a pickling demonstration.
 
@@ -342,14 +342,14 @@ Sun. Aug 19th, 1-4pm, $30
 Join organic farmer and cheese maker, David Asher Rotsztain to learn 
 the basics of making yogurt and soft-bodied cheese curds. He focuses 
 on natural, fresh cheese making that is hands-on, non-GMO and 
-without unnecessary additives. Youâ€™ll be surprised what you can make 
+without unnecessary additives. You’ll be surprised what you can make 
 with a gallon of good milk and a bit of dedication.
 
 Fermented Beverages
 Sat. Aug 25th, 2-4pm, $55
 Join chef Andrea Potter to learn about traditional fermented beverages 
 used for centuries to aid digestion and as a health tonic. In this 
-workshop, youâ€™ll make old fashioned, wild-fermented sodas, using 
+workshop, you’ll make old fashioned, wild-fermented sodas, using 
 herbs and local fruits and Kombucha, a popular tea beverage with 
 herbal variations from the garden. This workshop includes nutrition 
 information, recipes, tasting and hands-on. You also get to take 
@@ -360,7 +360,7 @@ information, recipes, tasting and hands-on. You also get to take
 Space is limited! To register for these workshops contact the Burnaby 
 Art Gallery at 604-297-4422. 
 
-Follow Hollyâ€™s project blog and check out more information regarding 
+Follow Holly’s project blog and check out more information regarding 
 upcoming programs at www.moveablefeastburnaby.ca
 
 The Burnaby Art Gallery gratefully acknowledges the support of the 
@@ -387,13 +387,13 @@ Part recitation, part listening party, Going Under takes inspiration from
 a reading of Herman Melvilleâ€™s 1888 â€œJohn Marrâ€  alongside a 
 presentation of sea shanties and African American work songs to 
 broadly explore coping in â€œsinking shipâ€  times. In such a milieu, not 
-unlike our own, Podesva asks what is or might be the artistâ€™s 
+unlike our own, Podesva asks what is or might be the artist’s 
 relationship to society? Is this dynamic one structured by obsolescence 
 or consequence, solidarity or passivity, camaraderie or alienation? How 
 can we develop a practice that goes beyond basic survival to the 
 articulation of demands and dreams?
 
-This talk will depart from the evidence left in Melvilleâ€™s story, published 
+This talk will depart from the evidence left in Melville’s story, published 
 just before his death in 1891, and will encourage the development of 
 new strategies and relations tailored to our own time and terrain. 
 Copies of â€œJohn Marrâ€  will be made available at the talk.
@@ -505,22 +505,22 @@ Monday August 20 2012, 7:30pm
 $10.50/$9 + $3 membership
 dimcinema.ca / cinematheque.bc.ca
 
-In her vast and compelling oeuvre, media artist and poet Abigail Childâ€™s 
-created three unique films that speak to womenâ€™s political, sexual, and 
+In her vast and compelling oeuvre, media artist and poet Abigail Child’s 
+created three unique films that speak to women’s political, sexual, and 
 economic experiences on the streets of New York. Mutiny (1983) is a 
-panoply of expression and gesture. Itâ€™s a collage of women: at home, 
-on the street, at the workplace, and at school â€” talking, singing, 
+panoply of expression and gesture. It’s a collage of women: at home, 
+on the street, at the workplace, and at school — talking, singing, 
 dancing, and playing the violin. Mutiny belongs to a series of montage 
 films, entitled "Is this is what you were born for?", in which Child 
 conducts an archaeological dig through the miasma of images and 
 expectations we are born into. In Game (1972), an intimate portrait of a 
-couple, Childâ€™s compassion, generosity, and fearlessness nurture a 
+couple, Child’s compassion, generosity, and fearlessness nurture a 
 complex conversation on civil rights, sexual politics, prison justice, love, 
 and economics that reveals the real game within American culture. 
 B/side (1996) is a poetic rumination on urban homelessness. Framed 
 by footage of the encampment locally known as Dinkinsville on New 
-Yorkâ€™s Lower East Side, B/side is composed of sensitive vÃ©ritÃ© footage 
-of the siteâ€™s external conditions and intimate vignettes of womenâ€™s 
+York’s Lower East Side, B/side is composed of sensitive vérité footage 
+of the site’s external conditions and intimate vignettes of women’s 
 interior fantasies.
 
 Abigail Child is a media artist and writer whose original montage pushes 
@@ -576,7 +576,7 @@ day technological experience that will expose Indigenous youth, and
 those interested, to the essential and emerging technologies sector. 
 Through engagement in the InDigital Camp and InDigital Conference 
 experiences, this unparalleled summer experience will nurture 
-participantsâ€™ discovery and interest in ICT, creative, broadcasting and 
+participants’ discovery and interest in ICT, creative, broadcasting and 
 green-tech technologies and expose them to the educational and 
 career options available within these tech-sectors.
 
@@ -743,7 +743,7 @@ coincidences, cohesive thinking, *magic, and irony. Yactac as a
 collective is dedicated to the necessities of art flow. To promote, 
 support, and encourage the creation of art daily; as they believe in the 
 innate creative qualities of art-making within us all. http://yactac.com/.
-Soledad MuÃ±oz is an interdisciplinary canadian artist raised in Chile.
+Soledad Muñoz is an interdisciplinary canadian artist raised in Chile.
 Through the combination of new and old technologies she explores the 
 in-between and ever-changing bridges between sonic and visual 
 spheres, navigating away from language and representation. 
@@ -752,7 +752,7 @@ Alex Achtem is a vancouver based artist with a BFA from Emily Carr.
 She lived in Amsterdam while on an exchange at Gerrit Rietveld 
 Academie. Her focus in sculpture has recently delved into more 
 interdisciplinary approaches. Her work has been exhibited on 
-Vancouverâ€™s public transit system in part of their public art incentive.
+Vancouver’s public transit system in part of their public art incentive.
 
 
 ------------------------------------------------------------------------
@@ -772,19 +772,19 @@ The Sea Collector is an going photographic series whereby Vancouver
 based artist, Adam Stenhouse, is attempting to visit each sea described 
 by contemporary maps and literature. 
 
-Influenced by Thomas Joshua Cooperâ€™s ongoing attempts to 
+Influenced by Thomas Joshua Cooper’s ongoing attempts to 
 circumnavigate the Atlantic Ocean, Stenhouse is engaging with the 
 romanticised histories of explorers, their failures and successes, and 
-humanityâ€™s ongoing allure of the sea and its limits. 
+humanity’s ongoing allure of the sea and its limits. 
 
-Taking Susan Sontagâ€™s claim, â€˜to collect photographs is to collect the 
-worldâ€™ very literally, Stenhouse is deliberately embarking upon an 
+Taking Susan Sontag’s claim, ‘to collect photographs is to collect the 
+world’ very literally, Stenhouse is deliberately embarking upon an 
 extensive journey to bear witness to these different seas, recording 
 their individuality, aesthetic vision and geographical personality as well 
 as his own experience of being present beside each sea, and through 
 this laying a claim of ownership over and knowledge of this world. Yet, 
 within this idea there is an undermining of how humans have procured 
-and understood the world they live in; most â€˜seasâ€™ are essentially one 
+and understood the world they live in; most ‘seas’ are essentially one 
 single body of water, the imaginary borders given them and the names 
 attached are a purely human infliction created through our 
 explorations. 
@@ -814,14 +814,14 @@ CURRENT EXHIBITION
 AUG 15-SEPT 22.
 
 Macaulay & Co. Fine Art is pleased to announce its inaugural exhibition 
-CEREMONIAL/ART by Beau Dick. Beauâ€™s ability to mediate between 
+CEREMONIAL/ART by Beau Dick. Beau’s ability to mediate between 
 aesthetics and social utility acts as the focal point of this new selection 
 of work.
 
-The utilitarian aspect of his practice as a Kwakwakaâ€™wakw artist, with 
+The utilitarian aspect of his practice as a Kwakwaka’wakw artist, with 
 work that is produced for and used in ceremonial contexts, is 
 underscored by the inclusion of 40 Atlakim Masks. This series of masks 
-and ritual knowledge are owned by Beauâ€™s family, passed down from 
+and ritual knowledge are owned by Beau’s family, passed down from 
 generation to generation. They are made roughly, and are worn in a 
 dancing series for four years only, then burned. This grouping is 
 nearing the end of its cycle, and midway through the exhibition the 40 
@@ -834,10 +834,10 @@ giant ogress with hair covering her dark face looks out. Known for
 stealing children, and carrying them off in a basket on her back to eat 
 in her lair in the deep woods, she is characterized by dark tufted hair, 
 eyebrows, facial hair, her deep hollow eye sockets and protruding lips. 
-Tsonoquaâ€™s eyes are heavy, appearing to be half asleep while she 
+Tsonoqua’s eyes are heavy, appearing to be half asleep while she 
 howls. As earrings, she wears the heads of two small children.
 
-Beauâ€™s work is also collected and exhibited in the context of 
+Beau’s work is also collected and exhibited in the context of 
 contemporary art, giving it an uncommon duality. The line between 
 utility and art is not drawn here. Reality, the supernatural, deep 
 knowledge, and myth all cross paths raising questions rather than 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 10
 type: "OPENING"
+venue: "221A"
 summary: "221A | Vancouver Especially | FEB 21"
 ---
 

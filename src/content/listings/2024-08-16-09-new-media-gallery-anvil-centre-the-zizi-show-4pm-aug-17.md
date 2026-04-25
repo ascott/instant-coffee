@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 9
 type: "EVENT"
+venue: "New Media Gallery @ Anvil Centre"
 summary: "New Media Gallery @ Anvil Centre | THE ZIZI SHOW | 4PM | AUG 17"
 ---
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 21
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | VIVA Vancouver program CALL | JAN 31"
 ---
 
-The City of Vancouverâ€™s VIVA Vancouver program is seeking innovative 
+The City of Vancouver’s VIVA Vancouver program is seeking innovative 
 conceptual designs for seasonal public space projects in 2012. Seasonal public 
 spaces are pedestrian oriented temporary public spaces that are created 
 through the closure of select roadway on a 24-hour basis for an extended 

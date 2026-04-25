@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 24
 type: "CALL"
+venue: "Richmond Public Art"
 summary: "Richmond Public Art | 2025 Capture Photography Festival in Richmond | AUG 5"
 ---
 

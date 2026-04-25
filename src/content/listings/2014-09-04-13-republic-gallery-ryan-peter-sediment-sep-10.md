@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 13
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | Ryan Peter: SEDIMENT | SEP 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 3
 type: "CALL"
+venue: "CICA"
 summary: "CICA | Call for Volunteers"
 ---
 

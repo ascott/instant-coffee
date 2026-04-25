@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 2
 type: "EVENT"
+venue: "CAG @ Burrard Marina Field House Studio"
 summary: "CAG @ Burrard Marina Field House Studio | J'aim faim, J'ai froid | MAR 3"
 ---
 

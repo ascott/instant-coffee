@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 7
 type: "EDUCATION"
+venue: "Richmond Arts Centre"
 summary: "Richmond Arts Centre | Book-making and Book-binding courses"
 ---
 

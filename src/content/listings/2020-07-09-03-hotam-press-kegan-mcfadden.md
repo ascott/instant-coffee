@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Kegan McFadden"
 ---
 

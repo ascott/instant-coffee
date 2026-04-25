@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 14
 type: "EDUCATION"
+venue: "Cinevolution"
 summary: "Cinevolution | Media Art Micro Grant Info Session - BIPOC Artist | JUN 23"
 ---
 

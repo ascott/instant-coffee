@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 20
 type: ""
+venue: "Dazibao"
 summary: "Dazibao | Call for proposals | Canadian University Students | JUN 1"
 ---
 
-Jeune tÃªte dâ€™affiche contest
+Jeune tête d’affiche contest
 DEADLINE > JUNE 1ST
 
 Call for proposals for students of Canadian universities and/or 
-Canadian students abroad who are currently completing a Masterâ€™s 
+Canadian students abroad who are currently completing a Master’s 
 degree in Fine Arts.
 
-Dazibaoâ€™s programming brochure features, on one side, its yearly 
+Dazibao’s programming brochure features, on one side, its yearly 
 programming. The other side is dedicated to the work of an emerging 
 artist which is selected through the present call for proposals. With a 
 print-run of more than 7 000 copies, this poster will be distributed 
@@ -37,7 +38,7 @@ accepted.
 Please note that submissions are not returned.
 
 Send to:
-Jeune tÃªte dâ€™affiche Contest 
+Jeune tête d’affiche Contest 
 Dazibao 
 335, de Maisonneuve Blvd East
-MontrÃ©al, (QuÃ©bec) H2X 1K1
+Montréal, (Québec) H2X 1K1

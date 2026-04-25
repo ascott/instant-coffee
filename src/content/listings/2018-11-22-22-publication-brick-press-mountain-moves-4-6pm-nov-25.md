@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 22
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Brick Press | Mountain Moves | 4-6pm | NOV 25"
 ---
 

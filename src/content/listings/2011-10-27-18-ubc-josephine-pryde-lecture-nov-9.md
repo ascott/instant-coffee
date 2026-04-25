@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 18
 type: ""
+venue: "UBC"
 summary: "UBC | Josephine Pryde Lecture | NOV 9"
 ---
 
@@ -21,17 +22,17 @@ has had recent solo exhibitions at Chisenhale Gallery, London; MD72, Berlin;
 Reena Spaulings Fine Art, New York and Richard Telles Fine Art, Los Angeles. 
 Group shows include â€œFilms & Filmingâ€ , organised by David Lieske at Bischoff 
 Projects, Frankfurt, â€œMadame Realismâ€ , Marres Centre for Contemporary Art, 
-Maastricht, and â€œThe J.G. Ballard Centre for Psychopathological Research 
+Maastricht, and “The J.G. Ballard Centre for Psychopathological Research 
 presents: â€˜Zodiac 3000â€™ â€  at the International Project Space, Birmingham.
 Her practice employs a continuous shuttling between the generic technical 
 conditions of culture and the image, and the irreducibly singular - that for which 
 no prior decision (or strategy) can be applied. As part of the Distinguished 
-Visiting Artist Program at UBCâ€™s Department of Art History, Visual Art and 
+Visiting Artist Program at UBC’s Department of Art History, Visual Art and 
 Theory, Pryde will be giving a public lecture about her work, which is free and 
 open to the public.
 
 SB: In your exhibition Brains & Chains, you refer to Eva Hesse, amongst other 
-things. If I have understood you correctly, what youâ€™re concerned with here is 
+things. If I have understood you correctly, what you’re concerned with here is 
 the â€œmodel swotâ€ , above all the one embodied by women artists who could be, or 
 who are, established in the art business.
 
@@ -41,7 +42,7 @@ SB: In what way?
 
 JP: Well, then I would really have to say some really very embarrassing things.
 
-SB: There is no embarrassment that we canâ€™t handle here.
+SB: There is no embarrassment that we can’t handle here.
 
 JP: Yes, I think there is.
 

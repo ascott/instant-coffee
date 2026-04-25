@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 37
 type: "CALL"
+venue: "Chilliwack Museum and Archives"
 summary: "Chilliwack Museum and Archives | Call for Submissions | NOV 4"
 ---
 

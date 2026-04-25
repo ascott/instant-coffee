@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 64
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Creating Electronic Music and Sound Design | APR 27"
 ---
 

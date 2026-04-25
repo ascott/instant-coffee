@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 15
 type: "EVENT"
+venue: "City Centre Artist Lodge"
 summary: "City Centre Artist Lodge | First Saturday | MAY 4"
 ---
 

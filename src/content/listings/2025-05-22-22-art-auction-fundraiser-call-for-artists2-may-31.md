@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 22
 type: "FUNDRAISER"
+venue: "Art Auction Fundraiser"
 summary: "Art Auction Fundraiser | Call for Artists(2) | MAY 31"
 ---
 

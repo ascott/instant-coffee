@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 38
 type: "EXHIBITION"
+venue: "Massy Arts Society (window exhibition)"
 summary: "Massy Arts Society (window exhibition) | Futile Efforts by Rebecca Wang | MAY 30"
 ---
 

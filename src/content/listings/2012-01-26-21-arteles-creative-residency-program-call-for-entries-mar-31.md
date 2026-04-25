@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 21
 type: ""
+venue: "ARTELES CREATIVE RESIDENCY PROGRAM"
 summary: "ARTELES CREATIVE RESIDENCY PROGRAM | CALL FOR ENTRIES | MAR 31"
 ---
 
@@ -36,8 +37,8 @@ RESIDENCY PERIODS ------------------------
 LOCATIONS --------------------------------
 
 Arteles Creative Center
-HahmajÃ¤rventie 26
-38490 HÃ¤meenkyrÃ¶
+Hahmajärventie 26
+38490 Hämeenkyrö
 Finland
 
 APPLY ONLINE & READ MORE -----------------

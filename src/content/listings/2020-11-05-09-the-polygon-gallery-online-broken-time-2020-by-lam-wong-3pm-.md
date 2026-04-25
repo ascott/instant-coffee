@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 9
 type: "EVENT"
+venue: "The Polygon Gallery [ONLINE]"
 summary: "The Polygon Gallery [ONLINE] | Broken Time, 2020 by Lam Wong | 3PM | NOV 8"
 ---
 

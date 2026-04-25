@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: toofur"
 emailDate: "Fri, 25 May 2012 16:00:46 -0700"
 number: 17
 type: ""
+venue: "Contemporary Art Society @ Access Gallery"
 summary: "Contemporary Art Society @ Access Gallery | Emerging Artist’s Prize Exhibition | MAY  31"
 ---
 

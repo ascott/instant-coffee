@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the flatting imperative"
 emailDate: "Thu, 19 Dec 2013 12:46:17 -0800"
 number: 5
 type: ""
+venue: "221A"
 summary: "221A | 2014-15 Curatorial Residency Program | Call | FEB 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 19
 type: "EDUCATION"
+venue: "Queer Arts Festival"
 summary: "Queer Arts Festival | Queer Mentorship | 12PM | JUL 25"
 ---
 

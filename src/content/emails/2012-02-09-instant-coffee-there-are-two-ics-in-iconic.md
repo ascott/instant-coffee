@@ -79,7 +79,7 @@ Zain Burgess was born and raised in Deep Cove, North Vancouver. He
 received an Associates Degree in Sociology and Philosophy at 
 Capilano University and received a B.F.A. from Emily Carr University of 
 Art and Design with supplementary studies in Berlin at Weissensee 
-Kunsthalle, University of Art and Design. Heâ€™s been living in between 
+Kunsthalle, University of Art and Design. He’s been living in between 
 Berlin and Vancouver since, basing himself out of Vancouver. His work 
 consists of installation, performance, video and sculpture that works 
 with ideas of the cinematic phenomenology and the speculative 
@@ -113,15 +113,15 @@ Thursday evening, Februrary 9th, 5:30-8pm.
 Please join us for an evening of stories, discussion, and an open 
 invition to touch the art work!
 
-When Brent Comber was given wood from one of Canadaâ€™s oldest 
+When Brent Comber was given wood from one of Canada’s oldest 
 known trees located in near the Capilano River in North Vancouver BC, 
 he did not realize that working with this ancient material would have 
 such a profound effect on him. The powerful history of the tree, 
 including the many different communities that had inhabited the area 
 over the centuries, inspired him to look backward in time. Working with 
 this significant material triggered a desire to create art that would 
-engage the viewerâ€™s curiosity while also revealing the entire story of the 
-tree. Thus the inspiration for Comberâ€™s art stems from his connection 
+engage the viewer’s curiosity while also revealing the entire story of the 
+tree. Thus the inspiration for Comber’s art stems from his connection 
 to the basic material used in his work. This connection has everything 
 to do with personal history, a sense of place in the region and the 
 community in which the artist was born. 
@@ -135,11 +135,11 @@ well as to themselves. It is his interpretation of the natural world that
 drives Brent to create art works that reflect the stories that surround 
 him.
 
-Comberâ€™s art is created for indoor and outdoor applications. A natual 
+Comber’s art is created for indoor and outdoor applications. A natual 
 story teller, the artist will discuss the inspiration and application choices 
 behind his Alder Disk, Solid Spheres, Shattered Spheres and his 
 Sentinal Series. It is this notion of changing perceptions that drives 
-Comberâ€™s art, his desire to convey the physicality that occurs when 
+Comber’s art, his desire to convey the physicality that occurs when 
 working with wood and to reveal how his process hopes to unfold the 
 unique energy that exists within this universal material.
 
@@ -222,11 +222,11 @@ gallerys Curator of Exhibitions and Collections, Jordan Strom, who will
 provide background on the distinct approaches and techniques of the 
 artists whose works are featured in the exhibitions. The group exhibition 
 Beyond Vague Terrain: The City and the Serial Image shows many 
-sides to cities, especially Metro Vancouverâ€™s. Through photography, 
+sides to cities, especially Metro Vancouver’s. Through photography, 
 painting, drawing, and video, the artists have used the strategy of 
 multiple images to create compelling ways of representing experiences 
 of the spaces associated with cities. The tour will also address Kristen 
-Roosâ€™ sound art installation project titled Underground that uses found 
+Roos’ sound art installation project titled Underground that uses found 
 sounds and existing furnishings from the Surrey Arts Centre to create a 
 resonant aural and tactile experiences.
 
@@ -236,19 +236,19 @@ members are free.
 
 The tour will examine how and why the particular artworks on display 
 were chosen for the exhibitions, illustrate interesting stories about how 
-the artworks relate to the artistsâ€™ previous work, and illuminate the many 
+the artworks relate to the artists’ previous work, and illuminate the many 
 ideas explored in the exhibitions. Both regular tour participants and 
 first-time gallery visitors are encouraged to ask questions and share 
 their responses to the artworks.
 
 What will those on the tour experience? Beyond Vague Terrain 
-includes Sylvia Grace Bordaâ€™s interactive photographic database and 
+includes Sylvia Grace Borda’s interactive photographic database and 
 projection that depicts transit pickup and drop-off points across Surrey; 
-Roy Kiyookaâ€™s street photographs that freeze moving figures and 
+Roy Kiyooka’s street photographs that freeze moving figures and 
 passing vehicles against East Vancouver storefront facades in late-
-1970s; and Helma Sawatzkyâ€™s recombined images of a new building site 
+1970s; and Helma Sawatzky’s recombined images of a new building site 
 in South Surrey that speak to the rapid development of this part of the 
-Lower Mainland. Kristen Roosâ€™ Underground presents a form of 
+Lower Mainland. Kristen Roos’ Underground presents a form of 
 furniture music that raises questions about hidden labour and the role 
 of the body in the act of listening. 
 
@@ -274,13 +274,13 @@ Erisalu worked hard to defamiliarize his audiences. His notebooks bear
 witness to how he came time and again came to the act of painting 
 without the benefit of conventional beliefs, without religious or political 
 certainties, without, in his words, â€œTOXIC IDEAS.â€  To me, his paintingsâ€™ 
-complex formal games â€“ their mirrorings, their repetitions, tautologies 
-and repeat attempts to trompe lâ€™oeil are attempts to induce a 
+complex formal games – their mirrorings, their repetitions, tautologies 
+and repeat attempts to trompe l’oeil are attempts to induce a 
 precarious uncertainty in viewers, to make us question our most 
-cherished assumptions about paintingâ€™s relationship to language, and 
+cherished assumptions about painting’s relationship to language, and 
 to make us think dialectically, seeing words as images, and images as 
 words. This purpose was not cheerful and by all accounts never easy, 
-but it is one I respect and admire, and one I therefore canâ€™t, and wonâ€™t, 
+but it is one I respect and admire, and one I therefore can’t, and won’t, 
 â€œexplain.â€ 
 
 Opening Reception Thursday February 9th, 6-9 pm in the Trench @ 
@@ -320,7 +320,7 @@ Marten Sims is a current candidate for MAA at Emily Carr University,
 freelance graphic designer and co-director of the Wake Project 
 Society, a grass-roots non-profit devoted to public education about the 
 importance of our oceans sharks and tuna. His current research project 
-â€˜Sea Insideâ€™ examines the need to transform peoples perspectives of 
+‘Sea Inside’ examines the need to transform peoples perspectives of 
 the state of the worlds ocean through creativity, the arts and culture.
 
 Originally from the UK, Marten received his BA (hons) in Graphic 
@@ -332,7 +332,7 @@ Some of his recent high profile branding projects include the
 rebranding and large format graphics of BC Place Stadium, and the 
 brand identity of provincial sports organisation Sport BC. In 2011, 
 Marten was the recipient of the IDEA Award for his photographic work 
-â€˜Darwinâ€™s Surfacesâ€™, which is currently featured in the Vancouver 
+‘Darwin’s Surfaces’, which is currently featured in the Vancouver 
 General Hospital waiting room.
 
 Created and Designed by Marten Sims
@@ -348,7 +348,7 @@ Maksim Bentsianov, Marten Sims, Mike Swallow, Peter Mcfarlane,
 Renee Sutton, Rianne Svelnis, Robin Pickell, Sandra Sabau, Sara 
 Ciantar, Sasha Mann, Sophie Shalbert, Stephanie Jonnson, Sogol 
 Assadbeigi, Tom Powell, Theunis Snyman, Vicky Bowes, Will Phongly, 
-Yasher Nijati, Zara Contractor and you â€“ the viewer, the participant.
+Yasher Nijati, Zara Contractor and you – the viewer, the participant.
 
 ie, gallery | Emily Carr University of Art + Design | 
 www.masters.ecuad.ca/iegallery
@@ -584,7 +584,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -730,7 +730,7 @@ Video courtesy of Instant Coffee 2012
 
 Instant Coffee: Feeling So Much & Doing So Little
 Opening: February 16th at 7pm
-Exhibition: February 17th â€“ March 31st, 2012
+Exhibition: February 17th – March 31st, 2012
 
 As any good collective would, in 2005 the members of Instant Coffee 
 drafted a â€œmanifestoâ€  of sorts. In it, they define themselves and their 
@@ -752,7 +752,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
+Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free
 
 
@@ -767,7 +767,7 @@ Exhibition dates: February 17th- March 4th
 The exhibition The Romance Capital of the Yukon focuses on the idea
 of shelter and the romanticism of trying to find a space for yourself in
 the context of the north, specifically the town of Dawson City in
-CanadaÃ¢â‚¬â„¢s Yukon Territory. Each of the artists has based their work 
+Canadaâ€™s Yukon Territory. Each of the artists has based their work 
 for
 this show on personal experiences from their time spent in the Yukon
 Territory in the summer of 2011. The show features work by Northern
@@ -836,11 +836,11 @@ Chris Mackenzie- Artist
 Adam Popowitz- Musician/Producer
 Amadna Maxwell- Artist/Writer
 Carolyn Sullivan- Professional Photographer
-GÃ¤etan Royer- Architiect/ Designer
+Gäetan Royer- Architiect/ Designer
 Bob Crockett- Marketing INstructor
 Steve Cady- Animator/Mentor
 Hussein Janmohamed- Musician/Educator
-Marilyn MedÃ©n- Idea Explorer
+Marilyn Medén- Idea Explorer
 with Musical Guest - Michelle Ann Richard
 
 ------------------------------------------------------------------------
@@ -949,13 +949,13 @@ include a 2â€  bleed around the artwork (printed art work area= 11â€  x17�
 -Print ready deadline: March 19th, 2012
 
 Exhibition details:
--Reception: Friday, April 13th 8pm â€“ 2am.
+-Reception: Friday, April 13th 8pm – 2am.
 -Each piece selected will produce a run of 10 hand-screened prints on 
 Archival Inkjet paper- plus an additional two artist proofs, one for 
 exhibition display that remains property of the gallery/ curators, and 
 another for the artist to retain post exhibit.
 -A private signing night will be held at the gallery two days prior the 
-showâ€™s reception with complimentary beverages.
+show’s reception with complimentary beverages.
 -The fixed exhibition sale price of $50 will be applied to each print.
 -Any prints unsold become property of the artist post exhibition.
 -Due to the cost of materials, printing, paper etc there is a registration 
@@ -1026,7 +1026,7 @@ San Francisco Art Institute
 IN DEPTH: Summer Undergraduate Residency Program at the San 
 Francisco Art Institute (SFAI)
 
-June 18Â­â€“August 10, 2012
+June 18­–August 10, 2012
 
 Priority application deadline: April 1
 
@@ -1086,7 +1086,7 @@ application form and submission instructions.
 
 PROGRAM COST
 Tuition: 4,698 USD
-Housing (optional): 275â€“325 USD per week depending on room type 
+Housing (optional): 275–325 USD per week depending on room type 
 and availability
 
 2012 SEMINAR LEADERS
@@ -1104,7 +1104,7 @@ Rhea Anastas is an art historian and Interim Director of the M.A
 program in Art and Curatorial Practices in the Public Sphere at the 
 Roski School of Fine Arts at USC. She co-founded Orchard, a 
 cooperatively organized gallery on New York's Lower East Side, and 
-has edited three books: Dan Graham: Works 1965â€“2000 (2001), 
+has edited three books: Dan Graham: Works 1965–2000 (2001), 
 Witness to Her Art (2006), and Allan McCollum (2012).
 
 Bill Berkson is a poet, art critic, and Professor Emeritus at SFAI. A 
@@ -1135,7 +1135,7 @@ exhibited widely, including at SFMOMA and LACMA.
 
 Hans Winkler has realized actions and interventions in public space 
 since 1984. In 2008 he curated the exhibition Looking for Mushrooms, 
-about the art movement in San Francisco from 1955â€“1968, at the 
+about the art movement in San Francisco from 1955–1968, at the 
 Museum Ludwig in Cologne, Germany.
 
 Pamela Z is a composer/performer and media artist who combines a 
@@ -1159,7 +1159,7 @@ generation.
 22. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 ------------------------------------------------------------------------
 1.
-1100ftÂ² Art/Production Space for Rent (East Van)
+1100ft² Art/Production Space for Rent (East Van)
 
 
 Second floor of a warehouse, with high ceilings and mountain views, 
@@ -1167,7 +1167,7 @@ available for a month-to-month art/production studio. It's within the
 Culture Crawl boundary (Victoria Drive @ Franklin).
 This space would best suit professional working artists, wanting a 
 straightforward, quiet and mainly private workspace. The space is 
-adaptable and very secure. 1100ftÂ² includes 3 rooms with lockable 
+adaptable and very secure. 1100ft² includes 3 rooms with lockable 
 doors (2 small and one bigger), and two larger open spaces. A 
 ventilation room could be negotiated. Looking for someone who is not 
 using anything too toxic or too messy. Stair access only so it is not 

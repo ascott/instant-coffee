@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 4
 type: "EVENT"
+venue: "Project Space"
 summary: "Project Space | Open Studio: Electronic Information Age | AUG 21"
 ---
 
@@ -16,8 +17,8 @@ Enter via the alley (follow the signs!) and knock LOUDLY for entry.
 
 Join Project Space for our Monthly Open Studio presentation of
 "Electric Information Age," a survey of experimental paperbacks from
-the 1960s and 70sâ€”inspired by Vancouver Art/Book Fair exhibitor
-Inventory Press' publication The Electric Information Age Bookâ€”
+the 1960s and 70s—inspired by Vancouver Art/Book Fair exhibitor
+Inventory Press' publication The Electric Information Age Book—
 curated by Jaz Halloran and Stephane Bernard.
 
 "The Electric Information Age Book explores the nine-year window of
@@ -28,10 +29,10 @@ such as Quentin Fiore (The Medium Is the Massage, 1967) employed a
 variety of radical techniques-verbal visual collages and other
 typographic pyrotechnics-that were as important to the content as the
 text. The Electric Information Age Book is the first book-length history
-of this brief yet highly influential publishing phenomenon." â€” Inventory
+of this brief yet highly influential publishing phenomenon." — Inventory
 Press
 
-Books on view includeâ€”
+Books on view include—
 
 Inventory Press' titles:
 The Electric Information Age Book
@@ -52,5 +53,5 @@ door of 236 and enter around back in the alley. Knock loudly to be let
 in.
 
 Monthly Open Studio events are hosted every third Friday of the month
-and are organized by Project Spaceâ€™s Curatorial Collective. This edition
+and are organized by Project Space’s Curatorial Collective. This edition
 was organized by Jaz Halloran.

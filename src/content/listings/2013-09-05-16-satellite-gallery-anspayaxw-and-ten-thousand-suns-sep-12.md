@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 16
 type: ""
+venue: "SATELLITE GALLERY"
 summary: "SATELLITE GALLERY | Anspayaxw and Ten Thousand Suns | SEP 12"
 ---
 
 Anspayaxw
 an installation for voice, image, and sound
 
-September 12 â€“ October 26, 2013
+September 12 – October 26, 2013
 Opening Reception: September 12, 5:30pm to 9pm
 Artist Talk by John Wynne: September 12, 5:50 pm
 
@@ -27,14 +28,14 @@ handmade street signs on the reserve. These photographs, mounted on flat
 speakers, become the source of voices and an array of environmental sounds, 
 from bingo calling to water running under the frozen Kispiox River.
 
-In Anspayaxw, tensions between language documentation and the artistâ€™s 
+In Anspayaxw, tensions between language documentation and the artist’s 
 own creative expression are recognized and represented in image and sound. 
 Wynne considers the complex relationships linking language speakers and 
 linguistic researchers to questions of power, ownership, and the desire to 
 document, preserve, and revitalize endangered languages.
 
 John Wynne's practice includes large-scale sound installations in galleries 
-and public spaces, photographs that produce sound, and â€œcomposed 
+and public spaces, photographs that produce sound, and “composed 
 documentariesâ€  that explore the boundaries between documentation and 
 abstraction. 
 
@@ -43,7 +44,7 @@ Northwest, UBC Museum of Anthropology.
 
 Ten Thousand Suns
 
-September 12 â€“ October 26, 2013 
+September 12 – October 26, 2013 
 
 Opening reception: 
 Thursday, September 12, 5:30 to 9:00 pm 
@@ -51,12 +52,12 @@ Thursday, September 12, 5:30 to 9:00 pm
 Satellite Gallery presents Ten Thousand Suns, a new group exhibition that 
 features works in sculpture, audio, video and performance by Rebecca 
 Belmore, Tanya Tagaq, Luke Parnell, Guadalupe Martinez, Abbas Akhavan, 
-Jamie Look, Ali Ahadi, Erin Siddall, Carlos ColÃ­n and Brianne Nord-Stewart. 
+Jamie Look, Ali Ahadi, Erin Siddall, Carlos Colín and Brianne Nord-Stewart. 
 These artistsinvestigate our past and present relationships to resource 
 extraction, the body and land.
 
-The location of the exhibition in downtown Vancouverâ€”a global resource 
-exploration hub, major international port and un-ceded First Nations territoryâ€”
+The location of the exhibition in downtown Vancouver—a global resource 
+exploration hub, major international port and un-ceded First Nations territory—
 is home to some 1,200 junior mining exploration companies that operate 
 globally. Coal alone accounts for almost 40% of the total volume of goods 
 moved through the Port of Vancouver. At present only three land-claim 
@@ -71,13 +72,13 @@ practice.
 
 Ten Thousand Suns is curated by Jeremy Jaud, a UBC Critical and Curatorial 
 Studies MA Candidate. This exhibition is made possible with support from the 
-Michael Oâ€™Brian Family Foundation, the Killy Foundation, Government of the 
+Michael O’Brian Family Foundation, the Killy Foundation, Government of the 
 Northwest Territories, and the Audain Endowment for Curatorial Studies 
 through the Department of Art History, Visual Art and Theory in collaboration 
 with the Morris and Helen Belkin Art Gallery at The University of British 
 Columbia, and Satellite Gallery.
 
-â€”
+—
 
 Satellite Gallery
 560 Seymour Street, 2nd Floor. Vancouver, BC

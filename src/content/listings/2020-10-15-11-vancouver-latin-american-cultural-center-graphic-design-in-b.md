@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 11
 type: "TALK"
+venue: "Vancouver Latin American Cultural Center"
 summary: "Vancouver Latin American Cultural Center | GRAPHIC DESIGN IN BRAZIL | OCT 15"
 ---
 

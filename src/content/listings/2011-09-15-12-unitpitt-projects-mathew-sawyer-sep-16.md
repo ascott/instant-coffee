@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 12
 type: ""
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | MATHEW SAWYER | SEP 16"
 ---
 
@@ -17,7 +18,7 @@ Wrong Wave 2 consists of two nights of Vancouver-based bands Myths, Flash
 Palace, B-Lines, and Cowards, and DJs Eli Bornowsky and Andrea Lukic at The
 Waldorf Hotel, a one-night "chamber performance" by UK artist and musician
 Mathew Sawyer at UNIT/PITT, and a panel discussion/listening event devoted
-to Vancouverâ€™s most influential art-band UJ3RK5 with an oral history of the
+to Vancouver’s most influential art-band UJ3RK5 with an oral history of the
 band presented by David Wisdom at Emily Carr University.
 
 MYTHS, FLASH PALACE, DJ ELI BRONOWSKY

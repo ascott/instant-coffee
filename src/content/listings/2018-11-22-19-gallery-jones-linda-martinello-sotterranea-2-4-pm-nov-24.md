@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 19
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Linda Martinello: Sotterranea | 2-4 pm | NOV 24"
 ---
 

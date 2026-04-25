@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lone glove"
 emailDate: "Thu, 10 Dec 2015 11:00:47 -0800"
 number: 6
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Belkin @ Kardosh Projects | Book Launch - Letters: Michael Morris and... | DEC 12"
 ---
 

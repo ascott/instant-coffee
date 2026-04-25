@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 40
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | CAROLE ITTER, BRANDON LEUNG + DAN PON | 2PM | SEP 23"
 ---
 

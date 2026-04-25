@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 38
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | VAG | MICHAEL AUDAIN | 2PM | DEC 2"
 ---
 

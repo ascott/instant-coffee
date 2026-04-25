@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 29
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | Artists Engaging Community Program | OCT 3"
 ---
 

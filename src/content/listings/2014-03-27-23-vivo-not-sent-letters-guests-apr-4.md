@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 23
 type: ""
+venue: "VIVO"
 summary: "VIVO | NOT SENT LETTERS & GUESTS | APR 4"
 ---
 
@@ -17,7 +18,7 @@ Tara Travis & Elizabeth Milton
 Soressa Gardner & Dennis E. Bolen
 
 ongoing projections & digital shorts by
-Manuel PiÃ±a
+Manuel Piña
 Annie Briard
 
 digital shorts by
@@ -25,7 +26,7 @@ Dahlačkov
 Kristen Roos, Paolo Pennuti & Elisa Ferrari
 Graham Meisner
 Laura Lamb
-EdÃ©n Bastida Kullick
+Edén Bastida Kullick
 Kate Henderson
 Margaret Dragu
 
@@ -70,13 +71,13 @@ garish excesses of popular culture.
 
 Soressa Gardner & Dennis E. Bolen
 return to NSL&G with a new interdisciplinary work, using material 
-from Bolenâ€™s recently published poetry collection Black Liquor to 
+from Bolen’s recently published poetry collection Black Liquor to 
 explore both post-war, working-class malaise and the cynically 
 reasoned present. Gardner is a new music composer and classically 
 trained vocalist. Bolen is a novelist, editor, teacher and journalist (as 
-well as Gardnerâ€™s partner and frequent collaborator).
+well as Gardner’s partner and frequent collaborator).
 
-Manuel PiÃ±a
+Manuel Piña
 is a Vancouver-based artist and teacher originally from Havana, 
 Cuba. Much of his recent work considers the ways in which images 
 are conceived, consumed and understood within digitally mediated 
@@ -122,11 +123,11 @@ Laura Lamb
 is a Vancouver-based visual artist originally from Kenora, Ontario. 
 Her work explores the appearance of narrative; the struggle to live 
 authentically; displacement, marginality, utopia and disaster. Before 
-creating the umbrella project and fictive world of Lambâ€™s Performing 
+creating the umbrella project and fictive world of Lamb’s Performing 
 Objects, Laura created bodies of work in video and photography. For 
 NSL&G Lamb presents Bits and Tatters, a recent video work.
 
-EdÃ©n Bastida Kullick
+Edén Bastida Kullick
 is an interdisciplinary artist and doctoral student in Buenos Aires, 
 Argentina (originally from Monterrey, Mexico). For NSL&G he 
 presents Stat US, a short digital film questioning the Puerto Rican 
@@ -153,7 +154,7 @@ Neil Eustache
 returns to NSL&G after presenting the interactive Cool Indians On 
 Main Street VIVO Bench last fall with Vancouver-based 
 interdisciplinary artist Charlene Vickers. Eustache, a wannabe Indian 
-extra whoâ€™s seriously part white, will read from his most recent poems 
+extra who’s seriously part white, will read from his most recent poems 
 and other writings.
 
 Jeremy Todd

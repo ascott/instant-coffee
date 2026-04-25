@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 16 Jul 2025 22:15:13 -0700"
 number: 13
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Nightcrawlers | JUL 24"
 ---
 

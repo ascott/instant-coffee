@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 11
 type: "OPENING"
+venue: "Sun Wah Centre, flex space"
 summary: "Sun Wah Centre, flex space | Takatuf: From Salish Seas to Palestine | AUG 2"
 ---
 

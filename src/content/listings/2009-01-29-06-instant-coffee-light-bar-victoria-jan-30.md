@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two times double crossed legged"
 emailDate: "Thu, 29 Jan 2009 09:40:07 -0800"
 number: 6
 type: ""
+venue: "Instant Coffee"
 summary: "Instant Coffee | LIGHT BAR | Victoria | JAN 30"
 ---
 

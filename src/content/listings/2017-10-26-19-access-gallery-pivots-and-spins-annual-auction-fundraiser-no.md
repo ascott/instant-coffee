@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 19
 type: "FUNDRAISER"
+venue: "Access Gallery"
 summary: "Access Gallery | Pivots and Spins: Annual Auction Fundraiser! | NOV 18"
 ---
 

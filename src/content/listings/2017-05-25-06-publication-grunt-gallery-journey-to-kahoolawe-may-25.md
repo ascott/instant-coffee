@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 6
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | grunt gallery | Journey to Kaho'olawe | MAY 25"
 ---
 

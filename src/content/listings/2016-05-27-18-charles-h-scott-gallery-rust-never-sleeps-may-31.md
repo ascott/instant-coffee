@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 18
 type: "OPENING"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Rust Never Sleeps | MAY 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 3
 type: "TALK"
+venue: "Centre A"
 summary: "Centre A | Carol Yinghua Lu and Liu Ding | 7PM | JUN 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 24
 type: "CALL"
+venue: "St Andrew’s Wesley United Church"
 summary: "St Andrew’s Wesley United Church | Residency Call | JUN 25"
 ---
 

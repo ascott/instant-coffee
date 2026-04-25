@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 3
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Madness + Mobility: The Art of Inclusion | JUL 6"
 ---
 
@@ -21,7 +22,7 @@ The exhibition Madness + Mobility: The Art of Inclusion presents the
 works of four Vancouver-based artists and industrial designers who
 employ innovative and artful solutions to making art and space
 inclusive. Each artist examines the confinements - psychological,
-physical and economic â€“ that artists and individuals can face when
+physical and economic – that artists and individuals can face when
 informed by mental health issues, physical impairment or other forms
 of marginalization. Engaging the concept of mobility - literally and
 metaphorically - these creators work to invent escape routes from
@@ -30,7 +31,7 @@ underscoring the creative process essential to equitable access.
 
 Related programs (all programs are free and open to the public):
 
-Artistsâ€™ panel discussion: Melodie Acero, Dean Bennett, and Lavinia
+Artists’ panel discussion: Melodie Acero, Dean Bennett, and Lavinia
 Chu with Gabriella Solti, Thursday, July 12, 2012 at 6:30pm
 
 Cutting the Disability out of Disability Arts, a talk by social

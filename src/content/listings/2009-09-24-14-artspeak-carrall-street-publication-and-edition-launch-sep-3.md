@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: our songs are better"
 emailDate: "Thu, 24 Sep 2009 09:00:25 -0700"
 number: 14
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Carrall Street Publication and Edition Launch | SEP 30"
 ---
 

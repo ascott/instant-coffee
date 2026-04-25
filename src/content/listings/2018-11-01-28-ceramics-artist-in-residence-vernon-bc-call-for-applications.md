@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 28
 type: "CALL"
+venue: "Ceramics Artist in Residence (Vernon, BC)"
 summary: "Ceramics Artist in Residence (Vernon, BC) | Call for Applications | NOV 5"
 ---
 

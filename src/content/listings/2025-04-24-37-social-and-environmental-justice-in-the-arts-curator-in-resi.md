@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 37
 type: "CALL"
+venue: "Social and Environmental Justice in the Arts"
 summary: "Social and Environmental Justice in the Arts | Curator-in-Residence | MAY 15"
 ---
 

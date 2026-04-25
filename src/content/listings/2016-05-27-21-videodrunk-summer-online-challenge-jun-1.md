@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 21
 type: "CALL"
+venue: "Videodrunk"
 summary: "Videodrunk | Summer Online Challenge | JUN 1"
 ---
 

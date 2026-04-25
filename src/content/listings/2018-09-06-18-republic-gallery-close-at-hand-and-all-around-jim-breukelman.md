@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 18
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Close at Hand and All Around: Jim Breukelman | 6PM | SEP 7"
 ---
 

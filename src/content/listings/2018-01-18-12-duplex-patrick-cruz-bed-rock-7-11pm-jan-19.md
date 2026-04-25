@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 12
 type: "OPENING"
+venue: "DUPLEX"
 summary: "DUPLEX | Patrick Cruz - BED ROCK | 7-11PM | JAN 19"
 ---
 

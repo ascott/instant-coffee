@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 25
 type: "CALL"
+venue: "Hatch Gallery & Vancouver Women's Library"
 summary: "Hatch Gallery & Vancouver Women's Library | Call for Artists | JUL 15"
 ---
 

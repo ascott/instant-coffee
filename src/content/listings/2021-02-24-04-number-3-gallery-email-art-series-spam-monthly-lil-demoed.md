@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Number 3 Gallery Email Art Series"
 summary: "Number 3 Gallery Email Art Series | SPAM MONTHLY : LIL DEMOED"
 ---
 

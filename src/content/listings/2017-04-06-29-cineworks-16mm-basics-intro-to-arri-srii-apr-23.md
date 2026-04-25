@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 29
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | 16mm Basics: Intro to Arri SRii | APR 23"
 ---
 

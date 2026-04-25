@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 24
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Provisional Realism Andrew James McKay | 6PM | MAR 5"
 ---
 

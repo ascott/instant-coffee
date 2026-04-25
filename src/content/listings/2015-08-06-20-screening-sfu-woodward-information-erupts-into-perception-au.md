@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 20
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Woodward | Information Erupts into Perception | AUG 18"
 ---
 
@@ -32,7 +33,7 @@ VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the Body Pol
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to
 seemingly random patterns that, when organized into information, can be
-rendered audiovisually. MoirÃ© patterns, shadow puppets, analog video decay,
+rendered audiovisually. Moiré patterns, shadow puppets, analog video decay,
 surveillance technology, and other media collect and give shape to
 disavowed histories and the voices of the earth. In some cases these acts
 of translation permit a heightened political analysis. In others, they

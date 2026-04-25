@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 15
 type: ""
+venue: "Vancouver Symphony Orchestra"
 summary: "Vancouver Symphony Orchestra | Jean Coulthard Readings | MAR 21"
 ---
 
@@ -11,14 +12,14 @@ The Vancouver Symphony Orchestra, VSO Assistant Conductor Pierre Simard,
 and Composer-in-Residence Scott Good are pleased to present the 2011 Jean
 Coulthard Readings. Named in honour of one of BC's most beloved composers,
 the Jean Coulthard Readings feature the award-winning VSO reading the works
-of exciting new composers on Vancouverâ€™s contemporary classical scene.
+of exciting new composers on Vancouver’s contemporary classical scene.
 Seven orchestral works have been selected, by the following composers:
 Paul Donghoon Lee (The Persistence of Memory), Elliot Vaughan (Smash
-Smash), Jared Richardson (Riders of the West), James Oâ€™Callaghan (Mouths),
+Smash), Jared Richardson (Riders of the West), James O’Callaghan (Mouths),
 Livia Gho (Hymn Tunes), Roydon Tse (Three Musings and a Dance, Op. 2) and
 John Joseph Kastelic (below a cloud).
 
-Monday, March 21, 2011 â€“ 10 a.m. to 1 p.m. at the Orpheum Theatre
+Monday, March 21, 2011 – 10 a.m. to 1 p.m. at the Orpheum Theatre
 Admission is FREE.
 
 601 Smithe Street, Vancouver, BC, V6B 5G1

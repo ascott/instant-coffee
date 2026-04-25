@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 18
 type: "EVENT"
+venue: "322 E. 5th Ave"
 summary: "322 E. 5th Ave | Pleasant Pottery Studio Spring Sale | MAY 5"
 ---
 

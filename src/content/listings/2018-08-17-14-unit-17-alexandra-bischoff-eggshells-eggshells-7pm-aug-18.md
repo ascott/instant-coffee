@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 14
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Alexandra Bischoff eggshells, eggshells | 7PM | AUG 18"
 ---
 

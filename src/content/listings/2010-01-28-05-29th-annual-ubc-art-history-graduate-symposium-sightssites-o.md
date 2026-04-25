@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 5
 type: ""
+venue: "29th Annual UBC Art History Graduate Symposium"
 summary: "29th Annual UBC Art History Graduate Symposium | Sights/Sites of Spectacle | JAN 29"
 ---
 

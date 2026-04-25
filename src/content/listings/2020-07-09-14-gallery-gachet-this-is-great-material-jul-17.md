@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | THIS IS GREAT MATERIAL | JUL 17"
 ---
 

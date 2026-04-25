@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 17
 type: "TALK"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Gwen Allen | JAN 22"
 ---
 

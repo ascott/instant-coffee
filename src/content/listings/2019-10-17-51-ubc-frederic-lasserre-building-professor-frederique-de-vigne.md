@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 51
 type: "TALK"
+venue: "UBC- Frederic Lasserre Building"
 summary: "UBC- Frederic Lasserre Building | Professor Frederique de Vignemont | 530PM | OCT 23"
 ---
 

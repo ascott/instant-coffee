@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears"
 emailDate: "Thu, 30 Jan 2020 10:00:05 -0800"
 number: 11
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Crocodile Tears | JAN 31"
 ---
 

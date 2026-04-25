@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 9
 type: "TALK"
+venue: "CSA Space"
 summary: "CSA Space | Michael Drebert | NOV 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 24
 type: "FUNDRAISER"
+venue: "SCA Alumni Fundraising Exhibition & Online"
 summary: "SCA Alumni Fundraising Exhibition & Online | Be True to Your School | UNTIL DEC 13 | DEC 13"
 ---
 

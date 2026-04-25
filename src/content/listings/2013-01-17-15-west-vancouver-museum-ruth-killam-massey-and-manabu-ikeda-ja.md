@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 15
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Ruth Killam Massey and Manabu Ikeda | JAN 19"
 ---
 
@@ -18,19 +19,19 @@ On View at the West Vancouver Museum:
 
 The Edge of a Shadow
 The Paintings of Ruth Killam Massey 
-January 16 â€“ February 23, 2013
+January 16 – February 23, 2013
 
-Like the edge of a shadow, which Ruth Massey referred to as being â€œso 
+Like the edge of a shadow, which Ruth Massey referred to as being “so 
 eloquent,â€  Masseyâ€™s paintings express the ever-changing mood of the coastal 
 landscape, using a distinct colour pallet and soft-edged brushwork. Hernando 
-Island, where she had a summer home, was a favourite muse of Masseyâ€™s 
-and this is one place where her view that â€œthe expression of mood in nature 
+Island, where she had a summer home, was a favourite muse of Massey’s 
+and this is one place where her view that “the expression of mood in nature 
 through its slate of vibrant inter-relationshipsâ€  could be explored on the 
 boundary between the sea and shore and the hillside and forest. Massey 
 framed views of the ocean through piles of driftwood and windswept grasses 
 and at times, turned her perspective inland to capture the interplay of light and 
 shadow in the branches of a craggy tree or created by clouds passing 
-overhead. The exhibition is a tribute and celebration of Ruth Massey (1924 â€“ 
+overhead. The exhibition is a tribute and celebration of Ruth Massey (1924 – 
 2011) and the legacy she created over her lifetime. 
 
 Manabu Ikeda

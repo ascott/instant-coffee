@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 4
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Chris Gergley | til | APR 4"
 ---
 

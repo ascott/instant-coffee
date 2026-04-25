@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 16
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Panel Discussion on the Umbrella Revolution | NOV 18"
 ---
 
@@ -31,7 +32,7 @@ Project Leader for the Hong Kong Canada Crosscurrents Project, will speak
 about the historical contexts for the protests in Hong Kong and the
 connections between Hong Kong and Vancouver.
 
-â€”
+—
 
 For more information contact:
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca

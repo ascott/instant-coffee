@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 2
 type: ""
+venue: "WAAP"
 summary: "WAAP | Mark Dudiak & Evann Siebens | JAN 9"
 ---
 
@@ -23,23 +24,23 @@ exploring contemporary social dance, featuring videos and serial
 photographs by Vancouver-based Evann Siebens and paintings by 
 Toronto-based Mark Dudiak.
 
-Evann Siebensâ€™ video work Chromatic Revelry connects the ordered, 
-harmonic fugue and prelude compositions within J.S. Bachâ€™s Well-
+Evann Siebens’ video work Chromatic Revelry connects the ordered, 
+harmonic fugue and prelude compositions within J.S. Bach’s Well-
 Tempered Clavier with the chaos of rave culture. With each of the 10 
 short films shot on Super 8 film in clubs and at raves in the 1990s, the 
 piece suggests a timelessness to parties, celebration and dance. The 
 visual chaos is married to the musical chromatic scale, and stitches it 
-to the artistâ€™s classical dance training and aesthetic. The film is a 
-synthesis of Siebensâ€™ experimental dancefilm work and traditional 
+to the artist’s classical dance training and aesthetic. The film is a 
+synthesis of Siebens’ experimental dancefilm work and traditional 
 documentary filmmaking and reflects her ongoing investigation into 
 media and dance. It is trans-historical, lost in time, and comments on 
 the nature of revelry, celebration and the human form rather than a 
 particular moment in history.
 
-Mark Dudiakâ€™s Laser Paintings are an ongoing series of air-brushed 
-paintings evocative of 1990â€™s electronic music album covers or 
+Mark Dudiak’s Laser Paintings are an ongoing series of air-brushed 
+paintings evocative of 1990’s electronic music album covers or 
 discotheque murals. Each Laser Painting is created systematically 
-using a semi-mechanical airbrushing technique of the artistâ€™s own 
+using a semi-mechanical airbrushing technique of the artist’s own 
 design, according to a set of predetermined formal parameters; 
 uniform dimensions, a fixed palette based upon the chroma in the 
 visible light spectrum, and a strict figure / ground relationship. They 

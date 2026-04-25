@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 53
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Western Front | Yes No Wave | OCT 18&19 | 730PM | OCT 18"
 ---
 

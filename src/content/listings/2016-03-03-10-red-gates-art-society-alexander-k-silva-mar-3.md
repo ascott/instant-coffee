@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 10
 type: "OPENING"
+venue: "Red Gates Art Society"
 summary: "Red Gates Art Society | Alexander K. Silva | MAR 3"
 ---
 

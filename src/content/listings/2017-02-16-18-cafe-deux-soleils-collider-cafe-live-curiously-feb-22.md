@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 18
 type: "EVENT"
+venue: "Cafe Deux Soleils"
 summary: "Cafe Deux Soleils | Collider Cafe: Live. Curiously. | FEB 22"
 ---
 

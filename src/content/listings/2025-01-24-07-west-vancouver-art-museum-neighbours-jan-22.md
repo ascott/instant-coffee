@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Neighbours | JAN 22"
 ---
 

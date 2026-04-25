@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 31
 type: "CALL"
+venue: "Britannia Art Gallery"
 summary: "Britannia Art Gallery | CALL FOR SUBMISSIONS - 2019 PROGRAM | NOV 30"
 ---
 

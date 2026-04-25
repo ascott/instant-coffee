@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 33
 type: "CALL"
+venue: "Lands to Travel Through"
 summary: "Lands to Travel Through | Call for Proposals | NOV 18"
 ---
 

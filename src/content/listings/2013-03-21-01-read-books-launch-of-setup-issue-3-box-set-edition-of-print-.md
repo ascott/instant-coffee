@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 1
 type: ""
+venue: "READ Books"
 summary: "READ Books | Launch of Setup Issue 3 + Box Set Edition of Print | MAR 21"
 ---
 
@@ -29,10 +30,10 @@ Setup 3 is made up of contributions by Lili Renaud Dewar, Olivia
 Dunbar, Collin Feigle, Feminist Land Art Retreat, Tiziana La Melia,
 Mark Lewis, Silke Otto-Knapp, and Rob Stone.
 
-Setup publishes texts and artistsâ€™ projects by a wide spectrum of 
+Setup publishes texts and artists’ projects by a wide spectrum of 
 contributors, from students to established artists and writers,
 while prioritizing a combination of creativity and rigorous inquiry. Setup 
-began as a project for The Practice of Artistsâ€™ Publishing,
+began as a project for The Practice of Artists’ Publishing,
 a course taught by Kathy Slade at Emily Carr University in the fall of 
 2010. Setup is independently funded and is published by
 Publication Studio Vancouver on an unfixed schedule.
@@ -61,7 +62,7 @@ poems and interviews herein reflect the diversity of forms through
 which art is currently produced and considered. We feature a spectrum 
 of contributors, from students to established artists and writers, all the 
 while prioritizing a combination of creativity and rigorous inquiry. Setup 
-magazine began as a project for The Practice of Artistsâ€™ Publishing, a 
+magazine began as a project for The Practice of Artists’ Publishing, a 
 course taught by Kathy Slade at Emily Carr University in the fall of 
 2010. Published by Publication Studio Vancouver, it is independently 
 funded and released on an unfixed schedule. We gratefully 
@@ -123,10 +124,10 @@ Victoria in 2005.
 
 Judy Radul lives and works in Vancouver. Her practice includes video 
 installation, photography, sculpture, performance, and mixed media 
-installations. Recently Radulâ€™s large scale media installation World 
+installations. Recently Radul’s large scale media installation World 
 Rehearsal Court was exhibited at the Morris and Helen Belkin Gallery, 
 UBC and travelled to the Generali Foundation, Vienna, and Media City 
-Seoul, Korea. This work draws on Radulâ€™s research into the role of 
+Seoul, Korea. This work draws on Radul’s research into the role of 
 theatricality and new technologies in the court of law and it questions 
 the distinctions between experience, testimony, truth, and fiction that 
 the law attempts to make distinct. In 2011 she co-edited the anthology 
@@ -145,19 +146,19 @@ allows her to repeatedly wash down her images, and rework them
 layer by layer, in order to create pictures of great translucency and 
 delicacy.
 
-Solo exhibitions of Otto-Knappâ€™s work include A light in the moon at UC 
+Solo exhibitions of Otto-Knapp’s work include A light in the moon at UC 
 Berkeley Art Museum and Pacific Film Archive (2011); Many many 
-women, Kunstverein MÃ¼nchen, Munich (2010); as well as exhibitions at 
+women, Kunstverein München, Munich (2010); as well as exhibitions at 
 Walter Phillips Gallery, Banff (2009); Modern Art Oxford (2009); Tate 
-Britain, London (2005), and Kunstverein fÃ¼r die Rheinlande und 
-Westfalen, DÃ¼sseldorf (2003). She has participated in group exhibitions 
+Britain, London (2005), and Kunstverein für die Rheinlande und 
+Westfalen, Düsseldorf (2003). She has participated in group exhibitions 
 at the ICA Boston (2011); Migros Museum, Zurich (2010); National 
 Museum of Contemporary Art, Athens (2006); and the 9th International 
 Istanbul Biennial (2005).
 
 Otto-Knapp is represented by Galerie Daniel Buchloz, Cologne; 
 greengrassi, London; Overduin and Kite, Los Angeles; and Gavin 
-Brownâ€™s enterprise, New York.
+Brown’s enterprise, New York.
 
 Sean Weisgerber is a graduate of Emily Carr University of Art + 
 Design. In 2010, he founded 304 Days, an independently funded artist-

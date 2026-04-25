@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we’re waylaid "
 emailDate: "Wed, 04 Jan 2012 21:35:09 -0800"
 number: 7
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Christoph Runné | JAN 12"
 ---
 

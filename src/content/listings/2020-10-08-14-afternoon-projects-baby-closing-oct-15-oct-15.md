@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Baby | Closing Oct 15 | OCT 15"
 ---
 

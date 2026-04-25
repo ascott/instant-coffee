@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 34
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Nailed it: Vietnamese & the nail industry | APR 5"
 ---
 

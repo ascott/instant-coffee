@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 16
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Brian Jungen | NOV 19"
 ---
 

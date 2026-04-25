@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 20
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Vulnerable Pleasures | 8PM | OCT 17"
 ---
 

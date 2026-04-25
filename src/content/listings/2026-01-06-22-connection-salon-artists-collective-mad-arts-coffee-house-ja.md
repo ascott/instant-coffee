@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 22
 type: "EVENT"
+venue: "Connection Salon Artists Collective"
 summary: "Connection Salon Artists Collective | Mad Arts Coffee House | JAN 29"
 ---
 

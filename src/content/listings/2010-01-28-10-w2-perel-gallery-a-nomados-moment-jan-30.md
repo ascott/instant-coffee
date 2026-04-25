@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 10
 type: ""
+venue: "W2 Perel Gallery"
 summary: "W2 Perel Gallery | A NOMADOS MOMENT | JAN 30"
 ---
 

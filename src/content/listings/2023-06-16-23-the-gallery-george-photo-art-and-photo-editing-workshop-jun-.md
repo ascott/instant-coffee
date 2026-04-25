@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 23
 type: "EDUCATION"
+venue: "The Gallery George"
 summary: "The Gallery George | Photo Art and Photo Editing Workshop | JUN 22"
 ---
 

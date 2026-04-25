@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 11
 type: ""
+venue: "TRENCH Contemporary Art"
 summary: "TRENCH Contemporary Art | Nicholas Galanin: Home, Memory of Land & Space | MAR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 23
 type: "EXHIBITION"
+venue: "Vancouver Public Art Program"
 summary: "Vancouver Public Art Program | Lisa Lewis (Xwemilut) | FEB 29"
 ---
 

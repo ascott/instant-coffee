@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 10
 type: "EDUCATION"
+venue: "Unit 17"
 summary: "Unit 17 | Laban Movement Workshop | 11AM | AUG 4"
 ---
 

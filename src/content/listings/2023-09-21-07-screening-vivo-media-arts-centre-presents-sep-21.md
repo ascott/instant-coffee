@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | PRESENTS | SEP 21"
 ---
 

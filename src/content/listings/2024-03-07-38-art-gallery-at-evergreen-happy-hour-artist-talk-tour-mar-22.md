@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 38
 type: ""
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Happy Hour Artist Talk & Tour | MAR 22"
 ---
 

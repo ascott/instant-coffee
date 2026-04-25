@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: our songs are better"
 emailDate: "Thu, 24 Sep 2009 09:00:25 -0700"
 number: 18
 type: ""
+venue: "221A Artist Run Centre"
 summary: "221A Artist Run Centre | Submissions for auction | OCT 31"
 ---
 

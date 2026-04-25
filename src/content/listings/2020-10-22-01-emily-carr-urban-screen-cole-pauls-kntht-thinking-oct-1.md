@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Emily Carr urban screen"
 summary: "Emily Carr urban screen | Cole Pauls - K'ānäthät (Thinking) | OCT 1"
 ---
 

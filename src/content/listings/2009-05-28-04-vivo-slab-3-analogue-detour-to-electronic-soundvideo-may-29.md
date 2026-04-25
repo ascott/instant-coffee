@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that looks nice"
 emailDate: "Thu, 28 May 2009 08:57:00 -0700"
 number: 4
 type: ""
+venue: "VIVO"
 summary: "VIVO | SLAB 3: ANALOGUE DETOUR TO ELECTRONIC SOUND&VIDEO | MAY 29"
 ---
 

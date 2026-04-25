@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 12
 type: "CALL"
+venue: "City of Vancouver - Public Art Program"
 summary: "City of Vancouver - Public Art Program | Proposals for Temporary 2-D Outdoor Works | OCT 5"
 ---
 

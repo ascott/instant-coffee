@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 20
 type: "CALL"
+venue: "World of Threads Festival"
 summary: "World of Threads Festival | Call for Submissions | APR 30"
 ---
 

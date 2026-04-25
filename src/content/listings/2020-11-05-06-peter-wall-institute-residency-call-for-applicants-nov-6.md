@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 6
 type: "CALL"
+venue: "Peter Wall Institute residency"
 summary: "Peter Wall Institute residency | Call for applicants | NOV 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 32
 type: "EVENT"
+venue: "Vicuña Art Studio"
 summary: "Vicuña Art Studio | Maple Ridge | Annual Winter Art Show | 11-3pm | DEC 1"
 ---
 

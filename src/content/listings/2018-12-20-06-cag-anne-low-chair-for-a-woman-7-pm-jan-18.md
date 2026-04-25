@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NAKED STATE"
 emailDate: "Thu, 20 Dec 2018 15:00:17 -0800"
 number: 6
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Anne Low | Chair for a woman | 7 pm | JAN 18"
 ---
 

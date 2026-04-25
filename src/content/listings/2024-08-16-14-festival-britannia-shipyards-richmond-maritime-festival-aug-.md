@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 14
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Britannia Shipyards | Richmond Maritime Festival | AUG 24-25 | AUG 24"
 ---
 

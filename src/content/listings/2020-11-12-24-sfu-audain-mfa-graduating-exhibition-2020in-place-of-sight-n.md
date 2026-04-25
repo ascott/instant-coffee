@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 24
 type: "OPENING"
+venue: "SFU Audain"
 summary: "SFU Audain | MFA Graduating Exhibition 2020:In Place of Sight | NOV 26"
 ---
 

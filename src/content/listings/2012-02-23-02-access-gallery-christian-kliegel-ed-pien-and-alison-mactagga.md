@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 2
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Christian Kliegel, Ed Pien, and Alison MacTaggart | FEB 24"
 ---
 
@@ -16,8 +17,8 @@ national, and international artists, Christian Kliegel, Ed Pien, and Alison
 MacTaggart have produced new work launching from the ideas and 
 concerns found earlier in their career. The exhibition was comprised of 
 three successive installations.
-Alison MacTaggart: February 14th â€“ 25th, 2012
-In 2002, Alison MacTaggartâ€™s Access exhibition, The Egg Throwing 
+Alison MacTaggart: February 14th – 25th, 2012
+In 2002, Alison MacTaggart’s Access exhibition, The Egg Throwing 
 Apparatus explored the symbolic gesture of being named called or 
 called out to in the social realm. Creating egg throwing projectile 
 machines and a series of abstract watercolours resembling smashed 
@@ -32,13 +33,13 @@ Embodiments for One Tuning-Fork-Like Apparatus or More. This
 particular installation builds on past works including The Egg Throwing 
 Apparatus and The Nerve.
 
-You and Iâ€¦ emerges from the artistâ€™s ongoing concerns with the power 
+You and I… emerges from the artist’s ongoing concerns with the power 
 of language and speech and with making conceptual art objects that 
 appear to be mechanically purposeful devices. This new work also 
 draws parallels between art objects and inventions, artists and 
 inventors and their quests to devise solutions to problems and ideas.
 
-You and Iâ€¦ includes a series of illustrations with text, and two 
+You and I… includes a series of illustrations with text, and two 
 prototypes: Prototype A (the outdoor version) and Prototype B (the 
 indoor version). Viewers are welcome to examine Prototype B, which is 
 included in the exhibit but are not allowed to operate it. The artwork 
@@ -55,7 +56,7 @@ abstract, diagrammatic drawings, descriptions and naming of the
 prototypes and their parts, the visuals help â€œexplainâ€  to the viewer how 
 the prototypes â€œworkâ€ .
 
-MacTaggartâ€™s installation incorporates elements of both humour and 
+MacTaggart’s installation incorporates elements of both humour and 
 seriousness in order to simultaneously engage and unsettle the viewer. 
 The resulting works in the exhibit make â€œvibratoryâ€  references to 
 harmony and discordance, pitch, tone, elastic potential energy, and 
@@ -81,8 +82,8 @@ Victoria, BC, 2008). In 2012, she is participating in the group exhibition
 Throw Down at the Art Gallery of Greater Victoria.
 
 Past installations at New Work included:
-Ed Pien: January 29th â€“ February 11th, 2012
-Christian Kliegel: January 20th â€“ 27th, 2012
+Ed Pien: January 29th – February 11th, 2012
+Christian Kliegel: January 20th – 27th, 2012
 Check www.accessgallery.ca for more details
 
 Access Gallery gratefully acknowledges the Canada Council for the 

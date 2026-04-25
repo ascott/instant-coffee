@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 26
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Researching Online Photos | OCT 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 20
 type: ""
+venue: "Electricity is Magic Gallery"
 summary: "Electricity is Magic Gallery | Call for Works | FEB 29"
 ---
 
@@ -56,19 +57,19 @@ Electricity is Magic was founded in 2009 by Matt Griffin and Eric Powell as a
 label to release experimental electronic and electroacoustic music. To date, 
 EiM have released 6 physical and digital records. Quickly, they expanded their 
 scope to include curatorial and gallery projects, beginning with Vinosonic at 
-Chicagoâ€™s Experimental Sound Studio in September 2009. Since then, EiM have 
+Chicago’s Experimental Sound Studio in September 2009. Since then, EiM have 
 partnered with artists and galleries throughout North America to create 
 performative and time-based events in unconventional spaces and contexts.
 
 In the spring of 2012, EiM are proud to be opening the doors to the Electricity is 
 Magic Gallery, an apartment space at 715 Richmond St., in Toronto.
 
-Our aim with the gallery space is to continue to present works that donâ€™t 
+Our aim with the gallery space is to continue to present works that don’t 
 necessarily fit comfortably within a traditional gallery context. Artists will be 
 given the challenge of presenting work which engages with or reacts to the 
 living space of the apartment. We are particularly interested in work which 
 employs some aspect of technological mediation, but not necessarily as the 
-impetus for the piece. Weâ€™re also interested in slow art, which not only 
+impetus for the piece. We’re also interested in slow art, which not only 
 requests, but often demands, and always reminds us of the pleasure in 
 sustained viewing of a particular work.
 

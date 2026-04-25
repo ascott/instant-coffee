@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 12
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | soothsay | Gabi Dao & geetha thurairajah | SEP 11"
 ---
 

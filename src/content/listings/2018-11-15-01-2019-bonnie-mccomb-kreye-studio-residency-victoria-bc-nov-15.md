@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 1
 type: "CALL"
+venue: "2019 Bonnie McComb Kreye"
 summary: "2019 Bonnie McComb Kreye | Studio Residency (VICTORIA, BC) | NOV 15"
 ---
 

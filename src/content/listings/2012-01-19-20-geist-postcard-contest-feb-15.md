@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 20
 type: ""
+venue: "Geist"
 summary: "Geist | Postcard Contest | FEB 15"
 ---
 

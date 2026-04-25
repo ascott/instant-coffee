@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we’re waylaid "
 emailDate: "Wed, 04 Jan 2012 21:35:09 -0800"
 number: 2
 type: ""
+venue: "Michele Di Menna"
 summary: "Michele Di Menna | Book presentation and Reading | JAN 5"
 ---
 

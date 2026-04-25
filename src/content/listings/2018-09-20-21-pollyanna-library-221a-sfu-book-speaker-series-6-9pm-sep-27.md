@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 21
 type: "EVENT"
+venue: "Pollyanna Library @ 221A"
 summary: "Pollyanna Library @ 221A | SFU Book + Speaker Series | 6-9PM | SEP 27"
 ---
 

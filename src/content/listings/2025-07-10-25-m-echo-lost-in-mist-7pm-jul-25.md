@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 25
 type: "OPENING"
+venue: "MÌ"
 summary: "MÌ | echo lost in mist | 7PM | JUL 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 19
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | MARK BUTLER: Suburbia and Other Places | JAN 19"
 ---
 

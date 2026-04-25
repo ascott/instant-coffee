@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 39
 type: ""
+venue: "JOB"
 summary: "JOB | Centre A | Executive Director | AUG 2"
 ---
 

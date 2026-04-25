@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 30
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Life Drawing | SEP 22"
 ---
 

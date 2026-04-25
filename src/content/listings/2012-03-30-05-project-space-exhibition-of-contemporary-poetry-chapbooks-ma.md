@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 5
 type: ""
+venue: "Project Space"
 summary: "Project Space | Exhibition of Contemporary Poetry Chapbooks | MAR 30"
 ---
 
@@ -15,7 +16,7 @@ tracy@projectspace.ca | 604.690.4164
 Project Space Opens Exhibition of Contemporary Poetry Chapbooks 
 Curated by Poetry Is Dead Publisher Daniel Zomparelli 
 
-VANCOUVER, BC â€“ Project Space will open its first exhibition, Arte 
+VANCOUVER, BC – Project Space will open its first exhibition, Arte 
 Factum, 
 on Friday, March 30 at 8pm with an opening reception that doubles as 
 the launch
@@ -23,9 +24,9 @@ of Poetry Is Dead issue five.
 
 Arte Factum is an exhibition of poetry chapbooks from across North 
 America 
-that features twenty contemporary worksâ€”including new releases by 
+that features twenty contemporary works—including new releases by 
 Jordan Abel 
-and Dina Del Bucchia, commissioned by Poetry Is Deadâ€”and is 
+and Dina Del Bucchia, commissioned by Poetry Is Dead—and is 
 accompanied by 
 curator Daniel Zomparelli's personal chapbook collection along with 
 additional 
@@ -51,7 +52,7 @@ to rise in popularity. This resurgence of an antiquated book production
 and distribution 
 process reflects a rebellion against mass dissemination online or 
 through traditional 
-distribution channelsâ€”a push towards localization versus globalization. 
+distribution channels—a push towards localization versus globalization. 
 How do we 
 create in a time of digitalism? We revert back to physical production.
 

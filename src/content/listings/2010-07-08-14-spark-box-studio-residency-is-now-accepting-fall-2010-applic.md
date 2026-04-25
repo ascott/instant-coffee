@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 14
 type: ""
+venue: "SPARK BOX STUDIO"
 summary: "SPARK BOX STUDIO | Residency is now accepting Fall 2010 applications | JUL 30"
 ---
 

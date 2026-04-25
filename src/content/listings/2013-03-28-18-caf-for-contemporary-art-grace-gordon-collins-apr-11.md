@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 18
 type: ""
-summary: "cafÃ© for contemporary art | Grace Gordon-Collins | APR 11"
+venue: "café for contemporary art"
+summary: "café for contemporary art | Grace Gordon-Collins | APR 11"
 ---
 
-cafÃ© for contemporary art presents
+café for contemporary art presents
 
 PHANTASMA
 
@@ -18,10 +19,10 @@ Opening reception: April 11, 7pm -9pm
 
 PHANTASMA explores and deepens an intimate collaboration between Grace 
 Gordon-Collins and her daughter Alexandria, which first began with the 
-creation of ICON, a graphic book where Alexandriaâ€™s poetry met Graceâ€™s 
+creation of ICON, a graphic book where Alexandria’s poetry met Grace’s 
 visual imagery. For this exhibition, this well-established local architect and 
 designer explores her well-honed spatial design capacities to construct a 
-three-dimensional installation of a selected poem from this book: Alexandriaâ€™s 
+three-dimensional installation of a selected poem from this book: Alexandria’s 
 speculative love letter from Frida Kahlo to Leon Trotsky. Accompanied with 
 this piece is the video installation of ICON, which segues into another mother-
 daughter collaborative photography series: Pulp.
@@ -29,7 +30,7 @@ daughter collaborative photography series: Pulp.
 Having created short narratives with female leads in both ICON and Pulp, 
 Grace offers a synopsis of each story through the construction of a cinema-
 graphic scene, with Alexandria posing as the heroine in each setting. Some 
-fictional, some iconic, and others directly related to Graceâ€™s past, the stories 
+fictional, some iconic, and others directly related to Grace’s past, the stories 
 examine an array of female archetypes facing various contemporary narrative 
 circumstances.
 
@@ -49,7 +50,7 @@ influences of her recent studies at Emily Carr and a career in architecture and
 design, has given her work a multi-layered quality: esoteric at times, 
 pragmatic and structured at others. 
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 Cafe for Contemporary Art, All rights reserved.
+Copyright © 2013 Cafe for Contemporary Art, All rights reserved.
 This is a list of journalists, papers, bloggers and more to whom we send our 
 press releases. If you would rather not receive press releases from the cafe for 
 contemporary art you may click unsubscribe. 

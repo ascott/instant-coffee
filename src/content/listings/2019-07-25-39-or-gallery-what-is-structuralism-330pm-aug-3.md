@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 39
 type: "EDUCATION"
+venue: "Or Gallery"
 summary: "Or Gallery | What Is Structuralism? | 3:30PM | AUG 3"
 ---
 

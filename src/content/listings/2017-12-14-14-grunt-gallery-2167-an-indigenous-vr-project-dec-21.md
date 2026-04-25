@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 14
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | 2167, An Indigenous VR Project | DEC 21"
 ---
 

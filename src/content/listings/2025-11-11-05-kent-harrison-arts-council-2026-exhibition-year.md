@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 5
 type: "CALL"
+venue: "Kent Harrison Arts Council"
 summary: "Kent Harrison Arts Council | 2026 Exhibition Year"
 ---
 

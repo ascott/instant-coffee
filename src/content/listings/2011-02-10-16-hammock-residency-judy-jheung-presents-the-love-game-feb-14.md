@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 16
 type: ""
+venue: "Hammock Residency"
 summary: "Hammock Residency | Judy Jheung presents The Love Game | FEB 14"
 ---
 
@@ -28,7 +29,7 @@ Vancouver (between Victoria and Graveley)
 Judy Jheung presents â€œComposing You: the love gameâ€  for Hammock Residency
 on the 
 
-eve of Valentineâ€™s Day. Designed to engage with communities, the residency
+eve of Valentine’s Day. Designed to engage with communities, the residency
 presentation 
 
 exemplifies notions of collectiveness and collaboration, change and chance
@@ -60,7 +61,7 @@ with twin artists,
 
 Peggy and Karen Ngan. 
 
-Jheungâ€™s installations are often interactive rendered in a form that
+Jheung’s installations are often interactive rendered in a form that
 propels the audience 
 
 along a journey. She instigates situations and exchanges, inviting
@@ -77,7 +78,7 @@ York.
 Karen and Peggy Ngan are Vancouver based artists and members of the YacTac
 collective. 
 
-â€¢ Balcone and the Hammock Residency gratefully acknowledge the support of
+• Balcone and the Hammock Residency gratefully acknowledge the support of
 the Province of 
 
 British Columbia and the Assembly of British Columbia Arts Councils for the

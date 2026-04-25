@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 9
 type: "EXHIBITION"
+venue: "Alternator Window Gallery [Kelowna]"
 summary: "Alternator Window Gallery [Kelowna] | Moozhan Ahmadzadegan | Where Are You Really From? | NOV 20"
 ---
 

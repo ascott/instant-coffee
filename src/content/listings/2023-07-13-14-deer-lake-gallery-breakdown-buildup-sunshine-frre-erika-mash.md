@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 14
 type: ""
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Breakdown Buildup - Sunshine Frère, Erika Mashig, | JUL 15"
 ---
 

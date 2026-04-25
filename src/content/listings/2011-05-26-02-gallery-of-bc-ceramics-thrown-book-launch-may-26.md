@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 2
 type: ""
+venue: "Gallery of BC Ceramics"
 summary: "Gallery of BC Ceramics | THROWN Book Launch. | MAY 26"
 ---
 
@@ -53,7 +54,7 @@ Arts, The Leon and Thea Koerner Foundation, 2010 Legacies Now (Arts Now),
 and the Doris Shadbolt Endowment Fund for the Arts. It is published in
 cooperation with UBC Press.
 
-â€”
+—
 For more information contact:
 Naomi Sawada, tel: 604-822-3640, naomi.sawada@ubc.ca
 Morris and Helen Belkin Art Gallery

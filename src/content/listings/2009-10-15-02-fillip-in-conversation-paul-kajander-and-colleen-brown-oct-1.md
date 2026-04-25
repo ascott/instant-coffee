@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it all adds up"
 emailDate: "Thu, 15 Oct 2009 08:05:40 -0700"
 number: 2
 type: ""
+venue: "Fillip"
 summary: "Fillip | In conversation: Paul Kajander and Colleen Brown | OCT 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 12
 type: ""
+venue: "304 days"
 summary: "304 days | HOT SPRINGS | Nicolas Sassoon | DEC 11"
 ---
 

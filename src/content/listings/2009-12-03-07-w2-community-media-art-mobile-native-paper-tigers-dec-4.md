@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 7
 type: ""
+venue: "W2 Community Media Art"
 summary: "W2 Community Media Art | Mobile Native. Paper Tigers. | DEC 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 13
 type: ""
+venue: "downtownspace"
 summary: "downtownspace | George Rahi | Mobile Tools for Conviviality | FEB 25"
 ---
 

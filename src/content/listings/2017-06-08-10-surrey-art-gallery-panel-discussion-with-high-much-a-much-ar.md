@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 10
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Panel Discussion with High Much a Much Artists | JUN 10"
 ---
 

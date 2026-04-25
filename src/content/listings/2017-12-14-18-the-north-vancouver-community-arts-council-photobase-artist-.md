@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 18
 type: "CALL"
+venue: "The North Vancouver Community Arts Council"
 summary: "The North Vancouver Community Arts Council | Photobase Artist Call | JAN 20"
 ---
 

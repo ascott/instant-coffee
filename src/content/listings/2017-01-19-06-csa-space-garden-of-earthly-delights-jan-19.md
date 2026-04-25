@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 6
 type: "PERFORMANCE"
+venue: "CSA Space"
 summary: "CSA Space | Garden of Earthly Delights | JAN 19"
 ---
 

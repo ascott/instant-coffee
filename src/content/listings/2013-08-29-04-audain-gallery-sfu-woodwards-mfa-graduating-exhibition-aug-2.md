@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 4
 type: ""
+venue: "Audain Gallery SFU Woodward's"
 summary: "Audain Gallery SFU Woodward's | MFA Graduating Exhibition | AUG 29"
 ---
 
@@ -27,7 +28,7 @@ Hours
 
 Tue.- Sat. 12pm - 6pm
 
-Aug. 28 â€“ Sept. 21, 2013: Disorientations/Illuminations: MFA Graduating 
+Aug. 28 – Sept. 21, 2013: Disorientations/Illuminations: MFA Graduating 
 Exhibition Opening Receptions: 
 Disorientations: Sept. 4, 7pm
 Illuminations: Sept. 11, 7pm
@@ -44,14 +45,14 @@ Disorientations/Illuminations is presented in partial fulfillment of the
 requirements for the degree of Master of the Fine Arts.
 
 Disorientations 
-Aug. 28 â€“ Sept. 7
+Aug. 28 – Sept. 7
 Calla Churchward
 Gabriel Saloman
 Daisy Thompson
 Alize Zorlutuna
 
 Illuminations 
-Sept. 12 â€“ Sept. 21
+Sept. 12 – Sept. 21
 Hamidreza Jadid
 Sydney Koke
 Charlene Vickers
@@ -68,7 +69,7 @@ With Gabriel Saloman
 Sept. 3, 5:30pm
 Audain Gallery
 
-The Beast that Escaped and a Fine, Fine Flavour â€“ A Play
+The Beast that Escaped and a Fine, Fine Flavour – A Play
 By Calla Churchward
 Sept. 5, 6, and 7, 8pm
 Rm. 4270, SFU at Goldcorp Centre for the Arts

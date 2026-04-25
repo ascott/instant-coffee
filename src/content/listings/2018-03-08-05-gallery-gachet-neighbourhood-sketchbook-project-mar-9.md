@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 5
 type: ""
+venue: "gallery gachet"
 summary: "gallery gachet | Neighbourhood Sketchbook Project | MAR 9"
 ---
 

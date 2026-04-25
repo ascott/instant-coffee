@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 22
 type: "OPENING"
+venue: "CityScape Gallery"
 summary: "CityScape Gallery | Figures & Faces | 6PM | JUL 24"
 ---
 

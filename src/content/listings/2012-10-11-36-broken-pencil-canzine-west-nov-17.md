@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 36
 type: ""
+venue: "broken pencil"
 summary: "broken pencil | Canzine West | NOV 17"
 ---
 
@@ -16,7 +17,7 @@ Vancouver's Largest Zine Fair and Festival of Alternative Culture
 November 17, 2012
 W2 Community Media Arts Centre
 111 West Hastings Street
-1 â€“ 7pm
+1 – 7pm
 $5 admission includes the fall issue of Broken Pencil Magazine
 
 For Canzine line-up visit

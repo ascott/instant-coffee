@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 3
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Kimberly Phillips | 6PM | FEB 21"
 ---
 

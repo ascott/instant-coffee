@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 41
 type: "OPENING"
+venue: "Britannia Art Gallery"
 summary: "Britannia Art Gallery | STORIES & RESTORATION | 630-830PM | MAR 6"
 ---
 

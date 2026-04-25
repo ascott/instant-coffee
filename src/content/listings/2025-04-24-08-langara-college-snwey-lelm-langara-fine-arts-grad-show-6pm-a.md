@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 8
 type: "OPENING"
+venue: "Langara College"
 summary: "Langara College | snw\"ey lelm\" Langara | Fine Arts Grad Show | 6PM | APR 25"
 ---
 

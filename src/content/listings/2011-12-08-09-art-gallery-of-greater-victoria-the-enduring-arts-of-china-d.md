@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 9
 type: ""
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | The Enduring Arts of China | DEC 9"
 ---
 

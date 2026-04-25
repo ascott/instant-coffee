@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 8
 type: "OPENING"
+venue: "Duplex Art Society"
 summary: "Duplex Art Society | INNER THREAD – Suzy King | AUG 26"
 ---
 

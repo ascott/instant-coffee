@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 2
 type: "OPENING"
+venue: "AVENUE"
 summary: "AVENUE | Invisibility, But At What Cost? Noah Spivak | JAN 15"
 ---
 

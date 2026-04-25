@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 38
 type: "CALL"
+venue: "Contemporary Art Forum Kitchener"
 summary: "Contemporary Art Forum Kitchener | CAFKA.16 | FEB 28"
 ---
 
@@ -13,7 +14,7 @@ CAFKA - Contemporary Art Forum Kitchener and Area is seeking submissions
 for its biennial exhibition of contemporary art in the public spaces of the
 Region of Waterloo in June 2016.
 
-The biennial exhibition is curated by CAFKAâ€™s Program Committee, which will
+The biennial exhibition is curated by CAFKA’s Program Committee, which will
 consider submission proposals as part of its curatorial research.
 
 The CAFKA Biennial takes the experience of contemporary art out of the
@@ -36,7 +37,7 @@ Artistes Canadiens).
 Please note: Proposals that rely on the physical characteristics of
 galleries (controlled lighting, low ceilings, hanging walls etc.) cannot be
 considered. For images of public spaces for possible project installations,
-please refer to CAFKAâ€™s exhibition archive for examples from previous
+please refer to CAFKA’s exhibition archive for examples from previous
 biennials at http://www.cafka.org/exhibitions or go to
 http://www.cafka.org/page/public-spaces-waterloo-region for a photo album
 of potential public spaces.
@@ -122,11 +123,11 @@ hello@heidi-nagtegaal.com
 STUDIO SPACE AVAILABLE | 600 sq. ft. shared studio | AVAIL NOW
 
 There is a studio space available in a 600 sq. ft. studio located on 2nd
-and Main. Itâ€™s in a great area; itâ€™s by the Skytrain, close to Chinatown,
-Broadway is up the street and itâ€™s a few blocks from The Western Front,
+and Main. It’s in a great area; it’s by the Skytrain, close to Chinatown,
+Broadway is up the street and it’s a few blocks from The Western Front,
 Grunt Gallery and Gallery 295.
 
-The building houses other artistsâ€™ studios, a commercial wood shop and a
+The building houses other artists’ studios, a commercial wood shop and a
 recording studio. Since the recording studio is close to our space, no
 heavy machinery is permitted in the studio, but occasional noise making can
 happen downstairs. The studio has 2 windows, built-in shelves and a small
@@ -134,7 +135,7 @@ wall dividing the space. There is a washroom with a good size sink on the
 main floor and an industrial sink for heavy-duty chemicals downstairs.
 
 You would be sharing the space with 2 other people, a visual artist and a
-fashion student, both in their late 20s. Weâ€™re looking for someone whoâ€™s
+fashion student, both in their late 20s. We’re looking for someone who’s
 easy going, serious about their practice and open to negotiating space.
 
 The space is available now. The rent is 230$ a month, including internet

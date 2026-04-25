@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 12
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Matt Smith - BogScape | MAR 28"
 ---
 

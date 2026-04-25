@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 23
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Ian Johnston: The Chamber | JUN 5"
 ---
 
@@ -13,19 +14,19 @@ June 6 - July 18, 2015
 
 Opening Reception Friday June 5, 2015, 7:00 PM
 
-Ian Johnstonâ€™s sculptural practice is a supple one, having involved
+Ian Johnston’s sculptural practice is a supple one, having involved
 numerous shifts in both method and expression over the course of his
 career. It is a trajectory he has likened to a stream of consciousness. At
 its core, however, is a persistent inquiry into the nature and consequences
 of our relationship with the material world, an exploration, to quote the
 artist, â€œof the space that engages our physical selves.â€  Perhaps not
 surprisingly, this investigation has resulted in a body of work unified by
-its sensuousâ€”and stubbornâ€”materiality. Johnston brings his architecture and
+its sensuous—and stubborn—materiality. Johnston brings his architecture and
 ceramics background to this exhibition. The Chamber is an enormous
 inflating and deflating installation that shrouds and reveals an enormous
 mass of discarded household items diverted from what the artist terms "the
 waste stream." Mesmerizing and sobering, The Chamber suggests to viewers,
-as Johnston states, â€œthe paradoxical relationship between limited resources
+as Johnston states, “the paradoxical relationship between limited resources
 and seemingly unlimited appetite.â€ 
 
 *

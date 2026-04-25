@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Djavad Mowafaghian Cinema | No Men Beyond | NOV 17"
 ---
 

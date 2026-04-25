@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 8
 type: "EDUCATION"
+venue: "MOV ONLINE"
 summary: "MOV ONLINE | #MOAFromHome and other ways to connect"
 ---
 

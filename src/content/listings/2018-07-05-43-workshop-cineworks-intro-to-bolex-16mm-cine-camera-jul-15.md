@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 43
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | Cineworks | Intro to Bolex 16mm Cine Camera | JUL 15"
 ---
 

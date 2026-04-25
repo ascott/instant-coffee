@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 17
 type: "EVENT"
+venue: "PechaKucha"
 summary: "PechaKucha | Night Coquitlam Vol#6 | FEB 20"
 ---
 
@@ -33,9 +34,9 @@ Chris Mackenzie- Artist
 Adam Popowitz- Musician/Producer
 Amadna Maxwell- Artist/Writer
 Carolyn Sullivan- Professional Photographer
-GÃ¤etan Royer- Architiect/ Designer
+Gäetan Royer- Architiect/ Designer
 Bob Crockett- Marketing INstructor
 Steve Cady- Animator/Mentor
 Hussein Janmohamed- Musician/Educator
-Marilyn MedÃ©n- Idea Explorer
+Marilyn Medén- Idea Explorer
 with Musical Guest - Michelle Ann Richard

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: independent of allegiance"
 emailDate: "Fri, 29 Dec 2017 19:15:04 -0800"
 number: 2
 type: ""
+venue: "BAF Gallery Winter 2018 Exhibitions"
 summary: "BAF Gallery Winter 2018 Exhibitions | Brendan Lee Satish Tang | Lucien Durey | JAN 11"
 ---
 

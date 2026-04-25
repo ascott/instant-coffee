@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 9
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Derya Akay, Tiziana La Melia and Tristan Unrau | JAN 19"
 ---
 

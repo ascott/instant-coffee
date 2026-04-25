@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's throw scenarios"
 emailDate: "Thu, 25 Jun 2009 09:02:41 -0700"
 number: 8
 type: ""
+venue: "Western Front"
 summary: "Western Front | What Moves Us | til | JUN 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 14
 type: ""
+venue: "Independent Media Arts Alliance"
 summary: "Independent Media Arts Alliance | Job Call | Administrative Coordinator | JUL 24"
 ---
 

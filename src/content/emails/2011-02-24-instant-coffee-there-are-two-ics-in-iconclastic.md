@@ -81,9 +81,9 @@ projecting, layering and manipulating drawings on overhead projectors.
 Barrow has performed at The Walker Art Center (Minneapolis), PS1
 Contemporary Art Center (New York), The Museum of Contemporary Art (Los
 Angeles) and the Gene Siskel Film Center (Chicago). Barrow is the 2010
-winner of the Sobey Art Award, the 2007 winner of the Canada Councilï¿½s
+winner of the Sobey Art Award, the 2007 winner of the Canada Council�s
 Victor Martyn Lynch-Staunton award and the 2008 winner of the Images
-Festivalï¿½s Images Prize. Barrow is represented by Jessica Bradley Art +
+Festival�s Images Prize. Barrow is represented by Jessica Bradley Art +
 Projects, Toronto.
 
 Derek Dunlop currently lives in Winnipeg. He received his MFA from the
@@ -236,7 +236,7 @@ Opening Reception // Saturday, February 26th // 7pm - 11pm
 Andrew Dadson and Jonathan Syme exhibit new works that explore the
 materiality of paint through distinct methods of layering. Syme uses
 linear elements of saturated colour to draw the eye into his optically
-rich fields of algorithmic-like abstraction. In contrast, DadsonÃ¢ï¿½ï¿½s
+rich fields of algorithmic-like abstraction. In contrast, Dadsonâ��s
 work is mute and calm by nature with subtle evidence of the layers of
 colour and texture that make up the final effaced surface; both
 allowing the viewer to enter the void and explore the liminal space
@@ -373,16 +373,16 @@ urban subjects residency and emergent exhibition
 Urban Subjects, Mirador (Madrid, Spain)
 
 VIVO Media Arts Centre
-February 25ï¿½ April 29 2011
+February 25� April 29 2011
 Opening: Feb 25 2011 7-10pm
 Gallery hours Tuesday-Saturday 12-5pm
 1965 Main St. Vancouver www.vivomediaarts.com
 
 In 1969 an exhibition of conceptual works, curated by Lucy Lippard for the
 Vancouver Art Gallery, took the population of Greater Vancouver, then
-955,000, as its title. Forty-one years later, Urban Subjectsï¿½ exhibition,
+955,000, as its title. Forty-one years later, Urban Subjects� exhibition,
 602,000 refers to the median house price in Greater Vancouver in 2010. Just
-as Lippardï¿½s title tallied something abstractly human in the representation
+as Lippard�s title tallied something abstractly human in the representation
 of the city, 602,000 reflects the very human relations of housing, the
 transformation of public space, and artistic practices.
 
@@ -390,8 +390,8 @@ The video works in 602,000 formally represent housing and domestic space as
 integral to public space. Moving from the scale of the body to
 transnational spaces of movement, these videos carefully build an aesthetic
 argument that housing is central to the right to the city. These
-worksï¿½located in Vienna and Bratislava, Madrid, Caracas, and the
-Netherlandsï¿½ show housing and dwelling are spatial and public acts. A new
+works�located in Vienna and Bratislava, Madrid, Caracas, and the
+Netherlands� show housing and dwelling are spatial and public acts. A new
 video work from the neighbourhood of Gramoven in Caracas compellingly
 illustrates how the urban community councils have established autogestion
 (or self-management) in all spheres of daily life.
@@ -404,18 +404,18 @@ Dutch architects MVRDV. They will also produce a poster for the Fight for
 the 10 Sites 2011campaign, in partnership with the Downtown Eastside
 Neighborhood Council.
 
-FEB 25 / 7ï¿½10 PM
+FEB 25 / 7�10 PM
 Opening// Bitter/Weber video works: Z_orb (1998/2000), Splitting & Stacking
 (2000), Border≠0 (1998), Framing Location (1997).
 
 MARCH 18 / 7PM
-Opening// Screening of new works, produced in residence. ï¿½But life is not
-changed magically by a poetic actï¿½: Autogestion in Gramoven and Living
+Opening// Screening of new works, produced in residence. �But life is not
+changed magically by a poetic act�: Autogestion in Gramoven and Living
 Mega-Structures (2003/2004). Discussion with Ivan Drury.
 
 APRIL 17 / 7PM
 Opening// Geographer Neil Smith (NYC) speaks on the Revolutionary
-Imperative in conjunction with SFUï¿½s La Commune 1871/ 2011 series. Launch
+Imperative in conjunction with SFU�s La Commune 1871/ 2011 series. Launch
 of the Fight for 10 Sites 2011 Campaign Poster, created in collaboration
 with the Downtown Eastside Neighborhood Council. Book launch of
 Momentarily: Learning from Mega-Events, edited by Bik Van der Pol, Alissa
@@ -532,7 +532,7 @@ Saint Jesua
 Aaron Moran
 Henry Adam Svec
 Lindsay Dakin
-Sylvana DÃ¢ï¿½ï¿½Angelo
+Sylvana Dâ��Angelo
 
 darling is a quarterly publication.
 
@@ -560,7 +560,7 @@ e. thegam@live.com
 ------------------------------------------------------------------------
 Blim Monthly Community Market
 
-Sunday February 27 | 12 ï¿½ 5 PM | By donation
+Sunday February 27 | 12 � 5 PM | By donation
 @ Heritage Hall (Main St. and 15th Ave.)
 
 Hours:
@@ -601,7 +601,7 @@ They include Ferrand (Truffaut), the director who observes at one
 point that making a movie is like a stagecoach trip through the old
 West ("At first you hope for a pleasant trip. Then you simply hope to
 reach your destination"); Julie (Jacqueline Bisset), the beautiful
-Hollywood star of the film within; Alphonse (Jean-Pierre LÃƒï¿½Ã‚Â©aud of 400
+Hollywood star of the film within; Alphonse (Jean-Pierre LÃ�Â©aud of 400
 Blows), a nice, nut-brained young actor preoccupied by movies and
 women, in that order; Alexandre (Jean-Pierre Aumont), the aging male
 lead of the film within, and Severine (Miss Cortese), Alexandre's
@@ -610,7 +610,7 @@ when he reveals plans to settle down with his new young male lover.
 
 Day for Night is Truffaut's fondest, most compassionate film, and
 although it is packed with references to films and film people
-(Welles, Vigo, Fellini, BuÃƒï¿½Ã‚Â±uel, among others) and although it is
+(Welles, Vigo, Fellini, BuÃ�Â±uel, among others) and although it is
 dedicated to Lillian and Dorothy Gish, it's not a particularly inside
 movie. That is, it has great fun showing us how movies are made, how
 rain and snow are manufactured, how animals are directed (or not), how
@@ -648,16 +648,16 @@ Series begins January 9th, 2011 and continues every Sunday.
 <a href="/instant-coffee/listings/2011-02-24-13-evergreen-cultural-centre-coquitlam-pechakucha-feb-27">13. EVERGREEN CULTURAL CENTRE COQUITLAM | PECHAKUCHA | FEB 27</a>
 ------------------------------------------------------------------------
 FEB 27TH 2011 PECHAKUCHA NIGHT COQUITLAM IS BACK FOR VOL# 2!!!
-(PART OF THE WATERï¿½S EDGE FESTIVAL)
+(PART OF THE WATER�S EDGE FESTIVAL)
 
-ITï¿½S TIME TO BUY TICKETS!!!!
+IT�S TIME TO BUY TICKETS!!!!
 
 SUNDAY FEBRUARY 27TH 2011 7PM
 EVERGREEN CULTURAL CENTRE COQUITLAM
 TICKETS: 12$ RESERVED SEATING
 MUST BUY IN ADVANCE: www.watersedgemusic.ca
 
-WHY YOU GOTTAï¿½COME: PKN (PechaKucha Night) is a dynamic convergence of
+WHY YOU GOTTA�COME: PKN (PechaKucha Night) is a dynamic convergence of
 local artists, hipsters and entrepreneurs who come to network, be inspired
 and share what they do with a live audience. After PKN Coquitlam Vol #1 in
 November 2010 received rave reviews, PKN has quickly become one of the
@@ -699,20 +699,20 @@ landscapes, and gestures. Influenced by west coast experimental filmmakers
 of the 1960s and 70s and her own education in anthropology and ethnography,
 Strand immersed her filmmaking in the joy of being with people. For 30
 years, she made films about the people and landscapes of California and
-Mexico. Ã¢ï¿½ï¿½To leave out the spirit of the people presents a thin tapestry of
+Mexico. â��To leave out the spirit of the people presents a thin tapestry of
 the culture, easy to rent, lacking in strength and depth. I want to know
 really what it is like to be a breathing, talking, moving, emotional,
-relating individual in the society.Ã¢ï¿½ï¿½ Strand also strove for intimacy with
+relating individual in the society.â�� Strand also strove for intimacy with
 her camera, keeping it close to her body and trusting her own weight and
 motion to persuade its gaze. Her physical intimacy with her subjects is
 evidenced in the dominance of close-ups. The resulting shallow depth of
 field creates kinetic compositions of horizons flattened against
 sun-stroked faces and cropped bodies in motion. Her appreciation of
 synchronicity, intuition and romance is also evident in her found-footage
-collages. Ã¢ï¿½ï¿½If poetry is the art of making evocative connections between
+collages. â��If poetry is the art of making evocative connections between
 otherwise dissimilar phenomena, then Chick Strand is a great poet, for
 these films transcend their material to create a surreal and sublime
-universe beyond reasonÃ¢ï¿½ï¿½ (Gene Youngblood).
+universe beyond reasonâ�� (Gene Youngblood).
 
 Programme Curated by Dominic Angerame and Canyon Cinema
 
@@ -734,7 +734,7 @@ __________________
 
 Amy Lynn Kazymerchyk
 Associate Programmer: DIM Cinema
-Pacific CinÃƒÂ©mathÃƒÂ¨que
+Pacific CinÃ©mathÃ¨que
 cinematheque.bc.ca
 dimcinema.ca
 
@@ -766,7 +766,7 @@ Participating Artists:
 
 Mairin Cooley, Liz Van Allen, Jessica Parsons, Peter Hadfield, Vincent Van
 Haaf, Jennilee Marigomen, Athena Papadopoulos,Greg Ryan, Luciana
-D'AnunciaÃƒÂ§ÃƒÂ£o, Heidi Nagtegaal, Devin Mackenzie, Theodore Bernard, Jaik
+D'AnunciaÃ§Ã£o, Heidi Nagtegaal, Devin Mackenzie, Theodore Bernard, Jaik
 Olsen, Shawna Mclellan, Marie Horstead, Simon Redcrop, Patrick McManus,
 Patrick Cruz, Sam Buss, Jordan and David Doody, Stephen James, Chris Boni,
 Barry Doupe, Emilio Rojas, Zahid Zawa, Robert Fougere,Paul Paper, Ian
@@ -804,7 +804,7 @@ http://www.facebook.com/lovedancing
 Drop Out Video Arts Society
 http://www.dropoutvideo.com
 
-BYOB and Artist RafaÃƒÂ«l Rozendaal:
+BYOB and Artist RafaÃ«l Rozendaal:
 
 http://www.byobworldwide.com/
 
@@ -824,23 +824,23 @@ Manifestos Now!
 Simon Fraser University Teck Gallery
 SFU Vancouver Campus - 515 West Hastings
 
-February 22 ï¿½ May 27, 2011
+February 22 � May 27, 2011
 
 Manifestos Now! is an exhibition selected from 30 contemporary manifestos
 appearing in a special issue of The Capilano Review, published
 simultaneously with the show. The magazine and show explore, revisit, and
 revive the untapped and unexplored potentials of the manifesto in a
-contemporary context. Artists and writers Marie-HÃ©lÃ¨ne Tessier, Christian
-BÃ¶k, Frank Davey, Hadley+Maxwell, Reg Johanson, and others have contributed
+contemporary context. Artists and writers Marie-Hélène Tessier, Christian
+Bök, Frank Davey, Hadley+Maxwell, Reg Johanson, and others have contributed
 work in the challenging spirit of the early 20th century manifesto.
 
 This exhibition coincides with the Vancouver Art Gallery exhibition: WE:
-Vancouver ï¿½12 Manifestos for the City.
+Vancouver �12 Manifestos for the City.
 
-Artists: derek beaulieu , Christian BÃ¶k, Colin Browne, Pierre Coupey, Frank
+Artists: derek beaulieu , Christian Bök, Colin Browne, Pierre Coupey, Frank
 Davey, Jeff Derksen, Hadley + Maxwell, Oliver Hockenhull, Reg Johanson,
 Alex MacKenzie, Steve McCaffery, Henri Meschonnic, Kim Minkus, provag,
-Nikki Reimer, Lisa Robertson, Avra Spector, Marie-HÃ©lÃ¨ne Tessier and Edward Top
+Nikki Reimer, Lisa Robertson, Avra Spector, Marie-Hélène Tessier and Edward Top
 
 Panel Discussion: Manifestos Now!
 Thursday March 3, 7pm in Room 7000
@@ -849,7 +849,7 @@ SFU Vancouver, 515 W. Hastings St.
 Followed by a walking tour of the exhibition in the Teck Gallery.
 
 Speakers: Brian Ganter, Lisa Robertson, Reg Johanson,
-Pierre Coupey, and Marie-HÃ©lÃ¨ne Tessier
+Pierre Coupey, and Marie-Hélène Tessier
 
 Teck Gallery, SFU Vancouver Campus
 515 West Hastings Street, Vancouver, BC
@@ -868,7 +868,7 @@ technological communication. Vancouver artist Germaine Koh and Toronto
 artist Gordon Hicks are interested in how, in our age of everyday
 telepresence manifested by constant phone and computer use, relationships
 between time and space are being altered in significant ways. There/Here,
-Koh and HicksÃ¢ï¿½ï¿½ current exhibition at the Surrey Art Gallery, presents a
+Koh and Hicksâ�� current exhibition at the Surrey Art Gallery, presents a
 compelling work of interactive sculpture that addresses the influence of
 technology on our daily lives. Join Germaine Koh for a discussion about the
 exhibition and her collaboration with Gordon Hicks on Thursday, March 3,
@@ -886,10 +886,10 @@ Born in Malaysia and based in Vancouver, Germaine Koh is an internationally
 active artist recognized for her wide breadth of artistic practice
 concerned with everyday objects and daily activities that often go
 unnoticed, yet profoundly shape our experiences. She has exhibited widely
-in such venues as De Appel (Amsterdam), MusÃƒÂ©e d'art contemporain de
-MontrÃƒÂ©al, Para/Site Art Space (Hong Kong), Frankfurter Kunstverein
+in such venues as De Appel (Amsterdam), MusÃ©e d'art contemporain de
+MontrÃ©al, Para/Site Art Space (Hong Kong), Frankfurter Kunstverein
 (Germany), Bloomberg SPACE (London), The Power Plant (Toronto), Seoul
-Museum of Art, Artspace (Sydney) and the Liverpool, Sydney and MontrÃƒÂ©al
+Museum of Art, Artspace (Sydney) and the Liverpool, Sydney and MontrÃ©al
 biennials. Koh was a recipient of the prestigious Jack and Doris Shadbolt
 Foundation's VIVA Award in 2010 and was a finalist for the 2004 Sobey Art
 Award. Formerly an Assistant Curator of Contemporary Art at the National
@@ -932,14 +932,14 @@ LIMINAL POSITIONS
 FRIDAY MARCH 4, 6-8PM South Building #301, RECEPTION 8PM Agro Cafe,
 SATURDAY MARCH 5, 10:30AM-4:30PM, South Building #301.
 
-This yearÃ¢ï¿½ï¿½s conference seeks to gauge and engage the current state of Canadian
+This yearâ��s conference seeks to gauge and engage the current state of Canadian
 academic research across the fields of art, history, philosophy, critical +
 cultural studies. Presenting critical and creative explorations into the
 potentially rich contradictions inherent in criticizing culture while
 earnestly taking part in producing it.
 
 Liminal Positions aims to provide a forum for the discussion of questions
-centered around the notion of in-betweenness. Asking where the Ã¢ï¿½ï¿½workÃ¢ï¿½ï¿½ of
+centered around the notion of in-betweenness. Asking where the â��workâ�� of
 art actually occurs and considering the role of the artist within commodity
 culture? Or conversely, how have cultural analysts approached writing or
 theorizing popular culture or current events?
@@ -992,18 +992,18 @@ SFU Burnaby Campus: Academic Quadrangle, Room 3004
 Opening Reception: Saturday March 5 , 3-5pm
 
 Vancouver Orbital re-examines the evolution of West Coast hard-edge
-abstraction, as seen through the lens of Joan Balzarï¿½s quasi-scientific
+abstraction, as seen through the lens of Joan Balzar�s quasi-scientific
 paintings of orbits, arcs and horizon lines. These works were created
-between the 1960s and 2010, and are a key strand in Balzarï¿½s fifty years of
+between the 1960s and 2010, and are a key strand in Balzar�s fifty years of
 abstract painting, which she produced in a global context, exploring the
-role and impact of non-referential art ï¿½ a project that never left
+role and impact of non-referential art � a project that never left
 real-world references far behind.
 
 The exhibition and its catalogue explore the aesthetic and philosophical
-links between Balzarï¿½s abstract painting and a range of real-world
+links between Balzar�s abstract painting and a range of real-world
 phenomena, including other orbital phenomena in Greater Vancouver.
 
-Opening Reception: Saturday March 5 , 3 ï¿½ 5 pm
+Opening Reception: Saturday March 5 , 3 � 5 pm
 
 Eight lunchtime talks with Bill Jeffries, SFU Gallery Director: Tuesday to
 Friday, March 8 to 11, 12:05 and 12:35
@@ -1014,8 +1014,8 @@ Visitor Lot at SFU (face up on dashboard or hand to parking attendant).
 
 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
 
-Gallery Hours: Tuesday ï¿½ Friday : 10am ï¿½ 5pm
-Saturday : 12pm ï¿½ 5pm. Closed Saturdays on holiday long weekends.
+Gallery Hours: Tuesday � Friday : 10am � 5pm
+Saturday : 12pm � 5pm. Closed Saturdays on holiday long weekends.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-02-24-20-vivo-workshops-circuit-building-mar-7">20. VIVO WORKSHOPS | CIRCUIT BUILDING | MAR 7</a>
@@ -1166,7 +1166,7 @@ http://www.haidanation.ca/Pages/Splash/Public_Notices/artist_residency.html
 CALL | Call for Interest- The Fountain as Muse</a>
 Call for Interest- The Fountain as Muse
 
-Marcel DuchampÃ¢ï¿½ï¿½s Ã¢ï¿½ï¿½The FountainÃ¢ï¿½ï¿½ is generally regarded as the first piece of
+Marcel Duchampâ��s â��The Fountainâ�� is generally regarded as the first piece of
 conceptual artwork. As contemporary artists we either build on or reject
 this tradition of conceptual art. Create a response to the work The
 Fountain whether literal or conceptual which will be curated and exhibited

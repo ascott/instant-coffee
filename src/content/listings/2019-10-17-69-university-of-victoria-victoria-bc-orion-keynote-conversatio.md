@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 69
 type: "TALK"
+venue: "University of Victoria (VICTORIA, BC)"
 summary: "University of Victoria (VICTORIA, BC) | Orion Keynote Conversation | 3-530PM | OCT 27"
 ---
 

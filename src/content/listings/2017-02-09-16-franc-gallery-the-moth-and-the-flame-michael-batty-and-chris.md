@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 16
 type: ""
+venue: "Franc Gallery"
 summary: "Franc Gallery | The Moth and the Flame | Michael Batty and Chris Shier | FEB 16"
 ---
 

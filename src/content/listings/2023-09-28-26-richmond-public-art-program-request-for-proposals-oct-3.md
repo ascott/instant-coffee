@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 26
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Request for Proposals | OCT 3"
 ---
 

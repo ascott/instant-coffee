@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 11
 type: "EDUCATION"
+venue: "Sonya Iwasiuk Art Studio"
 summary: "Sonya Iwasiuk Art Studio | WORKSHOP - Playtime with GOLDEN Acrylics (2 Days) | FEB 10"
 ---
 

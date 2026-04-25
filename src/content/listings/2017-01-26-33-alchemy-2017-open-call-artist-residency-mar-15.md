@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 33
 type: "CALL"
+venue: "ALCHEMY 2017"
 summary: "ALCHEMY 2017 | OPEN CALL ARTIST RESIDENCY | MAR 15"
 ---
 

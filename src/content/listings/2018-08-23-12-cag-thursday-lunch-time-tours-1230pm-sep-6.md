@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 12
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Thursday Lunch Time Tours | 12:30PM | SEP 6"
 ---
 

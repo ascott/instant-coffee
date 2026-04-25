@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 12
 type: "CALL"
+venue: "Vancouver Art Book Fair"
 summary: "Vancouver Art Book Fair | Join the VABF Leadership Team | AUG 14"
 ---
 

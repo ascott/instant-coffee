@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 4
 type: "EVENT"
+venue: "People's Co-Op Books"
 summary: "People's Co-Op Books | Activated Performative Reading | 7PM | APR 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 7
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Unseen Garden | 5PM | MAR 1"
 ---
 

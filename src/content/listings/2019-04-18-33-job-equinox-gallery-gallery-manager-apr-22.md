@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 33
 type: ""
+venue: "JOB"
 summary: "JOB | Equinox Gallery | Gallery Manager | APR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 14
 type: "OPENING"
+venue: "ECU Library"
 summary: "ECU Library | Who is Woo? | MAR 4"
 ---
 

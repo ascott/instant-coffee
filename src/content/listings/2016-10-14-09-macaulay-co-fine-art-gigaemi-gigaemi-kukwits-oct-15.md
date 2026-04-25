@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part of the same \"changing west\"
 emailDate: "Fri, 14 Oct 2016 15:00:22 -0700"
 number: 9
 type: "OPENING"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Gigaemi Gigaemi Kukwits | OCT 15"
 ---
 

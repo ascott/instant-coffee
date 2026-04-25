@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 35
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Toque Craft Fair | DEC 1-3 | DEC 1"
 ---
 

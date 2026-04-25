@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 41
 type: "EVENT"
+venue: "Project Space Studio"
 summary: "Project Space Studio | Christian Vistan - Sunset Table | APR 20"
 ---
 

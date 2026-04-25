@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: don't curse the darkness"
 emailDate: "Thu, 22 May 2008 08:10:19 -0700"
 number: 3
 type: ""
+venue: "Western Front"
 summary: "Western Front | Artist TALK: David Clark | MAY 22"
 ---
 

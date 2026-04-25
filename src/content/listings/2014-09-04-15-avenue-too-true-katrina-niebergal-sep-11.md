@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 15
 type: ""
+venue: "Avenue"
 summary: "Avenue | TOO TRUE Katrina Niebergal | SEP 11"
 ---
 
@@ -25,7 +26,7 @@ Too True
 Is there a nugget of colonial pathos in the chill vibes of your banana 
 pillow? How much salt from the southern oceans can you fit into a story? 
 Does a bouquet of rare flowers deliver affect to me directly or are they the 
-envelope of something more ineffableâ€”contained within? Some heart of 
+envelope of something more ineffable—contained within? Some heart of 
 mystery.
 
 What placement of paranoia, optimism, love, grandeur, insult, longing is 
@@ -34,7 +35,7 @@ a jungle of half-decayed signs and maybe not notice a single leaf
 anywhere, or consider a colour for a colour. 
 
 Authentic optimism. A true vacation. Extracting meanings. It sounds more 
-real to say that itâ€™s the signs keeping the objects alive. Giving them new 
+real to say that it’s the signs keeping the objects alive. Giving them new 
 manufacture, new life. Creating industries and purposes and opening 
 new realities. 
 

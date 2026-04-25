@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | To Be Belligerent//To Commit To Memory..."
 ---
 

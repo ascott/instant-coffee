@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two times double crossed legged"
 emailDate: "Thu, 29 Jan 2009 09:40:07 -0800"
 number: 1
 type: ""
+venue: "CAG"
 summary: "CAG | Jeppe Hein | JAN 29"
 ---
 
@@ -64,7 +65,7 @@ grateful for the support of Vancouver Foundation and our members, donors
 and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 Ã¢ï¿½ï¿½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â�� 6 pm.
 
 Admission is free by donation.
 

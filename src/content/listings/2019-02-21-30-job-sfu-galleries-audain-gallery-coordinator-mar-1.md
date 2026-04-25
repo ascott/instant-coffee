@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 30
 type: ""
+venue: "JOB"
 summary: "JOB | SFU Galleries | Audain Gallery Coordinator | MAR 1"
 ---
 

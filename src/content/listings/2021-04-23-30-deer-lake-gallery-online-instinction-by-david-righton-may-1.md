@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 30
 type: "TALK"
+venue: "Deer Lake Gallery [ONLINE]"
 summary: "Deer Lake Gallery [ONLINE] | Instinction by David Righton | MAY 1"
 ---
 

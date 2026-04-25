@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Canton-sardine"
 summary: "Canton-sardine | No.223: Satellite of Love | AUG 12"
 ---
 

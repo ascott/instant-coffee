@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 19
 type: "OPENING"
+venue: "5714 Medusa Street, Sechelt, BC"
 summary: "5714 Medusa Street, Sechelt, BC | Marney-Rose Edge | JUN 22"
 ---
 

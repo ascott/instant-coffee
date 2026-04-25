@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Centre A [ONLINE] | SuperNova | AUG 11"
 ---
 

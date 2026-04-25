@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 14
 type: "FUNDRAISER"
+venue: "Vancouver Latin American Film Festival"
 summary: "Vancouver Latin American Film Festival | DJ & a Movie | 630PM | DEC 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 51
 type: "CALL"
+venue: "Centre[3] for Print and Media Arts"
 summary: "Centre[3] for Print and Media Arts | Call for Submissions (HAMILTON, ON) | OCT 31"
 ---
 

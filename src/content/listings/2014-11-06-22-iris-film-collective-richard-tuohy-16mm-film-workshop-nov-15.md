@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 22
 type: ""
+venue: "Iris Film Collective"
 summary: "Iris Film Collective | Richard Tuohy - 16mm Film Workshop | NOV 15"
 ---
 
 Chromaflex: A 16mm film processing workshop with Richard Tuohy 
 (Nanolab, AU)
-Saturday / Sunday; 15-16 November; 1.00pmâ€“6.00pm
+Saturday / Sunday; 15-16 November; 1.00pm–6.00pm
 $60 Cineworks & VIVO members / $70 non-members
 Cineworks Annex; limited space, advance sign-up required
 

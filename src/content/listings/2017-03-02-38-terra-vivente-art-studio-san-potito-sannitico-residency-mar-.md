@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 38
 type: "CALL"
+venue: "Terra Vivente Art Studio"
 summary: "Terra Vivente Art Studio | San Potito Sannitico Residency | MAR 15"
 ---
 

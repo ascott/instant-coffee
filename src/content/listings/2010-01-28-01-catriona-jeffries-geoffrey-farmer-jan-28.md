@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 1
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | GEOFFREY FARMER | JAN 28"
 ---
 

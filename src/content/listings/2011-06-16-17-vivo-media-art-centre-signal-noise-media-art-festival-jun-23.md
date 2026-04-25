@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 17
 type: ""
+venue: "VIVO Media Art Centre"
 summary: "VIVO Media Art Centre | Signal & Noise Media Art Festival | JUN 23"
 ---
 
@@ -13,7 +14,7 @@ June 23-27 2011
 www.signalandnoise.ca
 1965 Main St. Vancouver BC
 
-Aleksandra DomanoviÃ¦ / Amie Siegel / Anu Sahota / Artavazd Pelechian / 
+Aleksandra Domanoviæ / Amie Siegel / Anu Sahota / Artavazd Pelechian / 
 Basketball / Ben Rivers / Brady Cranfield / Deborah Stratman / Ellie Ga / 
 Geoffrey Pugen/ Giorgio Magnanensi / Hank Bull / Joshua Stevensen / Julian 
 Hou / Hito Steyerl / Marianna Milhorat / Marina Roy / Nimalan Yoganathan / 
@@ -33,7 +34,7 @@ Ben Rivers, Slow Action | 2010 | 44 min | 4-Channel 16mm/HD Projection | UK
 8:30pm, 110min
 Ellie Ga, The Fortunetellers | 2008-2010 | 60min | Multi-Media Performance | USA
 Marina Roy, Mineral Intelligence | 2010 | 10min | HD | Canada
-Marianna Milhorat, Lâ€™Internationale | 2010 | 9:10min | 16mm/SD | USA
+Marianna Milhorat, L’Internationale | 2010 | 9:10min | 16mm/SD | USA
 Nimalan Yoganathan, Soundscapes of Inukjuak | 2011 | 30min | Multi-Channel 
 Sound Performance | Canada
 
@@ -48,7 +49,7 @@ Hito Steyerl, In Free Fall | 2010 | 32min | HD | Germany
 Amie Siegel, Black Moon | 2010 | 20min | 16mm/HD | USA
 
 9:30pm, 60min
-Aleksandra DomanoviÃ¦, 19:30 | 2011 | 12min | HD | Germany
+Aleksandra Domanoviæ, 19:30 | 2011 | 12min | HD | Germany
 
 Music from CBC and ex-Yugolslav National Television Station ID music will be 
 remixed and performed live by Basketball, Brady Cranfield, Joshua Stevensen 
@@ -61,8 +62,8 @@ Transcription Listening Lounge: Anu Sahota, RCI Radio Documentaries
 
 8pm, 115min
 Geoffrey Pugen, Bridge Kids | 2010 | 12min | HD | Canada
-Deborah Stratman, â€¦These Blazeing Starrs! | 2011 | 14min |16mm | USA
-Giorgio Magnanensi, teatro dellâ€™udito V (TDU V) | 2011 | 20min | A/V Performance 
+Deborah Stratman, …These Blazeing Starrs! | 2011 | 14min |16mm | USA
+Giorgio Magnanensi, teatro dell’udito V (TDU V) | 2011 | 20min | A/V Performance 
 | Canada
 Sarah Biagini, I Swim Now | 2010 | 8:50min | 16mm | USA
 Yin-Ju Chen and James T. Hong, End Transmission | 2010 | 15min | HD | 
@@ -94,6 +95,6 @@ Canada
 
 INSTALLATIONS
 
-Anu Sahota, Network Service | 2011 (1950â€“1980) | Multi-Channel Installation and 
+Anu Sahota, Network Service | 2011 (1950–1980) | Multi-Channel Installation and 
 Projection | Canada
 Frederick Brummer, Dimension X | 2011 | Interactive Installation | Canada

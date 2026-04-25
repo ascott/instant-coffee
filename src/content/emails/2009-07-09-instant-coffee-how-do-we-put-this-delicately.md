@@ -63,18 +63,18 @@ http://www.hubcentre.org/
 Thursday, July 9th, 2009
 Location: Rio Theatre, 1660 East Broadway @ Commercial Drive
 Screening at 8:00pm, Craft Showcase at 7:00pm 
-Traveling across the world to sold out crowds, it is VancouverÂ’s turn to join the handmade revolution!
-Join Director Faythe Levine, July 9th, for Western CanadaÂ’s premier of Handmade Nation. Be the 
+Traveling across the world to sold out crowds, it is Vancouvers turn to join the handmade revolution!
+Join Director Faythe Levine, July 9th, for Western Canadas premier of Handmade Nation. Be the 
 first in Vancouver to see the film, meet Faythe Levine and participate in a Q&A and book signing 
 session after the screening.
-Tagged as the Â‘Ambassador of HandmadeÂ’, Faythe Levine has traveled 19,000 miles to document 
+Tagged as the Ambassador of Handmade, Faythe Levine has traveled 19,000 miles to document 
 what has emerged as a marriage between historical technique, punk culture, and the D.I.Y. (do-it-
 yourself) ethos.
-A companion book, Handmade Nation Â– The Rise of D.I.Y., Art, Craft, and Design, features 24 
+A companion book, Handmade Nation  The Rise of D.I.Y., Art, Craft, and Design, features 24 
 artists, their work environment, their process, their work, and discussions of how they got their start 
 and what motivates them.
 Based in Milwaukee, Wisconsin, first time Director Faythe Levine co-owns Paper Boat Boutique & 
-Gallery and founded Art vs. Craft, MilwaukeeÂ’s independent craft fair.
+Gallery and founded Art vs. Craft, Milwaukees independent craft fair.
 For more information, visit:
 gotcraft.com/handmadenation
 
@@ -84,19 +84,19 @@ gotcraft.com/handmadenation
 KATHLEEN RITTER | NEVER ALONE
 
 JULY 9 2009: PUBLIC VIEW
-6.45PM FOR 7.00PM ESCORT TO SPACE (limited space Â– please register)
+6.45PM FOR 7.00PM ESCORT TO SPACE (limited space  please register)
 
-JULY 10 Â– JULY 12 2009: BY APPOINTMENT
+JULY 10  JULY 12 2009: BY APPOINTMENT
 
-www.3084.ca Â– location / registration / appointments / further information
+www.3084.ca  location / registration / appointments / further information
 
-All alone, IÂ’m so all alone. There is no one else but you. All alone by the telephone, waiting for a 
-ring, a ting-a-ling. IÂ’m all alone every evening. All alone, feeling blue. Wondering where you are 
+All alone, Im so all alone. There is no one else but you. All alone by the telephone, waiting for a 
+ring, a ting-a-ling. Im all alone every evening. All alone, feeling blue. Wondering where you are 
 and how you are, and if you are all alone too. I hear the ticking of the clock, I'm lying here, the 
 room's pitch dark. I wonder where you are tonight; no answer on the telephone. And the night 
 goes by so very slow. I hope that it won't end though. Alone. When I was young I never needed 
 anyone and making love was just for fun. Those days are gone. Living alone, I think of all the 
-friends IÂ’ve known, but when I dial the telephone, nobodyÂ’s home. All by myself. DonÂ’t want to be
+friends Ive known, but when I dial the telephone, nobodys home. All by myself. Dont want to be
 all by myself anymore. All by myself. Maybe I give up too easy. Maybe I don't fight enough. 
 Maybe my heart is afraid of falling in love. I can't do this alone. I don't know what to do. Alone. 
 I'm trying to stay with you. It's not all about you. Boy, I can't do this alone. You're making this 
@@ -106,7 +106,7 @@ caress. All alone am I ever since your goodbye. All alone with just a beat of my
 around but I don't hear a sound. Just the lonely beating of my heart.
 
 In the final week of the 3084 program, Kathleen Ritter concludes the project with a response 
-drawing on the layered echoes of desire that resonate throughout the self-storage facility Â– a 
+drawing on the layered echoes of desire that resonate throughout the self-storage facility  a 
 container for tightly rationalised zones of erasure that for many reasons, increasing numbers of 
 people want. 
 
@@ -125,7 +125,7 @@ Prefix (2009), Modern Fuel (2008), the Robert McLaughlin Gallery (2008), Western
 Skol (2000), and Access (2000). Her writing has been published in the anthology Places and 
 Non-Places of Contemporary Art (2005) and the journals SWITCH, Prefix Photo, ESSE, Open 
 Letter, and Fillip Magazine. She has curated several projects, including Expect Delays (2003), a 
-series of artistÂ’s interventions that took place throughout the City of Vancouver, and How Soon Is 
+series of artists interventions that took place throughout the City of Vancouver, and How Soon Is 
 Now (2009), new work by artists from the province at the Vancouver Art Gallery.
 
 ABOUT 3084: SHORT-TERM STORAGE FOR MATERIALISED IDEAS / IDEATED MATERIALS
@@ -139,7 +139,7 @@ of such space and a facility for this approach.
 
 Throughout June and July 2009, 3084 will facilitate the short-term storage of materialised ideas / 
 ideated materials by a selection of artists based in Vancouver. These projects will be open to 
-public encounter through a series of open storage events and viewings by appointment Â– please 
+public encounter through a series of open storage events and viewings by appointment  please 
 see www.3084.ca for details.
 http://www.3084.ca
 
@@ -147,7 +147,7 @@ http://www.3084.ca
 <a href="/instant-coffee/listings/2009-07-09-04-blanket-alexis-marguerite-teplin-jul-9">04. BLANKET | Alexis Marguerite Teplin | JUL 9</a>
 ------------------------------------------------------------------------
 Alexis Marguerite Teplin 
-Â“Can you hear the sea?Â” 
+Can you hear the sea? 
 July 9 - August 8, 2009 
 Opening reception Thursday, July 9 6-9pm
 BLANKET Inc. 
@@ -157,7 +157,7 @@ Vancouver BC V6A 1C2
 T: 604.709.6100
 WWW.BLANKETGALLERY.COM
 
-Blanket Contemporary Art is pleased to present Â“Can you hear the sea?Â”, an 
+Blanket Contemporary Art is pleased to present Can you hear the sea?, an 
 exhibition of new painting, collage, and sculpture by London based American 
 artist Alexis Marguerite Teplin.
 
@@ -208,7 +208,7 @@ While on holiday at Tofino in 1991, a friend loaned him a camera to
 photograph natural phenomena there. The images seemed enigmatic and a
 little "strange" in the central European context and were compounded
 into tight triptychs. Further landscape works involved locations such
-as CadaquÃ©s and the Balearics in Spain.
+as Cadaqués and the Balearics in Spain.
 
 Frank returned to Vancouver a few years ago and eventually applied his
 vision to the Gulf Islands and the parks of Strathcona: a new kind of
@@ -298,12 +298,12 @@ accessible.
 
 We live in 3 dimensional bodies and yet operate in a world of
 thoughts, dreams and multi-dimensional realities. Conscious acts of
-engagement in the world effect the Quantum Â‘FieldÂ’ that we inhabit. As
+engagement in the world effect the Quantum Field that we inhabit. As
 bodies, minds and spirits we are only aware of the tiniest relevances
 of our lives to the grand picture. The ripples, waves and thought
 patterns extrapolate outwards and inwards as part of the never-ending,
 never-beginning matrix of life and energy. Some may call this Quantum
-Field Â“GodÂ”.
+Field God.
 
 With a background as a physicist & astronomer, Rob Scharein swims
 daily in the magic of 3D worlds as a Research Fellow in the Department
@@ -311,15 +311,15 @@ of Mathematics at San Francisco State University.
 www.knotplot.com & www.hypnagogic.net
 
 jamie griffiths is a visual artist and filmmaker. She has been
-seeking in the Quantum Field since 2001, on a quest to find Â‘G-ddeÂ’ in
+seeking in the Quantum Field since 2001, on a quest to find G-dde in
 her everyday life and art and uses interactive technology in live
 performance films and installations. She is also currently a
 researcher in Digital Video Illumination at the Univ.of BC.
 www.jamiegriffiths.com
 
-In Â‘MystiQÂ’, the Quantum Field is visually referenced by mathematical
+In MystiQ, the Quantum Field is visually referenced by mathematical
 collisions of 3D strings and nodes, forming a continuous matrix of 3D
-Â‘lifeÂ’ inside the Vivarium Gallery window... attaching & releasing...
+life inside the Vivarium Gallery window... attaching & releasing...
 dragging and being pulled around in the matrix. From a chaotic
 beginning, order emerges as symmetries hidden in the connections
 between players in the chaos game are revealed. As they collide they
@@ -475,36 +475,36 @@ Launch of The Open Page by Esther Shalev-Gerz
 
 Thursday, July 16, 2009, VPL Central Branch
 
-ArtistÂ’s Talk: 6 pm, Special Collections Room, Level 7
+Artists Talk: 6 pm, Special Collections Room, Level 7
 
 Reception following in the board room, Level 7
 
 The Vancouver Public Library and the City of Vancouver Public Art Program are pleased to 
 launch The Open Book by Esther Shalev-Gerz, the final installment in Vancouver Public Art 
-ProgramÂ’s Memory Palace [3 artists in the library].
+Programs Memory Palace [3 artists in the library].
 
 Prominently displayed at Library Square from now until December 2009, the works commissioned 
 for the Aperture Project have been expanded from three to six large-scale, photo-based banners 
 hung within the large rectangular apertures at the Central Library Promenade. The images were 
-inspired by Shalev-GerzÂ’s exploration of the hidden treasures found in the LibraryÂ’s Special 
+inspired by Shalev-Gerzs exploration of the hidden treasures found in the Librarys Special 
 Collections department.
 
 Books were selected from the collection based on staff favourites and photographed using a 
 large-format camera and special lenses to capture the hands of a library staff person at the 
-instant of opening the book and to draw attention to each bookÂ’s remarkable craftsmanship and 
+instant of opening the book and to draw attention to each books remarkable craftsmanship and 
 detail. In addition to the banners, Shalev-Gerz has also created fifteen photographic artworks 
 related to these Special Collections books that will be displayed on five levels of the Central 
 Library. 
 
-Â“The library is a space that allows for a profusion of knowledge and imagination accessible to 
+The library is a space that allows for a profusion of knowledge and imagination accessible to 
 everybody, but the materials in the Special Collections are in a distinctive space offset from the 
-rest of the Library,Â” she said. Â“I wanted to address and counter the limits of accessibility to these 
-precious objects by inserting them into five levels of the Library.Â”
+rest of the Library, she said. I wanted to address and counter the limits of accessibility to these 
+precious objects by inserting them into five levels of the Library.
 
 Born in Vilnius, Lithuania, Esther Shalev-Gerz studied at the Bezalel School of Art and Design in
-Israel. Since 2003, she has been Professor (adjunct) at Valand Art School, GÃ¶teborg University, 
+Israel. Since 2003, she has been Professor (adjunct) at Valand Art School, Göteborg University, 
 Sweden. She has created numerous commissioned works for clients throughout Europe, 
-including the HÃ´tel de Ville in Paris, the Trust for Castlemilk Park in Glasgow and the Maritime 
+including the Hôtel de Ville in Paris, the Trust for Castlemilk Park in Glasgow and the Maritime 
 Museum in Greenwich, England. In early 2010, the Jeu de Paume in Paris will present a major 
 exhibition of her work.
 
@@ -512,7 +512,7 @@ Presented by the Vancouver Public Art Program in partnership with the Vancouver 
 and Doryphore Independent Curators Society, Memory Palace [3 artists in the library], curated by 
 Karen Love, is supported by Arts Partners in Creative Development, the Canada Council for the 
 Arts, the Government of British Columbia through the BC Arts Council, the Vancouver 
-Foundation, the Consulat GÃ©nÃ©ral de France and by the Library Square Endowment Fund 
+Foundation, the Consulat Général de France and by the Library Square Endowment Fund 
 created by Vancouver City Council in 1995.
 
 For more information: karen.henry@vancouver.ca
@@ -556,12 +556,12 @@ http://www.arts101project.ca
 <a href="/instant-coffee/listings/2009-07-09-13-monte-clark-gallery-assembly-jul-18">13. Monte Clark Gallery | ASSEMBLY | JUL 18</a>
 ------------------------------------------------------------------------
 ASSEMBLY
-July 16 Â– August 8 2009
+July 16  August 8 2009
 
 Opening Reception:
 Saturday afternoon opening July 18th
 
-As part of VancouverÂ’s Drawn Festival, the Monte Clark Gallery is
+As part of Vancouvers Drawn Festival, the Monte Clark Gallery is
 pleased to announce a group exhibition entitled Assembly.
 
 Assembly brings together a small group of artists, selected for their
@@ -572,31 +572,31 @@ of work previously unseen by Vancouver audiences and will include
 pieces by Graham Gillmore, Derek Liddington, Robert Olsen, and Alison
 Yip.
 
-Characterized by a fixation on the linguistic, Graham GillmoreÂ’s
+Characterized by a fixation on the linguistic, Graham Gillmores
 best-known work presents large-scale statements that are often ironic
 and poignant. Somewhere between determined and frenzied, his addition
 to this exhibition entitled Mea Non Culpa presents bold black and blue
-ink across white paper repeating Â“mea non culpa / mea non maxima
-culpaÂ”. Referencing legal terminology, the English translation of his
-Latin text reads Â“ItÂ’s not my fault / itÂ’s really not my faultÂ”.
+ink across white paper repeating mea non culpa / mea non maxima
+culpa. Referencing legal terminology, the English translation of his
+Latin text reads Its not my fault / its really not my fault.
 
-Derek LiddingtonÂ’s work brings to attention a tendency of contemporary
-artists to reference other artistÂ’s work. His contribution to the show
+Derek Liddingtons work brings to attention a tendency of contemporary
+artists to reference other artists work. His contribution to the show
 entitled The Destroyed Room (after Sonic Youth after Jeff Wall after
 Eugene Delacrois) exemplifies this practice, illustrating a period of
-his work where his focus was specifically on the Â“Vancouver SchoolÂ”.
+his work where his focus was specifically on the Vancouver School.
 
-Robert OlsenÂ’s addition to Assembly is a group of three small-scale
+Robert Olsens addition to Assembly is a group of three small-scale
 drawings of commonplace objects. A cactus, a basketball hoop, and a
 pile of books are drawn with white chalk onto black grounds, conveying
-OlsenÂ’s intent to illustrate the quality of the light rather than the
+Olsens intent to illustrate the quality of the light rather than the
 actual objects themselves.
 
-Alison YipÂ’s drawings present careful studies of everyday imagery. Her
+Alison Yips drawings present careful studies of everyday imagery. Her
 work stands alone in the realm of figurative drawing because of her
 strikingly adept attention to details and her ability to capture the
 disposition of her subjects. Masterfully completed while presenting
-humble scenarios, YipÂ’s drawings are alive with character.
+humble scenarios, Yips drawings are alive with character.
 
 2339 Granville Street
 Vancouver, BC
@@ -613,13 +613,13 @@ http://www.monteclarkgallery.com
 PRINT RESEARCH RESIDENCY
 The Print Research Residency is aimed at introducing a Vancouver
 artist to one or more printmaking techniques. Artists with little to
-no experience in printmaking will receive access to MalaspinaÂ’s
+no experience in printmaking will receive access to Malaspinas
 workshops along with technical support from Malaspina staff as they
 learn lithography, intaglio, and or relief.
 
 Working with the artist, Malaspina will help the artist realize a
 project in one print medium. The residency is 6 months in length,
-during which time the artist will have free access to MalaspinaÂ’s
+during which time the artist will have free access to Malaspinas
 workshops and courses, as well as some technical support from
 Malaspina staff. The prime objective of the residency is to introduce
 printmaking to an artist and supply them with a new means of making
@@ -632,36 +632,36 @@ in this residency, the artist must be committed to dedicating regular
 (weekly) time periods in the studio.
 
 Specifics:
-Â• the residency will run for 6 months beginning either September 2009
+ the residency will run for 6 months beginning either September 2009
 or January 2010, depending upon printing method the artist will be
 working with.
-Â• a residency fee of $1500 will be paid to the artist in three
+ a residency fee of $1500 will be paid to the artist in three
 installments: $500 at the commencement of the residency, $500 mid-way,
 and the final $500 upon completion of the residency.
-Â• artists will receive a credit of $200 towards supplies available
+ artists will receive a credit of $200 towards supplies available
 through Malaspina.
-Â• artists will receive access to all facilities and equipment in
-MalaspinaÂ’s studio
-Â• all residency artists need to observe MalaspinaÂ’s studio policies,
+ artists will receive access to all facilities and equipment in
+Malaspinas studio
+ all residency artists need to observe Malaspinas studio policies,
 guidelines, and etiquette
 
 Selection:
 
-Â• A panel of arts professionals will select the successful artist
-based on the artistic merit, clarity of application, and the artistÂ’s
+ A panel of arts professionals will select the successful artist
+based on the artistic merit, clarity of application, and the artists
 ability to commit to the project.
 
 Submission:
-Â• postmark deadline: July 30, 2009
-Â• CV
-Â• Letter of Intent
-Â• numbered image list
-Â• 10-20 images of previous work (using Canada CouncilÂ’s naming convention)
-Â• jpegs should not exceed 72-150 dpi
-Â• please print off a copy of all your documents
+ postmark deadline: July 30, 2009
+ CV
+ Letter of Intent
+ numbered image list
+ 10-20 images of previous work (using Canada Councils naming convention)
+ jpegs should not exceed 72-150 dpi
+ please print off a copy of all your documents
 
 Eligibility
-Â• local artists with no printmaking experience in the medium they wish
+ local artists with no printmaking experience in the medium they wish
 to work in.
 
 The Print Research Residency was initiated in 2008. Elizabeth Zvonar

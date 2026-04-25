@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 30
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | rain shadow poetics lab | Language and The Land | AUG 22"
 ---
 

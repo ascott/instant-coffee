@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Alliance Francaise Vancouver"
 summary: "Alliance Francaise Vancouver | Dépaysagements | APR 3"
 ---
 

@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 28
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Double Negative Collective | JUN 12"
 ---
 
-Cineworks Studio, 300 â€“1131 Howe Street (lane entrance)
-Friday Jun 12, 7.30pm â€“ 9.30pm
+Cineworks Studio, 300 –1131 Howe Street (lane entrance)
+Friday Jun 12, 7.30pm – 9.30pm
 FREE
 
 Iris Film Collective and Cineworks present:
@@ -32,16 +33,16 @@ Program:
 Where We Stand | 05:00 | Lindsay McIntyre
 The Broken Altar | 19:30 | Mike Rollo
 Acrobat | 28:00 | Eduardo Menz
-H2T | 05:30 | Charles-AndrÃ© Coderre
+H2T | 05:30 | Charles-André Coderre
 Mamori | 08:00 | Carl Lemieux
 Lunar Almanac | 04:00 | Malena Szlam
-Never a Foot Too Far, Even | 14:00 | DaÃ¯chi SaÃ¯to
+Never a Foot Too Far, Even | 14:00 | Daïchi Saïto
 
 'Iris Film Collective is a Vancouver-based group of independent artists
-creating, exhibiting and touring film-based worksâ€”single channel, expanded,
-sculptural, installationâ€”with the goal of increasing the visibility and
-accessibility of experimental media art. Above all, our interest in cinÃ©
-filmâ€”actual celluloidâ€”at a time when this medium is shifting from an
+creating, exhibiting and touring film-based works—single channel, expanded,
+sculptural, installation—with the goal of increasing the visibility and
+accessibility of experimental media art. Above all, our interest in ciné
+film—actual celluloid—at a time when this medium is shifting from an
 industrial model to an artisanal one.'
 
 http://www.irisfilmcollective.com

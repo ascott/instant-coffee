@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 5
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Curator Tour of Beyond Vague Terrain | FEB 9"
 ---
 
@@ -18,11 +19,11 @@ gallerys Curator of Exhibitions and Collections, Jordan Strom, who will
 provide background on the distinct approaches and techniques of the 
 artists whose works are featured in the exhibitions. The group exhibition 
 Beyond Vague Terrain: The City and the Serial Image shows many 
-sides to cities, especially Metro Vancouverâ€™s. Through photography, 
+sides to cities, especially Metro Vancouver’s. Through photography, 
 painting, drawing, and video, the artists have used the strategy of 
 multiple images to create compelling ways of representing experiences 
 of the spaces associated with cities. The tour will also address Kristen 
-Roosâ€™ sound art installation project titled Underground that uses found 
+Roos’ sound art installation project titled Underground that uses found 
 sounds and existing furnishings from the Surrey Arts Centre to create a 
 resonant aural and tactile experiences.
 
@@ -32,19 +33,19 @@ members are free.
 
 The tour will examine how and why the particular artworks on display 
 were chosen for the exhibitions, illustrate interesting stories about how 
-the artworks relate to the artistsâ€™ previous work, and illuminate the many 
+the artworks relate to the artists’ previous work, and illuminate the many 
 ideas explored in the exhibitions. Both regular tour participants and 
 first-time gallery visitors are encouraged to ask questions and share 
 their responses to the artworks.
 
 What will those on the tour experience? Beyond Vague Terrain 
-includes Sylvia Grace Bordaâ€™s interactive photographic database and 
+includes Sylvia Grace Borda’s interactive photographic database and 
 projection that depicts transit pickup and drop-off points across Surrey; 
-Roy Kiyookaâ€™s street photographs that freeze moving figures and 
+Roy Kiyooka’s street photographs that freeze moving figures and 
 passing vehicles against East Vancouver storefront facades in late-
-1970s; and Helma Sawatzkyâ€™s recombined images of a new building site 
+1970s; and Helma Sawatzky’s recombined images of a new building site 
 in South Surrey that speak to the rapid development of this part of the 
-Lower Mainland. Kristen Roosâ€™ Underground presents a form of 
+Lower Mainland. Kristen Roos’ Underground presents a form of 
 furniture music that raises questions about hidden labour and the role 
 of the body in the act of listening. 
 

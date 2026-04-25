@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lone glove"
 emailDate: "Thu, 10 Dec 2015 11:00:47 -0800"
 number: 11
 type: "CALL"
+venue: "Arnica Artist-Run Centre"
 summary: "Arnica Artist-Run Centre | Call for Light Sculpture - EXTENDED DEADLINE | DEC 31"
 ---
 

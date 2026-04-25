@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 81
 type: "CALL"
+venue: "TILT"
 summary: "TILT | Artist in Residence | MAY 31"
 ---
 

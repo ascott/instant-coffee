@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 32
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | Art in the Community | MAY 31"
 ---
 

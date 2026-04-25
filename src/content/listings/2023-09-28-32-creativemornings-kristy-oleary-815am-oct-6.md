@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 32
 type: "TALK"
+venue: "CreativeMornings"
 summary: "CreativeMornings | Kristy O’Leary | 815AM | OCT 6"
 ---
 

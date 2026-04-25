@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: they do not always believe the man
 emailDate: "Thu, 26 Jun 2014 16:11:54 -0700"
 number: 6
 type: ""
+venue: "Index Gallery"
 summary: "Index Gallery | EMMETT ROSE | JUN 26"
 ---
 

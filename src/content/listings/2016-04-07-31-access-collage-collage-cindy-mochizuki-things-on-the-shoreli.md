@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 31
 type: "EVENT"
+venue: "Access @ Collage Collage"
 summary: "Access @ Collage Collage | Cindy Mochizuki: Things on the Shoreline | APR 16"
 ---
 

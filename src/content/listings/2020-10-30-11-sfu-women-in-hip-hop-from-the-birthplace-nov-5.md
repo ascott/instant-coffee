@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 11
 type: "EDUCATION"
+venue: "SFU"
 summary: "SFU | Women in Hip-Hop from the Birthplace | NOV 5"
 ---
 

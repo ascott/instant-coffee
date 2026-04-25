@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema at The Cinematheque | Marguerite Duras | NOV 13"
 ---
 

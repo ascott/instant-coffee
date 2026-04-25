@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 10
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Mike Nelson | SEP 13"
 ---
 
@@ -33,17 +34,17 @@ Wilson Duff.
 
 For the Contemporary Art Gallery, Nelson revisits ideas and forms first 
 seen in The Amnesiacs, a serial project begun in 1996, which references a 
-narrative involving an imaginary cast of characters â€” a group of â€˜outsidersâ€™ to 
+narrative involving an imaginary cast of characters — a group of ‘outsiders’ to 
 the mainstream who uncannily resemble a disembodied late twentieth century 
 biker gang, albeit without bikes. These quintessential outlaws of myth and 
 literature, as depicted in the popular imagination of North America, are 
 paralleled here with another favourite genre; that of the hunter or fur trader, 
-exploring both groupsâ€™ economic underpinning of these romantic faÃ§ades, and 
+exploring both groups’ economic underpinning of these romantic façades, and 
 the resulting conflicts involved in the expansion of territory.
 A forthcoming catalogue on the work of Mike Nelson will feature images and 
 essays relating to his exhibitions at the Contemporary Art Gallery, Vancouver 
 and The Power Plant, Toronto. The publication will consider the reoccurrence 
-of the figurative in much of Nelsonâ€™s work and will be available in Spring 2014.
+of the figurative in much of Nelson’s work and will be available in Spring 2014.
 Image: Mike Nelson, The Amnesiacs (1997), mixed media; site specific 
 installation Gallerie Campbells Occasionally, Copenhagen.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 22
 type: "CALL"
+venue: "grunt gallery"
 summary: "grunt gallery | Mount Pleasant Community Arts Screen (MPCAS) | JUL 31"
 ---
 

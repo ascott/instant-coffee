@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 44
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | The DJ Who"
 ---
 

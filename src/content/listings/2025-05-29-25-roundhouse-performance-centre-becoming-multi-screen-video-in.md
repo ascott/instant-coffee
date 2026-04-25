@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 25
 type: "OPENING"
+venue: "Roundhouse Performance Centre"
 summary: "Roundhouse Performance Centre | BECOMING: Multi-Screen Video Installation | JUN 4+5 | JUN 4"
 ---
 

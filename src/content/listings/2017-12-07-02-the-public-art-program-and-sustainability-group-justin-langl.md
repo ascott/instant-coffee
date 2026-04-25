@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 2
 type: "EVENT"
+venue: "The Public Art Program and Sustainability Group"
 summary: "The Public Art Program and Sustainability Group | Justin Langlois: \"Should I be Worried?\""
 ---
 

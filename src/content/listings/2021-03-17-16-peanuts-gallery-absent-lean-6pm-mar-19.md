@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 16
 type: "OPENING"
+venue: "Peanuts Gallery"
 summary: "Peanuts Gallery | \"ABSENT LEAN\" | 6PM | MAR 19"
 ---
 

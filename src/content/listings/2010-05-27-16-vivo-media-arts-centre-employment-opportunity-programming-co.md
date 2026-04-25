@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 16
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Employment Opportunity: Programming Coordinator | JUN 3"
 ---
 
@@ -51,9 +52,9 @@ promotional material, critical discourse, calendar of events, and press
 releases, in collaboration with other VIVO departments, about VIVO's media
 arts programming.
 - Appropriate record keeping and reporting of resources, events,
-exhibitions and other projects, particularly as it pertains to VIVOÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s
+exhibitions and other projects, particularly as it pertains to VIVOÃ¢ï¿½ï¿½s
 archive.
-- Coordinating the human resources and budget for VIVOÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s annual Signal +
+- Coordinating the human resources and budget for VIVOÃ¢ï¿½ï¿½s annual Signal +
 Noise Festival. This may include assisting in grant writing and research.
 - Coordinating and working with the Programming Advisory Committee and
 department staff to establish, implement, assess and maintain appropriate

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 16 Jul 2025 22:15:13 -0700"
 number: 3
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | Call for Entry: Image / Object"
 ---
 

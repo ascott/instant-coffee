@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 15
 type: "EVENT"
+venue: "Alliance Française"
 summary: "Alliance Française | OPEN STUDIO & WORKSHOP | 10AM | DEC 6"
 ---
 

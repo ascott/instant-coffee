@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 14
 type: ""
+venue: "Jump In, It’s Warm"
 summary: "Jump In, It’s Warm | DEC 5"
 ---
 

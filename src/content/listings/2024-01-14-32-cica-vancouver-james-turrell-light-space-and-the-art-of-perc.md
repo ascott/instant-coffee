@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 32
 type: "EXHIBITION"
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | JAMES TURRELL: LIGHT, SPACE, AND THE ART OF PERCEP | FEB 17"
 ---
 

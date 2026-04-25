@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 29
 type: "CALL"
+venue: "Maple Ridge"
 summary: "Maple Ridge | Artist in Residence Program | FEB 21"
 ---
 

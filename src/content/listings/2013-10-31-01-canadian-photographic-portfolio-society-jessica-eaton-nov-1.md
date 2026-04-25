@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 1
 type: ""
+venue: "Canadian Photographic Portfolio Society"
 summary: "Canadian Photographic Portfolio Society | Jessica Eaton | NOV 1"
 ---
 

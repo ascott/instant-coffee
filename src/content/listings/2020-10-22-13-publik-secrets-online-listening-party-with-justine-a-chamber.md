@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 13
 type: "TALK"
+venue: "Publik Secrets [ONLINE]"
 summary: "Publik Secrets [ONLINE] | Listening Party with Justine A. Chambers | 5PM | OCT 24"
 ---
 

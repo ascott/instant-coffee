@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 15
 type: "EXHIBITION"
+venue: "New Leaf Editions"
 summary: "New Leaf Editions | Documentary - Expression of Life in the Course of | FEB 17"
 ---
 

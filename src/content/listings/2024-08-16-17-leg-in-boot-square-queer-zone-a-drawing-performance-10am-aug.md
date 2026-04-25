@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 17
 type: "PERFORMANCE"
+venue: "Leg-in-boot Square"
 summary: "Leg-in-boot Square | Queer Zone: a drawing performance | 10AM | AUG 25"
 ---
 

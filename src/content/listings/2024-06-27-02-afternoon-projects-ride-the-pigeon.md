@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Ride the Pigeon"
 ---
 

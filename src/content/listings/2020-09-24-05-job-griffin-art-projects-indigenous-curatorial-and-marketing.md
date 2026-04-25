@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 5
 type: ""
+venue: "JOB"
 summary: "JOB | Griffin Art Projects | Indigenous Curatorial and Marketing Assistant | SEP 24"
 ---
 

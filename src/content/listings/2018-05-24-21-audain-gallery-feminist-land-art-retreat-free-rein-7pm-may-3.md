@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 21
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Feminist Land Art Retreat: Free Rein | 7PM | MAY 30"
 ---
 

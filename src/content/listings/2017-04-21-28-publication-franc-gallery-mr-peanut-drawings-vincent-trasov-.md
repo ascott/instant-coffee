@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 28
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Franc Gallery | Mr. Peanut Drawings: Vincent Trasov | APR 26"
 ---
 

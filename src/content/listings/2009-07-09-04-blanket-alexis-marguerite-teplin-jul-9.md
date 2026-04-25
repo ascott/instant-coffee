@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 4
 type: ""
+venue: "BLANKET"
 summary: "BLANKET | Alexis Marguerite Teplin | JUL 9"
 ---
 
 Alexis Marguerite Teplin 
-Â“Can you hear the sea?Â” 
+Can you hear the sea? 
 July 9 - August 8, 2009 
 Opening reception Thursday, July 9 6-9pm
 BLANKET Inc. 
@@ -18,7 +19,7 @@ Vancouver BC V6A 1C2
 T: 604.709.6100
 WWW.BLANKETGALLERY.COM
 
-Blanket Contemporary Art is pleased to present Â“Can you hear the sea?Â”, an 
+Blanket Contemporary Art is pleased to present Can you hear the sea?, an 
 exhibition of new painting, collage, and sculpture by London based American 
 artist Alexis Marguerite Teplin.
 

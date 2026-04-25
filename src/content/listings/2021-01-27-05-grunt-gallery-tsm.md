@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "grunt gallery"
 summary: "grunt gallery | Tsēmā"
 ---
 

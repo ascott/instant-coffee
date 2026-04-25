@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 2
 type: ""
+venue: "ECU"
 summary: "ECU | The On Edge | Charles Demers | OCT 11"
 ---
 

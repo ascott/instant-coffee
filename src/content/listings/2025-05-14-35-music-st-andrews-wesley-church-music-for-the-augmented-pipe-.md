@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 35
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | St. Andrew's-Wesley Church | Music for the Augmented Pipe Organ | 7PM | JUN 2"
 ---
 

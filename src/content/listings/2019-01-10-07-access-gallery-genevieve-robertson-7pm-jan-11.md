@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 7
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Genevieve Robertson | 7PM | JAN 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 36
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Bobbie Burgers: Sheltered State | 6-8PM | AUG 2"
 ---
 

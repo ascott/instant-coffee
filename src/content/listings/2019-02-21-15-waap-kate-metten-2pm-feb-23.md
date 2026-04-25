@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 15
 type: "TALK"
+venue: "WAAP"
 summary: "WAAP | Kate Metten | 2PM | FEB 23"
 ---
 

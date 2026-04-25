@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 22
 type: ""
+venue: "25 The Decapitated Museum"
 summary: "25 The Decapitated Museum | CALL | JUN 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 16
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | The Heart is Not a Well, It Is a Fountain | AUG 9"
 ---
 

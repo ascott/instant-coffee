@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 13
 type: "PERFORMANCE"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Dana Michel: MIKE December 13, 2-5pm | DEC 13"
 ---
 

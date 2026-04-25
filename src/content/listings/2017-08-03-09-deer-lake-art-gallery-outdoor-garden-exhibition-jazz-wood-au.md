@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 9
 type: "OPENING"
+venue: "Deer Lake Art Gallery"
 summary: "Deer Lake Art Gallery | Outdoor Garden Exhibition: Jazz Wood | AUG 10"
 ---
 

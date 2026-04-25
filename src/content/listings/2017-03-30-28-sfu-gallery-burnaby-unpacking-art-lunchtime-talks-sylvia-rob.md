@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 28
 type: "TALK"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Unpacking Art: Lunchtime Talks : Sylvia Roberts | APR 5"
 ---
 

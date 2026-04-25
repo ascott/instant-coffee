@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stories of Home"
 emailDate: "Thu, 14 May 2020 18:35:10 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "Vancouver Community College Jewelry Art & Desi"
 summary: "Vancouver Community College Jewelry Art & Desi | Online Exhibition and Gallery Window Display | MAY 28"
 ---
 

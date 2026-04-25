@@ -222,7 +222,7 @@ participating centres
 Qualifications
 
 * 3+ years' experience in Arts Marketing or a related field
-* BachelorÂ´s degree in Marketing/Business or a combination of education
+* Bachelor´s degree in Marketing/Business or a combination of education
 and work experience
 * Proven history in creating and implementing marketing and/or
 communication plans

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 16
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | Visual Art Forums: Working Artists | NOV 9"
 ---
 

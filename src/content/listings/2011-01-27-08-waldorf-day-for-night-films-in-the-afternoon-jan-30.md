@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 8
 type: ""
+venue: "WALDORF"
 summary: "WALDORF | Day for Night | Films in the Afternoon | JAN 30"
 ---
 

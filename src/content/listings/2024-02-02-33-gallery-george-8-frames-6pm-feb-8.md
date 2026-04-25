@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 33
 type: "OPENING"
+venue: "Gallery George"
 summary: "Gallery George | 8 Frames | 6PM | FEB 8"
 ---
 

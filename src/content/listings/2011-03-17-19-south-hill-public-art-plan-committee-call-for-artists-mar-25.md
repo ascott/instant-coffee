@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 19
 type: ""
+venue: "South Hill Public Art Plan Committee"
 summary: "South Hill Public Art Plan Committee | Call for Artists | MAR 25"
 ---
 

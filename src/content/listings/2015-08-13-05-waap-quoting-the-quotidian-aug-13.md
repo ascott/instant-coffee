@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 5
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Quoting the Quotidian | AUG 13"
 ---
 
@@ -69,12 +70,12 @@ by creating palimpsestic clay moulds.
 Other works critically assess the aesthetic contexts in which objects are
 situated. ROULA PARTHENIOU's sculptures make overt references to
 commonplace things, but their operations are far more subtle; for they rely
-on their audienceÃ¢â‚¬â„¢s acquired familiarity with consumer culture in order for
+on their audienceâ€™s acquired familiarity with consumer culture in order for
 their representations to be seen. JASON MCLEAN's collaborative sculpture
 with SCOTT LAWRENCE functions cleverly as a visual double entendre.
 VANESSA BROWN's flat panels fuse picture and sculpture, and the objects
 depicted in them are derived surrealistically from dream-activated visual
-fields. BARRY DOUPE explores the various forms Ã¢â‚¬Å“a lineÃ¢â‚¬ can take, and how
+fields. BARRY DOUPE explores the various forms â€œa lineâ€ can take, and how
 its elasticity and transformability can be employed to express a vast range
 of emotional states.
 

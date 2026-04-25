@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 28
 type: "EVENT"
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | ECU and THE ONLY ANIMAL | 4pm | FEB 6"
 ---
 

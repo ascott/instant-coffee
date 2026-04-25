@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 22
 type: ""
+venue: "The Iris Film Collective"
 summary: "The Iris Film Collective | CALL: local films and videos | JUN 1"
 ---
 
@@ -30,7 +31,7 @@ neighbourhood?
 Sidewalks, alleys and yards are preferable, but no public space (ie parks) as 
 this requires permits etc. Let us know and maybe we can screen near you!
 
-Please spread the wordâ€¦
+Please spread the word…
 
 -The Iris Film Collective
 

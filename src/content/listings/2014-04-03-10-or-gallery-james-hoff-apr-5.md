@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 10
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | James Hoff | APR 5"
 ---
 
 How Wheeling Feels When the Ground Walks Away 
 James Hoff
-April 5 â€” May 3, 2014
+April 5 — May 3, 2014
 Reception *Saturday*, April 5, 8PM (Artist talk at 7PM) 
 Curated by Kathy Slade
 
@@ -21,7 +22,7 @@ Cage concert in Italy to a Dead Prez concert at Evergreen State College, and
 in the streets during political unrest in India, China, and Greece.
 
 James Hoff is an artist and publisher who lives and works in New York. He 
-works across diverse formats including the artistsâ€™ book, live performance, 
+works across diverse formats including the artists’ book, live performance, 
 writing, painting, sculpture, and sound art. Guided by both his editorial 
 practice and archival impulses, Hoff employs minor histories as source 
 material, which are then re-worked or re-contextualized, forging new 
@@ -36,7 +37,7 @@ Information with Miriam Katzeff in 2006.
 
 How Wheeling Feels When the Ground Walks Away is guest curated by 
 Kathy Slade and marks the second of a series of exhibitions and projects 
-comprising The Troubled Pastoral. The series, conceived of by Mark LanctÃ´t 
+comprising The Troubled Pastoral. The series, conceived of by Mark Lanctôt 
 and Jonathan Middleton, takes on a broad set of themes including pessimism, 
 psychedelia, altered states and drug use, black comedy, science-fiction 
 dystopia, class struggle (within the context of an increasingly marginal or 

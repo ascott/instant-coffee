@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 14
 type: "TALK"
+venue: "312 Main St"
 summary: "312 Main St | History to the Tune of Rocket Fire | 6PM | MAY 17"
 ---
 

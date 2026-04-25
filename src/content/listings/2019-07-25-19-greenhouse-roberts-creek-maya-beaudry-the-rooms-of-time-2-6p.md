@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "Greenhouse (Roberts Creek)"
 summary: "Greenhouse (Roberts Creek) | Maya Beaudry- The Rooms of Time | 2-6PM | JUL 27"
 ---
 

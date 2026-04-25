@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 8
 type: "OPENING"
+venue: "BAG"
 summary: "BAG | New Acquisitions | SEP 11"
 ---
 

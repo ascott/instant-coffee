@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 13
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Hsingyuan Tsao tour of Song Dong - Waste Not | NOV 6"
 ---
 
@@ -14,19 +15,19 @@ Guest Tour of Song Dong - Waste Not
 
 Hsingyuan Tsao
 
-Song Dongâ€™s monumental installation, titled Waste Not, is a collaboration
+Song Dong’s monumental installation, titled Waste Not, is a collaboration
 between the artist and his mother, Zhao Xiangyuan. The installation
-comprises the frame of his motherâ€™s house along with all of the everyday
-objects she meticulously collected over the course of her lifetimeâ€”a
+comprises the frame of his mother’s house along with all of the everyday
+objects she meticulously collected over the course of her lifetime—a
 collection of over ten thousand worn and broken objects, each one of little
-value. Together, the assembled materialsâ€”clothes, books, kitchen utensils,
-toiletries, school supplies, shopping bags, rice bowls, dollsâ€”were used,
+value. Together, the assembled materials—clothes, books, kitchen utensils,
+toiletries, school supplies, shopping bags, rice bowls, dolls—were used,
 then recycled, then hoarded. Meticulously arranged in careful groupings
 throughout the exhibition space, the objects form a miniature cityscape
 that viewers can navigate around and through.
 
 Hsingyuan Tsao, professor in art history at the University of British
-Columbia, provides a tour of Song Dongâ€™s installation, offering a glimpse
+Columbia, provides a tour of Song Dong’s installation, offering a glimpse
 into the historical and socio-political contexts behind the objects that
 comprise the work. Professor Tsao holds a Ph.D. in Art History from
 Stanford University. Her area of special interest is the art of China's

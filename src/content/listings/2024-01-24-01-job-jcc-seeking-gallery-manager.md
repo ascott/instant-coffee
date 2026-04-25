@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | JCC | seeking Gallery Manager"
 ---
 

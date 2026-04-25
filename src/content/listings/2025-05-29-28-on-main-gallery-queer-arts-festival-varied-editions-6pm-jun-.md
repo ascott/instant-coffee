@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 28
 type: "OPENING"
+venue: "On Main Gallery, Queer Arts Festival"
 summary: "On Main Gallery, Queer Arts Festival | Varied Editions | 6PM | JUN 6"
 ---
 

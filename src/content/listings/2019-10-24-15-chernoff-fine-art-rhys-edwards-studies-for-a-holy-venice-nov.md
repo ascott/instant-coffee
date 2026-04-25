@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 15
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Rhys Edwards: Studies for a Holy Venice | NOV 1"
 ---
 

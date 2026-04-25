@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 6
 type: "OPENING"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Lawrence Paul Yuxweluptun, Drawings | MAY 20"
 ---
 

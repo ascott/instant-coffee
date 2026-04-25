@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 18
 type: "EVENT"
+venue: "Second Beach"
 summary: "Second Beach | Art In the Park- hosted by Josh Byer | JUL 30"
 ---
 

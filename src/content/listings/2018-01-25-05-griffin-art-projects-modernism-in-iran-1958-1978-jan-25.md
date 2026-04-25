@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 5
 type: ""
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Modernism in Iran: 1958-1978 | JAN 25"
 ---
 

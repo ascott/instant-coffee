@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Cason Sharpe"
 summary: "Cason Sharpe | After A.A...Looking for L(e/a)na | AUG 28"
 ---
 

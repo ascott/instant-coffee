@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 22
 type: "OPENING"
+venue: "Robson Park"
 summary: "Robson Park | GREEN ROOM | 530-830PM | OCT 18"
 ---
 

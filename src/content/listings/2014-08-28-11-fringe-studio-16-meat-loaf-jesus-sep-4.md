@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 11
 type: ""
+venue: "Fringe"
 summary: "Fringe | Studio 16 | Meat Loaf Jesus | SEP 4"
 ---
 
@@ -25,4 +26,4 @@ to hang out, do drugs, have sex, whatever. The kinetic Alex, a wild kid,
 who could have been a hockey star, captivates Mark. However, Alex has been
 â€œlaying it inâ€  Teresa, who has recently been barred from the local mall.
 Watching over them all is a one armed Jesus, powerful but ineffectual to
-stop their lives from exploding like a roller coaster leaving itâ€™s tracks!
+stop their lives from exploding like a roller coaster leaving it’s tracks!

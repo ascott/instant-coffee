@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 16
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | DIM Cinema | L’Histoire, toutes le histoires | DEC 12"
 ---
 

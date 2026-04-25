@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 29
 type: "OPENING"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | Shiki & Ku | Yota Kobayashi | SEP 13"
 ---
 

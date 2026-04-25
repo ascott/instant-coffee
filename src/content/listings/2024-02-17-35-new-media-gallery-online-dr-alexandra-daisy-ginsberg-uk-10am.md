@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 35
 type: "TALK"
+venue: "New Media Gallery [ONLINE]"
 summary: "New Media Gallery [ONLINE] | Dr. Alexandra Daisy Ginsberg (UK) | 10AM | MAR 8"
 ---
 

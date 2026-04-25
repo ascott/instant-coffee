@@ -15,7 +15,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-05-03-01-access-gallery-vessel-may-3">01. Access Gallery | Vessel | MAY 3</a>
 <a href="/instant-coffee/listings/2012-05-03-02-presentation-house-gallery-a-conversation-in-and-around-c198">02. Presentation House Gallery | A CONVERSATION IN AND AROUND C.1983 | MAY 3</a>
 <a href="/instant-coffee/listings/2012-05-03-03-the-commons-grand-opening-serial-abstracts-rebecca-belmore-m">03. THE COMMONS | *GRAND OPENING* Serial Abstracts & Rebecca Belmore | MAY 3</a>
-<a href="/instant-coffee/listings/2012-05-03-04-xblack-yellow-gallery-sarah-holtom-portrait-artist-in-reside">04. XBlack & Yellow Gallery | Sarah Holtom â€“ Portrait Artist in Residence | MAY 3</a>
+<a href="/instant-coffee/listings/2012-05-03-04-xblack-yellow-gallery-sarah-holtom-portrait-artist-in-reside">04. XBlack & Yellow Gallery | Sarah Holtom – Portrait Artist in Residence | MAY 3</a>
 <a href="/instant-coffee/listings/2012-05-03-05-blim-isolation-day-by-ashley-andel-may-4">05. BLIM | Isolation Day by Ashley Andel | MAY 4</a>
 <a href="/instant-coffee/listings/2012-05-03-06-gallery-fukai-psychic-pressure-engine-may-4">06. Gallery FUKAI | PSYCHIC PRESSURE ENGINE | MAY 4</a>
 <a href="/instant-coffee/listings/2012-05-03-07-presentation-house-gallery-screening-c-1983-film-and-video-m">07. Presentation House Gallery | Screening: C. 1983: Film and Video | MAY 4</a>
@@ -44,7 +44,7 @@ Vessel
 
 Derya Akay, Fabiola Carranza, Mark DeLong, and Lucien Durey
 
-May 4 â€“ May 26, 2012
+May 4 – May 26, 2012
 Opening Reception: Thursday May 3, 2012 8pm
 
 Access Gallery proudly presents Vessel, a group exhibition showcasing 
@@ -52,26 +52,26 @@ the works of four Vancouver-based artists; Derya Akay, Fabiola
 Carranza, Mark DeLong, and Lucien Durey. Questioning our tendency 
 to immediately allegorize objects through their superficial and surface 
 qualities, Vessel interrogates the aura of objects. Each artist playfully 
-disrupts our preconceived notions of objectsâ€™ objecthood. Through 
+disrupts our preconceived notions of objects’ objecthood. Through 
 material play they transform the expected and everyday into something 
 mysterious and magical. Like cherished childhood films where animated 
 sorcerers bring broomsticks to life or fairies turn pumpkins into 
 carriages, the artists of Vessel transform our immediate perceptions of 
 inanimate things.
 
-Derya Akayâ€™s subtle and organic installations are an optical feast for 
+Derya Akay’s subtle and organic installations are an optical feast for 
 the eyes. Akay meticulously constructs multi-layered 3d assemblages; 
 organizing mirrors, glass, paint, handmade ceramics, and various other 
 materials into complex arrangements. Fabiola Carranza enlivens the 
 inanimate. Her latest sculptural work evokes the past lives of five 
 chairs. The metal body of each one is bent and contorted to complete a 
 transformation from ubiquitous discarded material into the rarefied 
-dances of school time boogie woogies. Mark DeLongâ€™s paintings and 
+dances of school time boogie woogies. Mark DeLong’s paintings and 
 ceramic works bring the raw intensity and energy of his earlier zines 
 and drawings; now made even more powerful through the histories that 
 clay, paint, and stretched canvas evoke. Finally, Lucien Durey blurs the 
-line between artifact and artifice. Influenced by his fatherâ€™s life and 
-obsession with the arctic, Dureyâ€™s assemblages draw from popular and 
+line between artifact and artifice. Influenced by his father’s life and 
+obsession with the arctic, Durey’s assemblages draw from popular and 
 personal narrative in an attempt to convey a transcendent experience 
 of place.
 
@@ -87,12 +87,12 @@ pasts and future, AHVA Gallery, UBC, Vancouver (2011); Hand Joy,
 Centre for Recent Drawing, London, UK (2010) and the International 
 Chilliwack Biennial (2010).
 
-Fabiola Carranza (b. San JosÃ©, Costa Rica) is an interdisciplinary artist 
+Fabiola Carranza (b. San José, Costa Rica) is an interdisciplinary artist 
 living in Vancouver, BC. In 2006, she received a Bachelor in Media Art 
 from Emily Carr University. Since then, Carranza has participated in 
 multiple group exhibitions at galleries and artist run centres in Berlin, 
-Vancouver and San JosÃ©, Costa Rica; where she is represented by 
-Galeria Des Pacio. Two recurring concerns in Carranzaâ€™s practice are 
+Vancouver and San José, Costa Rica; where she is represented by 
+Galeria Des Pacio. Two recurring concerns in Carranza’s practice are 
 the investigation of language and appropriation as an aesthetic 
 strategy. Her work often focuses on the historical and cultural 
 specificities of her source materials, exploring the tensions between 
@@ -117,7 +117,7 @@ American expatriates in Canada. Working with performance,
 assemblage and digital processes, he draws from popular culture and 
 his own genealogy to deliver personal and enigmatic representations of 
 regional selfhood. His work has been exhibited at the Helen Pitt Gallery, 
-Vancouver; Luckyâ€™s Gallery, Vancouver, and the Leroy Neiman Gallery 
+Vancouver; Lucky’s Gallery, Vancouver, and the Leroy Neiman Gallery 
 at Columbia University School of the Arts, New York. He holds a BFA 
 from Emily Carr University.
 
@@ -253,11 +253,11 @@ Please contact us at thevancouvercommons@gmail.com.
 back to top
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-05-03-04-xblack-yellow-gallery-sarah-holtom-portrait-artist-in-reside">04. XBlack & Yellow Gallery | Sarah Holtom â€“ Portrait Artist in Residence | MAY 3</a>
+<a href="/instant-coffee/listings/2012-05-03-04-xblack-yellow-gallery-sarah-holtom-portrait-artist-in-reside">04. XBlack & Yellow Gallery | Sarah Holtom – Portrait Artist in Residence | MAY 3</a>
 ------------------------------------------------------------------------
 Black & Yellow Gallery (Room 106 at The Waldorf Hotel) Presents:
 
-Sarah Holtom â€“ Portrait Artist in Residence
+Sarah Holtom – Portrait Artist in Residence
 
 The Black and Yellow Gallery in association with the Waldorf Hotel is 
 pleased to host Sarah Holtom as a portrait artist in residence for the 
@@ -268,23 +268,23 @@ She will be painting 50 portraits in 15 days.
 In the summer of 2006, Sarah Holtom (b. 1980) painted 100 Portraits of 
 Calgary artists, from life, in the brief time span of 3 months. The 
 spontaneity, honesty and relevancy of the series struck a chord with 
-Calgaryâ€™s Glenbow Museum, who added the portraits to their 
+Calgary’s Glenbow Museum, who added the portraits to their 
 permanent collection.
 
 Please join us for the following dates:
 
-May 3rd â€“ Opening reception and kick-off party.
-May 3rd - May 18th â€“ Live painting in gallery, by drop-in and 
+May 3rd – Opening reception and kick-off party.
+May 3rd - May 18th – Live painting in gallery, by drop-in and 
 appointment.
-May 18th â€“ Closing reception.
+May 18th – Closing reception.
 Work remains on display until May 31st.
 
 Oil-on-wood portraits (12"x12â€ ) will be completed in a 1-2 hour sitting in 
 the gallery at the special rate of $250 (single) $350 (couple). Pets and 
 children are welcome; costumes and personality are encouraged. 
 Sarah will maintain full-time hours at the gallery during her residency 
-(12 - 7pm, Monday â€“ Saturday) and will accept both appointments and 
-drop-inâ€™s, time permitting. Appointments are limited to 50 portraits. 
+(12 - 7pm, Monday – Saturday) and will accept both appointments and 
+drop-in’s, time permitting. Appointments are limited to 50 portraits. 
 
 $250 for a single.
 $350 for a couple.
@@ -328,12 +328,12 @@ BLIM ART OPENING (May 2012)
 Blim presents:
 Isolation Day
 by Ashley Andel
-Accurately described by the quote â€œslipping into madness is good for 
+Accurately described by the quote “slipping into madness is good for 
 the sake of comparisonâ€  coined by Ameri- can artist Jenny Holzer, and 
 popularized by the seminal Japanese electropop band Yellow Magic 
 Orchestra, Isola- tion Day is about periodic escape from daily 
 mundanity by way of mendacity; like playing hooky from school for a 
-day to surround oneâ€™s self with bright, playful and lovable delusions.
+day to surround one’s self with bright, playful and lovable delusions.
 Inspired by the contrast between North and South Korea, and often 
 constructed to the saccharine tunes of K- pop darlings Humming Urban 
 Stereo after a day of work in a dusty warehouse.
@@ -371,18 +371,18 @@ the Helen Pitt Gallery (2007), The Emergency Room (2008), The Grace
 Gallery (2009 & 2010) and The Capilano University Art Gallery (2009 & 
 2011). 
 
-Christopherâ€™s work explores the dialogue between drawing and the 
+Christopher’s work explores the dialogue between drawing and the 
 constructed object. Within these broad parameters diverse themes and 
 ideas come together and cross-pollinate with one another. Elements of 
 residential architecture, theatrical props, industrial foundry patterns, 
 technical diagrams and geometrical concepts inform his investigations 
 of the physics of provisional structures, shelter & locomotion. 
 
-The artistâ€™s materials are sourced from building supply stores, salvaged 
+The artist’s materials are sourced from building supply stores, salvaged 
 from beaches and building demolition sites or taken from the greedy 
 clutches of hoarders. The attention to craft and detail in his work 
 reflects a principled approach to the poetry of common materials. At 
-once analytical, humorous and metaphorical, the artistâ€™s work proposes 
+once analytical, humorous and metaphorical, the artist’s work proposes 
 an elemental world in uneasy relationship with the predictable design 
 logic and banal functionalism of the built environment. 
 
@@ -415,7 +415,7 @@ free of charge
 7:30: A program of short experimental films and video from the 1980s 
 that includes key works by notable artists Kate Craig, Ellie Epp, 
 Christopher Gallagher, and David Rimmer
-9:00 â€“10:30: A continuous screening of Rodney Grahamâ€™s 
+9:00 –10:30: A continuous screening of Rodney Graham’s 
 extraordinary first film Two Generators of 1984, a four-minute long 
 night shot of a rushing river illuminated by high wattage lights to the 
 throbbing sound of diesel generators.
@@ -442,7 +442,7 @@ No Man is an Island
 
 by our very own Julia K. Kreutz
 
-Showing May 4th â€“ June 5th
+Showing May 4th – June 5th
 Opening Reception Friday May 4th | 8-11pm
 Open HouseWorkshop Saturday May 5th | 1-5pm
 Hrs: Tuesday Thursday Friday & Saturday | 1-5pm
@@ -450,17 +450,17 @@ Hrs: Tuesday Thursday Friday & Saturday | 1-5pm
 No Man is an Island is a series of mixed media pieces using simplistic 
 collaged images with drawn and inked additions. The use of collage is 
 very minimal with people in desolate white voids, but with the addition of 
-surreal notations Kreutz is able to visually represent the individualsâ€™ 
+surreal notations Kreutz is able to visually represent the individuals’ 
 wandering mind. The greatest influence for Kreutz while making these 
 pieces was a term coined by the Canadian anthropologist Wade Davis 
-in a TED Talk on endangered cultures. Davis states, â€˜you might think of 
+in a TED Talk on endangered cultures. Davis states, ‘you might think of 
 this cultural web of life as being an ethnosphere and you might define 
 the ethnosphere as being the sum total of all thoughts and dreams, 
 myths, ideas, inspirations, intuitions brought into being by the human 
-imagination since the dawn of consciousness.â€™ This description of the 
-â€˜ethnosphereâ€™ is rich with awe and reverence, which Kreutz aims to 
+imagination since the dawn of consciousness.’ This description of the 
+‘ethnosphere’ is rich with awe and reverence, which Kreutz aims to 
 transcribe into shape and form.
-This exhibition will run in conjunction with â€˜National Youth Arts Weekâ€™, 
+This exhibition will run in conjunction with ‘National Youth Arts Week’, 
 for which Kreutz will host a drop in collage workshop for people of all 
 ages on Saturday, May 5th from 1-5 pm in the gallery. The workshop is 
 free of charge and all materials will be provided.
@@ -470,15 +470,15 @@ University in 2009. Since then Julia has been teaching drawing classes
 to children and is a co-Founder and Creative Director at the Gam 
 Gallery. This will mark her first solo exhibition.
 
-â€˜No man is an island entire of itself; every man
+‘No man is an island entire of itself; every man
 is a piece of the continent, a part of the main;
 if a clod be washed away by the sea, Europe
 is the less, as well as if a promontory were, as
 well as any manner of thy friends or of thine
-own were; any manâ€™s death diminishes me,
+own were; any man’s death diminishes me,
 because I am involved in mankind.
 And therefore never send to know for whom
-the bell tolls; it tolls for thee.â€™
+the bell tolls; it tolls for thee.’
 
 -John Donne, Meditations XVII of Devotions of Emergent Occasions
 
@@ -512,7 +512,7 @@ sustainability and social justice.
 
 Expect to brave the elements, push your limits, experience communal 
 living, and maybe spontaneously craft up superhero costumes to bike 
-around in. Explore issues like renewable energy on Canadaâ€™s stunning 
+around in. Explore issues like renewable energy on Canada’s stunning 
 east coast, watershed sustainability along the shores of the Great 
 Lakes, and food security in the fertile fields of Ontario.
 
@@ -523,11 +523,11 @@ education, bike touring, camping, working with youth, and rocking
 stunning spandex shorts. 
 
 2012 Tours:
-Rising Tide Tour, Fredericton to Halifax, May 1st â€“ June 21st
+Rising Tide Tour, Fredericton to Halifax, May 1st – June 21st
 9 Day Pedal to Plate Tour, all ages, Ottawa Region, July 7th-15th
-Water Works Tour, Kitchener-Waterloo to Ottawa, Sept 1st â€“ October 
+Water Works Tour, Kitchener-Waterloo to Ottawa, Sept 1st – October 
 22nd
-Phenomenal Food Tour, Kitchener-Waterloo to Ottawa, Sept 1st â€“ 
+Phenomenal Food Tour, Kitchener-Waterloo to Ottawa, Sept 1st – 
 October 22nd
 
 Intrigued? Apply Today. First applied, first considered.
@@ -599,7 +599,7 @@ alphabet letters randomly, and asked to match their letter to an animal
 subject.
 
 The alphabestiary format has both a long history and a close 
-association with childrenâ€™s books, assisting children with language 
+association with children’s books, assisting children with language 
 development,in particular learning the alphabet. This process lends 
 itself to the formation of letter and image associations. One defining 
 characteristic that separates humans from animals is language, and yet 
@@ -629,7 +629,7 @@ TOPDOWN BOTTOMUP Presents:
 
 Saturday Artist Events: May 5th 2pm-5pm
 
-Scott Billings will be holding a talk from 3:00pm to 3:30pm titled "Haleâ€™s 
+Scott Billings will be holding a talk from 3:00pm to 3:30pm titled "Hale’s 
 Tours: Mobility and Cinematic Spectatorship" with a discussion and 
 gallery viewing to follow.
 
@@ -639,19 +639,19 @@ installation by local artist Scott Billings.
 Inspired by early film and the protocinematic devices of the late 19th 
 century, Black Maria consists of a custom video apparatus that projects 
 a crawling figure circumambulating the periphery of the gallery. 
-Centering on issues of mobility and animality, Billingsâ€™ work often 
+Centering on issues of mobility and animality, Billings’ work often 
 engages with the mimetic relationship between the technological 
 apparatus and the somatic figures it propels forward. Constructed from 
 an overturned carousel slide projector and a hacked digital camera, 
-Billingsâ€™ idiosyncratic machine functions as camera, projector, and 
+Billings’ idiosyncratic machine functions as camera, projector, and 
 motion rig all in one. The repetitive crack and flash of the apparatus 
 enacts a cinematic experience akin to war films, placing the spectator 
-directly in the line of fire, while the indexical body in the projectionâ€”a 
+directly in the line of fire, while the indexical body in the projection—a 
 1:1 literal inscription of the artist's spectral body in the actual space it 
-was recordedâ€”is dragged through the â€˜mudâ€™ of the gallery cube. 
+was recorded—is dragged through the ‘mud’ of the gallery cube. 
 
-Black Maria draws its title from Edisonâ€™s first film studio. Built in 1893 
-on a large turntable to maximize sunlight through the roof, Edisonâ€™s 
+Black Maria draws its title from Edison’s first film studio. Built in 1893 
+on a large turntable to maximize sunlight through the roof, Edison’s 
 assistants nicknamed the studio the Black Maria (aka police 
 paddywagons) due to its dark, cramped, almost prison-like working 
 conditions.
@@ -672,9 +672,9 @@ Symposium followed by a tour of the exhibition
 Wednesday May 9, 7pm. Room 1600, SFU Vancouver, 515 W. 
 Hastings St.
 
-Curt Lang (1937â€“1998) carved a meteoric path through the Vancouver 
+Curt Lang (1937–1998) carved a meteoric path through the Vancouver 
 cultural scene from the 1950s to the 1990s. Join us Wednesday May 9, 
-7pm for a symposium on Curt Langâ€™s varied life, followed by a walking 
+7pm for a symposium on Curt Lang’s varied life, followed by a walking 
 tour of the exhibition currently on display at the SFU Teck Gallery.
 
 Speakers: Claudia Cornwall, Gordon Cornwall, Bill Jeffries & Greg Lang
@@ -717,12 +717,12 @@ Opening Friday, May 11, 8pm at UNIT/PITT Projects, 15 East Pender
 St., Vancouver
 
 The month-long launch of this new edition of Path is accompanied by 
-evening showings of Kate Armstrong and Michael Tippettâ€™s Space 
+evening showings of Kate Armstrong and Michael Tippett’s Space 
 Video in the front window of 15 East Pender.
 
 Path is a 12 volume book with text generated by the physical movement 
 of an anonymous individual living in the city of Montreal between 2005 
-â€“ 2007. Each time this individual accessed the internet using public wi-fi 
+– 2007. Each time this individual accessed the internet using public wi-fi 
 over the course of this two year period they were tagged with a textual 
 passage exploring themes of visual, personal, and spatial patterns as 
 reflected in the lives of fictional characters. Accumulating over time 
@@ -736,7 +736,7 @@ of this show. Listening stations will be available during open hours
 (noon to 5 pm, Wednesday through Saturday).
 
 Path will be accompanied by screenings of Kate Armstrong and Michael 
-Tippettâ€™s Space Video, nightly from 8 to 11 pm in our front window. 
+Tippett’s Space Video, nightly from 8 to 11 pm in our front window. 
 Space Video addresses ideas of exploration in relation to inner and 
 outer space. Having noticed that there are shared aesthetic qualities of 
 video imagery that accompany disparate cultural and scientific 
@@ -777,7 +777,7 @@ whom we would be unable to continue.
 Beautiful Undead 
 
 Lisa Penz
-May 11th â€“ June 15th
+May 11th – June 15th
 Opening Reception Friday, May 11th 6:30 - 11:00 pm
 560 Seymour St. Vancouver
 
@@ -786,7 +786,7 @@ On May 11th, FIVESIXTY Artist Lounge in Vancouver will debut
 
 These stunning new paintings surround the hype of the current 
 vampire trend, as Lisa Penz depicts the power and seductiveness of 
-the vampire â€” only to be matched by their humanistic flaws. These 
+the vampire — only to be matched by their humanistic flaws. These 
 dreamy-like haunting works are an extension of Penz's alluring style in 
 which she combines narrative themes with elements of temptationalism 
 in order to bring the viewer into realizing their own thresholds - leading 
@@ -822,7 +822,7 @@ reserve your place: debbie@satellitegallery.ca or 604-681-8425.
 Elegant Disorder: Perspectives on Porcelain is a group exhibition 
 featuring contemporary artists Paul Mathieu, Sin-Ying Ho, Shelley 
 Miller, Elizabeth Zvonar and Brendan Tang. Presented at Satellite 
-Gallery, this exhibition engages with the history of porcelainâ€”in 
+Gallery, this exhibition engages with the history of porcelain—in 
 particular, contemporary expressions of the blue-and-white motifs 
 reminiscent of Chinese Ming Dynasty wares. With more than a dozen 
 works on display touching on pottery, sculpture and photography, this 
@@ -833,21 +833,21 @@ an active and vivid vehicle for our imagination. It has always been a
 force in global trade and industrialization since early modern times and, 
 while its proliferation is a direct consequence of Western colonialism, it 
 is seldom considered within critical discussions of that history. This 
-ancient material may seem obsolete within todayâ€™s technocratic 
+ancient material may seem obsolete within today’s technocratic 
 societies, yet it continues to thrive, as it has for thousands of years, in 
 both applied and creative fields.
 Elegant Disorder seeks to make visible the tensions between local and 
-global identities embedded within porcelainâ€™s materiality and design. It 
+global identities embedded within porcelain’s materiality and design. It 
 is from this perspective that each artist in the exhibition subverts 
 expectations of craft and decorative arts as well as gender roles. Each 
 engages with the questions of history, technology, sexuality, 
-colonialism, and labour that have long intersected on porcelainâ€™s 
+colonialism, and labour that have long intersected on porcelain’s 
 elegant surface.
 Artist Biographies
-Sin-Ying Hoâ€™s works are part of her series Meeting Places (2007-2009). 
+Sin-Ying Ho’s works are part of her series Meeting Places (2007-2009). 
 Her work reflects the impact of globalization on the cultural borrowings 
 and interactions in an accelerated â€œglobal village.â€  She currently 
-teaches at Queenâ€™s College in New York City. 
+teaches at Queen’s College in New York City. 
 
 Paul Mathieu is interested in the role and function of ceramics within 
 culture in general and art in particular. Mathieu explores concepts 
@@ -855,27 +855,27 @@ particular to craft practices, such as decoration, function and
 containment in relation to various contexts in time, history and human 
 experiences. He currently teaches at Emily Carr University of Art + 
 Design in Vancouver.
-Shelley Millerâ€™s work is situated in public spaces, in both ephemeral 
+Shelley Miller’s work is situated in public spaces, in both ephemeral 
 form and impermanent materials. Miller is a Montreal-based artist 
 whose installations, sculptures and public works have been exhibited 
 across Canada as well as in India and Brazil. She completed her BFA 
 degree at the Alberta College of Art and Design in Calgary, and 
 received her MFA from Concordia University in 2001.
-Elizabeth Zvonarâ€™s pieces explore the material relationship of porcelain 
+Elizabeth Zvonar’s pieces explore the material relationship of porcelain 
 to the body and sexuality. Zvonar holds a BFA from Emily Carr 
 University of Art + Design. Her work has been extensively exhibited, 
 most recently in Vancouver at the Vancouver Art Gallery and the 
 Contemporary Art Gallery, as well as internationally.
-Brendan Tangâ€™s work enters the dialogue on contemporary culture, 
+Brendan Tang’s work enters the dialogue on contemporary culture, 
 technology and globalization through a fabricated relationship between 
 ceramic tradition and Techno-Pop Art. Most recently, his work has 
-been exhibited at the MusÃ©e dâ€™art contemporain de MontrÃ©al (as a 
+been exhibited at the Musée d’art contemporain de Montréal (as a 
 2010 Sobey Finalist), the Vancouver Art Gallery and the Power Plant.
 Elegant Disorder: Perspectives on Porcelain is curated by Louis-
 Alexandre Douesnard-Malo, a candidate in the Master of Arts program 
 in Critical and Curatorial Studies at the University of British Columbia. 
 For more information please visit: http://www.curatorialstudies.ca
-This exhibition is made possible with support from the Michael Oâ€™Brian 
+This exhibition is made possible with support from the Michael O’Brian 
 Family Foundation, the Killy Foundation and the Audain Endowment for 
 Curatorial Studies through the Department of Art History, Visual Art and 
 Theory, in collaboration with the Morris and Helen Belkin Art Gallery at 
@@ -902,8 +902,8 @@ Free
 
 How has the astoundingly rapid modernization of China affected the 
 lives, experiences, and imaginations of artists in China? Are the issues 
-that Cao Fei â€“ one of the acclaimed 21st century generation of artists 
-in China â€“ addresses and the way in which she addresses them, 
+that Cao Fei – one of the acclaimed 21st century generation of artists 
+in China – addresses and the way in which she addresses them, 
 representative of young artists in China today? Montreal-based art 
 critic and curator, Alice Ming Wai Jim will discuss the work of Cao Fei in 
 the context of contemporary new media art from China on Saturday, 
@@ -995,7 +995,7 @@ MOST IMPORTANT: The residency is free. But, we cannot cover
 transportation or food costs. 
 
 Submission packages should include:
-A letter of introduction, outlining the individualâ€™s past artistic 
+A letter of introduction, outlining the individual’s past artistic 
 experience, and other relevant information
 A curriculum vitae
 A brief project proposal (no more than one page)
@@ -1015,14 +1015,14 @@ www.vsvsvs.org
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-05-03-20-dazibao-call-for-proposals-canadian-university-students-jun-">20. Dazibao | Call for proposals | Canadian University Students | JUN 1</a>
 ------------------------------------------------------------------------
-Jeune tÃªte dâ€™affiche contest
+Jeune tête d’affiche contest
 DEADLINE > JUNE 1ST
 
 Call for proposals for students of Canadian universities and/or 
-Canadian students abroad who are currently completing a Masterâ€™s 
+Canadian students abroad who are currently completing a Master’s 
 degree in Fine Arts.
 
-Dazibaoâ€™s programming brochure features, on one side, its yearly 
+Dazibao’s programming brochure features, on one side, its yearly 
 programming. The other side is dedicated to the work of an emerging 
 artist which is selected through the present call for proposals. With a 
 print-run of more than 7 000 copies, this poster will be distributed 
@@ -1045,10 +1045,10 @@ accepted.
 Please note that submissions are not returned.
 
 Send to:
-Jeune tÃªte dâ€™affiche Contest 
+Jeune tête d’affiche Contest 
 Dazibao 
 335, de Maisonneuve Blvd East
-MontrÃ©al, (QuÃ©bec) H2X 1K1
+Montréal, (Québec) H2X 1K1
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-05-03-21-vivo-workshops-open-frameworks-of-jun-4">21. VIVO Workshops | open Frameworks (oF) | JUN 4</a>
@@ -1186,7 +1186,7 @@ everythingnoel@gmail.com
 
 <a href="/instant-coffee/listings/2012-05-03-02-presentation-house-gallery-a-conversation-in-and-around-c198">2.
 studio sublet | </a>
-I'm looking for one or two people to sublet my private artistsâ€™ 
+I'm looking for one or two people to sublet my private artists’ 
 studio at 2414 Main Street (above Pulp Fiction).
 
 Available June 1st 2011 for 6 -12 month.

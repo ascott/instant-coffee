@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 12
 type: ""
+venue: "VAG"
 summary: "VAG | A Geographer's Reading of Ken Lum: Paul Kingsbury | JUN 14"
 ---
 

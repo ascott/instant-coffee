@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 16
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Studio 8FiveSix | Tractor in the Birkenstock | 12PM | MAR 1"
 ---
 

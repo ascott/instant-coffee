@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Roy Henry Vickers | APR 21"
 ---
 

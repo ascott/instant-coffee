@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 9
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Palomar: Michael Morris | FEB 4"
 ---
 
@@ -31,12 +32,12 @@ the Palomar Observatory in San Diego County. Palomar represents a rare
 example of sculpture by Morris and will be accompanied in this exhibition by the 
 original Palomar silkscreen.
 
-Michael Morris is one of the most important artists of Vancouverâ€™s 
+Michael Morris is one of the most important artists of Vancouver’s 
 contemporary scene. He has participated in artist-in-residence programs both in 
 Canada at the Banff Centre (1990) and at Open Studio (2003) and internationally 
-at Berliner KÃ¼nstlerprogramm (1981-1998). He was awarded an Honorary 
+at Berliner Künstlerprogramm (1981-1998). He was awarded an Honorary 
 Doctorate of Humanities in 2005 by Emily Carr University of Art + Design. In 
-2011, he received Canada's prestigious Governor Generalâ€™s Award in Visual and 
+2011, he received Canada's prestigious Governor General’s Award in Visual and 
 Media Arts. Morris currently lives and works in Victoria.
 
 Palomar: Michael Morris is a co-presentation of Presentation House Gallery and 
@@ -51,7 +52,7 @@ Satellite Gallery, 560 Seymour Street, 2nd Floor
 This project is made possible with the generous support of the Audain 
 Foundation, the Canada Council for the Arts, the Vancouver Foundation, and the 
 British Columbia Arts Council. We gratefully acknowledge the support of the 
-Michael O'Brian Family Foundation and the Belkin Curatorâ€™s Forum members.
+Michael O'Brian Family Foundation and the Belkin Curator’s Forum members.
 
 Satellite Gallery is a Michael O'Brian Family Foundation project with partners 
 the Morris and Helen Belkin Art Gallery and the Museum of Anthropology at 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 4
 type: "TALK"
+venue: "Artspeak"
 summary: "Artspeak | Lisa Radon - Reading | OCT 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 25
 type: "TALK"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Curators on Curating: Jesse Birch | FEB 22"
 ---
 

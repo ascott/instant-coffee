@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | RABBIT LANE: DOUGLAS COUPLAND | MAR 30"
 ---
 

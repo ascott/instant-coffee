@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 10
 type: "EVENT"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Artist-led Exhibition Tour | 2PM | DEC 9"
 ---
 

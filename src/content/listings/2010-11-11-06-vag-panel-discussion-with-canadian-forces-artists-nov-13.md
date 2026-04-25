@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 6
 type: ""
+venue: "VAG"
 summary: "VAG | PANEL DISCUSSION with CANADIAN FORCES ARTISTS | NOV 13"
 ---
 
@@ -29,7 +30,7 @@ the Canadian Forces and produced a wide range of art, documenting an even
 wider range of settings where Canadian soldiers are at work.
 
 The panel brings together three cultural practitioners who explore the role
-art plays in recording and bearing witness to CanadaÃ¢ï¿½ï¿½s military endeavours.
+art plays in recording and bearing witness to Canadaâ��s military endeavours.
 
 Jim Burant is an archivist with Library and Archives Canada and is a member
 of the advisory committee of the Canadian Forces Artists Program. He will

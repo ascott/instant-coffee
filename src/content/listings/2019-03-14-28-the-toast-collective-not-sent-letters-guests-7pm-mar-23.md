@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 28
 type: "EVENT"
+venue: "The Toast Collective"
 summary: "The Toast Collective | Not Sent Letters & Guests | 7pm | MAR 23"
 ---
 

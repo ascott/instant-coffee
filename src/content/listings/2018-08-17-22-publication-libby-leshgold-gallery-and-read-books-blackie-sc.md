@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 22
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Libby Leshgold Gallery and READ Books | Blackie Schwartzkopf's ABC ... | 2PM | AUG 25"
 ---
 

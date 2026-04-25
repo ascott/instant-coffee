@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 7
 type: "OPENING"
+venue: "Macaulay Fine Art"
 summary: "Macaulay Fine Art | Emily Hill | Air Spill | MAR 14"
 ---
 

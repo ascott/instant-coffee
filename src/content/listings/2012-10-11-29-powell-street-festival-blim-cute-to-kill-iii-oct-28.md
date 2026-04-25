@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 29
 type: ""
+venue: "Powell Street Festival & Blim"
 summary: "Powell Street Festival & Blim | Cute to Kill III | OCT 28"
 ---
 
@@ -27,11 +28,11 @@ VANCOUVER The Powell Street Festival Society and BLIM are
 pleased to present in partnership with VIVO Arts Media Centre the third 
 edition of Cute to Kill, an expose of recent video works from local, 
 national, and international animators and video artists. This series of 
-short films explore the artistsâ€™ morbid fascination with dark subject 
+short films explore the artists’ morbid fascination with dark subject 
 matter through the guise of â€œcuteâ€ --a prevalent juxtaposition in 
 contemporary Asian pop culture.
 
-Blimâ€™s Yuriko Iga and Vancouver-based artist Daniel Giantomaso co-
+Blim’s Yuriko Iga and Vancouver-based artist Daniel Giantomaso co-
 curate Cute to Kill III, a wide range of adorably despondent short films 
 to be viewed as a collection for this one night only. Featuring short 
 animations by international Japanese artists Hoji Tsuchiya, Saori 
@@ -42,16 +43,16 @@ classic Ringing Bell (1978) by Masami Hata.
 
 As part of the short animation line-up, we present three works by Hoji 
 Tsuchiya, Monkey Dreams (2006), Night Park (2005) and Tashou 
-Kougou (2008) displaying the artistâ€™s eclectic use of methods and 
+Kougou (2008) displaying the artist’s eclectic use of methods and 
 materials such as paper cutouts, shadow puppets, banana peels, and 
 photocopiers. On the other end of the spectrum, Silver Night of the 
 Light (2005) by self-taught animator Saori Shiroki is a melancholic 
-painterly animation. Local artist Kiyoshi Kohatsuâ€™s film features a story 
-of a voodoo doll and the ownerâ€™s misfortunes. Atsushi Wadaâ€™s award-
+painterly animation. Local artist Kiyoshi Kohatsu’s film features a story 
+of a voodoo doll and the owner’s misfortunes. Atsushi Wada’s award-
 winning animation The Great Rabbit (2012) (Silver Bear award at 
-Berlin Film Festival) displays the worshipping of a â€˜great rabbit,â€™ 
+Berlin Film Festival) displays the worshipping of a ‘great rabbit,’ 
 examining the theme of disobedience. Capping off the screening of 
-shorts is Shin Hashimotoâ€™s work Beluga (2011), a surrealist display of 
+shorts is Shin Hashimoto’s work Beluga (2011), a surrealist display of 
 fantasy and violence, which has been selected for screenings at 
 various European film festivals. 
 
@@ -60,7 +61,7 @@ glitch musician Takashi Masahiro, the evening will feature a special
 presentation of the cult classic animation Ringing Bell by Masami Hata. 
 Produced by Sanrio, the Japanese company best known for its 
 manufacturing of iconic Hello Kitty products, Ringing Bell evolves from 
-a cute childrenâ€™s story about an adorable lamb into a dark film of 
+a cute children’s story about an adorable lamb into a dark film of 
 vengeance. 
 
 MEDIA CONTACT: Kristen Lambertson (gm@powellstreetfestival.com 

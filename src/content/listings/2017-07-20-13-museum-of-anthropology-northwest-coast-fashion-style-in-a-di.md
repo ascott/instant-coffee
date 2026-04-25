@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 13
 type: "EVENT"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Northwest Coast Fashion: Style in a Different Ligh | JUL 30"
 ---
 

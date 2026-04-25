@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 11
 type: "OPENING"
+venue: "#3 Gallery"
 summary: "#3 Gallery | In Good Time: Meich Waxer at Brooke MacDonald | JUL 27"
 ---
 

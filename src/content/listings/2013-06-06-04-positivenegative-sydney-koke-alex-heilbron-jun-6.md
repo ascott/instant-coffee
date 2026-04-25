@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 4
 type: ""
+venue: "POSITIVE/NEGATIVE"
 summary: "POSITIVE/NEGATIVE | Sydney Koke & Alex Heilbron | JUN 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 38
 type: "CALL"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | Novel Narratives: Video Out Screening Call for Sub | FEB 18"
 ---
 

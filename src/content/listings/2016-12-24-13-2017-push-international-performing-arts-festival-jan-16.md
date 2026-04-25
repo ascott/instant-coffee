@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 13
 type: "PERFORMANCE"
+venue: "2017 PuSh"
 summary: "2017 PuSh | International Performing Arts Festival | JAN 16"
 ---
 

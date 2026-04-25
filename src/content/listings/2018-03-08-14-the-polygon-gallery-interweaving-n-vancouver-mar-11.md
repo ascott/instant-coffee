@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 14
 type: ""
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | INTERWEAVING N. VANCOUVER | MAR 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 15
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Denzil Hurley Artist Talk | 2PM | JUL 7"
 ---
 

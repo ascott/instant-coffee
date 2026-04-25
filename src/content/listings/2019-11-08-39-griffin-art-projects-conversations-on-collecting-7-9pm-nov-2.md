@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 39
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Conversations on Collecting | 7-9PM | NOV 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 11
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | SSBC 50th Anniversary Exhibition | MAY 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 19
 type: "CALL"
+venue: "Factory Media Centre"
 summary: "Factory Media Centre | Call for Works: Curated Group Exhibition | MAR 31"
 ---
 

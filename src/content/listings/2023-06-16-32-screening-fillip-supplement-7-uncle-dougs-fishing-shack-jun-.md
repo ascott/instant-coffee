@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 32
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Fillip | Supplement 7: Uncle Doug’s Fishing Shack | JUN 29"
 ---
 

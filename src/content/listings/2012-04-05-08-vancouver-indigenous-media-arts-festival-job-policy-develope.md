@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 8
 type: ""
+venue: "Vancouver Indigenous Media Arts Festival"
 summary: "Vancouver Indigenous Media Arts Festival | Job: Policy Developer | APR 12"
 ---
 
@@ -21,13 +22,13 @@ June 2012.
 
 Job description
 Vancouver Indigenous Media Arts Festival (VIMAF) is an Aboriginal-
-run media arts organization that is rebuilding the West Coastâ€™s film, 
+run media arts organization that is rebuilding the West Coast’s film, 
 video and media arts presence. VIMAF held its inaugural festival in 
 the historical Woodwards building, in conjunction with W2 
 Community Media Arts Society, in November of 2011.The 
 organization endeavours to develop a crucial piece of infrastructure 
 that has been missing from the Indigenous cultural sector and 
-British Columbiaâ€™s creative industries. 
+British Columbia’s creative industries. 
 
 VIMAF is a forum for all people to celebrate and enjoy Indigenous 
 culture. As Vancouver's only Indigenous media arts festival, VIMAF 

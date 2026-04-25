@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 15
 type: "TALK"
+venue: "The Gallery at Queens Park"
 summary: "The Gallery at Queens Park | Frederick Popowich | NOV 13"
 ---
 

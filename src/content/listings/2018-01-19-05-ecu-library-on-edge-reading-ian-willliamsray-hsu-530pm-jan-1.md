@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 5
 type: "EVENT"
+venue: "ECU library"
 summary: "ECU library | On Edge Reading Ian Willliams+Ray Hsu | 5:30pm | JAN 18"
 ---
 

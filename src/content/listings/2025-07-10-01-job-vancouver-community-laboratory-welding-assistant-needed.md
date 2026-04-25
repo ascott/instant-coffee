@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | Vancouver Community Laboratory | Welding assistant needed"
 ---
 

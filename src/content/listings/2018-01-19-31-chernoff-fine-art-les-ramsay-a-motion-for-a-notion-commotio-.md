@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 31
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Les Ramsay - A Motion for a Notion Commotio | 6pm | JAN 25"
 ---
 

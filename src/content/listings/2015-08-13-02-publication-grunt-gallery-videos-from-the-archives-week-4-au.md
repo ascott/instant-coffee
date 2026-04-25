@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 2
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | grunt gallery | Videos from the archives - WEEK 4 | AUG 11"
 ---
 
@@ -26,13 +27,13 @@ http://performance.gruntarchives.org/video-on-loving-and-longing.html#lightbox
 
 About the Project:
 Over the past three years, Alex Pimm has been overseeing the maintenance
-and archiving of grunt's collection of video documentation â€“ recordings of
+and archiving of grunt's collection of video documentation – recordings of
 performances, installations and various accompanying material that date
-back to gruntâ€™s first days. Pimm's selections emphasize grunt's extensive
-history of creating relationships between diverse communities â€“ including
+back to grunt’s first days. Pimm's selections emphasize grunt's extensive
+history of creating relationships between diverse communities – including
 local and international artists, First Nations artists and LGBTQ artists.
 
-grunt gallery will release a new video every Tuesday from July 21 â€“ August
+grunt gallery will release a new video every Tuesday from July 21 – August
 25, visit the 30th Anniversary Tumblr.
 
 About the 30th Anniversary

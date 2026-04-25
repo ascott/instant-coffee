@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 8
 type: "EVENT"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | 50th Anniversary Exhibition + Publication launch | NOV 8"
 ---
 

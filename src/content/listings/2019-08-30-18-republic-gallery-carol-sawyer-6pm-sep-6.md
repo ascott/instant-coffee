@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 18
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Carol Sawyer | 6PM | SEP 6"
 ---
 

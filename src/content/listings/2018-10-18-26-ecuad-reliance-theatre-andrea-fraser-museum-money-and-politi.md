@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 26
 type: "EVENT"
+venue: "ECUAD - Reliance Theatre"
 summary: "ECUAD - Reliance Theatre | Andrea Fraser: Museum, Money and Politics | 1PM | OCT 21"
 ---
 

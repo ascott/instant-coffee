@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Alanis Obomsawin | JUN 21"
 ---
 
@@ -38,7 +39,7 @@ The Documentary Organization of Canada (DOC) is the largest professional
 non-profit association of independent filmmakers in Canada, with more than
 850 members across the country and over 200 members in the BC Chapter.
 Since 1983, DOC (formerly called the CIFC/Canadian Independent Film Caucus)
-Ã¢â‚¬â€œ has been the champion of independent documentary film and television in
+â€“ has been the champion of independent documentary film and television in
 Canada.
 
 http://docbc.org

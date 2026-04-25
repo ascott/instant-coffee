@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 1
 type: ""
+venue: "Cutty Contemporary Art Gallery"
 summary: "Cutty Contemporary Art Gallery | New Design British Columbia & RANDY GRSKOVIC | SEP 29"
 ---
 
@@ -11,10 +12,10 @@ New Design British Columbia
 
 Cutty Contemporary Art - Alternate Exhibition Space
 564 Beatty St., Vancouver BC
-29 September â€“ 16 October, 2011
+29 September – 16 October, 2011
 Opening reception 29 September, 7-11 pm
 
-Open Weekends, 12pm â€“ 6pm, or by appointment
+Open Weekends, 12pm – 6pm, or by appointment
 
 New Design British Columbia
 
@@ -29,7 +30,7 @@ Carey Ann Schaefer
 Nathan Martell
 
 New Design British Columbia is an exhibition showcasing contemporary, multi-
-disciplinary work from British Columbiaâ€™s emerging design community. Set to 
+disciplinary work from British Columbia’s emerging design community. Set to 
 align with IDSWest, this exhibition will explore regional ideas in furniture, lighting, 
 ceramics, outdoor apparel, and the principles of object making.
 
@@ -52,7 +53,7 @@ Cutty Contemporary Art Gallery;
 
 Opening reception 29 September, 7-11 pm
 
-Open Weekends, 12pm â€“ 6pm, or by appointment
+Open Weekends, 12pm – 6pm, or by appointment
 
 www.randygrskovic.com
 
@@ -61,13 +62,13 @@ www.cuttycag.com
 Randy Grskovic is constructing a database. It is not linear. Or particularly 
 organized. Perhaps it is not even functional.
 
-Reoccurring Themes takes up the idea of (dys)function and Grskovicâ€™s interest 
+Reoccurring Themes takes up the idea of (dys)function and Grskovic’s interest 
 in functionality or the lack of it. What happens to objects, images and ideas when 
 they are removed from their original purpose or context? And, how can new and 
 productive spaces be explored by this confusion? The images for this series 
 have been carefully collected and curated to investigate these questions. They 
 have been precisely cut, arranged, layered and pasted and reorganized from 
-linear histories into contemporary somethings that arenâ€™t so readily readable.
+linear histories into contemporary somethings that aren’t so readily readable.
 
 Randy Grskovic works with fragments, from books, magazines or other 
 ephemera, to create new narratives. His work often focuses on the intrinsic 
@@ -104,7 +105,7 @@ reciprocal relationship. It is our goal to help artists support themselves throu
 their work with direct connection to emerging art collectors. Our gallery 
 operates in the front of a 5000sq ft. space that house 16 working artists. We do 
 not represent artists exclusively but choose to exhibit projects we believe in. We 
-are currently housed in a beautiful 1920â€™s era building on Beatty st. The last 
+are currently housed in a beautiful 1920’s era building on Beatty st. The last 
 building on the block yet to be redeveloped. Our building is slated for 
 gentrification at the end of this year.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 45
 type: "CALL"
+venue: "Terra Vivente (Italy)"
 summary: "Terra Vivente (Italy) | Open studio residency | FEB 1"
 ---
 

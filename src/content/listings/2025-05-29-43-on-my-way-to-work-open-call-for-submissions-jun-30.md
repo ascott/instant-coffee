@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 43
 type: "CALL"
+venue: "On My Way to Work"
 summary: "On My Way to Work | Open Call for Submissions | JUN 30"
 ---
 

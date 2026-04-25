@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 29
 type: "CALL"
+venue: "gallery gachet"
 summary: "gallery gachet | Call for Submissions 2024 | SEP 22"
 ---
 

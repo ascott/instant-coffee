@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 12
 type: "CALL"
+venue: "Arts Umbrella, CAG & SFU"
 summary: "Arts Umbrella, CAG & SFU | Inside Out: Studio, Gallery, Street | JUN 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 27
 type: "CALL"
+venue: "Broadway Subway Project"
 summary: "Broadway Subway Project | Public Art Open Call | SEP 24"
 ---
 

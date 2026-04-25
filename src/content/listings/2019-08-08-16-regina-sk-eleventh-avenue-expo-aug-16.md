@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "Regina (SK)"
 summary: "Regina (SK) | Eleventh Avenue Expo | AUG 16"
 ---
 

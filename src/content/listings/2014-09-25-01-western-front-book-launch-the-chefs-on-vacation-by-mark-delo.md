@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 1
 type: ""
+venue: "Western Front"
 summary: "Western Front | Book Launch: The Chef's On Vacation by Mark DeLong | SEP 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 1
 type: "PERFORMANCE"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Dance//Novella (D//N) | JAN 04-21 | JAN 4"
 ---
 

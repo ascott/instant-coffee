@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 16
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Saturday Session: Whess Harman on Gabrielle L'Hiro | JUL 8"
 ---
 

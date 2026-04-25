@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 9
 type: ""
+venue: "UBC: Art History, Visual Art & Theory"
 summary: "UBC: Art History, Visual Art & Theory | A fundraiser and art auction | JAN 26"
 ---
 

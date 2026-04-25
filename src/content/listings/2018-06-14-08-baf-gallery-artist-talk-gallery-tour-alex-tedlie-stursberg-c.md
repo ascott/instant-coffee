@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 8
 type: "TALK"
+venue: "BAF Gallery"
 summary: "BAF Gallery | Artist Talk + Gallery Tour | Alex Tedlie-Stursberg + Colleen Brown | JUN 16"
 ---
 

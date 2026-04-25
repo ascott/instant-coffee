@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 34
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | Publishing Performance - David Senior | 1PM | OCT 20"
 ---
 

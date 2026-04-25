@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 1
 type: ""
+venue: "Artspeak and Fillip"
 summary: "Artspeak and Fillip | Judgment and Contemporary Art Criticism | FEB 27"
 ---
 

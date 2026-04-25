@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Stanley Park Ecology Society"
 summary: "Stanley Park Ecology Society | Art Night: Sketching with Skulls | NOV 2"
 ---
 

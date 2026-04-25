@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 25
 type: "OPENING"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | MINGEI: Talk + Opening with Amaury Sait-Gilles | JUN 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 13
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Artist talk with Caroline"
 ---
 

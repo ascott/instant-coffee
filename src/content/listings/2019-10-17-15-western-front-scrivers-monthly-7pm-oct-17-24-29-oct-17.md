@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 15
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Scrivers Monthly | 7PM | OCT 17, 24, 29 | OCT 17"
 ---
 

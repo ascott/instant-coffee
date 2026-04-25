@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 33
 type: "EVENT"
+venue: "ECUAD - 2nd floor"
 summary: "ECUAD - 2nd floor | Student Art Sale | NOV 23-25th |  | NOV 23"
 ---
 

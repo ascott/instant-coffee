@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 38
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | 43rd Annual Powell Street Festival | AUG 3+4TH | 1130AM - 7PM | AUG 3"
 ---
 

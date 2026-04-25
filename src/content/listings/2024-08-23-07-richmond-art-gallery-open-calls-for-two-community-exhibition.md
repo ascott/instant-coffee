@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 7
 type: "CALL"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | open calls for two community exhibition spaces"
 ---
 

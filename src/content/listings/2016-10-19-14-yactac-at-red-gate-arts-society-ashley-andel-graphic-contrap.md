@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like shoulder pads in a business s
 emailDate: "Wed, 19 Oct 2016 12:20:16 -0700"
 number: 14
 type: "OPENING"
+venue: "Yactac at Red Gate Arts Society"
 summary: "Yactac at Red Gate Arts Society | Ashley Andel - Graphic Contraptions | OCT 27"
 ---
 

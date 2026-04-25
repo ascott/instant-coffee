@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 20
 type: ""
+venue: "Cineworks Studio"
 summary: "Cineworks Studio | Life Hacks for BC Arts Council grants | APR 11"
 ---
 
 April 11 - Life Hacks for BC Arts Council grants
 Speakers: Sue Donaldson and Sheryl Jones
-Time: 1 â€“ 5pm
+Time: 1 – 5pm
 Where: Cineworks Studio, 1131 Howe St (back lane entrance)
 Cost: Members $10/Non members $15 + GST (refreshments to be served
 afterwards) No one will be turned away due to lack of funds.
@@ -24,11 +25,11 @@ Sue Donaldson will be providing context for the Council in giving a
 history of its background, who sits on its Board, how it was
 established, its relationship with the province, what the money at
 Council is for and how much there is, how grants programs work for
-individual artists, collectives and organizationsâ€”from how a grant
+individual artists, collectives and organizations—from how a grant
 program is developed, what to look for when preparing a submission, what
 happens after an application for funding arrives at Council and what
 goes on during adjudication and afterwards. There will be a detailed
-description of the peer-review assessment process and Councilâ€™s
+description of the peer-review assessment process and Council’s
 commitment to it.
 
 Sheryl Jones will talk specifically about her remit as a new grant
@@ -37,7 +38,7 @@ her experience of the grants process at Council in her first few months.
 
 There will be time for questions and comments throughout the session
 with time provided at the end of day for more private or specific
-conversationsâ€”refreshments will be provided.
+conversations—refreshments will be provided.
 
 Sue Donaldson is the BC Arts Council officer responsible for grants
 programs for visual arts organizations, museums and aboriginal cultural

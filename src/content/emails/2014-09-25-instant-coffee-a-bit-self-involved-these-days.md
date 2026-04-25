@@ -23,9 +23,9 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-09-25-10-nikkei-national-museum-cultural-centre-symposium-what-are-yo">10. Nikkei National Museum & Cultural Centre | Symposium: What are You? What are We? | SEP 27</a>
 <a href="/instant-coffee/listings/2014-09-25-11-vancouver-art-gallery-curators-tour-emily-carr-and-landon-ma">11. Vancouver Art Gallery | Curator's Tour | Emily Carr and Landon Mackenzie | SEP 27</a>
 <a href="/instant-coffee/listings/2014-09-25-12-women-in-clothes-launch-sep-29">12. WOMEN IN CLOTHES | LAUNCH | SEP 29</a>
-<a href="/instant-coffee/listings/2014-09-25-13-sfu-woodwards-goldcorp-centre-for-the-arts-lecture-by-carrie">13. SFU Woodwardâ€™s Goldcorp Centre for the Arts | LECTURE BY CARRIE MACLEOD | SEP 30</a>
+<a href="/instant-coffee/listings/2014-09-25-13-sfu-woodwards-goldcorp-centre-for-the-arts-lecture-by-carrie">13. SFU Woodward’s Goldcorp Centre for the Arts | LECTURE BY CARRIE MACLEOD | SEP 30</a>
 <a href="/instant-coffee/listings/2014-09-25-14-goldcorp-centre-for-the-arts-andreas-bunte-artist-talk-oct-1">14. Goldcorp Centre for the Arts | Andreas Bunte Artist Talk | OCT 1</a>
-<a href="/instant-coffee/listings/2014-09-25-15-ruperts-residency-program-call-oct-1">15. Rupertâ€™s Residency Program | call | OCT 1</a>
+<a href="/instant-coffee/listings/2014-09-25-15-ruperts-residency-program-call-oct-1">15. Rupert’s Residency Program | call | OCT 1</a>
 <a href="/instant-coffee/listings/2014-09-25-16-avenue-ingrid-olauson-emma-metcalfe-hurst-oct-2">16. Avenue | Ingrid Olauson & Emma Metcalfe Hurst | OCT 2</a>
 <a href="/instant-coffee/listings/2014-09-25-17-initial-gallery-jonathan-syme-the-never-thriving-of-jugglers">17. INITIAL GALLERY | Jonathan Syme | The Never Thriving of Jugglers | OCT 2</a>
 <a href="/instant-coffee/listings/2014-09-25-18-satellite-gallery-matthew-buckingham-obscure-moorings-oct-2">18. Satellite Gallery | Matthew Buckingham: Obscure Moorings | OCT 2</a>
@@ -70,15 +70,15 @@ currently lives and works in Vancouver.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-09-25-02-canadian-music-centre-hildegard-westerkamp-and-florence-debe">02. Canadian Music Centre | Hildegard Westerkamp and Florence Debeugny | SEP 26</a>
 ------------------------------------------------------------------------
-Canadian Music Centreâ€“BC Region and Vancouver New Music present
+Canadian Music Centre–BC Region and Vancouver New Music present
 At the Edge of Wilderness
 A Sound-Slide Installation by composer Hildegard Westerkamp and
 photographer Florence Debeugny
 Opening reception: September 26, 2014; 5 - 7PM | Performance by Peggy Lee
 September 29 - October 17, 2014; Monday - Friday, 9AM - 5PM | FREE
-Canadian Music Centreâ€“BC Creative Hub (837 Davie Street)
+Canadian Music Centre–BC Creative Hub (837 Davie Street)
 
-When the resource industries moved into British Columbiaâ€™s landscapes,
+When the resource industries moved into British Columbia’s landscapes,
 industrial sites and company towns were cut into the wilderness. The edge
 between wilderness and development is explored in this sound-slide
 installion featuring photography and sounds that were gathered in various
@@ -101,7 +101,7 @@ Office and Volunteer Coordinator
 Membership and Outreach Coordinator
 
 To apply, please send a resume and cover letter via email to
-cfat.hiringcommittee@gmail.com with the subject line â€œMembership Outreach
+cfat.hiringcommittee@gmail.com with the subject line “Membership Outreach
 Coordinatorâ€ .
 
 Office and Volunteer Coordinator
@@ -110,7 +110,7 @@ DEADLINE EXTENDED FOR APPLICATIONS: Sept. 26th, 2014 at 5pm
 
 The Office and Volunteer Coordinator (OVC) will be responsible for meeting
 objectives set by the Director in terms of services and strategies
-developed for the Centreâ€™s membership and operations. The OVC will report
+developed for the Centre’s membership and operations. The OVC will report
 directly to the CFAT Director and will be tasked with coordinating office
 operations and volunteers. As part of this work the OVC will provide basic
 reception duties (i.e. greeting members, answeringcalls, and emails),
@@ -133,7 +133,7 @@ DEADLINE EXTENDED FOR APPLICATIONS: Sept. 26th, 2014 at 5pm
 
 The Membership and Outreach Coordinator (MOC) will be responsible for
 meeting objectives set by the Director for short and long-term strategies
-for the Centreâ€™s Membership and Outreach Project. The MOC will report
+for the Centre’s Membership and Outreach Project. The MOC will report
 directly to the CFAT Director and will work in collaboration with CFAT
 staff and volunteers to develop procedures and goals to recruit and engage
 members, donors and sponsors. A key goal of the MOC is to document
@@ -153,12 +153,12 @@ are below:
 defined by Section 58 of the Employment Insurance Act. This means that you
 are an individual for whom:
 
-â€“ an unemployment benefit period has been established or has
+– an unemployment benefit period has been established or has
 ended within the three years prior to the date of requesting assistance
 
 OR
 
-â€“ a benefit period that included a maternity or parental claim has
+– a benefit period that included a maternity or parental claim has
 been established within the five years prior to the date of requesting
 assistance, after which you remained out of the labour market in order to
 care for a newborn or newly adopted child and are now seeking to re-enter
@@ -187,7 +187,7 @@ simultaneously? The scope of the word expands when considering
 than a desire to find whatever is missing, longing functions as a state of
 being, a phenomenology that canâ€™t always be remedied… The corporeality
 of longing is matched then by a psychological conditioning that is
-sometimes, if not consistently, out of oneâ€™s control.
+sometimes, if not consistently, out of one’s control.
 
 The historical and social governance of (be)longing runs parallel
 to longing as a sentiment. The ability of an individual to compensate for
@@ -248,17 +248,17 @@ Vancouver
 
 Window Seat is a sequence of simple and beautiful gestures that both
 acknowledge the metaphor of photography-as-window and consciously resists
-reading the world metaphorically. Rather, Jennilee Marigomenâ€™s photographs
+reading the world metaphorically. Rather, Jennilee Marigomen’s photographs
 show the benefit of careful attention to the overlooked and often ephemeral
 beauty in our everyday surroundings.
 
-The succession of objects and scenes slowly reveals the projectâ€™s context:
-one comes to recognize the seaside townâ€™s whitewashed walls, sunseekers,
+The succession of objects and scenes slowly reveals the project’s context:
+one comes to recognize the seaside town’s whitewashed walls, sunseekers,
 blue sea, and bluer swimming pools. Yet even as street signs and warm light
 hint at a geographical referent for the work, the images in Window Seat
 continually veer away from a unified narrative, documenting neither a place
 nor a journey, in service of the beautiful particular. Within the project,
-the worldâ€™s pieces celebrate the often fragmentary, isolated, and quietly
+the world’s pieces celebrate the often fragmentary, isolated, and quietly
 beautiful frame untasked with telling a larger, linear story. The
 succession of images suggests that the world is made up of neglected sites
 imbedded in the everyday, which the keen sensibilities of a talented
@@ -377,7 +377,7 @@ Adjacencies
 Semi-Public, 271 Union Street
 Sept 27, 2014
 
-4 â€“ 10 PM
+4 – 10 PM
 With performances at 4:00, 6:30 and 8:30 PM
 
 Presented in conjunction with Access Gallery and grunt gallery, Adjacencies
@@ -388,7 +388,7 @@ E. Gail, Lauren Marsden and SPOOX (Julia Feyrer and Pietro Sammarco).
 
 Taking place over 6 hours on September 27 at the new outdoor project site
 Semi-Public at 271 Union Street, Adjacencies marks the soft-launch of
-221Aâ€™s 10-year long program to commission work that considers the changing
+221A’s 10-year long program to commission work that considers the changing
 dynamics of Chinatown and the surrounding communities.
 
 Read more: http://221a.ca/adjacencies
@@ -452,8 +452,8 @@ Thanks also to the Vancouver Foundation, the Canada Council for the Arts
 1. Symposium: What are We? honouring nikkei identity - Saturday, September
 27, 2014 - 10am - 4pm.
 
-2. Followed by the Hip Hapa Hooray from 4pm â€“ 7pm. A celebration of the
-part asian, 100% hapa exhibit, and Hapa Palooza Festivalâ€™s
+2. Followed by the Hip Hapa Hooray from 4pm – 7pm. A celebration of the
+part asian, 100% hapa exhibit, and Hapa Palooza Festival’s
 (www.hapapalooza.com) inaugural community awards honouring Ann Makosinski,
 youth inventor of the hollow flashlight that runs on human heat and 2013
 Google Science Fair winner, Kip Fulbeck,US award-winning artist, activist,
@@ -615,9 +615,9 @@ secular, religious, wealthy and working class, the book investigates,
 through text and images, the ritual that binds them all in the daily act of
 getting dressed.
 
-The Vancouver event is unique among other launches for the book: itâ€™s
+The Vancouver event is unique among other launches for the book: it’s
 organized by four contributors (all writers and artists themselves) who
-live in Vancouverâ€”Jaclyn Bruneau, Jennifer Croll, Doretta Lau, and Zoe
+live in Vancouver—Jaclyn Bruneau, Jennifer Croll, Doretta Lau, and Zoe
 Welch. The four have assembled a diverse group of interesting and stylish
 local women for a panel discussion about the influence of style in their
 lives; among those are writer Amber Dawn, publicist Cynara Geissler, artist
@@ -634,9 +634,9 @@ Venue: Cavalier
 Address: #217-207 West Hastings Street, Vancouver, BC
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-09-25-13-sfu-woodwards-goldcorp-centre-for-the-arts-lecture-by-carrie">13. SFU Woodwardâ€™s Goldcorp Centre for the Arts | LECTURE BY CARRIE MACLEOD | SEP 30</a>
+<a href="/instant-coffee/listings/2014-09-25-13-sfu-woodwards-goldcorp-centre-for-the-arts-lecture-by-carrie">13. SFU Woodward’s Goldcorp Centre for the Arts | LECTURE BY CARRIE MACLEOD | SEP 30</a>
 ------------------------------------------------------------------------
-SFU Woodwardâ€™s Goldcorp Centre for the Arts
+SFU Woodward’s Goldcorp Centre for the Arts
 
 PERFORMING HOME: ENACTING A NEW CHOREOGRAPHY OF BELONGING, A LECTURE BY
 CARRIE MACLEOD
@@ -644,7 +644,7 @@ Tue, 30 Sep 2014 7:00 PM
 
 Is there an art to reinventing home in the upheaval of displacement? This
 evening will offer a feast of poetic narratives on how communities in
-transition are creating new spaces of belonging â€“ against all odds.
+transition are creating new spaces of belonging – against all odds.
 
 In considering the multiple meanings of home in this contemporary global
 culture, we will ask who is making room for whom when frictions from forced
@@ -679,7 +679,7 @@ Fiorella Pinillos fpinillo@sfu.ca via instantcoffee.org
 2:25 PM (1 hour ago)
 
 to vancouver
-SFU Woodwardâ€™s Goldcorp Centre for the Arts
+SFU Woodward’s Goldcorp Centre for the Arts
 
 JUSTIN A. LANGLOIS | USELESSNESS & ANTAGONISM: SUGGESTIONS FOR A NEW ENGAGEMENT
 
@@ -736,7 +736,7 @@ With Christopher Pavsek and Judy Radul
 Andreas Bunte will show a selection of clips from scientific research films
 and related visual material. For Bunte, films and videos made for
 scientific research escape certain conventional languages of cinema and
-open conversations into mediaâ€™s role in â€œempirical observation." The
+open conversations into media’s role in “empirical observation." The
 discussion will consider the films in relation to their pretense of being
 pure visual information.
 
@@ -745,20 +745,20 @@ the Or Gallery and Republic Gallery, Vancouver and SFU Galleries.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-09-25-15-ruperts-residency-program-call-oct-1">15. Rupertâ€™s Residency Program | call | OCT 1</a>
+<a href="/instant-coffee/listings/2014-09-25-15-ruperts-residency-program-call-oct-1">15. Rupert’s Residency Program | call | OCT 1</a>
 ------------------------------------------------------------------------
-Rupertâ€™s Residency Program is suited for local and international thinkers:
+Rupert’s Residency Program is suited for local and international thinkers:
 artists, writers, curators, cultural managers, and academics, providing
 them with the opportunity to live and work in Vilnius while developing
-individual projects and immersing themselves in the regionâ€™s creative
-sphere. Run alongside Rupertâ€™s Educational, Exhibitions and Public
+individual projects and immersing themselves in the region’s creative
+sphere. Run alongside Rupert’s Educational, Exhibitions and Public
 programs, it also enables residents to benefit from collaboration with
 these programs that draw participants and mentors from a wide range of
 complementary artistic backgrounds, as well as attend talks, lectures and
 workshops by prominent curators, artists and thinkers from all over the world.
 
 Located in the picturesque area of Valakampiai in Vilnius and only a short
-distance from the cityâ€™s flourishing cultural center, Rupert is set by the
+distance from the city’s flourishing cultural center, Rupert is set by the
 river Neris and a small river beach, surrounded by peaceful fields and a
 forest. The residencies are located in a newly-constructed building
 designed by award-winning Lithuanian architect Audrius Ambrasas, operating
@@ -767,11 +767,11 @@ initiatives. Each resident is provided with a studio space and mezzanine
 (approximately 52 sq m. altogether) to be used as a production and research
 space during the residency. The studio is fully furnished and equipped with
 WiFi. The building also houses a reading room, conference room, and a
-kitchen, all of which are open for residentsâ€™ use. Each resident is also
+kitchen, all of which are open for residents’ use. Each resident is also
 provided with a Mac computer and a bicycle.
 
 The residency is FREE but applicants are responsible for covering personal
-(daily and travel) expenses. Rupertâ€™s team will issue acceptance letters
+(daily and travel) expenses. Rupert’s team will issue acceptance letters
 for successful residents and support their applications for external grants
 to cover travel, food, production and other costs.
 
@@ -789,18 +789,18 @@ one month and more strongly encouraged. Residents are asked to propose
 their preferred duration of stay and if accepted this can be negotiated
 according to studio availability and schedule.
 
-APPLICATION GUIDELINESâ€™ SPECIFICATIONS
+APPLICATION GUIDELINES’ SPECIFICATIONS
 
 Please send your application form (available HERE) along with your CV and
 portfolio (no more than 5 works) to residencies@rupert.lt before midnight
 on Wednesday, 1 October, 2014.
 
-There is a 10 â‚¬ application fee that goes towards covering administrative
-costs. It can be paid via PayPal through Rupertâ€™s website between 10
+There is a 10 € application fee that goes towards covering administrative
+costs. It can be paid via PayPal through Rupert’s website between 10
 September and 1 October, either separately or together with the submission
 of the application.
 
-Selection is not based on applicantsâ€™ academic or professional backgrounds.
+Selection is not based on applicants’ academic or professional backgrounds.
 Successful applicants will be selected for Skype interviews with residency
 admissions jury, which will take place shortly after the application deadline.
 
@@ -876,14 +876,14 @@ I'll be wearing a mood ring, no shirt.
 Yourself?
 _______________________________________________
 NikiKinetic 10:01 PM
-Iâ€™ll have a rose in my hair and moonlight in my eyes
+I’ll have a rose in my hair and moonlight in my eyes
 _______________________________________________
 NatureBoy88 10:01 PM
 Roses increase happiness and enjoyment
 do you think there's something here?
 _______________________________________________
 NikiKinetic 10:03 PM
-the greatest thing youâ€™ll learn is my love
+the greatest thing you’ll learn is my love
 _______________________________________________
 NatureBoy88 10:03 PM
 I have to go water my plants...ttyl
@@ -902,18 +902,18 @@ Thursday, October 2, 2014
 6-8 PM
 
 Initial Gallery is pleased to present The Never Thriving of Jugglers
-featuring recent work by Vancouver-based painter Jonathan Syme. Symeâ€™s
+featuring recent work by Vancouver-based painter Jonathan Syme. Syme’s
 latest paintings are a collision of techniques seen throughout his artistic
 practice utilized to further develop an abstract visual language.
 Art-historical elements such as Modernist gestures and a pop-art inspired
 colour palate, clash and merge with contemporary digital visual references,
 image overlay and analog colour gradients. An initially overwhelming
-mÃ©lange of optical stimulation are revealed as a careful push and pull of
+mélange of optical stimulation are revealed as a careful push and pull of
 colour and form. Oscillating between chaos and control, Syme arrives at a
-visual balance, exploring the paintingâ€™s power to transform.
+visual balance, exploring the painting’s power to transform.
 
 Jonathan Syme holds a BFA from the Alberta College of Art and Design. The
-artistâ€™s practice, primarily based in two-dimensional painting, also
+artist’s practice, primarily based in two-dimensional painting, also
 applies his technique and methodology to installation and sculpture. The
 artist has recently been exhibited at Monte Clark Gallery, WAAP, Equinox
 Gallery and Jeffery Boone Gallery.
@@ -945,25 +945,25 @@ Satellite Gallery presents a new exhibition, The Port, that looks at points
 of contact between the maritime worker and the Port City and, by extension,
 the maritime worker's place within the urban economy.
 
-In Obscure Mooringsâ€”Matthew Buckinghamâ€™s film installation based on Herman
-Melvilleâ€™s short story Daniel Ormeâ€”a sailorâ€™s last days are spent in
+In Obscure Moorings—Matthew Buckingham’s film installation based on Herman
+Melville’s short story Daniel Orme—a sailor’s last days are spent in
 Liverpool, a once vital seaport which, like Vancouver, is being
 dramatically redefined by social and global economic change. Buckingham
-writes that without â€œusing words the pictures and sounds juxtapose
-different archetypal sites from Liverpoolâ€™s city-scape, allowing places and
+writes that without “using words the pictures and sounds juxtapose
+different archetypal sites from Liverpool’s city-scape, allowing places and
 their respective â€˜pastsâ€™ to resonate with and contradict each other.â€  The
 wave of change that impacts inhabitants of most port cities is akin to the
 drastic change that befalls Daniel Orme as he transitions from sea to land.
 This wave of change is physically manifested by Buckingham as the platform
 on which viewers sit when watching his film. An impressive curvilinear
-wave, the platform fills the Satelliteâ€™s largest exhibition space.
+wave, the platform fills the Satellite’s largest exhibition space.
 
-Alongside Matthew Buckinghamâ€™s installation is a companion presentation of
-objects and archival materials related to Vancouverâ€™s own history as a
+Alongside Matthew Buckingham’s installation is a companion presentation of
+objects and archival materials related to Vancouver’s own history as a
 port. Social spaces within our city catering to the moral wellbeing of
 maritime workers (along with those engaged in gratifying their more venial
-needs) are representedâ€”from images of the Seamenâ€™s Institute and the
-Sailorsâ€™ Home (which later became a brothel) to the model ship that hung
+needs) are represented—from images of the Seamen’s Institute and the
+Sailors’ Home (which later became a brothel) to the model ship that hung
 for decades on the wall of the Marine Club. The conflicts between maritime
 workers and business interests are also explored, as are the ways in which
 many of the traditional functions of a port are increasingly at odds with
@@ -973,8 +973,8 @@ Mathew Buckingham is based in New York. Utilizing photography, film, video,
 audio, writing and drawing, his work questions the role that social memory
 plays in contemporary life. His projects create physical and social
 contexts that encourage viewers to question what is most familiar to them.
-Buckinghamâ€™s work has been shown extensively throughout Europe and North
-America, including exhibitions at ARC / MusÃ©e dâ€™art moderne de la Ville de
+Buckingham’s work has been shown extensively throughout Europe and North
+America, including exhibitions at ARC / Musée d’art moderne de la Ville de
 Paris, Paris; Camden Arts Centre, London; The Corcoran Gallery of Art,
 Washington DC; Hamburger Bahnhof, National Gallery, Berlin; Kunst-Werke,
 Berlin; Moderna Museet, Stockholm; Museum Moderner Kunst, Vienna; Museum of
@@ -996,7 +996,7 @@ Free and open to the public, the Vancouver Art/Book Fair is the only
 international art book fair in Canada and one of only two on the West
 Coast. In 2014 the event is anticipated to attract over 1,500 visitors from
 across the Greater Vancouver Area and beyond.
-Presented by Project Space, VA/BF is a two-day festival of artistsâ€™
+Presented by Project Space, VA/BF is a two-day festival of artists’
 publishing featuring nearly one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 artist projects. Featured artists travel to Vancouver from across Canada
@@ -1016,7 +1016,7 @@ FRIDAY, OCTOBER 3
 Members Only Preview
 Open to Members of Project Space and the Vancouver Art Gallery
 Vancouver Art Gallery, Lobby & Annex, 750 Hornby St.
-Friday, October 3, 6â€“8pm
+Friday, October 3, 6–8pm
 Memberships available at the door or http://www.projectspace.ca/memberships
 
 VA/BF Reception
@@ -1056,7 +1056,7 @@ ENDS BY ERICA WILK
 MONIKER PRESS
 
 with sound performances curated by
-SOLEDAD MUÃ‘OZ
+SOLEDAD MUÑOZ
 
 presented in conjunction with
 VANCOUVER ART/BOOK FAIR
@@ -1064,17 +1064,17 @@ ARTISTS' BOOK WEEK
 
 ________________
 Saturday October 4
-6â€“10pm
+6–10pm
 Field Contemporary, 17 West Broadway
 
 ________________
 Field Contemporary is excited to announce our hosting of the Highway
 Magazine vol. 1 launch and the Moniker Press Ends book launch in
 conjunction with the unveiling of our new in-house, art-centric bookstore
-during Vancouver Art/Book Fairâ€™s Artist Book Week.
+during Vancouver Art/Book Fair’s Artist Book Week.
 
 Join us Saturday October 4th to enjoy drinks, live readings, and sound
-performances curated by Genero founder Soledad MuÃ±oz.
+performances curated by Genero founder Soledad Muñoz.
 
 Highway is a publication committed to finding new ways to think about and
 understand culture. Through artist collaborations, fragmentary fiction,
@@ -1180,30 +1180,30 @@ September 17 to November 16, 2014
 Artist talk: Wednesday, October 8 at 7pm, ECU Theatre
 
 The Charles H. Scott Gallery is pleased to present a solo show by esteemed
-Vancouver artist Rodney Graham. The exhibition is primarily comprised of the artistâ€™s recent paintings, with a focus on works that were produced as props
+Vancouver artist Rodney Graham. The exhibition is primarily comprised of the artist’s recent paintings, with a focus on works that were produced as props
 for artworks such as The Gifted Amateur, Pipe Cleaner Artist, My Late Early
 Styles and Lobbing Potatoes at a Gong.
 
 Many of these prop paintings were produced and continue to be developed
-long after the work for which they were originally intended was completed. Grahamâ€”who is well known for his literary and conceptual artworks,
-cinematic installations and costume dramas, as well as the music he creates as a singer-songwriterâ€”turned seriously to painting in 2003, producing heavy impasto
+long after the work for which they were originally intended was completed. Graham—who is well known for his literary and conceptual artworks,
+cinematic installations and costume dramas, as well as the music he creates as a singer-songwriter—turned seriously to painting in 2003, producing heavy impasto
 paintings and gestural monochromes that make reference to modernist masters
-such as Pablo Picasso, Lucio Fontana and Kazimir Malevich. Among the many works in the exhibition is Black Tapestry, a series of black square paintings made on multiple copies of the record cover of Carole Kingâ€™s 1971 masterpiece, Tapestry. The exhibition also features the largest upside-down drip painting made by the artist to date.
+such as Pablo Picasso, Lucio Fontana and Kazimir Malevich. Among the many works in the exhibition is Black Tapestry, a series of black square paintings made on multiple copies of the record cover of Carole King’s 1971 masterpiece, Tapestry. The exhibition also features the largest upside-down drip painting made by the artist to date.
 
 Rodney Graham: Props and Other Paintings is the final installment of a trio
-of exhibitions held from May to November 2014 in Vancouver, including Rodney Graham: Collected Works (May 31 to October 4) at Rennie Collection at Wing Sang and Torqued Chandelier Release and Other Works (June 20 to August 17) at the Morris and Helen Belkin Art Gallery at the University of British Columbia. The exhibition is presented in collaboration with Rennie Collection, which initiated the three exhibitions and holds a substantial collection of Grahamâ€™s work.
+of exhibitions held from May to November 2014 in Vancouver, including Rodney Graham: Collected Works (May 31 to October 4) at Rennie Collection at Wing Sang and Torqued Chandelier Release and Other Works (June 20 to August 17) at the Morris and Helen Belkin Art Gallery at the University of British Columbia. The exhibition is presented in collaboration with Rennie Collection, which initiated the three exhibitions and holds a substantial collection of Graham’s work.
 
-Recent solo exhibitions of Grahamâ€™s work have been held at the Vancouver
+Recent solo exhibitions of Graham’s work have been held at the Vancouver
 Art Gallery; Museu Picasso, Barcelona; the Museu dâ€™Art Contemporani de Barcelona; Hamburger Kunsthalle, Hamburg and Museum für Gegenwartskunst, Basel. Grahamâ€™s work can be found in a number of public collections
 worldwide, including the Museum of Modern Art, New York; the Centre Georges Pompidou, Paris; the Tate Modern, London and the Metropolitan Museum of Art, New York. In 2006 Emily Carr University Press published This is the Only
-Living Iâ€™ve Got (Donâ€™t Take it Away From Me):
+Living I’ve Got (Don’t Take it Away From Me):
 
 The Rodney Graham Songbook and in 2012 READ Books produced an edition of
 125 unique prints by the artist titled
 
-the Amazing Rotary Psycho-Opticonâ„¢.
+the Amazing Rotary Psycho-Opticon™.
 
-Gallery Hours: Open Daily 12 â€“ 5 pm. Admission is free.
+Gallery Hours: Open Daily 12 – 5 pm. Admission is free.
 
 Charles H. Scott Gallery | Emily Carr University of Art and Design
 
@@ -1240,7 +1240,7 @@ This event is free and open to the public.
 For further information please visit: www.ahva.ubc.ca
 Faculty of Arts | Department of Art History, Visual Art & Theory
 The University of British Columbia | Vancouver
-400 â€“ 6333 Memorial Road | Vancouver, BC Canada V6T 1Z2
+400 – 6333 Memorial Road | Vancouver, BC Canada V6T 1Z2
 Phone 604 822 5650
 ahva.head@ubc.ca
 www.ahva.ubc.ca | www.facebook.com/ahva.ubc.ca
@@ -1270,11 +1270,11 @@ Vancouver and surrounding areas. Now in its second year, the Emerging
 Curator Exhibition will highlight the vision of an aspiring curator, and
 provide the opportunity to realize an exhibition directed towards
 photographic dialogues. Our 2014 emerging curator, Avalon Mott exhibited
-â€˜Locateâ€™ which featured a body of photographic works exploring the binary
+‘Locate’ which featured a body of photographic works exploring the binary
 notions of transience and permanence within spaces, and the location of
 oneself during periods of transition and instability.
 
-â€œBeing presented by Gallery 295 as the inaugural Emerging Curator was truly
+“Being presented by Gallery 295 as the inaugural Emerging Curator was truly
 an honour. It was a fantastic opportunity to work through an independent
 curatorial project, while being fully supported by the fantastic team
 members behind Gallery 295. There are not many opportunities like this open
@@ -1329,12 +1329,12 @@ Please join the UBC Department of Art History, Visual Art & Theory (AHVA)
 at the AHVA Gallery in the Audain Art Centre on Wednesday, October 1st and
 8th at 12:30pm for artists talks with full time Faculty:
 
-October 1 with Barrie Jones, Barbara Zeigler and Manuel PiÃ±a.
+October 1 with Barrie Jones, Barbara Zeigler and Manuel Piña.
 
 October 8 with Marina Roy, Gu Xiong and Phil McCrum.
 
-Artist featured in the exhibition are: Dana Claxton, Christine Dâ€™Onofrio,
-Gu Xiong, Gareth James, Phil McCrum, Manuel PiÃ±a, Richard Prince, Marina
+Artist featured in the exhibition are: Dana Claxton, Christine D’Onofrio,
+Gu Xiong, Gareth James, Phil McCrum, Manuel Piña, Richard Prince, Marina
 Roy, Barbara Zeigler, Scott Billings, Jade Yumang, Barrie Jones,
 
 Kevin Murphy, Josh Hite, Cathy Busby, Garry Kennedy and Beau Dick.
@@ -1363,7 +1363,7 @@ Department of Art History, Visual Art & Theory
 
 University of British Columbia
 
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 
 Vancouver, BC V6T 1Z2
 
@@ -1463,10 +1463,10 @@ needed.
 
 REQUIREMENTS
 
-Â· Completion of two years minimum course work in the visual arts and
+· Completion of two years minimum course work in the visual arts and
 one or more relevant trades relevant to the work
 
-Â· A minimum of two to three years experience and knowledge in one or
+· A minimum of two to three years experience and knowledge in one or
 more of the following areas required: experience working in a museum or
 gallery and the techniques of safe handling and movement of works of art
 (required of all incumbents); packing and crating of artworks; mount
@@ -1474,19 +1474,19 @@ making; techniques, materials and methods used in the installation of two
 and three-dimensional works of art; standard practices, methods and skills,
 materials, variety of tools and equipment for carpentry and cabinet making.
 
-Â· Ability to install and maintain computer hardware and software in
+· Ability to install and maintain computer hardware and software in
 exhibition and perform basic hardware and software troubleshooting.
 
-Â· Ability to lift and move heavy objects, communication and teamwork
+· Ability to lift and move heavy objects, communication and teamwork
 skills required.
 
-Â· Demonstrated understanding of hazards and necessary safety
+· Demonstrated understanding of hazards and necessary safety
 precautions involved in the work.
 
-Â· Valid B.C. Driverâ€™s License; agree to become certified to drive
+· Valid B.C. Driver’s License; agree to become certified to drive
 City vehicle.
 
-Â· Candidate must pass and maintain a criminal and police record search.
+· Candidate must pass and maintain a criminal and police record search.
 
 SALARY: $24.11 12% in lieu of benefits
 HOURS: Hours may include weekends and evenings. This is an on-call casual

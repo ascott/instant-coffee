@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 8
 type: "EVENT"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | UBC MFA Grad Exhibition Public Critique | MAY 30"
 ---
 
@@ -17,12 +18,12 @@ Saturday, May 30, 12:30 pm at the Belkin Gallery. All are welcome.
 
 The Morris and Helen Belkin Art Gallery is pleased to present object
 approaching short blue waves, an exhibition of work by the 2015 graduates
-of the University of British Columbiaâ€™s two-year Master of Fine Arts
+of the University of British Columbia’s two-year Master of Fine Arts
 program: Eric Angus, Jamey Braden, Anyse Ducharme, Jessica Gnyp, and
 Michelle Weinstein. This program is limited each year to a small group of
 four to six artists, which over the two years fosters different
 sensibilities developed within an intimate and dialogic working
-environment. The artists in this yearâ€™s exhibition share an interest in
+environment. The artists in this year’s exhibition share an interest in
 aspects of materiality and the relationships between two and three
 dimensional work.
 
@@ -44,7 +45,7 @@ overlooked to become visible, to be accepted as it is.
 In her work, Anyse Ducharme is interested in the computer, the Internet and
 the circulation of digital imagery. Originally from Sturgeon Falls,
 Ontario, Ducharme holds a BFA (photography and media art) from the
-University of Ottawa and a diploma in 3D animation from la CitÃ© CollÃ©giale.
+University of Ottawa and a diploma in 3D animation from la Cité Collégiale.
 She has exhibited both in group and solo exhibitions, including fiction at
 la Galerie du Nouvel-Ontario (Sudbury), Digital Alterities at InterAccess
 Electronic Media Arts Centre (Toronto), and as part of the Flash Forward
@@ -58,7 +59,7 @@ informed by a movement between these two fields. Her work has recently been
 exhibited at the Satellite Gallery (Vancouver) and the UBC AHVA Gallery.
 She is a recipient of a Social Sciences and Humanities Research Council
 Scholarship, the BC Arts Council Scholarship and the University of British
-Columbiaâ€™s Arts Graduate Student Research Award.
+Columbia’s Arts Graduate Student Research Award.
 
 Born in Toronto and raised in Connecticut, Michelle Weinstein earned her
 BFA from Maine College of Art. She began exhibiting her work upon
@@ -73,7 +74,7 @@ Humanities Research Award (SSHRC) in 2014.
 The exhibition is presented with support from the Department of Art
 History, Visual Art and Theory at the University of British Columbia.
 
-â€”
+—
 
 For further information please contact: Jana Tyner at jana.tyner@ubc.ca,
 tel: (604) 822-1389, or fax: (604) 822-6689

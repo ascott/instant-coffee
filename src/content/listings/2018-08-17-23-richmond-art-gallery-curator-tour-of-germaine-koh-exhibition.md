@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 23
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Curator Tour of Germaine Koh Exhibition | 2-3PM | AUG 25"
 ---
 

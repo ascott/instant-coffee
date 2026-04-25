@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 15
 type: "CALL"
+venue: "Public Art + Urban Infrastructure Artist Roster"
 summary: "Public Art + Urban Infrastructure Artist Roster | Request for Qualifications | MAR 1"
 ---
 

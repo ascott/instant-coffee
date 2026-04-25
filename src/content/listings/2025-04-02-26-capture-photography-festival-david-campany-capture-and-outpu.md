@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 26
 type: "TALK"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | David Campany: Capture and Output | APR 10"
 ---
 

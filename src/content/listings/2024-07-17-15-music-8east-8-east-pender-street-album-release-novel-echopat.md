@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 15
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | 8EAST - 8 East Pender Street | Album Release : Novel Echopath | 8PM | JUL 26"
 ---
 

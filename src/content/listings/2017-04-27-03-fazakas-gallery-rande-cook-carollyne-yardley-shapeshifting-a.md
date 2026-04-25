@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 3
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Rande Cook & Carollyne Yardley | Shapeshifting | APR 27"
 ---
 

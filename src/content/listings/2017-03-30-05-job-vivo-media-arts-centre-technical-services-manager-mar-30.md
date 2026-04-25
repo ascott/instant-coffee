@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 5
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO Media Arts Centre | Technical Services Manager | MAR 30"
 ---
 

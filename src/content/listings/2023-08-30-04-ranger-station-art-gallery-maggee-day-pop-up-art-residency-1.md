@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 4
 type: "EVENT"
+venue: "Ranger Station Art Gallery"
 summary: "Ranger Station Art Gallery | Maggee Day: Pop-up Art Residency | 11AM | AUG 31"
 ---
 

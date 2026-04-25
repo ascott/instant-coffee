@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 17
 type: "EDUCATION"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | Ceramics Handbuilding Workshop | AUG 10"
 ---
 

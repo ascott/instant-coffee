@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 31
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Camille Turner and Jerome Havre | 230-4PM | FEB 16"
 ---
 

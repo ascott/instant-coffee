@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 13
 type: "CALL"
+venue: "ALCHEMY"
 summary: "ALCHEMY | Alchemy Artists Residency | MAR 30"
 ---
 

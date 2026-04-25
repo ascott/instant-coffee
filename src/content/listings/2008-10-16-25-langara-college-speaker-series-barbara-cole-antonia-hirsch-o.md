@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 25
 type: ""
+venue: "Langara College"
 summary: "Langara College | Speaker Series: Barbara Cole & Antonia Hirsch | OCT 21"
 ---
 

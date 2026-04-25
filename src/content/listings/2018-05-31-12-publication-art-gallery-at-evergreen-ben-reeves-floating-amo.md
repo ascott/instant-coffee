@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 12
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Art Gallery at Evergreen | Ben Reeves: Floating Among Phantoms | JUN 6"
 ---
 

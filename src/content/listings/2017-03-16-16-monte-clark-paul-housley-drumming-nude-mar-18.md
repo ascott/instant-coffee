@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 16
 type: "OPENING"
+venue: "Monte Clark"
 summary: "Monte Clark | Paul Housley - Drumming Nude | MAR 18"
 ---
 

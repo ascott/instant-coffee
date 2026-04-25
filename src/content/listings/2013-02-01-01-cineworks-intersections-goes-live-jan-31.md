@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 1
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | INTERSECTIONS goes live | JAN 31"
 ---
 
@@ -11,7 +12,7 @@ INTERSECTIONS
 Goes Live!
 
 Cineworks Independent Filmmakers Society in partnership with The Tomorrow 
-Collectiveâ€™s Brief Encounters is pleased to present the premiere of 
+Collective’s Brief Encounters is pleased to present the premiere of 
 INTERSECTIONS, a new moving image project where a local artists and 
 filmmakers are matched together for a two month span to create new works 
 online.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 19
 type: ""
+venue: "East Van Studios"
 summary: "East Van Studios | good luck malaspina scholars | MAR 9"
 ---
 
@@ -30,7 +31,7 @@ predicting future selves.
 Todd Evanger is an interdisciplinary artist living and working in Vancouver. He 
 recently graduated from the Emily Carr University of Art & Design and is 
 currently a master of fine arts candidate in the department of art history, visual 
-art and theory at the University of British Columbia. Evangerâ€™s current 
+art and theory at the University of British Columbia. Evanger’s current 
 research explores the gendered body and the possible ways in which 
 heteronormativity and hegemonic masculinity dominate discourse within visual 
 culture.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 9
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Print Fair/Market | DEC 17"
 ---
 

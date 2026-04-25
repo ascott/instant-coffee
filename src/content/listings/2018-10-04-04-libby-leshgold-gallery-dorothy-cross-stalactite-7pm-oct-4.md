@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 4
 type: "OPENING"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Dorothy Cross: Stalactite | 7PM | OCT 4"
 ---
 

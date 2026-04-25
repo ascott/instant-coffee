@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 12
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Yactac | Craft Fair | DEC 9"
 ---
 

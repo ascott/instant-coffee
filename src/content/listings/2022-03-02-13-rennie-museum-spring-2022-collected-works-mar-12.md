@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 13
 type: "EXHIBITION"
+venue: "rennie museum"
 summary: "rennie museum | Spring 2022: Collected Works | MAR 12"
 ---
 

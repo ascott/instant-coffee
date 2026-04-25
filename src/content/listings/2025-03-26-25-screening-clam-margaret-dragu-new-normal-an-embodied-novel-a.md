@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | C.L.A.M. | Margaret Dragu, New Normal: an embodied novel | APR 3"
 ---
 

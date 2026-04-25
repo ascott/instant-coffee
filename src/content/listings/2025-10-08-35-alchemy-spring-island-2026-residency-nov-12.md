@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 35
 type: "CALL"
+venue: "ALCHEMY SPRING ISLAND 2026"
 summary: "ALCHEMY SPRING ISLAND 2026 | residency | NOV 12"
 ---
 

@@ -23,7 +23,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-05-23-09-hardscrabble-gallery-kim-kennedy-austin-may-25">09. Hardscrabble Gallery | Kim Kennedy Austin | MAY 25</a>
 <a href="/instant-coffee/listings/2013-05-23-10-presentation-house-gallery-babak-golkar-curator-tour-may-25">10. Presentation House Gallery | Babak Golkar, curator tour | MAY 25</a>
 <a href="/instant-coffee/listings/2013-05-23-11-league-byob-bring-your-own-bocce-may-26">11. League | B.Y.O.B: Bring Your Own Bocce | MAY 26</a>
-<a href="/instant-coffee/listings/2013-05-23-12-pacific-cinmathque-luke-fowler-all-divided-selves-may-27">12. Pacific CinÃ©mathÃ¨que | Luke Fowler: All Divided Selves | MAY 27</a>
+<a href="/instant-coffee/listings/2013-05-23-12-pacific-cinmathque-luke-fowler-all-divided-selves-may-27">12. Pacific Cinémathèque | Luke Fowler: All Divided Selves | MAY 27</a>
 <a href="/instant-coffee/listings/2013-05-23-13-western-front-prop-talk-margaret-haines-may-28">13. Western Front | Prop Talk | Margaret Haines | MAY 28</a>
 <a href="/instant-coffee/listings/2013-05-23-14-221a-part-4-choreography-may-31">14. 221A | Part 4: Choreography | MAY 31</a>
 <a href="/instant-coffee/listings/2013-05-23-15-exercise-crystal-tongue-may-31">15. Exercise | Crystal Tongue | MAY 31</a>
@@ -32,7 +32,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-05-23-18-the-lacan-salon-laconference-jun-1">18. The Lacan Salon | LaConference | JUN 1</a>
 <a href="/instant-coffee/listings/2013-05-23-19-maplewood-farm-filmmaking-contest-jun-2">19. Maplewood Farm | filmmaking contest | JUN 2</a>
 <a href="/instant-coffee/listings/2013-05-23-20-unlearning-weekenders-series-of-workshops-starting-jun-2">20. UNLEARNING WEEKENDERS | series of workshops, starting | JUN 2</a>
-<a href="/instant-coffee/listings/2013-05-23-21-eye-level-gallery-job-posting-director-of-eye-level-gallery-">21. Eye Level Gallery | Job Posting â€“ Director of Eye Level Gallery | JUN 3</a>
+<a href="/instant-coffee/listings/2013-05-23-21-eye-level-gallery-job-posting-director-of-eye-level-gallery-">21. Eye Level Gallery | Job Posting – Director of Eye Level Gallery | JUN 3</a>
 <a href="/instant-coffee/listings/2013-05-23-22-east-van-studio-object-of-affection-jun-8">22. East Van Studio | Object of Affection | JUN 8</a>
 <a href="/instant-coffee/listings/2013-05-23-23-burnaby-art-gallery-john-koerner-book-launch-and-100th-bday-">23. Burnaby Art Gallery | John Koerner | book launch and 100th bday | JUN 9</a>
 <a href="/instant-coffee/listings/2013-05-23-24-gallery-gachet-annual-submissions-jun-15">24. Gallery Gachet | Annual Submissions | JUN 15</a>
@@ -80,7 +80,7 @@ and celebratory.
 Khan Lee was born in Seoul, Korea where he studied architecture at
 Hong-Ik University, and studied fine art at Emily Carr Institute of Art
 and Design in Vancouver. He is a founding member of Vancouver
-based artist collective Ã¢â‚¬ËœIntermissionÃ¢â‚¬â„¢ and presently a member of 
+based artist collective â€˜Intermissionâ€™ and presently a member of 
 Instant Coffee artist collective. His experiments with form, medium, 
 content, and expression have resulted in performance, sculpture, and 
 media works. Lee lives and works in Vancouver BC, and has exhibited
@@ -128,15 +128,15 @@ Natasha McHardy and Marina Roy started working together to produce
 video works as the artist-duo Roy & McHardy in 2003. While 
 maintaining their own separate practices over the past few years, their 
 artwork continues to share an interest in materiality, craft, surreal and 
-folk sensibilities, and gender/race/class issues. McHardyâ€™s new body of 
+folk sensibilities, and gender/race/class issues. McHardy’s new body of 
 work incorporates recurring motifs within a theatrical stage, including 
 pools, cacti, palm trees, screens, animals, and kitsch icons. These 
 surreal relief constructions combine abstraction and representation, 
-drawing and collage, exoticism and colonial histories. Royâ€™s work 
+drawing and collage, exoticism and colonial histories. Roy’s work 
 explores the construction of grotesque emblems and rebuses, using an 
 archive of images that recall her past animations. Human, animal, 
 plant, mineral entities combine, breaking down taxonomic categories 
-between living and non-living entities. Mining a naÃ¯ve aesthetic, both of 
+between living and non-living entities. Mining a naïve aesthetic, both of 
 their practices question hierarchies within art historical and market 
 systems, combining high and low art traditions, all the while reflecting 
 on the nature of power structures that fix life into an allegorical image.
@@ -147,7 +147,7 @@ including at the Vancouver Art Gallery, Centre A Centre for
 Contemporary Art, the Shanghai Art Museum, Or Gallery, the Belkin 
 Satellite Gallery, and the Helen Pitt Gallery. She was recipient of the 
 BC Binning Drawing Award in 2001. Marina Roy received a BA in 
-French Literature at UniversitÃ© Laval, a BFA from the Nova Scotia 
+French Literature at Université Laval, a BFA from the Nova Scotia 
 College of Art and Design, and her MFA from the University of British 
 Columbia. She has shown nationally and internationally including the 
 Vancouver Art Gallery, the Or Gallery Berlin, Contemporary Art Gallery, 
@@ -159,7 +159,7 @@ Gallery, London. Roy was recipient of the VIVA award in 2010.
 <a href="/instant-coffee/listings/2013-05-23-03-access-gallery-all-lost-dawn-johnston-may-24">03. Access Gallery | ALL LOST: Dawn Johnston | MAY 24</a>
 ------------------------------------------------------------------------
 ALL LOST: Dawn Johnston
-May 24 â€“ July 20, 2013
+May 24 – July 20, 2013
 
 Opening Reception: Thursday, May 23, 2013. 7:00-9:00pm
 A Conversation between the Artist and Access Director/Curator 
@@ -167,23 +167,23 @@ Kimberly Phillips: Thursday, July 18. 7:00-8:30pm
 
 ALL LOST is a solo exhibition of new work by the Vancouver-based 
 artist Dawn Johnston. A recent MFA graduate from the University of 
-Guelph, Johnstonâ€™s practice uses documented and imagined histories 
+Guelph, Johnston’s practice uses documented and imagined histories 
 as a platform on which to develop complex, immersive installations, 
 video and materially focused sculpture. She reinvents or modifies 
-existing objects and narrativesâ€”particularly those involving Canadaâ€™s 
-origin myths or the seaâ€”in order to examine issues of labour practices 
+existing objects and narratives—particularly those involving Canada’s 
+origin myths or the sea—in order to examine issues of labour practices 
 and to explore our relationships with the everyday things that surround 
 us. A number of recent works have involved the artist plating unlikely 
-objects in gold, curiously imbuing them with that materialâ€™s 
-metaphysicalâ€”even magicalâ€”properties. In addition, Johnstonâ€™s 
+objects in gold, curiously imbuing them with that material’s 
+metaphysical—even magical—properties. In addition, Johnston’s 
 experience in the construction industry has begun to inform both her 
 process and her interaction with raw materials.
 
 For ALL LOST, Johnston has constructed a 1:1 scale replica of a 
-shipping container within Accessâ€™ gallery space using wood and gold 
+shipping container within Access’ gallery space using wood and gold 
 plated screws. This work, which will only just fit within the confines of 
 the gallery, calls upon several points of reference. The first is 
-Johnstonâ€™s own knowledge of sailing and her recent completion of The 
+Johnston’s own knowledge of sailing and her recent completion of The 
 Arctic Circle Residency Expedition, wherein she lived and worked on a 
 tall ship for a month, sailing the arctic archipelago with fellow artists, 
 activists, scientists and writers. Her second reference point is the 1986 
@@ -196,7 +196,7 @@ Maritime Museum, was recovered at the shoreline in Victoria some six
 weeks after the disaster. Scrawled on its surface were presumably the 
 last words of passenger Sewell Moody: â€œS.P. Moody. All Lost.â€  Like 
 those sealed cargo containers accidentally pitched from their vessels 
-and left to drift, forgotten, at sea, Johnstonâ€™s ALL LOST suggests the 
+and left to drift, forgotten, at sea, Johnston’s ALL LOST suggests the 
 threads of connection that entangle disparate narratives and the 
 insistent ways that recorded histories can contain contents unknown.
 
@@ -279,7 +279,7 @@ Canadian Art Magazine for her writing on contemporary art.
 
 Les Ramsay received his BFA in Visual Arts in 2007 from Emily Carr
 University in Vancouver, and also studied at the Bellas Artes,
-Universidad PolitÃƒÂ©cnica de Valencia, Spain. Ramsay is represented 
+Universidad PolitÃ©cnica de Valencia, Spain. Ramsay is represented 
 by Cooper Cole Gallery in Toronto and his work has been exhibited in
 Canada, Spain, Sweden, and the United States.
 
@@ -312,10 +312,10 @@ Dogwood Centre for Socialist Education
 [Description]
 
 The rentiers reap what they do not sow.
-â€“Adam Smith, Wealth of Nations (1776)
+–Adam Smith, Wealth of Nations (1776)
 
 Rent Assembly: May 24, 25, 26 (2013)
-Vancouver, BC â€“ Unceded Coast Salish territory
+Vancouver, BC – Unceded Coast Salish territory
 
 In the struggle for housing in Vancouver, we tend to highlight issues 
 such as social housing, SROs, gentrification, and affordability. But what 
@@ -329,7 +329,7 @@ resistance. It is invisible, and if we are to stop paying for the damage to
 our own daily lives, rent must be made visible.
 
 The Rent Assembly will be a gathering for those who are not among 
-Vancouverâ€™s â€˜playersâ€™ in the housing market. Many of us will never own 
+Vancouver’s ‘players’ in the housing market. Many of us will never own 
 property. We will always have to worry about our homes being sold out 
 from under us, about being renovicted, evicted or rents inflating 
 beyond liveability. Workers will continue to spend more of their 
@@ -344,7 +344,7 @@ Poetry, critical discussion, artworks, performances, workshops and
 music contributions by:
 
 About a Bicycle, Matthew Adams, Daniela Aiello, Cole Anders, Sean 
-Antrim, Peter Bracking, Margot Butler, Art Cart, BeshÃ©le Caron, Glen 
+Antrim, Peter Bracking, Margot Butler, Art Cart, Beshéle Caron, Glen 
 Coulthard, Nathan Crompton, Eve Belle, Cherise Clarke, Stephen 
 Collis, Jeff Derksen, Ivan Drury, Jennifer Efting, Nicholas Ellan, Colin 
 Fulton, Kim Hearty, Larraine Henning, Penelope Hetherington, Keith 
@@ -355,7 +355,7 @@ Leslie, Rowan Lipkovits, Andy Longhurst, The Mainlander, Pablo
 Mendez, Menses/Loose Tights, Tomasz Michalak, Patrick Morrison, 
 Sarah Moore, Alex Muir, mynameisscot, Heidi Nagtegaal, Cecily 
 Nicholson, Pidgin Picket, Carly Ramsey, 855, Anson Riel, Seattle 
-Solidarity Action Network, SWAMP Theatre, Vancouver Renterâ€™s Union, 
+Solidarity Action Network, SWAMP Theatre, Vancouver Renter’s Union, 
 Maria Wallstam, Karen Ward, Elvin Wyly
 
 + many more renters
@@ -376,7 +376,7 @@ FRIDAY May 24
 
 @ DOGWOOD
 
-4:00 â€“ 6:00 pm â€“ pre-conference reading circle
+4:00 – 6:00 pm – pre-conference reading circle
 
 No Reading After the Internet
 
@@ -386,13 +386,13 @@ Curator: Alex Muir
 
 â€œThe Art of Rentâ€  by David Harvey from Rebel Cities
 
-6 pm â€“ 7:30 pm â€“ conference opening
+6 pm – 7:30 pm – conference opening
 
 Opening Remarks
 
 Food and Discussion
 
-7:30 â€“ 9:00 pm â€“ panel
+7:30 – 9:00 pm – panel
 
 Rent in Theory
 
@@ -402,7 +402,7 @@ Maria Wallstam and Nathan Crompton
 
 Moderator: Donato Mancini
 
-9:00 pm â€“ 12:00 â€“ opening reception
+9:00 pm – 12:00 – opening reception
 
 Musical performances starting at 10:00
 
@@ -411,7 +411,7 @@ Humanities 101 board game â€œWhere Thereâ€™s Walls, Thereâ€™s Hole
 @ Viewed through a closed gate at 1407 E. Georgia Street (Cool Air 
 Rentals)
 
-9:30 â€“ 10:00 pm â€“ performance
+9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
 â€œDISLODGEâ€  part 1
@@ -420,7 +420,7 @@ SATURDAY May 25
 
 @ DOGWOOD
 
-10:00 â€“ 11:30 am â€“ panel
+10:00 – 11:30 am – panel
 
 Racism and Rent
 
@@ -432,7 +432,7 @@ Pablo Mendez
 
 Moderator: Danielle LaFrance
 
-12:30 â€“ 2:30 pm â€“ panel
+12:30 – 2:30 pm – panel
 
 Rent, Development and Bureaucracy
 
@@ -446,7 +446,7 @@ Maria Wallstam
 
 Moderator: Patrick Morrison
 
-3:00 â€“ 4:30pm â€“ panel
+3:00 – 4:30pm – panel
 
 Rent and Cultural Production
 
@@ -458,7 +458,7 @@ Karen Ward
 
 Moderator: Nathan Crompton
 
-5:00 â€“ 6:30pm â€“ panel
+5:00 – 6:30pm – panel
 
 Rent and Direct Action
 
@@ -470,13 +470,13 @@ Moderator: Donato Mancini
 
 @ 855 E Hastings
 
-7:00 â€“ 10:00 pm â€“ interactive theatre workshop
+7:00 – 10:00 pm – interactive theatre workshop
 
 SWAMP Theatre of the Oppressed
 
 Facilitator: Eve Belle
 
-9:00 pm â€“ 2:00 am â€“ party
+9:00 pm – 2:00 am – party
 
 Sweaty Bones
 
@@ -488,13 +488,13 @@ SUNDAY May 26
 
 @ DOGWOOD
 
-10:00 â€“ 11:30 am â€“ strategy discussion group
+10:00 – 11:30 am – strategy discussion group
 
 Renters and Tenant Organizing
 
-Vancouver Rentersâ€™ Union
+Vancouver Renters’ Union
 
-12:00 â€“ 1:30 pm â€“ panel
+12:00 – 1:30 pm – panel
 
 Poetry, Rent and Representation
 
@@ -508,7 +508,7 @@ Moderator: Anahita Jamali Rad
 
 @ PIGEON PARK (At the Gallery Gachet Art Cart)
 
-2:00 â€“ 3:00 pm â€“ poetry reading and chapbook launch
+2:00 – 3:00 pm – poetry reading and chapbook launch
 
 Karen Ward
 
@@ -516,14 +516,14 @@ Cherise Clarke
 
 Peter Bracking
 
-Launching Peter Brackingâ€™s chapbook: Rent In Four: keeping your ass 
+Launching Peter Bracking’s chapbook: Rent In Four: keeping your ass 
 out of the acid rain
 
 Facilitator/curator: Alex Leslie
 
 @ PURPLE THISTLE
 
-3:30 â€“ 4:30pm â€“ discussion
+3:30 – 4:30pm – discussion
 
 Colonialism, Rent, and Gentrification
 
@@ -531,7 +531,7 @@ Glen Coulthard
 
 Daniela Aiello
 
-4:30 â€“ 6:00 pm â€“ panel
+4:30 – 6:00 pm – panel
 
 Renting, Squatting and Occupying Space
 
@@ -547,7 +547,7 @@ with Carly Ramsey supplying pamphlets on squatting
 
 @ INSTANT COFFEE
 
-7:30 â€“ 11:00 pm â€“ exhibition, poetry reading, party
+7:30 – 11:00 pm – exhibition, poetry reading, party
 
 Open poetry reading (various authors)
 
@@ -557,7 +557,7 @@ mynameisscot â€œSelf Guided Walking Tourâ€  (visual slide show)
 
 @ the corridor road behind 381 Railway Street (at Dunlevy Avenue)
 
-9:30 â€“ 10:00 pm â€“ performance
+9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
 â€œDISLODGEâ€  part 2
@@ -566,7 +566,7 @@ Artworks and Activities Ongoing Throughout the Assembly:
 
 Sarah Moore â€œMapping Rent Cityâ€  @DOGWOOD (mapping project)
 
-Carly Ramsey and BeshÃ©le Caron â€œWe live under patriarchyâ€™s roof: rent 
+Carly Ramsey and Beshéle Caron “We live under patriarchy’s roof: rent 
 and housing zine compilationâ€  (zine compilation)
 
 Menses/Loose Tights: THE RENT TAPE: Vancouver gentrification/ 
@@ -586,7 +586,7 @@ project)
 ------------------------------------------------------------------------
 HIGH FIRE CULTURE: Locating Leach/Hamada in West Coast Studio 
 Pottery
-Curatorâ€™s Talk with Nora Vaillant and Shelly Rosenblum: Saturday, May 
+Curator’s Talk with Nora Vaillant and Shelly Rosenblum: Saturday, May 
 25 at 4 pm
 
 Find out how West Coast potters' artistic development and practice are 
@@ -608,8 +608,8 @@ Kim Kennedy Austin: Sunny Thoughts & Busy Fingers
 May 26 - June 16, 2013
 Opening reception Saturday, May 25, 6 - 9 pm
 
-Kim Kennedy Austinâ€™s exhibition at Hardscrabble Gallery will consist of 
-12 new works on paper. These new watercolours continue Kimâ€™s 
+Kim Kennedy Austin’s exhibition at Hardscrabble Gallery will consist of 
+12 new works on paper. These new watercolours continue Kim’s 
 mixing of language and mark making, veering off the dusty road of 
 vintage paperbacks and onto the rabbit trail of formal, pithy aphorisms, 
 held in painted oval doilies with scalloped edges.
@@ -619,7 +619,7 @@ expands on the serial logic of maxims sourced from popular culture,
 traditionalist sects, youth literature and film. Works titled Hands to Work 
 & Heart to God, Fight Flight Avoidance Submission and Gym Tan 
 Laundry reflect the truths and rules of conduct expressed through 
-Shaker handiwork, Caesar Milanâ€™s dog whispering and the ethics of 
+Shaker handiwork, Caesar Milan’s dog whispering and the ethics of 
 Jersey Shore.
 
 Since receiving her BFA from the Emily Carr Institute in 2001, Kim 
@@ -642,20 +642,20 @@ V7M 3G9
 Gallery Hours: Weds-Sun 12pm-5pm
 604 986 1351
 
-Presentation House Gallery invites you to a Curatorâ€™s Tour on Saturday 
+Presentation House Gallery invites you to a Curator’s Tour on Saturday 
 May 25, 1:00 PM
 
 Join guest curator, Babak Golkar for an intimate tour of the exhibition 
-Friendship of Nations: Polish Shiâ€™ite Showbiz and a discussion around 
+Friendship of Nations: Polish Shi’ite Showbiz and a discussion around 
 the works of artist collective Slavs and Tatars.
 
 About the exhibition:
 
-Friendship of Nations: Polish Shiâ€™ite Showbiz traces a shared 
+Friendship of Nations: Polish Shi’ite Showbiz traces a shared 
 genealogy between Iran and Poland. Beginning as an investigation into 
 the Iranian Revolution of 1979 and the Solidarność movement of 1980 
-â€“ two key moments that bookend the stories of twenty-first century 
-Islamic modernity and twentieth-century communism, respectively â€“ 
+– two key moments that bookend the stories of twenty-first century 
+Islamic modernity and twentieth-century communism, respectively – 
 the project draws on research that stretches from the seventeenth-
 century Sarmatism of the Polish nobility, to the recent Green 
 movement in Iran. Channeling the folklore and artisanal crafts of both 
@@ -681,11 +681,11 @@ Biennials and Museum of Modern Art, New York.
 ------------------------------------------------------------------------
 Upcoming League play: Sunday 26 May
 
-For the next League play date on Sunday 26 May, youâ€™re asked to 
+For the next League play date on Sunday 26 May, you’re asked to 
 B.Y.O.B: Bring Your Own Bocce.
 
-Bocce, PÃ©tanque , Bowls and Bowling, Curling, Golf, Croquet, Marbles 
-â€” all are games of precision and strategic positioning. Each uses 
+Bocce, Pétanque , Bowls and Bowling, Curling, Golf, Croquet, Marbles 
+— all are games of precision and strategic positioning. Each uses 
 objects and settings that have peculiar characteristics to be tamed and 
 mastered. Imagine any of these games played using objects with quite 
 different tendencies: softness, size, bounciness, fragility or lightness, 
@@ -697,7 +697,7 @@ objects.
 This League play day will unfold in two locations:
 
 11:00am-1:00pm special appearance at Memorial Park West, for 
-Dunbarâ€™s Salmonberry Days Festival (map: http://goo.gl/maps/BOsy3) 
+Dunbar’s Salmonberry Days Festival (map: http://goo.gl/maps/BOsy3) 
 1:00-3:00pm at our regular location, Elm Park in Kerrisdale (map: 
 http://goo.gl/maps/Qh8M4).
 
@@ -730,7 +730,7 @@ Germaine Koh, league@germainekoh.com.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-05-23-12-pacific-cinmathque-luke-fowler-all-divided-selves-may-27">12. Pacific CinÃ©mathÃ¨que | Luke Fowler: All Divided Selves | MAY 27</a>
+<a href="/instant-coffee/listings/2013-05-23-12-pacific-cinmathque-luke-fowler-all-divided-selves-may-27">12. Pacific Cinémathèque | Luke Fowler: All Divided Selves | MAY 27</a>
 ------------------------------------------------------------------------
 DIM Cinema at the Pacific Cinematheque
 Luke Fowler: All Divided Selves
@@ -738,33 +738,33 @@ Monday May 27, 2013 - 6:30pm + 8:30pm (Double Bill)
 1131 Howe St. Vancouver 
 http://www.dimcinema.ca / http://www.thecinematheque.ca
 
-â€œHis work is unashamedly polemical, but the polemic is in favour of the 
+“His work is unashamedly polemical, but the polemic is in favour of the 
 proposition that the same discontinuities, paradoxes and breakdowns 
 in communication that are at issue in cinema are also at work in our 
 mediated lives" - Will Bradley
 
-Luke Fowler was introduced to Scottish psychiatrist, R.D. Laingâ€™s 
+Luke Fowler was introduced to Scottish psychiatrist, R.D. Laing’s 
 Kingsley Hall experiment (1965-1970) while he was working on his own 
 series of social and psychological experiments called The Social 
-Engineer (1999). Fowlerâ€™s interest in Laingâ€™s practice, and the 
+Engineer (1999). Fowler’s interest in Laing’s practice, and the 
 documentation of Kingsley Hall, evolved into the film What You See Is 
 Where Youâ€™re At (2001). Laingâ€™s hypotheses on the â€œdouble bindâ€ , the 
 family nexus, and ontological security in books such as The Divided 
-Self (1960) and The Politics of Experience (1967) shaped Fowlerâ€™s own 
+Self (1960) and The Politics of Experience (1967) shaped Fowler’s own 
 concerns with family, community, and collaborative formation; self and 
 social representation and perception; and truth and authority. Fowler 
 takes formal influence on these matters from structuralist film, the 
 Situationists, the Free Cinema Movement, and free improvisation. All of 
-these elements fold into Fowlerâ€™s poly-rhythmic compositions of sound 
-and images â€” formal experiments in tune with divided selves.
+these elements fold into Fowler’s poly-rhythmic compositions of sound 
+and images — formal experiments in tune with divided selves.
 
 The Way Out profiles Xentos â€œFray Bentosâ€  Jones, one of the founding 
 members of the post-punk band The Homosexuals. Pilgrimage from 
 Scattered Points reflects on the English composer Cornelius Cardew 
 (1936-1981) and The Scratch Orchestra (1968-73). Bogman 
-Palmjaguar is a portrait of man who takes refuge in Scotlandâ€™s remote 
+Palmjaguar is a portrait of man who takes refuge in Scotland’s remote 
 bog lands, as his only asylum against medical incarceration. All Divided 
-Selves is an expanded collage of R.D. Laingâ€™s life and practice.
+Selves is an expanded collage of R.D. Laing’s life and practice.
 
 Luke Fowler (b. 1978) is an artist, filmmaker, and musician based in 
 Glasgow. He has performed with experimental groups Lied Music and 
@@ -784,7 +784,7 @@ Colour, video. 30 mins.
 8:30pm
 All Divided Selves | Great Britain 2011. Colour, video, 90 mins.
 
-Pacific CinÃ©mathÃ¨que
+Pacific Cinémathèque
 thecinematheque.ca
 dimcinema.ca
 
@@ -801,8 +801,8 @@ Through considering the role of props in her filmmaking process, artist
 Margaret Haines presents a series of short stories titled Prop Talk: 
 What's Real? about the creative production of artist DKNY. Tor Haines, 
 the artist's father, responds to these stories, drawing from his own 
-philosophical text, titled simply â€˜Propsâ€™. Both texts contemplate how 
-â€˜propâ€™ is looking for semantic focus. Together and through a scripted 
+philosophical text, titled simply ‘Props’. Both texts contemplate how 
+‘prop’ is looking for semantic focus. Together and through a scripted 
 play, Margaret and her father reflect and debate upon the possibility of 
 mimesis in fiction, cultural reference as calcified identity, the crisis of 
 the object, digital props, and the death (rebirth) of art.
@@ -848,14 +848,14 @@ part will be performed as part of a whole, to take place in September
 
 According to Mark Epstein, from the Buddhist perspective the 
 acceptance of the Whole as broken is the character of a realized 
-being. There is a time in every artistâ€™s career where they feel like they 
+being. There is a time in every artist’s career where they feel like they 
 must know everything about the history of art in order to start making 
 it. For filmmakers this is the time when they attempt to watch every 
 movie ever made. At first, this pursuit seems possible but sooner or 
 later the relentless amount of the material overwhelms us. For a 
 moment there is despair at this great defeat. But then, the moment of 
-freedom occurs when you realize that itâ€™s impossible know everything 
-and this didnâ€™t stop the artists throughout history from making their 
+freedom occurs when you realize that it’s impossible know everything 
+and this didn’t stop the artists throughout history from making their 
 work.
 
 How does this leap occur? In psychoanalysis it is through the 
@@ -865,7 +865,7 @@ analysand with an enigmatic desire that keeps the analysand working,
 trying to discover what the analyst wants from him, they sooner or later 
 realize that the desire can never be fulfilled and that they must be 
 responsible for choosing their own course. This is the potential role of 
-a teacher (or curator?) in art: to allow the artistsâ€™s own unique truth to 
+a teacher (or curator?) in art: to allow the artists’s own unique truth to 
 emerge that is absolutely different from their own.
 
 Isnâ€™t it this ability to â€œsuspend the critical faculty,â€  as recommended by 
@@ -896,7 +896,7 @@ May 31- June 29 2013
 Rebecca Brewer
 Vanessa Disler
 Tiziana La Melia
-Marie- HÃ©lÃ¨ne Tessier
+Marie- Hélène Tessier
 Elizabeth Zvonar
 
 Curated by Amy Kazymerchyk
@@ -933,7 +933,7 @@ photographers and artists who imagine beyond their means, to GET
 INTO BED by/on ... JUNE 1, 2013!
 
 CALL FOR SUBMISSIONS for our second PRINT ISSUE issue 
-featuring the theme of MÃ©nage Ã  Trois...
+featuring the theme of Ménage à Trois...
 
 One, two, three
 (une, deux, trois)
@@ -943,7 +943,7 @@ Do you like the taste
 of your warm, carnal sandwich?
 One, two, three
 share and indulge in our hot and delightful bed,
-your MÃ©nage Ã  trois!
+your Ménage à trois!
 
 www.inmybedmagazine.com for submission guidelines.
 
@@ -952,7 +952,7 @@ www.inmybedmagazine.com for submission guidelines.
 ------------------------------------------------------------------------
 On Main Gallery launches OMG Art Bar June 1, 2013
 
-We kick off summer-fun-in-the-city with the OMG Art Bar â€“ the new 
+We kick off summer-fun-in-the-city with the OMG Art Bar – the new 
 hang out on Main Street. The OMG Art Bar will be open the first 
 Saturday of every month and at random. Art Bar will feature guest 
 artists, surprising visual projections, late night dance beats with 
@@ -961,19 +961,19 @@ smartphones and their owners, all recording devices welcome.
 
 On June 1 join us to celebrate the arrival of The Arrival Agency. This 
 new venture is from our good friends, formerly the Waldorf Production 
-Team. Arrival is Vancouverâ€™s hot new creative + events agency with a 
+Team. Arrival is Vancouver’s hot new creative + events agency with a 
 mission to create cultural experiences that are exceptional and fun. 
 WOW, in July they are kicking ass by programming the Khatsahlano 
 Music + Art Festival July 13, Fuse at the Vancouver Art Gallery July 19 
 and Black Flag July 20! This fall they will re-imagine the legendary Fox 
 Cinema into a cool music venue for Main Street.
 
-Please join Arrival Agencyâ€™s Tom Anselmi, Ernesto Gomez, Danny 
-Fazio and DJâ€™s: Cherchez La Femme, Mandy Lyn and The Amigos for 
+Please join Arrival Agency’s Tom Anselmi, Ernesto Gomez, Danny 
+Fazio and DJ’s: Cherchez La Femme, Mandy Lyn and The Amigos for 
 an evening of sound and visuals. Event hosted by Paul Wong, c u 
 there.
 
-Hours: 10pm â€“ 3am
+Hours: 10pm – 3am
 
 OMG
 1965 Main St.
@@ -986,7 +986,7 @@ Join the facebook event, or follow us on facebook, twitter
 Stay tuned for OMG Social Media Artzones:
 Car Free Main Street, June 16.
 Khatsahlano Music + Arts Festival, July 13.
-Copyright Â© 2013 ON MAIN, All rights reserved.
+Copyright © 2013 ON MAIN, All rights reserved.
 You are receiving this email because you have subscribed to the ON 
 MAIN mailing list.
 
@@ -1004,14 +1004,14 @@ take place on Saturday June 1st 9:30am-5:30pm and Sunday June
 2nd, 2013 11am to 1:45pm at SFU Goldcorp Centre for the Arts 149 
 West Hastings in Vancouver, BC.
 
-This year's LaConference title is â€œSixty years after Lacan: On the 
+This year's LaConference title is “Sixty years after Lacan: On the 
 Symbolic Order in the Twenty-First Centuryâ€  and gravitates around 
 Lacanâ€™s â€œRome Discourse,â€  formally known as â€œThe Function and Field 
 of Speech and Language in Psychoanalysisâ€  (1953) where Lacan 
 proposed a return to the primacy of speech and language as the 
 fundamental and irreducible concern of psychoanalysis. In this 
 fashion, he restated the importance of the Symbolic in the emergence 
-of the subjectâ€™s truth.
+of the subject’s truth.
 
 This conference will explore the status of the Symbolic in contemporary 
 discursive practices and ask, how have the terms comprising Symbolic 
@@ -1027,8 +1027,8 @@ Crystal Tongue curated by Amy Kazymerchyk
 Reception with cash bar
 
 Saturday June 1st 8-9:30pm
-Dr. Paul Verhaeghe on Louis Bourgeoisâ€™ Diaries at The Western Front 
-as a part of Scrivenerâ€™s Monthly
+Dr. Paul Verhaeghe on Louis Bourgeois’ Diaries at The Western Front 
+as a part of Scrivener’s Monthly
 Reception with cash bar to follow.
 
 Sunday June 2nd 4.00-6.00pm
@@ -1048,7 +1048,7 @@ http://www.lacansalon.com/laconference-2013/registration
 Bring film making to the farmyard May 31st - June 2nd, 2013
 
 Announcing the first Film On The Farm 48 Hour challenge! North 
-Vancouverâ€™s Maplewood Farm is opening its doors to creative 
+Vancouver’s Maplewood Farm is opening its doors to creative 
 filmmakers who think they have what it takes to write, shoot and edit a 
 10 minute movie in just one weekend!
 
@@ -1091,7 +1091,7 @@ Public Dreams (141-2050 Scotia St.)
 June 15: FINAL EVENT Unlearning Procession, 9am-9pm, route TBA 
 (with breaks & meeting points along the way)
 
-WHO: everyone looking to explore Unlearning throughâ€¦
+WHO: everyone looking to explore Unlearning through…
 movement, song, shared experience, magic, ritual, ceremony, social 
 change, perception, capitalist critique, embodiment, other ways of 
 knowing, metaphysics, connecting to nature, walking, performance art, 
@@ -1104,17 +1104,17 @@ http://publicdreams.org/
 
 *contact us for details: unlearningweekenders@gmail.com
 
-A project by the Goethe-Institut, Curated by Catherine Grau & ZoÃ« 
+A project by the Goethe-Institut, Curated by Catherine Grau & Zoë 
 Kreye in cooperation with: Dance Troupe Practice, Windsor House 
 School, Pacific Spirit Independent School, Public Dreams and Revised 
 Projects 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-05-23-21-eye-level-gallery-job-posting-director-of-eye-level-gallery-">21. Eye Level Gallery | Job Posting â€“ Director of Eye Level Gallery | JUN 3</a>
+<a href="/instant-coffee/listings/2013-05-23-21-eye-level-gallery-job-posting-director-of-eye-level-gallery-">21. Eye Level Gallery | Job Posting – Director of Eye Level Gallery | JUN 3</a>
 ------------------------------------------------------------------------
 2159 Gottingen Street, Halifax, Nova Scotia
 
-Job Posting â€“ Director of Eye Level Gallery
+Job Posting – Director of Eye Level Gallery
 
 Eyelevel Gallery in Halifax, Nova Scotia is a not-for-profit charitable 
 organization dedicated to the presentation, development and 
@@ -1133,9 +1133,9 @@ Position Summary
 
 The Director at Eyelevel Gallery is responsible for the day to day 
 operation and management of the gallery. The Director works in 
-consultation with and reports to the galleryâ€™s Board of Directors. In 
+consultation with and reports to the gallery’s Board of Directors. In 
 managing various gallery activities, the Director must interface with the 
-Board of Directors, the community, and the galleryâ€™s volunteer network. 
+Board of Directors, the community, and the gallery’s volunteer network. 
 The Director position also carries the responsibility of being the public 
 face of the gallery.
 
@@ -1302,7 +1302,7 @@ the day will include panel discussions with curators and a book launch,
 John Koerner: Drawings and Observations. The artist will be in 
 attendance, we hope you can make it. 
 
-Please donâ€™t hesitate to contact me for more information or access to a 
+Please don’t hesitate to contact me for more information or access to a 
 high-resolution image.
 
 Burnaby Art Gallery
@@ -1342,7 +1342,7 @@ but the work must speak to our mandate in specific and interesting
 ways. Our programming features a range of art practices from 
 contemporary to outsider, and a diversity of mediums: photography, 
 video, performance art, drawing, 3D, installation, ceramics, textiles and 
-more. For more information on Gachetâ€™s vision and Basis of Unity, 
+more. For more information on Gachet’s vision and Basis of Unity, 
 please see http://gachet.org/about.
 
 We accept proposals for solo, group, juried, curated, or major 
@@ -1352,14 +1352,14 @@ openings, catering, marketing, A/V equipment, and installation.
 
 Please include in your submission package:
 
-Visual work: 10 â€“ 20 images (slides or digital images on CD or DVD) 
+Visual work: 10 – 20 images (slides or digital images on CD or DVD) 
 clearly identified with name, number, title, dimensions, and a 
 numbered slide list.
 
 Performance work: a short video that typifies your work.
 
 A written proposal stating a well-thought out theme for the exhibition 
-(250 â€“ 500 words,) explaining what you wish to do and any special 
+(250 – 500 words,) explaining what you wish to do and any special 
 requirements.
 
 A C.V. or biography, charting your education and exhibitions history.
@@ -1373,7 +1373,7 @@ accepted submissions until the exhibition.
 Please e-mail submissions to Lara Fitzgerald, 
 programming@gachet.org, or drop off clearly labelled packages to 
 â€œGallery Gachet Annual Submissionsâ€  during gallery open hours, Weds 
-â€“ Sun 12 â€“ 6pm.
+– Sun 12 – 6pm.
 
 
 ------------------------------------------------------------------------
@@ -1400,7 +1400,7 @@ guests still to be announced.
 There will be a bbq, games, activities for kids by Collage Collage and 
 much more. Come celebrate with us!
 
-ESTABLISHED IN 1973, Western Front is one of Canadaâ€™s leading 
+ESTABLISHED IN 1973, Western Front is one of Canada’s leading 
 centres for contemporary art and new music. We produce and present 
 visual art exhibitions, new music concerts and workshops, media-art 
 residencies, performance art and other artist-driven initiatives. Through 
@@ -1416,7 +1416,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. admin@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 
 
@@ -1508,7 +1508,7 @@ You are invited to participate in:
 
 Memory: International Mail Art Exhibition and Swap
 
-Exhibition: November 17, 2013 â€“ January 6, 2014
+Exhibition: November 17, 2013 – January 6, 2014
 
 Opening Reception: November 16, 2013 from 3:00-5:00pm
 
@@ -1536,11 +1536,11 @@ V6Y 1R9
 Canada
 
 All artworks received that fulfill the guidelines will be exhibited in the 
-Gallery and online. All artworks will be traded with another artistâ€™s 
+Gallery and online. All artworks will be traded with another artist’s 
 works at the end of the exhibition.
 
 Artists from all over the world are invited to contribute their work for the 
-Richmond Art Galleryâ€™s International Mail Art Exhibition and Swap. Mail 
+Richmond Art Gallery’s International Mail Art Exhibition and Swap. Mail 
 Art (aka Postal Art) is an art form where artists exchange artworks and 
 correspondence through the mail.
 
@@ -1565,21 +1565,21 @@ Participation Guidelines:
 â€¢ Artists can send up to three artworks sized 4â€  x 6â€  (10.2 x 15.3 cm) as 
 a postcard.
 
-â€¢ Artworks must be sent through the postal system or hand-delivered. 
+• Artworks must be sent through the postal system or hand-delivered. 
 No online entries.
 
-â€¢ ORIGINAL art works only (no photocopies).
+• ORIGINAL art works only (no photocopies).
 
-â€¢ All artworks will be traded at the end of the exhibition, and you will 
-receive a â€˜swapâ€™.
+• All artworks will be traded at the end of the exhibition, and you will 
+receive a ‘swap’.
 
-â€¢ All artworks will be displayed on our online gallery for one year. Your 
+• All artworks will be displayed on our online gallery for one year. Your 
 entry into this exhibition signifies that you agree to the swap and 
 having your work displayed online.
 
-â€¢ Include on the back of your submission: Full name, Address, Country, 
+• Include on the back of your submission: Full name, Address, Country, 
 and E-mail address, so that you can receive a trade as well as updates 
-on the exhibition. Optional â€“ Medium and title of work.
+on the exhibition. Optional – Medium and title of work.
 
 Content stipulations: The Richmond Art Gallery offers a variety of 
 public programs for participants of all ages, and as such we will not 

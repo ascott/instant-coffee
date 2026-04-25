@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 16
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Mad Pride | Mad Honey | 6PM | JUN 14"
 ---
 

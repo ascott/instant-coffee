@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 15
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Incredible Machines: a conference | MAR 7"
 ---
 
@@ -14,14 +15,14 @@ Goldcorp Centre for the Arts
 149 W Hastings St. Vancouver, BC
 
 Friday March 7, 6:00-9:30 PM.
-Saturday March 8: 10:00 AM â€“ 6:30 PM.
+Saturday March 8: 10:00 AM – 6:30 PM.
 www.incrediblemachines.info (http://incrediblemachines.info)
 In conjunction with Access Gallery (http://accessgallery.ca/), the independent 
 curator Mohammad Salemy presents Incredible Machines, a conference 
 addressing different aspects of the expanding role of networked computers 
 and digital processes in the production of knowledge.
 ++++
-A spectre is haunting the space of knowledge â€” the spectre of 
+A spectre is haunting the space of knowledge — the spectre of 
 telecomputation. Unlike the modern age when scientific authority and the idea 
 of objectivity were typically embodied in concrete objects like atlases, 
 encyclopedias, books and photographs, the materiality and credibility of 
@@ -36,9 +37,9 @@ statistically driven and object-oriented form of structural positivism has
 emerged as the dominant condition for the production and dissemination of 
 knowledge. 
 Starting first in the natural and social sciences and later in the humanities, the 
-â€˜digital turnâ€™ has recently begun to reshape how artists look at the world, 
+‘digital turn’ has recently begun to reshape how artists look at the world, 
 conceive of their practices and connect with audiences. Incredible Machines 
-probes the ramifications of knowledge productionâ€™s dependence on 
+probes the ramifications of knowledge production’s dependence on 
 machines, mechanical thinking and telecomputation as well as the theoretical 
 and practical entanglement of technological apparatuses with aesthetic 
 theory and art practices.
@@ -62,7 +63,7 @@ Respondents:
 Ali Ahadi, Morehshin Allahyari, Julieta Aranda, Amanda Beech, Samuel 
 Forsythe, Kate Henderson, Gelare Khoshgozaran, Deneb Kozikoski, Nick 
 Land, Jason LaRiviere, Matteo Pasquinelli, Judith Rodenbeck, Brian Rogers, 
-Nooshin Rostami, Rory Rowan, Martha Schwendener, Robin Simpson, Tâ€™ai 
+Nooshin Rostami, Rory Rowan, Martha Schwendener, Robin Simpson, T’ai 
 Smith, Kate Steinmann, Jayne Wilkinson
 
 In addition to physical attendance, those interested in participating in the 
@@ -81,14 +82,14 @@ https://docs.google.com/forms/d/1NtLYo6Lrif4YmqsXEQginvlJNQm1V4Uow3
 AnOt3eg1k/viewform
 The Incredible Machines conference marks the second phase of a multi-part 
 curatorial project by the independent curator Mohammad Salemy, which 
-began in September 2013 with an exhibition at Vancouverâ€™s Access Gallery, 
+began in September 2013 with an exhibition at Vancouver’s Access Gallery, 
 where he is currently curator-in-residence. The exhibition, Encyclonospace 
 Iranica (http://encyclonospace.com), showcased works by nine Iranian 
 artists who responded to the relationship between telecomputation and 
 knowledge production proposed by the Iranian philosopher Reza Negarestani. 
 Incredible Machines is generously sponsored by the Canada Council for the 
 Arts (http://www.canadacouncil.ca/), with additional support from the 
-University of British Columbiaâ€™s Department of Art History, Visual Art and 
+University of British Columbia’s Department of Art History, Visual Art and 
 Theory (http://www.ahva.ubc.ca/), Simon Fraser University [Vancity Office 
 of Community Engagement (http://sfuwoodwards.ca/index.php/community), 
 the Institute for the Humanities (http://www.sfu.ca/humanities-institute/), 

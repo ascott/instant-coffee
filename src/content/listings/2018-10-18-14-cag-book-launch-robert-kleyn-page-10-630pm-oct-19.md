@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 14
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Book Launch | Robert Kleyn: Page 10 | 630PM | OCT 19"
 ---
 

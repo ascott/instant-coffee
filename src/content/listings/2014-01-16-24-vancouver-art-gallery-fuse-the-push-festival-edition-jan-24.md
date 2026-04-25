@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 24
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | FUSE: The PuSh Festival Edition | JAN 24"
 ---
 
 Celebrate the Experimental, the Spectacular and the Intimate!
 FUSE: The PuSh Festival Edition Unites Visual and Performing Arts
-at the Vancouver Art Gallery, January 24, 2014, 8 pm â€“ 1 am
+at the Vancouver Art Gallery, January 24, 2014, 8 pm – 1 am
 
-January 14, 2014, Vancouver, BC â€“ The Vancouver Art Gallery and the PuSh 
+January 14, 2014, Vancouver, BC – The Vancouver Art Gallery and the PuSh 
 International Performing Arts Festival are joining forces to co-present a 
-special edition of Vancouverâ€™s favourite art party FUSE. On the evening of 
+special edition of Vancouver’s favourite art party FUSE. On the evening of 
 January 24, the Gallery will once again transform itself into a hub of the 
 hottest experimental art and live performances.
 
@@ -27,7 +28,7 @@ with local favourites and international guests, including:
 
 UK-based PuSh visiting artists duo Forest Fringe collaborate with the gallery 
 to create an â€œIncidental Festivalâ€  of works in unexpected places
-Vancouverâ€™s favourite Dusty Flowerpot Cabaret hosts a lavish costume-
+Vancouver’s favourite Dusty Flowerpot Cabaret hosts a lavish costume-
 themed party in the heritage courtrooms.
 British artist and writer Tim Etchells presents a unique poster project.
 Radix theatre gives useful lessons on how to survive an apocalypse.
@@ -36,9 +37,9 @@ composition that moves around the Gallery space.
 Anita Rochon and Emelia Fedy from The Chop Theatre want to give out some 
 very good advice.
 Vancouver-based 605 Collective dance group roams around in the gallery, 
-performing excerpts from Inheritor Album, their repertoire at this yearâ€™s PuSh 
+performing excerpts from Inheritor Album, their repertoire at this year’s PuSh 
 Festival.
-Cris Derksenâ€™s experimental hip-hop cello performance delights the crowd 
+Cris Derksen’s experimental hip-hop cello performance delights the crowd 
 every time.
 This eccentric mix of programs unites the experimental, the spectacular and 
 the intimate. It is a true celebration of creativity in the midst of the darkness of 
@@ -50,14 +51,14 @@ Emily Carr: Deep Forest, Charles Edenshaw, KIMSOOJA Unfolding, Muntadas:
 Entre/Between, James Hart: The Dance Screen (The Scream Too), and Emily 
 Carr in Haida Gwaii.
 
-About FUSE: Since its inception in July 2005, thousands of FUSEâ€“goers have 
+About FUSE: Since its inception in July 2005, thousands of FUSE–goers have 
 converged at the Gallery for this unique adult event. Live performances and 
 music in the Gallery spaces, DJs, eclectic Gallery tours, contemporary dance 
 and unexpected surprises have made FUSE Vancouver's favourite art party -
---a place to seeâ€“andâ€“beâ€“seen.
+--a place to see–and–be–seen.
 
 About PuSh: The PuSh International Performing Arts Festival is one of 
-Vancouverâ€™s signature events. Produced over three weeks each January, 
+Vancouver’s signature events. Produced over three weeks each January, 
 the PuSh Festival presents groundbreaking work in the live performing arts. 
 The Festival showcases acclaimed international, Canadian and local artists 
 and mixes them together with an alchemy that inspires audiences, 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Draw a Blank"
 emailDate: "Tue, 05 Aug 2025 21:15:15 -0700"
 number: 15
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | submissions for photography based artwork | SEP 15"
 ---
 

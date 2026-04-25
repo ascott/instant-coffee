@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Picnic for a N(n)ervous System | JUL 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 15
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Erin Shirreff and Nancy Holt | APR 18"
 ---
 
@@ -20,12 +21,12 @@ Erin Shirreff
 Pictures
 April 19 to June 16, 2013
 
-Erin Shirreffâ€™s solo exhibition at the Contemporary Art Gallery is the first 
-presentation dedicated exclusively to the artistâ€™s film and video work. 
+Erin Shirreff’s solo exhibition at the Contemporary Art Gallery is the first 
+presentation dedicated exclusively to the artist’s film and video work. 
 Shirreff is most known for reproducing sculpture as images or making 
 sculpture that distils the essence of a photograph, playing these two 
 elements against one another as a means to prompt and test the 
-viewerâ€™s response.
+viewer’s response.
 
 Each of the four works in the exhibition begin with a picture that is then 
 altered in some manner: given three dimensional form, or subjected to 
@@ -35,10 +36,10 @@ Sculpture Park (Tony Smith), tracking of a static shot. Many of the
 videos have a central feature, focusing on a building, sculpture or 
 landscape. A recent work Lake is an image of Lake Okanagan in B.C. 
 where Shirreff grew up and her family still lives. The image is from an 
-early â€™80s tourism magazine and has a hand painted quality. For this 
+early ’80s tourism magazine and has a hand painted quality. For this 
 work Shirreff altered the original image, creating variations with subtle 
 shifts in colour, which she re-photographed and sequenced in a 
-manner that both holds and changes the viewerâ€™s attention. Whether it 
+manner that both holds and changes the viewer’s attention. Whether it 
 is a photograph of Lake Okanagan, a Medardo Rosso sculpture from 
 1896, Tony Smith sculptures or the United Nations Building in New 
 York, the thing or scene being represented loses its central focus as 
@@ -47,7 +48,7 @@ and our encounter with it.
 
 The exhibition is presented in collaboration with Carleton University Art 
 Gallery and Agnes Etherington Art Centre, collectively marking the first 
-comprehensive exhibition of Shirreffâ€™s work in Canada. Each venue 
+comprehensive exhibition of Shirreff’s work in Canada. Each venue 
 presented unique exhibitions, drawing out varied strands in her rich 
 body of work, and have come together to produce her first monograph. 
 The publication features essays by Sandra Dyck and Jan Allen and an 
@@ -77,7 +78,7 @@ of our planet Earth and its annual orbit around the sun. Photography
 has always played a central role within her work, both as a way of 
 engaging with the landscape and as a way of documenting site-specific 
 projects. This exhibition comprises major photographic pieces which 
-reveal Holtâ€™s ongoing sensibilities regarding framing, viewing and 
+reveal Holt’s ongoing sensibilities regarding framing, viewing and 
 picturing through apertures, openings and other structures, including 
 early work such as Concrete Visions (1967) the important Bar None 
 (1967) made with the artist Robert Smithson; a series of photographs 
@@ -89,7 +90,7 @@ Vancouver itself could not be a more appropriate location for this
 exhibition, the city renowned for its setting within magnificent natural 
 surroundings, the ongoing photographic legacies of image-making 
 within international visual arts practice, and for also being the site of 
-the seminal Glue Pour (1970) by Smithson, Holtâ€™s late husband.
+the seminal Glue Pour (1970) by Smithson, Holt’s late husband.
 
 Nancy Holt was born in Worcester, Massachusetts in 1938 and 
 currently lives and works in Galisteo, New Mexico. She has received 
@@ -98,21 +99,21 @@ Creative Artist Fellowships, a Guggenheim Fellowship and an
 Honorary Doctorate from the University of South Florida, Tampa. Holt 
 has produced site-specific environmental works in numerous public 
 places around the world she has also completed large-scale land 
-reclamation projects and Holtâ€™s films and videos, have been seen in 
+reclamation projects and Holt’s films and videos, have been seen in 
 exhibitions at major institutions internationally including the The New 
 Museum of Contemporary Art, New York; The Whitney Museum of 
 American Art, New York; The Museum of Modern Art, New York; 
 Museum of Contemporary Art, Los Angeles; Tampere Art Museum and 
-Museum of Contemporary Art, Finland; MusÃ©e dâ€™Art Moderne de la 
+Museum of Contemporary Art, Finland; Musée d’Art Moderne de la 
 Ville de Paris; Tate Modern, London; Barbican Centre, London; 
-SFMoMA, San Francisco; Museo Tamayo Arte ContemporÃ¡neo, 
+SFMoMA, San Francisco; Museo Tamayo Arte Contemporáneo, 
 Mexico City; Dia Center for the Arts, New York, and P.S.1 MoMa 
 Contemporary Art Center, New York.
 
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening â€“ Thursday, April 18, 7-10pm at the CAG
+1) Exhibition Opening – Thursday, April 18, 7-10pm at the CAG
 Public opening and celebration of the exhibition.
 Opening reception sponsor: Kronenbourg 1664.
 
@@ -140,13 +141,13 @@ Tuesday, April 23, 7pm
 Randy Lee Cutler is an Associate Professor in the Faculty of Visual Art 
 + Material Practice at Emily Carr University. As a writer, artist and 
 educator she is invested in the emergence of new cultural forms and 
-expression. Launching from Erin Shirreffâ€™s exhibition, Cutler will share 
+expression. Launching from Erin Shirreff’s exhibition, Cutler will share 
 her research into crystals.
 Allison Collins
 Tuesday, May 21, 7 pm
 Allison Collins is a curator, writer and researcher who currently holds 
 the position of Adult Public Programs Coordinator at the Vancouver Art 
-Gallery. Prompted by both Erin Shirreff and Nancy Holtâ€™s exhibitions, 
+Gallery. Prompted by both Erin Shirreff and Nancy Holt’s exhibitions, 
 Collins will share her research into the material nature of video and 
 film.
 Marian Penner Bancroft
@@ -161,7 +162,7 @@ and more recently, video. Her current interests are the intersections of
 the photographic image with history, music and mapping strategies in 
 relation to representations of landscape.
 
-4) Free Guided Visits â€“ Saturdays, May 4, June 8, June 15 and June 
+4) Free Guided Visits – Saturdays, May 4, June 8, June 15 and June 
 22, Contemporary Art Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications 
 Coordinator , Curator Jenifer Papararo and Shaun Dacey, Curator of 
@@ -199,7 +200,7 @@ E: j.henderson@contemporaryartgallery.ca W:
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 
 6R5
-Hours: Tues â€“ Sun: 12 â€“ 6 pm. FREE ADMISSION 
+Hours: Tues – Sun: 12 – 6 pm. FREE ADMISSION 
 
 ENDS
 
@@ -213,4 +214,4 @@ residency with Raymond Boisjoly is supported by the Province of British
 Columbia through the Ministry of Advanced Education, Innovation and 
 Technology. As It Comes at Yaletown-Roundhouse Station, Canada 
 Line is presented in partnership with the Canada Line Public Art 
-Program â€” IntransitBC.
+Program — IntransitBC.

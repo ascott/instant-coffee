@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Unseeable | SEP 11"
 ---
 

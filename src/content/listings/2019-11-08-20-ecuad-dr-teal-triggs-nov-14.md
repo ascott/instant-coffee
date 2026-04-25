@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 20
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | Dr. Teal Triggs | NOV 14"
 ---
 

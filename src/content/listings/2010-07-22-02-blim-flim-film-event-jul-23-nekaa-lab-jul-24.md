@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 2
 type: ""
+venue: "BLIM"
 summary: "BLIM | FLIM (Film Event) | Jul 23 | Nekaa Lab | JUL 24"
 ---
 

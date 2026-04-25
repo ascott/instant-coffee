@@ -54,25 +54,25 @@ Satellite Gallery presents a new exhibition, The Port, that looks at points
 of contact between the maritime worker and the Port City and, by extension,
 the maritime worker's place within the urban economy.
 
-In Obscure Mooringsâ€”Matthew Buckinghamâ€™s film installation based on Herman
-Melvilleâ€™s short story Daniel Ormeâ€”a sailorâ€™s last days are spent in
+In Obscure Moorings—Matthew Buckingham’s film installation based on Herman
+Melville’s short story Daniel Orme—a sailor’s last days are spent in
 Liverpool, a once vital seaport which, like Vancouver, is being
 dramatically redefined by social and global economic change. Buckingham
-writes that without â€œusing words the pictures and sounds juxtapose
-different archetypal sites from Liverpoolâ€™s city-scape, allowing places and
+writes that without “using words the pictures and sounds juxtapose
+different archetypal sites from Liverpool’s city-scape, allowing places and
 their respective â€˜pastsâ€™ to resonate with and contradict each other.â€  The
 wave of change that impacts inhabitants of most port cities is akin to the
 drastic change that befalls Daniel Orme as he transitions from sea to land.
 This wave of change is physically manifested by Buckingham as the platform
 on which viewers sit when watching his film. An impressive curvilinear
-wave, the platform fills the Satelliteâ€™s largest exhibition space.
+wave, the platform fills the Satellite’s largest exhibition space.
 
-Alongside Matthew Buckinghamâ€™s installation is a companion presentation of
-objects and archival materials related to Vancouverâ€™s own history as a
+Alongside Matthew Buckingham’s installation is a companion presentation of
+objects and archival materials related to Vancouver’s own history as a
 port. Social spaces within our city catering to the moral wellbeing of
 maritime workers (along with those engaged in gratifying their more venial
-needs) are representedâ€”from images of the Seamenâ€™s Institute and the
-Sailorsâ€™ Home (which later became a brothel) to the model ship that hung
+needs) are represented—from images of the Seamen’s Institute and the
+Sailors’ Home (which later became a brothel) to the model ship that hung
 for decades on the wall of the Marine Club. The conflicts between maritime
 workers and business interests are also explored, as are the ways in which
 many of the traditional functions of a port are increasingly at odds with
@@ -82,8 +82,8 @@ Mathew Buckingham is based in New York. Utilizing photography, film, video,
 audio, writing and drawing, his work questions the role that social memory
 plays in contemporary life. His projects create physical and social
 contexts that encourage viewers to question what is most familiar to them.
-Buckinghamâ€™s work has been shown extensively throughout Europe and North
-America, including exhibitions at ARC / MusÃ©e dâ€™art moderne de la Ville de
+Buckingham’s work has been shown extensively throughout Europe and North
+America, including exhibitions at ARC / Musée d’art moderne de la Ville de
 Paris, Paris; Camden Arts Centre, London; The Corcoran Gallery of Art,
 Washington DC; Hamburger Bahnhof, National Gallery, Berlin; Kunst-Werke,
 Berlin; Moderna Museet, Stockholm; Museum Moderner Kunst, Vienna; Museum of
@@ -172,7 +172,7 @@ Roses increase happiness and enjoyment
 do you think there's something here?
 _______________________________________________
 NikiKinetic 10:03 PM
-the greatest thing youâ€™ll learn is my love
+the greatest thing you’ll learn is my love
 _______________________________________________
 NatureBoy88 10:03 PM
 I have to go water my plants...ttyl
@@ -189,18 +189,18 @@ Thursday, October 2, 2014
 6-8 PM
 
 Initial Gallery is pleased to present The Never Thriving of Jugglers
-featuring recent work by Vancouver-based painter Jonathan Syme. Symeâ€™s
+featuring recent work by Vancouver-based painter Jonathan Syme. Syme’s
 latest paintings are a collision of techniques seen throughout his artistic
 practice utilized to further develop an abstract visual language. Art
 historical elements such as Modernist gestures and a Pop Art inspired
 colour palate, clash and merge with contemporary digital visual references,
 image overlay and analog colour gradients. An initially overwhelming
-mÃ©lange of optical stimulation are revealed as a careful push and pull of
+mélange of optical stimulation are revealed as a careful push and pull of
 colour and form. Oscillating between chaos and control, Syme arrives at a
-visual balance, exploring the paintingâ€™s power to transform.
+visual balance, exploring the painting’s power to transform.
 
 Jonathan Syme holds a BFA from the Alberta College of Art and Design. The
-artistâ€™s practice, primarily based in two-dimensional painting, also
+artist’s practice, primarily based in two-dimensional painting, also
 applies his technique and methodology to installation and sculpture. The
 artist has recently been exhibited at Monte Clark Gallery, WAAP, Equinox
 Gallery and Jeffery Boone Gallery.
@@ -280,7 +280,7 @@ Garry Neill Kennedy
 
 Cloudy Moment in American History
 
-October 3 â€“ November 22
+October 3 – November 22
 opening reception: Thursday October 2, 8-10pm
 Artist will be in attendance
 
@@ -298,25 +298,25 @@ subsequently developed as a wall painting for permanent exhibition at the
 National Gallery of Canada (as seen above).
 
 For this series of new works Kennedy started by excising a quarter inch
-cross-section from the VAGâ€™s layered American History Painting that, once
+cross-section from the VAG’s layered American History Painting that, once
 blown-up, exposes the stratified layers of 56 pigments. As each colour is
-named for a moment in American history, Kennedyâ€™s cross-section can be
+named for a moment in American history, Kennedy’s cross-section can be
 understood as an archeological revelation. The stratum of pigments then
 formed the basis for a series of (56) atmospheric monochromes. Minute
-snapshots are enlarged beyond the cameraâ€™s ability to picture, the
+snapshots are enlarged beyond the camera’s ability to picture, the
 subsequent blur echoing the way history dis/evolves through documentation.
 Like the shifting values of the once monochrome pigments, historical
 information is neither constant nor absolute but requires constant negotiation.
 
 A second body of work, An Eye for An Eye, produced this year with
-Vancouverâ€™s Malaspina Printmakers continues the colours used in Kennedyâ€™s
+Vancouver’s Malaspina Printmakers continues the colours used in Kennedy’s
 Ethics 101 series which are based around idioms of exchange and power
 dynamics. Kennedy terms this colour scheme â€œthe Maher Arar coloursâ€ 
 referring to the torture and detainment of this eponymous Canadian citizen
-beginning with his interception at New Yorkâ€™s Kennedy Airport in September
+beginning with his interception at New York’s Kennedy Airport in September
 2002 and his subsequent deportation to Syria under the program of
 extraordinary rendition adopted by the CIA and RCMP. The fluorescent orange
-comes from Ararâ€™s prison garments, the black from the electrical hose used
+comes from Arar’s prison garments, the black from the electrical hose used
 in his torture, and the red, yellow, and blue reference the bruises Arar
 suffered during repeated interrogations. These colours were drived from his
 website description of this ordeal. Arar was not returned to Canada until
@@ -327,10 +327,10 @@ Neill Kennedy is renowned for his contributions as a pedagogue and mentor.
 Born in St Catharines Ontario he obtained an associate degree of art from
 the Ontario College of Art, 1960, a BFA from the University of Buffalo,
 1963, and MFA at Ohio University, 1965. He was selected just two years
-later to helm Nova Scotiaâ€™s College of Art (NSCAD) where he served as
+later to helm Nova Scotia’s College of Art (NSCAD) where he served as
 President until 1990. Following the tradition of experimental education
-established by Josef Albers at Black Mountain College and Walter Gropiusâ€™s
-Bauhaus, Kennedyâ€™s NSCAD became one of North Americaâ€™s most experimental
+established by Josef Albers at Black Mountain College and Walter Gropius’s
+Bauhaus, Kennedy’s NSCAD became one of North America’s most experimental
 and influential art institutions in the world. In the recent past Kennedy
 has presented solo exhibitions at Portikus, Frankfurt; Canada Gallery and
 Printed Matter, New York; Goodwater Gallery and MOCCA, Toronto; and nearly
@@ -340,7 +340,7 @@ Gallery of Ontario and the Vancouver Art Gallery.
 
 Garry Neill Kennedy
 Cloudy Moment in American History
-October 3 â€“ November 22
+October 3 – November 22
 opening reception: Thursday October 2, 8-10pm.
 Artist will be in attendance
 
@@ -369,7 +369,7 @@ Free and open to the public, the Vancouver Art/Book Fair is the only
 international art book fair in Canada and one of only two on the West
 Coast. In 2014 the event is anticipated to attract over 1,500 visitors from
 across the Greater Vancouver Area and beyond.
-Presented by Project Space, VA/BF is a two-day festival of artistsÃ¢â‚¬â„¢
+Presented by Project Space, VA/BF is a two-day festival of artistsâ€™
 publishing featuring nearly one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 artist projects. Featured artists travel to Vancouver from across Canada
@@ -389,7 +389,7 @@ FRIDAY, OCTOBER 3
 Members Only Preview
 Open to Members of Project Space and the Vancouver Art Gallery
 Vancouver Art Gallery, Lobby & Annex, 750 Hornby St.
-Friday, October 3, 6Ã¢â‚¬â€œ8pm
+Friday, October 3, 6â€“8pm
 Memberships available at the door or http://www.projectspace.ca/memberships
 
 VA/BF Reception
@@ -432,11 +432,11 @@ Ai Weiwei: New York Photographs 1983-1993 at the Belkin Gallery. Wallace
 will lead you through the exhibit's backstory and offer insights into the
 cultural and social context of the photographs.
 
-Ai Weiwei: New York Photographs 1983â€“1993 consists of 227 black-and-white
+Ai Weiwei: New York Photographs 1983–1993 consists of 227 black-and-white
 photographs taken by Ai Weiwei during the decade that he resided in New
 York City. The photographs were personally selected by the artist from over
 10,000 negatives that are housed at Three Shadows Photography Art Center in
-Beijing and together represent a single work of artâ€”no one image is more
+Beijing and together represent a single work of art—no one image is more
 important than another.
 
 Born in 1957, Ai Weiwei grew up in China during the Cultural Revolution.
@@ -447,7 +447,7 @@ through his interactions with friends and acquaintances arriving from
 China, the meeting of new friends in New York such as Allen Ginsberg, his
 observation of rampant poverty in the East Village neighbourhood where he
 lived, and his images of political demonstrations and celebratory festivals
-taking place in New York at the time. While Ai Weiweiâ€™s intention was not
+taking place in New York at the time. While Ai Weiwei’s intention was not
 to be a documentarian, this body of work nonetheless has become a personal
 and impressionistic diary that represents a specific historical moment in a
 city that was experiencing significant social change.
@@ -463,7 +463,7 @@ China following his return there in 1993.
 This exhibition is organized in collaboration with Three Shadows
 Photography Art Center, Beijing, and Chambers Fine Art in New York and
 Beijing. It has been made possible with funding from the Canada Council for
-the Arts and the Belkin Curatorâ€™s Forum. Ai Weiwei: New York Photographs
+the Arts and the Belkin Curator’s Forum. Ai Weiwei: New York Photographs
 1983-1993 continues until November 30.
 
 Morris and Helen Belkin Art Gallery
@@ -498,7 +498,7 @@ Steffanie Ling, Charlie Satterlee and Kate Noble. Please join us for the
 launch for individually selected readings by past contributors Jabari
 Jordan-Walker, Tiziana La Melia, Steffanie Ling, Kalli Niedoba and Ellis Sam.
 
-This event is part of the Vancouver Art Book Fairâ€™s Artists' Books Week
+This event is part of the Vancouver Art Book Fair’s Artists' Books Week
 organized by Project Space
 
 www.bartlebyreview.com
@@ -563,17 +563,17 @@ Some years ago, Will Holder and Alex Waterman proposed to Robert Ashley
 that musicians and non-musicians might produce new versions of his operas,
 by way of typographical scores. The bulk of this book is a result of that
 proposal: scores for Dust (1998) and Celestial Excursions (2003). These
-operasâ€™ characters have, until now, been solely produced by and are the
+operas’ characters have, until now, been solely produced by and are the
 stories exchanged between Ashley and his â€œbandâ€  (singers Sam Ashley, Joan
 La Barbara, Thomas Buckner, and Jacqueline Humbert); in landscapes
 (technological, imaginary, acoustic, organisational, sonic, ocular)
 produced by â€œBlueâ€  Gene Tyranny, Tom Hamilton, David Moodey, Cas Boumans,
-and Mimi Johnsonâ€”the result of a thirty-year relationship. As such, any
+and Mimi Johnson—the result of a thirty-year relationship. As such, any
 â€œscoresâ€  were written for this intimate readership. It hadnâ€™t been
 considered that any one outside this â€œbandâ€  might produce this work.
 
 The scores for Dust and Celestial Excursions are preceded by a selection of
-Ashleyâ€™s work, from 1963 to 2008, drawing attention to the varying
+Ashley’s work, from 1963 to 2008, drawing attention to the varying
 relations between instruction and score, and the tones of instructional
 address. Working with these scores gave us a better sense of how each one
 produces a specific mode of decision-making, telling us what to put on the
@@ -583,7 +583,7 @@ Yes, But Is It Edible? is the fourth in a series of publications produced
 with or by Will Holder and Alex Waterman that address a musicological
 perspective on scoring speech and the role of printed matter in collective
 forms of reading and writing: Agape (Miguel Abreu Gallery, 2007); Between
-Thought and Sound (The Kitchen, 2008); The Tigerâ€™s Mind (with Beatrice
+Thought and Sound (The Kitchen, 2008); The Tiger’s Mind (with Beatrice
 Gibson; Sternberg Press, 2012).
 
 Co-presented with the Western Front, Vancouver.
@@ -595,13 +595,13 @@ ISBN: 978-1-927354-09-4
 Ships in November
 $45 + Shipping (10% off!)
 
-Â· New Documents
+· New Documents
 
-Â· www.new-documents.org
+· www.new-documents.org
 
-Â· @newdocuments
+· @newdocuments
 
-New Documents is a Vancouver and Los Angelesâ€“based art book publisher
+New Documents is a Vancouver and Los Angeles–based art book publisher
 operating in collaboration with the Projectile Publishing Society. We
 gratefully acknowledge the support of the Canada Council for the Arts and
 the British Columbia Arts Council.
@@ -623,7 +623,7 @@ www.contemporaryartgallery.ca
 contact@contemporaryartgallery.ca
 tel 604 681 2700
 
-In response to the exhibition by JÃ¼rgen Partenheimer, VEE will create a
+In response to the exhibition by Jürgen Partenheimer, VEE will create a
 special improvised performance as part of the Vancouver New Music Festival.
 Players will be scattered across the gallery rooms, as sound, light and
 colour flow throughout the building creating an abstract sonic environment.
@@ -643,7 +643,7 @@ Robert Youds was born in Burnaby holds a BFA from UVic and an MFA from York
 University and is currently a Professor of Visual Arts at University of
 Victoria.
 
-â€œSince the 1980s, Robert Youds has conducted a singular investigation of
+“Since the 1980s, Robert Youds has conducted a singular investigation of
 the material conditions of the pictorial--a path that has led him from
 paintings with cut-out apertures through stretched lines of colour made of
 strands of latex and velvet cushions bound with ropes through to his recent
@@ -730,7 +730,7 @@ British Columbia.
 ------------------------------------------------------------------------
 Justin A. Langlois | Uselessness & Antagonism: Suggestions for A New Engagement
 
-Wed, 08 Oct 2014 7:00 PM @ Goldcorp Centre for the Arts, SFU Woodwardâ€™s,
+Wed, 08 Oct 2014 7:00 PM @ Goldcorp Centre for the Arts, SFU Woodward’s,
 149 West Hasting St.
 
 There is no exchange value to something useless. It strives to impede, slow
@@ -758,7 +758,7 @@ Culture + Community at Emily Carr University of Art and Design.
 
 justinlanglois.com
 
-Presented by SFUâ€™s Vancity Office of Community Engagement.
+Presented by SFU’s Vancity Office of Community Engagement.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-10-02-14-ubc-joan-carlisle-irving-lecture-series-kaja-silverman-oct-8">14. UBC Joan Carlisle Irving Lecture Series | Kaja Silverman | OCT 8</a>
@@ -768,7 +768,7 @@ Joan Carlisle Irving Lecture Series
 Department of Art History, Visual Art & Theory, University of British Columbia
 
 Kaja Silverman
-Ã¢â‚¬Å“Unstoppable DevelopmentÃ¢â‚¬
+â€œUnstoppable Developmentâ€
 
 Wednesday, October 8, 2014
 5:30 pm Room 102 Frederic Lasserre Building
@@ -789,7 +789,7 @@ This event is free and open to the public.
 For further information please visit: www.ahva.ubc.ca
 Faculty of Arts | Department of Art History, Visual Art & Theory
 The University of British Columbia | Vancouver
-400 Ã¢â‚¬â€œ 6333 Memorial Road | Vancouver, BC Canada V6T 1Z2
+400 â€“ 6333 Memorial Road | Vancouver, BC Canada V6T 1Z2
 Phone 604 822 5650
 ahva.head@ubc.ca
 www.ahva.ubc.ca | www.facebook.com/ahva.ubc.ca
@@ -800,7 +800,7 @@ www.ahva.ubc.ca | www.facebook.com/ahva.ubc.ca
 ------------------------------------------------------------------------
 Brand New View (Vancouver)
 October 10, 2014 to January 11, 2015
-Building faÃ§ade and off-site at Yaletown-Roundhouse Station, Canada Line
+Building façade and off-site at Yaletown-Roundhouse Station, Canada Line
 
 Artist Talk: Gunilla Klingberg
 
@@ -816,10 +816,10 @@ At the Contemporary Art Gallery (555 Nelson St.)
 
 The CAG presents the first Canadian solo presentation of work by Swedish
 artist Gunilla Klingberg, two new interrelated large-scale commissions
-across the gallery faÃ§ade and off-site, both challenging and exploiting the
+across the gallery façade and off-site, both challenging and exploiting the
 opportunities presented at each location.
 
-Klingbergâ€™s practice is characterized by the intersection of received
+Klingberg’s practice is characterized by the intersection of received
 knowledge, folk beliefs, popular culture and divergent cultural activities.
 Her work draws our attention to how complicated the connections between
 these systems are, but it also plays with the things that arise in this
@@ -831,7 +831,7 @@ form a new context.
 At the gallery and the Yaletown-Roundhouse Station, two murals of seemingly
 quasi-oriental pattern appear to evoke cosmic mandalas, transforming the
 individual spaces and enveloping the viewer in light and colour, shifting
-patterns and reflections. Klingbergâ€™s work surrounds us. We are seduced,
+patterns and reflections. Klingberg’s work surrounds us. We are seduced,
 made part of a special atmosphere, immersed within the work rather than
 just looking at it. Her interest in using patterns and movement to
 manipulate our seeing, to influence our state of consciousness and our
@@ -848,18 +848,18 @@ street stores. Concepts are intertwined: while science might appropriate
 metaphors from mythologies or New-Age ideas borrow from the language of the
 natural sciences, here spirituality merges with everyday consumer culture.
 Klingberg suggests that they are analogous, that both seem to promise the
-same thing: a state in which nothing is uncomfortable or threatening â€“ the
+same thing: a state in which nothing is uncomfortable or threatening – the
 possibility of total, rapid satisfaction of our needs and desires,
 accessible to everyone. The images are so familiar that we no longer think
 about them, yet they present a subconscious influence uniting us in a
-no-manâ€™s land between the public and the private. She evokes a spirit of
+no-man’s land between the public and the private. She evokes a spirit of
 community, or of commonality, and poses questions regarding what it would
 be to have something in common.
 
 Amid the proliferation of progressively similar goods it is the small,
 meaningful differences that count. The world around us is increasingly
-transformed into a surface filled with signsâ€”computer screens, urban space,
-advertisements, the pages of newspapersâ€” the most tangible properties being
+transformed into a surface filled with signs—computer screens, urban space,
+advertisements, the pages of newspapers— the most tangible properties being
 disposability and change. It is these surfaces that concern Klingberg. Our
 urban environment, its dwindling public places increasingly invaded by
 homogenous architecture and development, the objects we own, all constitute
@@ -868,7 +868,7 @@ participation tantamount to consuming. The boundary between art and design
 is often drawn along the line of utility and usefulness. But the edge
 becomes increasingly elastic when the difference between the values of
 these forms depends not so much on their functionality as on their
-seductiveness or power of rhetorical persuasion. Thus Klingbergâ€™s work
+seductiveness or power of rhetorical persuasion. Thus Klingberg’s work
 moves further than a mere critique of brand fetishism, the lure of
 contemporary global labels, beyond just pointing things out and rejecting
 them. It poses the awkward question of whether being alternative to a
@@ -879,7 +879,7 @@ fascination with the things that surround us. Through her work we find
 ourselves in a situation in which we feel the power of images and beliefs
 being examined. We are all complicit.
 
-The exhibition is supported by Iaspis, the Swedish Arts Grants Committeeâ€™s
+The exhibition is supported by Iaspis, the Swedish Arts Grants Committee’s
 International Programme for Visual Artists.
 
 Contemporary Art Gallery
@@ -923,14 +923,14 @@ environmental destruction, territorial disputes, and resource depletion.
 This collection is confessional love, learned survival, ardent resistance,
 and unique poetry that wants to be spoken (aloud). If poetry is medicine,
 Peace in Duress is a cabinet full."
-â€“ Talonbooks, publisher.
+– Talonbooks, publisher.
 
 Multidisciplinary artist and writer, Chris Bose, presents a collection of
 non-fiction poems entitled, A Moon Made of Copper.
 
 "The poems were written while touring across Canada, and they capture
-Boseâ€™s experiences meeting people, wandering different cities, and getting
-into adventures and mis-adventures. This is Boseâ€™s second book since Stone
+Bose’s experiences meeting people, wandering different cities, and getting
+into adventures and mis-adventures. This is Bose’s second book since Stone
 the Crow." -Kegedonce, publisher.
 
 You can purchase your copy of the publication at this event, the authors
@@ -951,11 +951,11 @@ Vancouver and surrounding areas. Now in its second year, the Emerging
 Curator Exhibition will highlight the vision of an aspiring curator, and
 provide the opportunity to realize an exhibition directed towards
 photographic dialogues. Our 2014 emerging curator, Avalon Mott exhibited
-â€˜Locateâ€™ which featured a body of photographic works exploring the binary
+‘Locate’ which featured a body of photographic works exploring the binary
 notions of transience and permanence within spaces, and the location of
 oneself during periods of transition and instability.
 
-â€œBeing presented by Gallery 295 as the inaugural Emerging Curator was truly
+“Being presented by Gallery 295 as the inaugural Emerging Curator was truly
 an honour. It was a fantastic opportunity to work through an independent
 curatorial project, while being fully supported by the fantastic team
 members behind Gallery 295. There are not many opportunities like this open
@@ -993,14 +993,14 @@ patryk@gallery295.com
 <a href="/instant-coffee/listings/2014-10-02-18-grunt-gallery-growler-birthday-bash-oct-11">18. grunt gallery | GROWLER: birthday bash! | OCT 11</a>
 ------------------------------------------------------------------------
 GROWLER: grunt gallery's birthday bash!
-Event Time: Saturday October 11th, 8pm â€“ 1am.
+Event Time: Saturday October 11th, 8pm – 1am.
 Location: The Anza Club, 3 W 8th Ave, Vancouver, BC V5Y 1M8
-Tickets: $10 â€“ available at the door.
+Tickets: $10 – available at the door.
 
 Celebrate grunt gallery's 30th anniversary at GROWLER. Arrive early to
-witness a special performance by poet Janet Rogers â€“ Mohawk writer and
+witness a special performance by poet Janet Rogers – Mohawk writer and
 Victoria's poet laureate. Ready yourself for heavy guitars, beats and
-indigenous drums and visuals with The Monster Project â€“ featuring artists
+indigenous drums and visuals with The Monster Project – featuring artists
 Chris Bose, Bracken Hanuse-Corlett and Dean Hunt. Finally, dance your way
 past midnight with a DJ set by hip-hop artist Ostwelve.
 
@@ -1126,18 +1126,18 @@ Vancouver, BC V5Y 1V4.
 ------------------------------------------------------------------------
 Field Trip
 
-Sat, 25 Oct 2014 11:00 AM â€“ 9:00 PM
+Sat, 25 Oct 2014 11:00 AM – 9:00 PM
 Meeting place: Audain Gallery, 149 West Hastings St. - 11:00am
 $10.00 buy tickets here:
 https://www.eventbrite.ca/e/field-trip-tickets-13419731779
 
-Field Trip is an invitation to explore the art that lies beyond Vancouverâ€™s
+Field Trip is an invitation to explore the art that lies beyond Vancouver’s
 borders by creating a convenient transportation option to shuttle art
 audiences to important suburban art institutions around Metro Vancouver.
 What began as an informal conversation has now become an actuality: an art
 bus that will shuttle enthusiastic gallery goers to exhibition spaces and
 communities in the region. An experience that extends beyond traversing
-from point â€˜Aâ€™ to point â€˜Bâ€™, the bus will also be a site of conversations
+from point ‘A’ to point ‘B’, the bus will also be a site of conversations
 and events related to art in the destination communities. The one day tour
 will visit the Presentation House Gallery in North Vancouver, SFU Gallery
 on Burnaby Mountain, Mallardville Cultural Appreciation Society in
@@ -1146,11 +1146,11 @@ the spring of 2015.
 
 Bus stops:
 
-â€¢ Presentation House Gallery
-â€¢ SFU Gallery
-â€¢ Maillardville Cultural Appreciation Society
-â€¢ Surrey Art Gallery
-â€¢ optional tour: SFU Surreyâ€™s SIAT Media Lab
+• Presentation House Gallery
+• SFU Gallery
+• Maillardville Cultural Appreciation Society
+• Surrey Art Gallery
+• optional tour: SFU Surrey’s SIAT Media Lab
 Please note:
 
 *please pack a snack, refreshments may be provided at some of the stops,
@@ -1171,7 +1171,7 @@ project space in Vancouver Canada. He is currently a member of both the
 Vancouver Public Art Committee and Centre A (the Vancouver International
 Centre for Contemporary Asian Art) board.
 
-Field Trip is a partnership project co-presented by SFUâ€™s Vancity Office of
+Field Trip is a partnership project co-presented by SFU’s Vancity Office of
 Community Engagement and SFU Galleries
 
 www.sfuwoodwads.ca for more info
@@ -1220,7 +1220,7 @@ www.burnabyartscouncil.org
 
 Unsolicited Proposal Program
 
-Applications open: October 1â€“November 1, 2014
+Applications open: October 1–November 1, 2014
 
 apexart
 291 Church Street
@@ -1230,17 +1230,17 @@ www.apexart.org
 apexart opens our 18th season of the Unsolicited Proposal Program, which
 uses democratic processes to determine our upcoming exhibition season.
 
-â€“ Submit a proposal for an idea-driven group exhibition.
+– Submit a proposal for an idea-driven group exhibition.
 
-â€“ Submissions consist of text up to 500 words. No images or links accepted.
+– Submissions consist of text up to 500 words. No images or links accepted.
 
-â€“ apexart assembles an international jury of over 100 creative
+– apexart assembles an international jury of over 100 creative
 professionals who vote on submissions online.
 
-â€“ apexart's custom-made computer script crowd sources these votes and
+– apexart's custom-made computer script crowd sources these votes and
 determines which three proposals received the highest scores.
 
-â€“ Those three winners receive financial and administrative support from
+– Those three winners receive financial and administrative support from
 apexart to mount their exhibitions in our Manhattan space.
 
 To submit an exhibition proposal, check the Unsolicited Proposal Program
@@ -1307,7 +1307,7 @@ Times bestseller Over Easy, a panel discussion about zines as political
 tools in the digital age, and the Giant Zine and Small Press Fair where
 hundreds of publications are on display and for sale.
 
-Registration is now open if you have work to display or youâ€™d like to join
+Registration is now open if you have work to display or you’d like to join
 the 1-2 Punch Book Pitch where, in front of a crowing crowd, you get two
 minutes to pitch your book to a panel of judges.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 17
 type: ""
+venue: "Curatorial Studies Residency"
 summary: "Curatorial Studies Residency | Call for applications, Berlin | JAN 30"
 ---
 
@@ -18,7 +19,7 @@ www.nodecenter.org
 Contact
 
 info@nodecenter.org
-Ignacio GarcÃ­a GÃ³mez del Valle / Perla Montelongo
+Ignacio García Gómez del Valle / Perla Montelongo
 Phone: +49 152 2769 9078
 
 Address
@@ -28,9 +29,9 @@ www.nodecenter.org
 Info
 
 Open application period:
-January 1st â€“ January 30th 2011
+January 1st – January 30th 2011
 Program dates:
-March 15th â€“ June 7th 2011
+March 15th – June 7th 2011
 
 The Node Center for Curatorial Studies is a platform of formation,
 experimentation, and diffusion in the field of curatorship and in the

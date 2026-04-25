@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 30
 type: "EXHIBITION"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Related | MAR 3"
 ---
 

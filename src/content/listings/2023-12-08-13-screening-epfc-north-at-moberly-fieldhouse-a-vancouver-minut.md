@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | EPFC North at Moberly Fieldhouse | A Vancouver Minute | 2PM | DEC 10"
 ---
 

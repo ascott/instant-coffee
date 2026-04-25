@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 7
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | interplay_2023 | ONLINE EXHIBITION | SEPT 14+15th | 8PM | SEP 14"
 ---
 

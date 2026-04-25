@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 9
 type: ""
+venue: "NEWS"
 summary: "NEWS | Open Space | Guest House Residency: Whess Harman | JUL 21"
 ---
 

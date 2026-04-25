@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 4
 type: "CALL"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Call for Participation: YOUTH MENTORSHIP | JUL 20"
 ---
 

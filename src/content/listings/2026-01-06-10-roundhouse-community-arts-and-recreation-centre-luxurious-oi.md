@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 10
 type: "EDUCATION"
+venue: "Roundhouse Community Arts and Recreation Centre"
 summary: "Roundhouse Community Arts and Recreation Centre | Luxurious Oil Pastels | JAN 9"
 ---
 

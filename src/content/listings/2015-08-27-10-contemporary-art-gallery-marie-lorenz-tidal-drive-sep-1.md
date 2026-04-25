@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 10
 type: "EVENT"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Marie Lorenz: Tidal Dérive | SEP 1"
 ---
 

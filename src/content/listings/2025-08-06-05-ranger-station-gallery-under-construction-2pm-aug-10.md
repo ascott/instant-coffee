@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Draw a Blank"
 emailDate: "Tue, 05 Aug 2025 21:15:15 -0700"
 number: 5
 type: "OPENING"
+venue: "Ranger Station Gallery"
 summary: "Ranger Station Gallery | Under Construction | 2PM | AUG 10"
 ---
 

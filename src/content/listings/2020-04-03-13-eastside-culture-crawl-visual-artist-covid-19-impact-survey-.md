@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 13
 type: "CALL"
+venue: "Eastside Culture Crawl"
 summary: "Eastside Culture Crawl | Visual Artist COVID-19 Impact Survey | APR 17"
 ---
 

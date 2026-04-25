@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Small Gods"
 emailDate: "Mon, 27 Oct 2025 20:50:04 -0700"
 number: 10
 type: ""
+venue: "ONLINE"
 summary: "ONLINE | Near Dwellers as Indwellers | OCT 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JUNE 21 THIRD BEACH SUNSET SLOWDAN
 emailDate: "Thu, 18 Jun 2009 09:14:05 -0700"
 number: 2
 type: ""
+venue: "01 Magazine"
 summary: "01 Magazine | Photographs by Jennilee Marigomen | JUN 20"
 ---
 

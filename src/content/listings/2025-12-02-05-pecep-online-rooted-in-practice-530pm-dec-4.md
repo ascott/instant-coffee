@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 5
 type: "EVENT"
+venue: "PeCEP [ONLINE]"
 summary: "PeCEP [ONLINE] | Rooted in Practice | 530PM | DEC 4"
 ---
 

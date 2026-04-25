@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 30
 type: "CALL"
+venue: "VU"
 summary: "VU | Call for Submissions - 2016-2017 | MAR 15"
 ---
 

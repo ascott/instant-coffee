@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Phil Collins's Tomorrow is Always Too Long | JAN 14"
 ---
 
@@ -18,13 +19,13 @@ environments to the accompaniment of the Royal Scottish Orchestra. The
 musical sequences are punctuated by public-access broadcasts from a
 disused 1960s TV studio, its doors re-opened by Collins to people from
 every walk of life, and by a series of short animations by Matthew Robins,
-soundtracked by Mogwaiâ€™s Barry Burns, which follows a group of characters
+soundtracked by Mogwai’s Barry Burns, which follows a group of characters
 on a night out. From children to pensioners, from poets to prisoners,
-Collinsâ€™s Glaswegians talk, sing, and dance us deep into the soul of their
+Collins’s Glaswegians talk, sing, and dance us deep into the soul of their
 city and beyond, exploring the need for human interaction amid the
 alienating information overload of the digital age.
 
-Programmed by MichÃ¨le Smith
+Programmed by Michèle Smith
 
 Tomorrow is Always Too Long
 Wednesday January 14, 2015, 7:30 pm

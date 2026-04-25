@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 52
 type: "CALL"
+venue: "SPAO Residency (OTTAWA, ON)"
 summary: "SPAO Residency (OTTAWA, ON) | Call for Submissions | DEC 7"
 ---
 

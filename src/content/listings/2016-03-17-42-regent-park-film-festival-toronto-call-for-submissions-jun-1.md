@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 42
 type: "CALL"
+venue: "Regent Park Film Festival (Toronto)"
 summary: "Regent Park Film Festival (Toronto) | Call for Submissions | JUN 10"
 ---
 

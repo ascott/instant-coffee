@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 47
 type: "EVENT"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Curator's Tour | Landon Mackenzie | Recollect(s) | NOV 23"
 ---
 

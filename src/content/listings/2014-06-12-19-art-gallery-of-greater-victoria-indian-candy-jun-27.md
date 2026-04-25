@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 19
 type: ""
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Indian Candy | JUN 27"
 ---
 
@@ -17,7 +18,7 @@ The AGGV presents nine works from Dana Claxton's most recent series,
 Indian Candy, that reflect on historical archives and highlight the human 
 propensity to render itself, from Indigenous rock art, to photography, to 
 governmental correspondence. Claxton addresses the complexities of 
-colonialismâ€“past and presentâ€“through strategic subversion, and investigates 
+colonialism–past and present–through strategic subversion, and investigates 
 the buried histories of the Wild West, with specific attention paid to Sitting Bull 
 who shares her Hunkpapa Lakota Sioux ancestry. Curated by Toby 
 Lawrence.

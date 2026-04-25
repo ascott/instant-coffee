@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: coughing up not passing the buck"
 emailDate: "Thu, 02 Sep 2010 12:40:18 -0700"
 number: 14
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | OFF-SITE EXHIBITION | SEP 10"
 ---
 

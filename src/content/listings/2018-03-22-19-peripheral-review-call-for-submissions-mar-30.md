@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 19
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions | MAR 30"
 ---
 

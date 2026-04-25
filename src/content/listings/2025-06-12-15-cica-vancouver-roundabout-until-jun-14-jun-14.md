@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | roundabout | UNTIL JUN 14 | JUN 14"
 ---
 

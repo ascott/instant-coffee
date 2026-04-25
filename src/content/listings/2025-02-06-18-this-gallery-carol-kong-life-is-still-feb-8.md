@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 18
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Carol Kong - Life is Still | FEB 8"
 ---
 

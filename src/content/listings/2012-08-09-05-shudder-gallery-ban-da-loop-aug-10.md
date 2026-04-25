@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 5
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | BAN DA LOOP | AUG 10"
 ---
 
 BAN DA LOOP
-a group show â€“ august 10 2012
+a group show – august 10 2012
 7PM to late
 
 the switch side the under world
@@ -28,7 +29,7 @@ featuring art works
 jessica bell
 silje-marie salhaus
 shawna mclellen
-sylvana dâ€™angelo
+sylvana d’angelo
 
 & musical performances
 jesse taylor + bryce k p agecoutay
@@ -36,7 +37,7 @@ ashlee luk
 olivia carmen meek
 kelly christine davis
 
-curated by sylvana dâ€™angelo
+curated by sylvana d’angelo
 
 contact
 
@@ -47,4 +48,4 @@ phone number:
 studio number:
 +1 604.354.0504
 
-433 Columbia St â€¢ Vancouver BC â€¢ V5V 1E3
+433 Columbia St • Vancouver BC • V5V 1E3

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 16
 type: "EVENT"
+venue: "ARTS ASSEMBLY"
 summary: "ARTS ASSEMBLY | Reading Group - on istanbul | istanbul'da | 7PM | AUG 23"
 ---
 

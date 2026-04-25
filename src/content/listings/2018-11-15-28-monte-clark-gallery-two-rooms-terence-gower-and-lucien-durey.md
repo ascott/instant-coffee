@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 28
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | TWO ROOMS | Terence Gower and Lucien Durey | 6-8PM | NOV 22"
 ---
 

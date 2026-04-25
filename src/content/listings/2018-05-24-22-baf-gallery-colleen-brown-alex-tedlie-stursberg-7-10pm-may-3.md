@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 22
 type: "OPENING"
+venue: "BAF Gallery"
 summary: "BAF Gallery | Colleen Brown & Alex Tedlie-Stursberg | 7-10PM | MAY 31"
 ---
 

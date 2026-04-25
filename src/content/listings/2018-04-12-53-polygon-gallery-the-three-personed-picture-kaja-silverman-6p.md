@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 53
 type: "TALK"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | The Three Personed Picture: Kaja Silverman | 6PM | APR 29"
 ---
 

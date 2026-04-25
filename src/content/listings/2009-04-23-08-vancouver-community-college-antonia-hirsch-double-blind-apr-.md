@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 8
 type: ""
+venue: "Vancouver Community College"
 summary: "Vancouver Community College | ANTONIA HIRSCH | Double Blind | APR 27"
 ---
 

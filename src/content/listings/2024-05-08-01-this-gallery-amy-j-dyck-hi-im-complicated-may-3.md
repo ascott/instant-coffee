@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Amy J. Dyck - Hi, I'm Complicated | MAY 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 28
 type: "CALL"
+venue: "Bowling Green Community Activity Centre"
 summary: "Bowling Green Community Activity Centre | Call for Artists | FEB 5"
 ---
 

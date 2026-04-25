@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 23
 type: "CALL"
+venue: "City of Vancouver Public Art Program"
 summary: "City of Vancouver Public Art Program | Launch Pad | JUL 7"
 ---
 

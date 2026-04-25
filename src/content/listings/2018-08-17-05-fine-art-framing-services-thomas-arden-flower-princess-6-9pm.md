@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 5
 type: "OPENING"
+venue: "Fine Art Framing & Services"
 summary: "Fine Art Framing & Services | Thomas Arden: Flower Princess | 6-9PM | AUG 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 24
 type: ""
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Sara Faridamin - A Lived Temporality | APR 11"
 ---
 

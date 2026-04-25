@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 24
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Annual Emerging Curator Exhibition Call | OCT 10"
 ---
 
@@ -29,11 +30,11 @@ Vancouver and surrounding areas. Now in its second year, the Emerging
 Curator Exhibition will highlight the vision of an aspiring curator, and
 provide the opportunity to realize an exhibition directed towards
 photographic dialogues. Our 2014 emerging curator, Avalon Mott exhibited
-â€˜Locateâ€™ which featured a body of photographic works exploring the binary
+‘Locate’ which featured a body of photographic works exploring the binary
 notions of transience and permanence within spaces, and the location of
 oneself during periods of transition and instability.
 
-â€œBeing presented by Gallery 295 as the inaugural Emerging Curator was truly
+“Being presented by Gallery 295 as the inaugural Emerging Curator was truly
 an honour. It was a fantastic opportunity to work through an independent
 curatorial project, while being fully supported by the fantastic team
 members behind Gallery 295. There are not many opportunities like this open

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 8
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Let Me Tell You This | JUL 25"
 ---
 
@@ -39,7 +40,7 @@ inserting the collection into the present experience of events.
 The artists in Let me tell you this take up different aspects of the new-
 narrative archive. Christopher Boyne takes us through the story of his 
 father catching a big fish, and visualizes the latent drama saturated by his 
-fatherâ€™s repeated oral telling in the architecture of the of photo-cinematic 
+father’s repeated oral telling in the architecture of the of photo-cinematic 
 gaze. David Crocker situates himself into the role of the archivist, working 
 through old photographic plates and presenting them as documented 
 objects in a sequence of paired images that illustrate the material fragility 

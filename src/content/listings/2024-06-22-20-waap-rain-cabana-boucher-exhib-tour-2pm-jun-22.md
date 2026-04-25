@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 20
 type: "TALK"
+venue: "WAAP"
 summary: "WAAP | Rain Cabana-Boucher exhib tour | 2PM | JUN 22"
 ---
 

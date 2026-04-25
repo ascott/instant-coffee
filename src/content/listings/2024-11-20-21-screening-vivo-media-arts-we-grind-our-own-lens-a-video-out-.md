@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 21
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts | We Grind Our Own Lens: A Video Out Screening | 7PM | NOV 28"
 ---
 

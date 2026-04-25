@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Offsite Exhibition: Bernadette Phan and Alan Wood | FEB 10"
 ---
 
-The Burnaby Art Galleryâ€™s Offsite Exhibitions showcases artworks from
+The Burnaby Art Gallery’s Offsite Exhibitions showcases artworks from
 local, emerging, as well as nationally-known,established artists in the
-spaces of Burnabyâ€™s Public Libraries.
+spaces of Burnaby’s Public Libraries.
 From February to March 2015 the gallery is pleased to present:
 
 Bernadette Phan

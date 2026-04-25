@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 16
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Black Psychedelia with Pen Ray | 7PM | AUG 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 10
 type: "OPENING"
+venue: "Patron Art House"
 summary: "Patron Art House | Gallery Friends Series Release & Group Exhibition | DEC 16"
 ---
 

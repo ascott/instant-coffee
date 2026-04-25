@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 1
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | A New Path tothe Waterfall: Justine A. Chambers | JUN 14"
 ---
 

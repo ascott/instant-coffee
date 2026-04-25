@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 2
 type: "EVENT"
+venue: "WAAP"
 summary: "WAAP | Hank Bull talk and reception | FEB 24"
 ---
 

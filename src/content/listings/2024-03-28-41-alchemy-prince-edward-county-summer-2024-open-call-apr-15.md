@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 41
 type: "CALL"
+venue: "ALCHEMY PRINCE EDWARD COUNTY SUMMER 2024"
 summary: "ALCHEMY PRINCE EDWARD COUNTY SUMMER 2024 | OPEN CALL | APR 15"
 ---
 

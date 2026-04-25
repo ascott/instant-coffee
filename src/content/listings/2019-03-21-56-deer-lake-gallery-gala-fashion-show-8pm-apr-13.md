@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 56
 type: "FUNDRAISER"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Gala & Fashion Show | 8PM | APR 13"
 ---
 

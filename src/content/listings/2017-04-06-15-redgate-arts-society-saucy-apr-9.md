@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 15
 type: "OPENING"
+venue: "Redgate Arts Society"
 summary: "Redgate Arts Society | SAUCY | APR 9"
 ---
 

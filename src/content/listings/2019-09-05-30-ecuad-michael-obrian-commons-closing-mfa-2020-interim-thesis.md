@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 30
 type: "EVENT"
+venue: "ECUAD Michael O'Brian Commons"
 summary: "ECUAD Michael O'Brian Commons | CLOSING - MFA 2020 Interim Thesis Show | 6-9PM | SEP 12"
 ---
 

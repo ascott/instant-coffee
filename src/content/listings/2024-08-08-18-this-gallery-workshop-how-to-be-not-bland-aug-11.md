@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 18
 type: "EVENT"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Workshop - How to be ‘Not-Bland’ | AUG 11"
 ---
 

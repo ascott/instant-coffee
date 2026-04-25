@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 6
 type: "EVENT"
+venue: "The Polygon Gallery and Little"
 summary: "The Polygon Gallery and Little"
 ---
 

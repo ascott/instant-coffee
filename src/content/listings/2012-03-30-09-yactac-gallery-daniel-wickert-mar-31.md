@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 9
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Daniel Wickert | MAR 31"
 ---
 

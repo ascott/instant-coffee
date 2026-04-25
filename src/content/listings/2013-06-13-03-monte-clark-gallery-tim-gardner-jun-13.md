@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 3
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | TIM GARDNER | JUN 13"
 ---
 
 Monte Clark Gallery
 
 TIM GARDNER
-June 13 â€“ July 13, 2013
+June 13 – July 13, 2013
 Opening reception:
-Thursday June 13, 5:30pm â€“ 8pm
+Thursday June 13, 5:30pm – 8pm
 
 www.monteclarkgallery.com
 

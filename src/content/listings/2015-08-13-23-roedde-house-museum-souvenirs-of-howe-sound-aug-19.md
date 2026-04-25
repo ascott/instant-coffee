@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 23
 type: "OPENING"
+venue: "Roedde House Museum"
 summary: "Roedde House Museum | Souvenirs of Howe Sound | AUG 19"
 ---
 
@@ -17,46 +18,46 @@ Roedde House Museum
 1415 Barclay Street (corner of Broughton), Vancouver, BC
 
 On August 19th, Roedde House Museum launches a new exhibition on 
-the origins of Vancouver tourism and travel. Ã¢â‚¬Å“Souvenirs of Howe 
-Sound: A History of Local TourismÃ¢â‚¬ traces the rise of well-known 
+the origins of Vancouver tourism and travel. â€œSouvenirs of Howe 
+Sound: A History of Local Tourismâ€ traces the rise of well-known 
 Howe Sound getaways such as Bowen Island, Horseshoe Bay, and the 
-Sunshine Coast, in the context of VancouverÃ¢â‚¬â„¢s colonization and 
+Sunshine Coast, in the context of Vancouverâ€™s colonization and 
 urbanization. Narrated through historical photographs and promotional 
 posters of Howe Sound from the early to mid-twentieth century, the 
 exhibition captures the sense of wonder that early settlers experienced 
-travelling up BCÃ¢â‚¬â„¢s stunning coastline and invites reflection on what 
+travelling up BCâ€™s stunning coastline and invites reflection on what 
 it means to view the landscape as a tourist.
 
 Pioneer businesses such as the Union Steamship and Terminal 
 Steamship companies played a large role in the tourist industry by 
-creating impressions of British Columbia as a Ã¢â‚¬Å“pristine wildernessÃ¢
-â‚¬ preserved for the enjoyment of modern, Ã¢â‚¬Å“civilizedÃ¢â‚¬ travellers. 
+creating impressions of British Columbia as a â€œpristine wildernessâ
+€ preserved for the enjoyment of modern, â€œcivilizedâ€ travellers. 
 Such depictions erased indigenous presence and relied on a vision of 
 the land as uninhabited. The Roeddes, a pioneering West End family, 
 were present during this pivotal moment in the emergence of modern 
 tourism in British Columbia, and often enjoyed excursions around 
 Vancouver and Howe Sound themselves.
 
-Ã¢â‚¬Å“By sharing the history of tourism in Vancouver, I hope the 
+â€œBy sharing the history of tourism in Vancouver, I hope the 
 exhibition can offer locals and visitors alike a new way of thinking about 
 our contemporary attitudes and practices towards land, leisure, and 
-travel,Ã¢â‚¬ says exhibition curator Racan Souiedan. The tradition of 
+travel,â€ says exhibition curator Racan Souiedan. The tradition of 
 marketing Vancouver as a wild and rugged nature destination has a 
 lasting legacy. In the most recent Regional Tourism Profile done by 
 Destination BC, sightseeing, nature and wildlife viewing placed as the 
-number one activities. With the cityÃ¢â‚¬â„¢s close proximity to beautiful 
-natural spaces, itÃ¢â‚¬â„¢s no wonder that the origins of VancouverÃ¢â‚¬â„¢s 
+number one activities. With the cityâ€™s close proximity to beautiful 
+natural spaces, itâ€™s no wonder that the origins of Vancouverâ€™s 
 tourism industry lie in discovery and adventure rather than urbanization 
 and development.
 
 The exhibit will feature various promotional materials from the Union 
-and Terminal Steamship Companies from the 1920s Ã¢â‚¬â€œ 1950s; 
+and Terminal Steamship Companies from the 1920s â€“ 1950s; 
 postcards and photographs from the early days of Vancouver tourism; 
 Roedde Family photos and memories of summers spent at Horseshoe 
 Bay; and accounts from Pauline Johnson (Tekahionwake) and Chief 
 Joe Capilano.
 
-Ã¢â‚¬Å“Souvenirs of Howe SoundÃ¢â‚¬ will have a special launch event and 
+â€œSouvenirs of Howe Soundâ€ will have a special launch event and 
 open reception on Wednesday, August 19th from 5:00pm to 7:00pm. 
 SFU History Professor, Dr. Jack Little will give a presentation: 'Views 
 from the Deck: Union Steamship Cruises on Canada's Pacific Coast, 
@@ -64,15 +65,15 @@ from the Deck: Union Steamship Cruises on Canada's Pacific Coast,
 
 About Roedde House Museum
 Roedde House Museum is a restored Victorian mansion in the West 
-End that was once home to one of VancouverÃ¢â‚¬â„¢s first bookbinders 
+End that was once home to one of Vancouverâ€™s first bookbinders 
 and printers. Today, the museum is both a cultural events venue and a 
 fully interactive site where visitors can explore the house and see what 
 life was like for a middle-class family in the late 1800s.
 
 Location: Roedde House Museum: 1415 Barclay Street (corner of 
 Broughton), Vancouver, BC Dates and times: Exhibition runs 
-Wednesday August 19th Ã¢â‚¬â€œ Sunday November
-1st. Museum hours: Tuesday Ã¢â‚¬â€œ Friday 1:00-4:00pm, Sunday 1:00-
+Wednesday August 19th â€“ Sunday November
+1st. Museum hours: Tuesday â€“ Friday 1:00-4:00pm, Sunday 1:00-
 4:00pm. Admission: $5
 
 More info: www.roeddehouse.org | 604-684-7040 | 

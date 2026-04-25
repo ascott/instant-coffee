@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 29
 type: "OPENING"
+venue: "SLICE OF LIFE GALLERY"
 summary: "SLICE OF LIFE GALLERY | Ketty Haolin Zhang | 7PM | JUN 27"
 ---
 

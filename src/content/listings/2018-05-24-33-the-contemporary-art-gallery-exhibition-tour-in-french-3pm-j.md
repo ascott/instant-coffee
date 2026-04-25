@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 33
 type: "TALK"
+venue: "The Contemporary Art Gallery"
 summary: "The Contemporary Art Gallery | Exhibition Tour in French | 3PM | JUN 3"
 ---
 

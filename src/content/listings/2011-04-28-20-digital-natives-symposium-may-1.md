@@ -4,41 +4,42 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 20
 type: ""
+venue: "Digital Natives"
 summary: "Digital Natives | Symposium | MAY 1"
 ---
 
 Digital Natives Symposium
 
 May 1, 2011
-1 â€“ 5 pm with a reception to follow
+1 – 5 pm with a reception to follow
 
 Museum of Anthropology Theatre
 6393 N.W. Marine Drive Vancouver, B.C.
 Tel: 604.822.5087
 programs@moa.ubc.ca
 
-Other Sights for Artistsâ€™ Projects and Museum of Anthropology Public 
-Programs invite you to Digital Natives Symposium, May 1, 2011, 1 â€“ 
+Other Sights for Artists’ Projects and Museum of Anthropology Public 
+Programs invite you to Digital Natives Symposium, May 1, 2011, 1 – 
 5 pm with a reception to follow.
 
 Digital Natives is a public art project sited on the electronic billboard 
-at the Burrard Street Bridge from April 4 â€“ 30, 2011. Curators Lorna 
+at the Burrard Street Bridge from April 4 – 30, 2011. Curators Lorna 
 Brown and Clint Burnham invited artists and writers from across 
 North America to contribute messages to be broadcast on the 
 billboard, coinciding with the 125th Anniversary of the City of 
 Vancouver. Taking the form of Twitter messages, the contributors 
-responded to the siteâ€™s charged history, the ten-second format and 
+responded to the site’s charged history, the ten-second format and 
 the 140-character limit of tweets. The sign itself became an artistic 
 and literary space for exchange between native and non-native 
 communities exploring how language is used in advertising, its 
 tactical role in colonization, and as a complex vehicle of 
 communication. Many of the English messages were translated and 
-displayed in SkwxwÃº7mesh, Kwakâ€™wala, 
+displayed in Skwxwú7mesh, Kwak’wala, 
 hǝnâ€™qâ€™ǝminâ€™ǝmâ€™/Musqueam, Tahltan and Nlakaâ€™pamuctsin in 
 addition to the hybrid forms that are part of twitter usage. Tweets 
 from the public were gathered and broadcast in the later part of the 
 month, making Digital Natives public art that the public not 
-only â€˜receivedâ€™ but had the opportunity to produce.
+only ‘received’ but had the opportunity to produce.
 
 The Symposium will feature a number of contributing artists and 
 writers, including Sonny Assu, Edgar Heap of Birds, Phillip Djwa, 

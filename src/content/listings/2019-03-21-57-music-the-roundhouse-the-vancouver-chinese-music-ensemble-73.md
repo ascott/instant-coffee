@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 57
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Roundhouse | The Vancouver Chinese Music Ensemble | 730PM | APR 13"
 ---
 

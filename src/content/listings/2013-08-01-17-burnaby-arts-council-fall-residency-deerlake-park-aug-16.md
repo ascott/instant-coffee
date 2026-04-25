@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 17
 type: ""
+venue: "Burnaby Arts Council"
 summary: "Burnaby Arts Council | Fall Residency @ DeerLake Park | AUG 16"
 ---
 

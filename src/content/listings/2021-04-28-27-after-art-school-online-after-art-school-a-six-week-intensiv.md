@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 27
 type: "EDUCATION"
+venue: "After Art School [ONLINE]"
 summary: "After Art School [ONLINE] | AFTER ART SCHOOL: A SIX WEEK INTENSIVE | MAY 15"
 ---
 

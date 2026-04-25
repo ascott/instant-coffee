@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 6
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | DEREK ROOT | OCT 18"
 ---
 
@@ -20,7 +21,7 @@ his language of abstraction, presenting a series of acrylic-on-canvas
 works. The paintings depict seemingly random forms that sit
 harmoniously together, tethered by their subtle texture and colour.
 
-The way we view Rootâ€™s forms is interpreted depending on perspective;
+The way we view Root’s forms is interpreted depending on perspective;
 interchangeably they reference microscopic shapes and colossal,
 celestial visions from space. The compositions also echo the order of
 an archeological display, a hint of artifacts arranged in an exhibit.

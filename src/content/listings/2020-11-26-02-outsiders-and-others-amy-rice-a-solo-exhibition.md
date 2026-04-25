@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Neighbour's Plate"
 emailDate: "Thu, 26 Nov 2020 09:10:12 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Amy Rice: a solo exhibition"
 ---
 

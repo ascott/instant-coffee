@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 14
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | MARK BUTLER: Suburbia and Other Places | 7PM | JAN 19"
 ---
 

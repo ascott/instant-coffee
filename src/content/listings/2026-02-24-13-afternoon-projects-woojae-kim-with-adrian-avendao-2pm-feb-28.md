@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 13
 type: "PERFORMANCE"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Woojae Kim, with Adrian Avendaño | 2PM | FEB 28"
 ---
 

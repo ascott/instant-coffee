@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 19
 type: "CALL"
+venue: "City of Vancouver, Public Art Program"
 summary: "City of Vancouver, Public Art Program | Untitled: Public Art Grants | MAR 18"
 ---
 

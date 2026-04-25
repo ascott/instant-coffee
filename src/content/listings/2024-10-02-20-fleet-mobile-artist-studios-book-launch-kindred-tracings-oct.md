@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 20
 type: "EVENT"
+venue: "FLEET: Mobile Artist Studios"
 summary: "FLEET: Mobile Artist Studios | Book Launch: Kindred Tracings | OCT 17"
 ---
 

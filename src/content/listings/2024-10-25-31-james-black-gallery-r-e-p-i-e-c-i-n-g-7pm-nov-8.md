@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 31
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | “r e p i e c i n g” | 7PM | NOV 8"
 ---
 

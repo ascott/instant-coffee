@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 18
 type: "CALL"
+venue: "ARCCO"
 summary: "ARCCO | Artists at the Center: New Deadline | FEB 13"
 ---
 

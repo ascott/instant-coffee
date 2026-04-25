@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bitter sweet"
 emailDate: "Thu, 07 Aug 2014 11:58:22 -0700"
 number: 4
 type: ""
+venue: "Maillardville Cultural Appreciation Society"
 summary: "Maillardville Cultural Appreciation Society | John Ostenstad | AUG 9"
 ---
 

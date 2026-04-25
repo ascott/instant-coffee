@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 13
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | RECIPES FOR AN ENCOUNTER | JAN 26"
 ---
 

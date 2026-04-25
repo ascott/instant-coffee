@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 19
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | Ryan Peter | SEP 10"
 ---
 
@@ -14,7 +15,7 @@ OPENING: Wednesday, September 10th, 6 - 8 PM
 
 Runs at Republic Gallery from September 10 - October 4, 2014
 
-Ryan Peterâ€™s upcoming solo exhibition SEDIMENT will include a group of
+Ryan Peter’s upcoming solo exhibition SEDIMENT will include a group of
 recent paintings on plastic as well as a selection of photograms that
 explore the relationship between painting and photography. Taking the
 poster as a conceptual starting point, Peter repurposes packaging remnants

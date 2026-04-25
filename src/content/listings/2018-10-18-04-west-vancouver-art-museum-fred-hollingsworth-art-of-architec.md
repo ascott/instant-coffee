@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Fred Hollingsworth: Art of Architecture | OCT 17"
 ---
 

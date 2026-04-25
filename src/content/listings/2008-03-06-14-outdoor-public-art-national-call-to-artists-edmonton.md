@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: We're not your mother"
 emailDate: "Thu, 06 Mar 2008 09:45:28 -0800"
 number: 14
 type: ""
+venue: "Outdoor Public Art"
 summary: "Outdoor Public Art | National Call to Artists | Edmonton"
 ---
 

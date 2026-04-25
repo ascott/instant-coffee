@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 14
 type: "EVENT"
+venue: "Glass Box Project"
 summary: "Glass Box Project | Backyard Social for Landline | JUL 30"
 ---
 

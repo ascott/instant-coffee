@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 3
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | DTES Small Arts Grants Exhibition | MAY 18"
 ---
 

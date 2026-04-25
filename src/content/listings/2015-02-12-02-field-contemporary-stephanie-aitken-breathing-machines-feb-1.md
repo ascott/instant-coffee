@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 2
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Stephanie Aitken - Breathing Machines | FEB 12"
 ---
 
 Stephanie Aitken
 Breathing Machines
-February 12th â€” March 14th, 2015
-Opening February 12th, 6:00 â€” 10:00 PM
+February 12th — March 14th, 2015
+Opening February 12th, 6:00 — 10:00 PM
 
 We are pleased to announce Stephanie Aitken as our first exhibiting artist
 of 2015. Her exhibition titled â€œBreathing Machinesâ€  opens on Thursday,
-February 12th from 6:00 â€” 10:00 PM.
+February 12th from 6:00 — 10:00 PM.
 
 These paintings are about trees, tree parts, dead trees, stumps, burn
 piles, driftwood, branches, cut limbs, birds, beetles, heads, torsos,

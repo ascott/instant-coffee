@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 28
 type: "CALL"
+venue: "Decoy Magazine"
 summary: "Decoy Magazine | Call for Artists: Happenstance | SEP 15"
 ---
 

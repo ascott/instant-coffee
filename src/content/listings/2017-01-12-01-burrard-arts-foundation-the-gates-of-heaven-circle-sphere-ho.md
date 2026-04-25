@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 1
 type: "OPENING"
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | The Gates of Heaven | Circle, Sphere, Horizon Line | JAN 12"
 ---
 

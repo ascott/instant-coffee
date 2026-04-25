@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part of the same \"changing west\"
 emailDate: "Fri, 14 Oct 2016 15:00:22 -0700"
 number: 18
 type: "EVENT"
+venue: "Selectors' Records"
 summary: "Selectors' Records | CELESTIAL TERROR: A Compilation of Storytelling... | OCT 19"
 ---
 

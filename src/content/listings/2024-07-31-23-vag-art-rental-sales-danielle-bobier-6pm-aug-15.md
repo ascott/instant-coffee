@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 23
 type: "TALK"
+venue: "VAG Art Rental & Sales"
 summary: "VAG Art Rental & Sales | Danielle Bobier | 6PM | AUG 15"
 ---
 

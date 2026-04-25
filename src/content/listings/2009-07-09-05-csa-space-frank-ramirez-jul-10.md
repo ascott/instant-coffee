@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 5
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | FRANK RAMIREZ | JUL 10"
 ---
 
@@ -31,7 +32,7 @@ While on holiday at Tofino in 1991, a friend loaned him a camera to
 photograph natural phenomena there. The images seemed enigmatic and a
 little "strange" in the central European context and were compounded
 into tight triptychs. Further landscape works involved locations such
-as CadaquÃ©s and the Balearics in Spain.
+as Cadaqués and the Balearics in Spain.
 
 Frank returned to Vancouver a few years ago and eventually applied his
 vision to the Gulf Islands and the parks of Strathcona: a new kind of

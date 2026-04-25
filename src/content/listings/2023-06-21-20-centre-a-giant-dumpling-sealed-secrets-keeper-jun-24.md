@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 20
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Giant Dumpling Sealed Secrets Keeper | JUN 24"
 ---
 

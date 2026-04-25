@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 24
 type: "CALL"
+venue: "grunt gallery"
 summary: "grunt gallery | Call for Submissions | JUL 15"
 ---
 

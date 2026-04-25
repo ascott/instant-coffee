@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 7
 type: "CALL"
+venue: "YacTac"
 summary: "YacTac | A Show of Artist Multiples - Call for Artists"
 ---
 

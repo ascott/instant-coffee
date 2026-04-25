@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tributaries"
 emailDate: "Fri, 04 Jul 2025 03:00:07 -0700"
 number: 13
 type: "EVENT"
+venue: "Wil Aballe"
 summary: "Wil Aballe | YACHT ROCK | JUL 6"
 ---
 

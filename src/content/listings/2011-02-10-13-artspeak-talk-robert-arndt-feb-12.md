@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 13
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Talk: Robert Arndt | FEB 12"
 ---
 
@@ -42,5 +43,5 @@ This exhibition is curated by Peter Gazendam, Artspeak Programme Coordinator.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday Ã¢ï¿½ï¿½ Saturday, 12-5pm
+* Tuesday â�� Saturday, 12-5pm
 * Admission is free

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 26
 type: ""
+venue: "Geist"
 summary: "Geist | New Writing Workshop: The Art of the Short Review | APR 30"
 ---
 

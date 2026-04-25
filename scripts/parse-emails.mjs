@@ -48,15 +48,33 @@ export function slugify(text) {
     .replace(/-+/g, '-');
 }
 
+// Map cp1252-specific characters (0x80-0x9F range) back to their byte values.
+// These characters get produced when UTF-8 bytes are misinterpreted as Windows-1252.
+const CP1252_TO_BYTE = new Map([
+  [0x20AC, 0x80], [0x201A, 0x82], [0x0192, 0x83], [0x201E, 0x84],
+  [0x2026, 0x85], [0x2020, 0x86], [0x2021, 0x87], [0x02C6, 0x88],
+  [0x2030, 0x89], [0x0160, 0x8A], [0x2039, 0x8B], [0x0152, 0x8C],
+  [0x017D, 0x8E], [0x2018, 0x91], [0x2019, 0x92], [0x201C, 0x93],
+  [0x201D, 0x94], [0x2022, 0x95], [0x2013, 0x96], [0x2014, 0x97],
+  [0x02DC, 0x98], [0x2122, 0x99], [0x0161, 0x9A], [0x203A, 0x9B],
+  [0x0153, 0x9C], [0x017E, 0x9E], [0x0178, 0x9F],
+]);
+
 export function fixEncoding(text) {
-  // Fix UTF-8 text that was double-encoded (UTF-8 bytes misread as latin1/cp1252)
-  // Telltale: sequences where latin1-interpreted UTF-8 lead bytes appear in the string.
-  // 2-byte sequences start with 0xC2-0xC3 (U+00C2-U+00C3), followed by 0x80-0xBF continuation.
-  // 3-byte sequences start with 0xE0-0xEF (U+00E0-U+00EF), e.g. â (0xE2) for curly quotes/em-dash.
+  // Fix UTF-8 text that was double-encoded (UTF-8 bytes misread as cp1252).
+  // Example: ' (U+2019) is UTF-8 bytes [0xE2, 0x80, 0x99].
+  // Read as cp1252: â (U+00E2), € (U+20AC), ™ (U+2122) → "â€™"
   return text.split('\n').map((line) => {
-    if (!/[\u00c2-\u00c3\u00e0-\u00ef][\u0080-\u00bf]/.test(line)) return line;
+    // Detect: â (U+00E2) or Ã (U+00C3) followed by cp1252 range chars
+    if (!/[\u00c0-\u00ef]/.test(line)) return line;
     try {
-      const bytes = Buffer.from(line, 'latin1');
+      const bytes = new Uint8Array([...line].map((c) => {
+        const code = c.codePointAt(0);
+        if (code <= 0xFF) return code;
+        const mapped = CP1252_TO_BYTE.get(code);
+        if (mapped !== undefined) return mapped;
+        throw new Error('unmappable');
+      }));
       return new TextDecoder('utf-8', { fatal: true }).decode(bytes);
     } catch {
       return line;

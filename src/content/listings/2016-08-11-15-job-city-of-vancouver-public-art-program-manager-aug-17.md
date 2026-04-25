@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 15
 type: ""
+venue: "JOB"
 summary: "JOB | City of Vancouver | Public Art Program Manager | AUG 17"
 ---
 

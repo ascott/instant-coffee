@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 4
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Talk | Mark Oliver: James Brown Live at The Cave | JUL 9"
 ---
 

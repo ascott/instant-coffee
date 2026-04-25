@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 31
 type: "EVENT"
+venue: "Metchosin Ocean Art Walk"
 summary: "Metchosin Ocean Art Walk | EARTH DAY: Ocean Art WALK | 11AM | APR 22"
 ---
 

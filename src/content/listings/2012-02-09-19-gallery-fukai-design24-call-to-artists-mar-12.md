@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 19
 type: "CALL"
+venue: "gallery fukai"
 summary: "gallery fukai | Design24: Call to artists | MAR 12"
 ---
 
@@ -49,13 +50,13 @@ include a 2â€  bleed around the artwork (printed art work area= 11â€  x17�
 -Print ready deadline: March 19th, 2012
 
 Exhibition details:
--Reception: Friday, April 13th 8pm â€“ 2am.
+-Reception: Friday, April 13th 8pm – 2am.
 -Each piece selected will produce a run of 10 hand-screened prints on 
 Archival Inkjet paper- plus an additional two artist proofs, one for 
 exhibition display that remains property of the gallery/ curators, and 
 another for the artist to retain post exhibit.
 -A private signing night will be held at the gallery two days prior the 
-showâ€™s reception with complimentary beverages.
+show’s reception with complimentary beverages.
 -The fixed exhibition sale price of $50 will be applied to each print.
 -Any prints unsold become property of the artist post exhibition.
 -Due to the cost of materials, printing, paper etc there is a registration 

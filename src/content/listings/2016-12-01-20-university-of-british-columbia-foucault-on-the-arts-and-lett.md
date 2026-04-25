@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 20
 type: "EVENT"
+venue: "University of British Columbia"
 summary: "University of British Columbia | Foucault on the Arts and Letters Book Launch | DEC 6"
 ---
 

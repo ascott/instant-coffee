@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 7
 type: "TALK"
+venue: "Kelowna Art Gallery (KELOWNA)"
 summary: "Kelowna Art Gallery (KELOWNA) | Susan Point to host tour | 6PM | JUN 13"
 ---
 

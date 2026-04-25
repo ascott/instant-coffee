@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 22
 type: "EVENT"
+venue: "CAG [ZOOM]"
 summary: "CAG [ZOOM] | Christine Howard Sandoval with Kimberly Phillips | FEB 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 23
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | AGAIN AND AGAIN AND AGAIN | until | SEP 3"
 ---
 
@@ -15,7 +16,7 @@ Serial Formats and Repetitive Actions
 May 12 to September 3, 2012
 
 Collection Vancouver Art Gallery, Gift of Alison and Alan Schwartz 
-Drawn from the Galleryâ€™s permanent collection, this exhibition features 
+Drawn from the Gallery’s permanent collection, this exhibition features 
 artists who utilize repetitive actions or serial images to open up 
 perception both figuratively and literally. From the mechanistic 
 repetition inherent in much domestic work and industrial labour, to the 
@@ -43,9 +44,9 @@ transport truck.
 
 The successful candidate will possess the following qualities:
 
-â€¢
-â€¢
-â€¢
+•
+•
+•
 
 Detail oriented and conscientious
 Excellent interpersonal and communication skills
@@ -53,7 +54,7 @@ Customer service oriented
 
 Requirements:
 
-â€¢
+•
 
 Must be able to work flexible hours and be away from home for
 approximately three weeks of every month
@@ -61,41 +62,41 @@ approximately three weeks of every month
 Ability to safely operate a 5-ton straight frame truck in city and highway
 environments
 
-â€¢
+•
 
 Valid Class 5 BC drivers license or equivalent
 
-â€¢
+•
 
-â€¢
+•
 
 Clean drivers abstract
 
-â€¢
+•
 
 Good physical health (position involves some heavy lifting)
 
 Must be bondable
 
-â€¢
+•
 
 Experience in handling and packaging artwork in a variety of media
 
-â€¢
+•
 
 Ability to commit to the position by written contract for a one year term
 
-â€¢
+•
 
 Assets:
 
 Provide RCMP or provincial police background check
 
-â€¢
+•
 
 Computer literacy
 
-â€¢
+•
 
 Job Description
 
@@ -106,18 +107,18 @@ will require unpacking for delivery. Careful handling and consideration is
 essential at all times. You will be responsible for communications with clients
 and the office in Vancouver.
 
-â€¢
+•
 
 Hourly pay rate plus meal and accommodation allowance
 
 Medical and dental benefits after three months
 
-â€¢
+•
 
 25. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
 STUDIO SUBLET | 
-I'm looking for one person to sublet my artistsâ€™ studio at 2414 Main Street 
+I'm looking for one person to sublet my artists’ studio at 2414 Main Street 
 (above Pulp Fiction). You'd be sharing the space with a lovely artist, Barb 
 Choit, who works between NYC and Vancouver as a photographer. 
 

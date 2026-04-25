@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 7
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | WOVEN WORK FROM NEAR HERE | 7-9PM | SEP 6"
 ---
 

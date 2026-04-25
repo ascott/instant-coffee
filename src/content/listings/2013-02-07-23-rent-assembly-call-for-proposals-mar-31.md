@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 23
 type: ""
+venue: "Rent Assembly"
 summary: "Rent Assembly | call for proposals | MAR 31"
 ---
 
@@ -13,10 +14,10 @@ a gathering of renters in a time of siege
 Deadline for Proposals: March 31, 2013
 Rent Assembly: May 24, 25, 26, 2013
 
-Vancouver, BC â€“ Unceded Coast Salish territory
+Vancouver, BC – Unceded Coast Salish territory
 
-â€˜The rentiers reap what they do not sow.â€™
-â€“Adam Smith, Wealth of Nations (1776)
+‘The rentiers reap what they do not sow.’
+–Adam Smith, Wealth of Nations (1776)
 
 In the struggle for housing in Vancouver, we tend to highlight issues such as 
 social housing, SROs, gentrification, and affordability. But what about rent as 
@@ -30,7 +31,7 @@ paying for the catastrophic damage to our own daily lives, rent must be made
 visible.
 
 The Rent Assembly will be a gathering for those who are not among 
-Vancouverâ€™s â€˜playersâ€™ in the housing market. Many of us will never own 
+Vancouver’s ‘players’ in the housing market. Many of us will never own 
 property. We will always have to worry about our homes being sold out from 
 under us, about being renovicted, evicted or rents inflating beyond liveability. 
 Workers will continue to spend more of their paycheques on housing, leaving 
@@ -41,14 +42,14 @@ be determined by the prejudices of property managers and landlords who,
 unlike most, can afford to say â€œno.â€ 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate form 
-of accumulation, the seemingly passÃ© 19th Century question of land 
-ownership and rent extraction has returned in force. In todayâ€™s Vancouver, 
+of accumulation, the seemingly passé 19th Century question of land 
+ownership and rent extraction has returned in force. In today’s Vancouver, 
 social movements are attacking the basic landed relations of the city, 
 including the upsurge of Indigenous resistance to colonial land policies 
-through the emergence of â€˜Defenders of the Landâ€™, and the more recent Idle 
+through the emergence of ‘Defenders of the Land’, and the more recent Idle 
 No More; marginal squatters movements; critiques of the modern nation-state 
 from migrant justice movements; and the recent formation of the Vancouver 
-Renterâ€™s Union. 
+Renter’s Union. 
 
 We must understand the relationships between renters, the history of rent, 
 and cultivate new ties between disparate groups of renters. To this end, the 
@@ -79,9 +80,9 @@ Renters
 - Austerity and Prosperity: Increasing downward pressure and upwards 
 redistribution
 - First galleries, then bulldozers: Rent and cultural production
-- History of renterâ€™s strikes in Vancouver, from planning instigation to 
+- History of renter’s strikes in Vancouver, from planning instigation to 
 outcomes
-- Mobilize your Complex!: A step-by-step guide to organising a renterâ€™s strike
+- Mobilize your Complex!: A step-by-step guide to organising a renter’s strike
 - How to Fight Your Eviction: A workshop on navigating the Residential 
 Tenancy Act in B.C. 
 - Vampire or Benefactor?: How the construction of the landlord affects rent 
@@ -92,8 +93,8 @@ politicians and landed elites
 - What is the role of nonprofit organisations in processes of gentrification?
 - Urban Renewal and Social Mixing: A study of euphemisms around 
 gentrification, urban displacement and accumulation by dispossession
-- A Renterâ€™s Life in a Landlordâ€™s World: A critical comparison of rental laws, 
-and tenantsâ€™ rights in North America, Europe and Asia
+- A Renter’s Life in a Landlord’s World: A critical comparison of rental laws, 
+and tenants’ rights in North America, Europe and Asia
 
 This call for proposals is also a call for spaces. We are looking to coordinate 
 with organizations capable of opening up their spaces. This includes: 
@@ -112,28 +113,28 @@ or by post to
 237 Keefer Street, Unit 245, Vancouver BC V6A 1X6 Canada
 
 Main sponsors: The Kootenay School of Writing, The Mainlander and the 
-Vancouver Renterâ€™s Union. 
+Vancouver Renter’s Union. 
 
 The Mainlander is an online publication that lends progressive critique and 
 investigation to the understanding of municipal politics in Metro Vancouver. It 
-has been an invaluable source in the city for unpacking Vancouverâ€™s housing 
+has been an invaluable source in the city for unpacking Vancouver’s housing 
 crisis and providing social movements with the facts necessary to push 
 forward against political and media rhetoric. Spawning from the aftermath of 
-Vancouverâ€™s 2010 Winter Olympics, The Mainlander continues to translate 
+Vancouver’s 2010 Winter Olympics, The Mainlander continues to translate 
 complex, and often misleading, municipal documents and policies that 
 everyone can appreciate.
 
-As a writerâ€™s collective that was formed in 1984 in response to the closure of 
+As a writer’s collective that was formed in 1984 in response to the closure of 
 accessible public education, The Kootenay School of Writing serves as a 
 critical site for working outside the boundaries of traditional theory, practice 
 and teaching of writing. This has informed productive relationships that have 
 bridged working writers with alternative sociabilities, political affiliations, and 
 possible interventions. 
 
-The Vancouver Renterâ€™s Union seeks to organize all Metro Vancouver renters 
+The Vancouver Renter’s Union seeks to organize all Metro Vancouver renters 
 into a union capable of determining housing rights, rents, and stability through 
 collective bargaining and political action, including petitioning, picketing, and 
-rent strikes, as well as through conversion of the cityâ€™s housing stock to 
+rent strikes, as well as through conversion of the city’s housing stock to 
 resident-controlled, not-for-profit cooperatives.
 
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 12
 type: "EVENT"
+venue: "Statium-Chinatown Walking Tour"
 summary: "Statium-Chinatown Walking Tour | Preservation,Transformation + Contestation | 530PM | AUG 23"
 ---
 

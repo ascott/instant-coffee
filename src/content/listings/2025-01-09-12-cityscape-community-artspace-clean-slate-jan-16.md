@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 12
 type: "OPENING"
+venue: "CityScape Community ArtSpace"
 summary: "CityScape Community ArtSpace | CLEAN SLATE | JAN 16"
 ---
 

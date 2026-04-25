@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 29
 type: "CALL"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Call for Participation: YOUTH MENTORSHIP | JUL 20"
 ---
 

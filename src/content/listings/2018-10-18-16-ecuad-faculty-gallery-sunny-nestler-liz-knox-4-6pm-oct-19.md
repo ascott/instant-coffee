@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 16
 type: "OPENING"
+venue: "ECUAD - Faculty Gallery"
 summary: "ECUAD - Faculty Gallery | Sunny Nestler & Liz Knox | 4-6PM | OCT 19"
 ---
 

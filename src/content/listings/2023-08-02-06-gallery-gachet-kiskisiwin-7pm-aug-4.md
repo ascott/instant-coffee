@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 6
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Kiskisiwin | 7PM | AUG 4"
 ---
 

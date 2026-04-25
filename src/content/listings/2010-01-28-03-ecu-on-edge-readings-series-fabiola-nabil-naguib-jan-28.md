@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 3
 type: ""
+venue: "ECU: On Edge readings series"
 summary: "ECU: On Edge readings series | Fabiola Nabil Naguib | JAN 28"
 ---
 

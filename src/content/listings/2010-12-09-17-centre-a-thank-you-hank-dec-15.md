@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 17
 type: ""
+venue: "Centre A"
 summary: "Centre A | Thank you, Hank | DEC 15"
 ---
 

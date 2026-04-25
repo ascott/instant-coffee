@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 49
 type: "CALL"
+venue: "Bare Oaks Family Naturist Park"
 summary: "Bare Oaks Family Naturist Park | Naked State art residency | AUG 7"
 ---
 

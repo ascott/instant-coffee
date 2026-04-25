@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Valerie Durant - Systems Shift | MAY 17"
 ---
 

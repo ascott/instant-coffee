@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 12
 type: "OPENING"
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Three New Exhibitions | APR 8"
 ---
 

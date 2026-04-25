@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 16
 type: "EDUCATION"
+venue: "AUDAIN ART MUSEUM"
 summary: "AUDAIN ART MUSEUM | Creative Collages with Renee Van Halm | JAN 14"
 ---
 

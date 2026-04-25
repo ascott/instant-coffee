@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 4
 type: ""
+venue: "KAPSULA Magazine"
 summary: "KAPSULA Magazine | current issue | SEP 26"
 ---
 
@@ -22,7 +23,7 @@ simultaneously? The scope of the word expands when considering
 than a desire to find whatever is missing, longing functions as a state of
 being, a phenomenology that canâ€™t always be remedied… The corporeality
 of longing is matched then by a psychological conditioning that is
-sometimes, if not consistently, out of oneâ€™s control.
+sometimes, if not consistently, out of one’s control.
 
 The historical and social governance of (be)longing runs parallel
 to longing as a sentiment. The ability of an individual to compensate for

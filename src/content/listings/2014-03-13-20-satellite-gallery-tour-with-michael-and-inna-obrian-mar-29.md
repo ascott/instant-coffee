@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 20
 type: "TALK"
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Tour with Michael and Inna O’Brian | MAR 29"
 ---
 

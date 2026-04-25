@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 28
 type: ""
+venue: "INDEX"
 summary: "INDEX | WE MUST CONFRONT VAGUE IDEAS WITH CLEAR IMAGES | MAY 8"
 ---
 
@@ -11,11 +12,11 @@ WE MUST CONFRONT VAGUE IDEAS WITH CLEAR IMAGES
 
 -
 
-A group show exhibiting recent graduates of Emily Carrâ€™s photography 
+A group show exhibiting recent graduates of Emily Carr’s photography 
 program.
 
 Thursday, May 8th 
-7pm â€“ 11pm
+7pm – 11pm
 
 @ INDEX
 1305 Powell St.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 17
 type: "TALK"
+venue: "Emily Carr University SB 410B"
 summary: "Emily Carr University SB 410B | Twilight Hour - Michael Drebert | FEB 21"
 ---
 

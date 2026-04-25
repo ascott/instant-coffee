@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 25
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Canada Line Public Art Competition | NOV 27"
 ---
 

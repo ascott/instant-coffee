@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 3
 type: "CALL"
+venue: "Beyond Spectacle: Open Call for Contribution"
 summary: "Beyond Spectacle: Open Call for Contribution | FEB 17"
 ---
 

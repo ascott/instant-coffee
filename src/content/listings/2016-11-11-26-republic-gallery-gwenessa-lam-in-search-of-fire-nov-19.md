@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 26
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | GWENESSA LAM: IN SEARCH OF FIRE | NOV 19"
 ---
 

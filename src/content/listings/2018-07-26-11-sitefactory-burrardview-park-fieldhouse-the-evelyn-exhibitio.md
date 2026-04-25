@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 11
 type: "OPENING"
+venue: "SiteFactory @ Burrardview Park Fieldhouse"
 summary: "SiteFactory @ Burrardview Park Fieldhouse | The Evelyn Exhibition | JUL 28"
 ---
 

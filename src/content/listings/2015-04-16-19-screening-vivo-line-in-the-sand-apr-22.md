@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | Line In The Sand | APR 22"
 ---
 
@@ -30,30 +31,30 @@ identity. The film contains interviews with a wide range of enigmatic,
 powerful characters from Alberta to Haida Gwaii, including educators,
 farmers, and Indigenous knowledge keepers.
 
-Co-director and producer Tomas Borsa comments on the timing of the filmâ€™s
-release: â€œWeâ€™ve reached a liminal moment in Canadian history, in which
+Co-director and producer Tomas Borsa comments on the timing of the film’s
+release: “We’ve reached a liminal moment in Canadian history, in which
 falling oil prices, coinciding with a fall federal election, mean that
 energy politics will be at the forefront of conversation for quite some
 time. The Northern Gateway is the single most salient and significant
 marker of that trend in Canada, and treating it as a case study might help
 to forecast the direction similar debates will take in the future.â€ 
 
-The location of the filmâ€™s Vancouver premiere at VIVO Media Arts Centre is
-equally significant: â€œVIVO has a long and storied history of ruffling
-feathers. Theyâ€™ve amassed one of the most significant collections of
+The location of the film’s Vancouver premiere at VIVO Media Arts Centre is
+equally significant: “VIVO has a long and storied history of ruffling
+feathers. They’ve amassed one of the most significant collections of
 independent media in Canada, and have been there to witness similar stories
-of struggle in the past â€“ Clayoquot Sound, Lyell Island, to name a few.
+of struggle in the past – Clayoquot Sound, Lyell Island, to name a few.
 Itâ€™s a huge honour to hold the screening in that setting.â€ 
 
 The April 22nd screening marks the conclusion to a 14-stop premiere tour of
 the film throughout communities in Northern BC. Other screenings on that
 tour include Quesnel, Tache, Fort St. James, Burns Lake, Old Hazelton,
-Unistâ€™otâ€™en Camp, Terrace, Smithers, Kitimat, Skidegate, and Masset.
+Unist’ot’en Camp, Terrace, Smithers, Kitimat, Skidegate, and Masset.
 
-On the decision to premiere the film in Northern BC, Borsa comments: â€œWe
+On the decision to premiere the film in Northern BC, Borsa comments: “We
 wanted to premiere the film in Northern BC as a condition of respect to
-those impacted by the project. Thereâ€™s a tendency for journalists to
-â€˜parachute inâ€™, collect material, and then leave. We wanted to respect the
+those impacted by the project. There’s a tendency for journalists to
+‘parachute in’, collect material, and then leave. We wanted to respect the
 intrinsic link between place and identity felt by many who live in the path
 of the pipeline by holding the first screenings in the regions in question.â€ 
 x

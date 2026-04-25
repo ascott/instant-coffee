@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 24
 type: "CALL"
+venue: "Second Annual Aboriginal Underground Art Crawl"
 summary: "Second Annual Aboriginal Underground Art Crawl | CALL TO ARTISTS | Victoria | DEC 31"
 ---
 

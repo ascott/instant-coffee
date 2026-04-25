@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 15
 type: ""
+venue: "Rennie Collection at ECU"
 summary: "Rennie Collection at ECU | Speaker Series: Robert Beck / Robert Buck | FEB 27"
 ---
 
 Rennie Collection Speaker Series :: Robert Beck / Robert Buck
-Wednesday, February 27, 2013 â€“ 8:00-9:30pm
+Wednesday, February 27, 2013 – 8:00-9:30pm
 Emily Carr University Lecture Hall (Room 301, North Building)
 For more information, or to book a tour of the exhibition, please visit 
 renniecollection.org
@@ -25,12 +26,12 @@ content and persistently diverse in form. As an alias, Buck appealed to the
 artist for its precision and associations: stag, son, cash, to throw off. 
 
 Robert Buck lives and works in New York City and the deserts of the 
-American Southwest. A graduate of NYUâ€™s Tisch School of the Arts, Film and 
-Television Program, Buck completed the Whitney Museum of American Artâ€™s 
+American Southwest. A graduate of NYU’s Tisch School of the Arts, Film and 
+Television Program, Buck completed the Whitney Museum of American Art’s 
 Independent Study Program in 1993. His work has been exhibited 
 internationally, including a 2007 solo show at the Wexner Museum of Art in 
 Columbus, OH, and is part of museum collections across the US. He was a 
-1999 Louis Comfort Tiffany Foundation Award recipient. Buckâ€™s work is 
+1999 Louis Comfort Tiffany Foundation Award recipient. Buck’s work is 
 represented by CRG Gallery, New York City, and Stephen Friedman Gallery, 
 London.
 

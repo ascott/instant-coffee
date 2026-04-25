@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 25
 type: "EXHIBITION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Andrea Taylor: Analogy to a Blue Flame | JUN 5"
 ---
 

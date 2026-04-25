@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 55
 type: "CALL"
+venue: "ALCHEMY, Prince Edward County, ON"
 summary: "ALCHEMY, Prince Edward County, ON | Alchemy Artists Residency | MAR 30"
 ---
 

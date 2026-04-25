@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 31
 type: ""
+venue: "JOB"
 summary: "JOB | Richmond Art Gallery Association | Marketing and Social Media Consultant | JAN 23"
 ---
 
@@ -12,7 +13,7 @@ Marketing and Social Media Consultant Job Description
 
 The Richmond Art Gallery, the only public gallery in Richmond, British
 Columbia, is a municipal gallery supported by the Richmond Art Gallery
-Association, an independent, non-profit society. The Galleryâ€™s mandate is
+Association, an independent, non-profit society. The Gallery’s mandate is
 to exhibit, preserve and promote contemporary visual arts and provide
 exhibition-related programming. Through its exhibitions, publications,
 educational programming, collections, and significant partnerships, the
@@ -23,7 +24,7 @@ and international contemporary art.
 Reporting to the Gallery Director, the Marketing and Social Media
 Consultant is a short-term contracted position funded by the BC Arts
 Council. The Consultant will assist the Director and staff in evaluating
-the Galleryâ€™s current marketing operations and social media presence to
+the Gallery’s current marketing operations and social media presence to
 enhance its visibility and promote increased attendance, membership and
 donations. The Consultant will complete research and analysis of the
 highest professional quality and communicate recommendations and findings
@@ -31,7 +32,7 @@ in the form of written reports, visuals, and presentations.
 
 Responsibilities:
 
-Evaluate the Galleryâ€™s current marketing collateral and publications,
+Evaluate the Gallery’s current marketing collateral and publications,
 both printed and web based
 
 Develop a strategic marketing and social media plan for the Gallery,
@@ -40,7 +41,7 @@ attendance.
 
 Advise on the coordination, preparation, and dissemination of print and
 digital content across various platforms consistent with institutional
-mission and excellence to further the Galleryâ€™s position as a cultural leader
+mission and excellence to further the Gallery’s position as a cultural leader
 
 Research and collect information on media outlets, new audiences and
 marketing opportunities
@@ -57,28 +58,28 @@ physical and online audiences and supporters
 
 Qualifications:
 
-Â· Post-secondary education in public administration, business
+· Post-secondary education in public administration, business
 administration, marketing, communications or related experience; non-profit
 arts marketing background preferred
 
-Â· 3+ years professional work experience
+· 3+ years professional work experience
 
-Â· Experience dealing with media
+· Experience dealing with media
 
-Â· Experience coordinating online and social media content
+· Experience coordinating online and social media content
 
-Â· Strong organizational and time management skills; able to manage
+· Strong organizational and time management skills; able to manage
 multiple tasks and competing priorities within short timelines.
 
-Â· Ability to work independently and with a team
+· Ability to work independently and with a team
 
-Â· Excellent writing and communications skills
+· Excellent writing and communications skills
 
 Salary: $35 hour on contract for a total of 350 hours
 
 Hours of Work:
 
-14 â€“ 20 hours a week between February â€“ July 2015 (flexible)
+14 – 20 hours a week between February – July 2015 (flexible)
 
 The consultant will work both from a home office (responsible for
 maintaining own internet and computing equipment), and from the Gallery, as

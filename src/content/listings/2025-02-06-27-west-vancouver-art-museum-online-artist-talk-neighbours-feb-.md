@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 27
 type: "EVENT"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Online Artist Talk: Neighbours | FEB 13"
 ---
 

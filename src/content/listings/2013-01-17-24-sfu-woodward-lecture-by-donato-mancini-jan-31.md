@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 24
 type: ""
+venue: "SFU Woodward"
 summary: "SFU Woodward | Lecture by Donato Mancini | JAN 31"
 ---
 
@@ -21,7 +22,7 @@ SFU's Goldcorp Centre for the Arts,
 
 The interdisciplinary practice of Donato Mancini focuses mainly on poetry, 
 bookworks, text-based visual art and cultural criticism. His first two books of 
-procedural and visual writing, Ligatures (New Star 2005) and Ã†thel (New Star 
+procedural and visual writing, Ligatures (New Star 2005) and Æthel (New Star 
 2007) were each nominated for the ReLit Award. Two more books, Buffet 
 World (New Star) and Fact 'n' Value (Fillip Editions) were published in 2011. 
 Mancini's collaborative visual works have been exhibited in Canada, the United 
@@ -29,9 +30,9 @@ States, Scandinavia and Cuba. Notable exhibitions include Surveillance
 Sketch (Artspeak, Vancouver 2003), Untitled: Conversation Loops (The 
 Western Front, Vancouver 2004; with Miguel da Conceicao, Jacob Gleeson, 
 and Elisa Rathje) , Angels in the Angles at (Gallery Atsui, Vancouver 2009; 
-with Marina Roy and Christian BÃ¶k) and the solo exhibition of print works I 
+with Marina Roy and Christian Bök) and the solo exhibition of print works I 
 Smell Something Burning (H.K.Y.D.) (CSA, Vancouver 2011). An exhibition of 
-new print works commissioned by the Malaspina Printmakerâ€™s Society is 
+new print works commissioned by the Malaspina Printmaker’s Society is 
 forthcoming through the Institutions By Artists convention in Vancouver. He 
 co-directed the world's first genuine in-world avatar documentary AVATARA 
 (Centre A, Vancouver 2003), now part of the Ubu Web international archive of 
@@ -40,7 +41,7 @@ since 2003, he was a principal organiser of the interdisciplinary N 49 15.832 -
 W 123 05.921 Positions Colloquium in August 2008 (VIVO Media Arts, 
 Vancouver). His first book of critical writing You Must Work Harder to Write 
 Poetry of Excellence was just published by BookThug (Toronto). He is 
-currently a curator in residence in VIVOâ€™s Crista Dahl Media Library & 
+currently a curator in residence in VIVO’s Crista Dahl Media Library & 
 Archive, as part of the project Anamnesia: Unforgetting , and is enrolled in the 
 PhD program in English at the University of British Columbia.
 

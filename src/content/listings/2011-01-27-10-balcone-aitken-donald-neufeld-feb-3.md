@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 10
 type: ""
+venue: "Balcone"
 summary: "Balcone | Aitken, Donald & Neufeld | FEB 3"
 ---
 

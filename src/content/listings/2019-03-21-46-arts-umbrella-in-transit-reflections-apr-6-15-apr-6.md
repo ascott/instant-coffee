@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 46
 type: "CALL"
+venue: "Arts Umbrella"
 summary: "Arts Umbrella | In Transit: Reflections | APR 6-15 | APR 6"
 ---
 

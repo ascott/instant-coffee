@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 22
 type: "FUNDRAISER"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | MAIL ART EXHIBITION AUCTION - PART 2 | DEC 31"
 ---
 

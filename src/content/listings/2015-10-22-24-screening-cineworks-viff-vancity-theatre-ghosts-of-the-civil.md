@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks & VIFF Vancity Theatre | Ghosts… Of The Civil Dead (35mm) | OCT 29"
 ---
 

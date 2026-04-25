@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 13
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Vancouver, Crawling, Weeping, Betting | continuing | MAR 1"
 ---
 
 Vancouver, Crawling, Weeping, Betting
 
 continuing until March 1, 2014
-Battery Opera PerformanceWalking Projects : â€œVancouver, crawling, 
+Battery Opera PerformanceWalking Projects : “Vancouver, crawling, 
 weeping, bettingâ€  is a co-presentation by UNIT/PITT and battery opera 
 performance, comprising six weeks of public actions, clandestine 
 screenings, chance meetings, and intoxicated psychogeographies.
@@ -40,20 +41,20 @@ through March 1, unpredictable and beguiling walking tours of the city
 originate from UNIT/PITT. (Complete schedule information is below.) Admission 
 to all events is free.
 
-Thursdays: 11:30pm â€“ 12:30 am Witching hour solos (viewable from the 
+Thursdays: 11:30pm – 12:30 am Witching hour solos (viewable from the 
 street through live projections on windows)
-Fridays: 10pm â€“ midnight Bobâ€™s Salon (interactive art salon for the curious 
+Fridays: 10pm – midnight Bob’s Salon (interactive art salon for the curious 
 imbiber, featuring guest artists)
-Saturdays: 12 â€“ 5 pm Guided improvised tours of the city by six performers, 
-based on Bose and McIntoshâ€™s stories and maps. (first come, first tour).
+Saturdays: 12 – 5 pm Guided improvised tours of the city by six performers, 
+based on Bose and McIntosh’s stories and maps. (first come, first tour).
 Performance Schedule
 
 (all events begin at Unit Pitt Projects, 236 East Pender Street, Vancouver)
 
-Thursday Feb 13, 11:30pm â€“ 12:30 am Witching hour solo
+Thursday Feb 13, 11:30pm – 12:30 am Witching hour solo
 
 Cease Wyss
-Friday Feb 14, 10pm â€“ 12 midnight Bobâ€™s Salon
+Friday Feb 14, 10pm – 12 midnight Bob’s Salon
 
 Dance: Justine Chambers and cohorts
 Music: Ben Brown and cohorts
@@ -63,10 +64,10 @@ Saturday Feb 15, Guided improvised tours of the city
 
 Brian Solomon, Pedro Chamale, Michelle Lui, Aryo Khakpour, Chu-Lynne Ng, 
 Maxine Chadburn.
-Thursday Feb 20, 11:30pm â€“ 12:30 am Witching hour solo
+Thursday Feb 20, 11:30pm – 12:30 am Witching hour solo
 
 Daina Ashbee
-Friday Feb 21, 10pm â€“ 12 midnight Bobâ€™s Salon
+Friday Feb 21, 10pm – 12 midnight Bob’s Salon
 
 Dance: Daina Ashbee, Diego Romero and cohort
 Music: Max Murphy, Ben Brown, Russel Scholburg
@@ -76,10 +77,10 @@ Saturday Feb 22, Guided improvised tours of the city
 
 Brian Solomon, Pedro Chamale, Michelle Lui, Aryo Khakpour, Chu-Lynne Ng, 
 Maxine Chadburn.
-Thursday 27, 11:30pm â€“ 12:30 am Witching hour solo
+Thursday 27, 11:30pm – 12:30 am Witching hour solo
 
 Chris Bose
-Friday Feb 28, 10pm â€“ 12 midnight Bobâ€™s Salon
+Friday Feb 28, 10pm – 12 midnight Bob’s Salon
 
 Dance: Arash Khakpour and cohorts
 Music: Max Murphy, Joel Lower, Gary Wildeman, Bruce Freedman
@@ -106,11 +107,11 @@ tours, late night improvised art salons and witching hour solos, will enable
 guest artists, citizens and visitors to respond, react or ignore the reflected 
 world of Bose and McIntosh. Bring your ghosts, bring your body, have a drink 
 and take your chances. Join the conversation about this city, your place, our 
-past and its spirits â€“ both the ones that stubbornly linger, and the ones that 
+past and its spirits – both the ones that stubbornly linger, and the ones that 
 enable forgetting.
 
-Chris Bose is a war party baby of the Nâ€™Lakaâ€™Pamux and the Secwepmec 
-Nations (they hooked-up at St. Georgeâ€™s residential school in Lytton). He is a 
+Chris Bose is a war party baby of the N’Laka’Pamux and the Secwepmec 
+Nations (they hooked-up at St. George’s residential school in Lytton). He is a 
 writer, artist, musician, filmmaker and a Scoundrel.
 
 David McIntosh is a settler party baby of a White-Man and a White-Lady (they 

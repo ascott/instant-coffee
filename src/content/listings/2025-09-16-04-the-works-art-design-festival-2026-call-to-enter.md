@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 4
 type: "CALL"
+venue: "The Works Art & Design Festival 2026 Call to Enter"
 summary: "The Works Art & Design Festival 2026 Call to Enter"
 ---
 

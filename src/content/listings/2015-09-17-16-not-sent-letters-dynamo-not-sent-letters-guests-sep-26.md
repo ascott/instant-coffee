@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 16
 type: "EVENT"
+venue: "Not Sent Letters @ Dynamo"
 summary: "Not Sent Letters @ Dynamo | Not Sent Letters & Guests | SEP 26"
 ---
 

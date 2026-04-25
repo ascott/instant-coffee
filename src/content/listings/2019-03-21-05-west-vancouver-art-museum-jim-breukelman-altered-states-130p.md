@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 5
 type: "TALK"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | JIM BREUKELMAN: ALTERED STATES | 1:30pm | MAR 21"
 ---
 

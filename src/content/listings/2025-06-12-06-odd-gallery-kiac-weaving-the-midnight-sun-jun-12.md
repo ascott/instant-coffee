@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "ODD Gallery KIAC"
 summary: "ODD Gallery KIAC | Weaving the Midnight Sun | JUN 12"
 ---
 

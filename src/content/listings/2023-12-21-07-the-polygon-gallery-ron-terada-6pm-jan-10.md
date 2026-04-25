@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 7
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Ron Terada | 6PM | JAN 10"
 ---
 

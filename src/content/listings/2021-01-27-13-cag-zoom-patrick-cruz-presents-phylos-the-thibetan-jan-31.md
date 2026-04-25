@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 13
 type: "EVENT"
+venue: "CAG [ZOOM]"
 summary: "CAG [ZOOM] | Patrick Cruz presents Phylos the Thibetan | JAN 31"
 ---
 

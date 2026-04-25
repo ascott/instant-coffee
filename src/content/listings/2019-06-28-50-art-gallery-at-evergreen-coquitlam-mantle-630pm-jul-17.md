@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 50
 type: "OPENING"
+venue: "Art Gallery at Evergreen (Coquitlam)"
 summary: "Art Gallery at Evergreen (Coquitlam) | Mantle | 6:30PM | JUL 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 12
 type: ""
+venue: "PHG"
 summary: "PHG | MODELS FOR TAKING PART | APR 2"
 ---
 

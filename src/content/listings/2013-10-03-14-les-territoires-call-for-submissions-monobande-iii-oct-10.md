@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 14
 type: ""
+venue: "Les Territoires"
 summary: "Les Territoires | Call for Submissions Monobande III | OCT 10"
 ---
 

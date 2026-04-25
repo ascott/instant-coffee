@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 36
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | _NODE_ | 7-9PM | APR 5"
 ---
 

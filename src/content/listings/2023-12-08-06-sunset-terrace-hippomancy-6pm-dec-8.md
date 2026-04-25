@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 6
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | HIPPOMANCY | 6PM | DEC 8"
 ---
 

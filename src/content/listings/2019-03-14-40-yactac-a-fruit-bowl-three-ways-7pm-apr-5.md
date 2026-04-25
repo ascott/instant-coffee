@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 40
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | A FRUIT BOWL THREE WAYS | 7pm | APR 5"
 ---
 

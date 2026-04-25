@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 24
 type: "OPENING"
+venue: "Model"
 summary: "Model | Rent | JUN 5"
 ---
 
@@ -16,7 +17,7 @@ JUNE 5 TO JULY 3
 Opening reception, Friday, June 5, 2015
 7PM-11PM
 
-Lorna Bauer and Jon Knowles are artists living and working in MontrÃ©al.
+Lorna Bauer and Jon Knowles are artists living and working in Montréal.
 
 MODEL
 147 MAIN ST, VANCOUVER

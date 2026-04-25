@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 14
 type: "OPENING"
+venue: "SFU School for the Contemporary Arts"
 summary: "SFU School for the Contemporary Arts | Casper Leerink's MFA Project: and we continue | OCT 16"
 ---
 

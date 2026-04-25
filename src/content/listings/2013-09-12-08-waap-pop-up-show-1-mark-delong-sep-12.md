@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 8
 type: ""
+venue: "WAAP Pop Up Show #1"
 summary: "WAAP Pop Up Show #1 | Mark Delong | SEP 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 20
 type: "CALL"
+venue: "VIVO Media Arts Committee"
 summary: "VIVO Media Arts Committee | Call for Submissions: Place and Sound | FEB 12"
 ---
 

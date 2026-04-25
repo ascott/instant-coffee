@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 46
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema at the Cinematheque | Groundwork | 7:30 PM | JUL 18"
 ---
 

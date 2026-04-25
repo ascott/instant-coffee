@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 2
 type: ""
+venue: "100 PAINTERS OF TOMORROW"
 summary: "100 PAINTERS OF TOMORROW | call | MAR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 10
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | FUSE | NOV 5"
 ---
 
@@ -12,11 +13,11 @@ Fuse: November 5th, 2010
 Fuse gets objectified! This evening of performance, theatre and music
 explores collecting, material obsessions and everyday encounters. With
 Everything Everyday and Waste Not providing a visual and thematic backdrop,
-join some of Vancouverâ€™s most exciting artists for interpretations on the
+join some of Vancouver’s most exciting artists for interpretations on the
 theme of Stuff.
 
-- Neworld Theatre engulfs you in Hrothgarâ€™s Stuff, an interactive
-theatre pieceâ€”complete with blender drinks. Created by Marcus Youssef and
+- Neworld Theatre engulfs you in Hrothgar’s Stuff, an interactive
+theatre piece—complete with blender drinks. Created by Marcus Youssef and
 Hrothgar Matthews, and featuring improv lounge music by the Bank Dogs.
 
 - Out Innerspace works the crowd with a fresh new dance
@@ -27,7 +28,7 @@ work specifically for Fuse.
 and The Headband Project are celebrating the finale with YOU. Come get your
 own headband. Be part of the movement!
 
-- 16mm film creates sculpture and projections in Alex MacKenzieâ€™s
+- 16mm film creates sculpture and projections in Alex MacKenzie’s
 film installation Accumulation (after Luis and Sandra).
 
 - World-class taiko group Jodaiko make it loud for Fuse.

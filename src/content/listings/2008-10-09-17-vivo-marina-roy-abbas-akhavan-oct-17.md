@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 17
 type: ""
+venue: "VIVO"
 summary: "VIVO | MARINA ROY / ABBAS AKHAVAN | OCT 17"
 ---
 

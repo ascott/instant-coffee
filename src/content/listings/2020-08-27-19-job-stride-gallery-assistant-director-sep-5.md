@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 19
 type: ""
+venue: "JOB"
 summary: "JOB | Stride Gallery | ASSISTANT DIRECTOR | SEP 5"
 ---
 

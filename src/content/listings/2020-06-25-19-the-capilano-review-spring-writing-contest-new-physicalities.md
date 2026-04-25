@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 19
 type: "CALL"
+venue: "The Capilano Review"
 summary: "The Capilano Review | Spring Writing Contest: New Physicalities | JUN 30"
 ---
 

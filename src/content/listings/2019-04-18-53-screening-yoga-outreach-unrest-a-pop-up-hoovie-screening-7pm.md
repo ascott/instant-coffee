@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 53
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Yoga Outreach | Unrest - A pop-up Hoovie screening | 7PM | APR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Trans-Pacific Transmissions | JUN 4"
 ---
 

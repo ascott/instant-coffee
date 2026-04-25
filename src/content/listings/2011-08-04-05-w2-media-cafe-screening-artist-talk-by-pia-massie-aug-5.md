@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 5
 type: ""
+venue: "W2 Media Cafe"
 summary: "W2 Media Cafe | Screening & Artist Talk by Pia Massie | AUG 5"
 ---
 

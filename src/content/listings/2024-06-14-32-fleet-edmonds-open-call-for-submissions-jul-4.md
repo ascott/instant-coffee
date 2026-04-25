@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 32
 type: "CALL"
+venue: "FLEET Edmonds"
 summary: "FLEET Edmonds | Open Call for Submissions | JUL 4"
 ---
 

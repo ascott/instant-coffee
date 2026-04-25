@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA x UNIT/PITT | Budding | 830PM | JUL 28"
 ---
 

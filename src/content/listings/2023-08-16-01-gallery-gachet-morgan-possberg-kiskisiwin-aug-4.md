@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Morgan Possberg: Kiskisiwin | AUG 4"
 ---
 

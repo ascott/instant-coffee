@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 27
 type: "TALK"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | Dislocationg N. Vancouver | 3PM | APR 15"
 ---
 

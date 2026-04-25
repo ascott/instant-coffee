@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we’re waylaid "
 emailDate: "Wed, 04 Jan 2012 21:35:09 -0800"
 number: 11
 type: ""
+venue: "Papirmasse Affordable Art Subscription"
 summary: "Papirmasse Affordable Art Subscription | CALL | JAN 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 15
 type: "CALL"
+venue: "Video Out Distribution/VIVO"
 summary: "Video Out Distribution/VIVO | Call for Submissions: Too Soon | APR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 20
 type: "OPENING"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | This is an Illusion | 6 - 9PM | SEP 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Norm Theatre, UBC | From Ground Zero | NOV 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 11
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | Ironclad Art Design Challenge: CALL | APR 15"
 ---
 

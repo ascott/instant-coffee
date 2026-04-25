@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 22
 type: "OPENING"
+venue: "New Red Gate (NRG)"
 summary: "New Red Gate (NRG) | Art Waste 2018 Group Show 2/2 | JUN 8"
 ---
 

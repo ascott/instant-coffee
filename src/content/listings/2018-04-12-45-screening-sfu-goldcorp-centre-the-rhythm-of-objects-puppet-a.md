@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 45
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Goldcorp Centre | The Rhythm of Objects - Puppet Animation | 8PM | APR 25"
 ---
 

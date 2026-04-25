@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 9
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | MEASURE | SEP 23"
 ---
 

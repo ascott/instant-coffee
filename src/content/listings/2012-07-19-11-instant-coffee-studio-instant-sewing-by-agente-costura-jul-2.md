@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 11
 type: ""
+venue: "INSTANT COFFEE STUDIO"
 summary: "INSTANT COFFEE STUDIO | Instant Sewing by AGENTE COSTURA | JUL 22"
 ---
 
@@ -33,7 +34,7 @@ we tailor any garment to your body type
 we get you to the clothes you've always wanted but never imagined
 we make it all up on the spot!
 
-Come along just to have a look, or join in the transformation! ItÃ¯Â¿Â½s easy:
+Come along just to have a look, or join in the transformation! Itï¿½s easy:
 
 1. Go through your wardrobe and pick out the garments that have been sitting
 there for a long time.

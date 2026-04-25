@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 9
 type: "EVENT"
+venue: "Decoy Magazine"
 summary: "Decoy Magazine | The 20: A Site-Specific Poem and Walking Tour | APR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 10
 type: "OPENING"
+venue: "Will Aballe Art Projects"
 summary: "Will Aballe Art Projects |  | JAN 5"
 ---
 

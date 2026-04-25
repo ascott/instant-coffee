@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 35
 type: "CALL"
+venue: "The Reach Gallery Museum (Abbotsford)"
 summary: "The Reach Gallery Museum (Abbotsford) | Art on Demand (Winter/Spring) | NOV 18"
 ---
 

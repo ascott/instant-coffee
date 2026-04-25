@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 41
 type: "EVENT"
+venue: "Bill Reid Gallery [ONLINE]"
 summary: "Bill Reid Gallery [ONLINE] | An Unbroken Line: Haida Art and Culture | 3PM | DEC 8"
 ---
 

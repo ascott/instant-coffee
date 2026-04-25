@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 49
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Laiwan: Maple Tree Spiral | 4PM | JUL 6"
 ---
 

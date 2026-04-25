@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 9
 type: ""
+venue: "W2 Moving Party"
 summary: "W2 Moving Party | | APR 29"
 ---
 
 W2 Moving Party
 
-April 29, 2011 7pm â€“ Late
+April 29, 2011 7pm – Late
 151 W Cordova 
 
 Media & Visual Artists: Dr. Spiny (RedGate) / Matty Harris (RedGate) / 
@@ -23,7 +24,7 @@ DVS1 (Prologue/ Transmat - Klockworks - Minneapolis/St Paul) / TJ
 Hooker (Subversive - Black Knights) / Miss Myte (Aspect Media) / 
 Caleb Fox (Subversive - Black Knights) / J.F.Killah (SHAHdj's) / 
 Johnny Dubz (Perception) /Michael Red (Lighta! / low indigo) / 
-Librarian (Bass Coast Project) / Prison Garde / NiÃ±a Mendoza + 
+Librarian (Bass Coast Project) / Prison Garde / Niña Mendoza + 
 MORE
 
 In the past year, 60,000 people have come together to participate in 
@@ -48,5 +49,5 @@ Garret Stevens (www.facebook.com/#!/GTylerStevens)
 
 Tickets available online at http://www.w2movingparty.eventbrite.com 
 Tickets also available at Beatstreet, Zulu, The Fall Tattoo Gallery, 
-and the Peopleâ€™s Co-op Bookstore. Advance $15 Door $20 [$10 
+and the People’s Co-op Bookstore. Advance $15 Door $20 [$10 
 Early Entry 7pm]

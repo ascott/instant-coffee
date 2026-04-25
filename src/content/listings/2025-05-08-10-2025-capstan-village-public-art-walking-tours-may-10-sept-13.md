@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 10
 type: "EDUCATION"
+venue: "2025 Capstan Village"
 summary: "2025 Capstan Village | Public Art Walking Tours | MAY 10-SEPT 13 | MAY 10"
 ---
 

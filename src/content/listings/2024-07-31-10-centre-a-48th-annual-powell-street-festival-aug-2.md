@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 10
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | 48th Annual Powell Street Festival | AUG 2"
 ---
 

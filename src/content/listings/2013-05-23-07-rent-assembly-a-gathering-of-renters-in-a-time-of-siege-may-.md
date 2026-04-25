@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 7
 type: ""
+venue: "RENT ASSEMBLY"
 summary: "RENT ASSEMBLY | a gathering of renters in a time of siege | MAY 24"
 ---
 
@@ -17,10 +18,10 @@ Dogwood Centre for Socialist Education
 [Description]
 
 The rentiers reap what they do not sow.
-â€“Adam Smith, Wealth of Nations (1776)
+–Adam Smith, Wealth of Nations (1776)
 
 Rent Assembly: May 24, 25, 26 (2013)
-Vancouver, BC â€“ Unceded Coast Salish territory
+Vancouver, BC – Unceded Coast Salish territory
 
 In the struggle for housing in Vancouver, we tend to highlight issues 
 such as social housing, SROs, gentrification, and affordability. But what 
@@ -34,7 +35,7 @@ resistance. It is invisible, and if we are to stop paying for the damage to
 our own daily lives, rent must be made visible.
 
 The Rent Assembly will be a gathering for those who are not among 
-Vancouverâ€™s â€˜playersâ€™ in the housing market. Many of us will never own 
+Vancouver’s ‘players’ in the housing market. Many of us will never own 
 property. We will always have to worry about our homes being sold out 
 from under us, about being renovicted, evicted or rents inflating 
 beyond liveability. Workers will continue to spend more of their 
@@ -49,7 +50,7 @@ Poetry, critical discussion, artworks, performances, workshops and
 music contributions by:
 
 About a Bicycle, Matthew Adams, Daniela Aiello, Cole Anders, Sean 
-Antrim, Peter Bracking, Margot Butler, Art Cart, BeshÃ©le Caron, Glen 
+Antrim, Peter Bracking, Margot Butler, Art Cart, Beshéle Caron, Glen 
 Coulthard, Nathan Crompton, Eve Belle, Cherise Clarke, Stephen 
 Collis, Jeff Derksen, Ivan Drury, Jennifer Efting, Nicholas Ellan, Colin 
 Fulton, Kim Hearty, Larraine Henning, Penelope Hetherington, Keith 
@@ -60,7 +61,7 @@ Leslie, Rowan Lipkovits, Andy Longhurst, The Mainlander, Pablo
 Mendez, Menses/Loose Tights, Tomasz Michalak, Patrick Morrison, 
 Sarah Moore, Alex Muir, mynameisscot, Heidi Nagtegaal, Cecily 
 Nicholson, Pidgin Picket, Carly Ramsey, 855, Anson Riel, Seattle 
-Solidarity Action Network, SWAMP Theatre, Vancouver Renterâ€™s Union, 
+Solidarity Action Network, SWAMP Theatre, Vancouver Renter’s Union, 
 Maria Wallstam, Karen Ward, Elvin Wyly
 
 + many more renters
@@ -81,7 +82,7 @@ FRIDAY May 24
 
 @ DOGWOOD
 
-4:00 â€“ 6:00 pm â€“ pre-conference reading circle
+4:00 – 6:00 pm – pre-conference reading circle
 
 No Reading After the Internet
 
@@ -91,13 +92,13 @@ Curator: Alex Muir
 
 â€œThe Art of Rentâ€  by David Harvey from Rebel Cities
 
-6 pm â€“ 7:30 pm â€“ conference opening
+6 pm – 7:30 pm – conference opening
 
 Opening Remarks
 
 Food and Discussion
 
-7:30 â€“ 9:00 pm â€“ panel
+7:30 – 9:00 pm – panel
 
 Rent in Theory
 
@@ -107,7 +108,7 @@ Maria Wallstam and Nathan Crompton
 
 Moderator: Donato Mancini
 
-9:00 pm â€“ 12:00 â€“ opening reception
+9:00 pm – 12:00 – opening reception
 
 Musical performances starting at 10:00
 
@@ -116,7 +117,7 @@ Humanities 101 board game â€œWhere Thereâ€™s Walls, Thereâ€™s Hole
 @ Viewed through a closed gate at 1407 E. Georgia Street (Cool Air 
 Rentals)
 
-9:30 â€“ 10:00 pm â€“ performance
+9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
 â€œDISLODGEâ€  part 1
@@ -125,7 +126,7 @@ SATURDAY May 25
 
 @ DOGWOOD
 
-10:00 â€“ 11:30 am â€“ panel
+10:00 – 11:30 am – panel
 
 Racism and Rent
 
@@ -137,7 +138,7 @@ Pablo Mendez
 
 Moderator: Danielle LaFrance
 
-12:30 â€“ 2:30 pm â€“ panel
+12:30 – 2:30 pm – panel
 
 Rent, Development and Bureaucracy
 
@@ -151,7 +152,7 @@ Maria Wallstam
 
 Moderator: Patrick Morrison
 
-3:00 â€“ 4:30pm â€“ panel
+3:00 – 4:30pm – panel
 
 Rent and Cultural Production
 
@@ -163,7 +164,7 @@ Karen Ward
 
 Moderator: Nathan Crompton
 
-5:00 â€“ 6:30pm â€“ panel
+5:00 – 6:30pm – panel
 
 Rent and Direct Action
 
@@ -175,13 +176,13 @@ Moderator: Donato Mancini
 
 @ 855 E Hastings
 
-7:00 â€“ 10:00 pm â€“ interactive theatre workshop
+7:00 – 10:00 pm – interactive theatre workshop
 
 SWAMP Theatre of the Oppressed
 
 Facilitator: Eve Belle
 
-9:00 pm â€“ 2:00 am â€“ party
+9:00 pm – 2:00 am – party
 
 Sweaty Bones
 
@@ -193,13 +194,13 @@ SUNDAY May 26
 
 @ DOGWOOD
 
-10:00 â€“ 11:30 am â€“ strategy discussion group
+10:00 – 11:30 am – strategy discussion group
 
 Renters and Tenant Organizing
 
-Vancouver Rentersâ€™ Union
+Vancouver Renters’ Union
 
-12:00 â€“ 1:30 pm â€“ panel
+12:00 – 1:30 pm – panel
 
 Poetry, Rent and Representation
 
@@ -213,7 +214,7 @@ Moderator: Anahita Jamali Rad
 
 @ PIGEON PARK (At the Gallery Gachet Art Cart)
 
-2:00 â€“ 3:00 pm â€“ poetry reading and chapbook launch
+2:00 – 3:00 pm – poetry reading and chapbook launch
 
 Karen Ward
 
@@ -221,14 +222,14 @@ Cherise Clarke
 
 Peter Bracking
 
-Launching Peter Brackingâ€™s chapbook: Rent In Four: keeping your ass 
+Launching Peter Bracking’s chapbook: Rent In Four: keeping your ass 
 out of the acid rain
 
 Facilitator/curator: Alex Leslie
 
 @ PURPLE THISTLE
 
-3:30 â€“ 4:30pm â€“ discussion
+3:30 – 4:30pm – discussion
 
 Colonialism, Rent, and Gentrification
 
@@ -236,7 +237,7 @@ Glen Coulthard
 
 Daniela Aiello
 
-4:30 â€“ 6:00 pm â€“ panel
+4:30 – 6:00 pm – panel
 
 Renting, Squatting and Occupying Space
 
@@ -252,7 +253,7 @@ with Carly Ramsey supplying pamphlets on squatting
 
 @ INSTANT COFFEE
 
-7:30 â€“ 11:00 pm â€“ exhibition, poetry reading, party
+7:30 – 11:00 pm – exhibition, poetry reading, party
 
 Open poetry reading (various authors)
 
@@ -262,7 +263,7 @@ mynameisscot â€œSelf Guided Walking Tourâ€  (visual slide show)
 
 @ the corridor road behind 381 Railway Street (at Dunlevy Avenue)
 
-9:30 â€“ 10:00 pm â€“ performance
+9:30 – 10:00 pm – performance
 
 Psychotic Butler (featuring Penelope Hetherington) performs 
 â€œDISLODGEâ€  part 2
@@ -271,7 +272,7 @@ Artworks and Activities Ongoing Throughout the Assembly:
 
 Sarah Moore â€œMapping Rent Cityâ€  @DOGWOOD (mapping project)
 
-Carly Ramsey and BeshÃ©le Caron â€œWe live under patriarchyâ€™s roof: rent 
+Carly Ramsey and Beshéle Caron “We live under patriarchy’s roof: rent 
 and housing zine compilationâ€  (zine compilation)
 
 Menses/Loose Tights: THE RENT TAPE: Vancouver gentrification/ 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sorry if my dismissal seemed flipp
 emailDate: "Thu, 22 Jan 2009 12:05:21 -0800"
 number: 17
 type: ""
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | Lynda Gaudreau/Compagnie De Brune | FEB 12"
 ---
 

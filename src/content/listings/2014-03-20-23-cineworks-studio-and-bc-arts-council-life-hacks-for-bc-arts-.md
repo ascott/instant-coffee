@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 23
 type: ""
+venue: "Cineworks Studio and BC Arts Council"
 summary: "Cineworks Studio and BC Arts Council | Life Hacks for BC Arts Council grants | APR 11"
 ---
 

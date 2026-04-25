@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 36
 type: "CALL"
+venue: "Hatch Gallery"
 summary: "Hatch Gallery | Call for Sumbissions 2018-2019 | JUN 27"
 ---
 

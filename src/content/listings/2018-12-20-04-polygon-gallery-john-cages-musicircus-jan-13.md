@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NAKED STATE"
 emailDate: "Thu, 20 Dec 2018 15:00:17 -0800"
 number: 4
 type: "CALL"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | John Cage's Musicircus | JAN 13"
 ---
 

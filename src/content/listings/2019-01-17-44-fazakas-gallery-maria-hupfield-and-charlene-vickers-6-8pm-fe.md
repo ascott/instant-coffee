@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 44
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Maria Hupfield and Charlene Vickers | 6-8PM | FEB 1"
 ---
 

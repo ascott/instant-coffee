@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Dundarave Print Workshop + Gallery"
 summary: "Dundarave Print Workshop + Gallery | March Exhibition | North to South | MAR 4"
 ---
 

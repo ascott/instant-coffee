@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: come mint meant breathe"
 emailDate: "Thu, 19 Feb 2009 10:50:12 -0800"
 number: 12
 type: ""
+venue: "ECU DING: the Art and Politics of Assembly"
 summary: "ECU DING: the Art and Politics of Assembly | Sabine Bitter and Helmut Weber | FEB 26"
 ---
 

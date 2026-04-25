@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no excuses"
 emailDate: "Thu, 02 Jul 2009 08:30:59 -0700"
 number: 4
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Mad Pride 2009 | JUL 3"
 ---
 

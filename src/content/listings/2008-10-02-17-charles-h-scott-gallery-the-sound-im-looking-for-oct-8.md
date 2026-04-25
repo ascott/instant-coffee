@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 17
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | The Sound I'm Looking For | OCT 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 21
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | MAHAL | OCT 28"
 ---
 

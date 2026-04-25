@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 17
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | Lam Wong | 12PM | JUN 22"
 ---
 

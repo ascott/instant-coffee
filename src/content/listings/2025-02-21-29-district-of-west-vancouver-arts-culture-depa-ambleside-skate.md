@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 29
 type: "CALL"
+venue: "District of West Vancouver Arts & Culture Depa"
 summary: "District of West Vancouver Arts & Culture Depa | Ambleside Skateboard Park Mural | MAR 19"
 ---
 

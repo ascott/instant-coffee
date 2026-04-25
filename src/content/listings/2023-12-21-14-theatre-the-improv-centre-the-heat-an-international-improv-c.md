@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 14
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | The Improv Centre | THE HEAT – An International Improv Comedy Showcase | JAN 23"
 ---
 

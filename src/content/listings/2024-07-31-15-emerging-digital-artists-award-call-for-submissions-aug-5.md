@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 15
 type: "CALL"
+venue: "Emerging Digital Artists Award"
 summary: "Emerging Digital Artists Award | Call for Submissions | AUG 5"
 ---
 

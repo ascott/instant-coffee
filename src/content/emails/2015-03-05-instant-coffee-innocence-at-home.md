@@ -200,9 +200,9 @@ Episode 3
 Ole Fach 5: Rafaela Kino 6: Alex McLeod 7: Kate Wilson and Lynne Slater 8:
 Aleksandra Domanovic 9: Systaime 10:Erik Zepka 11: Adam Ferriss 12: Rodell
 Warner and Arnaldo James 13: Debora Delmar 14: Brenna Murphy 15: Nick Briz
-16: Carlos SÃ¡ez 17: Jenn E Norton 18: Juliette Bonneviot 19: Luis Nava 20:
-Vince McKelvie 21: Claudia MatÃ© 22: Evan Roth 23: Shana Moulton 24:Sabrina
-RattÃ© 25: Jordan Tannahill 26: Vasily Zaitsev feat.MON3Y.us 27: Ann Hirsch
+16: Carlos Sáez 17: Jenn E Norton 18: Juliette Bonneviot 19: Luis Nava 20:
+Vince McKelvie 21: Claudia Maté 22: Evan Roth 23: Shana Moulton 24:Sabrina
+Ratté 25: Jordan Tannahill 26: Vasily Zaitsev feat.MON3Y.us 27: Ann Hirsch
 
 THE ONE MINUTES at the Sandberg Instituut in Amsterdam is a global platform
 for moving images. Since 1999, The One Minutes has produced and distributed

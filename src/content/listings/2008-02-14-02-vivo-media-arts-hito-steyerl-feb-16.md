@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee at cruising speed"
 emailDate: "Thu, 14 Feb 2008 07:58:05 -0800"
 number: 2
 type: ""
+venue: "VIVO MEDIA ARTS"
 summary: "VIVO MEDIA ARTS | HITO STEYERL | FEB 16"
 ---
 

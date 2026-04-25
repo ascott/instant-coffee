@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 5
 type: ""
+venue: "New Forms Festival 13"
 summary: "New Forms Festival 13 | www.newformsfestival.com | SEP 12"
 ---
 
@@ -33,66 +34,66 @@ eatART are 19+ events
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 NEW FORMS FESTIVAL 13 
-September 12th â€“ 15th, 2013
+September 12th – 15th, 2013
 
 Music:
 
-Jeff Mills â€“STAR PEOPLE- (Axis Records)
+Jeff Mills –STAR PEOPLE- (Axis Records)
 *World Premier*
 http://www.axisrecords.com/
 
 Donald Buchla -Live- (Buchla Electronic Musical Instruments)
 http://www.buchla.com/
 
-Dopplereffekt â€“Live- (Leisure System / Dataphysix Engineering / Rephlex)
+Dopplereffekt –Live- (Leisure System / Dataphysix Engineering / Rephlex)
 http://www.discogs.com/artist/Dopplereffekt
 
-Kassem Mosse â€“Live- (Workshop / FXHE)
+Kassem Mosse –Live- (Workshop / FXHE)
 http://www.workshopsound.com/
 
-Kahn â€“DJ- (Punch Drunk / Deep Medi Musik / Black Box)
+Kahn –DJ- (Punch Drunk / Deep Medi Musik / Black Box)
 https://soundcloud.com/kahn
 
-Daniel Wang â€“DJ- (Balihu / Environ)
+Daniel Wang –DJ- (Balihu / Environ)
 http://www.discogs.com/artist/Daniel+Wang
 
-Lee Gamble â€“Liveâ€“ (PAN / Cyrk / Entrâ€™acte)
+Lee Gamble –Live– (PAN / Cyrk / Entr’acte)
 http://www.cyrk.org/leegamble
 
-EPROM â€“DJ- (Warp Records / Rwina Records / Leisure System)
+EPROM –DJ- (Warp Records / Rwina Records / Leisure System)
 https://soundcloud.com/eprom
 
-Delroy Edwards â€“DJ- (L.I.E.S.)
+Delroy Edwards –DJ- (L.I.E.S.)
 https://soundcloud.com/delroy-edwards
 
 Anthony Naples -DJ- (Proibito / Trilogy Tapes)
 https://soundcloud.com/proibito
 
-214 â€“Live- (Frustrated Funk / Clone)
+214 –Live- (Frustrated Funk / Clone)
 https://soundcloud.com/214_electro
 
-No UFOâ€™s â€“Live- (Public Information / Spectrum Spools / Nice Up Intâ€™l)
+No UFO’s –Live- (Public Information / Spectrum Spools / Nice Up Int’l)
 http://www.niceupintl.com/
 
 Evy Jane -Live- (King Deluxe / Hybridity Music)
 http://evyjane.tumblr.com/
 
-The Passenger â€“Live- (More Than Human)
+The Passenger –Live- (More Than Human)
 https://soundcloud.com/the-passenger
 
-Calamalka â€“Live- (Hybridity Music)
+Calamalka –Live- (Hybridity Music)
 http://hybriditymusic.com/artists/calamalka/
 
-Rod Skimmins â€“DJ-
+Rod Skimmins –DJ-
 http://bangtheparty77-84.com/
 
-Neu Balance â€“Live- 
+Neu Balance –Live- 
 https://soundcloud.com/neubalance
 
-Frank Grimes â€“Live- (Crude / Aufect) 
+Frank Grimes –Live- (Crude / Aufect) 
 https://soundcloud.com/frankgrimes
 
-Pender Street Steppers â€“Live- (Mood Hut) 
+Pender Street Steppers –Live- (Mood Hut) 
 https://soundcloud.com/pender-street-steppers
 
 Kline -Live- (Chapel Sound) 
@@ -132,7 +133,7 @@ Frieda-raye Green
 Strawberry Jacuzzi
 http://www.strawberryjacuzzi.com/
 
-Josephin BÃ¶ttger
+Josephin Böttger
 Sergej Tolksdorf
 Trapez
 http://www.josephinboettger.de/

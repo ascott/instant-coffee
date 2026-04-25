@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: itty bitty blob"
 emailDate: "Thu, 12 Jun 2008 08:02:51 -0700"
 number: 18
 type: ""
+venue: "Western Front"
 summary: "Western Front | Curatorial Internship |"
 ---
 

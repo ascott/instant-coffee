@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 8
 type: "EXHIBITION"
+venue: "Ukrainian Artist Collective"
 summary: "Ukrainian Artist Collective | Freedom Salon | FEB 20"
 ---
 

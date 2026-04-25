@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 14
 type: "OPENING"
+venue: "Gallery 295"
 summary: "Gallery 295 | Katie Shapiro - A Subtle Kind of Beyond | AUG 28"
 ---
 
@@ -47,7 +48,7 @@ of images as a means of exploring an internal realm of consciousness that
 responds to these particular arenas. These sites of affectation are fixed
 with an understanding of the limitations of belief and lived knowledge.
 
-The locations in Shapiroâ€™s exhibition are all contended sites of a
+The locations in Shapiro’s exhibition are all contended sites of a
 metaphysical renewal. These instances of energetic pulls that are felt
 rather than seen are pinned in her material understanding of the
 limitations that the photograph and camera have when recording. In this

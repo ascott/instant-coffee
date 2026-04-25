@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no excuses"
 emailDate: "Thu, 02 Jul 2009 08:30:59 -0700"
 number: 5
 type: ""
+venue: "Open Space"
 summary: "Open Space | Us Ones In Between | JUL 3"
 ---
 

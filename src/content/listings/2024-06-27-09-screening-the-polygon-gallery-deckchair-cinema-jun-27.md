@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 9
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Polygon Gallery | Deckchair Cinema | JUN 27"
 ---
 

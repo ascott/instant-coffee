@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 20
 type: "EXHIBITION"
+venue: "Sun Yat-Sen Garden"
 summary: "Sun Yat-Sen Garden | to carve without cutting | CLSING RECPT | 230PM | SEP 28"
 ---
 

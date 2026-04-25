@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 12
 type: "CALL"
+venue: "ISEA2015"
 summary: "ISEA2015 | Call for Papers and Participation | DEC 20"
 ---
 
@@ -25,7 +26,7 @@ Submission types:
 
 We are delighted to announce the 21st International Symposium on Electronic
 Art (ISEA) will be held August 14-18, 2015, in Vancouver, Canada. The
-ISEA2015 symposium will be hosted by Simon Fraser Universityâ€™s Faculty of
+ISEA2015 symposium will be hosted by Simon Fraser University’s Faculty of
 Communication Arts and Technology (FCAT), and a vast variety of local
 academic and artistic partners. ISEA is the largest nomadic international
 gathering on 'electronic and emergent media'. Since its start in the

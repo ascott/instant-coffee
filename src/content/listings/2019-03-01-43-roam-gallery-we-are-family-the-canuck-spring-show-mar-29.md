@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 43
 type: "CALL"
+venue: "ROAM Gallery"
 summary: "ROAM Gallery | We Are Family, The Canuck Spring Show | MAR 29"
 ---
 

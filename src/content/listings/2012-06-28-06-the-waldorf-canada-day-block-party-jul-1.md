@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 6
 type: ""
+venue: "The Waldorf"
 summary: "The Waldorf | Canada Day Block Party | JUL 1"
 ---
 

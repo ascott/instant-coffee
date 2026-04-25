@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 33
 type: ""
+venue: "Roedde House Museum"
 summary: "Roedde House Museum | portraits: three immigrant families | until | OCT 31"
 ---
 
@@ -27,7 +28,7 @@ Migration (PCHC-MoM) to provide guided tours in various languages to small
 groups of visitors by special arrangements in the last four weeks of the
 exhibition.
 
-Maison MusÃ©e Roedde House Museum
+Maison Musée Roedde House Museum
 1415 Barclay Street,
 Vancouver, BC V6G 1J6
 T 604.684.7040
@@ -58,7 +59,7 @@ Ranch" uncovers one of Stanley Park's all but forgotten histories. The
 Kanaka Ranch in the West End was home to Vancouver's Hawaiian community,
 coal makers, and creators of the city's first Longshore Labour Union. "Each
 of these portraits showcases an aspect of early Vancouver history and links
-it to our present moment" explains exhibition curator LibertÃ© Reilly. "By
+it to our present moment" explains exhibition curator Liberté Reilly. "By
 featuring a diversity of stories from the late 1800s era, this exhibit
 offers a window into our city's past in celebration of its future."
 
@@ -96,12 +97,12 @@ Media Contacts:
 Sheila Giffen, Museum Manager
 info@roeddehouse.org | 604-684-7040
 
-LibertÃ© Reilly, Programme Assistant & Curator
+Liberté Reilly, Programme Assistant & Curator
 liberte@roeddehouse.org | 604-684-7040
 
 Alyssa Sy de Jesus, Programme Assistant & Curator
 alyssa@roeddehouse.org
-<file:///C:UsersRoeddeHouseMuseum-2DocumentsRoedde%20ShareLibertÃ©Exhib
+<file:///C:UsersRoeddeHouseMuseum-2DocumentsRoedde%20ShareLibertéExhib
 itsSummer%202014AdvertsPress%20Releasealyssa@roeddehouse.org> |
 604-684-7040
 

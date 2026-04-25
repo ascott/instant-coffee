@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 11
 type: ""
+venue: "cafe for contemporary art"
 summary: "cafe for contemporary art | WE LOVE YOU COMRADE NAVIN | MAR 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 32
 type: "EVENT"
+venue: "SFU SCA"
 summary: "SFU SCA | Interleaving: SCA Repertory Dancers Go Digital | DEC 4"
 ---
 

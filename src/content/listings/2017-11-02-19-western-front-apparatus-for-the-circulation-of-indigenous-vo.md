@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 19
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | apparatus for the circulation of Indigenous voices | NOV 9"
 ---
 

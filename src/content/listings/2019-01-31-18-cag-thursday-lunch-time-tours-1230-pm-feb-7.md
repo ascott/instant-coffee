@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 18
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Thursday Lunch Time Tours | 12:30 pm | FEB 7"
 ---
 

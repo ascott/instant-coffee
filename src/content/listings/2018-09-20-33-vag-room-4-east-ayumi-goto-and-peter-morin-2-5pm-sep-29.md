@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 33
 type: "TALK"
+venue: "VAG -Room 4 East"
 summary: "VAG -Room 4 East | Ayumi Goto and Peter Morin | 2-5PM | SEP 29"
 ---
 

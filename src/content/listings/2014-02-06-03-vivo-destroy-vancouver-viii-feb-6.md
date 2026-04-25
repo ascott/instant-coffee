@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 3
 type: ""
+venue: "VIVO"
 summary: "VIVO | DESTROY VANCOUVER VIII | FEB 6"
 ---
 
@@ -27,7 +28,7 @@ explore the fluidity and function of electronic noise (field recordings,
 circuit bending) and text (poetry, found, spoken, visual).
 
 ANDREA NEUMANN. Born 1968 in Freiburg, Studied classical piano at 
-the Hochschule der KÃ¼nste, Berlin. Has been active primarily as 
+the Hochschule der Künste, Berlin. Has been active primarily as 
 musician and composer in the fields of new music and experimental 
 music since 1994. She has been significantly involved in the formation 
 and development of the "echtzeitmusik" scene in Berlin, which borders 
@@ -52,7 +53,7 @@ Great Uncles of the Revolution which includes well-known Toronto
 bassist Andrew Downing and jazz trumpeter Kevin Turcotte. Both of 
 these recording acts are Juno Award winners.
 Jesse is heavily involved in the world of creative & improvised music 
-and has performed and recorded with the likes of FranÃ§ois Houle, 
+and has performed and recorded with the likes of François Houle, 
 Eugene Chadbourne, Evan Parker, Secret Mommy, Mats Gustafsson, 
 Dave Douglas, Peggy Lee, Matthew Bourne, Orkestra Rova, Dylan van 
 der Schyff, Tony Wilson, Fred Frith, Eyvind Kang, Dylan van der 
@@ -65,14 +66,14 @@ skills in the West. During this time, Josh toured internationally with a
 violin group called Barrage. Soon after, Josh delved into the world of 
 improv and electronic music playing in numerous projects in Calgary, 
 Alberta.
-Joshâ€™s musical interests reside somewhere in the middle of jazz, free 
+Josh’s musical interests reside somewhere in the middle of jazz, free 
 jazz, avant garde, contemporary classical, folk, improvisational, rock 
 and electronic. Mainly, Josh is a performer/composer fusing many 
 means of styles through the studies of electronics and the violin.
 Along the way, Josh has played with numerous different groups and 
 individuals. Some collaborations were with Chad VanGaalen, Lori 
 Freedman, Philippe Lauzier, members of Bell Orchestre, Pierre-Yves 
-Martel, Michael Blake, Bernard Falaise, Rainer Wiens, Michel F CotÃ©, 
+Martel, Michael Blake, Bernard Falaise, Rainer Wiens, Michel F Coté, 
 Sam Shalabi and many more.
 www.joshzubot.ca
 
@@ -84,7 +85,7 @@ Tony Wilson, Ron Samworth, Dylan van der Schyff, Torsten Muller,
 Veda Hille, Lisa Miller, John Korsrud, Wayne Horvitz and Robin 
 Holcomb. Peggy also leads or co-leads a number of musical projects: 
 The Peggy Lee Band, Film in Music, Waxwing (with Tony Wilson and 
-Jon Bentley) and Beautiful Tool (with Mary Margaret Oâ€™Hara). Peggy 
+Jon Bentley) and Beautiful Tool (with Mary Margaret O’Hara). Peggy 
 will be playing solo for this evening of performance.
 www.peggy.net
 

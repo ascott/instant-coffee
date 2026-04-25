@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 35
 type: "EVENT"
+venue: "North Van Arts"
 summary: "North Van Arts | Arts in the Garden 2024 | May 25&26 | MAY 25"
 ---
 

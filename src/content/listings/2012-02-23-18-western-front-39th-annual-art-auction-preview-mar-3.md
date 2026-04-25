@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 18
 type: ""
+venue: "Western Front"
 summary: "Western Front | 39th Annual Art Auction Preview | MAR 3"
 ---
 
 Preview of Western Front's 39th Annual Art Auction
 
-Wednesday, February 29, 2012 from 7:00 â€“ 9:30 pm, admission free
+Wednesday, February 29, 2012 from 7:00 – 9:30 pm, admission free
 Participating artists include: Abbas Akhavan, Sean Arden, Joshua 
 Bartholomew, Lorna Bauer, Matei Bejenaru, Neil Beloufa, Bocci, 
 Raymond Boisjoly, Karin Bubas, Fabiola Carranza, Sophie Belair 

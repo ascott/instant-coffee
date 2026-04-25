@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 32
 type: "OPENING"
+venue: "Duplex Artist Society"
 summary: "Duplex Artist Society | Mothering Time | 5PM | MAY 23"
 ---
 

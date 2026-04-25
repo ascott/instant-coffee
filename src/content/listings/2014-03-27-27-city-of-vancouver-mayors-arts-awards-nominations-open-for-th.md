@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 27
 type: ""
+venue: "City of Vancouver Mayor's Arts Awards"
 summary: "City of Vancouver Mayor's Arts Awards | Nominations Open for the 2014 | MAY 9"
 ---
 

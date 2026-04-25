@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 28
 type: "EXHIBITION"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Robert Murray | UNTIL JULY 29th | JUL 29"
 ---
 

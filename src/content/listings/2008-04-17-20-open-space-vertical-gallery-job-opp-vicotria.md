@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: waiting for something to happen"
 emailDate: "Thu, 17 Apr 2008 09:10:58 -0700"
 number: 20
 type: ""
+venue: "OPEN SPACE"
 summary: "OPEN SPACE | Vertical Gallery | & Job Opp | Vicotria"
 ---
 

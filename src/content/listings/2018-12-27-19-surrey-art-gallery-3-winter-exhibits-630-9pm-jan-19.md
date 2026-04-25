@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 19
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | 3 winter exhibits | 630-9PM | JAN 19"
 ---
 

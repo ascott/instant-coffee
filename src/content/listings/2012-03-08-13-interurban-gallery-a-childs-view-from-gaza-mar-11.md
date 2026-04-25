@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 13
 type: ""
+venue: "InterUrban Gallery"
 summary: "InterUrban Gallery | A CHILD'S VIEW FROM GAZA | MAR 11"
 ---
 

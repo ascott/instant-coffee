@@ -4,21 +4,22 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 17
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | Less is More: the Poetics of Erasure | NOV 1"
 ---
 
 Less is More: the Poetics of Erasure
-November 1 Â­ December 12, 2008
+November 1 ­ December 12, 2008
 SFU Gallery, Burnaby Campus
 Symposium: Saturday November 1 at 2pm
 Opening + book launch: Saturday November 1 following symposium, until 5pm
 
-Monica Aasprong Â· Andrea Actis Â· James Arthur Â· Oana Avasilichioaei Â· Derek
-Beaulieu Â· Jen Bervin Â· Rebecca Brown Â· Louis Cabri Â· Steve Collis Â· Jeff
-Derksen Â· Alexandra Dipple Â· Sarah Dowling Â· Jennifer Borges Foster Â· Jamie
-Hilder Â· Kristin Lucas Â· Michael Maranda/Parasitic Ventures Press Â· Erin
-MourÃ© Â· Tom Phillips Â· Kristina Lee Podesva Â· Angela Rawlings Â· Mary Ruefle
-Â· Susan Schuppli Â· Nick Thurston Â· Aaron Vidaver
+Monica Aasprong · Andrea Actis · James Arthur · Oana Avasilichioaei · Derek
+Beaulieu · Jen Bervin · Rebecca Brown · Louis Cabri · Steve Collis · Jeff
+Derksen · Alexandra Dipple · Sarah Dowling · Jennifer Borges Foster · Jamie
+Hilder · Kristin Lucas · Michael Maranda/Parasitic Ventures Press · Erin
+Mouré · Tom Phillips · Kristina Lee Podesva · Angela Rawlings · Mary Ruefle
+· Susan Schuppli · Nick Thurston · Aaron Vidaver
 
 Erasure is much in the news these daysâ&#65533;¹stock portfolio values erased, a
 neighbourhood buried under water by storms, candidates for office learning
@@ -26,7 +27,7 @@ that the public chose someone else, or a Fortune 500 company ceasing to
 exist. Erasure, however, has another side that deserves to be in the news:
 the poetic and the critical. This is the side reflected in this 24-person
 international exhibition, which includes the first-ever installation of the
-entirety of Tom PhillipsÂ¹s book A Humument.
+entirety of Tom Phillips¹s book A Humument.
 
 The poets, writers, and artists in Less is More have each responded to the
 ironic, formal, political, and semantic possibilities that awaited
@@ -40,8 +41,8 @@ meaning, erasures provide an intriguing model for the ways in which meaning
 is created in the first place; it is epistemology, with fun added.
 
 Symposium, Opening, Book Launch: Saturday November 1
-Please join us for a panel discussion on Â³The Poetics and Politics of
-ErasureÂ² with Derek Beaulieu, Clint Burnham, and Kristina Lee Podesva, Nick
+Please join us for a panel discussion on ³The Poetics and Politics of
+Erasure² with Derek Beaulieu, Clint Burnham, and Kristina Lee Podesva, Nick
 Thurston. Panel starting at 2pm, in room AQ3003, next to SFU Gallery.
 Followed by reception to 5pm.
 

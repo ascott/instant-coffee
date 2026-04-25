@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 53
 type: "EDUCATION"
+venue: "grunt gallery"
 summary: "grunt gallery | Reading Room: Strident aesthetic | FEB 13, 20, 27 | FEB 13"
 ---
 

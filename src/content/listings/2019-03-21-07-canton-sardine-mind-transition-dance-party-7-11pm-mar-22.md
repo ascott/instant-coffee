@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 7
 type: "FUNDRAISER"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Mind Transition Dance Party | 7-11PM | MAR 22"
 ---
 

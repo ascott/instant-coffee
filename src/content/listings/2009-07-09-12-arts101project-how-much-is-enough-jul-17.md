@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 12
 type: ""
+venue: "ARTS101Project"
 summary: "ARTS101Project | How Much Is Enough | JUL 17"
 ---
 

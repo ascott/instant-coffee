@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 1
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Brady Cranfield and Jamie Hilder's | JUL 27"
 ---
 
@@ -14,7 +15,7 @@ Details for the exhibition are as follows:
 
 Night Shift
 Brady Cranfield and Jamie Hilder
-July 1 â€“ July 31, 2012
+July 1 – July 31, 2012
 Reception July 27 8:00pm
 
 Or Gallery is pleased to present Night Shift, a collaborative
@@ -25,17 +26,17 @@ market.
 In response to the idea that titanium dioxide, the primary ingredient
 in white paint, is used as an indicator of economic recovery, the
 artists will paint the walls of the gallery white every night for the
-duration of the exhibition. As the title implies, the artistsâ€™ labour
+duration of the exhibition. As the title implies, the artists’ labour
 will take place at night while the gallery is closed and will be
-performed for an amount of time equal to the galleryâ€™s regular
+performed for an amount of time equal to the gallery’s regular
 business hours. Several microphones will record the sounds of the
 painting and these sounds will be played back during the day while the
 gallery is open to the public. Over the course of the exhibition, as
 paint builds up on the wall, these sounds will also accrue after each
-nightâ€™s work, with each subsequent track layered on top of the
-previous nightâ€™s recordings.
+night’s work, with each subsequent track layered on top of the
+previous night’s recordings.
 
-This exhibition is part of Cranfield and Hilderâ€™s larger inquiry into
+This exhibition is part of Cranfield and Hilder’s larger inquiry into
 the â€œEconomistâ€™s Aestheticâ€  â€“ a term they use to describe the effects
 of the growing influence of the rhetoric of business upon global
 political discourse. The accumulation of paint and sound in Night

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 22
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Until We Have A Helicopter and Jenny G | FEB 8"
 ---
 
@@ -21,12 +22,12 @@ photographs. These new works are documentation of archetypal wilderness
 signals that the artists have created in attempt to communicate not only with 
 each other, but with the encountering world, Anybody.
 
-Jenny G will occupy our LightBox project space. Jennyâ€™s practice is firmly 
+Jenny G will occupy our LightBox project space. Jenny’s practice is firmly 
 based in painting and drawing. The artist used this opportunity produce her 
 first large scale photographic work.
 
 Starting from a simple monoprint technique, the work is then photographed 
-with a 4Ã—5 camera. Next, the image is transformed through a digital drawing 
+with a 4×5 camera. Next, the image is transformed through a digital drawing 
 process. The final piece fluctuates between the enlarged handmade, tentative 
 marks left by the printmaking process and the factual meanderings of the 
 digital process.

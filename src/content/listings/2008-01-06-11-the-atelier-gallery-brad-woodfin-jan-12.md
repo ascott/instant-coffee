@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: the year of bright days"
 emailDate: "Sun, 06 Jan 2008 13:20:29 -0800"
 number: 11
 type: ""
+venue: "The Atelier Gallery"
 summary: "The Atelier Gallery | Brad Woodfin | JAN 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 7
 type: "OPENING"
+venue: "Beaumont Gallery"
 summary: "Beaumont Gallery | Fire, Steel and Flowers - Street Art for the Soul | MAY 2"
 ---
 

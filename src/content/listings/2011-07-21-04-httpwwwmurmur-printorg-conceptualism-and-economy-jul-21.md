@@ -4,28 +4,29 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 4
 type: ""
+venue: "http://www.murmur-print.org/"
 summary: "http://www.murmur-print.org/ | Conceptualism and Economy | JUL 21"
 ---
 
 murmur
 
-Conceptualismo y EconomÃ­a 
+Conceptualismo y Economía 
 (Conceptualism and Economy) 
-Mario GarcÃ­a Torres & Aaron Schuster, Lee Lozano, Seth Price, Joe Scanlan 
+Mario García Torres & Aaron Schuster, Lee Lozano, Seth Price, Joe Scanlan 
 27 pp. 
 21.59 cm x 27.94 cm (8.5 x 11 inches) 
-EspaÃ±ol / English 
+Español / English 
 2009 
 
-DispersiÃ³n 
+Dispersión 
 Seth Price 
 14 pp. 
 21.59 cm x 27.94 cm (8.5 x 11 inches) 
-EspaÃ±ol 
+Español 
 2002/2010 
 
 Marta Traba in Black and White 
-NicolÃ¡s GÃ³mez Echeverri 
+Nicolás Gómez Echeverri 
 15 pp. 
 21.59 cm x 27.94 cm (8.5 x 11 inches) 
 English 

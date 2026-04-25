@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 14
 type: "OPENING"
+venue: "Concourse Gallery, ECU"
 summary: "Concourse Gallery, ECU | Redaction | MAR 18"
 ---
 

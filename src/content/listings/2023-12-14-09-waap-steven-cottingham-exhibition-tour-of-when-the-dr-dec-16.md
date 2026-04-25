@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wizzzzz "
 emailDate: "Wed, 13 Dec 2023 20:55:09 -0800"
 number: 9
 type: "EVENT"
+venue: "WAAP"
 summary: "WAAP | Steven Cottingham: Exhibition Tour of When The Dr | DEC 16"
 ---
 

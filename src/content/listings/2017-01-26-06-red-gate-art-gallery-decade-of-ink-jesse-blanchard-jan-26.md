@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 6
 type: "OPENING"
+venue: "Red Gate Art Gallery"
 summary: "Red Gate Art Gallery | Decade of Ink: Jesse Blanchard | JAN 26"
 ---
 

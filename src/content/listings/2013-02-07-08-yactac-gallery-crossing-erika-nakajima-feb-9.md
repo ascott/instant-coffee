@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 8
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Crossing - Erika Nakajima | FEB 9"
 ---
 

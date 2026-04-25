@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 4
 type: "CALL"
+venue: "City of Surrey Community Art Program"
 summary: "City of Surrey Community Art Program | Call for Submissions for Artist in Residence at Cl"
 ---
 

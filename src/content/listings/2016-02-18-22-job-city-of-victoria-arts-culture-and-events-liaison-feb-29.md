@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 22
 type: ""
+venue: "JOB"
 summary: "JOB | City of Victoria | Arts, Culture, and Events Liaison | FEB 29"
 ---
 

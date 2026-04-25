@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 51
 type: "FUNDRAISER"
+venue: "Or Gallery"
 summary: "Or Gallery | Happy BOrthday Party & Fundraiser | 7PM | DEC 7"
 ---
 

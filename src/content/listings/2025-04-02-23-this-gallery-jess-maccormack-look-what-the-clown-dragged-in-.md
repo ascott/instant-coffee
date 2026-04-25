@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 23
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Jess MacCormack - Look What the Clown Dragged In | APR 5"
 ---
 

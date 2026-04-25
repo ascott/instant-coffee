@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 30
 type: "EDUCATION"
+venue: "Queen Elizabeth Park"
 summary: "Queen Elizabeth Park | Grass Stains: Writing in the Park | 6PM | AUG 31"
 ---
 

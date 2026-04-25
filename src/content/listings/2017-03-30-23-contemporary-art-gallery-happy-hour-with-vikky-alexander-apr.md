@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 23
 type: "EVENT"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Happy Hour with VIkky Alexander | APR 4"
 ---
 

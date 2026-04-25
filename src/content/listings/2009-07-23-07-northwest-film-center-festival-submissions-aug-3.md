@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't be fooled"
 emailDate: "Thu, 23 Jul 2009 10:00:47 -0700"
 number: 7
 type: ""
+venue: "Northwest Film Center"
 summary: "Northwest Film Center | Festival Submissions | AUG 3"
 ---
 

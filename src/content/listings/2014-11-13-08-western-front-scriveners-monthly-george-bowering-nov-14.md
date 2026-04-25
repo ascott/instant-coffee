@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 8
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly | George Bowering | NOV 14"
 ---
 
@@ -13,14 +14,14 @@ Friday, November 14, 2014 @ 8:00pm
 Western Front, 303 East 8th Avenue
 Free Admission
 
-Scrivenerâ€™s Monthly and The Capilano Review are pleased to present a
+Scrivener’s Monthly and The Capilano Review are pleased to present a
 reading by renowned Vancouver writer George Bowering. Author of more then
 100 books, Bowering will read from new work alongside a selection of
 archival recordings from the Western Front and beyond, documenting his
 life-long work as a writer-performer.
 
 The evening is co-presented by The Capilano Review in conjunction with the
-launch of their Fall 2014 issue, Boweringâ€™s Books. Copies of the new issue
+launch of their Fall 2014 issue, Bowering’s Books. Copies of the new issue
 will be available for purchase at the event.
 
 Biography
@@ -34,7 +35,7 @@ Valley, Desert Elm.
 
 - - -
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 â€œnot publishingâ€  involves readings, performances, and other articulations.

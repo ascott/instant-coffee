@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 7
 type: "TALK"
+venue: "Djavad Mowafaghian World Art Centre"
 summary: "Djavad Mowafaghian World Art Centre | Joshua Clover: Riot. Strike. Riot. | MAY 27"
 ---
 

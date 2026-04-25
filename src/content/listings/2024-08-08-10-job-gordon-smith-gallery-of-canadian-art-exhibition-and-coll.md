@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 10
 type: ""
+venue: "JOB"
 summary: "JOB | Gordon Smith Gallery of Canadian Art | Exhibition and Collection Assistant"
 ---
 

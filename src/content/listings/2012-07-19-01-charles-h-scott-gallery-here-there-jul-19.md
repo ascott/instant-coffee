@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 1
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | HERE + THERE | JUL 19"
 ---
 

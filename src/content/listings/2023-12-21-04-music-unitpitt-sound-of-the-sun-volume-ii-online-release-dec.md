@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 4
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | UNIT/PITT | Sound of the Sun, Volume II [ONLINE RELEASE] | DEC 21"
 ---
 

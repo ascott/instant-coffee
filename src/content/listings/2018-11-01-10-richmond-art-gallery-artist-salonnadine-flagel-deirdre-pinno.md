@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 10
 type: "EVENT"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Artist Salon:Nadine Flagel & Deirdre Pinnock | 7-9PM | NOV 1"
 ---
 

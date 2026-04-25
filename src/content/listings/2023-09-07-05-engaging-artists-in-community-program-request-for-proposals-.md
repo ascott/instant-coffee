@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 5
 type: "CALL"
+venue: "Engaging Artists in Community Program"
 summary: "Engaging Artists in Community Program | Request for Proposals (RFP) | SEP 4"
 ---
 

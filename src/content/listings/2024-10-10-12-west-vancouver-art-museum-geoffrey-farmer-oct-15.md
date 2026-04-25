@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 12
 type: "OPENING"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Geoffrey Farmer | OCT 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 14
 type: "OPENING"
+venue: "The Cabinet, Room 4390, SFU Goldcorp"
 summary: "The Cabinet, Room 4390, SFU Goldcorp | WARES Germaine Koh | 430PM | SEP 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 2
 type: ""
+venue: "NEWS"
 summary: "NEWS | grunt gallery | NEW URBAN SCREEN IN MOUNT PLEASANT"
 ---
 

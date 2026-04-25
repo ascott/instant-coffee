@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 32
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Michael Snow/Judy Radul | DIM Cinema | 7pm | MAR 27"
 ---
 

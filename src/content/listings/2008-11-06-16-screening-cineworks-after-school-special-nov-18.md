@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | AFTER SCHOOL SPECIAL | NOV 18"
 ---
 

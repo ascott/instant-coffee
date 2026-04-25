@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 8
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Evan Broens and Jason Gowans | NOV 2"
 ---
 

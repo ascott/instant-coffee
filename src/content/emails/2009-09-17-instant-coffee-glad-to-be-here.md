@@ -69,7 +69,7 @@ beyond, beginning with "Panam Scan" (1970) through to "Poverty" (1980), includin
 precursor works to major works such as "The Summer Script" (1973-1974), "An Attack on 
 Literature" (1975), "Image/Text" (1979), and "Lookout" (1979). The exhibition also includes an 
 installation of large-scale works that have not been shown in nearly three decades, including 
-"The Hypnerotomachia Series" (1977), "L'AprÃ¨s-Midi" (1977-1979), "The Calling" (1977) and "The 
+"The Hypnerotomachia Series" (1977), "L'Après-Midi" (1977-1979), "The Calling" (1977) and "The 
 Studio" (1977) as well as early video projects related to this work.
 
 Through these works, Wallace pioneers early investigations of the moving and still image and 
@@ -107,7 +107,7 @@ Oct. 8 Bumpy Road...Bumpy Road...HOLE in the Road! Hanif Janmohamed
 
 Oct .15 The Art of Engagement: Tania Willard
 
-Oct. 22 A Filmmakerâ€™s Personal Approach to Collaboration: Thomas Riedelsheimer
+Oct. 22 A Filmmaker’s Personal Approach to Collaboration: Thomas Riedelsheimer
 
 Oct. 29 Living on the Edge: Bing Thom
 
@@ -157,35 +157,35 @@ Special Features and Out-takes: A casual tour and talk with the MFAs: Thursday, 
 12:30 to 2 pm
 
 The Morris and Helen Belkin Art Gallery presents an exhibition of work by the 2009 graduates of 
-the University of British Columbiaâ€™s two-year Master of Fine Arts program: Interrobang. A 
+the University of British Columbia’s two-year Master of Fine Arts program: Interrobang. A 
 nonstandard English-language punctuation mark, the interrobang combines the function of a 
 question mark and an exclamation point. A connection and bonding between different 
 characters, Interrobang, the exhibition, presents divergent work by five emerging artists in video, 
 sound, sculpture, drawing, painting and new media.
 
-Shea Allan-McCachenâ€™s drawings, paintings and collages investigate bodily abstraction. 
+Shea Allan-McCachen’s drawings, paintings and collages investigate bodily abstraction. 
 Incorporating primary source material from Hustler magazine, her fragmented assemblages of 
 genitalia, bodiless apparel and indistinguishable swatches of skin evoke an anxiety about the 
 body while engaging in an aesthetic search for beauty in which the traditional concept of a figure 
 is absent.
-Scott Billingsâ€™ media works explore the relationship between the body and the cinematic machine. 
+Scott Billings’ media works explore the relationship between the body and the cinematic machine. 
 By taking apart and reconfiguring older obsolete machines, such as turning theatrical lighting into 
 a projector, Billings creates moving objects and moving images that play with the concepts of 
 mimicry and motility to depict and understand the quality of being animal.
 Sound artist Krista Dragomer works collaboratively with video artist Rashin Fahandej to explore 
 moments that occur between historical events, borders and identities. Their sound and video 
 works engage the audience in a sensorial experience of culture as something that exists within 
-oneâ€™s body. The artistsâ€™ audiovisual installations combine projection with monitors and multi-
+one’s body. The artists’ audiovisual installations combine projection with monitors and multi-
 channel stereo sound.
-Built on the principles of the Open Source movement Julio Lopezâ€™ project HUB, is an 
+Built on the principles of the Open Source movement Julio Lopez’ project HUB, is an 
 experimental web-based initiative. Lopez has created a computer lab that provides access to 
 software and technologies, and delivers educational programming free of charge. A series of 
 talks will highlight the work of local Vancouver artists that use a variety of technologies within their 
 artistic practice. See www.hubcentre.org.
-Jen Weihâ€™s practice a dialogue between construction and collapse, elegance and horror, sense 
+Jen Weih’s practice a dialogue between construction and collapse, elegance and horror, sense 
 and non-sense. Her projects include a range of aesthetics from â€œbadâ€  fonts to geometric balance 
 and uses materials that are found, manufactured, and crafted. Work for this show will include a 
-collection of 8 Â½ x 11 inch, 20 lb. bond paper sculptures produced through a combination of 
+collection of 8 ½ x 11 inch, 20 lb. bond paper sculptures produced through a combination of 
 conscious decision making and chance-based processes.
 
 The exhibition is presented with support from the Department of Art History, Visual Art and Theory 
@@ -222,14 +222,14 @@ concept and embodiment.
 
 Berlin-based artist Kara Uzelman, whose work has recently drawn from early 20th century sci-fi 
 narratives, has created a new suite of drawings that reference scripts from 60 science fiction radio 
-plays. Through Uzelmanâ€™s re-telling, the work uncovers, through physical and textual bricolage, a
-wholly new narrative. Colleen Brownâ€™s work takes common objects and creates formally complex 
+plays. Through Uzelman’s re-telling, the work uncovers, through physical and textual bricolage, a
+wholly new narrative. Colleen Brown’s work takes common objects and creates formally complex 
 new sculptures that are both familiar and strange in their use of assemblage, colour and texture.
-Brownâ€™s sculpture is both airy and dense, a confluence of forms whose relationship to one 
+Brown’s sculpture is both airy and dense, a confluence of forms whose relationship to one 
 another seems nearly gravitational in itself: materials orbit one another, and, as they must, 
 collide. Paul Kajander's new video installation gathers a cluster of universes around a single self, 
-juxtaposing sci-fi-like inspired interiors with â€˜pre-literateâ€™ wilderness. His work highlights a certain 
-cultural absurdityâ€”the weirdness of expressing oneself in a world of signs, the collective 
+juxtaposing sci-fi-like inspired interiors with ‘pre-literate’ wilderness. His work highlights a certain 
+cultural absurdity—the weirdness of expressing oneself in a world of signs, the collective 
 ridiculousness of our cultural products, an underlying sense of a world in flux, the anxious 
 individual, and the importance of human connection amidst it all.
 
@@ -267,11 +267,11 @@ http://www.richmondartgallery.org
 Please join us:
 
 Dr. Richard T. Gray will present a talk titled: 
-The Fourth Wall: Illusion and the Theater of Narrative in Franz Kafkaâ€™s â€˜A Report to an Academyâ€™ on 
+The Fourth Wall: Illusion and the Theater of Narrative in Franz Kafka’s ‘A Report to an Academy’ on 
 Thursday September 17, SFU Vancouver campus (515 W. Hastings), 7PM in Room 7000. This 
 event is free and open to the public.
 
-This is the final event associated with the SFU Galleryâ€™s recent exhibition â€œThe Insurance Man: Kafka 
+This is the final event associated with the SFU Gallery’s recent exhibition “The Insurance Man: Kafka 
 in the Penal Colonyâ€ .
 The talk is co-sponsored by the SFU Gallery and the SFU Institute of the Humanities.
 
@@ -305,7 +305,7 @@ MAKING A FEATURE WITH NO MONEY AND MAKING IT GOOD
 Quality Independent Filmmaking on the Cheap
 
 A crash course in independent feature filmmaking with independent/no-budget film director Sean 
-MacPherson. Gain the skills, learn the basics, visualize your film and bring it to lifeâ€“without a
+MacPherson. Gain the skills, learn the basics, visualize your film and bring it to life–without a
 budget.
 
 If you have had a feature film idea burning in your brain, and need the proper push to go out 
@@ -345,11 +345,11 @@ SHIMA IUCHI & JEAN ROUTHIER
 MARK SOO & JOHN KORSRUD (with musicians Evan Arntzen, Saul Berson, Michael Braverman, 
 Bruce Freedman, Graham Ord, and Bill Runge)
 Powell Street Festival Society presents the eighth annual Spatial Poetics, an interdisciplinary 
-event that celebrates collaboration, experimentation and innovation. This yearâ€™s end result is a 
+event that celebrates collaboration, experimentation and innovation. This year’s end result is a 
 collection of 2 new works that explore ideas of memory, space, community, and dialogue by 
 emerging and established Asian Canadian artists and collaborators. Spatial Poetics VIII 
 combines works by partnered artists, Shima Iuchi and Jean Routhier, and Mark Soo and John 
-Korsrud. Elaborating upon the Festival theme of Migration, this edition of Spatial Poeticsâ€™ artists 
+Korsrud. Elaborating upon the Festival theme of Migration, this edition of Spatial Poetics’ artists 
 engage with new and experimental locales, including the streetscape of Japantown and a 
 rooftop location overlooking the docks of Vancouver. Iuchi and Routhier present a video and 
 audio work, while Soo and Korsrud present a conceptual musical performance in the Downtown 
@@ -536,7 +536,7 @@ transformative forces; the begetting of delicate, precious objects in the dark. 
 Collective Manifesto
 
 Since its inception in 2004, the Double Negative Collective has become a major presence in 
-todayâ€™s experimental cinema scene in Montreal. Its unique existence has had an undeniable 
+today’s experimental cinema scene in Montreal. Its unique existence has had an undeniable 
 impact on the shifting landscape of moving-image art and the notion of artist collectives. Self-
 financed, the Double Negative Collective has succeeded for over five years to maintain its own 
 studio with a variety of analogue filmmaking equipment, as well as organize experimental film 
@@ -545,12 +545,12 @@ home and abroad. This collection of films and videos demonstrates the depth and 
 diverse approaches taken by members of the collective, whose varied backgrounds include 
 involvement in other artistic practices including music, poetry, and visual art.
 
-Programme: DaÃ¯chi SaÃ¯to, All That Rises | Christopher Becks, Parallax | Amber Goodwyn, Paper 
+Programme: Daïchi Saïto, All That Rises | Christopher Becks, Parallax | Amber Goodwyn, Paper 
 Nautilus | Eduardo Menz, Fracas | Lucia Fezzuoglio, Untitled | Julien Idrac, The Nervous Loops | 
 Steven Ladouceur, Artifacts | Malena Szlam, The Garden of Forking Paths (El Jardin de 
 Senderos que se Bifurican) | Karl Lemieux, Western Sunburn | Mike Rollo, Lola | Lindsay 
 McIntyre, Though She Never Spoke, This Is Where Her Voice Would Have Been | Christopher 
-Becks, Pan of the Landscape | DaÃ¯chi SaÃ¯to, Trees of Syntax, Leaves of Axis | Mike Rollo, 
+Becks, Pan of the Landscape | Daïchi Saïto, Trees of Syntax, Leaves of Axis | Mike Rollo, 
 Ghosts and Gravel Roads
 
 
@@ -576,7 +576,7 @@ Submitting:
 
 * Deadline: September 30, 2009
 * Installation to be completed fall of 2010.
-* Artist and artist teams must apply using the CaFÃ‰ (www.callforentry.org) application system. 
+* Artist and artist teams must apply using the CaFÉ (www.callforentry.org) application system. 
 There is no application fee to use the system
 
 The Selection Committee will select up to three finalists to develop a full proposal for the project. 
@@ -637,20 +637,20 @@ flux.
 
 CoCA has presented the Annual since 1989, each time inviting an
 independent juror to select the work from among the entries received.
-For this yearâ€™s 20th anniversary of the show, CoCA is proud to have
+For this year’s 20th anniversary of the show, CoCA is proud to have
 Jess Van Nostrand as juror. Jess Van Nostrand is Exhibitions Curator
 at Cornish College of the Arts and author of numerous essays and
-articles about the arts including the popular â€œArtistsâ€™ Guide to
+articles about the arts including the popular “Artists’ Guide to
 Seattleâ€  published by the Seattle Convention and Visitors Bureau. She
 holds a BA in Art History from The George Washington University and an
 MA in Art History from Richmond University, London.
 
-Artist reception will be on Thursday November 19 2009, at CoCAâ€™s
+Artist reception will be on Thursday November 19 2009, at CoCA’s
 Ballard Gallery. The gallery includes approximately 75 feet of wall
 space and is well attended by a variety of audiences. Large scale
-mixed-media installations may be accommodated at CoCAâ€™s Belltown
-gallery (approx. dimensions 33â€™ x 3â€™). For a pdf of the floor plans
-for either gallery, as well as photos of the spaces. please see CoCAâ€™s
+mixed-media installations may be accommodated at CoCA’s Belltown
+gallery (approx. dimensions 33’ x 3’). For a pdf of the floor plans
+for either gallery, as well as photos of the spaces. please see CoCA’s
 website, www.cocaseattle.org.
 
 A $500 first prize and a $250 second prize will be awarded by the
@@ -668,7 +668,7 @@ A description of the images. Send as an attachment in either .PDF or
 .Doc file format (artwork title, dimensions, medium and year of
 creation)
 
-250 word artistâ€™s statement. ( Send as an attachment in either .PDF or
+250 word artist’s statement. ( Send as an attachment in either .PDF or
 .Doc file format)
 
 Biography of 150 words (Send as an attachment in either .PDF or .Doc
@@ -678,7 +678,7 @@ Contact info (address, phone, email)
 
 Artist web site link (if available)
 
-$15 (US) entry fee (PayPal or check made out to â€œCenter on
+$15 (US) entry fee (PayPal or check made out to “Center on
 Contemporary Art" and mail to Center on Contemporary Art 6413 Seaview
 Ave. N.W. Seattle, WA 98107 USA). Make sure to note the artist name in
 the payment.

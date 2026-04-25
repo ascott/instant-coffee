@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 5
 type: ""
+venue: "The Phoenix Gallery"
 summary: "The Phoenix Gallery | 11 Years and 1 Day | APR 16"
 ---
 

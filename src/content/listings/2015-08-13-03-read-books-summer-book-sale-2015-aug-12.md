@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 3
 type: "EVENT"
+venue: "READ Books"
 summary: "READ Books | Summer Book Sale 2015 | AUG 12"
 ---
 

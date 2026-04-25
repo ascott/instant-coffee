@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 41
 type: "EVENT"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Booster Club Fireside Chat | 2PM | APR 13"
 ---
 

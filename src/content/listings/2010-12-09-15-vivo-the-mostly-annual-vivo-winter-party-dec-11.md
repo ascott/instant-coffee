@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 15
 type: ""
+venue: "VIVO"
 summary: "VIVO | The Mostly-Annual VIVO Winter Party | DEC 11"
 ---
 

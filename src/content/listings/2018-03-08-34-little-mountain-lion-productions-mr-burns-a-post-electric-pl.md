@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 34
 type: ""
+venue: "Little Mountain Lion Productions"
 summary: "Little Mountain Lion Productions | Mr. Burns, a post-electric play | APR 3"
 ---
 

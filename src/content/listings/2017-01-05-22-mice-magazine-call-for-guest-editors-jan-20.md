@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 22
 type: "CALL"
+venue: "MICE Magazine"
 summary: "MICE Magazine | Call for Guest Editors | JAN 20"
 ---
 

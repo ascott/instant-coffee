@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 33
 type: "EXHIBITION"
+venue: "Vancouver Maritime Museum"
 summary: "Vancouver Maritime Museum | A Look at the Marine Art of John M. Horton | OCT 27"
 ---
 

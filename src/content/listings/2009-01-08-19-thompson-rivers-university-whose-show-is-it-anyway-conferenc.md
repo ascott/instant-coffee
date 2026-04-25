@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 19
 type: ""
+venue: "Thompson Rivers University"
 summary: "Thompson Rivers University | WHOSE SHOW IS IT, ANYWAY? Conference, kamloops | JAN 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 15
 type: ""
+venue: "Trench Contemporary Art"
 summary: "Trench Contemporary Art | Amy Mukai: The Alchemy of Practice | NOV 29"
 ---
 

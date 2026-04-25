@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 6
 type: "OPENING"
+venue: "Macaualy & Co. Fine Art"
 summary: "Macaualy & Co. Fine Art | Walter Scott | 6-8PM | FEB 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 17
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Brian Howell & Charles Rea | FEB 28"
 ---
 
@@ -20,10 +21,10 @@ Press
 Brian Howell graduated from Ryerson Polytechnical University in Toronto in 
 1994 with a Bachelor of Arts Degree in Film and Photography. His 
 contemporary photographic work examines vernacular expressions of shifting 
-societal and personal values. Howellâ€™s subjects are drawn from fringe, or 
+societal and personal values. Howell’s subjects are drawn from fringe, or 
 marginalized communities; people and places resonant with allegorical 
 meanings for an age that seems to Howell both broken and blinded. Each of 
-Howellâ€™s photographic series builds on the truth-telling mantra of historical 
+Howell’s photographic series builds on the truth-telling mantra of historical 
 documentary photojournalism, while further structure and meaning are gained 
 through a rigorous contemporary conceptual framework.
 
@@ -34,13 +35,13 @@ Charles Rea has been an important player in the Vancouver painting scene for
 more than twenty years. Introduced in the Vancouver Art Gallery group show 
 â€œThe Young Romanticsâ€  in 1985, Reaâ€™s art practice has since followed many 
 diverse paths, making use of varying, often unconventional materials. Over the 
-years, Reaâ€™s artwork has assumed many different forms and subject matter, it 
+years, Rea’s artwork has assumed many different forms and subject matter, it 
 regularly explores the myriad of systems that have come to represent our 
-visual perception and knowledge bank. Reaâ€™s newest series of paintings are 
+visual perception and knowledge bank. Rea’s newest series of paintings are 
 about the cultural ghosts, some recognizable and some inexplicable, that 
 inhabit our collective psyche. 
 
-Press and Parataxis will run from February 28th â€“ April 6th
+Press and Parataxis will run from February 28th – April 6th
 
 WINSOR GALLERY
 258 East 1st Avenue

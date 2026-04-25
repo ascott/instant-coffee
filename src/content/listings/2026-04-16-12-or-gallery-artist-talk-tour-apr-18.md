@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 12
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Artist Talk + Tour | APR 18"
 ---
 

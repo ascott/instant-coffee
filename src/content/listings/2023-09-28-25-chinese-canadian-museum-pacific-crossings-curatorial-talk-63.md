@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 25
 type: "TALK"
+venue: "Chinese Canadian Museum"
 summary: "Chinese Canadian Museum | Pacific Crossings: Curatorial Talk | 630PM | OCT 3"
 ---
 

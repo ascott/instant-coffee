@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 10
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Danny Lyon: Artist Talk and Book Signing | 7PM | JUN 13"
 ---
 

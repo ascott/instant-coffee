@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto evocating an era of to an
 emailDate: "Thu, 22 Sep 2011 12:17:20 -0700"
 number: 8
 type: ""
+venue: "Eco-Arts Salon"
 summary: "Eco-Arts Salon | Rita Wong: Poetics of Water | SEP 28"
 ---
 

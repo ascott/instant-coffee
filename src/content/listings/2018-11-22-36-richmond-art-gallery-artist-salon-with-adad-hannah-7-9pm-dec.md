@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 36
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Artist Salon with Adad Hannah | 7-9pm | DEC 6"
 ---
 

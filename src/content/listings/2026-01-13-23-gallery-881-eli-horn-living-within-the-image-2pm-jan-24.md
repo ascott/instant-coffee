@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 23
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | ELI HORN: LIVING WITHIN THE IMAGE | 2PM | JAN 24"
 ---
 

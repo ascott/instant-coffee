@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 47
 type: "EDUCATION"
+venue: "New Media Gallery [WORKSHOP]"
 summary: "New Media Gallery [WORKSHOP] | Field Recording: Bowen Island | APR 20"
 ---
 

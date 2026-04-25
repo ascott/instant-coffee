@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 18
 type: "TALK"
+venue: "The Contemporary Art Gallery"
 summary: "The Contemporary Art Gallery | Thursday Lunchtime Tours | JUN 7"
 ---
 

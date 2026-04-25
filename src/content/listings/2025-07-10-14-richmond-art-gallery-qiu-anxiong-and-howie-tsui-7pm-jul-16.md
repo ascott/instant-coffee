@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 14
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Qiu Anxiong and Howie Tsui | 7PM | JUL 16"
 ---
 

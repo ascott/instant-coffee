@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 4
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Dunlevy Snackbar | launch | You Must Work Harder to Write Poetry of Excellence | DEC 2"
 ---
 
@@ -72,13 +73,13 @@ canonization practices. Mancini's theorizing of the "aesthetic conscience" and
 his astute analysis of the discourse of the "craft" of poetry are major additions 
 to the critical work on reviewing. This is a "must" for anyone interested in 
 Canadian poetry - and reviewing." 
-â€“ Linda Hutcheon, author of The Canadian Postmodern; A Poetics of 
+– Linda Hutcheon, author of The Canadian Postmodern; A Poetics of 
 Postmoderism: History, Theory, Fiction; The Politics of Postmodernism.
 
 "In You Must Work Harder to Write Poetry of Excellence, Donato Mancini 
 exposes and delimits the ideology behind a practice of poetry reviewing that 
 functions more like diamond appraisal than intellectual engagement. If you 
 read or write poetry whose clarity, carat, colour or cut is deemed flawed in 
-such a critical political economy, you will find in Manciniâ€™s work a challenge to 
+such a critical political economy, you will find in Mancini’s work a challenge to 
 aesthetic exclusivity that is incisive, expansive and potentially liberatory." 
-â€“ Wayde Compton
+– Wayde Compton

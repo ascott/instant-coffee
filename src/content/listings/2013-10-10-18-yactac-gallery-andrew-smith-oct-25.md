@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 18
 type: ""
+venue: "YACTAC GALLERY"
 summary: "YACTAC GALLERY | ANDREW SMITH | OCT 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 21
 type: "TALK"
+venue: "PLOT @ Access Gallery"
 summary: "PLOT @ Access Gallery | Corner Store | Discussion Session 3: Community and Solidarity | OCT 20"
 ---
 

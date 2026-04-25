@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 11
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Thomas Weideman/ Patrick Geraghty/ Soledad Muñoz | MAR 3"
 ---
 

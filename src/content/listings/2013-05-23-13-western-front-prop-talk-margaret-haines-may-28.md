@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 13
 type: ""
+venue: "Western Front"
 summary: "Western Front | Prop Talk | Margaret Haines | MAY 28"
 ---
 
@@ -17,8 +18,8 @@ Through considering the role of props in her filmmaking process, artist
 Margaret Haines presents a series of short stories titled Prop Talk: 
 What's Real? about the creative production of artist DKNY. Tor Haines, 
 the artist's father, responds to these stories, drawing from his own 
-philosophical text, titled simply â€˜Propsâ€™. Both texts contemplate how 
-â€˜propâ€™ is looking for semantic focus. Together and through a scripted 
+philosophical text, titled simply ‘Props’. Both texts contemplate how 
+‘prop’ is looking for semantic focus. Together and through a scripted 
 play, Margaret and her father reflect and debate upon the possibility of 
 mimesis in fiction, cultural reference as calcified identity, the crisis of 
 the object, digital props, and the death (rebirth) of art.

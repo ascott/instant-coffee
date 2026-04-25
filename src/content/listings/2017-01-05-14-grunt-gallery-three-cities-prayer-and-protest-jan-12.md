@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 14
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Three Cities: Prayer and Protest | JAN 12"
 ---
 

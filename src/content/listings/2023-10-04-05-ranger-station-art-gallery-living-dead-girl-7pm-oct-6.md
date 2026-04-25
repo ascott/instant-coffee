@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 5
 type: ""
+venue: "Ranger Station Art Gallery"
 summary: "Ranger Station Art Gallery | Living Dead Girl / 7PM | OCT 6"
 ---
 

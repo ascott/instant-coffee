@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 19
 type: "TALK"
+venue: "Audain Art Centre, UBC"
 summary: "Audain Art Centre, UBC | Dave Beech | Producing Without Profit: Art, Labour and Postcapi | FEB 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 25
 type: "TALK"
+venue: "Djavad Mowafaghian World Art Centre"
 summary: "Djavad Mowafaghian World Art Centre | Artist Talk: Yong Soon Min | MAR 24"
 ---
 

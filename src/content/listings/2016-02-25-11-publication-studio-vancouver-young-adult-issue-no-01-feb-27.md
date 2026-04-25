@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 11
 type: "EVENT"
+venue: "Publication Studio Vancouver"
 summary: "Publication Studio Vancouver | Young Adult: Issue No. 01 | FEB 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the flatting imperative"
 emailDate: "Thu, 19 Dec 2013 12:46:17 -0800"
 number: 7
 type: ""
+venue: "Contemporary Art Society Vancouver"
 summary: "Contemporary Art Society Vancouver | Emerging Artist’s Prize open competition"
 ---
 

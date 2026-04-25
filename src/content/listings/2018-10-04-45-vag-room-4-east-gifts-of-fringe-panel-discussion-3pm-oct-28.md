@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 45
 type: "TALK"
+venue: "VAG -Room 4 East"
 summary: "VAG -Room 4 East | Gifts of Fringe Panel Discussion | 3PM | OCT 28"
 ---
 

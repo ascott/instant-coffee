@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 6
 type: "CALL"
+venue: "SANTA ROSA ARTS AND HEALING"
 summary: "SANTA ROSA ARTS AND HEALING | CALL FOR ARTISTS EXPLORING WATER | APR 24"
 ---
 

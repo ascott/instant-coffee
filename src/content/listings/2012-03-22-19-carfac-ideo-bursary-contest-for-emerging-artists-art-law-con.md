@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 19
 type: ""
+venue: "CARFAC"
 summary: "CARFAC | ideo bursary contest for emerging artists | ART + LAW Conference, Ottawa | JUN 8"
 ---
 
@@ -21,10 +22,10 @@ important to you. The videos with the most likes will be given travel
 bursaries of up to $500 each. For more information and contest rules 
 visit our website. 
 
-CARFACâ€™s work involves educating artists about their economic and 
+CARFAC’s work involves educating artists about their economic and 
 legal rights. Many of the questions that our artist members call us 
-about are legal in nature â€“ everything from copyright to contract 
-disputes and tax issues. This yearâ€™s conference will explore the unique 
+about are legal in nature – everything from copyright to contract 
+disputes and tax issues. This year’s conference will explore the unique 
 challenges faced by artists and arts organizations when things get 
 legal. 
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 11
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Double Exhibition: Inuit Prints & Faces and Voices | JUN 19"
 ---
 

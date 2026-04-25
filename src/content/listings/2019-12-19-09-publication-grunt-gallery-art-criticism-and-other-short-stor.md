@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Weaving Governance"
 emailDate: "Thu, 19 Dec 2019 09:35:08 -0800"
 number: 9
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | grunt gallery | Art Criticism and Other Short Stories | DEC 20"
 ---
 

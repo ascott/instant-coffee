@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 27
 type: "OPENING"
+venue: "R Space"
 summary: "R Space | Making statues for over-60-year-olds in Shengjing | APR 5"
 ---
 

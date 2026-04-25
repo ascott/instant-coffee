@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 16
 type: "CALL"
+venue: "Para Site: HONG KONG"
 summary: "Para Site: HONG KONG | EXHIBITION PROPOSALS FROM EMERGING CURATORS | JAN 15"
 ---
 

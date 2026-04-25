@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 13
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Making Real | OCT 16"
 ---
 
@@ -26,4 +27,4 @@ NEW LOCATION!!
 555 Hamilton St. Vancouver, BC, Canada V6B 2R1
 T. +1 604.683.7395 or @ orgallery.org
 http://www.orgallery.org
-Gallery hours 12 - 5PM Â¨Tuesday - Saturday
+Gallery hours 12 - 5PM ¨Tuesday - Saturday

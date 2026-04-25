@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 16
 type: ""
+venue: "IN MY BED Magazine"
 summary: "IN MY BED Magazine | Call for Submissions | JUN 1"
 ---
 
@@ -20,7 +21,7 @@ photographers and artists who imagine beyond their means, to GET
 INTO BED by/on ... JUNE 1, 2013!
 
 CALL FOR SUBMISSIONS for our second PRINT ISSUE issue 
-featuring the theme of MÃ©nage Ã  Trois...
+featuring the theme of Ménage à Trois...
 
 One, two, three
 (une, deux, trois)
@@ -30,6 +31,6 @@ Do you like the taste
 of your warm, carnal sandwich?
 One, two, three
 share and indulge in our hot and delightful bed,
-your MÃ©nage Ã  trois!
+your Ménage à trois!
 
 www.inmybedmagazine.com for submission guidelines.

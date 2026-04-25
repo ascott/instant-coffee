@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 21
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Claudia Beck responds to Jochen Lempert | JUN 11"
 ---
 

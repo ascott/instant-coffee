@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 9
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Daniel Giordano | 6-9PM | JUL 25"
 ---
 

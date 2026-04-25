@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 5
 type: ""
+venue: "VIVO 2010"
 summary: "VIVO 2010 | Safe Assembly | FEB 4"
 ---
 

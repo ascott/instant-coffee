@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 15
 type: ""
+venue: "ISEA2015"
 summary: "ISEA2015 | Call for Artworks | DEC 20"
 ---
 
@@ -19,7 +20,7 @@ projects, online works, performances, screenings, installations, visual
 art, electronic literature, works that engage with public space,
 photography, media art, interdisciplinary projects, music and video. There
 will be a gallery exhibition as well as works that engage with other sites
-in and around the downtown Woodwardâ€™s main campus and elsewhere in Vancouver.
+in and around the downtown Woodward’s main campus and elsewhere in Vancouver.
 
 The ISEA2015 committee encourages individual artists and/or creative teams
 to conceptualize and scale their projects with budget considerations in
@@ -27,7 +28,7 @@ mind. ISEA2015 will consult with selected artists around grants and funding
 applications.
 THEME
 
-ISEA2015â€™s theme of DISRUPTION invites a conversation about the aesthetics
+ISEA2015’s theme of DISRUPTION invites a conversation about the aesthetics
 of change, renewal, and game-changing paradigms. We look to raw bursts of
 energy, reconciliation, error, and the destructive and creative forces of
 the new. Disruption contains both blue sky and black smoke. When we speak
@@ -97,7 +98,7 @@ disruption. How can we exploit the body itself in renegotiating physical
 habit, cultural experience and embodied texts in the context of embodied
 innovation, and disruptive technology through the lens of embodiment? What
 are the key drivers of innovation as it is situated within and upon the
-body and what are the consequences â€“ social, political, biological,
+body and what are the consequences – social, political, biological,
 creative, performative, in cyborgs and in fashion? How can we see movement
 as a driver of knowledge and innovation? What is physical movement now?
 PROTOTYPE + DIY
@@ -120,7 +121,7 @@ literature into other spheres? Using text and code, how can we investigate
 contemporary aesthetics at this moment within bookforms, narrative,
 electronic, or generative literature? What are the possibilities of
 creation and destruction using the medium of code and the function of the
-literary in todayâ€™s culture?
+literary in today’s culture?
 SCIENCE + INTERDISCIPLINARITY
 
 Science informs art as art problematizes science. How have disruptive
@@ -149,7 +150,7 @@ online works, performances, screenings, installations, visual art,
 electronic literature, works that engage with public space, photography,
 media art, interdisciplinary projects, and video. There will be a gallery
 exhibition as well as works that engage with other sites in and around the
-Woodwardâ€™s main campus and elsewhere in Vancouver.
+Woodward’s main campus and elsewhere in Vancouver.
 
 The ISEA2015 committee encourages individual artists and/or creative teams
 to conceptualize and scale their projects with budget considerations in
@@ -161,7 +162,7 @@ These elements must be compiled into a single PDF.
 
 - Brief project description (200 words)
 - Thematic statement (including to which subtheme you are applying) (200 words)
-- 1 â€“ 2 images
+- 1 – 2 images
 - If submitting sound work or video, send a link to soundcloud/ vimeo
 - Artist bio or CV
 - Proposed budget

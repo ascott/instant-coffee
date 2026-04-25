@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 11
 type: "EVENT"
+venue: "CAG and the City of Vancouver"
 summary: "CAG and the City of Vancouver | Coming Soon! Publication Launch (Online) | JUN 25"
 ---
 

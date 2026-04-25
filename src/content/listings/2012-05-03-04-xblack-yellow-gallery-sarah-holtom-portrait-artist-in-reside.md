@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 4
 type: ""
-summary: "XBlack & Yellow Gallery | Sarah Holtom â€“ Portrait Artist in Residence | MAY 3"
+venue: "XBlack & Yellow Gallery"
+summary: "XBlack & Yellow Gallery | Sarah Holtom – Portrait Artist in Residence | MAY 3"
 ---
 
 Black & Yellow Gallery (Room 106 at The Waldorf Hotel) Presents:
 
-Sarah Holtom â€“ Portrait Artist in Residence
+Sarah Holtom – Portrait Artist in Residence
 
 The Black and Yellow Gallery in association with the Waldorf Hotel is 
 pleased to host Sarah Holtom as a portrait artist in residence for the 
@@ -20,23 +21,23 @@ She will be painting 50 portraits in 15 days.
 In the summer of 2006, Sarah Holtom (b. 1980) painted 100 Portraits of 
 Calgary artists, from life, in the brief time span of 3 months. The 
 spontaneity, honesty and relevancy of the series struck a chord with 
-Calgaryâ€™s Glenbow Museum, who added the portraits to their 
+Calgary’s Glenbow Museum, who added the portraits to their 
 permanent collection.
 
 Please join us for the following dates:
 
-May 3rd â€“ Opening reception and kick-off party.
-May 3rd - May 18th â€“ Live painting in gallery, by drop-in and 
+May 3rd – Opening reception and kick-off party.
+May 3rd - May 18th – Live painting in gallery, by drop-in and 
 appointment.
-May 18th â€“ Closing reception.
+May 18th – Closing reception.
 Work remains on display until May 31st.
 
 Oil-on-wood portraits (12"x12â€ ) will be completed in a 1-2 hour sitting in 
 the gallery at the special rate of $250 (single) $350 (couple). Pets and 
 children are welcome; costumes and personality are encouraged. 
 Sarah will maintain full-time hours at the gallery during her residency 
-(12 - 7pm, Monday â€“ Saturday) and will accept both appointments and 
-drop-inâ€™s, time permitting. Appointments are limited to 50 portraits. 
+(12 - 7pm, Monday – Saturday) and will accept both appointments and 
+drop-in’s, time permitting. Appointments are limited to 50 portraits. 
 
 $250 for a single.
 $350 for a couple.

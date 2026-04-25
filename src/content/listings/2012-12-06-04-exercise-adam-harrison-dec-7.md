@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 4
 type: ""
+venue: "EXERCISE"
 summary: "EXERCISE | Adam Harrison | DEC 7"
 ---
 
@@ -44,7 +45,7 @@ Please join us for the opening reception Friday October 7th, 6-10 pm
 
 An edition will be published with the exhibition.
 
-With support from Grieger, DÃ¼sseldorf.
+With support from Grieger, Düsseldorf.
 
 Gallery hours 12-5 Friday and Saturday (ring buzzer)
 Or by appointment

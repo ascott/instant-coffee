@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 32
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | and finally... the image transfers to the screen | APR 26"
 ---
 

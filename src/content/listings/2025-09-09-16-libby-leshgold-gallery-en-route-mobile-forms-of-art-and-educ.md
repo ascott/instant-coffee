@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 16
 type: "OPENING"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | En Route: mobile forms of art and education | 6PM | SEP 11"
 ---
 

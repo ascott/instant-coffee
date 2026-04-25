@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 13
 type: "OPENING"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Barbara Astman | 1PM | APR 26"
 ---
 

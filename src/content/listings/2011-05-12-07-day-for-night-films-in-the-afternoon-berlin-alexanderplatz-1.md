@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 7
 type: ""
+venue: "Day for Night: Films in the Afternoon"
 summary: "Day for Night: Films in the Afternoon | Berlin Alexanderplatz (10-13) | MAY 15"
 ---
 
@@ -26,7 +27,7 @@ Join us on May 15th for the continuation of the series at 1:30pm.
 13. "The Outside and the Inside and the Secret of Fear of the Secret"
 
 Berlin Alexanderplatz is the summa of Fassbinder's art and the
-culmination of his lifelong relationship with Alfred DÃ¶blin's
+culmination of his lifelong relationship with Alfred Döblin's
 monumental novel of Berlin in the 1920s, a book he said was "embedded
 in my mind, my flesh, my body as a whole, and my soul." Originally
 produced as a 13-part made-for-television movie (though always

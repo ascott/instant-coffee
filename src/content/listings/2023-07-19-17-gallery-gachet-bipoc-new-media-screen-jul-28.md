@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 17
 type: "CALL"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | BIPOC New Media Screen | JUL 28"
 ---
 

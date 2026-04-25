@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 17
 type: ""
+venue: "PHG"
 summary: "PHG | MODELS FOR TAKING PART | APR 2"
 ---
 

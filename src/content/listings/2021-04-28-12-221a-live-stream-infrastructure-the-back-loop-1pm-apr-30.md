@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 12
 type: "TALK"
+venue: "221A Live Stream"
 summary: "221A Live Stream | Infrastructure & The Back Loop | 1PM | APR 30"
 ---
 

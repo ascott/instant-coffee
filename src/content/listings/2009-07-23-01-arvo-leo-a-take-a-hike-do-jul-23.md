@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't be fooled"
 emailDate: "Thu, 23 Jul 2009 10:00:47 -0700"
 number: 1
 type: ""
+venue: "Arvo Leo - A Take A Hike Do"
 summary: "Arvo Leo - A Take A Hike Do | JUL 23"
 ---
 

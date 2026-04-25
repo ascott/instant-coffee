@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 1
 type: ""
+venue: "Quinary Art Projects"
 summary: "Quinary Art Projects | Nicolas Sassoon | JUN 14"
 ---
 
@@ -13,7 +14,7 @@ Please join us on Thursday night for an exhibition by Vancouver-based
 artist Nicolas Sassoon. 
 THE GREEN CITY BETWEEN SKY AND SEA is a site-specific 
 installation featuring a large scale projection 
-of Sassoonâ€™s latest animation works over a bank of windows facing 
+of Sassoon’s latest animation works over a bank of windows facing 
 Richards St., standing 20 ft high and 14 ft wide, 
 transforming the exhibition space into one large projection installation 
 as well as interacting with the immediate surroundings 
@@ -27,7 +28,7 @@ Curated by Wil Aballe
 The work of Nicolas Sassoon makes use of various computer-based 
 aesthetics to generate fantasized visions of architectures, landscapes 
 and domestic environments.
-While most of Sassoonâ€™s work is published online through the format of 
+While most of Sassoon’s work is published online through the format of 
 animated gifs, the artists has in collaboration with other artists, 
 architects,
 curators, music producers, and fashion designers, materialized this 

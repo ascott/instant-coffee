@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 5
 type: "PERFORMANCE"
+venue: "Centre A"
 summary: "Centre A | TechniCowlour | 630PM | MAR 15"
 ---
 

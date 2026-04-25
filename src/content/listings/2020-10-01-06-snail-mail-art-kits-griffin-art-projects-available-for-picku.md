@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 6
 type: "EVENT"
+venue: "Snail Mail Art Kits"
 summary: "Snail Mail Art Kits | Griffin Art Projects | Available for pickup | October 3rd - December 12th"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 4
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Readings by the Art Writing Mentorship Prog | 6PM | AUG 16"
 ---
 

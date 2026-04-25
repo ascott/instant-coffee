@@ -119,12 +119,12 @@ Biennale and The Institute of Contemporary Arts, London.
 BLUEPRINT
 Jack Brindley
 Guest curated by Victor Wang
-April 4th â€“April 14 2013
+April 4th –April 14 2013
 Opening April 4th 6pm-9pm
 
 For his first solo exhibition in Canada, Brindley will present an entirely new
-body of work, for example the paintings â€˜Blueprint (London to Vancouver,
-2013)â€™ which will be a painting created by its travel from the artist's studio 
+body of work, for example the paintings ‘Blueprint (London to Vancouver,
+2013)’ which will be a painting created by its travel from the artist's studio 
 in
 London to CSA space. The work involves shipping canvas material coated in a
 photosensitive emulsion (Cyanotype) to the gallery. The work is ˜developed as
@@ -144,11 +144,11 @@ deterritorialization of autonomous pigments lost in diaspora. A â€˜rhizomati
 €™
 structure containing the capacity to circumvent singular acts of color, thought,
 and gesture. Lying in an expanded field of ahistorical happenings off the
-â€˜network of paintingâ€™; the material reconstruction is an illusion of the 
+‘network of painting’; the material reconstruction is an illusion of the 
 market,
-and unnecessary in the formulation of the â€˜painterlyâ€™. Where an 
+and unnecessary in the formulation of the ‘painterly’. Where an 
 ephemeral
-exhibition is neither the start nor end of this division of labor â€“ but rather a
+exhibition is neither the start nor end of this division of labor – but rather a
 Promethean fire to ignite the spectacle as an independent realm of modern
 society. Built on a hierarchy of medium specificity, and interdependence of
 subject/object relationalism, the space beyond the frame is allowed to exist in
@@ -204,7 +204,7 @@ ekphrasis.info
 Emily Carrs first year MAA cohort presents Ekphrasis. An exhibition 
 composed of new work, from design, media arts, and visual arts students 
 Madeleine Campbell, Adam Cristobal, Hoda Hamouda, Amiel Logan, Ann 
-Milligan, Michelle OByrne, Patryk Stasieczek, Pascale ThÃ©orÃªt-Groulx and 
+Milligan, Michelle OByrne, Patryk Stasieczek, Pascale Théorêt-Groulx and 
 Melanie Waddell.
 
 Signalling the midpoint of the Master of Applied Arts graduate program, this
@@ -282,25 +282,25 @@ www.vivomediaarts.com/event/crista-dahl-life-rhythm-retrospective
 
 Curated by Lois Klassen and Elisa Ferrari
 
-OPENING APRIL 4, 8PM â€”Sound performance by John Brennan on the
+OPENING APRIL 4, 8PM —Sound performance by John Brennan on the
 opening night
-LIVE PERFORMANCES APRIL 18, 8PM â€”Generations, Spiral Brain,
+LIVE PERFORMANCES APRIL 18, 8PM —Generations, Spiral Brain,
 Revolution
 
-â€œLife Rhythm, two words that identify my complete concept, is to be
+“Life Rhythm, two words that identify my complete concept, is to be
 understood as life and its rhythms experienced through time, space and
-energy." â€“Crista Dahl
+energy." –Crista Dahl
 
-Conceived in 1966 and formalized in 1970, Crista Dahlâ€™s Life Rhythm is a
+Conceived in 1966 and formalized in 1970, Crista Dahl’s Life Rhythm is a
 multimodal art project that aims to provide structure to the diverse information
 that we encounter: knowledges that encompass prehistoric and current ways
 of living.
 
 This exhibition features a fully interactive archive of imagery, books and ideas
 organized through Dahl's personal system of mnemonics, charts, and
-diagrams. What slips out of Dahlâ€™s cabinets and performances is a 
+diagrams. What slips out of Dahl’s cabinets and performances is a 
 repertoire
-of gestures, portraits, kinesthetic modelsâ€”an ongoing empirical inquiry into
+of gestures, portraits, kinesthetic models—an ongoing empirical inquiry into
 the visual language of the brain.
 
 In the adjacent Gallery 1965, a collection of Dahl's drawings, paintings,
@@ -319,16 +319,16 @@ Media Library& Archive that bears her name.
 
 Born in Seattle in 1934 Crista Dahl describes this retrospective as inclusive of
 some sixty-five years of creative practice. Continually stymied by political and
-domestic conditions, Dahlâ€™s pursuit of art training has followed innovative 
+domestic conditions, Dahl’s pursuit of art training has followed innovative 
 and
-experimental trajectoriesâ€”from running an artist gallery/jazz coffee house in
+experimental trajectories—from running an artist gallery/jazz coffee house in
 Seattle in 1963, to her beatnik life in San Francisco. Living in Haight-Ashbury
 in the mid 60's had an enduring influence on Dahl's life-work, as did her
-discovery of Will and Ariel Durantâ€™s "The Story of Civilization" in the 
+discovery of Will and Ariel Durant’s "The Story of Civilization" in the 
 Powell
 River Library near Lund, where she was sheltering her sons from Vietnam War
 service in 1968. After moving to Vancouver in 1971 Dahl became an
-enthusiastic and committed member of some of this cityâ€™s most 
+enthusiastic and committed member of some of this city’s most 
 celebrated
 collectives and histories including the Intermedia Society, Little Hot Stove
 League, the Matrix International Video Exchange Conference, the New Era
@@ -366,7 +366,7 @@ Toronto-based painter Matthew Brown.
 book called "Our Universe"; it was full of mind-blowing colour illustrations of
 the surfaces of other planets, and of terrifying speculative renderings of what
 creatures would be capable of inhabiting them. When I first saw Matthew
-Brownâ€™s paintings, they brought the same strange feelings I received from 
+Brown’s paintings, they brought the same strange feelings I received from 
 the
 book flooding back to me. Originating in tiny abstract line drawings, Brownâ
 €™s
@@ -395,7 +395,7 @@ exhibition, "Relax a little; one of your most celebrated nervous tics will be
 your undoing" at Narwhal Art Projects, Toronto curated by Jon Davies and
 Kristin Weckworth.
 
-Artistâ€™s website: www.birthdaycakeisland.com
+Artist’s website: www.birthdaycakeisland.com
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-04-04-08-221a-on-spirits-and-sadness-talks-and-tastings-apr-5">08. 221A | On Spirits and Sadness, talks and tastings | APR 5</a>
@@ -574,20 +574,20 @@ Project Space
 222 E Georgia Street | Vancouver BC | V6A 1Z7
 info@projectspace.ca
 
-AD/JUST: Exhibition / Launch of Artistsâ€™ Books
+AD/JUST: Exhibition / Launch of Artists’ Books
 Works by Jackie Riccio and Zack Ingram
 Reception: Friday, April 5 at 8pm
 Exhibition: April 4-7, 1pm to 5pm
 
-AD/JUST is a three-day installation and pair of artistsâ€™ books by Baltimore
+AD/JUST is a three-day installation and pair of artists’ books by Baltimore
 artists Jackie Riccio and Zack Ingram. The project features site-specific works
-on paper that explore the artistsâ€™ opposing mechanisms of readjustment 
+on paper that explore the artists’ opposing mechanisms of readjustment 
 and
-assimilation after moving to a new environment. While Ingramâ€™s works will
-focus on a recognition of absence and looking to the past, Riccioâ€™s will 
+assimilation after moving to a new environment. While Ingram’s works will
+focus on a recognition of absence and looking to the past, Riccio’s will 
 act as
 an attempt to fill this void with something new in the present. Each will also
-produce a book that extends the projectâ€™s inquiry into our personal
+produce a book that extends the project’s inquiry into our personal
 relationships with space and geographic location.
 
 RSVP on Facebook.

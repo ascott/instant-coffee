@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 10
 type: "EVENT"
+venue: "CICA"
 summary: "CICA | sound bath meditation session | 1130AM | APR 12"
 ---
 

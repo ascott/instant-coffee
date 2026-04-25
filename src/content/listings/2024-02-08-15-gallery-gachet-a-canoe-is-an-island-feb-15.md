@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 15
 type: "EXHIBITION"
+venue: "gallery gachet"
 summary: "gallery gachet | A Canoe is an Island | FEB 15"
 ---
 

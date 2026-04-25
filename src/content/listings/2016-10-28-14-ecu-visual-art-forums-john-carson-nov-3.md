@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interview with the vampire"
 emailDate: "Thu, 27 Oct 2016 18:40:17 -0700"
 number: 14
 type: "TALK"
+venue: "ECU"
 summary: "ECU | VISUAL ART FORUMS: John Carson | NOV 3"
 ---
 

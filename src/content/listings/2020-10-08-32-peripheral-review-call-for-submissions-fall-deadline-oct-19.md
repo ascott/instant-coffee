@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 32
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions: Fall Deadline | OCT 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 13
 type: "PERFORMANCE"
+venue: "Lobe Studio"
 summary: "Lobe Studio | Lobe Artist Residency Series: ZAMEEN-A | AUG 11"
 ---
 

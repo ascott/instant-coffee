@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 9
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Residue: The Persistence... - Curator's Tour | JUN 27"
 ---
 

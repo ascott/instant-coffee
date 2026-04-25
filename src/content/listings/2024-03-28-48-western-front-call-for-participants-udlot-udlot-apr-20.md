@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 48
 type: "CALL"
+venue: "Western Front"
 summary: "Western Front | Call for Participants: Udlot Udlot | APR 20"
 ---
 

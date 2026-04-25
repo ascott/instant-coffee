@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Duplex Artist Society"
 summary: "Duplex Artist Society | For Unequal Sides | JAN 5"
 ---
 

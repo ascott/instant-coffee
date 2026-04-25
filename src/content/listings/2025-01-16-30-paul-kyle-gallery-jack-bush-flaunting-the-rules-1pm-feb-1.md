@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 30
 type: ""
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Jack Bush: Flaunting the Rules | 1PM | FEB 1"
 ---
 

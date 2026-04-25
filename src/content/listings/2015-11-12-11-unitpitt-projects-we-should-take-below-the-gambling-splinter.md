@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 11
 type: "OPENING"
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | We Should Take Below - The Gambling Splinter | NOV 13"
 ---
 

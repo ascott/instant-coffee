@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 11
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Post-Patriarchy? New Acquisitions | 7PM | JUN 13"
 ---
 

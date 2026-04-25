@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 23
 type: ""
+venue: "UBC: Art History Undergraduate Symposium"
 summary: "UBC: Art History Undergraduate Symposium | Call For Papers | FEB 23"
 ---
 

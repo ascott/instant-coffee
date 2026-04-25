@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 6
 type: ""
+venue: "Capture"
 summary: "Capture | Transit Photography Competition | AUG 4"
 ---
 

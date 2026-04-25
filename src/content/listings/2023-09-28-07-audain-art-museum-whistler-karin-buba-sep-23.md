@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Audain Art Museum [WHISTLER]"
 summary: "Audain Art Museum [WHISTLER] | Karin Bubaš | SEP 23"
 ---
 

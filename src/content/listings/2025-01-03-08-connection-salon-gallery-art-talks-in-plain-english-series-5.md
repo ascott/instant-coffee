@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 8
 type: "TALK"
+venue: "Connection Salon Gallery"
 summary: "Connection Salon Gallery | Art Talks in Plain English Series | 530PM | JAN 15"
 ---
 

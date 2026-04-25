@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 5
 type: ""
-summary: "BLIM | Justine Naganâ€™s Typeface | JAN 21"
+venue: "BLIM"
+summary: "BLIM | Justine Nagan’s Typeface | JAN 21"
 ---
 
-Justine Naganâ€™s Typeface â€” A Chronicle of Typography in the
+Justine Nagan’s Typeface — A Chronicle of Typography in the
 Digital Age and Dying Art of Timeless Craftsmanship
 Friday January 21 | Doors: 7 & 9 PM, Screening: 7:30 & 9:30 PM |
-$7 â€“ 10 sliding scale
+$7 – 10 sliding scale
 IN ORDER TO ACCOMMODATE AS MANY AS POSSIBLE, WE WILL
 BE HAVING TWO SCREENINGS FRIDAY, JANUARY 21: 7:30 &
 9:30PM. LIMITED SEATING, NO ADVANCE TICKETS.
@@ -21,7 +22,7 @@ digital age. The Hamilton Wood Type Museum in Two Rivers, WI
 personifies cultural preservation, rural re-birth and the lineage of
 American graphic design. At Hamilton, international artisans meet
 retired craftsmen and together navigate the convergence of modern
-design and traditional technique. But the Museumâ€™s days may be
+design and traditional technique. But the Museum’s days may be
 numbered. What is the responsibility of artists and historians to
 preserve a dying craft? How can rural towns survive in a shifting
 industrial marketplace where big-box retailers are king?
@@ -29,7 +30,7 @@ Year: 2009 | Runtime: 63 mins | Language: English | Country: USA |
 Color: Color
 IMDb Link: imdb.com/title/tt1207998/
 Director: Justine Nagan
-The highly anticipated directorial debut of Kartemquin Filmsâ€™
+The highly anticipated directorial debut of Kartemquin Films’
 Executive Director and Producer Justine Nagan was filmed in
 Wisconsin. Typeface focuses on a rural Midwestern museum and
 print shop where international artists meet retired craftsmen and
@@ -41,7 +42,7 @@ through Two Rivers and there, found a block-long warehouse that
 housed 1.5 million pieces of wood type, handcrafted relics of a
 bygone era. The result? A 60-minute movie, that tells the story of
 how the art of typography struggles to find its place in the digital age.
-It also chronicles the Hamilton Familyâ€™s own fight for survival.
+It also chronicles the Hamilton Family’s own fight for survival.
 â€œI stumbled upon Hamilton by chance,â€  said Nagan. â€œThe age old
 artisan handwork and craftsmanship is inspiring and the place is
 both a national and historical treasure. The story of a diminishing

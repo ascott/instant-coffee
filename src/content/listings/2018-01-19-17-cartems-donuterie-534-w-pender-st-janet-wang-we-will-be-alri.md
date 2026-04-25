@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 17
 type: "OPENING"
+venue: "Cartems Donuterie (534 W Pender St)"
 summary: "Cartems Donuterie (534 W Pender St) | Janet Wang - we will be alright | 6-8pm | JAN 20"
 ---
 

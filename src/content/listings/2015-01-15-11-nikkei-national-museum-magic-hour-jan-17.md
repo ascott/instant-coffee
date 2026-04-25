@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 11
 type: "OPENING"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Magic Hour | JAN 17"
 ---
 

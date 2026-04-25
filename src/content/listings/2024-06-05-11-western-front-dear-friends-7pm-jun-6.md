@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 11
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Dear Friends &: | 7PM | JUN 6"
 ---
 

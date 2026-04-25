@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 2
 type: ""
+venue: "WESTERN FRONT"
 summary: "WESTERN FRONT | JOAN DARK | MAR 27"
 ---
 
@@ -21,7 +22,7 @@ Exhibition: March 28 - May 3, 2014
 
 Gallery Hours: Tuesday-Saturday 12-5pm
 
-Taking its title from the lead character in Bertolt Brechtâ€™s 1932 play 
+Taking its title from the lead character in Bertolt Brecht’s 1932 play 
 Saint Joan of the Stockyards, Joan Dark evokes theatrical structures 
 to navigate the slippage between objects and language. With an 
 emphasis on the role of writing within the exhibition space, Joan Dark 

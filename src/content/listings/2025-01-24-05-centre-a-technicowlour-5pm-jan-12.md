@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | TechniCowlour | 5PM | JAN 12"
 ---
 

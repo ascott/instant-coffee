@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 18
 type: ""
+venue: "caribic residency"
 summary: "caribic residency | Call | Hamburg"
 ---
 
@@ -26,5 +27,5 @@ SELECTION PROCESS
 One application will be chosen
 The decision is final
 
-GroÃŸe Elbstr. 36, 3.OG, 22767 Hamburg
+Große Elbstr. 36, 3.OG, 22767 Hamburg
 www.caribicresidency.com <http://www.caribicresidency.com/>

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 58
 type: "EVENT"
+venue: "1000 Parker Street Studios"
 summary: "1000 Parker Street Studios | Parker Art Salon 2018 | 1-5PM | MAY 25"
 ---
 

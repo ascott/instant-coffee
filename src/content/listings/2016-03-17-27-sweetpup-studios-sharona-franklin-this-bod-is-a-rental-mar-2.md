@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 27
 type: "OPENING"
+venue: "Sweetpup Studios"
 summary: "Sweetpup Studios | Sharona Franklin THIS BOD IS A RENTAL | MAR 24"
 ---
 

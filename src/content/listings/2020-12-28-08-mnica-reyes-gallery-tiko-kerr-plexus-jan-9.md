@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 8
 type: "EXHIBITION"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | TIKO KERR - PLEXUS | JAN 9"
 ---
 

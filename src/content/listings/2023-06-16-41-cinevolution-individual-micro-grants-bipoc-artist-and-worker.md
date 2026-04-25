@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 41
 type: "CALL"
+venue: "Cinevolution"
 summary: "Cinevolution | Individual Micro Grants - BIPOC Artist and Worker | JUL 14"
 ---
 

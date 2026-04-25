@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 32
 type: "EVENT"
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Not Your Usual Tour: Amazonian Languages | 7PM | JAN 25"
 ---
 

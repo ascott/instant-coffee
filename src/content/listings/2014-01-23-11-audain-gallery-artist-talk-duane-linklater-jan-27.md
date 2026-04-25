@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 11
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Artist Talk: Duane Linklater | JAN 27"
 ---
 
@@ -69,7 +70,7 @@ Visual Artist in Residence Program and Audain Gallery.
 
 Biography 
 
-Duane Linklater is OmaskÃªko Cree, from Moose Cree First Nation in 
+Duane Linklater is Omaskêko Cree, from Moose Cree First Nation in 
 Northern Ontario and is currently based in North Bay, Ontario. He 
 was educated at the University of Alberta, receiving a Bachelor of 
 Native Studies and a Bachelor of Fine Arts. Linklater attended the 

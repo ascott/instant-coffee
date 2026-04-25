@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 59
 type: "CALL"
+venue: "Roundhouse Community Arts"
 summary: "Roundhouse Community Arts | Vancouver Outsider Arts - Artist Call | APR 15"
 ---
 

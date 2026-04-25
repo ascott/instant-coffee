@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 7
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | DDR/DDR by Amie Siegel | NOV 15"
 ---
 

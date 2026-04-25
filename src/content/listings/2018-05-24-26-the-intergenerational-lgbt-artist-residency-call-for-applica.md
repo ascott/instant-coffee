@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 26
 type: "CALL"
+venue: "The Intergenerational LGBT Artist Residency"
 summary: "The Intergenerational LGBT Artist Residency | Call for Applications | JUN 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 4
 type: ""
+venue: "Solder & Sons"
 summary: "Solder & Sons | Solder Social | APR 29"
 ---
 

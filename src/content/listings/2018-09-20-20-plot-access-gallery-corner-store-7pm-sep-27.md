@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 20
 type: "OPENING"
+venue: "PLOT @ Access Gallery"
 summary: "PLOT @ Access Gallery | Corner Store | 7PM | SEP 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 16
 type: "EVENT"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | adhoc plots Workshop: Walk and Glean | 12PM | APR 27"
 ---
 

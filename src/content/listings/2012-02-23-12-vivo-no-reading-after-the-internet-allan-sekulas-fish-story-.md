@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 12
 type: ""
+venue: "VIVO"
 summary: "VIVO | No Reading After the Internet | Allan Sekula's Fish Story | FEB 29"
 ---
 
@@ -25,7 +26,7 @@ continue
 to play out in and between major port cities across the world. In fix his
 lens on the shipping industry, Sekula documents concrete 
 manifestations of
-Neoliberal capital flowâ€”providing an opportunity to pin down an object
+Neoliberal capital flow—providing an opportunity to pin down an object
 that is all too often ethereal in nature. *Fish Story* (1995) is the
 result of these researches. It exists as a book with more than 900 
 color
@@ -33,10 +34,10 @@ photographs, interspersed with meandering aphorisms about the
 material
 history of shipping and the contemporary working conditions of the 
 people
-to whom it is boundâ€”on land and at sea. This work has also been 
+to whom it is bound—on land and at sea. This work has also been 
 mounted
-as an exhibition, and its â€˜iterationâ€™ as an object is not entirely fixed.
-We will remount a reading of Sekulaâ€™s writing from the book, 
+as an exhibition, and its ‘iteration’ as an object is not entirely fixed.
+We will remount a reading of Sekula’s writing from the book, 
 accompanied
 by some of its attendant images, as a group with a mind to honour this
 imperative to experiment.
@@ -49,13 +50,13 @@ decades
 his images and writings have shifted the terms on which the medium is
 understood and has influenced a generation of artists and scholars.
 Whether articulating a semiotics of the photograph in his classic study
-Photography against the Grain: Essays and Photoworks 1973â€“1983 
+Photography against the Grain: Essays and Photoworks 1973–1983 
 (1984) or
 investigating maritime space in the books and exhibitions comprising 
 Fish
 Story (2002), Sekula is always in motion. His extensive travels to many 
 of
-the worldâ€™s seaports are matched only by his enlightening journeys 
+the world’s seaports are matched only by his enlightening journeys 
 across
 history, politics and aesthetics that through their consummate
 intelligence transform and connect domains usually considered 
@@ -76,4 +77,4 @@ Wodiczko. (Edward Dimendberg)
 Allan Sekula's Fish Story will be facilitated by Andrew Witt.
 
 Andrew Witt writes for the Mainlander and is a collaborator with Coupe
-L'Ã©tat. This salon extends out of the Wednesday Night School project.
+L'état. This salon extends out of the Wednesday Night School project.

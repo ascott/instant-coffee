@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 5
 type: ""
+venue: "Cineworks & W2"
 summary: "Cineworks & W2 | Know Your Copyright | SEP 28"
 ---
 
@@ -31,7 +32,7 @@ labour lawyer and human rights mediator/specialist, in 2003 she
 established her own practice providing advice on employment, labour, 
 human rights, privacy, intellectual property, governance, and charity 
 law to non profit organizations, co-ops and social innovators of all 
-kinds. In 2005, she co-founded the Artistsâ€™ Legal Outreach legal advice 
+kinds. In 2005, she co-founded the Artists’ Legal Outreach legal advice 
 clinic in BC (artistslegaloutreach.ca). A recognized expert in copyright 
 and its impact on artists she appeared before the Legislative 
 Committee on Bill C-11 in March 2012. She teaches copyright to the 
@@ -44,7 +45,7 @@ Bailey. Lindsay worked at Bennett Jones LLP in Toronto, Ontario
 practicing business law with experience working with media, 
 technology and entertainment clients requiring a range of business and 
 intellectual law property services. During her years in Toronto, Lindsay 
-volunteered at the Artistsâ€™ Legal Advice Service (ALAS) providing 
+volunteered at the Artists’ Legal Advice Service (ALAS) providing 
 summary legal advice to artists of a range of practices. Since her years 
 in Toronto, Lindsay has been instrumentally involved with Femmarte, a 
 private art fund committed to supporting the careers of contemporary 
@@ -66,10 +67,10 @@ Know Your Copyright
 Friday, September 28, 2012
 
 W2, W2 Media Cafe is located at 111 West Hastings St, in the Atrium 
-of the Woodwardâ€™s heritage building, at the corner of Abbott and 
+of the Woodward’s heritage building, at the corner of Abbott and 
 Hastings in downtown Vancouver, BC.
 
-11:00am â€“ 1 p.m. 
+11:00am – 1 p.m. 
 
 Free.
 

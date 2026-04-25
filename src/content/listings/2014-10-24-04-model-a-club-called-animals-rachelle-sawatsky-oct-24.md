@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 4
 type: ""
+venue: "Model"
 summary: "Model | A Club Called Animals | Rachelle Sawatsky | OCT 24"
 ---
 
@@ -83,11 +84,11 @@ Adam Putnam is an artist whose work investigates the correlation between
 the seen and unseen; interior and exterior space, a geometry that is often 
 represented as the relationship between bodies and architecture. 
 Reclaimed Empire (Deep Edit), 2008-2014 is a selection of short films from 
-an ongoing series comprised of over 60 fragments and short works. â€œThe 
-original title, reclaimed empire, initially an overt nod to Warholâ€™s â€˜Empire,â€™ 
+an ongoing series comprised of over 60 fragments and short works. “The 
+original title, reclaimed empire, initially an overt nod to Warhol’s ‘Empire,’ 
 speaks less about homage, and more to the notion of a constant return to 
-repeated subject matter â€“ a gaze that never leaves, that stares un-
-blinkingly â€“ mechanically â€“ at the same subject. This was my Empire, 
+repeated subject matter – a gaze that never leaves, that stares un-
+blinkingly – mechanically – at the same subject. This was my Empire, 
 comprised of whatever was on hand in my studio, sculptural fragments, 
 broken mirrors, architectural models and other detritus.â€ 
 

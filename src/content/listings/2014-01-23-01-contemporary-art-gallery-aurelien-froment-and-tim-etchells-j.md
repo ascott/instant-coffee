@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Aurelien Froment and Tim Etchells | JAN 23"
 ---
 
@@ -24,8 +25,8 @@ ambitious new commission.
 
 Froment has produced a body of work focused around a series of 
 educational toys (Spielgaben or play gifts) designed by the German 
-founder of the Kindergarten movement, Friedrich Frobel (1782Ã¢
-â‚¬â€œ1852). Froment's longstanding interest in Frobel was aroused by 
+founder of the Kindergarten movement, Friedrich Frobel (1782â
+€“1852). Froment's longstanding interest in Frobel was aroused by 
 the openness of the system of objects, how each shape begets 
 another and how all images are keys to the other. Historically 
 accurate replicas of the toys have been made presented alongside 

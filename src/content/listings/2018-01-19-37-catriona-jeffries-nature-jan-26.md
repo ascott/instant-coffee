@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 37
 type: "EXHIBITION"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Nature | JAN 26"
 ---
 

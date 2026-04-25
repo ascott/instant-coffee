@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 8
 type: ""
+venue: "Lake Country Art Gallery (OKANAGAN)"
 summary: "Lake Country Art Gallery (OKANAGAN) | third beach | Melany Nugent-Noble and Trent Noble | JAN 13"
 ---
 

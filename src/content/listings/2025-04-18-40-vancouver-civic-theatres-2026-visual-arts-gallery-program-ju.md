@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 40
 type: "CALL"
+venue: "Vancouver Civic Theatres"
 summary: "Vancouver Civic Theatres | 2026 Visual Arts Gallery Program | JUN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 6
 type: ""
+venue: "Catriona Jeffries Gallery"
 summary: "Catriona Jeffries Gallery | Judy Radul | APR 26"
 ---
 
@@ -33,7 +34,7 @@ and preserved. Radul purposefully steps into this gap to conjure joyful
 'bad models' of perception in Object Analysis Spectator Poem (2012). A 
 bottle, conch shell, fan, heater, chair, lectern, camera and clay bust all 
 become entities on top of which partial swathes of painted copper 
-sheeting lie across â€“ like pajamas on a radiator â€“ like 'a thing on top of 
+sheeting lie across – like pajamas on a radiator – like 'a thing on top of 
 the thing'. To complete Object Analysis Spectator Poem, Radul took the 
 works into the street to be photographed, however direct vision does 
 not suit the encounter she is seeking. Rather, using a mirror held at 
@@ -75,7 +76,7 @@ Presentation House Gallery, Vancouver (2005); Set: Room 302
 numerous international group exhibitions, such as People Things Enter 
 Exit, Catriona Jeffries, Vancouver (2011); Trust, 6th Seoul International 
 Biennale of Media Art, Seoul, Korea (2010); Behind the Fourth Wall: 
-Fictitious Lives â€“ Lived Fiction, Generali Foundation, Vienna (2010); 
+Fictitious Lives – Lived Fiction, Generali Foundation, Vienna (2010); 
 The Thing, Cultural Centre, Mechelen, Belgium, as part of All That is 
 Solid Melts into Air, MuHKA, Antwerp (2009); Acting The Part: 
 Photography As Theatre, Vancouver Art Gallery, Vancouver (2007); 

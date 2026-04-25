@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feels something akin to shy in you
 emailDate: "Thu, 31 Jul 2014 12:37:30 -0700"
 number: 6
 type: ""
+venue: "One Night Stand"
 summary: "One Night Stand | Show: An Uncared For Arrangement | JUL 31"
 ---
 
@@ -20,10 +21,10 @@ Address: 29 - 1151 Haro St
 
 Time: July 31st, 1900 - 2300
 
-One Night Stand is a gallery whoâ€™s shows open and close in one night. An
+One Night Stand is a gallery who’s shows open and close in one night. An
 Uncared For Arrangement brings together six emerging artists work into
 conversation and opposition to each other. The line connecting these
-artistâ€™s work together must be drawn by the visitor them self; the
+artist’s work together must be drawn by the visitor them self; the
 curation is
 intended to background the works on display, and not preside over them
 with a personal vision.

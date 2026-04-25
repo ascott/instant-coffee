@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 21
 type: ""
+venue: "Digifest 2014"
 summary: "Digifest 2014 | Offsite Installations - Call for Participation | MAR 31"
 ---
 
 Digifest 2014 Offsite Installations - Call for Participation
 
-Digifest, Canadaâ€™s international festival celebrating digital creativity, is proud 
+Digifest, Canada’s international festival celebrating digital creativity, is proud 
 to announce a unique opportunity for galleries, artists and designers to 
 participate in the first Digifest offsite exhibitions series. Projects that engage 
 with digital culture will be featured, inspiring us to think about how technology 

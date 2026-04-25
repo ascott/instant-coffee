@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 30
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Western Front | Concert by Immanuel Wilkins and Lutos?awski Quart | JUN 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 14
 type: ""
+venue: "Centre A"
 summary: "Centre A | Catalogue Launch and Artist Talk | Kelly Lycan & Natalie Purschwitz | FEB 12"
 ---
 
@@ -53,6 +54,6 @@ Centre A
 Vancouver International Centre for Contemporary Asian Art
 2 West Hastings Street, Vancouver, BC
 Canada V6B 1G6 Tel: 604.683.8326
-Gallery Hours: Tuesday â€“ Saturday 11 am â€“ 6 pm
-Sunday â€“ Monday closed
+Gallery Hours: Tuesday – Saturday 11 am – 6 pm
+Sunday – Monday closed
 www.centrea.org info@centrea.org

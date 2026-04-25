@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 19
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | SFU Woodwards Goldcorp Centre for the Arts | F-O-R-M: Festival of Recorded Movement | SEP 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 32
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Gallery @ Artech | Ryan McMahon | 8PM | FEB 28"
 ---
 

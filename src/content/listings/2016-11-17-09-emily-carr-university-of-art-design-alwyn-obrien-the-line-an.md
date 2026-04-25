@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 9
 type: "TALK"
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | Alwyn O'Brien: The Line and the Fold | NOV 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 33
 type: "TALK"
+venue: "SMUTBURGER [ONLINE]"
 summary: "SMUTBURGER [ONLINE] | The Tea on T | FEB 25"
 ---
 

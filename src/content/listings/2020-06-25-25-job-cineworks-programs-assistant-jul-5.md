@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 25
 type: ""
+venue: "JOB"
 summary: "JOB | Cineworks | Programs Assistant | JUL 5"
 ---
 

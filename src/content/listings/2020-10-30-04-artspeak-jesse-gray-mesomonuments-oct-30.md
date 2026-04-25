@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Artspeak"
 summary: "Artspeak | JESSE GRAY - Mesomonuments | OCT 30"
 ---
 

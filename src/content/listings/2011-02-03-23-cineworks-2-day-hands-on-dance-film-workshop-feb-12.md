@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 23
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | 2-DAY HANDS-ON DANCE FILM WORKSHOP | FEB 12"
 ---
 
@@ -32,5 +33,5 @@ cameras, lighting, and dancers
 CONTACT/REGISTRATION: info@cineworks.ca or Cineworks at 604-685-3841
 
 Cineworks gratefully acknowledges the ongoing support of our membership,
-volunteers, sponsors and fundersÂ­â€“the Canada Council for the Arts, the
+volunteers, sponsors and funders­–the Canada Council for the Arts, the
 British Columbia Arts Council and the City of Vancouver.

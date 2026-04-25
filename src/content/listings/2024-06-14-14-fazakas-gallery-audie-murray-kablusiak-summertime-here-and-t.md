@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 14
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Audie Murray + Kablusiak: Summertime, here and the | JUN 20"
 ---
 

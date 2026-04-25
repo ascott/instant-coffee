@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 15
 type: ""
-summary: "Burnaby Art Gallery | RenÃ©e Van Halm | FEB 9"
+venue: "Burnaby Art Gallery"
+summary: "Burnaby Art Gallery | Renée Van Halm | FEB 9"
 ---
 
-Canadian Artist RenÃ©e Van Halmâ€™s First Survey Exhibition Spanning 
+Canadian Artist Renée Van Halm’s First Survey Exhibition Spanning 
 Over Thirty Years at Burnaby Art Gallery
 
-RenÃ©e Van Halm: Cross-Cutting/Inside Out
+Renée Van Halm: Cross-Cutting/Inside Out
 
-Featuring primarily Van Halmâ€™s works on paper, the exhibition explores 
-in detail the artistâ€™s interest in the role architecture plays in shaping our 
+Featuring primarily Van Halm’s works on paper, the exhibition explores 
+in detail the artist’s interest in the role architecture plays in shaping our 
 physical and social interactions.
 
-EVENT: Join artist RenÃ©e Van Halm and friends at the Opening 
-Reception for RenÃ©e Van Halm: Cross-Cutting/Inside Out. 
+EVENT: Join artist Renée Van Halm and friends at the Opening 
+Reception for Renée Van Halm: Cross-Cutting/Inside Out. 
 
 DATE: Thursday, February 9, 2012 
 

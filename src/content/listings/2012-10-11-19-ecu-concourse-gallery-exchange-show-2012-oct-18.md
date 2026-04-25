@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 19
 type: ""
+venue: "ECU"
 summary: "ECU | Concourse Gallery | EXCHANGE SHOW 2012 | OCT 18"
 ---
 
-EXCHANGE SHOW 2012: October 18 â€“ 25, 2012
+EXCHANGE SHOW 2012: October 18 – 25, 2012
 Concourse Gallery (1399 Johnston Street Vancouver, BC)
 Emily Carr University would like to welcome back its students returning 
 from the 2011/2012 Exchange Program with the exhibition EXCHANGE 

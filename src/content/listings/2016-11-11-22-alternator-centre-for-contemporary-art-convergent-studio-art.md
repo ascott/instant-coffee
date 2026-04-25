@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 22
 type: "TALK"
+venue: "Alternator Centre for Contemporary Art"
 summary: "Alternator Centre for Contemporary Art | Convergent Studio Artist Presentation: Melany Nuge | NOV 18"
 ---
 

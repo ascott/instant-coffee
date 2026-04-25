@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 19
 type: ""
+venue: "Starship"
 summary: "Starship | http://www.starship-magazine.org | XX | SEP 15"
 ---
 
 The new issue of STARSHIP is out now
 
 STARSHIP, is a Berlin based art magazine founded by Hans-Christian Dany,
-Martin Ebner and Ariane MÃ¼ller in 1998. STARSHIP is a magazine that
+Martin Ebner and Ariane Müller in 1998. STARSHIP is a magazine that
 permanently shifts
 form and format: it appears as a print magazine about once a year but also
 takes the shape of a gallery, a cinema space, a publishing house, or a
@@ -36,7 +37,7 @@ Dominic Eichler, Elodie Evers, Julian Goethe, Jakob Kolding, Crispin
 Oduor Macachia, Martin Kirchner, Siw Umsonst, Jeronimo Voss, Francesca
 Drechsler, Kobe Matthys/Agency, Michaela Eichwald, Richard Hawkins,
 Simon Fujiwara, Shahira Issa, Klaus Weber, Andy Grier, Gerry Bibby,
-Gunter Reski, Nicolas Siepen, Stephanie Wurster, Judith Hopf, GÃ¼rsoy
+Gunter Reski, Nicolas Siepen, Stephanie Wurster, Judith Hopf, Gürsoy
 Dogtas, Sebastian Bodirsky, Francesca Lacatena, Florian Zeyfang,
 Henrik Olesen.
 

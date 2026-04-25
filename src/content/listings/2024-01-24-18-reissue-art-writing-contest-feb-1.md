@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 18
 type: "CALL"
+venue: "ReIssue"
 summary: "ReIssue | Art Writing Contest | FEB 1"
 ---
 

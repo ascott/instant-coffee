@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 16
 type: ""
+venue: "VIVO"
 summary: "VIVO | No Reading After the Internet | Radicals and Radicant | MAR 17"
 ---
 
@@ -46,10 +47,10 @@ in conjunction with a screening that she curated at Gallery TPW. This
 screening program, "The Permanent Longing for Elsewhere", will be screening
 at DIM Cinema on Monday March 21st.
 
-Provoked by this screening, Marchâ€™s reading will explore Nicholas
-Bourriaudâ€™s idea of what it means to be radicant. Following modernismâ€™s
-attempts to distill essential essences, to postmodernismâ€™s acceptance of
-cultural clutter, to the negotiating impulse of todayâ€™s altermodernity,
+Provoked by this screening, March’s reading will explore Nicholas
+Bourriaud’s idea of what it means to be radicant. Following modernism’s
+attempts to distill essential essences, to postmodernism’s acceptance of
+cultural clutter, to the negotiating impulse of today’s altermodernity,
 Bourriaud crafts a botanical metaphor for the specific reality of how the
 immigrant, the exile, the tourist, and the urban wanderer have become the
 dominant figures of contemporary culture.

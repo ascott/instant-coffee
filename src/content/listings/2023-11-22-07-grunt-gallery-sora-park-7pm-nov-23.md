@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 7
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Sora Park | 7PM | NOV 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 8
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | MAHAL | OCT 28"
 ---
 
@@ -14,7 +15,7 @@ Gallery will be open by appointment after the opening until Nov 4.
 Please contact the gallery for private view schedule.
 
 In his book White Love, vicente l. rafael considers the tagalog
-word Ã¢â‚¬Å“mahalÃ¢â‚¬ as a translation for the word Ã¢â‚¬Å“loveÃ¢â‚¬ . It refers to
+word â€œmahalâ€ as a translation for the word â€œloveâ€ . It refers to
 that which is dear, but also means valuable and expensive.
 Rafael writes that such ambiguities express love as a promise
 of fulfilment -- and a costly one.

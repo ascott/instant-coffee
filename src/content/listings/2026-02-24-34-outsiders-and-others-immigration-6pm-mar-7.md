@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 34
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Immigration | 6PM | MAR 7"
 ---
 

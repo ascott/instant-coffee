@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 4
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Community Arts Council of Vancouver | Vancouver Outsider Arts Festival | AUG 7"
 ---
 

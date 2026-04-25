@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 8
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Charlene Vickers and Maria Hupfield | 6 PM | FEB 1"
 ---
 

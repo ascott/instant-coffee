@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 20
 type: ""
+venue: "VIVO Workshops"
 summary: "VIVO Workshops | VIDEO JOURNALISM | APR 7"
 ---
 

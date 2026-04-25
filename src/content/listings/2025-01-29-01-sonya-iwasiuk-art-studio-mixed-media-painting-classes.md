@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 1
 type: "EDUCATION"
+venue: "Sonya Iwasiuk Art Studio"
 summary: "Sonya Iwasiuk Art Studio | Mixed Media Painting Classes"
 ---
 

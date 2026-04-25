@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 20
 type: "OPENING"
+venue: "R Space"
 summary: "R Space | Deng Jianjin Organ Sociology | 7PM | JAN 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 10
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Walking Tour: Zoe Kreye | AUG 13"
 ---
 

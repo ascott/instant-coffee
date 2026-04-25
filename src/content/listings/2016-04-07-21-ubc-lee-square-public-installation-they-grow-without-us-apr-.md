@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 21
 type: "OPENING"
+venue: "UBC Lee Square"
 summary: "UBC Lee Square | Public Installation: They grow without us | APR 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 20
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Country Mouse City Mouse Hamster: Film Screening | | MAR 27"
 ---
 

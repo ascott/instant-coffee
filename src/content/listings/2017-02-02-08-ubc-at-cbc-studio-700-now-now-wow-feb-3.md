@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 8
 type: "FUNDRAISER"
+venue: "UBC at CBC Studio 700"
 summary: "UBC at CBC Studio 700 | Now Now Wow | FEB 3"
 ---
 

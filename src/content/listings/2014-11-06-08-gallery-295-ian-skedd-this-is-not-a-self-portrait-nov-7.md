@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 8
 type: ""
+venue: "GALLERY 295"
 summary: "GALLERY 295 | Ian Skedd - This is Not a Self Portrait | NOV 7"
 ---
 
 October 30 - December 20, 2014
 Opening Reception: November 7th, 7-9pm
 
-Gallery 295 is pleased to present Ian Skeddâ€™s exhibition This is Not a 
+Gallery 295 is pleased to present Ian Skedd’s exhibition This is Not a 
 Self-Portrait. Composed as a series of portraits, Skedd brings together a 
 variety of artistic and cultural references and enhances them through 
 repetition. In this exhibition, the minimalistic gesture of repetition informs 
-Skeddâ€™s research towards decoding historical and contemporary insights 
+Skedd’s research towards decoding historical and contemporary insights 
 on portraiture. The work presented weaves text and image as a reflection 
 on the modern world and its art, life, ironies, contradictions and 
 associated dilemmas, and is constituted as a framed series of 26 
@@ -25,7 +26,7 @@ bars censor the identifying features of each framed portrait and are
 adhered onto the exterior surface of the frame. These bars cover the 
 eyes and mouth of the artist and further deface the frame, obstructing any 
 formal notions associated with the contained portrait and framing device. 
-This act of obscuring is emblematic of Skeddâ€™s understanding of 
+This act of obscuring is emblematic of Skedd’s understanding of 
 contemporary portraiture. He further isolates each of the portraits with the 
 addition of text and punctuation onto the black rectangular bars and 
 intends the portrait to be read as an isolated declaration or statement. 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 35
 type: "EVENT"
+venue: "Segal Centre and Teck Gallery, SFU Harbour Centre"
 summary: "Segal Centre and Teck Gallery, SFU Harbour Centre | WE CALL Closing Reflections and Reception | 7-10PM | APR 19"
 ---
 

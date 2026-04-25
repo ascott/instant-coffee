@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Myfanwy MacLeod:Neighbours - Various Bus Shelters | AUG 13"
 ---
 

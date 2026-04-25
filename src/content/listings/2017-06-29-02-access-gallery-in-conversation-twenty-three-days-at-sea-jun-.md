@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 2
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | In Conversation: Twenty-Three Days at Sea | JUN 29"
 ---
 

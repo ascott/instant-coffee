@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 29
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Jay Senetchko - A Painter’s Process | 6-8PM | NOV 22"
 ---
 

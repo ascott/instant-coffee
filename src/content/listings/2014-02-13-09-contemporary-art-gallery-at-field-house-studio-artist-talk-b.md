@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 9
 type: ""
+venue: "Contemporary Art Gallery at Field House Studio"
 summary: "Contemporary Art Gallery at Field House Studio | ARTIST TALK: Broken City Lab | FEB 15"
 ---
 
@@ -14,7 +15,7 @@ Broken City Lab
 Saturday, February 15, 2pm
 The Field House Studio at Burrard Marina
 1655 Whyte Avenue
-In partnership with SFU Philosophers CafÃ©, Broken City Lab will host an artist 
+In partnership with SFU Philosophers Café, Broken City Lab will host an artist 
 talk and discussion at the Burrard Marina Field House Studio.
 Residency at the Field House
 Broken City Lab
@@ -33,15 +34,15 @@ specific research towards a new project that explores and makes visible
 issues at the intersection of education, public space and civic life. This new 
 project will develop a sequence of programming that circulates in and around 
 the Burrard Marina Field House.
-Broken City Labâ€™s work recently appeared in the 13th International Venice 
+Broken City Lab’s work recently appeared in the 13th International Venice 
 Biennial of Architecture as part of the Grounds for Detroit exhibit and the 
 collective was long-listed for the Sobey Art Award. Previous projects have 
-included working with the City of Windsorâ€™s Transit Authority to install 
+included working with the City of Windsor’s Transit Authority to install 
 community-created text-based art in its buses; interactive outdoor projections 
 detailing hundreds of ideas for saving the city; the design and distribution of 
 removable micro-gardens; interactive text-based performance so‹ftware; 
 large-scale messages projected across an international border; artists hosted 
-for an interdisciplinary storefront residency project; a 350 Â¬foot long 
+for an interdisciplinary storefront residency project; a 350 ¬foot long 
 message painted on a parking lot visible from planes and satellites; and 
 leading numerous psycho-geographic walks, DIY workshops and community 
 brainstorming sessions in cities all across Canada.

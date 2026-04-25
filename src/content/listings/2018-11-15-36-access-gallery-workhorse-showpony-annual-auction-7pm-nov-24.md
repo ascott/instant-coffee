@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 36
 type: "FUNDRAISER"
+venue: "Access Gallery"
 summary: "Access Gallery | workhorse, showpony annual auction | 7PM | NOV 24"
 ---
 

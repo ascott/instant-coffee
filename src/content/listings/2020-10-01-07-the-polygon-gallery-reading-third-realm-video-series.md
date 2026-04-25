@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 7
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Reading Third Realm Video Series"
 ---
 

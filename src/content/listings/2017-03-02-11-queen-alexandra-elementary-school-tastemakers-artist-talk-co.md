@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 11
 type: "TALK"
+venue: "Queen Alexandra Elementary School"
 summary: "Queen Alexandra Elementary School | Tastemakers Artist Talk: Cole Pauls | MAR 3"
 ---
 

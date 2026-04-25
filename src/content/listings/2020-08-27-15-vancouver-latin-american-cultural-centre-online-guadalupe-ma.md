@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 15
 type: "TALK"
+venue: "Vancouver Latin American Cultural Centre"
 summary: "Vancouver Latin American Cultural Centre | [ONLINE] | Guadalupe Martínez | 6PM | SEP 3"
 ---
 

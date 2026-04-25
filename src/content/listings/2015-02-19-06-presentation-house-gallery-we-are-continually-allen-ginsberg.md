@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 6
 type: "OPENING"
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | “We Are Continually...\" - Allen Ginsberg | FEB 20"
 ---
 

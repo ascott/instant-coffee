@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 7
 type: "EVENT"
+venue: "The Powell Street Festival + Vancouver Maritime..."
 summary: "The Powell Street Festival + Vancouver Maritime... | Spatial Poetics XVII: ONCE LOST | JUN 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 12
 type: ""
+venue: "Contemporary Art Gallery, Western Front and Dim"
 summary: "Contemporary Art Gallery, Western Front and Dim | Bernadette by Duncan Campbell | JUN 26"
 ---
 

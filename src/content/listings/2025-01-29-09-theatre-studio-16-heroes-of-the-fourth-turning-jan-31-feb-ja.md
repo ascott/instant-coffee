@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 9
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Studio 16 | Heroes of the Fourth Turning | JAN 31-FEB | JAN 31"
 ---
 

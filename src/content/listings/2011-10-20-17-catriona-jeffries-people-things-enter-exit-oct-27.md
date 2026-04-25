@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 17
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | People Things Enter Exit | OCT 27"
 ---
 
@@ -29,7 +30,7 @@ says: â€œThey do not move.â€
 
 Is someone going to argue that stage direction is immaterial? I hope not. 
 (Kissing the bookcase) We move into the gallery 
-space, "Flatly." "Happily." "Holding back tears." and â€œLarge over-stuffed chairs 
+space, "Flatly." "Happily." "Holding back tears." and “Large over-stuffed chairs 
 that seem to swallow the characters.â€  We blink. The camera pans left and 
 captures â€œAâ€  walking with a red page then at the next moment â€œAâ€  disappear. 
 
@@ -42,12 +43,12 @@ event which is designed to move an audience through all of the visual, aural, an
 dramatic means available. People Things Enter Exit.
 
 Ulla von Brandenburg (b. 1974, Karslrue, lives and works in Paris) has 
-forthcoming solo exhibitions at Galerie du Granit, Le granit, ScÃ¨ne Nationale de 
+forthcoming solo exhibitions at Galerie du Granit, Le granit, Scène Nationale de 
 Belfort, France (2012); Rosascape, Paris (2012); Pilar Corrias Gallery, London 
 (2012). Recent solo exhibitions include Produzentengalerie, Hamburg (2011); 
-Vitrine de lâ€™Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue Alte 
+Vitrine de l’Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue Alte 
 Welt, The Common Guild, Glasgow (2011); Neue Alte Welt, Art: Concept, Paris 
-(2011); Chorspiel, Lilith Performance Studio, MalmÃ¶ (2011).
+(2011); Chorspiel, Lilith Performance Studio, Malmö (2011).
 
 Guy de Cointet (b. 1934, Paris, d. 1983, Los Angeles) was a French artist based 
 in Los Angeles in the late sixties and seventies. His enigmatic and until very 
@@ -69,7 +70,7 @@ exhibition Kill the Workers!, shown this past year at Chisenhale, London and
 Badischer Kunstverein, Karslrue will travel to the Walter Phillips Gallery, Banff in 
 2012. She has a forthcoming solo exhibition at Presentation House Gallery, 
 Vancouver and recent solo exhibitions include, i8 Gallery, Reykjavik (2011); See 
-it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1â€“3), 
+it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1–3), 
 greengrassi, London (2009).
 
 Daria Martin (b. 1973, San Francisco, lives and works in London, UK) has a 

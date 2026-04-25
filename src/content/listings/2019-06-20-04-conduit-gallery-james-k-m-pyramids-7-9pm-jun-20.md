@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 4
 type: "OPENING"
+venue: "Conduit Gallery"
 summary: "Conduit Gallery | JAMES K-M: PYRAMIDS | 7-9PM | JUN 20"
 ---
 

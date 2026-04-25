@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 1
 type: "CALL"
+venue: "Queer Arts Festival"
 summary: "Queer Arts Festival | Call for Volunteers | JUNE 1-30"
 ---
 

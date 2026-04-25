@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 75
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Touchstone Theatre | Jan Derbyshire | OCT 31 - NOV 16 | OCT 31"
 ---
 

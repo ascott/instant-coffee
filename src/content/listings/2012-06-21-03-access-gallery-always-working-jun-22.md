@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 3
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Always Working | JUN 22"
 ---
 
@@ -12,7 +13,7 @@ Didier Courbot, Jamie Hilder, David Horvitz, Kelly Mark, Carey Young
 
 Curated by Gabrielle Moser
 
-June 23â€“July 28, 2012
+June 23–July 28, 2012
 
 Opening Reception: Friday, June 22, 8-11 pm
 
@@ -43,16 +44,16 @@ prioritize useless labour: work that cannot be â€œput to workâ€  in order
 participate in the global economy.
 
 For several artists in the exhibition, work involves assuming and 
-exceeding the role of the everyday labourer, such as Carey Youngâ€™s 
+exceeding the role of the everyday labourer, such as Carey Young’s 
 video documenting her presentation of free, â€œhow toâ€  advice on public 
-speaking in Londonâ€™s Speakersâ€™ Corner, or David Horvitzâ€™s offer to stop 
-what heâ€™s doing and devote one minute to thinking about you in 
+speaking in London’s Speakers’ Corner, or David Horvitz’s offer to stop 
+what he’s doing and devote one minute to thinking about you in 
 exchange for one dollar. For others, making artistic labour visible, both 
-in and outside the studio, is a key concern, as in Kelly Markâ€™s artist 
+in and outside the studio, is a key concern, as in Kelly Mark’s artist 
 contracts with Canadian galleries which have been renegotiated so that 
 her work is renumerated according to the hourly minimum wage (an 
 amount that is always higher than the CARFAC-suggested artist fee). 
-Similarly, Didier Courbotâ€™s photographic series captures his ongoing 
+Similarly, Didier Courbot’s photographic series captures his ongoing 
 interventions meant to fulfil practical urban â€œneeds,â€  such as painting in 
 a crosswalk on a busy street, or installing a birdhouse on a streetlamp: 
 a project he will expand on through performance and photographic 
@@ -69,8 +70,8 @@ works as part of his ongoing â€œneedsâ€  series. Courbotâ€™s residen
 of an ongoing residency program for French visual artists initiated by 
 the Consulate General of France in Vancouver.
 
-Didier Courbot (Paris, France) works with a range of mediaâ€”sculpture, 
-video, photographyâ€”to document the urban environment with an 
+Didier Courbot (Paris, France) works with a range of media—sculpture, 
+video, photography—to document the urban environment with an 
 extraordinary sensitivity. His recreations of specific elements and his 
 subtle interventions draw attention to the forgotten and discarded. 
 Courbot has been included in exhibitions at the Jeu de Paume, Paris; 
@@ -86,7 +87,7 @@ Poetry Movement at the University of British Columbia in 2010. He is
 presently a post-doctoral researcher in the Graduate School of 
 Education and Information Sciences at UCLA.
 
-David Horvitz (New York City)â€™s practice spans photography, 
+David Horvitz (New York City)’s practice spans photography, 
 performance, sculpture, and print media. Recurring interests across 
 these disciplines include attention to strategies of information 
 circulation and the impermanence of digital artifacts. His work has been 
@@ -100,7 +101,7 @@ everyday life. Hidden in the repetitive mundane tasks, routines and
 rituals of contemporary culture, she finds startling moments of poetic 
 individuation. She has exhibited widely across Canada, and 
 internationally at venues including the Art Gallery of Ontario, Toronto; 
-MusÃ©e dâ€™Art Contemporain, Montreal; and Ikon Gallery, Birmingham UK. 
+Musée d’Art Contemporain, Montreal; and Ikon Gallery, Birmingham UK. 
 Mark represented Canada at the Liverpool Biennale in 2006 and the 
 Sydney Biennale in 1998.
 
@@ -141,8 +142,8 @@ Wednesday, June 27, 7 pm, Access Gallery
 
 In tandem with Always Working, curator Gabrielle Moser co-facilitates a 
 meeting of No Reading After the Internet, an out-loud reading group 
-organized by Alex Muir and VIVO. Focusing on artist Hito Steyerlâ€™s 2010 
-e-flux essay, â€œPolitics of Art: Contemporary Art and the Transition to 
+organized by Alex Muir and VIVO. Focusing on artist Hito Steyerl’s 2010 
+e-flux essay, “Politics of Art: Contemporary Art and the Transition to 
 Post-Democracy,â€  the group will discuss the textâ€™s call for an art that 
 examines the politics of its own production and its relation to the works 
 in the exhibition. No Reading After the Internet is a monthly opportunity 

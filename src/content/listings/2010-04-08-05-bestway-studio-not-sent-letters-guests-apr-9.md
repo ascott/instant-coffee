@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing your altitude"
 emailDate: "Thu, 08 Apr 2010 08:55:19 -0700"
 number: 5
 type: ""
+venue: "Bestway Studio"
 summary: "Bestway Studio | NOT SENT LETTERS & GUESTS | APR 9"
 ---
 

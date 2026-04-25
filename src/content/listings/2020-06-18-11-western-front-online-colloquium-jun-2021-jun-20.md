@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 11
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | online colloquium | JUN 20+21 | JUN 20"
 ---
 

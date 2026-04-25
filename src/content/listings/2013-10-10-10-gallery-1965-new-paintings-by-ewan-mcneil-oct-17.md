@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 10
 type: ""
+venue: "Gallery 1965"
 summary: "Gallery 1965 | New paintings by Ewan McNeil | OCT 17"
 ---
 

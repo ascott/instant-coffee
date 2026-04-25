@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 42
 type: "CALL"
+venue: "Zero Gravity Performance Art"
 summary: "Zero Gravity Performance Art | CALL FOR ARTISTS | MAY 1"
 ---
 

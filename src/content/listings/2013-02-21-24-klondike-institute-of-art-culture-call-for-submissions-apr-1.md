@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 24
 type: ""
+venue: "Klondike Institute of Art & Culture"
 summary: "Klondike Institute of Art & Culture | CALL FOR SUBMISSIONS | APR 1"
 ---
 
@@ -26,7 +27,7 @@ http://www.naturalmanufactured.com
 ODD GALLERY
 
 The ODD Gallery is a contemporary exhibition space housed in KIAC. The 
-ODD Galleryâ€™s year-round programming features solo and group exhibitions 
+ODD Gallery’s year-round programming features solo and group exhibitions 
 (selected and curated by committee) by regional, national and international 
 visual artists, as well as the annual thematic project, The Natural & The 
 Manufactured. The gallery also presents a wide array of outreach 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Moniker Press [WORKSHOP]"
 summary: "Moniker Press [WORKSHOP] | Riso Basics | APR 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Pacific Rim Gallery"
 summary: "Pacific Rim Gallery | Sight Lines | OCT 1"
 ---
 

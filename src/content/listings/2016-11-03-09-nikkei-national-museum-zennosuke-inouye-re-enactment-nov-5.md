@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 9
 type: "PERFORMANCE"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Zennosuke Inouye re-enactment | NOV 5"
 ---
 

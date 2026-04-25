@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 19
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artists in Conversation: Laiwan, Zheng, Xiaojing | FEB 22"
 ---
 
@@ -15,7 +16,7 @@ Exhibiting artists Vancouver-based Laiwan and Toronto-based Xiaojing Yan,
 as well as Vancouver-based artist/curator Zheng Shengtian will discuss their 
 own work in the context of the current Surrey Art Gallery exhibition (Da bao)
 (Takeout). The conversation will be moderated by Surrey Art Gallery, Curator 
-of Exhibitions and Collections, Jordan Strom. Admission is free â€“ donations 
+of Exhibitions and Collections, Jordan Strom. Admission is free – donations 
 gratefully received.
 
 ABOUT THE ARTISTS
@@ -42,20 +43,20 @@ the only English-language journal on contemporary Chinese art. He is a
 founding member and has been a Board Director of the Vancouver 
 International Centre for Contemporary Asian Art since 1999. He has 
 presented his artwork internationally for several decades. His artistic 
-collaboration with Wang Dongling â€“ Guanshan Gathering â€“ is being presented 
+collaboration with Wang Dongling – Guanshan Gathering – is being presented 
 at the Chambers Gallery (New York) until February 22. As an independent 
 curator, Zheng has organized and curated numerous exhibitions including 
 Jiangnan: Modern and Contemporary Chinese Art (Vancouver), Shanghai 
-Modern (Munich, Kiel, Germany), and Art and Chinaâ€™s Revolution (New York).
+Modern (Munich, Kiel, Germany), and Art and China’s Revolution (New York).
 
 Born in China, Xiaojing Yan is a Toronto-based artist. She holds an MFA in 
 Sculpture from Indiana University of Pennsylvania (USA), and a BFA from 
-Nanjing Arts Institute (China). Yanâ€™s work has been exhibited in galleries and 
+Nanjing Arts Institute (China). Yan’s work has been exhibited in galleries and 
 museums in China, Canada, and the United States, including the Art Toronto 
-art fairâ€™s flagship exhibition Beyond Geography in 2012. Recent solo shows 
+art fair’s flagship exhibition Beyond Geography in 2012. Recent solo shows 
 have appeared at venues including The Red Head Gallery (Toronto, 2012), 
 Glenhyrst Art Gallery of Brant (Brantford, 2011), Artspace (Peterborough, 
-2011), and Phoenix Art Gallery (China, 2009). Yanâ€™s work is included in many 
+2011), and Phoenix Art Gallery (China, 2009). Yan’s work is included in many 
 collections; Seneca College at Newnham Campus (Toronto, 2013) houses her 
 permanent installation Cloudscape. She has done many public art projects 
 including her most recent wall sculpture Soar at Shanfang Elementary School 
@@ -70,7 +71,7 @@ matter as shadow theatre, mushroom farming, tai chi, urban development,
 cooking, and rickshaws. This group exhibition explores both the cross-
 cultural and social dynamic between China and the West, specifically 
 Canada. Centered on the metaphor of take-away food culture (in Mandarin 
-â€˜da baoâ€™ refers to take-out food), the art on display presents ironic, critical, 
+‘da bao’ refers to take-out food), the art on display presents ironic, critical, 
 and humorous perspectives on the import and export of culture, people, and 
 ideas. Participating artists are Sara Angelucci and Han Xu, John Armstrong 
 and Paul Collins, Cathy Busby, Gang Chen, Brendan Fernandes, Nan Hao, 

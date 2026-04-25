@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 4
 type: "CALL"
+venue: "Moves 2025"
 summary: "Moves 2025 | CALL FOR SUBMISSIONS"
 ---
 

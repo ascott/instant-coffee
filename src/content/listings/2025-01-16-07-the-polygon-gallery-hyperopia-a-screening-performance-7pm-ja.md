@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 7
 type: ""
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Hyperopia: A Screening Performance | 7PM | JAN 16"
 ---
 

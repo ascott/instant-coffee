@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 5
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | CHARLES BERNSTEIN | JAN 9"
 ---
 
@@ -28,7 +29,7 @@ Selected Poems (Farrar, Straus, and Giroux, forthcoming 2010), Blind
 Witness: Three American Operas (Factory School, 2008); Girly Man
 (University of Chicago, 2006), and My Way: Speeches and Poems (Chicago,
 1999). He is the co-founder and co-editor, with Al Filreis, of PENNsound
-(writing.upenn.edu/pennsound); editor, and co-founder, with Loss PequenÃ±o
+(writing.upenn.edu/pennsound); editor, and co-founder, with Loss Pequenño
 Glazier, of The Electronic Poetry Center (epc.buffalo.edu); co-editor, with
 Hank Lazer, of Modern and Contemporary Poetics, a book series from the
 University of Alabama Press (1998-); and host and co-producer of LINEbreak

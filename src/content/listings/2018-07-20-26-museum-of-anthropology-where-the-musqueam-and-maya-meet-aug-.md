@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 26
 type: "EVENT"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Where the Musqueam and Maya Meet | AUG 12"
 ---
 

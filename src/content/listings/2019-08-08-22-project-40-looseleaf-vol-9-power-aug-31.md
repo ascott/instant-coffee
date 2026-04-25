@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 22
 type: "CALL"
+venue: "Project 40"
 summary: "Project 40 | LooseLeaf Vol. 9 - POWER | AUG 31"
 ---
 

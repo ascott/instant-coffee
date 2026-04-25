@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 13
 type: ""
+venue: "JOB"
 summary: "JOB | Lattimer Gallery | Part-Time Sales Positions | AUG 15"
 ---
 

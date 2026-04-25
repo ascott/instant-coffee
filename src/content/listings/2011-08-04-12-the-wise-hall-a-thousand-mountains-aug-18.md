@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 12
 type: ""
+venue: "The Wise Hall"
 summary: "The Wise Hall | A Thousand Mountains | AUG 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 1
 type: "EVENT"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Walking Tours: Joan Balzar and Becoming Animal..."
 ---
 

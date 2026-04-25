@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 36
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | C.L.A.M. | David Rimmer deep cuts | APR 30"
 ---
 

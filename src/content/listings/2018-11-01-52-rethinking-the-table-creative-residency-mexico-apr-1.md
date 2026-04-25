@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 52
 type: "CALL"
+venue: "Rethinking The Table"
 summary: "Rethinking The Table | Creative Residency (MEXICO) | APR 1"
 ---
 

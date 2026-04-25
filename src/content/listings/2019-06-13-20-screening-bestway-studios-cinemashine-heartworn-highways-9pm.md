@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 20
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Bestway Studios | CinemaShine: Heartworn Highways | 9PM | JUN 15"
 ---
 

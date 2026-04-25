@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 18
 type: "FUNDRAISER"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | West Coast Artists for Alzheimer's | JUN 9"
 ---
 

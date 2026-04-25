@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Closing: Pandemic Drawings by Jenny Lin | OCT 31"
 ---
 

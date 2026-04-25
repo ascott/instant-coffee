@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 21
 type: ""
+venue: "Geist Magazine"
 summary: "Geist Magazine | The Art of the Sentence Workshop | NOV 15"
 ---
 

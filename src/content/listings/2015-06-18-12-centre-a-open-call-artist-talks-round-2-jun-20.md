@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 12
 type: "TALK"
+venue: "Centre A"
 summary: "Centre A | Open Call Artist Talks - Round 2 | JUN 20"
 ---
 
@@ -22,7 +23,7 @@ served.
 
 Speakers, in alphabetical order:
 Vanessa Grondin (http://www.vanessagrondin.com/)
-Richard HeikkilÃ¤-Sawan (http://www.rhsimagine.com/)
+Richard Heikkilä-Sawan (http://www.rhsimagine.com/)
 Julia Dahee Hong (http://www.juliadaheehong.com/)
 Melissa King (http://www.melking.ca/)
 Deborah Kisiel

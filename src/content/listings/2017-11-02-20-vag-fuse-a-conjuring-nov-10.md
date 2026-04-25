@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 20
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | FUSE - A Conjuring | NOV 10"
 ---
 

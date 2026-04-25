@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 27
 type: ""
+venue: "THE LEEWAY STUDIO RESIDENCY"
 summary: "THE LEEWAY STUDIO RESIDENCY | Call for Applications | NOV 21"
 ---
 
@@ -31,7 +32,7 @@ workshop or exhibition during the residency term.
 
 This residency includes: 
 
-- unlimited studio access during University hours from January â€“ April 
+- unlimited studio access during University hours from January – April 
 2015
 - access to a range of professional equipment, tools and basic art 
 materials 

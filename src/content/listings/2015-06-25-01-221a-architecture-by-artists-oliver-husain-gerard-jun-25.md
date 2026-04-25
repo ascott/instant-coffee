@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 1
 type: "OPENING"
+venue: "221A"
 summary: "221A | Architecture by Artists: Oliver Husain - Gerard... | JUN 25"
 ---
 
@@ -14,7 +15,7 @@ Please join us for the debut of Mondo Pale Grey, a new site-specific video
 and performance by Toronto-based artist Oliver Husain, developed for the
 accumulative exhibition Architecture by Artists. This new work is presented
 alongside Husain's video Parade (2013), and two works by Gerard & Kelly:
-single channel video Park Avenueâ€¦shitâ€¦ (2011) and Clock, a performative
+single channel video Park Avenue…shit… (2011) and Clock, a performative
 score from their series Recto/Verso (2013). These works join the
 reconfigured installation Estrous.Life by Hannah Heilmann.
 
@@ -29,11 +30,11 @@ architecture representing the social and structural fabric of the urban
 environment in some of its pluralities.
 
 Architecture by Artists is curated by interdisciplinary artist
-Matthew-Robin Nye(MontrÃ©al) through the Curatorial Residency program at 221A.
+Matthew-Robin Nye(Montréal) through the Curatorial Residency program at 221A.
 
 Architecture by Artists
 Hannah Heilmann, Oliver Husain, Gerard & Kelly
-June 6â€“July 25, 2015
+June 6–July 25, 2015
 
 Read more: http://221a.ca/architecture-by-artists
 

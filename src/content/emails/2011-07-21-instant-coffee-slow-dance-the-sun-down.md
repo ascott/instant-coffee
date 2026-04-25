@@ -157,7 +157,7 @@ police when he attempted to prevent a colleague from being dragged away.
 
 State support of Dutch culture within and outside of the Netherlands has 
 generously and actively contributed to the vital development of global artistic 
-practice, presentation, and discourse. Given the Netherlandsâ€™ role as an 
+practice, presentation, and discourse. Given the Netherlands’ role as an 
 exemplar of cultural cultivation, we believe that this series of events signals a 
 dramatic turn and sets an unfortunate precedent in the international cultural 
 landscape. While a tidal wave of cuts in funding for culture has swept across 
@@ -191,23 +191,23 @@ www.fillip.ca
 murmur
 --------------------------------------------------------------------------------
 
-Conceptualismo y EconomÃ­a 
+Conceptualismo y Economía 
 (Conceptualism and Economy) 
-Mario GarcÃ­a Torres & Aaron Schuster, Lee Lozano, Seth Price, Joe Scanlan 
+Mario García Torres & Aaron Schuster, Lee Lozano, Seth Price, Joe Scanlan 
 27 pp. 
 21.59 cm x 27.94 cm (8.5 x 11 inches) 
-EspaÃ±ol / English 
+Español / English 
 2009 
 
-DispersiÃ³n 
+Dispersión 
 Seth Price 
 14 pp. 
 21.59 cm x 27.94 cm (8.5 x 11 inches) 
-EspaÃ±ol 
+Español 
 2002/2010 
 
 Marta Traba in Black and White 
-NicolÃ¡s GÃ³mez Echeverri 
+Nicolás Gómez Echeverri 
 15 pp. 
 21.59 cm x 27.94 cm (8.5 x 11 inches) 
 English 
@@ -286,7 +286,7 @@ FREE and open to everyone!
 
 Drop by and help create collaborative creature drawings in the lobby at Sunset. 
 Each creature begins with a random brush mark, and depends on at least three 
-different peopleâ€™s contributions.
+different people’s contributions.
 
 For further information about the Vancouver Draw Down Finale event at Sunset 
 contact:
@@ -307,7 +307,7 @@ Duncan's Backyard Henhouses
 
 Visit our website!
 
-Other Sightâ€™s is pleased to present this workshop as part of the Grow project.
+Other Sight’s is pleased to present this workshop as part of the Grow project.
 
 Please join Duncan Martin and his chickens from Duncan's Backyard 
 Henhouses for an afternoon at the Bulkhead Lab. Duncan will be leading informal 
@@ -375,24 +375,24 @@ ArtsConnect's upcoming PechaKucha Night. You won't want to miss it!
 MORAG KYDD
 Ode to Joy
 
-July 7 â€“ 28 2011
+July 7 – 28 2011
 Curated by Jenn Jackson
 
 Reception: July 25, 7pm
 
-Luckyâ€™s Gallery is pleased to present the forthcoming exhibition Ode to Joy by 
+Lucky’s Gallery is pleased to present the forthcoming exhibition Ode to Joy by 
 Vancouver artist Morag Kydd. An immersive installation of aesthetic pleasure, 
 Ode to Joy materializes a cosmic coordination of colourful rhythms. Cascading 
 connections of familiar material energize the gallery in poetic celebration and 
 compulsively propose playful occupation. Based purely on personal feelings 
-Kyddâ€™s intuitive process of composition shares thoughtful constellations of 
+Kydd’s intuitive process of composition shares thoughtful constellations of 
 honest consideration. Her imaginative weaving of comforting articles performs 
 an electric gesture capable of transformative magical powers. Forthcoming with 
 fire-cracking confidence this bright score authenticates what it means to feel 
 good. A fun journey of malleable happiness, the space demands habitation. The 
 activity, inductive of day dreaming and intangible associations, elucidates a 
 mindscape of sunshine and lollipops. Oh jubilation, so splendid, unapologetic 
-and faithful, letâ€™s lie on our backs and sing the musical chorus.
+and faithful, let’s lie on our backs and sing the musical chorus.
 
 Lucky's Gallery
 3972 Main Street
@@ -454,7 +454,7 @@ David Wisdom
 As part of the Culture Series at the Vancouver Art Gallery, musician, 
 photographer and former CBC radio host David Wisdom presents two special 
 summer nights of his legendary slide shows. Featuring Marv Newland, Neil 
-Wedman, Kathy Slade, Manuel Pina, James Oâ€™Mara, Doug Lander on July 26th, 
+Wedman, Kathy Slade, Manuel Pina, James O’Mara, Doug Lander on July 26th, 
 and Bill Jeffries, Karin Bubas, Rodney Graham, Stuart McCall, Robert Kleyn, 
 Connie Kuhns on August 23rd, the evenings will unfold with Wisdom and his line 
 up of speakers presenting their slide shows set to music.
@@ -553,7 +553,7 @@ about the elements (air, earth, water, fire, metal) as the metaphoric access poi
 for an intergenerational story-share and workshop series.
 
 During ELEMENTAL: earth extracts from community stories will be represented 
-in a cob â€˜storytellersâ€™ benchâ€™ to be built in Robson Park (13th and Kingsway). 
+in a cob ‘storytellers’ bench’ to be built in Robson Park (13th and Kingsway). 
 This site is an important geographic locater as it is part of a watershed from 
 which St. George Creek flows towards the False Creek Flats, networking with 
 many other underground streams along the way. The bench is in support of 
@@ -586,7 +586,7 @@ FREE ENTRY
 The programme will run 5-7pm and 7-9pm
 
 Sparrow+Castice (UK) - Sparrow & Castice Do Wakefield (2011) World 
-PremiÃ¨re
+Première
 
 On Monday June 13th 2011 Sparrow+Castice went to Wakefield. One week later 
 on Sunday 19th they returned to Birmingham. At some point between these two 
@@ -596,12 +596,12 @@ sparrowandcastice.tumblr.com
 Simona da Pozzo (IT) - Exclave (2010)
 
 Portable Grounds is an intervention about territory, identity and mobility: it acts as 
-a compulsive reflex that pushes to transport, to have objects â€“or parts of them- 
+a compulsive reflex that pushes to transport, to have objects –or parts of them- 
 with the idea to have a physical link with that we love, to despite distances. A 
 attitude to condense sadness in objects that nourish nostalgia.
 www.simonadapozzo.net
 
-Marius Leneweit & RocÃ­o RodrÃ­guez (DE) ...niland 2 (...no land 2) (2011)
+Marius Leneweit & Rocío Rodríguez (DE) ...niland 2 (...no land 2) (2011)
 
 ...niland (no land) is a visionary work about the adaptation and transformation of 
 humankind to a life beneath the water surface. The work is based on themes of 
@@ -612,14 +612,14 @@ ambivalence of the symbiosis human-environment and examines the stringent
 concurrence of climate change and cultural change.
 www.gruppefisch.com
 
-Patrick Moser (US) - Patty Goes (2011) UK PremiÃ¨re!
+Patrick Moser (US) - Patty Goes (2011) UK Première!
 
 An animated homage to the Patterson footage that inspired me as a child.
 www.patrickmoserpaintings.com
 
 Fin McMorran (UK) - Women and Sheds (2010-11)
 
-9 women tell their stories, about their sheds â€“ private space, workshops, refuges 
+9 women tell their stories, about their sheds – private space, workshops, refuges 
 and occasional disaster areas. A representative of the local shed community 
 replies, detailing some of her hopes and aspirations and revealing some truths 
 about the complex nature of sheds.
@@ -646,7 +646,7 @@ Alice Bradshaw (UK) - Rubbish (2011)
 A montage from the Museum of Contemporary Rubbish.
 museumofcontemporaryrubbish.blogspot.com
 
-RÃ©mi Mazet (FR) - Siggil (2010)
+Rémi Mazet (FR) - Siggil (2010)
 
 Dakar is a popular district. An old man, Lamine, is getting ready to go to an 
 important meeting. At the other side of the city, in a sumptuous villa, someone is 
@@ -654,7 +654,7 @@ waiting for him anxiously.
 www.sacrebleuprod.com
 
 Marzia Moretti (IT) - Azione Sovversiva Minima 6 (Minimal Subversive Action 6) 
-(2010) World PremiÃ¨re
+(2010) World Première
 
 Intake, compression, power, exhaust.
 
@@ -745,17 +745,17 @@ subject line.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-07-21-16-vancouver-art-gallery-tanya-tagaq-and-michael-red-performanc">16. Vancouver Art Gallery | Tanya Tagaq and Michael Red performance | JUL 27</a>
 ------------------------------------------------------------------------
-Wednesday, July 27 Â· 6:30pm - 10:00pm
+Wednesday, July 27 · 6:30pm - 10:00pm
 Vancouver Art Gallery
 
-With a sound that is described as â€˜orchestralâ€™, â€˜primalâ€™ and â€˜hip-hop infusedâ€™, 
-internationally renowned throat singer Tanya Tagaqâ€™s performances span a 
-staggering range of experiences. Tagaqâ€™s work will resonate with those 
+With a sound that is described as ‘orchestral’, ‘primal’ and ‘hip-hop infused’, 
+internationally renowned throat singer Tanya Tagaq’s performances span a 
+staggering range of experiences. Tagaq’s work will resonate with those 
 alternative states so central to art of the Surrealist movement, on display in the 
 new exhibition The Colour of My Dreams: The Surrealist Revolution in Art.
 
 Experience Tanya and Vancouver-based sound artist Michael Red on the 
-Galleryâ€™s spectacular 4th floor balcony for an unforgettable evening of music and 
+Gallery’s spectacular 4th floor balcony for an unforgettable evening of music and 
 art. Join us for a drink following the performance, and enjoy exclusive access to 
 The Colour of My Dreams.
 
@@ -793,7 +793,7 @@ Opening Reception of
 General Idea
 
 The Art Gallery of Ontario invites you to celebrate the OPENING of Haute 
-Culture: General Idea â€“ A Retrospective, 1969 â€“ 1994 with a free, after-hours 
+Culture: General Idea – A Retrospective, 1969 – 1994 with a free, after-hours 
 public opening in Walker Court.
 
 Featuring more than 300 works spanning 20,000 sq. ft. of Gallery space, Haute 
@@ -803,24 +803,24 @@ comprehensive retrospective devoted to General Idea, the collaboration between
 artists AA Bronson, Felix Partz and Jorge Zontal that began in Toronto in 1969.
 
 General Idea Opening Reception
-Friday, July 29, 2011, 6 â€“ 9 pm, remarks at 7pm
+Friday, July 29, 2011, 6 – 9 pm, remarks at 7pm
 Art Gallery of Ontario
 FREE admission; Cash bar
 Baby Makes 3
 
-General Idea, Baby Makes 3. 1984 â€“ 1989. chromogenic print. 76.2 x 63.5 cm. 
+General Idea, Baby Makes 3. 1984 – 1989. chromogenic print. 76.2 x 63.5 cm. 
 Collection Fonds national d'art contemporain, France. Image courtesy the Estate 
 of General Idea and the Art Gallery of Ontario.
 
 This exhibition is conceived and organized by the Art Gallery of Ontario in 
-conjunction with the MusÃ©e d'Art moderne de la Ville de Paris.The exhibition is 
+conjunction with the Musée d'Art moderne de la Ville de Paris.The exhibition is 
 generously supported by the Volunteers of the Art Gallery of Ontario. 
 Contemporary programming at the AGO is supported by the Canada Council for 
 the Arts.
 Both exhibitions supported by the Volunteers of the Art Gallery of Ontario, and 
 Canada Council
 Unsubscribe Art Gallery of Ontario
-MusÃ©e des beaux-arts de l'Ontario
+Musée des beaux-arts de l'Ontario
 317 Dundas St. West, Toronto, Ontario
 Canada M5T 1G4
 Toll free: 1.877.225.4246
@@ -835,9 +835,9 @@ MADE IN JAPAN: JEREMY ISAO SPEIER
 
 Presented with BLIM Arts
 
-July 29 â€“ August 27, 2011
+July 29 – August 27, 2011
 
-Opening Friday, July 29, 6:30 â€“ 11:30PM
+Opening Friday, July 29, 6:30 – 11:30PM
 
 MIJ: Made In Japan: Deep Purple: Space Truckin', (1972), (2011)
 
@@ -872,13 +872,13 @@ industrial, but also as Main shifts toward gentrification the less industrial it
 becomes. The object marks the ever-changing psychographics of this Main 
 area. An important part of Speier's practice is about his urban geographical 
 vernacular of recycling and salvaging found objects and materials for reuse and 
-repurpose in his work. Speier uses obsolete technology of the 1970â€™s and 1980â€™s 
+repurpose in his work. Speier uses obsolete technology of the 1970’s and 1980’s 
 to reconfigure parts and motors for hand-made and self-made technologies in 
 Made in Japan.
 
 Time Traveler: BIO
 
-Jeremy Isao Speier is a time traveler â€“ explorer and his layered kinetic work is 
+Jeremy Isao Speier is a time traveler – explorer and his layered kinetic work is 
 about mobility and multiplicity. Speier is very interested in ideas around time: 
 Newtonian-time like the frame of a filmstrip across the time line; or Kant-time as 
 neither an event nor a thing; or Einstein-time and his special theory of relativity, 
@@ -959,7 +959,7 @@ printing and binding, browse our titles or just to talk about books.
 Books make friends! Spend your Saturday afternoons with Publication Studio, or 
 visit us during the week for freshly made books!
 
-July 23 â€“ residency opening and Rebound Party from 12 to 5pm
+July 23 – residency opening and Rebound Party from 12 to 5pm
 
 *Rebound Party: Bring your favorite old paperback with disintegrating covers and 
 spine, and Publication Studio will re-bind your book in your own homemade 
@@ -972,7 +972,7 @@ Imagination and a new book by leannej (the first in a series of Rereading The
 Riot Act books, co-published by Publication Studio and UNIT/PITT) from 2 to 4 
 pm
 
-August 6 â€“ Rebound Party from 12 to 5pm
+August 6 – Rebound Party from 12 to 5pm
 
 August 13 â€“ book launch: â€œI Look Up, Volume 2â€  by Mina Totino from 2 to 4 pm
 
@@ -984,7 +984,7 @@ additional events during the residency.
 
 Publication Studio is an experiment in sustainable publication that prints and 
 binds books on demand, creating original work with artists and writers. 
-Publication Studio is a laboratory for publicationâ€”not just the production of 
+Publication Studio is a laboratory for publication—not just the production of 
 books, but the production of a public. This public, which is more than a market, 
 is created through deliberate acts, the circulation of texts, discussions, and 
 gatherings in physical space, and the maintenance of a digital commons. Please 
@@ -1001,7 +1001,7 @@ is presented as a conceptual artist book. Totino has long been drawn to clouds
 as subject matter for their whimsical, sublime, and mundane character and for 
 their rich associations from cloud watching as an idle pursuit to transcendent 
 depictions by Kaspar David Friedrich and John Constable. The photographs are 
-presented chronologically, with each Polaroid documenting the artistâ€™s gaze and 
+presented chronologically, with each Polaroid documenting the artist’s gaze and 
 representing time and place via the sky.
 
 Edited by Kathy Slade and published by the Charles H. Scott Gallery and 
@@ -1061,7 +1061,7 @@ For more information visit : http://www.culturedays.ca
 
 About Five Sixty:
 
-Five Sixty is known for its involvement in Vancouverâ€™s art and culture scene. This 
+Five Sixty is known for its involvement in Vancouver’s art and culture scene. This 
 4 floor multi-media complex has over 28,000 square feet of state-of-the-art 
 sound, design, lighting and visual technology, and boasts 3 levels of 
 nightclubbing, plus the Blanket Contemporary Art Gallery and The Satellite 
@@ -1184,7 +1184,7 @@ Alumni of OCAD University are invited to submit work for
 
 2012: OCAD U Alumni Exhibition, a juried exhibition and sale that
 
-will encompass all of the universityâ€™s twelve disciplines.
+will encompass all of the university’s twelve disciplines.
 
 Opening on March 9, 2012 at the Gladstone Hotel, 
 
@@ -1216,7 +1216,7 @@ information, contact alumni@ocad.ca.
 ------------------------------------------------------------------------
 SAM : Mika Tajima 
 After the Martini Shot 
-July 16, 2011â€“June 17, 2012 
+July 16, 2011–June 17, 2012 
 SAM Third Floor Galleries 
 
 Innovative in her approach, Mika Tajima combines painting, sculpture, design, 
@@ -1230,17 +1230,17 @@ objects in a gallery. A video projection, a painting rack, double-sided painting
 wheels, and freestanding lamps, alongside wall-mounted paintings are brought 
 together in an installation that will begin to burst at the seams.
 
-A graduate of the New Genres MFA Program at New Yorkâ€™s Columbia University, 
-Tajimaâ€™s interdisciplinary practice embraces a wide-range of influence, including 
+A graduate of the New Genres MFA Program at New York’s Columbia University, 
+Tajima’s interdisciplinary practice embraces a wide-range of influence, including 
 critiques of modernism and its failures, the legacy of minimalism, as well as 
-modernist architecture, including the modular structures of Herman Millerâ€™s 
+modernist architecture, including the modular structures of Herman Miller’s 
 Action Office designs of the late 1960s. Often working collaboratively, the artist 
 has worked on projects with Vito Acconci, Charles Atlas, Judith Butler, and the 
 Brooklyn-based noise band, New Humans, of which she is a founding member. 
 Tajima is the sixth artist selected for a solo exhibition in the SAM Next series, the 
-Seattle Art Museumâ€™s contemporary art exhibition program.
+Seattle Art Museum’s contemporary art exhibition program.
 
-â€”Marisa C. SÃ¡nchez, Assistant Curator of Modern & Contemporary Art
+—Marisa C. Sánchez, Assistant Curator of Modern & Contemporary Art
 
 This exhibition is organized by the Seattle Art Museum.
 
@@ -1279,7 +1279,7 @@ pnwong2@yahoo.ca
 
 <a href="/instant-coffee/listings/2011-07-21-02-elissa-cristall-gallery-louise-phillips-and-karen-garrett-de">2.
 Gam Gallery | two openings for shared studio space</a>
-The Gam is a studio, gallery and boutique located in Vancouverâ€™s downtown east 
+The Gam is a studio, gallery and boutique located in Vancouver’s downtown east 
 side and fronts an artist-only building at 110 E Hastings St (ACME Studios). We 
 are looking to expand our studio operations and currently have two openings for 
 shared studio space. As a Gam studio mate you will enjoy 24 hour access to 
@@ -1344,7 +1344,7 @@ WEDNESDAY JULY 20th, 2011 till SATURDAY JULY 23rd, 2011
 
 RFD_SHOP HOURS:
 WEDNESDAY to SATURDAY
-12:00 PM â€“ 5:00 PM
+12:00 PM – 5:00 PM
 
 LOCATION:
 318 Industrial Ave.

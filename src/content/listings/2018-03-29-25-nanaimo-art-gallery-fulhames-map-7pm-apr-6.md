@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 25
 type: "OPENING"
+venue: "Nanaimo Art Gallery"
 summary: "Nanaimo Art Gallery | Fulhame's Map | 7PM | APR 6"
 ---
 

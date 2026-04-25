@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 22
 type: "EDUCATION"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | Art School High | Poetry Workshop with Sheryda Warrener | JUN 20"
 ---
 

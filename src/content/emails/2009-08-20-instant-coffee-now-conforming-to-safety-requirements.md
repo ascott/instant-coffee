@@ -13,7 +13,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2009-08-20-01-elliott-louis-gallery-emergence-2009-aug-20">01. Elliott Louis Gallery | Emergence 2009 | AUG 20</a>
 <a href="/instant-coffee/listings/2009-08-20-02-hub-upcoming-talks-aug-20">02. HUB | Upcoming Talks | AUG 20</a>
-<a href="/instant-coffee/listings/2009-08-20-03-ayden-gallery-gropps-gambit-aug-21">03. Ayden Gallery | "GroppÂ’s Gambit" | AUG 21</a>
+<a href="/instant-coffee/listings/2009-08-20-03-ayden-gallery-gropps-gambit-aug-21">03. Ayden Gallery | "Gropps Gambit" | AUG 21</a>
 <a href="/instant-coffee/listings/2009-08-20-04-helen-pitt-nights-of-improvised-music-aug-22">04. Helen Pitt | Nights of Improvised Music | AUG 22</a>
 <a href="/instant-coffee/listings/2009-08-20-05-les-gallery-movable-sculpture-aug-22">05. LES Gallery | Movable Sculpture | AUG 22</a>
 <a href="/instant-coffee/listings/2009-08-20-06-fillip-library-launch-talk-aug-26">06. Fillip | Library Launch & Talk | AUG 26</a>
@@ -67,29 +67,29 @@ Saturdays from 10AM to 4PM. For detailed hours and address information, visit
 http://http://www.hubcentre.org/hublab/
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2009-08-20-03-ayden-gallery-gropps-gambit-aug-21">03. Ayden Gallery | "GroppÂ’s Gambit" | AUG 21</a>
+<a href="/instant-coffee/listings/2009-08-20-03-ayden-gallery-gropps-gambit-aug-21">03. Ayden Gallery | "Gropps Gambit" | AUG 21</a>
 ------------------------------------------------------------------------
 
-Ayden Gallery, 88 West Pender, Opening Friday August 21st , 7 Â– 11 pm. 
+Ayden Gallery, 88 West Pender, Opening Friday August 21st , 7  11 pm. 
 
 Music!
 Fashion!
 Cheese Pies!
 
-Green Thumb from the GardenÂ’s Edge:
+Green Thumb from the Gardens Edge:
 
-We canÂ’t help it, weÂ’re growingÂ…
+We cant help it, were growing
 
-The kids that play in the GroppÂ’s House are propagating. The rich compost of painters, sculptors,
+The kids that play in the Gropps House are propagating. The rich compost of painters, sculptors,
 musicians, photographers, print makers, poets and performers that compose this Vancouver artist 
-collective, have taken root in TinseltownÂ’s Ayden Gallery with the intention of planting seeds. 
+collective, have taken root in Tinseltowns Ayden Gallery with the intention of planting seeds. 
 They are laying the groundwork for an environment that celebrates the wonder, the curiosity, the 
 foolishness and the seduction of combined intellectual perception and visceral sensation. 
-GroppÂ’s emerging artists promise that every experience will become a unique adventure unto it's 
+Gropps emerging artists promise that every experience will become a unique adventure unto it's 
 own, a cosmic game of unraveled mysteries revealed within.
 
 At Gropps Gambit you will be confronted with bones, bugs, rocks, trees, dirt, blood, feathers, 
-flowers and crows. GroppÂ’s artists are part of the revolutionary generation who push a more 
+flowers and crows. Gropps artists are part of the revolutionary generation who push a more 
 elemental worldview. The collective is based on collaboration, intermingling of minds, influence,
 friendship, work and shared energy. They've broken the world into pieces and are reassembling it 
 in a completely new and organic fashion. To fully experience the blood and culture, the Dionysian
@@ -100,9 +100,9 @@ yourself.
 Our remnants mix with those of the past and decompose with the plants and the grass. How 
 many of the layers last? 
 
-Â“The Gropps house itself, is a wonder. Treasures can be found in every room, in every corner. 
+The Gropps house itself, is a wonder. Treasures can be found in every room, in every corner. 
 There is lots of space. A garden. A workshop. Painting. Pottery. Friends. Fruit flies. Coffee. Art. 
-Toys.Â” - Gropp
+Toys. - Gropp
 
 Guest Curator - Jennifer Chernecki
 
@@ -221,7 +221,7 @@ Artexte engages in research, interpretation, and dissemination initiatives in or
 influence and appreciation of contemporary visual art. These activities are informed by their 
 significant collection of art documentation and authoritative resources, as well as a network of 
 multidisciplinary partners. Their activities touch on all aspects of contemporary visual arts from 
-1965 on, with special emphasis placed on QuÃ©bec and Canada.
+1965 on, with special emphasis placed on Québec and Canada.
 
 Fillip
 305 Cambie Street
@@ -240,10 +240,10 @@ Discussion and Exhibition
 
 17 September 2009, Chapel Arts, Dunlevy Street, Vancouver
 
-Type of Call: Visual artists â€¨â€¨â€¨
+Type of Call: Visual artists    
 
 Description: An evening of inspired debate and exhibition among leading thinkers about the 
-spread of Affluenza Â– the affliction of having to keep up with The JonesÂ’ and accumulating debt 
+spread of Affluenza  the affliction of having to keep up with The Jones and accumulating debt 
 in trying to gain happiness. http://en.wikipedia.org/wiki/Affluenza 
 
 Affluenza is a two-pronged event:
@@ -251,11 +251,11 @@ Affluenza is a two-pronged event:
 a tongue-in-cheek discussion and party opens up a dialogue and allows people to reflect on how 
 our values drive our spending patterns and why our consumer behavior reflects how we feel 
 about ourselves. Confirmed panelists include John de Graaf, documentary film-maker, 
-Â‘Â’AffluenzaÂ’Â’, Seattle, Washington; Neil Boorman, author of Bonfire of the Brands, London, 
+Affluenza, Seattle, Washington; Neil Boorman, author of Bonfire of the Brands, London, 
 England, and; Conrad Schmidt, Head of the Work Less Party, Vancouver
 2-week art exhibit will run over the event giving more people a chance to enjoy art that reflects
 Affluenza and offering pieces for sale.
-The event highlights real issues with a humorous bent at a time when seriously, weÂ’ve just got to
+The event highlights real issues with a humorous bent at a time when seriously, weve just got to
 laugh at ourselves. This is the first event, with others of its kind to follow in New York and 
 Amsterdam in 2010.
 

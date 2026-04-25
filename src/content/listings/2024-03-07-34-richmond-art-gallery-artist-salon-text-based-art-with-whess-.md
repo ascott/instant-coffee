@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 34
 type: ""
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | ARTIST SALON - TEXT BASED ART WITH WHESS HARMAN | MAR 16"
 ---
 

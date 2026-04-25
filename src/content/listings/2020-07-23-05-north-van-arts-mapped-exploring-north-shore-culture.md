@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "North Van Arts"
 summary: "North Van Arts | Mapped: Exploring North Shore Culture"
 ---
 

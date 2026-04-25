@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 7
 type: "CALL"
+venue: "Stage to Page"
 summary: "Stage to Page | A Poetry Development Project (June/July 2020) | JUN 19"
 ---
 

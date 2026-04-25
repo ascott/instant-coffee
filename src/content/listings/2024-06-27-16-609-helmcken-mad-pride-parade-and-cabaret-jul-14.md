@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 16
 type: "EVENT"
+venue: "609 Helmcken"
 summary: "609 Helmcken | Mad Pride Parade and Cabaret | JUL 14"
 ---
 

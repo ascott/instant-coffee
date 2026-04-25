@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 26
 type: "TALK"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Unpacking Art: Lunchtime Talks: William G. Lindsay | MAR 8"
 ---
 

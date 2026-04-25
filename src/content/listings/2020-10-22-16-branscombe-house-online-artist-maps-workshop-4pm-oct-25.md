@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 16
 type: "EDUCATION"
+venue: "Branscombe House [ONLINE]"
 summary: "Branscombe House [ONLINE] | Artist Maps Workshop | 4PM | OCT 25"
 ---
 

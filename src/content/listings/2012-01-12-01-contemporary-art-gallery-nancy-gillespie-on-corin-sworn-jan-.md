@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Nancy Gillespie on Corin Sworn | JAN 12"
 ---
 
@@ -20,7 +21,7 @@ Places are free
 
 Nancy Gillespie, poet and scholar, will examine the literary aspects of 
 Corin 
-Swornâ€™s exhibition, Endless Renovation. This thought provoking 
+Sworn’s exhibition, Endless Renovation. This thought provoking 
 installation by 
 Sworn began with the chance discovery of a discarded collection of 
 35mm 
@@ -33,7 +34,7 @@ Gillespie works at the intersection of experimental poetics and New
 Lacanian 
 theory. She is a member of the Kootenay School of Writing, and 
 recently edited 
-a special issue of the journal Open Letter, entitled â€œNegotiating the 
+a special issue of the journal Open Letter, entitled “Negotiating the 
 Social Bond 
 of Poetics,â€  forthcoming in 2012. She completed her Doctorate on The 
 Ecstatic 
@@ -51,7 +52,7 @@ Shifting the Discourse in Feminist Avant-garde Poetics and New
 Lacanian 
 Theory.
 
-Current exhibitions Robert Orchardson Endless FaÃ§ade, Corin Sworn 
+Current exhibitions Robert Orchardson Endless Façade, Corin Sworn 
 Endless 
 Renovation and Federico Herrero Vibrantes continue until January 15, 
 2012.

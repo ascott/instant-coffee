@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 34
 type: "CALL"
+venue: "Surrey Public Art Program"
 summary: "Surrey Public Art Program | 2020 Street Banners | JAN 31"
 ---
 

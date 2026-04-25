@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 38
 type: "EVENT"
+venue: "SFU School for the CA [ONLINE]"
 summary: "SFU School for the CA [ONLINE] | Interleaving: SCA Repertory Dancers | 6PM | DEC 4"
 ---
 

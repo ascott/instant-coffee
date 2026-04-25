@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 3
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Here I only worry about my feet, your feet... | JUN 3"
 ---
 

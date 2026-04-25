@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 6
 type: ""
+venue: "BLANKET CONTEMPORARY ART INC"
 summary: "BLANKET CONTEMPORARY ART INC | Monique Mouton : Sides | JUN 1"
 ---
 
 Monique Mouton : Sides
-June 1 â€“ July 14, 2012
+June 1 – July 14, 2012
 Opening reception Friday June 1, 6-9 pm
 
 BLANKET CONTEMPORARY ART INC.
@@ -25,7 +26,7 @@ paintings by LA based artist Monique Mouton. This is her second solo
 show 
 with Blanket.
 
-Monique Moutonâ€™s new paintings present a deceptive form of 
+Monique Mouton’s new paintings present a deceptive form of 
 nonchalance. 
 There is a determined ambivalence to her brush strokes, and her hand 
 cut 
@@ -33,7 +34,7 @@ panels are a spare backdrop to the thinnest application of paint. On the
 wall, these paintings hover; an effect that draws the viewer not only to 
 the 
 face of the work, but to the side, to the back, and to the wall itself. 
-Moutonâ€™s paintings have always been a quiet declaration, but this new 
+Mouton’s paintings have always been a quiet declaration, but this new 
 body 
 of work brings something more intent, and multifold: the scale is 
 increased; 

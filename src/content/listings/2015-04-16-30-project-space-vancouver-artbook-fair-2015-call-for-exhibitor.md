@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 30
 type: "CALL"
+venue: "Project Space"
 summary: "Project Space | Vancouver Art/Book Fair 2015: Call for Exhibitors | APR 30"
 ---
 
@@ -23,7 +24,7 @@ in Canada and one of only two on the West Coast. In 2015 the event is
 anticipated to attract over 3,000 visitors from across the Greater
 Vancouver Area and beyond.
 
-Presented by Project Space, VA/BF is a two-day festival of artistsâ€™
+Presented by Project Space, VA/BF is a two-day festival of artists’
 publishing featuring over one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 installations. Featured artists travel to Vancouver from across Canada and
@@ -37,7 +38,7 @@ Free and open to the public Saturday, October 17 and Sunday, October 18,
 
 Members Preview: Friday, October 16, 2014
 
-From October 12 to 18 satellite events will take place as part of Artistsâ€™
+From October 12 to 18 satellite events will take place as part of Artists’
 Books Week, a series of programs hosted by local publishers, artists,
 collectives, artist-run centres and institutions across Vancouver.
 Exhibitors are encouraged to collaborate with Vancouver hosts to participate.

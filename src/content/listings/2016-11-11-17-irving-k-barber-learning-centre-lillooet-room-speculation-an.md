@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 17
 type: "EVENT"
+venue: "Irving K. Barber Learning Centre - Lillooet Room"
 summary: "Irving K. Barber Learning Centre - Lillooet Room | Speculation and Performance in Art and Finance | NOV 16"
 ---
 

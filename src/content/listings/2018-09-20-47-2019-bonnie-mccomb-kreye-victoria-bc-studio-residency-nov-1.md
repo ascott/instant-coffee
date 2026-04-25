@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 47
 type: "CALL"
+venue: "2019 Bonnie McComb Kreye (VICTORIA, BC)"
 summary: "2019 Bonnie McComb Kreye (VICTORIA, BC) | Studio Residency | NOV 1"
 ---
 

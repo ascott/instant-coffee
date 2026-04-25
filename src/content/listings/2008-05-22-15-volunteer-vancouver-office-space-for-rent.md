@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: don't curse the darkness"
 emailDate: "Thu, 22 May 2008 08:10:19 -0700"
 number: 15
 type: ""
+venue: "Volunteer Vancouver"
 summary: "Volunteer Vancouver | Office Space for Rent"
 ---
 

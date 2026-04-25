@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 08:46:05 -0700"
 number: 35
 type: ""
+venue: "Annex"
 summary: "Annex | Her Story: Canadian Women Scientists | SEPT 13+14 | SEP 13"
 ---
 

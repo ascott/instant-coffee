@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 15
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Spare Room 222 East Georgia Street | CHARCUTERIE 4: VERY TACTILE PRESENT | 8PM | APR 28"
 ---
 

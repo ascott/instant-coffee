@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 11
 type: "EVENT"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Great Gifts: Holiday Exhibition & Gift Sale | 4PM | NOV 24"
 ---
 

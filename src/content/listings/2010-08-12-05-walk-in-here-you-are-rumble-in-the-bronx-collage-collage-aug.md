@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feeling so much doing so little"
 emailDate: "Thu, 12 Aug 2010 11:15:08 -0700"
 number: 5
 type: ""
+venue: "WALK IN HERE YOU ARE"
 summary: "WALK IN HERE YOU ARE | Rumble in the Bronx & Collage Collage | AUG 15"
 ---
 

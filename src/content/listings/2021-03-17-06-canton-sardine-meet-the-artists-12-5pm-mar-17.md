@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 6
 type: "EVENT"
+venue: "Canton-sardine"
 summary: "Canton-sardine | MEET THE ARTISTS | 12-5PM | MAR 17"
 ---
 

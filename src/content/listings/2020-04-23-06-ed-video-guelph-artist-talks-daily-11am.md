@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 6
 type: "TALK"
+venue: "Ed Video Guelph"
 summary: "Ed Video Guelph | Artist Talks Daily | 11AM"
 ---
 

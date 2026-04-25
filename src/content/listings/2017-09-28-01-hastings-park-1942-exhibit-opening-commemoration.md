@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 1
 type: "EVENT"
+venue: "Hastings Park 1942 Exhibit Opening & Commemoration"
 summary: "Hastings Park 1942 Exhibit Opening & Commemoration"
 ---
 

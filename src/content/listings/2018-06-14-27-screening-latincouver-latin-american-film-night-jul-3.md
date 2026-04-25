@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 27
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Latincouver | Latin American Film Night | JUL 3"
 ---
 

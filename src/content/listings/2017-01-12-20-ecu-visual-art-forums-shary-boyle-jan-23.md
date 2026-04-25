@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 20
 type: "TALK"
+venue: "ECU"
 summary: "ECU | Visual Art Forums: Shary Boyle | JAN 23"
 ---
 

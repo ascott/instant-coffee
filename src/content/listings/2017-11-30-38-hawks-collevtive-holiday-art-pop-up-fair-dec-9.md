@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 38
 type: "EVENT"
+venue: "Hawks Collevtive"
 summary: "Hawks Collevtive | Holiday Art Pop UP Fair | DEC 9"
 ---
 

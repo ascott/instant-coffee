@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 14
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Carol Sawyer | APR 22"
 ---
 

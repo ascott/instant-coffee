@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 28
 type: "OPENING"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | James O’Mara: Duets | 1PM | APR 20"
 ---
 

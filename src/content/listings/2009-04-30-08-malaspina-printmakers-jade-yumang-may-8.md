@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: full of sass and sparkle"
 emailDate: "Thu, 30 Apr 2009 08:30:09 -0700"
 number: 8
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Jade Yumang | MAY 8"
 ---
 

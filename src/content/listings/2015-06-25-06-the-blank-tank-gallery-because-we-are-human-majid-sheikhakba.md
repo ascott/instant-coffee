@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 6
 type: "OPENING"
+venue: "The Blank Tank Gallery"
 summary: "The Blank Tank Gallery | BECAUSE WE ARE HUMAN - Majid Sheikhakbari | JUN 26"
 ---
 
@@ -11,7 +12,7 @@ summary: "The Blank Tank Gallery | BECAUSE WE ARE HUMAN - Majid Sheikhakbari | J
 
 BECAUSE WE ARE HUMAN
 Majid Sheikhakbari
-Installation and sculptures inspired by Rumiâ€˜s poetry
+Installation and sculptures inspired by Rumi‘s poetry
 
 June 25th to July 7th, 2015
 Opening Reception on Friday, June 26th at 6:30pm
@@ -26,7 +27,7 @@ spiritual needs, so he began self-studying in Art and Architecture.
 Inspired by Mystical Poetry, he eventually shifted from engineering to art
 & architecture. Majid considers his architectural work as an art piece
 while considering functional purpose of office, gallery or residence.
-Majidâ€™s work embodies themes of â€˜Spiritualityâ€™, â€˜Environmentâ€™ and â€˜Lifeâ€™,
+Majid’s work embodies themes of ‘Spirituality’, ‘Environment’ and ‘Life’,
 reflecting his personal interests.
 One of his residential buildings was among the nominees of the AGA KHAN
 AWARD for Architecture in 2013.

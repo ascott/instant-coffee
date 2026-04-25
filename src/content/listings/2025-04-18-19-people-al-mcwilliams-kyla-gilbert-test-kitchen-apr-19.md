@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 19
 type: "OPENING"
+venue: "people"
 summary: "people | Al McWilliams & Kyla Gilbert: Test Kitchen | APR 19"
 ---
 

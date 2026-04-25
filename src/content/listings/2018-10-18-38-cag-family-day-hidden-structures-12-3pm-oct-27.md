@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 38
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | Hidden Structures | 12-3PM | OCT 27"
 ---
 

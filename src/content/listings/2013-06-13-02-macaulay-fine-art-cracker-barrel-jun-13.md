@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 2
 type: ""
+venue: "Macaulay Fine Art"
 summary: "Macaulay Fine Art | Cracker Barrel | JUN 13"
 ---
 
 OPENING THURSDAY JUNE 13, 6-9PM
-JUNE 13 â€“ JULY 18, 2013
+JUNE 13 – JULY 18, 2013
 
 A group show about the intersection of do-it-yourself aesthetics, and
 utopian domestic spaces. During the course of the exhibition, modifications

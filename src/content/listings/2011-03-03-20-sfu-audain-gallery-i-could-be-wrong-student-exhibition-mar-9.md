@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 20
 type: ""
+venue: "SFU: Audain Gallery"
 summary: "SFU: Audain Gallery | I Could Be Wrong | student exhibition | MAR 9"
 ---
 
@@ -18,7 +19,7 @@ Opening Reception: March 9, 2011 @ 7 pm, Audain Gallery
 Roundtable Discussion: March 17, 10 am
 Audain Gallery hours: Tuesday - Saturday, 12-6pm
 
-Vancouver, B.C. â€“ The Audain Gallery and SFUâ€™s School for the Contemporary
+Vancouver, B.C. – The Audain Gallery and SFU’s School for the Contemporary
 Arts are
 pleased to announce a new exhibition I Could Be Wrong, which opens on
 Wednesday,
@@ -48,7 +49,7 @@ deconstruction of the
 expert and the amateur, and navigation through systems of authority and
 bureaucracy.
 Throughout I Could be Wrong there is an understanding of difference and
-â€˜othernessâ€™ that
+‘otherness’ that
 aids in the assertion of new perspectives towards dominant ideology.
 
 Taking the experience of the student in a long process of learning, full of
@@ -61,7 +62,7 @@ levels of progress and achievement.
 
 The Audain Gallery serves as a vital aspect of the Visual Arts program at
 Simon Fraser
-Universityâ€™s School for the Contemporary Arts. The Audain Galleryâ€™s mission
+University’s School for the Contemporary Arts. The Audain Gallery’s mission
 is to
 advance the aesthetic and discursive production and presentation of
 contemporary visual
@@ -76,7 +77,7 @@ Media inquiries:
 
 Lenore Swenerton
 Director of Marketing
-SFU Woodwardâ€™s
+SFU Woodward’s
 T: 778 782 9223
 C: 604.230.2859,
 E: lenoresw@shaw.ca

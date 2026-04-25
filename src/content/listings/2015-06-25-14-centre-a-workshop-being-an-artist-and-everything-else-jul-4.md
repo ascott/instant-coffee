@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 14
 type: "EDUCATION"
+venue: "Centre A"
 summary: "Centre A | Workshop: Being an Artist and Everything Else | JUL 4"
 ---
 
@@ -29,7 +30,7 @@ maybe even getting into other programs. And you will have an intimate
 conversation with a working artist in how to maintain a practice, be
 disciplined with your methodology, and be part of an artistic community.
 
-Jade Yumang was named after his motherâ€™s beauty salon and from an earlier
+Jade Yumang was named after his mother’s beauty salon and from an earlier
 age has been obsessed with beautiful, yet slightly off things. His work
 primarily focuses on the concept of queer form through sculptural
 abstraction, installation, and performance. He received his MFA at Parsons

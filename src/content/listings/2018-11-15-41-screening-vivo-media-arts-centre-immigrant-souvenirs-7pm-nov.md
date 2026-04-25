@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 41
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Immigrant Souvenirs | 7PM | NOV 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 27
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Astoria Pub | Art Rock? no. 27 | 9PM-12AM | JAN 23"
 ---
 

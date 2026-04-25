@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 26
 type: "OPENING"
+venue: "Ground Floor Art Centre"
 summary: "Ground Floor Art Centre | Infertile Ground | Carlan Savage-Hughes | 8PM | JUL 25"
 ---
 

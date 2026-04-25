@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 10
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | The Anti-Bland Brigade | 12PM | AUG 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 19
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Larry Clark & Kohei Yoshiyuki | extended until | NOV 11"
 ---
 

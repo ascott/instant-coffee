@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: doing 'nothings' while everyone el
 emailDate: "Thu, 01 Apr 2010 03:24:17 -0700"
 number: 2
 type: ""
+venue: "Border Zones Webzine Project"
 summary: "Border Zones Webzine Project | www.BorderZones.ca | APR 1"
 ---
 

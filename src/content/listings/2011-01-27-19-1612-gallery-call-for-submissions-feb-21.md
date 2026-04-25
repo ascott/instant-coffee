@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 19
 type: ""
+venue: "1612 Gallery"
 summary: "1612 Gallery | CALL FOR SUBMISSIONS | FEB 21"
 ---
 

@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 3
 type: ""
+venue: "Nikkei Centre"
 summary: "Nikkei Centre | Yo-in Reverberation | MAY 24"
 ---
 
 Please join us for:
 Yo-in 余韻 Reverberation
-May 19 â€“ August 25, 2012
+May 19 – August 25, 2012
 Nikkei National Museum, Burnaby, BC
 Opening reception Thursday, May 24th - 7-9pm
 
-Nobuo Kubota â€¢ Cindy Mochizuki â€¢ Kazuo Nakamura
-Emma Nishimura â€¢ Louise Noguchi â€¢ Jon Sasaki
-Aiko Suzuki â€¢ Shizuye Takashima
+Nobuo Kubota • Cindy Mochizuki • Kazuo Nakamura
+Emma Nishimura • Louise Noguchi • Jon Sasaki
+Aiko Suzuki • Shizuye Takashima
 
 An exhibit in honour of the 70th Anniversary of Japanese Canadian 
 Internment

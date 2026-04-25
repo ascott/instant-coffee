@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 27
 type: ""
+venue: "Institutions by Artists"
 summary: "Institutions by Artists | The Convention | OCT 12"
 ---
 
 Institutions by Artists: The Convention
 
-October 12 â€“ 14, 2012
+October 12 – 14, 2012
 Goldcorp Centre for the Arts
-SFU Woodwardâ€˜s
+SFU Woodward‘s
 149 Hastings Street
 Vancouver, Canada
 
-(La version franÃ§aise suit)
+(La version française suit)
 
 %%%%%% News %%%%%%
 
@@ -61,13 +62,13 @@ Download the Convention Schedule.
 Register online at: http://arcpost.ca/conference/registration
 
 A General Convention Pass includes:
-â€¢ Entrance to all sessions and debates. Attendees must claim their 
+• Entrance to all sessions and debates. Attendees must claim their 
 place for all sessions 10 minutes prior to the commencement of the 
 session.
-â€¢ A complimentary copy of Institutions by Artists Volume I
-â€¢ Invitations to all social gatherings, openings, and events associated 
+• A complimentary copy of Institutions by Artists Volume I
+• Invitations to all social gatherings, openings, and events associated 
 with Institutions by Artists
-â€¢ Breakfast and lunch will be provided, and special dinner locations will 
+• Breakfast and lunch will be provided, and special dinner locations will 
 be on offer
 Institutional Rate $250
 Individual Rate $125
@@ -82,18 +83,18 @@ Cancellation Policy 
 If you need to cancel your registration, you must send the cancellation 
 to registration@arcpost.ca.
  
-â€¢ 20% of the fees will be retained if there is a cancellation up to 60 days 
+• 20% of the fees will be retained if there is a cancellation up to 60 days 
 prior to the Conference. 
  â€¢ 50% of the fees will be retained if there is a cancellation 60 to 7 days 
 prior to the Conference.  
-â€¢ Last minute (less than 7 days) cancellation will not be refundable. 
+• Last minute (less than 7 days) cancellation will not be refundable. 
  â€¢ Non-refundable in case of non-attendance. 
  â€¢ Conference participation is transferable to another person.
 
 %%%%%% Accommodations %%%%%%
 
 Single and shared accommodations are available at reduced rates at 
-the following hotels. Quote â€˜Institutions by Artistsâ€™ when you make your 
+the following hotels. Quote ‘Institutions by Artists’ when you make your 
 reservation.
 
 The Burrard
@@ -114,53 +115,53 @@ Institutions by Artists: The Convention
 
 12-14 octobre 2012
 Goldcorp Centre for the Arts
-SFU Woodwardâ€˜s
+SFU Woodward‘s
 149, rue Hastings Ouest
 Vancouver, Canada
 
 %%%%%% NOUVELLES %%%%%%
 
-Lâ€™inscription Ã  la confÃ©rence Institutions by Artists est maintenant 
+L’inscription à la conférence Institutions by Artists est maintenant 
 ouverte.
 
-OrganisÃ© par PAARC, Fillip, and ARCA, Institutions by Artists est une 
+Organisé par PAARC, Fillip, and ARCA, Institutions by Artists est une 
 rencontre internationale de trois jours qui a pour but de faire un bilan 
-de lâ€™histoire, des pratiques actuelles, et de la durabilitÃ© de lâ€™autogestion 
+de l’histoire, des pratiques actuelles, et de la durabilité de l’autogestion 
 artistique.
 
-Nous avons rÃ©uni des artistes, commissaires, critiques et universitaires 
-internationaux pour discuter, sonder et faire avancer les intÃ©rÃªts de 
-lâ€™autogestion artistique. La confÃ©rence se veut un catalyseur de 
+Nous avons réuni des artistes, commissaires, critiques et universitaires 
+internationaux pour discuter, sonder et faire avancer les intérêts de 
+l’autogestion artistique. La conférence se veut un catalyseur de 
 nouvelles analyses et de positions divergentes sur les pratiques 
-actuelles qui relÃ¨vent de lâ€™autogestion des arts. Nous espÃ©rons que le 
-format dâ€™une confÃ©rence ponctuÃ©e dâ€™exposÃ©s expÃ©rimentaux, 
-dâ€™Ã©lÃ©ments performatifs et de plateformes participatives sera propice Ã  
-une rÃ©flexion engagÃ©e qui gÃ©nÃ©rera des questions et de nouvelles 
-idÃ©es autour de lâ€™autogestion artistique. Les pistes de rÃ©flexion 
-proposÃ©es portent sur des notions telles que lâ€™urbain et le rural, la fixitÃ© 
-et la mobilitÃ©, et les idÃ©es de territoires local et virtuel. Nous nous 
-sommes inspirÃ©s des nombreux artistes qui font preuve dâ€™innovation en 
-ce qui est de la gestion de leurs institutions et dans la faÃ§on dont 
-celles-ci sont pensÃ©es, concrÃ©tisÃ©es, constituÃ©es, et utilisÃ©es. Ainsi, les 
-thÃ¨mes de notre programme son conÃ§us autour de questions relatives 
-aux Ã©conomies dâ€™Ã©change et de savoir, au temps et Ã  lâ€™espace 
-institutionnels, ainsi quâ€™aux rapports dâ€™intimitÃ© matÃ©rielle et virtuelle.
+actuelles qui relèvent de l’autogestion des arts. Nous espérons que le 
+format d’une conférence ponctuée d’exposés expérimentaux, 
+d’éléments performatifs et de plateformes participatives sera propice à 
+une réflexion engagée qui générera des questions et de nouvelles 
+idées autour de l’autogestion artistique. Les pistes de réflexion 
+proposées portent sur des notions telles que l’urbain et le rural, la fixité 
+et la mobilité, et les idées de territoires local et virtuel. Nous nous 
+sommes inspirés des nombreux artistes qui font preuve d’innovation en 
+ce qui est de la gestion de leurs institutions et dans la façon dont 
+celles-ci sont pensées, concrétisées, constituées, et utilisées. Ainsi, les 
+thèmes de notre programme son conçus autour de questions relatives 
+aux économies d’échange et de savoir, au temps et à l’espace 
+institutionnels, ainsi qu’aux rapports d’intimité matérielle et virtuelle.
 
-Tout au long de la semaine, les centres dâ€™artistes autogÃ©rÃ©s de 
-Vancouver prÃ©senteront des projets liÃ©s aux thÃ¨mes de la confÃ©rence. 
-Cette sÃ©rie dâ€™Ã©vÃ©nements sera une occasion pour le public de 
-rencontrer quelques-uns des artistes invitÃ©s et de rÃ©flÃ©chir aux 
-dimensions et phÃ©nomÃ¨nes multiples qui dÃ©finissent lâ€™autogestion 
-artistique Ã  lâ€™Ã©chelle internationale. Les pratiques expÃ©rimentales 
-seront mises en avant, dont la reconstitution de moments clÃ©s de 
-lâ€™histoire de lâ€™autogestion artistique, les nouveaux moyens de diffusion, 
-la rÃ©orientation de donnÃ©es et de systÃ¨mes et les modÃ¨les 
-pÃ©dagogiques alternatifs.
+Tout au long de la semaine, les centres d’artistes autogérés de 
+Vancouver présenteront des projets liés aux thèmes de la conférence. 
+Cette série d’événements sera une occasion pour le public de 
+rencontrer quelques-uns des artistes invités et de réfléchir aux 
+dimensions et phénomènes multiples qui définissent l’autogestion 
+artistique à l’échelle internationale. Les pratiques expérimentales 
+seront mises en avant, dont la reconstitution de moments clés de 
+l’histoire de l’autogestion artistique, les nouveaux moyens de diffusion, 
+la réorientation de données et de systèmes et les modèles 
+pédagogiques alternatifs.
 
 %%%%%% PROGRAMME %%%%%%
 
-50 prÃ©sentateurs provenant de 19 pays participeront Ã  cet Ã©vÃ©nement 
-de trois jours. TÃ©lÃ©charger le programme.
+50 présentateurs provenant de 19 pays participeront à cet événement 
+de trois jours. Télécharger le programme.
 
 %%%%%% INSCRIPTION %%%%%%
 
@@ -168,41 +169,41 @@ http://arcpost.ca/conference/registration
 
 Tarif pour les institutions : 250$
 Tarif individuel : 125$
-Tarif pour les Ã©tudiants : 75$
+Tarif pour les étudiants : 75$
 
-Le laissez-passer complet pour la confÃ©rence comprend :
+Le laissez-passer complet pour la conférence comprend :
 
-â€¢ lâ€™entrÃ©e Ã  toutes les sessions et dÃ©bats de la confÃ©rence. 
-Les participants doivent se prÃ©senter 10 minutes avant le dÃ©but de 
+• l’entrée à toutes les sessions et débats de la conférence. 
+Les participants doivent se présenter 10 minutes avant le début de 
 chaque session afin de garantir leur place.
-â€¢ une copie du livre Institutions by Artists Volume I
-â€¢ une invitation Ã  tous les Ã©vÃ©nements sociaux, aux vernissages et aux 
-activitÃ©s connexes de Institutions by Artists
-â€¢ les petits-dÃ©jeuners et dÃ®ners seront inclus, et des restaurants seront 
-suggÃ©rÃ©s pour les soupers
+• une copie du livre Institutions by Artists Volume I
+• une invitation à tous les événements sociaux, aux vernissages et aux 
+activités connexes de Institutions by Artists
+• les petits-déjeuners et dîners seront inclus, et des restaurants seront 
+suggérés pour les soupers
 
-%%%%%% DÃ‰TAILS DU PAIEMENT %%%%%%
+%%%%%% DÉTAILS DU PAIEMENT %%%%%%
 
 Conditions :
-Payable au moment de lâ€™inscription. PAARC accepte le paiement par 
+Payable au moment de l’inscription. PAARC accepte le paiement par 
 VISA, Mastercard, PayPal, ou par transfert de fonds via un compte 
 PayPal. 
-Politique dâ€™annulation :	
-â€¢ Si vous dÃ©sirez annuler votre inscription, vous devez envoyer un 
-courriel dâ€™annulation Ã  registration@arcpost.ca.
-â€¢ 20% des frais seront retenus si lâ€™annulation se fait dans les 60 jours 
-avant la confÃ©rence. 
-â€¢ 50% des frais seront retenus si lâ€™annulation se fait dans les 60 Ã  7 
-jours avant la confÃ©rence.
-â€¢ Les annulations de derniÃ¨re minute (moins de 7 jours avant la 
-confÃ©rence) ne seront pas remboursÃ©es.
-â€¢ En cas de non-participation, aucun remboursement ne sera effectuÃ©. 
-â€¢ Il est possible de transfÃ©rer votre inscription Ã  une autre personne.
+Politique d’annulation :	
+• Si vous désirez annuler votre inscription, vous devez envoyer un 
+courriel d’annulation à registration@arcpost.ca.
+• 20% des frais seront retenus si l’annulation se fait dans les 60 jours 
+avant la conférence. 
+• 50% des frais seront retenus si l’annulation se fait dans les 60 à 7 
+jours avant la conférence.
+• Les annulations de dernière minute (moins de 7 jours avant la 
+conférence) ne seront pas remboursées.
+• En cas de non-participation, aucun remboursement ne sera effectué. 
+• Il est possible de transférer votre inscription à une autre personne.
 
-%%%%%% HÃ‰BERGEMENT %%%%%%
+%%%%%% HÉBERGEMENT %%%%%%
 
-Institutions by Artists a obtenu des tarifs spÃ©ciaux aux hÃ´tels suivants. 
-Mentionnez Â« Institutions by Artists Â» au moment de la rÃ©servation.
+Institutions by Artists a obtenu des tarifs spéciaux aux hôtels suivants. 
+Mentionnez « Institutions by Artists » au moment de la réservation.
 
 The Burrard
 Best Western Plus Uptown
@@ -216,8 +217,8 @@ registration@arcpost.ca.
 Au plaisir de vous voir en octobre!
 
 Lorna Brown, Directrice du projet
-Kristina Lee Podesva, PrÃ©s. ComitÃ© de programmation
-Allison Collins, Directrice de lâ€™Ã©vÃ©nement
+Kristina Lee Podesva, Prés. Comité de programmation
+Allison Collins, Directrice de l’événement
 
 Follow us on Twitter and Facebook.
 

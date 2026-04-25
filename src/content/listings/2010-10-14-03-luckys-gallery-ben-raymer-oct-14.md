@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why do good things happen to bad p
 emailDate: "Thu, 14 Oct 2010 11:55:39 -0700"
 number: 3
 type: ""
+venue: "Lucky's Gallery"
 summary: "Lucky's Gallery | BEN RAYMER | OCT 14"
 ---
 

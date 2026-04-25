@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 4
 type: "EDUCATION"
+venue: "Hotam Press"
 summary: "Hotam Press | A Book A Day - Videos of Artist's Books"
 ---
 

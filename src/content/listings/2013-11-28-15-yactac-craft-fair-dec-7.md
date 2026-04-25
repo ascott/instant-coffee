@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 15
 type: ""
+venue: "Yactac Craft Fair"
 summary: "Yactac Craft Fair | DEC 7"
 ---
 

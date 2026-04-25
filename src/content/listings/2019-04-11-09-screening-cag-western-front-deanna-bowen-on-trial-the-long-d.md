@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 9
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | CAG & Western Front | Deanna Bowen | On Trial The Long Doorway | APR 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 8
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | PARALLEL DISORIENTATION | 7-10PM | SEP 6"
 ---
 

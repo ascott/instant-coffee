@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 12
 type: "OPENING"
+venue: "Three Bentall Centre Lobby"
 summary: "Three Bentall Centre Lobby | JEFF HALLBAUER | JUL 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Vernon Public Art Gallery"
 summary: "Vernon Public Art Gallery | Ramble On | JAN 13"
 ---
 

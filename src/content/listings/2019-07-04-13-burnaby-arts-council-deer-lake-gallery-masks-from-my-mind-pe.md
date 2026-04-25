@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 13
 type: "EDUCATION"
+venue: "Burnaby Arts Council"
 summary: "Burnaby Arts Council | Deer Lake Gallery | Masks from my Mind | Peter Lattey | JUL 6"
 ---
 

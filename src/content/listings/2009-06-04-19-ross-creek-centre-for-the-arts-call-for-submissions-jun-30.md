@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 19
 type: ""
+venue: "Ross Creek Centre for the Arts"
 summary: "Ross Creek Centre for the Arts | Call for Submissions | JUN 30"
 ---
 

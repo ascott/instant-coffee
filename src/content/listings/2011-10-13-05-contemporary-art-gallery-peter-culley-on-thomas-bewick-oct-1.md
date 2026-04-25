@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 5
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Peter Culley on Thomas Bewick | OCT 15"
 ---
 

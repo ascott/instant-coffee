@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 6
 type: "PERFORMANCE"
+venue: "Roundhouse Community Centre"
 summary: "Roundhouse Community Centre | DOG RISING | 7PM | JAN 12"
 ---
 

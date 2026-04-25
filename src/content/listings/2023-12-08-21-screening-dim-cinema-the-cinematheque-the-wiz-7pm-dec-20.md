@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 21
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema @ The Cinematheque | The Wiz | 7PM | DEC 20"
 ---
 

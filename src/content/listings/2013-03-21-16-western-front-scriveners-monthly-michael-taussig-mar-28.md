@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 16
 type: ""
+venue: "WESTERN FRONT"
 summary: "WESTERN FRONT | SCRIVENER'S MONTHLY | Michael Taussig | MAR 28"
 ---
 
 SCRIVENER'S MONTHLY | THURSDAY MARCH 28TH @ 8PM 
 Michael Taussig | Go Slow Party 
 
-Scrivenerâ€™s Monthly is pleased to present Michael Taussig hosting Go 
+Scrivener’s Monthly is pleased to present Michael Taussig hosting Go 
 Slow Party on Thursday March 28th at 8pm.
 
 Have we gotten to the point where the speed up has finally rendered 
@@ -25,7 +26,7 @@ anthropology at Columbia University in New York.
 
 Please come early, attendance is limited.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the 
+Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
 experiment in â€œnot publishingâ€  involves readings, performances, and 

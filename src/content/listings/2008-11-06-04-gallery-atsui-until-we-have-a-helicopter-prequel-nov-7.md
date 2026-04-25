@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 4
 type: "OPENING"
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | Until We Have A Helicopter: Prequel | NOV 7"
 ---
 

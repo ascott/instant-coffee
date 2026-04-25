@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 13
 type: "OPENING"
+venue: "Macaulay + Co"
 summary: "Macaulay + Co | Opening reception | 3PM | NOV 24"
 ---
 

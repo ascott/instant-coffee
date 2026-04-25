@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 17
 type: "OPENING"
+venue: "UNIT 17"
 summary: "UNIT 17 | Eli Bornowsky | Percussion Instruments | JUN 15"
 ---
 

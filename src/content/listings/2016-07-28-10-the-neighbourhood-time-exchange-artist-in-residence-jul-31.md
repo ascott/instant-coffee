@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 10
 type: "CALL"
+venue: "The Neighbourhood Time Exchange"
 summary: "The Neighbourhood Time Exchange | Artist In Residence | JUL 31"
 ---
 

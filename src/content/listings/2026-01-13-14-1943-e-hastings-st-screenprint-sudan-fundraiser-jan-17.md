@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 14
 type: "FUNDRAISER"
+venue: "1943 E Hastings st"
 summary: "1943 E Hastings st | Screenprint Sudan fundraiser | JAN 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wizzzzz "
 emailDate: "Wed, 13 Dec 2023 20:55:09 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | David Spriggs - Dimensionalism"
 ---
 

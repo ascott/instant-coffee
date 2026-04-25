@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 58
 type: "TALK"
+venue: "University of Victoria (VICTORIA, BC)"
 summary: "University of Victoria (VICTORIA, BC) | LECTURE ON NOTHING | 7-1030PM | OCT 25"
 ---
 

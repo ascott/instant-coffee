@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 4
 type: "EDUCATION"
+venue: "Richmond Cultural Centre Annex"
 summary: "Richmond Cultural Centre Annex | Intro to Mold-Making: Life Casting"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 34
 type: "CALL"
+venue: "City of Vancouver, Public Art Program"
 summary: "City of Vancouver, Public Art Program | Platforms 2020: Public Works | JUL 7"
 ---
 

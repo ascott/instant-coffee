@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 23
 type: "CALL"
+venue: "Project Space"
 summary: "Project Space | Call for Volunteers at the VA/BF | OCT 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 11
 type: "TALK"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Emily Hermant & Emily Butler | 1PM | DEC 7"
 ---
 

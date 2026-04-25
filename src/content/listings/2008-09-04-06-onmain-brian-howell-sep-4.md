@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you must enter a Byline"
 emailDate: "Thu, 04 Sep 2008 09:20:55 -0700"
 number: 6
 type: ""
+venue: "ONMAIN"
 summary: "ONMAIN | Brian Howell | SEP 4"
 ---
 

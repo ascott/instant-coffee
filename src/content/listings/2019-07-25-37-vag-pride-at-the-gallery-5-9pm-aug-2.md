@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 37
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Pride at the Gallery | 5-9PM | AUG 2"
 ---
 

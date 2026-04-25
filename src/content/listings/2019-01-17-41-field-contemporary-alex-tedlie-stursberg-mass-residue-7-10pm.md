@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 41
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Alex Tedlie-Stursberg | Mass Residue | 7-10PM | JAN 31"
 ---
 

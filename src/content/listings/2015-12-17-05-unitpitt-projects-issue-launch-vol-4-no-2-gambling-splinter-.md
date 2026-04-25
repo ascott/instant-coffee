@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fashionable innovation"
 emailDate: "Thu, 17 Dec 2015 13:00:31 -0800"
 number: 5
 type: "EVENT"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | ISSUE Launch VOL. 4 NO 2 + Gambling Splinter... | DEC 17"
 ---
 

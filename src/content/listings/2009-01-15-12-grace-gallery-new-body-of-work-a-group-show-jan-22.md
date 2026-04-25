@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 12
 type: ""
+venue: "Grace-Gallery"
 summary: "Grace-Gallery | New Body of Work | A group show | JAN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 53
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | Cineworks | Intro to Hand Processing 16mm Film | JUL 22"
 ---
 

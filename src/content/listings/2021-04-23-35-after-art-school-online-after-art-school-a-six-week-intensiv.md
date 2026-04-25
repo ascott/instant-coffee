@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 35
 type: "EDUCATION"
+venue: "After Art School [ONLINE]"
 summary: "After Art School [ONLINE] | AFTER ART SCHOOL: A SIX WEEK INTENSIVE | MAY 15"
 ---
 

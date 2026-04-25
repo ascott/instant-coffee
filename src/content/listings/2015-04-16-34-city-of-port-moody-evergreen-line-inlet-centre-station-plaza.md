@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 34
 type: "CALL"
+venue: "City of Port Moody"
 summary: "City of Port Moody | Evergreen Line, Inlet Centre Station Plaza | MAY 4"
 ---
 
 Request for Qualifications
-Public Art Project: Evergreen Line â€“ Inlet Centre Station Plaza
+Public Art Project: Evergreen Line – Inlet Centre Station Plaza
 City of Port Moody
 Port Moody, BC
 Budget: $36,380
 Eligibility: This competition is open to local, and national artists and
 artist teams. This call is open to professional artists and emerging
 professional artists.
-Deadline: Monday, May 4, 2015 â€“ 9 a.m.
+Deadline: Monday, May 4, 2015 – 9 a.m.
 
 The City of Port Moody seeks an artist or artist team interested in
 providing artwork for the Inlet Centre Station Plaza. The artwork

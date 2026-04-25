@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 17
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Family Day: Postcards | 1PM | AUG 17"
 ---
 

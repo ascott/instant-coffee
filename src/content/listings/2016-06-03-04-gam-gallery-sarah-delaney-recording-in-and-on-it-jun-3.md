@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 4
 type: "OPENING"
+venue: "Gam Gallery"
 summary: "Gam Gallery | Sarah Delaney: Recording In and On It | JUN 3"
 ---
 

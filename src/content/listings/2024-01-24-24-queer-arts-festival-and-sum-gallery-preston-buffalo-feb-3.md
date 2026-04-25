@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 24
 type: "EVENT"
+venue: "Queer Arts Festival and SUM gallery"
 summary: "Queer Arts Festival and SUM gallery | Preston Buffalo | FEB 3"
 ---
 

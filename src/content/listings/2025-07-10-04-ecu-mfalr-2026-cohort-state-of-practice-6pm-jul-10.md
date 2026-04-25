@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 4
 type: "OPENING"
+venue: "ECU"
 summary: "ECU | MFALR 2026 Cohort: State of Practice | 6PM | JUL 10"
 ---
 

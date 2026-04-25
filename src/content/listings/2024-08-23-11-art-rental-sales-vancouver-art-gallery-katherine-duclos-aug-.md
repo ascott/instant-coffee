@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 11
 type: "OPENING"
+venue: "Art Rental & Sales, Vancouver Art Gallery"
 summary: "Art Rental & Sales, Vancouver Art Gallery | Katherine Duclos | AUG 26"
 ---
 

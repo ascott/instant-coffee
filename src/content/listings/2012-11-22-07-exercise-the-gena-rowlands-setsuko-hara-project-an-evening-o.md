@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 7
 type: ""
+venue: "EXERCISE The GENA ROWLANDS"
 summary: "EXERCISE The GENA ROWLANDS | SETSUKO HARA PROJECT | An Evening of Short Films* | NOV 23"
 ---
 

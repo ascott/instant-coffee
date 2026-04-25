@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 12
 type: ""
+venue: "560 GALLERY"
 summary: "560 GALLERY | F L A V O U R E D SOUP | JUL 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 24
 type: "EDUCATION"
+venue: "Langley Arts Council"
 summary: "Langley Arts Council | free, two-day event | FEB 21"
 ---
 

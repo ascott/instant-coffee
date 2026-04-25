@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "People"
 summary: "People | Give everyone the power ... | UNTIL NOV 20 | NOV 20"
 ---
 

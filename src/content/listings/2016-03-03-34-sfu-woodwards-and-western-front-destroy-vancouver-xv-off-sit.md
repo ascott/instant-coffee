@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 34
 type: "EVENT"
+venue: "SFU Woodwards and Western Front"
 summary: "SFU Woodwards and Western Front | DESTROY VANCOUVER XV [off-site] | MAR 12"
 ---
 

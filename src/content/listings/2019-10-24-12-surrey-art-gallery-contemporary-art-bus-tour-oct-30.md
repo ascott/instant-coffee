@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 12
 type: "EVENT"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Contemporary Art Bus Tour | OCT 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 20
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Moozhan Ahmadzadegan | 6PM | FEB 20"
 ---
 

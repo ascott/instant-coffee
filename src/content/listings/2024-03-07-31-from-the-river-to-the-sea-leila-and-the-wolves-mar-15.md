@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 31
 type: ""
+venue: "from the river to the sea"
 summary: "from the river to the sea | Leila and the Wolves | MAR 15"
 ---
 

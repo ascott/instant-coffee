@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "CSA Space"
 summary: "CSA Space | Spring Onion - Christian Newby | OCT 13"
 ---
 

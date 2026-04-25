@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 15
 type: ""
+venue: "The Reach Gallery"
 summary: "The Reach Gallery | Exhibition Opening | JAN 18"
 ---
 

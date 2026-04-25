@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 49
 type: "CALL"
+venue: "Sled Island Music & Arts Festival"
 summary: "Sled Island Music & Arts Festival | Call for Submissions: Sled Island 2018 | FEB 16"
 ---
 

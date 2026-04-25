@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 9
 type: ""
+venue: "Vancity Credit Union"
 summary: "Vancity Credit Union | Call to Artists - Existing & Site-Specific Artwork | NOV 4"
 ---
 

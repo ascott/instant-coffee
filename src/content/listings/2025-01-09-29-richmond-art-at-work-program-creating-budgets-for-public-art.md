@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 29
 type: "EDUCATION"
+venue: "Richmond Art at Work Program"
 summary: "Richmond Art at Work Program | Creating Budgets for Public Art"
 ---
 

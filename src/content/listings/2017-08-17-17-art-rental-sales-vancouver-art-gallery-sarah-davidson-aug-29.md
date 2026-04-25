@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mother of Pearl Moustache Comb"
 emailDate: "Thu, 17 Aug 2017 08:47:17 -0700"
 number: 17
 type: "TALK"
+venue: "Art Rental & Sales, Vancouver Art Gallery"
 summary: "Art Rental & Sales, Vancouver Art Gallery | Sarah Davidson | AUG 29"
 ---
 

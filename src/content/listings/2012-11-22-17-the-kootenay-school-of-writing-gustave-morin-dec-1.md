@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 17
 type: ""
+venue: "The Kootenay School of Writing"
 summary: "The Kootenay School of Writing | gustave morin | DEC 1"
 ---
 

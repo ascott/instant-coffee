@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 23
 type: "EVENT"
+venue: "Polygon"
 summary: "Polygon | Together and Apart | w/ Alex Webb + Rebecca Norris Webb | MAY 19"
 ---
 

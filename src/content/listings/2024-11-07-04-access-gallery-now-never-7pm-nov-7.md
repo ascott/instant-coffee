@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 4
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | NOW, NEVER | 7PM | NOV 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 20
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Little Mountain Press (New York/Shenzhen) | SEP 19"
 ---
 

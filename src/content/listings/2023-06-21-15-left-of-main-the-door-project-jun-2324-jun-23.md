@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 15
 type: "PERFORMANCE"
+venue: "Left of Main"
 summary: "Left of Main | The Door Project | JUN 23&24 | JUN 23"
 ---
 

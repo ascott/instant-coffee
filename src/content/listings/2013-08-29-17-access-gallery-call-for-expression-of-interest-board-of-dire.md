@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 17
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | CALL FOR EXPRESSION OF INTEREST: BOARD OF DIRECTOR | SEP 15"
 ---
 

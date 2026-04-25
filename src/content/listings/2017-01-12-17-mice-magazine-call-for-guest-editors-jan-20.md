@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 17
 type: "CALL"
+venue: "MICE Magazine"
 summary: "MICE Magazine | Call for Guest Editors | JAN 20"
 ---
 

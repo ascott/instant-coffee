@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 37
 type: "EXHIBITION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | WVAM! Drop-In Family Art Project | FEB 26"
 ---
 

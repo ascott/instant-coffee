@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 16
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | 16mm Basics: Intro to Bolex | JAN 22"
 ---
 

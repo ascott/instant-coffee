@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it all adds up"
 emailDate: "Thu, 15 Oct 2009 08:05:40 -0700"
 number: 11
 type: ""
+venue: "Eyelevel Galley"
 summary: "Eyelevel Galley | Call for Submissions | OCT 31"
 ---
 

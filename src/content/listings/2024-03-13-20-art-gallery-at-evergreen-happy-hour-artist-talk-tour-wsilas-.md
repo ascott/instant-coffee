@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 20
 type: "TALK"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Happy Hour Artist Talk & Tour w/Silas Ng | 5PM | MAR 22"
 ---
 

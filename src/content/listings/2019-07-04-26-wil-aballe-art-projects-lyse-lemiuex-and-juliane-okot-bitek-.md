@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 26
 type: "TALK"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Lyse Lemiuex and Juliane Okot Bitek | 2PM | JUL 13"
 ---
 

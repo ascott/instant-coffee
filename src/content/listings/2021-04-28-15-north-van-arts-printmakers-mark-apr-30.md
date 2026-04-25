@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "North Van Arts"
 summary: "North Van Arts | Printmakers Mark | APR 30"
 ---
 

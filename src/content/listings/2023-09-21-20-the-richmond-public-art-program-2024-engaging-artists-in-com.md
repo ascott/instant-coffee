@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 20
 type: "CALL"
+venue: "The Richmond Public Art Program"
 summary: "The Richmond Public Art Program | 2024 Engaging Artists in Community Program, Reques | OCT 3"
 ---
 

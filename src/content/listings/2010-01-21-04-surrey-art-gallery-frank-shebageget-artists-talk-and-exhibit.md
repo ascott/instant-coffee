@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 4
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Frank Shebageget : Artist's Talk and Exhibition | JAN 21"
 ---
 

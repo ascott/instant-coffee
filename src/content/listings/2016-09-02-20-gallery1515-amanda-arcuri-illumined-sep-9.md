@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 20
 type: "OPENING"
+venue: "Gallery1515"
 summary: "Gallery1515 | Amanda Arcuri: ILLUMINED | SEP 9"
 ---
 

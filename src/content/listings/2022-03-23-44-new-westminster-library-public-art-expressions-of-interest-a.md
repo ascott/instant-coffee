@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 44
 type: "CALL"
+venue: "New Westminster Library"
 summary: "New Westminster Library | Public Art Expressions of Interest | APR 29"
 ---
 

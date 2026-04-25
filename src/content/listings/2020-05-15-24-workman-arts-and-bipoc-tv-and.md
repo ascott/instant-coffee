@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stories of Home"
 emailDate: "Thu, 14 May 2020 18:35:10 -0700"
 number: 24
 type: "CALL"
+venue: "Workman Arts and BIPOC TV and"
 summary: "Workman Arts and BIPOC TV and"
 ---
 

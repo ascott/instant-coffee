@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 20
 type: ""
+venue: "Latin Vancouver"
 summary: "Latin Vancouver | CALL FOR LATIN ARTISTS | FEB 15"
 ---
 

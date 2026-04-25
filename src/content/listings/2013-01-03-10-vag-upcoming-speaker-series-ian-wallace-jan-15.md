@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you are a complex diamond and we 
 emailDate: "Thu, 03 Jan 2013 11:03:39 -0800"
 number: 10
 type: ""
+venue: "VAG"
 summary: "VAG | upcoming speaker series: IAN WALLACE | JAN 15"
 ---
 

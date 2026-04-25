@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Draw a Blank"
 emailDate: "Tue, 05 Aug 2025 21:15:15 -0700"
 number: 9
 type: "EVENT"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Missing Pieces Exhibition Tour | 2PM | AUG 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 35
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Non-Lived Nostalgia: Works from the Video Out Coll | DEC 8"
 ---
 

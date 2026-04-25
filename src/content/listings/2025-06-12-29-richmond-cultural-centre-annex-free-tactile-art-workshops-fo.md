@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 29
 type: "EDUCATION"
+venue: "Richmond Cultural Centre Annex"
 summary: "Richmond Cultural Centre Annex | Free Tactile Art Workshops – For All Abilities | JUL 5"
 ---
 

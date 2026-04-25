@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 41
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Karen Zalamea: Subarctic Phase | 7-9PM | APR 26"
 ---
 

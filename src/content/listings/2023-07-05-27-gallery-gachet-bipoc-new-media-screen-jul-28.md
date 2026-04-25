@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 27
 type: "CALL"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | BIPOC New Media Screen | JUL 28"
 ---
 

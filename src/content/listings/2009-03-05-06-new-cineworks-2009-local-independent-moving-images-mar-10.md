@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in the tradition of the now"
 emailDate: "Thu, 05 Mar 2009 08:55:15 -0800"
 number: 6
 type: ""
+venue: "NEW CINEWORKS 2009"
 summary: "NEW CINEWORKS 2009 | LOCAL INDEPENDENT MOVING IMAGES | MAR 10"
 ---
 

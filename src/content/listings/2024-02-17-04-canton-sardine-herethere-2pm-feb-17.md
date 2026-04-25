@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 4
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Here————There | 2PM | FEB 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE : if we do not know we do not know 
 emailDate: "Thu, 30 May 2013 11:55:34 -0700"
 number: 9
 type: ""
+venue: "Western Front"
 summary: "Western Front | Scrivener’s Monthly | Dr. Paul Verhaeghe | JUN 1"
 ---
 

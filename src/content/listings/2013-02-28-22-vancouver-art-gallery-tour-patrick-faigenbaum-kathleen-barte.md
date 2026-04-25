@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 22
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Tour | Patrick Faigenbaum, Kathleen Bartels, Jeff Wall | MAR 9"
 ---
 

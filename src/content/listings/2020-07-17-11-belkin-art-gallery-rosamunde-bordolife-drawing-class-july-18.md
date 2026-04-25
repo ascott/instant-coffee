@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 11
 type: "EDUCATION"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | ROSAMUNDE BORDO:LIFE DRAWING CLASS | JULY 18-AUG 8 | JUL 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 29
 type: "OPENING"
+venue: "The Fifty Fifty Arts Collective"
 summary: "The Fifty Fifty Arts Collective | Systems of Creation | FEB 24"
 ---
 

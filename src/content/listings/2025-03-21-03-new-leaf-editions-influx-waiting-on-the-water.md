@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "NEW LEAF EDITIONS"
 summary: "NEW LEAF EDITIONS | Influx: Waiting on the Water"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: now conforming to safety requireme
 emailDate: "Thu, 20 Aug 2009 09:01:09 -0700"
 number: 1
 type: ""
+venue: "Elliott Louis Gallery"
 summary: "Elliott Louis Gallery | Emergence 2009 | AUG 20"
 ---
 

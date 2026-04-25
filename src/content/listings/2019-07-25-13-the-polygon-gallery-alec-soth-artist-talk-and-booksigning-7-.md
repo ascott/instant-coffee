@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 13
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Alec Soth: Artist Talk and Booksigning | 7-9PM | JUL 26"
 ---
 

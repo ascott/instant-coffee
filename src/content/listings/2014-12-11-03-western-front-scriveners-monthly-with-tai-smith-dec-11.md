@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 3
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly with T'ai Smith | DEC 11"
 ---
 
 SCRIVENER'S MONTHLY:
 
-Tâ€™AI SMITH TALKING ABOUT FROCK COATS AND CAPITAL
+T’AI SMITH TALKING ABOUT FROCK COATS AND CAPITAL
 
 Thursday, December 11th @ 8pm
 Western Front, 303 East 8th Avenue
@@ -18,7 +19,7 @@ Free Admission
 Scrivener's Monthly is pleased to present an evening with UBC Art History
 professor T'ai Smith.
 
-Re-translating Marxâ€™s Capital, Volume I, Part 1, Tai Smith shows how 20
+Re-translating Marx’s Capital, Volume I, Part 1, Tai Smith shows how 20
 yards of linen transform into a coat, and then, through a specious turn in
 logic, back into threads again.
 

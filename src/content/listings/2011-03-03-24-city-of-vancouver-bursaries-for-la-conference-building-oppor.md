@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 24
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | BURSARies for LA conference BUILDING OPPORTUNITIES | MAR 21"
 ---
 

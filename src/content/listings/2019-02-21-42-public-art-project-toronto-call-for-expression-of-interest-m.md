@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 42
 type: "CALL"
+venue: "Public Art Project (TORONTO)"
 summary: "Public Art Project (TORONTO) | Call for Expression of Interest | MAR 7"
 ---
 

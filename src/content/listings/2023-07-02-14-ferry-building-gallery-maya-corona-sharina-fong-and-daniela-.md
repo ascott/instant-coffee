@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Maya Corona, Sharina Fong, and Daniela Ocaña | JUL 5"
 ---
 

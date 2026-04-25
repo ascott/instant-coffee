@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 16
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | $2,000 Writing Prize | SEP 14"
 ---
 

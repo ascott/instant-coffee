@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 6
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Cara Seccafien & Matthew Van Asselt | JUN 5"
 ---
 
@@ -41,7 +42,7 @@ and mental health, and usefulness.
 
 Matthew Van Asselt is a printmaker living and working in Vancouver. He 
 graduated with a BFA at Purchase College, State University of New York, 
-in May 2013. Matthewâ€™s work lies somewhere between satirical and 
+in May 2013. Matthew’s work lies somewhere between satirical and 
 earnest. His reactions to our built environment are proposed futures that 
 walk the fine line between the absurd and the expected, or sometimes 
 are merely reflections of moments that already exist, but suggest the 
@@ -49,10 +50,10 @@ same paradox. Matthew plays with an underlying utopian drive, creating
 worlds that, though clearly referential to our own, are far more fantastical, 
 or that take ideas that do exist a little too far.
 
-Matthewâ€™s process begins with photographs, which he obsessively takes 
+Matthew’s process begins with photographs, which he obsessively takes 
 everywhere he goes. With these photos he makes collages and drawings 
 which finally get resolved as silkscreen prints. Though clearly 
-photographic in nature, Matthewâ€™s prints take on an added layer of 
+photographic in nature, Matthew’s prints take on an added layer of 
 obscurity through this translation by hand, depicting worlds that reference 
 â€œthe realâ€  but are a little too good (or bad) to be true.
 

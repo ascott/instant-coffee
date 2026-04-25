@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 18
 type: "OPENING"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | Bradley Hunt & Family | 2PM | MAY 31"
 ---
 

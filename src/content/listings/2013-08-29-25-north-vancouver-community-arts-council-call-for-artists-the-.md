@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 25
 type: ""
+venue: "North Vancouver Community Arts Council"
 summary: "North Vancouver Community Arts Council | CALL FOR ARTISTS: The Anonymous Art Show | NOV 2"
 ---
 
@@ -22,9 +23,9 @@ and events of the Arts Council. The artists are required to sign only the back
 of the canvas as the paintings are displayed anonymously. Each painting is 
 priced at $100. The artist receives 50% and the balance will remain with the 
 Arts Council. Purchased paintings are immediately taken off the wall and 
-given to the purchaser. In its place a sold tag will reveal the artistâ€™s name.
+given to the purchaser. In its place a sold tag will reveal the artist’s name.
 
-The opening reception and sale is Thursday, November 21 at 7:00pm â€“ 
+The opening reception and sale is Thursday, November 21 at 7:00pm – 
 9:30pm and the sale continues until Saturday, December 21, giving the 
 community an opportunity to purchase original art in time for Christmas.
 New Extended Hours! Every Thursday during the exhibition the gallery will 
@@ -45,15 +46,15 @@ Tag #AAS13
 All Artwork MUST meet the following requirements:
 Â· We only accept unframed, 8â€  x 8â€  x 1 Â½â€ , back stapled canvas or wood 
 cradle panel
-Â· A limit of 3 submissions per artist
-Â· Two dimensional works only - No relief work - No three dimensional 
+· A limit of 3 submissions per artist
+· Two dimensional works only - No relief work - No three dimensional 
 work
-Â· New submissions only. Previous yearsâ€™ AAS works will not be 
+· New submissions only. Previous years’ AAS works will not be 
 accepted
-Â· Full name, signature, title and website (if available) must be written on 
+· Full name, signature, title and website (if available) must be written on 
 the back of the canvas (Canvases signed on the front will not be accepted.)
 Â· All works must have a title and may not be called â€œUntitledâ€ .
-Â· Paintings must be submitted completely dry and unwired.
+· Paintings must be submitted completely dry and unwired.
 Â· Mark an â€œupâ€  arrow on the back of canvas to indicate top
 Diptychs and triptychs are acceptable but will not be shown together
 

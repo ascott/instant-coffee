@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 11
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | We raised ourselves, together and alone | 6PM | MAY 30"
 ---
 

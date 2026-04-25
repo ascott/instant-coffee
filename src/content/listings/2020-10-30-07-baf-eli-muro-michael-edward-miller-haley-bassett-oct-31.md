@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 7
 type: "OPENING"
+venue: "BAF"
 summary: "BAF | Eli Muro, Michael Edward Miller, Haley Bassett | OCT 31"
 ---
 

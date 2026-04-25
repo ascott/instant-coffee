@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 9
 type: "OPENING"
+venue: "InterUrban Gallery"
 summary: "InterUrban Gallery | Oppenheimer Park Community Art Show | 6PM | SEP 26"
 ---
 

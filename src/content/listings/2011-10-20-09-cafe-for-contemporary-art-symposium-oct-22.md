@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 9
 type: ""
+venue: "Cafe for Contemporary Art"
 summary: "Cafe for Contemporary Art | SYMPOSIUM | OCT 22"
 ---
 
-SYMPOSIUM: l'Ã©change: identity in a transnational context -- October 22, 2-4PM
+SYMPOSIUM: l'échange: identity in a transnational context -- October 22, 2-4PM
 
 A symposium speaking to the issue of identity in a 
 transnational/globalized/multicultural/postmodern context (and issues around 
@@ -44,12 +45,12 @@ contemporary Canadian art as well as with the more elderly art histories of the
 western canon, she focuses on the social constructedness of artistic 
 intervention in everyday life.
 
-Nelly CÃ©sar is a feminist Mexican artist currently living in Vancouver, Canada. 
+Nelly César is a feminist Mexican artist currently living in Vancouver, Canada. 
 Her work is merely related to misbehavior, perversion and deviancy through 
 exploiting the rhetoric of the "animal" behavior as a political tool of subjective 
 reconfiguration. Her work experiments with contra-institutional relations with her 
 specific cultural and geographic locations. She graduated with a Licenciatura en 
-Artes PlÃ¡sticas from Universidad de las AmÃ©ricas Puebla in 2009, and is 
+Artes Plásticas from Universidad de las Américas Puebla in 2009, and is 
 currently an MFA candidate at UBC. 
 
 Justine Cheung & Peggy Ngan are Vancouver based artists, and are both 

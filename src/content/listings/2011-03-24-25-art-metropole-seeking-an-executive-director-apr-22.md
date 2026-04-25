@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 25
 type: ""
+venue: "Art Metropole"
 summary: "Art Metropole | seeking an Executive Director | APR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | An exhibition of the KABLUSIAK - “ublaak tikiyuak”"
 ---
 

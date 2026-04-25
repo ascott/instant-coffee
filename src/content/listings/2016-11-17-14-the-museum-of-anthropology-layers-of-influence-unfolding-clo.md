@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 14
 type: "EXHIBITION"
+venue: "The Museum of Anthropology"
 summary: "The Museum of Anthropology | Layers of Influence: Unfolding Cloth Across Cultur | NOV 17"
 ---
 

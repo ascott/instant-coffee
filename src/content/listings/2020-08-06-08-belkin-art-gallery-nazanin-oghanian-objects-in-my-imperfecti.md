@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 8
 type: "PERFORMANCE"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Nazanin Oghanian | Objects in my Imperfective Memories | 11AM | AUG 7"
 ---
 

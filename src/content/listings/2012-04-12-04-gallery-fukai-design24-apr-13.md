@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 4
 type: ""
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | Design24 | APR 13"
 ---
 
@@ -11,13 +12,13 @@ Design24 embraces the parallels between art and design/ designer and artist;
 paying respect to the duality of commercial design work, its artists and culture.
 
 DESIGN24:
-RECEPTION: Friday, April 13th â€“ 8pm â€“ 1am â€“ Gallery FUKAI â€“ 602 E.Hasings
+RECEPTION: Friday, April 13th – 8pm – 1am – Gallery FUKAI – 602 E.Hasings
 
 ADDITIONAL VIEWINGS: Sat, April 21st - Sat, April 28th 
 
 Vancouver, April 4, 2012: Launching on Friday April 13th at 8pm, Design 24 
 finds its inaugural reception as a new bi-annual event featuring some of the west 
-coastâ€™s most reputable emerging and established artists, graphic designers and 
+coast’s most reputable emerging and established artists, graphic designers and 
 illustrators.
 
 DESIGN24:
@@ -42,7 +43,7 @@ In graphic design, "the essence is to give order to information, form to ideas,
 expression and
 feeling to artifacts that document human experience." * A valid statement, 
 although interpretations
-and the modern popular recognition of graphic design may argue itâ€™s primary
+and the modern popular recognition of graphic design may argue it’s primary
 function as a marketing application - both visual and psychological 
 considerations
 argue differently in the works of artists such as Andy Warhol, Patrick McNeil 
@@ -54,7 +55,7 @@ Ben Tour
 installations of
 Office Supplies Incorporated (Vancouver Art Gallery), Design24 enlists the 
 works of 24 of
-the west coastâ€™s independent designers and illustrators in the recognition of 
+the west coast’s independent designers and illustrators in the recognition of 
 graphic design
 culture and its contributors.
 
@@ -75,5 +76,5 @@ Co-curator, Design24.
 Reinhold, 1983
 
 For additional information or to arrange an interview with a contributing artist, 
-exhibition curator or gallery director contact: Neal Nolan â€“ Watermark Creative 
-â€“ nealnolan@gmail.com - (250) 629 6851
+exhibition curator or gallery director contact: Neal Nolan – Watermark Creative 
+– nealnolan@gmail.com - (250) 629 6851

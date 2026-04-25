@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 34
 type: "CALL"
+venue: "Vancouver Asian Canadian Theatre"
 summary: "Vancouver Asian Canadian Theatre | Creation Lab | FEB 21"
 ---
 

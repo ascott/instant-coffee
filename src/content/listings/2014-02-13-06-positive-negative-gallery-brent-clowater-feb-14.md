@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 6
 type: ""
+venue: "Positive Negative Gallery"
 summary: "Positive Negative Gallery | Brent Clowater | FEB 14"
 ---
 
@@ -23,7 +24,7 @@ colours in pools of water on the paintings surface, he allows semi-
 transparent rivers of pigment to flood into the shadows and stretch into the 
 light. Referencing his surroundings and often en plein air, Brent begins his 
 paintings with lively, gestural drawings that are unique in style. His final 
-workâ€™s depict scenes which are colourful and whimsical, yet detailed and full 
+work’s depict scenes which are colourful and whimsical, yet detailed and full 
 of life.
 
 The show opens on Friday, February 14, and runs until March 1. The gallery 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "gallery gachet"
 summary: "gallery gachet | Kiskisiwin (The Act Of Remembering) ??????? | AUG 4"
 ---
 

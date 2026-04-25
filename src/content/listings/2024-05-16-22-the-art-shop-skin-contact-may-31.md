@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 22
 type: "OPENING"
+venue: "The Art Shop"
 summary: "The Art Shop | Skin Contact | MAY 31"
 ---
 

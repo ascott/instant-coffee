@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 16
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Jeremy Green | JAN 19"
 ---
 
@@ -20,13 +21,13 @@ Yactac Gallery
 In 2011, Jeremy Green was living in a state of flux while delivering art across 
 Canada; alternating between life on the road and just a few days each month 
 at his home and studio in Vancouver. During this period he developed a new 
-process to create large â€˜skinsâ€™ of acrylic paint that he then wrapped around 
+process to create large ‘skins’ of acrylic paint that he then wrapped around 
 panels and stretcher bars.
 
 For his exhibition, Home, at the YACTAC gallery, Green presents expressive 
 new works that explore the metaphysical framework of both the personal and 
 the universal through painting and installation. By warping, stretching and 
-tearing these â€˜skinsâ€™ Green attempts to push the boundaries of the medium 
+tearing these ‘skins’ Green attempts to push the boundaries of the medium 
 using its malleability to provoke a visceral experience with it. Aesthetically, 
 these works do not represent a traditional sense of beauty yet much like the 
 world around them they are chaotic, fragile and evocative.

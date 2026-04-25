@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | UBC Master of Fine Arts 2020 | One Sentence Too Many, One Word Too Few | JUL 17"
 ---
 

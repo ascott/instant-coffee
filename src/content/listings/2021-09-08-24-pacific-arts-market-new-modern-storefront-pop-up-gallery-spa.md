@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 24
 type: "CALL"
+venue: "Pacific Arts Market"
 summary: "Pacific Arts Market | NEW Modern Storefront Pop-Up Gallery Space | SEP 20"
 ---
 

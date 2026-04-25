@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 18
 type: ""
+venue: "ECU"
 summary: "ECU | Ceramic Department | call for Galla | FEB 16"
 ---
 

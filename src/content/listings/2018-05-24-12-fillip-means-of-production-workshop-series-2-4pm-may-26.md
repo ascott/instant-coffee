@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Fillip"
 summary: "Fillip | Means of Production Workshop Series | 2-4PM | MAY 26"
 ---
 

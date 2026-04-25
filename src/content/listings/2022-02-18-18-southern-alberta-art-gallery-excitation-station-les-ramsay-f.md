@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 18
 type: "EXHIBITION"
+venue: "Southern Alberta Art Gallery"
 summary: "Southern Alberta Art Gallery | Excitation Station | Les Ramsay | FEB 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 9
 type: "TALK"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Von Coffin and Warren Neidich | 4PM | JUL 11"
 ---
 

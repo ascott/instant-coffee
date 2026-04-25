@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 20
 type: "EVENT"
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | 2018 Art at Work Symposium: Igniting Connections | DEC 27"
 ---
 

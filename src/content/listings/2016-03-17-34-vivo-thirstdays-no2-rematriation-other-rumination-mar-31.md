@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 34
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | thirstDays No.2 - reMatriation & other rumination | MAR 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 25
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in Mandarin | 3 pm | SEP 8"
 ---
 

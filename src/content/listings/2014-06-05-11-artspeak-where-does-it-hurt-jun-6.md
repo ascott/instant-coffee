@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 11
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Where Does it Hurt? | JUN 6"
 ---
 
@@ -13,7 +14,7 @@ CATHY BUSBY, DAVID MACWILLIAM, RACHELLE SAWATSKY,
 KRISTA BELLE STEWART 
 Curated by JONAH GRAY
 
-June 7â€“July 26, 2014
+June 7–July 26, 2014
 Opening: Friday, June 6, 8pm
 
 Boris Groys recently claimed that artworks are inherently sick and require a 
@@ -31,5 +32,5 @@ Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 www.artspeak.ca 
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm
 Forward or Unsubscribe

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 9
 type: ""
+venue: "VIVO"
 summary: "VIVO | Workshop: COMPOSING CHAOS | MAR 1"
 ---
 

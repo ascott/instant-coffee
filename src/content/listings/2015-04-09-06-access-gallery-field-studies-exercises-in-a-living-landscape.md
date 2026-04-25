@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 6
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Field Studies: Exercises in a Living Landscape | APR 10"
 ---
 
 Field Studies: Exercises in a Living Landscape
  Rebecca Bayer & Laura Kozak, Emiliano Sepulveda, Eden Veaudry 
 
-April 11â€”May 23, 2015
+April 11—May 23, 2015
 Exhibition Opening Friday, April 10, 2015, 7:00pm
 
 In Conversation: Marian Penner Bancroft with Rebecca Bayer, Laura Kozak,
@@ -19,19 +20,19 @@ Emiliano Sepulveda & Eden Veaudry Saturday April 11, 2015, 2:00 PM
 Presented in conjunction with Capture Photography Festival, Field Studies
 investigates
 radical and inventive ways in which our everyday landscape might be
-experienced and mapped. Rebecca Bayer and Laura Kozakâ€™s community-based
+experienced and mapped. Rebecca Bayer and Laura Kozak’s community-based
 project The Hadden Park Map Exchange (developed through the Vancouver Parks
 Board Field House Residencies) documents the coming together of a myriad of
-specialized practitioners and community membersâ€”visual artists, musicians,
+specialized practitioners and community members—visual artists, musicians,
 historians, gardeners, choreographers, archaeologists, meterologists,
-lifeguards, local residents and childrenâ€”to produce a series of
-unconventional maps of Hadden Park, at the north end of Vancouverâ€™s
+lifeguards, local residents and children—to produce a series of
+unconventional maps of Hadden Park, at the north end of Vancouver’s
 Kitsilano Beach. Emiliano Sepulveda probes the very basis of photography
 with his weather kites made of light-sensitive photo paper which record
-light conditions in the sites they are flown. Eden Veaudryâ€™s sensual
+light conditions in the sites they are flown. Eden Veaudry’s sensual
 installation quite literally weaves together still photographs, video and
-tapestries to map the intimate surfaces of her domestic realm, Ã  la Xavier
-de Maistreâ€™s 1794 novel A Journey Round My Room.
+tapestries to map the intimate surfaces of her domestic realm, à la Xavier
+de Maistre’s 1794 novel A Journey Round My Room.
 
 Rebecca Bayer is a Vancouver-based artist and architectural designer. Her
 projects examine relationships between people, material, and atmospheric

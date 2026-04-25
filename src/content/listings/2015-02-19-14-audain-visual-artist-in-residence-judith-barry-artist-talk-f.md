@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 14
 type: "TALK"
+venue: "Audain Visual Artist in Residence"
 summary: "Audain Visual Artist in Residence | Judith Barry Artist Talk | FEB 24"
 ---
 

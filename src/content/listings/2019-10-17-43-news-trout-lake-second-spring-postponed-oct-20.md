@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 43
 type: ""
+venue: "NEWS"
 summary: "NEWS | Trout Lake | Second Spring (POSTPONED) | OCT 20"
 ---
 

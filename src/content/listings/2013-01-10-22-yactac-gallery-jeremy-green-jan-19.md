@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 22
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Jeremy Green | JAN 19"
 ---
 
@@ -22,14 +23,14 @@ Canada;
 alternating between life on the road and just a few days each month at his 
 home and studio in
 Vancouver. During this period he developed a new process to create large 
-â€˜skinsâ€™ of acrylic paint
+‘skins’ of acrylic paint
 that he then wrapped around panels and stretcher bars.
 
 For his exhibition, Home, at the Yactac gallery, Green presents expressive 
 new works that
 explore the metaphysical framework of both the personal and the universal 
 through painting
-and installation. By warping, stretching and tearing these â€˜skinsâ€™ Green 
+and installation. By warping, stretching and tearing these ‘skins’ Green 
 attempts to push
 the boundaries of the medium using its malleability to provoke a visceral 
 experience with it.

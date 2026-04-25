@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 8
 type: "OPENING"
+venue: "The Reach Gallery"
 summary: "The Reach Gallery | Exhibition Openings | 7PM | JAN 18"
 ---
 

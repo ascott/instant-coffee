@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 12
 type: "PERFORMANCE"
+venue: "SFU Woodward's Goldcorp Centre for the Arts"
 summary: "SFU Woodward's Goldcorp Centre for the Arts | LIMINAL LOOP GARDEN | JAN 13"
 ---
 

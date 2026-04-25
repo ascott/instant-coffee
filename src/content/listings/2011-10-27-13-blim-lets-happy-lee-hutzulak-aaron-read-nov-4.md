@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 13
 type: ""
+venue: "Blim"
 summary: "Blim | Let's Happy: Lee Hutzulak & Aaron Read | NOV 4"
 ---
 
@@ -32,9 +33,9 @@ For the Month of October 2011
 
 New Works by Andrea Tucker
 
-Opening: 8 PM â€“ 11 PM, 
+Opening: 8 PM – 11 PM, 
 Thursday October 6 
-Runs October 7 â€“ 29
+Runs October 7 – 29
 
 BLIM
 Yuriko Iga - Director

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you must enter a Byline"
 emailDate: "Thu, 04 Sep 2008 09:20:55 -0700"
 number: 18
 type: ""
+venue: "CAG"
 summary: "CAG | Clip/Stamp/Fold 6 | SEP 11"
 ---
 
@@ -88,7 +89,7 @@ Cornerstone Architecture; Diamond and Schmitt Architects; Eric Vance &
 Associates; Gomberoff Bell Lyon Architects Group; Hotson Bakker Boniface
 Haden Architects + Urbanists; Hunter Laird Engineering Ltd.; Inform
 Interiors; Kalico Developments Ltd.; Robert Lemon Architect Inc.; McCarthy
-TÃ©trault LLP; Nancy Spooner; Consulting Inc.; Parklane Homes; Polygon
+Tétrault LLP; Nancy Spooner; Consulting Inc.; Parklane Homes; Polygon
 Homes; PWL Partnership Landscape Architects Inc.; Raffi Architects; Take
 Root Properties; Stantec Consulting Ltd.; Nora Stevenson; Tankoos; Yarmon
 Group of Companies; Townline Group of Companies; TR Trades Reproduction

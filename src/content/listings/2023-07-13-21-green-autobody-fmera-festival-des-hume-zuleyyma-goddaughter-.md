@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 21
 type: ""
+venue: "Green Autobody"
 summary: "Green Autobody | FM.era Festival: des hume, Zuleyyma, goddaughter | JUL 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "The Playground"
 summary: "The Playground | Wild Life by Mandy-Lyn | 5-10PM | JUL 5"
 ---
 

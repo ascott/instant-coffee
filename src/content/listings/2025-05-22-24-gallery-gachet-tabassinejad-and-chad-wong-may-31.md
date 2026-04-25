@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 24
 type: "TALK"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Tabassinejad and Chad Wong | MAY 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 5
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Black Hole is Also Supernova | SEP 17"
 ---
 
@@ -26,14 +27,14 @@ concept and embodiment.
 
 Berlin-based artist Kara Uzelman, whose work has recently drawn from early 20th century sci-fi 
 narratives, has created a new suite of drawings that reference scripts from 60 science fiction radio 
-plays. Through Uzelmanâ€™s re-telling, the work uncovers, through physical and textual bricolage, a
-wholly new narrative. Colleen Brownâ€™s work takes common objects and creates formally complex 
+plays. Through Uzelman’s re-telling, the work uncovers, through physical and textual bricolage, a
+wholly new narrative. Colleen Brown’s work takes common objects and creates formally complex 
 new sculptures that are both familiar and strange in their use of assemblage, colour and texture.
-Brownâ€™s sculpture is both airy and dense, a confluence of forms whose relationship to one 
+Brown’s sculpture is both airy and dense, a confluence of forms whose relationship to one 
 another seems nearly gravitational in itself: materials orbit one another, and, as they must, 
 collide. Paul Kajander's new video installation gathers a cluster of universes around a single self, 
-juxtaposing sci-fi-like inspired interiors with â€˜pre-literateâ€™ wilderness. His work highlights a certain 
-cultural absurdityâ€”the weirdness of expressing oneself in a world of signs, the collective 
+juxtaposing sci-fi-like inspired interiors with ‘pre-literate’ wilderness. His work highlights a certain 
+cultural absurdity—the weirdness of expressing oneself in a world of signs, the collective 
 ridiculousness of our cultural products, an underlying sense of a world in flux, the anxious 
 individual, and the importance of human connection amidst it all.
 

@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 20
 type: "EDUCATION"
+venue: "University of British Columbia"
 summary: "University of British Columbia | Online Workshop: Arts and Social Change | SEP 15"
 ---
 
 The international University of British Columbia (UBC) Centre for
 Cultural Planning and Development is offering a new online
 professional development workshop Arts and Social Change, starting
-September 29. Donâ€™t miss the opportunity to learn from international
+September 29. Don’t miss the opportunity to learn from international
 experts and expand your professional practice. This workshop can be
 taken individually for professional development, or applied to the UBC
-Certificate in Cultural Planning â€“ an international professional learning
+Certificate in Cultural Planning – an international professional learning
 program delivered 100% online.
 
 Online Workshop: Arts and Social Change
@@ -34,7 +35,7 @@ Instructors: Caron Atlas is Director of the Arts & Democracy Project
 and Co-Director of Naturally Occurring Cultural Districts New York
 (NOCD-NY). Gonzalo Casals is Vice-President of Public Programs and
 Community Engagement at Friends of The High Line, a non-profit
-organization that operates and programs one of Manhattanâ€™s most
+organization that operates and programs one of Manhattan’s most
 innovative public spaces.
 
 About the UBC Centre for Cultural Planning and Development

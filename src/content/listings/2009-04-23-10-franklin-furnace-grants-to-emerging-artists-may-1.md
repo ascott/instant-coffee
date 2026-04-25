@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 10
 type: ""
+venue: "Franklin Furnace"
 summary: "Franklin Furnace | Grants to emerging artists | MAY 1"
 ---
 

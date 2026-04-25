@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 5
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Jen Mann | METONYMY | 6PM | NOV 7"
 ---
 

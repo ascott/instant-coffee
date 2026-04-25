@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 19
 type: "EDUCATION"
+venue: "Cineworks and F-O-R-M"
 summary: "Cineworks and F-O-R-M | Bodies in Motion... Dance Film Workshop | MAY 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 14
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Ann Goldberg : Acmegram | OCT 6"
 ---
 

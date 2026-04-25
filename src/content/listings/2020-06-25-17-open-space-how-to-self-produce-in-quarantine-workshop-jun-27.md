@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 17
 type: "EDUCATION"
+venue: "Open Space"
 summary: "Open Space | How to Self-Produce in Quarantine! workshop | JUN 27"
 ---
 

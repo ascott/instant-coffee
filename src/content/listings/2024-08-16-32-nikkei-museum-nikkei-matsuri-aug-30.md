@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 32
 type: "EVENT"
+venue: "Nikkei Museum"
 summary: "Nikkei Museum | Nikkei Matsuri |  | AUG 30"
 ---
 

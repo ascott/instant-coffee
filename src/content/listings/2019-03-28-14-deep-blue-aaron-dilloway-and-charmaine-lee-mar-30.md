@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 14
 type: "PERFORMANCE"
+venue: "Deep Blue"
 summary: "Deep Blue | Aaron Dilloway and Charmaine Lee | MAR 30"
 ---
 

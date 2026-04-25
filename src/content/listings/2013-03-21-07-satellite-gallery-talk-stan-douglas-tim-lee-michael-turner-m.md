@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 7
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | talk: Stan Douglas, Tim Lee, Michael Turner | MAR 23"
 ---
 
@@ -27,7 +28,7 @@ in the discussion; drawing on his extensive knowledge of the cultural
 life of this city.
 
 This discussion will take place against the backdrop of Presentation 
-House Galleryâ€™s NEWS!exhibition, based on the press photography 
+House Gallery’s NEWS!exhibition, based on the press photography 
 collection of The Vancouver Sun and The Province newspapers. This 
 unique working archive holds a breadth of material that includes over a 
 million photographs. The exhibition spanning the analogue era of news 
@@ -46,10 +47,10 @@ Tim Lee's renowned media artworks often involve reenacting famous
 moments in the history of popular culture. His most recent multimedia 
 installation, Blowin' in the Wind, Bob Dylan, 1963, 2013, currently at the 
 Asia Society Museum in New York, is a karaoke pavilion featuring the 
-artist's cover of the Dylanâ€™s eponymous folk anthem. 
+artist's cover of the Dylan’s eponymous folk anthem. 
 
 Michael Turner is a Vancouver-based writer and art critic whose 
-fictionsâ€”the most recent being8x10, 2009â€”are composed of multiple 
+fictions—the most recent being8x10, 2009—are composed of multiple 
 genres and mediums. His current curatorial endeavour, A Postcard 
 from Victoria, opening this May at the Art Gallery of Greater Victoria is 
 based on a 1983 video by Robert Morin & Lorraine Dufour, with 

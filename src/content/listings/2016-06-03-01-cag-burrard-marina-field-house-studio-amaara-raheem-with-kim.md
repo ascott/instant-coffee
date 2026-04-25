@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 1
 type: "TALK"
+venue: "CAG @ Burrard Marina Field House Studio"
 summary: "CAG @ Burrard Marina Field House Studio | Amaara Raheem with Kimberly Phillips | JUN 2"
 ---
 

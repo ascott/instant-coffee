@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 15
 type: "OPENING"
+venue: "The ACT Art Gallery"
 summary: "The ACT Art Gallery | Lessons from a Living World | SEP 9"
 ---
 

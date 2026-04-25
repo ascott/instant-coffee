@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 10
 type: "OPENING"
+venue: "Robinson Studio Gallery"
 summary: "Robinson Studio Gallery | Moving Matter | NOV 4"
 ---
 

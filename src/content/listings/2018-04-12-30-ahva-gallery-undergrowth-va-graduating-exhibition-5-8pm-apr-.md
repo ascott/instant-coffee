@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 30
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Undergrowth: VA Graduating Exhibition | 5-8PM | APR 18"
 ---
 

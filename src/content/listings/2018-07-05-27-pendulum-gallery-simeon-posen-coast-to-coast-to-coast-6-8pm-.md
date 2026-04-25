@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 27
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Simeon Posen- Coast to Coast to Coast | 6-8PM | JUL 12"
 ---
 

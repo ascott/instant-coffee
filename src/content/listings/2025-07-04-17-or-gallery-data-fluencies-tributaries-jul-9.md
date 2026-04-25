@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tributaries"
 emailDate: "Fri, 04 Jul 2025 03:00:07 -0700"
 number: 17
 type: "EVENT"
+venue: "Or Gallery"
 summary: "Or Gallery | ‘Data Fluencies: Tributaries’ | JUL 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 31
 type: "CALL"
+venue: "2021 Richmond Pride Week"
 summary: "2021 Richmond Pride Week | West Richmond Community Centre Public Art Project | MAR 29"
 ---
 

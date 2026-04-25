@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 3
 type: ""
+venue: "Centre for Art Tapes, Halifax"
 summary: "Centre for Art Tapes, Halifax | Employment Opportunities | SEP 26"
 ---
 
@@ -15,7 +16,7 @@ Office and Volunteer Coordinator
 Membership and Outreach Coordinator
 
 To apply, please send a resume and cover letter via email to
-cfat.hiringcommittee@gmail.com with the subject line â€œMembership Outreach
+cfat.hiringcommittee@gmail.com with the subject line “Membership Outreach
 Coordinatorâ€ .
 
 Office and Volunteer Coordinator
@@ -24,7 +25,7 @@ DEADLINE EXTENDED FOR APPLICATIONS: Sept. 26th, 2014 at 5pm
 
 The Office and Volunteer Coordinator (OVC) will be responsible for meeting
 objectives set by the Director in terms of services and strategies
-developed for the Centreâ€™s membership and operations. The OVC will report
+developed for the Centre’s membership and operations. The OVC will report
 directly to the CFAT Director and will be tasked with coordinating office
 operations and volunteers. As part of this work the OVC will provide basic
 reception duties (i.e. greeting members, answeringcalls, and emails),
@@ -47,7 +48,7 @@ DEADLINE EXTENDED FOR APPLICATIONS: Sept. 26th, 2014 at 5pm
 
 The Membership and Outreach Coordinator (MOC) will be responsible for
 meeting objectives set by the Director for short and long-term strategies
-for the Centreâ€™s Membership and Outreach Project. The MOC will report
+for the Centre’s Membership and Outreach Project. The MOC will report
 directly to the CFAT Director and will work in collaboration with CFAT
 staff and volunteers to develop procedures and goals to recruit and engage
 members, donors and sponsors. A key goal of the MOC is to document
@@ -67,12 +68,12 @@ are below:
 defined by Section 58 of the Employment Insurance Act. This means that you
 are an individual for whom:
 
-â€“ an unemployment benefit period has been established or has
+– an unemployment benefit period has been established or has
 ended within the three years prior to the date of requesting assistance
 
 OR
 
-â€“ a benefit period that included a maternity or parental claim has
+– a benefit period that included a maternity or parental claim has
 been established within the five years prior to the date of requesting
 assistance, after which you remained out of the labour market in order to
 care for a newborn or newly adopted child and are now seeking to re-enter

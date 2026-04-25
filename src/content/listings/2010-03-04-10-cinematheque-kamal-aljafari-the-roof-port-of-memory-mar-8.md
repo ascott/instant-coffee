@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 10
 type: ""
+venue: "Cinematheque"
 summary: "Cinematheque | Kamal Aljafari: The Roof & Port of Memory | MAR 8"
 ---
 

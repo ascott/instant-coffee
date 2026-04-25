@@ -30,7 +30,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-02-12-17-rag-abstract-painting-workshop-with-jeremy-hof-feb-21">17. EDUCATION | RAG | Abstract Painting Workshop with Jeremy Hof | FEB 21</a>
 <a href="/instant-coffee/listings/2015-02-12-18-charles-h-scott-gallery-david-zink-yi-feb-24">18. OPENING | Charles H. Scott Gallery | David Zink Yi | FEB 24</a>
 <a href="/instant-coffee/listings/2015-02-12-19-screening-dim-cinema-james-lee-byars-the-world-question-cent">19. SCREENING | DIM Cinema | James Lee Byars: The World Question Center | FEB 25</a>
-<a href="/instant-coffee/listings/2015-02-12-20-dpt-art-history-visual-art-theory-ubc-artists-talk-emily-war">20. TALK | Dpt. Art History Visual Art & Theory, UBC | Artistâ€™s talk Emily Wardill | FEB 25</a>
+<a href="/instant-coffee/listings/2015-02-12-20-dpt-art-history-visual-art-theory-ubc-artists-talk-emily-war">20. TALK | Dpt. Art History Visual Art & Theory, UBC | Artist’s talk Emily Wardill | FEB 25</a>
 <a href="/instant-coffee/listings/2015-02-12-21-the-dance-centre-12-minutes-max-studio-showing-feb-25">21. EVENT | The Dance Centre | 12 Minutes Max: Studio Showing | FEB 25</a>
 <a href="/instant-coffee/listings/2015-02-12-22-western-front-auction-preview-feb-25">22. FUNDRAISER | Western Front | Auction Preview | FEB 25</a>
 <a href="/instant-coffee/listings/2015-02-12-23-untitled-art-society-calgary-call-for-expressions-of-interes">23. CALL | Untitled Art Society (Calgary) | Call for Expressions of Interest | MAR 31</a>
@@ -40,9 +40,9 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-02-12-01-burnaby-art-gallery-offsite-exhibition-bernadette-phan-and-a">01. EXHIBITION | Burnaby Art Gallery | Offsite Exhibition: Bernadette Phan and Alan Wood | FEB 10</a>
 ------------------------------------------------------------------------
-The Burnaby Art Galleryâ€™s Offsite Exhibitions showcases artworks from
+The Burnaby Art Gallery’s Offsite Exhibitions showcases artworks from
 local, emerging, as well as nationally-known,established artists in the
-spaces of Burnabyâ€™s Public Libraries.
+spaces of Burnaby’s Public Libraries.
 From February to March 2015 the gallery is pleased to present:
 
 Bernadette Phan
@@ -63,12 +63,12 @@ http://burnabyartgallery.ca
 ------------------------------------------------------------------------
 Stephanie Aitken
 Breathing Machines
-February 12th â€” March 14th, 2015
-Opening February 12th, 6:00 â€” 10:00 PM
+February 12th — March 14th, 2015
+Opening February 12th, 6:00 — 10:00 PM
 
 We are pleased to announce Stephanie Aitken as our first exhibiting artist
 of 2015. Her exhibition titled â€œBreathing Machinesâ€  opens on Thursday,
-February 12th from 6:00 â€” 10:00 PM.
+February 12th from 6:00 — 10:00 PM.
 
 These paintings are about trees, tree parts, dead trees, stumps, burn
 piles, driftwood, branches, cut limbs, birds, beetles, heads, torsos,
@@ -198,7 +198,7 @@ surface through the application of a painted mask. In the first, small
 pinhole images are reduced to little more than gestures hidden beneath
 thick daubs of paint. The wide angle distortion of the lens used transforms
 the photographic index into a semi-abstracted island on the photo paper.
-PinheiroÃ¢â‚¬â„¢s Paper series shifts the responsibility of the camera as
+Pinheiroâ€™s Paper series shifts the responsibility of the camera as
 documentarian to the scanner, where sheets of blank photographic paper are
 applied with paint and allowed to transform within the bed of the scanner,
 as the colour shifts through its exposure to light.
@@ -257,7 +257,7 @@ Muller & Christoph Girardet, Brendan Van Hek, Angela Washko.
 <a href="/instant-coffee/listings/2015-02-12-08-cineworks-odd-sundays-analogue-film-drop-in-feb-15">08. EVENT | Cineworks | Odd Sundays Analogue Film Drop-In | FEB 15</a>
 ------------------------------------------------------------------------
 Open Film Lab and Analogue Studio Drop-In
-Sunday Feb 15, 10.00am â€“ 2.00pm (please arrive by 12.00)
+Sunday Feb 15, 10.00am – 2.00pm (please arrive by 12.00)
 Cineworks Annex, Ironworks, 235 Alexander Street (basement)
 FREE
 
@@ -266,12 +266,12 @@ facility and artist-run lab, The Annex.
 
 Come for an Annex equipment and facilities orientation, bring your own
 cinefilm or stills negative to develop, come for a chat if you'd like to
-know more about working with 35mm, 16mm and 8mm film, or if youâ€™d like
+know more about working with 35mm, 16mm and 8mm film, or if you’d like
 advice on a project you have in mind.
 
 This Sunday:
 Film print spot-removal demonstration;
-JK Optical Printer access for 16mmâ€“2k transfer;
+JK Optical Printer access for 16mm–2k transfer;
 Open lab and hand-processing (bring your own neg);
 
 Bring curious. Take happy.
@@ -298,7 +298,7 @@ http://cineworks.ca
 <a href="/instant-coffee/listings/2015-02-12-09-sfu-gallery-geometry-of-knowing-derya-akay-julia-feyrer-feb-">09. EVENT | SFU Gallery | Geometry of Knowing: Derya Akay & Julia Feyrer | FEB 15</a>
 ------------------------------------------------------------------------
 Geometry of Knowing: Event with Derya Akay and Julia Feyrer
-Sunday, FEB 15, 2015 / 12 â€“ 2PM
+Sunday, FEB 15, 2015 / 12 – 2PM
 SFU Gallery
 Academic Quadrangle 3004
 SFU Burnaby Campus
@@ -314,7 +314,7 @@ return from the SFU Gallery at 2PM. Limited space. Reserve now by emailing
 audaingallery@sfu.ca.
 
 Free parking at SFU Burnaby on Sunday, February 15 from 12PM-3PM. Use a
-printout of this email or a copy of SFU Galleriesâ€™ Spring 2015 Program
+printout of this email or a copy of SFU Galleries’ Spring 2015 Program
 Guide. Place on dashboard or hand to parking attendant.
 
 Geometry of Knowing is a group exhibition that investigates approaches to
@@ -360,10 +360,10 @@ Free admission.
 Info 604.606.6400 www.thedancecentre.ca
 
 Migrant Bodies is a two-year research project created through a partnership
-between The Dance Centre (Vancouver), Circuit-Est centre chorÃƒÂ©graphique
+between The Dance Centre (Vancouver), Circuit-Est centre chorÃ©graphique
 (Montreal), Comune di Bassano del Grappa (Italy), The Croatian Institute
 for Movement and Dance (Croatia), and La Briqueterie - Centre de
-dÃƒÂ©veloppement chorÃƒÂ©graphique du Val-de-Marne (France). Migrant Bodies aims
+dÃ©veloppement chorÃ©graphique du Val-de-Marne (France). Migrant Bodies aims
 to use artistic and cultural tools to open up a civil reflection on
 migration in European and Canadian societies.
 
@@ -377,19 +377,19 @@ Opera Estate Festival Veneto.
 
 The Vancouver creative team includes Su-Feh Lee, Co-Artistic Director of
 battery opera performance; interdisciplinary artist Sammy Chien; and
-writers Alexa Mardon and Andreas Kahre. The other choreographers are CÃƒÂ©cile
-Proust (France), Manuel Roque (QuÃƒÂ©bec), Alessandro Sciarroni (Italy) and
-Jasna VinovrÃ…Â¡ki (Croatia).
+writers Alexa Mardon and Andreas Kahre. The other choreographers are CÃ©cile
+Proust (France), Manuel Roque (QuÃ©bec), Alessandro Sciarroni (Italy) and
+Jasna VinovrÅ¡ki (Croatia).
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-02-12-12-dr-sun-yat-sen-classical-chinese-garden-light-and-shadows-fe">12. EVENT | Dr. Sun Yat-Sen Classical Chinese Garden | Light and Shadows | FEB 19</a>
 ------------------------------------------------------------------------
 Event: LIGHT AND SHADOWS : AN EVENING WITH BEIJING'S SHADOW PUPPETEERS
 Venue: Dr. Sun Yat-Sen Classical Chinese Garden.
-Feb, 19, 2015 | 7pm â€“ 9:30pm
+Feb, 19, 2015 | 7pm – 9:30pm
 Tickets: $55/individual; $100/couple
 
-Limited to ONE EVENING ONLY and 48 seats, â€œLight and Shadows: an evening
+Limited to ONE EVENING ONLY and 48 seats, “Light and Shadows: an evening
 with Beijingâ€™s Shadow Puppeteersâ€  is a rare opportunity to touch the magic,
 literally. A 40-minute performance by the world-renowned Beijing Shadow
 Play Art Troupe is followed by a hands-on workshop teaching the guests how
@@ -397,7 +397,7 @@ to build and operate their own shadow puppet. All guests receive 1
 complimentary glass of wine or non-alcoholic beverage. Ticket prices
 include the materials for making the leather shadow puppet. Doors open at
 6:30pm. Performance begins at 7pm, followed by workshop and socializing.
-Feb, 19, 2015 | 7pm â€“ 9:30pm | Tickets: $55/individual; $100/couple
+Feb, 19, 2015 | 7pm – 9:30pm | Tickets: $55/individual; $100/couple
 
 Background information:
 Shadow play performances are presented by highly-skilled puppeteers, with
@@ -626,23 +626,23 @@ David Zink Yi. The exhibition will feature a body of work that resulted
 from a two-month research trip the artist made to the mineral-rich southern
 Andes in his homeland of Peru. The Strangers (2014), a two-channel video
 installation records the labouring workers, the mechanics of heavy industry
-and the striking rock formations in and around the regionâ€™s gold and silver
+and the striking rock formations in and around the region’s gold and silver
 mines. Zink Yi pairs the video installation with a series of photographs he
 took of hastily applied patches on the surface of the road that runs
 through the mountainous mining region to the coast. In a perpetual loop,
 the road crew moves from west to east, bottom to top, patching and
-re-patching. As Miguel LÃ³pez writes, â€œThe markings not only function as
+re-patching. As Miguel López writes, “The markings not only function as
 odd, abstract images, but also as traces of one of the most active routes
 of the mining trade, whose repairs allegorize the fragility of an economy
 burdened by social conflicts only partially and superficially solvedâ€ .
 
-David Zink Yiâ€™s multi-faceted art practice comprises sculpture, film and
+David Zink Yi’s multi-faceted art practice comprises sculpture, film and
 photography. His investigations, often centred on the body, explore
 concepts of identity and the processes whereby the individual becomes part
 of the collective through a variety of actions such as music-making,
 dancing or physical labour. Through displays and installations his work
 allows for a shift in meaning, reconfiguring contexts and angles to imagine
-a transformation of the bodyâ€”which acts as a medium and interpreter of
+a transformation of the body—which acts as a medium and interpreter of
 form, not just a bearer of cultural form.
 
 David Zink Yi is currently the Audain Distinguished Artist-in-Residence at
@@ -650,14 +650,14 @@ Emily Carr University in Vancouver. He has recently participated in the 8th
 Berlin Biennale, the 55th Venice Biennale in the Latin American Pavilion
 and the 10th Havana Biennale. He has exhibited at Hauser & Wirth in Zurich
 and Kunstverein Braunschweig in Germany. He has also taken part in group
-exhibitions at the Tate Modern, London; Sala de Arte PÃºblico Siqueiros,
-Mexico City; Ludwig Forum fÃ¼r Internationale Kunst, Aachen, Germany; and
+exhibitions at the Tate Modern, London; Sala de Arte Público Siqueiros,
+Mexico City; Ludwig Forum für Internationale Kunst, Aachen, Germany; and
 the National Museum of Art, Architecture and Design, Oslo. His work is
 included in collections at the Museum of Contemporary Art, Los Angeles;
 Mudam Luxembourg; and the Museum Ludwig, Cologne.
 
 Image Credit: David Zink Yi, Untitled, C Print, 2014, courtesy of Hauser
-and Wirth Zurich, Johann KÃ¶nig, and 80M2 Livia Benavides.
+and Wirth Zurich, Johann König, and 80M2 Livia Benavides.
 
 Charles H. Scott Gallery
 Emily Carr University of Art + Design
@@ -676,12 +676,12 @@ Tix: $11/9 + $3 membership
 www.dimcinema.ca, www.thecinematheque.ca
 
 James Lee Byars: The World Question Center
-Programmed by MichÃ¨le Smith
+Programmed by Michèle Smith
 
 "Could you offer us a question that you feel is pertinent in regards to
 your own evolution of knowledge?â€  asks the voice at the end of the line.
-Itâ€™s James Lee Byars calling, the American performance and installation
-artist â€œwhose idiosyncratic, Zen-influenced blendings of Minimal and
+It’s James Lee Byars calling, the American performance and installation
+artist “whose idiosyncratic, Zen-influenced blendings of Minimal and
 Conceptual art stressed questions over answers, absence over presence, and
 a lush momentary experience of beauty over permanenceâ€  (Roberta Smith, New
 York Times). Byars's initial idea for this project was to lock 100
@@ -691,20 +691,20 @@ World Question Center, a live broadcast on Belgian TV, during which the
 artist, supported by a panel of guests (including Marcel Broodthaers) and
 a ring of university students (the entire cast dressed in pink robes, but,
 alas, filmed in B&W) telephoned thinkers, scientists, and artists with his
-question. Filmmaker Jef Cornelis documented the proceedings: â€œThat the
-network even broadcast this adventure, let alone at 10 oâ€™clock on a Friday
+question. Filmmaker Jef Cornelis documented the proceedings: “That the
+network even broadcast this adventure, let alone at 10 o’clock on a Friday
 evening, is still a puzzle to me.â€ 
 
 PROGRAM
 
-James Lee Byars, Antwerpen 18 April â€” 7 Mei 1969 | Jef Cornelis/Belgium
+James Lee Byars, Antwerpen 18 April — 7 Mei 1969 | Jef Cornelis/Belgium
 1969. 32 min. DCP.
 The World Question Center | Jef Cornelis/Belgium 1969. 63 min. DCP
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-02-12-20-dpt-art-history-visual-art-theory-ubc-artists-talk-emily-war">20. TALK | Dpt. Art History Visual Art & Theory, UBC | Artistâ€™s talk Emily Wardill | FEB 25</a>
+<a href="/instant-coffee/listings/2015-02-12-20-dpt-art-history-visual-art-theory-ubc-artists-talk-emily-war">20. TALK | Dpt. Art History Visual Art & Theory, UBC | Artist’s talk Emily Wardill | FEB 25</a>
 ------------------------------------------------------------------------
-An Artistâ€™s talk by Emily Wardill
+An Artist’s talk by Emily Wardill
 â€œand they lay them before you like reasonsâ€ 
 Distinguished Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
@@ -721,13 +721,13 @@ different visual or verbal structures, deliberately resisting meaning that
 settles in form. This resistance comes from an interest in styles of
 communication and the persistence of images to outlive their initial purpose.
 Her films consciously emphasize the irreducible qualities of images as well
-as their emancipatory potential â€“ taking an interest in the way in which
+as their emancipatory potential – taking an interest in the way in which
 the symbolic is used within the communication of nebulous ideas or
 political rhetoric. Her approach emphasizes the strangeness of images and
 undermines narrative cohesion. The film develop its own life and dynamic,
 to be absorbed by the senses rather than through logic.
 
-Wardillâ€™s work makes a central contribution to contemporary art film and
+Wardill’s work makes a central contribution to contemporary art film and
 was exhibited, among others, at the Serpentine Gallery London (2012), the
 Showroom Gallery London (2010), the Gallery of Modern Art Glasgow (2011),
 the Baadischer Kunstverein Karlsruhe (2011), the MIT List Visual Arts
@@ -736,8 +736,8 @@ artist showed the performance event The Feast Against Nature in Grizedale
 in the Lake District and at the New York PS1 Contemporary Art Center. In
 2011 she took part in the Venice Biennale. Her work was awarded the Jarman
 Award in 2010 and the Leverhulme Award in 2011. Recently her films were
-shown in the context of solo shows, namely The Third Person in the ARTES â€“
-FundaÃ§Ã£o Manuel AntÃ³nio da Mota in Porto (2012) and When you fall into a
+shown in the context of solo shows, namely The Third Person in the ARTES –
+Fundação Manuel António da Mota in Porto (2012) and When you fall into a
 trance in La Loge, Brussels (2012).
 
 Emily Wardill, born in 1977, lives and works in Lisbon, Portugal. She will
@@ -759,9 +759,9 @@ Scotiabank Dance Centre, 677 Davie St, Vancouver
 Free admission
 Info www.thedancecentre.ca
 
-The Dance Centreâ€™s 12 Minutes Max series showcases innovative new works
+The Dance Centre’s 12 Minutes Max series showcases innovative new works
 lasting twelve minutes or less. Four emerging artists - Julia Carr, Dario
-Dinuzzi, and Natalie Gan in collaboration with Francesca Frewer â€“ will give
+Dinuzzi, and Natalie Gan in collaboration with Francesca Frewer – will give
 an informal studio showing of works they have developed at Scotiabank Dance
 Centre, with mentorship and critical feedback from a panel of guest
 curators: Corey Philley, Kathryn Ricketts, and George Sipos.
@@ -863,11 +863,11 @@ contact Katharina at katharinamschulz@gmail.com
 2.
 
 THE BLANK TANK GALLERY
-#102 â€“ 148 ALEXANDER STREET, VANCOUVER
+#102 – 148 ALEXANDER STREET, VANCOUVER
 Gastown/Railtown
 (formerly the Trench Gallery space)
 
-â€¦IS NOW AVAILABLE TO ARTISTS FOR WEEKEND SOLO/GROUP EXHIBITIONS & POP-UP
+…IS NOW AVAILABLE TO ARTISTS FOR WEEKEND SOLO/GROUP EXHIBITIONS & POP-UP
 SHOWS/SALES
 
 CURRENTLY BOOKING FEBRUARY THRU TO END OF 2015

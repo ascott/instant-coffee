@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 22
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Community Art Project & Legacy Artwork | AUG 22"
 ---
 

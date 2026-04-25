@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 7
 type: "EVENT"
+venue: "556 Clark Drive"
 summary: "556 Clark Drive | One-Offs Pop Up Sale | DEC 7&8 | DEC 7"
 ---
 

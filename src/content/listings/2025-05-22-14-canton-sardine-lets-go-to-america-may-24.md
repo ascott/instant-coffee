@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 14
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Let’s Go to America | MAY 24"
 ---
 

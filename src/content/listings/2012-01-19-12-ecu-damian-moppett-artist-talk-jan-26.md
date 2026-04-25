@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 12
 type: ""
+venue: "ECU"
 summary: "ECU | DAMIAN MOPPETT: ARTIST TALK | JAN 26"
 ---
 
@@ -38,7 +39,7 @@ gravity, begun in his Calder-influenced Stabile series of floor-bound
 mobiles. Though caryatids are a common architectural motif of 
 antiquity, sculpted female figures which act as weight-bearing columns, 
 Moppetts' version carries nothing, her fingers grasp towards the ceiling. 
-Within the context of his surrounding Å“uvre, this work conveys the crux 
+Within the context of his surrounding œuvre, this work conveys the crux 
 of our relationship towards history, is it burdensome, or ephemeral? Is it 
 a phantasm we can only clutch at as its influence emanates all around 
 us?
@@ -56,8 +57,8 @@ Born in Calgary, Alberta in 1969 and currently living and working in
 Vancouver, Damian Moppett attended Emily Carr College of Art and 
 Design and received his Master of Fine Arts from Concordia University, 
 Montreal. He has exhibited widely including at The Power Plant, 
-Toronto; The National Gallery of Canada, Ottawa; MusÃ©e d'art 
-contemporain de MontrÃ©al and the Witte de With, Rotterdam.
+Toronto; The National Gallery of Canada, Ottawa; Musée d'art 
+contemporain de Montréal and the Witte de With, Rotterdam.
 
 Rennie Collection has evolved over a number of years to focus on 
 works related to identity, social injustice, appropriation, painting and 

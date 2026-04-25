@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 5
 type: "EVENT"
+venue: "C Space"
 summary: "C Space | I Was Trying to Describe You to Someone | AUG 28"
 ---
 

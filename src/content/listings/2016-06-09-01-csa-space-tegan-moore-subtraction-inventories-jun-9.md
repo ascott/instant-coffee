@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 1
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Tegan Moore, Subtraction Inventories | JUN 9"
 ---
 

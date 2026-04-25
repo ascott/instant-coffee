@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 9
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Nicole Ondre | 6-9pm | DEC 7"
 ---
 

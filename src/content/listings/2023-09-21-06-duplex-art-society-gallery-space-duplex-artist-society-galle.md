@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 6
 type: "OPENING"
+venue: "Duplex Art Society Gallery Space"
 summary: "Duplex Art Society Gallery Space | Duplex Artist Society Gallery, Dash, Sunspot, Stit | SEP 21"
 ---
 

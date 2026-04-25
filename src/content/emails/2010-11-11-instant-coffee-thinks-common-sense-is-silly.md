@@ -170,7 +170,7 @@ Horses, Don't They?, co-edited the audiozine Spoox, and
 authored Comedy
 Tragedy, an artist book. She studied at Emily Carr Institute of 
 Art +
-Design and the St.Ã‚Â¤delschule School of Fine Arts. She lives 
+Design and the St.Â¤delschule School of Fine Arts. She lives 
 in Vancouver.
 
 * 233 Carrall Street
@@ -309,7 +309,7 @@ the Canadian Forces and produced a wide range of art, documenting an even
 wider range of settings where Canadian soldiers are at work.
 
 The panel brings together three cultural practitioners who explore the role
-art plays in recording and bearing witness to CanadaÃ¢ï¿½ï¿½s military endeavours.
+art plays in recording and bearing witness to Canadaâ��s military endeavours.
 
 Jim Burant is an archivist with Library and Archives Canada and is a member
 of the advisory committee of the Canadian Forces Artists Program. He will

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 3
 type: "CALL"
+venue: "The Toast Collective"
 summary: "The Toast Collective | Call for Submissions | DEC 31"
 ---
 

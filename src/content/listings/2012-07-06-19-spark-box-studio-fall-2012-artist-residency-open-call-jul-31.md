@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 19
 type: ""
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | Fall 2012 Artist Residency Open Call | JUL 31"
 ---
 
@@ -12,7 +13,7 @@ Canada
 
 Spark Box Studio Residency is now accepting Fall 2012 applications
 
-Spark Box Studioâ€™s Artist Residency Program provides live/work space 
+Spark Box Studio’s Artist Residency Program provides live/work space 
 to accommodate both emerging and professional printmakers, 
 photographers, painters, illustrators, curators and writers. Artists-in-
 residence have access to our professional studio and resources. The 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 32
 type: "CALL"
+venue: "Dek Unu Magazine"
 summary: "Dek Unu Magazine | Open Call | APR 20"
 ---
 

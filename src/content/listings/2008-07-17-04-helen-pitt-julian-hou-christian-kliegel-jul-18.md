@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thought terminating clichés and s
 emailDate: "Thu, 17 Jul 2008 09:15:30 -0700"
 number: 4
 type: ""
+venue: "Helen Pitt"
 summary: "Helen Pitt | Julian Hou & Christian Kliegel | JUL 18"
 ---
 

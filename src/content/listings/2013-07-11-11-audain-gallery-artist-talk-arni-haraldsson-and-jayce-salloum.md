@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 11
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Artist Talk: Arni Haraldsson and Jayce Salloum | JUL 18"
 ---
 
@@ -56,7 +57,7 @@ Running from May 9 to August 17, 2013, The Biography of Images: Parallel
 Biographies is the third in a series of group exhibitions based on the
 Austrian Federal Photography Collection, in this case bringing together
 artists from Vienna and Vancouver. The exhibition includes work by the
-Vienna-based artists Thomas Freiler, KrÃ¼ger & Pardeller, Tatiana Lecomte,
+Vienna-based artists Thomas Freiler, Krüger & Pardeller, Tatiana Lecomte,
 Christian Mayer, Sissa Micheli, and Anita Witek, and the Vancouver-based
 artists Arni Haraldsson, Tim Lee, Kyla Mallett, Jayce Salloum, Kevin
 Schmidt, and Elizabeth Zvonar.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 22
 type: "OPENING"
+venue: "The Bakery & Dynamo"
 summary: "The Bakery & Dynamo | Bend Toward the Sun, Bring the Sky Beneath Your... | FEB 19"
 ---
 

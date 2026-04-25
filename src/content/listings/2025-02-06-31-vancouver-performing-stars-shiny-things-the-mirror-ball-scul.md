@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 31
 type: "EVENT"
+venue: "Vancouver Performing Stars"
 summary: "Vancouver Performing Stars | Shiny Things: The Mirror Ball Sculpture Art of Ste | FEB 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 6
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | A BOOK SIGNING with Artist Ann Kipling | AUG 21"
 ---
 

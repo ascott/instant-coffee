@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 32
 type: "OPENING"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Sean Lynch | NOV 22"
 ---
 

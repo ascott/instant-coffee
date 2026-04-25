@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 10
 type: ""
+venue: "Blim"
 summary: "Blim | Blim Monthly Community Market | FEB 26"
 ---
 
@@ -19,13 +20,13 @@ limited to crafts, and there will be a focus on nurturing and promoting
 creative production in our community. We want to appeal to young, old, 
 hip, plain, babies, animals, men, women, everyone.
 We are very excited about this event and what it can contribute to 
-Mount Pleasantâ€™s artistic vitality, and how it can help support and 
+Mount Pleasant’s artistic vitality, and how it can help support and 
 encourage the local creative community.
 February 26 Market will feature:
 Blim 
 Gypsy Wolf
 Open Sesame 
-Farmerâ€™s Daughter 
+Farmer’s Daughter 
 Sassy Vintage 
 Cute Cards 
 Army of Rokosz 

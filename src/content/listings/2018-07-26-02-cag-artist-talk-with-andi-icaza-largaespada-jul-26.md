@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 2
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Artist Talk with Andi Icaza-Largaespada | JUL 26"
 ---
 

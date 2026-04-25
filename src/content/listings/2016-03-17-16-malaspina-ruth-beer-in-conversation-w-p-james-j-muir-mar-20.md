@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 16
 type: "TALK"
+venue: "Malaspina"
 summary: "Malaspina | Ruth Beer, in conversation w/ P. James & J. Muir | MAR 20"
 ---
 

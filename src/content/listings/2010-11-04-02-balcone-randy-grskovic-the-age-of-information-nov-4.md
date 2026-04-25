@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 2
 type: ""
+venue: "Balcone"
 summary: "Balcone | Randy Grskovic, The Age of Information | NOV 4"
 ---
 
@@ -22,7 +23,7 @@ of each work resembles that of Byzantine iconography but they are presented
 and framed in a modern folk fashion. The juxtaposition of images, styles
 and symbols from various genres and periods creates an unsettling and
 provocative narrative that is anachronistic with its references, yet
-somehow relates to the future. The exhibitionÃ¯Â¿Â½s title piece depicts an
+somehow relates to the future. The exhibitionï¿½s title piece depicts an
 Eve-like 1960s era woman with voluminous mascara eating an apple while
 surrounded by exotic snakes from around the world. This body of work
 moralizes contemporary global issues against those of the past.

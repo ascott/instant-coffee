@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "SCA Visual Art Studios"
 summary: "SCA Visual Art Studios | Fleeting Forms // momentary visions | APR 17"
 ---
 

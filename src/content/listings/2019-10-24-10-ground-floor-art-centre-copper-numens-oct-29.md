@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 10
 type: "OPENING"
+venue: "Ground Floor Art Centre"
 summary: "Ground Floor Art Centre | Copper Numens | OCT 29"
 ---
 

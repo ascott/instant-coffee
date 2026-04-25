@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 7
 type: "CALL"
+venue: "Royal College of Physicians and Surgeons"
 summary: "Royal College of Physicians and Surgeons | The Body Electric Call for Submissions | JUL 6"
 ---
 

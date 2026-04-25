@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: they do not always believe the man
 emailDate: "Thu, 26 Jun 2014 16:11:54 -0700"
 number: 16
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | TRANSACTANTS: Agents of Process | JUL 17"
 ---
 

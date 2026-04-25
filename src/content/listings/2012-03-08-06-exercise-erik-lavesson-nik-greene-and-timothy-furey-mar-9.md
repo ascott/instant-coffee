@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 6
 type: ""
+venue: "Exercise"
 summary: "Exercise | ERIK LAVESSON, NIK GREENE AND TIMOTHY FUREY | MAR 9"
 ---
 

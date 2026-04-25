@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 7
 type: "OPENING"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Glass Corner | Vessel(s) through which by Dana Qaddah | 2PM | NOV 7"
 ---
 

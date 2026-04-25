@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 24
 type: ""
+venue: "Rise Up, Fallen Angel"
 summary: "Rise Up, Fallen Angel | nternational Call to Artists | APR 15"
 ---
 
@@ -21,7 +22,7 @@ Full details: http://vix.ca/blog/rise-up-fallen-angel/
 
 About the Location
 The Centre for Performance Research is located in Brooklyn, NY and is
-the singular new development for the performing arts in Brooklynâ€™s
+the singular new development for the performing arts in Brooklyn’s
 first L.E.E.D.-certified green building of its kind. This innovative
 arts facility is an artist driven initiative with an ongoing
 commitment to providing outstanding resources to performing artists in

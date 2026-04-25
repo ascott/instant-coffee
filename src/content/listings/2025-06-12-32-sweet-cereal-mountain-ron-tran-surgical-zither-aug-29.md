@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 32
 type: "EXHIBITION"
+venue: "***Sweet Cereal Mountain***"
 summary: "***Sweet Cereal Mountain*** | Ron Tran 'Surgical Zither' | AUG 29"
 ---
 

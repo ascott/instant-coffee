@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 30
 type: "CALL"
+venue: "Canadian Filmmakers Distribution Centre"
 summary: "Canadian Filmmakers Distribution Centre | rtist Residency: CFMDC + Archive/Counter-Archive | MAR 20"
 ---
 

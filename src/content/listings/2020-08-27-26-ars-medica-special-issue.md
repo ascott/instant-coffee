@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 26
 type: "CALL"
+venue: "Ars Medica"
 summary: "Ars Medica | Special Issue"
 ---
 

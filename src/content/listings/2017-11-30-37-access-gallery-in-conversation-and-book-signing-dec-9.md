@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 37
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | In Conversation and Book Signing | DEC 9"
 ---
 

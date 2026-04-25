@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 36
 type: "TALK"
+venue: "AHVA @ Audain Art Centre"
 summary: "AHVA @ Audain Art Centre | Art History MA & PhD Roundtable Presentations | MAR 18"
 ---
 

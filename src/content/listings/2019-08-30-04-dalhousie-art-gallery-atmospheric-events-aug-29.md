@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Dalhousie Art Gallery"
 summary: "Dalhousie Art Gallery | Atmospheric Events | AUG 29"
 ---
 

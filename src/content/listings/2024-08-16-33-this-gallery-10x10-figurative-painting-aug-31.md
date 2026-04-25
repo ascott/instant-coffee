@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 33
 type: "CALL"
+venue: "THIS Gallery"
 summary: "THIS Gallery | 10x10\" Figurative 'Painting' | AUG 31"
 ---
 

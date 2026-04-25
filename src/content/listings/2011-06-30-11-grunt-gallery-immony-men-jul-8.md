@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 11
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Immony Men | JUL 8"
 ---
 
@@ -32,7 +33,7 @@ Gallery Hours: Tue-Sat 12-5pm
 lasts the run of the exhibition. The performance involves the 
 artist creating a multi-wall, floor-to-ceiling mural of an office 
 space out of post-it-notes. The artist, Immony Men, will spend 
-each day of the exhibition working 9-5 printing out a 360Â° view 
+each day of the exhibition working 9-5 printing out a 360° view 
 of an office one post it note at a time until the main walls of 
 grunt gallery are filled. The artist writes:
 

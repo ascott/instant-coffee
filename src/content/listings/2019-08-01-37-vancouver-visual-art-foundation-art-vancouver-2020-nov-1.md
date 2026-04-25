@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 37
 type: "CALL"
+venue: "Vancouver Visual Art Foundation"
 summary: "Vancouver Visual Art Foundation | Art Vancouver 2020 | NOV 1"
 ---
 

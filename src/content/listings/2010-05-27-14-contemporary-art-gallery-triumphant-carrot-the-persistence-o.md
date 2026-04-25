@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 14
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Triumphant Carrot: The Persistence of Still Life | JUN 3"
 ---
 

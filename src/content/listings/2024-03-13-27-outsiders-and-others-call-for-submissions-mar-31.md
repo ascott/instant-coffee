@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 27
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Call for Submissions | MAR 31"
 ---
 

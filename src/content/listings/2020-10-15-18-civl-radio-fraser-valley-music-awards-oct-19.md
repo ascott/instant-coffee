@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 18
 type: "CALL"
+venue: "CIVL Radio"
 summary: "CIVL Radio | Fraser Valley Music Awards | OCT 19"
 ---
 

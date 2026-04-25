@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 1
 type: "EDUCATION"
+venue: "221A & The Architecture Lobby Toronto"
 summary: "221A & The Architecture Lobby Toronto | Locating Colonial & Racist Spaces in \"Canada\""
 ---
 

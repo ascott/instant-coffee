@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 7
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | Antonia Hirsch | DIALOG II | MAR 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 43
 type: "EXHIBITION"
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | Marin Maji?: roundabout | Until Jun 14 | JUN 14"
 ---
 

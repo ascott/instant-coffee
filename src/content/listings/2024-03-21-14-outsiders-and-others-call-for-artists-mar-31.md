@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 14
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | CALL FOR ARTISTS | MAR 31"
 ---
 

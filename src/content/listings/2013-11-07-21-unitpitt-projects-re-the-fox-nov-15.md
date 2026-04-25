@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 21
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Re: The Fox | NOV 15"
 ---
 
@@ -47,15 +48,15 @@ The ultimate aim of Re: The Fox is to produce as a form of live historical
 bootlegging where authenticity is not a marketable gimmick but a political 
 problem of transmission from one generation to the next.
 
-â€œif you are concerned with trying to reclaim art as an instrument of social and 
+“if you are concerned with trying to reclaim art as an instrument of social and 
 cultural transformation, in exposing the domination of the 
 culture/administrative apparatus as well as art which indolently reflects that 
 apparatus, you are urged to participate in this journal. its editorial thrust is 
 ideological: it aims at a contribution to the wider movement of social 
 criticism/transformation. (our contribution will be on the art front but by no 
-means limited to the fixed context closure of â€˜artâ€™.) we need a broad social 
+means limited to the fixed context closure of ‘art’.) we need a broad social 
 base in positive opposition to the ideological content and social relations 
-reproduced by â€˜officialâ€™ â€˜digitalâ€™ culture. those of you wishing to participate 
+reproduced by ‘official’ ‘digital’ culture. those of you wishing to participate 
 should send correspondence to: the editors, post office box 728. canal street 
 station, new york city, 10013 236 east pender street, vancouver v6a 1t7â€ 
 
@@ -63,13 +64,13 @@ The exhibition is part of Arnaud Desjardin's ABRRR - Artists' Books Research
 Residency in Vancouver, co-produced with the Emily Carr University Library 
 and READ Books. The residency includes a workshop at READ Books, 
 residency activities at the Emily Carr University Library, and the launch of his 
-"Book on Books on Artistsâ€™ Books" at Satellite Gallery.
+"Book on Books on Artists’ Books" at Satellite Gallery.
 
 Arnaud Desjardin is a French artist, curator and publisher currently based in 
 London. He describes his ongoing publication project, The Everyday Press, 
-as a â€œchannel for collaborations with artists, curators, writers and academics 
+as a “channel for collaborations with artists, curators, writers and academics 
 to produce acts of publication to be considered as art works.â€  Having recently 
-published a sourcebook on artistsâ€™ books ("Book on Books on Artistsâ€™ 
+published a sourcebook on artists’ books ("Book on Books on Artists’ 
 Books"), Desjardin is currently developing an online archival project in 
 collaboration with Banner Repeater, an artist led project space in London.
 

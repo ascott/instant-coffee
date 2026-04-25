@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 13
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Sunday Afternoon Tours | JUL 29"
 ---
 

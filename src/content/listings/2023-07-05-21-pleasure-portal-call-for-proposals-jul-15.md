@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 21
 type: "CALL"
+venue: "PLEASURE PORTAL"
 summary: "PLEASURE PORTAL | Call for Proposals | JUL 15"
 ---
 

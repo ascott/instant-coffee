@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: warning: it really is dirty"
 emailDate: "Fri, 26 Sep 2008 00:00:20 -0700"
 number: 21
 type: ""
+venue: "The Banff Centre"
 summary: "The Banff Centre | Curatorial Institute Symposium: Trade Secrets | NOV 12"
 ---
 
@@ -23,11 +24,11 @@ regarding: the education of curators; the challenges facing
 collection-based curators; trends in curatorial research; and the writing
 of curatorial histories.
 
-Invited guests include FranÃ§ois Aubart, Wayne Baerwaldt, Sabine
+Invited guests include François Aubart, Wayne Baerwaldt, Sabine
 Breitwieser, AA Bronson, Heather Diack, Joseph del Pesco, Rosemary Donegan,
 Sam Durant, Barbara Fischer, Richard Flood, Teresa Gleadowe, Matthew Higgs,
-Candice Hopkins, CÃ©line Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
-CuauhtÃ©moc Medina, Lourdes Morales, and Joanna Mytkowska.
+Candice Hopkins, Céline Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
+Cuauhtémoc Medina, Lourdes Morales, and Joanna Mytkowska.
 
 More information
 

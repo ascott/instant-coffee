@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 41
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Roundhouse Arts Centre | Outsider Arts Festival | AUG 9-11TH | AUG 9"
 ---
 

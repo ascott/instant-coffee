@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 3
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Alison Yip | SEP 11"
 ---
 

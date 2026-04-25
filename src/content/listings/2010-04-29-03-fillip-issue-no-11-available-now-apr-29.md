@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 3
 type: ""
+venue: "Fillip"
 summary: "Fillip | Issue No. 11 Available Now | APR 29"
 ---
 

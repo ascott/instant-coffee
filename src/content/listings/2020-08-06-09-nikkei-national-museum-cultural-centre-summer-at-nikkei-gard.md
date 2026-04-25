@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 9
 type: "EVENT"
+venue: "Nikkei National Museum & Cultural Centre"
 summary: "Nikkei National Museum & Cultural Centre | Summer at Nikkei Garden | AUG 7"
 ---
 

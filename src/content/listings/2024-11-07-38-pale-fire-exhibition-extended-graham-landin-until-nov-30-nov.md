@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 38
 type: "EXHIBITION"
+venue: "Pale Fire"
 summary: "Pale Fire | Exhibition Extended: Graham Landin | UNTIL NOV 30 | NOV 30"
 ---
 

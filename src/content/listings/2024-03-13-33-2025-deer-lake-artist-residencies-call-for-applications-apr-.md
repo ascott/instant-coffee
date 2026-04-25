@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 33
 type: "CALL"
+venue: "2025 Deer Lake Artist Residencies"
 summary: "2025 Deer Lake Artist Residencies | Call for Applications | APR 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 39
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | Brody Albert | 2PM | APR 21"
 ---
 

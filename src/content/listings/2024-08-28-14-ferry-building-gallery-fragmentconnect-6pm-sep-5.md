@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 14
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | fragment/connect | 6PM | SEP 5"
 ---
 

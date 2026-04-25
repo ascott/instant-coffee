@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 19
 type: ""
+venue: "ie gallery"
 summary: "ie gallery | Adam Stenhouse, The Sea Collector (closing) | SEP 4"
 ---
 
@@ -20,19 +21,19 @@ The Sea Collector is an going photographic series whereby Vancouver
 based artist, Adam Stenhouse, is attempting to visit each sea described 
 by contemporary maps and literature. 
 
-Influenced by Thomas Joshua Cooperâ€™s ongoing attempts to 
+Influenced by Thomas Joshua Cooper’s ongoing attempts to 
 circumnavigate the Atlantic Ocean, Stenhouse is engaging with the 
 romanticised histories of explorers, their failures and successes, and 
-humanityâ€™s ongoing allure of the sea and its limits. 
+humanity’s ongoing allure of the sea and its limits. 
 
-Taking Susan Sontagâ€™s claim, â€˜to collect photographs is to collect the 
-worldâ€™ very literally, Stenhouse is deliberately embarking upon an 
+Taking Susan Sontag’s claim, ‘to collect photographs is to collect the 
+world’ very literally, Stenhouse is deliberately embarking upon an 
 extensive journey to bear witness to these different seas, recording 
 their individuality, aesthetic vision and geographical personality as well 
 as his own experience of being present beside each sea, and through 
 this laying a claim of ownership over and knowledge of this world. Yet, 
 within this idea there is an undermining of how humans have procured 
-and understood the world they live in; most â€˜seasâ€™ are essentially one 
+and understood the world they live in; most ‘seas’ are essentially one 
 single body of water, the imaginary borders given them and the names 
 attached are a purely human infliction created through our 
 explorations. 

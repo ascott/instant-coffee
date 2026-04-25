@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "The Alternator Centre for Contemporary Art"
 summary: "The Alternator Centre for Contemporary Art | Subtle Emergences - David Kadish | MAR 27"
 ---
 
@@ -26,17 +27,17 @@ The Alternator Centre for Contemporary Art is proud to present Subtle
 Emergences, an interactive Eco Art exhibit by David Kadish.
 
 As a systems design engineer, for Subtle Emergences Kadish harnessed his
-background as web developer and installation designer at UBCâ€™s Eco Art
+background as web developer and installation designer at UBC’s Eco Art
 Incubator. He fuses his art with tech by integrating raw materials like
 beeswax, wool felt and handmade paper with complex technological
 systems.
 
-The central kinetic sculpture and theme of Kadishâ€™s work is the Okanagan
-Sunflower, the indicator of spring in traditional Sylix knowledge. The plantâ€™s
+The central kinetic sculpture and theme of Kadish’s work is the Okanagan
+Sunflower, the indicator of spring in traditional Sylix knowledge. The plant’s
 mathematical layout of seeds provides rich inspiration for cyclic
-arrangements in Kadishâ€™s art.
+arrangements in Kadish’s art.
 
-â€œSubtle Emergences questions how we see and understand ecological
+“Subtle Emergences questions how we see and understand ecological
 complexity in our world,â€  said gallery manager Peter Green. â€œFor me, the
 exhibit inspires a re-enchantment with the natural world.â€ 
 
@@ -44,12 +45,12 @@ The exhibition will be extended into public space with a wood-based
 sculptural installation located between the Rotary Centre for the Arts and the
 Kelowna Art Gallery. Reiterating the complex ecological interconnectedness
 of a sunflower and its environment, this sculpture will react to weather,
-people moving through the grassy space, and the galleryâ€™s indoor
+people moving through the grassy space, and the gallery’s indoor
 sculptures.
 
-â€œDrawing on this eco-tech dichotomy, our monthly Draw by Night event on
+“Drawing on this eco-tech dichotomy, our monthly Draw by Night event on
 April 2nd will be themed inorganic beings,â€  said gallery assistant Megan
-Bowers. The event will coincide with Downtown Kelownaâ€™s initiative to keep
+Bowers. The event will coincide with Downtown Kelowna’s initiative to keep
 Cultural District businesses open late the first Thursday of each month.
 
 The opening reception for Subtle Emergences will be held at The Alternator

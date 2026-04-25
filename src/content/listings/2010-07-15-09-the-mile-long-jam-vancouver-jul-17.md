@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  considers relations to be more in
 emailDate: "Thu, 15 Jul 2010 08:45:46 -0700"
 number: 9
 type: ""
+venue: "The Mile Long Jam : Vancouver"
 summary: "The Mile Long Jam : Vancouver | | JUL 17"
 ---
 

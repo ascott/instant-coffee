@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 2
 type: "EVENT"
+venue: "Open Space [VICTORIA]"
 summary: "Open Space [VICTORIA] | Open Studio Tour | 2PM | OCT 5"
 ---
 

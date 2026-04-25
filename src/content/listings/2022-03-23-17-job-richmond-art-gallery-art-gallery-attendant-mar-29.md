@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | Richmond Art Gallery | Art Gallery Attendant | MAR 29"
 ---
 

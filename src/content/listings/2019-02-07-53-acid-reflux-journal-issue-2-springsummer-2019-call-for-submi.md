@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 53
 type: "CALL"
+venue: "Acid Reflux Journal"
 summary: "Acid Reflux Journal | Issue 2 – Spring/Summer 2019 Call for Submissions | MAR 10"
 ---
 

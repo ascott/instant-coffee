@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 20
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Dream Diary and Ocean Breathing | OCT 30"
 ---
 

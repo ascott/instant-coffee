@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: How Now Is Too Soon"
 emailDate: "Thu, 05 Feb 2009 09:30:10 -0800"
 number: 16
 type: ""
+venue: "Malaspina Printmakers Society"
 summary: "Malaspina Printmakers Society | seeking: EXECUTIVE DIRECTOR | MAR 6"
 ---
 
@@ -24,7 +25,7 @@ Ideal applicants will have:
 
 - Excellent organizational and management skills
 
--Â¢ Advanced writing skills and verbal communication
+-¢ Advanced writing skills and verbal communication
 
 -Superior grant writing capability
 

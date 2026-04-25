@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 13
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Mad Pride campaign | JUL 14"
 ---
 
@@ -38,7 +39,7 @@ matters of mental health affect each and every one of us. With your permission
 we will add you to our Flickr photo group and potentially project your image within 
 a collection around Vancouver. You donâ€™t have to have a â€œmental health issueâ€  or 
 illness to be supporter. Face your own mind, reveal your identity in a display of 
-solidarity and support everyoneâ€™s mental wellness.
+solidarity and support everyone’s mental wellness.
 
 Donating to our Face Your Mind campaign will enable us to support the work of 
 artists who identify with mental health issues and who are participating in our 
@@ -47,7 +48,7 @@ struggling with mental illness and in support of our gallery, as we face the
 challenge of surviving through an increasingly impoverished arts and mental 
 health funding climate. Our presence within these communities is crucial and we 
 cannot continue to produce our exhibitions and programming initiatives without 
-your help. Please give what you can afford, even if itâ€™s just a photo.
+your help. Please give what you can afford, even if it’s just a photo.
 
 HOW TO HELP
 
@@ -56,7 +57,7 @@ giving us your permission to use your image in our Face Your Mind Campaign.
 
 Donations can be made through Pay Pal via credit card, through our website, 
 www.gachet.org, or by check or cash at our location at 88 East Cordova Street. 
-Please call 604 687 2468 and let us know you wish to donate to our â€œFace Your 
+Please call 604 687 2468 and let us know you wish to donate to our “Face Your 
 Mind Campaignâ€ .
 
 We thank you for your support and contributions.
@@ -75,7 +76,7 @@ Exhibition runs: July 8th - 31st
 featuring the work of Collective and Volunteer Members
 Fri July 8th: 6 - 8pm, Opening Un-reception
 8 - 10pm, Stand Up for Mental Health Comedy Night
-Thurs July 14th: 8pm - late, Mad Poetsâ€™ Anti-cabaret sponsored by the West 
+Thurs July 14th: 8pm - late, Mad Poets’ Anti-cabaret sponsored by the West 
 Coast Mental Health Network
 Fri July 22nd: 7 - 10pm, Stand Up for Mental Health Comedy Night
 Sat July 23rd: 2 - 4pm, RE: Beauty, special workshop with Isabella Mori
@@ -89,10 +90,10 @@ economic justice, Gallery Gachet embraces Mad Pride as a unique vantage
 point from which to address current issues in an alternative framework: that of 
 cultural and global mental health.
 
-This yearâ€™s programming theme embraces and jostles with ideas 
+This year’s programming theme embraces and jostles with ideas 
 around â€œmodes of recoveryâ€ . The gallery is facing major financial cut backs this 
 year and with practically no money to run programming, we are responding in 
-our usual mad and crazy way â€“ with a non-exhibit, anti-cabaret and comedy for 
+our usual mad and crazy way – with a non-exhibit, anti-cabaret and comedy for 
 our Mad Pride celebrations. We are defying the usual parameters and breaking 
 new ground in the face of â€œzero dollars.â€ 
 
@@ -126,7 +127,7 @@ rather than succumb to crisis. We aim to create what theorist Hakim Bey calls
 a â€œTemporary Autonomous Zoneâ€  facing these issues head-on.
 
 Our objective is to reach out to the global mental health community, especially in 
-B.C. In a quest to gain support, weâ€™ll call out to people to face their own mental 
+B.C. In a quest to gain support, we’ll call out to people to face their own mental 
 health and give us a photo of themselves in their support of our Mad Pride 
 initiative. We activate this Face Your Mind photo campaign during the month of 
 July and create a photo gallery on one wall that will grow during the duration of 

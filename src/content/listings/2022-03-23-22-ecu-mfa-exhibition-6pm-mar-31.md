@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 22
 type: "OPENING"
+venue: "ECU"
 summary: "ECU | MFA Exhibition | 6PM | MAR 31"
 ---
 

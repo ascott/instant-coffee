@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 4
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Ive Plumbed The Depths Of This Whole Zone | JAN 26"
 ---
 
@@ -16,24 +17,24 @@ January 28th - Febuaury 11th
 Opening Reception January 26th 7-11pm
 Shudder Gallery 
 
-â€œFirst there was the collapse of civilization, anarchy, genocide, 
-starvation. Then when it seemed things couldnâ€™t get any worse, we got 
+“First there was the collapse of civilization, anarchy, genocide, 
+starvation. Then when it seemed things couldn’t get any worse, we got 
 the plague. The living death. Quickly closing its fist over the entire 
 planet. Then we heard the rumors. That the last scientists were working 
 on a cure that would end the plague and restore the world. Restore 
-itâ€¦â€¦WHY? I like the death. I like the misery. I LIKE THIS 
+it……WHY? I like the death. I like the misery. I LIKE THIS 
 WOOOORRRRLLLLLLLLDDDD!!!!!â€  - Cyborg (1989 dir. Albert Pyun)
 
 It is with the eyes that the mutants have witnessed the most atrocities 
 therefore it is with these drawings that we commit upon the mutant an 
 act of ocular defenestration. The eyes must always be the first to go.
 
-Iâ€™ve Plumbed the Depths of this Whole Zone is a group exhibition 
+I’ve Plumbed the Depths of this Whole Zone is a group exhibition 
 featuring Jeff Halladay, Lee Henderson, Michelle Jukic, and Shay 
-Semple. Weâ€™re done with any sort of lengthy exegesis regarding the 
-meaning and purpose of our art. Weâ€™ve been down that toilet before 
-and itâ€™s boring. This show represents the last remaining vestiges of our 
-mutant community that hasnâ€™t packed up and vacated the sewer system 
+Semple. We’re done with any sort of lengthy exegesis regarding the 
+meaning and purpose of our art. We’ve been down that toilet before 
+and it’s boring. This show represents the last remaining vestiges of our 
+mutant community that hasn’t packed up and vacated the sewer system 
 known as Vancouver for more saxophone oriented cities like New York. 
 We have stayed, in the sub-basements and the abandoned tenements. 
 Studying, slowly growing in power, becoming victims of our erudition. 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "Western Gallery (Bellingham)"
 summary: "Western Gallery (Bellingham) | Primary Research Lab curated by Lee Plested | JUN 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 19
 type: "EDUCATION"
+venue: "Peripheral Review & VPBF"
 summary: "Peripheral Review & VPBF | The Art in the Written Review Workshop | APR 20"
 ---
 

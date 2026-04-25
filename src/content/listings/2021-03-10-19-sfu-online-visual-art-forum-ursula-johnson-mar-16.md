@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 19
 type: "TALK"
+venue: "SFU [ONLINE]"
 summary: "SFU [ONLINE] | Visual Art Forum: Ursula Johnson | MAR 16"
 ---
 

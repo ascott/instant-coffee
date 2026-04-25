@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 24
 type: "EXHIBITION"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | A Future for Memory | FEB 11"
 ---
 

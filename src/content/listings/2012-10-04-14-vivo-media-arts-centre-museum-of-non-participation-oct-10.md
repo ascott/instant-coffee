@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 14
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Museum of Non Participation | OCT 10"
 ---
 
@@ -20,8 +21,8 @@ What Will The Next Revolution Look Like? (Performance)  with Raymond
 Boisjoly, Coupe L'etat, Sebnem Ozpeta, Emilio Rojas and Jeremy Todd 
 A generative performance that tells the story of the Museum's emergence. 
 Mirza/Butler will stage a conversation between their experiences in London, 
-Karachi, Mumbai and Cairo, and VIVOâ€™s community and our experiences in 
-Vancouver. The performance creates an agoraâ€“a space to raise such 
+Karachi, Mumbai and Cairo, and VIVO’s community and our experiences in 
+Vancouver. The performance creates an agora–a space to raise such 
 questions as: What position do you take? When do you participate and when 
 do you abstain? What is your stake in artist-run culture? Are you running your 
 culture? Is it a culture or a museum?
@@ -56,25 +57,25 @@ historical figures.
 Mirza and Butler propose the museum as a conceptual (geo)political 
 construct of gesture, image, and thresholds of language. The Museum of Non 
 Participation was conceived during the Pakistani Lawyers movement in 
-Islamabad â€“ protests Mirza and Butler witnessed through the windows of the 
-National Art Gallery â€“ and developed over an eighteen-month period. As part 
+Islamabad – protests Mirza and Butler witnessed through the windows of the 
+National Art Gallery – and developed over an eighteen-month period. As part 
 of the project, the artists have worked with street vendors, Urdu translators, 
 architects, estate agents, housing activists, lawyers, hairdressers, 
 filmmakers, wedding photographers, newspaper printers, artists, and writers 
 to create spaces for dialogue and exchange. The Museum of Non 
 Participation first appeared as an English/Urdu language class in September 
 2008, traveling from the Oxford House community centre in Bethnal Green to 
-a space behind Yaseenâ€™s Hairdressers on the Bethnal Green Road, and then 
+a space behind Yaseen’s Hairdressers on the Bethnal Green Road, and then 
 to a public performance at the Guernica room in the Whitechapel Gallery. The 
 project has variously taken the form of film, an Urdu/English language 
 exchange, street interventions, a radio show, and performances. Mirza and 
-Butlerâ€™s practice is based on collaboration and dialogue and manifests itself in 
+Butler’s practice is based on collaboration and dialogue and manifests itself in 
 a multi-layered practice of filmmaking, drawing, installation, photography, 
 performance, publishing, and curating. Their work is engaged with challenging 
 and interrogating terms such as participation, collaboration, the social turn as 
 well as the traditional roles of the artist as producer and the audience as 
 recipient, positing the project as a future model for a nomadic, flexible, and 
-adaptable â€œmuseum." They have worked together since 1998, and in 2004 
+adaptable “museum." They have worked together since 1998, and in 2004 
 formed no.w.here, an artist-run space in London, UK for the production, 
 discussion and dissemination of practices engaged with the moving image, 
 politics, technology and aesthetics. (mirza-butler.net)

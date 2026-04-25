@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 4
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Writers Reading the City | MAR 8"
 ---
 

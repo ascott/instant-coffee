@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 18
 type: "TALK"
+venue: "SFU"
 summary: "SFU | Why Art Matters | Art, SFU and Aboriginal Reconciliation | MAR 29"
 ---
 

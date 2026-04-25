@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 25
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | SHEILA | MAR 8"
 ---
 

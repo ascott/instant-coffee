@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffeed"
 emailDate: "Thu, 07 Feb 2008 09:20:25 -0800"
 number: 8
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Janet Cardiff + Open Sound"
 ---
 

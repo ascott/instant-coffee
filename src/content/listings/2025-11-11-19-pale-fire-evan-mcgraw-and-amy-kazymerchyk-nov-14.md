@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 19
 type: "TALK"
+venue: "Pale Fire"
 summary: "Pale Fire | Evan McGraw and Amy Kazymerchyk | NOV 14"
 ---
 

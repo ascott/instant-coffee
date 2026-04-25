@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 24
 type: "EXHIBITION"
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Jack Kenna Vessels for something else | OCT 18"
 ---
 

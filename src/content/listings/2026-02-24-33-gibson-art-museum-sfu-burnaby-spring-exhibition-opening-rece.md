@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 33
 type: "OPENING"
+venue: "Gibson Art Museum [SFU, Burnaby]"
 summary: "Gibson Art Museum [SFU, Burnaby] | Spring Exhibition Opening Reception | 2PM | MAR 7"
 ---
 

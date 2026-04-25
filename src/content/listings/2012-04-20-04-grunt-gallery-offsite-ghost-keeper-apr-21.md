@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 4
 type: ""
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Offsite | Ghost Keeper | APR 21"
 ---
 

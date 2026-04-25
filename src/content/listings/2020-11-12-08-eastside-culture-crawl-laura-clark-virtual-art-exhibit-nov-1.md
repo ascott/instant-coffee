@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 8
 type: "EXHIBITION"
+venue: "Eastside Culture Crawl"
 summary: "Eastside Culture Crawl | Laura Clark Virtual Art Exhibit | NOV 12"
 ---
 

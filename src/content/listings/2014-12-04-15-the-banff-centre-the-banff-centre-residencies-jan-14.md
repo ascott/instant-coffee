@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 15
 type: "CALL"
+venue: "The Banff Centre"
 summary: "The Banff Centre | The Banff Centre Residencies | JAN 14"
 ---
 
@@ -41,7 +42,7 @@ Program dates: April 27, 2015-May 15, 2015
 Application deadline: January 14, 2015
 
 The Banff International Curatorial Institute's Critical Art Writing
-Ensemble will explore art writing as an aspect of literature â€“ exhibition
+Ensemble will explore art writing as an aspect of literature – exhibition
 catalogues can expand into short novels and stories; reviews into haikus
 and soliloquies that can transcend the ephemerality of quotidian journalism.
 http://http://www.banffcentre.ca/programs/program.aspx?id

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 14
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Laura Lamb | APR 5"
 ---
 

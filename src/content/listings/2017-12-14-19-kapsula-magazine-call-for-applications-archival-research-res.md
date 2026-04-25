@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 19
 type: "CALL"
+venue: "KAPSULA Magazine"
 summary: "KAPSULA Magazine | Call for Applications: Archival Research Residency | JAN 22"
 ---
 

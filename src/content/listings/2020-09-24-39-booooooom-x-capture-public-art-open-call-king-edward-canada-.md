@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 39
 type: "CALL"
+venue: "Booooooom x Capture"
 summary: "Booooooom x Capture | Public Art Open Call | King Edward Canada Line | OCT 26"
 ---
 

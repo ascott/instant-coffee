@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 16
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Greg Girard - Selects | AUG 15"
 ---
 
@@ -32,8 +33,8 @@ earlier works, showing together images of the changing city.
 
 Greg Girard's works have been featured in National Geographic, TIME,
 Newsweek, The New Yorker, The National Post, The Star, and numerous
-other publications. Several books on Girardâ€™s work have been
-published, including Magentaâ€™s Phantom Shanghai, now in itâ€™s 3rd
+other publications. Several books on Girard’s work have been
+published, including Magenta’s Phantom Shanghai, now in it’s 3rd
 edition of printing and listed as one of the top 10 photography books
 of all time by The Independent, (UK). Most recently, Girard's work has
 been shown at the Richmond Art Gallery (Richmond, BC), the

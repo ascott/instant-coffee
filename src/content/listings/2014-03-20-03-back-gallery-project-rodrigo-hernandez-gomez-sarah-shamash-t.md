@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 3
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Rodrigo Hernandez-Gomez | Sarah Shamash | Tonel | MAR 21"
 ---
 

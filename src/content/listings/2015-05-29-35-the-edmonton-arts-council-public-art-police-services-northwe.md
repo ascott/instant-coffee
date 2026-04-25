@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 35
 type: "CALL"
+venue: "The Edmonton Arts Council"
 summary: "The Edmonton Arts Council | public art Police Services Northwest Campus | JUL 7"
 ---
 
@@ -41,7 +42,7 @@ Women Studio at 1000 Parker Street.
 Enjoy a comfortable shared space with lots of natural light!
 Rent is $210/month, one-month damage deposit required.
 
-NOTE: This space is best suited to an artist who doesnâ€™t need to use much
+NOTE: This space is best suited to an artist who doesn’t need to use much
 wall space, either for working or for displaying their work.
 
 If interested contact herdofwomen@gmail.com

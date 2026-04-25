@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 6
 type: "OPENING"
+venue: "Model"
 summary: "Model | Piano Bar - Nathalee Paolinelli | FEB 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thought terminating clichés and s
 emailDate: "Thu, 17 Jul 2008 09:15:30 -0700"
 number: 13
 type: ""
+venue: "Canada Council"
 summary: "Canada Council | John Hobday Awards Arts Management | deadline | SEP 30"
 ---
 

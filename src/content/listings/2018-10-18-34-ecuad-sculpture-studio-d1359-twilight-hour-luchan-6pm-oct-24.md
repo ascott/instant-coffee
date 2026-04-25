@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 34
 type: "TALK"
+venue: "ECUAD - Sculpture Studio D1359"
 summary: "ECUAD - Sculpture Studio D1359 | Twilight Hour - LuChan | 6PM | OCT 24"
 ---
 

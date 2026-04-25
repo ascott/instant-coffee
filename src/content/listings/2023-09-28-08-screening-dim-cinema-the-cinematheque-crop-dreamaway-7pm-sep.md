@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema @ The Cinematheque | CROP + Dreamaway | 7PM | SEP 27"
 ---
 

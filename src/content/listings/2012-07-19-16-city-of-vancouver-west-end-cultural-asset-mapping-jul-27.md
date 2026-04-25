@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 16
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | West End: Cultural Asset Mapping | JUL 27"
 ---
 

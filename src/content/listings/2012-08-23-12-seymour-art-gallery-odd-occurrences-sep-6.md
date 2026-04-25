@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 12
 type: ""
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | Odd Occurrences | SEP 6"
 ---
 
@@ -29,7 +30,7 @@ gone by people were familiar with stories told through the spoken and
 written word and pictures because they usually depicted events from 
 religious life, history, and traditions or communicated prevailing myths 
 and legends. Today, however, in our pluralistic, postmodern society, we 
-cannot simply assume commonalities of experienceâ€”there is no single 
+cannot simply assume commonalities of experience—there is no single 
 narrative. Instead, the artists in Odd Occurrences offer a rich mixture of 
 fabricated narratives derived from personal experience, cultural origins, 
 current events, dreams, myths, and folk-tales. Telling their tales with 
@@ -39,19 +40,19 @@ of found and newly invented imagery. These open-ended, nonlinear
 narratives, often stories suggested but not fully realized, allow for 
 multiple levels of viewer interpretation.
 
-Kristin Bjornerudâ€™s watercolours derive from personal narratives, 
+Kristin Bjornerud’s watercolours derive from personal narratives, 
 memories, and dreams often inspired by folk tales and magic realism. 
 Her female protagonists engage in acts of labour, struggles, and 
 ritualistic behaviour in invented landscapes or undefined dream-like 
 spaces.
 
-Tamara Bondâ€™s new mixed media works on canvas and paper combine 
+Tamara Bond’s new mixed media works on canvas and paper combine 
 a colourful and dizzying array of characters and narratives in magical 
 worlds based on real events and experiences, dreams, and myths. 
 Balancing beauty and darkness, her drawings are filled with hybrid 
 creatures, scale distortions, and fantasy landscapes.
 
-Tomoyo Ihayaâ€™s mixed media images stem from her extended visits to a 
+Tomoyo Ihaya’s mixed media images stem from her extended visits to a 
 remote region in northern India where the residents carry on their lives 
 with rudimentary amenities, cooking over fire pits without running water 
 and electricity. Informed by her practice of Tibetan Buddism, she 

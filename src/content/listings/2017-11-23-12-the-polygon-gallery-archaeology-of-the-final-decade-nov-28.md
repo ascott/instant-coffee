@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 12
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Archaeology of the Final Decade | NOV 28"
 ---
 

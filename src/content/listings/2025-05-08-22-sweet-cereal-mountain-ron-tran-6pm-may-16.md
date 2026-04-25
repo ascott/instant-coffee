@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 22
 type: "OPENING"
+venue: "Sweet Cereal Mountain"
 summary: "Sweet Cereal Mountain | Ron Tran | 6PM | MAY 16"
 ---
 

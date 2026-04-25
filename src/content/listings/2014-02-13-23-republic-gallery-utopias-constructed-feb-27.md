@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 23
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | Utopias Constructed | FEB 27"
 ---
 
@@ -25,7 +26,7 @@ assemblage of private and public structures, and as an ideology: a
 concentrated and dynamic interaction of social, cultural, and economic 
 forces. The works presented in the exhibition deal with this interaction in 
 disparate ways. Akhavan disrupts the idea of the utopic by juxtaposing 
-images of Iraqi voters displaying their ink-stained fingertips with his workâ€™s 
+images of Iraqi voters displaying their ink-stained fingertips with his work’s 
 title, And After and After, suggesting the anxiety of an unknowable future in 
 Iraq following the American invasion. Hirsch questions our use of everyday 
 viewing technologies that revoke the real in favour of the image, asking 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 34
 type: ""
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Juan Cisneros Neumann | MAR 3"
 ---
 

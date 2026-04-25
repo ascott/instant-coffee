@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 24
 type: ""
+venue: "UBC"
 summary: "UBC | CACV Eco-Arts Salon | APR 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 21
 type: "EVENT"
+venue: "The Cinematheque + ECU"
 summary: "The Cinematheque + ECU | K8 Hardy | JAN 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 15
 type: ""
+venue: "Positive Negative Gallery"
 summary: "Positive Negative Gallery | Brent Clowater | FEB 14"
 ---
 
@@ -23,7 +24,7 @@ Often mixing his colours in pools of water on the paintings surface, he
 allows semi-transparent rivers of pigment to flood into the shadows 
 and stretch into the light. Referencing his surroundings and often en 
 plein air, Brent begins his paintings with lively, gestural drawings that 
-are unique in style. His final workâ€™s depict scenes which are colourful 
+are unique in style. His final work’s depict scenes which are colourful 
 and whimsical, yet detailed and full of life.
 
 The show opens on Thursday, February 14, and runs until March 1. 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 44
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Public Art & Urban Infrastructure Artist Roster | MAR 21"
 ---
 

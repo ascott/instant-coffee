@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 2
 type: "OPENING"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Mitch Speed | Permanent Head | SEP 12"
 ---
 

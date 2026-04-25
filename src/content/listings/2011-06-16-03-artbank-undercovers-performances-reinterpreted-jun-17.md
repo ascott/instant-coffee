@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 3
 type: ""
+venue: "ArtBank"
 summary: "ArtBank | UNDERCOVERS: Performances Reinterpreted | JUN 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 22
 type: "TALK"
+venue: "Richmond Art Gallery [ONLINE]"
 summary: "Richmond Art Gallery [ONLINE] | Webinar with Amy Stewart | 7PM | OCT 27"
 ---
 

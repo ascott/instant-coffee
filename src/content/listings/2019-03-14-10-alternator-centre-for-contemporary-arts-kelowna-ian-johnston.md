@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 10
 type: "OPENING"
+venue: "Alternator Centre for Contemporary Arts (Kelowna)"
 summary: "Alternator Centre for Contemporary Arts (Kelowna) | Ian Johnston | Fine Line: Check Check | 6pm | MAR 15"
 ---
 

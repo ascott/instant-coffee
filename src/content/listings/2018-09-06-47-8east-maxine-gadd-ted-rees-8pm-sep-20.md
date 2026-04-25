@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 47
 type: "EVENT"
+venue: "8EAST"
 summary: "8EAST | MAXINE GADD | TED REES | 8PM | SEP 20"
 ---
 

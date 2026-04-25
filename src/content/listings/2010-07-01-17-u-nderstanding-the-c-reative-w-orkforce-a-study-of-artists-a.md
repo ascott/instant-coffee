@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 17
 type: ""
+venue: "U NDERSTANDING THE C REATIVE W ORKFORCE"
 summary: "U NDERSTANDING THE C REATIVE W ORKFORCE | A STUDY OF ARTISTS AND ARTS PRACTICE | JUL 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 27
 type: "EVENT"
+venue: "Burnaby Arts Council - Deer Lake Park"
 summary: "Burnaby Arts Council - Deer Lake Park | 4th Annual Summer Arts Festival | 10AM-5PM | JUL 7"
 ---
 

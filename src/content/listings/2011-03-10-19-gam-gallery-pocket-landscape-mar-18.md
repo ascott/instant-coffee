@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 19
 type: ""
+venue: "Gam Gallery"
 summary: "Gam Gallery | Pocket Landscape | MAR 18"
 ---
 
@@ -11,9 +12,9 @@ Pocket Landscape | March 18th - April 5th, 2011 | Opening Reception: March
 18th, 2011
 
 Please join us at The Gam Gallery on Friday, March 18th from 6:30pm to
-10:30pm for the opening reception of the group exhibition, â€˜Pocket Landscapeâ€™.
+10:30pm for the opening reception of the group exhibition, ‘Pocket Landscape’.
 
-â€˜The exhibition is an inquiry into the particulars of a pocket of landscape
+‘The exhibition is an inquiry into the particulars of a pocket of landscape
 definitive of place. We consider landscape to be better understood by
 moving through it slowly and gathering detailed information. We are
 interested in observing spaces and places by travelling through them while
@@ -25,7 +26,7 @@ move over it and flatten certain blades.
 We are interested in a mimetic response to landscape in pockets, landscape
 found in our pockets, pocket sized landscape, pockets of landscapes or
 landscape that could fit in our pocket. Each artist will use a suitable
-medium to develop their inquiry.â€™
+medium to develop their inquiry.’
 
 Artists:
 Jo Peters

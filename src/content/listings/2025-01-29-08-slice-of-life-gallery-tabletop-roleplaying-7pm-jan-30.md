@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 8
 type: "EVENT"
+venue: "SLICE OF LIFE GALLERY"
 summary: "SLICE OF LIFE GALLERY | TABLETOP ROLEPLAYING | 7PM | JAN 30"
 ---
 

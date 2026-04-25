@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 24
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in Mandarin | 3PM | MAR 21"
 ---
 

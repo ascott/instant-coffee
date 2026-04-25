@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 38
 type: ""
+venue: "switch"
 summary: "switch | call to artists | DEC 7"
 ---
 
@@ -13,7 +14,7 @@ CALL FOR ENTRIES
 
 switch is now issuing an open call to artists working with film, lens 
 based work and moving image 
-to submit work responding to the theme of â€˜movementsâ€™
+to submit work responding to the theme of ‘movements’
 
 switch is an event that promotes and shows contemporary works of 
 moving image in a public context. 

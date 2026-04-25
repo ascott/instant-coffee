@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 5
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | Aaron Carter | JAN 23"
 ---
 

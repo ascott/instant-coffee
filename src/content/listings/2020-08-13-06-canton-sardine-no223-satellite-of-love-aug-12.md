@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Canton-sardine"
 summary: "Canton-sardine | No.223: Satellite of Love | AUG 12"
 ---
 

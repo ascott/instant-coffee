@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 37
 type: "PERFORMANCE"
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | Sloth Canon | JUN 5-7 | JUN 5"
 ---
 

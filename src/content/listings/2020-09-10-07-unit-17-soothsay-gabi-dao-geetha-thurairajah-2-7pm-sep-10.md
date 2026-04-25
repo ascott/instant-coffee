@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 7
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | soothsay | Gabi Dao & geetha thurairajah | 2-7PM | SEP 10"
 ---
 

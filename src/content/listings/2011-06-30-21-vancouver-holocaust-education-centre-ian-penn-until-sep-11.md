@@ -4,29 +4,30 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 21
 type: ""
+venue: "Vancouver Holocaust Education Centre"
 summary: "Vancouver Holocaust Education Centre | Ian Penn | until | SEP 11"
 ---
 
 Ian Penn
 Projections: A Monument to Personal Memory
 
-June 30 â€“ September 16, 2011
+June 30 – September 16, 2011
 Opening Reception: Wednesday, June 29, 7-9pm
 
 The Vancouver Holocaust Education Centre proudly presents 
 the first solo exhibition of Vancouver-based artist Ian Penn. 
 In "Projections: A Monument to Personal Memory," Penn 
-explores memory and post-memory â€“ the Second Generationâ€™s 
-relationship to the Holocaust â€“ through drawing, video, 
+explores memory and post-memory – the Second Generation’s 
+relationship to the Holocaust – through drawing, video, 
 photography and sculpture. Portraits of elderly women 
 composed of drawings overlaid with video testimony consider 
 how individuals affected by traumatic events project their past 
 in the present. A companion piece composed of family 
 photographs transformed with wax from melted Shabbat 
 candles addresses the complexity of heritage, ritual and 
-remembrance. Pennâ€™s monument â€“ consisting of two distinct 
+remembrance. Penn’s monument – consisting of two distinct 
 but interrelated installations, the surrounding space punctured 
-by sculptures of parchment paper â€“ suggests a mode of 
+by sculptures of parchment paper – suggests a mode of 
 exhibition and commemoration in which the historical and 
 archival, as well as the personal and familial, are essential for 
 understanding.
@@ -64,17 +65,17 @@ Introducing the Art Wheelers - Bicycle Led Tours of Vancouver's
 Public Art
 
 In partnership with the Vancouver Area Cycling Coalition and 
-with support from the City of Vancouverâ€™s 125th Anniversary 
-Grants Program, the Art Wheelers will tour Vancouverâ€™s vibrant 
+with support from the City of Vancouver’s 125th Anniversary 
+Grants Program, the Art Wheelers will tour Vancouver’s vibrant 
 displays of public art and dedicated bike lanes in July and 
 August 2011. An arts professional and qualified cycling guide 
 will lead each tour.
 
 Two different tours and themes will be available to the public, 
 aged twelve and up. Each tour tells a unique story about 
-Vancouverâ€™s identity and history through its public art. The 
+Vancouver’s identity and history through its public art. The 
 changing bike routes offer the opportunity to explore the city in 
-new and exciting ways, while learning about the cityâ€™s Public 
+new and exciting ways, while learning about the city’s Public 
 Art program and the international and local artists they have 
 engaged.
 
@@ -87,7 +88,7 @@ cost $5-10 (sliding scale) and registration is required online
 (www.artwheelers.com).
 
 Proceeds will go towards the Art Wheelers community 
-partnership with The KidSafe Projectâ€™s Young Leaders Program 
+partnership with The KidSafe Project’s Young Leaders Program 
 (YLP). The Art Wheelers will offer free, bicycled led tours of 
 public art to participants of the YLP. The YLP is a summer 
 program for boys and girls in Grades 6 and 7 who live in 
@@ -96,11 +97,11 @@ elementary schools will participate in the tours.
 
 Art Wheelers Public Tour Dates are:
 
-1 â€“ 3 pm on Saturdays:
+1 – 3 pm on Saturdays:
 
 July 2, July 16, August 6, August 20
 
-6 â€“ 8 pm on Wednesdays:
+6 – 8 pm on Wednesdays:
 
 July 6, July 20, August 3, August 17
 
@@ -110,7 +111,7 @@ artwheelers@gmail.com
 -- 
 Art Wheelers: Bicycle Led Public Art Tours
 In partnership with the Vancouver Area Cycling Coalition, with 
-support from the City of Vancouverâ€™s 125th Anniversary Grants 
+support from the City of Vancouver’s 125th Anniversary Grants 
 Program
 
 Rosemary Marland Lennox and Carol-Ann Ryan

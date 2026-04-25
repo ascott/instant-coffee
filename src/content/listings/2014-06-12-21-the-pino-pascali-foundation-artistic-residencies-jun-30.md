@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 21
 type: ""
+venue: "The Pino Pascali Foundation"
 summary: "The Pino Pascali Foundation | artistic residencies | JUN 30"
 ---
 
@@ -13,7 +14,7 @@ edition of the international competition Movingart&Openspace for artistic
 residencies with offices in Puglia. The competition is inserted in the action 
 "Simultaneously" in the context of multi-year project SAC "Mari tra le Mura: Nel 
 Blu dipinto di Puglia", funded by Puglia Region in the PO FESR PUGLIA 2007-13 
-Asse IV â€œPromotion of natural resources and cultural attractiveness and 
+Asse IV “Promotion of natural resources and cultural attractiveness and 
 development". The competition is realized with the title and the technical 
 assistance of the Pino Pascali Foundation Museum of Contemporary Art
 The residences will be held in the prestigious location set within the historical 

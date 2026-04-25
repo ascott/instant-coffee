@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking a turn for the better"
 emailDate: "Thu, 06 May 2010 10:39:18 -0700"
 number: 12
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Conversation: David Metzer and Fred Wah | MAY 12"
 ---
 

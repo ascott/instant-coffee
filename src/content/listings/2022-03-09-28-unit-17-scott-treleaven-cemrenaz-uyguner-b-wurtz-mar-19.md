@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 28
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Scott Treleaven, Cemrenaz Uyguner & B. Wurtz | MAR 19"
 ---
 

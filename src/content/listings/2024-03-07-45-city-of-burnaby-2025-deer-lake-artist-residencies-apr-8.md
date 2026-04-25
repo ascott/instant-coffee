@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 45
 type: ""
+venue: "City of Burnaby"
 summary: "City of Burnaby | 2025 Deer Lake Artist Residencies | APR 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 16
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | WORKSHOP | Free Youth Mentorship: Queer Happenings | OCT 9"
 ---
 

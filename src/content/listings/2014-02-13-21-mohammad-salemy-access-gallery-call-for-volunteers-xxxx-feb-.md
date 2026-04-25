@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 21
 type: ""
+venue: "Mohammad Salemy/ Access Gallery"
 summary: "Mohammad Salemy/ Access Gallery | call for volunteers | XXXX | FEB 24"
 ---
 
@@ -28,7 +29,7 @@ project towards the construction of the system. The contributions will be
 organized in a navigational system, enabling users to interact with individual 
 participants or look for common themes and methods that unite or separate a 
 multiplicity of practices. The online system will establish interconnections 
-between the participantsâ€™ contributions, transforming an individually 
+between the participants’ contributions, transforming an individually 
 generated form of knowledge into a collective one. By offering an integrated 
 interface that weaves together search results from within the system and 
 specific targeted information available elsewhere on the Internet, the project 
@@ -40,7 +41,7 @@ As a volunteer, you will be involved in one or more of the following:
 - Describing and organizing the digital contributions of the artists, 
 scientists and scholars who have been invited to participate in the project.
 
-- Contributing to the development of the systemâ€™s design by testing and 
+- Contributing to the development of the system’s design by testing and 
 using its built features.
 
 - Using various editing software to prepare digital files for inclusion in the 
@@ -74,8 +75,8 @@ technologies and archiving standards used in leading libraries and collections.
 - Learn about organizing and holding academic and public education 
 program events.
 
-The volunteersâ€™ work schedule is flexible and participants in the volunteer 
-program can chose how much time theyâ€™d like to dedicate to the project. 
+The volunteers’ work schedule is flexible and participants in the volunteer 
+program can chose how much time they’d like to dedicate to the project. 
 Except the initial training, occasional meetings, and the two-day conference 
 (March 7-8, 2014) the majority of the volunteer work will be completed on any 
 computer that can connect to the Internet. The time frame for the volunteer 

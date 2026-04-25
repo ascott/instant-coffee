@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 9
 type: ""
+venue: "ONMAIN"
 summary: "ONMAIN | MAYDAY! MAYDAY! MAYDAY! | MAY 16"
 ---
 
@@ -22,7 +23,7 @@ arrive/depart and stand/walk past these info screens daily. Slash Forward
 is repeated every 2 minutes, 24/7.
 
 Derived from the forward-slash, Slash Forward is the third stage in what
-began as a concretist device on Turnerâ€™s blog http://mtwebsit.blogspot.com/
+began as a concretist device on Turner’s blog http://mtwebsit.blogspot.com/
 and was later adapted to 140 slashes in the Twitter-driven Digital Natives
 LED billboard presentation on the Burrard Street Bridge
 http://digitalnatives.othersights.ca/tag/vancouver/. Is Slash Forward a
@@ -36,7 +37,7 @@ doorway these forward-slashes stand in for has become a recurring motif in
 his work, one that reminds us to always â€œmind the gap.â€ 
 
 Michael Turner is an award-winning writer of fiction, criticism and song.
-His books include Hard Core Logo, The Pornographerâ€™s Poem and 8x10. He is
+His books include Hard Core Logo, The Pornographer’s Poem and 8x10. He is
 also the co-author of Fred Herzog: Vancouver Photographs.
 
 10 Seconds is curated by Paul Wong and presented by On Main in partnership

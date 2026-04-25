@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 42
 type: "OPENING"
+venue: "164 W 6th Ave, Vancouver"
 summary: "164 W 6th Ave, Vancouver | Seen Through Coal | APR 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 11
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Fox Cabaret | Wolf Eyes Live | AUG 9"
 ---
 

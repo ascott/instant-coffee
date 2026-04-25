@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 18
 type: ""
+venue: "The Pigeon's Club"
 summary: "The Pigeon's Club | ATSA | | MAY 20"
 ---
 
@@ -62,7 +63,7 @@ coming together: the ALL INCLUDED.
 Founded in 1998 by artists Pierre Allard and Annie Roy, ATSA creates urban
 interventions in response to current issues of concern to them. ATSA is the
 recipient of the Pratt & WhitneyNature de l'art prize from the Conseil des
-Arts de MontrÃ©al, the Citoyen de la Culture 2008 prize from Arts et la
-Ville for Ã‰tat d'Urgence, and the Artistes pour la Paix 2008 prize.
+Arts de Montréal, the Citoyen de la Culture 2008 prize from Arts et la
+Ville for État d'Urgence, and the Artistes pour la Paix 2008 prize.
 
 Source: Annie Roy, 514-581-5457 info@atsa.qc.ca www.atsa.qc.ca

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 58
 type: "EDUCATION"
+venue: "North Van Arts"
 summary: "North Van Arts | Cedar Bark Twill Basket Workshop | 10-4PM | JUN 29"
 ---
 

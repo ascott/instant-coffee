@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 52
 type: "EDUCATION"
+venue: "Capture Photography"
 summary: "Capture Photography | Free Youth Photo Book Workshop | APR 23"
 ---
 

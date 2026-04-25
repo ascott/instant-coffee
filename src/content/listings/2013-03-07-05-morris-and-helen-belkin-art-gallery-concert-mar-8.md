@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 5
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Concert | MAR 8"
 ---
 
@@ -23,28 +24,28 @@ at the Belkin until April 14, 2013.
 
 CONCERT PROGRAM
 
-Ava Grayson â€” Oi, Au, Ay
-Sean Buckley â€¢ Ryan Goetz
+Ava Grayson — Oi, Au, Ay
+Sean Buckley • Ryan Goetz
 
-Scott Godin â€” Enso
-Gary Wong â€¢ Michael Morimoto â€¢ Kelly Kim
+Scott Godin — Enso
+Gary Wong • Michael Morimoto • Kelly Kim
 
-Howard Bashaw â€” The Mountain
+Howard Bashaw — The Mountain
 Ryan Goetz
 
-Eric Nathan â€” Wing Over Wing (Lullaby; Eyes Tight, Tales Tucked)
-Hillary Young â€¢ Gabriele Thielmann
+Eric Nathan — Wing Over Wing (Lullaby; Eyes Tight, Tales Tucked)
+Hillary Young • Gabriele Thielmann
 
-Derek Bermel â€” schiZm
-Anna Siminoski â€¢ Ryan Goetz 
+Derek Bermel — schiZm
+Anna Siminoski • Ryan Goetz 
 
-Carl Vine â€” Piano Sonata No. 1 (i, ii)
+Carl Vine — Piano Sonata No. 1 (i, ii)
 Nicole Linaksita
 
-Marc Mellits â€” Spam
-Joo Hee Kim â€¢ Anna Siminoski â€¢ Sarah Ho â€¢ Michael Bemmels â€¢ Ryan Goetz
+Marc Mellits — Spam
+Joo Hee Kim • Anna Siminoski • Sarah Ho • Michael Bemmels • Ryan Goetz
 
-â€”
+—
 
 For more information contact: 
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca

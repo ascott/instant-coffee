@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 14
 type: "OPENING"
+venue: "GRIFFIN ART PROJECTS"
 summary: "GRIFFIN ART PROJECTS | zero, ground | MAY 26"
 ---
 

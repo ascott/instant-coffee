@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 15
 type: "TALK"
+venue: "ECU Visual Art Forums"
 summary: "ECU Visual Art Forums | Shannon Stratton | MAR 31"
 ---
 

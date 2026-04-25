@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not afraid to use the wooden sp
 emailDate: "Thu, 30 Oct 2008 08:35:15 -0700"
 number: 17
 type: ""
+venue: "FILLIP EDITIONS"
 summary: "FILLIP EDITIONS | Five Broadsides"
 ---
 
 FILLIP EDITIONS:
-Five Broadsides by Fia BackstrÃ¶m, Andrew Dadson,
+Five Broadsides by Fia Backström, Andrew Dadson,
 Matthew Higgs, Colter Jacobsen, and Frances Stark
 
 Fillip is pleased to announce the release of Five Broadsides, a limited
-edition set of five posters on newsprint by Fia BackstrÃ¶m, Andrew Dadson,
+edition set of five posters on newsprint by Fia Backström, Andrew Dadson,
 Matthew Higgs, Colter Jacobsen, and Frances Stark. Each poster measures 22
 x 34 inches, and the set is packaged in a numbered, letterpress-printed
 envelope. The edition was produced in collaboration with The Apartment,

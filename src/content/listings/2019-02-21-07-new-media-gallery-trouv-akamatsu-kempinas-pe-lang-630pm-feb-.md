@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 7
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Trouvé, Akamatsu, Kempinas, Pe Lang | 630PM | FEB 22"
 ---
 

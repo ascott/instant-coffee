@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 4
 type: "PERFORMANCE"
+venue: "Gallery @ Artech"
 summary: "Gallery @ Artech | Jemma & the Good Thing/Georgia Lee Johnson | 7PM | DEC 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 12
 type: "OPENING"
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | Sao Paulo Graffiti - Malcolm Levy | MAR 7"
 ---
 

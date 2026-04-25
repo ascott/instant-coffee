@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 11
 type: ""
+venue: "ATELIER GALLERY"
 summary: "ATELIER GALLERY | Torrie Groening | FEB 14"
 ---
 

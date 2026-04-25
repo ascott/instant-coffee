@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 5
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | The Book of Imaginary Beings | 7PM | AUG 4"
 ---
 

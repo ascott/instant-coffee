@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 23
 type: ""
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | performance: Kurt Johannessen | SEP 21"
 ---
 
 Norwegian Performance Artist to Descend on Victoria
 
-Victoria, BC â€“ (September 9, 2011) -The Art Gallery of Greater Victoria and Open 
+Victoria, BC – (September 9, 2011) -The Art Gallery of Greater Victoria and Open 
 Space will present Norwegian performance artist, Kurt Johannessen, in his 
 Victoria debut on September 21. 
 
@@ -22,9 +23,9 @@ sentence works to short story and picture books.
 Johannessen will arrive in Victoria in mid-September to plan his performance, 
 scouring the city for an appropriate venue and theme for his performance.
 
-â€œThe AGGV is pleased to partner with Open Space to bring world-class 
+“The AGGV is pleased to partner with Open Space to bring world-class 
 performance art to Victoria,â€  said AGGV director Jon Tupper. â€œJohannessenâ€™s 
-lyrical public performance will fascinate Victorians and truly fulfill the Galleryâ€™s 
+lyrical public performance will fascinate Victorians and truly fulfill the Gallery’s 
 mandate of bringing art into the community.â€ 
 
 "Kurt Johannessen's visit continues a long-standing series of internationally -
@@ -40,7 +41,7 @@ Johnston, Pauline Cummins (N Ireland) and Poshya Kakl (Iraq).
 Johannessen participated in the 2010 edition of the International Festival of 
 Performance Art Navinki, an annual international performance festival in Minsk, 
 Belarus. In December 2010, Johannessen presented new performances at 
-Guangzhou Live â€“ International Action Art Festival at the 53 Art Museum in 
+Guangzhou Live – International Action Art Festival at the 53 Art Museum in 
 Guangzhou, People's Republic of China.
 
 Kurt Johannessen was born in Norway in 1960 and is currently based in 
@@ -48,7 +49,7 @@ Bergen. He was educated at The Slade School of Fine Art in London, The
 Iceland Akademy of the Arts in Reykjavik and The National Academy of Fine Art 
 in Bergen.
 
-Johannessenâ€™s visit to Victoria is supported in part by Norwayâ€™s Office of 
+Johannessen’s visit to Victoria is supported in part by Norway’s Office of 
 Contemporary Art and the City of Bergen.
 
 -30-

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 34
 type: "CALL"
+venue: "VIFF"
 summary: "VIFF | VOLUNTEERS | SEP 21"
 ---
 

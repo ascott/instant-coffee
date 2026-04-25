@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 15
 type: "OPENING"
+venue: "Parker Street Gallery"
 summary: "Parker Street Gallery | Doris Anderson: IMAGINE! | 12PM | JUN 7"
 ---
 

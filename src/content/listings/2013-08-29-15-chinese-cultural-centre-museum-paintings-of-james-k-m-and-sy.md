@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 15
 type: ""
+venue: "Chinese Cultural Centre Museum"
 summary: "Chinese Cultural Centre Museum | Paintings of James K-M and Synn Kune Loh | SEP 14"
 ---
 
@@ -30,7 +31,7 @@ http://www.synnkuneloh.com
 http://jameskm.wordpress.com
 
 Pataphysics is the science of that which is superimposed upon metaphysics, 
-whether within or beyond the latterâ€™s limitations, extending as far beyond 
+whether within or beyond the latter’s limitations, extending as far beyond 
 metaphysics as the latter extends beyond physics.
 Alfred Jarry, 1873 - 1907
 

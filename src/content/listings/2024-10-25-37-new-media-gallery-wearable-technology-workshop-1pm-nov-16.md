@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 37
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Wearable Technology [Workshop] | 1PM | NOV 16"
 ---
 

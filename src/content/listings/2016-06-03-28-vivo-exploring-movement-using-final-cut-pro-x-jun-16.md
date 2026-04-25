@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 28
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | Exploring Movement Using Final Cut Pro X | JUN 16"
 ---
 

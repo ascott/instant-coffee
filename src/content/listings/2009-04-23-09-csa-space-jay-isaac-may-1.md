@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 9
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | JAY ISAAC | MAY 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 19
 type: "CALL"
+venue: "Luckys Comics hosted bySunset Terrace"
 summary: "Luckys Comics hosted bySunset Terrace | Symphony of Fire III | AUG 24"
 ---
 

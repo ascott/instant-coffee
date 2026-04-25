@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 13
 type: "CALL"
+venue: "grunt gallery"
 summary: "grunt gallery | Mount Pleasant Community Art Screen | JUL 31"
 ---
 

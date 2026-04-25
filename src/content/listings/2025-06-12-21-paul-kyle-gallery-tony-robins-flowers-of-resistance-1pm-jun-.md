@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 21
 type: "OPENING"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Tony Robins: Flowers of Resistance | 1PM | JUN 21"
 ---
 

@@ -251,14 +251,14 @@ The exhibition Game Show includes artworks as fictional games,
 re-interpreted games, portrayals of existing recreational subcultures like
 BMX biking and skateboarding, video games, amateur sport, alternative
 playgrounds, board games to paintball. In Grand Theft Love Song (2010),
-Myfanwy Ashmore choreographs the main thug character in a â€œfirst-person
+Myfanwy Ashmore choreographs the main thug character in a “first-person
 shooterâ€  video game to perform modern interpretive dance to a Duke
 Ellington score. Mimicking the camera angles, tracking and zoom shots of
 â€œpoker televisionâ€  and gambling room video surveillance, Paul Wongâ€™s
 Mahjong (2010) installation reveals the intricate micro-dynamics and verbal
 and visual queues that are integral to this classic game. â€œMinor leagueâ€ 
 professional wrestling shows off its carnival spectacle, theatrical prowess
-and undercurrent of racial and class dynamics in Brian Howellâ€™s Wrestlers
+and undercurrent of racial and class dynamics in Brian Howell’s Wrestlers
 (2001) series.
 
 Game Show is a group exhibition that investigates the many relationships
@@ -270,10 +270,10 @@ This group exhibition examines play and games as forms of mediated display,
 communication, and social relationship building while, at the same time,
 revealing the similarities and differences in approaches to play across the
 diverse cultural practices associated with recreation, amateur sport,
-electronic and board games. Drawn, in part, from the Surrey Art Galleryâ€™s
-Permanent Collection, Game Showâ€™s combination of photographs, drawings,
+electronic and board games. Drawn, in part, from the Surrey Art Gallery’s
+Permanent Collection, Game Show’s combination of photographs, drawings,
 prints, videos and sculpture, raise questions about how play and games
-function in todayâ€™s globalized world.
+function in today’s globalized world.
 
 Harun Farocki Deep Play
 
@@ -287,11 +287,11 @@ immerses the viewer inside humanity's largest sporting spectacle. This
 monumental installation has taken on an even more poignant light in the
 aftermath of the 2010 World Cup Final, where audiences were able to
 experience soccer through new forms of digital media like never before.
-Farockiâ€™s critically acclaimed artwork presents an exacting portrait of how
+Farocki’s critically acclaimed artwork presents an exacting portrait of how
 sport has been shaped and transformed by contemporary mass media and new
 technology.
 
-Described by Thomas Elsaesser as â€œcinemaâ€™s most illustrious
+Described by Thomas Elsaesser as “cinema’s most illustrious
 artist-archeologist,â€  Berlin-based Farocki has been a pioneer in the field
 of documentary art for the past four decades. Farocki has made close to 90
 films, including features, essays and documentaries. His media installation
@@ -306,7 +306,7 @@ exhibitions, Checking in with your hotspots (until October 17) Open Sound:
 play.back.work, and Our World As We See It: South Surrey White Rock Art
 Society.
 
-Surrey Art Gallery is at 13750 â€“ 88th Avenue, 1 block east of King George
+Surrey Art Gallery is at 13750 – 88th Avenue, 1 block east of King George
 Blvd. in
 Bear Creek Park, Surrey, BC Canada
 
@@ -333,53 +333,53 @@ coordinating fundraising activities and events in the fall/winter of 2010.
 There is a possibility of extension as the project evolves.
 Qualifications:
 
-â€¢ Minimum of 2 years of nonprofit fundraising experience.
+• Minimum of 2 years of nonprofit fundraising experience.
 
-â€¢ Minimum of 2 years with grant writing experience.
+• Minimum of 2 years with grant writing experience.
 
-â€¢ Previous experience in community-based, membership-driven arts
+• Previous experience in community-based, membership-driven arts
 organization essential. Direct experience with artist-run centresa strong
 asset.
 
-â€¢ Strong organizational skills.
+• Strong organizational skills.
 
-â€¢ Excellent communication and interpersonal skills.
+• Excellent communication and interpersonal skills.
 
-â€¢ Proficiency in Microsoft Office (Word, Excel, PowerPoint) as well
+• Proficiency in Microsoft Office (Word, Excel, PowerPoint) as well
 as experience with relational database software and Internet skills.
 
-â€¢ Salesforce.com experience an asset.
+• Salesforce.com experience an asset.
 
-â€¢ Post-secondary education in marketing, communications, or public
+• Post-secondary education in marketing, communications, or public
 relations.
 
-â€¢ Experience working in deadline-driven environments.
+• Experience working in deadline-driven environments.
 Responsibilities:
 
-â€¢ In conjunction with staff and the Fundraising Committee, take the
+• In conjunction with staff and the Fundraising Committee, take the
 lead on organizing at least one fundraising event to take place this winter
 (2010).
 
-â€¢ Make calls to our donor and alumni lists to update contact
+• Make calls to our donor and alumni lists to update contact
 information and survey interests.
 
-â€¢ Assist with development of survey questions and database fields.
+• Assist with development of survey questions and database fields.
 
-â€¢ Update and add to the database of contacts, members, workshop
+• Update and add to the database of contacts, members, workshop
 participants, donors, members, and others as directed.
 
-â€¢ Assist with the implementation and transfer of existing data to
+• Assist with the implementation and transfer of existing data to
 Salesforce.com, and support other staff to learn its use.
 
-â€¢ Meet with VIVO management collective and Fundraising Committee
+• Meet with VIVO management collective and Fundraising Committee
 members regularly to adjust priorities and tasks as needed.
-â€¢ â€¢ Take initiative to assist staff and volunteers with and
+• • Take initiative to assist staff and volunteers with and
 ensure the completion of research, development and implementation of the
 database systems and their related policies and procedures.
 
 Deadline: Monday October 4, 2010
 28 hrs/week at $17/hr
-Please send resumÃ© and cover letter to:
+Please send resumé and cover letter to:
 
 Hiring Committee
 VIVO Media Arts Centre
@@ -429,28 +429,28 @@ will present the work of Victoria sculptor Daniel Laskarin in his first
 survey exhibition, Daniel Laskarin: Agnostic Objects (things persist).
 
 Daniel Laskarin: Agnostic Objects (things persist) opens Oct. 8 for a four
-month run at the AGGV. The show features 20 of Laskarinâ€™s sculptures,
+month run at the AGGV. The show features 20 of Laskarin’s sculptures,
 created over the past decade, including several new works from 2010.
 Laskarin, a former helicopter pilot and engineer uses the skills from his
 former occupations to find new ways of manipulating and using industrial
 materials in his work.
 
-â€œIn an increasingly two-dimensional world, sculpture is reasserting itself
+“In an increasingly two-dimensional world, sculpture is reasserting itself
 as an essential art practice. This is good news in a city that for three
 decades has been developing some of the best sculptors in Canada,â€  said Jon
-Tupper director of the Art Gallery of Greater Victoria. â€œThe work of Daniel
+Tupper director of the Art Gallery of Greater Victoria. “The work of Daniel
 Laskarin fits into the unique practice that one finds in Victoria.â€ 
 
-â€œLaskarin uses a wide variety of materials to intrigue and repulse,
+“Laskarin uses a wide variety of materials to intrigue and repulse,
 materials that suggest or refer to the familiar but somehow can not be
 defined,â€  said exhibition curator Nicole Stanbridge. In Laskarinâ€™s most
 recent work, now beacon, now sea, he pushes his material explorations to
 the limits. Laskarin takes a familiar object, a chair, made of steel and
-ravaged by a shotgun, and gently swathes it in luxurious fabric. â€œAn homage
+ravaged by a shotgun, and gently swathes it in luxurious fabric. “An homage
 to the Baroque, no doubt, but with a tenacious sobriety,â€  added Stanbridge.
 
-â€œI set out to create objects which might look almost recognizable, but
-never quite identifiable â€“ that hover within the agnostic condition of
+“I set out to create objects which might look almost recognizable, but
+never quite identifiable – that hover within the agnostic condition of
 uncertainty between the general and the specific,â€  said Laskarin.
 
 Laskarin whose sculptures and public art commissions have been presented
@@ -477,7 +477,7 @@ Thursday Oct. 7 at 7:30 p.m.
 
 Nov. 5, 8-11 p.m.
 
-URBANITE: Inspired by Daniel Laskarinâ€™s Agnostic Objects (things persist).
+URBANITE: Inspired by Daniel Laskarin’s Agnostic Objects (things persist).
 
 With artists Eden Veaudry and Justin Love.
 
@@ -514,7 +514,7 @@ Victoria BC V8S 4L8
 ------------------------------------------------------------------------
 Audain Gallery SFU Woodward's
 
-Audain Gallery SFU Woodwardâ€™s
+Audain Gallery SFU Woodward’s
 Hours: Tue.- Sat. 12pm-6pm
 www.audaingallery.ca
 Title Information Here
@@ -536,8 +536,8 @@ architectural case studies.
 Covering a range of places and scales, the exhibition The Making of New
 Territories and Communities draws upon the global phenomena of
 urbanization, as well as the restructured relationship to the rural. The
-exhibitionâ€”which features work done in the Amazon region of Brazil and
-Tirana in Albania, as well as Detroit, Amsterdam, and Prishtinaâ€”resonates
+exhibition—which features work done in the Amazon region of Brazil and
+Tirana in Albania, as well as Detroit, Amsterdam, and Prishtina—resonates
 with the specific context and situation in Vancouver and Canada where
 conceptions of territory and citizenship are highly contested.
 
@@ -578,7 +578,7 @@ A Public Call and Event
 
 The artist collective Instant Coffee would like to photograph your favourite
 afghan blankets. The resulting photographs will be used as part of a public
-art commission for EdmontonÂ¹s New North Central Community Recreation Centre.
+art commission for Edmonton¹s New North Central Community Recreation Centre.
 
 The afghan blanket with its erratic and saturated palette, its repetitive
 patterns and grid forms became a common household craft and item in North
@@ -629,7 +629,7 @@ exciting public events, primarily focusing on her 5 year project: SMOKE
 RINGS. Part sculpture, part installation, part performance, SMOKE RINGS
 invites people to view the gallery as a place for embodiment, freedom and
 play while at the same time invoking a spirit of questioning and exchange.
-Made up of 16 hand-knit rings (2â€™ in diameter and between 10â€™ and 3â€™ in
+Made up of 16 hand-knit rings (2’ in diameter and between 10’ and 3’ in
 length), Smoke Rigs is a temporary zone of autonomy wherein our assumptions
 of how to relate within 4 white walls are re-examined or forgotten.
 
@@ -649,7 +649,7 @@ Heidi, put on white suit and dive into the Smoke Rings. Also the launch of
 the Smoke Ring publication.
 
 October 13th - Heidi will be hosting a Think Tank devoted to a discussion
-of peopleâ€™s experience with the Smoke Rings, TAZ, texts from the
+of people’s experience with the Smoke Rings, TAZ, texts from the
 publication and other topics to be discovered .
 
 The STAG is a Project Space, Gallery and Residency in the Vancouver, BC
@@ -666,10 +666,10 @@ http://thestrathconaartgallery.tumblr.com/
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-09-30-13-canzine-west-the-zine-fair-and-festival-of-alternative-cultu">13. Canzine West | the Zine Fair and Festival of Alternative Culture | OCT 16</a>
 ------------------------------------------------------------------------
-Canzine West â€“ the Zine Fair and Festival of Alternative Culture
+Canzine West – the Zine Fair and Festival of Alternative Culture
 
 Saturday, Oct. 16
-1 p.m. â€“ 7 p.m.
+1 p.m. – 7 p.m.
 W2 Storyeum
 151 West Cordova, Vancouver
 
@@ -686,7 +686,7 @@ For more information, please contact canzinewest@brokenpencil.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-09-30-14-waldorf-hotel-to-reopen-nov-1">14. Waldorf Hotel | To Reopen | NOV 1</a>
 ------------------------------------------------------------------------
-Vancouverâ€™s Famous Waldorf Hotel To Reopen in Nov 2010 As A Multi-Venue
+Vancouver’s Famous Waldorf Hotel To Reopen in Nov 2010 As A Multi-Venue
 Concept Hotel.
 
 Vancouver, Canada - September 27th, 2010.
@@ -710,7 +710,7 @@ contemporary art, music, food and culture convene under one roof. The
 programming for the space will be both artistically expansive and
 thematically inclusive.
 
-The hotelâ€™s interiors are virtually untouched in many areas and the new
+The hotel’s interiors are virtually untouched in many areas and the new
 vision expands on the theatricality and surrealism of the original concept.
 The hotel complex consists of thirty rooms, two restaurants (directed by
 Ernesto Gomez and executive chef Ned Bell), a Tiki bar (restored and

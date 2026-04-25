@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 10
 type: "OPENING"
+venue: "Pale Fire"
 summary: "Pale Fire | Janine Dunn: cover the taken bone | MAY 18"
 ---
 

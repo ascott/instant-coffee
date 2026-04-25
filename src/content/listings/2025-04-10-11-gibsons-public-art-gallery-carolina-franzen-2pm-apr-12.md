@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 11
 type: "TALK"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | CAROLINA FRANZEN | 2PM | APR 12"
 ---
 

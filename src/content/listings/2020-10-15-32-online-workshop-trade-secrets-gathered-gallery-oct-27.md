@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 32
 type: "EVENT"
+venue: "ONLINE WORKSHOP - TRADE SECRETS"
 summary: "ONLINE WORKSHOP - TRADE SECRETS | GATHERED GALLERY | OCT 27"
 ---
 

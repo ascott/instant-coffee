@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 25
 type: "TALK"
+venue: "312 Main St"
 summary: "312 Main St | History to the Tune of Rocket Fire | 6PM | MAY 17"
 ---
 

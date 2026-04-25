@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 2
 type: ""
+venue: "BLIM"
 summary: "BLIM | New Works by Kaori Kasai | MAR 4"
 ---
 

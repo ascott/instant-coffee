@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 15
 type: "EVENT"
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | Poetry Reading | 2 PM | MAR 24"
 ---
 

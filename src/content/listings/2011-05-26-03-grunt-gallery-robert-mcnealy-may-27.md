@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 3
 type: ""
+venue: "GRUNT GALLERY"
 summary: "GRUNT GALLERY | Robert McNealy | MAY 27"
 ---
 

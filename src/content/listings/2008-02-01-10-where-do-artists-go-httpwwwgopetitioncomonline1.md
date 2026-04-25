@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee conditioned"
 emailDate: "Thu, 31 Jan 2008 17:20:08 -0800"
 number: 10
 type: ""
+venue: "where do artists go?"
 summary: "where do artists go? | http://www.gopetition.com/online/1"
 ---
 

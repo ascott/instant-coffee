@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 30
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Libby Leshgold Gallery + READ Books | The Undesirables by Myfanwy MacLeod | OCT 29"
 ---
 

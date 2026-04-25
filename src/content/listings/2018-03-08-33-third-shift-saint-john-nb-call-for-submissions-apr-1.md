@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 33
 type: ""
+venue: "THIRD SHIFT"
 summary: "THIRD SHIFT | (SAINT JOHN, NB) | Call for Submissions | APR 1"
 ---
 

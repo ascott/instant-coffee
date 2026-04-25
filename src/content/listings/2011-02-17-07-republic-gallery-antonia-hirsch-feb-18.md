@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is elementally fundamental. HELL Y
 emailDate: "Thu, 17 Feb 2011 11:28:21 -0800"
 number: 7
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | Antonia Hirsch | FEB 18"
 ---
 

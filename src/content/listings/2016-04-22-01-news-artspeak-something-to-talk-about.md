@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | Artspeak | Something to Talk About"
 ---
 

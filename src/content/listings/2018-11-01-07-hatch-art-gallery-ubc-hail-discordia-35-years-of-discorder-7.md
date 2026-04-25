@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 7
 type: "OPENING"
+venue: "HATCH Art Gallery UBC"
 summary: "HATCH Art Gallery UBC | Hail Discordia! 35 years of Discorder | 7-10PM | NOV 1"
 ---
 

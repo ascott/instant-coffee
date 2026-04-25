@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 29
 type: "EDUCATION"
+venue: "Richmond Arts Centre [ONLINE]"
 summary: "Richmond Arts Centre [ONLINE] | Creative Memory Mapping Workshop | 7PM | OCT 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is elementally fundamental. HELL Y
 emailDate: "Thu, 17 Feb 2011 11:28:21 -0800"
 number: 10
 type: ""
+venue: "DAY FOR NIGHT"
 summary: "DAY FOR NIGHT | Rouli-Roulant/The Devil's Toy & The Ernie Game | FEB 20"
 ---
 

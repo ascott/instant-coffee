@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 11
 type: "EVENT"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Greg Girard Under Vancouver 1972-1982 | APR 22"
 ---
 

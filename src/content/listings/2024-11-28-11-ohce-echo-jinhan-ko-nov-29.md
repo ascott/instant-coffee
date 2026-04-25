@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 11
 type: "EVENT"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | Jinhan Ko | NOV 29"
 ---
 

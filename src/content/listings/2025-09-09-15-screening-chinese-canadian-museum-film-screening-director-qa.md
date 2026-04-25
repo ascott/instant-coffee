@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Chinese Canadian Museum | Film screening & director Q&A Havana Divas | 6PM | SEP 11"
 ---
 

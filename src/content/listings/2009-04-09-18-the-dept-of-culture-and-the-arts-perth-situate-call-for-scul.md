@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that's not our monster"
 emailDate: "Thu, 09 Apr 2009 10:30:15 -0700"
 number: 18
 type: "CALL"
+venue: "The Dept. of Culture and the Arts - Perth"
 summary: "The Dept. of Culture and the Arts - Perth | situate | Call for Sculptors | MAY 20"
 ---
 

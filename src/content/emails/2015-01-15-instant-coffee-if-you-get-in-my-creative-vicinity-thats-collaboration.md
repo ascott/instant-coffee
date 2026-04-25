@@ -15,7 +15,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-01-15-02-avenue-invisibility-but-at-what-cost-noah-spivak-jan-15">02. OPENING | AVENUE | Invisibility, But At What Cost? Noah Spivak | JAN 15</a>
 <a href="/instant-coffee/listings/2015-01-15-03-grunt-gallery-crossed-ahmad-tabrizi-jan-15">03. OPENING | grunt gallery | Crossed - Ahmad Tabrizi | JAN 15</a>
 <a href="/instant-coffee/listings/2015-01-15-04-initial-gallery-craig-sibley-aftermath-jan-15">04. OPENING | Initial Gallery | Craig Sibley - Aftermath | JAN 15</a>
-<a href="/instant-coffee/listings/2015-01-15-05-on-edge-reading-series-ecu-rene-sarojini-saklikar-and-wanda-">05. TALK | On Edge Reading Series, ECU | RenÃ©e Sarojini Saklikar and Wanda John-Kehewin | JAN 15</a>
+<a href="/instant-coffee/listings/2015-01-15-05-on-edge-reading-series-ecu-rene-sarojini-saklikar-and-wanda-">05. TALK | On Edge Reading Series, ECU | Renée Sarojini Saklikar and Wanda John-Kehewin | JAN 15</a>
 <a href="/instant-coffee/listings/2015-01-15-06-unitpitt-projects-the-facility-for-consideration-jan-15">06. OPENING | Unit/Pitt Projects | The Facility for Consideration | JAN 15</a>
 <a href="/instant-coffee/listings/2015-01-15-07-221a-no-monologue-jan-16">07. OPENING | 221A | No Monologue | JAN 16</a>
 <a href="/instant-coffee/listings/2015-01-15-08-project-space-switchblades-river-children-jan-16">08. EVENT | Project Space | Switchblades & River Children | JAN 16</a>
@@ -32,7 +32,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-01-15-19-the-alternator-centre-for-contemporary-art-a-scanner-ubiquit">19. EXHIBITION | The Alternator Centre for Contemporary Art | A Scanner Ubiquity | JAN 23</a>
 <a href="/instant-coffee/listings/2015-01-15-20-ahva-gallery-470-exhibitionexhibition-jan-24">20. OPENING | AHVA Gallery | 470 Exhibition/Exhibition | JAN 24</a>
 <a href="/instant-coffee/listings/2015-01-15-21-dynamo-arts-association-in-an-unusual-place-jan-24">21. OPENING | Dynamo Arts Association | In an unusual place | JAN 24</a>
-<a href="/instant-coffee/listings/2015-01-15-22-read-books-tai-smith-bauhaus-weaving-theory-jan-24">22. EVENT | READ Books | Tâ€™ai Smith - Bauhaus Weaving Theory | JAN 24</a>
+<a href="/instant-coffee/listings/2015-01-15-22-read-books-tai-smith-bauhaus-weaving-theory-jan-24">22. EVENT | READ Books | T’ai Smith - Bauhaus Weaving Theory | JAN 24</a>
 <a href="/instant-coffee/listings/2015-01-15-23-job-carfac-bc-membership-coordinator-jan-30">23. JOB | CARFAC BC | Membership Coordinator | JAN 30</a>
 <a href="/instant-coffee/listings/2015-01-15-24-221a-2015-16-curatorial-residents-jan-31">24. CALL | 221A | 2015-16 Curatorial Residents | JAN 31</a>
 <a href="/instant-coffee/listings/2015-01-15-25-news-vivo-upcoming-workshops-jan-31">25. NEWS | VIVO | Upcoming Workshops | JAN 31</a>
@@ -115,14 +115,14 @@ Exhibition Dates: January 15-February 21, 2015
 grunt gallery presents Crossed, an exhibition by artist Ahmad Tabrizi and
 curated by Makiko Hara. This multi-media exhibition creates a sense of
 portraiture compiled of Farsi script, piles of dressmaking pins, and
-glimpses of the artist himself â€“ both visually and through audio.
+glimpses of the artist himself – both visually and through audio.
 
 Tabrizi studied comparative literature in Tehran, with an eventual goal to
 pursue a Ph.D in Persian Literature and a teaching career. His involvement
 in the student movement leading up to the Iranian revolution led to his
 flight from Iran after which he eventually found refuge in Vancouver.
 
-â€œThis installation [addresses] intellectual claustrophobia through language
+“This installation [addresses] intellectual claustrophobia through language
 as a weapon of attack and defense; what is lost in the communication
 becomes loud sounds, weaponized sounds, sounds through the presence of
 pins. Pins are a universal symbol of pain, like a loud â€œouch,â€  but silent
@@ -130,16 +130,16 @@ at the same time.
 
 It is also a portrait, but reduced to just eyes and language. The
 self-portrait of pinheads, though there is no specific self, is perhaps a
-very oddball portrait â€“ oddballs of displacement and misplacement and the
+very oddball portrait – oddballs of displacement and misplacement and the
 â€œdoorâ€  separating Us and Them. The Persian language written on the â€œdoorâ€ 
 is used as decoration or beauty (surface). The English is used as tag or
 brandification â€“ one as â€œunknown,â€  one as insult/poetry or slogan of the
 collective experiences of refugees, the exiled, marginalized or what is
 â€œnormallyâ€  perceived as â€œthe Others.â€ 
 
-â€“ Ahmad Tabrizi, artist statement.
+– Ahmad Tabrizi, artist statement.
 
-Join us on Thursday January 15th from 7pm â€“ 10pm for the opening reception
+Join us on Thursday January 15th from 7pm – 10pm for the opening reception
 of this exhibition. A curatorial text by Makiko Hara and an essay written
 by Lorna Brown will be available at the opening. The exhibition runs from
 January 15 to February 21, 2015.
@@ -176,7 +176,7 @@ constructions of rough pieces of studio scrap are reassembled into clean,
 hardedge three-dimensional sculptures but the story lies with the
 discrepancy that the rigid empirical rubric allows before it collapses back
 into disorder. In homage to the West Coast modernist artists of the 1960s
-such as Reg Holmes and Gary Lee Nova, Sibleyâ€™s work reflects on the
+such as Reg Holmes and Gary Lee Nova, Sibley’s work reflects on the
 dialogue between painting, sculpture the past and the present.
 
 2339 granville st
@@ -185,11 +185,11 @@ initialgallery.com
 info@initialgallery.com
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-01-15-05-on-edge-reading-series-ecu-rene-sarojini-saklikar-and-wanda-">05. TALK | On Edge Reading Series, ECU | RenÃ©e Sarojini Saklikar and Wanda John-Kehewin | JAN 15</a>
+<a href="/instant-coffee/listings/2015-01-15-05-on-edge-reading-series-ecu-rene-sarojini-saklikar-and-wanda-">05. TALK | On Edge Reading Series, ECU | Renée Sarojini Saklikar and Wanda John-Kehewin | JAN 15</a>
 ------------------------------------------------------------------------
 The On Edge Reading Series presents:
 
-RenÃ©e Sarojini Saklikar and Wanda John-Kehewin
+Renée Sarojini Saklikar and Wanda John-Kehewin
 7 pm - Thursday Jan 15, 2015
 SB 406 - Emily Carr University of Art + Design
 Granville Island
@@ -198,22 +198,22 @@ The public is welcome.
 
 Author bios:
 
-RenÃ©e Sarojini Saklikar writes thecanadaproject, a life-long poem chronicle
+Renée Sarojini Saklikar writes thecanadaproject, a life-long poem chronicle
 that includes poetry, fiction, and essays. Work from thecanadaproject
 appears in literary journals, newspapers, and anthologies, including The
 Vancouver Review, Geist, Poetry is Dead, SubTerrain, Arc Poetry Magazine
 and The Georgia Straight and Ryga, a journal of provocations. The first
 completed series from thecanadaproject is a book length poem, children of
 air india, (Nightwood Editions 2013) about the bombing of Air India Flight
-182. You can find out more about RenÃ©eâ€™s work at
+182. You can find out more about Renée’s work at
 thecanadaproject.wordpress.com. Follow her on twitter @reneesarojini
 
 Wanda John-Kehewin has studied Criminology, Sociology, Aboriginal studies
-and creative writing with Simon Fraser Universityâ€™s Writerâ€™s Studio
+and creative writing with Simon Fraser University’s Writer’s Studio
 Program. She sees writing as a medium to understanding and responding to
 the near decimation of First Nations culture, language and tradition. She
-has been published in Quills Poetry, Salish Seas, UBCâ€™s Aboriginal
-Anthology, SFUâ€™s Emerge anthology. Her first book of poetry, In The Dog
+has been published in Quills Poetry, Salish Seas, UBC’s Aboriginal
+Anthology, SFU’s Emerge anthology. Her first book of poetry, In The Dog
 House, was published in April 2013 by Talonbooks.
 
 We gratefully acknowledge the Canada Council for the Arts, and the Coast
@@ -253,7 +253,7 @@ bigger, has become exponentially more complex in the last few decades. The
 implicated range of minute or distant structures and detailed architectures
 to the awareness of the individual is now immense and grows proportionately
 to the availability of information and experience. The networks we
-familiarly navigate have created a Zeno's Paradox Ã¢â‚¬â€œ the vertigo of never
+familiarly navigate have created a Zeno's Paradox â€“ the vertigo of never
 being able to reach the other side of a road which we have always already
 been crossing; the array of measurable points between points multiplies as
 we regard more closely. These include our personal use of the digital, the
@@ -332,12 +332,12 @@ the Vancouver Art Gallery. Gradin was formerly the music editor for the
 print magazine Color, which featured art, music and skateboarding. He has
 published seven art books, and has self-published dozens of zines. Gradin
 has also been active in the community, running several artist and
-performance spaces, from L.A.Ã¢â‚¬â„¢s Mime School to VancouverÃ¢â‚¬â„¢s Emergency Room.
+performance spaces, from L.A.â€™s Mime School to Vancouverâ€™s Emergency Room.
 
 Nathan Jones is an artist, curator and one of the founding members of Print
 Ready, an ongoing Vancouver-based zine and art book exhibition series. He
 has a B.A. from Emily Carr University of Art + Design and a B.Ed. from
-Simon Fraser University. JonesÃ¢â‚¬â„¢ art practice has its foundation in drawing
+Simon Fraser University. Jonesâ€™ art practice has its foundation in drawing
 and painting. He has worked in a wide breadth of media, including
 independent and commercial film, musical performance, illustration and
 design for print. His work has been exhibited in Vancouver, Montreal and
@@ -353,7 +353,7 @@ Friday Jan 16, 7-10 pm
 
 INTERNAL CLIMATES
 
-[â€¦-Command from control
+[…-Command from control
 -This is engine 53 we have arrived at location fourty-two hundred Firewalk
 Way permission to investigate
 -Granted
@@ -365,7 +365,7 @@ i repeat not a residential. it is an abandoned building
 -Medic 46 engine 52 ladder 56 have you arrived at the location?
 -Engine 52 ladder 56 affirmative, we have left our vehicles and are in the
 building
--Car 36 I canâ€™t seem to find you in here, can you state your location?
+-Car 36 I can’t seem to find you in here, can you state your location?
 -Ladder 56 we entered the north side of the premises, climbing a stairwell
 to the third floor
 -Car 36 I entered the west end of the building heading south but I seem to
@@ -375,8 +375,8 @@ be trapped by gates on all sides. Control for back up to the west entrance.
 -Negative I must be farther south now
 -Medic 46 we seem to be lost inside the building now, control for back up
 to the north entrance, search for flashing lights
--Roger that, ladder 56 no sight of lights from my position, weâ€™ll keep
-searchingâ€¦]
+-Roger that, ladder 56 no sight of lights from my position, we’ll keep
+searching…]
 
 A new collaboration by Emma LaMorte and Adam Shiu-Yang Shaw
 
@@ -408,21 +408,21 @@ exhibition of their new feature length film Bugs. Following the opening
 premiere of the film, Bugs will be screened on Saturdays at 2pm from
 January 17-February 7.
 
-A response to Disney movies like A Bugâ€™s Life, the film is a modern-day
+A response to Disney movies like A Bug’s Life, the film is a modern-day
 fable about a bug society that expresses satirical ideas about success and
 individualism within a fantasy world. Extending outward from the screen
 space of the film, the installation (made in collaboration with Laura
 McCoy) moves through the entire building, toying with the notions of hype
 and publicity that are a part of going to see a movie. Both playful and
 irreverent, the exhibition embodies the humorous DIY ethos at the heart of
-Life of a Crapheadâ€™s artistic practice.
+Life of a Craphead’s artistic practice.
 
 Artist Biographies
 
 Life of a Craphead is the performance art group of Amy Lam and Jon McCurley
 since 2006. L.o.a.Ch live and work in Toronto, Canada. Projects include
 transporting two prisoners in a cage on the back of a truck, touring a live
-comedy show, giving away everything on a restaurantâ€™s menu, and building a
+comedy show, giving away everything on a restaurant’s menu, and building a
 3-story maze. They were artists-in-residence at the Art Gallery of Ontario
 in the winter of 2013 and produced the Life of a Craphead Fifty Year
 Retrospective, 2006-2056, an exhibition of all the work they will ever
@@ -479,12 +479,12 @@ http://centre.nikkeiplace.org/magic-hour/
 <a href="/instant-coffee/listings/2015-01-15-12-surrey-art-gallery-views-from-the-southbank-i-jan-17">12. OPENING | Surrey Art Gallery | Views from the Southbank I | JAN 17</a>
 ------------------------------------------------------------------------
 Views from the Southbank I: Histories, Memories, Myths
-Re:Sourceâ€“A Living Archive 1975â€“2015
-Taryn Hubbard: Surrey City Centre nÃ©e Whalley
+Re:Source–A Living Archive 1975–2015
+Taryn Hubbard: Surrey City Centre née Whalley
 
-January 17â€“March 15 | Opening Reception: January 17, 7:30â€“9:30pm
+January 17–March 15 | Opening Reception: January 17, 7:30–9:30pm
 Formal remarks begin at 7:45 pm (opening is preceded by curator s tour from
-6:30â€“7:30pm)
+6:30–7:30pm)
 
 We're kicking off our 40th anniversary with 3 exhibitions focused on South
 of Fraser art.
@@ -499,13 +499,13 @@ Gibbons, Ravi Gill, Shandis Harrison, Jeremy Herndl, Brian Howell, Reuben
 Kambeitz, Micah Lexier, Suzanne Northcott, Deborah Putman, Bill Rennie, Don
 Romanchuck, Carol Sawyer, Kevin Schmidt, and Lenore Tkachuk.
 
-Also on display is Re:Sourceâ€“A Living Archive 1975â€“2015, an evolving
+Also on display is Re:Source–A Living Archive 1975–2015, an evolving
 installation that brings the Gallery's diverse archive to life through the
 lens of 5 artists: Jim Adams, Polly Gibbons, Cora Li-Leger, Haruko Okano,
 and Mandeep Wirk.
 
 Surrey-based writer Taryn Hubbard kicks off the first exhibition of Open
-Sound 2015: Polyphonic Cartograph with Surrey City Centre nÃ©e Whalleyâ€”a
+Sound 2015: Polyphonic Cartograph with Surrey City Centre née Whalley—a
 five channel soundscape of Surrey's new City Centre and surrounding community.
 
 Surrey Art Gallery gratefully acknowledges the financial assistance of City
@@ -513,7 +513,7 @@ of Surrey, BC Arts Council, Canada Council for the Arts, Government of
 Canada through the Department of Canadian Heritage, and Vancouver Foundation.
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 Canada
 V3W 3L1
@@ -527,12 +527,12 @@ ANIMATED 3D MOVIE!
 
 Saturday January 17, 1.30 - 2.30pm
 Vancouver Maritime Museum
-Saturday, January 17th, 1:30pm â€“ 2:30pm
+Saturday, January 17th, 1:30pm – 2:30pm
 1905 Ogden Avenue, Vancouver
 VancouverMaritimeMuseum.com
 
-VANCOUVER, B.C. (January 12, 2015) â€“ For the first time, SpongeBob
-SquarePants, the worldâ€™s favorite sea dwelling invertebrate, comes ashore
+VANCOUVER, B.C. (January 12, 2015) – For the first time, SpongeBob
+SquarePants, the world’s favorite sea dwelling invertebrate, comes ashore
 to our world for his most super-heroic adventure yet, in his new 3D movie,
 â€œTHE SPONGEBOB MOVIE: SPONGE OUT OF WATERâ€ , which hits theatre screens on
 February 6.
@@ -544,13 +544,13 @@ Families who visit the Vancouver Maritime Museum will have an opportunity
 to meet the new Superhero SpongeBob and take photos with the famous
 character. Mini movie posters will also be available, while quantities last.
 
-From Paramount Animation and Nickelodeon Movies comes â€œTHE SPONGEBOB MOVIE:
+From Paramount Animation and Nickelodeon Movies comes “THE SPONGEBOB MOVIE:
 SPONGE OUT OF WATER,â€  an all-new 3D adventure thatâ€™s as wild and funny as
-its name. For the first time, SpongeBob SquarePants, the worldâ€™s favourite
+its name. For the first time, SpongeBob SquarePants, the world’s favourite
 sea dwelling invertebrate, comes ashore to our world for his most
 super-heroic adventure yet.
 
-Produced by Paul Tibbitt and Mary Parent. Based on the series â€œSpongeBob
+Produced by Paul Tibbitt and Mary Parent. Based on the series “SpongeBob
 SquarePantsâ€  created by Stephen Hillenburg. Story by Stephen Hillenburg &
 Paul Tibbitt, screenplay by Glenn Berger & Jonathan Aibel and Paul Tibbitt
 and directed by Paul Tibbitt.
@@ -577,10 +577,10 @@ Emily Carr University of Art + Design
 Room 301, 1399 Johnston St, Vancouver
 Monday, January 19, 6pm
 
-CAG and ECUAD presentâ€¦
+CAG and ECUAD present…
 
 Join us for a talk by Grace Schwindt on the occasion of her solo
-exhibition: Only A Free Individual Can Create A Free Society (January 23 â€“
+exhibition: Only A Free Individual Can Create A Free Society (January 23 –
 February 15, 2015).
 
 Grace Schwindt (born 1979, Germany) is an artist based in London working
@@ -589,14 +589,14 @@ works use minimal architectural elements and props to mark a location, in
 which she places bodies including her own. Using a tightly scripted
 choreography in which every move relates to institutionalised systems she
 investigates how social relations and understandings about oneself are
-formed, often through acts of exclusion and destruction. The artistâ€™s
+formed, often through acts of exclusion and destruction. The artist’s
 interviews with individuals often serve as a starting point for
 fictionalised dialogues delivered by performers. Represented by Zeno X
 Gallery in Antwerp, her work is distributed by Argos Centre for Media and
 Art. Recent solo presentations include South London Gallery; ICA, London;
 Whitechapel Gallery, London; Spill Festival, Basement, Brighton; Collective
 Gallery, Edinburgh and White Columns, New York. Schwindt was shortlisted
-for this yearâ€™s Jarman Film Award.
+for this year’s Jarman Film Award.
 
 Only A Free Individual Can Create A Free Society is a new film installation
 by German artist Grace Schwindt which revisits discussions she witnessed as
@@ -615,7 +615,7 @@ This is a free event, everyone is welcome.
 
 *
 
-Contemporary Art Gallery â€“ New exhibitions:
+Contemporary Art Gallery – New exhibitions:
 Opening reception: Thursday, January 22, 7-10pm
 
 Grace Schwindt, Only A Free Individual Can Create A Free Society
@@ -719,7 +719,7 @@ Lanigan-Schmidt, and Maria Lassnig. He also curated September 11, a group
 exhibition organized on the occasion of the tenth anniversary of the
 terrorist attacks in 2011, and oversaw MoMA PS1's expanded presentation of
 the Mike Kelley retrospective in 2013, which was the largest solo
-exhibition in the institutionÃ¢â‚¬â„¢s history. From 2007 through 2010, Eleey was
+exhibition in the institutionâ€™s history. From 2007 through 2010, Eleey was
 a curator at the Walker Art Center in Minneapolis, where he organized
 exhibitions with Trisha Brown and Goshka Macuga, along with the group shows
 The Quick and the Dead and The Talent Show. Before joining the Walker, he
@@ -762,9 +762,9 @@ http://chscott.ecuad.ca
 Far Away So Close Part II
 
 Kathleen Ritter, Guillermo Trejo
-24 January â€“ 7 March, 2015
+24 January – 7 March, 2015
 
-â€œEverything that needs to be said has already been said. But since no one
+“Everything that needs to be said has already been said. But since no one
 was listening, everything must be said again.â€ 
 
 ― AndrÃ© Gide
@@ -772,7 +772,7 @@ was listening, everything must be said again.â€
 Far Away So Close is a series of exhibitions, publications, and events that
 explores the idea of distance, considers the bridging of distance as an
 ultimately quixotic gesture, and investigates the particular relationship
-of this gesture to art making. Presented over the course of 2014â€“15 at
+of this gesture to art making. Presented over the course of 2014–15 at
 Access, each installment features emergent artists who draw upon a variety
 of modes, materials, and methodologies, and whose practices are scattered
 across the globe.
@@ -780,7 +780,7 @@ across the globe.
 Part II is focused on the political utterance or gesture. Here, in a nod to
 the long history of this consideration by the avant-garde, Paris-based
 Kathleen Ritter and Ottawa-based Guillermo Trejo explore moments of
-revolutionary utterance and action: the call to arms and the â€œday after
+revolutionary utterance and action: the call to arms and the “day after
 tomorrow.â€  They consider the roles of opacity, subterfuge and repetition,
 and ways in which the creative act itself may above all be akin to the
 desire for political upheaval and change: foolishly impractical, resigned
@@ -789,10 +789,10 @@ to the probability of failure and yet driven by an insuppressible hope
 *
 
 Kathleen Ritter is an artist based in Vancouver and Paris. She was an
-artist in residence at La CitÃ© Internationale des Arts, Paris, in 2013. Her
+artist in residence at La Cité Internationale des Arts, Paris, in 2013. Her
 art practice broadly explores questions of visibility, especially in
 relation to systems of power, language and technology. Recent solo
-exhibitions include G Gallery, Toronto, and Battat Contemporary, MontrÃ©al,
+exhibitions include G Gallery, Toronto, and Battat Contemporary, Montréal,
 both in 2014. In addition Ritter has organized exhibitions in Canada and
 abroad. From 2007 to 2012, she was the Associate Curator at the Vancouver
 Art Gallery. Her writing on contemporary art has appeared in ESSE, Prefix
@@ -800,7 +800,7 @@ Photo, and Fillip as well as in numerous catalogues.
 
 Guillermo Trejo is a Mexican Artist living in Ottawa, since 2007, Guillermo
 completed his BFA with a specialization in printmaking in Mexico City, and
-moved to Canada. Guillermoâ€™s experience of immigration has shaped his work.
+moved to Canada. Guillermo’s experience of immigration has shaped his work.
 In 2010, Guillermo began the MFA program at the University of Ottawa. Since
 then, his career has been on rise. He had his first solo show at Saw
 Gallery, presented his MFA thesis at the Ottawa Art Gallery, and
@@ -830,7 +830,7 @@ DATA MINING TAKES OVER LOCAL GALLERY
 Ever wondered where all the personal information that we feed into the
 Internet ends up? So do Vancouver artists Nathan McNinch and Kevin Day.
 Their exhibition, A Scanner Ubiquity, on show at the Alternator Centre for
-Contemporary Art from January 23 â€“ March 7
+Contemporary Art from January 23 – March 7
 , collates samples of seemingly useless but readily available public
 information and turns it into works of art.
 
@@ -843,11 +843,11 @@ continuously printed on paper, creating something similar to a polygraph
 using the gathered information.
 
 Also included in the show are a series of large wall-sized paper
-â€˜drawingsâ€™ depicting nonsensical HTML code of websites, and a custom-made
+‘drawings’ depicting nonsensical HTML code of websites, and a custom-made
 one-pixel camera that takes photos one pixel at a time and prints them out
 at pre-programmed intervals, accumulating the photos in a heap on the
 floor. The photographic data are fragmented beyond function and legibility,
-and focus on the mathematical quantification of â€˜beingâ€™ instead.
+and focus on the mathematical quantification of ‘being’ instead.
 
 The exhibition demonstrates the process by which human attributes become
 privatized and reduced to data and statistics, fully exploited in the
@@ -877,9 +877,9 @@ November 26, 2014 to January 24, 2015
 Closing Reception: Wednesday, January 21, 2015 5 to 7pm
 
 The 470 Exhibition/Exhibition is four (4) collaborative works based on the
-organization and curation of a fictional exhibition. The â€˜exhibitionsâ€™ will
+organization and curation of a fictional exhibition. The ‘exhibitions’ will
 be created by teams of students in the 470 Special Topics class who will
-conceive of a â€˜possible exhibitionâ€™ that they would like to see realized.
+conceive of a ‘possible exhibition’ that they would like to see realized.
 The exhibition concepts can range from solo show, historical, contemporary,
 group, Biennale or whatever the curators decide. Although much of the
 research will be done outside of the gallery, the gallery will function as
@@ -895,8 +895,8 @@ the 14th of January. The finished work will be up during the remainder of
 the exhibition period with a closing celebration on the 21st of January, 2015.
 
 ARTISTS:
-Group 1 â€“ Leah French, Sia Young, Romy Sank, Kristen Underwood
-Group 2 Vanessa Grondin, Nick Loewen, Patrick Oâ€™Neill, Shiori Harada
+Group 1 – Leah French, Sia Young, Romy Sank, Kristen Underwood
+Group 2 Vanessa Grondin, Nick Loewen, Patrick O’Neill, Shiori Harada
 Group 3 Sarah Delaney, Zoya Mirzaghitova, Rebecca Ou
 Group 4 Jack Chiu, Angela Ko, Janna Kumi, Sherman Yik
 AHVA Gallery hours: Tuesday to Saturday, 12 - 4 pm
@@ -919,15 +919,15 @@ installation, and collage by artists whose pieces engage with the
 relationship between identity, physical space, and the social tensions
 unleashed by the intersection of these two forces.
 
-Born in Cherkassy, Ukraine, ALINA SENCHENKOâ€™s work utilizes photography and
+Born in Cherkassy, Ukraine, ALINA SENCHENKO’s work utilizes photography and
 text in installation to explore the invisible social and political issues
-in a contemporary society. Senchenkoâ€™s work investigates the concept of
-home in a society that is constantly moving, in which peopleâ€™s connections
+in a contemporary society. Senchenko’s work investigates the concept of
+home in a society that is constantly moving, in which people’s connections
 with spaces are perpetually in question.
 
-Originally from Hong Kong, HEI LAM NGâ€™s work reflects the frustrations of
+Originally from Hong Kong, HEI LAM NG’s work reflects the frustrations of
 identity through a skillful combination of modern photography and
-traditional printmaking. Ngâ€™s work playfully addresses the loss and
+traditional printmaking. Ng’s work playfully addresses the loss and
 acquisition of identity in situations of displacement.
 
 LUKE MADDAFORD is a Canadian artist whose work engages alternative methods
@@ -945,9 +945,9 @@ dynamo.arts.assoc@gmail.com
 Curated by Carli Erin Gaudet and Hei Lam Ng
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-01-15-22-read-books-tai-smith-bauhaus-weaving-theory-jan-24">22. EVENT | READ Books | Tâ€™ai Smith - Bauhaus Weaving Theory | JAN 24</a>
+<a href="/instant-coffee/listings/2015-01-15-22-read-books-tai-smith-bauhaus-weaving-theory-jan-24">22. EVENT | READ Books | T’ai Smith - Bauhaus Weaving Theory | JAN 24</a>
 ------------------------------------------------------------------------
-Tâ€™ai Smith
+T’ai Smith
 Bauhaus Weaving Theory: From Feminine Craft to Mode of Design
 
 Book Launch
@@ -955,7 +955,7 @@ Saturday January 24, 2015, 2pm, READ Books
 
 Please join READ Books for the launch of Bauhaus Weaving Theory: From
 Feminine Craft to Mode of Design published by University of Minnesota Press
-(2014). In Bauhaus Weaving Tâ€™ai Smith deftly reframes the Bauhaus weaving
+(2014). In Bauhaus Weaving T’ai Smith deftly reframes the Bauhaus weaving
 workshop as central to theoretical inquiry at the school, uncovering new
 significance in the work the weavers did as writers. Exploring questions of
 establishing value and legitimacy in the art world along with the limits of
@@ -974,7 +974,7 @@ http://chscott.ecuad.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-01-15-23-job-carfac-bc-membership-coordinator-jan-30">23. JOB | CARFAC BC | Membership Coordinator | JAN 30</a>
 ------------------------------------------------------------------------
-CARFAC BC Membership Coordinator â€“ Vancouver office
+CARFAC BC Membership Coordinator – Vancouver office
 Deadline: January 30, 2015 by 5:00pm
 
 CARFAC BC is a non-profit organization dedicated to improving the
@@ -990,7 +990,7 @@ established guidelines.
 Establish and maintain familiarity with CARFAC history, policies,
 guidelines, and bylaws.
 Maintain office records, files, and equipment.
-Ensure BCâ€™s desk is open to the public on a regular basis.
+Ensure BC’s desk is open to the public on a regular basis.
 Prioritize, organize and undertake multiple tasks. Inform employers
 when demands become unrealistic. Be willing to ask for help and oversee
 volunteers to complete tasks.
@@ -1058,7 +1058,7 @@ for the 2015-16 CuratorialResidency Program. Started in 2010, the
 Curatorial Residencies program was implemented to diversify the curatorial
 approach to our mandate.
 
-Up to five selected residents will work with a budget of $8,000â€“$14,000 to
+Up to five selected residents will work with a budget of $8,000–$14,000 to
 develop a curatorial project, taking on the critical function of working
 both inside and outside of the organization, offering their experience and
 ideas towards the continued re-framing of 221A.
@@ -1093,7 +1093,7 @@ under the skilled guidence of the instructors.
 This workshop includes the necessary skills and practice required for
 competancy when renting camera, lights and sound equipment from VIVO. On
 completion of the workshop, participants can apply to rent equipment
-through our Tech department. Check out VIVOâ€™s great value equipment rental
+through our Tech department. Check out VIVO’s great value equipment rental
 rates. (Beginner workshop)
 
 *
@@ -1124,7 +1124,7 @@ Advanced Processing: Processing & Pixels
 February 11th, 7-10pm | $72 for non-Members; $60 for VIVO members. |
 Register for this event via Eventbrite.
 This intermediate workshop will focus on pixels as building blocks rather
-than vector methods like line() and ellipse(). Weâ€™ll explore algorithms and
+than vector methods like line() and ellipse(). We’ll explore algorithms and
 techniques for playing with pixel data to create interesting effects.
 Participants should be comfortable using Processing.
 
@@ -1159,7 +1159,7 @@ Best of luck and happy writing!
 
 PS: Read some of our favourite entries for inspiration!
 Nettie, Rose, Daphne and Ginger by James MacSwain; A Newbie's Guide to the
-Farmer's Market by Britta Boudreau; and SchrÃ¶dingerâ€™s Cat by Jessica
+Farmer's Market by Britta Boudreau; and Schrödinger’s Cat by Jessica
 Michalofsky.
 
 ------------------------------------------------------------------------
@@ -1191,7 +1191,7 @@ to build a model for what a curatorial program might look like in times of
 growing economic precarity and a lack of fixed resources.
 
 We are accepting submissions from West Coast artists and groups that cohere
-with RECESSâ€™ mission and the specific concerns of Moving Out.
+with RECESS’ mission and the specific concerns of Moving Out.
 
 Please e-mail completed applications to info@recessart.com by February 1st,
 2015. Applicants will be notified on a rolling basis through May, 2015.
@@ -1205,7 +1205,7 @@ directly to your email.
 - A description of your proposed project. Please include:
 - - A clear and concise description of your proposed project and how
 you intend it to be presented as part of Moving Out (no more than 200 words).
-- Explain how your proposed project relates to Moving Outâ€™s
+- Explain how your proposed project relates to Moving Out’s
 conceptual motivation (no more than 200 words).
 - - Describe any support you will require to complete the project you
 are proposing. This should include any materials, travel, venues, services,

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 19
 type: ""
+venue: "VIVO"
 summary: "VIVO | JOB POSTING: DISTRIBUTION ASSISTANT | JAN 22"
 ---
 

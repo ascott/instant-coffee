@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 49
 type: "TALK"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Artist Talk for Kevin Schmidt | 7PM | JUL 20"
 ---
 

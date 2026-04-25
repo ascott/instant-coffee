@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 13
 type: "CALL"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | open calls for two community exhibition spaces"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 10
 type: "EVENT"
+venue: "Avenue"
 summary: "Avenue | KIOSK | JUN 20"
 ---
 

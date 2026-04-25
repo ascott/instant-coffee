@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 43
 type: "EDUCATION"
+venue: "Gallery 44 [WORKSHOP]"
 summary: "Gallery 44 [WORKSHOP] | Bearing Witness through Image-Making | OCT 28"
 ---
 

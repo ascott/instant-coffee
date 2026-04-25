@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cerulean blue cracks us up"
 emailDate: "Thu, 22 Apr 2010 12:14:58 -0700"
 number: 1
 type: ""
+venue: "Centre A"
 summary: "Centre A | Identity - Ancestral Memory | APR 22"
 ---
 

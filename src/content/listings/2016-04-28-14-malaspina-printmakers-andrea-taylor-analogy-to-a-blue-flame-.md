@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 14
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Andrea Taylor: Analogy to a Blue Flame | MAY 5"
 ---
 

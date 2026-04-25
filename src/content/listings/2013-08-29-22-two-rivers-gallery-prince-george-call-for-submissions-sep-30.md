@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 22
 type: ""
+venue: "Two Rivers Gallery, Prince George"
 summary: "Two Rivers Gallery, Prince George | Call for Submissions | SEP 30"
 ---
 
@@ -18,7 +19,7 @@ artists from the Regional District of Fraser Fort-George though we are open to
 submissions from other regions. 
 Please submit proposals or questions via email or mail to Maeve Hanna, 
 Assistant Curator. Proposals should include a brief description of the project, 
-a CV and 5 â€“ 10 images. Please ensure digital images are high resolution.
+a CV and 5 – 10 images. Please ensure digital images are high resolution.
 Two Rivers Gallery, 725 Civic Plaza, Prince George, BC. V2L 5T1
 TEL (250) 614 7800 ex. 492 FAX (250) 563 3211 Email: 
 maeve@tworiversgallery.ca

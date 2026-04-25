@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 1
 type: ""
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Special Collection: Acquisitions and Archives | JUN 13"
 ---
 
@@ -26,11 +27,11 @@ collecting streams that have evolved since the Belkin began to actively
 collect in 1995 following the transference of the University Art Collection
 to the Gallery. Now the third largest public collection of visual art in
 British Columbia, the collecting streams offer a series of potential
-narrativesâ€”thematic, historical or even technicalâ€”that serve to tell the
+narratives—thematic, historical or even technical—that serve to tell the
 story of contemporary art in this part of the world. There is an emphasis
 on avant-garde movements from the 1960s to the present, although the
 collection also holds other areas of interest such as early Canadian
-modernist worksâ€”David Milne, Emily Carr, Arthur Lismer, Takao Tanabeâ€”some
+modernist works—David Milne, Emily Carr, Arthur Lismer, Takao Tanabe—some
 of which have been acquired recently and will be on display for the first
 time, and that provide an important context for the evolution of
 contemporary Canadian art. The collection also includes twenty-five
@@ -46,7 +47,7 @@ Belkin has a large representation of works by Vancouver artists affiliated
 with the Correspondence Art Network in the early 1970s whose legacy has
 been taken up by Ron Tran with his costumes for children that were inspired
 by the performances of Kate Craig, Vincent Trasov and Glenn Lewis, and by
-Isabelle Pauwels in her 2012 video LIKEâ€¦/AND, LIKE/YOU KNOW/TOTALLY/RIGHT.
+Isabelle Pauwels in her 2012 video LIKE…/AND, LIKE/YOU KNOW/TOTALLY/RIGHT.
 Another distinct component of the Belkin collection is its holdings of West
 Coast studio pottery inspired by the work and ideas of British ceramicist
 Bernard Leach. The exhibition also presents works as far ranging as those
@@ -55,7 +56,7 @@ aspect of the artistic process.
 
 The Belkin Art Gallery is unique for a gallery its size in that it
 maintains an archive supervised by a professional archivist. The archive
-collects artistsâ€™ papers and ephemera pertaining to Vancouver avant-garde
+collects artists’ papers and ephemera pertaining to Vancouver avant-garde
 art of the 1960s and 1970s, the history of artist-run spaces, as well as
 Concrete Poetry and Fluxus material.
 
@@ -65,4 +66,4 @@ acknowledge the Canada Council Acquisitions Assistance program, the Morris
 and Helen Belkin Foundation, our Belkin Curator's Forum members and the
 individuals who donate works of art to our collection.
 
-â€”
+—

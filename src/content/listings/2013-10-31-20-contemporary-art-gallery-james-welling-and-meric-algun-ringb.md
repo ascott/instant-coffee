@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 20
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | James Welling and Meric Algun Ringborg | NOV 14"
 ---
 
@@ -39,15 +40,15 @@ Welling sought to remove photography from its subject, in order to trigger
 personal associations in the viewer and to explore how we see, rather than 
 what we see. These works were frequently contact-printed to gain what 
 Welling described as â€œa facsimile effect,â€  involving no enlargement from the 
-negative. As Welling stated at the time, â€œthe (small) image convinces me of 
+negative. As Welling stated at the time, “the (small) image convinces me of 
 its truth in a way larger images cannot.â€ 
 The exhibition and publication, Mind on Fire, brings together around one 
-hundred of Wellingâ€™s early, experimental and abstract works from this period, 
+hundred of Welling’s early, experimental and abstract works from this period, 
 statements which surround the mechanical and philosophical parameters of 
 photography, being tested through a variety of photographic paper, film, 
 cameras; materials in flux and subject to a myriad of simultaneous meanings.
 This exhibition has been developed in partnership between MK Gallery, Milton 
-Keynes, UK and Centro Galego de Arte ContemporÃ¡nea â€” CGAC, Santiago 
+Keynes, UK and Centro Galego de Arte Contemporánea — CGAC, Santiago 
 de Compostela, Spain. Special thanks also to David Zwirner, New York; 
 Maureen Paley, London; Galeria Marta Cervera, Madrid; Regen Projects, Los 
 Angeles and Galerie Nelson-Freeman, Paris.
@@ -58,7 +59,7 @@ fire/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“ 
+1) Exhibition Opening and Closing Party for Capture Photography Festival – 
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture 
 Photography Festival. www.capturephotofest.com. Artist present. Opening 
@@ -69,18 +70,18 @@ Emily Carr University of Art + Design
 Room 301, 1399 Johnston Street, Granville Island
 Dominic McIver Lopes, Professor in the Department of Philosophy at UBC, 
 and President of the American Society for Aesthetics, joins artist James 
-Welling for a public conversation considering Wellingâ€™s practice.
+Welling for a public conversation considering Welling’s practice.
 
 Meric Algun Ringborg
 November 15, 2013 to January 12, 2014
 Opening Thursday November 14, 7-10 pm
 At the Contemporary Art Gallery we present a solo exhibition by Turkish artist 
 Meric Algun Ringborg, her first in a museum in North America, comprising a 
-new large-scale commission sited across the faÃ§ade of our building. Visitors 
-are invited to â€˜readâ€™ the gallery, the work wrapping around the outside as 
+new large-scale commission sited across the façade of our building. Visitors 
+are invited to ‘read’ the gallery, the work wrapping around the outside as 
 individual phrases envelope the physical structure.
 Through the appropriation of methodologies that include collecting, 
-systematizing and list making, much of Algun Ringborgâ€™s practice centres on 
+systematizing and list making, much of Algun Ringborg’s practice centres on 
 notions of cultural identity, language, belonging and the adjoining 
 bureaucracies. In 2012 billboards were presented in the exhibition Show Off 
 that took place in Malmo and Nicosia consecutively. The questions shown 
@@ -95,7 +96,7 @@ notionally composing mini-narratives and realized in a way that seems to
 incorporate different voices and characters, including that of the artist. As 
 such the work evolves out of the dictionary akin to a fragmentary novel or 
 short story, a series of episodes branching out into a loose meta-narrative 
-concerning writing as a creative act as implied through the use of this â€˜foundâ€™ 
+concerning writing as a creative act as implied through the use of this ‘found’ 
 language.
 Vancouver, a city renowned internationally for the significance of its visual arts 
 that conceptually re-pictures space and assigns meaning of the global in the 
@@ -105,19 +106,19 @@ the narratives implicit in everyday routine and our daily lives. Its siting on t
 external surface of the gallery incites an evocation of the porosity of meaning 
 that may emerge from such a public institution, through a contemplation of 
 private ideas and thoughts seeping into the public domain.
-Production support for the exhibition with MeriÃ§ AlgÃ¼n Ringborg is generously 
+Production support for the exhibition with Meriç Algün Ringborg is generously 
 provided by SAHA Association. www.saha.org.tr
 http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“ 
+1) Exhibition Opening and Closing Party for Capture Photography Festival – 
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture 
 Photography Festival, www.capturephotofest.com. Opening reception 
 sponsor: Kronenbourg 1664.
 2) Artist talk: 
-MeriÃ§ AlgÃ¼n Ringborg
+Meriç Algün Ringborg
 Wednesday, November 20, 7pm
 Emily Carr University of Art + Design
 Room 301, 1399 Johnston Street, Granville Island
@@ -137,7 +138,7 @@ Tuesday, December 3, 7pm
 Erdem Taşdelen is a multidisciplinary artist who lives and works in Vancouver 
 and currently teaches in the Critical and Cultural Studies Department at Emily 
 Carr University of Art + Design.
-4) Free Guided Visits â€“ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec 
+4) Free Guided Visits – Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec 
 14, Dec 15, Jan 5 and Jan 11. All tours start at 3pm. Contemporary Art 
 Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications 
@@ -164,9 +165,9 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W: 
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues â€“ Sun: 12 â€“ 6 pm. FREE ADMISSION 
+Hours: Tues – Sun: 12 – 6 pm. FREE ADMISSION 
 IMAGE: James Welling, Gelatin Photograph 51 (1984), inkjet print mounted to 
-metal, 20 Ã— 16 inches. Courtesy the artist and David Zwirner Gallery, New 
+metal, 20 × 16 inches. Courtesy the artist and David Zwirner Gallery, New 
 York / London.
 ENDS	
 

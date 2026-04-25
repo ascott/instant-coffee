@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 9
 type: ""
+venue: "VAG at Vancity Theatre"
 summary: "VAG at Vancity Theatre | Lecture: Philip Tinar | MAR 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Small House Gallery [online]"
 summary: "Small House Gallery [online] | Something Big and Invisible"
 ---
 

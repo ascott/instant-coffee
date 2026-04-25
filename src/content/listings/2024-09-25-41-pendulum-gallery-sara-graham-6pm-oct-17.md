@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 41
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Sara Graham | 6PM | OCT 17"
 ---
 

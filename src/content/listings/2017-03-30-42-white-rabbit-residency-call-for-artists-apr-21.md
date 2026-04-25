@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 42
 type: "CALL"
+venue: "White Rabbit Residency"
 summary: "White Rabbit Residency | Call for Artists | APR 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 27
 type: "EVENT"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | Art and Community Reading Group | FEB 23"
 ---
 

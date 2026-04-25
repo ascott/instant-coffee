@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 7
 type: "TALK"
+venue: "grunt gallery"
 summary: "grunt gallery | BONUS EDITION of Spare: A Fireside Artist Talk | APR 7"
 ---
 

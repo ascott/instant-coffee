@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 17
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | TechniCowlour | JAN 18"
 ---
 

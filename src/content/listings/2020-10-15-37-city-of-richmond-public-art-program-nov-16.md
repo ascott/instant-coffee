@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 37
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | Public Art Program | NOV 16"
 ---
 

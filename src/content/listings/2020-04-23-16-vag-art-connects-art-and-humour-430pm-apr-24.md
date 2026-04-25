@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 16
 type: "EDUCATION"
+venue: "VAG Art Connects"
 summary: "VAG Art Connects | ART AND HUMOUR | 430PM | APR 24"
 ---
 

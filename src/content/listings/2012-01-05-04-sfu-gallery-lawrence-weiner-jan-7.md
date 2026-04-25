@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we’re waylaid "
 emailDate: "Wed, 04 Jan 2012 21:35:09 -0800"
 number: 4
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | LAWRENCE WEINER | JAN 7"
 ---
 

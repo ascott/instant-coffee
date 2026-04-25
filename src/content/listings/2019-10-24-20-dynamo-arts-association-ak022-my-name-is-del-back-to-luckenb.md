@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 20
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | AK022 | My Name is Del | Back to Luckenbach | NOV 2"
 ---
 

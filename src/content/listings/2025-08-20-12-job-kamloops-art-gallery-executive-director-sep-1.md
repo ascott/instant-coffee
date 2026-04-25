@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 12
 type: ""
+venue: "JOB"
 summary: "JOB | KAMLOOPS ART GALLERY | Executive Director | SEP 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 37
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Spare Room | Charcuterie 5 | 8PM | OCT 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 2
 type: "OPENING"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Talia Shipman - Meet Me In The Middle | JAN 5"
 ---
 

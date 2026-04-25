@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 26
 type: "OPENING"
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | This Could Take Decades - Oksanen & Paolinelli | APR 25"
 ---
 
-A simultaneous crystallization between two practices, â€œThis Could Take
+A simultaneous crystallization between two practices, “This Could Take
 Decadesâ€  features the work of artists Shannon Oksanen and Nathalee
 Paolinelli. One practice traverses interiority and self-introspection,
 while the other embraces the exuberance and whimsy of childhood.

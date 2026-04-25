@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 13
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | NOT SENT LETTERS & GUESTS | 7PM | NOV 17"
 ---
 

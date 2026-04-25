@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 35
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | THE LIND PRIZE | APR 7"
 ---
 

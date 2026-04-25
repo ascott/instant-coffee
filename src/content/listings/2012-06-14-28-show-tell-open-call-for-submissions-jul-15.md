@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 28
 type: ""
+venue: "Show & Tell"
 summary: "Show & Tell | Open Call for Submissions | JUL 15"
 ---
 
@@ -47,6 +48,6 @@ Deadline for submissions: July 15th, 2012 at midnight.
 We are very excited to hear from everyone! 
 
 Show & Tell
-â€” â€” â€” â€” â€”
+— — — — —
 Kari Kleinmann
 Kurtis Wilson

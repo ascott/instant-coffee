@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 6
 type: "EDUCATION"
+venue: "MIT Program in Art, Culture and Technology"
 summary: "MIT Program in Art, Culture and Technology | Art in the Digital Age"
 ---
 

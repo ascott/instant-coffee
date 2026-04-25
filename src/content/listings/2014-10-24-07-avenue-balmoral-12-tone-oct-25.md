@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 7
 type: ""
+venue: "Avenue"
 summary: "Avenue | Balmoral 12-tone | OCT 25"
 ---
 
@@ -34,16 +35,16 @@ Logan Sturrock
 Allison Watters
 Zebulon Zang
 
-The other day I was listening to Robert Ashleyâ€™s composition Automatic 
+The other day I was listening to Robert Ashley’s composition Automatic 
 Writing on headphones. Amidst the chaos of hissing sounds, and bi-lingual 
 mutters, there is a bass line that bounces along with so much pleasure that 
 it seems like it is coming from a different space, a different circumstance, 
-but there it is glued to Ashleyâ€™s composition.
+but there it is glued to Ashley’s composition.
 
 This reminded me of a night when I was sitting alone in the middle room 
 at Avenue, and like many nights I could hear what was occurring next door 
-on the Balmoralâ€™s dance floor. The bass seemed to shine through the 
-roomâ€™s stucco wall, rattling it, animating it, as if it was a creature in its own 
+on the Balmoral’s dance floor. The bass seemed to shine through the 
+room’s stucco wall, rattling it, animating it, as if it was a creature in its own 
 right, enticing me to document its presence. I fished a field recorder out of 
 my bag. Turning on this machine always seduces me. The amplification of 
 hearing to colossal levels. The unbelievable affirming nudge that what your 
@@ -52,7 +53,7 @@ you are listening to? Just press record. That evening the sounds coming
 from the Balmoral were fucked; this was the descriptor that came to mind 
 to describe a scene that I could not understand. A throttling bass line, a 
 beat, and a melody; all discernible, all comfortably submergible within the 
-clichÃ©s that populate any dance floor, all of this was mixed with a sound 
+clichés that populate any dance floor, all of this was mixed with a sound 
 that I could not name but only picture. It was as though a bomb had been 
 set off in the Balmoral. As the music stretched on so did the explosions, 
 covering the groove stroke for stroke. Its every ripple seemed to propose a 
@@ -83,7 +84,7 @@ oven on. A sensation I feel some duty to report as I am referring to the fact
 that Avenue was once a pizza parlour. I rushed into the larger room to find 
 a studio mate sitting beneath his light, listening in full blast to an album 
 called New History Warfare by Colin Stetson. â€œThis, is mixing with that?â€  
-Against the sound coming from the boom box my friend couldâ€™ve only seen 
+Against the sound coming from the boom box my friend could’ve only seen 
 a mouthed statement along with a few giggly arm gestures directed at the 
 Balmoral, it probably looked as though I was dancing, raving towards the 
 wall, and at that moment, with my headphones off these moves were 

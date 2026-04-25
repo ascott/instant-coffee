@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 2
 type: ""
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Talk by Julian Myers: Riot Shows | FEB 12"
 ---
 

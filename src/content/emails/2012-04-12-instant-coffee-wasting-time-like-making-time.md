@@ -93,9 +93,9 @@ Blim presents:
 Biographie Interaction
 by Stephane Brogniez and Dianna Lippolis
 Biographie Interactions is a collaborative installation between Belgium based 
-artists Stephane Brogniez and Dianna Lippolis. Stephane Brogniezâ€™s work is an 
+artists Stephane Brogniez and Dianna Lippolis. Stephane Brogniez’s work is an 
 explosion of abstract forms, combined with geometric draw- ings, stemming 
-beyond the framework. Diana Lippolisâ€™s work is more intimate and poetic, as 
+beyond the framework. Diana Lippolis’s work is more intimate and poetic, as 
 each drawing is contained within the artwork. Together they create a space that 
 is both visually kinetic and abstractly human.
 Stephane Brogniez, also known as Digital mushy, is fascinated with creative 
@@ -132,13 +132,13 @@ Design24 embraces the parallels between art and design/ designer and artist;
 paying respect to the duality of commercial design work, its artists and culture.
 
 DESIGN24:
-RECEPTION: Friday, April 13th â€“ 8pm â€“ 1am â€“ Gallery FUKAI â€“ 602 E.Hasings
+RECEPTION: Friday, April 13th – 8pm – 1am – Gallery FUKAI – 602 E.Hasings
 
 ADDITIONAL VIEWINGS: Sat, April 21st - Sat, April 28th 
 
 Vancouver, April 4, 2012: Launching on Friday April 13th at 8pm, Design 24 
 finds its inaugural reception as a new bi-annual event featuring some of the west 
-coastâ€™s most reputable emerging and established artists, graphic designers and 
+coast’s most reputable emerging and established artists, graphic designers and 
 illustrators.
 
 DESIGN24:
@@ -163,7 +163,7 @@ In graphic design, "the essence is to give order to information, form to ideas,
 expression and
 feeling to artifacts that document human experience." * A valid statement, 
 although interpretations
-and the modern popular recognition of graphic design may argue itâ€™s primary
+and the modern popular recognition of graphic design may argue it’s primary
 function as a marketing application - both visual and psychological 
 considerations
 argue differently in the works of artists such as Andy Warhol, Patrick McNeil 
@@ -175,7 +175,7 @@ Ben Tour
 installations of
 Office Supplies Incorporated (Vancouver Art Gallery), Design24 enlists the 
 works of 24 of
-the west coastâ€™s independent designers and illustrators in the recognition of 
+the west coast’s independent designers and illustrators in the recognition of 
 graphic design
 culture and its contributors.
 
@@ -196,8 +196,8 @@ Co-curator, Design24.
 Reinhold, 1983
 
 For additional information or to arrange an interview with a contributing artist, 
-exhibition curator or gallery director contact: Neal Nolan â€“ Watermark Creative 
-â€“ nealnolan@gmail.com - (250) 629 6851
+exhibition curator or gallery director contact: Neal Nolan – Watermark Creative 
+– nealnolan@gmail.com - (250) 629 6851
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-04-12-05-or-gallery-una-knox-apr-13">05. Or Gallery | Una Knox | APR 13</a>
@@ -206,7 +206,7 @@ Or Gallery
 
 4 and a half feet to the left, behind me 
 Una Knox
-April 14 â€” May 19, 2012
+April 14 — May 19, 2012
 Opening Friday, April 13, 8PM
 
 The Or Gallery is pleased to announce the opening of a new solo exhibition by 
@@ -219,13 +219,13 @@ facility.
 
 In an overdubbed narration, Woodhouse describes his work managing the 
 images of the museum collection, as well as his own temporal lobe epilepsy, a 
-rare medical condition that causes a profound feeling of dÃ©jÃ  vu prior to the 
+rare medical condition that causes a profound feeling of déjà vu prior to the 
 onset of an epileptic seizure. Overtime, these two elements seem increasingly 
 linked, and the hallways and rooms of the museum storage building take on a 
 metaphoric importance, as though Woodhouse is meandering through the 
 recesses of his own mind, as much as the physical halls and rooms of the 
 institution. Adding to a sense of doubling is the fact that Woodhouse also works 
-as a professional actor, and is in effect â€˜playingâ€™ himself in Knoxâ€™s video, while 
+as a professional actor, and is in effect ‘playing’ himself in Knox’s video, while 
 also seeming to ruminate on this duality of actor vs acted persona.
 
 Other works in the exhibition carry a similar layering or doubling. A series of 
@@ -296,18 +296,18 @@ Settlements, Habitat Forum took place at Jericho Beach in Vancouver
 from May 31-June 11, 1976. Within the largest conference the UN had
 ever assembled, the forum allowed international delegates to discuss
 pressing issues of homelessness, environmental and social
-sustainability, womenâ€™s rights, poverty, and the growing challenges of
+sustainability, women’s rights, poverty, and the growing challenges of
 design, planning and urbanization.
 
 Attended by countless major figures in public policy, architecture and
-the arts, Habitat â€™76 was one of Vancouverâ€™s defining historical
-events - on a similar scale to Expo â€™86 or the 2010 Olympics -
+the arts, Habitat ’76 was one of Vancouver’s defining historical
+events - on a similar scale to Expo ’86 or the 2010 Olympics -
 influencing the culture and politics of the city, though the site and
 event have largely been eclipsed in public memory.
 
 Please join writer Lindsay Brown in an active exploration of her
 extensive research, to re-imagine the Habitat Forum site and
-experience while discovering the subterranean legacy of Vancouverâ€™s
+experience while discovering the subterranean legacy of Vancouver’s
 beautiful vintage modern hangars - demolished after the event.
 
 This event aims to engage a range of community members.
@@ -370,12 +370,12 @@ dimcinema.ca/ cinematheque.bc.ca
 Recently preserved by the Museum of Modern Art and The Pace Gallery in New 
 York, Gabriel is the only completed film by the painter Agnes Martin (1912-
 2004), a leading figure in American abstract art. (Martin was born in 
-Saskatchewan and raised in Vancouver). â€œGabriel [is] a historically unique work 
+Saskatchewan and raised in Vancouver). “Gabriel [is] a historically unique work 
 that both illuminates and complicates our understanding of the artist and her 
-paintings. â€˜My movie is about happiness, innocence, and beauty,â€™ Martin 
-observed. â€˜Itâ€™s about this little boy who climbs a mountain and all the beautiful 
-things he sees.â€™ To those familiar with the luminous, tactile, exacting geometries 
-of her paintings, Gabrielâ€™s elusive style and structure may come as a surprise: 
+paintings. ‘My movie is about happiness, innocence, and beauty,’ Martin 
+observed. ‘It’s about this little boy who climbs a mountain and all the beautiful 
+things he sees.’ To those familiar with the luminous, tactile, exacting geometries 
+of her paintings, Gabriel’s elusive style and structure may come as a surprise: 
 the lack of logical continuity; the point of view that shifts between that of the boy 
 and an unseen observer; the handheld camera that is rarely at rest, but instead 
 feels its way across the landscape, meandering and contemplating. Whatever 
@@ -383,14 +383,14 @@ tension exists in Gabriel comes from transition, variation, and difference:
 between shore and land, snow and desert, silence and Bach, solidity and 
 movement, abstraction and natureâ€  (MOMA). 78 mins, 1976, Colour, 16mm 
 transferred to DVD, USA. Courtesy of The Pace Gallery.
-â€œAgnes Martin was born in Macklin, Saskatchewan in 1912 and grew up in 
+“Agnes Martin was born in Macklin, Saskatchewan in 1912 and grew up in 
 Vancouver. She moved to the USA in 1932, taking American citizenship in 1940. 
 Martin held her first one-woman exhibition at the Betty Parsons Gallery in New 
 York in 1958. She constructed her paintings on a rational grid system, 
 superimposing a network of pencilled lines and later coloured bands on fine-
 grained canvas stained with washes of colour. These paintings were influential 
 on the development of Minimalism in the USA, although Martin regarded her use 
-of grids as a development from the â€˜all-overâ€™ compositional methods of Abstract 
+of grids as a development from the ‘all-over’ compositional methods of Abstract 
 Expressionism. She persistently rejected the suggestion that her paintings were 
 conceived in response to the landscape of New Mexico, where she settled again 
 in 1967 and where she chose to work most of her lifeâ€  (Oxford University 
@@ -444,7 +444,7 @@ and dogma of every sort.
 
 ---
 
-Bhagat Singh (1907â€“1931) was an Indian nationalist considered to be one of the 
+Bhagat Singh (1907–1931) was an Indian nationalist considered to be one of the 
 most influential revolutionaries of the Indian independence movement. He is 
 often referred to as Shaheed Bhagat Singh, the Hindi-Urdu word Shaheed 
 meaning "martyr".
@@ -493,7 +493,7 @@ and comparative literature from the University of Alberta.
 ------------------------------------------------------------------------
 HAPHY is a whimsical, non-sense word that describes a partial feeling half-way 
 happy. The exhibition is a light-hearted but emphatic response to the habitual 
-interpretation of contemporary art. The show features a selection of Heilbronâ€™s 
+interpretation of contemporary art. The show features a selection of Heilbron’s 
 paintings and drawings from the past four years. Alex uses a non-linear 
 narrative that ties her images together with insistent visual language. 
 
@@ -540,7 +540,7 @@ the urban environment and stretches out with colour and abstraction .
 His collages, large and small and his sculptures show his interest in built form 
 and in how we experience and 
 invent visual pleasure. 
-This new work points to McNeilâ€™s interest and engagement with the physical 
+This new work points to McNeil’s interest and engagement with the physical 
 world, and the ways in which existing forms can be reinterpreted and new forms 
 created. 
 
@@ -548,20 +548,20 @@ created.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-04-12-14-vivo-media-arts-centre-slab-6-expanding-the-theremin-apr-26">14. VIVO Media Arts Centre | SLAB 6 Expanding the theremin | APR 26</a>
 ------------------------------------------------------------------------
-VIVOâ€™s 6th SLAB experimental experience is coming around fast.
+VIVO’s 6th SLAB experimental experience is coming around fast.
 
 April 26th - May 26th 2012
 
 This workshop experience looks to expand the uses of the theremin as a 
 medium. Using experimentation with electronics, light, mechanics and 
-audio/visual interfaces, this promises to be â€˜flying by the seat of your pantsâ€™ 
+audio/visual interfaces, this promises to be ‘flying by the seat of your pants’ 
 stuff pushing the boundaries of the possible in a supportive, creative and playful 
 environment.
 
 The deadline for registrations is April 14, limited places are available on this 
 heavily subsidized workshop.
 Workshops begin April 26. If you have your own theremin please let us know, or 
-if youâ€™d like to partner with someone even better. We have a limited number of 
+if you’d like to partner with someone even better. We have a limited number of 
 theremins available here at VIVO.
 
 Cost: $150 +HST
@@ -627,12 +627,12 @@ Marian Penner Bancroft Honoured with Audain Prize for
 Lifetime Achievement in the Visual Arts
 
 Beau Dick and Ron Tran to Receive VIVA Awards
-Vancouver, B.C. â€“ The 9th annual Audain Prize, awarded by the Audain 
+Vancouver, B.C. – The 9th annual Audain Prize, awarded by the Audain 
 Foundation for the Visual Arts for lifetime achievement, will honour noted artist 
 and teacher Marian Penner Bancroft. Artists Beau Dick and Ron Tran are the 
 2012 recipients of VIVA Awards, granted annually by the Jack and Doris 
 Shadbolt Foundation.
-Based in Vancouver, Marian Penner Bancroftâ€™s work has been exhibited 
+Based in Vancouver, Marian Penner Bancroft’s work has been exhibited 
 nationally and internationally and is held in numerous collections, including 
 those of the Vancouver Art Gallery and the Canadian Museum of Contemporary 
 Photography in Ottawa. Her work investigates the intersections of the 
@@ -651,12 +651,12 @@ including the Canadian Museum of Civilization, the Heard Museum (Phoenix),
 the Burke Museum (Seattle) and the Vancouver Art Gallery. Reaching out 
 beyond the confines of his own Kwakwaka'wakw culture, Dick has explored new 
 formats and techniques in his work, including painting and drawing. Born in 
-Vietnam, Vancouver-based artist Ron Tranâ€™s work explores the ways that 
+Vietnam, Vancouver-based artist Ron Tran’s work explores the ways that 
 chance and coincidence influence daily life. Tran has exhibited in both group 
 and solo exhibitions in Canada, Europe and Asia. He was selected for the 2007 
 East International Biennial in Norwich, England and the Berlin Biennale 6.
 â€œWe are honoured to celebrate these important artists,â€  said Gallery director 
-Kathleen Bartels, â€œThese annual awards are a highlight of Canadaâ€™s visual arts 
+Kathleen Bartels, “These annual awards are a highlight of Canada’s visual arts 
 calendar. We congratulate Marian Penner Bancroft, Beau Dick and Ron Tran on 
 these prestigious awards.â€ 
 The Audain Prize for Lifetime Achievement in the Visual Arts and the VIVA 
@@ -688,7 +688,7 @@ and mediums. Our programs are a strong eclectic mix of animation,
 representing the best of the medium from Claymation to CG. We focus on 
 presenting indie, experimental, and underground animations that push 
 boundaries through new techniques, unique visions, and stimulating subject 
-matter. Our 2011 program featured visiting artist David Oâ€™Reilly, and 3 of the 5 
+matter. Our 2011 program featured visiting artist David O’Reilly, and 3 of the 5 
 Academy Award nominees for Best Short Animation!
 We DO NOT CHARGE A SUBMISSION FEE, and encourage short and feature 
 length local, national, international, and student submissions. 

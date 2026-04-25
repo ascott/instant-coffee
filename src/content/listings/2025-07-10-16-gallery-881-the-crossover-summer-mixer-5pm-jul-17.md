@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 16
 type: "EVENT"
+venue: "Gallery 881"
 summary: "Gallery 881 | The Crossover: Summer Mixer | 5PM | JUL 17"
 ---
 

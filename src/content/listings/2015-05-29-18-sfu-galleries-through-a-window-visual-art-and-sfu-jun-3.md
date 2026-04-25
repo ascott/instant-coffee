@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 18
 type: "OPENING"
+venue: "SFU Galleries"
 summary: "SFU Galleries | Through a Window: Visual Art and SFU | JUN 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 3
 type: ""
+venue: "Solder Social"
 summary: "Solder Social | the eve of the eve of the eve of the eve of | OCT 28"
 ---
 

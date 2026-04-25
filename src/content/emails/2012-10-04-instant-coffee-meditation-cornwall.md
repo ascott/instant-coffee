@@ -18,7 +18,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-10-04-04-gallery-fukai-the-happiest-future-oct-5">04. Gallery FUKAI | THE HAPPIEST FUTURE | OCT 5</a>
 <a href="/instant-coffee/listings/2012-10-04-05-gam-gallery-matias-armendaris-nausea-oct-5">05. Gam Gallery | Matias Armendaris: Nausea | OCT 5</a>
 <a href="/instant-coffee/listings/2012-10-04-06-sfu-english-department-marie-clements-oct-5">06. SFU English Department | Marie Clements | OCT 5</a>
-<a href="/instant-coffee/listings/2012-10-04-07-cineworks-cindy-mochizukis-shiro-yagi-oct-6">07. Cineworks | Cindy Mochizukiâ€™s Shiro Yagi | OCT 6</a>
+<a href="/instant-coffee/listings/2012-10-04-07-cineworks-cindy-mochizukis-shiro-yagi-oct-6">07. Cineworks | Cindy Mochizuki’s Shiro Yagi | OCT 6</a>
 <a href="/instant-coffee/listings/2012-10-04-08-millions-magazine-first-issue-out-oct-6">08. Millions Magazine | first issue out | OCT 6</a>
 <a href="/instant-coffee/listings/2012-10-04-09-miracle-connelly-presents-meditation-cornwall-oct-6">09. MIRACLE & CONNELLY PRESENTS | Meditation Cornwall | OCT 6</a>
 <a href="/instant-coffee/listings/2012-10-04-10-gallery-gachet-power-to-the-people-conversations-on-art-agai">10. Gallery Gachet | Power to the People: Conversations on Art Against | OCT 7</a>
@@ -29,15 +29,15 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-10-04-15-grunt-gallery-mounira-al-solh-oct-11">15. grunt gallery | Mounira Al Solh | OCT 11</a>
 <a href="/instant-coffee/listings/2012-10-04-16-langara-college-centre-for-art-in-public-spaces-talk-erica-s">16. Langara College Centre for art in public spaces | Talk: Erica Stocking and Vanessa Kwan | OCT 11</a>
 <a href="/instant-coffee/listings/2012-10-04-17-malaspina-printmakers-kegan-mcfadden-oct-11">17. Malaspina Printmakers | Kegan McFadden | OCT 11</a>
-<a href="/instant-coffee/listings/2012-10-04-18-unitpitt-projects-red76-this-is-an-a-front-a-covert-educatio">18. UNIT/PITT Projects | Red76: This Is An (A) Front â€“ A Covert Education | OCT 11</a>
+<a href="/instant-coffee/listings/2012-10-04-18-unitpitt-projects-red76-this-is-an-a-front-a-covert-educatio">18. UNIT/PITT Projects | Red76: This Is An (A) Front – A Covert Education | OCT 11</a>
 <a href="/instant-coffee/listings/2012-10-04-19-audain-gallery-sfu-woodwards-claire-fontaine-carelessness-ca">19. Audain Gallery | SFU Woodward's | Claire Fontaine: Carelessness Causes Fire | OCT 12</a>
 <a href="/instant-coffee/listings/2012-10-04-20-goldcorp-centre-for-the-arts-malaspina-printmakers-donato-ma">20. Goldcorp Centre for the Arts | Malaspina Printmakers: Donato Mancini | OCT 12</a>
 <a href="/instant-coffee/listings/2012-10-04-21-221a-translation-services-part-2-until-oct-13">21. 221A | Translation Services - Part 2 | until | OCT 13</a>
 <a href="/instant-coffee/listings/2012-10-04-22-granville-fine-art-wayne-ngantoni-onleygroup-of-sevenpainter">22. Granville Fine Art | Wayne Ngan|Toni Onley|Group of Seven|Painters 11 | OCT 13</a>
 <a href="/instant-coffee/listings/2012-10-04-23-western-front-variety-show-television-oct-13">23. Western Front | Variety Show Television | OCT 13</a>
-<a href="/instant-coffee/listings/2012-10-04-24-sfus-vancity-office-of-community-engagement-lindsay-brown-va">24. SFU's Vancity Office of Community Engagement | Lindsay Brown: Vancouverâ€™s UN Hanitat Forum | OCT 15</a>
+<a href="/instant-coffee/listings/2012-10-04-24-sfus-vancity-office-of-community-engagement-lindsay-brown-va">24. SFU's Vancity Office of Community Engagement | Lindsay Brown: Vancouver’s UN Hanitat Forum | OCT 15</a>
 <a href="/instant-coffee/listings/2012-10-04-25-cineworks-images-on-tour-25th-anniversary-in-vancouver-oct-1">25. Cineworks | Images on Tour: 25th Anniversary in Vancouver | OCT 18</a>
-<a href="/instant-coffee/listings/2012-10-04-26-caf-for-contemporary-art-exhibition-by-dril-oct-19">26. cafÃ© for contemporary art | Exhibition by DRIL | OCT 19</a>
+<a href="/instant-coffee/listings/2012-10-04-26-caf-for-contemporary-art-exhibition-by-dril-oct-19">26. café for contemporary art | Exhibition by DRIL | OCT 19</a>
 <a href="/instant-coffee/listings/2012-10-04-27-visual-arts-professionals-in-favour-of-a-new-vancouver-art-g">27. Visual Arts Professionals in favour of a new Vancouver Art Gallery | http://www.newvag.ca/</a>
 <a href="/instant-coffee/listings/2012-10-04-28-goldcorp-centre-for-the-arts-an-evening-with-sarah-schulman-">28. Goldcorp Centre for the Arts | An evening with Sarah Schulman | NOV 3</a>
 <a href="/instant-coffee/listings/2012-10-04-29-savac-seeking-submissions-nov-9">29. SAVAC | seeking: submissions | NOV 9</a>
@@ -138,14 +138,14 @@ View it in your browser.
 FAG Satellite @ Access Gallery continues this week with;
 In the shadow of our own dust / Valerie Salez / October 2-6
 
-Reception and Performance: Friday October 5th, 8 â€“ 11pm
+Reception and Performance: Friday October 5th, 8 – 11pm
 
 In a hybrid practice that combines ritual with drawing, sculpture, video and 
 installation, Salez presents ceremony as the original social/relational art 
 practice. She approaches the work from a point beyond political rhetoric. True 
-accessing and re-connection with sacred realms cannot include political doâ€™s, 
-donâ€™ts and boundaries. It belongs to everyone, everywhere and is as inherent 
-a right as breathing. The artist does not view this as â€˜new ageâ€™ but as a 
+accessing and re-connection with sacred realms cannot include political do’s, 
+don’ts and boundaries. It belongs to everyone, everywhere and is as inherent 
+a right as breathing. The artist does not view this as ‘new age’ but as a 
 practice that is age old. Critical irony and the imposition of any one religious 
 or spiritual doctrine is not found in her work. Instead it rises out of a primordial 
 sense that reaches back so far it cannot be named. Blood and bones simply 
@@ -169,7 +169,7 @@ the Yukon and has lived across Canada.
 
 Other Upcoming events/installations for FAG @ Access include;
 
-October 11-13 Sharlene Bamboat (Toronto) The Queenâ€™s Punishment
+October 11-13 Sharlene Bamboat (Toronto) The Queen’s Punishment
 
 Access Gallery gratefully acknowledges the Canada Council for the Arts, BC 
 Arts Council, City of Vancouver, our members and volunteers. Access is a 
@@ -183,7 +183,7 @@ For more info on the FAG Satellite @ Access Gallery
 Gallery FUKAI is very pleased to announce THE HAPPIEST FUTURE, a solo 
 show of new work from former Vancouver based artist Sonny Assu.
 
-THE HAPPIEST FUTURE has been inspired by World War I â€“ II / Communist 
+THE HAPPIEST FUTURE has been inspired by World War I – II / Communist 
 era propaganda dissemination, and based on the oppressive language that 
 has been, and continues to be used by the Canadian government, its officials, 
 its departments, and its bills of law. The language used, which has never been 
@@ -247,7 +247,7 @@ Matias Armendaris: Nausea
 October 5 - November 2
 OPENING RECEPTION: Friday October 5, 8 pm
 
-â€œExistence is not something which lets itself be thought of from a distance: it 
+“Existence is not something which lets itself be thought of from a distance: it 
 must invade you suddenly, master you, weigh heavily on your heart like a 
 great motionless beast â€“or else there is nothing more at all.â€ 
 ― Jean-Paul Sartre, Nausea
@@ -265,8 +265,8 @@ the crude experience of the physical interaction with the world.
 
 Matias Armendaris was born in Ecuador and raised in Quito, Bogota and 
 Mexico City. A current Visual Arts student at the Emily Carr University of Art 
-and Design, Armendaris has also studies printmaking at the FundaciÃ³n 
-EstamperÃ­a QuiteÃ±a in Quito, Ecuador. He has participated in group and solo 
+and Design, Armendaris has also studies printmaking at the Fundación 
+Estampería Quiteña in Quito, Ecuador. He has participated in group and solo 
 exhibition in Canada, Ecuador and Mexico, and was awarded Feature Artist of 
 the Year, 40th Annual Art Fair, the American School Foundation, Mexico 
 City, in 2009.
@@ -295,7 +295,7 @@ Harbour Centre, SFU
 Free and Open to the Public
 
 About Marie Clements
-Marie Clements is an award-winning MÃ©tis Dene playwright, screenwriter,
+Marie Clements is an award-winning Métis Dene playwright, screenwriter,
 performer, director, and producer, and co-director of Frog Girl Films and
 red diva projects. She has worked extensively in and across a variety of
 media including theatre, performance, film, new media, radio, and
@@ -303,7 +303,7 @@ television. Her twelve plays, including Copper Thunderbird, Burning Vision,
 and The Unnatural and Accidental Women, have been presented on some of 
 the
 most prestigious stages for Canadian and international work including the
-Festival de thÃ©Ã¢tre des AmÃ©riques in Montreal (Urban Tattoo 2001; Burning
+Festival de théâtre des Amériques in Montreal (Urban Tattoo 2001; Burning
 Vision 2003), and the National Arts Centre and The Magnetic North Festival
 in Ottawa (Burning Vision 2003; Copper Thunderbird 2007; Edward Curtis
 Project 2013). Her work has garnered numerous awards, including the 2004
@@ -334,23 +334,23 @@ Peoples, and the Ellen & Warren Tallman Endowment.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-10-04-07-cineworks-cindy-mochizukis-shiro-yagi-oct-6">07. Cineworks | Cindy Mochizukiâ€™s Shiro Yagi | OCT 6</a>
+<a href="/instant-coffee/listings/2012-10-04-07-cineworks-cindy-mochizukis-shiro-yagi-oct-6">07. Cineworks | Cindy Mochizuki’s Shiro Yagi | OCT 6</a>
 ------------------------------------------------------------------------
-Cineworks presents: Cindy Mochizukiâ€™s Shiro Yagi
+Cineworks presents: Cindy Mochizuki’s Shiro Yagi
 
 2012 Local Artist in Residence (LAIR) Final Presentation
 
 Shiro Yagi is a short experimental animated film that is inspired from the last 
-sheet of existing music of the artistâ€™s maternal grandfather, Sueo Mori. Mori 
+sheet of existing music of the artist’s maternal grandfather, Sueo Mori. Mori 
 was a poet, composer and high school teacher based in Yokohama, Japan. 
 The composition and poem was written in 1927. The film explores the re-
 connection of memory through conversations, between the director and her 
-mother that ensued after Moriâ€™s musical and literary practices were re-
+mother that ensued after Mori’s musical and literary practices were re-
 discovered from the piece of ephemera.
 
-Shiro Yagi features sound design by Antoine BÃ©dard with new compositions 
-by mimiâ€™s ami and Takeo Yamashiro. The layered aesthetic treatment of the 
-animation explores the 1920â€™s genre of early Japanese cinema and 
+Shiro Yagi features sound design by Antoine Bédard with new compositions 
+by mimi’s ami and Takeo Yamashiro. The layered aesthetic treatment of the 
+animation explores the 1920’s genre of early Japanese cinema and 
 storytelling techniques kamishibai (Japanese paper theatre), and tatebanko 
 (miniature paper dioramas). The stop motion set is created by moveable 
 panels of paper and have integrated lighting designed by James Proudfoot. 
@@ -361,7 +361,7 @@ Long.
 Join us for this closing reception/screening on Saturday, October 6, 2012
 At our Cineworks Studio (1131 Howe St, back lane entrance). The film will 
 screen on loop throughout the evening.
-8 â€“ 10 p.m. Free
+8 – 10 p.m. Free
 
 With Refreshments sponsored by The Powell Street Festival and Driftwood 
 Brewery
@@ -413,7 +413,7 @@ glimpse at some cherished and never-exhibited works. - JP
 + A found painting "Meditation Cornwall" from Rodney Graham 
 + A drawing by N.E. Thing Company from Jane Irwin
 + 78 drawings by Pablo Bronstein from Aaron Carpenter
-+ A giclÃ©e print by Assume Vivid Astro Focus from Jenifer Papararo
++ A giclée print by Assume Vivid Astro Focus from Jenifer Papararo
 + 3 drawings by Cory Arcangel from Caitlin Jones 
 + Youth Portraits (1985) on newsprint by Ken Lum from Tonik Wojtyra
 + 2 found photographs from Melanie O'Brian and Wayne Arsenault
@@ -429,11 +429,11 @@ For further inquiries please write us@miracleandconnellypresents.com
 ------------------------------------------------------------------------
 Panel Day at Gallery Gachet
 Power to the People: Conversations on Art Against Oppression
-Sun Oct 7th, 2012, 2 â€“ 6.30pm
+Sun Oct 7th, 2012, 2 – 6.30pm
 Gallery Gachet, 88 East Cordova Street, Vancouver
 www.gachet.org
 
-Panel 1 â€“ The Power of Art, Activism and Performance - 2 - 3.30pm
+Panel 1 – The Power of Art, Activism and Performance - 2 - 3.30pm
 Co-presented by Institutions by Artists, LIVE and Gallery Gachet
 Performance has the power to create socio-economic change. Artists working 
 in the field of performance art, community based theatre, and participatory art 
@@ -451,7 +451,7 @@ festival, LIVE. livebiennale.ca
 Speakers:
 Chumpon Apisuk, is founder of Concrete House, an art and community space 
 and the only performance art venue in Thailand. He is also a founder and 
-director of Asiatopia â€“ an International Performance Art Festival in Thailand. In 
+director of Asiatopia – an International Performance Art Festival in Thailand. In 
 2004, he was nominated as coordinator of _Silabha_ a cultural program of the 
 15th International AIDS Conference in Bangkok and is known for his activism 
 in HIV/AIDS, Human Rights, and democracy issues. He has been 
@@ -464,7 +464,7 @@ Terry Hunter, is Co-founder/Executive Director of Vancouver Moving Theatre
 and Artistic Producer of the Downtown Eastside Heart of the City Festival. Mr. 
 Hunter has also produced numerous innovative productions that give voice to 
 the residents of the Downtown Eastside. Highlights include In the Heart of a 
-City: The DTES Community Play (2003); Weâ€™re All In This Together- the 
+City: The DTES Community Play (2003); We’re All In This Together- the 
 Shadows Project (2005-07), and A Downtown Eastside Romeo and Juliet 
 (2008), a tragic comedy theatre production that shed light on homelessness 
 from a Downtown Eastside perspective.
@@ -497,7 +497,7 @@ facing marginalization while seeking to open a space for all women to find an
 empowered, self-directed voice, one that engages with their inner creativity 
 and connects to their strength as women.
 
-Moderator â€“ Bernadine Fox, Artist and Writer
+Moderator – Bernadine Fox, Artist and Writer
 Bernadine Fox, is a visual artist and social activist working in the field of 
 disability arts, art and mental health. By weaving colours, objects, and words, 
 Fox constructs ethnographic-based narratives in art as she examines the 
@@ -517,7 +517,7 @@ expression; inspiring a process of reflection and questioning, where people
 challenge the traditional beliefs they hold. Noi has received a number of 
 honors in recognition of her work, including the â€œIt Worksâ€  award from the 
 Norwegian government in 1990, a scholarship from Harvard Law School for 
-International Human Rights training in 1997, and the â€œOutstanding Social 
+International Human Rights training in 1997, and the “Outstanding Social 
 Workerâ€  award, in 2000, from the Social Welfare Department of Thailandâ€™s 
 Ministry of Social and Labour Affairs. Recently, Empower received the 
 â€œHuman Rights Awardâ€  in 2006 as an outstanding organization committed to 
@@ -528,11 +528,11 @@ www.empowerfoundation.org.
 
 Susan Davis, is an active sex worker of 24 years, who is involved in sex 
 worker rights and labour organizing and is development coordinator for 
-Canadaâ€™s first sex worker cooperative, the West Coast Cooperative of Sex 
+Canada’s first sex worker cooperative, the West Coast Cooperative of Sex 
 Industry Professionals. She is a respected spokeswoman for the sex worker 
 rights movement whc has lectured on her experiences at universities and 
 colleges and testified to various government bodies, including to the Missing 
-Womenâ€™s Commission of Inquiry. Susan sits on numerous committees as 
+Women’s Commission of Inquiry. Susan sits on numerous committees as 
 she works to support sex worker rights and safety.
 
 Shauna Paull is the author of roughened in undercurrent (Leaf Press, 2008). A 
@@ -543,7 +543,7 @@ different organizations in Vancouver. In community, Shauna has worked
 extensively with migrant and refugee women in areas of labour and mobility 
 rights, poverty alleviation and legislative reform.
 
-5.30 - 6.30pm â€“ screening of Empower Foundationâ€™s movie, â€œLast Rescue in 
+5.30 - 6.30pm – screening of Empower Foundation’s movie, “Last Rescue in 
 Siamâ€ ,
 followed by informal reception with turkey fare and drinks!
 
@@ -553,8 +553,8 @@ performance and promise of contemporary artist-run centres and initiatives.
 Including a three day conference, a series of exhibitions and events, 
 commissions and publications, Institutions by Artists is organized by Pacific 
 Assn. of Artist-run Centres, Fillip magazine and ARCA, the Artist-Run 
-Centres and Collectives Conference/ConfÃ©rence des collectifs et des centres 
-dâ€™artistes autogÃ©rÃ©s.
+Centres and Collectives Conference/Conférence des collectifs et des centres 
+d’artistes autogérés.
 Complete listings: arcpost.ca
 
 ------------------------------------------------------------------------
@@ -650,11 +650,11 @@ Landscapes, directed Jennifer Baichwal, 2006). His work is often described as
 but what sublime are we talking about here? Burke's disquiet when confronted 
 by natural disorder, or Kant's absolute breakdown of cognitive faculties? I will 
 discuss Burtynsky's pictures first of all in terms of Benjamin's theories of 
-photography (the optical unconscious, aura) and then Å½iÅ¾ek's properly 
+photography (the optical unconscious, aura) and then Žižek's properly 
 dialectical sublime (that which is both Kantian and Lacanian). That is, for 
-Å½iÅ¾ek, the sublime object â€“ the "objet petit a," Lacanâ€™s Thing or das Ding â€“ is 
+Žižek, the sublime object – the "objet petit a," Lacan’s Thing or das Ding – is 
 what structures our desire but also serves as a screen against the abyss of 
-desire, which is to say against the sublime; in a way, for Å½iÅ¾ek, Lacan is the 
+desire, which is to say against the sublime; in a way, for Žižek, Lacan is the 
 sublime object to counter the abyss of Kant. In a similar fashion, Burtynsky's 
 gentrified sublime is what protects us from confronting the disaster that is 
 nature. Finally, as counter-examples to Burtynsky's reified sublime, I will 
@@ -670,22 +670,22 @@ have appeared in journals, catalogue essays, and online media in Canada, the
 U.S., and Europe. His latest books include The Only Poetry that Matters: 
 Reading the Kootenay School of Writing (Arsenal Pulp, 2011), and, co-edited 
 with Paul Budra, From Text to Txting: New Media in the Classroom (Indiana 
-University Press, 2012). He is presently writing a book about Slavoj Å½iÅ¾ek and 
+University Press, 2012). He is presently writing a book about Slavoj Žižek and 
 photography.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-10-04-13-ubc-ahva-library-gallery-ded-reckoning-oct-10">13. UBC | AHVA Library Gallery | Ded Reckoning | OCT 10</a>
 ------------------------------------------------------------------------
-Exhibition Event â€“ Ded Reckoning (October 10th â€“ November 3rd)
-Opening Reception - Wednesday, October 10th 5 â€“ 7pm
-AHVA Library Gallery â€“ (located in rm. 112 1958 Main Mall UBC)
+Exhibition Event – Ded Reckoning (October 10th – November 3rd)
+Opening Reception - Wednesday, October 10th 5 – 7pm
+AHVA Library Gallery – (located in rm. 112 1958 Main Mall UBC)
 
 Please join the Department of Art History, Visual Art and Theory on Wednesday, 
 October 10th, from 5 to 7pm, for the opening reception of Ded Reckoning at the 
 AHVA Library Gallery. This exhibition will feature recent work by senior year 
 MFA candidates of the graduate program and will run from October 10th to 
 November 3rd 2012. Featured artists will include Kate Henderson, Chris 
-Howison, Erin Siddall, Carlos ColÃ­n, Stephen Wichuk, and Tristan Sober-
+Howison, Erin Siddall, Carlos Colín, Stephen Wichuk, and Tristan Sober-
 Blodgett. Please visit www.ahva.ubc.ca or gallery.ahva.ubc.ca for contact 
 information and gallery hours.
 
@@ -705,8 +705,8 @@ What Will The Next Revolution Look Like? (Performance)  with Raymond
 Boisjoly, Coupe L'etat, Sebnem Ozpeta, Emilio Rojas and Jeremy Todd 
 A generative performance that tells the story of the Museum's emergence. 
 Mirza/Butler will stage a conversation between their experiences in London, 
-Karachi, Mumbai and Cairo, and VIVOâ€™s community and our experiences in 
-Vancouver. The performance creates an agoraâ€“a space to raise such 
+Karachi, Mumbai and Cairo, and VIVO’s community and our experiences in 
+Vancouver. The performance creates an agora–a space to raise such 
 questions as: What position do you take? When do you participate and when 
 do you abstain? What is your stake in artist-run culture? Are you running your 
 culture? Is it a culture or a museum?
@@ -741,25 +741,25 @@ historical figures.
 Mirza and Butler propose the museum as a conceptual (geo)political 
 construct of gesture, image, and thresholds of language. The Museum of Non 
 Participation was conceived during the Pakistani Lawyers movement in 
-Islamabad â€“ protests Mirza and Butler witnessed through the windows of the 
-National Art Gallery â€“ and developed over an eighteen-month period. As part 
+Islamabad – protests Mirza and Butler witnessed through the windows of the 
+National Art Gallery – and developed over an eighteen-month period. As part 
 of the project, the artists have worked with street vendors, Urdu translators, 
 architects, estate agents, housing activists, lawyers, hairdressers, 
 filmmakers, wedding photographers, newspaper printers, artists, and writers 
 to create spaces for dialogue and exchange. The Museum of Non 
 Participation first appeared as an English/Urdu language class in September 
 2008, traveling from the Oxford House community centre in Bethnal Green to 
-a space behind Yaseenâ€™s Hairdressers on the Bethnal Green Road, and then 
+a space behind Yaseen’s Hairdressers on the Bethnal Green Road, and then 
 to a public performance at the Guernica room in the Whitechapel Gallery. The 
 project has variously taken the form of film, an Urdu/English language 
 exchange, street interventions, a radio show, and performances. Mirza and 
-Butlerâ€™s practice is based on collaboration and dialogue and manifests itself in 
+Butler’s practice is based on collaboration and dialogue and manifests itself in 
 a multi-layered practice of filmmaking, drawing, installation, photography, 
 performance, publishing, and curating. Their work is engaged with challenging 
 and interrogating terms such as participation, collaboration, the social turn as 
 well as the traditional roles of the artist as producer and the audience as 
 recipient, positing the project as a future model for a nomadic, flexible, and 
-adaptable â€œmuseum." They have worked together since 1998, and in 2004 
+adaptable “museum." They have worked together since 1998, and in 2004 
 formed no.w.here, an artist-run space in London, UK for the production, 
 discussion and dissemination of practices engaged with the moving image, 
 politics, technology and aesthetics. (mirza-butler.net)
@@ -851,7 +851,7 @@ community and civic history, the Geyser was commissioned by
 the City of Vancouver. The water feature is a reference to both the 
 natural and man-made elements of the centre: it is thematically 
 tied to the history of underground streams in the area, and is also 
-mechanically tied to the LEED-certified buildingâ€™s grey water 
+mechanically tied to the LEED-certified building’s grey water 
 collection cistern. 
 spEakEr Bios
 Vanessa Kwan and Erica Stocking are Vancouver-based artists 
@@ -916,9 +916,9 @@ www.malaspinaprintmakers.com
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-10-04-18-unitpitt-projects-red76-this-is-an-a-front-a-covert-educatio">18. UNIT/PITT Projects | Red76: This Is An (A) Front â€“ A Covert Education | OCT 11</a>
+<a href="/instant-coffee/listings/2012-10-04-18-unitpitt-projects-red76-this-is-an-a-front-a-covert-educatio">18. UNIT/PITT Projects | Red76: This Is An (A) Front – A Covert Education | OCT 11</a>
 ------------------------------------------------------------------------
-Red76: This Is An (A) Front â€“ A Covert Education
+Red76: This Is An (A) Front – A Covert Education
 
 October 11 to November 3, 2012
 
@@ -935,7 +935,7 @@ relating to power and its uses from our homes to our streets and state
 buildings. In what ways do these relationships alter and regulate our lives, and 
 how might we, within their presence, or even just out of sight, begin to create 
 spaces and actions aimed towards considering new ways in which we might 
-live with one another, more equitably and mindful of one anotherâ€™s needs as 
+live with one another, more equitably and mindful of one another’s needs as 
 well as our own?
 
 Beginning in the spring of 2012 Red76 initiated THIS IS AN (A) FRONT, first 
@@ -944,7 +944,7 @@ in Pristina, Kosovo, called Henry. This action, funded by the US State
 Department, served as a means towards discussing the relative power we 
 hold over one another, as well as more obtusely the power held in relation to 
 the ways and means in which the action itself was initiated to begin with and 
-its associations vis a vis The State. How do we self-regulate when â€œour very 
+its associations vis a vis The State. How do we self-regulate when “our very 
 existenceâ€  is determined through the auspices of governmental power?
 
 For the second edition of THIS IS AN (A) FRONT the group presents Thumbs 
@@ -952,10 +952,10 @@ Up! a â€œused mp3â€  store located in Vancouver, Canadaâ€™s Chinatow
 occasion the front reveals itself almost as a series of skins, each with its own 
 considerations and means of interaction: first, the entrance of UNIT/ PITT will 
 be walled off, converted into a makeshift but functional lobby/convenience 
-store; behind this faÃ§ade lies Thumbs Up!, a shop that sells music distributed 
+store; behind this façade lies Thumbs Up!, a shop that sells music distributed 
 on thumb drives; and third, Thumbs Up! has its very own internet radio station, 
-Power 2012. Each broadcast â€“ through music, interviews, conversations, and 
-readings â€“ relates to our daily relationship to power, macro to micro, from 
+Power 2012. Each broadcast – through music, interviews, conversations, and 
+readings – relates to our daily relationship to power, macro to micro, from 
 individual to State and back again.
 
 To tune in to Power 2012 visit http://power2012.ca starting Oct. 11 2012, or 
@@ -963,14 +963,14 @@ visit UNIT/PITT at 15 East Pender Street during open hours to purchase music
 and speak your mind on the air directly to the world at large.
 
 Presented in conjunction with the Institutions By Artists conference, October 
-12 â€“ 14, 2012.
+12 – 14, 2012.
 
-Red76â€™s initiatives utilize overlooked histories and common shared 
+Red76’s initiatives utilize overlooked histories and common shared 
 occurrences as a means of creating a framework in which to construct their 
 public inquiries. Social histories, collaborative research, parallel politics, free 
 media, alternative educational constructs, gatherings, masking, and public 
 dialogue play a continuing and vital role within the methodology and concepts 
-of Red76â€™s work. Along with producing many independent initiatives on street 
+of Red76’s work. Along with producing many independent initiatives on street 
 corners, in laundromats and bars, Red76 have engaged in projects 
 commissioned by the Institute of Contemporary Art Philadelphia, the Drawing 
 Center (New York), the Yerba Buena Center for the Arts (San Francisco), the 
@@ -988,22 +988,22 @@ UNIT/PITT Projects | 15 East Pender Street, Vancouver BC Canada V6A 1S9
 <a href="/instant-coffee/listings/2012-10-04-19-audain-gallery-sfu-woodwards-claire-fontaine-carelessness-ca">19. Audain Gallery | SFU Woodward's | Claire Fontaine: Carelessness Causes Fire | OCT 12</a>
 ------------------------------------------------------------------------
 Claire Fontaine: Carelessness Causes Fire
-Exhibition: October 12 â€“ December 22, 2012 
+Exhibition: October 12 – December 22, 2012 
 Opening: October 11, 8:00 pm
-Artistâ€™s Talk: October 11, 6:00 pm
+Artist’s Talk: October 11, 6:00 pm
 Carelessness Causes Fire is the first solo exhibition in Canada by the Paris-
 based â€œcollective artistâ€  Claire Fontaine, who is the Audain Artist in Residence 
 for the fall of 2012. Taking her name from a common brand of French 
-notebooks and stationary, Claire Fontaine is a self-described â€œreadymade 
+notebooks and stationary, Claire Fontaine is a self-described “readymade 
 artistâ€ , founded in 2004 and aided by her â€œassistantsâ€  Fulvia Carnevale and 
 James Thornhill.
-Claire Fontaineâ€™s work for Carelessness Causes Fire features sculpture, 
-writing, video, and painting. These different media are used as â€œvectors of a 
+Claire Fontaine’s work for Carelessness Causes Fire features sculpture, 
+writing, video, and painting. These different media are used as “vectors of a 
 specific intensityâ€  to critically explore what the artist identifies as the â€œcrisis of 
 singularityâ€  and the political impotency she sees in contemporary society.
 The exhibition presents old and new works to examine the psychological and 
 political consequences of the Arab Spring on the western perception of reality. 
-The ambiguity of the exhibitionâ€™s title, lifted from a security warning found by 
+The ambiguity of the exhibition’s title, lifted from a security warning found by 
 the artist under an office chair, evokes both the metaphorical fire of the 
 uprising as it invaded streets and buildings and the actual fire of weapons that 
 often accompanied it.
@@ -1029,20 +1029,20 @@ culminate in a final public presentation by Claire Fontaine, featuring a talk an
 a screening of excerpts from the selected films, on November 24 at 7:00 pm 
 at the Djavad Mowafaghian Cinema in the Goldcorp Centre for the Arts.
 
-Carelessness Causes Fire is realized with the support of the Consulat gÃ©nÃ©ral 
+Carelessness Causes Fire is realized with the support of the Consulat général 
 de France in Vancouver, and presented in partnership with the Institutions by 
 Artists conference, which runs from October 12 to 14, 2012, at Simon Fraser 
 University at Goldcorp Centre for the Arts.
 About the Audain Gallery:
 Audain Gallery
-SFU Woodwardâ€™s
+SFU Woodward’s
 Goldcorp Centre for the Arts
 149 West Hastings Street, Vancouver BC
-Hours: Tuesday â€“ Saturday, 12:00 - 6:00 pm
+Hours: Tuesday – Saturday, 12:00 - 6:00 pm
 info@audaingallery.ca 
 www.audaingallery.ca
 The Audain Gallery serves as a vital aspect of the Visual Arts program at 
-Simon Fraser University's School for the Contemporary Arts. The galleryâ€™s 
+Simon Fraser University's School for the Contemporary Arts. The gallery’s 
 mission is to advance the aesthetic and discursive production and 
 presentation of contemporary visual art through a responsive program of 
 exhibitions and to support engaged pedagogy. The gallery encourages 
@@ -1099,28 +1099,28 @@ exhibition that brings together international artists Ryu Hankil (Korea), Jarrod
 Sanderson (UK), Andrea Francke (UK) and Jackson Lam (UK) to explore and 
 expose the ways in which translation modifies meaning, privileging or 
 suppressing forms of knowledge.
-Translation, derivative of the Latin word translatio meaning â€˜to carry acrossâ€™, 
+Translation, derivative of the Latin word translatio meaning ‘to carry across’, 
 implies a bridge or journey. The etymology of this word reveals the potential 
-for something to slip or drop along the way â€“ an imperfect path from source to 
+for something to slip or drop along the way – an imperfect path from source to 
 target. Therefore, translation has always been a daunting task that 
 paradoxically aids communication but inevitably obscures meaning. Through 
 text, video and sound, Translation Services engages with the inadequacy of 
-translation and its subsequent implications within Vancouverâ€™s culturally 
+translation and its subsequent implications within Vancouver’s culturally 
 diverse context.
 
-Part 2: Sept 28 â€“ Oct 13, Jarrod Sanderson, What difference between me and 
+Part 2: Sept 28 – Oct 13, Jarrod Sanderson, What difference between me and 
 you?
-10:00pm, Oct 13 â€“ Reception, Book Launch & The Piracy Project reading 
+10:00pm, Oct 13 – Reception, Book Launch & The Piracy Project reading 
 room
-Sandersonâ€™s video What difference between me and you? focuses on how 
+Sanderson’s video What difference between me and you? focuses on how 
 language, ostensibly a medium for communication, can also be a site of 
 power, miscommunication and repression. Motivated by his background in 
 anthropology, Sanderson filmed interviews with art students in London for 
 whom English was not their first language. While interviewees talk about their 
-artistic ambitions, Sandersonâ€™s voice repeatedly corrects their grammatical 
+artistic ambitions, Sanderson’s voice repeatedly corrects their grammatical 
 mistakes in English instead of concentrating on the content of their dialogue. 
 
-Jarrod Sandersonâ€™s practice involves drawing, performance and video 
+Jarrod Sanderson’s practice involves drawing, performance and video 
 installation focusing on themes of cultural difference, power and desire within 
 the global political economy, informed by his background in social 
 anthropology. He has studied at Goldsmiths College and Chelsea College of 
@@ -1143,7 +1143,7 @@ Join Granville Fine Art for the South Granville Fall Arts Preview on Saturday,
 October 13, 2012 from 10am-6pm for an exhibition of paintings and sculptures by 
 Wayne Ngan and watercolours and oils by Toni Onley. You will also see 
 classic paintings by the Group of Seven and abstract expressionists works by 
-the Painters 11, a group of artists that showed together in Toronto in the 1950â€™s.
+the Painters 11, a group of artists that showed together in Toronto in the 1950’s.
 
 
 ------------------------------------------------------------------------
@@ -1173,7 +1173,7 @@ uncategorizable spectacles. The night promises to be simultaneously
 irritatingly fun, soulfully drunk, absurd, and engaging. Come for the entire 
 event or drop by anytime!
 
-DONâ€™T MISS IT! All events will be held in the Grand Luxe Hall at Western 
+DON’T MISS IT! All events will be held in the Grand Luxe Hall at Western 
 Front.
 
 Presented by Western Front Media Arts and Western Front Exhibitions in 
@@ -1183,14 +1183,14 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-10-04-24-sfus-vancity-office-of-community-engagement-lindsay-brown-va">24. SFU's Vancity Office of Community Engagement | Lindsay Brown: Vancouverâ€™s UN Hanitat Forum | OCT 15</a>
+<a href="/instant-coffee/listings/2012-10-04-24-sfus-vancity-office-of-community-engagement-lindsay-brown-va">24. SFU's Vancity Office of Community Engagement | Lindsay Brown: Vancouver’s UN Hanitat Forum | OCT 15</a>
 ------------------------------------------------------------------------
-Lindsay Brown: The Lost History of Vancouverâ€™s UN Habitat Forum 
+Lindsay Brown: The Lost History of Vancouver’s UN Habitat Forum 
 Monday, October 15, 2012 
 7:00pm until 9:00pm 
 
@@ -1227,7 +1227,7 @@ Co-presented by Cineworks, DIM Cinema, and Pacific Cinematheque.
 
 As the forefront platform for showcasing independent and experimental moving 
 images in Canada, Images has been premiering the best of new cinema 
-including video art, new media and media installations by the worldâ€™s leading 
+including video art, new media and media installations by the world’s leading 
 moving-image artists including Matthew Barney, Shary Boyle, and Zacharias 
 Kunuk.
 
@@ -1253,14 +1253,14 @@ For more information contact progams@cineworks.ca 604 685 3841
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-10-04-26-caf-for-contemporary-art-exhibition-by-dril-oct-19">26. cafÃ© for contemporary art | Exhibition by DRIL | OCT 19</a>
+<a href="/instant-coffee/listings/2012-10-04-26-caf-for-contemporary-art-exhibition-by-dril-oct-19">26. café for contemporary art | Exhibition by DRIL | OCT 19</a>
 ------------------------------------------------------------------------
-cafÃ© for contemporary art presents
+café for contemporary art presents
 
 Idle Wild
 Exhibition by DRIL
 
-October 11 â€“ November 16 | Opening Reception: Friday, October 19, 6 - 9 
+October 11 – November 16 | Opening Reception: Friday, October 19, 6 - 9 
 pm
 
 140 E Esplanade, North Vancouver | 778.340.3379 | 
@@ -1292,7 +1292,7 @@ the unruly nature of imagination amidst the mundane.
 The second work is an immersive four-channel video installation of a hypnotic 
 drive through a nondescript neighborhood. The absence of narrative invites the 
 mind to wander, guided by subconscious desires to interpret the aesthetic 
-contours of the journey and the chance encounters recorded by the cameraâ€™s 
+contours of the journey and the chance encounters recorded by the camera’s 
 automated eye. In this dense emptiness of suburban sprawl, nature looms 
 ominously at its edges, complicating the ideal of the picturesque that the 
 original suburbs sought to be closer to. 
@@ -1311,9 +1311,9 @@ responsive installations and performances that draw from iconic histories and
 popular culture to question how meaning and history is formulated, perceived 
 and presented. Their poetic explorations of the everyday heighten an 
 awareness of cultural constructs, while reimagining their significance in our 
-present cultural climate. Recent exhibitions include Drifterâ€™s Clip at Open 
+present cultural climate. Recent exhibitions include Drifter’s Clip at Open 
 Space in Victoria, BC (2011) and City Hall, a site-specific performative 
-drawing installation for Vancouverâ€™s city-wide Drawn Festival (2009). In 2013, 
+drawing installation for Vancouver’s city-wide Drawn Festival (2009). In 2013, 
 DRIL will participate in a group exhibition at Kamloops Art Gallery. 
 
 Idle Wild is curated by Joni Low.
@@ -1393,14 +1393,14 @@ videos by/and/or about South Asians from Canada and around the world. We
 invite independent and innovative short films and videos that explore the 
 aesthetic and form of the moving image and its relation to narrative. Monitor 9 
 encourages new, experimental and risk-taking work that challenges the 
-viewerâ€™s active engagement.
+viewer’s active engagement.
 
 Selected works will be screened at the ninth annual short film and video 
 screening program, Monitor 9 on March 14, 2013 in Toronto, Canada. Monitor 
 9 will be programmed by independent curator and artist Nahed Mansour.
 
 Monitor is reviewed by a jury of contemporary artists, curators and 
-programmers. This yearâ€™s jury consists of Renata Mohamed, Noni Kaur, 
+programmers. This year’s jury consists of Renata Mohamed, Noni Kaur, 
 Cheyanne Turions and Rehab Nazzal.
 
 GUIDELINES
@@ -1417,7 +1417,7 @@ Brief biography of the artist (200 words max)
 Artist CV
 High-resolution production stills
 
-Submissions can be sent via email with a URL link to the artist/directorâ€™s 
+Submissions can be sent via email with a URL link to the artist/director’s 
 YouTube/Vimeo account (please provide passwords if necessary). 
 The subject heading must state MONITOR9_ARTISTLASTNAME to 
 sharlene@savac.net
@@ -1425,7 +1425,7 @@ sharlene@savac.net
 Submissions can be sent on DVD (PAL, NTSC) enclosed with the following:
 
 Send all materials to:
-SAVAC â€“ MONITOR 9
+SAVAC – MONITOR 9
 401 Richmond Street West, Suite 450
 Toronto, ON Canada M5V 3A8
 
@@ -1474,7 +1474,7 @@ http://kingsteetaltfilmfest.blogspot.ca/
 ------------------------------------------------------------------------
 Jayce Salloum and Khadim Ali: 
 the heart that has no love/pain/generosity is not a heart
-September 27, 2012 â€“ January 6, 2013
+September 27, 2012 – January 6, 2013
 The Reach Gallery Abbotsford
 32388 Veterans Way, Abbotsford, BC
 
@@ -1484,9 +1484,9 @@ drawings, videotapes and objects which examine the aftermath of the
 destruction of the colossal 5th century Buddhas of the Bamiyan Valley in 
 Central Afghanistan (destroyed by the Taliban in March 2001). Recording the 
 destitution of central Afghanistan today, the exhibition focuses on the 
-situation of the Hazara people, a persecuted Shiâ€™a Muslim minority, who 
+situation of the Hazara people, a persecuted Shi’a Muslim minority, who 
 believe themselves to be descended from the sculptors who produced the 
-colossal figures of the Buddha, UNESCOâ€™s efforts to conserve the Buddhist 
+colossal figures of the Buddha, UNESCO’s efforts to conserve the Buddhist 
 statues and caves, and rebuilding efforts following the stationing of NATO 
 forces in the Bamiyan Valley.
 

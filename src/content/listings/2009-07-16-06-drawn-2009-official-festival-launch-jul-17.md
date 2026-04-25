@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 6
 type: ""
+venue: "Drawn 2009"
 summary: "Drawn 2009 | Official Festival Launch | JUL 17"
 ---
 

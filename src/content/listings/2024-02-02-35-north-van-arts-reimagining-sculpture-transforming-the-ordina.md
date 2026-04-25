@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 35
 type: "EDUCATION"
+venue: "North Van Arts"
 summary: "North Van Arts | Reimagining Sculpture: Transforming the Ordinary | FEB 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 42
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Celebrating 30 Years | 6-8PM | JUL 2"
 ---
 

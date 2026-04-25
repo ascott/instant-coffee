@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 6
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Speakeasy | Grant Arnold and Robin Simpson | APR 13"
 ---
 
@@ -12,7 +13,7 @@ Grant Arnold and Robin Simpson
 Saturday, April 13, 2PM
 
 Speakeasy: Salon is a series of talks and presentations that 
-interrogates Artspeakâ€™s mandate to encourage a dialogue between 
+interrogates Artspeak’s mandate to encourage a dialogue between 
 visual art and writing. In this incarnation, speakers will present within 
 the conversational salon format on wide-ranging subjects including 
 art, music, literature, politics, popular culture, and science. Speakers 
@@ -29,7 +30,7 @@ Grant Arnold: The Lord of Obstacles in the Suburbs: My Carved Ivory
 Figure of Ganesh
 
 Grant Arnold is currently Audain Curator of British Columbia Art at the 
-Vancouver Art Gallery, where he contributes to the Galleryâ€™s 
+Vancouver Art Gallery, where he contributes to the Gallery’s 
 exhibition and collecting activities. He was previously Senior Curator 
 at the Art Gallery of Windsor and Extension Coordinator at the 
 Mendel Art Gallery in Saskatoon. He holds an M.A. in art history from 
@@ -49,16 +50,16 @@ Myfanwy MacLeod, Gareth Moore and Jerry Pethick.
 
 Robin Simpson
 
-â€œI had just contracted an upper respiratory infection when Kim asked 
+“I had just contracted an upper respiratory infection when Kim asked 
 me to participate in this series. The infection was working its way 
 between my sinuses and bronchial passage. I refused to rest my 
 voice and within a week I had lost it completely. That was about a 
 month ago, my voice has returned but I continue to run into people 
 who have the same infection. Most of these people are in some way 
 or another connected to artist-run culture here in Vancouver. 
-Something is going around. ItÂ´s caught at openings and talks, the 
+Something is going around. It´s caught at openings and talks, the 
 handful of bars we frequent, from popular library books, and the other 
-speakeasies and studio parties we attend. IÂ´ve been daydreaming of 
+speakeasies and studio parties we attend. I´ve been daydreaming of 
 a new mute art scene or at least one where we all spoke in hushed, 
 guttural voices.
 
@@ -95,5 +96,5 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

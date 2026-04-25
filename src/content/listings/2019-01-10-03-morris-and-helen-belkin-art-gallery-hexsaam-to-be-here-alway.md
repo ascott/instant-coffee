@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 3
 type: "OPENING"
+venue: "MORRIS AND HELEN BELKIN ART GALLERY"
 summary: "MORRIS AND HELEN BELKIN ART GALLERY | Hexsa'a̠m: To Be Here Always | 6-9PM | JAN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Weaving Governance"
 emailDate: "Thu, 19 Dec 2019 09:35:08 -0800"
 number: 2
 type: "CALL"
+venue: "L'Expressoir (PARIS)"
 summary: "L'Expressoir (PARIS) | Artist Residency | JAN 5"
 ---
 

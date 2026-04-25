@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 2
 type: "FUNDRAISER"
+venue: "Centre A"
 summary: "Centre A | FIRECRACKER [ONLINE]"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 19
 type: ""
+venue: "Day for Night: Films in the Afternoon"
 summary: "Day for Night: Films in the Afternoon | Ken Lum presents: THE HOUSEMAID | MAY 1"
 ---
 
@@ -31,11 +32,11 @@ day, Dong-sik receives a love letter from a female factory worker
 named Seon-yeong. He reports this fact to the factory dormitory
 supervisor, and Seon-yeong is forced to leave her job. Meanwhile, 
 her
-friend Gyeong-hui begins frequenting Dong-sikâ€™s new house on the
-pretext of receiving piano lessons. When his wifeâ€™s health begins to
+friend Gyeong-hui begins frequenting Dong-sik’s new house on the
+pretext of receiving piano lessons. When his wife’s health begins to
 decline, Dong-sik asks Gyeong-hui to recommend a good 
 housemaid. While
-Dong-sikâ€™s wife is away visiting her family, Gyeong-hui confesses to
+Dong-sik’s wife is away visiting her family, Gyeong-hui confesses to
 him that she is in love with him, only to be run out of the house. The
 housemaid, who had been watching secretly from outside the 
 window,
@@ -45,7 +46,7 @@ psychological manipulation, self-destruction and sexual predation
 has
 been unleashed on the household.
 
-â€”Mi-jeong Lee
+—Mi-jeong Lee
 
 In Korean with English subtitles | 110 minutes
 
@@ -61,7 +62,7 @@ art at the University of British Columbia, Vancouver, where he taught
 from 1990 until 2006. Lum joined the faculty of Bard College,
 Annandale-on-Hudson, in 2005 and worked there until 2007. He 
 has been
-an invited professor at the Ã‰cole Nationale SupÃ©rieure des Beaux-
+an invited professor at the École Nationale Supérieure des Beaux-
 Arts,
 Paris, the Akademie der Bildenden Kunst, Munich, California 
 College of
@@ -76,11 +77,11 @@ Three
 Star Press, Paris. Lum was Project Manager for Okwui Enwezor's 
 The
 Short Century: Independence and Liberation Movements in Africa 
-1945 â€“
+1945 –
 1994 (2001). He was also co-curator of the 7th Sharjah Biennial
-(2005), and Shanghai Modern: 1919 â€“ 1945 (2005). Lum has 
+(2005), and Shanghai Modern: 1919 – 1945 (2005). Lum has 
 exhibited
-widely, including SÃ£o Paulo Biennial (1998), Shanghai Biennale 
+widely, including São Paulo Biennial (1998), Shanghai Biennale 
 (2000),
 Documenta 11 (2002), the Istanbul Biennial (2007), and the 
 Gwangju

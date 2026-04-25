@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 41
 type: "CALL"
+venue: "Dek Unu Magazine"
 summary: "Dek Unu Magazine | Open Call for April Issue | MAR 20"
 ---
 

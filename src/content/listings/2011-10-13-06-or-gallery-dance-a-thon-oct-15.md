@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 6
 type: ""
+venue: "OR GALLERY"
 summary: "OR GALLERY | DANCE-A-THON | OCT 15"
 ---
 

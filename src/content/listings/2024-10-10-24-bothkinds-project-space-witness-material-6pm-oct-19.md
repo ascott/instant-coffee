@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 24
 type: "OPENING"
+venue: "Bothkinds Project Space"
 summary: "Bothkinds Project Space | Witness Material | 6PM | OCT 19"
 ---
 

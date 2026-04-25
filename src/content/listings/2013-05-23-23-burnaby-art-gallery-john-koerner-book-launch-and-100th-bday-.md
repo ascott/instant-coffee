@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 23
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | John Koerner | book launch and 100th bday | JUN 9"
 ---
 
@@ -14,7 +15,7 @@ the day will include panel discussions with curators and a book launch,
 John Koerner: Drawings and Observations. The artist will be in 
 attendance, we hope you can make it. 
 
-Please donâ€™t hesitate to contact me for more information or access to a 
+Please don’t hesitate to contact me for more information or access to a 
 high-resolution image.
 
 Burnaby Art Gallery

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 13
 type: "OPENING"
+venue: "Macaulay & Co Fine Art"
 summary: "Macaulay & Co Fine Art | Jonah Samson - Every Exit is an Entrance... | APR 8"
 ---
 

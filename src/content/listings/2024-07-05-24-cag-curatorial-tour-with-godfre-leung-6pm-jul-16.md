@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 24
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Godfre Leung | 6PM | JUL 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 12
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Annie Briard in dialogue with Manuel Pina | FEB 25"
 ---
 

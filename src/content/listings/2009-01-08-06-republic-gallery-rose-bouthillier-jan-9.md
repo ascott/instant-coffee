@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 6
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | Rose Bouthillier | JAN 9"
 ---
 

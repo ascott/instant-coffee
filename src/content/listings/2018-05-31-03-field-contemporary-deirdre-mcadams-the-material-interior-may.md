@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 3
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Deirdre McAdams | The Material Interior | MAY 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 5
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks and Artspeak | The accursed share: Screenings and Talks | APR 23"
 ---
 

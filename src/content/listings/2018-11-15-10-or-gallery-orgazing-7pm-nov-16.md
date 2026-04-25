@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 10
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Orgazing | 7PM | NOV 16"
 ---
 

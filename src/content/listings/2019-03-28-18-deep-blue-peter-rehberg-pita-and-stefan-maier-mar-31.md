@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 18
 type: "PERFORMANCE"
+venue: "Deep Blue"
 summary: "Deep Blue | Peter Rehberg (Pita) and Stefan Maier | MAR 31"
 ---
 

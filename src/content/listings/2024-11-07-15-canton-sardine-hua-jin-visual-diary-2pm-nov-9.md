@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 15
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Hua Jin: Visual Diary | 2PM | NOV 9"
 ---
 

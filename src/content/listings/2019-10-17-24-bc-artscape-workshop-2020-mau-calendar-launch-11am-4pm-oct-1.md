@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 24
 type: "EDUCATION"
+venue: "BC Artscape"
 summary: "BC Artscape | WORKSHOP | 2020 MAU Calendar Launch | 11AM-4PM | OCT 19"
 ---
 

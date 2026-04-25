@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 16
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Close at Hand and All Around: Jim Breukelman | SEP 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 48
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Art Party | The Clock | 5PM | JUL 5"
 ---
 

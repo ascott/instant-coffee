@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 25
 type: "CALL"
+venue: "Evening Gallery"
 summary: "Evening Gallery | Discord & Dissidence - the art of anxiety | NOV 5"
 ---
 

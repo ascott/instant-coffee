@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: our songs are better"
 emailDate: "Thu, 24 Sep 2009 09:00:25 -0700"
 number: 13
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Eli Bornowsky Artist Talk | SEP 29"
 ---
 

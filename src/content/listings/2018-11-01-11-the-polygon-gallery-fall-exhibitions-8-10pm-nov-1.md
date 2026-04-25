@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 11
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Fall Exhibitions | 8-10PM | NOV 1"
 ---
 

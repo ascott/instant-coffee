@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 1
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | PATRICK CRUZ | DEC 2"
 ---
 
@@ -40,12 +41,12 @@ PATRICK CRUZ
 
 CONCRETE MIRAGE
 
-December 3 â€“ 18, 2010
+December 3 – 18, 2010
 
-Opening reception: Thursday December 2nd, 7:00 â€“ 11:00 pm
+Opening reception: Thursday December 2nd, 7:00 – 11:00 pm
 
 Concrete Mirage presents new work that consists of painting, sculpture
-and drawing. Cruzâ€™s work continues to interrogate ideas of identity, color
+and drawing. Cruz’s work continues to interrogate ideas of identity, color
 and form within the context of art production and cultural displacement.
 
 Shudder Gallery
@@ -56,10 +57,10 @@ Vancouver, B.C.
 
 604.488.5477
 
-Thursday: 1230 â€“ 530
+Thursday: 1230 – 530
 
-Friday: 1230 â€“ 530
+Friday: 1230 – 530
 
-Saturday: 1230 â€“ 530
+Saturday: 1230 – 530
 
 http://shuddergallery.com

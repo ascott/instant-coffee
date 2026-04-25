@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 19
 type: ""
+venue: "Centre A"
 summary: "Centre A | SPRING EXHIBITION | MAR 17"
 ---
 

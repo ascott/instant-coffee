@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watc
 emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
 number: 8
 type: ""
+venue: "READ Books"
 summary: "READ Books | Book launch: Group Search / Memory Palace | FEB 16"
 ---
 

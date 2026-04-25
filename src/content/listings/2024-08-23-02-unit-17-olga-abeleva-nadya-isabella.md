@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Olga Abeleva & Nadya Isabella"
 ---
 

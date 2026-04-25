@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 12
 type: "EVENT"
+venue: "Canton-sardine"
 summary: "Canton-sardine | The Curator’s Sauna - Closing Party | JUL 29"
 ---
 

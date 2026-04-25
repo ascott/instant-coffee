@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | BAD MOON RISING | AUG 9"
 ---
 

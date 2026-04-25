@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 19
 type: ""
+venue: "SUM gallery"
 summary: "SUM gallery | Rojina Farrokhnejad: Gods and Monsters | OCT 14"
 ---
 

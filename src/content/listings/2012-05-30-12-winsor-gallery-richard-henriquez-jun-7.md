@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 12
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Richard Henriquez | JUN 7"
 ---
 
 Narrative Fragments: Richard Henriquez
-June 7 â€“ 30
+June 7 – 30
 Winsor Gallery
 Opening June 7 6-9pm
 

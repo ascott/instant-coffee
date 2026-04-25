@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema at The Cinematheque | Corin Sworn: The Spectre of Breath | SEP 5"
 ---
 

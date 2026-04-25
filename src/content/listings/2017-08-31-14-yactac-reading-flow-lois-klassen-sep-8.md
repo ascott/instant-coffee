@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 14
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Reading Flow: Lois Klassen | SEP 8"
 ---
 

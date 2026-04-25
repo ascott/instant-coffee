@@ -51,8 +51,8 @@ ambitious new commission.
 
 Froment has produced a body of work focused around a series of 
 educational toys (Spielgaben or play gifts) designed by the German 
-founder of the Kindergarten movement, Friedrich Frobel (1782Ã¢
-â‚¬â€œ1852). Froment's longstanding interest in Frobel was aroused by 
+founder of the Kindergarten movement, Friedrich Frobel (1782â
+€“1852). Froment's longstanding interest in Frobel was aroused by 
 the openness of the system of objects, how each shape begets 
 another and how all images are keys to the other. Historically 
 accurate replicas of the toys have been made presented alongside 
@@ -295,7 +295,7 @@ sounds of the six- string lyre, or krar. Guaranteed to get you up out of
 your seat. Presented with Capilano University.
 
 RYEBERG LIVE
-January 26, 7pm, $25. The return of the online magazineÃ¢â‚¬â„¢s live 
+January 26, 7pm, $25. The return of the online magazineâ€™s live 
 presentation, where guests presents essays inspired by YouTube 
 videos. Speakers this year include authors Lee Henderson and 
 Zsuzsi Gartner, artist Vjeko Sager, and interdisciplinary media artist 
@@ -326,8 +326,8 @@ ABOUT THE PUSH FESTIVAL
 
 The PuSh International Performing Arts Festival is Vancouver's mid-
 winter festival presenting acclaimed local, national and international 
-artists. The 10th Anniversary PuSh Festival takes place January 14Ã¢
-â‚¬â€œFebruary 2, 2014 at venues in and around Vancouver and offers 
+artists. The 10th Anniversary PuSh Festival takes place January 14â
+€“February 2, 2014 at venues in and around Vancouver and offers 
 work from artists from around the globe. The Festival presents 
 groundbreaking work in the live performing arts with theatre, dance, 
 music, and various forms of multimedia and hybrid performance.
@@ -389,7 +389,7 @@ Marinate Me
 Date: January 24, 2014
 Time: 7:00 PM
 Location: CBC Studio 700, 700 Hamilton Street, Vancouver, BC
-A fundraiser and art auction for 2014â€™s BFA/BA Visual Art graduating 
+A fundraiser and art auction for 2014’s BFA/BA Visual Art graduating 
 exhibition. 7pm to 11pm.
 We cordially invite you to a music and art filled event to promote and 
 raise funds for this year's BFA/BA Visual Art Graduating Exhibition 
@@ -429,7 +429,7 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 
@@ -438,11 +438,11 @@ Tel: 604 822 2757 Fax: 604 822 9003
 ------------------------------------------------------------------------
 Celebrate the Experimental, the Spectacular and the Intimate!
 FUSE: The PuSh Festival Edition Unites Visual and Performing Arts
-at the Vancouver Art Gallery, January 24, 2014, 8 pm â€“ 1 am
+at the Vancouver Art Gallery, January 24, 2014, 8 pm – 1 am
 
-January 14, 2014, Vancouver, BC â€“ The Vancouver Art Gallery and 
+January 14, 2014, Vancouver, BC – The Vancouver Art Gallery and 
 the PuSh International Performing Arts Festival are joining forces to 
-co-present a special edition of Vancouverâ€™s favourite art party FUSE. 
+co-present a special edition of Vancouver’s favourite art party FUSE. 
 On the evening of January 24, the Gallery will once again transform 
 itself into a hub of the hottest experimental art and live performances.
 
@@ -457,7 +457,7 @@ favourites and international guests, including:
 
 UK-based PuSh visiting artists duo Forest Fringe collaborate with the 
 gallery to create an â€œIncidental Festivalâ€  of works in unexpected 
-places Vancouverâ€™s favourite Dusty Flowerpot Cabaret hosts a lavish 
+places Vancouver’s favourite Dusty Flowerpot Cabaret hosts a lavish 
 costume-themed party in the heritage courtrooms.
 British artist and writer Tim Etchells presents a unique poster project.
 Radix theatre gives useful lessons on how to survive an apocalypse.
@@ -468,8 +468,8 @@ out some very good advice.
 
 Vancouver-based 605 Collective dance group roams around in the 
 gallery, performing excerpts from Inheritor Album, their repertoire at 
-this yearâ€™s PuSh Festival.
-Cris Derksenâ€™s experimental hip-hop cello performance delights the 
+this year’s PuSh Festival.
+Cris Derksen’s experimental hip-hop cello performance delights the 
 crowd every time.
 
 This eccentric mix of programs unites the experimental, the 
@@ -482,15 +482,15 @@ exhibitions: Emily Carr: Deep Forest, Charles Edenshaw, KIMSOOJA
 Unfolding, Muntadas: Entre/Between, James Hart: The Dance Screen 
 (The Scream Too), and Emily Carr in Haida Gwaii.
 
-About FUSE: Since its inception in July 2005, thousands of FUSEâ€“
+About FUSE: Since its inception in July 2005, thousands of FUSE–
 goers have converged at the Gallery for this unique adult event. Live 
 performances and music in the Gallery spaces, DJs, eclectic Gallery 
 tours, contemporary dance and unexpected surprises have made 
-FUSE Vancouver's favourite art party ---a place to seeâ€“andâ€“beâ€“
+FUSE Vancouver's favourite art party ---a place to see–and–be–
 seen.
 
 About PuSh: The PuSh International Performing Arts Festival is one 
-of Vancouverâ€™s signature events. Produced over three weeks each 
+of Vancouver’s signature events. Produced over three weeks each 
 January, the PuSh Festival presents groundbreaking work in the live 
 performing arts. The Festival showcases acclaimed international, 
 Canadian and local artists and mixes them together with an alchemy 
@@ -541,9 +541,9 @@ group input.
 About League
 League is an open group that gathers to play games and sports that 
 we invent, as an exercise of creative problem-solving. The 
-Vancouver Courier called League â€œThe most incredible development 
+Vancouver Courier called League “The most incredible development 
 in Vancouver recreation this year,... focused on mental exercise as 
-much as physical exertion.â€œ It's free and all are welcome; bring both 
+much as physical exertion.“ It's free and all are welcome; bring both 
 body and mind.
 http://league-league.org
 
@@ -574,12 +574,12 @@ images. Spanning the twentieth and twenty-first centuries, these
 analogue photographic works pose questions about the potentials of 
 the medium.
 
-The concept for this exhibition is inspired by Walker Evansâ€™ black and 
+The concept for this exhibition is inspired by Walker Evans’ black and 
 white portraits of New York City subway riders, originally published in 
-Harperâ€™s Bazaar magazine in 1962. This series signaled his forward-
+Harper’s Bazaar magazine in 1962. This series signaled his forward-
 looking idea about the future of photography as an art form. The title, 
-Dream Location, refers to his description of the subway as a â€œdream 
-â€˜locationâ€™ for any portrait photographer weary of the studio and the 
+Dream Location, refers to his description of the subway as a “dream 
+‘location’ for any portrait photographer weary of the studio and the 
 horrors of vanity.â€ 
 
 Filmmaker Runa Islam also reflects on how the conditions of image 
@@ -594,18 +594,18 @@ magazines or archives and more lasting encounters as staged art
 constructions.
 
 The painters Ernst Ludwig Kirchner, Sigmar Polke and Gerhard 
-Richter retell their pictorial concerns via photography. Kirchnerâ€™s 
+Richter retell their pictorial concerns via photography. Kirchner’s 
 early twentieth century staged performances for the camera and 
-Polkeâ€™s 1980s documents of chemical processes as pictorial events 
+Polke’s 1980s documents of chemical processes as pictorial events 
 are experiments with photographic ways of seeing. Similarly, 
-Gerhard Richterâ€™s painted over photographs embody the 
+Gerhard Richter’s painted over photographs embody the 
 irreconcilable fluidity between realism and abstraction.
 
 The works in this exhibition assert the brushstrokes of photography, 
 its chemical procedures and elemental properties, which can be 
 seen as a prelude to abstract tendencies in contemporary 
 photography. Stephen Waddell is proposing that instead of 
-continually returning to photographyâ€™s discourse of invention and 
+continually returning to photography’s discourse of invention and 
 established canons, now is the time to ask what the medium can 
 become.
 
@@ -626,7 +626,7 @@ WWW.PRESENTATIONHOUSEGALLERY.ORG
 Da bao |Takeout
 Surrey Art Gallery
 January 25 to March 23, 2014
-Opening Reception â€“ Saturday January 25, 7 30pm to 9 30pm 
+Opening Reception – Saturday January 25, 7 30pm to 9 30pm 
 (preceded by Curator s Tour 6 30 to 7 30)
 
 From painting to photography and sculpture to video installation, the 
@@ -646,7 +646,7 @@ people, and ideas. The seventeen artists in this exhibition are a mix
 of second- or third-generation Chinese-Canadians, Chinese who 
 have travelled abroad to study art, and Canadians who have 
 travelled to China for residencies or exhibitions. They share the 
-experience of being â€˜taken outâ€™ of familiar environments and 
+experience of being ‘taken out’ of familiar environments and 
 encountering a strikingly different culture. While their individual 
 voices are unique, collectively they speak to issues of cultural 
 transference, highlighting the gaps, distances, and 
@@ -663,7 +663,7 @@ Da bao | Takeout is curated by Toronto-based Shannon Anderson
 and Beijing-based Doug Lewis. The exhibition is organized and 
 circulated by the Varley Art Gallery of Markham.
 
-The exhibition continues to March 23 â€“ admission is by donation.
+The exhibition continues to March 23 – admission is by donation.
 
 Also on exhibit, until February 9, is a survey of new work by the 
 Fraser Valley Quilters Guild.
@@ -680,18 +680,18 @@ Winnipeg. As an artist, Lewis has exhibited in many galleries in
 countries such as Canada, USA, Croatia, UK, South Korea, and 
 China with mediums that range from multi- to-mixed-media including 
 performance.
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 Opening Reception
-Saturday, January 25, 7 30â€“9 30pm | Formal Remarks: 7 45pm
+Saturday, January 25, 7 30–9 30pm | Formal Remarks: 7 45pm
 with live music mix
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 The Gallery gratefully acknowledge the generous support of Canada 
 Council for the Arts, B.C. Arts Council, and City of Surrey
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue,
+13750 – 88th Avenue,
 Surrey, BC
 Canada
 V3W 3L1
@@ -764,7 +764,7 @@ Visual Artist in Residence Program and Audain Gallery.
 
 Biography 
 
-Duane Linklater is OmaskÃªko Cree, from Moose Cree First Nation in 
+Duane Linklater is Omaskêko Cree, from Moose Cree First Nation in 
 Northern Ontario and is currently based in North Bay, Ontario. He 
 was educated at the University of Alberta, receiving a Bachelor of 
 Native Studies and a Bachelor of Fine Arts. Linklater attended the 
@@ -814,7 +814,7 @@ CCA has nearly doubled since Beal arrived in 1997.
 This lecture is presented as a part of 'Imagining Our Future', an 
 expansive, experimental and provocative three year series of events 
 and activities that explore the geographical, historical, and cultural 
-context of our anticipated move to the False Creek Flats (SenÃ¡kw). At 
+context of our anticipated move to the False Creek Flats (Senákw). At 
 this seminal moment in our institution?s history, the series brings 
 together practitioners from across a range of practices and fields of 
 inquiry, evoking both radical and practical propositions for how we 
@@ -868,18 +868,18 @@ Canada, meet in Paris, marry and after many years on the European
 continent, settle on historic Gotland Island, a Swedish outpost 
 approximately equidistant between the Swedish mainland and the 
 Baltic state of Latvia. With the untimely death of William in 1906 and 
-that of Caroline in 1935, the estate, in the early 70â€™s, created the 
+that of Caroline in 1935, the estate, in the early 70’s, created the 
 Brucebo Fine Art (Scholarship) Foundation, an organization 
 promoting island-based cultural history and fine art. To 
-commemorate the unique Swedish-Canadian link of Carolineâ€™s and 
-Williamâ€™s marriage and impressive artistry, two annual fine art 
+commemorate the unique Swedish-Canadian link of Caroline’s and 
+William’s marriage and impressive artistry, two annual fine art 
 scholarships for younger, professional Canadian artists were 
 established : The Brucebo Fine Art Summer Residency Scholarship 
 and The William Blair Bruce European Fine Art Travel Scholarship.
 
 The Brucebo Fine Art Summer Residency Scholarship funds a three 
-month working residency â€“ starting June 1, 2014 â€“ at the Brucebo 
-studio cottage in the SjÃ¤lsÃ¶ fishing village, 7 km north of of Visby in 
+month working residency – starting June 1, 2014 – at the Brucebo 
+studio cottage in the Själsö fishing village, 7 km north of of Visby in 
 Gotland, Sweden. The scholarship covers travel expenses Canada - 
 Gotland (return), the use of the studio cottage, a monthly food 
 stipend plus a small equipment grant. Total approximate value : SEK 
@@ -888,7 +888,7 @@ stipend plus a small equipment grant. Total approximate value : SEK
 The William Blair Bruce Travel Scholarship finances a European 
 research sejour, to be undertaken within the next year. The tour is 
 based on an approved Fine Art-related investigative project. Total 
-value: SEK 30.000. As a final part of the â€˜Bruce Travelâ€™ the recipient 
+value: SEK 30.000. As a final part of the ‘Bruce Travel’ the recipient 
 must visit Visby via Stockholm. While in Visby, she/he will give a 
 public lecture sponsored by the Foundation on the investigative 
 theme pursued during her/his recent European travel.
@@ -904,8 +904,8 @@ For more info on the BFAS Scholarships, Gotland, the studio cottage
 and the Caroline Benedicks - William Blair Bruce story, visit the BFAS 
 website at : www.bruceboscholarships.com
 
-The scholarships are administered by Concordia Universityâ€™s Faculty 
-of Fine Arts, Associate Deanâ€™s Office, Montreal and the Chair of the 
+The scholarships are administered by Concordia University’s Faculty 
+of Fine Arts, Associate Dean’s Office, Montreal and the Chair of the 
 Brucebo Fine Art Evaluation Committee: Jessica Auer. For more 
 information on the scholarships or your application, email: 
 brucebosubmission@gmail.com
@@ -964,7 +964,7 @@ Interested individuals are asked to submit their resume and a letter of
 intent in person or by mail to the address below by January 31, 2014:
 
 VIVO Media Arts Centre
-Attn: Board Nominations Committee â€“ General Manager
+Attn: Board Nominations Committee – General Manager
 1965 Main Street Vancouver BC V5T 3C1
 or by email to admin@vivomediaarts.com
 
@@ -1010,12 +1010,12 @@ NOTHING BUT SKY
 
 Experience a comic book come to life
 
-VANCOUVER, BC â€” The Only Animal, best known for its imaginative 
+VANCOUVER, BC — The Only Animal, best known for its imaginative 
 locales and site-specific work, moves inside of a theatre with its latest 
-creation, Nothing but Sky, premiering February 21â€“March 2, 2014 at 
+creation, Nothing but Sky, premiering February 21–March 2, 2014 at 
 the Faris family studio at the Scotiabank Dance Centre. Despite this 
 more conventional locale, Nothing but Sky falls right in line with the 
-companyâ€™s mandate to innovate. The action takes place inside a live 
+company’s mandate to innovate. The action takes place inside a live 
 drawing to tell the story of Joe Shuster, the Canadian who first drew 
 Superman.
 
@@ -1031,7 +1031,7 @@ return to destroy you.
 With 3-D projection mapping, panelled action sequences, and an 
 animation team that includes Paul Dutton (Academy Award winner 
 for Triplets of Belleville,) Nothing but Skyis a comic book brought to 
-life, where we leap off the cliffs of loveâ€¦ and hope that we can fly.
+life, where we leap off the cliffs of love… and hope that we can fly.
 
 Nothing but Sky features video design by Keith Murray, Superman 
 character design by Paul Dutton, costume design by Christine 
@@ -1042,7 +1042,7 @@ conceived, written and directed by Only Animal Artistic Director
 Kendra Fanconi.
 
 NOTHING BUT SKY
-February 21â€“March 2, 8pm
+February 21–March 2, 8pm
 Preview performance February 20
 Faris Family Studio, Scotiabank Dance Centre
 677 Davie Street, Vancouver

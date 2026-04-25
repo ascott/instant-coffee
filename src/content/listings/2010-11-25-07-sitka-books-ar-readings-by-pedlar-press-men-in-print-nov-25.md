@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 7
 type: ""
+venue: "Sitka Books & Ar"
 summary: "Sitka Books & Ar | readings by Pedlar Press \"Men In Print.\" | NOV 25"
 ---
 

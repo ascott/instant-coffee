@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 8
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Show & Tell I : Khan Lee and Ruth Scheuing | NOV 20"
 ---
 

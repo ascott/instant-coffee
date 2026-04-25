@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 12
 type: "EXHIBITION"
+venue: "Or Gallery"
 summary: "Or Gallery | Fireline Kinship | DEC 13"
 ---
 

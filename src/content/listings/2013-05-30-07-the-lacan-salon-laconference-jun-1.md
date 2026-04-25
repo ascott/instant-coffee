@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE : if we do not know we do not know 
 emailDate: "Thu, 30 May 2013 11:55:34 -0700"
 number: 7
 type: ""
+venue: "The Lacan Salon"
 summary: "The Lacan Salon | LaConference | JUN 1"
 ---
 
@@ -12,7 +13,7 @@ take place on Saturday June 1st 9:30am-5:30pm and Sunday June
 2nd, 2013 11am to 1:45pm at SFU Goldcorp Centre for the Arts 149
 West Hastings in Vancouver, BC.
 
-This year's LaConference title is â€œSixty years after Lacan: On the
+This year's LaConference title is “Sixty years after Lacan: On the
 Symbolic Order in the Twenty-First Centuryâ€ and gravitates around
 Lacanâ€™s â€œRome Discourse,â€ formally known as â€œThe Function 
 and Field
@@ -20,7 +21,7 @@ of Speech and Language in Psychoanalysisâ€ (1953) where Lacan
 proposed a return to the primacy of speech and language as the
 fundamental and irreducible concern of psychoanalysis. In this
 fashion, he restated the importance of the Symbolic in the emergence
-of the subjectâ€™s truth.
+of the subject’s truth.
 
 This conference will explore the status of the Symbolic in contemporary
 discursive practices and ask, how have the terms comprising Symbolic
@@ -36,8 +37,8 @@ Crystal Tongue curated by Amy Kazymerchyk
 Reception with cash bar
 
 Saturday June 1st 8-9:30pm
-Dr. Paul Verhaeghe on Louis Bourgeoisâ€™ Diaries at The Western Front
-as a part of Scrivenerâ€™s Monthly
+Dr. Paul Verhaeghe on Louis Bourgeois’ Diaries at The Western Front
+as a part of Scrivener’s Monthly
 Reception with cash bar to follow.
 
 Sunday June 2nd 4.00-6.00pm

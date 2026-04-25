@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 9
 type: ""
+venue: "Wild New Territories"
 summary: "Wild New Territories | performance: Dana Claxton and Bo Myers | APR 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 14
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | Serrah Russell and Lauren D. Zbarsky | SEP 13"
 ---
 
@@ -21,13 +22,13 @@ utilized not as a documentary tool but rather as a medium that expresses the
 bilateral familiarity/transformation of our imaginary/real landscapes of home. 
 Home as a concept is created by a compilation of personal and collective 
 memories that merge and overlap. The intangible and oblique aspects of 
-memory and our recollections of home are suggested in Russellâ€™s 
+memory and our recollections of home are suggested in Russell’s 
 photographs. What emerges is a confusion of the present, the remembered 
 and the imagined, evoking the very process of memory-making and our 
 physical presence in the home. 
 
 Homebody documents the diasporic nature of memory and the evasive locality 
-of the home. Work drawn from three of Russellâ€™s series, Geographics, 
+of the home. Work drawn from three of Russell’s series, Geographics, 
 Windows and Equivalents invite the viewer to revisit the process of memory 
 making and the role of the self in the imaging of the domestic landscape. The 
 home becomes a terrain where time and place lose their locality. Identity and 

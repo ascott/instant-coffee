@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 54
 type: "CALL"
+venue: "Caetani Cultural Centre"
 summary: "Caetani Cultural Centre | Visual Artist in Residence (Vernon, BC) | DEC 15"
 ---
 

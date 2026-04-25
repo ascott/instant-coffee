@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 5
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | SLOW ROOMS | FEB 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 3
 type: ""
+venue: "ie, gallery"
 summary: "ie, gallery | A LONG PAUSE. by Amiel Logan | JAN 31"
 ---
 

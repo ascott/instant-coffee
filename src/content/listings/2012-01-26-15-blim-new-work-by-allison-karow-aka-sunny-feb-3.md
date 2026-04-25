@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 15
 type: ""
+venue: "Blim"
 summary: "Blim | New Work by Allison Karow (aka. sunny) | FEB 3"
 ---
 
@@ -31,7 +32,7 @@ the work itself until a biome emerges. I am rooted in the traditions of the
 handmade but my practice is interdisciplinary and includes painting, 
 drawing, print-making and animation in addition to book binding.
 -- 
-Opening: Friday, February 3 - 8 â€“ 11pm | Show Runs February 3-25
+Opening: Friday, February 3 - 8 – 11pm | Show Runs February 3-25
 
 www.megaspora.us
 

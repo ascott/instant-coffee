@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 38
 type: "TALK"
+venue: "Unit 17"
 summary: "Unit 17 | Deborah Edmeades | 3PM | MAR 28"
 ---
 

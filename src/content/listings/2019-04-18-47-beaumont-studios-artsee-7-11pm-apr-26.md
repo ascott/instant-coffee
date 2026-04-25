@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 47
 type: "EVENT"
+venue: "Beaumont Studios"
 summary: "Beaumont Studios | ArtSee | 7-11PM | APR 26"
 ---
 

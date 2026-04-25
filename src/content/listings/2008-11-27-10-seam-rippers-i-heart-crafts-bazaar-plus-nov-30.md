@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 10
 type: ""
+venue: "Seam Rippers"
 summary: "Seam Rippers | I Heart Crafts Bazaar plus | NOV 30"
 ---
 
@@ -41,7 +42,7 @@ Sunday Dec.14th, 12:00pm - 5:00pm (around back after 6:00pm)
 Second chance to get some holiday shopping in!
 
 Crafts for a Cause: A Craft Fair to Support Social Justice Struggles
-Rhizome CafÃ©, 317 East Broadway, www.rhizomecafe.ca
+Rhizome Café, 317 East Broadway, www.rhizomecafe.ca
 Saturday, December 6,
 6:00-10:00pm
 $2 suggested donation at the door, but no one turned away for lack of funds

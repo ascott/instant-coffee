@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 28
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Open Call for Mail Art | OCT 1"
 ---
 
@@ -11,7 +12,7 @@ You are invited to participate in:
 
 Memory: International Mail Art Exhibition and Swap
 
-Exhibition: November 17, 2013 â€“ January 6, 2014
+Exhibition: November 17, 2013 – January 6, 2014
 
 Opening Reception: November 16, 2013 from 3:00-5:00pm
 
@@ -39,11 +40,11 @@ V6Y 1R9
 Canada
 
 All artworks received that fulfill the guidelines will be exhibited in the 
-Gallery and online. All artworks will be traded with another artistâ€™s 
+Gallery and online. All artworks will be traded with another artist’s 
 works at the end of the exhibition.
 
 Artists from all over the world are invited to contribute their work for the 
-Richmond Art Galleryâ€™s International Mail Art Exhibition and Swap. Mail 
+Richmond Art Gallery’s International Mail Art Exhibition and Swap. Mail 
 Art (aka Postal Art) is an art form where artists exchange artworks and 
 correspondence through the mail.
 
@@ -68,21 +69,21 @@ Participation Guidelines:
 â€¢ Artists can send up to three artworks sized 4â€  x 6â€  (10.2 x 15.3 cm) as 
 a postcard.
 
-â€¢ Artworks must be sent through the postal system or hand-delivered. 
+• Artworks must be sent through the postal system or hand-delivered. 
 No online entries.
 
-â€¢ ORIGINAL art works only (no photocopies).
+• ORIGINAL art works only (no photocopies).
 
-â€¢ All artworks will be traded at the end of the exhibition, and you will 
-receive a â€˜swapâ€™.
+• All artworks will be traded at the end of the exhibition, and you will 
+receive a ‘swap’.
 
-â€¢ All artworks will be displayed on our online gallery for one year. Your 
+• All artworks will be displayed on our online gallery for one year. Your 
 entry into this exhibition signifies that you agree to the swap and 
 having your work displayed online.
 
-â€¢ Include on the back of your submission: Full name, Address, Country, 
+• Include on the back of your submission: Full name, Address, Country, 
 and E-mail address, so that you can receive a trade as well as updates 
-on the exhibition. Optional â€“ Medium and title of work.
+on the exhibition. Optional – Medium and title of work.
 
 Content stipulations: The Richmond Art Gallery offers a variety of 
 public programs for participants of all ages, and as such we will not 

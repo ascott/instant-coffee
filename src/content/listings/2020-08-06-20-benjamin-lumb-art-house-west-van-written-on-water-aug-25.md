@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 20
 type: "EXHIBITION"
+venue: "Benjamin Lumb Art House (West Van)"
 summary: "Benjamin Lumb Art House (West Van) | Written on Water | AUG 25"
 ---
 

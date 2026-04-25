@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 23
 type: ""
+venue: "UBC: Art History, Visual Art & Theory"
 summary: "UBC: Art History, Visual Art & Theory | A fundraiser and art auction | JAN 26"
 ---
 
 Is It Happening? 
-A fundraiser and art auction for 2013â€™s BFA/BA Visual Art graduating 
+A fundraiser and art auction for 2013’s BFA/BA Visual Art graduating 
 exhibition.
-Presented by: UBCâ€™s Department of Art History, Visual Art & Theory
+Presented by: UBC’s Department of Art History, Visual Art & Theory
 
 January 26, 2013 | 7-11PM
 CBC Studio 700 
@@ -19,7 +20,7 @@ Vancouver, BC
 
 The UBC 2013 BFA/BA Visual Art Graduating class cordially invites you to an 
 exciting artistic and musical event to promote and raise the funds for this 
-yearâ€™s Graduating Exhibition â€˜Is it Happening,' which will open in April 2013.
+year’s Graduating Exhibition ‘Is it Happening,' which will open in April 2013.
 
 SILENT ART AUCTION will feature works by:
  Our talented graduating class of UBC Visual Art students & our internationally 

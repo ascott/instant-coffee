@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 13
 type: "OPENING"
+venue: "Art Gallery at Evergreen and Burnaby Art Gallery"
 summary: "Art Gallery at Evergreen and Burnaby Art Gallery | \"Ruth Beer: Seep | Swell?\" | NOV 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 22
 type: ""
+venue: "SLIDE ROOM GALLERY"
 summary: "SLIDE ROOM GALLERY | Open Call for Photographs or Videos | Victoria |XX | SEP 30"
 ---
 

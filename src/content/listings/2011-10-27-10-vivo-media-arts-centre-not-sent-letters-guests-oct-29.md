@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 10
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | NOT SENT LETTERS & GUESTS | OCT 29"
 ---
 

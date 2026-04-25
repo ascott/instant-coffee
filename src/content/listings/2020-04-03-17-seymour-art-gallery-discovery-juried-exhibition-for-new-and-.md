@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 17
 type: "CALL"
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | Discovery | Juried Exhibition for New and Emerging Artists | MAY 1"
 ---
 

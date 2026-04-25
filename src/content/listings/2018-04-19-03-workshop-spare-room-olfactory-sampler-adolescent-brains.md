@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 3
 type: "EVENT"
+venue: "WORKSHOP"
 summary: "WORKSHOP | Spare Room | Olfactory Sampler: Adolescent Brains"
 ---
 

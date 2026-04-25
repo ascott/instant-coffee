@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 9
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | MAPPING AND MARKING VANCOUVER 2010 | SEP 10"
 ---
 

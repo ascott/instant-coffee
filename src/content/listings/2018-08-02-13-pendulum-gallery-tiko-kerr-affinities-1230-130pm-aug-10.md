@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 13
 type: "TALK"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Tiko Kerr : Affinities | 1230-130PM | AUG 10"
 ---
 

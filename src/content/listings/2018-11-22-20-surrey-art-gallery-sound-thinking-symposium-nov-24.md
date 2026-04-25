@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 20
 type: "EVENT"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Sound Thinking Symposium | NOV 24"
 ---
 

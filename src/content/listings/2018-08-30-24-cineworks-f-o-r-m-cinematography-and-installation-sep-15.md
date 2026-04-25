@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 24
 type: "EDUCATION"
+venue: "Cineworks F-O-R-M"
 summary: "Cineworks F-O-R-M | Cinematography and Installation | SEP 15"
 ---
 

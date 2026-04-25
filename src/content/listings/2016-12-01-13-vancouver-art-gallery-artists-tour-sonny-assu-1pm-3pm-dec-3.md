@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 13
 type: "EVENT"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Artist's Tour: Sonny Assu 1pm & 3pm | DEC 3"
 ---
 

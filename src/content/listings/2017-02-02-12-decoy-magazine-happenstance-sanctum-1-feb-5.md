@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 12
 type: "EVENT"
+venue: "Decoy Magazine"
 summary: "Decoy Magazine | HAPPENSTANCE - SANCTUM 1 | FEB 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 1
 type: ""
+venue: "ECU"
 summary: "ECU | Damian Moppett Artist Talk | JAN 26"
 ---
 
@@ -31,8 +32,8 @@ in Calgary, Alberta in 1969 and currently living and working in
 Vancouver, Damian Moppett attended Emily Carr College of Art and 
 Design and received his Master of Fine Arts from Concordia University, 
 Montreal. He has exhibited widely including at The Power Plant, 
-Toronto; The National Gallery of Canada, Ottawa; MusÃ©e d'art 
-contemporain de MontrÃ©al and the Witte de With, Rotterdam.
+Toronto; The National Gallery of Canada, Ottawa; Musée d'art 
+contemporain de Montréal and the Witte de With, Rotterdam.
 
 Rennie Collection at Wing Sang holds two exhibitions a year with 
 supporting catalogues and events. For further information, or to book a 

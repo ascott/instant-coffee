@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 16
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Intro to Arri BL 35mm Movie Camera | DEC 3"
 ---
 

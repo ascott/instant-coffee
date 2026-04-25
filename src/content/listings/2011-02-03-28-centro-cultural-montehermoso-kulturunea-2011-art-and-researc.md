@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 28
 type: ""
+venue: "Centro Cultural Montehermoso Kulturunea"
 summary: "Centro Cultural Montehermoso Kulturunea | 2011 Art and Research Grants | MAR 31"
 ---
 
 Centro Cultural Montehermoso Kulturunea
 
 info@montehermoso.net
-Fray ZacarÃ­as MartÃ­nez, 2. 01001 Vitoria-Gasteiz. SPAIN
+Fray Zacarías Martínez, 2. 01001 Vitoria-Gasteiz. SPAIN
 www.montehermoso.net
 
 Montehermoso 2011 Art and Research Grants
@@ -50,7 +51,7 @@ Contemporary Art and Thought. Projects that offer propositions for the
 creation of a feminist Art Historiography in Spain and applications whose
 objective is the development of a project linked with educational practice
 and contemporary art will be recognized. The award for the research project
-shall not exceed â‚¬9,000. This amount includes the researcher's fee, as well
+shall not exceed €9,000. This amount includes the researcher's fee, as well
 as project development expenses.
 
 FILM SCRIPT
@@ -66,7 +67,7 @@ www.montehermoso.net // info@montehermoso.net
 2010 Selected projects
 Artists' projects
 Filipa Raposo
-Erick BeltrÃ¡n Flores
+Erick Beltrán Flores
 Marina Naprushkina
 June Crespo
 Oier Etxeberria
@@ -80,7 +81,7 @@ Catalina Lozano
 Research
 Anna Colin
 Sohrab Mohebbi
-Montse de Mateo PugmartÃ­ and Sergio InclÃ¡n Cervera
+Montse de Mateo Pugmartí and Sergio Inclán Cervera
 
 Film script
-Mikel SaÃ©z de SantamarÃ­a and Daniel Remen
+Mikel Saéz de Santamaría and Daniel Remen

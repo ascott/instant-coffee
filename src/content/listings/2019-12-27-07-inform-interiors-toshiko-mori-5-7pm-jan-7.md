@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 7
 type: "TALK"
+venue: "Inform Interiors"
 summary: "Inform Interiors | Toshiko Mori | 5-7PM | JAN 7"
 ---
 

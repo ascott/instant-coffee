@@ -407,7 +407,7 @@ those attending the workshop. If you have any further questions about the
 theme or reading material, contact Nancy by email:
 Gillespie(dot)nancy(at)gmail(dot)com.
 
-Â¨Please visit the KSW website for the Negotiating the Social Bond of
+¨Please visit the KSW website for the Negotiating the Social Bond of
 Poetics Series Thematic Abstract, list of resources, and complete list of
 writers associated with the series.
 
@@ -752,7 +752,7 @@ The Lido Gallery
 Unrealized Art Projects is an exploration and examination of the motives
 behind the collecting and purchasing of a wide variety of objects over a
 four year period. Each item was selected for the direct purpose or
-facilitation of Helen Teagerâ€™s art practice during this time. Chosen for
+facilitation of Helen Teager’s art practice during this time. Chosen for
 either aesthetic or functional properties, these objects remain unrealized
 of their intended purpose. As a result, everyone in attendance will have an
 opportunity on Saturday and Sunday to purchase each object, hopefully
@@ -772,7 +772,7 @@ Gallery Hours: Wed - Sat. 1 - 5 pm
 ON MAIN Gallery, 1965 Main St., Vancouver. BC.
 for further information: e: onmain@gmail.com or phone (604) 872-7713
 
-â€˜Beautiful Frontierâ€™ is a unique installation at On Main Gallery
+‘Beautiful Frontier’ is a unique installation at On Main Gallery
 created for Vancouver's second annual Drawn Festival
 http://drawnfestival.ca Beautiful Frontier is a site-specific project.
 Scrolls are suspended exploring drawing as a traditional form and as a
@@ -792,7 +792,7 @@ Lukacs, Laiwan, Brian Howell, Michele Quan, Dana Claxton, and Angela Fama.
 
 Rosanne Bennett and Katherine Coe both graduated from Emily Carr in
 1991/92. Over the past 15 years both artists have had numerous solo and
-group exhibitions. Katherineâ€™s drawings appeared at the Elliott Louis
+group exhibitions. Katherine’s drawings appeared at the Elliott Louis
 Gallery as part of the Emerging Artists (2009) her work recently appeared
 in the Creative Quarterly Journal of Art and Design (#18, 2010). She also
 studied art history at the University of British Columbia and was
@@ -887,23 +887,23 @@ About the role
 Under the direct supervision of the Director, Finance and Administration,
 the incumbent is responsible for all the administrative services activity
 of the Council in the conduct of its operations; supervises and coordinates
-the work activities of six employees; acts as the Councilâ€™s Physical
+the work activities of six employees; acts as the Council’s Physical
 Security Coordinator; prepares and manages the annual budget for the
 section; plans, coordinates and manages office space changes and moves;
 administers the Canada Council's office leases; and performs other related
 duties.
 
 Basic requirements of the position
-Â· Three-year community college or university program;
-Â· Five years' experience directly related to the principal
+· Three-year community college or university program;
+· Five years' experience directly related to the principal
 responsibilities of this position;
-Â· Well-developed administrative, project-management and managerial
+· Well-developed administrative, project-management and managerial
 skills
-Â· Good working knowledge of building and facility management;
-Â· Excellent initiative, judgment, interpersonal and relationship
+· Good working knowledge of building and facility management;
+· Excellent initiative, judgment, interpersonal and relationship
 building skills;
-Â· A high level of innovation and problem-solving skills;
-Â· This position requires the use of both official languages. The
+· A high level of innovation and problem-solving skills;
+· This position requires the use of both official languages. The
 requirements in the second official language are: an advanced level in oral
 and reading comprehension and an intermediate level in writing.
 
@@ -916,9 +916,9 @@ Send the completed Application for Employment form
 quoting the competition number listed above and a copy of your resume to
 the attention of Roch Brunelle, Human Resources Assistant, by either:
 
-Â· email: competition@canadacouncil.ca
-Â· fax: 613.566.4323
-Â· mail: 350 Albert Street, P.O. Box 1047, Ottawa, Ontario, K1P 5V8
+· email: competition@canadacouncil.ca
+· fax: 613.566.4323
+· mail: 350 Albert Street, P.O. Box 1047, Ottawa, Ontario, K1P 5V8
 
 For more information, please contact Roch Brunelle at 613-566-4414,
 extension 4124 or by e-mail at competition@canadacouncil.ca
@@ -978,7 +978,7 @@ Later is an art show that feels like your things in the right place.
 Site-specific work is encouraged: wall space, shelving and various house
 features including door frames, window sills and nooks (for example) can be
 used to display your work. Placement of pieces in specific rooms (e.g.,
-bedrooms, bathrooms) will affect the feel of each artistâ€™s contribution and
+bedrooms, bathrooms) will affect the feel of each artist’s contribution and
 will be taken into consideration upon submission.
 
 Any medium is accepted, however three-dimensional work should be suited to
@@ -1054,7 +1054,7 @@ development?
 
 Happy Grounds
 The French philosopher Henri Lefebvre stated in his seminal text from 1968
-Le droit a la ville: Â»Urban life has yet to begin.Â« Resources.10 now starts
+Le droit a la ville: »Urban life has yet to begin.« Resources.10 now starts
 its program Happy Grounds, in which we will search for alternative urban
 models and perspectives on development based on particularly advantageous
 breeding grounds, such as climate, topography, cultural expressions,
@@ -1075,20 +1075,20 @@ building development and the consequent decimation of biological systems.
 Instead, these activists envision an urban system in which villages and
 towns intersperse with wild as well as managed landscapes, all growing into
 an economic, and physical whole. Included in this vision is a shift from
-the present major sources of income â€“ including rice-fields and a
-devastating mining industry â€“ to diversified agricultural production, I.T.,
+the present major sources of income – including rice-fields and a
+devastating mining industry – to diversified agricultural production, I.T.,
 biotechnology and eco-tourism. Can Goa show the way for the rest of the
 country in a transformation from a rural to an urban economy, thereby
 offering a convincing urban alternative to the mega-cities? Could Goa's
 biological and cultural diversity contribute to a resilient urban complex?
 Would such a hybrid be another way of understanding Urban life? Is the
-Â»forest cityÂ« a distant cousin to the mega-city's urban jungle?
+»forest city« a distant cousin to the mega-city's urban jungle?
 
 With a foundation in the British research institute New Economic Foundation
 and The Happy Planet Index, Resources.10 will discuss Happiness and its
 potential to generate alternative concepts of development. Biodiversity, as
-well as the Indian society's rich simultaneity â€“ in time and space,
-religiously and culturally â€“ will also enrich our analysis. We will learn
+well as the Indian society's rich simultaneity – in time and space,
+religiously and culturally – will also enrich our analysis. We will learn
 from various approaches to the idea of justice and explore how biological
 diversity could contribute to an inclusive development. We will probe the
 attraction of tourism and what relation it has to the social and physical
@@ -1117,7 +1117,7 @@ ongoing working partnerships with the Stockholm Environment Institute and
 Stockholm Resilience Centre, as well as the department of Biological
 Physics at Chalmers University. With Density Design Lab in Milan we will
 develop our skills in the visualization of urban data. The site-specific
-innovation methodology of FabLab/ TromsÅ‘ will be our kick-off for the year.
+innovation methodology of FabLab/ Tromső will be our kick-off for the year.
 
 Perspectives
 The course is structured in sections each with a specific theme. We will
@@ -1145,7 +1145,7 @@ lectures and seminars. The common group project will sequentially develop
 in short workshops that follow throughout the course of the year.
 Resources.10 commences week 37, 2010 and concludes week 22, 2011. Winter
 break is between weeks 50 and 3. The fall term will begin with a short
-workshop and study trip tentatively scheduled to TromsÅ‘, Norway and the
+workshop and study trip tentatively scheduled to Tromső, Norway and the
 innovation-hub FabLab. A longer study, research and workshop trip to Goa
 and the west coast of Indian is scheduled for the spring term. The course
 gives 60 academic credits. The cost for study trips and reading materials
@@ -1165,7 +1165,7 @@ relevant to the subject, as well as describe an idea they wish to develop
 pertinent to the themes presented above. You should be an architect,
 landscape architect, urban or regional planer, designer, engineer, or from
 another discipline such as; photographer, filmmaker, artist, writer,
-journalist or biologist â€“ with a specific interest in architecture and
+journalist or biologist – with a specific interest in architecture and
 urban planning issues. Applicants should have a masters degree or in the
 process of completing their masters thesis. The course can also be attended
 as a lecture series, not participating in the group project, giving 30
@@ -1210,7 +1210,7 @@ the school often become independent platforms that continue to develop on
 their own.
 
 An increasingly urban world necessitates new perspectives. The three
-programs share an interest in the City, but have different areas of focus â€“
+programs share an interest in the City, but have different areas of focus –
 history and identity, social aspects and future urban possibilities. By
 utilizing methods of research and design we explore the potential of urban
 environments in a rapidly changing world.
@@ -1225,7 +1225,7 @@ Salary range: $45,000 - $60,000
 
 Are you a passionate and creative individual with amazing interpersonal
 skills? Do you have the vision and drive to help shape the future of one of
-Canadaâ€™s important public galleries? The Vancouver International Centre for
+Canada’s important public galleries? The Vancouver International Centre for
 Contemporary Asian Art (Centre A) is seeking an Executive Director to build
 on its accomplishments and lead its future development. Centre A was
 founded in 1999 in order to establish a major Canadian centre for

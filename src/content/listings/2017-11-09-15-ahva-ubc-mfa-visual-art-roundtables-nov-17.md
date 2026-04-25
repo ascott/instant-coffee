@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 15
 type: "TALK"
+venue: "AHVA"
 summary: "AHVA | UBC MFA Visual Art Roundtables | NOV 17"
 ---
 

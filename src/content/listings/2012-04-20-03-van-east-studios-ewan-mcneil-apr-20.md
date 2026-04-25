@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 3
 type: ""
+venue: "Van East Studios"
 summary: "Van East Studios | Ewan McNeil | APR 20"
 ---
 
@@ -24,6 +25,6 @@ and abstraction .
 His collages, large and small and his sculptures show his interest in 
 built form and in how we experience and 
 invent visual pleasure. 
-This new work points to McNeilâ€™s interest and engagement with the 
+This new work points to McNeil’s interest and engagement with the 
 physical world, and the ways in which existing forms can be 
 reinterpreted and new forms created.

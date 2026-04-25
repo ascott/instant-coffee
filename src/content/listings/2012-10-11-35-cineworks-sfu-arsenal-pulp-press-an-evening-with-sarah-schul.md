@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 35
 type: ""
+venue: "Cineworks & SFU & Arsenal Pulp Press"
 summary: "Cineworks & SFU & Arsenal Pulp Press | An Evening with Sarah Schulman | NOV 3"
 ---
 
-Cineworks in partnership with SFUâ€™s Vancity Office of Community 
+Cineworks in partnership with SFU’s Vancity Office of Community 
 Engagement and Arsenal Pulp Press and Xtra! Present:
 
 Witness to a Lost Generation:
@@ -46,5 +47,5 @@ programs@cineworks.ca or 604.685.3841
 
 Cineworks gratefully acknowledges the support of our membership, 
 volunteers, sponsors and the ongoing financial assistance of our 
-funders â€“the Canada Council for the Arts, the British Columbia Arts 
+funders –the Canada Council for the Arts, the British Columbia Arts 
 Council and the City of Vancouver. www.cineworks.ca

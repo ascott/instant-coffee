@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 32
 type: "OPENING"
+venue: "SFU: School for the Contemporary Arts"
 summary: "SFU: School for the Contemporary Arts | In Circulation: Opening Reception | APR 6"
 ---
 

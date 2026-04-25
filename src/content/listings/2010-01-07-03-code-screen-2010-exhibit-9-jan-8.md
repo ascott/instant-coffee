@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 3
 type: ""
+venue: "CODE Screen 2010"
 summary: "CODE Screen 2010 | Exhibit 9# | JAN 8"
 ---
 

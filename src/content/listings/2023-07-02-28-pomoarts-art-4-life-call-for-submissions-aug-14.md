@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 28
 type: "CALL"
+venue: "PoMoArts"
 summary: "PoMoArts | Art 4 Life Call for Submissions | AUG 14"
 ---
 

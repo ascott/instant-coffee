@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 9
 type: "CALL"
+venue: "Alchemy Artist Residency"
 summary: "Alchemy Artist Residency | Call for Submissions | MAR 1"
 ---
 

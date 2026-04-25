@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 37
 type: "EVENT"
+venue: "Fillip @ Dude Chilling Park"
 summary: "Fillip @ Dude Chilling Park | Reading Group — Patrick Cruz | 6PM | JUN 20"
 ---
 

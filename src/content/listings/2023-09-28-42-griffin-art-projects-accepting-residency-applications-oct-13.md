@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 42
 type: "CALL"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Accepting Residency Applications | OCT 13"
 ---
 

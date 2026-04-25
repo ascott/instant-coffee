@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 23
 type: "CALL"
+venue: "Gallery 295"
 summary: "Gallery 295 | CALL: INDEXJuried Exhibition for Emerging Artists | APR 10"
 ---
 

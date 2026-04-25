@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 35
 type: "EDUCATION"
+venue: "South Main Gallery"
 summary: "South Main Gallery | The Art of Story | OCT 20-21 | OCT 20"
 ---
 

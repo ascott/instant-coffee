@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Pierre Coupey - Walking The Cat Back | OCT 16"
 ---
 

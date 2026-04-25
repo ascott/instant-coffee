@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 26
 type: "EDUCATION"
+venue: "Peripheral Review & VPBF"
 summary: "Peripheral Review & VPBF | The Art in the Written Review Workshop | APR 20"
 ---
 

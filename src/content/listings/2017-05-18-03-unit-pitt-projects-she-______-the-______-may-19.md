@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 3
 type: "OPENING"
+venue: "UNIT / PITT Projects"
 summary: "UNIT / PITT Projects | SHE ______ THE ______ | MAY 19"
 ---
 

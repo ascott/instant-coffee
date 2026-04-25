@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 15
 type: ""
+venue: "Luckys Gallery"
 summary: "Luckys Gallery | AMANDA LYE |till | JUL 14"
 ---
 
 AMANDA LYE
 Miniatures: Systems, Structures and the Inane
 
-24 June ï¿½ 8 July 2010
+24 June � 8 July 2010
 
 Opening reception 24 June, 7pm
 
@@ -30,7 +31,7 @@ box (along walls and upon shelves and tables) proposes value
 distinctions and provides structuralized containment for a
 frenetic assemblage. Although precarious, the varied objects
 are arranged in a carefully maintained order of idiosyncrasy.
-With a utopian spirit, Lyeï¿½s anomic structures recoup failed
+With a utopian spirit, Lye�s anomic structures recoup failed
 visions, vital knowledges, and familiar narratives of what has
 been or what could be.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 24
 type: ""
+venue: "Centre for Art Tapes"
 summary: "Centre for Art Tapes | Employment Opportunity: Executive Director | MAR 1"
 ---
 

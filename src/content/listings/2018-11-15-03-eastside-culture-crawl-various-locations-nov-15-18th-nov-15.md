@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 3
 type: "EVENT"
+venue: "Eastside Culture Crawl"
 summary: "Eastside Culture Crawl | Various Locations | NOV 15-18th | NOV 15"
 ---
 

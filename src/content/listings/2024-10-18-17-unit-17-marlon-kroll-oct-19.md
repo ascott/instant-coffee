@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Marlon Kroll | OCT 19"
 ---
 

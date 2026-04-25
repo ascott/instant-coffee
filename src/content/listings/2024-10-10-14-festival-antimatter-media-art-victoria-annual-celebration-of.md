@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 14
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Antimatter [media art] [VICTORIA] | Annual Celebration of Moving Image | OCT 17-27 | OCT 17"
 ---
 

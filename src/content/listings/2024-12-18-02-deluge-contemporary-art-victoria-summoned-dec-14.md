@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Deluge Contemporary Art [VICTORIA]"
 summary: "Deluge Contemporary Art [VICTORIA] | Summoned | DEC 14"
 ---
 

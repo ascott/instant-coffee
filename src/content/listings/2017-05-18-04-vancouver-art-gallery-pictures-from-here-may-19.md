@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 4
 type: "OPENING"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Pictures From Here | MAY 19"
 ---
 

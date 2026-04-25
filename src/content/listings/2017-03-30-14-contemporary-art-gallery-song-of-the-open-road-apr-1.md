@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 14
 type: "OPENING"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Song of the Open Road | APR 1"
 ---
 

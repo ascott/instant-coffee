@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 12
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Jeneen Frei Njootli and Olivia Whetung | APR 26"
 ---
 

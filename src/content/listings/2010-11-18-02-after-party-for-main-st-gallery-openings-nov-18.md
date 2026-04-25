@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 2
 type: ""
+venue: "After Party"
 summary: "After Party | for Main St. Gallery Openings | NOV 18"
 ---
 
@@ -24,11 +25,11 @@ Ejaculation Death Rattle (with Soressa Gardner)
 "...earthy ecstatic deathtrips... kinda like lyin' back naked in a bed of
 moss as serpents crawl on your flesh..." - Allan MacInnis
 
-Â³It was hard not to be entertained by headliners, Ejaculation Death Rattle.
-Their name and stage antics were bound to turn heads (one band memberÂ¹s sole
-role was to don an executionerÂ¹s mask and give his bandmates mid-set
-massages), but the groupÂ¹s mix of loops, strings and horns was a beautiful
-mess of sounds.Â² Â­ Quin Omori, Chart Attack
+³It was hard not to be entertained by headliners, Ejaculation Death Rattle.
+Their name and stage antics were bound to turn heads (one band member¹s sole
+role was to don an executioner¹s mask and give his bandmates mid-set
+massages), but the group¹s mix of loops, strings and horns was a beautiful
+mess of sounds.² ­ Quin Omori, Chart Attack
 
 http://www.myspace.com/ejaculationdeathrattle
 <http://www.myspace.com/ejaculationdeathrattle>
@@ -37,7 +38,7 @@ http://www.soressa.com/
 
 Pink Island (Lee Hutzulak, Dave Leith, Madoka Hara)
 
-mimimalist/electroacoustic/musique concrÃ¨te
+mimimalist/electroacoustic/musique concrète
 
 http://www.myspace.com/pinkislandmusic
 <http://www.myspace.com/pinkislandmusic>

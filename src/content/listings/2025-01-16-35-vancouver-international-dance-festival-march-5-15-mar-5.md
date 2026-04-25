@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 35
 type: ""
+venue: "VANCOUVER INTERNATIONAL DANCE FESTIVAL"
 summary: "VANCOUVER INTERNATIONAL DANCE FESTIVAL | March 5-15 | MAR 5"
 ---
 

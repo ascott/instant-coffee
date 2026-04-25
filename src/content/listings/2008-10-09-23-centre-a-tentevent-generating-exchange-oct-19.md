@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 23
 type: ""
+venue: "Centre A"
 summary: "Centre A | TentEvent: Generating Exchange | OCT 19"
 ---
 

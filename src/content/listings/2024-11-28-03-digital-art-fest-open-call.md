@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 3
 type: "CALL"
+venue: "Digital Art Fest"
 summary: "Digital Art Fest | Open Call"
 ---
 

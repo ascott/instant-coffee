@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 20
 type: ""
+venue: "Association of Book Publishers of BC"
 summary: "Association of Book Publishers of BC | BC Book Day | APR 21"
 ---
 

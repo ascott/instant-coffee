@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 1
 type: "EVENT"
+venue: "MOA"
 summary: "MOA | Final Curatorial Tour: Salish Weaving | 7-8PM"
 ---
 

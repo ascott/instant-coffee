@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 25
 type: "TALK"
+venue: "Emily Carr University"
 summary: "Emily Carr University | VISUAL ART FORUMS: Heather Igloliorte | FEB 23"
 ---
 

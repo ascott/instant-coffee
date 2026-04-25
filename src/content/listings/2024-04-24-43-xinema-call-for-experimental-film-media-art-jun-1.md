@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 43
 type: "CALL"
+venue: "XINEMA"
 summary: "XINEMA | CALL FOR EXPERIMENTAL FILM & MEDIA ART | JUN 1"
 ---
 

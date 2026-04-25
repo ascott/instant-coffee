@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 12
 type: ""
+venue: "Gam Gallery"
 summary: "Gam Gallery | Michelle Weinstein | animation screening + artist | OCT 7"
 ---
 

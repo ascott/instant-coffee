@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 18
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Lovers' Wind | 5PM | SEP 14"
 ---
 

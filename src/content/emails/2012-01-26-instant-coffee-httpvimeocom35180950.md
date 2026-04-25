@@ -19,7 +19,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-01-26-05-221a-the-space-of-observation-jan-27">05. 221A | The Space of Observation | JAN 27</a>
 <a href="/instant-coffee/listings/2012-01-26-06-presentation-house-gallery-c1983-jan-27">06. Presentation House Gallery | C.1983 | JAN 27</a>
 <a href="/instant-coffee/listings/2012-01-26-07-equinox-project-space-fred-herzog-a-retrospective-jan-28">07. Equinox Project Space | Fred Herzog: A Retrospective | JAN 28</a>
-<a href="/instant-coffee/listings/2012-01-26-08-grunt-gallery-and-push-rabih-mrou-meet-and-greet-jan-28">08. grunt gallery and PUSH | Rabih MrouÃ©: Meet and Greet | JAN 28</a>
+<a href="/instant-coffee/listings/2012-01-26-08-grunt-gallery-and-push-rabih-mrou-meet-and-greet-jan-28">08. grunt gallery and PUSH | Rabih Mroué: Meet and Greet | JAN 28</a>
 <a href="/instant-coffee/listings/2012-01-26-09-yactac-gallery-microcosms-jan-28">09. Yactac Gallery | MICROCOS(MS) | JAN 28</a>
 <a href="/instant-coffee/listings/2012-01-26-10-access-gallery-ed-pien-jan-29">10. Access Gallery | Ed Pien | JAN 29</a>
 <a href="/instant-coffee/listings/2012-01-26-11-fontaine-anonymous-art-in-the-hive-mind-">11. fontaine | Anonymous Art in the Hive Mind </a>
@@ -62,8 +62,8 @@ in Calgary, Alberta in 1969 and currently living and working in
 Vancouver, Damian Moppett attended Emily Carr College of Art and 
 Design and received his Master of Fine Arts from Concordia University, 
 Montreal. He has exhibited widely including at The Power Plant, 
-Toronto; The National Gallery of Canada, Ottawa; MusÃ©e d'art 
-contemporain de MontrÃ©al and the Witte de With, Rotterdam.
+Toronto; The National Gallery of Canada, Ottawa; Musée d'art 
+contemporain de Montréal and the Witte de With, Rotterdam.
 
 Rennie Collection at Wing Sang holds two exhibitions a year with 
 supporting catalogues and events. For further information, or to book a 
@@ -92,13 +92,13 @@ platforms for both online and live performative contexts, often working
 with consumer technology. At Western Front Bailey will perform Nam 
 June Paik for Western Front, in which he designates himself the first 
 practitioner of â€œKinect Artâ€ , in which he utilizes the consumer gaming 
-system Microsoft Kinect, referencing Nam June Paikâ€™s relationship to 
+system Microsoft Kinect, referencing Nam June Paik’s relationship to 
 the invention of video art.
 
-Western Front Media Arts is presenting Jeremy Baileyâ€™s performance in 
+Western Front Media Arts is presenting Jeremy Bailey’s performance in 
 partnership with Electric Speed at the Surrey Art Gallery, an exhibition 
 of works commissioned for presentation on urban screens, curated by 
-Kate Armstrong and Malcolm Levy. Baileyâ€™s new work, Explore The 
+Kate Armstrong and Malcolm Levy. Bailey’s new work, Explore The 
 Future of Creativity will be presented alongside works by John Sasaki, 
 Will Gill and Jillian MacDonald. For more information visit 
 electricspeed.ca 
@@ -144,7 +144,7 @@ Eligible for PuSh Pass access
 
 A group of office temps plan a farewell party for a recently laid off
 colleague. Will a Motsu hot pot restaurant do? Someone is obviously
-tampering with the climate-control system and itÃ¢â‚¬â„¢s getting out of 
+tampering with the climate-control system and itâ€™s getting out of 
 hand.
 Should the police be notified? A coworker makes her farewell speech.
 What does it have to do with imaginary penguins and the death of a
@@ -158,8 +158,8 @@ and John Cage, each of the three scenes speak to the dark humour
 and despair of a generation that had been promised a brilliant future
 only to end up ensnared in fluorescent cubicles.
 
-Strangely hypnoticÃ¢â‚¬Â¦ a three-part meditation on death, class, and
-listening for the sad poetry in the everydayÃ¢â‚¬Â¦ By creating a jarring
+Strangely hypnoticâ€¦ a three-part meditation on death, class, and
+listening for the sad poetry in the everydayâ€¦ By creating a jarring
 juxtaposition between the physical score and the text, the forgettable is
 remembered, small details speak volumes. - Engine 28
 
@@ -167,7 +167,7 @@ Stylishly idiosyncratic director Toshiki Okada is known for crafting sharp
 and visually vibrant works of theatre out of the most ordinary of
 interactions. Founded in 1997, his Tokyo-based company is called
 chelfitsch, a neologism that evokes a childish deformation of the
-English word Ã¢â‚¬Å“selfish.Ã¢â‚¬ A rising star on the international theatre 
+English word â€œselfish.â€ A rising star on the international theatre 
 scene,
 chelfitsch has presented shows in the major theatre festivals of Berlin,
 Vienna, Paris, Singapore and New York, returning to Vancouver after
@@ -190,24 +190,24 @@ January 28th - Febuaury 11th
 Opening Reception January 26th 7-11pm
 Shudder Gallery 
 
-â€œFirst there was the collapse of civilization, anarchy, genocide, 
-starvation. Then when it seemed things couldnâ€™t get any worse, we got 
+“First there was the collapse of civilization, anarchy, genocide, 
+starvation. Then when it seemed things couldn’t get any worse, we got 
 the plague. The living death. Quickly closing its fist over the entire 
 planet. Then we heard the rumors. That the last scientists were working 
 on a cure that would end the plague and restore the world. Restore 
-itâ€¦â€¦WHY? I like the death. I like the misery. I LIKE THIS 
+it……WHY? I like the death. I like the misery. I LIKE THIS 
 WOOOORRRRLLLLLLLLDDDD!!!!!â€  - Cyborg (1989 dir. Albert Pyun)
 
 It is with the eyes that the mutants have witnessed the most atrocities 
 therefore it is with these drawings that we commit upon the mutant an 
 act of ocular defenestration. The eyes must always be the first to go.
 
-Iâ€™ve Plumbed the Depths of this Whole Zone is a group exhibition 
+I’ve Plumbed the Depths of this Whole Zone is a group exhibition 
 featuring Jeff Halladay, Lee Henderson, Michelle Jukic, and Shay 
-Semple. Weâ€™re done with any sort of lengthy exegesis regarding the 
-meaning and purpose of our art. Weâ€™ve been down that toilet before 
-and itâ€™s boring. This show represents the last remaining vestiges of our 
-mutant community that hasnâ€™t packed up and vacated the sewer system 
+Semple. We’re done with any sort of lengthy exegesis regarding the 
+meaning and purpose of our art. We’ve been down that toilet before 
+and it’s boring. This show represents the last remaining vestiges of our 
+mutant community that hasn’t packed up and vacated the sewer system 
 known as Vancouver for more saxophone oriented cities like New York. 
 We have stayed, in the sub-basements and the abandoned tenements. 
 Studying, slowly growing in power, becoming victims of our erudition. 
@@ -271,7 +271,7 @@ www.shuddergallery.com
 
 http://221a.ca/the-space-of-observation
 
-Exhibition: Jan 28 â€“ Feb 26, 2012
+Exhibition: Jan 28 – Feb 26, 2012
 Artist Talk: 2:00pm, Jan 28
 Opening Reception: 8:00pm, Jan 27
 
@@ -280,7 +280,7 @@ Observation,
 a new project by Richard Ibghy & Marilou Lemmens that investigates 
 the
 linkages between two different types of observational spaces: the
-photographic space of boxersâ€™ portraits, where the prizefighter crafts
+photographic space of boxers’ portraits, where the prizefighter crafts
 a unique persona, and the Cartesian space of economic graphs, where
 statistical data is plotted to derive mathematical functions.
 
@@ -293,7 +293,7 @@ by the demand for coal, led to the rapid development of Wales and
 other mining regions.
 
 With sources that range from British statistician and economist
-William Stanley Jevonsâ€™ first attempts at plotting statistical data
+William Stanley Jevons’ first attempts at plotting statistical data
 onto a Cartesian coordinate system, to archival photographs of Welsh
 working-class boxing heroes, Ibghy & Lemmens simultaneously 
 highlight
@@ -312,7 +312,7 @@ as a site of human invention and intervention.
 ---
 
 Working collaboratively since 2002, Richard Ibghy and Marilou 
-Lemmensâ€™
+Lemmens’
 practice explores questions of economics on a human scale, bridging
 notions of cultural value and economic theory with the complexities
 and underlying armatures of economic behaviour. In recent years the
@@ -322,12 +322,12 @@ for cultural questions in a late-Capitalist era. Their work has been
 presented at galleries and institutions including Richmond Art
 Gallery, Richmond; Labor K1, Berlin; Galleria Alkovi, Helsinki; Morris
 and Helen Belkin Art Gallery, Vancouver; VU, Quebec City; Owens Art
-Gallery, Sackville; European Media Art Festival, OsnabrÃ¼ck and TrafÃ³,
+Gallery, Sackville; European Media Art Festival, Osnabrück and Trafó,
 House of Contemporary Arts, Budapest. Most recently, they have
 presented their work at the 10th Sharjah Biennial, UAE. The artists
 currently live and work in Montreal.
 
-This project is organized by Mandy Ginson as part of 221Aâ€™s curatorial
+This project is organized by Mandy Ginson as part of 221A’s curatorial
 residency programme. Ginson lives and works in Vancouver where she
 produces writing and curatorial projects and works part-time as a
 Curatorial Administrative Assistant at the Vancouver Art Gallery. She
@@ -405,34 +405,34 @@ e info@equinoxgallery.com
 w equinoxgallery.com
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-01-26-08-grunt-gallery-and-push-rabih-mrou-meet-and-greet-jan-28">08. grunt gallery and PUSH | Rabih MrouÃ©: Meet and Greet | JAN 28</a>
+<a href="/instant-coffee/listings/2012-01-26-08-grunt-gallery-and-push-rabih-mrou-meet-and-greet-jan-28">08. grunt gallery and PUSH | Rabih Mroué: Meet and Greet | JAN 28</a>
 ------------------------------------------------------------------------
-Rabih MrouÃ© Meet and Greet at grunt gallery 
+Rabih Mroué Meet and Greet at grunt gallery 
 
 Saturday January 28, 2012, 4-6pm 
 
 Grunt is partnering with the PuSh International Performing Arts Festival 
 and the Contemporary Art Gallery to present the work of Beirut based 
-artist Rabih MrouÃ©: 
+artist Rabih Mroué: 
 
 Looking for a Missing Employee 
 Performance at Roundhouse, Jan 26-28 8pm
 A thoughtful and provocative performance puzzle in which Lebanese 
-artist Rabih MrouÃ© follows the true story of a man who disappears from 
+artist Rabih Mroué follows the true story of a man who disappears from 
 his low-level post at the Ministry of Finance in Beirut, never to be seen 
 again. 
 
 The Pixelated Revolution
 Lecture-Performance at the Contemporary Art Gallery, Jan 24 8pm
-A lecture-performance Lebanese artist Rabih MrouÃ© about the usage 
+A lecture-performance Lebanese artist Rabih Mroué about the usage 
 of mobile phones during the Syrian revolution. 
 
 I first visited Lebanon in December of 2007 and was struck by the work 
-I saw there. Rabih MrouÃ©'s performances exist in a context of other 
+I saw there. Rabih Mroué's performances exist in a context of other 
 artists in his generation who came of age during the Civil War in 
 Lebanon during the 1980's and their work has a shared interest in 
 found photography and video as elements to be repurposed into story 
-telling. MrouÃ© Together Walid Raad of The Atlas Group, Akram Zaatar, 
+telling. Mroué Together Walid Raad of The Atlas Group, Akram Zaatar, 
 and the Arab Image Foundation, Lamia Joreige and many others an 
 interest in photography and video as media to explore the war and its 
 lingering effects on their society.
@@ -449,19 +449,19 @@ Through Vittorio I was able to meet a large range of artists in the
 community and we had the opportunity to visit Ashkal Alwan the 
 dynamic media centre in Beirut and it was there I viewed a video of the 
 performance Looking for a Missing Employee as well as other work by 
-Rabih MrouÃ©. I was immediately struck by how MrouÃ© was using the 
+Rabih Mroué. I was immediately struck by how Mroué was using the 
 found media and the liberties he took with the material. The work was 
 fresh, brazen and provocative in ways I had never seen before and 
 frankly haven't seen since.
 
-MrouÃ© wasn't in Lebanon at the time but we did have coffee with his 
+Mroué wasn't in Lebanon at the time but we did have coffee with his 
 wife and collaborator Lina Saneh whose work is fresh and exciting in its 
 own right and who I would love to see in an upcoming PuSh Festival. I 
 came back raving to Norman about their work.
 
 I returned to Lebanon in early 2008 for Ashkal Alwan's amazing 
 conference Homeworks 4 where I was able to take in "How Nancy 
-Wished that Everything Was an April Fool's Joke" MrouÃ©'s epic retelling 
+Wished that Everything Was an April Fool's Joke" Mroué's epic retelling 
 of the war through the myriad of factions that fought in it. The four 
 actors sat passively onstage as different posters of the different 
 factions of the Lebanese right and left flashed over their heads and 
@@ -469,11 +469,11 @@ they retold heroic tales of their deaths. The collective weight of the
 stories and the vitriolic retelling spoke to the futility of the conflict and 
 the lasting yet contradictory lessons that were taken from it.
 
-I still don't know how to categorize MrouÃ©'s work. As a refugee from 
+I still don't know how to categorize Mroué's work. As a refugee from 
 theatre who migrated to visual art and performance I have a hard time 
 placing exactly what he does. Theatre has always been a medium 
 based in storytelling for me, while performance takes its strength from 
-image making. But MrouÃ© is somewhere between the two. His use of 
+image making. But Mroué is somewhere between the two. His use of 
 found media to make meaning is fascinating and disturbing but perhaps 
 a fitting tribute to a war that left 300,000 dead and no one to atone for 
 any of those losses. This generation of artists takes its impetus from 
@@ -482,7 +482,7 @@ they take liberties with the truth it is only because the truth is impossible
 to discern within this constantly shifting political landscape where 
 deception and subterfuge go hand in hand.
 
-MrouÃ© tells us a story that will knock your socks off as he takes us 
+Mroué tells us a story that will knock your socks off as he takes us 
 places we have never been before. Don't miss it!
 
 Glenn Alteen
@@ -558,19 +558,19 @@ Facebook: http://www.facebook.com/pages/Yactac/219495644734594
 NEW WORK: Christian Kliegel, Ed Pien, and Alison MacTaggart
 January 20 - February 25, 2012
 Access has been a vital space for emerging artists for the past twenty 
-years. In celebration of this, weâ€™ve invited past artists to engage with 
+years. In celebration of this, we’ve invited past artists to engage with 
 works they originally presented at Access. Now well-known local, 
 national, and international artists, Christian Kliegel, Ed Pien, and Alison 
 MacTaggart will produce new work launching from the ideas and 
 concerns found earlier in their career. The exhibition will be comprised 
 of three successive installations.
 
-Ed Pien: January 29th â€“ February 11th, 2012
+Ed Pien: January 29th – February 11th, 2012
 Reception: Sunday January 29th, 2-4pm (Artist in Attendance)
 
 Access Gallery proudly presents internationally acclaimed Toronto-
 based artist Ed Pien as a part of our New Work project. In 1995, Access 
-presented Pienâ€™s first solo exhibition in Vancouver. The installation, The 
+presented Pien’s first solo exhibition in Vancouver. The installation, The 
 Blue Room (detail shot pictured above) played with mirror effects and 
 curtains to accentuate his expanse of visceral blue drawings. Thinking 
 about this initial exhibition 16 years later, Pien is developing a new 
@@ -588,12 +588,12 @@ was invited to participate in the 2012 Sydney Biennial.
 
 New Work continues :
 
-Alison MacTaggart: February 14th â€“ 25th, 2012
+Alison MacTaggart: February 14th – 25th, 2012
 
-In 2002, Alison MacTaggartâ€™s Access exhibition, The Egg Throwing 
+In 2002, Alison MacTaggart’s Access exhibition, The Egg Throwing 
 Apparatus explored the symbolic gesture of projection of self into the 
 social realm. Constructing tool/toy-like egg projectile machines 
-McTaggartâ€™s exhibition gave physical and sculptural presence to a 
+McTaggart’s exhibition gave physical and sculptural presence to a 
 theoretical discussion of linguistics and the act of coming out. Since her 
 exhibition, MacTaggart has continued to develop playful apparatus 
 dealing with these strands. For New Work MacTaggart presents a 
@@ -690,21 +690,21 @@ metaphysical significance.
 
 The exhibition at the CAG will feature an in-depth selection of work that 
 invites visitors to engage in a world combining theories of mysticism, 
-tradition, cosmology, energy maps, divination and dynastic sites â€“ all 
+tradition, cosmology, energy maps, divination and dynastic sites – all 
 systems which are fast disappearing in a modernized China.
 
 Frances Stark My Best Thing, 2011
 Digital video, duration 99 mins, Courtesy the artist, Marc Foxx, Los 
 Angeles; 
-Gavin Brownâ€™s Enterprise, New York City; Greengassi London; Galerie 
+Gavin Brown’s Enterprise, New York City; Greengassi London; Galerie 
 Buchholz, Cologne
 
 Frances Stark
 My Best Thing
 February 3 to April 15, 2012
 
-The Contemporary Art Gallery presents Frances Starkâ€™s first feature 
-length animation My Best Thing. Premiered at last yearâ€™s 2011 Venice 
+The Contemporary Art Gallery presents Frances Stark’s first feature 
+length animation My Best Thing. Premiered at last year’s 2011 Venice 
 Biennale this compelling work is presented as a large scale projection 
 in the Alvin Balkind Gallery at the CAG.
 
@@ -741,13 +741,13 @@ Vancouver artist Scott Massey.
 With discrete works sited in the windows of CAG and at the Yaletown-
 Roundhouse Canada Line station, Massey links both locations through 
 two new pieces exploring notions of time and space, and the mutable 
-connections between them. Masseyâ€™s work accentuates and amplifies 
+connections between them. Massey’s work accentuates and amplifies 
 natural phenomena, often heightened through artificial means or slight 
 manipulations. 
 
 Across the front of the CAG, Aurorae draws our attention to the shifting 
 nature of light. By giving substance to the intangible, Massey creates a 
-subtle animation of the faÃ§ade creating an effect suggesting fluidity 
+subtle animation of the façade creating an effect suggesting fluidity 
 within the structure. 
 
 In Via Lactea (above Glacier Lake) at the Yaletown-Roundhouse 
@@ -783,7 +783,7 @@ E: s.lavitt@contemporaryartgallery.ca
 www.contemporaryartgallery.ca
 
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5 
-Hours: Wed. - Sun. 12 â€“ 6 pm. FREE ENTRY 
+Hours: Wed. - Sun. 12 – 6 pm. FREE ENTRY 
 
 
 
@@ -791,9 +791,9 @@ Hours: Wed. - Sun. 12 â€“ 6 pm. FREE ENTRY
 <a href="/instant-coffee/listings/2012-01-26-14-vancouver-art-gallery-offsite-kota-ezawa-feb-2">14. VANCOUVER ART GALLERY | OFFSITE: Kota Ezawa | FEB 2</a>
 ------------------------------------------------------------------------
 OFFSITE: Kota Ezawa
-February 2, 2012 â€“ September 16, 2012
+February 2, 2012 – September 16, 2012
 
-Vancouver, BC - Opening at the Vancouver Art Galleryâ€™s Offsite space 
+Vancouver, BC - Opening at the Vancouver Art Gallery’s Offsite space 
 at Georgia and Thurlow on February 2nd, San Francisco-based artist 
 Kota Ezawa presents Hand Vote, a timely and iconic image of 
 democracy. At a moment when calls for social reform are a topic of 
@@ -801,45 +801,45 @@ discussion both here in Canada and around the world, the large-scale
 wooden tableau depicts a diverse group of people raising their hands 
 to vote in what appears to be a town hall meeting. 
 
-Ezawaâ€™s Hand Vote is based on a stock photograph the artist found on 
+Ezawa’s Hand Vote is based on a stock photograph the artist found on 
 the internet. A small version of this work was commissioned for the 
 2008 exhibition OURS: Democracy in the Age of Branding at Parsons 
 The New School for Design in New York City. At Offsite, Ezawa has 
 rendered the picture on large-scale, monumentalizing the image: 
 standing more than six metres high and over nine metres wide, Hand 
-Vote towers over the street and passersby. Ezawa says, â€œThere is a 
+Vote towers over the street and passersby. Ezawa says, “There is a 
 boldness to it. In my own trajectory as an artist, this is an important 
 piece. When I first started I was best known as a digital animator. This 
 is such a physical piece, and marks a real departure from my earlier 
 works.â€  The sculpture is made of Douglas fir, in keeping with the artistâ€™s 
 desire to connect the work to this area.
 
-In addition to wood sculptures such as Hand Vote, Ezawaâ€™s diverse 
+In addition to wood sculptures such as Hand Vote, Ezawa’s diverse 
 projects include digital animations, slide projections, light boxes, paper 
 cut-outs, etchings, and ink drawings. He is perhaps best-known for his 
 computer-generated animations of popular television, film and 
-photographic images. Often Ezawaâ€™s inspiration comes from images of 
+photographic images. Often Ezawa’s inspiration comes from images of 
 what may be described as our collective cultural memory. Some of his 
 noted works deal with culturally charged events, such as his 2002 
 animated remake of the verdict in the O.J. Simpson trial, and short film 
 versions of the assassinations of Presidents Abraham Lincoln and John 
 F. Kennedy. In his hands, these well-known images become stylized 
-and â€˜pared downâ€™, bringing the viewerâ€™s focus to the essentials of the 
+and ‘pared down’, bringing the viewer’s focus to the essentials of the 
 image, and calling on the viewer to re-assess their relationship with the 
 memory of the event.
 
 Born in Cologne, Germany in 1969, Ezawa has been based in 
 California since 1994. His work has been exhibited across Canada and 
 the United States, including at the Museum of Modern Art, New York, 
-Art Institute of Chicago and Musee dâ€™Art Moderne de la Ville de Paris.
+Art Institute of Chicago and Musee d’Art Moderne de la Ville de Paris.
 
-Offsite, the Galleryâ€™s outdoor exhibition space next door to the Shangri-
+Offsite, the Gallery’s outdoor exhibition space next door to the Shangri-
 La Hotel in downtown Vancouver, is dedicated to newly commissioned, 
 innovative public art projects. Featuring work by acclaimed 
 contemporary artists, the first four exhibitions were: the photo-based 
 work of O Zhang in July 2009, a sculptural installation by Ken Lum in 
 January 2010, a large-scale sculptural pavilion by artists Heather and 
-Ivan Morison in October 2010 and Elspeth Prattâ€™s Second Date.
+Ivan Morison in October 2010 and Elspeth Pratt’s Second Date.
 
 Kota Ezawa will be speaking about Hand Vote at Offsite on Thursday, 
 February 2nd at 6:30pm at the inauguration of the work.
@@ -853,7 +853,7 @@ City of Vancouver through the Public Art Program. The Gallery
 recognizes Ian Gillespie, President, Westbank; Ben Yeung, President, 
 Peterson Investment Group; and the residents at Shangri-La for their 
 support of this space. Offsite: Kota Ezawa is generously supported by 
-our Visionary Partner: Michael Oâ€™Brian Family Foundation. Offsite is 
+our Visionary Partner: Michael O’Brian Family Foundation. Offsite is 
 curated by Kathleen Ritter, Associate Curator of the Vancouver Art 
 Gallery.
 
@@ -919,7 +919,7 @@ the work itself until a biome emerges. I am rooted in the traditions of the
 handmade but my practice is interdisciplinary and includes painting, 
 drawing, print-making and animation in addition to book binding.
 -- 
-Opening: Friday, February 3 - 8 â€“ 11pm | Show Runs February 3-25
+Opening: Friday, February 3 - 8 – 11pm | Show Runs February 3-25
 
 www.megaspora.us
 
@@ -972,7 +972,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -986,7 +986,7 @@ Exhibition dates: February 17th- March 4th
 The exhibition The Romance Capital of the Yukon focuses on the idea 
 of shelter and the romanticism of trying to find a space for yourself in 
 the context of the north, specifically the town of Dawson City in 
-Canadaâ€™s Yukon Territory. Each of the artists has based their work for 
+Canada’s Yukon Territory. Each of the artists has based their work for 
 this show on personal experiences from their time spent in the Yukon 
 Territory in the summer of 2011. The show features work by Northern 
 Shelter Collective members:
@@ -1030,16 +1030,16 @@ Parties - Events - Space Leasing - Promotions - Opening Galas - Quinn
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-01-26-18-le-labo-call-for-proposals-generation-dissemination-feb-24">18. Le Labo | Call for proposals: Generation Dissemination | FEB 24</a>
 ------------------------------------------------------------------------
-Call for proposals: Generation Dissemination // Appel Ã  projet: 
-GÃ©nÃ©ration dissÃ©mination
+Call for proposals: Generation Dissemination // Appel à projet: 
+Génération dissémination
 Deadline: Friday February 24, 2012 // Date limite: vendredi, le 24 
-fÃ©vrier 2012
+février 2012
 
-FranÃ§ais Ã  suivre
+Français à suivre
 
 Call for proposals:
 
-It's natural for artists to want to make history â€“ for their work to be 
+It's natural for artists to want to make history – for their work to be 
 known and recorded. It's a very different goal for artists to participate in 
 the recording of history in general. The production of documentation 
 (of art and as art) is a practice that intertwines and dialogues with the 
@@ -1086,57 +1086,57 @@ original gesture, the process of documentation.)
 
 Please send submissions to: contact@maggieflynn.ca
 
-Appel Ã  projet:
+Appel à projet:
 
-Marquer lâ€™histoire est un souhait naturel des artistes dans un soucis de 
-reconnaissance et dâ€™enregistrement de leur travail. En revanche 
-participer Ã  lâ€™Ã©criture de lâ€™Histoire en gÃ©nÃ©ral est un objectif diffÃ©rent. La 
+Marquer l’histoire est un souhait naturel des artistes dans un soucis de 
+reconnaissance et d’enregistrement de leur travail. En revanche 
+participer à l’écriture de l’Histoire en général est un objectif différent. La 
 production de documentation de l'art, et de documentation comme art, 
 sont des pratiques qui dialoguent et se rapportent au reportage 
-journalistique. Le choix de mÃ©dium et des mÃ©thodes de distribution de 
-la documentation de lâ€™art dÃ©terminent sa trajectoire vers le monde et 
-lâ€™avenir. Le rapport entre la documentation et son sujet est plus 
-compliquÃ© que jamais: une installation est diffusÃ©e par livestream, l'art 
-en ligne laisse sa trace numÃ©rique, les activitÃ©s quotidiennes sont 
-documentÃ©es comme une performance vidÃ©o. Comment est-ce que les 
-mÃ©thodes de documentation et distribution de l'art pourraient affecter 
-l'Ã©crit de l'histoire marquÃ©e dâ€™aujourdâ€™hui? Comment est-ce que 
-lâ€™histoire dâ€™aujourdâ€™hui sera lue demain?
+journalistique. Le choix de médium et des méthodes de distribution de 
+la documentation de l’art déterminent sa trajectoire vers le monde et 
+l’avenir. Le rapport entre la documentation et son sujet est plus 
+compliqué que jamais: une installation est diffusée par livestream, l'art 
+en ligne laisse sa trace numérique, les activités quotidiennes sont 
+documentées comme une performance vidéo. Comment est-ce que les 
+méthodes de documentation et distribution de l'art pourraient affecter 
+l'écrit de l'histoire marquée d’aujourd’hui? Comment est-ce que 
+l’histoire d’aujourd’hui sera lue demain?
 
-Nous cherchons des propositions d'artistes utilisant les mÃ©diums (mais 
-pas seulement) tel la vidÃ©o, le film, l'art interactif, l'art en ligne, la 
+Nous cherchons des propositions d'artistes utilisant les médiums (mais 
+pas seulement) tel la vidéo, le film, l'art interactif, l'art en ligne, la 
 performance et/ou l'installation. Nous demandons aux artistes de 
-proposer une Å“uvre Ã  plusieurs niveaux incluant un geste Â« original Â», 
-et la documentation de ou par ce geste. Le lieu dâ€™exÃ©cution du geste 
-original importe peu, celui-ci peut Ãªtre exÃ©cutÃ© hors de lâ€™espace de 
-crÃ©ation du labo (ex: une installation Ã  site spÃ©cifique, une performance 
-privÃ©e, un endroit gÃ©ographique Ã©loignÃ©) ; ils doivent toutefois Ãªtre 
-exÃ©cutÃ©s durant le temps dâ€™exposition. La documentation de ce geste 
-sera produite par lâ€™artiste montÃ©e dans la galerie avant le terme de 
-lâ€™exposition. Les projets proposÃ©s doivent considÃ©rer le format de 
-l'exposition. L'usage de la documentation devrait Ãªtre un aspect central 
-du travail. Pour plus dâ€™information, vous pouvez vous adresser au 
-contact indiquÃ© ci-dessous.
+proposer une œuvre à plusieurs niveaux incluant un geste « original », 
+et la documentation de ou par ce geste. Le lieu d’exécution du geste 
+original importe peu, celui-ci peut être exécuté hors de l’espace de 
+création du labo (ex: une installation à site spécifique, une performance 
+privée, un endroit géographique éloigné) ; ils doivent toutefois être 
+exécutés durant le temps d’exposition. La documentation de ce geste 
+sera produite par l’artiste montée dans la galerie avant le terme de 
+l’exposition. Les projets proposés doivent considérer le format de 
+l'exposition. L'usage de la documentation devrait être un aspect central 
+du travail. Pour plus d’information, vous pouvez vous adresser au 
+contact indiqué ci-dessous.
 
-L'exposition est commissionnÃ©e par Maggie Flynn pour le programme 
+L'exposition est commissionnée par Maggie Flynn pour le programme 
 de mentorat de Le Labo, sous la tutelle d'Alissa Firth-Eagland. Le Labo 
 (www.lelabo.ca) a pour mission de produire et diffuser des projets 
-francophones en arts mÃ©diatiques et pratiques interdisciplinaires. Ce 
+francophones en arts médiatiques et pratiques interdisciplinaires. Ce 
 projet acceptera des propositions d'artistes francophones et non-
 francophones. L'exposition se tiendra en avril 2012. Les frais d'artistes 
-et les coÃ»ts raisonnables de transport seront payÃ©s.
+et les coûts raisonnables de transport seront payés.
 
 Les propositions doivent inclure:
 - CV
-- Une Ã©noncÃ© artistique (1 paragraphe)
-- Une description du projet proposÃ© (1 page maximum â€“ incluez 
-lâ€™information technique, des matÃ©riaux. DÃ©crivez lâ€™endroit et contexte du 
+- Une énoncé artistique (1 paragraphe)
+- Une description du projet proposé (1 page maximum – incluez 
+l’information technique, des matériaux. Décrivez l’endroit et contexte du 
 geste original et le processus de la documentation)
-- MatÃ©riel d'appui (5 -10 images, liens, ou jusqu'Ã  10 minutes d'oeuvres 
-vidÃ©o/audio)
-- Liste de matÃ©riel d'appui (contexte, durÃ©e, date)
+- Matériel d'appui (5 -10 images, liens, ou jusqu'à 10 minutes d'oeuvres 
+vidéo/audio)
+- Liste de matériel d'appui (contexte, durée, date)
 
-SVP envoyez votre candidature Ã  : contact@maggieflynn.ca
+SVP envoyez votre candidature à : contact@maggieflynn.ca
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-01-26-19-call-for-nominations-2012-sobey-art-award-mar-1">19. CALL FOR NOMINATIONS | 2012 Sobey Art Award | MAR 1</a>
@@ -1144,7 +1144,7 @@ SVP envoyez votre candidature Ã  : contact@maggieflynn.ca
 CALL FOR NOMINATIONS - 2012 Sobey Art Award
 
 Nominations for the 10th anniversary of the Sobey Art Award are now 
-open until March 1st, 2012. The Sobey Art Award is Canadaâ€™s pre-
+open until March 1st, 2012. The Sobey Art Award is Canada’s pre-
 eminent award for contemporary art. Open to artists age 40 and under the 
 Award is an annual prize given to an artist who has exhibited in a public or 
 commercial art gallery within 18 months of being nominated. The winner is 
@@ -1175,7 +1175,7 @@ Resources
 Provisions will provide participants comfortable, convivial, and easily 
 accessible lodging in the DC area, travel funds, and a stipend of $2000 
 for each resident. Residents will enjoy access to George Mason 
-Universityâ€™s studio facility, project facilitation, and opportunities to build 
+University’s studio facility, project facilitation, and opportunities to build 
 DC networks. Residency curators will assist in project and research 
 curation in public spaces and surrounding institutions.
 
@@ -1236,8 +1236,8 @@ RESIDENCY PERIODS ------------------------
 LOCATIONS --------------------------------
 
 Arteles Creative Center
-HahmajÃ¤rventie 26
-38490 HÃ¤meenkyrÃ¶
+Hahmajärventie 26
+38490 Hämeenkyrö
 Finland
 
 APPLY ONLINE & READ MORE -----------------

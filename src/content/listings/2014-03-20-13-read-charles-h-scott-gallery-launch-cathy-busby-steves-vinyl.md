@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 13
 type: ""
+venue: "READ"
 summary: "READ | Charles H. Scott Gallery | launch: Cathy Busby : Steve's Vinyl | MAR 27"
 ---
 

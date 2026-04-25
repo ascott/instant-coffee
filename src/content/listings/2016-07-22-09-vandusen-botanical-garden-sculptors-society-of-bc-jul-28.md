@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interactive automata"
 emailDate: "Thu, 21 Jul 2016 17:00:10 -0700"
 number: 9
 type: "OPENING"
+venue: "VanDusen Botanical Garden"
 summary: "VanDusen Botanical Garden | Sculptors' Society of BC | JUL 28"
 ---
 

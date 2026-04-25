@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 15
 type: "TALK"
+venue: "FCAT at SFU and the Asian Canadian Studies Society"
 summary: "FCAT at SFU and the Asian Canadian Studies Society | Makiko Hara | JAN 19"
 ---
 

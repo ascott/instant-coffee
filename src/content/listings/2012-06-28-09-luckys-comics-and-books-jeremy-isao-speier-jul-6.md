@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 9
 type: ""
+venue: "Lucky's Comics and Books"
 summary: "Lucky's Comics and Books | Jeremy Isao Speier | JUL 6"
 ---
 
@@ -16,7 +17,7 @@ Magnanensi)
 an exhibition opening on Friday July 6th at 7pm
 the show runs until July 30th.
 
-Luckyâ€™s is located at 3972 Main Street in Vancouver (near Main and
+Lucky’s is located at 3972 Main Street in Vancouver (near Main and
 24th). Open 7 days a week from noon-ish to 6 pm (5 pm on Sundays).
 
 Kinetics emit sounds, some are subtle (soft), others more obvious

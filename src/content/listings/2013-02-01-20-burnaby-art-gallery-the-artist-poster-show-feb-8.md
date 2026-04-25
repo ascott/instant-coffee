@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 20
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | The Artist Poster Show | FEB 8"
 ---
 
@@ -11,8 +12,8 @@ The Burnaby Art Gallery is pleased to present The Artist Poster Show,
 opening Friday, February 8, 2013.
 
 The Artist Poster Show explores the didactic evolution of artist exhibition 
-posters. Drawn primarily from the Burnaby Art Galleryâ€™s permanent collection, 
-the showcase spotlights the artistâ€™s ability to communicate time, place, 
+posters. Drawn primarily from the Burnaby Art Gallery’s permanent collection, 
+the showcase spotlights the artist’s ability to communicate time, place, 
 symbolism or space though an exhibition poster.
 
 See a range of works from 27 different artists, including Ron Eckert, Brendan 
@@ -25,7 +26,7 @@ commissioned 12-poster series by Sonny Assu.
 For more information and the full list of artists please see the attached pdf.
 
 Feel free to contact me for more information about the exhibit or Sonny 
-Assuâ€™s commissioned series. High-resolution images are also available upon 
+Assu’s commissioned series. High-resolution images are also available upon 
 request.
 
 All the best,

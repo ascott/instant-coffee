@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 13
 type: "OPENING"
+venue: "Axis Mundi Gallery"
 summary: "Axis Mundi Gallery | ELASTIC RIVER | 6-9PM | NOV 2"
 ---
 

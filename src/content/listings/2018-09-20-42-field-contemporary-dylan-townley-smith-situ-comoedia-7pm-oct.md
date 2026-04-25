@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 42
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Dylan Townley-Smith: Situ Comoedia | 7PM | OCT 11"
 ---
 

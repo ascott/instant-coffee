@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's throw scenarios"
 emailDate: "Thu, 25 Jun 2009 09:02:41 -0700"
 number: 5
 type: ""
+venue: "Vantage Art Projects"
 summary: "Vantage Art Projects | STONE SOUP FINAL OPENING | JUN 26"
 ---
 

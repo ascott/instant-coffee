@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 11
 type: ""
+venue: "Western Front"
 summary: "Western Front | performance: Ieva Miseviciute | FEB 23"
 ---
 

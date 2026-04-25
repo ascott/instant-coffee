@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 19
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | No Reading After the Internet | 7-9PM | AUG 24"
 ---
 

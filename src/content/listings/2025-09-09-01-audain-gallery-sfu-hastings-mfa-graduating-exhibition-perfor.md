@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "AUDAIN GALLERY SFU Hastings"
 summary: "AUDAIN GALLERY SFU Hastings | MFA Graduating Exhibition & Performances | SEP 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 18
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | New Documents | Pre-order Fall Titles + 20% off entire catalogue! | AUG 17"
 ---
 
@@ -15,7 +16,7 @@ are available for pre-order now and ship in late September. To celebrate, our
 entire catalogue is also 20% off through August 17!
 
 Jon Rafman: Nine Eyes employs a new approach to the strategy of artistic 
-appropriation, extracting screenshots from Google Street Viewâ€™s vast online 
+appropriation, extracting screenshots from Google Street View’s vast online 
 archive to create singular photographs that range from the lyrical to the abject. 
 The book includes essays by Kate Steinmann, Joanne McNeil, Sohrab 
 Mohebbi, Gabrielle Moser, and Jon and Sandra Rafman.
@@ -26,8 +27,8 @@ ISBN: 978-1-927354-17-9
 
 Seth and Sheila Stayed Behind pairs a short story by writer Sheila Heti with 
 photographs by Seth Fluker. â€œSethâ€  and â€œSheilaâ€  are the main characters of 
-Hetiâ€™s abstract narrative of longing and transition, one which sets the stage for 
-Flukerâ€™s photographs of a wintry Toronto landscape filled with 
+Heti’s abstract narrative of longing and transition, one which sets the stage for 
+Fluker’s photographs of a wintry Toronto landscape filled with 
 anthropomorphized automobiles and embankments of dirty snow. 
 
 $35 $28
@@ -35,8 +36,8 @@ $35 $28
 ISBN: 978-1-927354-22-3
 
 David Horvitz: Mood Disorder documents the propagation of a photograph of 
-David Horvitz across the Internet. The imageâ€”a self portrait of the artist with 
-his head in his hands, ocean waves crashing in the backgroundâ€”was initially 
+David Horvitz across the Internet. The image—a self portrait of the artist with 
+his head in his hands, ocean waves crashing in the background—was initially 
 uploaded to the Wikimedia Commons and placed on various Wikipedia pages. 
 From there, the image began to circulate, appearing on over a hundred 
 websites as a â€œstockâ€  photo to illustrate articles on a wide range of mental 

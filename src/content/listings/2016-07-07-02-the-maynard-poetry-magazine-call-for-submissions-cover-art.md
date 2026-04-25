@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 2
 type: "CALL"
+venue: "The Maynard Poetry Magazine"
 summary: "The Maynard Poetry Magazine | Call for Submissions - Cover Art"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 18
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | DESTROY VANCOUVER V: Chris Corsano | MAR 2"
 ---
 
@@ -37,7 +38,7 @@ UK in 2005 led Corsano to develop an expanded solo music project,
 incorporating sax reeds, violin strings and bows, pot lids, and everyday 
 household items into his drum kit. In February 2006 he released his first solo 
 album, The Young Cricketer (Hot Cars Warp Records), and toured extensively 
-throughout Europe, USA, and Japan. Corsano performed on BjÃ¶rk's Volta 
+throughout Europe, USA, and Japan. Corsano performed on Björk's Volta 
 world tour in 2007 and 2008. In 2009, he returned focus to his own projects, 
 most notably a duo with Michael Flower, Rangda (with Sir Richard Bishop and 
 Ben Chasny) and solo work, now revamped to include synthesizers and 

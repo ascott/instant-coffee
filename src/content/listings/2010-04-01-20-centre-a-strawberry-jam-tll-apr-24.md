@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: doing 'nothings' while everyone el
 emailDate: "Thu, 01 Apr 2010 03:24:17 -0700"
 number: 20
 type: ""
+venue: "Centre A"
 summary: "Centre A | Strawberry Jam | tll | APR 24"
 ---
 
@@ -85,7 +86,7 @@ Sheng Jie was born in China in 1975. She studied classical Western music at
 an early age and was trained as a violinist. She has studied at Beijing
 College of Art and Design (BFA), China Central Academy of Fine Arts,
 Edinburgh Art College (Film & TV department), and received her MFA from
-Ecole supÃ©rieure des arts dÃ©coratifs in Strasbourg, France. Now working and
+Ecole supérieure des arts décoratifs in Strasbourg, France. Now working and
 living in Beijing, she has performed and exhibited extensively worldwide,
 including Beijing, Shanghai, Hongkong, Paris, Berlin, Newcastle. She is the
 founder of Shan AV Lab, a platform dedicated to art education and

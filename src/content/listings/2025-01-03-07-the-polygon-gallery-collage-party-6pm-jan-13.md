@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 7
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Collage Party | 6PM | JAN 13"
 ---
 

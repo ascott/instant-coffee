@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 2
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Extended: Call for Board of Directors | MAY 8"
 ---
 

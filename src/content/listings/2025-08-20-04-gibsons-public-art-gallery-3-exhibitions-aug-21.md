@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | 3 Exhibitions | AUG 21"
 ---
 

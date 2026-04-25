@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 28
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Roundtable: Legacies of War in the Pacific Rim | MAR 26"
 ---
 

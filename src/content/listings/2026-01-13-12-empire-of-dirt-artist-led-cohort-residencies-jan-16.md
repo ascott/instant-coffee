@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 12
 type: "CALL"
+venue: "Empire of Dirt"
 summary: "Empire of Dirt | Artist-led Cohort Residencies | JAN 16"
 ---
 

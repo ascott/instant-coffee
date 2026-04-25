@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 15
 type: ""
+venue: "Toast Collective"
 summary: "Toast Collective | lauren everall/lola elkmother | NOV 14"
 ---
 
@@ -32,9 +33,9 @@ intuitive and material practice within a contextual framework of feminist critic
 theory.
 I seek to reconcile the ontology of my childhood with that of my adulthood 
 experience through the physical representation of the orifice wherein lies both 
-formal and conceptual tensions. Illusory materials of the 1980â€™s are pulled, 
+formal and conceptual tensions. Illusory materials of the 1980’s are pulled, 
 stretched, pierced, and sewn in, over, and through hunted, harvested, and 
-preserved â€˜rawâ€™ materials of the present time; forcing a relationship between 
+preserved ‘raw’ materials of the present time; forcing a relationship between 
 past and present, domestic and wild. The orifice is a place of balance and 
 unbalance. A membrane represents a place of collision, a site for inspection 
 in relationships before the entrance or exit into multiple narratives which are 

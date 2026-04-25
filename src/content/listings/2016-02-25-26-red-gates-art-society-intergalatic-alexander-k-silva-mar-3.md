@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 26
 type: "OPENING"
+venue: "Red Gates Art Society"
 summary: "Red Gates Art Society | Intergalatic: Alexander K. Silva | MAR 3"
 ---
 

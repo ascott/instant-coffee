@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: refuse glow ball"
 emailDate: "Thu, 19 Aug 2010 10:15:10 -0700"
 number: 1
 type: ""
+venue: "PAARC"
 summary: "PAARC | Crisis at the B.C. Arts Council"
 ---
 
@@ -57,7 +58,7 @@ khiggins@tatlin.com
 
 "Giving cultural agencies operational autonomy to implement the major
 portion of Canadian cultural policy in the arts sector is an important part
-of government policy. The armâ€™s length principle is one of Canadaâ€™s
+of government policy. The arm’s length principle is one of Canada’s
 cultural traditions; it lies at the very heart of artistic freedom and
 freedom of expression."
 

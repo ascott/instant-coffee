@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 11
 type: "EVENT"
+venue: "Alternative Creations Studio"
 summary: "Alternative Creations Studio | Eastside Culture Crawl | NOV 16"
 ---
 

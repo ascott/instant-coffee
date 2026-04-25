@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 7
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | The Fraud that Goes Under the... Curatorial Tour | JUN 4"
 ---
 

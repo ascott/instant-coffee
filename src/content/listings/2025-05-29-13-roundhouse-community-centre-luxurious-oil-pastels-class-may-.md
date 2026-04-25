@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 13
 type: "EDUCATION"
+venue: "Roundhouse Community Centre"
 summary: "Roundhouse Community Centre | Luxurious Oil Pastels Class | MAY 30"
 ---
 

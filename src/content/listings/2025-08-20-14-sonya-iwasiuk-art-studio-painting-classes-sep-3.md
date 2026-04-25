@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 14
 type: "EDUCATION"
+venue: "Sonya Iwasiuk Art Studio"
 summary: "Sonya Iwasiuk Art Studio | Painting Classes | SEP 3"
 ---
 

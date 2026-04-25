@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 10
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Talk by Naaskuu-isaks, Shaunee Casavant | JAN 23"
 ---
 
@@ -19,7 +20,7 @@ for a talk about the many roles of the curtain in domestic, social and
 ceremonial life.
 
 Curated by Professor Charlotte Townsend-Gault of the University of British
-Columbia, â€œBackstory: Nuuchaanulth Ceremonial Curtains and the Work of
+Columbia, “Backstory: Nuuchaanulth Ceremonial Curtains and the Work of
 Ki-ke-inâ€™ brings together for the first time, â€œthliitsapilthimâ€  of
 ceremonial curtains by Nuuchaanulth artist Ron Hamilton (Ki-ke-in) and
 historical curtains from museum and private collections in Canada and the
@@ -32,12 +33,12 @@ conflicts, captures and alliances are seen in these striking narrative
 works. The Nuuchaanulth were the first people Europeans encountered when
 Captain James Cook landed at Yuquot in 1778 in what is now British
 Columbia. Though much of the art of the Northwest Coast has come to be
-associated with poles and carvings of the Haida and Kwakwakaâ€™wakw, the
+associated with poles and carvings of the Haida and Kwakwaka’wakw, the
 Nuuchaanulth have made and used ceremonial curtains for thousands of years
 on the west coast of what is now called Vancouver Island.
 
 Each curtain has been painted following the instructions from a family
-needing it to declare the â€˜backstoryâ€™, its history, social and spiritual
+needing it to declare the ‘backstory’, its history, social and spiritual
 pedigree, that will enhance and validate the ceremony of naming,
 celebrating a marriage, mourning, or reconciliation. Curtains were
 originally painted using locally derived pigments, including charcoal,
@@ -51,8 +52,8 @@ important events of their lives, although they were now using sail cloth or
 cotton so that they could be folded up and hidden from the Indian Agents,
 if necessary.
 
-Accompanied by photographs, documents and interviews, â€œBackstory:
-Nuuchaanulth Ceremonial Curtainsâ€™ and the Work of Ki-ke-in promotes a
+Accompanied by photographs, documents and interviews, “Backstory:
+Nuuchaanulth Ceremonial Curtains’ and the Work of Ki-ke-in promotes a
 deeper understanding of Nuuchaanulth art and culture and is a celebration
 of these remarkable curtains and the people who make and use them.
 
@@ -61,7 +62,7 @@ Hupacasath First Nation and lives on the Ahaswinis Reserve in the Alberni
 Valley. Hamilton is active internationally through his participation in
 public debates, symposia, and exhibitions concerning a trans-Pacific
 history for the cultures and art of the Northwest Coast. He has contributed
-to the publications, â€˜Indian Residential Schools: the Nuuchahnulth
+to the publications, ‘Indian Residential Schools: the Nuuchahnulth
 Experienceâ€  (1996) and â€œListening to our Ancestors: The Art of Native Life
 Along the North Pacific Coast (2006)â€ . Ki-ke-in has made a vital
 contribution to Nuuchaanulth traditional art, ceremonial and ritual life.
@@ -70,7 +71,7 @@ Charlotte Townsend-Gault is a Professor in the Department of Art History,
 Visual Art and Theory at the University of British Columbia and Honorary
 Visiting Research Fellow in the Department of Anthropology at the
 University College London. Her interest is in contemporary indigenous
-cultures and arts. Townsend-Gaullt was a curator of â€œLand, Spirit, Power:
+cultures and arts. Townsend-Gaullt was a curator of “Land, Spirit, Power:
 First Nations at the National Gallery of Canadaâ€  (1992), "Lawrence Paul
 Yuxweluptun" (1995) and Rebecca Belmore (2002) for the Belkin Art Gallery.
 She has written about the work of Marianne Nicholson, James Luna, Stan

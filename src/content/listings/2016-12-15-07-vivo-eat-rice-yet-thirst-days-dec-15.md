@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 7
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | Eat Rice Yet? Thirst Days | DEC 15"
 ---
 

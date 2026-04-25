@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 27
 type: "EVENT"
+venue: "Instant Coffee"
 summary: "Instant Coffee | Ethan Rafal's SHOCK AND AWE | APR 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 13
 type: "OPENING"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Andrew Maize Nova Curve (an anagram for this... | JUL 7"
 ---
 

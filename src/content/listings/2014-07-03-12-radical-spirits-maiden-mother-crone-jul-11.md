@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:an ethereal dream-like quality"
 emailDate: "Thu, 03 Jul 2014 14:07:59 -0700"
 number: 12
 type: ""
+venue: "Radical Spirits"
 summary: "Radical Spirits | Maiden Mother Crone | JUL 11"
 ---
 

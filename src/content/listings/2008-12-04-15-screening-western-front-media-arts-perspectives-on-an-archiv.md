@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yes we no"
 emailDate: "Wed, 03 Dec 2008 22:30:06 -0800"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front Media Arts | Perspectives on an Archive | DEC 10"
 ---
 
@@ -48,7 +49,7 @@ Screening I
 November 26, 2008, 7 - 9 PM
 Between Here and There, Now and Then
 Curated by Liz Park
-Featuring works by Chip Lord, Mona Hatoum, Guillermo GÃ³mez-PeÃ±a and Roberto
+Featuring works by Chip Lord, Mona Hatoum, Guillermo Gómez-Peña and Roberto
 Sifuentes, and Antonia Hirsch
 Screening II
 December 3, 2008, 7 - 9 PM

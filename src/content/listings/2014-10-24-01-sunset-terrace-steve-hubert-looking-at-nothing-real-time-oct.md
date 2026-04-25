@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 1
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Steve Hubert - Looking at Nothing, Real-time | OCT 23"
 ---
 

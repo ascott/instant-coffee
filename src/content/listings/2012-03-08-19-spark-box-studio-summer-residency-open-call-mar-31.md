@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 19
 type: ""
+venue: "SPARK BOX STUDIO"
 summary: "SPARK BOX STUDIO | Summer Residency Open Call | MAR 31"
 ---
 

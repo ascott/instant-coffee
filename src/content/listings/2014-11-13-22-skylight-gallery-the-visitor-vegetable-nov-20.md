@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 22
 type: "OPENING"
+venue: "Skylight Gallery"
 summary: "Skylight Gallery | THE VISITOR VEGETABLE | NOV 20"
 ---
 
@@ -25,7 +26,7 @@ The Visitor Vegetable show is questioning the boundaries of human nature
 and the encompassing infrastructure. On a rim of a mirror, we stare in,
 hoping to look back, forward or perv after someone else. How to reach to
 freedom and identity presuming to be part of the solution. For that we are
-transforming, taking body and actions after them â€“ the extraterrestrials.
+transforming, taking body and actions after them – the extraterrestrials.
 You open up to the different species like a matryoshka or cracked chocolate
 egg when you discover that your surprise was a vegetable constructor. You
 find the instructions how to cook it, but in some foreign language that you
@@ -34,9 +35,9 @@ alien habits we need to adapt now. We sit quietly in observation, tracking
 the unrevealed. Trying to figure out the system of our inner territories
 and theirs. What is our own role in ourselves and what do I need to do with
 this body?
-â€œAfter all what is human in the nature? Compared to infinity nothingness,
+“After all what is human in the nature? Compared to infinity nothingness,
 compared to nothingness macrocosm; Center in between nothing and
-everything. Endlessly far from understanding extremes â€“ both, end and
+everything. Endlessly far from understanding extremes – both, end and
 beginning of things are unobtainable, hidden with impermeable secret;
 equally powerless to see the essence, where its been torn out and the
 infinity where its going to be swallowedâ€  - Blaise Pascal

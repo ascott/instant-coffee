@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 47
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Call for Submissions: PLOT | APR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 39
 type: "PERFORMANCE"
+venue: "UBC"
 summary: "UBC | Cinemadrama | 7-10PM | SEP 21"
 ---
 

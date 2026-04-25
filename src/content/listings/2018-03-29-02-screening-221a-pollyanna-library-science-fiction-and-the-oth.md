@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 2
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | 221A - Pollyanna Library | Science Fiction and the Other: Kaiba (2008) | 7PM | MAR 29"
 ---
 

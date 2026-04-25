@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 11
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | CALL FOR ARTISTS | MAR 31"
 ---
 

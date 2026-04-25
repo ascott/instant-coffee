@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 52
 type: "CALL"
+venue: "City of Richmond Public Art Program"
 summary: "City of Richmond Public Art Program | Call to Canadian Artists | MAY 4"
 ---
 

@@ -4,19 +4,20 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 9
 type: ""
-summary: "Access Gallery | Once it is a story it remains one or fadesâ€¦ | SEP 9"
+venue: "Access Gallery"
+summary: "Access Gallery | Once it is a story it remains one or fades… | SEP 9"
 ---
 
-Once it is a story it remains one or fadesâ€¦
-September 10th â€“ October 22nd, 2011
+Once it is a story it remains one or fades…
+September 10th – October 22nd, 2011
 
 Join us for our opening reception and SWARM12 Event: Friday, 
 September 9th, 8pm
 
 New Location: 222 E. Georgia St.
 
-Gallery Hours: Tues. â€“ Sat. 12-5pm
-â€œIf I told you that what you are about to read is not a story, but only 
+Gallery Hours: Tues. – Sat. 12-5pm
+“If I told you that what you are about to read is not a story, but only 
 appears to be a story, and if you then continued and read through 
 the artifact that only appears to be a story, but in fact is not, and you 
 understood it as a story, then in your mind it would be lodged as a 
@@ -25,14 +26,14 @@ that. Once it is a story it remains one or fades. It could be a series of
 lies or mistakes, but nevertheless it is a story or it doesnâ€™t exist.â€  â€”
 Fred Douglas
 
-In celebration of Accessâ€™ twentieth year we are inviting artists to re-
+In celebration of Access’ twentieth year we are inviting artists to re-
 imagine, re-think, and/or re-present their works from past Access 
 exhibitions. Taking its title from the above quote by Vancouver poet 
-and artist Fred Douglas Once it is a story it remains one or fadesâ€¦ 
+and artist Fred Douglas Once it is a story it remains one or fades… 
 is the first of two exhibitions exploring the Access archive. Once it is 
-a storyâ€¦ presents the histories, narratives, and lifespans of past 
-projects. Thinking about Douglasâ€™ comments on the fading, Once it 
-is s a storyâ€¦ also explores the life of an art object, where original 
+a story… presents the histories, narratives, and lifespans of past 
+projects. Thinking about Douglas’ comments on the fading, Once it 
+is s a story… also explores the life of an art object, where original 
 contexts fade and new readings emerge.
 
 This exhibition brings together three projects previously presented 
@@ -103,7 +104,7 @@ Run Centres.
 For more information contact Access Gallery at: access@vaarc.ca or 
 visit our website: www.accessgallery.ca
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2011 Access Gallery, All rights reserved.
+Copyright © 2011 Access Gallery, All rights reserved.
 You are receiving this email because you signed up for our 
 membership e-list!
 Our mailing address is:

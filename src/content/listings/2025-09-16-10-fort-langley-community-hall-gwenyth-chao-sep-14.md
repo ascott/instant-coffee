@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Fort Langley Community Hall"
 summary: "Fort Langley Community Hall | Gwenyth Chao | SEP 14"
 ---
 

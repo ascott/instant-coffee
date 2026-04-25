@@ -105,11 +105,11 @@ Granville Island
 Interstitium
 Translating systems, spaces and media.
 
-Luigi Allemano, Judith McNaughton, Minttumaari MÃ¤ntynen, Joanna Smythe and
+Luigi Allemano, Judith McNaughton, Minttumaari Mäntynen, Joanna Smythe and
 Andres Wanner
 
 In distinct approaches, Luigi Allemano, Judith McNaughton, Minttumaari
-MÃ¤ntynen, Joanna Smythe and Andres Wanner showcase works that interrogate
+Mäntynen, Joanna Smythe and Andres Wanner showcase works that interrogate
 notions of transformation and hybridity.
 
 Exhibition themes operate around the notion that our perception of the world is
@@ -201,24 +201,24 @@ By Erin Jane Nelson and Ming Lin
 Project Space, 222 E Georgia St (at Main)
 Free Admission
 
-ï¿½Summer School creates a hub for the production of art works and ideas. Let us
+�Summer School creates a hub for the production of art works and ideas. Let us
 be itinerant, moving from city to city and site to site, bringing the baggage of our
-cultural realities and subjectivities. Let us open the ï¿½artistsï¿½ spaceï¿½ to all and turn
+cultural realities and subjectivities. Let us open the �artists� space� to all and turn
 our processes inside out. Let us focus on the materials and moments within the
 experience of the everyday. Let us reveal the underpinnings. Let us forget about
 authorship. Let us imagine that we can make solely on the basis of experience.
-Let us imagine that artistic production is simple (it is).ï¿½
-ï¿½ Erin Jane Nelson and Ming Lin
+Let us imagine that artistic production is simple (it is).�
+� Erin Jane Nelson and Ming Lin
 
-VANCOUVER, BC ï¿½ American artists Erin Jane Nelson and Ming Lin have
+VANCOUVER, BC � American artists Erin Jane Nelson and Ming Lin have
 recruited local artists Jordan Abel, Alex Grunenfelder, Heather Martin and David
 Semeniuk to transform Project Space into a free public art school from July 21 to
 25.
 
-Exploring personal economyï¿½particularly as it relates to art institutions and art
-educationï¿½the school will launch with talks by participating teachers and will
+Exploring personal economy�particularly as it relates to art institutions and art
+education�the school will launch with talks by participating teachers and will
 close with an artist talk, exhibition of artworks produced by students and
-teachers and the release of Lesson Book, which will feature artistsï¿½ reflections on
+teachers and the release of Lesson Book, which will feature artists� reflections on
 the project as well as step-by-step instructions for each of the classes delivered
 at the school.
 
@@ -381,10 +381,10 @@ will be installing in the gallery space.
 
 -----
 
-ï¿½What is the sound of one hand clapping?ï¿½
+�What is the sound of one hand clapping?�
 
 I was asked this question from the Zen monk at Choju-ji temple around dusk,
-right after I sketched in the templesï¿½ garden, in the spring of 2005. Since then,
+right after I sketched in the temples� garden, in the spring of 2005. Since then,
 even if I have tried many times, I cannot get the answer for this short Koan case
 which was made by Hakuin Ekaku (1686 - 1768).
 
@@ -452,7 +452,7 @@ we tailor any garment to your body type
 we get you to the clothes you've always wanted but never imagined
 we make it all up on the spot!
 
-Come along just to have a look, or join in the transformation! ItÃ¯Â¿Â½s easy:
+Come along just to have a look, or join in the transformation! Itï¿½s easy:
 
 1. Go through your wardrobe and pick out the garments that have been sitting
 there for a long time.
@@ -510,7 +510,7 @@ www.vanartgallery.bc.ca
 <a href="/instant-coffee/listings/2012-07-19-13-ie-gallery-jenny-cronin-jul-24">13. ie gallery | Jenny Cronin | JUL 24</a>
 ------------------------------------------------------------------------
 The Summer Residency continues at ie gallery!
-July Resident ï¿½ Jenny Cronin
+July Resident � Jenny Cronin
 
 Jenny Cronin
 July 1st - July 27th
@@ -575,7 +575,7 @@ the launch of our annual Summer Reading Sale! Nothing beats the heat like
 curling up with a good art book. The sale starts at 6pm on Thursday July 19th in
 conjunction with the opening of HERE + THERE, the Low Residency Master of
 Applied Arts Graduate Exhibition. READ Books features a great selection of
-artistsï¿½ books, monographs, critical theory and more. This sale happens once a
+artists� books, monographs, critical theory and more. This sale happens once a
 year! Come support our Masters students and celebrate summer by treating
 yourself to a new book!
 
@@ -701,7 +701,7 @@ There's $1000 in prizes and the Geist Erasure Trophy to be won, as well as
 publication in Geist and at geist.com. Oh yes, and literary fame, too.
 
 The Erasure Poetry Contest asks you to create your own poetic masterpiece
-from an excerpt of How Should a Person Be? by Sheila Hetiï¿½erasing letters,
+from an excerpt of How Should a Person Be? by Sheila Heti�erasing letters,
 words and sentences until your own genius emerges.
 
 Visit geist.com/erasure for more details and to read the excerpt.
@@ -788,7 +788,7 @@ By Lynda Nakashima
 As Long As I Can Remember explores the history and rich diversity of the Powell
 Street Festival, made in honour of its 25th anniversary year (2001). Reflecting
 the history of Japanese Canadians in Vancouver and the humble beginnings of
-the Festival itself, Nakashimaï¿½s documentary portrays the Festival with a sense
+the Festival itself, Nakashima�s documentary portrays the Festival with a sense
 of pride, community and reverence.
 
 The Way We Are
@@ -806,8 +806,8 @@ The Spirit of Nihonmachi
 By Greg Masuda
 (2012)
 For 35 years the Powell Street Festival has returned to its historical roots in
-Oppenheimer Park on Powell Street, an area once home to Vancouverï¿½s
-Japanese Canadian population, . Situated in Vancouverï¿½s Downtown Eastside,
+Oppenheimer Park on Powell Street, an area once home to Vancouver�s
+Japanese Canadian population, . Situated in Vancouver�s Downtown Eastside,
 this neighbourhood is now often narrowly described as been a site for drug
 abuse, homelessness and mental illness. Laugh, learn and cheer as you
 experience both the vibrant Powell Street Festival and the life and community of
@@ -854,7 +854,7 @@ and established artists the chance to present a 12-minute sample of their curren
 touring show to school and community arts programmers interested in booking
 shows for young audiences for the 2013-2014 school year.
 
-This yearï¿½s Showcase will be presented at the Orpheum Annex in downtown
+This year�s Showcase will be presented at the Orpheum Annex in downtown
 Vancouver on February 28 and March 1, 2013.
 
 To find out more about touring with ArtStarts, watch highlight videos of last year's

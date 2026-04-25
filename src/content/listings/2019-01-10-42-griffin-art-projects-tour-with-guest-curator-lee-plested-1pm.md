@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 42
 type: "EDUCATION"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Tour with Guest Curator Lee Plested | 1PM | JAN 26"
 ---
 

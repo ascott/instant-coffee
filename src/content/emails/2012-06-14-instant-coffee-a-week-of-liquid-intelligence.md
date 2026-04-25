@@ -31,7 +31,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-06-14-18-topdown-bottomup-sophia-bartholomew-jun-22">18. topdown bottomup | sophia bartholomew | JUN 22</a>
 <a href="/instant-coffee/listings/2012-06-14-19-douglas-udell-gallery-hua-ji-jun-23">19. Douglas Udell Gallery | Hua Ji | JUN 23</a>
 <a href="/instant-coffee/listings/2012-06-14-20-vivo-modul8-workshop-jun-24">20. VIVO | Modul8 Workshop | JUN 24</a>
-<a href="/instant-coffee/listings/2012-06-14-21-vancouver-new-music-mrk-jun-26">21. Vancouver New Music | mÃ¶rkÃ¶ | JUN 26</a>
+<a href="/instant-coffee/listings/2012-06-14-21-vancouver-new-music-mrk-jun-26">21. Vancouver New Music | mörkö | JUN 26</a>
 <a href="/instant-coffee/listings/2012-06-14-22-grunt-gallery-job-posting-communications-director-jun-27">22. grunt gallery | Job Posting: Communications Director | JUN 27</a>
 <a href="/instant-coffee/listings/2012-06-14-23-new-forms-festival-kid-koala-jun-27">23. New Forms Festival | KID KOALA | JUN 27</a>
 <a href="/instant-coffee/listings/2012-06-14-24-nikkei-national-museum-japan-town-walking-tours-jun-29">24. Nikkei National Museum | Japan Town Walking tours | JUN 29</a>
@@ -53,7 +53,7 @@ Please join us on Thursday night for an exhibition by Vancouver-based
 artist Nicolas Sassoon. 
 THE GREEN CITY BETWEEN SKY AND SEA is a site-specific 
 installation featuring a large scale projection 
-of Sassoonâ€™s latest animation works over a bank of windows facing 
+of Sassoon’s latest animation works over a bank of windows facing 
 Richards St., standing 20 ft high and 14 ft wide, 
 transforming the exhibition space into one large projection installation 
 as well as interacting with the immediate surroundings 
@@ -67,7 +67,7 @@ Curated by Wil Aballe
 The work of Nicolas Sassoon makes use of various computer-based 
 aesthetics to generate fantasized visions of architectures, landscapes 
 and domestic environments.
-While most of Sassoonâ€™s work is published online through the format of 
+While most of Sassoon’s work is published online through the format of 
 animated gifs, the artists has in collaboration with other artists, 
 architects,
 curators, music producers, and fashion designers, materialized this 
@@ -156,7 +156,7 @@ www.clarityoneaudio.com
 This special edition of the Polaris Salon - rolling in the wake of the just 
 announced Long List - features a panel of Vancouver based jurists 
 who will discuss The Long List, titles they predict will make The Short 
-List and albums that didnâ€™t make it into the 2012 mix. 
+List and albums that didn’t make it into the 2012 mix. 
 
 Panel Features
 
@@ -184,10 +184,10 @@ Vancouver BC
 19+
 
 About The Waldorf:
-East Vancouverâ€™s Famous Waldorf is a historic 64-year-old hotel re-
+East Vancouver’s Famous Waldorf is a historic 64-year-old hotel re-
 imagined as a creative compound where contemporary art, music, 
 food and culture convene under one roof. Special events, unique 
-spaces, great food and hospitality. Thereâ€™s always something 
+spaces, great food and hospitality. There’s always something 
 happening at The Waldorf. 
 
 To stay up to date with Waldorf events/culture, find and follow us 
@@ -367,7 +367,7 @@ Public events include:
 Thursday June 14th: "An Evening with Robert Ashley" a talk by Will 
 Holder, 8 pm
 
-Friday, June 15th: Performance of Robert Ashleyâ€™s â€œThe 
+Friday, June 15th: Performance of Robert Ashley’s “The 
 Entranceâ€ (1966)
 by Julia Feyrer & Will Holder 8 pm
 
@@ -379,7 +379,7 @@ exhibitions@front.bc.ca
 
 Co-presented by Fillip.
 
-Future iterations of Scrivenerâ€™s monthly will include a public talk by
+Future iterations of Scrivener’s monthly will include a public talk by
 Aaron Flint Jameson, co-presented by Artspeak, and readings and
 screenings by Chris Kraus, co-presented by Emily Carr University of
 Art and Design and Dim Cinema.
@@ -483,7 +483,7 @@ the
 delivery of cultural services for the organization.
 
 Gallery Gachet is a dynamic collectively-run arts production,
-education and presentation space located in Vancouverâ€™s Downtown
+education and presentation space located in Vancouver’s Downtown
 Eastside (DTES) built to empower participants as artists,
 administrators and curators. We strive to provide a focal point for
 dialogue amongst outsider/dissident artists. Through artistic means,
@@ -500,7 +500,7 @@ critical elements of a healthy society.
 
 The role
 
-Coordinate Gallery Gachetâ€™s Art Cart (organize schedule, committee
+Coordinate Gallery Gachet’s Art Cart (organize schedule, committee
 meetings, art cart training, operators, liaise with community artists
 and groups, attend community events with the Art Cart, organize
 publicity materials and artwork for transport and display on the Cart
@@ -511,20 +511,20 @@ ad hoc basis for Gachet.
 
 Coordinate Community Outreach for the gallery (Research community
 events and festivals for Gachet to attend, liaise with artists,
-festival organizers, community groups, organize Gachetâ€™s tabling
+festival organizers, community groups, organize Gachet’s tabling
 presence at these events, attend events on behalf of Gachet)
 
-Assist in building Gachetâ€™s branding and the development of PR
-materials in order to build Gachetâ€™s scope of communication and
+Assist in building Gachet’s branding and the development of PR
+materials in order to build Gachet’s scope of communication and
 outreach activities.
 
 Hold workshops and training sessions for members at Gallery Gachet 
 on
 communications and outreach related activities, helping to build
-professional development and capacity for Gallery Gachetâ€™s 
+professional development and capacity for Gallery Gachet’s 
 membership.
 
-Assist with Gallery Gachetâ€™s events and activities as needed.
+Assist with Gallery Gachet’s events and activities as needed.
 
 
 ------------------------------------------------------------------------
@@ -584,9 +584,9 @@ studio run by OCW Arts & Publishing Foundation in collaboration with
 Project Space Studio. As the possibilities inherent to digital space 
 become increasingly infinite, the roles of physical and print spaces are 
 being redefined. Project Space examines, challenges and supports this 
-redefinition process by presenting print and in-person projectsâ€”
+redefinition process by presenting print and in-person projects—
 including a curated selection of publications, exhibitions, workshops, 
-lectures and readingsâ€”for artists, designers, writers, curators and 
+lectures and readings—for artists, designers, writers, curators and 
 publishers. Our shop features a curated selection of art, design and 
 literary publications with a focus on those that are rare, independent, 
 small-run, limited-edition or locally-produced. 
@@ -611,7 +611,7 @@ dimcinema.ca/ cinematheque.bc.ca
 
 "Narrative represents real or imaginary events in time. As with a 
 landscape painting, a narrative film seems to offer an experience that 
-stands in forâ€”pretends to beâ€”creates an illusion ofâ€”something taking 
+stands in for—pretends to be—creates an illusion of—something taking 
 place before us. In order for it to work, we must enter into the illusion, 
 suppress our awareness of presence and treat illusion as a present 
 reality." MALCOLM LA GRICE
@@ -619,19 +619,19 @@ reality." MALCOLM LA GRICE
 Can we define time-structures for cinema and particularly expanded 
 cinema that go beyond narrative? Or if not beyond it: around, 
 underneath, across? The works in â€œMovable Facture: Time Framesâ€  
-are drawn from an earlier moment in filmâ€™s history, when a 
+are drawn from an earlier moment in film’s history, when a 
 preoccupation with structure was attended to through a variety of 
 formal experiments and strategies that skirt or avoid narrative 
 immersion. The selection is drawn from classic structural films such as 
-Hollis Framptonâ€™s Nostalgia, and little-seen local gems found in Pacific 
-CinÃ©mathÃ¨queâ€™s West Coast Film Archive.
+Hollis Frampton’s Nostalgia, and little-seen local gems found in Pacific 
+Cinémathèque’s West Coast Film Archive.
 
-These experimental works are present as film, despite cinemaâ€™s 
+These experimental works are present as film, despite cinema’s 
 potential to bring us toward something else. Eschewing story, they are 
 more closely related through formal features that attempt to draw a 
 viewer toward an unauthorized experience. While we might invest a 
 psychological experience in a representation, we may also spend time 
-with cinemaâ€™s problems. Flat fields of movement and sound can offer 
+with cinema’s problems. Flat fields of movement and sound can offer 
 coherence, but it is not a coherence that belongs with the spectator.
 
 The Flicker | Tony Conrad/USA 1966. 16mm, 30 mins.
@@ -805,7 +805,7 @@ Canada
 ------------------------------------------------------------------------
 topdown bottomup presents
 sophia bartholomew
-with kate barbaria, nelly cÃ©sar, evan french, and you
+with kate barbaria, nelly césar, evan french, and you
 aversionofyourself.tumblr.com
 opening: june 22 7PM
 artist run event: july 10 7PM
@@ -825,12 +825,12 @@ double - a placeholder in the archive).
 
 make a version, and a version, and aversion of yourself.
 
-vancouver-based artists nelly cÃ©sar, evan french, and
+vancouver-based artists nelly césar, evan french, and
 somewhat-nomadically-based artist kate barbaria will intervene with or
-borrow from the project during the showâ€™s two week duration.
+borrow from the project during the show’s two week duration.
 
 possibly-cheeky, post-media, project-driven-artist sophia bartholomew
-is recently undergraduated from ubcâ€™s visual arts program. she is a
+is recently undergraduated from ubc’s visual arts program. she is a
 fiction in the way that every name is a fiction. she is an imposter in
 her own role.
 
@@ -844,7 +844,7 @@ www.topdownbottomup.ca
 <a href="/instant-coffee/listings/2012-06-14-19-douglas-udell-gallery-hua-ji-jun-23">19. Douglas Udell Gallery | Hua Ji | JUN 23</a>
 ------------------------------------------------------------------------
 Hua Jin, Untitled, Opening on Saturday, June 23rd from 2-4pm
-Exhibit runs June 23 â€“ July 7
+Exhibit runs June 23 – July 7
 Douglas Udell Vancouver, 1566 W. 6th Ave., second floor
 (604) 736-8900
 vancouver@douglasudellgallery.com
@@ -967,9 +967,9 @@ VIVO Media Arts Centre | 1965 Main Street | Vancouver | V5T 3C1
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-06-14-21-vancouver-new-music-mrk-jun-26">21. Vancouver New Music | mÃ¶rkÃ¶ | JUN 26</a>
+<a href="/instant-coffee/listings/2012-06-14-21-vancouver-new-music-mrk-jun-26">21. Vancouver New Music | mörkö | JUN 26</a>
 ------------------------------------------------------------------------
-mÃ¶rkÃ¶ 
+mörkö 
 
 Tuesday, June 26, 9PM & Wednesday, June 27, 7PM & 9PM 
 Russian Hall (600 Campbell Avenue) Tickets: $10 regular/$5 students
@@ -978,13 +978,13 @@ co-presented with Vancouver New Music
 Reservations required, please email morkoboxoffice@gmail.com
 Max. 30 people per show 
 
-mÃ¶rkÃ¶ is an interdisciplinary performance integrating sound by Emma 
+mörkö is an interdisciplinary performance integrating sound by Emma 
 Hendrix and live animation by Cindy Mochizuki with direction by James 
 Long. Based on a collection of interviews from Vancouver residents 
-around â€˜monsters,â€™ the artistic team builds a landscape using only the 
+around ‘monsters,’ the artistic team builds a landscape using only the 
 audio recordings and objects found in a basement closet of 
-Mochizukiâ€™s childhood home. The sound and moving images shape a 
-portrait of a city through the â€˜monstrousâ€™ - a space, creature or thing of 
+Mochizuki’s childhood home. The sound and moving images shape a 
+portrait of a city through the ‘monstrous’ - a space, creature or thing of 
 fear that we often conjure in our everyday lives when faced with the 
 unknown.
 
@@ -1108,11 +1108,11 @@ Sure to be the most unique and memorable live event of the year,
 famed Canadian turntabalist/multi-instrumentalist Kid Koala brings his 
 graphic novel â€œSpace Cadetâ€  to vibrant life using cinematic 
 soundscapes, mixed-media installations, and headphones for 
-everyone! In this â€œbeautiful mÃ©lange of post-pop, contemporary 
-classical and whispered electronics" (Nightlife Magazine), Kid Koalaâ€™s 
+everyone! In this “beautiful mélange of post-pop, contemporary 
+classical and whispered electronics" (Nightlife Magazine), Kid Koala’s 
 prodigious turntable and piano skills are nuanced elements of a larger 
 multimedia environment, and the emotional range of the project is 
-more profound, immersive and ambitious than anything heâ€™s done 
+more profound, immersive and ambitious than anything he’s done 
 before. Projections of live stenciling, audience-generated photos, a 
 Wurlitzer cassette jukebox, inflatable space pods and other surprises 
 await the listener in an organic, boundary-busting sound world!
@@ -1189,14 +1189,14 @@ Cesar De la Parra.
 Canada Day Block Party 
 The Waldorf Hotel 
 1489 E.Hastings 
-12pmâ€”6pm 
+12pm—6pm 
 Free
 
 About The Waldorf Hotel 
 The Waldorf is a historic Hotel and Tiki Bar reimagined as a creative 
 compound where contemporary art, music, food and culture convene 
 under one roof. Special events, unique spaces, great food and 
-hospitality, thereâ€™s always something happening at The Waldorfâ€¦
+hospitality, there’s always something happening at The Waldorf…
 
 About Yelp 
 Yelp connects people with great local businesses. We're one part 
@@ -1214,14 +1214,14 @@ press@waldorfhotel.com
 Free lectures and exhibitions for the Emily Carr Continuing Studies 
 Photography Institute : The Documentary Tradition
 
-Greg Girard â€“ July 5 :7:00pm
+Greg Girard – July 5 :7:00pm
 
 Greg Girard is a Canadian photographer who works on assignment for 
 publications such as National Geographic Magazine, Time, New York 
 Times Magazine and Paris Match and continues to pursue long term 
 book length projects.
 
-Johnathan Taggart â€“ July 12, 2012 : 7:00pm
+Johnathan Taggart – July 12, 2012 : 7:00pm
 
 Johnathan Taggart is an award-winning photojournalist based in 
 Vancouver, Canada, specializing in social documentary, editorial 
@@ -1363,7 +1363,7 @@ Deadline for submissions: July 15th, 2012 at midnight.
 We are very excited to hear from everyone! 
 
 Show & Tell
-â€” â€” â€” â€” â€”
+— — — — —
 Kari Kleinmann
 Kurtis Wilson
 
@@ -1511,9 +1511,9 @@ yourself. :)
 Email: mrreubenjones@gmail.com
 
 
-instant coffee: "For while it may appear that people of refinement, unlike â€œman in a
+instant coffee: "For while it may appear that people of refinement, unlike “man in a
 state of nature,â€  are averse to vivid color, the situation both in
-Goetheâ€™s time and in our own seems to me even stranger; that this
+Goethe’s time and in our own seems to me even stranger; that this
 distaste for vivid color is actually an unstable mix of attraction and
 repulsion" Michael Taussig
 

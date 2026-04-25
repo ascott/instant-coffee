@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 20
 type: ""
+venue: "UBC"
 summary: "UBC | seeking: Professor in Visual Art | DEC 1"
 ---
 
@@ -58,7 +59,7 @@ confidential letters of reference (either included in the application, or
 sent under separate cover).
 
 The applications and inquiries should be addressed to: Professors John
-OÃ¢ï¿½ï¿½Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
+Oâ��Brian and Catherine Soussloff, Co-Chairs, Visual Art Search Committee,
 Department of Art History, Visual Art and Theory, University of British
 Columbia, 403-6333 Memorial Road, Vancouver, B.C., V6T 1Z2, Canada.
 

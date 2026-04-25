@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 29
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | It Is Almost That | MAY 6"
 ---
 

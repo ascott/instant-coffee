@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why do good things happen to bad p
 emailDate: "Thu, 14 Oct 2010 11:55:39 -0700"
 number: 5
 type: ""
+venue: "221A"
 summary: "221A | Some Powers of Ten | OCT 15"
 ---
 

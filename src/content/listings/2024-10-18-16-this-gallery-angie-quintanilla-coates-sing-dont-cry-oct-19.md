@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 16
 type: "EVENT"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Angie Quintanilla Coates - Sing, Don’t Cry | OCT 19"
 ---
 

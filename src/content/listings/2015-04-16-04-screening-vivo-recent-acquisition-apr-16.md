@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | Recent Acquisition | APR 16"
 ---
 

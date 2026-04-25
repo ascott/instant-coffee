@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 21
 type: ""
+venue: "Djavad Mowafaghian Cinema"
 summary: "Djavad Mowafaghian Cinema | Public Talk: Franco 'Bifo' Berardi | SEP 14"
 ---
 
@@ -16,7 +17,7 @@ Vancouver
 
 The Italian philosopher and critic Franco â€œBifoâ€  Berardi will give a
 free public lecture on the intersections of media, economics, and
-poetry at SFU Woodwardâ€™s on September 14.
+poetry at SFU Woodward’s on September 14.
 
 A member of the Autonomia political movement in Italy in the 1970s,
 Berardi has for decades maintained an active engagement with the
@@ -26,8 +27,8 @@ Uprising: On Poetry and Finance (Semiotext(e) 2012), After The Future
 (AK Press, 2011), and The Soul at Work: From Alienation to Autonomy
 (Semiotext(e) 2009).
 
-His visit is in conjunction with Brady Cranfield and Jamie Hilderâ€™s
-exhibition Due To Injuriesâ€¦ at 221A. For more information about the
+His visit is in conjunction with Brady Cranfield and Jamie Hilder’s
+exhibition Due To Injuries… at 221A. For more information about the
 exhibition, please visit: http://221a.ca/due-to-injuries/.
 
 In the weeks following Berardi's lecture, four respondents will

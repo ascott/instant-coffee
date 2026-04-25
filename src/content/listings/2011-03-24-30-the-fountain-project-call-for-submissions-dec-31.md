@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 30
 type: ""
+venue: "The Fountain Project"
 summary: "The Fountain Project | Call For Submissions | DEC 31"
 ---
 

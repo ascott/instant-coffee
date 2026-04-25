@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | Jewish Museum and Archives of British Columbia | Job Posting: Education Programmer (Permanent, Part | NOV 9"
 ---
 

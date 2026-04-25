@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 14
 type: "EVENT"
+venue: "City Centre Artist Lodge"
 summary: "City Centre Artist Lodge | First Saturday | OCT 5"
 ---
 

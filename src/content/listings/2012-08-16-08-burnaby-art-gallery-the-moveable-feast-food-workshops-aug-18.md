@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 8
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | The Moveable Feast: Food Workshops | AUG 18"
 ---
 
@@ -24,7 +25,7 @@ Food Swap and Pickling Demo
 Sat. Aug 18th, 2-4pm, FREE
 Join Roberta LaQuaglia, from the Vancouvers Farmers Market and 
 Holly Schmidt for an afternoon of food swapping. Come prepared with 
-food youâ€™ve canned, pickled, baked or grown to trade with others. 
+food you’ve canned, pickled, baked or grown to trade with others. 
 Spread out your picnic blanket and wares and begin swapping. For the 
 uninitiated, chef Andrea Potter will offer a pickling demonstration.
 
@@ -33,14 +34,14 @@ Sun. Aug 19th, 1-4pm, $30
 Join organic farmer and cheese maker, David Asher Rotsztain to learn 
 the basics of making yogurt and soft-bodied cheese curds. He focuses 
 on natural, fresh cheese making that is hands-on, non-GMO and 
-without unnecessary additives. Youâ€™ll be surprised what you can make 
+without unnecessary additives. You’ll be surprised what you can make 
 with a gallon of good milk and a bit of dedication.
 
 Fermented Beverages
 Sat. Aug 25th, 2-4pm, $55
 Join chef Andrea Potter to learn about traditional fermented beverages 
 used for centuries to aid digestion and as a health tonic. In this 
-workshop, youâ€™ll make old fashioned, wild-fermented sodas, using 
+workshop, you’ll make old fashioned, wild-fermented sodas, using 
 herbs and local fruits and Kombucha, a popular tea beverage with 
 herbal variations from the garden. This workshop includes nutrition 
 information, recipes, tasting and hands-on. You also get to take 
@@ -51,7 +52,7 @@ information, recipes, tasting and hands-on. You also get to take
 Space is limited! To register for these workshops contact the Burnaby 
 Art Gallery at 604-297-4422. 
 
-Follow Hollyâ€™s project blog and check out more information regarding 
+Follow Holly’s project blog and check out more information regarding 
 upcoming programs at www.moveablefeastburnaby.ca
 
 The Burnaby Art Gallery gratefully acknowledges the support of the 

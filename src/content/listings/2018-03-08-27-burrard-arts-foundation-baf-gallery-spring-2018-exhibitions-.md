@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 27
 type: ""
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | BAF Gallery Spring 2018 Exhibitions | MAR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 24
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | NEW PUBLICATION: STEPHEN WADDELL: Hunt and Gather | SEP 1"
 ---
 

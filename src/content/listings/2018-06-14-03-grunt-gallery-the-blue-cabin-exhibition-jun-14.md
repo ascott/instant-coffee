@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 3
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | The Blue Cabin Exhibition | JUN 14"
 ---
 

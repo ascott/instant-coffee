@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 19
 type: "EVENT"
+venue: "221A"
 summary: "221A | Session 2: Parallax Study: The New Romantics | FEB 22"
 ---
 

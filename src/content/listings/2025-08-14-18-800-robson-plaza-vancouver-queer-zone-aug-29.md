@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 18
 type: "EVENT"
+venue: "800 Robson Plaza, Vancouver"
 summary: "800 Robson Plaza, Vancouver | Queer Zone | AUG 29"
 ---
 

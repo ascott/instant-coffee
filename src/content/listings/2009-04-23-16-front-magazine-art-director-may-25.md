@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 16
 type: ""
+venue: "FRONT magazine"
 summary: "FRONT magazine | Art Director | MAY 25"
 ---
 

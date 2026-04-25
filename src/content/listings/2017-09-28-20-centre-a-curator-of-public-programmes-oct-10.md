@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 20
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Curator of Public Programmes | OCT 10"
 ---
 

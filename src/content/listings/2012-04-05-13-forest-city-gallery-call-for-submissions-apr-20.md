@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 13
 type: ""
+venue: "Forest City Gallery"
 summary: "Forest City Gallery | CALL FOR SUBMISSIONs | APR 20"
 ---
 
@@ -13,7 +14,7 @@ April 20th for exhibition applications/proposals.
 As an artist-run centre, founded on artistic autonomy, Forest City Gallery 
 (FCG) is committed to excellence in programming, exhibitions and 
 events that reflect and address recent developments in cultural 
-production. FCGâ€™s mandate is to serve as a forum for local, regional, 
+production. FCG’s mandate is to serve as a forum for local, regional, 
 national and international artists through the presentation of relevant 
 contemporary practices in visual/media arts, performance, literature and 
 music. FCG aims to serve artists of all disciplines and career levels 

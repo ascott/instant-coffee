@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 3
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | Ahbyah Baker & Hannah Hughes | OCT 20"
 ---
 
@@ -21,15 +22,15 @@ October 20-November 20 2011
 Opening Reception Thursday, October 20th, 6-9 p.m.
 
 The showâ€™s title, â€œShapelyâ€ , refers to seemingly unrelated aspects of both artistsâ€™ 
-practices: in Hannah Hughesâ€™ figurative work, the pleasing form of the female 
-subjects, and in Ahbyah Bakerâ€™s abstract painting, the type of objects depicted. 
-Each artistâ€™s work exhibits a common theme of tension between abstraction and 
+practices: in Hannah Hughes’ figurative work, the pleasing form of the female 
+subjects, and in Ahbyah Baker’s abstract painting, the type of objects depicted. 
+Each artist’s work exhibits a common theme of tension between abstraction and 
 representation. 
 
 â€œShapelyâ€  acknowledges the urge to move beyond the technical ability of 
 mimicking representational imagery in painting, even as the desire to 
 demonstrate these very things is fulfilled. The work is neither entirely abstract 
-nor objective. Even if one considers Bakerâ€™s minimalist paintings without the 
+nor objective. Even if one considers Baker’s minimalist paintings without the 
 context of her previous figurative work, the singular shapes employ a central 
 figure/ground relationship typical of most portraiture, including the distorted and 
 masked women of Hannah's work. Shapely suggests that the imaginary border 

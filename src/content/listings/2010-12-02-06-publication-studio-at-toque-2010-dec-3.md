@@ -4,14 +4,15 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 6
 type: ""
+venue: "PUBLICATION STUDIO"
 summary: "PUBLICATION STUDIO | at Toque 2010 | DEC 3"
 ---
 
 PUBLICATION STUDIO at Toque 2010
 
-Friday, December 3, 6 pm â€“ 9 pm
+Friday, December 3, 6 pm – 9 pm
 
-Saturday, December 4, 11 am â€“ 5 pm
+Saturday, December 4, 11 am – 5 pm
 
 At the Western Front Luxe Hall, 303 East 8th Ave, Vancouver
 
@@ -28,7 +29,7 @@ these books onsite.
 
 Publication Studio is an experiment in sustainable publication that prints
 and binds books on demand, creating original work with artists and writers.
-Publication Studio is a laboratory for publication in its fullest sense â€”
+Publication Studio is a laboratory for publication in its fullest sense —
 not just the production of books, but the production of a public. This
 public, which is more than a market, is created through deliberate acts,
 the circulation of texts, discussions, and gatherings in physical space,

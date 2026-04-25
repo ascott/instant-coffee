@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not afraid to use the wooden sp
 emailDate: "Thu, 30 Oct 2008 08:35:15 -0700"
 number: 19
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | 2009 - 2012 Artist Studio Award Program | NOV 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE : if we do not know we do not know 
 emailDate: "Thu, 30 May 2013 11:55:34 -0700"
 number: 17
 type: ""
+venue: "Katayoon Yousefbigloo + Sylvana d'Angelo"
 summary: "Katayoon Yousefbigloo + Sylvana d'Angelo | Art Waste; a three day festival | JUN 6"
 ---
 

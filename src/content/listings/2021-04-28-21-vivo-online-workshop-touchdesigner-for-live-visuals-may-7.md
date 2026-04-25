@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 21
 type: "EDUCATION"
+venue: "VIVO [ONLINE WORKSHOP]"
 summary: "VIVO [ONLINE WORKSHOP] | TouchDesigner for Live Visuals | MAY 7"
 ---
 

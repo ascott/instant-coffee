@@ -4,31 +4,32 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 16
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Exhibition: Out of Sight | MAR 29"
 ---
 
 Exhibition Out of Sight makes meaningful connections 
-among recent acquisitions in Vancouver Art Galleryâ€™s Permanent 
+among recent acquisitions in Vancouver Art Gallery’s Permanent 
 Collection
 
-March 20, 2014, Vancouver, BC â€“ Opening on March 29, 2014, 
-Vancouver Art Galleryâ€™s new exhibition Out of Sight: New 
-Acquisitions explores artistsâ€™ engagement with ideas around 
+March 20, 2014, Vancouver, BC – Opening on March 29, 2014, 
+Vancouver Art Gallery’s new exhibition Out of Sight: New 
+Acquisitions explores artists’ engagement with ideas around 
 perception and representation. This exhibition features close to 100 
 contemporary and historical works that have been added to the 
-Galleryâ€™s permanent collection in the past three years, the majority of 
+Gallery’s permanent collection in the past three years, the majority of 
 which are on view for the first time.
 
-â€œThe Vancouver Art Gallery is extremely proud of the significant 
+“The Vancouver Art Gallery is extremely proud of the significant 
 growth we have experienced in our permanent collection, and this 
 exhibition is an acknowledgement of some of the recent generous 
 donations that have enriched our holdings,â€  said Kathleen S. Bartels, 
-the Vancouver Art Galleryâ€™s Director. â€œOut of Sight exemplifies our 
-strategy to activate the Galleryâ€™s permanent collection by showcasing 
+the Vancouver Art Gallery’s Director. “Out of Sight exemplifies our 
+strategy to activate the Gallery’s permanent collection by showcasing 
 works in meaningful and engaging ways.â€ 
 
 Artists presented in Out of Sight investigate the ambiguities of 
-perceptionâ€”the imperfect nature of what we see and experienceâ€”by 
+perception—the imperfect nature of what we see and experience—by 
 creating intriguing depictions that exist on the edge of representation. 
 The exhibition was inspired by a recent donation of photographs by 
 visionary scientist and photographer Harold Edgerton. Taking 
@@ -40,7 +41,7 @@ bullet strikes an object or the trajectory of a golf club as it is swung,
 Edgerton extends the capacity of human perception by making time 
 stand still.
 
-â€œTaking Edgertonâ€™s remapping of the possibilities of space and time 
+“Taking Edgerton’s remapping of the possibilities of space and time 
 as a thematic starting point, Out of Sight offers stimulating 
 juxtapositions of contemporary and historical artists who collectively 
 encourage us to reconsider what we see in our everyday 
@@ -56,7 +57,7 @@ Holger Kalberg challenge the conventions of pictorial space, defying
 perspectival depth and creating new spatial possibilities, Robert 
 Youds, Richard Artschwager and Elspeth Pratt use everyday 
 materials to explore perspective, depth and surface, and create 
-visual and physical encounters that confront the viewerâ€™s perception. 
+visual and physical encounters that confront the viewer’s perception. 
 Artists such as Iain Baxter and Diana Thater examine the limits of 
 representation, challenging traditional modes of display and 
 conventional ways of seeing. Angela Grossmann, Monique Fouquet 

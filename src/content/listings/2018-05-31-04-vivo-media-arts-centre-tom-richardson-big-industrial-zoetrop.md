@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 4
 type: "OPENING"
+venue: "VIVO MEDIA ARTS CENTRE"
 summary: "VIVO MEDIA ARTS CENTRE | Tom Richardson: Big Industrial Zoetrope | JUN 1"
 ---
 

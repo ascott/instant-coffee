@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that's not our monster"
 emailDate: "Thu, 09 Apr 2009 10:30:15 -0700"
 number: 10
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Aaron Carpenter, Joel Herman, Roula Partheniou | APR 10"
 ---
 

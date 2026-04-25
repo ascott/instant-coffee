@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 39
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Chinese Cultural Centre Museum | XINEMA to carve without cutting film screening | SEP 28"
 ---
 

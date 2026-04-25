@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 25
 type: "EXHIBITION"
+venue: "Britannia Art Gallery"
 summary: "Britannia Art Gallery | Luca Jesse Apel & Beata Kacy | APR 6"
 ---
 

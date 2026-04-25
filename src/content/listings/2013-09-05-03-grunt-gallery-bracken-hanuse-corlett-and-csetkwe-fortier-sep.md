@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 3
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Bracken Hanuse Corlett and Csetkwe Fortier | SEP 5"
 ---
 
@@ -28,7 +29,7 @@ painting, drawing, sculpture and digital media.
 
 Csetkwe Fortier elaborates on her painting practice and focus on preservation
 of traditional foods, The jars of stcuwin (salmon) represent the preservation
-and processing of cultural nutritionÃ¢â‚¬Â¦ It is through the use of image, colour,
+and processing of cultural nutritionâ€¦ It is through the use of image, colour,
 and technique that I express my sadness, frustration and hope in respect to
 the threat to our health. The content of the jars symbolize the entrapment and
 dependence that the corporations and government are trying to enforce on the
@@ -42,7 +43,7 @@ the hunger pains and bring attention to our story.
 
 The artists acknowledge an active and ongoing mentorship with artist,
 Lawrence Paul Yuxweluptun, throughout the creation of this exhibition.
-Bracken describes the relationship as multifaceted. Ã¢â‚¬Å“He has given us
+Bracken describes the relationship as multifaceted. â€œHe has given us
 invaluable tips and tricks that have helped our technical process in painting
 and we have had good talks about concept, form, Indian politics and life, art
 world dealings, and the history of Indigenous art on the coast and in the

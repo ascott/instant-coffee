@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 13
 type: "TALK"
+venue: "Arts Assembly (via ZOOM)"
 summary: "Arts Assembly (via ZOOM) | the commute | AUG 13"
 ---
 

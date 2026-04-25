@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 20
 type: "FUNDRAISER"
+venue: "Cineworks"
 summary: "Cineworks | Annual Fundraiser | FEB 28"
 ---
 

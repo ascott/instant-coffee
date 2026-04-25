@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 13
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Saturday Session: Tom Hsu on CFGNY | 12PM | JUN 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 12
 type: "TALK"
+venue: "Audain Gallery - World Art Centre"
 summary: "Audain Gallery - World Art Centre | Hugh Brody on Maps and Dreams | JUL 5"
 ---
 

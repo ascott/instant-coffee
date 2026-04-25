@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 18
 type: ""
+venue: "THIS Gallery"
 summary: "THIS Gallery | Minutiae Sculpture Exhibition | APR 19"
 ---
 

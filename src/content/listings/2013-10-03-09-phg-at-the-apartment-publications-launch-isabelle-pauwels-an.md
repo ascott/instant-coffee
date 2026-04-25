@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 9
 type: ""
+venue: "PHG at The Apartment"
 summary: "PHG at The Apartment | publications launch| Isabelle Pauwels and Flakey | OCT 4"
 ---
 

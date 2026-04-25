@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 7
 type: ""
+venue: "G++"
 summary: "G++ | CALL FOR MEDIA ARTISTS | AUG 21"
 ---
 
@@ -31,7 +32,7 @@ devices, and the web.
 
 We are currently seeking film and video artists to submit applications
 to participate in the series. Selected artists will receive an artist
-fee ($1399 â€“ CARFAC â€“ Category I, Solo Exhibition, Project), a small
+fee ($1399 – CARFAC – Category I, Solo Exhibition, Project), a small
 operating budget, interaction design and engineering support,
 curatorial assistance and promotion.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 17
 type: ""
+venue: "SAVAC"
 summary: "SAVAC | Monitor 8 - Call for Short Film and Video | NOV 16"
 ---
 
@@ -21,7 +22,7 @@ explore the aesthetic and form of the moving image and its relation
 to
 narrative. Monitor 8 encourages new, experimental and risk-taking 
 work that
-challenges the viewerâ€™s active engagement. Submission details are 
+challenges the viewer’s active engagement. Submission details are 
 available
 online at <http://savac.net/submissions/273-monitor-8-call.html> 
 and you
@@ -103,16 +104,16 @@ boobers | seeking queer identified improvisers | AUG 27
 The Bobbers are looking for two new
 queer identified improvisers
 
-The award winning and popular group The Bobbers â€“ Canadaâ€™s 
+The award winning and popular group The Bobbers – Canada’s 
 premier queer improv company - is holding auditions to find two 
 new members to their comedy troupe.
 
-Best known for there hit show (now in itâ€™s 6th year!) Tops & 
-Bottoms â€“ the company also produces shows across the province 
+Best known for there hit show (now in it’s 6th year!) Tops & 
+Bottoms – the company also produces shows across the province 
 and in short films.
 
-The company pays itâ€™s performers (on a sliding scale) and all 
-company members are â€˜queer identifiedâ€™. 
+The company pays it’s performers (on a sliding scale) and all 
+company members are ‘queer identified’. 
 
 The improvisation auditions will be held on Saturday August 27th.
 
@@ -137,5 +138,5 @@ experiences and created a popular workshop that features role-
 plays, exercises and handouts to help you prepare for your next 
 emcee or hosting experience.
 
-Sunday August 28th from 1pm to 5pm - $40 â€“ to book a spot email 
+Sunday August 28th from 1pm to 5pm - $40 – to book a spot email 
 davidcjones@shaw.ca

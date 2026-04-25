@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 4
 type: "EVENT"
+venue: "Cathedral Square Park"
 summary: "Cathedral Square Park | What Are Our Supports? | Outer Plexus: Stacy Ho, w/ sound by Elisa Ferrari | APR 12"
 ---
 

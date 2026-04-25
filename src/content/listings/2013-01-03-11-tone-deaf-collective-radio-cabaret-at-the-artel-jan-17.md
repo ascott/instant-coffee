@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you are a complex diamond and we 
 emailDate: "Thu, 03 Jan 2013 11:03:39 -0800"
 number: 11
 type: ""
+venue: "TONE DEAF COLLECTIVE"
 summary: "TONE DEAF COLLECTIVE | RADIO CABARET AT THE ARTEL | JAN 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 23
 type: "TALK"
+venue: "ECUAD - Reliance Theatre"
 summary: "ECUAD - Reliance Theatre | Visual Art Forums: Christina Mackie I 7PM | FEB 14"
 ---
 

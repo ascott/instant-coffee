@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 5
 type: "OPENING"
+venue: "Arnica Artist-Run Centre"
 summary: "Arnica Artist-Run Centre | Lyndl Hall + Sandee Moore | AUG 8"
 ---
 

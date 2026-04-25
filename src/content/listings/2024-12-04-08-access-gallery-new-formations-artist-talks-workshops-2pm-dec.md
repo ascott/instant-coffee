@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 8
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | NEW FORMATIONS: Artist Talks + Workshops | 2PM | DEC 7"
 ---
 

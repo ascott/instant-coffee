@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 11
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Jeremy Shaw: Phase Shifting Index | 7PM | JUN 22"
 ---
 

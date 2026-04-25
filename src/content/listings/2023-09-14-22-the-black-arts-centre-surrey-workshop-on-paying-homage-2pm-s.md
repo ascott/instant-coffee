@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 22
 type: "EDUCATION"
+venue: "The Black Arts Centre [SURREY]"
 summary: "The Black Arts Centre [SURREY] | Workshop: On Paying Homage... | 2PM | SEP 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 4
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Full Frontal | APR 11"
 ---
 
@@ -22,7 +23,7 @@ examines and redefines men's roles and relationships.
 Drawn from the collection of the Morris and Helen Belkin Art Gallery, 
 Full Frontal explores the relationship between masculinity and male 
 sexuality, and why the image of a naked man, baring all, is one of 
-societyâ€™s last taboos.
+society’s last taboos.
 
 With works spanning over 50 years, Full Frontal investigates the 
 stake our society has placed in representations of the male body, 
@@ -30,8 +31,8 @@ questioning why â€œmanhoodâ€  refers to both male identity and the
 physical penis. Through photographs, paintings, drawings, sculpture, 
 video and archival material, Full Frontalexplores how artists, both 
 publically and privately, have represented the penis-phallus. The 
-exhibition couples images of the phallusâ€”the socially approved 
-symbol of male powerâ€”with images of the fleshâ€”the often censored 
+exhibition couples images of the phallus—the socially approved 
+symbol of male power—with images of the flesh—the often censored 
 penis that our society carefully regulates.
 
 In bringing many perspectives and subjectivities to the sexualized 
@@ -49,7 +50,7 @@ Jungen, Bruce LaBruce, Attila Richard Lukacs, Robert Mapplethorpe,
 Eric Metcalfe, Michael Morris, Jack Shadbolt, Wolfgang Tillmans, 
 Vincent Trasov, Joyce Wieland, and others.
 
-Full Frontal is curated by Katie Schroeder, a Masterâ€™s Candidate in 
+Full Frontal is curated by Katie Schroeder, a Master’s Candidate in 
 the Critical and Curatorial Studies program at The University of 
 British Columbia.
 
@@ -72,7 +73,7 @@ Anthropology at UBC, and Presentation House Gallery.
 For more information, visit www.satellitegallery.ca, or contact Karen 
 Benbassat at 604.681.8425 or karen@satellitegallery.ca.
 
-Copyright Â© 2011 Satellite Gallery, All rights reserved.
+Copyright © 2011 Satellite Gallery, All rights reserved.
 Our mailing address is:
 560 Seymour Street, 2nd Floor
 Vancouver, BC,

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 1
 type: "EDUCATION"
+venue: "Oxygen Art Centre"
 summary: "Oxygen Art Centre | Education Art Courses for 2024"
 ---
 

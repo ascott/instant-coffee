@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 24
 type: "TALK"
+venue: "The Foreshore"
 summary: "The Foreshore | Subterranean Weaving | JUN 5"
 ---
 

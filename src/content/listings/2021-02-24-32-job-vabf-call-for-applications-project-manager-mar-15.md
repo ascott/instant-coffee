@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 32
 type: ""
+venue: "JOB"
 summary: "JOB | VABF | Call for Applications: Project Manager | MAR 15"
 ---
 

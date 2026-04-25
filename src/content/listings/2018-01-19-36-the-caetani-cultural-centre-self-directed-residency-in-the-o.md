@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 36
 type: "CALL"
+venue: "The Caetani Cultural Centre"
 summary: "The Caetani Cultural Centre | Self-Directed Residency in the Okanagan | JAN 25"
 ---
 

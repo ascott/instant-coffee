@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 41
 type: "EDUCATION"
+venue: "grunt gallery"
 summary: "grunt gallery | HOW IS IT DONE? Behind-the-Scenes Tour | MAR 21"
 ---
 

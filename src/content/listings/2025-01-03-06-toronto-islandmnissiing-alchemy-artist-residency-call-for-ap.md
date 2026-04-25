@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 6
 type: "EDUCATION"
+venue: "TORONTO ISLAND/MNISSIING"
 summary: "TORONTO ISLAND/MNISSIING | Alchemy Artist Residency Call for Applications | JAN 12"
 ---
 

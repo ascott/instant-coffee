@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 16
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | fracture / repair | 6PM | APR 5"
 ---
 

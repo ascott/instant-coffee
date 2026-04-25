@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 40
 type: "CALL"
+venue: "City of Surrey"
 summary: "City of Surrey | 152 St Bridge at Nicomekl | JUN 9"
 ---
 

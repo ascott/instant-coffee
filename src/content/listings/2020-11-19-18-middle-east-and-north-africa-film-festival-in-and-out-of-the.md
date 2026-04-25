@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 18
 type: "TALK"
+venue: "Middle East and North Africa Film Festival"
 summary: "Middle East and North Africa Film Festival | In and Out of the Loop | 12PM | NOV 24"
 ---
 

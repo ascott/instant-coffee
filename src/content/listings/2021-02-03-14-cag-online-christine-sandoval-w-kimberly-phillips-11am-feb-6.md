@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 14
 type: "TALK"
+venue: "CAG [ONLINE]"
 summary: "CAG [ONLINE] | Christine Sandoval w/ Kimberly Phillips | 11AM | FEB 6"
 ---
 

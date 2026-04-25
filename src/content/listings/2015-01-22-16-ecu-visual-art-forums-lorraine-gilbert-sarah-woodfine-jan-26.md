@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 16
 type: "TALK"
+venue: "ECU Visual Art Forums"
 summary: "ECU Visual Art Forums | Lorraine Gilbert + Sarah Woodfine | JAN 26"
 ---
 

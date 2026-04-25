@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 15
 type: ""
+venue: "BLIM ART SHOW AND RESIDENCY"
 summary: "BLIM ART SHOW AND RESIDENCY | Deirdre McAdams | FEB 5"
 ---
 

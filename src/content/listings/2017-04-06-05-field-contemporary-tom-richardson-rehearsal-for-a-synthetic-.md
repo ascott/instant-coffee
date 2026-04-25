@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 5
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Tom Richardson | Rehearsal for a Synthetic Theatre | APR 6"
 ---
 

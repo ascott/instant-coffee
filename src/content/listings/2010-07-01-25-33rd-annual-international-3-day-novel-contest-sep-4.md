@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 25
 type: ""
+venue: "33rd Annual International 3-Day Novel Contest"
 summary: "33rd Annual International 3-Day Novel Contest | | SEP 4"
 ---
 

@@ -52,7 +52,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 The Kitchen Garden at Home/Store
 Ron Tran
-April 9 â€“ May 23, 2015
+April 9 – May 23, 2015
 
 Van Hop Tour: April 11, 3:30-5:00pm
 canadianart.ca/vancouverhop
@@ -126,7 +126,7 @@ experienced in these images. Robideau's narrative embraces a lament for
 what has been lost, a celebration for what has survived, and an admonition
 for the future of a city still in its infancy.
 
-Join us on Thursday April 9 from 7pm Ã¢â‚¬â€œ 10pm for the opening reception of
+Join us on Thursday April 9 from 7pm â€“ 10pm for the opening reception of
 Eraser Street. There will be a forthcoming publication with an essay
 written by Clint Burnham. The exhibition runs from April 9 to May 16, 2015.
 
@@ -174,7 +174,7 @@ Opening Thursday, April 9, 8pm
 
 In Cultivating Equilibrium, Madison Killo and Patrick Campbell transform
 the UNIT/PITT gallery space into an immersive, non-site recontextualization
-of what is known in the rhetoric of its community of supporters as â€œOur
+of what is known in the rhetoric of its community of supporters as “Our
 Green Jewel.â€ 
 
 Built on an extremely valuable piece of land, Bloedel Conservatory was
@@ -203,7 +203,7 @@ received his BFA from Emily Carr in 2010. His work highlights and
 acknowledges the presence of societal histories. Informed by his formal
 training in photography, he seeks to preserve the lasting ephemera of these
 architectures. His practice often uses traditional cinematic modes of
-production â€“ situated in installations that enhance the construction of
+production – situated in installations that enhance the construction of
 place. The content of his work mediates between the public and the private,
 structuring narratives around fragments of the everyday.
 
@@ -224,7 +224,7 @@ Western Front
 Grand Luxe Hall, Western Front
 Free Admission
 
-Western Front presents a screening of Lis Rhodesâ€™ 1975 film, Light Music.
+Western Front presents a screening of Lis Rhodes’ 1975 film, Light Music.
 An iconic work of expanded cinema, the immersive two-channel 16mm film
 explores the indexical relationship between image and sound, using its
 structure to comment on the unseen role of women in 20th century music and art.
@@ -234,9 +234,9 @@ Line: Alma Alloro, Maggie Groat, Anne Low, Tanya Lukin Linklater, Lis
 Rhodes, on view at Western Front from March 20th until May 2nd, 2015.
 
 Artist Biography:
-Lis Rhodes is a major figure in the history of artistsâ€™ filmmaking in
-Britain and was a leading member of the influential London Filmmakersâ€™
-Co-op. In 1979 she co-founded Circles Womenâ€™s Film and Video Distribution,
+Lis Rhodes is a major figure in the history of artists’ filmmaking in
+Britain and was a leading member of the influential London Filmmakers’
+Co-op. In 1979 she co-founded Circles Women’s Film and Video Distribution,
 the first British organization to distribute the work of women film and
 video artists. She currently lives and works in London, where a survey
 exhibition of her career, Lis Rhodes: Dissonance and Disturbance, was held
@@ -261,7 +261,7 @@ H. Tuesday - Saturday 12-5pm
 Field Studies: Exercises in a Living Landscape
  Rebecca Bayer & Laura Kozak, Emiliano Sepulveda, Eden Veaudry 
 
-April 11â€”May 23, 2015
+April 11—May 23, 2015
 Exhibition Opening Friday, April 10, 2015, 7:00pm
 
 In Conversation: Marian Penner Bancroft with Rebecca Bayer, Laura Kozak,
@@ -270,19 +270,19 @@ Emiliano Sepulveda & Eden Veaudry Saturday April 11, 2015, 2:00 PM
 Presented in conjunction with Capture Photography Festival, Field Studies
 investigates
 radical and inventive ways in which our everyday landscape might be
-experienced and mapped. Rebecca Bayer and Laura Kozakâ€™s community-based
+experienced and mapped. Rebecca Bayer and Laura Kozak’s community-based
 project The Hadden Park Map Exchange (developed through the Vancouver Parks
 Board Field House Residencies) documents the coming together of a myriad of
-specialized practitioners and community membersâ€”visual artists, musicians,
+specialized practitioners and community members—visual artists, musicians,
 historians, gardeners, choreographers, archaeologists, meterologists,
-lifeguards, local residents and childrenâ€”to produce a series of
-unconventional maps of Hadden Park, at the north end of Vancouverâ€™s
+lifeguards, local residents and children—to produce a series of
+unconventional maps of Hadden Park, at the north end of Vancouver’s
 Kitsilano Beach. Emiliano Sepulveda probes the very basis of photography
 with his weather kites made of light-sensitive photo paper which record
-light conditions in the sites they are flown. Eden Veaudryâ€™s sensual
+light conditions in the sites they are flown. Eden Veaudry’s sensual
 installation quite literally weaves together still photographs, video and
-tapestries to map the intimate surfaces of her domestic realm, Ã  la Xavier
-de Maistreâ€™s 1794 novel A Journey Round My Room.
+tapestries to map the intimate surfaces of her domestic realm, à la Xavier
+de Maistre’s 1794 novel A Journey Round My Room.
 
 Rebecca Bayer is a Vancouver-based artist and architectural designer. Her
 projects examine relationships between people, material, and atmospheric
@@ -358,7 +358,7 @@ Project, and the Concourse Gallery. In 2014, she was the finalist for the
 AIMIA/AGO photography prize.
 In the past few years, Senchenko has closely examined the cultural and
 social structures while interested in the urban spaces that we created and
-occupy. The current political situation in Ukraine, Senchenkoâ€™s native
+occupy. The current political situation in Ukraine, Senchenko’s native
 country, has firmly dictated the emotional tone in her practice. In order
 to express these emotions, photograph, found images, text, collage, and
 performance are a few of the mediums and elements that exist in her practice.
@@ -383,7 +383,7 @@ Face of Beauty.
 
 Agnon Wong
 Inspired by the limitless power of cinema at a very young age, animation
-and storytelling was something that consumed Agnonâ€™s childhood. Agnon
+and storytelling was something that consumed Agnon’s childhood. Agnon
 gravitated towards Japanese pop culture influences in cinema and animations
 and eventually ended up at Emily Carr University of Arts and Design in
 Vancouver BC. Photography became a medium for Agnon to explore and to
@@ -416,7 +416,7 @@ considered diverse issues including the historical atrocities that occurred
 under Mao Tse-tung during the cultural revolution in China, the challenges
 that Canadian veterans returning from Afghanistan face as they reintegrate
 into civilian life, as well collaborative works that leverage visual arts
-to give voice to Canadianâ€™s experiences with depression and suicide.
+to give voice to Canadian’s experiences with depression and suicide.
 The lestweforgetCANADA murals created by Foster, veterans and community
 members were exhibited at the Canadian War Museum in Ottawa Nov 8-11, 2014.
 
@@ -437,15 +437,15 @@ Opening Reception: April 10th, 2015, 7pm - 9pm
 Through self-portraiture, still life and found imagery, Piontek has created
 a complex and layered narrative in the series Lying Still. Initiated as a
 visual diary that has accompanied the artist through her daily life, the
-scope of Piontekâ€™s work has expanded to encompass a more universal account
+scope of Piontek’s work has expanded to encompass a more universal account
 of female identity and representation.
 
 The images in Lying Still examine notions of the self, mortality,
 sexuality, intimacy, roles and relationships and their ever-evolving
-structures. Through the use of staging, Piontek also examines the artistâ€™s
+structures. Through the use of staging, Piontek also examines the artist’s
 relationship to the camera, while both observing and being observed. Acting
-as disruptions to the daily routine, Piontekâ€™s images use rich iconography
-and symbolism that displaces the viewerâ€™s expectations of the everyday,
+as disruptions to the daily routine, Piontek’s images use rich iconography
+and symbolism that displaces the viewer’s expectations of the everyday,
 creating a psychological landscape that is as treacherous as it is poetic.
 
 Finally, with the inclusion of found press images from the 1950s and 60s
@@ -453,7 +453,7 @@ depicting natural disasters, macabre scenes, women performing and modeling
 for the camera, and other black and white photographs, Piontek has created
 a multifaceted dialogue that spans generations and brings into question
 female representation and its relationship to the camera. Through the
-blending of created and found imagery, Piontekâ€™s work points towards
+blending of created and found imagery, Piontek’s work points towards
 collective experience. Overall the work exposes the desires, urges and
 fears that exist latently in our subconscious and reveal themselves against
 the backdrop of the domestic space.
@@ -464,9 +464,9 @@ BIRTHE PIONTEK moved to Canada in 2005 after obtaining an MFA from the
 University of Essen in Communication Design and Photography. Piontek has
 taken part in exhibitions internationally, including the Hyeres Fashion and
 Photography Festival, France, 2014; Venice Arsenale, 2010, and Park Avenue
-Armory, New York City, 2009. Her series The Idea of North â€“ the result of a
-three-month residency in Yukon â€“ won Photolucidaâ€™s Critical Mass Book Award
-2009, and was published as a monograph in 2011. Piontekâ€™s work has appeared
+Armory, New York City, 2009. Her series The Idea of North – the result of a
+three-month residency in Yukon – won Photolucida’s Critical Mass Book Award
+2009, and was published as a monograph in 2011. Piontek’s work has appeared
 in international publications such as Le Monde, Die Zeit and The New
 Yorker. Her work is featured in the public collections of the Museum of
 Contemporary Photography, Chicago and the Museum of Applied Arts, Gera,
@@ -498,12 +498,12 @@ For viewing arrangements and other inquiries: info[AT]spare-room[DOT]ca
 
 ____________
 
-â€œWood all around. No lifts but always someone eager to take your bags. Not
-much space, but just enough â€” quaint. Quite stunning actually. Good AC. A
-bit of a journey into town where all the shops and pubs are (if thatâ€™s what
+“Wood all around. No lifts but always someone eager to take your bags. Not
+much space, but just enough — quaint. Quite stunning actually. Good AC. A
+bit of a journey into town where all the shops and pubs are (if that’s what
 you like), some local restaurants are within walking distance. The wood
-that is everywhere makes it feel like itâ€™s something out of the old time
-travel writers like Maugham or Greene, although Iâ€™m not too sure if either
+that is everywhere makes it feel like it’s something out of the old time
+travel writers like Maugham or Greene, although I’m not too sure if either
 of them had ever travelled here.â€ 
 
 - excerpt from a review on TripAdvisor
@@ -521,10 +521,10 @@ international preservation efforts and the hospitality industry render
 these cultural remnants into a highly profitable and lucrative modes of
 economy.
 
-A narration is written collaboratively with Linton Murphy â€” spoken
+A narration is written collaboratively with Linton Murphy — spoken
 verbosely with deliberate exotification of its history indulging in the
 inspirational fantasies and facts of David Attenborough, National
-Geographic, BBCâ€™s Human Planet series, tourist traps,Tomb Raider, and
+Geographic, BBC’s Human Planet series, tourist traps,Tomb Raider, and
 various conspiracy theories surrounding the psychic properties of
 megalithic structures.
 
@@ -546,11 +546,11 @@ Raymond Lum Photography Studio
 1810 Pine Street, Vancouver
 
 What to expect at ONExONE
-1. LISTEN to a brief 6 minute presentation (the hors dâ€™oeuvre)
+1. LISTEN to a brief 6 minute presentation (the hors d’oeuvre)
 2. PARTICIPATE in a lively discussion (the main course)
 3. MAKE connections
 4. BE inspired
-5. BASK in the warm glow youâ€™ll feel afterwards
+5. BASK in the warm glow you’ll feel afterwards
 
 Meg Middelstedt: In Defense of Story: Safeguarding Story in a Consumer Society
 Meg cares not just about the craft of creating stories, but about the deep
@@ -588,20 +588,20 @@ works by Vancouver artist Ryan Mathieson and Quebec City artist Anne-Marie
 Proulx. The exhibition looks at how subjective mapping and framing
 processes modulate the representation of given territories. In their
 individual practices, Mathieson and Proulx engage the discrepancies between
-representation-as-index and representation-as-deferral, and the artistsâ€™
+representation-as-index and representation-as-deferral, and the artists’
 material and compositional manipulations produce inflexions in the reading
 of photographic images. The exhibition, in its configuration, furthers this
 translation process and becomes a space of percolation: more than echoing
 each other, the works become porous. Slippages and infiltrations create
-(unstable) grounds for the expansion of the worksâ€™ physical and relational
+(unstable) grounds for the expansion of the works’ physical and relational
 frames.
 
 Exhibited works present fragmented renderings of landscapes: Icelandic and
 Southwestern American deserts, the Gulf Islands of British Columbia, the
-Magdalen Islands and the CÃ´te-Nord Region of Quebec. Here, an interplay
-between indexical and non-indexical representation engenders the lossâ€”or
-translationâ€”of information pertaining to the depicted territories. This
-gives way to the artistsâ€™ reinterpretation of chosen sites through visual,
+Magdalen Islands and the Côte-Nord Region of Quebec. Here, an interplay
+between indexical and non-indexical representation engenders the loss—or
+translation—of information pertaining to the depicted territories. This
+gives way to the artists’ reinterpretation of chosen sites through visual,
 material, and textual means. Mathieson presents a collection of
 photographic and assemblage-based works, notably exhibiting microscopic
 imagery and documentation of collected seaweed specimens from the Gulf
@@ -609,8 +609,8 @@ Islands, as well as a series of landscape compositions that testify to
 processes of topographical projection. Proulx presents series of works
 examining the geographic, human, and idiosyncratic topologies of insularity
 found along and into the Gulf of the Saint Lawrence River. Playing with the
-viewerâ€™s perception of space and scale, the artist approaches singularities
-of QuÃ©bÃ©cois landscapes as conduits to open the very notion of territorial
+viewer’s perception of space and scale, the artist approaches singularities
+of Québécois landscapes as conduits to open the very notion of territorial
 recording.
 
 ------------------------------------------------------------------------
@@ -699,7 +699,7 @@ and material engagement in photography. In the format of a conversation
 between artists, this performative and informal speaking panel will speak
 to the breath of material practice through the position of photography.
 This format of photographic dialogue continues to deepen the legacy of
-Vancouver photoconceptualists of the 1980â€™s and brings the conceptualism of
+Vancouver photoconceptualists of the 1980’s and brings the conceptualism of
 photographic engagement back to the forefront on contemporary culture in
 this panel of photographic image makers. This panel, composed with artists
 in varying degrees of their careers brings together Sean Alward, Manuel
@@ -735,7 +735,7 @@ Rather than presenting her photographs as traditional two dimensional
 prints, Bubas began printing multiple images from her negatives to
 laser cut and reconstruct the scenes into three-dimensional tableaux,
 building up layers and layers of intricate details. The final result
-is a selection of three-dimensional photographs or paper Ã¢â‚¬Å“tolesÃ¢â‚¬
+is a selection of three-dimensional photographs or paper â€œtolesâ€
 housed in Plexiglas cases. The scenes are lush and mesmerizing, but
 also suggest a tone of isolation; Bubas' unique perceptiveness and
 skill for conveying narrative is readily apparent.
@@ -760,7 +760,7 @@ http://monteclarkgallery.com
 REGISTERED by Leslie Hossack
 
 Exhibition: April 11 to June 7, 2015
-Opening Reception + Artist Conversation: April 11, 3 â€“ 5pm
+Opening Reception + Artist Conversation: April 11, 3 – 5pm
 Artist Talk/Gallery Tour: April 18, 2pm
 Powell Street Walking Tour: May 16, 10am-12pm=
 Hastings Park Walking Tour: May 23, 10am-12pm
@@ -779,7 +779,7 @@ Launching on Saturday April 11 at 3pm, the exhibit opens with a
 conversation between Hossack and contemporary photography artist Stephen
 Waddell in the Ellipse Lobby of Nikkei Centre.
 
-On April 18, in conjunction with Nikkei Centreâ€™s Celebrate Spring event,
+On April 18, in conjunction with Nikkei Centre’s Celebrate Spring event,
 the artist will give a talk and gallery tour from 2pm.
 
 Nikkei National Museum
@@ -801,9 +801,9 @@ Saturday, April 11, 2pm
 Opening Reception
 Wednesday, April 15, 7pm
 
-Featuring work by StÃ©phane Bernard, Alex Hill, Jasmine Huang, Brennan
+Featuring work by Stéphane Bernard, Alex Hill, Jasmine Huang, Brennan
 Kelly, Jasmine Kwong, Adrianna Lademann, Lauren Lavery, Anchi Lin,
-Stephanie Ng, Cydney Paddon, Jocelyn SÃ¡nchez, Ariel So, Wan Hang Tsang,
+Stephanie Ng, Cydney Paddon, Jocelyn Sánchez, Ariel So, Wan Hang Tsang,
 Larisa Volkova, Betsy Wen, Cory Woodcock, Angela Yan and Michelle Zhang.
 
 What To Say If Someone Asks: "Why Froot Zalad ?"
@@ -876,17 +876,17 @@ Surrey Art Gallery
 Kick off spring by joining us for the opening reception of:
 
 Views from the Southbank II: Moments, Reflections, Intervals, second of
-three exhibitions celebrating the GalleryÃ¢â‚¬â„¢s 40th anniversary and featuring
+three exhibitions celebrating the Galleryâ€™s 40th anniversary and featuring
 portraits of people and places in Surrey and the surrounding area by 29
 different artists: Matilda Aslizadeh, Richard Bond, Randy Bradley, Claude
 Breeze, Edward Burtynsky, Lisa Chen, Jennifer Clark, Barbara Cole, Gregory
 W. Dawe, Brandon Gabriel, Gabor Gasztonyi, Alex Grewal, Elizabeth Hollick,
 Evan Lee, Ken Lum, Michael Markowsky, Scott Massey, Sean Mills, Jef Morlan,
-Ann Nelson, James Nizam, ZoÃƒÂ« Pawlak, Barbara Pratezina, Helma Sawatzky,
+Ann Nelson, James Nizam, ZoÃ« Pawlak, Barbara Pratezina, Helma Sawatzky,
 Ikbal Singh, Jeannette Sirois, Ken Wallace, Stella Weinert, and Kira Wu.
 
-Re:SourceÃ¢â‚¬â€œA Living Archive Part 2 where Jim Adams, Polly Gibbons, Cora
-Li-Leger, Haruko Okano, and Mandeep Wirk bring the GalleryÃ¢â‚¬â„¢s four decades
+Re:Sourceâ€“A Living Archive Part 2 where Jim Adams, Polly Gibbons, Cora
+Li-Leger, Haruko Okano, and Mandeep Wirk bring the Galleryâ€™s four decades
 of archives to life through an ever-revolving installation in celebration
 of our 40th anniversary;
 
@@ -900,7 +900,7 @@ John Wynne: Anspayaxw, an installation for voice, image, and sound that
 features the endangered language of Gitxsanimax of the Gitxsan people based
 near Hazelton, BC, part of Open Sound 2015: Polyphonic Cartograph; and
 Orijit Sen: From Punjab, with Love. Based on his famous 75 metre long mural
-at the Virasat-e-Khalsa Museum in Anandpur Sahib, India, SenÃ¢â‚¬â„¢s From Punjab
+at the Virasat-e-Khalsa Museum in Anandpur Sahib, India, Senâ€™s From Punjab
 with Love chronicles the daily life, myths, and festivities of the Punjab
 region through the centuries. This 9 metre-long printed mural is presented
 in partnership with Indian Summer Arts Society.
@@ -927,21 +927,21 @@ East Hastings St. 100 feet east of Dunlevy ave. in the Patricia Hotel
 parking lot, Vancouver
 
 Back Gallery Project presents the anticipated third and final iteration of
-its Strathcona Billboard Project with artist Annie Briardâ€™s public art work
+its Strathcona Billboard Project with artist Annie Briard’s public art work
 Any Day Now. Loved by locals, the billboard project is a cross-city
-partnership with Torontoâ€™s Pattison Art in Transit program that has been
-enlivening Vancouverâ€™ Downtown East Side with accessible contemporary art.
+partnership with Toronto’s Pattison Art in Transit program that has been
+enlivening Vancouver’ Downtown East Side with accessible contemporary art.
 Any Day Now will be showcased for Capture Photography Festival, launching
 its second year this April.
 
-Annie Briard is a Vancouver-based artist from MontrÃ©al challenging visual
+Annie Briard is a Vancouver-based artist from Montréal challenging visual
 perception through moving image and lens focused work. Her billboard
 project â€œAny Day Nowâ€  is an in-situ photographic installation on East
-Hastings Street. It offers a momentary break in a passerbyâ€™s field of
+Hastings Street. It offers a momentary break in a passerby’s field of
 vision to question how we see and make sense of the world around us. Using
 optical recursion and a 3D viewing potential, â€œAny Day Nowâ€  underlines
 connections between visual attention, wonder, and possibility. Billboards
-catch our eyes through bright colors, bold fonts and rapid messages. â€œAny
+catch our eyes through bright colors, bold fonts and rapid messages. “Any
 Day Nowâ€  rather than showing or telling, provides a mirroring of its
 surrounding space for contemplation. Any day now, a new sight; a moment of
 wonder; any day now, an escape.
@@ -951,7 +951,7 @@ including a 3D viewing and artist talk. More information:
 http://capturephotofest.com/public-installations/any-day-now/
 
 About the artist
-Annie Briard is a Vancouver-based artist from MontrÃ©al challenging visual
+Annie Briard is a Vancouver-based artist from Montréal challenging visual
 perception through moving image and lens focused work.
 She has exhibited in solo and group shows across Canada and
 internationally, including in New York, Paris, Rio, Madrid, and Beijing. In
@@ -966,7 +966,7 @@ in Montreal.
 Annie Briard also teaches at Emily Carr University and Kwantlen University,
 and serves on boards for Montreal/Shanghai based Art Contraste, and
 Vancouver's Access Gallery. She holds a BFA from Concordia University and a
-Masterâ€™s from Emily Carr University. www.anniebriard.com
+Master’s from Emily Carr University. www.anniebriard.com
 
 About Back Gallery Project
 Back Gallery Project, which started in a room behind the Monte Clark
@@ -997,15 +997,15 @@ worked across and between traditional media, opting for ephemeral
 materials, participatory approaches, and playful humor.
 
 The collection includes digital tools that make interactive objects and
-text-based works available to viewersâ€”many of which have not been read,
+text-based works available to viewers—many of which have not been read,
 seen, or heard outside of select archives. With technical tools that
 include 3-D modeling, digital scanning, photography, and film, the Fluxus
 Digital Collection gives worldwide access to scholars, teachers, students,
 and art-lovers.
 
-â€œVideo pioneer Nam June Paik organized the first art exhibition on the
+“Video pioneer Nam June Paik organized the first art exhibition on the
 World Wide Web in 1994,â€  explains Fluxus artist and collection donor Ken
-Friedman. â€œSince then, Fluxus artists and composers have had a durable
+Friedman. “Since then, Fluxus artists and composers have had a durable
 presence of event scores, images, documents, web sites, exhibitions,
 publications, and more. Some vanished when links broke and web sites
 disappeared. Others continue to overcome the limits of fragile artifacts
@@ -1019,7 +1019,7 @@ Collection will continue to grow as we add new content.
 
 Artists featured in the collection include: John Cage, Dick Higgins, George
 Brecht, Robert Watts, Ken Friedman, George Maciunas, Yoko Ono, Joseph
-Beuys, Milan KnÃ­Å¾Ã¡k, Ben Vautier, Nam June Paik, Frank Zappa, Robert
+Beuys, Milan Knížák, Ben Vautier, Nam June Paik, Frank Zappa, Robert
 Filliou, Mieko Shiomi, Shigeko Kubota, Ben Patterson, Dieter Roth, Eric
 Andersen, Takehisa Kosugi, Ay-O, and others.
 
@@ -1045,15 +1045,15 @@ Ai Weiwei Film Retrospective
 
 "Never Sorry"
 "The Fake Case"
-Monday April 13th, 2015, TIME: 6:30pm â€“ 10:00pm
+Monday April 13th, 2015, TIME: 6:30pm – 10:00pm
 
-"AI WEIWEIâ€™S APPEAL Â¥15,220,910.50"
-Monday April 20th, 2015, TIME: 6:00pm â€“ 8:30pm
+"AI WEIWEI’S APPEAL ¥15,220,910.50"
+Monday April 20th, 2015, TIME: 6:00pm – 8:30pm
 
 "Disturbing the Peace"
 "So Sorry"
 "The Crab House"
-Sunday April 26th, 2015 TIME: 12:00pm â€“ 4:30pm
+Sunday April 26th, 2015 TIME: 12:00pm – 4:30pm
 
 Rio Theatre
 1660 East Broadway, Vancouver, BC
@@ -1064,7 +1064,7 @@ artist and human rights activist Ai Weiwei. The 27 film retrospective will
 launch with a double bill featuring the Vancouver premiere of Ai Wewei: The
 Fake Case by Andreas Johnsen followed by the equally controversial
 documentary Ai Weiwei: Never Sorry by Alison Klayman. Given that the artist
-is restricted from leaving China, Global TVâ€™s national film critic
+is restricted from leaving China, Global TV’s national film critic
 Katherine Monk will host the Monday, April 13 screenings at the Rio Theatre.
 
 This will be the second event featuring Ai Weiwei at the 2014-2016
@@ -1073,13 +1073,13 @@ Grass at Harbour Green Park, an enigmatic artwork composed of 1327 cast
 iron pieces symbolizing the indestructibility and resiliency of the human
 spirit.
 
-CineFest LIVE Director Ammar Mahimwalla says, â€œYou canâ€™t stop people from
+CineFest LIVE Director Ammar Mahimwalla says, “You can’t stop people from
 expressing themselves, no matter how oppressive the government control. F
 Grass and the CineFest LIVE Ai Weiwei screenings are a clear demonstration
 of that, with Ai Weiwei getting his message out to the world despite his
 continued physical detainment in a country that seems so eager to shut him up.â€ 
 
-As a follow up to the premiere of the Biennaleâ€™s CineFest LIVE Documentary
+As a follow up to the premiere of the Biennale’s CineFest LIVE Documentary
 Film Festival, launched in June 2014 with Academy Award winner Oliver Stone
 and the Canadian premiere of his 12 part series The Untold History of the
 United States, this 2015 AI WEIWEI retrospective is an apt follow up and
@@ -1089,7 +1089,7 @@ learning and social action.
 
 Out of the 27 films directed by Ai Weiwei, 4 will be debuted at the Rio
 Theatre on April 20 and 26. The remaining Ai Weiwei films will be screened
-through the Biennaleâ€™s educational partners and the Biennale website
+through the Biennale’s educational partners and the Biennale website
 throughout 2015.
 These films showcase Ai Weiwei as a controversial and outspoken political
 artist and activist, critiquing human rights and the government of China,
@@ -1149,7 +1149,7 @@ not intend to limit our content based on the colonial construction of the
 borders, and therefore are interested in issues that extend beyond the
 national level as well. Our call for submissions on the theme of decolonial
 aesthetics pertains to all off-shoots of colonialism that propagate the
-imperial agendaâ€”capitalism, legacies of the slave trade, and environmental
+imperial agenda—capitalism, legacies of the slave trade, and environmental
 degradation, to name but a few.
 
 Complete submission details can be found at http://www.breachmagazine.ca.
@@ -1162,22 +1162,22 @@ Direct submissions and queries to info@breachmagazine.ca by April 15 2015.
 DOUBLE SPACE | UBC 2015 BFA/BA Visual Art Graduating Exhibition
 
 Opening April 16th 5-9PM
-Exhibition April 17 â€“ 26, 2015
+Exhibition April 17 – 26, 2015
 
 UBC Department of Art History, Visual Art & Theory
 AHVA Gallery (room 1001) & Studio 3000
 Audain Art Centre
 6398 University Boulevard
-Mondayâ€“Sunday, 12â€“4PM
+Monday–Sunday, 12–4PM
 
 The Department of Art History, Visual Art and Theory is pleased to present
-Double Space, this yearâ€™s University of British Columbia BFA/BA Visual Art
+Double Space, this year’s University of British Columbia BFA/BA Visual Art
 Graduating Exhibition at the Audain Art Centre. Please join us for an
 evening of art, conversation and refreshments as we celebrate the
-graduatesâ€™ achievements and enjoy the work of emerging talent.
+graduates’ achievements and enjoy the work of emerging talent.
 
-Double Space speaks to the contributing artistsâ€™ dual identities as both
-students and contemporary artists, as well the locationâ€™s dual purpose as
+Double Space speaks to the contributing artists’ dual identities as both
+students and contemporary artists, as well the location’s dual purpose as
 both a teaching studio and exhibition space. Featuring an exciting
 assortment of over fifty curated works, the exhibition will showcase a
 breadth of artistic media from printmaking to installation, photography to
@@ -1200,29 +1200,29 @@ Make Gallery
 Opening Reception: Thursday April 16, 2015 from 7:00pm - 10:00pm
 Please RSVP to katie@makeisawesome.com or via the Facebook Event.
 
-Fred Schifferâ€™s lens was a unique portal to Vancouver and its people.
+Fred Schiffer’s lens was a unique portal to Vancouver and its people.
 Following his flight from wartime Vienna and then post-war Argentina,
-Schiffer set up shop in the city in 1958 and began to capture the cityâ€™s
+Schiffer set up shop in the city in 1958 and began to capture the city’s
 meteoric rise from small town to surging metropolis. Through his gorgeous
 portraiture, he grants us a unique look at political figures, local and
 visiting celebrities, and royal dignitaries. Although his own humble nature
-denied any such flattering titles, he was hailed as the â€œKarsh of
+denied any such flattering titles, he was hailed as the “Karsh of
 Vancouverâ€  by Malcolm Parry of The Vancouver Sun. Self-taught, he believed
 in a formal education for photographers, and was instrumental in setting up
 the first professional photography diploma program at Langara College.
 
-Two years after his passing in 1999, Schifferâ€™s family donated an enormous
+Two years after his passing in 1999, Schiffer’s family donated an enormous
 collection of his works and documents to the Jewish Museum and Archives of
 BC, where they have been steadily chronicled and digitized. This coming
 show, presented as a collaboration with the Jewish Museum and Capture
 Photography Festival and with the support of government and local
-foundations, marks the first time in a generation that Schifferâ€™s works
+foundations, marks the first time in a generation that Schiffer’s works
 have been displayed on such a scale for the public.
 
 Make is delighted to host the show, which has been curated by Michael
 Schwartz, from April 16th, to May 31st of 2015. Please join us for an
 opening reception on Thursday the 16th which will include a talk from the
-curator as well as libations, or swing by during the showâ€™s gallery hours.
+curator as well as libations, or swing by during the show’s gallery hours.
 
 Gallery Hours
 Thursday/Friday: 4-6pm
@@ -1260,7 +1260,7 @@ close April 17, 2015.
 
 This yearâ€™s Group Show theme is â€œIN DREAMSâ€ : explore your own alternate
 reality, reinterpret a subconscious landscape or recreate a nightmare. We
-are looking for submissions that are drawn from your other waking life â€“
+are looking for submissions that are drawn from your other waking life –
 the impossible or the mundane, the hoped or the feared, the meaningful or
 the inexplicable. Artists may choose to interpret the theme however they
 wish, although we will give preference to submissions that respond to the
@@ -1287,26 +1287,26 @@ of written works.
 
 In order to protect themselves from their predators, certain species
 imitate the appearance of wide open, threatening eyes on the surface of
-their bodies. To appear lifelike, sometimes even the pupilÂ´s reflective
+their bodies. To appear lifelike, sometimes even the pupil´s reflective
 qualities are reproduced. The prey thus turns the weapon of sight against
 its predator, the hunted makes itself off-putting. This makes one wonder
 whether skin could actually transform itself into a real eye. As Roger
 Caillois warns us, "If you play the ghost too often, you'll turn into one."
 
-â€” SINELISMO
+— SINELISMO
 
 As a collective, SINELISMO previously produced the introduction for a book
-by member Soledad MuÃ±oz Fiegehen, which was launched last month in Portland:
+by member Soledad Muñoz Fiegehen, which was launched last month in Portland:
 
 "'Again the search, Another disappointment: a translation work by Soledad
-MuÃ±oz Fiegehen,' uses translation as a means to recover the voice of
+Muñoz Fiegehen,' uses translation as a means to recover the voice of
 Chilean writer and artist Pedro Lemebel. Lemebel's books, literary
 chronicles and performance art narrated the story of the minoritized in
-Chileâ€™s social strata from the era of military dictatorship to the present
-day. By extending Lemebelâ€™s works into English-speaking communities, 'Again
+Chile’s social strata from the era of military dictatorship to the present
+day. By extending Lemebel’s works into English-speaking communities, 'Again
 the search, Another disappointment' rescues the gesture of a muted society
 so that a better understanding of Chilean history flourishes in the hands
-of younger generations. It is MuÃ±ozâ€™ hope that this can develop a
+of younger generations. It is Muñoz’ hope that this can develop a
 progressive notion of the common and community." (via RECESS)
 
 PROJECT SPACE MEMBERS get a sticker, postcard and 10% discount on
@@ -1316,7 +1316,7 @@ DIRECTIONS TO THE EVENT: Please follow the signs from the front door of 236
 and enter around back in the alley. Knock loudly to be let in.
 
 Monthly open studio events are hosted every third Friday of the month and
-are organized by Project Spaceâ€™s Curatorial Collective. This edition was
+are organized by Project Space’s Curatorial Collective. This edition was
 organized by Sarah Davidson.
 
 BECOME A MEMBER OF PROJECT SPACE: http://www.projectspace.ca/membership
@@ -1332,16 +1332,16 @@ April 18, 2015, 8:00 PM
 LIT LIT LIT LIT features an evening of new readings, written and given by
 Alex Bovril, Kara Hansen, Steffanie Ling & Zebulon Zang.
 
-Asked to write a biography to accompany a reading, the writer canâ€™t think
+Asked to write a biography to accompany a reading, the writer can’t think
 of anything to write about himself. Does he give the names of cities,
 institutions, achievements? What achievements? He steps out for fresh air.
-During, a car (on which the painterâ€™s ladders are piled) drives up. The
+During, a car (on which the painter’s ladders are piled) drives up. The
 writer asks the painter for help with the biography and the painter agrees,
 but they end up talking only about window cleaning. The painter wishes he
-could write: when you do condos youâ€™re cleaning these windows that take,
+could write: when you do condos you’re cleaning these windows that take,
 like, half a minute, and all day long briefly glimpsing hundreds of
-bedrooms, which is to say of hundreds of unconnected livesâ€”or lives that
-just seemed unconnected but which in writing could take on connectionsâ€”the
+bedrooms, which is to say of hundreds of unconnected lives—or lives that
+just seemed unconnected but which in writing could take on connections—the
 painter gets to thinking. They finish enjoying the fresh air and part ways,
 the writer still not knowing what to say about himself. For now, Alex
 Bovril is a writer in Vancouver.
@@ -1391,7 +1391,7 @@ Join us for an evening of art, food and fun as we celebrate 16 years of
 Centre A's exhibition history, honour significant figures, and dance with
 the Biltmore Cabaret's Guilty Pleasures DJs!
 
-This yearâ€™s participating artists include Liz Magor, Karen Zalamea, Lorna
+This year’s participating artists include Liz Magor, Karen Zalamea, Lorna
 Brown, Wayne Ngan, Maraya, Michael Love and more, including a limited
 edition growler featuring artwork by Howie Tsui.
 
@@ -1406,7 +1406,7 @@ http://centrea.us5.list-manage.com/track/click?u=d3749601761f678c1db0eed44&id=f4
 ------------------------------------------------------------------------
 Adventures in Chemistry: Darkroom Safety
 
-Sunday Apr 19, 11.00am â€“ 1.00pm
+Sunday Apr 19, 11.00am – 1.00pm
 
 Cineworks Annex, Ironworks, 235 Alexander Street
 (basement, lane entrance: please ring the bell to the right of the gate)
@@ -1448,15 +1448,15 @@ Capture Photography Festival presents
 WAVELENGTH + BLOW-UP
 April 22, 24 - 7:00pm
 
-VANCOUVER â€” The Cinematheque and the second annual Capture Photography
+VANCOUVER — The Cinematheque and the second annual Capture Photography
 Festival present two masterworks from the mid-'60s that explore the
 intersection between photography and cinema: Canadian great Michael Snow's
 iconic Wavelength (1967), and Michelangelo Antonioni's landmark
 English-language debut, Blow-Up (1966).
 
 Curated by Vancouver-based artist Casey Wei, this two-film program draws
-thematic lines between Snow's legendary 45-minute continuous zoom â€” one of
-avant-garde cinema's most celebrated and influential works â€” and
+thematic lines between Snow's legendary 45-minute continuous zoom — one of
+avant-garde cinema's most celebrated and influential works — and
 Antonioni's critically-lauded tale of a swinging '60s fashion photographer
 (David Hemmings) who begins to lose his grip on reality when he
 inadvertently photographs a murder.
@@ -1475,8 +1475,8 @@ http://www.thecinematheque.ca/wavelength-and-blowup
 <a href="/instant-coffee/listings/2015-04-09-33-republic-gallery-khan-lee-take-your-time-apr-22">33. OPENING | Republic Gallery | Khan Lee: Take Your Time | APR 22</a>
 ------------------------------------------------------------------------
 Khan Lee: Take Your Time
-Opening reception April 22 6â€“8PM
-Exhibition runs April 22â€“June 6, 2015
+Opening reception April 22 6–8PM
+Exhibition runs April 22–June 6, 2015
 
 Republic Gallery is pleased to present Take Your Time, a solo exhibition of
 new work by Khan Lee, as part of the 2015 Capture Photography Festival. In
@@ -1487,7 +1487,7 @@ Time opens April 22nd at 6PM and runs through June 6, 2015.
 For Lee, all conceptions have the potential to be used as a medium. By
 isolating its properties from its given function and suggesting a new
 expression, anything can form the basis of a conceptual process. With this
-exhibition, Leeâ€™s careful observation of the shapes of various durational
+exhibition, Lee’s careful observation of the shapes of various durational
 events culminates in a body of work that iterates his visual conception of
 the essence of time.
 
@@ -1499,7 +1499,7 @@ It simultaneously contains parallel events that do not intersect, and
 static moments, which might be imperceptibly slow-changing. The artist
 will be in attendance.
 
-â€”-
+—-
 
 Khan Lee was born in Seoul, Korea. He studied architecture at Hong-Ik
 University, before immigrating to Canada to study fine art at Emily Carr
@@ -1546,7 +1546,7 @@ Vancouver (via Montreal) producer Phoebe Guillemot locks into hypnotic,
 tropically tinged grooves through both ambient and more overtly rhythmic
 experimentations in digital pop for meditative, imagistic and heavily
 immersive realms of melody and digital psychedelia. Following the acclaimed
-(self-released) "BÃƒâ€°BiTES" and "Etwal Timoun" on Total Statis, Ramzi builds
+(self-released) "BÃ‰BiTES" and "Etwal Timoun" on Total Statis, Ramzi builds
 a one-off performance of warm, comfort-pursuing ambience.
 
 ------------------------------------------------------------------------
@@ -1562,20 +1562,20 @@ usually shy away from stereotypes, the trope of summer school offers too
 good an opportunity: if no one is going to follow the rules, then why
 should we make any?
 
-To begin our third volume, KAPSULA wipes the chalkboard clean. We donâ€™t
-have a lesson plan for you, so think of this call as â€œself-directed
+To begin our third volume, KAPSULA wipes the chalkboard clean. We don’t
+have a lesson plan for you, so think of this call as “self-directed
 learning.â€  There are no suggested subject matters or formats. We're handing
-over carte blanche, though weâ€™re not retiring our red pen completely. The
+over carte blanche, though we’re not retiring our red pen completely. The
 only stipulation is that we ask all submissions to somehow reflect on our
 publishing history and call upon themes explored in the early days of the
 magazine. Any theme addressed in our first volume is eligible. Please take
-some time to peruse our archive, if youâ€™re not already familiar with our
+some time to peruse our archive, if you’re not already familiar with our
 past issues.
 
-Letâ€™s make SUMMER SCHOOL about more than an easy A. Look to our mandate as
-a kind of rubric, and notice weâ€™re prone to favouring evaluative,
-accessible writing. Everyone knows the teacherâ€™s pet gets the gold
-starâ€”weâ€™re not above favouritism. As always, weâ€™re open to a range of
+Let’s make SUMMER SCHOOL about more than an easy A. Look to our mandate as
+a kind of rubric, and notice we’re prone to favouring evaluative,
+accessible writing. Everyone knows the teacher’s pet gets the gold
+star—we’re not above favouritism. As always, we’re open to a range of
 formats, particularly encouraging experimentation and hybrid forms of
 criticism. Feel free to keep it formally relaxed. Before we send you off to
 your studies, a reminder that bonus points are awarded to texts that

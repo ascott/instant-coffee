@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 8
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Family Day | JUN 18"
 ---
 

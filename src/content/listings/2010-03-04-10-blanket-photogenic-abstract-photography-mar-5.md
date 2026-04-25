@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 10
 type: ""
+venue: "Blanket"
 summary: "Blanket | Photogenic: Abstract Photography | MAR 5"
 ---
 
@@ -11,13 +12,13 @@ BLANKET
 
 Photogenic: Abstract Photography
 Markus Amm, Walead Beshty, Liz Deschenes,
-Lorna Macintyre, LÃ¡szlÃ³ Moholy-Nagy, Mark Soo, and James Welling
+Lorna Macintyre, László Moholy-Nagy, Mark Soo, and James Welling
 
 March 5 - April 10, 2010
 Opening Reception Friday March 5, 2010 6-9 pm
 
 Blanket is pleased to present a group exhibition of works by Markus Amm,
-Walead Beshty, Liz Deschenes, Lorna Macintyre, LÃ¡szlÃ³ Moholy-Nagy, Mark Soo,
+Walead Beshty, Liz Deschenes, Lorna Macintyre, László Moholy-Nagy, Mark Soo,
 and James Welling. The exhibition aims to look at diverse conceptual
 inquiries driving artists to investigate the application of abstraction in
 photography today. Beyond a set of formal similarities, the artists share
@@ -94,7 +95,7 @@ Harris Lieberman, New York, Francesca Kaufmann, Milan, Italy, Gagosian
 Gallery, New York and Akureyrar Art Museum, Iceland. Macintyre lives and
 works in Glasgow, UK.
 
-LÃ¡szlÃ³ Moholy-Nagy (born 1895, Bacsbarsod, Hungary - died 1946, Chicago) is
+László Moholy-Nagy (born 1895, Bacsbarsod, Hungary - died 1946, Chicago) is
 Hungarian painter, photographer, and art teacher. After studying law in
 Budapest, he went to Berlin in 1919, and in 1923 he took charge of the metal
 workshop of the Bauhaus as well as the Bauhausbook series of publications.
@@ -131,7 +132,7 @@ Los Angeles.
 
 The gallery would like to thank all participating artists, Miguel Abreu
 Gallery and Wallspace Gallery in New York, Karin Gunther Gallery in Hamburg,
-Mary Mary in Glasgow, Regen Projects in Los Angeles, the estate of LÃ¡szlÃ³
+Mary Mary in Glasgow, Regen Projects in Los Angeles, the estate of László
 Moholy-Nagy and Daniel Hug for making this exhibition possible.
 
 For more information please contact the gallery: info@blanketgallery.com or

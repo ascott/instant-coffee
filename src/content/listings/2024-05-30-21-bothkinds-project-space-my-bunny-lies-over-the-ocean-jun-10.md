@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 21
 type: "EVENT"
+venue: "Bothkinds Project Space"
 summary: "Bothkinds Project Space | My Bunny Lies over the Ocean | JUN 10"
 ---
 

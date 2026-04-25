@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 6
 type: "OPENING"
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | BC Almanac(h) C-B | SEP 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 23
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | for the trees | Sarah Davidson | APR 13"
 ---
 

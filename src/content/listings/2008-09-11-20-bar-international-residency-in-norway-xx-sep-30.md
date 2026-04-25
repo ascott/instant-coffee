@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 20
 type: ""
+venue: "bar international"
 summary: "bar international | Residency in Norway ||XX | SEP 30"
 ---
 
-Pikene pÃ¥ Broen (Girls on the Bridge) is happy to announce the BAR
+Pikene på Broen (Girls on the Bridge) is happy to announce the BAR
 International artist-in-residency program open!
 BAR International invites artists from the Barents Region, Nordic countries
 and internationally to explore the Barents borderland in transition.
@@ -17,13 +18,13 @@ decisions and a laboratory for creative solutions to economic, cultural and
 social challenges in the border region.
 BAR facilitates art-production and mediation in the Barents Region: both
 studio-based work/research and artistic process in public space. BAR is
-connected to other projects produced by Pikene pÃ¥ Broen: the annual winter
+connected to other projects produced by Pikene på Broen: the annual winter
 festival Barents Spektakel and the Barents Art Triennial. These events
 become presentation arenas for works produced under art-residency.
 BAR is a 3-year project that was started in 2008. It is part of the Nordic
 AiR network, and is supported by the Nordic Culture Point, Norwegian Arts
 Council, Barents Secretariat, Norwegian Ministry of Foreign Affairs,
-Finnmark County and SÃ¸r-Varanger Municipality.
+Finnmark County and Sør-Varanger Municipality.
 Artists are invited to apply for an artist-in-residency in Kirkenes for a
 period of 1 to 6 months.
 BAR covers costs for your travel to Kirkenes, per diems, accommodation and
@@ -43,7 +44,7 @@ reply within 10 days after we receive your application.
 A new application policy for 2009-2010 will be announced. The application
 can be sent by e-mail to pikene@pikene.no (please, put â&#65533;&#65533;BAR Internationalâ&#65533;&#65533;
 in the subject of your e-mail),
-or by regular mail to: Pikene pÃ¥ Broen, Box 180, N-9915 Kirkenes, Norway
+or by regular mail to: Pikene på Broen, Box 180, N-9915 Kirkenes, Norway
 
 For more information:
 www.barinternational.no
@@ -62,6 +63,6 @@ globalised. From static to dynamic, from closed to open, from monocultural
 to multicultural, from masculine to feminine.
 Kirkenes has become a real bordertown, with trade and movement across the
 borders. Kirkenes has become a laboratory for a new time. It used to be a
-physical and psychological disadvantage. But not any more. Now itÂ´s an
+physical and psychological disadvantage. But not any more. Now it´s an
 interesting place at the forefront of exploding the closed and controlled
 national borders.â&#65533;&#65533; (Morten StrÃ¸ksnes, writer and historian, 2003)

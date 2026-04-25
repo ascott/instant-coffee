@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 21
 type: "CALL"
+venue: "Galvanized Suns"
 summary: "Galvanized Suns | Call for Submissions | AUG 31"
 ---
 

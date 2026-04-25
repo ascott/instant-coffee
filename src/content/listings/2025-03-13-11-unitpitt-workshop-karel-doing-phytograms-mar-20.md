@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 11
 type: "EDUCATION"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | [WORKSHOP] Karel Doing: Phytograms | MAR 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 19
 type: "CALL"
+venue: "Buddies In Bad Times Theatre"
 summary: "Buddies In Bad Times Theatre | CALL FOR SUBMISSIONS | OCT 14"
 ---
 

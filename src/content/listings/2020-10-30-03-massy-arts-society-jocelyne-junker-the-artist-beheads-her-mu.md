@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Massy Arts Society"
 summary: "Massy Arts Society | Jocelyne Junker - The Artist Beheads Her Muse | OCT 23"
 ---
 

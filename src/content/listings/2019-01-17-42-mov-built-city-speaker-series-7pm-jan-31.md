@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 42
 type: "TALK"
+venue: "MOV"
 summary: "MOV | Built City Speaker Series | 7PM | JAN 31"
 ---
 

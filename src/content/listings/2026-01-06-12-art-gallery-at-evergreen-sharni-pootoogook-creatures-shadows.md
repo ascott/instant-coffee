@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 12
 type: "EVENT"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Sharni Pootoogook: Creatures, Shadows, Dreams | JAN 10"
 ---
 

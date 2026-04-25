@@ -476,7 +476,7 @@ practices, these conversations will build upon each other to generate
 discussion about art and ideas.
 
 This edition features Berlin- and Hanover-based artist and writer Patricia
-Reed. Since receiving her BFA from Concordia University, MontrÃ©al, Reed has
+Reed. Since receiving her BFA from Concordia University, Montréal, Reed has
 participated in the research and residency programs of the Centre for
 Contemporary Art Kitakyushu, Japan (2001-02); CCA Jeleni, Prague, Czech
 Republic (2003); Akademie Schloss Solitude, Stuttgart Germany (2003-04,

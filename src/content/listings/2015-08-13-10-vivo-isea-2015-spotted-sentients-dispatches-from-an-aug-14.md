@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 10
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | ISEA 2015 : SPOTTED SENTIENTS: DISPATCHES FROM AN | AUG 14"
 ---
 
@@ -14,15 +15,15 @@ historical situation within an interim of crisis and flux. In a period of
 social, political, industrial and environmental impasse, broad and 
 diverse groups of people have been formally committed to a haphazard 
 exploration of un/de-regulated interstices of the physical and the virtual 
-in hopes of finding work-arounds, new grades of pay dirtâ€”and perhaps 
+in hopes of finding work-arounds, new grades of pay dirt—and perhaps 
 even the odd revolutionary silver bullet.
 
 In over 40 years of existence, VIVO has aspired to foster, whenever 
 possible, the space of tenuous creative exploration that is traced out by 
-ISEAâ€™s thematics. Often, such space issues forth prototypes with spiky 
+ISEA’s thematics. Often, such space issues forth prototypes with spiky 
 cyberpunk physicality: clunky, not yet streamlined, grotesque, speckled 
 with the historically residual. Several of the works featured at VIVO are 
-deliberately rudimentaryâ€”playful but also underdetermined to the end 
+deliberately rudimentary—playful but also underdetermined to the end 
 of making much space for their interlocutors. Both work and platform, 
 they are typically simple and crude metaphors and metonyms that 
 nonetheless touch on profound questions of subjecthood and 
@@ -32,7 +33,7 @@ Ongoing installation works:
 
 We Are With You
 Brady Marks
-An intrinsic quality of a two-dimensional image is itâ€™s single point of 
+An intrinsic quality of a two-dimensional image is it’s single point of 
 view. Much of visual art has struggled against this flatness, most 
 successfully in sculpture, film and mixed media. However, recent 3D 
 Film/TV (stereoscopic displays) have failed to add a significant point of 
@@ -64,8 +65,8 @@ Three Hollywood Grammars: Conversation, Chase, Shootout
 Angela Ferraiolo
 Three Hollywood Grammars is a computational video made by 
 deconstructing three classic scenes from Hollywood cinema: the A/B 
-walk-and-talk conversation essential to police procedurals, the â€˜mano Ã  
-manoâ€™ shootout of neo-noir thrillers, and the gritty urban chase scene of 
+walk-and-talk conversation essential to police procedurals, the ‘mano à 
+mano’ shootout of neo-noir thrillers, and the gritty urban chase scene of 
 70s Hollywood realism. Each of these iconic cinematic patterns was 
 deconstructed, edited, color graded, and exported as single frames. 
 For exhibition, these frames are then reconfigured through the use of 
@@ -84,7 +85,7 @@ Angela Ferraiolo is an experimental videomaker working with noise,
 randomness, and generative processes. Her work has been screened 
 at galleries and festivals nationally and internationally, including 
 Microscope Gallery (Bushwick), New York Film Festival (New York), 
-Courtisane (Ghent), AWXFF (New York), CollectÃ¬f Jeune Cinema 
+Courtisane (Ghent), AWXFF (New York), Collectìf Jeune Cinema 
 (Paris), and the Australian Experimental Film Festival (Melbourne), as 
 well as the International Conference of Generative Art (Rome), and the 
 International Conference of Computer Graphics, Imaging and 
@@ -110,12 +111,12 @@ the forms of mechanical amplification on display and it describes the
 situation of the piece itself as a platform for multiple experiences of 
 gain staging.
 
-Ed Osbornâ€˜s sound art pieces take many forms including installation, 
+Ed Osborn‘s sound art pieces take many forms including installation, 
 sculpture, radio, video, performance, and public projects. His works 
 combine a visceral sense of space, aurality, and motion with a precise 
 economy of materials. Ranging from rumbling fans and sounding train 
 sets to squirming music boxes and delicate feedback networks, 
-Osbornâ€™s kinetic and audible pieces function as resonating systems 
+Osborn’s kinetic and audible pieces function as resonating systems 
 that are by turns playful and oblique, engaging and enigmatic. Osborn 
 has performed, exhibited, and lectured, and held residencies 
 throughout the United States, Canada, Europe, Australia, New 
@@ -169,10 +170,10 @@ domain of the flesh.
 Tom Slater is an artist and researcher who works with digital media and 
 physical computing to build immersive audiovisual environments. 
 Currently a director of Call & Response and PhD researcher at 
-University College Falmouth, Tomâ€™s creative practice revolves around 
+University College Falmouth, Tom’s creative practice revolves around 
 how sound and image producing technologies affect our understanding 
 of spatial dis/embodiment.
-Jeremy Keenanâ€˜s practice has manifested as sonic art, music, 
+Jeremy Keenan‘s practice has manifested as sonic art, music, 
 multichannel sound, and immersive performance. His current line of 
 practice surrounds ideas of feedback, the reconfiguration of familiar 
 audio tools like speakers and microphones, and the communicative 
@@ -184,8 +185,8 @@ to the anthropologist of the same name.
 
 Addendum to Coincidence Engines
 Emmanuel Madan
-The piece is part of Madanâ€™s ongoing engagement as part of the 
-MontrÃ©al-based collective [The User] with the ideas of GyÃ¶rgy Ligeti 
+The piece is part of Madan’s ongoing engagement as part of the 
+Montréal-based collective [The User] with the ideas of György Ligeti 
 surrounding determinacy and indeterminacy in complex mechanical 
 systems. The performer selects from a large pool of ostensibly identical 
 clocks, placing these on one of several metal surfaces to which contact 
@@ -200,10 +201,10 @@ Approximate
 demarcator of constellations in other cosmos.
 
 Emmanuel Madan is a composer, sound artist, and curator based in 
-MontrÃ©al. He studied electro-acoustic composition in the early 1990s 
+Montréal. He studied electro-acoustic composition in the early 1990s 
 under the direction of Francis Dhomont. He then spent five years 
 working in community radio broadcasting as an engineer, journalist, 
-and producer. Since 1998, Madanâ€™s main focus has been an artistic 
+and producer. Since 1998, Madan’s main focus has been an artistic 
 collaboration with architect Thomas McIntosh known by the name [The 
 User]. To date, this duo has produced three major projects: Symphony 
 for dot matrix printers, Silophone, and Coincidence Engines. 

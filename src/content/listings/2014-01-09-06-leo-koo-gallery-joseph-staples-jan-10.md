@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 6
 type: ""
+venue: "Leo Koo Gallery"
 summary: "Leo Koo Gallery | Joseph Staples | JAN 10"
 ---
 
@@ -15,8 +16,8 @@ Curated by Wil Aballe
 Opening reception: Friday, January 10th, 7 - 9pm
 Exhibition: January 10th - February 1st, 2014
 
-Since the early 00â€™s, under the moniker Office Supplies Incorporated, 
-Joseph Staplesâ€™ practice has been based in work made for the street. 
+Since the early 00’s, under the moniker Office Supplies Incorporated, 
+Joseph Staples’ practice has been based in work made for the street. 
 He began extensive experiments with collages, working with black and 
 white photocopies and screen prints he put up on walls around the city. 
 As Staples worked with the technique, he began to develop a theory of 
@@ -24,7 +25,7 @@ the collage, encapsulated by a tight set of parameters. The most
 persistent and key idea was simply to use a single image to build 
 many.
 
-In this new body of work, Staplesâ€™ focus has changed to where the 
+In this new body of work, Staples’ focus has changed to where the 
 image has become less important than the line made by cutting. With 
 the image gone, the trace remains of process are what have become 
 significant. The space between two images collaged together is only as 
@@ -43,8 +44,8 @@ sections remaining becomes a limited but flexible lexicon of form to
 allow for experimental compositions. In the way the Dadists in the 20's 
 and Burroughs in the 60's wanted to break up language's structure in 
 new ways to attempt to disrupt cohesion to allow for fresh thinking 
-about poetry, Staplesâ€™ attempt is to free himself and the viewer from 
-the way his and other artistsâ€™ collage look at juxtaposition and contrast. 
+about poetry, Staples’ attempt is to free himself and the viewer from 
+the way his and other artists’ collage look at juxtaposition and contrast. 
 The large format collages presented will expand on the syntax Staples 
 has created over the last decade.
 

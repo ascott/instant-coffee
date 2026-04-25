@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 26
 type: "OPENING"
+venue: "Crescent Beach Pop-Up Gallery"
 summary: "Crescent Beach Pop-Up Gallery | indigenous artists only | 7-9PM | OCT 19"
 ---
 

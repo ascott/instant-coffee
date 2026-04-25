@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 30
 type: ""
+venue: "Terra Vivente Art Studio, Italy"
 summary: "Terra Vivente Art Studio, Italy | call for applications: residency | APR 1"
 ---
 
@@ -29,12 +30,12 @@ Terra Vivente Art Studio
 31. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
 Blumin Warehouse | 
-Blumin Warehouse is a co-working space for writers. This dedicated writersâ€™ 
+Blumin Warehouse is a co-working space for writers. This dedicated writers’ 
 centre will act as a community to provide members with the synergy and 
 support needed to refine their work. Blumin will offer semi-private, 
 customizable space for members, with WiFi, fresh coffee, printing and 
 photocopy facilities 24 hours a day, seven days a week. Directors Carol 
-Shillibeer, Carleigh Baker and Candie Tanaka are all graduates of The Writerâ€™s 
+Shillibeer, Carleigh Baker and Candie Tanaka are all graduates of The Writer’s 
 Studio Program at Simon Fraser University.
 
 Tanaka approached the Chinatown Experiment with the concept of setting up 
@@ -47,7 +48,7 @@ this event, contact them at director@bluminwarehouse.com
 
 A desk in the front window of the Pop Up Shop will be available all weekend 
 for writers who need a quiet space to work. All three Blumin directors will be 
-onsite to answer any questions you have about the writersâ€™ centre. 
+onsite to answer any questions you have about the writers’ centre. 
 
 Dates: Jan 25-26 - 10am-11pm
 

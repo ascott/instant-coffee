@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 13
 type: ""
+venue: "VAG"
 summary: "VAG | Expanding Horizons tour by John O'Brian | NOV 17"
 ---
 

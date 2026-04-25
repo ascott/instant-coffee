@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 25
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Curators Talk: Ian Thom | MAR 21"
 ---
 

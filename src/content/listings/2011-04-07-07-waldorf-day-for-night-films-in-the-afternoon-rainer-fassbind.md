@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 7
 type: ""
+venue: "WALDORF Day for Night: Films in the Afternoon"
 summary: "WALDORF Day for Night: Films in the Afternoon | Rainer Fassbinder's \"Berlin | APR 10"
 ---
 
@@ -28,7 +29,7 @@ Episodes Four & Five of Berlin Alexanderplatz (1980)
 5. Reaper With the Power of Our Lord
 
 Berlin Alexanderplatz is the summa of Fassbinder's art and the
-culmination of his lifelong relationship with Alfred DÃ¶blin's
+culmination of his lifelong relationship with Alfred Döblin's
 monumental novel of Berlin in the 1920s, a book he said 
 was "embedded
 in my mind, my flesh, my body as a whole, and my soul." Originally

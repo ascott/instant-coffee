@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 35
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Pacific Spirit United Church | Stefano Maiorana: Secret Pages for theorbo | 8PM | APR 26"
 ---
 

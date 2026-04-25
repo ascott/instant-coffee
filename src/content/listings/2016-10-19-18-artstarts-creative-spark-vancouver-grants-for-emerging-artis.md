@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like shoulder pads in a business s
 emailDate: "Wed, 19 Oct 2016 12:20:16 -0700"
 number: 18
 type: "CALL"
+venue: "Artstarts"
 summary: "Artstarts | Creative Spark Vancouver Grants for Emerging Artis | DEC 15"
 ---
 

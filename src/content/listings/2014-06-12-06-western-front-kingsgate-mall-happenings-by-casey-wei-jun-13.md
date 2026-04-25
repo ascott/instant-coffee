@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 6
 type: ""
+venue: "Western Front"
 summary: "Western Front | Kingsgate mall happenings by Casey Wei | JUN 13"
 ---
 

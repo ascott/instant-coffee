@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 13
 type: ""
+venue: "Western Front Society"
 summary: "Western Front Society | 40th Anniversary Auction Preview | MAR 6"
 ---
 

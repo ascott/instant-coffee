@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 61
 type: "EDUCATION"
+venue: "VIVO & Capture Photo Festival"
 summary: "VIVO & Capture Photo Festival | Cinematography: Ways of Seeing | APR 20"
 ---
 

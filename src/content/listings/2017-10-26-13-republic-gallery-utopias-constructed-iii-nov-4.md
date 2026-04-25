@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 13
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | UTOPIAS CONSTRUCTED III | NOV 4"
 ---
 

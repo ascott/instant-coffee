@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 28
 type: "EDUCATION"
+venue: "Silk Weaving Studio"
 summary: "Silk Weaving Studio | Beginner Weaving | 7-9PM | MAY 2"
 ---
 

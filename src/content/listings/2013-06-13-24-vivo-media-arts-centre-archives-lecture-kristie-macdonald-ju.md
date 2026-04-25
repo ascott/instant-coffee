@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 24
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Archives Lecture: Kristie MacDonald | JUN 19"
 ---
 
@@ -16,12 +17,12 @@ Date: Wednesday June 19, 2013. 7pm.
 Location: VIVO Media Arts Centre,1965 Main Street, Vancouver, BC V5T 3C1
 URL: http://grunt.ca/archives-lecture-by-kristie-macdonald-june-19/
 
-Vancouver, BC â€“ grunt gallery, Western Front and VIVO Media Arts Centre are
+Vancouver, BC – grunt gallery, Western Front and VIVO Media Arts Centre are
 pleased to announce that Kristie MacDonald will be presenting a talk on
 Canadian artist-run archives on Wednesday June 19, 2013 at 7pm. It will
-take place at VIVO Media Arts Centre. Her lecture, â€œTowards a History of
+take place at VIVO Media Arts Centre. Her lecture, “Towards a History of
 Artist-Run Archives in Canada: Traditional and Non-Traditional Forms,â€ 
-explores archives, collections and preservation initiatives within Canadaâ€™s
+explores archives, collections and preservation initiatives within Canada’s
 artist-run community.
 
 Since the advent of the artist-run movement in the late 1960s, ARCs have
@@ -30,7 +31,7 @@ artists shape cultural policy and affect the writing of art history.
 Kristie MacDonald will discuss how ARC archives are significant resources,
 allowing centres to memorialize their development, inform the history of
 artist-run culture at large, and contribute to the art historical dialogue
-from the artistâ€™s perspective.
+from the artist’s perspective.
 
 Her lecture will also explore how the grass-roots approach to archiving in
 ARCs is a powerful political act that fosters historical consciousness

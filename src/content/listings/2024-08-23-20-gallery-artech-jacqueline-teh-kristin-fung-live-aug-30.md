@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 20
 type: "PERFORMANCE"
+venue: "Gallery @ Artech"
 summary: "Gallery @ Artech | Jacqueline Teh & Kristin Fung LIVE | AUG 30"
 ---
 

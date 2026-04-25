@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 2
 type: ""
+venue: "Artspace"
 summary: "Artspace | Call to Contribute to Archives Lab"
 ---
 

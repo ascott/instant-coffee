@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 22
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Valérie Blass & Sonya Kelliher-Combs | 6PM | SEP 19"
 ---
 

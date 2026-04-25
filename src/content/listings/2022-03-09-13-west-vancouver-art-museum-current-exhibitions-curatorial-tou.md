@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 13
 type: "TALK"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Current Exhibitions Curatorial Tour | 10AM & 2PM | MAR 12"
 ---
 

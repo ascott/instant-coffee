@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 14
 type: "EVENT"
+venue: "Wantoo Lounge with New Forms"
 summary: "Wantoo Lounge with New Forms | Instant Coffee Light Bar @ISEA2015 | AUG 13"
 ---
 

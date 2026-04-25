@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 5
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | CAG | Missives presented by P. Staff and R. Simpson | FEB 12"
 ---
 

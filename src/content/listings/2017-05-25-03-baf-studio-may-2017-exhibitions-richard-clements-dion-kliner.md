@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 3
 type: "OPENING"
+venue: "BAF Studio May 2017 Exhibitions"
 summary: "BAF Studio May 2017 Exhibitions | Richard Clements | Dion Kliner | MAY 25"
 ---
 

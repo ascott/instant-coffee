@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 10
 type: "EVENT"
+venue: "Music Appreciation Society"
 summary: "Music Appreciation Society | Wednesday Afternoon Listening Events! | NOV 12"
 ---
 

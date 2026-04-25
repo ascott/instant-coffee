@@ -18,11 +18,11 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-11-20-05-index-gallery-susanna-browne-monique-levesque-nov-20">05. OPENING | INDEX GALLERY | Susanna Browne + Monique Levesque | NOV 20</a>
 <a href="/instant-coffee/listings/2014-11-20-06-skylight-gallery-the-visitor-vegetable-nov-20">06. OPENING | Skylight Gallery | THE VISITOR VEGETABLE | NOV 20</a>
 <a href="/instant-coffee/listings/2014-11-20-07-cag-artist-talk-shimabuku-nov-21">07. TALK | CAG | ARTIST TALK: Shimabuku | NOV 21</a>
-<a href="/instant-coffee/listings/2014-11-20-08-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">08. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjaminâ€™s Psychogeography | NOV 21</a>
+<a href="/instant-coffee/listings/2014-11-20-08-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">08. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjamin’s Psychogeography | NOV 21</a>
 <a href="/instant-coffee/listings/2014-11-20-09-vivo-destroy-vancouver-xi-nov-21">09. EVENT | VIVO | DESTROY VANCOUVER XI | NOV 21</a>
 <a href="/instant-coffee/listings/2014-11-20-10-artspeak-seurat-and-friends-nov-22">10. OPENING | Artspeak | Seurat and Friends | NOV 22</a>
 <a href="/instant-coffee/listings/2014-11-20-11-publication-new-star-books-and-the-or-gallery-loitersack-by-">11. PUBLICATION | New Star Books and the Or Gallery | Loitersack by Donato Mancini : booklaunch | NOV 22</a>
-<a href="/instant-coffee/listings/2014-11-20-12-pulpfiction-books-eath-and-dowling-a-poetry-reading-nov-22">12. EVENT | Pulpfiction Books | Eâ€™ATH and DOWLING: a poetry reading. | NOV 22</a>
+<a href="/instant-coffee/listings/2014-11-20-12-pulpfiction-books-eath-and-dowling-a-poetry-reading-nov-22">12. EVENT | Pulpfiction Books | E’ATH and DOWLING: a poetry reading. | NOV 22</a>
 <a href="/instant-coffee/listings/2014-11-20-13-screening-cineworks-and-the-contemporary-art-galleryfluid-fl">13. SCREENING | Cineworks and The Contemporary Art Galleryfluid | Fluid Frames | Ben Russell | NOV 23</a>
 <a href="/instant-coffee/listings/2014-11-20-14-vancouver-art-gallery-unscrolled-curators-tour-nov-25">14. EVENT | Vancouver Art Gallery | Unscrolled Curator's Tour | NOV 25</a>
 <a href="/instant-coffee/listings/2014-11-20-15-avenue-macro-paintings-nov-27">15. OPENING | AVENUE | Macro Paintings | NOV 27</a>
@@ -152,10 +152,10 @@ Morrison, Mengyao Liang, Josiah Westley, Rikke Goldbech.
 ------------------------------------------------------------------------
 Emily Carr University of Art + Design Annual Student Art Sale
 
-Emily Carr University of Art + Designâ€™s 41st annual Student Art Sale will
+Emily Carr University of Art + Design’s 41st annual Student Art Sale will
 be featuring works by up-and-coming artists and designers. Choose from a
 The Emily Carr Library and HUMN 311 are pleased to present Shift of
-Perspective and Co-Lab, two exhibitions from the Artistsâ€™ Books Collection.
+Perspective and Co-Lab, two exhibitions from the Artists’ Books Collection.
 
 Shift of Perspective
 
@@ -171,13 +171,13 @@ inherent fetishistic and material values, was in turn taken up by
 Conceptual artists.
 
 This adoption altered the use of photography in book design. While the
-conventional photo-essay did not disappear, artistsâ€™ books that
+conventional photo-essay did not disappear, artists’ books that
 internalized the coded space of the book as the structure for the creation
 of meaning began to emerge. This revelation is evident in the variety of
-approaches used in composing photo-based artistsâ€™ books as artists forged a
+approaches used in composing photo-based artists’ books as artists forged a
 new relationship between photography and the document.
 
-Shift of Perspective features a range of artistsâ€™ books that explore the
+Shift of Perspective features a range of artists’ books that explore the
 use of photography and text. The show contains work by N. E. Thing Company,
 Andrey Tarkovsky, Bernadette Corporation, Ken Lum, Martha Rosler, Elad
 Lassry, Sophie Calle and Duane Michals. The work on exhibition demonstrates
@@ -223,8 +223,8 @@ Junxiang Shao.
 ***
 
 Shift of Perspective and Co-Lab are the final two in a series of four
-exhibitions of work from the Emily Carr Libraryâ€™s Artistsâ€™ Books Collection
-and are presented as part of HUMN 311: The Practice of Artistsâ€™ Publishing.
+exhibitions of work from the Emily Carr Library’s Artists’ Books Collection
+and are presented as part of HUMN 311: The Practice of Artists’ Publishing.
 
 Emily Carr University Library
 
@@ -350,7 +350,7 @@ CAG, 555 Nelson Street, Vancouver
 http://www.contemporaryartgallery.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-11-20-08-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">08. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjaminâ€™s Psychogeography | NOV 21</a>
+<a href="/instant-coffee/listings/2014-11-20-08-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">08. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjamin’s Psychogeography | NOV 21</a>
 ------------------------------------------------------------------------
 Professor Tyrus Miller, University of California, Santa Cruz
 
@@ -500,7 +500,7 @@ events@vivomediaarts.com
 
 MATT BROWNING, JORDY HAMILTON, GYUN HUR
 
-November 22, 2014â€“January 10, 2015
+November 22, 2014–January 10, 2015
 Opening Friday, November 21, 8pm
 
 He has just graduated from his masters degree in fine arts. The opening for
@@ -521,7 +521,7 @@ Artspeak,
 
 233 Carrall Street
 Vancouver, BC, V6B 2J2
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm
 http://www.artspeak.ca
 
 ------------------------------------------------------------------------
@@ -530,7 +530,7 @@ http://www.artspeak.ca
 Loitersack by Donato Mancini : booklaunch
 
 Saturday November 22
-20:30â€“22:30
+20:30–22:30
 Or Gallery
 555 Hamilton St.
 
@@ -561,9 +561,9 @@ take you right to Hamilton/Cambie, barely a block from the Or. Ample time
 to amble downtown.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-11-20-12-pulpfiction-books-eath-and-dowling-a-poetry-reading-nov-22">12. EVENT | Pulpfiction Books | Eâ€™ATH and DOWLING: a poetry reading. | NOV 22</a>
+<a href="/instant-coffee/listings/2014-11-20-12-pulpfiction-books-eath-and-dowling-a-poetry-reading-nov-22">12. EVENT | Pulpfiction Books | E’ATH and DOWLING: a poetry reading. | NOV 22</a>
 ------------------------------------------------------------------------
-DEâ€™ATH and DOWLING: a poetry reading.
+DE’ATH and DOWLING: a poetry reading.
 
 Saturday November 22
 7:00 pm
@@ -573,7 +573,7 @@ Pulpfiction Books
 Please join us for an evening of sublime poetry by Amy De'Ath and Sarah
 Dowling.
 
-Amy Deâ€™Ath was born in Suffolk in 1985. Her poetry books include Lower
+Amy De’Ath was born in Suffolk in 1985. Her poetry books include Lower
 Parallel (Barque Press, 2014), Caribou (Bad Press, 2011), and Erec & Enide
 (Salt, 2010). With Fred Wah, she is the editor of a collection of poetry
 and poetics, Toward. Some. Air. (Banff Centre Press, 2014). Her critical
@@ -585,7 +585,7 @@ Territories.
 
 Sarah Dowling is the author of DOWN, Birds & Bees, and Security Posture,
 winner of the Robert Kroetsch Award for Innovative Poetry. Selections from
-her work appear in Iâ€™ll Drown My Book: Conceptual Writing by Women. Her
+her work appear in I’ll Drown My Book: Conceptual Writing by Women. Her
 critical work has appeared in American Quarterly, GLQ, Canadian Literature,
 Signs and elsewhere. Dowling is an Assistant Professor in the School of
 Interdisciplinary Arts and Sciences at the University of Washington Bothell.
@@ -745,14 +745,14 @@ AVENUE, 165 E. Hastings, Vancouver BC
 Macro Paintings,
 
 Transparent brushstrokes steer atop plastic paper, doing what they do best,
-aware of themselves, where they are, where theyâ€™re going. They map around,
+aware of themselves, where they are, where they’re going. They map around,
 move about, push around, gesture is navigated via vehicle of thin washes of
-pigment. They acknowledge each other, respecting each otherâ€™s distance when
+pigment. They acknowledge each other, respecting each other’s distance when
 needed but overstepping their boundary at the rise of a challenge. They are
 nomadic, provisional, adapting to change as they see fit.
 
 They congregrate to create forms collaboratively, macroscopically, at their
-own rhythm. Theyâ€™re timbres oscillate, layers of colour dimensionalizing
+own rhythm. They’re timbres oscillate, layers of colour dimensionalizing
 the substrate as each of them express the contingencies between them. Their
 collective structures are bodies, objects and spaces where affect can be
 projected onto.
@@ -771,11 +771,11 @@ Emily Carr University Lecture Hall | Room 301, South Building
 1400 Johnston Street, Granville Island
 
 Originally from Quebec City, Samuel Roy-Bois currently resides in
-Vancouver. He acquired his BFA from UniversitÃ© Laval in Quebec (1996) and a
-Masters Degree in Fine Arts from Concordia University in MontrÃ©al (2001).
+Vancouver. He acquired his BFA from Université Laval in Quebec (1996) and a
+Masters Degree in Fine Arts from Concordia University in Montréal (2001).
 His work has been presented at SFU Gallery, Carleton University Gallery,
-MusÃ©e dâ€™art contemporain de MontrÃ©al, Contemporary Art Gallery, MusÃ©e
-National des Beaux Arts du QuÃ©bec and Point Ã©phÃ©mÃ¨re in Paris. He is
+Musée d’art contemporain de Montréal, Contemporary Art Gallery, Musée
+National des Beaux Arts du Québec and Point éphémère in Paris. He is
 Assistant Professor in Creative Studies at UBC Okanagan.
 
 Roy-Bois is interested in the complex dynamics defining our relationship to
@@ -791,18 +791,18 @@ Carr University of Art + Design. It is free and open to the public.
 <a href="/instant-coffee/listings/2014-11-20-17-artspeak-catherine-pulkinghorn-home-dream-home-nov-28">17. OPENING | Artspeak | Catherine Pulkinghorn: Home Dream Home | NOV 28</a>
 ------------------------------------------------------------------------
 Catherine Pulkinghorn: Home Dream Home
-November 29, 2014 â€“ January 10, 2015
+November 29, 2014 – January 10, 2015
 
 Opening Reception Friday, November 28, 2014, 7:00 pm
 
 In Home Dream Home, Catherine Pulkinghorn integrates her reflections on
-becoming a first-time home buyer in Vancouverâ€™s thriving pre-sale
+becoming a first-time home buyer in Vancouver’s thriving pre-sale
 condominium market. With information gathered from industry professionals
 who responded to her invitation to collaboratively form an on-site,
 post-occupancy evaluation of her apartment, she interrogates the gap
 between rhetoric and reality in the home-buying experience and explores how
 even idealized projects promoted as providing an opportunity for
-affordability can be much more marketing than truth. Pulkinghornâ€™s ultimate
+affordability can be much more marketing than truth. Pulkinghorn’s ultimate
 aim is to distribute a set of research and findings to Vancouver citizens
 engaged in the (onerous) search for affordable housing. As meetings with
 participating designers, planners, developers, financiers, architects, and
@@ -846,7 +846,7 @@ LEE FRIEDLANDER
 
 THICK OF THINGS
 
-November 29, 2014 â€“ February 8, 2015
+November 29, 2014 – February 8, 2015
 
 Opening Reception; November 28, 7 pm
 
@@ -864,23 +864,23 @@ works.
 Friedlander is always in the thick of things. The photographs in this
 exhibition showcase the witty and quirky perspective through acute
 observations of social and natural landscapes. His densely layered pictures
-are full of reflections and interruptions â€“ what might be called
-photographic mistakes â€“ where one element dissolves into another in
+are full of reflections and interruptions – what might be called
+photographic mistakes – where one element dissolves into another in
 fragmented compositions. He captures the eccentricities of commonplace
 scenes: bizarre commemorative monuments, surreal mannequin displays, unruly
 landscapes framed through a rental car window, and chaotic scenes of
-backstage preparations at New York Fashion Week. Friedlanderâ€™s books
+backstage preparations at New York Fashion Week. Friedlander’s books
 included in "Thick of Things" reveal the scope and depth of his
 photographic projects and the ongoing significance of his publications.
 
 Lee Friedlander was born in 1934 in Aberdeen, Washington and has lived in
 the New York area since the 1950s. He has photographed almost every day
 since the late 1950s, and continues to be indefatigable with six new books
-currently in production and he still prints all his own photographs â€“ a
+currently in production and he still prints all his own photographs – a
 claim that can be made by few photographers today. Friedlander has
 exhibited widely since the early 1960s and is included in major museum
 collections worldwide. In 2005 the Museum of Modern Art, New York produced
-a major survey exhibition and comprehensive catalogue on Friedlanderâ€™s
+a major survey exhibition and comprehensive catalogue on Friedlander’s
 photography.
 
 Presentation House Gallery
@@ -928,7 +928,7 @@ Rochelle Goldberg
 
 The Local Link (Lust got in the way)
 
-November 28 â€“ February 14
+November 28 – February 14
 
 The Apartment is thrilled to present an exhibition of pivotal historic work
 by Vancouver photographer Vikky Alexander, all made in the 1980s.
@@ -937,12 +937,12 @@ religious diptychs and triptychs, the works in The Temptation of St Anthony
 are classic postmodern takes on objectification and temptation.
 
 The pioneering Vancouver artist and writer Ian Wallace relates how
-Alexanderâ€™s work is "an expression of the imaginary, wherein fantasies of
+Alexander’s work is "an expression of the imaginary, wherein fantasies of
 hope and utopia are acted out in the daydreams that call reality into
 question. These are collective fantasies and are linked to popular taste
 for images that transcend the everyday. The images of extreme beauty, which
 are ubiquitous in commodity culture, function as a cult of escape from the
-everydayâ€¦ Alexanderâ€™s work projects the raw indulgence that exists on the
+everyday… Alexander’s work projects the raw indulgence that exists on the
 inside of these fantasies, heightening our apprehension and anxieties of
 them from within."
 
@@ -975,8 +975,8 @@ body. This private system is not discrete.
 Chains of signification extend from a basic question: How to unlearn one
 self as surface? Shedding is a necessary peeling away while in the act of
 recovery. It starts on the outside and slowly removes its way in. The
-mapping out of self on virtual selfâ€“is a volatile convergence that will at
-any moment unravelâ€“â€“Hence there emerges an impulse to suspend this in
+mapping out of self on virtual self–is a volatile convergence that will at
+any moment unravel––Hence there emerges an impulse to suspend this in
 stone. Petrifcation is not a sudden fearful halt but the pivot of
 emergence. As the discard piles up, will it be brought to bear on the
 forces that held it on us, held us in place? Desire, degraded by this
@@ -990,7 +990,7 @@ Rochelle Goldberg
 
 The Local Link (Lust got in the way)
 
-November 28 â€“ Feb 14
+November 28 – Feb 14
 
 Opening reception Friday November 28, 8pm
 
@@ -1015,7 +1015,7 @@ Please note that seating is extremely limited.
 
 interdisciplinary works by
 CYNTHIA FLEUR BRONAUGH
-BARRY DOUPÃ‰
+BARRY DOUPÉ
 JULIA FREYER & PIETRO SAMMARCO
 a reading by
 ROXANNA BENNETT
@@ -1046,12 +1046,12 @@ history and administration, debuts MESSAGE, a short slide show of images
 and text which comment on some underlying and misguided advice, words of
 wisdom, deep thoughts and self affirmations culled from media sources.
 
-BARRY DOUPÃ‰, a Vancouver-based artist primarily working with computer
+BARRY DOUPÉ, a Vancouver-based artist primarily working with computer
 animation, reads a script from an in-progress work.
 
 JULIA FREYER & PIETRO SAMMARCO, editors of the online audio zine Spoox,
 solicit your help to record the sound of a crowd pictured in a video clip
-theyâ€™ve found. The finished recording will be included in the next issue of
+they’ve found. The finished recording will be included in the next issue of
 Spoox.
 
 ROXANNA BENNETT, a non-fiction writer and artist-educator living outside of
@@ -1067,12 +1067,12 @@ context. How do potentialities of self find expression in foreign
 environments that are seemingly limitless?
 
 HEIDI MAY, an interdisciplinary artist and researcher currently residing in
-Columbus, Georgia, debuts a short video that explores the internetâ€™s
+Columbus, Georgia, debuts a short video that explores the internet’s
 process of becoming and addresses our desire for hyper attention.
 
 FAUX FANTASY, the moody, synth-driven pop duo of VANESSA SORENSON & BEN
 WILSON, deliver a performance inspired by Austra, Trust, Com Truise, John
-Maus, Helmut Lachenmann, Man Ray, XeroxÂ® machines, venetian blinds, indoor
+Maus, Helmut Lachenmann, Man Ray, Xerox® machines, venetian blinds, indoor
 plants, Fujifilm Superia ISO 400 and air conditioning (their debut EP,
 Bouquet, was released in July of 2014).
 
@@ -1157,7 +1157,7 @@ Program dates: April 27, 2015-May 15, 2015
 Application deadline: January 14, 2015
 
 The Banff International Curatorial Institute's Critical Art Writing
-Ensemble will explore art writing as an aspect of literature â€“ exhibition
+Ensemble will explore art writing as an aspect of literature – exhibition
 catalogues can expand into short novels and stories; reviews into haikus
 and soliloquies that can transcend the ephemerality of quotidian journalism.
 
@@ -1168,10 +1168,10 @@ http://www.banffcentre.ca/programs/program.aspx?id=1558
 ------------------------------------------------------------------------
 Call for Submissions: Emerging Artist Research Residency 2015
 
-The University of Windsorâ€™s School of Creative Arts offers a one-month
+The University of Windsor’s School of Creative Arts offers a one-month
 Emerging Artist Research Residency. This program is an opportunity for
 emerging artists to: cultivate new ideas through research and production,
-access the schoolâ€™s resources and facilities, and explore arts and culture
+access the school’s resources and facilities, and explore arts and culture
 in the border region of Windsor/ Detroit.
 
 Resources available include; Sculpture Studio and equipment, Multi media,
@@ -1254,7 +1254,7 @@ If interested please contact Alex : alex@alexanderbell.ca or call 604-999-3619
 SELLing/WANTing/RENTing/SUBLETing/ANNOUNCing |
 Emily Carr University of Art + Design Annual Student Art Sale
 
-Emily Carr University of Art + Designâ€™s 41st annual Student Art Sale will
+Emily Carr University of Art + Design’s 41st annual Student Art Sale will
 be featuring works by up-and-coming artists and designers. Choose from a
 wide variety of original works: paintings, sculpture, prints, ceramics,
 photographs, wearable works, jewellery, cards, paper products, hand made

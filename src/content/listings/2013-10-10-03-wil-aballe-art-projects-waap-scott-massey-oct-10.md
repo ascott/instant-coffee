@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 3
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | WAAP | Scott Massey | OCT 10"
 ---
 

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 17
 type: ""
-summary: "Bric-Ã -brac studio | Call for Submission | JUN 25"
+venue: "Bric-à-brac studio"
+summary: "Bric-à-brac studio | Call for Submission | JUN 25"
 ---
 
 Call for Submissions: Open to international artists in all mediums
 
-Bric-Ã -brac studio is accepting participants for Keepsakes, a group show of 
+Bric-à-brac studio is accepting participants for Keepsakes, a group show of 
 small works. Each artist will submit one piece to be shown. Following the 
 closing of the exhibition, we will return each work--but to a different artist. 
 
@@ -33,7 +34,7 @@ TO SUBMIT: Email bric-a-brac@nadinemaher.com with:
 Deadline to email submissions: June 25th, 2014
 Following the June 25th Deadline, notified participants will then have until July 
 25th for their works to be received by snail-mail. There are no fees to submit, 
-aside from your cost to ship your work once selected. Bric-Ã -brac studio will 
+aside from your cost to ship your work once selected. Bric-à-brac studio will 
 cover the cost of returning to you a new work.
 
 Blog: http://bric-a-brac-studio.tumblr.com

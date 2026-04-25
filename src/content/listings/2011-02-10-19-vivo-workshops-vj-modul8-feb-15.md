@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 19
 type: ""
+venue: "VIVO WORKSHOPS"
 summary: "VIVO WORKSHOPS | VJ: Modul8 | FEB 15"
 ---
 

@@ -43,7 +43,7 @@ David Khang: (Vag) Anal Painting (2005)
 Performance Art Videos from the archives for grunt's 30th Anniversary
 
 WEEK 5: grunt gallery releases newly digitized Performance Videos
-â€“ Curated by Alex Pimm for grunt's 30th Anniversary.
+– Curated by Alex Pimm for grunt's 30th Anniversary.
 
 Full Video | David Khang, Vag (Anal) Painting (May 6, 2005)
 http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=404924128f&e=5a47416022
@@ -56,12 +56,12 @@ meaning deferred) against fixed readings of the body? ...I interrogate
 notions of tradition, authenticity and perceived cultural/linguistic
 'otherness'"
 
-â€“ Brunt Magazine, website.
+– Brunt Magazine, website.
 
 Other Links relating to David Khang and grunt gallery:
 
 Amelogenesis Imperfecta (How Deep is the Skin of Teeth) | Exhibition by
-David Khang at grunt gallery, Sept 6 â€“ 22, 2012.
+David Khang at grunt gallery, Sept 6 – 22, 2012.
 
 David Khang and the Frozen Grape | Fridge Magnates blog post, grunt's Board
 of Directors.
@@ -71,8 +71,8 @@ About the Project:
 Over the past three years, Alex Pimm has been overseeing the maintenance
 and archiving of grunt's collection of video documentation - recordings of
 performances, installations and various accompanying material that date
-back to gruntâ€™s first days. Pimm's selections emphasize grunt's extensive
-history of creating relationships between diverse communities â€“ including
+back to grunt’s first days. Pimm's selections emphasize grunt's extensive
+history of creating relationships between diverse communities – including
 local and international artists, First Nations artists and LGBTQ artists.
 
 grunt gallery will release a new video every Tuesday from July 21 - August
@@ -147,8 +147,8 @@ Enter via the alley (follow the signs!) and knock LOUDLY for entry.
 
 Join Project Space for our Monthly Open Studio presentation of
 "Electric Information Age," a survey of experimental paperbacks from
-the 1960s and 70sâ€”inspired by Vancouver Art/Book Fair exhibitor
-Inventory Press' publication The Electric Information Age Bookâ€”
+the 1960s and 70s—inspired by Vancouver Art/Book Fair exhibitor
+Inventory Press' publication The Electric Information Age Book—
 curated by Jaz Halloran and Stephane Bernard.
 
 "The Electric Information Age Book explores the nine-year window of
@@ -159,10 +159,10 @@ such as Quentin Fiore (The Medium Is the Massage, 1967) employed a
 variety of radical techniques-verbal visual collages and other
 typographic pyrotechnics-that were as important to the content as the
 text. The Electric Information Age Book is the first book-length history
-of this brief yet highly influential publishing phenomenon." â€” Inventory
+of this brief yet highly influential publishing phenomenon." — Inventory
 Press
 
-Books on view includeâ€”
+Books on view include—
 
 Inventory Press' titles:
 The Electric Information Age Book
@@ -183,7 +183,7 @@ door of 236 and enter around back in the alley. Knock loudly to be let
 in.
 
 Monthly Open Studio events are hosted every third Friday of the month
-and are organized by Project Spaceâ€™s Curatorial Collective. This edition
+and are organized by Project Space’s Curatorial Collective. This edition
 was organized by Jaz Halloran.
 
 ------------------------------------------------------------------------
@@ -220,16 +220,16 @@ Initiative
 Aug 22, 2pm
 
 Maraya: Sisyphean Cart Roundtable Discussion
-August 4â€“29, 2015
+August 4–29, 2015
 M. Simon Levin, Glen Lowry and Henry Tsang
 
-Maraya: Sisyphean Cart is a mobile â€˜sousveillanceâ€™ cart that conducts a
-site-specific participatory spatial investigation of Vancouverâ€™s False
+Maraya: Sisyphean Cart is a mobile ‘sousveillance’ cart that conducts a
+site-specific participatory spatial investigation of Vancouver’s False
 Creek and the Dubai Marina. The project premiered at the 20th ISEA in Dubai
 in November 2014, and completes its second leg for ISEA 2015 in Vancouver.
 
 Meaning mirror or reflection in Arabic, Maraya focuses on the building of
-Vancouverâ€™s False Creek in the Arabian desert as the Dubai Marina. The
+Vancouver’s False Creek in the Arabian desert as the Dubai Marina. The
 Sisyphean Cart is the culmination of an ongoing investigation of these
 large-scale urban developments that share the same architects, engineers
 and urban planners by the Vancouver-based collaborative team of artists M.
@@ -239,8 +239,8 @@ Read more: http://221a.ca/maraya
 
 221A
 221 E Georgia St
-Tuesâ€“Fri 10amâ€“5pm
-Sat 12â€“5pm
+Tues–Fri 10am–5pm
+Sat 12–5pm
 Free and Open to Public
 
 ------------------------------------------------------------------------
@@ -405,10 +405,10 @@ Louis Cabri & Peter Quartermain project Celia & Louis Zukofsky
 The international University of British Columbia (UBC) Centre for Cultural
 Planning and Development is offering a new online professional development
 workshop Resourceful Design Innovation by Re-Imagining Existing Urban
-Assets, starting September 10. Donâ€™t miss the opportunity to learn from
+Assets, starting September 10. Don’t miss the opportunity to learn from
 international experts and expand your professional practice. This workshop
 can be taken individually for professional development, or applied to the
-UBC Certificate in Cultural Planning â€“ an international professional
+UBC Certificate in Cultural Planning – an international professional
 learning program delivered 100% online.
 
 Online Workshop: Resourceful Design Innovation by Re-Imagining Existing
@@ -425,7 +425,7 @@ and strategically to increase their functionality and improve the daily
 lives of local residents. From smaller examines of re-purposing materials
 and street structures to larger issues of re-imagining Main Streets, the
 workshop combines practical case studies with examples from the
-instructorâ€™s own international projects; looking at re-using, re-purposing
+instructor’s own international projects; looking at re-using, re-purposing
 and re-imagining a wide variety of urban assets in new and innovative ways.
 
 Instructors: Scott Burnham is an urban strategist and design director
@@ -465,7 +465,7 @@ Graeme Wahn
 
 Curated by Lyndsay Pomerantz
 
-â€˜I Was Trying to Describe You to Someoneâ€™ is the first installment of a
+‘I Was Trying to Describe You to Someone’ is the first installment of a
 multiple city exhibition being held in Winnipeg (C Space Gallery,
 August 28-September 4) and Vancouver (Avenue, September 24-30).
 
@@ -477,10 +477,10 @@ understanding of Winnipeg, Manitoba through means of documentation
 and research, correspondence, hypotheses, and storytelling.
 
 Employing photography, sculpture and video, notions of the unknown
-are confidently asserted obstructing oneâ€™s ability to differentiate
+are confidently asserted obstructing one’s ability to differentiate
 between fact and constructed narrative. Replication is used to trouble
 the recognizable and extraneous steps are taken to add layers that
-further heighten oneâ€™s awareness of what they should or should not
+further heighten one’s awareness of what they should or should not
 believe.
 
 'I Was Trying to Describe You to Someone' will present the work of a
@@ -529,7 +529,7 @@ of images as a means of exploring an internal realm of consciousness that
 responds to these particular arenas. These sites of affectation are fixed
 with an understanding of the limitations of belief and lived knowledge.
 
-The locations in Shapiroâ€™s exhibition are all contended sites of a
+The locations in Shapiro’s exhibition are all contended sites of a
 metaphysical renewal. These instances of energetic pulls that are felt
 rather than seen are pinned in her material understanding of the
 limitations that the photograph and camera have when recording. In this
@@ -595,7 +595,7 @@ photo collage.
 
 VANESSA BROWN is a Vancouver-based artist who works predominantly in
 sculpture and painting. She graduated with a BFA from Emily Carr University
-in 2013 and was the recipient of the Chancellorâ€™s Award. She has exhibited
+in 2013 and was the recipient of the Chancellor’s Award. She has exhibited
 in Canada and in Germany. Her recent exhibitions include Wil Aballe Art
 Projects, FIELD Contemporary, and Erin Stump Projects.
 
@@ -605,7 +605,7 @@ Projects, FIELD Contemporary, and Erin Stump Projects.
 ORGANIZATION DESCRIPTION
 Celebrating its 40th anniversary, Malaspina is a non-profit artist-run
 centre that advances education, promotes excellence in the art form, and
-increases the publicâ€™s understanding and appreciation of contemporary art
+increases the public’s understanding and appreciation of contemporary art
 and print media. Malaspina supports and promotes the contemporary visual
 arts through the critical and technical exploration of print media.
 Through the excellence of our facilities and programming, we create a
@@ -650,9 +650,9 @@ $24,000 plus benefits per year (part-time two year term with growth potential)
 Alex Morrison: Phantoms of a Utopian Will / Like Most Follies, More Than a
 Joke and More Than a Whim
 
-September 4 â€“ November 8, 2015
+September 4 – November 8, 2015
 
-BURNABY, BC â€“ The Burnaby Art Gallery (BAG), in collaboration with SFU Art
+BURNABY, BC – The Burnaby Art Gallery (BAG), in collaboration with SFU Art
 Gallery, is pleased to present Alex Morrison: Phantoms of a Utopian Will /
 Like Most Follies, More Than a Joke and More Than a Whim. The exhibition
 takes place from September 4 to November 8 at the BAG and from September 5
@@ -660,11 +660,11 @@ to December 11 at the SFU Art Gallery. The public is invited to the opening
 reception on Thursday, September 3 from 7-9pm at the Burnaby Art Gallery.
 An artist talk and free bus tour from Vancouver to SFU and Burnaby art
 galleries is also scheduled for Saturday, September 5 from 12-2pm, leaving
-from Vancouverâ€™s SFU Audain Gallery at noon.
+from Vancouver’s SFU Audain Gallery at noon.
 
 These tandem exhibitions present the work of Canadian artist Alex Morrison
 and include two newly commissioned projects, as well as works selected by
-the artist from the institutionsâ€™ collections. Morrisonâ€™s practice
+the artist from the institutions’ collections. Morrison’s practice
 investigates built environments and their often counter-cultural
 inhabitation. His analysis of architectural styles, the historical context
 of their construction and the evolution of their use over time, informs his
@@ -673,28 +673,28 @@ troubles not only historical and social narratives, but also the aesthetics
 of cultural identification.
 
 Through his exhibitions at SFU and the BAG, Morrison considers how the West
-Coastâ€™s iteration of the Arts and Crafts movement, as well as Arthur
-Ericksonâ€™s brand of domestic post-modernism, eventually became fashionable
-and now survive as the â€˜house
-stylesâ€™ on the West Coast. At the BAG, Morrison has worked closely with
+Coast’s iteration of the Arts and Crafts movement, as well as Arthur
+Erickson’s brand of domestic post-modernism, eventually became fashionable
+and now survive as the ‘house
+styles’ on the West Coast. At the BAG, Morrison has worked closely with
 ceramics artist Maggie Boyd in creating a series of decorative earthenware
 plates which form part of a larger installation of sculptural furniture
 modeled after famous Arts and Crafts designs. Morrison has also been
 commissioned by the BAG to design a chandelier which will be permanently
-installed in the galleryâ€™s Fireside Room.
+installed in the gallery’s Fireside Room.
 
-Alex Morrison (1972) was born in Redruth, UK and curÂ­rently lives and works
+Alex Morrison (1972) was born in Redruth, UK and cur­rently lives and works
 in Brussels, Belgium. He recently exhibited his work in My House is my
-World at the KÃ¶lnischer Kunstverein (KÃ¶ln, Germany, 2012). His work was
-included in MelanÂ­chotopia at the Witte de With, RotÂ­terÂ­dam (2012),
-CatriÂ­ona JefÂ­fries, VanÂ­couÂ­ver (2012), ArtÂ­sÂ­peak, VanÂ­couÂ­ver (2010);
-Every LetÂ­ter in the AlphaÂ­bet, VanÂ­couÂ­ver (2010); and CSA Space, VanÂ­couÂ­ver
-(2009). His work was also included in the 2010 SydÂ­ney BienÂ­nial; and in It
-Is What It Is, National Gallery of Canada, Ottawa (2010); FolÂ­lowÂ­ing a
-Line, ConÂ­temÂ­poÂ­rary Art Gallery, VanÂ­couÂ­ver (2010); Cubes, Blocks and
-Other Spaces, MusÃ©e dâ€™art conÂ­temÂ­poÂ­rain de MonÂ­trÃ©al, (2009); GetÂ­ting
-Even, KunÂ­stverein HanÂ­nover(2009); and eXpoÂ­nenÂ­tial Future, MorÂ­ris and
-Helen Belkin Gallery, VanÂ­couÂ­ver (2008).
+World at the Kölnischer Kunstverein (Köln, Germany, 2012). His work was
+included in Melan­chotopia at the Witte de With, Rot­ter­dam (2012),
+Catri­ona Jef­fries, Van­cou­ver (2012), Art­s­peak, Van­cou­ver (2010);
+Every Let­ter in the Alpha­bet, Van­cou­ver (2010); and CSA Space, Van­cou­ver
+(2009). His work was also included in the 2010 Syd­ney Bien­nial; and in It
+Is What It Is, National Gallery of Canada, Ottawa (2010); Fol­low­ing a
+Line, Con­tem­po­rary Art Gallery, Van­cou­ver (2010); Cubes, Blocks and
+Other Spaces, Musée d’art con­tem­po­rain de Mon­tréal, (2009); Get­ting
+Even, Kun­stverein Han­nover(2009); and eXpo­nen­tial Future, Mor­ris and
+Helen Belkin Gallery, Van­cou­ver (2008).
 
 PUBLIC PROGRAMMING
 
@@ -702,7 +702,7 @@ Opening Reception: Thursday, September 3, 7-9pm
 Join us for the opening reception at the Burnaby Art Gallery. The evening
 will feature opening remarks, followed by a reception in our Fireside Room.
 
-Artist Talk and Bus Tour: Saturday, September 5, 12noon â€“ 2pm
+Artist Talk and Bus Tour: Saturday, September 5, 12noon – 2pm
 Free bus trip from Vancouver to SFU and Burnaby Art Galleries, leaving from
 SFU Audain gallery, Vancouver at 12noon. Pre-registration required, please
 book at sfugallery@sfu.ca.
@@ -816,10 +816,10 @@ http://thebakeryonfranklin.tumblr.com
 The international University of British Columbia (UBC) Centre for
 Cultural Planning and Development is offering a new online
 professional development workshop Arts and Social Change, starting
-September 29. Donâ€™t miss the opportunity to learn from international
+September 29. Don’t miss the opportunity to learn from international
 experts and expand your professional practice. This workshop can be
 taken individually for professional development, or applied to the UBC
-Certificate in Cultural Planning â€“ an international professional learning
+Certificate in Cultural Planning – an international professional learning
 program delivered 100% online.
 
 Online Workshop: Arts and Social Change
@@ -840,7 +840,7 @@ Instructors: Caron Atlas is Director of the Arts & Democracy Project
 and Co-Director of Naturally Occurring Cultural Districts New York
 (NOCD-NY). Gonzalo Casals is Vice-President of Public Programs and
 Community Engagement at Friends of The High Line, a non-profit
-organization that operates and programs one of Manhattanâ€™s most
+organization that operates and programs one of Manhattan’s most
 innovative public spaces.
 
 About the UBC Centre for Cultural Planning and Development
@@ -889,11 +889,11 @@ videodrunkfest@gmail.com
 ------------------------------------------------------------------------
 The Aboriginal Art Park Public Art Call is open to all Aboriginal artists
 and artist teams residing in Canada, and is held in accordance with the
-City of Edmonton policy â€œPercent for Art to Provide and Encourage Art in
+City of Edmonton policy “Percent for Art to Provide and Encourage Art in
 Public Areasâ€  (C458C). Artworks will in some way â€˜tell the stories of this
-placeâ€™ and respond to the land within the Aboriginal Art Park and/or the
-land in the Region through an engaged process with Edmontonâ€™s urban
-Aboriginal communities, Treaty No. 6 First Nations, MÃ©tis and local Elders
+place’ and respond to the land within the Aboriginal Art Park and/or the
+land in the Region through an engaged process with Edmonton’s urban
+Aboriginal communities, Treaty No. 6 First Nations, Métis and local Elders
 and knowledge holders.
 
 This Expression of Interest includes a two-stage selection process.
@@ -909,7 +909,7 @@ Deadline for Submissions:
 4:30 pm Monday, September 28, 2015
 
 Site Visit/Workshop for shortlisted artists:
-October 31 â€“November 1, 2015
+October 31 –November 1, 2015
 
 Artists Awarded Contracts:
 February 2016
@@ -918,9 +918,9 @@ All Art Installations:
 Fall 2017
 
 An INFORMATION SESSION will be held:
-Thursday, August 20, 2015 from 5:00 pm â€“ 8:00 pm
+Thursday, August 20, 2015 from 5:00 pm – 8:00 pm
 Canadian Native Friendship Centre 11728-95 Street, Edmonton, AB
-Please RSVP Dawn Saunders-Dahl or phone (780) 424â€“2787 ext. 229
+Please RSVP Dawn Saunders-Dahl or phone (780) 424–2787 ext. 229
 Visit the Facebook event for more information
 http://www.mailoutinteractive.com/Industry/Redirect.aspx?u=1263459&q=905515963&lm=63855551&r=709795&qz=bd1c42e19948cbe83fe938cac7fbb2cf
 
@@ -1021,7 +1021,7 @@ Are you a collaborative, creative artist looking to share studio space?
 Share 1000sq.ft studio space with four other women artists in the Herd of
 Women Studio at 1000 Parker Street.
 
-This space is best suited to an artist who doesnâ€™t need wall space, either
+This space is best suited to an artist who doesn’t need wall space, either
 for working or for displaying their work. It is next to a large, bright
 window and is approximately 100 ft. sq.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 26
 type: ""
+venue: "JOB"
 summary: "JOB | KPU | FINE ARTS INSTRUCTOR – PAINTING AND DRAWING. | JUN 3"
 ---
 

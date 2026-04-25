@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 24
 type: ""
+venue: "QuickTrack"
 summary: "QuickTrack | Get Paid to Animate Calgary | JUN 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 17
 type: "EVENT"
+venue: "CCBC Gallery"
 summary: "CCBC Gallery | Event Listing Submission (Serena Steel Artist Talk | AUG 30"
 ---
 

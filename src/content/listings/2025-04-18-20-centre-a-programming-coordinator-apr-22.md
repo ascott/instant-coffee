@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 20
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Programming Coordinator | APR 22"
 ---
 

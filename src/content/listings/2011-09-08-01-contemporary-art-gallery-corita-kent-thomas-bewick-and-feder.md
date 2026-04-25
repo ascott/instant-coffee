@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Corita Kent, Thomas Bewick and Federico Herrero plus 40th Birthday Bash | SEP 8"
 ---
 
@@ -36,13 +37,13 @@ Corita Kent was one of the most innovative pop artists in the 1960s
 and became internationally recognized for her brightly coloured 
 silkscreen prints. To create is to relate is the first major solo 
 exhibition in Canada of her work. Admired by Charles and Ray 
-Eames, Buckminster Fuller and John Cage, Kentâ€™s work was an 
+Eames, Buckminster Fuller and John Cage, Kent’s work was an 
 outlet for her spiritual and political beliefs, reflecting her desire for 
 social justice and peace during the period of the Vietnam War. As a 
 Sister of the Immaculate Heart of Mary in Los Angeles, she ran the 
 Art Department there until 1968.
 
-The exhibition focuses exclusively on Kentâ€™s silkscreen prints of the 
+The exhibition focuses exclusively on Kent’s silkscreen prints of the 
 1960s. She mixed contemporary advertising with the slogans, poetry 
 and song lyrics she experienced daily in Los Angeles, signaling her 
 belief that the urban environment - the commonplace - was far from 
@@ -70,7 +71,7 @@ Alvin Balkind Gallery
 The CAG will present the first exhibition in North America devoted 
 entirely to the vignettes of 18th century British wood engraver, artist 
 and naturalist Thomas Bewick. This presentation of historical work - 
-a first at the CAG - is intended to challenge the viewerâ€™s 
+a first at the CAG - is intended to challenge the viewer’s 
 understanding of what a contemporary art space should show, 
 building a bridge between image making techniques and 
 endeavors of different eras.
@@ -78,7 +79,7 @@ endeavors of different eras.
 Originally intended to be published in books about natural history - 
 not hung on gallery walls - many vignettes depict people 
 encountering different situations, often while traveling, working or 
-even crossing rivers and other obstacles. Bewickâ€™s more 
+even crossing rivers and other obstacles. Bewick’s more 
 introspective images frequently reveal human frailties: in one a 
 horse stops on the bank of a river to avoid falling into the water while 
 his rider is oblivious. With his workshop partner, Bewick produced 
@@ -89,7 +90,7 @@ presented each specimen by describing it in words and illustrating it
 with a printed image. In the time before photography such 
 illustrations served as scientific evidence. The grand idea of 
 publishing these books was to give ordinary people access to 
-information that until then was confined to the â€œlibraries of the 
+information that until then was confined to the “libraries of the 
 wealthy.â€ 
 
 Image:
@@ -111,8 +112,8 @@ Window Spaces
 
 Costa Rican artist Federico Herrero creates a major new 
 commission utilizing the windows of the CAG to transform the 
-faÃ§ade of the building. Vibrantes will reveal the performative aspect 
-of Herreroâ€™s practice. Akin to Matisse and his late paper cutouts, 
+façade of the building. Vibrantes will reveal the performative aspect 
+of Herrero’s practice. Akin to Matisse and his late paper cutouts, 
 Herrero will use sheets of coloured adhesive vinyl to develop this 
 exciting and dynamic piece evolving as a work in progress, allowing 
 visitors an opportunity to see the artist create while the exterior of the 
@@ -124,15 +125,15 @@ installation period.
 
 Image:
 Federico Herrero, Paisaje (2007), Parque Berrio, Bienal de Medellin 
-MDE007, Colombia. Courtesy of the artist and Sies + HÃ¶ke Galerie, 
-DÃ¼sseldorf.
+MDE007, Colombia. Courtesy of the artist and Sies + Höke Galerie, 
+Düsseldorf.
 
 Federico Herrero, 'Paisaje' (2007), Parque Berrio, 
 Bienal de Medellin MDE007, Colombia 
 
 Birthday Bash
 
-Thursday September 8th, 2011 marks the CAGâ€™s 40th birthday, 
+Thursday September 8th, 2011 marks the CAG’s 40th birthday, 
 please join us to celebrate. The Birthday Bash will follow the 
 exhibition opening and continue until 11 pm featuring music 
 provided by David Wisdom and additional birthday activities created 

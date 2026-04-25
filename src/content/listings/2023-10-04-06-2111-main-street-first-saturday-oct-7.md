@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 6
 type: ""
+venue: "2111 Main Street"
 summary: "2111 Main Street | First Saturday | OCT 7"
 ---
 

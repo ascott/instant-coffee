@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 28
 type: ""
+venue: "Britannia Community Services Centre Society"
 summary: "Britannia Community Services Centre Society | EAST FEAST | JUN 5"
 ---
 

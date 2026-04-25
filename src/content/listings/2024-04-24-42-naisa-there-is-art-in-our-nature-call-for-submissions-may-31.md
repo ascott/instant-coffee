@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 42
 type: "CALL"
+venue: "NAISA"
 summary: "NAISA | There is Art in Our Nature - Call For Submissions | MAY 31"
 ---
 

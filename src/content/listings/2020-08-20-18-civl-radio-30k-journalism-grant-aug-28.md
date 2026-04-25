@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 18
 type: "CALL"
+venue: "CIVL Radio"
 summary: "CIVL Radio | $30k Journalism Grant | AUG 28"
 ---
 

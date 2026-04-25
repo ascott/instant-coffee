@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 10
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | Pedestrian Protest | 6PM | JUN 25"
 ---
 

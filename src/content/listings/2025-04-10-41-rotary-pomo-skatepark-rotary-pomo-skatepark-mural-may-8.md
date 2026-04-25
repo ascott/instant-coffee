@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 41
 type: "CALL"
+venue: "Rotary PoMo Skatepark"
 summary: "Rotary PoMo Skatepark | Rotary PoMo Skatepark Mural | MAY 8"
 ---
 

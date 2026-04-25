@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 26
 type: "EVENT"
+venue: "Robin DuPont Ceramics"
 summary: "Robin DuPont Ceramics | Pop Up Exhibition | 3PM | SEP 17"
 ---
 

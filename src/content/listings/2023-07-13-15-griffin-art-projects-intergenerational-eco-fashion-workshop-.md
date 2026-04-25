@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 15
 type: ""
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Intergenerational Eco-fashion Workshop w Jaewoo K | JUL 15"
 ---
 

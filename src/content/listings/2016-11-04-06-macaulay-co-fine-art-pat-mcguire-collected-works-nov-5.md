@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Appenda...3"
 emailDate: "Fri, 04 Nov 2016 07:26:09 -0700"
 number: 6
 type: "OPENING"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Pat McGuire | Collected Works | NOV 5"
 ---
 

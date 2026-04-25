@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://friendsof439.wordpress.com/
 emailDate: "Fri, 13 Dec 2013 15:55:11 -0800"
 number: 9
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | How I Came to Spaceland, and What I Saw There | DEC 19"
 ---
 

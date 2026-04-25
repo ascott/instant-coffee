@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 19
 type: "EVENT"
+venue: "6331 Crescent Road, UBC"
 summary: "6331 Crescent Road, UBC | Symposium: Practices of Resistance | 3-6PM | FEB 28"
 ---
 

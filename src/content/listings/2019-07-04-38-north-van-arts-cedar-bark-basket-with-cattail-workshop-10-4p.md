@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 38
 type: "EDUCATION"
+venue: "North Van Arts"
 summary: "North Van Arts | Cedar Bark Basket with Cattail Workshop | 10-4PM | JUL 21"
 ---
 

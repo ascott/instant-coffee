@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 30
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Camille Turner and Jerome Havre | 2:30 PM | FEB 16"
 ---
 

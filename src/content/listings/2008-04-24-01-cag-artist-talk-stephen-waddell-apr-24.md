@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: communication is not our only not 
 emailDate: "Wed, 23 Apr 2008 22:00:25 -0700"
 number: 1
 type: ""
+venue: "CAG"
 summary: "CAG | Artist Talk: Stephen Waddell | APR 24"
 ---
 

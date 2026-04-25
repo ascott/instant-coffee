@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 26
 type: "OPENING"
+venue: "macaulay + co"
 summary: "macaulay + co | Dana Claxton : Rick and the Mohawks | 2PM | MAY 3"
 ---
 

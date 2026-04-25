@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the only way up is down"
 emailDate: "Thu, 11 Jun 2009 09:25:08 -0700"
 number: 8
 type: ""
+venue: "Vancouver Flying University"
 summary: "Vancouver Flying University | THE POLITICS OF ECONOMICS | JUN 16"
 ---
 

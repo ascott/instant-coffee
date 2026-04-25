@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 11
 type: ""
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | Emma Lehto | SEP 9"
 ---
 
@@ -19,22 +20,22 @@ The Gallery is located at 602 Hastings St E. Vancouver, BC
 Gallery FUKAI is pleased to announce Amended: Snicket, Lemony. 
 A Series of Unfortunate Events: A Bad Beginning. HarperCollins: 
 New York, NY. 1999. An installation by artist Emma lehto formed 
-from the physical deconstruction of the childrenâ€™s modern classic 
+from the physical deconstruction of the children’s modern classic 
 novel.
 
-Emma Lehtoâ€™s fascination with text and font has lead her down a 
+Emma Lehto’s fascination with text and font has lead her down a 
 path to use books in a way that most of us would never dare. Our 
-society and the education system weâ€™ve grown up with have always 
+society and the education system we’ve grown up with have always 
 implied and lectured us that books should never be altered, abused, 
 or destroyed.
 
-Initially at first glance, Emma Lehtoâ€™s use of books may appear to 
+Initially at first glance, Emma Lehto’s use of books may appear to 
 destroy the book, but on closer inspection this is not the simple 
 case. The viewer cannot help but begin to notice the dissection of 
 the rudimentary aspects or ingredients a book is made up of. 
 Words, space, paper, spine etc. are all isolated and laid out before 
 the viewer. This painstaking and intricately detailed process, much 
-like that of a surgeonâ€™s practice or chemistsâ€™ changes your 
+like that of a surgeon’s practice or chemists’ changes your 
 perception from the particular book being abused, to an in-depth 
 analysis into the fascination of bookmaking and passion for text.
 

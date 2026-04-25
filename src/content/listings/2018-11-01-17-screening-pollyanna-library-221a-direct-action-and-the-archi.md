@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Pollyanna Library @ 221A | Direct Action and the Archive | 3-5PM | NOV 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sand Praxis"
 emailDate: "Wed, 16 Dec 2020 06:15:08 -0800"
 number: 6
 type: "EXHIBITION"
+venue: "The Nikkei National Museum"
 summary: "The Nikkei National Museum | Broken Promises | DEC 19"
 ---
 

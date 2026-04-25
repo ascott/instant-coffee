@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 9
 type: "FUNDRAISER"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | BLOOM: party and silent art auction | JUN 10"
 ---
 

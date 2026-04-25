@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 13
 type: ""
+venue: "Windsor Gallery"
 summary: "Windsor Gallery | Paul Wong | JAN 18"
 ---
 
@@ -21,20 +22,20 @@ Join us at Winsor Gallery on January 18th (2-4pm) to take in Wong's new
 Winsor Gallery presents: 
 #paulwong2014 new workfeaturing photography, video and neon work by 
 Vancouver award winning media artist Paul Wong. The show runs from 
-January 16 â€“ February 15, 2014. Visitors to the gallery can expect a visual 
+January 16 – February 15, 2014. Visitors to the gallery can expect a visual 
 odyssey, one that is tapped directly into the hyper-mediated world in which 
 we all live.
 
-â€œPaul Wongâ€™s newest body of work is proof of his ubiquity. Through his 
+“Paul Wong’s newest body of work is proof of his ubiquity. Through his 
 mastery of exploiting social media he is everywhere all the time.â€  says gallery 
-owner Jennifer Winsor. â€œHis work highlights how integrated society has 
+owner Jennifer Winsor. “His work highlights how integrated society has 
 become using these new tools and leads one to question, are we controlling 
 these applications or do they control us?â€ 
 
-#paulwong2014 explores the artistâ€™s incessant image making through a 
+#paulwong2014 explores the artist’s incessant image making through a 
 monumental installation entitled Looking, Looping & Listening. With over 300 
 loops created from animated .gif's and short video clips, this piece spans the 
-length of the major wall in Winsorâ€™s West Gallery. It is made up of forty 10 x 
+length of the major wall in Winsor’s West Gallery. It is made up of forty 10 x 
 12â€  video screens, each one providing direct access to Wongâ€™s life. The artist 
 is no stranger to image making as he has been documenting all aspects of his 
 life in the name of art for over 30 years.

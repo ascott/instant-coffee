@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 17
 type: "TALK"
+venue: "FIELD Satellite"
 summary: "FIELD Satellite | In Conversation, Kuh Del Rosario and Scott Lewisw | NOV 18"
 ---
 

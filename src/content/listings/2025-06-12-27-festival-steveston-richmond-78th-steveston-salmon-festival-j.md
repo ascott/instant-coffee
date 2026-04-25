@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 27
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Steveston, Richmond | 78th Steveston Salmon Festival | JUL 1"
 ---
 

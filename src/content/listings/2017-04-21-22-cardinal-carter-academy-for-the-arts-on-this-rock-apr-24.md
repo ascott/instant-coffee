@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 22
 type: "CALL"
+venue: "Cardinal Carter Academy for the Arts"
 summary: "Cardinal Carter Academy for the Arts | ON THIS ROCK | APR 24"
 ---
 

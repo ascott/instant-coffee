@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 8
 type: "EVENT"
+venue: "Project Space"
 summary: "Project Space | Switchblades & River Children | JAN 16"
 ---
 
@@ -38,12 +39,12 @@ the Vancouver Art Gallery. Gradin was formerly the music editor for the
 print magazine Color, which featured art, music and skateboarding. He has
 published seven art books, and has self-published dozens of zines. Gradin
 has also been active in the community, running several artist and
-performance spaces, from L.A.Ã¢â‚¬â„¢s Mime School to VancouverÃ¢â‚¬â„¢s Emergency Room.
+performance spaces, from L.A.â€™s Mime School to Vancouverâ€™s Emergency Room.
 
 Nathan Jones is an artist, curator and one of the founding members of Print
 Ready, an ongoing Vancouver-based zine and art book exhibition series. He
 has a B.A. from Emily Carr University of Art + Design and a B.Ed. from
-Simon Fraser University. JonesÃ¢â‚¬â„¢ art practice has its foundation in drawing
+Simon Fraser University. Jonesâ€™ art practice has its foundation in drawing
 and painting. He has worked in a wide breadth of media, including
 independent and commercial film, musical performance, illustration and
 design for print. His work has been exhibited in Vancouver, Montreal and

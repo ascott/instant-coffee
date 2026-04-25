@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 7
 type: ""
+venue: "ARTSPEAK & Fillip"
 summary: "ARTSPEAK & Fillip | Motto Storefront | MAY 15"
 ---
 
@@ -36,7 +37,7 @@ May 29: Talk by Rob Giampietro at 2pm
 Nieves Zine Library
 As a compliment to Motto Storefront, Artspeak and Fillip are very pleased
 to present the Nieves Zine Library, a selection of 100 zines published by
-Nieves, ZÃ¼rich between 2004 and 2010. Photocopied in editions of only a
+Nieves, Zürich between 2004 and 2010. Photocopied in editions of only a
 hundred or a hundred and fifty, and almost all long since out of print, the
 Nieves Zine Library includes publications by Ari Marcopoulos, Stefan Marx,
 Olga Prader, Mark DeLong, and many others. For more information see:
@@ -58,7 +59,7 @@ store is a natural progression from the traveling temporary bookshops that
 Motto has organized since 2007, first in Switzerland and then
 internationally including locations in Vilnius, Amsterdam, Rotterdam,
 Hamburg, Wiesbaden, Frankfurt, Moscow, Chicago, Seoul, Tokyo, Paris, and
-Stuttgart. In 2010, Motto opened a second store in ZÃ¼rich located in
+Stuttgart. In 2010, Motto opened a second store in Zürich located in
 Perla-Mode, a place with many other ongoing projects including Corner
 College and the Message Salon. Both Motto locations function as spaces for
 events dedicated to discussions around art publishing, graphic design,

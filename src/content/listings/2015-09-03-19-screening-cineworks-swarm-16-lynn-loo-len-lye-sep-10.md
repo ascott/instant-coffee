@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | SWARM 16: Lynn Loo Len Lye | SEP 10"
 ---
 
@@ -14,7 +15,7 @@ Experimental Films
 
 Cineworks Studio, 1131 Howe Street (lane entrance)
 Thursday September 10 - Friday September 11
-7.00pm â€“ 10.00pm, FREE
+7.00pm – 10.00pm, FREE
 Running time: 40 minutes, looped
 
 For SWARM 16, Cineworks presents a speculative interweaving of works by
@@ -31,7 +32,7 @@ London. Loo describes her films as compositions of images and sound that
 suggest narratives or convey an event without text or words.
 
 In 2004, she was introduced to films made by makers involved in the London
-Filmmakersâ€™ Co-op, particularly those active in the 1970s. This has
+Filmmakers’ Co-op, particularly those active in the 1970s. This has
 influenced her present work exploring the material capacities of celluloid
 and the spatial and performance-based qualities and possibilities that
 inhere in projection-based presentation. Since 2005, She has been creating
@@ -46,7 +47,7 @@ The New Zealand-born filmmaker, painter, kinetic sculptor, writer and
 genetic and experimental theorist, Len Lye, became a leading avant-garde
 artist in London and New York, bridging pre- and post-World War II
 movements and trends. Associated with many groundbreaking art groups,
-beginning with Londonâ€™s modernist Seven and Five Society in the 1920s, the
+beginning with London’s modernist Seven and Five Society in the 1920s, the
 International Surrealist Movement in the 1930s, and the Kinetic Art
 Movement in the 1960s, Lye is best remembered for his contributions to the
 development of hand-crafted abstract cinema. In the early 1930s he
@@ -57,10 +58,10 @@ from the British General Post Office (GPO), the Imperial Tobacco Company,
 Shell Motor Oil and Imperial Airways, his whimsical animated films of the
 mid- to late-1930s included original camera-less techniques, advertising
 slogans and dynamic musical rhythms. A fierce individualist and anarchistic
-thinker, Lye claimed that, â€œThere has never been a great film unless it was
+thinker, Lye claimed that, “There has never been a great film unless it was
 created in the spirit of the experimental filmmaker.â€  When applied to his
 seldom seen but formally inventive war effort films, this statement
-illuminates Lyeâ€™s under-recognised contribution to the British documentary
+illuminates Lye’s under-recognised contribution to the British documentary
 movement.
 
 Swarm is a 2-night event that marks the launch of Vancouver's artist-run

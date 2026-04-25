@@ -56,7 +56,7 @@ runs through January 16, 2011.
 
 The AGGV is home to a wide and diversified collection of ancient Chinese
 snuff bottles made from various materials like jade and other precious
-stones, metal, cloisonnÃ©, glass, ivory, ceramic, lacquer and bamboo. The
+stones, metal, cloisonné, glass, ivory, ceramic, lacquer and bamboo. The
 bottles are beautifully decorated and to this day highly sought after by
 collectors. Chinese opium boxes, made to fit in the palm of a hand, come
 in many shapes and were produced from a variety of materials, both organic
@@ -86,17 +86,17 @@ For more information, visit www.aggv.bc.ca or call 250-384-4171 begin_of_the_sky
 
 -30-
 
-Related Events â€“ All at AGGV
+Related Events – All at AGGV
 
-November 10, 1 p.m. â€“ Curatorâ€™s Tour: Miniature Arts of China and Japan
+November 10, 1 p.m. – Curator’s Tour: Miniature Arts of China and Japan
 with Curator of Asian Art, Barry Till
 
-November 18, 7 p.m. â€“ Screening: The Magical Life of Long Tack Sam, a
+November 18, 7 p.m. – Screening: The Magical Life of Long Tack Sam, a
 multi-award winning animated documentary and search for the life and times
-of director Ann Marie Flemingâ€™s great grandfather, a traveling Chinese
+of director Ann Marie Fleming’s great grandfather, a traveling Chinese
 vaudevillian acrobat and magician.
 
-November 21, 2 to 4 p.m. â€“ Family Sunday: Offering hands-on art-making
+November 21, 2 to 4 p.m. – Family Sunday: Offering hands-on art-making
 activities, interactive exhibition tours, guest musicians, performers and
 more! Inspired by Miniature Arts of China and Japan.
 

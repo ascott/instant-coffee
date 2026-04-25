@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: doing 'nothings' while everyone el
 emailDate: "Thu, 01 Apr 2010 03:24:17 -0700"
 number: 14
 type: ""
+venue: "VAG"
 summary: "VAG | Liz Magor in conversation with Ruth Ozeki | APR 10"
 ---
 

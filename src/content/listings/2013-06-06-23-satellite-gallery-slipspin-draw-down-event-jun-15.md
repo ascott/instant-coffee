@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 23
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Slip/Spin: Draw Down Event | JUN 15"
 ---
 

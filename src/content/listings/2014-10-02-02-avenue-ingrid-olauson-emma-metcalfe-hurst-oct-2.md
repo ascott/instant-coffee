@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 2
 type: ""
+venue: "Avenue"
 summary: "Avenue | Ingrid Olauson & Emma Metcalfe Hurst | OCT 2"
 ---
 
@@ -83,7 +84,7 @@ Roses increase happiness and enjoyment
 do you think there's something here?
 _______________________________________________
 NikiKinetic 10:03 PM
-the greatest thing youâ€™ll learn is my love
+the greatest thing you’ll learn is my love
 _______________________________________________
 NatureBoy88 10:03 PM
 I have to go water my plants...ttyl

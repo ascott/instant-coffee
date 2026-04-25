@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 9
 type: "EVENT"
+venue: "CACV"
 summary: "CACV | Stage to Page - A Poetry Development Project | NOV 4"
 ---
 

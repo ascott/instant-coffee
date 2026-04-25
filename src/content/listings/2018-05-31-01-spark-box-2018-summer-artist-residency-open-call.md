@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 1
 type: "CALL"
+venue: "SPARK BOX"
 summary: "SPARK BOX | 2018 SUMMER ARTIST RESIDENCY OPEN CALL"
 ---
 

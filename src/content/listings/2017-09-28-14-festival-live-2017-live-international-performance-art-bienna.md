@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 14
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | LIVE 2017 | LIVE International Performance Art Biennale | OCT 3"
 ---
 

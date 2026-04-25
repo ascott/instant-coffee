@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | The Coven | SEP 7"
 ---
 

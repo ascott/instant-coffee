@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 11
 type: ""
+venue: "CAG"
 summary: "CAG | ROY ARDEN | JAN 27"
 ---
 
@@ -11,7 +12,7 @@ ROY ARDEN
 
 UNDERTHESUN
 
-January 28 â€“ March 27, 2011
+January 28 – March 27, 2011
 
 Opening reception: Thursday, January 27, 2011, 6-9pm
 
@@ -31,7 +32,7 @@ paper and digital collage. Always focused on finding multiple root causes
 for our present condition through relentless digging, quotation and
 reinterpretation, his recent adventure with various media seems like a
 search for new diagnostic tools, insights that could not be revealed by
-photography alone. Combining made and found objects, Ardenâ€™s new sculptural
+photography alone. Combining made and found objects, Arden’s new sculptural
 works extend his oeuvre to a bricolage that is at once playful and
 completely serious.
 
@@ -54,7 +55,7 @@ contact info@contemporaryartgallery.ca
 Roy Arden: UNDERTHESUN is sponsored by The Hamber Foundation.
 
 Publication: a pictorial artist's publication, made possible with support
-from the City of Vancouverâ€™s 125th Anniversary Grants Program, will be
+from the City of Vancouver’s 125th Anniversary Grants Program, will be
 available during the exhibition.
 
 Our education programmes are generously sponsored by Connor, Clark & Lunn
@@ -66,6 +67,6 @@ We are grateful for the support of Vancouver Foundation and our members,
 donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm.
 Admission is by donation. For more information please contact:
 info@contemporaryartgallery.ca or 604-681-2700

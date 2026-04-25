@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 3
 type: "CALL"
+venue: "grunt gallery"
 summary: "grunt gallery | 2025 Tactile Co-Learning Engagement Program"
 ---
 

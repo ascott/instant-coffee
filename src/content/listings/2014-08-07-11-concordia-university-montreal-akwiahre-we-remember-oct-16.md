@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bitter sweet"
 emailDate: "Thu, 07 Aug 2014 11:58:22 -0700"
 number: 11
 type: ""
+venue: "Concordia University, Montreal"
 summary: "Concordia University, Montreal | akwé:iahre [we remember] | OCT 16"
 ---
 

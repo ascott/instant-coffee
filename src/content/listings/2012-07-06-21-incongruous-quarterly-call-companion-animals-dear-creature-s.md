@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 21
 type: ""
+venue: "Incongruous Quarterly"
 summary: "Incongruous Quarterly | call: Companion Animalsâ€  (Dear Creature,) | SEP 17"
 ---
 
 Dear Friends,
 
 Alex Leslie and I are guest-editing Issue 5 of the boundary-crossing 
-online journal Incongruous Quarterly. The them is â€œCompanion 
+online journal Incongruous Quarterly. The them is “Companion 
 Animalsâ€  (Dear Creature,) and information about the call is below. 
 
 Please forward widely. We are interested in all iterations of poetry and 
@@ -22,7 +23,7 @@ information on how to submit.
 Dear Creature,
 
 We are looking for work that addresses one of the many relationships 
-humans share with non-humans â€” exploitation, companionship, abuse, 
+humans share with non-humans — exploitation, companionship, abuse, 
 partnership and labor, and sometimes a contradictory combination of 
 these relationships. Contributions might address any of the following:
 
@@ -38,7 +39,7 @@ entirely on exchange?
 
 Our Economic Relationship to Non-Human Creatures:
 How do we make profit and business on the backs of animals, some of 
-whom are our companions? What does Charlotteâ€™s Web imprint on us? 
+whom are our companions? What does Charlotte’s Web imprint on us? 
 After the Vancouver Olympics a pack of sled dogs was massacred in 
 Whistler when business declined. How do we force animals to conform 
 to the arcs of our commercial needs? What is the supply and demand 
@@ -56,7 +57,7 @@ Animals as Emblems and Fashion:
 Humans wear non-humans as leather jackets, feather earrings, 
 snakeskin, ivory, and fur coats, but they also wear emblems of animals 
 on their clothing. Animals are visible everyday icons in advertising and 
-art. Put a bird on it. Donâ€™t put a bird on it. Telus ads. How do we 
+art. Put a bird on it. Don’t put a bird on it. Telus ads. How do we 
 incorporate and romanticize the bodies of animals as fashion and 
 object and fad?
 
@@ -66,15 +67,15 @@ emotional equal? Can a human and an animal create a relationship
 based on equality? Do both become hybrids?
 
 Idioms and metaphors:
-Youâ€™ve got a dog in the fight. That dog wonâ€™t hunt. Kicking the dog. 
-Fucking the dog. (Insert adjective) like a dog. Dog-tired. Dogâ€™s 
-breakfast. Shaggy dog story. Hair of the dog that bit me. Itâ€™s a dogâ€™s life. 
+You’ve got a dog in the fight. That dog won’t hunt. Kicking the dog. 
+Fucking the dog. (Insert adjective) like a dog. Dog-tired. Dog’s 
+breakfast. Shaggy dog story. Hair of the dog that bit me. It’s a dog’s life. 
 Let sleeping dogs lie. Love me, love my dog. Tail wagging the dog. A 
-dog is a manâ€™s best friend.
+dog is a man’s best friend.
 
 -Nikki and Alex
 
-â€“
+–
 
 ABOUT THE GUEST EDITORS:
 
@@ -89,12 +90,12 @@ alexleslie.wordpress.com
 
 Nikki Reimer is author of the poetry book [sic] (Frontenac House 2010), 
 nominated for the 2011 Gerald Lampert Memorial Award, and several 
-chapbooks, including that stays news (Nomados, 2011). Her â€œEast Van 
+chapbooks, including that stays news (Nomados, 2011). Her “East Van 
 Catsâ€  photographic tryptich appeared at the Just Act Natural Group 
 Exhibition in Kingston, ON in June 2010, and she has edited Van City 
 Kitty on VancouverisAwesome.com since November 2010. Nikki has 
 lived with oodles of cats throughout her life, including two that she 
-rescued off East Georgia Street, and Bella, whom sheâ€™s been cat-sitting 
+rescued off East Georgia Street, and Bella, whom she’s been cat-sitting 
 since 2003. Website: http://reimerwrites.com/
 
 ---------30---------

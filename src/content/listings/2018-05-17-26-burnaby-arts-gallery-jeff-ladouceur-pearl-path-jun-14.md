@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 26
 type: "OPENING"
+venue: "Burnaby Arts Gallery"
 summary: "Burnaby Arts Gallery | Jeff Ladouceur: Pearl Path | JUN 14"
 ---
 

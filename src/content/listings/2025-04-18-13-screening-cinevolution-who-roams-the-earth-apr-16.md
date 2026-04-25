@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cinevolution | Who Roams the Earth | APR 16"
 ---
 

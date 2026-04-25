@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: the year of bright days"
 emailDate: "Sun, 06 Jan 2008 13:20:29 -0800"
 number: 5
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | Susan Bozic | JAN 12"
 ---
 

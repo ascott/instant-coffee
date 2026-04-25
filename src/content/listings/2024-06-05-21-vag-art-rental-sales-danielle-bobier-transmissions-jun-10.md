@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 21
 type: "OPENING"
+venue: "VAG Art Rental & Sales"
 summary: "VAG Art Rental & Sales | Danielle Bobier Transmissions | JUN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 24
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Made Manifest | Mad Pride 2018 | 6-9PM | JUL 6"
 ---
 

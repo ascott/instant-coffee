@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 13
 type: "EDUCATION"
+venue: "Or Gallery"
 summary: "Or Gallery | Vancouver Institute for Social Resear | On Civil War and Resistance | NOV 14"
 ---
 

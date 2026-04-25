@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 55
 type: "EVENT"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Fiona Banner | 6PM | JUL 12"
 ---
 

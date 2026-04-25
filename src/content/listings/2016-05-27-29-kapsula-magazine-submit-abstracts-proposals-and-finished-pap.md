@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 29
 type: "CALL"
+venue: "KAPSULA Magazine"
 summary: "KAPSULA Magazine | Submit abstracts, proposals and finished papers | JUN 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 5
 type: "OPENING"
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | Shepard Fairey | Facing the Giant: 3 Decades of Dissent | 7PM | AUG 8"
 ---
 

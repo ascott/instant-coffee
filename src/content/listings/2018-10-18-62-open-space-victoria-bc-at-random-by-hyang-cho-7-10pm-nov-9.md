@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 62
 type: "OPENING"
+venue: "Open Space (VICTORIA, BC)"
 summary: "Open Space (VICTORIA, BC) | at random by Hyang Cho | 7-10PM | NOV 9"
 ---
 

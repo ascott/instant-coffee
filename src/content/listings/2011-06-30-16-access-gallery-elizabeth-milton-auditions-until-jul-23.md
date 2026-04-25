@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 16
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Elizabeth Milton: Auditions | until | JUL 23"
 ---
 
 Elizabeth Milton: Auditions
 
-Exhibition runs June 25th â€“ July 23rd, 2011
+Exhibition runs June 25th – July 23rd, 2011
 
 This summer Access Gallery supports Vancouver-based artist 
 Elizabeth Milton in the production and presentation of a new 

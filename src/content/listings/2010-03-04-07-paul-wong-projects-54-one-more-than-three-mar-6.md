@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 7
 type: ""
+venue: "PAUL WONG PROJECTS"
 summary: "PAUL WONG PROJECTS | 5.4 ONE MORE THAN THREE | MAR 6"
 ---
 

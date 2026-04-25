@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 5
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions: Exhibition Reviews | DEC 15"
 ---
 

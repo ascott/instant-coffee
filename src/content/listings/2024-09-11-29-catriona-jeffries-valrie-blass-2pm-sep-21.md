@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 29
 type: "TALK"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Valérie Blass | 2PM | SEP 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 33
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks @ Vancity Theatre | An Evening With Jon Jost | SEP 12"
 ---
 
@@ -17,7 +18,7 @@ They Had it Coming: 12 September, 7:00pm-9:00pm
 $9 Cineworks members (promotional code required)
 $11 non-members
 
-Coming to Terms: 12 September, 9.15â€“11.00pm
+Coming to Terms: 12 September, 9.15–11.00pm
 $9 Cineworks members (promotional code required)
 $11 non-members
 
@@ -42,16 +43,16 @@ Director: Jon Jost
 Cast: Frank Mosley, Arianne Margot, Roxanne Rogers, Tyler Messner, Blake
 Eckard Director's website: http://www.jonjost.altervista.org/intro.html
 
-"Jostâ€¦absorbs [local] stories and spins them into fictional tales,
+"Jost…absorbs [local] stories and spins them into fictional tales,
 purposefully accentuating the grandiose storytelling aspects of small town
 gossip. The resulting experimental visual poem captures small town middle
 America with more authenticity than any documentary possibly could. They
 Had It Coming enables Jost to dissect a menagerie of classic documentary
-storytelling devices â€” such as reenactments, talking head interviews and
-intertitles â€” and measure their impact on the audience. All the while, They
+storytelling devices — such as reenactments, talking head interviews and
+intertitles — and measure their impact on the audience. All the while, They
 Had It Coming functions as a cultural time capsule that captures the subtle
 societal intricacies of small town Midwestern United States."
-â€“â€“ Don Simpson, Smells Like Screen Spirit
+–– Don Simpson, Smells Like Screen Spirit
 
 Coming to Terms
 USA, 2013, 89 mins, Blu-ray Disc

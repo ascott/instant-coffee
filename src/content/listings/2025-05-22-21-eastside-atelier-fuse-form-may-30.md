@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 21
 type: "EVENT"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Fuse & Form | MAY 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 28
 type: ""
+venue: "TELUS Garden"
 summary: "TELUS Garden | Calling on Canadian artists | DEC 2"
 ---
 
@@ -23,7 +24,7 @@ Please let us know if you require further information.
 
 Thank you,
 
-Tracey Mactavish Architect AIBC MRAIC LEEDÂ®AP
+Tracey Mactavish Architect AIBC MRAIC LEED®AP
 Associate
 
 office of mcfarlane biggar

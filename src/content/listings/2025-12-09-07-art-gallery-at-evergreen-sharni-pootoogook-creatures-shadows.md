@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 7
 type: "EVENT"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Sharni Pootoogook: Creatures, Shadows, Dreams | DEC 12"
 ---
 

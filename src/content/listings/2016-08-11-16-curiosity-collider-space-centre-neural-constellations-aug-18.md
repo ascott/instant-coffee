@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 16
 type: "EVENT"
+venue: "Curiosity Collider @ Space Centre"
 summary: "Curiosity Collider @ Space Centre | Neural Constellations... | AUG 18"
 ---
 

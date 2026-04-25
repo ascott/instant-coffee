@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 28
 type: "EXHIBITION"
+venue: "BAG Offsite at Bob Prittie Library"
 summary: "BAG Offsite at Bob Prittie Library | Natasha Katedralis: Eyebat, The Cutting Floor | JUN 17"
 ---
 

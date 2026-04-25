@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 50
 type: "CALL"
+venue: "Castlegar Sculpturewalk (CASTLEGAR)"
 summary: "Castlegar Sculpturewalk (CASTLEGAR) | Call for Submissions | OCT 31"
 ---
 

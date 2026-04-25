@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 17
 type: "EVENT"
+venue: "InterUrban Gallery"
 summary: "InterUrban Gallery | CELEBRATING THE FEMININE PRINCIPLE | MAR 19"
 ---
 

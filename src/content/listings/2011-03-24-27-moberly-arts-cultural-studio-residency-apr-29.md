@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 27
 type: ""
+venue: "Moberly Arts & Cultural"
 summary: "Moberly Arts & Cultural | studio residency | APR 29"
 ---
 

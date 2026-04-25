@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 6
 type: "EVENT"
+venue: "221A"
 summary: "221A | Prosper Center: Autumn Winter 2016 | SEP 9"
 ---
 

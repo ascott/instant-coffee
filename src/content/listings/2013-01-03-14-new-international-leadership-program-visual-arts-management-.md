@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you are a complex diamond and we 
 emailDate: "Thu, 03 Jan 2013 11:03:39 -0800"
 number: 14
 type: ""
+venue: "New International Leadership Program"
 summary: "New International Leadership Program | Visual Arts Management | JAN 31"
 ---
 
 New International Leadership Program 
-in Visual Arts Management â€“ ILPVAM
+in Visual Arts Management – ILPVAM
 
 Deusto Business School (University of Deusto, Spain) / 
 NYU Steinhardt / Guggenheim Museum Bilbao
 New International Leadership Program 
-in Visual Arts Management â€“ ILPVAM
+in Visual Arts Management – ILPVAM
 
 Three intensive modules in Bilbao, New York, and Abu Dhabi
 Call for applications
@@ -24,9 +25,9 @@ will be given to those applying by January 31st, 2013.
 5% early bird discount to those registering two months before the program 
 begins
 
-Module 1: Bilbao â€“ April 15â€“19, 2013
-Module 2: New York â€“ June 10â€“14, 2013
-Module 3: Abu Dhabi â€“ October 6â€“10, 2013
+Module 1: Bilbao – April 15–19, 2013
+Module 2: New York – June 10–14, 2013
+Module 3: Abu Dhabi – October 6–10, 2013
 
 Apply
 
@@ -34,7 +35,7 @@ Share this: Facebook | Twitter
 Global practice in the administration of the arts is undergoing profound 
 transformations as a result of changing funding systems, management 
 practices, and audiences. The new International Leadership Program in Visual 
-Arts Management â€“ ILPVAM, an executive part-time certificate program, 
+Arts Management – ILPVAM, an executive part-time certificate program, 
 combines advanced business theory and techniques together with the latest 
 concepts and global trends in visual arts management and administration to 
 provide a rigorous, engaging educational program for experienced 
@@ -42,7 +43,7 @@ professionals in the visual arts or related fields.
 
 This innovative approach to learning comprises five-day modules taught in 
 English by experts in their respective fields over the course of seven months, 
-and is conducted in three geographical areas â€“Europe, America, and the 
+and is conducted in three geographical areas –Europe, America, and the 
 Middle East. The location of these intensive modules in Bilbao, New York, 
 and Abu Dhabi provide an exceptional immersive on-site experience.
 
@@ -66,7 +67,7 @@ documents, a non-refundable application fee, and a personal interview.
 Completion of all three modules leads to the award of a Program Certificate by 
 the University of Deusto and New York University.
 
-The International Leadership Program in Visual Arts Management â€“ ILPVAM 
+The International Leadership Program in Visual Arts Management – ILPVAM 
 is a collaborative effort between Deusto Business School (University of 
 Deusto, Spain), the NYU Steinhardt School of Culture, Education, and Human 
 Development (New York University, US), and the Guggenheim Museum Bilbao 

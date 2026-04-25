@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why don't you think of something"
 emailDate: "Thu, 22 Oct 2009 09:30:22 -0700"
 number: 1
 type: ""
+venue: "SAVAC"
 summary: "SAVAC | Call for SUBMISSIONS"
 ---
 

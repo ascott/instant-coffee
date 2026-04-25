@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Nothing to be done | AUG 8"
 ---
 

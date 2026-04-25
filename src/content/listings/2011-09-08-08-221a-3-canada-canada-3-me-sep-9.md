@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 8
 type: ""
+venue: "221A"
 summary: "221A | <3 CANADA & CANADA <3 ME | SEP 9"
 ---
 
 http://221a.ca/i-heart
 
 Curated By: Francisco-Fernando Granados
-Exhibition: Aug 19 â€“ Sept 19
+Exhibition: Aug 19 – Sept 19
 Reception (as part of Swarm 12): 8 pm, Sept 9
 Artist Talk: 2 pm, Sept 17
 
@@ -39,7 +40,7 @@ particular sets of social circumstances.
 
 The idea of embodiment is crucial to the possibility of enacting a
 nuanced engagement with the political dimensions of figure/ground
-relations. Judith Butlerâ€™s early work on feminism and 
+relations. Judith Butler’s early work on feminism and 
 phenomenology
 uses the term embodiment to account for the process through 
 which an
@@ -69,11 +70,11 @@ significant, ever-present visual dimension. In recent memory, these
 exchanges have been played out in Canada through stories like the 
 one
 involving a political campaign worker for the last federal election
-who, according to the CBC [2], circulated an email â€œseeking people 
+who, according to the CBC [2], circulated an email “seeking people 
 in
 â€˜national folklore costumesâ€™â€  for a promotional photo-op. More 
 serious
-examples include the federal governmentâ€™s refusal to request the
+examples include the federal government’s refusal to request the
 repatriation of Omar Khadr, the Canadian citizen captured as a minor
 in Afghanistan by the US military. Khadr, who was held without 
 charges
@@ -81,9 +82,9 @@ for almost three years, was eventually judged in the extra-judicial
 tribunals set up by the United States government in Guantamo Bay 
 [3].
 Both cases bring up the issue of belonging in aesthetic terms: the
-subjective perception of the bodyâ€™s identity creates a set of possible
-interactions with the nation. As if to say â€œwe need you to look
-â€˜folkloric,â€™ but there are limits to how much you can deviate from the
+subjective perception of the body’s identity creates a set of possible
+interactions with the nation. As if to say “we need you to look
+‘folkloric,’ but there are limits to how much you can deviate from the
 prescribed image of the nation.â€  Indeed, there are borders.
 
 Yet, there are some things that escape the languages of identity and
@@ -99,19 +100,19 @@ Essay in
 Phenomenology and Feminist Theory. Theatre Journal. Vol. 40, No. 
 4, 1988.
 
-[2] Amber Hildebrandt, â€˜T.O. Tory staffer makes â€˜ethnic costumeâ€™ rally
-appeal.â€™ CBC News. April 13, 2011. Retrieved May 30, 2011.
+[2] Amber Hildebrandt, ‘T.O. Tory staffer makes ‘ethnic costume’ rally
+appeal.’ CBC News. April 13, 2011. Retrieved May 30, 2011.
 http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/13/c
 v-election-conservative-ethnic-vote.html
 
-[3] â€˜Omar Khadrâ€™s road to trial.â€™ CBC News. Last updated August 12,
+[3] ‘Omar Khadr’s road to trial.’ CBC News. Last updated August 12,
 2010. Retrieved August 14, 2011.
 http://www.cbc.ca/news/canada/story/2009/11/12/f-omar-khadr-
 timeline.html
 Roya Akbari is an Iranian artist living in Vancouver and Tehran. She
 is works in video, photography, installation, and film. Upon
 graduating from Emily Carr University in 2011, she was awarded the
-Presidentâ€™s Media Arts Award for Installation Art. Akbari has
+President’s Media Arts Award for Installation Art. Akbari has
 participated in group exhibitions in Vancouver, as well as having a
 solo show in Tehran.
 

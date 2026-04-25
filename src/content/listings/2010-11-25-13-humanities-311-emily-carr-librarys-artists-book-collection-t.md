@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 13
 type: ""
+venue: "Humanities 311"
 summary: "Humanities 311 | Emily Carr Librarys Artists Book Collection | til | NOV 28"
 ---
 

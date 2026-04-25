@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 6
 type: ""
+venue: "221A"
 summary: "221A | GRANDE FINALE of The Part of No Part | AUG 30"
 ---
 
@@ -37,9 +38,9 @@ There is no resolution or composure.
 The performance is like the hypercomplexity of todayâ€™s â€œfoamâ€ : the 
 uncontrolled discourse of external references, a production of chaotic 
 signifiers, a chronic vertigo, and an ideology of the surfer. This artwork has 
-been inspired by the belief in that which is â€˜out of jointâ€™; â€˜The part of no partâ€™ is 
-a term taken from the work of Jacques RanciÃ¨re, which refers to the paradox 
-whereby the â€˜non-partâ€™, that which has no defined place in a given order and 
+been inspired by the belief in that which is ‘out of joint’; ‘The part of no part’ is 
+a term taken from the work of Jacques Rancière, which refers to the paradox 
+whereby the ‘non-part’, that which has no defined place in a given order and 
 as the exception to it, stands for the Whole.
 
 Please join us for the grande finale on August 30, 2013.
@@ -49,5 +50,5 @@ Please join us for the grande finale on August 30, 2013.
 Vancouver, BC
 +1 604 568 0812
 hello@221a.ca
-Tuesâ€“Fri 10amâ€“5pm
-Sat 12â€“5pm
+Tues–Fri 10am–5pm
+Sat 12–5pm

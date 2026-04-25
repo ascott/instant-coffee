@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 38
 type: "EXHIBITION"
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | Marin Majic: roundabout | Until JUN 14 | JUN 14"
 ---
 

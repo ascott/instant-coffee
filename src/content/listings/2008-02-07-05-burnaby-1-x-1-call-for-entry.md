@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffeed"
 emailDate: "Thu, 07 Feb 2008 09:20:25 -0800"
 number: 5
 type: ""
+venue: "BURNABY 1' X 1'"
 summary: "BURNABY 1' X 1' | Call For Entry"
 ---
 

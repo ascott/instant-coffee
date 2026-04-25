@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 32
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks Studio | Donna Haraway: Storytelling for Earthly... | 7PM | OCT 17"
 ---
 

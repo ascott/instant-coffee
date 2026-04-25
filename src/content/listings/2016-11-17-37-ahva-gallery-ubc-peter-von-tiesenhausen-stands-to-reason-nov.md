@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 37
 type: "TALK"
+venue: "AHVA Gallery (UBC)"
 summary: "AHVA Gallery (UBC) | Peter Von Tiesenhausen 'Stands to Reason' | NOV 24"
 ---
 

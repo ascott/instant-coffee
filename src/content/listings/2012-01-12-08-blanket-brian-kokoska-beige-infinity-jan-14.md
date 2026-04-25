@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 8
 type: ""
+venue: "BLANKET"
 summary: "BLANKET | Brian Kokoska Beige Infinity | JAN 14"
 ---
 
 Brian Kokoska Beige Infinity
-January 14 â€“ February 25
+January 14 – February 25
 Opening reception Saturday January 14, 6-9pm
 
 Double Veronica, 2011
@@ -30,10 +31,10 @@ work is a sense of whimsy with an emphasis on decorations and adornments;
 headgear, hairstyles, flowers, and other embellishments.
 
 Brian Kokoska (b. 1988, Vancouver) is a Canadian artist based in New York.
-Beige Infinity is the artistâ€™s first solo exhibition with Blanket and in
+Beige Infinity is the artist’s first solo exhibition with Blanket and in
 Canada. He received his BFA from Emily Carr University of Art and Design in
 2010. His paintings have been featured in artUS (Los Angeles), V (New York),
-Beautiful/Decay (Los Angeles), Carousel (Toronto), and Piana (KrakÃ³w).
+Beautiful/Decay (Los Angeles), Carousel (Toronto), and Piana (Kraków).
 Recent exhibitions include NADA Art Fair Miami Beach with Blanket,
 Nothingness and Being Skinny, Black Cubicle Toilet Gallery, Celeste House,
 Mexico City, Dependent Art Fair with Silvershed in New York, and The Hand of

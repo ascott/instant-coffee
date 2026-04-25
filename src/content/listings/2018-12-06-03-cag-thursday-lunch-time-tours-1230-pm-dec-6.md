@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 3
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Thursday Lunch Time Tours | 12:30 pm | DEC 6"
 ---
 

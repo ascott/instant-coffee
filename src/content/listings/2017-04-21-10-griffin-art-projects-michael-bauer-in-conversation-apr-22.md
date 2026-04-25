@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 10
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Michael Bauer in Conversation | APR 22"
 ---
 

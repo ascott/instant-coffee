@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 2
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Call for Vendors: Centre A Boutique"
 ---
 

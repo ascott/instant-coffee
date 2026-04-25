@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 15
 type: "EDUCATION"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Creative Writing with Laura Fukumoto | AUG 26"
 ---
 

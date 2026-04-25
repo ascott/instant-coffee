@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 46
 type: "CALL"
+venue: "Small File Media Festival"
 summary: "Small File Media Festival | Call for work | JUN 15"
 ---
 

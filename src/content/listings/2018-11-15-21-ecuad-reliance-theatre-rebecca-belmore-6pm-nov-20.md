@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 21
 type: "TALK"
+venue: "ECUAD - Reliance Theatre"
 summary: "ECUAD - Reliance Theatre | Rebecca Belmore | 6PM | NOV 20"
 ---
 

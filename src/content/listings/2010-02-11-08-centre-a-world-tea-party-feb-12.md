@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we'll keep the light on for you"
 emailDate: "Thu, 11 Feb 2010 10:30:16 -0800"
 number: 8
 type: ""
+venue: "Centre A"
 summary: "Centre A | WORLD TEA PARTY | FEB 12"
 ---
 
@@ -70,7 +71,7 @@ BRIGHT LIGHT in partnership with Downtown Eastside arts groups
 The World Tea Party is Centre A's contribution to the City of Vancouver' s
 Olympic and Paralympic public art program, Bright Light. This project
 brings together the creative energy of fourteen arts organizations active
-in VancouverÃ¢'s Downtown Eastside. Outdoor performances, video projections,
+in Vancouverâ's Downtown Eastside. Outdoor performances, video projections,
 urban planning demonstrations, social events and a parade are just some of
 the manifestations that animate the historical heart of the city. The group
 includes artist-run centres, a fashion artist, an architecture studio, a

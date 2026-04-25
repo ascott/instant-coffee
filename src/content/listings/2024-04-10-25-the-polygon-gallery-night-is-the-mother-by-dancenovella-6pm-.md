@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 25
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Night is the Mother by Dance//Novella | 6PM | APR 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 18
 type: "EVENT"
+venue: "221A"
 summary: "221A | Yu Su | Fieldwork Session #1: Call for participation | OCT 8"
 ---
 

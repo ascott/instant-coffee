@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 34
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | The Welfare of Tomas O Hallisy | Duncan Campbell | MAY 11"
 ---
 

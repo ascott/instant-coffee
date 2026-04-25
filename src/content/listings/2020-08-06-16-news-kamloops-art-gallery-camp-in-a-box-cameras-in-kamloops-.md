@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 16
 type: ""
+venue: "NEWS"
 summary: "NEWS | Kamloops Art Gallery | Camp-in-a-box: Cameras in Kamloops | AUG 17"
 ---
 

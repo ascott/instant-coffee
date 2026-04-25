@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 29
 type: ""
+venue: "CABARET ZURICH"
 summary: "CABARET ZURICH | CALL TO ARTIST/ PERFORMERS/ POETS/ COMEDIANS | MAY 7"
 ---
 

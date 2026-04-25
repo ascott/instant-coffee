@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 7
 type: ""
+venue: "UBC: ahva"
 summary: "UBC: ahva | Artist's Talk: R.H. Quaytman | FEB 26"
 ---
 

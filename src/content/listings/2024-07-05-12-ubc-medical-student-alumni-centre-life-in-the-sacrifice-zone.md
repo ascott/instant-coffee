@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 12
 type: "OPENING"
+venue: "UBC Medical Student & Alumni Centre"
 summary: "UBC Medical Student & Alumni Centre | LIFE IN THE SACRIFICE ZONE | 1PM | JUL 7"
 ---
 

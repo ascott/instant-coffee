@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 2
 type: "OPENING"
+venue: "BAF Gallery"
 summary: "BAF Gallery | Kim Kenndy Austin | Andrew Kent | NOV 2"
 ---
 

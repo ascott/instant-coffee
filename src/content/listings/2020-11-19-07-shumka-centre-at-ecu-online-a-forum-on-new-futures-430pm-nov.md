@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 7
 type: "EVENT"
+venue: "Shumka Centre at ECU [ONLINE]"
 summary: "Shumka Centre at ECU [ONLINE] | A Forum on New Futures | 430PM | NOV 19"
 ---
 

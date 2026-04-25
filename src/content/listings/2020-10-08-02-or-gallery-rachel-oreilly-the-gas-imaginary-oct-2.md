@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Or Gallery"
 summary: "Or Gallery | Rachel O'Reilly: The Gas Imaginary | OCT 2"
 ---
 

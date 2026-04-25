@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 15
 type: "OPENING"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Garry Neill Kennedy - Drawings | JUN 2"
 ---
 
@@ -17,7 +18,7 @@ The Charles H. Scott Gallery is pleased to present Drawings, a solo
 exhibition by distinguished Canadian artist Garry Neill Kennedy.
 
 The exhibition features an extensive collection of nearly 1600 pieces, made
-up of notes, drawings and doodles begun during the artistâ€™s twenty-three
+up of notes, drawings and doodles begun during the artist’s twenty-three
 year tenure as president of the Nova Scotia College of Art and Design. The
 exhibition presents an accumulation of ten years worth of plans, from the
 late 1970s to the late 1980s, for future art works and installations,
@@ -34,14 +35,14 @@ Kennedy recently exhibited his work at The National Gallery of Canada, The
 Art Gallery of Nova Scotia, Portikus in Frankfurt am Main, Diaz
 Contemporary in Toronto, Or Gallery, and The Apartment in Vancouver. His
 recent publications include The Last Art College: Nova Scotia College of
-Art and Design, 1968 -1978, published by MIT Press and a catalogue raisonnÃ©
+Art and Design, 1968 -1978, published by MIT Press and a catalogue raisonné
 titled Garry Neill Kennedy: Printed Matter 1971-2009, published by the
 Library and Archives of the National Gallery of Canada. In 2003 he was a
-recipient of the Order of Canada and in 2004, the Governor Generalâ€™s Award
+recipient of the Order of Canada and in 2004, the Governor General’s Award
 in the Visual Arts and Media. Kennedy taught at the Nova Scotia College of
 Art and Design for over forty years, serving as president from 1967 - 1990.
 He has also been a visiting professor at California Institute of the Arts
-and Ã‰cole des Beaux Arts, Paris, Emily Carr University, and University of
+and École des Beaux Arts, Paris, Emily Carr University, and University of
 British Columbia.
 
 For further information contact Kathy Slade at kslade@ecuad.ca

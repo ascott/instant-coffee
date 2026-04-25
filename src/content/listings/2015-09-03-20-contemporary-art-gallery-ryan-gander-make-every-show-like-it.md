@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 20
 type: "OPENING"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Ryan Gander: Make every show like it's your last | SEP 10"
 ---
 
@@ -11,7 +12,7 @@ The Contemporary Art Gallery presents an ambitious exhibition with
 UK artist Ryan Gander, his first solo presentation in Canada
 
 Ryan Gander
-Make every show like itâ€™s your last
+Make every show like it’s your last
 September 11 to November 1, 2015
 B.C. Binning, Alvin Balkind Galleries, window spaces and off-site
 INVITATION: Media Preview: Thursday, September 10, 6-7pm
@@ -20,7 +21,7 @@ Artists' Cocktails.
 
 The CAG presents an ambitious exhibition with British artist Ryan
 Gander, his first solo presentation in Canada, comprising a selection of
-new and recent works centered on the artistâ€™s ongoing conceptual
+new and recent works centered on the artist’s ongoing conceptual
 investigations and playful cultural cross references.
 
 Gander is a cultural magpie, his far-reaching curiosity with the world
@@ -32,12 +33,12 @@ is a video and associated off-site posters produced by Gander with an
 existing commercial advertising agency, seen at the gallery and in ten
 transit shelter locations in downtown Vancouver. We view what appears
 to be a short television commercial ad campaign promoting imagination
-in the public, notionally commissioned by the British governmentâ€™s
+in the public, notionally commissioned by the British government’s
 Department for Business, Innovation & Skills. It delights us in
 suggesting a dialogue between seemingly disparate things that
 provoke a myriad of remembered associations.
 
-Play and creativity are also central to the series of sculptures I is â€¦
+Play and creativity are also central to the series of sculptures I is …
 (2013). They recall the hiding place dens made by children from all
 manner of household items including bed sheets, golf umbrellas,
 cushions and laundry racks, yet here are remade in memorializing
@@ -51,11 +52,11 @@ pull that is not only intellectually arresting, but also affecting in its
 humour.
 
 The exhibition is organised by CAG and produced in collaboration with
-Frac ÃŽle de France â€” Le Plateau, Paris; Manchester Art Gallery, UK;
+Frac Île de France — Le Plateau, Paris; Manchester Art Gallery, UK;
 Centre for Contemporary Art, Derry~Londonderry, Northern Ireland; OK
 Offenes Kulturhaus / Center for Contemporary Art, Linz, Austria; Aspen
-Art Museum, Aspen, Colorado and MusÃ©e dâ€™art contemporain de
-MontrÃ©al.
+Art Museum, Aspen, Colorado and Musée d’art contemporain de
+Montréal.
 
 Produced alongside the exhibition is Culturefield, an expansive 288
 page publication available for a special exhibition price of $50.
@@ -65,7 +66,7 @@ Ryan Gander, born in Chester in 1976, lives and works in London.
 Recent solo shows have been held at Singapore Tyler Print Institute,
 Singapore; OK Centre for Contemporary Art, Linz, Austria; Manchester
 Art Gallery, Manchester, UK; Proyectos Monclova, Mexico City (2015);
-FRAC ÃŽle-de-France/ Le Plateau (2013); Palais de Tokyo, Paris (2012);
+FRAC Île-de-France/ Le Plateau (2013); Palais de Tokyo, Paris (2012);
 Museo Tamayo, Mexico City (2012); Haus Konstruktiv, Zurich (2010);
 Solomon R Guggenheim Museum, New York (2010; Ikon Gallery,
 Birmingham (2008); the Stedelijk Museum Bureau, Amsterdam (2007
@@ -75,12 +76,12 @@ exhibitions such as the Shanghai Biennale (2012); documenta 13,
 Kassel (2012); ILLUMInations, 54th Biennale di Venezia, Venice
 (2011); 55th Carnegie International, Pittsburgh (2008) and the Sydney
 Biennial (2008). Ryan Gander has been awarded numerous prestigious
-prizes, among others the ZÃ¼rich Art Prize (2009), the ABN Amro Art
+prizes, among others the Zürich Art Prize (2009), the ABN Amro Art
 Prize (2006), the Baloise Art Statements of the Art Basel (2006) and
-the Dutch Prix de Rome for sculpture (2003). Ganderâ€™s works are
+the Dutch Prix de Rome for sculpture (2003). Gander’s works are
 included in both international public and private collections including
 Tate Collection, London; Museum of Contemporary Art, Chicago;
-Museum Moderner Kunst, Vienna; Le Fonds regional dâ€™art
+Museum Moderner Kunst, Vienna; Le Fonds regional d’art
 contemporain du Nord Pas-de-Calais; FNAC, Paris, France; Kadist Art
 Foundation, Paris, France; MaMBO, Bologna; Museum Boijmans Van
 Beuningen, Rotterdam; Arts Council, London; National Museum of
@@ -105,18 +106,18 @@ Director Nigel Prince, a playful discussion centred on the themes and
 ideas present in the exhibition.
 
 3. FREE CAG Family Days - Last Saturday of every month:
-Saturday, September 26 and October 31, 12Â·3pm
+Saturday, September 26 and October 31, 12·3pm
 On the last Saturday or each month, the CAG invites all ages to drop-in
 for short exhibition tours and free art making activities that respond to
 our current exhibitions.
 
 September 26: Palette Portraits
-Explore conceptual portraiture in response to Ryan Ganderâ€™s series of
-portraits and palettes painted from memory. Create your own â€˜palette
-portraitâ€™.
+Explore conceptual portraiture in response to Ryan Gander’s series of
+portraits and palettes painted from memory. Create your own ‘palette
+portrait’.
 
 October 31: Hide and Seek Sculptures
-Responding to Ganderâ€™s sculptures that suggest hiding place dens
+Responding to Gander’s sculptures that suggest hiding place dens
 made by children from all manner of household items including bed
 sheets, golf umbrellas, cushions and laundry racks, participants will
 collaborate to create a large shelter structure.
@@ -131,27 +132,27 @@ Sylvia Kind
 Tuesday, October 6, 7pm
 Sylvia Kind, PhD is an instructor in the School of Childhood Studies at
 Capilano University and an atelierista at the Capilano University
-Childrenâ€™s Centre. Her work is motivated by an interest in artistic ways
-of knowing, childrenâ€™s studio practices, experimentations with art as
+Children’s Centre. Her work is motivated by an interest in artistic ways
+of knowing, children’s studio practices, experimentations with art as
 research in early childhood settings and the intersections of art and
-pedagogy. Kind will respond to elements of play in Ryan Ganderâ€™s
+pedagogy. Kind will respond to elements of play in Ryan Gander’s
 exhibition.
 
-5. Free Guided Visits â€“ Five free guided visits including one in French!
+5. Free Guided Visits – Five free guided visits including one in French!
 Jas Lally, Saturday, September 19, 3pm: Mike Bourscheid (French),
 Sunday, October 18, 3pm: Nigel Prince, Saturday, October 24, 3pm:
 Maddy Tranter, Sunday, October 25, 3pm: Shaun Dacey, Saturday,
 October 31, 3pm CAG Curator, Shaun Dacey leads a tour of current
-exhibitions. Part of the â€˜Downtown Galleries Tourâ€™ in partnership with
+exhibitions. Part of the ‘Downtown Galleries Tour’ in partnership with
 Audain Gallery at 1pm and Or Gallery at 2pm.
 
-6. SFU Philosopherâ€™s Cafe: Art Salon - Ryan Gander
+6. SFU Philosopher’s Cafe: Art Salon - Ryan Gander
 CAG Curator, Shaun Dacey
 Saturday, September, 26, 4pm. In the classic spirit of social gatherings
-for discussion around new artwork, Philosophersâ€™ CafÃ© will run art
+for discussion around new artwork, Philosophers’ Café will run art
 salons in connection with exhibitions at the CAG. The topic of the
-events will be the artwork itself, and will include the CAGâ€™s
-programming team in lively discussion that highlights Vancouverâ€™s art
+events will be the artwork itself, and will include the CAG’s
+programming team in lively discussion that highlights Vancouver’s art
 scene. Come and explore the issues and ideas that new, contemporary
 artwork raises in a gallery setting. Participate in an in-depth guided tour
 and conversations about current CAG exhibitions with curator Shaun

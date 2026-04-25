@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 49
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Robson Square | ART ROCK? NO. 31 FINALE | 630-10PM | APR 27"
 ---
 

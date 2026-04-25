@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 8
 type: ""
+venue: "VIVARIUM GALLERY"
 summary: "VIVARIUM GALLERY | Rob Scharein & jamie grifï¬ th | JUL 11"
 ---
 
@@ -25,12 +26,12 @@ accessible.
 
 We live in 3 dimensional bodies and yet operate in a world of
 thoughts, dreams and multi-dimensional realities. Conscious acts of
-engagement in the world effect the Quantum Â‘FieldÂ’ that we inhabit. As
+engagement in the world effect the Quantum Field that we inhabit. As
 bodies, minds and spirits we are only aware of the tiniest relevances
 of our lives to the grand picture. The ripples, waves and thought
 patterns extrapolate outwards and inwards as part of the never-ending,
 never-beginning matrix of life and energy. Some may call this Quantum
-Field Â“GodÂ”.
+Field God.
 
 With a background as a physicist & astronomer, Rob Scharein swims
 daily in the magic of 3D worlds as a Research Fellow in the Department
@@ -38,15 +39,15 @@ of Mathematics at San Francisco State University.
 www.knotplot.com & www.hypnagogic.net
 
 jamie griffiths is a visual artist and filmmaker. She has been
-seeking in the Quantum Field since 2001, on a quest to find Â‘G-ddeÂ’ in
+seeking in the Quantum Field since 2001, on a quest to find G-dde in
 her everyday life and art and uses interactive technology in live
 performance films and installations. She is also currently a
 researcher in Digital Video Illumination at the Univ.of BC.
 www.jamiegriffiths.com
 
-In Â‘MystiQÂ’, the Quantum Field is visually referenced by mathematical
+In MystiQ, the Quantum Field is visually referenced by mathematical
 collisions of 3D strings and nodes, forming a continuous matrix of 3D
-Â‘lifeÂ’ inside the Vivarium Gallery window... attaching & releasing...
+life inside the Vivarium Gallery window... attaching & releasing...
 dragging and being pulled around in the matrix. From a chaotic
 beginning, order emerges as symmetries hidden in the connections
 between players in the chaos game are revealed. As they collide they

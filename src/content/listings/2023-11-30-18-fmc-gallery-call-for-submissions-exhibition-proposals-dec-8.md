@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 18
 type: "CALL"
+venue: "FMC Gallery"
 summary: "FMC Gallery | Call for Submissions: Exhibition Proposals | DEC 8"
 ---
 

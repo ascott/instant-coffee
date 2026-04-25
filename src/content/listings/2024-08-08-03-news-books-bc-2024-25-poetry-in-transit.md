@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 3
 type: ""
+venue: "NEWS"
 summary: "NEWS | Books BC | 2024-25 Poetry in Transit"
 ---
 

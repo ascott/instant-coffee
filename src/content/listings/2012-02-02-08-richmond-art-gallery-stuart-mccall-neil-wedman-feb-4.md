@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 8
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Stuart McCall & Neil Wedman | FEB 4"
 ---
 
@@ -19,7 +20,7 @@ Artist Talk: Saturday, February 4 from 1:00 - 2:00 pm
 
 This exhibition by Stuart McCall and Neil Wedman is comprised of two separate 
 bodies of work made years apart but linked by an indelible subject of local 
-history, William Vander Zalmâ€™s Fantasy Garden World. Wedman attended the 
+history, William Vander Zalm’s Fantasy Garden World. Wedman attended the 
 proceedings of the Vander Zalm trial in 1991 and made numerous pencil 
 portraits of those who participated, primarily witnesses as they testified. Years 
 later, McCall documented the neglected gardens just prior to demolition by its 
@@ -47,7 +48,7 @@ Lotus Awards, and International Photography awards. Living in Vancouver, BC
 since 1968, he has been making images for over 25 years.
 
 Since the 1990s he has worked with Vancouver artist Neil Wedman on various 
-photo based projects including â€œEvery Bus Stop from My Place to the 
+photo based projects including “Every Bus Stop from My Place to the 
 Racetrackâ€  (1997), and â€œMovies â€˜til Dawnâ€  (2009). Represented in Vancouver by 
 the Vancouver Art Gallery Art Rentals and Sales and in Calgary at the Axis 
 Contemporary Art Gallery, his work has also been shown at the Surrey Art 

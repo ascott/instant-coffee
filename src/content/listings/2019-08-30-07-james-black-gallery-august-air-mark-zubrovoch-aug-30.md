@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "James Black Gallery"
 summary: "James Black Gallery | August AIR: Mark Zubrovoch | AUG 30"
 ---
 

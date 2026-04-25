@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 9
 type: ""
+venue: "MIRACLE & CONNELLY PRESENTS"
 summary: "MIRACLE & CONNELLY PRESENTS | Meditation Cornwall | OCT 6"
 ---
 
@@ -26,7 +27,7 @@ glimpse at some cherished and never-exhibited works. - JP
 + A found painting "Meditation Cornwall" from Rodney Graham 
 + A drawing by N.E. Thing Company from Jane Irwin
 + 78 drawings by Pablo Bronstein from Aaron Carpenter
-+ A giclÃ©e print by Assume Vivid Astro Focus from Jenifer Papararo
++ A giclée print by Assume Vivid Astro Focus from Jenifer Papararo
 + 3 drawings by Cory Arcangel from Caitlin Jones 
 + Youth Portraits (1985) on newsprint by Ken Lum from Tonik Wojtyra
 + 2 found photographs from Melanie O'Brian and Wayne Arsenault

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 3
 type: ""
+venue: "Journal for Artistic Research (JAR)"
 summary: "Journal for Artistic Research (JAR) | www.jar-online.net | MAR 3"
 ---
 
@@ -48,7 +49,7 @@ Bertha Bermudez, Scott deLahunta, Marijke Hoogenboom, Chris Ziegler,
 Frederic Bevilacqua, Sarah Fdili Alaoui, Barbara Meneses Gutierrez, Amsterdam
 Richard Blythe, Melbourne
 Sher Doruff, Amsterdam
-Cathy van Eck, ZÃ¼rich
+Cathy van Eck, Zürich
 Mark Fleischman, Cape Town
 Abhishek Hazra, Bangalore
 Anders Hultqvist, Gothenburg

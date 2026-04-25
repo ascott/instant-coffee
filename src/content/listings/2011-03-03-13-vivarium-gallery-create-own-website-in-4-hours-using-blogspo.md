@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 13
 type: ""
+venue: "Vivarium Gallery"
 summary: "Vivarium Gallery | create own website in 4 hours using Blogspot | MAR 5"
 ---
 

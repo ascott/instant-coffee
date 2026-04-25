@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 30
 type: "EDUCATION"
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | Intro to Photoshop Online Course | FEB 7"
 ---
 

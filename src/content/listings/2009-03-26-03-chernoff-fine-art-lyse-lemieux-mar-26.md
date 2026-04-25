@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 3
 type: ""
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Lyse Lemieux | MAR 26"
 ---
 

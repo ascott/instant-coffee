@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 14
 type: "EVENT"
+venue: "Griffin Art Projects Online"
 summary: "Griffin Art Projects Online | Remembering Harbin Gate with aiya哎呀 | NOV 8"
 ---
 

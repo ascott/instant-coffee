@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 34
 type: "PERFORMANCE"
+venue: "Left of Main - Plastic Orchid Factory"
 summary: "Left of Main - Plastic Orchid Factory | I MISS DOING NOTHING, July 11-14 | JUL 11"
 ---
 

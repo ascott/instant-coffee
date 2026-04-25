@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "The Alma Mater Society Art Gallery"
 summary: "The Alma Mater Society Art Gallery | MATTHEW SHIELDS | until | OCT 16"
 ---
 

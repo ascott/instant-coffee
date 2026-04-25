@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like an onion makes you want to cr
 emailDate: "Thu, 14 Jul 2011 22:35:36 -0700"
 number: 5
 type: ""
+venue: "ArtSpeak: Persistence of Vision"
 summary: "ArtSpeak: Persistence of Vision | Performance Laura Piasta | JUL 16"
 ---
 
@@ -49,5 +50,5 @@ Blaine Campbell
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday Ã¢ï¿½ï¿½ Saturday, 12-5pm
+* Tuesday â�� Saturday, 12-5pm
 * Admission is free

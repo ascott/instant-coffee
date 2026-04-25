@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Fillip"
 summary: "Fillip | Means of Production: Sound, Silence and Process | JUN 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 4
 type: "TALK"
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | Archiving Activism | DEC 7"
 ---
 

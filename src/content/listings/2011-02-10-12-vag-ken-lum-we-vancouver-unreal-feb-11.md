@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 12
 type: ""
+venue: "VAG"
 summary: "VAG | Ken Lum | WE: Vancouver | Unreal | FEB 11"
 ---
 
@@ -61,14 +62,14 @@ Erickson and Donna Partridge.
 
 ___________________________________________
 
-WE: Vancouver â€” 12 Manifestos for the City
+WE: Vancouver — 12 Manifestos for the City
 February 12 to May 1, 2011
 
-VANCOUVER, BC â€“ The Vancouver Art Gallery celebrates the innovation and
-diversity found in the city of Vancouver with WE: Vancouver â€“ 12 Manifestos
+VANCOUVER, BC – The Vancouver Art Gallery celebrates the innovation and
+diversity found in the city of Vancouver with WE: Vancouver – 12 Manifestos
 for the City, opening on February 12th. Bringing together more than 45
-projects from various disciplines â€” architecture and design, art and visual
-culture, literature and activism â€” the exhibition will examine the
+projects from various disciplines — architecture and design, art and visual
+culture, literature and activism — the exhibition will examine the
 extraordinary range of ideas and actions that shape Vancouver.
 
 As the City of Vancouver marks its 125th birthday in 2011, WE: Vancouver
@@ -77,7 +78,7 @@ its continual transformation and to acknowledge some of the people and
 projects leading the change. All of the projects presented are produced in
 Vancouver and reflect uniquely on the city.
 
-Organized around a framework of 12 'manifestos' â€“ DEMONSTRATE, SEE, LISTEN,
+Organized around a framework of 12 'manifestos' – DEMONSTRATE, SEE, LISTEN,
 MOVE, DETOUR, REMEMBER, OCCUPY, ACTIVATE, USE, CONSUME, CHOOSE, and SPEAK
 -- the exhibition ranges from photography and essays, to hip hop music and
 architectural drawings. Along the way, Gallery visitors will find out more
@@ -106,7 +107,7 @@ Natalie Purschwitz on March 26 and 27th. On April 9th, the Gallery will
 host SUSTAIN: Vancouver, a day-long conference which looks at how models of
 culture, ecology and economics may shape the future.
 
-WE: Vancouver â€“ 12 Manifestos for the City is organized by the Vancouver
+WE: Vancouver – 12 Manifestos for the City is organized by the Vancouver
 Art Gallery and curated by Bruce Grenville, senior curator and Kathleen
 Ritter, associate curator.
 
@@ -121,8 +122,8 @@ January 22 to September 5, 2011
 
 Since the origins of Surrealism in the 1920s, the tension between the
 recognizable and the unfamiliar has inspired and informed artistic
-practices. Unreal, drawn primarily from the Galleryâ€™s permanent collection
-and augmented with local loans, considers contemporary artistsâ€™
+practices. Unreal, drawn primarily from the Gallery’s permanent collection
+and augmented with local loans, considers contemporary artists’
 explorations beyond the rational and looks at the ways in which they delve
 into ideas around desire, fantasy, anxiety and the absurd. Although many of
 the images and objects presented may initially appear normal and familiar,

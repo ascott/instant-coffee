@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 16
 type: "TALK"
+venue: "Gallery 295"
 summary: "Gallery 295 | Gerri York and Index 2016 | JUL 9"
 ---
 

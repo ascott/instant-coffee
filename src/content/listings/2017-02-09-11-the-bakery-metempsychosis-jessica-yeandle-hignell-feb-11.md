@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 11
 type: ""
+venue: "The Bakery"
 summary: "The Bakery | Metempsychosis | Jessica Yeandle-Hignell | FEB 11"
 ---
 

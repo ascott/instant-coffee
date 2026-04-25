@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 8
 type: "OPENING"
+venue: "TEN DIFFERENT THINGS"
 summary: "TEN DIFFERENT THINGS | Slow Dance | an artwork by Instant Coffee | MAY 20"
 ---
 

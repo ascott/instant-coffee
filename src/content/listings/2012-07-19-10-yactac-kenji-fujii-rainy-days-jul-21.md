@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 10
 type: ""
+venue: "Yactac"
 summary: "Yactac | Kenji Fujii >>> Rainy Days >>> | JUL 21"
 ---
 
@@ -25,10 +26,10 @@ In the case of Rainy Day opening Saturday July 21st, 2012 from 7pm-11pm, he
 will be installing in the gallery space.
 
 
-ï¿½What is the sound of one hand clapping?ï¿½
+�What is the sound of one hand clapping?�
 
 I was asked this question from the Zen monk at Choju-ji temple around dusk,
-right after I sketched in the templesï¿½ garden, in the spring of 2005. Since then,
+right after I sketched in the temples� garden, in the spring of 2005. Since then,
 even if I have tried many times, I cannot get the answer for this short Koan case
 which was made by Hakuin Ekaku (1686 - 1768).
 

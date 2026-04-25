@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 7
 type: "EVENT"
+venue: "Astoria Pub"
 summary: "Astoria Pub | Art Rock? no. 15 | JAN 10"
 ---
 

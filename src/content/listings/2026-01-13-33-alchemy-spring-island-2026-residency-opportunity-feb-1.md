@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 33
 type: "CALL"
+venue: "ALCHEMY SPRING ISLAND 2026"
 summary: "ALCHEMY SPRING ISLAND 2026 | residency opportunity | FEB 1"
 ---
 

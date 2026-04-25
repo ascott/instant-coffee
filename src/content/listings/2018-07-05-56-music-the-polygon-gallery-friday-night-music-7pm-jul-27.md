@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 56
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Polygon Gallery | Friday Night Music | 7PM | JUL 27"
 ---
 

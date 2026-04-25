@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 31
 type: "CALL"
+venue: "Chinatown Today"
 summary: "Chinatown Today | Volume 3: Storytelling of Active Resilience | SEP 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 44
 type: "TALK"
+venue: "Scrivener's Monthly"
 summary: "Scrivener's Monthly | Spring 2016 Season | APR 22"
 ---
 

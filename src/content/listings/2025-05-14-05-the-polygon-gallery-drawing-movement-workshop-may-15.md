@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 5
 type: "EDUCATION"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Drawing & Movement Workshop | MAY 15"
 ---
 

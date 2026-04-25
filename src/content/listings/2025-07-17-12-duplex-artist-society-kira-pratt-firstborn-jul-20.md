@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 16 Jul 2025 22:15:13 -0700"
 number: 12
 type: "OPENING"
+venue: "Duplex Artist Society"
 summary: "Duplex Artist Society | Kira Pratt: Firstborn | JUL 20"
 ---
 

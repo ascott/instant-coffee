@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: sometimes the wrong way is the rig
 emailDate: "Wed, 17 Sep 2008 20:35:29 -0700"
 number: 7
 type: ""
+venue: "Catriona Jeffries Gallery"
 summary: "Catriona Jeffries Gallery | BOOK LAUNCH: CJ PRESS | SEP 20"
 ---
 

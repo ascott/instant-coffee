@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this is not a limited edition"
 emailDate: "Thu, 14 May 2009 09:10:11 -0700"
 number: 8
 type: ""
+venue: "Contemporary Art Society of Vancouver"
 summary: "Contemporary Art Society of Vancouver | Camilla Singh | MAY 21"
 ---
 

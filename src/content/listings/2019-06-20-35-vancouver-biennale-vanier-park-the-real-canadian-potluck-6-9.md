@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 35
 type: "EVENT"
+venue: "Vancouver Biennale"
 summary: "Vancouver Biennale | Vanier Park | The Real Canadian Potluck | 6-9PM | JUN 27"
 ---
 

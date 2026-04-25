@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happily destined for a life of imi
 emailDate: "Thu, 13 Jan 2011 12:50:34 -0800"
 number: 8
 type: ""
+venue: "UBC Bookstore/Library at Robson Square"
 summary: "UBC Bookstore/Library at Robson Square | reading: Sheila Heti and Bren Simmers | JAN 14"
 ---
 

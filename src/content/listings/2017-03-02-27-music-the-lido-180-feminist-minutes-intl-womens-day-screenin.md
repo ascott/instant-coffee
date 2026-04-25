@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 27
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Lido | 180 Feminist Minutes - Int'l Women's Day screening | MAR 8"
 ---
 

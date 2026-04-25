@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 7
 type: ""
+venue: "CENTRE A"
 summary: "CENTRE A | The Dig | JUL 30"
 ---
 
@@ -160,7 +161,7 @@ Cultural Capital
 Moderator: Hank Bull, Executive Director, Centre A
 
 Vancouver is in the grips of a city-wide debate about the place of arts and
-culture in the cityÃ¢ï¿½ï¿½s vision of its future. What kind of spaces are we
+culture in the cityâ��s vision of its future. What kind of spaces are we
 building for art? What does Vancouver have to say to the world? This
 closing discussion will consider these questions and identify the next
 steps forward.
@@ -168,7 +169,7 @@ steps forward.
 CONFIRMED SPEAKERS
 
 The symposium features speakers who will kindle discussion with short
-interventions, as well as Ã¢ï¿½ï¿½active listenersÃ¢ï¿½ï¿½ invited to contribute to the
+interventions, as well as â��active listenersâ�� invited to contribute to the
 ensuing dialogue. Those interested in speaking are invited to submit
 proposals for short interventions. The following speakers are confirmed.
 
@@ -230,7 +231,7 @@ NETWORKING
 
 The symposium will be preceded by a blog and streamed live to the Internet.
 Participation in the event will be possible by Skype and Twitter. The
-proceedings will edited and archived on Centre AÃ¢ï¿½ï¿½s website.
+proceedings will edited and archived on Centre Aâ��s website.
 
 LUNCH AND DINNER
 
@@ -244,7 +245,7 @@ be provided.
 
 PATRONS
 
-LetÃ¢ï¿½ï¿½s Twist Again is made possible in part by the generous support of the
+Letâ��s Twist Again is made possible in part by the generous support of the
 following individual patrons:
 
 Project Patron: Anndraya T. Luui

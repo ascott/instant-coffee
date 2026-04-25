@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 17
 type: "TALK"
+venue: "CAG"
 summary: "CAG | In Conversation: Maureen Gruben &Godfre Leung | 12PM | FEB 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 19
 type: ""
+venue: "e v+ a 2010"
 summary: "e v+ a 2010 | Submissions | NOV 27"
 ---
 
@@ -50,7 +51,7 @@ marginalizing or eliminating other media and approaches.
 As an exhibition founded by artists and always aimed at bringing into close
 encounter artists and audiences, the Committee and Curator assure you
 that the selection process of OPEN e v+ a 2010 will clearly be open to any
-and all artistsâ€™ approaches. All submissions will be chosen by the Curator
+and all artists’ approaches. All submissions will be chosen by the Curator
 by the quality they offer; the ultimate theme or concept of e v+ a 2010
 will arise out of that quality.
 For any further clarification of these or any other matters please reach e

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 5
 type: ""
+venue: "CAVE TRAINING & PERFORMANCE SEASON"
 summary: "CAVE TRAINING & PERFORMANCE SEASON | New York | JUL 2"
 ---
 
@@ -65,8 +66,8 @@ ID and seniors
 BUTOH WORKSHOPS
 
 Mari Osanai Introductory Session
-Dates: 13 ï¿½ 15 August
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 13 � 15 August
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 Noguchi Taizo (Noguchi Gymnastics)
@@ -76,14 +77,14 @@ by Tatsumi Hijikata and Kazuo Ohno. The aim is to develop
 the uniqueness of each individual movement and to relieve
 any undue strain. Taizo means gym in Japanese, but not in the
 conventional sense. As Osanai explains, "This technique has
-nothing to do withï¿½ the swelling of the muscles nor resistance
+nothing to do with� the swelling of the muscles nor resistance
 forces. The body learns to move in a certain way but is loose
 and fluid. It becomes soft and flexible as it moves from the
 weight, which is not fighting anymore but used to be moved."
 
 Mari Osanai Intensive Session
-Dates: 16 ï¿½ 26 August (day off: 24 August)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 16 � 26 August (day off: 24 August)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
 Noguchi Taiso for Dancers
 In this session, Mari Osanai will share with the students the
@@ -94,22 +95,22 @@ body will be explored in this session in which each body part is
 viewed and approached as a unique laboratory.
 
 Yukio Waguri Introductory Session
-Dates: 10 ï¿½ 12 September
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 10 � 12 September
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 Words & Movement. The Two Elements That Bring into
 Existence Butoh.
 Participants will seek the butoh way of body according to
-Tatsumi Hijikataï¿½s method. Thinking of the body as a medium
+Tatsumi Hijikata�s method. Thinking of the body as a medium
 and as a transfiguring container, the students will experience
-the seven butoh worlds with Waguriï¿½s Butoh Kaden.
+the seven butoh worlds with Waguri�s Butoh Kaden.
 
 Yukio Waguri Intensive Session
-Dates: 16 ï¿½ 26 September (day off: 21 September)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 16 � 26 September (day off: 21 September)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
-Dancing Hijikataï¿½s Butoh
+Dancing Hijikata�s Butoh
 This session will deepen the understanding of the Butoh
 notation of the seven worlds. At the same time, students will be
 encouraged to develop a clear working relationship between
@@ -117,19 +118,19 @@ space and time and practice reserving the power to take an
 objective analysis of their dances.
 
 Imre Thormann Introductory Session
-Dates: 1 ï¿½ 3 October
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 1 � 3 October
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 
 Imre Thormann Intensive Session
-Dates: 7 ï¿½ 17 October (day off: 12 October)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 7 � 17 October (day off: 12 October)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
 
 Butoh and Noguchi Taizo
-Introductory and Intensive Sessions will deal with Thormannï¿½s
-statement, ï¿½In my workshop I do not convey any fixed form or
+Introductory and Intensive Sessions will deal with Thormann�s
+statement, �In my workshop I do not convey any fixed form or
 technique, but the natural principles that form the basis of
 movement (spiral, wave, gravity, emotion, etc.). We will focus
 on movements like standing and walking, as well as on
@@ -139,8 +140,8 @@ for fresh approaches that will help us to execute movements
 easily but with a deeper sensation."
 
 Yukio Suzuki Introductory Session
-Dates: 22 ï¿½ 24 October
-Times: Friday 6 ï¿½ 10 p.m. / Saturday & Sunday 10 a.m. ï¿½ 2
+Dates: 22 � 24 October
+Times: Friday 6 � 10 p.m. / Saturday & Sunday 10 a.m. � 2
 p.m.
 Cost: $240
 Re-construction of Your Body
@@ -151,8 +152,8 @@ change the texture of the body as a thing. Then, to play with
 the new thing.
 
 Yukio Suzuki Intensive Session
-Dates: 28 October ï¿½ 7 November (day off: 2 November)
-Times: 10 a.m. ï¿½ 2 p.m.
+Dates: 28 October � 7 November (day off: 2 November)
+Times: 10 a.m. � 2 p.m.
 Cost: $580
 Standing and Disable Standing
 Students will try to make their own space and time with an idea
@@ -163,12 +164,12 @@ yet in control.
 
 DROP IN CLASSES
 LEIMAY Open Training
-Times: 3 p.m. ï¿½ 7 p.m.
+Times: 3 p.m. � 7 p.m.
 Cost: $15 per class; $10 per class for NYBK students
 Lead by Artistic Director Ximena Garnica, LEIMAY Open
 Training will take place every Saturday during the months of
 August, October and November. This class is an opportunity to
-experience the companyï¿½s ongoing training and to be
+experience the company�s ongoing training and to be
 considered for LEIMAY performance and investigation projects.
 
 INTERVIEWS AND LECTURES
@@ -205,9 +206,9 @@ Oikawa, one of the most important contemporary Japanese
 dance teachers. She has taught and presented her work in
 Greece, Canada, Japan and the Unites States.
 
-Yukio Waguri was the main male dancer at Tatsumi Hijikataï¿½s
+Yukio Waguri was the main male dancer at Tatsumi Hijikata�s
 Asbestos-kan from 1972 to 1978. From this period, he kept
-notes of the words Hijikata-butohï¿½s co-founder-spoke while
+notes of the words Hijikata-butoh�s co-founder-spoke while
 choreographing. These words are called Butoh-fu, a unique
 method for choreography. Waguri has made his own
 interpretation of these words and continues to use them as a
@@ -228,10 +229,10 @@ the Japan Now Festival in Bern (Switzerland) and Gdansk
 works in Berlin and travels throughout Europe teaching and
 performing.
 
-Yukio Suzuki is one of Japanï¿½s most exciting choreographers
-and dancers. He studied butoh at the ï¿½Karada no Gakkoï¿½ of the
+Yukio Suzuki is one of Japan�s most exciting choreographers
+and dancers. He studied butoh at the �Karada no Gakko� of the
 Asbestos-kan and from Ko Murobushi. While leading his own
-company, Kingyo, Suzuki also dances for Ko Murobushiï¿½s
+company, Kingyo, Suzuki also dances for Ko Murobushi�s
 company Ko & Edge Co. and has danced for Tuyoshi Shirai,
 Goro Namerikawa (the starting member of Sankaijuku), and in
 the performance group SAL-VANILLA. Recently, he has

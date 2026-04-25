@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 42
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Artspeak | Studio for Emerging Writers | 7-9PM | APR 24"
 ---
 

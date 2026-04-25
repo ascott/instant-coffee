@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 13
 type: ""
+venue: "East Van Studios"
 summary: "East Van Studios | Long Legged Streak of Misery | JUN 8"
 ---
 

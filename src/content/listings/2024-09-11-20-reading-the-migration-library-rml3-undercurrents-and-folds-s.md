@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 20
 type: "EVENT"
+venue: "Reading the Migration Library"
 summary: "Reading the Migration Library | RML3: Undercurrents and Folds | SEPT 18-28 | SEP 18"
 ---
 

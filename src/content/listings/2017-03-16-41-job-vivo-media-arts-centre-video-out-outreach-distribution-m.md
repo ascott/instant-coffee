@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 41
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO Media Arts Centre | Video Out: Outreach + Distribution Manager | MAR 27"
 ---
 

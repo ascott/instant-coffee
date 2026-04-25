@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 5
 type: ""
+venue: "221A"
 summary: "221A | House Advantage Event: Peggy & Karen Ngan - \"David | JUN 29"
 ---
 
@@ -29,7 +30,7 @@ The exhibition is designed to actively reflect on gaming as a cultural
 phenomenon, encouraging the audience to consider and engage with both the 
 value of art and how alternative forms of currency are being exchanged. The 
 work in House Advantage initiates dialogue between social and artistic 
-practices, triggering conversations of what produces a â€˜healthyâ€™ gambling 
+practices, triggering conversations of what produces a ‘healthy’ gambling 
 environment and ways to potentially mitigate gambling addiction.  
 
 Upcoming House Advantage events: Artists discussion - July 5, Blingo Flix by 

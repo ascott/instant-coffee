@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 3
 type: ""
+venue: "FAG Satellite @ Access Gallery"
 summary: "FAG Satellite @ Access Gallery | Valerie Salez | OCT 5"
 ---
 
@@ -15,14 +16,14 @@ View it in your browser.
 FAG Satellite @ Access Gallery continues this week with;
 In the shadow of our own dust / Valerie Salez / October 2-6
 
-Reception and Performance: Friday October 5th, 8 â€“ 11pm
+Reception and Performance: Friday October 5th, 8 – 11pm
 
 In a hybrid practice that combines ritual with drawing, sculpture, video and 
 installation, Salez presents ceremony as the original social/relational art 
 practice. She approaches the work from a point beyond political rhetoric. True 
-accessing and re-connection with sacred realms cannot include political doâ€™s, 
-donâ€™ts and boundaries. It belongs to everyone, everywhere and is as inherent 
-a right as breathing. The artist does not view this as â€˜new ageâ€™ but as a 
+accessing and re-connection with sacred realms cannot include political do’s, 
+don’ts and boundaries. It belongs to everyone, everywhere and is as inherent 
+a right as breathing. The artist does not view this as ‘new age’ but as a 
 practice that is age old. Critical irony and the imposition of any one religious 
 or spiritual doctrine is not found in her work. Instead it rises out of a primordial 
 sense that reaches back so far it cannot be named. Blood and bones simply 
@@ -46,7 +47,7 @@ the Yukon and has lived across Canada.
 
 Other Upcoming events/installations for FAG @ Access include;
 
-October 11-13 Sharlene Bamboat (Toronto) The Queenâ€™s Punishment
+October 11-13 Sharlene Bamboat (Toronto) The Queen’s Punishment
 
 Access Gallery gratefully acknowledges the Canada Council for the Arts, BC 
 Arts Council, City of Vancouver, our members and volunteers. Access is a 

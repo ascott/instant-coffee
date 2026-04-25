@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 23
 type: "EDUCATION"
+venue: "Moniker Press"
 summary: "Moniker Press | [WORKSHOP] Riso Basics | FEB 6&9 | FEB 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 45
 type: "CALL"
+venue: "Acid Reflux"
 summary: "Acid Reflux | Call for Submissions | MAR 10"
 ---
 

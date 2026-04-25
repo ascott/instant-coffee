@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 32
 type: "CALL"
+venue: "AAARC (Alberta)"
 summary: "AAARC (Alberta) | Lands to Travel Through | NOV 18"
 ---
 

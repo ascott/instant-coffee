@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watc
 emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
 number: 14
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Susanna Browne: A Perfect Day | FEB 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 18
 type: "EVENT"
+venue: "Field Contemporary"
 summary: "Field Contemporary | A Field + Steve Hubert Exhibit Closing | 7-11PM | JUL 27"
 ---
 

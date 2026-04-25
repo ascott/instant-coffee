@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 2
 type: ""
+venue: "JOB"
 summary: "JOB | Or Gallery | Gallery Assistant (Young Canada Works)"
 ---
 

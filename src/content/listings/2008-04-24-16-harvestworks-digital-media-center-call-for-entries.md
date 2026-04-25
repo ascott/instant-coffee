@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: communication is not our only not 
 emailDate: "Wed, 23 Apr 2008 22:00:25 -0700"
 number: 16
 type: ""
+venue: "Harvestworks Digital Media Center"
 summary: "Harvestworks Digital Media Center | CALL FOR ENTRIES"
 ---
 

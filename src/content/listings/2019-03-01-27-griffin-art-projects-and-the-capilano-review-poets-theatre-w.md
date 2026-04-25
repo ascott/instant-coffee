@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 27
 type: "EDUCATION"
+venue: "Griffin Art Projects and The Capilano Review"
 summary: "Griffin Art Projects and The Capilano Review | Poets Theatre Workshop | MAR 9"
 ---
 

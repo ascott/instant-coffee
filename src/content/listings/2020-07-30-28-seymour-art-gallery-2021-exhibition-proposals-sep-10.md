@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 28
 type: "CALL"
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | 2021 Exhibition Proposals | SEP 10"
 ---
 

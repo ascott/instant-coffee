@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 36
 type: "OPENING"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Barbara Astman: Concealed, Revealed | 1PM | APR 26"
 ---
 

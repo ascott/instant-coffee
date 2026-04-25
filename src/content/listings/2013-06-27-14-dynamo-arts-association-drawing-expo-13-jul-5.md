@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 14
 type: ""
+venue: "DYNAMO ARTS ASSOCIATION"
 summary: "DYNAMO ARTS ASSOCIATION | DRAWING EXPO 13 | JUL 5"
 ---
 
@@ -18,13 +19,13 @@ Drop-in Viewing Hours: 11AM - 4PM Saturdays
 Viewing by Appointment: info@dynamoarts.org
 
 Artists: Maggie Boyd, Gabriel Deerman, Rob Dobie, DRIL (Dylan McHugh, 
-Rachel White, Ian Prentice and Leisha Oâ€™Donohue), AimÃ©e Van DrimmÃ©lÃ©n,
+Rachel White, Ian Prentice and Leisha O’Donohue), Aimée Van Drimmélén,
 Roselina Hung, Charles Keillor, Aaron S Moran, Luke Ramsey, EC Salazar, 
 Anastasia Ugorskaya
 
 Drawing Expo started as an annual group exhibition curated by Gabriel 
 Deerman in 2007. Its mandate is to present a diverse spectrum of artists from 
-Canada and abroad working in the field of contemporary drawing. â€œDrawing 
+Canada and abroad working in the field of contemporary drawing. “Drawing 
 Expoâ€  is a celebration of the imagination and fantasy that flourishes within the 
 transference of the artist's idea to the drawn surface. New worlds are 
 projected by this exciting medium. The artists involved challenge disciplinary 

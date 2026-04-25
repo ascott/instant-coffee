@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 2
 type: "EVENT"
+venue: "Grosvenor Ambleside"
 summary: "Grosvenor Ambleside | Art & Scotch | 6PM | JUL 25"
 ---
 

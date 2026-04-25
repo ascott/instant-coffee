@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 8
 type: ""
+venue: "Western Front Exhibitions"
 summary: "Western Front Exhibitions | Reece Terris | DEC 4"
 ---
 
@@ -20,9 +21,9 @@ Vancouver 2010 Cultural Olympiad.
 
 The Western Front Front - Another False Front is an architectural
 intervention constructed on the exterior of the Western Front building.
-Terris' addition consists of a new, larger faÃ§ade, including parapet and
+Terris' addition consists of a new, larger façade, including parapet and
 cornice. Exaggerating its formal elements, the structure has been built at
-one-and-a-half times scale, and installed on top of the existing faÃ§ade at
+one-and-a-half times scale, and installed on top of the existing façade at
 a slight angle.
 
 Historically, wooden false front were ornamental structures erected on the
@@ -41,7 +42,7 @@ This affiliation grew into the Western Front Society, one of Canada's
 longest-running artist-run centres.
 
 Drawing from architectural history to contemporary discussions around
-faÃ§adism (the practice of demolishing a building while leaving its faÃ§ade
+façadism (the practice of demolishing a building while leaving its façade
 intact), Terris' project juxtaposes bygone projections of culture and
 prosperity with references to the rapidly expanding economic cycle of
 modern-day Vancouver.

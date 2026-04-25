@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 5
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Matthew Monahan | APR 26"
 ---
 
@@ -34,16 +35,16 @@ Monahan.
 
 This dynamic survey spans the entire gallery space and showcases 
 select work made during the past eight years. In addition, this exhibition 
-brings together, for the first time, three distinct phases of Monahanâ€™s 
+brings together, for the first time, three distinct phases of Monahan’s 
 practice: early works using drywall, more recent pieces utilizing large 
 sheets of glass and industrial ratchet straps and new works created in 
 cast bronze atop columns made from materials from foundries including 
 bricks and metal.
 
-Monahanâ€™s figurative sculptures and drawings evoke artefacts from 
-another time or era. There is a sense that Monahanâ€™s practice reaches 
+Monahan’s figurative sculptures and drawings evoke artefacts from 
+another time or era. There is a sense that Monahan’s practice reaches 
 across time, cultures and geographies, and evokes the classicism 
-within European traditions. Monahanâ€™s work reflects his interest in the 
+within European traditions. Monahan’s work reflects his interest in the 
 interplay between two and three dimensions, between drawing and 
 materiality, personal mythology and a self-reflective look at the 
 conventions of museum display and within his work there is a diverse 

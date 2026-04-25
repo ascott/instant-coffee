@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 4
 type: ""
+venue: "Western Front"
 summary: "Western Front | Project Rainbow: Ultraviolet | FEB 21"
 ---
 
@@ -22,7 +23,7 @@ and movement at Western Front, specifically the work and impact of dancer
 and educator Jane Ellison, who has been an integral part of Western Front 
 since 1975. Project Rainbow will screen a selection of past work, work in 
 progress, interviews and tapes from the archive, including Steve Paxton and 
-Paul Wongâ€™s Asteroid (1978). Additional works from the Western Front Media 
+Paul Wong’s Asteroid (1978). Additional works from the Western Front Media 
 Archive that informed Project Rainbow's research will be made available online 
 at www.front.bc.ca.
 
@@ -30,7 +31,7 @@ Project Rainbow are Jesse Birch, Jade Boyd, Sydney Vermont and Heidi
 Nutley, a group of Vancouver-based interdisciplinary artists who collaborate to 
 explore the study of colour through photography, film, video, and movement. 
 Their projects are research based and often derive from literature, dance, film, 
-and art history and have included diverse sources such as HonorÃ© de Balzac, 
+and art history and have included diverse sources such as Honoré de Balzac, 
 Maya Deren, and Yvonne Rainer. Through a series of idiosyncratic steps, 
 Project Rainbow translates their research from theoretical reference to 
 gestural act. Recent projects include Blue (2010) commissioned by the City 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 17
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Living Room | AUG 24"
 ---
 

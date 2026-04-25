@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 11
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Seeking | Outreach Assistant | MAY 31"
 ---
 

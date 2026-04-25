@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 7
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Enda Bardell | 6-8PM | JAN 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 37
 type: ""
+venue: "JOB"
 summary: "JOB | The Capilano Review | Managing Editor | MAR 10"
 ---
 

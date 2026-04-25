@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 15
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | THE STATE OF INFINITE DIVISION | FEB 1"
 ---
 

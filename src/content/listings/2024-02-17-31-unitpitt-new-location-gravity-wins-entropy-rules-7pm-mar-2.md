@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 31
 type: "OPENING"
+venue: "UNIT/PITT [NEW LOCATION]"
 summary: "UNIT/PITT [NEW LOCATION] | Gravity Wins, Entropy Rules | 7PM | MAR 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 2
 type: ""
+venue: "GRUNT GALLERY SPECIAL PROJECT"
 summary: "GRUNT GALLERY SPECIAL PROJECT | who is that body in the window? | MAR 3"
 ---
 
@@ -81,7 +82,7 @@ EMILIO ROJAS
 Title: 33,797
 
 An unfinished drawing made entirely out of crosses creates the profile of
-the right-wing Mexican President, Felipe CalderÃ³n. A visual representation
+the right-wing Mexican President, Felipe Calderón. A visual representation
 of each life that has been lost in the country's self-denominated "war"
 against the country's drug cartels. Initiated in December 2006 by the
 President,in 4 years -according to government figures - this conflict has
@@ -94,7 +95,7 @@ This eruption of violence affects the livelihoods of thousands of families
 and has led to an unprecedented climate of fear in the country. The latest
 national polls indicate that 8 out of 10 Mexicans believe the "narcos" are
 winning the war, and more than half of the population disapproves of
-President CalderÃ³n's actions against the cartels. With this work, Emilio
+President Calderón's actions against the cartels. With this work, Emilio
 Rojas joins the ranks of contemporary Mexican artists who use their work to
 protest the country's current violence, in a campaign titled, No Mas
 Sangre, (No more blood). In a time of heightened fear and uncertainty, with

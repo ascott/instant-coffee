@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 7
 type: ""
+venue: "VIVO Workshops"
 summary: "VIVO Workshops | CIRCUIT BUILDING | JAN 13"
 ---
 

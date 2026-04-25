@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 18
 type: "OPENING"
+venue: "CityScape Community ArtSpace"
 summary: "CityScape Community ArtSpace | The Body Is A Present | 6PM | SEP 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 9
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Twenty-Three Days at Sea: Kickstarter Launch | AUG 10"
 ---
 
@@ -19,7 +20,7 @@ After receiving an overwhelming response of nearly 900 submissions from
 artists worldwide, it became clear that Twenty-Three Days at Sea is more
 than simply an artist residency: it is a powerful framework through which
 to address the complexity of our contemporary condition. Compelled by the
-sheer diversity of artistsâ€™ proposals, and the breadth of creative queries,
+sheer diversity of artists’ proposals, and the breadth of creative queries,
 concerns and materials that might be brought to this sea voyage, we have
 expanded our initial parameters of the program so that we may now realize
 it as a three-year project, enabling four international and local emerging

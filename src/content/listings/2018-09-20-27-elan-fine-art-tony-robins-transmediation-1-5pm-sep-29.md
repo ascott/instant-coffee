@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 27
 type: "OPENING"
+venue: "Elan Fine Art"
 summary: "Elan Fine Art | TONY ROBINS - Transmediation | 1-5PM | SEP 29"
 ---
 

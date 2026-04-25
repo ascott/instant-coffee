@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 16
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | A study in restraint, nanlaban | 7PM | SEP 5"
 ---
 

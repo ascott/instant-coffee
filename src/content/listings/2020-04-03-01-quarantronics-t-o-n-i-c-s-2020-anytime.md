@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 1
 type: "CALL"
+venue: "@QuaranTronics"
 summary: "@QuaranTronics | T O N I C S | 2020 (ANYTIME)"
 ---
 

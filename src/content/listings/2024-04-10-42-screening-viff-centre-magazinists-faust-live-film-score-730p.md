@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 42
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF Centre | Magazinist's FAUST | Live Film Score | 730PM | APR 30"
 ---
 

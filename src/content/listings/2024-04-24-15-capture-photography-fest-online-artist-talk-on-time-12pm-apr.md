@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 15
 type: "TALK"
+venue: "Capture Photography Fest [ONLINE]"
 summary: "Capture Photography Fest [ONLINE] | Artist Talk: On Time | 12PM | APR"
 ---
 

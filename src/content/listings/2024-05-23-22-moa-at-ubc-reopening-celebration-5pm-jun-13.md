@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 22
 type: "EVENT"
+venue: "MOA at UBC"
 summary: "MOA at UBC | Reopening Celebration | 5PM | JUN 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 10
 type: "EDUCATION"
+venue: "nusica.org"
 summary: "nusica.org | ITACA 4et's debut album"
 ---
 

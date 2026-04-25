@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 22
 type: "OPENING"
+venue: "Patron Art House"
 summary: "Patron Art House | Keith Mitchell: Phantom Shadows | 6-9PM | APR 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 20
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Rebecca Brewer on Rochelle Goldberg | JUN 22"
 ---
 

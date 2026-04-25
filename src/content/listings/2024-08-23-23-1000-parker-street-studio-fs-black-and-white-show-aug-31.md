@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "1000 Parker Street Studio"
 summary: "1000 Parker Street Studio | FS Black and White Show | AUG 31"
 ---
 

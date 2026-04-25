@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | Victoria Film Festival | VICTORIA | Indigenous & Anniversary Programming Assistant | MAY 10"
 ---
 

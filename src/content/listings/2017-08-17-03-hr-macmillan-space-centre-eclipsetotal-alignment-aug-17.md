@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mother of Pearl Moustache Comb"
 emailDate: "Thu, 17 Aug 2017 08:47:17 -0700"
 number: 3
 type: "EVENT"
+venue: "H.R. MacMillan Space Centre"
 summary: "H.R. MacMillan Space Centre | ECLIPSE:Total Alignment | AUG 17"
 ---
 

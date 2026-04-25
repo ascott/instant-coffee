@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 10
 type: "TALK"
+venue: "Fillip & The Cinematheque [ONLINE]"
 summary: "Fillip & The Cinematheque [ONLINE] | Penny Slinger | 2PM | OCT 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 22
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Applications to Capture | OCT 18"
 ---
 

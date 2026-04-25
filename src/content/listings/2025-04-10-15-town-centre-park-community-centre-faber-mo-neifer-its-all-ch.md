@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 15
 type: "OPENING"
+venue: "Town Centre Park Community Centre"
 summary: "Town Centre Park Community Centre | Faber Mo Neifer: It’s All Chinese to Me | 6PM | APR 12"
 ---
 

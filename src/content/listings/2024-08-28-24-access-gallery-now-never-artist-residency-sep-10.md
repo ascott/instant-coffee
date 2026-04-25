@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 24
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | NOW, NEVER artist residency | SEP 10"
 ---
 

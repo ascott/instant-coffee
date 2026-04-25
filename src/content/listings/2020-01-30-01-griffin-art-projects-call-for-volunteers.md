@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 1
 type: "CALL"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Call for Volunteers"
 ---
 

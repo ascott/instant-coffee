@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 27
 type: "CALL"
+venue: "Oxygen Art Centre"
 summary: "Oxygen Art Centre | Call for Submissions | JUN 15"
 ---
 

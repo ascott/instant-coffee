@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 24
 type: ""
+venue: "UBC: Joan Carlisle-Irving Lecture Series"
 summary: "UBC: Joan Carlisle-Irving Lecture Series | Laura Mulvey | FEB 23"
 ---
 
@@ -35,7 +36,7 @@ ultimately deal with that Thing which defies signification.
 Laura Mulvey came to prominence in the 1970s as a filmmaker and theorist.
 She wrote essays for such periodicals/journals as Screen, Spare Rib, and
 Seven Days. Much of her early work investigated questions of spectatorial
-identification and itÃ¢ï¿½ï¿½s relationship to the male gaze, and her writings,
+identification and itâ��s relationship to the male gaze, and her writings,
 particularly the 1975 essay Visual Pleasure and Narrative Cinema, helped
 establish feminist film theory as a bourgeoning legitimate field of study.
 Between 1794 and 1982, Mulvey co-wrote and co-directed six theoretical
@@ -48,10 +49,10 @@ examining the fate of revolutionary monuments in the Soviet Union after the
 fall of communism. In 1996, she published Fetishism and Curiosity and in
 2006, Death 24x a Second: Stillness and the Moving Image.
 
-Laura MulveyÃ¢ï¿½ï¿½s lecture was made possible by the Joan Carlisle Irving
+Laura Mulveyâ��s lecture was made possible by the Joan Carlisle Irving
 Lecture Series and thanks to generous contributions provided by the
-PresidentÃ¢ï¿½ï¿½s Advisory Committee on Lectures, UBC and from The Center for
-WomenÃ¢ï¿½ï¿½s and Gender Studies, UBC
+Presidentâ��s Advisory Committee on Lectures, UBC and from The Center for
+Womenâ��s and Gender Studies, UBC
 
 More information: http//www.ahva.ubc.ca/eventsCurrentJCI.cfm
 UBC Department of Art History, Visual Art and Theory

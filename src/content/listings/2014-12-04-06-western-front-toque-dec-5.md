@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 6
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | TOQUE | DEC 5"
 ---
 
@@ -21,7 +22,7 @@ artist Casey Wei.
 TOQUE coincides with our Holiday Membership Drive, so join/renew at the
 event for perks and prizes and help us reach our goal of 200 members.
 
-Admission is by donation. Proceeds support Western Frontâ€™s year-round art
+Admission is by donation. Proceeds support Western Front’s year-round art
 and new music programs.
 
 PARTICIPATING VENDORS

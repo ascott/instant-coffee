@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 3
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF Vancity Theatre | Jem Noble: Ghost Materialities | OCT 29"
 ---
 
@@ -12,7 +13,7 @@ VIFF Vancity Theatre presents:
 JEM NOBLE
 Ghost Materialities: Undisclosed Forces and the Neoliberal Subject
 
-Essay-Performance and Artist Edits of Ghostsâ€¦ Of The Civil Dead (John
+Essay-Performance and Artist Edits of Ghosts… Of The Civil Dead (John
 Hillcoat) and They Live (John Carpenter)
 
 Total Running Time: 75 minutes
@@ -24,7 +25,7 @@ VIFF Vancity Theatre
 Concessions: $9
 General Admission: $11
 Special Offer: Tickets for this presentation provide free entry to the
-subsequent screening of Ghostsâ€¦ Of The Civil Dead, 8.45pm
+subsequent screening of Ghosts… Of The Civil Dead, 8.45pm
 (http://bit.ly/1OQIRlY)
 Tickets: http://bit.ly/1QQ3f5P
 
@@ -55,14 +56,14 @@ responsibility; in understanding the forces shaping and comprising our own
 subjectivities; in the shadow of growing, elitist, economic power.
 
 This presentation will be followed by a rare screening of the theatrical
-version of Ghostsâ€¦ Of The Civil Dead, in partnership with Cineworks. This
+version of Ghosts… Of The Civil Dead, in partnership with Cineworks. This
 is a one-off screening opportunity made possible by exceptional permission
 granted to Jem Noble by Producer Evan English, during an unresolved period
 when all other screening rights (including those requested by TIFF) are
 being withheld. This unique event is made doubly special with a screening
 from 35mm film print from the National Film and Sound Archive of Australia.
 
-John Carpenterâ€™s They Live screens at Vancity Theatre in partnership with
+John Carpenter’s They Live screens at Vancity Theatre in partnership with
 Cineworks on Halloween.
 
 Jem Noble is based in Vancouver and works with a wide range of production
@@ -74,7 +75,7 @@ installations and publications that draw the aesthetics of material and
 visual culture into questions of what forces they express, mediate and connect.
 
 Among recent projects Noble has produced image, text and audio work in
-conjunction with Bruce Naumanâ€™s Days at the ICA, London; created a
+conjunction with Bruce Nauman’s Days at the ICA, London; created a
 lecture-performance for the European Art Research Network at Documenta 13;
 developed a lending-library of self-improvement materials on commercially
 obsolete media found in Hobart second-hand shops for permanent installation

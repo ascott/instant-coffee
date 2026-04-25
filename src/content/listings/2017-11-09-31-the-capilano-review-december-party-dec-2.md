@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 31
 type: "EVENT"
+venue: "The Capilano Review"
 summary: "The Capilano Review | December Party | DEC 2"
 ---
 

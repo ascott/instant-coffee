@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 13
 type: "CALL"
+venue: "ISEA2015"
 summary: "ISEA2015 | Volunteer Program | JUN 20"
 ---
 
 ISEA2015 STUDENT VOLUNTEER PROGRAM
-VOLUNTEER APPLICATION DEADLINE â€“ 20 June 2015 22:00 PST
+VOLUNTEER APPLICATION DEADLINE – 20 June 2015 22:00 PST
 The 21st International Symposium on Electronic Art invites students,
-artists, practitioners who want to be â€˜where the action isâ€™ to volunteer
+artists, practitioners who want to be ‘where the action is’ to volunteer
 for ISEA2015.
 What is ISEA2015?
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 3
 type: "CALL"
+venue: "Zack Gallery"
 summary: "Zack Gallery | The Jewish Community Centre | JAN 15"
 ---
 

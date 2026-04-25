@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 8
 type: "OPENING"
+venue: "UBC AHVA"
 summary: "UBC AHVA | The Undergraduate Exhibition 2024 | JAN 24"
 ---
 

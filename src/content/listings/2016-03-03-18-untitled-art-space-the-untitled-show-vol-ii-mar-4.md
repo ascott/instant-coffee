@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 18
 type: "OPENING"
+venue: "Untitled Art Space"
 summary: "Untitled Art Space | The Untitled Show: Vol II | MAR 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this might be oversize"
 emailDate: "Thu, 10 Sep 2009 10:10:13 -0700"
 number: 25
 type: ""
+venue: "Emily Carr"
 summary: "Emily Carr | Jamer Hunt | Guest Lecture | SEP 14"
 ---
 

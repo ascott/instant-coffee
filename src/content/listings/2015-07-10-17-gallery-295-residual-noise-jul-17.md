@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 17
 type: "OPENING"
+venue: "Gallery 295"
 summary: "Gallery 295 | Residual Noise | JUL 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 35
 type: "TALK"
+venue: "Gathering Place"
 summary: "Gathering Place | Art Talks in Plain English Series | 530PM | JUL 9"
 ---
 

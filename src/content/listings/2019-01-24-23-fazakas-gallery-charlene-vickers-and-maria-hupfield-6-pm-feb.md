@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 23
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Charlene Vickers and Maria Hupfield | 6 PM | FEB 1"
 ---
 

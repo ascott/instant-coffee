@@ -73,7 +73,7 @@ khiggins@tatlin.com
 
 "Giving cultural agencies operational autonomy to implement the major
 portion of Canadian cultural policy in the arts sector is an important part
-of government policy. The armâ€™s length principle is one of Canadaâ€™s
+of government policy. The arm’s length principle is one of Canada’s
 cultural traditions; it lies at the very heart of artistic freedom and
 freedom of expression."
 
@@ -175,7 +175,7 @@ life; and Evan Lee uses the dollar store to discuss the complex relations
 between the consumption of objects and what a still life represents.
 
 Still Life is the second publication in a series of three that use the
-petit genres of landscape, portrait and still life to reflect the CAGâ€™s
+petit genres of landscape, portrait and still life to reflect the CAG’s
 recent programming and to frame current tendencies in contemporary art.
 
 Also last chance to see Triumphant Carrot: The Persistence of Still Life,
@@ -183,7 +183,7 @@ which closes August 22nd
 
 BOOK SALE
 
-Be sure not to miss the publication sale, with many popular titles at 50 â€“
+Be sure not to miss the publication sale, with many popular titles at 50 –
 75% off, free giveaways and special promotions on your favourite CAG
 publications.
 

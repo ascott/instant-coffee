@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 46
 type: "CALL"
+venue: "The Kasahara Gabriola Trust"
 summary: "The Kasahara Gabriola Trust | Three residency periods 2026 | APR 16"
 ---
 

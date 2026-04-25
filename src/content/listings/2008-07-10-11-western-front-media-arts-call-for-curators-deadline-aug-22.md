@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee Boils: 95% hotter"
 emailDate: "Thu, 10 Jul 2008 09:30:06 -0700"
 number: 11
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | CALL for curators | deadline | AUG 22"
 ---
 

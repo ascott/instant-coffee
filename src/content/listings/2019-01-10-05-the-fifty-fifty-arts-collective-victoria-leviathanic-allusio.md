@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 5
 type: "OPENING"
+venue: "the fifty fifty arts collective (Victoria)"
 summary: "the fifty fifty arts collective (Victoria) | Leviathanic Allusion by Natasha van Netten | 7-10PM | JAN 10"
 ---
 

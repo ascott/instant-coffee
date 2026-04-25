@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 21
 type: "EVENT"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Pre-Crawl Preview | NOV 8"
 ---
 

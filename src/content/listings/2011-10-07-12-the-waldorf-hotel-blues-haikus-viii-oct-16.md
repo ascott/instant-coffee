@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 12
 type: "EVENT"
+venue: "The Waldorf Hotel"
 summary: "The Waldorf Hotel | Blues & Haikus VIII | OCT 16"
 ---
 

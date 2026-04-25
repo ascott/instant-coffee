@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 48
 type: "EVENT"
+venue: "READ Books"
 summary: "READ Books | A Symposium on Artists' Publishing | JUL 12"
 ---
 

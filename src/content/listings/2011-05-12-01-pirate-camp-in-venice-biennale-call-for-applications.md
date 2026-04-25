@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 1
 type: ""
+venue: "Pirate-Camp in Venice Biennale"
 summary: "Pirate-Camp in Venice Biennale | Call for applications."
 ---
 
@@ -38,7 +39,7 @@ Info
 Deadline: May 10
 A new itinerant artists in residency program in a campsite
 1st edition:
-MAY 31 â€“ JUNE 6_2011 - Venice Biennale
+MAY 31 – JUNE 6_2011 - Venice Biennale
 theme: THE STATELESS PAVILLION
 apply now on the website!
 
@@ -58,7 +59,7 @@ story.After the attack, time has come for the pirates to halt on the
 mainland: colonize the territory and share the treasures stored during
 their long trip, before taking the Sea route again.
 
-The pirate camp â€“ filling up the ideal gap between the sea, the pirates
+The pirate camp – filling up the ideal gap between the sea, the pirates
 dominion, and the land, the system's dominion - is first and foremost a
 work of art itself. It is the metaphorical representation of the natural
 and necessary condition of being-an-artist.
@@ -71,8 +72,8 @@ to critically observe and depict the world.
 Pirate Camp wants do be an answer to young artists' needs since going to
 the great arts biennals, the most important art fairs and exhibitions can
 be very expensive. Hence, the creation of a campsite totally free of charge
-that will allow a specific number of artists â€“ selected through a public
-competition â€“ to experience these events.
+that will allow a specific number of artists – selected through a public
+competition – to experience these events.
 
 The first PIRATE CAMP edition will be held during the 54th Biennale d'Arte
 di Venezia from May 31 to June 6, 2011 breaking for the first time the

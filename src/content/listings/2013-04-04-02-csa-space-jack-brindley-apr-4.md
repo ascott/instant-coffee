@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 2
 type: ""
+venue: "CSA space"
 summary: "CSA space | Jack Brindley | APR 4"
 ---
 
@@ -38,12 +39,12 @@ Biennale and The Institute of Contemporary Arts, London.
 BLUEPRINT
 Jack Brindley
 Guest curated by Victor Wang
-April 4th â€“April 14 2013
+April 4th –April 14 2013
 Opening April 4th 6pm-9pm
 
 For his first solo exhibition in Canada, Brindley will present an entirely new
-body of work, for example the paintings â€˜Blueprint (London to Vancouver,
-2013)â€™ which will be a painting created by its travel from the artist's studio 
+body of work, for example the paintings ‘Blueprint (London to Vancouver,
+2013)’ which will be a painting created by its travel from the artist's studio 
 in
 London to CSA space. The work involves shipping canvas material coated in a
 photosensitive emulsion (Cyanotype) to the gallery. The work is ˜developed as
@@ -63,11 +64,11 @@ deterritorialization of autonomous pigments lost in diaspora. A â€˜rhizomati
 €™
 structure containing the capacity to circumvent singular acts of color, thought,
 and gesture. Lying in an expanded field of ahistorical happenings off the
-â€˜network of paintingâ€™; the material reconstruction is an illusion of the 
+‘network of painting’; the material reconstruction is an illusion of the 
 market,
-and unnecessary in the formulation of the â€˜painterlyâ€™. Where an 
+and unnecessary in the formulation of the ‘painterly’. Where an 
 ephemeral
-exhibition is neither the start nor end of this division of labor â€“ but rather a
+exhibition is neither the start nor end of this division of labor – but rather a
 Promethean fire to ignite the spectacle as an independent realm of modern
 society. Built on a hierarchy of medium specificity, and interdependence of
 subject/object relationalism, the space beyond the frame is allowed to exist in

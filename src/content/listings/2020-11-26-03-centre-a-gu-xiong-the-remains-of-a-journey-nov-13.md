@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Neighbour's Plate"
 emailDate: "Thu, 26 Nov 2020 09:10:12 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Gu Xiong: The Remains of a Journey | NOV 13"
 ---
 

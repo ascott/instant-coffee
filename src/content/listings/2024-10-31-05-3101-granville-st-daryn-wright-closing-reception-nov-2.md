@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 5
 type: "EVENT"
+venue: "3101 Granville St"
 summary: "3101 Granville St | Daryn Wright Closing Reception | NOV 2"
 ---
 

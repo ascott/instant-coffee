@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 7
 type: ""
+venue: "Contemporary Art Gallery and ECU"
 summary: "Contemporary Art Gallery and ECU | Artist Talk: Raymond Boisjoly | MAR 4"
 ---
 
@@ -15,7 +16,7 @@ Monday, March 4, 7pm
 Emily Carr University of Art + Design 
 Room 301, 1399 Johnston Street, Granville Island
 
-Boisjoly is an Aboriginal artist of Haida and QuÃ©bÃ©cois descent based in 
+Boisjoly is an Aboriginal artist of Haida and Québécois descent based in 
 Vancouver, BC. His practice engages the representation of Aboriginality through 
 vernacular materials, photography and especially text-based work combining 
 contemporary craft, pop references and street art with various cultural signifiers 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 7
 type: "EVENT"
+venue: "Vancouver Biennale Art & Technology Expo"
 summary: "Vancouver Biennale Art & Technology Expo | #ArtProject2020 launch | NOV 11"
 ---
 

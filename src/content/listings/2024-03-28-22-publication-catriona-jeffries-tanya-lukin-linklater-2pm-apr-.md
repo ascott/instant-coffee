@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 22
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Catriona Jeffries | Tanya Lukin Linklater | 2PM | APR 6"
 ---
 

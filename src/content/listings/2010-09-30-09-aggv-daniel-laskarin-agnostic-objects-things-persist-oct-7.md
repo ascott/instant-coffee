@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 9
 type: ""
+venue: "AGGV"
 summary: "AGGV | Daniel Laskarin: Agnostic Objects (things persist) | OCT 7"
 ---
 
@@ -14,28 +15,28 @@ will present the work of Victoria sculptor Daniel Laskarin in his first
 survey exhibition, Daniel Laskarin: Agnostic Objects (things persist).
 
 Daniel Laskarin: Agnostic Objects (things persist) opens Oct. 8 for a four
-month run at the AGGV. The show features 20 of Laskarinâ€™s sculptures,
+month run at the AGGV. The show features 20 of Laskarin’s sculptures,
 created over the past decade, including several new works from 2010.
 Laskarin, a former helicopter pilot and engineer uses the skills from his
 former occupations to find new ways of manipulating and using industrial
 materials in his work.
 
-â€œIn an increasingly two-dimensional world, sculpture is reasserting itself
+“In an increasingly two-dimensional world, sculpture is reasserting itself
 as an essential art practice. This is good news in a city that for three
 decades has been developing some of the best sculptors in Canada,â€  said Jon
-Tupper director of the Art Gallery of Greater Victoria. â€œThe work of Daniel
+Tupper director of the Art Gallery of Greater Victoria. “The work of Daniel
 Laskarin fits into the unique practice that one finds in Victoria.â€ 
 
-â€œLaskarin uses a wide variety of materials to intrigue and repulse,
+“Laskarin uses a wide variety of materials to intrigue and repulse,
 materials that suggest or refer to the familiar but somehow can not be
 defined,â€  said exhibition curator Nicole Stanbridge. In Laskarinâ€™s most
 recent work, now beacon, now sea, he pushes his material explorations to
 the limits. Laskarin takes a familiar object, a chair, made of steel and
-ravaged by a shotgun, and gently swathes it in luxurious fabric. â€œAn homage
+ravaged by a shotgun, and gently swathes it in luxurious fabric. “An homage
 to the Baroque, no doubt, but with a tenacious sobriety,â€  added Stanbridge.
 
-â€œI set out to create objects which might look almost recognizable, but
-never quite identifiable â€“ that hover within the agnostic condition of
+“I set out to create objects which might look almost recognizable, but
+never quite identifiable – that hover within the agnostic condition of
 uncertainty between the general and the specific,â€  said Laskarin.
 
 Laskarin whose sculptures and public art commissions have been presented
@@ -62,7 +63,7 @@ Thursday Oct. 7 at 7:30 p.m.
 
 Nov. 5, 8-11 p.m.
 
-URBANITE: Inspired by Daniel Laskarinâ€™s Agnostic Objects (things persist).
+URBANITE: Inspired by Daniel Laskarin’s Agnostic Objects (things persist).
 
 With artists Eden Veaudry and Justin Love.
 

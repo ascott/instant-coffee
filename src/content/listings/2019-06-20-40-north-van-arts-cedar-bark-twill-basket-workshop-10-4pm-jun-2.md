@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 40
 type: "EDUCATION"
+venue: "North Van Arts"
 summary: "North Van Arts | Cedar Bark Twill Basket Workshop | 10-4PM | JUN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 21
 type: ""
+venue: "Robson Square READING SERIES"
 summary: "Robson Square READING SERIES | Lee Henderson & Andreas Schroeder | MAR 26"
 ---
 

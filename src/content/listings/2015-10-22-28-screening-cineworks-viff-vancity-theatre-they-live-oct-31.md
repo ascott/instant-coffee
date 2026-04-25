@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 28
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks & VIFF Vancity Theatre | They Live | OCT 31"
 ---
 

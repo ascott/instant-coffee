@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 5
 type: "CALL"
+venue: "The Well Studios"
 summary: "The Well Studios | Pleasure Portal"
 ---
 

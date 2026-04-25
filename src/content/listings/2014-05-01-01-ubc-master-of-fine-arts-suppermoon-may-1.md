@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 1
 type: ""
+venue: "UBC Master of Fine Arts"
 summary: "UBC Master of Fine Arts | SUPPERMOON | MAY 1"
 ---
 

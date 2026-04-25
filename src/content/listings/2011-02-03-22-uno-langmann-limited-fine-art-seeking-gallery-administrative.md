@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 22
 type: ""
+venue: "Uno Langmann Limited Fine Art"
 summary: "Uno Langmann Limited Fine Art | seeking: Gallery Administrative Assistant | FEB 11"
 ---
 

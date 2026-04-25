@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 16
 type: ""
+venue: "Dim Cinema at The Cinematheque"
 summary: "Dim Cinema at The Cinematheque | Casey Wei | APR 14"
 ---
 

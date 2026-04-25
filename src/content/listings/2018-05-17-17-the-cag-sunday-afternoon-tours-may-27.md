@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 17
 type: "TALK"
+venue: "The CAG"
 summary: "The CAG | Sunday Afternoon Tours | MAY 27"
 ---
 

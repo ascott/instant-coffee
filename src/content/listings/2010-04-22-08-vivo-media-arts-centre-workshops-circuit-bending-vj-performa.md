@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cerulean blue cracks us up"
 emailDate: "Thu, 22 Apr 2010 12:14:58 -0700"
 number: 8
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | WORKSHOPS: CIRCUIT BENDING & VJ: PERFORMANCE VIDEO | APR 25"
 ---
 

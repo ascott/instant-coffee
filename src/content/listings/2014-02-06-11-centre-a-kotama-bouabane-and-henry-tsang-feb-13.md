@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 11
 type: ""
+venue: "Centre A"
 summary: "Centre A | Kotama Bouabane and Henry Tsang | FEB 13"
 ---
 
@@ -13,8 +14,8 @@ Follow Suit
 
 Kotama Bouabane and Henry Tsang
 
-February 13, 2014 â€“ April 12, 2014
-Gallery Hours: Tuesdays â€“ Saturdays, 11am â€“ 6pm
+February 13, 2014 – April 12, 2014
+Gallery Hours: Tuesdays – Saturdays, 11am – 6pm
 Opening reception: Thursday, February 13, 2014, 7pm | 229 East 
 Georgia Street, Vancouver BC
 Essay: Chris Lee
@@ -67,7 +68,7 @@ Otherness.
 
 *data.un.org
 
-The exhibition will be on display from February 13, 2014 â€“ April 12, 
+The exhibition will be on display from February 13, 2014 – April 12, 
 2014.
 
 A small publication with an essay by Chris Lee is being produced in 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 15
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Surrey Urban Screen | until | MAR 31"
 ---
 

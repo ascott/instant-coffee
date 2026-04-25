@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 4
 type: "EVENT"
+venue: "ECUAD - RBC Media Gallery"
 summary: "ECUAD - RBC Media Gallery | The LOOP Show Closing Reception | 430-730PM | NOV 1"
 ---
 

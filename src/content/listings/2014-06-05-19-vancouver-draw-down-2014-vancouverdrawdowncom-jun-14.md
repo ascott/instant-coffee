@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 19
 type: ""
+venue: "Vancouver Draw Down 2014"
 summary: "Vancouver Draw Down 2014 | vancouverdrawdown.com | JUN 14"
 ---
 

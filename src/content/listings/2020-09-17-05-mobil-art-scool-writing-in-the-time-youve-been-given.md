@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 5
 type: "EDUCATION"
+venue: "Mobil Art Scool"
 summary: "Mobil Art Scool | Writing in the Time You’ve Been Given"
 ---
 

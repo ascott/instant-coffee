@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 23
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Un Quiet Bodies & The Transience of Value | APR 24"
 ---
 
@@ -12,8 +13,8 @@ Un Quiet Bodies
 Salon Shop exhibition:
 The Transience of Value | Lena Tan
 
-Opening reception: Friday, April 24th, 7.00 â€“ 10.00pm
-Exhibition runs: April 24th â€“ May 31st, 2015
+Opening reception: Friday, April 24th, 7.00 – 10.00pm
+Exhibition runs: April 24th – May 31st, 2015
 --
 
 Un Quiet Bodies
@@ -21,7 +22,7 @@ Un Quiet Bodies
 Un Quiet Bodies features the work of Aja Rose Bond and Chandra Melting Tallow.
 
 Un Quiet Bodies delves into the complex realities of the physiology of
-trauma, self-awareness, and levels of ability impacting oneâ€™s capacity to
+trauma, self-awareness, and levels of ability impacting one’s capacity to
 survive in a society designed for the â€œable-bodiedâ€ . Bondâ€™s work emphasizes
 the relationship between work, leisure and self-care when accounting for
 physical and mental limitations. Melting Tallow explores the implications
@@ -33,7 +34,7 @@ Zine Reading and Discussion Group - May 17th, 1-3pm 
 when language runs dry: a zine for people with chronic pain and their
 allies facilitated by Aja Rose Bond
 
-Closing Performance - May 31st, 7Â­pm
+Closing Performance - May 31st, 7­pm
 Shrouded Forms - Sound by Chandra Melting Tallow
 *limited audience of 15 please, RSVP by email programming@gachet.org or in
 person at the gallery

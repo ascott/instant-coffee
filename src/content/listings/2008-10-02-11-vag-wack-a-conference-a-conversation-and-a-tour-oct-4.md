@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 11
 type: ""
+venue: "VAG"
 summary: "VAG | WACK: A conference, a conversation and a tour | OCT 4"
 ---
 

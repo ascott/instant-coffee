@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 15
 type: ""
+venue: "SIGNAL & NOISE"
 summary: "SIGNAL & NOISE | CALLING FOR ARTIST AND CURATOR SUBMISSIONS | DEC 31"
 ---
 
@@ -29,9 +30,9 @@ Eli Bornowsky, Kevin Lee Burton, Paul Chan, Shawn Chapelle, Dana Claxton,
 Aleesa Cohene, Thirza Cuthand, Francisca Duran, Sylvain Duval, Kevin Jerome
 Everson, Geoffrey Farmer, Flatgrey, Coin Gutter, Nelson Hendricks, David
 Hoffos, Holzkopf, Mike Hoolboom, Oliver Husain, Lee Hutzulak, Intermission
-Artist Society, Luis Jacob, Anne-FranÃ§oise Jacques, Miranda July, George
+Artist Society, Luis Jacob, Anne-Françoise Jacques, Miranda July, George
 Kuchar, Meesoo Lee, Amy Lockhart, Anne McGuire, Julia Meltzer and David
-Thorne, FrÃ©dÃ©ric Moffet, Monique Moumblow, Shana Moulton, Takeshi Murata,
+Thorne, Frédéric Moffet, Monique Moumblow, Shana Moulton, Takeshi Murata,
 Clark Nikolai, Shelley Niro, Midi Onodera, Judy Radul, Steve Reinke,
 Vanessa Renwick, Kristen Roos, Mirha-Soleil Ross, Jean Routhier, Ken Roux,
 Jayce Salloum, Semiconductor, Coral Short, Tadasu Takamine, Tom Sherman,

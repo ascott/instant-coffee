@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 32
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | VPL | Off the Map:Lived Experience of Mental Health| 1PM | JUN 7"
 ---
 

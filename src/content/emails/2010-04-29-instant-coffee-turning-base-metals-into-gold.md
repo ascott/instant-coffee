@@ -469,7 +469,7 @@ Emily Carr graduation exhibitions
 
 Join us as we showcase the work of our 2010 Graduates and Undergraduates.
 
-These exhibitions highlight studentsÃ¢ï¿½ï¿½ creativity and innovation across
+These exhibitions highlight studentsâ�� creativity and innovation across
 visual arts,
 
 media and design. Exhibitions are free and open to the public.
@@ -646,7 +646,7 @@ www.vanartgallery.bc.ca
 ------------------------------------------------------------------------
 Beau Dick
 Pookwis
-May 6th Ã¢ï¿½ï¿½ June 27th, 2010
+May 6th â�� June 27th, 2010
 
 Opening Reception Thursday May 6th 6-9pm
 Artist in Attendance
@@ -828,7 +828,7 @@ inserted, genetic material, begins to manufacture a viable, benign
 protein a protein that, according to the original, chemical alphabet, is
 itself another text. He is, in effect, striving to engineer a life-form so
 that it becomes not only a durable archive for storing a poem, but also a
-useable machine for writing a poem a poem that can literally survive foreverÂ¦.
+useable machine for writing a poem a poem that can literally survive forever¦.
 
 +*+*+
 

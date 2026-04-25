@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 26
 type: "PERFORMANCE"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Responses to the Collection | 2PM | JAN 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 3
 type: ""
+venue: "BLIM ART SHOW"
 summary: "BLIM ART SHOW | Eden Veaudry | OCT 1"
 ---
 

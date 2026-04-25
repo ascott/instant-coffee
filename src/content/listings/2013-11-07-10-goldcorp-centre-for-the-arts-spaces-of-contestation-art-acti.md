@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 10
 type: ""
+venue: "Goldcorp Centre for the Arts"
 summary: "Goldcorp Centre for the Arts | Spaces of Contestation: Art, Activism and the City | NOV 12"
 ---
 
@@ -19,7 +20,7 @@ UNIT/PITT Projects, the SFU Vancity Office of Community Engagement & the
 SFU Institute for the Humanities present:
 
 Spaces of Contestation: Art, Activism and the City is a series of talks, 
-curated by Mariane Bourcheix-Laporte, presented by SFUâ€™s Vancity Office of 
+curated by Mariane Bourcheix-Laporte, presented by SFU’s Vancity Office of 
 Community Engagement, the SFU Institute for the Humanities, and UNIT/PITT 
 Projects. The series is part of a multi-layered project researching the 
 aesthetic and conceptual overlap existing between strategies for participatory 
@@ -60,7 +61,7 @@ the Centre for Global Political Economy at SFU. His research focuses on
 macroeconomic governance in the affluent global North, especially the ways 
 in which monetary and fiscal policy affect and are affected by economic and 
 ecological crisis, and their relationship to the range of social arrangements we 
-call â€˜democracyâ€™. He is the author of Disassembly Required: A Field Guide to 
+call ‘democracy’. He is the author of Disassembly Required: A Field Guide to 
 Actually Existing Capitalism (2013), and Our Daily Bread: Wages, Workers, 
 and the Political Economy of the American West (2008).
 
@@ -99,7 +100,7 @@ of Tear-Gas Epiphanies: New Economies of Protest, Culture and Vision in
 Canada (upcoming). Her research focuses on activism, visual culture and 
 changing economies. Using Canada as main case study, her work looks at 
 the relationship between the parallel appearance in the mid-1990s of global 
-anti-capitalist protest movements and a growing discourse around â€œcreative 
+anti-capitalist protest movements and a growing discourse around “creative 
 industriesâ€  as a sector of great economic potential. Focusing on the 
 international art world, the designation of urban spaces as â€œcreative cities,â€  
 and an increasing economic precarity amongst creative workers, her research 

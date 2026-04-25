@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 2
 type: "TALK"
+venue: "Belkin Art Gallery [ONLINE]"
 summary: "Belkin Art Gallery [ONLINE] | Deanna Bowen, Ken Lum and Hamza Walker | 5PM | APR 24"
 ---
 

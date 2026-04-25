@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 9
 type: "PERFORMANCE"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Broad: Say Less and Documents Autumn Knight | 7PM | NOV 22"
 ---
 

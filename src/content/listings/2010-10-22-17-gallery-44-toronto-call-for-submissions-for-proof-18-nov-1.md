@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: You're the stars up in the sky; yo
 emailDate: "Fri, 22 Oct 2010 09:28:53 -0700"
 number: 17
 type: ""
+venue: "Gallery 44, Toronto"
 summary: "Gallery 44, Toronto | Call for Submissions for Proof 18 | NOV 1"
 ---
 

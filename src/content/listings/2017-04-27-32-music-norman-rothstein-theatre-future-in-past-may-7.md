@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 32
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Norman Rothstein Theatre | FUTURE IN PAST | MAY 7"
 ---
 

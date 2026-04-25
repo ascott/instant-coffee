@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Traces That Resemble Us: Roy Arden and Vikky Alexander | NOV 19"
 ---
 
@@ -32,4 +33,4 @@ dialogue serves its true subject: the traumatic experience of modernity.
 On November 19 at 8:30pm, Vikky Alexander will introduce her
 selected film, Jacques Tatis Playtime (1967). My interest in Playtime
 comes from its satirical perspective on architecture. I like to think that it
-is a film about architectureâ€™s revenge. (VA)
+is a film about architecture’s revenge. (VA)

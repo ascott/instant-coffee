@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two times double crossed legged"
 emailDate: "Thu, 29 Jan 2009 09:40:07 -0800"
 number: 5
 type: ""
+venue: "Centre A"
 summary: "Centre A | A Little Distillery in Nowgong | JAN 30"
 ---
 

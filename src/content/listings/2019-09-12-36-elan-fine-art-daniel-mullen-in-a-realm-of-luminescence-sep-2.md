@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 36
 type: "OPENING"
+venue: "Elan Fine Art"
 summary: "Elan Fine Art | Daniel Mullen | In A Realm of Luminescence | SEP 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 6
 type: "OPENING"
+venue: "Liquidation World"
 summary: "Liquidation World | Emily Janek: Everything is Working | 7PM | MAY 29"
 ---
 

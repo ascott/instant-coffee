@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 11
 type: "FUNDRAISER"
+venue: "VABF"
 summary: "VABF | Silent Art Auction Fundraiser | 7-11PM | OCT 18"
 ---
 

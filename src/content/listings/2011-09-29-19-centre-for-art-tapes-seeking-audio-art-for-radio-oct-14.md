@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 19
 type: ""
+venue: "Centre for Art Tapes"
 summary: "Centre for Art Tapes | Seeking: Audio Art for Radio | OCT 14"
 ---
 
@@ -17,7 +18,7 @@ This is a call for sound-based work that employs recording and/or post-
 production technologies as a means of exploring the sounds of our everyday 
 acoustic environment, and unlocking the potential for new and expanded 
 listening experiences. Artists engaged in practices related to ambient sound 
-design, soundscape recording, musique concrÃ¨te, etc are invited to submit work 
+design, soundscape recording, musique concrète, etc are invited to submit work 
 as a CD or uncompressed data file (wav or aiff) via web transfer or disc. The 
 maximum duration of the work may not exceed 8 minutes, and the submission 
 must be accompanied by an artist statement (maximum 300 words) outlining 
@@ -103,12 +104,12 @@ RESPONSIBILITIES
 The Exhibitions Curator reports to the Executive Director, and is responsible for:
  
 â€¢ Developing and communicating a dynamic vision for the Exhibitions Program 
-â€¢ Curating exhibitions and all associated programming
+• Curating exhibitions and all associated programming
  
-â€¢ Editing publications
+• Editing publications
  
 â€¢ Writing grants and seeking opportunities for additional funding or support 
-â€¢ Supervising one part-time staff member, contract workers, as well as 
+• Supervising one part-time staff member, contract workers, as well as 
 volunteers
 
 QUALIFICATIONS
@@ -122,15 +123,15 @@ QUALIFICATIONS
 â€¢ Strong organizational skills 
 
 â€¢ Ability to provide direction and work with a diverse staff 
-â€¢ High capacity to meet deadlines and work under pressure
+• High capacity to meet deadlines and work under pressure
 â€¢ Knowledge of a broad range of issues related to the arts 
-â€¢ A clear understanding of the philosophy and history of the Canadian artist-run 
+• A clear understanding of the philosophy and history of the Canadian artist-run 
 centre
 movement
-â€¢ Knowledge of the principle funding agencies and prior grant writing experience
-â€¢ Knowledge of managing publications and print projects
+• Knowledge of the principle funding agencies and prior grant writing experience
+• Knowledge of managing publications and print projects
 â€¢ Experience installing a variety of art exhibitions 
-â€¢ Mac OS, Microsoft Office and Filemaker Pro, an asset
+• Mac OS, Microsoft Office and Filemaker Pro, an asset
 
 BENEFITS
 A competitive benefits package is available after the three months probation 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 4
 type: ""
+venue: "Richmond City Hall Galleria Space"
 summary: "Richmond City Hall Galleria Space | DITCH | JUL 4"
 ---
 

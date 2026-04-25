@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like shoulder pads in a business s
 emailDate: "Wed, 19 Oct 2016 12:20:16 -0700"
 number: 17
 type: "CALL"
+venue: "Decoy Magazine"
 summary: "Decoy Magazine | Call for Submissions: Happenstance | NOV 15"
 ---
 

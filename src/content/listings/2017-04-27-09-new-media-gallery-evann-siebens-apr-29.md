@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 9
 type: "PERFORMANCE"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Evann Siebens | APR 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 38
 type: "CALL"
+venue: "Eastern Edge Gallery"
 summary: "Eastern Edge Gallery | Call for Submissions - Main Gallery | SEP 15"
 ---
 

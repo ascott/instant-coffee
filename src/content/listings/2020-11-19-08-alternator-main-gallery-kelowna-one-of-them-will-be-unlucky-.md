@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 8
 type: "EXHIBITION"
+venue: "Alternator Main Gallery [Kelowna]"
 summary: "Alternator Main Gallery [Kelowna] | One of Them Will Be Unlucky | Sora Park | NOV 20"
 ---
 

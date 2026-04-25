@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 17
 type: "EVENT"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Portfolio Prize Presentation Ceremony | APR 18"
 ---
 

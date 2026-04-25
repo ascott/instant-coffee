@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 17
 type: ""
+venue: "Richmond"
 summary: "Richmond | Lulu Series: Art in the City | Richard Tetrault | APR 10"
 ---
 
 Lulu Series: Art in the City
-Richmondâ€™s annual series of talks about art, the city and creating connections 
+Richmond’s annual series of talks about art, the city and creating connections 
 between citizens and their communities.
 
 Richmond City Hall Council Chambers
@@ -22,7 +23,7 @@ Thursday, April 10 7:00 p.m.
 Richard Tetrault
 FROM THE GROUND UP: THE MAKING OF MURALS
 Using murals to explore cultural identity and as an expression of personal 
-dignity and strength, artist Richard Tetraultâ€™s public art projects typically 
+dignity and strength, artist Richard Tetrault’s public art projects typically 
 involve youth mentorship, community activism, extensive planning and 
 outreach. In this presentation, Richard will reveal both the challenges and 
 successes of these projects as they reflect a process of engagement with 

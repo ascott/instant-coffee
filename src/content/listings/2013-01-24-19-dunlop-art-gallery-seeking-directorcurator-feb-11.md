@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 19
 type: ""
+venue: "Dunlop Art Gallery"
 summary: "Dunlop Art Gallery | seeking Director/Curator | FEB 11"
 ---
 
@@ -11,7 +12,7 @@ Reporting to the Library Director, and as a member of the management team,
 the Director/Curator, Dunlop Art Gallery is responsible for the overall 
 operations of the gallery and film theatre and for the creative management of 
 these units within the mandate and policies approved by the Regina Public 
-Library Board. The positionâ€™s areas of responsibility include exhibitions, 
+Library Board. The position’s areas of responsibility include exhibitions, 
 public programs and education (such as lectures, workshops and film 
 presentations), touring exhibitions, promotion and collection management of 
 the RPL permanent collection, DAG Art Rental Collection and DAG 
@@ -22,7 +23,7 @@ JOB DESCRIPTION:
 Theatre including the development of policies and procedures, the planning 
 and evaluating of collections, services and programs, and the development of 
 a balanced schedule of exhibits in consultation with curatorial staff and within 
-the framework of the gallery mandate and the libraryâ€™s strategic plan.
+the framework of the gallery mandate and the library’s strategic plan.
 
 2. Direct and plan overall programming, including exhibitions and special 
 events, by implementing exhibition policy in consultation with curatorial staff. 
@@ -60,7 +61,7 @@ provincially, nationally and internationally, as necessary and relevant.
 Collection.Director/Curator, Dunlop Art GalleryThe successful candidate shall 
 be subject to a Criminal Record Check as a condition of employment.
 
-10. Make recommendations to the Libraryâ€™s Acquisitions Committee, chairs 
+10. Make recommendations to the Library’s Acquisitions Committee, chairs 
 the Gallery 
 
 Programming Committee, and leads the Dunlop Advisory Committee. 
@@ -95,7 +96,7 @@ technologies and aboriginal art.
 Salary Range: $81,428 to $116,326 per annum. Salary commensurate with 
 education and experience.
 Review of applications will begin on February 11, 2013. Please forward 
-rÃ©sumÃ© 
+résumé 
 and cover letter to:
 Human Resources
 Mail: Box 2311, Regina, SK S4P 3Z5

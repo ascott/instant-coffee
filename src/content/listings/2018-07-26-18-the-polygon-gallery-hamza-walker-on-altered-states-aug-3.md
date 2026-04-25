@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 18
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Hamza Walker on Altered States | AUG 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 16
 type: ""
+venue: "Centre A"
 summary: "Centre A | seeking GALLERY ADMINISTRATOR | APR 5"
 ---
 
@@ -49,7 +50,7 @@ range of stakeholders, including government funders.
 The Gallery Administrator assists with the management of gallery 
 events including opening receptions, donor events and venue rentals. 
 S/he will play a key role in providing administrative 
-support to Centre Aâ€™s Fundraising Committee by managing the annual 
+support to Centre A’s Fundraising Committee by managing the annual 
 fundraising dinner and auction, and efficiently undertaking a range of 
 event co-ordination tasks with a minimum of supervision. 
 
@@ -76,7 +77,7 @@ candidate mustbe highly organized and detail oriented with the ability to
 multi-task and work in a fast-paced environment. S/he must be able to 
 work independently and as part of a team.
 
-A valid driverâ€™s license and access to a vehicle is an asset. The 
+A valid driver’s license and access to a vehicle is an asset. The 
 candidate must be available to work Saturdays. From time to time the 
 candidate will be required to work after hours to manage events.
 S/he will be compensated with time in lieu for any after hours work.

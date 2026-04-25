@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 9
 type: ""
+venue: "VAG"
 summary: "VAG | UNREAL PANEL II / BETWEEN CONCRETE AND ABSTRACT | MAR 26"
 ---
 

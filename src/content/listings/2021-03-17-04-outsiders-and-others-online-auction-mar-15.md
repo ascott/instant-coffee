@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 4
 type: "FUNDRAISER"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | online auction | MAR 15"
 ---
 

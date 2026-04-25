@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 25
 type: "EXHIBITION"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Introspection to Catharsis | JUL 3"
 ---
 

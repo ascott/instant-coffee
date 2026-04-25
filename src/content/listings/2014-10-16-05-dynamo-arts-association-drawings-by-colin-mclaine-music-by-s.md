@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 5
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | drawings by colin mclaine; music by shed | OCT 18"
 ---
 

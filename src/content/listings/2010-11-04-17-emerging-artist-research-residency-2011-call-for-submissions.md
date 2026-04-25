@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 17
 type: ""
+venue: "Emerging Artist Research Residency 2011"
 summary: "Emerging Artist Research Residency 2011 | Call for Submissions, Windsor | DEC 1"
 ---
 
 EXTENDED- Call for Submissions: Emerging Artist Research Residency 2011
 
-May 9 â€“ June 3, 2011.
+May 9 – June 3, 2011.
 
-The University of Windsorâ€™s School of Visual Arts offers a one-month
+The University of Windsor’s School of Visual Arts offers a one-month
 Emerging Artist Research Residency program. This residency is an
 opportunity for emerging artists to cultivate new ideas through research
-and production, access the schoolâ€™s resources and facilities, and explore
+and production, access the school’s resources and facilities, and explore
 arts and culture in the border region of Windsor/ Detroit.
 
 Resources available include; Sculpture Studio and equipment, Digital Photo

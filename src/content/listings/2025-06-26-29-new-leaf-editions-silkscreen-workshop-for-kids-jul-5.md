@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 29
 type: "EDUCATION"
+venue: "New Leaf Editions"
 summary: "New Leaf Editions | silkscreen workshop for kids | JUL 5"
 ---
 

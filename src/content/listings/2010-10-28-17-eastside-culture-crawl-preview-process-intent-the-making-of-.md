@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 17
 type: ""
+venue: "Eastside Culture Crawl Preview"
 summary: "Eastside Culture Crawl Preview | Process & Intent: The Making of Art | NOV 21"
 ---
 
@@ -23,7 +24,7 @@ how the pieces unfolded. But the work you see is the result of untold hours
 of focused work and countless moments of problem solving: hitting a wall
 and persevering, and often of large financial investment. Of course,
 finished work is what we are striving for but for many artists, the process
-is where the ï¿½artï¿½ actually lies. Everyone else gets just part of the story
+is where the �art� actually lies. Everyone else gets just part of the story
 in the form of the final piece.
 
 As a preview presentation for this yearʼs 14th Annual Eastside Culture

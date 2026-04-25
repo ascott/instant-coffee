@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 44
 type: "CALL"
+venue: "Art Rental & Sales at the Vancouver Art Galler"
 summary: "Art Rental & Sales at the Vancouver Art Galler | Call for Artists | MAY 3"
 ---
 

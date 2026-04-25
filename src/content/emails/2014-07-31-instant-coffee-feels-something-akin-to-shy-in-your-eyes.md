@@ -277,10 +277,10 @@ Address: 29 - 1151 Haro St
 
 Time: July 31st, 1900 - 2300
 
-One Night Stand is a gallery whoâ€™s shows open and close in one night. An
+One Night Stand is a gallery who’s shows open and close in one night. An
 Uncared For Arrangement brings together six emerging artists work into
 conversation and opposition to each other. The line connecting these
-artistâ€™s work together must be drawn by the visitor them self; the
+artist’s work together must be drawn by the visitor them self; the
 curation is
 intended to background the works on display, and not preside over them
 with a personal vision.

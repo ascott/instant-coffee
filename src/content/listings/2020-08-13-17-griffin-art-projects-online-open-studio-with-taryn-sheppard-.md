@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 17
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | ONLINE | Open Studio with Taryn Sheppard | 1PM | AUG 22"
 ---
 

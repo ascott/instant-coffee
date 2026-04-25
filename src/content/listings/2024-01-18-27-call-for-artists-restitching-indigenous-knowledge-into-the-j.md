@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vegetabled Micro Email Utopia"
 emailDate: "Wed, 17 Jan 2024 21:50:14 -0800"
 number: 27
 type: "CALL"
+venue: "CALL FOR ARTISTS"
 summary: "CALL FOR ARTISTS | Restitching Indigenous Knowledge into the ... | JAN 31"
 ---
 

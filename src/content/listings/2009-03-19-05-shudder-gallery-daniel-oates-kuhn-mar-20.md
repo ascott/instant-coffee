@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 5
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Daniel Oates-Kuhn | MAR 20"
 ---
 

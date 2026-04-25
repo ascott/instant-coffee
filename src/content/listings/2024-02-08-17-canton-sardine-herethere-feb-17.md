@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 17
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Here————There | FEB 17"
 ---
 

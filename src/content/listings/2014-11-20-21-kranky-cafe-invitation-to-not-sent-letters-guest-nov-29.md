@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 21
 type: "EVENT"
+venue: "Kranky Cafe"
 summary: "Kranky Cafe | Invitation to Not Sent Letters & Guest | NOV 29"
 ---
 
@@ -18,7 +19,7 @@ Please note that seating is extremely limited.
 
 interdisciplinary works by
 CYNTHIA FLEUR BRONAUGH
-BARRY DOUPÃ‰
+BARRY DOUPÉ
 JULIA FREYER & PIETRO SAMMARCO
 a reading by
 ROXANNA BENNETT
@@ -49,12 +50,12 @@ history and administration, debuts MESSAGE, a short slide show of images
 and text which comment on some underlying and misguided advice, words of
 wisdom, deep thoughts and self affirmations culled from media sources.
 
-BARRY DOUPÃ‰, a Vancouver-based artist primarily working with computer
+BARRY DOUPÉ, a Vancouver-based artist primarily working with computer
 animation, reads a script from an in-progress work.
 
 JULIA FREYER & PIETRO SAMMARCO, editors of the online audio zine Spoox,
 solicit your help to record the sound of a crowd pictured in a video clip
-theyâ€™ve found. The finished recording will be included in the next issue of
+they’ve found. The finished recording will be included in the next issue of
 Spoox.
 
 ROXANNA BENNETT, a non-fiction writer and artist-educator living outside of
@@ -70,12 +71,12 @@ context. How do potentialities of self find expression in foreign
 environments that are seemingly limitless?
 
 HEIDI MAY, an interdisciplinary artist and researcher currently residing in
-Columbus, Georgia, debuts a short video that explores the internetâ€™s
+Columbus, Georgia, debuts a short video that explores the internet’s
 process of becoming and addresses our desire for hyper attention.
 
 FAUX FANTASY, the moody, synth-driven pop duo of VANESSA SORENSON & BEN
 WILSON, deliver a performance inspired by Austra, Trust, Com Truise, John
-Maus, Helmut Lachenmann, Man Ray, XeroxÂ® machines, venetian blinds, indoor
+Maus, Helmut Lachenmann, Man Ray, Xerox® machines, venetian blinds, indoor
 plants, Fujifilm Superia ISO 400 and air conditioning (their debut EP,
 Bouquet, was released in July of 2014).
 

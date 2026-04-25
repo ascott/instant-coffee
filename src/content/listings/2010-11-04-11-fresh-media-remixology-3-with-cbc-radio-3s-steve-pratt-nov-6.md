@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 11
 type: ""
+venue: "Fresh Media"
 summary: "Fresh Media | Remixology 3 with CBC radio 3's Steve Pratt | NOV 6"
 ---
 
@@ -32,7 +33,7 @@ social/networking session including local music from Buckman Coe andl DJ
 Brad Winter.
 
 Join media innovators, technologists, artists, citizens, and the online
-community at Fresh Mediaâ€”a celebration of innovation and independent media,
+community at Fresh Media—a celebration of innovation and independent media,
 and a re-imagining of media and journalism.
 
 For more details on this event visit: www.freshmedia.me

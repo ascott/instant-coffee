@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 37
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | MFA Critique with Kimberly Phillips | 1230-415PM | MAY 5"
 ---
 

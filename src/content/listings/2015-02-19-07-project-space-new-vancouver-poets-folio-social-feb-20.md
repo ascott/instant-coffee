@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 7
 type: "EVENT"
+venue: "Project Space"
 summary: "Project Space | New Vancouver Poets Folio Social | FEB 20"
 ---
 

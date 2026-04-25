@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | 1st Draft | MAY 1"
 ---
 

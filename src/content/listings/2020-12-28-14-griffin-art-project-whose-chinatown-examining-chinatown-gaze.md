@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 14
 type: "EXHIBITION"
+venue: "Griffin Art Project"
 summary: "Griffin Art Project | Whose Chinatown? Examining Chinatown Gazes in Art, | JAN 29"
 ---
 

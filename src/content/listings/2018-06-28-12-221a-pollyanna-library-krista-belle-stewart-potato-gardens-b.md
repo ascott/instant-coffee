@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 12
 type: "PERFORMANCE"
+venue: "221A - Pollyanna Library"
 summary: "221A - Pollyanna Library | Krista Belle Stewart, Potato Gardens Band | 2PM | JUN 30"
 ---
 

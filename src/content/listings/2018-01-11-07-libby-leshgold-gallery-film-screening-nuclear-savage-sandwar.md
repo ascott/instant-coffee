@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 7
 type: ""
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Film Screening: Nuclear Savage + Sandwars | JAN 12"
 ---
 

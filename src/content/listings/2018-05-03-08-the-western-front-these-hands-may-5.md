@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 8
 type: "TALK"
+venue: "The Western Front"
 summary: "The Western Front | These Hands | MAY 5"
 ---
 

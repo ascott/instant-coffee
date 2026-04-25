@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Canton-sardine"
 summary: "Canton-sardine | No.223: Satellite of Love | AUG 12"
 ---
 

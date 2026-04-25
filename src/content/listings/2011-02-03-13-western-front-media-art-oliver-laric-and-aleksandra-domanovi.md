@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 13
 type: ""
+venue: "Western Front Media Art"
 summary: "Western Front Media Art | Oliver Laric and Aleksandra Domanovic | FEB 4"
 ---
 
-Ã¥Â±Â±Ã¥Â¯Â¨ TURBO
+å±±å¯¨ TURBO
 
 Oliver Laric and Aleksandra Domanovic 
 
@@ -23,11 +24,11 @@ month-long production residency at Western Front. Both Laric and Domanovic
 work primarily on the internet, but often extend their respective practices
 into physical space.
 
-The installation takes its point departure from two words Shanzhai (Ã¥Â±Â±Ã¥Â¯Â¨)
+The installation takes its point departure from two words Shanzhai (å±±å¯¨)
 and Turbo, terms that refer to imitation, copying and the ongoing way in
 which images and objects are translated and appropriated across cultures.
 
-Shanzhai (Ã¥Â±Â±Ã¥Â¯Â¨) defines a production system outside of the legal domain,
+Shanzhai (å±±å¯¨) defines a production system outside of the legal domain,
 centered in Shenzhen in the province of Guangdong, China. Shanzhai
 literally means mountain stronghold, implying a place of creativity
 unsupervised by state monopoly. Shanzhai products adapt to local needs,

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 68
 type: "TALK"
+venue: "CreatineMornings/Vancouver"
 summary: "CreatineMornings/Vancouver | Breakfast & lecture Linda Solomon Wood | 830-10AM | MAY 3"
 ---
 

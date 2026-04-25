@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 29
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Western Front | Phew and Piu | 8PM | OCT 19"
 ---
 

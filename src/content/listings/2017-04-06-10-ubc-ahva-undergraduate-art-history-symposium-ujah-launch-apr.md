@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 10
 type: "EVENT"
+venue: "UBC AHVA"
 summary: "UBC AHVA | Undergraduate Art History Symposium & UJAH Launch | APR 7"
 ---
 

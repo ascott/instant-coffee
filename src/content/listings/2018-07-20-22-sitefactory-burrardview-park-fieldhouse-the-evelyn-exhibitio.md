@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 22
 type: "OPENING"
+venue: "SiteFactory @ Burrardview Park Fieldhouse"
 summary: "SiteFactory @ Burrardview Park Fieldhouse | The Evelyn Exhibition | JUL 28"
 ---
 

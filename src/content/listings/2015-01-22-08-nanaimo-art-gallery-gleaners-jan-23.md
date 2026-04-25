@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 8
 type: "OPENING"
+venue: "Nanaimo Art Gallery"
 summary: "Nanaimo Art Gallery | Gleaners | JAN 23"
 ---
 

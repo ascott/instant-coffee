@@ -4,19 +4,20 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 13
 type: ""
+venue: "Western Front & SFU"
 summary: "Western Front & SFU | Unpacking | APR 23"
 ---
 
 Unpacking the Indigenous Female Body is a two-day event organized by the Department of 
-Gender, Sexuality, and Womenâ€™s Studies at Simon Fraser University.
+Gender, Sexuality, and Women’s Studies at Simon Fraser University.
 
 The nature of this symposium will be one of creative celebration and critical 
 investigation. 
 
-Dana Claxton, the Ruth Wynn Woodward Chair in Gender, Sexuality and Womenâ€™s 
+Dana Claxton, the Ruth Wynn Woodward Chair in Gender, Sexuality and Women’s 
 Studies, will lead the critical investigation as Presenter and Moderator. 
 
-On Friday night Skeena Reece and Lori Blondeau, two of Canadaâ€™s leading Aboriginal 
+On Friday night Skeena Reece and Lori Blondeau, two of Canada’s leading Aboriginal 
 performance artists, will present a new work in response to the film trilogy â€œA Man Called Horse.â€ 
 
 On Saturday, Hulleah J. Tsinhnahjinnie, the Director of the C.N. Gorman Museum and an 
@@ -24,7 +25,7 @@ Assistant Professor in the Department of Native American Studies at University o
 present the keynote address on aboriginal womanhood and the screen. 
 
 The critical investigation will continue with a series of panels disseminating research by 
-professors and graduate students working in a broad range of disciplines including Womanâ€™s 
+professors and graduate students working in a broad range of disciplines including Woman’s 
 Studies, Film History, Communications and Indigenous Studies. 
 
 SCHEDULE OF EVENTS
@@ -33,7 +34,7 @@ Friday, April 23
 The Western Front, 303 E 8th Avenue
 
 Opening Remarks and Performance 7:30PM
-Catherine Murray, Chair of Gender, Sexuality, and Womenâ€™s Studies, SFU
+Catherine Murray, Chair of Gender, Sexuality, and Women’s Studies, SFU
 Dana Claxton, Ruth Wynn Woodward Chair
 Performance by Lori Blondeau and Skeena Reece
 Reception 8:30-10:00PM
@@ -85,7 +86,7 @@ Closing Remarks 4:45-5:00PM
 Dana Claxton
 
 For more information or to register please contact Esther Harrison at the Department of Gender, 
-Sexuality and Womenâ€™s Studies at Simon Fraser University.
+Sexuality and Women’s Studies at Simon Fraser University.
 Email: rwwpasst@sfu.ca
 
 Western Front Exhibitions

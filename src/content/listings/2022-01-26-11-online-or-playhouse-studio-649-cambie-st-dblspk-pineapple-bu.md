@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 11
 type: "PERFORMANCE"
+venue: "Online or Playhouse Studio (649 Cambie St.)"
 summary: "Online or Playhouse Studio (649 Cambie St.) | DBLSPK: Pineapple Bun by Howard Dai | 4PM | JAN 29"
 ---
 

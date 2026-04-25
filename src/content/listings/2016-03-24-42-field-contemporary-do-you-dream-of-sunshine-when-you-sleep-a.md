@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 42
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Do You Dream of Sunshine When You Sleep? | APR 30"
 ---
 

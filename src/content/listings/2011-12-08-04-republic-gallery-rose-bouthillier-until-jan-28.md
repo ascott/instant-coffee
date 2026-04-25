@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 4
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | Rose Bouthillier | until | JAN 28"
 ---
 

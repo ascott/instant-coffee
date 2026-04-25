@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 25
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | READ Books | At Home by Lezli Rubin-Kunda | 6PM | FEB 28"
 ---
 

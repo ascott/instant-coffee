@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 7
 type: "EVENT"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Lyse Lemieux Collage Workshop | JUN 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 6
 type: ""
+venue: "WAAP"
 summary: "WAAP | NICOLAS SASSOON | NOV 6"
 ---
 
@@ -24,7 +25,7 @@ Parking available at back of building off alley
 For inquiries, please contact Wil at 778 229 3458 or wil@WAAPart.com.
 
 Nicolas Sassoon's first solo exhibition at WAAP features three recent 
-projects navigating the artistâ€™s current production of fantasized 
+projects navigating the artist’s current production of fantasized 
 landscapes and architectures through the use of 3D modelling and 
 computer graphics. The print series Homelands presents a set of 
 computer generated landscapes inhabited by architectural figures. Each 
@@ -33,7 +34,7 @@ landscape generating programs and color-indexing image treatment.
 Using this process, the artist creates a large body of bare and secluded 
 landscapes converging towards the sculptural and pictorial qualities of 
 the geography in relation to the architecture. The project Homelands 
-started as an exercise to render some of Sassoonâ€™s fatherâ€™s fantasized 
+started as an exercise to render some of Sassoon’s father’s fantasized 
 images of holiday homes. It later became a personal project as an 
 ongoing enquiry on the digital manifestation of architectural fantasies.
 
@@ -56,20 +57,20 @@ When projected, the animation transforms to a life-size architectural
 feature, evocating a passage way to the digital realm.
 
 Nicolas Sassoon is a French-born artist living and working between 
-Biarritz, France and Vancouver, BC. Sassoonâ€™s work makes use of 
+Biarritz, France and Vancouver, BC. Sassoon’s work makes use of 
 various computer-based processes to generate fantasized visions of 
 architectures, landscapes and domestic environments. While most of his 
 work is published online as animated GIFs, Sassoon also materializes his 
 screen-based practice into sculptures, prints, textiles, and site-specific 
 installations, as well as collaborations with other artists, architects, music 
-producers and fashion designers. Sassoonâ€™s work often explores the 
+producers and fashion designers. Sassoon’s work often explores the 
 contemplative dimensions of the digital, as well as the manner in which 
 virtual space can (or cannot) be inscribed within the physical realm. 
 Nicolas Sassoon has previously exhibited his work at the Victoria & Albert 
 Museum (UK), Today Art Museum(CN), New Museum(US), 319 
 Scholes(US), Eyebeam(US), May Gallery & Residency(US), 
 Contemporary Art Gallery(CA), Charles H.Scott Gallery(CA), Western 
-Front(CA), PRETEEN Gallery(MX), the Centre dâ€™Art Bastille(FR), Arti et 
+Front(CA), PRETEEN Gallery(MX), the Centre d’Art Bastille(FR), Arti et 
 Amicitiae(NL), MU Eindhoven(NL) , the Berlin Fashion Week (DE)) and 
 the New-York Fashion Week (US). Nicolas is a member of the online 
 collective Computers Club and a founder of the collective W-A-L-L-P-A-P-

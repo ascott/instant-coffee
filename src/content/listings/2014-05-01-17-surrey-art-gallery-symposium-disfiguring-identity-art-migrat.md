@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 17
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Symposium | Disfiguring Identity - Art, Migration and Exile | MAY 10"
 ---
 
@@ -22,7 +23,7 @@ conversation on the power of art to critically address cultural stereotypes
 and experiences of migration. The interactive, two-day symposium Disfiguring 
 Identity: Art, Migration and Exile takes place on May 10 at Centre Stage at 
 Surrey City Centre (City Hall) from 7 30pm to 9 30pm and May 11 at Surrey 
-Art Gallery from 12 00pm to 5 45pm. Admission is free â€“ donations are 
+Art Gallery from 12 00pm to 5 45pm. Admission is free – donations are 
 gratefully received.
 
 Day one is an evening of short films created by emerging and established 
@@ -31,7 +32,7 @@ new media to negotiate the differences and similarities between past and
 present. Films by artists such as Ali Kazimi Richard Fung, John Greyson (Rex 
 vs. Singh), Karin Lee (Shattered), and Vivek Shraya (Seeking Single White 
 Male) will be featured followed with Q&A with filmmakers & curators. 
-Afterparty at Nham Thai featuring DJ Don Chow and DJ â€“A-slam.
+Afterparty at Nham Thai featuring DJ Don Chow and DJ –A-slam.
 
 Day two is an afternoon of panels with artists investigating the use of 
 performance, history, and memory to address art and activism related to 
@@ -54,11 +55,11 @@ Main Gallery gratefully acknowledges the financial assistance of Canada
 Council Equity Office, BC Gaming Multiculturalism, BC Arts Council Co-op 
 Placement. 
 
-This symposium is presented in conjunction with Surrey Art Galleryâ€™s 
+This symposium is presented in conjunction with Surrey Art Gallery’s 
 exhibition Ruptures in Arrival: Art in the Wake of the Komagata Maru.
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 V3W 3L1
 www.arts.surrey.ca

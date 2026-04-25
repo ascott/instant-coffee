@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 9
 type: ""
+venue: "Langara College"
 summary: "Langara College | Kristina Lee Podesva | JAN 13"
 ---
 
@@ -41,7 +42,7 @@ cooking
 and eating while raising questions about the status of this genre within
 the history of thought. Among the texts included in Thought for Food is How
 to Cook and Eat in Chinese by Buwei Yang Chao, considered one of North
-AmericaÃ¢ï¿½ï¿½s first introductions to Chinese cooking. VehicleÃ¢ï¿½ï¿½s
+Americaâ��s first introductions to Chinese cooking. Vehicleâ��s
 inaugural reading room sets the stage for a series of programs that
 connects rituals of food to current economic, political, and cultural
 conditions. Weekly programs include:

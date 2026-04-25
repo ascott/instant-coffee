@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 11
 type: ""
+venue: "VIVO"
 summary: "VIVO | CREATIVE ELECTRONICS WORKSHOPS | NOV 17"
 ---
 

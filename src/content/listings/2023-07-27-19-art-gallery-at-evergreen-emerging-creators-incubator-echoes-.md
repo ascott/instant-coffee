@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 19
 type: "OPENING"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Emerging Creators Incubator: Echoes of a Circle | AUG 3"
 ---
 

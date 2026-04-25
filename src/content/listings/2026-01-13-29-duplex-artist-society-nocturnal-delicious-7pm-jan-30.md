@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 29
 type: "OPENING"
+venue: "Duplex Artist Society"
 summary: "Duplex Artist Society | Nocturnal Delicious | 7PM | JAN 30"
 ---
 

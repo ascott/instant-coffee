@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 14
 type: ""
+venue: "PHG"
 summary: "PHG | A Discussion | GLENN LEWIS, JORDAN STROM and WILLIAM WOOD | NOV 9"
 ---
 
@@ -19,8 +20,8 @@ In conjunction with the exhibition FLAKEY: THE EARLY WORKS OF GLENN LEWIS,
 curated by Helga Pakasaar and Reid Shier,
 at Presentation House Gallery until November 14
 
-An investigation of Glenn Lewisâ€™s rarely-seen early practice through the
-artistâ€™s perspective and in relation to local and international art of the
+An investigation of Glenn Lewis’s rarely-seen early practice through the
+artist’s perspective and in relation to local and international art of the
 1960s and 70s and contemporary art: an abbreviated artist talk by Glenn
 Lewis with presentations by Jordan Strom and William Wood, moderated by
 Helga Pakasaar.
@@ -37,7 +38,7 @@ developed a highly performative practice that includes: ceramics,
 sculpture, performance, environments, synchronized swimming events, radio
 plays, multimedia happenings, installation, correspondence art,
 script-writing, film, photography, and dinner parties. The panel discussion
-will consider the humour and conceptual rigour at the heart of Lewisâ€™s
+will consider the humour and conceptual rigour at the heart of Lewis’s
 rarely seen works from the late-1960s to the mid-1970s, and his prescient
 experiments in mapping everyday life and urban geographies.
 
@@ -45,7 +46,7 @@ Jordan Strom is Curator of Exhibitions and Collections at the Surrey Art
 Gallery where he has recently curated the exhibitions Game Show, Harun
 Farocki: Deep Play, and Checking in with your Hotspots. He is a critic and
 Founding Editor at Fillip Magazine. He has contributed essays to art
-publications and is a contributor to Presentation House Galleryâ€™s
+publications and is a contributor to Presentation House Gallery’s
 forthcoming catalogue on Glenn Lewis.
 
 William Wood is an art historian and critic whose current research focuses

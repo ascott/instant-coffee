@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "WAAP [ONLINE]"
 summary: "WAAP [ONLINE] | CORES | Nicolas Sassoon & Rick Silva | SEP 26"
 ---
 

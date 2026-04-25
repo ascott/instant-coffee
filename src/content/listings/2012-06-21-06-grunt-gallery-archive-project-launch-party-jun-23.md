@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 6
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Archive Project Launch Party! | JUN 23"
 ---
 

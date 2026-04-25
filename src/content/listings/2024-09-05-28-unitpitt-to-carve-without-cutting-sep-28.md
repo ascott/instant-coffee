@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 28
 type: "EXHIBITION"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | to carve without cutting | SEP 28"
 ---
 

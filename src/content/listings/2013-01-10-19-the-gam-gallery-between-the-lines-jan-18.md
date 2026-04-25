@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 19
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | //BETWEEN THE LINES// | JAN 18"
 ---
 
@@ -46,7 +47,7 @@ My work is produced in a rapid and often feverish manner. I have learned that
 if I cannot finish a piece within a sitting or two I become bored with it and 
 move on, meaning that work might never reach completion. This immediacy 
 results in faster more expressive work whilst leaving me craving my next 
-paintingâ€™s creation.
+painting’s creation.
 
 Jordan Turner - www.jordanturner.ca
 I am currently being influenced by aspects of: market consumerism, 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 47
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | After Effects | APR 3"
 ---
 

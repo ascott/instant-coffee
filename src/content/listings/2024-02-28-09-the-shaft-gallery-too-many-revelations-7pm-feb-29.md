@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 9
 type: "OPENING"
+venue: "The Shaft Gallery"
 summary: "The Shaft Gallery | Too Many Revelations | 7PM | FEB 29"
 ---
 

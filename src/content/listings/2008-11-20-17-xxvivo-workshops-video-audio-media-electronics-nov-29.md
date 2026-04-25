@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 17
 type: "EDUCATION"
+venue: "XXVIVO"
 summary: "XXVIVO | WORKSHOPS: VIDEO, AUDIO, MEDIA, ELECTRONICS | NOV 29"
 ---
 

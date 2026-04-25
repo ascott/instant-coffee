@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: much to everyone's surprise by pop
 emailDate: "Thu, 14 Aug 2008 00:00:23 -0700"
 number: 8
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Colin Miner | Victoria | til | AUG 28"
 ---
 

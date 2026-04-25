@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 43
 type: "CALL"
+venue: "City of St. Albert (ALBERTA)"
 summary: "City of St. Albert (ALBERTA) | Art in Public Spaces | AUG 15"
 ---
 

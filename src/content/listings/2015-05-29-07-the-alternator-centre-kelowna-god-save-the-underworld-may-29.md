@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 7
 type: "OPENING"
+venue: "The Alternator Centre Kelowna"
 summary: "The Alternator Centre Kelowna | God Save the Underworld | MAY 29"
 ---
 
@@ -14,31 +15,31 @@ Chris Bose and the Arbour Collective
 Alternator Centre for Contemporary Art
 103-421 Cawston Ave, Kelowna
 
-Controversial art from societyâ€™s fringes opens at the Alternator Centre
+Controversial art from society’s fringes opens at the Alternator Centre
 Friday May 29th the controversial God Save the Underworld exhibit opens at
 the Alternator Centre for Contemporary Art.
 The exhibit is headed by Chris Bose and features work from other members of
-Kamloopsâ€™ Arbour Collective, an urban Aboriginal, MÃ©tis and Inuit artist
+Kamloops’ Arbour Collective, an urban Aboriginal, Métis and Inuit artist
 association.
 â€œThe underworld is a community that society rarely acknowledges,â€  says
-Bose. â€œThis exhibit brings outsider art from the fringes of our social
+Bose. “This exhibit brings outsider art from the fringes of our social
 systems; it is created for people who will never step foot in a gallery or
 museum.â€ 
-Much of the exhibitâ€™s contentious content wrestles with themes of missing
+Much of the exhibit’s contentious content wrestles with themes of missing
 Aboriginal women, poverty and issues of injustice facing an array of
 underserved and plighted communities.
-Presented over Canadaâ€™s June 21st National Aboriginal Day and Canada Day on
-July 1st, God Save the Underworld also draws heavily on Canadaâ€™s history of
+Presented over Canada’s June 21st National Aboriginal Day and Canada Day on
+July 1st, God Save the Underworld also draws heavily on Canada’s history of
 colonialism and our current relationship with the British monarchy.
-The new exhibit follows gallery manager Peter Greenâ€™s address to Kelownaâ€™s
+The new exhibit follows gallery manager Peter Green’s address to Kelowna’s
 City Council earlier this month that outlined the importance of the
-Alternatorâ€™s socially engaged art.
-â€œStreet art and graffiti are often vilified and synonymous with urban
+Alternator’s socially engaged art.
+“Street art and graffiti are often vilified and synonymous with urban
 decay,â€  says Green. â€œGod Save the Underworld is however politically
 charged and an incredibly potent expression.â€ 
 In honour of National Aboriginal Day on June 21st, the Bose will partner
 with an undisclosed downtown business to paint a public mural.
-The Alternator and Bose are slated to participate in the cityâ€™s Canada Day
+The Alternator and Bose are slated to participate in the city’s Canada Day
 celebrations in Waterfront Park on July 1st. Festivalgoers will be invited
 to collaborate with Bose on a painting to express their national identity.
 The opening reception for God Save the Underworld will be held at the

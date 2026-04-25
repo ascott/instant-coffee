@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 47
 type: "CALL"
+venue: "Creative Spark Vancouver"
 summary: "Creative Spark Vancouver | Call for Submissions | APR 27"
 ---
 

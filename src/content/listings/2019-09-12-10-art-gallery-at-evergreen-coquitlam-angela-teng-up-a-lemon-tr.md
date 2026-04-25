@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 10
 type: "OPENING"
+venue: "Art Gallery at Evergreen (Coquitlam)"
 summary: "Art Gallery at Evergreen (Coquitlam) | Angela Teng: Up a Lemon Tree | 6PM | SEP 14"
 ---
 

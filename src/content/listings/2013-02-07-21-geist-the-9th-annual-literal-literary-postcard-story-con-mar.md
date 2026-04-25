@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 21
 type: ""
+venue: "Geist"
 summary: "Geist | The 9th Annual Literal Literary Postcard Story Con | MAR 1"
 ---
 
@@ -18,10 +19,10 @@ A postcard story starts not with words, but an image. The image can be from
 a store, an online resource, your own creativity or received in the mail. Find a 
 postcard that inspires you and inspires a story. A short story.
 How it works:
-1) Send us a story and a postcardâ€”the relationship can be as strong or as 
+1) Send us a story and a postcard—the relationship can be as strong or as 
 tangential as you like, so long as there is a clear connection between the 
 story and the image.
-2) If youâ€™re not sure where to look for a postcard, you can make your own or 
+2) If you’re not sure where to look for a postcard, you can make your own or 
 visit Wikimedia Commons.
 3) The story can be fiction or non-fiction; maximum length is 500 words.
 For a classic example of a postcard story, read "How to Survive in the 
@@ -41,7 +42,7 @@ How to enter:
 ONLINE: Click here. You will be prompted to upload your story, image and 
 pay your entry fee.
 BY MAIL: Send your postcard story, attached to the image with a paper clip 
-(no staples, please), with a cover letÂ­ter, $20 entry fee and note about how you 
+(no staples, please), with a cover let­ter, $20 entry fee and note about how you 
 found out about the contest to:
 Geist Literal Literary Postcard Story Contest
 210-111 West Hastings Street

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 7
 type: "EVENT"
+venue: "Hadden Park Field House"
 summary: "Hadden Park Field House | See Sounds Listening Series: Justin Devries | APR 6"
 ---
 

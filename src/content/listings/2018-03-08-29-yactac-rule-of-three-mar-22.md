@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 29
 type: ""
+venue: "Yactac"
 summary: "Yactac | Rule of Three | MAR 22"
 ---
 

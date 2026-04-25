@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 15
 type: "EDUCATION"
+venue: "ONLINE WORKSHOP"
 summary: "ONLINE WORKSHOP | The Gathered Gallery | ARTS WRITING WITH TATUM DOOLEY | 7PM | AUG 18"
 ---
 

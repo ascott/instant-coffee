@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 16
 type: "EXHIBITION"
+venue: "U N I T 17"
 summary: "U N I T 17 | Infinity Ball | JAN 29"
 ---
 

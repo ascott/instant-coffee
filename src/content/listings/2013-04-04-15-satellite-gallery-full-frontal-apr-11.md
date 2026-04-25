@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 15
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Full Frontal | APR 11"
 ---
 

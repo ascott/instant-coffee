@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 27
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | Sandra Brewster w/Sally Frater | 2PM | JUN 15"
 ---
 

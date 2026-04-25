@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 20
 type: "EVENT"
+venue: "1654 Franklin Street"
 summary: "1654 Franklin Street | Annual Winter Sale | 11AM | DEC 14"
 ---
 

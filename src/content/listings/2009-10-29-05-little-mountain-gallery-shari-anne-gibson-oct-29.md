@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 5
 type: ""
+venue: "Little Mountain Gallery"
 summary: "Little Mountain Gallery | Shari-Anne Gibson | OCT 29"
 ---
 

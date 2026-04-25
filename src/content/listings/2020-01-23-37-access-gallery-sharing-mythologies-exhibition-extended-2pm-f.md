@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 37
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | SHARING MYTHOLOGIES (Exhibition Extended) | 2PM | FEB 1"
 ---
 

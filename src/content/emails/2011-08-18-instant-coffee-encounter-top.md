@@ -12,13 +12,13 @@ listingCount: 34
 instant coffee listings / send us your art posts for free 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-08-18-01-black-and-yellow-paul-de-guzman-aug-18">01. Black and Yellow | Paul de Guzman | AUG 18</a>
-<a href="/instant-coffee/listings/2011-08-18-02-city-of-vancouver-public-art-program-adorno-and-nose-by-doup">02. City of Vancouver Public Art Program | Adorno and Nose by DoupÃ© and Whitman | AUG 18</a>
+<a href="/instant-coffee/listings/2011-08-18-02-city-of-vancouver-public-art-program-adorno-and-nose-by-doup">02. City of Vancouver Public Art Program | Adorno and Nose by Doupé and Whitman | AUG 18</a>
 <a href="/instant-coffee/listings/2011-08-18-03-studio3-scott-moore-aug-18">03. Studio3 | Scott Moore | AUG 18</a>
 <a href="/instant-coffee/listings/2011-08-18-04-centre-a-co-lab-catalogue-launch-and-closing-potluck-aug-20">04. Centre A | CO-LAB Catalogue Launch and Closing Potluck | AUG 20</a>
 <a href="/instant-coffee/listings/2011-08-18-05-sing-at-the-karaoke-kiosk-aug-20">05. Sing! at the Karaoke Kiosk | | AUG 20</a>
 <a href="/instant-coffee/listings/2011-08-18-06-burnaby-art-gallery-a-book-signing-with-artist-ann-kipling-a">06. Burnaby Art Gallery | A BOOK SIGNING with Artist Ann Kipling | AUG 21</a>
 <a href="/instant-coffee/listings/2011-08-18-07-g-call-for-media-artists-aug-21">07. G++ | CALL FOR MEDIA ARTISTS | AUG 21</a>
-<a href="/instant-coffee/listings/2011-08-18-08-morris-and-helen-belkin-art-gallery-mario-garca-torres-konra">08. Morris and Helen Belkin Art Gallery | Mario GarcÃ­a Torres / Konrad Wendt | until | AUG 21</a>
+<a href="/instant-coffee/listings/2011-08-18-08-morris-and-helen-belkin-art-gallery-mario-garca-torres-konra">08. Morris and Helen Belkin Art Gallery | Mario García Torres / Konrad Wendt | until | AUG 21</a>
 <a href="/instant-coffee/listings/2011-08-18-09-vag-the-culture-series-david-wisdom-aug-23">09. VAG | The Culture Series: David Wisdom | AUG 23</a>
 <a href="/instant-coffee/listings/2011-08-18-10-trench-monomania-closing-party-aug-24">10. Trench | Monomania | closing party | AUG 24</a>
 <a href="/instant-coffee/listings/2011-08-18-11-yactac-gallery-plexi-plastic-wood-ass-aug-28">11. Yactac Gallery | PLEXI, PLASTIC, WOOD & ASS | AUG 28</a>
@@ -103,18 +103,18 @@ Mechelen, Belgium in March 2011.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-08-18-02-city-of-vancouver-public-art-program-adorno-and-nose-by-doup">02. City of Vancouver Public Art Program | Adorno and Nose by DoupÃ© and Whitman | AUG 18</a>
+<a href="/instant-coffee/listings/2011-08-18-02-city-of-vancouver-public-art-program-adorno-and-nose-by-doup">02. City of Vancouver Public Art Program | Adorno and Nose by Doupé and Whitman | AUG 18</a>
 ------------------------------------------------------------------------
 City of Vancouver Public Art Program
 Information Bulletin
 
-Adorno and Nose by DoupÃ© and Whitman launches into transit 
+Adorno and Nose by Doupé and Whitman launches into transit 
 shelters August 15
 
 A new project by the City of Vancouver Public Art program invites the 
 public to whistle - or sing - while they wait at bus stops across 
 Vancouver. Adorno and Nose, a series of ten songs composed and 
-illustrated by Barry DoupÃ© and James Douglas Whitman, will be 
+illustrated by Barry Doupé and James Douglas Whitman, will be 
 installed from August 15 to October 2, 2011 at 10 locations (listed 
 below) and is one of 13 new public art projects commissioned by 
 the City of Vancouver's Public Art Program for Vancouver 125.
@@ -146,10 +146,10 @@ audience. In a way these songs harken back to an earlier mode of
 music distribution, that of 19th century parlour music, sheet music 
 meant to be sung at home with a piano."
 
-Barry DoupÃ© and James Douglas Whitman have been writing songs 
+Barry Doupé and James Douglas Whitman have been writing songs 
 since 2009 and collaborating for the past eight years, mostly as part 
 of the drawing group The Lions (Tasha Brotherton, Matthew Brown, 
-Barry DoupÃ©, Collin Johanson, James Whitman). Barry writes the 
+Barry Doupé, Collin Johanson, James Whitman). Barry writes the 
 words and James writes the melodies. Barry studied animation at 
 Emily Carr Institute of Art and Design, graduating in 2004. His 
 writing practice developed out of writing for his feature length 
@@ -347,7 +347,7 @@ devices, and the web.
 
 We are currently seeking film and video artists to submit applications
 to participate in the series. Selected artists will receive an artist
-fee ($1399 â€“ CARFAC â€“ Category I, Solo Exhibition, Project), a small
+fee ($1399 – CARFAC – Category I, Solo Exhibition, Project), a small
 operating budget, interaction design and engineering support,
 curatorial assistance and promotion.
 
@@ -370,42 +370,42 @@ _Artists.pdf>
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-08-18-08-morris-and-helen-belkin-art-gallery-mario-garca-torres-konra">08. Morris and Helen Belkin Art Gallery | Mario GarcÃ­a Torres / Konrad Wendt | until | AUG 21</a>
+<a href="/instant-coffee/listings/2011-08-18-08-morris-and-helen-belkin-art-gallery-mario-garca-torres-konra">08. Morris and Helen Belkin Art Gallery | Mario García Torres / Konrad Wendt | until | AUG 21</a>
 ------------------------------------------------------------------------
 Material Witness
-Mario GarcÃ­a Torres / Konrad Wendt
+Mario García Torres / Konrad Wendt
 
 Curated by Lee Plested
 
 June 24 - August 21, 2011
 
-Material Witness: Mario GarcÃ­a Torres / Konrad Wendt is an 
-exhibition of recent work by Mexican artist Mario GarcÃ­a Torres who 
+Material Witness: Mario García Torres / Konrad Wendt is an 
+exhibition of recent work by Mexican artist Mario García Torres who 
 is known for his investigations of historic pieces of Conceptual Art, 
 and a survey of works by Konrad Wendt, a graduate of the Nova 
 Scotia College of Art and Design (NSCAD).
 
 As much of the drive of Conceptual Art was to challenge the 
 commodification and material aspects of art, many works were set 
-up to disappear. GarcÃ­a Torresâ€™ process involves researching 
+up to disappear. García Torres’ process involves researching 
 influential and sometimes unknowable projects, such as What 
-Happens in Halifax, Stays in Halifax (2004â€“06), and 9 at Leo Castelli 
+Happens in Halifax, Stays in Halifax (2004–06), and 9 at Leo Castelli 
 (2008- ), gathering various documents from artists, historians and 
 archives, teasing out conceptual proposals and mythologies, tracing 
 misinformation and competing views about the works of art and 
 what took place. He pays particular attention to the social aspects of 
-artâ€”the primary sites where ideas were transmitted, and he 
+art—the primary sites where ideas were transmitted, and he 
 uncovers information by interviewing the prime suspects and their 
-various associates at the scene. GarcÃ­a Torres met Konrad Wendt 
+various associates at the scene. García Torres met Konrad Wendt 
 in 2004 during research for the project What Happens in Halifax, 
-Stays in Halifax (2004â€“06). Included in the exhibition, this 
+Stays in Halifax (2004–06). Included in the exhibition, this 
 investigative, 35 mm slide show revisits an instructional piece by 
 Robert Barry, in which Wendt participated as a student at NSCAD in 
 1969. For the class project, students were instructed to arrive at a 
 consensus on a work of Conceptual Art, which if ever described to 
 an outside person or realized in form, would cease to exist.
 
-Included in the exhibition is a retrospective survey of Wendtâ€™s 
+Included in the exhibition is a retrospective survey of Wendt’s 
 relatively unknown artworks. One of the few students to have a solo 
 exhibition (1970) at the Mezzanine, a facility for the presentation of 
 conceptual art at NSCAD, Wendt moved to a commune on Prince 
@@ -416,18 +416,18 @@ demonstrates the philosophical and formal strategies he absorbed
 while at Nova Scotia College of Art and Design.
 
 The work of the two artists are presented in contrasting exhibition 
-styles: one is steeped in didactic material (Wendtâ€™s includes 
+styles: one is steeped in didactic material (Wendt’s includes 
 explanatory text prepared by his son and Art Historian Pan Wendt, 
 Curator at the Confederation Centre Art Gallery, Charlottetown) while 
 the other questions the status of contemporary art exhibitions 
-(GarcÃ­a Torresâ€™ section brings archival materials into dialogue with 
+(García Torres’ section brings archival materials into dialogue with 
 his own investigative art projects).
 
-Material Witness: Mario GarcÃ­a Torres / Konrad Wendt presents 
+Material Witness: Mario García Torres / Konrad Wendt presents 
 multiple practices to establish a dialogue through the record of 
 various gestures, gathering examples of works that were alternately 
 caught in the light of and/or slipped past the selective gaze of art 
-history. To complement GarcÃ­a Torresâ€™ investigation, the exhibition 
+history. To complement García Torres’ investigation, the exhibition 
 includes documents, ephemera, and original works of art from 
 Vancouver-based archives. A series of vignettes brackets the larger 
 exhibition to further picture the influence of conceptual strategies 
@@ -439,7 +439,7 @@ Image Bank, Carole Itter and Roy Kiyooka; Vancouver conceptualist
 John Mitchell; N.E. Thing Co.; Martha Wilson; and important early 
 works by Ian Wallace.
 
-â€”
+—
 
 For further information please contact: Naomi Sawada at 
 naomi.sawada@ubc.ca,
@@ -582,14 +582,14 @@ patrickcruz0@gmail.com
 
 Janice Cheung is a Vancouver based installation artist with a 
 background in photography and extended media through the 
-University of Guelph Ontario. Cheungâ€™s work consists of interactive 
+University of Guelph Ontario. Cheung’s work consists of interactive 
 multimedia installations, often incorporating a multiple of some kind.
 
 Mike Ness is a 27-year old graduate of the Ontario College of Art 
 and Design. Ness' work, which could be described as "emotional 
 surrealism," communicates love, sex and humor. This is 
 particularly evident in pieces such as "Raging Heterosexual" 
-and "Never Being Boring" â€” a naughty, playful and perverted self-
+and "Never Being Boring" — a naughty, playful and perverted self-
 portrait.
 
 Mike Gagne is an illustrator living in Toronto; He studied at the 
@@ -621,7 +621,7 @@ The Firehall Arts Centre is seeking a curator for an upcoming
 exhibition to complement the production Vimy which will run Oct 28 
 through Nov. 19. We are interested in a multi faceted examination of 
 the issues around seeking peace while waging war. This exhibition 
-will form part of the programming that examines Vancouverâ€™s identity 
+will form part of the programming that examines Vancouver’s identity 
 through the history of armed conflicts and quests for peace that have 
 punctuated its history. An honorarium will be paid and there is a 
 small budget for materials and supplies. The exhibition will open on 
@@ -712,14 +712,14 @@ within a gift giving transaction?
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-08-18-15-burnaby-art-gallery-grant-writing-workshop-sep-24">15. Burnaby Art Gallery | Grant Writing workshop | SEP 24</a>
 ------------------------------------------------------------------------
-Grant Writing: Sept 24th 10am â€“ 4pm $40.00
+Grant Writing: Sept 24th 10am – 4pm $40.00
 
 This full day workshop will offer insight into grant writing for artists 
 led by Allison Collins an independent curator, writer, and arts 
 administrator in Vancouver. Her professional experience includes 
 four years at the City of Ottawa in the Arts Funding Unit, where she 
 worked in an administrative capacity as a Coordinator of funding 
-programs and awards projects. With Collinsâ€™ expertise, participants 
+programs and awards projects. With Collins’ expertise, participants 
 will be offered resources and techniques for writing artist grants in 
 Canada. Each participant will be asked to bring in proposals for 
 projects and will be taken through the steps of developing that 
@@ -777,7 +777,7 @@ Featuring works by Jordy Hamilton
 Curated by Toby Lawrence
 
 Working with the permanent art installation in the Irving K. Barber 
-Learning Centreâ€™s Ridington Room, The Pose Stands for Potentiality 
+Learning Centre’s Ridington Room, The Pose Stands for Potentiality 
 juxtaposes the University of British Columbia s formal presidential 
 portraits with a series of small works from Vancouver-based artist 
 Jordy Hamilton. This collection, 96 Studies for a Painting, developed 
@@ -818,7 +818,7 @@ explore the aesthetic and form of the moving image and its relation
 to
 narrative. Monitor 8 encourages new, experimental and risk-taking 
 work that
-challenges the viewerâ€™s active engagement. Submission details are 
+challenges the viewer’s active engagement. Submission details are 
 available
 online at <http://savac.net/submissions/273-monitor-8-call.html> 
 and you
@@ -902,16 +902,16 @@ boobers | seeking queer identified improvisers | AUG 27</a>
 The Bobbers are looking for two new
 queer identified improvisers
 
-The award winning and popular group The Bobbers â€“ Canadaâ€™s 
+The award winning and popular group The Bobbers – Canada’s 
 premier queer improv company - is holding auditions to find two 
 new members to their comedy troupe.
 
-Best known for there hit show (now in itâ€™s 6th year!) Tops & 
-Bottoms â€“ the company also produces shows across the province 
+Best known for there hit show (now in it’s 6th year!) Tops & 
+Bottoms – the company also produces shows across the province 
 and in short films.
 
-The company pays itâ€™s performers (on a sliding scale) and all 
-company members are â€˜queer identifiedâ€™. 
+The company pays it’s performers (on a sliding scale) and all 
+company members are ‘queer identified’. 
 
 The improvisation auditions will be held on Saturday August 27th.
 
@@ -936,7 +936,7 @@ experiences and created a popular workshop that features role-
 plays, exercises and handouts to help you prepare for your next 
 emcee or hosting experience.
 
-Sunday August 28th from 1pm to 5pm - $40 â€“ to book a spot email 
+Sunday August 28th from 1pm to 5pm - $40 – to book a spot email 
 davidcjones@shaw.ca
 
 

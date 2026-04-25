@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 28
 type: ""
+venue: "JOB"
 summary: "JOB | Griffin Art Projects | Assistant Curator of Engagement | SEP 18"
 ---
 

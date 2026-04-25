@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 15
 type: ""
+venue: "Vancouver Design Bureau"
 summary: "Vancouver Design Bureau | Made In China(town)/ Perched In Chinatown | JUN 8"
 ---
 
@@ -28,7 +29,7 @@ relevant, responsive and responsible partner in the cultural and economic
 development of the design industry in Vancouver.
 
 A site-specific installation Perched-in-Chinatown brings the exhibition
-into Gardenâ€™s outdoor space. This work features 9 unique birdhouses
+into Garden’s outdoor space. This work features 9 unique birdhouses
 engagingly interspersed among the architectural and horticultural elements
 of this famous garden. Take a tour of the garden and discover how these
 design objects can augment or mediate your experience of this elegantly

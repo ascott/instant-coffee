@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 40
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Decoy Magazine | Bcc: Digital Art Subscription - YOSHI SODEOKA | JAN 27"
 ---
 

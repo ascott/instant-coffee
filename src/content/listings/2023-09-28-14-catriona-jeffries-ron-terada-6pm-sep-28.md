@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 14
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Ron Terada | 6PM | SEP 28"
 ---
 

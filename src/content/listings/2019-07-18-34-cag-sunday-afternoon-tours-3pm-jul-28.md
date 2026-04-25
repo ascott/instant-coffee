@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 34
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Sunday Afternoon Tours | 3PM | JUL 28"
 ---
 

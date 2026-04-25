@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 7
 type: "OPENING"
+venue: "Sun Wah Centre, Room 30K in LG Level"
 summary: "Sun Wah Centre, Room 30K in LG Level | pass on, pass off: Future Artists in Residence | FEB 20"
 ---
 

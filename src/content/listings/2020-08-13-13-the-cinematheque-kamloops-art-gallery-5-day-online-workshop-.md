@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 13
 type: "EDUCATION"
+venue: "The Cinematheque & Kamloops Art Gallery"
 summary: "The Cinematheque & Kamloops Art Gallery | 5 Day ONLINE WORKSHOP for youth | AUG 17"
 ---
 

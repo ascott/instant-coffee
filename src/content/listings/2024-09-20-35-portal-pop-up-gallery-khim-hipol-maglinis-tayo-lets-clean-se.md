@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 35
 type: "OPENING"
+venue: "PORTAL POP-UP GALLERY"
 summary: "PORTAL POP-UP GALLERY | Khim Hipol: Maglinis Tayo (Let's Clean) | SEP 27"
 ---
 

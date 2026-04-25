@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 6
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Speakeasy | Cate Rimmer and Jen Weih | MAR 23"
 ---
 
@@ -12,7 +13,7 @@ Cate Rimmer and Jen Weih
 Saturday, March 23, 2PM
 
 Speakeasy: Salon is a series of talks and presentations that 
-interrogates Artspeakâ€™s mandate to encourage a dialogue between 
+interrogates Artspeak’s mandate to encourage a dialogue between 
 visual art and writing. In this incarnation, speakers will present within 
 the conversational salon format on wide-ranging subjects including art, 
 music, literature, politics, popular culture, and science. Speakers select 
@@ -24,9 +25,9 @@ the topics explored. Speakeasy: Salon references both the demand for
 interdisciplinary learning in contemporary art and writing practices and 
 an interest in the informal academic institution.
 
-Jen Weih: You Tell the Ocean It Doesnâ€™t Know
+Jen Weih: You Tell the Ocean It Doesn’t Know
 
-â€œI am going to talk about the sprawling set of interests I have related to 
+“I am going to talk about the sprawling set of interests I have related to 
 the fact that the sun is moving really really really fast. It has its own 
 orbit of the galaxy. The image of the sun floating quietly in space with 
 the planets moving around it in circles was true for a time, but is now a 
@@ -67,5 +68,5 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 13
 type: ""
+venue: "Langara College"
 summary: "Langara College | The Pavilion by Holly Ward | JAN 14"
 ---
 

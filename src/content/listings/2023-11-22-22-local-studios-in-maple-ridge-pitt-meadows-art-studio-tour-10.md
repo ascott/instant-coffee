@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 22
 type: "EVENT"
+venue: "Local studios in Maple Ridge / Pitt Meadows"
 summary: "Local studios in Maple Ridge / Pitt Meadows | Art Studio Tour | 10AM | NOV 25"
 ---
 

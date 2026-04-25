@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 21
 type: "CALL"
+venue: "2016 Portfolio Prize"
 summary: "2016 Portfolio Prize | Call for Applications | FEB 15"
 ---
 

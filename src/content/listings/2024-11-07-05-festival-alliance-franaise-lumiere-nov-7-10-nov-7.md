@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 5
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Alliance Française | LUMIERE | NOV 7-10 | NOV 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 9
 type: ""
+venue: "SFU at the AUDAIN Gallery"
 summary: "SFU at the AUDAIN Gallery | I flux: BFA Graduating Exhibition | APR 13"
 ---
 
@@ -19,7 +20,7 @@ Opening Reception: Friday, April 13, 2012, 7 - 10 pm
 Exhibition Dates: April 14 - 28, 2012
 Gallery Hours: Tuesday - Saturday 12 - 6 pm
 
-The Visual Arts students at SFUâ€™s School for the Contemporary Arts 
+The Visual Arts students at SFU’s School for the Contemporary Arts 
 present I flux, an exhibition that showcases the work of the 
 undergraduate class of 2012.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 18
 type: ""
+venue: "EMU"
 summary: "EMU | ROSALIND NASHASHIBI : artist Talk | OCT 9"
 ---
 

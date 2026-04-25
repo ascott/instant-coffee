@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 15
 type: "CALL"
+venue: "THE GATHERED GALLERY"
 summary: "THE GATHERED GALLERY | CALL FOR SUBMISSIONS | APR 30"
 ---
 

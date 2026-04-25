@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 19
 type: "EVENT"
+venue: "H.R. MacMillan Space Centre"
 summary: "H.R. MacMillan Space Centre | ECLIPSE:Total Alignment | AUG 17"
 ---
 

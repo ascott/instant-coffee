@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 22
 type: "EVENT"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Artist Salon with Barbara Meneley | DEC 7"
 ---
 

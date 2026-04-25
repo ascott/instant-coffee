@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 12
 type: "TALK"
+venue: "Capture Photography Festival [ONLINE]"
 summary: "Capture Photography Festival [ONLINE] | The Role of Public Art: A Panel Discussion | APR 24"
 ---
 

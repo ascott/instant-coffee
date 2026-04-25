@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: now conforming to safety requireme
 emailDate: "Thu, 20 Aug 2009 09:01:09 -0700"
 number: 8
 type: ""
+venue: "VIVO"
 summary: "VIVO | Workshops | starting | SEP 8"
 ---
 

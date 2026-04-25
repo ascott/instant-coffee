@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 12
 type: ""
+venue: "Langara"
 summary: "Langara | Philosophers' Jam Dialogue Series | NOV 15"
 ---
 

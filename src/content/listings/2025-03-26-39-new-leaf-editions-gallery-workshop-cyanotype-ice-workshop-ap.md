@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 39
 type: "EDUCATION"
+venue: "New Leaf Editions Gallery"
 summary: "New Leaf Editions Gallery | [WORKSHOP] Cyanotype & Ice Workshop | APR 12"
 ---
 

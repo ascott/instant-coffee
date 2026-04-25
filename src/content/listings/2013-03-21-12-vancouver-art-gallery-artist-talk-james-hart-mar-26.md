@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 12
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Artist Talk: James Hart | MAR 26"
 ---
 

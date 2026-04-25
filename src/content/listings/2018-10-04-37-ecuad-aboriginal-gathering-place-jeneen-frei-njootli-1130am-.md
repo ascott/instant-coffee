@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 37
 type: "TALK"
+venue: "ECUAD - Aboriginal Gathering Place"
 summary: "ECUAD - Aboriginal Gathering Place | Jeneen Frei Njootli | 1130AM | OCT 22"
 ---
 

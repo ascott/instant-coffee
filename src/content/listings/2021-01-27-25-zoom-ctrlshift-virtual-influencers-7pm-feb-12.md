@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 25
 type: "TALK"
+venue: "[ZOOM]"
 summary: "[ZOOM] | Ctrl+Shift: Virtual Influencers | 7PM | FEB 12"
 ---
 

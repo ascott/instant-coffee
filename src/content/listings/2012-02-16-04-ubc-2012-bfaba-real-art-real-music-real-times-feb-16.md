@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 4
 type: ""
+venue: "UBC 2012 BFA/BA"
 summary: "UBC 2012 BFA/BA | REAL ART | REAL MUSIC | REAL TIMES | FEB 16"
 ---
 

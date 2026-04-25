@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 22
 type: "CALL"
+venue: "The Maynard"
 summary: "The Maynard | Call for Submissions | JUL 3"
 ---
 

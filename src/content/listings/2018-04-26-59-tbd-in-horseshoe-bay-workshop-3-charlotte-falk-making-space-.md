@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 59
 type: "EDUCATION"
+venue: "TBD in Horseshoe Bay"
 summary: "TBD in Horseshoe Bay | WORKSHOP 3: CHARLOTTE FALK | MAKING SPACE | 1-4PM | MAY 26"
 ---
 

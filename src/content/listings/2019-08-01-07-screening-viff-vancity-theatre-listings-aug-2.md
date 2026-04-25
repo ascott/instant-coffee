@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF | Vancity Theatre Listings | AUG 2"
 ---
 

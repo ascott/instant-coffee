@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "The Gallery George"
 summary: "The Gallery George | Aspirations | MAY 7"
 ---
 

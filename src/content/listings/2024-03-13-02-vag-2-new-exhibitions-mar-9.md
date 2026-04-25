@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "VAG"
 summary: "VAG | 2 new exhibitions | MAR 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 2
 type: ""
+venue: "EVERY LETTER IN THE ALPHABET"
 summary: "EVERY LETTER IN THE ALPHABET | Michele Di Menna | FEB 4"
 ---
 

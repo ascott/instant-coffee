@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 27
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | [SCREENING] Response: All Woven Together | 6PM | MAR 1"
 ---
 

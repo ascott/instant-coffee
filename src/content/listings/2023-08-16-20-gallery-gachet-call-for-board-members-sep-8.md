@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 20
 type: "CALL"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | CALL FOR BOARD MEMBERS | SEP 8"
 ---
 

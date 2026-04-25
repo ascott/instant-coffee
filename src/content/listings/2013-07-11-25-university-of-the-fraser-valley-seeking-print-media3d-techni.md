@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 25
 type: ""
+venue: "University of the Fraser Valley"
 summary: "University of the Fraser Valley | Seeking: Print Media/3D Technician | AUG 23"
 ---
 

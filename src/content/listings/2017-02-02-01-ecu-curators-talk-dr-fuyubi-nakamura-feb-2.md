@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 1
 type: "TALK"
+venue: "ECU"
 summary: "ECU | Curators Talk: Dr. Fuyubi Nakamura | FEB 2"
 ---
 

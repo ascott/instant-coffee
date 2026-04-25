@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 8
 type: "EVENT"
+venue: "Lobe Spatial Sound Studio"
 summary: "Lobe Spatial Sound Studio | Spiders Song: The Music of Evolution | JUL 7&8 | JUL 7"
 ---
 

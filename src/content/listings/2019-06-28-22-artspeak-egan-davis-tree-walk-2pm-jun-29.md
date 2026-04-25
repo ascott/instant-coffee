@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 22
 type: "EVENT"
+venue: "Artspeak"
 summary: "Artspeak | Egan Davis: Tree Walk | 2PM | JUN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 23
 type: "TALK"
+venue: "MOV"
 summary: "MOV | Theories of Change Panel Discussion | 1-3PM | NOV 3"
 ---
 

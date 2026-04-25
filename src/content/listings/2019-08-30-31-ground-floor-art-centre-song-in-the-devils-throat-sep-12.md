@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 31
 type: "OPENING"
+venue: "Ground Floor Art Centre"
 summary: "Ground Floor Art Centre | Song in the Devil's Throat | SEP 12"
 ---
 

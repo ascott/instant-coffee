@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 29
 type: "EDUCATION"
+venue: "MOV"
 summary: "MOV | All Candidates Meeting on Arts and Culture | 5-7PM | OCT 15"
 ---
 

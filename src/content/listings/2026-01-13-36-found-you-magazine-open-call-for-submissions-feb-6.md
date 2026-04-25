@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 36
 type: "CALL"
+venue: "Found You Magazine"
 summary: "Found You Magazine | Open Call for Submissions | FEB 6"
 ---
 

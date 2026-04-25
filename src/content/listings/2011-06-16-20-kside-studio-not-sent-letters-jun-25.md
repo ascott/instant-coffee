@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 20
 type: ""
+venue: "kside Studio"
 summary: "kside Studio | NOT SENT LETTERS | JUN 25"
 ---
 

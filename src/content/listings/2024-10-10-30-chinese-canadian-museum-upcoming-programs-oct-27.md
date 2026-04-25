@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 30
 type: "EDUCATION"
+venue: "Chinese Canadian Museum"
 summary: "Chinese Canadian Museum | Upcoming programs | OCT 27"
 ---
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 8
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | Max Connect at VIVO Media Arts Centre + Upcoming Workshops | SEP 3"
 ---
 
-Hosted in partnership with Cycling â€˜74, this event will be a casual
+Hosted in partnership with Cycling ‘74, this event will be a casual
 evening, featuring artists and makers using Max for their work. No
 previous Max knowledge or experience required. Come for some swag,
 linger for refreshments and stay for the people.

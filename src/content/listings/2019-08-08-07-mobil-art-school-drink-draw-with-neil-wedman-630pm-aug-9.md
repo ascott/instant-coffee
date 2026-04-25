@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 7
 type: "EVENT"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Drink & Draw with Neil Wedman | 6:30PM | AUG 9"
 ---
 

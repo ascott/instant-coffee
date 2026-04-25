@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 11
 type: ""
+venue: "Charles Clark Gallery"
 summary: "Charles Clark Gallery | Concepts of Color; an Expletive | MAR 7"
 ---
 

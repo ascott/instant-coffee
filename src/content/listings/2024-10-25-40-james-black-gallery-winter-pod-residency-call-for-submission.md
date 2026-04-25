@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 40
 type: "CALL"
+venue: "James Black Gallery"
 summary: "James Black Gallery | WINTER POD RESIDENCY call for submissions | OCT 24"
 ---
 

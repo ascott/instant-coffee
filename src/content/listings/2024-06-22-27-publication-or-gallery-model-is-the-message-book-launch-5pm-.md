@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 27
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Or Gallery | Model Is the Message Book Launch | 5PM | JUN 27"
 ---
 

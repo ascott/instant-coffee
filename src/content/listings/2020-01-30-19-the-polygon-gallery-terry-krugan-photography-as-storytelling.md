@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 19
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Terry Krugan | Photography as Storytelling | 4PM | FEB 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 17
 type: "CALL"
+venue: "Dek Unu"
 summary: "Dek Unu | January 2019 Issue: Dek Unu Magazine | DEC 20"
 ---
 

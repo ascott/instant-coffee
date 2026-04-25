@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 2
 type: "EVENT"
+venue: "CAG [ONLINE]"
 summary: "CAG [ONLINE] | Reading with Deborah A. Miranda"
 ---
 

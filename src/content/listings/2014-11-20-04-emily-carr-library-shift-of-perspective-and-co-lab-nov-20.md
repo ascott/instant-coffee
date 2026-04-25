@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 4
 type: "OPENING"
+venue: "Emily Carr Library"
 summary: "Emily Carr Library | \"Shift of Perspective' and \"Co-Lab\" | NOV 20"
 ---
 
 Emily Carr University of Art + Design Annual Student Art Sale
 
-Emily Carr University of Art + Designâ€™s 41st annual Student Art Sale will
+Emily Carr University of Art + Design’s 41st annual Student Art Sale will
 be featuring works by up-and-coming artists and designers. Choose from a
 The Emily Carr Library and HUMN 311 are pleased to present Shift of
-Perspective and Co-Lab, two exhibitions from the Artistsâ€™ Books Collection.
+Perspective and Co-Lab, two exhibitions from the Artists’ Books Collection.
 
 Shift of Perspective
 
@@ -28,13 +29,13 @@ inherent fetishistic and material values, was in turn taken up by
 Conceptual artists.
 
 This adoption altered the use of photography in book design. While the
-conventional photo-essay did not disappear, artistsâ€™ books that
+conventional photo-essay did not disappear, artists’ books that
 internalized the coded space of the book as the structure for the creation
 of meaning began to emerge. This revelation is evident in the variety of
-approaches used in composing photo-based artistsâ€™ books as artists forged a
+approaches used in composing photo-based artists’ books as artists forged a
 new relationship between photography and the document.
 
-Shift of Perspective features a range of artistsâ€™ books that explore the
+Shift of Perspective features a range of artists’ books that explore the
 use of photography and text. The show contains work by N. E. Thing Company,
 Andrey Tarkovsky, Bernadette Corporation, Ken Lum, Martha Rosler, Elad
 Lassry, Sophie Calle and Duane Michals. The work on exhibition demonstrates
@@ -80,8 +81,8 @@ Junxiang Shao.
 ***
 
 Shift of Perspective and Co-Lab are the final two in a series of four
-exhibitions of work from the Emily Carr Libraryâ€™s Artistsâ€™ Books Collection
-and are presented as part of HUMN 311: The Practice of Artistsâ€™ Publishing.
+exhibitions of work from the Emily Carr Library’s Artists’ Books Collection
+and are presented as part of HUMN 311: The Practice of Artists’ Publishing.
 
 Emily Carr University Library
 

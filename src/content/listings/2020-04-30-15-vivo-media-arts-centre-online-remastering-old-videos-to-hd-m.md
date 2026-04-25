@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 15
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre (online)"
 summary: "VIVO Media Arts Centre (online) | Remastering Old Videos to HD | MAY 16"
 ---
 

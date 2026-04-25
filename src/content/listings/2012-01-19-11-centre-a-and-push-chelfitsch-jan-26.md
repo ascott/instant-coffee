@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 11
 type: ""
+venue: "Centre A and PUSH"
 summary: "Centre A and PUSH | Chelfitsch | JAN 26"
 ---
 
 Centre A co-presents
-With PuSh International Performing Arts Festival & SFU Woodwardâ€™s
+With PuSh International Performing Arts Festival & SFU Woodward’s
 
 Hot Pepper, Air Conditioner and the Farewell Speech
 chelfitsch (Tokyo, Japan)
 
-January 26 â€“ 28, 2012, 8:00 pm
+January 26 – 28, 2012, 8:00 pm
 (Running Time 65min)
 Studio T, Goldcorp Centre for the Arts, 149 West Hastings Street.
 
@@ -32,7 +33,7 @@ Eligible for PuSh Pass access
 
 A group of office temps plan a farewell party for a recently laid off 
 colleague. Will a Motsu hot pot restaurant do? Someone is obviously 
-tampering with the climate-control system and itâ€™s getting out of hand. 
+tampering with the climate-control system and it’s getting out of hand. 
 Should the police be notified? A coworker makes her farewell speech. 
 What does it have to do with imaginary penguins and the death of a 
 cicada?
@@ -45,8 +46,8 @@ and John Cage, each of the three scenes speak to the dark humour
 and despair of a generation that had been promised a brilliant future 
 only to end up ensnared in fluorescent cubicles.
 
-Strangely hypnoticâ€¦ a three-part meditation on death, class, and 
-listening for the sad poetry in the everydayâ€¦ By creating a jarring 
+Strangely hypnotic… a three-part meditation on death, class, and 
+listening for the sad poetry in the everyday… By creating a jarring 
 juxtaposition between the physical score and the text, the forgettable is 
 remembered, small details speak volumes. - Engine 28
 

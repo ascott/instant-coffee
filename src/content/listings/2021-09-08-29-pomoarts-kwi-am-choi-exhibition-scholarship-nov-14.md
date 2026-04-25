@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 29
 type: "CALL"
+venue: "PoMoArts"
 summary: "PoMoArts | Kwi Am Choi Exhibition Scholarship | NOV 14"
 ---
 

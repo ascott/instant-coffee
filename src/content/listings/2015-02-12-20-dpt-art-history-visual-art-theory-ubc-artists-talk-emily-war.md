@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 20
 type: "TALK"
-summary: "Dpt. Art History Visual Art & Theory, UBC | Artistâ€™s talk Emily Wardill | FEB 25"
+venue: "Dpt. Art History Visual Art & Theory, UBC"
+summary: "Dpt. Art History Visual Art & Theory, UBC | Artist’s talk Emily Wardill | FEB 25"
 ---
 
-An Artistâ€™s talk by Emily Wardill
+An Artist’s talk by Emily Wardill
 â€œand they lay them before you like reasonsâ€ 
 Distinguished Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
@@ -24,13 +25,13 @@ different visual or verbal structures, deliberately resisting meaning that
 settles in form. This resistance comes from an interest in styles of
 communication and the persistence of images to outlive their initial purpose.
 Her films consciously emphasize the irreducible qualities of images as well
-as their emancipatory potential â€“ taking an interest in the way in which
+as their emancipatory potential – taking an interest in the way in which
 the symbolic is used within the communication of nebulous ideas or
 political rhetoric. Her approach emphasizes the strangeness of images and
 undermines narrative cohesion. The film develop its own life and dynamic,
 to be absorbed by the senses rather than through logic.
 
-Wardillâ€™s work makes a central contribution to contemporary art film and
+Wardill’s work makes a central contribution to contemporary art film and
 was exhibited, among others, at the Serpentine Gallery London (2012), the
 Showroom Gallery London (2010), the Gallery of Modern Art Glasgow (2011),
 the Baadischer Kunstverein Karlsruhe (2011), the MIT List Visual Arts
@@ -39,8 +40,8 @@ artist showed the performance event The Feast Against Nature in Grizedale
 in the Lake District and at the New York PS1 Contemporary Art Center. In
 2011 she took part in the Venice Biennale. Her work was awarded the Jarman
 Award in 2010 and the Leverhulme Award in 2011. Recently her films were
-shown in the context of solo shows, namely The Third Person in the ARTES â€“
-FundaÃ§Ã£o Manuel AntÃ³nio da Mota in Porto (2012) and When you fall into a
+shown in the context of solo shows, namely The Third Person in the ARTES –
+Fundação Manuel António da Mota in Porto (2012) and When you fall into a
 trance in La Loge, Brussels (2012).
 
 Emily Wardill, born in 1977, lives and works in Lisbon, Portugal. She will

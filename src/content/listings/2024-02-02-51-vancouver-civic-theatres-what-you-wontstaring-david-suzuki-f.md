@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 51
 type: "PERFORMANCE"
+venue: "Vancouver Civic Theatres"
 summary: "Vancouver Civic Theatres | What You Won't..[staring David Suzuki] | FEB 13-17 | FEB 13"
 ---
 

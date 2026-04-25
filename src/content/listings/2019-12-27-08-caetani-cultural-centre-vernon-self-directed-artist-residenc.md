@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 8
 type: "CALL"
+venue: "Caetani Cultural Centre (Vernon)"
 summary: "Caetani Cultural Centre (Vernon) | Self-Directed Artist Residency | JAN 8"
 ---
 

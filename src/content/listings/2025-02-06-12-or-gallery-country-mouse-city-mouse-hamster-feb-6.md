@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 12
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Country Mouse City Mouse Hamster | FEB 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 10
 type: "OPENING"
+venue: "Audain Art Museum [WHISTLER]"
 summary: "Audain Art Museum [WHISTLER] | Curve! Women Carvers on the Northwest Coast | NOV 23"
 ---
 

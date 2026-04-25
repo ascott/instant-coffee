@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 10
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Whose Chinatown? .... | Special Opening Weekend | JAN 29"
 ---
 

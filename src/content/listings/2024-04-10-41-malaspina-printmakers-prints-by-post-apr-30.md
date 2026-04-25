@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 41
 type: "CALL"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Prints By Post | APR 30"
 ---
 

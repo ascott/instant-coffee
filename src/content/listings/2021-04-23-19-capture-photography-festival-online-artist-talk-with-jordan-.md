@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 19
 type: "TALK"
+venue: "Capture Photography Festival [ONLINE]"
 summary: "Capture Photography Festival [ONLINE] | Artist Talk with Jordan Bennett | APR 25"
 ---
 

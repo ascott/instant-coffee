@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 7
 type: ""
+venue: "Canadian Art"
 summary: "Canadian Art | webcast: Generation(s): Evolutions in Art Writing | SEP 20"
 ---
 
@@ -19,9 +20,9 @@ since Canadian Art first began publishing in September 1984.
 Panel speakers include Gabrielle Moser, Sarah Milroy and Sky Goodden. As
 you likely already know, these critics have published in the Globe and
 Mail, Artforum, Artinfo, Fillip, the National Post, Border Crossings, Esse,
-C Magazine, Modern Paintersâ€¦ the list goes on.
+C Magazine, Modern Painters… the list goes on.
 
-All three of these critics have also worked in editorial capacitiesâ€”Milroy
+All three of these critics have also worked in editorial capacities—Milroy
 at Canadian Art, Moser on the board of C and other publications, and
 Goodden at Artinfo Canada. So they can offer perspectives on this issue as
 editors as well as writers.

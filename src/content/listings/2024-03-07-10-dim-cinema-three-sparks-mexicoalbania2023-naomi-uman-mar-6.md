@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 10
 type: ""
+venue: "DIM Cinema"
 summary: "DIM Cinema | three sparks Mexico/Albania2023 Naomi Uman | MAR 6"
 ---
 

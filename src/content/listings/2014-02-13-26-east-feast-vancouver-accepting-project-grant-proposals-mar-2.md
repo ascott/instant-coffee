@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 26
 type: ""
+venue: "East FEAST Vancouver"
 summary: "East FEAST Vancouver | accepting project grant proposals | MAR 28"
 ---
 

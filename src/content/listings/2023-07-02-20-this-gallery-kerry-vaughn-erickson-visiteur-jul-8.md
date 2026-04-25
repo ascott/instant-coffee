@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 20
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Kerry Vaughn Erickson - Visiteur | JUL 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 2
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | OWEN KYDD | SEP 15"
 ---
 
@@ -17,15 +18,15 @@ Artist in attendance.
 Monte Clark Gallery is pleased to present a solo exhibition of new
 work by Owen Kydd entitled The Reckless Moment.
 
-The works featured in The Reckless Moment are a progression of Kyddâ€™s
+The works featured in The Reckless Moment are a progression of Kydd’s
 exploration of the roots of the still image. Documenting Pico
-Boulevard in Los Angeles from static camera angles, Kyddâ€™s durational
-photographs contain evidence of movementâ€”headlights passing, wind
+Boulevard in Los Angeles from static camera angles, Kydd’s durational
+photographs contain evidence of movement—headlights passing, wind
 blowing curtains, and at times the hand-held camera. The fluorescent
 lights illuminate facades, neon lights splash sharp colour into idle
 corners, and headlights send tracers across windows.
 
-At night Picoâ€™s storefronts and displays dramatize a quiet Los Angeles
+At night Pico’s storefronts and displays dramatize a quiet Los Angeles
 nostalgia. Under the glow their fixtures and products become evidence
 of a different life, a daylight past, one that is temporarily
 suspended in a bright noir-like chiaroscuro.

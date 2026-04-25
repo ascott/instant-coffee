@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 10
 type: ""
+venue: "Arbutus Gallery"
 summary: "Arbutus Gallery | Rainbow walks with you | JAN 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 5
 type: ""
+venue: "Library at Emily Carr University"
 summary: "Library at Emily Carr University | On Edge Readings Series | Liz Howard | MAR 23"
 ---
 

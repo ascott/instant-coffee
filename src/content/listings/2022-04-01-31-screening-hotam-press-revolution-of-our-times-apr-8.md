@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 31
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Hotam Press | Revolution of Our Times | APR 8"
 ---
 

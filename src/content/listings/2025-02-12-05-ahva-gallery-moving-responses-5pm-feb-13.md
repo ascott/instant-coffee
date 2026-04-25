@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 5
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Moving Response/s | 5PM | FEB 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 23
 type: "TALK"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Lunchtime Talks on Works in the SFU Art Collection | FEB 8"
 ---
 

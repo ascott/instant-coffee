@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "Audain Gallery at SCA"
 summary: "Audain Gallery at SCA | Report on the Thing | UNTIL JUL 26 | JUL 26"
 ---
 

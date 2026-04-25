@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 20
 type: "EVENT"
+venue: "CAG and the City of Vancouver"
 summary: "CAG and the City of Vancouver | Coming Soon! ONLINE Publication Launch | 730PM | JUN 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 28
 type: "EDUCATION"
+venue: "New Media Gallery [ONLINE]"
 summary: "New Media Gallery [ONLINE] | ARTalk Workshop: Jonathan Monaghan | NOV 27"
 ---
 

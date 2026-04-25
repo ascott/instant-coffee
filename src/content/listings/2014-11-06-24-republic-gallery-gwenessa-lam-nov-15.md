@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 24
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | GWENESSA LAM | NOV 15"
 ---
 
@@ -13,7 +14,7 @@ November 15 - December 20, 2014
 Reception Saturday, November 15th, 2-4PM
 
 Republic Gallery is pleased to present Mongrel Histories, a solo show of 
-new works on paper by Gwenessa Lam. Lamâ€™s drawings and paintings 
+new works on paper by Gwenessa Lam. Lam’s drawings and paintings 
 explore the history of the Kaiping Diaolou, late 19th century multi-storey 
 homes located in Kaiping county, Guongdong, China. These fortress-like 
 defensive buildings were designed to protect against theft and banditry, 

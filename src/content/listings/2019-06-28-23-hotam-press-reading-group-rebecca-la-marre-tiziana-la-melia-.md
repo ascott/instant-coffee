@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 23
 type: "EVENT"
+venue: "Hotam Press"
 summary: "Hotam Press | Reading Group: Rebecca La Marre, Tiziana La Melia | JUN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 1
 type: "CALL"
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | What We Can't Say in English"
 ---
 

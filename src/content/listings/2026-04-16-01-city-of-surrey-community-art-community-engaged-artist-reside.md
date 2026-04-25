@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 1
 type: ""
+venue: "City of Surrey Community Art"
 summary: "City of Surrey Community Art | Community Engaged Artist Residency"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 13
 type: "TALK"
+venue: "New Media Gallery"
 summary: "New Media Gallery | New West | Fresh Talk: CHILDREN | JAN 28"
 ---
 

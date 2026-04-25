@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 19
 type: "EDUCATION"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Workshop | Communicating From the Grave: Archives | MAR 5"
 ---
 

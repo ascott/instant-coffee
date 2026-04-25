@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 22
 type: ""
+venue: "NSCCD"
 summary: "NSCCD | Summer Professional Development Residency | APR 29"
 ---
 
@@ -22,7 +23,7 @@ manner and be comfortable working in a cooperative studio
 environment. Residents will be expected to keep their spaces and 
 the studio tidy; as well as treat the facilities and equipment 
 respectfully. The studios will be accessible 24 hours a day. There 
-will be a group exhibition of Residentâ€™s work held in the Mary E. 
+will be a group exhibition of Resident’s work held in the Mary E. 
 Black Gallery in September.
 
 The cost of the residency is $275 for the summer plus a $50 

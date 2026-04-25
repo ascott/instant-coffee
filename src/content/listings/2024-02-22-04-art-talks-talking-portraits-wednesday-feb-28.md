@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 4
 type: "TALK"
+venue: "Art Talks: Talking Portraits. Wednesday,"
 summary: "Art Talks: Talking Portraits. Wednesday, | FEB 28"
 ---
 

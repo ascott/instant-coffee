@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 25
 type: "EDUCATION"
+venue: "Alchemy Film and Arts"
 summary: "Alchemy Film and Arts | Livestream of Screenings | MAY 1-3rd | MAY 1"
 ---
 

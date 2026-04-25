@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 6
 type: ""
+venue: "Hammock Residency"
 summary: "Hammock Residency | Backyard Music Festival | JUL 10"
 ---
 

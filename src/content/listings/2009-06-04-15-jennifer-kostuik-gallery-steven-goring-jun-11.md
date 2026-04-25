@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 15
 type: ""
+venue: "Jennifer Kostuik Gallery"
 summary: "Jennifer Kostuik Gallery | STEVEN GORING | JUN 11"
 ---
 

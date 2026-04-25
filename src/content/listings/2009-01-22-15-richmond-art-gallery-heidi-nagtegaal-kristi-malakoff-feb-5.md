@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sorry if my dismissal seemed flipp
 emailDate: "Thu, 22 Jan 2009 12:05:21 -0800"
 number: 15
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Heidi Nagtegaal & Kristi Malakoff | FEB 5"
 ---
 

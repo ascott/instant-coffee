@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "SFU Audain Gallery, Vancouver"
 summary: "SFU Audain Gallery, Vancouver | BFA Graduating Exhibition 2018: EVERYTHING MUST GO | APR 12"
 ---
 

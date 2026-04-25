@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 20
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Programming Submissions | JAN 30"
 ---
 

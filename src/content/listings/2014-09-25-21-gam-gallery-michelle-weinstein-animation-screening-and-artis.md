@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 21
 type: ""
+venue: "Gam Gallery"
 summary: "Gam Gallery | Michelle Weinstein | animation screening and artis | OCT 7"
 ---
 

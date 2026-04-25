@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 7
 type: "TALK"
+venue: "City of Richmond"
 summary: "City of Richmond | Acknowledging our Indigenous Plant Nations | JUN 15"
 ---
 

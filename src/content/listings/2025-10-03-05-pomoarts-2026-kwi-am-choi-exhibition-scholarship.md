@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 5
 type: "CALL"
+venue: "PoMoArts"
 summary: "PoMoArts | 2026 Kwi Am Choi Exhibition Scholarship"
 ---
 

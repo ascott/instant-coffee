@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 3
 type: ""
+venue: "SHUDDER GALLERY"
 summary: "SHUDDER GALLERY | The LMPC | In Conversation | MAR 17"
 ---
 
@@ -17,7 +18,7 @@ conversations that are open to the public.
 Thursday, March 17th's topic will be "Artists Working for Artists"
 
 The LMPC is interested in learning more about the experience of artists who
-are employed as Artistâ€™s assistants, technicians and fabricators. How do
+are employed as Artist’s assistants, technicians and fabricators. How do
 artists experience and negotiate a job which includes helping to realize
 other artist's work? How do they measure the value of one labor against the
 other, and in what ways do authorship and ownership affect their

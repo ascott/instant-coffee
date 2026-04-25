@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 24
 type: "CALL"
+venue: "Off the Map"
 summary: "Off the Map | CALL FOR WRITERS | JUN 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee meets the Everyday Society and perh
 emailDate: "Thu, 15 May 2008 08:25:05 -0700"
 number: 2
 type: ""
+venue: "Centre A"
 summary: "Centre A | David Khang with Candice Hopkins | May 16"
 ---
 

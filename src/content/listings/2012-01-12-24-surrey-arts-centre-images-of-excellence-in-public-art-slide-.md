@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 24
 type: ""
+venue: "Surrey Arts Centre"
 summary: "Surrey Arts Centre | Images of Excellence in Public Art | slide show | FEB 2"
 ---
 
@@ -30,7 +31,7 @@ Artworks include small scale and temporary projects, to monumental
 sculptures. Come and be entertained and amazed by recent international public 
 art practices. 
 
-Information on the City of Surreyâ€™s Public Art Program and Surreyâ€™s own Public 
+Information on the City of Surrey’s Public Art Program and Surrey’s own Public 
 Art Collection will also be available.
 
 For further information contact:

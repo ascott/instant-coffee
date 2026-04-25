@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Gwenessa Lam: Before Present | NOV 18"
 ---
 

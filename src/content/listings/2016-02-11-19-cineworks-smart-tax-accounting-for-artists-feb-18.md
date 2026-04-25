@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 19
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Smart Tax Accounting for Artists | FEB 18"
 ---
 

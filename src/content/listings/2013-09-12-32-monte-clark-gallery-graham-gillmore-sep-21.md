@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 32
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | Graham Gillmore | SEP 21"
 ---
 
@@ -16,13 +17,13 @@ Opening reception: Saturday September 21, 2pm to 4pm
 Cervante's Don Quixote could be the most influential novel that has
 rarely been read word for word, beginning to end. Even Orson Welles
 ultimately found Don Quixote too ambitious, and his film based on the
-bookâ€”a sea of comical mishaps that occur when Quixote and Sancho Panza
-encounter modern technologyâ€” was never completed. In Graham Gillmoreâ€™s
+book—a sea of comical mishaps that occur when Quixote and Sancho Panza
+encounter modern technology— was never completed. In Graham Gillmore’s
 exhibition Lov Sic, he explores the ways in which the modern human
 experience has remained fundamentally consistent with that of
 Cervante's 17th century hero.
 
-Like the theme of Don Quixote, Gillmoreâ€™s practice explores the
+Like the theme of Don Quixote, Gillmore’s practice explores the
 conflict between reality and fantasy: the fluctuating battle between
 achieving self-fulfillment and the sobering effects of reality.
 Sometimes, these two sides are indistinguishable; is the swimmer
@@ -39,7 +40,7 @@ theme strategically. For him, the tail wags the dog, and for us, we
 see through his subjective explorations a poignant reflection of
 universal experience.
 
-Graham Gillmoreâ€™s work is collected by the Museum of Modern Art, the
+Graham Gillmore’s work is collected by the Museum of Modern Art, the
 Ghent Museum, Gian Enzo Sperone, the Museum of Contemporary Canadian
 Art, RCA Records, The Royal Bank of Canada, the Vancouver Art Gallery,
 and numerous other institutions worldwide. He has been featured in

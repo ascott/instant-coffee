@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 16
 type: ""
+venue: "Cineworks' Film&Media Showcase"
 summary: "Cineworks' Film&Media Showcase | Zachary D. KerrHolden “Power Man” | OCT 23"
 ---
 

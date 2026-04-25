@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 23
 type: ""
+venue: "The Apartment"
 summary: "The Apartment | Robert Kleyn and Mitch Speed: Systems | SEP 12"
 ---
 
@@ -29,10 +30,10 @@ production.
 
 Speed employs bold serial and taxonomic graphics on found magazine pages
 and large format fibre paper. He culls patterns of black and white forms or
-characters from the materialâ€™s surfaces in his recent series "New Yorker
+characters from the material’s surfaces in his recent series "New Yorker
 Collages," mirroring systems of base technology and forms of automatic
-writing. Speedâ€™s collages and drawings are presented on sculptural bases
-and hanging mechanisms, giving a gravitas to the worksâ€™ physical materiality.
+writing. Speed’s collages and drawings are presented on sculptural bases
+and hanging mechanisms, giving a gravitas to the works’ physical materiality.
 
 Robert Kleyn is a visual artist and practicing architect who studied
 mathematics and architecture at UBC in the early 1970s. His works have been

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like shoulder pads in a business s
 emailDate: "Wed, 19 Oct 2016 12:20:16 -0700"
 number: 7
 type: "TALK"
+venue: "Iris Film Collective"
 summary: "Iris Film Collective | Alex MacKenzie: The Hollow Mountain | OCT 22"
 ---
 

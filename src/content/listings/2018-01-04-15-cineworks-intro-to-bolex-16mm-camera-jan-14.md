@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 15
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Intro to Bolex 16mm Camera | JAN 14"
 ---
 

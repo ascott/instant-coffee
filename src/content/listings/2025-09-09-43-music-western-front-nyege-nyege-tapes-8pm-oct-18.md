@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 43
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Western Front | Nyege Nyege Tapes | 8PM | OCT 18"
 ---
 

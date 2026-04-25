@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 17
 type: "EVENT"
+venue: "UNIT / PITT Projects"
 summary: "UNIT / PITT Projects | Karaoke Video Music Maker Free Store | APR 1"
 ---
 

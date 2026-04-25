@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 46
 type: "CALL"
+venue: "Richmond World Festival"
 summary: "Richmond World Festival | Digital Carnival | MAR 15"
 ---
 

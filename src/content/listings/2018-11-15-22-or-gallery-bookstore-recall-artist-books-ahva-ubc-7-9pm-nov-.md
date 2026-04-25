@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 22
 type: "EVENT"
+venue: "Or Gallery Bookstore"
 summary: "Or Gallery Bookstore | recall: artist books AHVA UBC | 7-9PM | NOV 20"
 ---
 

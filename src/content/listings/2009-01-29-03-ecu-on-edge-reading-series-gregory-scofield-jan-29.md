@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two times double crossed legged"
 emailDate: "Thu, 29 Jan 2009 09:40:07 -0800"
 number: 3
 type: ""
+venue: "ECU: On Edge reading series"
 summary: "ECU: On Edge reading series | Gregory Scofield | JAN 29"
 ---
 
@@ -23,7 +24,7 @@ generations to the Red River Settlement and to Kinesota, Manitoba. He has
 published five much-praised and award-winning books of poetry--The
 Gathering: Stones for the Medicine Wheel (1993), Native Canadiana: Songs
 from the Urban Rez (1996), Love Medicine and One Song (1997), I Knew Two
-MÃ©tis Women (1999) and Singing Home the Bones (2005)--as well as a memoir,
+Métis Women (1999) and Singing Home the Bones (2005)--as well as a memoir,
 Thunder in My Veins: Memories of a Metis Childhood. He is also featured in
 a 2006 documentary entitled Singing Home the Bones, which follows the
 poet's journey toward a sense of wholeness from the discovery of the

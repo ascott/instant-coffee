@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sorry if my dismissal seemed flipp
 emailDate: "Thu, 22 Jan 2009 12:05:21 -0800"
 number: 14
 type: ""
+venue: "WOO@ECU"
 summary: "WOO@ECU | After-School Special: Alternative Art Educatio | FEB 3"
 ---
 

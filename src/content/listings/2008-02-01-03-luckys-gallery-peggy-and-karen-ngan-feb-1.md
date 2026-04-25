@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee conditioned"
 emailDate: "Thu, 31 Jan 2008 17:20:08 -0800"
 number: 3
 type: ""
+venue: "Lucky's Gallery"
 summary: "Lucky's Gallery | Peggy and Karen Ngan | FEB 1"
 ---
 

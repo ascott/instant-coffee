@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Polygon Gallery | An echo always calls at least twice... | 7PM | JAN 11"
 ---
 

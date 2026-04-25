@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 16
 type: ""
+venue: "JOB"
 summary: "JOB | Vancouver Mural Festival | VMF GUEST CURATOR 2021 | JAN 31"
 ---
 

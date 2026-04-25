@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 39
 type: "OPENING"
+venue: "Franc Gallery"
 summary: "Franc Gallery | A Beast Salient | NOV 24"
 ---
 

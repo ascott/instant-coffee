@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 1
 type: "OPENING"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | WAAP | Jill Henderson | MAR 13"
 ---
 

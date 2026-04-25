@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 5
 type: "EVENT"
+venue: "Parking Spot Projects"
 summary: "Parking Spot Projects | DIRECTIONS FOR THE MIND | SEP 5"
 ---
 

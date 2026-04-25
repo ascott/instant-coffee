@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 7
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Ciara Phillips: Cold Friends, Warm Cash | MAR 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 33
 type: "TALK"
+venue: "UBC"
 summary: "UBC | Curatorial Lecture: Guillaume Faroult | MAR 29"
 ---
 

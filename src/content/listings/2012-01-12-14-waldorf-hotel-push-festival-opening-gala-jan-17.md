@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 14
 type: ""
+venue: "Waldorf Hotel"
 summary: "Waldorf Hotel | PuSh Festival Opening Gala | JAN 17"
 ---
 
 PuSh Festival Opening Gala Win Tickets Tuesday January 17
 
-Hereâ€™s your chance to win tickets to the opening gala for the PuSh International 
-Performing Arts Festival! Donâ€™t miss the biggest party of the 2012 PuSh 
+Here’s your chance to win tickets to the opening gala for the PuSh International 
+Performing Arts Festival! Don’t miss the biggest party of the 2012 PuSh 
 International Performing Arts Festival! A veritable buffet of creativity spread 
 throughout the hotel, the Opening Gala hosted by CTV News anchor Keri Adams 
 and will be packed with live music, video projections, spontaneous performances, 
-and surprise guests.The cabaret space, hosted by The Sunday Serviceâ€™s Ryan 
-Beil and author of Vancouver Special Charles Demers, will feature Vancouverâ€™s 
+and surprise guests.The cabaret space, hosted by The Sunday Service’s Ryan 
+Beil and author of Vancouver Special Charles Demers, will feature Vancouver’s 
 quick-witted, irreverent, and surprisingly danceable accordion rock band Fang, 
-alongside the ethereal vocals and gorgeous harmonies of e.s.l. Youâ€™ll also have 
+alongside the ethereal vocals and gorgeous harmonies of e.s.l. You’ll also have 
 the opportunity to take in DJ sets by Dubstep veteran Kuma, The Amigos and 
 Jenifer Papararo under the flickering â€œtwilight skyâ€  of the Waldorfâ€™s famous Tiki 
 bar, join in a spur-of-the-moment flamenco dance lesson, make silly faces with 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 28
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | (Un)Spoken Intersections | AUG 22"
 ---
 
@@ -34,8 +35,8 @@ Notik Masowan?, Frederick Cummings, 4:49
 Woa Enjelsch, Kandis Friesen, 8:04
 Happy Profiling, Wassan Ali, 4:30
 spuren legen_verwehen, lann hornscheidt & laYla zami, 12:31
-Quâ€˜est-ce que Ã§a veut dire?, kimura byol-nathalie, 100 seconds
+Qu‘est-ce que ça veut dire?, kimura byol-nathalie, 100 seconds
 Tomboi Gatoey Mango (Eps.1), Jai Arun Ravine, 3:03
-Kettleâ€™s Boiling, Alison Smith, 3:16
+Kettle’s Boiling, Alison Smith, 3:16
 Writing the Land, Kevin Lee Burton, 7:46
 East Van Italian-Canadian Queers, Juli Saragosa

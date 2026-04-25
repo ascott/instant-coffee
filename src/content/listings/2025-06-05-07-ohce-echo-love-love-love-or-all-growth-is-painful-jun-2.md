@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 7
 type: "OPENING"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | Love, Love, Love, or All growth is painful | JUN 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 5
 type: "OPENING"
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Amelie Ducommun | Unfolding Memories | JUN 8"
 ---
 

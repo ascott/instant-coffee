@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "Pale Fire"
 summary: "Pale Fire | Nicole Ondre: Primes | JUL 8"
 ---
 

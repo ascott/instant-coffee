@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 22
 type: "CALL"
+venue: "Langley Arts Council"
 summary: "Langley Arts Council | BC Wide Landscape Competition | JUL 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 26
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Disembody -Abbas Akhavan Rochelle Goldberg | 12PM | NOV 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 22
 type: "TALK"
+venue: "Branscombe House Artist"
 summary: "Branscombe House Artist | Meet Keely O’Brien | JAN 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 11
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Curator's Tour | Emily Carr and Landon Mackenzie | SEP 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 8
 type: ""
+venue: "NEWS"
 summary: "NEWS | Vancouver Art Gallery | Reopening | JUN 15"
 ---
 

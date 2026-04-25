@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 27
 type: "CALL"
+venue: "Island Mountain Arts"
 summary: "Island Mountain Arts | IMA 2024 Call for Submissions | AUG 15"
 ---
 

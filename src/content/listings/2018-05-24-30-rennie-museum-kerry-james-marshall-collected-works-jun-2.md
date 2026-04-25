@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 30
 type: "EXHIBITION"
+venue: "Rennie Museum"
 summary: "Rennie Museum | KERRY JAMES MARSHALL: COLLECTED WORKS | JUN 2"
 ---
 

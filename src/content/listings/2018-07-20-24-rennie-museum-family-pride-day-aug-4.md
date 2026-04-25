@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 24
 type: "EVENT"
+venue: "Rennie Museum"
 summary: "Rennie Museum | Family Pride Day | AUG 4"
 ---
 

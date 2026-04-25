@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 20
 type: ""
+venue: "UNLEARNING WEEKENDERS"
 summary: "UNLEARNING WEEKENDERS | series of workshops, starting | JUN 2"
 ---
 
@@ -29,7 +30,7 @@ Public Dreams (141-2050 Scotia St.)
 June 15: FINAL EVENT Unlearning Procession, 9am-9pm, route TBA 
 (with breaks & meeting points along the way)
 
-WHO: everyone looking to explore Unlearning throughâ€¦
+WHO: everyone looking to explore Unlearning through…
 movement, song, shared experience, magic, ritual, ceremony, social 
 change, perception, capitalist critique, embodiment, other ways of 
 knowing, metaphysics, connecting to nature, walking, performance art, 
@@ -42,7 +43,7 @@ http://publicdreams.org/
 
 *contact us for details: unlearningweekenders@gmail.com
 
-A project by the Goethe-Institut, Curated by Catherine Grau & ZoÃ« 
+A project by the Goethe-Institut, Curated by Catherine Grau & Zoë 
 Kreye in cooperation with: Dance Troupe Practice, Windsor House 
 School, Pacific Spirit Independent School, Public Dreams and Revised 
 Projects

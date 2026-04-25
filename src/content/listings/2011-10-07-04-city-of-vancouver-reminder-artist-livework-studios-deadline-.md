@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 4
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | reminder: Artist Live/Work Studios: Deadline | OCT 7"
 ---
 

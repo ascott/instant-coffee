@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 28
 type: "OPENING"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | Woven Memory | 6PM | SEP 20"
 ---
 

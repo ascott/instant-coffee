@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 39
 type: "CALL"
+venue: "Art Rental & Sales @ the VAG"
 summary: "Art Rental & Sales @ the VAG | Call for Submissions | MAY 3"
 ---
 

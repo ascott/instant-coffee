@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 40
 type: "EVENT"
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Hello! Goodbye! Dance + Fundraiser | JUL 6"
 ---
 

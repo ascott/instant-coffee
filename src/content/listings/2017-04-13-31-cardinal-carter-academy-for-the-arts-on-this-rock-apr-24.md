@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 31
 type: "CALL"
+venue: "Cardinal Carter Academy for the Arts"
 summary: "Cardinal Carter Academy for the Arts | ON THIS ROCK | APR 24"
 ---
 

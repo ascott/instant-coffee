@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 49
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | Pushing Boundaries 2019: The Blanket | OCT 10"
 ---
 

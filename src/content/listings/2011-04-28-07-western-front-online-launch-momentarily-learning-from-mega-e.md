@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 7
 type: ""
+venue: "Western Front: online launch"
 summary: "Western Front: online launch | Momentarily | Learning from Mega-Events | APR 28"
 ---
 
 Momentarily: Learning from Mega-Events now available for free 
 download 
 
-Momentarily: Learning from Mega-Events, Western Frontâ€™s latest 
+Momentarily: Learning from Mega-Events, Western Front’s latest 
 publication is available in its entirety for download at 
 http://front.bc.ca/mediaarts/events/3397 and at 
 http://www.front.bc.ca/momentarily/momentarily.pdf. Print copies of 
@@ -22,7 +23,7 @@ Momentarily: Learning from Mega-Events
 
 Strategic, simplified, spotless, homogenizing representations 
 require a pluralistic response which engages the visual tactically. 
-Unlike the image of Vancouver, the projectâ€™s category-defying 
+Unlike the image of Vancouver, the project’s category-defying 
 qualities are not clear-cut nor easily pinned down. This project 
 exists within several forms each increasingly visible: a residency, an 
 exhibition that commissioned two new works, a symposium with 
@@ -32,10 +33,10 @@ A research process that has unfolded since 2009, Momentarily:
 Learning from Mega-Events began with a shared interest in the 
 impacts of the 2010 Olympic Games on Vancouver, at a time when 
 this city has been noted as especially livable. Through multiple 
-textual forms â€“ from semi-fiction to interview to theoretical historical 
-examination â€“ this publication explodes first doubts and curiosities.
+textual forms – from semi-fiction to interview to theoretical historical 
+examination – this publication explodes first doubts and curiosities.
 
-Starting off, Western Frontâ€™s Executive Director Caitlin Jones has 
+Starting off, Western Front’s Executive Director Caitlin Jones has 
 expounded upon how this publication fits into a rich organizational 
 history of mail art and public accessibility. Artist collective Bik Van 
 der Pol share a text which has been uttered by the anonymous 
@@ -49,7 +50,7 @@ and Urban Subjects as proposals in the most productive sense.
 
 Activist Am Johal traces the link between development, culture and 
 the State. Myka Tucker-Abramson evokes and analyzes the 
-effectiveness of todayâ€™s universities as sites for public learning. 
+effectiveness of today’s universities as sites for public learning. 
 Pelin Tan reveals the undercurrents of a recent clash between the 
 art public and a local community within the Tophane neighbourhood 
 of Istanbul. Moments, as defined by urbanist Henri Lefebvre, are 

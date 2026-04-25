@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 21
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Sonny Assu | SEP 19"
 ---
 
@@ -26,15 +27,15 @@ storage area of an ethnographic museum, as fine art in an exhibition of aestheti
 objects in a commercial gallery, and the tourist shop emphasizing curiosities, 
 souvenirs or keepsakes to take home.
 
-Vancouver-based artist Sonny Assu is Laich-kwil-tach (Kwakwakaâ€™wakw) of the 
-Wekaâ€™yi First Nation of Cape Mudge, Vancouver Island. Assuâ€™s work has been 
+Vancouver-based artist Sonny Assu is Laich-kwil-tach (Kwakwaka’wakw) of the 
+Weka’yi First Nation of Cape Mudge, Vancouver Island. Assu’s work has been 
 featured in several notable group exhibits over the past years, How Soon is 
 Now?, Vancouver Art Gallery; Comic Relief, National Gallery of Canada; 
 Challenging Traditions: Contemporary First Nations Art of the Northwest Coast; 
 McMichael Canadian Art Collection, and Changing Hands: Art Without 
 Reservation Part 2, Museum of Arts and Design in New York City. A recent solo 
 exhibit, Sonny Assu: As Defined Within the Indian Act, was held at the Belkin 
-Satellite Gallery, Vancouver. Assuâ€™s work is in the collection of the National 
+Satellite Gallery, Vancouver. Assu’s work is in the collection of the National 
 Gallery, the Seattle Art Museum, the Museum of Anthropology at UBC, and in 
 public and private collections across Canada and the United States. The artist is 
 represented by the Equinox Gallery in Vancouver.

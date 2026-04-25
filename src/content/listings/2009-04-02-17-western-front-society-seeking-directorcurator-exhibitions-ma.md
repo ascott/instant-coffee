@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 17
 type: ""
+venue: "Western Front Society"
 summary: "Western Front Society | SEEKING: Director/Curator, Exhibitions | MAY 1"
 ---
 

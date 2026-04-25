@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 14
 type: "OPENING"
+venue: "Plug In Institute of Contemporary Art"
 summary: "Plug In Institute of Contemporary Art | FASTWÜRMS | Winnipeg | SEP 12"
 ---
 

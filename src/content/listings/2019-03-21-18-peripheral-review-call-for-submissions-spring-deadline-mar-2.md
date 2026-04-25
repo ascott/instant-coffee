@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 18
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions: Spring Deadline | MAR 25"
 ---
 

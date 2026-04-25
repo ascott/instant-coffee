@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 25
 type: "OPENING"
+venue: "SFU Gallery"
 summary: "SFU Gallery | Andreas Bunte: Erosion | SEP 10"
 ---
 

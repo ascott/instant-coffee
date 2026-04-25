@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 22
 type: ""
+venue: "UBC, Irving K. Barber Learning Centre"
 summary: "UBC, Irving K. Barber Learning Centre | Clare Yow | until | JUL 31"
 ---
 

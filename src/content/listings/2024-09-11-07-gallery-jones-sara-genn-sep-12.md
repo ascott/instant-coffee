@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 7
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Sara Genn | SEP 12"
 ---
 

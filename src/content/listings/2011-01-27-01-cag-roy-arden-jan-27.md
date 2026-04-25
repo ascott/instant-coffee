@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 1
 type: ""
+venue: "CAG"
 summary: "CAG | ROY ARDEN | JAN 27"
 ---
 
@@ -66,7 +67,7 @@ Foundation.
 
 Publication: a pictorial artist's publication, made possible with 
 support
-from the City of Vancouverâ€™s 125th Anniversary Grants Program, 
+from the City of Vancouver’s 125th Anniversary Grants Program, 
 will be
 available during the exhibition.
 
@@ -84,7 +85,7 @@ donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 
 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 
 pm.
 Admission is by donation. For more information please contact:
 info@contemporaryartgallery.ca or 604-681-2700

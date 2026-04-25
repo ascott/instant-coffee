@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 16
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Tanya Tagaq and Michael Red performance | JUL 27"
 ---
 
-Wednesday, July 27 Â· 6:30pm - 10:00pm
+Wednesday, July 27 · 6:30pm - 10:00pm
 Vancouver Art Gallery
 
-With a sound that is described as â€˜orchestralâ€™, â€˜primalâ€™ and â€˜hip-hop infusedâ€™, 
-internationally renowned throat singer Tanya Tagaqâ€™s performances span a 
-staggering range of experiences. Tagaqâ€™s work will resonate with those 
+With a sound that is described as ‘orchestral’, ‘primal’ and ‘hip-hop infused’, 
+internationally renowned throat singer Tanya Tagaq’s performances span a 
+staggering range of experiences. Tagaq’s work will resonate with those 
 alternative states so central to art of the Surrealist movement, on display in the 
 new exhibition The Colour of My Dreams: The Surrealist Revolution in Art.
 
 Experience Tanya and Vancouver-based sound artist Michael Red on the 
-Galleryâ€™s spectacular 4th floor balcony for an unforgettable evening of music and 
+Gallery’s spectacular 4th floor balcony for an unforgettable evening of music and 
 art. Join us for a drink following the performance, and enjoy exclusive access to 
 The Colour of My Dreams.
 

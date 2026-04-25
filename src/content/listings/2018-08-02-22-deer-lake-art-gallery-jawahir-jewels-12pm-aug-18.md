@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 22
 type: "OPENING"
+venue: "Deer Lake Art Gallery"
 summary: "Deer Lake Art Gallery | Jawahir: Jewels | 12PM | AUG 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 12
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | 12-3pm | JAN 26"
 ---
 

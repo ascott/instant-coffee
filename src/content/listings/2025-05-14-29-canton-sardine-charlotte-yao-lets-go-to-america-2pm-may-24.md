@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 29
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Charlotte Yao ”Let’s Go to America” | 2PM | MAY 24"
 ---
 

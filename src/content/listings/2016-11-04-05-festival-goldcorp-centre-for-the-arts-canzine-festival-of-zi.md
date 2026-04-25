@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Appenda...3"
 emailDate: "Fri, 04 Nov 2016 07:26:09 -0700"
 number: 5
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Goldcorp Centre for the Arts | Canzine Festival of Zines and Underground Culture | NOV 5"
 ---
 

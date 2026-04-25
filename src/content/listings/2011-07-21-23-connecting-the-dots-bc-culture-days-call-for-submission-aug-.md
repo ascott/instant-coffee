@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 23
 type: ""
+venue: "Connecting the Dots"
 summary: "Connecting the Dots| BC Culture Days | Call for submission | AUG 21"
 ---
 
@@ -36,7 +37,7 @@ For more information visit : http://www.culturedays.ca
 
 About Five Sixty:
 
-Five Sixty is known for its involvement in Vancouverâ€™s art and culture scene. This 
+Five Sixty is known for its involvement in Vancouver’s art and culture scene. This 
 4 floor multi-media complex has over 28,000 square feet of state-of-the-art 
 sound, design, lighting and visual technology, and boasts 3 levels of 
 nightclubbing, plus the Blanket Contemporary Art Gallery and The Satellite 

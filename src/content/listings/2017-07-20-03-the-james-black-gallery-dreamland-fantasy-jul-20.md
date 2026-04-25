@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | DREAMLAND FANTASY | JUL 20"
 ---
 

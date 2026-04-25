@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 12
 type: ""
+venue: "Trench Contemporary Art"
 summary: "Trench Contemporary Art | MONOMANIA II: Vancouver Emerging | JUL 4"
 ---
 
@@ -36,7 +37,7 @@ Spence, Kuh Del Rosario, Patrick Cruz and more.
 
 Special thanks to Cariboo Brewing and BeatRoute Magazine
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 Trench Contemporary Art, All rights reserved. 
+Copyright © 2013 Trench Contemporary Art, All rights reserved. 
 You are receiving this email because you shared your address with us. 
 Our mailing address is: 
 Trench Contemporary Art

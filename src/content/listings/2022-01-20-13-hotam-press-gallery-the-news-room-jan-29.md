@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 13
 type: "EXHIBITION"
+venue: "Hotam Press Gallery"
 summary: "Hotam Press Gallery | THE NEWS ROOM | JAN 29"
 ---
 

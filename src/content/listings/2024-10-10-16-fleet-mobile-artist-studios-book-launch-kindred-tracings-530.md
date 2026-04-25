@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 16
 type: "PERFORMANCE"
+venue: "FLEET: Mobile Artist Studios"
 summary: "FLEET: Mobile Artist Studios | Book Launch: Kindred Tracings | 530PM | OCT 17"
 ---
 

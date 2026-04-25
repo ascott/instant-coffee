@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 20
 type: ""
+venue: "Ross Creek Centre for the Arts"
 summary: "Ross Creek Centre for the Arts | Artist-in-Residence | Nova Scotia | DEC 31"
 ---
 
@@ -35,17 +36,17 @@ Phone: 902.582.3842
 
 Fax: 902.582.7943
 
-Box 190 â€¢ 555 Ross Creek Road â€¢ Canning â€¢ NS â€¢ B0P 1H0
+Box 190 • 555 Ross Creek Road • Canning • NS • B0P 1H0
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+……………………………………………………………..
 
-Arts â€¢Passion â€¢ Wonder
+Arts •Passion • Wonder
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+……………………………………………………………..
 
 The Ross Creek Centre for the Arts is a non-profit, multi disciplinary arts
 education and development centre based on 186 acres of farm and forest in
-Nova Scotiaâ€™s Annapolis Valley. Our facilities and programs are designed to
+Nova Scotia’s Annapolis Valley. Our facilities and programs are designed to
 serve the artistic and cultural communities of Nova Scotia, of Canada, and
 of the world, with a focus on professional artist development, youth
 education and Aboriginal arts programming.

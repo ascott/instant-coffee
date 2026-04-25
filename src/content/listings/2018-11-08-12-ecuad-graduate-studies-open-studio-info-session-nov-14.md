@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 12
 type: ""
+venue: "ECUAD"
 summary: "ECUAD | Graduate Studies Open Studio + Info Session | NOV 14"
 ---
 

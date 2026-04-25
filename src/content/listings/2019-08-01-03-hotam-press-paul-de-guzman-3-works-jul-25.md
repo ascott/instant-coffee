@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Paul de Guzman | 3 Works | JUL 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 63
 type: "EVENT"
+venue: "22nd annual Eastside Culture Crawl"
 summary: "22nd annual Eastside Culture Crawl | NOV 15-18th | NOV 15"
 ---
 

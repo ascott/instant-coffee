@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 24
 type: "CALL"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Burnaby Art Gallery Advisory Committee | MAR 31"
 ---
 

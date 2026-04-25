@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 10
 type: ""
+venue: "de Appel arts Centre"
 summary: "de Appel arts Centre | www.deappel.nl | new publication: Fluiten in het Donker | OCT 2"
 ---
 
@@ -43,7 +44,7 @@ Linguistic, psychoanalytic and medical, colonial and architectural, thin,
 labyrinthine, silent and loose associations constitute the body of this book.
 
 When I was first invited to curate an exhibition in Amsterdam I discovered a 
-volatile sociopolitical context. The streets are calmâ€”most of the timeâ€”but my 
+volatile sociopolitical context. The streets are calm—most of the time—but my 
 door and bicycle are always double-locked. Official letters in the mailbox 
 encourage me to be vigilant. I spent only nine months in the city and was almost 
 immediately confronted with a dispersed and disguised anxiety. A crisis so 

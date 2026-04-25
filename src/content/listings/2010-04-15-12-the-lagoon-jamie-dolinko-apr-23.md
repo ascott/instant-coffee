@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 12
 type: ""
+venue: "THE LAGOON"
 summary: "THE LAGOON | Jamie Dolinko | APR 23"
 ---
 
@@ -19,7 +20,7 @@ during regular hours: Saturday & Sunday, 11 a.m. - 4 p.m. Summer hours in July a
 the foot of Alberni Street, below the viewing deck, at the Nature House at Lost Lagoon. 
 
 The Stanley Park Nature House is a gateway for nature interpretation and park exploration, and 
-is Vancouverâ€™s only nature interpretation centre, showcasing interpretive displays on various 
+is Vancouver’s only nature interpretation centre, showcasing interpretive displays on various 
 habitats and their flora and fauna. A re-imagining of the Nature House has created more space 
 for interactive displays that will change with the seasons, and enable the Nature House to pilot 
 our vision to host other installations that combine ecological and environmental themes with 
@@ -30,7 +31,7 @@ Roger Keyes
 Public Programs Manager
 Stanley Park Ecology Society
 programs@stanleyparkecology.ca 
-(604) 718 â€“ 6522 
+(604) 718 – 6522 
 
 Also please visit us at :
 www.stanleyparkecology.ca

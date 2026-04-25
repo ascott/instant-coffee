@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 17
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | BFA Graduating Exhibition 2018: EVERYTHING MUST GO | APR 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 21
 type: "EDUCATION"
+venue: "Silk Weaving Studio"
 summary: "Silk Weaving Studio | Beginner Weaving | 7-9PM | MAY 2"
 ---
 

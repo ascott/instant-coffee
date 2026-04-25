@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 22
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Dance Film Workshop with Daniel Conrad | JUN 11"
 ---
 

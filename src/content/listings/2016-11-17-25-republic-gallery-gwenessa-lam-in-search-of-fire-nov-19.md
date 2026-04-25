@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 25
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Gwenessa Lam: In Search of Fire | NOV 19"
 ---
 

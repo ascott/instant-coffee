@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 18
 type: ""
+venue: "James Black Gallery"
 summary: "James Black Gallery | Hobby Hangouts: Unit Oddity | 6PM | JAN 19"
 ---
 

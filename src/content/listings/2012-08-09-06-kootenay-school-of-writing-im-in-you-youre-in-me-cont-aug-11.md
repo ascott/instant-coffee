@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 6
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | I'm In You, You're In Me [cont.] | AUG 11"
 ---
 
@@ -39,7 +40,7 @@ mountains. The gunslinger hung perilously
 
 from the cliff's edge, his last thoughts were
 
-of his horseâ€”he could hold on no longer,
+of his horse—he could hold on no longer,
 
 he let go. He walked through the casino,
 
@@ -65,7 +66,7 @@ Debra Jiggleigh Bitz rode her stallion off
 
 into the sunset. We loves our oil bohy.
 
-â€œWelcome to Death Valley, no fucker gets
+“Welcome to Death Valley, no fucker gets
 
 in, no fucker gets out.â€  ...and the carcus
 
@@ -73,7 +74,7 @@ baked in the midday sun... She nervously
 
 waited at the far end of the bar, until the
 
-squealing finally subsided. â€œI met my
+squealing finally subsided. “I met my
 
 husband here 46 years ago in the sheep
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 26
 type: "EVENT"
+venue: "Museum Of Anothropology"
 summary: "Museum Of Anothropology | behind-the-scenes tour | SEP 14"
 ---
 

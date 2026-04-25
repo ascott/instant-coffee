@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 17
 type: "PERFORMANCE"
+venue: "The Contemporary Art Gallery"
 summary: "The Contemporary Art Gallery | Scott Gailey & Yu Su | JUN 7"
 ---
 

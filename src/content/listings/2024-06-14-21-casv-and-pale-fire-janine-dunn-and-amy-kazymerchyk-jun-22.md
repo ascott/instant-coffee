@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 21
 type: "TALK"
+venue: "CASV and Pale Fire"
 summary: "CASV and Pale Fire | Janine Dunn and Amy Kazymerchyk | JUN 22"
 ---
 

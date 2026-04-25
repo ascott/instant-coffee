@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | WEREWOLF + DESIGN CANADA | JUL 4-11 | JUL 4"
 ---
 

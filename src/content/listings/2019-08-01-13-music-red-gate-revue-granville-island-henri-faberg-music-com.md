@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 13
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Red Gate Revue (Granville Island) | Henri Fabergé | Music & Comedy Show | 8PM | AUG 8"
 ---
 

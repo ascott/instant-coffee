@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 22
 type: "EVENT"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | Jinhan Ko [CLOSING EVENT] | 6PM | NOV 29"
 ---
 

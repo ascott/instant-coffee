@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 11
 type: "EVENT"
+venue: "Hardscrabble Gallery"
 summary: "Hardscrabble Gallery | Tower Beach Blast | JUN 28"
 ---
 

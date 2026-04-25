@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 3
 type: ""
+venue: "BLIM ART"
 summary: "BLIM ART | Biographie Interaction | Stephane Brogniez and Dianna Lippolis | APR 13"
 ---
 
@@ -14,9 +15,9 @@ Blim presents:
 Biographie Interaction
 by Stephane Brogniez and Dianna Lippolis
 Biographie Interactions is a collaborative installation between Belgium based 
-artists Stephane Brogniez and Dianna Lippolis. Stephane Brogniezâ€™s work is an 
+artists Stephane Brogniez and Dianna Lippolis. Stephane Brogniez’s work is an 
 explosion of abstract forms, combined with geometric draw- ings, stemming 
-beyond the framework. Diana Lippolisâ€™s work is more intimate and poetic, as 
+beyond the framework. Diana Lippolis’s work is more intimate and poetic, as 
 each drawing is contained within the artwork. Together they create a space that 
 is both visually kinetic and abstractly human.
 Stephane Brogniez, also known as Digital mushy, is fascinated with creative 

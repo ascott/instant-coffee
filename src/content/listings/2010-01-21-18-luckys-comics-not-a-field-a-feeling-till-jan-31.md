@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 18
 type: ""
+venue: "Lucky's Comics"
 summary: "Lucky's Comics | Not a field, a feeling | till | JAN 31"
 ---
 
@@ -19,7 +20,7 @@ as shifting points of reference within these overlapping, expanding fields:
 the spaces of physical experience, construction and documentation, and the
 grounds of intellectual play, negotiation and provision.
 
-John Burgessâ€™s sculpture and installation works deal with specific
+John Burgess’s sculpture and installation works deal with specific
 architectures built in and around the Vancouver area. Partial, or
 imaginative, re-constructions are made through careful examination of
 photographs and elevation plans, but never transcend the only optical
@@ -35,7 +36,7 @@ Daniel Oates-Kuhn has made a careful documentation of specific objects that
 invite or inhibit gestural actions and reactions, working out a
 phenomenology of gaps and walls that force projection and re-distribution.
 
-Emiliano Sepulvedaâ€™s photographic practice is more specific to the
+Emiliano Sepulveda’s photographic practice is more specific to the
 developmental processes of the enlarger, and the chemical reactions that
 are necessarily kept in the dark. Working out of doors, with light
 sensitive materials, Sepulveda collects both objects, and the light that

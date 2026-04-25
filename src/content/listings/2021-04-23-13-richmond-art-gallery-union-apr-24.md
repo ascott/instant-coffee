@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | UNION | APR 24"
 ---
 

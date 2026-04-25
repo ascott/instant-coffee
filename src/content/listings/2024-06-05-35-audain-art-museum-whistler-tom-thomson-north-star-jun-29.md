@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 35
 type: "OPENING"
+venue: "Audain Art Museum [WHISTLER]"
 summary: "Audain Art Museum [WHISTLER] | Tom Thomson: North Star | JUN 29"
 ---
 

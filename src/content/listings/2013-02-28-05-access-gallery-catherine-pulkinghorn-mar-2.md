@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 5
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Catherine Pulkinghorn | MAR 2"
 ---
 
-Group Effort â€“ Post Occupancy Evaluation: Artist Talk/Project Pitch
+Group Effort – Post Occupancy Evaluation: Artist Talk/Project Pitch
 Catherine Pulkinghorn
 
 March 2, 2013: 2pm @ Access Gallery
@@ -16,7 +17,7 @@ Launching with a talk on March 2nd, artist Catherine Pulkinghorn seeks
 community feedback and participation in an upcoming project.
 
 Driven by her recent experience becoming the owner of a pre-sale 
-condominium in Vancouverâ€™s infamous real estate landscape, Pulkinghorn is 
+condominium in Vancouver’s infamous real estate landscape, Pulkinghorn is 
 inviting sector professionals to collaborate on her Post-Occupancy Evaluation 
 of the property, as well as addressing many questions about the rationale for 
 current development processes.

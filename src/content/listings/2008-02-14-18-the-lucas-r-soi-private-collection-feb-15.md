@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee at cruising speed"
 emailDate: "Thu, 14 Feb 2008 07:58:05 -0800"
 number: 18
 type: ""
+venue: "The Lucas R. Soi Private Collection"
 summary: "The Lucas R. Soi Private Collection | FEB 15"
 ---
 

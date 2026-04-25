@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 3
 type: "PERFORMANCE"
+venue: "Access Gallery - The Foreshore"
 summary: "Access Gallery - The Foreshore | Retracing - we move forward through time | MAR 16"
 ---
 

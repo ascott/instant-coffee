@@ -20,7 +20,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-01-03-06-black-yellow-kt-kilgour-jan-11">06. Black & Yellow | KT Kilgour | JAN 11</a>
 <a href="/instant-coffee/listings/2013-01-03-07-kranky-cafe-not-sent-letters-guests-jan-11">07. KRANKY CAFE | NOT SENT LETTERS & GUESTS | JAN 11</a>
 <a href="/instant-coffee/listings/2013-01-03-08-hedonistika-montreal-call-for-proposals-jan-15">08. Hedonistika, Montreal | call for proposals | JAN 15</a>
-<a href="/instant-coffee/listings/2013-01-03-09-nanaimo-invites-artists-outdoor-public-art-2013-201-jan-15">09. Nanaimo Invites Artistsâ€¦ | Outdoor Public Art 2013-201 | JAN 15</a>
+<a href="/instant-coffee/listings/2013-01-03-09-nanaimo-invites-artists-outdoor-public-art-2013-201-jan-15">09. Nanaimo Invites Artists… | Outdoor Public Art 2013-201 | JAN 15</a>
 <a href="/instant-coffee/listings/2013-01-03-10-vag-upcoming-speaker-series-ian-wallace-jan-15">10. VAG | upcoming speaker series: IAN WALLACE | JAN 15</a>
 <a href="/instant-coffee/listings/2013-01-03-11-tone-deaf-collective-radio-cabaret-at-the-artel-jan-17">11. TONE DEAF COLLECTIVE | RADIO CABARET AT THE ARTEL | JAN 17</a>
 <a href="/instant-coffee/listings/2013-01-03-12-roundhouse-community-centre-january-eco-arts-salon-jan-23">12. Roundhouse Community Centre | January Eco-Arts Salon | JAN 23</a>
@@ -38,25 +38,25 @@ Opening Thursday January 3, 2013, from 6 to 9pm
 Continues until Sunday February 3, 2013
 
 Dan Starling's solo exhibition takes Charlie and the Chocolate Factory, the 
-popular childrenâ€™s book written by Roald Dahl in 1964 as it's starting point. 
+popular children’s book written by Roald Dahl in 1964 as it's starting point. 
 Dahl was criticized for his racist characterization of the workers in the 
 chocolate factory of the book as â€œpygmies from Africa.â€  In the subsequent 
-edition, he chose to refer to them instead as the â€œOompa-loompas from 
+edition, he chose to refer to them instead as the “Oompa-loompas from 
 Oompaloompaland.â€  Starling chose to redraw all the original illustrations from 
 the second edition using drypoint and then produce a series of subsequent 
-alterations to the images that call attention to this history as a kind of â€œreturn 
+alterations to the images that call attention to this history as a kind of “return 
 of the repressed.â€  Working in drypoint and etching, a new medium for Starling, 
 the final project will encompass four new books showing this evolution as it 
 progresses.
 
 Dan Starling is a multidisciplinary artist whose practice encompasses video, 
 sculpture, performance, installation, photography, painting as well as artist 
-books and art writing. Starlingâ€™s work takes different aesthetic traditions and 
+books and art writing. Starling’s work takes different aesthetic traditions and 
 rubs them together to bring forth the contradictions inherent in each. He 
 studied art history at UBC and visual art at Emily Carr and has experience 
 exhibiting locally, nationally and recently in an international art context in both 
 solo and group exhibitions. In the spring of 2011, Starling returned to 
-Vancouver after completing a Meisterschuler at the StÃ¤delschule Art 
+Vancouver after completing a Meisterschuler at the Städelschule Art 
 Academy in Frankfurt Germany. He is currently a sessional faculty member 
 at Emily Carr University.
 
@@ -94,8 +94,8 @@ www.gjennyg.com
 ------------------------------------------------------------------------
 Exhibition Title: Holding Our Breath
 Artist: Adrian Stimson
-Opening: Friday January 4, 7â€“10pm at grunt gallery
-Exhibition Dates: Fri., 4 January 2013 â€“ Sat., 16 February 2013
+Opening: Friday January 4, 7–10pm at grunt gallery
+Exhibition Dates: Fri., 4 January 2013 – Sat., 16 February 2013
 
 http://grunt.ca/programming/holding-our-breath-adrian-stimson/
 
@@ -108,15 +108,15 @@ Kandahar, Afghanistan. The work is informed by conversations Stimson had
 with soldiers, some of whom were First Nations, and his impression of daily 
 life at the military base situated in the vast Middle Eastern landscape. 
 
-â€œâ€¦This exhibition brings together drawings, photographs, video and sculptural 
+“…This exhibition brings together drawings, photographs, video and sculptural 
 installations that explore the ambiguities of war by linking personal history 
 with wider cultural and political issues. Although this work reflects on the 
 complex situation in Afghanistan, Stimson deflects the focus away from the 
 truncated newsreel moments to daily life affirming moments.â€  â€“ excerpt from, 
 â€œHolding Our Breath: The Work of Adrian Stimsonâ€  by Elizabeth Matheson. 
 
-The work includes Stimsonâ€™s own personal perspective on serving in the 
-military as well as his familyâ€™s history serving in the Canadian military as 
+The work includes Stimson’s own personal perspective on serving in the 
+military as well as his family’s history serving in the Canadian military as 
 soldiers and historically as Blackfoot warriors. These experiences, in addition 
 to Stimson's time spent in Kandahar, allow the artist to approach these topics 
 from a perspective that questions the essence of conflict and how this relates 
@@ -154,7 +154,7 @@ of Deathmatch begins January 20th, 2013.
 Only One Will Triumph
 The most taxing short story contest on Earth returns for its sixth year, and 
 Broken Pencil Magazine has upped the ante in more ways than one. 
-Canadaâ€™s Magazine of Zine Culture and the Independent Arts is raising the 
+Canada’s Magazine of Zine Culture and the Independent Arts is raising the 
 pressure on writers with new rules and a new prize that means the stakes are 
 higher than ever! Eight stories will go head-to-head in our Online Arena, but 
 only one will triumph.
@@ -164,14 +164,14 @@ Whoever emerges victorious will be awarded The Complete Indie Writers
 Makeover: a consultation with literary agent Sam Hiyate of the Rights 
 Factory; a consultation with novelist and Globe & Mail columnist Russell 
 Smith; and a meeting and feedback-session with Coach House Press, one of 
-Canadaâ€™s top independent presses; plus publication in the Spring 2013 issue 
+Canada’s top independent presses; plus publication in the Spring 2013 issue 
 of Broken Pencil.
 
 NEW RULE! Rewrite to Move On
 For the first time ever, each contestant to survive the first round must revise 
-their story before moving on â€“ will they take their criticsâ€™ fevered, and 
+their story before moving on – will they take their critics’ fevered, and 
 sometimes hurtful, suggestions to heart? Or strike out on their own and polish 
-each word to a razor-sharp edge? This yearâ€™s Deathmatch is a whole new 
+each word to a razor-sharp edge? This year’s Deathmatch is a whole new 
 game, and nobody knows how it will turn out. Only one thing is certain: 
 somebody will emerge with an unprecedented opportunity to show off their 
 writing to some of the best in the business.
@@ -195,17 +195,17 @@ editor/publisher of the avant-garde literary publisher Gutter Press. Sam also
 teaches at University of Toronto and Ryerson University and has lectured 
 across Canada on publishing.
 
-Russell Smithâ€™s most recent novel is Girl Crazy (HarperCollins). His debut 
-novel, How Insensitive, was a finalist for the Governor Generalâ€™s Award. Both 
+Russell Smith’s most recent novel is Girl Crazy (HarperCollins). His debut 
+novel, How Insensitive, was a finalist for the Governor General’s Award. Both 
 his short story collection, Young Men, and his novel Muriella Pent were 
 shortlisted for the Toronto Book Award. He writes weekly on culture in the 
 Globe and Mail.
 
-Coach House Books is one of Canadaâ€™s premiere literary publishing houses. 
+Coach House Books is one of Canada’s premiere literary publishing houses. 
 Based in Toronto, the books they have published have received Griffin Poetry 
-Prizes, Governor Generalâ€™s Awards, Trillium Book Awards, Toronto Book 
+Prizes, Governor General’s Awards, Trillium Book Awards, Toronto Book 
 Awards, ReLit Awards, Lambda Literary Awards, Amazon First Novel Awards, 
-Libris Awards, the Ontario Premierâ€™s Award for Excellence in the Arts and 
+Libris Awards, the Ontario Premier’s Award for Excellence in the Arts and 
 more. The winner of the Indie Makeover will receive a joint consultation with 
 Editorial Director Alana Wilcox and Head Publicist Evan Munday.
 Deathmatch on BP.com:
@@ -236,20 +236,20 @@ Deathmatch IV.
 Here's a sampling of comments from previous battles!
 
 TOO MUCH INFORMATION:
-â€œk. i am kinda in this new relationship and it makes doing anything other than 
-copulation almost impossible; i.e., sorry my comments are lateâ€“and hereâ€™s to 
+“k. i am kinda in this new relationship and it makes doing anything other than 
+copulation almost impossible; i.e., sorry my comments are late–and here’s to 
 hoping my period is notâ€¦â€ 
 ANGRY:
 Back off, or I will beat the slime out of you with my aluminum walker. â€ 
 CHEATING:
-â€œWow. Does voting even matter any more? For what itâ€™s worth, both stories in 
-this round are very good. I wish you the both of luck, and pray you both donâ€™t 
-resort to cheating to win. Personally, Iâ€™d like to see the BP folks address the 
+“Wow. Does voting even matter any more? For what it’s worth, both stories in 
+this round are very good. I wish you the both of luck, and pray you both don’t 
+resort to cheating to win. Personally, I’d like to see the BP folks address the 
 blatant cheating from last roundâ€¦â€ 
-â€œYou must have half of england voting for youâ€¦either that or a couple 
+“You must have half of england voting for you…either that or a couple 
 computer geeks, can i be the first one to cry â€œFoul!â€ â€¦â€ 
 COME-ONS: 
-â€œMadelineâ€¦ first of all, you have a wicked name. Iâ€™ve liked Madeline ever 
+“Madeline… first of all, you have a wicked name. I’ve liked Madeline ever 
 since a high-school crush broke my heart because I went outside for a 
 cigarette instead of cuddling with her. Tragedy. And Masters? Sounds 
 powerful, and of course packed with some pun potential.â€ 
@@ -267,17 +267,17 @@ Free
 
 Audain Gallery,Goldcorp Centre for the Arts, 149 W Hastings St.
 
-Exhibition: Jan. 10 â€“ Feb. 23, 2013
+Exhibition: Jan. 10 – Feb. 23, 2013
 Exhibition Opening: Jan. 9, 7:00pm
-Artistâ€™s Talk: Jan. 9, 6:00pm
+Artist’s Talk: Jan. 9, 6:00pm
 Panel Discussion: Jan. 11, 7:00pm
-Residency: Jan. 6 â€“ Jan. 14
+Residency: Jan. 6 – Jan. 14
 Studio Visits with Students: Jan. 8 and 11
 
 Antoni Muntadas, the Spanish-born, New York-based artist, is the second 
 Audain Visual Artist in Residence for the 2012/13 year. For his residency, 
 Muntadas will present his work About Academia at the Audain Gallery, give 
-an artistâ€™s talk, participate in a public panel presentation and discussion, 
+an artist’s talk, participate in a public panel presentation and discussion, 
 engage with students in the School for the Contemporary Arts at Simon 
 Fraser University, and work collaboratively with the Audain Gallery to produce 
 a new publication derived from his residency and exhibition.
@@ -287,7 +287,7 @@ Academia investigates the complicated, often contradictory relationship
 between the production of knowledge and economic power. Projected on 
 three large hanging screens in the space of the gallery, the video installation 
 simultaneously juxtaposes scrolling textual quotations drawing from 
-Muntadasâ€™ research for the work, excerpts from interviews by Muntadas with 
+Muntadas’ research for the work, excerpts from interviews by Muntadas with 
 significant figures in contemporary academia, and footage of various 
 universities to emphasize their architectural characteristics. Together these 
 components form a disassembled and spatialized documentary, encouraging 
@@ -299,15 +299,15 @@ urgency.
 To compliment the projections About Academia is also a book that offers the 
 complete texts of the interviews, providing a fuller sense of context for the 
 excerpts in the video display. As part of the exhibition at the Audain Gallery, 
-copies of this book, with a collection of Muntadasâ€™ other artist books and 
-catalogues, will be presented in a small reading kiosk in the galleryâ€™s walk-in 
+copies of this book, with a collection of Muntadas’ other artist books and 
+catalogues, will be presented in a small reading kiosk in the gallery’s walk-in 
 vitrine. The Audain Gallery and Muntadas, in partnership with West Coast 
-Lineâ€™s LINEbooks imprint, will also be working collaboratively to produce a 
+Line’s LINEbooks imprint, will also be working collaboratively to produce a 
 new publication that will develop out of the panel presentation and discussion 
-that is part of Muntadasâ€™ residency. Addressing the unique social, political, 
+that is part of Muntadas’ residency. Addressing the unique social, political, 
 and economic context for universities and academia in Canada, British 
 Columbia, and Vancouver in particular, this publication will be a valuable 
-contribution to the work initiated by Muntadasâ€™ original project.
+contribution to the work initiated by Muntadas’ original project.
 
 Antoni Muntadas Biography:
 Born in Barcelona, Spain in 1942, Muntadas has lived and worked in New 
@@ -326,7 +326,7 @@ Musee d'Art Contemporain de Montreal, le Capc de Bordeaux, France, the
 Museu de Arte Moderna de Rio de Janeiro in Brazil, the Ludwig Museum in 
 Budapest, and the Museo Nacional Centro de Arte Reina Sofia in Madrid.
 
-He studied at the Escuela TÃ©cnica Superior de Ingenieros Industriales in 
+He studied at the Escuela Técnica Superior de Ingenieros Industriales in 
 Barcelona and the Pratt Graphic Center in New York.
 
 Muntadas is currently Professor of the Practice at ACT/Department of 
@@ -371,7 +371,7 @@ NOT SENT LETTERS & GUESTS
 @ KRANKY CAFE - 216 E. 4th Avenue, Vancouver
 Friday Evening, January 11th, 2013
 2 Hour Programme: 7-9pm SHARP!
-$5 Suggested Donation â€“ No One Turned Away
+$5 Suggested Donation – No One Turned Away
 (space/seating is extremely limited)
 
 interdisciplinary works by
@@ -457,9 +457,9 @@ project a second time!
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-01-03-08-hedonistika-montreal-call-for-proposals-jan-15">08. Hedonistika, Montreal | call for proposals | JAN 15</a>
 ------------------------------------------------------------------------
-Hedonistika call for proposals â€“ Deadline January 15th, 2013
+Hedonistika call for proposals – Deadline January 15th, 2013
 
-MontrÃ©al, QuÃ©bec â€“ Canada
+Montréal, Québec – Canada
 
 Scheduled for the fall 2013
 
@@ -485,7 +485,7 @@ that explore the critical issues within these realms. The curators are
 accepting proposals for complete works (and works almost complete) for
 the exhibition in the festival portion of the event. Proposed
 projects should have a technological component. Artists should submit
-a pdf document comprised of â€¦
+a pdf document comprised of …
 
 A short CV (2 pgs)
 
@@ -510,20 +510,20 @@ by January 15th, 2013
 Hedonistika is produced in collaboration with Elektra Festival.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-01-03-09-nanaimo-invites-artists-outdoor-public-art-2013-201-jan-15">09. Nanaimo Invites Artistsâ€¦ | Outdoor Public Art 2013-201 | JAN 15</a>
+<a href="/instant-coffee/listings/2013-01-03-09-nanaimo-invites-artists-outdoor-public-art-2013-201-jan-15">09. Nanaimo Invites Artists… | Outdoor Public Art 2013-201 | JAN 15</a>
 ------------------------------------------------------------------------
-Nanaimo Invites Artistsâ€¦ 
+Nanaimo Invites Artists… 
 
 Outdoor Public Art 2013-2014
 
 Since 2010, the City of Nanaimo and Nanaimo Art Gallery have been partners 
 in a dynamic and evolving public art program that enhances and animates our 
-cityâ€™s parks. Each year, work by some of our regionâ€™s premier artists is 
+city’s parks. Each year, work by some of our region’s premier artists is 
 installed on a temporary basis for the enjoyed of residents and visitors. The 
 parks essentially become outdoor art galleries and showcase works for a 
 limited period of time. In past years, works have been auctioned off after the 
 yearlong exhibition period. For 2013-14, changes have been made to the 
-program to allow for a wider range of artistic possibilitiesâ€¦ 
+program to allow for a wider range of artistic possibilities… 
 
 Follow the link below to find the details including eligibility criteria, 
 submissions guidelines and more.
@@ -535,7 +535,7 @@ Kirsty MacDonald, Parks and Open Space Planner.
 Phone: 250-755-7506 Email:kirsty.macdonald@nanaimo.ca
 
 Closing Date/Time and Delivery Instructions:
-Responses are to be received at the City of Nanaimoâ€™s Purchasing 
+Responses are to be received at the City of Nanaimo’s Purchasing 
 Department before 3:00 PM, (15:00 hrs) Pacific Time, Tuesday, January 15, 
 2013 by email to purchasinginfo@nanaimo.ca. 
 
@@ -694,12 +694,12 @@ selection criteria.
 <a href="/instant-coffee/listings/2013-01-03-14-new-international-leadership-program-visual-arts-management-">14. New International Leadership Program | Visual Arts Management | JAN 31</a>
 ------------------------------------------------------------------------
 New International Leadership Program 
-in Visual Arts Management â€“ ILPVAM
+in Visual Arts Management – ILPVAM
 
 Deusto Business School (University of Deusto, Spain) / 
 NYU Steinhardt / Guggenheim Museum Bilbao
 New International Leadership Program 
-in Visual Arts Management â€“ ILPVAM
+in Visual Arts Management – ILPVAM
 
 Three intensive modules in Bilbao, New York, and Abu Dhabi
 Call for applications
@@ -710,9 +710,9 @@ will be given to those applying by January 31st, 2013.
 5% early bird discount to those registering two months before the program 
 begins
 
-Module 1: Bilbao â€“ April 15â€“19, 2013
-Module 2: New York â€“ June 10â€“14, 2013
-Module 3: Abu Dhabi â€“ October 6â€“10, 2013
+Module 1: Bilbao – April 15–19, 2013
+Module 2: New York – June 10–14, 2013
+Module 3: Abu Dhabi – October 6–10, 2013
 
 Apply
 
@@ -720,7 +720,7 @@ Share this: Facebook | Twitter
 Global practice in the administration of the arts is undergoing profound 
 transformations as a result of changing funding systems, management 
 practices, and audiences. The new International Leadership Program in Visual 
-Arts Management â€“ ILPVAM, an executive part-time certificate program, 
+Arts Management – ILPVAM, an executive part-time certificate program, 
 combines advanced business theory and techniques together with the latest 
 concepts and global trends in visual arts management and administration to 
 provide a rigorous, engaging educational program for experienced 
@@ -728,7 +728,7 @@ professionals in the visual arts or related fields.
 
 This innovative approach to learning comprises five-day modules taught in 
 English by experts in their respective fields over the course of seven months, 
-and is conducted in three geographical areas â€“Europe, America, and the 
+and is conducted in three geographical areas –Europe, America, and the 
 Middle East. The location of these intensive modules in Bilbao, New York, 
 and Abu Dhabi provide an exceptional immersive on-site experience.
 
@@ -752,7 +752,7 @@ documents, a non-refundable application fee, and a personal interview.
 Completion of all three modules leads to the award of a Program Certificate by 
 the University of Deusto and New York University.
 
-The International Leadership Program in Visual Arts Management â€“ ILPVAM 
+The International Leadership Program in Visual Arts Management – ILPVAM 
 is a collaborative effort between Deusto Business School (University of 
 Deusto, Spain), the NYU Steinhardt School of Culture, Education, and Human 
 Development (New York University, US), and the Guggenheim Museum Bilbao 

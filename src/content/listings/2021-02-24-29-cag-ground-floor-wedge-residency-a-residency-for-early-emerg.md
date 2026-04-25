@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 29
 type: "CALL"
+venue: "CAG + Ground Floor"
 summary: "CAG + Ground Floor | WEDGE RESIDENCY: A residency for early-emerging ar | MAR 14"
 ---
 

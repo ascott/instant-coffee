@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 19
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Inside/Outside: The art show my dad never had | 3PM | FEB 3"
 ---
 

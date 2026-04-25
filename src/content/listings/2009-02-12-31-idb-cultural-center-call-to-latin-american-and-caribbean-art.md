@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 31
 type: ""
+venue: "IDB Cultural Center"
 summary: "IDB Cultural Center | CALL to Latin American and Caribbean artists | APR 30"
 ---
 
@@ -73,7 +74,7 @@ the artists and works from those submitting proposals for exhibition.
 Center of the Inter-American Development Bank, in Washington, DC, 1300 New
 York Avenue, NW, Washington, DC, 20577 USA for approximately six weeks.
 
-11. A catalogue reproducing all the selected works and the artistsÃ¢ï¿½ï¿½
+11. A catalogue reproducing all the selected works and the artistsâ��
 biographies will be published for the exhibition.
 
 12. The IDB Cultural Center will promote the exhibit in Washington, DC, and

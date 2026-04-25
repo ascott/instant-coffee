@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: what duty do we do?"
 emailDate: "Thu, 21 Feb 2008 08:23:56 -0800"
 number: 16
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Conversations on Audio Art | MAR 1"
 ---
 

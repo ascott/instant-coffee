@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 10
 type: "TALK"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Zhang Enli, Liu Jianhua, Jennifer Wen Ma | NOV 15"
 ---
 
@@ -45,9 +46,9 @@ questions its influence on visual culture in present-day China.
 This exhibition presents a diverse selection of Chinese contemporary
 artists whose practices are informed by their cultural heritage. Re-working
 traditional aesthetics in conceptual ways, featured artists use new forms
-and mediaâ€“such as digital animations and siteâ€“specific installationsâ€“to
+and media–such as digital animations and site–specific installations–to
 provide a myriad of means to understand and examine tradition's influence
-on visual culture in presentâ€“day China.
+on visual culture in present–day China.
 
 The exhibition is accompanied by a fully illustrated publication,
 co-published with Black Dog Publishing, that features new photography and

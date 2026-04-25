@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 17
 type: ""
+venue: "Visual Arts at The Banff Centre"
 summary: "Visual Arts at The Banff Centre | Call for applications | JUL 15"
 ---
 
 19 Adam Chodzko: Something in the Water; A Search for the Turn of the 
 Backwash
 
-Program dates: November 14 â€“ December 9, 2011
+Program dates: November 14 – December 9, 2011
 
 Application deadline: July 15, 2011
 
@@ -19,9 +20,9 @@ Guests: Simon Starling, Martin Clark
 By utilising art to explore new ways of relating to each other it's time to reveal 
 and tamper with the networks that connect individual subjectivity to wider 
 collective and unconscious flows in the world. What unspeakable truth rises to 
-the surface from this kind of looking? Itâ€™s a collaboration. Each participant 
-contributing equally, sharing authorship. Whilst thereâ€™ll be plenty of opportunity for 
-individual studio practice weâ€™ll navigate this residency through field trips, hikes, 
+the surface from this kind of looking? It’s a collaboration. Each participant 
+contributing equally, sharing authorship. Whilst there’ll be plenty of opportunity for 
+individual studio practice we’ll navigate this residency through field trips, hikes, 
 meetings with â€œrealâ€  people, collaborative video projects, individual quests, a lot 
 of â€œshow and tell,â€  too much late night Googling, coincidences and 
 misunderstandings, all tempered with the enjoyment of the potential to be found 
@@ -29,7 +30,7 @@ in getting radically lost.
 
 20 Trading Post with Candice Hopkins
 
-Program dates: January 4 â€“ February 21, 2012
+Program dates: January 4 – February 21, 2012
 
 Application deadline: July 25, 2011
 
@@ -40,11 +41,11 @@ and to explore the potential of trade. Trading Post will not address a single th
 but instead bring together a diverse group of Aboriginal and Indigenous cultural 
 workers within a collaborative environment in order to consider the potentiality 
 and limits of exchange. Please note: Enrolment to this program is limited to 
-individuals of Aboriginal descent (status, non-status, MÃ©tis, or Inuit).
+individuals of Aboriginal descent (status, non-status, Métis, or Inuit).
 
 02 Ken Lum's Master Class: Art and the effects of the Real
 
-Program dates: January 4 â€“ February 21, 2012
+Program dates: January 4 – February 21, 2012
 
 Application deadline: July 25, 2011
 

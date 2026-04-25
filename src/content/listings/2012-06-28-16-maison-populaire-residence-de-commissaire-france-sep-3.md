@@ -4,58 +4,59 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 16
 type: ""
+venue: "Maison Populaire"
 summary: "Maison Populaire | Residence de Commissaire, France | SEP 3"
 ---
 
-Opportunity - Residence de Commissaire, appel Ã  candidatures, 
+Opportunity - Residence de Commissaire, appel à candidatures, 
 Maison Populaire - deadline September 3
 
-Le Centre dâ€™art de la Maison Populaire est situÃ© en plein cÅ“ur de la 
-ville de Montreuil. ConÃ§u tel un laboratoire, il est un lieu de 
-recherche et dâ€™expÃ©rimentation. Il accueille depuis 1995 des 
-expositions dâ€™art contemporain dont la programmation est confiÃ©e 
-chaque annÃ©e Ã  un commissaire en rÃ©sidence pour y dÃ©velopper 
-une hypothÃ¨se de travail personnel.
+Le Centre d’art de la Maison Populaire est situé en plein cœur de la 
+ville de Montreuil. Conçu tel un laboratoire, il est un lieu de 
+recherche et d’expérimentation. Il accueille depuis 1995 des 
+expositions d’art contemporain dont la programmation est confiée 
+chaque année à un commissaire en résidence pour y développer 
+une hypothèse de travail personnel.
 
-La programmation du lieu a dÃ©jÃ  Ã©tÃ© confiÃ©e Ã  des commissaires 
-parmi les plus actifs de la scÃ¨ne actuelle, tels que Claire Le Restif, 
-Jean-Charles Massera, Estelle PagÃ¨s, Yves Brochard, FranÃ§ois 
-Piron, Emilie Renard, AurÃ©lie Voltz, Christophe Gallois, le collectif Le 
-Bureau/, Florence Ostende, RaphaÃ«le Jeune, Anna Colin...
-Le Centre dâ€™art est membre du rÃ©seau TRAM qui regroupe Ã  ce jour 
-31 lieux dâ€™art dâ€™Ile-de-France et renforce chaque annÃ©e ses actions 
-de mÃ©diation pour favoriser lâ€™accÃ¨s Ã  une culture exigeante pour 
-tous. Il est Ã©galement membre de lâ€™Association des Galeries dâ€™Art 
+La programmation du lieu a déjà été confiée à des commissaires 
+parmi les plus actifs de la scène actuelle, tels que Claire Le Restif, 
+Jean-Charles Massera, Estelle Pagès, Yves Brochard, François 
+Piron, Emilie Renard, Aurélie Voltz, Christophe Gallois, le collectif Le 
+Bureau/, Florence Ostende, Raphaële Jeune, Anna Colin...
+Le Centre d’art est membre du réseau TRAM qui regroupe à ce jour 
+31 lieux d’art d’Ile-de-France et renforce chaque année ses actions 
+de médiation pour favoriser l’accès à une culture exigeante pour 
+tous. Il est également membre de l’Association des Galeries d’Art 
 Parisiennes.
 
 Profil du commissaire 
-Lâ€™appel Ã  projet est ouvert aux jeunes commissaires 
+L’appel à projet est ouvert aux jeunes commissaires 
 professionnel(le)s de moins de 45 ans, vivant en France, dont ce 
-travail est lâ€™activitÃ© principale et qui disposent au moins dâ€™une 
-premiÃ¨re expÃ©rience de commissariat. 
+travail est l’activité principale et qui disposent au moins d’une 
+première expérience de commissariat. 
 
 Mission du commissaire 
 
-En fonction dâ€™une convention et du calendrier prÃ©dÃ©fini, il (elle) sera 
-chargÃ©(e) :
-dâ€™assurer la rÃ©alisation de trois expositions sur une pÃ©riode de 9 
-mois en 2013 : janvier Ã  juin 2013 et dâ€™octobre Ã  dÃ©cembre 2013,
-de gÃ©rer un budget de 50.000 euros pour la rÃ©alisation de trois 
+En fonction d’une convention et du calendrier prédéfini, il (elle) sera 
+chargé(e) :
+d’assurer la réalisation de trois expositions sur une période de 9 
+mois en 2013 : janvier à juin 2013 et d’octobre à décembre 2013,
+de gérer un budget de 50.000 euros pour la réalisation de trois 
 expositions en 2013.
-de sÃ©lectionner les artistes et coordonner les diffÃ©rentes phases 
-prÃ©paratoires des expositions avec lâ€™Ã©quipe en place et les diffÃ©rents 
+de sélectionner les artistes et coordonner les différentes phases 
+préparatoires des expositions avec l’équipe en place et les différents 
 partenaires,
-de rÃ©diger les diffÃ©rents supports de communication et de mÃ©diation,
-de rÃ©diger le catalogue et du suivi de sa fabrication, dont la parution 
-doit intervenir dans le cadre du finissage de lâ€™exposition en 
-dÃ©cembre 2013,
-de participer Ã  lâ€™Ã©laboration des Ã©vÃ©nements en direction des publics 
-(rencontres, confÃ©rences, projections, concerts, ateliers),
-dâ€™Ãªtre prÃ©sent(e) lors du jury de sÃ©lection de lâ€™artiste multimÃ©dia en 
-rÃ©sidence Ã  la Maison Populaire et lâ€™intÃ©grer au dernier volet de sa 
+de rédiger les différents supports de communication et de médiation,
+de rédiger le catalogue et du suivi de sa fabrication, dont la parution 
+doit intervenir dans le cadre du finissage de l’exposition en 
+décembre 2013,
+de participer à l’élaboration des événements en direction des publics 
+(rencontres, conférences, projections, concerts, ateliers),
+d’être présent(e) lors du jury de sélection de l’artiste multimédia en 
+résidence à la Maison Populaire et l’intégrer au dernier volet de sa 
 programmation.
-dâ€™Ãªtre prÃ©sent(e) lors des rÃ©unions de prÃ©paration, de montage, de 
-dÃ©montage et de promotion de lâ€™exposition.
+d’être présent(e) lors des réunions de préparation, de montage, de 
+démontage et de promotion de l’exposition.
 
 Pour plus d'informations, visitez http://www.maisonpop.net/spip.php?
 article1596

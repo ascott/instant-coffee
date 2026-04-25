@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 13
 type: "EVENT"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Elizabeth Zvonar | The Future Is Coming Every Day | DEC 13"
 ---
 

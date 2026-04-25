@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 17
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Mark Rudwell: Recent Selected Photographs | 6-9PM | SEP 27"
 ---
 

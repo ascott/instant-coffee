@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "Richmond City Hall Galleria Space"
 summary: "Richmond City Hall Galleria Space | Julie Pappajohn: DITCH | AUG 19"
 ---
 

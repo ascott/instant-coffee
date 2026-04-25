@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 35
 type: "CALL"
+venue: "Vancouver Status of Women"
 summary: "Vancouver Status of Women | Call for Art | MAR 10"
 ---
 

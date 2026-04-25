@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 25
 type: "EVENT"
+venue: "Art Lab at Nanaimo Art Gallery"
 summary: "Art Lab at Nanaimo Art Gallery | LIT LIT LIT LIT VII: Nanaimo Edition | MAY 6"
 ---
 

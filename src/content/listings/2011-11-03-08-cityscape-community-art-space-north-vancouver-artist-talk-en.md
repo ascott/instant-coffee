@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 8
 type: ""
+venue: "CityScape Community Art Space"
 summary: "CityScape Community Art Space | North Vancouver: Artist Talk: Enda Bardell | NOV 5"
 ---
 
@@ -44,7 +45,7 @@ adding richness to domestic routine.
 
 Keith Rice-Jones, sculptor builds and assembles both hard edged and softer 
 organic forms whose edges, surfaces and spaces create rhythms and repeated 
-patterns. Keithâ€™s design training is rooted in the Arts and Crafts tradition but he is 
+patterns. Keith’s design training is rooted in the Arts and Crafts tradition but he is 
 also influenced by Bauhaus and modernism.
 
 -30-1277 Lynn Valley Rd

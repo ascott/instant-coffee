@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 7
 type: "CALL"
+venue: "City of Surrey Community Art Program"
 summary: "City of Surrey Community Art Program | Cloverdale Recreation Centre – Abstracts and Inter"
 ---
 

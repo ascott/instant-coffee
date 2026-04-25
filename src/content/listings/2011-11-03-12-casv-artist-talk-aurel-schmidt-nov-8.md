@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 12
 type: ""
+venue: "CASV"
 summary: "CASV | Artist talk: Aurel Schmidt | NOV 8"
 ---
 
@@ -19,14 +20,14 @@ exhibited in galleries such as Deitch Projects in New York, Peres Projects in Lo
 Angeles, Deste Foundation Center for Contemporary Art in Athens and was 
 included in the 2010 Whitney Biennial at the Whitney Museum of American Art.
 
-Aurel Schmidtâ€™s intricately detailed drawings include objects and creatures such 
+Aurel Schmidt’s intricately detailed drawings include objects and creatures such 
 as flies, condoms, and cigarette butts that are pieced together to form larger 
 figures. Through exquisite draftsmanship, Schmidt questions conventions of 
 beauty and masculinity as well as standard associations with decomposition, 
 rot, and refuse. She relates her interest in finding the beauty in ugliness to the 
 idea of the human condition as a cyclical process of renewal and decay. By 
-using the detritus of our lives as the building blocks for her subjects, Schmidtâ€™s 
-work becomes a sort of memento moriâ€”a reminder of our own vulnerability and 
+using the detritus of our lives as the building blocks for her subjects, Schmidt’s 
+work becomes a sort of memento mori—a reminder of our own vulnerability and 
 mortality
 
 -- 

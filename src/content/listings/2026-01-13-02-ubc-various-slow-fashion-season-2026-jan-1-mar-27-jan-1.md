@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 2
 type: "EDUCATION"
+venue: "UBC + various"
 summary: "UBC + various | SLOW FASHION SEASON 2026 | JAN 1-MAR 27 | JAN 1"
 ---
 

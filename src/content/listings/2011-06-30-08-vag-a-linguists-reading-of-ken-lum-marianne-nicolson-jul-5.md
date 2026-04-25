@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 8
 type: ""
+venue: "VAG"
 summary: "VAG | A Linguist's Reading of Ken Lum | Marianne Nicolson | JUL 5"
 ---
 
@@ -36,7 +37,7 @@ indigenous language to indigenous worldview.
 
 In 20008-2009, she presented the site-specific project The 
 House of the Ghosts at the Vancouver Art Gallery, transforming 
-the Georgia Street faÃ§ade of the Gallery into a Northwest Coast 
+the Georgia Street façade of the Gallery into a Northwest Coast 
 ceremonial house.
 
 Free with Gallery admission

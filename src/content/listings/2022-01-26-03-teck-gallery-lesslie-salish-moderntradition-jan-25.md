@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Teck Gallery"
 summary: "Teck Gallery | lessLIE / Salish Modern/Tradition | JAN 25"
 ---
 

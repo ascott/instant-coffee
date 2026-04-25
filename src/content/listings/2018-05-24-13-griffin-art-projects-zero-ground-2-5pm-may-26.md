@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 13
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | zero, ground | 2-5PM | MAY 26"
 ---
 

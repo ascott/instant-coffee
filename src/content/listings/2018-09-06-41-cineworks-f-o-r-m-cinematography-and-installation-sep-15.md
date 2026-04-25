@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 41
 type: "EDUCATION"
+venue: "Cineworks F-O-R-M"
 summary: "Cineworks F-O-R-M | Cinematography and Installation | SEP 15"
 ---
 

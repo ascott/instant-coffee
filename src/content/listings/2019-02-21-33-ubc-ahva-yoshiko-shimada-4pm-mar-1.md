@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 33
 type: "TALK"
+venue: "UBC AHVA"
 summary: "UBC AHVA | Yoshiko Shimada | 4PM | MAR 1"
 ---
 

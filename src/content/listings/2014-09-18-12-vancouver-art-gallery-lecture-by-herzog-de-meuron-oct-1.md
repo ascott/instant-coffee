@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 12
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | lecture by Herzog & de Meuron | OCT 1"
 ---
 
@@ -13,22 +14,22 @@ Following their Selection as Design Architects of the new Vancouver Art Gallery
 Wednesday, October 1, 2014, 7:00 pm
 Vogue Theatre (918 Granville Street, Vancouver)
 
-What: Join Pritzker Prizeâ€“winning architectural firm Herzog & de Meuron
+What: Join Pritzker Prize–winning architectural firm Herzog & de Meuron
 for their first public presentation in Vancouver following their selection
 as the design architects for the new Vancouver Art Gallery. This talk will
 offer audiences insight into the distinctive design approach and vision
 that has made Herzog & de Meuron one of the most lauded architectural firms
-in the world. The talk will include the firmâ€™s initial impressions of
+in the world. The talk will include the firm’s initial impressions of
 Vancouver as well as their diverse take on museum design through a
 selection of previous projects, including the Tate Modern in London, the De
 Young Museum in San Francisco, the Parrish Art Museum in Water Mill, NY,
-and the newly constructed PÃ©rez Art Museum in Miami. The presentation will
+and the newly constructed Pérez Art Museum in Miami. The presentation will
 be followed by an open Q&A with the public.
 
 Herzog & de Meuron was selected in April 2014 to design the new Vancouver
-Art Gallery, marking the firmâ€™s first project in Canada. Conceptual designs
+Art Gallery, marking the firm’s first project in Canada. Conceptual designs
 for the new building, which will more than double the space of the
-Galleryâ€™s current facility, are expected to be unveiled in 2015.
+Gallery’s current facility, are expected to be unveiled in 2015.
 
 When: October 1, 2014, 7pm
 
@@ -46,8 +47,8 @@ About Herzog & de Meuron:
 Founded in Basel in 1978, Herzog & de Meuron is internationally recognized
 for designs that are both highly inventive and responsive to the site,
 geography and culture of the place for which they are conceived. Led by
-five Senior Partnersâ€”Jacques Herzog, Pierre de Meuron, Christine
-Binswanger, Ascan Mergenthaler and Stefan Marbachâ€”Herzog & de Meuron have
+five Senior Partners—Jacques Herzog, Pierre de Meuron, Christine
+Binswanger, Ascan Mergenthaler and Stefan Marbach—Herzog & de Meuron have
 designed a wide range of projects, from highly recognized public facilities
 such as museums and stadiums, to distinguished private projects, and have
 been awarded numerous prizes, including The Pritzker Architecture Prize in
@@ -59,7 +60,7 @@ respected and innovative visual arts institutions in Canada and is
 committed to strengthening links among artists and among the diverse
 communities throughout the city, province, and beyond. The Gallery features
 the work of international ground-breaking artists, both historic and
-contemporary, and provides a global platform for British Columbiaâ€™s dynamic
+contemporary, and provides a global platform for British Columbia’s dynamic
 artistic community. Its growing collection represents the most
 comprehensive resource for visual culture in British Columbia and is the
 principal repository for visual art produced in the region, as well as

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 5
 type: "EVENT"
+venue: "New Media Gallery, Anvil Centre"
 summary: "New Media Gallery, Anvil Centre | GYRE: The Ocean Container Performance | 730PM | SEP 22"
 ---
 

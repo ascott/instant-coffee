@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 8
 type: ""
+venue: "Capilano University"
 summary: "Capilano University | OPEN TEXT READING SERIES: KIM MINKUS | NOV 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: How Now Is Too Soon"
 emailDate: "Thu, 05 Feb 2009 09:30:10 -0800"
 number: 2
 type: ""
+venue: "Blim Art and Craft Facility"
 summary: "Blim Art and Craft Facility | Dennis Ha | FEB 6"
 ---
 

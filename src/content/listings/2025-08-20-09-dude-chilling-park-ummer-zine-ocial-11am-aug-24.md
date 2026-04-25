@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 9
 type: "EVENT"
+venue: "Dude Chilling Park"
 summary: "Dude Chilling Park | ?UMMER ZINE ?OCIAL | 11AM | AUG 24"
 ---
 

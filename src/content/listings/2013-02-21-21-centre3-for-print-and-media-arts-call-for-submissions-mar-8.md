@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 21
 type: ""
+venue: "Centre3 for Print and Media Arts"
 summary: "Centre3 for Print and Media Arts | Call for Submissions | MAR 8"
 ---
 

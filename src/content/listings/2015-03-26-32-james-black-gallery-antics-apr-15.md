@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 32
 type: "CALL"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Antics | APR 15"
 ---
 
 THE JAMES BLACK GALLERY is dedicated to artists showing their work without
-having to pay a percentage out to the gallery. Artists-Â­in-residence show
+having to pay a percentage out to the gallery. Artists-­in-residence show
 their work, curate, and run the space. This curation is by Matthew Wise and
 Zandi Dandizette. The J B G is located in a heritage building in Mount
 Pleasant (est. 1889). This exhibition will show projects of emerging local

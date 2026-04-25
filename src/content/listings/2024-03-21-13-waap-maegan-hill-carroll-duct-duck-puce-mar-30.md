@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 13
 type: "EVENT"
+venue: "WAAP"
 summary: "WAAP | Maegan Hill-Carroll: Duct Duck Puce | MAR 30"
 ---
 

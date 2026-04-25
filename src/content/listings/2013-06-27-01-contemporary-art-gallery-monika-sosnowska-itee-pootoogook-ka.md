@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Monika Sosnowska, Itee Pootoogook & Kay Rosen | JUN 27"
 ---
 
@@ -63,7 +64,7 @@ half of the twentieth century. In his large-scale graphite and coloured pencil
 drawings, Pootoogook makes images of places, people and things, observed 
 with prosaic intimacy. At the Contemporary Art Gallery we focus not on works 
 involving portraits of family and friends but on those images that picture the 
-things which structure daily routine in this part of Canada â€” buildings, 
+things which structure daily routine in this part of Canada — buildings, 
 landscape and the means to travel to other parts of the country.
 
 Off-site a special version of a landscape drawing will be presented large-scale 
@@ -92,14 +93,14 @@ encounters with it.
 
 Images:
 Monika Sosnowska, Untitled, 2012. Steel and lacquer. Courtesy the artist and 
-Galerie Gisela Capitain, Cologne. Photo Â© Lothar Schnepf, Cologne.
+Galerie Gisela Capitain, Cologne. Photo © Lothar Schnepf, Cologne.
 
 Itee Pootoogook, Kingait Hotel (Cape Dorset), 2010. Coloured pencil on 
 paper. Collection of Paul Desmarais III, Toronto. Courtesy Marion Scott 
 Gallery/ Kardosh Projects, Vancouver.
 
 Kay Rosen, Hi, 1997-98. Highway billboard near Lewisberg, PA, 1998. 
-Artwork Â© 1998 Kay Rosen. Image courtesy of Sikkema Jenkins & Co., New 
+Artwork © 1998 Kay Rosen. Image courtesy of Sikkema Jenkins & Co., New 
 York.
 
 Contemporary Art Gallery

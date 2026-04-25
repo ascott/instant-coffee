@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 19
 type: "TALK"
+venue: "Duplex"
 summary: "Duplex | Peter Rehberg : Artist Talk on Recollection GRM | APR 1"
 ---
 

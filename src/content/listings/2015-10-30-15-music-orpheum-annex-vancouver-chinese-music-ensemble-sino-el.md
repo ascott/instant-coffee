@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 15
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Orpheum Annex | Vancouver Chinese Music Ensemble: Sino-Electric Explorations | NOV 8"
 ---
 
@@ -30,7 +31,7 @@ unforgettable program of experimental music at the Orpheum Annex on
 Sunday, November 8, 2015.
 
 The centre piece of SEE is a new composition written by Remy Siu
-specifically for Vancouver Chinese Music Ensemble (VCME): â€œVCME is
+specifically for Vancouver Chinese Music Ensemble (VCME): “VCME is
 presenting an exciting opportunity for me to explore the tension
 between the instruments of my ancestors and my Western composition
 training. The demographic of Vancouver has allowed these unique
@@ -44,9 +45,9 @@ Chinese-Canadian on the West Coast of Canada.â€
 
 The other highlight of the program will be the premiere of a piece by
 interdisciplinary media artist Sammy Chien who will perform (dance)
-and lead the musicians through physical gestures: â€œWith this piece Iâ€™d
+and lead the musicians through physical gestures: “With this piece I’d
 like to explore the notion of Wu Wei, which is a Taoist philosophy of the
-â€˜non-doingâ€™. I see it as an attitude, a way of life that is without much
+‘non-doing’. I see it as an attitude, a way of life that is without much
 effort and intentions while naturally attaining harmony with the
 universe.â€ 
 

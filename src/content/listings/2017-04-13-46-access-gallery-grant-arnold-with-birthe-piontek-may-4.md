@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 46
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | Grant Arnold with Birthe Piontek | MAY 4"
 ---
 

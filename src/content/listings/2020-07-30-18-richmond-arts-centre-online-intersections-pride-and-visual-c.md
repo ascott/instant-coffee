@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 18
 type: "EDUCATION"
+venue: "Richmond Arts Centre [ONLINE]"
 summary: "Richmond Arts Centre [ONLINE] | Intersections: Pride and Visual Culture | 11AM | AUG 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 10
 type: ""
+venue: "Western Front Exhibitions"
 summary: "Western Front Exhibitions | Cinema Suitcase / Will Kwan | NOV 20"
 ---
 
@@ -67,7 +68,7 @@ University (2004) and was a researcher in visual art at the Jan Van Eyck
 Academie in Maastricht, The Netherlands (2005-2007). He has shown
 extensively both nationally and internationally, including exhibitions at
 the Doulun Museum of Modern Art, Shanghai; The Power Plant, Toronto; PS1
-Contemporary Art Centre, New York; and the 5th Biennale de MontrÃƒÂ©al.
+Contemporary Art Centre, New York; and the 5th Biennale de MontrÃ©al.
 Upcoming projects include a solo presentation at the Justina M. Barnicke
 Gallery, Toronto and a residency at the Irish Museum of Modern Art, Dublin.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 42
 type: "OPENING"
+venue: "Toast Collective"
 summary: "Toast Collective | Corie Waugh: Tex Mex | NOV 29"
 ---
 
@@ -18,8 +19,8 @@ the aftermath." - Chantal Joffe
 Echoing the idea of Chantal Joffe, we cannot speak of the original
 intentions of the Tex Mex paintings. The series began as a reaction to
 fascinations; it is a series that evolved from the obsessive tendency of
-a painter. The viewer is presented with a loose narrative based on Ã¢
-â‚¬ËœTexMexÃ¢â‚¬â„¢ food trends and a playful palette.
+a painter. The viewer is presented with a loose narrative based on â
+€˜TexMexâ€™ food trends and a playful palette.
 
 Corie Waugh is a visual artist who works with oil paint andphotography.
 Her focus is on process-based work, paying close attention to the

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 4
 type: "OPENING"
+venue: "Slice of Life Art Gallery"
 summary: "Slice of Life Art Gallery | Conversation Piece | 6PM | AUG 3"
 ---
 

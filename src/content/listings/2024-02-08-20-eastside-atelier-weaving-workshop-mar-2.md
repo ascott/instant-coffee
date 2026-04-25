@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 20
 type: "EDUCATION"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Weaving Workshop | MAR 2"
 ---
 

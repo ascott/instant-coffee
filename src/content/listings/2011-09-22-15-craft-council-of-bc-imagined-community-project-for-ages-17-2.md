@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto evocating an era of to an
 emailDate: "Thu, 22 Sep 2011 12:17:20 -0700"
 number: 15
 type: ""
+venue: "Craft Council of BC"
 summary: "Craft Council of BC | Imagined Community Project for ages 17-24 | OCT 1"
 ---
 

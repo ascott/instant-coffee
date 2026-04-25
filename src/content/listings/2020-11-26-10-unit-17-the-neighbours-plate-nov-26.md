@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Neighbour's Plate"
 emailDate: "Thu, 26 Nov 2020 09:10:12 -0800"
 number: 10
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | The Neighbour's Plate | NOV 26"
 ---
 

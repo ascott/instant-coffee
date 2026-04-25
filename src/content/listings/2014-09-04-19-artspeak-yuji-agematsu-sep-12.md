@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 19
 type: ""
+venue: "Artspeak,"
 summary: "Artspeak, | YUJI AGEMATSU | SEP 12"
 ---
 
@@ -14,7 +15,7 @@ Inbox
 
 YUJI AGEMATSU
 
-September 13â€“October 25, 2014
+September 13–October 25, 2014
 
 Opening: Friday, September 12, 7pm
 Performance: Saturday, September 13, 8pm at 163 East Pender, 3rd Floor
@@ -27,7 +28,7 @@ collections, of an amateur, informal variety, such as the undiscerning
 landfill, or through more discriminating eyes, to be taken home for their
 sheen or how they lay against one another. There are things that give,
 things that take. Things the economy forgot, or things that peculiarize
-time. Itâ€™s always high tide in New York City.
+time. It’s always high tide in New York City.
 
 [continue reading...]
 
@@ -36,4 +37,4 @@ Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 www.artspeak.ca
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 1
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Holly Marie Armishaw: Repressions | MAR 2"
 ---
 

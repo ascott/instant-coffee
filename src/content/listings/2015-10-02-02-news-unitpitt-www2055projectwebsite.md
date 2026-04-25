@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 2
 type: ""
+venue: "NEWS"
 summary: "NEWS | UNIT/PITT | www.2055project.website"
 ---
 

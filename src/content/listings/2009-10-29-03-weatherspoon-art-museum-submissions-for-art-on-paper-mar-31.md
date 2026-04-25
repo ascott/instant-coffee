@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 3
 type: ""
+venue: "Weatherspoon Art Museum"
 summary: "Weatherspoon Art Museum | Submissions for Art on Paper | MAR 31"
 ---
 

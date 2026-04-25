@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 15
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Festival of Anthropology Films | APR 30"
 ---
 
@@ -20,8 +21,8 @@ at www.moa.ubc.ca/events.-----------------Museum of Anthropology |
 Digital Natives Symposium | May 1stFor four weeks in April, as part 
 of the Digital Natives project, text messages from artists and writers 
 from across North America were broadcast on a giant electronic 
-billboard at the south end of Vancouverâ€™s Burrard Street Bridge, on 
-SkwxwÃº7mesh territory. Interrupting the flow of advertisements, the 
+billboard at the south end of Vancouver’s Burrard Street Bridge, on 
+Skwxwú7mesh territory. Interrupting the flow of advertisements, the 
 10-second messages responded to the location and history of the 
 billboard, to digital language and translation, and to the city itself. 
 This symposium brings together artists, writers, and curators for an 
@@ -37,7 +38,7 @@ PMFree with Admission - 6393 N.W. Marine Drive, Vancouver BC
 V6T 1Z2More information can be found at www.moa.ubc.ca/events 
 or by e-mailing programs@moa.ubc.ca-------------------Museum of 
 Anthropology |Film Screening: For the Next 7 Generations | May 
-8thThis Mothersâ€™ Day screening celebrates the work of 13 
+8thThis Mothers’ Day screening celebrates the work of 13 
 indigenous grandmothers from around the world who are 
 committed to creating a positive future for the next 7 generations.The 
 event runs from 1-3 PMFree with Admission - 6393 N.W. Marine 
@@ -51,11 +52,11 @@ Edenshaw.The event begins at 1 PMFree with Admission - 6393
 N.W. Marine Drive, Vancouver BC V6T 1Z2More information can be 
 found at www.moa.ubc.ca/events---------------------Museum of 
 Anthropology | 'Twisted' by Martha Carter - School Performance | May 
-18th and May 20thOpen to teachers and their classes, mmHoPâ€™s 
+18th and May 20thOpen to teachers and their classes, mmHoP’s 
 Artistic Director Martha Carter performs Twisted, her interdisciplinary 
 performance piece about dance, scoliosis, and personal 
 transformation. The story is told through monologue, movement, 
-music, and visuals, revealing Carterâ€™s touching, yet comedic journey 
+music, and visuals, revealing Carter’s touching, yet comedic journey 
 of living with a twisted spine while pursuing a career in dance. Q & A 
 sessions follow performances. Cost $10 per student, including 
 HST. (Teachers: call or email 604.822.3825 or 

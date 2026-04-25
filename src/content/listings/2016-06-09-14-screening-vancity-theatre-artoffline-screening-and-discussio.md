@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 14
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Vancity Theatre | #artoffline Screening and discussion | JUN 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 41
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | New Vancouver Theatre Company | THE 39 STEPS | MAR 1"
 ---
 

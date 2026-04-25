@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 30
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | P.L.U.R.O.M.A. Resort '24 | SEP 26"
 ---
 

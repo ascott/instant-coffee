@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 13
 type: ""
+venue: "The Remington Gallery"
 summary: "The Remington Gallery | Atlas Imaginariis | JUL 8"
 ---
 
@@ -23,7 +24,7 @@ mapping in order to consider the diverse ways contemporary
 artists draw from these visual and spatial languages to imagine, 
 inform, or incite. During the semester, it became strikingly clear 
 that many of the issues discussed in class resonated with the 
-studentsâ€™ established artistic practices. To culminate the 
+students’ established artistic practices. To culminate the 
 seminar, and in response to the ideas debated and shared, 
 each participant undertook his or her own mapping project, 
 which are exhibited together here. We create maps when we 

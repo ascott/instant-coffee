@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 15
 type: "EVENT"
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | SCA Studio Series #5 | FEB 29"
 ---
 

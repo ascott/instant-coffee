@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | Paul Kyle Gallery | Gallery Assistant | DEC 7"
 ---
 

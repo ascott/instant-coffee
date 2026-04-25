@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 2
 type: "CALL"
+venue: "The Gallery George"
 summary: "The Gallery George | CALL FOR ARTISTS"
 ---
 

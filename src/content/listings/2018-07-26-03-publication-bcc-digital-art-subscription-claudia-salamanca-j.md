@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 3
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Bcc: Digital Art Subscription | Claudia Salamanca | JUL 27"
 ---
 

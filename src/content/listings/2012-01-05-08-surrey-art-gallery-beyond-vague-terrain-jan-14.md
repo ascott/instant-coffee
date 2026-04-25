@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we’re waylaid "
 emailDate: "Wed, 04 Jan 2012 21:35:09 -0800"
 number: 8
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Beyond Vague Terrain | JAN 14"
 ---
 

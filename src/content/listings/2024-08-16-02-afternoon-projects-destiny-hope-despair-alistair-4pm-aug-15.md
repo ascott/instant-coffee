@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 2
 type: "OPENING"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Destiny hope despair alistair | 4PM | AUG 15"
 ---
 

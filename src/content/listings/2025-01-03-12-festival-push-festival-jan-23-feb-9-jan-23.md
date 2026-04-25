@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 12
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Push Festival | JAN 23 - FEB 9 | JAN 23"
 ---
 

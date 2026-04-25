@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 8
 type: "EVENT"
+venue: "221a"
 summary: "221a | Rereading Room Closing Reception | JAN 14"
 ---
 

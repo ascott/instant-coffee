@@ -11,7 +11,7 @@ listingCount: 56
 instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-06-09-01-blanket-eli-bornowsky-jun-9">01. BLANKET | Eli Bornowsky | JUN 9</a>
-<a href="/instant-coffee/listings/2011-06-09-02-collage-collage-robert-fougre-jun-9">02. COLLAGE COLLAGE | Robert FougÃ¨re | JUN 9</a>
+<a href="/instant-coffee/listings/2011-06-09-02-collage-collage-robert-fougre-jun-9">02. COLLAGE COLLAGE | Robert Fougère | JUN 9</a>
 <a href="/instant-coffee/listings/2011-06-09-03-west-vancouver-museum-works-from-the-gordon-marion-smith-col">03. West Vancouver Museum | WORKS FROM THE GORDON & MARION SMITH COLLECTION | JUN 9</a>
 <a href="/instant-coffee/listings/2011-06-09-04-artspeak-holly-ward-jun-10">04. ARTSPEAK | Holly Ward | JUN 10</a>
 <a href="/instant-coffee/listings/2011-06-09-05-sfu-woodwardsgoldcorp-centre-for-the-arts-arts-summit-2011-j">05. SFU Woodward's/Goldcorp Centre for the Arts | Arts Summit 2011 | JUN 10</a>
@@ -33,7 +33,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-06-09-21-sfu-gallery-burnaby-robert-young-lacunarian-picturing-jun-18">21. SFU Gallery Burnaby | Robert Young: Lacunarian Picturing | JUN 18</a>
 <a href="/instant-coffee/listings/2011-06-09-22-yactac-gallery-for-your-reference-jun-18">22. YacTac Gallery | For Your Reference | JUN 18</a>
 <a href="/instant-coffee/listings/2011-06-09-23-museum-of-anthropology-inuit-prints-exhibition-opening-jun-1">23. Museum of Anthropology | Inuit Prints (Exhibition Opening) | JUN 19</a>
-<a href="/instant-coffee/listings/2011-06-09-24-satellite-gallery-peter-morins-museum-final-performance-jun-">24. Satellite Gallery | Peter Morinâ€™s Museum: Final Performance | JUN 19</a>
+<a href="/instant-coffee/listings/2011-06-09-24-satellite-gallery-peter-morins-museum-final-performance-jun-">24. Satellite Gallery | Peter Morin’s Museum: Final Performance | JUN 19</a>
 <a href="/instant-coffee/listings/2011-06-09-25-the-shebeen-whiskey-house-pitching-your-thing-to-the-media-j">25. The Shebeen Whisk(e)y House | Pitching Your Thing to the Media | JUN 20</a>
 <a href="/instant-coffee/listings/2011-06-09-26-vivo-signal-noise-media-art-festival-jun-23">26. VIVO | Signal & Noise Media Art Festival | JUN 23</a>
 <a href="/instant-coffee/listings/2011-06-09-27-voleurz-voleurzcom-call-for-submissions-t-shirt-designs-jul-">27. Voleurz (voleurz.com) | Call for Submissions: t-shirt designs | JUL 1</a>
@@ -44,7 +44,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-06-09-01-blanket-eli-bornowsky-jun-9">01. BLANKET | Eli Bornowsky | JUN 9</a>
 ------------------------------------------------------------------------
 Eli Bornowsky
-June 9 â€“ July 16, 2011
+June 9 – July 16, 2011
 Opening Reception Thursday June 9 6-9pm
 
 BLANKET CONTEMPORARY ART INC.
@@ -62,7 +62,7 @@ watercolour and gouache on paper mounted on wood, balsa wood, glue
 8 1/16" x 11 1/16"
 
 Blanket is very pleased to present a solo show by Eli Bornowsky. This is
-the artistâ€™s third solo exhibition with the gallery. Over the last year,
+the artist’s third solo exhibition with the gallery. Over the last year,
 Bornowsky has departed from his iconic and austere color paintings to
 explore new structures and a wide range of motifs. His acclaimed solo
 exhibition at the Western Front in 2010 (curated by Jesse McKee) marked the
@@ -78,19 +78,19 @@ also for the viewer. Here intellection is as important as sensation, and the
 work draws a tension between thinking and seeing. It is within this tension
 that he sees (and reads) potential for subjective freedom and awareness, not
 to mention pleasure. It is a poetic, philosophical and phenomenal tension.
-In Bornowskyâ€™s work the hierarchy of the compositions are intentionally
+In Bornowsky’s work the hierarchy of the compositions are intentionally
 uncertain, allowing the viewer freedom to navigate the composition, pushing
 and pulling his or her own perception against a composition that is always
-in flux. It has been Bornowskyâ€™s ethic to develop pictures that allow the
+in flux. It has been Bornowsky’s ethic to develop pictures that allow the
 viewer to arrive at understandings of their own, to use each picture, in
 other words, as a tool, to experience reality.
 
-Bornowskyâ€™s formative influence was music. In his youth he was trained as a
+Bornowsky’s formative influence was music. In his youth he was trained as a
 classical trumpet player but quickly moved into, computer music, free jazz,
-minimalism and noise. Listening continues to inform Bornowskyâ€™s practice and
+minimalism and noise. Listening continues to inform Bornowsky’s practice and
 is often used as a way to begin to learn the language of his pictures. In
 2008, Bornowsky curated the exhibition Making Real at the Or Gallery where
-he worked with the artist Richard Tuttle. Tuttleâ€™s influence on Bornowskyâ€™s
+he worked with the artist Richard Tuttle. Tuttle’s influence on Bornowsky’s
 work is apparent in the way each artist reflects on the relation between
 abstract forms and language and the kind of practical mysticism that keeps
 the spiritual present while acknowledging the difference between artistic
@@ -109,16 +109,16 @@ info@blanketgallery.com
 -- 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-06-09-02-collage-collage-robert-fougre-jun-9">02. COLLAGE COLLAGE | Robert FougÃ¨re | JUN 9</a>
+<a href="/instant-coffee/listings/2011-06-09-02-collage-collage-robert-fougre-jun-9">02. COLLAGE COLLAGE | Robert Fougère | JUN 9</a>
 ------------------------------------------------------------------------
 
 Parading without a permit:
 Found and original photos
-by Robert FougÃ¨re
+by Robert Fougère
 
 Opening reception: Thursday June 9th, 7pm to 9pm
 
-In his first solo exhibition, Robert FougÃ¨re explores the photograph as
+In his first solo exhibition, Robert Fougère explores the photograph as
 both cultural artifact and aesthetic object with traditional silver-gelatin
 prints from found (purchased) negatives dating back to the 1920's, shown
 alongside prints of his own original compositions.
@@ -161,9 +161,9 @@ Wakefield, Jeff Wall, Ian Wallace and Irene Whittome.
 This exhibition is guest curated by Ian Thom, Senior Curator, Vancouver Art
 Gallery.
 
-West Vancouver Museum | 680 â€“17th Street, West Vancouver, BC V7V 3T2 | 604
+West Vancouver Museum | 680 –17th Street, West Vancouver, BC V7V 3T2 | 604
 925 7295 | www.westvancouvermuseum.ca
-Open Tuesdayâ€“Saturday, 11am to 5pm, Closed Sundays, Mondays, and Statutory
+Open Tuesday–Saturday, 11am to 5pm, Closed Sundays, Mondays, and Statutory
 Holidays
 
 Many thanks in advance,
@@ -218,7 +218,7 @@ Republic Gallery (Vancouver).
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free
 
 
@@ -381,14 +381,14 @@ info@centrea.org
 Haida artist Robert Davidson will give a public talk about the exquisite
 designs of Charles Edenshaw and offer some interpretations based upon his
 study of this famous late 19th early 20th century Haida master artist.
-Robert Davidson, Guud San Glans, is one of Canadaâ€™s most respected and
+Robert Davidson, Guud San Glans, is one of Canada’s most respected and
 important contemporary artists. He is a leading figure in the renaissance
 of Haida art and culture. For more than thirty years, Robert Davidson has
 worked as an artist and has produced an internationally acclaimed body of
 work. His work is private and public collections internationally. He has
 received the Order of British Columbia, in 1996 was awarded the Order of
 Canada and in 2010 received the Audain prize for Lifetime Achievement and
-the prestigious Governor Generalâ€™s award.
+the prestigious Governor General’s award.
 
 June 12 at 1 PM
 
@@ -419,7 +419,7 @@ exhibition. One Percent is part of the exhibition Spatial Recognition June
 As an immigrant, James had observed that Canada is technically behind in
 comparison to China. One Percent acknowledges this perspective by
 referencing the look and feel of Windows 95, the pervasive Microsoft
-operating system in use at the end of the 20th century. One Percentâ€™s
+operating system in use at the end of the 20th century. One Percent’s
 â€œLoading Vancouverâ€  graphic parodies the font used in Windows 95. Its
 background blue field mimics the official blue used in the City of
 Vancouver emblem: â€œfor the sea and sky that surround our city.â€  Viewers
@@ -726,7 +726,7 @@ www.unitpitt.ca
 <a href="/instant-coffee/listings/2011-06-09-15-contemporary-art-gallery-shary-boyle-ron-tran-jun-16">15. Contemporary Art Gallery | SHARY BOYLE | RON TRAN | JUN 16</a>
 ------------------------------------------------------------------------
 The Contemporary Art Gallery launches two new projects: Flesh and Blood a
-solo exhibition by Toronto-based artist Shary Boyle curated by Louise DÃ©ry,
+solo exhibition by Toronto-based artist Shary Boyle curated by Louise Déry,
 and the interactive artwork A Way To Go by Vancouver-based artist Ron Tran,
 commissioned by the Contemporary Art Gallery.
 
@@ -745,7 +745,7 @@ that examine a range of psychological and emotional situations rooted in a
 fictional world. Her position is at once feminist yet poetic, located
 within dreamlike states. Tense with troubled emotions, possessing an
 expressive immediacy and poised between grace and strangeness, her
-portraits and â€˜genre scenesâ€™ read as allegories of the human condition.
+portraits and ‘genre scenes’ read as allegories of the human condition.
 Their resolutely symbolic language raises bold perspectives on the present,
 revealing a conscience haunted by a consideration of the morals of our
 world today. Centring on heredity, sexuality and death, and the nature of
@@ -753,16 +753,16 @@ our place within the greater animal kingdom, these conditions form a visual
 investigation into the complex links between the individual and society as
 a whole.
 
-Flesh and Blood is curated by Louise DÃ©ry and accompanied by a new
+Flesh and Blood is curated by Louise Déry and accompanied by a new
 hardcover catalogue, including images of work in the exhibition. It is
 available at the Contemporary Art Gallery, priced $40. Please email
 info@contemporaryartgallery.ca for more information.
 
-The exhibition is organized by Galerie de l'UQAM (UniversitÃ© du QuÃ©bec Ã 
-MontrÃ©al) in partnership with the Art Gallery of Ontario and with the
+The exhibition is organized by Galerie de l'UQAM (Université du Québec à
+Montréal) in partnership with the Art Gallery of Ontario and with the
 collaboration of the Contemporary Art Gallery, Vancouver. With support from
 The Canada Council for the Arts and the Conseil des arts et des lettres du
-QuÃ©bec.
+Québec.
 
 At the Contemporary Art Gallery the exhibition is generously supported by
 Canadian Heritage.
@@ -781,9 +781,9 @@ objects such as his apartment door, which he removed for six weeks for
 display in an exhibition.
 
 For A Way to Go, Tran guides his audience on an unexpected route through
-Vancouverâ€™s downtown core, navigating alleyways and shortcuts. The word
-â€˜alleyâ€™ derives from the original French word â€˜allÃ©eâ€™ which literally
-translates as â€˜a way to goâ€™. For this project, Tran names several alleyways
+Vancouver’s downtown core, navigating alleyways and shortcuts. The word
+‘alley’ derives from the original French word ‘allée’ which literally
+translates as ‘a way to go’. For this project, Tran names several alleyways
 as a means to establish their usage and elevate their status. Unlike
 traditional methods of street naming, which often reference political
 figures or historical events, Tran has used personal experiences, such as
@@ -792,7 +792,7 @@ these overlooked places. Following the trail established by the artist,
 participants are led into an immersive, interactive experience through the
 use of a GPS enabled mobile device. A series of digital images, audio
 tracks and video files corresponding to specific locations are revealed
-reflecting the artistâ€™s experiences and offering an understanding of his
+reflecting the artist’s experiences and offering an understanding of his
 descriptive classifications while bringing to light hidden narratives. A
 Way to Go creates opportunities to re-examine downtown Vancouver through a
 project that is decidedly personal and unique.
@@ -813,14 +813,14 @@ Canadian Art Foundation. With special thanks to Hannah Hughes.
 
 Public Events
 
-Shary Boyle and Louise DÃ©ry in-conversation
+Shary Boyle and Louise Déry in-conversation
 
 Friday, June 17, 6pm
 
 An in-conversation event between artist and curator in conjunction with the
 touring exhibition Flesh and Blood. Discussion will centre on the
 development of the exhibition, its various differing presentations and
-focus on the major themes running through Boyleâ€™s work. Places are free.
+focus on the major themes running through Boyle’s work. Places are free.
 
 Walking Tour
 
@@ -851,7 +851,7 @@ We are grateful for the support of Vancouver Foundation and our members,
 donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm.
 Admission is by donation. For more information please contact:
 info@contemporaryartgallery.ca or 604.681.2700
 
@@ -925,10 +925,10 @@ historical exhibition explores the use of prints as an artistic rallying
 cry for national pride and unity in the face of extreme hardship. The
 recent devastating events in Japan have brought new meaning to this
 exhibition, originally conceived as a companion to A Brush with War, the
-Canadian War Museumâ€™s visiting exhibition opening at the AGGV on June 24.
-Sixty stunning pieces from the AGGVâ€™s renowned collection have been chosen
+Canadian War Museum’s visiting exhibition opening at the AGGV on June 24.
+Sixty stunning pieces from the AGGV’s renowned collection have been chosen
 for the exhibition by Asian Art curator Barry Till.
-â€œThe 50 war prints featured are taken from the Meiji period when two
+“The 50 war prints featured are taken from the Meiji period when two
 significant wars were fought and won, against China in 1894-1895 and
 against Russia in 1904-1905. Commissioned by the Japanese propaganda office
 in Tokyo, these patriotic images helped to create a sense of national
@@ -936,16 +936,16 @@ unity,â€  explains Till.
 Prints depicting three major Japanese earthquakes in 1855, 1896 and 1923
 are also featured in War and Disaster. Prints were made in lieu of
 photographs and were used to commemorate and inform people of the
-tragedies. The 20 artworks in the exhibition include Utagawa Kokunimasaâ€™s
+tragedies. The 20 artworks in the exhibition include Utagawa Kokunimasa’s
 spectacular Tsunami Disaster in Meiji Era woodblock print of the June 1896
 tsunami in northeastern Japan.
-â€œThe print tells the miraculous story of a woman who was taking a bath in a
+“The print tells the miraculous story of a woman who was taking a bath in a
 wooden tub when the tsunami hit and was swept along and deposited unharmed,
 still in the tub, on the top of a hill,â€  said Till.
 For more information, visit www.aggv.ca or call 250-384-4171.
 
 -30-
-Related Events â€“ All at AGGV
+Related Events – All at AGGV
 
 July 14th, 7:30 p.m.
 Lecture: Contemporary Responses to Disaster presented by the Wayward
@@ -972,11 +972,11 @@ Victoria BC V8S 4L8
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-06-09-18-vag-fuse-have-a-surreal-time-with-friends-jun-17">18. VAG | FUSE | Have a Surreal Time with Friends | JUN 17</a>
 ------------------------------------------------------------------------
-Have a Surreal Time with Friends at Vancouver Art Galleryâ€™s FUSE
+Have a Surreal Time with Friends at Vancouver Art Gallery’s FUSE
 
 Friday, June 17th, 2011
 
-VANCOUVER, BC â€“ Get your Dada on on Friday, June 17th as the Vancouver Art
+VANCOUVER, BC – Get your Dada on on Friday, June 17th as the Vancouver Art
 Gallery launches the summer edition of the ever-popular FUSE. This
 Surrealism-inspired event features performance, music, and art mixing it up
 in the galleries and under the stars. So trade in that iPhone for a
@@ -985,7 +985,7 @@ lobster, and leave expectations at the door.
 FUSE: LHOOQ takes place from 8pm to 1am. Performers include:
 
 * House of La Douche: Innovation, attitude and alternative realities
-collide in performances by Vancouverâ€™s fiercest dance troupe.
+collide in performances by Vancouver’s fiercest dance troupe.
 * MOVE the company: Acclaimed dancer/choreographer Josh Beamish creates
 surreal spectacle and movement in the gallery.
 * The Dusty Flowerpot Cabaret: Imagination rules in an immersive
@@ -993,7 +993,7 @@ installation by the creators of â€œHard Times Hit Parade.â€
 * Neworld Theatre goes Surreal with a mash-up of surrealist
 manifestoes, poetry, drama and contemporary "found text". Elements include:
 Ubu Roi, by Alfred Jarry; Surrealist manifestos and writing; and
-contemporary speeches, such as President Obamaâ€™s Osama speech.
+contemporary speeches, such as President Obama’s Osama speech.
 * Visual artist Raymond Boisjoly creates projections based on
 Surrealist texts and manifestoes.
 * Baritone singer and performance artist Joel Klein sings Surreal opera
@@ -1074,19 +1074,19 @@ Community Arts Council of Vancouver creates community through the arts.
 <a href="/instant-coffee/listings/2011-06-09-20-counterspin-taking-root-and-building-a-home-conference-filip">20. Counterspin: Taking root and building a home | Conference: Filipino Canadians in Vancouver | JUN 18</a>
 ------------------------------------------------------------------------
 Progressive Filipino Canadians in Vancouver to host national conference
-â€œCounterspin: Taking root and building a home: Deepening our understanding
+“Counterspin: Taking root and building a home: Deepening our understanding
 of genuine settlement and integrationâ€ 
 
-Vancouver, B.C. â€“ June 18th and 19th will mark a momentous occasion for the
-Filipino Canadian community in Vancouver as it hosts â€œCounterspin: Taking
+Vancouver, B.C. – June 18th and 19th will mark a momentous occasion for the
+Filipino Canadian community in Vancouver as it hosts “Counterspin: Taking
 root and building a home. Deepening our understanding of genuine settlement
 and integration.â€  This two-day national conference will, once again,
 heighten the unity of progressive Filipino Canadians to advance the
-struggle towards the communityâ€™s full participation and entitlement in Canada.
+struggle towards the community’s full participation and entitlement in Canada.
 
 To be held at the Liu Institute for Global Issues at the University of
 British Columbia (UBC), this conference will further solidify the call for
-the communityâ€™s just and genuine settlement and integration and will be a
+the community’s just and genuine settlement and integration and will be a
 declaration of an ongoing commitment to continue a legacy of resistance.
 
 For over 50 years, the Filipino Canadian community has been struggling for
@@ -1094,13 +1094,13 @@ a just and genuine settlement and integration. Since Canada opened its
 immigration doors to people from Third World countries, such as the
 Philippines, immigration policies like the Live-In Caregiver Program (LCP)
 and the Temporary Foreign Workers Program (TFWP) have systemically pushed
-the Filipino Canadian community into the margins of Canadian society â€“
+the Filipino Canadian community into the margins of Canadian society –
 politically, economically, socially and culturally.
 
 As Canada intensifies its implementation of neoliberal policies, it is our
 women, workers and youth who bear the brunt of these oppressive and
 exploitative policies. The Kalayaan Centre, Kapit Bisig Centre, and
-Magkaisa Centre have been at the forefront of these struggles. â€œThe
+Magkaisa Centre have been at the forefront of these struggles. “The
 Filipino Canadian community, especially the youth, looks forward to a
 future where they can fully participate, engage and exercise their full
 entitlement in all aspects of Canadian society,â€  states Krystle Alarcon,
@@ -1116,12 +1116,12 @@ University, Geraldine Pratt and Shauna Butterwick of UBC. Renowned
 novelist, writer and feminist revolutionary Ninothcka Rosca will be a
 conference guest speaker.
 
-As we forge unity towards the communityâ€™s advancement and development,
+As we forge unity towards the community’s advancement and development,
 â€œCounterspinâ€  national conference will be another milestone in reclaiming
 their rightful place in a multicultural and multi-ethnic Canada. All
 participation and involvement in this conference will be a testament of the
-communityâ€™s commitment in overcoming economic marginalization, combating
-systemic racism and social exclusion, enhancing womenâ€™s equality and human
+community’s commitment in overcoming economic marginalization, combating
+systemic racism and social exclusion, enhancing women’s equality and human
 rights and making the youth count.
 To register online:
 https://spreadsheets.google.com/spreadsheet/viewform?formkey=dF9WOENCX2dDWDF2WURUdzV2d19lc1E6MQ
@@ -1139,16 +1139,16 @@ SFU Gallery Burnaby, June 18th - August 5
 Evergreen Cultural Centre, June 18th - September 3
 
 These two exhibitions, which share the same title, provide an intriguing
-overview of Robert Youngâ€™s practice since 1977. A history of his work will
+overview of Robert Young’s practice since 1977. A history of his work will
 be at the Evergreen Cultural Centre and an in-depth survey of his paintings
 of domestic architectural spaces will constitute the exhibition at the SFU
-Gallery Burnaby. When combined with Youngâ€™s "Quotidian View" exhibition at
+Gallery Burnaby. When combined with Young’s "Quotidian View" exhibition at
 the Burnaby Art Gallery in 2009, the three shows add up to a true
 retrospective of an artist who has created virtual communities of
 chronologically disparate people and places in his art for the past fifty
 years. Operating at the interface of drawing and painting, his pictures are
 sometimes reminiscent of Renaissance formal languages and at others of a
-Postmodern colliding of cultures. Youngâ€™s quotational and citational
+Postmodern colliding of cultures. Young’s quotational and citational
 practices, which date back to the early 1960s, presaged the art of the
 1980s as well as the quotational times in which we live today.
 
@@ -1174,7 +1174,7 @@ parking attendant).
 
 Simon Fraser University Gallery | Academic Quadrangle, Room 3004 | SFU
 Burnaby Campus| 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
-Gallery Hours: Tuesday â€“ Friday: 10am â€“ 4pm, Saturday: 12pm â€“ 5pm. Closed
+Gallery Hours: Tuesday – Friday: 10am – 4pm, Saturday: 12pm – 5pm. Closed
 Saturdays on holiday long weekends.
 
 Gallery at the Evergreen Cultural Centre | 1205 Pinetree Way Coquitlam BC
@@ -1236,10 +1236,10 @@ also tells the little-known
 
 story of how, fifty years ago, the Canadian artist and â€œdiscovererâ€  of
 Inuit art, James Houston, travelled to Japan to study printmaking with
-Unâ€™ichi Hiratsuka.
+Un’ichi Hiratsuka.
 
 In conjunction with this exhibit is: Faces and Voices of the Inuit Art
-Market â€“ A UBC Student Exhibit
+Market – A UBC Student Exhibit
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2
@@ -1247,12 +1247,12 @@ Drive, Vancouver BC V6T 1Z2
 More information can be found at http://www.moa.ubc.ca/exhibits.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-06-09-24-satellite-gallery-peter-morins-museum-final-performance-jun-">24. Satellite Gallery | Peter Morinâ€™s Museum: Final Performance | JUN 19</a>
+<a href="/instant-coffee/listings/2011-06-09-24-satellite-gallery-peter-morins-museum-final-performance-jun-">24. Satellite Gallery | Peter Morin’s Museum: Final Performance | JUN 19</a>
 ------------------------------------------------------------------------
-Peter Morinâ€™s Museum: Final Performance and Sunday Workshop
+Peter Morin’s Museum: Final Performance and Sunday Workshop
 
-Donâ€™t miss your last chance to see artist Peter Morin in performance on
-Wednesday, June 29, from 7 to 9pm at Satellite Gallery. Peter Morinâ€™s
+Don’t miss your last chance to see artist Peter Morin in performance on
+Wednesday, June 29, from 7 to 9pm at Satellite Gallery. Peter Morin’s
 Museum is an installation that plays with the conventions of museum
 display, yet eludes them by continually changing shape through a series of
 performances and interventions by the artist, who makes visible the Tahltan
@@ -1267,7 +1267,7 @@ Peter Morin, of the Tahltan Nation of northern British Columbia, is a
 Victoria-based visual and
 performance artist. His ideas about museums and their transformation
 through indigenous ways of
-knowing began in his cousinâ€™s cabin, where visits with friends, relatives,
+knowing began in his cousin’s cabin, where visits with friends, relatives,
 and elders offered him a gradual
 understanding of Tahltan history and how it can be carried over the land
 and into urban spaces.
@@ -1278,7 +1278,7 @@ Outside In, Inside Out: An afternoon of Creating, Sharing, and Tea
 
 Join artists Vanessa Black and Neil Chung at Satellite Gallery on Sunday,
 June 19th at 2pm, as they lead you through an exploration of clay, memory,
-and knowledge set within Peter Morinâ€™s Museum. This program is free of
+and knowledge set within Peter Morin’s Museum. This program is free of
 charge, and space is limited. Please RSVP by Thursday, June 16 at
 604-681-8425 or info@satellitegallery.ca
 
@@ -1287,7 +1287,7 @@ British Columbia, that is
 shared between the Museum of Anthropology and the Morris and Helen Belkin
 Art Gallery (both at
 UBC), and Presentation House Gallery. It is a project of the Michael
-Oâ€™Brian Family Foundation.
+O’Brian Family Foundation.
 
 
 
@@ -1313,8 +1313,8 @@ Attend
 
 SPECIAL VANCOUVER MEDIA GUEST: Mr. Stephen Quinn!
 
-Whatever you have to pitch to the media for coverage â€” your band's new
-record, your new publishing company, the fact you won a big shiny award â€”
+Whatever you have to pitch to the media for coverage — your band's new
+record, your new publishing company, the fact you won a big shiny award —
 it's not always easy to attract attention. While different media outlets
 and platforms have their... Read More
 
@@ -1347,48 +1347,48 @@ Television Broadcast ID Music, travelogues from an arctic sea voyage, and
 science fictional rediscovery of diminishing islands.
 
 The 2011 festival aims to create a space for the anxieties and tensions of
-this momentâ€“haltered between the past and the futureâ€“to fold in on
+this moment–haltered between the past and the future–to fold in on
 themselves. Video works by the Otolith Group juxtapose the utopic vision
-for Chandigarh with the dystopia of Mumbaiâ€™s slums. Hito Stereylâ€™s allegory
+for Chandigarh with the dystopia of Mumbai’s slums. Hito Stereyl’s allegory
 on the contemporary economic crisis, plays the crash of Hollywood airplane
 hijacking off the burn of the DVD industry and the rise of scrap aluminum
 sales. Amie Siegel confuses the crosshairs of a militant pursuant with a
-fashion photographerâ€™s gaze on a band of armed female revolutionaries.
+fashion photographer’s gaze on a band of armed female revolutionaries.
 
 Sound Artists Frederick Brummer, The Experimental Theremin Orchestra,
-Giorgio Magnanensi and Hank Bull manipulate timeâ€™s weight on media
-obsolescence. Brummer works sculpturally with VIVOâ€™s equipment archive to
+Giorgio Magnanensi and Hank Bull manipulate time’s weight on media
+obsolescence. Brummer works sculpturally with VIVO’s equipment archive to
 blur the distinction between audio and visual analogue forms. Through
-VIVOâ€™s Studio Lab workshops, 15 artists will construct and perform their
+VIVO’s Studio Lab workshops, 15 artists will construct and perform their
 own theremins. The oscilloscope and its response to distorted waveforms and
-audio signals takes centre stage in Magnanensiâ€™s â€˜theatre for the earsâ€™.
+audio signals takes centre stage in Magnanensi’s ‘theatre for the ears’.
 Hank Bull and Patrick Ready travel through the seven dimensions of time and
 space in The Time Dilation Machine to present live narration and musical
-accompaniment to a collection of Bullâ€™s unedited 8mm and 16mm reels.
+accompaniment to a collection of Bull’s unedited 8mm and 16mm reels.
 
 As an homage to analogue television broadcasting, Signal & Noise presents
 two archives that reflect the social impact of regional production. Serbian
 born Artist Aleksandra Domanovićâ€™s anthology of television news-music from
-the geographic region of ex-Yugoslavia will echo Anu Sahotaâ€™s installation
-of CBC program titles and station IDs from the 1950â€™s-1980â€™s. Station ID
+the geographic region of ex-Yugoslavia will echo Anu Sahota’s installation
+of CBC program titles and station IDs from the 1950’s-1980’s. Station ID
 music from both archives will be remixed and performed by Basketball, Brady
 Cranfield, Julian Hou and Joshua Stevensen.
 
 The poetic aura of archives are central to Armenian Filmmaker Atavazd
-Pelechianâ€™s oeuvre, which addresses violence of the twentieth century: its
+Pelechian’s oeuvre, which addresses violence of the twentieth century: its
 mass migrations, wars and dictatorships, through a lens on the Armenian
 people. Signal & Noise presents a retrospective of this little-known master
 of â€œdistance montageâ€ .
 
-Ellie Gaâ€™s five-month residency aboard a research sailboat frozen in the
+Ellie Ga’s five-month residency aboard a research sailboat frozen in the
 ice near the North Pole informs her autobiographical performance featuring
 photographic documentation, writing, video, drawing, and slides. The desire
-to translate oneâ€™s experience of travel and exploration is echoed in
-Nimalan Yoganathanâ€™s sound performance of augmented field recordings from
+to translate one’s experience of travel and exploration is echoed in
+Nimalan Yoganathan’s sound performance of augmented field recordings from
 Inukjuak, Nunavik.
 
 Existing somewhere between ethnographic study, documentary and fiction, Ben
-Riverâ€™s investigation into the field of island bio-geography, accompanied
+River’s investigation into the field of island bio-geography, accompanied
 by a spoken text written with science fiction novelist Mark von Schlegell,
 imagines hyperbolic utopias that appear as possible future mini-societies.
 -- 
@@ -1415,7 +1415,7 @@ July 1st Final artwork will be required by August 1st
 Invitation to Participate
 FIT - freie internationale tankstelle
 Waldorf Hotel
-June 2 â€“ September 15, 2011
+June 2 – September 15, 2011
 
 FIT is a â€œfueling station for the creative spiritâ€  by Berlin artist Dida
 Zende, the first project presented in connection with the Goethe Satellite
@@ -1468,7 +1468,7 @@ I am friendly, reliable, quiet, clean, and I have great references
 
 2.
 two openings for shared studio space |
-The Gam is a studio, gallery and boutique located in Vancouverâ€™s downtown
+The Gam is a studio, gallery and boutique located in Vancouver’s downtown
 east side and fronts an artist-only building at 110 E Hastings St (ACME
 Studios). We are looking to expand our studio operations and currently
 have two openings for shared studio space. As a Gam studio mate you will

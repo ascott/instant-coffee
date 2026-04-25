@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yep, we are back 33.3 percent bett
 emailDate: "Sun, 12 May 2013 14:55:18 -0700"
 number: 4
 type: ""
+venue: "Cafe for Contemporary Art"
 summary: "Cafe for Contemporary Art | Bob Sherrin | MAY 15"
 ---
 

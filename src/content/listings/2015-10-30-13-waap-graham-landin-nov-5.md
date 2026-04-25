@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 13
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Graham Landin | NOV 5"
 ---
 

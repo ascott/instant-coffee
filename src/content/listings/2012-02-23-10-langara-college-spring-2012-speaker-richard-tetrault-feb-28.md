@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 10
 type: ""
+venue: "Langara College"
 summary: "Langara College | SPRING 2012 SPEAKER: Richard Tetrault | FEB 28"
 ---
 

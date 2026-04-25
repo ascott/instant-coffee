@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 15
 type: ""
+venue: "CANADIAN ART Gallery Hop!"
 summary: "CANADIAN ART Gallery Hop! | SARAH THORNTON | APR 18"
 ---
 

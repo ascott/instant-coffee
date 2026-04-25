@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Burrard View Fieldhouse | alone with my thoughts | Dusk | JUN 27"
 ---
 

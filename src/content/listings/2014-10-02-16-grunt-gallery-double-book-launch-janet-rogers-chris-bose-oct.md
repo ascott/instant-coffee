@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 16
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Double Book Launch: Janet Rogers & Chris Bose | OCT 9"
 ---
 
@@ -25,14 +26,14 @@ environmental destruction, territorial disputes, and resource depletion.
 This collection is confessional love, learned survival, ardent resistance,
 and unique poetry that wants to be spoken (aloud). If poetry is medicine,
 Peace in Duress is a cabinet full."
-â€“ Talonbooks, publisher.
+– Talonbooks, publisher.
 
 Multidisciplinary artist and writer, Chris Bose, presents a collection of
 non-fiction poems entitled, A Moon Made of Copper.
 
 "The poems were written while touring across Canada, and they capture
-Boseâ€™s experiences meeting people, wandering different cities, and getting
-into adventures and mis-adventures. This is Boseâ€™s second book since Stone
+Bose’s experiences meeting people, wandering different cities, and getting
+into adventures and mis-adventures. This is Bose’s second book since Stone
 the Crow." -Kegedonce, publisher.
 
 You can purchase your copy of the publication at this event, the authors

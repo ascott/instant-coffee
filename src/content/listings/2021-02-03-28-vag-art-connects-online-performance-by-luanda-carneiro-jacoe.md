@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 28
 type: "PERFORMANCE"
+venue: "VAG Art Connects [ONLINE]"
 summary: "VAG Art Connects [ONLINE] | Performance by Luanda Carneiro Jacoel | 1PM | FEB 18"
 ---
 

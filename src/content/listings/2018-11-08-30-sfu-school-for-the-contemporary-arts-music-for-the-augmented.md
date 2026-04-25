@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 30
 type: ""
+venue: "SFU School for the Contemporary Arts"
 summary: "SFU School for the Contemporary Arts | Music for the Augmented Pipe Organ | NOV 23"
 ---
 

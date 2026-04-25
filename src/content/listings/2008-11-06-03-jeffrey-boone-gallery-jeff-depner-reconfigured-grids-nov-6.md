@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 3
 type: "OPENING"
+venue: "Jeffrey Boone Gallery"
 summary: "Jeffrey Boone Gallery | Jeff Depner: Reconfigured Grids | NOV 6"
 ---
 

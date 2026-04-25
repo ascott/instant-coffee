@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a sudden full spectrum light bar m
 emailDate: "Thu, 18 Mar 2010 11:55:38 -0700"
 number: 10
 type: ""
+venue: "W2"
 summary: "W2 | Book Launch: Challenge for Change | MAR 22"
 ---
 
@@ -28,7 +29,7 @@ time historical and contemporary literature and research on one of the
 National Film Board of Canada's most (in)famous initiatives to date.
 
 Between 1967 and 1980, the activist documentary program Challenge for
-Change/SociÃ©tÃ© Nouvelle produced films in both French and English.
+Change/Société Nouvelle produced films in both French and English.
 Challenge for Change presents an examination of the radical politics and
 cinema of the legendary documentary film program devoted to social change.
 

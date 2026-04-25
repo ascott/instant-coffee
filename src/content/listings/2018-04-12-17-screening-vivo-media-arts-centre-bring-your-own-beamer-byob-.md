@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Bring Your Own Beamer (BYOB) | 8-11PM | APR 13"
 ---
 

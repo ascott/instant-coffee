@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 15
 type: ""
+venue: "VANTAGE POINT"
 summary: "VANTAGE POINT | Call: EXHIBITION-IN-PRINT Vol. II | FEB 15"
 ---
 

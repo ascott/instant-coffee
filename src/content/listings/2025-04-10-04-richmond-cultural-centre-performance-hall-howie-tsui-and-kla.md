@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 4
 type: "TALK"
+venue: "Richmond Cultural Centre Performance Hall"
 summary: "Richmond Cultural Centre Performance Hall | Howie Tsui and Klara Manhal | 6PM | APR 10"
 ---
 

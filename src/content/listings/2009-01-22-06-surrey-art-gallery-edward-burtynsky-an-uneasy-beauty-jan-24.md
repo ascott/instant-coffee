@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sorry if my dismissal seemed flipp
 emailDate: "Thu, 22 Jan 2009 12:05:21 -0800"
 number: 6
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Edward Burtynsky: An Uneasy Beauty | JAN 24"
 ---
 

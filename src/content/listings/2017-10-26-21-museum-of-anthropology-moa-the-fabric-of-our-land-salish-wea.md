@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 21
 type: "EVENT"
+venue: "Museum of Anthropology (MOA)"
 summary: "Museum of Anthropology (MOA) | The Fabric of Our Land: Salish Weaving | NOV 19"
 ---
 

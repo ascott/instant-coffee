@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 20
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions | JUL 22"
 ---
 

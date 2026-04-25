@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 4
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Ascending: Black, White, and Brown | JUN 23"
 ---
 

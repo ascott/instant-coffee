@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 10
 type: ""
+venue: "PRESENTATION HOUSE GALLERY"
 summary: "PRESENTATION HOUSE GALLERY | Panel: EXPOSED: Voyeurism and Photography | NOV 13"
 ---
 

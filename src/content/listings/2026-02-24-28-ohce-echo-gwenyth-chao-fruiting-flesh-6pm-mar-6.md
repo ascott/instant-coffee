@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 28
 type: "OPENING"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | Gwenyth Chao fruiting flesh | 6PM | MAR 6"
 ---
 

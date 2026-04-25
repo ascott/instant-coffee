@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 12
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | HAPHY | APR 19"
 ---
 
 HAPHY is a whimsical, non-sense word that describes a partial feeling half-way 
 happy. The exhibition is a light-hearted but emphatic response to the habitual 
-interpretation of contemporary art. The show features a selection of Heilbronâ€™s 
+interpretation of contemporary art. The show features a selection of Heilbron’s 
 paintings and drawings from the past four years. Alex uses a non-linear 
 narrative that ties her images together with insistent visual language. 
 

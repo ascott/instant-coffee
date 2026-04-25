@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 23
 type: ""
+venue: "PechaKucha Night Richmond"
 summary: "PechaKucha Night Richmond | Planes, Trains and Automobiles | NOV 29"
 ---
 

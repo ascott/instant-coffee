@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 26
 type: "OPENING"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Guo Pei: Couture Beyond | OCT 13"
 ---
 

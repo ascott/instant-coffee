@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 17
 type: "CALL"
+venue: "City of Richmond Public Art Program"
 summary: "City of Richmond Public Art Program | Call to Artists | AUG 22"
 ---
 

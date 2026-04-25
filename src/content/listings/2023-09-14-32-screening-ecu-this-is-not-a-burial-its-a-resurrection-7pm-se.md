@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 32
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | ECU | This Is Not a Burial, It’s a Resurrection | 7PM | SEP 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 2
 type: "EDUCATION"
+venue: "LIFT [ONLINE]"
 summary: "LIFT [ONLINE] | DIGITAL AND INTERACTIVE ART WORKSHOPS"
 ---
 

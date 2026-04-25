@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 15
 type: ""
+venue: "PRESENTATION HOUSE GALLERY"
 summary: "PRESENTATION HOUSE GALLERY | PANEL DISCUSSION: EXPOSED: Voyeurism & Photography | NOV 13"
 ---
 

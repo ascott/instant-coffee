@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yes we no"
 emailDate: "Wed, 03 Dec 2008 22:30:06 -0800"
 number: 6
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | FILLIP EDITIONS | launch of Five Broadsides and Two Equal Texts | DEC 5"
 ---
 

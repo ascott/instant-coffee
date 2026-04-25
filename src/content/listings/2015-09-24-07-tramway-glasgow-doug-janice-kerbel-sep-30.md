@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 7
 type: "OPENING"
+venue: "Tramway (Glasgow)"
 summary: "Tramway (Glasgow) | DOUG: Janice Kerbel | SEP 30"
 ---
 

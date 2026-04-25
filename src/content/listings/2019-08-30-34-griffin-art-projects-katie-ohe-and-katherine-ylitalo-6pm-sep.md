@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 34
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Katie Ohe and Katherine Ylitalo | 6PM | SEP 13"
 ---
 

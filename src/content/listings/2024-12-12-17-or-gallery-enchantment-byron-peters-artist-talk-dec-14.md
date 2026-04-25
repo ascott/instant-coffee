@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 17
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | Enchantment Byron Peters Artist Talk | DEC 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Arts Assembly"
 summary: "Arts Assembly | S. F. Ho, Guts: A Guided Meditation"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 20
 type: "TALK"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Curator & Artist Talk | 2PM | JUL 29"
 ---
 

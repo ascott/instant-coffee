@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Appenda...3"
 emailDate: "Fri, 04 Nov 2016 07:26:09 -0700"
 number: 9
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Rebecca Brewer | NOV 12"
 ---
 

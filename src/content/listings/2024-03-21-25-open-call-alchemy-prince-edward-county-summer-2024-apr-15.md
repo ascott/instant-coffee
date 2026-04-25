@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 25
 type: "CALL"
+venue: "OPEN CALL ALCHEMY PRINCE EDWARD COUNTY SUMMER 2024"
 summary: "OPEN CALL ALCHEMY PRINCE EDWARD COUNTY SUMMER 2024 | APR 15"
 ---
 

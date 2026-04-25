@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: what duty do we do?"
 emailDate: "Thu, 21 Feb 2008 08:23:56 -0800"
 number: 11
 type: ""
+venue: "SFU Student Show"
 summary: "SFU Student Show | A Felling | FEB 29"
 ---
 

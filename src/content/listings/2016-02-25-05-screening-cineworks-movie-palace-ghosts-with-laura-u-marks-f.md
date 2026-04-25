@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 5
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Movie Palace Ghosts, with Laura U. Marks | FEB 26"
 ---
 

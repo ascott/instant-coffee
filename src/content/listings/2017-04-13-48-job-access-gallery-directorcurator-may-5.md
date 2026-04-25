@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 48
 type: ""
+venue: "JOB"
 summary: "JOB | Access Gallery | Director/Curator | MAY 5"
 ---
 

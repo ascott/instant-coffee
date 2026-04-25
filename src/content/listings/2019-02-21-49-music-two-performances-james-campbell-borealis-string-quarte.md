@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 49
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Two Performances | James Campbell & Borealis String Quartet | MAR 17"
 ---
 

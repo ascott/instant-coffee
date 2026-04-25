@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you are a source of information"
 emailDate: "Thu, 27 Mar 2008 09:10:57 -0700"
 number: 10
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | AN EVENING OF DANCE CINEMA | APR 2"
 ---
 

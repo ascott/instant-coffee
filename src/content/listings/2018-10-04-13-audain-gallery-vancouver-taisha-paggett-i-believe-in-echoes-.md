@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 13
 type: "OPENING"
+venue: "Audain Gallery (Vancouver)"
 summary: "Audain Gallery (Vancouver) | taisha paggett: i believe in echoes | 7-9PM | OCT 10"
 ---
 

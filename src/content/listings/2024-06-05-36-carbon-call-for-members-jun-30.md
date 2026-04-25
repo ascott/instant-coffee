@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 36
 type: "CALL"
+venue: "CARBON"
 summary: "CARBON | Call for Members | JUN 30"
 ---
 

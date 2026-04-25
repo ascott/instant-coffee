@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 10
 type: ""
+venue: "Quinary Art Projects"
 summary: "Quinary Art Projects | June Yun | AUG 30"
 ---
 
@@ -39,7 +40,7 @@ she has had exhibitions at the Banff Centre, Richmond Art Gallery and Centre
 A. Her most recent exhibition in 2011 was at the Himalayas Art Museum in 
 Shanghai.
 
-June Yunâ€™s artwork builds on the edge of Eastern and Western cultures. 
+June Yun’s artwork builds on the edge of Eastern and Western cultures. 
 Through her life/ travel experiences from East to West, and then looking back 
 at the East, she transforms her appreciations and struggles into visual forms: 
 oil painting, drawing, video and installation. Those framed thoughts are 

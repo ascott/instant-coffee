@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 9
 type: ""
+venue: "Artbank"
 summary: "Artbank | SWEATY BONES Heidi Nagtegaal | DEC 4"
 ---
 

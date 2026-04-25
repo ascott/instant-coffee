@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 19
 type: "EVENT"
+venue: "The Music Box"
 summary: "The Music Box | Colour Explosion: Printmaking workshop with Mary | FEB 1"
 ---
 

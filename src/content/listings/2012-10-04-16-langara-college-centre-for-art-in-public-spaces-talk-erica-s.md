@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 16
 type: ""
+venue: "Langara College Centre for art in public spaces"
 summary: "Langara College Centre for art in public spaces | Talk: Erica Stocking and Vanessa Kwan | OCT 11"
 ---
 
@@ -25,7 +26,7 @@ community and civic history, the Geyser was commissioned by
 the City of Vancouver. The water feature is a reference to both the 
 natural and man-made elements of the centre: it is thematically 
 tied to the history of underground streams in the area, and is also 
-mechanically tied to the LEED-certified buildingâ€™s grey water 
+mechanically tied to the LEED-certified building’s grey water 
 collection cistern. 
 spEakEr Bios
 Vanessa Kwan and Erica Stocking are Vancouver-based artists 

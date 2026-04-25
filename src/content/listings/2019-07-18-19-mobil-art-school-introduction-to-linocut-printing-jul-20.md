@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 19
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Introduction to Linocut Printing | JUL 20"
 ---
 

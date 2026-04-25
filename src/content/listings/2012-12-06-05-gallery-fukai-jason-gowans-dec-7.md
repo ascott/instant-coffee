@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 5
 type: ""
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | Jason Gowans | DEC 7"
 ---
 
@@ -13,8 +14,8 @@ from Vancouver based artist Jason Gowans.
 Please join us for the opening reception on Friday December 7th from 8pm. 
 Gallery FUKAI is located at 602 Hastings Street at Princess.
 
-"I wondered if itâ€™s possible to represent the idea of landscape in photography 
-without representing the actual sites. Itâ€™s both the genius and curse of 
+"I wondered if it’s possible to represent the idea of landscape in photography 
+without representing the actual sites. It’s both the genius and curse of 
 photography to be bound to the time and place of its subject. The location of 
 the landscape is forever the forefront of the photo in question. Could I make 
 images that address the landscape genre all the while representing an 
@@ -27,10 +28,10 @@ and be confronted with images that were decidedly underwhelming. They
 conveyed none of the concepts I was interested in once they were bound to a 
 rectilinear plane
 
-Works such as Robert Smithsonâ€™s Non-Sites, Michael Snowâ€™s La RÃ©gion 
+Works such as Robert Smithson’s Non-Sites, Michael Snow’s La Région 
 Centrale, or western movie sets were extremely influential in providing 
 answers while I was investigating this problem. In fact, many of the works in 
-this exhibition were designed looking directly at Smithsonâ€™s Non-Sites. His 
+this exhibition were designed looking directly at Smithson’s Non-Sites. His 
 sculptures provided a skeleton to build up the imagery. 
 
 This show was created from physical objects. I built maquettes using found 

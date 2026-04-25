@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 59
 type: "CALL"
+venue: "Gibraltar Point Centre for the Arts"
 summary: "Gibraltar Point Centre for the Arts | Alchemy Island 2024 Residency | FEB 22"
 ---
 

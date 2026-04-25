@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 10
 type: "CALL"
+venue: "Vancouver Photo Book Fair 2017"
 summary: "Vancouver Photo Book Fair 2017 |  | DEC 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: what duty do we do?"
 emailDate: "Thu, 21 Feb 2008 08:23:56 -0800"
 number: 22
 type: ""
+venue: "2008 Sobey Art Award"
 summary: "2008 Sobey Art Award | Call for Nominations"
 ---
 

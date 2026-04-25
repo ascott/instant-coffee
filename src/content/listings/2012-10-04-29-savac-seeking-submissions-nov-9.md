@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 29
 type: ""
+venue: "SAVAC"
 summary: "SAVAC | seeking: submissions | NOV 9"
 ---
 
@@ -17,14 +18,14 @@ videos by/and/or about South Asians from Canada and around the world. We
 invite independent and innovative short films and videos that explore the 
 aesthetic and form of the moving image and its relation to narrative. Monitor 9 
 encourages new, experimental and risk-taking work that challenges the 
-viewerâ€™s active engagement.
+viewer’s active engagement.
 
 Selected works will be screened at the ninth annual short film and video 
 screening program, Monitor 9 on March 14, 2013 in Toronto, Canada. Monitor 
 9 will be programmed by independent curator and artist Nahed Mansour.
 
 Monitor is reviewed by a jury of contemporary artists, curators and 
-programmers. This yearâ€™s jury consists of Renata Mohamed, Noni Kaur, 
+programmers. This year’s jury consists of Renata Mohamed, Noni Kaur, 
 Cheyanne Turions and Rehab Nazzal.
 
 GUIDELINES
@@ -41,7 +42,7 @@ Brief biography of the artist (200 words max)
 Artist CV
 High-resolution production stills
 
-Submissions can be sent via email with a URL link to the artist/directorâ€™s 
+Submissions can be sent via email with a URL link to the artist/director’s 
 YouTube/Vimeo account (please provide passwords if necessary). 
 The subject heading must state MONITOR9_ARTISTLASTNAME to 
 sharlene@savac.net
@@ -49,7 +50,7 @@ sharlene@savac.net
 Submissions can be sent on DVD (PAL, NTSC) enclosed with the following:
 
 Send all materials to:
-SAVAC â€“ MONITOR 9
+SAVAC – MONITOR 9
 401 Richmond Street West, Suite 450
 Toronto, ON Canada M5V 3A8
 

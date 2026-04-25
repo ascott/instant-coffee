@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 32
 type: "CALL"
+venue: "City of Surrey Community Art Program"
 summary: "City of Surrey Community Art Program | Call for Submissions | MAY 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 1
 type: "EVENT"
+venue: "KIAC Dawson City"
 summary: "KIAC Dawson City | Midnight Sun Camera Obscura Festival | JUN 17"
 ---
 
@@ -15,20 +16,20 @@ Dianne Bos (Canada/France), Lea Bucknell (Canada), Bob Jickling (Canada),
 Ernie Kroeger (Canada), Donald Lawrence (Canada), Doug Smarch (Canada),
 Holly Ward and Kevin Schmidt AKA Desire Machine (Canada/Germany), Carsten
 Wirth (Germany), Andrew Wright (Canada), Mike Yuhasz (Canada). With talks,
-research contributions and writing from Sven DuprÃ© (Germany), Petran
+research contributions and writing from Sven Dupré (Germany), Petran
 Kockelkoren (Holland) and Lance Blomgren (Canada).
 
 During the solstice week, Dawson City will host three projects that look to
-optical historyâ€”the legacy of camera obscurasâ€”as means of interrogating and
+optical history—the legacy of camera obscuras—as means of interrogating and
 celebrating the overlapping domains of art, science, and popular entertainment.
 
 The four-day Camera Obscura Festival features 10 artists who have
 constructed site-specific, temporary camera obscuras that are publically
 accessible in different areas of town. Ranging from small portable devices
-to larger walk-in structures, these darkened spaces will capture Dawsonâ€™s
+to larger walk-in structures, these darkened spaces will capture Dawson’s
 longest days in ways that range from the spooky to the sublime.
 
-In conjunction with the festival, KIACâ€™s ODD Gallery will feature The World
+In conjunction with the festival, KIAC’s ODD Gallery will feature The World
 Inside, a group exhibition with artists Dianne Bos, Lea Bucknell, Bob
 Jickling, Ernie Kroeger, Donald Lawrence, Holly Ward and Kevin Schmidt AKA
 Desire Machine, Andrew Wright and Mike Yuhasz. As a counterpoint to the
@@ -50,7 +51,7 @@ interest in the manner in which early or low-tech forms of imaging,
 illusion and other communications technologies may be merged with new
 technology or with what is now the mundane or obsolete technology of modern
 times. Most of the artists have created works that are self-illuminated;
-the camera obscuraâ€™s optical properties just a starting point for their
+the camera obscura’s optical properties just a starting point for their
 thinking. With work by Dion Fortie, Ryland Fortie, Megan Gamble, Levi
 Glass, Eliza Houg, Devon Lindsay and Bo Yeung.
 
@@ -59,7 +60,7 @@ SCHEDULE
 Wednesday, June 17
 â€œâ€¦strange things doneâ€¦â€  opening: 6-7pm @ SOVA
 Festival Opening Remarks: 7:30pm @ KIAC Ballroom
-Keynote Speaker: Sven DuprÃ©: 7:45pm @ KIAC Ballroom
+Keynote Speaker: Sven Dupré: 7:45pm @ KIAC Ballroom
 
 Thursday, June 18
 Workshop with Donald Lawrence: 3-6pm (drop-ins welcomed) @ Shipwrecks
@@ -91,10 +92,10 @@ _
 Based at Thompson Rivers University in Kamloops, B.C., The Camera Obscura
 Project and this Festival have received funding through an Insight grant
 from The Social Sciences and Humanities Research Council of Canada and from
-the Canada Council for the Arts. Please visit the groupâ€™s website
+the Canada Council for the Arts. Please visit the group’s website
 midnightsuncameraobscura.com or
 www.kiac.ca/oddgallery/projects/cameraobscuraproject/ for updated
-information as the Festival draws near and to learn about group membersâ€™
+information as the Festival draws near and to learn about group members’
 practices.
 
 Klondike Institute of Art & Culture

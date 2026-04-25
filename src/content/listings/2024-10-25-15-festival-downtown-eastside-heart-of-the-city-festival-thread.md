@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 15
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Downtown Eastside Heart of the City Festival | Threads of Connection | OCT 30 - NOV 10 | OCT 30"
 ---
 

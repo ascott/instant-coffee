@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 21
 type: ""
+venue: "Infusion Studio Arts Integration Learning Lab"
 summary: "Infusion Studio Arts Integration Learning Lab | Calling all Artists in BC's Interior | NOV 3"
 ---
 
@@ -31,11 +32,11 @@ this exciting opportunity and how to apply at artstarts.com/infusionstudio
 1.
 studio space available |
 We have a studio space available in our 600 sq. ft. studio located on 2nd
-and Main. Itâ€™s in a great area; itâ€™s by the Skytrain, close to Chinatown,
-Broadway is up the street and itâ€™s a few blocks from by The Western Front,
+and Main. It’s in a great area; it’s by the Skytrain, close to Chinatown,
+Broadway is up the street and it’s a few blocks from by The Western Front,
 Grunt Gallery and Gallery 295.
 
-The building houses other artistsâ€™ studios, a wood shop and a recording
+The building houses other artists’ studios, a wood shop and a recording
 studio. Since the recording studio is close to our space, no heavy
 machinery is permitted in the studio, but occasional noise making can
 happen downstairs. The studio has 2 windows, built-in shelves and a small
@@ -45,7 +46,7 @@ main floor and an industrial sink for heavy-duty chemicals downstairs.
 You would be sharing the space with 2 recent grads from Emily Carr
 University. We are both in our late 20s, I work in video, performance and
 installation and my colleague has a photo-based practice rooted in collage
-and installation. Weâ€™re looking for someone whoâ€™s easy going, serious about
+and installation. We’re looking for someone who’s easy going, serious about
 their practice and open to negotiating space.
 
 The space is available now, so we would like our new studio mate to move in
@@ -84,17 +85,17 @@ If interested, please contact Jamie at jdolinko@telus.net
 Photo Studio available |
 Photo Studio available for daily rental:
 
-â€¢ 11' ceilings
+• 11' ceilings
 
-â€¢ 10'x16' shooting wall
+• 10'x16' shooting wall
 
-â€¢ 9' seamless backdrop roll
+• 9' seamless backdrop roll
 
-â€¢ Linhof copystand
+• Linhof copystand
 
-â€¢ ground level access
+• ground level access
 
-â€¢ some equipment available for use
+• some equipment available for use
 
 Email siteart@telus.net for pics/details.
 

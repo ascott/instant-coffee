@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 25
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | DESTROY VANCOUVER XI | NOV 21"
 ---
 
@@ -22,16 +23,16 @@ ADMISSION: $10
 + DJ SILK
 
 DESTROY VANCOUVER is a series of experimental music nights that bring
-together some of the worldâ€™s most influential improvisers with local sound
+together some of the world’s most influential improvisers with local sound
 artists and musicians. DV is curated by drummer and sound artist John
 Brennan.
 
-â€”
+—
 
 GIORGIO MAGNANENSI is an Italian composer, now resident in Canada, of
 mostly orchestral, chamber and multimedia works that have been performed
 in Asia, Europe and North America. His diverse artistic practice includes
-composition, conducting, improvisation, circuitâ€“bending and video art. He
+composition, conducting, improvisation, circuit–bending and video art. He
 is artistic director of Vancouver New Music, Laboratorio Arts Society and
 lecturer at the School of Music at the Vancouver Community College.
 giorgiomagnanensi.com
@@ -40,7 +41,7 @@ STEFAN SMULOVITZ is a musician (viola & laptop) and an award-winning
 composer. As a software developer he created Kenaxis, a major innovation
 in the use of the computer as a real-time instrument. His virtuosic
 command of Kenaxis has resulted in an international reputation for
-Smulovitz, who regularly performs with the worldâ€™s leading improvisers and
+Smulovitz, who regularly performs with the world’s leading improvisers and
 composes for ensembles ranging from orchestras to string quartets to solo
 instruments with electronics. His latest projects include the Mad
 Scientist Machine and the premier of his score for the Passion of Joan of
@@ -60,7 +61,7 @@ soar.is2.net
 
 ROOT & BRANCH is the duo of double-bassist Dave Ito Chokroun and
 multi-reedist Shane Krause, who focuses on clarinets in this group (Bass,
-Bb and Eb clarinets). The duoâ€™s music includes completely free
+Bb and Eb clarinets). The duo’s music includes completely free
 improvisation, graphically notated compositions, notated music with
 improvisation written in, and through-composed fully notated works with no
 improvisation.
@@ -75,13 +76,13 @@ artistic director and CEO of the online label and pataphysical disinfoshop
 The Institute for the Study of Advanced Musical Research.
 
 Shane Krause plays Eb, Bb and Bass Clarinets and the baritone saxophone.
-He is active within Vancouverâ€™s improvised music community, while also
+He is active within Vancouver’s improvised music community, while also
 leading the post-bop jazz quintet the Bletchley Bombes and the cool jazz
 septet Gullviva. Shane has performed with and/or recorded with a number of
 notable improvisers including Mats Gustafsson, Christian Munthe and Peter
-Evans; as well as having a long history within Vancouverâ€™s indie music
+Evans; as well as having a long history within Vancouver’s indie music
 scene having been a member of the Secret Mommy Quintet and They Shoot
-Horses, Donâ€™t They? He was a member of Anthony Braxtonâ€™s 2010 Vancouver
+Horses, Don’t They? He was a member of Anthony Braxton’s 2010 Vancouver
 Sonic Genome Project.
 shanekrause.wordpress.com
 

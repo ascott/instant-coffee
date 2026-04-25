@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 27
 type: ""
+venue: "JOB"
 summary: "JOB | Vancouver Art Book Fair | VABF 2017 Project Manager | JAN 31"
 ---
 

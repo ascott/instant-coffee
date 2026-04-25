@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lone glove"
 emailDate: "Thu, 10 Dec 2015 11:00:47 -0800"
 number: 3
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Traces That Resemble Us: Owen Kydd & Myfanwy MacLeod | DEC 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 27
 type: "EXHIBITION"
+venue: "The Langham Gallery [Kaslo]"
 summary: "The Langham Gallery [Kaslo] | Claire Dibble: Arctic Outflow | APR 4"
 ---
 

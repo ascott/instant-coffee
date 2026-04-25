@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 9
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Bestway Studio | Margaret Dragu, New Normal: an embodied novel | APR 3"
 ---
 

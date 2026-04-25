@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 10
 type: "TALK"
+venue: "SFU Vancouver Campus"
 summary: "SFU Vancouver Campus | Art and Identity in Transit | SEP 23"
 ---
 

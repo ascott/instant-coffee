@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 18
 type: ""
+venue: "Lucky's Gallery"
 summary: "Lucky's Gallery | TREATS FOR FACEBALLS | JUN 5"
 ---
 
-Art Waste and LuckyÃŠÂ¼s Gallery present:
+Art Waste and LuckyÊ¼s Gallery present:
 TREATS FOR FACEBALLS
 An exhibition of new collaborative paintings by the art team DUSTY PEAS
 JUNE 5 - 13, 2010
@@ -27,7 +28,7 @@ small press fairs in Montreal, Sackville, Toronto and San Francisco, and
 via Halifax INK and the
 RCAAQ at Printed Matter's New York Art Book Fair. Both artists are included
 in The Cheaper Show
-No. 9 at VancouverÃŠÂ¼s LES Gallery, June 26, 2010.
+No. 9 at VancouverÊ¼s LES Gallery, June 26, 2010.
 Jamie Q received her BFA in sculpture from ACAD in 2002. She was a member
 of the Long Haul artists' collective in
 Montreal for four years, and is currently completing her MFA at The
@@ -43,7 +44,7 @@ DUSTY PEAS ARE AVAILABLE FOR INTERVIEWS. CONTACT DUSTYPEAS@GMAIL.COM
 Available at the opening:
 NEW!! LIMITED EDITION BOOK SET:
 This hand-silkscreened two-book set includes Surprise
-Prize, Dusty PeasÃŠÂ¼ first narrative art book; and Treats for
+Prize, Dusty PeasÊ¼ first narrative art book; and Treats for
 Faceballs, a collection of abstract work that accompanies
 the story.
 Two-book set. 14 pages each. 4" x 4" five-colour silkscreen.

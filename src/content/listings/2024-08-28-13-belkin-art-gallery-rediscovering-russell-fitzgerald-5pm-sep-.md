@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 13
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Rediscovering Russell FitzGerald | 5PM | SEP 5"
 ---
 

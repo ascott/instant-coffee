@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 6
 type: ""
+venue: "Centre A"
 summary: "Centre A | CO-LAB: A workshop + exhibition project | MAY 14"
 ---
 
@@ -36,10 +37,10 @@ Andrew Lee & Jennifer Schine. Through facilitating a portal of
 exchange between visual art and new music, CO-LAB is designed 
 to develop experimental models of cross-disciplinary collaboration 
 among the artists/workshop leaders and participants. The concept 
-of the workshops is based on Jaques Attaliâ€™s notion on sound 
+of the workshops is based on Jaques Attali’s notion on sound 
 culture:
-â€œsound/music is more than an object of study: itâ€™s a way of 
-perceiving the world; a tool of understandingâ€¦ [it is] thus necessary 
+“sound/music is more than an object of study: it’s a way of 
+perceiving the world; a tool of understanding… [it is] thus necessary 
 to imagine radically new theoretical forms, in order to speak to new 
 realities. Sound, the organization of noise, is one such form. It 
 reflects the manufacture of society; it constitutes the audible 
@@ -48,7 +49,7 @@ Jacques Attali from Noise: The Political Economy of Music
 
 NOISE/DE-NOISE with Giorgio Magnanensi
 
-1:00 â€“ 5:30 pm, Saturday, May 14, 2011 at Centre A
+1:00 – 5:30 pm, Saturday, May 14, 2011 at Centre A
 
 This workshop led by Giorgio Magnanensi will focus on the use of 
 denoising-techniques in a creative and compositional manner. 
@@ -98,7 +99,7 @@ funding agencies, including the Canada Council for the Arts, the
 British Columbia Arts Council, and the City of Vancouver through the 
 Office of Cultural Affairs. 
 
-Special thanks to the projectâ€™s community partners: Immigration 
+Special thanks to the project’s community partners: Immigration 
 Service Society of BC (ISSofBC) and Co-Op Radio.
 
 Centre A

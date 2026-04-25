@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 28
 type: "CALL"
+venue: "Off the Map"
 summary: "Off the Map | Call for Writers | JUN 15"
 ---
 

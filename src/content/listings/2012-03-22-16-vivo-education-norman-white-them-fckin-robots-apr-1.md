@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 16
 type: ""
+venue: "VIVO Education"
 summary: "VIVO Education | Norman White | Them F*ckin' Robots | APR 1"
 ---
 

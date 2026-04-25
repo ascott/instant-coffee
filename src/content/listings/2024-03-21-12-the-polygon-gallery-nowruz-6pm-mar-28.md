@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 12
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Nowruz | 6PM | MAR 28"
 ---
 

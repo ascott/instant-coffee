@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 2
 type: ""
+venue: "Access"
 summary: "Access | curators talk: Su-Ying Lee and Suzanne Carte | SEP 5"
 ---
 
-Curatorsâ€™ Talk via Skype | Thursday, September 5, 7pm
+Curators’ Talk via Skype | Thursday, September 5, 7pm
 Join Director/Curator Kimberly Phillips as she rings up curators Su-Ying Lee 
 and Suzanne Carte in Toronto about the ideas that underpin Under New 
 Management: Video Store. Under New Management runs until September 7, 
@@ -16,8 +17,8 @@ Management: Video Store. Under New Management runs until September 7,
 Organized by Toronto-based curators Su-Ying Lee and Suzanne Carte, Under 
 New Management will temporarily convert Access into a video rental store. 
 The project assumes the characteristics of the retail environment to connect 
-to the local community while challenging the galleryâ€™s role as an intermediary 
-that delimits the viewerâ€™s direct access to art. Video titles in stock are artistsâ€™ 
+to the local community while challenging the gallery’s role as an intermediary 
+that delimits the viewer’s direct access to art. Video titles in stock are artists’ 
 works procured through an international open call for submissions. 
 â€œCustomersâ€  are asked to pay what they wish, which can be interpreted as 
 cash, a non-monetary exchange, critique or no remuneration. This facet is in 
@@ -34,7 +35,7 @@ businesses both large and small. The most unfortunate loss, as we have
 witnessed recently in Vancouver, is that of local independent operations that 
 carried rare and foreign titles, cult favorites, documentaries and experimental 
 films. The plight of the small business has a special relevance to Access 
-Gallery and its location on East Georgia Street in Vancouverâ€™s Chinatown, 
+Gallery and its location on East Georgia Street in Vancouver’s Chinatown, 
 where numerous independent, family-operated shops are closing due to 
 escalating rental rates and rapid development.
 
@@ -50,7 +51,7 @@ Gallery of Mississauga and as professional development and public program
 coordinator at the Ontario Association of Art Galleries. Independently, 
 Suzanne has curated exhibitions in public spaces, artist-run centres, 
 commercial and public art galleries including All Systems Go!, MOTEL and 
-Manâ€™s Ruin. Su-Ying Lee is Assistant Curator at the Museum of Canadian 
+Man’s Ruin. Su-Ying Lee is Assistant Curator at the Museum of Canadian 
 Contemporary Art. From 2011-2012, she was Curator in Residence at the 
 Justina M. Barnicke Gallery, funded by the Canada Council for the Arts. She 
 has curated exhibitions that include the work of Kent Monkman and Lawrence 

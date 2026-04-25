@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 39
 type: "EDUCATION"
+venue: "Cinevolution"
 summary: "Cinevolution | Chinatown Mural Walks | MAY 3"
 ---
 

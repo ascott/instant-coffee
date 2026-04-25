@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 55
 type: "CALL"
+venue: "Chilliwack Museum and Archives"
 summary: "Chilliwack Museum and Archives | Call for Submissions | NOV 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 22
 type: "CALL"
+venue: "Emily Carr University"
 summary: "Emily Carr University | The Leeway Studio Residency | JUL 31"
 ---
 

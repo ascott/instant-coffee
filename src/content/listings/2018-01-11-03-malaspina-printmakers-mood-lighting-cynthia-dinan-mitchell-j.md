@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 3
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Mood Lighting: Cynthia Dinan-Mitchell | JAN 11"
 ---
 

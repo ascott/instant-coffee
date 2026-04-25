@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 6
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema (Online) | Zadie Xa | APR 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 9
 type: ""
+venue: "ART BANK"
 summary: "ART BANK | FROM THIS PEAK TO THAT ONE, PART 1 | FEB 15"
 ---
 
@@ -63,7 +64,7 @@ Monika Loevenmark holds a BFA from Emily Carr University of Art & Design
 and has studied at Central Saint Martins College in London, UK. She has 
 shown in Vancouver and Sweden and is included in the collection of the 
 Government of Canada. She recently spent a year living on the west coast of 
-Sweden in GÃ¶teborg studying contemporary Scandinavian art and her 
+Sweden in Göteborg studying contemporary Scandinavian art and her 
 heritage.
 
 http://monikaloevenmark.com/
@@ -72,8 +73,8 @@ http://monikaloevenmark.com/
 
 Liz Toohey-Wiese is a graduate from Emily Carr University, receiving her BFA 
 in Visual Arts. In her undergraduate degree she also studied at the University 
-of Victoria and the Ã‰cole Nationale des Beaux-Arts de Lyon. Since graduation 
-she has completed an artist residency at GamlÃ­ SkolÃ­ in HrÃ­sey, Iceland, and 
+of Victoria and the École Nationale des Beaux-Arts de Lyon. Since graduation 
+she has completed an artist residency at Gamlí Skolí in Hrísey, Iceland, and 
 been a part of group and solo shows around Vancouver, B.C. Her work 
 explores relationships between identity and place. Born and raised in the 
 suburbs of Vancouver, her work seeks to intervene in the broader notion of 

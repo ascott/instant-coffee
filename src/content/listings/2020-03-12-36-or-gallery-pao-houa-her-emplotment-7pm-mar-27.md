@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 36
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Pao Houa Her: Emplotment | 7PM | MAR 27"
 ---
 

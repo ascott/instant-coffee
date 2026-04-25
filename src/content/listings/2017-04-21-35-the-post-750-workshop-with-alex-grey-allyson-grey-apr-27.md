@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 35
 type: "EDUCATION"
+venue: "The Post 750"
 summary: "The Post 750 | Workshop with Alex Grey & Allyson Grey | APR 27"
 ---
 

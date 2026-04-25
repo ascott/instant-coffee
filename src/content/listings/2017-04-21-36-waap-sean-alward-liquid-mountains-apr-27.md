@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 36
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | SEAN ALWARD: Liquid Mountains | APR 27"
 ---
 

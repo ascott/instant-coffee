@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 31
 type: "OPENING"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | Part to Part | 6 PM | MAY 16"
 ---
 

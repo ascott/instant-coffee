@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 13
 type: "TALK"
+venue: "grunt gallery"
 summary: "grunt gallery | Sausage Factory | MAR 19"
 ---
 

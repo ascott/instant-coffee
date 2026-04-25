@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 22
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Takao Tanabe | till | DEC 23"
 ---
 
@@ -16,7 +17,7 @@ West Vancouver Museum
 680 17th Street, West Vancouver, BC
 Open Tue - Sat 11am to 5pm
 
-Takao Tanabeâ€™s career as a visual artist has spanned over sixty years, a
+Takao Tanabe’s career as a visual artist has spanned over sixty years, a
 period throughout which his artistic production has undergone numerous
 stylistic and formal changes. Moving freely between what we often consider
 contradictory realms - abstraction and high realism - Tanabe has painted in

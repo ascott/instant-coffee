@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 24
 type: "OPENING"
+venue: "Gallery 295"
 summary: "Gallery 295 | it's about time - Annual Emerging Curator Exhibiti | JAN 30"
 ---
 

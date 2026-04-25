@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 2
 type: "CALL"
+venue: "The Shumka Centre @ ECU"
 summary: "The Shumka Centre @ ECU | Art Apprenticeship Network 2024"
 ---
 

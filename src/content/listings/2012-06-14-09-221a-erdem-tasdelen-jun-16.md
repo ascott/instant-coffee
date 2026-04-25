@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 9
 type: ""
+venue: "221A"
 summary: "221A | Erdem Tasdelen | JUN 16"
 ---
 

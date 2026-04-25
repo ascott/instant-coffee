@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 3
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | WAAP | THE SEASONS HAVE CHANGED BUT WE HAVE NOT | APR 10"
 ---
 
@@ -35,12 +36,12 @@ Vancouver, 1 from Toronto and a 5th from Auckland, New Zealand. This
 spring exhibition will use plant and flora imagery to explore perennial matters 
 such as economic policies, financial crises, the art market and immigration.
 
-Time is simultaneously slowed down and sped up in Sarah Smuts Kennedyâ€™s 
-Principle of Hope, a stop-motion animation described by the artist as a â€˜poetic 
-drama of cause and effectâ€™ that documents the life cycle of six colonies of 
+Time is simultaneously slowed down and sped up in Sarah Smuts Kennedy’s 
+Principle of Hope, a stop-motion animation described by the artist as a ‘poetic 
+drama of cause and effect’ that documents the life cycle of six colonies of 
 chia seedlings, a rediscovered Aztec super food traded as currency and 
 banned by the colonising Spanish. Principle of Hope follows the utopian 
-impulse using the aesthetic strategy of modelling possible â€˜what ifâ€™ scenarios, 
+impulse using the aesthetic strategy of modelling possible ‘what if’ scenarios, 
 in this case the cause and effect implications current global economic policy 
 of growth has on resource use and demand.
 
@@ -57,7 +58,7 @@ experience. Cut flowers bring the essence of the outside inside, through the
 freshness of their blooms, but also the inevitable and necessary degradation 
 of their matter.
 
-Brad Tinmouthâ€™s sculpture, Tulipiere, is derived from his research on 
+Brad Tinmouth’s sculpture, Tulipiere, is derived from his research on 
 Tulipmania. Tulipmania was a brief period of time where Dutch tulip bulbs 
 fueled what is considered the world's first speculative economic bubble. 
 Tulips plagued by a colour breaking virus that caused vibrant streaks of 
@@ -68,13 +69,13 @@ wages of a skilled worker. As tulip price plateaued these contract holders
 found themselves holding highly inflated paper shares of still ungrown bulbs 
 and no clients willing to pay the over-inflated reseller's price. This caused a 
 major crash in the market leaving thousands with nothing but beautiful 
-â€˜brokenâ€™ tulips.
+‘broken’ tulips.
 
 Interestingly, because the price of tulips had risen to such heights, it became 
 such that it was much more affordable to purchase a painting of tulips than it 
 was to buy actual tulips, fueling the art market that resulted in the Golden Age 
 of Dutch painting. Two transmounted cibachrome prints from Christopher 
-Rodriguesâ€™ series of Still Lifes refer to the oil paintings of Dutch masters 
+Rodrigues’ series of Still Lifes refer to the oil paintings of Dutch masters 
 Coenraat Roepel (Still Life with Flowers, 1721) and Rachel Ruysch (Still Life 
 with Flowers on a Marble Tabletop, 1716). The cibachrome medium is an 
 additionally significant choice as the silver particles of the photograph echo 
@@ -84,7 +85,7 @@ painting while "borrowing" pixels of color from images found on the Internet
 using search engines and scanned from his own paintings; he entirely 
 absents the camera from the artistic process.
 
-Sean Alwardâ€™s work utilizes the inherent light sensitivity of plants in order to 
+Sean Alward’s work utilizes the inherent light sensitivity of plants in order to 
 make photo prints. In one body of work, leaf surfaces act as an analogue for 
 photographic paper and chlorophyll assumes the role of silver halide. For his 
 Double Invasive series, the artist took samples of English ivy and Norway 
@@ -120,7 +121,7 @@ graduated from York University. His work deals with sustainable and efficient
 systems. He aims to make everyone as happy as he is. Tinmouth is the Studio 
 Manager for Kent Monkman and was co-director of Butcher Gallery from 
 2009-2013. His work has been shown at Cooper Cole and Nuit Blanche in 
-Toronto, Pierre FranÃ§ois Ouellette art contemporain 221 in Montreal, Esam 
+Toronto, Pierre François Ouellette art contemporain 221 in Montreal, Esam 
 Caen in France, Preteen Gallery in Mexico and Dokfest in German. He has an 
 upcoming solo exhibition at OhMyDays Gallery in Singapore in the summer of 
 2014. http://bradtinmouth.com 

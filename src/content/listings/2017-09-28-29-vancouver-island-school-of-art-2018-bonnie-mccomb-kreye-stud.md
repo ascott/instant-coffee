@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 29
 type: "CALL"
+venue: "Vancouver Island School of Art"
 summary: "Vancouver Island School of Art | 2018 Bonnie McComb Kreye Studio Residency | NOV 1"
 ---
 

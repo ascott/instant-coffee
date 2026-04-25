@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 18
 type: ""
+venue: "The Crying Room Mural Projects"
 summary: "The Crying Room Mural Projects | Devon Knowles | until | MAY 31"
 ---
 

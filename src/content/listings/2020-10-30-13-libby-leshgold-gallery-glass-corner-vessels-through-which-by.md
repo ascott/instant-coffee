@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 13
 type: "OPENING"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Glass Corner | Vessel(s) through which by Dana Qaddah | NOV 7"
 ---
 

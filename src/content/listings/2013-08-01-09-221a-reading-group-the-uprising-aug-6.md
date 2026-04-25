@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 9
 type: ""
+venue: "221A"
 summary: "221A | Reading Group, The Uprising | AUG 6"
 ---
 

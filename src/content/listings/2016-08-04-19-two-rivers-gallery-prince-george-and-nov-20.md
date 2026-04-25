@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 19
 type: "CALL"
+venue: "Two Rivers Gallery (Prince George)"
 summary: "Two Rivers Gallery (Prince George) | \"AND...\" | NOV 20"
 ---
 

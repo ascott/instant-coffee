@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "MOA"
 summary: "MOA | Shame and Prejudice: A Story of Resilience | AUG 6"
 ---
 

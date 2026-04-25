@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 4
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Unstable Oscillation | 6-8PM | NOV 7"
 ---
 

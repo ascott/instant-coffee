@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 24
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Selection of Upcoming Events | OCT 1-6th | OCT 1"
 ---
 

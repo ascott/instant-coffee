@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 2
 type: ""
+venue: "Fillip"
 summary: "Fillip | Corinn Gerber of Passenger Books | JUN 4"
 ---
 

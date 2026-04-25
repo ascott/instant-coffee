@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 4
 type: "TALK"
+venue: "Branscombe House"
 summary: "Branscombe House | Paige Gratland | 7PM | JAN 24"
 ---
 

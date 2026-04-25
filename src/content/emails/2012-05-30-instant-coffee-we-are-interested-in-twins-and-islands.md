@@ -43,7 +43,7 @@ Purschwitz. Please join us on Thursday May 31st at 8pm at Access
 Gallery located at 222 East Georgia Street. The winner of the prize will be 
 announced at 8:30pm.
 
-Emerging Artistâ€™s Prize Exhibition, June 1 â€“ 16, 2012
+Emerging Artist’s Prize Exhibition, June 1 – 16, 2012
 Opening: Thursday May 31st 8pm till 10pm
 Access Gallery, 222 East Georgia Street, Vancouver
 Gallery hours: Tuesday-Saturday, 12-5PM
@@ -62,10 +62,10 @@ In 1991, then emerging Canadian filmmaker Bruce McDonald
 cemented his place in Canadian film history with his seminal road movie 
 HIGHWAY 61, inspiring a generation to pick up a camera and shoot. In 
 2012, four teams of emerging Vancouver-based filmmakers were given 
-a chance to reconsider the genre of road movies through CineworkÃ¢
-â‚¬â„¢s first ever short film contest. The result: four new short films 
+a chance to reconsider the genre of road movies through Cineworkâ
+€™s first ever short film contest. The result: four new short films 
 inspired by dialogue from HIGHWAY 61 plus a rare 35mm print 
-screening of MacDonaldÃ¢â‚¬â„¢s film. Celebrations continue with an 
+screening of MacDonaldâ€™s film. Celebrations continue with an 
 opportunity to meet the contest-winning filmmakers at the after-party.
 
 ADMISSION:
@@ -104,8 +104,8 @@ DRAW ON FILM
 
 -----------
 
-Jan Å vankmajer
-DuÅ¡an Vukot
+Jan Švankmajer
+Dušan Vukot
 Ub Iwerks
 Len Lye
 John Whitney
@@ -113,7 +113,7 @@ Hans Richter
 Norman Maclaren
 ++ many more!
 
-99Â¢ admission
+99¢ admission
 
 Thursday, May 31st
 9:00pm till Late
@@ -131,7 +131,7 @@ effect from May 17, 2012 to May 31, 2012, closing at 4:00 pm.
 of your email.
 Please be advised that effective August 13, 2012 to June 14, 2013,
 there is a temporary, full-time position for a Visual Arts Studio
-Technician â€“ Visual & Performing Arts. The hours of work will be
+Technician – Visual & Performing Arts. The hours of work will be
 Monday to Friday, 8:30 am to 4:30 pm, subject to change depending 
 upon
 departmental requirements.
@@ -218,7 +218,7 @@ Thompson Rivers University  900 McGill Road Kamloops, BC V2C 0C8
 Raqs Media Collective
 Primary Education of the Autodidact
 
-Window Project: June 1 â€“ Sept. 4, 2012
+Window Project: June 1 – Sept. 4, 2012
 Opening reception in the Audain Gallery: June 1, 6 PM
 
 Audain Gallery
@@ -263,7 +263,7 @@ Facebook: SFU Woodward's
 <a href="/instant-coffee/listings/2012-05-30-06-blanket-contemporary-art-inc-monique-mouton-sides-jun-1">06. BLANKET CONTEMPORARY ART INC | Monique Mouton : Sides | JUN 1</a>
 ------------------------------------------------------------------------
 Monique Mouton : Sides
-June 1 â€“ July 14, 2012
+June 1 – July 14, 2012
 Opening reception Friday June 1, 6-9 pm
 
 BLANKET CONTEMPORARY ART INC.
@@ -280,7 +280,7 @@ paintings by LA based artist Monique Mouton. This is her second solo
 show 
 with Blanket.
 
-Monique Moutonâ€™s new paintings present a deceptive form of 
+Monique Mouton’s new paintings present a deceptive form of 
 nonchalance. 
 There is a determined ambivalence to her brush strokes, and her hand 
 cut 
@@ -288,7 +288,7 @@ panels are a spare backdrop to the thinnest application of paint. On the
 wall, these paintings hover; an effect that draws the viewer not only to 
 the 
 face of the work, but to the side, to the back, and to the wall itself. 
-Moutonâ€™s paintings have always been a quiet declaration, but this new 
+Mouton’s paintings have always been a quiet declaration, but this new 
 body 
 of work brings something more intent, and multifold: the scale is 
 increased; 
@@ -318,7 +318,7 @@ For more information please contact the gallery.
 ------------------------------------------------------------------------
 Project Space
 222 E Georgia Street | Vancouver BC | V6A 1Z7 
-info@projectspace.ca | (604) 690Â·4164 
+info@projectspace.ca | (604) 690·4164 
 
 Music Album Meets Photo Album in Hard Drugs and Jeffry Lee's Party 
 Foreverer 
@@ -331,7 +331,7 @@ Exhibition: June 1 to July 7, 2012
 Project Space, 222 E Georgia St (at Main)
 No cover
 
-VANCOUVER, BC â€“ Project Space Press launches its first book, Party 
+VANCOUVER, BC – Project Space Press launches its first book, Party 
 Foreverer by Jeffry Lee and Hard Drugs, co-published by Karmazots 
 Press and The Storyboard Label. Part illustrated photo album and part 
 music album (via a digital download), the book captures a snapshot of 
@@ -348,7 +348,7 @@ time in New York City. Party Foreverer, in book format, offers not only a
 more elaborate memento to connect him with his past, but also an 
 opportunity to share this coming-of-age-like narrative with his friends, 
 fans and strangers: Artist moves from Vancouver to New York City to 
-cut his teeth in the world of art orâ€”as it turned outâ€”music. Makes life-
+cut his teeth in the world of art or—as it turned out—music. Makes life-
 long friends; is initiated into something bigger than himself through 
 collaboration with a new best friend, his wife, an idol from his youth, and 
 a friend from home who yo-yos between Vancouver and New York. 
@@ -378,7 +378,7 @@ from June 1st to July 7.
 For more information or to arrange media interviews, contact: 
 
 Tracy Stefanucci, Publisher/Editor, Project Space Press
-tracy@projectspace.ca | (604) 690Â·4164 
+tracy@projectspace.ca | (604) 690·4164 
 
 
 ------------------------------------------------------------------------
@@ -445,7 +445,7 @@ Please join us for a curator's tour with Louis-Alexandre Douesnard-
 Malo of Elegant Disorder: Perspectives on Porcelain, which features 
 contemporary artists Paul Mathieu, Sin-Ying Ho, Shelley Miller, 
 Elizabeth Zvonar and Brendan Tang. Elegant Disorder engages with 
-the history of porcelainâ€”in particular, contemporary expressions of the 
+the history of porcelain—in particular, contemporary expressions of the 
 blue-and-white motifs reminiscent of Chinese Ming Dynasty wares. With 
 more than a dozen works on display touching on pottery, sculpture and 
 photography, this exhibition joins new perspectives to familiar porcelain 
@@ -455,9 +455,9 @@ Refreshments provided. Visit our website for further information:
 www.satellitegallery.ca
 
 Satellite Gallery is an experimental exhibition space shared by three 
-arts institutionsâ€”Presentation House Gallery, Morris and Helen Belkin 
-Art Gallery (UBC), and the Museum of Anthropology (UBC)â€”and is a 
-Michael Oâ€™Brian Family Foundation project. 
+arts institutions—Presentation House Gallery, Morris and Helen Belkin 
+Art Gallery (UBC), and the Museum of Anthropology (UBC)—and is a 
+Michael O’Brian Family Foundation project. 
 
 
 ------------------------------------------------------------------------
@@ -493,19 +493,19 @@ London UK.
 ------------------------------------------------------------------------
 A Night of Poetry and Music for The Montreal Uprising
 
-Kootenay School of Writing and Rhizome CafÃ© present
+Kootenay School of Writing and Rhizome Café present
 
 A Night of Poetry and Music for The Montreal Uprising
-Friday June 8 @ Rhizome CafÃ© 317 E. Broadway
+Friday June 8 @ Rhizome Café 317 E. Broadway
 Vancouver, Unceded territories of the Musqueam, Squamish and Tsleil-
 Waututh people
 7pm sharp 
 
 As a writer's collective that was formed in 1984 in response to the 
 closure of accessible public education, KSW presents an evening of 
-poetry and music hosted by Rhizome CafÃ©, responding to the request 
+poetry and music hosted by Rhizome Café, responding to the request 
 for solidarity and support for the Legal Committee of the CLASSE, 
-whom the Montreal Gazette have dubbed â€œQuebecâ€™s most militant 
+whom the Montreal Gazette have dubbed “Quebec’s most militant 
 student groupâ€ .
 
 Featuring: The Vancouver Complaints Choir, Wayde Compton, Kim 
@@ -517,13 +517,13 @@ Danielle LaFrance, Patrick Morrison, Chris Ewart. And more!
 
 In their call for support. La Classe writes:
 
-â€œWe write you during a dark time for democratic, human and 
+“We write you during a dark time for democratic, human and 
 associative rights in Quebec with the following appeal for your help and 
 solidarity. As you have no doubt heard, the government recently 
 enacted legislation that amounts to the single biggest attack on the 
 right to organize and freedom of expression in North America since the 
 McCarthy period and the biggest attack on civil and democratic rights 
-since the enactment of the War Measures Act in 1970 [â€¦] While we 
+since the enactment of the War Measures Act in 1970 […] While we 
 fight, on principle, against this judicialization of a political conflict, we 
 have no choice but to acknowledge that the struggle on the streets has 
 been, for many, transferred to the courtroom and we must act to 
@@ -571,13 +571,13 @@ prohibitions is considered, legally, equivalent to having violated them
 and is equally punishable by these crippling fines.
 
 One cannot view this law in isolation. In the past few months, the 
-QuÃ©bec student movement - inspired by Occupy, the Indignados of 
+Québec student movement - inspired by Occupy, the Indignados of 
 Spain, the students of Chile, and over 50 years of student struggle in 
-QuÃ©bec; and presently at North America's forefront of fighting the 
+Québec; and presently at North America's forefront of fighting the 
 government's austerity agenda - has been confronted by precedent-
 shattering judicial and police repression in an attempt to force the end 
 of the strike and our right to organize collectively. Our strike was voted 
-and is re-voted every week in local general assemblies across QuÃ©bec. 
+and is re-voted every week in local general assemblies across Québec. 
 As of May 18th, 2012 our committee has documented and is supporting 
 472 criminal accusations as well as 1047 ticket and penal offenses. 
 One week in April saw over 600 arrests in three days. And those 
@@ -632,12 +632,12 @@ solidarity donations. We thank you for adding your organization's
 support to the list.
 
 If you have any questions, please contact us via email legal AT asse-
-solidaritÃ©.qc.ca. Telephone numbers can be given to you in a private 
+solidarité.qc.ca. Telephone numbers can be given to you in a private 
 message. You can also send you donation directly to the order of 
-"Association pour une solidaritÃ© syndicale Ã©tudiante" (2065 rue 
-Parthenais, Bureau 383, MontrÃ©al, QC, H2K 3T1)
+"Association pour une solidarité syndicale étudiante" (2065 rue 
+Parthenais, Bureau 383, Montréal, QC, H2K 3T1)
 
-The Kootenay School of Writing Â· 237 Keefer Â· Unit 245 Â· Vancouver, 
+The Kootenay School of Writing · 237 Keefer · Unit 245 · Vancouver, 
 BC V6A 1X6	
 
 
@@ -646,7 +646,7 @@ BC V6A 1X6
 <a href="/instant-coffee/listings/2012-05-30-12-winsor-gallery-richard-henriquez-jun-7">12. Winsor Gallery | Richard Henriquez | JUN 7</a>
 ------------------------------------------------------------------------
 Narrative Fragments: Richard Henriquez
-June 7 â€“ 30
+June 7 – 30
 Winsor Gallery
 Opening June 7 6-9pm
 
@@ -777,7 +777,7 @@ Vancouver is a city defined by its expanding and deepening
 connections with peoples and cultures from around the world. The 
 dynamic growth of immigrant populations reflects the wealth of 
 knowledge and experiences contained in the everyday life of the city. 
-To give students an opportunity to learn from Vancouverâ€™s diverse 
+To give students an opportunity to learn from Vancouver’s diverse 
 immigrant communities, the UBC Departments of Anthropology and 
 Sociology offer the Immigrant Vancouver Ethnographic Field School 
 (IVEFS). 
@@ -785,7 +785,7 @@ Sociology offer the Immigrant Vancouver Ethnographic Field School
 In his book "White Love," historian Vicente Rafael considers the 
 Tagalog word mahal as a translation of the word love. It refers to that 
 which is dear, but also means valuable and expensive. Rafael writes 
-that such ambiguities express love as a promise of fulfillment â€“ a costly 
+that such ambiguities express love as a promise of fulfillment – a costly 
 one. mahal explores the desires which carry the Filipina/o across 
 borders. 
 
@@ -808,7 +808,7 @@ cardboard box â€œfilledâ€  with gifts by Filipino im/migrants living and
 working abroad, and sent to family and friends in the Philippines. This 
 collaborative project builds upon narratives depicted in the short film, 
 produced by the UBC Ethnographic Film Unit and directed by Dada 
-Docot, Almira Walde-Renaud and Daniel Smartt, â€œBalikabayan: Return 
+Docot, Almira Walde-Renaud and Daniel Smartt, “Balikabayan: Return 
 to the Nationâ€  (http://vimeo.com/24159140). 
 
 The project, as part of the IVEFS coursework, endeavors to add to the 
@@ -826,7 +826,7 @@ Philippines. Essential to this project is the recording of the narratives
 behind the gifts. Who are the gifts' senders, and who are its recipients? 
 What can we unpack from these big boxes of gifts? Not to be treated 
 as objects of curiosities, we hope that this project will reveal to us 
-fragments of the intimate stories in migration â€“ stories which are often 
+fragments of the intimate stories in migration – stories which are often 
 ignored, when migrants are reduced to mere numbers and statistics. 
 
 The Vancouver component of the project collaborates with academic 
@@ -873,7 +873,7 @@ Saturday June 9, 2012
 Think you can't draw? Think again.
 
 Vancouver Draw Down is an annual, daylong celebration of drawing 
-that challenges every single Vancouveriteâ€”young and oldâ€”to dispel 
+that challenges every single Vancouverite—young and old—to dispel 
 their preconceptions about drawing, touch a pen to a piece of paper, 
 and make a mark. If you can write your name, you can draw!
 
@@ -962,7 +962,7 @@ for everyone, they're portraits like you've never seen. FREE
 
 Micro/Macro Drawing Lab at The Roundhouse - 11am-4pm
 The Roundhouse, 181 Roundhouse Mews, Vancouver
-Step inside Radix Theatreâ€™s Micro/Macro Drawing Lab to magnify worlds 
+Step inside Radix Theatre’s Micro/Macro Drawing Lab to magnify worlds 
 within worlds as you transform the tiny into the enormous. FREE
 
 Human and Animal Forms at MOA - 11am-4pm
@@ -978,7 +978,7 @@ of togetherness as you draw serious and silly portraits of each other.
 FREE
 
 The Face of our Community at ArtStarts - 12pm-4pm
-ArtStarts Gallery â€“ 808 Richards Street, Vancouver
+ArtStarts Gallery – 808 Richards Street, Vancouver
 Get "drawn in" to a collaborative window mural, participate in a still life 
 drawing activity with a twist, or doodle on the sidewalk chalk art mural. 
 FREE
@@ -1046,13 +1046,13 @@ expressing thoughts. It's a problem-solving tool, a brainstorming
 mechanism, a way to visualize outcomes and a means of creative 
 exchange. It's also a powerful communication device that transcends 
 barriers of language and literacy. The more you draw, the more detail 
-you see in your everyday lifeâ€”shadow, colour, shape, reflection, 
+you see in your everyday life—shadow, colour, shape, reflection, 
 texture.
 
 It's time to spark the right side of your brain and connect with the 
 innovative and imaginative recesses of your mind. This is about 
-process and pleasure, not about technical skill. That's why everyoneâ€”
-including YOUâ€”can participate! 
+process and pleasure, not about technical skill. That's why everyone—
+including YOU—can participate! 
 
 Media Contact: Kara Gibbs | vandrawdown@gmail.com | 604.644.6985 | 
 www.vancouverdrawdown.com
@@ -1075,7 +1075,7 @@ participants a once-in-a-lifetime opportunity to immerse themselves in
 the exclusive world of photographing the performing arts. Over the 
 course of this seven-day program, faculty will introduce methods of 
 photography for creative exploration, and participants will delight in The 
-Banff Centreâ€™s multi-faceted field work opportunities with our Dance, 
+Banff Centre’s multi-faceted field work opportunities with our Dance, 
 Theatre, Opera and Music performers.
 All participants are expected to bring digital cameras and their own 
 laptops with software for organizing their images. Upon application, a 
@@ -1104,7 +1104,7 @@ form/forum activated by the viewers/viewed blurring the boundaries
 between artist/audience, voyeur/exhibitionist, spectator/spectacle, and 
 consumer/consumed.
 
-Camera/whoreâ€™s name is appropriated from net culture. Popularized by 
+Camera/whore’s name is appropriated from net culture. Popularized by 
 the home webcam, â€œCamera whoreâ€  or â€œcam whoreâ€ , is an internet 
 slang developed by the rapid trend of digital representations. The slash 
 (/) is inserted to draw attention to the separation of both the camera 

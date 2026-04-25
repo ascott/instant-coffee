@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 4
 type: ""
+venue: "Club PuSh"
 summary: "Club PuSh | event listings | JAN 23"
 ---
 
@@ -68,7 +69,7 @@ sounds of the six- string lyre, or krar. Guaranteed to get you up out of
 your seat. Presented with Capilano University.
 
 RYEBERG LIVE
-January 26, 7pm, $25. The return of the online magazineÃ¢â‚¬â„¢s live 
+January 26, 7pm, $25. The return of the online magazineâ€™s live 
 presentation, where guests presents essays inspired by YouTube 
 videos. Speakers this year include authors Lee Henderson and 
 Zsuzsi Gartner, artist Vjeko Sager, and interdisciplinary media artist 
@@ -99,8 +100,8 @@ ABOUT THE PUSH FESTIVAL
 
 The PuSh International Performing Arts Festival is Vancouver's mid-
 winter festival presenting acclaimed local, national and international 
-artists. The 10th Anniversary PuSh Festival takes place January 14Ã¢
-â‚¬â€œFebruary 2, 2014 at venues in and around Vancouver and offers 
+artists. The 10th Anniversary PuSh Festival takes place January 14â
+€“February 2, 2014 at venues in and around Vancouver and offers 
 work from artists from around the globe. The Festival presents 
 groundbreaking work in the live performing arts with theatre, dance, 
 music, and various forms of multimedia and hybrid performance.

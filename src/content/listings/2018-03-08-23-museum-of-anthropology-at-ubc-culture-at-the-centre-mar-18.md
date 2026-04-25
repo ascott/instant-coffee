@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 23
 type: ""
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Culture at the Centre | MAR 18"
 ---
 

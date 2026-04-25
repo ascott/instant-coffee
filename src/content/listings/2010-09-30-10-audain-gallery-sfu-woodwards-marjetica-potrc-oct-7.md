@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 10
 type: ""
+venue: "Audain Gallery SFU Woodward's"
 summary: "Audain Gallery SFU Woodward's | Marjetica Potrc | OCT 7"
 ---
 
 Audain Gallery SFU Woodward's
 
-Audain Gallery SFU Woodwardâ€™s
+Audain Gallery SFU Woodward’s
 Hours: Tue.- Sat. 12pm-6pm
 www.audaingallery.ca
 Title Information Here
@@ -31,8 +32,8 @@ architectural case studies.
 Covering a range of places and scales, the exhibition The Making of New
 Territories and Communities draws upon the global phenomena of
 urbanization, as well as the restructured relationship to the rural. The
-exhibitionâ€”which features work done in the Amazon region of Brazil and
-Tirana in Albania, as well as Detroit, Amsterdam, and Prishtinaâ€”resonates
+exhibition—which features work done in the Amazon region of Brazil and
+Tirana in Albania, as well as Detroit, Amsterdam, and Prishtina—resonates
 with the specific context and situation in Vancouver and Canada where
 conceptions of territory and citizenship are highly contested.
 

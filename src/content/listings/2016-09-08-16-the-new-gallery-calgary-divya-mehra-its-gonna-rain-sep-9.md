@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 16
 type: "OPENING"
+venue: "The New Gallery (Calgary)"
 summary: "The New Gallery (Calgary) | Divya Mehra - It's Gonna Rain | SEP 9"
 ---
 

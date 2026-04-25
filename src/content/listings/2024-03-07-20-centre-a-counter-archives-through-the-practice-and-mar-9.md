@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 20
 type: ""
+venue: "Centre A"
 summary: "Centre A | Counter-Archives through the Practice and ,,, | MAR 9"
 ---
 

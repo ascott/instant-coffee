@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 33
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Dear Friends & | 730PM | OCT 3"
 ---
 

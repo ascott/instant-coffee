@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 55
 type: "CALL"
+venue: "Salt Spring National Art Prize"
 summary: "Salt Spring National Art Prize | CALL FOR ARTIST SUBMISSIONS | MAY 31"
 ---
 

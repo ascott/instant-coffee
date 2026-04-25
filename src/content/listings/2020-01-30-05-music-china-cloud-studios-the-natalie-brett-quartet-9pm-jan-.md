@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 5
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | China Cloud Studios | The Natalie Brett Quartet | 9PM | JAN 30"
 ---
 

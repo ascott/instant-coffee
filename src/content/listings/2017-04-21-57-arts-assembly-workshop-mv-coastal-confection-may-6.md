@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 57
 type: "EDUCATION"
+venue: "ARTS ASSEMBLY WORKSHOP"
 summary: "ARTS ASSEMBLY WORKSHOP | MV Coastal Confection | MAY 6"
 ---
 

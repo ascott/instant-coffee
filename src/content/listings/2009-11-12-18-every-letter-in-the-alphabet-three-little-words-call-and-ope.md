@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 18
 type: ""
+venue: "EVERY LETTER IN THE ALPHABET"
 summary: "EVERY LETTER IN THE ALPHABET | THREE LITTLE WORDS: Call and opening | NOV 20"
 ---
 

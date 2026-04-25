@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 39
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Ezra Gray | UNTIL APRIL 13 | APR 13"
 ---
 

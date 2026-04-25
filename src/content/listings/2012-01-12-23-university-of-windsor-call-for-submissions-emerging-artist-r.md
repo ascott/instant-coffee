@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 23
 type: ""
+venue: "University of Windsor"
 summary: "University of Windsor | Call for Submissions: Emerging Artist Residency | FEB 1"
 ---
 
 EXTENDED- Call for Submissions: Emerging Artist Research Residency 2012
 
-The University of Windsorâ€™s School of Visual Arts offers a one-month Emerging 
+The University of Windsor’s School of Visual Arts offers a one-month Emerging 
 Artist Research Residency program. This residency is an opportunity for 
 emerging artists to cultivate new ideas through research and production, access 
-the schoolâ€™s resources and facilities, and explore arts and culture in the border 
+the school’s resources and facilities, and explore arts and culture in the border 
 region of Windsor/ Detroit.
 
 Resources available include; Sculpture Studio and equipment, Multi media, 

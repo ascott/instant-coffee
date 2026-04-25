@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 1
 type: "CALL"
+venue: "Caetani Cultural Centre (VERNON)"
 summary: "Caetani Cultural Centre (VERNON) | Self-Directed Artist in Residence"
 ---
 

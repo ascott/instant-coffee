@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Get Social and Get Saved"
 emailDate: "Thu, 29 May 2008 07:35:09 -0700"
 number: 14
 type: ""
+venue: "Robson Reading Series"
 summary: "Robson Reading Series | Karen Houle and Rob Winger | JUN 3"
 ---
 

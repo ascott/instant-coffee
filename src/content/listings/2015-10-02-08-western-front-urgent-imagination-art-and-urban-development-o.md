@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 8
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | URGENT IMAGINATION: ART AND URBAN DEVELOPMENT | OCT 2"
 ---
 

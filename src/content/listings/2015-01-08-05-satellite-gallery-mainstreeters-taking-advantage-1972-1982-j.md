@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 5
 type: "OPENING"
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Mainstreeters: Taking Advantage, 1972-1982 | JAN 8"
 ---
 
 Mainstreeters: Taking Advantage, 1972 - 1982
 
-January 9â€”March 14, 2015
+January 9—March 14, 2015
 Opening Reception: January 8, 6 to 9pm
 
 Satellite Gallery, 560 Seymour Street, 2nd fl, Vancouver, 604-681-8425
@@ -18,17 +19,17 @@ Satellite Gallery launches a new exhibition that uncovers an
 under-recognized chapter of Vancouver art history. Mainstreeters: Taking
 Advantage, 1972-1982 is an exhibition, website and publication that shines
 a light on a self-identified collective of socially and artistically
-motivated men and women who came of age on Vancouver's Main Streetâ€”once the
+motivated men and women who came of age on Vancouver's Main Street—once the
 dividing line between a predominantly Anglo middle-class west side and a
 multicultural working-class east side.
 
-The Mainstreetersâ€”Kenneth Fletcher, Deborah Fong, Carol Hackett, Marlene
+The Mainstreeters—Kenneth Fletcher, Deborah Fong, Carol Hackett, Marlene
 MacGregor, Annastacia McDonald, Charles Rea, Jeanette Reinhardt and Paul
-Wongâ€”were an "art gang" who took advantage of the times, a new medium
+Wong—were an "art gang" who took advantage of the times, a new medium
 (video), and each other. Emerging from the end-stage hippie era, the gang
 drew from glam, punk and a thriving gay scene to become an important node
 in the local art scene. Their activities connect the influential
-interdisciplinary salon of Vancouverâ€™s Roy Kiyooka in the early 1960s with
+interdisciplinary salon of Vancouver’s Roy Kiyooka in the early 1960s with
 the collective-oriented social practices that have emerged worldwide in the
 early years of the 21st century. Like the current "digital natives"
 generation, the Mainstreeters were the first generation to grow up with

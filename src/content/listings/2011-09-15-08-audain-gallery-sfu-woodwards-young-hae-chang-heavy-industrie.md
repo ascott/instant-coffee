@@ -4,7 +4,8 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 8
 type: ""
-summary: "Audain Gallery SFU Woodwardâ€™s | YOUNG-HAE CHANG HEAVY INDUSTRIES | SEP 16"
+venue: "Audain Gallery SFU Woodward’s"
+summary: "Audain Gallery SFU Woodward’s | YOUNG-HAE CHANG HEAVY INDUSTRIES | SEP 16"
 ---
 
 Audain Gallery
@@ -33,12 +34,12 @@ title, presented over two exhibitions across both galleries, running from
 September 13 to November 5 at the Audain Gallery and from September 16 to 
 October 21at Centre A. A series of salons and talks by the artists, co-organized 
 by The Audain Gallery and Centre A, will also be scheduled in September during 
-the artistsâ€™ stay in Vancouver.
+the artists’ stay in Vancouver.
 
 At the Audain Gallery, THERE ARE NO PROBLEMS IN ART is a fast-moving, 
 text-based video work with a jazz score that contrasts the routine conflict and 
 struggle of daily existence with the seemingly unproblematic and easy life of an 
-artist. Done in the artistsâ€™ characteristically irreverent manner, that juxtaposition 
+artist. Done in the artists’ characteristically irreverent manner, that juxtaposition 
 is examined from the perspective of a narrator whose wry yet empathetic 
 musings paradoxically express both resigned corroboration and self-aware 
 critical inquiry.
@@ -51,7 +52,7 @@ the Centre Pompidou, Paris, and the New Museum, New York.
 
 Audain Gallery Hours: Tuesday to Saturday 12:00 to 6:00 PM
 
-Audain Gallery SFU Woodwardâ€™s
+Audain Gallery SFU Woodward’s
 Goldcorp Centre for the Arts
 149 West Hastings Street
 Vancouver, BC, Canada V6B 1H4
@@ -61,12 +62,12 @@ www.audaingallery.ca
 About the Audain Gallery
 
 The Audain Gallery serves as a vital aspect of the Visual Arts program at Simon 
-Fraser Universityâ€™s School for the Contemporary Arts. Its mission is to advance 
+Fraser University’s School for the Contemporary Arts. Its mission is to advance 
 the aesthetic and discursive production and presentation of contemporary visual 
 art through a responsive program of exhibitions in support of engaged pedagogy. 
 The Audain Gallery encourages conceptual and experimental projects that 
 explore the dialogue between the social and the cultural in contemporary artistic 
 practices. The Audain Visual Artists in Residence Program and student 
-exhibitions are central to the galleryâ€™s programming.
+exhibitions are central to the gallery’s programming.
 
 The Audain Gallery is curated by Sabine Bitter.

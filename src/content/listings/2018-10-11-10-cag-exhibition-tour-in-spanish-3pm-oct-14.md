@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 10
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in Spanish | 3PM | OCT 14"
 ---
 

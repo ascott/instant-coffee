@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 22
 type: "CALL"
+venue: "Performa"
 summary: "Performa | Call for 2014 Writers in Residence | APR 1"
 ---
 

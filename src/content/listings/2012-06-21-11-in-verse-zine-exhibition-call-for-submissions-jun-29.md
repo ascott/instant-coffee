@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 11
 type: ""
+venue: "IN-Verse: Zine Exhibition"
 summary: "IN-Verse: Zine Exhibition | CALL FOR SUBMISSIONS | JUN 29"
 ---
 
@@ -14,7 +15,7 @@ stories or small pieces of writing. The event will be hosted by Solder
 and Sons with the opening date scheduled for July and book screening 
 to continue throughout the summer months. 
 
-Submissions are open to all members of Vancouverâ€™s emerging 
+Submissions are open to all members of Vancouver’s emerging 
 creative community, but please remember that due to space limitations 
 we will only be able to accept a limited number of artists. 
 

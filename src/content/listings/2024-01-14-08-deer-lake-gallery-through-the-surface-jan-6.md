@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 8
 type: "EXHIBITION"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Through the Surface | JAN 6"
 ---
 

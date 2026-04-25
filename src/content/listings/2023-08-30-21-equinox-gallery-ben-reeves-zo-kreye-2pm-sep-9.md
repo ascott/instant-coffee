@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 21
 type: "OPENING"
+venue: "EQUINOX GALLERY"
 summary: "EQUINOX GALLERY | Ben Reeves & Zo Kreye | 2PM | SEP 9"
 ---
 

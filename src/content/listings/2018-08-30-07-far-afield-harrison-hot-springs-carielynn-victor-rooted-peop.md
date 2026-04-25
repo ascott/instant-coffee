@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 7
 type: "OPENING"
+venue: "Far Afield"
 summary: "Far Afield | HARRISON HOT SPRINGS | Carielynn Victor: Rooted People | SEP 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 35
 type: "CALL"
+venue: "Toronto"
 summary: "Toronto | SummerWorks Performance Festival 2017 | DEC 16"
 ---
 

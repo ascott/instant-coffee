@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Janitor, Genitals | FEB 22"
 ---
 

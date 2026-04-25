@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 32
 type: "OPENING"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | JASON MCLEAN | WALKIE TALKIE | 6-8PM | SEP 12"
 ---
 

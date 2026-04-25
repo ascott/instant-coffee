@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Bob Prittie Library Metrotown"
 summary: "Bob Prittie Library Metrotown | LYNDSAY POMERANTZ"
 ---
 

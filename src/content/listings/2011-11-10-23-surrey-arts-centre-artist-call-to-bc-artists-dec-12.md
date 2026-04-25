@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 23
 type: ""
+venue: "Surrey Arts Centre"
 summary: "Surrey Arts Centre | Artist Call (to BC artists) | DEC 12"
 ---
 

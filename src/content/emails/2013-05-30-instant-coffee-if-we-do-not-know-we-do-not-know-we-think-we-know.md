@@ -104,14 +104,14 @@ part will be performed as part of a whole, to take place in September
 
 According to Mark Epstein, from the Buddhist perspective the
 acceptance of the Whole as broken is the character of a realized
-being. There is a time in every artistâ€™s career where they feel like they
+being. There is a time in every artist’s career where they feel like they
 must know everything about the history of art in order to start making
 it. For filmmakers this is the time when they attempt to watch every
 movie ever made. At first, this pursuit seems possible but sooner or
 later the relentless amount of the material overwhelms us. For a
 moment there is despair at this great defeat. But then, the moment of
-freedom occurs when you realize that itâ€™s impossible know everything
-and this didnâ€™t stop the artists throughout history from making their
+freedom occurs when you realize that it’s impossible know everything
+and this didn’t stop the artists throughout history from making their
 work.
 
 How does this leap occur? In psychoanalysis it is through the
@@ -121,7 +121,7 @@ analysand with an enigmatic desire that keeps the analysand working,
 trying to discover what the analyst wants from him, they sooner or later
 realize that the desire can never be fulfilled and that they must be
 responsible for choosing their own course. This is the potential role of
-a teacher (or curator?) in art: to allow the artistsâ€™s own unique truth to
+a teacher (or curator?) in art: to allow the artists’s own unique truth to
 emerge that is absolutely different from their own.
 
 Isnâ€™t it this ability to â€œsuspend the critical faculty,â€ as recommended 
@@ -148,19 +148,19 @@ Free and Open to Public
 CARFAC National presents:
 Artists for Artists
 Mentorship, teaching strategies and other tools for visual artists
-May 31st â€“ June 2nd, 2013, Vancouver
+May 31st – June 2nd, 2013, Vancouver
 
 www.carfac.ca
 
 This spring visual artists from across Canada will meet in Vancouver
-for CARFAC Nationalâ€™s annual conference, Artists for Artists. Panels
+for CARFAC National’s annual conference, Artists for Artists. Panels
 will cover, tools for marketing yourself to schools, reclaiming traditional
 knowledge for indigenous communities, how artists can benefit from
 the knowledge of their peers through mentorship programs, and how
-the Artistâ€™s Resale Right would allow artists to share in the profits made
+the Artist’s Resale Right would allow artists to share in the profits made
 from their work if it comes to Canada. Mix and mingle with other artists
-at receptions celebrating CARFACâ€™s 45th Anniversary and the winner
-of this yearâ€™s Visual Arts Advocacy Award.
+at receptions celebrating CARFAC’s 45th Anniversary and the winner
+of this year’s Visual Arts Advocacy Award.
 
 Call for Nominations: CARFAC National Visual Arts Advocate Award
 
@@ -334,7 +334,7 @@ take place on Saturday June 1st 9:30am-5:30pm and Sunday June
 2nd, 2013 11am to 1:45pm at SFU Goldcorp Centre for the Arts 149
 West Hastings in Vancouver, BC.
 
-This year's LaConference title is â€œSixty years after Lacan: On the
+This year's LaConference title is “Sixty years after Lacan: On the
 Symbolic Order in the Twenty-First Centuryâ€ and gravitates around
 Lacanâ€™s â€œRome Discourse,â€ formally known as â€œThe Function 
 and Field
@@ -342,7 +342,7 @@ of Speech and Language in Psychoanalysisâ€ (1953) where Lacan
 proposed a return to the primacy of speech and language as the
 fundamental and irreducible concern of psychoanalysis. In this
 fashion, he restated the importance of the Symbolic in the emergence
-of the subjectâ€™s truth.
+of the subject’s truth.
 
 This conference will explore the status of the Symbolic in contemporary
 discursive practices and ask, how have the terms comprising Symbolic
@@ -358,8 +358,8 @@ Crystal Tongue curated by Amy Kazymerchyk
 Reception with cash bar
 
 Saturday June 1st 8-9:30pm
-Dr. Paul Verhaeghe on Louis Bourgeoisâ€™ Diaries at The Western Front
-as a part of Scrivenerâ€™s Monthly
+Dr. Paul Verhaeghe on Louis Bourgeois’ Diaries at The Western Front
+as a part of Scrivener’s Monthly
 Reception with cash bar to follow.
 
 Sunday June 2nd 4.00-6.00pm

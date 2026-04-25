@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 15
 type: ""
+venue: "Vivo Media Arts Centre"
 summary: "Vivo Media Arts Centre | Video Journalism Workshop | APR 28"
 ---
 

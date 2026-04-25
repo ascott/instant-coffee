@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 40
 type: "CALL"
+venue: "Joya: arte + ecología / AiR"
 summary: "Joya: arte + ecología / AiR | Call for Applications | OCT 6"
 ---
 

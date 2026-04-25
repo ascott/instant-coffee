@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 30
 type: "CALL"
+venue: "Winnipeg Arts Council"
 summary: "Winnipeg Arts Council | PUBLIC ART OPPORTUNITY: Kildonan Park Pond Lightin | OCT 25"
 ---
 

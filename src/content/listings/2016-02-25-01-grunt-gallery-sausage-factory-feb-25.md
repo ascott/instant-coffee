@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 1
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Sausage Factory | FEB 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: failure is out of the question"
 emailDate: "Wed, 02 Jul 2008 03:45:17 -0700"
 number: 7
 type: ""
+venue: "kuenstlerhaeuser"
 summary: "kuenstlerhaeuser | worpswede | 2009 Residency for Fine Arts and Sound | JUL 10"
 ---
 

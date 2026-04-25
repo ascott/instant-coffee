@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 45
 type: "TALK"
+venue: "Richmond City Hall"
 summary: "Richmond City Hall | Lulu Speakers Series | GERMAIN KOH: THE D.I.Y. CITY... | 7PM | MAY 10"
 ---
 

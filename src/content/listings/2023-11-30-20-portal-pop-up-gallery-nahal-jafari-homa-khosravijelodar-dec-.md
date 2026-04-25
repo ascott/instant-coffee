@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 20
 type: "EXHIBITION"
+venue: "Portal Pop Up Gallery"
 summary: "Portal Pop Up Gallery | Nahal Jafari + Homa Khosravijelodar | DEC 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 25
 type: "EVENT"
+venue: "Richmond Maritime Festival"
 summary: "Richmond Maritime Festival | AUG 24"
 ---
 

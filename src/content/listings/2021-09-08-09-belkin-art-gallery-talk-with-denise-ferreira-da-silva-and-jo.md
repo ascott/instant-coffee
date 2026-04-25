@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 9
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | TALK WITH DENISE FERREIRA DA SILVA AND JOL THOMS | SEP 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 21
 type: "EVENT"
+venue: "Bob Prittie Library"
 summary: "Bob Prittie Library | Damla Tamer CLOSING reception | 2PM | DEC 14"
 ---
 

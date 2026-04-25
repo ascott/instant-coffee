@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 25
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | KATE METTEN | 6-9PM | JAN 24"
 ---
 

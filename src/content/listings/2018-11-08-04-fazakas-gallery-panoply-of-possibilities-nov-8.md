@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 4
 type: ""
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Panoply of Possibilities | NOV 8"
 ---
 

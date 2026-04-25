@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 11
 type: ""
+venue: "VIVO Workshops"
 summary: "VIVO Workshops | CREATIVE ELECTRONICS: CIRCUIT BENDING | FEB 27"
 ---
 

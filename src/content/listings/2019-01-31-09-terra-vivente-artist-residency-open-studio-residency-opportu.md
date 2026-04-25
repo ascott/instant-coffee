@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 9
 type: "CALL"
+venue: "Terra Vivente Artist Residency"
 summary: "Terra Vivente Artist Residency | Open Studio Residency Opportunities in Italy | FEB 1"
 ---
 

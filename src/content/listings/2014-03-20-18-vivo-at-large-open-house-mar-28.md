@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 18
 type: ""
+venue: "VIVO AT LARGE"
 summary: "VIVO AT LARGE | OPEN HOUSE | MAR 28"
 ---
 

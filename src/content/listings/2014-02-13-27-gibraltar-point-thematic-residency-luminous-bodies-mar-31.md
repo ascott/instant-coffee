@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 27
 type: ""
+venue: "Gibraltar Point Thematic Residency"
 summary: "Gibraltar Point Thematic Residency | LUMINOUS BODIES | MAR 31"
 ---
 
@@ -11,7 +12,7 @@ LUMINOUS BODIES
 International Call / Gibraltar Point Thematic Residency
 Facilitator, Teresa Ascencao
 
-Program Dates: July 11 â€“ 25, 2014
+Program Dates: July 11 – 25, 2014
 Submission Deadline: March 31, 2014
 Cost including taxes: $975 (private bedroom) $700 (shared bedroom)
 Includes: accommodation, large shared studio, workshop facilitation, and an 
@@ -28,7 +29,7 @@ colonialism and social movements are explored for ideas in transgressing
 these forces. Residents work individually or collaboratively to create 
 artworks that reinvent the body through media of their choice, such as 
 photography, video, installation, drawing, performance art, new media etc. 
-Critiques of residentsâ€™ work in progress occur on a regular basis. There will 
+Critiques of residents’ work in progress occur on a regular basis. There will 
 be a closing exhibition of artworks created during the residency.
 
 Gibraltar Point offers rich potential for the creation of corporeal artworks 

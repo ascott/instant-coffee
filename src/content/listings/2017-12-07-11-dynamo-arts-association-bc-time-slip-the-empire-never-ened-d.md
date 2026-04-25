@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 11
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | BC Time-Slip: The Empire Never Ened | DEC 10"
 ---
 

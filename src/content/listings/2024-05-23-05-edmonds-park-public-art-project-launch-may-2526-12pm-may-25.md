@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 5
 type: "EVENT"
+venue: "Edmonds Park"
 summary: "Edmonds Park | public art project launch | May 25&26 | 12PM | MAY 25"
 ---
 

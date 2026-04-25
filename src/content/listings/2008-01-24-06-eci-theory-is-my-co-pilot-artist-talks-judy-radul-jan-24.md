@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 6
 type: ""
+venue: "ECI"
 summary: "ECI | Theory is my Co-Pilot:  Artist Talks: judy radul | JAN 24"
 ---
 

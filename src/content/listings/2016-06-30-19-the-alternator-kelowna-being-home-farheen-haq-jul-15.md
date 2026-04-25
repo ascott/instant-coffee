@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "The Alternator (Kelowna)"
 summary: "The Alternator (Kelowna) | Being Home - Farheen HaQ | JUL 15"
 ---
 

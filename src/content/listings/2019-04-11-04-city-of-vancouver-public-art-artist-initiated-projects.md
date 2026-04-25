@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 4
 type: "CALL"
+venue: "City of Vancouver Public Art"
 summary: "City of Vancouver Public Art | Artist-Initiated Projects"
 ---
 

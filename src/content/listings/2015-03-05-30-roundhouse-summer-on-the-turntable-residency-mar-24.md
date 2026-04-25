@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 30
 type: "CALL"
+venue: "Roundhouse"
 summary: "Roundhouse | Summer on the Turntable Residency | MAR 24"
 ---
 

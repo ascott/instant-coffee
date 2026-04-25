@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 23
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Many Visions, Many Versions: Art from Indigenous C | JAN 20"
 ---
 

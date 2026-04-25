@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 5
 type: ""
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | SKY GOODDEN talk and panel discussion | SEP 3"
 ---
 
@@ -20,8 +21,8 @@ Goodden presents a lecture on art publishing at a crucial moment, when its
 tone and presentation are undergoing significant renovations. She delivers
 a brief survey of art criticism in Canada and its impact on various
 conversations in our art history and current production, while bringing a
-focus to the pluralities of the genreâ€™s contemporary moment. She profiles
-criticismâ€™s latest incarnation in new media, and examines its potential
+focus to the pluralities of the genre’s contemporary moment. She profiles
+criticism’s latest incarnation in new media, and examines its potential
 value within a perpetually-shifting field. Goodden will then open the
 discussion up to a panel of West-Coast writers and publishers to survey the
 strengths and weaknesses of art criticism and publishing on the West Coast.

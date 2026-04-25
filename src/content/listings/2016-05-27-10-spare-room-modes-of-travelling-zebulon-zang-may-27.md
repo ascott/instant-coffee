@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 10
 type: "OPENING"
+venue: "SPARE ROOM"
 summary: "SPARE ROOM | Modes of Travelling - Zebulon Zang | MAY 27"
 ---
 

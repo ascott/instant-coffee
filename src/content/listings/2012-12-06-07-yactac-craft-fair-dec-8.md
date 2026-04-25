@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 7
 type: ""
+venue: "Yactac Craft Fair"
 summary: "Yactac Craft Fair | | DEC 8"
 ---
 
@@ -33,7 +34,7 @@ With goods ranging from publications, T-shirts, textiles, ceramics, dolls,
 baked goods and more by:
 
 Mitmunk Design http://mitmunk.com/
-Dennis Ha & Barry DoupÃ©
+Dennis Ha & Barry Doupé
 Justine and Janice Cheung
 Peggy and Karen Ngan
 And more.....

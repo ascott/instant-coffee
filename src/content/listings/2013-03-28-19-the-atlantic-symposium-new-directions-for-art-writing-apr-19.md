@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 19
 type: ""
+venue: "THE ATLANTIC SYMPOSIUM"
 summary: "THE ATLANTIC SYMPOSIUM | NEW DIRECTIONS FOR ART WRITING | APR 19"
 ---
 
 THE ATLANTIC SYMPOSIUM: NEW DIRECTIONS FOR ART WRITING
 
-April 19 â€“ 21, 2013
+April 19 – 21, 2013
 Halifax, Nova Scotia
 
 Tickets, registration and session information:
@@ -21,7 +22,7 @@ Windsor Foundation Lecture Theatre, Art Gallery of Nova Scotia
 Admission $5 / free for symposium registrants, students and the unwaged.
 
 Symposium on Art Writing
-Saturday April 20, 9:00 â€“ 4:30 pm
+Saturday April 20, 9:00 – 4:30 pm
 NSCAD University Drawing Studio, Room D241 at 5163 Duke Street
 
 Followed by a reception at The Khyber Centre for the Arts, 6-9 pm

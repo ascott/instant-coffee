@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 8
 type: "PERFORMANCE"
+venue: "The Boiler Room / B L A H"
 summary: "The Boiler Room / B L A H | Trauma Novelle THE PAST IS A JUNKYARD | 11PM | FEB 17"
 ---
 

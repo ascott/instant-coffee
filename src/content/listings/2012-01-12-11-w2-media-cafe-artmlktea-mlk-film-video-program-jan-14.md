@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 11
 type: ""
+venue: "W2 Media Cafe"
 summary: "W2 Media Cafe | ARTMLKTEA: MLK FILM & VIDEO PROGRAM | JAN 14"
 ---
 

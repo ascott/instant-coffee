@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 9
 type: ""
+venue: "Pacific Cinematheque & DIM"
 summary: "Pacific Cinematheque & DIM | Who is Bozo Texino? | SEP 4"
 ---
 

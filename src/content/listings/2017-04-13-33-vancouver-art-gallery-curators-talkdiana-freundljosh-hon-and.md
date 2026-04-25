@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 33
 type: "TALK"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Curator's Talk:Diana Freundl,Josh Hon and Gu Xiong | APR 25"
 ---
 

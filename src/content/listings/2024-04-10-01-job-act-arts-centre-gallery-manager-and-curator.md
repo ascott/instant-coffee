@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | ACT Arts Centre | Gallery Manager and Curator"
 ---
 

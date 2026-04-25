@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 12
 type: "EVENT"
+venue: "BEAT A PATH"
 summary: "BEAT A PATH | WALK AND EXHIBITION OPENING | JUL 29"
 ---
 

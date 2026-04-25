@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: our songs are better"
 emailDate: "Thu, 24 Sep 2009 09:00:25 -0700"
 number: 5
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Noah Becker, Adam Dood and Silvana Iriondo | SEP 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 49
 type: "CALL"
+venue: "Richmond City Hall Galleria"
 summary: "Richmond City Hall Galleria | Call for Submissions | NOV 7"
 ---
 

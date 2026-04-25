@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 28
 type: "TALK"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Carole Itter in conversation w/Krista Lomax | 2PM | JUL 7"
 ---
 

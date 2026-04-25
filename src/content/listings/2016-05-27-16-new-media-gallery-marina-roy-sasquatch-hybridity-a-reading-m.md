@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 16
 type: "TALK"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Marina Roy Sasquatch + Hybridity - A Reading | MAY 29"
 ---
 

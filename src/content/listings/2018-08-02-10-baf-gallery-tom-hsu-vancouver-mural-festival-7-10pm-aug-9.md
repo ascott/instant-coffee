@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 10
 type: "OPENING"
+venue: "BAF Gallery"
 summary: "BAF Gallery | Tom Hsu + Vancouver Mural Festival | 7-10PM | AUG 9"
 ---
 

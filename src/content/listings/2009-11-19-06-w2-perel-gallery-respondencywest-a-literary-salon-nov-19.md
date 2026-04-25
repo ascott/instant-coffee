@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 6
 type: ""
-summary: "W2 Perel Gallery | RespondencyWest* â€“ A Literary Salon | NOV 19"
+venue: "W2 Perel Gallery"
+summary: "W2 Perel Gallery | RespondencyWest* – A Literary Salon | NOV 19"
 ---
 
-RespondencyWest* â€“ A Literary Salon
+RespondencyWest* – A Literary Salon
 continues with
 * Oana Avasilichioaei on Steve Collis *
 
@@ -22,7 +23,7 @@ please confirm that you would like to register and provide us with a little
 background about yourself, your interests, and writers that you enjoy
 reading. Cost: $20-$30 (sliding) per registrant for all 8 sessions. We are
 open to all registrants and will not turn anyone away. If the cost is
-prohibitive please let us know. Also, please register even if you canâ€™t
+prohibitive please let us know. Also, please register even if you can’t
 make all the readings / lectures. (If unregistered admission = $5. )
 
 InfluencyWest is a unique lecture and reading salon modeled on the highly
@@ -66,12 +67,12 @@ Thursday, November 26th: Closing Session
 THE BOOKS BEING DISCUSSED
 
 Lan(d)guage: a sequence of poetics by Ken Belford. Caitlin (2008)
-Lisa Robertsonâ€™s Magneta Soul Whip by Lisa Robertson. Coach House Books (2009)
+Lisa Robertson’s Magneta Soul Whip by Lisa Robertson. Coach House Books (2009)
 Tube Sock Army by Kim Duff. LINE BOOKS (2008)
 sybil unrest. By Larisa Lai and Rita Wong. LINEbooks (2008)
 feria: a poempark by Oana Avasilchioaei. Wolsak & Wynn (2008)
 The Commons. Stephen Collis. Talon Books (2008)
-All these books can be purchased at the Peopleâ€™s Co-op Bookstore at 1391
+All these books can be purchased at the People’s Co-op Bookstore at 1391
 Commercial Drive, Vancouver, BC.
 
 AUTHOR BIOS
@@ -80,7 +81,7 @@ Oana Avasilichioaei is a poet and translator (French and Romanian). She has
 published two collections of poems, feria: a poempark (Wolsak & Wynn, 2008)
 and Abandon (Wolsak & Wynn, 2005), as well as a translation of Romanian
 poet Nichita Stănescu, Occupational Sickness (BuschekBooks, 2006). A
-collaborative, book-length work with ErÃ­n Moure, Expeditions of a ChimÃ¦ra,
+collaborative, book-length work with Erín Moure, Expeditions of a Chimæra,
 involving translational and authorial impossibilities is just out this fall
 (BookThug). She has given readings and talks on poetry and translation in
 Canada, USA, Mexico and Europe, and she was the founder and curator of the
@@ -89,13 +90,13 @@ currently the writer-in-residence at Green College, UBC.
 
 Stephen Collis is the author of four books of poetry, Mine (New Star 2001),
 Anarchive (New Star 2005), which was nominated for the Dorothy Livesay
-Poetry Prize, The Commons (Talonbooks 2008)â€”the latter two form parts of
+Poetry Prize, The Commons (Talonbooks 2008)—the latter two form parts of
 the on-going â€œBarricades Projectâ€ â€”and On the Material (Talonbooks 2010). He
 is also the author of two book-length studies, Phyllis Webb and the Common
 Good (Talonbooks 2007) and Through Words of Others: Susan Howe and
 Anarcho-Scholasticism (ELS Editions 2006). He is currently editing a
 collection of essays, Reading Duncan Reading, organizing the Charles Olson
-Centenary Conference (June 4-6 2010), and continuing to work on â€œThe
+Centenary Conference (June 4-6 2010), and continuing to work on “The
 Barricades Project.â€  A member of the Kootenay School of Writing, he teaches
 American literature, poetry, and poetics at Simon Fraser University.
 

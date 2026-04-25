@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cerulean blue cracks us up"
 emailDate: "Thu, 22 Apr 2010 12:14:58 -0700"
 number: 15
 type: ""
+venue: "UBC"
 summary: "UBC | \"Breathless Days: 1959 - 1960\" Conference | MAY 1"
 ---
 
@@ -51,9 +52,9 @@ open to the public.
 
 Other events taking place in association with the conference proceedings
 include:
-Ã¢ï¿½Â¢ Art exhibition "Breathless Days 1959-1960: A Chronotropic
+â�¢ Art exhibition "Breathless Days 1959-1960: A Chronotropic
 Experiment," at the Morris and Helen Belkin Art Gallery (April 16- June 2)
-Ã¢ï¿½Â¢ Film screening of Jean-Luc Godard's "A Bout de Souffle" (1960) and
+â�¢ Film screening of Jean-Luc Godard's "A Bout de Souffle" (1960) and
 Alfred Hitchcock's "Psycho" (1960) in their original 35mm format at Pacific
 Cinematheque (May 2 - 3, 7:00pm), http://www.cinematheque.bc.ca/
 Online collaborative project (2009-2010) open to the public,

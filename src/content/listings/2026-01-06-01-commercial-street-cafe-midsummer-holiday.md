@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Commercial Street Cafe"
 summary: "Commercial Street Cafe | Midsummer Holiday"
 ---
 

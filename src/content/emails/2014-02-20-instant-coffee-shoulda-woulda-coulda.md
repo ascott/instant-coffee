@@ -149,14 +149,14 @@ technical medium.
 At this time The Apartment will also present a small grouping of works by 
 New York artist B Wurtz. This is Bâ€™s third exhibition with the gallery.  
 Using a constrained palette of materials re-purposed from everyday life 
-Wurtzâ€™s art takes up the most American of modes, POP, to realize a critical 
+Wurtz’s art takes up the most American of modes, POP, to realize a critical 
 perspective that is aesthetically rarified while materially familiar. 
 Philosophically committed to a program of simple means his arts' fragile form 
 achieves a commanding presence, realizing a sound stature which is 
 inherently vulnerable.
-â€œMost of my works are fairly simple arrangements. It often takes a long time to 
-get them where I want, but sometimes itâ€™s just a matter of a minor tweak that 
-clinches it all. I donâ€™t want to obscure what the objects are. I like that there is 
+“Most of my works are fairly simple arrangements. It often takes a long time to 
+get them where I want, but sometimes it’s just a matter of a minor tweak that 
+clinches it all. I don’t want to obscure what the objects are. I like that there is 
 inherent meaning attached to them in terms of their use-value, but ultimately I 
 want the work to be formal, nearly classical.â€ [1]   B Wurtz has exhibited 
 extensively since graduating with a MFA from Cal Arts in 1980. He was 
@@ -167,7 +167,7 @@ Berlin (2013), Kate McGarry, London (2013), Metro Pictures, New York
 Rotterdamn (1999). Earlier this month Wurtz gave a talk at the Sculpture 
 Center in NY and will give a similar presentation on his practice, now over 40 
 years of art making, at the gallery on Saturday, February 22, 3pm.  
-[1] B Wurtz as told to Lauren Oâ€™Neill-Butler, B Wurtz, 500 words, 
+[1] B Wurtz as told to Lauren O’Neill-Butler, B Wurtz, 500 words, 
 (Artforum.com, 06.18.13)
 
 Hans Wendt New Paintings
@@ -279,7 +279,7 @@ Vancouver-based Laiwan and Toronto-based Xiaojing Yan, as well as
 Vancouver-based artist/curator Zheng Shengtian will discuss their work in 
 relation to the current exhibition (Da bao)(Takeout). The artist-panelists will 
 explore relationships between Canadian and Chinese art and artists, and will 
-share how the experience of having lived â€“ or having distant family roots â€“ in 
+share how the experience of having lived – or having distant family roots – in 
 China has influenced their artmaking. The conversation will be moderated by 
 Surrey Art Gallery Curator of Exhibitions and Collections, Jordan Strom. 
 
@@ -315,7 +315,7 @@ the only English-language journal on contemporary Chinese art. He is a
 founding member and has been a Board Director of the Vancouver 
 International Centre for Contemporary Asian Art since 1999. He has 
 presented his artwork internationally for several decades. His artistic 
-collaboration with Wang Dongling â€“ Guanshan Gathering â€“ is being presented 
+collaboration with Wang Dongling – Guanshan Gathering – is being presented 
 at the Chambers Gallery (New York) until February 22. As an independent 
 curator, Zheng has organized and curated numerous exhibitions including 
 Jiangnan: Modern and Contemporary Chinese Art (Vancouver), Shanghai 
@@ -447,14 +447,14 @@ http://www.magniborgehed.com/
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-20-09-museum-of-vancouver-rewilding-feb-27">09. Museum of Vancouver | Rewilding | FEB 27</a>
 ------------------------------------------------------------------------
-â€˜Rewildingâ€™ exhibition challenges our perception of what is natural to 
+‘Rewilding’ exhibition challenges our perception of what is natural to 
 Vancouver
 
 The Vancouver we know is more culturally attuned to and integrated with 
 nature than any city of a comparable size on earth. Despite this, our city has 
 dramatically transformed the natural environment. Opening February 27, 2014 
 at the Museum of Vancouver with presenting sponsor Pacific Salmon 
-Foundation, Rewilding Vancouver explores the cityâ€™s nature as it was, is, and 
+Foundation, Rewilding Vancouver explores the city’s nature as it was, is, and 
 could be. 
 
 The first major exhibition in Canada to explore our relationship with nature 
@@ -463,19 +463,19 @@ way of exploring the past to the forefront using Vancouver as the subject.
 The exhibition is comprised of taxidermy specimens, 3D models, 
 soundscapes, videos and photo interventions that challenge our perception 
 of what is natural to Vancouver. Visitors will discover a changing-of-the-
-guard when it comes to the regionâ€™s wildlife, with ravens, wolves and elk 
+guard when it comes to the region’s wildlife, with ravens, wolves and elk 
 fading as crows, coyotes and black-tailed deer settled in. Rewilding 
 Vancouver also challenges us to envision new streetscapes that feature 
 unearthed fish-bearing streams long hidden below city streets. A life-sized 
-creation of the now extinct Stellerâ€™s Sea Cow is one of many highlights of this 
+creation of the now extinct Steller’s Sea Cow is one of many highlights of this 
 exhibition.
 
-Rewilding Vancouverâ€™s core exhibition team includes MOV curator Viviane 
+Rewilding Vancouver’s core exhibition team includes MOV curator Viviane 
 Gosselin, designer Kevin McAllister and guest curator J.B. MacKinnon who is 
 co-author of 100-Mile Diet and author of the recently released The Once and 
 Future World, which served as inspiration for the exhibition.
 
-â€œAlmost everyone has experienced the loss of some treasured natural space 
+“Almost everyone has experienced the loss of some treasured natural space 
 â€” whether an entire forest or a simple vacant lot,â€  says MacKinnon. â€œThis 
 exhibition is a way to connect with that feeling, and also explore the unlimited 
 possibilities of melding the urban and wild.â€ 
@@ -484,16 +484,16 @@ In 2010, Vancouverites were mesmerized when a grey whale came for a
 swim in False Creek, and in 2013 we were equally awe-struck by a beaver 
 investigating the Olympic Village as a new potential home. Rewilding 
 Vancouver seeks to encourage people to discover what nature was like in 
-Vancouverâ€™s past, reconnect with nature as meaningful to their lives, and 
+Vancouver’s past, reconnect with nature as meaningful to their lives, and 
 engage with efforts to make the city a wilder place.
 
 â€œRewilding Vancouver is an exhibition of remembering,â€  explains J.B. 
-MacKinnon. â€œIt allows the public to reconnect with a forgotten history in order 
+MacKinnon. “It allows the public to reconnect with a forgotten history in order 
 to look at the present and the possible future with new eyes.â€ 
 
 Location: Museum of Vancouver: 1100 Chestnut Street, Vancouver, BC
 
-Dates & Times: February 27 â€“ September 1, 2014; Tuesday-Sunday 10am-
+Dates & Times: February 27 – September 1, 2014; Tuesday-Sunday 10am-
 5pm and Thursdays until 8pm.
 
 Admission: $8-12 (free to members).
@@ -524,8 +524,8 @@ opening reception on Friday February 28th at 7pm.
 <a href="/instant-coffee/listings/2014-02-20-11-gam-gallery-wish-you-were-here-feb-28">11. Gam Gallery | Wish You Were Here! | FEB 28</a>
 ------------------------------------------------------------------------
 Wish You Were Here!
-February 28 â€“ March 21, 2014 
-Opening Reception: February 28, 7:30 â€“ 11 pm
+February 28 – March 21, 2014 
+Opening Reception: February 28, 7:30 – 11 pm
 
 Gam Gallery
 110 E Hastings St., Vancouver BC
@@ -544,10 +544,10 @@ imagining our surroundings.
 
 The sculptures in Wish You Were Here! seek to preserve a moment in time. 
 The dioramas included in the exhibition are of places found within 
-Vancouverâ€™s rapidly developing and re-developing landscape documented by 
+Vancouver’s rapidly developing and re-developing landscape documented by 
 the artist and made into miniature form. The resulting work depicts scenes 
 that may or may not still exist, standing as a record of the continuously 
-changing cityscape. As Susan Stewart claims in her book On Longing, â€œWe 
+changing cityscape. As Susan Stewart claims in her book On Longing, “We 
 ﬁnd the miniature at the origin of private, individual history, but we ﬁnd the 
 gigantic at the origin of public and natural history.â€  The works in the exhibition 
 oscillate between allusion and deﬁnition, souvenir and model, and the 
@@ -558,7 +558,7 @@ civic identity, the perspectives of and relationship between the tourist and
 local, as well as the value we place on certain landscapes over others. The 
 proximity and tenuous relationship between culture and nature in the specific 
 context of Vancouver provides a fascinating hub of contradictions that 
-inspire McNeilâ€™s artistic practice and desire to study the urban pastoral 
+inspire McNeil’s artistic practice and desire to study the urban pastoral 
 through the medium of miniature sculpture.
 
 ---
@@ -578,7 +578,7 @@ Estonian Printing Museum.
 SCRIVENER'S MONTHLY: ARIANA REINES
 February 28, 2014 @ 8:00pm
 Western Front
-Scrivenerâ€™s Monthly is pleased to present an evening with New York poet, 
+Scrivener’s Monthly is pleased to present an evening with New York poet, 
 playwright and translator Ariana Reines. For her first presentation in 
 Vancouver, she will likely read from her most recent book of poems, Mercury 
 (Fence Books, 2011).
@@ -588,9 +588,9 @@ This is the last scheduled Scrivener's Monthly - don't miss it!
 Ariana Reines has published several books of poetry including Coeur de Lion 
 (Mal-O-Mar, 2007; FenceBooks, 2011) and The Cow (Fence Books, 2006), 
 and her play Telephone produced by The Foundry Theatre in 2009 received 
-two Obie Awards. She has translated Tiqqunâ€™s Preliminary Materials For a 
+two Obie Awards. She has translated Tiqqun’s Preliminary Materials For a 
 Theory of the Young-Girl (Semiotext(e), 2012), The Little Black Book of 
-GrisÃ©lidis RÃ©al: Days and Nights of an Anarchist Whore by Jean-Luc Hennig 
+Grisélidis Réal: Days and Nights of an Anarchist Whore by Jean-Luc Hennig 
 (Semiotext(e), 2009), and MY HEART LAID BARE by Charles Baudelaire (Mal-
 O-Mar, 2009).
 
@@ -610,7 +610,7 @@ H. Tuesday - Saturday 12-5pm
 Vancouver, Crawling, Weeping, Betting
 
 continuing until March 1, 2014
-Battery Opera PerformanceWalking Projects : â€œVancouver, crawling, 
+Battery Opera PerformanceWalking Projects : “Vancouver, crawling, 
 weeping, bettingâ€  is a co-presentation by UNIT/PITT and battery opera 
 performance, comprising six weeks of public actions, clandestine 
 screenings, chance meetings, and intoxicated psychogeographies.
@@ -640,20 +640,20 @@ through March 1, unpredictable and beguiling walking tours of the city
 originate from UNIT/PITT. (Complete schedule information is below.) Admission 
 to all events is free.
 
-Thursdays: 11:30pm â€“ 12:30 am Witching hour solos (viewable from the 
+Thursdays: 11:30pm – 12:30 am Witching hour solos (viewable from the 
 street through live projections on windows)
-Fridays: 10pm â€“ midnight Bobâ€™s Salon (interactive art salon for the curious 
+Fridays: 10pm – midnight Bob’s Salon (interactive art salon for the curious 
 imbiber, featuring guest artists)
-Saturdays: 12 â€“ 5 pm Guided improvised tours of the city by six performers, 
-based on Bose and McIntoshâ€™s stories and maps. (first come, first tour).
+Saturdays: 12 – 5 pm Guided improvised tours of the city by six performers, 
+based on Bose and McIntosh’s stories and maps. (first come, first tour).
 Performance Schedule
 
 (all events begin at Unit Pitt Projects, 236 East Pender Street, Vancouver)
 
-Thursday Feb 13, 11:30pm â€“ 12:30 am Witching hour solo
+Thursday Feb 13, 11:30pm – 12:30 am Witching hour solo
 
 Cease Wyss
-Friday Feb 14, 10pm â€“ 12 midnight Bobâ€™s Salon
+Friday Feb 14, 10pm – 12 midnight Bob’s Salon
 
 Dance: Justine Chambers and cohorts
 Music: Ben Brown and cohorts
@@ -663,10 +663,10 @@ Saturday Feb 15, Guided improvised tours of the city
 
 Brian Solomon, Pedro Chamale, Michelle Lui, Aryo Khakpour, Chu-Lynne Ng, 
 Maxine Chadburn.
-Thursday Feb 20, 11:30pm â€“ 12:30 am Witching hour solo
+Thursday Feb 20, 11:30pm – 12:30 am Witching hour solo
 
 Daina Ashbee
-Friday Feb 21, 10pm â€“ 12 midnight Bobâ€™s Salon
+Friday Feb 21, 10pm – 12 midnight Bob’s Salon
 
 Dance: Daina Ashbee, Diego Romero and cohort
 Music: Max Murphy, Ben Brown, Russel Scholburg
@@ -676,10 +676,10 @@ Saturday Feb 22, Guided improvised tours of the city
 
 Brian Solomon, Pedro Chamale, Michelle Lui, Aryo Khakpour, Chu-Lynne Ng, 
 Maxine Chadburn.
-Thursday 27, 11:30pm â€“ 12:30 am Witching hour solo
+Thursday 27, 11:30pm – 12:30 am Witching hour solo
 
 Chris Bose
-Friday Feb 28, 10pm â€“ 12 midnight Bobâ€™s Salon
+Friday Feb 28, 10pm – 12 midnight Bob’s Salon
 
 Dance: Arash Khakpour and cohorts
 Music: Max Murphy, Joel Lower, Gary Wildeman, Bruce Freedman
@@ -706,11 +706,11 @@ tours, late night improvised art salons and witching hour solos, will enable
 guest artists, citizens and visitors to respond, react or ignore the reflected 
 world of Bose and McIntosh. Bring your ghosts, bring your body, have a drink 
 and take your chances. Join the conversation about this city, your place, our 
-past and its spirits â€“ both the ones that stubbornly linger, and the ones that 
+past and its spirits – both the ones that stubbornly linger, and the ones that 
 enable forgetting.
 
-Chris Bose is a war party baby of the Nâ€™Lakaâ€™Pamux and the Secwepmec 
-Nations (they hooked-up at St. Georgeâ€™s residential school in Lytton). He is a 
+Chris Bose is a war party baby of the N’Laka’Pamux and the Secwepmec 
+Nations (they hooked-up at St. George’s residential school in Lytton). He is a 
 writer, artist, musician, filmmaker and a Scoundrel.
 
 David McIntosh is a settler party baby of a White-Man and a White-Lady (they 
@@ -782,7 +782,7 @@ Marrow, Jan Pfeiffer and Jerry Zaslove, moderated by Samir Gandesha.
 
 Considering the complex and far-reaching implications of the exhibition of 
 Marat Sade Bohnice in the unique context of Vancouver, the panel will 
-address topics including Peter Weissâ€™ life and practice, the Foucauldian 
+address topics including Peter Weiss’ life and practice, the Foucauldian 
 themes of madness and the carceral, the histories of de-institutionalization 
 and mental health reform in British Columbia and elsewhere, shifting notions 
 of human rights and citizenship, and the critical value of cultural intervention 
@@ -838,7 +838,7 @@ Gallery Assistant
 Audain Gallery 
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102 
 E: audaingallery@sfu.ca
@@ -850,13 +850,13 @@ W: www.sfugalleries.ca
 ------------------------------------------------------------------------
 
 
-The works in the exhibition continue Mahonâ€™s artistic investigations involving 
+The works in the exhibition continue Mahon’s artistic investigations involving 
 built structures, decorative and analytical patterns, and tropes that make 
 reference to human connections to shifting social and environmental 
 conditions. Printed stick drawings and relief sculptures based on images of 
 shipwrecks are depicted within malleable arrangements to allude to the 
 complexity of the relationship between people, nature, and the environment. 
-The graphic details on the sticks are drawn from Hogarthâ€™s socially critical 
+The graphic details on the sticks are drawn from Hogarth’s socially critical 
 engravings and serve to embellish a set of highly abstracted hulks that make 
 nominal reference to boat structures in disarray.
 
@@ -865,10 +865,10 @@ faculty member in Visual Arts at Western University, London, ON, since 1995.
 His work includes print-based projects that engage with historical and 
 contemporary aspects of printmaking, and involves responding to gallery and 
 museum collections as well as establishing community-based art initiatives. 
-Mahonâ€™s artwork has been exhibited widely including, in Canada, at Museum 
+Mahon’s artwork has been exhibited widely including, in Canada, at Museum 
 London, The Art Gallery of Hamilton, the Southern Alberta Art Gallery and 
 Kamloops Art Gallery, and internationally at the Sichuan Fine Arts Institute in 
-Chongqing, China, in 2005, and in BarthÃ¨te (Toulouse), France in 2011.
+Chongqing, China, in 2005, and in Barthète (Toulouse), France in 2011.
 
 Malaspina Printmakers
 1555 Duranleau Street
@@ -887,13 +887,13 @@ AN ORANGE COUNTY DINNER with Henry Tsang
 Centre A is pleased to announce its first artist curated dinner party of 2014.
 
 On Saturday March 8, 
-Centre A will host artist Henry Tsangâ€™s Orange County Dinner. Join us for a 
+Centre A will host artist Henry Tsang’s Orange County Dinner. Join us for a 
 very special evening with Henry Tsang, who has selected two guest 
 speakers, urban planner Andy Yan and poet Gerry Shikatani, and featuring 
 thematic cuisine by Chefs Wesley Young and Jacob Deacon-Evans.
 
 As part of the exhibition Follow Suit, this intimate dinner will take place in the 
-midst of Tsangâ€™s artwork Orange County, a four screen video installation, 
+midst of Tsang’s artwork Orange County, a four screen video installation, 
 depicting Tsang moving seamlessly between two uncannily similar 
 neighbourhoods on opposite sides of the globe. One is set in Orange County, 
 California and the other, Ju Jun, a gated community on the outskirts of Beijing 
@@ -910,7 +910,7 @@ about his research in real estate speculation and non-resident real estate
 ownership and its effect on community, contributing to what he terms an 
 â€œinsecurity of belongingâ€ .
 
-The eveningâ€™s program will also include a talk on taste and cultural space by 
+The evening’s program will also include a talk on taste and cultural space by 
 Gerry Shikatani, whose poetry, fiction, text-sound performance, and 
 experimental films have been published and presented internationally. He has 
 been dining critic for the Toronto Star, and his culinary criticism has appeared 
@@ -918,14 +918,14 @@ in Saveur, Toronto Life and The Globe and Mail. Shikatani is currently based in
 Ontario where he is actively mentoring and coaching writers.
 
 Wesley Young is Executive Chef of acclaimed Wildebeest restaurant and 
-has worked with some of the worldâ€™s top restaurants including, in 
-Vancouver, C Restaurant and West. Youngâ€™s family has been a part of 
+has worked with some of the world’s top restaurants including, in 
+Vancouver, C Restaurant and West. Young’s family has been a part of 
 Vancouver and BC life since the mid-1800s.
 
 Jacob Deacon-Evans is an independent chef and educator with a 
-specialization in farm-to-table cuisine. Raised in Naramata in BCâ€™s Okanagan 
-region, he has worked at some of Vancouverâ€™s top restaurants including 
-Wildebeest, Burdock, Harvest and Bishopâ€™s, as well as on various urban 
+specialization in farm-to-table cuisine. Raised in Naramata in BC’s Okanagan 
+region, he has worked at some of Vancouver’s top restaurants including 
+Wildebeest, Burdock, Harvest and Bishop’s, as well as on various urban 
 farming and food security initiatives.
 
 Tickets are $40 for members, $60 for non-members (but includes a year 
@@ -985,9 +985,9 @@ MARCO / Frac Lorraine / SFKM
 Deadline for the presentation of the projects: Friday March 14th, 2014
 Decision of the jury: May 2014
 
-MARCO, Museo de Arte ContemporÃ¡nea de Vigo, SPAIN; 49 Nord 6 Est â€“ 
-FRAC Lorraine, Metz (Fonds rÃ©gional dâ€™art contemporain de 
-Lorraine),FRANCE; and Sogn og Fjordane Kunstmuseum (SFKM), FÃ¸rde, 
+MARCO, Museo de Arte Contemporánea de Vigo, SPAIN; 49 Nord 6 Est – 
+FRAC Lorraine, Metz (Fonds régional d’art contemporain de 
+Lorraine),FRANCE; and Sogn og Fjordane Kunstmuseum (SFKM), Førde, 
 NORWAY, organize the 2014 edition of their Award.
 All curators born in 1974 and later are eligible to enter the competition.
 
@@ -1005,12 +1005,12 @@ reflection regarding the treated topic. The originality of the proposed thesis o
 research, the pertinence of the suggested references, and the 
 multidisciplinarity will be key in the selection of the award winner
 
-The curator of the winning project will receive the sum of 6,500 â‚¬, tax 
+The curator of the winning project will receive the sum of 6,500 €, tax 
 included, as an honorarium. His/her travel expenses (for the residencies and 
 installation periods in the three institutions) will be reimburse upon 
-presentation of appropriate supporting documents, up to 5,000 â‚¬, including 
+presentation of appropriate supporting documents, up to 5,000 €, including 
 taxes. 
-The winning project will have a maximum budget of 20,000 â‚¬ for each venue. 
+The winning project will have a maximum budget of 20,000 € for each venue. 
 It will open in 2015.
 
 The deadline for the presentation of the projects is Friday, March 14, at 
@@ -1030,11 +1030,11 @@ MARCO and SFKM.
 The jury will select the winning project in May 2014. Its decision will be made 
 public before May 15th, 2014, and all participants will be notified by email.
 
-To go further, download the comprehensive awardâ€™s rules !
+To go further, download the comprehensive award’s rules !
 
 DOWNLOADS
 
-The comprehensive awardâ€™s rules
+The comprehensive award’s rules
 
 English
 
@@ -1049,7 +1049,7 @@ SFKM http://www.fraclorraine.org/media/pdf/SFKM_plans.pdf
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-02-20-20-richmond-quintet-development-public-art-project-call-mar-26">20. Richmond | Quintet Development Public Art Project: call | MAR 26</a>
 ------------------------------------------------------------------------
-Quintet Development Public Art Project â€“ Request for Qualifications
+Quintet Development Public Art Project – Request for Qualifications
 
 This Request for Qualifications (RFQ) invites artists and artist teams to 
 consider the notion of multiple communities. What constitutes the coming 
@@ -1070,7 +1070,7 @@ Eligibility: Canadian Residents
 Deadline for Submissions: March 26, 2014, 5:00pm
 
 All information about the project is contained in the PDF Terms of Reference 
-document accessible from our â€˜Call to Artistsâ€™ webpage: 
+document accessible from our ‘Call to Artists’ webpage: 
 http://www.richmond.ca/culture/publicart/opportunities.htm
 
 Questions? Contact: publicart@richmond.ca
@@ -1080,7 +1080,7 @@ Questions? Contact: publicart@richmond.ca
 ------------------------------------------------------------------------
 Digifest 2014 Offsite Installations - Call for Participation
 
-Digifest, Canadaâ€™s international festival celebrating digital creativity, is proud 
+Digifest, Canada’s international festival celebrating digital creativity, is proud 
 to announce a unique opportunity for galleries, artists and designers to 
 participate in the first Digifest offsite exhibitions series. Projects that engage 
 with digital culture will be featured, inspiring us to think about how technology 
@@ -1216,14 +1216,14 @@ of art (here we might think of Paleolithic cave paintings or Medieval frescoes)
 the designation â€œPublic Artâ€  was coined in the late 1960s. Art historian 
 Rosalind Krauss recognized the need for a new terminology for sculpture 
 that had moved off the pedestal, into the gallery and out into the environment. 
-This relaxing of artâ€™s limits has generated new categories of art that operate 
+This relaxing of art’s limits has generated new categories of art that operate 
 within an ever expanding and interdisciplinary field.
 
 You are invited in this essay to consider the practices of Public Art and how 
 they speak directly to our experience at UBC. What is the nature and 
 possibility of communal engagement, identity formation, social functions of art, 
 and the importance of site-specificity? What significance is generated by 
-UBCâ€™s Outdoor Art Collection for a particular audience(s), and based on what 
+UBC’s Outdoor Art Collection for a particular audience(s), and based on what 
 type of experiences? If the meaning of a public artwork shifts in relation to 
 space and social context, how might we imagine the future of Public Art at 
 UBC and its role in creating a sense of place and community on our campus?
@@ -1243,7 +1243,7 @@ and artists on campus, or download the self-guided walking tour.
 
 For more information contact: Shelly Rosenblum, tel: 604-827-3287, 
 shelly.rosenblum@ubc.ca
-â€”
+—
 
 For further information please contact: Jana Tyner at jana.tyner@ubc.ca, 
 tel: (604) 822-1389, or fax: (604) 822-6689
@@ -1269,7 +1269,7 @@ Canada and one of only two on the West Coast. In 2014 the event is
 anticipated to attract over 1,500 visitors from across the Greater Vancouver 
 Area and beyond.
 
-Presented by Project Space, VA/BF is a two-day festival of artistsâ€™ publishing 
+Presented by Project Space, VA/BF is a two-day festival of artists’ publishing 
 featuring nearly one hundred local, national and international publishers, as 
 well as a diverse line-up of programs, performances and installations. 
 Featured artists travel to Vancouver from across Canada and the globe, and 
@@ -1286,7 +1286,7 @@ at the Vancouver Art Gallery
 
 Members Only Preview: Friday, October 3, 2014
 
-Satellite events will take place as part of Artistsâ€™ Books Week (September 29 
+Satellite events will take place as part of Artists’ Books Week (September 29 
 to October 5, 2014), a series of programs hosted by local publishers, 
 curators and artist-run centres across Vancouver. This year, the Fair will 
 also coincide with the Vancouver Book Fair, taking place next door at UBC 
@@ -1294,11 +1294,11 @@ Robson Square, which features collectible, antiquarian and rare books.
 
 Registration Details:
 
-Â· All registrations are for both days of the Fair
+· All registrations are for both days of the Fair
 
-Â· Tables are approximately 3' x 6'
+· Tables are approximately 3' x 6'
 
-Â· Full tables are $250 CDN and half tables are $150 CDN; however, a 
+· Full tables are $250 CDN and half tables are $150 CDN; however, a 
 limited number of sponsored tables are available to those who must travel a 
 great distance or who have other special limitations. To apply for a 
 sponsored table, please contact sean@vancouverartbookfair.com. 

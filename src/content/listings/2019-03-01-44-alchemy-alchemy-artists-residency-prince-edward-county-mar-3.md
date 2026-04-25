@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 44
 type: "CALL"
+venue: "ALCHEMY"
 summary: "ALCHEMY | Alchemy Artists Residency, Prince Edward County | MAR 30"
 ---
 

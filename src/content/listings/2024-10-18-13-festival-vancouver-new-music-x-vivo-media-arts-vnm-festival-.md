@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 13
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Vancouver New Music x VIVO Media Arts | VNM Festival: PROPULSION | OCT 17"
 ---
 

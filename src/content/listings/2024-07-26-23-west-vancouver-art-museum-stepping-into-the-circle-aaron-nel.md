@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Stepping into the Circle: Aaron Nelson-Moody / Taw | JUL 31"
 ---
 

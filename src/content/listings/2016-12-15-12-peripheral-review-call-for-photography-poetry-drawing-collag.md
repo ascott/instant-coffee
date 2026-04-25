@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 12
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Photography, Poetry, Drawing, Collage | DEC 20"
 ---
 

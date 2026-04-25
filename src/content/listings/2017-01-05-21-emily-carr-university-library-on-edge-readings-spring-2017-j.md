@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 21
 type: "EVENT"
+venue: "Emily Carr University Library"
 summary: "Emily Carr University Library | On Edge Readings Spring 2017 | JAN 19"
 ---
 

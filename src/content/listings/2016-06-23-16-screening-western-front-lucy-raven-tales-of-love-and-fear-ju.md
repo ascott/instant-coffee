@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front | Lucy Raven: Tales of Love and Fear | JUN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 38
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Found Word Poetry with Gabi Dao | 12-3PM | NOV 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 39
 type: "CALL"
+venue: "Vancouver Heritage Foundation"
 summary: "Vancouver Heritage Foundation | THE WALL | APR 21"
 ---
 

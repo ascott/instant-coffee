@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 1
 type: "EDUCATION"
+venue: "Nikkei Museul & Cultural Centre"
 summary: "Nikkei Museul & Cultural Centre | Summer Manga Camp for Kids"
 ---
 

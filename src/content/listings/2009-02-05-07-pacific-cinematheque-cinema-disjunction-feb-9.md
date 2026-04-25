@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: How Now Is Too Soon"
 emailDate: "Thu, 05 Feb 2009 09:30:10 -0800"
 number: 7
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | Cinema & Disjunction | FEB 9"
 ---
 
@@ -67,10 +68,10 @@ __
 Feb 24 09 | Cineworks | 6pm | Free | cineworks.ca
 Thought on Film: The Condition of Post-modernity
 An excerpt from David Harvey's The Condition of Post-modernity will be
-presented for group reading and discussion. HarveyÃ¢ï¿½ï¿½s answer to Fred
+presented for group reading and discussion. Harveyâ��s answer to Fred
 JamesonÃ¢ï¿½ï¿½s Cultural Logic of Late Capitalism, and Jean-FranÃ&#65533;Â§ois LyotardÃ¢ï¿½ï¿½s
 The Postmodern Condition is a significant influence on Young, Giroux and
-BlackwellÃ¢ï¿½ï¿½s work because of HarveyÃ¢ï¿½ï¿½s rigorous basis of his analysis of
+Blackwellâ��s work because of Harveyâ��s rigorous basis of his analysis of
 cultural and social change in the economic and his special emphasis on
 social geography and the production of space.
 ________

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 5
 type: "OPENING"
+venue: "YouKnowArts Gallery"
 summary: "YouKnowArts Gallery | The Circle of Life | 2PM | MAR 9"
 ---
 

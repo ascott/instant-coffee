@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 11
 type: ""
+venue: "BLIM"
 summary: "BLIM | Monthly Community Market | FEB 27"
 ---
 
 Blim Monthly Community Market
 
-Sunday February 27 | 12 ï¿½ 5 PM | By donation
+Sunday February 27 | 12 � 5 PM | By donation
 @ Heritage Hall (Main St. and 15th Ave.)
 
 Hours:

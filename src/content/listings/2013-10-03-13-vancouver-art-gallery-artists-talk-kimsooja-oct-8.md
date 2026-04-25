@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 13
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Artist's Talk: Kimsooja | OCT 8"
 ---
 

@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 9
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | Scott McFarland | MAR 29"
 ---
 
 Scott McFarland
 Winter Retreating Spring Offence
 
-March 29 â€“ May 5, 2012
+March 29 – May 5, 2012
 
-Opening reception: Thursday March 29, 6pm â€“ 8pm
+Opening reception: Thursday March 29, 6pm – 8pm
 Artist in attendance
 
 Spring in Canada is a welcome sight after the hardships of a long cold 

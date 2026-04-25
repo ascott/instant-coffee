@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 20
 type: ""
+venue: "TARL"
 summary: "TARL | Seattle | Raymond Boisjoly and Ryan Peter | DEC 12"
 ---
 

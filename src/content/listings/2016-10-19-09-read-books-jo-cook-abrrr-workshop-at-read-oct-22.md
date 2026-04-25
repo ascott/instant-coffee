@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like shoulder pads in a business s
 emailDate: "Wed, 19 Oct 2016 12:20:16 -0700"
 number: 9
 type: "EDUCATION"
+venue: "READ books"
 summary: "READ books | Jo Cook: ABRRR Workshop at READ | OCT 22"
 ---
 

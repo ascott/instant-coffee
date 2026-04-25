@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 43
 type: ""
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | CALL FOR ARTISTS | MAR 31"
 ---
 

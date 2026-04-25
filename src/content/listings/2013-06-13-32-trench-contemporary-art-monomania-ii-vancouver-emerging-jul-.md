@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 32
 type: ""
+venue: "TRENCH Contemporary Art"
 summary: "TRENCH Contemporary Art | MONOMANIA II: Vancouver Emerging | JUL 4"
 ---
 
@@ -18,7 +19,7 @@ Painting, sculpture, photography, drawing, installation, performance, video.
 Craig Sibley and Trench Contemporary Art are pleased to announce MONOMANIA
 II: Vancouver
 
-Emerging. This yearâ€™s MONOMANIA exercises an obsession with a singular
+Emerging. This year’s MONOMANIA exercises an obsession with a singular
 theme; multiplicity.
 
 Presenting over 20 professional Vancouver-based artists from a variety of

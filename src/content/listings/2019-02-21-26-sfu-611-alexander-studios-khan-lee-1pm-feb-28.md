@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 26
 type: "TALK"
+venue: "SFU - 611 Alexander Studios"
 summary: "SFU - 611 Alexander Studios | Khan Lee | 1PM | FEB 28"
 ---
 

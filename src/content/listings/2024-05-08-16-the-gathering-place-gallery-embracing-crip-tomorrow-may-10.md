@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "The Gathering Place Gallery"
 summary: "The Gathering Place Gallery | EMBRACING CRIP TOMORROW | MAY 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 10
 type: "OPENING"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Constructing the Spontaneous | FEB 10"
 ---
 

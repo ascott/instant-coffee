@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 20
 type: "EXHIBITION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Assembly | SEP 17"
 ---
 

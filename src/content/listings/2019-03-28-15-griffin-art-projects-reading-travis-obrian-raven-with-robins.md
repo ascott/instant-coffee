@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 15
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | READING: Travis O’Brian ‘Raven with Robin's Egg’ | MAR 30"
 ---
 

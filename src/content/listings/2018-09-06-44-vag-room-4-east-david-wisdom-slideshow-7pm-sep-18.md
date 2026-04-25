@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 44
 type: "EVENT"
+venue: "VAG (Room 4 East)"
 summary: "VAG (Room 4 East) | David Wisdom Slideshow | 7PM | SEP 18"
 ---
 

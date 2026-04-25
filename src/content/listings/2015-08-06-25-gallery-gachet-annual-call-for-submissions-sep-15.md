@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 25
 type: "CALL"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Annual Call For Submissions | SEP 15"
 ---
 
@@ -23,7 +24,7 @@ personally, however the work must speak to our mandate in specific and
 interesting ways.
 
 Our exhibition calendar features a range of art practices from contemporary
-to outsider to exhibitions representing communityâ€“engaged and social
+to outsider to exhibitions representing community–engaged and social
 practice methods, as well as a diversity of mediums: photography, video,
 performance art, drawing, 3D, installation, ceramics, textiles and more.
 For more information on Gachetâ€™s vision and Basis of Unity, please see
@@ -41,7 +42,7 @@ accept proposals for solo, group, juried, curated, or major exhibition
 projects; as well as screenings, workshops, performances and collaborations.
 
 We pay CARFAC fees, and provide support for openings, catering, marketing,
-A/V equipment, installation and a sixâ€“week exhibition run at Gallery Gachet.
+A/V equipment, installation and a six–week exhibition run at Gallery Gachet.
 
 Selection Process
 The Gallery Gachet Collective selects a jury of six artist, curators and
@@ -53,14 +54,14 @@ selection process by December 15th, 2015.
 Ways to Submit
 Work can be dropped off, mailed, or emailed to the gallery. Gallery Gachet
 aims to be a low barrier space and accepts proposals in many formats
-â€“paper, CD, DVD, Flash Drives and email submissions will all be accepted.
+–paper, CD, DVD, Flash Drives and email submissions will all be accepted.
 Submissions Materials
 1. Documentation of your work or project may include but is not limited to:
-â€¢ 10â€“20 images clearly identified with name, number, title, dimensions
+• 10–20 images clearly identified with name, number, title, dimensions
 and a numbered image list
-â€¢ a short video that typifies your work
-â€¢ audio recordings
-2. A written proposal describing a wellâ€“thought out theme or body of work,
+• a short video that typifies your work
+• audio recordings
+2. A written proposal describing a well–thought out theme or body of work,
 explaining what you wish  to do and any special requirements (250â€“500
 words)
 3. A CV or biography, charting your arts education and exhibitions
@@ -69,7 +70,7 @@ We value traditional and untraditional forms of arts education and arts
 experiences. Feel free to include workshops,  mentorships or profound
 experiences that have led you to cultivate the work you are proposing.
 4. An artist statement (Optional)
-5. A selfâ€“addressed, stamped envelope to have hard copy submission
+5. A self–addressed, stamped envelope to have hard copy submission
 materials returned (Optional)
 
 Submissions Deadline

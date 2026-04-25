@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wizzzzz "
 emailDate: "Wed, 13 Dec 2023 20:55:09 -0800"
 number: 7
 type: "EVENT"
+venue: "1654 Franklin"
 summary: "1654 Franklin | Annual Studio Sale | DEC 16"
 ---
 

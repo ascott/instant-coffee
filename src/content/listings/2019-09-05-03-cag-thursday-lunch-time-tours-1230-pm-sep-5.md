@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 3
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Thursday Lunch Time Tours | 12:30 PM | SEP 5"
 ---
 

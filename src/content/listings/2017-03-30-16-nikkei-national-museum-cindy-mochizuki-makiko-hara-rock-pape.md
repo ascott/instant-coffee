@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 16
 type: "TALK"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Cindy Mochizuki + Makiko Hara, Rock, Paper, Sc... | APR 1"
 ---
 

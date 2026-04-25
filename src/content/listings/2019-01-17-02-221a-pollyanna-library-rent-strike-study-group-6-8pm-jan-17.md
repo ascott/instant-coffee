@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 2
 type: "EDUCATION"
+venue: "221A - Pollyanna Library"
 summary: "221A - Pollyanna Library | Rent Strike! Study Group | 6-8PM | JAN 17"
 ---
 

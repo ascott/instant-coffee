@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Barbara Astman: Concealed/Revealed | JUN 7"
 ---
 

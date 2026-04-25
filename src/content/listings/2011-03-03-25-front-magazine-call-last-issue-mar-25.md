@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 25
 type: ""
+venue: "Front Magazine"
 summary: "Front Magazine | CALL : last issue | MAR 25"
 ---
 
@@ -15,7 +16,7 @@ ill-considered, your hasty and heedless.
 Recklessness may lead to abject failure or wild success. Either way, we're
 ready. Deadline March 25.
 
-All submissions should include the artistâ€™s name, contact information, and
+All submissions should include the artist’s name, contact information, and
 a biography of 50 words or less.
 
 More info at front.bc.ca/frontmagazine/submissions.

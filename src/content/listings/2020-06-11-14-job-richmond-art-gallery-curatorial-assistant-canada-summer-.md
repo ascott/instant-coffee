@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 14
 type: ""
+venue: "JOB"
 summary: "JOB | Richmond Art Gallery | Curatorial Assistant | Canada Summer Job Position | JUN 24"
 ---
 

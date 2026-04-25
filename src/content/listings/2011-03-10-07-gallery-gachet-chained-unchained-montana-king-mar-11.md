@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 7
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | CHAINED & UNCHAINED | Montana King | MAR 11"
 ---
 
@@ -23,24 +24,24 @@ Performance night: Thurs March 24th, 7pm
 
 Gallery Gachet, 88 East Cordova Street, www.gachet.org, t: 604 687 2468
 
-Dallas and Montana King, two of Gachetâ€™s Out of the Rain artists, present
+Dallas and Montana King, two of Gachet’s Out of the Rain artists, present
 exhibitions exploring ideas around emotional transference and the impact of
 loss and trauma within the context of healing. Building on her performance
-at the Vancouver Art Galleryâ€™s FUSE, Dallas expands her installation,
+at the Vancouver Art Gallery’s FUSE, Dallas expands her installation,
 Ceremony where she uses disposable lighters as a symbol of drug use and a
-metaphor for the idea of â€˜throwawayâ€™ lives in the DTES. Montana continues
-her studies of human â€˜chainsâ€™ and the limbic system. Using a multitude of
+metaphor for the idea of ‘throwaway’ lives in the DTES. Montana continues
+her studies of human ‘chains’ and the limbic system. Using a multitude of
 media she creates a conversation between traumatic human experiences and
 the brilliance of the whale's limbic systems.
 
 Ceremony bears direct reference to pre-colonial history of fire-carriers
-and to the role of fire as a metaphor to symbolize lifeâ€™s impenetrable
+and to the role of fire as a metaphor to symbolize life’s impenetrable
 force. Ceremony honours people lost to addiction through the use of
-disposable lighters â€“ a commentary on contemporary, capitalist, throwaway
+disposable lighters – a commentary on contemporary, capitalist, throwaway
 culture. The lighters create a stained glass window effect representing
 colonial-forced Catholic education for indigenous peoples.
 
-The installation is part of Dallasâ€™s healing. â€œWe are all people of the
+The installation is part of Dallas’s healing. “We are all people of the
 earth,â€  she states, â€œand that in order to heal the earth, we have to heal
 ourselves first.
 
@@ -48,14 +49,14 @@ Ceremony features a large ceremony lodge made from thousands of lighters,
 quarter inch wire mesh, tent poles, weaving, and canvas; appropriating
 traditional religious iconography using native art techniques in an
 exciting and new way. The disposable lighters are a symbol of drug use and
-a metaphor for the idea of â€˜throwawayâ€™ lives in the DTES, ranging in colour
+a metaphor for the idea of ‘throwaway’ lives in the DTES, ranging in colour
 from red, yellow, white and black, representing the diversity of the human
 race. Each lighter can be viewed as an individual, broadening the
 addictions debate and suggesting that everyone is affected by addiction.
-Addiction is a global problem, not just endemic to Vancouverâ€™s DTES, and
+Addiction is a global problem, not just endemic to Vancouver’s DTES, and
 the vast majority of people are dependent on something outside themselves
 to make life sweeter, or temporarily more bearable. Inside the structure
-two flat-screen televisions play Dallasâ€™s poetic film (30 min) â€“ the
+two flat-screen televisions play Dallas’s poetic film (30 min) – the
 stories of her daughter, friend and comrade, all whom lost their lives to
 addiction.
 

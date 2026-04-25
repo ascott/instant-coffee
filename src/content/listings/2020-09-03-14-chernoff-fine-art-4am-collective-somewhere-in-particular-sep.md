@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 14
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | 4AM Collective - Somewhere in Particular | SEP 12"
 ---
 

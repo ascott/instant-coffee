@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 12
 type: "EVENT"
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | Resistance Begins at Home | JUN 16"
 ---
 

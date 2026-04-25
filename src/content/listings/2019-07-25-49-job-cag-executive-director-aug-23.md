@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 49
 type: ""
+venue: "JOB"
 summary: "JOB | CAG | Executive Director | AUG 23"
 ---
 

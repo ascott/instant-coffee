@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lone glove"
 emailDate: "Thu, 10 Dec 2015 11:00:47 -0800"
 number: 4
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | SIGNALS NICOLAS SASSOON RICK SILVA Opens Thurs, De | DEC 10"
 ---
 

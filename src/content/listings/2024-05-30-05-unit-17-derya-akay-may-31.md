@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 5
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Derya Akay | MAY 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 16
 type: "OPENING"
+venue: "Audain Gallery & SFU Goldcorp Centre for the A"
 summary: "Audain Gallery & SFU Goldcorp Centre for the A | Autofictional | SEP 9"
 ---
 

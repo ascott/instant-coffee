@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 15
 type: ""
+venue: "Project Space, 222"
 summary: "Project Space, 222 | 24-hr Drawing Party | AUG 10"
 ---
 

@@ -162,7 +162,7 @@ Granville Island, Vancouver/Coast Salish Territories
 This reading is free and open to the public. All are welcome.
 
 Kate Eichhorn is the author of Fond (BookThug, 2008) and co-editor of
-Prismatic Publics: Innovative Canadian Womenâ€™s Poetry and Poetics (Coach
+Prismatic Publics: Innovative Canadian Women’s Poetry and Poetics (Coach
 House, 2009). She has published widely on the subjects of archives, print
 cultures and feminist poetics. Her second collection of poetry is
 forthcoming in 2010, and she is currently completing a critical study on
@@ -240,7 +240,7 @@ Research (Moderated by Jacqueline Turner)
 The third event in the series will examine issues of research and the
 archive with writer Kate Eichhorn and visual artist Kyla Mallett. Kate
 Eichhorn is the author of Fond and co-editor of Prismatic Publics:
-Innovative Canadian Womenâ€™s Poetry and Poetics. She has published widely on
+Innovative Canadian Women’s Poetry and Poetics. She has published widely on
 the subjects of archives, print cultures and feminist poetics. Her second
 collection of poetry is forthcoming in 2010, and she is currently
 completing a critical study on archival genres and the poetics of everyday
@@ -262,7 +262,7 @@ among others.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free
 
 
@@ -316,7 +316,7 @@ Victoria. His work has been included in exhibitions at Artspeak,
 Contemporary Art Gallery, Ministry of Casual Living, Helen Pitt
 Gallery, the Western Front, Lobby Gallery and Blanket Gallery among
 others.
-Edgar Heap of BirdsÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½ exhibition record includes The Museum of Modern
+Edgar Heap of BirdsÃ¢ï¿½ï¿½ exhibition record includes The Museum of Modern
 Art, Whitney Museum of American Art, The National Museum of the
 American Indian, Smithsonian Institute, The National Gallery of
 Canada, Documenta 8, and the Venice Biennale. He was awarded an
@@ -362,7 +362,7 @@ Kate Sansom
 
 Access Gallery Artist Residency
 
-21 November 2009 â€“ 23 January 2010
+21 November 2009 – 23 January 2010
 
 Closing Reception:
 
@@ -377,7 +377,7 @@ the theme of apocalyptic anxiety and cultural speculation.
 
 On 23 January 2010, Access Gallery proudly hosts the closing reception for
 Den. The artist will present her findings, share her ideas, and further her
-appeal to enlist visitorsâ€™ underground spaces as communal shelters in the
+appeal to enlist visitors’ underground spaces as communal shelters in the
 event of a great upheaval.
 
 Kate Sansom is a conceptual artist, and occasional curator. Her work
@@ -427,11 +427,11 @@ Audain Gallery SFU Woodwards
 
 Miwon Kwon, in One Place After Another: site-specific art and locational
 identity, makes a strong link between public art and the production of
-urban identities: "Despite the discussions of â€˜placelessness and crisisâ€™
-and the â€˜death of citiesâ€™, â€˜place-makingâ€™ remains a central imperative in
+urban identities: "Despite the discussions of ‘placelessness and crisis’
+and the ‘death of cities’, ‘place-making’ remains a central imperative in
 public arts programming today.â€ 
 
-Building from this concept of art as a place-making activity, â€œComing
+Building from this concept of art as a place-making activity, “Coming
 Soonâ€  is the first public symposium of the new Audain Gallery at SFU
 Woodward's: the symposium aims to address questions regarding the
 different, and often competing, public and artistic expectations of art in
@@ -447,7 +447,7 @@ Ken Lum (CA), Bik Va Der Pol (NL), Jeff Derksen (CA, moderator)
 
 The symposium is in conjunction with the site-specific works, for the
 program Coming Soon, commissioned from SFU alumni -- Ken Lum, Kathy Slade,
-Lorna Brown, and Jamie Hilder â€“which will be shown in the Hastings Street
+Lorna Brown, and Jamie Hilder –which will be shown in the Hastings Street
 windows of the Gallery and on its website. See audaingallery.ca.
 
 Organized by Sabine Bitter, Audain Gallery.
@@ -467,7 +467,7 @@ for a talk about the many roles of the curtain in domestic, social and
 ceremonial life.
 
 Curated by Professor Charlotte Townsend-Gault of the University of British
-Columbia, â€œBackstory: Nuuchaanulth Ceremonial Curtains and the Work of
+Columbia, “Backstory: Nuuchaanulth Ceremonial Curtains and the Work of
 Ki-ke-inâ€™ brings together for the first time, â€œthliitsapilthimâ€  of
 ceremonial curtains by Nuuchaanulth artist Ron Hamilton (Ki-ke-in) and
 historical curtains from museum and private collections in Canada and the
@@ -480,12 +480,12 @@ conflicts, captures and alliances are seen in these striking narrative
 works. The Nuuchaanulth were the first people Europeans encountered when
 Captain James Cook landed at Yuquot in 1778 in what is now British
 Columbia. Though much of the art of the Northwest Coast has come to be
-associated with poles and carvings of the Haida and Kwakwakaâ€™wakw, the
+associated with poles and carvings of the Haida and Kwakwaka’wakw, the
 Nuuchaanulth have made and used ceremonial curtains for thousands of years
 on the west coast of what is now called Vancouver Island.
 
 Each curtain has been painted following the instructions from a family
-needing it to declare the â€˜backstoryâ€™, its history, social and spiritual
+needing it to declare the ‘backstory’, its history, social and spiritual
 pedigree, that will enhance and validate the ceremony of naming,
 celebrating a marriage, mourning, or reconciliation. Curtains were
 originally painted using locally derived pigments, including charcoal,
@@ -499,8 +499,8 @@ important events of their lives, although they were now using sail cloth or
 cotton so that they could be folded up and hidden from the Indian Agents,
 if necessary.
 
-Accompanied by photographs, documents and interviews, â€œBackstory:
-Nuuchaanulth Ceremonial Curtainsâ€™ and the Work of Ki-ke-in promotes a
+Accompanied by photographs, documents and interviews, “Backstory:
+Nuuchaanulth Ceremonial Curtains’ and the Work of Ki-ke-in promotes a
 deeper understanding of Nuuchaanulth art and culture and is a celebration
 of these remarkable curtains and the people who make and use them.
 
@@ -509,7 +509,7 @@ Hupacasath First Nation and lives on the Ahaswinis Reserve in the Alberni
 Valley. Hamilton is active internationally through his participation in
 public debates, symposia, and exhibitions concerning a trans-Pacific
 history for the cultures and art of the Northwest Coast. He has contributed
-to the publications, â€˜Indian Residential Schools: the Nuuchahnulth
+to the publications, ‘Indian Residential Schools: the Nuuchahnulth
 Experienceâ€  (1996) and â€œListening to our Ancestors: The Art of Native Life
 Along the North Pacific Coast (2006)â€ . Ki-ke-in has made a vital
 contribution to Nuuchaanulth traditional art, ceremonial and ritual life.
@@ -518,7 +518,7 @@ Charlotte Townsend-Gault is a Professor in the Department of Art History,
 Visual Art and Theory at the University of British Columbia and Honorary
 Visiting Research Fellow in the Department of Anthropology at the
 University College London. Her interest is in contemporary indigenous
-cultures and arts. Townsend-Gaullt was a curator of â€œLand, Spirit, Power:
+cultures and arts. Townsend-Gaullt was a curator of “Land, Spirit, Power:
 First Nations at the National Gallery of Canadaâ€  (1992), "Lawrence Paul
 Yuxweluptun" (1995) and Rebecca Belmore (2002) for the Belkin Art Gallery.
 She has written about the work of Marianne Nicholson, James Luna, Stan
@@ -580,7 +580,7 @@ Michael Lin: A Modest Veil January 23 to May 2, 2010
 The Georgia Street Plaza, the largest public square in downtown Vancouver,
 will be backed by nearly 6,000-square-feet of brilliant colour composing
 Michael Lin's massive mural titled Georgia Street Plaza 23.01 - 02.05.10,
-2010. Covering the Gallery's entire northern faÃƒÆ’Ã¯Â¿Â½Ãƒâ€šÃ‚Â§ade, Lin's enveloping
+2010. Covering the Gallery's entire northern faÃƒï¿½Ã‚Â§ade, Lin's enveloping
 intervention will dramatically transform this high-traffic area. Thousands
 of passersby will be invited to reinterpret the altered architecture of the
 Gallery's neo-classical building and consider the cultural references and
@@ -608,7 +608,7 @@ CUE: Artists' Videos January 23 to March 21, 2010,
 CUE: Artists' Videos will present the most innovative and compelling local,
 national and international artists working in film and video today.
 Presented on a nearly 20-foot, high-resolution LED screen on the Gallery's
-Robson Street faÃƒÆ’Ã¯Â¿Â½Ãƒâ€šÃ‚Â§ade, the series will run daily from 5 am to 2 am. The
+Robson Street faÃƒï¿½Ã‚Â§ade, the series will run daily from 5 am to 2 am. The
 adjacent Robson Street Plaza, one of the city's busiest pedestrian hubs,
 will be particularly lively during the Olympic Winter Games when the area
 becomes an official site for live entertainment and a major centre for
@@ -655,16 +655,16 @@ Lower Mainland.
 Ken Lum is a Vancouver artist whose work questions the relationship between
 modernism, mass culture and everyday experience, often blurring the
 boundaries separating high art and popular culture. Over the past twenty
-years, LumÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½s work has been presented in solo exhibitions throughout
+years, LumÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s work has been presented in solo exhibitions throughout
 North
 America, Europe and Asia. He has also represented Canada at the Istanbul
-Biennial, SÃƒÆ’Ã¯Â¿Â½Ãƒâ€šÃ‚Â£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
-Documenta. The GalleryÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½s Offsite exhibition space near the
+Biennial, SÃƒï¿½Ã‚Â£o Paulo Biennial, Shanghai Biennale, Gwangju Biennale and
+Documenta. The GalleryÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s Offsite exhibition space near the
 intersection of
-Georgia and Thurlow streets in VancouverÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½s downtown core offers a
+Georgia and Thurlow streets in VancouverÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s downtown core offers a
 rotating
 program of innovative public art projects by local and international
-artists, which respond to the cityÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½s unique urban environment.
+artists, which respond to the cityÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s unique urban environment.
 
 Vancouver Art Gallery Offsite: Ken Lum is organized by the Vancouver Art
 Gallery and curated by Audain Curator of British Columbia Art, Grant Arnold
@@ -676,16 +676,16 @@ During the 2010 Olympic and Paralympic Winter Games, the Vancouver Art
 Gallery will present the best of British Columbia to the world and the best
 of the world in British Columbia. From a landmark exhibition of drawings by
 Leonardo da Vinci and an arresting presentation of contemporary art based
-on the human form, to a massive two-floor survey of British ColumbiaÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½s
+on the human form, to a massive two-floor survey of British ColumbiaÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s
 visual art, visitors will experience some of the most exciting programming
-in the GalleryÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½s history. Thanks to a partnership that will see the
-Province of British ColumbiaÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½s BC Canada Pavilion located on the fourth
+in the GalleryÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s history. Thanks to a partnership that will see the
+Province of British ColumbiaÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s BC Canada Pavilion located on the fourth
 floor of the Gallery, all exhibitions will be free to the public during the
 17 days of the Olympic Winter Games.
 
 Leonardo da Vinci: The Mechanics of Man -- February 6 to May 2, 2010
 
-Visceral Bodies ÃƒÆ’Ã‚Â¢ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ February 6 to May 16, 2010
+Visceral Bodies ÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½ February 6 to May 16, 2010
 
 Visions of British Columbia: A Landscape Manual -- January 23 to April 18, 2010
 
@@ -716,9 +716,9 @@ The second Fillip Review Panel will take place Monday, January 25, at 7pm.
 In this final edition, Vancouver-based writer and curator Clint Burnham
 will discuss the exhibition Expanded literary practices in Vancouver:
 1954-1969 at the SFU Gallery (Vancouver, CA). Ottawa-based curator and
-writer Candice Hopkins will discuss Anne Truittâ€™s recent exhibition at
+writer Candice Hopkins will discuss Anne Truitt’s recent exhibition at
 Hirschhorn Museum and Sculpture Graden (Washington, US). Vancouver-based
-artist and writer Amy Zion will discuss Vancouver Art Galleryâ€™s Offsite
+artist and writer Amy Zion will discuss Vancouver Art Gallery’s Offsite
 project space (Vancouver, CA). The panel will be moderated by Johan Lundh.
 
 Admission is $5 or free for students or with current Fillip subscription.
@@ -794,7 +794,7 @@ Vancouver, BC V6H 3R9
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-01-21-14-vivo-2010-safe-assembly-event-invitation-to-participate-jan-">14. VIVO 2010: Safe Assembly | EVENT: Invitation to Participate | JAN 27</a>
 ------------------------------------------------------------------------
-VIVO 2010: Safe Assembly â€“ Invitation to Participate - JAN 27, 7:30 PM
+VIVO 2010: Safe Assembly – Invitation to Participate - JAN 27, 7:30 PM
 
 Since 1973, VIVO Media Arts Centre (aka Satellite Video Exchange Society,
 aka Video In), has provided a space for diverse dialogues, artistic
@@ -817,7 +817,7 @@ the cultural meaning and social impact of the Olympics.
 
 We will be operating a radio transmitter during the last two weeks of
 February. Our signal will also be streaming online. Our range will be
-humble â€“ and thus situated.
+humble – and thus situated.
 Social Propaganda Mixing Machine is an open call for participants to create
 sound or image propaganda.
 
@@ -859,12 +859,12 @@ THE SURGEON AND THE PHOTOGRAPHER
 
 Catriona Jeffries, Vancouver
 
-29 January â€“ 6 March 2010
-Opening Reception: Thursday 28 January, 7 â€“ 9pm
+29 January – 6 March 2010
+Opening Reception: Thursday 28 January, 7 – 9pm
 
 Catriona Jeffries is pleased to announce the launch of its 2010 season with
 the forthcoming exhibition, Geoffrey Farmer: The Surgeon and the
-Photographer. Inspired by Aby Warburgâ€™s Memory Atlas, this ambitious
+Photographer. Inspired by Aby Warburg’s Memory Atlas, this ambitious
 project uses the conceptual framework of a calendar in which to arrange and
 display 365 paper and cloth figures. Using a collage technique, cutting
 photographs from books, Farmer, like Warburg, employs a display technique
@@ -874,20 +874,20 @@ cross-cultural consideration of images and ideas.
 The figures which can also be read as puppets, is indicative of the
 relationship of the hand to the book, and the book to the reproducibility
 of the photographic image. The title of the work itself refers to a part of
-Benjaminâ€™s seminal essay, The Work of Art in the Age of Mechanical
+Benjamin’s seminal essay, The Work of Art in the Age of Mechanical
 Reproduction in which the magician is compared to the painter and the
 surgeon is compared to the cameraman.
 
-â€œThe magician heals a sick person by the laying on of hands; the surgeon
+“The magician heals a sick person by the laying on of hands; the surgeon
 cuts into the patientâ€™s body.â€  Benjamin goes on to state: â€œThe painter
 maintains in his work a natural distance from reality, the cameraman
 penetrates deeply into its web. There is a tremendous difference between
 the pictures they obtain. That of the painter is a total one, that of the
 cameraman consists of multiple fragments which are assembled under a new law.â€ 
 
-Farmerâ€™s presentation of the figures though seems to reveal a desire to
+Farmer’s presentation of the figures though seems to reveal a desire to
 maintain both positions simultaneously and it is into this inquiry and
-dilemma that we are invited â€“ a question that Farmer explores in the
+dilemma that we are invited – a question that Farmer explores in the
 creation of this new work. Farmer will also be presenting a new video work
 that has been developed to accompany this project.
 
@@ -928,12 +928,12 @@ Their work bridges the domains of graphic design and fine art, often
 involving the participation of other writers, musicians, and artists in
 projects. Dexter Sinister participated in the 2008 Whitney Biennial. They
 recently participated in Performa 09 and have been included in exhibitions
-at the Kunstverein MÃ¼nchen, 2008; and in 2007 at Centre
+at the Kunstverein München, 2008; and in 2007 at Centre
 
 d'Art Contemporain, Geneva; the Architectural Association, London; Store
 Gallery, London; and the Swiss Institute, New York.
 
-Each semester, Emily Carrâ€™s various lecture series bring to campus the
+Each semester, Emily Carr’s various lecture series bring to campus the
 unique and diverse perspectives of world-renowned artists, architects,
 designers, curators, scholars, and writers. Each speaker presents their
 work and invites the audience to participate in a critical discussion. The
@@ -951,9 +951,9 @@ Visit www.ecuad.ca for more information or email azion@eciad.ca.
 Sights/Sites of Spectacle, the 29th Annual UBC Art History Graduate
 Symposium and Exhibition
 
-Symposium: Friday Jan 29th â€“ Saturday Jan 30th, (Lillooet Rm, I.K. Barber
+Symposium: Friday Jan 29th – Saturday Jan 30th, (Lillooet Rm, I.K. Barber
 Learning Centre, UBC)
-Exhibition: Wednesday Jan 27th â€“ Saturday Feb 20th (gallery, Located in rm.
+Exhibition: Wednesday Jan 27th – Saturday Feb 20th (gallery, Located in rm.
 112, Koerner Library, UBC)
 
 Presenters: Daniil Leiderman (Princeton University), Michael Maizels,
@@ -962,7 +962,7 @@ California, Berkeley), Fiona Sheales (University of East Anglia), Nathan
 Perry (University of California, Santa Barbara), Lelia Packer (New York
 University), Nancy Stoaks (University of Washington), Rose Bouthillier
 (Ontario College of Art & Design), Andrew Finegold (Columbia University),
-Lisa A. Homann (UCLA), Caner Ã–ktem (UBC / Middle East Technical
+Lisa A. Homann (UCLA), Caner Öktem (UBC / Middle East Technical
 University), Susan Schafer (New York University)
 
 Artists: Katie Brennan (Vernon, BC), Claire Hodge (Halifax), Eleanor King
@@ -974,7 +974,7 @@ Artists: Katie Brennan (Vernon, BC), Claire Hodge (Halifax), Eleanor King
 The Department of Art History, Visual Art and Theory (AHVA) at the
 University of British Columbia is pleased to present the 29th Annual Art
 History Graduate Symposium and Exhibition: â€œSights/Sites of Spectacle.â€ 
-This yearâ€™s Symposium and Exhibition will engage with spectacle as
+This year’s Symposium and Exhibition will engage with spectacle as
 theoretical concept, historical phenomenon, and artistic theme. Highlights
 include: a keynote address by the highly influential and well respected
 scholar Dr. Jonathan Crary, and a keynote performance by world renowned
@@ -983,20 +983,20 @@ Canadian artist Rebecca Belmore.
 Dr. Jonathan Crary is a Professor at the Department of Art and Archaeology
 at Columbia University. His significant contributions to the discourse on
 Debordian spectacle, combined with his analyses of new technologies of
-vision, engage explicitly with the symposiumâ€™s theme.
+vision, engage explicitly with the symposium’s theme.
 
 Rebecca Belmore, a prominent Vancouver artist, has made substantial
 contributions to the visual arts both here in Vancouver and
-internationally. Through performance, photography, and video, Belmoreâ€™s
+internationally. Through performance, photography, and video, Belmore’s
 fervent questioning of social status quos and mass media perceptions of the
 gendered and colonized body, allows for a critical and compelling
-interaction with the symposiumâ€™s theme.
+interaction with the symposium’s theme.
 
 These critical engagements with the topic of spectacle is particularly
 important on the eve of the Winter Olympic Games in Vancouver. Current and
-wide ranging interest in the notion of spectacleâ€”from the Lyon Biennale, to
+wide ranging interest in the notion of spectacle—from the Lyon Biennale, to
 journalists writing on the war in Iraq, to activists protesting the
-Olympics in Vancouverâ€”signals the topicality of the theme as a locus of
+Olympics in Vancouver—signals the topicality of the theme as a locus of
 discourse. As such, this event will present artworks and papers interested
 in exploring a breadth of critical and contemporary understandings of
 spectacular culture.
@@ -1011,7 +1011,7 @@ conceptual ground, each artist offers a different entry point into how our
 contemporary culture is engaging or disengaging with the concept of spectacle.
 
 We welcome all to the Art History Graduate Symposium and Exhibition Opening
-Reception, Friday January 29th from 5:30 â€“ 8:00 pm, at the gallery, located
+Reception, Friday January 29th from 5:30 – 8:00 pm, at the gallery, located
 in rm. 112, Koerner Library.
 
 For a schedule or more information on the symposium: http://www.ahva.ubc.ca/
@@ -1031,7 +1031,7 @@ as shifting points of reference within these overlapping, expanding fields:
 the spaces of physical experience, construction and documentation, and the
 grounds of intellectual play, negotiation and provision.
 
-John Burgessâ€™s sculpture and installation works deal with specific
+John Burgess’s sculpture and installation works deal with specific
 architectures built in and around the Vancouver area. Partial, or
 imaginative, re-constructions are made through careful examination of
 photographs and elevation plans, but never transcend the only optical
@@ -1047,7 +1047,7 @@ Daniel Oates-Kuhn has made a careful documentation of specific objects that
 invite or inhibit gestural actions and reactions, working out a
 phenomenology of gaps and walls that force projection and re-distribution.
 
-Emiliano Sepulvedaâ€™s photographic practice is more specific to the
+Emiliano Sepulveda’s photographic practice is more specific to the
 developmental processes of the enlarger, and the chemical reactions that
 are necessarily kept in the dark. Working out of doors, with light
 sensitive materials, Sepulveda collects both objects, and the light that
@@ -1151,7 +1151,7 @@ mimic the politics of shut-downs and cover-ups. The concrete, glass and
 triple fencing make real the limits to information, restricted debates, and
 strategic distractions that accompany the staging of a major world festival.
 
-Reclaiming artistsâ€™ long relationship with drapery and bedding, and drawing
+Reclaiming artists’ long relationship with drapery and bedding, and drawing
 on their radicalizing of the body adrift within the urban space, Covering
 Up invites people to stage their own public cover ups.
 
@@ -1159,14 +1159,14 @@ You are invited to participate in this street-level action:
 Take a piece of personal bedding or household drapery into the city and
 produce a cover up of your own.
 Photograph or video tape the action and submit it to coveringup@gmail.com
-Deadline for photo and video submissions â€“ February 17
+Deadline for photo and video submissions – February 17
 
 The results will be projected onto the windows of CentreA (2 West Hastings)
 throughout the evening of February 19 (beginning at 6pm).
 Covering Up will be produced at VIVO and will be part of the VIVO SAFE
 ASSEMBLY public discussions.
 
-Form more information: Pierre-AndrÃ© Sonolet or Lois Klassen
+Form more information: Pierre-André Sonolet or Lois Klassen
 coveringup@gmail.com
 Follow CU on Facebook for photos and notice of group cover ups.
 

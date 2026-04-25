@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: toofur"
 emailDate: "Fri, 25 May 2012 16:00:46 -0700"
 number: 19
 type: ""
+venue: "Vancouver Draw Down"
 summary: "Vancouver Draw Down | www.vancouverdrawdown.com | JUN 9"
 ---
 
@@ -27,7 +28,7 @@ Saturday June 9, 2012
 
 Think you can't draw? Think again.
 
-Vancouver Draw Down is an annual, daylong celebration of drawing that challenges every single Vancouveriteâ€”young and oldâ€”to dispel their preconceptions about drawing, touch a pen to a piece of paper, and make a mark. If you can write your name, you can draw!
+Vancouver Draw Down is an annual, daylong celebration of drawing that challenges every single Vancouverite—young and old—to dispel their preconceptions about drawing, touch a pen to a piece of paper, and make a mark. If you can write your name, you can draw!
 
 On Saturday June 9, 2012, 18 different arts and cultural organizations across Vancouver will host a total of 27 diverse, hands-on drawing workshops in community centres, museums, art galleries and on the street! You can add to a mural, do a pinprick drawing, doodle, sketch, improve your still life or life drawing techniques, create your own font, draw inside a 12-foot high paper tunnel, and much more. The workshops are designed with a come-and-go atmosphere, and participants are encouraged to move around to different events throughout the day.
 
@@ -59,7 +60,7 @@ MacKenzie. FREE
 
 Micro/Macro Drawing Lab at The Roundhouse - 11am-4pm
 The Roundhouse, 181 Roundhouse Mews, Vancouver
-Step inside Radix Theatreâ€™s Micro/Macro Drawing Lab to magnify 
+Step inside Radix Theatre’s Micro/Macro Drawing Lab to magnify 
 worlds within worlds as you transform the tiny into the enormous. 
 FREE
 
@@ -71,7 +72,7 @@ Damara Jacobs-Morris. FREE with museum admission ($14.50-
 $16.75)
 
 Community Portraits and More at ArtStarts - 12pm-4pm
-ArtStarts Gallery â€“ 808 Richards Street, Vancouver
+ArtStarts Gallery – 808 Richards Street, Vancouver
 Get "drawn in" to a collaborative window mural, participate in a still life 
 drawing activity with a twist, or doodle on the sidewalk chalk art mural. 
 FREE
@@ -122,7 +123,7 @@ Each Daily Drawing Project will consist of two sets of instructions.
 Choose the Challenging Instructions (15 minute drawings for people with more drawing experience and/or time), or the Just For Fun 
 Instructions (5 minute drawings for people with less experience and/or time).
 3. DRAW
-Use whatever drawing tools you like, except when otherwise noted in the instructions. Don't worry about making mistakesâ€”be creative and have fun! We ask that you not use rulers or erasers for any of your drawings, and that you stick to the time limits. Daily drawings should be no larger than 8.5X11.
+Use whatever drawing tools you like, except when otherwise noted in the instructions. Don't worry about making mistakes—be creative and have fun! We ask that you not use rulers or erasers for any of your drawings, and that you stick to the time limits. Daily drawings should be no larger than 8.5X11.
 4. SHARE
 Share your work with us! Send us scans or photographs of your daily drawings at any point during the month-long challenge and we'll put them up on our website and facebook page. Email vandrawdown@gmail.com with jpeg files no larger than 72 dpi, 1024 X 768 pixels, maximum 1MB. All drawings featured in our galleries remain anonymous.
 
@@ -131,8 +132,8 @@ BUT I'M NOT AN ARTIST. WHY SHOULD I DRAW?
 
 We're glad you asked...
 
-Drawing is a way of capturing ideas, encouraging observation, and expressing thoughts. It's a problem- solving tool, a brainstorming mechanism, a way to visualize outcomes and a means of creative exchange. It's also a powerful communication device that transcends barriers of language and literacy. The more you draw, the more detail you see in your everyday lifeâ€”shadow, colour, shape, reflection, texture.
-It's time to spark the right side of your brain and connect with the innovative and imaginative recesses of your mind. This is about process and pleasure, not about technical skill. That's why everyoneâ€”including YOUâ€”can participate!
+Drawing is a way of capturing ideas, encouraging observation, and expressing thoughts. It's a problem- solving tool, a brainstorming mechanism, a way to visualize outcomes and a means of creative exchange. It's also a powerful communication device that transcends barriers of language and literacy. The more you draw, the more detail you see in your everyday life—shadow, colour, shape, reflection, texture.
+It's time to spark the right side of your brain and connect with the innovative and imaginative recesses of your mind. This is about process and pleasure, not about technical skill. That's why everyone—including YOU—can participate!
 
 Media Contact: Kara Gibbs | vandrawdown@gmail.com | 604.644.6985 
 | www.vancouverdrawdown.com

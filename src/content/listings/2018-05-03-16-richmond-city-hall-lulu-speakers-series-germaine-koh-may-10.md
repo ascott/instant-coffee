@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 16
 type: "TALK"
+venue: "Richmond City Hall"
 summary: "Richmond City Hall | Lulu Speakers Series: GERMAINE KOH | MAY 10"
 ---
 

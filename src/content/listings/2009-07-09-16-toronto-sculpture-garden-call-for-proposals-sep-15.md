@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 16
 type: ""
+venue: "TORONTO SCULPTURE GARDEN"
 summary: "TORONTO SCULPTURE GARDEN | Call for Proposals | SEP 15"
 ---
 

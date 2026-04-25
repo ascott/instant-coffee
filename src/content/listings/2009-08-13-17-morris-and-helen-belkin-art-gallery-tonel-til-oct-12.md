@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: expect some mess and try to relax"
 emailDate: "Thu, 13 Aug 2009 09:50:12 -0700"
 number: 17
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Tonel | til | OCT 12"
 ---
 

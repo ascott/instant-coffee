@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 15
 type: "EVENT"
+venue: "Downtown-East Vancouver"
 summary: "Downtown-East Vancouver | Guided Gallery Hop | 12PM | JUN 22"
 ---
 

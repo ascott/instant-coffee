@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 2
 type: ""
+venue: "CSA"
 summary: "CSA | REBECCA BELMORE | SEP 11"
 ---
 

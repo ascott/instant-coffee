@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 19
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Online Conversation: Cultural Humility In An"
 ---
 

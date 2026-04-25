@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: in times of ration"
 emailDate: "Thu, 03 Apr 2008 05:06:26 -0700"
 number: 12
 type: ""
+venue: "UBC"
 summary: "UBC | MFA-open studios | APR 10"
 ---
 

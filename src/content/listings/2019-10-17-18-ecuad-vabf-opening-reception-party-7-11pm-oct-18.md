@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 18
 type: "EVENT"
+venue: "ECUAD"
 summary: "ECUAD | VABF Opening Reception Party | 7-11PM | OCT 18"
 ---
 

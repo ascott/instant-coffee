@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tributaries"
 emailDate: "Fri, 04 Jul 2025 03:00:07 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Liquidation World 1965 Main St"
 summary: "Liquidation World 1965 Main St | new landscape paintings"
 ---
 

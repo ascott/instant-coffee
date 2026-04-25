@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 15
 type: "EVENT"
+venue: "SUNSET, FOO"
 summary: "SUNSET, FOO | MAX HUR, TAKO YOUNG, JULES FRANCISCO | DEC 23"
 ---
 

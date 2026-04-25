@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 39
 type: "EDUCATION"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Tour w/Grant Arnold of Kevin Schmidt | 3PM | JUL 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 1
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Shannon Oksanen: Summerland | NOV 20"
 ---
 
@@ -103,7 +104,7 @@ members, donors and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC,
 V6B 6R5, Canada www.contemporaryartgallery.ca. Gallery
-Hours: Wed. - Sun. 12 Ã¢ï¿½ï¿½ 6 pm.
+Hours: Wed. - Sun. 12 â�� 6 pm.
 Admission is free by donation.
 
 For more information please contact:

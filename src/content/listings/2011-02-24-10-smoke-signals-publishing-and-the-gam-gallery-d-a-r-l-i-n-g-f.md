@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 10
 type: ""
+venue: "Smoke Signals Publishing and The Gam Gallery"
 summary: "Smoke Signals Publishing and The Gam Gallery | D A R L I N G F O U R | FEB 26"
 ---
 
@@ -35,7 +36,7 @@ Saint Jesua
 Aaron Moran
 Henry Adam Svec
 Lindsay Dakin
-Sylvana DÃ¢ï¿½ï¿½Angelo
+Sylvana Dâ��Angelo
 
 darling is a quarterly publication.
 

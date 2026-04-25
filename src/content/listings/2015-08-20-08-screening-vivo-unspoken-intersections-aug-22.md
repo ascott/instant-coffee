@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | (Un)Spoken Intersections | AUG 22"
 ---
 

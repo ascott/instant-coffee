@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 29
 type: "EXHIBITION"
+venue: "nap"
 summary: "nap | Morning Sun Garden | AUG 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 17
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | Lyse Lemieux with Amlie Brisson-Darveau | SEP 10"
 ---
 

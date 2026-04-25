@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Appenda...3"
 emailDate: "Fri, 04 Nov 2016 07:26:09 -0700"
 number: 8
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | New Ways of Having | NOV 10"
 ---
 

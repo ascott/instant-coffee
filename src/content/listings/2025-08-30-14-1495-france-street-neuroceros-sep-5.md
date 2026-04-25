@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 14
 type: "PERFORMANCE"
+venue: "1495 France Street"
 summary: "1495 France Street | NEUROCEROS | SEP 5"
 ---
 

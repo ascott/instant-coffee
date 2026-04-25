@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 31
 type: "CALL"
+venue: "The Salt Spring National Art Prize $30,000"
 summary: "The Salt Spring National Art Prize $30,000 | DEC 12"
 ---
 

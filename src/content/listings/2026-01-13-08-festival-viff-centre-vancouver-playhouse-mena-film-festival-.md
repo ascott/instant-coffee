@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 8
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | VIFF Centre & Vancouver Playhouse | MENA Film Festival | JAN 15"
 ---
 

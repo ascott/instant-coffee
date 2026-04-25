@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 4
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Offsite | Ali Ahadi | APR 6"
 ---
 
 Exhibition Title: Here There Nowhere, Flaccid Means Without End
 Artist: Ali Ahadi
 Opening: Friday, 6 April, 7-11pm
-Exhibition Dates: Fri, 6 April â€“ Sat, 12 May, 2012
+Exhibition Dates: Fri, 6 April – Sat, 12 May, 2012
 Creative Contributor: Glenn Alteen
 Medium: Photography, Video
 

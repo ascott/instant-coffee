@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 26
 type: ""
+venue: "Rennie Collection"
 summary: "Rennie Collection | Job posting: Full-time Fine Art Preparator | JUN 21"
 ---
 
@@ -34,10 +35,10 @@ Job Post
 Location
 Career Opportunities
 
-Job BoardÂ»
-Call For ArtistsÂ»
-VolunteerÂ»
-Available SpacesÂ»
+Job Board»
+Call For Artists»
+Volunteer»
+Available Spaces»
 
 Facebook
 Twitter
@@ -48,6 +49,6 @@ Subscribe To Our Newsletter
 
 The Alliance Newsletter is an easy way to keep in the loop with arts scene
 in Metro Vancouver
-Subscribe Â»
+Subscribe »
 Metro Vancouver Arts Map
-Vancouver Arts Image Map Our Interactive map of Vancouver Â»
+Vancouver Arts Image Map Our Interactive map of Vancouver »

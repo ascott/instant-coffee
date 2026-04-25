@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 21
 type: "PERFORMANCE"
+venue: "RAG"
 summary: "RAG | Performance by Mary Sui Yee Wong | 7PM | APR 15"
 ---
 

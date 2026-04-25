@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 19
 type: "CALL"
+venue: "Richmond Public Art"
 summary: "Richmond Public Art | No.3 Road Art Columns, Exhibition 18, Part II | MAY 6"
 ---
 

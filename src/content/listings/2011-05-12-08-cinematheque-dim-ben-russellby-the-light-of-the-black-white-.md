@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 8
 type: ""
+venue: "Cinematheque"
 summary: "Cinematheque | DIM | Ben Russell:By the Light of the Black & White Gods | MAY 16"
 ---
 
@@ -26,11 +27,11 @@ embodiment of this contemporary youth ritual. The adaptation of trance
 ritual within hybrid culture lead to Trypps #6 (Malobi). Structures of
 ethnographic spectatorship are negotiated, and the body of the filmmaker
 folds into the cinematographic process. Trypps #7 (Badlands) fully indulges
-the semiotics of the moving image. The perception of a womanâ€™s LSD trip in
+the semiotics of the moving image. The perception of a woman’s LSD trip in
 Badlands National Park is suspended between the gullies and horizons of the
-desert landscape. â€œConcerned with notions of the romantic sublime,
+desert landscape. “Concerned with notions of the romantic sublime,
 phenomenological experience, and secular spiritualism, the work continues
-Russellâ€™s unique investigation into the possibilities of cinema as a site
+Russell’s unique investigation into the possibilities of cinema as a site
 for transcendenceâ€  (Museum of Contemporary Art Chicago). Ben Russell:
 www.dimeshow.com
 

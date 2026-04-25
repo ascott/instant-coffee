@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happily destined for a life of imi
 emailDate: "Thu, 13 Jan 2011 12:50:34 -0800"
 number: 15
 type: ""
+venue: "BLIM"
 summary: "BLIM | Justine Nagan’s Typeface | JAN 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 24
 type: ""
+venue: "Geist"
 summary: "Geist | Erasure Poetry Contest | JUL 1"
 ---
 

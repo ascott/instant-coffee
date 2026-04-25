@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 13
 type: "FUNDRAISER"
+venue: "Nikkei Centre"
 summary: "Nikkei Centre | Summer BBQ at Garden | AUG 7"
 ---
 

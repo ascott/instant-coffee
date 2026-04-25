@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 26
 type: "OPENING"
+venue: "R-SPACE"
 summary: "R-SPACE | Charlotte Yao: I moved to 2756 on that street.... | APR 13"
 ---
 

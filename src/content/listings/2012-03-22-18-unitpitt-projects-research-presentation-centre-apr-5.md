@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 18
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Research + Presentation Centre | APR 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 27
 type: "OPENING"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | EMDR | 6PM | APR 3"
 ---
 

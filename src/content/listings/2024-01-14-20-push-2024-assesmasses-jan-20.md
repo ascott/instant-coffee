@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 20
 type: "EVENT"
+venue: "PuSh 2024"
 summary: "PuSh 2024 | asses.masses | JAN 20"
 ---
 

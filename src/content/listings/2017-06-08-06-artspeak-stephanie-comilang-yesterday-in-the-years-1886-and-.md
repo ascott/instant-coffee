@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 6
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Stephanie Comilang | Yesterday, in the Years 1886 and 2017 | JUN 9"
 ---
 

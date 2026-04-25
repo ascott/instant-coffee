@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 6
 type: "PERFORMANCE"
+venue: "The Dance Centre"
 summary: "The Dance Centre | Co.ERASGA: Eternal Gestures | OCT 9"
 ---
 

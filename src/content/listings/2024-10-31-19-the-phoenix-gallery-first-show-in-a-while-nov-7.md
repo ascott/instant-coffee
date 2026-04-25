@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 19
 type: "OPENING"
+venue: "The Phoenix Gallery"
 summary: "The Phoenix Gallery | First Show in a While | NOV 7"
 ---
 

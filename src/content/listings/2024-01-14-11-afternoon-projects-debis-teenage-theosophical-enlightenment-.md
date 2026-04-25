@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 11
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Debi's (Teenage) Theosophical Enlightenment | JAN 13"
 ---
 

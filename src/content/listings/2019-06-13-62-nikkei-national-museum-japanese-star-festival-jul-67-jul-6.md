@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 62
 type: "EVENT"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Japanese Star Festival | JUL 6+7 | JUL 6"
 ---
 

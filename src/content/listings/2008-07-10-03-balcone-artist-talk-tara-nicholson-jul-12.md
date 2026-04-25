@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee Boils: 95% hotter"
 emailDate: "Thu, 10 Jul 2008 09:30:06 -0700"
 number: 3
 type: ""
+venue: "BALCONE"
 summary: "BALCONE | artist talk: Tara Nicholson | JUL 12"
 ---
 

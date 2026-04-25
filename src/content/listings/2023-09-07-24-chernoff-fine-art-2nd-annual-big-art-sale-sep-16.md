@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 24
 type: "EVENT"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | 2ND ANNUAL BIG ART SALE | SEP 16"
 ---
 

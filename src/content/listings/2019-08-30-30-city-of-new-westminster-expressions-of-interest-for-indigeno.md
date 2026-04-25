@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 30
 type: "CALL"
+venue: "City of New Westminster"
 summary: "City of New Westminster | Expressions of interest for Indigenous Artists | SEP 12"
 ---
 

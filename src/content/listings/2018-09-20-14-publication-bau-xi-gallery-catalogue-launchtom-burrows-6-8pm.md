@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 14
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Bau-Xi Gallery | Catalogue Launch:Tom Burrows | 6-8PM | SEP 27"
 ---
 

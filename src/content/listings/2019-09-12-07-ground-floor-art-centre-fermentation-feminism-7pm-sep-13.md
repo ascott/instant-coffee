@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 7
 type: "OPENING"
+venue: "Ground Floor Art Centre"
 summary: "Ground Floor Art Centre | Fermentation Feminism | 7PM | SEP 13"
 ---
 

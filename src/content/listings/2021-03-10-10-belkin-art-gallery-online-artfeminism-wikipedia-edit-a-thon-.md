@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 10
 type: "EVENT"
+venue: "Belkin Art Gallery [ONLINE]"
 summary: "Belkin Art Gallery [ONLINE] | ART+FEMINISM WIKIPEDIA EDIT-A-THON 2021 | MAR 11"
 ---
 

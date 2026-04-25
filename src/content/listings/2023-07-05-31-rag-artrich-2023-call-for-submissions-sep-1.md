@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 31
 type: "CALL"
+venue: "RAG"
 summary: "RAG | ARTRICH 2023 - Call for SUBMISSIONS | SEP 1"
 ---
 

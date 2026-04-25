@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | City of Vancouver | PUBLIC ART PLANNER | AUG 3"
 ---
 

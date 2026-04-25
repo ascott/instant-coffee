@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 14
 type: ""
+venue: "Higgledy Piggledy Parade"
 summary: "Higgledy Piggledy Parade | Ghost Poo by Arvo Leo, Roberts Creek | SEP 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 14
 type: ""
+venue: "UBC Bookstore @ Robson Square"
 summary: "UBC Bookstore @ Robson Square | Slide show: Julie Angus | OCT 16"
 ---
 
@@ -18,7 +19,7 @@ Free admission
 
 In 2005-06, Julie Angus rowed 10,000 kilometers across the Atlantic Ocean,
 becoming the first woman in the world to travel from mainland to mainland
-in a rowboat. She was accompanied by her fiancÃ© at the time, Colin Angus,
+in a rowboat. She was accompanied by her fiancé at the time, Colin Angus,
 who was completing a round-the-world expedition using human power only.
 
 The 145 days they spent rowing across the Atlantic offered Julie Angus, a

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 30
 type: "OPENING"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Vernissage: a feminist and a francophile | 5-8PM | NOV 8"
 ---
 

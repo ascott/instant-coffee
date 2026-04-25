@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 2
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | MYFANWY MACLEOD | SEP 27"
 ---
 
@@ -25,7 +26,7 @@ MacLeod. The series consists of origami sculptures and photographs
 of origami designs, each made from pages of a Playboy magazine in 
 which Vancouver-born playmate, Dorothy Stratten, appears as a 
 centerfold. Through a process of folding and unfolding, the works fulfill 
-Hugh Hefnerâ€™s criteria for the ideal centerfoldâ€”namely, that â€œa situation 
+Hugh Hefner’s criteria for the ideal centerfold—namely, that “a situation 
 is suggested: the presence of someone not in the picture.â€ 
 
 Dorothy Stratten (1960â€“1980) was â€œdiscoveredâ€  by her future husband 
@@ -37,7 +38,7 @@ became involved with filmmaker Peter Bogdanovich. After she ended
 her marriage to him, Stratten was murdered by Snider, who then 
 committed suicide.
 
-Her grisly death inspired Bob Fosseâ€™s film Star 80 (1983) as well as the 
+Her grisly death inspired Bob Fosse’s film Star 80 (1983) as well as the 
 TV movie Death of a Centerfold: The Dorothy Stratten Story (1981). 
 Stratten was also the subject of a book by Bogdanovich written four 
 years after her death, titled The Killing of the Unicorn: Dorothy Stratten 
@@ -55,11 +56,11 @@ throughout Canada, the United States and Europe, with recent
 exhibitions at the National Gallery of Canada and Mass MoCa. She is 
 the recipient of a VIVA award from the Doris and Jack Shadbolt 
 Foundation in 1999. She was awarded the City of Vancouver artist 
-studio residency (2002â€“2005) and the Glenfiddich Distillery artist-in-
+studio residency (2002–2005) and the Glenfiddich Distillery artist-in-
 residence program (2005).
 
 In 2008, MacLeod was commissioned to create a public sculpture for 
-the City of Vancouverâ€™s Olympic and Paralympic public art program. 
+the City of Vancouver’s Olympic and Paralympic public art program. 
 The Birds were permanently installed in April 2010. Her work is held in 
 public collections, including the national gallery of Canada, the 
 Vancouver Art Gallery, and in numerous private Canadian collections. 
@@ -82,5 +83,5 @@ samples from their menu, including homemade chutney, charcuterie,
 and beyond. The new and upcoming Show & Tell Press presents Made 
 in Vancouver (their inaugural, handbound publication), a pop-up shop 
 with a well curated selection of artist books/zines in the Satellite 
-bookstore, as well as a reading space in the Galleryâ€™s storefront 
+bookstore, as well as a reading space in the Gallery’s storefront 
 window. M&C Fine Art presents new works by artist Shawn Hunt.

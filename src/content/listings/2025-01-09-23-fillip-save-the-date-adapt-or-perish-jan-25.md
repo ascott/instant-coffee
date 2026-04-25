@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 23
 type: "EVENT"
+venue: "Fillip"
 summary: "Fillip | Save the Date: Adapt or Perish | JAN 25"
 ---
 

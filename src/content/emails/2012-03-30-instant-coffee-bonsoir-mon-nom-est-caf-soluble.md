@@ -12,7 +12,7 @@ listingCount: 54
 instant coffee listings / send us your art posts for free 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-03-30-01-csa-space-tonik-wojtyra-mar-29">01. CSA Space | Tonik Wojtyra | MAR 29</a>
-<a href="/instant-coffee/listings/2012-03-30-02-artspeak-the-weight-of-lives-im-not-living-mar-30">02. Artspeak | The Weight of Lives Iâ€™m Not Living | MAR 30</a>
+<a href="/instant-coffee/listings/2012-03-30-02-artspeak-the-weight-of-lives-im-not-living-mar-30">02. Artspeak | The Weight of Lives I’m Not Living | MAR 30</a>
 <a href="/instant-coffee/listings/2012-03-30-03-blessing-stick-winter-beach-tour-prophecy-sun-bowen-island-m">03. Blessing Stick | WINTER BEACH TOUR | PROPHECY SUN @ BOWEN ISLAND | MAR 30</a>
 <a href="/instant-coffee/listings/2012-03-30-04-or-gallery-fundraiser-fundraiser-macbooty-brothers-mar-30">04. OR GALLERY FUNDRAISER | fundraiser: MacBooty Brothers | MAR 30</a>
 <a href="/instant-coffee/listings/2012-03-30-05-project-space-exhibition-of-contemporary-poetry-chapbooks-ma">05. Project Space | Exhibition of Contemporary Poetry Chapbooks | MAR 30</a>
@@ -49,11 +49,11 @@ at 19:00. The show continues until April 19th, 2012.
 
 Miner's work is difficult, waitresses don't have it the best,
 That's how my song starts, this song about bankers in the West.
-A spring butterfly has flown by â€” oh! it's landed! And soaking in dew so 
+A spring butterfly has flown by — oh! it's landed! And soaking in dew so 
 purely,
 and there the bankers in the West are going grey prematurely...
 
-â€“ Andzrej Rosiewicz, Piosenka o zachodnich bankierach 
+– Andzrej Rosiewicz, Piosenka o zachodnich bankierach 
 
 See Pulpfiction Books (2422 Main St.) for admission during regular 
 business hours: Mon-Wed 10am-8pm, Thurs-Sat 10am-9pm, Sundays 
@@ -61,16 +61,16 @@ and holidays 11am-7pm.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-03-30-02-artspeak-the-weight-of-lives-im-not-living-mar-30">02. Artspeak | The Weight of Lives Iâ€™m Not Living | MAR 30</a>
+<a href="/instant-coffee/listings/2012-03-30-02-artspeak-the-weight-of-lives-im-not-living-mar-30">02. Artspeak | The Weight of Lives I’m Not Living | MAR 30</a>
 ------------------------------------------------------------------------
-The Weight of Lives Iâ€™m Not Living
+The Weight of Lives I’m Not Living
 
 Guy Ben-Ner, Fabiola Carranza, 
 Naufus Ramirez-Figueroa
 
 March 31 - May 12, 2012
 Opening Friday, March 30, 8PM
-Artistsâ€™ Talk, Saturday, April 28, 3PM
+Artists’ Talk, Saturday, April 28, 3PM
 Guy Ben-Ner Screening, May 5, 2PM
 
 This exhibition brings together the work of three artists who investigate 
@@ -89,7 +89,7 @@ videos starring himself and his family, occasionally using the intimate
 spaces of their home as a makeshift set or, in his well known work 
 Stealing Beauty (2007), having a domestic drama unfold in the 
 showrooms at IKEA. With his children grown into adolescence and his 
-divorce finalized, Ben-Nerâ€™s more recent work expresses a life of 
+divorce finalized, Ben-Ner’s more recent work expresses a life of 
 wandering and the loss of a sense of belonging. Drop the Monkey 
 (2009) expounds the difficulties of starting a new relationship and was 
 made shot-by-shot in camera without external editing during twenty-five 
@@ -99,19 +99,19 @@ conversation in rhyme while overtly questioning the divide between art
 and personal relations. A screening of his works Second Nature (2008) 
 and Wild Boy(2004) will take place on May 5th.
 
-Two recurring concerns in Fabiola Carranzaâ€™s practice are the 
+Two recurring concerns in Fabiola Carranza’s practice are the 
 investigation of language and appropriation as an aesthetic strategy. 
 Her work often focuses on the historical and cultural specificities of her 
 source materials, exploring the tensions between privilege and 
 impoverishment and between her adopted home of Vancouver and her 
 home country of Costa Rica. For this exhibition, Carranza has 
 constructed a modest consignment shop in the gallery to sell used 
-wedding rings. The rings â€” remnants of relationships whose reasons 
-for dissolution are not disclosed â€” are available for purchase for the 
+wedding rings. The rings — remnants of relationships whose reasons 
+for dissolution are not disclosed — are available for purchase for the 
 duration of the exhibition.
 
 The son of a former guerrilla fighter in the Guatemalan Civil War, 
-Ramirez-Figueroaâ€™s work delves into political violence, his experience 
+Ramirez-Figueroa’s work delves into political violence, his experience 
 as a refugee in Canada, and his personal difficulties with being a 
 descendant of wealthy landowners. Despite the serious subject matter, 
 his works are often tinged with absurdity and humour. In Bitch on a 
@@ -120,7 +120,7 @@ with a dog perched on the trunk. The dog bears the face of Lynndie
 England, the former American soldier who was convicted in 2005 for 
 her participation in the abuse and torture of prisoners at Abu Ghraib 
 prison in Baghdad. The work pairs ideas of excess as they relate to 
-empathy, while simultaneously acknowledging the tropics as a trope â€” 
+empathy, while simultaneously acknowledging the tropics as a trope — 
 a place of leisure, sex, luscious fruit, and endless natural resources.
 
 ------------------------------------------------------------------------
@@ -228,7 +228,7 @@ tracy@projectspace.ca | 604.690.4164
 Project Space Opens Exhibition of Contemporary Poetry Chapbooks 
 Curated by Poetry Is Dead Publisher Daniel Zomparelli 
 
-VANCOUVER, BC â€“ Project Space will open its first exhibition, Arte 
+VANCOUVER, BC – Project Space will open its first exhibition, Arte 
 Factum, 
 on Friday, March 30 at 8pm with an opening reception that doubles as 
 the launch
@@ -236,9 +236,9 @@ of Poetry Is Dead issue five.
 
 Arte Factum is an exhibition of poetry chapbooks from across North 
 America 
-that features twenty contemporary worksâ€”including new releases by 
+that features twenty contemporary works—including new releases by 
 Jordan Abel 
-and Dina Del Bucchia, commissioned by Poetry Is Deadâ€”and is 
+and Dina Del Bucchia, commissioned by Poetry Is Dead—and is 
 accompanied by 
 curator Daniel Zomparelli's personal chapbook collection along with 
 additional 
@@ -264,7 +264,7 @@ to rise in popularity. This resurgence of an antiquated book production
 and distribution 
 process reflects a rebellion against mass dissemination online or 
 through traditional 
-distribution channelsâ€”a push towards localization versus globalization. 
+distribution channels—a push towards localization versus globalization. 
 How do we 
 create in a time of digitalism? We revert back to physical production.
 
@@ -310,66 +310,66 @@ event will take place on Friday, March 30 through to Saturday, March
 31 in the Lillooet Room (301) located in the Chapman Learning 
 Commons of the Irving K. Barber Learning Centre, 1961 East Mall, 
 Vancouver, BC V6T 1Z1. Doors open at 10:30am with presentations 
-beginning at 10:45am. In conjunction with the symposium, â€œThe 
+beginning at 10:45am. In conjunction with the symposium, “The 
 Unseenâ€  art exhibition will be opening Friday, March 30th at the AMS 
 Art Gallery at 7:00pm (details below). The schedule is as follows:
 
 Friday, March 30th, 2012
-10:30â€“ 10:45: Opening Remarks
+10:30– 10:45: Opening Remarks
 
 Panel I:
-10:45 â€“ 11:30:
-Chris Jones (University of Florida), â€œ'Walk into the View': 
+10:45 – 11:30:
+Chris Jones (University of Florida), “'Walk into the View': 
 Rephotography as Art Practice 1975-2010"
-11:30 â€“ 12:15:
-Frances Cullen (University of Alberta), â€œStillness in Motion: Alex 
+11:30 – 12:15:
+Frances Cullen (University of Alberta), “Stillness in Motion: Alex 
 Pragerâ€™s Despair and the Reassessment of Cinematic Timeâ€ 
 
-12:15 â€“ 1:15: Lunch Break
+12:15 – 1:15: Lunch Break
 
-1:15 â€“ 1:30: Keynote Introduction
-1:30 â€“ 3:00: Keynote Speaker â€“ Dr. Darby English (University of 
+1:15 – 1:30: Keynote Introduction
+1:30 – 3:00: Keynote Speaker – Dr. Darby English (University of 
 Chicago)
 
-3:00 â€“ 3:30: Coffee Break
+3:00 – 3:30: Coffee Break
 
 Panel II:
-3:30 â€“ 3:45: Exhibition Introduction
-3:45 â€“ 4:30:
-Alexandra L. Simpson (Queenâ€™s University), â€œBlindness and Site: Art 
+3:30 – 3:45: Exhibition Introduction
+3:45 – 4:30:
+Alexandra L. Simpson (Queen’s University), “Blindness and Site: Art 
 Illustrating the Invisible in Touch Tour Picturesâ€ 
 
-5:00 â€“ 7:00: The Unseen Opening Reception and Exhibition, AMS Art 
+5:00 – 7:00: The Unseen Opening Reception and Exhibition, AMS Art 
 Gallery
 Student Union Building, 6138 Student Union Boulevard, UBC
 Exhibiting artists: Kevin Day & Nathan McNinch, Colin Lyons, Aydin 
-Matlabi, Faye Mullen, Tristan Sober-Blodgett and Ã‰tienne Tremblay-
+Matlabi, Faye Mullen, Tristan Sober-Blodgett and Étienne Tremblay-
 Tardif
 
 Saturday, March 31st, 2012
-10:30 â€“ 10:45: Coffee & Opening Remarks
+10:30 – 10:45: Coffee & Opening Remarks
 
 Panel III
-10:45 â€“ 11:30:
-Catherine Walsh (Boston University), â€œDisplacement and Figuration in 
+10:45 – 11:30:
+Catherine Walsh (Boston University), “Displacement and Figuration in 
 Giambolognaâ€™s Appenninoâ€ 
-11:30 â€“ 12:15:
+11:30 – 12:15:
 Christina Gray (UCLA), â€œHumour and Adolf Loosâ€ 
-12:15 â€“ 1:00:
-Alexey Golubev (UBC), â€œUnseen Materiality in Marginalia of Post-
+12:15 – 1:00:
+Alexey Golubev (UBC), “Unseen Materiality in Marginalia of Post-
 Stalinist Soviet Magazinesâ€ 
 
-1:00 â€“ 2:00: Lunch Break
+1:00 – 2:00: Lunch Break
 
 Panel IV
-2:00 â€“ 2:45:
-Carley Hodgkinson (NSCAD), â€œRe-imagining the Temporary and Void 
+2:00 – 2:45:
+Carley Hodgkinson (NSCAD), “Re-imagining the Temporary and Void 
 Spaces of the Cityâ€ 
-2:45 â€“ 3:30:
-Erica Zacharias (UBC), â€œInsight Out of Site: Staging Gordon Matta-
+2:45 – 3:30:
+Erica Zacharias (UBC), “Insight Out of Site: Staging Gordon Matta-
 Clarkâ€ 
 
-3:30 â€“ 4:00: Closing Remarks
+3:30 – 4:00: Closing Remarks
 
 For additional information, please visitwww.ahva.ubc.ca
 
@@ -389,7 +389,7 @@ materials, objects and architecture in performance and media. Over the
 month of March, Hall composed, choreographed, animated and 
 constructed the elements of Paper House.
 
-Lief Hallâ€™s multidisciplinary practice employs light, sound, sculpture and 
+Lief Hall’s multidisciplinary practice employs light, sound, sculpture and 
 movement to create affective environments. Her installations, 
 performances and compositions induce tension between the virtual and 
 real by projecting 3D computer animation and video onto bodies and 
@@ -417,7 +417,7 @@ flourish when long curtains of it are suspended. Video projections on
 Paper House create shadows that alter perceptions of space, weight 
 and depth. The projections transform solid objects into fluid forms, 
 creating architecture out of moving light. The texture and patterning of 
-Hallâ€™s 3D animation also obscures the dancers forms, dissolving them 
+Hall’s 3D animation also obscures the dancers forms, dissolving them 
 into the materiality of their own construction.
 
 All Events + Exhibitions are free. Public funding and membership fees 
@@ -528,9 +528,9 @@ Williams, Thomas Demand, Simon Starling, Tacita Dean, and others,
 and contributed an essay to the catalogue Light Years: Conceptual Art 
 and the Photograph (Art Institute of Chicago, 2011). In 2007 Godfrey 
 curated Matthew Buckingham: Play the Story at the Camden Arts 
-Centre, London, and in 2009â€“2010, Roni Horn aka Roni Horn, a joint 
+Centre, London, and in 2009–2010, Roni Horn aka Roni Horn, a joint 
 travelling exhibition organized between the Tate Modern and the 
-Whitney Museum of American Art. He curated Francis AlÃ¿s: A Story of 
+Whitney Museum of American Art. He curated Francis Alÿs: A Story of 
 Deception in 2010 and co-curated Gerhard Richter: Panorama in 2011 
 and Alighiero Boetti: Game Plan in 2012. 
 
@@ -590,7 +590,7 @@ entzaubert is a radical queer d.i.y. film festival happening 2 - 5 august
 2012 at the
 queer wagenplatz schwarzer kanal in berlin
 
-we will create a space for queer/feminist d.i.y. cinema â€“ you provide the 
+we will create a space for queer/feminist d.i.y. cinema – you provide the 
 films!
 
 we are looking for movies within or beyond these categories:
@@ -598,21 +598,21 @@ arty, punky, no-borders, anarchic, documentaries, porn, trashy, fiction,
 experimental, feminist, aids/hiv, funny, crazy, serious, low or no budget, 
 music, quality, concise, international, homo-socialist, homosexualist, 
 people of colour, revolutionary, polyamorous, monogamous, lazy, 
-tranny-dyky, faggy, old, brand-new, provocative, difficult, hot,â€¦â€¦we 
-welcome films in any language â€“ multiple language/subtitles are always 
+tranny-dyky, faggy, old, brand-new, provocative, difficult, hot,……we 
+welcome films in any language – multiple language/subtitles are always 
 appreciated.
-if thatâ€™s not possible, submit anyway! we will try to find subtitlers.
+if that’s not possible, submit anyway! we will try to find subtitlers.
 
 ******* WORKSHOPS *********
 up for sharing your skills?
 need a reason to make your first film ?
 we plan to organize a couple of workshops during the festival.
 we would like *you* to prepare,
-moderate or host them - or simply share equipmentâ€¦
+moderate or host them - or simply share equipment…
 
 This might be filming, editing, directing, subtitling, writing, costumes, 
 make-up, acting, light/sound/camera as well as workshop discussions.
-write an email with the subject â€žworkshopâ€œ with your ideas!
+write an email with the subject „workshop“ with your ideas!
 
 ******** CONTACT AND DEADLINE *******
 deadline: 1 april 2012
@@ -629,7 +629,7 @@ main stream commercial festivals.
 entzaubert is a radical queer festival.
 we think that queer is about living your life in a political way which 
 challenges gender and power structures; also that fucking with gender 
-normativity, abolishing borders and fighting for migrantsâ€™ and workersâ€™ 
+normativity, abolishing borders and fighting for migrants’ and workers’ 
 rights are all part of one struggle.
 the capitalist system is based on social inequality. so for us opposing 
 capita lism is connected to the fight against transphobia, homophobia 
@@ -647,7 +647,7 @@ das 6. entzaubert queer d.i.y. unkommerzielle Filmfestival ist
 unterwegs!
 wir erwarten jetzt gespannt eure filmeinreichungen :)
 
-aktuelle Downloads und mehr Ã¼ber das Festival findet ihr unter 
+aktuelle Downloads und mehr über das Festival findet ihr unter 
 entzaubert.blogsport.de
 [ bald auch auf deutsch :o) ]
 
@@ -655,55 +655,55 @@ LETZTER TAG: 1. APRIL 2012
 
 Wenn ihr Fragen habt schreibt uns:
 entzaubert AT gmail DOT com
-xxxxx wir freuen uns darauf von euch zu hÃ¶ren!
+xxxxx wir freuen uns darauf von euch zu hören!
 
-********* AUFRUF fÃ¼r filmeinreichung ********
+********* AUFRUF für filmeinreichung ********
 
 entzaubert
 2. - 5. august 2012 Berlin
 entzaubert ist ein radikal queer d.i.y.* Filmfestival welches im Sommer 
 2012 auf dem queeren Wagenplatz Schwarzer Kanal in Berlin 
 stattfindet.
-Wir schaffen einen Raum fÃ¼r queer/ feministisches DIY Kino â€“ und ihr 
+Wir schaffen einen Raum für queer/ feministisches DIY Kino – und ihr 
 tragt die Filme bei!
-Wir suchen Filme innerhalb, auÃŸerhalb und jenseits der folgenden 
+Wir suchen Filme innerhalb, außerhalb und jenseits der folgenden 
 Kategorien:
-KÃ¼nstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, 
-Porno, experimentell, trashy, feministisch, Aids/HIV, lustig, verrÃ¼ckt, 
+Künstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, 
+Porno, experimentell, trashy, feministisch, Aids/HIV, lustig, verrückt, 
 ernst, mit wenig oder ohne geld, Musikclips, kurzgefasst, international, 
-homo-sozialistisch, homosexuell, people of colour, revolutionÃ¤r, 
-polyamurÃ¶s, monogam, faul, tranny-dyky, schwul, alt, brandneu, 
+homo-sozialistisch, homosexuell, people of colour, revolutionär, 
+polyamurös, monogam, faul, tranny-dyky, schwul, alt, brandneu, 
 provokativ, schwierig, heiss,....
-Filme in jeder Sprache sind willkommen â€“ verschiedene Sprachen/ 
-Untertitel wÃ¤ren toll. Wenn das nicht mÃ¶glich ist: Gerne trotzdem 
+Filme in jeder Sprache sind willkommen – verschiedene Sprachen/ 
+Untertitel wären toll. Wenn das nicht möglich ist: Gerne trotzdem 
 einreichen!
 
-****** AUFRUF FÃœR WORKSHOPS *****
+****** AUFRUF FÜR WORKSHOPS *****
 
-Lust dein KÃ¶nnen zu teilen? Suchst du einen Grund deinen ersten Film 
+Lust dein Können zu teilen? Suchst du einen Grund deinen ersten Film 
 zu machen?
-wÃ¤hrend des festivals wird es zeit und raum fÃ¼r einige workshops 
-geben - dafÃ¼r brauchen wir deine beteiligung! wenn du kenntnisse im 
-filmbereich hast und diese an andere weitergeben mÃ¶chtest, nimm 
+während des festivals wird es zeit und raum für einige workshops 
+geben - dafür brauchen wir deine beteiligung! wenn du kenntnisse im 
+filmbereich hast und diese an andere weitergeben möchtest, nimm 
 kontakt mit uns auf.
-die Workshops kÃ¶nnen Filmen, Schneiden, Regie, Untertiteln, 
-Schreiben, KostÃ¼men, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder 
+die Workshops können Filmen, Schneiden, Regie, Untertiteln, 
+Schreiben, Kostümen, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder 
 auch eine Diskussion beinhalten.
-Schick uns deine Ideen in einer Email mit dem Titel â€žWorkshopâ€œ.
+Schick uns deine Ideen in einer Email mit dem Titel „Workshop“.
 
 ****** was ist entzaubert? ******
 
-entzaubert ist nicht-kommerziell und der Eintritt zu allen Filmen lÃ¤uft 
-Ã¼ber Spenden. Wir unterstÃ¼tzen konzepte wie Copyleft und Creative 
-Commons. Entzaubert bietet eine Plattform fÃ¼r Filme und 
+entzaubert ist nicht-kommerziell und der Eintritt zu allen Filmen läuft 
+über Spenden. Wir unterstützen konzepte wie Copyleft und Creative 
+Commons. Entzaubert bietet eine Plattform für Filme und 
 Dokumentationen, welche vielleicht nicht in mainstream-kommerziellen 
 Festivals gezeigt werden.
 entzaubert ist ein radikales queer Festival. Wir verstehen queer als 
 eine politische Lebenseinstellung, welche Geschlecht und 
 Machtstrukturen anfechtet und auch die Dekonstruktion von 
-Geschlechternormen; den Abbau von Grenzen und den Kampf fÃ¼r 
+Geschlechternormen; den Abbau von Grenzen und den Kampf für 
 Migrant_innen- und Arbeiter_innenrechte alle als Teile eines Kampfes 
-sieht. Das kapitalistische System basiert auf sozialer Ungleichheit. FÃ¼r 
+sieht. Das kapitalistische System basiert auf sozialer Ungleichheit. Für 
 uns ist der Widerstand gegen den Kapitalismus verbunden mit dem 
 Kampf gegen Transphobie, Homophobie und Sexismus, ebenso wie 
 gegen Rassismus, Faschismus und Militarismus. 
@@ -720,34 +720,34 @@ Benvenut* Queers!
 
 Vi invitiamo a presentare i vostri film.
 Stiamo preparando il quinto â€ entzaubertâ€  D.I.Y .(do it yourself) 
-filmfestival, che avrÃ  luogo a Berlino dal 2.- 5. agosto 2012.
+filmfestival, che avrà luogo a Berlino dal 2.- 5. agosto 2012.
 Siamo interessat* ai vostri film. Se volete paticipare, spedite il vostro 
 materiale, prima del 1 aprile 2012.
 Le informazioni sul festival (solo in inglese) le trovate alla pagina: 
 entzaubert.blogsport.de
 Se avete delle domande, contattateci: entzaubert@gmail.com
 Siamo entusiast* e ansios* di avere vostre notizie!
-La scadenza per spedire le domande Ã¨ il 1 di aprile 2012!
+La scadenza per spedire le domande è il 1 di aprile 2012!
 
-ENTZAUBERT Ã© un Filmfestival radicale, queer, D.I.Y. , che avrÃ  luogo 
+ENTZAUBERT é un Filmfestival radicale, queer, D.I.Y. , che avrà luogo 
 in estate, dal 2 al 5 agosto 2012, a Berlino, in uno spazio queer che si 
-chiama â€œ Wagenplatz Schwarzer Kanalâ€œ(www.schwarzerkanal.squat.net)
+chiama “ Wagenplatz Schwarzer Kanal“(www.schwarzerkanal.squat.net)
 Noi creiamo e mettiamo a disposizione i nostri spazi per il festival D.I.Y. 
-queer/ femminista â€“ e voi potete contribuire spedendoci i vostri film.
+queer/ femminista – e voi potete contribuire spedendoci i vostri film.
 Cerchiamo film dentro e fuori queste categorie:
 artistici, punk, anti-confini, anarchici, documentari, porno, trash, 
 sperimentali, femministi, AIDS/HIV, divertenti, senza senso, seri, low e 
-no budget, musicali, di buona qualitÃ , sintetici, internazionali, omo-
+no budget, musicali, di buona qualità, sintetici, internazionali, omo-
 socialisti, omosessualisti, P.O.C.(people of colour = auto definizione di 
 persone che hanno subito atti di razzismo), rivoluzionari, poli-amorosi, 
 monogamici, pigri, di checche, trans, froci, vecchi, nuovissimi, 
 provocativi, difficili, spinti.
 
 Benvenuti film in tutte le lingue, se con sottotitoli sarebbe fantastico.
-Ma se non Ã© possibile, spediteli lo stesso. (Noi troveremo il modo di 
+Ma se non é possibile, spediteli lo stesso. (Noi troveremo il modo di 
 sottotitolarli)
 workshops:
-Hai voglia di condividere le tue capacitÃ ?
+Hai voglia di condividere le tue capacità?
 Stai cercando un motivo per fare il tuo primo film?
 Durante il festival vuoi avere un tuo spazio e fare un workshop?
 Abbiamo bisogno della tua partecipazione!
@@ -759,25 +759,25 @@ Contatto: entzaubert (at) gmail (dot) com
 Mandaci le tue idee via e-mail con intestazione: Workshop.
 Scadenza: 1. Aprile 2012
 
---------- Che cosa Ã© â€œentzaubertâ€œ ------------
+--------- Che cosa é “entzaubert“ ------------
 
-Entzaubert Ã© un festival non-profit, lâ€™ingresso Ã© gratuito o a donazione.
+Entzaubert é un festival non-profit, l’ingresso é gratuito o a donazione.
 Sosteniamo le idee del copyleft e creative commons.
-Entzaubert offre la possibilitÃ  a film e documentari di essere proiettati 
+Entzaubert offre la possibilità a film e documentari di essere proiettati 
 quando non sarebbero normalmente mostrati nei festival mainstream e 
 commerciali.
-Entzaubert Ã© un festival radicale, queer.
+Entzaubert é un festival radicale, queer.
 Intendiamo queer come atteggiamento politico, che mette in 
 discussione il genere e le strutture di potere. Decostruiamo le norme 
 dei generi, cancelliamo i confini , lottiamo per migranti e lavoratori/trici 
 come parti di una sola lotta.
-La disuguaglianza sociale Ã© la base del capitalismo. Quindi per noi 
-lâ€™opposizione al capitalismo Ã© connessa alla lotta contro la transfobia, 
-lâ€™omofobia e il sessismo, cosÃ¬ come contro il razzismo, il fascismo e il 
+La disuguaglianza sociale é la base del capitalismo. Quindi per noi 
+l’opposizione al capitalismo é connessa alla lotta contro la transfobia, 
+l’omofobia e il sessismo, così come contro il razzismo, il fascismo e il 
 militarismo.
 Attraverso Entzaubert vogliamo incoraggiare tutte le persone queer 
 radicali e femministe a esprimersi con le loro immagini e parole per 
-celebrare la nostra comunitÃ  e diversitÃ !
+celebrare la nostra comunità e diversità!
 Raggiungici e partecipa!
 
 
@@ -792,20 +792,20 @@ Vancouver Art Gallery, 4th floor
 750 Hornby Street
 
 Unlikely Architectures is a series of discussions that investigates the 
-city as it shifts and growsâ€”it is, in many ways, a discussion of possible 
-futures. The artist working in public space, a citizenâ€™s occupation of the 
-plaza, an architectâ€™s re-configuration of the built environment, the city-
-plannerâ€™s vision for the city; all these creative â€˜momentsâ€™ push our 
+city as it shifts and grows—it is, in many ways, a discussion of possible 
+futures. The artist working in public space, a citizen’s occupation of the 
+plaza, an architect’s re-configuration of the built environment, the city-
+planner’s vision for the city; all these creative ‘moments’ push our 
 environment towards change. A broad future, however, must also 
-acknowledge its pastâ€”and the city encompasses many.
+acknowledge its past—and the city encompasses many.
 
 This second of three conversations will uncover some of these pivotal 
 moments. Annabel Vaughan, graduate architect and city thinker, will 
-speak on the evolution of public space in the cityâ€”with some specific 
+speak on the evolution of public space in the city—with some specific 
 reference to familiar downtown landmarks. Susan Roy, historian, traces 
 the chronology of First Nations reserve land in the city, and artist/ 
 curator Sabine Bitter finds new associations for the nightly blast of 
-Vancouverâ€™s Nine Oâ€™clock Gun. Together and separately, they plumb 
+Vancouver’s Nine O’clock Gun. Together and separately, they plumb 
 the past to propose new ways of regarding our urban environment. The 
 discussion will be moderated by writer, curator and educator Sadira 
 Rodrigues.
@@ -815,12 +815,12 @@ and an internationally recognized multi-media artist. In collaboration
 with Vienna-based artist Helmut Weber, she addresses recent urban 
 geographies, architecture and the politics of representation and of 
 space. She is currently Curator at the Audain Gallery at SFU 
-Woodwardâ€™s.
+Woodward’s.
 
 Susan Roy is a post-doctoral research fellow in the Department of 
 History, York University. Her book These Mysterious People: Shaping 
 History and Archaeology in the Northwest Coast Community (McGill-
-Queenâ€™s University Press, 2010) examines the history of the Musqueam 
+Queen’s University Press, 2010) examines the history of the Musqueam 
 First Nation and the Marpole Midden on the Fraser River. She also 
 works as a historical research consultant for First Nations in Canada.
 
@@ -834,7 +834,7 @@ intersection of art and architecture in the public realm will shape the
 outcome. She has co-written articles for Artspeak, West Coast Line and 
 Vancouver Matters [Vancouver: Blueimprint, 2008] with Rob Brownie 
 and has exhibited work at Artspeak Gallery, Presentation House 
-Gallery, Vancouver Art Gallery, La Fonderie Darling, MontrÃ©al and the 
+Gallery, Vancouver Art Gallery, La Fonderie Darling, Montréal and the 
 Other Gallery in Banff.
 
 Over the last decade Sadira Rodrigues has worked in a variety of roles 
@@ -863,25 +863,25 @@ Talk by Rakett
 Wednesday, April 04, 7pm
 
 Norwegian curatorial collective Rakett will discuss their recent projects, 
-including Common Lands â€“ Allmannaretten a temporary art project 
-using uses the process of redevelopment around BjÃ¸rvika in Oslo to 
+including Common Lands – Allmannaretten a temporary art project 
+using uses the process of redevelopment around Bjørvika in Oslo to 
 highlight a number of issues associated with urban development, 
 democracy, access and the distribution of power. taking the current city 
-development of BjÃ¸rvika in Oslo as its starting point for which they 
-invited three artist-duos: Bik Van der Pol, DellbrÃ¼gge & de Moll, and 
-Geir Tore Holm & SÃ¸ssa JÃ¸rgensen.
+development of Bjørvika in Oslo as its starting point for which they 
+invited three artist-duos: Bik Van der Pol, Dellbrügge & de Moll, and 
+Geir Tore Holm & Søssa Jørgensen.
 
 This lecture series is part of *Feeling So Much Yet Doing So Little* by 
 Instant Coffee, an exhibition and series of events that is a tangential 
-revisiting of the Canadian Artist Collectiveâ€™s 12 year history. Rakett are 
-the third speakers in the series. SofÃ­a HernÃ¡ndez Chong Cuyâ€™s will 
+revisiting of the Canadian Artist Collective’s 12 year history. Rakett are 
+the third speakers in the series. Sofía Hernández Chong Cuy’s will 
 follow, but her lecture has been postponed until later in 2012. Each 
 lecture is moderated by Caitlin Jones and will address their distinct 
 theoretical and collaborative approaches.
 
 This series is generously supported by Jane Irwin and Ross Hill.
 
-Rakett (Ã…se LÃ¸vgren and Karolin Tampere) is an ongoing mobile arena 
+Rakett (Åse Løvgren and Karolin Tampere) is an ongoing mobile arena 
 for various activities, ranging from curatorial practice to collaborative 
 art projects. Their work touches on a range of questions around 
 (co)authorship, (im)material production, the role of the artist and 
@@ -901,24 +901,24 @@ THE FUTURE IS FEMALE
 
 WINSOR GALLERY
 
-APRIL 4 â€“ MAY 6, 2012
+APRIL 4 – MAY 6, 2012
 
 Winsor Gallery is pleased to present The Future is Female, an 
 exhibition of new works by Angela Grossmann. Please join us for the 
-opening reception on Wednesday, April 4, from 6:00 â€“ 8:00 pm. The 
+opening reception on Wednesday, April 4, from 6:00 – 8:00 pm. The 
 artist will be in attendance.
 
 ARTIST TALK: We also welcome you to join us on Saturday, April 28, at 
 3:30 pm for an engaging artist talk by Angela, presented as part of 
 Canadian Art Gallery Hop Vancouver.
 
-Winsor Gallery is open Monday â€“ Saturday, 10:00 am â€“ 6:00 pm, and 
-Sundays, 11:00 am â€“ 5:00 pm.
+Winsor Gallery is open Monday – Saturday, 10:00 am – 6:00 pm, and 
+Sundays, 11:00 am – 5:00 pm.
 
 For more information on the exhibition or artist talk contact Sunshine: 
 sunshine@winsorgallery.com
 
-Sunshine FrÃ¨re
+Sunshine Frère
 
 Winsor Gallery
 
@@ -976,7 +976,7 @@ range of stakeholders, including government funders.
 The Gallery Administrator assists with the management of gallery 
 events including opening receptions, donor events and venue rentals. 
 S/he will play a key role in providing administrative 
-support to Centre Aâ€™s Fundraising Committee by managing the annual 
+support to Centre A’s Fundraising Committee by managing the annual 
 fundraising dinner and auction, and efficiently undertaking a range of 
 event co-ordination tasks with a minimum of supervision. 
 
@@ -1003,7 +1003,7 @@ candidate mustbe highly organized and detail oriented with the ability to
 multi-task and work in a fast-paced environment. S/he must be able to 
 work independently and as part of a team.
 
-A valid driverâ€™s license and access to a vehicle is an asset. The 
+A valid driver’s license and access to a vehicle is an asset. The 
 candidate must be available to work Saturdays. From time to time the 
 candidate will be required to work after hours to manage events.
 S/he will be compensated with time in lieu for any after hours work.
@@ -1039,7 +1039,7 @@ Join us for our upcoming event, Visual Artist Talk: Liz Magor
 SPEAKER BIO
 
 Liz Magor is a Vancouver-based artist who studied at the University of 
-British Columbia, Vancouver; Parsonâ€™s School of Design, New York; 
+British Columbia, Vancouver; Parson’s School of Design, New York; 
 and Vancouver School of Art. Since the early 1970s, Magor has 
 produced numerous sculptural and photo-based works that have 
 sensitively addressed issues of place and refuge, creation and 
@@ -1049,7 +1049,7 @@ Montreal, and has also been included in a number of group exhibitions
 over the last 35 years including Take Me There Show Me the Way, 
 2008 Haunch of Venison, New York; Intertidal, 2005 MuHKA, Antwerp, 
 Belgium; Baja to Vancouver, 2004, Wattis Institute, San Francisco; and 
-Elusive Paradise 2001, National Gallery of Canada, Ottawa. Magorâ€™s 
+Elusive Paradise 2001, National Gallery of Canada, Ottawa. Magor’s 
 work has also been exhibited in such major international exhibitions as 
 Documental VIII (1987), Kassel; the 41st Venice Biennale, and the 4th 
 Biennale of Sydney. Magor has taught at Ontario College of Art and 
@@ -1066,7 +1066,7 @@ REBECCA BREWER
 
 Nine Paintings of Ayn Rand
 
-April 6 â€” May 6
+April 6 — May 6
 Opening reception Friday April 6, 7-10 PM
 
 Gallery hours 12-5 Thurs-Sat (ring buzzer)
@@ -1147,8 +1147,8 @@ Curated by Mark Delong
 Interurban Gallery
 1 E Hastings St. Vancouver, BC
 
-Exhibition: April 6th â€“ May 5, 2012.
-Opening: Friday, April 6th, 6pm â€“ 9pm
+Exhibition: April 6th – May 5, 2012.
+Opening: Friday, April 6th, 6pm – 9pm
 Hours: Wed - Sat, 1pm - 5pm
 
 The Storyboard Label is pleased to bring you a two part exhibition 
@@ -1158,14 +1158,14 @@ Barry Doupe in the main gallery. Both exhibitions are curated by
 Vancouver artist Mark Delong.
 
 The main part of this exhibition revolves around the work of Canadian 
-artist Phillip Melvin. Melvin (1938 â€“ 2010) was an artist who spent his 
+artist Phillip Melvin. Melvin (1938 – 2010) was an artist who spent his 
 life on the periphery of society, travelling across Canada while living in 
 various cities before settling in Vancouver. He is a self-taught artist 
 known for his woodcarvings and paintings as well as his poetry. Melvin 
-is listed in Kobayashi and Birdâ€™s â€œA Compendium of Canadian Folk 
+is listed in Kobayashi and Bird’s “A Compendium of Canadian Folk 
 Artistsâ€  and in on display in the Canadian Museum of Civilization. 
 
-Accompanying some of Melvinâ€™s carvings is work by emerging artists 
+Accompanying some of Melvin’s carvings is work by emerging artists 
 Joey Haley, Jonathan Petersen and Barry Doupe.
 
 In the entrance to the gallery, Vancouver artist Nathalee Paolinelli will 
@@ -1253,7 +1253,7 @@ books with ECW Press: Seven into Even (2006), Careful (2003), and
 Into the Fold (2000). She writes poetry reviews for The Georgia 
 Straight, and teaches creative and critical writing at Simon Fraser 
 University and Emily Carr University of Art + Design. She was 
-Queenslandâ€™s inaugural poet-in-residence at the Judith Wright Centre 
+Queensland’s inaugural poet-in-residence at the Judith Wright Centre 
 of Contemporary Arts in Brisbane, Australia in 2005, a poet-in-
 residence in Tasmania in 2006, and a guest writer at the Queensland 
 Poetry Festival in 2007. She collaborated with artist Shima Iuchi on a 
@@ -1282,9 +1282,9 @@ studio run by OCW Arts & Publishing Foundation in collaboration with
 Project Space Studio. As the possibilities inherent to digital space 
 become increasingly infinite, the roles of physical and print spaces are 
 being redefined. Project Space examines, challenges and supports this 
-redefinition process by presenting print and in-person projectsâ€”
+redefinition process by presenting print and in-person projects—
 including a curated selection of publications, exhibitions, workshops, 
-lectures and readingsâ€”for artists, designers, writers, curators and 
+lectures and readings—for artists, designers, writers, curators and 
 publishers. Our shop features a curated selection of art, design and 
 literary publications with a focus on those that are rare, independent, 
 small-run, limited-edition or locally-produced. 
@@ -1308,7 +1308,7 @@ mentoring and resources from Project Space's Directors and
 Committee Members. 
 
 Qualifications: 
-The ideal candidate would beâ€”
+The ideal candidate would be—
 
 passionate about publication and either contemporary art, design 
 and/or literature 
@@ -1362,7 +1362,7 @@ humor. With no top/bottom, front/back reference the works are open for
 interpretation and playfully reference the body as well as a multitude of 
 other forms and objects such as organs, furniture, machine parts or 
 sea life. Never letting the viewer to commit to any one of these 
-references as a starting point Aitkens desire is to â€œevoke brief in-body 
+references as a starting point Aitkens desire is to “evoke brief in-body 
 experiences and visceral reactionsâ€  to the works. Aitkens sculpture 
 allows the viewer to wander in and out, sensually exploring the forms, 
 their playful nature, possible origins and her exquisite attention to 
@@ -1399,7 +1399,7 @@ EXPLORATION: To â€œanimateâ€  is to breathe life and soul into the
 inanimate. In near contradiction, to â€œautomateâ€  is to reduce the need for 
 human work in the production process. This exhibition will invite the 
 viewer to ponder this digital problematic and consider the contribution 
-of the animatorâ€™s silent partner - automation. Subject matter is open. 
+of the animator’s silent partner - automation. Subject matter is open. 
 
 SPECIFICATIONS: 
 National: single channel digital animations up to 10 minutes. 
@@ -1410,7 +1410,7 @@ PREVIEW FORMATS: web, VHS, CD Rom, DVD, USB
 
 SCREENING FORMATS: Uncompressed QuickTime video, preferably 
 mini DV tape or USB (with player software included). 
-Compressed/packaged DVDâ€™s are NOT preferred. 
+Compressed/packaged DVD’s are NOT preferred. 
 
 PLEASE INCLUDE: title and date of work, 150-200 word description, 
 and bio (50-75 words) 
@@ -1438,14 +1438,14 @@ CALL FOR PARTICIPATION
 
 SLAB 6: Expanding the Theremin
 workshop | production | performance & exhibition
-April 26 â€“ May 26, 2012
+April 26 – May 26, 2012
 Cost: $150 + HST | Subsidized by VIVO
 
 Instructors: Rob Symmers, David Leith, Marlyn Chipman
 
 This workshop is a continuation of VIVO's previous Theremin 
 workshops, in which people built their own theremins and learned how 
-to play them. We now wish to expand the thereminâ€™s capabilities by 
+to play them. We now wish to expand the theremin’s capabilities by 
 interfacing it with various audio/visual devices, electronics, lights and 
 mechanics. Using the theremin's ability to produce both sound and 
 control voltages, the participants will create video and light imagery, 
@@ -1537,7 +1537,7 @@ Deadline- June 10th, 2012
 Date of Event- June 15th, 2012
 
 The 2nd Ever King Street Alt Film and Video Festival. Will happen June 
-15th, 2012 at Bettyâ€™s on King Street (in Toronto). After a successful 1st 
+15th, 2012 at Betty’s on King Street (in Toronto). After a successful 1st 
 run, the King Street Alt Film and Video Festival is at it again. This 
 grassroots festival is looking for short (15 minute maximum) narrative, 
 experiment, documentary and comedic film works and video art pieces 
@@ -1555,13 +1555,13 @@ if interested in entering send an email to mjjrooney@gmail.com
 ------------------------------------------------------------------------
 Institutions by Artists: The Convention
 
-October 12 â€“ 14, 2012
+October 12 – 14, 2012
 Goldcorp Centre for the Arts
-SFU Woodwardâ€˜s
+SFU Woodward‘s
 149 Hastings Street
 Vancouver, Canada
 
-(La version franÃ§aise suit)
+(La version française suit)
 
 %%%%%% News %%%%%%
 
@@ -1607,13 +1607,13 @@ Download the Convention Schedule.
 Register online at: http://arcpost.ca/conference/registration
 
 A General Convention Pass includes:
-â€¢ Entrance to all sessions and debates. Attendees must claim their 
+• Entrance to all sessions and debates. Attendees must claim their 
 place for all sessions 10 minutes prior to the commencement of the 
 session.
-â€¢ A complimentary copy of Institutions by Artists Volume I
-â€¢ Invitations to all social gatherings, openings, and events associated 
+• A complimentary copy of Institutions by Artists Volume I
+• Invitations to all social gatherings, openings, and events associated 
 with Institutions by Artists
-â€¢ Breakfast and lunch will be provided, and special dinner locations will 
+• Breakfast and lunch will be provided, and special dinner locations will 
 be on offer
 Institutional Rate $250
 Individual Rate $125
@@ -1628,18 +1628,18 @@ Cancellation Policy 
 If you need to cancel your registration, you must send the cancellation 
 to registration@arcpost.ca.
  
-â€¢ 20% of the fees will be retained if there is a cancellation up to 60 days 
+• 20% of the fees will be retained if there is a cancellation up to 60 days 
 prior to the Conference. 
  â€¢ 50% of the fees will be retained if there is a cancellation 60 to 7 days 
 prior to the Conference.  
-â€¢ Last minute (less than 7 days) cancellation will not be refundable. 
+• Last minute (less than 7 days) cancellation will not be refundable. 
  â€¢ Non-refundable in case of non-attendance. 
  â€¢ Conference participation is transferable to another person.
 
 %%%%%% Accommodations %%%%%%
 
 Single and shared accommodations are available at reduced rates at 
-the following hotels. Quote â€˜Institutions by Artistsâ€™ when you make your 
+the following hotels. Quote ‘Institutions by Artists’ when you make your 
 reservation.
 
 The Burrard
@@ -1660,53 +1660,53 @@ Institutions by Artists: The Convention
 
 12-14 octobre 2012
 Goldcorp Centre for the Arts
-SFU Woodwardâ€˜s
+SFU Woodward‘s
 149, rue Hastings Ouest
 Vancouver, Canada
 
 %%%%%% NOUVELLES %%%%%%
 
-Lâ€™inscription Ã  la confÃ©rence Institutions by Artists est maintenant 
+L’inscription à la conférence Institutions by Artists est maintenant 
 ouverte.
 
-OrganisÃ© par PAARC, Fillip, and ARCA, Institutions by Artists est une 
+Organisé par PAARC, Fillip, and ARCA, Institutions by Artists est une 
 rencontre internationale de trois jours qui a pour but de faire un bilan 
-de lâ€™histoire, des pratiques actuelles, et de la durabilitÃ© de lâ€™autogestion 
+de l’histoire, des pratiques actuelles, et de la durabilité de l’autogestion 
 artistique.
 
-Nous avons rÃ©uni des artistes, commissaires, critiques et universitaires 
-internationaux pour discuter, sonder et faire avancer les intÃ©rÃªts de 
-lâ€™autogestion artistique. La confÃ©rence se veut un catalyseur de 
+Nous avons réuni des artistes, commissaires, critiques et universitaires 
+internationaux pour discuter, sonder et faire avancer les intérêts de 
+l’autogestion artistique. La conférence se veut un catalyseur de 
 nouvelles analyses et de positions divergentes sur les pratiques 
-actuelles qui relÃ¨vent de lâ€™autogestion des arts. Nous espÃ©rons que le 
-format dâ€™une confÃ©rence ponctuÃ©e dâ€™exposÃ©s expÃ©rimentaux, 
-dâ€™Ã©lÃ©ments performatifs et de plateformes participatives sera propice Ã  
-une rÃ©flexion engagÃ©e qui gÃ©nÃ©rera des questions et de nouvelles 
-idÃ©es autour de lâ€™autogestion artistique. Les pistes de rÃ©flexion 
-proposÃ©es portent sur des notions telles que lâ€™urbain et le rural, la fixitÃ© 
-et la mobilitÃ©, et les idÃ©es de territoires local et virtuel. Nous nous 
-sommes inspirÃ©s des nombreux artistes qui font preuve dâ€™innovation en 
-ce qui est de la gestion de leurs institutions et dans la faÃ§on dont 
-celles-ci sont pensÃ©es, concrÃ©tisÃ©es, constituÃ©es, et utilisÃ©es. Ainsi, les 
-thÃ¨mes de notre programme son conÃ§us autour de questions relatives 
-aux Ã©conomies dâ€™Ã©change et de savoir, au temps et Ã  lâ€™espace 
-institutionnels, ainsi quâ€™aux rapports dâ€™intimitÃ© matÃ©rielle et virtuelle.
+actuelles qui relèvent de l’autogestion des arts. Nous espérons que le 
+format d’une conférence ponctuée d’exposés expérimentaux, 
+d’éléments performatifs et de plateformes participatives sera propice à 
+une réflexion engagée qui générera des questions et de nouvelles 
+idées autour de l’autogestion artistique. Les pistes de réflexion 
+proposées portent sur des notions telles que l’urbain et le rural, la fixité 
+et la mobilité, et les idées de territoires local et virtuel. Nous nous 
+sommes inspirés des nombreux artistes qui font preuve d’innovation en 
+ce qui est de la gestion de leurs institutions et dans la façon dont 
+celles-ci sont pensées, concrétisées, constituées, et utilisées. Ainsi, les 
+thèmes de notre programme son conçus autour de questions relatives 
+aux économies d’échange et de savoir, au temps et à l’espace 
+institutionnels, ainsi qu’aux rapports d’intimité matérielle et virtuelle.
 
-Tout au long de la semaine, les centres dâ€™artistes autogÃ©rÃ©s de 
-Vancouver prÃ©senteront des projets liÃ©s aux thÃ¨mes de la confÃ©rence. 
-Cette sÃ©rie dâ€™Ã©vÃ©nements sera une occasion pour le public de 
-rencontrer quelques-uns des artistes invitÃ©s et de rÃ©flÃ©chir aux 
-dimensions et phÃ©nomÃ¨nes multiples qui dÃ©finissent lâ€™autogestion 
-artistique Ã  lâ€™Ã©chelle internationale. Les pratiques expÃ©rimentales 
-seront mises en avant, dont la reconstitution de moments clÃ©s de 
-lâ€™histoire de lâ€™autogestion artistique, les nouveaux moyens de diffusion, 
-la rÃ©orientation de donnÃ©es et de systÃ¨mes et les modÃ¨les 
-pÃ©dagogiques alternatifs.
+Tout au long de la semaine, les centres d’artistes autogérés de 
+Vancouver présenteront des projets liés aux thèmes de la conférence. 
+Cette série d’événements sera une occasion pour le public de 
+rencontrer quelques-uns des artistes invités et de réfléchir aux 
+dimensions et phénomènes multiples qui définissent l’autogestion 
+artistique à l’échelle internationale. Les pratiques expérimentales 
+seront mises en avant, dont la reconstitution de moments clés de 
+l’histoire de l’autogestion artistique, les nouveaux moyens de diffusion, 
+la réorientation de données et de systèmes et les modèles 
+pédagogiques alternatifs.
 
 %%%%%% PROGRAMME %%%%%%
 
-50 prÃ©sentateurs provenant de 19 pays participeront Ã  cet Ã©vÃ©nement 
-de trois jours. TÃ©lÃ©charger le programme.
+50 présentateurs provenant de 19 pays participeront à cet événement 
+de trois jours. Télécharger le programme.
 
 %%%%%% INSCRIPTION %%%%%%
 
@@ -1714,41 +1714,41 @@ http://arcpost.ca/conference/registration
 
 Tarif pour les institutions : 250$
 Tarif individuel : 125$
-Tarif pour les Ã©tudiants : 75$
+Tarif pour les étudiants : 75$
 
-Le laissez-passer complet pour la confÃ©rence comprend :
+Le laissez-passer complet pour la conférence comprend :
 
-â€¢ lâ€™entrÃ©e Ã  toutes les sessions et dÃ©bats de la confÃ©rence. 
-Les participants doivent se prÃ©senter 10 minutes avant le dÃ©but de 
+• l’entrée à toutes les sessions et débats de la conférence. 
+Les participants doivent se présenter 10 minutes avant le début de 
 chaque session afin de garantir leur place.
-â€¢ une copie du livre Institutions by Artists Volume I
-â€¢ une invitation Ã  tous les Ã©vÃ©nements sociaux, aux vernissages et aux 
-activitÃ©s connexes de Institutions by Artists
-â€¢ les petits-dÃ©jeuners et dÃ®ners seront inclus, et des restaurants seront 
-suggÃ©rÃ©s pour les soupers
+• une copie du livre Institutions by Artists Volume I
+• une invitation à tous les événements sociaux, aux vernissages et aux 
+activités connexes de Institutions by Artists
+• les petits-déjeuners et dîners seront inclus, et des restaurants seront 
+suggérés pour les soupers
 
-%%%%%% DÃ‰TAILS DU PAIEMENT %%%%%%
+%%%%%% DÉTAILS DU PAIEMENT %%%%%%
 
 Conditions :
-Payable au moment de lâ€™inscription. PAARC accepte le paiement par 
+Payable au moment de l’inscription. PAARC accepte le paiement par 
 VISA, Mastercard, PayPal, ou par transfert de fonds via un compte 
 PayPal. 
-Politique dâ€™annulation :	
-â€¢ Si vous dÃ©sirez annuler votre inscription, vous devez envoyer un 
-courriel dâ€™annulation Ã  registration@arcpost.ca.
-â€¢ 20% des frais seront retenus si lâ€™annulation se fait dans les 60 jours 
-avant la confÃ©rence. 
-â€¢ 50% des frais seront retenus si lâ€™annulation se fait dans les 60 Ã  7 
-jours avant la confÃ©rence.
-â€¢ Les annulations de derniÃ¨re minute (moins de 7 jours avant la 
-confÃ©rence) ne seront pas remboursÃ©es.
-â€¢ En cas de non-participation, aucun remboursement ne sera effectuÃ©. 
-â€¢ Il est possible de transfÃ©rer votre inscription Ã  une autre personne.
+Politique d’annulation :	
+• Si vous désirez annuler votre inscription, vous devez envoyer un 
+courriel d’annulation à registration@arcpost.ca.
+• 20% des frais seront retenus si l’annulation se fait dans les 60 jours 
+avant la conférence. 
+• 50% des frais seront retenus si l’annulation se fait dans les 60 à 7 
+jours avant la conférence.
+• Les annulations de dernière minute (moins de 7 jours avant la 
+conférence) ne seront pas remboursées.
+• En cas de non-participation, aucun remboursement ne sera effectué. 
+• Il est possible de transférer votre inscription à une autre personne.
 
-%%%%%% HÃ‰BERGEMENT %%%%%%
+%%%%%% HÉBERGEMENT %%%%%%
 
-Institutions by Artists a obtenu des tarifs spÃ©ciaux aux hÃ´tels suivants. 
-Mentionnez Â« Institutions by Artists Â» au moment de la rÃ©servation.
+Institutions by Artists a obtenu des tarifs spéciaux aux hôtels suivants. 
+Mentionnez « Institutions by Artists » au moment de la réservation.
 
 The Burrard
 Best Western Plus Uptown
@@ -1762,8 +1762,8 @@ registration@arcpost.ca.
 Au plaisir de vous voir en octobre!
 
 Lorna Brown, Directrice du projet
-Kristina Lee Podesva, PrÃ©s. ComitÃ© de programmation
-Allison Collins, Directrice de lâ€™Ã©vÃ©nement
+Kristina Lee Podesva, Prés. Comité de programmation
+Allison Collins, Directrice de l’événement
 
 Follow us on Twitter and Facebook.
 

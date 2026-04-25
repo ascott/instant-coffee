@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 80
 type: "CALL"
+venue: "Neutral Ground Artist Run Centre (REGINA)"
 summary: "Neutral Ground Artist Run Centre (REGINA) | CALL FOR PROPOSALS | MAY 15"
 ---
 

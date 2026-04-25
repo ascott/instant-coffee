@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 32
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | The Polygon Gallery | Canadian Photographs Book Launch | 6PM | OCT 29"
 ---
 

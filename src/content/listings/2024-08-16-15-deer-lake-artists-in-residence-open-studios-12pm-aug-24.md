@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 15
 type: "EVENT"
+venue: "Deer Lake Artists in Residence"
 summary: "Deer Lake Artists in Residence | Open Studios | 12PM | AUG 24"
 ---
 

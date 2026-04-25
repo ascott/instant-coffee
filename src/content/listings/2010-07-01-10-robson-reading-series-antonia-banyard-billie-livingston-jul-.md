@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 10
 type: ""
+venue: "Robson Reading Series"
 summary: "Robson Reading Series | ANTONIA BANYARD & BILLIE LIVINGSTON | JUL 8"
 ---
 
@@ -11,7 +12,7 @@ The Robson Reading Series presents
 
 ANTONIA BANYARD & BILLIE LIVINGSTON
 
-The Robson Reading Series is thrilled that itï¿½ll cap off its
+The Robson Reading Series is thrilled that it�ll cap off its
 current season with fiction authors Billie Livingston and
 Antonia Banyard on Thursday, July 8th . Please join us for live
 literature and cozy conversation at 7pm at the UBC
@@ -22,15 +23,15 @@ Going Back (Thistledown Press, 2010). Set in a small town in
 the BC interior, where potheads, loggers, environmentalists,
 conspiracy theorists, and aging hippies provide a vibrant
 backdrop to dark themes. Specifically, when the anniversary of
-a suicide reunites five former friends who havenï¿½t seen each
+a suicide reunites five former friends who haven�t seen each
 other for ten years, each is forced to confront secrets from the
-past ï¿½secrets that lock their present lives in limbo.
+past �secrets that lock their present lives in limbo.
 Antonia Banyard has been published in literary magazines and
 anthologies in Canada, the US, England, and Australia. Her
-childrenï¿½s non-fiction book, Dangerous Crossings! was published
+children�s non-fiction book, Dangerous Crossings! was published
 in 2007 and received award nominations from the Canadian
-Childrenï¿½s Book Centre and the Ontario Library Associationï¿½s
-Red Maple Award. With her writerï¿½s group, the Seven Sisters,
+Children�s Book Centre and the Ontario Library Association�s
+Red Maple Award. With her writer�s group, the Seven Sisters,
 she published two anthologies and performed readings at
 festivals, schools, and bookstores across BC. She lives in
 Nelson, BC.

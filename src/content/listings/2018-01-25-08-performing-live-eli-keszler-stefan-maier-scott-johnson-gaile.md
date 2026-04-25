@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 8
 type: ""
+venue: "Performing Live"
 summary: "Performing Live | Eli Keszler, Stefan Maier, & Scott Johnson Gailey | JAN 26"
 ---
 

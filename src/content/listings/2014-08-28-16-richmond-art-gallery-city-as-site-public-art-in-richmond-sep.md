@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 16
 type: ""
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | CITY AS SITE: PUBLIC ART IN RICHMOND | SEP 5"
 ---
 
@@ -19,32 +20,32 @@ Curator: Rachel Rosenfield Lafo
 The opening reception will be held on Friday, September 5, from 7:00 to 9:00pm.
 
 City as Site: Public Art in Richmond is the first exhibition to highlight
-the City of Richmondâ€™s Public Art Program, initiated in 1997 â€œto create a
+the City of Richmond’s Public Art Program, initiated in 1997 “to create a
 public art collection of the highest quality through a fair and open
 selection process advised by independent arms-length panels of art and
 design professionals and community inputâ€ . Curated by Richmond Art Gallery
 Director Rachel Rosenfield Lafo, the exhibition will feature several
 diverse public art projects representing the different ways public art is
-funded in Richmond â€“ through civic funding, private development, community
-projects, and the programâ€™s newer series of temporary projects and socially
+funded in Richmond – through civic funding, private development, community
+projects, and the program’s newer series of temporary projects and socially
 engaged artist performances. The goal of the exhibition is to reveal the
 mysteries of the public art process, its role in cultural planning
 strategy, the possibilities it offers for community participation and its
 value to the community.
 
-The exhibition includes elements from Glen Andersonâ€™s , Child of the Fraser
-(2012), aluminum sculptures and a ceramic mosaic at the Cityâ€™s Community
-Safety Building; Nicole Dextrasâ€™s StoreFront: objects of desire (2013), a
+The exhibition includes elements from Glen Anderson’s , Child of the Fraser
+(2012), aluminum sculptures and a ceramic mosaic at the City’s Community
+Safety Building; Nicole Dextras’s StoreFront: objects of desire (2013), a
 temporary project for the â€œArt in Unexpected Placesâ€  program, in which
 artists were invited to select an unusual or unconventional location for
-their project; Janet Echelmanâ€™s Water Sky Garden (2009), a major work
+their project; Janet Echelman’s Water Sky Garden (2009), a major work
 commissioned at the time of the 2010 Winter Olympic Games; two projects by
 Jacqueline Metz and Nancy Chew, Stillness and Motion (2013), a pedestrian
 bridge with photographic and video images at a private development, and
 Made in China (2013), five aluminum dragons located on walls outside a
-residential tower; and Carlyn Yandleâ€™s Crossover (2011), a pedestrian
+residential tower; and Carlyn Yandle’s Crossover (2011), a pedestrian
 crosswalk design in the pavement of an intersection in Steveston, as well
-as a reference to Yandleâ€™s new temporary artwork Cluster that will be
+as a reference to Yandle’s new temporary artwork Cluster that will be
 installed on a plinth at the end of the Canada Line. In addition to
 including models, drawings, videos, large-scale photographs, and related
 information about the artists and their work, the exhibition will visually
@@ -70,7 +71,7 @@ University of Art + Design in 2010 with an emphasis on painting and
 sculpture after working for 17 years as an award‐winning reporter, editor
 and columnist for various Canadian newspapers, including the Richmond
 Review. Rachel Rosenfield Lafo, exhibition curator, is Director of the
-Richmond Art Gallery and a curator, writer, and former Chair of Vancouverâ€™s
+Richmond Art Gallery and a curator, writer, and former Chair of Vancouver’s
 Public Art Committee.
 
 Educational programming will include artist and curator talks; a public
@@ -83,8 +84,8 @@ and artist Andrea Sirois; a presentation about the funding and process of
 public art by Eric Fiss, Richmond Public Art Planner on Saturday, October
 4, 2:00 ‐ 3:00 pm; a workshop for artists on how to apply for public art
 projects by Elisa Yon, Richmond Public Art Project Coordinator, on
-Saturday, September 13, 1:00 â€“ 4:00 pm; and an interactive public art
-performance by artist Nicole Dextras on Saturday, September 27, 1:00 â€“ 4:00 pm.
+Saturday, September 13, 1:00 – 4:00 pm; and an interactive public art
+performance by artist Nicole Dextras on Saturday, September 27, 1:00 – 4:00 pm.
 
 Special thanks to the City of Richmond Public Art Program for their support
 of this exhibition and programming. The Richmond Art Gallery gratefully

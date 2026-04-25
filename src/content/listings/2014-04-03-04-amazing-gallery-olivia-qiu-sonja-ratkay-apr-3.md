@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 4
 type: ""
+venue: "Amazing Gallery"
 summary: "Amazing Gallery | Olivia Qiu & Sonja Ratkay | APR 3"
 ---
 

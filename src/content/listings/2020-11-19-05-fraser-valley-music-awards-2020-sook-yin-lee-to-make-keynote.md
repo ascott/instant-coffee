@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 5
 type: "EVENT"
+venue: "Fraser Valley Music Awards 2020"
 summary: "Fraser Valley Music Awards 2020 | Sook-Yin Lee to Make Keynote Presentation | NOV 19"
 ---
 

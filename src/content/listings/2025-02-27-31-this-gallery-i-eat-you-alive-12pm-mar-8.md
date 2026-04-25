@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 31
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | I eat you alive! | 12PM | MAR 8"
 ---
 

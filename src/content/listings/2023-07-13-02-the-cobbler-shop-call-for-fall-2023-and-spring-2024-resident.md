@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 2
 type: ""
+venue: "The Cobbler Shop"
 summary: "The Cobbler Shop | Call for fall 2023 and spring 2024 Residents"
 ---
 

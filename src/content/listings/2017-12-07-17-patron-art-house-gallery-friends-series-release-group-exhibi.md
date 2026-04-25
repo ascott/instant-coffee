@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 17
 type: "OPENING"
+venue: "Patron Art House"
 summary: "Patron Art House | Gallery Friends Series Release & Group Exhibition | DEC 16"
 ---
 

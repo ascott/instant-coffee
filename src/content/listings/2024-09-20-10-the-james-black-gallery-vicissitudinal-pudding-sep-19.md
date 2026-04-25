@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 10
 type: "OPENING"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | Vicissitudinal Pudding | SEP 19"
 ---
 

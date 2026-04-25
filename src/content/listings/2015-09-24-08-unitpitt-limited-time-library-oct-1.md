@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 8
 type: "OPENING"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Limited Time Library | OCT 1"
 ---
 

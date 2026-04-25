@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 4
 type: ""
+venue: "The Waldorf Hotel"
 summary: "The Waldorf Hotel | FOUR ROOMS (ECU External Photography Grad Show) | MAY 13"
 ---
 
@@ -47,7 +48,7 @@ at the Waldorf Hotel. Check with the front desk for more details.
 It is tradition for the graduating students of the Emily Carr photo program
 to organize and exhibit their work into an external graduation show. We
 feel very strongly about this, our first academically-independent group
-exhibitionâ€”our inaugural display to the outside world of the work we have
+exhibition—our inaugural display to the outside world of the work we have
 been compiling over the course of these four years. The organizing panel
 are united by a desire to present a professional, thoughtfully-curated
 selection of work by each graduating student. We are a body of individuals,
@@ -58,8 +59,8 @@ laden with history and weighty photographic practices. We show our
 influences, our respect for and aversion to those influences, and our
 desire to develop a visual dialogue with them, our surroundings, and
 ourselves. We are shaped by our pasts, our presents, and our peers. We love
-what weâ€™re doing, or else we wouldnâ€™t have done it this hard. And while
-weâ€™re old hats in school, weâ€™re pretty fresh meat out here in this
+what we’re doing, or else we wouldn’t have done it this hard. And while
+we’re old hats in school, we’re pretty fresh meat out here in this
 rocky/wooded/prairie/desert home and native land. We will continue. We will
 show you our make and measure. And then we will go to fucking Hawaii.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 1
 type: ""
+venue: "Catriona Jeffries Gallery"
 summary: "Catriona Jeffries Gallery | Arabella Campbell | MAR 24"
 ---
 
@@ -42,7 +43,7 @@ of trees, indicating again to her considered curiosity in making
 interventions into existing orders. The photographic device of 
 framing appears in another image of a house floating on the Pacific 
 ocean. Guiding our attention to a beautiful rectilinear window in the 
-houseâ€™s wood shingled exterior, the photograph creates an 
+house’s wood shingled exterior, the photograph creates an 
 aesthetic puncture of the frame within the pictorial, reminiscent of 
 Campbells photographs of fishing symbols found along the West 
 Coast. Within the space of the gallery itself, Campbell enacts a 

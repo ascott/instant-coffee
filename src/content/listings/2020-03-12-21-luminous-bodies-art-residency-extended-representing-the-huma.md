@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 21
 type: "CALL"
+venue: "Luminous Bodies Art Residency"
 summary: "Luminous Bodies Art Residency | EXTENDED | Representing the Human Body in Diversity | MAR 20"
 ---
 

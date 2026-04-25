@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | NOW BULLETIN | the Garry Neill Kennedy Collection 1968 – 2019 | SEP 19"
 ---
 

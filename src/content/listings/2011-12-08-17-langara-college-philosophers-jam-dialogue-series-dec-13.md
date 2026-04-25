@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 17
 type: ""
+venue: "Langara College"
 summary: "Langara College | Philosophers' Jam Dialogue Series | DEC 13"
 ---
 

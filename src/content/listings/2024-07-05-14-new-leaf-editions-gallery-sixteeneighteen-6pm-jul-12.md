@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 14
 type: "OPENING"
+venue: "New Leaf Editions Gallery"
 summary: "New Leaf Editions Gallery | SixteenEighteen | 6PM | JUL 12"
 ---
 

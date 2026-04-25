@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 41
 type: "CALL"
+venue: "Photo Life"
 summary: "Photo Life | Emerging Photographers 2015 Competition | NOV 16"
 ---
 
@@ -12,7 +13,7 @@ Photo Life Presents Emerging Photographers 2015 Competition
 MEDIA RELEASE
 FOR IMMEDIATE RELEASE
 
-August 27, 2015 â€” Canadian emerging artists who dream of pursuing
+August 27, 2015 — Canadian emerging artists who dream of pursuing
 a career in photography need the opportunity to show how good they
 are. Photo Life's Emerging Photographers competition, which attracts
 hundreds of entries each year, gives them a unique opportunity to
@@ -27,9 +28,9 @@ with the photographic community.
 Participating photographers will be judged on their ability to
 demonstrate an original photographic vision and a bold approach in
 their photography. From all submissions received, editors will select the
-most outstanding up-and-coming talents to showcase in Photo Lifeâ€™s
+most outstanding up-and-coming talents to showcase in Photo Life’s
 February/March 2016 issue as well as in the Photo Life Emerging
-Photographerâ€™s online gallery.
+Photographer’s online gallery.
 
 The Photo Life Student Award
 The student participant with the most distinctive work will receive two
@@ -51,7 +52,7 @@ Fore more details about Emerging Photographers 2015, please visit
 photolife.com/emerging
 
 About Photo Life
-Established in 1976, Photo Life is Canadaâ€™s leading source for
+Established in 1976, Photo Life is Canada’s leading source for
 photography. Including technical knowledge and tips, industry news
 and events, international travel photography and documentaries, as
 well as innovative approaches, techniques and secrets of the trade.

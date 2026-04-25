@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "CSA Space"
 summary: "CSA Space | Clump Spirit"
 ---
 

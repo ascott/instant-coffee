@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 23
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Unexplained Parade | FEB 9"
 ---
 

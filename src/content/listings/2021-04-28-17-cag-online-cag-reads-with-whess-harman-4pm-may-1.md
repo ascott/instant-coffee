@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 17
 type: "TALK"
+venue: "CAG [ONLINE]"
 summary: "CAG [ONLINE] | CAG Reads with Whess Harman | 4PM | MAY 1"
 ---
 

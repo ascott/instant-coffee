@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 30
 type: "CALL"
+venue: "Letters to My (Grand)Parents"
 summary: "Letters to My (Grand)Parents | Call for Writers | JAN 9"
 ---
 

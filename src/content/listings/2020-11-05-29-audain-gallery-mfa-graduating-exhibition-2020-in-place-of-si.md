@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 29
 type: "EXHIBITION"
+venue: "Audain Gallery"
 summary: "Audain Gallery | MFA Graduating Exhibition 2020: In Place of Sight | NOV 26"
 ---
 

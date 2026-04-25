@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 7
 type: ""
+venue: "Elm Park in Kerrisdale"
 summary: "Elm Park in Kerrisdale | League play | MAR 31"
 ---
 
@@ -18,14 +19,14 @@ Kerrisdale.
 
 This gathering will turn around hiding and finding, one of the most basic game 
 mechanisms. As League regular and electronic game designer Ian Verchere 
-says, â€œThe #1 rule of games is this: good things are always found inside other 
+says, “The #1 rule of games is this: good things are always found inside other 
 things.â€ 
 
 Possibilities
 
-Hiding relies on the unforeseen. Placing â€˜easter eggsâ€™ (secret messages or 
+Hiding relies on the unforeseen. Placing ‘easter eggs’ (secret messages or 
 inside jokes) in games and computer programs has a long and cultish history. 
-Found objects â€” objects turned to unexpected uses â€” have made their way 
+Found objects — objects turned to unexpected uses — have made their way 
 into many a work of art. Scavenger hunts turn lived space into a source of 
 bounty. Through http://Geocaching.com there are some two million treasure 
 boxes hidden around the world, many in plain sight. In this vein, the 

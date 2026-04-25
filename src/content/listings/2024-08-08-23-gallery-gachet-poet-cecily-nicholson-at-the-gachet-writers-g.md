@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 23
 type: "EVENT"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Poet Cecily Nicholson at the Gachet Writers Group | AUG 16"
 ---
 

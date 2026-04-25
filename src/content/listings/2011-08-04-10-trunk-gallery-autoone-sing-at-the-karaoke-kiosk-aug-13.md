@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 10
 type: ""
+venue: "TRUNK gallery"
 summary: "TRUNK gallery | auto/ONE | Sing! at the Karaoke Kiosk | AUG 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Fort Gallery"
 summary: "Fort Gallery | Hacking the Third Wave II by Sang Chul Nam | JUN 1"
 ---
 

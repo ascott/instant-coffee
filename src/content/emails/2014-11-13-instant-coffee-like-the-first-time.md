@@ -33,7 +33,7 @@ listingCount: 62
 <a href="/instant-coffee/listings/2014-11-13-21-index-gallery-susanna-browne-monique-levesque-nov-20">21. OPENING | INDEX GALLERY | Susanna Browne + Monique Levesque | NOV 20</a>
 <a href="/instant-coffee/listings/2014-11-13-22-skylight-gallery-the-visitor-vegetable-nov-20">22. OPENING | Skylight Gallery | THE VISITOR VEGETABLE | NOV 20</a>
 <a href="/instant-coffee/listings/2014-11-13-23-cag-artist-talk-shimabuku-nov-21">23. TALK | CAG | ARTIST TALK: Shimabuku | NOV 21</a>
-<a href="/instant-coffee/listings/2014-11-13-24-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">24. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjaminâ€™s Psychogeography | NOV 21</a>
+<a href="/instant-coffee/listings/2014-11-13-24-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">24. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjamin’s Psychogeography | NOV 21</a>
 <a href="/instant-coffee/listings/2014-11-13-25-vivo-destroy-vancouver-xi-nov-21">25. EVENT | VIVO | DESTROY VANCOUVER XI | NOV 21</a>
 <a href="/instant-coffee/listings/2014-11-13-26-screening-cineworks-and-the-contemporary-art-gallery-fluid-f">26. SCREENING | Cineworks and The Contemporary Art Gallery | Fluid Frames | Ben Russell | NOV 23</a>
 <a href="/instant-coffee/listings/2014-11-13-27-emily-carr-university-visual-art-forums-samuel-roy-bois-nov-">27. TALK | Emily Carr University | Visual Art Forums | Samuel Roy-Bois | NOV 27</a>
@@ -56,19 +56,19 @@ Opening reception Thursday 13 November 2014, 6-9pm
 
 Guest Curated by Elizabeth Zvonar
 
-Itâ€™s not everyday I get really excited about painting. Exciting painting
+It’s not everyday I get really excited about painting. Exciting painting
 pops and pulsates and confuses me a little. Deirdre McAdams's canvases are
 painted and sprayed symbols of abstracted and approximate forms and ideas.
-Sometimes thereâ€™s a disagreement between forms existing on different planes
+Sometimes there’s a disagreement between forms existing on different planes
 or heavy lines delineating shadow beyond the scope of logic that collide
-with her astute nod to the â€˜grafficâ€™ aesthetic. This dissent on the surface
+with her astute nod to the ‘graffic’ aesthetic. This dissent on the surface
 of the picture makes for weird, mesmerizing and exciting works that are big
 enough to hold a wall and yet they demand your attention to come closer to
 view.
 
 Her technique is sharp and speckled, formulaic and free form. The works
 trigger a moment of familiarity that dupes you into thinking you understand
-what youâ€™re seeing, only to shift gears into that terrain of life territory
+what you’re seeing, only to shift gears into that terrain of life territory
 that is simultaneously mutable and arbitrary. Not unlike a story of days,
 the works form, take a direction and roll out. Something happens along the
 way and it's best to pay attention as the journey holds the heart. With
@@ -77,7 +77,7 @@ detail), Puzzle Painting and Monologue, McAdams deftly tells a compellingly
 rich and strange story through histories of geometric abstraction and
 minimal painting.
 
-â€” Elizabeth Zvonar
+— Elizabeth Zvonar
 
 Deirdre McAdams is a visual artist living and working in Vancouver, BC. She
 is a graduate of Emily Carr University of Art and Design (2008), and the
@@ -106,7 +106,7 @@ Connie Fife is a Cree writer whose poetry and critical writings have
 appeared in numerous anthologies and periodicals. She is the author of
 Poems for a New World (Ronsdale 2001), Beneath the Naked Sun (Sister Vision
 1992) and Speaking Through Jagged Rock (Broken Jaw Press 1999). She is the
-editor of Gatherings 2 (Theytus 1991) and Fireweed: Native Womenâ€™s Issue,
+editor of Gatherings 2 (Theytus 1991) and Fireweed: Native Women’s Issue,
 No. 26 (1986). Connie was awarded, in Charlottetown, the one-time Prince
 and Princess Edward Prize in Aboriginal Literature in acknowledgement of
 her contribution both in her community and in Canada.
@@ -130,7 +130,7 @@ artist and architect Joar Nango. Nango presents a new series of
 photographs, text and sculptures incorporating salvaged building materials
 including wood, concrete, wool, and a 1960s Mongolian felt. The work draws
 from the artist's ongoing archive of research relating to the built
-environment and the material cultures of the North. Nangoâ€™s practice
+environment and the material cultures of the North. Nango’s practice
 highlights the role of local knowledge in creating livable communities:
 championing indigenous approaches to design and alternative models for
 social space.
@@ -142,14 +142,14 @@ the Sami poet and writer Sigbjorn Skaden.
 Artist Biography
 
 Joar Nango (b. 1979, Alta, Norway) lives and works in Romssa, Norway.
-Inhabiting the frontier between architecture, design and art, Nangoâ€™s
+Inhabiting the frontier between architecture, design and art, Nango’s
 practice explores issues of native identity through contradictions in
 contemporary architecture and the built environment. In particular, he is
 interested in the creative simplicity and sustainable knowledge that exists
 within informal building environments of the north. In 2010 Nango
 co-founded the architectural collective FFB specializing in temporary
 structures and interventions in urban contexts. FFB was nominated for Norsk
-Formâ€™s prize for young architects in 2012. Joar Nango has exhibited
+Form’s prize for young architects in 2012. Joar Nango has exhibited
 internationally, including recently as part of 43SNA, Medellin, Colombia
 (2013), the Norwegian Sculpture Biennale at Vigelandsmuseet, Oslo, Norway
 (2013), and Archizines at the Storefront for Art and Architecture, NYC, USA
@@ -210,7 +210,7 @@ nowhere except snugly into this indent in the wall, four pocket fans (blue
 and yellow) with fresh AA batteries, bottled essence of a basketball
 lay-up, two window frames for those summer breezes (error: currently not
 summer), bright laundry wires with clippers, dripping wet clothes
-(underwears welcome), 1 balloon, download bar stuck at 20.95% â€” but thatâ€™s
+(underwears welcome), 1 balloon, download bar stuck at 20.95% — but that’s
 all we need right now.
 
 Now do a sniff test of your environment; it is far from spoiled.
@@ -234,17 +234,17 @@ Nov 14, 7pm - 11+ Opening
 
 w/ actions taking place throughout the evening.
 
-â€œMy hand which touches the things is itself subject to being touched.
-â€œThrough this crisscrossing within it of the touching and the tangible, its
+“My hand which touches the things is itself subject to being touched.
+“Through this crisscrossing within it of the touching and the tangible, its
 own movements incorporate themselves in the universe that they interrogate,
 are recorded on the same map as itâ€  - Bernard Flynn In a discussion of
-Maurice Merleau-Pontyâ€™s thought.
+Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.
 
 Eschatons are a four piece improvisational band that will be installing,
 recording, jamming, and preparing for the end during their residence at
-Dynamo Arts Association between November 8th â€“ 16th. A culmination of
+Dynamo Arts Association between November 8th – 16th. A culmination of
 free-tuned guitars, textured drumming, improvisation and song forms, this
 trio combines all the sonic realms of improvised genres. The ongoing
 collaboration between Jeremy Van Wyck, John Brennan & Bill Batt began with
@@ -276,7 +276,7 @@ http://dynamoarts.ca
 New Documents
 
 New Documents @ Offprint Paris
-Nov 14 â€“ 16, 2014
+Nov 14 – 16, 2014
 
 New Documents is please to be part of Offprint Paris this weekend, sharing
 a table with BFF Fillip (Vancouver).
@@ -304,7 +304,7 @@ New Documents
 www.new-documents.org
 @new_documents
 
-New Documents is a Vancouver and Los Angelesâ€“based art book publisher
+New Documents is a Vancouver and Los Angeles–based art book publisher
 operating in collaboration with the Projectile Publishing Society. We
 gratefully acknowledge the support of the Canada Council for the Arts and
 the British Columbia Arts Council.
@@ -375,7 +375,7 @@ Heartbeats
 
 Curated by Ashlee Luk
 
-â€œBYOB is a series of one-night-exhibitions curated by different people
+“BYOB is a series of one-night-exhibitions curated by different people
 around the world. The idea is simple: Find a place, invite many artists,
 ask them to bring their projectors."
 
@@ -393,14 +393,14 @@ Friday, November 14, 2014 @ 8:00pm
 Western Front, 303 East 8th Avenue
 Free Admission
 
-Scrivenerâ€™s Monthly and The Capilano Review are pleased to present a
+Scrivener’s Monthly and The Capilano Review are pleased to present a
 reading by renowned Vancouver writer George Bowering. Author of more then
 100 books, Bowering will read from new work alongside a selection of
 archival recordings from the Western Front and beyond, documenting his
 life-long work as a writer-performer.
 
 The evening is co-presented by The Capilano Review in conjunction with the
-launch of their Fall 2014 issue, Boweringâ€™s Books. Copies of the new issue
+launch of their Fall 2014 issue, Bowering’s Books. Copies of the new issue
 will be available for purchase at the event.
 
 Biography
@@ -414,7 +414,7 @@ Valley, Desert Elm.
 
 - - -
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 â€œnot publishingâ€  involves readings, performances, and other articulations.
@@ -534,9 +534,9 @@ questions its influence on visual culture in present-day China.
 This exhibition presents a diverse selection of Chinese contemporary
 artists whose practices are informed by their cultural heritage. Re-working
 traditional aesthetics in conceptual ways, featured artists use new forms
-and mediaâ€“such as digital animations and siteâ€“specific installationsâ€“to
+and media–such as digital animations and site–specific installations–to
 provide a myriad of means to understand and examine tradition's influence
-on visual culture in presentâ€“day China.
+on visual culture in present–day China.
 
 The exhibition is accompanied by a fully illustrated publication,
 co-published with Black Dog Publishing, that features new photography and
@@ -556,7 +556,7 @@ http://www.vanartgallery.bc.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-11-13-11-access-gallery-here-to-there-annual-auction-fundraiser-nov-1">11. FUNDRAISER | Access Gallery | Here to There: Annual Auction Fundraiser | NOV 15</a>
 ------------------------------------------------------------------------
-Here to There: Accessâ€™ Annual Auction Fundraiser
+Here to There: Access’ Annual Auction Fundraiser
 
 Works on view November 8-15, 2014
 Preview night, Thursday, November 13, 2014, 7:00 pm
@@ -574,7 +574,7 @@ possible for the gallery to present compelling and critically engaged
 emergent practices and to develop exciting new programs. Here to There will
 feature artworks generously donated by more than 50 local and international
 artists. Proceeds from this fundraiser will in part go towards the
-development of Accessâ€™ new Traveling Artist Residency, 23 Days at Sea,
+development of Access’ new Traveling Artist Residency, 23 Days at Sea,
 which will enable selected artists to book passage aboard a cargo ship and
 sail across the Pacific Ocean from Vancouver to Busan, Korea and Shanghai,
 China. Artists will be considered â€œin residenceâ€  for the twenty-three days
@@ -617,7 +617,7 @@ November 15 - December 20, 2014
 Reception Saturday, November 15th, 2-4PM
 
 Republic Gallery is pleased to present Mongrel Histories, a solo show of
-new works on paper by Gwenessa Lam. Lam'â„¢s drawings and paintings explore
+new works on paper by Gwenessa Lam. Lam'™s drawings and paintings explore
 the history of the Kaiping Diaolou, late 19th century multi-storey homes
 located in Kaiping county, Guongdong, China. These fortress-like defensive
 buildings were designed to protect against theft and banditry, and are
@@ -678,12 +678,12 @@ www.WAAPart.com
 
 Artist Vincent Trasov ran for mayor of Vancouver in 1974 as Mr. Peanut.
 Vincent Trasov was also a founder member of the Western Front. With the
-help of Vancouver artistsâ€™ community he ran for an Art City on an
+help of Vancouver artists’ community he ran for an Art City on an
 art-centric platform: P for Performance, E for Elegance, A for Art, N for
-Nonsense, U for Uniqueness, and T for Talent Mr Peanut didnâ€™t win the
+Nonsense, U for Uniqueness, and T for Talent Mr Peanut didn’t win the
 election but captured a lot of media and the attention of City Hall.
-Trasovâ€™s performance brought Vancouver to national and international
-attention and received features in Esquire magazine and Andy Warholâ€™s
+Trasov’s performance brought Vancouver to national and international
+attention and received features in Esquire magazine and Andy Warhol’s
 Interview magazine. Beat writer William S Burroughs, who happened to be in
 town, endorsed his candidacy for Mayor:
 
@@ -715,7 +715,7 @@ http://www.WAAPart.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-11-13-14-cag-open-call-the-city-in-motion-nov-16">14. CALL | CAG | Open Call - The City in Motion | NOV 16</a>
 ------------------------------------------------------------------------
-OPEN CALL â€“ CITY IN MOTION
+OPEN CALL – CITY IN MOTION
 
 Open Call - The City in Motion
 
@@ -750,7 +750,7 @@ This innovative program is an opportunity for youth to experiment with
 various media, offering training and mentorship on the concepts,
 documentation tactics and technical logistics for developing video/film/new
 media work. Through studio and gallery visits, workshops and screenings
-will also be connected to Vancouverâ€™s cultural community. Designed to
+will also be connected to Vancouver’s cultural community. Designed to
 immerse participants in a rigorous schedule that supports the process of
 developing an idea into a final permanent installation, the CAG is
 targeting self-motivated individuals interested in collaborating in the
@@ -785,7 +785,7 @@ emerging First Nations artists whose works are continuing and challenging
 traditions. In addition to the knowledge and skills the younger artists
 gain from their mentors and communities, they are also influenced by other
 modes of education, decolonization and globalization. Curator, Nan Capogna
-says, â€œThe senior artistsâ€™ commitment to mentoring a younger of generation
+says, “The senior artists’ commitment to mentoring a younger of generation
 of artists is humbling and inspiring and the works of the younger artists
 are of extraordinary qualityâ€ .
 
@@ -804,9 +804,9 @@ Lawrence Paul Yuxweluptun to the exquisitely carved masks of Latham Mack
 and the compelling photographic images of Tamara Skubovius. A publication
 for the exhibition is being produced.
 
-â€œWe are pleased to partner with the Richmond Art Gallery to present
+“We are pleased to partner with the Richmond Art Gallery to present
 Interweavings,â€  said Susan Jackson, Executive Director, YVR Art Foundation.
-â€œThis exhibition provides a unique opportunity for past YVR Art Foundation
+“This exhibition provides a unique opportunity for past YVR Art Foundation
 scholarship recipients to showcase their stories and accomplishments as BC
 First Nations artists.â€  The Opening Reception is Saturday, November 15,
 1:00-4:00pm and members of the public are invited to attend. The artists
@@ -826,7 +826,7 @@ Vancouver Airport Authority.
 The Richmond Art Gallery also gratefully acknowledges the support of the
 City of Richmond, the British Columbia Arts Council, the Province of
 British Columbia, and Metro Vancouver, the Hamber Foundation for support of
-the exhibitionâ€™s public programming, and Peller Estates and PriceSmart
+the exhibition’s public programming, and Peller Estates and PriceSmart
 Foods Richmond for sponsorship of refreshments for the opening reception.
 
 Richmond Art Gallery
@@ -864,7 +864,7 @@ Project Leader for the Hong Kong Canada Crosscurrents Project, will speak
 about the historical contexts for the protests in Hong Kong and the
 connections between Hong Kong and Vancouver.
 
-â€”
+—
 
 For more information contact:
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
@@ -937,18 +937,18 @@ http://initialgallery.com
 ------------------------------------------------------------------------
 New Exhibition: All is Unmentionable, Up in the Air: Eli Bornowsky
 
-BURNABY, BC â€“ The Burnaby Art Gallery is pleased to present a new
+BURNABY, BC – The Burnaby Art Gallery is pleased to present a new
 exhibition featuring the works by Vancouver-based contemporary artist Eli
 Bornowsky. Please join us on Thursday, November 20 from 7-9pm for the
 opening reception of All is Unmentionable, Up in the Air: Eli Bornowsky.
 
 Eli Bornowsky has been practicing as an artist in Vancouver over the past
 decade, and has accomplished an impressive and diverse body of abstract
-paintings. This exhibition features a number of large canvas â€˜doublesâ€™
+paintings. This exhibition features a number of large canvas ‘doubles’
 which mirror each other with their almost-but-not-quite identical forms. A
 new suite of works on paper is presented, as well as a selection of works
 from the City of Burnaby Permanent Art Collection. Bornowsky explores the
-polyrhythmic textures of landscape, Renaissance painting, the artistâ€™s
+polyrhythmic textures of landscape, Renaissance painting, the artist’s
 studio, colour, Abstract Expressionism, doubles, and Cubism. Accompanying
 this exhibition is an artist book of the same title, published by the
 Burnaby Art Gallery. All is Unmentionable, Up in the Air: Eli Bornowsky
@@ -979,7 +979,7 @@ November 21, 2014 to January 11, 2015
 
 Opening reception: Thursday, November 20, 7-10pm.
 
-The exhibition When Sky was Sea demonstrates the breadth of the artistâ€™s
+The exhibition When Sky was Sea demonstrates the breadth of the artist’s
 practice, works in the exhibition reveal an essential correspondence to
 things elsewhere in a wider world, insisting on our grasp of the continuity
 that exists between art and (non-art) life. As the artist travels the
@@ -991,8 +991,8 @@ artist in Japan, through to presenting a wide variety of more recent work
 for which he has since become internationally celebrated, the exhibition
 exemplifies an extraordinary curiosity and freedom of expression. Shimabuku
 uses installation, video, photography, drawings, sculpture and events alike
-to convey his intense fascination with the natural worldâ€”equally the animal
-and vegetable realmsâ€”and the countless manifestations of human culture
+to convey his intense fascination with the natural world—equally the animal
+and vegetable realms—and the countless manifestations of human culture
 within it. His artistic proposition is essentially one of storytelling and
 discovery.
 
@@ -1008,8 +1008,8 @@ Switzerland (2014); Something that Floats/Something that Sinks, Ikon
 Gallery, Birmingham, UK and Noto, 21st Century Museum of Contemporary Art,
 Kanazawa, Japan (2013); Leaves Swim, Nogueras Blanchard, Barcelona, Spain
 (2012); Man should try to avoid contact with alien life forms, Centre
-international d'art et du paysage de lâ€™ÃŽle de VassiviÃ¨re, VassiviÃ¨re,
-France; On the water, CAPC musÃ©e dâ€™art contemporain de Bordeaux (2011); The
+international d'art et du paysage de l’Île de Vassivière, Vassivière,
+France; On the water, CAPC musée d’art contemporain de Bordeaux (2011); The
 Watari Museum of Contemporary Art, Tokyo (2009); DAAD galerie, Berlin;
 Wilkinson Gallery (2007); Swansea Jack Memorial Dog Swimming Competition,
 Glynn Vivian Art Gallery, Swansea (2003); Then, I Decided To Give a Tour of
@@ -1030,7 +1030,7 @@ Opening: November 20th @ 8pm
 Love is a projection, but it still deserves to be acknowledged. As you
 fall, stage your own desires: get a fantasy, make a Pinterest board, then
 have a dream wedding. Use the potency of symbols to devise your own
-yearnings, and donâ€™t settle for anything less.
+yearnings, and don’t settle for anything less.
 
 http://doesheworshipyou.weebly.com/
 
@@ -1079,7 +1079,7 @@ The Visitor Vegetable show is questioning the boundaries of human nature
 and the encompassing infrastructure. On a rim of a mirror, we stare in,
 hoping to look back, forward or perv after someone else. How to reach to
 freedom and identity presuming to be part of the solution. For that we are
-transforming, taking body and actions after them â€“ the extraterrestrials.
+transforming, taking body and actions after them – the extraterrestrials.
 You open up to the different species like a matryoshka or cracked chocolate
 egg when you discover that your surprise was a vegetable constructor. You
 find the instructions how to cook it, but in some foreign language that you
@@ -1088,9 +1088,9 @@ alien habits we need to adapt now. We sit quietly in observation, tracking
 the unrevealed. Trying to figure out the system of our inner territories
 and theirs. What is our own role in ourselves and what do I need to do with
 this body?
-â€œAfter all what is human in the nature? Compared to infinity nothingness,
+“After all what is human in the nature? Compared to infinity nothingness,
 compared to nothingness macrocosm; Center in between nothing and
-everything. Endlessly far from understanding extremes â€“ both, end and
+everything. Endlessly far from understanding extremes – both, end and
 beginning of things are unobtainable, hidden with impermeable secret;
 equally powerless to see the essence, where its been torn out and the
 infinity where its going to be swallowedâ€  - Blaise Pascal
@@ -1129,11 +1129,11 @@ CAG, 555 Nelson Street, Vancouver
 http://www.contemporaryartgallery.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-11-13-24-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">24. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjaminâ€™s Psychogeography | NOV 21</a>
+<a href="/instant-coffee/listings/2014-11-13-24-dpt-of-art-history-visual-art-theory-ubc-tyrus-miller-on-wal">24. TALK | Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjamin’s Psychogeography | NOV 21</a>
 ------------------------------------------------------------------------
 Professor Tyrus Miller, University of California, Santa Cruz
 
-â€œWalter Benjaminâ€™s Psychogeography: Space, Affect, and Movement from
+“Walter Benjamin’s Psychogeography: Space, Affect, and Movement from
 One-way Street to Central Parkâ€ 
 
 Department of Art History, Visual Art & Theory, University of British Columbia
@@ -1179,16 +1179,16 @@ ADMISSION: $10
 + DJ SILK
 
 DESTROY VANCOUVER is a series of experimental music nights that bring
-together some of the worldâ€™s most influential improvisers with local sound
+together some of the world’s most influential improvisers with local sound
 artists and musicians. DV is curated by drummer and sound artist John
 Brennan.
 
-â€”
+—
 
 GIORGIO MAGNANENSI is an Italian composer, now resident in Canada, of
 mostly orchestral, chamber and multimedia works that have been performed
 in Asia, Europe and North America. His diverse artistic practice includes
-composition, conducting, improvisation, circuitâ€“bending and video art. He
+composition, conducting, improvisation, circuit–bending and video art. He
 is artistic director of Vancouver New Music, Laboratorio Arts Society and
 lecturer at the School of Music at the Vancouver Community College.
 giorgiomagnanensi.com
@@ -1197,7 +1197,7 @@ STEFAN SMULOVITZ is a musician (viola & laptop) and an award-winning
 composer. As a software developer he created Kenaxis, a major innovation
 in the use of the computer as a real-time instrument. His virtuosic
 command of Kenaxis has resulted in an international reputation for
-Smulovitz, who regularly performs with the worldâ€™s leading improvisers and
+Smulovitz, who regularly performs with the world’s leading improvisers and
 composes for ensembles ranging from orchestras to string quartets to solo
 instruments with electronics. His latest projects include the Mad
 Scientist Machine and the premier of his score for the Passion of Joan of
@@ -1217,7 +1217,7 @@ soar.is2.net
 
 ROOT & BRANCH is the duo of double-bassist Dave Ito Chokroun and
 multi-reedist Shane Krause, who focuses on clarinets in this group (Bass,
-Bb and Eb clarinets). The duoâ€™s music includes completely free
+Bb and Eb clarinets). The duo’s music includes completely free
 improvisation, graphically notated compositions, notated music with
 improvisation written in, and through-composed fully notated works with no
 improvisation.
@@ -1232,13 +1232,13 @@ artistic director and CEO of the online label and pataphysical disinfoshop
 The Institute for the Study of Advanced Musical Research.
 
 Shane Krause plays Eb, Bb and Bass Clarinets and the baritone saxophone.
-He is active within Vancouverâ€™s improvised music community, while also
+He is active within Vancouver’s improvised music community, while also
 leading the post-bop jazz quintet the Bletchley Bombes and the cool jazz
 septet Gullviva. Shane has performed with and/or recorded with a number of
 notable improvisers including Mats Gustafsson, Christian Munthe and Peter
-Evans; as well as having a long history within Vancouverâ€™s indie music
+Evans; as well as having a long history within Vancouver’s indie music
 scene having been a member of the Secret Mommy Quintet and They Shoot
-Horses, Donâ€™t They? He was a member of Anthony Braxtonâ€™s 2010 Vancouver
+Horses, Don’t They? He was a member of Anthony Braxton’s 2010 Vancouver
 Sonic Genome Project.
 shanekrause.wordpress.com
 
@@ -1284,14 +1284,14 @@ convention and context in moving-image arts.
 
 BEN RUSSELL (USA)
 
-Ben Russellâ€™s films, installations, and performances foster a deep
+Ben Russell’s films, installations, and performances foster a deep
 engagement with the history and semiotics of the moving image. A 2008
 Guggenheim Fellowship and 2010 FIPRESCI award recipient, Russell has had
 solo screenings and exhibitions at the Centre Georges Pompidou, the Museum
 of Contemporary Art Chicago, the Rotterdam Film Festival, the Wexner Center
 for the Arts, the Viennale, and the Museum of Modern Art. He has toured
 worldwide with film/video/performance programs and was named by Cinemascope
-in 2012 as one of the â€™50 Best Filmmakers Under 50â€™.
+in 2012 as one of the ’50 Best Filmmakers Under 50’.
 
 THE FILM SOCIAL
 A screening and discussion of Renzo Martens' Episode III: Enjoy Poverty
@@ -1302,7 +1302,7 @@ FREE; booking advised: http://goo.gl/LW6WZP
 
 Episode III, also known as 'Enjoy Poverty', is the 90 minute film
 registration of Renzo Martens' activities in the Congo. In an epic journey,
-the film establishes that images of poverty are the Congoâ€™s most lucrative
+the film establishes that images of poverty are the Congo’s most lucrative
 export, generating more revenue than traditional exports like gold,
 diamonds, or cocoa. However, just as with these traditional exports, those
 that provide the raw material: the poor being filmed, hardly benefit from
@@ -1343,18 +1343,18 @@ sees the cinema as a site for transformation.
 YOU THE CITY
 A half-day filmmaking workshop with Ben Russell
 $50 non-members / $40 Cineworks and VIVO members
-Monday 24, November; 1.30pmâ€“5.30pm, (please arrive early)
+Monday 24, November; 1.30pm–5.30pm, (please arrive early)
 Cineworks Studio, 1131 Howe Street, Vancouver (lane entrance)
 Advance booking required: http://goo.gl/3rr3I9
 
 Taking its title from the 1990 play by Fiona Templeton, in which the â€œyouâ€ 
 slowly shifts from audience member to cityscape, this 4-hour workshop takes
 a decidedly subjective approach towards understanding how filming a place
-turns it into a character, a body, and a speaking subject â€“ one that is
+turns it into a character, a body, and a speaking subject – one that is
 defined through its formal qualities and mirrored through the eyes and ears
 of cinema itself. Through a selection of screenings (Lertxundi, Nishikawa,
 Rivers, Russell) and portrait exercises, participants will work through a
-character-driven definition of urban space â€“ one that views perspective,
+character-driven definition of urban space – one that views perspective,
 camera movement, and focal length as character traits; one that finds
 ideology in both architecture and shot duration; and one that ultimately
 confuses author with subject, that calls out to YOU THE CITY.
@@ -1371,11 +1371,11 @@ Emily Carr University Lecture Hall | Room 301, South Building
 1400 Johnston Street, Granville Island
 
 Originally from Quebec City, Samuel Roy-Bois currently resides in
-Vancouver. He acquired his BFA from UniversitÃ© Laval in Quebec (1996) and a
-Masters Degree in Fine Arts from Concordia University in MontrÃ©al (2001).
+Vancouver. He acquired his BFA from Université Laval in Quebec (1996) and a
+Masters Degree in Fine Arts from Concordia University in Montréal (2001).
 His work has been presented at SFU Gallery, Carleton University Gallery,
-MusÃ©e dâ€™art contemporain de MontrÃ©al, Contemporary Art Gallery, MusÃ©e
-National des Beaux Arts du QuÃ©bec and Point Ã©phÃ©mÃ¨re in Paris. He is
+Musée d’art contemporain de Montréal, Contemporary Art Gallery, Musée
+National des Beaux Arts du Québec and Point éphémère in Paris. He is
 Assistant Professor in Creative Studies at UBC Okanagan.
 
 Roy-Bois is interested in the complex dynamics defining our relationship to
@@ -1451,7 +1451,7 @@ http://sparkboxstudio.com/nationalaward/
 <a href="/instant-coffee/listings/2014-11-13-31-festival-push-festival-announcing-2015-push-festival-line-up">31. FESTIVAL | PuSh Festival | Announcing 2015 PuSh Festival line-up | JAN 20</a>
 ------------------------------------------------------------------------
 In 2015 the PuSh Festival marks its 11th edition January 20 to February 8
-at venues across Vancouver. This yearâ€™s Festival includes works by artists
+at venues across Vancouver. This year’s Festival includes works by artists
 and companies from Argentina, Australia, Belgium, Canada, Czech Republic,
 Democratic Republic of the Congo, France, Germany, the Netherlands, Norway,
 Scotland, and the United States. The 2015 Festival features almost 200

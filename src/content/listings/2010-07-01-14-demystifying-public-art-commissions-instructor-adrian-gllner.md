@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 14
 type: ""
-summary: "Demystifying Public Art Commissions | Instructor: Adrian GÃ¶llner | JUL 11"
+venue: "Demystifying Public Art Commissions"
+summary: "Demystifying Public Art Commissions | Instructor: Adrian Göllner | JUL 11"
 ---
 
 Demystifying Public Art Commissions
 
-Instructor: Adrian GÃ¶llner
+Instructor: Adrian Göllner
 Date: Sunday July 11th, 2010
 Time: 1:00 PM to 4:30+ PM
 Location: Alliance for Arts & Culture, 938 Howe St, Suite 100,
@@ -31,7 +32,7 @@ public art competitions are being set. However, the process
 followed by commissioning bodies varies widely.
 
 With the intention of demystifying the process for artists, the
-session will begin with an artistï¿½s talk by Adrian. He will
+session will begin with an artist�s talk by Adrian. He will
 illustrate the relationship of studio-based artwork and site-
 specific work to public art commissions. Then, after breaking
 down and discussing the commission process, participants will
@@ -39,20 +40,20 @@ consider an actual public art commission opportunity, create a
 concept for it and then assess the approach from the
 perspective of a jury.
 
-Adrian GÃ¶llner is a contemporary artist working in Ottawa. His
+Adrian Göllner is a contemporary artist working in Ottawa. His
 work has been shown in solo and group exhibitions throughout
 Canada, the United States, Europe and New Zealand. He is
 also the recipient of numerous Canada Council and Ontario
 Arts Council Grants, and his work is held in a wide number of
 collections, including the Anglo-Irish Bank, the Department of
-Foreign Affairs, and the Canadian War Museum. GÃ¶llner has
+Foreign Affairs, and the Canadian War Museum. Göllner has
 been described as a site-specific satirist. Employing a variety of
 mediums and techniques in a chameleon-like adaptation to
-the environments in which he exhibits, GÃ¶llner freely combines
+the environments in which he exhibits, Göllner freely combines
 Cold War imagery, graphing techniques and references to
-Modernism in artworks that critique consumer culture. GÃ¶llner
+Modernism in artworks that critique consumer culture. Göllner
 has had the fortune to receive 15 public art commissions.
 Notable amongst these is an integrated sculpture for the new
 Canadian Embassy in Berlin and artistic street lighting for the
-Vancouver 2010 Winter Olympics. GÃ¶llner maintains a website
+Vancouver 2010 Winter Olympics. Göllner maintains a website
 at www.adriangollner.ca.

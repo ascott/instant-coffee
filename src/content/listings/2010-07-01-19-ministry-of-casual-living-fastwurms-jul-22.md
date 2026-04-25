@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 19
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Fastwurms | JUL 22"
 ---
 

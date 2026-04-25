@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 5
 type: ""
+venue: "Quinary Art Projects"
 summary: "Quinary Art Projects | HAPPY HOUR: Until We Have A Helicopter | AUG 16"
 ---
 

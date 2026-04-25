@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 29
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Artist's Tour - Lee Bul - in the Gallery | OCT 31"
 ---
 

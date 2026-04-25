@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yep, we are back 33.3 percent bett
 emailDate: "Sun, 12 May 2013 14:55:18 -0700"
 number: 28
 type: ""
+venue: "Simon Fraser University Gallery"
 summary: "Simon Fraser University Gallery | Raymond Boisjoly | until | AUG 2"
 ---
 

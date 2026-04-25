@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 11
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Astoria | art rock? no. 9 | JUN 14"
 ---
 

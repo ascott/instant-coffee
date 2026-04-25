@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 2
 type: ""
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Christopher Kuhn | OCT 23"
 ---
 
 Sunny Side Up
 Christopher Kuhn
-October Thursday 24th â€” November Saturday 22nd
-Opening Thursday, October 23rd 6:00 â€” 10:00 PM
+October Thursday 24th — November Saturday 22nd
+Opening Thursday, October 23rd 6:00 — 10:00 PM
 FIELD Contemporary
 17 West Broadway
 

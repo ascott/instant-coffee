@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 3
 type: "CALL"
+venue: "Yactac Craft Fair"
 summary: "Yactac Craft Fair | Call for Vendors - December 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 25
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Christian Newby - Spring Onion | 12PM | SEP 13"
 ---
 

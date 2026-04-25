@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 2
 type: ""
+venue: "Positive Negative Gallery"
 summary: "Positive Negative Gallery | Kuh Del Rosario | JAN 17"
 ---
 

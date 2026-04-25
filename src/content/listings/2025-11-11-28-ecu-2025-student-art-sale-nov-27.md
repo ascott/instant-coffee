@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 28
 type: "EVENT"
+venue: "ECU"
 summary: "ECU | 2025 Student Art Sale | NOV 27"
 ---
 

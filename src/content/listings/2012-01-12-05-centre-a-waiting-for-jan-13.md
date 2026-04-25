@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 5
 type: ""
+venue: "Centre A"
 summary: "Centre A | Waiting For | JAN 13"
 ---
 
@@ -14,7 +15,7 @@ Artists: Matilda Aslizadeh, Natalie Doonan, Gwenessa Lam, Natasha
 McHardy
 Curated by Makiko Hara
 
-Exhibition: January 14 â€“ February 25, 2012
+Exhibition: January 14 – February 25, 2012
 Opening: Friday, January 13, 8:00 pm 
 Artist Talk: Saturday, January 14, 2:00 - 4:00 pm
 
@@ -34,15 +35,15 @@ What does it mean to wait? Is it the passive antithesis to the ambitions
 of capitalism, or is it an active space to imagine and shape reality? 
 Feelings of suspense, dread, or hope are a few of the associations that 
 can accompany an impending transformative event. Waiting can also 
-be a space of contradiction, representing infinite possibility â€“ what is to 
-come â€“ as well as tragic failure â€“ what will not arrive. (Group Artist 
+be a space of contradiction, representing infinite possibility – what is to 
+come – as well as tragic failure – what will not arrive. (Group Artist 
 Statement)
 
-Drawing from Vancouverâ€™s local history, the artists have created new 
-work in response to Centre Aâ€™s current site, location and architecture. 
+Drawing from Vancouver’s local history, the artists have created new 
+work in response to Centre A’s current site, location and architecture. 
 The former BC Electric Railway Company Terminal was once the 
 interurban train station and streetcar terminus, the hub of the City of 
-Vancouverâ€™s early thriving core. The site is steeped in the memories of 
+Vancouver’s early thriving core. The site is steeped in the memories of 
 waves of migrants waiting for the opportunity of a new future.
 
 About the artists: 
@@ -54,8 +55,8 @@ their youth forever. By incorporating multiple temporalities and
 narratives the video explores the connection between desire, waiting, 
 and mortality. The concept of waiting is premised on a linear, 
 chronological understanding of life. Inherent in the decision to migrate 
-is the desire to exchange one flow of time for another â€“ one narrative of 
-life for another â€“ in order to access the American Dream. This 
+is the desire to exchange one flow of time for another – one narrative of 
+life for another – in order to access the American Dream. This 
 endeavor has uncertain outcomes; mortality and fate present hard 
 limits to the desire-driven, subjective experience of time.
 
@@ -70,8 +71,8 @@ Golden Horse in Taipai and LA Freewaves in Los Angeles. Matilda is a
 sessional Instructor at Emily Carr University.
 
 Natalie Doonan's two-channel video piece, Llorando/Crying, features 
-two singers performing Rebekah del Rioâ€™s rendition of Roy Orbisonâ€™s 
-1961 ballad. Each vocalist sings in her second language â€“ one in 
+two singers performing Rebekah del Rio’s rendition of Roy Orbison’s 
+1961 ballad. Each vocalist sings in her second language – one in 
 English, one in Spanish. The strong emotive impact of the performance 
 hinges not only on the personal narrative of unfulfilled expectations, but 
 on the persistent desire to bridge the gap between self and other, 
@@ -83,7 +84,7 @@ terminal patients go to live their final days, a space for tranquil
 reflection, or where unacceptable behaviors are tamed.
 
 Natalie Doonan is a multimedia and performance artist, based in 
-Montreal, QuÃ©bec. Her work explores sub economies and slow 
+Montreal, Québec. Her work explores sub economies and slow 
 practices in urban space. Natalie recently founded le/the Sensorium, a 
 curatorial project presenting a series of performances that engage 
 participation through appealing to sensory-affective registers. Natalie 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Western Front"
 summary: "Western Front | TERMINAL 4.0 | APR 11"
 ---
 

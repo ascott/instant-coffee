@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 4
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | PHANTASMAGORIA | MAY 24"
 ---
 
@@ -43,7 +44,7 @@ and the District of North Vancouver through the Arts Office, Metro
 Vancouver and the Yosef Wosk Foundation.
 
 Satellite Gallery is made possible through the generous support of the 
-Michael Oâ€™Brian Family Foundation. 
+Michael O’Brian Family Foundation. 
 
 Presentation House Gallery
 333 Chesterfield Avenue, North Vancouver, BC V7M 3G9

@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 22
 type: ""
+venue: "Classic Chic Productions"
 summary: "Classic Chic Productions | AN EVENING WITH LISA WOLPE | FEB 27"
 ---
 
 AN EVENING WITH LISA WOLPE: Classic Chic Productions present An 
-Evening with Lisa Wolpe-a unique opportunity to witness an â€˜Inside the 
-Actors Studioâ€™ style interview with acclaimed Shakespearean Drag King, Lisa 
-Wolpe (Artistic Director, Los Angeles Womenâ€™s Shakespeare Company). Lisa 
+Evening with Lisa Wolpe-a unique opportunity to witness an ‘Inside the 
+Actors Studio’ style interview with acclaimed Shakespearean Drag King, Lisa 
+Wolpe (Artistic Director, Los Angeles Women’s Shakespeare Company). Lisa 
 will talk about her life in the theatre, the hows and whys of playing cross-
-gender, and what itâ€™s like to play those great parts of Hamlet, Iago, Leontes, 
+gender, and what it’s like to play those great parts of Hamlet, Iago, Leontes, 
 Richard III, Jacquis, and Shylock. Classic Chic also welcomes guests Morgan 
 Brayton and The Legion of Flying Monkeys. February 27-6pm at The Anza 
 Club, 3 West 8th Avenue, Vancouver Map: http://goo.gl/maps/LLX8Z 

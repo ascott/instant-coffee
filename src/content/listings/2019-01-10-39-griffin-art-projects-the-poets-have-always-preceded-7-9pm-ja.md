@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 39
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | the poets have always preceded | 7-9PM | JAN 25"
 ---
 

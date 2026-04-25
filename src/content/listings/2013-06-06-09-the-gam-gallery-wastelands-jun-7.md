@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 9
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | Wastelands | JUN 7"
 ---
 

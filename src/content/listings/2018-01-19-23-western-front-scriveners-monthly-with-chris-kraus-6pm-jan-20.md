@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 23
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly with Chris Kraus | 6pm | JAN 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 5
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cinematheque | Palestinian contemporary cinema | 630PM | FEB 24"
 ---
 

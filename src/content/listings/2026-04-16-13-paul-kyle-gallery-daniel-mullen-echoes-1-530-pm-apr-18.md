@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 13
 type: ""
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Daniel Mullen: Echoes | 1-5:30 PM | APR 18"
 ---
 

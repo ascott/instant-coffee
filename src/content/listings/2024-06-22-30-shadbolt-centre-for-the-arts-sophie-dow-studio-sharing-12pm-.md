@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 30
 type: "PERFORMANCE"
+venue: "Shadbolt Centre for the Arts"
 summary: "Shadbolt Centre for the Arts | Sophie Dow | Studio Sharing | 12PM | JUN 28"
 ---
 

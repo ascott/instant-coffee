@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 13
 type: "CALL"
+venue: "OAAG"
 summary: "OAAG | Venice-Florenc-Rome Exchange | MAR 30"
 ---
 

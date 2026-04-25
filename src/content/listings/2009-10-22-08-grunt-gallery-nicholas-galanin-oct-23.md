@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why don't you think of something"
 emailDate: "Thu, 22 Oct 2009 09:30:22 -0700"
 number: 8
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Nicholas Galanin | OCT 23"
 ---
 

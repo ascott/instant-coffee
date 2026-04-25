@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 4
 type: "EDUCATION"
+venue: "Liaison of Independent Filmmakers of Toronto"
 summary: "Liaison of Independent Filmmakers of Toronto | FILM, DIGITAL AND INTERACTIVE ART WORKSHOPS"
 ---
 

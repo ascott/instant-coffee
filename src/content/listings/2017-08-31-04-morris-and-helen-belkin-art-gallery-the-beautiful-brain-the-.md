@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 4
 type: "OPENING"
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | The Beautiful Brain: The Drawings of Santiago R... | SEP 5"
 ---
 

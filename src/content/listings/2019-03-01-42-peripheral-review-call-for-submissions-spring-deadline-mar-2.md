@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 42
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions: Spring Deadline | MAR 25"
 ---
 

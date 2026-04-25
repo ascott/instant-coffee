@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 33
 type: "FUNDRAISER"
+venue: "Little Mountain Gallery"
 summary: "Little Mountain Gallery | Graham Clark’s 24-Hours of Stand-Up 2025 | 8PM | MAY 23"
 ---
 

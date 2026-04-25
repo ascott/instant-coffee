@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 10
 type: "EVENT"
+venue: "The Ministry of Casual Living, Victoria BC"
 summary: "The Ministry of Casual Living, Victoria BC | Film + Sound Series No.1 | 9PM | JUN 29"
 ---
 

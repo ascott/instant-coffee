@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  considers relations to be more in
 emailDate: "Thu, 15 Jul 2010 08:45:46 -0700"
 number: 14
 type: ""
+venue: "switch"
 summary: "switch | call: the scale of things | AUG 18"
 ---
 

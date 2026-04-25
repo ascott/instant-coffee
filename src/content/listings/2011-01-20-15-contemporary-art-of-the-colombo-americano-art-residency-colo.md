@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 15
 type: ""
+venue: "Contemporary Art of the Colombo Americano"
 summary: "Contemporary Art of the Colombo Americano | art residency, Colombia | JAN 28"
 ---
 

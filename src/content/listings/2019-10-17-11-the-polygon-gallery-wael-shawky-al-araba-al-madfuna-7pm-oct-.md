@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 11
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Wael Shawky: Al Araba Al Madfuna | 7PM | OCT 17"
 ---
 

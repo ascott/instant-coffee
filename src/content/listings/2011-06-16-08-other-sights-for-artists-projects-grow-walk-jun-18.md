@@ -4,7 +4,8 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 8
 type: ""
-summary: "Other Sights for Artistâ€™s Projects | Grow Walk | JUN 18"
+venue: "Other Sights for Artist’s Projects"
+summary: "Other Sights for Artist’s Projects | Grow Walk | JUN 18"
 ---
 
 Grow Walk:
@@ -13,9 +14,9 @@ Sustainability in Relationship: Conscious, Connected and Creative Living
 Saturday June 18, 2011, 1:30-3:00pm
 Beginning at the North enterance to Creekside Community Centre (1 Athletes 
 Way)
-Presented by Other Sights for Artistâ€™s Projects
+Presented by Other Sights for Artist’s Projects
 
-Other Sightâ€™s is pleased to present the second of a series of walks through 
+Other Sight’s is pleased to present the second of a series of walks through 
 South East False Creek as part of the Grow project.
 
 Join curator and scholar Rajdeep Singh Gill and artist, writer, and activist Fabiola 
@@ -40,7 +41,7 @@ Fraser Valley. Rajdeep is the co-founder and managing editor of Creativity
 Commons Collective and Press.
 
 Fabiola Nabil Naguib is an internationally active artist, author, and activist. She 
-has contributed to numerous public, gallery and community projects. Naguibâ€™s 
+has contributed to numerous public, gallery and community projects. Naguib’s 
 art, critical essays and poetry have been published in various journals and 
 anthologies such as West Coast Line, Fuse, Yishu and Collision: Interarts 
 Practice and Research (Cambridge Scholars Publishing, 2008). She is the 

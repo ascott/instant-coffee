@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 14
 type: "EDUCATION"
+venue: "BAG Barn Studio"
 summary: "BAG Barn Studio | Botanical Printmaking Workshop | JUN 8&9 | JUN 8"
 ---
 

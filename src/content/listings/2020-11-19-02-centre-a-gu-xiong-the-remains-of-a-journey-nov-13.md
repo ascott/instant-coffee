@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Gu Xiong: The Remains of a Journey | NOV 13"
 ---
 

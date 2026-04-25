@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 24
 type: "EVENT"
+venue: "Vancouver Fine Art Gallery"
 summary: "Vancouver Fine Art Gallery | LIVE PAINTING PERFORMANCE | OCT 26"
 ---
 

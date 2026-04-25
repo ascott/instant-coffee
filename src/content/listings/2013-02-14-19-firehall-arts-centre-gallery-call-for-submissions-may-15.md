@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watc
 emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
 number: 19
 type: ""
+venue: "FIREHALL ARTS CENTRE GALLERY"
 summary: "FIREHALL ARTS CENTRE GALLERY | CALL FOR SUBMISSIONS | MAY 15"
 ---
 

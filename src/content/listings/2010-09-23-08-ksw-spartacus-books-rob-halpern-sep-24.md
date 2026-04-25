@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 8
 type: ""
+venue: "KSW @ Spartacus Books"
 summary: "KSW @ Spartacus Books | Rob Halpern | SEP 24"
 ---
 
@@ -83,7 +84,7 @@ published widely
 in BOMB, PAJ: art + performance, Modern Painters, The Brooklyn Rail,
 Performa07, Museo,
 
-Fanzine, EXIT, and at the Poetry FoundationÃ¢â‚¬â„¢s Harriet weblog. Currently he
+Fanzine, EXIT, and at the Poetry Foundationâ€™s Harriet weblog. Currently he
 is working on a
 
 collection of critical writings, Sovereignty and Us: Critical Objects

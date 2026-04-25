@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 28
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | Slow Wave Small Projects | 7pm | SEP 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tributaries"
 emailDate: "Fri, 04 Jul 2025 03:00:07 -0700"
 number: 11
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Summer Opening | JUL 5"
 ---
 

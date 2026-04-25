@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 29
 type: "EDUCATION"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | How We Make Public Art | 1PM | FEB 21"
 ---
 

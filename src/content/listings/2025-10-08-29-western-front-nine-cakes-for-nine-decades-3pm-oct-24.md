@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 29
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Nine Cakes for Nine Decades | 3PM | OCT 24"
 ---
 

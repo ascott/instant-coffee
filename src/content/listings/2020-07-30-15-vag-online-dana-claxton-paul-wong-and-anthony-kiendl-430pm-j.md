@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 15
 type: "TALK"
+venue: "VAG [ONLINE]"
 summary: "VAG [ONLINE] | Dana Claxton, Paul Wong and Anthony Kiendl | 430PM | JUL 31"
 ---
 

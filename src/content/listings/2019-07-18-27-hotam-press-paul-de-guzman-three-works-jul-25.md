@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 27
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Paul de Guzman | Three Works | JUL 25"
 ---
 

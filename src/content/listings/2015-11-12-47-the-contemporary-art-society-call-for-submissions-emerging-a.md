@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 47
 type: "CALL"
-summary: "The Contemporary Art Society | Call for Submissions: Emerging Artistâ€™s Prize | JAN 15"
+venue: "The Contemporary Art Society"
+summary: "The Contemporary Art Society | Call for Submissions: Emerging Artist’s Prize | JAN 15"
 ---
 
 Starting November 1st, 2015, Emerging artists in the Lower Mainland
 are invited to submit their artwork (in all media) for consideration for the
-Contemporary Art Society of Vancouverâ€™s third annual Emerging
-Artistâ€™s Prize.
+Contemporary Art Society of Vancouver’s third annual Emerging
+Artist’s Prize.
 
 The Contemporary Art Society, in an effort to provide emerging artists
 with an opportunity to showcase their work and to receive financial
@@ -31,7 +32,7 @@ Gallery in Vancouver in the spring of 2016. The winner will awarded a
 cash prize of $3,000, with the other four finalists receiving a cash prize
 of $500 each. The prize is entirely funded by CASV membership and
 all Emerging Artist Prize donations encourage and support young
-contemporary artists. CASVâ€™s Emerging Artistâ€™s Prize is the only one of
+contemporary artists. CASV’s Emerging Artist’s Prize is the only one of
 its kind selected through an open competition. Other artist prizes
 awarded in Vancouver are by nomination only, and focus on mid-career
 or senior artists.
@@ -109,15 +110,15 @@ Grey Stone Studio is a shared artist studio space and we have two artist
 spaces currently available.
 The shared studio space 1100 sqft space that provides:
 
-â€¢ Shared Woodshop/ Metalshop (over 300 sqft)
-â€¢ Paint sink
-â€¢ Washrooms provided on site
-â€¢ 24h access
-â€¢ 100sqft personal artist space
-â€¢ 22ft high space
-â€¢ Concrete floors
-â€¢ At grade loading with garage door.
-â€¢ Free parking
+• Shared Woodshop/ Metalshop (over 300 sqft)
+• Paint sink
+• Washrooms provided on site
+• 24h access
+• 100sqft personal artist space
+• 22ft high space
+• Concrete floors
+• At grade loading with garage door.
+• Free parking
 
 Studio rate: $450/month. This includes use of the communal shop space with
 tools and personal artist space. Heating, electricity, water.

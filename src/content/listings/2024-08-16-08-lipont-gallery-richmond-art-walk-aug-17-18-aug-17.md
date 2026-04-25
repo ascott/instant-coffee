@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 8
 type: "EVENT"
+venue: "Lipont Gallery"
 summary: "Lipont Gallery | Richmond Art Walk | AUG 17-18 | AUG 17"
 ---
 

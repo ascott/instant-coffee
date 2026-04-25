@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "C Space"
 summary: "C Space | I Was Trying to Describe You to Somone | AUG 28"
 ---
 
@@ -17,7 +18,7 @@ Graeme Wahn
 
 Curated by Lyndsay Pomerantz
 
-â€˜I Was Trying to Describe You to Someoneâ€™ is the first installment of a
+‘I Was Trying to Describe You to Someone’ is the first installment of a
 multiple city exhibition being held in Winnipeg (C Space Gallery,
 August 28-September 4) and Vancouver (Avenue, September 24-30).
 
@@ -29,10 +30,10 @@ understanding of Winnipeg, Manitoba through means of documentation
 and research, correspondence, hypotheses, and storytelling.
 
 Employing photography, sculpture and video, notions of the unknown
-are confidently asserted obstructing oneâ€™s ability to differentiate
+are confidently asserted obstructing one’s ability to differentiate
 between fact and constructed narrative. Replication is used to trouble
 the recognizable and extraneous steps are taken to add layers that
-further heighten oneâ€™s awareness of what they should or should not
+further heighten one’s awareness of what they should or should not
 believe.
 
 'I Was Trying to Describe You to Someone' will present the work of a

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 9
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | Melanie Rocan | JAN 30"
 ---
 
@@ -22,7 +23,7 @@ emphasize the inconsistency of emotions. Thus work lingers in between a
 place of darkness and one of playfulness, with the ability to both affect
 and evoke sensations. There is a dichotomy between the difficulty of
 comprehending the reality of the internal world and a reaction to the
-outside worldâ€™s fragility. Some of my paintings depict figures who are
+outside world’s fragility. Some of my paintings depict figures who are
 brought together by disparate objects or evocations that trail behind them,
 which brings forth themes of the home and the decorative, as well as
 problems arising from our world's excessive fabrication and collection of

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: toofur"
 emailDate: "Fri, 25 May 2012 16:00:46 -0700"
 number: 14
 type: ""
+venue: "Night School Speaker Series"
 summary: "Night School Speaker Series | | MAY 31"
 ---
 
@@ -19,7 +20,7 @@ www.facebook.com/vancitynightschool.
 Speakers include Ryan McCormick, on the process of creating a feasibility study for the Safe Amplification Site Society and new all ages venues; Jaimie Kendal-Ward on how sex trade workers in the 
 Downtown Eastside are portrayed in mainstream media; and Ray Hsu on his new experimental poetry project, the Future is Laser Tag.
 
-Night School will take place at the Rhizome CafÃ©, Thursday May 31st at 7pm. It is by donation but no one will be turned away. Delicious food and drinks will also be available.
+Night School will take place at the Rhizome Café, Thursday May 31st at 7pm. It is by donation but no one will be turned away. Delicious food and drinks will also be available.
 
 More info at https://www.facebook.com/events/420117818006969/
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 8
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | UNIT/PITT | Friday the 13th | MAR 13"
 ---
 

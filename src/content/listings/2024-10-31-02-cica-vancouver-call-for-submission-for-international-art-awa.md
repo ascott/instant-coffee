@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 2
 type: "CALL"
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | Call for Submission for International Art Awards 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Canton-sardine"
 summary: "Canton-sardine | No.223: Satellite of Love | AUG 12"
 ---
 

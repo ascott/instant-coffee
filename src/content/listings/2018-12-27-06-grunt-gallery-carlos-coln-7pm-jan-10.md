@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 6
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Carlos Colín | 7PM | JAN 10"
 ---
 

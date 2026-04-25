@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 30
 type: "CALL"
+venue: "VANJAM 2020"
 summary: "VANJAM 2020 | MUSIC COMPETITION | JUN 30"
 ---
 

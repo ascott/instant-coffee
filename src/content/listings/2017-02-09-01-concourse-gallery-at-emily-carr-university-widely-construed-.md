@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 1
 type: ""
+venue: "Concourse Gallery at Emily Carr University"
 summary: "Concourse Gallery at Emily Carr University | Widely Construed | FEB 2"
 ---
 

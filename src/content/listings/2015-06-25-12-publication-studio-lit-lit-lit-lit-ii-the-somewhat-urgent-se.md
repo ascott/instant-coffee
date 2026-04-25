@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 12
 type: "TALK"
+venue: "Publication Studio"
 summary: "Publication Studio | LIT LIT LIT LIT II & The Somewhat Urgent Series... | JUN 28"
 ---
 
@@ -40,7 +41,7 @@ consistently uncompromising. Recently he finished his first feature film
 â€œCrusadeâ€  about a group of young hipsters who start a holy war. The next
 two parts in the trilogy are in preproduction.
 
-Ingrid Olauson is a writer and trawler of peopleâ€™s lives. She recently
+Ingrid Olauson is a writer and trawler of people’s lives. She recently
 wrote, produced and acted in the play and collaborative art piece Fort Eff,
 which debuted at Deep Blue this past May.
 

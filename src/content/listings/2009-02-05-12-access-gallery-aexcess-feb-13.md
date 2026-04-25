@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: How Now Is Too Soon"
 emailDate: "Thu, 05 Feb 2009 09:30:10 -0800"
 number: 12
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | AEXCESS | FEB 13"
 ---
 
@@ -24,7 +25,7 @@ all available works.
 AEXCESS auction. Featuring work by:
 
 Abbas Akhavan, Rebecca Belmore, Raymond Boisjoly, Matthew Brown, Matt
-Bushell, Wes Cameron, Sean Coggins, Christine DÃ¢'Onofrio, Derek Dunlop,
+Bushell, Wes Cameron, Sean Coggins, Christine Dâ'Onofrio, Derek Dunlop,
 Jessica Eaton, Geoffrey Farmer, Angus Ferguson, Jason Fitzpatrick, Jacob
 Gleeson, Babak Golkar, Jesse Gray, Jeremy Hatch and David Khang, Christian
 Kliegel, Gwenessa Lam, Arvo Leo, Justin Ogilvie, Sara Mameni, Phillip

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Erin Skiffington | NOV 16"
 ---
 

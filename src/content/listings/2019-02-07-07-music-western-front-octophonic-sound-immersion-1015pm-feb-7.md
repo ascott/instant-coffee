@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 7
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Western Front | Octophonic: Sound Immersion | 10:15PM | FEB 7"
 ---
 

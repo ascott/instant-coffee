@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 1
 type: ""
+venue: "Call for November Birthdays"
 summary: "Call for November Birthdays | www.birthdaysnovember.com"
 ---
 

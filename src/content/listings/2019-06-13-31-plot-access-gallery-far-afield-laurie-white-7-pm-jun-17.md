@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 31
 type: "TALK"
+venue: "PLOT @ Access Gallery"
 summary: "PLOT @ Access Gallery | Far Afield: Laurie White | 7 PM | JUN 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Finite + InfinitePart 2: Lawrence Weiner / Ian Wil | OCT 5"
 ---
 
@@ -69,7 +70,7 @@ Panel Discussion
 November 10, 2011 at 7PM
 Iain Baxter&, David Bellman & Meirion Cynog Evans, Adam Lauder, Mary 
 Williams
-Djavad Mowafaghian Cinema, SFU Woodwardâ€™s, 149 West Hastings
+Djavad Mowafaghian Cinema, SFU Woodward’s, 149 West Hastings
 
 Exhibition Tour
 November 12, 2011 at 2PM
@@ -88,7 +89,7 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 If you no longer wish to receive these emails click HERE to unsubscribe.

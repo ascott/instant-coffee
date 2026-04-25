@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Jenny Lin - Pandemic Drawings | Until Oct 31"
 ---
 

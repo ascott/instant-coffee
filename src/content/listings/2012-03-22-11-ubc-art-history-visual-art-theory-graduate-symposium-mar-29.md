@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 11
 type: ""
+venue: "UBC"
 summary: "UBC | Art History Visual Art & Theory Graduate Symposium | MAR 29"
 ---
 
@@ -46,7 +47,7 @@ subjects or at least to make tangible the processes of erasure and
 entropy that affect them.
 
 Exhibiting artists: Kevin Day & Nathan McNinch, Colin Lyons, Aydin 
-Matlabi, Faye Mullen, Tristan Sober-Blodgett and Ã‰tienne Tremblay-
+Matlabi, Faye Mullen, Tristan Sober-Blodgett and Étienne Tremblay-
 Tardif
 
 Curated By: Louis-Alexandre Douesnard, Tarah Hogue, Toby 
@@ -56,61 +57,61 @@ Symposium: Lillooet Room Irving K. Barber Learning Center, 1961
 East Mall, UBC
 
 Friday, March 30th, 2012
-10:30â€“ 10:45: Opening Remarks
+10:30– 10:45: Opening Remarks
 
 Panel I:
-10:45 â€“ 11:30:
-Chris Jones (University of Florida), â€œ'Walk into the View': 
+10:45 – 11:30:
+Chris Jones (University of Florida), “'Walk into the View': 
 Rephotography as Art Practice 1975-2010"
-11:30 â€“ 12:15:
-Frances Cullen (University of Alberta), â€œStillness in Motion: Alex 
+11:30 – 12:15:
+Frances Cullen (University of Alberta), “Stillness in Motion: Alex 
 Pragerâ€™s Despair and the Reassessment of Cinematic Timeâ€ 
 
-12:15 â€“ 1:15:
+12:15 – 1:15:
 Lunch Break
 
-1:15 â€“ 1:30:
+1:15 – 1:30:
 Keynote Introduction
-1:30 â€“ 3:00:
-Keynote Speaker â€“ Dr. Darby English (University of Chicago)
+1:30 – 3:00:
+Keynote Speaker – Dr. Darby English (University of Chicago)
 
-3:00 â€“ 3:30:
+3:00 – 3:30:
 Coffee Break
 
 Panel II:
-3:30 â€“ 3:45:
+3:30 – 3:45:
 Exhibition Introduction
-3:45 â€“ 4:30:
-Alexandra L. Simpson (Queenâ€™s University), â€œBlindness and Site: Art 
+3:45 – 4:30:
+Alexandra L. Simpson (Queen’s University), “Blindness and Site: Art 
 Illustrating the Invisible in Touch Tour Picturesâ€ 
 
-5:00 â€“ 7:00:
+5:00 – 7:00:
 Reception and Exhibition
 Location: AMS Art Gallery
 
 Saturday, March 31st, 2012
-10:30 â€“ 10:45: Coffee & Opening Remarks
+10:30 – 10:45: Coffee & Opening Remarks
 
 Panel III
-10:45 â€“ 11:30:
-Catherine Walsh (Boston University), â€œDisplacement and Figuration in 
+10:45 – 11:30:
+Catherine Walsh (Boston University), “Displacement and Figuration in 
 Giambolognaâ€™s Appenninoâ€ 
-11:30 â€“ 12:15:
+11:30 – 12:15:
 Christina Gray (UCLA), â€œHumour and Adolf Loosâ€ 
-12:15 â€“ 1:00:
-Alexey Golubev (UBC), â€œUnseen Materiality in Marginalia of Post-
+12:15 – 1:00:
+Alexey Golubev (UBC), “Unseen Materiality in Marginalia of Post-
 Stalinist Soviet Magazinesâ€ 
 
-1:00 â€“ 2:00:
+1:00 – 2:00:
 Lunch Break
 
 Panel IV
-2:00 â€“ 2:45:
-Carley Hodgkinson (NSCAD), â€œRe-imagining the Temporary and Void 
+2:00 – 2:45:
+Carley Hodgkinson (NSCAD), “Re-imagining the Temporary and Void 
 Spaces of the Cityâ€ 
-2:45 â€“ 3:30:
-Erica Zacharias (UBC), â€œInsight Out of Site: Staging Gordon Matta-
+2:45 – 3:30:
+Erica Zacharias (UBC), “Insight Out of Site: Staging Gordon Matta-
 Clarkâ€ 
 
-3:30 â€“ 4:00
+3:30 – 4:00
 Closing Remarks

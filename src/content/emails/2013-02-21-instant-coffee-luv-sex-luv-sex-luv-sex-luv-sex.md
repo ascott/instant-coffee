@@ -29,7 +29,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-02-21-17-winsor-gallery-brian-howell-charles-rea-feb-28">17. Winsor Gallery | Brian Howell & Charles Rea | FEB 28</a>
 <a href="/instant-coffee/listings/2013-02-21-18-vivo-media-arts-centre-destroy-vancouver-v-chris-corsano-mar">18. VIVO Media Arts Centre | DESTROY VANCOUVER V: Chris Corsano | MAR 2</a>
 <a href="/instant-coffee/listings/2013-02-21-19-labspace-studio-noise-intercepted-call-mar-4">19. Labspace Studio | Noise Intercepted | CALL | MAR 4</a>
-<a href="/instant-coffee/listings/2013-02-21-20-ubc-jakob-jakobsen-artist-talk-mar-6">20. UBC | Jakob Jakobsen â€“ Artist Talk | MAR 6</a>
+<a href="/instant-coffee/listings/2013-02-21-20-ubc-jakob-jakobsen-artist-talk-mar-6">20. UBC | Jakob Jakobsen – Artist Talk | MAR 6</a>
 <a href="/instant-coffee/listings/2013-02-21-21-centre3-for-print-and-media-arts-call-for-submissions-mar-8">21. Centre3 for Print and Media Arts | Call for Submissions | MAR 8</a>
 <a href="/instant-coffee/listings/2013-02-21-22-third-space-call-for-submissions-mar-10">22. Third Space | CALL FOR SUBMISSIONS | MAR 10</a>
 <a href="/instant-coffee/listings/2013-02-21-23-city-of-vancouver-call-for-applications-for-artist-studio-re">23. City of Vancouver | Call for Applications for Artist Studio Residency | MAR 27</a>
@@ -76,7 +76,7 @@ Gallery will present a solo exhibition of works by UK artist Paul
 Housley.
 
 Housley has a singular ability to represent his subjects in a style
-that is both direct andobtuse. Though many of Housleyâ€™s paintings
+that is both direct andobtuse. Though many of Housley’s paintings
 reference the old masters, their small scale is anti-grandiose,
 fitting equally alongside his paintings of commonplace objects. The
 weight of his subject matter, whether iconic portrait or every-day
@@ -87,12 +87,12 @@ Alongside paintings presented in the exhibition, Housley will show a
 selection of his sculptural works. As the artist commonly references
 objects rather than photographs when composing his paintings, these
 additional works create a complimentary dialogue and augment an
-understanding of the artistâ€™s practice.
+understanding of the artist’s practice.
 
 Paul Housley received his M.A. in painting from the Royal College of
 Art in London in 1995. He has recently exhibited at the Peter Bergman
 Gallery (Stockholm), White Columns (New York), Andrea Rosen Gallery
-(New York), and Poppy Sebire Gallery (London). Housleyâ€™s work has been
+(New York), and Poppy Sebire Gallery (London). Housley’s work has been
 printed in numerous publications including Artforum, Modern Painters,
 The Independent, and ArtSlant.
 
@@ -157,7 +157,7 @@ and movement at Western Front, specifically the work and impact of dancer
 and educator Jane Ellison, who has been an integral part of Western Front 
 since 1975. Project Rainbow will screen a selection of past work, work in 
 progress, interviews and tapes from the archive, including Steve Paxton and 
-Paul Wongâ€™s Asteroid (1978). Additional works from the Western Front Media 
+Paul Wong’s Asteroid (1978). Additional works from the Western Front Media 
 Archive that informed Project Rainbow's research will be made available online 
 at www.front.bc.ca.
 
@@ -165,7 +165,7 @@ Project Rainbow are Jesse Birch, Jade Boyd, Sydney Vermont and Heidi
 Nutley, a group of Vancouver-based interdisciplinary artists who collaborate to 
 explore the study of colour through photography, film, video, and movement. 
 Their projects are research based and often derive from literature, dance, film, 
-and art history and have included diverse sources such as HonorÃ© de Balzac, 
+and art history and have included diverse sources such as Honoré de Balzac, 
 Maya Deren, and Yvonne Rainer. Through a series of idiosyncratic steps, 
 Project Rainbow translates their research from theoretical reference to 
 gestural act. Recent projects include Blue (2010) commissioned by the City 
@@ -193,23 +193,23 @@ E. sarahtodd@front.bc.ca
 <a href="/instant-coffee/listings/2013-02-21-05-winsor-gallery-attila-richard-lukacs-closing-feb-21">05. Winsor Gallery | ATTILA RICHARD LUKACS | closing | FEB 21</a>
 ------------------------------------------------------------------------
 
-Please join us on Thursday, February 21, 6:00pm â€“ 8:00pm, for the closing
-reception of Attila Richard Lukacsâ€™ exhibition of new painting, currently
+Please join us on Thursday, February 21, 6:00pm – 8:00pm, for the closing
+reception of Attila Richard Lukacs’ exhibition of new painting, currently
 running through February 23. While in the neighbourhood, make sure to stop
-by Monte Clarkâ€™s opening of their new location at 525 Great Northern Way.
+by Monte Clark’s opening of their new location at 525 Great Northern Way.
 Winsor Gallery, 258 East 1st Ave., Vancouver, (detailed map) is open
-Monday â€“ Saturday, 10:00 am â€“ 6:00 pm. Sunday & Monday, by
+Monday – Saturday, 10:00 am – 6:00 pm. Sunday & Monday, by
 appointment.
 
 ATTILA RICHARD LUKACS
-JANUARY 17 â€“ FEBRUARY 23, 2013
-CLOSING RECEPTION THURSDAY FEBRUARY 21, 6 â€“ 8PM
+JANUARY 17 – FEBRUARY 23, 2013
+CLOSING RECEPTION THURSDAY FEBRUARY 21, 6 – 8PM
 
-You can preview selected works at â€¦
+You can preview selected works at …
 
 Attila Richard Lukacs
 
-Visit Winsor Galleryâ€™s new location, 258 East 1st Ave, Vancouver:
+Visit Winsor Gallery’s new location, 258 East 1st Ave, Vancouver:
 
 Winsor (East 1st) Gallery Corp.
 258 East 1st Avenue
@@ -226,7 +226,7 @@ www.winsorgallery.com
 ------------------------------------------------------------------------
 Hold Them Up in Good Light
 
-Friday February 22nd, 8pm â€“ 12am
+Friday February 22nd, 8pm – 12am
 222 East Georgia St.
 $15, Free for Members.
 
@@ -238,14 +238,14 @@ away with music provided by SWEATY BONES // Featuring DJ Pancake
 Semester (Jenny Lee Craig),DJ Merci Beaucruz (Francis Cruz), DJ Dayglow 
 (Kara Stokowski), DJ Endless Summer (Ian Deleon), Pillowhead (Justin 
 Wright), DJ HNAGZ (Heidi Nagtegaal), and DJ Banned for Life (Nathalee 
-Paolinelli), hors dâ€™ourves and desserts by Silvestre Gusto Latino, and 
+Paolinelli), hors d’ourves and desserts by Silvestre Gusto Latino, and 
 handcrafted cocktails by Malika Montague.
 
 Hold Them Up in Good Light will feature both live and silent auctions hosted 
 by special guests Glaze & Stipple, the Duo that Never Fails to Express 
-(Elizabeth Milton and Tara Travis). This yearâ€™s auction features over 40 works 
+(Elizabeth Milton and Tara Travis). This year’s auction features over 40 works 
 from a mix of internationally renowned and locally respected artists, as well 
-as some Vancouverâ€™s most exciting emerging talent. Artists include: Neil 
+as some Vancouver’s most exciting emerging talent. Artists include: Neil 
 Wedman, Nicole Ondre, Elizabeth Zvonar, Howie Tsui, Rachelle Sawatsky, 
 Ryan Peter, Anne Low, Matthew Brown, Alison Yip, Jonathan Syme, Erica 
 Stocking, Shannon Oksanen, Sydney Hermant, Kaeli Robinsong, Kate Moss, 
@@ -287,22 +287,22 @@ Neil Campbell, Hanne Darboven, Nicole Ondre, Cheyney Thompson
 Reception February 22, 8PM
 Curated by Eli Bornowsky
 
-â€œI decided to create a show in the same fashion that I would paint a picture.
+“I decided to create a show in the same fashion that I would paint a picture.
 
-At first I was thinking of symmetry and began drawing diagrams. If Ondreâ€™s 
+At first I was thinking of symmetry and began drawing diagrams. If Ondre’s 
 work was positioned in the exact middle point between Thompson and 
 Campbell the symmetry would be maintained, but I was sure her work could 
 easily shift to one side or the other. Further, the diagram was only 
-symmetrical if Thompson and Campbellâ€™s work were envisioned as the same 
+symmetrical if Thompson and Campbell’s work were envisioned as the same 
 shape (dots), and that, I was certain, could not be the case. This was an 
 exciting observation because it meant that I could expand my two-
 dimensional model into a three or four-dimensional model. With these new 
 dimensions, I could activate the negative space of my diagrams with 
-Darbovenâ€™s musical work.
+Darboven’s musical work.
 
 Ultimately I was designing a collection of four artistic worlds that spanned the 
 relation between sensation and intellection. A generic tension, but generic in 
-the sense that it could encourage us to say something like â€œart and human 
+the sense that it could encourage us to say something like “art and human 
 experienceâ€ . Existential! I like being alive; experience is what we are made for. 
 How do we think about our sensations? How do we sense ourselves 
 thinking?...â€ 
@@ -327,7 +327,7 @@ Susanna Browne: A Perfect Day
 Launch event, Friday, February 22, 8 pm, at Unit/Pitt Projects, 15 East 
 Pender Street, Vancouver BC
 
-The second project in Unit/Pittâ€™s What Future series of commissioned works 
+The second project in Unit/Pitt’s What Future series of commissioned works 
 is A Perfect Day by Susanna Browne. On Friday, February 22, join us for the 
 launch of the project and its accompanying publication.
 
@@ -340,10 +340,10 @@ East Pender Street, Vancouver; or via the internet).
 
 Exemplifying the inherent sentimentality and melancholy of the Victorian era, 
 A Perfect Day describes the bittersweet feelings one experiences at the end 
-of something wonderful, perfect. Jacobs-Bondâ€™s work, well known during her 
+of something wonderful, perfect. Jacobs-Bond’s work, well known during her 
 lifetime, in the last century has disappeared, and though her music often 
 focused on the upbeat, her life was anything but. Illness, unemployment, and 
-a number of premature deaths in the family plagued Jacobs-Bondâ€™s life, the 
+a number of premature deaths in the family plagued Jacobs-Bond’s life, the 
 most curious being that of her only son, who, in 1932, on a trip to Lake 
 Arrowhead, California, committed suicide. He was found in a room with A 
 Perfect Day playing on the phonograph, his body surrounded by burning 
@@ -397,25 +397,25 @@ camera.
 221A
 
 Open Hours
-Cube Livingâ€™s sales centre open for 1 week only!
-1 â€“ 6pm, February 19 â€“ February 23
+Cube Living’s sales centre open for 1 week only!
+1 – 6pm, February 19 – February 23
 
-8pm, February 23 â€“ Reception
+8pm, February 23 – Reception
 
 221A is pleased to present Cube Living (Phase 2), a 4-week artist-in-
-residence with artist and designer Alex GrÃ¼nenfelder, running from January 23 
-to February 25, 2013. GrÃ¼nenfelder will examine how real estate 
+residence with artist and designer Alex Grünenfelder, running from January 23 
+to February 25, 2013. Grünenfelder will examine how real estate 
 developments operate as containers that capture living space as urban spatial 
 commodities through the packaging of bodies, objects, lifestyles, identities, 
 capital and politics.
 
-On February 19 GrÃ¼nenfelder will begin a limited release of micro-properties 
+On February 19 Grünenfelder will begin a limited release of micro-properties 
 measuring 1 cubic foot. This innovative product addresses the stagnation and 
-endemic unaffordability of Vancouverâ€™s real estate market. In developing a 
+endemic unaffordability of Vancouver’s real estate market. In developing a 
 spatial commodity that can be purchased in very small units, Cube Living is 
 able to offer affordable properties at prices under $50! Micro-properties are an 
 accessible solution to the inflated real estate market crisis that threatens to 
-push Vancouverâ€™s economy into decline.
+push Vancouver’s economy into decline.
 
 Many Vancouver residents find it difficult or impossible to enter the market. 
 Despite government urban densification policies that have brought 10,000 new 
@@ -423,26 +423,26 @@ condo units to the city each year, [1] Vancouver remains the second least-
 affordable city in the world. [2]
 
 Vancouver has experienced explosive real estate development since 1986. In 
-the 2000s, then-mayor Sam Sullivanâ€™s Ecodensity program initiated radical 
+the 2000s, then-mayor Sam Sullivan’s Ecodensity program initiated radical 
 urban densification with the aim of promoting housing affordability and 
 environmentally sustainable neighbourhoods. Pundits declared that flooding 
-the market with new condos would result in more affordableâ€”or at least 
-stableâ€”prices, so that new buyers could purchase small units and eventually 
+the market with new condos would result in more affordable—or at least 
+stable—prices, so that new buyers could purchase small units and eventually 
 trade up into a larger living space. Buildings got taller and condos got smaller, 
-but prices have kept rising. Development and construction hasnâ€™t been able to 
+but prices have kept rising. Development and construction hasn’t been able to 
 meet the goal of affordability and now the city is faced with a dire situation.
 
-â€œThe current property market is almost saturated. Sales are in decline 
-because people canâ€™t afford to lower their asking prices. We need to expand 
+“The current property market is almost saturated. Sales are in decline 
+because people can’t afford to lower their asking prices. We need to expand 
 into new markets, and the only way to produce a lower tier of affordable entry-
 level properties is to create highly liquid, easily tradeable micro-spaces. This 
 is the only way to address the affordability crisis within our market-driven real-
 estate economy.â€ 
 
-[1]RBC. â€œVancouverâ€™s housing market: moderation in store but vulnerable to a 
+[1]RBC. “Vancouver’s housing market: moderation in store but vulnerable to a 
 harsher outcome.â€  April 2012. Page 6. 
 http://www.rbc.com/economics/market/pdf/vancouverhouse.pdf
-[2]Demographia. â€œ9th Annual Demographia International Housing Affordability 
+[2]Demographia. “9th Annual Demographia International Housing Affordability 
 Survery: 2013â€ . Page 2. http://www.demographia.com/dhi.pdf
 Image Credit: Everybody works but the vacant lot, Henry George as quoted by 
 Fay Lewis.
@@ -503,13 +503,13 @@ www.front.bc.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-02-21-12-access-gallery-talk-mohammed-salemy-feb-24">12. Access Gallery | Talk: Mohammed Salemy | FEB 24</a>
 ------------------------------------------------------------------------
-ENCYCLONOSPACE IRANICA: Talk with Curator â€“ in â€“ Residence 
+ENCYCLONOSPACE IRANICA: Talk with Curator – in – Residence 
 Mohammed Salemy
 
-Sunday February 24, 2 â€“ 4pm,
+Sunday February 24, 2 – 4pm,
 Access Gallery, 222 East Georgia St.
 
-Access invites you to an informal afternoon with the galleryâ€™s curator-in-
+Access invites you to an informal afternoon with the gallery’s curator-in-
 residence. Mohammad Salemy has been involved with a project titled 
 ENCYCLONOSPACE IRANICA, an extensive curatorial research initiative that 
 engages with diasporic Iranian artists and other knowledge producers. Instead 
@@ -548,9 +548,9 @@ Elm Park (41 Ave @ Larch)
 
 Walking. We might take it for granted, but it is one of the ways in which 
 individuals know, shape and give meaning to places. Walking is an everyday 
-tactic that bends the city toward unplanned ends (Michel de Certeau). Itâ€™s 
-done for political reasons, for pleasure, for meditation. â€œWalkers are 
-â€˜practitioners of the city,â€™ for the city is made to be walked.[...] Just as 
+tactic that bends the city toward unplanned ends (Michel de Certeau). It’s 
+done for political reasons, for pleasure, for meditation. “Walkers are 
+‘practitioners of the city,’ for the city is made to be walked.[...] Just as 
 language limits what can be said, architecture limits where one can walk, but 
 the walker invents other ways to go,â€  wrote Rebecca Solnit in Wanderlust: A 
 History of Walking.
@@ -559,11 +559,11 @@ The next League play date turns on walking. How does the environment
 around us affect how we understand our possibilities for action, and could our 
 movements through the city shift those habits and conventions?
 
-Weâ€™ll workshop some ideas from League regulars Jay White and Leah 
+We’ll workshop some ideas from League regulars Jay White and Leah 
 Weinstein, and of course adapt as we go. Bonus points if you arrive on foot.
 
 League is an open gathering for the purpose of inventing games and sports; 
-itâ€™s problem-solving as play. The project was launched by artist Germaine Koh 
+it’s problem-solving as play. The project was launched by artist Germaine Koh 
 within the Vancouver Park Board field house residency program. More info: 
 http://league-league.org
 
@@ -585,8 +585,8 @@ CO-MIX: A Retrospective of Comics, Graphics and Scraps, the first
 retrospective exhibition of the acclaimed American comic artist Art 
 Spiegelman presents examples from all facets of his diverse career. The 
 exhibition includes preparatory drawings, sketches, studies and panels 
-relating to his early underground comics from the 1970s, his bestâ€“known and 
-genreâ€“defying work, Maus, as well as recent illustrations and comic art.
+relating to his early underground comics from the 1970s, his best–known and 
+genre–defying work, Maus, as well as recent illustrations and comic art.
 
 February 16 to June 9, 2013
 
@@ -596,7 +596,7 @@ www.vanartgallery.bc.ca
 <a href="/instant-coffee/listings/2013-02-21-15-rennie-collection-at-ecu-speaker-series-robert-beck-robert-b">15. Rennie Collection at ECU | Speaker Series: Robert Beck / Robert Buck | FEB 27</a>
 ------------------------------------------------------------------------
 Rennie Collection Speaker Series :: Robert Beck / Robert Buck
-Wednesday, February 27, 2013 â€“ 8:00-9:30pm
+Wednesday, February 27, 2013 – 8:00-9:30pm
 Emily Carr University Lecture Hall (Room 301, North Building)
 For more information, or to book a tour of the exhibition, please visit 
 renniecollection.org
@@ -613,12 +613,12 @@ content and persistently diverse in form. As an alias, Buck appealed to the
 artist for its precision and associations: stag, son, cash, to throw off. 
 
 Robert Buck lives and works in New York City and the deserts of the 
-American Southwest. A graduate of NYUâ€™s Tisch School of the Arts, Film and 
-Television Program, Buck completed the Whitney Museum of American Artâ€™s 
+American Southwest. A graduate of NYU’s Tisch School of the Arts, Film and 
+Television Program, Buck completed the Whitney Museum of American Art’s 
 Independent Study Program in 1993. His work has been exhibited 
 internationally, including a 2007 solo show at the Wexner Museum of Art in 
 Columbus, OH, and is part of museum collections across the US. He was a 
-1999 Louis Comfort Tiffany Foundation Award recipient. Buckâ€™s work is 
+1999 Louis Comfort Tiffany Foundation Award recipient. Buck’s work is 
 represented by CRG Gallery, New York City, and Stephen Friedman Gallery, 
 London.
 
@@ -638,22 +638,22 @@ HELP
 WANTED 
 APPLY 
 INSIDE
-Weâ€™re all familiar with the challenge of making a resumÃ©. The competing goals 
+We’re all familiar with the challenge of making a resumé. The competing goals 
 surrounding resumÃ© building appear to be in fundamental conﬂict. On the one 
 hand, job seekers are pressed to reduce their experiences into quantiﬁable, 
 coherent chunks. They also hope to manifest their speciﬁc personhood on the 
-page. In both content and form, the resumÃ© or curriculum vitae becomes a 
+page. In both content and form, the resumé or curriculum vitae becomes a 
 singular 
-portrait of the job seekerâ€™s professional self. As the national wage gap steadily 
+portrait of the job seeker’s professional self. As the national wage gap steadily 
 climbs and the creative industry rises in favor of industrial capital, the value of 
 everyday citizens becomes inscribed evermore by their labour. For Hire 
 explores 
 the methods adopted by job seekers to vocalize their professional merit.
-To make this exhibition possible, RECESS is seeking page-length resumÃ©s 
+To make this exhibition possible, RECESS is seeking page-length resumés 
 from 
 individuals everywhere to be displayed along the walls of our space in SE 
 Portland. 
-Weâ€™ll be accepting submissions until March 5th and weâ€™ll hang all resumÃ©s for 
+We’ll be accepting submissions until March 5th and we’ll hang all resumés for 
 an 
 exhibition opening in late March. Send physical submissions to: 
 RECESS
@@ -663,7 +663,7 @@ For digital submissions, weâ€™re asking for a small donation of ﬁfty cent
 printing 
 charges which can be made via our Paypal accouont. Please e-mail pdfs to 
 info@recessart.com. For more information, visit www.recessart.com. 
-*Weâ€™ll also be accepting video resumÃ©s, contact us for further details. 
+*We’ll also be accepting video resumés, contact us for further details. 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-02-21-17-winsor-gallery-brian-howell-charles-rea-feb-28">17. Winsor Gallery | Brian Howell & Charles Rea | FEB 28</a>
@@ -681,10 +681,10 @@ Press
 Brian Howell graduated from Ryerson Polytechnical University in Toronto in 
 1994 with a Bachelor of Arts Degree in Film and Photography. His 
 contemporary photographic work examines vernacular expressions of shifting 
-societal and personal values. Howellâ€™s subjects are drawn from fringe, or 
+societal and personal values. Howell’s subjects are drawn from fringe, or 
 marginalized communities; people and places resonant with allegorical 
 meanings for an age that seems to Howell both broken and blinded. Each of 
-Howellâ€™s photographic series builds on the truth-telling mantra of historical 
+Howell’s photographic series builds on the truth-telling mantra of historical 
 documentary photojournalism, while further structure and meaning are gained 
 through a rigorous contemporary conceptual framework.
 
@@ -695,13 +695,13 @@ Charles Rea has been an important player in the Vancouver painting scene for
 more than twenty years. Introduced in the Vancouver Art Gallery group show 
 â€œThe Young Romanticsâ€  in 1985, Reaâ€™s art practice has since followed many 
 diverse paths, making use of varying, often unconventional materials. Over the 
-years, Reaâ€™s artwork has assumed many different forms and subject matter, it 
+years, Rea’s artwork has assumed many different forms and subject matter, it 
 regularly explores the myriad of systems that have come to represent our 
-visual perception and knowledge bank. Reaâ€™s newest series of paintings are 
+visual perception and knowledge bank. Rea’s newest series of paintings are 
 about the cultural ghosts, some recognizable and some inexplicable, that 
 inhabit our collective psyche. 
 
-Press and Parataxis will run from February 28th â€“ April 6th
+Press and Parataxis will run from February 28th – April 6th
 
 WINSOR GALLERY
 258 East 1st Avenue
@@ -747,7 +747,7 @@ UK in 2005 led Corsano to develop an expanded solo music project,
 incorporating sax reeds, violin strings and bows, pot lids, and everyday 
 household items into his drum kit. In February 2006 he released his first solo 
 album, The Young Cricketer (Hot Cars Warp Records), and toured extensively 
-throughout Europe, USA, and Japan. Corsano performed on BjÃ¶rk's Volta 
+throughout Europe, USA, and Japan. Corsano performed on Björk's Volta 
 world tour in 2007 and 2008. In 2009, he returned focus to his own projects, 
 most notably a duo with Michael Flower, Rangda (with Sir Richard Bishop and 
 Ben Chasny) and solo work, now revamped to include synthesizers and 
@@ -817,11 +817,11 @@ info@labspacestudio.com
 by Labspace Studio
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-02-21-20-ubc-jakob-jakobsen-artist-talk-mar-6">20. UBC | Jakob Jakobsen â€“ Artist Talk | MAR 6</a>
+<a href="/instant-coffee/listings/2013-02-21-20-ubc-jakob-jakobsen-artist-talk-mar-6">20. UBC | Jakob Jakobsen – Artist Talk | MAR 6</a>
 ------------------------------------------------------------------------
 
-Jakob Jakobsen â€“ Artist Talk
-â€œSelf-institutionalization can be viewed as a kind of exorcism, a kind of 
+Jakob Jakobsen – Artist Talk
+“Self-institutionalization can be viewed as a kind of exorcism, a kind of 
 externalization of this internalized control.â€ 
 Wednesday, March 6, 2013 6:00 PM
 Jakob Jakobsen is a politically engaged visual artist, educator and activist. He 
@@ -919,27 +919,27 @@ and establishments in the city of Saint John to house the work.
 
 Third Space will consider interdisciplinary submissions and is committed to 
 representing local, regional and national professional contemporary artists. 
-Weâ€™ll be looking for submissions of contemporary painting, sculpture, 
+We’ll be looking for submissions of contemporary painting, sculpture, 
 printmaking, performance projects, new media, or other works that look to 
 engage the public in relevant topics of the day. 
 
 SUBMISSIONS CRITERIA:
 
 Email submissions must be date stamped by 9pm.
-Â· a clear and concise description of project, including equipment 
+· a clear and concise description of project, including equipment 
 requirements (maximum 700 words)
 
-Â· MAXIMUM 10 images (JPEG, 300 dpi)
+· MAXIMUM 10 images (JPEG, 300 dpi)
 
-Â· Numbered image list, including title, medium, dimensions, year (where 
+· Numbered image list, including title, medium, dimensions, year (where 
 applicable)
 
-Â· if including digital video and/or audio files (less than 5MG each) please 
+· if including digital video and/or audio files (less than 5MG each) please 
 include a weblink
 
-Â· Artist CV (maximum 3 pages)
+· Artist CV (maximum 3 pages)
 
-Â· Artist statement (maximum 250 words)
+· Artist statement (maximum 250 words)
 
 In your cover letter please indicate if you can offer an artist-talk, workshop or 
 presentation, and to what age groups (include brief outline of topic or lesson 
@@ -947,10 +947,10 @@ plan if applicable). Saint John is home to one university that does not have a
 fine arts program, thus Third Space Gallery strives to fulfill a critical 
 pedagogical role towards the diffusion of contemporary art.
 
-Proposals can be emailed to: tiersespace@gmail.com with â€˜Submission 2013â€™ 
+Proposals can be emailed to: tiersespace@gmail.com with ‘Submission 2013’ 
 in the subject line.
 
-Third Space Gallery is committed to paying artistâ€™s fees as outlined in the 
+Third Space Gallery is committed to paying artist’s fees as outlined in the 
 CARFAC fee schedule.
 
 For more information please contact the gallery at (506) 654-1190 or 
@@ -1030,7 +1030,7 @@ http://www.naturalmanufactured.com
 ODD GALLERY
 
 The ODD Gallery is a contemporary exhibition space housed in KIAC. The 
-ODD Galleryâ€™s year-round programming features solo and group exhibitions 
+ODD Gallery’s year-round programming features solo and group exhibitions 
 (selected and curated by committee) by regional, national and international 
 visual artists, as well as the annual thematic project, The Natural & The 
 Manufactured. The gallery also presents a wide array of outreach 
@@ -1069,7 +1069,7 @@ Vancouver, BC
 Following the universal theme of voyage, the first major Canadian group 
 exhibition of contemporary artists from the Middle Eastern region arrives at 
 MOA in Spring of 2013. Guest curated by Fereshteh Daftari, formerly of 
-MoMA, Safar/Voyageâ€™s scope takes viewers from the planet earth, down to 
+MoMA, Safar/Voyage’s scope takes viewers from the planet earth, down to 
 maps, and further to specific cities such as Tehran and Cairo, after which it 
 proceeds to reveal internal and meditative spaces, from emotional and 
 existential to spiritual imaginings. Using a wide range of media, from painting 

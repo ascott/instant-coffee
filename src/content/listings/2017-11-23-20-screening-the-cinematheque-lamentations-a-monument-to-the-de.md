@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 20
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Lamentations: A Monument to the Dead World | DEC 5"
 ---
 

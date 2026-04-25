@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Vancouver Maritime Museum"
 summary: "Vancouver Maritime Museum | Princess Sophia Exhibition | MAR 31"
 ---
 

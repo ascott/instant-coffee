@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 23
 type: "CALL"
+venue: "Found You Magazine"
 summary: "Found You Magazine | Open Call for Submissions | FEB 6"
 ---
 

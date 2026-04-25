@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: will be most satisfying if you tal
 emailDate: "Thu, 13 Nov 2008 09:15:56 -0800"
 number: 12
 type: ""
+venue: "Langara College"
 summary: "Langara College | Speakers Series 2008: Instant Coffee & Marko Simci | NOV 18"
 ---
 

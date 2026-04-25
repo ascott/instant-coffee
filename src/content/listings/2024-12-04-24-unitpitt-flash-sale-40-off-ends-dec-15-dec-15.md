@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 24
 type: "FUNDRAISER"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | FLASH Sale 40% off | ENDS DEC 15 | DEC 15"
 ---
 

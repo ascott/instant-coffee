@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "The Mole Gallery"
 summary: "The Mole Gallery | A Gift of Vision | JUL 19"
 ---
 

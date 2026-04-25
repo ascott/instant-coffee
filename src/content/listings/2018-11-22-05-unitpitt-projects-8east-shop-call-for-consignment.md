@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 5
 type: "CALL"
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | 8EAST Shop Call for Consignment"
 ---
 

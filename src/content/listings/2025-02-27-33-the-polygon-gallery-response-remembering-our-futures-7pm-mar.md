@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 33
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Response: Remembering Our Futures | 7PM | MAR 9"
 ---
 

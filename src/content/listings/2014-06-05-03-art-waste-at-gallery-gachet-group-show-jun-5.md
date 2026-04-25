@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 3
 type: ""
+venue: "Art Waste at Gallery Gachet"
 summary: "Art Waste at Gallery Gachet | Group Show | JUN 5"
 ---
 

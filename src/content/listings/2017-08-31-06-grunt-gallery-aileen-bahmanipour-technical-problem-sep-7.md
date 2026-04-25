@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 6
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Aileen Bahmanipour: Technical Problem | SEP 7"
 ---
 

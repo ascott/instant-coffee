@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 9
 type: ""
+venue: "Black and Yellow"
 summary: "Black and Yellow | Colleen Heslin | JUL 7"
 ---
 
@@ -13,7 +14,7 @@ Colleen Heslin
 Picnic at Bluefish Caves
 
 Opening Thursday July 7, 7pm-10pm
-Room 106 â€“ The Waldorf Hotel
+Room 106 – The Waldorf Hotel
 1489 East Hastings, Vancouver, BC
 
 Curated by Jessica Delorme

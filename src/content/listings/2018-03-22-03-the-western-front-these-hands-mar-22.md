@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 3
 type: "OPENING"
+venue: "The Western Front"
 summary: "The Western Front | These Hands | MAR 22"
 ---
 

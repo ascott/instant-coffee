@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 25
 type: "EDUCATION"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Ultimate Traveller: Impressions of Sudan | 7-9PM | SEP 11"
 ---
 

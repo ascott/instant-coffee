@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 18
 type: ""
+venue: "Access"
 summary: "Access | Far Away So Close: part I | SEP 12"
 ---
 
@@ -30,7 +31,7 @@ that exists between utterance and comprehension, and the always-inadequate
 means we employ in our perpetual drive to define ourselves and to connect
 with others. They explore the disappointments and frustrations of language,
 and playfully investigate the responsibility we so often ask objects to
-bear â€“ objects that are themselves indifferent to our desires â€“ in our
+bear – objects that are themselves indifferent to our desires – in our
 efforts to shuttle meaning across the unpredictable terrain that is social
 life.
 
@@ -43,7 +44,7 @@ Tuesday, September 16, 2014, 7:00 pm
 
 Access is committed to encouraging dialogue linking artists of different
 generations to one another and to the wider community. Part of our ongoing
-In Conversation series, tonightâ€™s informal event will bring the exhibiting
+In Conversation series, tonight’s informal event will bring the exhibiting
 artists of Far Away So Close: Part I into discussion with Access
 Director/Curator Kimberly Phillips. Join us as we explore themes of
 melancholy, magic, distance and longing that are evoked by the works on

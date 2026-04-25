@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 25
 type: ""
+venue: "SFU Woodwards"
 summary: "SFU Woodwards | Performance | Pegah Tabassinejad : Monitoring [ A Dollʼs House] | OCT 19"
 ---
 
@@ -25,7 +26,7 @@ Monitoring [A Dollʼs House] is a performance, interactive and multi-
 channel video installation which explores identity, surveillance, 
 technology, and privacy.
 
-[Pegah]: â€œSince I am from Iran, the difference between the life one 
+[Pegah]: “Since I am from Iran, the difference between the life one 
 leads outside, in public, and the life she leads inside, within interiors 
 (i.e., those places where she can hide herself from the outside world 
 and feel safe) has always been very striking to me. What was 

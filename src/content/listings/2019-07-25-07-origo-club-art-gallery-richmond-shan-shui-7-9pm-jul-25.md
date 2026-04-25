@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 7
 type: "OPENING"
+venue: "Origo Club Art Gallery (Richmond)"
 summary: "Origo Club Art Gallery (Richmond) | Shan Shui | 7-9PM | JUL 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 20
 type: "EXHIBITION"
+venue: "Gallery Jones"
 summary: "Gallery Jones | The Journal: Selected Works - Gary Pearson | MAR 4"
 ---
 

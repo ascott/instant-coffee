@@ -17,7 +17,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-06-25-04-art-gallery-of-greater-victoria-from-the-collection-david-mi">04. EXHIBITION | Art Gallery of Greater Victoria | From the Collection: David Milne | JUN 26</a>
 <a href="/instant-coffee/listings/2015-06-25-05-hr-macmillan-space-centre-waves-flickers-jun-26">05. EVENT | HR MacMillan Space Centre | Waves & Flickers | JUN 26</a>
 <a href="/instant-coffee/listings/2015-06-25-06-the-blank-tank-gallery-because-we-are-human-majid-sheikhakba">06. OPENING | The Blank Tank Gallery | BECAUSE WE ARE HUMAN - Majid Sheikhakbari | JUN 26</a>
-<a href="/instant-coffee/listings/2015-06-25-07-cag-tad-hozumi-music-back-ground-back-ground-jun-27">07. EVENT | CAG | Tad Hozumi â€“ â€˜Music Back Ground & Back Ground... | JUN 27</a>
+<a href="/instant-coffee/listings/2015-06-25-07-cag-tad-hozumi-music-back-ground-back-ground-jun-27">07. EVENT | CAG | Tad Hozumi – ‘Music Back Ground & Back Ground... | JUN 27</a>
 <a href="/instant-coffee/listings/2015-06-25-08-nikkei-national-museum-mingei-talk-opening-with-amaury-saint">08. OPENING | Nikkei National Museum | MINGEI: Talk + Opening with Amaury Saint-Gilles | JUN 27</a>
 <a href="/instant-coffee/listings/2015-06-25-09-vag-residue-the-persistence-curators-tour-jun-27">09. TALK | VAG | Residue: The Persistence... - Curator's Tour | JUN 27</a>
 <a href="/instant-coffee/listings/2015-06-25-10-city-of-vancouver-job-opportunity-social-planner-ii-jun-28">10. CALL | City of Vancouver | Job Opportunity - Social Planner II | JUN 28</a>
@@ -45,7 +45,7 @@ Please join us for the debut of Mondo Pale Grey, a new site-specific video
 and performance by Toronto-based artist Oliver Husain, developed for the
 accumulative exhibition Architecture by Artists. This new work is presented
 alongside Husain's video Parade (2013), and two works by Gerard & Kelly:
-single channel video Park Avenueâ€¦shitâ€¦ (2011) and Clock, a performative
+single channel video Park Avenue…shit… (2011) and Clock, a performative
 score from their series Recto/Verso (2013). These works join the
 reconfigured installation Estrous.Life by Hannah Heilmann.
 
@@ -60,11 +60,11 @@ architecture representing the social and structural fabric of the urban
 environment in some of its pluralities.
 
 Architecture by Artists is curated by interdisciplinary artist
-Matthew-Robin Nye(MontrÃ©al) through the Curatorial Residency program at 221A.
+Matthew-Robin Nye(Montréal) through the Curatorial Residency program at 221A.
 
 Architecture by Artists
 Hannah Heilmann, Oliver Husain, Gerard & Kelly
-June 6â€“July 25, 2015
+June 6–July 25, 2015
 
 Read more: http://221a.ca/architecture-by-artists
 
@@ -112,7 +112,7 @@ talking about his research into adventure playgrounds and other
 architectures of play.
 
 Working across the disciplines of public art, architecture and urban
-planning, Normanâ€™s practice is informed by local politics and ideas of
+planning, Norman’s practice is informed by local politics and ideas of
 alternative economics, ecological systems and play. His projects merge
 utopian alternatives with current urban design to create a humorous
 critique of the discrete histories and functions of public art and urban
@@ -134,20 +134,20 @@ currently developing two small-scale urban farming parks in the Hague, the
 Netherlands, that test and question the limitations and potentialities of
 permaculture as a possible city-wide alternative design strategy for urban
 centres. He is also the lead artist for the city of Cambridge's project to
-redevelop part of Trumpington, an area on the city's southern fringe â€“
+redevelop part of Trumpington, an area on the city's southern fringe –
 developing play elements, street furniture, an allotment and community
 garden and wayfinding. He is the author of four publications: Edible Park,
 Nils Norman. Eds. Taco de Neef, Nils Norman, Peter de Rooden, Astrid
 Vorstermans. Valiz, NL. 2012; Thurrock 2015, a comic commissioned by the
 General Public Agency, London, UK, 2004; An Architecture of Play: A Survey
-of Londonâ€™s Adventure Playgrounds, Four Corners, London, UK, 2004; and The
+of London’s Adventure Playgrounds, Four Corners, London, UK, 2004; and The
 Contemporary Picturesque, Book Works, London, UK, 2000. He is a Professor
 at the the Royal Danish Academy of Art and Design, Copenhagen, Denmark,
 where he leads the School of Walls and Space.
 
 -
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 â€œnot publishingâ€  involves readings, performances, and other articulations.
@@ -169,25 +169,25 @@ Drury Gallery - Curated by Michelle Jacques
 Jun 26, 2015 to Oct 25, 2015
 
 David Milne may have been overshadowed by the Group of Seven early in his
-career, but his work eventually gained world-wide recognitionâ€”acclaimed
+career, but his work eventually gained world-wide recognition—acclaimed
 American art critic Clement Greenberg once wrote Milne was arguably
-Canadaâ€™s greatest painter. Starting this month you can decide if Milne is
+Canada’s greatest painter. Starting this month you can decide if Milne is
 one of your favourite Canadian artists when the Art Gallery of Greater
 Victoria presents From the Collection: David Milne.
 
-â€œWe are extremely fortunate to have seventeen of David Milneâ€™s works in our
+“We are extremely fortunate to have seventeen of David Milne’s works in our
 collection,â€  says Michelle Jacques, chief curator at the Art Gallery of
-Greater Victoria. â€œTo view them as an exhibition is quite moving,
-particularly to see Milneâ€™s varied skill in oil, watercolour and drypoint.
+Greater Victoria. “To view them as an exhibition is quite moving,
+particularly to see Milne’s varied skill in oil, watercolour and drypoint.
 The works that will be on display are the result of fifty-four years of
 collecting Milne and demonstrate his artistic legacy.â€ 
 
 From the Collection: David Milne invites visitors to learn about how the
-AGGV came to have this wonderful collection of the artistâ€™s work. The
+AGGV came to have this wonderful collection of the artist’s work. The
 Ontario-born painter, printmaker and writer (1882-1953) had a distinctive
 style, a stark, modern approach to landscapes, which had a tremendous
 impact on Canadian art. This exhibition explores the people and events that
-contributed to the migration of Milneâ€™s reputation and support to western
+contributed to the migration of Milne’s reputation and support to western
 Canada, and particularly Victoria.
 
 Like the members of the Group of Seven and Emily Carr, Milne focused his
@@ -208,7 +208,7 @@ his life painting in relative seclusion, dividing his time between a cabin
 on the shores of Baptiste Lake, Alberta, and the small town of Uxbridge,
 Ontario, with his wife and son.
 
-AGGVâ€™s David Milne runs June 26 to October 25. For more information or tour
+AGGV’s David Milne runs June 26 to October 25. For more information or tour
 times and dates, visit aggv.ca or call 250-384-4171.
 
 ------------------------------------------------------------------------
@@ -234,8 +234,8 @@ STEVE HUBERT
 
 WAVES & FLICKERS is a one evening live event within the Planetarium
 presenting collaborations between local contemporary artists and musicians.
-The earth is fully tilted towards the sun, itÃ¢â‚¬â„¢s late June in Vancouver and
-there is a wild stirring beneath the PlanetariumÃ¢â‚¬â„¢s dome. The projected sky
+The earth is fully tilted towards the sun, itâ€™s late June in Vancouver and
+there is a wild stirring beneath the Planetariumâ€™s dome. The projected sky
 is blushed with the ghosts of hazy teenage laser shows and childhood
 curiosity as collaborations between local musicians and artists respond to
 and re-activate this long established site of wonder. WAVES & FLICKERS
@@ -288,7 +288,7 @@ Over the past 15 years, Andrew Lee has toured extensively across North
 America and Europe with In Medias Res (File Under: Music) and Siskiyou
 (Constellation Records). He has shared the stage with Kurt Vile, Julianna
 Barwick, Damien Jurado, Frog Eyes, Porcelain Raft and many more and has
-performed at notable festivals such as All TomorrowÃ¢â‚¬â„¢s Parties, Primavera
+performed at notable festivals such as All Tomorrowâ€™s Parties, Primavera
 Sound, and Sled Island. He has also presented special artistic works at the
 Vancouver Art Gallery, The Centre for Performance Research in New York City
 and Kunstradio in Vienna. ​http://www.holyhum.com/
@@ -299,13 +299,13 @@ Institute of Art and Design. He works in performance, media, sculpture and
 drawing. His practice involves experimentation with form and process in
 order to express inherent relationships between material and immaterial
 content. He is a founding member of the Vancouver-based artist collective
-Ã¢â‚¬ËœIntermissionÃ¢â‚¬â„¢ and is presently a member of Ã¢â‚¬ËœInstant CoffeeÃ¢â‚¬â„¢ artist
+â€˜Intermissionâ€™ and is presently a member of â€˜Instant Coffeeâ€™ artist
 collective. His work has been exhibited nationally, and internationally.
 Lee lives and works in Vancouver BC. http://khanlee.com/
 
 THE RED HOT ICICLES BURNING ON FIRE in collaboration with STEVE HUBERT
 
-THE RED HOT ICICLES BURNING ON FIRE is a rock nÃ¢â‚¬â„¢ roll circus from
+THE RED HOT ICICLES BURNING ON FIRE is a rock nâ€™ roll circus from
 Vancouver, BC made up of local musicians Michael McDiarmid, Rick Clark &
 interdisciplinary artist, Elizabeth Milton. Fueled by a shared interest in
 melodrama, glam and disaster, The Icicles are a sonic carnival of complex
@@ -332,7 +332,7 @@ SFU and Emily Carr. http://stevehubert.com/
 
 BECAUSE WE ARE HUMAN
 Majid Sheikhakbari
-Installation and sculptures inspired by Rumiâ€˜s poetry
+Installation and sculptures inspired by Rumi‘s poetry
 
 June 25th to July 7th, 2015
 Opening Reception on Friday, June 26th at 6:30pm
@@ -347,7 +347,7 @@ spiritual needs, so he began self-studying in Art and Architecture.
 Inspired by Mystical Poetry, he eventually shifted from engineering to art
 & architecture. Majid considers his architectural work as an art piece
 while considering functional purpose of office, gallery or residence.
-Majidâ€™s work embodies themes of â€˜Spiritualityâ€™, â€˜Environmentâ€™ and â€˜Lifeâ€™,
+Majid’s work embodies themes of ‘Spirituality’, ‘Environment’ and ‘Life’,
 reflecting his personal interests.
 One of his residential buildings was among the nominees of the AGA KHAN
 AWARD for Architecture in 2013.
@@ -358,9 +358,9 @@ http://blanktank.ca/wp-content/uploads/2015/06/Poster-Rumi-MajidSheikhakbari-Bla
 Details and timings: http://blanktank.ca/rumi/
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-06-25-07-cag-tad-hozumi-music-back-ground-back-ground-jun-27">07. EVENT | CAG | Tad Hozumi â€“ â€˜Music Back Ground & Back Ground... | JUN 27</a>
+<a href="/instant-coffee/listings/2015-06-25-07-cag-tad-hozumi-music-back-ground-back-ground-jun-27">07. EVENT | CAG | Tad Hozumi – ‘Music Back Ground & Back Ground... | JUN 27</a>
 ------------------------------------------------------------------------
-TAD HOZUMI â€“ â€˜Music Back Ground & Back Ground Musicâ€™
+TAD HOZUMI – ‘Music Back Ground & Back Ground Music’
 
 Artist talk, DJ Session and Summer Party at the CAG
 Saturday, June 27th, from 4pm
@@ -375,15 +375,15 @@ and more, weaving around the albums that were selected for the feedback
 series in response to the work of Julia Dault and her CAG exhibition 'Blame
 It On the Rain', which continues until June 28.
 
-This is the last in Tad Hozumiâ€™s feedback series events that reflect his
+This is the last in Tad Hozumi’s feedback series events that reflect his
 experiences as an artist, deejay and movement based therapist where he
-responded to Julia Daultâ€™s paintings in her exhibition 'Blame It On the
+responded to Julia Dault’s paintings in her exhibition 'Blame It On the
 Rain' by playfully referencing elements found in her work.
 
 Hozumi has resourced his record collection in search for albums such as
-'Sweet Honey In the Rock', Self-Titled; Brian Augerâ€™s 'Oblivion Express
-Live Oblivion'; Donny Hathawayâ€™s 'Extensions of a Man' and Gino Soccio
-'Outline'. For Hozumi these records resonate with Daultâ€™s work and inform
+'Sweet Honey In the Rock', Self-Titled; Brian Auger’s 'Oblivion Express
+Live Oblivion'; Donny Hathaway’s 'Extensions of a Man' and Gino Soccio
+'Outline'. For Hozumi these records resonate with Dault’s work and inform
 the two movement based participatory events. The first class will be led by
 disco dancer and yoga teacher, Gary Quon. The second movement class will be
 based on expressive movements led by Hozumi. He will also host an artist
@@ -568,7 +568,7 @@ consistently uncompromising. Recently he finished his first feature film
 â€œCrusadeâ€  about a group of young hipsters who start a holy war. The next
 two parts in the trilogy are in preproduction.
 
-Ingrid Olauson is a writer and trawler of peopleâ€™s lives. She recently
+Ingrid Olauson is a writer and trawler of people’s lives. She recently
 wrote, produced and acted in the play and collaborative art piece Fort Eff,
 which debuted at Deep Blue this past May.
 
@@ -613,9 +613,9 @@ idyllic unspoiled wilderness.
 
 Finally, Doerksen will exhibit an ongoing large-scale drawing based on this
 found image, painstakingly inscribing the source material. The recombinant
-nature of photographic reproductionâ€”where the vernacular functions not as a
+nature of photographic reproduction—where the vernacular functions not as a
 real language but rather as an abstract set of norms formalized within the
-frameâ€”alongside fossil forms and drawing-as-industry allows the artist to
+frame—alongside fossil forms and drawing-as-industry allows the artist to
 deeply consider the measure and substance of history located in
 contemporary forms of idiomatic representation. The suggestion, as a
 science fiction plot, is that the coupled pleuroceras is mysteriously
@@ -630,7 +630,7 @@ Concordia University in Montreal. His work has evolved as an continuing
 sculptural treatment of the facts of objects in space and the fictions that
 pervade them. He has exhibited nationally and internationally, both
 independently and as a member of the video/performance based art collective
-The Discriminating Gentlemenâ€™s Club. Doerkson was the lead guitarist for
+The Discriminating Gentlemen’s Club. Doerkson was the lead guitarist for
 Sunset Rubdown which released four LPs, two EPs and toured internationally
 before disbanding in 2009. Represented by Galerie Lilian Rodriguez in
 Montreal, Doerksen currently lives in Banff, Alberta where he works at The
@@ -662,7 +662,7 @@ maybe even getting into other programs. And you will have an intimate
 conversation with a working artist in how to maintain a practice, be
 disciplined with your methodology, and be part of an artistic community.
 
-Jade Yumang was named after his motherâ€™s beauty salon and from an earlier
+Jade Yumang was named after his mother’s beauty salon and from an earlier
 age has been obsessed with beautiful, yet slightly off things. His work
 primarily focuses on the concept of queer form through sculptural
 abstraction, installation, and performance. He received his MFA at Parsons
@@ -723,7 +723,7 @@ Western Front
 The Rag Papers
 Exhibition by Corin Sworn
 Opening Reception: July 7 @ 7:00pm
-Exhibition Dates: July 2 â€“ August 2, 2015
+Exhibition Dates: July 2 – August 2, 2015
 
 Western Front Media Arts presents a solo exhibition of The Rag Papers, by
 the Canadian, Glasgow-based artist Corin Sworn. This month-long
@@ -770,21 +770,21 @@ V5T 1S1
 ------------------------------------------------------------------------
 Ute Aurand: Eye Movement Stillness
 
-Ute Aurandâ€™s diary films, film portraits, and travelogues belong to the
+Ute Aurand’s diary films, film portraits, and travelogues belong to the
 lineage of Jonas Mekas, Marie Menken and Margaret Tait. A key figure in
-Berlinâ€™s film scene since the 1980s, Aurand records lifeâ€™s small,
+Berlin’s film scene since the 1980s, Aurand records life’s small,
 ephemeral details on a handheld Bolex camera, later reworking them in a
-style that is at once energetic, rhythmic, playful and â€” unusually for
-experimental cinema â€” tender. She has described her approach as â€œa brief
+style that is at once energetic, rhythmic, playful and — unusually for
+experimental cinema — tender. She has described her approach as “a brief
 touchâ€  â€” â€œlike a swing, to go away and come back and go away and come back
 again.â€  Her films explore the lives of friends and strangers, the
-atmosphere of local and foreign places, and â€œthe absolutely singular,
+atmosphere of local and foreign places, and “the absolutely singular,
 exquisite textures of daily life around herâ€  (Michael Sicinski).
 
 PROGRAM
 
 A Walk/Im Park/Zuoz | Germany, 2008. 4.5 min, 6 min, 7.5 min. 16mm. Silent.
-KopfÃ¼ber im GeÃ¤st (Hanging Upside Down in the Branches) | Germany, 2009.
+Kopfüber im Geäst (Hanging Upside Down in the Branches) | Germany, 2009.
 15 min. 16mm. Silent.
 To Be Here | Germany, 2013. 38 min. 16mm. Sound.
 Zu Hause (At Home) | Germany, 1998. 2.5 min. 16mm. Silent.
@@ -796,7 +796,7 @@ at the Arsenal cinema, which featured films, mostly experimental, made by
 women; she also co-founded "FilmSamstag" (Film Saturday), a monthly film
 programme at Kino Filmkunsthaus Babylon Mitte that ran until 2007. In
 1991, she co-authored, with filmmaker Maria Lang, of "Frauen machen
-Geschichte â€“ 25 Jahre Studentinnen an der dffbâ€œ (Women make History-25
+Geschichte – 25 Jahre Studentinnen an der dffb“ (Women make History-25
 Years of Women Students at the dffb). Her films, which have toured
 internationally, were the subject of a recent retrospective at Tate
 Modern.
@@ -831,7 +831,7 @@ thematic Call For Submissions VAPORWAVE .
 VAPORWAVE is an internet art and video aesthetic characterized by its
 trippy and ironic combination of visual references that range from the
 iconography of classical antiquity (white marble, plaster busts),
-simplistic digital renderings of the 1990â€™s and early 2000â€™s, and the lo-fi
+simplistic digital renderings of the 1990’s and early 2000’s, and the lo-fi
 aesthetics of CD-ROM imagery, especially clip art or early animation. It
 originated in underground online art forums and is related to the movement
 coined "The New Aesthetic" which considers works that often satirically
@@ -848,9 +848,9 @@ Access Gallery: Notice of Annual General Meeting 2015
 
 Access Gallery members in good standing are invited to attend the 2015
 Annual General Meeting on Thursday, July 9, 2015 at 7:00pm to be held at
-Access, 222 East Georgia St. Please join us to review the past yearâ€™s
+Access, 222 East Georgia St. Please join us to review the past year’s
 programming, operations, accomplishments and challenges, and to discuss
-Accessâ€™s exciting direction for the upcoming year. Members may request the
+Access’s exciting direction for the upcoming year. Members may request the
 minutes of the 2014 AGM in advance or to receive the minutes of the 2015
 meeting if they cannot attend.
 
@@ -869,7 +869,7 @@ Please note that tax receipts will be issued for donations over $20.
 ------------------------------------------------------------------------
 grunt gallery: Annual Call for Submissions
 
-grunt galleryâ€™s programming is an exciting mix of exhibitions,
+grunt gallery’s programming is an exciting mix of exhibitions,
 installations, screenings, performances and projects, which are often
 accompanied by print or web publications. Our programming ranges between
 visual and media art practices.
@@ -877,7 +877,7 @@ visual and media art practices.
 We produce 5 to 6 exhibitions annually. These exhibitions are determined by
 a curatorial committee made up of approximately 9 people, consisting of
 curators, programming staff, board members and artists. They meet for 5
-days in August to review and select exhibitions for the 2016 â€“ 2017
+days in August to review and select exhibitions for the 2016 – 2017
 programming cycle.
 
 We invite you to submit your exhibition proposal to grunt gallery. If you
@@ -890,7 +890,7 @@ http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2c6f
 
 grunt gallery
 grunt.ca | 604-875-9516
-116 â€“ 350 East 2nd Ave, Vancouver, BC, V5T 4R8
+116 – 350 East 2nd Ave, Vancouver, BC, V5T 4R8
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-06-25-21-the-banff-centre-banff-artist-in-residence-bair-sep-2">21. CALL | The Banff Centre | Banff Artist in Residence (BAiR) | SEP 2</a>
@@ -904,7 +904,7 @@ sculpture, printmaking, papermaking, ceramics, fibre, video, digital
 technology, and more.
 
 BAiR New Materiality
-Program Dates: January 11 â€“ February 12, 2016
+Program Dates: January 11 – February 12, 2016
 Apply by September 2
 Banff Artist in Residence (BAiR) New Materiality is a contemporary art
 residency that challenges participants to engage with materials in
@@ -918,7 +918,7 @@ hand to provide consultation and curatorial insights through studio visits.
 http://www.banffcentre.ca/programs/program.aspx?id=1601
 
 BAiR Late Winter Intensive
-Program Dates February 29 â€“ March 25, 2016
+Program Dates February 29 – March 25, 2016
 Apply by September 30
 http://www.banffcentre.ca/programs/program.aspx?id=1596
 
@@ -938,7 +938,7 @@ www.banffcentre.ca/va
 
 Indigenous Residency
 Guest Faculty: Candice Hopkins, others to be announced
-Program Dates: January 11 â€“ February 12, 2016
+Program Dates: January 11 – February 12, 2016
 Apply by September 2
 http://www.banffcentre.ca/programs/program.aspx?id=1602
 
@@ -957,7 +957,7 @@ Email: helloartstudio@hotmail.com
 
 - Located near Main and Broadway (the building at the corner on Broadway
 and Kingsway)
-- It is on 2nd floor, just above the Gene cafÃ© and Art Rath art supply shop
+- It is on 2nd floor, just above the Gene café and Art Rath art supply shop
 - Wood floor and nice big window overlooking Main st.
 - Approximately 10'x 6'
 - $ 200 (utility $10)
@@ -966,7 +966,7 @@ and Kingsway)
 
 2.
 
-The Gam is taking the summer off and weâ€™re looking to rent out the gallery
+The Gam is taking the summer off and we’re looking to rent out the gallery
 for the months of July and August. If you are interested in a studio space,
 hosting an art exhibition, having a project space or a retail pop-up shop
 please contact us at thegam@live.com.
@@ -978,7 +978,7 @@ community to help you promote your events.
 
 The Space
 Size: 435 SQFT
-Capacity: 40 â€“ 50 People
+Capacity: 40 – 50 People
 Bathrooms: 1
 
 Amenities

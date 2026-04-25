@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 10
 type: "EXHIBITION"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Staying Curious | JAN 11"
 ---
 

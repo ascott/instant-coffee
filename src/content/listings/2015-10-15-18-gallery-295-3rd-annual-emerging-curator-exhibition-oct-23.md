@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 18
 type: "CALL"
+venue: "Gallery 295"
 summary: "Gallery 295 | 3rd Annual Emerging Curator Exhibition | OCT 23"
 ---
 

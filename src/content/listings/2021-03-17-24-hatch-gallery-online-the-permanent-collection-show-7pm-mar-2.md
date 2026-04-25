@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 24
 type: "EVENT"
+venue: "Hatch Gallery [ONLINE]"
 summary: "Hatch Gallery [ONLINE] | The Permanent Collection Show? | 7PM | MAR 24"
 ---
 

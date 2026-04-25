@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 14
 type: "CALL"
+venue: "Gallery 295"
 summary: "Gallery 295 | 3rd Annual Emerging Curator Exhibition | NOV 14"
 ---
 

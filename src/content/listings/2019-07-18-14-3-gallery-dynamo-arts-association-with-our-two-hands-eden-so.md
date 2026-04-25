@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 14
 type: "PERFORMANCE"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Dynamo Arts Association | with our two hands | Eden Solomon | 7PM | JUL 20"
 ---
 

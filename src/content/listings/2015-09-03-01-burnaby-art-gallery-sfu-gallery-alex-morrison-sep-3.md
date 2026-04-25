@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 1
 type: "OPENING"
+venue: "Burnaby Art Gallery & SFU Gallery"
 summary: "Burnaby Art Gallery & SFU Gallery | Alex Morrison | SEP 3"
 ---
 

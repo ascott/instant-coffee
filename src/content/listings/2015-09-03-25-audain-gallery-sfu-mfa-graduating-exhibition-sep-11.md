@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 25
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | SFU MFA Graduating Exhibition | SEP 11"
 ---
 
 SFU MFA Graduating Exhibition
 Audain Gallery, Vancouver
-September 11 â€“ September 26, 2015
+September 11 – September 26, 2015
 
 Opening Reception
 Friday, September 11, 7PM
@@ -24,7 +25,7 @@ Jaime Williams and collaborators
 Let it be as it is
 
 This exhibition features three graduating projects by 2015 MFA
-candidates at Simon Fraser Universityâ€™s School for the Contemporary
+candidates at Simon Fraser University’s School for the Contemporary
 Arts. Instead of presenting their works under a unifying title and theme,
 the three artists are exhibiting their respective projects within the
 shared space of the gallery, autonomously.
@@ -38,7 +39,7 @@ Williams' multimedia installation explores the potential for improvised
 movement to understand the specific vibrational energies of place.
 
 The exhibition of a graduating project represents the culmination of a
-candidateâ€™s studies, and is presented in partial fulfillment of the
+candidate’s studies, and is presented in partial fulfillment of the
 requirements for the degree of Master of Fine Arts.
 
 Presented by the School for the Contemporary Arts at SFU.

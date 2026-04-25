@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 4
 type: "OPENING"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | “Learning in a fantastically public medium” | 6PM | MAR 13"
 ---
 

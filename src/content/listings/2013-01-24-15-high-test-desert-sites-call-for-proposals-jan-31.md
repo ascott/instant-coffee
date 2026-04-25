@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 15
 type: ""
+venue: "High Test Desert Sites"
 summary: "High Test Desert Sites | CALL FOR PROPOSALS | JAN 31"
 ---
 
@@ -26,13 +27,13 @@ PROPOSAL GUIDELINES
 
 All project proposals should include:
 
-â€¢ Description of project: What do you want to do?
-â€¢ Description of site: Where do you plan to do it? Do you have access or 
+• Description of project: What do you want to do?
+• Description of site: Where do you plan to do it? Do you have access or 
 permission to use this site?
-â€¢ Duration of project: How long will your installation or performance be on view
-â€”do you envision a one-time performance for the HDTS 2013 event, or a long-
+• Duration of project: How long will your installation or performance be on view
+—do you envision a one-time performance for the HDTS 2013 event, or a long-
 term installation?
-â€¢ Any images or supporting material
+• Any images or supporting material
 
 Please save all submissions in PDF file format, with the file labeled as 
 followed: firstname_lastname_hdts2013.pdf (for example 
@@ -66,7 +67,7 @@ imaginary lines is fair game! (You can always send us a note if you are
 unsure.) 
 
 When will the HDTS 2013 event take place?
-HDTS 2013 will take place October 12 â€“ 19, 2013.
+HDTS 2013 will take place October 12 – 19, 2013.
 
 Will HDTS provide an artist stipend or budget for projects that have been 
 selected for inclusion in HDTS 2013?

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 32
 type: ""
+venue: "JOB"
 summary: "JOB | SFU Galleries | Casual Preparator | MAR 15"
 ---
 

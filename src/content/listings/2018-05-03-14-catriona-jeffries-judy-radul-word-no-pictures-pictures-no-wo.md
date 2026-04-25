@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 14
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Judy Radul | Word No Pictures Pictures No Words | MAY 10"
 ---
 

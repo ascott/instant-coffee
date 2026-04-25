@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NAKED STATE"
 emailDate: "Thu, 20 Dec 2018 15:00:17 -0800"
 number: 5
 type: "CALL"
+venue: "NAKED STATE"
 summary: "NAKED STATE | JAN 15"
 ---
 

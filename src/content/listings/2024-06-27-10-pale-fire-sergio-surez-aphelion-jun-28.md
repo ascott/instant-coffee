@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 10
 type: "OPENING"
+venue: "Pale Fire"
 summary: "Pale Fire | Sergio Suárez: Aphelion | JUN 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 3
 type: ""
+venue: "PechaKucha Night Surrey Vol. 1 Public Art"
 summary: "PechaKucha Night Surrey Vol. 1 Public Art | | OCT 16"
 ---
 

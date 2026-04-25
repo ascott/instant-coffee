@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 26
 type: "CALL"
+venue: "STORYHIVE"
 summary: "STORYHIVE | $10k grants for short films | SEP 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 9
 type: "OPENING"
+venue: "Spruce Gallery"
 summary: "Spruce Gallery | 2025 KPU BFA Graduation Exhibition | 6PM | APR 11"
 ---
 

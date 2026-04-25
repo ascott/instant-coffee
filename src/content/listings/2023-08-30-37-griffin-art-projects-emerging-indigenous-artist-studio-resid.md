@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 37
 type: "CALL"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Emerging Indigenous Artist Studio Residency & Ment | OCT 13"
 ---
 

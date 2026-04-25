@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 14
 type: "OPENING"
+venue: "Robinson Studio Gallery"
 summary: "Robinson Studio Gallery | Moving Matter | NOV 4"
 ---
 

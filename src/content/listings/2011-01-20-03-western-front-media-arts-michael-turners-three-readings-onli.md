@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 3
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | Michael Turner's Three Readings | online | JAN 20"
 ---
 
@@ -14,7 +15,7 @@ Bowering) now available for download at www.front.bc.ca
 * bpNichol and Steve McCaffery performing Aupe Relationship at Western
 Front , November 21st, 1977.
 
-Western Front Media Arts is pleased to present Michael Turnerâ€™s text Three
+Western Front Media Arts is pleased to present Michael Turner’s text Three
 Readings: Camera, Tape and Sound (Kathy Acker, Steve McCaffery/bpNicol, and
 Kevin Davies, as introduced by George Bowering) for free PDF download. As
 part of Past is Prologue, Western Front Media Arts new archival research
@@ -35,7 +36,7 @@ The file is available for download to the right side of the page.
 For more information please contact Sarah Todd at sarahtodd@front.bc.ca
 Michael Turner is an award-winning writer of fiction, criticism and song.
 His books include Hard Core Logo (Arsenal Pulp, Vancouver, 1993), The
-Pornographerâ€™s Poem (Doubleday, Toronto, 1999) and 8Ã—10(Doubleday, Toronto,
+Pornographer’s Poem (Doubleday, Toronto, 1999) and 8×10(Doubleday, Toronto,
 2009), and his criticism has appeared in the magazines Art Papers, Art On
 Paper, and Modern Painters. He has written catalogue essays on Julia Feyrer
 (Artspeak Gallery, 2010), Tim Lee (Presentation House Gallery, Vancouver,

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 2
 type: "PERFORMANCE"
+venue: "PuSh Festival @ Scotiabank Dance Centre"
 summary: "PuSh Festival @ Scotiabank Dance Centre | Relative Collider | FEB 4"
 ---
 

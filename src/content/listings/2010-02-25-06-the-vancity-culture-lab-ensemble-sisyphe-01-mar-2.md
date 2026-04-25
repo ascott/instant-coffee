@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 6
 type: ""
+venue: "The Vancity Culture Lab"
 summary: "The Vancity Culture Lab | ENSEMBLE SISYPHE : 01 | MAR 2"
 ---
 
 ENSEMBLE SISYPHE : 01
 
-Conversations - HermÃ©nÃ©gilde Chiasson
+Conversations - Herménégilde Chiasson
 
-Andrea Young Â· voice
+Andrea Young · voice
 
-Robin Streb Â· viola
+Robin Streb · viola
 
-Chris Bagan Â· piano
+Chris Bagan · piano
 
-Works by Antoine Beuger Â· Andrea Young Â· AndrÃ© Cormier
+Works by Antoine Beuger · Andrea Young · André Cormier
 
-The Vancity Culture Lab Â· 1895 Venables Street, Vancouver
+The Vancity Culture Lab · 1895 Venables Street, Vancouver
 March 2 / 2010. 8.00 pm $10-$20

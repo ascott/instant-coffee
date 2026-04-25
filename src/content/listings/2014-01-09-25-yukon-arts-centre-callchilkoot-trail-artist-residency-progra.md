@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 25
 type: ""
+venue: "Yukon Arts Centre"
 summary: "Yukon Arts Centre | Call:Chilkoot Trail Artist Residency Program | FEB 1"
 ---
 
@@ -12,8 +13,8 @@ Call for Artists: 2014 Chilkoot Trail Artist Residency Program
 The deadline is fast approaching: February 1st, 2014; apply now!
 
 Together Yukon Arts Centre, Parks Canada and the US National Park 
-Service are seeking three visual artists â€“ one from Canada, one from 
-the United States and one regional (Yukon or Alaska) â€“ to participate in 
+Service are seeking three visual artists – one from Canada, one from 
+the United States and one regional (Yukon or Alaska) – to participate in 
 a cross-border creative journey. The Chilkoot Trail Artist Residency 
 Program invites artists to hike the famous Chilkoot Trail, passing 
 through Klondike Gold Rush National Historic Park (Alaska) and 
@@ -28,7 +29,7 @@ and early August) hiking the historic trail once traversed by Tlingit First
 Nation traders and Klondike Gold Rush Stampeders, spending one to 
 three days at each campsite
 selected artists are expected to interact with hikers, make art and 
-engage with siteâ€™s natural and historic heritage
+engage with site’s natural and historic heritage
 each artist must provide and carry all of their backpacking gear, food 
 and art supplies for the journey; artists should be accompanied by a 
 friend or family member as support during their trek

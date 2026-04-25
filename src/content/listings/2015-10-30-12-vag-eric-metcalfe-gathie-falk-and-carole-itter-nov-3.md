@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 12
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Eric Metcalfe, Gathie Falk and Carole Itter | NOV 3"
 ---
 

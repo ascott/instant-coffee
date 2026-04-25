@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 8
 type: ""
+venue: "RENT ASSEMBLY"
 summary: "RENT ASSEMBLY | call for proposals | MAR 31"
 ---
 
@@ -11,10 +12,10 @@ RENT ASSEMBLY - CALL FOR PROPOSALS
 a gathering of renters in a time of siege
 Deadline for Proposals: March 31, 2013
 Rent Assembly: May 24, 25, 26, 2013
-Vancouver, BC â€“ Unceded Coast Salish territory
+Vancouver, BC – Unceded Coast Salish territory
 
-â€˜The rentiers reap what they do not sow.â€™
-â€“Adam Smith, Wealth of Nations (1776)
+‘The rentiers reap what they do not sow.’
+–Adam Smith, Wealth of Nations (1776)
 
 In the struggle for housing in Vancouver, we tend to highlight issues
 such as social housing, SROs, gentrification, and affordability. But
@@ -29,7 +30,7 @@ are to stop paying for the catastrophic damage to our own daily lives,
 rent must be made visible.
 
 The Rent Assembly will be a gathering for those who are not among
-Vancouverâ€™s â€˜playersâ€™ in the housing market. Many of us will never own
+Vancouver’s ‘players’ in the housing market. Many of us will never own
 property. We will always have to worry about our homes being sold out
 from under us, about being renovicted, evicted or rents inflating
 beyond liveability. Workers will continue to spend more of their
@@ -41,14 +42,14 @@ determined by the prejudices of property managers and landlords who,
 unlike most, can afford to say â€œno.â€ 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate
-form of accumulation, the seemingly passÃ© 19th Century question of
-land ownership and rent extraction has returned in force. In todayâ€™s
+form of accumulation, the seemingly passé 19th Century question of
+land ownership and rent extraction has returned in force. In today’s
 Vancouver, social movements are attacking the basic landed relations
 of the city, including the upsurge of Indigenous resistance to
-colonial land policies through the emergence of â€˜Defenders of the
-Landâ€™, and the more recent Idle No More; marginal squatters movements;
+colonial land policies through the emergence of ‘Defenders of the
+Land’, and the more recent Idle No More; marginal squatters movements;
 critiques of the modern nation-state from migrant justice movements;
-and the recent formation of the Vancouver Renterâ€™s Union.
+and the recent formation of the Vancouver Renter’s Union.
 
 We must understand the relationships between renters, the history of
 rent, and cultivate new ties between disparate groups of renters. To
@@ -97,7 +98,7 @@ gentrification?
 ● Urban Renewal and Social Mixing: A study of euphemisms around
 gentrification, urban displacement and accumulation by dispossession
 ● A Renterâ€™s Life in a Landlordâ€™s World: A critical comparison of
-rental laws, and tenantsâ€™ rights in North America, Europe and Asia
+rental laws, and tenants’ rights in North America, Europe and Asia
 
 This call for proposals is also a call for spaces. We are looking to
 coordinate with organizations capable of opening up their spaces. This
@@ -117,6 +118,6 @@ or by post to
 237 Keefer Street, Unit 245, Vancouver BC V6A 1X6 Canada
 
 Main sponsors: The Kootenay School of Writing, The Mainlander and the
-Vancouver Renterâ€™s Union.
+Vancouver Renter’s Union.
 
 www.rentassembly.org

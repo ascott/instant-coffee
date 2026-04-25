@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 11
 type: ""
+venue: "Western Front Publications"
 summary: "Western Front Publications | the Artists' Tools Show and Tell | DEC 5"
 ---
 

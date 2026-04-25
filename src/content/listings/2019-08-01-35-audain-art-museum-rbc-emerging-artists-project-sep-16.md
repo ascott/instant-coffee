@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 35
 type: "CALL"
+venue: "Audain Art Museum"
 summary: "Audain Art Museum | RBC Emerging Artists Project | SEP 16"
 ---
 

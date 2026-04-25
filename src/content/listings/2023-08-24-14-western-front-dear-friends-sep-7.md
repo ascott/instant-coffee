@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 14
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Dear Friends & | SEP 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 10
 type: ""
+venue: "AMS Art Gallery"
 summary: "AMS Art Gallery | AN HONEST DAY'S WORK | DEC 5"
 ---
 

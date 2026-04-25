@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 21
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA @ UNIT/PITT | Curated by Kasper Feyrer & Kara Hansen | 9PM | JUL 28"
 ---
 

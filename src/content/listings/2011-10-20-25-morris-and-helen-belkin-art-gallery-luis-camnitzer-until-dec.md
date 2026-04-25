@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 25
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | LUIS CAMNITZER | until dec 4 | DEC 4"
 ---
 
@@ -16,7 +17,7 @@ www.belkin.ubc.ca
 Until recently, Luis Camnitzer has been an insider's tip in the field of conceptual 
 art. This solo exhibition features some seventy works created since 1966, 
 offering visitors a close look at the Uruguayan artist who may be considered one 
-of the art worldâ€™s key figures in the second half of the 20th century.
+of the art world’s key figures in the second half of the 20th century.
 
 Born in 1937 in Lubeck, Germany, Camnitzer emigrated with his Jewish parents 
 to Montevideo, Uruguay in 1939. He moved to New York at 27, where he 
@@ -62,7 +63,7 @@ Please and thank you.
 
 2.
 Studio Available | 
-The Gam is a studio, gallery and boutique located in Vancouverâ€™s Downtown 
+The Gam is a studio, gallery and boutique located in Vancouver’s Downtown 
 Eastside and fronts an artist-only building at 110 E Hastings St (ACME Studios). 
 We are looking to expand our studio operations after recently renovating and 
 currently have two openings for shared studio space. As a Gam studio mate 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 22
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Concurrent | APR 3"
 ---
 
@@ -19,7 +20,7 @@ Winsor Gallery is pleased to present Concurrent, a group exhibition.
 The premise behind Concurrent is straightforward: twenty of our 
 represented artists to each invite one artist to exhibit alongside them. 
 The result is a micro-simulation that explores the intricacy of 
-relationships between artists and their artwork â€“ and allows each 
+relationships between artists and their artwork – and allows each 
 artist to contextualize their own work in a very direct sense.
 
 Participating artists include Fiona Ackerman + Ron Moppett, Alex 
@@ -39,6 +40,6 @@ Vancouver, BC V5T 1A6
 www.winsorgallery.com
 info@winsorgallery.com
 
-Open Tues â€“ Fri, 10-6pm
+Open Tues – Fri, 10-6pm
 Saturdays 10-5pm
 or by appointment

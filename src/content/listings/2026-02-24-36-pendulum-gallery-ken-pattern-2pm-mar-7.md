@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 36
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Ken Pattern | 2PM | MAR 7"
 ---
 

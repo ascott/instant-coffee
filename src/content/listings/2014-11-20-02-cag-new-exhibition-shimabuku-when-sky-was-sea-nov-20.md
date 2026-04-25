@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 2
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | NEW EXHIBITION: Shimabuku, When Sky Was Sea | NOV 20"
 ---
 

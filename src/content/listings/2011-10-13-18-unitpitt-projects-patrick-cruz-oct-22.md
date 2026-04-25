@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 18
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Patrick Cruz | OCT 22"
 ---
 

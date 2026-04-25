@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 31
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | While We Wait | AUG 30"
 ---
 

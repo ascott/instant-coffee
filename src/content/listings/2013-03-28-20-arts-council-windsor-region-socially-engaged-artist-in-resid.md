@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 20
 type: ""
+venue: "Arts Council Windsor & Region"
 summary: "Arts Council Windsor & Region | Socially-Engaged Artist in Residence | MAY 6"
 ---
 
@@ -73,7 +74,7 @@ Art Auction taking place on Saturday, April 27th, 2013. Volunteers always
 play a key role in helping our staff and board of directors host a fun and 
 memorable evening for our guests. We are looking for people to take on a 
 variety of roles, such as servers, raffle ticket sellers, and art runners. 
-Experience with auction and gala events is not required â€“ everyone is 
+Experience with auction and gala events is not required – everyone is 
 welcome to apply!
 There will be an orientation that volunteers are expected to attend at a later 
 date (to be confirmed).

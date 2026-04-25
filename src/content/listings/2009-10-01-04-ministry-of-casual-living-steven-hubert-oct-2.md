@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we like those knobbly claws"
 emailDate: "Thu, 01 Oct 2009 09:21:52 -0700"
 number: 4
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Steven Hubert | OCT 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 9
 type: "EVENT"
+venue: "221A Pollyanna Library"
 summary: "221A Pollyanna Library | Blockchains & Cultural Padlocks | JUN 21"
 ---
 

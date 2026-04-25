@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 20
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | Branscombe House 2021 Artist Residency | JUL 27"
 ---
 

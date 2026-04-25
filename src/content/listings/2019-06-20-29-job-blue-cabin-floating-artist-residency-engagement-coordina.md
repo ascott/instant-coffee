@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 29
 type: ""
+venue: "JOB"
 summary: "JOB | Blue Cabin Floating Artist Residency | Engagement Coordinator | JUN 27"
 ---
 

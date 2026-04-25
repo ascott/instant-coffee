@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 4
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Victor John Penner | OCT 11"
 ---
 

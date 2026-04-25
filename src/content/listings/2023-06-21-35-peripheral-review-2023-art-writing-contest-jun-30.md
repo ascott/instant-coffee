@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 35
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | 2023 Art Writing Contest | JUN 30"
 ---
 

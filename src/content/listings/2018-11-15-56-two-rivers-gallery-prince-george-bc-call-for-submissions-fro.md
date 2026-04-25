@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 56
 type: "CALL"
+venue: "Two Rivers Gallery (PRINCE GEORGE, BC)"
 summary: "Two Rivers Gallery (PRINCE GEORGE, BC) | Call For Submissions from Indigenous Artists | NOV 24"
 ---
 

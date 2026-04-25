@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 3
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Dilara Akay and Derya Akay - Ghost Spring | JAN 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 9
 type: ""
+venue: "Centre A"
 summary: "Centre A | YOUNG-HAE CHNAG HEAVY INDUSTRIES | SEP 16"
 ---
 
@@ -15,17 +16,17 @@ THERE ARE NO PROBLEMS IN ART
 International Artist in Residence Program and exhibitions
 
 Exhibitions
-September 13 â€“ October 21, 2011 at Centre A
-September 13 â€“ November 5, 2011 at the Audain Gallery
+September 13 – October 21, 2011 at Centre A
+September 13 – November 5, 2011 at the Audain Gallery
 
 Artist Talk September 16, 6 â€“ 8 pm at the Audain Gallery 
 
 Opening Reception Friday, September 16  7 â€“ 9 pm at the Audain Gallery & 8
-â€“ 10 pm at Centre A
+– 10 pm at Centre A
 
-Public Salon HI, WEâ€™RE YOUNG-HAE AND MARC, AND WE WERE IN TOWN FOR A FEW
+Public Salon HI, WE’RE YOUNG-HAE AND MARC, AND WE WERE IN TOWN FOR A FEW
 DAYS DOING SOMETHING OR OTHER, IF YOU ARE INTERESTED
-October 5, 6 â€“ 8 pm at Centre A
+October 5, 6 – 8 pm at Centre A
 
 Co-Curators Sabine Bitter and Makiko Hara
 
@@ -43,7 +44,7 @@ the complexities of the relationships between art, artists, curator,
 institutions, communities in this specific area so called Down Town East
 Side (DTES) where both Centre A and the Audain Gallery are located. A
 series of artist talks and salon will be scheduled in September 2011 in
-conjunction with Centre A during the artistsâ€™ stay in Vancouver.
+conjunction with Centre A during the artists’ stay in Vancouver.
 
 YOUNG-HAE CHANG HEAVY INDUSTRIES is yhchang.com. Its principals, Young-hae
 Chang (Korea) and Marc Voge (U.S.A.), are based in Seoul. YHCHI has made

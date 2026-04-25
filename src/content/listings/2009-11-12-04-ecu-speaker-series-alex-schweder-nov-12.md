@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 4
 type: ""
+venue: "ECU: Speaker Series"
 summary: "ECU: Speaker Series | Alex Schweder | NOV 12"
 ---
 

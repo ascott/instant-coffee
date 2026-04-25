@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 9
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Burrard Marina Field House | Broken City Lab | MAR 25"
 ---
 

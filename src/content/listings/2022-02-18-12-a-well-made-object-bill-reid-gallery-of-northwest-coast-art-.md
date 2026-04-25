@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 12
 type: "EXHIBITION"
+venue: "A Well-Made Object"
 summary: "A Well-Made Object | Bill Reid Gallery of Northwest Coast Art | FEB 9"
 ---
 

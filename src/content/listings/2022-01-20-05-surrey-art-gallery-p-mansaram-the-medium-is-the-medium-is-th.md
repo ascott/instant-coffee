@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | P. Mansaram: The Medium is the Medium is the Mediu | JAN 18"
 ---
 

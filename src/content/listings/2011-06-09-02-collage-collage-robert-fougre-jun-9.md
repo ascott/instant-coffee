@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 2
 type: ""
-summary: "COLLAGE COLLAGE | Robert FougÃ¨re | JUN 9"
+venue: "COLLAGE COLLAGE"
+summary: "COLLAGE COLLAGE | Robert Fougère | JUN 9"
 ---
 
 Parading without a permit:
 Found and original photos
-by Robert FougÃ¨re
+by Robert Fougère
 
 Opening reception: Thursday June 9th, 7pm to 9pm
 
-In his first solo exhibition, Robert FougÃ¨re explores the photograph as
+In his first solo exhibition, Robert Fougère explores the photograph as
 both cultural artifact and aesthetic object with traditional silver-gelatin
 prints from found (purchased) negatives dating back to the 1920's, shown
 alongside prints of his own original compositions.

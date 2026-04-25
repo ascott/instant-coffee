@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Something good that never happened | MAR 31"
 ---
 

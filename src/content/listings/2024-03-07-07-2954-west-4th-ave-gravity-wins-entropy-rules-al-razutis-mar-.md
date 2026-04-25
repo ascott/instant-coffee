@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 7
 type: ""
+venue: "2954 West 4th Ave"
 summary: "2954 West 4th Ave | Gravity wins, Entropy rules: Al Razutis | MAR 2"
 ---
 

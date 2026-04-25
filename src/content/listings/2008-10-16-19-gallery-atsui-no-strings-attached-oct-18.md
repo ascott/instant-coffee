@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 19
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | No Strings Attached | OCT 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 45
 type: "EVENT"
+venue: "The Post at 750"
 summary: "The Post at 750 | Queer Arts Festival: Winter Warmer | DEC 4"
 ---
 

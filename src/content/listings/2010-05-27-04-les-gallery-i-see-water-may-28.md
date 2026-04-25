@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 4
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | i see water | MAY 28"
 ---
 

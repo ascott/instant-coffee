@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 17
 type: "EVENT"
+venue: "Mobil Art School"
 summary: "Mobil Art School | OPEN HOUSE | JUL 6"
 ---
 

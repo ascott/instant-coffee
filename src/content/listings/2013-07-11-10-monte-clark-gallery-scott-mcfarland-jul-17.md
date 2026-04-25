@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 10
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | Scott McFarland | JUL 17"
 ---
 
@@ -64,7 +65,7 @@ Scott McFarland lives and works in Toronto, Canada. His works are
 included in public collections such as the Museum of Modern Art, the
 Vancouver Art Gallery, the National Gallery of Canada, the San
 Francisco Museum of Modern Art, and the J. Paul Getty Museum. An
-upcoming exhibition of McFarlandÃ¢ï¿½ï¿½s work from the last five years will
+upcoming exhibition of McFarlandâ��s work from the last five years will
 be presented at the Art Gallery of Ontario in Spring of 2014.
 
 Gallery hours:

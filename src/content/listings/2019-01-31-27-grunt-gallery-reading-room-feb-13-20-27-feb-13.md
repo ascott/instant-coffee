@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 27
 type: "EDUCATION"
+venue: "grunt gallery"
 summary: "grunt gallery | Reading Room | FEB 13, 20, 27 | FEB 13"
 ---
 

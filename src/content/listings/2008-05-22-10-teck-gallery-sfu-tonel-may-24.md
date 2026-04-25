@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: don't curse the darkness"
 emailDate: "Thu, 22 May 2008 08:10:19 -0700"
 number: 10
 type: ""
+venue: "Teck Gallery, SFU"
 summary: "Teck Gallery, SFU | Tonel | MAY 24"
 ---
 

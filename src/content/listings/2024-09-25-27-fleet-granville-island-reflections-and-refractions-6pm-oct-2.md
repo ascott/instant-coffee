@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 27
 type: "EVENT"
+venue: "FLEET: Granville Island"
 summary: "FLEET: Granville Island | Reflections and Refractions... | 6PM | OCT 2"
 ---
 

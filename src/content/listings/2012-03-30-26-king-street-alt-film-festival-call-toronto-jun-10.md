@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 26
 type: ""
+venue: "King Street Alt Film Festival"
 summary: "King Street Alt Film Festival | Call | Toronto | JUN 10"
 ---
 
@@ -16,7 +17,7 @@ Deadline- June 10th, 2012
 Date of Event- June 15th, 2012
 
 The 2nd Ever King Street Alt Film and Video Festival. Will happen June 
-15th, 2012 at Bettyâ€™s on King Street (in Toronto). After a successful 1st 
+15th, 2012 at Betty’s on King Street (in Toronto). After a successful 1st 
 run, the King Street Alt Film and Video Festival is at it again. This 
 grassroots festival is looking for short (15 minute maximum) narrative, 
 experiment, documentary and comedic film works and video art pieces 

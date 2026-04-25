@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 1
 type: "TALK"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Jin-me Yoon | NOV 29"
 ---
 
@@ -24,7 +25,7 @@ practice. These include the consequences for reconsidering power and ideas
 of progress, and the means for slowing down signification and extending 
 temporality. What are the aesthetic,
 social and political implications of absence and the void as a paradoxical 
-space â€˜fullâ€™ with presence and necessary doubt?
+space ‘full’ with presence and necessary doubt?
 
 Jin-me Yoon is a Professor of Visual Studies at Simon Fraser University and 
 is represented by Catriona Jeffries Gallery.
@@ -47,7 +48,7 @@ Nicolas Sassoon, WAVES at
 Yaletown-Roundhouse Station, Canada Line continues until January 20, 2013.
 
 WAVES is presented in partnership with the Canada Line Public Art Program 
-â€” IntransitBC.
+— IntransitBC.
 
 Gallery hours: Tuesday to Sunday, 12-6 pm.
 

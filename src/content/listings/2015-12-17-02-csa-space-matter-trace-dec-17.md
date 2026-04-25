@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fashionable innovation"
 emailDate: "Thu, 17 Dec 2015 13:00:31 -0800"
 number: 2
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Matter-Trace | DEC 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 14
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Moon Gate | MAY 23"
 ---
 

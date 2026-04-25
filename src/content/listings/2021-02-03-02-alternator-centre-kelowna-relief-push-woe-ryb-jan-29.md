@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Alternator Centre [Kelowna]"
 summary: "Alternator Centre [Kelowna] | Relief, Push, Woe (RYB) | JAN 29"
 ---
 

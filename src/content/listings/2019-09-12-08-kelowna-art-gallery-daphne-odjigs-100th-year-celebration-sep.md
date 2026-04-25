@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 8
 type: "OPENING"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Daphne Odjig's 100th Year Celebration | SEP 13"
 ---
 

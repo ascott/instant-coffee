@@ -87,21 +87,21 @@ Enter (Ntr)
 Kneel (Kn)
 
 A matter of respect to collaborators or eliminate them at your peril. During these
-moments nothing is said. Mark out here, Ã¢â‚¬Å“pauseÃ¢â‚¬ and then there 
-Ã¢â‚¬Å“silenceÃ¢â‚¬ . Enter
+moments nothing is said. Mark out here, â€œpauseâ€ and then there 
+â€œsilenceâ€ . Enter
 like a stiff feather. Throw the book. THUMP. Violet turns to blue. One character to
-the other may say, Ã¢â‚¬Å“Shall we go?Ã¢â‚¬ The other replies, Ã¢â‚¬Å“YesÃ¢â‚¬ . The 
+the other may say, â€œShall we go?â€ The other replies, â€œYesâ€ . The 
 stage direction
-says: Ã¢â‚¬Å“They do not move.Ã¢â‚¬
+says: â€œThey do not move.â€
 
 Is someone going to argue that stage direction is immaterial? I hope not.
 (Kissing the bookcase) We move into the gallery
-space, "Flatly." "Happily." "Holding back tears." and Ã¢â‚¬Å“Large over-stuffed chairs
-that seem to swallow the characters.Ã¢â‚¬ We blink. The camera pans left and
-captures Ã¢â‚¬Å“AÃ¢â‚¬ walking with a red page then at the next moment Ã¢â‚¬Å“AÃ¢â‚¬ 
+space, "Flatly." "Happily." "Holding back tears." and â€œLarge over-stuffed chairs
+that seem to swallow the characters.â€ We blink. The camera pans left and
+captures â€œAâ€ walking with a red page then at the next moment â€œAâ€ 
 disappear.
 
-More importantly, Ã¢â‚¬Å“two hundred women of the townÃ¢â‚¬ enter the room. The 
+More importantly, â€œtwo hundred women of the townâ€ enter the room. The 
 ﬁnal
 scene of the play opens with two girls winding a skein of red wool. Confusion
 reigns with various characters appearing and asking for deﬁnitive news. A
@@ -111,13 +111,13 @@ event which is designed to move an audience through all of the visual, aural, an
 dramatic means available. People Things Enter Exit.
 
 Ulla von Brandenburg (b. 1974, Karslrue, lives and works in Paris) has
-forthcoming solo exhibitions at Galerie du Granit, Le granit, ScÃƒÂ¨ne Nationale de
+forthcoming solo exhibitions at Galerie du Granit, Le granit, ScÃ¨ne Nationale de
 Belfort, France (2012); Rosascape, Paris (2012); Pilar Corrias Gallery, London
 (2012). Recent solo exhibitions include Produzentengalerie, Hamburg (2011);
-Vitrine de lÃ¢â‚¬â„¢Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue 
+Vitrine de lâ€™Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue 
 Alte
 Welt, The Common Guild, Glasgow (2011); Neue Alte Welt, Art: Concept, Paris
-(2011); Chorspiel, Lilith Performance Studio, MalmÃƒÂ¶ (2011).
+(2011); Chorspiel, Lilith Performance Studio, MalmÃ¶ (2011).
 
 Guy de Cointet (b. 1934, Paris, d. 1983, Los Angeles) was a French artist based
 in Los Angeles in the late sixties and seventies. His enigmatic and until very
@@ -139,7 +139,7 @@ exhibition Kill the Workers!, shown this past year at Chisenhale, London and
 Badischer Kunstverein, Karslrue will travel to the Walter Phillips Gallery, Banff in
 2012. She has a forthcoming solo exhibition at Presentation House Gallery,
 Vancouver and recent solo exhibitions include, i8 Gallery, Reykjavik (2011); See
-it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1Ã¢â‚¬â€œ3),
+it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1â€“3),
 greengrassi, London (2009).
 
 Daria Martin (b. 1973, San Francisco, lives and works in London, UK) has a
@@ -188,7 +188,7 @@ Contemporary Art Gallery, Vancouver
 
 Corita Kent Film Screening - Aaron Rose short documentary
 
-27 October Â· 19:00 - 19:30
+27 October · 19:00 - 19:30
 
 A Free screening of a film about Corita Kent's life and work;
 
@@ -228,7 +228,7 @@ www.thecryingroom.org
 ------------------------------------------------------------------------
 Raymond Boisjoly, Jordy Hamilton, Laura Piasta: Studies in Decay
 
-October 29 â€” December 10, 2011
+October 29 — December 10, 2011
 Opening Friday, October 28, 8PM
 Curated by Jonah Gray Photo: Jordy Hamilton
 
@@ -238,36 +238,36 @@ Piasta: Studies in Decay, a group exhibition curated by Jonah Gray.
 The dark overtones in both the subject matter and colour palette of the artworks 
 in this exhibition are the effects of a kind of realism that is more concerned with 
 conveying the realities of contemporary experience than with naturalistic 
-depiction. However, the gloomy image of history these works registerâ€”one of 
-violence and repetition with few prospects for changeâ€”never slips into 
+depiction. However, the gloomy image of history these works register—one of 
+violence and repetition with few prospects for change—never slips into 
 pessimism. Instead, they draw their force from seeking to split the difference 
 between affirming the possibilities of contemporary experience and calling 
 attention to its frequently disastrous outcomes.
 
-Vancouver-based artist Raymond Boisjolyâ€™s recent series of images, collectively 
+Vancouver-based artist Raymond Boisjoly’s recent series of images, collectively 
 titled The Writing Lesson, uses visual conventions associated with black metal 
 music to create logos for indigenous place names such as Chilliwack, Massett 
 and Nanaimo. Boisjoly lays out these Anglicized words with dripping, thorny 
 embellishments and what he calls a â€œforced symmetry.â€  Like the band 
-wordmarks to which they refer, Boisjolyâ€™s decrepit tangles of letters often verge 
-on illegibility. This iteration of Boisjolyâ€™s ongoing project will be the largest yet, 
+wordmarks to which they refer, Boisjoly’s decrepit tangles of letters often verge 
+on illegibility. This iteration of Boisjoly’s ongoing project will be the largest yet, 
 printed on a tarp, and taking its shape from the name Spuzzum, an 
 unincorporated settlement north of Hope, BC.
 
 Jordy Hamilton, an Ontario-born Vancouver-based artist, will exhibit a collection 
-of appropriated images, including a pair of videos and a series of 4 Ã— 6 inch 
+of appropriated images, including a pair of videos and a series of 4 × 6 inch 
 photographic prints. These documents record instances of an event held at the 
-artistâ€™s family home in conjunction with an annual barbecue and trap shooting 
+artist’s family home in conjunction with an annual barbecue and trap shooting 
 competition. Each year, the assembled picnickers would take aim at a beat up 
 old motorcycle, propped in a field with its motor running, and shoot it until it burst 
 into flames. The photographs are vintage prints that sequentially depict a 
 motorcycle catching fire; the videos are digital transfers from cassette that 
 reveal the degraded image quality of the originals.
 
-Laura Piasta is a Vancouver-born artist currently based in UmeÃ¥, Sweden. Her 
+Laura Piasta is a Vancouver-born artist currently based in Umeå, Sweden. Her 
 sculpture, Crystallized Jean Jacket, consists of a denim jacket, hardened from 
 having been soaked in saltwater and hung to dry, a process that leaves a 
-delicate crystalline patterning all over the fabric. Pinned to the wall, the jacketâ€™s 
+delicate crystalline patterning all over the fabric. Pinned to the wall, the jacket’s 
 slumping shape has a pathetic anthropomorphism, but also evokes the 
 conspicuous absence of the body or bodies it might formerly have clothed.
 
@@ -302,11 +302,11 @@ Admission Free
 ------------------------------------------------------------------------
 Blim, Asa Mori, and Powell Street Festival Society present:
 Cute to Kill II Ã¢â‚¬â€  Special Halloween Edition
-Friday October 28 | 8 - 11 PM | $12/10 | @ VIVO (Main St. Ãƒâ€” 4th Ave.)
+Friday October 28 | 8 - 11 PM | $12/10 | @ VIVO (Main St. Ã— 4th Ave.)
 
 Cute to Kill 2 is an expose of recent video works from local, national, and
-international animators and video artists. Each short film explores the artistsÃ¢â‚¬â„¢
-morbid fascination with dark subject matter through the guise of Ã¢â‚¬Å“cuteÃ¢â‚¬ (a
+international animators and video artists. Each short film explores the artistsâ€™
+morbid fascination with dark subject matter through the guise of â€œcuteâ€ (a
 prevalent juxtaposition in contemporary Asian pop culture). In their first co-
 production, Yuriko Iga (of Blim) and Asa Mori bring together a wide range of
 adorably despondent short films to be viewed as a collection for this one night
@@ -356,7 +356,7 @@ October 29, 2011 to January 14, 2012
 
 Satellite Gallery presents Nature, Knowledge and the Knower, an exhibition that
 features digital enlargements of panoramic photographs as well as an online
-display of a selection of artist and explorer James L. (Lippit) ClarkÃ¢â‚¬â„¢s archives
+display of a selection of artist and explorer James L. (Lippit) Clarkâ€™s archives
 from the American Museum of Natural History in New York.
 
 This exhibition presents three dramatic panoramas taken with Kodak Cirkut
@@ -368,7 +368,7 @@ representation at the Museum.
 An online archive is the second element of the exhibition, providing
 unprecedented access to a selection of visual materials originally collected and
 organized by Clark. These resources were gathered to facilitate the making of
-the habitat dioramas and to provide the museumÃ¢â‚¬â„¢s exhibition department 
+the habitat dioramas and to provide the museumâ€™s exhibition department 
 with an
 in-house picture collection. The website launches on October 28, 2011 at
 <www.natureknowledgeknower.com>. The photographs and the visual material
@@ -401,7 +401,7 @@ Gallery will be open by appointment after the opening until Nov 4.
 Please contact the gallery for private view schedule.
 
 In his book White Love, vicente l. rafael considers the tagalog
-word Ã¢â‚¬Å“mahalÃ¢â‚¬ as a translation for the word Ã¢â‚¬Å“loveÃ¢â‚¬ . It refers to
+word â€œmahalâ€ as a translation for the word â€œloveâ€ . It refers to
 that which is dear, but also means valuable and expensive.
 Rafael writes that such ambiguities express love as a promise
 of fulfilment -- and a costly one.
@@ -475,13 +475,13 @@ essence. Interested in the gaps and gasps in sounds conducive to the
 transmission of tales he sometimes hears in the ether, Routhier finds inspiration
 in everyday situations. His work has been presented internationally and nationally
 at the Vancouver Vibrates, the Silence and Signal & Noise Festivals
-(Vancouver), ISEA 2006 (San JosÃƒÂ©, CA), Open Air-Ars Electronica 2002 (Linz,
+(Vancouver), ISEA 2006 (San JosÃ©, CA), Open Air-Ars Electronica 2002 (Linz,
 Austria), Overgarden Festival (Copenhagen, Danemark), DLux Media Arts
 Festival (Melbourne, Australia), Global Mix Festival (Cracow, Poland), ICMC '94
 (International Computer Music Conference, Florida, USA), La Panderia (Mexico
-City), Ãƒâ€°cole des Beaux-Arts (Aix-en-Provence, France), Studio Cormier
-(MontrÃƒÂ©al), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey),
-Helen Pitt Gallery (Vancouver), Articule (MontrÃƒÂ©al). His audio works have been
+City), Ã‰cole des Beaux-Arts (Aix-en-Provence, France), Studio Cormier
+(MontrÃ©al), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey),
+Helen Pitt Gallery (Vancouver), Articule (MontrÃ©al). His audio works have been
 featured on Kunstradio (Vienna, Austria), CBC and Radio-Canada. Jean curated
 for the Surrey Art Gallery a series of audio artists as part of its ongoing Open
 Sound exhibit, as well as helped organize its audio art symposium in 2008 and
@@ -495,13 +495,13 @@ Art. He creates site-based systems that explore the aesthetics of engagement
 using a variety of designed forms and tools that address our many publics.
 These spatial and pedagogical projects, expand the social agency of art making,
 rethinking notions of space and place, authorship and audience. Working
-collaboratively and primarily within the public sphere, LevinÃ¢â‚¬â„¢s work ranges 
+collaboratively and primarily within the public sphere, Levinâ€™s work ranges 
 from
 billboard projects, alternative tours of cities, land care centres and alternative
 mapping and telecommunication systems. Recently commissioned projects
-include a user-generated Ã¢â‚¬ËœsousveillanceÃ¢â‚¬â„¢ system and a global contributive 
+include a user-generated â€˜sousveillanceâ€™ system and a global contributive 
 new
-media platform, both showcased for VancouverÃ¢â‚¬â„¢s 2010 Cultural Olympiad. 
+media platform, both showcased for Vancouverâ€™s 2010 Cultural Olympiad. 
 He
 has been artist in residence for the Vancouver Parks Board, the TechLab at the
 Surrey Art Gallery, Emily Carr University and at the International Art Space,
@@ -520,14 +520,14 @@ journal West Coast Line. Pacific Avenue (LINEbooks, 2009) is his first poetry
 collection. Lowry is the Assistant Dean of Critical Studies and Community
 Engagements at Emily Carr University of Art + Design.
 
-Henry TsangÃ¢â‚¬â„¢s projects have been exhibited internationally, incorporating 
+Henry Tsangâ€™s projects have been exhibited internationally, incorporating 
 digital
 media, video, photography, language and sculptural elements in the exploration
 of the relationship between the public, community and identity in the new global
 order. Projects in the public sphere range from community-based curatorial and
 engagement practices to permanent commissioned artworks. Welcome to the
 Land of Light is a 100 metre-long installation located on the seawall handrail
-along Vancouver's False Creek. He has also worked with artistsÃ¢â‚¬â„¢ collectives
+along Vancouver's False Creek. He has also worked with artistsâ€™ collectives
 which produce temporary public art installations on shared political concerns,
 including The Association for Noncommercial Culture and Collective Echoes
 Youth Public Artists Collective, and has mentored many young artists through
@@ -535,7 +535,7 @@ various programs. Video installations such as Orange County, 2004, and
 Olympus, 2006, shot in California, Beijing, Torino and Vancouver, examine
 overlapping urban and socio-political spaces; and Napa North, 2008, looks at the
 relationship between wine, real estate and cultural translation in British
-ColumbiaÃ¢â‚¬â„¢s Okanagan Valley. His curatorial projects (Self Not Whole: 
+Columbiaâ€™s Okanagan Valley. His curatorial projects (Self Not Whole: 
 Cultural
 Identity & Chinese-Canadian Artists in Vancouver, 1991; Racy Sexy: Race,
 Culture and Sexuality, 1993; and City at the End of Time: Hong Kong 1997,
@@ -761,7 +761,7 @@ Hill.
 
 Evening also features two stunning South Hill Art Plan projects:
 
-* Pattern Recognition by RenÃ©e Van Halm
+* Pattern Recognition by Renée Van Halm
 * Nothing Happens in Good Weather by the artist collective Instant Coffee
 
 For more information about this event, contact South Hill Neighbours at 604-321-
@@ -801,9 +801,9 @@ For the Month of October 2011
 
 New Works by Andrea Tucker
 
-Opening: 8 PM â€“ 11 PM, 
+Opening: 8 PM – 11 PM, 
 Thursday October 6 
-Runs October 7 â€“ 29
+Runs October 7 – 29
 
 BLIM
 Yuriko Iga - Director
@@ -828,7 +828,7 @@ V5V 2G8
 I'm doing everything I've always wanted, all the time, everyday.
 New works by Jason Gowans
 
-Wednesday November 2 â€“ 13th, Opening reception November 4, 7-9pm.
+Wednesday November 2 – 13th, Opening reception November 4, 7-9pm.
 
 Little Mountain Gallery presents "I'm doing everything I've always
 wanted, all the time, everyday", a solo exhibition of new work by
@@ -861,12 +861,12 @@ and dance lights up the night at the Gallery.
 FUSE: Covet, Nov. 4, 2011, 8pm until 1am
 VANCOUVER ART GALLERY
 
-Vancouver, B.C. â€“ What do you covet? The Vancouver Art Gallery invites 
-Vancouverites to explore their heartsâ€™ desires in this special night of music, 
+Vancouver, B.C. – What do you covet? The Vancouver Art Gallery invites 
+Vancouverites to explore their hearts’ desires in this special night of music, 
 dance and art on Friday, November 4th. FUSE: Covet is inspired by the impulse 
-to collect in the Galleryâ€™s current exhibitions An Autobiography of Our Collection 
-and Shore, Forest and Beyond: the Audain Collection. Find what you loveâ€¦ or 
-discover a new obsessionâ€¦ at FUSE.
+to collect in the Gallery’s current exhibitions An Autobiography of Our Collection 
+and Shore, Forest and Beyond: the Audain Collection. Find what you love… or 
+discover a new obsession… at FUSE.
 
 Highlights of FUSE include:
 
@@ -874,7 +874,7 @@ Highlights of FUSE include:
 factory dancing excerpts from their work, POST. 
 http://www.plasticorchidfactory.com/the_plastic_ochid_factory/home.html
 
-* Bobâ€™s Lounge (a project by David McIntosh of Battery Opera) seduces 
+* Bob’s Lounge (a project by David McIntosh of Battery Opera) seduces 
 visitors with a covetous sing cycle, on the balcony and in the galleries. 
 http://www.batteryopera.com/bobs-lounge/
 
@@ -884,8 +884,8 @@ letter to lovers, exes, or better selves. http://radixtheatre.org/
 * World of Dance Vancouver champs The Faculty close out the night with 
 style, grace and a few more things to covet.
 
-* Andâ€¦ take some FUSE magic home! Penny Smash offers Fuse-goers a 
-collectible penny â€” by artists Ken Lum, Natalie Purschwitz, and Ian Grais.
+* And… take some FUSE magic home! Penny Smash offers Fuse-goers a 
+collectible penny — by artists Ken Lum, Natalie Purschwitz, and Ian Grais.
 
 Since its inception in July 2005, thousands of FUSE-goers have come to the 
 Gallery for this hugely popular adult event. On Friday evenings three times 
@@ -935,13 +935,13 @@ Website design by Work at Play with technical support Codename Design
 
 Centre A is pleased to present Maraya, a large scale experimental and multi-
 layered art project consisting of an exhibition, series of public talk, walking tour 
-and newly commissioned interactive website. Maraya(from the Arabic mâ€™raya for 
-mirror or reflection) examines the surprising reappearance of Vancouverâ€™s most 
+and newly commissioned interactive website. Maraya(from the Arabic m’raya for 
+mirror or reflection) examines the surprising reappearance of Vancouver’s most 
 picture-postcard urban development, False Creek in the United Arab Emirates, 
 as the Dubai Marina. These two cities are pioneering sites for a new type of 21st 
 century urbanism, the hallmark of which is the urban waterfront development 
 with glass and steel condominium towers, expansive seawall walkways and 
-shimmering urban vistas. Marayaâ€™s multi- faceted artwork will act as a mirror for 
+shimmering urban vistas. Maraya’s multi- faceted artwork will act as a mirror for 
 publics in both cities to see themselves and their built environments reflected 
 through the lens of contemporary art. In focusing on this significant case study 
 of the two sites, the project aims to facilitate critical discourse reflecting on the 
@@ -955,7 +955,7 @@ have produced a new body of artworks, including photo and video documents,
 interviews, video installations and a live video portal connection between two 
 cities presented in the exhibition as well as in the new website.
 
-â€œMaraya,â€”borrowing the arabic word for mirror and reflectionâ€” asks us all to 
+“Maraya,—borrowing the arabic word for mirror and reflection— asks us all to 
 engage in the remaking of our seawalls. To explore the thousands of images that 
 chronicle the building of both waterfront communities from 2007-2011, building 
 digital paths and connections between publics both here and there. Our online 
@@ -978,7 +978,7 @@ audience through online participation.
 
 During the exhibition, Centre A organizes a series of public salons to approach 
 the subject from a diverse range of perspectives; the speakers include Christos 
-Dikeakos, one of Canadaâ€™s most prominent contemporary artists, urban 
+Dikeakos, one of Canada’s most prominent contemporary artists, urban 
 geographer Eugene McCann and social and cultural activist, Am Johal. A walking 
 tour led by sound artist Jean Routhier will be held prior to the exhibition.
 
@@ -1044,11 +1044,11 @@ SFU Burnaby Campus
 November 5 to December 17, 2011
 Opening Reception: November 5, from 3 to 5pm
 
-Jerry Pethick (1935 â€“ 2003) is well known for his large sculptural works such 
+Jerry Pethick (1935 – 2003) is well known for his large sculptural works such 
 as "Le Semeur - Sunlight" and "Flies and Time Top". Those who knew Jerry 
 personally, especially those living on Hornby Island, were aware of a parallel 
-practice that resulted in a large number of what might be termed â€˜domestic-
-scaled objectsâ€™ that explored and analyzed many of the same concerns and 
+practice that resulted in a large number of what might be termed ‘domestic-
+scaled objects’ that explored and analyzed many of the same concerns and 
 research channels as the large sculptures. This exhibition is devoted to those 
 smaller scale works in collections on the island where Jerry Pethick lived and 
 worked. Many of these objects have never previously been shown off Hornby 
@@ -1065,8 +1065,8 @@ Pethick Exhibition page from our Web site, is your parking pass in any Visitor L
 at SFU (face up on dashboard or hand to parking attendant).
 
 SFU GAllery | 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
-Gallery Hours: Tuesday â€“ Friday : 10am â€“ 4pm,
-Saturday : 12pm â€“ 5pm. Closed Saturdays on holiday long weekends.
+Gallery Hours: Tuesday – Friday : 10am – 4pm,
+Saturday : 12pm – 5pm. Closed Saturdays on holiday long weekends.
 
 
 ------------------------------------------------------------------------
@@ -1086,17 +1086,17 @@ has had recent solo exhibitions at Chisenhale Gallery, London; MD72, Berlin;
 Reena Spaulings Fine Art, New York and Richard Telles Fine Art, Los Angeles. 
 Group shows include â€œFilms & Filmingâ€ , organised by David Lieske at Bischoff 
 Projects, Frankfurt, â€œMadame Realismâ€ , Marres Centre for Contemporary Art, 
-Maastricht, and â€œThe J.G. Ballard Centre for Psychopathological Research 
+Maastricht, and “The J.G. Ballard Centre for Psychopathological Research 
 presents: â€˜Zodiac 3000â€™ â€  at the International Project Space, Birmingham.
 Her practice employs a continuous shuttling between the generic technical 
 conditions of culture and the image, and the irreducibly singular - that for which 
 no prior decision (or strategy) can be applied. As part of the Distinguished 
-Visiting Artist Program at UBCâ€™s Department of Art History, Visual Art and 
+Visiting Artist Program at UBC’s Department of Art History, Visual Art and 
 Theory, Pryde will be giving a public lecture about her work, which is free and 
 open to the public.
 
 SB: In your exhibition Brains & Chains, you refer to Eva Hesse, amongst other 
-things. If I have understood you correctly, what youâ€™re concerned with here is 
+things. If I have understood you correctly, what you’re concerned with here is 
 the â€œmodel swotâ€ , above all the one embodied by women artists who could be, or 
 who are, established in the art business.
 
@@ -1106,7 +1106,7 @@ SB: In what way?
 
 JP: Well, then I would really have to say some really very embarrassing things.
 
-SB: There is no embarrassment that we canâ€™t handle here.
+SB: There is no embarrassment that we can’t handle here.
 
 JP: Yes, I think there is.
 
@@ -1168,7 +1168,7 @@ enacting the unruly force of such transactions.
 
 Intangible Economies was initially developed through a series of texts published 
 in Fillip magazine over the past year and will culminate in a book anthology 
-published as part of Fillipâ€™s ongoing Folio Series in 2012.
+published as part of Fillip’s ongoing Folio Series in 2012.
 
 Schedule
 
@@ -1182,7 +1182,7 @@ Monika Szewczyk
 Olaf Nicolai
 
 Sunday, November 20, 2011
-Juan GaitÃ¡n
+Juan Gaitán
 Candice Hopkins
 Jan Verwoert
 
@@ -1207,7 +1207,7 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -1224,9 +1224,9 @@ Symposium and Art Exhibition
 Theme: Art & Struggle
 
 Presented by the Contemporary Art, Design and New Media Art Histories
-Masterâ€™s Program at OCAD University, Toronto
+Master’s Program at OCAD University, Toronto
 
-March 8 â€“ 9 , 2012
+March 8 – 9 , 2012
 
 Paper Proposal & Artwork Submission Deadline: December 2, 2011
 
@@ -1234,7 +1234,7 @@ The term â€œstruggleâ€  contains both liberating and oppressive connotati
 resulting tension
 has long been considered an inherent aspect of art production. Struggle 
 manifests in various
-forms, whether political, cultural, economic, or personal. While the â€œstruggling 
+forms, whether political, cultural, economic, or personal. While the “struggling 
 artistâ€  has been
 a problematic art historical trope, this symposium seeks to revisit the issue of 
 struggle in an

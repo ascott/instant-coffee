@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 52
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Conversations on Collecting | 7-8PM | JUN 27"
 ---
 

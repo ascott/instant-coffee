@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 15
 type: "FUNDRAISER"
+venue: "Artspeak"
 summary: "Artspeak | 30 Years of Laughs | Dynasty Handbag + Travis the Magician | DEC 1"
 ---
 

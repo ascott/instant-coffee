@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 13
 type: ""
+venue: "READ Books"
 summary: "READ Books | SABINE BITTER + HELMUT WEBER: launch | NOV 24"
 ---
 
@@ -23,9 +24,9 @@ Edited by Urban Subjects (Sabine Bitter, Jeff Derksen, Helmut Weber) with
 contributions by Sabine Bitter & Helmut Weber, Ljiljana Blagojevic, Zoran
 Eric, Klaus Ronnberger, and a foreword by Neil Smith
 
-This artistsâ€™ book by Sabine Bitter and Helmut Weber presents an original
+This artists’ book by Sabine Bitter and Helmut Weber presents an original
 and previously unpublished text from 1986 by French philosopher and
-urbanist Henri Lefebvre. Lefebvreâ€™s text, central to urban restructuring
+urbanist Henri Lefebvre. Lefebvre’s text, central to urban restructuring
 processes, is based on "autogestion" (self-management). Printed as a
 facsimile, the text is contextualized and interpreted by accompanying
 commentaries and essays. The publication is available in five editions with
@@ -40,8 +41,8 @@ Contributions by Reinhard Braun, Martin Hochleitner, Jeff Derksen, Michael
 Zinganel, Jochen Becker, Clint Burnham, Candice Hopkins, Cecily Nicholson,
 Heidi Schatzl
 
-Published on the occasion of Sabine Bitter & Helmut Weberâ€™s retrospective
-exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artistsâ€™
+Published on the occasion of Sabine Bitter & Helmut Weber’s retrospective
+exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artists’
 work negotiating the rhetoric of crisis and failure that surrounds the
 concepts of utopias, the welfare state, and socialist cities.
 
@@ -87,9 +88,9 @@ Edited by Urban Subjects (Sabine Bitter, Jeff Derksen, Helmut Weber) with
 contributions by Sabine Bitter & Helmut Weber, Ljiljana Blagojevic, Zoran
 Eric, Klaus Ronnberger, and a foreword by Neil Smith
 
-This artistsâ€™ book by Sabine Bitter and Helmut Weber presents an original
+This artists’ book by Sabine Bitter and Helmut Weber presents an original
 and previously unpublished text from 1986 by French philosopher and
-urbanist Henri Lefebvre. Lefebvreâ€™s text, central to urban restructuring
+urbanist Henri Lefebvre. Lefebvre’s text, central to urban restructuring
 processes, is based on "autogestion" (self-management). Printed as a
 facsimile, the text is contextualized and interpreted by accompanying
 commentaries and essays. The publication is available in five editions with
@@ -104,8 +105,8 @@ Contributions by Reinhard Braun, Martin Hochleitner, Jeff Derksen, Michael
 Zinganel, Jochen Becker, Clint Burnham, Candice Hopkins, Cecily Nicholson,
 Heidi Schatzl
 
-Published on the occasion of Sabine Bitter & Helmut Weberâ€™s retrospective
-exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artistsâ€™
+Published on the occasion of Sabine Bitter & Helmut Weber’s retrospective
+exhibition held this summer in Linz, RIGHT, TO THE CITY, shows the artists’
 work negotiating the representation of cities and the production of space
 by everyday practices, state-planning, and global pressures.
 - Show quoted text -

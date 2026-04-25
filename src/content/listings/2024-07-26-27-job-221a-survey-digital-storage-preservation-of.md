@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 27
 type: ""
+venue: "JOB"
 summary: "JOB | 221A | Survey: Digital Storage & Preservation of"
 ---
 

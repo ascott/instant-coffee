@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 24
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | SFU Woodwards Goldcorp Centre for the Arts | F-O-R-M | SEPT 8, 13-15 | SEP 8"
 ---
 

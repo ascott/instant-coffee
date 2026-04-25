@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 14
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Described Tour of The Metamorphosis | FEB 2"
 ---
 

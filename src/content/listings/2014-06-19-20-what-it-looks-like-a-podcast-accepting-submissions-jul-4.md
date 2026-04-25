@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 20
 type: ""
+venue: "What It Looks Like, a podcast"
 summary: "What It Looks Like, a podcast | accepting submissions | JUL 4"
 ---
 
@@ -19,7 +20,7 @@ Potential points of discussion could include, but are not limited to: land and
 ecology, artistic communities, isolation, language, sovereignty, regional 
 history, neighborhoods, local politics, urban development, relocation, and 
 itinerancy.
-What It Looks Like embraces professional, experimental and naÃ¯ve audio 
+What It Looks Like embraces professional, experimental and naïve audio 
 work about art. Submissions need not be accompanied by a CV, nor is 
 formal training in art, recording, or writing a requirement in order to submit 
 work.

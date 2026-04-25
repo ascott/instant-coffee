@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 12
 type: ""
+venue: "Mountain View Cemetery"
 summary: "Mountain View Cemetery | Artists and the Green Funeral Movement | DEC 9"
 ---
 

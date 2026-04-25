@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 19
 type: "CALL"
+venue: "Richmond City Hall Galleria"
 summary: "Richmond City Hall Galleria | 2024 programming | SEP 20"
 ---
 

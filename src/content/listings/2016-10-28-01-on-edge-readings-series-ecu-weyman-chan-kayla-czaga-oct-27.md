@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interview with the vampire"
 emailDate: "Thu, 27 Oct 2016 18:40:17 -0700"
 number: 1
 type: "TALK"
+venue: "On Edge Readings Series @ ECU"
 summary: "On Edge Readings Series @ ECU | Weyman Chan & Kayla Czaga | OCT 27"
 ---
 

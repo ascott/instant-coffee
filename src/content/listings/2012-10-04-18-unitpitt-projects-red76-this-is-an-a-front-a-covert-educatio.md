@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 18
 type: ""
-summary: "UNIT/PITT Projects | Red76: This Is An (A) Front â€“ A Covert Education | OCT 11"
+venue: "UNIT/PITT Projects"
+summary: "UNIT/PITT Projects | Red76: This Is An (A) Front – A Covert Education | OCT 11"
 ---
 
-Red76: This Is An (A) Front â€“ A Covert Education
+Red76: This Is An (A) Front – A Covert Education
 
 October 11 to November 3, 2012
 
@@ -24,7 +25,7 @@ relating to power and its uses from our homes to our streets and state
 buildings. In what ways do these relationships alter and regulate our lives, and 
 how might we, within their presence, or even just out of sight, begin to create 
 spaces and actions aimed towards considering new ways in which we might 
-live with one another, more equitably and mindful of one anotherâ€™s needs as 
+live with one another, more equitably and mindful of one another’s needs as 
 well as our own?
 
 Beginning in the spring of 2012 Red76 initiated THIS IS AN (A) FRONT, first 
@@ -33,7 +34,7 @@ in Pristina, Kosovo, called Henry. This action, funded by the US State
 Department, served as a means towards discussing the relative power we 
 hold over one another, as well as more obtusely the power held in relation to 
 the ways and means in which the action itself was initiated to begin with and 
-its associations vis a vis The State. How do we self-regulate when â€œour very 
+its associations vis a vis The State. How do we self-regulate when “our very 
 existenceâ€  is determined through the auspices of governmental power?
 
 For the second edition of THIS IS AN (A) FRONT the group presents Thumbs 
@@ -41,10 +42,10 @@ Up! a â€œused mp3â€  store located in Vancouver, Canadaâ€™s Chinatow
 occasion the front reveals itself almost as a series of skins, each with its own 
 considerations and means of interaction: first, the entrance of UNIT/ PITT will 
 be walled off, converted into a makeshift but functional lobby/convenience 
-store; behind this faÃ§ade lies Thumbs Up!, a shop that sells music distributed 
+store; behind this façade lies Thumbs Up!, a shop that sells music distributed 
 on thumb drives; and third, Thumbs Up! has its very own internet radio station, 
-Power 2012. Each broadcast â€“ through music, interviews, conversations, and 
-readings â€“ relates to our daily relationship to power, macro to micro, from 
+Power 2012. Each broadcast – through music, interviews, conversations, and 
+readings – relates to our daily relationship to power, macro to micro, from 
 individual to State and back again.
 
 To tune in to Power 2012 visit http://power2012.ca starting Oct. 11 2012, or 
@@ -52,14 +53,14 @@ visit UNIT/PITT at 15 East Pender Street during open hours to purchase music
 and speak your mind on the air directly to the world at large.
 
 Presented in conjunction with the Institutions By Artists conference, October 
-12 â€“ 14, 2012.
+12 – 14, 2012.
 
-Red76â€™s initiatives utilize overlooked histories and common shared 
+Red76’s initiatives utilize overlooked histories and common shared 
 occurrences as a means of creating a framework in which to construct their 
 public inquiries. Social histories, collaborative research, parallel politics, free 
 media, alternative educational constructs, gatherings, masking, and public 
 dialogue play a continuing and vital role within the methodology and concepts 
-of Red76â€™s work. Along with producing many independent initiatives on street 
+of Red76’s work. Along with producing many independent initiatives on street 
 corners, in laundromats and bars, Red76 have engaged in projects 
 commissioned by the Institute of Contemporary Art Philadelphia, the Drawing 
 Center (New York), the Yerba Buena Center for the Arts (San Francisco), the 

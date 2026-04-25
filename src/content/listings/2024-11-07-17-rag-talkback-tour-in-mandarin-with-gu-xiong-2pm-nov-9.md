@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 17
 type: "TALK"
+venue: "RAG"
 summary: "RAG | Talkback Tour in Mandarin with Gu Xiong | 2PM | NOV 9"
 ---
 

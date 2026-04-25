@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 20
 type: "FUNDRAISER"
+venue: "Access Gallery"
 summary: "Access Gallery | XXV: Access Gallery's Auction Fundraiser 7pm | NOV 19"
 ---
 

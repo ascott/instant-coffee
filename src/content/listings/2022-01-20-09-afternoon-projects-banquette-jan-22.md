@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 9
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Banquette | JAN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "ECUAD - Micheal O'Brian Exhibition Commons"
 summary: "ECUAD - Micheal O'Brian Exhibition Commons | MFA 2018 Thesis Exhibition | APR 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 26
 type: ""
+venue: "VIVO MEDIA ARTS CENTRE"
 summary: "VIVO MEDIA ARTS CENTRE | JOB POSTING: DISTRIBUTION ASSISTANT | SEP 23"
 ---
 
@@ -35,15 +36,15 @@ computer fluency and a capacity to juggle multiple tasks to deadline using Mac
 OS, Word, FileMaker, and Excel. Understanding of Photoshop, Illustrator, DVD 
 Studio Pro and Final Cut Pro would be an asset. This position also draws upon a 
 strong understanding of the festival programming process, video and media art 
-in Canada, artist run culture and VIVOâ€™s mandate.
+in Canada, artist run culture and VIVO’s mandate.
 
-Applications should outline an applicantâ€™s:
+Applications should outline an applicant’s:
 
-â€¢ Familiarity with video art and distribution
+• Familiarity with video art and distribution
 
-â€¢ Communication and administrative work experience
+• Communication and administrative work experience
 
-â€¢ Computer and technical skills
+• Computer and technical skills
 
 If you are interested in applying for this position, please email a resume and 
 cover letter by 5pm Friday, September 23 to:

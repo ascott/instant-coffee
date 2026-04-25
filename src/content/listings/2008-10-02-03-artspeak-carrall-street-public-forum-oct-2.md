@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 3
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | CARRALL STREET | PUBLIC FORUM | OCT 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 40
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | Pride at the Gallery | 7PM | AUG 2"
 ---
 

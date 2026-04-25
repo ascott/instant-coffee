@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 5
 type: "OPENING"
+venue: "AMS Art Gallery"
 summary: "AMS Art Gallery | CONCATENATION | A Series of Interconnected Events | MAR 14"
 ---
 

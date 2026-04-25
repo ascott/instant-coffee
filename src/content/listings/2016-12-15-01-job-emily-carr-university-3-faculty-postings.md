@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | Emily Carr University | 3 Faculty Postings"
 ---
 

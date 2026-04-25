@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 15
 type: ""
+venue: "CINEWORKS AND PACIFIC CINEMATHEQUE"
 summary: "CINEWORKS AND PACIFIC CINEMATHEQUE | BACK DOWN THE HIGHWAY/ HIGHWAY 61 | MAY 31"
 ---
 
@@ -17,10 +18,10 @@ place in Canadian film history with his seminal road movie HIGHWAY
 inspiring a generation to pick up a camera and shoot. In 2012, four
 teams of emerging Vancouver-based filmmakers were given a chance 
 to
-reconsider the genre of road movies through Cineworkâ€™s first ever
+reconsider the genre of road movies through Cinework’s first ever
 short film contest. The result: four new short films inspired by
 dialogue from HIGHWAY 61 plus a rare 35mm print screening of
-MacDonaldâ€™s film. Celebrations continue with an opportunity to meet
+MacDonald’s film. Celebrations continue with an opportunity to meet
 the contest-winning filmmakers at the after-party.
 
 ADMISSION:

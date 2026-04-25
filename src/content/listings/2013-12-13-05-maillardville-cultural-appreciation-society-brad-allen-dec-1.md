@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://friendsof439.wordpress.com/
 emailDate: "Fri, 13 Dec 2013 15:55:11 -0800"
 number: 5
 type: ""
+venue: "Maillardville Cultural Appreciation Society"
 summary: "Maillardville Cultural Appreciation Society | Brad Allen | DEC 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Isolated Landscapes: Video by Prairie Women | MAR 22"
 ---
 

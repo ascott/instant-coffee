@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 7
 type: "FUNDRAISER"
+venue: "ART FOR GAZA"
 summary: "ART FOR GAZA | APR 1"
 ---
 

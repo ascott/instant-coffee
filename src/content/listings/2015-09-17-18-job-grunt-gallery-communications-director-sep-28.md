@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 18
 type: ""
+venue: "JOB"
 summary: "JOB | grunt gallery | Communications Director | SEP 28"
 ---
 

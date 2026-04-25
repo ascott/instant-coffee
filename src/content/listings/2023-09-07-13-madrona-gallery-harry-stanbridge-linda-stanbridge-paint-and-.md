@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "Madrona Gallery"
 summary: "Madrona Gallery | Harry Stanbridge & Linda Stanbridge: Paint and Fir | SEP 9"
 ---
 

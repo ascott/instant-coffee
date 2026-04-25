@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 8
 type: ""
+venue: "NOMAD GALLERY"
 summary: "NOMAD GALLERY | 2 Openings | FEB 4"
 ---
 

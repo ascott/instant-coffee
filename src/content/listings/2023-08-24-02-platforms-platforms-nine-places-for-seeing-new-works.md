@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Platforms"
 summary: "Platforms | “Platforms: Nine Places for Seeing” New Works"
 ---
 

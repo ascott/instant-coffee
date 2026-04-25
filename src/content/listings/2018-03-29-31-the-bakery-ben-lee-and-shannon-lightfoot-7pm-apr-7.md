@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 31
 type: "OPENING"
+venue: "The Bakery"
 summary: "The Bakery | Ben Lee and Shannon Lightfoot | 7PM | APR 7"
 ---
 

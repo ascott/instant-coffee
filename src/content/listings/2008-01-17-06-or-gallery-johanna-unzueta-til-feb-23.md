@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: nothing happens in good weather"
 emailDate: "Wed, 16 Jan 2008 19:41:13 -0800"
 number: 6
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Johanna Unzueta | til FEB 23"
 ---
 

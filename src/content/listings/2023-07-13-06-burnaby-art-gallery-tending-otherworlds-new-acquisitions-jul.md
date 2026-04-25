@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 6
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Tending Otherworlds: New Acquisitions | JUL 13"
 ---
 

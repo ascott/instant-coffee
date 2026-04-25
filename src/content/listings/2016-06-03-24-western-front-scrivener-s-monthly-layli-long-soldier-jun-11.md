@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 24
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener s Monthly: Layli Long Soldier | JUN 11"
 ---
 

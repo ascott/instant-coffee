@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: itty bitty blob"
 emailDate: "Thu, 12 Jun 2008 08:02:51 -0700"
 number: 1
 type: ""
+venue: "CAG"
 summary: "CAG | Max Dean & Samuel Roy-Bois | JUN 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee Boils: 95% hotter"
 emailDate: "Thu, 10 Jul 2008 09:30:06 -0700"
 number: 2
 type: ""
+venue: "Little Mountain Studios"
 summary: "Little Mountain Studios | Justin Wright | JUL 11"
 ---
 

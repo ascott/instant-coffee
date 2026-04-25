@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 16
 type: ""
+venue: "Audain Prize and VIVA Awards"
 summary: "Audain Prize and VIVA Awards | Marian Penner Bancroft, Beau Dick and Ron Tran | MAY 9"
 ---
 
@@ -11,12 +12,12 @@ Marian Penner Bancroft Honoured with Audain Prize for
 Lifetime Achievement in the Visual Arts
 
 Beau Dick and Ron Tran to Receive VIVA Awards
-Vancouver, B.C. â€“ The 9th annual Audain Prize, awarded by the Audain 
+Vancouver, B.C. – The 9th annual Audain Prize, awarded by the Audain 
 Foundation for the Visual Arts for lifetime achievement, will honour noted artist 
 and teacher Marian Penner Bancroft. Artists Beau Dick and Ron Tran are the 
 2012 recipients of VIVA Awards, granted annually by the Jack and Doris 
 Shadbolt Foundation.
-Based in Vancouver, Marian Penner Bancroftâ€™s work has been exhibited 
+Based in Vancouver, Marian Penner Bancroft’s work has been exhibited 
 nationally and internationally and is held in numerous collections, including 
 those of the Vancouver Art Gallery and the Canadian Museum of Contemporary 
 Photography in Ottawa. Her work investigates the intersections of the 
@@ -35,12 +36,12 @@ including the Canadian Museum of Civilization, the Heard Museum (Phoenix),
 the Burke Museum (Seattle) and the Vancouver Art Gallery. Reaching out 
 beyond the confines of his own Kwakwaka'wakw culture, Dick has explored new 
 formats and techniques in his work, including painting and drawing. Born in 
-Vietnam, Vancouver-based artist Ron Tranâ€™s work explores the ways that 
+Vietnam, Vancouver-based artist Ron Tran’s work explores the ways that 
 chance and coincidence influence daily life. Tran has exhibited in both group 
 and solo exhibitions in Canada, Europe and Asia. He was selected for the 2007 
 East International Biennial in Norwich, England and the Berlin Biennale 6.
 â€œWe are honoured to celebrate these important artists,â€  said Gallery director 
-Kathleen Bartels, â€œThese annual awards are a highlight of Canadaâ€™s visual arts 
+Kathleen Bartels, “These annual awards are a highlight of Canada’s visual arts 
 calendar. We congratulate Marian Penner Bancroft, Beau Dick and Ron Tran on 
 these prestigious awards.â€ 
 The Audain Prize for Lifetime Achievement in the Visual Arts and the VIVA 

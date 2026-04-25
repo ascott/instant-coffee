@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Righteousness and Recklessness"
 emailDate: "Thu, 11 Aug 2011 11:16:30 -0700"
 number: 10
 type: ""
+venue: "Zabludowicz Collection"
 summary: "Zabludowicz Collection | Curatorial Open | NOV 1"
 ---
 
@@ -28,12 +29,12 @@ transcending the existing confines of contemporary art curating. The
 Zabludowicz Collection keenly welcomes transdisciplinary and 
 experimental proposals.
 
-This initiative builds on the Zabludowicz Collectionâ€™s existing 
+This initiative builds on the Zabludowicz Collection’s existing 
 commitment to experimental curatorial practices, which has 
 resulted in projects with international curators and curating 
 students, including Proposal for a Floor in New York with Alex 
 Gartenfeld, The Library of Babel / In and Out of Place with Anna-
-Catharina Gebbers in 2010, Past-Forward with Vincent HonorÃ© in 
+Catharina Gebbers in 2010, Past-Forward with Vincent Honoré in 
 2008 and the annual Testing Ground programme produced in 
 collaboration with the MA curating students from the Royal College 
 of Art and Goldsmiths College, London.
@@ -83,14 +84,14 @@ also exhibits in permanent venues in the USA and Finland.
 
 There's still time to see We Will Live, We Will See, the inaugural 
 Zabludowicz Collection Curatorial Open exhibition, curated by Pavel 
-S. PyÅ“, which is at the Zabludowicz Collection in London until 14 
+S. Pyœ, which is at the Zabludowicz Collection in London until 14 
 August 2011.
 
 
 11. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
 FOR SALE | propane-powered 1985 Ford Econoline Travel Van 
-SAVE ON FUEL COSTS â€” Less pollution with propane the original 
+SAVE ON FUEL COSTS — Less pollution with propane the original 
 alternative fuel
 
 My beloved propane-powered 1985 Ford Econoline Travel Van is 
@@ -98,7 +99,7 @@ now for
 sale. Asking $3800. open to offers. 4 captains chairs in front - table
 + bench seats convert to bed or plywood deck for equipment.
 
-Contact â€” vixmedia (at) gmail (dot) com to view â€” located in the
+Contact — vixmedia (at) gmail (dot) com to view — located in the
 Marpole district of Vancouver, Canada.
 
 Note: the price of propane is approximately half of the cost of

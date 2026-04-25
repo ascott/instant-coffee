@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "Burrard View Park Fieldhouse"
 summary: "Burrard View Park Fieldhouse | LOOPDALOOP | 7-9PM | APR 4-28 | APR 4"
 ---
 

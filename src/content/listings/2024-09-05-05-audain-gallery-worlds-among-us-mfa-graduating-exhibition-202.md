@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 5
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Worlds Among Us: MFA Graduating Exhibition 2024 | SEP 4"
 ---
 

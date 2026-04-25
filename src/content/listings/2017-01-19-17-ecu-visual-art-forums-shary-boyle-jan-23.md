@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 17
 type: "TALK"
+venue: "ECU"
 summary: "ECU | VISUAL ART FORUMS: Shary Boyle | JAN 23"
 ---
 

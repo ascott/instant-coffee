@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 11
 type: "EVENT"
+venue: "Astoria"
 summary: "Astoria | Art Rock? no. 14 | DEC 20"
 ---
 

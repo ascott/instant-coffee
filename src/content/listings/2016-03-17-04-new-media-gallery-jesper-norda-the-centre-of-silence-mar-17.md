@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 4
 type: "TALK"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Jesper Norda: The Centre of Silence | MAR 17"
 ---
 

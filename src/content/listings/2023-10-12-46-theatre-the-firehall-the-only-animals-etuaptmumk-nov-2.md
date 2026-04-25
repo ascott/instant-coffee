@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 46
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | The Firehall | The Only Animal’s Etuaptmumk | NOV 2"
 ---
 

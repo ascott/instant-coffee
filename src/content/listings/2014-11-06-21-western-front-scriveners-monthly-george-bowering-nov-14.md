@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 21
 type: ""
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly: George Bowering | NOV 14"
 ---
 
@@ -14,7 +15,7 @@ Scrivener's Monthly: George Bowering
 Friday, November 14, 2014 @ 8:00pm
 Western Front, 303 East 8th Avenue
 
-Scrivenerâ€™s Monthly and The Capilano Review are pleased to present a 
+Scrivener’s Monthly and The Capilano Review are pleased to present a 
 reading by renowned Vancouver writer George Bowering. Author of more 
 then 100 books, Bowering will read from new work alongside a selection 
 of archival recordings from the Western Front and beyond, documenting 
@@ -28,7 +29,7 @@ on a number of books, and in 2015 will publish a YA novel, The Attack of
 the Toga Gang, as well as a personal anthology of writings about the 
 Okanagan Valley, Desert Elm.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the 
+Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
 experiment in â€œnot publishingâ€  involves readings, performances, and other 

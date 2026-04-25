@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 26
 type: "EVENT"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Persian Artists Gathering | 6PM | JUN 27"
 ---
 

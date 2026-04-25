@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 16
 type: ""
+venue: "grunt gallery fundraiser"
 summary: "grunt gallery fundraiser | ECLECTIC CABARET | DEC 1"
 ---
 

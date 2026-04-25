@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 19
 type: "EVENT"
+venue: "Cafe Deux Soleils"
 summary: "Cafe Deux Soleils | Collider Cafe: Art. Science. Optics. | 8-930PM | JAN 23"
 ---
 

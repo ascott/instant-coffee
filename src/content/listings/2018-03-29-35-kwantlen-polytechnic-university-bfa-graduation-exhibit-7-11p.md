@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 35
 type: "OPENING"
+venue: "Kwantlen Polytechnic University"
 summary: "Kwantlen Polytechnic University | BFA graduation exhibit | 7-11PM | APR 13"
 ---
 

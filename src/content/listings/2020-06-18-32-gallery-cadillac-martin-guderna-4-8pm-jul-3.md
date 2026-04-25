@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 32
 type: "OPENING"
+venue: "Gallery Cadillac"
 summary: "Gallery Cadillac | Martin Guderna | 4-8PM | JUL 3"
 ---
 

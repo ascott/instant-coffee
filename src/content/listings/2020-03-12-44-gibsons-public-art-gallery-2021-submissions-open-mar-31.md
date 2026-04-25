@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 44
 type: "CALL"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | 2021 Submissions Open | MAR 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 48
 type: ""
+venue: "Barking Sphinx Performance Society"
 summary: "Barking Sphinx Performance Society | Vancouver Improvised Music Meeting 2017 | MAR 23"
 ---
 

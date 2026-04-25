@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 25
 type: ""
+venue: "On Main Gallery"
 summary: "On Main Gallery | Thru The Trapdoor | APR 22"
 ---
 
 Project Description
-OMG â€“ On Main Gallery presents Thru The Trapdoor
+OMG – On Main Gallery presents Thru The Trapdoor
 An interdisciplinary art event with multiple curators and dozens of artists.
 Artistic Director: Paul Wong, Producer: Rick Erickson
-Exhibition: April 23 â€“ 25, Wed. Thurs. Fri. 12pm â€“ 8pm 
-Press Preview: April 22, 3 â€“ 4pm
-Artist and VIP Opening: Tues., April 22, 6 â€“ 10 pm
+Exhibition: April 23 – 25, Wed. Thurs. Fri. 12pm – 8pm 
+Press Preview: April 22, 3 – 4pm
+Artist and VIP Opening: Tues., April 22, 6 – 10 pm
 
 Thru The Trapdoor Closing Event Sat. April 26, 8 - 2 am $10 Admission
 Site-specific installations, projections, visuals, sculpture, performances, 
@@ -35,7 +36,7 @@ bringing together some of the best new and established talent and producers
 in Vancity to collaborate and create something extraordinary. We will be 
 using the upstairs, downstairs, video mapping the building exteriors and 
 taking over the parking lot. This is going to be big and legendary happening 
-harking back to the free spirit of 1980â€™s artists warehouse shows. We are 
+harking back to the free spirit of 1980’s artists warehouse shows. We are 
 going all out with a blast.
 Sponsors/Participating Organizations to date: grunt gallery, New Forms 
 Festival, Hybridity Music, Bomber Brewing, VIVO Media Arts, and way more 

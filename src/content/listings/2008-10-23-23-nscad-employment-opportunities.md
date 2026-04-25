@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 23
 type: ""
+venue: "NSCAD"
 summary: "NSCAD | Employment Opportunities"
 ---
 
@@ -14,20 +15,20 @@ www.nscad.ns.ca/about/employment.php
 The Nova Scotia College of Art and Design (NSCAD University) invites
 applications for:
 
-Â· Assistant Professor: Division of Craft (Ceramics)
+· Assistant Professor: Division of Craft (Ceramics)
 
-Â· Assistant Professor: Division of Craft (Fashion)
+· Assistant Professor: Division of Craft (Fashion)
 
-Â· Assistant Professor, Division of Media Arts (Photography)
+· Assistant Professor, Division of Media Arts (Photography)
 
-Â· Assistant Professor, Interdisciplinary Design (Visual
+· Assistant Professor, Interdisciplinary Design (Visual
 Communication and Product Design)
 
-Â· Director of Library Services
+· Director of Library Services
 
-Â· Director of Visual Resource Collection
+· Director of Visual Resource Collection
 
-Â· Sessional appointments in a number of teaching areas
+· Sessional appointments in a number of teaching areas
 
 For complete vacancy notices, including application deadlines and
 submission requirements, please visit: www.nscad.ns.ca/about/employment.php

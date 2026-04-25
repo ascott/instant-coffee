@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 5
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | Year of Reconciliation | JUN 5"
 ---
 

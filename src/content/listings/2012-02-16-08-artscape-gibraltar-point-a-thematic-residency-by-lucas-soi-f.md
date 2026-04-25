@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 8
 type: ""
+venue: "Artscape Gibraltar Point"
 summary: "Artscape Gibraltar Point | A Thematic Residency by Lucas Soi | FEB 24"
 ---
 
@@ -15,7 +16,7 @@ A Thematic Residency by Lucas Soi
 Artscape Gibraltar Point
 Toronto Island, Ontario
 
-Program Dates: July 7 â€“ 19, 2012
+Program Dates: July 7 – 19, 2012
 Application Deadline: February 24, 2012 
 Cost: $550 CDN + HST
 

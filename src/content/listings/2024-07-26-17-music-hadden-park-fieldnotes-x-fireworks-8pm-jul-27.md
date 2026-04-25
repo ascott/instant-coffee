@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 17
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Hadden Park | Fieldnotes x Fireworks | 8pm | JUL 27"
 ---
 

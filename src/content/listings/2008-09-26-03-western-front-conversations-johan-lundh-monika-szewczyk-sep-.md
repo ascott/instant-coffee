@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: warning: it really is dirty"
 emailDate: "Fri, 26 Sep 2008 00:00:20 -0700"
 number: 3
 type: ""
+venue: "Western Front"
 summary: "Western Front | Conversations: Johan Lundh & Monika Szewczyk | SEP 27"
 ---
 
@@ -28,7 +29,7 @@ University of Art + Design, before relocating to Europe in 2007.
 
 Johan Lundh and Monika Szewczyk will discuss currents projects and the "art
 of conversation" as a dynamic form of intellectual exploration. Future
-conversations will feature artist Fia BackstrÃ¶m (New York, US) and a
+conversations will feature artist Fia Backström (New York, US) and a
 discussion about the practice of Kate Craig.
 
 Contemporary Conversations is organized and hosted by independent curator

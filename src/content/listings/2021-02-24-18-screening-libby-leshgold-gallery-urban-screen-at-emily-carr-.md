@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Libby Leshgold Gallery: Urban Screen at Emily Carr | Diyan Achjadi: Hush | MAR 1"
 ---
 

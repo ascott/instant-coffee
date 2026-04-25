@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 3
 type: "EVENT"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Listening Party: David Wojnarowicz | 5PM | JAN 23"
 ---
 

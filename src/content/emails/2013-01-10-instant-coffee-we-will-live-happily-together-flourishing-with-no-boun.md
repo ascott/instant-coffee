@@ -26,7 +26,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-01-10-12-the-commons-anatomize-obfuscation-jan-16">12. The Commons | Anatomize Obfuscation | JAN 16</a>
 <a href="/instant-coffee/listings/2013-01-10-13-ubc-big-mouth-a-speaker-series-about-art-and-educatio-jan-16">13. UBC | BIG MOUTH: A Speaker Series about Art and Educatio | JAN 16</a>
 <a href="/instant-coffee/listings/2013-01-10-14-ubc-ahva-library-gallery-the-idiot-of-nature-jan-16">14. UBC | AHVA Library Gallery | The Idiot of Nature | JAN 16</a>
-<a href="/instant-coffee/listings/2013-01-10-15-ubc-arms-are-overratedartist-talk-by-stanya-kahn-jan-17">15. UBC | â€œArms Are Overrated:Artist Talk by Stanya Kahn | JAN 17</a>
+<a href="/instant-coffee/listings/2013-01-10-15-ubc-arms-are-overratedartist-talk-by-stanya-kahn-jan-17">15. UBC | “Arms Are Overrated:Artist Talk by Stanya Kahn | JAN 17</a>
 <a href="/instant-coffee/listings/2013-01-10-16-western-front-edible-glasses-jan-17">16. Western Front | Edible Glasses | JAN 17</a>
 <a href="/instant-coffee/listings/2013-01-10-17-wil-aballe-art-projects-sean-weisgerber-after-i-shed-my-skin">17. Wil Aballe Art Projects | Sean Weisgerber: After I Shed My Skin | JAN 17</a>
 <a href="/instant-coffee/listings/2013-01-10-18-winsor-gallery-attila-richard-lukacs-jan-17">18. Winsor Gallery | Attila Richard Lukacs | JAN 17</a>
@@ -51,7 +51,7 @@ Opening Reception: Thursday January 10th, 2013 at 6:00 pm
 Watercolours by Brad Phillips
 
 CSA space
-#5â€“2414 Main Street, Vancouver, British Columbia
+#5–2414 Main Street, Vancouver, British Columbia
 
 See Pulpfiction Books (2422 Main St.) for admission during regular business 
 hours: Mon-Wed 10am-8pm, Thurs-Sat 10am-9pm, Sundays and holidays 
@@ -89,7 +89,7 @@ with additional work by Shalev-Gerz at the Belkin Art Gallery.
 
 For over twenty years, Shalev-Gerz has created installation and photographic 
 work that addresses questions of collective and personal memory, of 
-portraitureâ€™s possibilities, the politics of representation, history, place and 
+portraiture’s possibilities, the politics of representation, history, place and 
 citizenship. The pieces in this exhibition offer new ways to approach our 
 relationship to these questions.
 
@@ -98,14 +98,14 @@ resident of Paris since 1984. She is a Professor at Valand School of Fine
 Arts, University of Gothenburg, Sweden where she is currently leading an 
 international research project on Trust and the Unfolding Dialogue funded by 
 the Swedish Research Council. Current and recent exhibitions include: a 
-retrospective at the MusÃ©e Cantonal des Beaux-Arts de Lausanne with a 
+retrospective at the Musée Cantonal des Beaux-Arts de Lausanne with a 
 catalogue published by JRP|Ringier (22 September 2012-6 January 2013); an 
 installation ofMenschenDinge as part of the group exhibition Newtopia at 
 Kazerne Dossin, Mechelen, Belgium (1 December 2012-31 March 
 2013);Describing Labor at Wolfsonian-FIU, Miami (5 December 2012-7 April 
 2013); Kamloops Art Gallery, Kamloops (2012); Jeu de Paume, Paris (2010); 
 Vilnius Art Academy Gallery, Vilnius (2009); Maritime Museum, Greenwich, 
-(2007); Stiftung GedenkstÃ¤tten Buchenwald und Mittelbau-Dora, Weimar 
+(2007); Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora, Weimar 
 (2006); Sprengel Museum, Hannover (2002); Historiska Museet, Stockholm 
 (2002).
 
@@ -134,7 +134,7 @@ the early 1970s. A launch will be held at the Vancouver Art Gallery on January
 8 at 7 pm.
 
 Drawn from material originally published between 1969 and 1974, 4,492,040 
-includes reprints of all four of the hugely important catalogs from the â€œnumbers 
+includes reprints of all four of the hugely important catalogs from the “numbers 
 showsâ€  produced for a series of exhibitions named for the populations of the 
 cities in which they were held: 557,087 (Seattle), 955,000 (Vancouver), 
 c.7,500 (Valencia, California), and 2,972,453 (Buenos Aires). As with the 
@@ -156,7 +156,7 @@ the Seattle Art Museum, 4,492,040 is available for order through DAP
 (US/Canada), Motto Distribution (Europe/Asia), and directly from New 
 Documents.
 
-15.25 Ã— 10.15 cm
+15.25 × 10.15 cm
 358 Pages, Loose in Wrapper
 ISBN: 978-1-927354-00-1
 $35 + Shipping
@@ -165,7 +165,7 @@ Vancouver Launch (January 8)
 
 In collaboration with Afterall Books and the Vancouver Art Gallery, New 
 Documents presents a joint launch event for 4,492,040 and From 
-Conceptualism to Feminism: Lucy Lippardâ€™s Numbers Shows 1969â€“74 
+Conceptualism to Feminism: Lucy Lippard’s Numbers Shows 1969–74 
 (Afterall Books, in association with the Academy of Fine Arts Vienna, the 
 Center for Curatorial Studies, Bard College, and Van Abbemuseum, 2012) on 
 Tuesday, January 8 at 7 pm in the Heritage Courtroom at the Vancouver Art 
@@ -174,14 +174,14 @@ Gallery.
 Join Cornelia Butler, Chief Curator of Drawings at the Museum of Modern Art 
 New York and author of â€œWomen Â­â€“ Concept â€“ Artâ€  in From Conceptualism to 
 Feminism, and Grant Arnold, Audain Curator of British Columbia Art at the 
-Vancouver Art Gallery, for an informal discussion of Lippardâ€™s catalogs within 
+Vancouver Art Gallery, for an informal discussion of Lippard’s catalogs within 
 the context of the exhibitions they accompanied.
 
 New Documents
 www.new-documents.org
 @new_documents
 
-New Documents is a Vancouver and Los Angelesâ€“based art book publisher 
+New Documents is a Vancouver and Los Angeles–based art book publisher 
 operating in collaboration with the Projectile Publishing Society. We gratefully 
 acknowledge the support of the Canada Council for the Arts and the British 
 Columbia Arts Council.
@@ -386,7 +386,7 @@ NOT SENT LETTERS & GUESTS
 @ VIVO Media Arts Centre 1965 Main Street, Vancouver
 Friday Evening, January 11th, 2013
 2 Hour Programme Only: 7-9pm SHARP!
-$5 Suggested Donation â€“ No One Turned Away
+$5 Suggested Donation – No One Turned Away
 
 interdisciplinary works by
 MARINA ROY
@@ -550,7 +550,7 @@ all outdoor works.
 
 778-782-4266 | gallery@sfu.ca | www.sfu.ca/gallery | 
 www.wildnewterritories.com
-SFU Gallery, Burnaby Campus, AQ 3004 | Open Tuesday â€“ Saturday: 12â€“
+SFU Gallery, Burnaby Campus, AQ 3004 | Open Tuesday – Saturday: 12–
 5pm. Closed holiday long weekends.
 SFU Teck Gallery, 515 West Hastings, Vancouver. Open daily during campus 
 hours.
@@ -578,27 +578,27 @@ drawings on the monumental scale of history painting as in The Brides, an
 eight foot by eight foot drawing on canvas, while the monochromatic greys of 
 his recent paintings mimic the tonality of drawing. The new paintings, 
 watercolours and drawings on exhibition at the Charles H. Scott Gallery are a 
-continuation of Wedmanâ€™s grey monochromatic series, which he began in 
+continuation of Wedman’s grey monochromatic series, which he began in 
 2007. Like earlier work in the series they depict images of spectacle, 
 including flying saucers and underwater volcanoes, although Wedman denies 
 the potential for extravagance these kinds of images inherently contain by 
 obfuscating the image and emptying them of colour. 
 
-For Wedman, rendering the work in grey tones â€œdraws your attention away 
+For Wedman, rendering the work in grey tones “draws your attention away 
 from subject matter and turns it to a consideration of a flat picture plane, and 
 the consideration of subjecthood and why the subject is interesting. It 
 transforms the subject, sometimes in ways that are unexpectedâ€ . An 
 example of this is a series of twelve watercolours of newspaper pages where 
 the content is made indistinguishable with only the familiar structural form 
 remaining recognizable. They play with notions of the familiar, and he as he 
-puts it, â€œyou take something from one place and open up its potential 
+puts it, “you take something from one place and open up its potential 
 meaning. Itâ€™s not really anything remarkableâ€ .
 
 Neil Wedman has exhibited extensively and is represented by the Equinox 
 Gallery. He teaches at both Emily Carr University and Simon Fraser 
 University. Part One of this exhibition was held at the Equinox in 2012.
 
-Gallery Hours: Monday to Friday 12 â€“ 5 pm, Saturday and Sunday 10 am â€“ 5 
+Gallery Hours: Monday to Friday 12 – 5 pm, Saturday and Sunday 10 am – 5 
 pm. Admission is free. 
 
 For further information please contact the gallery.
@@ -652,7 +652,7 @@ Nicolas Sassoon, WAVES at
 Yaletown-Roundhouse Station, Canada Line continues until January 20, 2013.
 
 WAVES is presented in partnership with the Canada Line Public Art Program 
-â€” IntransitBC.
+— IntransitBC.
 
 Gallery hours: Tuesday to Sunday, 12-6 pm.
 
@@ -718,7 +718,7 @@ Vancouver Brussels Exchange Project
 Hosted by Instant Coffee and Lotte Van den Audenaeren [LVDA] 
 
 PART 1 Vancouver
-@ Instant Coffeeâ€™s Store Front Studio 441 Powell St. Vancouver, Canada. 
+@ Instant Coffee’s Store Front Studio 441 Powell St. Vancouver, Canada. 
 Jan 16th 7 to 9pm and Jan 24th 3 to 7pm or by appointment call 604 782 
 5591 
 
@@ -728,7 +728,7 @@ I SENT YOU
 Collected and transported by LVDA
 
 A multiple exhibition with art works by Brussels based artists Michel 
-FranÃ§ois, Ann Veronica Janssens & Richard Venlet and LVDA. The artists 
+François, Ann Veronica Janssens & Richard Venlet and LVDA. The artists 
 were asked to deliver / donate / formulate a message to an unknown 
 audience. 
 
@@ -739,13 +739,13 @@ course of the artwork once it exits the exhibition context. The work is public
 and becomes common property.
 LVDA functions as the transporter / messenger / accomplice / executor.
 
-Michel FranÃ§oisâ€™s facsimile print shows the image of a pair of sandals used 
+Michel François’s facsimile print shows the image of a pair of sandals used 
 by a Mexican citizen attempting to cross the US border. On her journey to 
 Vancouver, LVDA crossed the US and Mexican border with these sandals: an 
 assignment & responsibility given to her by the artist. These sandals are 
 included in the exhibition.
 
-Ann Veronica Janssens offers a piece without materiality: PhosphÃ¨nes is a 
+Ann Veronica Janssens offers a piece without materiality: Phosphènes is a 
 nomadic and visual proposal.
 
 Richard Venlet, A page from his book becomes a multiple sculpture.
@@ -754,18 +754,18 @@ LVDA PROJECTS: During her stay in Vancouver, LVDA will work on small
 site specific gestures & multiples. Some pieces will arrive or will be sent back 
 to Brussels by mail (no new messages).
 
-Michel FranÃ§ois
-FranÃ§oisâ€™ work consists of snapshots within a process of stratification in 
-which individual works acts as elements of language. Michel FranÃ§ois lives 
+Michel François
+François’ work consists of snapshots within a process of stratification in 
+which individual works acts as elements of language. Michel François lives 
 and works in Brussels. Past solo exhibitions include CRAC Languedoc-
-Roussillon, SÃ¨te, France (2012); Ecole nationale supÃ©rieure des Beaux-Arts, 
-Paris, France (2012); IAC, Villeurbanne, France (2010); MusÃ©e des Beaux-
+Roussillon, Sète, France (2012); Ecole nationale supérieure des Beaux-Arts, 
+Paris, France (2012); IAC, Villeurbanne, France (2010); Musée des Beaux-
 Arts, Lausanne, Switzerland (2009); SMAK, Ghent, Belgium for which he also 
 proposed the curatorial project Faux Jumeaux (2009) and Macba, Barcelona, 
 Spain (2009); Kunsthalle Bern, Switzerland (2000) and Haus der Kunst, 
 Munich, Germany (2000). 
 Ann Veronica Janssens
-Ann Veronica Janssensâ€™ projects are often based on technical or scientific 
+Ann Veronica Janssens’ projects are often based on technical or scientific 
 facts. Cognition, reflexes, meanings and psychology lie at the heart of these 
 experimentations. By pushing back the limits of perception, by rendering 
 visible the invisible, these experiences act as passages from one reality to 
@@ -784,10 +784,10 @@ realms of sculpture, art-historical research, exhibition design and architecture
 based not so much on collaboration or collaborative practice as such, his 
 installations often incorporate the work of other artists, thus connecting his 
 work with a definite â€œcuratorial turnâ€  in recent art, as well as with an older, 
-more established tradition of interest in strategies of â€˜framingâ€™ and display and 
+more established tradition of interest in strategies of ‘framing’ and display and 
 â€œinstitutional critiqueâ€ . His work has been shown at the Centre for Fine Art in 
-Brussels, the Museo EspaÃ±ol de Arte Contemporaneo in Madrid, Galerie 
-Bruges La Morte in Bruges, the MusÃ©e des Beaux-Arts in Dunkerque, the 
+Brussels, the Museo Español de Arte Contemporaneo in Madrid, Galerie 
+Bruges La Morte in Bruges, the Musée des Beaux-Arts in Dunkerque, the 
 SMAK in Ghent and the FRAC in Paris. 
 
 LVDA
@@ -798,7 +798,7 @@ unfolds multiple layers of perception through simple deconstruction and
 reconstruction of visual representation. The interventions, additions and 
 deletions organized by LVDA have a minimal or limited materiality, though 
 they cause a drastic impact on their environment. Her works have a tendency 
-to appear barely present, or in the process of disappearing â€“ like light, 
+to appear barely present, or in the process of disappearing – like light, 
 shadows or apparitions. Lotte Van den Audenaeren (born 1979) lives and 
 works in Brussels. She is a graduate of Sint-Lukas Brussels University 
 College of Art and Design. She participated the Erasmus program at Fontys 
@@ -836,7 +836,7 @@ Instant Coffee recently produced two wall murals, Perpetual Sunset, a sequin
 sunset and Blanket Mural a sculptural wall mural for the City of Edmonton. 
 Also in 2012 a colourful environment for the Southhill Community in 
 Vancouver.
-As part of the City of Vancouverâ€™s Cultural Olympic programme, the Collective 
+As part of the City of Vancouver’s Cultural Olympic programme, the Collective 
 opened Light Bar a full-spectrum light bar installation and venue for light 
 therapy, light lectures, light shows, light reading and light rock. In 2009 
 Instant Coffee exhibited the Disco Fallout Shelter, at the Toronto Sculpture 
@@ -844,12 +844,12 @@ Garden, and as part of Subvision, Hamburg; Nooks as part of How Soon is
 Now, Vancouver Art Gallery; Light Bar as part of Assume Nothing, New Social 
 Practice, Art Gallery of Greater Victoria; Bright Future as part of 88 Blocks 
 Art on Main a Public Art Commission by Translink. Other residencies and 
-exhibitions include, Artist In Residence, SÃ¸lyst, Denmark, Light Bar Research 
+exhibitions include, Artist In Residence, Sølyst, Denmark, Light Bar Research 
 and Residency, Hotel Maria Kapel, The Netherlands, Kuenstlerhaeuser 
 Worpswede, Germany, Flaggfabrikken Kunsthall, Bergen, Norway; If You 
-Lived Here Youâ€™d Be Home By Now, Henry Art Gallery, Seattle; Wish You 
+Lived Here You’d Be Home By Now, Henry Art Gallery, Seattle; Wish You 
 Were Here, Casa del Encuentro MDE07 encuentro internacional, Medellin, 
-Colombia. Instant Coffeeâ€™s most consistent members are Jinhan Ko, Kelly 
+Colombia. Instant Coffee’s most consistent members are Jinhan Ko, Kelly 
 Lycan, Khan Lee, Jenifer Papararo, with auxiliary members Kate Monro and 
 Cecilia Berkovic.
 www.instantcoffee.org
@@ -865,7 +865,7 @@ image: Jasmine Reimer, Bath Mat, 2011, found object, styrofoam, 24x30x2"
 
 The Commons is proud to present Anatomize Obfuscation, an exhibition of 
 three female artists who work in assemblage sculpture, collage, and painting. 
-These artistsâ€™ abstract use of ostensibly mundane materials speak of these 
+These artists’ abstract use of ostensibly mundane materials speak of these 
 common objects as charged with aesthetic potential. The formal refinement 
 fostered by these artists displays a loving-connection for their ubiquitous 
 materials. The exhibition includes new work by Guadalupe Martinez, Jasmine 
@@ -948,25 +948,25 @@ www.mfineart.ca
 3.	Omer Arbel
 Omer Arbel is the Founder of Omer Arbel Office (OAO), a creative firm that 
 has produced boundary-breaking projects such as The 23.2 House, which 
-was shortlisted for the 2010 World Architecture Festival Award. OAOâ€™s limited 
+was shortlisted for the 2010 World Architecture Festival Award. OAO’s limited 
 edition furniture has been exhibited in galleries including the Vancouver Art 
 Gallery and the Chicago Athenaeum Museum. In 2010, Arbel co-designed the 
 2010 Winter Olympic Medals with artist Corinne Hunt. Arbel is the recipient of 
-the Canada Councilâ€™s 2010 Ron Thom Early Design Achievement Award. He 
+the Canada Council’s 2010 Ron Thom Early Design Achievement Award. He 
 is also Creative Director at Bocci, a high-end manufacturing and design 
 company. 
 www.omerarbel.com
 
 4.	Bruce Haden
 Bruce is Principal at DIALOG, an award-winning Architecture firm that is 
-behind notable projects such as SFUâ€™s UniverCity and UBCâ€™s new AMS 
+behind notable projects such as SFU’s UniverCity and UBC’s new AMS 
 Student Union Building. In fact, Bruce is Project Architect for the new SUB. 
 Bruce has extensive experience in institutional, social services, residential, 
 retail and First Nations projects, with work ranging widely from wastewater 
 treatment plants to cafes. Bruce has chaired the Vancouver Urban Design 
 Panel, and has been the Vancouver correspondent for Canadian Architect 
 Magazine for a decade. Recently, he was the President of the Board of 
-Vancouverâ€™s Contemporary Art Gallery. 
+Vancouver’s Contemporary Art Gallery. 
 www.dialog.ca
 
 5.	Graeme Berglund
@@ -1015,7 +1015,7 @@ Show, and The Lab Media Group.
 <a href="/instant-coffee/listings/2013-01-10-14-ubc-ahva-library-gallery-the-idiot-of-nature-jan-16">14. UBC | AHVA Library Gallery | The Idiot of Nature | JAN 16</a>
 ------------------------------------------------------------------------
 â€œThe Idiot of Natureâ€ 
-January 16 â€“ February 2, 2013
+January 16 – February 2, 2013
 Opening Reception: January 16, 5-7 pm
 
 With works by:
@@ -1023,11 +1023,11 @@ Matilda Aslizadeh, Scott Billings, Karilynn Ming Ho, Sophia Isajiw, Sasha
 Krieger, Nick Lakowski, Evan Lee, Athena Papadopoulos, Holly Parmley, 
 Roula Partheniou, and Nick Smolinski
 
-Curated by Christine Dâ€™Onofrio
+Curated by Christine D’Onofrio
 When the rational meaning and natural order of things rub up against our 
-sense of understanding, laughterâ€™s innocent self-ignorance is perhaps a naÃ¯ve, 
+sense of understanding, laughter’s innocent self-ignorance is perhaps a naïve, 
 unconscious acquiescence responding to the shortcomings of knowledge. It 
-is a laughter of despair at the mindâ€™s failure to offer a satisfactory explanation 
+is a laughter of despair at the mind’s failure to offer a satisfactory explanation 
 of the world. Humour usually takes a subversive stance towards all given 
 knowledge. Jokes are always a fantasy. Yet, they carry a cognitive reckoning 
 that often yields more profound facts. That fleeting moment when the laughter 
@@ -1035,14 +1035,14 @@ of forgetting yourself grasps the underlying cognitive truth, that moment of
 pure delight, is one of awareness of a revealed error. It secures us with a 
 sense of superior knowledge, the superiority we feel over instinct, and yet 
 belies the inferiority we have in understanding it. In this lies the idiot of nature 
-â€“ the human spirit is at once superior to material life, and yet the mind 
+– the human spirit is at once superior to material life, and yet the mind 
 remains inferior to the pure realm of absolute truth. As an outlet for repressed, 
 or socially-unacceptable norms, it is but a whisper to the larger, possibly even 
 more exploitative, agenda of the virtues and vices of humour. Suspending 
 judgment is the morality that compensates for the suspicious or doubtful. The 
-artists do not create laughter, but rather, humour â€“ in a dance between 
+artists do not create laughter, but rather, humour – in a dance between 
 subjectivities. They bring us closer to reality by what is revealed through 
-imagined ideals faced pragmatically, the â€˜seriousâ€™ approached â€˜playfully.â€™
+imagined ideals faced pragmatically, the ‘serious’ approached ‘playfully.’
 AHVA Library Gallery
 Koerner Library, Room 112
 1958 Main Mall
@@ -1056,7 +1056,7 @@ Department of Art History, Visual Art & Theory
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-01-10-15-ubc-arms-are-overratedartist-talk-by-stanya-kahn-jan-17">15. UBC | â€œArms Are Overrated:Artist Talk by Stanya Kahn | JAN 17</a>
+<a href="/instant-coffee/listings/2013-01-10-15-ubc-arms-are-overratedartist-talk-by-stanya-kahn-jan-17">15. UBC | “Arms Are Overrated:Artist Talk by Stanya Kahn | JAN 17</a>
 ------------------------------------------------------------------------
 â€œArms Are Overrated: An Artist's Talk by Stanya Kahnâ€ 
 Distinguishing Visiting Artist Program
@@ -1068,7 +1068,7 @@ Thursday, January 17th, 2013
 
 Stanya Kahn is an interdisciplinary artist working primarily in video, with a 
 practice that includes performance, writing, sound design, drawing, animation 
-and digital media. Kahnâ€™s hybrid media practice borrows from pop vernacular, 
+and digital media. Kahn’s hybrid media practice borrows from pop vernacular, 
 documentary tropes, improvisation, comedy and experimental film/video 
 praxis in its re-working of signs, function and meanings in narrativity. The work 
 often inhabits spaces between fiction and document and stems from an 
@@ -1076,20 +1076,20 @@ extensive background in live performance. Integrating the scripted with the
 candid, Kahn addresses issues like agency, power, trauma and the uses and 
 failings of language.
 
-"Stanya Kahnâ€™s first solo exhibition at this gallery features three thirty- to 
+"Stanya Kahn’s first solo exhibition at this gallery features three thirty- to 
 forty-minute videos that smack of YouTube vernacular: handheld camera; on-
 camera mic; footage of friends, family, and little kids playing piano. Closer 
 observation reveals masterful application of Eisensteinian editing, with 
 meticulously choreographed sound tracks and threads of epistemological 
-ruminations that indicate a philosophical conscientiousness thatâ€™s often 
-overlooked in conversations about Kahnâ€™s work. Each video canvasses the 
+ruminations that indicate a philosophical conscientiousness that’s often 
+overlooked in conversations about Kahn’s work. Each video canvasses the 
 concerns and coping mechanisms of a contemporary subject who is forging 
 her way through a world in crisis. Before you roll your eyes at the apparent 
 pedantry of it all, consider that each work is peppered with slyly subversive 
-jokesâ€“â€“about butts, blondes, and sexâ€“â€“as well as remarkable personal 
+jokes––about butts, blondes, and sex––as well as remarkable personal 
 stories and an impressive stream of eclectic facts about animals, ecology, 
-and health. Kahnâ€™s characters are contemporary flaneurs, and each is 
-steadfast on a physical or linguistic dÃ©rive that takes the viewer through 
+and health. Kahn’s characters are contemporary flaneurs, and each is 
+steadfast on a physical or linguistic dérive that takes the viewer through 
 narratives of mortality, trauma, family, and the ethics of civic and ecological 
 responsibility."
 Micol Hebron, Stanya Kahn, Critics Pick, Artforum, 2010
@@ -1100,7 +1100,7 @@ collaborative works have shown in numerous venues nationally and
 internationally including The Whitney Biennial (2008); The California Biennial 
 (2010); MoMA/NY; MOCA/LA; The Getty Center/LA, the Hammer 
 Museum/LA; the Sundance Film Festival; Migrating Forms Film Festival; the 
-Center for Art and Media/KarlsrÃ¼he; PS1 Museum of Contemporary Art/NY; 
+Center for Art and Media/Karlsrühe; PS1 Museum of Contemporary Art/NY; 
 Contemporary Center for Art/Vilnius, Lithuania; MIT, Cambridge; ICA, 
 Philadelphia; Kunstalle, Bonn, GDR; The Brooklyn Museum, NY; The 
 Hayward Gallery, London; Susanne Vielmetter Los Angeles and Elizabeth 
@@ -1115,7 +1115,7 @@ http://www.ahva.ubc.ca
 
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 
@@ -1127,16 +1127,16 @@ Exhibition Opening | Edible Glasses
 Feiko Beckers, Tamara Henderson, Eun Kyung Kim, Ieva Miseviciute 
 
 Opening: Thursday January 17th at 7pm
-Exhibition: January 18th â€“ February 23rd
+Exhibition: January 18th – February 23rd
 Western Front, 303 East 8th Avenue, Vancouver BC.
-Hours: 12 â€“ 5pm, Tuesday to Saturday
+Hours: 12 – 5pm, Tuesday to Saturday
 
 Edible Glasses is an exhibition in which people and objects perform 
 alongside, or in lieu of one another. The title is borrowed from a script written 
 by Lithuanian artist Ieva Miseviciute wherein Edible Glasses are evoked as 
 part of a joke. The script has not yet been performed, but Miseviciute will 
 punctuate the exhibition by performing it on the last day of the show after the 
-gallery itself has closed. Along with Miseviciuteâ€™s performance, the exhibition 
+gallery itself has closed. Along with Miseviciute’s performance, the exhibition 
 presents works by Feiko Beckers (NL), Tamara Henderson (CA), and Eun 
 Kyung Kim (KR/CA). Through video, film, and sculpture these artists employ 
 objects as active performers in their works. 
@@ -1155,7 +1155,7 @@ E. exhibitions@front.bc.ca
 ------------------------------------------------------------------------
 Wil Aballe Art Projects presents 
 Sean Weisgerber: After I Shed My Skin
-January 17, 2013 â€“ March 9, 2013
+January 17, 2013 – March 9, 2013
 Opening: Thursday,January 17th, 7-9:30 p.m. The artist will be in attendance. 
 
 Wil Aballe Art Projects is proud to present a solo exhibition of current work by 
@@ -1164,20 +1164,20 @@ Carr University of Art + Design in 2009, Weisgerber has produced a body of
 work in which specific modalities of abstract painting have articulated a 
 singular fascination with the relationship between colour, form, material and 
 perception. Typically, his paintings have been defined by opaque colours 
-bounded by hard edges â€“ an uncanny painterly dialect wherein human touch 
+bounded by hard edges – an uncanny painterly dialect wherein human touch 
 is modulated by a sense of the mechanical.
 
-This exhibition sees Weisgerberâ€™s works move away from precision execution, 
+This exhibition sees Weisgerber’s works move away from precision execution, 
 and the subject matter of abstraction and perception, with the mechanical 
 appearing less in the character of the objects presented than in the process of 
 their making. Here, we see stalactites of latex paint, frozen in mid-drip, and 
 suspended from the weave of stretched burlap and wool. Antiseptic chains 
-supporting these objects insinuate their origin in a mechanical process â€“ the 
+supporting these objects insinuate their origin in a mechanical process – the 
 repeated immersion of a surface in paint, leading to the development of 
 factures exaggerated, and drawn into grotesque realms.
 
 In other works, the fractalization of colour that once appeared on the surface 
-of canvas now appears in a radiating eruption on the galleristâ€™s living room 
+of canvas now appears in a radiating eruption on the gallerist’s living room 
 wall. And while this storm of pigment does not capitulate to the bounds of 
 hard-edged shapes, its chromatic beauty nevertheless does its work within 
 geometric architectural boundaries.
@@ -1256,7 +1256,7 @@ My work is produced in a rapid and often feverish manner. I have learned that
 if I cannot finish a piece within a sitting or two I become bored with it and 
 move on, meaning that work might never reach completion. This immediacy 
 results in faster more expressive work whilst leaving me craving my next 
-paintingâ€™s creation.
+painting’s creation.
 
 Jordan Turner - www.jordanturner.ca
 I am currently being influenced by aspects of: market consumerism, 
@@ -1286,26 +1286,26 @@ $20 at the door
 
 The Commons is thrilled to present an intimate evening with French Canadian 
 composer Linda Bouchard. Immersed in collaboration with visual artists, 
-Bouchardâ€™s recent work utilizes digital samples, extended and manipulated, 
+Bouchard’s recent work utilizes digital samples, extended and manipulated, 
 which are drawn from and respond to projected images. Her atmospheric 
-project â€œseek(s) to express emotional experiences in their most raw form, 
+project “seek(s) to express emotional experiences in their most raw form, 
 without a literal or narrative setting. Like a collage of different perceptions that 
 eventually forms a whole picture, I attempt to create a world from "real time" 
 experience: reconstructing an imagined emotional event that unfolds in a 
 compressed time frame.â€  This is the second in series of solo performances 
-organized by FranÃ§ois Houle. 
+organized by François Houle. 
 
 Linda Bouchard will present four recent works, all Canadian Premiers. In 
 Unspoken, 2013, a collaboration with video artists David and Hi-Jin Hodge, 
 Bouchard used manipulated samples of a previous composition called 
-"L'Ã©chapppÃ©e d'ailes" (a flock of wings escaping) for gamelan orchestra to 
+"L'échapppée d'ailes" (a flock of wings escaping) for gamelan orchestra to 
 create a meditative, ever changing sonic environment that is shaped around 
 the breathing of Hodge's diverse subjects pictured in 15 second video 
 portraits. Sonic Forecast, 2009, is a Film by Luis Maurette (Buenos Aires) 
 with live score inspired by the Myanmar (Burmese) anti-government protests 
 led by students and Buddhist Monks in September 2007. Also present will be 
 a World Premiere of Black Ice with projected image by Eliane Duval and Low 
-Wind, an improvisation with FranÃ§ois Houle joining Bouchardâ€™s live electronics 
+Wind, an improvisation with François Houle joining Bouchard’s live electronics 
 on clarinet.
 
 Linda Bouchard is active as a composer, conductor and producer. Her works 
@@ -1324,7 +1324,7 @@ Performance, a non-profit arts organization of which she is Artistic Director.
 
 Linda Bouchard
 Sat Jan 19, 8pm
-organized by FranÃ§ois Houle 
+organized by François Houle 
 119B E Pender St
 $20 at the door, seating is very limited for this intimate, one night only event
 
@@ -1337,11 +1337,11 @@ thecommonsvancouver@gmail.com
 Join UNIT/PITT Projects Saturday, January 19 for GRAY Publication's first 
 issue launch party and fundraiser. 
 Issue one focuses on "emergence": presenting visual and text-based works 
-from Soledad MuÃ±oz, Jules Francisco, professor Caroline Bellios of the 
+from Soledad Muñoz, Jules Francisco, professor Caroline Bellios of the 
 School of the Art Institute of Chicago and Alexander McQueen Savile Row.
 
 From 7 - 11PM on January 19 GRAY will be celebrating with sculptures and 
-performance by Soledad MuÃ±oz as well as jewellery and embroideries by 
+performance by Soledad Muñoz as well as jewellery and embroideries by 
 Cecilia Gibson.
 $2 - 4 donations at the door. 
 FREE PUBLICATION WITH ENTRY.
@@ -1353,10 +1353,10 @@ hopes to relieve the skepticism around pre-established notions of fashion by
 looking at dress as an agent for creative responsibility. GRAY will be 
 produced on a quarterly cycle from its founding city: Vancouver, BC. In early 
 2013 GRAY will be distributed through Vancouver to cities such as Toronto, 
-MontrÃ©al, Ottawa, New York, Chicago, LA, London, Paris, Zurich, 
+Montréal, Ottawa, New York, Chicago, LA, London, Paris, Zurich, 
 Amsterdam, Berlin, Stockholm, Prague, Budapest and Moscow.
 
-GRAY Â©2013
+GRAY ©2013
 graypublications.org
 graypublications@gmail.com
 www.facebook.com/GrayPublications
@@ -1379,14 +1379,14 @@ Canada;
 alternating between life on the road and just a few days each month at his 
 home and studio in
 Vancouver. During this period he developed a new process to create large 
-â€˜skinsâ€™ of acrylic paint
+‘skins’ of acrylic paint
 that he then wrapped around panels and stretcher bars.
 
 For his exhibition, Home, at the Yactac gallery, Green presents expressive 
 new works that
 explore the metaphysical framework of both the personal and the universal 
 through painting
-and installation. By warping, stretching and tearing these â€˜skinsâ€™ Green 
+and installation. By warping, stretching and tearing these ‘skins’ Green 
 attempts to push
 the boundaries of the medium using its malleability to provoke a visceral 
 experience with it.
@@ -1428,9 +1428,9 @@ Find respite from the mopey rigour of the winter months in an evening
 dedicated to the expression of West Coast melancholy.
 
 Curated by artist Vanessa Kwan, the evening features words and slide
-shows by former host of CBC radioâ€™s Nightlines, David Wisdom; a
+shows by former host of CBC radio’s Nightlines, David Wisdom; a
 discussion of â€œMy Melancholy Babyâ€  with radical psychoanalyst Andrew
-Feldmar, a hearbreaker of a set by Hello, Blue Roses (Destroyerâ€™s Dan
+Feldmar, a hearbreaker of a set by Hello, Blue Roses (Destroyer’s Dan
 Bejar with Sydney Vermont); and other surprises.
 A night to remember, mistily.
 
@@ -1447,31 +1447,31 @@ Cineworks launching exciting new short film initiative â€œPlay it Forwardâ�
 
 Cineworks Independent Filmmakers Society, a hub of independent filmmaking 
 in Vancouver for more than 30 years, announces a new program to bring 
-together our cityâ€™s storytellers with our non-profit community. This first time 
+together our city’s storytellers with our non-profit community. This first time 
 program, Play it Forward, encourages local filmmakers to produce a short 
 campaign video for a registered charity or non-profit in the province by offering 
 prizes for the top three videos produced.
 
-â€œWith so many communication avenues now available and so much 
-competition for peopleâ€™s attention, a well-executed campaign video can mean 
+“With so many communication avenues now available and so much 
+competition for people’s attention, a well-executed campaign video can mean 
 the difference between success and failure for many programs,â€  says 
-Cineworks Facilities and Equipment Manager Jon Ornoy. â€œMany groups lack 
-the resources or networks to produce this kind of work, so weâ€™re excited 
-about this opportunity to help bridge the gap between BCâ€™s filmmakers and 
+Cineworks Facilities and Equipment Manager Jon Ornoy. “Many groups lack 
+the resources or networks to produce this kind of work, so we’re excited 
+about this opportunity to help bridge the gap between BC’s filmmakers and 
 the hardworking non-profit community trying to make life better for all of us in 
 this provinceâ€ .
 
 Filmmakers will have between January 7th and February 28th to find a group 
 to partner with, produce a 1-3 minute campaign video and upload it the 
-contestâ€™s official site: www.playitforward.strutta.com. An audience voting 
+contest’s official site: www.playitforward.strutta.com. An audience voting 
 process will run from March 1st -15th to determine a top ten shortlist of fan 
 favorites. From the audience top ten, three prizes will be awarded by a panel 
 of industry experts that will include credit packages for gear and facilities 
 ranging between $1000-$2000 to be used on a film of their choosing. A public 
 screening of all entries will also follow in the summer of 2013.
 
-â€œThis is a unique opportunity for filmmakers because itâ€™s the only short film 
-contest out there where the content of the winning film isnâ€™t dictated and 
+“This is a unique opportunity for filmmakers because it’s the only short film 
+contest out there where the content of the winning film isn’t dictated and 
 youâ€™re able to make whatever you wantâ€  says Ornoy. â€œThatâ€™s the idea behind 
 the contest, to give a little, and then pay it forward.â€ 
 

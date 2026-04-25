@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 35
 type: "OPENING"
+venue: "Langara College"
 summary: "Langara College | FINE ARTS 2024 GRAD SHOW | 6PM | APR 25"
 ---
 

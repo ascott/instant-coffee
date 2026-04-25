@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 33
 type: "CALL"
+venue: "Left of Main"
 summary: "Left of Main | Shooting Gallery Performance Series | JAN 20"
 ---
 

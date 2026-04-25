@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 74
 type: "CALL"
+venue: "CMA Journal // SFU"
 summary: "CMA Journal // SFU | Review Series | Call for Papers | OCT 31"
 ---
 

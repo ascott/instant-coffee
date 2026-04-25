@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 20
 type: ""
+venue: "The Gam and Remington Galleries"
 summary: "The Gam and Remington Galleries | Sad Mag launch and exhibition | AUG 2"
 ---
 

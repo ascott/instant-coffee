@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 7
 type: ""
+venue: "221A Artist Run Centre"
 summary: "221A Artist Run Centre | Lindsay Brown | APR 14"
 ---
 
@@ -13,18 +14,18 @@ Settlements, Habitat Forum took place at Jericho Beach in Vancouver
 from May 31-June 11, 1976. Within the largest conference the UN had
 ever assembled, the forum allowed international delegates to discuss
 pressing issues of homelessness, environmental and social
-sustainability, womenâ€™s rights, poverty, and the growing challenges of
+sustainability, women’s rights, poverty, and the growing challenges of
 design, planning and urbanization.
 
 Attended by countless major figures in public policy, architecture and
-the arts, Habitat â€™76 was one of Vancouverâ€™s defining historical
-events - on a similar scale to Expo â€™86 or the 2010 Olympics -
+the arts, Habitat ’76 was one of Vancouver’s defining historical
+events - on a similar scale to Expo ’86 or the 2010 Olympics -
 influencing the culture and politics of the city, though the site and
 event have largely been eclipsed in public memory.
 
 Please join writer Lindsay Brown in an active exploration of her
 extensive research, to re-imagine the Habitat Forum site and
-experience while discovering the subterranean legacy of Vancouverâ€™s
+experience while discovering the subterranean legacy of Vancouver’s
 beautiful vintage modern hangars - demolished after the event.
 
 This event aims to engage a range of community members.

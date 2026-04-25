@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: itty bitty blob"
 emailDate: "Thu, 12 Jun 2008 08:02:51 -0700"
 number: 5
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Paraskevidekatriaphobia | JUN 13"
 ---
 

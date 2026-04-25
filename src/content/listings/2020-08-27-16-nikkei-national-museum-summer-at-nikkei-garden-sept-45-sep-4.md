@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 16
 type: "EVENT"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Summer at Nikkei Garden Sept 4/5 | SEP 4"
 ---
 

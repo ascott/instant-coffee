@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 1
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Where do we stop and they begin? | JUN 21"
 ---
 

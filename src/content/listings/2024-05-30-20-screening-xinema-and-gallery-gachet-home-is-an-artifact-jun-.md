@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 20
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA and Gallery Gachet | Home is an Artifact | JUN 9"
 ---
 

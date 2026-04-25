@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 6
 type: "OPENING"
+venue: "ELAN FINE ART"
 summary: "ELAN FINE ART | AUTUMNAL ALMANAC | SEP 30"
 ---
 

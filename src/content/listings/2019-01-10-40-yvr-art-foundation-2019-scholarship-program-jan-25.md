@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 40
 type: "CALL"
+venue: "YVR Art Foundation"
 summary: "YVR Art Foundation | 2019 SCHOLARSHIP PROGRAM | JAN 25"
 ---
 

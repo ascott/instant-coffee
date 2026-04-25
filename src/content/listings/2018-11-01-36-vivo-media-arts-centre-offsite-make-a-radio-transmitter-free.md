@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 36
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre (OFFSITE)"
 summary: "VIVO Media Arts Centre (OFFSITE) | Make a Radio Transmitter: Free Show & Tell | NOV 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 24
 type: "CALL"
+venue: "Tampa International Airport"
 summary: "Tampa International Airport | Call for Artists | SEP 14"
 ---
 
@@ -15,7 +16,7 @@ IMPORTANT DATES
 
 August 14, 2015 | Artist Outreach Conference; attend on-line or in person
 at Tampa International Airport.
-August 17 | Call will be launched via CaFÃ‰
+August 17 | Call will be launched via CaFÉ
 (www.CallForEntry.org<http://www.CallForEntry.org>)
 September 14 | Deadline; applications close at 11:59 p.m. in Mountain
 Time Zone on deadline date.
@@ -29,12 +30,12 @@ shape the art and culture of Tampa Bay.
 
 ELIGIBILITY: Open to all professional artists/artist teams who:
 
-Â· demonstrate experience in public art and working with public agencies
+· demonstrate experience in public art and working with public agencies
 
-Â· have completed a commission or sold, at a minimum, one piece of
+· have completed a commission or sold, at a minimum, one piece of
 artwork at a value of at least $15,000
 
-Â· can commit to installation by September 2017
+· can commit to installation by September 2017
 
 For further information on the project, the Artist Outreach Conference, and
 to join the mailing list, visit

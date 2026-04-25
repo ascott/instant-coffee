@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 35
 type: "CALL"
+venue: "Platforms: We Are Here, Live"
 summary: "Platforms: We Are Here, Live | Artist Call | JUN 3"
 ---
 

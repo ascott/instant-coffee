@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happily destined for a life of imi
 emailDate: "Thu, 13 Jan 2011 12:50:34 -0800"
 number: 9
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | Art's Birthday 2011 | JAN 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 5
 type: ""
+venue: "Solder & Sons"
 summary: "Solder & Sons | Spark-Writing by Absolute Value of Noise | OCT 16"
 ---
 
@@ -12,7 +13,7 @@ Solder & Sons proudly presents:
 Spark-Writing
 
 A generative sound installation
-by Absolute Value of Noise, Â© 2004
+by Absolute Value of Noise, © 2004
 
 The centre piece of this installation is a "fantastical" instrument in the
 form of a collection of hand made wooden speaker trumpets - a reference to

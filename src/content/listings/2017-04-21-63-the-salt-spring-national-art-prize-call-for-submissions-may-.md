@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 63
 type: "CALL"
+venue: "The Salt Spring National Art Prize"
 summary: "The Salt Spring National Art Prize | CALL FOR SUBMISSIONS | MAY 31"
 ---
 

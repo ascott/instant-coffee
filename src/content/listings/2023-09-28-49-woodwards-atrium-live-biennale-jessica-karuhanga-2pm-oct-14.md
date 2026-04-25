@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 49
 type: "PERFORMANCE"
+venue: "Woodward’s Atrium"
 summary: "Woodward’s Atrium | LIVE Biennale - Jessica Karuhanga | 2PM | OCT 14"
 ---
 

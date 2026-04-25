@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 11
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Tait Waterfront Park Sculptural Pavilion | APR 3"
 ---
 

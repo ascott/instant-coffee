@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 64
 type: "CALL"
+venue: "Arts Territory Exchange"
 summary: "Arts Territory Exchange | Open Call | JUL 15"
 ---
 

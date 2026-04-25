@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 14
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | OPEN CALL FOR SCI-FI FAN-FICTION & FAN-FILMS | MAR 3"
 ---
 

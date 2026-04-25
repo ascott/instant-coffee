@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 3
 type: ""
+venue: "READ Books"
 summary: "READ Books | Book Launch and reading: Jacqueline Turner | APR 11"
 ---
 
@@ -15,7 +16,7 @@ The Ends of the Earth
 
 Book Launch and Reading
 April 11, 2013 at 7pm
-Please join READ for the launch of Jacqueline Turnerâ€™s 'The Ends of 
+Please join READ for the launch of Jacqueline Turner’s 'The Ends of 
 the Earth'. Turner will read from her new book and will be joined by 
 students from her creative writing class at Emily Carr University
 who will read short works prepared especially for this event.
@@ -25,13 +26,13 @@ environmental nightmares, and broken relationships to find love cast
 away at the end of days. Its urban settings are counterbalanced with 
 the idea of escape, deserted islands, and ocean solitudes. In this 
 collection of playful, challenging, and beautiful poems, Jacqueline 
-Turner uses the interrobang â€” a question mark combined with an 
-exclamation point, the excited question â€” as a symbol of our times to 
+Turner uses the interrobang — a question mark combined with an 
+exclamation point, the excited question — as a symbol of our times to 
 move the work through a host of genres. Like notes washed ashore 
 in bottles, this book seeks an exchange. Its scope is as vast as the 
 question of how to survive modernity. In The Ends of the Earth,
 you can smell the salt air or revel in an alternate vision of the future.
-â€”ECW Press, publisher of 'The Ends of the
+—ECW Press, publisher of 'The Ends of the
 Earth'
 
 The following Emily Carr creative writing students will read new work:

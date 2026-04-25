@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 21
 type: ""
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | Compagnie Pedro Pauwels: Sors | SEP 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 14
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | ARTIST TALK: YANG FUDONG | MAY 26"
 ---
 

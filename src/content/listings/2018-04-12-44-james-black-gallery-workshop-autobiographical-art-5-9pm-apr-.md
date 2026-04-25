@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 44
 type: "EDUCATION"
+venue: "James Black Gallery"
 summary: "James Black Gallery | WORKSHOP | Autobiographical Art... | 5-9PM | APR 25"
 ---
 

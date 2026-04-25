@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 1
 type: "CALL"
+venue: "YVR Art Foundation"
 summary: "YVR Art Foundation | Call for Grant Applications"
 ---
 

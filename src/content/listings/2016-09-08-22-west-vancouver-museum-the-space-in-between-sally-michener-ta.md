@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 22
 type: "OPENING"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | The Space in Between: Sally Michener + Tam Irving | SEP 13"
 ---
 

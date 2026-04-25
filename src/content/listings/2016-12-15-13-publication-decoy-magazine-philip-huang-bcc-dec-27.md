@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 13
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Decoy Magazine | Philip Huang Bcc | DEC 27"
 ---
 

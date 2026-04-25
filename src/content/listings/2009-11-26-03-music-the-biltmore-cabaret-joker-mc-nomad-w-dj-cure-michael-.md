@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 3
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | the biltmore cabaret | JOKER + MC NOMAD w/ DJ CURE, MICHAEL RED | NOV 26"
 ---
 

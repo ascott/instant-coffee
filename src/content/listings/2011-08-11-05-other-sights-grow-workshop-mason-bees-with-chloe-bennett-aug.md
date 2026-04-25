@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Righteousness and Recklessness"
 emailDate: "Thu, 11 Aug 2011 11:16:30 -0700"
 number: 5
 type: ""
+venue: "Other Sights"
 summary: "Other Sights | Grow Workshop: Mason Bees with Chloe Bennett | AUG 13"
 ---
 
@@ -37,7 +38,7 @@ nature, and other species, may be a vital part of a rich and
 meaningful existence. Many people feel restless and stressed in 
 urban life, and experiences with nature such as observing life 
 cycles, such as those of the mason bee, can be restorative. Habitat 
-and art, or â€˜habitart,â€™ is fun and enriches the lives of not only the 
+and art, or ‘habitart,’ is fun and enriches the lives of not only the 
 artist, but their neighbours, as well as the surrounding ecosystem. 
 She believes that change starts in your own back yard!
 
@@ -57,7 +58,7 @@ http://othersights.ca/
 http://www.grow-urbanagricultureproject.ca/
 
 Other Sights gratefully acknowledges support from the City of 
-Vancouverâ€™s 125th Anniversary grants program, the Canon 
+Vancouver’s 125th Anniversary grants program, the Canon 
 Community Urban Agriculture Fund, Vancouver Park Board 
 Neighbourhood Matching Fund, the Canada Council for the Arts and 
 Yardworks.
@@ -69,7 +70,7 @@ REGISTER NOW
 
 Contact information was provided to Other Sights for periodic project 
 news and updates.
-Unsubscribe â€¢ Update subscription preferences
+Unsubscribe • Update subscription preferences
 
-Grow Presented by Other Sights for Artistsâ€™ Projects Association 9 - 
+Grow Presented by Other Sights for Artists’ Projects Association 9 - 
 156 E 8th Avenue Vancouver, BC V5T 1R7

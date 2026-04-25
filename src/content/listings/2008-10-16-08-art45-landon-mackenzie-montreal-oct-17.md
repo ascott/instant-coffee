@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 8
 type: ""
+venue: "Art45"
 summary: "Art45 | LANDON MACKENZIE | Montreal | OCT 17"
 ---
 

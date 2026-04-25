@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 7
 type: "OPENING"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Wetland Project | APR 20"
 ---
 

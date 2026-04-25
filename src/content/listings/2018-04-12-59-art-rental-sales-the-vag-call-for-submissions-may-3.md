@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 59
 type: "CALL"
+venue: "Art Rental & Sales @ the VAG"
 summary: "Art Rental & Sales @ the VAG | Call for Submissions | MAY 3"
 ---
 

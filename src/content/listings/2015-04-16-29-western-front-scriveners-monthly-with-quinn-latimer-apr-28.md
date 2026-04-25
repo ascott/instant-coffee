@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 29
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly with Quinn Latimer | APR 28"
 ---
 
@@ -15,7 +16,7 @@ Tuesday, April 28 @ 8pm
 Western Front, 303 East 8th Avenue
 Free Admission
 
-Scrivenerâ€™s Monthly presents an evening with poet, critic, and editor Quinn
+Scrivener’s Monthly presents an evening with poet, critic, and editor Quinn
 Latimer. Latimer will read from new and recent work, including selections
 from Stories, Myths, Ironies, and Other Songs: Conceived, Directed, Edited,
 and Produced by M. Auder (2014) and Anthology, a manuscript-in-process.
@@ -41,16 +42,16 @@ also appears in Boston Review, The Paris Review, and in many artist books
 and critical anthologies. Her lecture-performances, text works, and video
 collaborations have recently been featured at Chisenhale Gallery, London;
 Kunsthalle Zurich, Switzerland; the German Pavilion, Venice Architecture
-Biennale, Italy; Fondation dâ€™Enterprise Galeries Lafayette, Paris; and
+Biennale, Italy; Fondation d’Enterprise Galeries Lafayette, Paris; and
 Qalandia International, Ramallah/Jerusalem. A recipient of an Arts Writing
 Grant from Creative Capitol/Warhol Foundation for her work on contemporary
-feminist art practices, Latimer teaches at Genevaâ€™s Haute Ã©cole dâ€™art et de
+feminist art practices, Latimer teaches at Geneva’s Haute école d’art et de
 design (HEAD), and is currently Editor-in-Chief of Publications for
 documenta 14.
 
 ---
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 not publishing involves readings, performances, and other articulations.

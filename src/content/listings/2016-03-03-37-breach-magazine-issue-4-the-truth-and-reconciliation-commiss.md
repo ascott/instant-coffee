@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 37
 type: "CALL"
+venue: "Breach Magazine"
 summary: "Breach Magazine | Issue 4: The Truth and Reconciliation Commission.. | MAR 31"
 ---
 

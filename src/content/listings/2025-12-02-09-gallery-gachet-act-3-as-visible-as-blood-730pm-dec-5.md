@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 9
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | Act 3: As Visible as Blood | 730PM | DEC 5"
 ---
 

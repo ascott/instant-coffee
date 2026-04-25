@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 12
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Unseen Garden | 5PM | MAR 1"
 ---
 

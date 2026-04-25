@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 26
 type: "EVENT"
+venue: "Richmond Culture Days"
 summary: "Richmond Culture Days | SEPT 20- OCT 13 | SEP 20"
 ---
 

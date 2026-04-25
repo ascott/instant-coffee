@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 12
 type: "EDUCATION"
+venue: "Outsiders and Others [ONLINE]"
 summary: "Outsiders and Others [ONLINE] | Portfolio Review Workshop | 4PM | JAN 29"
 ---
 

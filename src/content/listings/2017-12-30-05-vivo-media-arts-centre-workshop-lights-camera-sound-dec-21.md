@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: independent of allegiance"
 emailDate: "Fri, 29 Dec 2017 19:15:04 -0800"
 number: 5
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | WORKSHOP | Lights, Camera, Sound! | DEC 21"
 ---
 

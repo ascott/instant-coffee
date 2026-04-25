@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 17
 type: ""
+venue: "VIVO Media Arts Centre Archives"
 summary: "VIVO Media Arts Centre Archives | Top Ten: 1982 | JUL 27"
 ---
 

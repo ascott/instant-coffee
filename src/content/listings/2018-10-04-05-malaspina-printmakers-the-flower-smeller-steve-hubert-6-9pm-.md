@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 5
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | The Flower Smeller: Steve Hubert | 6-9PM | OCT 4"
 ---
 

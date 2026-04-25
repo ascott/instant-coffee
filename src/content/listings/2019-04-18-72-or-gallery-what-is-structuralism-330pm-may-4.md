@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 72
 type: "EVENT"
+venue: "Or Gallery"
 summary: "Or Gallery | What Is Structuralism? | 3:30PM | MAY 4"
 ---
 

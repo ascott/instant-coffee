@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 17
 type: "TALK"
+venue: "BAG"
 summary: "BAG | Booster Club Fireside Chat | 2PM | APR 13"
 ---
 

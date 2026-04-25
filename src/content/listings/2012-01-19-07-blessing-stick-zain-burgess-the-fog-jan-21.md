@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 7
 type: ""
+venue: "Blessing Stick"
 summary: "Blessing Stick | ZAIN BURGESS 'THE FOG' | JAN 21"
 ---
 
@@ -25,7 +26,7 @@ Zain Burgess was born and raised in Deep Cove, North Vancouver. He received
 an Associates Degree in Sociology and Philosophy at Capilano University and 
 received a B.F.A. from Emily Carr University of Art and Design with 
 supplementary studies in Berlin at Weissensee Kunsthalle, University of Art and 
-Design. Heâ€™s been living in between Berlin and Vancouver since, basing himself 
+Design. He’s been living in between Berlin and Vancouver since, basing himself 
 out of Vancouver. His work consists of installation, performance, video and 
 sculpture that works with ideas of the cinematic phenomenology and the 
 speculative catharsis of experience. He was recently featured in shows: 

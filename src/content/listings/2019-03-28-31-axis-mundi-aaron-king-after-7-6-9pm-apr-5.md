@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 31
 type: "OPENING"
+venue: "Axis Mundi"
 summary: "Axis Mundi | AARON KING | after 7 | 6-9PM | APR 5"
 ---
 

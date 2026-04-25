@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 14
 type: ""
+venue: "Black&Yellow Gallery"
 summary: "Black&Yellow Gallery | Graham Landin | FEB 9"
 ---
 

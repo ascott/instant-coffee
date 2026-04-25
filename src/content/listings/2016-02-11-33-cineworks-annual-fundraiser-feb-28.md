@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 33
 type: "FUNDRAISER"
+venue: "Cineworks"
 summary: "Cineworks | Annual Fundraiser | FEB 28"
 ---
 

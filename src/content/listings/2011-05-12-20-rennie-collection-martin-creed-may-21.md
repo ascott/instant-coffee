@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 20
 type: ""
+venue: "RENNIE COLLECTION"
 summary: "RENNIE COLLECTION | MARTIN CREED | MAY 21"
 ---
 
@@ -15,8 +16,8 @@ Martin Creed. It is probable that Creed is best known in Vancouver for Work
 No. 851 (2008) his seventy-five foot neon sentiment EVERYTHING IS GOING TO
 BE ALRIGHT, permanently installed at Wing Sang. The phrase should rightly
 be read as a glowing beacon of optimism and conciliation. A converse
-interpretation, however, might lead one to ask â€œbut exactly how good is
-â€˜alrightâ€™? In Work No. 1000: Broccoli prints (2009-2010), a special
+interpretation, however, might lead one to ask “but exactly how good is
+‘alright’? In Work No. 1000: Broccoli prints (2009-2010), a special
 commission to be shown for the very first time during this exhibition, the
 artist halves an imperceptively complex shape, a sprig of broccoli, using
 the exposed plain to conduct printed impressions.
@@ -24,7 +25,7 @@ the exposed plain to conduct printed impressions.
 Martin Creed was born in Wakefield, England in 1968 and currently lives and
 works in London and Alicudi, Italy. He won the Turner Prize in 2001 and in
 recent years has worked on music, dance, writing, sculpture and painting.
-Creedâ€™s recent solo exhibitions and projects include Moscow Museum of
+Creed’s recent solo exhibitions and projects include Moscow Museum of
 Modern Art; Fruitmarket Gallery, Edinburgh; Hiroshima City Museum of
 Contemporary Art, Hiroshima; Ikon Gallery, Birmingham; and the Duveen
 Commission, Tate Britain, London.

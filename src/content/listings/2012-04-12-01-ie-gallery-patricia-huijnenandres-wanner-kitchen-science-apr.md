@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 1
 type: ""
+venue: "ie gallery"
 summary: "ie gallery | Patricia Huijnen/Andres Wanner, Kitchen Science | APR 12"
 ---
 

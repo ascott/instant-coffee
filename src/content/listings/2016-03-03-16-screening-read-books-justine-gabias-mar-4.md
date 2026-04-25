@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | READ Books | Justine Gabias | MAR 4"
 ---
 

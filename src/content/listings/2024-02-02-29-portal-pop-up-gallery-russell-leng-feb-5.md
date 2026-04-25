@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 29
 type: "EXHIBITION"
+venue: "Portal Pop Up Gallery"
 summary: "Portal Pop Up Gallery | Russell Leng | FEB 5"
 ---
 

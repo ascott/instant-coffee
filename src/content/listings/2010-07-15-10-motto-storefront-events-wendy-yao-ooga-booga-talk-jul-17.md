@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  considers relations to be more in
 emailDate: "Thu, 15 Jul 2010 08:45:46 -0700"
 number: 10
 type: ""
+venue: "Motto Storefront Events"
 summary: "Motto Storefront Events | Wendy Yao (Ooga Booga) Talk | JUL 17"
 ---
 
@@ -16,7 +17,7 @@ Motto Storefront is organized by Artspeak and Fillip, with Motto, Berlin.
 Motto Storefront transforms Artspeak into a temporary space for the sale,
 presentation, and discussion of contemporary art publishing. The selection
 of printed matter for the store has been made by Motto, a Berlin and
-ZÃƒÂ¼rich-based bookstore and distributor specializing in experimental, small
+ZÃ¼rich-based bookstore and distributor specializing in experimental, small
 run, and self-published artist books, magazines, and fanzines.
 
 Talks and Workshops
@@ -53,5 +54,5 @@ www.mottodistribution.com
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free

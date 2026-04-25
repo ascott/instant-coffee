@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 7
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Dan Siney - Mid Double Daffy | SEP 5"
 ---
 
@@ -18,7 +19,7 @@ Back Alley Entrance
 info@gallery295.com	
 www.gallery295.com
 
-Gallery 295 proudly presents Dan Sineyâ€™s new photographic diptychs opening 
+Gallery 295 proudly presents Dan Siney’s new photographic diptychs opening 
 September 5th at Gallery 295. This exhibition will also be on display during 
 SWARM.
 
@@ -30,7 +31,7 @@ resonate are those in which he feels the presence of qualities, powers or
 intensities that change his relationship to both these experiences. These 
 might be grouped together under the label â€œthe affective dimension of imagesâ€ .
 
-Affectsâ€“ qualities, powers, intensitiesâ€“ are not generally found in any single 
+Affects– qualities, powers, intensities– are not generally found in any single 
 part of an image, in the frame, composition, subject, form, thematic, or colour, 
 etc. Instead they tend to insist and subsist through a relation of those 
 elements, in the non-personal expressions activated in the whole. By 
@@ -43,7 +44,7 @@ Dan Siney is an ECUAD undergraduate (2003), who was recently selected for
 the AIMA AGO Photography Prize long list. His photographs were also 
 recently published by Inventory Magazine, in a group artist book entitled 
 â€œQueen of Tsawwassenâ€ , with photographers Ali Bosworth, Seth Fluker, 
-Jennilee Marigomen and Chris Taylor. Sineyâ€™s work has been exhibited in 
+Jennilee Marigomen and Chris Taylor. Siney’s work has been exhibited in 
 group shows throughout North America, Europe and Japan, with solo and two-
 person exhibitions in Canada. Most recently his work was exhibited in 
 â€œPhantasmagoriaâ€  at the Presentation House Gallery, and in a collaborative 

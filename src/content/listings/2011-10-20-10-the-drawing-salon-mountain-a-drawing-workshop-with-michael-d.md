@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 10
 type: ""
+venue: "THE DRAWING SALON"
 summary: "THE DRAWING SALON | MOUNTAIN: A drawing workshop with Michael Drebert | OCT 24"
 ---
 
@@ -11,7 +12,7 @@ THE DRAWING SALON is pleased to present
 
 MOUNTAIN: A drawing workshop with artist Michael Drebert.
 
-â€œApproach the mountain freely and openly.
+“Approach the mountain freely and openly.
 What is going on in your mind as you stand still?â€ 
 
 Swami Sivandanda Radha, Hatha Yoga: The Hidden Language: symbols, 
@@ -22,7 +23,7 @@ ADVENTURE WITH YOU TO DRAW WITH MICHAEL DREBERT.
 
 WHAT: Drawing workshop with artist Michael Drebert
 
-WHEN: Monday October 24, 6 â€“ 9 pm
+WHEN: Monday October 24, 6 – 9 pm
 
 WHERE: Malaspina Printmakers, 1555 Duranleau Street, Granville Island, 
 Vancouver. www.malaspinaprintmakers.com
@@ -50,19 +51,19 @@ itself, with contemporary relevance.
 For more information on THE DRAWING SALON go to www.thedrawingsalon.org
 
 MICHAEL DREBERT is currently an artist in residence at Malaspina Printmakers 
-where he is working on a new series of prints. Drebert describes his work as â€œa 
+where he is working on a new series of prints. Drebert describes his work as “a 
 research into the radical potential for performative gestures to be an agent for 
 cultural investigation, and a catalyst for meaningful dialogueâ€  adding that, â€œthe 
 answer to a situation is to begin.â€ 
 
 Using an economy of means, black ink on white paper, his seemingly simple 
-graphic or text-based â€˜signs or postersâ€™, placed in public or private spaces, are 
+graphic or text-based ‘signs or posters’, placed in public or private spaces, are 
 studies into everyday actions and objects often containing quiet gestures 
 towards positive change.
 
 Michael Drebert graduated with a BFA from Emily Carr Institute of Art and 
 Design in 2006, and an MFA from the University of Victoria in 2010; Michael 
-Drebertâ€™s work has been included in the exhibitions: Everything Everyday (2011), 
+Drebert’s work has been included in the exhibitions: Everything Everyday (2011), 
 Vancouver Art Gallery; Make it Strange (2010), Malaspina Printmakers; 
 STARHOUSE (2010), CSA Europe; Sentimental Journey (2009), Contemporary 
 Art Gallery; Available Light (2008), Artspeak; New Forms festival, VIVO Media 
@@ -73,7 +74,7 @@ ABOUT MALASPINA PRINTMAKERS
 
 MALASPINA PRINTMAKERS is a non-profit artist-run centre that supports the 
 development of printmaking as a contemporary art form and promotes and 
-preserves traditional print practice. The centreâ€™s main objectives are to advance 
+preserves traditional print practice. The centre’s main objectives are to advance 
 knowledge of printmaking in the community and facilitate the critical and 
 technical exploration of printmaking in contemporary visual art practice.
 

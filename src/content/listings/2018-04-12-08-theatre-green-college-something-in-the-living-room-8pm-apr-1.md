@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 8
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Green College | SOMETHING IN THE LIVING ROOM | 8PM | APR 12"
 ---
 

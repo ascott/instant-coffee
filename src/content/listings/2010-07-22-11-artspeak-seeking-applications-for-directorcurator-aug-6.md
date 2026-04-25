@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 11
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | seeking applications for Director/Curator | AUG 6"
 ---
 

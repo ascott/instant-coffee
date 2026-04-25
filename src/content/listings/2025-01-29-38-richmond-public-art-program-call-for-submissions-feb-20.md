@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 38
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | CALL FOR SUBMISSIONS | FEB 20"
 ---
 

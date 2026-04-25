@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 19
 type: "EDUCATION"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Youth Photo Workshop: Let's Photo Zine | APR 23"
 ---
 

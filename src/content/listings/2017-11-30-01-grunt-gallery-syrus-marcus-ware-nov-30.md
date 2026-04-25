@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 1
 type: "TALK"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Syrus Marcus Ware | NOV 30"
 ---
 

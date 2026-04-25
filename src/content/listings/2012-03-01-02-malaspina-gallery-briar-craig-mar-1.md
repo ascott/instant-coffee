@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 2
 type: ""
+venue: "Malaspina Gallery"
 summary: "Malaspina Gallery | Briar Craig | MAR 1"
 ---
 
@@ -38,7 +39,7 @@ draw them in and invite them to interpret snippets of text for
 themselves. The exhibition juxtaposes a number of disparate things in
 order to create narrative-like dialogues where individual meanings
 become secondary to new, personally and individually constructed
-content. Words that wouldnâ€™t normally be connected are brought
+content. Words that wouldn’t normally be connected are brought
 together for their provocative and evocative potential. Like the
 absurdist playwrights, Craig tends to think that life is arbitrary and
 illogical. His work cultivates a confrontation with the unexpected.

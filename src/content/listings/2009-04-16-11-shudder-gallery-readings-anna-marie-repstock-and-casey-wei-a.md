@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it's not easy being this hypermobi
 emailDate: "Thu, 16 Apr 2009 08:50:13 -0700"
 number: 11
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Readings: Anna Marie Repstock and Casey Wei | APR 24"
 ---
 

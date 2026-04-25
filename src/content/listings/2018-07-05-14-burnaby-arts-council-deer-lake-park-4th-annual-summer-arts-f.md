@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 14
 type: "EVENT"
+venue: "Burnaby Arts Council - Deer Lake Park"
 summary: "Burnaby Arts Council - Deer Lake Park | 4th Annual Summer Arts Festival | 10AM-5PM | JUL 7"
 ---
 

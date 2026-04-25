@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Righteousness and Recklessness"
 emailDate: "Thu, 11 Aug 2011 11:16:30 -0700"
 number: 4
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Justin Gradin and Ben Jacques | AUG 11"
 ---
 

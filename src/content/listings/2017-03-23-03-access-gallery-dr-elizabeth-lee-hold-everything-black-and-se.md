@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 3
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Dr. Elizabeth Lee: Hold Everything Black and See | MAR 23"
 ---
 

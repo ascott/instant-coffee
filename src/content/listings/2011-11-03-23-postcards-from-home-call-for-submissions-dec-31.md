@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 23
 type: ""
+venue: "Postcards from Home"
 summary: "Postcards from Home | Call for Submissions | DEC 31"
 ---
 

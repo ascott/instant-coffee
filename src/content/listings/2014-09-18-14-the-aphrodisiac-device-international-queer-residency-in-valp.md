@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 14
 type: ""
-summary: "The Aphrodisiac Device | International Queer Residency in ValparaÃ­so, Chile | OCT 15"
+venue: "The Aphrodisiac Device"
+summary: "The Aphrodisiac Device | International Queer Residency in Valparaíso, Chile | OCT 15"
 ---
 
-El Dispositivo AfrodisÃ­aco | The Aphrodisiac Device
+El Dispositivo Afrodisíaco | The Aphrodisiac Device
 
 ✺International Queer Residency in ValparaÃ­so, Chile ✺
 
@@ -21,7 +22,7 @@ community, without eclipsing the local particularities of each culture.
 
 A central goal of the residency is to bring together queer artists,
 activists and cultural creators from around the world and to engage with
-Chilean and ValparaÃ­so LGBTQ art and political histories: to act in
+Chilean and Valparaíso LGBTQ art and political histories: to act in
 mutually beneficial ways to both existing local communities as well as
 visiting artists. Throughout its activities, the residency aims to remain
 critical and conscious of the power dynamics inherent in travel between the
@@ -34,8 +35,8 @@ two-week residency.
 PLACE
 Built upon dozens of steep hills intersected with a dense warren of
 streets, stairways, funicular elevators and alleys overlooking the Pacific
-Ocean. ValparaÃ­so has a rich cultural and political legacy, as the
-countryâ€™s port city. During the golden age of its port, Valparaiso was
+Ocean. Valparaíso has a rich cultural and political legacy, as the
+country’s port city. During the golden age of its port, Valparaiso was
 called Little San Francisco, and it still shares the creative, outsider
 nature with many port cities. Average temperature for summer days in
 January are 17-30 C. January is the dry season, with very little

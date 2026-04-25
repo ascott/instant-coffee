@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 18
 type: ""
+venue: "Klondike Institute of Art and Culture"
 summary: "Klondike Institute of Art and Culture | CALL FOR SUBMISSIONS video | FEB 7"
 ---
 

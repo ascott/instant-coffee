@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 7
 type: ""
+venue: "Trench"
 summary: "Trench | Jen Aitken | APR 12"
 ---
 
@@ -12,7 +13,7 @@ Drawings Opening Thursday, April 12th. 6pm-9pm. Artist in
 attendance. Jen is joining us all the way from Toronto. 
 
 "Never letting the viewer to commit to any one of these references as 
-a starting point Aitkens desire is to â€œevoke brief in-body experiences 
+a starting point Aitkens desire is to “evoke brief in-body experiences 
 and visceral reactionsâ€  to the works. Aitkens sculpture allows the 
 viewer to wander in and out, sensually exploring the forms, their 
 playful nature, possible origins and her exquisite attention to detail." 

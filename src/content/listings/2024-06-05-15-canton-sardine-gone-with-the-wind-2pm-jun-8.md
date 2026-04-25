@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 15
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Gone With the Wind | 2PM | JUN 8"
 ---
 

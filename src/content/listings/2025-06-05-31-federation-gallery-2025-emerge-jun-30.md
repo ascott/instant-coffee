@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 31
 type: "CALL"
+venue: "Federation Gallery"
 summary: "Federation Gallery | 2025 EMERGE | JUN 30"
 ---
 

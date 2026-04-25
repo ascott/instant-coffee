@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 41
 type: "EXHIBITION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Immersion Grade: Tegan Moore, Ryota Sato | AUG 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 7
 type: ""
+venue: "Project Space"
 summary: "Project Space | PRISM IS A DEAD EVENT! | FEB 3"
 ---
 
@@ -25,9 +26,9 @@ Readings by Garry Thomas Morse and Marita Dachsel.
 Hosted by Elizabeth Bachinsky
 
 $5 suggested donation at the door.
-Grab all three mags for $15! (Thatâ€™s a really good deal, yâ€™all.)
+Grab all three mags for $15! (That’s a really good deal, y’all.)
 
-DJ Thatâ€™s So Raven will be spinning us through the evening.
+DJ That’s So Raven will be spinning us through the evening.
 
 There will be cake. Vegan chocolate mousse layer cake.
 

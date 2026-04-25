@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 4
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Holland Bank Cheque | 6-11pm | AUG 17"
 ---
 

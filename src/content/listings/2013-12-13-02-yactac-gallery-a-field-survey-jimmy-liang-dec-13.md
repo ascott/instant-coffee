@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://friendsof439.wordpress.com/
 emailDate: "Fri, 13 Dec 2013 15:55:11 -0800"
 number: 2
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | A Field Survey - Jimmy Liang | DEC 13"
 ---
 

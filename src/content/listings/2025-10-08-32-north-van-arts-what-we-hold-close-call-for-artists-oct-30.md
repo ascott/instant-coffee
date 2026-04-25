@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 32
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | What We Hold Close: Call for Artists | OCT 30"
 ---
 

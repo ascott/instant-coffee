@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 11
 type: "OPENING"
+venue: "CFA & Trapp Projects at NADA"
 summary: "CFA & Trapp Projects at NADA | BE-IN ’67 | 1PM | APR 26"
 ---
 

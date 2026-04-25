@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 22
 type: ""
+venue: "The British School at Rome"
 summary: "The British School at Rome | CALL for Residencies | JAN 31"
 ---
 
 The British School at Rome
-Residencies in Rome 2012â€“13
+Residencies in Rome 2012–13
 
 www.bsr.ac.uk
 
@@ -46,7 +47,7 @@ our communal dining room, 24-hour access to our historic library
 collection, a research grant, and at least one group show; they are 
 tenable for three, nine or twelve months.
 
-The awards available for 2012â€“13 include: the inaugural Rome 
+The awards available for 2012–13 include: the inaugural Rome 
 Fellowship in Contemporary Art; Abbey Scholarship and Fellowships; 
 Australia Council Residencies; the Derek Hill Foundation Scholarship; 
 and the Sainsbury Scholarship in Painting and Sculpture.

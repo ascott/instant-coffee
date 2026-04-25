@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 21
 type: ""
-summary: "Eye Level Gallery | Job Posting â€“ Director of Eye Level Gallery | JUN 3"
+venue: "Eye Level Gallery"
+summary: "Eye Level Gallery | Job Posting – Director of Eye Level Gallery | JUN 3"
 ---
 
 2159 Gottingen Street, Halifax, Nova Scotia
 
-Job Posting â€“ Director of Eye Level Gallery
+Job Posting – Director of Eye Level Gallery
 
 Eyelevel Gallery in Halifax, Nova Scotia is a not-for-profit charitable 
 organization dedicated to the presentation, development and 
@@ -28,9 +29,9 @@ Position Summary
 
 The Director at Eyelevel Gallery is responsible for the day to day 
 operation and management of the gallery. The Director works in 
-consultation with and reports to the galleryâ€™s Board of Directors. In 
+consultation with and reports to the gallery’s Board of Directors. In 
 managing various gallery activities, the Director must interface with the 
-Board of Directors, the community, and the galleryâ€™s volunteer network. 
+Board of Directors, the community, and the gallery’s volunteer network. 
 The Director position also carries the responsibility of being the public 
 face of the gallery.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 21
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | He Lixiao - Minor | 3-6PM | NOV 3"
 ---
 

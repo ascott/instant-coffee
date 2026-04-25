@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 17
 type: "OPENING"
+venue: "South Main Gallery"
 summary: "South Main Gallery | John Mastromonaco | 3-6PM | SEP 7"
 ---
 

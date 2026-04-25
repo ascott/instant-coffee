@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 16
 type: ""
+venue: "Night School Speaker Series"
 summary: "Night School Speaker Series | | MAY 31"
 ---
 
@@ -31,7 +32,7 @@ venues; Jaimie Kendal-Ward on how sex trade workers in the
 Downtown Eastside are portrayed in mainstream media; and Ray Hsu 
 on his new experimental poetry project, the Future is Laser Tag.
 
-Night School will take place at the Rhizome CafÃ©, Thursday May 31st 
+Night School will take place at the Rhizome Café, Thursday May 31st 
 at 7pm. It is by donation but no one will be turned away. Delicious food 
 and drinks will also be available.
 

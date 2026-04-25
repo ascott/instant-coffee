@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | Screening and Artist Talk | JUL 29"
 ---
 

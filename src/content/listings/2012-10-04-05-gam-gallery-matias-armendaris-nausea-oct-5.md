@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 5
 type: ""
+venue: "Gam Gallery"
 summary: "Gam Gallery | Matias Armendaris: Nausea | OCT 5"
 ---
 
@@ -12,7 +13,7 @@ Matias Armendaris: Nausea
 October 5 - November 2
 OPENING RECEPTION: Friday October 5, 8 pm
 
-â€œExistence is not something which lets itself be thought of from a distance: it 
+“Existence is not something which lets itself be thought of from a distance: it 
 must invade you suddenly, master you, weigh heavily on your heart like a 
 great motionless beast â€“or else there is nothing more at all.â€ 
 ― Jean-Paul Sartre, Nausea
@@ -30,8 +31,8 @@ the crude experience of the physical interaction with the world.
 
 Matias Armendaris was born in Ecuador and raised in Quito, Bogota and 
 Mexico City. A current Visual Arts student at the Emily Carr University of Art 
-and Design, Armendaris has also studies printmaking at the FundaciÃ³n 
-EstamperÃ­a QuiteÃ±a in Quito, Ecuador. He has participated in group and solo 
+and Design, Armendaris has also studies printmaking at the Fundación 
+Estampería Quiteña in Quito, Ecuador. He has participated in group and solo 
 exhibition in Canada, Ecuador and Mexico, and was awarded Feature Artist of 
 the Year, 40th Annual Art Fair, the American School Foundation, Mexico 
 City, in 2009.

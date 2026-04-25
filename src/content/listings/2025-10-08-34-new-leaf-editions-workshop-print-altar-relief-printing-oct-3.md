@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 34
 type: "EDUCATION"
+venue: "New Leaf Editions"
 summary: "New Leaf Editions | [WORKSHOP] Print Altar Relief Printing | OCT 31"
 ---
 

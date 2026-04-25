@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 18
 type: "EVENT"
+venue: "UBC Department of Art History, Visual Art & Th"
 summary: "UBC Department of Art History, Visual Art & Th | MFA Interdepartmental Critique | FEB 12"
 ---
 

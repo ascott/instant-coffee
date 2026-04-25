@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 11
 type: "EVENT"
+venue: "CENTRE A"
 summary: "CENTRE A | Derya Akay - Breakfast, Lunch, Dinner & Supper | DEC 13"
 ---
 
@@ -17,7 +18,7 @@ Saturday, December 13
 Free Admission
 
 Derya Akay has taken a playful, painterly approach to transforming Centre
-Aâ€™s gallery space into a unique site for hospitality and sharing. Entitled
+A’s gallery space into a unique site for hospitality and sharing. Entitled
 Breakfast, Lunch, Dinner & Supper, the project consists of a variety of
 food sharing events which include lunches open to the public on a first
 come, first served basis, as well as intimate dinners for limited groups of
@@ -34,11 +35,11 @@ Participation is by donation. Contributions including, but not limited to,
 food ingredients (to be announced weekly), beverages and cash are greatly
 appreciated.
 
-Derya Akayâ€™s practice is a fluid interplay between artistic processes and
+Derya Akay’s practice is a fluid interplay between artistic processes and
 the making of everyday objects, resulting in unique environments and
-experiences. Blurring the contours of artâ€™s definition, Akayâ€™s work
+experiences. Blurring the contours of art’s definition, Akay’s work
 consists of elements made, found or otherwise acquired; the immersive
-environments that result from these elementsâ€™ composition in space; the
+environments that result from these elements’ composition in space; the
 process of facilitating social gatherings; and the various individual and
 social experiences had therein. Further, Akay is interested in how
 knowledge is shared and spread through social exchange, particularly as it

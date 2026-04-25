@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thought terminating clichés and s
 emailDate: "Thu, 17 Jul 2008 09:15:30 -0700"
 number: 7
 type: ""
+venue: "webjournal"
 summary: "webjournal | WWW.ON-CURATING.ORG"
 ---
 

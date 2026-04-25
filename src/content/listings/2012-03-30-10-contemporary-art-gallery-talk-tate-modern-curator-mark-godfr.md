@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 10
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Talk: Tate Modern curator Mark Godfrey | APR 1"
 ---
 
@@ -29,9 +30,9 @@ Williams, Thomas Demand, Simon Starling, Tacita Dean, and others,
 and contributed an essay to the catalogue Light Years: Conceptual Art 
 and the Photograph (Art Institute of Chicago, 2011). In 2007 Godfrey 
 curated Matthew Buckingham: Play the Story at the Camden Arts 
-Centre, London, and in 2009â€“2010, Roni Horn aka Roni Horn, a joint 
+Centre, London, and in 2009–2010, Roni Horn aka Roni Horn, a joint 
 travelling exhibition organized between the Tate Modern and the 
-Whitney Museum of American Art. He curated Francis AlÃ¿s: A Story of 
+Whitney Museum of American Art. He curated Francis Alÿs: A Story of 
 Deception in 2010 and co-curated Gerhard Richter: Panorama in 2011 
 and Alighiero Boetti: Game Plan in 2012. 
 

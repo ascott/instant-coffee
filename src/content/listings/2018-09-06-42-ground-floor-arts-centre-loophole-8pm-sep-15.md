@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 42
 type: "EVENT"
+venue: "Ground Floor Arts Centre"
 summary: "Ground Floor Arts Centre | Loophole | 8PM | SEP 15"
 ---
 

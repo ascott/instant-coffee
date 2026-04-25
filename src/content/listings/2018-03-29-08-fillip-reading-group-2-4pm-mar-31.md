@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 8
 type: "EDUCATION"
+venue: "Fillip"
 summary: "Fillip | Reading Group | 2-4PM | MAR 31"
 ---
 

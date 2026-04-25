@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 21
 type: ""
+venue: "VIVO MEDIA ARTS CENTRE"
 summary: "VIVO MEDIA ARTS CENTRE | SIGNAL & NOISE | CALL | MAR 1"
 ---
 

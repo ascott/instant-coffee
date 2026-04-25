@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 6
 type: ""
+venue: "Langara College"
 summary: "Langara College | The Pavilion | | Closing Party | experimental music by Von Bingen | APR 30"
 ---
 

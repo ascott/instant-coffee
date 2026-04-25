@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 30
 type: "EDUCATION"
+venue: "Recto VRso"
 summary: "Recto VRso | VIRTUAL REALITY EXPERIENCE | Oct 2-4 | OCT 2"
 ---
 

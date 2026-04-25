@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 14
 type: "CALL"
+venue: "ECC, AGE"
 summary: "ECC, AGE | Emerging Creators Incubator | MAR 13"
 ---
 

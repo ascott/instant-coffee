@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 18
 type: ""
+venue: "Survey"
 summary: "Survey | Tell us what you think about Affordable Housing... | JUL 30"
 ---
 
@@ -11,7 +12,7 @@ ARTISTS: Tell us what you think about Affordable Housing and
 Creation Space
 RUNS JULY 1-30
 
-ABOUT the Artistsâ€™ Affordable Housing and Creation Space Survey
+ABOUT the Artists’ Affordable Housing and Creation Space Survey
 
 The City of Richmond and PUBLIC have launched this survey as part of 
 a Community Needs Assessment, to better understand the space 

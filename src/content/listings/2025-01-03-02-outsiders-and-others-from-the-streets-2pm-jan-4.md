@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 2
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | From the Streets... | 2PM | JAN 4"
 ---
 

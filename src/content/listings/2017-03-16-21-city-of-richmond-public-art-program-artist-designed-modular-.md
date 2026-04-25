@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 21
 type: "CALL"
+venue: "City of Richmond Public Art Program"
 summary: "City of Richmond Public Art Program | Artist Designed Modular Seating | MAR 20"
 ---
 

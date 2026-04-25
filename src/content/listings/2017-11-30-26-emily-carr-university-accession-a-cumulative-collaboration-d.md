@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 26
 type: "CALL"
+venue: "Emily Carr University"
 summary: "Emily Carr University | Accession: A Cumulative Collaboration | DEC 6"
 ---
 

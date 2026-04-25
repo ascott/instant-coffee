@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 11
 type: "TALK"
+venue: "Emily Carr University"
 summary: "Emily Carr University | Fraser Muggeridge | 6PM | OCT 9"
 ---
 

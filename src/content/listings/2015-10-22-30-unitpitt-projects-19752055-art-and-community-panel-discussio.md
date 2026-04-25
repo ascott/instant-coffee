@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 30
 type: "TALK"
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | 1975–2055: Art and Community Panel Discussion | NOV 3"
 ---
 

@@ -15,10 +15,10 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-02-07-01-contemporary-art-gallery-ciprian-muresan-and-raymond-boisjol">01. Contemporary Art Gallery | Ciprian Muresan and Raymond Boisjoly | FEB 7</a>
 <a href="/instant-coffee/listings/2013-02-07-02-surrey-art-gallery-artist-talk-with-brendan-tang-feb-7">02. Surrey Art Gallery | Artist Talk with Brendan Tang | FEB 7</a>
 <a href="/instant-coffee/listings/2013-02-07-03-vivo-media-arts-centre-anamnesia-unforgetting-publication-la">03. VIVO Media Arts Centre | Anamnesia: Unforgetting Publication Launch | FEB 7</a>
-<a href="/instant-coffee/listings/2013-02-07-04-caf-for-contemporary-art-soo-yeon-lim-feb-7">04. cafÃ© for contemporary art | Soo Yeon Lim | FEB 7</a>
+<a href="/instant-coffee/listings/2013-02-07-04-caf-for-contemporary-art-soo-yeon-lim-feb-7">04. café for contemporary art | Soo Yeon Lim | FEB 7</a>
 <a href="/instant-coffee/listings/2013-02-07-05-burnaby-art-gallery-the-artist-poster-show-feb-8">05. Burnaby Art Gallery | The Artist Poster Show | FEB 8</a>
 <a href="/instant-coffee/listings/2013-02-07-06-gallery-295-until-we-have-a-helicopter-and-jenny-g-feb-8">06. Gallery 295 | Until We Have A Helicopter and Jenny G | FEB 8</a>
-<a href="/instant-coffee/listings/2013-02-07-07-a-kootenay-school-of-writing-im-in-you-youre-in-me-feb-9">07. A Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me | FEB 9</a>
+<a href="/instant-coffee/listings/2013-02-07-07-a-kootenay-school-of-writing-im-in-you-youre-in-me-feb-9">07. A Kootenay School of Writing | I’m In You, You’re In Me | FEB 9</a>
 <a href="/instant-coffee/listings/2013-02-07-08-yactac-gallery-crossing-erika-nakajima-feb-9">08. Yactac Gallery | Crossing - Erika Nakajima | FEB 9</a>
 <a href="/instant-coffee/listings/2013-02-07-09-art-bank-from-this-peak-to-that-one-part-1-feb-15">09. ART BANK | FROM THIS PEAK TO THAT ONE, PART 1 | FEB 15</a>
 <a href="/instant-coffee/listings/2013-02-07-10-dynamo-arts-association-mike-bourscheid-and-kris-lindskoog-f">10. Dynamo Arts Association | Mike Bourscheid and Kris Lindskoog | FEB 15</a>
@@ -113,7 +113,7 @@ The colloquial use and structure of the written or spoken word figure
 prominently in BoisjolyÃ¢€™s work. He often transforms the 
 meaning and 
 significance of language by rendering phrases indecipherable or by reordering 
-clichÃƒÂ©d aphorisms and mixing metaphors.
+clichÃ©d aphorisms and mixing metaphors.
 
 As It Comes re-assembles passages taken from three North American First 
 Nations autobiographies: Black Elk Speaks, Yellow Wolf His Own Story and 
@@ -142,7 +142,7 @@ Surrey Art Gallery
 Thursday February 7, 7:30pm
 
 â€œGorgeous hybridsâ€ , â€œbold, brash, and whimsicalâ€ , and â€œcompelling mutationsâ€  
-are just a few of the words used to describe BC-based artist Brendan Tangâ€™s 
+are just a few of the words used to describe BC-based artist Brendan Tang’s 
 wildly incongruous ceramic vessels that fuse Asian and Western historical 
 decorative styles with pop art forms derived from Japanese anime and manga.
 
@@ -153,12 +153,12 @@ Tang was born in Ireland to Trinidadian parents who are of Chinese and East
 Indian descent. Working in the unassuming, yet utterly transformable material 
 of clay, he creates a personal narrative with the hybridization of cultures 
 mirroring his identity as an â€œethnically-mixed Asian Canadian.â€  Tangâ€™s work is 
-in Surrey Art Galleryâ€™s new exhibition The future is already here: Alex McLeod 
+in Surrey Art Gallery’s new exhibition The future is already here: Alex McLeod 
 and Brendan Tang guest curated by Rachel Rosenfield Lafo. Admission to the 
 talk is free.
 
 Following significant educational and professional accomplishments, in 2012 
-this young artist won the RBC Emerging Artist Peopleâ€™s Choice Award in 
+this young artist won the RBC Emerging Artist People’s Choice Award in 
 ceramic art at the Gardiner Museum. www.brendantang.com
 
 There will be time for questions and conversation during and following the talk. 
@@ -243,9 +243,9 @@ http://anamnesia.vivomediaarts.com/
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-02-07-04-caf-for-contemporary-art-soo-yeon-lim-feb-7">04. cafÃ© for contemporary art | Soo Yeon Lim | FEB 7</a>
+<a href="/instant-coffee/listings/2013-02-07-04-caf-for-contemporary-art-soo-yeon-lim-feb-7">04. café for contemporary art | Soo Yeon Lim | FEB 7</a>
 ------------------------------------------------------------------------
-cafÃ© for contemporary art presents
+café for contemporary art presents
 
 UNCHARTED VILLAGE II
 
@@ -254,8 +254,8 @@ An exhibition of recent works by Soo Yeon Lim
 February 7 - 28, 2013
 Opening Reception: Thursday February 7, 2013
 
-Uncharted Village II is Seoul, South Korea-based artist Soo Yeon Limâ€™s 
-second solo exhibition at the cafÃ© for contemporary art. In this exhibition, 
+Uncharted Village II is Seoul, South Korea-based artist Soo Yeon Lim’s 
+second solo exhibition at the café for contemporary art. In this exhibition, 
 Lim, dialogues with the fading cultural memory of mountain Caribou. She 
 learned of this memory on a previous visit to North Vancouver when she 
 encountered a text by Marilyn James, the appointed spokesperson of the 
@@ -268,9 +268,9 @@ paper making techniques.
 
 About the artist
 
-With an MFA in Oriental Painting from Ewha Womenâ€™s University in Seoul, 
+With an MFA in Oriental Painting from Ewha Women’s University in Seoul, 
 and an MFA in Printmaking from the State University of New York, New Paltz. 
-Soo Yeon Lim lectures at of Seoul City University and Ehwa Womenâ€™s 
+Soo Yeon Lim lectures at of Seoul City University and Ehwa Women’s 
 Univeristy. Her work is exhibited both in Korea and internationally. 
 
 ------------------------------------------------------------------------
@@ -351,9 +351,9 @@ info@gallery295.com
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-02-07-07-a-kootenay-school-of-writing-im-in-you-youre-in-me-feb-9">07. A Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me | FEB 9</a>
+<a href="/instant-coffee/listings/2013-02-07-07-a-kootenay-school-of-writing-im-in-you-youre-in-me-feb-9">07. A Kootenay School of Writing | I’m In You, You’re In Me | FEB 9</a>
 ------------------------------------------------------------------------
-Iâ€™m In You, Youâ€™re In Me
+I’m In You, You’re In Me
 A Kootenay School of Writing series.
 Poets presenting poems / antipoems / language.
 Spoken; visually projected.
@@ -375,7 +375,7 @@ Kootenay School of Writing
 
 *
 
-bill bissett. â€œwe suspekt each othr uv knowing how to spell th word 
+bill bissett. “we suspekt each othr uv knowing how to spell th word 
 informashun.â€  Sailor. (Talon Books, 1978).
 
 aftr i didnt want to see th
@@ -439,8 +439,8 @@ of them to drop. The man and the woman and the chyld digging thru the snow
 they wer eating maws and dead leaves which they vomitit up agen. Freazing 
 col they wer nor dint have nothing to make a fire with to get warm. Starveling 
 they wer and near come to the end of ther strength.
-The chyld said, â€˜O Im so col Im afeart Im going to dy. If only we had a littl 
-fire to get warm at.â€™
+The chyld said, ‘O Im so col Im afeart Im going to dy. If only we had a littl 
+fire to get warm at.’
 
 The man dint have no way of making a fire he dint have no flint and steal 
 nor nothing. Wood all roun them only there wernt no way he knowit of getting 
@@ -454,37 +454,37 @@ Ive groan so very thin
 Ive got a littl cook pot
 But nothing to put in
 
-The man and the woman said to the clevver looking bloak, â€˜Do you know 
-how to make fire?â€™
-The clevver looking bloak said, â€˜O yes if I know any thing I know that right a 
+The man and the woman said to the clevver looking bloak, ‘Do you know 
+how to make fire?’
+The clevver looking bloak said, ‘O yes if I know any thing I know that right a 
 nuff. Fires my middl name you myt say.â€ 
-The man and the woman said, â€˜Wud you make a littl fire then weare 
-freazing of the col.â€™
-The clevver looking bloak said, â€˜That for you and what for me?â€™
-The man and the woman said, â€˜What do we have for whatfers?â€™ They lookit 
+The man and the woman said, ‘Wud you make a littl fire then weare 
+freazing of the col.’
+The clevver looking bloak said, ‘That for you and what for me?’
+The man and the woman said, ‘What do we have for whatfers?’ They lookit 
 1 to the other and boath at the chyld.
-The clevver looking bloak said, â€˜Iwl tel you what Iwl do Iwl share you my fire 
-and my cook pot if youwl share me what to put in the pot.â€™ He wer looking at 
+The clevver looking bloak said, ‘Iwl tel you what Iwl do Iwl share you my fire 
+and my cook pot if youwl share me what to put in the pot.’ He wer looking at 
 the chyld.
 The man and the woman thot: 2 out of 3 a live is bettern 3 dead. They said, 
-â€˜Done.â€™
+‘Done.’
 They kilt the chyld and drunk its blood and cut up the meat for cooking.
-The clevver looking bloak said, â€˜Iwl show you how to make fire plus Iwl give 
+The clevver looking bloak said, ‘Iwl show you how to make fire plus Iwl give 
 you flint and steal and makings nor you dont have to share me nothing of the 
-meat only the hart.â€™
+meat only the hart.’
 Which he made the fire then and give them flint and steal and makings 
 then he cookt the hart of the chyld and et it.
-The clevver looking bloak said, â€˜Clevverness is gone now but littl by little 
+The clevver looking bloak said, ‘Clevverness is gone now but littl by little 
 itwl come back [...]
 
 *
 
 Dorothy Lusk. â€œOral Tragedy.â€  Oral Tragedy. (Tsunami Editions, 1988).
 
-Ordinance â€˜distancedâ€™ thus, called â€˜desireâ€™ â€“ â€˜Iâ€™ pass out eventually. Often
+Ordinance ‘distanced’ thus, called ‘desire’ – ‘I’ pass out eventually. Often
 this caught too once smothered discord.
 
-Your handâ€™s nerves cut automotivation catching each OWN clasp all
+Your hand’s nerves cut automotivation catching each OWN clasp all
 plunder all stud and stake position.
 
 Can he finalize such fragments in said factitious bootybags? Well,
@@ -497,21 +497,21 @@ strikes so hands dial but like that. A final voice in an ear like a promise.
 Post is delivered at all hours even weekends & vanity anticipates though
 diurnally nonplussed or trust this recurrence.
 
-SENTENCEDâ€”the guy who got stuck in a helicopter & a guy that got
+SENTENCED—the guy who got stuck in a helicopter & a guy that got
 stuck in the house. All hunkering while down with glanders he WILL
-order others. Shiftless foci wonâ€™t observe an onus & left to OWN loss,
-drawl & stick up our chins. Do make distinct then but whereâ€™s the
+order others. Shiftless foci won’t observe an onus & left to OWN loss,
+drawl & stick up our chins. Do make distinct then but where’s the
 difference?
 
 You are left with what you get and
 Your love is dross
 Well you remain whose world is none of mine
-I who lovâ€™st well remain left.
+I who lov’st well remain left.
 
 & shall interference come between me? Jar down mine own gritty polish
 & wonder when saliva segues patina. You get what you are left. While
-distinctions make pleasures own device or fucking doesnâ€™tâ€”hitched to
-mine caboose maraud or donâ€™t.
+distinctions make pleasures own device or fucking doesn’t—hitched to
+mine caboose maraud or don’t.
 
 Appears far greater than all machinery yet always misses affecting more
 than a few monthes or paragraphs. Not usually called tragedy [...]
@@ -612,7 +612,7 @@ Monika Loevenmark holds a BFA from Emily Carr University of Art & Design
 and has studied at Central Saint Martins College in London, UK. She has 
 shown in Vancouver and Sweden and is included in the collection of the 
 Government of Canada. She recently spent a year living on the west coast of 
-Sweden in GÃ¶teborg studying contemporary Scandinavian art and her 
+Sweden in Göteborg studying contemporary Scandinavian art and her 
 heritage.
 
 http://monikaloevenmark.com/
@@ -621,8 +621,8 @@ http://monikaloevenmark.com/
 
 Liz Toohey-Wiese is a graduate from Emily Carr University, receiving her BFA 
 in Visual Arts. In her undergraduate degree she also studied at the University 
-of Victoria and the Ã‰cole Nationale des Beaux-Arts de Lyon. Since graduation 
-she has completed an artist residency at GamlÃ­ SkolÃ­ in HrÃ­sey, Iceland, and 
+of Victoria and the École Nationale des Beaux-Arts de Lyon. Since graduation 
+she has completed an artist residency at Gamlí Skolí in Hrísey, Iceland, and 
 been a part of group and solo shows around Vancouver, B.C. Her work 
 explores relationships between identity and place. Born and raised in the 
 suburbs of Vancouver, her work seeks to intervene in the broader notion of 
@@ -655,7 +655,7 @@ Dynamo Arts Association is pleased present new sculpture and works on
 paper by Mike Bourscheid and Kris Lindskoog.
 
 Mike Bourscheid lives and works in Berlin, Luxembourg and Vancouver. He 
-received a Bachelor in Arts Plastiques at UniversitÃ© d'Aix Marseille, a BFA 
+received a Bachelor in Arts Plastiques at Université d'Aix Marseille, a BFA 
 and MFA from the University of Arts Berlin (UdK), Germany. Recent solo 
 exhibitions include: diese Aufgebocktheit, UdK Berlin, Germany, (2012) 
 Waldi auf dem Dach, Galerie Traversee, Munich, Germany, (2011) Group 
@@ -688,7 +688,7 @@ info@projectspace.ca
 
 January 29, 2013
 
-Project Space presents Negative Pages: Photographic Artistsâ€™ Books 
+Project Space presents Negative Pages: Photographic Artists’ Books 
 Exhibition & Sale
 
 Curated by Julia Dahee Hong
@@ -725,9 +725,9 @@ julia@projectspace.ca
 ------------------------------------------------------------------------
 Luminous Books with Owl Cave
 
-Opening Friday, February 15 2013, 8 pm â€“ runs until March 30 at Unit/Pitt 
-Projects, 15 E Pender St., Vancouver. Public hours are Wednesday â€“ 
-Saturday, noon â€“ 5pm.
+Opening Friday, February 15 2013, 8 pm – runs until March 30 at Unit/Pitt 
+Projects, 15 E Pender St., Vancouver. Public hours are Wednesday – 
+Saturday, noon – 5pm.
 
 London-based artist-curated bookshop Luminous Books finds shelter at 
 Unit/Pitt Projects this month. Luminous Books is a temporary bookshop of 
@@ -735,21 +735,21 @@ second hand fiction, philosophy, and cultural curiosities, alongside reading
 lists and visual compositions, exploring paths of reading and creative 
 intersections between disciplines.
 
-â€œIntersection: first word of simultaneously magical and scientific consonance. 
+“Intersection: first word of simultaneously magical and scientific consonance. 
 Word which I granted the absolute power to link and bind things, according to 
 fabulous logics.â€ 1
 
 A collaboration with artist-led book project Owl Cave, based in San Francisco, 
 responds to the internal logic of building and navigating a collection, with 
-extracts from Owl Caveâ€™s library of feminist literature and a selection of 
-contemporary artistsâ€™ publications. The curated collection of books at Unit/Pitt 
+extracts from Owl Cave’s library of feminist literature and a selection of 
+contemporary artists’ publications. The curated collection of books at Unit/Pitt 
 will shift and alter with each sale, reorganizing itself to accommodate losses 
 and gains, breathing. Collapsible shelving designed for the project by 
 Charlotte Kennedy (Emily Carr University of Art & Design) in response to the 
 idea of a portable library.
 
-A new publication, â€™TO RIDDLE, TO READâ€˜, will launch late March taking the 
-form of a cumulative reading list around Vancouverâ€™s artist-run culture with 
+A new publication, ’TO RIDDLE, TO READ‘, will launch late March taking the 
+form of a cumulative reading list around Vancouver’s artist-run culture with 
 contributions from spaces and projects engaged in alternative activity around 
 the book form and independent art publishing. More details to follow.
 
@@ -827,7 +827,7 @@ materials and small hand-made objects.
 <a href="/instant-coffee/listings/2013-02-07-14-heller-lecture-art-spiegelman-feb-16">14. HELLER LECTURE | Art Spiegelman | FEB 16</a>
 ------------------------------------------------------------------------
 As part of the CO-MIX exhibition, artist Art Spiegelman will be the featured 
-guest of this yearâ€™s HELLER LECTURE.
+guest of this year’s HELLER LECTURE.
 Senior curator Bruce Grenville will be interviewing Spiegelman on stage at the 
 Goldcorp Centre for the Arts about his life, career, and the future of the 
 comics genre.
@@ -873,19 +873,19 @@ Publications
 Group Search & Memory Palace
 Inside the Library Curatorial Initiatives
 A project of the City of Vancouver Public Art Program
-in partnership with Other Sights for Artistsâ€™ Projects and Doryphore 
+in partnership with Other Sights for Artists’ Projects and Doryphore 
 Independent Curators
 Lorna Brown and Karen Love, Editors
 
-Other Sights for Artistsâ€™ Projects and Doryphore Independent Curators, the 
+Other Sights for Artists’ Projects and Doryphore Independent Curators, the 
 Vancouver Public Library and the City of Vancouver Public Art Program are 
 delighted to announce a new publication that documents Group Search and 
 Memory Palace, presented as part of Inside the Library Curatorial Initiatives. 
 In a program running from September 2006 to February 2010, these distinct 
 projects commissioned artists to investigate the potential of the diverse public 
-space of the Vancouver Public Libraryâ€™s Central Branch while addressing the 
-broader philosophical and symbolic meanings of â€˜the libraryâ€™. Designed by 
-Mark Timmings in a â€˜tumblerâ€™ format, the book brings together into one volume 
+space of the Vancouver Public Library’s Central Branch while addressing the 
+broader philosophical and symbolic meanings of ‘the library’. Designed by 
+Mark Timmings in a ‘tumbler’ format, the book brings together into one volume 
 full colour reproductions of nine site-specific art projects along with essays by 
 Renee Baert, Colin Browne, Vanessa Kwan, Derek Simons, Jordan Strom 
 and the project curators, Lorna Brown and Karen Love.
@@ -901,7 +901,7 @@ specialized culture in all its forms.
 Memory Palace [3 artists in the library], curated by Karen Love, presented 
 three projects by Angela Grauerholz, Carol Sawyer and Esther Shalev-Gerz. 
 The resulting artworks took the form of installations in the public areas of the 
-library and atrium, bringing forward the artistsâ€™ perceptions of the multifarious 
+library and atrium, bringing forward the artists’ perceptions of the multifarious 
 roles of the book, and the systems, sociality and sensuality of the spaces in 
 which books circulate.
 Group Search & Memory Palace is the latest addition to Other Sights 
@@ -909,8 +909,8 @@ Pulications<http://othersights.us4.list-manage.com/track/click?
 u=a7d8f1163487b7bb5bb50c801&id=96c1e6208b&e=8c508c9764>. Other 
 print publications include Digital Natives, edited by Lorna Brown and Clint 
 Burnham, and T&T: False Creek with foreword by Patrick Andersson and 
-essay by Jordan Strom. Other Sightsâ€™ essays include InforÂ­mal ComÂ­muÂ­niÂ­ties: 
-CelesÂ­tial, TerÂ­resÂ­trial and SubÂ­terÂ­ranean Movements by Randy Lee Cutler, Last 
+essay by Jordan Strom. Other Sights’ essays include Infor­mal Com­mu­ni­ties: 
+Celes­tial, Ter­res­trial and Sub­ter­ranean Movements by Randy Lee Cutler, Last 
 Chance by Bruce Grenville, Take the Road to the Future Now by Jordan 
 Strom, and The Transcendental Monument by Holly Ward.
 
@@ -931,7 +931,7 @@ er_mailchimp.png]
 ------------------------------------------------------------------------
 February 14 to March 30, 2013
 
-OPENING RECEPTION Thursday, February 14, 5:00 â€“ 8:00 PM
+OPENING RECEPTION Thursday, February 14, 5:00 – 8:00 PM
 
 EVENTS at Satellite Gallery
 
@@ -956,7 +956,7 @@ word to images.
 NEWS! will explore the developments of photography as a medium. The range 
 of pictures reveals many subjects and styles of photography: comic photo-
 ops, famous visitors, civic events, prominent politicians and anonymous 
-citizens, disasters, scandals, and plenty of sportsâ€”a specialty of many staff 
+citizens, disasters, scandals, and plenty of sports—a specialty of many staff 
 photographers. The exhibition also includes material from the archive, and 
 brings to light its intricate filing and indexing systems. 
 
@@ -965,7 +965,7 @@ Province newspapers, and is curated by Helga Pakasaar, Presentation House
 Gallery. 
 
 Satellite Gallery is located at 560 Seymour Street and is open Wednesday to 
-Saturday 12:00 â€“ 6:00 PM.
+Saturday 12:00 – 6:00 PM.
 
 For additional information go to: http://www.satellitegallery.ca or call 604-681-
 8425. 
@@ -1019,7 +1019,7 @@ The Gallery Manager co-ordinates membership administration and
 communications, and is responsible for writing and issuing regular member 
 newsletters, growing the membership and generating renewals. S/he will be 
 an active participant in donor development and audience development 
-initiatives. S/he will manage website content and Centre Aâ€™s social media.
+initiatives. S/he will manage website content and Centre A’s social media.
 
 Strong English language skills are essential to this role as the candidate will 
 be required to undertake a variety of writing tasks including drafting press 
@@ -1052,7 +1052,7 @@ familiarity with Excel and database applications. Centre A uses Giftworks, a
 database application for managing memberships and donations and Access 
 for managing event ticket sales and receipting.
 
-A valid driverâ€™s license and access to a vehicle is an asset. The candidate 
+A valid driver’s license and access to a vehicle is an asset. The candidate 
 must be available to work Saturdays. From time to time the candidate will be 
 required to work after hours to manage or assist with events. S/he will be 
 compensated with time in lieu for any after hours work.
@@ -1087,13 +1087,13 @@ social codes and conventions.
 
 221A is seeking proposals from curators for projects to commence in 2014. 
 Implemented in 2010 the Curatorial Residencies program encourages a 
-diversity of curatorial approaches to the organizationâ€™s mandate. Emerging 
+diversity of curatorial approaches to the organization’s mandate. Emerging 
 and professional curators, curatorial collectives, which may include recent 
 graduates and practicing artists, designers and architects, are encouraged to 
 submit proposals to be developed over the course of one year. Projects may 
 include exhibitions, performances, publications, talks or workshops. 
 Proposals should discuss a viewpoint, theory or approach that the project 
-hopes to foster in relation to the organizationâ€™s mandate.
+hopes to foster in relation to the organization’s mandate.
 
 Selected candidates will be expected to work with the Executive Director to 
 research, plan and execute the project. In addition, selected curators are 
@@ -1106,9 +1106,9 @@ attend meetings through online voice/video chat.
 
 Proposal Guidelines
 Applicants must submit a digital proposal (to bchhay@221a.ca) including:
-â€¢ a one to two-page project proposal, describing the curatorial project;
-â€¢ a current CV of each of the key contributors (maximum 3 pages each);
-â€¢ related images/texts as required (pdf or jpegs, max. 15 images, or up to 10 
+• a one to two-page project proposal, describing the curatorial project;
+• a current CV of each of the key contributors (maximum 3 pages each);
+• related images/texts as required (pdf or jpegs, max. 15 images, or up to 10 
 min. of audio or video). For large format images or videos that cannot be 
 transmitted by email please include instructions for access.
 
@@ -1127,8 +1127,8 @@ applicants under consideration will be contacted.
 Funding
 221A is a non-profit organization funded through a mixture of self-generated 
 income, private donations and public funding. All projects are funded through 
-the organizationâ€™s operating budget at $4,000. This budget may increase 
-through the success of project-based grantsâ€”with average projects ranging 
+the organization’s operating budget at $4,000. This budget may increase 
+through the success of project-based grants—with average projects ranging 
 up to $25,000. All projects must pay fees to artists and curators at the 
 minimum CARFAC rates or higher.
 
@@ -1162,7 +1162,7 @@ Mail Art Gallery, February 1-28, 2013
 >>>
 
 Marc Paris is a Vancouver born artist with a home based studio practice. He 
-is pursuing a bachelorâ€™s degree at Emily Carr University. The shared space of 
+is pursuing a bachelor’s degree at Emily Carr University. The shared space of 
 the Mail Art Gallery with a post office excites his ongoing study of liminality.
 
 >>>
@@ -1197,10 +1197,10 @@ A postcard story starts not with words, but an image. The image can be from
 a store, an online resource, your own creativity or received in the mail. Find a 
 postcard that inspires you and inspires a story. A short story.
 How it works:
-1) Send us a story and a postcardâ€”the relationship can be as strong or as 
+1) Send us a story and a postcard—the relationship can be as strong or as 
 tangential as you like, so long as there is a clear connection between the 
 story and the image.
-2) If youâ€™re not sure where to look for a postcard, you can make your own or 
+2) If you’re not sure where to look for a postcard, you can make your own or 
 visit Wikimedia Commons.
 3) The story can be fiction or non-fiction; maximum length is 500 words.
 For a classic example of a postcard story, read "How to Survive in the 
@@ -1220,7 +1220,7 @@ How to enter:
 ONLINE: Click here. You will be prompted to upload your story, image and 
 pay your entry fee.
 BY MAIL: Send your postcard story, attached to the image with a paper clip 
-(no staples, please), with a cover letÂ­ter, $20 entry fee and note about how you 
+(no staples, please), with a cover let­ter, $20 entry fee and note about how you 
 found out about the contest to:
 Geist Literal Literary Postcard Story Contest
 210-111 West Hastings Street
@@ -1296,10 +1296,10 @@ a gathering of renters in a time of siege
 Deadline for Proposals: March 31, 2013
 Rent Assembly: May 24, 25, 26, 2013
 
-Vancouver, BC â€“ Unceded Coast Salish territory
+Vancouver, BC – Unceded Coast Salish territory
 
-â€˜The rentiers reap what they do not sow.â€™
-â€“Adam Smith, Wealth of Nations (1776)
+‘The rentiers reap what they do not sow.’
+–Adam Smith, Wealth of Nations (1776)
 
 In the struggle for housing in Vancouver, we tend to highlight issues such as 
 social housing, SROs, gentrification, and affordability. But what about rent as 
@@ -1313,7 +1313,7 @@ paying for the catastrophic damage to our own daily lives, rent must be made
 visible.
 
 The Rent Assembly will be a gathering for those who are not among 
-Vancouverâ€™s â€˜playersâ€™ in the housing market. Many of us will never own 
+Vancouver’s ‘players’ in the housing market. Many of us will never own 
 property. We will always have to worry about our homes being sold out from 
 under us, about being renovicted, evicted or rents inflating beyond liveability. 
 Workers will continue to spend more of their paycheques on housing, leaving 
@@ -1324,14 +1324,14 @@ be determined by the prejudices of property managers and landlords who,
 unlike most, can afford to say â€œno.â€ 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate form 
-of accumulation, the seemingly passÃ© 19th Century question of land 
-ownership and rent extraction has returned in force. In todayâ€™s Vancouver, 
+of accumulation, the seemingly passé 19th Century question of land 
+ownership and rent extraction has returned in force. In today’s Vancouver, 
 social movements are attacking the basic landed relations of the city, 
 including the upsurge of Indigenous resistance to colonial land policies 
-through the emergence of â€˜Defenders of the Landâ€™, and the more recent Idle 
+through the emergence of ‘Defenders of the Land’, and the more recent Idle 
 No More; marginal squatters movements; critiques of the modern nation-state 
 from migrant justice movements; and the recent formation of the Vancouver 
-Renterâ€™s Union. 
+Renter’s Union. 
 
 We must understand the relationships between renters, the history of rent, 
 and cultivate new ties between disparate groups of renters. To this end, the 
@@ -1362,9 +1362,9 @@ Renters
 - Austerity and Prosperity: Increasing downward pressure and upwards 
 redistribution
 - First galleries, then bulldozers: Rent and cultural production
-- History of renterâ€™s strikes in Vancouver, from planning instigation to 
+- History of renter’s strikes in Vancouver, from planning instigation to 
 outcomes
-- Mobilize your Complex!: A step-by-step guide to organising a renterâ€™s strike
+- Mobilize your Complex!: A step-by-step guide to organising a renter’s strike
 - How to Fight Your Eviction: A workshop on navigating the Residential 
 Tenancy Act in B.C. 
 - Vampire or Benefactor?: How the construction of the landlord affects rent 
@@ -1375,8 +1375,8 @@ politicians and landed elites
 - What is the role of nonprofit organisations in processes of gentrification?
 - Urban Renewal and Social Mixing: A study of euphemisms around 
 gentrification, urban displacement and accumulation by dispossession
-- A Renterâ€™s Life in a Landlordâ€™s World: A critical comparison of rental laws, 
-and tenantsâ€™ rights in North America, Europe and Asia
+- A Renter’s Life in a Landlord’s World: A critical comparison of rental laws, 
+and tenants’ rights in North America, Europe and Asia
 
 This call for proposals is also a call for spaces. We are looking to coordinate 
 with organizations capable of opening up their spaces. This includes: 
@@ -1395,28 +1395,28 @@ or by post to
 237 Keefer Street, Unit 245, Vancouver BC V6A 1X6 Canada
 
 Main sponsors: The Kootenay School of Writing, The Mainlander and the 
-Vancouver Renterâ€™s Union. 
+Vancouver Renter’s Union. 
 
 The Mainlander is an online publication that lends progressive critique and 
 investigation to the understanding of municipal politics in Metro Vancouver. It 
-has been an invaluable source in the city for unpacking Vancouverâ€™s housing 
+has been an invaluable source in the city for unpacking Vancouver’s housing 
 crisis and providing social movements with the facts necessary to push 
 forward against political and media rhetoric. Spawning from the aftermath of 
-Vancouverâ€™s 2010 Winter Olympics, The Mainlander continues to translate 
+Vancouver’s 2010 Winter Olympics, The Mainlander continues to translate 
 complex, and often misleading, municipal documents and policies that 
 everyone can appreciate.
 
-As a writerâ€™s collective that was formed in 1984 in response to the closure of 
+As a writer’s collective that was formed in 1984 in response to the closure of 
 accessible public education, The Kootenay School of Writing serves as a 
 critical site for working outside the boundaries of traditional theory, practice 
 and teaching of writing. This has informed productive relationships that have 
 bridged working writers with alternative sociabilities, political affiliations, and 
 possible interventions. 
 
-The Vancouver Renterâ€™s Union seeks to organize all Metro Vancouver renters 
+The Vancouver Renter’s Union seeks to organize all Metro Vancouver renters 
 into a union capable of determining housing rights, rents, and stability through 
 collective bargaining and political action, including petitioning, picketing, and 
-rent strikes, as well as through conversion of the cityâ€™s housing stock to 
+rent strikes, as well as through conversion of the city’s housing stock to 
 resident-controlled, not-for-profit cooperatives.
 
 

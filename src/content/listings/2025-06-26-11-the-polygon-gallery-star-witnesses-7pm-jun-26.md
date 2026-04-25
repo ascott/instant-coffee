@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 11
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Star Witnesses | 7PM | JUN 26"
 ---
 

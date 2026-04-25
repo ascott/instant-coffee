@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 24
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Artspeak @ Western Front | Cornelia Wyngaarden: Artist File | APR 25"
 ---
 

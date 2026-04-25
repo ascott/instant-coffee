@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 47
 type: "EXHIBITION"
+venue: "VAG offsite - 1100 W Georgia Street"
 summary: "VAG offsite - 1100 W Georgia Street | Shigeru Ban: Kobe Paper Log House | MAY 11"
 ---
 

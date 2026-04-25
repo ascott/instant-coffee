@@ -12,7 +12,7 @@ listingCount: 40
 
 instant coffee listings / send us your art posts for free 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-03-28-01-western-front-exhibitions-scriveners-monthly-michael-taussig">01. Western Front Exhibitions | Scrivenerâ€™s Monthly; Michael Taussig | MAR 28</a>
+<a href="/instant-coffee/listings/2013-03-28-01-western-front-exhibitions-scriveners-monthly-michael-taussig">01. Western Front Exhibitions | Scrivener’s Monthly; Michael Taussig | MAR 28</a>
 <a href="/instant-coffee/listings/2013-03-28-02-221a-drew-shaffer-mar-28">02. 221A | Drew Shaffer | MAR 28</a>
 <a href="/instant-coffee/listings/2013-03-28-03-dynamo-arts-association-the-wood-and-wave-each-other-know-ma">03. Dynamo Arts Association | The Wood and Wave Each Other Know | MAR 28</a>
 <a href="/instant-coffee/listings/2013-03-28-04-emily-carr-university-of-art-design-on-edge-readings-series-">04. Emily Carr University of Art + Design | On Edge readings series | Sharron Proulx-Turner | MAR 28</a>
@@ -29,25 +29,25 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-03-28-15-paarc-seeking-outreach-development-coordinator-apr-5">15. PAARC | seeking: Outreach Development Coordinator | APR 5</a>
 <a href="/instant-coffee/listings/2013-03-28-16-project-space-adjust-apr-5">16. Project Space | AD/JUST | APR 5</a>
 <a href="/instant-coffee/listings/2013-03-28-17-kamloops-art-gallery-germaine-koh-apr-6">17. Kamloops Art Gallery | Germaine Koh | APR 6</a>
-<a href="/instant-coffee/listings/2013-03-28-18-caf-for-contemporary-art-grace-gordon-collins-apr-11">18. cafÃ© for contemporary art | Grace Gordon-Collins | APR 11</a>
+<a href="/instant-coffee/listings/2013-03-28-18-caf-for-contemporary-art-grace-gordon-collins-apr-11">18. café for contemporary art | Grace Gordon-Collins | APR 11</a>
 <a href="/instant-coffee/listings/2013-03-28-19-the-atlantic-symposium-new-directions-for-art-writing-apr-19">19. THE ATLANTIC SYMPOSIUM | NEW DIRECTIONS FOR ART WRITING | APR 19</a>
 <a href="/instant-coffee/listings/2013-03-28-20-arts-council-windsor-region-socially-engaged-artist-in-resid">20. Arts Council Windsor & Region | Socially-Engaged Artist in Residence | MAY 6</a>
 21. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-03-28-01-western-front-exhibitions-scriveners-monthly-michael-taussig">01. Western Front Exhibitions | Scrivenerâ€™s Monthly; Michael Taussig | MAR 28</a>
+<a href="/instant-coffee/listings/2013-03-28-01-western-front-exhibitions-scriveners-monthly-michael-taussig">01. Western Front Exhibitions | Scrivener’s Monthly; Michael Taussig | MAR 28</a>
 ------------------------------------------------------------------------
-Scrivenerâ€™s Monthly is pleased to present Michael Taussig Talking
+Scrivener’s Monthly is pleased to present Michael Taussig Talking
 About Peasant Tree Farms as A Mode of Thought and Beauty in The Age of
 Agri-Terrorism on Thursday March 28th at 8pm at the Western Front.
 
 Mick Taussig is the author of several books on mimesis, agriculture,
-shamanism, and color. He was once a shipâ€™s doctor and now teaches
+shamanism, and color. He was once a ship’s doctor and now teaches
 anthropology at Columbia University in New York.
 
 Please come early, attendance is limited.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore
+Scrivener’s Monthly is a series of public presentations that explore
 the space between material practices and spoken words: a periodical
 that talks. Set alongside the exhibitions program at Western Front,
 this experiment in â€œnot publishingâ€  involves readings, performances,
@@ -102,7 +102,7 @@ http://221a.ca/stratiform
 
 Upcoming SAD talks:
 - Thursday, March 28th, 8pm: On Objects and Melancholy: Drew
-Shaffer (from BakerÃ¢â‚¬â„¢s Dozen Antiques)
+Shaffer (from Bakerâ€™s Dozen Antiques)
 - Friday, April 5th, 8pm: On Spirits and Sadness: David McIntosh
 (Battery Opera), with Jason Gowans and Mike Love; spirits tasting to
 follow
@@ -141,13 +141,13 @@ from April to October, he looks out upon the treetops from the eight by eight
 foot cabin of the tallest tower in the province. Dan is also a self-taught 
 musician. While living in the woods, he crafted a cello from a solid block of 
 spruce and then taught himself to play it. Because the cello was too big to fit 
-in the cage of the towerâ€™s one hundred and twenty vertical steps, Dan made a 
+in the cage of the tower’s one hundred and twenty vertical steps, Dan made a 
 body-less version, allowing him to practice during his many hours inside the 
-towerâ€™s cabin. By wedging the practice cello between the edge of a small 
-worktable and the cabinâ€™s fiberglass octagonal cupola, Dan discovered that he 
-could more than compensate for the instrumentâ€™s lack of a body. The cabin 
+tower’s cabin. By wedging the practice cello between the edge of a small 
+worktable and the cabin’s fiberglass octagonal cupola, Dan discovered that he 
+could more than compensate for the instrument’s lack of a body. The cabin 
 itself becomes the resonant chamber and the tower becomes the instrument 
-within which the cellist plays. Now, the lookout tower broadcasts Danâ€™s music 
+within which the cellist plays. Now, the lookout tower broadcasts Dan’s music 
 into the immensity of the landscape and the trees become his audience.
 
 The Wood and Wave Each Other Know opened at the Khyber, Halifax and 
@@ -189,10 +189,10 @@ Presented by Ship, an exhibition series programmed by Kuh del Rosario and
 Warren McLachlan @ Dynamo Arts Association. 
 http://cargocollective.com/_Ship_Art_
 
-Open March 28 - 30, 12 â€“ 5 or by appointment through to April 7th. 
+Open March 28 - 30, 12 – 5 or by appointment through to April 7th. 
 
 Dynamo Arts Association
-103 â€“ 30 East 6th Ave
+103 – 30 East 6th Ave
 Vancouver, BC
 
 ------------------------------------------------------------------------
@@ -209,9 +209,9 @@ Vancouver, Coast Salish Territories
 
 Free and open to the public
 
-Sharron Proulx-Turner is a member of the MÃ©tis Nation of Alberta. Originally 
+Sharron Proulx-Turner is a member of the Métis Nation of Alberta. Originally 
 from the Ottawa river valley, Sharron is from Algonquin, Ojibwe, Mohawk, 
-Wyandat, Mi'kmaw, French and Irish ancestry. Sheâ€™s a two-spirit nokomis, 
+Wyandat, Mi'kmaw, French and Irish ancestry. She’s a two-spirit nokomis, 
 mom, writer and community worker. Where the Rivers Join (1995), a memoir 
 (Beckylane), was a finalist for the Edna Staebler Award for creative non-
 fiction. what the auntys say (2002), was a finalist for the Gerald Lampert Prize 
@@ -279,9 +279,9 @@ Rose Bond
 
 Performance and Reception: Friday March 29, 8pm
 
-Residency: March 4 â€“ 28, 2013
+Residency: March 4 – 28, 2013
 
-Installation: March 30 â€“ April 27, 2013
+Installation: March 30 – April 27, 2013
 
 Access Gallery presents Braids a co-residency and installation between 
 emerging Vancouver artist Aja Rose Bond and RUA MINX, an experimental 
@@ -300,14 +300,14 @@ of the residency and the opening of the installation with a performance
 produced by Bond and RUA MINX. 
 
 Aja Rose Bond, a cofounder of the Strathcona Art Gallery (STAG), has built a 
-name for herself in Vancouverâ€™s arts, noise, and activist communities. She 
+name for herself in Vancouver’s arts, noise, and activist communities. She 
 has held residencies at Hammock and Artbank, as well as exhibitions at 
 STAG and Goonies. Her other projects and collaborations include; 
 HYPERCRAFT Studio, The STAG (Strathcona Art Gallery) Library, Craft Pride 
 Procession, Her Jazz Noise Collective, UNARC (Underground Network of 
 Artist-Run Culture), WOEVAN (Witches of East Van), Seamrippers Craft 
 Collective, Diadem (w/partner Gabriel Saloman), In Flux (w/members of 
-Shearing Pinx), DJ Tapes and the Womenâ€™s Studies performance series co-
+Shearing Pinx), DJ Tapes and the Women’s Studies performance series co-
 produced w/VIVO Media Arts Center. Bond is an intermedia artist with 
 background in music, craft and fashion respectively, drawing from the deep 
 influence of D.I.Y. punk, feminisms and magick. Her intimate relationship with 
@@ -316,17 +316,17 @@ use of divination, symbols and geometry to align and reveal the more hidden
 elemental and energetic aspects of the work.
 
 Born in Chicago, Huanca received a BFA from the University of Houston 
-(2004) and studied at StÃ¤delschule, Frankfurt, Germany (2009-10). The recent 
+(2004) and studied at Städelschule, Frankfurt, Germany (2009-10). The recent 
 recipient of a Fulbright Scholarship, Huanca lived and worked in Mexico City 
 in 2012. Huanca has developed a nomadic practice producing site-specific 
 projects and exhibitions throughout the United States, Austria, Norway, Peru, 
 Germany, and Korea. Although embodied in a wide variety of media, her work 
-expresses a thorough engagement with linguistic experimentation. Huancaâ€™s 
+expresses a thorough engagement with linguistic experimentation. Huanca’s 
 work conveys distinctive and precise observations on the function of the 
 garment as an ever-evolving manner of language production and a traditional 
 form of cultural transmission. The results are performative platforms that are a 
 product of a compulsive attitude towards the search for material beacons and 
-parallel experiences. This project will be Huancaâ€™s first in Canada.
+parallel experiences. This project will be Huanca’s first in Canada.
 
 Access Gallery gratefully acknowledges the support of the Canada Council for 
 the Arts, BC Arts Council and the City of Vancouver.
@@ -352,14 +352,14 @@ Kerrisdale.
 
 This gathering will turn around hiding and finding, one of the most basic game 
 mechanisms. As League regular and electronic game designer Ian Verchere 
-says, â€œThe #1 rule of games is this: good things are always found inside other 
+says, “The #1 rule of games is this: good things are always found inside other 
 things.â€ 
 
 Possibilities
 
-Hiding relies on the unforeseen. Placing â€˜easter eggsâ€™ (secret messages or 
+Hiding relies on the unforeseen. Placing ‘easter eggs’ (secret messages or 
 inside jokes) in games and computer programs has a long and cultish history. 
-Found objects â€” objects turned to unexpected uses â€” have made their way 
+Found objects — objects turned to unexpected uses — have made their way 
 into many a work of art. Scavenger hunts turn lived space into a source of 
 bounty. Through http://Geocaching.com there are some two million treasure 
 boxes hidden around the world, many in plain sight. In this vein, the 
@@ -385,10 +385,10 @@ RENT ASSEMBLY - CALL FOR PROPOSALS
 a gathering of renters in a time of siege
 Deadline for Proposals: March 31, 2013
 Rent Assembly: May 24, 25, 26, 2013
-Vancouver, BC â€“ Unceded Coast Salish territory
+Vancouver, BC – Unceded Coast Salish territory
 
-â€˜The rentiers reap what they do not sow.â€™
-â€“Adam Smith, Wealth of Nations (1776)
+‘The rentiers reap what they do not sow.’
+–Adam Smith, Wealth of Nations (1776)
 
 In the struggle for housing in Vancouver, we tend to highlight issues
 such as social housing, SROs, gentrification, and affordability. But
@@ -403,7 +403,7 @@ are to stop paying for the catastrophic damage to our own daily lives,
 rent must be made visible.
 
 The Rent Assembly will be a gathering for those who are not among
-Vancouverâ€™s â€˜playersâ€™ in the housing market. Many of us will never own
+Vancouver’s ‘players’ in the housing market. Many of us will never own
 property. We will always have to worry about our homes being sold out
 from under us, about being renovicted, evicted or rents inflating
 beyond liveability. Workers will continue to spend more of their
@@ -415,14 +415,14 @@ determined by the prejudices of property managers and landlords who,
 unlike most, can afford to say â€œno.â€ 
 
 Two centuries after Adam Smith denounced land rent as an illegitimate
-form of accumulation, the seemingly passÃ© 19th Century question of
-land ownership and rent extraction has returned in force. In todayâ€™s
+form of accumulation, the seemingly passé 19th Century question of
+land ownership and rent extraction has returned in force. In today’s
 Vancouver, social movements are attacking the basic landed relations
 of the city, including the upsurge of Indigenous resistance to
-colonial land policies through the emergence of â€˜Defenders of the
-Landâ€™, and the more recent Idle No More; marginal squatters movements;
+colonial land policies through the emergence of ‘Defenders of the
+Land’, and the more recent Idle No More; marginal squatters movements;
 critiques of the modern nation-state from migrant justice movements;
-and the recent formation of the Vancouver Renterâ€™s Union.
+and the recent formation of the Vancouver Renter’s Union.
 
 We must understand the relationships between renters, the history of
 rent, and cultivate new ties between disparate groups of renters. To
@@ -471,7 +471,7 @@ gentrification?
 ● Urban Renewal and Social Mixing: A study of euphemisms around
 gentrification, urban displacement and accumulation by dispossession
 ● A Renterâ€™s Life in a Landlordâ€™s World: A critical comparison of
-rental laws, and tenantsâ€™ rights in North America, Europe and Asia
+rental laws, and tenants’ rights in North America, Europe and Asia
 
 This call for proposals is also a call for spaces. We are looking to
 coordinate with organizations capable of opening up their spaces. This
@@ -491,7 +491,7 @@ or by post to
 237 Keefer Street, Unit 245, Vancouver BC V6A 1X6 Canada
 
 Main sponsors: The Kootenay School of Writing, The Mainlander and the
-Vancouver Renterâ€™s Union.
+Vancouver Renter’s Union.
 
 www.rentassembly.org
 
@@ -503,13 +503,13 @@ CSA space presents :
 Blueprint
 Jack Brindley
 Guest curated by Victor Wang
-April 4th â€“April 14 2013
+April 4th –April 14 2013
 Opening April 4th 6pm-9pm
 
 La Passion Est Une Chance
 Max Ruf
 Guest curated by Victor Wang
-April 18th â€“April 28th 2013
+April 18th –April 28th 2013
 Opening April 18th 6pm-9pm
 
 During April two solo exhibitions will be presented at CSA Space by Jack 
@@ -521,7 +521,7 @@ applied structurally and conceptually towards the process of staging an
 exhibition. Re-addressing the historical narrative of painting each of the two 
 artists will present work that navigates a contemporary position to painting, 
 allowing for the works, texts, press releases, and organization of space to 
-explore ideas of the â€˜painterlyâ€™.
+explore ideas of the ‘painterly’.
 
 Both artists are MFA candidates at the Royal College of Art, and were 
 recently exhibited in Bloomberg New Contemporaries at the Liverpool 
@@ -530,32 +530,32 @@ Biennale and The Institute of Contemporary Arts, London.
 BLUEPRINT
 Jack Brindley
 Guest curated by Victor Wang
-April 4th â€“April 14 2013
+April 4th –April 14 2013
 Opening April 4th 6pm-9pm
 
 For his first solo exhibition in Canada, Brindley will present an entirely new 
-body of work, for example the paintings â€˜Blueprint (London to Vancouver, 
-2013)â€™ which will be a painting created by its travel from the artist's studio in 
+body of work, for example the paintings ‘Blueprint (London to Vancouver, 
+2013)’ which will be a painting created by its travel from the artist's studio in 
 London to CSA space. The work involves shipping canvas material coated in a 
-photosensitive emulsion (Cyanotype) to the gallery. The work is â€˜developedâ€™ as 
+photosensitive emulsion (Cyanotype) to the gallery. The work is ‘developed’ as 
 it travels, absorbing the light present during its transit. Mirroring this, a text 
 will be made throughout the duration of the show, exploring the processes of 
-â€˜exhibition making' and the staging of space through a dialogue with Wang. 
+‘exhibition making' and the staging of space through a dialogue with Wang. 
 The writing will exist in equivalence to the artworks present.
 
 La Passion Est Une Chance
 Max Ruf
 Guest curated by Victor Wang
-April 18th â€“April 28th 2013
+April 18th –April 28th 2013
 Opening April 18th 6pm-9pm
 
 A canvas turned on its side allowing for the paint to fall and address the 
-deterritorialization of autonomous pigments lost in diaspora. A â€˜rhizomaticâ€™ 
+deterritorialization of autonomous pigments lost in diaspora. A ‘rhizomatic’ 
 structure containing the capacity to circumvent singular acts of color, thought, 
 and gesture. Lying in an expanded field of ahistorical happenings off the 
-â€˜network of paintingâ€™; the material reconstruction is an illusion of the market, 
-and unnecessary in the formulation of the â€˜painterlyâ€™. Where an ephemeral 
-exhibition is neither the start nor end of this division of labor â€“ but rather a 
+‘network of painting’; the material reconstruction is an illusion of the market, 
+and unnecessary in the formulation of the ‘painterly’. Where an ephemeral 
+exhibition is neither the start nor end of this division of labor – but rather a 
 Promethean fire to ignite the spectacle as an independent realm of modern 
 society. Built on a hierarchy of medium specificity, and interdependence of 
 subject/object relationalism, the space beyond the frame is allowed to exist in 
@@ -577,14 +577,14 @@ CONCOURSE ART GALLERY
 EMILY CARR UNIVERSITY OF ART AND DESIGN
 1399 Johnston St, Vancouver
 Phone: 604 844 3800
-March 26 â€” April 6
+March 26 — April 6
 Closing Reception: April 4, 6pm 
 ekphrasis.info
 
-Emily Carrâ€™s first year MAA cohort presents Ekphrasis. An exhibition composed 
+Emily Carr’s first year MAA cohort presents Ekphrasis. An exhibition composed 
 of new work, from design, media arts, and visual arts students Madeleine 
 Campbell, Adam Cristobal, Hoda Hamouda, Amiel Logan, Ann Milligan, Michelle 
-Oâ€™Byrne, Patryk Stasieczek, Pascale ThÃ©orÃªt-Groulx and Melanie Waddell. 
+O’Byrne, Patryk Stasieczek, Pascale Théorêt-Groulx and Melanie Waddell. 
 Signalling the midpoint of the Master of Applied Arts graduate program, this 
 exhibition explores the cohesion of diverse practices and conceptual 
 approaches. 
@@ -600,7 +600,7 @@ April 4 to May 4, 2013
 Opening reception Thursday April 4, 6pm to 8pm
 
 Developed in relationship to his durational photographs, the pieces in
-Owen Kyddâ€™s new exhibition test the boundaries of the video /
+Owen Kydd’s new exhibition test the boundaries of the video /
 photograph dichotomy he is known to supervise. Pulling classical cues
 from composition, painting, collage, and studio practice, the works
 reflect an expanding medium, one that Kydd has cultivated and
@@ -637,31 +637,31 @@ www.vivomediaarts.com/event/crista-dahl-life-rhythm-retrospective
 
 Curated by Lois Klassen and Elisa Ferrari
 
-OPENING APRIL 4, 8PM â€”Sound performance by John Brennan on the 
+OPENING APRIL 4, 8PM —Sound performance by John Brennan on the 
 opening night
-LIVE PERFORMANCES APRIL 18, 8PM â€”Generations, Spiral Brain, 
+LIVE PERFORMANCES APRIL 18, 8PM —Generations, Spiral Brain, 
 Revolution
 
-â€œLife Rhythm, two words that identify my complete concept, is to be 
+“Life Rhythm, two words that identify my complete concept, is to be 
 understood as life and its rhythms experienced through time, space and 
-energy." â€“Crista Dahl
+energy." –Crista Dahl
 
-Conceived in 1966 and formalized in 1970, Crista Dahlâ€™s Life Rhythm is a 
+Conceived in 1966 and formalized in 1970, Crista Dahl’s Life Rhythm is a 
 multimodal art project that aims to provide structure to the diverse information 
 that we encounter: knowledges that encompass prehistoric and current ways 
 of living.
 
 This exhibition features a fully interactive archive of imagery, books and ideas 
 organized through Dahl's personal system of mnemonics, charts, and 
-diagrams. What slips out of Dahlâ€™s cabinets and performances is a repertoire 
-of gestures, portraits, kinesthetic modelsâ€”an ongoing empirical inquiry into 
+diagrams. What slips out of Dahl’s cabinets and performances is a repertoire 
+of gestures, portraits, kinesthetic models—an ongoing empirical inquiry into 
 the visual language of the brain.
 
 In the adjacent Gallery 1965, a collection of Dahl's drawings, paintings, 
 sculpture and video form a context and counterpoint to the dynamics of the 
 Life Rhythm project.
 
-On April 18th three performances â€”Generations, Spiral Brain & Revolutionâ€”
+On April 18th three performances —Generations, Spiral Brain & Revolution—
 will serve as workshops through which audiences can experience Life 
 Rhythm's structures of ancient knowledge and behavior in light of current 
 conditions.
@@ -672,14 +672,14 @@ Media Library& Archive that bears her name.
 
 Born in Seattle in 1934 Crista Dahl describes this retrospective as inclusive of 
 some sixty-five years of creative practice. Continually stymied by political and 
-domestic conditions, Dahlâ€™s pursuit of art training has followed innovative and 
-experimental trajectoriesâ€”from running an artist gallery/jazz coffee house in 
+domestic conditions, Dahl’s pursuit of art training has followed innovative and 
+experimental trajectories—from running an artist gallery/jazz coffee house in 
 Seattle in 1963, to her beatnik life in San Francisco. Living in Haight-Ashbury 
 in the mid 60's had an enduring influence on Dahl's life-work, as did her 
-discovery of Will and Ariel Durantâ€™s "The Story of Civilization" in the Powell 
+discovery of Will and Ariel Durant’s "The Story of Civilization" in the Powell 
 River Library near Lund, where she was sheltering her sons from Vietnam War 
 service in 1968. After moving to Vancouver in 1971 Dahl became an 
-enthusiastic and committed member of some of this cityâ€™s most celebrated 
+enthusiastic and committed member of some of this city’s most celebrated 
 collectives and histories including the Intermedia Society, Little Hot Stove 
 League, the Matrix International Video Exchange Conference, the New Era 
 Social Club, the Satellite Video Exchange Society, Disasteroids, and more. 
@@ -715,8 +715,8 @@ Toronto-based painter Matthew Brown.
 book called "Our Universe"; it was full of mind-blowing colour illustrations of 
 the surfaces of other planets, and of terrifying speculative renderings of what 
 creatures would be capable of inhabiting them. When I first saw Matthew 
-Brownâ€™s paintings, they brought the same strange feelings I received from the 
-book flooding back to me. Originating in tiny abstract line drawings, Brownâ€™s 
+Brown’s paintings, they brought the same strange feelings I received from the 
+book flooding back to me. Originating in tiny abstract line drawings, Brown’s 
 large, enigmatic canvases choreograph uncanny compositions that hover on 
 the precipice of figuration and abstraction. Otherworldy forms seem to flit 
 between solid and ephemeral states as the paintings vibrate with an equally 
@@ -742,7 +742,7 @@ exhibition, "Relax a little; one of your most celebrated nervous tics will be
 your undoing" at Narwhal Art Projects, Toronto curated by Jon Davies and 
 Kristin Weckworth.
 
-Artistâ€™s website: www.birthdaycakeisland.com
+Artist’s website: www.birthdaycakeisland.com
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-03-28-14-grunt-gallery-laura-lamb-apr-5">14. grunt gallery | Laura Lamb | APR 5</a>
@@ -807,7 +807,7 @@ Advocacy:
 - Work closely with President and the Board in addressing issues as they 
 arise
 - Create a consistent and persistent stance for political elections
-- Develop and present PAARCâ€™s profile to a broader public
+- Develop and present PAARC’s profile to a broader public
 - Assist in media strategies and social media outreach
 - Initiate an advocacy program and corresponding fee schedule
 
@@ -815,9 +815,9 @@ Outreach:
 - Research and perform outreach communications to centres across the 
 province, including the emergence of newer artist-run organizations and 
 initiatives
-- Research and create additional profiles of BC ARCâ€™s and publish on 
+- Research and create additional profiles of BC ARC’s and publish on 
 arcpost.ca
-- Broaden the network of ARCâ€™s and collegial organizations regionally, 
+- Broaden the network of ARC’s and collegial organizations regionally, 
 nationally and internationally
 
 Development:
@@ -830,7 +830,7 @@ initiatives
 - Research and develop strategies for arcpost.ca to generate project revenue
 
 To this end, PAARC seeks a qualified candidate who will ideally:
-- Be an active and energetic member of BCâ€™s arts community for min. 4 years 
+- Be an active and energetic member of BC’s arts community for min. 4 years 
 or equivalent experience
 - Possess a strong command of the written word and public speaking
 - Be able to work independently with minimal supervision
@@ -855,18 +855,18 @@ Project Space
 222 E Georgia Street | Vancouver BC | V6A 1Z7 
 info@projectspace.ca
 
-AD/JUST: Exhibition / Launch of Artistsâ€™ Books
+AD/JUST: Exhibition / Launch of Artists’ Books
 Works by Jackie Riccio and Zack Ingram
 Reception: Friday, April 5 at 8pm
 Exhibition: April 4-7, 1pm to 5pm
 
-AD/JUST is a three-day installation and pair of artistsâ€™ books by Baltimore 
+AD/JUST is a three-day installation and pair of artists’ books by Baltimore 
 artists Jackie Riccio and Zack Ingram. The project features site-specific works 
-on paper that explore the artistsâ€™ opposing mechanisms of readjustment and 
-assimilation after moving to a new environment. While Ingramâ€™s works will 
-focus on a recognition of absence and looking to the past, Riccioâ€™s will act as 
+on paper that explore the artists’ opposing mechanisms of readjustment and 
+assimilation after moving to a new environment. While Ingram’s works will 
+focus on a recognition of absence and looking to the past, Riccio’s will act as 
 an attempt to fill this void with something new in the present. Each will also 
-produce a book that extends the projectâ€™s inquiry into our personal 
+produce a book that extends the project’s inquiry into our personal 
 relationships with space and geographic location.
 
 RSVP on Facebook. 
@@ -933,9 +933,9 @@ Assistant Curator, Kamloops Art Gallery, (250) 377-2406 or
 cwillms@kag.bc.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-03-28-18-caf-for-contemporary-art-grace-gordon-collins-apr-11">18. cafÃ© for contemporary art | Grace Gordon-Collins | APR 11</a>
+<a href="/instant-coffee/listings/2013-03-28-18-caf-for-contemporary-art-grace-gordon-collins-apr-11">18. café for contemporary art | Grace Gordon-Collins | APR 11</a>
 ------------------------------------------------------------------------
-cafÃ© for contemporary art presents
+café for contemporary art presents
 
 PHANTASMA
 
@@ -946,10 +946,10 @@ Opening reception: April 11, 7pm -9pm
 
 PHANTASMA explores and deepens an intimate collaboration between Grace 
 Gordon-Collins and her daughter Alexandria, which first began with the 
-creation of ICON, a graphic book where Alexandriaâ€™s poetry met Graceâ€™s 
+creation of ICON, a graphic book where Alexandria’s poetry met Grace’s 
 visual imagery. For this exhibition, this well-established local architect and 
 designer explores her well-honed spatial design capacities to construct a 
-three-dimensional installation of a selected poem from this book: Alexandriaâ€™s 
+three-dimensional installation of a selected poem from this book: Alexandria’s 
 speculative love letter from Frida Kahlo to Leon Trotsky. Accompanied with 
 this piece is the video installation of ICON, which segues into another mother-
 daughter collaborative photography series: Pulp.
@@ -957,7 +957,7 @@ daughter collaborative photography series: Pulp.
 Having created short narratives with female leads in both ICON and Pulp, 
 Grace offers a synopsis of each story through the construction of a cinema-
 graphic scene, with Alexandria posing as the heroine in each setting. Some 
-fictional, some iconic, and others directly related to Graceâ€™s past, the stories 
+fictional, some iconic, and others directly related to Grace’s past, the stories 
 examine an array of female archetypes facing various contemporary narrative 
 circumstances.
 
@@ -977,7 +977,7 @@ influences of her recent studies at Emily Carr and a career in architecture and
 design, has given her work a multi-layered quality: esoteric at times, 
 pragmatic and structured at others. 
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 Cafe for Contemporary Art, All rights reserved.
+Copyright © 2013 Cafe for Contemporary Art, All rights reserved.
 This is a list of journalists, papers, bloggers and more to whom we send our 
 press releases. If you would rather not receive press releases from the cafe for 
 contemporary art you may click unsubscribe. 
@@ -993,7 +993,7 @@ Canada
 ------------------------------------------------------------------------
 THE ATLANTIC SYMPOSIUM: NEW DIRECTIONS FOR ART WRITING
 
-April 19 â€“ 21, 2013
+April 19 – 21, 2013
 Halifax, Nova Scotia
 
 Tickets, registration and session information:
@@ -1005,7 +1005,7 @@ Windsor Foundation Lecture Theatre, Art Gallery of Nova Scotia
 Admission $5 / free for symposium registrants, students and the unwaged.
 
 Symposium on Art Writing
-Saturday April 20, 9:00 â€“ 4:30 pm
+Saturday April 20, 9:00 – 4:30 pm
 NSCAD University Drawing Studio, Room D241 at 5163 Duke Street
 
 Followed by a reception at The Khyber Centre for the Arts, 6-9 pm
@@ -1118,7 +1118,7 @@ Art Auction taking place on Saturday, April 27th, 2013. Volunteers always
 play a key role in helping our staff and board of directors host a fun and 
 memorable evening for our guests. We are looking for people to take on a 
 variety of roles, such as servers, raffle ticket sellers, and art runners. 
-Experience with auction and gala events is not required â€“ everyone is 
+Experience with auction and gala events is not required – everyone is 
 welcome to apply!
 There will be an orientation that volunteers are expected to attend at a later 
 date (to be confirmed).

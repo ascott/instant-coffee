@@ -182,10 +182,10 @@ Regional Arts and Culture Council.
 The international University of British Columbia (UBC) Centre for Cultural
 Planning and Development is offering a new online professional development
 workshop Resourceful Design Innovation by Re-Imagining Existing Urban
-Assets, starting September 10. Donâ€™t miss the opportunity to learn from
+Assets, starting September 10. Don’t miss the opportunity to learn from
 international experts and expand your professional practice. This workshop
 can be taken individually for professional development, or applied to the
-UBC Certificate in Cultural Planning â€“ an international professional
+UBC Certificate in Cultural Planning – an international professional
 learning program delivered 100% online.
 
 Online Workshop: Resourceful Design Innovation by Re-Imagining Existing
@@ -202,7 +202,7 @@ and strategically to increase their functionality and improve the daily
 lives of local residents. From smaller examines of re-purposing materials
 and street structures to larger issues of re-imagining Main Streets, the
 workshop combines practical case studies with examples from the
-instructorâ€™s own international projects; looking at re-using, re-purposing
+instructor’s own international projects; looking at re-using, re-purposing
 and re-imagining a wide variety of urban assets in new and innovative ways.
 
 Instructors: Scott Burnham is an urban strategist and design director

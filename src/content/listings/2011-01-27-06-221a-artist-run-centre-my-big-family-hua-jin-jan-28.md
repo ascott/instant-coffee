@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 6
 type: ""
+venue: "221A Artist Run Centre"
 summary: "221A Artist Run Centre | My Big Family, Hua Jin | JAN 28"
 ---
 

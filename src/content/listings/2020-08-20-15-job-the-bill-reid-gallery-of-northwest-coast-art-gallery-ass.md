@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 15
 type: ""
+venue: "JOB"
 summary: "JOB | The Bill Reid Gallery of Northwest Coast Art | Gallery Associate | AUG 25"
 ---
 

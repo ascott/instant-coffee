@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee meets the Everyday Society and perh
 emailDate: "Thu, 15 May 2008 08:25:05 -0700"
 number: 19
 type: ""
+venue: "Deluge"
 summary: "Deluge | World Telekinesis Competition | MAY 16, Victoria"
 ---
 

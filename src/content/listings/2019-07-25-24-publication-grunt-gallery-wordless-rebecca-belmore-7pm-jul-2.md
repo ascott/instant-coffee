@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 24
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | grunt gallery | Wordless - Rebecca Belmore | 7PM | JUL 28"
 ---
 

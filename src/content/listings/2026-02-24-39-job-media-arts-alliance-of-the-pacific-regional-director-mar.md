@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 39
 type: ""
+venue: "JOB"
 summary: "JOB | Media Arts Alliance of the Pacific | Regional Director | MAR 16"
 ---
 

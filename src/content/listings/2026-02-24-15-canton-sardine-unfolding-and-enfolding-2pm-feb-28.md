@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 15
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Unfolding and Enfolding | 2PM | FEB 28"
 ---
 

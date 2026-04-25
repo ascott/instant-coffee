@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 67
 type: "CALL"
+venue: "WIAprojects"
 summary: "WIAprojects | NASTY GRLS: Community (in) Action | OCT 15"
 ---
 

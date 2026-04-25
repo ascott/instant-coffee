@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 17
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Aleesa Cohene | Media Art Workshop | JAN 24"
 ---
 

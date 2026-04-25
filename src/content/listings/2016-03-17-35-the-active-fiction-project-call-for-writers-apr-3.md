@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 35
 type: "CALL"
+venue: "The Active Fiction Project"
 summary: "The Active Fiction Project | Call for Writers | APR 3"
 ---
 

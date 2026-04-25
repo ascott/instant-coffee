@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 11
 type: "TALK"
+venue: "Franc Gallery"
 summary: "Franc Gallery | The liveliness of Objects | 3pm | MAR 23"
 ---
 

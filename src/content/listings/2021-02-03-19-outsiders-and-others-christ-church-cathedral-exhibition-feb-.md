@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 19
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Christ Church Cathedral exhibition | FEB 8"
 ---
 

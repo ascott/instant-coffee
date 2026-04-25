@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 1
 type: "CALL"
+venue: "The Caetani Centre"
 summary: "The Caetani Centre | Self-Directed Artist in Residence Program"
 ---
 

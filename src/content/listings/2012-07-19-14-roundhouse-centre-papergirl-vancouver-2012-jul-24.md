@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 14
 type: ""
+venue: "Roundhouse Centre"
 summary: "Roundhouse Centre | Papergirl Vancouver 2012 | JUL 24"
 ---
 

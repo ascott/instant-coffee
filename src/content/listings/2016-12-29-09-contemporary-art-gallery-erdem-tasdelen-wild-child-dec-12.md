@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Longlight Debt and Gloves on your 
 emailDate: "Thu, 29 Dec 2016 08:15:42 -0800"
 number: 9
 type: "OPENING"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Erdem Tasdelen - Wild Child | DEC 12"
 ---
 

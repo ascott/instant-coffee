@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Assembly | DIM CINEMA at The Cinematheque | APR 6"
 ---
 

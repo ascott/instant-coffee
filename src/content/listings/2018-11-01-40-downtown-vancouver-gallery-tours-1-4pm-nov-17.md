@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 40
 type: "TALK"
+venue: "Downtown Vancouver Gallery Tours"
 summary: "Downtown Vancouver Gallery Tours | 1-4PM | NOV 17"
 ---
 

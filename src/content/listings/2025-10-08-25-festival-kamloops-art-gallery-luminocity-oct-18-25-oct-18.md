@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 25
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Kamloops Art Gallery | LUMINOCITY | OCT 18 - 25 | OCT 18"
 ---
 

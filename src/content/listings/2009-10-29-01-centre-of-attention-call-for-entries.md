@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 1
 type: ""
+venue: "Centre of Attention"
 summary: "Centre of Attention | CALL FOR ENTRIES"
 ---
 

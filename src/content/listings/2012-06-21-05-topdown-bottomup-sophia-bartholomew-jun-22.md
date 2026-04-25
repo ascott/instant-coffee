@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 5
 type: ""
+venue: "Topdown Bottomup"
 summary: "Topdown Bottomup | Sophia Bartholomew | JUN 22"
 ---
 
@@ -15,7 +16,7 @@ project space.
 
 This years successful candidate is, Sophia Bartholomew, showing with 
 guests,
-Kate Barbaria, Nelly CÃ©sar, and Evan French.
+Kate Barbaria, Nelly César, and Evan French.
 aversionofyourself.tumblr.com
 
 Please join us at the opening, this Friday, TOMORROW! :) June 22 7PM

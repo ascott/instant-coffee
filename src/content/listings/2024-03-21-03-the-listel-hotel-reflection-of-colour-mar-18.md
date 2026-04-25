@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 3
 type: "OPENING"
+venue: "The Listel Hotel"
 summary: "The Listel Hotel | Reflection of Colour | MAR 18"
 ---
 

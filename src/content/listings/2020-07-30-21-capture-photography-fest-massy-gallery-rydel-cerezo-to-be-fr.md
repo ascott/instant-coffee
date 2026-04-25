@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 21
 type: "OPENING"
+venue: "Capture Photography Fest @ Massy Gallery"
 summary: "Capture Photography Fest @ Massy Gallery | Rydel Cerezo \"To Be From The Same Tree\" | 6PM | AUG 6"
 ---
 

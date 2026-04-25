@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 5
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Promised Land - Jenny Hawkinson | MAY 19"
 ---
 

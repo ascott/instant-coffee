@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 18
 type: ""
+venue: "Ross Creek Centre for the Arts"
 summary: "Ross Creek Centre for the Arts | CALL: Artist Colonies and Residencies | SEP 15"
 ---
 

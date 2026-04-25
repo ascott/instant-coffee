@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 13
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Hapt in the Organ Felt by Jordan Milner | JUN 26"
 ---
 

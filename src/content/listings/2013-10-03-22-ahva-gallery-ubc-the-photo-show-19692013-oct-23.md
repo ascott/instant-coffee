@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 22
 type: ""
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | UBC | THE PHOTO SHOW: 1969/2013 | OCT 23"
 ---
 

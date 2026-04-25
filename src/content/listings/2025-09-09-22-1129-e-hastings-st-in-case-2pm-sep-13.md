@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 22
 type: "OPENING"
+venue: "1129 E Hastings St"
 summary: "1129 E Hastings St | [in case] | 2PM | SEP 13"
 ---
 

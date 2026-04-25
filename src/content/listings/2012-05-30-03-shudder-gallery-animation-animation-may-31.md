@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 3
 type: ""
+venue: "SHUDDER GALLERY"
 summary: "SHUDDER GALLERY | ANIMATION ANIMATION | MAY 31"
 ---
 
@@ -19,8 +20,8 @@ CARTOONS
 DRAW ON FILM
 
 
-Jan Å vankmajer
-DuÅ¡an Vukot
+Jan Švankmajer
+Dušan Vukot
 Ub Iwerks
 Len Lye
 John Whitney
@@ -28,7 +29,7 @@ Hans Richter
 Norman Maclaren
 ++ many more!
 
-99Â¢ admission
+99¢ admission
 
 Thursday, May 31st
 9:00pm till Late

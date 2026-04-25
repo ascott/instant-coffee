@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 65
 type: "EDUCATION"
+venue: "Present Art Studio"
 summary: "Present Art Studio | Modern Calligraphy for Beginners | 2-5PM | OCT 26"
 ---
 

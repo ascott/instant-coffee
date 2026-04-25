@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 3
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Corita Kent Film Screening | OCT 27"
 ---
 
@@ -11,7 +12,7 @@ Contemporary Art Gallery, Vancouver
 
 Corita Kent Film Screening - Aaron Rose short documentary
 
-27 October Â· 19:00 - 19:30
+27 October · 19:00 - 19:30
 
 A Free screening of a film about Corita Kent's life and work;
 

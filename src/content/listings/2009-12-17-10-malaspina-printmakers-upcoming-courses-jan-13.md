@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 10
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Upcoming courses | JAN 13"
 ---
 
@@ -41,7 +42,7 @@ medium learnt in Beginning Lithography or the equivalent. Students
 will also be introduced to photo plate lithography.
 
 Gillian Armitage was educated at Western Washington University, USA
-and Kingston-upon â€“Hull College of Art, England. She has instructed
+and Kingston-upon –Hull College of Art, England. She has instructed
 at ECIAD, Vancouver; Kwantlen College, Surrey and Scarborough School
 of Art, U.K. Her artist practice includes painting, lithography,
 intaglio and relief printing.

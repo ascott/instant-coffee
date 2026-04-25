@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 46
 type: "CALL"
+venue: "CMA Journal"
 summary: "CMA Journal | Call for Papers for Issue 4: Slowness | DEC 31"
 ---
 

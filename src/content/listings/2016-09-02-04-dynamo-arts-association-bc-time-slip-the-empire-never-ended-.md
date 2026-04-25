@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 4
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | BC TIME SLIP / The Empire Never Ended | SEP 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 23
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Derya Akay | 6PM | MAY 31"
 ---
 

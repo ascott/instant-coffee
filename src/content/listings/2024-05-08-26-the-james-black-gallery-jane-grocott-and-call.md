@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 26
 type: "OPENING"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | Jane Grocott and Call"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 42
 type: "OPENING"
+venue: "South Main Gallery"
 summary: "South Main Gallery | Charlie Edmiston - Gestalt | 6PM | AUG 9"
 ---
 

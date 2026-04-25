@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 15
 type: "TALK"
+venue: "The Cultch"
 summary: "The Cultch | Collage Works by Ginger Sedlarova and Seema Shah | SEP 12"
 ---
 

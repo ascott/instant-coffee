@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part of the same \"changing west\"
 emailDate: "Fri, 14 Oct 2016 15:00:22 -0700"
 number: 28
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO | Education Coordinator | OCT 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Latincouver | Latin American Film Night | JUL 3"
 ---
 

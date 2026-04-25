@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 5
 type: "OPENING"
+venue: "Sidney and Gertrude Zack Gallery"
 summary: "Sidney and Gertrude Zack Gallery | Morning Star | 7PM | JAN 11"
 ---
 

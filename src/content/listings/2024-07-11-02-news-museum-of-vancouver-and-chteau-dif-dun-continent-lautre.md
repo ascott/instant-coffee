@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 2
 type: ""
+venue: "NEWS"
 summary: "NEWS | Museum of Vancouver and Château d’If | D’un continent à l’autre : l’humain et la nature"
 ---
 

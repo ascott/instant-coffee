@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 29
 type: ""
+venue: "Roundhouse"
 summary: "Roundhouse | Tea Party & Book Launch | OCT 26"
 ---
 

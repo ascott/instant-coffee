@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 17
 type: "EVENT"
+venue: "BAG"
 summary: "BAG | Open Studio with Jenie Gao | 1PM | MAR 30"
 ---
 

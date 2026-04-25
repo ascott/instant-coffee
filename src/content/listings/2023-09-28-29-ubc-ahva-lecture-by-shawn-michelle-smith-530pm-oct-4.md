@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 29
 type: "TALK"
+venue: "UBC AHVA"
 summary: "UBC AHVA | lecture by Shawn Michelle Smith | 530PM | OCT 4"
 ---
 

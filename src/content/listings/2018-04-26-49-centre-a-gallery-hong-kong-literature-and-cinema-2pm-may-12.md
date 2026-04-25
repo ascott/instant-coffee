@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 49
 type: "TALK"
+venue: "Centre A Gallery"
 summary: "Centre A Gallery | Hong Kong Literature and Cinema | 2PM | MAY 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 27
 type: "OPENING"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Big Industrial Zoetrope - Tom Richardson | 8PM | JUN 1"
 ---
 

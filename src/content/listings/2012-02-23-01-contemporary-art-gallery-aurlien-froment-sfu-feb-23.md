@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 1
 type: ""
-summary: "Contemporary Art Gallery | AurÃ©lien Froment @ SFU | FEB 23"
+venue: "Contemporary Art Gallery"
+summary: "Contemporary Art Gallery | Aurélien Froment @ SFU | FEB 23"
 ---
 
 Contemporary Art Gallery
 Vancouver, BC 
 
-French artist AurÃ©lien Froment discusses his practice
+French artist Aurélien Froment discusses his practice
 
 Artist Talk
 
@@ -21,8 +22,8 @@ SFU Woodward's
 149 West Hastings Street
 Vancouver
 
-The Contemporary Art Gallery, the Consulat GÃ©nÃ©ral de France Ã  
-Vancouver and SFU Visual Arts present a talk by visiting artist AurÃ©lien 
+The Contemporary Art Gallery, the Consulat Général de France à 
+Vancouver and SFU Visual Arts present a talk by visiting artist Aurélien 
 Froment.
 
 As a multidisciplinary visual artist, the works of Froment take the form 
@@ -33,23 +34,23 @@ between images and words. In recent pieces, he has focused on the
 nature of presentation and audience expectation to create a new 
 dialogue between people, places and objects.
 
-AurÃ©lien Froment was born in Angers in 1976. Solo exhibitions include 
+Aurélien Froment was born in Angers in 1976. Solo exhibitions include 
 Les Laboratoires d'Aubervilliers, France; Project Arts Centre, Dublin; 
 FRAC Champagne-Ardenne, France; Palais de Tokyo, Paris; Centro 
 Cultural Montehermoso, Spain; Gasworks, London; Centre Culturel 
-FranÃ§ais de Milan; Le Credac, Paris; MusÃ©e dâ€™art contemporain de 
+Français de Milan; Le Credac, Paris; Musée d’art contemporain de 
 Rochechouart. His work has been presented in group exhibitions 
 including Tate Britain, London; Nam June Paik Art Center, Korea; 
 Basel Kunsthalle, Switzerland; Mudam, Luxembourg; Centre 
 Pompidou, Paris; Gwangju Biennale, Korea; Sculpture Center, New 
 York; and Lyon Biennale, France.
 
-Supported by the Consulat GÃ©nÃ©ral de France
+Supported by the Consulat Général de France
 
-Ã  Vancouver.
+à Vancouver.
 
-Image: AurÃ©lien Froment, installation view, Paysages, marines, scÃ¨nes 
-de genre, MusÃ©e dÃ©partemental d'art contemporain de Rochechouart, 
+Image: Aurélien Froment, installation view, Paysages, marines, scènes 
+de genre, Musée départemental d'art contemporain de Rochechouart, 
 2011. Table de rappel, 2008-2011. Collection of FRAC Ile-de-France, 
 Paris.
 

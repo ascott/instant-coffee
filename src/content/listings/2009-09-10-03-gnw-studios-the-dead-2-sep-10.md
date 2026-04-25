@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this might be oversize"
 emailDate: "Thu, 10 Sep 2009 10:10:13 -0700"
 number: 3
 type: ""
+venue: "GNW Studios"
 summary: "GNW Studios | THE DEAD 2 | SEP 10"
 ---
 

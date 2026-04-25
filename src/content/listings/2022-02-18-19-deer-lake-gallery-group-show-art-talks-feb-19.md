@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 19
 type: "EXHIBITION"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Group Show | Art Talks | FEB 19"
 ---
 

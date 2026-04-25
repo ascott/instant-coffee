@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 23
 type: ""
+venue: "SFU; Goldcorp Centre for the Arts"
 summary: "SFU; Goldcorp Centre for the Arts | Experiments in Arab Cinema | NOV 15"
 ---
 
@@ -24,7 +25,7 @@ arab-cinema
 
 THEATRE:
 
-SFUâ€™s School for the Contemporary Arts presents UBU COCU. A play by 
+SFU’s School for the Contemporary Arts presents UBU COCU. A play by 
 Alfred Jarry
 October 22-26 and October 29 - November 2
 Tickets: $15. $5 for students and seniors. Tickets available at the door.
@@ -60,7 +61,7 @@ comics-journalist-joe-sacco
 LITERARY:
 
 Book Launch: Children of Air India, Un/authorized Exhibits and Interjections.
-Join RenÃ©e Sarojini Saklikar as she launches her first book of poetry.
+Join Renée Sarojini Saklikar as she launches her first book of poetry.
 Wednesday, November 13, 2013, 7:00PM. Free
 Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca.
 

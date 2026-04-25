@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 17
 type: "OPENING"
+venue: "Index Gallery"
 summary: "Index Gallery | The Hand of Hah: Group Sculpture Show | MAR 20"
 ---
 

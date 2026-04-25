@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 18
 type: "OPENING"
+venue: "Patron Art House"
 summary: "Patron Art House | Matthew Shields | NOV 9"
 ---
 

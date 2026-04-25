@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 6
 type: ""
+venue: "VAG"
 summary: "VAG | performance by Kevin Schmidt | MAR 20"
 ---
 

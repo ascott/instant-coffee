@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 28
 type: ""
+venue: "Centre A"
 summary: "Centre A | 12Th OurTube: A Video Projection & Talk Event | OCT 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 14
 type: "OPENING"
+venue: "Cartems Donuts Downtown"
 summary: "Cartems Donuts Downtown | Lee Hutzulak: Play Nice | 7-9PM | AUG 11"
 ---
 

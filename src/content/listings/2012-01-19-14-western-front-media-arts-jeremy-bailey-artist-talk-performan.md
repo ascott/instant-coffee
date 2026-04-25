@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 14
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | Jeremy Bailey: Artist Talk + Performance | JAN 26"
 ---
 
@@ -22,7 +23,7 @@ based media artist Jeremy Bailey. Bailey will present a performative artist talk
 and performance in the Grande Luxe Hall, as part of Western Front Media Arts 
 ongoing engagement with networked media arts practice. Bailey as a self-
 proclaimed â€œFamous New Media Artistâ€  employs wry humor to critique â€˜new 
-mediaâ€™ vocabularies and to explore the tension between technology and the 
+media’ vocabularies and to explore the tension between technology and the 
 body through the cartoonish aesthetic of online culture.
 
 Employing expert knowledge of softwear design, Bailey designs specific 
@@ -30,12 +31,12 @@ platforms for both online and live performative contexts, often using consumer
 technology. At Western Front Bailey will perform Nam June Paik for Western 
 Front, in which he designates himself the first practitioner of â€œKinect Artâ€ , in 
 which he utilizes the consumer gaming system Microsoft Kinect, referencing 
-Nam June Paikâ€™s relationship to the invention of video art.
+Nam June Paik’s relationship to the invention of video art.
 
-Western Front Media Arts is presenting Jeremy Baileyâ€™s performance in 
+Western Front Media Arts is presenting Jeremy Bailey’s performance in 
 partnership with Electric Speed at Surrey Art Gallery, an exhibition of works 
 designed for presentation on urban screens curated by Kate Armstrong and 
-Malcolm Levy. Baileyâ€™s new work, Explore The Future of Creativity will be 
+Malcolm Levy. Bailey’s new work, Explore The Future of Creativity will be 
 presented alongside works by John Sasaki, Will Gill and Jillian MacDonald. For 
 more information visit electricspeed.ca
 

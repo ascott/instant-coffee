@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 9
 type: ""
+venue: "OR Gallery"
 summary: "OR Gallery | SALA Works | FEB 27"
 ---
 
@@ -13,11 +14,11 @@ SALA Works
 SALA Works
 University of British Columbia School of Architecture and Landscape 
 Architecture (SALA)
-February 25â€”March 15, 2012
+February 25—March 15, 2012
 Opening Monday Feb 27, 6.30PM
 Curated by Matthew Soules
 
-SALA Works presents a diverse range of projects by faculty at UBCâ€™s 
+SALA Works presents a diverse range of projects by faculty at UBC’s 
 School of Architecture and Landscape Architecture (SALA).
 
 As a dynamic centre of leading design research and pedagogy, SALA 

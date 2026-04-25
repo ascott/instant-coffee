@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 43
 type: "EVENT"
+venue: "select locations"
 summary: "select locations | 13th annual North Shore Art Crawl | OCT 13-15 | OCT 13"
 ---
 

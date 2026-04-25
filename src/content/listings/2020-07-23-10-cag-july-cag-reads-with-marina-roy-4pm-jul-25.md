@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 10
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | July CAG Reads with Marina Roy | 4PM | JUL 25"
 ---
 

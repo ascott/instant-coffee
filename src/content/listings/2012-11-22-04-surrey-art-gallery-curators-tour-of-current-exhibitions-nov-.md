@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 4
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Curator’s Tour of Current Exhibitions | NOV 22"
 ---
 

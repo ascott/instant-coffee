@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 11
 type: ""
+venue: "SFU"
 summary: "SFU | Visual Art Grad Show | RIOT | APR 23"
 ---
 
@@ -18,9 +19,9 @@ Opening dates/times: April 24 to May 2, 2010, Sunday - Sunday 12 - 5pm
 RIOT is the graduation exhibition of the 2010 BFA visual art students from the School for 
 Contemporary Art at Simon Fraser University.
 
-This exhibition brings together final works by SFUâ€™s graduating BFA Visual Arts students. Materially 
+This exhibition brings together final works by SFU’s graduating BFA Visual Arts students. Materially 
 and methodologically diverse, these artworks demonstrate a critical approach to studio practice and 
-a considered relationship to contemporary art discourse, while reflecting the schoolâ€™s 
+a considered relationship to contemporary art discourse, while reflecting the school’s 
 interdisciplinary mandate.
 
 With works by Kyle Halliday, Olivia Dunbar, Mireille Lo, Abbey Neil, Simon Murtagh, Jainy Lastoria, 

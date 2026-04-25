@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 2
 type: "OPENING"
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | Towards a Fictional History of Colour | JUN 25"
 ---
 

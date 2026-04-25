@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 9
 type: ""
+venue: "ECU"
 summary: "ECU | graduation exhibitions | MAY 1"
 ---
 
@@ -11,7 +12,7 @@ Emily Carr graduation exhibitions
 
 Join us as we showcase the work of our 2010 Graduates and Undergraduates.
 
-These exhibitions highlight studentsÃ¢ï¿½ï¿½ creativity and innovation across
+These exhibitions highlight studentsâ�� creativity and innovation across
 visual arts,
 
 media and design. Exhibitions are free and open to the public.

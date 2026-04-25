@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 18
 type: "OPENING"
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | Tin Can Studio Residency & Super Cool Tuesdays | APR 1"
 ---
 
@@ -22,9 +23,9 @@ creative community.
 Super Cool Tuesdays, also known as Contemporary Arts 101, is a drop-in
 speaker series involving local and visiting artists in conversation with
 SFU students, faculty, and residents of the DTES. Super Cool Tuesdays is a
-community program, now organized by Andrea Creamer of SFUâ€™s Vancity Office
+community program, now organized by Andrea Creamer of SFU’s Vancity Office
 of Community Engagement. The series is also a Community Partnership program
-with the PHSâ€™s Drug Users Resource Centre and takes place at the Interurban
+with the PHS’s Drug Users Resource Centre and takes place at the Interurban
 Gallery at the corner of Hastings and Carrall Streets. By fostering
 informal conversations about art and art practices, Super Cool Tuesdays
 addresses a range of social and political topics, while also responding to
@@ -34,7 +35,7 @@ Bitter, Althea Thauberger, Walter Scott, Cathy Busby, the Instant Coffee
 collective, Damian Moppett and Jeneen Frei Njootli. Many of the
 participating artists make work that is based on social justice, activism,
 relational practices and other related and unrelated approaches. Other
-artistâ€™s use informal and accessible materials, found objects, pop cultural
+artist’s use informal and accessible materials, found objects, pop cultural
 references, and humor. All of them encourage active engagement as a way to
 help examine our contemporary moment. Ultimately, the goal of Super Cool
 Tuesdays is to provide a safe and open opportunity for people who may
@@ -65,7 +66,7 @@ University of Art + Design in 2010.
 
 Jenny Lee Craig is an artist and a creative facilitator. Her projects are
 diverse and interdisciplinary, and often aim to be community engaged. The
-extensive list of her lifeâ€™s highlights so far include competing in FINA
+extensive list of her life’s highlights so far include competing in FINA
 World Championships with her Synchronized Swimming team, writing a play
 about a tender jewel that goes for a journey in a giant hat, and dancing
 back-up for the francophone rap sensation Donzelle.

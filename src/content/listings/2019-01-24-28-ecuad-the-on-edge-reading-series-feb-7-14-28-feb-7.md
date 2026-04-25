@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 28
 type: "EVENT"
+venue: "ECUAD"
 summary: "ECUAD | The On Edge Reading Series | FEB 7, 14, 28 | FEB 7"
 ---
 

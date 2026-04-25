@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 30
 type: "EVENT"
+venue: "Nikkei Museum"
 summary: "Nikkei Museum | Nikkei Matsuri | SEPT 1-3 | SEP 1"
 ---
 

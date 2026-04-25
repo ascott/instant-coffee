@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 46
 type: "CALL"
+venue: "VIVO"
 summary: "VIVO | MENTORSHIP | OCT 22"
 ---
 

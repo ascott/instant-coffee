@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 15
 type: "OPENING"
+venue: "The Phoenix Gallery"
 summary: "The Phoenix Gallery | Untitled Art Group | OCT 24"
 ---
 

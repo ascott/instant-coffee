@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 4
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | R Space | ApertureTheaterworks Society | MAY 24-26th | 730PM | MAY 24"
 ---
 

@@ -28,7 +28,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-10-20-16-audain-gallery-book-launch-denise-oleksijczuks-the-first-pan">16. Audain Gallery | book launch | Denise Oleksijczuk's The First Panoramas | OCT 27</a>
 <a href="/instant-coffee/listings/2011-10-20-17-catriona-jeffries-people-things-enter-exit-oct-27">17. Catriona Jeffries | People Things Enter Exit | OCT 27</a>
 <a href="/instant-coffee/listings/2011-10-20-18-ecu-on-edge-readings-series-jen-currin-and-shauna-paull-oct-">18. ECU | On Edge readings series | Jen Currin and Shauna Paull | OCT 27</a>
-<a href="/instant-coffee/listings/2011-10-20-19-blim-gallery-cute-to-kill-ii-special-halloween-edition-oct-2">19. Blim Gallery | Cute to Kill II â€” Special Halloween Edition | OCT 28</a>
+<a href="/instant-coffee/listings/2011-10-20-19-blim-gallery-cute-to-kill-ii-special-halloween-edition-oct-2">19. Blim Gallery | Cute to Kill II — Special Halloween Edition | OCT 28</a>
 <a href="/instant-coffee/listings/2011-10-20-20-satellite-gallery-nature-knowledge-and-the-knower-oct-28">20. Satellite Gallery | Nature, Knowledge and the Knower | OCT 28</a>
 <a href="/instant-coffee/listings/2011-10-20-21-yactac-gallery-mahal-oct-28">21. Yactac Gallery | MAHAL | OCT 28</a>
 <a href="/instant-coffee/listings/2011-10-20-22-maraya-project-events-salons-soundwalk-with-jean-routhier-oc">22. Maraya Project events & salons | Soundwalk with Jean Routhier | OCT 29</a>
@@ -42,7 +42,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-10-20-01-goethe-satellite-vancouver-4-new-projects-coming-soon">01. Goethe Satellite Vancouver | 4 New Projects | coming soon</a>
 ------------------------------------------------------------------------
-After a successful start with the Freie Internationale Tankstelle, or FIT, a â€œfueling 
+After a successful start with the Freie Internationale Tankstelle, or FIT, a “fueling 
 station for the creative spiritâ€  by Berlin artist Dida Zende, which took the form of a 
 custom architecture built from shipping containers at the Waldorf Hotel, four new 
 projects have been announced for the Goethe Satellite Vancouver.
@@ -53,23 +53,23 @@ Goethe Satellite @ Fillip
 Olaf Nicolai: Intangible Economies
 November 2011 - Internationally renowned Berlin-based artist Olaf Nicolai, 
 whose wide-ranging, conceptually-driven work often engages with notions of 
-exchange and economy, will travel to Vancouver to parÂ­ticipate in a 3-day forum 
-from November 18-21 and develop a new artÂ­work on the subject of Intangible 
+exchange and economy, will travel to Vancouver to par­ticipate in a 3-day forum 
+from November 18-21 and develop a new art­work on the subject of Intangible 
 Economies to be published in Fillip.
 
 Goethe Satellite @ 221A 
 Material Arrangement
-November 25 â€“ December 16, 2011 - Curated by Jaz Halloran and Tracy 
+November 25 – December 16, 2011 - Curated by Jaz Halloran and Tracy 
 Stefanucci for the emerging interdisciplinary organization 221A in connection 
-with Berlin-based collective Mindpirates, Material ArrangeÂ­ment examines the role 
+with Berlin-based collective Mindpirates, Material Arrange­ment examines the role 
 of graphic design in the visual environment.
 Artists Andy Chung, Christy Nyiri, Easton West and Anette K. Hansen will 
-produce new works that will be shown in Vancouver and Berlin (JanÂ­uary 2012) 
-as well as circulating in OCW Magazineâ€™s November issue.
+produce new works that will be shown in Vancouver and Berlin (Jan­uary 2012) 
+as well as circulating in OCW Magazine’s November issue.
 
 Goethe Satellite @ Or Gallery
 Exhibition by Annika Rixen
-January 13 â€“ February 18, 2012 - The Or Gallery Vancouver, which last year 
+January 13 – February 18, 2012 - The Or Gallery Vancouver, which last year 
 opened Or Gallery Berlin, the first international satellite space operated by a 
 Canadian artist run centre, will produce a solo show by Berlin-based artist 
 Annika Rixen.
@@ -77,15 +77,15 @@ Annika Rixen.
 Goethe Satellite @ Instant Coffee
 Bild N Sound
 
-February, 2012 - Vancouver and Toronto-based collective Instant CofÂ­fee, whose 
+February, 2012 - Vancouver and Toronto-based collective Instant Cof­fee, whose 
 widely exhibited work highlights the relationship between form and social 
 interaction, will collaborate with German curator Bernd Milla to produce Bild N 
-Sound. During this live musical event three CaÂ­nadian musicians or composers 
+Sound. During this live musical event three Ca­nadian musicians or composers 
 will play a live score for the films and videos selected by Milla.
 
 The Goethe Satellite Vancouver is a two-year initiative of the Goethe-Institut with 
 partner Revised Projects. The goal of the Goethe Satellite is to facilitate unique 
-projects where artists, organizaÂ­tions and collectives have the opportunity to 
+projects where artists, organiza­tions and collectives have the opportunity to 
 collaborate, perform, and show work that expands current artistic practices.
 
 The new projects were chosen after a call for proposals that brought impressive 
@@ -99,7 +99,7 @@ Goethe Satellite Vancouver blog:
 www.goethe.de/satellite
 
 Contact: 
-Jutta BrendemÃ¼hl
+Jutta Brendemühl
 Program Coordinator, Goethe-Institut Toronto
 arts@toronto.goethe.org
 Tel. +1 416 593 5257 ext.205
@@ -194,15 +194,15 @@ October 20-November 20 2011
 Opening Reception Thursday, October 20th, 6-9 p.m.
 
 The showâ€™s title, â€œShapelyâ€ , refers to seemingly unrelated aspects of both artistsâ€™ 
-practices: in Hannah Hughesâ€™ figurative work, the pleasing form of the female 
-subjects, and in Ahbyah Bakerâ€™s abstract painting, the type of objects depicted. 
-Each artistâ€™s work exhibits a common theme of tension between abstraction and 
+practices: in Hannah Hughes’ figurative work, the pleasing form of the female 
+subjects, and in Ahbyah Baker’s abstract painting, the type of objects depicted. 
+Each artist’s work exhibits a common theme of tension between abstraction and 
 representation. 
 
 â€œShapelyâ€  acknowledges the urge to move beyond the technical ability of 
 mimicking representational imagery in painting, even as the desire to 
 demonstrate these very things is fulfilled. The work is neither entirely abstract 
-nor objective. Even if one considers Bakerâ€™s minimalist paintings without the 
+nor objective. Even if one considers Baker’s minimalist paintings without the 
 context of her previous figurative work, the singular shapes employ a central 
 figure/ground relationship typical of most portraiture, including the distorted and 
 masked women of Hannah's work. Shapely suggests that the imaginary border 
@@ -351,14 +351,14 @@ October 20 - November 3, 2011
 Opening Reception: Thursday October 20, 2011 7-10 pm
 
 Youmi Choi, Charmain Hung, Mia Ikeda, Elisha Kim, Lin Lilly Li, Jasmine 
-Schuett, Ye Jin Song, Tony Wu, Gamze YalÃ§in, Kaitlin Zhang, Lucy Zhong, and 
+Schuett, Ye Jin Song, Tony Wu, Gamze Yalçin, Kaitlin Zhang, Lucy Zhong, and 
 Diamond Zhou
 
-This exhibition draws on Susan Buck-Morssâ€™ 1993 text for the journal 
-October, â€œAesthetics and Anaesthetics: Walter Bejaminâ€™s Artwork Essay 
+This exhibition draws on Susan Buck-Morss’ 1993 text for the journal 
+October, “Aesthetics and Anaesthetics: Walter Bejamin’s Artwork Essay 
 Reconsidered.â€  Students explore the etymology of the term â€œaestheticâ€  that Buck-
-Morss discusses as the Greek â€˜aisthitikosâ€™: that which is perceptive by feeling. 
-Buck-Morss writes, â€œAisthisis is the sensory experience of perception. The 
+Morss discusses as the Greek ‘aisthitikos’: that which is perceptive by feeling. 
+Buck-Morss writes, “Aisthisis is the sensory experience of perception. The 
 original field of aesthetics is not art but reality â€“ corporeal, material nature.â€  
 Through the mediums of photography, paint, drawing and installation, the artists 
 will offer their own varied interpretations of this term and explore the evolution of 
@@ -394,24 +394,24 @@ V6B 3J5
 www.blanketgallery.com
 
 Openingon October 21st, Blanket is proud to be presenting Byzantine Feet, a 
-solo exhibition of new works by Paul P. This is the artistâ€™s first exhibition with the 
+solo exhibition of new works by Paul P. This is the artist’s first exhibition with the 
 gallery. 
 
 Out of a cerulean blue background, a ghostlike body glides steadily towards the 
-viewer. This surfer, the sole figure in one of Paul P.â€™s works in oil, is hard to 
+viewer. This surfer, the sole figure in one of Paul P.’s works in oil, is hard to 
 make out at first. Yet, when we do so, it is with a calm sense of recognition 
 mixed with a feeling of wonder. The surfer is a sensual entity, but he is more 
 than that; indeed, he seems to be an emissary from a world where sensuality 
 embraces mysticism and (an ever-so-faint hint of) melancholy. This tripartite 
 phenomenon is inherent in all of these pictures, bringing to mind such works as 
-Kenneth Angerâ€™s seminal three-minute film Kustom Kar Kommandos and the 
+Kenneth Anger’s seminal three-minute film Kustom Kar Kommandos and the 
 novels of Edwardian modernist author Ronald Firbank. The twenty-one works in 
 this show--lithographs, etchings and oils--eschew the trajectories of traditional 
 narratives or socio-political agendas, and instead explore the headiness of the 
 poetic moment which can be mined even from theordinary, but most often from 
 the fringes of North American culture.
 
-Paul P.â€™s oils, like the one in which the mysterious surfer is suspended, glow 
+Paul P.’s oils, like the one in which the mysterious surfer is suspended, glow 
 with rich colour. In one, a sky almost reminiscent of Turner ripples with delicate 
 swaths of apricot-tinged cloud. In another, the crowns of towering palms hover 
 over the viewer. Here the tops of the trees seem disembodied; they bear down 
@@ -420,8 +420,8 @@ somehow long for. The lithographs and etchings are no less striking, deriving
 most of their power from a supple, graphic simplicity. Motorcycles rest idly 
 parked along a route to the beach and its attendant pleasures. A wetsuit-clad 
 figure stands over his board, waiting. In yet another, a nocturnal image, the 
-palms and the stars burst and sparkle at the waterâ€™s edge. What unites all of 
-Paul P.â€™s works in these types of media is the sense that, to paraphrase poet Sir 
+palms and the stars burst and sparkle at the water’s edge. What unites all of 
+Paul P.’s works in these types of media is the sense that, to paraphrase poet Sir 
 John Betjeman, the earth is exhaling. The daytime images shimmer with heat 
 and the languidness of the human body (in this case, the beautiful young man) 
 engaging in rituals of recreation. The nighttime image hints at the emotional (and 
@@ -491,7 +491,7 @@ Facebook: http://www.facebook.com/pages/Michael-Markowsky/
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-10-20-09-cafe-for-contemporary-art-symposium-oct-22">09. Cafe for Contemporary Art | SYMPOSIUM | OCT 22</a>
 ------------------------------------------------------------------------
-SYMPOSIUM: l'Ã©change: identity in a transnational context -- October 22, 2-4PM
+SYMPOSIUM: l'échange: identity in a transnational context -- October 22, 2-4PM
 
 A symposium speaking to the issue of identity in a 
 transnational/globalized/multicultural/postmodern context (and issues around 
@@ -528,12 +528,12 @@ contemporary Canadian art as well as with the more elderly art histories of the
 western canon, she focuses on the social constructedness of artistic 
 intervention in everyday life.
 
-Nelly CÃ©sar is a feminist Mexican artist currently living in Vancouver, Canada. 
+Nelly César is a feminist Mexican artist currently living in Vancouver, Canada. 
 Her work is merely related to misbehavior, perversion and deviancy through 
 exploiting the rhetoric of the "animal" behavior as a political tool of subjective 
 reconfiguration. Her work experiments with contra-institutional relations with her 
 specific cultural and geographic locations. She graduated with a Licenciatura en 
-Artes PlÃ¡sticas from Universidad de las AmÃ©ricas Puebla in 2009, and is 
+Artes Plásticas from Universidad de las Américas Puebla in 2009, and is 
 currently an MFA candidate at UBC. 
 
 Justine Cheung & Peggy Ngan are Vancouver based artists, and are both 
@@ -553,7 +553,7 @@ THE DRAWING SALON is pleased to present
 
 MOUNTAIN: A drawing workshop with artist Michael Drebert.
 
-â€œApproach the mountain freely and openly.
+“Approach the mountain freely and openly.
 What is going on in your mind as you stand still?â€ 
 
 Swami Sivandanda Radha, Hatha Yoga: The Hidden Language: symbols, 
@@ -564,7 +564,7 @@ ADVENTURE WITH YOU TO DRAW WITH MICHAEL DREBERT.
 
 WHAT: Drawing workshop with artist Michael Drebert
 
-WHEN: Monday October 24, 6 â€“ 9 pm
+WHEN: Monday October 24, 6 – 9 pm
 
 WHERE: Malaspina Printmakers, 1555 Duranleau Street, Granville Island, 
 Vancouver. www.malaspinaprintmakers.com
@@ -592,19 +592,19 @@ itself, with contemporary relevance.
 For more information on THE DRAWING SALON go to www.thedrawingsalon.org
 
 MICHAEL DREBERT is currently an artist in residence at Malaspina Printmakers 
-where he is working on a new series of prints. Drebert describes his work as â€œa 
+where he is working on a new series of prints. Drebert describes his work as “a 
 research into the radical potential for performative gestures to be an agent for 
 cultural investigation, and a catalyst for meaningful dialogueâ€  adding that, â€œthe 
 answer to a situation is to begin.â€ 
 
 Using an economy of means, black ink on white paper, his seemingly simple 
-graphic or text-based â€˜signs or postersâ€™, placed in public or private spaces, are 
+graphic or text-based ‘signs or posters’, placed in public or private spaces, are 
 studies into everyday actions and objects often containing quiet gestures 
 towards positive change.
 
 Michael Drebert graduated with a BFA from Emily Carr Institute of Art and 
 Design in 2006, and an MFA from the University of Victoria in 2010; Michael 
-Drebertâ€™s work has been included in the exhibitions: Everything Everyday (2011), 
+Drebert’s work has been included in the exhibitions: Everything Everyday (2011), 
 Vancouver Art Gallery; Make it Strange (2010), Malaspina Printmakers; 
 STARHOUSE (2010), CSA Europe; Sentimental Journey (2009), Contemporary 
 Art Gallery; Available Light (2008), Artspeak; New Forms festival, VIVO Media 
@@ -615,7 +615,7 @@ ABOUT MALASPINA PRINTMAKERS
 
 MALASPINA PRINTMAKERS is a non-profit artist-run centre that supports the 
 development of printmaking as a contemporary art form and promotes and 
-preserves traditional print practice. The centreâ€™s main objectives are to advance 
+preserves traditional print practice. The centre’s main objectives are to advance 
 knowledge of printmaking in the community and facilitate the critical and 
 technical exploration of printmaking in contemporary visual art practice.
 
@@ -650,7 +650,7 @@ fall/winter of 2011. This may lead to future employment opportunities as our
 organizational capacity evolves.
 
 Gallery Gachet is a dynamic collectively-run arts production, education and
-presentation space located in Vancouverâ€™s Downtown Eastside (DTES) built to
+presentation space located in Vancouver’s Downtown Eastside (DTES) built to
 empower participants as artists, administrators and curators. We strive to 
 provide
 a focal point for dialogue amongst outsider/dissident artists. Through artistic
@@ -671,26 +671,26 @@ organizational sustainability grants.
 Gather and collate our past fundraising and strategic plans. These will
 then be updated and expanded.
 Review and assess past and current fundraising approaches/events held
-by different committees and the organization as a whole â€“ how can these
+by different committees and the organization as a whole – how can these
 be coordinated to work together, timed to target specific and relevant
 audiences or times of the year?
 Continue and deepen the research/archiving that has begun to support
 our organizational memory and legacy, referencing collective members,
 
-â€¢
+•
 
-â€¢
+•
 
-â€¢
+•
 
-â€¢
+•
 
-â€¢
+•
 
 gallerygachet
 
 88 East Cordova Street, Vancouver, BC, V6A1K2
-wed â€“ sun, 12 â€“ 6pm
+wed – sun, 12 – 6pm
 www.gachet.org
 
 Oct 12th 2011
@@ -699,65 +699,65 @@ past donors, contributors and sponsors. Determine, and report on, ways in
 which this legacy can be interwoven with a fundraising strategy.
 
 DATABASE IMPLEMENTATION:
-â€¢ Assist with the trial and analysis of options for relational database
+• Assist with the trial and analysis of options for relational database
 software. Generate a database needs assessment report to assist and
 guide the organisation as it secures and implements a new information
-management system â€“ the fields, records, types of reports, entries and
+management system – the fields, records, types of reports, entries and
 other key data that each department will need for its own management,
 grant-writing, reporting and planning.
-â€¢ Train staff and collective members in using the database, as needed.
-â€¢ Populate and test the new system. Assist with the implementation and
+• Train staff and collective members in using the database, as needed.
+• Populate and test the new system. Assist with the implementation and
 transfer of existing member/donor/sponsor data to our new database as
 directed.
-â€¢ Further research and develop written policies and procedures for
+• Further research and develop written policies and procedures for
 information management, privacy, and fundraising, and make
 recommendations.
 
 Preferred Knowledge, Abilities & Skills:
 
-â€¢ Minimum of 2 years of nonprofit fundraising experience required; minimum
+• Minimum of 2 years of nonprofit fundraising experience required; minimum
 of 2 years of grant writing.
-â€¢ Previous experience in community-based, membership-driven nonprofits
+• Previous experience in community-based, membership-driven nonprofits
 essential. Direct experience with artist-run centres and issues related to
 mental health are strong assets.
-â€¢ Strong, proactive organizational skills; attentive to detail. Ability to work
+• Strong, proactive organizational skills; attentive to detail. Ability to work
 independently and effectively under deadline. Excellent communication
 and interpersonal skills. Experience in teaching or facilitating a plus.
-â€¢ Computer proficiency a must. We use Mac and occasionally Ubuntu
+• Computer proficiency a must. We use Mac and occasionally Ubuntu
 operating systems. Competency should include word processing, Internet
 research, data entry. Experience with contact databases and/or
 relational database software (e.g. CiviCRM, Salesforce, Batchbook),
 ideally web-based. Bonus: experience with Adobe Creative Suite, social
 media, Wordpress.
-â€¢ Experience in event planning and promotions a plus.
-â€¢ Post-secondary education (or commensurate experience) should include
+• Experience in event planning and promotions a plus.
+• Post-secondary education (or commensurate experience) should include
 one or more of the following areas: marketing, communications,
 organizational management, or public relations.
-â€¢ Excellent organizational, communication and time management skills.
+• Excellent organizational, communication and time management skills.
 
 gallerygachet
 
 88 East Cordova Street, Vancouver, BC, V6A1K2
-wed â€“ sun, 12 â€“ 6pm
+wed – sun, 12 – 6pm
 www.gachet.org
 
 Oct 12th 2011
 
 Remuneration and contract term:
-â€¢ The Fundraising Coordinator will be paid $20/hr, with a work week of 20
-hours, 3 â€“ 5 days (flexible, with a minimum of 3).
-â€¢ Position commences November 1 st and finishes December 23rd 2011.
+• The Fundraising Coordinator will be paid $20/hr, with a work week of 20
+hours, 3 – 5 days (flexible, with a minimum of 3).
+• Position commences November 1 st and finishes December 23rd 2011.
 
 How to apply:
-â€¢ E-mail a cover letter and resume (as a PDF, doc or odt) with the subject
+• E-mail a cover letter and resume (as a PDF, doc or odt) with the subject
 heading "Fundraising Coordinator" to hr@gachet.org
-â€¢ Or, deliver to 88 East Cordova Street, Vancouver, BC, V6A 1K2.
-â€¢ No phone enquiries please.
+• Or, deliver to 88 East Cordova Street, Vancouver, BC, V6A 1K2.
+• No phone enquiries please.
 
 Closing date: Monday October 25th, 2011, midnight.
-â€¢ Interviews will be held October 28.
-â€¢ Start date: November 1st, 2011.
-â€¢ Regrettably, only successful candidates will be contacted for an interview.
+• Interviews will be held October 28.
+• Start date: November 1st, 2011.
+• Regrettably, only successful candidates will be contacted for an interview.
 
 Gallery Gachet is an equal opportunity employer. Gachet recognizes that we
 live in a society where access to resources is unequally distributed; and that
@@ -769,7 +769,7 @@ mental health issues to apply for this position.
 gallerygachet
 
 88 East Cordova Street, Vancouver, BC, V6A1K2
-wed â€“ sun, 12 â€“ 6pm
+wed – sun, 12 – 6pm
 www.gachet.org
 
 
@@ -819,7 +819,7 @@ Wharton, Cathy Stonehouse, Billeh Nickerson and Rick Maddocks. Hosted by
 current editor Elizabeth Bachinsky.
 
 David Zieroth's latest publication is a chapbook, Hay Day Canticle (Leaf Press, 
-2010). The Fly in Autumn (Harbour, 2009) won the Governor Generalâ€™s Literary 
+2010). The Fly in Autumn (Harbour, 2009) won the Governor General’s Literary 
 Award for Poetry in that year and was nominated for the Dorothy Livesay Poetry 
 Prize and the Acorn-Plantos Award for People's Poetry in 2010. He won the 
 Dorothy Livesay Poetry Prize for How I Joined Humanity at Last (Harbour, 1998); 
@@ -839,7 +839,7 @@ EVENT from 1996-2001.
 
 Cathy Stonehouse is the author of a poetry collection (The Words I Know, Press 
 Gang Publishers 1994) and co-editor of the creative nonfiction anthology Double 
-Lives: Writing and Motherhood (McGill-Queenâ€™s University Press, 2008). Her 
+Lives: Writing and Motherhood (McGill-Queen’s University Press, 2008). Her 
 creative nonfiction, poetry and short fiction has appeared in a wide variety of 
 Canadian literary journals and anthologies. A creative writing instructor and 
 freelance writer/editor, she lives with her family in East Vancouver. Cathy was 
@@ -848,11 +848,11 @@ editor of EVENT from 2001-2003.
 Billeh Nickerson is a writer, editor, performer, producer and arts advocate. He is 
 the author of The Asthmatic Glassblower, Let Me Kiss it Better: Elixirs for the Not 
 So Straight and Narrow, and his most recent collection, McPoems. He is also 
-the co-editor of Seminal: the Anthology of Canadaâ€™s Gay Male Poets, and a 
-former editor of PRISM international and EVENT, two of Canadaâ€™s most 
+the co-editor of Seminal: the Anthology of Canada’s Gay Male Poets, and a 
+former editor of PRISM international and EVENT, two of Canada’s most 
 respected literary journals. He has performed at hundreds of readings and 
-festivals across Canada and the U.S, and, in 2008, served as Queenâ€™s 
-Universityâ€™s Writer in Residence. He teaches Creative Writing at Kwantlen 
+festivals across Canada and the U.S, and, in 2008, served as Queen’s 
+University’s Writer in Residence. He teaches Creative Writing at Kwantlen 
 Polytechnic University. Billeh was editor of EVENT from 2003-2005.
 
 Rick Maddocks' fiction and non-fiction have appeared in numerous magazines 
@@ -879,7 +879,7 @@ of EVENT since 2010.
 
 Doors at 7:00, readings begin at 7:30 p.m.
 Admission is free and refreshments will be served.
-Pick up a copy of the current issue of EVENTâ€”or a subscriptionâ€”and celebrate 
+Pick up a copy of the current issue of EVENT—or a subscription—and celebrate 
 with us!
 
 Douglas Room (Lower Level) at Douglas College, New Westminster
@@ -937,12 +937,12 @@ As fall is now here, we wanted to take a moment to acknowledge the hard work
 and effort of all the people that contributed to Grow with a special event called 
 the Seed Exchange.
 
-As Grow draws to a close, weâ€™ve been collecting numerous seeds from the 
+As Grow draws to a close, we’ve been collecting numerous seeds from the 
 Bulkhead Lab to share at the Exchange. In an effort to disperse Grow broadly 
 we invite everyone to plant these seeds around Vancouver. If you have some 
 seeds of your own that you would like to trade, pop them into envelopes, seal 
 and label with the date and seed type and bring them with you. Expand your 
-range of veggies, herbs and fruit by trading your radish seeds for a neighbourâ€™s 
+range of veggies, herbs and fruit by trading your radish seeds for a neighbour’s 
 kale seeds.
 
 Please, drop by between 7:00pm and 9:00pm on Wednesday, October 26th for 
@@ -1057,7 +1057,7 @@ says: â€œThey do not move.â€
 
 Is someone going to argue that stage direction is immaterial? I hope not. 
 (Kissing the bookcase) We move into the gallery 
-space, "Flatly." "Happily." "Holding back tears." and â€œLarge over-stuffed chairs 
+space, "Flatly." "Happily." "Holding back tears." and “Large over-stuffed chairs 
 that seem to swallow the characters.â€  We blink. The camera pans left and 
 captures â€œAâ€  walking with a red page then at the next moment â€œAâ€  disappear. 
 
@@ -1070,12 +1070,12 @@ event which is designed to move an audience through all of the visual, aural, an
 dramatic means available. People Things Enter Exit.
 
 Ulla von Brandenburg (b. 1974, Karslrue, lives and works in Paris) has 
-forthcoming solo exhibitions at Galerie du Granit, Le granit, ScÃ¨ne Nationale de 
+forthcoming solo exhibitions at Galerie du Granit, Le granit, Scène Nationale de 
 Belfort, France (2012); Rosascape, Paris (2012); Pilar Corrias Gallery, London 
 (2012). Recent solo exhibitions include Produzentengalerie, Hamburg (2011); 
-Vitrine de lâ€™Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue Alte 
+Vitrine de l’Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue Alte 
 Welt, The Common Guild, Glasgow (2011); Neue Alte Welt, Art: Concept, Paris 
-(2011); Chorspiel, Lilith Performance Studio, MalmÃ¶ (2011).
+(2011); Chorspiel, Lilith Performance Studio, Malmö (2011).
 
 Guy de Cointet (b. 1934, Paris, d. 1983, Los Angeles) was a French artist based 
 in Los Angeles in the late sixties and seventies. His enigmatic and until very 
@@ -1097,7 +1097,7 @@ exhibition Kill the Workers!, shown this past year at Chisenhale, London and
 Badischer Kunstverein, Karslrue will travel to the Walter Phillips Gallery, Banff in 
 2012. She has a forthcoming solo exhibition at Presentation House Gallery, 
 Vancouver and recent solo exhibitions include, i8 Gallery, Reykjavik (2011); See 
-it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1â€“3), 
+it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1–3), 
 greengrassi, London (2009).
 
 Daria Martin (b. 1973, San Francisco, lives and works in London, UK) has a 
@@ -1176,14 +1176,14 @@ and Emily Carr University.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-10-20-19-blim-gallery-cute-to-kill-ii-special-halloween-edition-oct-2">19. Blim Gallery | Cute to Kill II â€” Special Halloween Edition | OCT 28</a>
+<a href="/instant-coffee/listings/2011-10-20-19-blim-gallery-cute-to-kill-ii-special-halloween-edition-oct-2">19. Blim Gallery | Cute to Kill II — Special Halloween Edition | OCT 28</a>
 ------------------------------------------------------------------------
 Blim, Asa Mori, and Powell Street Festival Society present:
-Cute to Kill II â€” Special Halloween Edition
-Friday October 28 | 8 â€“ 11 PM | $12/10 | @ VIVO (Main St. Ã— 4th Ave.)
+Cute to Kill II — Special Halloween Edition
+Friday October 28 | 8 – 11 PM | $12/10 | @ VIVO (Main St. × 4th Ave.)
 
 Cute to Kill 2 is an expose of recent video works from local, national, and 
-international animators and video artists. Each short film explores the artistsâ€™ 
+international animators and video artists. Each short film explores the artists’ 
 morbid fascination with dark subject matter through the guise of â€œcuteâ€  (a 
 prevalent juxtaposition in contemporary Asian pop culture). In their first co-
 production, Yuriko Iga (of Blim) and Asa Mori bring together a wide range of 
@@ -1233,7 +1233,7 @@ October 29, 2011 to January 14, 2012
 
 Satellite Gallery presents Nature, Knowledge and the Knower, an exhibition that 
 features digital enlargements of panoramic photographs as well as an online 
-display of a selection of artist and explorer James L. (Lippit) Clarkâ€™s archives 
+display of a selection of artist and explorer James L. (Lippit) Clark’s archives 
 from the American Museum of Natural History in New York.
 
 This exhibition presents three dramatic panoramas taken with Kodak Cirkut 
@@ -1245,7 +1245,7 @@ representation at the Museum.
 An online archive is the second element of the exhibition, providing 
 unprecedented access to a selection of visual materials originally collected and 
 organized by Clark. These resources were gathered to facilitate the making of 
-the habitat dioramas and to provide the museumâ€™s exhibition department with an 
+the habitat dioramas and to provide the museum’s exhibition department with an 
 in-house picture collection. The website launches on October 28, 2011 at 
 <www.natureknowledgeknower.com>. The photographs and the visual material 
 in the online archive have never before been exhibited.
@@ -1307,31 +1307,31 @@ and a group film by Docot, Walde & Smartt.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-10-20-22-maraya-project-events-salons-soundwalk-with-jean-routhier-oc">22. Maraya Project events & salons | Soundwalk with Jean Routhier | OCT 29</a>
 ------------------------------------------------------------------------
-Soundwalk with Jean Routhier â€“ Saturday, October 29, 2:30PM
+Soundwalk with Jean Routhier – Saturday, October 29, 2:30PM
 
 First of many Maraya Project events & salons taking place this fall.
 
 DESCRIPTION
 Based on time-tested soundwalking techniques, Jean Routhier will introduce 
-sights and sounds from two key locations: Vancouverâ€™s False Creek waterfront 
+sights and sounds from two key locations: Vancouver’s False Creek waterfront 
 and the Dubai Marina in United Arab Emirates. Exploring audio-visual links 
 between these communities through new media, the soundwalk begins with a 
 brief presentation of new works by artists M. Simon Levin, Glen Lowry and Henry 
 Tsang. The soundwalk takes participants from the Roundhouse Community Arts 
-and Recreation Centre in Yaletown and along Vancouverâ€™s waterfront, closing 
+and Recreation Centre in Yaletown and along Vancouver’s waterfront, closing 
 with a participant discussion with the artists at Centre A: 2 West Hastings Street.
 
 DETAILS
 Saturday, October 29, 2:30PM
 Led by Sound Artist Jean Routhier
 Meet at Roundhouse Community Arts & Recreation Centre, Front Lobby 
-Entrance by the CafÃ©181 Roundhouse Mews (enter from Davie Street, between 
+Entrance by the Café181 Roundhouse Mews (enter from Davie Street, between 
 Pacific Boulevard & Marinaside Crescent)
 
-Soundwalk with Jean Routhier is a part of Centre Aâ€™s public programming for the 
+Soundwalk with Jean Routhier is a part of Centre A’s public programming for the 
 Maraya Project
 Artists: M. Simon Levin, Glen Lowry and Henry Tsang
-Date: November 5 â€“ December 17, 2011
+Date: November 5 – December 17, 2011
 Opening Reception and Interactive Website Launch: Friday, Nov 4th, 8pm
 Gallery Hours: Tue- Sat, 11-6pm, Closed on Sun, Mon and Holiday
 Place: Centre A: 2 West Hastings
@@ -1348,13 +1348,13 @@ essence. Interested in the gaps and gasps in sounds conducive to the
 transmission of tales he sometimes hears in the ether, Routhier finds inspiration 
 in everyday situations. His work has been presented internationally and nationally 
 at the Vancouver Vibrates, the Silence and Signal & Noise Festivals 
-(Vancouver), ISEA 2006 (San JosÃ©, CA), Open Air-Ars Electronica 2002 (Linz, 
+(Vancouver), ISEA 2006 (San José, CA), Open Air-Ars Electronica 2002 (Linz, 
 Austria), Overgarden Festival (Copenhagen, Danemark), DLux Media Arts 
 Festival (Melbourne, Australia), Global Mix Festival (Cracow, Poland), ICMC '94 
 (International Computer Music Conference, Florida, USA), La Panderia (Mexico 
-City), Ã‰cole des Beaux-Arts (Aix-en-Provence, France), Studio Cormier 
-(MontrÃ©al), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey), 
-Helen Pitt Gallery (Vancouver), Articule (MontrÃ©al). His audio works have been 
+City), École des Beaux-Arts (Aix-en-Provence, France), Studio Cormier 
+(Montréal), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey), 
+Helen Pitt Gallery (Vancouver), Articule (Montréal). His audio works have been 
 featured on Kunstradio (Vienna, Austria), CBC and Radio-Canada. Jean curated 
 for the Surrey Art Gallery a series of audio artists as part of its ongoing Open 
 Sound exhibit, as well as helped organize its audio art symposium in 2008 and 
@@ -1368,11 +1368,11 @@ Art. He creates site-based systems that explore the aesthetics of engagement
 using a variety of designed forms and tools that address our many publics. 
 These spatial and pedagogical projects, expand the social agency of art making, 
 rethinking notions of space and place, authorship and audience. Working 
-collaboratively and primarily within the public sphere, Levinâ€™s work ranges from 
+collaboratively and primarily within the public sphere, Levin’s work ranges from 
 billboard projects, alternative tours of cities, land care centres and alternative 
 mapping and telecommunication systems. Recently commissioned projects 
-include a user-generated â€˜sousveillanceâ€™ system and a global contributive new 
-media platform, both showcased for Vancouverâ€™s 2010 Cultural Olympiad. He 
+include a user-generated ‘sousveillance’ system and a global contributive new 
+media platform, both showcased for Vancouver’s 2010 Cultural Olympiad. He 
 has been artist in residence for the Vancouver Parks Board, the TechLab at the 
 Surrey Art Gallery, Emily Carr University and at the International Art Space, 
 Kelleberrin, Australia. He has exhibited, lectured and published locally, nationally 
@@ -1390,13 +1390,13 @@ journal West Coast Line. Pacific Avenue (LINEbooks, 2009) is his first poetry
 collection. Lowry is the Assistant Dean of Critical Studies and Community 
 Engagements at Emily Carr University of Art + Design.
 
-Henry Tsangâ€™s projects have been exhibited internationally, incorporating digital 
+Henry Tsang’s projects have been exhibited internationally, incorporating digital 
 media, video, photography, language and sculptural elements in the exploration 
 of the relationship between the public, community and identity in the new global 
 order. Projects in the public sphere range from community-based curatorial and 
 engagement practices to permanent commissioned artworks. Welcome to the 
 Land of Light is a 100 metre-long installation located on the seawall handrail 
-along Vancouver's False Creek. He has also worked with artistsâ€™ collectives 
+along Vancouver's False Creek. He has also worked with artists’ collectives 
 which produce temporary public art installations on shared political concerns, 
 including The Association for Noncommercial Culture and Collective Echoes 
 Youth Public Artists Collective, and has mentored many young artists through 
@@ -1404,7 +1404,7 @@ various programs. Video installations such as Orange County, 2004, and
 Olympus, 2006, shot in California, Beijing, Torino and Vancouver, examine 
 overlapping urban and socio-political spaces; and Napa North, 2008, looks at the 
 relationship between wine, real estate and cultural translation in British 
-Columbiaâ€™s Okanagan Valley. His curatorial projects (Self Not Whole: Cultural 
+Columbia’s Okanagan Valley. His curatorial projects (Self Not Whole: Cultural 
 Identity & Chinese-Canadian Artists in Vancouver, 1991; Racy Sexy: Race, 
 Culture and Sexuality, 1993; and City at the End of Time: Hong Kong 1997, 
 1997) span the local to the international. Henry received the VIVA Award in 1993 
@@ -1549,20 +1549,20 @@ document of the discussion. Artwork is never self-contained once it has been
 exhibited; it is open for interpretation, inspection, reaction and reprocessing. Our 
 goal with art has always been the inciting of conversation and discussion. 
 
-Weâ€™re looking for writers to collaborate with us on the catalogue for our most 
-recent exhibition at the gallery, Randy Grskovicâ€™s Reoccurring Themes. We are 
+We’re looking for writers to collaborate with us on the catalogue for our most 
+recent exhibition at the gallery, Randy Grskovic’s Reoccurring Themes. We are 
 going to be printing a newsprint periodical with documentation from the exhibition 
-and are accepting writing to accompany the images. What weâ€™re searching for 
-is a response to the artwork itself. Each piece has itâ€™s own story/context. It 
+and are accepting writing to accompany the images. What we’re searching for 
+is a response to the artwork itself. Each piece has it’s own story/context. It 
 could be in the way of a review of the physical piece, an idea sparked by the 
-work. A previously written work that relates to a certain themeâ€¦ a poemâ€¦ a 
-drawing â€¦ a post it noteâ€¦ whateverâ€¦It could be positive; it could be negative. It 
+work. A previously written work that relates to a certain theme… a poem… a 
+drawing … a post it note… whatever…It could be positive; it could be negative. It 
 could be real; it could be fiction. It could be short; it can be long.
 
 Our main goal is to collaborate with writers on this project. If you would like to 
 have a conversation with us please let us know and we can start the process.
 
-The work can be viewed on weekends from 12pm â€“ 6pm or by appointment. 
+The work can be viewed on weekends from 12pm – 6pm or by appointment. 
 Please feel free to email us and make an appointment:
 
 cuttycag@gmail.com
@@ -1607,7 +1607,7 @@ www.belkin.ubc.ca
 Until recently, Luis Camnitzer has been an insider's tip in the field of conceptual 
 art. This solo exhibition features some seventy works created since 1966, 
 offering visitors a close look at the Uruguayan artist who may be considered one 
-of the art worldâ€™s key figures in the second half of the 20th century.
+of the art world’s key figures in the second half of the 20th century.
 
 Born in 1937 in Lubeck, Germany, Camnitzer emigrated with his Jewish parents 
 to Montevideo, Uruguay in 1939. He moved to New York at 27, where he 
@@ -1655,7 +1655,7 @@ Please and thank you.
 
 <a href="/instant-coffee/listings/2011-10-20-02-contemporary-art-gallery-wwwcagauctioncom-sneak-peek-oct-20">2.
 Studio Available | </a>
-The Gam is a studio, gallery and boutique located in Vancouverâ€™s Downtown 
+The Gam is a studio, gallery and boutique located in Vancouver’s Downtown 
 Eastside and fronts an artist-only building at 110 E Hastings St (ACME Studios). 
 We are looking to expand our studio operations after recently renovating and 
 currently have two openings for shared studio space. As a Gam studio mate 

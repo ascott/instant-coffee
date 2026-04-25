@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Nostalgia - Group Exhibition | DEC 5"
 ---
 

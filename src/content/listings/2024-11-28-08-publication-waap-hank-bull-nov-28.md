@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 8
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | WAAP | Hank Bull | NOV 28"
 ---
 

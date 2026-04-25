@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 20
 type: "OPENING"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Blue Greens Workers | FEB 2"
 ---
 

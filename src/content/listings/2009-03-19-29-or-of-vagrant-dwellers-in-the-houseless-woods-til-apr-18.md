@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 29
 type: ""
+venue: "Or"
 summary: "Or | Of vagrant dwellers in the houseless woods | til | APR 18"
 ---
 

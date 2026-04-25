@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 28
 type: "CALL"
+venue: "CityScape Community ArtSpace"
 summary: "CityScape Community ArtSpace | Exhibition Proposals | JAN 30"
 ---
 

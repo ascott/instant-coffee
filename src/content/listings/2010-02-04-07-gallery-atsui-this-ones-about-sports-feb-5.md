@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 7
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | This One's About SPORTS! | FEB 5"
 ---
 

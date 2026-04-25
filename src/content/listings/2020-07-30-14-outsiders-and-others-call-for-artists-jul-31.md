@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 14
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Call for Artists | JUL 31"
 ---
 

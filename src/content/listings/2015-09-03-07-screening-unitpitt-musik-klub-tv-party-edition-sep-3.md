@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | UNIT/PITT | Musik Klub: TV Party Edition | SEP 3"
 ---
 
@@ -23,10 +24,10 @@ challenging music available on YouTube. Videos are chosen for both
 their innovative or sublime video content as well as their unique
 musical quality, with an emphasis on material produced Pre-
 Millennium, across many genres and each event is themed. Streamed
-directly from YouTube, EQâ€™d and projected, and accompanied by guest
+directly from YouTube, EQ’d and projected, and accompanied by guest
 musical selectors, the goals of MUSIK KLUB are to continue in the
 tradition of classic variety hours such as Beat Club, Old Grey Whistle
 Test, Top Pop & Musikladen, but with a selective eye / ear.
 
 Elliot Heintzman co-hosts Cheap & Easy, a weekly DJ night dedicated
-to Rock nâ€™ Roll and B-movies, which has been running since 2011.
+to Rock n’ Roll and B-movies, which has been running since 2011.

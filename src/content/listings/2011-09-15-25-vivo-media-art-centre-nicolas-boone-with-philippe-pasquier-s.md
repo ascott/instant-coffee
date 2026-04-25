@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 25
 type: ""
+venue: "VIVO Media Art Centre"
 summary: "VIVO Media Art Centre | Nicolas Boone with Philippe Pasquier | SEP 21"
 ---
 
@@ -11,11 +12,11 @@ VIVO Media Art Centre
 Nicolas Boone NOTHING HAPPENING (Video Presentation) with Philippe Pasquier
 Wednesday September 21, 8pm (0-10$)
 1965 Main St. Vancouver vivomediaarts.com
-Curated by Marie-HÃ©lÃ¨ne Tessier
+Curated by Marie-Hélène Tessier
 
 VIVO presents NOTHING HAPPENING, the finished video work by French Artist
 in Residence Nicolas Boone, that emerges from a three-hour live performance
-filmed during PAARCâ€™s Swarm Festival of Artist Run Culture on Thursday
+filmed during PAARC’s Swarm Festival of Artist Run Culture on Thursday
 September 8. The video NOTHING HAPPENING will be accompanied by a live
 soundtrack performed by Philippe Pasquier, and presented in conjunction
 with the LIVE International Performance Biennale Sept 15-25, hosted by
@@ -27,7 +28,7 @@ construction workers shares the stage with a concrete truck, steamroller,
 excavator, barricades, orange cones, and traffic control tape. NOTHING
 HAPPENING addresses the savage economic development that is steamrolling
 cultural spaces, bohemia and marginality to create a condo wonderland. It
-is a mirror reflecting our cityâ€™s relationship to territory, land, and
+is a mirror reflecting our city’s relationship to territory, land, and
 frontiers of economic and political power. NOTHING HAPPENING is a video
 loop of hand shakes between City Hall, land speculators and private
 enterprises. NOTHING HAPPENING is an artist preaching upside down from a
@@ -48,7 +49,7 @@ edited into film loops to create a living discourse around the death of cinema.
 NOTHING HAPPENING AND LIQUIDATION are co-presented by LIVE International
 Performance Biennale, DIM Cinema and the Pacific Cinematheque. Nicolas
 Boone's Artist Residency and Exhibition is generously supported by the
-Consulate General of France in Vancouver and Institut FranÃ§ais. NOTHING
+Consulate General of France in Vancouver and Institut Français. NOTHING
 HAPPENING is sponsored by Kerrisdale Equipment, Lafarge, Western One, A+B
 Tool Rentals, Rona and Home Depot. The installation of LIQUIDATION is
 generously supported by The Grunt Gallery and The Western Front.

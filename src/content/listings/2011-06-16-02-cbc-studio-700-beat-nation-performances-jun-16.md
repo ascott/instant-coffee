@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 2
 type: ""
+venue: "CBC Studio 700"
 summary: "CBC Studio 700 | Beat Nation Performances | JUN 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "Telephone Gallery"
 summary: "Telephone Gallery | JAKE KIMBLE – BREAK A LEG | APR 24"
 ---
 

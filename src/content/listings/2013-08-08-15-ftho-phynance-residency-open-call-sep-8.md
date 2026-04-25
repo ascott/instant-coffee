@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please be advised requests for ill
 emailDate: "Thu, 08 Aug 2013 16:25:10 -0700"
 number: 15
 type: ""
+venue: "FTHo"
 summary: "FTHo | PHYNANCE RESIDENCY OPEN CALL | SEP 8"
 ---
 

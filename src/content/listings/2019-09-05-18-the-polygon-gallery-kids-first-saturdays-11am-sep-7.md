@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 18
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Kids First Saturdays | 11AM | SEP 7"
 ---
 

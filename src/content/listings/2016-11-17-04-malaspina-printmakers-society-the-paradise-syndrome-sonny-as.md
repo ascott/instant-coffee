@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Malaspina Printmakers Society"
 summary: "Malaspina Printmakers Society | The Paradise Syndrome | Sonny Assu | NOV 10"
 ---
 

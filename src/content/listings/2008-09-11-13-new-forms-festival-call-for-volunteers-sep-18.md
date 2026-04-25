@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 13
 type: ""
+venue: "NEW FORMS FESTIVAL"
 summary: "NEW FORMS FESTIVAL | CALL FOR VOLUNTEERS | SEP 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the flatting imperative"
 emailDate: "Thu, 19 Dec 2013 12:46:17 -0800"
 number: 2
 type: ""
+venue: "Index"
 summary: "Index | playtime | DEC 19"
 ---
 

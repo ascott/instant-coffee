@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 19
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | David Senior - Publishing Performance | 1PM | OCT 20"
 ---
 

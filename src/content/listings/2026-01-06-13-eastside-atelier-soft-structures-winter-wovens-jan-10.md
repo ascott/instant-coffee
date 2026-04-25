@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 13
 type: "EDUCATION"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Soft Structures: Winter Wovens | JAN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 23
 type: "OPENING"
+venue: "Presentation House Theatre"
 summary: "Presentation House Theatre | First Generation | NOV 9"
 ---
 

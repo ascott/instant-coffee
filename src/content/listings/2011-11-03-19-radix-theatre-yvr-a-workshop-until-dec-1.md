@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 19
 type: ""
+venue: "radix theatre"
 summary: "radix theatre | YVR, a workshop | until | DEC 1"
 ---
 

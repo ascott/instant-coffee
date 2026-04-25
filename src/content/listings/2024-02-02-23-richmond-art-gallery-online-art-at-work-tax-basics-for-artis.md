@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 23
 type: "EDUCATION"
+venue: "Richmond Art Gallery [ONLINE]"
 summary: "Richmond Art Gallery [ONLINE] | Art at Work: Tax Basics for Artists | 10AM | FEB 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 20
 type: "CALL"
+venue: "Chinatown Today"
 summary: "Chinatown Today | Volume 3: Storytelling of Active Resilience | SEP 28"
 ---
 

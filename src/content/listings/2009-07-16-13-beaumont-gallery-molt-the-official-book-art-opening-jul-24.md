@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 13
 type: ""
+venue: "Beaumont Gallery"
 summary: "Beaumont Gallery | MOLT: The Official Book & Art Opening | JUL 24"
 ---
 

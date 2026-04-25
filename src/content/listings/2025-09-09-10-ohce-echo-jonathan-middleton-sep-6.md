@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | Jonathan Middleton | SEP 6"
 ---
 

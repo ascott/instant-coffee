@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 20
 type: "EVENT"
+venue: "Mountain View Cemetery"
 summary: "Mountain View Cemetery | Celebration Hall at Mountain View Cemetery | SEP 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 13
 type: ""
+venue: "One of a Kind Vancouver"
 summary: "One of a Kind Vancouver | Calling All Artists, Designers and Artisans! | APR 10"
 ---
 

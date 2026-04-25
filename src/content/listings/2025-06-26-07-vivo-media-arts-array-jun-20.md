@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | ARRAY | JUN 20"
 ---
 

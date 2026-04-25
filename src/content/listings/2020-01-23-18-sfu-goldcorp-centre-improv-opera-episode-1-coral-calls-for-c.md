@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 18
 type: "EVENT"
+venue: "SFU Goldcorp Centre"
 summary: "SFU Goldcorp Centre | IMPROV OPERA EPISODE 1: Coral Calls for Cloud | JAN 26"
 ---
 

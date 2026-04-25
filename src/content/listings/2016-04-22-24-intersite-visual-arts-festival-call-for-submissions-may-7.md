@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 24
 type: "CALL"
+venue: "Intersite Visual Arts Festival"
 summary: "Intersite Visual Arts Festival | Call for Submissions | MAY 7"
 ---
 

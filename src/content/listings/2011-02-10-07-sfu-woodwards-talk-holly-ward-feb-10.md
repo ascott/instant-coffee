@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 7
 type: ""
+venue: "SFU Woodward's"
 summary: "SFU Woodward's | TALK: HOLLY WARD | FEB 10"
 ---
 
@@ -15,7 +16,7 @@ Thursday, February 10
 The Pavilion , 2009-2010 
 
 The Pavilion was a year-long project completed as the Langara College
-2009-2010 Artist In residence. During this time, Ward constructed a 22â€™
+2009-2010 Artist In residence. During this time, Ward constructed a 22’
 diameter geodesic dome intended to serve as a catalyst for speculative
 thinking and artistic experimentation. Once the construction of The
 Pavilion was complete, Ward curated a series of exhibitions, readings and
@@ -34,5 +35,5 @@ amongst others. She has participated in group exhibitions in Canada,
 England, Mexico, the US, Norway and South Korea. She is currently
 represented by Republic Gallery, Vancouver where she had a solo exhibition
 in 2009. For her 2009-2010 Langara College Artist in Residence project in
-Vancouver, Ward constructed a 22â€™ diameter geodesic dome to act as host to
+Vancouver, Ward constructed a 22’ diameter geodesic dome to act as host to
 a series of exhibitions, readings, workshops and experimental performances.

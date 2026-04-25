@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 18
 type: "OPENING"
+venue: "SUM gallery"
 summary: "SUM gallery | An Auspicious Beast | 5PM | OCT 16"
 ---
 

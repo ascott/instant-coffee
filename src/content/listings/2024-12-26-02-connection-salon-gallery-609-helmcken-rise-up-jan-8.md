@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happy end of year and new year"
 emailDate: "Wed, 25 Dec 2024 19:40:12 -0800"
 number: 2
 type: "OPENING"
+venue: "Connection Salon Gallery, 609 Helmcken"
 summary: "Connection Salon Gallery, 609 Helmcken | RISE UP | JAN 8"
 ---
 

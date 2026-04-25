@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 20
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | The Clock | Next 24hr Screening | SEP 6"
 ---
 

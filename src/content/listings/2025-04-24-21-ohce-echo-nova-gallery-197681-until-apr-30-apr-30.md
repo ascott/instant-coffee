@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 21
 type: "EXHIBITION"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | NOVA Gallery: 1976–81 | UNTIL APR 30 | APR 30"
 ---
 

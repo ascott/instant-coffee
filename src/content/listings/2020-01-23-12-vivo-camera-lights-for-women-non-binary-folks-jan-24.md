@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 12
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | Camera & Lights for Women & Non-Binary Folks | JAN 24"
 ---
 

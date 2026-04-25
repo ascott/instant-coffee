@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 23
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Dove Allouche | 1230PM | SEP 28"
 ---
 

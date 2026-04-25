@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 19
 type: ""
+venue: "Radical Spirits"
 summary: "Radical Spirits | A One-Night Multidisciplinary Arts Extravagana | FEB 23"
 ---
 
@@ -12,7 +13,7 @@ Radical Spirits: A One-Night-Only Multidisciplinary Arts Extravaganza
 Leah Tottenham and Adriana Lademann, co-creators of the Radical 
 Spirits project, are pleased to announce that the Radical Spirits 
 multidisciplinary art exhibition will be taking place Sunday, February 23, 
-2014 from 7:00 pm until midnight at Astorinoâ€™s Ballroom (1739 
+2014 from 7:00 pm until midnight at Astorino’s Ballroom (1739 
 Venables St., Vancouver, BC). The Radical Spirits show is an all-ages 
 community event with no admission fee. The venue is supplied by The 
 Safe Amplification Site Society.
@@ -22,7 +23,7 @@ address the relationship between the supernatural, the spiritual, and
 any multitude of feminist expressions. The themes underlying the 
 project are intentionally broad and are interpreted differently by 
 everyone, and we believe that this subjectivity is a crucial part of the 
-project. Each artistâ€™s individual take on the themes of the Radical 
+project. Each artist’s individual take on the themes of the Radical 
 Spirits project helps us in our goal, which is to examine and critique the 
 cultural silencing and erasure of radical feminism. We want to 
 challenge and reject this erasure by exhibiting art that reworks themes 

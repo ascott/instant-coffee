@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 41
 type: "OPENING"
+venue: "Red Gate Arts Society"
 summary: "Red Gate Arts Society | Art Show | 7PM - late | SEP 13"
 ---
 

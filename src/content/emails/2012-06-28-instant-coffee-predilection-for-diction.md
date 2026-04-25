@@ -43,9 +43,9 @@ Western Front Gallery
 
 unpacking
 
-iâ€™m unpacking my archives, yes i am
+i’m unpacking my archives, yes i am
 or, in plain English, cleaning out the basement
-itâ€™s a kind of bag ladyâ€™s retrospective
+it’s a kind of bag lady’s retrospective
 but a better title might be
 â€œnight of the living deadâ€ 
 anyway, everything is always changing
@@ -66,9 +66,9 @@ with thanks to the Western Front Society for use of the gallery
 Drek Campbell and Sunny Sealeopard | Document of a Sidewalk | 
 June 26
 ie gallery
-June 1 â€“ 30, 2012
+June 1 – 30, 2012
 
-Closing reception: Thursday, June 28, 6â€“9pm
+Closing reception: Thursday, June 28, 6–9pm
 
 Join us for the closing celebration of our artists in residence for the 
 month of June. Sunny Sealeopard and and Drek Campbell took over 
@@ -81,12 +81,12 @@ Sediment
 
 I view trash as an evolution of material form, rather than an object
 fixed in time. We mark objects with the story of our life right up to
-the moment we discard them. We crush beer cans when weâ€™re 
+the moment we discard them. We crush beer cans when we’re 
 excited, 
 or
-wrinkle paper when weâ€™re thinking about a friend we havenâ€™t seen, 
+wrinkle paper when we’re thinking about a friend we haven’t seen, 
 the
-grocery list we wrote when we couldnâ€™t afford rent. We try to think
+grocery list we wrote when we couldn’t afford rent. We try to think
 very little about what they become after we throw them away. In 
 working
 with these discarded objects, I look at the value of entropy, not as
@@ -95,7 +95,7 @@ builds an understanding of our future.
 
 Sunny Sealeopard (Allison Karow)
 
-Responding to Drekâ€™s combine/formations and my own collected 
+Responding to Drek’s combine/formations and my own collected 
 materials, I explode diagrams, compressing and decompressing 
 layers 
 into a deformed micro landscape. Repetition creates growth and 
@@ -160,7 +160,7 @@ weather report (and film) by the late, great George Kuchar. Michael
 Rudnick will be in attendance. 
 
 These two San Francisco mavericks met when Rudnick was a student 
-in the early days of Kucharâ€™s infamous class at the San Francisco Art 
+in the early days of Kuchar’s infamous class at the San Francisco Art 
 Institute. Both filmmakers demonstrate a commitment to in-camera 
 editing with virtuosic use single shots altered with video effects and 
 image layering. This low-fi aesthetic leads the viewer into fantastical, 
@@ -169,12 +169,12 @@ funhouse mirror, reveling in our disturbing social truths.
 
 George Kuchar ranks as one of the most important and prolific 
 American independent film and video makers. With his homemade 
-Super 8 and 16mm potboilers and melodramas of the 1950s, â€™60s, and 
-â€™70s, he became legendary as a distinctive underground filmmaker 
+Super 8 and 16mm potboilers and melodramas of the 1950s, ’60s, and 
+’70s, he became legendary as a distinctive underground filmmaker 
 whose work influenced many other artists including Andy Warhol, John 
 Waters and David Lynch.
 
-Michael Rudnickâ€™s art practice has moved between moving images and 
+Michael Rudnick’s art practice has moved between moving images and 
 moving objects for over 40 years, largely in the alternative film world of 
 San Francisco. His ongoing video series Claude is a psychologically 
 charged project, an exorcism of demons embodied in the character 
@@ -183,7 +183,7 @@ diary entries. A master filmmaker, Rudnick has made over a150 films
 including ongoing documentaries of the places and people in his life, 
 as well as the work of other artists including Chris Burden and Nancy 
 Ruben. The Apartment and Western Front Media Arts are thrilled to 
-present Michael Rudnickâ€™s Canadian premiere. 
+present Michael Rudnick’s Canadian premiere. 
 
 Program: George Kuchar: HotSpell 25.55 mins. Michael Rudnick: 
 Episodes of Claude, 60 mins. 
@@ -192,7 +192,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. sarahtodd@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 
 ------------------------------------------------------------------------
@@ -251,24 +251,24 @@ only physical location but also attitudes and methods of execution.
 Smith attempts to convey the solitude of the painter confined to the 
 studio. The paintings range from representational to monochrome with 
 expressionism in-between; however, what is directly referenced and 
-portrayed in the work is something personal and individual. In Smithâ€™s 
+portrayed in the work is something personal and individual. In Smith’s 
 work, one will find appropriations of competence in coalescence with 
 original movements of relentless beauty and poise. 
 Perhaps the main message is this: during crucial moments, it is 
 important to assess the situation to make corrections or adjustments. 
-Whether thought through or rash, these actions are made internally â€“ 
+Whether thought through or rash, these actions are made internally – 
 instantly. If performed in time, it is those minute adjustments that can 
 produce success. But like all actions that happen within only a moment, 
 they are all your own; most often, they are just enough to save you. 
 While these moments may seem intuitive (even a natural condition of 
 survival), they must be under an axiom of control. It is important to stay 
 smooth and use these instances to create a working whole. So, 
-execution becomes keyâ€¦ but for what? Without aggression you can 
+execution becomes key… but for what? Without aggression you can 
 never progress, but if unchecked by consistency you will burn, and die. 
 It is the aim of many to produce a progression, but when progression 
 becomes rampant, moments are missed and conditions of solitary 
 action fade. 
-â€“Andrew Smith. 
+–Andrew Smith. 
 
 Curated by Graeme Berglund & Polina Bachlakova.
 
@@ -349,7 +349,7 @@ Magnanensi)
 an exhibition opening on Friday July 6th at 7pm
 the show runs until July 30th.
 
-Luckyâ€™s is located at 3972 Main Street in Vancouver (near Main and
+Lucky’s is located at 3972 Main Street in Vancouver (near Main and
 24th). Open 7 days a week from noon-ish to 6 pm (5 pm on Sundays).
 
 Kinetics emit sounds, some are subtle (soft), others more obvious
@@ -399,7 +399,7 @@ Burnaby Art Gallery, The Moveable Feast with Holly
 Schmidt, garden project, www.moveablefeastburnaby.ca
 
 The Moveable Feast
-May â€“ October, 2012
+May – October, 2012
 
 This summer the Burnaby Art Gallery presents The Moveable Feast, a 
 public project by Vancouver artist Holly Schmidt. The Moveable Feast 
@@ -416,7 +416,7 @@ and open to the public everyday. Holly Schmidt is on-site from 1-3 p.m.
 on Wednesday afternoons. Volunteers are welcome to drop in to lend 
 a hand, ask questions or propose a project. The site is also open for 
 groups or individuals to host their own meetings, workshops or 
-gatherings. Follow Hollyâ€™s project blog and check out more information 
+gatherings. Follow Holly’s project blog and check out more information 
 regarding upcoming programs at www.moveablefeastburnaby.ca
 
 Events running from July to October include;
@@ -435,7 +435,7 @@ These unique workshops relate to growing, preparing and consuming
 sustainable food.
 
 Saturday, July 14, 2-4 p.m. | $20 | Planting for Pollinators
-Saturday, July 28, 11 a.m.-1 p.m. | $20 | Whatâ€™s the Buzz with Bees?
+Saturday, July 28, 11 a.m.-1 p.m. | $20 | What’s the Buzz with Bees?
 Saturday, July 28, 2-4 p.m. | $20 | Making Mason Bee Homes
 Saturday, August 18, 2-4 p.m. | $20 | Food Swap & Pickling Demo
 Sunday, August 19, 1-4 p.m. | $30 | Simple Cheese & Yogurt Making
@@ -458,7 +458,7 @@ BURNABY ART GALLERY- The Gaze of History: Portraits from the
 Collection with Drawing Installation by Elizabeth MacKenzie July 7-Aug 
 26
 
-July 5 â€“ Opening Reception, Burnaby Art Gallery, The Gaze of History: 
+July 5 – Opening Reception, Burnaby Art Gallery, The Gaze of History: 
 Portraits from the Collection with Drawing Installation by Elizabeth 
 MacKenzie, 7 pm. Please join us on opening night to meet the artist 
 and enjoy refreshments. 6344 Deer Lake Ave., Burnaby, BC
@@ -467,7 +467,7 @@ July 6-Aug 26 - Burnaby Art Gallery, Exhibition - The Gaze of History:
 Portraits from the Collection with Drawing Installation by Elizabeth 
 MacKenzie
 
-Drawn from the Burnaby Art Galleryâ€™s Permanent Art Collection, The 
+Drawn from the Burnaby Art Gallery’s Permanent Art Collection, The 
 Gaze of History probes the conventions of portraiture and the 
 exchange of the gaze through drawing, printmaking, photography and 
 painting. In conjunction with these portraits from the collection, 
@@ -482,7 +482,7 @@ the artworks and string together narratives and ideas about faces and
 how the gaze is exchanged. The Gaze of History will run in both the 
 Main and Second Floor Galleries.
 
-July 15 â€“ Burnaby Art Gallery Artist Talk, The Gaze of History: 
+July 15 – Burnaby Art Gallery Artist Talk, The Gaze of History: 
 Portraits from the Collection with Drawing Installation by Elizabeth 
 MacKenzie, 1 pm, free, 6344 Deer Lake Ave., Burnaby, BC 604-297-
 4422 www.burnabyartgallery.ca
@@ -495,7 +495,7 @@ www.burnabyartgallery.ca
 
 BURNABY ART GALLERY- The Frame Sale, July 7
 
-July 7 â€“ Burnaby Art Gallery, The Frame Sale 9am-noon. Best deals in 
+July 7 – Burnaby Art Gallery, The Frame Sale 9am-noon. Best deals in 
 town! All sizes, variety of materials, wood, metal, mat boards, some 
 glass, etc. 6344 Deer Lake Ave., Burnaby, BC 604-297-4422 
 www.burnabyartgallery.ca
@@ -617,7 +617,7 @@ The WATERSHED+ Artist Residency intends to support, promote and
 facilitate innovative and collaborative
 contemporary art practice.
 
-The selected artists will broadly explore issues relevant to Calgaryâ€™s 
+The selected artists will broadly explore issues relevant to Calgary’s 
 watershed, water management and the Ralph
 Klein Park (RKP) environment. The residency will provide artists 
 wishing to research, experiment and produce new
@@ -631,12 +631,12 @@ enrich our understanding, appreciation and
 emotional connection to our environment.
 
 The WATERSHED+ Artist Residency Program at RKP is a partnership 
-between The City of Calgaryâ€™s Public Art
+between The City of Calgary’s Public Art
 Program, Utilities & Environmental Protection Department, and Parks 
 Environmental & Education Initiatives.
 
 The Residency program will offer two streams of continuing residency 
-opportunities â€“ a short term residency of
+opportunities – a short term residency of
 up to four weeks in length and a long term residency for a minimum of 
 three months in length (which does not
 have to be consecutive). The first residency will begin October, 2012. 
@@ -688,7 +688,7 @@ http://www.cineworks.ca/events/day/2012/07/19/
 
 ICI announces Fall 2012 Curatorial Intensive: 
 Curating Beyond Exhibition Making
-October 21â€“30, 2012
+October 21–30, 2012
 
 Application deadline: August 10, 2012
 
@@ -709,8 +709,8 @@ programming.
 
 Recognizing there are few opportunities for professionals to receive 
 practical training and guidance while also working, the Curatorial 
-Intensive is targeted toward self-motivated individualsâ€”working 
-independently or in institutionsâ€”who would benefit from a week of 
+Intensive is targeted toward self-motivated individuals—working 
+independently or in institutions—who would benefit from a week of 
 intensive conversations around issues and questions that arise for 
 curators. These range from the pragmatics of developing a program 
 and building working relationships with artists, to the theoretical 
@@ -724,7 +724,7 @@ Hromack (Head of Digital Media, Whitney Museum of American Art),
 Anthony Huberman (Director, The Artist's Institute), Brian Kuan Wood 
 (Editor, e-flux journal), Carin Kuoni (Director, Vera List Center for Art 
 and Politics, The New School), Sina Najafi (Editor-in-Chief, Cabinet 
-Magazine), SofÃ­a Olascoaga (independent curator and educator), 
+Magazine), Sofía Olascoaga (independent curator and educator), 
 and 
 Sally Tallant (Artistic Director, Liverpool Biennial).
 
@@ -786,55 +786,55 @@ New York, NY 10002, USA
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-06-28-16-maison-populaire-residence-de-commissaire-france-sep-3">16. Maison Populaire | Residence de Commissaire, France | SEP 3</a>
 ------------------------------------------------------------------------
-Opportunity - Residence de Commissaire, appel Ã  candidatures, 
+Opportunity - Residence de Commissaire, appel à candidatures, 
 Maison Populaire - deadline September 3
 
-Le Centre dâ€™art de la Maison Populaire est situÃ© en plein cÅ“ur de la 
-ville de Montreuil. ConÃ§u tel un laboratoire, il est un lieu de 
-recherche et dâ€™expÃ©rimentation. Il accueille depuis 1995 des 
-expositions dâ€™art contemporain dont la programmation est confiÃ©e 
-chaque annÃ©e Ã  un commissaire en rÃ©sidence pour y dÃ©velopper 
-une hypothÃ¨se de travail personnel.
+Le Centre d’art de la Maison Populaire est situé en plein cœur de la 
+ville de Montreuil. Conçu tel un laboratoire, il est un lieu de 
+recherche et d’expérimentation. Il accueille depuis 1995 des 
+expositions d’art contemporain dont la programmation est confiée 
+chaque année à un commissaire en résidence pour y développer 
+une hypothèse de travail personnel.
 
-La programmation du lieu a dÃ©jÃ  Ã©tÃ© confiÃ©e Ã  des commissaires 
-parmi les plus actifs de la scÃ¨ne actuelle, tels que Claire Le Restif, 
-Jean-Charles Massera, Estelle PagÃ¨s, Yves Brochard, FranÃ§ois 
-Piron, Emilie Renard, AurÃ©lie Voltz, Christophe Gallois, le collectif Le 
-Bureau/, Florence Ostende, RaphaÃ«le Jeune, Anna Colin...
-Le Centre dâ€™art est membre du rÃ©seau TRAM qui regroupe Ã  ce jour 
-31 lieux dâ€™art dâ€™Ile-de-France et renforce chaque annÃ©e ses actions 
-de mÃ©diation pour favoriser lâ€™accÃ¨s Ã  une culture exigeante pour 
-tous. Il est Ã©galement membre de lâ€™Association des Galeries dâ€™Art 
+La programmation du lieu a déjà été confiée à des commissaires 
+parmi les plus actifs de la scène actuelle, tels que Claire Le Restif, 
+Jean-Charles Massera, Estelle Pagès, Yves Brochard, François 
+Piron, Emilie Renard, Aurélie Voltz, Christophe Gallois, le collectif Le 
+Bureau/, Florence Ostende, Raphaële Jeune, Anna Colin...
+Le Centre d’art est membre du réseau TRAM qui regroupe à ce jour 
+31 lieux d’art d’Ile-de-France et renforce chaque année ses actions 
+de médiation pour favoriser l’accès à une culture exigeante pour 
+tous. Il est également membre de l’Association des Galeries d’Art 
 Parisiennes.
 
 Profil du commissaire 
-Lâ€™appel Ã  projet est ouvert aux jeunes commissaires 
+L’appel à projet est ouvert aux jeunes commissaires 
 professionnel(le)s de moins de 45 ans, vivant en France, dont ce 
-travail est lâ€™activitÃ© principale et qui disposent au moins dâ€™une 
-premiÃ¨re expÃ©rience de commissariat. 
+travail est l’activité principale et qui disposent au moins d’une 
+première expérience de commissariat. 
 
 Mission du commissaire 
 
-En fonction dâ€™une convention et du calendrier prÃ©dÃ©fini, il (elle) sera 
-chargÃ©(e) :
-dâ€™assurer la rÃ©alisation de trois expositions sur une pÃ©riode de 9 
-mois en 2013 : janvier Ã  juin 2013 et dâ€™octobre Ã  dÃ©cembre 2013,
-de gÃ©rer un budget de 50.000 euros pour la rÃ©alisation de trois 
+En fonction d’une convention et du calendrier prédéfini, il (elle) sera 
+chargé(e) :
+d’assurer la réalisation de trois expositions sur une période de 9 
+mois en 2013 : janvier à juin 2013 et d’octobre à décembre 2013,
+de gérer un budget de 50.000 euros pour la réalisation de trois 
 expositions en 2013.
-de sÃ©lectionner les artistes et coordonner les diffÃ©rentes phases 
-prÃ©paratoires des expositions avec lâ€™Ã©quipe en place et les diffÃ©rents 
+de sélectionner les artistes et coordonner les différentes phases 
+préparatoires des expositions avec l’équipe en place et les différents 
 partenaires,
-de rÃ©diger les diffÃ©rents supports de communication et de mÃ©diation,
-de rÃ©diger le catalogue et du suivi de sa fabrication, dont la parution 
-doit intervenir dans le cadre du finissage de lâ€™exposition en 
-dÃ©cembre 2013,
-de participer Ã  lâ€™Ã©laboration des Ã©vÃ©nements en direction des publics 
-(rencontres, confÃ©rences, projections, concerts, ateliers),
-dâ€™Ãªtre prÃ©sent(e) lors du jury de sÃ©lection de lâ€™artiste multimÃ©dia en 
-rÃ©sidence Ã  la Maison Populaire et lâ€™intÃ©grer au dernier volet de sa 
+de rédiger les différents supports de communication et de médiation,
+de rédiger le catalogue et du suivi de sa fabrication, dont la parution 
+doit intervenir dans le cadre du finissage de l’exposition en 
+décembre 2013,
+de participer à l’élaboration des événements en direction des publics 
+(rencontres, conférences, projections, concerts, ateliers),
+d’être présent(e) lors du jury de sélection de l’artiste multimédia en 
+résidence à la Maison Populaire et l’intégrer au dernier volet de sa 
 programmation.
-dâ€™Ãªtre prÃ©sent(e) lors des rÃ©unions de prÃ©paration, de montage, de 
-dÃ©montage et de promotion de lâ€™exposition.
+d’être présent(e) lors des réunions de préparation, de montage, de 
+démontage et de promotion de l’exposition.
 
 Pour plus d'informations, visitez http://www.maisonpop.net/spip.php?
 article1596
@@ -900,13 +900,13 @@ we are looking at, while it is less likely to get chosen for this particular
 event, it will definitely still be considered.
 
 Below (scroll down) we describe the four different types of sessions we 
-are looking for speakers and facilitators for â€“ Skills-based workshops, 
+are looking for speakers and facilitators for – Skills-based workshops, 
 speakers and panelists (both for â€œfrontlineâ€  and â€œdigging deeperâ€ , 
 issues-based panels), Issues-based workshops, and Caucuses (for 
 caucuses we encourage suggestions from people who would prefer 
 not to facilitate themselves as well). Each of the four session types has 
 a separate form for prospective facilitators and speakers to fill-out that 
-can be found below. The form shouldnâ€™t take more than 20 minutes to 
+can be found below. The form shouldn’t take more than 20 minutes to 
 fill out. If interested, you are encouraged to apply for multiple session 
 types or workshops / topics in the same type. Please fill out a separate 
 form for each application (with the exception of the speaker / panelist 

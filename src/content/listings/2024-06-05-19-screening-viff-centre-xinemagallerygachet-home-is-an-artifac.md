@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF CENTRE | Xinema&GalleryGachet: Home is an Artifact | 730PM | JUN 9"
 ---
 

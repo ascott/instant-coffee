@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 20
 type: ""
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Beau Dick | until | SEP 22"
 ---
 
@@ -14,14 +15,14 @@ CURRENT EXHIBITION
 AUG 15-SEPT 22.
 
 Macaulay & Co. Fine Art is pleased to announce its inaugural exhibition 
-CEREMONIAL/ART by Beau Dick. Beauâ€™s ability to mediate between 
+CEREMONIAL/ART by Beau Dick. Beau’s ability to mediate between 
 aesthetics and social utility acts as the focal point of this new selection 
 of work.
 
-The utilitarian aspect of his practice as a Kwakwakaâ€™wakw artist, with 
+The utilitarian aspect of his practice as a Kwakwaka’wakw artist, with 
 work that is produced for and used in ceremonial contexts, is 
 underscored by the inclusion of 40 Atlakim Masks. This series of masks 
-and ritual knowledge are owned by Beauâ€™s family, passed down from 
+and ritual knowledge are owned by Beau’s family, passed down from 
 generation to generation. They are made roughly, and are worn in a 
 dancing series for four years only, then burned. This grouping is 
 nearing the end of its cycle, and midway through the exhibition the 40 
@@ -34,10 +35,10 @@ giant ogress with hair covering her dark face looks out. Known for
 stealing children, and carrying them off in a basket on her back to eat 
 in her lair in the deep woods, she is characterized by dark tufted hair, 
 eyebrows, facial hair, her deep hollow eye sockets and protruding lips. 
-Tsonoquaâ€™s eyes are heavy, appearing to be half asleep while she 
+Tsonoqua’s eyes are heavy, appearing to be half asleep while she 
 howls. As earrings, she wears the heads of two small children.
 
-Beauâ€™s work is also collected and exhibited in the context of 
+Beau’s work is also collected and exhibited in the context of 
 contemporary art, giving it an uncommon duality. The line between 
 utility and art is not drawn here. Reality, the supernatural, deep 
 knowledge, and myth all cross paths raising questions rather than 

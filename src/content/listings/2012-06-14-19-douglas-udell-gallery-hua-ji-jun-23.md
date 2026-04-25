@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 19
 type: ""
+venue: "Douglas Udell Gallery"
 summary: "Douglas Udell Gallery | Hua Ji | JUN 23"
 ---
 
 Hua Jin, Untitled, Opening on Saturday, June 23rd from 2-4pm
-Exhibit runs June 23 â€“ July 7
+Exhibit runs June 23 – July 7
 Douglas Udell Vancouver, 1566 W. 6th Ave., second floor
 (604) 736-8900
 vancouver@douglasudellgallery.com

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 3
 type: "TALK"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Gwen Allen | JAN 22"
 ---
 

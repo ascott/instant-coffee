@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 5
 type: "EVENT"
+venue: "North Van Arts"
 summary: "North Van Arts | You Are Here 2020 Calendar Exhibition | AUG 1"
 ---
 

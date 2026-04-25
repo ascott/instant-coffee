@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this is not a limited edition"
 emailDate: "Thu, 14 May 2009 09:10:11 -0700"
 number: 6
 type: ""
+venue: "SFU"
 summary: "SFU | David Wisdom | MAY 17"
 ---
 

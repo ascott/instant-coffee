@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 47
 type: "EDUCATION"
+venue: "Moniker Press"
 summary: "Moniker Press | WORKSHOPS: Riso Basics | OCT 14"
 ---
 

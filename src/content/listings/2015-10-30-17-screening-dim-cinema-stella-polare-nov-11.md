@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 17
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Stella Polare | NOV 11"
 ---
 
@@ -12,14 +13,14 @@ summary: "SCREENING | DIM Cinema | Stella Polare | NOV 11"
 For Remembrance Day, DIM Cinema presents Stella Polare, an immersive essay
 film on the nature of war, terror and resistance; loss, memory and
 forgetting. The soft voice of an anonymous narrator addresses us, the
-viewers, in the second person, situating us behind the camera as flÃ¢neurs
-casting our strangerâ€™s gaze across an unnamed European city. There we
-encounter some of the townâ€™s inhabitants as they stroll along a jetty in
+viewers, in the second person, situating us behind the camera as flâneurs
+casting our stranger’s gaze across an unnamed European city. There we
+encounter some of the town’s inhabitants as they stroll along a jetty in
 the fading evening light, peer into shop windows in half-deserted streets,
 and drift through the interiors of 19th-century apartments and museums,
 following the â€œdusted faded traces of a glorious imperial past.â€  From
 these images, and from fragments of sounds and voices, develops a forensic
-narrative around â€œpast histories, events and incidents that bleed into the
+narrative around “past histories, events and incidents that bleed into the
 presentâ€  (Andy Birtwhistle, Vertigo Magazine).
 
 Stella Polare | Great Britain 2006. Dir: Anthea Kennedy and Ian Wiblin. 76

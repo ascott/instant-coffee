@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 26
 type: "CALL"
+venue: "CMA Journal"
 summary: "CMA Journal | Call for Submission Issue Two | OCT 1"
 ---
 
@@ -35,7 +36,7 @@ interact with others and with our surrounding environment. The commons, a
 space of inclusivity where the people can converge, is public territory.
 Spaces in which to gather, rally, riot. Whose territory is this? Territory
 includes the interstitial spaces, alleyways and right-of-ways;
-no-personâ€™s-land. Entering new territory can evoke a sense of adventure,
+no-person’s-land. Entering new territory can evoke a sense of adventure,
 exploration, self-awareness, personal development. Territory is uncharted,
 encroached upon, contested and occupied. They overlap and collide,
 extending into realms of culture, sexuality, and religion. Territory are
@@ -43,7 +44,7 @@ lines drawn on a map, the path of a river, a habitat, a title; a
 jurisdiction, a political subdivision; a nation, a state, a province. The
 City of Vancouver takes up and takes over the unceded traditional territory
 of the Musqueam, Squamish and Tsleil-Waututh First Nations. What does
-territory mean living on Canadaâ€™s West Coast, and elsewhere? In our
+territory mean living on Canada’s West Coast, and elsewhere? In our
 contemporary moment might it determine Canadian and provincial histories
 and futures? In what ways can we discuss reconciliation, a home on Native
 land? What is territory?

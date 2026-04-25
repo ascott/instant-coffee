@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 15
 type: ""
+venue: "PAARC"
 summary: "PAARC | seeking: Outreach Development Coordinator | APR 5"
 ---
 
@@ -19,7 +20,7 @@ Advocacy:
 - Work closely with President and the Board in addressing issues as they 
 arise
 - Create a consistent and persistent stance for political elections
-- Develop and present PAARCâ€™s profile to a broader public
+- Develop and present PAARC’s profile to a broader public
 - Assist in media strategies and social media outreach
 - Initiate an advocacy program and corresponding fee schedule
 
@@ -27,9 +28,9 @@ Outreach:
 - Research and perform outreach communications to centres across the 
 province, including the emergence of newer artist-run organizations and 
 initiatives
-- Research and create additional profiles of BC ARCâ€™s and publish on 
+- Research and create additional profiles of BC ARC’s and publish on 
 arcpost.ca
-- Broaden the network of ARCâ€™s and collegial organizations regionally, 
+- Broaden the network of ARC’s and collegial organizations regionally, 
 nationally and internationally
 
 Development:
@@ -42,7 +43,7 @@ initiatives
 - Research and develop strategies for arcpost.ca to generate project revenue
 
 To this end, PAARC seeks a qualified candidate who will ideally:
-- Be an active and energetic member of BCâ€™s arts community for min. 4 years 
+- Be an active and energetic member of BC’s arts community for min. 4 years 
 or equivalent experience
 - Possess a strong command of the written word and public speaking
 - Be able to work independently with minimal supervision

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 27
 type: "PERFORMANCE"
+venue: "Chelsea Hotel"
 summary: "Chelsea Hotel | The Songs of Leonard Cohen | FEB 3"
 ---
 

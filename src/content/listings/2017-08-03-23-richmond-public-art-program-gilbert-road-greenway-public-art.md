@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 23
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Gilbert Road Greenway Public Art Opportunity | SEP 14"
 ---
 

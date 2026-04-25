@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 14
 type: ""
+venue: "221A"
 summary: "221A | Artist Talk | Gabriel Mindel-Saloman with Jayne Wilkinson | FEB 19"
 ---
 

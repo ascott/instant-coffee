@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 43
 type: "FUNDRAISER"
+venue: "Centre A"
 summary: "Centre A | 18th Anniversary Fundraising Gala & Art Auction | APR 22"
 ---
 

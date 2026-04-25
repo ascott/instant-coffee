@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 6
 type: ""
+venue: "The Morris and Helen Belkin Art Gallery"
 summary: "The Morris and Helen Belkin Art Gallery | Noon Hour Lecture: Lorraine Weir | FEB 25"
 ---
 

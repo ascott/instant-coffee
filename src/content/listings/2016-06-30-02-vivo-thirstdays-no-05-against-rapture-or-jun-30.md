@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 2
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | thirstDays No. 05 - Against Rapture; or... | JUN 30"
 ---
 

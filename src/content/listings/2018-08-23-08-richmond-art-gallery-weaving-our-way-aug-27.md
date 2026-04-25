@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 8
 type: "OPENING"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | Weaving Our Way | AUG 27"
 ---
 

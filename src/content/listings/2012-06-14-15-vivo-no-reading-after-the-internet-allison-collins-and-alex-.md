@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 15
 type: ""
+venue: "VIVO"
 summary: "VIVO | No Reading After the Internet | Allison Collins and Alex Muir | JUN 20"
 ---
 

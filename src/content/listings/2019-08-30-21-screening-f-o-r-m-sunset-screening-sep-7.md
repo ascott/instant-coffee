@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 21
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | F-O-R-M | Sunset Screening | SEP 7"
 ---
 

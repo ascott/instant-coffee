@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: on the count of three"
 emailDate: "Thu, 08 Oct 2009 09:24:10 -0700"
 number: 12
 type: ""
+venue: "ECU"
 summary: "ECU | Screening | Roadsworth: Crossing the Line | OCT 14"
 ---
 

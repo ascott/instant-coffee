@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 4
 type: ""
+venue: "VIVO"
 summary: "VIVO | VIDEO BAR | No Man's Land: aqua Games | FEB 21"
 ---
 

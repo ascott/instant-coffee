@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 5
 type: "OPENING"
+venue: "Gallery 1965"
 summary: "Gallery 1965 | Rachel Rozanski: Remnants | APR 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 16
 type: ""
+venue: "Gallery 44"
 summary: "Gallery 44 | open call, with no deadline | DEC 31"
 ---
 
@@ -17,15 +18,15 @@ the submission of exhibition proposals from emerging, mid-career and
 established artists and curators who are innovative in their use of
 materials and approach to photography. Gallery 44 views photography within
 the larger context of contemporary artistic practices and relevant cultural
-issues in todayâ€™s society.
+issues in today’s society.
 
 Submission guidelines can be viewed on our website:
 http://gallery44.org/call-for-submission/emerging-mid-career-
 and-established-artists-and-curators
 
-PROOF 22 CALL FOR EMERGING CANADIAN ARTISTS â€“ Deadline November 7
+PROOF 22 CALL FOR EMERGING CANADIAN ARTISTS – Deadline November 7
 
-Proof is Gallery 44â€™s annual exhibition of photo-based work by Canadian
+Proof is Gallery 44’s annual exhibition of photo-based work by Canadian
 emerging artists reflecting a range of current concerns and practices in
 contemporary photography from across the country. Proof is often one of the
 first exhibitions in a professional context for an emerging artist as was

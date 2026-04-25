@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 16
 type: "EXHIBITION"
+venue: "BAG"
 summary: "BAG | A Studio Quivering in Readiness | UNTIL NOV 24 | NOV 24"
 ---
 

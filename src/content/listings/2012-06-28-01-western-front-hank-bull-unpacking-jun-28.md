@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 1
 type: ""
+venue: "Western Front"
 summary: "Western Front | Hank Bull unpacking | JUN 28"
 ---
 
@@ -15,9 +16,9 @@ Western Front Gallery
 
 unpacking
 
-iâ€™m unpacking my archives, yes i am
+i’m unpacking my archives, yes i am
 or, in plain English, cleaning out the basement
-itâ€™s a kind of bag ladyâ€™s retrospective
+it’s a kind of bag lady’s retrospective
 but a better title might be
 â€œnight of the living deadâ€ 
 anyway, everything is always changing

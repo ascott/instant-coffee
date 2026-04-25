@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 20
 type: ""
+venue: "On Main"
 summary: "On Main | 10 SECONDS PROJECT | JEFF CHIBA STEARNS | SEP 19"
 ---
 
@@ -37,7 +38,7 @@ the news coverage. He has taken our collective vulnerability and is
 questioning the fine-line between controlled celebration and out-of-control
 mayhem. 
 
-â€œThis idea is about peoples' reactions to cheer when good things happen and
+“This idea is about peoples' reactions to cheer when good things happen and
 even when bad things happen. When the Olympic torch was relit for the
 Canucks' playoff run, people got excited... and when the city rioted people
 got even more excited. It's a strange world in which we liveâ€  (J.C.S., 2011).

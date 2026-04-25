@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 37
 type: "CALL"
+venue: "Tangled Art + Disability"
 summary: "Tangled Art + Disability | Call for Submissions | MAY 5"
 ---
 

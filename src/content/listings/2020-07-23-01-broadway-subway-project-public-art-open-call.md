@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 1
 type: "CALL"
+venue: "Broadway Subway Project"
 summary: "Broadway Subway Project | Public Art Open Call"
 ---
 

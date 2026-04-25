@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 29
 type: ""
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Karice Mitchell in conversation with Chelsea Yuill | APR 11"
 ---
 

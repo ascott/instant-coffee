@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stories of Home"
 emailDate: "Thu, 14 May 2020 18:35:10 -0700"
 number: 9
 type: ""
+venue: "JOB"
 summary: "JOB | Griffin Art Projects | Student Summer Position | Marketing & Public Programs Assistant | MAY 15"
 ---
 

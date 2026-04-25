@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 26
 type: "EVENT"
+venue: "ECUAD"
 summary: "ECUAD | MFA Thesis Show 2019 | 6-8PM | APR 4"
 ---
 

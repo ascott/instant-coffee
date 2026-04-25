@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 43
 type: "CALL"
+venue: "The Arts Integration Learning Lab"
 summary: "The Arts Integration Learning Lab | Performing Artists Edition | MAR 20"
 ---
 

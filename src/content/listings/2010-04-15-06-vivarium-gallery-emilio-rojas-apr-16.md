@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 6
 type: ""
+venue: "Vivarium Gallery"
 summary: "Vivarium Gallery | Emilio Rojas | APR 16"
 ---
 
@@ -24,7 +25,7 @@ Contrary to the fundamental ethos of sports this type of nationalist antagonism 
 deep hatred, violence triggered by competition, and passionate behaviors that allow interactions 
 outside of the norms of conduct. Traditionally the Olympic Games are the highest stage for 
 nationalist competition, being reflected in their history of political conflicts going back to their re-
-establishment at the end of the 1800â€™s. Consider a matter of national pride, sport events like the 
+establishment at the end of the 1800’s. Consider a matter of national pride, sport events like the 
 final hockey game (Canada vs. the U.S.), allow homoerotic interactions between supporting 
 members of the same team, and homophobic remarks against the adversaries that otherwise 
 would be consider unacceptable.

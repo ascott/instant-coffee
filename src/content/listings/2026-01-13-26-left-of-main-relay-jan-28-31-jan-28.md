@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 26
 type: "PERFORMANCE"
+venue: "Left of Main"
 summary: "Left of Main | RELAY | JAN 28 + 31 | JAN 28"
 ---
 

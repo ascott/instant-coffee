@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 13
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Louise Noguchi | NOV 14"
 ---
 

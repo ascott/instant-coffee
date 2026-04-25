@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 31
 type: "CALL"
+venue: "Art Gallery of Guelph"
 summary: "Art Gallery of Guelph | 3rd Middlebrook Prize for YoungCanadian Curators | MAY 1"
 ---
 
@@ -51,25 +52,25 @@ Note that the award winner must be under 30 years of age by December 31,
 2015 and is required to demonstrate proof of age on signing of the
 exhibition contract.
 
-Visit the Art Gallery of Guelphâ€™s website for more information, including a
+Visit the Art Gallery of Guelph’s website for more information, including a
 floor plan:
 http://www.artgalleryofguelph.ca/3rd-annual-middlebrook-prize-young-canadian-curators
 
 Important Dates
-Call for Submissions: March 31 â€“ May 1, 2015
+Call for Submissions: March 31 – May 1, 2015
 Winning Recipient Announcement: May 11, 2015
-Exhibition Dates: September 17 â€“ December 13, 2015
+Exhibition Dates: September 17 – December 13, 2015
 Exhibition Reception: September 17, 2015
 
 Applications are to be submitted in a single PDF document, with the subject
 line Middlebrook Prize, to: Middlebrook Prize Jury at info@msac.ca
 
 The Middlebrook Prize for Young Canadian Curators is funded by the Centre
-Wellington Community Foundationâ€™s Middlebrook Social Innovation Fund, with
+Wellington Community Foundation’s Middlebrook Social Innovation Fund, with
 support from John and Miranda Kissick.
 
-The Macdonald Stewart Art Centre and its sponsors â€” University of Guelph,
-City of Guelph, and the Upper Grand District School Board â€” acknowledge the
+The Macdonald Stewart Art Centre and its sponsors — University of Guelph,
+City of Guelph, and the Upper Grand District School Board — acknowledge the
 support of the Ontario Arts Council, Canada Council for the Arts, Ontario
 Trillium Foundation, and the Department of Canadian Heritage.
 

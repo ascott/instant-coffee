@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 44
 type: "TALK"
+venue: "Thompson Community Centre"
 summary: "Thompson Community Centre | Artist Talk with Pierre Leichner | MAR 28"
 ---
 

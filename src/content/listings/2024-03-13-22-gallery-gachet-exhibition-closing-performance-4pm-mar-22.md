@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 22
 type: "EVENT"
+venue: "gallery gachet"
 summary: "gallery gachet | exhibition closing performance | 4PM | MAR 22"
 ---
 

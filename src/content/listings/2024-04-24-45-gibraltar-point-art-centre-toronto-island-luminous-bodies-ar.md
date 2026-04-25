@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 45
 type: "CALL"
+venue: "Gibraltar Point Art Centre, Toronto Island"
 summary: "Gibraltar Point Art Centre, Toronto Island | LUMINOUS BODIES art residency | JUN 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 4
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Elizabeth McIntosh, Monique Mouton, Silke Otto-Kna | MAY 25"
 ---
 

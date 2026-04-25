@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 9
 type: "EVENT"
+venue: "Or Gallery"
 summary: "Or Gallery | The Seventh: Artist Conversation | NOV 25"
 ---
 

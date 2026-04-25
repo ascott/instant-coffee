@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 39
 type: "EVENT"
+venue: "Yactac Craft Fair"
 summary: "Yactac Craft Fair | 3360 Fraser street | NOV 24-25 | 10AM-3PM | NOV 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 6
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Mass Residue | 7 PM | JAN 31"
 ---
 

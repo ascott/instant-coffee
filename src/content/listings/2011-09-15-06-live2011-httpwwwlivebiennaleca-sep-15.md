@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 6
 type: ""
+venue: "LIVE2011"
 summary: "LIVE2011 | http://www.livebiennale.ca | SEP 15"
 ---
 
@@ -31,9 +32,9 @@ Monday, Sept 19, Trench Gallery, 6:00PM
 Robin Brass
 
 Tuesday, Sept 20, Gachet, 7:00PM
-FOLLY - "lâ€™Ã©tat de folie perÃ§u" - Curated by Irene Loughlin
+FOLLY - "l’état de folie perçu" - Curated by Irene Loughlin
 
-Diane Thorn, Irene Loughlin, Naufus Ramirez-Figueroa, Pedro GuillÃ¨n Cuevas 
+Diane Thorn, Irene Loughlin, Naufus Ramirez-Figueroa, Pedro Guillèn Cuevas 
 aka Tecuani Chen
 
 Wednesday, Sept 21, 7:00PM
@@ -58,11 +59,11 @@ CLOSING: Re-LIVE - Curated by Jesse Birch
 Raymond Boisjoly, Francisco-Fernando Granados, Curtis Grahauer, Brian Lye, 
 Elizabeth Milton, Ron Tran
 
-Sept 9 â€“ Oct 22, Satellite Gallery Storefront Window (560 Seymour Street)
+Sept 9 – Oct 22, Satellite Gallery Storefront Window (560 Seymour Street)
 Brian Lye
 
 Sept 19, 21, VIVO
-Curated by Marie-HÃ©lÃ¨ne Tessier
+Curated by Marie-Hélène Tessier
 Nicolas Boone
 September 19 - Liquidation at Pacific Cinematheque
 September 21 - Video Presentation at VIVO

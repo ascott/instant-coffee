@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 37
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Hastings Park, Livestock Building | Japanese Problem | SEPT 13-19 | SEP 13"
 ---
 

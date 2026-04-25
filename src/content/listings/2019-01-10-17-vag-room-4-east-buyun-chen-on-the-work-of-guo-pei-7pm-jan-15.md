@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 17
 type: "TALK"
+venue: "VAG -Room 4 East"
 summary: "VAG -Room 4 East | BuYun Chen on the work of Guo Pei | 7PM | JAN 15"
 ---
 

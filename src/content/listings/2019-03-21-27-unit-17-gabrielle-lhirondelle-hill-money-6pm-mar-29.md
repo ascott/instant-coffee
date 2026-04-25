@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 27
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Gabrielle L'Hirondelle Hill: Money | 6PM | MAR 29"
 ---
 

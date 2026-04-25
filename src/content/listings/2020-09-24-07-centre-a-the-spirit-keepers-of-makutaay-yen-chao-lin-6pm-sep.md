@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 7
 type: "TALK"
+venue: "Centre A"
 summary: "Centre A | THE SPIRIT KEEPERS OF MAKUTAAY | YEN-CHAO LIN | 6PM | SEP 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 14
 type: "EVENT"
+venue: "[ONLINE] Agony Klub, Publication Studio Vancouver"
 summary: "[ONLINE] Agony Klub, Publication Studio Vancouver | Friend Poems: Launch & Reading | 5PM | FEB 26"
 ---
 

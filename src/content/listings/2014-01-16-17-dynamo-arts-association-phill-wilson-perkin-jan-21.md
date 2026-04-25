@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 17
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Phill Wilson-Perkin | JAN 21"
 ---
 
@@ -25,12 +26,12 @@ Phill Wilson-Perkin (b.1978) is an artist based in London, England. He
 achieved his Master of Fine Arts degree at Chelsea College of Art and Design 
 in 2008. Previous to that, he studied at Coventry University. Wilson-Perkin has 
 a long standing interest in subcultures, altered states and magic. His 
-exhibitions include â€˜How we Maybeâ€™ at Tate Britain, â€˜Deviant Artâ€™ in 
-Gothemberg, â€˜A Church, A Courthouse and A Barâ€™ in Nashville, USA and at 
-â€˜Supermarketâ€™ art fair in Stockholm. Wilson-Perkin also works with the 
-â€˜Freeschoolâ€™ group, organising free educational publications and events such 
-as â€˜Hanging out with Halo Jonesâ€™, with Dr Maggie Grey and â€˜DMT and the God 
-with a Thousand Eyesâ€™ with Dr Dave Jones.
+exhibitions include ‘How we Maybe’ at Tate Britain, ‘Deviant Art’ in 
+Gothemberg, ‘A Church, A Courthouse and A Bar’ in Nashville, USA and at 
+‘Supermarket’ art fair in Stockholm. Wilson-Perkin also works with the 
+‘Freeschool’ group, organising free educational publications and events such 
+as ‘Hanging out with Halo Jones’, with Dr Maggie Grey and ‘DMT and the God 
+with a Thousand Eyes’ with Dr Dave Jones.
 
 This exhibition is presented by SHIP 
 http://cargocollective.com/_Ship_Art_/

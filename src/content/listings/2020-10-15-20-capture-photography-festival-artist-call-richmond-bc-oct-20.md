@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 20
 type: "CALL"
+venue: "Capture Photography Festival Artist Call"
 summary: "Capture Photography Festival Artist Call | Richmond, BC | OCT 20"
 ---
 

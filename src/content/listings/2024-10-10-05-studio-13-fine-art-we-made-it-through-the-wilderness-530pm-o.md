@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 5
 type: "OPENING"
+venue: "Studio 13 Fine Art"
 summary: "Studio 13 Fine Art | we made it through the wilderness | 530PM | OCT 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "CSA Space"
 summary: "CSA Space | Christian Newby"
 ---
 

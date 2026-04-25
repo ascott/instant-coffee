@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 19
 type: "EVENT"
+venue: "Eastside Culture Crawl"
 summary: "Eastside Culture Crawl | Chrissy Cheung | NOV 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Marc Bell - Total Residuum | MAY 23"
 ---
 

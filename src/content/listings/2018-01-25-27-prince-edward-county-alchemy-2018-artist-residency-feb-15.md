@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 27
 type: ""
+venue: "Prince Edward County"
 summary: "Prince Edward County | ALCHEMY 2018 ARTIST RESIDENCY | FEB 15"
 ---
 

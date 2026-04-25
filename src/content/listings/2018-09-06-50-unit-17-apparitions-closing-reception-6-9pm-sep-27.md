@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 50
 type: "EVENT"
+venue: "Unit 17"
 summary: "Unit 17 | Apparitions | CLOSING RECEPTION | 6-9PM | SEP 27"
 ---
 

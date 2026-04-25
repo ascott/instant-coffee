@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 8
 type: ""
+venue: "The Pavilion (Langara College)"
 summary: "The Pavilion (Langara College) | The New Paradigm: Models, Diagrams, Proposals... | MAR 3"
 ---
 

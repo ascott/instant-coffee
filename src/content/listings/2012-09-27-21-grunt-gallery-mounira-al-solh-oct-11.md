@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 21
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Mounira Al Solh | OCT 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 9
 type: "EVENT"
+venue: "TEN DIFFERENT THINGS"
 summary: "TEN DIFFERENT THINGS | Henry Tsang: RIOT FOOD HERE | MAY 21"
 ---
 

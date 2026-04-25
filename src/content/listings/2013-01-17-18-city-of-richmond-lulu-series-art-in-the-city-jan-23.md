@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 18
 type: ""
+venue: "City of Richmond"
 summary: "City of Richmond | Lulu Series: Art in the City | JAN 23"
 ---
 
 Lulu Series: Art in the City
 
-Whatâ€™s art got to do with renewing the relationships that citizens have to their 
+What’s art got to do with renewing the relationships that citizens have to their 
 urban environment? Find out on Wednesday, January 23 at 7 p.m. at 
-Richmond City Hall, when Sans faÃ§on (a.k.a., French architect Charles Blanc 
+Richmond City Hall, when Sans façon (a.k.a., French architect Charles Blanc 
 and British artist, Tristan Surtees), presents the first of three talks in the 2013 
 Lulu Series: Art in the City.
 
 Currently working with the City of Calgary, this internationally recognized duo 
 is leading Watershed+, a city-wide program where artists and artistic 
-practices are embedded within the Cityâ€™s core activities, participating as 
+practices are embedded within the City’s core activities, participating as 
 members of infrastructure design teams, developing community events, 
 education and more.
 
@@ -30,7 +31,7 @@ This talk will be preceded by a short performance by rising star cellist, Cris
 Derksen, who is known for weaving traditional classical training and aboriginal 
 ancestry with new school electronics.
 
-Sans faÃ§onâ€™s talk is the first of three events in the 2013 Lulu Series.
+Sans façon’s talk is the first of three events in the 2013 Lulu Series.
 
 On Thursday, February 21, Paul Jardine (Victoria) will review the trajectory of 
 her artistic practice which incorporates elements of landscape, poetry, 
@@ -55,7 +56,7 @@ explores the relationship between art and our urban environment.
 
 For more information, visit www.richmond.ca/luluseries.
 
-Sans faÃ§on is presented with support from: chART: Marpole public art, Emily 
+Sans façon is presented with support from: chART: Marpole public art, Emily 
 Carr University of Art + Design, Canada Council for the Arts and Social 
 Sciences and Humanities Research Council (SSHRC).
 

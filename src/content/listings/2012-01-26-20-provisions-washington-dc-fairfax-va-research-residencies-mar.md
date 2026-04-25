@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 20
 type: ""
+venue: "PROVISIONS, Washington DC & Fairfax VA"
 summary: "PROVISIONS, Washington DC & Fairfax VA | RESEARCH RESIDENCIES | MAR 1"
 ---
 
@@ -25,7 +26,7 @@ Resources
 Provisions will provide participants comfortable, convivial, and easily 
 accessible lodging in the DC area, travel funds, and a stipend of $2000 
 for each resident. Residents will enjoy access to George Mason 
-Universityâ€™s studio facility, project facilitation, and opportunities to build 
+University’s studio facility, project facilitation, and opportunities to build 
 DC networks. Residency curators will assist in project and research 
 curation in public spaces and surrounding institutions.
 

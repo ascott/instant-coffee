@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 10
 type: ""
+venue: "Everything about Sculpture"
 summary: "Everything about Sculpture | new, online database | SEP 16"
 ---
 

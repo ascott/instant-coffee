@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 3
 type: ""
+venue: "Model"
 summary: "Model | Magni Borgehed | FEB 27"
 ---
 

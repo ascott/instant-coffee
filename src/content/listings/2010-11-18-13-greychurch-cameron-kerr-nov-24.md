@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 13
 type: ""
+venue: "GreyChurch"
 summary: "GreyChurch | Cameron Kerr | NOV 24"
 ---
 

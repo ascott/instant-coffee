@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: #tearitdown2018"
 emailDate: "Thu, 25 Oct 2018 12:00:18 -0700"
 number: 14
 type: "OPENING"
+venue: "ECUAD"
 summary: "ECUAD | things resounding things... | NOV 1"
 ---
 

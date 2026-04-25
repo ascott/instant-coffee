@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 2
 type: ""
+venue: "READ Books at Satellite Gallery"
 summary: "READ Books at Satellite Gallery | Arnaud Desjardin | NOV 23"
 ---
 

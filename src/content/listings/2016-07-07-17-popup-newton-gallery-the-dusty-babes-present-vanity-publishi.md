@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 17
 type: "OPENING"
+venue: "PopUp Newton Gallery"
 summary: "PopUp Newton Gallery | The Dusty Babes Present: \"Vanity Publishing\" | JUL 9"
 ---
 

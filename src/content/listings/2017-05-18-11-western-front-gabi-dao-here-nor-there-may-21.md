@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 11
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Gabi Dao- Here Nor There | MAY 21"
 ---
 

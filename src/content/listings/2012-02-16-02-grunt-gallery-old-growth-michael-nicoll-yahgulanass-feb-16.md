@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 2
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Old Growth Michael Nicoll Yahgulanass | FEB 16"
 ---
 
@@ -23,7 +24,7 @@ Old Growth Book Launch
 Michael Nicoll Yahgulanaas 
 
 Thursday February 16, 2012, 7-9pm 
-Rhizome CafÃ©
+Rhizome Café
 317 East Broadway, Vancouver
 
 Old Growth Michael Nicoll Yahgulanass

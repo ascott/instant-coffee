@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: show us your jazz hands"
 emailDate: "Thu, 07 May 2009 09:10:15 -0700"
 number: 10
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | Chris Welsby | MAY 11"
 ---
 

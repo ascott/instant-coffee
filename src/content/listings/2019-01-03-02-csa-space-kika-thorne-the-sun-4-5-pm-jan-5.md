@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GET WITH IT"
 emailDate: "Thu, 03 Jan 2019 09:00:40 -0800"
 number: 2
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Kika Thorne | The Sun | 4-5 pm | JAN 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 11
 type: "EVENT"
+venue: "Eastside Atelier"
 summary: "Eastside Atelier | Fuse & Form | 5PM | MAY 30"
 ---
 

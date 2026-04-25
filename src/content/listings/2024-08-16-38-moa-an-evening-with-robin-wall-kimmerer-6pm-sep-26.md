@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 38
 type: "EVENT"
+venue: "MOA"
 summary: "MOA | An Evening with Robin Wall Kimmerer | 6PM | SEP 26"
 ---
 

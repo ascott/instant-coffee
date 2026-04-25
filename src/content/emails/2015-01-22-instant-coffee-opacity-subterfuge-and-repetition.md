@@ -323,7 +323,7 @@ Kathleen Ritter is an artist based in Vancouver and Paris. She was an
 artist in residence at La Cité Internationale des Arts, Paris, in 2013. Her
 art practice broadly explores questions of visibility, especially in
 relation to systems of power, language and technology. Recent solo
-exhibitions include G Gallery, Toronto, and Battat Contemporary, MontrÃ©al,
+exhibitions include G Gallery, Toronto, and Battat Contemporary, Montréal,
 both in 2014. In addition Ritter has organized exhibitions in Canada and
 abroad. From 2007 to 2012, she was the Associate Curator at the Vancouver
 Art Gallery. Her writing on contemporary art has appeared in ESSE, Prefix

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 23
 type: ""
+venue: "Nanaimo Art Gallery"
 summary: "Nanaimo Art Gallery | Call to Artists: The December Show | OCT 21"
 ---
 
@@ -37,10 +38,10 @@ standards.
 
 To apply, artists must submit the following:
 
-Â· Jpeg images of the artwork(s). Images must be clearly labeled with 
+· Jpeg images of the artwork(s). Images must be clearly labeled with 
 artist name, title and date.
 
-Â· In a pdf or Word document, please include: (1) a short artist bio/CV; (2) 
+· In a pdf or Word document, please include: (1) a short artist bio/CV; (2) 
 a list of submitted works with title, size, medium, date, dimensions and 
 installation specifications; (3) a short description of each work (approx. 200 
 words)

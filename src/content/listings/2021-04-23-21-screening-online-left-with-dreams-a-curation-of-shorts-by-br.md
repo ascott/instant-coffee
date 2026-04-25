@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 21
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | [ONLINE] | Left with Dreams: A curation of shorts by Brittney | APR 25"
 ---
 

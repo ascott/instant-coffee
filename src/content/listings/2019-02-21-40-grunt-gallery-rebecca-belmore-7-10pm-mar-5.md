@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 40
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Rebecca Belmore | 7-10PM | MAR 5"
 ---
 

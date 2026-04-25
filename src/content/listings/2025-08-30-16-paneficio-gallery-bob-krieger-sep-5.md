@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "Paneficio Gallery"
 summary: "Paneficio Gallery | Bob Krieger | SEP 5"
 ---
 

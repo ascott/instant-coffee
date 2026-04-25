@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 13
 type: "EDUCATION"
+venue: "Branscombe House"
 summary: "Branscombe House | Podcasting Workshop | MAY 10"
 ---
 

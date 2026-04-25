@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 9
 type: ""
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | â€œDeniseâ€  | FEB 12"
 ---
 
@@ -11,8 +12,8 @@ UBC Department of Art History, Visual Art and Theory presents:
 
 â€œDeniseâ€  - a new exhibition at the AHVA Gallery 
 
-Exhibition Dates: February 12 â€“ March 1, 2014
-Opening Reception: Wednesday, February 12, 5 â€“ 7pm
+Exhibition Dates: February 12 – March 1, 2014
+Opening Reception: Wednesday, February 12, 5 – 7pm
 
 Please join the Department of Art History, Visual Art and Theory, UBC 
 at the new AHVA Gallery on Wednesday, February12th between 5 and 
@@ -28,6 +29,6 @@ Ducharme, Jessica Gnyp , Daniel Phillips and Michelle Weinstein.
 
 Address: AHVA Gallery - rm. 1001, Audain Art Centre, 6398 University 
 Blvd.
-Gallery Hours: Wednesday â€“ Saturday, 12 â€“ 4pm.
+Gallery Hours: Wednesday – Saturday, 12 – 4pm.
 Phone: 604 822 4563
 Web: www.gallery.ahva.ubc.ca

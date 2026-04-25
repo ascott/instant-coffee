@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 10
 type: ""
+venue: "BELKIN"
 summary: "BELKIN | DAVID CLAERBOUT | screening | OCT 17"
 ---
 

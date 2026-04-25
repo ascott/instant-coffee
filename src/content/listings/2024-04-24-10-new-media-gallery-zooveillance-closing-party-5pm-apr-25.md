@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 10
 type: "EVENT"
+venue: "New Media Gallery"
 summary: "New Media Gallery | ZOOVEILLANCE Closing Party | 5PM | APR 25"
 ---
 

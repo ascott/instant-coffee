@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 17
 type: "TALK"
+venue: "ECU Relance Theatre"
 summary: "ECU Relance Theatre | Ian Wallace + Dr. Trish Kelly | OCT 16"
 ---
 

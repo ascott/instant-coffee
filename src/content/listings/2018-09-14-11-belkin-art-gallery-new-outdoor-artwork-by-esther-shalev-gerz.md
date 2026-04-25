@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 11
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | New Outdoor Artwork by Esther Shalev-Gerz | SEP 16"
 ---
 

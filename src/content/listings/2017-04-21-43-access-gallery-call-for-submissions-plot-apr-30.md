@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 43
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Call for Submissions: PLOT | APR 30"
 ---
 

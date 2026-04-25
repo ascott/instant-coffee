@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 19
 type: ""
+venue: "2014 Toronto Korean Film Festival"
 summary: "2014 Toronto Korean Film Festival | Call for Submissions | MAR 14"
 ---
 

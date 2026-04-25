@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 21
 type: ""
+venue: "JOB"
 summary: "JOB | Centre A | Administrative Assistant | SEP 18"
 ---
 

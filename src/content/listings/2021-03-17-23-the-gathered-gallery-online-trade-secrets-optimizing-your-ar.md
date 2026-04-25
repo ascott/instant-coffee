@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 23
 type: "EDUCATION"
+venue: "THE GATHERED GALLERY [ONLINE]"
 summary: "THE GATHERED GALLERY [ONLINE] | TRADE SECRETS: OPTIMIZING YOUR ARTIST WEBSITE | MAR 23"
 ---
 

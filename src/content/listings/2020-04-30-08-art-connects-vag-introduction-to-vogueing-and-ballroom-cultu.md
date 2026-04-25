@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 8
 type: "TALK"
+venue: "Art Connects (VAG)"
 summary: "Art Connects (VAG) | Introduction to Vogueing and Ballroom Culture | MAY 1"
 ---
 

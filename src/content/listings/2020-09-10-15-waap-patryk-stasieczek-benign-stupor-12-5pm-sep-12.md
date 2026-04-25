@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 15
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | PATRYK STASIECZEK | Benign Stupor | 12-5PM | SEP 12"
 ---
 

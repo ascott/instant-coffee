@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 2
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Carlos Colin | 7-10PM | JAN 10"
 ---
 

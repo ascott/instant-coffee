@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 40
 type: "CALL"
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | Mural, Request for Qualifications (RFQ) | MAR 5"
 ---
 

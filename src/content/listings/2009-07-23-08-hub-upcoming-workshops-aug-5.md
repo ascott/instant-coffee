@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't be fooled"
 emailDate: "Thu, 23 Jul 2009 10:00:47 -0700"
 number: 8
 type: ""
+venue: "HUB"
 summary: "HUB | Upcoming Workshops | AUG 5"
 ---
 

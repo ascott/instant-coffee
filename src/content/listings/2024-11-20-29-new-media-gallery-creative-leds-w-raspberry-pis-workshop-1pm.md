@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 29
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Creative LEDs w/ Raspberry PIs [Workshop] | 1PM | NOV 30"
 ---
 

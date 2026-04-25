@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 10
 type: ""
+venue: "Regional Municipality of Wood Buffalo"
 summary: "Regional Municipality of Wood Buffalo | Artist Mentor for Artist in Residency Program | FEB 24"
 ---
 

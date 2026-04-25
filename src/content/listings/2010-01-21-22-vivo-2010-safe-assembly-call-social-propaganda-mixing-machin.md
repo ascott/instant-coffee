@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 22
 type: ""
+venue: "VIVO 2010: Safe Assembly"
 summary: "VIVO 2010: Safe Assembly | CALL: SOCIAL PROPAGANDA MIXING MACHINE | MAR 31"
 ---
 

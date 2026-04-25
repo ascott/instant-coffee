@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 12
 type: ""
+venue: "cafe for contemporary art"
 summary: "cafe for contemporary art | myconceptstore by Dirk Fleischmann | JUL 18"
 ---
 
@@ -24,13 +25,13 @@ HANGS IN THE BALANCE.
 Some artists, like companies, focus on creating one type of product over
 and over again; others, over time, grow massively diverse portfolios of
 products and services. Starting with a chocolate bar vendor he titled
-mykiosk, since 1997, KoreaÃ¢ï¿½ï¿½based German artist Dirk Fleischmann has been
+mykiosk, since 1997, Koreaâ��based German artist Dirk Fleischmann has been
 building a highly diversified conglomerate of micro companies, a practice
 through which he investigates contemporary modes of production, as they
-pertain to both economic value and cultural meaning. FleischmannÃ¢ï¿½ï¿½s
+pertain to both economic value and cultural meaning. Fleischmannâ��s
 enterprises range from chandelier manufacturing to textiles and
 derivatives. Riffing off of the strategies of artists engaged in
-institutional critique and social practice alike, FleischmannÃ¢ï¿½ï¿½s work
+institutional critique and social practice alike, Fleischmannâ��s work
 explores the relationship between narrative and commodification.
 Considering abstraction inherent in geographic distance his work probes
 questions surrounding collaboration, status and new international divisions

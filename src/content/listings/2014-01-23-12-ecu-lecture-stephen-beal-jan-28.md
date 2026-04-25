@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 12
 type: ""
+venue: "ECU"
 summary: "ECU | Lecture Stephen Beal | JAN 28"
 ---
 
@@ -31,7 +32,7 @@ CCA has nearly doubled since Beal arrived in 1997.
 This lecture is presented as a part of 'Imagining Our Future', an 
 expansive, experimental and provocative three year series of events 
 and activities that explore the geographical, historical, and cultural 
-context of our anticipated move to the False Creek Flats (SenÃ¡kw). At 
+context of our anticipated move to the False Creek Flats (Senákw). At 
 this seminal moment in our institution?s history, the series brings 
 together practitioners from across a range of practices and fields of 
 inquiry, evoking both radical and practical propositions for how we 

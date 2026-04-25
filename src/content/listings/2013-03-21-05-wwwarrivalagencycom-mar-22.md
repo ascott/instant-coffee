@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 5
 type: ""
+venue: "www.arrivalagency.com"
 summary: "www.arrivalagency.com | | MAR 22"
 ---
 
@@ -13,16 +14,16 @@ agency poised to shake up Vancouver's cultural scene.
 The group responsible for reimagining the Waldorf Hotel have 
 announced the formation of Arrival, a new agency that will be 
 collaborating on a series of projects, including the much hyped Fox 
-Cabaret on Main Street. The teamâ€” led by Ernesto Gomez and 
-Thomas Anselmi â€” will be producing events, booking live music and 
+Cabaret on Main Street. The team— led by Ernesto Gomez and 
+Thomas Anselmi — will be producing events, booking live music and 
 entertainment, and looking to consult and collaborate with other like-
 minded Vancouver organizations. Some initial projects for the agency 
 will include:
 
-â€¢ Programming for a massive outdoor block party.
-â€¢ The relaunch of last year's wildly popular Food Cart Festival.
-â€¢ Developing a concept for a new multi-venue creative hub.
-â€¢ The transformation of the Fox, a notorious porn theatre, into a new 
+• Programming for a massive outdoor block party.
+• The relaunch of last year's wildly popular Food Cart Festival.
+• Developing a concept for a new multi-venue creative hub.
+• The transformation of the Fox, a notorious porn theatre, into a new 
 kind of venue.
 
 "Our mission is to create cultural experiences that are exceptional and 
@@ -34,7 +35,7 @@ The Waldorf, a historic hotel located in a remote industrial area of East
 Vancouver. The team saw potential in the space as a creative 
 compound where contemporary art, music, food and culture could 
 convene under one roof. Under the leadership of this team, the hotel 
-flourished as an essential gathering space for Vancouverâ€™s diverse 
+flourished as an essential gathering space for Vancouver’s diverse 
 creative community. Sale of the hotel in early January forced the group 
 to cease operations, causing a media and public outcry. The Globe 
 and Mail described the closure as "the gutting of an art scene" for what 
@@ -95,4 +96,4 @@ Twitter: @ArrivalAgency
 Instagram: @ArrivalAgency
 Facebook: /ArrivalVancouver
 ***
-Â©2013 Arrival Agency | www.arrivalagency.com
+©2013 Arrival Agency | www.arrivalagency.com

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 15
 type: "EVENT"
+venue: "SFU"
 summary: "SFU | Online | FREE / RSVP | ilvs strauss' MFA Project: Peter and the Wolf | OCT 8"
 ---
 

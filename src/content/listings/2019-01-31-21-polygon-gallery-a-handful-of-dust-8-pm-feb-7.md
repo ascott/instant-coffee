@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 21
 type: "OPENING"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | a Handful of Dust | 8 PM | FEB 7"
 ---
 

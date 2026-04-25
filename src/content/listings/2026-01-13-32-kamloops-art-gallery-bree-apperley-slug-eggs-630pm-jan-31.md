@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 32
 type: "OPENING"
+venue: "Kamloops Art Gallery"
 summary: "Kamloops Art Gallery | Bree Apperley: Slug Eggs | 630PM | JAN 31"
 ---
 

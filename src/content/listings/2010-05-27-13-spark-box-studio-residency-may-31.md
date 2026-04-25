@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 13
 type: ""
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | Residency | MAY 31"
 ---
 
 Spark Box Studio Residency is now accepting Fall 2010 applications.
 
-Spark Box Studioâ€™s Artist Residency Program provides live/work space to
+Spark Box Studio’s Artist Residency Program provides live/work space to
 accommodate both emerging and professional printmakers, photographers,
 painters, illustrators and writers. Artists-in-residence have access to our
 professional studio and resources. The Residency Program affords artists

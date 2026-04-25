@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 32
 type: "OPENING"
+venue: "Connection Salon Gallery"
 summary: "Connection Salon Gallery | Connection Salon Members Show Exhibition | FEB 20"
 ---
 

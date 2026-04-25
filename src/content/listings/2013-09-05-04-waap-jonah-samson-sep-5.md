@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 4
 type: ""
+venue: "WAAP"
 summary: "WAAP | JONAH SAMSON | SEP 5"
 ---
 
@@ -26,7 +27,7 @@ The Flowers of Evil and the writings of French thief and prostitute, Jean Genet,
 who stated: "There exists a close relationship between flowers and convicts.
 The fragility and delicacy of the former are of the same nature as the brutal
 insensitivity of the latter". This deeply resonant statement was a theme
-throughout all of GenetÃ¢â‚¬â„¢s writings, and becomes the foundation for this 
+throughout all of Genetâ€™s writings, and becomes the foundation for this 
 body of
 work.
 
@@ -43,7 +44,7 @@ photography in an age of digital production.
 Jonah Samson has been photographing, writing, curating and collecting for
 over a decade. His writing on photography has been included in magazines
 across North America. He has exhibited nationally and internationally,
-including Otherworldly at the MusÃƒÂ©e EugÃƒÂ¨ne Leroy, Lille, France (2012) 
+including Otherworldly at the MusÃ©e EugÃ¨ne Leroy, Lille, France (2012) 
 and
 the Museum of Arts and Design, New York (2011), Pleasantville at Studio 9,
 Istanbul (2011), The Archives of Pleasantville Historical Society at G. Gibson
@@ -52,6 +53,6 @@ in the UK (2010). In September 2013 Samson will present Another Happy
 Day, a selection of found photographs from his personal collection, which he
 was invited to develop into a book and exhibition at Presentation House
 Gallery, Vancouver. In the same month he will also release an artist
-publication titled Dead ManÃ¢â‚¬â„¢s Hand, based on early 20th century crime
+publication titled Dead Manâ€™s Hand, based on early 20th century crime
 photography and Film Noir. Samson currently lives on Cape Breton Island,
 Nova Scotia.

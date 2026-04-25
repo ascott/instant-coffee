@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 18
 type: "EVENT"
+venue: "grunt gallery"
 summary: "grunt gallery | Recollective: Vancouver Independent Archives Week | JUL 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 39
 type: "EVENT"
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | Close Reading | SEP 16"
 ---
 
@@ -11,14 +12,14 @@ Close Reading
 Burrard Arts Foundation, 108 East Broadway, Vancouver B.C., V5T
 1V9
 Wednesday, September 16th, 2015
-7:00pmâ€”9:30pm
+7:00pm—9:30pm
 
 (Artist books will be available for purchase, and beverages from 33
 Acres Brewing Company will be served.
 This event will be cash only.)
 
 The Burrard Arts Foundation presents Close Reading, an event
-celebrating the launch of the artist book â€œI See Things In You (36
+celebrating the launch of the artist book “I See Things In You (36
 Vancouver Galleries)â€ . Produced by Alexandra Bischoff during BAFâ€™s
 inaugural writing residency, this publication both personifies the art
 gallery and fetishizes the relationship between artist, viewer, and
@@ -37,7 +38,7 @@ before an audience; it is within the unique context of this divergence
 that Close Reading encourages the audience to
 interpret the offered texts.
 
-AdÃ¨le Barclayâ€™s writing has appeared in The Literary Review of
+Adèle Barclay’s writing has appeared in The Literary Review of
 Canada, The Pinch, Poetry Is Dead, The Rusty Toque, The Puritan,
 Matrix, Plenitude, and others. She writes and edits arts and culture
 coverage for VANDOCUMENT and is currently writing her doctoral

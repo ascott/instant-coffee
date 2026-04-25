@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 5
 type: ""
+venue: "Bestway"
 summary: "Bestway | Ron Tran | MAY 23"
 ---
 

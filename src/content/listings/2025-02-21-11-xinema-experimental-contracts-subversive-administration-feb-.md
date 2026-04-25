@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 11
 type: "EDUCATION"
+venue: "XINEMA"
 summary: "XINEMA | EXPERIMENTAL CONTRACTS & SUBVERSIVE ADMINISTRATION | FEB 22"
 ---
 

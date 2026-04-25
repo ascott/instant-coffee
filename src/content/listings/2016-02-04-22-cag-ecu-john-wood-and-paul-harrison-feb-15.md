@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 22
 type: "TALK"
+venue: "CAG @ ECU"
 summary: "CAG @ ECU | John Wood and Paul Harrison | FEB 15"
 ---
 

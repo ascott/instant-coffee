@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 12
 type: "OPENING"
+venue: "EXERCISE"
 summary: "EXERCISE | Adam Harrison | DEC 7"
 ---
 
@@ -12,9 +13,9 @@ Exercise is pleased to announce:
 Adam Harrison
 Exposure Length: Four Hours
 
-December 7 â€” January 19
+December 7 — January 19
 
-Please join us for the opening reception Friday December 7, 6â€”10 pm
+Please join us for the opening reception Friday December 7, 6—10 pm
 
 Gallery hours 12-5 Friday and Saturday (ring buzzer)
 Or by appointment

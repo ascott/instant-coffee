@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 7
 type: ""
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | ROLLING THUNDER | MAR 9"
 ---
 
@@ -49,7 +50,7 @@ Artist Residency in Dawson City. He is a member of the performance-
 collective Weekend Leisure, with recent events in Vancouver, Portland, and
 Seattle. Currently, he is working on a feature film project, Steel Viper Force,
 inspired by straight-to-DVD action movies, acting as producer, co-writer and
-director and has an upcoming residency at SÃƒ M in Reykjavik.
+director and has an upcoming residency at SÃ M in Reykjavik.
 
 ROLLING THUNDER VIDEO
 
@@ -67,7 +68,7 @@ THE STORYBOARD LABEL
 SBL is a loosely formulated art and music collective in Vancouver, BC.
 www.storyboardlabel.com
 
-Copyright Ã‚Â© 2013 Storyboard Label, All rights reserved.
+Copyright Â© 2013 Storyboard Label, All rights reserved.
 Somehow you ended up on this list, if you want off, please unsubscribe.
 
 Our mailing address is:

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 8
 type: "EDUCATION"
+venue: "Chinese Cultural Centre Museum"
 summary: "Chinese Cultural Centre Museum | Write Your Own Chinese Opera 101 (Workshop) | APR 22"
 ---
 

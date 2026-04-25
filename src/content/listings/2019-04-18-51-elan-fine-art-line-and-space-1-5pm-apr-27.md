@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 51
 type: "OPENING"
+venue: "Elan Fine Art"
 summary: "Elan Fine Art | LINE and SPACE | 1-5PM | APR 27"
 ---
 

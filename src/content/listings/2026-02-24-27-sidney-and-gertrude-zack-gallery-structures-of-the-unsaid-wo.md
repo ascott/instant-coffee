@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 27
 type: "OPENING"
+venue: "Sidney and Gertrude Zack Gallery"
 summary: "Sidney and Gertrude Zack Gallery | Structures of the unsaid: Works by Yongzhen Li | 6PM | MAR 5"
 ---
 

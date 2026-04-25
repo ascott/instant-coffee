@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 2
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Libby Leshgold Gallery | Search Engine by Antonia Hirsch | 6PM | AUG 28"
 ---
 

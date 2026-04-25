@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 2
 type: "EVENT"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Printmaking Open Studios | DEC 20"
 ---
 

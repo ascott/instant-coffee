@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 37
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | Video Editing Workshop (Premiere) | MAR 14"
 ---
 

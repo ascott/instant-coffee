@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 30
 type: "EVENT"
+venue: "Aboriginal Gathering Place @ Emily Carr University"
 summary: "Aboriginal Gathering Place @ Emily Carr University | Non-Regular, precarious labour at ECU | 6-9PM | OCT 23"
 ---
 

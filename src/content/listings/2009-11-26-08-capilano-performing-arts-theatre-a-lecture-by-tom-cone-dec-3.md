@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 8
 type: ""
+venue: "Capilano Performing Arts Theatre"
 summary: "Capilano Performing Arts Theatre | A Lecture by Tom Cone | DEC 3"
 ---
 

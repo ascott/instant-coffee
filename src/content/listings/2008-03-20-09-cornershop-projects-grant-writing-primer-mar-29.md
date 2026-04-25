@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not just you"
 emailDate: "Thu, 20 Mar 2008 08:40:13 -0700"
 number: 9
 type: ""
+venue: "Cornershop Projects"
 summary: "Cornershop Projects | Grant Writing Primer | MAR 29"
 ---
 

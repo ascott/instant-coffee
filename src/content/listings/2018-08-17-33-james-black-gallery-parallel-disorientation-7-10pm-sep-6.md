@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 33
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | PARALLEL DISORIENTATION | 7-10PM | SEP 6"
 ---
 

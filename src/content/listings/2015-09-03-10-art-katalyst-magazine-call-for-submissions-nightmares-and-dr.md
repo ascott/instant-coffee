@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 10
 type: "CALL"
+venue: "Art Katalyst Magazine"
 summary: "Art Katalyst Magazine | Call for Submissions \"Nightmares and Dreamscapes\" | SEP 5"
 ---
 
@@ -51,8 +52,8 @@ involved
 Bio must include the following criteria (Submitted in Google Doc
 format):
 
-Information on yourself, your art, where youâ€™re located, how long
-youâ€™ve been working in this/these medium(s), if/where you
+Information on yourself, your art, where you’re located, how long
+you’ve been working in this/these medium(s), if/where you
 Trained/Attended school, why you love what you do, where you see
 your
 work taking you, as well as any information pertaining to the chosen

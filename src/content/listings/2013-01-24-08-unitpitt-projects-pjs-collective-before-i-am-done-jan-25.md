@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 8
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | PJS Collective: Before I am Done | JAN 25"
 ---
 
@@ -31,7 +32,7 @@ Skylar Stock is an artist and local business owner who has been friends with
 John for several years. His friendship with John began through dialogues in his
 store in the DTES. They have a unique friendship, and one that has grown into
 a great trust and mutual respect for one another. Skylar will be documenting
-JohnÃ¢â‚¬â„¢s work, through photography.
+Johnâ€™s work, through photography.
 
 Paul Lang is a local artist who has been working in and with artists groups for
 25 years. He has been the silent observer of this unique friendship for many

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: You're the stars up in the sky; yo
 emailDate: "Fri, 22 Oct 2010 09:28:53 -0700"
 number: 3
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | Collin Johanson | OCT 22"
 ---
 

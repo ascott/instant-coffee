@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 19
 type: ""
+venue: "Unit/ Pitt"
 summary: "Unit/ Pitt | God Save The Queen | SEP 13"
 ---
 
@@ -18,9 +19,9 @@ Nigel-Z-flag
 
 God Save the Queen is inspired by the heavy curtain of colonialism that still
 hangs over Canada and the spirit of rebellion that was once crystallized by the
-Sex Pistols anti-Jubilee anthem, Ã¢â‚¬Å“God Save The QueenÃ¢â‚¬ . The question 
-Ã¢â‚¬Å“How
-do you feel about living under the yoke of the British Crown to this day?Ã¢â‚¬ 
+Sex Pistols anti-Jubilee anthem, â€œGod Save The Queenâ€ . The question 
+â€œHow
+do you feel about living under the yoke of the British Crown to this day?â€ 
 has
 been posed to First Nations artists and non-native artists producing a
 spectrum of responses.
@@ -33,10 +34,10 @@ KAST My art all started when I was younger, I guess, but the art I mostly do
 now is not seen as an artistic art form, as we writers see it, but it is viewed as
 vandalism, trash, crime, even gang related! Although we are unwanted, we still
 thrive in an urban environment. Art is not just a hobby that brings a little light
-of joy into the dark night where I wonder. Mostly, itÃ¢â‚¬â„¢s my lifestyle. IÃ¢â‚¬â„¢ve 
+of joy into the dark night where I wonder. Mostly, itâ€™s my lifestyle. Iâ€™ve 
 been
 painting graff for around twelve years now, with a few breaks, but it has led me
-to other forms of art. IÃ¢â‚¬â„¢ve had no professional training, besides watching a 
+to other forms of art. Iâ€™ve had no professional training, besides watching a 
 few
 Bob Ross shows, and was a solo graffiti artist most of the time. I started
 painting landscapes with oil in 2008 and now have combined the two forms
@@ -46,18 +47,18 @@ Byron Steele a.k.a. MaRvIN StRAnGE I started sculpting when i was 16.
 Started working in a scrap yard and taking things home, rooting in garbage
 and things just came together. Started sculpting again in the last 3 years. I
 use anything i can get my hands on: knives, dremels, drills, torches, lighters,
-whateverÃ¢â‚¬â„¢s handy at the time. when i sit down to sculpt, something else 
+whateverâ€™s handy at the time. when i sit down to sculpt, something else 
 takes
-over: MaRvIN StRAnGE. when i come to, itÃ¢â‚¬â„¢s in front of me, what inspires 
+over: MaRvIN StRAnGE. when i come to, itâ€™s in front of me, what inspires 
 me
-really. I want to take peopleÃ¢â‚¬â„¢s preconceptions of art and step all over 
+really. I want to take peopleâ€™s preconceptions of art and step all over 
 them.
 
 Bracken Hanuse Corlett is a multimedia Northwest Coast artist hailing from
 the Wuikinuxv and Klahoose Nations. He has worked as a news writer for
 Redwire Magazine, and is the Co-founder and Co-coordinator of the newly
 formed Vancouver Indigenous Media Arts Festival. He is a graduate of the
-EnÃ¢â‚¬â„¢owkin Centre of Indigenous Art and is currently in his final year at 
+Enâ€™owkin Centre of Indigenous Art and is currently in his final year at 
 Emily
 Carr University of Art and Design. He has also studied Northwest Coast art,
 carving and design from acclaimed Heiltsuk artists Bradley Hunt and his sons
@@ -75,7 +76,7 @@ and hair flying everywhere, the Amphibian has re-discovered his performance
 outlet with this Project.
 
 Chris Bose is a writer, multi-disciplinary artist, musician and filmmaker. He is
-a war party baby born of the NÃ¢â‚¬â„¢lakaÃ¢â‚¬â„¢pamux and Secwepemc Nations 
+a war party baby born of the Nâ€™lakaâ€™pamux and Secwepemc Nations 
 in BC,
 and currently spends his time in Kamloops BC.
 

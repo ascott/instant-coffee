@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 8
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | NO BIG PICTURE | JUN 25"
 ---
 

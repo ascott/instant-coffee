@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 37
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Deer Lake Gallery | Elgar Strings Orchestra | 2PM | MAY 26"
 ---
 

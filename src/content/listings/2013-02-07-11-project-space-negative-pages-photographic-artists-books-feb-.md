@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 11
 type: ""
+venue: "Project Space"
 summary: "Project Space | Negative Pages: Photographic Artists Books | FEB 15"
 ---
 
@@ -13,7 +14,7 @@ info@projectspace.ca
 
 January 29, 2013
 
-Project Space presents Negative Pages: Photographic Artistsâ€™ Books 
+Project Space presents Negative Pages: Photographic Artists’ Books 
 Exhibition & Sale
 
 Curated by Julia Dahee Hong

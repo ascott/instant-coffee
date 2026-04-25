@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 35
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Toque Craft Fair | NOV 29"
 ---
 

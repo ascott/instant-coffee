@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 52
 type: "CALL"
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | Emerging Artist Residency Award 2020 | DEC 1"
 ---
 

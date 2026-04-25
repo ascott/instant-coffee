@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 48
 type: "EDUCATION"
+venue: "Richmond Cultural Centre Performance Hall"
 summary: "Richmond Cultural Centre Performance Hall | 2018 Art at Work Symposium: Igniting Connections | JAN 27"
 ---
 

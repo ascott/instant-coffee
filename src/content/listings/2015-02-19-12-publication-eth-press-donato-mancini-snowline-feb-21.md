@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 12
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | eth press | Donato Mancini - snowline | FEB 21"
 ---
 

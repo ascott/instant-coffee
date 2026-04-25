@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: communication is not our only not 
 emailDate: "Wed, 23 Apr 2008 22:00:25 -0700"
 number: 2
 type: ""
+venue: "HELEN PITT"
 summary: "HELEN PITT | AARON CARPENTER | reception APR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: doing 'nothings' while everyone el
 emailDate: "Thu, 01 Apr 2010 03:24:17 -0700"
 number: 18
 type: ""
+venue: "Justina M. Barnicke Gallery"
 summary: "Justina M. Barnicke Gallery | Call for Papers | Traffic: Conceptualism in Canada | APR 19"
 ---
 
@@ -58,7 +59,7 @@ archive and networks.
 
 The conference will coincide with the exhibition Traffic: Conceptual Art
 in Canada c. 1965 to 1980, curated by Grant Arnold, Catherine Crowston,
-MichÃ¨le ThÃ©riault with Vincent Bonin, Jayne Wark, and Barbara Fischer. The
+Michèle Thériault with Vincent Bonin, Jayne Wark, and Barbara Fischer. The
 exhibition is produced by the Vancouver Art Gallery, Art Gallery of
 Alberta, Leonard and Bina Ellen Art Gallery, Halifax, INK, and the Justina
 M. Barnicke Gallery. The exhibition will premiere at the four major

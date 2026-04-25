@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 10
 type: ""
+venue: "BC Co-operative Association"
 summary: "BC Co-operative Association | Artists & Cooperatives | MAR 3"
 ---
 

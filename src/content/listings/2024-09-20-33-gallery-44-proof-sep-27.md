@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 33
 type: "CALL"
+venue: "Gallery 44"
 summary: "Gallery 44 | Proof | SEP 27"
 ---
 

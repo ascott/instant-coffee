@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 29
 type: "CALL"
+venue: "Yukon Arts Centre"
 summary: "Yukon Arts Centre | Chilkoot Trail Artist Residency Deadline Extended | FEB 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 25
 type: ""
+venue: "JOB"
 summary: "JOB | Hamilton Artists Inc. | Executive Director | JUN 12"
 ---
 

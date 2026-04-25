@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 11
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | HEIDI JOHANSEN AND CHARLIE ROBERTS | DEC 10"
 ---
 
 HEIDI JOHANSEN AND CHARLIE ROBERTS
 
 Opening Reception December 10th
-December 10th â€“ January 15th
+December 10th – January 15th
 
 In this new series of sculptures by Heidi Johansen and paintings by
 Charlie Roberts, the artists explore themes of darkness, Norwegian winter

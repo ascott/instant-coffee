@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 7
 type: ""
+venue: "The Western Front"
 summary: "The Western Front | Learning from Vancouver: Exhibition and Symposium | JAN 29"
 ---
 

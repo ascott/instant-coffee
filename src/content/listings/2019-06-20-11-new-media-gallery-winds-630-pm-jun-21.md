@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 11
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | WINDS | 630 PM | JUN 21"
 ---
 

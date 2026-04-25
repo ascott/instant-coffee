@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 28
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Jim Breukelman: Close at Hand... | 6-8PM | SEP 7"
 ---
 

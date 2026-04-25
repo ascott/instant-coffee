@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 4
 type: "EVENT"
+venue: "Three Bentall Centre"
 summary: "Three Bentall Centre | JEFF HALLBAUER- CLOSING RECEPTION | 5PM | AUG 29"
 ---
 

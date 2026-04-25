@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 22
 type: "CALL"
+venue: "The Safehaus Project (Victoria)"
 summary: "The Safehaus Project (Victoria) | Call for Submission: Pop-Up Gallery | OCT 23"
 ---
 

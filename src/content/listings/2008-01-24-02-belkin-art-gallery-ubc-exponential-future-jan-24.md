@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 2
 type: ""
+venue: "BELKIN ART GALLERY, UBC"
 summary: "BELKIN ART GALLERY, UBC | EXPONENTIAL FUTURE | JAN 24"
 ---
 

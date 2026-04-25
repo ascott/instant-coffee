@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 12
 type: "OPENING"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | SOCIAL CIRCLES | DEC 18"
 ---
 
@@ -11,7 +12,7 @@ Thursday DEC 18th exhibition 7pm-12pm
 Friday DEC 19th Daytime viewing 12pm-5pm
 
 SOCIAL CIRCLES is an exhibition organized by Nathalee Paolinelli and Jeff
-StÃ¼ckel exploring the idea of social relations contingent on the artistic,
+Stückel exploring the idea of social relations contingent on the artistic,
 cultural and curatorial practices that produce it. It brings together works
 and collaborations by artists and designers from different generations and
 geographies. With the works presented, we hope to introduce one another to

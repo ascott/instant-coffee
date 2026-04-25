@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 19
 type: ""
+venue: "Belkin"
 summary: "Belkin | BREATHLESS DAYS 1959 - 1960 | till | JUN 2"
 ---
 

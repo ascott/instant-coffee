@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 43
 type: "EXHIBITION"
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Nanga: Literati Painting of Old Japan | APR 22"
 ---
 

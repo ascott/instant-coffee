@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 10
 type: "TALK"
+venue: "[ONLINE]"
 summary: "[ONLINE] | Artist Talk with Luke Parnell | 3PM | APR 28"
 ---
 

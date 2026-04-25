@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 14
 type: "CALL"
+venue: "2021 Richmond Pride Week"
 summary: "2021 Richmond Pride Week | West Richmond Community Centre Public Art Project | MAR 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 24
 type: "EVENT"
+venue: "Gulf of Georgia Cannery"
 summary: "Gulf of Georgia Cannery | Photos with Santa | DEC 8"
 ---
 

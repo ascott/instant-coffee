@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 14
 type: ""
+venue: "RAG"
 summary: "RAG | OPEN CALL: ARTIST TRADING CARD EXHIBITION | NOV 1"
 ---
 
@@ -19,8 +20,8 @@ display of Artist Trading Cards (ATCs) from local, national, and
 international participants. Everyone is invited to participate, and all
 techniques and mediums are welcome.
 
-Artist Trading Cards are miniature works of original art measuring 2 Â½
-inches x 3 Â½ inches that are made to trade. This international art
+Artist Trading Cards are miniature works of original art measuring 2 ½
+inches x 3 ½ inches that are made to trade. This international art
 movement is intended to be a non-commercial, non-hierarchical,
 non-judgemental avenue for artistic exchange.
 
@@ -29,7 +30,7 @@ will be exhibited.
 
 To enter, send in 9 Artist Trading Cards in a standard 9-sleeve plastic
 sheet (9 cards per sheet) along with a SASE for card return. Cards will be
-displayed in the plastic sheets. Cards must each measure 2 Â½ x 3 Â½ inches
+displayed in the plastic sheets. Cards must each measure 2 ½ x 3 ½ inches
 and be signed on the back in order to qualify.
 
 Download the entry form to include with your submission, and to see details

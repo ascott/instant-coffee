@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 37
 type: "EVENT"
+venue: "BC Culture Days"
 summary: "BC Culture Days | unexpected intersections | OCT 25"
 ---
 

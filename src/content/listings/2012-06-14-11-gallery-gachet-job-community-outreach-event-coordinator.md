@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 11
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet |  JOB: Community Outreach & Event Coordinator"
 ---
 
@@ -15,7 +16,7 @@ the
 delivery of cultural services for the organization.
 
 Gallery Gachet is a dynamic collectively-run arts production,
-education and presentation space located in Vancouverâ€™s Downtown
+education and presentation space located in Vancouver’s Downtown
 Eastside (DTES) built to empower participants as artists,
 administrators and curators. We strive to provide a focal point for
 dialogue amongst outsider/dissident artists. Through artistic means,
@@ -32,7 +33,7 @@ critical elements of a healthy society.
 
 The role
 
-Coordinate Gallery Gachetâ€™s Art Cart (organize schedule, committee
+Coordinate Gallery Gachet’s Art Cart (organize schedule, committee
 meetings, art cart training, operators, liaise with community artists
 and groups, attend community events with the Art Cart, organize
 publicity materials and artwork for transport and display on the Cart
@@ -43,17 +44,17 @@ ad hoc basis for Gachet.
 
 Coordinate Community Outreach for the gallery (Research community
 events and festivals for Gachet to attend, liaise with artists,
-festival organizers, community groups, organize Gachetâ€™s tabling
+festival organizers, community groups, organize Gachet’s tabling
 presence at these events, attend events on behalf of Gachet)
 
-Assist in building Gachetâ€™s branding and the development of PR
-materials in order to build Gachetâ€™s scope of communication and
+Assist in building Gachet’s branding and the development of PR
+materials in order to build Gachet’s scope of communication and
 outreach activities.
 
 Hold workshops and training sessions for members at Gallery Gachet 
 on
 communications and outreach related activities, helping to build
-professional development and capacity for Gallery Gachetâ€™s 
+professional development and capacity for Gallery Gachet’s 
 membership.
 
-Assist with Gallery Gachetâ€™s events and activities as needed.
+Assist with Gallery Gachet’s events and activities as needed.

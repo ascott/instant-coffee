@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 20
 type: ""
+venue: "ON MAIN"
 summary: "ON MAIN | LAUNCHES NEW SOCIAL MEDIA ART INITIATIVE | JUN 16"
 ---
 
@@ -11,7 +12,7 @@ OMG On Main Gallery - SOCIAL MEDIA ART
 
 ON MAIN GALLERY LAUNCHES NEW SOCIAL MEDIA ART INITIATIVE
 
-On Main Gallery (OMG) launches the summer festival season with â€œOn Main
+On Main Gallery (OMG) launches the summer festival season with “On Main
 Gallery Social Media Art Zones #OMGSMAZâ€ .
 
 This innovative and imaginative pilot project hits the pavement and
@@ -50,9 +51,9 @@ City of Vancouver Community & Neighbourhood Arts Development Program.
 Sunday June 16th, 12-7pm, at Main St. Car Free Day!! The inaugural #OMGSMAZ
 will be a major feature attraction and destination located at 20th + Main.
 We will be precisely dead centre of the festival with bands, music, and
-Social Media Art! Canâ€™t wait 2 C U.
+Social Media Art! Can’t wait 2 C U.
 
-Canâ€™t make it that day? We will also be at Khatsahlano! The West 4th Music
+Can’t make it that day? We will also be at Khatsahlano! The West 4th Music
 + Art Festival (Saturday, July 13, 2013).
 
 For further information: Matt@onmaingallery.com onmaingallery.com is a

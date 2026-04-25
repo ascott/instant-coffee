@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 24
 type: ""
+venue: "eva International"
 summary: "eva International | Open Call for Proposals | OCT 31"
 ---
 
@@ -23,7 +24,7 @@ curated by Bassam El Baroni, closes in 2 weeks: 5pm Monday 2 September
 Applications are invited from individual artists or groups, working in any 
 medium and can be for the presentation of existing works or production of new 
 projects. Artists can make up to 2 proposals and there is a submission fee of 
-â‚¬20 for 1 proposal or â‚¬30 for 2 proposals.
+€20 for 1 proposal or €30 for 2 proposals.
 
 To begin the online submission process please:
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 8
 type: "EVENT"
+venue: "ECUAD - Library"
 summary: "ECUAD - Library | On Edge Reading Series - Damian Rogers | 6PM | OCT 18"
 ---
 

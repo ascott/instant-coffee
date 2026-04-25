@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 30
 type: "EVENT"
+venue: "RAG"
 summary: "RAG | Exhibition Tour & Chinese Ink Demonstration | 2PM | AUG 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 31
 type: "CALL"
+venue: "TransLink Public Art Program"
 summary: "TransLink Public Art Program | Public Art Call | FEB 16"
 ---
 

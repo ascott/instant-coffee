@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 2
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | UNIT/PITT | experimental jazz nite | 7PM | DEC 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | UBC | Associate Professor Visual Arts Program | JAN 16"
 ---
 

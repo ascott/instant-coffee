@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: #tearitdown2018"
 emailDate: "Thu, 25 Oct 2018 12:00:18 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | #tearitdown2018 | OCT 24"
 ---
 

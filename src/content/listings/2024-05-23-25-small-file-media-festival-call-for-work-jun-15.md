@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 25
 type: "CALL"
+venue: "Small File Media Festival"
 summary: "Small File Media Festival | Call for work | JUN 15"
 ---
 

@@ -4,34 +4,35 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 22
 type: ""
+venue: "Maraya Project events & salons"
 summary: "Maraya Project events & salons | Soundwalk with Jean Routhier | OCT 29"
 ---
 
-Soundwalk with Jean Routhier â€“ Saturday, October 29, 2:30PM
+Soundwalk with Jean Routhier – Saturday, October 29, 2:30PM
 
 First of many Maraya Project events & salons taking place this fall.
 
 DESCRIPTION
 Based on time-tested soundwalking techniques, Jean Routhier will introduce 
-sights and sounds from two key locations: Vancouverâ€™s False Creek waterfront 
+sights and sounds from two key locations: Vancouver’s False Creek waterfront 
 and the Dubai Marina in United Arab Emirates. Exploring audio-visual links 
 between these communities through new media, the soundwalk begins with a 
 brief presentation of new works by artists M. Simon Levin, Glen Lowry and Henry 
 Tsang. The soundwalk takes participants from the Roundhouse Community Arts 
-and Recreation Centre in Yaletown and along Vancouverâ€™s waterfront, closing 
+and Recreation Centre in Yaletown and along Vancouver’s waterfront, closing 
 with a participant discussion with the artists at Centre A: 2 West Hastings Street.
 
 DETAILS
 Saturday, October 29, 2:30PM
 Led by Sound Artist Jean Routhier
 Meet at Roundhouse Community Arts & Recreation Centre, Front Lobby 
-Entrance by the CafÃ©181 Roundhouse Mews (enter from Davie Street, between 
+Entrance by the Café181 Roundhouse Mews (enter from Davie Street, between 
 Pacific Boulevard & Marinaside Crescent)
 
-Soundwalk with Jean Routhier is a part of Centre Aâ€™s public programming for the 
+Soundwalk with Jean Routhier is a part of Centre A’s public programming for the 
 Maraya Project
 Artists: M. Simon Levin, Glen Lowry and Henry Tsang
-Date: November 5 â€“ December 17, 2011
+Date: November 5 – December 17, 2011
 Opening Reception and Interactive Website Launch: Friday, Nov 4th, 8pm
 Gallery Hours: Tue- Sat, 11-6pm, Closed on Sun, Mon and Holiday
 Place: Centre A: 2 West Hastings
@@ -48,13 +49,13 @@ essence. Interested in the gaps and gasps in sounds conducive to the
 transmission of tales he sometimes hears in the ether, Routhier finds inspiration 
 in everyday situations. His work has been presented internationally and nationally 
 at the Vancouver Vibrates, the Silence and Signal & Noise Festivals 
-(Vancouver), ISEA 2006 (San JosÃ©, CA), Open Air-Ars Electronica 2002 (Linz, 
+(Vancouver), ISEA 2006 (San José, CA), Open Air-Ars Electronica 2002 (Linz, 
 Austria), Overgarden Festival (Copenhagen, Danemark), DLux Media Arts 
 Festival (Melbourne, Australia), Global Mix Festival (Cracow, Poland), ICMC '94 
 (International Computer Music Conference, Florida, USA), La Panderia (Mexico 
-City), Ã‰cole des Beaux-Arts (Aix-en-Provence, France), Studio Cormier 
-(MontrÃ©al), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey), 
-Helen Pitt Gallery (Vancouver), Articule (MontrÃ©al). His audio works have been 
+City), École des Beaux-Arts (Aix-en-Provence, France), Studio Cormier 
+(Montréal), Artspace Gallery (Peterborough, ON), Surrey Art Gallery(Surrey), 
+Helen Pitt Gallery (Vancouver), Articule (Montréal). His audio works have been 
 featured on Kunstradio (Vienna, Austria), CBC and Radio-Canada. Jean curated 
 for the Surrey Art Gallery a series of audio artists as part of its ongoing Open 
 Sound exhibit, as well as helped organize its audio art symposium in 2008 and 
@@ -68,11 +69,11 @@ Art. He creates site-based systems that explore the aesthetics of engagement
 using a variety of designed forms and tools that address our many publics. 
 These spatial and pedagogical projects, expand the social agency of art making, 
 rethinking notions of space and place, authorship and audience. Working 
-collaboratively and primarily within the public sphere, Levinâ€™s work ranges from 
+collaboratively and primarily within the public sphere, Levin’s work ranges from 
 billboard projects, alternative tours of cities, land care centres and alternative 
 mapping and telecommunication systems. Recently commissioned projects 
-include a user-generated â€˜sousveillanceâ€™ system and a global contributive new 
-media platform, both showcased for Vancouverâ€™s 2010 Cultural Olympiad. He 
+include a user-generated ‘sousveillance’ system and a global contributive new 
+media platform, both showcased for Vancouver’s 2010 Cultural Olympiad. He 
 has been artist in residence for the Vancouver Parks Board, the TechLab at the 
 Surrey Art Gallery, Emily Carr University and at the International Art Space, 
 Kelleberrin, Australia. He has exhibited, lectured and published locally, nationally 
@@ -90,13 +91,13 @@ journal West Coast Line. Pacific Avenue (LINEbooks, 2009) is his first poetry
 collection. Lowry is the Assistant Dean of Critical Studies and Community 
 Engagements at Emily Carr University of Art + Design.
 
-Henry Tsangâ€™s projects have been exhibited internationally, incorporating digital 
+Henry Tsang’s projects have been exhibited internationally, incorporating digital 
 media, video, photography, language and sculptural elements in the exploration 
 of the relationship between the public, community and identity in the new global 
 order. Projects in the public sphere range from community-based curatorial and 
 engagement practices to permanent commissioned artworks. Welcome to the 
 Land of Light is a 100 metre-long installation located on the seawall handrail 
-along Vancouver's False Creek. He has also worked with artistsâ€™ collectives 
+along Vancouver's False Creek. He has also worked with artists’ collectives 
 which produce temporary public art installations on shared political concerns, 
 including The Association for Noncommercial Culture and Collective Echoes 
 Youth Public Artists Collective, and has mentored many young artists through 
@@ -104,7 +105,7 @@ various programs. Video installations such as Orange County, 2004, and
 Olympus, 2006, shot in California, Beijing, Torino and Vancouver, examine 
 overlapping urban and socio-political spaces; and Napa North, 2008, looks at the 
 relationship between wine, real estate and cultural translation in British 
-Columbiaâ€™s Okanagan Valley. His curatorial projects (Self Not Whole: Cultural 
+Columbia’s Okanagan Valley. His curatorial projects (Self Not Whole: Cultural 
 Identity & Chinese-Canadian Artists in Vancouver, 1991; Racy Sexy: Race, 
 Culture and Sexuality, 1993; and City at the End of Time: Hong Kong 1997, 
 1997) span the local to the international. Henry received the VIVA Award in 1993 

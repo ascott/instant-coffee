@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 67
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Thursday Lunch Time Tours | 1230PM | MAY 2"
 ---
 

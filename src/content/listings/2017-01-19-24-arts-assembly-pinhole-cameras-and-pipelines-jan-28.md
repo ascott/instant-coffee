@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 24
 type: "EDUCATION"
+venue: "Arts Assembly"
 summary: "Arts Assembly | Pinhole Cameras and Pipelines | JAN 28"
 ---
 

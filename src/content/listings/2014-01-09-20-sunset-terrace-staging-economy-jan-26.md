@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 20
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Staging Economy | JAN 26"
 ---
 
@@ -17,7 +18,7 @@ Sunset Terrace
 
 8-11pm
 
-â€”â€”â€”â€”â€”â€”-
+——————-
 
 We went to the watching place
 for entertainment.
@@ -51,10 +52,10 @@ Don't just stand there,
 do not leave your valuables unattended,
 and remember to log in.
 
-â€”â€”â€”â€”â€”â€”-
+——————-
 
 A collaborative enterprise with partners : Adam Shaw & Logan Sturrock
 
-â€”â€”â€”-----------
+———-----------
 
 2028clark.tumblr.com

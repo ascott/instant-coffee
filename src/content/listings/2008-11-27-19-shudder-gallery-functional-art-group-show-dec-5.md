@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 19
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | \"functional art\" group show | DEC 5"
 ---
 
 Collision
 Shudder Gallery's first annual Christmas "functional art" group show
 
-Lorenzo GiuffrÃ¨, Keith Jones, Mysa Kaczkowski, Hernan Kahs, Denver Lynxleg,
+Lorenzo Giuffrè, Keith Jones, Mysa Kaczkowski, Hernan Kahs, Denver Lynxleg,
 Rose-Marie Pickard, Susan Schroeder, Nick Smit, Nico Soule, Jason Statler,
 Monika Valyi, Jason Ververgaert
 

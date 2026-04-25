@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 30
 type: "EXHIBITION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | (re)patterning | OCT 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 55
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Fall Exhibitions Public Opening | 8 – 10PM | NOV 1"
 ---
 

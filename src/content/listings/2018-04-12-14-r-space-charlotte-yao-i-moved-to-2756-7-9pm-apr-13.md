@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 14
 type: "OPENING"
+venue: "R-SPACE"
 summary: "R-SPACE | Charlotte Yao: I moved to 2756... | 7-9PM | APR 13"
 ---
 

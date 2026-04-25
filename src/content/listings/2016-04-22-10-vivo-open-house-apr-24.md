@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 10
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | Open House | APR 24"
 ---
 

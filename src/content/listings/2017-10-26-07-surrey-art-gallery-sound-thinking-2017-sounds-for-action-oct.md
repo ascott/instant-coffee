@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 7
 type: "EVENT"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Sound Thinking 2017: Sounds for Action | OCT 28"
 ---
 

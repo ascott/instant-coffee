@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 17
 type: "CALL"
+venue: "Obsidian Artist Residency Mayne Island"
 summary: "Obsidian Artist Residency Mayne Island | Call for Artists | JUN 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 4
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | SPRING EXHIBITION | MAR 16"
 ---
 

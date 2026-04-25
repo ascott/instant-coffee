@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 3
 type: "OPENING"
+venue: "Gallery 295"
 summary: "Gallery 295 | INDEX 2016: Annual Emerging Artist Juried Exhibit | JUN 10"
 ---
 

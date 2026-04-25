@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 14
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | The Clock | 24hr Screening | JUL 26"
 ---
 

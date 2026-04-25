@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 11
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Whereabouts: Rodney Konopaki & Rhonda Neufeld | NOV 2"
 ---
 

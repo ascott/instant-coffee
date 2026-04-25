@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 3
 type: "CALL"
+venue: "Vancouver Outsider Arts Festival"
 summary: "Vancouver Outsider Arts Festival | Applications for Visual and Performing Outsider Ar"
 ---
 

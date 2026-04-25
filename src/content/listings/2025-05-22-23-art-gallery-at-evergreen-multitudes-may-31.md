@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | MULTITUDES | MAY 31"
 ---
 

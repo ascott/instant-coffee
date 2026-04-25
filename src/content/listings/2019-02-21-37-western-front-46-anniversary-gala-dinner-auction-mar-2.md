@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 37
 type: "FUNDRAISER"
+venue: "Western Front"
 summary: "Western Front | 46 Anniversary Gala Dinner & Auction | MAR 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 12
 type: "OPENING"
+venue: "Deluge Contemporary Art (VICTORIA)"
 summary: "Deluge Contemporary Art (VICTORIA) | Real Tears | Christine D'Onofrio | 7-10PM | JAN 19"
 ---
 

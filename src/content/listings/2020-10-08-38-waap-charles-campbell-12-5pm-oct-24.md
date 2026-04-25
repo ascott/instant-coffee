@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 38
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Charles Campbell | 12-5PM | OCT 24"
 ---
 

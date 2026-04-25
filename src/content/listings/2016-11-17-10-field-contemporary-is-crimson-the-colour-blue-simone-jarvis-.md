@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 10
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Is Crimson The Colour Blue? Simone Jarvis - 7pm | NOV 17"
 ---
 

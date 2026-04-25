@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | ECUAD | Joyce Borenstein | 7PM | FEB 5"
 ---
 

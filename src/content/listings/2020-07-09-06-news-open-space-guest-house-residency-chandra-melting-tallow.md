@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 6
 type: ""
+venue: "NEWS"
 summary: "NEWS | Open Space | Guest House Residency | Chandra Melting Tallow | JUL 7"
 ---
 

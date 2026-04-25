@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 1
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | book launch | Denise Oleksijczuk's The First Panor | OCT 27"
 ---
 

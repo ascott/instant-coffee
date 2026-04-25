@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 13
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Music Waste & CiTR | Victory Square Block Party | SEP 6"
 ---
 

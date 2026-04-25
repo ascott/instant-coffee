@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 18
 type: "EVENT"
+venue: "Eastside Culture Crawl"
 summary: "Eastside Culture Crawl |  | NOV 21"
 ---
 

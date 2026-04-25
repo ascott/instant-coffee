@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 4
 type: "TALK"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Artist talk with Daniel Francis | 7PM | JUN 28"
 ---
 

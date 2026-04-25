@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 35
 type: ""
+venue: "JOB"
 summary: "JOB | grunt gallery | Engagement Coordinator | MAR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 2
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | People Things Enter Exit | OCT 27"
 ---
 
@@ -22,21 +23,21 @@ Enter (Ntr)
 Kneel (Kn)
 
 A matter of respect to collaborators or eliminate them at your peril. During these
-moments nothing is said. Mark out here, Ã¢â‚¬Å“pauseÃ¢â‚¬ and then there 
-Ã¢â‚¬Å“silenceÃ¢â‚¬ . Enter
+moments nothing is said. Mark out here, â€œpauseâ€ and then there 
+â€œsilenceâ€ . Enter
 like a stiff feather. Throw the book. THUMP. Violet turns to blue. One character to
-the other may say, Ã¢â‚¬Å“Shall we go?Ã¢â‚¬ The other replies, Ã¢â‚¬Å“YesÃ¢â‚¬ . The 
+the other may say, â€œShall we go?â€ The other replies, â€œYesâ€ . The 
 stage direction
-says: Ã¢â‚¬Å“They do not move.Ã¢â‚¬
+says: â€œThey do not move.â€
 
 Is someone going to argue that stage direction is immaterial? I hope not.
 (Kissing the bookcase) We move into the gallery
-space, "Flatly." "Happily." "Holding back tears." and Ã¢â‚¬Å“Large over-stuffed chairs
-that seem to swallow the characters.Ã¢â‚¬ We blink. The camera pans left and
-captures Ã¢â‚¬Å“AÃ¢â‚¬ walking with a red page then at the next moment Ã¢â‚¬Å“AÃ¢â‚¬ 
+space, "Flatly." "Happily." "Holding back tears." and â€œLarge over-stuffed chairs
+that seem to swallow the characters.â€ We blink. The camera pans left and
+captures â€œAâ€ walking with a red page then at the next moment â€œAâ€ 
 disappear.
 
-More importantly, Ã¢â‚¬Å“two hundred women of the townÃ¢â‚¬ enter the room. The 
+More importantly, â€œtwo hundred women of the townâ€ enter the room. The 
 ﬁnal
 scene of the play opens with two girls winding a skein of red wool. Confusion
 reigns with various characters appearing and asking for deﬁnitive news. A
@@ -46,13 +47,13 @@ event which is designed to move an audience through all of the visual, aural, an
 dramatic means available. People Things Enter Exit.
 
 Ulla von Brandenburg (b. 1974, Karslrue, lives and works in Paris) has
-forthcoming solo exhibitions at Galerie du Granit, Le granit, ScÃƒÂ¨ne Nationale de
+forthcoming solo exhibitions at Galerie du Granit, Le granit, ScÃ¨ne Nationale de
 Belfort, France (2012); Rosascape, Paris (2012); Pilar Corrias Gallery, London
 (2012). Recent solo exhibitions include Produzentengalerie, Hamburg (2011);
-Vitrine de lÃ¢â‚¬â„¢Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue 
+Vitrine de lâ€™Antenne, Le Plateau - FRAC* Ile de France, Paris (2011); Neue 
 Alte
 Welt, The Common Guild, Glasgow (2011); Neue Alte Welt, Art: Concept, Paris
-(2011); Chorspiel, Lilith Performance Studio, MalmÃƒÂ¶ (2011).
+(2011); Chorspiel, Lilith Performance Studio, MalmÃ¶ (2011).
 
 Guy de Cointet (b. 1934, Paris, d. 1983, Los Angeles) was a French artist based
 in Los Angeles in the late sixties and seventies. His enigmatic and until very
@@ -74,7 +75,7 @@ exhibition Kill the Workers!, shown this past year at Chisenhale, London and
 Badischer Kunstverein, Karslrue will travel to the Walter Phillips Gallery, Banff in
 2012. She has a forthcoming solo exhibition at Presentation House Gallery,
 Vancouver and recent solo exhibitions include, i8 Gallery, Reykjavik (2011); See
-it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1Ã¢â‚¬â€œ3),
+it Now, Art Now, Tate Britain, London (2010); Ballgame (Innings 1â€“3),
 greengrassi, London (2009).
 
 Daria Martin (b. 1973, San Francisco, lives and works in London, UK) has a

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 26
 type: "EVENT"
+venue: "SCA Audain Gallery"
 summary: "SCA Audain Gallery | Do Trees Need Poetry? | 7PM | FEB 13"
 ---
 

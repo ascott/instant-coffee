@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 25
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Steveston Community Centre and Library Interior Ar | JAN 27"
 ---
 

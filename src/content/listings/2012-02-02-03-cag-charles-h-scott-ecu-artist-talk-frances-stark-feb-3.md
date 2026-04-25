@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 3
 type: ""
+venue: "CAG & Charles H. Scott"
 summary: "CAG & Charles H. Scott | @ ECU Artist talk: Frances Stark | FEB 3"
 ---
 
@@ -54,14 +55,14 @@ Frances Stark has exhibited internationally, solo exhibitions include:
 The Fall of 
 Frances Stark, Van Abbemuseum, Eindhoven, FRAC Bourgone, Dijon 
 (2007) 
-and Culturgest, Lisbon (2008). A retrospective But What of â€˜Frances 
-Stark,â€™ 
+and Culturgest, Lisbon (2008). A retrospective But What of ‘Frances 
+Stark,’ 
 Standing By Itself, a Naked Name, Bare as a Ghost To Whom One 
 Would Like 
 to Lend a Sheet was presented at Nottingham Contemporary (2009) 
 and Centre 
 for Contemporary Arts, Glasgow (2010). Stark is also the author of The 
-Architect and the Housewife (1999) and Collected Writings: 1993â€“2003 
+Architect and the Housewife (1999) and Collected Writings: 1993–2003 
 (2003), 
 both published by Book Works, London.
 

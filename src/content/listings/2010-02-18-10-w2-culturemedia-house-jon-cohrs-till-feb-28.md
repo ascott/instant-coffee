@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 10
 type: ""
+venue: "W2 Culture+Media House"
 summary: "W2 Culture+Media House | Jon Cohrs | till | FEB 28"
 ---
 

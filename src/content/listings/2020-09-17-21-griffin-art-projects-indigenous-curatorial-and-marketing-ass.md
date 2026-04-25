@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:30:20 -0700"
 number: 21
 type: ""
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Indigenous Curatorial and Marketing Assistant | SEP 24"
 ---
 

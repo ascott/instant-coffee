@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 33
 type: "CALL"
+venue: "BC Achievement Award program"
 summary: "BC Achievement Award program | Call for Nominations | FEB 15"
 ---
 

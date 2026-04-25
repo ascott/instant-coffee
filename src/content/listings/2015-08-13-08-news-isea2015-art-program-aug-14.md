@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 8
 type: ""
+venue: "NEWS"
 summary: "NEWS | ISEA2015 | Art Program | AUG 14"
 ---
 
@@ -15,7 +16,7 @@ SFU Woodwards.
 
 ART PROGRAM
 
-Join us from August 14 â€“ 19 for the 21st International Symposium on 
+Join us from August 14 – 19 for the 21st International Symposium on 
 Electronic Art (ISEA2015). 
 
 Over the course of six days, over 450 speakers will present workshops, 

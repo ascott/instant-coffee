@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 23
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Godfre Leung | 6PM | JUN 24"
 ---
 

@@ -4,24 +4,25 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 22
 type: ""
+venue: "ECU"
 summary: "ECU | emily carr degree exhibition 2011 | MAY 8"
 ---
 
 emily carr degree exhibition 2011
 
-The Degree Exhibition highlights studentsâ€™ creativity and innovation 
-across design, media and visual arts in our Bachelor and Mastersâ€™ 
+The Degree Exhibition highlights students’ creativity and innovation 
+across design, media and visual arts in our Bachelor and Masters’ 
 programs.
 
 Please join us as we celebrate the class of 2011!
 
-When: May 8 â€“ 22, 2011
-Time: 10am â€“ 6pm, daily
+When: May 8 – 22, 2011
+Time: 10am – 6pm, daily
 Where: Emily Carr University of Art + Design
 1399 |1400 Johnston Street
 Granville Island
 
-Opening Night takes place on Saturday, May 7 from 5 â€“ 
+Opening Night takes place on Saturday, May 7 from 5 – 
 9pm.
 Exhibitions are free and open to the public.
 

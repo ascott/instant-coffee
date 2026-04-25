@@ -71,7 +71,7 @@ New works by Wendy Batemen
 Where words can be temporary, finding a voice as a woman in a world that
 moves quickly can be challenging. With a needle and thread, Bateman
 chooses to deliberately and slowly say things that might easily be lost in
-newsfeeds. She says it with humor and grace. Which, if youÃ¢â‚¬â„¢re going to
+newsfeeds. She says it with humor and grace. Which, if youâ€™re going to
 anything, ought to begin there.
 
 Wendy Bateman is from the prairies and now lives in Vancouver. She has had
@@ -79,8 +79,8 @@ the opportunity to show her work widely, on Instagram, which can be seen
 anywhere in the world with the right technology, but this is the first time her
 work will be presented in a gallery space.
 
-The Toast Collective is a collection of collectives that operate Ã¢â‚¬Å“The ToastÃ¢
-â‚¬ an
+The Toast Collective is a collection of collectives that operate â€œThe Toastâ
+€ an
 art, event and food-centric space at 648 Kingsway in East Vancouver. Toast
 is a D.I.Y., flexible and community-located space for artists, events and
 workshops.
@@ -92,10 +92,10 @@ http://m.facebook.com/events/268570623275383/?ref=22
 https://www.facebook.com/groups/JUNKTION/
 
 The Toast Collective is a store front with the following measurements:
-Front door: 40Ã¢â‚¬ across
-Bathroom door: 27.5Ã¢â‚¬ across (the bathroom is very small)
+Front door: 40â€ across
+Bathroom door: 27.5â€ across (the bathroom is very small)
 The bathroom door opens in
-Kitchen door: 36Ã¢â‚¬ across
+Kitchen door: 36â€ across
 There is 6.5″ tall step at the front entrance.
 
 ------------------------------------------------------------------------
@@ -175,28 +175,28 @@ at the Belkin until April 14, 2013.
 
 CONCERT PROGRAM
 
-Ava Grayson â€” Oi, Au, Ay
-Sean Buckley â€¢ Ryan Goetz
+Ava Grayson — Oi, Au, Ay
+Sean Buckley • Ryan Goetz
 
-Scott Godin â€” Enso
-Gary Wong â€¢ Michael Morimoto â€¢ Kelly Kim
+Scott Godin — Enso
+Gary Wong • Michael Morimoto • Kelly Kim
 
-Howard Bashaw â€” The Mountain
+Howard Bashaw — The Mountain
 Ryan Goetz
 
-Eric Nathan â€” Wing Over Wing (Lullaby; Eyes Tight, Tales Tucked)
-Hillary Young â€¢ Gabriele Thielmann
+Eric Nathan — Wing Over Wing (Lullaby; Eyes Tight, Tales Tucked)
+Hillary Young • Gabriele Thielmann
 
-Derek Bermel â€” schiZm
-Anna Siminoski â€¢ Ryan Goetz 
+Derek Bermel — schiZm
+Anna Siminoski • Ryan Goetz 
 
-Carl Vine â€” Piano Sonata No. 1 (i, ii)
+Carl Vine — Piano Sonata No. 1 (i, ii)
 Nicole Linaksita
 
-Marc Mellits â€” Spam
-Joo Hee Kim â€¢ Anna Siminoski â€¢ Sarah Ho â€¢ Michael Bemmels â€¢ Ryan Goetz
+Marc Mellits — Spam
+Joo Hee Kim • Anna Siminoski • Sarah Ho • Michael Bemmels • Ryan Goetz
 
-â€”
+—
 
 For more information contact: 
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
@@ -288,7 +288,7 @@ Artist Residency in Dawson City. He is a member of the performance-
 collective Weekend Leisure, with recent events in Vancouver, Portland, and
 Seattle. Currently, he is working on a feature film project, Steel Viper Force,
 inspired by straight-to-DVD action movies, acting as producer, co-writer and
-director and has an upcoming residency at SÃƒ M in Reykjavik.
+director and has an upcoming residency at SÃ M in Reykjavik.
 
 ROLLING THUNDER VIDEO
 
@@ -306,7 +306,7 @@ THE STORYBOARD LABEL
 SBL is a loosely formulated art and music collective in Vancouver, BC.
 www.storyboardlabel.com
 
-Copyright Ã‚Â© 2013 Storyboard Label, All rights reserved.
+Copyright Â© 2013 Storyboard Label, All rights reserved.
 Somehow you ended up on this list, if you want off, please unsubscribe.
 
 Our mailing address is:
@@ -342,7 +342,7 @@ expanded her creative work to include writing and painting.
 
 This commission is curated by Cease Wyss, a Skwxumesh media artist from
 the village of Sla7an in North Vancouver, and a past recipient of the Vancouver
-MayorÃ¢â‚¬â„¢s Arts Award for media art.
+Mayorâ€™s Arts Award for media art.
 
 UNIT/PITT Projects | 15 East Pender Street, Vancouver BC Canada V6A 1S9
 | +1 604 681 6740 | www.unitpitt.ca
@@ -382,7 +382,7 @@ Contemporary Art Gallery
 
 Feedback Series
 
-Dominic McIver Lopes: Acquired Taste: Whatâ€™s the Point?
+Dominic McIver Lopes: Acquired Taste: What’s the Point?
 
 Tuesday, March 12, 7 pm
 
@@ -390,7 +390,7 @@ Dominic McIver Lopes is a Professor in the Department of Philosophy at UBC,
 President of the American Society for Aesthetics, a member of the British 
 Society of Aesthetics, and a member of the editorial board of the Journal of 
 Aesthetics and Art Criticism. He is also co-editor (with Berys Gaut) of Wiley-
-Blackwellâ€™s New Directions in Aesthetics. His work focuses on pictorial 
+Blackwell’s New Directions in Aesthetics. His work focuses on pictorial 
 representation and perception; the aesthetic and epistemic value of pictures, 
 and the ontology of art. He is working on two books entitled Beyond Art and 
 Four Arts of Photography. Tonight he explores taste and suggests new ways
@@ -420,14 +420,14 @@ ECU Theatre (SB301)
 
 This exhibition of London-based artist Zineb Sedira is the only solo exhibition 
 in the multi-part series The Voyage, or Three Years at Sea. Born in France to 
-Algerian parents, Sedira explores Algeriaâ€™s colonial past and the themes of 
+Algerian parents, Sedira explores Algeria’s colonial past and the themes of 
 migration and displacement through sea-related narratives. The 
-Mediterranean Sea plays a significant role in the artistâ€™s work as the site of 
+Mediterranean Sea plays a significant role in the artist’s work as the site of 
 historical, cultural and contemporary â€œmovementâ€  between North Africa and 
 Europe.
 
 The exhibition at the Charles H. Scott Gallery will consist of two recent multi-
-disciplinary projects â€“ Transmettre en abyme, 2012 and Lighthouse in the 
+disciplinary projects – Transmettre en abyme, 2012 and Lighthouse in the 
 Sea of Time, 2011. In Lighthouse in the Sea of Time, Sedira turns her 
 attention to lighthouses on the Algerian coastline. Through her exploration of 
 these impressive structures and the objects and archival materials they 
@@ -644,7 +644,7 @@ building a viewing community.
 This course focuses on getting you comfortable with photo-documentation. 
 Although sections of the course will be technical, this is not a technical 
 workshop. Please come comfortable with your camera's basic functions 
-(SLRs, point 'nâ€™ shoots, and mobile phones are all acceptable). Please bring 
+(SLRs, point 'n’ shoots, and mobile phones are all acceptable). Please bring 
 your camera and USB cable to every class!
 
 $220 or $175 with VIVO Producer Membership (Extended)
@@ -741,14 +741,14 @@ http://vivomediaarts.com/education/workshops/c4-media-and-interactivity-ios
 ------------------------------------------------------------------------
 Building Excitement: Artist Residency at Lansdowne Centre
 
-The City of Richmondâ€™s Public Art Program is pleased to announce an 
+The City of Richmond’s Public Art Program is pleased to announce an 
 opportunity for an artist in residence at the Lansdowne Shopping Centre. This 
 residency is an open call for emerging artists or artist teams to consider the 
 notion of the shopping experience as a site for a series of installations, 
 socially engaged interventions and site-specific artwork. The selected 
 artist/artist team will receive a budget of $6,000. This budget is inclusive of all: 
 artist fees, materials, fabrication, installation, and taxes. Travel and 
-accommodation is at the artistâ€™s expense.
+accommodation is at the artist’s expense.
 
 Budget: $6,000
 Site Orientation: March 15th, 2013. 2pm.
@@ -804,14 +804,14 @@ duality falls away and it becomes clear that things are much more fluid and
 expansive than they first appear.
 
 Containers of Collapse is a series of paintings by Mel King that employ 
-Chlorella â€“ an ancient type of super algae â€“ as well as incense ash as 
+Chlorella – an ancient type of super algae – as well as incense ash as 
 pigments in her geometric yet ethereal works. King explores painting as a 
 phenomenological experience that derives its power from nature. This is 
 achieved through a rhythmic interplay of forms that moves beyond the 
 simplicity of positive and negative space in composition. The materials used 
 similarly signal a relation to their natural origins. Chlorella is lauded for its 
 health benefits in digestion, while the incense ash is a combination of natural 
-fragrances and Moldavite â€“ a substance that is extra-terrestrial in nature and 
+fragrances and Moldavite – a substance that is extra-terrestrial in nature and 
 possibly formed by a meteorite colliding into Earth and fusing with existing 
 rock to form a new kind of crystal.
 
@@ -832,7 +832,7 @@ Stratiform
 Kara Uzelman
 
 Stratiform is an exhibition featuring work by Berlin- and Saskatchewan-based 
-artist Kara Uzelman. The exhibition is Uzelmanâ€™s first solo presentation in 
+artist Kara Uzelman. The exhibition is Uzelman’s first solo presentation in 
 Vancouver, and was conceived in the context of a larger series of works and 
 events exploring contemporary forms of melancholy.
 
@@ -842,8 +842,8 @@ surround ourselves with an unprecedented volume of material things: objects
 situate and define us, while remaining fundamentally silent, inert and 
 indifferent. Invested with memories, they can ultimately stand only for what we 
 have lost. One might argue that the work of many contemporary artists, 
-designers and curatorsâ€”much of it concerned with fragments, ruins and 
-retreats from definitive meaningsâ€”is itself bound up with a melancholic desire 
+designers and curators—much of it concerned with fragments, ruins and 
+retreats from definitive meanings—is itself bound up with a melancholic desire 
 to fill in â€œthe missing.â€  Our current cultural moment (i.e., late Late Capitalism) 
 could be defined by a kind of unprecedented melancholic drive, fuelled in part 
 by an endless proliferation of things, none of which can ever satisfy our desire 
@@ -886,7 +886,7 @@ House Gallery.
 Read more at: www.satellitegallery.ca
 
 Satellite Gallery is located on the second floor of 560 Seymour and is open 
-Wednesday to Saturday 12:00â€“6:00 PM. NEWS! will be showing at Satellite 
+Wednesday to Saturday 12:00–6:00 PM. NEWS! will be showing at Satellite 
 Gallery until March 30th. 
 
 560 Seymour Street, Vancouver, BC, V6B 3J5
@@ -966,7 +966,7 @@ Vancouver, V5T 4R8
 Memory, Cartography and Photography as a Visual Technology 
 
 PUBLIC LECTURE By Gaye Chan, Chair and Professor, Department of Art 
-and Art History, University of Hawaiâ€™i at Manoa 
+and Art History, University of Hawai’i at Manoa 
 
 Friday, March 22, 2012
 3:00PM-5:00PM
@@ -980,15 +980,15 @@ collaborative activities that take place on the web, in publications, streets as
 well as galleries. Her recent work often ruminates on how cartography and 
 photography simultaneously offer and occlude information. She has exhibited 
 in New York, Montreal, Vancouver, Sydney, Honolulu, San Francisco and 
-Toronto. Chanâ€™s collaborative projects include being a part of Eating in Public 
+Toronto. Chan’s collaborative projects include being a part of Eating in Public 
 and Downwind Productions. She was born in Hong Kong and immigrated to 
 the United States in 1969. She received her MFA from San Francisco Art 
 Institute. http://www.gayechan.com
 
 Sponsored by the Centre for Policy Studies on Culture and Communities, 
 Simon Fraser University and The English Department SFU, The Asian 
-Canadian Study Society and organized by members of the CPCCâ€™s migration 
-and diaspora working group, the Asia â€“ Canada working group and the 
+Canadian Study Society and organized by members of the CPCC’s migration 
+and diaspora working group, the Asia – Canada working group and the 
 creative and cultural working groups at the CPCC which includes Davina 
 Bhandar, Lara Campbell, Dara Culhane, Christine Kim, Helen Leung, Roy 
 Miki,and Kirsten McAllister
@@ -996,33 +996,33 @@ Miki,and Kirsten McAllister
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-03-07-20-the-tops-bottoms-queer-improv-show-apr-1">20. The Tops & Bottoms | Queer Improv Show | APR 1</a>
 ------------------------------------------------------------------------
-The Tops & Bottoms â€“ Queer Improv Show will be re-launched on April 1st at 
+The Tops & Bottoms – Queer Improv Show will be re-launched on April 1st at 
 the gorgeous Improv Centre on Granville Island. The show has been an award-
 winning fixture of the West End community and bars for seven years. 
 However, the fully licensed Improv Centre, which was designed specifically for 
-improv comedy, offers comfort, style, and great sightlines.Tops & Bottomsâ€™ 
+improv comedy, offers comfort, style, and great sightlines.Tops & Bottoms’ 
 queer improvisers, the Bobbers, have performed at numerous fundraisers and 
 corporate events throughout BC, and are veterans of their own TV series on 
 OUTtv. David C. Jones, who created the Tops & Bottoms show and trained 
 many of the Bobbers, is a former long-time Vancouver TheatreSports League 
-member (1989-98). The Vancouver TheatreSports Leagueâ€™s venue is The 
+member (1989-98). The Vancouver TheatreSports League’s venue is The 
 Improv Centre.
-â€œThis is a great step forward for these hilarious artists, and so we have called 
-this season â€˜Steppinâ€™ Out.â€™ We have loved performing in the bars in the Davie 
+“This is a great step forward for these hilarious artists, and so we have called 
+this season ‘Steppin’ Out.’ We have loved performing in the bars in the Davie 
 St. area but now our performers are ready to step up and take the stage in a 
 real comedy theatre,â€  said Jones.
-â€œThe show has been free with pass-the-hat donation in recent years, but now 
-we must charge admissionâ€”a modest nine dollarsâ€”to pay the rent. 
-Audience members will more than get their moneyâ€™s worthâ€”The Improv 
+“The show has been free with pass-the-hat donation in recent years, but now 
+we must charge admission—a modest nine dollars—to pay the rent. 
+Audience members will more than get their money’s worth—The Improv 
 Centre is luxurious, with theatre seating and professional lighting, and there 
-isnâ€™t a bad seat in the house. They can still have a drink, and there wonâ€™t be 
+isn’t a bad seat in the house. They can still have a drink, and there won’t be 
 waiters walking in front of them. The show is on historic Granville Island,â€  adds 
-Jones, â€œso come down after work and get something to eat at the Public 
+Jones, “so come down after work and get something to eat at the Public 
 Market or at any of the dozens of restaurants. Then start your week off with 
 some laughter at this wickedly funny comedy competition.â€ 
-Tops & Bottoms â€“ Queer Improv Show â€“ Monday nights at 7 pm at The Improv 
+Tops & Bottoms – Queer Improv Show – Monday nights at 7 pm at The Improv 
 Centre, 1502 Duranleau St., at the entrance to Granville Island, opposite the 
-Kidsâ€™ Only Market. Tickets, $9, can be picked up at the door or reserved on-
+Kids’ Only Market. Tickets, $9, can be picked up at the door or reserved on-
 line at queerartssociety@gmail.com. Show opens Monday April 1st.
 Transportation: #50 bus from Waterfront Station or Aquabus from the Aquatic 
 Centre or the foot of Hornby (every five minutes until 8 pm). Parking is free 
@@ -1031,16 +1031,16 @@ after 7 pm.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-03-07-21-film-in-music-peggy-lee-apr-5">21. Film in Music | Peggy Lee | APR 5</a>
 ------------------------------------------------------------------------
-Peggy Leeâ€™s 
+Peggy Lee’s 
 Film in Music
 Friday April 5, 2013, 9pm
 Ironworks, 235 Alexander Street, Vancouver
-Tickets through Brown Paper Tickets â€¢ brownpapertickets .com
+Tickets through Brown Paper Tickets • brownpapertickets .com
 $18.00 (general) / $15.00 (students & seniors)
-INFO & RESERVATIONS: 604.683.8240 â€¢ barkingsphinx.com
+INFO & RESERVATIONS: 604.683.8240 • barkingsphinx.com
 
 Film in Music invites you on a cinematic ride inside the music. This project, 
-led by cellist Peggy Lee, features eight improvisers from Vancouverâ€™s rich and 
+led by cellist Peggy Lee, features eight improvisers from Vancouver’s rich and 
 diverse creative music community. Each musician becomes a character 
 within the framework of this musical suite, voicing their ideas through 
 unaccompanied solos and in small groupings. While the composed sections 
@@ -1048,9 +1048,9 @@ of the music imply the arc of a story, they are also intended as launching
 pads for the musicians to make extended improvised statements, taking the 
 listener on a journey that is never the same twice. 
 
-PEGGY LEE, cello â€¢ JESSE ZUBOT, violin â€¢ KEVIN ELASCHUK, trumpet â€¢ 
+PEGGY LEE, cello • JESSE ZUBOT, violin • KEVIN ELASCHUK, trumpet • 
 CHRIS GESTRIN, fender rhodes 
-RON SAMWORTH, guitar â€¢ TORSTEN MULLER, bass â€¢ ANDRÃ‰ LACHANCE, 
+RON SAMWORTH, guitar • TORSTEN MULLER, bass • ANDRÉ LACHANCE, 
 bass
 DYLAN VAN DER SCHYFF, drums
 
@@ -1071,7 +1071,7 @@ together a group show at Interurban (1 E Hastings st) conceived in the spirit of
 Music Waste. An open call to all artists who live, work and create across 
 Vancouver.
 
-Vancouverâ€™s cultural habitat is endangered, yet the art and artists not only 
+Vancouver’s cultural habitat is endangered, yet the art and artists not only 
 remain but thrive. As in nature, we adapt through resourcefulness and 
 ingenuity to survive. Merely by practicing and creating, we are protesting the 
 gentrification and displacement that has been so rampant in the Vancouver art 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 47
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | PuSh International Performing Arts Festival | from January 18 to February 4 - 2024 | JAN 18"
 ---
 

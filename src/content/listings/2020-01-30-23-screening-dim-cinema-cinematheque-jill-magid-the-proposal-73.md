@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 23
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema @ Cinematheque | Jill Magid: The Proposal | 730 PM | FEB 12"
 ---
 

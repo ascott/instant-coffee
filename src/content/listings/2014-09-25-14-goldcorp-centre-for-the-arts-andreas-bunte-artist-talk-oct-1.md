@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 14
 type: ""
+venue: "Goldcorp Centre for the Arts"
 summary: "Goldcorp Centre for the Arts | Andreas Bunte Artist Talk | OCT 1"
 ---
 
@@ -28,7 +29,7 @@ With Christopher Pavsek and Judy Radul
 Andreas Bunte will show a selection of clips from scientific research films
 and related visual material. For Bunte, films and videos made for
 scientific research escape certain conventional languages of cinema and
-open conversations into mediaâ€™s role in â€œempirical observation." The
+open conversations into media’s role in “empirical observation." The
 discussion will consider the films in relation to their pretense of being
 pure visual information.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 19
 type: ""
+venue: "Western Front Society"
 summary: "Western Front Society | Job Opp: Exhibitions Curator | JAN 24"
 ---
 

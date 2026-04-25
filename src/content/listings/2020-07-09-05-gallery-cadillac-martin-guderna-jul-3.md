@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Gallery Cadillac"
 summary: "Gallery Cadillac | Martin Guderna | JUL 3"
 ---
 

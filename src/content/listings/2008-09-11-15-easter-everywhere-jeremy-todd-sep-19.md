@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 15
 type: ""
+venue: "Easter Everywhere"
 summary: "Easter Everywhere | Jeremy Todd | SEP 19"
 ---
 

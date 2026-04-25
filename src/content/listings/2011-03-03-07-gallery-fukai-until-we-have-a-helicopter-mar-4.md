@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 7
 type: ""
+venue: "Gallery Fukai"
 summary: "Gallery Fukai | Until We Have A Helicopter | MAR 4"
 ---
 

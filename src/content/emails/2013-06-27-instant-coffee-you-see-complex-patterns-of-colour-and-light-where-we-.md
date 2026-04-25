@@ -90,7 +90,7 @@ half of the twentieth century. In his large-scale graphite and coloured pencil
 drawings, Pootoogook makes images of places, people and things, observed 
 with prosaic intimacy. At the Contemporary Art Gallery we focus not on works 
 involving portraits of family and friends but on those images that picture the 
-things which structure daily routine in this part of Canada â€” buildings, 
+things which structure daily routine in this part of Canada — buildings, 
 landscape and the means to travel to other parts of the country.
 
 Off-site a special version of a landscape drawing will be presented large-scale 
@@ -119,14 +119,14 @@ encounters with it.
 
 Images:
 Monika Sosnowska, Untitled, 2012. Steel and lacquer. Courtesy the artist and 
-Galerie Gisela Capitain, Cologne. Photo Â© Lothar Schnepf, Cologne.
+Galerie Gisela Capitain, Cologne. Photo © Lothar Schnepf, Cologne.
 
 Itee Pootoogook, Kingait Hotel (Cape Dorset), 2010. Coloured pencil on 
 paper. Collection of Paul Desmarais III, Toronto. Courtesy Marion Scott 
 Gallery/ Kardosh Projects, Vancouver.
 
 Kay Rosen, Hi, 1997-98. Highway billboard near Lewisberg, PA, 1998. 
-Artwork Â© 1998 Kay Rosen. Image courtesy of Sikkema Jenkins & Co., New 
+Artwork © 1998 Kay Rosen. Image courtesy of Sikkema Jenkins & Co., New 
 York.
 
 Contemporary Art Gallery
@@ -149,7 +149,7 @@ diverse artistic talents of established and emerging visual artists from across
 the lower Mainland at the Surrey Art Gallery. ARTS 2013 features 
 approximately 60 new artworks ranging from traditional imagery to 
 contemporary and experimental formats. Media include painting, drawing, 
-glasswork, sculpture, and photography. This yearâ€™s selections focus on three-
+glasswork, sculpture, and photography. This year’s selections focus on three-
 dimensional work and photography as well as artworks exploring humour and 
 the human subject.
 
@@ -157,15 +157,15 @@ DIVINING NATURES:
 Mary Frances Batut, Elizabeth Carefoot, Deborah Putman
 June 29 to August 31
 
-Surrey Art Galleryâ€™s new exhibition, Divining Natures, features the colourful 
+Surrey Art Gallery’s new exhibition, Divining Natures, features the colourful 
 artworks of three mid-career Surrey and White Rock artists who share an 
 interest in creating images that are rich in personal and universal symbols. 
 Each artist works in an intuitive way to present ideas about the natural world 
 and our relationship to the environment. Mary Frances Batut creates boldly 
-intricate and patterned iconic images of animals. Elizabeth Carefootâ€™s richly 
+intricate and patterned iconic images of animals. Elizabeth Carefoot’s richly 
 decorated mixed media works are informed by the shamanist traditions of her 
 grandmother. Deborah Putman explores spiritual meanings in her complex 
-compositions based on her observations of animals in Canadaâ€™s North.
+compositions based on her observations of animals in Canada’s North.
 
 ARTS 2013 and Diving Natures launch on June 28 with an opening reception 
 from 7pm to 9pm to which everyone is invited, and continues to August 31. 
@@ -174,22 +174,22 @@ opening reception is free. Admission to the exhibition is by donation.
 Nancy Paterson: Stock Market Skirt
 June 29 to December 1
 
-Nancy Patersonâ€™s kinetic installation is one of the first telerobotic sculptures 
-totally interfaced with the internet. The Stock Market Skirtâ€™s hemline rises and 
-falls according to stock prices streamed live from the internet. Patersonâ€™s 
+Nancy Paterson’s kinetic installation is one of the first telerobotic sculptures 
+totally interfaced with the internet. The Stock Market Skirt’s hemline rises and 
+falls according to stock prices streamed live from the internet. Paterson’s 
 installation thoughtfully and playfully brings together economics, technology, 
 feminism, and art. Stock Market Skirt is a recent acquisition to the Surrey Art 
-Galleryâ€™s permanent collection. Nancy Paterson is based in Toronto Ontario. 
+Gallery’s permanent collection. Nancy Paterson is based in Toronto Ontario. 
 Her exhibition Nancy Patterson: Media Works was featured at the Surrey Art 
 Gallery in 2001.
 
 Eric J. Paul: #gstbk
 to August 31
 
-Eric J. Paulâ€™s sound installation transforms public feedback from the Surrey 
-Art Galleryâ€™s comment board into a musical score broadcasted in the inner 
+Eric J. Paul’s sound installation transforms public feedback from the Surrey 
+Art Gallery’s comment board into a musical score broadcasted in the inner 
 courtyard. The comments are broken down into letter units, and each letter is 
-converted into a morse code pattern to reflect the aspect of â€œhidden 
+converted into a morse code pattern to reflect the aspect of “hidden 
 messagesâ€ . The rhythmic pattern of the morse code is then scaled through 
 computer programming to generate the sound composition. Determined by 
 numerological processing of the comments, this resulting composition erases 
@@ -213,7 +213,7 @@ The Surrey Art Gallery would like to acknowledge the generous support of the
 Canada Council for the Arts, BC Arts Council and the City of Surrey.
 
 Surrey Art Gallery
-13750 â€“ 88 Avenue
+13750 – 88 Avenue
 Surrey, BC V3W 3L1
 604-501-5566
 artgallery@surrey.ca
@@ -227,7 +227,7 @@ The Apartment is very proud to present three exhibitions of photographic
 based work which formally question the construction of images, specifically 
 the potential for an objective photographic portrait. Janice Guy Something 
 Dark, Luis Ospina Agarrando pueblo organized by curator Apsara DiQuinzio 
-and Dan Starlingâ€™s portfolio of Barack Obama Masks will be on exhibition from 
+and Dan Starling’s portfolio of Barack Obama Masks will be on exhibition from 
 June 29th to August 10, 2013.
 
 Please join us for an opening reception Friday June 28th, 8-10pm.
@@ -238,29 +238,29 @@ Something Dark
 For her second solo exhibition at the gallery, New York based artist Janice 
 Guy will present Something Dark. Guy's photographic self-portraits, dating 
 from the mid to late 1970s, engage in a serialized voyeurism. Having studied 
-fine art photography at the Kunstakademie DÃ¼sseldorf, Guyâ€™s vintage prints 
+fine art photography at the Kunstakademie Düsseldorf, Guy’s vintage prints 
 are conceptually conceived explorations that negotiate the complex 
-relationship between the construction of the image and itâ€™s ability to 
+relationship between the construction of the image and it’s ability to 
 objectively capture their subject.
 
 For the exhibition Something Dark, we will present two bodies of work; Crying, 
-1976 and Hair, 1979. These photographs were diaristically shot in the artistâ€™s 
+1976 and Hair, 1979. These photographs were diaristically shot in the artist’s 
 domestic space. Hair, 1979, exists as a series of two images that concretize 
-the use of Guyâ€™s body as a compositional element in her work. Veiled by the 
-long dark field of hair, Guyâ€™s emotive position is felt but negates any direct 
+the use of Guy’s body as a compositional element in her work. Veiled by the 
+long dark field of hair, Guy’s emotive position is felt but negates any direct 
 reading from the camera. Crying, 1976, documents the artist through five 
 tightly cropped portraits facing point-blank to the camera and releasing a flood 
 of unnamed tears. Although Guy articulates the physiology of being 
-overwhelmed with feeling she likewise reveals the cameraâ€™s inability to 
+overwhelmed with feeling she likewise reveals the camera’s inability to 
 articulate any subjective narrative of her dark something.
 
-Janice Guyâ€™s rare vintage prints first resurfaced in 2007 in the exhibition â€œEarly 
+Janice Guy’s rare vintage prints first resurfaced in 2007 in the exhibition “Early 
 Workâ€  organized by White Columns, the artist Marilyn Minter, and curator 
 Fabienne Stephan. Guy has received critical acclaim for these photo works, 
 presenting a solo exhibition at White Columns and included in group shows at 
 the Metropolitan Museum, New York, Galerie Mezzanin Vienna, and 
 Wilkinson Gallery, London. Work from this current exhibition was first 
-exhibited in the 1970s at the Neue Gesellschaft fÃ¼r Bildende Kunst, Berlin, 
+exhibited in the 1970s at the Neue Gesellschaft für Bildende Kunst, Berlin, 
 and the Frankfurter Kunstverein, Frankfurt.
 image: Janice Guy, Hair (detail), 1979
 
@@ -272,7 +272,7 @@ Apsara DiQuinzio
 Our second exhibition features a presentation of the influential 1978 film 
 Agarrando pueblo (known in English as The Vampires of Poverty) by seminal 
 Colombian filmmakers Luis Ospina (b. 1949) and Carlos Mayolo (1945-2007), 
-which has rarely been shown in North America. â€˜The Vampires of Povertyâ€™ 
+which has rarely been shown in North America. ‘The Vampires of Poverty’ 
 satirizes what the filmmakers refer to as pornomiseria (poverty-porn), a term 
 they coined for an exploitative documentary mode of filmmaking that took 
 place during the 1970s by European filmmakers who made films in Latin 
@@ -290,12 +290,12 @@ as they capture full color images of their objectified subjects.
 Luis Ospina studied at the School of Cinematic Arts of the University of 
 Southern California (USC) and at the University of California, Los Angeles 
 (UCLA). His films have received international awards in Oberhausen, Biarritz, 
-La Habana, Sitges, Bilbao, Huesca, CÃ¡diz, Lille, Lima, Caracas, and 
+La Habana, Sitges, Bilbao, Huesca, Cádiz, Lille, Lima, Caracas, and 
 Toulouse. Ospina has also been awarded the "Manuel Murillo Toro" Medal for 
 Merit in Communications (1986), the Medal for Cultural Merit in Film at the 
 Cali International Art Festival (2001), and a Recognition to Artistic Creation 
 and Cultural Management from the Colombian Ministry of Culture (2002). He 
-lives and works in BogotÃ , Colombia.
+lives and works in Bogotà, Colombia.
 
 Apsara DiQuinzio is the newly appointed Curator of Modern and 
 Contemporary Art and Phyllis C. Wattis MATRIX Curator at the Berkeley Art 
@@ -314,23 +314,23 @@ Dan Starling
 Barack Obama Masks
 
 Also presented at this time in our street front window will be the premier of 
-Vancouver artist Dan Starlingâ€™s portfolio of Barack Obama Masks, which 
+Vancouver artist Dan Starling’s portfolio of Barack Obama Masks, which 
 documents 27 different rubber and plastic masks depicting President Obama. 
 Collected from stores and online, the masks are photographed objectively but 
 with a twist: the objects have been airbrushed in their respective colour 
 negative and photographed digitally to be again inverted in Photoshop back to 
-their â€˜originalâ€™ color.
+their ‘original’ color.
 
 In dialogue with the history of photographing museum objects, the portfolio 
 Barack Obama Masks takes its packaging, appearance and inspiration from 
 the African Negro Art photographs by Walker Evans from 1935. Analogous to 
-the way Evansâ€™ photographs were signifiers of the transition from colonialism 
+the way Evans’ photographs were signifiers of the transition from colonialism 
 to capitalism, the Barack Obama masks are curious signifiers of the 
 antagonisms and contradictions of our time: the dissolution of a stable 
 cultural heritage in a multi-cultural society, the over production of consumer 
 goods in globalization, the apathy for democratic politics. Fascinated by the 
 obscurity of the provenance of these objects, the question of their economic 
-value and their potential uses Starlingâ€™s photographs stand as uncanny 
+value and their potential uses Starling’s photographs stand as uncanny 
 representations of the most important political figure today.
 
 Dan Starling (b. 1979) is an artist from Vancouver. Working in a variety of 
@@ -388,12 +388,12 @@ but rather an examination of our relationships to rituals, prophecies, and our
 own sense of mortality.
 
 Everyday life, literature, psychology, and art history are frequently referenced 
-in Shannon Boolâ€™s (Berlin) work, which takes a range of forms including wall 
+in Shannon Bool’s (Berlin) work, which takes a range of forms including wall 
 paintings, photograms, collage, and sculpture. Casino Runner (Aztec Inn) 
 (2011) is a twenty-foot-long carpet whose pattern is derived from a wall-to-wall 
 floor covering of an Aztec-themed casino from the 1980s. The casino itself is 
 homage to a relic of American Art Deco, the Aztec Hotel, which continues to 
-operate in Monrovia, California. The hotel exemplifies American Art Decoâ€™s 
+operate in Monrovia, California. The hotel exemplifies American Art Deco’s 
 appropriation of the geometric patterns and symbols of ancient Mexican 
 civilizations, and Casino Runner complicates this cross-cultural relationship. 
 Hand-woven by traditional village weavers in Anatolia, Turkey, the carpet 
@@ -404,7 +404,7 @@ Since 2009, Heather Goodchild (Toronto) has focused her work on Anna Ward
 Brouse, an imagined character in a secret society conceived by the artist. 
 Brouse is an amalgamation of several 19th century North American spiritual 
 leaders, and within this constructed narrative Goodchild develops systems, 
-regalia and rituals of Brouseâ€šs visions, using this process to locate meaning 
+regalia and rituals of Brouse‚s visions, using this process to locate meaning 
 within her own desire for spirituality and ritual in a culture lacking religion. In 
 Journey Portrait (2009) and Journey Landscape (2009), Goodchild draws from 
 the rituals and symbolism of Freemasonry, Girl Guides, and childhood 
@@ -432,7 +432,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 ------------------------------------------------------------------------
@@ -461,7 +461,7 @@ The exhibition is designed to actively reflect on gaming as a cultural
 phenomenon, encouraging the audience to consider and engage with both the 
 value of art and how alternative forms of currency are being exchanged. The 
 work in House Advantage initiates dialogue between social and artistic 
-practices, triggering conversations of what produces a â€˜healthyâ€™ gambling 
+practices, triggering conversations of what produces a ‘healthy’ gambling 
 environment and ways to potentially mitigate gambling addiction.  
 
 Upcoming House Advantage events: Artists discussion - July 5, Blingo Flix by 
@@ -496,7 +496,7 @@ genitals; hundreds of penises; angel penises, godly ones, all cut off, to
 replace them with leaves, cloth, and what not. In the other room, her father 
 was having a long-term affair with the home tutor, while Lacan was starting to 
 understand that language cannot capture everything. The Icelandic 
-Phallological Museum located in Reykjavik, houses the worldâ€™s largest display 
+Phallological Museum located in Reykjavik, houses the world’s largest display 
 of penises, from whales, seals, land mammals and humans, including elves 
 and trolls. Ha ha ha. Sick !" (Marie-Helene Tessier)
 
@@ -512,12 +512,12 @@ Vancouver BC V6A 1R1
 To Gallery FUKAI Members:
 After ﬁve years serving the Vancouver arts community, Gallery FUKAI regrets 
 to 
-announce its closure on June 29th 2013. I canâ€™t fully express my deep 
+announce its closure on June 29th 2013. I can’t fully express my deep 
 gratitude for your 
 business and support. Working with artists within the Vancouver arts 
 community and 
 beyond has been nothing but an absolute pleasure. 
-On June 29, after the galleryâ€™s last walk-in hours for WHAT NOW?, Gallery 
+On June 29, after the gallery’s last walk-in hours for WHAT NOW?, Gallery 
 FUKAI will 
 hold one ﬁnal celebration to commemorate the past ﬁve years worth of 
 exhibitions. The 
@@ -645,7 +645,7 @@ Andy shows us what we want and the truth we need to get it. He creates a
 world of fun but there will be no games. This is a place for the noble and 
 money has nothing to do with it. Painting
 the Seer: Jessica Bell - Inspiration as their guide, a seer takes us to higher 
-ground. Bringing together what works and sparing what doesnâ€™t, Jessicaâ€™s 
+ground. Bringing together what works and sparing what doesn’t, Jessica’s 
 abstract assembly of fabric is both complex and reassuring. Assemblage
 Artist reception:
 
@@ -709,7 +709,7 @@ Spence, Kuh Del Rosario, Patrick Cruz and more.
 
 Special thanks to Cariboo Brewing and BeatRoute Magazine
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 Trench Contemporary Art, All rights reserved. 
+Copyright © 2013 Trench Contemporary Art, All rights reserved. 
 You are receiving this email because you shared your address with us. 
 Our mailing address is: 
 Trench Contemporary Art
@@ -745,7 +745,7 @@ constructed simply, elegantly and snapped onto rectilinear axes. These
 objects evoke two-dimensional linear drawings but the space occupied is 
 three-dimensional.
 
-2011 RBC semi-finalist Deirdre McAdamsâ€™ practice represents an 
+2011 RBC semi-finalist Deirdre McAdams’ practice represents an 
 engagement with the minimal vocabulary of geometric and optical abstraction, 
 and is characterized by a spirit of experimentation within the limits of pre-
 determined methodological confines. Rounding out the exhibition are small 
@@ -756,7 +756,7 @@ identifiable optical painting style.
 Jeremy Hof lives and works in Vancouver, BC, mainly in painting, drawing, 
 sculpture and installation. He graduated with a BFA from ECUAD in 2007. He 
 was the winner of the 2008 RBC Canadian Painting Competition. He has 
-exhibited at the National Gallery of Canada, Musee dâ€™art contemporain de 
+exhibited at the National Gallery of Canada, Musee d’art contemporain de 
 Montreal, Power Plant, Museum of Contemporary Canadian Art, 
 Contemporary Art Gallery, Vancouver Art Gallery, Blanket Gallery, The 
 Rooms, Museum London, Mendel Art Gallery and Art Gallery of Alberta.
@@ -776,7 +776,7 @@ awarded an Honourable Mention in the 2011 RBC Painting Competition, as
 well as a prize in 2010 from Canadian Art Magazine for her writing on 
 contemporary art.
 
-Sean Mills lives and works in Vancouver. He received his bachelorâ€™s degree in 
+Sean Mills lives and works in Vancouver. He received his bachelor’s degree in 
 visual art from Emily Carr University in 2010. He has shown at Gallery Fukai, 
 Emily Carr Alumni Gallery at Queen Elizabeth Theatre, Surrey Art Gallery, 
 CityScape Community Art Space, Yactac Gallery Space, Elissa Cristall 
@@ -814,13 +814,13 @@ Drop-in Viewing Hours: 11AM - 4PM Saturdays
 Viewing by Appointment: info@dynamoarts.org
 
 Artists: Maggie Boyd, Gabriel Deerman, Rob Dobie, DRIL (Dylan McHugh, 
-Rachel White, Ian Prentice and Leisha Oâ€™Donohue), AimÃ©e Van DrimmÃ©lÃ©n,
+Rachel White, Ian Prentice and Leisha O’Donohue), Aimée Van Drimmélén,
 Roselina Hung, Charles Keillor, Aaron S Moran, Luke Ramsey, EC Salazar, 
 Anastasia Ugorskaya
 
 Drawing Expo started as an annual group exhibition curated by Gabriel 
 Deerman in 2007. Its mandate is to present a diverse spectrum of artists from 
-Canada and abroad working in the field of contemporary drawing. â€œDrawing 
+Canada and abroad working in the field of contemporary drawing. “Drawing 
 Expoâ€  is a celebration of the imagination and fantasy that flourishes within the 
 transference of the artist's idea to the drawn surface. New worlds are 
 projected by this exciting medium. The artists involved challenge disciplinary 
@@ -932,11 +932,11 @@ July 5 to September 21, 2013
 Opening Reception on July 4th from 7 p.m. 
 Organized in partnership with Massey College at the University of Toronto and 
 Alumni House at Trent University in Peterborough, this exhibition focuses on 
-Thomâ€™s domestic architecture on the west coast of Canada in the 1950s and 
+Thom’s domestic architecture on the west coast of Canada in the 1950s and 
 shows the design ethos developed in this work and then manifested in 
 Massey College and Trent University in Ontario.
 A recipient of the Order of Canada and numerous Massey Awards for 
-architecture, Ronald J. Thom (1923-1986) is recognized as one of Canadaâ€™s 
+architecture, Ronald J. Thom (1923-1986) is recognized as one of Canada’s 
 most innovative and influential architects. After studying art under B.C. 
 Binning at the Vancouver School of Art in the 1940s, Thom apprenticed in 
 architecture at Thompson, Berwick & Pratt in Vancouver. Enriched by original 

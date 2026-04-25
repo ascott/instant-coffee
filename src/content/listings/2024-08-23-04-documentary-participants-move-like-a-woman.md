@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 4
 type: "CALL"
+venue: "Documentary participants"
 summary: "Documentary participants | Move Like a Woman"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 9
 type: ""
+venue: "Evergreen Cultural Centre"
 summary: "Evergreen Cultural Centre | PechaKucha | JUL 25"
 ---
 

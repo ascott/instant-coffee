@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 9
 type: "EVENT"
+venue: "1654 Franklin street"
 summary: "1654 Franklin street | 632nd annual winter market | DEC 13"
 ---
 

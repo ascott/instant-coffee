@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 20
 type: ""
+venue: "Mail Art Gallery"
 summary: "Mail Art Gallery | Marc Paris | until | FEB 28"
 ---
 
@@ -14,7 +15,7 @@ Mail Art Gallery, February 1-28, 2013
 >>>
 
 Marc Paris is a Vancouver born artist with a home based studio practice. He 
-is pursuing a bachelorâ€™s degree at Emily Carr University. The shared space of 
+is pursuing a bachelor’s degree at Emily Carr University. The shared space of 
 the Mail Art Gallery with a post office excites his ongoing study of liminality.
 
 >>>

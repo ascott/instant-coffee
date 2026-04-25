@@ -458,7 +458,7 @@ Cultural Capital
 Moderator: Hank Bull, Executive Director, Centre A
 
 Vancouver is in the grips of a city-wide debate about the place of arts and
-culture in the cityÃ¢ï¿½ï¿½s vision of its future. What kind of spaces are we
+culture in the cityâ��s vision of its future. What kind of spaces are we
 building for art? What does Vancouver have to say to the world? This
 closing discussion will consider these questions and identify the next
 steps forward.
@@ -466,7 +466,7 @@ steps forward.
 CONFIRMED SPEAKERS
 
 The symposium features speakers who will kindle discussion with short
-interventions, as well as Ã¢ï¿½ï¿½active listenersÃ¢ï¿½ï¿½ invited to contribute to the
+interventions, as well as â��active listenersâ�� invited to contribute to the
 ensuing dialogue. Those interested in speaking are invited to submit
 proposals for short interventions. The following speakers are confirmed.
 
@@ -528,7 +528,7 @@ NETWORKING
 
 The symposium will be preceded by a blog and streamed live to the Internet.
 Participation in the event will be possible by Skype and Twitter. The
-proceedings will edited and archived on Centre AÃ¢ï¿½ï¿½s website.
+proceedings will edited and archived on Centre Aâ��s website.
 
 LUNCH AND DINNER
 
@@ -542,7 +542,7 @@ be provided.
 
 PATRONS
 
-LetÃ¢ï¿½ï¿½s Twist Again is made possible in part by the generous support of the
+Letâ��s Twist Again is made possible in part by the generous support of the
 following individual patrons:
 
 Project Patron: Anndraya T. Luui
@@ -630,7 +630,7 @@ required to submit a Criminal Record Check.
 This is a permanent, full-time position with a starting salary between
 $28,000 to 30,000 per annum, including a shared-cost group benefit plan and
 3-weeks annual vacation time. Also possible is a pro-rated, revolving
-10-month SeptemberÃ¢ï¿½ï¿½June contract, pending negotiations.
+10-month Septemberâ��June contract, pending negotiations.
 
 Please send a cover letter and resumÃ�Â©, preferably emailed in PDF format, to:
 
@@ -702,7 +702,7 @@ Saturday, 8:00pm, 7:30pm doors open, admission $15/$10 at the door.
 
 The Powell Street Festival invites festival-goers to an evening double-bill
 that spans the globe: new media artists Tochka from Japan, and dynamic
-performers Dynamo ColÃ©optera from Montreal.
+performers Dynamo Coléoptera from Montreal.
 
 Tochka presents the Pika Pika Lightning Doodle Project, a spontaneous
 interactive project involving the public. Using light sources such as cell
@@ -711,8 +711,8 @@ improvisational doodling sessions that result in a unique creative project.
 Musical accompaniment will be provided by Jason de Couto, Joseph
 Lubinsky-Mast, and Cam Stephens.
 
-Dynamo ColÃ©optera (Maya Kuroki on electric guitar, vocals, keyboards and
-theatrics, and FranÃ§ois Girouard, on the drums, keyboard, bass guitar,
+Dynamo Coléoptera (Maya Kuroki on electric guitar, vocals, keyboards and
+theatrics, and François Girouard, on the drums, keyboard, bass guitar,
 flute, and soundscapes) is joined by dancer Tomomi Morimoto in a
 performance that bursts with poetry, lyricism and surrealist fantasy.
 
@@ -1077,8 +1077,8 @@ display of Artist Trading Cards (ATCs) from local, national, and
 international participants. Everyone is invited to participate, and all
 techniques and mediums are welcome.
 
-Artist Trading Cards are miniature works of original art measuring 2 Â½
-inches x 3 Â½ inches that are made to trade. This international art
+Artist Trading Cards are miniature works of original art measuring 2 ½
+inches x 3 ½ inches that are made to trade. This international art
 movement is intended to be a non-commercial, non-hierarchical,
 non-judgemental avenue for artistic exchange.
 
@@ -1087,7 +1087,7 @@ will be exhibited.
 
 To enter, send in 9 Artist Trading Cards in a standard 9-sleeve plastic
 sheet (9 cards per sheet) along with a SASE for card return. Cards will be
-displayed in the plastic sheets. Cards must each measure 2 Â½ x 3 Â½ inches
+displayed in the plastic sheets. Cards must each measure 2 ½ x 3 ½ inches
 and be signed on the back in order to qualify.
 
 Download the entry form to include with your submission, and to see details

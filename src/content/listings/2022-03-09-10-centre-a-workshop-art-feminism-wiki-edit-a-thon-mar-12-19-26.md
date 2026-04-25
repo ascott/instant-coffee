@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 10
 type: "EDUCATION"
+venue: "Centre A [WORKSHOP]"
 summary: "Centre A [WORKSHOP] | Art + Feminism Wiki Edit-a-thon | MAR 12, 19, 26 | MAR 12"
 ---
 

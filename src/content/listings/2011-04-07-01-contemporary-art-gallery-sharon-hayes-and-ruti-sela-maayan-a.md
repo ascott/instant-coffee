@@ -4,14 +4,15 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | SHARON HAYES and RUTI SELA & MAAYAN AMIR | APR 7"
 ---
 
 The Contemporary Art Gallery opens two new exhibitions: In the 
-Near Future by American artist Sharon Hayes and Beyond Guilt â€“ 
+Near Future by American artist Sharon Hayes and Beyond Guilt – 
 The Trilogy by Israeli artists Ruti Sela and Maayan Amir. This will be 
-Hayesâ€™ first solo exhibition in Canada and the Vancouver premiere 
-of Sela and Amirâ€™s video series.
+Hayes’ first solo exhibition in Canada and the Vancouver premiere 
+of Sela and Amir’s video series.
 
 April 8 to June 5, 2011
 
@@ -21,7 +22,7 @@ SHARON HAYES
 
 In the Near Future
 
-For Sharon Hayesâ€™ first solo exhibition in Canada, the CAG presents 
+For Sharon Hayes’ first solo exhibition in Canada, the CAG presents 
 In the Near Future, her multifaceted and dynamic installation, 
 incorporating 13 slide projectors and 354 different images. The 
 numerous images were gathered from audience members over 
@@ -39,7 +40,7 @@ public sites she picketed with placards bearing archaic slogans,
 such as â€œWho approved the war in Vietnam?â€  a phrase originally 
 used in 1962 at the Charter Day Protest at the University of 
 California and â€œI am a Man,â€  a slogan taken from the civil rights 
-movement during the Memphis Sanitation strike in 1968. Hayesâ€™ 
+movement during the Memphis Sanitation strike in 1968. Hayes’ 
 discursive and aesthetic investigation chimes with the recent 
 snowballing of mass demonstrations in the Middle East, as well as 
 speaking to the global resurgence of public protest in the early 21st 
@@ -50,10 +51,10 @@ articulate a collective demand.
 
 RUTI SELA & MAAYAN AMIR
 
-Beyond Guilt â€“ The Trilogy
+Beyond Guilt – The Trilogy
 
 For their first solo exhibition in Canada, the CAG presents Beyond 
-Guilt â€“ The Trilogy (2003-2005) a collaborative video series by 
+Guilt – The Trilogy (2003-2005) a collaborative video series by 
 Israeli artists Ruti Sela and Maayan Amir. Its currency rests in its 
 daring and mischievous blend of sex and politics and its jumbling of 
 subject and author. The trilogy begins with Beyond Guilt #1 shot in 
@@ -67,13 +68,13 @@ asked her to document their meeting.
 
 In all three, Sela and Amir are instigators on and off camera, acting 
 as provocateurs as well as ready and willing participants. Beyond 
-Guilt â€“ The Trilogy is at times difficult to watch. The artists create 
+Guilt – The Trilogy is at times difficult to watch. The artists create 
 risky scenarios by negotiating sex in public places and inviting 
 strangers into their hotel room. Yet, Sela and Amir have managed to 
 anaesthetize situations that are out of the ordinary, filled with 
 unknowns and potential risk. They capture a banality within the 
-sensational, neutering much of the provocation. Sela and Amirâ€™s 
-conflation of sex and war isnâ€™t what one would expect â€“ a depiction 
+sensational, neutering much of the provocation. Sela and Amir’s 
+conflation of sex and war isn’t what one would expect – a depiction 
 of spectacle and drama. It is of the everyday and seems to represent 
 a possible tactic for coping with life in Tel Aviv. In a nation continually 
 at war, surrounded by violence, this seems most viable.
@@ -82,8 +83,8 @@ Sharon Hayes, Ruti Sela & Maayan Amir, In-conversation, Friday,
 April 8, 6 pm
 
 An in-conversation event moderated by Curator Jenifer Papararo. 
-Following brief presentations of the artistâ€™s works, discussions will 
-centre around the artistsâ€™ practices, works on display and focus on 
+Following brief presentations of the artist’s works, discussions will 
+centre around the artists’ practices, works on display and focus on 
 issues of process, use of performance and the reversal of 
 subject/author roles. Places are free.
 
@@ -114,5 +115,5 @@ Foundation and our members, donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 
 6R5, Canada www.contemporaryartgallery.ca. Gallery Hours: Wed. - 
-Sun. 12 â€“ 6 pm. Admission is by donation. For more information 
+Sun. 12 – 6 pm. Admission is by donation. For more information 
 please contact: info@contemporaryartgallery.ca or 604-681-2700

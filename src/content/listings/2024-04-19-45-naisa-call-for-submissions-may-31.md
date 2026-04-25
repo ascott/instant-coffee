@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 45
 type: "CALL"
+venue: "NAISA"
 summary: "NAISA | Call For Submissions | MAY 31"
 ---
 

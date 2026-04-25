@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 5
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Tyler Coburn | MAY 28"
 ---
 

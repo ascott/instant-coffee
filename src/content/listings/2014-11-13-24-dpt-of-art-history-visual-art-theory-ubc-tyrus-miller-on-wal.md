@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 24
 type: "TALK"
-summary: "Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjaminâ€™s Psychogeography | NOV 21"
+venue: "Dpt. of Art History, Visual Art & Theory, UBC"
+summary: "Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjamin’s Psychogeography | NOV 21"
 ---
 
 Professor Tyrus Miller, University of California, Santa Cruz
 
-â€œWalter Benjaminâ€™s Psychogeography: Space, Affect, and Movement from
+“Walter Benjamin’s Psychogeography: Space, Affect, and Movement from
 One-way Street to Central Parkâ€ 
 
 Department of Art History, Visual Art & Theory, University of British Columbia

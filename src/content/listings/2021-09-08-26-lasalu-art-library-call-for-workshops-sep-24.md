@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 26
 type: "CALL"
+venue: "Lasalu Art Library"
 summary: "Lasalu Art Library | call for workshops | SEP 24"
 ---
 

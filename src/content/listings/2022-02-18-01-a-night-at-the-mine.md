@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 1
 type: "EVENT"
+venue: "A Night At the Mine"
 summary: "A Night At the Mine"
 ---
 

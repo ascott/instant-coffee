@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: these territories"
 emailDate: "Thu, 08 Mar 2018 10:59:05 -0800"
 number: 32
 type: ""
+venue: "ECUAD"
 summary: "ECUAD | Visual Art Forum: Grace Ndiritu | MAR 29"
 ---
 

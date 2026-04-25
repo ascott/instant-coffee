@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 23
 type: "CALL"
+venue: "Other Sights & Burnaby Public Art"
 summary: "Other Sights & Burnaby Public Art | Open call for FLEET: Edmonds | JUL 15"
 ---
 

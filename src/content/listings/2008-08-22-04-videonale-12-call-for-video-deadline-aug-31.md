@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 4
 type: "CALL"
+venue: "VIDEONALE 12"
 summary: "VIDEONALE 12 | CALL for video | deadline | AUG 31"
 ---
 

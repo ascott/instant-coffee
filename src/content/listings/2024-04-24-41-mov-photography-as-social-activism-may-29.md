@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 41
 type: "OPENING"
+venue: "MOV"
 summary: "MOV | Photography as Social Activism | MAY 29"
 ---
 

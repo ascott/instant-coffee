@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 35
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO | Audio Story-crafting and poetics | JUN 23"
 ---
 

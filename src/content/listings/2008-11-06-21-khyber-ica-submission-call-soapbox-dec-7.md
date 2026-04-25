@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 21
 type: "CALL"
+venue: "Khyber ICA"
 summary: "Khyber ICA | Submission Call: Soapbox | DEC 7"
 ---
 

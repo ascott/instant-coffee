@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 22
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Small File Media Festival | OCT 17+18 | OCT 17"
 ---
 

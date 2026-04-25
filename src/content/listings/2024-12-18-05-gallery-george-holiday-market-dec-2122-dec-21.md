@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 5
 type: "EVENT"
+venue: "Gallery George"
 summary: "Gallery George | Holiday Market | DEC 21&22 | DEC 21"
 ---
 

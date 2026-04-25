@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 24
 type: "EDUCATION"
+venue: "The Capilano Review"
 summary: "The Capilano Review | SONS: SONNETS: SONGS: SONICS | JAN 28"
 ---
 

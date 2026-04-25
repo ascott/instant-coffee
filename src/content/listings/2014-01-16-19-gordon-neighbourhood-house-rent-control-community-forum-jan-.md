@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 19
 type: ""
+venue: "Gordon Neighbourhood House"
 summary: "Gordon Neighbourhood House | Rent Control: Community Forum | JAN 21"
 ---
 

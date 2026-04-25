@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 18
 type: "TALK"
+venue: "Native Education College"
 summary: "Native Education College | Spark: Fireside Artist Talk No. 12 feat. Anchi Lin | APR 20"
 ---
 

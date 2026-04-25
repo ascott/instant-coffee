@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 10
 type: "OPENING"
+venue: "NADA GALLERY"
 summary: "NADA GALLERY | PAUL HYDE - Because I Said So | 12PM | AUG 29"
 ---
 

@@ -24,8 +24,8 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-11-06-10-sfu-woodwards-performance-canzine-west-2014-nov-8">10. SFU Woodwards | Performance | CANZINE WEST 2014 | NOV 8</a>
 <a href="/instant-coffee/listings/2014-11-06-11-vancouver-institute-for-social-research-jerry-zaslove-nov-10">11. Vancouver Institute for Social Research | Jerry Zaslove | NOV 10</a>
 <a href="/instant-coffee/listings/2014-11-06-12-emily-carr-library-and-humn-311-boox-and-the-doppelganger-no">12. Emily Carr Library and HUMN 311 | BOOX and The Doppelganger, | NOV 12</a>
-<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
-<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
 <a href="/instant-coffee/listings/2014-11-06-15-vivo-media-arts-centre-recent-acquisitions-screening-nov-13">15. VIVO Media Arts Centre | Recent Acquisitions Screening | NOV 13</a>
 <a href="/instant-coffee/listings/2014-11-06-16-western-front-joar-nango-nov-13">16. Western Front | Joar Nango | NOV 13</a>
 <a href="/instant-coffee/listings/2014-11-06-17-dynamo-arts-association-eschatons-nov-14">17. Dynamo Arts Association | Eschatons | NOV 14</a>
@@ -51,12 +51,12 @@ Thursday, November 6, 7 pm
 Exhibition extended to Sunday, November 9, 2014
 
 Please join us for a conversation between Vancouver artists Kelly Lycan 
-and Liz Magor about Lycanâ€™s installation, Underglow, preceded by a short 
+and Liz Magor about Lycan’s installation, Underglow, preceded by a short 
 walk-through tour by the artist. The discussion will consider the concepts 
-that informed the exhibition in relation to Lycanâ€™s and other artistâ€™s 
+that informed the exhibition in relation to Lycan’s and other artist’s 
 practices. 
 
-Underglow is a response to Presentation House Galleryâ€™s architecture 
+Underglow is a response to Presentation House Gallery’s architecture 
 and history. The installation - entirely in shades of black and white - 
 transforms the gallery spaces to bring the past into dialogue with the 
 present. The artist reflects on the growing impact of digital imagery on the 
@@ -67,21 +67,21 @@ New York between 1905 and 1917. This now iconic photography gallery,
 initially conceived to promote the medium as home to the Photo-
 Secessionists, was the first exhibition space to profile photography as art 
 and introduced many European modernist artists to America, including 
-Matisse and Duchamp. Lycanâ€™s structure mimics a black and white 
+Matisse and Duchamp. Lycan’s structure mimics a black and white 
 photograph taken by Alfred Stieglitz of a 1906 exhibition at 291, itself built 
-as an imitation of Victorian dÃ©cor and Arts and Crafts design. Viewers are 
+as an imitation of Victorian décor and Arts and Crafts design. Viewers are 
 invited to walk through a simulation of the photograph, complete with 
-decorative details and a foliage bouquet â€“everything except pictures on 
-the walls. This illusionistic set is paralleled with Lycanâ€™s reconfiguration of 
+decorative details and a foliage bouquet –everything except pictures on 
+the walls. This illusionistic set is paralleled with Lycan’s reconfiguration of 
 the white cube gallery space. In this disorienting arrangement of grainy 
 black and white photographs taken in modernist New York museums, 
 abstracted convex and concave spaces merge into the existing gallery 
 architecture. The exhibition also includes slight alterations to 
-Presentation House Galleryâ€™s architecture. Based on the artistâ€™s research 
-in the Galleryâ€™s photo-documentation archive of exhibition installations, 
+Presentation House Gallery’s architecture. Based on the artist’s research 
+in the Gallery’s photo-documentation archive of exhibition installations, 
 Lycan references past techniques of exhibition display, drawing out the 
 impact of display methods on the reception of art. This exhibition extends 
-Lycanâ€™s ongoing investigations of the ways that dÃ©cor and the armatures 
+Lycan’s ongoing investigations of the ways that décor and the armatures 
 of display determine the meaning of objects, and draws attention to the 
 interplay between systems of representation and perceptual experience. 
 
@@ -103,7 +103,7 @@ France, Marseille, 2013; The Mouth and other storeage facilities, Henry
 Art Gallery, Seattle and Simon Fraser University Gallery, Vancouver, 
 2008; and Liz Magor, The Power Plant, Toronto, 2003, among many 
 others. Magor has received numerous prestigious awards, including the 
-Audain Prize, 2009 and the Governor Generalâ€™s Award, 2001. She is 
+Audain Prize, 2009 and the Governor General’s Award, 2001. She is 
 represented by Catriona Jeffries, Vancouver and Susan Hobbs, Toronto.
 
 Presentation House Gallery
@@ -127,7 +127,7 @@ moving image in contemporary art. Hanhardt is one of the foremost
 curators of film and video, having worked at MoMA, the Walker Art 
 Center, The Whitney Museum of American Art and the Guggenheim 
 Museum throughout the course of his long career. His talk, in part 
-inspired by Roland Barthesâ€™ â€œHow to Live Together. Novelistic Simulations 
+inspired by Roland Barthes’ “How to Live Together. Novelistic Simulations 
 of Some Everyday Spacesâ€ , will look at how interior spaces are imagined 
 in work ranging from John Ford to Isaac Julien.
 
@@ -155,7 +155,7 @@ Big Beige Eyes is a solo exhibition of work by Kalli Niedoba inspired by
 the upscale beige-tinted interior of a Los Angeles branch of Citibank. The 
 bank has invested in interior design as a means to orchestrate social 
 order; The bank seeks to meet the goals of finance. As people line up, 
-they are accounted for as customers of varying class standing â€“ and a 
+they are accounted for as customers of varying class standing – and a 
 pseudo-democratic welcome desk stands waiting as an artifice of 
 infrastructure.
 
@@ -220,21 +220,21 @@ acrylic paint on found antique hand drawn sheet music manuscripts. The
 series explores specific historical representations of sexuality which 
 destabilize contemporary pornography and sexual epistemes. The works 
 re-present pornographic prints by anonymous artists of the Enlightenment 
-era on handwritten sheet music to Haydnâ€”a prominent classical 
+era on handwritten sheet music to Haydn—a prominent classical 
 composer of the same period.
 
 Although the age of the libertine is the only period in early modern history 
-that shares the sexual liberalism of our own, Passmoreâ€™s research of 
+that shares the sexual liberalism of our own, Passmore’s research of 
 erotic prints circulated in this era reveals a number of fundamental 
-differences to modern pornographyâ€”namely a great emphasis on 
-humour and fertility. This â€˜earthierâ€™ eroticism or naturalism within the 
+differences to modern pornography—namely a great emphasis on 
+humour and fertility. This ‘earthier’ eroticism or naturalism within the 
 realm of 18th Century libertinage frequently includes putti as a decorative 
 element within the image. Both profane and sacred, their iconography is 
 perhaps deliberately unfixed. The same image may contain secular 
 cupids, sacred cherubs, or mere mortal babies.
 
 18th Century prints often incorporate elements of self-reflexive ribaldry. 
-Passmoreâ€™s mixed media works present depictions of sexuality which 
+Passmore’s mixed media works present depictions of sexuality which 
 combine bawdiness and humour within opulence and grandeur. Many 
 prints simply celebrate sexuality. Cultural pleasures such as games and 
 music are often presented as components of sexual behavior and/or 
@@ -246,7 +246,7 @@ Heather Passmore is a contemporary artist based in Vancouver, Canada.
 For the past ten years she has exhibited extensively in major solo and 
 group exhibitions across Canada and internationally. Her practice 
 reconfigures painting, drawing, printmaking and photography with a 
-variety of socio-historically laden materials. Heatherâ€™s artwork frequently 
+variety of socio-historically laden materials. Heather’s artwork frequently 
 intersects social justice issues using materials which bear histories of 
 taste and accumulations of labour. These have included illegal milk from 
 community supported agriculture, linoleum from demolished Vancouver 
@@ -294,7 +294,7 @@ Parking available at back of building off alley
 For inquiries, please contact Wil at 778 229 3458 or wil@WAAPart.com.
 
 Nicolas Sassoon's first solo exhibition at WAAP features three recent 
-projects navigating the artistâ€™s current production of fantasized 
+projects navigating the artist’s current production of fantasized 
 landscapes and architectures through the use of 3D modelling and 
 computer graphics. The print series Homelands presents a set of 
 computer generated landscapes inhabited by architectural figures. Each 
@@ -303,7 +303,7 @@ landscape generating programs and color-indexing image treatment.
 Using this process, the artist creates a large body of bare and secluded 
 landscapes converging towards the sculptural and pictorial qualities of 
 the geography in relation to the architecture. The project Homelands 
-started as an exercise to render some of Sassoonâ€™s fatherâ€™s fantasized 
+started as an exercise to render some of Sassoon’s father’s fantasized 
 images of holiday homes. It later became a personal project as an 
 ongoing enquiry on the digital manifestation of architectural fantasies.
 
@@ -326,20 +326,20 @@ When projected, the animation transforms to a life-size architectural
 feature, evocating a passage way to the digital realm.
 
 Nicolas Sassoon is a French-born artist living and working between 
-Biarritz, France and Vancouver, BC. Sassoonâ€™s work makes use of 
+Biarritz, France and Vancouver, BC. Sassoon’s work makes use of 
 various computer-based processes to generate fantasized visions of 
 architectures, landscapes and domestic environments. While most of his 
 work is published online as animated GIFs, Sassoon also materializes his 
 screen-based practice into sculptures, prints, textiles, and site-specific 
 installations, as well as collaborations with other artists, architects, music 
-producers and fashion designers. Sassoonâ€™s work often explores the 
+producers and fashion designers. Sassoon’s work often explores the 
 contemplative dimensions of the digital, as well as the manner in which 
 virtual space can (or cannot) be inscribed within the physical realm. 
 Nicolas Sassoon has previously exhibited his work at the Victoria & Albert 
 Museum (UK), Today Art Museum(CN), New Museum(US), 319 
 Scholes(US), Eyebeam(US), May Gallery & Residency(US), 
 Contemporary Art Gallery(CA), Charles H.Scott Gallery(CA), Western 
-Front(CA), PRETEEN Gallery(MX), the Centre dâ€™Art Bastille(FR), Arti et 
+Front(CA), PRETEEN Gallery(MX), the Centre d’Art Bastille(FR), Arti et 
 Amicitiae(NL), MU Eindhoven(NL) , the Berlin Fashion Week (DE)) and 
 the New-York Fashion Week (US). Nicolas is a member of the online 
 collective Computers Club and a founder of the collective W-A-L-L-P-A-P-
@@ -353,7 +353,7 @@ and entertainment in support of the 2015 LIVE Biennale. Come out and
 help us make LIVE 2015 happen!
 
 Attending this special fundraising event gets you your own handmade 
-ceramic bowl filled with delicious soup â€” and a chance to bid on classic 
+ceramic bowl filled with delicious soup — and a chance to bid on classic 
 ceramic pieces by renowned artists such as Sing-Ying Ho, Glenn Lewis, 
 Eric Metcalfe, Gailan Ngan, Wayne Ngan, and John Springer in a once 
 only auction hosted by the eminent Hank Bull.
@@ -363,9 +363,9 @@ Claire Madill, Becky McEachern, Dylan McHugh, Maria Palotas, Marty
 Peters, Ron Vallis, Chris Watt, Jinny Whitehead, Elizabeth Zvonar and 
 more! 
 
-Special Â¡LIVE! bowls by Patricia Galamb!
+Special ¡LIVE! bowls by Patricia Galamb!
 Special soup chefs Christos Dikeakos, Guadalupe Martinez, Leisha 
-Oâ€™Donohue and Bernadette Phan! 
+O’Donohue and Bernadette Phan! 
 
 Friday November 7th, 7pm 
 303 East 8th Avenue
@@ -376,7 +376,7 @@ Tickets available online at eventbrite.ca/e/stoned-soup-live-biennale-
 fundraiser-tickets-13355028249
 Preview the art at http://livebiennale.tumblr.com/ 
 
-LIVE 2015â€”presenting a dynamic mix of performance art from here and 
+LIVE 2015—presenting a dynamic mix of performance art from here and 
 around the world. Join us in 2015 for a celebration featuring 
 performances, events, workshops, talks, festivities and more.
 
@@ -391,11 +391,11 @@ info@livebiennale.ca
 October 30 - December 20, 2014
 Opening Reception: November 7th, 7-9pm
 
-Gallery 295 is pleased to present Ian Skeddâ€™s exhibition This is Not a 
+Gallery 295 is pleased to present Ian Skedd’s exhibition This is Not a 
 Self-Portrait. Composed as a series of portraits, Skedd brings together a 
 variety of artistic and cultural references and enhances them through 
 repetition. In this exhibition, the minimalistic gesture of repetition informs 
-Skeddâ€™s research towards decoding historical and contemporary insights 
+Skedd’s research towards decoding historical and contemporary insights 
 on portraiture. The work presented weaves text and image as a reflection 
 on the modern world and its art, life, ironies, contradictions and 
 associated dilemmas, and is constituted as a framed series of 26 
@@ -406,7 +406,7 @@ bars censor the identifying features of each framed portrait and are
 adhered onto the exterior surface of the frame. These bars cover the 
 eyes and mouth of the artist and further deface the frame, obstructing any 
 formal notions associated with the contained portrait and framing device. 
-This act of obscuring is emblematic of Skeddâ€™s understanding of 
+This act of obscuring is emblematic of Skedd’s understanding of 
 contemporary portraiture. He further isolates each of the portraits with the 
 addition of text and punctuation onto the black rectangular bars and 
 intends the portrait to be read as an isolated declaration or statement. 
@@ -459,7 +459,7 @@ Instant Coffee presents PINK NOISE as part of Luminocity
 Instant Coffee: Pink Noise -- Week Two
 
 Ronan McGrath
-Johan BjÃ¶rck
+Johan Björck
 Sinoia Caves
 Pink Eraser
 The Pink Lincolns
@@ -471,7 +471,7 @@ project Pink Noise drives at colliding and provoking the basic sensory
 mechanics of colour and sound to form temperamental emotional 
 connections. Their cursory research takes its initial form as part of 
 Luminocity as a gathering place and a series of music performances. 
-Instant Coffee will turn Kamloopsâ€™ Rotary Bandshell at Riverside Park into 
+Instant Coffee will turn Kamloops’ Rotary Bandshell at Riverside Park into 
 a vibrant pink-washed venue from which to host four evenings of events. 
 Come through the back and delve into a material investigation of pink 
 noise.*
@@ -507,9 +507,9 @@ The Black Rainbow.
 
 http://www.youtube.com/watch?v=vRmsMyiBN8k
 
-Johan BjÃ¶rck
+Johan Björck
 
-Johan BjÃ¶rck is a Swedish visual artists and musician whose 
+Johan Björck is a Swedish visual artists and musician whose 
 performance for Pink Noise will combine euro-funk, poetry and jazz-
 keyboard
 
@@ -517,7 +517,7 @@ http://soundcloud.com/johanbjorck
 
 Ronan McGrath
 
-Kamloopâ€™s Ronan McGrath will perform The Rose Tree an articulation of 
+Kamloop’s Ronan McGrath will perform The Rose Tree an articulation of 
 his fixation on pink noise. As well as his guitar/sampler oriented tracks 
 from his current 'No Spectrum' project.
 
@@ -563,7 +563,7 @@ Featured events include LA cartoonist Mimi Pond speaking about her
 New York Times bestseller Over Easy, a panel discussion about zines as 
 political tools in the digital age, and the Giant Zine and Small Press Fair 
 where hundreds of publications are on display and for sale. The Radical 
-Reading Series includes Citizen Artistâ€™s Daphne Plessner and edgy 
+Reading Series includes Citizen Artist’s Daphne Plessner and edgy 
 crafter Leanne Prain, author of Strange Materials. 
 Full details at brokenpencil.com/canzine-vancouver.
 For more information about Canzine, email canzine@brokenpencil.com.
@@ -577,9 +577,9 @@ MEDIA CONTACT: Emiko Morita, emikomorita@ymail.com or 778-995-
 
 _______________
 Emiko Morita
-emikomorita@ymail.com â€¢ 778-995-3155
+emikomorita@ymail.com • 778-995-3155
 
-Canzine West 2014 â€¢ Saturday, November 8, 2014 â€¢ 1:00 to 7:00 p.m.
+Canzine West 2014 • Saturday, November 8, 2014 • 1:00 to 7:00 p.m.
 Goldcorp Centre for the Arts, 149 West Hastings Street, Vancouver
 http://www.brokenpencil.com/canzine-vancouver
 
@@ -605,7 +605,7 @@ November 10
 Jerry Zaslove
 â€œBenjaminâ€™s â€œLitmus Testâ€ : The Aesthetics of Violence and Culture as an 
 â€œEnigmatic Signifierâ€ 
-I will try to conceptualize BenjaminÂ¹s use of violence as the State driven 
+I will try to conceptualize Benjamin¹s use of violence as the State driven 
 â€œenigmatic signifierâ€  of culture that creates complicity that masks the 
 negative of repression of violence within the rights based powerlessness 
 of culture to arrest structural violence. The enigma of the negative of 
@@ -618,16 +618,16 @@ Literature and Social History of Art influenced but not limited by the
 traditions of critical theory for the arts, aesthetics, psychoanalysis, and 
 social thought. Most recent writing: â€œKafka in theâ€™ Penal Colonyâ€ , essays 
 on the place of the University in society, Exile and memory, the City in 
-History â€“ Elsewhere and Otherwise, forms and social realities of thinking 
-about community. Dr. Zaslove has taught at SFU since its opening year â€“ 
+History – Elsewhere and Otherwise, forms and social realities of thinking 
+about community. Dr. Zaslove has taught at SFU since its opening year – 
 home in English, Humanities, and as Founding Director of the Institute for 
 the Humanities.
 
 November 17
 Jaleh Mansoor
-Santiago Sierraâ€™s Biopolitics of Abstraction
+Santiago Sierra’s Biopolitics of Abstraction
 
-Much of Spanish artist Santiago Sierraâ€™s practice addresses the
+Much of Spanish artist Santiago Sierra’s practice addresses the
 fundamental violence inscribed in the wage relation, in which surplus
 value necessary to the expansion of capital is extracted through labor
 and compensated in a self reproducing matrix of remuneration
@@ -660,11 +660,11 @@ In states of illness, pain, delirium or trauma, infallibility is often
 suspended. Perceptual and sensorial systems may distort. Emotion and 
 intuition may become highly sensitive or muted. Cognition may slack. The 
 capacity to view, annunciate or gesture may be halted or restrained. 
-Oneâ€™s relation to aesthetic, social and political spheres (shaken by the 
+One’s relation to aesthetic, social and political spheres (shaken by the 
 trembling of others) are often ruptured, or severed even. In 
 convalescence (singular and collective), the last infallible is the wall: the 
-bedroom wallâ€“ the hospital wallâ€“the prison wallâ€“the analystâ€™s wallâ€“the 
-military wallâ€“the wall of languageâ€“the gallery wall. Surface Tension will 
+bedroom wall– the hospital wall–the prison wall–the analyst’s wall–the 
+military wall–the wall of language–the gallery wall. Surface Tension will 
 consider experience (visual, ideological, rhetorical, reflexive, kinetic) up 
 against these walls.
 
@@ -680,12 +680,12 @@ December 1
 Nicole Shukin
 Striking Images: The Politics of Cinematic Affect
 
-An early silent film classic â€“ Sergei Eisensteinâ€™s Strike (1925) â€“ will serve 
-as this seminarâ€™s entry point into larger questions of aesthetics and 
+An early silent film classic – Sergei Eisenstein’s Strike (1925) – will serve 
+as this seminar’s entry point into larger questions of aesthetics and 
 politics. The technique of dialectical montage that Eisenstein practices in 
-this film â€“ exemplified by a scene in which the brutal suppression of 
+this film – exemplified by a scene in which the brutal suppression of 
 striking factory workers is dramatically intercut with shots of a bull being 
-stunned with a pole-axe, and then slaughtered â€“ prompts an analysis of 
+stunned with a pole-axe, and then slaughtered – prompts an analysis of 
 the politics of cinematic affect. For Eisenstein, such startling 
 juxtapositions of images were themselves designed to strike spectators 
 with visceral force, by-passing representation in order to directly affect 
@@ -693,12 +693,12 @@ viewers and move them to political action. His cinematic philosophy
 poses an immediate connection between aesthetics and politics that I 
 suggest underlies how the radical relation between the two continues to 
 be thought today.
-Eisensteinâ€™s practice of dialectical montage has received ample critical 
-attention, and in this seminar weâ€™ll have a chance to compare two 
+Eisenstein’s practice of dialectical montage has received ample critical 
+attention, and in this seminar we’ll have a chance to compare two 
 different takes on his socialist cinema, one by Jonathan Beller in The 
-Cinematic Mode of Production and the other by Jacques RanciÃ¨re in Film 
+Cinematic Mode of Production and the other by Jacques Rancière in Film 
 Fables. Yet what I propose is at once most obvious and yet overlooked in 
-aesthetic or biopolitical readings of Eisensteinâ€™s cinema is the homology 
+aesthetic or biopolitical readings of Eisenstein’s cinema is the homology 
 that Strike inadvertently implies between animal slaughter and the 
 affective force of moving images. How exactly are animal slaughter and 
 moving images interimplicated, and what does this interimplication signal 
@@ -730,7 +730,7 @@ Dalhousie Review and CR: The New Centennial Review.
 
 December 8
 Robert Brain
-On Silicon Valleyâ€™s Quantified Self Movement
+On Silicon Valley’s Quantified Self Movement
 
 "The Quantified Self" is a movement organized around the individual 
 consumer's increasingly sophisticated capacity for digital self-surveillance 
@@ -741,13 +741,13 @@ scrutinize the historical precedents and biopolitical implications of this
 Silicon Valley based lifestyle movement.
 
 Bio:
-Dr. Robert Brainâ€™s research interests centre on problems of the cultural 
+Dr. Robert Brain’s research interests centre on problems of the cultural 
 history of the sciences in the long nineteenth-century, with special foci in 
 the relations between the sciences and the arts of modernism, the role of 
 the sciences in modern empire and colonial expansion; evolution and the 
 sciences of mind, brain, and behaviour; instruments and material cultures 
 of laboratory and field; visuality and representation in the sciences; 
-history of universal expositions, worldâ€™s fairs, and modern museums; 
+history of universal expositions, world’s fairs, and modern museums; 
 cybernetics and media theory, cultural history of philosophy and systems 
 of thought.
 
@@ -765,7 +765,7 @@ HIfIJqpYbQoshg/videos
 <a href="/instant-coffee/listings/2014-11-06-12-emily-carr-library-and-humn-311-boox-and-the-doppelganger-no">12. Emily Carr Library and HUMN 311 | BOOX and The Doppelganger, | NOV 12</a>
 ------------------------------------------------------------------------
 The Emily Carr Library and HUMN 311 are pleased to present Boox and 
-The DoppelgÃ¤nger, two exhibitions from the Artistsâ€™ Books Collection.
+The Doppelgänger, two exhibitions from the Artists’ Books Collection.
 
 BOOX
 November 13 to 19, 2014
@@ -773,8 +773,8 @@ Opening on Wednesday, November 12 at 7:00pm
 Emily Carr Library Window
 
 Boox is an exhibition presenting a video recording of titles from the 
-Artistsâ€™ Book Collection at the Emily Carr library. Transformed through 
-video and structured according to the cameraâ€™s perspective, Boox takes 
+Artists’ Book Collection at the Emily Carr library. Transformed through 
+video and structured according to the camera’s perspective, Boox takes 
 the intimate act of reading and pushes it into the public.
 
 The selected books construct meaning as the reader interacts and 
@@ -788,7 +788,7 @@ the room given for the viewer to be situated. There is opportunity to be a
 narrator, an observer, a voyeur, an accomplice, or an operator.
 
 What happens when we capture the reading process on video? What is it 
-like to follow someone elseâ€™s method of exploring a book and only be 
+like to follow someone else’s method of exploring a book and only be 
 presented one perspective?
 
 Boox is curated by Areum Kim, Christine Novosel, Hannah Fisher, Linton 
@@ -796,32 +796,32 @@ Murphy, and Lauren Nelson.
 
 For information please visit ecuboox.tumbler.com
 
-The DoppelgÃ¤nger
+The Doppelgänger
 November 13 to 19, 2014
 Opening on Wednesday, November 12 at 7:00pm
 Emily Carr Library
 
 With all the oddities of the world, would it really be so strange to 
-unknowingly possess the same facadeâ€”or storiesâ€”as someone else? 
-Your doppelgÃ¤nger exists somewhere out there. They look like you, move 
+unknowingly possess the same facade—or stories—as someone else? 
+Your doppelgänger exists somewhere out there. They look like you, move 
 like you, talk like you, and could even have the same tastes in books.
 
-Artistsâ€™ books are eerily similar in form and function to a typical book. 
+Artists’ books are eerily similar in form and function to a typical book. 
 Until you open them, you might mistake them for something more run-of-
-the-mill. Utilizing the same mechanisms as an ordinary book, the Artistsâ€™ 
-book is the doppelgÃ¤nger of the literary sphere; here, we begin to 
+the-mill. Utilizing the same mechanisms as an ordinary book, the Artists’ 
+book is the doppelgänger of the literary sphere; here, we begin to 
 uncover the otherworldly possibilities of art in book packaging, and books 
 with artistic motivations.
 
-The exhibition includes work by Francis AlÃ¿s, Sophie Calle, Rodney 
+The exhibition includes work by Francis Alÿs, Sophie Calle, Rodney 
 Graham, Constance De Jong, Hana Pesut and Marlene Yuen.
 
-The DoppelgÃ¤nger is curated by AimÃ©e Haug, Joseph Haney, Jacquie 
+The Doppelgänger is curated by Aimée Haug, Joseph Haney, Jacquie 
 Duruisseau, and Alexandra Bischoff.
 
-Boox and The DoppelgÃ¤nger are the first two in a series of four 
-exhibitions of work from the Emily Carr Libraryâ€™s Artistsâ€™ Books Collection 
-and are presented as part of HUMN 311: The Practice of Artistsâ€™ 
+Boox and The Doppelgänger are the first two in a series of four 
+exhibitions of work from the Emily Carr Library’s Artists’ Books Collection 
+and are presented as part of HUMN 311: The Practice of Artists’ 
 Publishing.
 
 Emily Carr University Library
@@ -831,22 +831,22 @@ http://www.ecuad.ca/library
 http://blogs.eciad.ca/artistbookcollection
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
 ------------------------------------------------------------------------
-Film Screening and Discussion at The CinÃ©mathÃ¨que - Ai Weiwei: Never 
+Film Screening and Discussion at The Cinémathèque - Ai Weiwei: Never 
 Sorry
 Wednesday, November 12, 7 pm
 
-The CinÃ©mathÃ¨que, 1131 Howe Street, Vancouver, BC
+The Cinémathèque, 1131 Howe Street, Vancouver, BC
 
-In conjunction with The CinÃ©mathÃ¨que, we are pleased to present Alison 
-Klaymanâ€™s award-winning documentary film Ai Weiwei: Never Sorry, 
+In conjunction with The Cinémathèque, we are pleased to present Alison 
+Klayman’s award-winning documentary film Ai Weiwei: Never Sorry, 
 which examines the complex intersection of artistic practice and social 
 activism as seen through the life and art of the artist. Please join us 
 immediately before the film for an introduction by Carol Lu, artistic 
 director and chief curator of OCAT Shenzhen. A critic and curator based 
 in Beijing, Lu is a Contributing Editor at Frieze Magazine. She was a jury 
-member for the 2011 Venice Biennaleâ€™s Golden Lion Award, a co-artistic 
+member for the 2011 Venice Biennale’s Golden Lion Award, a co-artistic 
 director for the 2012 Gwangju Biennial and writes frequently for 
 international art journals and magazines including e-flux journal, The 
 Exhibitionist, Yishu, Tate Etc. and Contemporary. Her curatorial work 
@@ -883,22 +883,22 @@ Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
 ------------------------------------------------------------------------
-Film Screening and Discussion at The CinÃ©mathÃ¨que - Ai Weiwei: Never 
+Film Screening and Discussion at The Cinémathèque - Ai Weiwei: Never 
 Sorry
 Wednesday, November 12, 7 pm
 
-The CinÃ©mathÃ¨que, 1131 Howe Street, Vancouver, BC
+The Cinémathèque, 1131 Howe Street, Vancouver, BC
 
-In conjunction with The CinÃ©mathÃ¨que, we are pleased to present Alison 
-Klaymanâ€™s award-winning documentary film Ai Weiwei: Never Sorry, 
+In conjunction with The Cinémathèque, we are pleased to present Alison 
+Klayman’s award-winning documentary film Ai Weiwei: Never Sorry, 
 which examines the complex intersection of artistic practice and social 
 activism as seen through the life and art of the artist. Please join us 
 immediately before the film for an introduction by Carol Lu, artistic 
 director and chief curator of OCAT Shenzhen. A critic and curator based 
 in Beijing, Lu is a Contributing Editor at Frieze Magazine. She was a jury 
-member for the 2011 Venice Biennaleâ€™s Golden Lion Award, a co-artistic 
+member for the 2011 Venice Biennale’s Golden Lion Award, a co-artistic 
 director for the 2012 Gwangju Biennial and writes frequently for 
 international art journals and magazines including e-flux journal, The 
 Exhibitionist, Yishu, Tate Etc. and Contemporary. Her curatorial work 
@@ -1028,9 +1028,9 @@ Free Admission
 Western Front is pleased to announce an upcoming solo exhibition by 
 Norwegian-Sami artist and architect Joar Nango.
 
-Nango presents a new body of work that responds to Vancouverâ€™s 
+Nango presents a new body of work that responds to Vancouver’s 
 changing urban landscape. Informed by his ongoing research into the 
-creative DIY building techniques found in Sami architecture, Nangoâ€™s 
+creative DIY building techniques found in Sami architecture, Nango’s 
 practice highlights the role of local knowledge in creating livable 
 communities: championing indigenous approaches to design and 
 alternative models for social space.
@@ -1038,21 +1038,21 @@ alternative models for social space.
 Artist Biography
 
 Joar Nango (b. 1979, Alta, Norway) lives and works in Romssa, Norway. 
-Inhabiting the frontier between architecture, design and art, Nangoâ€™s 
+Inhabiting the frontier between architecture, design and art, Nango’s 
 practice explores issues of native identity through contradictions in 
 contemporary architecture and the built environment. In particular, he is 
 interested in the creative simplicity and sustainable knowledge that exists 
 within informal building environments of the north. In 2010 Nango co-
 founded the architectural collective FFB specializing in temporary 
 structures and interventions in urban contexts. FFB was nominated for 
-Norsk Formâ€™s prize for young architects in 2012. Joar Nango has 
+Norsk Form’s prize for young architects in 2012. Joar Nango has 
 exhibited internationally, including recently as part of 43SNA, Medellin, 
 Colombia (2013), the Norwegian Sculpture Biennale at Vigelandsmuseet, 
 Oslo, Norway (2013), and Archizines at the Storefront for Art and 
 Architecture, NYC, USA (2012). Recent solo exhibitions by Nango have 
 been presented at Gallery SAW, Ottawa, Canada (2013), Knipsu, 
 Bergen, Norway (2012), and SDG in Karasjok, Norway (2011). Currently 
-he is artist-in-residence at the Office for Contemporary Art Norwayâ€™s 
+he is artist-in-residence at the Office for Contemporary Art Norway’s 
 residency program in Beijing, China.
 
 Produced with the generous support of the Office for Contemporary Art 
@@ -1082,19 +1082,19 @@ Event Link: https://www.facebook.com/events/642064812576805/?ref=22
 DAA Presents // Artists in Residence: Echatons: The Touch and the 
 Touched.
 Nov 14, 7pm Performance / Encounter.
-Other events taking place between Nov 8 â€“ Nov 19 to be announced.
+Other events taking place between Nov 8 – Nov 19 to be announced.
 
-â€œMy hand which touches the things is itself subject to being touched. 
-â€œThrough this crisscrossing within it of the touching and the tangible, its 
+“My hand which touches the things is itself subject to being touched. 
+“Through this crisscrossing within it of the touching and the tangible, its 
 own movements incorporate themselves in the universe that they 
 interrogate, are recorded on the same map as itâ€  - Bernard Flynn In a 
-discussion of Maurice Merleau-Pontyâ€™s thought.
+discussion of Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.
 
 Eschatons are a four piece improvisational band that will be installing, 
 recording, jamming, and preparing for the end during their residence at 
-Dynamo Arts Association between November 8th â€“ 16th. A culmination of 
+Dynamo Arts Association between November 8th – 16th. A culmination of 
 free-tuned guitars, textured drumming, improvisation and song forms, this 
 trio combines all the sonic realms of improvised genres. The ongoing 
 collaboration between Jeremy Van Wyck, John Brennan & Bill Batt began 
@@ -1143,8 +1143,8 @@ nowhere except snugly into this indent in the wall, four pocket fans (blue
 and yellow) with fresh AA batteries, bottled essence of a basketball lay-
 up, two window frames for those summer breezes (error: currently not 
 summer), bright laundry wires with clippers, dripping wet clothes 
-(underwears welcome), 1 balloon, download bar stuck at 20.95% â€” but 
-thatâ€™s all we need right now. 
+(underwears welcome), 1 balloon, download bar stuck at 20.95% — but 
+that’s all we need right now. 
 
 Now do a sniff test of your environment; it is far from spoiled.
 
@@ -1197,9 +1197,9 @@ In November Gallery Gachet presents:
 Coalescence: A Body of Memories
 Osvaldo Ramirez Castillo | Kelly Gough
 
-Exhibition runs: Nov 14th â€“ Dec 21st, 2014
-Opening reception: Fri, Nov 14th, 2014, 7 â€“ 10pm
-Artistâ€™s performance by Kelly Gough
+Exhibition runs: Nov 14th – Dec 21st, 2014
+Opening reception: Fri, Nov 14th, 2014, 7 – 10pm
+Artist’s performance by Kelly Gough
 
 Artist Talk | Panel discussion
 Exploring trauma and the artistic process
@@ -1238,7 +1238,7 @@ a personal lexicon of imagery sourced from Pre-Columbian mythology,
 Salvadoran popular folklore, North American vernacular and visual 
 culture appropriated in mythic form. 
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..............................
+………………………………………………………………..............................
 ......
 
 Salon Shop Exhibition
@@ -1259,7 +1259,7 @@ She received her Bachelor of Fine Arts from Emily Carr University and
 her teacher training at SFU. She has been a pottery instructor for 35 
 years with Parks and Recreation, currently teaching at The Roundhouse. 
 She has displayed her work in numerous galleries including an 
-International Potterâ€™s Show in Seto, Japan. She has spent time studying 
+International Potter’s Show in Seto, Japan. She has spent time studying 
 and working in Japan, New Zealand, Thailand, Turkey, Ecuador and 
 Greece.
 
@@ -1273,7 +1273,7 @@ Scrivener's Monthly: George Bowering
 Friday, November 14, 2014 @ 8:00pm
 Western Front, 303 East 8th Avenue
 
-Scrivenerâ€™s Monthly and The Capilano Review are pleased to present a 
+Scrivener’s Monthly and The Capilano Review are pleased to present a 
 reading by renowned Vancouver writer George Bowering. Author of more 
 then 100 books, Bowering will read from new work alongside a selection 
 of archival recordings from the Western Front and beyond, documenting 
@@ -1287,7 +1287,7 @@ on a number of books, and in 2015 will publish a YA novel, The Attack of
 the Toga Gang, as well as a personal anthology of writings about the 
 Okanagan Valley, Desert Elm.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the 
+Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
 experiment in â€œnot publishingâ€  involves readings, performances, and other 
@@ -1309,7 +1309,7 @@ H. Tuesday - Saturday 12-5pm
 
 Chromaflex: A 16mm film processing workshop with Richard Tuohy 
 (Nanolab, AU)
-Saturday / Sunday; 15-16 November; 1.00pmâ€“6.00pm
+Saturday / Sunday; 15-16 November; 1.00pm–6.00pm
 $60 Cineworks & VIVO members / $70 non-members
 Cineworks Annex; limited space, advance sign-up required
 
@@ -1332,11 +1332,11 @@ For full details and registration, visit www.chromaflex.eventbrite.ca
 IN PERSON FROM AUSTRALIA: RICHARD TUOHY
 Active in film since the late 1980s, Richard Tuohy has spent the past
 decade immersed in the materialist tradition of experimental filmmaking 
-â€”
+—
 work that tests the absolute limits of the medium itself. Drawing
 primarily on natural forms and environments as subject matter for his
-celluloid manipulations â€” an array of classic and novel in-camera,
-darkroom, printing, and editing techniques â€” Tuohy â€œabstracts out the
+celluloid manipulations — an array of classic and novel in-camera,
+darkroom, printing, and editing techniques — Tuohy “abstracts out the
 fleshiness of the particularâ€  to create dynamic studies of form,
 structure, time, and pattern, an approach he describes as â€œcine-cubism.â€ 
 The filmmaker will present a series of 16mm films, culminating in a live
@@ -1376,7 +1376,7 @@ November 15 - December 20, 2014
 Reception Saturday, November 15th, 2-4PM
 
 Republic Gallery is pleased to present Mongrel Histories, a solo show of 
-new works on paper by Gwenessa Lam. Lamâ€™s drawings and paintings 
+new works on paper by Gwenessa Lam. Lam’s drawings and paintings 
 explore the history of the Kaiping Diaolou, late 19th century multi-storey 
 homes located in Kaiping county, Guongdong, China. These fortress-like 
 defensive buildings were designed to protect against theft and banditry, 
@@ -1435,21 +1435,21 @@ lives in Sante Fe, New Mexico where he is the current director of the Art
 and Science Laboratory. 
 
 Panelists include Stephanie Loveless, Matt Smith, and Paul Walde who 
-are all Open Sound 2014 exhibiting artists. Paul Waldeâ€™s piece 
+are all Open Sound 2014 exhibiting artists. Paul Walde’s piece 
 Mycolophonia is the latest installation to go up at the Surrey Art Gallery, 
 inspired by the work of the American composer and amateur mushroom 
 enthusiast John Cage. This recording of mushroom spores as they are 
 released into the air invites the listener to contemplate the relationship 
-between music and mushrooms. Matt Smithâ€™s BogScape is a 
+between music and mushrooms. Matt Smith’s BogScape is a 
 â€œnaturalisticâ€  installation that generates sound from weather data 
-gathering systems located in or near Burns Bog. Stephanie Lovelessâ€™s 
+gathering systems located in or near Burns Bog. Stephanie Loveless’s 
 quadraphonic sound installation Cricket, Tree, Crow uses voice to 
 investigate the communication of insect, plant, and animal worlds. These 
 artists will be joined by Jennifer Schine, an award-winning researcher, 
 sound artist, and communication specialist whose ethnographic work 
 explores the aural and oral - 2 - 
 
-heritage of British Columbiaâ€™s coastal communities. She will be 
+heritage of British Columbia’s coastal communities. She will be 
 discussing the Broughton Archipelago Sound Retreat project. 
 
 This event also features a performance by the Experimental Music Unit 
@@ -1486,7 +1486,7 @@ Please join us for an Artist Talk by Duane Linklater, on the occasion of his
 solo exhibition at Catriona Jeffries opening on Friday, November 14, 
 2014.
 
-Duane Linklater is OmaskÃªko Cree, from Moose Cree First Nation in 
+Duane Linklater is Omaskêko Cree, from Moose Cree First Nation in 
 Northern Ontario and is currently based in North Bay, Ontario. He was 
 educated at the University of Alberta, receiving a Bachelor of Native 
 Studies and a Bachelor of Fine Arts. Duane attended the Milton Avery 
@@ -1538,7 +1538,7 @@ workshop or exhibition during the residency term.
 
 This residency includes: 
 
-- unlimited studio access during University hours from January â€“ April 
+- unlimited studio access during University hours from January – April 
 2015
 - access to a range of professional equipment, tools and basic art 
 materials 
@@ -1592,7 +1592,7 @@ understood as interwoven threads of creative development. 8 DAYS is an
 opportunity to share artistic practices and concerns and to challenge, 
 invigorate and inspire each other. This is an occasion to contextualize 
 oneself within a larger frame. 8 DAYS escapes the pressures of 
-production-driven work. It creates space to reflect on oneâ€™s current 
+production-driven work. It creates space to reflect on one’s current 
 practice and through rigorous dialogue and experimentation encourages 
 new artistic possibilities. 
 
@@ -1661,10 +1661,10 @@ org
 
 Project History
 8 DAYS was held at la B.A.R.N. on Lac Leslie in the Pontiac Region of 
-Quebec, from June 16 â€“ 24, 2012. It was hosted and supported by 10 
+Quebec, from June 16 – 24, 2012. It was hosted and supported by 10 
 Gates Dancing Inc. and Public Recordings. Selection committee: Sara 
 Coffin, Ame Henderson, Tedd Robinson, Stephen Thompson 
-Participants: Justine A. Chambers, Claudia Fancello, Marie Claire FortÃ©, 
+Participants: Justine A. Chambers, Claudia Fancello, Marie Claire Forté, 
 Ame Henderson, Benjamin Kamino, Davida Monk, Tedd Robinson, 
 Stephen Thompson, Michael Trent 
 
@@ -1672,9 +1672,9 @@ Stephen Thompson, Michael Trent
 August 10-18, 2013. It was hosted by Justine A. Chambers and Public 
 Recordings, and received support from the Canada Council for the Arts, 
 Public Recordings, The Dance Centre and ten fifteen maple. Selection 
-committee: Martin BÃ©langer, Justine A. Chambers, Benjamin Kamino, 
+committee: Martin Bélanger, Justine A. Chambers, Benjamin Kamino, 
 Davida Monk Participants: Naomi Brand, Justine A. Chambers, Karine 
-Denault, Claudia Fancello, Marie Claire FortÃ©, Caroline Gravel, Ame 
+Denault, Claudia Fancello, Marie Claire Forté, Caroline Gravel, Ame 
 Henderson, Christopher House, Davida Monk, Andrew Tay, Stephen 
 Thompson, Michael Trent, Laurie Young 
 
@@ -1682,9 +1682,9 @@ Thompson, Michael Trent, Laurie Young
 was hosted by Public Recordings, and received support from the Canada 
 Council for the Arts, Artscape Gibraltar Point, Toronto Dance Theatre and 
 10 Gates Dancing Inc. Selection committee: Naomi Brand, Caroline 
-Gravel, Robin Poitras, Laurie Young Participants: Martin BÃ©langer, Naomi 
+Gravel, Robin Poitras, Laurie Young Participants: Martin Bélanger, Naomi 
 Brand, Justine A. Chambers, Karine Denault, Claudia Fancello, Marie 
-Claire FortÃ©, Caroline Gravel, Ame Henderson, Christopher House, 
+Claire Forté, Caroline Gravel, Ame Henderson, Christopher House, 
 Benjamin Kamino, Jennifer Mascall, Freya Olafson, Bee Pallomina, Tedd 
 Robinson, Andrew Tay, Stephen Thompson, Michael Trent, Peter 
 Trosztmer, Katie Ward, Laurie Young
@@ -1713,7 +1713,7 @@ Your submission must include:
 
 - A one-page proposal including brief artist statement and gallery show 
 description
-- A Curriculum Vitae (an artistâ€™s resume) or Biography relating to art 
+- A Curriculum Vitae (an artist’s resume) or Biography relating to art 
 practice (2 pages max).
 - Visual Documentation of up to 10 images of recent work; jpeg format 
 only, 300 dpi preferred, no larger than 1024 x 768 pixels. All images 
@@ -1751,16 +1751,16 @@ All emails must be received and mail postmarked no later than by Dec 1st
 Exhibition Title: Kitchen
 Artist: Julia Feyrer
 Closing Reception: December 16, 2014 (7pm-10pm)
-Exhibition Dates: Nov 1 â€“ Dec 19, 2014
+Exhibition Dates: Nov 1 – Dec 19, 2014
 
 grunt gallery kicks off our 30th anniversary programming with a residency 
 and exhibition with Vancouver-based artist Julia Feyrer. Taking the form 
-of an evolving installation in the main gallery space, Feyrerâ€™s work 
+of an evolving installation in the main gallery space, Feyrer’s work 
 engages with materials and documentation from the grunt archives in the 
 production of a new, site-specific environment.
 
-Feyrerâ€™s starting point is the kitchenâ€”a space that has played a central 
-role in the galleryâ€™s social and creative life since its beginnings in 1984. A 
+Feyrer’s starting point is the kitchen—a space that has played a central 
+role in the gallery’s social and creative life since its beginnings in 1984. A 
 meeting space that entertained activities, conversations, and ideas 
 fuelled by coffee, tea, beer, and wine, it has been a venue of literal and 
 figurative â€œbrewingâ€ , where creative relationships have percolated over 
@@ -1768,13 +1768,13 @@ the years. The idea of the kitchen has long been a source of inspiration
 for the gallery, and the physical site has evolved into the present-day 
 media lab and an exhibition space for innovative media works.
 
-"Process-based and meticulouslyâ€”if playfullyâ€”constructed, Feyrerâ€™s 
+"Process-based and meticulously—if playfully—constructed, Feyrer’s 
 work is both densely material and intellectually airy; that is, her work 
 challenges the viewer to engage both a tactile experience in this present 
 moment, while simultaneously considering the transformative potential of 
-perception, over time and through space. Feyrerâ€™s use of materials acts 
+perception, over time and through space. Feyrer’s use of materials acts 
 as a conduit for seeing and, importantly, for experiencing an archival 
-document." â€“ Vanessa Kwan, curatorial statement.
+document." – Vanessa Kwan, curatorial statement.
 
 More than an exploration of archival material, her work will also engage 
 the heart of the kitchen environment: the social. Feyrer, in collaboration 
@@ -1809,8 +1809,8 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-11-06-10-sfu-woodwards-performance-canzine-west-2014-nov-8">10. SFU Woodwards | Performance | CANZINE WEST 2014 | NOV 8</a>
 <a href="/instant-coffee/listings/2014-11-06-11-vancouver-institute-for-social-research-jerry-zaslove-nov-10">11. Vancouver Institute for Social Research | Jerry Zaslove | NOV 10</a>
 <a href="/instant-coffee/listings/2014-11-06-12-emily-carr-library-and-humn-311-boox-and-the-doppelganger-no">12. Emily Carr Library and HUMN 311 | BOOX and The Doppelganger, | NOV 12</a>
-<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
-<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
 <a href="/instant-coffee/listings/2014-11-06-15-vivo-media-arts-centre-recent-acquisitions-screening-nov-13">15. VIVO Media Arts Centre | Recent Acquisitions Screening | NOV 13</a>
 <a href="/instant-coffee/listings/2014-11-06-16-western-front-joar-nango-nov-13">16. Western Front | Joar Nango | NOV 13</a>
 <a href="/instant-coffee/listings/2014-11-06-17-dynamo-arts-association-eschatons-nov-14">17. Dynamo Arts Association | Eschatons | NOV 14</a>
@@ -1836,12 +1836,12 @@ Thursday, November 6, 7 pm
 Exhibition extended to Sunday, November 9, 2014
 
 Please join us for a conversation between Vancouver artists Kelly Lycan 
-and Liz Magor about Lycanâ€™s installation, Underglow, preceded by a short 
+and Liz Magor about Lycan’s installation, Underglow, preceded by a short 
 walk-through tour by the artist. The discussion will consider the concepts 
-that informed the exhibition in relation to Lycanâ€™s and other artistâ€™s 
+that informed the exhibition in relation to Lycan’s and other artist’s 
 practices. 
 
-Underglow is a response to Presentation House Galleryâ€™s architecture 
+Underglow is a response to Presentation House Gallery’s architecture 
 and history. The installation - entirely in shades of black and white - 
 transforms the gallery spaces to bring the past into dialogue with the 
 present. The artist reflects on the growing impact of digital imagery on the 
@@ -1852,21 +1852,21 @@ New York between 1905 and 1917. This now iconic photography gallery,
 initially conceived to promote the medium as home to the Photo-
 Secessionists, was the first exhibition space to profile photography as art 
 and introduced many European modernist artists to America, including 
-Matisse and Duchamp. Lycanâ€™s structure mimics a black and white 
+Matisse and Duchamp. Lycan’s structure mimics a black and white 
 photograph taken by Alfred Stieglitz of a 1906 exhibition at 291, itself built 
-as an imitation of Victorian dÃ©cor and Arts and Crafts design. Viewers are 
+as an imitation of Victorian décor and Arts and Crafts design. Viewers are 
 invited to walk through a simulation of the photograph, complete with 
-decorative details and a foliage bouquet â€“everything except pictures on 
-the walls. This illusionistic set is paralleled with Lycanâ€™s reconfiguration of 
+decorative details and a foliage bouquet –everything except pictures on 
+the walls. This illusionistic set is paralleled with Lycan’s reconfiguration of 
 the white cube gallery space. In this disorienting arrangement of grainy 
 black and white photographs taken in modernist New York museums, 
 abstracted convex and concave spaces merge into the existing gallery 
 architecture. The exhibition also includes slight alterations to 
-Presentation House Galleryâ€™s architecture. Based on the artistâ€™s research 
-in the Galleryâ€™s photo-documentation archive of exhibition installations, 
+Presentation House Gallery’s architecture. Based on the artist’s research 
+in the Gallery’s photo-documentation archive of exhibition installations, 
 Lycan references past techniques of exhibition display, drawing out the 
 impact of display methods on the reception of art. This exhibition extends 
-Lycanâ€™s ongoing investigations of the ways that dÃ©cor and the armatures 
+Lycan’s ongoing investigations of the ways that décor and the armatures 
 of display determine the meaning of objects, and draws attention to the 
 interplay between systems of representation and perceptual experience. 
 
@@ -1888,7 +1888,7 @@ France, Marseille, 2013; The Mouth and other storeage facilities, Henry
 Art Gallery, Seattle and Simon Fraser University Gallery, Vancouver, 
 2008; and Liz Magor, The Power Plant, Toronto, 2003, among many 
 others. Magor has received numerous prestigious awards, including the 
-Audain Prize, 2009 and the Governor Generalâ€™s Award, 2001. She is 
+Audain Prize, 2009 and the Governor General’s Award, 2001. She is 
 represented by Catriona Jeffries, Vancouver and Susan Hobbs, Toronto.
 
 Presentation House Gallery
@@ -1912,7 +1912,7 @@ moving image in contemporary art. Hanhardt is one of the foremost
 curators of film and video, having worked at MoMA, the Walker Art 
 Center, The Whitney Museum of American Art and the Guggenheim 
 Museum throughout the course of his long career. His talk, in part 
-inspired by Roland Barthesâ€™ â€œHow to Live Together. Novelistic Simulations 
+inspired by Roland Barthes’ “How to Live Together. Novelistic Simulations 
 of Some Everyday Spacesâ€ , will look at how interior spaces are imagined 
 in work ranging from John Ford to Isaac Julien.
 
@@ -1940,7 +1940,7 @@ Big Beige Eyes is a solo exhibition of work by Kalli Niedoba inspired by
 the upscale beige-tinted interior of a Los Angeles branch of Citibank. The 
 bank has invested in interior design as a means to orchestrate social 
 order; The bank seeks to meet the goals of finance. As people line up, 
-they are accounted for as customers of varying class standing â€“ and a 
+they are accounted for as customers of varying class standing – and a 
 pseudo-democratic welcome desk stands waiting as an artifice of 
 infrastructure.
 
@@ -2005,21 +2005,21 @@ acrylic paint on found antique hand drawn sheet music manuscripts. The
 series explores specific historical representations of sexuality which 
 destabilize contemporary pornography and sexual epistemes. The works 
 re-present pornographic prints by anonymous artists of the Enlightenment 
-era on handwritten sheet music to Haydnâ€”a prominent classical 
+era on handwritten sheet music to Haydn—a prominent classical 
 composer of the same period.
 
 Although the age of the libertine is the only period in early modern history 
-that shares the sexual liberalism of our own, Passmoreâ€™s research of 
+that shares the sexual liberalism of our own, Passmore’s research of 
 erotic prints circulated in this era reveals a number of fundamental 
-differences to modern pornographyâ€”namely a great emphasis on 
-humour and fertility. This â€˜earthierâ€™ eroticism or naturalism within the 
+differences to modern pornography—namely a great emphasis on 
+humour and fertility. This ‘earthier’ eroticism or naturalism within the 
 realm of 18th Century libertinage frequently includes putti as a decorative 
 element within the image. Both profane and sacred, their iconography is 
 perhaps deliberately unfixed. The same image may contain secular 
 cupids, sacred cherubs, or mere mortal babies.
 
 18th Century prints often incorporate elements of self-reflexive ribaldry. 
-Passmoreâ€™s mixed media works present depictions of sexuality which 
+Passmore’s mixed media works present depictions of sexuality which 
 combine bawdiness and humour within opulence and grandeur. Many 
 prints simply celebrate sexuality. Cultural pleasures such as games and 
 music are often presented as components of sexual behavior and/or 
@@ -2031,7 +2031,7 @@ Heather Passmore is a contemporary artist based in Vancouver, Canada.
 For the past ten years she has exhibited extensively in major solo and 
 group exhibitions across Canada and internationally. Her practice 
 reconfigures painting, drawing, printmaking and photography with a 
-variety of socio-historically laden materials. Heatherâ€™s artwork frequently 
+variety of socio-historically laden materials. Heather’s artwork frequently 
 intersects social justice issues using materials which bear histories of 
 taste and accumulations of labour. These have included illegal milk from 
 community supported agriculture, linoleum from demolished Vancouver 
@@ -2079,7 +2079,7 @@ Parking available at back of building off alley
 For inquiries, please contact Wil at 778 229 3458 or wil@WAAPart.com.
 
 Nicolas Sassoon's first solo exhibition at WAAP features three recent 
-projects navigating the artistâ€™s current production of fantasized 
+projects navigating the artist’s current production of fantasized 
 landscapes and architectures through the use of 3D modelling and 
 computer graphics. The print series Homelands presents a set of 
 computer generated landscapes inhabited by architectural figures. Each 
@@ -2088,7 +2088,7 @@ landscape generating programs and color-indexing image treatment.
 Using this process, the artist creates a large body of bare and secluded 
 landscapes converging towards the sculptural and pictorial qualities of 
 the geography in relation to the architecture. The project Homelands 
-started as an exercise to render some of Sassoonâ€™s fatherâ€™s fantasized 
+started as an exercise to render some of Sassoon’s father’s fantasized 
 images of holiday homes. It later became a personal project as an 
 ongoing enquiry on the digital manifestation of architectural fantasies.
 
@@ -2111,20 +2111,20 @@ When projected, the animation transforms to a life-size architectural
 feature, evocating a passage way to the digital realm.
 
 Nicolas Sassoon is a French-born artist living and working between 
-Biarritz, France and Vancouver, BC. Sassoonâ€™s work makes use of 
+Biarritz, France and Vancouver, BC. Sassoon’s work makes use of 
 various computer-based processes to generate fantasized visions of 
 architectures, landscapes and domestic environments. While most of his 
 work is published online as animated GIFs, Sassoon also materializes his 
 screen-based practice into sculptures, prints, textiles, and site-specific 
 installations, as well as collaborations with other artists, architects, music 
-producers and fashion designers. Sassoonâ€™s work often explores the 
+producers and fashion designers. Sassoon’s work often explores the 
 contemplative dimensions of the digital, as well as the manner in which 
 virtual space can (or cannot) be inscribed within the physical realm. 
 Nicolas Sassoon has previously exhibited his work at the Victoria & Albert 
 Museum (UK), Today Art Museum(CN), New Museum(US), 319 
 Scholes(US), Eyebeam(US), May Gallery & Residency(US), 
 Contemporary Art Gallery(CA), Charles H.Scott Gallery(CA), Western 
-Front(CA), PRETEEN Gallery(MX), the Centre dâ€™Art Bastille(FR), Arti et 
+Front(CA), PRETEEN Gallery(MX), the Centre d’Art Bastille(FR), Arti et 
 Amicitiae(NL), MU Eindhoven(NL) , the Berlin Fashion Week (DE)) and 
 the New-York Fashion Week (US). Nicolas is a member of the online 
 collective Computers Club and a founder of the collective W-A-L-L-P-A-P-
@@ -2138,7 +2138,7 @@ and entertainment in support of the 2015 LIVE Biennale. Come out and
 help us make LIVE 2015 happen!
 
 Attending this special fundraising event gets you your own handmade 
-ceramic bowl filled with delicious soup â€” and a chance to bid on classic 
+ceramic bowl filled with delicious soup — and a chance to bid on classic 
 ceramic pieces by renowned artists such as Sing-Ying Ho, Glenn Lewis, 
 Eric Metcalfe, Gailan Ngan, Wayne Ngan, and John Springer in a once 
 only auction hosted by the eminent Hank Bull.
@@ -2148,9 +2148,9 @@ Claire Madill, Becky McEachern, Dylan McHugh, Maria Palotas, Marty
 Peters, Ron Vallis, Chris Watt, Jinny Whitehead, Elizabeth Zvonar and 
 more! 
 
-Special Â¡LIVE! bowls by Patricia Galamb!
+Special ¡LIVE! bowls by Patricia Galamb!
 Special soup chefs Christos Dikeakos, Guadalupe Martinez, Leisha 
-Oâ€™Donohue and Bernadette Phan! 
+O’Donohue and Bernadette Phan! 
 
 Friday November 7th, 7pm 
 303 East 8th Avenue
@@ -2161,7 +2161,7 @@ Tickets available online at eventbrite.ca/e/stoned-soup-live-biennale-
 fundraiser-tickets-13355028249
 Preview the art at http://livebiennale.tumblr.com/ 
 
-LIVE 2015â€”presenting a dynamic mix of performance art from here and 
+LIVE 2015—presenting a dynamic mix of performance art from here and 
 around the world. Join us in 2015 for a celebration featuring 
 performances, events, workshops, talks, festivities and more.
 
@@ -2176,11 +2176,11 @@ info@livebiennale.ca
 October 30 - December 20, 2014
 Opening Reception: November 7th, 7-9pm
 
-Gallery 295 is pleased to present Ian Skeddâ€™s exhibition This is Not a 
+Gallery 295 is pleased to present Ian Skedd’s exhibition This is Not a 
 Self-Portrait. Composed as a series of portraits, Skedd brings together a 
 variety of artistic and cultural references and enhances them through 
 repetition. In this exhibition, the minimalistic gesture of repetition informs 
-Skeddâ€™s research towards decoding historical and contemporary insights 
+Skedd’s research towards decoding historical and contemporary insights 
 on portraiture. The work presented weaves text and image as a reflection 
 on the modern world and its art, life, ironies, contradictions and 
 associated dilemmas, and is constituted as a framed series of 26 
@@ -2191,7 +2191,7 @@ bars censor the identifying features of each framed portrait and are
 adhered onto the exterior surface of the frame. These bars cover the 
 eyes and mouth of the artist and further deface the frame, obstructing any 
 formal notions associated with the contained portrait and framing device. 
-This act of obscuring is emblematic of Skeddâ€™s understanding of 
+This act of obscuring is emblematic of Skedd’s understanding of 
 contemporary portraiture. He further isolates each of the portraits with the 
 addition of text and punctuation onto the black rectangular bars and 
 intends the portrait to be read as an isolated declaration or statement. 
@@ -2244,7 +2244,7 @@ Instant Coffee presents PINK NOISE as part of Luminocity
 Instant Coffee: Pink Noise -- Week Two
 
 Ronan McGrath
-Johan BjÃ¶rck
+Johan Björck
 Sinoia Caves
 Pink Eraser
 The Pink Lincolns
@@ -2256,7 +2256,7 @@ project Pink Noise drives at colliding and provoking the basic sensory
 mechanics of colour and sound to form temperamental emotional 
 connections. Their cursory research takes its initial form as part of 
 Luminocity as a gathering place and a series of music performances. 
-Instant Coffee will turn Kamloopsâ€™ Rotary Bandshell at Riverside Park into 
+Instant Coffee will turn Kamloops’ Rotary Bandshell at Riverside Park into 
 a vibrant pink-washed venue from which to host four evenings of events. 
 Come through the back and delve into a material investigation of pink 
 noise.*
@@ -2292,9 +2292,9 @@ The Black Rainbow.
 
 http://www.youtube.com/watch?v=vRmsMyiBN8k
 
-Johan BjÃ¶rck
+Johan Björck
 
-Johan BjÃ¶rck is a Swedish visual artists and musician whose 
+Johan Björck is a Swedish visual artists and musician whose 
 performance for Pink Noise will combine euro-funk, poetry and jazz-
 keyboard
 
@@ -2302,7 +2302,7 @@ http://soundcloud.com/johanbjorck
 
 Ronan McGrath
 
-Kamloopâ€™s Ronan McGrath will perform The Rose Tree an articulation of 
+Kamloop’s Ronan McGrath will perform The Rose Tree an articulation of 
 his fixation on pink noise. As well as his guitar/sampler oriented tracks 
 from his current 'No Spectrum' project.
 
@@ -2348,7 +2348,7 @@ Featured events include LA cartoonist Mimi Pond speaking about her
 New York Times bestseller Over Easy, a panel discussion about zines as 
 political tools in the digital age, and the Giant Zine and Small Press Fair 
 where hundreds of publications are on display and for sale. The Radical 
-Reading Series includes Citizen Artistâ€™s Daphne Plessner and edgy 
+Reading Series includes Citizen Artist’s Daphne Plessner and edgy 
 crafter Leanne Prain, author of Strange Materials. 
 Full details at brokenpencil.com/canzine-vancouver.
 For more information about Canzine, email canzine@brokenpencil.com.
@@ -2362,9 +2362,9 @@ MEDIA CONTACT: Emiko Morita, emikomorita@ymail.com or 778-995-
 
 _______________
 Emiko Morita
-emikomorita@ymail.com â€¢ 778-995-3155
+emikomorita@ymail.com • 778-995-3155
 
-Canzine West 2014 â€¢ Saturday, November 8, 2014 â€¢ 1:00 to 7:00 p.m.
+Canzine West 2014 • Saturday, November 8, 2014 • 1:00 to 7:00 p.m.
 Goldcorp Centre for the Arts, 149 West Hastings Street, Vancouver
 http://www.brokenpencil.com/canzine-vancouver
 
@@ -2390,7 +2390,7 @@ November 10
 Jerry Zaslove
 â€œBenjaminâ€™s â€œLitmus Testâ€ : The Aesthetics of Violence and Culture as an 
 â€œEnigmatic Signifierâ€ 
-I will try to conceptualize BenjaminÂ¹s use of violence as the State driven 
+I will try to conceptualize Benjamin¹s use of violence as the State driven 
 â€œenigmatic signifierâ€  of culture that creates complicity that masks the 
 negative of repression of violence within the rights based powerlessness 
 of culture to arrest structural violence. The enigma of the negative of 
@@ -2403,16 +2403,16 @@ Literature and Social History of Art influenced but not limited by the
 traditions of critical theory for the arts, aesthetics, psychoanalysis, and 
 social thought. Most recent writing: â€œKafka in theâ€™ Penal Colonyâ€ , essays 
 on the place of the University in society, Exile and memory, the City in 
-History â€“ Elsewhere and Otherwise, forms and social realities of thinking 
-about community. Dr. Zaslove has taught at SFU since its opening year â€“ 
+History – Elsewhere and Otherwise, forms and social realities of thinking 
+about community. Dr. Zaslove has taught at SFU since its opening year – 
 home in English, Humanities, and as Founding Director of the Institute for 
 the Humanities.
 
 November 17
 Jaleh Mansoor
-Santiago Sierraâ€™s Biopolitics of Abstraction
+Santiago Sierra’s Biopolitics of Abstraction
 
-Much of Spanish artist Santiago Sierraâ€™s practice addresses the
+Much of Spanish artist Santiago Sierra’s practice addresses the
 fundamental violence inscribed in the wage relation, in which surplus
 value necessary to the expansion of capital is extracted through labor
 and compensated in a self reproducing matrix of remuneration
@@ -2445,11 +2445,11 @@ In states of illness, pain, delirium or trauma, infallibility is often
 suspended. Perceptual and sensorial systems may distort. Emotion and 
 intuition may become highly sensitive or muted. Cognition may slack. The 
 capacity to view, annunciate or gesture may be halted or restrained. 
-Oneâ€™s relation to aesthetic, social and political spheres (shaken by the 
+One’s relation to aesthetic, social and political spheres (shaken by the 
 trembling of others) are often ruptured, or severed even. In 
 convalescence (singular and collective), the last infallible is the wall: the 
-bedroom wallâ€“ the hospital wallâ€“the prison wallâ€“the analystâ€™s wallâ€“the 
-military wallâ€“the wall of languageâ€“the gallery wall. Surface Tension will 
+bedroom wall– the hospital wall–the prison wall–the analyst’s wall–the 
+military wall–the wall of language–the gallery wall. Surface Tension will 
 consider experience (visual, ideological, rhetorical, reflexive, kinetic) up 
 against these walls.
 
@@ -2465,12 +2465,12 @@ December 1
 Nicole Shukin
 Striking Images: The Politics of Cinematic Affect
 
-An early silent film classic â€“ Sergei Eisensteinâ€™s Strike (1925) â€“ will serve 
-as this seminarâ€™s entry point into larger questions of aesthetics and 
+An early silent film classic – Sergei Eisenstein’s Strike (1925) – will serve 
+as this seminar’s entry point into larger questions of aesthetics and 
 politics. The technique of dialectical montage that Eisenstein practices in 
-this film â€“ exemplified by a scene in which the brutal suppression of 
+this film – exemplified by a scene in which the brutal suppression of 
 striking factory workers is dramatically intercut with shots of a bull being 
-stunned with a pole-axe, and then slaughtered â€“ prompts an analysis of 
+stunned with a pole-axe, and then slaughtered – prompts an analysis of 
 the politics of cinematic affect. For Eisenstein, such startling 
 juxtapositions of images were themselves designed to strike spectators 
 with visceral force, by-passing representation in order to directly affect 
@@ -2478,12 +2478,12 @@ viewers and move them to political action. His cinematic philosophy
 poses an immediate connection between aesthetics and politics that I 
 suggest underlies how the radical relation between the two continues to 
 be thought today.
-Eisensteinâ€™s practice of dialectical montage has received ample critical 
-attention, and in this seminar weâ€™ll have a chance to compare two 
+Eisenstein’s practice of dialectical montage has received ample critical 
+attention, and in this seminar we’ll have a chance to compare two 
 different takes on his socialist cinema, one by Jonathan Beller in The 
-Cinematic Mode of Production and the other by Jacques RanciÃ¨re in Film 
+Cinematic Mode of Production and the other by Jacques Rancière in Film 
 Fables. Yet what I propose is at once most obvious and yet overlooked in 
-aesthetic or biopolitical readings of Eisensteinâ€™s cinema is the homology 
+aesthetic or biopolitical readings of Eisenstein’s cinema is the homology 
 that Strike inadvertently implies between animal slaughter and the 
 affective force of moving images. How exactly are animal slaughter and 
 moving images interimplicated, and what does this interimplication signal 
@@ -2515,7 +2515,7 @@ Dalhousie Review and CR: The New Centennial Review.
 
 December 8
 Robert Brain
-On Silicon Valleyâ€™s Quantified Self Movement
+On Silicon Valley’s Quantified Self Movement
 
 "The Quantified Self" is a movement organized around the individual 
 consumer's increasingly sophisticated capacity for digital self-surveillance 
@@ -2526,13 +2526,13 @@ scrutinize the historical precedents and biopolitical implications of this
 Silicon Valley based lifestyle movement.
 
 Bio:
-Dr. Robert Brainâ€™s research interests centre on problems of the cultural 
+Dr. Robert Brain’s research interests centre on problems of the cultural 
 history of the sciences in the long nineteenth-century, with special foci in 
 the relations between the sciences and the arts of modernism, the role of 
 the sciences in modern empire and colonial expansion; evolution and the 
 sciences of mind, brain, and behaviour; instruments and material cultures 
 of laboratory and field; visuality and representation in the sciences; 
-history of universal expositions, worldâ€™s fairs, and modern museums; 
+history of universal expositions, world’s fairs, and modern museums; 
 cybernetics and media theory, cultural history of philosophy and systems 
 of thought.
 
@@ -2550,7 +2550,7 @@ HIfIJqpYbQoshg/videos
 <a href="/instant-coffee/listings/2014-11-06-12-emily-carr-library-and-humn-311-boox-and-the-doppelganger-no">12. Emily Carr Library and HUMN 311 | BOOX and The Doppelganger, | NOV 12</a>
 ------------------------------------------------------------------------
 The Emily Carr Library and HUMN 311 are pleased to present Boox and 
-The DoppelgÃ¤nger, two exhibitions from the Artistsâ€™ Books Collection.
+The Doppelgänger, two exhibitions from the Artists’ Books Collection.
 
 BOOX
 November 13 to 19, 2014
@@ -2558,8 +2558,8 @@ Opening on Wednesday, November 12 at 7:00pm
 Emily Carr Library Window
 
 Boox is an exhibition presenting a video recording of titles from the 
-Artistsâ€™ Book Collection at the Emily Carr library. Transformed through 
-video and structured according to the cameraâ€™s perspective, Boox takes 
+Artists’ Book Collection at the Emily Carr library. Transformed through 
+video and structured according to the camera’s perspective, Boox takes 
 the intimate act of reading and pushes it into the public.
 
 The selected books construct meaning as the reader interacts and 
@@ -2573,7 +2573,7 @@ the room given for the viewer to be situated. There is opportunity to be a
 narrator, an observer, a voyeur, an accomplice, or an operator.
 
 What happens when we capture the reading process on video? What is it 
-like to follow someone elseâ€™s method of exploring a book and only be 
+like to follow someone else’s method of exploring a book and only be 
 presented one perspective?
 
 Boox is curated by Areum Kim, Christine Novosel, Hannah Fisher, Linton 
@@ -2581,32 +2581,32 @@ Murphy, and Lauren Nelson.
 
 For information please visit ecuboox.tumbler.com
 
-The DoppelgÃ¤nger
+The Doppelgänger
 November 13 to 19, 2014
 Opening on Wednesday, November 12 at 7:00pm
 Emily Carr Library
 
 With all the oddities of the world, would it really be so strange to 
-unknowingly possess the same facadeâ€”or storiesâ€”as someone else? 
-Your doppelgÃ¤nger exists somewhere out there. They look like you, move 
+unknowingly possess the same facade—or stories—as someone else? 
+Your doppelgänger exists somewhere out there. They look like you, move 
 like you, talk like you, and could even have the same tastes in books.
 
-Artistsâ€™ books are eerily similar in form and function to a typical book. 
+Artists’ books are eerily similar in form and function to a typical book. 
 Until you open them, you might mistake them for something more run-of-
-the-mill. Utilizing the same mechanisms as an ordinary book, the Artistsâ€™ 
-book is the doppelgÃ¤nger of the literary sphere; here, we begin to 
+the-mill. Utilizing the same mechanisms as an ordinary book, the Artists’ 
+book is the doppelgänger of the literary sphere; here, we begin to 
 uncover the otherworldly possibilities of art in book packaging, and books 
 with artistic motivations.
 
-The exhibition includes work by Francis AlÃ¿s, Sophie Calle, Rodney 
+The exhibition includes work by Francis Alÿs, Sophie Calle, Rodney 
 Graham, Constance De Jong, Hana Pesut and Marlene Yuen.
 
-The DoppelgÃ¤nger is curated by AimÃ©e Haug, Joseph Haney, Jacquie 
+The Doppelgänger is curated by Aimée Haug, Joseph Haney, Jacquie 
 Duruisseau, and Alexandra Bischoff.
 
-Boox and The DoppelgÃ¤nger are the first two in a series of four 
-exhibitions of work from the Emily Carr Libraryâ€™s Artistsâ€™ Books Collection 
-and are presented as part of HUMN 311: The Practice of Artistsâ€™ 
+Boox and The Doppelgänger are the first two in a series of four 
+exhibitions of work from the Emily Carr Library’s Artists’ Books Collection 
+and are presented as part of HUMN 311: The Practice of Artists’ 
 Publishing.
 
 Emily Carr University Library
@@ -2616,22 +2616,22 @@ http://www.ecuad.ca/library
 http://blogs.eciad.ca/artistbookcollection
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-13-the-cinmathque-ai-weiwei-never-sorry-nov-12">13. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
 ------------------------------------------------------------------------
-Film Screening and Discussion at The CinÃ©mathÃ¨que - Ai Weiwei: Never 
+Film Screening and Discussion at The Cinémathèque - Ai Weiwei: Never 
 Sorry
 Wednesday, November 12, 7 pm
 
-The CinÃ©mathÃ¨que, 1131 Howe Street, Vancouver, BC
+The Cinémathèque, 1131 Howe Street, Vancouver, BC
 
-In conjunction with The CinÃ©mathÃ¨que, we are pleased to present Alison 
-Klaymanâ€™s award-winning documentary film Ai Weiwei: Never Sorry, 
+In conjunction with The Cinémathèque, we are pleased to present Alison 
+Klayman’s award-winning documentary film Ai Weiwei: Never Sorry, 
 which examines the complex intersection of artistic practice and social 
 activism as seen through the life and art of the artist. Please join us 
 immediately before the film for an introduction by Carol Lu, artistic 
 director and chief curator of OCAT Shenzhen. A critic and curator based 
 in Beijing, Lu is a Contributing Editor at Frieze Magazine. She was a jury 
-member for the 2011 Venice Biennaleâ€™s Golden Lion Award, a co-artistic 
+member for the 2011 Venice Biennale’s Golden Lion Award, a co-artistic 
 director for the 2012 Gwangju Biennial and writes frequently for 
 international art journals and magazines including e-flux journal, The 
 Exhibitionist, Yishu, Tate Etc. and Contemporary. Her curatorial work 
@@ -2668,22 +2668,22 @@ Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12</a>
+<a href="/instant-coffee/listings/2014-11-06-14-the-cinmathque-ai-weiwei-never-sorry-nov-12">14. The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12</a>
 ------------------------------------------------------------------------
-Film Screening and Discussion at The CinÃ©mathÃ¨que - Ai Weiwei: Never 
+Film Screening and Discussion at The Cinémathèque - Ai Weiwei: Never 
 Sorry
 Wednesday, November 12, 7 pm
 
-The CinÃ©mathÃ¨que, 1131 Howe Street, Vancouver, BC
+The Cinémathèque, 1131 Howe Street, Vancouver, BC
 
-In conjunction with The CinÃ©mathÃ¨que, we are pleased to present Alison 
-Klaymanâ€™s award-winning documentary film Ai Weiwei: Never Sorry, 
+In conjunction with The Cinémathèque, we are pleased to present Alison 
+Klayman’s award-winning documentary film Ai Weiwei: Never Sorry, 
 which examines the complex intersection of artistic practice and social 
 activism as seen through the life and art of the artist. Please join us 
 immediately before the film for an introduction by Carol Lu, artistic 
 director and chief curator of OCAT Shenzhen. A critic and curator based 
 in Beijing, Lu is a Contributing Editor at Frieze Magazine. She was a jury 
-member for the 2011 Venice Biennaleâ€™s Golden Lion Award, a co-artistic 
+member for the 2011 Venice Biennale’s Golden Lion Award, a co-artistic 
 director for the 2012 Gwangju Biennial and writes frequently for 
 international art journals and magazines including e-flux journal, The 
 Exhibitionist, Yishu, Tate Etc. and Contemporary. Her curatorial work 
@@ -2813,9 +2813,9 @@ Free Admission
 Western Front is pleased to announce an upcoming solo exhibition by 
 Norwegian-Sami artist and architect Joar Nango.
 
-Nango presents a new body of work that responds to Vancouverâ€™s 
+Nango presents a new body of work that responds to Vancouver’s 
 changing urban landscape. Informed by his ongoing research into the 
-creative DIY building techniques found in Sami architecture, Nangoâ€™s 
+creative DIY building techniques found in Sami architecture, Nango’s 
 practice highlights the role of local knowledge in creating livable 
 communities: championing indigenous approaches to design and 
 alternative models for social space.
@@ -2823,21 +2823,21 @@ alternative models for social space.
 Artist Biography
 
 Joar Nango (b. 1979, Alta, Norway) lives and works in Romssa, Norway. 
-Inhabiting the frontier between architecture, design and art, Nangoâ€™s 
+Inhabiting the frontier between architecture, design and art, Nango’s 
 practice explores issues of native identity through contradictions in 
 contemporary architecture and the built environment. In particular, he is 
 interested in the creative simplicity and sustainable knowledge that exists 
 within informal building environments of the north. In 2010 Nango co-
 founded the architectural collective FFB specializing in temporary 
 structures and interventions in urban contexts. FFB was nominated for 
-Norsk Formâ€™s prize for young architects in 2012. Joar Nango has 
+Norsk Form’s prize for young architects in 2012. Joar Nango has 
 exhibited internationally, including recently as part of 43SNA, Medellin, 
 Colombia (2013), the Norwegian Sculpture Biennale at Vigelandsmuseet, 
 Oslo, Norway (2013), and Archizines at the Storefront for Art and 
 Architecture, NYC, USA (2012). Recent solo exhibitions by Nango have 
 been presented at Gallery SAW, Ottawa, Canada (2013), Knipsu, 
 Bergen, Norway (2012), and SDG in Karasjok, Norway (2011). Currently 
-he is artist-in-residence at the Office for Contemporary Art Norwayâ€™s 
+he is artist-in-residence at the Office for Contemporary Art Norway’s 
 residency program in Beijing, China.
 
 Produced with the generous support of the Office for Contemporary Art 
@@ -2867,19 +2867,19 @@ Event Link: https://www.facebook.com/events/642064812576805/?ref=22
 DAA Presents // Artists in Residence: Echatons: The Touch and the 
 Touched.
 Nov 14, 7pm Performance / Encounter.
-Other events taking place between Nov 8 â€“ Nov 19 to be announced.
+Other events taking place between Nov 8 – Nov 19 to be announced.
 
-â€œMy hand which touches the things is itself subject to being touched. 
-â€œThrough this crisscrossing within it of the touching and the tangible, its 
+“My hand which touches the things is itself subject to being touched. 
+“Through this crisscrossing within it of the touching and the tangible, its 
 own movements incorporate themselves in the universe that they 
 interrogate, are recorded on the same map as itâ€  - Bernard Flynn In a 
-discussion of Maurice Merleau-Pontyâ€™s thought.
+discussion of Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.
 
 Eschatons are a four piece improvisational band that will be installing, 
 recording, jamming, and preparing for the end during their residence at 
-Dynamo Arts Association between November 8th â€“ 16th. A culmination of 
+Dynamo Arts Association between November 8th – 16th. A culmination of 
 free-tuned guitars, textured drumming, improvisation and song forms, this 
 trio combines all the sonic realms of improvised genres. The ongoing 
 collaboration between Jeremy Van Wyck, John Brennan & Bill Batt began 
@@ -2928,8 +2928,8 @@ nowhere except snugly into this indent in the wall, four pocket fans (blue
 and yellow) with fresh AA batteries, bottled essence of a basketball lay-
 up, two window frames for those summer breezes (error: currently not 
 summer), bright laundry wires with clippers, dripping wet clothes 
-(underwears welcome), 1 balloon, download bar stuck at 20.95% â€” but 
-thatâ€™s all we need right now. 
+(underwears welcome), 1 balloon, download bar stuck at 20.95% — but 
+that’s all we need right now. 
 
 Now do a sniff test of your environment; it is far from spoiled.
 
@@ -2982,9 +2982,9 @@ In November Gallery Gachet presents:
 Coalescence: A Body of Memories
 Osvaldo Ramirez Castillo | Kelly Gough
 
-Exhibition runs: Nov 14th â€“ Dec 21st, 2014
-Opening reception: Fri, Nov 14th, 2014, 7 â€“ 10pm
-Artistâ€™s performance by Kelly Gough
+Exhibition runs: Nov 14th – Dec 21st, 2014
+Opening reception: Fri, Nov 14th, 2014, 7 – 10pm
+Artist’s performance by Kelly Gough
 
 Artist Talk | Panel discussion
 Exploring trauma and the artistic process
@@ -3023,7 +3023,7 @@ a personal lexicon of imagery sourced from Pre-Columbian mythology,
 Salvadoran popular folklore, North American vernacular and visual 
 culture appropriated in mythic form. 
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..............................
+………………………………………………………………..............................
 ......
 
 Salon Shop Exhibition
@@ -3044,7 +3044,7 @@ She received her Bachelor of Fine Arts from Emily Carr University and
 her teacher training at SFU. She has been a pottery instructor for 35 
 years with Parks and Recreation, currently teaching at The Roundhouse. 
 She has displayed her work in numerous galleries including an 
-International Potterâ€™s Show in Seto, Japan. She has spent time studying 
+International Potter’s Show in Seto, Japan. She has spent time studying 
 and working in Japan, New Zealand, Thailand, Turkey, Ecuador and 
 Greece.
 
@@ -3058,7 +3058,7 @@ Scrivener's Monthly: George Bowering
 Friday, November 14, 2014 @ 8:00pm
 Western Front, 303 East 8th Avenue
 
-Scrivenerâ€™s Monthly and The Capilano Review are pleased to present a 
+Scrivener’s Monthly and The Capilano Review are pleased to present a 
 reading by renowned Vancouver writer George Bowering. Author of more 
 then 100 books, Bowering will read from new work alongside a selection 
 of archival recordings from the Western Front and beyond, documenting 
@@ -3072,7 +3072,7 @@ on a number of books, and in 2015 will publish a YA novel, The Attack of
 the Toga Gang, as well as a personal anthology of writings about the 
 Okanagan Valley, Desert Elm.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the 
+Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
 experiment in â€œnot publishingâ€  involves readings, performances, and other 
@@ -3094,7 +3094,7 @@ H. Tuesday - Saturday 12-5pm
 
 Chromaflex: A 16mm film processing workshop with Richard Tuohy 
 (Nanolab, AU)
-Saturday / Sunday; 15-16 November; 1.00pmâ€“6.00pm
+Saturday / Sunday; 15-16 November; 1.00pm–6.00pm
 $60 Cineworks & VIVO members / $70 non-members
 Cineworks Annex; limited space, advance sign-up required
 
@@ -3117,11 +3117,11 @@ For full details and registration, visit www.chromaflex.eventbrite.ca
 IN PERSON FROM AUSTRALIA: RICHARD TUOHY
 Active in film since the late 1980s, Richard Tuohy has spent the past
 decade immersed in the materialist tradition of experimental filmmaking 
-â€”
+—
 work that tests the absolute limits of the medium itself. Drawing
 primarily on natural forms and environments as subject matter for his
-celluloid manipulations â€” an array of classic and novel in-camera,
-darkroom, printing, and editing techniques â€” Tuohy â€œabstracts out the
+celluloid manipulations — an array of classic and novel in-camera,
+darkroom, printing, and editing techniques — Tuohy “abstracts out the
 fleshiness of the particularâ€  to create dynamic studies of form,
 structure, time, and pattern, an approach he describes as â€œcine-cubism.â€ 
 The filmmaker will present a series of 16mm films, culminating in a live
@@ -3161,7 +3161,7 @@ November 15 - December 20, 2014
 Reception Saturday, November 15th, 2-4PM
 
 Republic Gallery is pleased to present Mongrel Histories, a solo show of 
-new works on paper by Gwenessa Lam. Lamâ€™s drawings and paintings 
+new works on paper by Gwenessa Lam. Lam’s drawings and paintings 
 explore the history of the Kaiping Diaolou, late 19th century multi-storey 
 homes located in Kaiping county, Guongdong, China. These fortress-like 
 defensive buildings were designed to protect against theft and banditry, 
@@ -3220,21 +3220,21 @@ lives in Sante Fe, New Mexico where he is the current director of the Art
 and Science Laboratory. 
 
 Panelists include Stephanie Loveless, Matt Smith, and Paul Walde who 
-are all Open Sound 2014 exhibiting artists. Paul Waldeâ€™s piece 
+are all Open Sound 2014 exhibiting artists. Paul Walde’s piece 
 Mycolophonia is the latest installation to go up at the Surrey Art Gallery, 
 inspired by the work of the American composer and amateur mushroom 
 enthusiast John Cage. This recording of mushroom spores as they are 
 released into the air invites the listener to contemplate the relationship 
-between music and mushrooms. Matt Smithâ€™s BogScape is a 
+between music and mushrooms. Matt Smith’s BogScape is a 
 â€œnaturalisticâ€  installation that generates sound from weather data 
-gathering systems located in or near Burns Bog. Stephanie Lovelessâ€™s 
+gathering systems located in or near Burns Bog. Stephanie Loveless’s 
 quadraphonic sound installation Cricket, Tree, Crow uses voice to 
 investigate the communication of insect, plant, and animal worlds. These 
 artists will be joined by Jennifer Schine, an award-winning researcher, 
 sound artist, and communication specialist whose ethnographic work 
 explores the aural and oral - 2 - 
 
-heritage of British Columbiaâ€™s coastal communities. She will be 
+heritage of British Columbia’s coastal communities. She will be 
 discussing the Broughton Archipelago Sound Retreat project. 
 
 This event also features a performance by the Experimental Music Unit 
@@ -3271,7 +3271,7 @@ Please join us for an Artist Talk by Duane Linklater, on the occasion of his
 solo exhibition at Catriona Jeffries opening on Friday, November 14, 
 2014.
 
-Duane Linklater is OmaskÃªko Cree, from Moose Cree First Nation in 
+Duane Linklater is Omaskêko Cree, from Moose Cree First Nation in 
 Northern Ontario and is currently based in North Bay, Ontario. He was 
 educated at the University of Alberta, receiving a Bachelor of Native 
 Studies and a Bachelor of Fine Arts. Duane attended the Milton Avery 
@@ -3323,7 +3323,7 @@ workshop or exhibition during the residency term.
 
 This residency includes: 
 
-- unlimited studio access during University hours from January â€“ April 
+- unlimited studio access during University hours from January – April 
 2015
 - access to a range of professional equipment, tools and basic art 
 materials 
@@ -3377,7 +3377,7 @@ understood as interwoven threads of creative development. 8 DAYS is an
 opportunity to share artistic practices and concerns and to challenge, 
 invigorate and inspire each other. This is an occasion to contextualize 
 oneself within a larger frame. 8 DAYS escapes the pressures of 
-production-driven work. It creates space to reflect on oneâ€™s current 
+production-driven work. It creates space to reflect on one’s current 
 practice and through rigorous dialogue and experimentation encourages 
 new artistic possibilities. 
 
@@ -3446,10 +3446,10 @@ org
 
 Project History
 8 DAYS was held at la B.A.R.N. on Lac Leslie in the Pontiac Region of 
-Quebec, from June 16 â€“ 24, 2012. It was hosted and supported by 10 
+Quebec, from June 16 – 24, 2012. It was hosted and supported by 10 
 Gates Dancing Inc. and Public Recordings. Selection committee: Sara 
 Coffin, Ame Henderson, Tedd Robinson, Stephen Thompson 
-Participants: Justine A. Chambers, Claudia Fancello, Marie Claire FortÃ©, 
+Participants: Justine A. Chambers, Claudia Fancello, Marie Claire Forté, 
 Ame Henderson, Benjamin Kamino, Davida Monk, Tedd Robinson, 
 Stephen Thompson, Michael Trent 
 
@@ -3457,9 +3457,9 @@ Stephen Thompson, Michael Trent
 August 10-18, 2013. It was hosted by Justine A. Chambers and Public 
 Recordings, and received support from the Canada Council for the Arts, 
 Public Recordings, The Dance Centre and ten fifteen maple. Selection 
-committee: Martin BÃ©langer, Justine A. Chambers, Benjamin Kamino, 
+committee: Martin Bélanger, Justine A. Chambers, Benjamin Kamino, 
 Davida Monk Participants: Naomi Brand, Justine A. Chambers, Karine 
-Denault, Claudia Fancello, Marie Claire FortÃ©, Caroline Gravel, Ame 
+Denault, Claudia Fancello, Marie Claire Forté, Caroline Gravel, Ame 
 Henderson, Christopher House, Davida Monk, Andrew Tay, Stephen 
 Thompson, Michael Trent, Laurie Young 
 
@@ -3467,9 +3467,9 @@ Thompson, Michael Trent, Laurie Young
 was hosted by Public Recordings, and received support from the Canada 
 Council for the Arts, Artscape Gibraltar Point, Toronto Dance Theatre and 
 10 Gates Dancing Inc. Selection committee: Naomi Brand, Caroline 
-Gravel, Robin Poitras, Laurie Young Participants: Martin BÃ©langer, Naomi 
+Gravel, Robin Poitras, Laurie Young Participants: Martin Bélanger, Naomi 
 Brand, Justine A. Chambers, Karine Denault, Claudia Fancello, Marie 
-Claire FortÃ©, Caroline Gravel, Ame Henderson, Christopher House, 
+Claire Forté, Caroline Gravel, Ame Henderson, Christopher House, 
 Benjamin Kamino, Jennifer Mascall, Freya Olafson, Bee Pallomina, Tedd 
 Robinson, Andrew Tay, Stephen Thompson, Michael Trent, Peter 
 Trosztmer, Katie Ward, Laurie Young
@@ -3498,7 +3498,7 @@ Your submission must include:
 
 - A one-page proposal including brief artist statement and gallery show 
 description
-- A Curriculum Vitae (an artistâ€™s resume) or Biography relating to art 
+- A Curriculum Vitae (an artist’s resume) or Biography relating to art 
 practice (2 pages max).
 - Visual Documentation of up to 10 images of recent work; jpeg format 
 only, 300 dpi preferred, no larger than 1024 x 768 pixels. All images 
@@ -3536,16 +3536,16 @@ All emails must be received and mail postmarked no later than by Dec 1st
 Exhibition Title: Kitchen
 Artist: Julia Feyrer
 Closing Reception: December 16, 2014 (7pm-10pm)
-Exhibition Dates: Nov 1 â€“ Dec 19, 2014
+Exhibition Dates: Nov 1 – Dec 19, 2014
 
 grunt gallery kicks off our 30th anniversary programming with a residency 
 and exhibition with Vancouver-based artist Julia Feyrer. Taking the form 
-of an evolving installation in the main gallery space, Feyrerâ€™s work 
+of an evolving installation in the main gallery space, Feyrer’s work 
 engages with materials and documentation from the grunt archives in the 
 production of a new, site-specific environment.
 
-Feyrerâ€™s starting point is the kitchenâ€”a space that has played a central 
-role in the galleryâ€™s social and creative life since its beginnings in 1984. A 
+Feyrer’s starting point is the kitchen—a space that has played a central 
+role in the gallery’s social and creative life since its beginnings in 1984. A 
 meeting space that entertained activities, conversations, and ideas 
 fuelled by coffee, tea, beer, and wine, it has been a venue of literal and 
 figurative â€œbrewingâ€ , where creative relationships have percolated over 
@@ -3553,13 +3553,13 @@ the years. The idea of the kitchen has long been a source of inspiration
 for the gallery, and the physical site has evolved into the present-day 
 media lab and an exhibition space for innovative media works.
 
-"Process-based and meticulouslyâ€”if playfullyâ€”constructed, Feyrerâ€™s 
+"Process-based and meticulously—if playfully—constructed, Feyrer’s 
 work is both densely material and intellectually airy; that is, her work 
 challenges the viewer to engage both a tactile experience in this present 
 moment, while simultaneously considering the transformative potential of 
-perception, over time and through space. Feyrerâ€™s use of materials acts 
+perception, over time and through space. Feyrer’s use of materials acts 
 as a conduit for seeing and, importantly, for experiencing an archival 
-document." â€“ Vanessa Kwan, curatorial statement.
+document." – Vanessa Kwan, curatorial statement.
 
 More than an exploration of archival material, her work will also engage 
 the heart of the kitchen environment: the social. Feyrer, in collaboration 

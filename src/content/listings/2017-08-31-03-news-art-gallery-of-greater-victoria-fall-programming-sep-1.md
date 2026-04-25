@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 3
 type: ""
+venue: "NEWS"
 summary: "NEWS | Art Gallery of Greater Victoria | Fall Programming | SEP 1"
 ---
 

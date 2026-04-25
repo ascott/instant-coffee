@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Picturesque Pipsqueak: Dollop’s Delight | APR 6"
 ---
 

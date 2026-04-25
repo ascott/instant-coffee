@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 3
 type: "OPENING"
+venue: "Britannia Art Gallery"
 summary: "Britannia Art Gallery | PRECIOUS STONES | 6:30PM | AUG 7"
 ---
 

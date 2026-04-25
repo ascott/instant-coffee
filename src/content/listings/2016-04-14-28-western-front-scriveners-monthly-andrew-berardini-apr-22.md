@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 28
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly - Andrew Berardini | APR 22"
 ---
 

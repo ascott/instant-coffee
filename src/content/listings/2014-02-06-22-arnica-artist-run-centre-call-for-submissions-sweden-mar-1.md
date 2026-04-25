@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 22
 type: ""
+venue: "Arnica Artist Run Centre"
 summary: "Arnica Artist Run Centre | Call for Submissions , Sweden | MAR 1"
 ---
 
@@ -18,7 +19,7 @@ disciplines and media. The programming committee seeks projects
 that are thoughtful, innovative, and socially engaged.
 
 Operating in Kamloops since 2003, Arnica is currently located in the 
-Old Courthouse Building, one of the cityâ€™s most prominent historical 
+Old Courthouse Building, one of the city’s most prominent historical 
 landmarks. Arnica has two small exhibition spaces. The main gallery 
 can accommodate work of all media, and measures 238 square feet. 
 The Vault is ideally suited for intimate installations, sound, and video 
@@ -27,9 +28,9 @@ occupy one or both of our exhibition spaces. Due to the historic
 designation of our building, we cannot present projects that propose 
 permanent modifications to the space.
 
-Proposals are selected through a peer review process by Arnicaâ€™s 
+Proposals are selected through a peer review process by Arnica’s 
 Programming Committee. Proposals will be selected based on the 
-following criteria: artistic merit of the proposed project, fit with Arnicaâ€™s 
+following criteria: artistic merit of the proposed project, fit with Arnica’s 
 mandate, and the ability of Arnica to provide appropriate space/support 
 for the project. Arnica is committed to supporting projects through 
 CARFAC exhibition fees. Assistance for travel and shipping is 

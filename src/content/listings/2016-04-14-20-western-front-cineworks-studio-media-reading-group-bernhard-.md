@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 20
 type: "EDUCATION"
+venue: "Western Front @ Cineworks Studio"
 summary: "Western Front @ Cineworks Studio | Media Reading Group, Bernhard Siegert | APR 18"
 ---
 

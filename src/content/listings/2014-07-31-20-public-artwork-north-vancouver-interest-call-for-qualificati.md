@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feels something akin to shy in you
 emailDate: "Thu, 31 Jul 2014 12:37:30 -0700"
 number: 20
 type: ""
+venue: "Public Artwork North Vancouver"
 summary: "Public Artwork North Vancouver | Interest & Call for Qualifications | AUG 22"
 ---
 

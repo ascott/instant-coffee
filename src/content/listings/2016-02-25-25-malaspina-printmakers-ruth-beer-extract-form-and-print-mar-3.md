@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 25
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Ruth Beer: Extract, form, and print | MAR 3"
 ---
 

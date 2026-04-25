@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 14
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO | Video Out Technician | JAN 2"
 ---
 

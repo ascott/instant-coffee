@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Trapp Projects at NADA"
 summary: "Trapp Projects at NADA | FALSE MIRROR | DEC 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 16
 type: "EVENT"
+venue: "Project Space"
 summary: "Project Space | Sarah Davidson: Scrap Map | FEB 26"
 ---
 

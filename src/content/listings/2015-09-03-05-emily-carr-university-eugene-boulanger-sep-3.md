@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 5
 type: "TALK"
+venue: "Emily Carr University"
 summary: "Emily Carr University | Eugene Boulanger | SEP 3"
 ---
 
@@ -17,7 +18,7 @@ Emily Carr University of Art and Design
 Vancouver, unceded Coast Salish territories
 
 Eugene Boulanger is ShÃºhtagotâ€™ı̨nę from TulÃ­t'a, in
-the SahtÃº Region of
+the Sahtú Region of
 Treaty 11, in Denendeh.
 
 Eugene is a hunter, an artist, and a visual designer working in digital
@@ -27,7 +28,7 @@ across sectors in British Columbia and the Northwest Territories in
 varying capacities; he is both a founding member of the Vancouver
 Indigenous Media Arts Festival Collective and newly formed northern
 leadership development collective, Dene Nahjo. Most recently, Eugene
-has been living and working in his home community of TulÃ­t'a to
+has been living and working in his home community of Tulít'a to
 organize with youth and the community to develop plans for youth
 advocacy while reconnecting with his traditional territory and Dene way
 of life. Eugene has been facilitating, promoting and advancing dialogue
@@ -47,7 +48,7 @@ This talk kicks off Creative Action Lab Thursdays, a collaboration with
 the On Edge Series
 
 Come meet activists, artists, and people who have changed or are
-changing the world, and those who study them. Weâ€™ll be meeting many
+changing the world, and those who study them. We’ll be meeting many
 Thursdays for a series of lectures, workshops, and other events
 focusing on the potential for societal change, and what we can do to
 bring it about through creative tactics and strategies.

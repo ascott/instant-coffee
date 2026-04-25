@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 16
 type: ""
+venue: "UBC"
 summary: "UBC | IS IT HAPPENING | UBC 2013 BFA/BA Visual Art Graduating Exhibition | APR 18"
 ---
 
@@ -14,18 +15,18 @@ UBC 2013 BFA/BA Visual Art Graduating Exhibition
 April 18th 2013
 
 The Department of Art History, Visual Art and Theory at UBC is 
-pleased to present Is It Happening? this yearâ€™s BFA/BA Visual Art 
+pleased to present Is It Happening? this year’s BFA/BA Visual Art 
 Graduating Exhibition. Featuring work from a diverse background of 
 theories, materials and methodologies, the exhibition showcases the 
-culmination of the studentsâ€™ investigations, both material and 
+culmination of the students’ investigations, both material and 
 dematerial, throughout the past four years.
 
-Please join us in celebrating the graduatesâ€™ achievements and enjoy 
+Please join us in celebrating the graduates’ achievements and enjoy 
 the work of emerging young talent in your city!
 
 Opening Reception: April 18th 2013, 5-9PM
 
-Exhibition runs April 18th â€“ 27th 2013
+Exhibition runs April 18th – 27th 2013
 
 Monday-Saturday | 12-4PM
 

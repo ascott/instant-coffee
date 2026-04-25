@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "The Audain Art Museum"
 summary: "The Audain Art Museum | Manabu Ikeda: Flowers from the Wreckage"
 ---
 

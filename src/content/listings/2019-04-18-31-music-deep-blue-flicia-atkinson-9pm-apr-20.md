@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 31
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Deep Blue | Félicia Atkinson | 9PM | APR 20"
 ---
 

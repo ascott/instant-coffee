@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 17
 type: ""
+venue: "‘The Land We Are’ at Western Front"
 summary: "‘The Land We Are’ at Western Front | Colloquium and Book Launch | APR 7"
 ---
 

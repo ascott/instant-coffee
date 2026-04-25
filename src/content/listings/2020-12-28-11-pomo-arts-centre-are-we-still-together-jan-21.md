@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 11
 type: "EXHIBITION"
+venue: "PoMo Arts Centre"
 summary: "PoMo Arts Centre | Are We Still Together? | JAN 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 27
 type: "CALL"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | 2025-2027: Call to artists | APR 15"
 ---
 

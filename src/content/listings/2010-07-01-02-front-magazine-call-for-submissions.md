@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 2
 type: ""
+venue: "Front Magazine"
 summary: "Front Magazine | Call for submissions"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 7
 type: ""
+venue: "VIVO"
 summary: "VIVO | But life is not changed magically by a poetic act | MAR 18"
 ---
 
@@ -13,7 +14,7 @@ Urban Subjects Residency and Emergent Exhibition
 Friday March 18 2011, Opening 7-11pm, Screening 8pm, Talk 8:30pm
 1965 Main St. Vancouver www.vivomediaarts.com
 
-Exhibition of new works, produced in residence, â€œBut life is not changed
+Exhibition of new works, produced in residence, “But life is not changed
 magically by a poetic actâ€  and screening of "Living Mega-Structures"
 (2003/2004). Urban Subjects, Ivan Drury and Amy Kazymerchyk will hold a
 discussion on ideas of neigbourhood and urban self-management, and about
@@ -47,14 +48,14 @@ Part of
 
 602,000: WORKS ON HOUSING
 Urban Subjects Residency and Emergent Exhibition
-February 25â€“ April 29 2011
+February 25– April 29 2011
 Gallery hours Tuesday-Saturday 12-5pm
 
 In 1969 an exhibition of conceptual works, curated by Lucy Lippard for the
 Vancouver Art Gallery, took the population of Greater Vancouver, then
-955,000, as its title. Forty-one years later, Urban Subjectsâ€™ exhibition,
+955,000, as its title. Forty-one years later, Urban Subjects’ exhibition,
 602,000 refers to the median house price in Greater Vancouver in 2010. Just
-as Lippardâ€™s title tallied something abstractly human in the representation
+as Lippard’s title tallied something abstractly human in the representation
 of the city, 602,000 reflects the very human relations of housing, the
 transformation of public space, and artistic practices.
 
@@ -62,8 +63,8 @@ The video works in 602,000 formally represent housing and domestic space as
 integral to public space. Moving from the scale of the body to
 transnational spaces of movement, these videos carefully build an aesthetic
 argument that housing is central to the right to the city. These
-worksâ€”located in Vienna and Bratislava, Madrid, Caracas, and the
-Netherlandsâ€” show housing and dwelling are spatial and public acts. A new
+works—located in Vienna and Bratislava, Madrid, Caracas, and the
+Netherlands— show housing and dwelling are spatial and public acts. A new
 video work from the neighbourhood of Gramoven in Caracas compellingly
 illustrates how the urban community councils have established autogestion
 (or self-management) in all spheres of daily life.

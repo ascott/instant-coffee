@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 16
 type: ""
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Groundhog Day Redux: A Symposium | FEB 2"
 ---
 

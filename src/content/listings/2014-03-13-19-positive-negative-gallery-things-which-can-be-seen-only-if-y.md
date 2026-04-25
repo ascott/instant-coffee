@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 19
 type: "OPENING"
+venue: "Positive Negative Gallery"
 summary: "Positive Negative Gallery | Things Which Can Be Seen Only If You Should Stop | MAR 21"
 ---
 

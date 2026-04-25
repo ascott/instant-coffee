@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 28
 type: ""
+venue: "DARK LIGHT NOISE FEST 2014"
 summary: "DARK LIGHT NOISE FEST 2014 | | FEB 14"
 ---
 

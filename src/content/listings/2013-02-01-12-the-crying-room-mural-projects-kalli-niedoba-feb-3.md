@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 12
 type: ""
+venue: "The Crying Room Mural Projects"
 summary: "The Crying Room Mural Projects | Kalli Niedoba | FEB 3"
 ---
 

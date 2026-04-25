@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 7
 type: ""
+venue: "UBC"
 summary: "UBC | Artist's Talk by Blake Rayne | OCT 3"
 ---
 

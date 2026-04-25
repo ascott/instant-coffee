@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 14
 type: "CALL"
+venue: "Artscape Gibraltar Point"
 summary: "Artscape Gibraltar Point | 2 upcoming deadlines for art residencies | MAR 31"
 ---
 
@@ -12,7 +13,7 @@ International Call: Programmed Art Residency
 Artscape Gibraltar Point, Toronto Island, Canada
 Facilitator, Teresa Ascencao
 
-Program Dates: July 3 â€“ 17, 2015
+Program Dates: July 3 – 17, 2015
 Submission Deadline: March 31, 2015
 Cost including taxes: $1015 for private bedroom, or $750 for shared bedroom
 (package includes accommodation, large shared studio, workshop
@@ -29,7 +30,7 @@ psychology, post-colonialism and social movements are explored for ideas in
 transgressing these forces. Residents work individually or collaboratively
 to create artworks that reinvent the body through media of their choice,
 such as photography, video, installation, drawing, performance art, new
-media etc. Critiques of residentsâ€™ work in progress occur on a regular
+media etc. Critiques of residents’ work in progress occur on a regular
 basis. There will be a closing exhibition of artworks created during the
 residency. The essence of Luminous Bodies is about bringing to light
 heterogeneous bodies. It welcomes people in all walks of life and genders
@@ -85,7 +86,7 @@ facilitation, and final event.
 
 Unlearning Practices Residency is a two week facilitated exploration of
 other ways of knowing and being. Unlearning is an active practice of
-de-conditioning our bodies and minds â€“ and researching through embodiment
+de-conditioning our bodies and minds – and researching through embodiment
 and expanding our ability to feel. Drawing from years of research in the
 fields of somatic practices, performance art, alternative pedagogy, social
 justice and eco-feminist philosophy, Unlearning Practices will facilitate
@@ -97,7 +98,7 @@ tools and resources for individual exploration, embodied research methods,
 individual studio time, communal meals, and the opportunity to
 collaboratively produce a final event. For anyone working with embodiment,
 performance art, dance, alternative pedagogy, land art, social justice,
-healing, or simply craving to realign through creative processes â€“ this
+healing, or simply craving to realign through creative processes – this
 residency will offer the space and tools to nourish and regenerate yourself
 while opening up to new sources of inspiration. There is more to life than
 we know!
@@ -133,7 +134,7 @@ in the Public Realm, ADRIART (International Master Study Program in
 Contemporary Arts), Graz AU; Collective Walks / Spaces of Contestation -
 Unit/PITT Gallery, Vancouver CA; Unlearning Weekenders - Goethe Satellite,
 Vancouver CA; How to Walk Together - {HotelMariaKapel} Resdiency, Hoorn NL;
-Collective Tasks for Ãœberlebenskunst - Haus der Kulturen der Welt, Berlin
+Collective Tasks for Überlebenskunst - Haus der Kulturen der Welt, Berlin
 DE. For more information on the Facilitators visit: zoekreye.com and
 catherinegrau.tumblr.com.
 

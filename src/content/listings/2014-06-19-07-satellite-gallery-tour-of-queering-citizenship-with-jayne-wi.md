@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 7
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Tour of Queering Citizenship with Jayne Wilkinson | JUN 21"
 ---
 
@@ -13,12 +14,12 @@ Satellite Gallery
 560 Seymour Street, 2nd Floor
 604-681-8425
 
-Join us for a tour of Satellite Galleryâ€™s current exhibition Queering 
+Join us for a tour of Satellite Gallery’s current exhibition Queering 
 Citizenship with Vancouver-based writer and scholar Jayne Wilkinson. 
 From Vancouver's West End to Zagreb, Croatia, Queering Citizenship 
 reflects a landscape that is socially and politically uneven. By considering 
 the climate of queer citizens in Eastern Europe and Africa, the exhibition 
-poses the question, â€œHow might art and culture help us to look again at the 
+poses the question, “How might art and culture help us to look again at the 
 way in which we understand the conditions of queer citizens in global 
 politics?â€  The artists in the exhibition engage with the term queer not only 
 as an identity that embraces different sexualities, genders, international 
@@ -28,7 +29,7 @@ the familiar ways citizenship and belonging are defined.
 The exhibition includes works by Canadian-based and international artists 
 Shawna Dempsey and Lorri Millan, Francisco-Fernando Granados, Igor 
 Grubić, Kevin Madill, Naufus RamÃ­rez-Figuroa, Benny Nemerofsky 
-Ramsay and Pascal LiÃ¨vre, Emily Roysdon and Alize Zorlutuna. Queering 
+Ramsay and Pascal Lièvre, Emily Roysdon and Alize Zorlutuna. Queering 
 Citizenship is curated by Derrick Chang, a Master's candidate in the 
 Critical and Curatorial Studies program at the University of British 
 Columbia.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 22
 type: "CALL"
+venue: "Two Rivers Gallery"
 summary: "Two Rivers Gallery | CALL FOR SUBMISSIONS: The Tip of the ICEBERG | NOV 16"
 ---
 

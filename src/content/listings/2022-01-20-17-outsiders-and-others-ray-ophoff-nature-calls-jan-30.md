@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 17
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Ray Ophoff: Nature Calls | JAN 30"
 ---
 

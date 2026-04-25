@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 15
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | ARTIST TALKS and LONG TABLE DINNER | OCT 20"
 ---
 
@@ -15,7 +16,7 @@ Thursday October 20, 2011
 Artist Talk: Free!
 
 Access Gallery invites you to an artist talk for Once it is a story it remains one or 
-fadesâ€¦ 
+fades… 
 
 Following the talk, we will join the artists for a drink and a meal at the Irish 
 Heather GastroPub.
@@ -29,7 +30,7 @@ Meal choices selected for the evening include:
 Roast Suckling Pig with Apricot whiskey jus, Braised Cabbage & Mashed 
 Potatoes
 - or - 
-Roasted Artichoke, Spinach & Turnip Tart, SautÃ©ed Rapini, Crispy Onions
+Roasted Artichoke, Spinach & Turnip Tart, Sautéed Rapini, Crispy Onions
 
 Schedule of Events
 6:30 Artist Talk at Access

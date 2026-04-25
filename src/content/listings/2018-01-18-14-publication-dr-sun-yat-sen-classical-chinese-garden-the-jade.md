@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 14
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Dr. Sun Yat-Sen Classical Chinese Garden | The Jade Pond Haiku Anthology | 2-4PM | JAN 20"
 ---
 

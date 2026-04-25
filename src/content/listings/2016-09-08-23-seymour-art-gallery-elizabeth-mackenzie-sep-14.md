@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 23
 type: "EXHIBITION"
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | Elizabeth MacKenzie | SEP 14"
 ---
 

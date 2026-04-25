@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 8
 type: ""
+venue: "NEWS"
 summary: "NEWS | Access Gallery | PLOT | K̲EXMIN Field Station | APR 8"
 ---
 

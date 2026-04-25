@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 19
 type: "OPENING"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Annie Briard | FEB 8"
 ---
 

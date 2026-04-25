@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 22
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | The Young and the Repless: SFU Visual Art BFA Grad | APR 17"
 ---
 
 The Young and the Repless: SFU Visual Art BFA Graduating Exhibition
 
 Audain Gallery, Vancouver
-April 17 â€“ April 26
+April 17 – April 26
 
-This April at Audain Gallery, the seventeen students of SFUâ€™s School for 
-Contemporary Artsâ€™ 4th year class present their Graduating Exhibition, The 
+This April at Audain Gallery, the seventeen students of SFU’s School for 
+Contemporary Arts’ 4th year class present their Graduating Exhibition, The 
 Young and the Repless. The title humorously refers to our status as emerging 
 artists who have completed four years of study, but who are without 
 representation or reputations. As we organize our exhibition and make our art 

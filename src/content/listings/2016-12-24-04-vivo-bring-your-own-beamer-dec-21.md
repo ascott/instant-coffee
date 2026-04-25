@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 4
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | Bring Your Own Beamer | DEC 21"
 ---
 

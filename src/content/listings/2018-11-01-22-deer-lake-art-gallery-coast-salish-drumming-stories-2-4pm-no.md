@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 22
 type: "EVENT"
+venue: "Deer Lake Art Gallery"
 summary: "Deer Lake Art Gallery | Coast Salish Drumming & Stories | 2-4PM | NOV 3"
 ---
 

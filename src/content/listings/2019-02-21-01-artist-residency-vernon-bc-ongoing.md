@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 1
 type: "CALL"
+venue: "Artist Residency (Vernon, BC)"
 summary: "Artist Residency (Vernon, BC) | Ongoing"
 ---
 

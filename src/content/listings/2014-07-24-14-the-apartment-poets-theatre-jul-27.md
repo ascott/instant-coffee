@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 14
 type: ""
-summary: "The Apartment | â€˜Poets Theatreâ€™ | JUL 27"
+venue: "The Apartment"
+summary: "The Apartment | ‘Poets Theatre’ | JUL 27"
 ---
 
-This July, The Apartment is celebrating â€˜Poets Theatreâ€™ by organizing a 
+This July, The Apartment is celebrating ‘Poets Theatre’ by organizing a 
 festival of sorts through the final, heated weeks of the month.
 
 Inspired partly by the recent release of "The Kenning Anthology of Poets 
@@ -54,8 +55,8 @@ and I think I detect the pathos scene, the catastrophe and the lamentation."
 "Lot," a special installation by Tiziana La Melia will act as a theatrical 
 environment to play in. 
 
-La Meliaâ€™s recent works fall under the loose rubric of "Purple Poses" and 
-â€œcome out of my research on decreation, dropouts, and disappearances; it 
+La Melia’s recent works fall under the loose rubric of "Purple Poses" and 
+“come out of my research on decreation, dropouts, and disappearances; it 
 is an extension of my research on the affect of illness, in a broad sense, 
 and emerges out of research on figures such as Karen Carpenter, Janis 
 Joplin, Emmy Hennings, and Mark Twain's Aquarium Club.â€ 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 16
 type: "EVENT"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Tag, You're It. Again. | SEP 27"
 ---
 

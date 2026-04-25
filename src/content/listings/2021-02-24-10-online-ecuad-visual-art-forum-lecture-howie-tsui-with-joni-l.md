@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 10
 type: "TALK"
+venue: "[ONLINE] ECUAD"
 summary: "[ONLINE] ECUAD | Visual Art forum lecture: Howie Tsui with Joni Low | FEB 25"
 ---
 

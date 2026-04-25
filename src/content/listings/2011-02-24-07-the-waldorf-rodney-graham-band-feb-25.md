@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 7
 type: ""
+venue: "The Waldorf"
 summary: "The Waldorf | Rodney Graham Band | FEB 25"
 ---
 

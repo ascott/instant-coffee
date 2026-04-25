@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 33
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Dark Glass Theatre | The Amish Project | FEB 20"
 ---
 

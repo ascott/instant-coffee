@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 7
 type: "EVENT"
+venue: "Massy Arts"
 summary: "Massy Arts | Poetry Reading: Whatever state we are | 6PM | NOV 7"
 ---
 

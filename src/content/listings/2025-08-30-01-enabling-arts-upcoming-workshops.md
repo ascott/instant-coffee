@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 1
 type: "EVENT"
+venue: "Enabling Arts"
 summary: "Enabling Arts | Upcoming Workshops"
 ---
 

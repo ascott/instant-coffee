@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 21
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | margaret CHRISTAKOS // jacqueline TURNER | APR 7"
 ---
 
@@ -82,7 +83,7 @@ books with ECW Press: Seven into Even (2006), Careful (2003), and
 Into the Fold (2000). She writes poetry reviews for The Georgia 
 Straight, and teaches creative and critical writing at Simon Fraser 
 University and Emily Carr University of Art + Design. She was 
-Queenslandâ€™s inaugural poet-in-residence at the Judith Wright Centre 
+Queensland’s inaugural poet-in-residence at the Judith Wright Centre 
 of Contemporary Arts in Brisbane, Australia in 2005, a poet-in-
 residence in Tasmania in 2006, and a guest writer at the Queensland 
 Poetry Festival in 2007. She collaborated with artist Shima Iuchi on a 

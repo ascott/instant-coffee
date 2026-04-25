@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 9
 type: "OPENING"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Charlotte Wall: Reveal | JUN 1"
 ---
 

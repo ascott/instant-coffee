@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 18
 type: "PERFORMANCE"
+venue: "KW Studios"
 summary: "KW Studios | open two Performance Series | 8PM | JAN 15"
 ---
 

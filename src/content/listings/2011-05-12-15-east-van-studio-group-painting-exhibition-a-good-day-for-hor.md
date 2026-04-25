@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 15
 type: ""
+venue: "East Van Studio"
 summary: "East Van Studio | group painting exhibition | A Good Day For Horse Races | MAY 20"
 ---
 

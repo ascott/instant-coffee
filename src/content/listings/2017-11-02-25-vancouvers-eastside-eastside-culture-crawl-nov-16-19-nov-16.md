@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 25
 type: "EVENT"
+venue: "Vancouver’s Eastside"
 summary: "Vancouver’s Eastside | Eastside Culture Crawl NOV 16-19 | NOV 16"
 ---
 

@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 29
 type: "CALL"
+venue: "Centre A & RAT school of ART"
 summary: "Centre A & RAT school of ART | New Canada-Korea Exchange & Residency Program | SEP 11"
 ---
 
 Centre A and RAT school of ART Launch
 New Canada-Korea Exchange and Residency Program
 
-VANCOUVER, BC (June 17, 2015) â€“ Centre A (Vancouver, Canada) and the RAT
+VANCOUVER, BC (June 17, 2015) – Centre A (Vancouver, Canada) and the RAT
 school of ART (Seoul, Korea) are proud to announce the establishment of a
 new exchange and residency program.
 
 The RAT school of ART will host a Canadian artist or culture-maker in a
-residency. The selected resident will take part in RATâ€™s study program from
+residency. The selected resident will take part in RAT’s study program from
 March 1 to June 15, 2016. For the duration of the residency, RAT will
 provide the resident with free tuition as well as free accommodation in an
 apartment in the heart of Jongno-District, downtown Seoul. The resident
@@ -23,7 +24,7 @@ will be given the opportunity to present their work, research or
 performances as part of the Black Sheep Lectures.
 
 In exchange, Centre A will host an exhibition in Vancouver with one or more
-participants from the RAT school of ART program, between August 2 â€“
+participants from the RAT school of ART program, between August 2 –
 September 3, 2016.
 
 This new, unique collaboration highlights the role of contemporary artists
@@ -32,11 +33,11 @@ opportunities for cultural productivity, and the contestation and
 contemplation of ideas.
 
 With pride in this announcement, Centre A's Executive Director/Curator
-Tyler Russell says: â€œWe are delighted to establish this exchange with RAT.
+Tyler Russell says: “We are delighted to establish this exchange with RAT.
 As an institution committed to fostering intercultural, and transpacific
 artistic dialogue, this is exactly what we should be doing, and I am proud
 that Centre A is able to be a part of facilitating these opportunities.â€ 
-Accordingly, Dirk Fleischmann, RAT school of ART says: â€œOur partnership
+Accordingly, Dirk Fleischmann, RAT school of ART says: “Our partnership
 with Centre A will contribute in a substantial way to our aim to bring
 people from various backgrounds together and form an active environment for
 artistic development and intercultural communication.â€ 
@@ -47,7 +48,7 @@ the residency will be one who is eager to learn about Korean and East Asian
 history, culture and art, and who is actively interested in sharing their
 own interests, experiences and knowledge. Critics, curators and other
 culture-makers are equally welcome to apply. The resident will be chosen
-by a small selection jury in Vancouver, and a joint Centre A â€“ RAT
+by a small selection jury in Vancouver, and a joint Centre A – RAT
 interview with the finalists.
 
 To apply, residency applicants should submit:
@@ -69,9 +70,9 @@ Further, in Fall 2015, Centre A will be launching a fundraising campaign to
 further support the initiative.
 
 Centre A is a leading public art gallery situated in the heart of
-Vancouverâ€™s Chinatown. Its purpose is to be an engaged participant in the
+Vancouver’s Chinatown. Its purpose is to be an engaged participant in the
 ongoing production of a pluralistic and democratic society. Centre A
-strives to activate contemporary artâ€™s vital role in building and
+strives to activate contemporary art’s vital role in building and
 understanding the long and dynamic Asia-Canada relationship, while tackling
 questions of broader concern from Asian and Asian-diasporic perspectives.
 While playing an active role in community enlivenment and conviviality,
@@ -88,7 +89,7 @@ fosters the potential of Korean art. The RAT school of ART was founded in
 since 2009 and taught classes as visiting professor at Lasalle College of
 the Arts (Singapore) and Emily Carr University (Vancouver). Other exchange
 programs of the RAT school of ART include a unique collaboration with
-Frankfurtâ€™sâ€™ StÃ¤delschule coordinated by renowned artists Tobias Rehberger
+Frankfurt’s’ Städelschule coordinated by renowned artists Tobias Rehberger
 and Philippe Pirotte. (http://www.ratschoolofart.com/)
 
 30. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -98,7 +99,7 @@ Office Space at The Arts Factory
 
 Calling all digital artists, arts administrators and cultural
 organizations! The second level at The Arts Factory is an innovative and
-collaborative work space for Vancouverâ€™s arts community.
+collaborative work space for Vancouver’s arts community.
 
 Office Space features:
 
@@ -188,7 +189,7 @@ close to transit, 135, 14, 16, 20 buses
 close to some galleries and breweries and the Drive
 
 The Bakery on Franklin St. is looking for committed emerging/mid career
-artists of nearly any medium to fill itâ€™s studios.
+artists of nearly any medium to fill it’s studios.
 
 If you are interested in renting please contact AHBYAH at
 thebakeryonfranklinst@gmail.com

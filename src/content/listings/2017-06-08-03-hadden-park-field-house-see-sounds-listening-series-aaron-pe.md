@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 3
 type: "EVENT"
+venue: "Hadden Park Field House"
 summary: "Hadden Park Field House | See Sounds Listening Series: Aaron Pettigrew | JUN 8"
 ---
 

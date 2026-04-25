@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 37
 type: "EVENT"
+venue: "Vancouver Poetry House"
 summary: "Vancouver Poetry House | Verses Festival of Words 2025 | APR 10"
 ---
 

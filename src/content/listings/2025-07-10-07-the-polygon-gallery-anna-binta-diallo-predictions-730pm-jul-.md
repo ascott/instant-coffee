@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 7
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Anna Binta Diallo: Predictions | 730PM | JUL 10"
 ---
 

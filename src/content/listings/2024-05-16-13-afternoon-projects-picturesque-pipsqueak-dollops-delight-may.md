@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Picturesque Pipsqueak: Dollop’s Delight | MAY 19"
 ---
 

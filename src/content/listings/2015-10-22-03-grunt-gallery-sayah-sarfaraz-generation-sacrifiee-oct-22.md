@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 3
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Sayah Sarfaraz: Generation Sacrifiee | OCT 22"
 ---
 

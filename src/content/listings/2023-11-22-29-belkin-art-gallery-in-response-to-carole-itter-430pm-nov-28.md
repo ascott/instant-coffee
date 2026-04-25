@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 29
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | In response to Carole Itter | 430PM | NOV 28"
 ---
 

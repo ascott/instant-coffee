@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 42
 type: "CALL"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | OPEN CALL TO ARTISTS | MAR 31"
 ---
 

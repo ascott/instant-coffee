@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 12
 type: "PERFORMANCE"
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | Vancouver Choirs Perform Protest Songs | DEC 2"
 ---
 

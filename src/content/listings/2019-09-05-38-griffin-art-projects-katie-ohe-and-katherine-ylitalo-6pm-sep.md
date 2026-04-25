@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 38
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Katie Ohe and Katherine Ylitalo | 6PM | SEP 13"
 ---
 

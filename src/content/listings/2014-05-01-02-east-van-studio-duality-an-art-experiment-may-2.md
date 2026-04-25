@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 2
 type: ""
+venue: "East Van Studio"
 summary: "East Van Studio | Duality : An Art Experiment | MAY 2"
 ---
 

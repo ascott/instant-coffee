@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 31
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | PuSh Festival | Announcing 2015 PuSh Festival line-up | JAN 20"
 ---
 
 In 2015 the PuSh Festival marks its 11th edition January 20 to February 8
-at venues across Vancouver. This yearâ€™s Festival includes works by artists
+at venues across Vancouver. This year’s Festival includes works by artists
 and companies from Argentina, Australia, Belgium, Canada, Czech Republic,
 Democratic Republic of the Congo, France, Germany, the Netherlands, Norway,
 Scotland, and the United States. The 2015 Festival features almost 200

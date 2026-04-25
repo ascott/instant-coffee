@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 24
 type: "OPENING"
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Jay Senetchko | The Course of a Distant Empire | NOV 23"
 ---
 

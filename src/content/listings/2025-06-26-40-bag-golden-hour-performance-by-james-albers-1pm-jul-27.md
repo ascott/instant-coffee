@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 40
 type: "PERFORMANCE"
+venue: "BAG"
 summary: "BAG | Golden Hour performance by James Albers | 1PM | JUL 27"
 ---
 

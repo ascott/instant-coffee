@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 1
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Tom Burrows | JAN 8"
 ---
 
@@ -23,19 +24,19 @@ The exhibition by Vancouver/Hornby Island artist Tom Burrows presents work
 by the artist from his early career to the present. The exhibition is a
 timely refocusing of attention on an artist who has made an immense
 contribution to the development of art in Vancouver, not only as an artist
-but as an educator and activist as wellâ€”in 1975 he received a United
+but as an educator and activist as well—in 1975 he received a United
 Nations commission to document squatters communities in Europe, Africa and
-Asia, a work that is now in the Belkinâ€™s collection. Burrows first rose to
+Asia, a work that is now in the Belkin’s collection. Burrows first rose to
 prominence in the late-1960s and was included in several exhibitions at the
 UBC Fine Arts Library, an institution that was seminal in encouraging
-Vancouverâ€™s growing and now vibrant art community. Burrowsâ€™ work, which
+Vancouver’s growing and now vibrant art community. Burrows’ work, which
 demonstrates an interest in process and new materials, has encompassed a
 number of disciplines including sculpture, early performance art, video,
 painting and iconic hand-built houses on the Maplewood Mudflats and Hornby
 Island. Currently most well known for his innovative monochromatic cast
 resin â€œpaintings/sculpturesâ€  produced during the last forty-five years,
 this exhibition examines the full breadth of his career with works from the
-Belkinâ€™s permanent collection and others borrowed from the artist,
+Belkin’s permanent collection and others borrowed from the artist,
 collectors and public institutions.
 
 Burrows has had solo exhibitions in London, Rome, Tokyo, Berlin, New York,
@@ -43,9 +44,9 @@ Edinburgh and across Canada. His work is included in private, corporate and
 public collections in Europe, Asia and the Americas.
 
 We gratefully acknowledge the generous support of the Canada Council for
-the Arts, the Vancouver Foundation and our Belkin Curatorâ€™s Forum members.
+the Arts, the Vancouver Foundation and our Belkin Curator’s Forum members.
 
-â€”
+—
 
 For more information contact:
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca

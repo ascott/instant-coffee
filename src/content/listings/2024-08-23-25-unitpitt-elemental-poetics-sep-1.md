@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 25
 type: "EVENT"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Elemental Poetics | SEP 1"
 ---
 

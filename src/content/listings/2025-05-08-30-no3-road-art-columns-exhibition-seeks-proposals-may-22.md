@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 30
 type: "CALL"
+venue: "No.3 Road Art Columns Exhibition"
 summary: "No.3 Road Art Columns Exhibition | seeks proposals | MAY 22"
 ---
 

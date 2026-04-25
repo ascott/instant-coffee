@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 5
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Lyndl Hall: recto-verso | MAR 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 8
 type: "EXHIBITION"
+venue: "UNIT17"
 summary: "UNIT17 | Splinter awe !! | JAN 28"
 ---
 

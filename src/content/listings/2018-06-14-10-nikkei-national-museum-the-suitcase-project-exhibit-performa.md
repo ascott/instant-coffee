@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 10
 type: "OPENING"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | The Suitcase Project Exhibit + Performance | JUN 16"
 ---
 

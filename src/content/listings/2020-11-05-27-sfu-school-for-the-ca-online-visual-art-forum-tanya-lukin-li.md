@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 27
 type: "TALK"
+venue: "SFU School for the CA [ONLINE]"
 summary: "SFU School for the CA [ONLINE] | VISUAL ART FORUM: Tanya Lukin Linklater | 930AM | NOV 24"
 ---
 

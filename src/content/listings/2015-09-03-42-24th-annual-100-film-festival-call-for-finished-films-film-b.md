@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 42
 type: "CALL"
+venue: "24th Annual $100 Film Festival"
 summary: "24th Annual $100 Film Festival | Call for Finished Films & Film-Based Submissions | DEC 1"
 ---
 
@@ -14,21 +15,21 @@ Call for Submissions: Finished Films & Film-Based Installations
 DEADLINE: DECEMBER 1, 2015
 
 ELIGIBILITY
-â€¢ 16mm or Super 8 film under 22 minutes (submissions accepted in
+• 16mm or Super 8 film under 22 minutes (submissions accepted in
 digital version only)
-â€¢ Installation works must be film-based
-â€¢ Official release date after December 1, 2013
+• Installation works must be film-based
+• Official release date after December 1, 2013
 
 Requirements for exhibition:
-â€¢ 16mm with optical sound
-â€¢ Super 8 mag. stripe
-â€¢ Properly synced Mp3 audio
-â€¢ Soundtracks must be accompanied by detailed syncing
+• 16mm with optical sound
+• Super 8 mag. stripe
+• Properly synced Mp3 audio
+• Soundtracks must be accompanied by detailed syncing
 instructions
-â€¢ Films should have at least 10 feet of leader
-â€¢ Each film must be clearly labeled with running speed (18 or 24
+• Films should have at least 10 feet of leader
+• Each film must be clearly labeled with running speed (18 or 24
 fps), length, title and name of filmmaker
-â€¢ Films must be submitted head out and leaders clearly labeled
+• Films must be submitted head out and leaders clearly labeled
 
 SELECTION PROCESS
 The Festival Programming Committee selects films for exhibition at the
@@ -62,7 +63,7 @@ Calgary's $100 Film Festival is one of only a few festivals worldwide
 that exhibits film exclusively on Super 8 and 16mm. When the $100
 Film Festival was born in 1992, it showcased eight short films on Super
 8. The name sprung from the challenge to shoot a short film on four roll
-of Super 8 â€“ which tallied to the cost of $100. In following years, the
+of Super 8 – which tallied to the cost of $100. In following years, the
 festival dropped the budgetary limit and allowed 16 mm film, which
 shifted the focus from low budget to quality small-format films. The
 festival is now an international celebration of creative story telling on
@@ -79,13 +80,13 @@ feet and has a full bathroom, a kitchenette and good security.
 
 Rent is $300.00 per month and includes:
 
-â€” Heat, electricity, wifi
-â€” Insurance
-â€” Secure 24hr access
-â€” 9-foot ceilings
-â€” Outside bike rack
-â€” Street parking
-â€” Close to good coffee shops, restaurants, and other amenities
+— Heat, electricity, wifi
+— Insurance
+— Secure 24hr access
+— 9-foot ceilings
+— Outside bike rack
+— Street parking
+— Close to good coffee shops, restaurants, and other amenities
 
 Please contact mathew@mathewarthur.com
 

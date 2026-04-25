@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 6
 type: ""
+venue: "NEWS"
 summary: "NEWS | New Documents | New Documents @ Offprint Paris | NOV 14"
 ---
 
 New Documents
 
 New Documents @ Offprint Paris
-Nov 14 â€“ 16, 2014
+Nov 14 – 16, 2014
 
 New Documents is please to be part of Offprint Paris this weekend, sharing
 a table with BFF Fillip (Vancouver).
@@ -38,7 +39,7 @@ New Documents
 www.new-documents.org
 @new_documents
 
-New Documents is a Vancouver and Los Angelesâ€“based art book publisher
+New Documents is a Vancouver and Los Angeles–based art book publisher
 operating in collaboration with the Projectile Publishing Society. We
 gratefully acknowledge the support of the Canada Council for the Arts and
 the British Columbia Arts Council.

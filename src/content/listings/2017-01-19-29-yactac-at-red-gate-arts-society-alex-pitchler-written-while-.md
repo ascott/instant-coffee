@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 29
 type: "OPENING"
+venue: "Yactac at Red Gate Arts Society"
 summary: "Yactac at Red Gate Arts Society | Alex Pitchler- Written While Wandering | FEB 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 16
 type: ""
+venue: "Irving K. Barber Learning Centre, UBC"
 summary: "Irving K. Barber Learning Centre, UBC | Jordy Hamilton | until | OCT 14"
 ---
 
@@ -20,7 +21,7 @@ Featuring works by Jordy Hamilton
 Curated by Toby Lawrence
 
 Working with the permanent art installation in the Irving K. Barber 
-Learning Centreâ€™s Ridington Room, The Pose Stands for Potentiality 
+Learning Centre’s Ridington Room, The Pose Stands for Potentiality 
 juxtaposes the University of British Columbia s formal presidential 
 portraits with a series of small works from Vancouver-based artist 
 Jordy Hamilton. This collection, 96 Studies for a Painting, developed 

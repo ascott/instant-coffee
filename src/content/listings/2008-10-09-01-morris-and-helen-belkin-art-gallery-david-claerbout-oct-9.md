@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 1
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | David Claerbout | OCT 9"
 ---
 
@@ -29,7 +30,7 @@ that become a secondary feature to the work. What is central to the work is
 the nature of time. The artist frequently introduces natural elements such
 as sunlight and darkness as anchor points for the perception of time.
 
-The exhibition includes Ã¢ï¿½ï¿½Bordeaux PieceÃ¢ï¿½ï¿½ (2004), which is nearly 14 hours
+The exhibition includes â��Bordeaux Pieceâ�� (2004), which is nearly 14 hours
 in length and comprised of 70 short films shot at 10 minute intervals
 between 5:30 am and 10:00 pm over the course of several days. Actors play
 out the same scripted scene over and over, while the slow movement of

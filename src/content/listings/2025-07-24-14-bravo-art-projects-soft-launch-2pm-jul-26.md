@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 14
 type: "EVENT"
+venue: "Bravo Art Projects"
 summary: "Bravo Art Projects | soft launch | 2PM | JUL 26"
 ---
 

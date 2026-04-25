@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 3
 type: ""
+venue: "221A"
 summary: "221A | Tangential Vancouverism | MAR 2"
 ---
 

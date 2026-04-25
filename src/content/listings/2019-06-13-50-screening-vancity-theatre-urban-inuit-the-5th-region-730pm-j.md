@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 50
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Vancity Theatre | Urban Inuit: The 5th Region | 730PM | JUN 26"
 ---
 

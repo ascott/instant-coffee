@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 37
 type: "TALK"
+venue: "Pacific Legal Education and Outreach Society (PLEO"
 summary: "Pacific Legal Education and Outreach Society (PLEO | International Movement to Ban NDAs | APR 11"
 ---
 

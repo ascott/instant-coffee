@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 17
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Derek Coulombe | FEB 21"
 ---
 

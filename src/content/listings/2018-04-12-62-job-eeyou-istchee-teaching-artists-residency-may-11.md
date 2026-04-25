@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 62
 type: ""
+venue: "JOB"
 summary: "JOB | Eeyou Istchee | TEACHING ARTISTS RESIDENCY | MAY 11"
 ---
 

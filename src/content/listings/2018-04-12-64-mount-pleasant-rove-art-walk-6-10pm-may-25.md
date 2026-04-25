@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 64
 type: "EVENT"
+venue: "Mount Pleasant"
 summary: "Mount Pleasant | ROVE-art walk | 6-10PM | MAY 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 21
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | Aaron Carter | JAN 23"
 ---
 
@@ -21,8 +22,8 @@ between this, or this, or that. What is the merit of accepting the terms we are
 given? On a summer day, laissez-faire for now, but we are unwavering 
 forever. Neapolitan, aside from being a person of Naples, is an absolute. 
 Chocolate, vanilla and strawberry. Understand that to avoid a triangle is to 
-have more than three members of the absolute â€” so make a square, another 
-square, another square â€” vanilla, chocolate, strawberry and Dijon. That one 
+have more than three members of the absolute — so make a square, another 
+square, another square — vanilla, chocolate, strawberry and Dijon. That one 
 is yours.
 
 Aaron Carter is an Australian artist based in Vancouver.

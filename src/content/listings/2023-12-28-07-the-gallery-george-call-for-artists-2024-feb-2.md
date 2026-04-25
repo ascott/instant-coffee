@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: new year"
 emailDate: "Wed, 27 Dec 2023 23:35:08 -0800"
 number: 7
 type: "CALL"
+venue: "The Gallery George"
 summary: "The Gallery George | Call for Artists 2024 | FEB 2"
 ---
 

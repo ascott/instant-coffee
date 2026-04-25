@@ -134,11 +134,11 @@ with and mixes many disciplines and mediums together that include
 interactive storytelling, performance video, photography, documentary,
 sound, sensors, performance art and the internet. Gendron began researching
 how documentary and storytelling could work online. She has since created,
-What We Want; a story about the people in VancouverÃ¢ï¿½ï¿½s Woodward Squat,
-Swirling Uncertainty; an alternative internet doc. About societyÃ¢ï¿½ï¿½s
+What We Want; a story about the people in Vancouverâ��s Woodward Squat,
+Swirling Uncertainty; an alternative internet doc. About societyâ��s
 perception of fear and uncertainty, Everywhere Is Not Everything; about
 credit cards and their effect on individual consumer culture and The Ties
-That Bind; the National Film BoardÃ¢ï¿½ï¿½s first internet documentary.
+That Bind; the National Film Boardâ��s first internet documentary.
 
 Emma Hendrix
 Emma is a multi-media artist and sound designer whose interest in the
@@ -374,7 +374,7 @@ Blaine Campbell
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday Ã¢ï¿½ï¿½ Saturday, 12-5pm
+* Tuesday â�� Saturday, 12-5pm
 * Admission is free
 
 

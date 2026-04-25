@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:an ethereal dream-like quality"
 emailDate: "Thu, 03 Jul 2014 14:07:59 -0700"
 number: 4
 type: ""
+venue: "The Powell Street Festival Society"
 summary: "The Powell Street Festival Society | Spatial Poetics XIII: WeMix | JUL 3"
 ---
 

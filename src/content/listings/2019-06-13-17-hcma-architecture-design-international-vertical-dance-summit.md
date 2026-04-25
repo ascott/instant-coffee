@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 17
 type: "PERFORMANCE"
+venue: "HCMA Architecture + Design"
 summary: "HCMA Architecture + Design | International Vertical Dance Summit | 4PM | JUN 14"
 ---
 

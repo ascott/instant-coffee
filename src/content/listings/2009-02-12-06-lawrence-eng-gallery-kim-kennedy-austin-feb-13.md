@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 6
 type: ""
+venue: "Lawrence Eng Gallery"
 summary: "Lawrence Eng Gallery | Kim Kennedy Austin | FEB 13"
 ---
 

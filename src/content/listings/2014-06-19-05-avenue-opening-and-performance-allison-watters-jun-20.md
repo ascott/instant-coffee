@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 5
 type: ""
+venue: "Avenue: opening and performance"
 summary: "Avenue: opening and performance | Allison Watters | JUN 20"
 ---
 

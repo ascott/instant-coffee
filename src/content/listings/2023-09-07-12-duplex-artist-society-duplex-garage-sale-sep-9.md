@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 12
 type: "EVENT"
+venue: "Duplex Artist Society"
 summary: "Duplex Artist Society | DUPLEX GARAGE SALE | SEP 9"
 ---
 

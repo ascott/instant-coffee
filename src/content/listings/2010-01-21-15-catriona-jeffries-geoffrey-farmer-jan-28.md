@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 15
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | GEOFFREY FARMER | JAN 28"
 ---
 
@@ -12,12 +13,12 @@ THE SURGEON AND THE PHOTOGRAPHER
 
 Catriona Jeffries, Vancouver
 
-29 January â€“ 6 March 2010
-Opening Reception: Thursday 28 January, 7 â€“ 9pm
+29 January – 6 March 2010
+Opening Reception: Thursday 28 January, 7 – 9pm
 
 Catriona Jeffries is pleased to announce the launch of its 2010 season with
 the forthcoming exhibition, Geoffrey Farmer: The Surgeon and the
-Photographer. Inspired by Aby Warburgâ€™s Memory Atlas, this ambitious
+Photographer. Inspired by Aby Warburg’s Memory Atlas, this ambitious
 project uses the conceptual framework of a calendar in which to arrange and
 display 365 paper and cloth figures. Using a collage technique, cutting
 photographs from books, Farmer, like Warburg, employs a display technique
@@ -27,20 +28,20 @@ cross-cultural consideration of images and ideas.
 The figures which can also be read as puppets, is indicative of the
 relationship of the hand to the book, and the book to the reproducibility
 of the photographic image. The title of the work itself refers to a part of
-Benjaminâ€™s seminal essay, The Work of Art in the Age of Mechanical
+Benjamin’s seminal essay, The Work of Art in the Age of Mechanical
 Reproduction in which the magician is compared to the painter and the
 surgeon is compared to the cameraman.
 
-â€œThe magician heals a sick person by the laying on of hands; the surgeon
+“The magician heals a sick person by the laying on of hands; the surgeon
 cuts into the patientâ€™s body.â€  Benjamin goes on to state: â€œThe painter
 maintains in his work a natural distance from reality, the cameraman
 penetrates deeply into its web. There is a tremendous difference between
 the pictures they obtain. That of the painter is a total one, that of the
 cameraman consists of multiple fragments which are assembled under a new law.â€ 
 
-Farmerâ€™s presentation of the figures though seems to reveal a desire to
+Farmer’s presentation of the figures though seems to reveal a desire to
 maintain both positions simultaneously and it is into this inquiry and
-dilemma that we are invited â€“ a question that Farmer explores in the
+dilemma that we are invited – a question that Farmer explores in the
 creation of this new work. Farmer will also be presenting a new video work
 that has been developed to accompany this project.
 

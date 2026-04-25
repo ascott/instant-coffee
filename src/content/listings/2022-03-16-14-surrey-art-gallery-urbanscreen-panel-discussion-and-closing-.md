@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 14
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | UrbanScreen panel discussion and closing | MAR 19"
 ---
 

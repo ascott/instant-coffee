@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 5
 type: ""
+venue: "JOB"
 summary: "JOB | Gibson Art Museum | Visitor Experience & Services Manager | AUG 14"
 ---
 

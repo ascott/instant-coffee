@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 4
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | CAROL SAWYER: Shadow Puppet | JAN 8"
 ---
 

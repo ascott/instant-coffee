@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 12
 type: ""
+venue: "Central Library"
 summary: "Central Library | SOUTH HILL | INSIDE STORIES | NOV 3"
 ---
 
@@ -28,7 +29,7 @@ Hill.
 
 Evening also features two stunning South Hill Art Plan projects:
 
-* Pattern Recognition by RenÃ©e Van Halm
+* Pattern Recognition by Renée Van Halm
 * Nothing Happens in Good Weather by the artist collective Instant Coffee
 
 For more information about this event, contact South Hill Neighbours at 604-321-

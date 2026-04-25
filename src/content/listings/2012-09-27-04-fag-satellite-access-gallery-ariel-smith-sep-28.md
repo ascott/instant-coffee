@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 4
 type: ""
+venue: "FAG Satellite @ Access Gallery"
 summary: "FAG Satellite @ Access Gallery | Ariel Smith | SEP 28"
 ---
 
 FAG Satellite @ Access Gallery continues this week with;
 
-Little girl / ugly girl / not bad / just evil girl / Ariel Smith / September 25 â€“ 
+Little girl / ugly girl / not bad / just evil girl / Ariel Smith / September 25 – 
 29
 
 Reception (Artist in attendance): Friday September 28th, 7-10pm
@@ -41,8 +42,8 @@ Media Arts Network Ontario (MANO).
 
 Her experience as a girl, and as a survivor of abuse and exploitation is 
 at the root of her practice, and has influenced how she sees most 
-everything in the worldâ€”men, women, relationships, economics, race, 
-class, social hierarchies, feminism, the law. Arielâ€™s experience with 
+everything in the world—men, women, relationships, economics, race, 
+class, social hierarchies, feminism, the law. Ariel’s experience with 
 difference and marginalization forms the basis for much of her film and 
 video work.
 
@@ -98,7 +99,7 @@ Other Upcoming events/installations for FAG @ Access include;
 
 October 02-06 Valerie Salez (Canada) In the shadow of our own dust
 
-October 09-13 Sharlene Bamboat (Toronto) The Queenâ€™s Punishment
+October 09-13 Sharlene Bamboat (Toronto) The Queen’s Punishment
 
 Access Gallery gratefully acknowledges the Canada Council for the 
 Arts, BC Arts Council, City of Vancouver, our members and volunteers. 

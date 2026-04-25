@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 21
 type: "OPENING"
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Neil Wedman: Spotlights | 2-4PM | OCT 20"
 ---
 

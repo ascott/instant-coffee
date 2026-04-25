@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 22
 type: "EDUCATION"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Preserving Your Photographs | AUG 20"
 ---
 

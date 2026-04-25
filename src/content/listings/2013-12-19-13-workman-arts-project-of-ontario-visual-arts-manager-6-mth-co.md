@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the flatting imperative"
 emailDate: "Thu, 19 Dec 2013 12:46:17 -0800"
 number: 13
 type: ""
+venue: "Workman Arts Project of Ontario"
 summary: "Workman Arts Project of Ontario | Visual Arts Manager – 6 Mth Contract | FEB 3"
 ---
 

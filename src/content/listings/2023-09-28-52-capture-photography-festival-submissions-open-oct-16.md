@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 52
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Submissions Open | OCT 16"
 ---
 

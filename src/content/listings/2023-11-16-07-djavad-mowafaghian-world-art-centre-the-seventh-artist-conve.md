@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 7
 type: "TALK"
+venue: "Djavad Mowafaghian World Art Centre"
 summary: "Djavad Mowafaghian World Art Centre | The Seventh: Artist Conversation | NOV 25"
 ---
 

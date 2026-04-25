@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 35
 type: "CALL"
+venue: "Richmond City Hall Galleria"
 summary: "Richmond City Hall Galleria | CALL FOR SUBMISSION | SEP 22"
 ---
 

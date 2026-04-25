@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 37
 type: "CALL"
+venue: "ARCCO"
 summary: "ARCCO | Conference : Artists at the Center... | FEB 3"
 ---
 
@@ -43,13 +44,13 @@ acknowledging artist-run centres for their artistic leadership, legacy, and
 rich contributions to the cultural landscape.
 
 Call for Submissions
-ARCCOâ€™s 2015 conference Artists at the Center: Moving from the Margins to
+ARCCO’s 2015 conference Artists at the Center: Moving from the Margins to
 Inclusion invites submissions from a variety of perspectives including
 those from artists, curators, and administrators of artist-lead initiatives
 to contribute to this conversation around the varied, transferable and
 transformative potential of engagement.
 
-Submissions may include presentations that explore â€˜engagementâ€™ in various
+Submissions may include presentations that explore ‘engagement’ in various
 ways, but not limited to:
 
 critically examining models of engagement, outreach, and inclusion
@@ -106,6 +107,6 @@ contemporary art in a variety of media and multi-disciplinary work.
 Acknowledgements
 ARCCO gratefully acknowledges the financial support of the Ontario Arts
 Council, the Ontario Trillium Foundation, and partner Artist-Run Centres
-and Collectives Conference / ConfÃ©rence des collectifs et des centres
-d'artistes autogÃ©rÃ©s (arca).
+and Collectives Conference / Conférence des collectifs et des centres
+d'artistes autogérés (arca).
 http://arcco.ca

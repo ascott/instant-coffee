@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 22
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Andrew Dadson: Over the Sun | APR 14"
 ---
 

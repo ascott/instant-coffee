@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in the tradition of the now"
 emailDate: "Thu, 05 Mar 2009 08:55:15 -0800"
 number: 15
 type: ""
+venue: "Crawl Space"
 summary: "Crawl Space | Call | Studio Intensive Residency | APR 19"
 ---
 
@@ -37,10 +38,10 @@ from characteristic approaches and methods of art making.
 
 PLEASE SUBMIT PROPOSALS FOR PARTICIPATION UNDER THE FOLLOWING GUIDELINES:
 
-10-20 digital images of recent workÂ¨
+10-20 digital images of recent work¨
 
 Still images should be in JPG format, at 1000 pixels wide on the longest
-side (this should create a file under 500kb)Â¨ Time-based work should be
+side (this should create a file under 500kb)¨ Time-based work should be
 hosted online (YouTube, Vimeo, personal side) with web address provided.
 
 Proposed use of time during residency lock-in and how you hope the

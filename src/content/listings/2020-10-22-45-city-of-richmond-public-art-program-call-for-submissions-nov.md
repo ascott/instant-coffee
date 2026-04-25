@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 45
 type: "CALL"
+venue: "City of Richmond Public Art Program"
 summary: "City of Richmond Public Art Program | Call for Submissions | NOV 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 30
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | Holly Márie Parnell | 6PM | MAY 3"
 ---
 

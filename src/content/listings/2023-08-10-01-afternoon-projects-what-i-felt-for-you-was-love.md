@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | What I felt for you was love"
 ---
 

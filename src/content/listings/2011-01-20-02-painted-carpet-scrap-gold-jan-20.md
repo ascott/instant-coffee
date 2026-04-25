@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 2
 type: ""
+venue: "PAINTED CARPET"
 summary: "PAINTED CARPET | SCRAP GOLD | JAN 20"
 ---
 
@@ -32,7 +33,7 @@ executed supersensible Kantian subjectivity.
 In a breath, Logan Sturrock is assembling a feast for all cognitive
 receptors, and under the guidance and implementation of Chris
 Boni, the exhibition SCRAP GOLD will make you pan the gutters on
-your way to the next Canucks matchâ€¦no doubt. Come buy Art or
+your way to the next Canucks match…no doubt. Come buy Art or
 juiced beet & ginger shots.
 Please. And thank you.
 

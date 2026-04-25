@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 7
 type: "EVENT"
+venue: "AHVA, UBC"
 summary: "AHVA, UBC | Vancouver's Art + Feminism Wikipedia Edit-athon | MAR 6"
 ---
 

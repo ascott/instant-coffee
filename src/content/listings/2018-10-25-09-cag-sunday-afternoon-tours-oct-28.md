@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: #tearitdown2018"
 emailDate: "Thu, 25 Oct 2018 12:00:18 -0700"
 number: 9
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Sunday Afternoon Tours | OCT 28"
 ---
 

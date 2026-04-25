@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 13
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | STEVEN COTTINGHAM: Heat, death | 6-8PM | OCT 18"
 ---
 

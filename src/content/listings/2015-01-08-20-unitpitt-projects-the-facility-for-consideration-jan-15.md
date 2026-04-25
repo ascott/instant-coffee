@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 20
 type: "OPENING"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | The Facility for Consideration | JAN 15"
 ---
 
@@ -12,7 +13,7 @@ Refreshments will be served
 
 The Facility for Consideration
 
-January 16 â€“ February 28th 2015
+January 16 – February 28th 2015
 Opening reception is January 15 at 7pm.
 
 Featuring work by
@@ -38,7 +39,7 @@ bigger, has become exponentially more complex in the last few decades. The
 implicated range of minute or distant structures and detailed architectures
 to the awareness of the individual is now immense and grows proportionately
 to the availability of information and experience. The networks we
-familiarly navigate have created a Zeno's Paradox â€“ the vertigo of never
+familiarly navigate have created a Zeno's Paradox – the vertigo of never
 being able to reach the other side of a road which we have always already
 been crossing; the array of measurable points between points multiplies as
 we regard more closely. These include our personal use of the digital, the

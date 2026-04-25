@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 13
 type: "TALK"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Art and Community Reading Group #1 | FEB 23"
 ---
 

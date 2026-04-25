@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 16
 type: ""
+venue: "Simon Fraser University: Audain Gallery"
 summary: "Simon Fraser University: Audain Gallery | Ursula Mayer | JUN 11"
 ---
 
 Ursula Mayer: Not a curse, nor a bargain, but a hymn
 
 Audain Gallery, Vancouver
-June 12 â€“ August 02, 2014
+June 12 – August 02, 2014
 
-Ursula Mayerâ€™s practice is grounded in the semiotics of cinema. Her single 
+Ursula Mayer’s practice is grounded in the semiotics of cinema. Her single 
 and multi-channel films are crystalline circuits of images composed of signs 
 borrowed from architecture, fashion, literature, politics, mythology, geology 
 and visual art. These references cross multiple periods, locations, figures 
@@ -32,9 +33,9 @@ highlights Medea, Ayn Rand and Margaret Thatcher as symbolic figures from
 these periods, whose ideologies have accumulated in our increasingly 
 individuated, neo-liberal ethos.
 
-Mayer is also attuned to perceptions and representations of these figuresâ€™ 
-femininity, sexuality and power. The exhibitionâ€™s title is borrowed from 
-Mayerâ€™s film Gonda (2012). It is excerpted from a rhetorical question Gonda 
+Mayer is also attuned to perceptions and representations of these figures’ 
+femininity, sexuality and power. The exhibition’s title is borrowed from 
+Mayer’s film Gonda (2012). It is excerpted from a rhetorical question Gonda 
 poses about the existence of an ideal woman like herself. To address the role 
 that images play in the construction of private and social identity, Mayer 
 composes reflexive loops between the gaze and gestures of the image and 
@@ -42,23 +43,23 @@ spectator.
 
 Mayer enlists a number of theoretical, structural and material frameworks to 
 parse the construction of visual language and its impact on social formation, 
-including Patricia MacCormackâ€™s proposition for cinesexuality; Maria Fuscoâ€™s 
-liquification of grammar; Pier Paolo Pasoliniâ€™s vision for a cinema of poetry; 
-Gilles Deleuzeâ€™s formulation on the crystals of time; Donna Haraway's cyborg 
-manifesto; and Bruno Gironcoliâ€™s modernist sculpture. Mayer synthesizes 
+including Patricia MacCormack’s proposition for cinesexuality; Maria Fusco’s 
+liquification of grammar; Pier Paolo Pasolini’s vision for a cinema of poetry; 
+Gilles Deleuze’s formulation on the crystals of time; Donna Haraway's cyborg 
+manifesto; and Bruno Gironcoli’s modernist sculpture. Mayer synthesizes 
 these conceptual forces to transfigure the curse of idealism into a hymn.
 
 Ursula Mayer is an Austrian artist who lives and works in London. She 
 studied at the Academy of Fine Arts, Vienna and at Goldsmiths College, 
 London. She has exhibited in major art festivals and institutions such as 
-Moderna Musset, MalmÃ¶; 21haus, Vienna; Ursula Blickle Foundation, Kraichtal; 
+Moderna Musset, Malmö; 21haus, Vienna; Ursula Blickle Foundation, Kraichtal; 
 Palais de Tokyo, Paris; Tramway, Glasgow; Performa 11, New York; 11th 
 Baltic Triennial at CAC Vilnius; 2nd Athens Biennale; The Banff Centre; Centre 
 Pompidou, Paris; Kunstverein Hamburg; Institute of Contemporary Arts, 
 London; Whitechapel Gallery, London; MoMA PS1, New York; and Kunsthalle 
 Basel.
 
-All works are courtesy of the artist; JuliÃ¨tte Jongma, Amsterdam; Krobath 
+All works are courtesy of the artist; Juliètte Jongma, Amsterdam; Krobath 
 Wien | Berlin; and Monitor, Rome.
 
 Curated by Amy Kazymerchyk.
@@ -80,7 +81,7 @@ DIM Cinema at The Cinematheque
 www.dimcinema.ca
 www.thecinematheque.ca
 
-Further unfolding the cinematic grammar of Ursula Mayerâ€™s films Gonda 
+Further unfolding the cinematic grammar of Ursula Mayer’s films Gonda 
 (2012) and Medea (2013), House of Mirrors is a survey of her cinematic work 
 from 2005-2010, featuring Last Hours of Ancient Sunlight (2009), The Lunch 
 in Fur/ Le Dejeuner en Fourrure (2008), The Crystal Gaze (2007), Interiors 
@@ -100,7 +101,7 @@ Facilitated by Laura U. Marks
 Wednesday, July 9, 6pm
 Audain Gallery
 
-Laura U. Marks will facilitate an open reading of Ursula Mayerâ€™s images using 
+Laura U. Marks will facilitate an open reading of Ursula Mayer’s images using 
 affective analysis, a method that postpones thinking in order to attend to 
 affective and bodily responses and perceptions. No Looking After the Internet 
 prompts the open reading of images and objects, and encourages visual 
@@ -127,7 +128,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audain@sfu.ca

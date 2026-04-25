@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 17
 type: "FUNDRAISER"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Sunset Terrace Fundraiser | 5PM-1AM | JUL 7"
 ---
 

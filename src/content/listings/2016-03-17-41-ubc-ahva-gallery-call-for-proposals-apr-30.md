@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 41
 type: "CALL"
+venue: "UBC AHVA Gallery"
 summary: "UBC AHVA Gallery | Call for Proposals | APR 30"
 ---
 

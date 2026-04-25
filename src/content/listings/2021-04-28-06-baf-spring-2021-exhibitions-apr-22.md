@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "BAF"
 summary: "BAF | Spring 2021 Exhibitions | APR 22"
 ---
 

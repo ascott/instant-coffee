@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 46
 type: "CALL"
+venue: "District of West Vancouver"
 summary: "District of West Vancouver | Bicycle Rack Design Contest | MAY 15"
 ---
 

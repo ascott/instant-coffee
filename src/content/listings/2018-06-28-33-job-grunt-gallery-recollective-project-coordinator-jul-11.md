@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 33
 type: ""
+venue: "JOB"
 summary: "JOB | Grunt Gallery | Recollective Project Coordinator | JUL 11"
 ---
 

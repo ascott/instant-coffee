@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 8
 type: ""
+venue: "Yellow Crane Festival of Art & Design"
 summary: "Yellow Crane Festival of Art & Design | INSTANT IMPROVISED INTERVENTIONS | AUG 15"
 ---
 
@@ -28,11 +29,11 @@ we get new clothes from old clothes
 
 we tailor any garment to your body type
 
-we get you to the clothes youâ€™ve always wanted but never imagined
+we get you to the clothes you’ve always wanted but never imagined
 
 we make it all up on the spot!
 
-Come along just to have a look, or join in the transformation! Itâ€™s easy:
+Come along just to have a look, or join in the transformation! It’s easy:
 
 1. Go through your wardrobe and pick out the garments that have been sitting 
 there for a long time.

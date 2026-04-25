@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 14
 type: ""
+venue: "Atelier Gallery"
 summary: "Atelier Gallery | Brad Woodfin | DEC 4"
 ---
 
@@ -24,7 +25,7 @@ Woodfin. In The Returning, Woodfin furthers his exploration of what he
 identifies as the mundane, first presented in his exhibition, This Night.
 
 Out of darkness I hope to bring dignity and rest to beasts that have
-worked very hard. To create a silenceÂ¦To keep in mind that a painting can
+worked very hard. To create a silence¦To keep in mind that a painting can
 simply be a portrait of an animal and that this simplicity gives weight and
 value to the underdogs of the world.
 

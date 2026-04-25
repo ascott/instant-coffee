@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 9
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Norma | Brawl | FEB 24"
 ---
 
@@ -43,5 +44,5 @@ neighbourhood from January to March 2010.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free

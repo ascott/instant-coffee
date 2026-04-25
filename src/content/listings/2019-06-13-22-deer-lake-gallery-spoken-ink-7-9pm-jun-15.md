@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 22
 type: "EVENT"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Spoken Ink | 7-9PM | JUN 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 34
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Sentient Circuitries Digital Media Arts Symposium | NOV 18"
 ---
 

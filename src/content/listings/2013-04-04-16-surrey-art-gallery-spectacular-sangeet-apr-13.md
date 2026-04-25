@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 16
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Spectacular Sangeet | APR 13"
 ---
 

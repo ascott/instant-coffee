@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 62
 type: "EDUCATION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | FARSI EXHIBITION TOUR | 1030AM | SEP 28"
 ---
 

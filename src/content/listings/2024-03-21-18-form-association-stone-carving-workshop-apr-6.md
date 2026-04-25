@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 18
 type: "EDUCATION"
+venue: "Form Association"
 summary: "Form Association | Stone Carving Workshop | APR 6"
 ---
 

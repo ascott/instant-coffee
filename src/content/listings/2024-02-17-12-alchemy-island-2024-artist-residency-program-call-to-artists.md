@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 12
 type: "CALL"
+venue: "Alchemy Island 2024"
 summary: "Alchemy Island 2024 | artist residency program call to artists | FEB 22"
 ---
 

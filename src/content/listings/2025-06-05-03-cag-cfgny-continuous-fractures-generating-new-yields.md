@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "CAG"
 summary: "CAG | CFGNY: Continuous Fractures Generating New Yields"
 ---
 

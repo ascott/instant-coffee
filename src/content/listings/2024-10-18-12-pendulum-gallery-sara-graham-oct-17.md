@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 12
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Sara Graham | OCT 17"
 ---
 

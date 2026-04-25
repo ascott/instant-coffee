@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Gallery at Queen's Park"
 summary: "Gallery at Queen's Park | \"Makeshift\" | OCT 2"
 ---
 

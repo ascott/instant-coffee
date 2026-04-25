@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like an onion makes you want to cr
 emailDate: "Thu, 14 Jul 2011 22:35:36 -0700"
 number: 13
 type: ""
+venue: "Western Front"
 summary: "Western Front | Job Posting: Head Technician | AUG 12"
 ---
 

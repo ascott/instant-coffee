@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Richmond Art Gallery [Reopens]"
 summary: "Richmond Art Gallery [Reopens] | Karin Jones and Amy Malbeuf | Until Aug 8th | JUL 15"
 ---
 

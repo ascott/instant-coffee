@@ -57,9 +57,9 @@ Laura Widmer: Face to Face
 March 24 to June 8, 2015
 McGill Library
 
-The Burnaby Art Galleryâ€™s Offsite Exhibitions showcases artworks from
+The Burnaby Art Gallery’s Offsite Exhibitions showcases artworks from
 local, emerging, as well as nationally-known, established artists in the
-spaces of Burnabyâ€™s Public Libraries.
+spaces of Burnaby’s Public Libraries.
 From March to June 2015 the gallery is pleased to present:
 
 -People With Cameras
@@ -69,7 +69,7 @@ holdings of the City of Burnaby Archives, the photography collection of the
 Burnaby Village Museum, and the archives of the City of Burnaby Art
 Collection maintained by the Burnaby Art Gallery. Many of these photographs
 can be accessed through Heritage Burnaby, an initiative of the City of
-Burnabyâ€™s Community Heritage Commission.
+Burnaby’s Community Heritage Commission.
 
 The history of Burnaby runs roughly parallel to the history of photography,
 but it was not until 1900 when the Kodak Brownie Box roll-film camera was
@@ -78,7 +78,7 @@ activity that anyone could engage in. Many of the photographs in this
 exhibit show how quickly the taking of photographs became a leisure pursuit.
 
 This show is the fourth Burnaby Art Gallery Offsite Exhibition drawn from
-Heritage Burnabyâ€™s holdings. Previous exhibits include Greetings from
+Heritage Burnaby’s holdings. Previous exhibits include Greetings from
 Burnaby, an exhibition of Burnaby postcards, and an exhibition about the
 community that once existed on the site of what is now Barnet Marine Park.
 For this exhibit, gallery staff was assisted by City of Burnaby Archives
@@ -89,8 +89,8 @@ _
 
 Laura Widmer is an award winning Canadian printmaker based in Kelowna,
 British Columbia. Her work first came toour attention in 2010 when she
-received first prize for her entry in that yearâ€™s Open Studio National
-Printmaking Awards, Canadaâ€™s most prestigious award dedicated to
+received first prize for her entry in that year’s Open Studio National
+Printmaking Awards, Canada’s most prestigious award dedicated to
 printmaking. The winning work, entitled One of the Daves I Know, is
 included in this exhibit.
 
@@ -100,7 +100,7 @@ Widmer had a solo exhibition at the Penticton Art Gallery and last year she
 completed a residency at Banff. Her work has been shown across Canada and
 internationally.
 
-â€œMy work is a quiet act of defiance in a digital age. I wish to draw
+“My work is a quiet act of defiance in a digital age. I wish to draw
 attention to the tactile, sensual subtleties of our world at a time when
 the word â€œtouchâ€  frequently references a finger-swipe across a flat,
 rectangular screen. I use a deliberately physical process and emphasize the
@@ -117,12 +117,12 @@ Centre for the Arts.
 ------------------------------------------------------------------------
 Asking For It
 Patryk Stasieczek
-March 27th â€” April 25th, 2015
-Opening March 26th, 7:00 â€” 10:00PM
+March 27th — April 25th, 2015
+Opening March 26th, 7:00 — 10:00PM
 17 West Broadway, Vancouver BC.
 
 As part of Capture Photography Festival, FIELD Contemporary is please to
-present Patryk Stasieczekâ€™s solo exhibition Asking for It, curated by
+present Patryk Stasieczek’s solo exhibition Asking for It, curated by
 Avalon Mott.
 
 This exhibition is the result of an ongoing photographic investigation into
@@ -162,7 +162,7 @@ http://field-contemporary.com
 <a href="/instant-coffee/listings/2015-03-26-03-or-gallery-at-sfu-woodward-david-hartt-artist-talk-mar-26">03. TALK | Or Gallery at SFU Woodward | David Hartt - Artist Talk | MAR 26</a>
 ------------------------------------------------------------------------
 David Hartt
-Artist Talk at SFU Woodwardâ€™s Thursday, March 26, 7PM
+Artist Talk at SFU Woodward’s Thursday, March 26, 7PM
 Djavad Mowafaghian World Art Centre, Goldcorp Centre for the Arts, 149 W.
 Hastings St.
 
@@ -179,14 +179,14 @@ distils this material into complex and elegant installations.
 
 adrift
 David Hartt
-March 28 â€” May 9, 2015
+March 28 — May 9, 2015
 Or Gallery
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-03-26-04-access-gallery-avenue-line-in-the-sand-mar-27">04. EVENT | Access Gallery & Avenue | Line In The Sand | MAR 27</a>
 ------------------------------------------------------------------------
 dress code in effect
-March 14â€”March 27, 2015
+March 14—March 27, 2015
 At Access Gallery (222 E Georgia St) & Avenue (165 E Hastings St)
 
 Closing Event
@@ -215,8 +215,8 @@ situations carry with them protocols with which we are asked to comply as
 we encounter, enter, or pass through them. Our contemporary understanding
 of â€œprotocolâ€  is as â€œan official procedure or system of rules governing
 affairs or behaviours.â€  However, early definitions of the termâ€”a
-provisional draft, a working manuscriptâ€”imply the opposite. This project is
-sited within a triangular space in Vancouverâ€™s Chinatown: at Access
+provisional draft, a working manuscript—imply the opposite. This project is
+sited within a triangular space in Vancouver’s Chinatown: at Access
 Gallery, Avenue (a grass-roots artist-operated space engaged in cultivating
 experimental art practices), and the space in between. Investigating this
 expanded space as a grey area (an interstice, a draft, a hybrid form), the
@@ -228,7 +228,7 @@ domestic, urban, social and political spaces, as well as through those of
 the art world itself.
 
 This project is collaboratively curated by the students of Emily Carr
-University of Art and Designâ€™s AHIS 401 Topics in Curatorial Projects
+University of Art and Design’s AHIS 401 Topics in Curatorial Projects
 seminar who, in realizing a project of this nature, must also contend with
 their own forms of curatorial constraints and protocols.
 
@@ -266,13 +266,13 @@ Regime: Outlaws and Outsiders in the Neo-Liberal State"
 
 Alison B. Hirsch, Assistant Professor, School of Architecture, University
 of Southern California, "The Participatory City: Activist Landscape
-Architecture in the â€™60s, â€™70s and Today"
+Architecture in the ’60s, ’70s and Today"
 
 Moderator: Chris Gaudet, Public and Academic Programs Assistant, UBC Belkin
 Art Gallery
 
 In her article "Looking for the Utopian", Andrea Anderson claims that the
-aesthetic of Burrowsâ€™ interventions in the Maplewood Mudflats was
+aesthetic of Burrows’ interventions in the Maplewood Mudflats was
 "dependent on the movements of the community as well as of nature." How
 might (legal, architectural, artistic) interventions into landscapes enable
 their emergence or persistence as socially meaningful spaces: homes,
@@ -295,11 +295,11 @@ in Vancouver"
 Moderator: Mari Fujita, Chair, Environmental Design and Associate
 Professor, Architecture, UBC School of Architecture and Landscape Architecture
 
-How might Vancouverâ€™s (often highly conflictual) spatial histories be
-activated by artistic interventions? How have communities â€“ especially
-communities that have defined themselves, or been defined, as marginal â€“
-shaped the cityâ€™s public spaces? What possibilities do practices of
-contestation, such as Vancouverâ€™s long history of squatting, open for
+How might Vancouver’s (often highly conflictual) spatial histories be
+activated by artistic interventions? How have communities – especially
+communities that have defined themselves, or been defined, as marginal –
+shaped the city’s public spaces? What possibilities do practices of
+contestation, such as Vancouver’s long history of squatting, open for
 thinking and representing a city for which sovereignty and land title are
 constantly at issue?
 
@@ -307,7 +307,7 @@ Spatial Politics and the City is made possible with assistance from the UBC
 Curatorial Lecture Series supported by the Audain Endowment for Curatorial
 Studies in the Department of Art History, Visual Art and Theory.
 
-â€”
+—
 
 For further information please contact: Jana Tyner at jana.tyner@ubc.ca,
 tel: (604) 822-1389, or fax: (604) 822-6689
@@ -318,10 +318,10 @@ tel: (604) 822-1389, or fax: (604) 822-6689
 ------------------------------------------------------------------------
 adrift
 David Hartt
-March 28 â€” May 9, 2015
+March 28 — May 9, 2015
 Reception Friday, March 27, 8PM
 
-Artist Talk at SFU Woodwardâ€™s Thursday, March 26, 7PM
+Artist Talk at SFU Woodward’s Thursday, March 26, 7PM
 
 The Or Gallery is pleased to present adrift, a new film installation by
 David Hartt. The film is a work of speculative fiction set 50 or so years
@@ -329,19 +329,19 @@ in the future, wherein the entire population of the island nation of Tuvalu
 has been displaced due to global warming and resulting rising water levels.
 The Tuvalese have relocated to a high-density Soleriesque arcology,
 commissioned and built on the banks of the Mississippi river. The story
-draws influence from both Mark Twainâ€™s Huckleberry Finn and Kobo AbÃ©â€™s
-Inter Ice Age 4. The main character Sainiâ€™s journey traces a territory of
+draws influence from both Mark Twain’s Huckleberry Finn and Kobo Abé’s
+Inter Ice Age 4. The main character Saini’s journey traces a territory of
 uncertainty: uncertain identities, economies and borders. It considers the
 impossibility of someone living in our present to understand the moral and
 cultural conditions of someone from the distant future.
 
 The footage was shot in Tuvalu, which appears in the film as the
-Mississippi river settlement and quarantine zone. Bertrand Goldbergâ€™s River
+Mississippi river settlement and quarantine zone. Bertrand Goldberg’s River
 City complex in Chicago appears as the Tuvalese arcology, and models from
 the Goldberg Archive, of unbuilt phases of the River City complex, appear
 as the exteriors of the Tuvalese arcology.
 
-Harttâ€™s work to date has addressed the relationship between ideology and
+Hartt’s work to date has addressed the relationship between ideology and
 the built environment. adrift addresses what happens to an ideology when
 the environment that informs it disappears. Specifically, Hartt is
 interested in the changing concept of sovereignty in the 21st century; both
@@ -382,17 +382,17 @@ The Alternator Centre for Contemporary Art is proud to present Subtle
 Emergences, an interactive Eco Art exhibit by David Kadish.
 
 As a systems design engineer, for Subtle Emergences Kadish harnessed his
-background as web developer and installation designer at UBCâ€™s Eco Art
+background as web developer and installation designer at UBC’s Eco Art
 Incubator. He fuses his art with tech by integrating raw materials like
 beeswax, wool felt and handmade paper with complex technological
 systems.
 
-The central kinetic sculpture and theme of Kadishâ€™s work is the Okanagan
-Sunflower, the indicator of spring in traditional Sylix knowledge. The plantâ€™s
+The central kinetic sculpture and theme of Kadish’s work is the Okanagan
+Sunflower, the indicator of spring in traditional Sylix knowledge. The plant’s
 mathematical layout of seeds provides rich inspiration for cyclic
-arrangements in Kadishâ€™s art.
+arrangements in Kadish’s art.
 
-â€œSubtle Emergences questions how we see and understand ecological
+“Subtle Emergences questions how we see and understand ecological
 complexity in our world,â€  said gallery manager Peter Green. â€œFor me, the
 exhibit inspires a re-enchantment with the natural world.â€ 
 
@@ -400,12 +400,12 @@ The exhibition will be extended into public space with a wood-based
 sculptural installation located between the Rotary Centre for the Arts and the
 Kelowna Art Gallery. Reiterating the complex ecological interconnectedness
 of a sunflower and its environment, this sculpture will react to weather,
-people moving through the grassy space, and the galleryâ€™s indoor
+people moving through the grassy space, and the gallery’s indoor
 sculptures.
 
-â€œDrawing on this eco-tech dichotomy, our monthly Draw by Night event on
+“Drawing on this eco-tech dichotomy, our monthly Draw by Night event on
 April 2nd will be themed inorganic beings,â€  said gallery assistant Megan
-Bowers. The event will coincide with Downtown Kelownaâ€™s initiative to keep
+Bowers. The event will coincide with Downtown Kelowna’s initiative to keep
 Cultural District businesses open late the first Thursday of each month.
 
 The opening reception for Subtle Emergences will be held at The Alternator
@@ -426,7 +426,7 @@ March 28, 2015
 PANEL: Zoe Lam, Sarah Ling, Ah To
 Reception to follow
 
-According to a preliminary analysis of the Cantonese languageâ€™s vitality
+According to a preliminary analysis of the Cantonese language’s vitality
 and endangerment status in Hong Kong, Guangzhou and Vancouver's Chinatown,
 it is apparent that both state and community support for the language are
 in decline and that Cantonese is steadily losing realms of use. To say that
@@ -434,7 +434,7 @@ the language is under threat of very real endangerment is, according to the
 UNESCO framework employed in the analysis, not an exaggeration. And the
 time for action may be now.
 
-As community support deteriorates, the Peopleâ€™s Republic of China has
+As community support deteriorates, the People’s Republic of China has
 evidenced hostility towards the language, leaving its mid-long term fate in
 places like Hong Kong and Guangzhou increasingly uncertain. Meanwhile,
 regardless of pretensions to pluralism, as the demographics of Vancouver's
@@ -467,7 +467,7 @@ analysis.
 - Author and First Nations language revitalization advocate Sarah Ling, will
 share her experience with hən̓q̓əmin̓əm̓
 naming efforts at UBC
-- And Ah To the renowned illustrator of â€œThe Great Canton and Hong Kong
+- And Ah To the renowned illustrator of “The Great Canton and Hong Kong
 Proverbsâ€  will join us from Hong Kong via Skype for a current view of the
 status of Cantonese language resilience and grass-roots language defense
 efforts in that city.
@@ -480,7 +480,7 @@ Cineworks Annex, Ironworks, 235 Alexander Street
 
 Open Film Lab and Analogue Studio Drop-In
 
-Sunday Mar 29, 10.00am â€“ 2.00pm
+Sunday Mar 29, 10.00am – 2.00pm
 
 FREE
 
@@ -491,7 +491,7 @@ exhibition.
 
 Come for an Annex equipment and facilities orientation, bring your own
 cinefilm or stills negative to develop, come for a chat if you'd like to
-know more about working with 35mm, 16mm and 8mm film, or if youâ€™d like
+know more about working with 35mm, 16mm and 8mm film, or if you’d like
 advice on a project you have in mind.
 
 (Odd Sundays take place on Sundays with odd-numbered dates).
@@ -561,8 +561,8 @@ Bejeweled in a pursuit of extreme beauty, Brendan commutes between Montreal
 
 Jerry Zaslove
 Jerry Zaslove is a writer and teacher who has taught at Simon Fraser
-University since 1965. His photograph, â€œFred Douglasâ€™s Car, 2005" is an
-homage to Fred Douglasâ€™s art and writing. The image is one fragment from a
+University since 1965. His photograph, “Fred Douglas’s Car, 2005" is an
+homage to Fred Douglas’s art and writing. The image is one fragment from a
 series of essays and photographs titled Understanding Posthumous Memory.
 The installation and publication, â€œKafka in the Penal Colony,â€  presented at
 the SFU Gallery is a recent work.
@@ -588,7 +588,7 @@ Brickell, Cobra, Larry Cohen, Bruce Connor, Mark Dion, Charles and Ray
 Eames, The Edit, Rainer Ganahl, Richard Henriquez, Julian Hou, George Ohr,
 Knauf and Brown, Kelly Lamb, Lee Lozano, Roy McMakin, Tiziana La Melia,
 Maynard Monroe, Matt Murphy Design, Elizabeth McIntosh, Otto Muehl, Gailan
-Ngan, Wayne Ngan, JosÃ©e Aubin Ouellette, Danica Phelps, Althea Thauberger,
+Ngan, Wayne Ngan, Josée Aubin Ouellette, Danica Phelps, Althea Thauberger,
 Lisa Turner Design, Sylvain Sailly, Steven Shearer, Joanna Staniszkis,
 Mungo Thomson, Victor Vasarely and more!
 
@@ -631,16 +631,16 @@ We are open Saturdays noon - 5pm and by appointment.
 ------------------------------------------------------------------------
 Breach is currently accepting submissions for its launch, on the theme of
 decolonial aesthetics. This inaugural issue aims to interrogate, in the
-words of Olu Oguibe, the expectation that "the â€˜ethnics,â€™ â€˜postcolonials,â€™
-â€˜minorities,â€™ all those who have ancestry, connections, or affiliations
-â€˜elsewhereâ€™ ... belong in a different space, should create work of a
+words of Olu Oguibe, the expectation that "the ‘ethnics,’ ‘postcolonials,’
+‘minorities,’ all those who have ancestry, connections, or affiliations
+‘elsewhere’ ... belong in a different space, should create work of a
 particular flavor, deal with a certain set of themes, exhibit in particular
 avenues in particular locations outside the mainstream, or be prepared to
 offer work of a particular nature to earn momentary mainstream
 acknowledgement, after which they are quietly returned to obscurityâ€ .
 
 Taking a cue from the Transnational Decolonial Institute in recognizing the
-â€œconfinement that Euro-centered concepts of arts and aesthetics have
+“confinement that Euro-centered concepts of arts and aesthetics have
 imposed" on artists, we wish to highlight other ways of sensing, and to
 break from ways of thinking that are rooted in Empire: colonial and settler
 narratives that displace other histories; frameworks for viewing and
@@ -666,9 +666,9 @@ whether artists have a responsibility to draw attention to these issues,
 and whether First Nations artists in particular are weighted down by
 expectations that these issues be central themes of their work.
 
--If â€œtraditionally, the significance of museums was based on their role to
+-If “traditionally, the significance of museums was based on their role to
 relate a master narrative that was shared by their audienceâ€ , and there
-â€œexist today competing histories (religious, ethnic, or postcolonial) that
+“exist today competing histories (religious, ethnic, or postcolonial) that
 deconstruct an exclusive significance of â€˜artâ€™â€ , then what is the role of
 the museum of today? Is the museum obsolete?
 
@@ -684,7 +684,7 @@ not intend to limit our content based on the colonial construction of the
 borders, and therefore are interested in issues that extend beyond the
 national level as well. Our call for submissions on the theme of decolonial
 aesthetics pertains to all off-shoots of colonialism that propagate the
-imperial agendaâ€”capitalism, legacies of the slave trade, and environmental
+imperial agenda—capitalism, legacies of the slave trade, and environmental
 degradation, to name but a few.
 
 Complete submission details can be found at http://www.breachmagazine.ca.
@@ -753,7 +753,7 @@ International Call: Programmed Art Residency
 Artscape Gibraltar Point, Toronto Island, Canada
 Facilitator, Teresa Ascencao
 
-Program Dates: July 3 â€“ 17, 2015
+Program Dates: July 3 – 17, 2015
 Submission Deadline: March 31, 2015
 Cost including taxes: $1015 for private bedroom, or $750 for shared bedroom
 (package includes accommodation, large shared studio, workshop
@@ -770,7 +770,7 @@ psychology, post-colonialism and social movements are explored for ideas in
 transgressing these forces. Residents work individually or collaboratively
 to create artworks that reinvent the body through media of their choice,
 such as photography, video, installation, drawing, performance art, new
-media etc. Critiques of residentsâ€™ work in progress occur on a regular
+media etc. Critiques of residents’ work in progress occur on a regular
 basis. There will be a closing exhibition of artworks created during the
 residency. The essence of Luminous Bodies is about bringing to light
 heterogeneous bodies. It welcomes people in all walks of life and genders
@@ -826,7 +826,7 @@ facilitation, and final event.
 
 Unlearning Practices Residency is a two week facilitated exploration of
 other ways of knowing and being. Unlearning is an active practice of
-de-conditioning our bodies and minds â€“ and researching through embodiment
+de-conditioning our bodies and minds – and researching through embodiment
 and expanding our ability to feel. Drawing from years of research in the
 fields of somatic practices, performance art, alternative pedagogy, social
 justice and eco-feminist philosophy, Unlearning Practices will facilitate
@@ -838,7 +838,7 @@ tools and resources for individual exploration, embodied research methods,
 individual studio time, communal meals, and the opportunity to
 collaboratively produce a final event. For anyone working with embodiment,
 performance art, dance, alternative pedagogy, land art, social justice,
-healing, or simply craving to realign through creative processes â€“ this
+healing, or simply craving to realign through creative processes – this
 residency will offer the space and tools to nourish and regenerate yourself
 while opening up to new sources of inspiration. There is more to life than
 we know!
@@ -874,7 +874,7 @@ in the Public Realm, ADRIART (International Master Study Program in
 Contemporary Arts), Graz AU; Collective Walks / Spaces of Contestation -
 Unit/PITT Gallery, Vancouver CA; Unlearning Weekenders - Goethe Satellite,
 Vancouver CA; How to Walk Together - {HotelMariaKapel} Resdiency, Hoorn NL;
-Collective Tasks for Ãœberlebenskunst - Haus der Kulturen der Welt, Berlin
+Collective Tasks for Überlebenskunst - Haus der Kulturen der Welt, Berlin
 DE. For more information on the Facilitators visit: zoekreye.com and
 catherinegrau.tumblr.com.
 
@@ -994,11 +994,11 @@ participate in a community outreach activity such as an artist talk,
 workshop or exhibition during the residency term.
 
 This residency includes:
-â€¢ unlimited studio access during University hours (except during
+• unlimited studio access during University hours (except during
 scheduled workshops)
-â€¢ access to a range of professional equipment, tools and basic art materials
-â€¢ technical support and resources for a wide range of disciplines
-â€¢ $200 material / production budget
+• access to a range of professional equipment, tools and basic art materials
+• technical support and resources for a wide range of disciplines
+• $200 material / production budget
 Please note the residency does not include travel, accommodation, artist
 fees or access to Emily Carr facilities beyond the Leeway [ie: no shop
 access (wood, metal, print)].
@@ -1029,12 +1029,12 @@ Wednesday, April 1, 7:30 pm: Screening at The Cinematheque, 1131 Howe St.
 Vancouver BC
 Tix: $11/9 + $3 membership
 
-Experimental filmmaker Roger Beebeâ€™s 2015 touring program of
+Experimental filmmaker Roger Beebe’s 2015 touring program of
 multiple-projector performances and single-channel HD video includes the
 premiere of his latest multi-projector mayhem, Sound Film. These works
 take on a range of topics, from the forbidden pleasures of men crying and
 the secret logic of the book of Genesis to Las Vegas suicides and
-companies jockeying to be at the start of the phone book. â€œBeebeâ€™s films
+companies jockeying to be at the start of the phone book. “Beebe’s films
 are both erudite and punk, lo-fi yet high-brow shorts that wrestle with a
 disfigured, contemporary American landscapeâ€  (Wyatt Williams, Creative
 Loafing).
@@ -1063,9 +1063,9 @@ creative community.
 Super Cool Tuesdays, also known as Contemporary Arts 101, is a drop-in
 speaker series involving local and visiting artists in conversation with
 SFU students, faculty, and residents of the DTES. Super Cool Tuesdays is a
-community program, now organized by Andrea Creamer of SFUâ€™s Vancity Office
+community program, now organized by Andrea Creamer of SFU’s Vancity Office
 of Community Engagement. The series is also a Community Partnership program
-with the PHSâ€™s Drug Users Resource Centre and takes place at the Interurban
+with the PHS’s Drug Users Resource Centre and takes place at the Interurban
 Gallery at the corner of Hastings and Carrall Streets. By fostering
 informal conversations about art and art practices, Super Cool Tuesdays
 addresses a range of social and political topics, while also responding to
@@ -1075,7 +1075,7 @@ Bitter, Althea Thauberger, Walter Scott, Cathy Busby, the Instant Coffee
 collective, Damian Moppett and Jeneen Frei Njootli. Many of the
 participating artists make work that is based on social justice, activism,
 relational practices and other related and unrelated approaches. Other
-artistâ€™s use informal and accessible materials, found objects, pop cultural
+artist’s use informal and accessible materials, found objects, pop cultural
 references, and humor. All of them encourage active engagement as a way to
 help examine our contemporary moment. Ultimately, the goal of Super Cool
 Tuesdays is to provide a safe and open opportunity for people who may
@@ -1106,7 +1106,7 @@ University of Art + Design in 2010.
 
 Jenny Lee Craig is an artist and a creative facilitator. Her projects are
 diverse and interdisciplinary, and often aim to be community engaged. The
-extensive list of her lifeâ€™s highlights so far include competing in FINA
+extensive list of her life’s highlights so far include competing in FINA
 World Championships with her Synchronized Swimming team, writing a play
 about a tender jewel that goes for a journey in a giant hat, and dancing
 back-up for the francophone rap sensation Donzelle.
@@ -1157,10 +1157,10 @@ Closing Reception: April 2nd, 2015 - 7:30 PM
 Burrard Arts Foundation
 108 East Broadway
 
-Silver Rapids â€“ Nicolas Sassoonâ€™s installation at Burrard Arts Foundation â€“
+Silver Rapids – Nicolas Sassoon’s installation at Burrard Arts Foundation –
 is a video projection across the window facade appearing only after dark.
 The projection structure is based on a waterfall, with variations occurring
-throughout a looping cycle. The animation is created using digital moirÃ©
+throughout a looping cycle. The animation is created using digital moiré
 patterns; composed of pixelated textures and 6 tones of grey, forming a
 greyscale gradient from black to white. Pixels fall like water. The
 building glows.
@@ -1199,10 +1199,10 @@ realism. Responding in part to the ubiquity of digital images, some of the
 artists forfeit cameras altogether and take inspiration from early
 modernist photographers such as Man Ray.
 Ryan Foerster exposes photo-sensitive paper to the natural elements and
-Ryan Peterâ€™s photograms integrate drawing and painting while Eileen
-Quinlanâ€™s abstractions and Michelle Abelesâ€™ collaged mash-ups come from
+Ryan Peter’s photograms integrate drawing and painting while Eileen
+Quinlan’s abstractions and Michelle Abeles’ collaged mash-ups come from
 analogue darkroom processes. A spirit of reinvention informs Susanne
-Kriemannâ€™s archive works and Matt Saunders unorthodox treatments of
+Kriemann’s archive works and Matt Saunders unorthodox treatments of
 photographic negatives. Together, the works in Images That Speak offer
 provocative insights into the limits of photography, and its fundamental
 richness.
@@ -1273,11 +1273,11 @@ Access Gallery is located at 222 East Georgia Street, Vancouver.
 ------------------------------------------------------------------------
 Matthew Pillsbury: Tokyo
 Capture 2.0 Photography Festival, April 2015
-April 4th â€“ April 25th
+April 4th – April 25th
 
 Opening reception: Saturday, April 11th, 2-4 pm
 
-DUG Vancouver Pop-up â€“ Temporary exhibition
+DUG Vancouver Pop-up – Temporary exhibition
 1566 W. 6th Ave. Second Floor, Vancouver, BC V6J 1R2
 
 French-born, New York-raised Matthew Pillsbury, was one of 11 to be awarded
@@ -1292,12 +1292,12 @@ Guggenheim Fellowship helped Matthew to realize his latest project, Tokyo.
 ------------------------------------------------------------------------
 James Nizam
 The Mnemonic Landscape
-April 4th â€“ 23rd, 2015
+April 4th – 23rd, 2015
 
 Opening Reception: Saturday, April 4th, 5-8pm
 
 Gallery Jones is pleased to present The Mnemonic Landscape, a solo
-exhibition of new works by James Nizam. The exhibition continues Nizamâ€™s
+exhibition of new works by James Nizam. The exhibition continues Nizam’s
 exploration of the relationship between photography and sculpture, and
 their capacity (alone and in conjunction) to comment on the vagaries of the
 â€œexpandedâ€  artifact. Weaving together photo-sculptural works through a
@@ -1310,7 +1310,7 @@ dissolution of the trace as it comes into and out of visibility.
 
 James Nizam is a visual artist living in Vancouver. He graduated from the
 University of British Columbia in 2002 and holds a Bachelor of Fine Arts in
-sculpture and photography. Nizamâ€™s work has been exhibited in Canada and
+sculpture and photography. Nizam’s work has been exhibited in Canada and
 abroad with recent exhibitions that include, Vestiges of Memory, Maerz
 Galerie, Leipzig 2015; Poetics of Space, Vancouver Art Gallery 2015; Views
 from the South Banks, Surrey Art Gallery 2015; Die Ausstellung, KIT,
@@ -1384,7 +1384,7 @@ Capture Photography Festival and the Museum of Vancouver.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-03-26-29-grunt-gallery-eraser-street-apr-9">29. OPENING | grunt gallery | Eraser Street | APR 9</a>
 ------------------------------------------------------------------------
-Eraser Street â€“ Hubris, Humility and Humanity in the Making of a City!
+Eraser Street – Hubris, Humility and Humanity in the Making of a City!
 
 Exhibition Title: Eraser Street
 Opening Reception: Thursday, April 9, 2015 (7pm - 10pm)
@@ -1392,23 +1392,23 @@ Exhibition Dates: April 9 - May 16, 2015
 Location: grunt gallery, 116-350 East 2nd Ave, Vancouver, BC
 URL: http://grunt.ca/exhibitions/eraser-street/
 
-Eraser Street â€“ Hubris, Humility and Humanity in the Making of a City! is
-an exhibition that mixes Robideauâ€™s newest and oldest photographs of
+Eraser Street – Hubris, Humility and Humanity in the Making of a City! is
+an exhibition that mixes Robideau’s newest and oldest photographs of
 moments, milestones and monuments in Vancouver, tracing the character of
 the city and its residents during the last 40 years of non-stop growth. The
 work reflects upon the quality of life in Vancouver, the value of heritage,
 the economic engine of development, homelessness and the voice of the
-people. Robideauâ€™s holographic satirical text charts history while
+people. Robideau’s holographic satirical text charts history while
 critiquing the forces of government and commerce that have had a hand in
 shaping our urban environment.
 
 Handmade black and white gelatin silver photographs are juxtaposed with
 computer mediated digital inkjet prints, reinforcing the flux of change
-experienced in these images. Robideauâ€™s narrative embraces a lament for
+experienced in these images. Robideau’s narrative embraces a lament for
 what has been lost, a celebration for what has survived, and an admonition
 for the future of a city still in its infancy.
 
-Join us on Thursday April 9 from 7pm â€“ 10pm for the opening reception of
+Join us on Thursday April 9 from 7pm – 10pm for the opening reception of
 Eraser Street. There will be a forthcoming publication with an essay
 written by Clint Burnham. The exhibition runs from April 9 to May 19, 2015.
 
@@ -1430,7 +1430,7 @@ Saturday, May 9, 2015 | Additional info TBA
 Field Studies: Exercises in a Living Landscape
 Rebecca Bayer & Laura Kozak, Emiliano Sepulveda, Eden Veaudry
 
-April 11â€”May 23, 2015
+April 11—May 23, 2015
 
 Exhibition Opening  Friday, April 10, 2015, 7:00pm
 
@@ -1447,19 +1447,19 @@ everyday landscapes, haptic knowledge, and memory.
 
 Presented in conjunction with Capture Photography Festival, Field Studies
 investigates radical and inventive ways in which our everyday landscape
-might be experienced and mapped. Rebecca Bayer and Laura Kozakâ€™s
+might be experienced and mapped. Rebecca Bayer and Laura Kozak’s
 community-based project The Hadden Park Map Exchange (developed through the
 Vancouver Parks Board Field House Residencies) documents the coming
 together of a myriad of specialized practitioners and community
-membersâ€”visual artists, musicians, historians, gardeners, choreographers,
-archaeologists, meterologists, lifeguards, local residents and childrenâ€”to
+members—visual artists, musicians, historians, gardeners, choreographers,
+archaeologists, meterologists, lifeguards, local residents and children—to
 produce a series of unconventional maps of Hadden Park, at the north end of
-Vancouverâ€™s Kitsilano Beach. Emiliano Sepulveda probes the very basis of
+Vancouver’s Kitsilano Beach. Emiliano Sepulveda probes the very basis of
 photography with his weather kites made of light-sensitive photo paper
-which record light conditions in the sites they are flown. Eden Veaudryâ€™s
+which record light conditions in the sites they are flown. Eden Veaudry’s
 sensual installation quite literally weaves together still photographs,
-video and tapestries to map the intimate surfaces of her domestic realm, Ã 
-la Xavier de Maistreâ€™s 1794 novel A Journey Round My Room.
+video and tapestries to map the intimate surfaces of her domestic realm, à
+la Xavier de Maistre’s 1794 novel A Journey Round My Room.
 
 Rebecca Bayer is a Vancouver-based artist and architectural designer. Her
 projects examine relationships between people, material, and atmospheric
@@ -1518,20 +1518,20 @@ works by Vancouver artist Ryan Mathieson and Quebec City artist Anne-Marie
 Proulx. The exhibition looks at how subjective mapping and framing
 processes modulate the representation of given territories. In their
 individual practices, Mathieson and Proulx engage the discrepancies between
-representation-as-index and representation-as-deferral, and the artistsâ€™
+representation-as-index and representation-as-deferral, and the artists’
 material and compositional manipulations produce inflexions in the reading
 of photographic images. The exhibition, in its configuration, furthers this
 translation process and becomes a space of percolation: more than echoing
 each other, the works become porous. Slippages and infiltrations create
-(unstable) grounds for the expansion of the worksâ€™ physical and relational
+(unstable) grounds for the expansion of the works’ physical and relational
 frames.
 
 Exhibited works present fragmented renderings of landscapes: Icelandic and
 Southwestern American deserts, the Gulf Islands of British Columbia, the
-Magdalen Islands and the CÃ´te-Nord Region of Quebec. Here, an interplay
-between indexical and non-indexical representation engenders the lossâ€”or
-translationâ€”of information pertaining to the depicted territories. This
-gives way to the artistsâ€™ reinterpretation of chosen sites through visual,
+Magdalen Islands and the Côte-Nord Region of Quebec. Here, an interplay
+between indexical and non-indexical representation engenders the loss—or
+translation—of information pertaining to the depicted territories. This
+gives way to the artists’ reinterpretation of chosen sites through visual,
 material, and textual means. Mathieson presents a collection of
 photographic and assemblage-based works, notably exhibiting microscopic
 imagery and documentation of collected seaweed specimens from the Gulf
@@ -1539,8 +1539,8 @@ Islands, as well as a series of landscape compositions that testify to
 processes of topographical projection. Proulx presents series of works
 examining the geographic, human, and idiosyncratic topologies of insularity
 found along and into the Gulf of the Saint Lawrence River. Playing with the
-viewerâ€™s perception of space and scale, the artist approaches singularities
-of QuÃ©bÃ©cois landscapes as conduits to open the very notion of territorial
+viewer’s perception of space and scale, the artist approaches singularities
+of Québécois landscapes as conduits to open the very notion of territorial
 recording.
 
 The Toast Collective
@@ -1552,7 +1552,7 @@ http://thetoast.org
 <a href="/instant-coffee/listings/2015-03-26-32-james-black-gallery-antics-apr-15">32. CALL | James Black Gallery | Antics | APR 15</a>
 ------------------------------------------------------------------------
 THE JAMES BLACK GALLERY is dedicated to artists showing their work without
-having to pay a percentage out to the gallery. Artists-Â­in-residence show
+having to pay a percentage out to the gallery. Artists-­in-residence show
 their work, curate, and run the space. This curation is by Matthew Wise and
 Zandi Dandizette. The J B G is located in a heritage building in Mount
 Pleasant (est. 1889). This exhibition will show projects of emerging local
@@ -1598,7 +1598,7 @@ the summer, we'll also explore public intervention led by talented guest
 artists and instructors form around the globe, plus much more! Join us and
 come spend your summer in Berlin!
 
-Early bird price of â‚¬3999* (incl. VAT), ends April 20th.
+Early bird price of €3999* (incl. VAT), ends April 20th.
 
 For more information, see the program here: http://schoolofma.org/programs/
 Questions? Please get in touch: info[at]schoolofma.org

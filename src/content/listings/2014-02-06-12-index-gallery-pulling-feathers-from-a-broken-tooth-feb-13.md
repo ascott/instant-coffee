@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 12
 type: ""
+venue: "Index Gallery"
 summary: "Index Gallery | Pulling Feathers from a Broken Tooth | FEB 13"
 ---
 
@@ -12,7 +13,7 @@ Pulling Feathers from a Broken Tooth
 
 Casey Wei
 Jeremy Jansen
-Johan BjÃ¶rck
+Johan Björck
 Megan Hepburn
 Scott Lewis
 Steve Hubert

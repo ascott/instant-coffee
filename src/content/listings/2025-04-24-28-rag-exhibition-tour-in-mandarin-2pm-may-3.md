@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 28
 type: "EVENT"
+venue: "RAG"
 summary: "RAG | Exhibition Tour in Mandarin | 2PM | MAY 3"
 ---
 

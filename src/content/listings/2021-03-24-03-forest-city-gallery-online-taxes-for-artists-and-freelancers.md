@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 3
 type: "EDUCATION"
+venue: "Forest City Gallery [ONLINE]"
 summary: "Forest City Gallery [ONLINE] | Taxes for Artists and Freelancers! | MAR 25"
 ---
 

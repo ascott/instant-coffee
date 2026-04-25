@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 22
 type: "EVENT"
+venue: "SFU Gallery"
 summary: "SFU Gallery | Geometry of Knowing: Derya Akay & Julia Feyrer | FEB 15"
 ---
 
 Geometry of Knowing
 Event with Derya Akay and Julia Feyrer
 
-Sunday, FEB 15, 2015 / 12 â€“ 2PM
+Sunday, FEB 15, 2015 / 12 – 2PM
 SFU Gallery
 
 Walking, talking, sowing, drinking and waiting... will explore cycles of
@@ -24,7 +25,7 @@ return from the SFU Gallery at 2PM. Limited space. Reserve now by emailing
 audaingallery@sfu.ca.
 
 Free parking at SFU Burnaby on Sunday, February 15 from 12PM-3PM. Use a
-printout of this email or a copy of SFU Galleriesâ€™ Spring 2015 Program
+printout of this email or a copy of SFU Galleries’ Spring 2015 Program
 Guide. Place on dashboard or hand to parking attendant.
 
 Geometry of Knowing is a group exhibition that investigates approaches to
@@ -38,20 +39,20 @@ standardization and specialization regarding how people learn, art is a
 space for innovative thinking and experimentation outside given frameworks.
 
 Part 1
-JAN 15 â€“ FEB 28, 2015
+JAN 15 – FEB 28, 2015
 SFU Gallery
 
 Part 2
-JAN 15 â€“ FEB 28, 2015
+JAN 15 – FEB 28, 2015
 Audain Gallery
 
 Part 3
-MAR 21 â€“ MAY 15, 2015
+MAR 21 – MAY 15, 2015
 SFU Gallery
 
 Part 4
-MAR 19 â€“ MAR 28, 2015
+MAR 19 – MAR 28, 2015
 Audain Gallery
 
-Curated by Amy Kazymerchyk and Melanie Oâ€™Brian. Supported by the Canada
+Curated by Amy Kazymerchyk and Melanie O’Brian. Supported by the Canada
 Council for the Arts.

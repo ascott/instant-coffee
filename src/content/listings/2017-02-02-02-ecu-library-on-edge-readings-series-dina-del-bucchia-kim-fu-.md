@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 2
 type: "EVENT"
+venue: "ECU Library"
 summary: "ECU Library | On Edge Readings Series Dina Del Bucchia + Kim Fu | FEB 2"
 ---
 

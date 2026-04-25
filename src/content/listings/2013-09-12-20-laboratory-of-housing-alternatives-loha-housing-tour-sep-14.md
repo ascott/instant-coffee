@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 20
 type: ""
+venue: "Laboratory of Housing Alternatives (LOHA)"
 summary: "Laboratory of Housing Alternatives (LOHA) | Housing Tour | SEP 14"
 ---
 

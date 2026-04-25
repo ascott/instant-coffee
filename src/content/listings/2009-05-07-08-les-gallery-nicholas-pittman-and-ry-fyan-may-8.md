@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: show us your jazz hands"
 emailDate: "Thu, 07 May 2009 09:10:15 -0700"
 number: 8
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | Nicholas Pittman and Ry Fyan | MAY 8"
 ---
 

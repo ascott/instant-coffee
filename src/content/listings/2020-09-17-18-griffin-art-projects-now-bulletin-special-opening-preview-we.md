@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 18
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | NOW BULLETIN |  | Special Opening Preview Weekend [SIGN UP ONLINE] | SEP 19"
 ---
 

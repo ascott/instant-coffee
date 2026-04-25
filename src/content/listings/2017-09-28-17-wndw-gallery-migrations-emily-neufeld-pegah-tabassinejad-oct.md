@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "WNDW Gallery"
 summary: "WNDW Gallery | Migrations: Emily Neufeld + Pegah Tabassinejad | OCT 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 8
 type: ""
+venue: "Western Front"
 summary: "Western Front | Exhibition Opening: Sans Song | APR 26"
 ---
 
@@ -13,7 +14,7 @@ Exhibition Opening: Sans Song
 Thursday, April 26th, 7pm
 Sans Song features a combination of vocal works from the 1970s with 
 contemporary sonic and kinetic sculptures. The exhibition proposes the 
-sonic as artwork representative of the â€œin-process' between two 
+sonic as artwork representative of the “in-process' between two 
 tangible moments.
 
 Introducing new sonic, kinetic sculptural works by Nathan McNinch and 
@@ -42,5 +43,5 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Saturday 12 â€“ 5pm
+Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free

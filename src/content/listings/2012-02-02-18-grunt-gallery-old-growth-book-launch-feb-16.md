@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 18
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Old Growth Book Launch | FEB 16"
 ---
 
@@ -13,7 +14,7 @@ Michael Nicoll Yahgulanaas
 
 Thursday February 16, 2012, 7-9pm 
 
-Rhizome CafÃ©
+Rhizome Café
 
 317 East Broadway, Vancouver
 

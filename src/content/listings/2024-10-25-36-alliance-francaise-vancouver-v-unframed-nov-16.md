@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 36
 type: "EXHIBITION"
+venue: "Alliance Francaise Vancouver"
 summary: "Alliance Francaise Vancouver | V-Unframed | NOV 16"
 ---
 

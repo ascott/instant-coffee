@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 10
 type: "CALL"
+venue: "The Fifty Fifty Arts Collective"
 summary: "The Fifty Fifty Arts Collective | submissions for the 2021/22 programming year. | APR 23"
 ---
 

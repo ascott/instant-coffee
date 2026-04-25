@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 24
 type: ""
+venue: "cafe for contemporary art"
 summary: "cafe for contemporary art | Idle Wild by DRIL | OCT 19"
 ---
 
@@ -66,7 +67,7 @@ explorations of the everyday heighten an awareness of cultural
 constructs, while reimagining their significance in our present cultural 
 climate. Recent exhibitions include Drifter's Clip at Open Space in 
 Victoria, BC (2011) and City Hall, a site-specific performative 
-drawing installation for VancouverÃ¢â‚¬â„¢s city-wide Drawn Festival 
+drawing installation for Vancouverâ€™s city-wide Drawn Festival 
 (2009). In 2013, DRIL will participate in a group exhibition at Kamloops 
 Art Gallery. 
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 12
 type: "EVENT"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | GOT IT FOR CHEAP Aug 11th + 12th | AUG 11"
 ---
 

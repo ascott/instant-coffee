@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 29
 type: "OPENING"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | PERMANENCE |  | IMPERMANENCE | 5-10PM | JUL 12"
 ---
 

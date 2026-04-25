@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 21
 type: "TALK"
+venue: "Bill Reid Gallery of Northwest Coast Art"
 summary: "Bill Reid Gallery of Northwest Coast Art | Indigenous Art Sharing Circle | 2-3pm | NOV 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 64
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | Anonymous Art Show | OCT 26"
 ---
 

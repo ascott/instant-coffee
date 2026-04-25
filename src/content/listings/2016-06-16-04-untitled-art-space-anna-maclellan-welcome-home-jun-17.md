@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 4
 type: "OPENING"
+venue: "Untitled Art Space"
 summary: "Untitled Art Space | Anna MacLellan: Welcome Home | JUN 17"
 ---
 

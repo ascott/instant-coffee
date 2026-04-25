@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 29
 type: "EVENT"
+venue: "Cineworks"
 summary: "Cineworks | Gathering Rhythms | JUN 19"
 ---
 

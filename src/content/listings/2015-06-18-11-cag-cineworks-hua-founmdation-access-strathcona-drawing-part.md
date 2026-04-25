@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 11
 type: "EVENT"
+venue: "CAG, Cineworks, Hua Founmdation, Access"
 summary: "CAG, Cineworks, Hua Founmdation, Access | Strathcona Drawing Party | JUN 20"
 ---
 
@@ -59,7 +60,7 @@ Mongrel Vegetables: As a follow-up to the Hua Foundation's Choi Project,
 which enhanced our familiarity to Chinese produce, artist Howie Tsui will
 lead a workshop that asks participants to hybridize elements of these
 vegetables into a portrait. This workshop will put a more Sino-centric spin
-on Giuseppe ArcimboldoÃ¢â‚¬â„¢s portraits of heads comprised of vegetables and
+on Giuseppe Arcimboldoâ€™s portraits of heads comprised of vegetables and
 fruits. Perhaps in our current context, these portraits will reflect how
 our bodies are sustained through a melange of crossbred and modified
 ingredients; or in a more benign way, these constructions just illustrate a
@@ -70,7 +71,7 @@ that strengthen our connections with culture, heritage and environmental
 sustainability. http://www.huafoundation.org/
 
 The Chamber, Ian Johnston
-4:00 pm Ã¢â‚¬â€œ 5:30 pm
+4:00 pm â€“ 5:30 pm
 Access Gallery
 222 East Georgia Street, Vancouver
 Instructor: Alex M.F. Quicho

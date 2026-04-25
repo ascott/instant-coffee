@@ -21,7 +21,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-02-28-07-contemporary-art-gallery-and-ecu-artist-talk-raymond-boisjol">07. Contemporary Art Gallery and ECU | Artist Talk: Raymond Boisjoly | MAR 4</a>
 <a href="/instant-coffee/listings/2013-02-28-08-vancouver-institute-for-social-research-dina-al-kassim-mar-4">08. Vancouver Institute for Social Research | Dina Al-Kassim | MAR 4</a>
 <a href="/instant-coffee/listings/2013-02-28-09-recess-portland-call-mar-5">09. Recess, Portland | CALL | MAR 5</a>
-<a href="/instant-coffee/listings/2013-02-28-10-audain-gallery-student-exhibition-things-dont-speak-themselv">10. Audain Gallery | Student exhibition: Things Donâ€™t Speak Themselves | MAR 6</a>
+<a href="/instant-coffee/listings/2013-02-28-10-audain-gallery-student-exhibition-things-dont-speak-themselv">10. Audain Gallery | Student exhibition: Things Don’t Speak Themselves | MAR 6</a>
 <a href="/instant-coffee/listings/2013-02-28-11-ubc-artist-talk-jakob-jakobsen-mar-6">11. UBC | Artist Talk: Jakob Jakobsen | MAR 6</a>
 <a href="/instant-coffee/listings/2013-02-28-12-western-front-abbas-akhava-mar-6">12. Western Front | Abbas Akhava | MAR 6</a>
 <a href="/instant-coffee/listings/2013-02-28-13-western-front-society-40th-anniversary-auction-preview-mar-6">13. Western Front Society | 40th Anniversary Auction Preview | MAR 6</a>
@@ -61,7 +61,7 @@ of cultural practice is expressed, artistically or otherwise. Created through th
 use of existing video as material in the production of static images, Boisjoly 
 has selected a trio of televised performances retrieved from Youtube by the 
 musicians Pat & Lolly Vegas (Write Me, Baby, 1965), Buffy Sainte-Marie, 
-(Heâ€™s A Keeper Of The Fire, 1969) and Sly & the Family Stone (Thank you, 
+(He’s A Keeper Of The Fire, 1969) and Sly & the Family Stone (Thank you, 
 1970). Each of these videos was played on simple video playback technology 
 placed on a flatbed scanner. During this process the scanner registered the 
 video in motion, creating a distorted and disfigured image where edits become 
@@ -107,12 +107,12 @@ London
 and The Apartment's first exhibition of Vancouver artist Althea Thauberger
 THURSDAY FEBRUARY 28, 8-10pm
 
-Gillian Wearing, Crowd, 2012, color video for monitor 15 mins Â© the 
+Gillian Wearing, Crowd, 2012, color video for monitor 15 mins © the 
 artist, courtesy Maureen Paley, London
 
 GILLIAN WEARING
 ALTHEA THAUBERGER
-Thursday February 28 â€“ April 14
+Thursday February 28 – April 14
 OPENING RECEPTION 8-10PM
 
 The Apartment is pleased to present an exhibition of video work by 
@@ -123,7 +123,7 @@ Gillian Wearing settled in London in 1983 where she studied at the Chelsea
 School of Art and Goldsmiths College, University of London, earning a BFA in 
 1990. Her work explores the differences between public and private life, the 
 individual and society, voyeurism and exhibitionism, and fiction and fact. In its 
-candor and psychological intensity, Wearingâ€™s work extends the traditions of 
+candor and psychological intensity, Wearing’s work extends the traditions of 
 photographic portraiture and has described her methodology as â€œediting lifeâ€ , 
 acknowledging influences such as August Sander, Walker Evans, and Diane 
 Arbus.
@@ -138,22 +138,22 @@ strays from the inner script of its subject. Through enacting her individual
 expressivity in this colour video, a recording of the ritual dancing is performed, 
 a allegory of an individual striking out within a crowd.
 
-Resonating in a similar manner but different in tone Wearingâ€™s newest video, 
+Resonating in a similar manner but different in tone Wearing’s newest video, 
 Crowd (2012), depicts a patch of earth populated by grass and weeds, a few 
-ants crawling around the isolated plot. This living replica of Albrecht DÃ¼rerâ€™s 
-1503 watercolour Great Piece of Turf â€“ Study of Weeds, 2012, is filmed 
-through the dimming and brightening light of the artistâ€™s studio. In conversation 
+ants crawling around the isolated plot. This living replica of Albrecht Dürer’s 
+1503 watercolour Great Piece of Turf – Study of Weeds, 2012, is filmed 
+through the dimming and brightening light of the artist’s studio. In conversation 
 the two works realize a naturalist tableau, a meditation on the staged 
 representation of life, frail but striving.
 
-Solo exhibitions of Gillian Wearingâ€™s work have been organized by the 
+Solo exhibitions of Gillian Wearing’s work have been organized by the 
 Whitechapel Gallery, London (2012), which toured to K20, Kunstsammlung 
 Nordrhein-Westfalen, Dusseldorf (2012), and the Museum Brandhorst, 
 Munich, (opening March 2013), Galleria Civica de Arte Contemporanea di 
 Trento (2007), the Museum of Contemporary Art in Chicago (2003), Sala de 
 Exposiciones de la FundaciÃ³n â€œla Caixaâ€  in Madrid (2001, MusÃ©e dâ€™Art 
 Moderne de la Ville de Paris (2001), Serpentine Gallery in London (2000) and 
-La Centre dâ€™Art Contemporain in Geneva (1998). A major monograph on 
+La Centre d’Art Contemporain in Geneva (1998). A major monograph on 
 Gillian Wearing was published by Ridinghouse to coincide with her 
 retrospective at the Whitechapel Gallery, in 2012.In 1997 she was awarded 
 the Turner Prize. We would like to deeply thank Maureen Paley for her 
@@ -164,13 +164,13 @@ Althea Thauberger, Recovered Gelatin Dry Plates (Unknown American Nudist
 Colony no 8.) ca. 1935/2012
 
 At this time The Apartment will also present an exhibition by Vancouver 
-based artist Althea Thauberger. This will be Thaubergerâ€™s first exhibition with 
+based artist Althea Thauberger. This will be Thauberger’s first exhibition with 
 the gallery.
 
 Althea Thauberger documents people - alone and as groups - who find 
 themselves existing in resonate social conditions. The conflicting social and 
 political prerogatives of the subjects, contexts and apparatuses she works 
-through develop a kind of honesty, criticality and self-reflexivity. The artistâ€™s 
+through develop a kind of honesty, criticality and self-reflexivity. The artist’s 
 practice invites those participating in her works to decide what kind of future 
 they desire to be a part of. Thauberger uses documentary strategies to 
 examine the complex relationship people have with lived experience both 
@@ -185,11 +185,11 @@ the field of these landscapes. The subjects are pictured within a radical
 community, captured in the tentative possibilities of their togetherness as well 
 as its innate limitations. 
 
-Thauberger received her B.F.A from Concordia University, MontrÃ©al in 2000 
+Thauberger received her B.F.A from Concordia University, Montréal in 2000 
 and her M.F.A in Visual Arts from the University of Victoria, Canada in 2002. 
-In the past year, Thaubergerâ€™s works have been presented at the 2012 
-Liverpool Biennial; The Power Plant, Toronto; La MusÃ©e dâ€™art contemporain de 
-MontrÃ©al; Overgaden Institute of Contemporary Art, Copenhagen; PrÃ¡delna, 
+In the past year, Thauberger’s works have been presented at the 2012 
+Liverpool Biennial; The Power Plant, Toronto; La Musée d’art contemporain de 
+Montréal; Overgaden Institute of Contemporary Art, Copenhagen; Prádelna, 
 Bohnice Psychiatric Hospital, Prague; and in numerous sites across the 
 public realm. We would like to extend our gratitude to Susan Hobbs for her 
 assistance with this exhibition.
@@ -202,7 +202,7 @@ Please join us for a OPENING RECEPTION Thursday February 28, 8-10pm
 ------------------------------------------------------------------------
 Wil Aballe Art Projects is pleased to announce Canadian, a new digital print 
 edition by New York-based artist, Aurel Schmidt. Certified editions will be 
-available February 28th, 2013, with 100% of the artistâ€™s proceeds kindly 
+available February 28th, 2013, with 100% of the artist’s proceeds kindly 
 donated to Sierra Club BC.
 
 When: Thursday, February 28, 2013, 7-9 p.m. Print Launch
@@ -233,7 +233,7 @@ Renaissance Dutch master painters, Schmidt utilizes still life to reveal the
 flaws and beauty inherent in contemporary culture. In this case, a pink 
 hollyhock flower in a Molson Canadian can becomes a moment in which the 
 beer can, garbage once emptied, is saved from a state of detritus by a flower 
-in full bloomâ€”a flower that, itself, awaits inevitable decay. Schmidtâ€™s gaze 
+in full bloom—a flower that, itself, awaits inevitable decay. Schmidt’s gaze 
 shifts between beauty and rot, collapsing the lives of the two objects into a 
 poignant moment when both meet and become meaningful, if transitory, 
 partners.
@@ -242,8 +242,8 @@ partners.
 
 Why:
 Sierra Club BC is a non-profit environmental organization whose mission is to 
-protect and conserve British Columbiaâ€™s wilderness, species and 
-ecosystems. They advocate the responsible use of B.C.â€™s natural resources 
+protect and conserve British Columbia’s wilderness, species and 
+ecosystems. They advocate the responsible use of B.C.’s natural resources 
 while promoting a modern, equitable economy that sustains our planet in 
 every way. Sierra Club BC works with different levels of government and First 
 Nations to provide science-based conservation viewpoints and advice on 
@@ -282,13 +282,13 @@ be radical: they are aware that the original frame is itself made up and
 therefore any form of 'break' with it only works to confirm it's power. The 
 foundation of the law is originally 'illegal' from the order that it creates.
 
-This split between frame and content is the founding principle of the â€˜Aesthetic 
-Regime of the Artsâ€™ as Ranciere discusses. It took the history of modern art, 
-from â€˜The Painting of Modern Lifeâ€™ to Dada to Institutional Critique to confirm 
+This split between frame and content is the founding principle of the ‘Aesthetic 
+Regime of the Arts’ as Ranciere discusses. It took the history of modern art, 
+from ‘The Painting of Modern Life’ to Dada to Institutional Critique to confirm 
 this foundational principle. Since this is already known to us, why not relax? 
 The call for change will always win because living with this contradiction would 
 be more unbearable. Can we hear the call and not react? Could this lack of 
-action be the movement weâ€™re looking for?
+action be the movement we’re looking for?
 
 Please join us on March 1, 2013 for a performance by Willie Brisco who will 
 create the stage set for The Part of No Part.
@@ -326,8 +326,8 @@ With work by Betino Assa, Sony Assu, Dean Baldwin, Heather Benning,
 Katie Bethune-Leamen, Jennifer Marman & Daniel Borins, Diane Borsato, 
 Michel de Broin, Adam David Brown, Maryanne Casasanta, John Armstrong 
 and Paul Collins, Michel Daigneault, Maura Doyle, Dave Dyment, Scott 
-Everingham, Janieta Eyre, FASTWÃœRMS, Elisa Julia Gilmour, Sky Glabush, 
-Martin Golland, Jessica Groome, David R. Harper, Iris HÃ¤ussler, Colleen 
+Everingham, Janieta Eyre, FASTWÜRMS, Elisa Julia Gilmour, Sky Glabush, 
+Martin Golland, Jessica Groome, David R. Harper, Iris Häussler, Colleen 
 Heslin, Dil Hildebrand, Robert Houle, Joanne Hui, Instant Coffee, Chris 
 Ironside, Jay Isaac, Patrick Howlett and Kelly Jazvac, Sarah Anne Johnson, 
 Laurie Kang, Andrea Kastner, Eleanor King, JP King, Kristiina Lahde, Maryse 
@@ -357,7 +357,7 @@ Questions? info@cmagazine.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-02-28-05-access-gallery-catherine-pulkinghorn-mar-2">05. Access Gallery | Catherine Pulkinghorn | MAR 2</a>
 ------------------------------------------------------------------------
-Group Effort â€“ Post Occupancy Evaluation: Artist Talk/Project Pitch
+Group Effort – Post Occupancy Evaluation: Artist Talk/Project Pitch
 Catherine Pulkinghorn
 
 March 2, 2013: 2pm @ Access Gallery
@@ -366,7 +366,7 @@ Launching with a talk on March 2nd, artist Catherine Pulkinghorn seeks
 community feedback and participation in an upcoming project.
 
 Driven by her recent experience becoming the owner of a pre-sale 
-condominium in Vancouverâ€™s infamous real estate landscape, Pulkinghorn is 
+condominium in Vancouver’s infamous real estate landscape, Pulkinghorn is 
 inviting sector professionals to collaborate on her Post-Occupancy Evaluation 
 of the property, as well as addressing many questions about the rationale for 
 current development processes.
@@ -429,7 +429,7 @@ UK in 2005 led Corsano to develop an expanded solo music project,
 incorporating sax reeds, violin strings and bows, pot lids, and everyday
 household items into his drum kit. In February 2006 he released his first solo
 album, The Young Cricketer (Hot Cars Warp Records), and toured extensively
-throughout Europe, USA, and Japan. Corsano performed on BjÃƒÂ¶rk's Volta
+throughout Europe, USA, and Japan. Corsano performed on BjÃ¶rk's Volta
 world tour in 2007 and 2008. In 2009, he returned focus to his own projects,
 most notably a duo with Michael Flower, Rangda (with Sir Richard Bishop and
 Ben Chasny) and solo work, now revamped to include synthesizers and
@@ -468,7 +468,7 @@ Monday, March 4, 7pm
 Emily Carr University of Art + Design 
 Room 301, 1399 Johnston Street, Granville Island
 
-Boisjoly is an Aboriginal artist of Haida and QuÃ©bÃ©cois descent based in 
+Boisjoly is an Aboriginal artist of Haida and Québécois descent based in 
 Vancouver, BC. His practice engages the representation of Aboriginality through 
 vernacular materials, photography and especially text-based work combining 
 contemporary craft, pop references and street art with various cultural signifiers 
@@ -494,13 +494,13 @@ have been inviting professors to present on critical theory topics of their
 choice. The seminars are free to the public and all professors are offering their 
 services on a voluntary basis.
 
-March 4th â€“ Dina Al-Kassim
-â€œOf Elephants and Kings: A Seminar on Jacques Derridaâ€™s The Beast and the 
+March 4th – Dina Al-Kassim
+“Of Elephants and Kings: A Seminar on Jacques Derrida’s The Beast and the 
 Sovereign, Vol. Iâ€ 
 
-With the translation of Michel Foucaultâ€™s 1975 seminar Society Must Be 
+With the translation of Michel Foucault’s 1975 seminar Society Must Be 
 Defended in 2003, a new wave of interest in biopolitics, already underway 
-since the appearance in English translation (1998) of Giorgio Agambenâ€™s 
+since the appearance in English translation (1998) of Giorgio Agamben’s 
 Homo Sacer, swept through several fields and established a discrete 
 vocabulary for post 911 actualities and in particular for voices critical of the 
 seeming normalization of refugee status, indefinite detention, torture and other 
@@ -511,23 +511,23 @@ far as to suggest that the â€œstate of exceptionâ€  has become the rule, 
 work in postcolonial studies, critical races studies, feminist philosophy, queer 
 studies, third world cultural studies and literature offers nuanced and complex 
 analyses of life in the margins, analyses that demonstrate the inextricability of 
-state sovereignty and subjectivity. Openly resisting Agambenâ€™s political 
+state sovereignty and subjectivity. Openly resisting Agamben’s political 
 despair, such writing contends that considerations of sovereignty that 
 foreclose or ignore the many forms of subjection (sexual, racial, gendered, 
 religious, class based, to name a few) cannot answer to the demands of 
 description nor can they yield new resources for thought or action. Something 
 of a polemic results, each side claiming its Foucault.
 
-Enter Derridaâ€™s detailed examination of sovereignty and a tradition that 
+Enter Derrida’s detailed examination of sovereignty and a tradition that 
 continually imagines self-possession, knowledge and power through a 
 bestiary of mythical, gifted, foolish, crafty and dangerous animals. 
-Proliferating distinctions that aim to define man from beast, Derridaâ€™s 
+Proliferating distinctions that aim to define man from beast, Derrida’s 
 meandering discourse provides us the means to question the enclosure of 
-Agambenâ€™s approach to the political animal and its biopolitics, which pictures 
+Agamben’s approach to the political animal and its biopolitics, which pictures 
 the human caught in a vast holding pen or state of exception become global in 
 ever more ruthless forms of diminished life. Focusing on the final three 
-sessions of this work (pp. 250-349) we will follow Derridaâ€™s engagement with 
-Agambenâ€™s appropriation of Foucault and augment that discussion through 
+sessions of this work (pp. 250-349) we will follow Derrida’s engagement with 
+Agamben’s appropriation of Foucault and augment that discussion through 
 reference to two short texts: Agambenâ€™s â€œWhat is an Apparatus?â€  and 
 Foucaultâ€™s â€œThe Confessions of the Fleshâ€ .
 
@@ -538,7 +538,7 @@ USA, Middle East and Africa. On Pain of Speech examines ranting as a
 waste product of modern subjectivity. A Peter Wall Institute for Advanced 
 Studies Associate and Associate Faculty at IGRSSJ, Professor Al-Kassim 
 teaches in the English Department at UBC. Publications appear in Grey 
-Room, International Journal of Middle East Womenâ€™s Studies, Public Culture, 
+Room, International Journal of Middle East Women’s Studies, Public Culture, 
 Cultural Dynamics, and the volume Islamicate Sexualities.
 
 Readings:
@@ -553,10 +553,10 @@ Michel Foucault, Confessions of the Flesh
 ------------------------------------------------------------------------
 Hello friends and colleagues,
 
-We're excited to announce an open call for resumÃ©s that we're holding
+We're excited to announce an open call for resumés that we're holding
 until March 5th. All submissions fitting the simple guidelines will be
 hung in an exhibition to be held towards the end of March, details
-forthcoming. We're also accepting video resumÃ©s. The text of the open
+forthcoming. We're also accepting video resumés. The text of the open
 call follows; feel free to participate, suggest that others
 participate, get in touch with us, or spread the word in any way.
 
@@ -569,23 +569,23 @@ http://recessart.com
 
 /////
 
-Weâ€™re all familiar with the challenge of making a resumÃ©. The
-competing goals surrounding resumÃ© building appear to be in
+We’re all familiar with the challenge of making a resumé. The
+competing goals surrounding resumé building appear to be in
 fundamental conﬂict. On the one hand, job seekers are pressed to
 reduce their experiences into quantiﬁable, coherent chunks. They 
 also
 hope to manifest their specific personhood on the page. In both
-content and form, the resumÃ© or curriculum vitae becomes a singular
-portrait of the job seekerâ€™s professional self. As the national wage
+content and form, the resumé or curriculum vitae becomes a singular
+portrait of the job seeker’s professional self. As the national wage
 gap steadily climbs and the creative industry rises in favor of
 industrial capital, the value of everyday citizens becomes inscribed
 evermore by their labour. For Hire explores the methods adopted by job
 seekers to vocalize their professional merit.
 
 To make this exhibition possible, RECESS is seeking page-length
-resumÃ©s from individuals everywhere to be displayed along the walls of
-our space in SE Portland. Weâ€™ll be accepting submissions until March
-5th and weâ€™ll hang all resumÃ©s for an exhibition opening in late
+resumés from individuals everywhere to be displayed along the walls of
+our space in SE Portland. We’ll be accepting submissions until March
+5th and we’ll hang all resumés for an exhibition opening in late
 March. Send physical submissions to:
 
 RECESS
@@ -594,20 +594,20 @@ Portland, OR 97214
 
 For digital submissions, weâ€™re asking for a small donation of ﬁfty
 cents for printing charges which can be made via our Paypal account.
-Please e-mail PDFs to info@recessart.com. Weâ€™ll also be accepting
-video resumÃ©s, contact us for further details. For more information,
+Please e-mail PDFs to info@recessart.com. We’ll also be accepting
+video resumés, contact us for further details. For more information,
 visit www.recessart.com.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-02-28-10-audain-gallery-student-exhibition-things-dont-speak-themselv">10. Audain Gallery | Student exhibition: Things Donâ€™t Speak Themselves | MAR 6</a>
+<a href="/instant-coffee/listings/2013-02-28-10-audain-gallery-student-exhibition-things-dont-speak-themselv">10. Audain Gallery | Student exhibition: Things Don’t Speak Themselves | MAR 6</a>
 ------------------------------------------------------------------------
-Exhibition: March 7 â€“ March 16, 2013
-Opening Reception: March 6, 7 pm â€“ 10 pm
+Exhibition: March 7 – March 16, 2013
+Opening Reception: March 6, 7 pm – 10 pm
 Gallery Tours: March 7, 1:30pm and March 14, 5:30pm
 Panel Discussion: March 14, 1pm-2:30pm @ 611 Alexander St. Room 330, 
 3rd floor
 
-Things Donâ€™t Speak Themselves is an exhibition of new works by visual art 
+Things Don’t Speak Themselves is an exhibition of new works by visual art 
 students from the School for the Contemporary Arts at Simon Fraser 
 University. Through sculpture, installation, multimedia, and painting, the works 
 in the exhibition explore notions of connectivity and narrative. Fostering the 
@@ -626,7 +626,7 @@ Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
 149 West Hastings
-Tuesday â€“ Saturday, 12 â€“ 6 pm
+Tuesday – Saturday, 12 – 6 pm
 info@audaingallery.ca
 778-782-9102
 www.audaingallery.ca
@@ -684,12 +684,12 @@ Travelling flora, an absent tamer, a fine layer of dust and a visitor remains.
 
 Abbas Akhavan currently lives and works in Toronto. His practice ranges from 
 site-specific ephemeral installations to drawing, video and performance. The 
-domestic sphere has been an ongoing research in Akhavanâ€™s work. Earlier 
+domestic sphere has been an ongoing research in Akhavan’s work. Earlier 
 works explore the relationship between the house and nation state and how 
 the trauma and systemic violence enacted upon civilians can be inherited and 
-re-enacted within the family lineage â€“ the home as a forked space between 
+re-enacted within the family lineage – the home as a forked space between 
 hospitality and hostility. More recent works have shifted focus onto spaces 
-just outside the home â€“ the garden, the backyard, and other domesticated 
+just outside the home – the garden, the backyard, and other domesticated 
 landscapes. Akhavan was the recipient of the Berlin Kunstpreis 2012. 
 Our Art Auction Preview will be held on the same evening upstairs in the Luxe 
 Hall. 
@@ -774,7 +774,7 @@ New works by Wendy Batemen
 Where words can be temporary, finding a voice as a woman in a world that 
 moves quickly can be challenging. With a needle and thread, Bateman 
 chooses to deliberately and slowly say things that might easily be lost in 
-newsfeeds. She says it with humor and grace. Which, if youâ€™re going to 
+newsfeeds. She says it with humor and grace. Which, if you’re going to 
 anything, ought to begin there. 
 
 Wendy Bateman is from the prairies and now lives in Vancouver. She has had 
@@ -838,20 +838,20 @@ dynamoarts.org
 Gallery Gachet presents
 Drawuary: Not A Day Goes By
 Curated by Gabrielle Hill
-March 8th â€“ April 7th, 2013
-Opening night: Friday March 8th, 7 â€“ 11pm
+March 8th – April 7th, 2013
+Opening night: Friday March 8th, 7 – 11pm
 
 Vancouver, BC, This February eighteen artists converge for the fourth annual 
 Drawuary, a project in which each contributing artist makes a drawing a day 
 for the entire month of February. Drawuary is an exercise in limitations, 
 abundance, ambitions, failure, and success. Drawuary will culminate in an 
 ambitious exhibition of each and every drawing made during the month. 
-Always impressive in scope and scale, this yearâ€™s exhibit will feature close to 
+Always impressive in scope and scale, this year’s exhibit will feature close to 
 500 drawings by some truly awesome and driven emerging, underground 
 artists. Drawuary: Not A Day Goes By opens at Gallery Gachet March 8th, 
 2013 and runs until April 7th.
 
-This yearâ€™s Drawuary artists include Ron Solonas, Jonny Peterson, Aaron 
+This year’s Drawuary artists include Ron Solonas, Jonny Peterson, Aaron 
 Rossner, Morag Kydd, Legs, Peter Morin, Spencer Keeton Cunningham, Evan 
 Sabourin, Jeska Slater, Brennan Kelly, Gabe Hill, Jesse Corcoran, Chloe 
 Gammon, Nizhoni Ellenwood, Syvia Munson, Bernadine Fox, Luey Mcquaid 
@@ -874,7 +874,7 @@ In the past two years there has been a substantial rise in the visibility of
 protest movements, often specifically local in their demands yet global in their 
 implications and consequences. From the ongoing social uprisings 
 addressing democracy in the Middle East, to the concerns with direct 
-democracy in the QuÃ©bec student strike, to growing protests against austerity 
+democracy in the Québec student strike, to growing protests against austerity 
 measures in Europe, and the Idle No More movement here in Canada, the 
 subjects of protest are numerable and varied. In scale, location and ideology, 
 struggle is driven by individual desires as much as by multitudinous subjects 
@@ -907,10 +907,10 @@ RESONATING EXISTENT(S)
 Location: AHVA Gallery (#112), Koerner Library,
 
 Participating artists include:
-Marilou Andre, Carlos ColÃ­n, Britta Fluevog, Guadalupe Martinez, Roy 
-Meuwissen, Jason Oâ€™Hara, Sarah Shamash, Tristan Sober-Blodgett
+Marilou Andre, Carlos Colín, Britta Fluevog, Guadalupe Martinez, Roy 
+Meuwissen, Jason O’Hara, Sarah Shamash, Tristan Sober-Blodgett
 
-Closing Reception: March 8th, 4:00 â€“ 6:00 pm with a performance by the Git 
+Closing Reception: March 8th, 4:00 – 6:00 pm with a performance by the Git 
 Hayetsk Dancers
 
 Resonating Existent(s), in conjunction with the 36th Annual UBC Art History 
@@ -927,7 +927,7 @@ with the stories of the individuals and groups that wield them. As with any
 assertion of agency and claim to politically legitimized existence, valid 
 questions about the use of imagery, the language of resistance or the 
 branding of protest, are foregrounded. Resonating Existent(s) addresses 
-these inseparable strands of protest, while speaking to our own Universityâ€™s 
+these inseparable strands of protest, while speaking to our own University’s 
 geographic location on non-ceded Musqueam land, asking us to investigate 
 the many histories that are interwoven into every act of protest.
 
@@ -935,7 +935,7 @@ The 36th Annual UBC Art History Graduate Symposium Committee proudly
 thank our donors for their generous contributions: Audain Endowment for 
 Curatorial Studies, Canadian Studies Program (UBC), Department of Art 
 History, Visual Art and Theory (UBC), Department of History (UBC), Faculty 
-of Graduate Studies Deanâ€™s Office (UBC), First Nations Studies Program 
+of Graduate Studies Dean’s Office (UBC), First Nations Studies Program 
 (UBC), Morris and Helen Belkin Art Gallery, Museum of Anthropology (UBC).
 
 For more information please visit http://www.ahva.ubc.ca
@@ -968,7 +968,7 @@ predicting future selves.
 Todd Evanger is an interdisciplinary artist living and working in Vancouver. He 
 recently graduated from the Emily Carr University of Art & Design and is 
 currently a master of fine arts candidate in the department of art history, visual 
-art and theory at the University of British Columbia. Evangerâ€™s current 
+art and theory at the University of British Columbia. Evanger’s current 
 research explores the gendered body and the possible ways in which 
 heteronormativity and hegemonic masculinity dominate discourse within visual 
 culture.
@@ -1054,7 +1054,7 @@ THE STORYBOARD LABEL
 SBL is a loosely formulated art and music collective in Vancouver, BC. 
 www.storyboardlabel.com
 
-Copyright Â© 2013 Storyboard Label, All rights reserved. 
+Copyright © 2013 Storyboard Label, All rights reserved. 
 Somehow you ended up on this list, if you want off, please unsubscribe. 
 
 Our mailing address is: 
@@ -1089,7 +1089,7 @@ expanded her creative work to include writing and painting.
 
 This commission is curated by Cease Wyss, a Skwxumesh media artist from 
 the village of Sla7an in North Vancouver, and a past recipient of the Vancouver 
-Mayorâ€™s Arts Award for media art.
+Mayor’s Arts Award for media art.
 
 UNIT/PITT Projects | 15 East Pender Street, Vancouver BC Canada V6A 1S9 
 | +1 604 681 6740 | www.unitpitt.ca
@@ -1233,8 +1233,8 @@ For further information on Access Gallery, please visit www.vaarc.ca
 ------------------------------------------------------------------------
 Chrysalis Zine is looking for submissions for Issue 4. 
 
-The theme for Issue 4 will beâ€¦
-hisÂ·toÂ·ries
+The theme for Issue 4 will be…
+his·to·ries
 noun [his-tuh-rees, his-trees] plural of hisÂ·toÂ·ry
 the branch of knowledge dealing with past events.
 a continuous, systematic narrative of past events as relating to a particular 
@@ -1278,32 +1278,32 @@ curators of all genders.
 Please consult our website at www.lacentrale.org for our mandate, gallery 
 plans and submission guidelines.
 Two deadlines per year: October 15th & March 15th
-Depuis 40 ans, La Centrale accueille des pratiques aristiques fÃ©ministes et 
-sous-rÃ©prÃ©sentÃ©es. Nous sommes un centre dâ€™artistes qui offre une 
-plateforme pour les langages en art actuel portÃ©s par les discours fÃ©ministes, 
-les thÃ©ories du genre, ainsi que les pratiques interculturelles et 
+Depuis 40 ans, La Centrale accueille des pratiques aristiques féministes et 
+sous-réprésentées. Nous sommes un centre d’artistes qui offre une 
+plateforme pour les langages en art actuel portés par les discours féministes, 
+les théories du genre, ainsi que les pratiques interculturelles et 
 transdisciplinaires. Nous invitons les artistes et commissaires de tous les 
-genres Ã  soumettre des projets dâ€™exposition liÃ©es Ã  notre mandat. 
-Veuillez consulter notre site web www.lacentrale.org pour le mandat dÃ©taillÃ©, 
-les plans de la galerie ainsi que les modalitÃ©s de soumission.
-Deux date limites par annÃ©e: 15 octobre et le 15 mars
+genres à soumettre des projets d’exposition liées à notre mandat. 
+Veuillez consulter notre site web www.lacentrale.org pour le mandat détaillé, 
+les plans de la galerie ainsi que les modalités de soumission.
+Deux date limites par année: 15 octobre et le 15 mars
 
 Send your dossier to the attention of:
-Envoyez votre dossier Ã  lâ€™attention de:
-ComitÃ© Programmation
+Envoyez votre dossier à l’attention de:
+Comité Programmation
 LA CENTRALE
 4296 Boulevard Saint-Laurent
-MontrÃ©al, QuÃ©bec.
+Montréal, Québec.
 H2W 1Z3, Canada
 
-Ou par / or by DROPBOX Ã  dossiers@lacentrale.
+Ou par / or by DROPBOX à dossiers@lacentrale.
 
 Jen Fisher
 Coordonnatrice artistique
 
 LA CENTRALE
 4296 boul. Saint-Laurent
-MontrÃ©al, QuÃ©bec
+Montréal, Québec
 H2W 1Z3
 514.871.0268
 programmation@lacentrale.org
@@ -1315,7 +1315,7 @@ programmation@lacentrale.org
 Title: Workshop Our Land
 Where: Ross Creek Centre for the Arts, 555 Ross Creek Road, Canning NS, 
 B0P 1H0, Box 190
-When: September â€“ October, 2013
+When: September – October, 2013
 Website: www.artscentre.ca
 Contact: programs@artscentre.ca
 DEADLINE: March 15th, 2013
@@ -1325,7 +1325,7 @@ Centre for the Arts during this new collaborative residency opportunity. We are
 asking artists of any medium to apply to this residency program where, for 1 
 month, a group of artists will live and create together in the Ross Creek 
 landscape. Artists will live together on site in a cottage-style farm house and 
-have 24 hour access to the centreâ€™s facilities and the 180 acres of land that 
+have 24 hour access to the centre’s facilities and the 180 acres of land that 
 surround the centre to make art. Artists will be asked to commit to some 
 work on our organic garden and to offer art workshops in their medium of 
 choice during their stay. 
@@ -1337,11 +1337,11 @@ Lindsay Ann Cory, M.A. Art History, Concordia University
 Community Outreach and Artist Program Coordinator
 Ross Creek Centre for the Arts
 Mobile: 902.698.1777, Phone: 902.582.3842, Fax: 902.582.7943
-Box 190 â€¢ 555 Ross Creek Road â€¢ Canning â€¢ NS â€¢ B0P 1H0
+Box 190 • 555 Ross Creek Road • Canning • NS • B0P 1H0
 www.artscentre.ca
 
 The Ross Creek Centre for the Arts is a multi disciplinary arts education and 
-development centre based on 178 acres of farm and forest in Nova Scotiaâ€™s 
+development centre based on 178 acres of farm and forest in Nova Scotia’s 
 Annapolis Valley. Our facilities and programs are designed to serve the 
 artistic and cultural communities of Nova Scotia, of Canada, and of the world, 
 with a focus on professional artist development, youth education and 
@@ -1354,7 +1354,7 @@ Arts . Passion . Wonder
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-02-28-27-spark-box-studio-residency-call-mar-31">27. Spark Box | Studio Residency Call | MAR 31</a>
 ------------------------------------------------------------------------
-Spark Box Studio Residency Call â€“ for artists of all kinds who want to get 
+Spark Box Studio Residency Call – for artists of all kinds who want to get 
 away from their everyday and make some damn art.
 Ongoing Application 
 1 Week - 2 Months
@@ -1466,12 +1466,12 @@ interesting.
 How to apply: All applications must be received by Friday, March 1,
 2013 at 5:00pm
 
-If you believe that you are a good fit for us, and weâ€™re a good fit
+If you believe that you are a good fit for us, and we’re a good fit
 for you, please mail or email your resume and cover letter in
 confidence to:
 
 grunt gallery
-#116 â€“ 350 East 2nd Avenue
+#116 – 350 East 2nd Avenue
 Vancouver, BC
 V5T 4R8
 

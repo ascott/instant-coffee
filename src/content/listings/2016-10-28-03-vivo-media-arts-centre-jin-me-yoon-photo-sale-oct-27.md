@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interview with the vampire"
 emailDate: "Thu, 27 Oct 2016 18:40:17 -0700"
 number: 3
 type: "FUNDRAISER"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Jin-me Yoon Photo Sale | OCT 27"
 ---
 

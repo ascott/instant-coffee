@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 5
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Video Out on IGTV | refahmation by nicola awang | JUN 18"
 ---
 

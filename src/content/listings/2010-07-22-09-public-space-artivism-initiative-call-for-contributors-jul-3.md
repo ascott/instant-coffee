@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 9
 type: ""
+venue: "Public Space ARTivism Initiative"
 summary: "Public Space ARTivism Initiative | Call for Contributors | JUL 30"
 ---
 

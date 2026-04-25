@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 25
 type: "TALK"
+venue: "SFU Harbour Centre"
 summary: "SFU Harbour Centre | Josh Lepawsky | OCT 20"
 ---
 

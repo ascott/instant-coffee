@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 15
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Devin Ronneberg & Ido Radon: Inhuman // Alien | AUG 12"
 ---
 

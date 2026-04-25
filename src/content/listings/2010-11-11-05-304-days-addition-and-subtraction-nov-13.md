@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 5
 type: ""
+venue: "304 days"
 summary: "304 days | ADDITION AND SUBTRACTION | NOV 13"
 ---
 

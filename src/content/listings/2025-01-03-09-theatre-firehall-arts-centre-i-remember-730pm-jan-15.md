@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 9
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Firehall Arts Centre | I remember…| 730PM | JAN 15"
 ---
 

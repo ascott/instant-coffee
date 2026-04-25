@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 24
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Vancouver International Dance Festival | March 5-15 | MAR 5"
 ---
 

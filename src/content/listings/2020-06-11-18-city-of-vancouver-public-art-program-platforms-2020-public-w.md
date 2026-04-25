@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 18
 type: "CALL"
+venue: "City of Vancouver, Public Art Program"
 summary: "City of Vancouver, Public Art Program | Platforms 2020: Public Works | JUL 7"
 ---
 

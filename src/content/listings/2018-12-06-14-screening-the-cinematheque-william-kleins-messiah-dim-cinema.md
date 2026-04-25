@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 14
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | William Klein's Messiah | DIM Cinema | 7:30 pm | DEC 12"
 ---
 

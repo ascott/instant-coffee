@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 31
 type: ""
+venue: "Gordon Smith Gallery of Canadian Art"
 summary: "Gordon Smith Gallery of Canadian Art | Carving with Cameron Kerr | APR 12"
 ---
 

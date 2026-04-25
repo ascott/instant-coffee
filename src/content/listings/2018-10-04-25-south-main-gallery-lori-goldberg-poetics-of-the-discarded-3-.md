@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 25
 type: "OPENING"
+venue: "South Main Gallery"
 summary: "South Main Gallery | Lori Goldberg: Poetics of the Discarded | 3-6PM | OCT 13"
 ---
 

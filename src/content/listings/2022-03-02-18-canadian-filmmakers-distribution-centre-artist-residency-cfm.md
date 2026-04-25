@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 18
 type: "CALL"
+venue: "Canadian Filmmakers Distribution Centre"
 summary: "Canadian Filmmakers Distribution Centre | Artist Residency: CFMDC + Archive/Counter-Archive | MAR 20"
 ---
 

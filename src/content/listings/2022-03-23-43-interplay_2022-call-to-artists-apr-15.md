@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 43
 type: "CALL"
+venue: "interplay_2022"
 summary: "interplay_2022 | Call to Artists | APR 15"
 ---
 

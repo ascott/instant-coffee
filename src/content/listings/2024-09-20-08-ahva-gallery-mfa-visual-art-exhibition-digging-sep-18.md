@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 8
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | MFA Visual Art Exhibition: Digging | SEP 18"
 ---
 

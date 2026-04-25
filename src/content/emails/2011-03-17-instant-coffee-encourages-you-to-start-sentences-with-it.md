@@ -29,7 +29,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-03-17-17-the-robson-reading-series-suzanne-bufffam-derek-lundy-mar-24">17. THE ROBSON READING SERIES | SUZANNE BUFFFAM & DEREK LUNDY | MAR 24</a>
 <a href="/instant-coffee/listings/2011-03-17-18-helen-pitt-gallery-weekend-leisure-public-access-1999-and-be">18. Helen Pitt Gallery | Weekend Leisure | PUBLIC ACCESS: 1999 AND BEYOND | MAR 25</a>
 <a href="/instant-coffee/listings/2011-03-17-19-south-hill-public-art-plan-committee-call-for-artists-mar-25">19. South Hill Public Art Plan Committee | Call for Artists | MAR 25</a>
-<a href="/instant-coffee/listings/2011-03-17-20-uwo-call-for-artists-online-contributions-mar-29">20. UWO | Call for artistsâ€™ online contributions | MAR 29</a>
+<a href="/instant-coffee/listings/2011-03-17-20-uwo-call-for-artists-online-contributions-mar-29">20. UWO | Call for artists’ online contributions | MAR 29</a>
 <a href="/instant-coffee/listings/2011-03-17-21-langara-college-digital-natives-speaker-series-lorna-brown-m">21. Langara College | Digital Natives | Speaker series: Lorna Brown | MAR 30</a>
 <a href="/instant-coffee/listings/2011-03-17-22-city-of-abbotsford-public-art-forum-cath-brunner-and-buster-">22. City of Abbotsford | PUBLIC ART FORUM: Cath Brunner and Buster Simpson | APR 6</a>
 <a href="/instant-coffee/listings/2011-03-17-23-vivo-workshops-master-class-performance-art-video-apr-9">23. VIVO Workshops | MASTER CLASS: PERFORMANCE ART / VIDEO | APR 9</a>
@@ -44,22 +44,22 @@ instant coffee listings / send us your art posts for free
 
 
 2233 Granville Street, Vancouver BC
-Closing Reception: Wednesday, March 30, 7pm â€“ 9pm
+Closing Reception: Wednesday, March 30, 7pm – 9pm
 
 The Hammock Residency and Balcone present 2233, a new public installation
 by Byron Peters.
 
 2233 engages the production of space through the closure of space; it is a
 parafiction that employs emptiness as substance and reactions as material.
-This project stands in opposition to Vancouverâ€™s recent failures to provide
+This project stands in opposition to Vancouver’s recent failures to provide
 adequate social housing and it presents contradictions within class,
 ethics, survival and time. 2233 complicates the symbolic use of benevolence
-and social capital as aggression by reflecting the Cityâ€™s politics of
+and social capital as aggression by reflecting the City’s politics of
 representation.
 
 Byron Peters is a Vancouver-based artist. He is currently an artist in
 residence at The Hammock Residency and is a member of LMPC (The Lower
-Mainland Painting Co.), Coupe Lâ€™Ã©tat, VANACT and the music projects Amor de
+Mainland Painting Co.), Coupe L’état, VANACT and the music projects Amor de
 Cosmos, Riddley Walker, Glass Armonica and The Volunteer Ecstatic Orchestra.
 
 Balcone and Hammock Residency gratefully acknowledge the support of the
@@ -185,7 +185,7 @@ conversations that are open to the public.
 Thursday, March 17th's topic will be "Artists Working for Artists"
 
 The LMPC is interested in learning more about the experience of artists who
-are employed as Artistâ€™s assistants, technicians and fabricators. How do
+are employed as Artist’s assistants, technicians and fabricators. How do
 artists experience and negotiate a job which includes helping to realize
 other artist's work? How do they measure the value of one labor against the
 other, and in what ways do authorship and ownership affect their
@@ -291,7 +291,7 @@ We are excited to announce the release of a new issue of #3. #3 is an
 independent community supported arts journal published quarterly in a
 freely available digital edition.
 
-â€œThe role of #3 has always been to bring artists and theorists together
+“The role of #3 has always been to bring artists and theorists together
 into dialogues on a broad range of aesthetic and social subjects. The role
 of its editors is as orchestrators of these discussions; curators in a
 gallery of images and words. While this may have been the proud ideal for
@@ -308,12 +308,12 @@ This issue is built around three chapters
 
 Contributors to this issue include: photographers and artists Laura
 Letinsky, Hans-Peter Feldmann, Simon Norfolk, Broomberg & Chanarin, Chloë
-Ã˜stmo, Chris Biddy and Bumi Thomas; the filmmaker Wanuri Kahiu; the
+Østmo, Chris Biddy and Bumi Thomas; the filmmaker Wanuri Kahiu; the
 Guantonomo trials courtroom illustrator Janet Hamlin; as well as noted
 academics and critics Lindiwe Dovey, Julian Stallabrass, Ken Harrow,
 Sylvester Ogbechie, and Don Omope.
 
-The issue also includes extracts from Dostoyevskyâ€™s The Brothers Karamazov,
+The issue also includes extracts from Dostoyevsky’s The Brothers Karamazov,
 a re-publication of the partial court transcript featuring the testimony of
 Allen Ginsberg and Norman Mailer during the Boston-based obscenity trial of
 Naked Lunch, and extracts from a talk given by Slavoj Zizek courtesy of the
@@ -399,7 +399,7 @@ Urban Subjects Residency and Emergent Exhibition
 Friday March 18 2011, Opening 7-11pm, Screening 8pm, Talk 8:30pm
 1965 Main St. Vancouver www.vivomediaarts.com
 
-Exhibition of new works, produced in residence, â€œBut life is not changed
+Exhibition of new works, produced in residence, “But life is not changed
 magically by a poetic actâ€  and screening of "Living Mega-Structures"
 (2003/2004). Urban Subjects, Ivan Drury and Amy Kazymerchyk will hold a
 discussion on ideas of neigbourhood and urban self-management, and about
@@ -433,14 +433,14 @@ Part of
 
 602,000: WORKS ON HOUSING
 Urban Subjects Residency and Emergent Exhibition
-February 25â€“ April 29 2011
+February 25– April 29 2011
 Gallery hours Tuesday-Saturday 12-5pm
 
 In 1969 an exhibition of conceptual works, curated by Lucy Lippard for the
 Vancouver Art Gallery, took the population of Greater Vancouver, then
-955,000, as its title. Forty-one years later, Urban Subjectsâ€™ exhibition,
+955,000, as its title. Forty-one years later, Urban Subjects’ exhibition,
 602,000 refers to the median house price in Greater Vancouver in 2010. Just
-as Lippardâ€™s title tallied something abstractly human in the representation
+as Lippard’s title tallied something abstractly human in the representation
 of the city, 602,000 reflects the very human relations of housing, the
 transformation of public space, and artistic practices.
 
@@ -448,8 +448,8 @@ The video works in 602,000 formally represent housing and domestic space as
 integral to public space. Moving from the scale of the body to
 transnational spaces of movement, these videos carefully build an aesthetic
 argument that housing is central to the right to the city. These
-worksâ€”located in Vienna and Bratislava, Madrid, Caracas, and the
-Netherlandsâ€” show housing and dwelling are spatial and public acts. A new
+works—located in Vienna and Bratislava, Madrid, Caracas, and the
+Netherlands— show housing and dwelling are spatial and public acts. A new
 video work from the neighbourhood of Gramoven in Caracas compellingly
 illustrates how the urban community councils have established autogestion
 (or self-management) in all spheres of daily life.
@@ -526,9 +526,9 @@ to unsubscribe please reply with unsubscribe in the subject line, thank you
 Secondary Information:
 The Persistence and Absence of Criticism
 
-Saturday, March 19, 2â€“4 pm
+Saturday, March 19, 2–4 pm
 3191 Mission Street
-Queenâ€™s Nails Projects
+Queen’s Nails Projects
 San Francisco, CA 94110
 
 Fillip, Triple Canopy, and Queen's Nails invite you to Secondary
@@ -542,7 +542,7 @@ Secondary Information brings together a small group of Bay Area writers and
 editors for a discussion with the editors of Fillip (Vancouver, BC) and
 Triple Canopy (New York, Los Angeles) about the numerous vehicles for, and
 approaches to, art criticism today, considering their value and
-significance vis-Ã -vis a spectrum of temporal and spatial contexts and
+significance vis-à-vis a spectrum of temporal and spatial contexts and
 engagements. How has the decentralization of publishing and the
 fragmentation of readerships affected art criticism? How are critical
 public spaces constituted around various forms of publication, whether
@@ -553,7 +553,7 @@ be, the role of criticism in relation to the speculative global art market
 and its preternatural ability to absorb, or cannibalize, oppositional
 discourses?
 
-This discussion will take as points of departure Fillip and Artspeakâ€™s
+This discussion will take as points of departure Fillip and Artspeak’s
 Judgment and Contemporary Art Criticism book and forum (2009) and related
 texts, as well as Print and Demand, Triple Canopy's ongoing series of
 conversations about how print culture is being changed by the manifold
@@ -601,7 +601,7 @@ Kristina Lee Podesva is a Vancouver-based artist and writer, and editor of
 Fillip. Her works and writing have appeared in exhibition and publication
 projects throughout Canada, the United States, and Europe. Her writing has
 been published in Fillip and Bidoun, as well as in books such as Judgment
-and Contemporary Art Criticism, Komma (after Dalton Trumboâ€™s Johnny Got His
+and Contemporary Art Criticism, Komma (after Dalton Trumbo’s Johnny Got His
 Gun), and 100% Vancouver.
 
 Alexander Provan is a writer living in Brooklyn. He is the editor of the
@@ -611,7 +611,7 @@ has appeared in the Nation, the Believer, n+1, GQ, and Bookforum.
 Triple Canopy is an online magazine, workspace, and platform for editorial
 and curatorial activities. Working collaboratively with writers, artists,
 and researchers, Triple Canopy facilitates projects that engage the
-Internetâ€™s specific characteristics as a public forum and as a medium, one
+Internet’s specific characteristics as a public forum and as a medium, one
 with its own evolving practices of reading and viewing, economies of
 attention, and modes of interaction. In doing so, Triple Canopy is charting
 an expanded field of publication, drawing on the history of print culture
@@ -690,8 +690,8 @@ that inspired them. Each one is a verb: an action describing the ways we
 encounter and experience the city, as well as how we might envision it anew.
 
 This exhibition brings together more than forty recent projects from
-various disciplinesâ€”architecture and design, art and visual culture,
-literature and activismâ€”that are produced in Vancouver and reflect uniquely
+various disciplines—architecture and design, art and visual culture,
+literature and activism—that are produced in Vancouver and reflect uniquely
 on the city. Individual or collective, they are realized by people who
 propose new ways we might inhabit this place. The exhibition title refers
 to the multiple perspectives that make up the pronoun â€œwe,â€  reflecting the
@@ -710,9 +710,9 @@ Howe St
 
 10 dollars 50 cents, regular / 9 dollars, seniors and students
 
-In conjunction with the Vancouver Art Galleryâ€™s exhibition WE: Vancouver â€“
+In conjunction with the Vancouver Art Gallery’s exhibition WE: Vancouver –
 12 Manifestos for the City, Vancouver writer and critic Michael Turner
-presents a special screening of SKIP TRACER, Zale Dalenâ€™s legendary 1977
+presents a special screening of SKIP TRACER, Zale Dalen’s legendary 1977
 feature about a repo man, shot on location in Vancouver and Richmond. Also
 on the program are two shorts by Turner, followed by a Question and Answer
 period and discussion.
@@ -725,12 +725,12 @@ understanding of the reality of the city with its filmic representation.
 Indeed, there is a perceived anxiety about a city that spends more time
 standing in for other cities than it does in â€œplayingâ€  itself. Turnerâ€™s
 extensive research into film in Vancouver comprises one aspect of the
-cityâ€™s past that continues to resonate today: its filmic image that is
+city’s past that continues to resonate today: its filmic image that is
 projected beyond the city boundaries to elsewhere.
 
 Turner is a Vancouver-based writer of fiction, criticism and song, and
 founder of Arsenal Pulp Press. Recent publications include 8x10 and The
-Pornographerâ€™s Poem. Turner has also worked in collaboration with artist
+Pornographer’s Poem. Turner has also worked in collaboration with artist
 Stan Douglas on two experimental-video screenplays, titled Journey Into
 Fear (Istanbul Biennial, 2001) and Suspiria (Documenta XI, 2002), as well
 as on a screenplay with filmmaker Bruce LaBruce, titled Untitled Von
@@ -836,7 +836,7 @@ Think Tank brings together Creators and a Public to engage in an
 interdisciplinary exchange of ideas, problem solving and mutual aid. A
 visiting presenter - perhaps an artist, an educator, a community organizer
 - meets with a room full of guests and poses a question, presents a work in
-progress, or reveals a particular challenge theyâ€™re facing in their work .
+progress, or reveals a particular challenge they’re facing in their work .
 By transforming a traditional â€œartist talkâ€  into a non-linear dialogical
 space, Think Tank hopes to reveal the potential resources to be found
 through transparency, questioning and communing with people both inside and
@@ -879,7 +879,7 @@ The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 Day for Night: Films in the Afternoon presents a dreamy double bill:
 Days of Heaven (1978) and Man on Wire (2008)
 
-â€œNobodyâ€™s perfect. There was never a perfect person around. You just
+“Nobody’s perfect. There was never a perfect person around. You just
 have half-angel, half-devil in you.â€  - Linda Manz in Days of Heaven
 
 Following February's screening of Terrence Malick's Badlands (1973),
@@ -895,7 +895,7 @@ sister (Linda Manz of Dennis Hopper's Vancouver-shot Out of the Blue)
 flee by rail to the countryside of the Texas panhandle. They find work
 harvesting wheat in the fields of a stoic farmer (Sam Shepard). A love
 triangle ensues followed by the drama of a swarm of locusts, a hellish
-fire and, ultimately, another unintended murder â€“ Malick captures it
+fire and, ultimately, another unintended murder – Malick captures it
 all with dreamlike authenticity, creating a timeless, gritty picture
 of the American west at the turn of the century.
 
@@ -913,7 +913,7 @@ Terrence Malick's remarkably rich second feature is a story of human
 lives touched and passed over by the divine, told in a rush of
 stunning and precise imagery. Nestor Almendros's cinematography is as
 sharp and vivid as Malick's narration is elliptical and enigmatic. The
-result is a film that hovers just beyond our graspâ€”mysterious,
+result is a film that hovers just beyond our grasp—mysterious,
 beautiful, and, very possibly, a masterpiece. - The Chicago Reader
 
 93 minutes
@@ -986,14 +986,14 @@ The Vancouver Symphony Orchestra, VSO Assistant Conductor Pierre Simard,
 and Composer-in-Residence Scott Good are pleased to present the 2011 Jean
 Coulthard Readings. Named in honour of one of BC's most beloved composers,
 the Jean Coulthard Readings feature the award-winning VSO reading the works
-of exciting new composers on Vancouverâ€™s contemporary classical scene.
+of exciting new composers on Vancouver’s contemporary classical scene.
 Seven orchestral works have been selected, by the following composers:
 Paul Donghoon Lee (The Persistence of Memory), Elliot Vaughan (Smash
-Smash), Jared Richardson (Riders of the West), James Oâ€™Callaghan (Mouths),
+Smash), Jared Richardson (Riders of the West), James O’Callaghan (Mouths),
 Livia Gho (Hymn Tunes), Roydon Tse (Three Musings and a Dance, Op. 2) and
 John Joseph Kastelic (below a cloud).
 
-Monday, March 21, 2011 â€“ 10 a.m. to 1 p.m. at the Orpheum Theatre
+Monday, March 21, 2011 – 10 a.m. to 1 p.m. at the Orpheum Theatre
 Admission is FREE.
 
 601 Smithe Street, Vancouver, BC, V6B 5G1
@@ -1007,16 +1007,16 @@ T: 604.684.9100 (264) F: 604.684.9264 C: 778.987.3283
 ------------------------------------------------------------------------
 Catriona Jeffries Gallery is pleased to announce an exhibition of new work
 by Arabella Campbell. Working across painting, sculpture and photography,
-the work in the exhibition is directed by Campbellâ€™s persistent curiosity
+the work in the exhibition is directed by Campbell’s persistent curiosity
 in the material conditions of abstraction and the paradoxes created by the
 slightest shifts in context and surrounding details of time and place.
 
 In this new body of work Campbell maintains her investigation into the
 fundamental precepts of painting and the physical circumstances of the
 spaces in which art is conceived, produced and displayed. Loosely
-appropriating the geometry produced by Dan Flavinâ€™s Untitled (Marfa
+appropriating the geometry produced by Dan Flavin’s Untitled (Marfa
 Project) at the Chinati Foundation in Marfa, Texas, Campbell stratifies the
-experience of light created by Flavinâ€™s installation into a series of
+experience of light created by Flavin’s installation into a series of
 paintings, installed as a sculptural arrangement of leaned canvases. This
 spatial composition of serial paintings is then layered further through a
 grid of scans of the paintings themselves, creating another system whereby
@@ -1035,12 +1035,12 @@ through the edges of the photograph and the dense backdrop of trees,
 indicating again to her considered curiosity in making interventions into
 existing orders. The photographic device of framing appears in another
 image of a house floating on the Pacific ocean. Guiding our attention to a
-beautiful rectilinear window in the houseâ€™s wood shingled exterior, the
+beautiful rectilinear window in the house’s wood shingled exterior, the
 photograph creates an aesthetic puncture of the frame within the pictorial,
-reminiscent of Campbellâ€™s photographs of fishing symbols found along the
+reminiscent of Campbell’s photographs of fishing symbols found along the
 West Coast. Within the space of the gallery itself, Campbell enacts a
 literal geometric puncture through the removal and displacement of a
-portion of her studio wall into a gallery wall, while the green painterâ€™s
+portion of her studio wall into a gallery wall, while the green painter’s
 tape she has previously used to mark the top edge of a painting has now
 been released off the painting to be adhered directly to the wall,
 producing a painterly apparition.
@@ -1067,9 +1067,9 @@ or Anne Low at +1 604 736 1554.
 Forthcoming Exhibitions
 
 Robert Kleyn, Works 1969-1983
-19 May â€“ 25 June 2011
+19 May – 25 June 2011
 
-Art Basel 15 â€“ 19 June 2011
+Art Basel 15 – 19 June 2011
 Contact us
 
 www.catrionajeffries.com
@@ -1094,9 +1094,9 @@ introduces us to a Chaplinesque literary "irrationalist" whose musings on
 such earthly wonders as clouds, flags, middle names and moonlight disclose
 new perspectives on time, faith, and the origins of life. At once whimsical
 and heartbreaking, these eccentric lyrics investigate the shifting grounds
-of knowledge while refusing to take any authority â€“ be it Epictetus,
-ThÃ©rÃ¨se de Lisieux, Nicolaus Copernicus, Ma Yuan, or the fugitive spectre
-of self â€“ too seriously. Suzanne currently teaches creative writing at the
+of knowledge while refusing to take any authority – be it Epictetus,
+Thérèse de Lisieux, Nicolaus Copernicus, Ma Yuan, or the fugitive spectre
+of self – too seriously. Suzanne currently teaches creative writing at the
 University of Chicago.
 
 Derek Lundy turns 60 at the end of a year in which three good friends have
@@ -1138,8 +1138,8 @@ Passmore, Emmett Hall, Nicolas Sassoon and Angus Ferguson. PUBLIC
 ACCESS will be accompanied by a book, available in late April,
 including commentary by the HP Radio Show (Hank Bull and Patrick
 Ready). The program will be broadcast on Novus Cable Channel 4 from
-March 26 â€“ April 30 and will be shown in the window of the
-soon-to-open UNIT/PITT Projects space at 15 E. Pender from April 8 â€“
+March 26 – April 30 and will be shown in the window of the
+soon-to-open UNIT/PITT Projects space at 15 E. Pender from April 8 –
 23.
 
 For more information, visit http://publicaccess.helenpittgallery.org
@@ -1151,9 +1151,9 @@ ABOUT PUBLIC ACCESS: 1999 AND BEYOND
 Since 2009, Weekend Leisure has produced a public access television
 programme, the Weekend Leisure Network, which airs locally in
 Vancouver on Novus Network Channel 4. Each episode consists of
-segments that vary in style and content â€“ from studio karaoke
-performances to improvised non-sequiturs â€“ often collaborations with
-individuals in Vancouverâ€™s arts, comedy and karaoke communities. For
+segments that vary in style and content – from studio karaoke
+performances to improvised non-sequiturs – often collaborations with
+individuals in Vancouver’s arts, comedy and karaoke communities. For
 Public Access: 1999 & Beyond, Weekend Leisure has curated local
 artists and comedians to create work that will be shown in an art
 exhibition that takes the form of a public access television
@@ -1184,7 +1184,7 @@ International.
 Having been an improviser since the age of 14, Nicole Passmore began
 her improv practice in the Canadian Improv Games, and later found a
 home with UBC Improv. Since then she has expanded her horizons to not
-only include improv with Vancouver Theatre Sports Leagueâ€™s Masterclass
+only include improv with Vancouver Theatre Sports League’s Masterclass
 and coaching high school level improvisation, but also collaborating
 with local Vancouver sketch groups such as Pump Trolley Comedy and the
 sketch duo Pony Hunters (with Kaitlin Fontana). In 2009, Nicole played
@@ -1197,7 +1197,7 @@ Emmett Hall
 Emmett Hall is a Vancouver-based comedian, animator and musician,
 having studied animation at Capilano College and in Vibog, Denmark.
 Working in the animation industry by day, Emmett regularly performs
-sketch and improv by night at comedy events such as Bronx Cheerâ€™s Hero
+sketch and improv by night at comedy events such as Bronx Cheer’s Hero
 Show and The Sunday Service, where he provides musical backup and
 produces a monthly podcast. Hall is also one third of the medieval,
 heavy-metal comedy trio Knights of the Night and the author behind the
@@ -1248,7 +1248,7 @@ he invented the 'water radio' as artist-in-residence at The Banff
 Centre.
 
 Weekend Leisure
-Graduates of Emily Carrâ€™s Integrated Media program, the four members
+Graduates of Emily Carr’s Integrated Media program, the four members
 of Weekend Leisure (Erich Gerl, Curtis Grahauer, Christy Nyiri and
 Pietro Sammarco) continue to collaborate, utilizing their respective
 backgrounds in video and installation, performance, design, music and
@@ -1349,10 +1349,10 @@ YouTube: http://www.youtube.com/user/125Vancouver?feature=mhum
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-03-17-20-uwo-call-for-artists-online-contributions-mar-29">20. UWO | Call for artistsâ€™ online contributions | MAR 29</a>
+<a href="/instant-coffee/listings/2011-03-17-20-uwo-call-for-artists-online-contributions-mar-29">20. UWO | Call for artists’ online contributions | MAR 29</a>
 ------------------------------------------------------------------------
 
-Call for artistsâ€™ contributions to an online curatorial project undertaken
+Call for artists’ contributions to an online curatorial project undertaken
 jointly by PhD, MA and MFA students at the University of Western Ontario.
 The impetus of this project is to investigate the duality of artistic
 identity as both a producer and consumer.
@@ -1416,7 +1416,7 @@ month of April, coinciding with the 125th Anniversary of the City of Vancouver.
 Digital Natives intervenes in the physical, social and historical context
 of the site, the billboard and the city with a series of ten second text
 messages interrupting the rotation of advertisements. Taking the form of
-Twitter messages, invited contributors respond to the siteâ€™s charged
+Twitter messages, invited contributors respond to the site’s charged
 history, the ten-second format and the 140-character limit of tweets. The
 sign itself becomes an artistic and literary space for exchange between
 native and non-native communities exploring how language is used in
@@ -1588,7 +1588,7 @@ Full details: http://vix.ca/blog/rise-up-fallen-angel/
 
 About the Location
 The Centre for Performance Research is located in Brooklyn, NY and is
-the singular new development for the performing arts in Brooklynâ€™s
+the singular new development for the performing arts in Brooklyn’s
 first L.E.E.D.-certified green building of its kind. This innovative
 arts facility is an artist driven initiative with an ongoing
 commitment to providing outstanding resources to performing artists in
@@ -1644,7 +1644,7 @@ The jury will choose one winning fiction film out of ten films which will
 be screened during the ninth edition of the Latin American Film Festival,
 September 1-11, 2011.
 
-The students who are selected will be recognized in VLAFFâ€™s annual
+The students who are selected will be recognized in VLAFF’s annual
 catalogue and will received a Full Festival Pass, including an invitation
 to the Opening and Closing Gala Events. The members of the jury must make a
 commitment to see each of the ten fiction films and be available to meet
@@ -1682,11 +1682,11 @@ Visual Arts at The Banff Centre
 Now Accepting Applications
 
 Trading Post with Candice Hopkins
-Program dates: January 4 â€“ February 21, 2012
+Program dates: January 4 – February 21, 2012
 Application deadline: July 25, 2011
 Trading posts were meeting places. Sites to exchange goods, they also
 facilitated the transfer of news and information. Here, cultural
-differences were performed via the trade of materials and ideasâ€”a consensus
+differences were performed via the trade of materials and ideas—a consensus
 of value was required (although always to the benefit of those running the
 posts) but contained the potential to subvert these systems. Economic and
 colonial expansion was enabled through this network of posts. Nearly every
@@ -1705,7 +1705,7 @@ for sharing skills. Participants are expected to bring something to
 trade/exchange/gift.
 
 Please note: Enrolment to this program is limited to individuals of
-Aboriginal descent (status, non-status, MÃ©t is, or Inuit).
+Aboriginal descent (status, non-status, Mét is, or Inuit).
 
 Banff Artist in Residence (BAIR) Programs
 Ongoing opportunities

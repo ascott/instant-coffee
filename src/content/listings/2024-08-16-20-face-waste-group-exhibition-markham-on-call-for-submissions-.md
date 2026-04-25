@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 20
 type: "CALL"
+venue: "FACE / WASTE Group Exhibition [Markham, ON]"
 summary: "FACE / WASTE Group Exhibition [Markham, ON] | Call for Submissions | AUG 25"
 ---
 

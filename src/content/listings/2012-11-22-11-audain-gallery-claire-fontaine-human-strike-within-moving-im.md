@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 11
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Claire Fontaine: Human Strike Within Moving Images | NOV 24"
 ---
 

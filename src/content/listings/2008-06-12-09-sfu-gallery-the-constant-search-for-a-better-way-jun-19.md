@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: itty bitty blob"
 emailDate: "Thu, 12 Jun 2008 08:02:51 -0700"
 number: 9
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | The Constant Search for a Better Way | JUN 19"
 ---
 

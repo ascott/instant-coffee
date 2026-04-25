@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 21
 type: "OPENING"
+venue: "Concourse Gallery"
 summary: "Concourse Gallery | Loving It Is Easy, That's Why So Many People Do | SEP 13"
 ---
 

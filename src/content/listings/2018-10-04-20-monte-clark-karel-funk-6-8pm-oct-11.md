@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 20
 type: "OPENING"
+venue: "Monte Clark"
 summary: "Monte Clark | Karel Funk | 6-8PM | OCT 11"
 ---
 

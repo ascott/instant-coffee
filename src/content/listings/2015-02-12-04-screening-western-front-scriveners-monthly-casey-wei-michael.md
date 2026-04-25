@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front | Scrivener's Monthly: Casey Wei & Michael Turner | FEB 12"
 ---
 

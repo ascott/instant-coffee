@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 14
 type: ""
+venue: "Queer Arts Festival"
 summary: "Queer Arts Festival | Bleeding Hearts & Artists | FEB 14"
 ---
 

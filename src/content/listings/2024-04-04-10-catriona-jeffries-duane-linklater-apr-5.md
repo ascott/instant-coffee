@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THE SABOTEUR "
 emailDate: "Thu, 04 Apr 2024 00:05:07 -0700"
 number: 10
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Duane Linklater | APR 5"
 ---
 

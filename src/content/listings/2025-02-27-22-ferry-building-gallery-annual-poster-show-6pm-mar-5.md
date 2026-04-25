@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 22
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | annual poster show | 6PM | MAR 5"
 ---
 

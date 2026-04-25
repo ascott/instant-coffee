@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 34
 type: "EXHIBITION"
+venue: "Alliance Française Vancouver"
 summary: "Alliance Française Vancouver | Cameron Kerr & Raphaël Zarka | UNTIL NOV 9 | NOV 9"
 ---
 

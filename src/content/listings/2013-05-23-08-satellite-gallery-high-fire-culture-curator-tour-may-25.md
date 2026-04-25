@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 8
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | HIGH FIRE CULTURE curator tour | MAY 25"
 ---
 
 HIGH FIRE CULTURE: Locating Leach/Hamada in West Coast Studio 
 Pottery
-Curatorâ€™s Talk with Nora Vaillant and Shelly Rosenblum: Saturday, May 
+Curator’s Talk with Nora Vaillant and Shelly Rosenblum: Saturday, May 
 25 at 4 pm
 
 Find out how West Coast potters' artistic development and practice are 

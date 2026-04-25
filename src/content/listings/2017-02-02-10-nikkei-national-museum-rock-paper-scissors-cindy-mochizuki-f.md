@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 10
 type: "OPENING"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Rock, Paper, Scissors - Cindy Mochizuki | FEB 4"
 ---
 

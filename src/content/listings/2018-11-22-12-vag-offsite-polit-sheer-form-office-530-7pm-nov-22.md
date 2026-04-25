@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 12
 type: "OPENING"
+venue: "VAG"
 summary: "VAG | Offsite: Polit-Sheer-Form Office | 5:30-7pm | NOV 22"
 ---
 

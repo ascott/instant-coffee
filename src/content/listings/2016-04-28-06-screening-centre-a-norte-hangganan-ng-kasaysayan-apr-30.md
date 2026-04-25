@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 6
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Centre A | Norte, Hangganan ng Kasaysayan | APR 30"
 ---
 

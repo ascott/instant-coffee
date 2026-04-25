@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 1
 type: ""
+venue: "Western Front"
 summary: "Western Front | Instant Coffee Events | The Drawing Salon with Ron Tran and GOOD NEWS | APR 5"
 ---
 
@@ -85,14 +86,14 @@ well-exercised practice applied in the production of art, but with the
 number of failures necessary to succeed undetermined and 
 increased
 exponentially. The studio being a common site for failure, where a
-dayâ€™s productivity can be measured by discovering what doesnâ€™t 
+day’s productivity can be measured by discovering what doesn’t 
 work.
 The accumulated failures amass into experiences that determine
-success. But what renders Watsonâ€™s simple formal fraught is that in
+success. But what renders Watson’s simple formal fraught is that in
 making art what constitutes either a failure or a success rarely
 presents itself outright, remaining more in the realm of ambiguities,
 and sometimes these uncertainties are exactly what determine an
-artworkâ€™s success or not.
+artwork’s success or not.
 
 Our question is: What constitutes a successful failure?
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 3
 type: "PERFORMANCE"
+venue: "PuSh Festival @ The Fox Cabaret"
 summary: "PuSh Festival @ The Fox Cabaret | Decoder 2017 | FEB 4"
 ---
 

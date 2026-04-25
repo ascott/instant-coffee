@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 25
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Chester Fields 2025: Shadow Play | MAY 31"
 ---
 

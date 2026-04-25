@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 24
 type: "CALL"
+venue: "Portal Pop-up"
 summary: "Portal Pop-up | Call for submissions | SEP 24"
 ---
 

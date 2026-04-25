@@ -65,7 +65,7 @@ time McIntosh has worked with collage in this scale, but it is the first
 instance in which she has built a structure as the ground.
 
 Recent solo exhibitions include A Good Play, Diaz Contemporary, Toronto
-(2010), Cut Out, Goodwater, Toronto (2009) and Parisian Laundry, MontrÃ©al.
+(2010), Cut Out, Goodwater, Toronto (2009) and Parisian Laundry, Montréal.
 She has participated in group exhibitions at the Vancouver Art Gallery
 (2006), Santa Monica Museum of Art (2006), and Hallwalls, Buffalo, (2003).
 In 2010, Emily Carr University Press in collaboration with Diaz
@@ -124,11 +124,11 @@ Ejaculation Death Rattle (with Soressa Gardner)
 "...earthy ecstatic deathtrips... kinda like lyin' back naked in a bed of
 moss as serpents crawl on your flesh..." - Allan MacInnis
 
-Â³It was hard not to be entertained by headliners, Ejaculation Death Rattle.
-Their name and stage antics were bound to turn heads (one band memberÂ¹s sole
-role was to don an executionerÂ¹s mask and give his bandmates mid-set
-massages), but the groupÂ¹s mix of loops, strings and horns was a beautiful
-mess of sounds.Â² Â­ Quin Omori, Chart Attack
+³It was hard not to be entertained by headliners, Ejaculation Death Rattle.
+Their name and stage antics were bound to turn heads (one band member¹s sole
+role was to don an executioner¹s mask and give his bandmates mid-set
+massages), but the group¹s mix of loops, strings and horns was a beautiful
+mess of sounds.² ­ Quin Omori, Chart Attack
 
 http://www.myspace.com/ejaculationdeathrattle
 <http://www.myspace.com/ejaculationdeathrattle>
@@ -137,7 +137,7 @@ http://www.soressa.com/
 
 Pink Island (Lee Hutzulak, Dave Leith, Madoka Hara)
 
-mimimalist/electroacoustic/musique concrÃ¨te
+mimimalist/electroacoustic/musique concrète
 
 http://www.myspace.com/pinkislandmusic
 <http://www.myspace.com/pinkislandmusic>
@@ -623,7 +623,7 @@ Star Press, Paris. Lum was Project Manager for Okwui Enwezorâ��s The
 Short Century: Independence and Liberation Movements in Africa 1945 â��
 1994 (2001). He was also co-curator of the 7th Sharjah Biennial
 (2005), and Shanghai Modern: 1919 â�� 1945 (2005). Lum has exhibited
-widely, including SÃ£o Paulo Biennial (1998), Shanghai Biennale (2000),
+widely, including São Paulo Biennial (1998), Shanghai Biennale (2000),
 Documenta 11 (2002), the Istanbul Biennial (2007), and the Gwangju
 Biennale (2008). He is currently working on two public art
 commissions, one in Berlin and the other in Utrecht.
@@ -1018,7 +1018,7 @@ imaginary solutions to real questions, curated by Noxious Sector (Doug
 Jarvis and Ted Hiebert}.
 
 Artists: hannah_g, Julie Gendron & Emma Hendrix, Tetsushi Higashino, Gordon
-Lebredt, Chikako Maria Mori & Boris Nieslony, FranÃ§ois Mathieu, Arjuna
+Lebredt, Chikako Maria Mori & Boris Nieslony, François Mathieu, Arjuna
 Neuman, and Anne-Marie Proulx.
 
 5th Annual Trading Cards Exhibition November 26, 2010 â�� January 23, 2011

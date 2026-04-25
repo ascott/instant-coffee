@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 8
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Darian Goldin Stahl: Residence | APR 7"
 ---
 

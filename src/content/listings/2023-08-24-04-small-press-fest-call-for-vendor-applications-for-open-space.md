@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 4
 type: "CALL"
+venue: "Small Press Fest"
 summary: "Small Press Fest | Call for vendor applications for Open Space's Smal"
 ---
 

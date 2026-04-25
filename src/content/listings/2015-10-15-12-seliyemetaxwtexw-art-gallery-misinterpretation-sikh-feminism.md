@@ -4,23 +4,24 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "S'eliyemetaxwtexw Art Gallery"
 summary: "S'eliyemetaxwtexw Art Gallery | (Mis)Interpretation: Sikh Feminisms | OCT 20"
 ---
 
 (Mis)Interpretation: Sikh Feminisms in representations, texts and lived
 realities
 
-Sept 29 â€“ Oct 20
+Sept 29 – Oct 20
 S'eliyemetaxwtexw Art Gallery
 University of the Fraser Valley Campus, 33844 King Road, Abbotsford Campus,
-B 136 Gallery Hrs: Mon â€“ Fri, 10:00 AM â€“ 6:00 PM
+B 136 Gallery Hrs: Mon – Fri, 10:00 AM – 6:00 PM
 
 The Centre for Indo-Canadian Studies, with support from the Visual Arts
 Department at UFV and UFV International Presents an upcoming exhibition
 entitled: (Mis)Interpretation: Sikh Feminisms in representations, texts and
 lived realities. The exhibition includes the exploration of the five
 kakkars (Sikh outward symbols) through the female lens, the interpretations
-of Gurbani (Sikh scriptures) discussing the feminine, womenâ€™s engagement
+of Gurbani (Sikh scriptures) discussing the feminine, women’s engagement
 with the SGGSJ (Sikh scriptures) and the daily lived realities of Sikh
 women. Exhibition available for viewing until October 20th. Contact Sharn
 at Sharanjit.sandhra@ufv.ca or (604) 851-6325.
@@ -35,6 +36,6 @@ intellectual and artistic freedom, cultural sensitivity, social diversity,
 and collaborative relations with Indigenous peoples. In October 2014, The
 Gallery was renamed S'eliyemetaxwtexw Art Gallery (pronounced
 S-uh-lee-uh-mut-out-ook). This new name not only acknowledges that the
-Gallery sits on the unceded territory of the StÃ³:lo Nation but also
-confirms the Department of Visual Artsâ€™ ongoing commitment to building and
+Gallery sits on the unceded territory of the Stó:lo Nation but also
+confirms the Department of Visual Arts’ ongoing commitment to building and
 maintaining lasting relationships with our Indigenous neighbours.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 1
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Kameelah Janan Rasheed | 3 PM | Feb 16, 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 1
 type: "CALL"
+venue: "City of Burnaby provides residency opportunities f"
 summary: "City of Burnaby provides residency opportunities f | 2026 Deer Lake Artist Residencies"
 ---
 

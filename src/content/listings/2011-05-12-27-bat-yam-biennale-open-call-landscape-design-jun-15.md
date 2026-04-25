@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 27
 type: ""
+venue: "Bat-Yam Biennale"
 summary: "Bat-Yam Biennale | Open Call | Landscape Design | JUN 15"
 ---
 

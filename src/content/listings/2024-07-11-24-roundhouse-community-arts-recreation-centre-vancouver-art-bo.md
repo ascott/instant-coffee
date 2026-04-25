@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 24
 type: "EVENT"
+venue: "Roundhouse Community Arts & Recreation Centre"
 summary: "Roundhouse Community Arts & Recreation Centre | Vancouver Art Book Fair | JUL 26"
 ---
 

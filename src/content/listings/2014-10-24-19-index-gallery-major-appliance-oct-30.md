@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 19
 type: ""
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | Major Appliance | OCT 30"
 ---
 
@@ -23,11 +24,11 @@ components through composed plastics.
 
 -
 
-Scott Kempâ€™s work consists of minimalistic constructions that shift space 
+Scott Kemp’s work consists of minimalistic constructions that shift space 
 and place through clean-lined re-appropriation. He received his BFA from 
 Emily Carr University in the spring of 2014, and has shown throughout 
 Vancouver, at galleries such as the Surrey Art Gallery, Avenue Gallery, 
-East Van Studios, Access Gallery, and Dynamo Arts Foundation. Kempâ€™s 
+East Van Studios, Access Gallery, and Dynamo Arts Foundation. Kemp’s 
 work is often site specific - emphasizing the architecture of the gallery 
 space.
 

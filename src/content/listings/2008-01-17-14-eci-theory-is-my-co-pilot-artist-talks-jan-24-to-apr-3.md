@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: nothing happens in good weather"
 emailDate: "Wed, 16 Jan 2008 19:41:13 -0800"
 number: 14
 type: ""
+venue: "ECI"
 summary: "ECI | Theory is my Co-Pilot:  Artist Talks | JAN 24 to APR 3"
 ---
 

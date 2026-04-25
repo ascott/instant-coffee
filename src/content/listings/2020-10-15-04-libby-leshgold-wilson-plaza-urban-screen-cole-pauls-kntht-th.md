@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:05:08 -0700"
 number: 4
 type: ""
+venue: "Libby Leshgold @ Wilson Plaza urban screen"
 summary: "Libby Leshgold @ Wilson Plaza urban screen | Cole Pauls: K'ānäthät (Thinking)"
 ---
 

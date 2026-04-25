@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 33
 type: "CALL"
+venue: "Slow Wave Small Projects"
 summary: "Slow Wave Small Projects | MAYNE ISLAND, BC | JUN 15"
 ---
 

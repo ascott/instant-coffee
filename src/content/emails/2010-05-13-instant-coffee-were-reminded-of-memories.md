@@ -44,8 +44,8 @@ Opening reception: Thursday May 13th, 6 to 8pm
 www.equinoxgallery.com
 
 Equinox Gallery is pleased to present an exhibition of new works by
-Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (KwakwakaÃ¢ï¿½ï¿½wakw)
-of the WekaÃ¢ï¿½ï¿½yi First Nation (Cape Mudge) and looks to his heritage to
+Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (Kwakwakaâ��wakw)
+of the Wekaâ��yi First Nation (Cape Mudge) and looks to his heritage to
 address, unravel, and in some instances, complicate, the issues of personal
 lineage within the realm of contemporary culture.
 
@@ -140,7 +140,7 @@ experience frequently mediated by props or forms of armour that alleviate
 the tension and self-consciousness that often accompanies such
 performances. Funny Business also investigates the reception of
 performative works of art, and how the gallery space functions as a
-platform for more ephemeral modes of artistic engagement Ã¢ï¿½ï¿½ both at the
+platform for more ephemeral modes of artistic engagement â�� both at the
 exhibition's opening reception and for its duration. Specifically, the
 exhibition will address the absence and presence of an audience as an
 integral component to the comedic process.
@@ -318,7 +318,7 @@ May 29: Talk by Rob Giampietro at 2pm
 Nieves Zine Library
 As a compliment to Motto Storefront, Artspeak and Fillip are very pleased
 to present the Nieves Zine Library, a selection of 100 zines published by
-Nieves, ZÃ¼rich between 2004 and 2010. Photocopied in editions of only a
+Nieves, Zürich between 2004 and 2010. Photocopied in editions of only a
 hundred or a hundred and fifty, and almost all long since out of print, the
 Nieves Zine Library includes publications by Ari Marcopoulos, Stefan Marx,
 Olga Prader, Mark DeLong, and many others. For more information see:
@@ -340,7 +340,7 @@ store is a natural progression from the traveling temporary bookshops that
 Motto has organized since 2007, first in Switzerland and then
 internationally including locations in Vilnius, Amsterdam, Rotterdam,
 Hamburg, Wiesbaden, Frankfurt, Moscow, Chicago, Seoul, Tokyo, Paris, and
-Stuttgart. In 2010, Motto opened a second store in ZÃ¼rich located in
+Stuttgart. In 2010, Motto opened a second store in Zürich located in
 Perla-Mode, a place with many other ongoing projects including Corner
 College and the Message Salon. Both Motto locations function as spaces for
 events dedicated to discussions around art publishing, graphic design,
@@ -357,24 +357,24 @@ www.mottodistribution.com
 Centre A presents
 
 SING JUK SING
-A live streaming performance between Vancouver and MontrÃ©al
+A live streaming performance between Vancouver and Montréal
 
 with Master Toa Wong and Mary Sui Yee Wong
 
 Saturday, May 15, 2010
 Centre A, 2 West Hastings Street, Vancouver, 1:00 pm, (Pacific Time)
-OBORO, 4001 Berri, # 301, MontrÃ©al. 4:00 pm (Eastern Time)
+OBORO, 4001 Berri, # 301, Montréal. 4:00 pm (Eastern Time)
 
 Artists: Master Toa Wong and Mary Sui Yee Wong
-Curatpr: Janet Lumb, Festival AccÃ¨s Asie, MontrÃ©al
+Curatpr: Janet Lumb, Festival Accès Asie, Montréal
 Curator: Makiko Hara, Centre A, Vancouver
 
 Co-produced by Oboro and Centre A
-in collaboration with Festival AccÃ¨s Asie, MontrÃ©al and ExplorASIA, Vancouver
+in collaboration with Festival Accès Asie, Montréal and ExplorASIA, Vancouver
 Patron: Joanne Luui Mah
 
 In Sing Juk Sing, a renowned Vancouver master musician, Toa Wong, and a
-MontrÃ©al visual artist, Mary Sui Yee Wong, meet through cyber technology in
+Montréal visual artist, Mary Sui Yee Wong, meet through cyber technology in
 a live streaming performance.
 
 By invoking a childhood fantasy of becoming a pop star with an irrational
@@ -382,7 +382,7 @@ fear of singing, Mary Sui Yee Wong will work in tandem with her father, Toa
 Wong, to create an experimental performance that embraces the complexities
 of inter-generational communication, acculturation, and hybridization.
 
-The project title, SING JUK SING [G,ï¿¹G] is a play on the term juk sing
+The project title, SING JUK SING [G,￹G] is a play on the term juk sing
 (bamboo essence), a term coined at the turn of the 20th century in
 reference to overseas-born Chinese. Like the bamboo flowing between two
 knots, overseas Chinese straddle two worlds. By combining the word sing (to
@@ -410,7 +410,7 @@ from Hong Kong in 1963. Wong has exhibited extensively in solo and group
 exhibitions in Canada and internationally. She has been involved in
 numerous curatorial initiatives and is an active member of the Chinese
 community. Wong is presently teaching in the Studio Arts program at
-Concordia University, MontrÃ©al.
+Concordia University, Montréal.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-05-13-09-centre-a-slow-relations-practices-may-15">09. Centre A | SLOW: Relations + Practices | MAY 15</a>
@@ -461,7 +461,7 @@ pot-luck meal and open space discussion at the closing reception.
 
 During these events the SLOW working group invites participants to
 investigate questions about the present conditions of artistic practice:
-How do you locate â€˜the studio' in time and space? Where does it begin and
+How do you locate ‘the studio' in time and space? Where does it begin and
 end? How does it relate to others? Is it necessary to become unavailable to
 others in order to have a practice?
 
@@ -680,7 +680,7 @@ Reception: May 20, 6-8pm
 
 The Family Project: Latour Family, 55.5x37", 2007-10
 
-The Family Project consists of 24 large scale photographs of Latourâ€™s family,
+The Family Project consists of 24 large scale photographs of Latour’s family,
 her former partner Rina Larsson's family and merged images of both families
 and the former couple. These photographs are accompanied by a vitrine that
 holds a taxidermied mouse and a plaque describing Kaguya.
@@ -798,9 +798,9 @@ non-verbal communication, and representing and positioning subjectivities.
 The festival is exited to present the work of: Mitchell Akiyama | Raymond
 Boisjoly | Jubal Brown | Roy Caussy | Kevin Clancy | Aleesa Cohene | Benny
 Nemerofsky Ramsay | Ian William Craig | Brady Cranfield | Spencer Davis |
-RÃƒÂ¤ di Martino | Felix Dufour-LaperriÃƒÂ¨re | Francisca Duran | Empress | Peter
+RÃ¤ di Martino | Felix Dufour-LaperriÃ¨re | Francisca Duran | Empress | Peter
 Eramian | Gabriela Golder | Lief Hall | Max Hattler | Tijmen Hauer | Alex
-Hetherington | Pil & Galia Kollectiv | Pascal LiÃƒÂ¨vre | Heidi Nagtegaal |
+Hetherington | Pil & Galia Kollectiv | Pascal LiÃ¨vre | Heidi Nagtegaal |
 Hee Won Navi Lee | Lance Olsen | Heidi Phillips | Elodie Pong | Anahita
 Razul | Mary Reid Kelley | Billy Roisz | Josh Rose | Sade Sade | prOphecy
 Sun | Leslie Supnet | DJ Tapes | Yi Xin Tong | Sydney Vermont | Paul Walde
@@ -895,12 +895,12 @@ www.contemporaryartgallery.ca. Review of applications will begin on Monday,
 ------------------------------------------------------------------------
 DAZIBAO, CENTRE DE PHOTOGRAPHIES ACTUELLES
 
-JEUNE TÃƒï¿½TE D'AFFICHE CONTEST
+JEUNE TÃ�TE D'AFFICHE CONTEST
 
 DEADLINE > JUNE 1ST
 
 Call for proposals for students of Canadian universities and/or Canadian
-students studying abroad who are completing a MasterÃ¢ï¿½ï¿½s degree in Fine Arts
+students studying abroad who are completing a Masterâ��s degree in Fine Arts
 during the year
 
 Dazibao, centre de photographies actuelles offers an artist graduating in
@@ -929,10 +929,10 @@ We do not accept proposals via e-mail. Incomplete submissions or
 submissions sent after the competition closing date will not be accepted.
 
 Send to:
-Jeune tÃƒÂªte dÃ¢ï¿½ï¿½affiche Contest
+Jeune tÃªte dâ��affiche Contest
 Dazibao, centre de photographies actuelles
 4001 rue Berri, espace 202
-MontrÃƒÂ©al (QuÃƒÂ©bec) H2L 4H2
+MontrÃ©al (QuÃ©bec) H2L 4H2
 
 
 

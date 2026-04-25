@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 42
 type: "EXHIBITION"
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | Marin Maji?: roundabout | Until Jun 14 | JUN 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "The Playground"
 summary: "The Playground | Wild Life by Mandy-Lyn | 5-10PM | JUL 5"
 ---
 

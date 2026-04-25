@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 14
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Curator’s tour with Karen Tam | 1PM | JAN 31"
 ---
 

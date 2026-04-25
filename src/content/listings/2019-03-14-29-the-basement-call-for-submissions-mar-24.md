@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 29
 type: "CALL"
+venue: "The basement"
 summary: "The basement | Call for Submissions | MAR 24"
 ---
 

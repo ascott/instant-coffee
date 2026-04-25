@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Other Sights for Artists' Projects"
 summary: "Other Sights for Artists' Projects | COASTAL CAMERA OBSCURA BY DONALD LAWRENCE | AUG 8"
 ---
 

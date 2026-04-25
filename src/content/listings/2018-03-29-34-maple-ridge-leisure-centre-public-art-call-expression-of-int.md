@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 34
 type: "CALL"
+venue: "Maple Ridge Leisure Centre"
 summary: "Maple Ridge Leisure Centre | Public Art Call Expression of Interest | APR 12"
 ---
 

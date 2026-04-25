@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 28
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | PLOT @ Access Gallery | Far Afield: Film Screening | 7PM | JUL 2"
 ---
 

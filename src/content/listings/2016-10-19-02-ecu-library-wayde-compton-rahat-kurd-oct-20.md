@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like shoulder pads in a business s
 emailDate: "Wed, 19 Oct 2016 12:20:16 -0700"
 number: 2
 type: "EVENT"
+venue: "ECU Library"
 summary: "ECU Library | Wayde Compton & Rahat Kurd | OCT 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 49
 type: "TALK"
+venue: "UBC (Room 102, Frederic Lasserre Building)"
 summary: "UBC (Room 102, Frederic Lasserre Building) | lecture by Wu Hung | 5PM | FEB 8"
 ---
 

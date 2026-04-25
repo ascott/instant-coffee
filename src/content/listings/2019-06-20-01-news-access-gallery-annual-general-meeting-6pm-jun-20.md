@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | Access Gallery | Annual General Meeting | 6PM | JUN 20"
 ---
 

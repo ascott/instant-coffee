@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 42
 type: "CALL"
+venue: "Gallery George"
 summary: "Gallery George | Call for Submissions | FEB 10"
 ---
 

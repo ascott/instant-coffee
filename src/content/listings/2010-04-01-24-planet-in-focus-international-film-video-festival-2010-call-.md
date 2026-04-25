@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: doing 'nothings' while everyone el
 emailDate: "Thu, 01 Apr 2010 03:24:17 -0700"
 number: 24
 type: ""
+venue: "Planet in Focus International"
 summary: "Planet in Focus International | Film & Video Festival 2010 | Call | MAY 31"
 ---
 

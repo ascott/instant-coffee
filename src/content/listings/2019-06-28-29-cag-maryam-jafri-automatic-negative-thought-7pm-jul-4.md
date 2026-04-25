@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 29
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Maryam Jafri | Automatic Negative Thought | 7PM | JUL 4"
 ---
 

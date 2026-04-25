@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 37
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | DIM Cinema: Margaret Tait at 100 | 730PM | NOV 14"
 ---
 

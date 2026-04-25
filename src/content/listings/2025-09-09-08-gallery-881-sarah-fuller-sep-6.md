@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Gallery 881"
 summary: "Gallery 881 | SARAH FULLER | SEP 6"
 ---
 

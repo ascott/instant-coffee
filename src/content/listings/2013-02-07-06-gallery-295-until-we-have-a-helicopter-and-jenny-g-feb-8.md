@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 6
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Until We Have A Helicopter and Jenny G | FEB 8"
 ---
 

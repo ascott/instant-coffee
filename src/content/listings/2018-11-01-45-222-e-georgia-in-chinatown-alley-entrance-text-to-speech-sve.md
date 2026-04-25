@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 45
 type: "EVENT"
+venue: "222 E. Georgia in Chinatown (alley entrance)"
 summary: "222 E. Georgia in Chinatown (alley entrance) | Text to Speech: Svetlana Boym | 7-9PM | NOV 22"
 ---
 

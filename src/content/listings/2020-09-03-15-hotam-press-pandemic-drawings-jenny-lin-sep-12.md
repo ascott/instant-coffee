@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Pandemic Drawings | Jenny Lin | SEP 12"
 ---
 

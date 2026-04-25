@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why don't you think of something"
 emailDate: "Thu, 22 Oct 2009 09:30:22 -0700"
 number: 2
 type: ""
+venue: "Campbell River Art Gallery"
 summary: "Campbell River Art Gallery | Call for Exhibitions for 2011 | FEB 6"
 ---
 

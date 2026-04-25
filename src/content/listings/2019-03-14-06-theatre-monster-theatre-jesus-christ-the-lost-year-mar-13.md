@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 6
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Monster Theatre | Jesus Christ: The Lost Year | MAR 13"
 ---
 

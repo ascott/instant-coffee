@@ -56,10 +56,10 @@ at the Emily Carr University Library
 Granville Island, Vancouver
 Coast Salish Territories
 
-Montreal poet ErÃ­n Moure writes mainly in English, albeit multilingually.
+Montreal poet Erín Moure writes mainly in English, albeit multilingually.
 She considers translation to be part of her practice, and has translated
 Nicole Brossard (with Robert Majzels), Galician poet Chus Pato, Chilean
-AndrÃ©s Ajens, as well as the famed modernist Portuguese poet Fernando
+Andrés Ajens, as well as the famed modernist Portuguese poet Fernando
 Pessoa, among others. In her own most recent books, O Cadoiro and O
 Resplandor (both from Anansi), poetry becomes hybrid and even the author's
 name and signature are altered and invented in the process of dealing with
@@ -225,7 +225,7 @@ Granville Island, Vancouver, BC V6H 3S3
 malaspinagallery@telus.net
 www.malaspinaprintmakers.com
 
-Gallery Hours: Tuesday Ã¢ï¿½ï¿½ Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm
+Gallery Hours: Tuesday â�� Friday 10 - 5 pm Saturday and Sunday 11 - 5 pm
 
 
 ------------------------------------------------------------------------
@@ -293,7 +293,7 @@ more information, contact office@fillip.ca.
 <a href="/instant-coffee/listings/2011-02-10-05-robson-reading-series-andre-alexis-and-harry-karlinsky-feb-1">05. Robson Reading Series | Andre Alexis and Harry Karlinsky | FEB 10</a>
 ------------------------------------------------------------------------
 Please join us this Thursday, February 10 at 7 pm for a creatively
-historical reading and discussion with AndrÃƒÂ© Alexis and Harry Karlinsky.
+historical reading and discussion with AndrÃ© Alexis and Harry Karlinsky.
 We're looking forward to an intellectually stimulating evening with these
 two authors.
 
@@ -342,7 +342,7 @@ Thursday, February 10
 The Pavilion , 2009-2010 
 
 The Pavilion was a year-long project completed as the Langara College
-2009-2010 Artist In residence. During this time, Ward constructed a 22â€™
+2009-2010 Artist In residence. During this time, Ward constructed a 22’
 diameter geodesic dome intended to serve as a catalyst for speculative
 thinking and artistic experimentation. Once the construction of The
 Pavilion was complete, Ward curated a series of exhibitions, readings and
@@ -361,7 +361,7 @@ amongst others. She has participated in group exhibitions in Canada,
 England, Mexico, the US, Norway and South Korea. She is currently
 represented by Republic Gallery, Vancouver where she had a solo exhibition
 in 2009. For her 2009-2010 Langara College Artist in Residence project in
-Vancouver, Ward constructed a 22â€™ diameter geodesic dome to act as host to
+Vancouver, Ward constructed a 22’ diameter geodesic dome to act as host to
 a series of exhibitions, readings, workshops and experimental performances.
 
 
@@ -387,7 +387,7 @@ Santhosh_Living with a Wound_RAG
 TV Santhosh, Living with a Wound (2009) fiberglass, metal, LED panels
 60â€ x84â€ x30â€ . photograph courtesy of Richmond Art Gallery
 
-Youâ€™re invited to join us for an informal tour of the Surrey Art Galleryâ€™s
+You’re invited to join us for an informal tour of the Surrey Art Gallery’s
 current exhibitions with gallery curator, Jordan Strom. Jordan will
 introduce the exhibitions In Transition: New Art from India and There/Here:
 Germaine Koh and Gordon Hicks. Participants are invited to stay for
@@ -397,7 +397,7 @@ Admission is by donation. Admission for Surrey Art Gallery Association
 members is free.
 
 In Transition: New Art from India
-Urban, edgy and innovative, Indiaâ€™s contemporary artists transform how we
+Urban, edgy and innovative, India’s contemporary artists transform how we
 think about India in the exhibit, In Transition: New Art from India,
 presented in recognition of the Year of India in Canada in 2011.
 
@@ -420,15 +420,15 @@ spaces at the same time through technological communication. Artists
 Germaine Koh and Gordon Hicks are interested how, in our age of everyday
 telepresence, manifested by constant mobile phone and portable computer
 use, relationships between time and space are being altered in significant
-ways. In Koh and Hicksâ€™ new work There/Here (2011), two doorways link space
+ways. In Koh and Hicks’ new work There/Here (2011), two doorways link space
 and time through the sensation of touch. Using an internet data stream, the
 actions performed by a visitor on one door (e.g. opening or closing) are
-duplicated on the other. Though located in the Galleryâ€™s TechLab, each door
+duplicated on the other. Though located in the Gallery’s TechLab, each door
 could be anywhere - for example, one in Surrey, BC and one in Surrey, UK,
 with the same result in sensation. In this spatial diptych of co-relation
 the act of entering is simultaneously a form of uncanny exiting.
 
-Also included in the exhibition are Kohâ€™s Call (2006) and Hicksâ€™ loop_02
+Also included in the exhibition are Koh’s Call (2006) and Hicks’ loop_02
 (2011). Call (2006) alters redundant telephone technology to provoke random
 contact and informal discussion with strangers across short distances.
 Loop_02 (2011) presents two simultaneous images that address the phenomenon
@@ -501,7 +501,7 @@ Christie Lee Charles.
 CSA Space
 
 February 11th - 20th
-Opening: Friday, February 11 Â· 7:00pm
+Opening: Friday, February 11 · 7:00pm
 
 #5-2414 Main Street
 Vancouver, BC
@@ -621,14 +621,14 @@ Erickson and Donna Partridge.
 
 ___________________________________________
 
-WE: Vancouver â€” 12 Manifestos for the City
+WE: Vancouver — 12 Manifestos for the City
 February 12 to May 1, 2011
 
-VANCOUVER, BC â€“ The Vancouver Art Gallery celebrates the innovation and
-diversity found in the city of Vancouver with WE: Vancouver â€“ 12 Manifestos
+VANCOUVER, BC – The Vancouver Art Gallery celebrates the innovation and
+diversity found in the city of Vancouver with WE: Vancouver – 12 Manifestos
 for the City, opening on February 12th. Bringing together more than 45
-projects from various disciplines â€” architecture and design, art and visual
-culture, literature and activism â€” the exhibition will examine the
+projects from various disciplines — architecture and design, art and visual
+culture, literature and activism — the exhibition will examine the
 extraordinary range of ideas and actions that shape Vancouver.
 
 As the City of Vancouver marks its 125th birthday in 2011, WE: Vancouver
@@ -637,7 +637,7 @@ its continual transformation and to acknowledge some of the people and
 projects leading the change. All of the projects presented are produced in
 Vancouver and reflect uniquely on the city.
 
-Organized around a framework of 12 'manifestos' â€“ DEMONSTRATE, SEE, LISTEN,
+Organized around a framework of 12 'manifestos' – DEMONSTRATE, SEE, LISTEN,
 MOVE, DETOUR, REMEMBER, OCCUPY, ACTIVATE, USE, CONSUME, CHOOSE, and SPEAK
 -- the exhibition ranges from photography and essays, to hip hop music and
 architectural drawings. Along the way, Gallery visitors will find out more
@@ -666,7 +666,7 @@ Natalie Purschwitz on March 26 and 27th. On April 9th, the Gallery will
 host SUSTAIN: Vancouver, a day-long conference which looks at how models of
 culture, ecology and economics may shape the future.
 
-WE: Vancouver â€“ 12 Manifestos for the City is organized by the Vancouver
+WE: Vancouver – 12 Manifestos for the City is organized by the Vancouver
 Art Gallery and curated by Bruce Grenville, senior curator and Kathleen
 Ritter, associate curator.
 
@@ -681,8 +681,8 @@ January 22 to September 5, 2011
 
 Since the origins of Surrealism in the 1920s, the tension between the
 recognizable and the unfamiliar has inspired and informed artistic
-practices. Unreal, drawn primarily from the Galleryâ€™s permanent collection
-and augmented with local loans, considers contemporary artistsâ€™
+practices. Unreal, drawn primarily from the Gallery’s permanent collection
+and augmented with local loans, considers contemporary artists’
 explorations beyond the rational and looks at the ways in which they delve
 into ideas around desire, fantasy, anxiety and the absurd. Although many of
 the images and objects presented may initially appear normal and familiar,
@@ -761,7 +761,7 @@ This exhibition is curated by Peter Gazendam, Artspeak Programme Coordinator.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday Ã¢ï¿½ï¿½ Saturday, 12-5pm
+* Tuesday â�� Saturday, 12-5pm
 * Admission is free
 
 
@@ -816,8 +816,8 @@ Centre A
 Vancouver International Centre for Contemporary Asian Art
 2 West Hastings Street, Vancouver, BC
 Canada V6B 1G6 Tel: 604.683.8326
-Gallery Hours: Tuesday â€“ Saturday 11 am â€“ 6 pm
-Sunday â€“ Monday closed
+Gallery Hours: Tuesday – Saturday 11 am – 6 pm
+Sunday – Monday closed
 www.centrea.org info@centrea.org
 
 
@@ -911,7 +911,7 @@ Vancouver (between Victoria and Graveley)
 Judy Jheung presents â€œComposing You: the love gameâ€  for Hammock Residency
 on the 
 
-eve of Valentineâ€™s Day. Designed to engage with communities, the residency
+eve of Valentine’s Day. Designed to engage with communities, the residency
 presentation 
 
 exemplifies notions of collectiveness and collaboration, change and chance
@@ -943,7 +943,7 @@ with twin artists,
 
 Peggy and Karen Ngan. 
 
-Jheungâ€™s installations are often interactive rendered in a form that
+Jheung’s installations are often interactive rendered in a form that
 propels the audience 
 
 along a journey. She instigates situations and exchanges, inviting
@@ -960,7 +960,7 @@ York.
 Karen and Peggy Ngan are Vancouver based artists and members of the YacTac
 collective. 
 
-â€¢ Balcone and the Hammock Residency gratefully acknowledge the support of
+• Balcone and the Hammock Residency gratefully acknowledge the support of
 the Province of 
 
 British Columbia and the Assembly of British Columbia Arts Councils for the
@@ -1268,7 +1268,7 @@ festivities will be a retro dance party with all of your favourite 80s hits.
 
 Featuring work by: Diyan Achjadi, Joshua Bartholomew and Cedric Meister,
 Jesse Birch + Jesse Gray, Raymond Boisjoly, Fabiola Carranza, Roy Caussy,
-Christine Dâ€™Onofrio, Lucien Durey, Lisa Fedorak, Brendan Fernandes, Jacob
+Christine D’Onofrio, Lucien Durey, Lisa Fedorak, Brendan Fernandes, Jacob
 Gleeson, Lee Henderson, Julian Hou, Paul Kajander, David Khang, Lois
 Klassen, Vanessa Kwan, Laiwan, Gwenessa Lam, Evan Lee, Tiziana LeMelia,
 Marilou Lemmens & Richard Ibghy, Daylen Luchsinger, Elizabeth Milton, Tegan
@@ -1457,7 +1457,7 @@ Panel 1/Invocation. Is it possible to proceed after this acknowledgement?
 
 2:30 pm - Room 2270 
 Panel 2/conference on the conference on the conference on the conference.
-[Ã’more multiple apings of self-reflexive problematics.Ã“]
+[Òmore multiple apings of self-reflexive problematics.Ó]
 - Nikolai Gauer
 - Chris Welsby
 - Henry Daniel
@@ -1476,14 +1476,14 @@ Panel 4/Footnotes
 
 Saturday, March 5th
 2:00 pm - Room TBA 
-Panel 5/Squatting the Ã’conference as siteÃ“.
+Panel 5/Squatting the Òconference as siteÓ.
 - Abe Walker
 - Dave Chokroun
 - Vikram Uchida-Khanna 
 
 2:30 pm - Room 2270 
 Panel 6/"Production" or another institutional imperative to fabricate
-objects. [Ã’Legimitation, initiation, certification.Ã“]
+objects. [ÒLegimitation, initiation, certification.Ó]
 - Alex Ferguson 
 - Henry Daniel
 - Jen Delos Reyes
@@ -1496,8 +1496,8 @@ Panel 7/[In absentia]
 - Stacey Ho
 
 4:00 pm - Room TBA 
-Panel 8/Respondent to panel on respond-ence. [Ã’Is it possible to respond?
-The very idea of...Ã“]
+Panel 8/Respondent to panel on respond-ence. [ÒIs it possible to respond?
+The very idea of...Ó]
 - Roger Farr
 - Am Johal
 - Reg Johanson
@@ -1577,7 +1577,7 @@ selected. The FAC retains 25% commission on sales of work.
 
 Exhibition dates: April 13- May 15, 2011
 
-Gallery hours: Wed.- Sat. 1:00 p.m. Ã¢ï¿½ï¿½ 5:00p.m.
+Gallery hours: Wed.- Sat. 1:00 p.m. â�� 5:00p.m.
 
 
 

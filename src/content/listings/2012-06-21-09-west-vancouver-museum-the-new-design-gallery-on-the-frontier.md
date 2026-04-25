@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 9
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | The New Design Gallery on the frontier 1955 -1966 | JUN 26"
 ---
 
@@ -26,10 +27,10 @@ studied and worked with several key galleries abroad, and Rogatnick,
 who had studied architecture at Harvard, both brought with them new 
 perspectives about contemporary art and design. Encouraged by Jack 
 Shadbolt and Arthur Erickson, Balkind and Rogatnick opened the NDG 
-in adjacent apartments above Tony Caveltiâ€™s and Karl Stittgenâ€™s 
+in adjacent apartments above Tony Cavelti’s and Karl Stittgen’s 
 jewellery studio in West Vancouver.
 
-Balkind, somewhat disparagingly, later wrote: â€œVancouver in 1955 was 
+Balkind, somewhat disparagingly, later wrote: “Vancouver in 1955 was 
 a sleepy provincial, rather stuffy city, sitting tight on the only distinction 
 it had: its natural beauty.â€  The North Shore however, with its inspiring 
 natural setting (and then relatively affordable property) was also a 
@@ -38,10 +39,10 @@ architects and other creative intellectuals.
 
 The NDG profiled contemporary art during a time of public 
 apprehension and distrust towards modernism. The original press 
-release announced that â€œthe New Design Gallery, [will] show the public 
+release announced that “the New Design Gallery, [will] show the public 
 fine art and good design that can be used in daily life [and serve] as a 
 centre for artists who are in harmony with the modern spirit.â€  While the 
-NDGâ€™s successful openings drew crowds of people seeking, as 
+NDG’s successful openings drew crowds of people seeking, as 
 Rogatnick suggestsâ€œa sophisticated art milieu,â€  he points out â€œâ€¦ they 
 didnâ€™t buy very much.â€  The gallery subsequently moved to Vancouver 
 in 1958 where it shared space with the newly formed Arts Club and 

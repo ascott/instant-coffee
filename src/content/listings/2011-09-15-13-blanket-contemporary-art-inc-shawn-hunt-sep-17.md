@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 13
 type: ""
+venue: "Blanket Contemporary Art Inc"
 summary: "Blanket Contemporary Art Inc | Shawn Hunt | SEP 17"
 ---
 
@@ -15,7 +16,7 @@ Shawn Hunt
 
 Curated by Lawrence Paul Yuxweluptun
 
-September 17 â€“ October 15
+September 17 – October 15
 
 Opening reception Saturday September 17 6-9pm
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 29
 type: "OPENING"
+venue: "sn?w?ey?? lel?m? Langara"
 summary: "sn?w?ey?? lel?m? Langara | Fine Arts Grad Show | APR 25"
 ---
 

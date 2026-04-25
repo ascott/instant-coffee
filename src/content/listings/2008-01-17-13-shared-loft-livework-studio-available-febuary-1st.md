@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: nothing happens in good weather"
 emailDate: "Wed, 16 Jan 2008 19:41:13 -0800"
 number: 13
 type: ""
+venue: "Shared Loft Live/Work Studio"
 summary: "Shared Loft Live/Work Studio | Available Febuary 1st"
 ---
 

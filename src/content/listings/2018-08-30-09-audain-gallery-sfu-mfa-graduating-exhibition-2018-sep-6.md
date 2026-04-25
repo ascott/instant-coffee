@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 9
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | SFU MFA Graduating Exhibition 2018 | SEP 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 24
 type: ""
+venue: "Roedde House Museum"
 summary: "Roedde House Museum | Visitor’s Stitch and Sip | NOV 18"
 ---
 

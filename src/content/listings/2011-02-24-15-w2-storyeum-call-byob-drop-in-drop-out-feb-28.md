@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 15
 type: ""
+venue: "W2 Storyeum"
 summary: "W2 Storyeum | CALL: BYOB DROP IN/ DROP OUT | FEB 28"
 ---
 
@@ -29,7 +30,7 @@ Participating Artists:
 
 Mairin Cooley, Liz Van Allen, Jessica Parsons, Peter Hadfield, Vincent Van
 Haaf, Jennilee Marigomen, Athena Papadopoulos,Greg Ryan, Luciana
-D'AnunciaÃƒÂ§ÃƒÂ£o, Heidi Nagtegaal, Devin Mackenzie, Theodore Bernard, Jaik
+D'AnunciaÃ§Ã£o, Heidi Nagtegaal, Devin Mackenzie, Theodore Bernard, Jaik
 Olsen, Shawna Mclellan, Marie Horstead, Simon Redcrop, Patrick McManus,
 Patrick Cruz, Sam Buss, Jordan and David Doody, Stephen James, Chris Boni,
 Barry Doupe, Emilio Rojas, Zahid Zawa, Robert Fougere,Paul Paper, Ian
@@ -67,7 +68,7 @@ http://www.facebook.com/lovedancing
 Drop Out Video Arts Society
 http://www.dropoutvideo.com
 
-BYOB and Artist RafaÃƒÂ«l Rozendaal:
+BYOB and Artist RafaÃ«l Rozendaal:
 
 http://www.byobworldwide.com/
 

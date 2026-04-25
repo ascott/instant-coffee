@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Baby | AUG 28"
 ---
 

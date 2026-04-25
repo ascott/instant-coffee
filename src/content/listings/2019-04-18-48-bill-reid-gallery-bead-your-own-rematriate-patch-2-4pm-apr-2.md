@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 48
 type: "EDUCATION"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | Bead Your Own ReMatriate Patch | 2-4PM | APR 27"
 ---
 

@@ -21,11 +21,11 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-07-24-07-yactac-gallery-john-mutter-how-to-settle-a-payment-on-a-hors">07. Yactac Gallery | John Mutter: How To Settle A Payment On A Horse | JUL 24</a>
 <a href="/instant-coffee/listings/2014-07-24-08-gallery-295-let-me-tell-you-this-jul-25">08. Gallery 295 | Let Me Tell You This | JUL 25</a>
 <a href="/instant-coffee/listings/2014-07-24-09-access-gallery-conversation-brendan-fernandes-on-eight-ounce">09. Access Gallery | Conversation: Brendan Fernandes | on Eight Ounces Half a Pound | JUL 26</a>
-<a href="/instant-coffee/listings/2014-07-24-10-dynamo-arts-association-its-a-long-story-jul-26">10. Dynamo Arts Association | Itâ€™s A Long Story | JUL 26</a>
+<a href="/instant-coffee/listings/2014-07-24-10-dynamo-arts-association-its-a-long-story-jul-26">10. Dynamo Arts Association | It’s A Long Story | JUL 26</a>
 <a href="/instant-coffee/listings/2014-07-24-11-sunset-terrace-the-happy-hour-cassette-lounge-with-late-cuts">11. Sunset Terrace | The Happy Hour cassette lounge with Late Cuts | JUL 26</a>
 <a href="/instant-coffee/listings/2014-07-24-12-vivo-media-arts-centre-kristen-roosross-birdwise-jul-26">12. VIVO Media Arts Centre | KRISTEN ROOS+ROSS BIRDWISE | JUL 26</a>
 <a href="/instant-coffee/listings/2014-07-24-13-presentation-house-gallery-maplewood-mudflats-tour-jul-27">13. Presentation House Gallery | MAPLEWOOD MUDFLATS TOUR | JUL 27</a>
-<a href="/instant-coffee/listings/2014-07-24-14-the-apartment-poets-theatre-jul-27">14. The Apartment | â€˜Poets Theatreâ€™ | JUL 27</a>
+<a href="/instant-coffee/listings/2014-07-24-14-the-apartment-poets-theatre-jul-27">14. The Apartment | ‘Poets Theatre’ | JUL 27</a>
 <a href="/instant-coffee/listings/2014-07-24-15-vancouver-art-gallery-david-wisdom-summer-slideshows-jul-29">15. Vancouver Art Gallery | David Wisdom, Summer Slideshows | JUL 29</a>
 <a href="/instant-coffee/listings/2014-07-24-16-index-gallery-it-came-from-the-sky-jul-31">16. INDEX GALLERY | IT CAME FROM THE SKY | JUL 31</a>
 <a href="/instant-coffee/listings/2014-07-24-17-one-night-stand-show-an-uncared-for-arrangement-jul-31">17. One Night Stand | Show: An Uncared For Arrangement | JUL 31</a>
@@ -39,9 +39,9 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-07-24-01-city-of-vancouver-call-artist-studio-awards-program-jul-24">01. CITY OF VANCOUVER | Call: ARTIST STUDIO AWARDS PROGRAM | JUL 24</a>
 ------------------------------------------------------------------------
-THE CITY OF VANCOUVERâ€™S ARTIST STUDIO AWARDS PROGRAM 
+THE CITY OF VANCOUVER’S ARTIST STUDIO AWARDS PROGRAM 
 NOW ACCEPTING APPLICATIONS
-The City of Vancouverâ€™s Artist Studio Awards Program is offering two- and 
+The City of Vancouver’s Artist Studio Awards Program is offering two- and 
 three-year residencies in live/work and work/only studios starting February 
 2015. Artists currently residing in Vancouver who can demonstrate financial 
 need are eligible to apply. Eligible artists will be evaluated on the artistic 
@@ -49,7 +49,7 @@ merit of their work.
 
 OPEN HOUSE
 
-Come see the incredible studios available through this program â€“ we are 
+Come see the incredible studios available through this program – we are 
 hosting open houses on Thursday July 24th between 4pm and 7 pm and 
 on Saturday August 16th between 1 pm and 4 pm. City staff will be on 
 hand to answer questions.
@@ -114,7 +114,7 @@ Leah Weinstein | Jay White | Maiko Yamamoto
 
 Low Residency Masters of Applied Arts
 2014 Graduate Exhibition
-July 18â€“ 27, 2014
+July 18– 27, 2014
 Opening Reception July 17, 6:30-10 pm
 Charles H. Scott Gallery
 1399 Johnston Street, Granville Island
@@ -123,7 +123,7 @@ Emily Carr University of Art + Design presents:
 
 TRANSACTANTS: Agents of Process
 In this graduating class exhibit, seven artists come together to present 
-works that exploreâ€”through an agency of artist and artworkâ€”connective 
+works that explore—through an agency of artist and artwork—connective 
 and divergent processes. Drawing upon different themes, materials, and 
 forms, the works speak to a shared set of concerns between these artists. 
 Investigating negotiations within everyday, constructed, or immediate 
@@ -137,7 +137,7 @@ The artist-agents in this exhibit put forward process-based works that
 experiment with walking practices, performed installation, repetitive 
 gesture, interdisciplinary social practice, collaboration, improvisational 
 sewing and sculptural utopias. Each of the works actively mediates the 
-viewerâ€™s experience and puts forward new spatial possibilities. Space is a 
+viewer’s experience and puts forward new spatial possibilities. Space is a 
 common device; it is shared and idealized, social and embodied, revealed 
 and exposed. It is instigator, agitator and muse. Space draws these artists 
 together on new ground to open up new acts of exchange.
@@ -145,7 +145,7 @@ together on new ground to open up new acts of exchange.
 TRANSACTANTS invites the viewer to witness moments where these 
 works relate, repel and retract from each other, to reveal an even larger 
 process occurring in space and time that is shared yet individual, real yet 
-virtualÂ­â€”and above allâ€”fleeting.
+virtual­—and above all—fleeting.
 
 For more information, please visit: www.lowresgradshow.wordpress.com
 
@@ -155,16 +155,16 @@ For more information, please visit: www.lowresgradshow.wordpress.com
 
 Materialized out of Finland
 
-Curated by Ã„kkigalleria
+Curated by Äkkigalleria
 
-July 24th â€“ 26th 2014
+July 24th – 26th 2014
 
 Opening reception Thursday, July 24th 6-8 pm
 
 Maija Holma - Leena Kangaskoski - Antti Laitinen - Emma Lappalainen- 
 Janne Nabb & Maria Teeri - Jukka Silokunnas - Lasse Ursin
-For its 5th anniversary, the Finnish nomadic art gallery, Ã„kkigalleria, is 
-venturing outside of its hometown JyvÃ¤skylÃ¤ to present work by seven 
+For its 5th anniversary, the Finnish nomadic art gallery, Äkkigalleria, is 
+venturing outside of its hometown Jyväskylä to present work by seven 
 Finnish artists in the exhibition Materialized out of Finland in collaboration 
 with Initial Gallery. The selection of pieces is balanced between the two 
 strong roots of Finnish culture and economy: wilderness and technology.
@@ -180,13 +180,13 @@ relationship to nature.
 
 About the gallery:
 
-Ã„kkigalleria is an artist-run, non-profit, nomadic exhibition space that 
+Äkkigalleria is an artist-run, non-profit, nomadic exhibition space that 
 appears spontaneously when appropriate locations become available. Our 
 intention is to provide a rent-free platform for a commixture of artists to 
-show new work. Ã„kkigalleria was established in 2009, with the intension of 
+show new work. Äkkigalleria was established in 2009, with the intension of 
 mobilizing the visual arts into happenings and events; to offer alternative 
 venues for sharing visual arts; to provide live, cultural and social activities 
-for the residents of JyvÃ¤skylÃ¤; to support local and emerging artists; to 
+for the residents of Jyväskylä; to support local and emerging artists; to 
 activate vacant spaces; and to instigate exchange between artists and 
 artistic disciplines. We strive to promote creative risk taking, to find new 
 and imaginative ways to bring art to different public spheres by engaging 
@@ -264,15 +264,15 @@ deemed, during Oscar Wilde's lifetime, the love that dare not speak its
 name. This exhibition intends t0 explore the ways in which contemporary 
 gay artists have used language in their art to explore their identity.
 
-Playful manipulation of language is demonstrated in Luis Jacobâ€™s work, a 
+Playful manipulation of language is demonstrated in Luis Jacob’s work, a 
 print derived from the action of him kissing a sheet of paper, a la Joyce 
-Weilland, while singing the disco funk anthem, Sylvesterâ€™s â€œYou Make Me 
+Weilland, while singing the disco funk anthem, Sylvester’s “You Make Me 
 Feel (Mighty Real)â€ . Keith Cole marries text and visual in collages derived 
 from mass media and advertising as he draws upon popular culture.
 
 Text can be immediate, and billboards and signage exemplify the 
 commercial world, as demonstrated by the poster work of the late Toronto-
-based artist, Will Munro. Munro was one of Torontoâ€™s most active 
+based artist, Will Munro. Munro was one of Toronto’s most active 
 promoters of queer culture over the past decade, and brought to Toronto 
 such legendary music performers as The Hidden Cameras, Nina Hagen, 
 Peaches, among others. His work with monthly events Vazaleen Peroxide, 
@@ -288,12 +288,12 @@ and electrical poles throughout the city, while communicating information
 that is arguably non-immediate.
 
 In a deeply personal work called dear folks, Todd Evanger mines meaning 
-from a collection of handwritten letters, signed by the artistâ€™s father, sent 
+from a collection of handwritten letters, signed by the artist’s father, sent 
 from the Boundary Lake oil field to Marsden, Saskatchewan, during the 
 1970s. In a different way, the narrative possibilities of text appeals to 
 Jeffrey Hallbauer in a skillful watercolour that investigates the image-
 conscious element of gay culture that binds and divides it. Patryk 
-Stasieczekâ€™s photographic work, I Am You, all crumpled destruction and 
+Stasieczek’s photographic work, I Am You, all crumpled destruction and 
 chromatic exposure as a form of conceptual engagement with the material 
 process, poses a thoughtful philosophical response.
 
@@ -302,7 +302,7 @@ Terence Koh, as his early alias, asianpunkboy, created a text piece carved
 on painted metal called No Sissy Gays that employs a sensitive phrase as 
 a method of an oppressed person reclaiming language.
 
-Paul de Guzmanâ€™s new slideshow titled i need you investigates the 
+Paul de Guzman’s new slideshow titled i need you investigates the 
 phenomenon of mass communication of private desire, often closeted and 
 hidden, on game-changing technology, Craigslist. He explores visual 
 alliteration by entwining Craigslist M2M personal ads with deftly-chosen, 
@@ -313,7 +313,7 @@ definition with audio. Due to the sexually explicit text used in this
 slideshow, some parts may prove objectionable to some viewers. Viewer 
 discretion is advised.
 
-Attila Richard Lukacsâ€™ explicit references to homoerotic sexuality in his 
+Attila Richard Lukacs’ explicit references to homoerotic sexuality in his 
 paintings have often shocked galleries and the public. In a series of pure-
 text paintings, the inscribed text are both literal and resonant to those who 
 have experienced the thrilling facets of dom / sub relationships.
@@ -321,7 +321,7 @@ have experienced the thrilling facets of dom / sub relationships.
 Artists have, of course, also looked to language for its poetic impact and 
 literary resonances. Like Eve Fowler, Brendan Fernandes' text on wall 
 contribution draws upon the daddy mentor / young mentee relationships 
-illustrated in Platoâ€™s Symposium and references his newest sculptural and 
+illustrated in Plato’s Symposium and references his newest sculptural and 
 recent performative dance work that looks at the intimate relation between 
 embodiment and identity.
 
@@ -347,12 +347,12 @@ V5X3B7
 
 https://www.youtube.com/watch?v=ey6uTe3mCOo
 
-â€œI felt like a yak trapped in salt. Under the parched noon I felt cracked,
+“I felt like a yak trapped in salt. Under the parched noon I felt cracked,
 and rootless. The wind whipped my my serape around me and blew across 
 my
 tracks, erasing them.
 
-'A deal is a deal' my father used to say, but heâ€™s swimming with the fishes
+'A deal is a deal' my father used to say, but he’s swimming with the fishes
 now, his muscles slick with scales. He can look up at the way the light
 hits the waves as many times as he wants.
 
@@ -369,12 +369,12 @@ On days like that no one moved. The air tasted bitter with a trace of old
 campfires.
 
 That day no one stood in the street, instead they all went inside and just
-leaned against the wall, sighing. Thatâ€™s why I knew right away it was bad,
+leaned against the wall, sighing. That’s why I knew right away it was bad,
 even before I heard the tap of boots on the long wooden porches, coming
 towards me, and the clanking of spurs. I saw him without even looking up.
 
 The worst kinds of deals are made in silence, and already I knew it would
-end in a killing, and I wouldnâ€™t even remember to bury him. These days the
+end in a killing, and I wouldn’t even remember to bury him. These days the
 dead have to fend for themselves, with the cost of shovels being how it is
 and even the ground too hard and dry for digging. And I hated killing, but
 more than that I was tired. He stood there with his back to the sky,
@@ -396,19 +396,19 @@ Presented on ipads and screens with headphones, the new works
 seamlessly
 combine still photography and video with music and sound. The detailed 
 and
-immersive scenarios question humanityâ€™s role on earth, drawing attention 
+immersive scenarios question humanity’s role on earth, drawing attention 
 to
 both the positive and negative; exaggerated symbols and classic scenes 
 from
-literature and film celebrate the extensive history of humanityâ€™s creative
+literature and film celebrate the extensive history of humanity’s creative
 output, while content and theme sarcastically and satirically point to
-popular cultureâ€™s disconnect from reality and mankindâ€™s withdrawal from
+popular culture’s disconnect from reality and mankind’s withdrawal from
 nature. Characters are played exclusively by Vancouver-based musicians 
 and
 artists.
 
 The temporal context of each scene is omitted, allowing audiences to
-animate their own narrative based on their understanding of clichÃ©s in
+animate their own narrative based on their understanding of clichés in
 human storytelling. Hints, however, are given in visual clues in fabrics,
 patterns, animals and objects that play reoccurring roles; music and sound
 create contrast, context and space.
@@ -471,7 +471,7 @@ inserting the collection into the present experience of events.
 The artists in Let me tell you this take up different aspects of the new-
 narrative archive. Christopher Boyne takes us through the story of his 
 father catching a big fish, and visualizes the latent drama saturated by his 
-fatherâ€™s repeated oral telling in the architecture of the of photo-cinematic 
+father’s repeated oral telling in the architecture of the of photo-cinematic 
 gaze. David Crocker situates himself into the role of the archivist, working 
 through old photographic plates and presenting them as documented 
 objects in a sequence of paired images that illustrate the material fragility 
@@ -505,16 +505,16 @@ event, the exhibiting artists of Eight Ounces Half a Pound -- Guadalupe
 Martinez, Katherine Soucie and Tommy Ting -- converse with visiting artist 
 Brendan Fernandes about the ways in which issues of race, labour and the 
 body inflect each of their practices. Currently based between Toronto and 
-New York, Brendan Fernandesâ€™ cultural background as a Kenyan-Indian-
+New York, Brendan Fernandes’ cultural background as a Kenyan-Indian-
 Canadian informs his sculpture and installation-based practice, where he 
 explores issues of migration, the mutations of language and the notion of 
 enacted identity. In his newest work Fernandes investigates movement, 
 physicality and gender, in particular the ways that techniques are encoded 
 and recalled in both labouring and dancing bodies via muscle memory and 
 the lexicon of dance. Fernandes has exhibited internationally including 
-exhibitions at the Solomon R. Guggenheim Museum, the MusÃ©e d'art 
-contemporain de MontrÃ©al, The National Gallery of Canada and The Third 
-Guangzhou Triennial. Fernandesâ€™ participation in this event is courtesy of 
+exhibitions at the Solomon R. Guggenheim Museum, the Musée d'art 
+contemporain de Montréal, The National Gallery of Canada and The Third 
+Guangzhou Triennial. Fernandes’ participation in this event is courtesy of 
 the Contemporary Art Gallery, which is hosting him as part of their Studio 
 Residency Program at the Burrard Marina Field House in summer 2014. 
 During his residency Fernandes will be developing a new dance work 
@@ -524,19 +524,19 @@ Access Gallery 222 E Georgia St, Vancouver, BC V6A 1Z7
 (604) 689-2907
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-07-24-10-dynamo-arts-association-its-a-long-story-jul-26">10. Dynamo Arts Association | Itâ€™s A Long Story | JUL 26</a>
+<a href="/instant-coffee/listings/2014-07-24-10-dynamo-arts-association-its-a-long-story-jul-26">10. Dynamo Arts Association | It’s A Long Story | JUL 26</a>
 ------------------------------------------------------------------------
 Dynamo Arts Association presents,
 
-Itâ€™s A Long Story
+It’s A Long Story
 
-July 26thÂ­ - August 5th
+July 26th­ - August 5th
 
-Opening receptionÂ­ - July 26th at 7PM
+Opening reception­ - July 26th at 7PM
 
 30 e.6th ave
 
-Viewing by appointmentÂ­ - (604) Â­516 Â­9551
+Viewing by appointment­ - (604) ­516 ­9551
 
 Tommy Chain
 
@@ -550,7 +550,7 @@ Mike Lachman
 
 Stephan Wright
 
-Itâ€™s A Long Story recounts particular understandings of a multidimensional 
+It’s A Long Story recounts particular understandings of a multidimensional 
 notion of the
 
 interior within the parameters of a given exhibition space. The exhibition 
@@ -588,7 +588,7 @@ booths available for intimate replays - tape dubbing station to multiply your
 choice tracks! Art supplies for cover jamming - Cheap drinks available all 
 night!
 
-FEATURINâ€™ mix TAPES by:
+FEATURIN’ mix TAPES by:
 
 Nafisa Kaptownwala
 Nick Howe
@@ -617,11 +617,11 @@ Maya Baudry
 Flip Jupiter
 Moo Paget
 Logan Sturrock
-Johan BjÃ¶rck 
+Johan Björck 
 Lamb Shiveral
 Sharona Franklin
 Prichard Macfarlene
-Flyinâ€™
+Flyin’
 Bobby Socks
 Kyle Bee
 Arritudes In Error
@@ -657,12 +657,12 @@ We will reopen in September at 2625 Kaslo St.
 
 VIVO is pleased to present a time-based sound and video installation by 
 artists Kristen Roos and Ross Birdwise, in the soon-to-be vacant 1965 
-Main St. building (a space that has served as the organizationâ€™s base over 
+Main St. building (a space that has served as the organization’s base over 
 the past 20 years).
 
 This installation presents discoveries made by Roos and Birdwise during 
-their three month residency working around and within the centreâ€™s re-
-location. Materials intrinsic to the organizationâ€™s existence and renewal 
+their three month residency working around and within the centre’s re-
+location. Materials intrinsic to the organization’s existence and renewal 
 over time have been retrieved and animated. Acting both as witnesses and 
 investigators the artists have examined the experience of VIVO in its 
 accomplishments, anxieties and precariousness through the individual 
@@ -670,7 +670,7 @@ lenses of the current members of the management collective.
 
 This reflective process speaks to both the socioeconomic climate of the 
 city and the embedded, shifting role of artist-run-centres. Posing questions 
-about VIVOâ€™s institutional history and its political agency, this exhibition 
+about VIVO’s institutional history and its political agency, this exhibition 
 might provide glimpses into things that can only be found in the glitches, 
 noises, faulty systems and problematic conditions of institutions. Perhaps it 
 is in these unstable, contested spaces and states that possible futures can 
@@ -678,7 +678,7 @@ sometimes be glimpsed.
 
 As VIVO prepares its departure, 1965 Main St. becomes a momentary 
 laboratory, storage facility, moving company, studio, haunted house, shrine 
-â€“ and the only site for this terminal installation.
+– and the only site for this terminal installation.
 
 KRISTEN ROOS is a Vancouver based artist whose practice includes site-
 specific installations, sound design for dance, and live performance. The 
@@ -695,7 +695,7 @@ kristenroos.com
 ROSS BIRDWISE is a Vancouver-based musician and visual artist. Much 
 of his recent electronic music, whether beatless noise, or some sort of beat 
 driven experimental music or free improvisation, is concerned with the 
-deliberate manipulation of the listenerâ€™s sense of time and space and is 
+deliberate manipulation of the listener’s sense of time and space and is 
 concerned with disrupting or dequantizing the quantized grid that underlies 
 much electronic music to attempt to create musical space-times that are 
 alternately fluid, lurching, malfunctioning, awkward, violent or organic. 
@@ -725,7 +725,7 @@ Presented in partnership with the Wild Bird Trust's "Return of the Osprey
 Festival"
 
 Presentation House Gallery is pleased to offer a tour of the Maplewood 
-Conservation Areaâ€”the storied site of our current exhibition, "Bruce 
+Conservation Area—the storied site of our current exhibition, "Bruce 
 Stewart: Dollarton Pleasure Faire, 1972." Join curator and former 
 Presentation House Gallery Director Bill Jeffries and Patricia Banning-
 Lover, President of the Wild Bird Trust of British Columbia, for a historic 
@@ -748,9 +748,9 @@ V7M 3G9
 presentationhousegallery.org
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-07-24-14-the-apartment-poets-theatre-jul-27">14. The Apartment | â€˜Poets Theatreâ€™ | JUL 27</a>
+<a href="/instant-coffee/listings/2014-07-24-14-the-apartment-poets-theatre-jul-27">14. The Apartment | ‘Poets Theatre’ | JUL 27</a>
 ------------------------------------------------------------------------
-This July, The Apartment is celebrating â€˜Poets Theatreâ€™ by organizing a 
+This July, The Apartment is celebrating ‘Poets Theatre’ by organizing a 
 festival of sorts through the final, heated weeks of the month.
 
 Inspired partly by the recent release of "The Kenning Anthology of Poets 
@@ -797,8 +797,8 @@ and I think I detect the pathos scene, the catastrophe and the lamentation."
 "Lot," a special installation by Tiziana La Melia will act as a theatrical 
 environment to play in. 
 
-La Meliaâ€™s recent works fall under the loose rubric of "Purple Poses" and 
-â€œcome out of my research on decreation, dropouts, and disappearances; it 
+La Melia’s recent works fall under the loose rubric of "Purple Poses" and 
+“come out of my research on decreation, dropouts, and disappearances; it 
 is an extension of my research on the affect of illness, in a broad sense, 
 and emerges out of research on figures such as Karen Carpenter, Janis 
 Joplin, Emmy Hennings, and Mark Twain's Aquarium Club.â€ 
@@ -830,7 +830,7 @@ David Wisdom
 Connie Kuhns
 Hank Bull
 Scout Upex
-James Oâ€™Mara
+James O’Mara
 Erica Zacharias
 Dennis Ha
 Sophia Burke
@@ -889,10 +889,10 @@ Address: 29 - 1151 Haro St
 
 Time: July 31st, 1900 - 2300
 
-One Night Stand is a gallery whoâ€™s shows open and close in one night. An 
+One Night Stand is a gallery who’s shows open and close in one night. An 
 Uncared For Arrangement brings together six emerging artists work into 
 conversation and opposition to each other. The line connecting these 
-artistâ€™s work together must be drawn by the visitor them self; the curation is 
+artist’s work together must be drawn by the visitor them self; the curation is 
 intended to background the works on display, and not preside over them 
 with a personal vision.
 
@@ -943,53 +943,53 @@ Opening reception, August 07, 7pm, 2014
 Dynamo Arts Association
 30 East 6th
 
-Aquarius 21 January â€“ 21 February
+Aquarius 21 January – 21 February
 The world is your oyster; you must shower three times a week. The day 
 after tomorrow is your lucky day. Always count your change especially from 
 acquaintances.
 
-Pisces 22 February â€“ 21 March
+Pisces 22 February – 21 March
 Give and you shall receive; your career is at peak try to take refuge from 
 the wilderness. Persimmon is good for you.
 
-Aries 22 March â€“ 20 April
+Aries 22 March – 20 April
 Sometimes you can never be first. Allow your ego to have a coffee break. 
 Start again tomorrow.
 
-Taurus 21 April â€“ 21 May
+Taurus 21 April – 21 May
 Trimming the horns would be ideal. Avoid senseless chatter and gossip. 
 You are on fire and keep the charcoal burning, make sure you flip the patty 
-before itâ€™s too late.
+before it’s too late.
 
-Gemini 22 May â€“ 21 June
+Gemini 22 May – 21 June
 Confusion is normal. The path can be tricky to navigate without a shovel. 
 Try new hobbies, your lucky sport is blogging.
 
-Cancer 21 June â€“ 22 July
+Cancer 21 June – 22 July
 The qualities of water are like feelings. They dry up at unexpected times. 
 Avoid eating seafood.
 
-Leo 23 July â€“ 22 August
+Leo 23 July – 22 August
 You have short hair, long enough to cut it down. Stage presence is key to 
 success, Life is priceless be wary of strangers.
 
-Virgo 23 August â€“ 22 September
+Virgo 23 August – 22 September
 The Earth is not enough for you. Meditation is recommended. Math is your 
 strength.
 
-Libra 23 September â€“ 23 October
+Libra 23 September – 23 October
 Arguments are your biggest task today. Money problems can be loaned 
 from a lot of places. Use caution when partying.
 
-Scorpio 24 October â€“ 21 November
+Scorpio 24 October – 21 November
 Medicine in the wrong hands can be poison; Poison in the right hands can 
 be medicine. Try switching your choices.
 
-Sagittarius 22 November â€“ 21 December
+Sagittarius 22 November – 21 December
 Stress is the leading figure of public health demise. Refuse to go out during 
 full moons. Fatty foods are delicious.
 
-Capricorn 22 December â€“ 21 January
+Capricorn 22 December – 21 January
 Your hard work pays during days off. Resume your artistic side to nurture a 
 fruitful business. Eggplant is your best friend.
 
@@ -1012,10 +1012,10 @@ overarching theme of disruption.
 The International Symposium on Electronic Art (ISEA) will be held in 
 Vancouver, Canada August 14 - 18, 2015. 
 
-ISEA is one of the worldâ€™s most important international academic 
+ISEA is one of the world’s most important international academic 
 arts/technology events for the interdisciplinary discussion and showcase of 
 creative productions applying new technologies in art for interactive, 
-electronic and digital media. Itâ€™s an event that annually brings together 
+electronic and digital media. It’s an event that annually brings together 
 artists, academics, scientists, and designers. The symposium consists of a 
 peer reviewed conference and a wide-ranging program of artistic activity 
 including partner events such as residencies, screenings, and 
@@ -1028,7 +1028,7 @@ online works, performances, screenings, installations, visual art, electronic
 literature, works that engage with public space, photography, media art, 
 interdisciplinary projects, music and video. There will be a gallery exhibition 
 as well as works that engage with other sites in and around the downtown 
-Woodwardâ€™s main campus and elsewhere in Vancouver.
+Woodward’s main campus and elsewhere in Vancouver.
 
 The ISEA2015 committee encourages individual artists and/or creative 
 teams to conceptualize and scale their projects with budget considerations 
@@ -1036,12 +1036,12 @@ in mind. ISEA2015 will consult with selected artists around grants and
 funding applications.
 
 Important dates:
-â€¢	Deadline for submissions: August 10, 2014
-â€¢	Projected Date of Notification of Acceptance: September 15, 
+•	Deadline for submissions: August 10, 2014
+•	Projected Date of Notification of Acceptance: September 15, 
 2014
 
 THEME
-ISEA2015â€™s theme of DISRUPTION invites a conversation about the 
+ISEA2015’s theme of DISRUPTION invites a conversation about the 
 aesthetics of change, renewal, and game-changing paradigms. We look to 
 raw bursts of energy, reconciliation, error, and the destructive and creative 
 forces of the new. Disruption contains both blue sky and black smoke. 
@@ -1132,7 +1132,7 @@ change? How do defamiliarization and rupture cross from literature into
 other spheres? Using text and code, how can we investigate contemporary 
 aesthetics at this moment within bookforms, narrative, electronic, or 
 generative literature? What are the possibilities of creation and destruction 
-using the medium of code and the function of the literary in todayâ€™s culture?
+using the medium of code and the function of the literary in today’s culture?
 
 SCIENCE + INTERDISCIPLINARITY
 Science informs art as art problematizes science. How have disruptive 
@@ -1161,7 +1161,7 @@ including but not limited to site-specific work, interactive projects, online
 works, performances, screenings, installations, visual art, electronic 
 literature, works that engage with public space, photography, media art, 
 interdisciplinary projects, and video. There will be a gallery exhibition as 
-well as works that engage with other sites in and around the Woodwardâ€™s 
+well as works that engage with other sites in and around the Woodward’s 
 main campus and elsewhere in Vancouver. 
 
 The ISEA2015 committee encourages individual artists and/or creative 
@@ -1171,17 +1171,17 @@ funding applications.
 
 To submit work, please send the following by email to isea2015-
 art@sfu.ca. These elements must be compiled into a single PDF. 
-â€¢	Brief project description (200 words)
-â€¢	Thematic statement
-â€¢	1 - 2 images
-â€¢	If submitting a video, send a link to the vimeo
-â€¢	Artist bio or CV 
-â€¢	Proposed budget
-â€¢	Technical and logistic requirements
+•	Brief project description (200 words)
+•	Thematic statement
+•	1 - 2 images
+•	If submitting a video, send a link to the vimeo
+•	Artist bio or CV 
+•	Proposed budget
+•	Technical and logistic requirements
 
 TIMELINE:
-â€¢	Deadline for submissions: August 10, 2014
-â€¢	Projected Date of Notification of Acceptance: September 15, 
+•	Deadline for submissions: August 10, 2014
+•	Projected Date of Notification of Acceptance: September 15, 
 2014
 
 ISEA INTERNATIONAL
@@ -1213,9 +1213,9 @@ ordinance of the rooftop patio, no matter the venue the revolutionary
 gestures of many politicized artworks are lessened by virtue of happening 
 within or for an institutional body. 
 
-Moreover, political artwork often struggles to â€˜moveâ€™ outside the niche 
+Moreover, political artwork often struggles to ‘move’ outside the niche 
 audience or specialized knowledge of the art communities that frequent 
-such institutions. No matter how revolutionary the work may be, it canâ€™t 
+such institutions. No matter how revolutionary the work may be, it can’t 
 incite discourse or social change if it fails to connect or intervene into a 
 community beyond its own. In light of these perplexities, KAPSULA asks: is 
 it possible for contemporary artists to act outside the institutional 
@@ -1227,7 +1227,7 @@ Artists/artworks that manage to circumvent institutions
 The line between intervention and activism
 The complexities of community art
 Ethics in public and large-scale performance
-Questions of â€˜commitmentâ€™ within art practice
+Questions of ‘commitment’ within art practice
 Deadline September 01 2014
 Full call and submission guidelines at www.kapsula.ca
 Submit to submissions@kapsula.ca
@@ -1263,32 +1263,32 @@ Responsibilities:
 The Media Arts Curator reports directly to the Executive Director and 
 assumes the leadership and responsibility for:
 
-Â· Developing and communicating a dynamic vision for the Media Arts 
+· Developing and communicating a dynamic vision for the Media Arts 
 Program
-Â· Curating artist production residencies
-Â· Curating screenings and public presentations of work generated 
+· Curating artist production residencies
+· Curating screenings and public presentations of work generated 
 through both the residency program and the Western Front Media Archive
-Â· Writing grants and pursuing opportunities for additional funding and 
+· Writing grants and pursuing opportunities for additional funding and 
 support
-Â· Facilitating access to the Western Frontâ€™s archival holdings
-Â· Assuming responsibility for the media production studio/space
+· Facilitating access to the Western Front’s archival holdings
+· Assuming responsibility for the media production studio/space
 
 Qualifications:
-Â· Extensive knowledge of Media Art practices, both historical and 
+· Extensive knowledge of Media Art practices, both historical and 
 contemporary
-Â· Extensive knowledge and understanding of broader art historical and 
+· Extensive knowledge and understanding of broader art historical and 
 contemporary art context
-Â· Knowledge and understanding of moving image archive practices
-Â· A clear understanding of the philosophy and history of the Canadian 
+· Knowledge and understanding of moving image archive practices
+· A clear understanding of the philosophy and history of the Canadian 
 artist-run centre movement
-Â· Excellent written and verbal communications skills
-Â· Proven financial management experience
-Â· Ability to effectively delegate and supervise staff, volunteers, interns 
+· Excellent written and verbal communications skills
+· Proven financial management experience
+· Ability to effectively delegate and supervise staff, volunteers, interns 
 and external contractors
-Â· Knowledge of the principle funding agencies and prior grant writing 
+· Knowledge of the principle funding agencies and prior grant writing 
 experience
-Â· Knowledge of managing publications and print projects
-Â· Knowledge of audio/video systems, new media and new technologies
+· Knowledge of managing publications and print projects
+· Knowledge of audio/video systems, new media and new technologies
 
 Benefits:
 A competitive benefits package is available after the three months 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 6
 type: "OPENING"
+venue: "People"
 summary: "People | Pits and Platforms | 12 PM | DEC 21"
 ---
 

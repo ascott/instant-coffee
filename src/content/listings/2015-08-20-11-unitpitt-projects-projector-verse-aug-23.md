@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 11
 type: "EVENT"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | Projector Verse | AUG 23"
 ---
 

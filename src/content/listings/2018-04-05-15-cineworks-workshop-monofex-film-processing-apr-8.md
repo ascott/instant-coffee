@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 15
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | WORKSHOP | Monofex Film Processing | APR 8"
 ---
 

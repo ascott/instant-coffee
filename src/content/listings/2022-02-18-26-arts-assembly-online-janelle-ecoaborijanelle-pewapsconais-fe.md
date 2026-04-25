@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 26
 type: "TALK"
+venue: "Arts Assembly [ONLINE]"
 summary: "Arts Assembly [ONLINE] | Janelle “ecoaborijanelle” Pewapsconais | FEB 24"
 ---
 

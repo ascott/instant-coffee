@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 35
 type: "EVENT"
+venue: "Toast Collective"
 summary: "Toast Collective | Poetry is Bad For You | 9PMish | OCT 19"
 ---
 

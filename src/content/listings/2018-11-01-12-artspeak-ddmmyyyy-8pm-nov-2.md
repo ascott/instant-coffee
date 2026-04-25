@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 12
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | “ddmmyyyy” | 8PM | NOV 2"
 ---
 

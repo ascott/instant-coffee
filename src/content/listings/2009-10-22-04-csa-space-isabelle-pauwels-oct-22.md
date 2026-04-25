@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why don't you think of something"
 emailDate: "Thu, 22 Oct 2009 09:30:22 -0700"
 number: 4
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | ISABELLE PAUWELS | OCT 22"
 ---
 

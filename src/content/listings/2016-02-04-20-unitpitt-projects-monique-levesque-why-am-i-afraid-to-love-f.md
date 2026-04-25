@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 20
 type: "TALK"
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Monique Levesque: Why Am I Afraid to Love? | FEB 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Small File Media Festival 2025 | DIM Cinema"
 ---
 

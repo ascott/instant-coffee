@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 25
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | DIGITAL AMALGAMATIONS | 7PM | APR 17"
 ---
 

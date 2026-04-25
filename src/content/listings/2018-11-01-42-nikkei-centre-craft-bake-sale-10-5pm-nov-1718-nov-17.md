@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 42
 type: "EVENT"
+venue: "Nikkei Centre"
 summary: "Nikkei Centre | Craft & Bake Sale | 10-5PM | NOV 17+18 | NOV 17"
 ---
 

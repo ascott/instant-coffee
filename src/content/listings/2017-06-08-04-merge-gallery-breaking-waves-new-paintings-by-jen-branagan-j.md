@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 4
 type: "OPENING"
+venue: "Merge Gallery"
 summary: "Merge Gallery | Breaking Waves: New Paintings by Jen Branagan | JUN 8"
 ---
 

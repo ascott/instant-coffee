@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 21
 type: ""
+venue: "Kimmel Harding Nelson Center for the Arts"
 summary: "Kimmel Harding Nelson Center for the Arts | CALL for Residency | Nebraska City | MAR 1"
 ---
 

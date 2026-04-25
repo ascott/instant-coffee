@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 15
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | $10,000 CHRISTMAS FUNDRAISER PARTY!!! | DEC 10"
 ---
 

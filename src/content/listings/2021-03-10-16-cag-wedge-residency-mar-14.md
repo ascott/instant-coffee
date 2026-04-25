@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 16
 type: "CALL"
+venue: "CAG"
 summary: "CAG | WEDGE RESIDENCY | MAR 14"
 ---
 

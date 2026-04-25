@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 19
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | Reading/Writing Workshop May-June 2009 | MAY 2"
 ---
 

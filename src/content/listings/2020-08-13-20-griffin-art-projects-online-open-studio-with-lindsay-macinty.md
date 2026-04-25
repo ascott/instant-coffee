@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 20
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | ONLINE | Open Studio with Lindsay MacIntyre | 1PM | AUG 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 2
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artist Talk with Brendan Tang | FEB 7"
 ---
 
@@ -12,7 +13,7 @@ Surrey Art Gallery
 Thursday February 7, 7:30pm
 
 â€œGorgeous hybridsâ€ , â€œbold, brash, and whimsicalâ€ , and â€œcompelling mutationsâ€  
-are just a few of the words used to describe BC-based artist Brendan Tangâ€™s 
+are just a few of the words used to describe BC-based artist Brendan Tang’s 
 wildly incongruous ceramic vessels that fuse Asian and Western historical 
 decorative styles with pop art forms derived from Japanese anime and manga.
 
@@ -23,12 +24,12 @@ Tang was born in Ireland to Trinidadian parents who are of Chinese and East
 Indian descent. Working in the unassuming, yet utterly transformable material 
 of clay, he creates a personal narrative with the hybridization of cultures 
 mirroring his identity as an â€œethnically-mixed Asian Canadian.â€  Tangâ€™s work is 
-in Surrey Art Galleryâ€™s new exhibition The future is already here: Alex McLeod 
+in Surrey Art Gallery’s new exhibition The future is already here: Alex McLeod 
 and Brendan Tang guest curated by Rachel Rosenfield Lafo. Admission to the 
 talk is free.
 
 Following significant educational and professional accomplishments, in 2012 
-this young artist won the RBC Emerging Artist Peopleâ€™s Choice Award in 
+this young artist won the RBC Emerging Artist People’s Choice Award in 
 ceramic art at the Gardiner Museum. www.brendantang.com
 
 There will be time for questions and conversation during and following the talk. 

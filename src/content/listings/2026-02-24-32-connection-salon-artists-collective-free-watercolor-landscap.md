@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 32
 type: "EDUCATION"
+venue: "Connection Salon Artists Collective"
 summary: "Connection Salon Artists Collective | FREE Watercolor Landscape Workshop | MAR 7"
 ---
 

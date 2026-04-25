@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 54
 type: "CALL"
+venue: "Federation of Canadian Artists"
 summary: "Federation of Canadian Artists | 2017 Annual International Mail-In Art Exhibition | JUN 3"
 ---
 

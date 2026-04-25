@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 13
 type: "TALK"
+venue: "Pollyanna 圖書館 Library"
 summary: "Pollyanna 圖書館 Library | The Health of the People is the Highest Law | NOV 29"
 ---
 

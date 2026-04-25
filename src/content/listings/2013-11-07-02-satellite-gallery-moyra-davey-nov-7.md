@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 2
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Moyra Davey | NOV 7"
 ---
 
@@ -24,8 +25,8 @@ photographs from her Newsstand series (1993-94) and Bottle Grid series
 Toronto, she began producing photographic mailers that carry the physical 
 traces of their journeys through the mail system, a practice that has 
 continued for subsequent exhibitions. She has mailed over 1,000 photographs 
-across the world. A new set of mailers â€“ 27 folded photographs taken in 
-Trinity Church Cemetery in upper Manhattan â€“ will be featured in the 
+across the world. A new set of mailers – 27 folded photographs taken in 
+Trinity Church Cemetery in upper Manhattan – will be featured in the 
 exhibition.
 
 Moyra Davey: Ornament and Reproach is curated by John Goodwin, and 
@@ -56,14 +57,14 @@ The gallery was originally formed with Roger Bywater, but since 2006 it has
 been under the direction of Goodwin, presenting exhibitions by artists such as 
 Rodney Graham, Mark Dion, Garry Neill Kennedy, Steven Shearer, Moyra 
 Davey and Jeremy Deller. He was the executive director of Printed Matter, 
-Inc., New York from 1988 â€“ 1993 and Shark Editions from 1990 â€“ 2001. From 
-1983 â€“ 1988 and 2000 â€“ 2001 Goodwin was the executive director of Art 
+Inc., New York from 1988 – 1993 and Shark Editions from 1990 – 2001. From 
+1983 – 1988 and 2000 – 2001 Goodwin was the executive director of Art 
 Metropole, Toronto.
 
 Moyra Davey: Ornament and Reproach is curated by John Goodwin. The 
-exhibition is generously supported by the Michael Oâ€™Brian Family Foundation, 
+exhibition is generously supported by the Michael O’Brian Family Foundation, 
 and organized by the Presentation House Gallery and Satellite Gallery.
 
-Satellite Gallery â€“ 560 Seymour Street, 2nd Floor, Vancouver BC
-Wednesday â€“ Saturday, 12 â€“ 6 pm
+Satellite Gallery – 560 Seymour Street, 2nd Floor, Vancouver BC
+Wednesday – Saturday, 12 – 6 pm
 www.satellitegallery.ca

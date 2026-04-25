@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 6
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | MEGAN HEPBURN AND ANDERS OINONEN | JAN 21"
 ---
 
 MEGAN HEPBURN AND ANDERS OINONEN
 Pulling a Slow One
 Opening Reception January 21st 201, 7pm-11pm
-January 21st â€“ February 26th, 2011
+January 21st – February 26th, 2011
 
 This show of new works by Megan Hepburn and Anders Oinonen
 explores contrasting yet complementary painting processes.
@@ -31,6 +32,6 @@ completed her MFA at Concordia University in Montreal.
 Anders Oinonen has had solo shows at CTRL Gallery, Houston,
 Texas and Mehr (Midtown), New York and Greener Pastures
 Contemporary Art, Toronto. Oinonen has shown in group shows at
-MusÃ©e d'art contemporain de MontrÃ©al, MontrÃ©al and Deitch
+Musée d'art contemporain de Montréal, Montréal and Deitch
 Projects, New York. Anders currently has an artist project featured in
 Hunter And Cook issue 07.

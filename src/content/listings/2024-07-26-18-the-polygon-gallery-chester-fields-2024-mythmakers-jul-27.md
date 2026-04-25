@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 18
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Chester Fields 2024: Mythmakers | JUL 27"
 ---
 

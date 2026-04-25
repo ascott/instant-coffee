@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 26
 type: "CALL"
+venue: "Far Afield"
 summary: "Far Afield | Call for Artworks | JAN 31"
 ---
 

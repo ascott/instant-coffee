@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 20
 type: "PERFORMANCE"
+venue: "Gallery @ Artech"
 summary: "Gallery @ Artech | Jemma & the Good Thing/Georgia Lee Johnson LIVE | DEC 5"
 ---
 

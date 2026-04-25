@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 32
 type: "OPENING"
+venue: "Hatch Gallery (UBC)"
 summary: "Hatch Gallery (UBC) | The S Project (CLOSING RECEPTION) | 6PM | NOV 7"
 ---
 

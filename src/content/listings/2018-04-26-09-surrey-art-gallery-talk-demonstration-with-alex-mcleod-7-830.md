@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 9
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Talk & Demonstration with Alex McLeod | 7-830PM | APR 27"
 ---
 

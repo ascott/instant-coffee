@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NAKED STATE"
 emailDate: "Thu, 20 Dec 2018 15:00:17 -0800"
 number: 1
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Sarah Davidson, Simone Jarvis, and Sonja Ratkay | 6-8 pm | DEC 27"
 ---
 

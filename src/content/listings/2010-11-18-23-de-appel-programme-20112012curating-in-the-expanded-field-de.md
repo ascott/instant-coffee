@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 23
 type: ""
+venue: "de Appel"
 summary: "de Appel | PROGRAMME 2011/2012:Curating in the expanded field | DEC 31"
 ---
 

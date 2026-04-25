@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 2
 type: ""
+venue: "ECU Speaker Series"
 summary: "ECU Speaker Series | Dan Adler on Hanne Darboven | OCT 16"
 ---
 
@@ -43,8 +44,8 @@ currently working on book that deals with sculpture and installation art in
 terms of aesthetic categories.
 
 Hanne Darboven was born in 1941 in Munich, Germany. Following a brief
-episode as a pianist, she studied painting at the Staatliche Hochschule fÃ¼r
-Bildende KÃ¼nst in Hamburg. Between 1966 and 1969, she lived intermittently
+episode as a pianist, she studied painting at the Staatliche Hochschule für
+Bildende Künst in Hamburg. Between 1966 and 1969, she lived intermittently
 in New York City, after which she returned to her family home in Hamburg
 where she continues to live and work. Darboven has participated in numerous
 international exhibitions including Documentas 5, 6, and 7 in Kassel, and

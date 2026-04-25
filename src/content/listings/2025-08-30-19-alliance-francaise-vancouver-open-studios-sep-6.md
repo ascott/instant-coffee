@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 19
 type: "EVENT"
+venue: "Alliance Francaise Vancouver"
 summary: "Alliance Francaise Vancouver | OPEN STUDIOS | SEP 6"
 ---
 

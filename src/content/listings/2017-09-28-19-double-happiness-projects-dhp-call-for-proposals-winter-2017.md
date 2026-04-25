@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 19
 type: "CALL"
+venue: "DOUBLE HAPPINESS PROJECTS (DHP)"
 summary: "DOUBLE HAPPINESS PROJECTS (DHP) | CALL FOR PROPOSALS WINTER 2017-2018 | OCT 8"
 ---
 

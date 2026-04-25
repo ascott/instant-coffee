@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 24
 type: ""
+venue: "JOB"
 summary: "JOB | ECU | Collaborative Technologies Production Lead | AUG 17"
 ---
 

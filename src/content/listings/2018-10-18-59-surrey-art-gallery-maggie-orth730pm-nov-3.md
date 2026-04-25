@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 59
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Maggie Orth｜730PM | NOV 3"
 ---
 

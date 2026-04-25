@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 10
 type: ""
+venue: "Centre A"
 summary: "Centre A | Access Gallery | 221A | Three in One on East Georgia Street: A Guided Tour | OCT 5"
 ---
 

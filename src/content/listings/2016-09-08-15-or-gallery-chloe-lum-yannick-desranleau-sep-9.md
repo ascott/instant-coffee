@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 15
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Chloe Lum & Yannick Desranleau | SEP 9"
 ---
 

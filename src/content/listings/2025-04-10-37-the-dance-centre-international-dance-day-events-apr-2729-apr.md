@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 37
 type: "EVENT"
+venue: "The Dance Centre"
 summary: "The Dance Centre | International Dance Day Events | APR 27&29 | APR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 21
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | 5 Tableaux (It Bounces Back) | SEP 9"
 ---
 

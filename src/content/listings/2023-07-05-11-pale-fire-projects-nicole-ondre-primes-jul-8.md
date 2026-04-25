@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 11
 type: "OPENING"
+venue: "Pale Fire Projects"
 summary: "Pale Fire Projects | Nicole Ondre: Primes | JUL 8"
 ---
 

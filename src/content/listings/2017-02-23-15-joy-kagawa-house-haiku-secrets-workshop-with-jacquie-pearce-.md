@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 15
 type: ""
+venue: "Joy Kagawa House"
 summary: "Joy Kagawa House | Haiku Secrets | Workshop with Jacquie Pearce | FEB 25"
 ---
 

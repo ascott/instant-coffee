@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 8
 type: ""
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | M. DRAGU's MUSEUM | JUL 21"
 ---
 

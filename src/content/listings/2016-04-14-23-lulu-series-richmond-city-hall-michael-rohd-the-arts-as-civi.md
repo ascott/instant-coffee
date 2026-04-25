@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 23
 type: "TALK"
+venue: "Lulu Series @ Richmond City Hall"
 summary: "Lulu Series @ Richmond City Hall | Michael Rohd - The Arts as Civic Practice | APR 21"
 ---
 

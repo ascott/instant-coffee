@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 29
 type: "EXHIBITION"
+venue: "The Gallery at Queen's Park (NEW WEST)"
 summary: "The Gallery at Queen's Park (NEW WEST) | Water's Edge | NOV 6"
 ---
 

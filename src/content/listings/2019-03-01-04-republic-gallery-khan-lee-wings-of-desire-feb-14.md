@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Khan Lee - Wings of Desire | FEB 14"
 ---
 

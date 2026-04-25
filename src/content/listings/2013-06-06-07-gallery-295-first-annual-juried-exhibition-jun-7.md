@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 7
 type: ""
+venue: "GALLERY 295"
 summary: "GALLERY 295 | first annual juried exhibition | JUN 7"
 ---
 

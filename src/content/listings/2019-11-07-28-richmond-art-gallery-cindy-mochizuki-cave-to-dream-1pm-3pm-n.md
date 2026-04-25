@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 28
 type: "PERFORMANCE"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Cindy Mochizuki: Cave To Dream | 1PM + 3PM | NOV 16"
 ---
 

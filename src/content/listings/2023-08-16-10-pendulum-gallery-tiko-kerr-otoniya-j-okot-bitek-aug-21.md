@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Tiko Kerr | Otoniya J. Okot Bitek | AUG 21"
 ---
 

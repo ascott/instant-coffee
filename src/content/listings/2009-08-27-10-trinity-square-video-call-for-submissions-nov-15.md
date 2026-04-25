@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: styles you'll love all season"
 emailDate: "Thu, 27 Aug 2009 08:28:07 -0700"
 number: 10
 type: ""
+venue: "Trinity Square Video"
 summary: "Trinity Square Video | Call for Submissions | NOV 15"
 ---
 

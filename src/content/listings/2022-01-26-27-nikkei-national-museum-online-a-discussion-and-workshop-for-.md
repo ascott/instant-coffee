@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 27
 type: "EDUCATION"
+venue: "Nikkei National Museum [ONLINE]"
 summary: "Nikkei National Museum [ONLINE] | A discussion and workshop for Writing Wrongs | 1PM | FEB 12"
 ---
 

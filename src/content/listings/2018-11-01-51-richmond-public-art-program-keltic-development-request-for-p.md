@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 51
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Keltic Development, Request for Proposals | DEC 6"
 ---
 

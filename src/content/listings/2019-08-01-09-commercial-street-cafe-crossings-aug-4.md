@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Commercial Street Cafe"
 summary: "Commercial Street Cafe | Crossings | AUG 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Other Sights for Artists' Projects"
 summary: "Other Sights for Artists' Projects | COASTAL CAMERA OBSCURA BY DONALD LAWRENCE | AUG 8"
 ---
 

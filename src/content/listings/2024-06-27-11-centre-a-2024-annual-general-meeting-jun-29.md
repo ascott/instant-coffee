@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 11
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | 2024 Annual General Meeting | JUN 29"
 ---
 

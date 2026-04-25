@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 12
 type: "EVENT"
+venue: "Cafe Deux Soleils"
 summary: "Cafe Deux Soleils | Collider Cafe: Art. Science. Cadence. | 8-930PM | SEP 26"
 ---
 

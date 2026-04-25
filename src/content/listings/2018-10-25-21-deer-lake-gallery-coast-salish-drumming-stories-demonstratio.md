@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: #tearitdown2018"
 emailDate: "Thu, 25 Oct 2018 12:00:18 -0700"
 number: 21
 type: "EVENT"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Coast Salish Drumming, Stories & Demonstration | NOV 3"
 ---
 

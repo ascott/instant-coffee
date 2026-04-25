@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 32
 type: "CALL"
+venue: "Breach Magazine"
 summary: "Breach Magazine | Call for Submissions - Issue 4 | MAR 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 20
 type: "EDUCATION"
+venue: "Or Gallery"
 summary: "Or Gallery | WORKSHOP | The Writing Table w/Lucien Durey | 6PM | MAY 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lone glove"
 emailDate: "Thu, 10 Dec 2015 11:00:47 -0800"
 number: 12
 type: "CALL"
+venue: "Kootenay Gallery of Art"
 summary: "Kootenay Gallery of Art | Call for Exhibition Proposals | DEC 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 1
 type: ""
+venue: "88 blocks • Art on Main"
 summary: "88 blocks • Art on Main | Instant Coffee: Bright Future | JAN 12"
 ---
 

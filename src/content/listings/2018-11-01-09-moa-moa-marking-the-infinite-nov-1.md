@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "MOA"
 summary: "MOA | MOA: Marking the Infinite | NOV 1"
 ---
 

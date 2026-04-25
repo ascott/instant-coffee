@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 8
 type: "OPENING"
+venue: "Skylight Gallery"
 summary: "Skylight Gallery | Erik H Zepka - Comprehensive Malfunction | FEB 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 31
 type: "TALK"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Steven Cottingham & Claudette Lauzon | 12PM | MAR 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 8
 type: "OPENING"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | MINGEI: Talk + Opening with Amaury Saint-Gilles | JUN 27"
 ---
 

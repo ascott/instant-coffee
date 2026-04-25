@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: new year"
 emailDate: "Wed, 27 Dec 2023 23:35:08 -0800"
 number: 4
 type: "OPENING"
+venue: "Summer Song"
 summary: "Summer Song | Shogo Okada at Martha Street Studio | JAN 12"
 ---
 

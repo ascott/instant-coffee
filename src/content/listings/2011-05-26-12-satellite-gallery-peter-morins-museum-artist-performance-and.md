@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 12
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Peter Morin's Museum: Artist Performance and Book | MAY 29"
 ---
 

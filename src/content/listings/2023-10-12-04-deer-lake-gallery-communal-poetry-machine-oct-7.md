@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Communal Poetry Machine | OCT 7"
 ---
 

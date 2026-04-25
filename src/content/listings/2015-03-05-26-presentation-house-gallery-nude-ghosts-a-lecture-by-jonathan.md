@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 26
 type: "TALK"
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Nude Ghosts: A lecture by Jonathan D. Katz | MAR 16"
 ---
 

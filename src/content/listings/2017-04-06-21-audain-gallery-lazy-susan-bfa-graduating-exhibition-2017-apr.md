@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 21
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Lazy Susan | BFA Graduating Exhibition 2017 | APR 13"
 ---
 

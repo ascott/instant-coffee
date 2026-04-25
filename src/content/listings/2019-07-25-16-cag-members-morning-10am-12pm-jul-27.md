@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 16
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Members Morning | 10AM-12PM | JUL 27"
 ---
 

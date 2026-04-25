@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 27
 type: "TALK"
+venue: "UAAC2020 Keynote II [ONLINE]"
 summary: "UAAC2020 Keynote II [ONLINE] | STAN DOUGLAS & MELANIE O'BRIAN | 130PM | OCT 17"
 ---
 

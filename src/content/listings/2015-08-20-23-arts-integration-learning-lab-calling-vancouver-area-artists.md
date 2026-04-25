@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: age information electronic"
 emailDate: "Thu, 20 Aug 2015 11:35:22 -0700"
 number: 23
 type: "CALL"
+venue: "Arts Integration Learning Lab"
 summary: "Arts Integration Learning Lab | Calling Vancouver Area Artists | OCT 9"
 ---
 
@@ -92,7 +93,7 @@ Are you a collaborative, creative artist looking to share studio space?
 Share 1000sq.ft studio space with four other women artists in the Herd of
 Women Studio at 1000 Parker Street.
 
-This space is best suited to an artist who doesnâ€™t need wall space, either
+This space is best suited to an artist who doesn’t need wall space, either
 for working or for displaying their work. It is next to a large, bright
 window and is approximately 100 ft. sq.
 

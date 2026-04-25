@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 24
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Re-Imagining Chinatown - Donna Seto | 12PM | FEB 3"
 ---
 

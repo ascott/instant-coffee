@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: You're the stars up in the sky; yo
 emailDate: "Fri, 22 Oct 2010 09:28:53 -0700"
 number: 19
 type: ""
+venue: "CINEWORKS"
 summary: "CINEWORKS | CREATING BASIC 16 MM TITLES | NOV 6"
 ---
 

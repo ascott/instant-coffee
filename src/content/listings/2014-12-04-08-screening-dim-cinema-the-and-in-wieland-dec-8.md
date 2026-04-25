@@ -4,24 +4,25 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | The And in Wieland | DEC 8"
 ---
 
-â€œI thought I was Leni Riefenstahl. It was due perhaps to editing Trudeau.
+“I thought I was Leni Riefenstahl. It was due perhaps to editing Trudeau.
 Would he be a good leader? Or just a politician? Irony came wandering in,
-in the porn of applause for his statement â€˜Reason over passion, that is
-the theme of all my writing.â€™ It should be reason and passion in a
+in the porn of applause for his statement ‘Reason over passion, that is
+the theme of all my writing.’ It should be reason and passion in a
 person.â€  JOYCE WIELAND
 
 Two Pierres are the keystones in these twin portraits of a nation at a
 historical turning point, playfully interlocking the main themes of Joyce
-Wielandâ€™s art. Reason Over Passion explores Canadaâ€™s landscape, symbolism,
+Wieland’s art. Reason Over Passion explores Canada’s landscape, symbolism,
 and bilingualism, while taking issue with the famous "reason over passion"
 statement by Pierre Trudeau, whose every gesture is anatomized in footage
 Wieland shot during the 1968 Liberal leadership convention, when his
 election signalled the possibility of change. Pierre Vallieres
 incorporates reel changes and camera breakdowns as it attempts a
-tightly-framed unbroken shot of the lips of Vallieres, the FLQâ€™s
+tightly-framed unbroken shot of the lips of Vallieres, the FLQ’s
 intellectual leader, as he holds forth, with reason and passion, on labour
 issues, Quebec independence, and women's liberation. Ironically, the
 balance of qualities lacking in Trudeau can be heard in the voice of a

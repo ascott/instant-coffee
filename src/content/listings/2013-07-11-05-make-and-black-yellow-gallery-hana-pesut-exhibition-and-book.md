@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 5
 type: ""
+venue: "MAKe and Black & Yellow Gallery"
 summary: "MAKe and Black & Yellow Gallery | Hana Pesut | Exhibition and Book Launch | JUL 12"
 ---
 

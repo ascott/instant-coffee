@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 27
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Belkin Art Gallery | Collective Acts | 2pm | NOV 28"
 ---
 

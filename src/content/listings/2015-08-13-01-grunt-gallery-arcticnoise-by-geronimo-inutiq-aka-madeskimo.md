@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 1
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | ARCTICNOISE by Geronimo Inutiq (aka Madeskimo)"
 ---
 
 ARCTICNOISE by Geronimo Inutiq (aka Madeskimo)
-Exhibition Dates: Aug 5 Ã¢â‚¬â€œ Aug 22
-Reception: August 17 (7Ã¢â‚¬â€œ10 pm)
-Location: grunt gallery, Unit 116 Ã¢â‚¬â€œ350 East 2nd Ave
+Exhibition Dates: Aug 5 â€“ Aug 22
+Reception: August 17 (7â€“10 pm)
+Location: grunt gallery, Unit 116 â€“350 East 2nd Ave
 
 URL: http://grunt.ca/exhibitions/arctic-noise/
 
 Join us on Monday, August 17th for the reception of ARCTICNOISE at 
-grunt gallery (7Ã¢â‚¬â€œ10pm). This exhibition runs from August 5 to 22 and 
+grunt gallery (7â€“10pm). This exhibition runs from August 5 to 22 and 
 is presented in collaboration with Ethnographic Terminalia and the 21st 
 International Symposium on Electronic Arts (ISEA). grunt gallery is 
 excited to co-present an exhibition, panel, workshop and a 
@@ -26,14 +27,14 @@ EXHIBITION INFO:
 ARCTICNOISE is a media installation by Geronimo Inutiq (madeskimo) 
 that draws on archival film footage and sound materials sourced from 
 the Isuma Archive at the National Gallery of Canada, as well as sound 
-and film materials from the artistÃ¢â‚¬â„¢s personal collection and other 
+and film materials from the artistâ€™s personal collection and other 
 ethnographical material. Conceived as an Indigenous response to 
-Glenn GouldÃ¢â‚¬â„¢s celebrated composition Ã¢â‚¬Å“The Idea of the NorthÃ¢
-â‚¬ , Inutiq will appropriate GouldÃ¢â‚¬â„¢s piece as a musical score, paired 
+Glenn Gouldâ€™s celebrated composition â€œThe Idea of the Northâ
+€ , Inutiq will appropriate Gouldâ€™s piece as a musical score, paired 
 with new voices and imagery to produce a layered
 and multi-vocal work.
 
-The project folds into InutiqÃ¢â‚¬â„¢s larger practice of his alter-ego,
+The project folds into Inutiqâ€™s larger practice of his alter-ego,
 madeskimo, that draws on the use of instruments, and digital and 
 analogue synthesizers, as well as the remixing and processing of 
 samples from a large variety of sourcesÃ¢â‚¬â€  including traditional Inuit, 
@@ -57,15 +58,15 @@ Facebook Event:
 https://www.facebook.com/events/1451774958462409/
 -
 
-ARCTICNOISE: Related Programming Ã¢â‚¬â€œ
+ARCTICNOISE: Related Programming â€“
 
 Aug 15: WORKSHOP | Terminus: Archives, Ephemera, and Electronic 
-Art @VIVO Ã¢â‚¬â€œ
+Art @VIVO â€“
 https://www.facebook.com/events/691121607686882/
 
 Aug 15: PERFORMANCE | Geronimo Inutiq at FUSE/DISTURBANCE 
-Ã¢â‚¬â€œ
+â€“
 https://www.facebook.com/events/1462623120725769/
 
-Aug 19: PANEL | ARCTICNOISE: DIALOGUES Ã¢â‚¬â€œ
+Aug 19: PANEL | ARCTICNOISE: DIALOGUES â€“
 https://www.facebook.com/events/1615533645402945/

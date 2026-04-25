@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 10
 type: "OPENING"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | A Lot of Things Have Happened | JUL 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 29
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | a Handful of Dust | 8 PM | FEB 7"
 ---
 

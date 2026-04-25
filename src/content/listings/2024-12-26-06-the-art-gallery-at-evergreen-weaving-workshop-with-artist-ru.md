@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happy end of year and new year"
 emailDate: "Wed, 25 Dec 2024 19:40:12 -0800"
 number: 6
 type: "EVENT"
+venue: "The Art Gallery at Evergreen"
 summary: "The Art Gallery at Evergreen | Weaving Workshop with artist Ruth Beer | JAN 18"
 ---
 

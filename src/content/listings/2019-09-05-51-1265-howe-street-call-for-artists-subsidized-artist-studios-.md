@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 51
 type: "CALL"
+venue: "1265 Howe Street"
 summary: "1265 Howe Street | Call for Artists - Subsidized Artist Studios | SEP 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 9
 type: "EVENT"
+venue: "​Field Contemporary"
 summary: "​Field Contemporary | Moniker Press | Print Fair/Art Market 02 | DEC 16"
 ---
 

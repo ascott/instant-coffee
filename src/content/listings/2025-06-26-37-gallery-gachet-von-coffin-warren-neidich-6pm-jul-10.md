@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 37
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | Von Coffin & Warren Neidich | 6PM | JUL 10"
 ---
 

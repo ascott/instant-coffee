@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 12
 type: "TALK"
+venue: "SFU [ONLINE]"
 summary: "SFU [ONLINE] | Dance Area Talk: Caro Novella & Kevin O’Connor | MAR 12"
 ---
 

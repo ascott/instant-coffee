@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 33
 type: "CALL"
+venue: "Alchemy Artist Residency"
 summary: "Alchemy Artist Residency | Call for Submissions | MAR 1"
 ---
 

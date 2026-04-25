@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 37
 type: "EDUCATION"
+venue: "Artspeak"
 summary: "Artspeak | [WORKSHOP] Writing | Movement and Grounding | JUN 14"
 ---
 

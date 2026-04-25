@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 27
 type: "OPENING"
+venue: "Kamloops Art Gallery"
 summary: "Kamloops Art Gallery | Cindy Mochizuki | 530PM | APR 20"
 ---
 

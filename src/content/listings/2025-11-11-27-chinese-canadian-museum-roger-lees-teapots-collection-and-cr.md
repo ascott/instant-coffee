@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 27
 type: "OPENING"
+venue: "Chinese Canadian Museum"
 summary: "Chinese Canadian Museum | Roger Lee’s Teapots Collection and Crafts | NOV 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interactive automata"
 emailDate: "Thu, 21 Jul 2016 17:00:10 -0700"
 number: 13
 type: "CALL"
+venue: "Varley Art Gallery of Markham"
 summary: "Varley Art Gallery of Markham | Call for Submissions | AUG 15"
 ---
 

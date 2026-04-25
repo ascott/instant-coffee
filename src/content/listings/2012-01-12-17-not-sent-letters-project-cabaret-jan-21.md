@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 17
 type: ""
+venue: "Not Sent Letters Project"
 summary: "Not Sent Letters Project | cabaret | JAN 21"
 ---
 
@@ -23,7 +24,7 @@ Shed
 prOphecy sun
 Mark Dahl
 DJ Shumi
-& many moreâ€¦.
+& many more….
 
 119 Main Street, Vancouver
 (just southwest of Alexander)

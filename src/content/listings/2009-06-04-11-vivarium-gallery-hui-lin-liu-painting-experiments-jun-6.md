@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 11
 type: ""
+venue: "Vivarium Gallery"
 summary: "Vivarium Gallery | Hui Lin Liu: Painting Experiments | JUN 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Bouquet for flowers | UNTIL APR 13 | APR 13"
 ---
 

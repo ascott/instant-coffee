@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 30
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Echoes Beyond the Archipelago | 7PM | MAY 3"
 ---
 

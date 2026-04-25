@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 24
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | Workshop | MANUFACTURING THE FRAGILE IMAGE | APR 16"
 ---
 

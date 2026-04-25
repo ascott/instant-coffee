@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 20
 type: ""
+venue: "Ross Creek Centre for the Arts"
 summary: "Ross Creek Centre for the Arts | Call for 2012 Artist Colonies/Residencies | SEP 15"
 ---
 

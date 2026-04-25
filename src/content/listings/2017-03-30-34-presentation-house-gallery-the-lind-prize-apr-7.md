@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 34
 type: "OPENING"
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | THE LIND PRIZE | APR 7"
 ---
 

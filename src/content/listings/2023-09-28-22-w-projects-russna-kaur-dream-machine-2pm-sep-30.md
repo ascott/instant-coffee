@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 22
 type: "OPENING"
+venue: "W Projects"
 summary: "W Projects | Russna Kaur: DREAM MACHINE | 2PM | SEP 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 21
 type: ""
+venue: "221A"
 summary: "221A | Translation Services - Part 2 | until | OCT 13"
 ---
 
@@ -12,28 +13,28 @@ exhibition that brings together international artists Ryu Hankil (Korea), Jarrod
 Sanderson (UK), Andrea Francke (UK) and Jackson Lam (UK) to explore and 
 expose the ways in which translation modifies meaning, privileging or 
 suppressing forms of knowledge.
-Translation, derivative of the Latin word translatio meaning â€˜to carry acrossâ€™, 
+Translation, derivative of the Latin word translatio meaning ‘to carry across’, 
 implies a bridge or journey. The etymology of this word reveals the potential 
-for something to slip or drop along the way â€“ an imperfect path from source to 
+for something to slip or drop along the way – an imperfect path from source to 
 target. Therefore, translation has always been a daunting task that 
 paradoxically aids communication but inevitably obscures meaning. Through 
 text, video and sound, Translation Services engages with the inadequacy of 
-translation and its subsequent implications within Vancouverâ€™s culturally 
+translation and its subsequent implications within Vancouver’s culturally 
 diverse context.
 
-Part 2: Sept 28 â€“ Oct 13, Jarrod Sanderson, What difference between me and 
+Part 2: Sept 28 – Oct 13, Jarrod Sanderson, What difference between me and 
 you?
-10:00pm, Oct 13 â€“ Reception, Book Launch & The Piracy Project reading 
+10:00pm, Oct 13 – Reception, Book Launch & The Piracy Project reading 
 room
-Sandersonâ€™s video What difference between me and you? focuses on how 
+Sanderson’s video What difference between me and you? focuses on how 
 language, ostensibly a medium for communication, can also be a site of 
 power, miscommunication and repression. Motivated by his background in 
 anthropology, Sanderson filmed interviews with art students in London for 
 whom English was not their first language. While interviewees talk about their 
-artistic ambitions, Sandersonâ€™s voice repeatedly corrects their grammatical 
+artistic ambitions, Sanderson’s voice repeatedly corrects their grammatical 
 mistakes in English instead of concentrating on the content of their dialogue. 
 
-Jarrod Sandersonâ€™s practice involves drawing, performance and video 
+Jarrod Sanderson’s practice involves drawing, performance and video 
 installation focusing on themes of cultural difference, power and desire within 
 the global political economy, informed by his background in social 
 anthropology. He has studied at Goldsmiths College and Chelsea College of 

@@ -12,7 +12,7 @@ listingCount: 48
 
 instant coffee listings / send us your art posts for free 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-02-23-01-contemporary-art-gallery-aurlien-froment-sfu-feb-23">01. Contemporary Art Gallery | AurÃ©lien Froment @ SFU | FEB 23</a>
+<a href="/instant-coffee/listings/2012-02-23-01-contemporary-art-gallery-aurlien-froment-sfu-feb-23">01. Contemporary Art Gallery | Aurélien Froment @ SFU | FEB 23</a>
 <a href="/instant-coffee/listings/2012-02-23-02-access-gallery-christian-kliegel-ed-pien-and-alison-mactagga">02. Access Gallery | Christian Kliegel, Ed Pien, and Alison MacTaggart | FEB 24</a>
 <a href="/instant-coffee/listings/2012-02-23-03-vag-fuse-beat-nation-feb-24">03. VAG | FUSE: Beat Nation | FEB 24</a>
 <a href="/instant-coffee/listings/2012-02-23-04-vivo-video-bar-winter-social-feb-24">04. VIVO | Video Bar: Winter Social | FEB 24</a>
@@ -39,13 +39,13 @@ instant coffee listings / send us your art posts for free
 25. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-02-23-01-contemporary-art-gallery-aurlien-froment-sfu-feb-23">01. Contemporary Art Gallery | AurÃ©lien Froment @ SFU | FEB 23</a>
+<a href="/instant-coffee/listings/2012-02-23-01-contemporary-art-gallery-aurlien-froment-sfu-feb-23">01. Contemporary Art Gallery | Aurélien Froment @ SFU | FEB 23</a>
 ------------------------------------------------------------------------
 
 Contemporary Art Gallery
 Vancouver, BC 
 
-French artist AurÃ©lien Froment discusses his practice
+French artist Aurélien Froment discusses his practice
 
 Artist Talk
 
@@ -56,8 +56,8 @@ SFU Woodward's
 149 West Hastings Street
 Vancouver
 
-The Contemporary Art Gallery, the Consulat GÃ©nÃ©ral de France Ã  
-Vancouver and SFU Visual Arts present a talk by visiting artist AurÃ©lien 
+The Contemporary Art Gallery, the Consulat Général de France à 
+Vancouver and SFU Visual Arts present a talk by visiting artist Aurélien 
 Froment.
 
 As a multidisciplinary visual artist, the works of Froment take the form 
@@ -68,23 +68,23 @@ between images and words. In recent pieces, he has focused on the
 nature of presentation and audience expectation to create a new 
 dialogue between people, places and objects.
 
-AurÃ©lien Froment was born in Angers in 1976. Solo exhibitions include 
+Aurélien Froment was born in Angers in 1976. Solo exhibitions include 
 Les Laboratoires d'Aubervilliers, France; Project Arts Centre, Dublin; 
 FRAC Champagne-Ardenne, France; Palais de Tokyo, Paris; Centro 
 Cultural Montehermoso, Spain; Gasworks, London; Centre Culturel 
-FranÃ§ais de Milan; Le Credac, Paris; MusÃ©e dâ€™art contemporain de 
+Français de Milan; Le Credac, Paris; Musée d’art contemporain de 
 Rochechouart. His work has been presented in group exhibitions 
 including Tate Britain, London; Nam June Paik Art Center, Korea; 
 Basel Kunsthalle, Switzerland; Mudam, Luxembourg; Centre 
 Pompidou, Paris; Gwangju Biennale, Korea; Sculpture Center, New 
 York; and Lyon Biennale, France.
 
-Supported by the Consulat GÃ©nÃ©ral de France
+Supported by the Consulat Général de France
 
-Ã  Vancouver.
+à Vancouver.
 
-Image: AurÃ©lien Froment, installation view, Paysages, marines, scÃ¨nes 
-de genre, MusÃ©e dÃ©partemental d'art contemporain de Rochechouart, 
+Image: Aurélien Froment, installation view, Paysages, marines, scènes 
+de genre, Musée départemental d'art contemporain de Rochechouart, 
 2011. Table de rappel, 2008-2011. Collection of FRAC Ile-de-France, 
 Paris.
 
@@ -110,8 +110,8 @@ national, and international artists, Christian Kliegel, Ed Pien, and Alison
 MacTaggart have produced new work launching from the ideas and 
 concerns found earlier in their career. The exhibition was comprised of 
 three successive installations.
-Alison MacTaggart: February 14th â€“ 25th, 2012
-In 2002, Alison MacTaggartâ€™s Access exhibition, The Egg Throwing 
+Alison MacTaggart: February 14th – 25th, 2012
+In 2002, Alison MacTaggart’s Access exhibition, The Egg Throwing 
 Apparatus explored the symbolic gesture of being named called or 
 called out to in the social realm. Creating egg throwing projectile 
 machines and a series of abstract watercolours resembling smashed 
@@ -126,13 +126,13 @@ Embodiments for One Tuning-Fork-Like Apparatus or More. This
 particular installation builds on past works including The Egg Throwing 
 Apparatus and The Nerve.
 
-You and Iâ€¦ emerges from the artistâ€™s ongoing concerns with the power 
+You and I… emerges from the artist’s ongoing concerns with the power 
 of language and speech and with making conceptual art objects that 
 appear to be mechanically purposeful devices. This new work also 
 draws parallels between art objects and inventions, artists and 
 inventors and their quests to devise solutions to problems and ideas.
 
-You and Iâ€¦ includes a series of illustrations with text, and two 
+You and I… includes a series of illustrations with text, and two 
 prototypes: Prototype A (the outdoor version) and Prototype B (the 
 indoor version). Viewers are welcome to examine Prototype B, which is 
 included in the exhibit but are not allowed to operate it. The artwork 
@@ -149,7 +149,7 @@ abstract, diagrammatic drawings, descriptions and naming of the
 prototypes and their parts, the visuals help â€œexplainâ€  to the viewer how 
 the prototypes â€œworkâ€ .
 
-MacTaggartâ€™s installation incorporates elements of both humour and 
+MacTaggart’s installation incorporates elements of both humour and 
 seriousness in order to simultaneously engage and unsettle the viewer. 
 The resulting works in the exhibit make â€œvibratoryâ€  references to 
 harmony and discordance, pitch, tone, elastic potential energy, and 
@@ -175,8 +175,8 @@ Victoria, BC, 2008). In 2012, she is participating in the group exhibition
 Throw Down at the Art Gallery of Greater Victoria.
 
 Past installations at New Work included:
-Ed Pien: January 29th â€“ February 11th, 2012
-Christian Kliegel: January 20th â€“ 27th, 2012
+Ed Pien: January 29th – February 11th, 2012
+Christian Kliegel: January 20th – 27th, 2012
 Check www.accessgallery.ca for more details
 
 Access Gallery gratefully acknowledges the Canada Council for the 
@@ -313,40 +313,40 @@ Samuel Roy-Bois, presented in conjunction with his solo exhibition, I
 had a great trip despite a brutal feeling of cognitive dissonance, on 
 view at Artspeak from February 4 − March 17, 2012.
 Reconfiguring and partitioning the gallery, the exhibition demonstrates 
-the artistâ€™s continued interest in the deconstruction of space. An 
-enclosed living area â€“ inhabited by a stranger free of charge for the 
-duration of the exhibition â€“ will be made private with no public access, 
+the artist’s continued interest in the deconstruction of space. An 
+enclosed living area – inhabited by a stranger free of charge for the 
+duration of the exhibition – will be made private with no public access, 
 its occupant given full authority over its usage. Paired with the built 
-environment is a voice recording that furthers the galleryâ€™s 
+environment is a voice recording that furthers the gallery’s 
 transformation into an intimate place of residence.
 Through concealment, the installation portrays a character with a 
-double identity â€“ the individual that we hear and try to visualize and the 
+double identity – the individual that we hear and try to visualize and the 
 one that we will never see and may occasionally hear. By juxtaposing 
-the viewer and the occupantâ€™s respective experiences, Roy-Bois 
+the viewer and the occupant’s respective experiences, Roy-Bois 
 creates an uncanny moment in which they imagine each other, creating 
 a new imagined reality. In addition to bringing forward notions of 
 estrangement, space retribution, and struggles for power, the exhibition 
 contributes to an ongoing discussion in Vancouver about how land in 
 the city is divided, occupied, and used.
 Originally from Quebec City, Roy-Bois currently resides in Vancouver. 
-He received his BFA from UniversitÃ© Laval in Quebec (1996) and an 
-MFA from Concordia University in MontrÃ©al (2001). His installations 
+He received his BFA from Université Laval in Quebec (1996) and an 
+MFA from Concordia University in Montréal (2001). His installations 
 have been shown across Canada and internationally. Solo exhibitions 
 include Polarizer, Southern Alberta Art Gallery (2009), Let us, then, be 
 up an doing..., Contemporary Art Gallery, Vancouver (2008); 
-Divertissements, Point Ã©phÃ©mÃ¨re, Paris (2007); Improbable and 
-ridiculous, MusÃ©e dâ€™art contemporain de MontrÃ©al (2006); Jâ€™ai entendu 
-un bruit, je me suis sauvÃ©, Or Gallery, Vancouver (2003). He is 
+Divertissements, Point éphémère, Paris (2007); Improbable and 
+ridiculous, Musée d’art contemporain de Montréal (2006); J’ai entendu 
+un bruit, je me suis sauvé, Or Gallery, Vancouver (2003). He is 
 currently artist-in-residence at Langara College, Vancouver.
 
-â€¢	233 Carrall Street
-â€¢	Vancouver, BC
-â€¢	V6B 2J2 Canada
-â€¢	info@artspeak.ca
-â€¢	Tel. 604.688.0051
-â€¢	Fax 604.685.1912
-â€¢	Tuesday â€“ Saturday, 12-5pm
-â€¢	Admission is free
+•	233 Carrall Street
+•	Vancouver, BC
+•	V6B 2J2 Canada
+•	info@artspeak.ca
+•	Tel. 604.688.0051
+•	Fax 604.685.1912
+•	Tuesday – Saturday, 12-5pm
+•	Admission is free
 
 
 ------------------------------------------------------------------------
@@ -369,7 +369,7 @@ poems written by Rodney dealing with his early childhood and
 adolescence in a coal mining town just outside Pittsburgh, 
 Pennsylvania. Producer Rob Malowney recorded Rodney reading the 
 poems and then composed and recorded music for each piece. The 
-title is based on the Allegheny river which winds through DeCrooâ€™s 
+title is based on the Allegheny river which winds through DeCroo’s 
 childhood home of western Pennsylvania, merging with the 
 Monongahela River at the heart of Pittsburgh to become the Ohio 
 River: 
@@ -458,7 +458,7 @@ Chris Hillman, Blue Rodeo, Gordon Lightfoot and Jennifer Warnes on
 The Gift: A Tribute To Ian Tyson released by Stony Plain Records and 
 distributed by Warner Music. The version of the Tyson classic, 
 Someday Soon, was chosen by the Toronto Star chose as the Top 
-Track after rating the album 3Â½ out of 4 Stars. dougandrewmusic.com 
+Track after rating the album 3½ out of 4 Stars. dougandrewmusic.com 
 
 MARK HANEY- BIO
 Mark is a double bass composer and performer. Last year he released 
@@ -469,20 +469,20 @@ Vancouver Province). On May 11 Redshift Music and MARS Quartet will
 debut Mark's new work "3339: A Hero's Journey". (aimfortheroses.com)
 
 THE MINIMALIST JUG BAND- BIO
-Each new recording by Vancouverâ€™s Al Mader brings him further into 
-the realm of something like popular music. His first CD, 2003â€™s For 
+Each new recording by Vancouver’s Al Mader brings him further into 
+the realm of something like popular music. His first CD, 2003’s For 
 Crying Out Loud, produced by Chris Houston, had self-deprecating, 
 blackly witty poetry set to sparse, self-taught washtub bass, with 
 abundant references to a pop-cultural scene that Mader then seemed 
 irreconcilable with. Thrift Stories (2007) saw the addition of banjos, 
-guitars, and jug, with guests like Maderâ€™s performing cohort Petunia 
+guitars, and jug, with guests like Mader’s performing cohort Petunia 
 and former Red Herring guitarist Steve Nikleva. It was a strangely 
 exuberant affair, including Maderâ€™s â€œDead Manâ€™s Pantsâ€  (given added 
 local fame by a novelty-tune rearrangement by the Creaking Planks) 
 and â€œRaven or Crowâ€ , which suggests Nick Cave gone rockabilly.
-Maderâ€™s most recent disc, Naive Ville, amps it up even furtherâ€”itâ€™s his 
+Mader’s most recent disc, Naive Ville, amps it up even further—it’s his 
 most confident and most musical offering to date, evoking at times the 
-hobo-jungle equivalent of Black Riderâ€“era Tom Waits, with Maderâ€™s 
+hobo-jungle equivalent of Black Rider–era Tom Waits, with Mader’s 
 obsessive plunkings enriched by trumpets, accordion, keyboards, 
 violin, saw, whistling, and guitar, and songs spanning his trip to Iceland 
 (â€œReykjavikâ€ ), his disenfranchisement from the holiday season (â€œLetâ€™s 
@@ -529,7 +529,7 @@ FOR THE RECORD
 
 a group art show
 
-DYNAMO GALLERY â€¢ 142 WEST HASTINGS STREET 
+DYNAMO GALLERY • 142 WEST HASTINGS STREET 
 6:30PM - 10:30PM
 
 Please join us Saturday, February 25th for the first installment in a 
@@ -564,7 +564,7 @@ STUDENT LOAN RECORDS
 
 1st RELEASE PARTY
 
-THE ASTORIA PUB 769 â€¢ EAST HASTINGS STREET 
+THE ASTORIA PUB 769 • EAST HASTINGS STREET 
 9PM - 2AM 
 
 Please join us Saturday, February 25th for the release of our first 
@@ -599,8 +599,8 @@ With support from:
 KOKO
 
 Free-form waves of pop punk wrapped up in a sonic assault, ripped 
-from the screaming treesâ€™ clutches and funneled through their own 
-acerbic sense of humour. The new underground movementâ€™s golden 
+from the screaming trees’ clutches and funneled through their own 
+acerbic sense of humour. The new underground movement’s golden 
 child.
 
 EVENT LINK: http://www.facebook.com/events/337426062964324/
@@ -608,14 +608,14 @@ EVENT LINK: http://www.facebook.com/events/337426062964324/
 STUDENT LOAN RECORDS 
 
 Student Loan Records will strive to last as long as our debts. We 
-operate with the goal of showcasing Vancouverâ€™s emerging artists by 
-cooperating and building upon the cityâ€™s diverse and widely talented art 
+operate with the goal of showcasing Vancouver’s emerging artists by 
+cooperating and building upon the city’s diverse and widely talented art 
 scene. For all our releases, artists will own and control all the work we 
 help them produce. Our aim is to facilitate a self-sufficient stream of 
 vinyl-only releases, made possible by organizing community involved 
 events such as art shows and record release parties. On every level, 
-we intend to support the artistic community of this supposed â€˜No Fun 
-Cityâ€™. 
+we intend to support the artistic community of this supposed ‘No Fun 
+City’. 
 
 Student Loan Records is Natasha Lands, Daniel Rincon and Jarrett 
 Evan Samson. 
@@ -640,11 +640,11 @@ SALA Works
 SALA Works
 University of British Columbia School of Architecture and Landscape 
 Architecture (SALA)
-February 25â€”March 15, 2012
+February 25—March 15, 2012
 Opening Monday Feb 27, 6.30PM
 Curated by Matthew Soules
 
-SALA Works presents a diverse range of projects by faculty at UBCâ€™s 
+SALA Works presents a diverse range of projects by faculty at UBC’s 
 School of Architecture and Landscape Architecture (SALA).
 
 As a dynamic centre of leading design research and pedagogy, SALA 
@@ -762,7 +762,7 @@ continue
 to play out in and between major port cities across the world. In fix his
 lens on the shipping industry, Sekula documents concrete 
 manifestations of
-Neoliberal capital flowâ€”providing an opportunity to pin down an object
+Neoliberal capital flow—providing an opportunity to pin down an object
 that is all too often ethereal in nature. *Fish Story* (1995) is the
 result of these researches. It exists as a book with more than 900 
 color
@@ -770,10 +770,10 @@ photographs, interspersed with meandering aphorisms about the
 material
 history of shipping and the contemporary working conditions of the 
 people
-to whom it is boundâ€”on land and at sea. This work has also been 
+to whom it is bound—on land and at sea. This work has also been 
 mounted
-as an exhibition, and its â€˜iterationâ€™ as an object is not entirely fixed.
-We will remount a reading of Sekulaâ€™s writing from the book, 
+as an exhibition, and its ‘iteration’ as an object is not entirely fixed.
+We will remount a reading of Sekula’s writing from the book, 
 accompanied
 by some of its attendant images, as a group with a mind to honour this
 imperative to experiment.
@@ -786,13 +786,13 @@ decades
 his images and writings have shifted the terms on which the medium is
 understood and has influenced a generation of artists and scholars.
 Whether articulating a semiotics of the photograph in his classic study
-Photography against the Grain: Essays and Photoworks 1973â€“1983 
+Photography against the Grain: Essays and Photoworks 1973–1983 
 (1984) or
 investigating maritime space in the books and exhibitions comprising 
 Fish
 Story (2002), Sekula is always in motion. His extensive travels to many 
 of
-the worldâ€™s seaports are matched only by his enlightening journeys 
+the world’s seaports are matched only by his enlightening journeys 
 across
 history, politics and aesthetics that through their consummate
 intelligence transform and connect domains usually considered 
@@ -813,7 +813,7 @@ Wodiczko. (Edward Dimendberg)
 Allan Sekula's Fish Story will be facilitated by Andrew Witt.
 
 Andrew Witt writes for the Mainlander and is a collaborator with Coupe
-L'Ã©tat. This salon extends out of the Wednesday Night School project.
+L'état. This salon extends out of the Wednesday Night School project.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-02-23-13-catriona-jeffries-alternatives-and-opportunities-mar-1">13. Catriona Jeffries | Alternatives and Opportunities | MAR 1</a>
@@ -825,24 +825,24 @@ Opening Reception: 1 March 7-9 PM
 Catriona Jeffries is pleased to announce the first solo exhibition by 
 Julia Feyrer at the gallery, presenting works in 16mm film, sound, 
 sculpture and daguerreotype. Three distinct bodies of work will be 
-shown, including The Artistâ€™s Studio, Little pitchers have big ears and 
+shown, including The Artist’s Studio, Little pitchers have big ears and 
 Dailies. These works consider the camera, the microphone, and the 
 clock, respectively, as apparatuses or devices with which to measure 
 and structure perception. Feyrer's recent works present these 
 metaphorical objects in relation to the human body as a receptor.
 
-Within The Artistâ€™s Studio (2012) Feyrer has continued her interest in 
+Within The Artist’s Studio (2012) Feyrer has continued her interest in 
 the alchemic production of daguerreotypes as a scientific procedure of 
 image making and the site of the studio as a stage in which art objects 
 confront their isolation and loneliness as rarefied artifacts withdrawn 
 from the world. Feyrer began the work by staging a sculptural tableau 
 as a recreation of a daguerreotype taken by Louis Daguerre in 1836 of 
-an â€˜artistâ€™s studioâ€™, which was in fact not a document of a working 
-artistâ€™s studio, but rather was staged by Daguerre himself. Feyrer's 
+an ‘artist’s studio’, which was in fact not a document of a working 
+artist’s studio, but rather was staged by Daguerre himself. Feyrer's 
 tableau becomes inhabited and unhinged in a 16mm film and series of 
 three sequenced daguerreotypes. The film's unsynchronized voice-
-over text is a subtle intervention on Leonardo Da Vinci's â€˜Codex 
-Urbinasâ€™- a treatise on the material differences of the classical studio of 
+over text is a subtle intervention on Leonardo Da Vinci's ‘Codex 
+Urbinas’- a treatise on the material differences of the classical studio of 
 a painter and of a sculptor.
 
 Considering analogous states of embodiment in both objects and 
@@ -857,15 +857,15 @@ Feyrer to make a binaural recording as she moved through the
 phantasmagoric museum spaces of the Royal BC Museum in Victoria, 
 BC. In this museum, which presents history through a flooding of all the 
 senses by means of its intricately detailed and life-sized historical 
-dioramas, Feyrerâ€™s instrument allowed for an embodied recording of 
+dioramas, Feyrer’s instrument allowed for an embodied recording of 
 this anachronistic promenade.
 
 In her latest film, Dailies, the artist built an extensive series of clocks, 
 first to be used as props in a 16mm film and then to behave as 
 sculptures within the space of the exhibition. Her interest in clocks is 
 manifold; each clock component is considered as part of a 
-metaphorical physiology, ie. the â€˜handsâ€™ and â€˜faceâ€™ of the clock, as well 
-as the clock's â€˜bodyâ€™ which takes the form of a container, or capsule. 
+metaphorical physiology, ie. the ‘hands’ and ‘face’ of the clock, as well 
+as the clock's ‘body’ which takes the form of a container, or capsule. 
 Presented as an unedited series of film rolls, Dailies stages the 
 production of each clock with a variety of techniques, documenting a 
 messy and wildly improvisational approach. Every clock has a partially 
@@ -875,16 +875,16 @@ moment, performing a durational yet non-progressive trick precariously
 and nervously. 
 
 Julia Feyrer (b. 1982, Victoria, BC) lives and works in Vancouver. She 
-graduated in 2010 with a MeisterschÃ¼lerin from the StÃ¤delschule in 
+graduated in 2010 with a Meisterschülerin from the Städelschule in 
 Frankfurt, Germany, following her undergraduate degree from the 
 Emily Carr Institute of Art and Design in Vancouver. She has a 
 forthcoming exhibition at Leonhardi Kultur Projekte, Frankfurt and 
 recent solo exhibitions include Irregular Time Signatures, Johan 
-Berggren Gallery, MalmÃ¶ (2011) and The Poodle Dog Ornamental Bar, 
+Berggren Gallery, Malmö (2011) and The Poodle Dog Ornamental Bar, 
 Artspeak, Vancouver (2010). Her work has been included in the 
-following group exhibitions Childrenâ€™s Films, Bielefelder Kunstverein 
+following group exhibitions Children’s Films, Bielefelder Kunstverein 
 (2011); The Problem of Nothing, Hayaka ARTI, Istanbul (2011); 
-GeschmacksverstÃ¤rker, MMK Zollamt, Frankfurt (2010), Ghost Town, 
+Geschmacksverstärker, MMK Zollamt, Frankfurt (2010), Ghost Town, 
 â€œGhost Townâ€ , MOTHER, Frankfurt (2010).
 
 For further information or press enquires please contact Catriona 
@@ -933,7 +933,7 @@ draw them in and invite them to interpret snippets of text for
 themselves. The exhibition juxtaposes a number of disparate things in 
 order to create narrative-like dialogues where individual meanings 
 become secondary to new, personally and individually constructed 
-content. Words that wouldnâ€™t normally be connected are brought 
+content. Words that wouldn’t normally be connected are brought 
 together for their provocative and evocative potential. Like the 
 absurdist playwrights, Craig tends to think that life is arbitrary and 
 illogical. His work cultivates a confrontation with the unexpected.
@@ -1002,7 +1002,7 @@ BLIM ART OPENING and Window Launch (March 2012)
 Blim presents:
 Drawings and Films of Tim Ray
 Work by Tim Ray and Jamie Clay
-â€œPlease be careful, enlightenment without retribution and fear. Liberty 
+“Please be careful, enlightenment without retribution and fear. Liberty 
 and freedom without prejudice and hate.â€ 
 Opening Friday, March 2nd, will feature the drawings of Tim Ray, plus 
 a showing of the film â€œBuzz Wrayâ€  written by Neil Wedman and starring 
@@ -1022,7 +1022,7 @@ international circles: New York, Paris, London. He is a filmmaker,
 musician and artist. Involved in pioneering various movements from 
 Punk/ New Wave to the N.Y. Anti-Folk. Known for Visual Arts in N.Y. 
 and received many â€œChoice Picksâ€  in the N.Y. papers.
-C.B.C acquirement of 1987â€™s Sci-Fi and Horror series for Radio 3. 
+C.B.C acquirement of 1987’s Sci-Fi and Horror series for Radio 3. 
 Exhibited in N.Y. F.I.Y. exhibit.. Known as a heri- tage artist and 
 visionary that anticipates culture and history. Recent subject of Bio-Doc 
 called â€œT. Ray The canned experienceâ€ .
@@ -1034,7 +1034,7 @@ near future.
 RUKUS new edge x MIYUKI MORI = METAMORPHOSE
 New Window Display by Tomita Yasuhiro and Miyuki Mori
 RUKUS designer, Yasuhiro Tomita & a special effects make-up artist, 
-Miyuki Moriâ€™s 1st installation show at BLIM.
+Miyuki Mori’s 1st installation show at BLIM.
 RUKUS designer, Yasuhiro Tomita (toMmy) moved from Tokyo to 
 Vancouver in 2011. He started collecting gem rocks in 2005 which was 
 a turning point to start designing jewelry with using precious and semi-
@@ -1043,11 +1043,11 @@ experienced Crystal Healing, Macrobiotic, Homeopathy, Naturopathy
 etc. He has started his original Jewelry brand RUKUS -new age- in 
 2007. Heâ€™s also started a collaboration line â€œRUKUS x RWANDAâ€  to 
 contribute 50% of sales to the atelier in RWANDA. In 2009, he has 
-started to manage his own fashion brand, RUKUS â€“new edge-. He is 
+started to manage his own fashion brand, RUKUS –new edge-. He is 
 organizing a Creative Group Exhibition KIRA KIRA TOKYO with many 
 artists and designers in Tokyo & Vancouver since 2009. RUKUS new 
-edge presented his first menâ€™s collec- tion of fall/resort 2012 at 
-Vancouver Menâ€™s Fashion Week in 2011.
+edge presented his first men’s collec- tion of fall/resort 2012 at 
+Vancouver Men’s Fashion Week in 2011.
 Special Make-up Effects Artist. Miyuki was born and grew up in Japan. 
 Her mother is an artist and it has influ- enced her greatly since her 
 childhood. She moved to LA, USA in 2000 to go to Make-up Designory, 
@@ -1067,11 +1067,11 @@ photo credit: models by Tiah Seward / Tawnya Blackbird Marsh
 accessories & clothes by RUKUS new edge Photo by Michael C. Boxall 
 make up & hair by Arielle Elliot coordinate by Daniel Amezcua CG by 
 Yasuhiro Tomita
-An image of Miyki: Model: Adrienne Make-up Artist: Miyuki Mori Â© En-
+An image of Miyki: Model: Adrienne Make-up Artist: Miyuki Mori © En-
 Chou Liu, all rights reserved
 --
-Opening: Friday, March 2 - 8 â€“ 11pm | Art Show Runs March 2-17 / 
-Window runs March and April Screening: Friday, March 16 - 8 â€“ 11pm 
+Opening: Friday, March 2 - 8 – 11pm | Art Show Runs March 2-17 / 
+Window runs March and April Screening: Friday, March 16 - 8 – 11pm 
 | 8-10 dollars sliding scale
 Call 604 872 8180 or info@blim.ca for more information.
 
@@ -1096,36 +1096,36 @@ Since September 2011 (and until April 2012), Samuel has been
 developing a public art project in the shape of 
 an architectural intervention titled Nothing Blank Forever. The purpose 
 of the structure is to house the 
-production of every component of a road movie. This â€œmakeshift movie 
+production of every component of a road movie. This “makeshift movie 
 studioâ€  has been constructed in the 
-Quadrangle (outside the Langara Studentsâ€™ Union), which will serve as 
-the projectâ€™s heart and home. The 
+Quadrangle (outside the Langara Students’ Union), which will serve as 
+the project’s heart and home. The 
 temporary studio will take on many roles over eight months including a 
 movie set, recording studio, lecture 
 room, gallery space, art studio, and theatre. The activities in the multi-
 purpose space will be linked by the 
-projectâ€™s objective - to facilitate creative collaboration and exchange.
+project’s objective - to facilitate creative collaboration and exchange.
 The Artist-in-Residence program is a key component of Langara 
-Collegeâ€™s Centre for Art in Public Spaces 
+College’s Centre for Art in Public Spaces 
 (LCCAPS). LCCAPS is an initiative designed to inspire collaboration 
 among students, professional artists, and 
 the community. The integration of visiting professionals, collaborative 
 exploration, and learning opportunities 
 makes the program unique in Canada. For updates on Nothing Blank 
-Forever and Langaraâ€™s free public art 
+Forever and Langara’s free public art 
 lecture series, visit http://www.langara.bc.ca/departments/centre-for-art-
 in-public-spaces/index.html
 Originally from Quebec City, Samuel Roy-Bois currently resides in 
 Vancouver. He acquired his BFA from 
-UniversitÃ© Laval and a Masters Degree in Fine Arts from Concordia 
-University in MontrÃ©al. Solo exhibitions 
+Université Laval and a Masters Degree in Fine Arts from Concordia 
+University in Montréal. Solo exhibitions 
 include I had a gerat trip despite a brutal feeling of cognitive 
 dissonance, Artspeak, 2012, Polarizer, Southern 
 Alberta Art Gallery, 2009; Let us, then, be up and 
 doing...,Contemporary Art Gallery, Vancouver, 2008; 
-Divertissements, Point Ã©phÃ©mÃ¨re, Paris, 2007;Improbable and 
-ridiculous, MusÃ©e dâ€™art contemporain de 
-MontrÃ©al, 2006; and J'ai entendu un bruit, je me suis sauvÃ©, Or Gallery, 
+Divertissements, Point éphémère, Paris, 2007;Improbable and 
+ridiculous, Musée d’art contemporain de 
+Montréal, 2006; and J'ai entendu un bruit, je me suis sauvé, Or Gallery, 
 Vancouver, 2003. 
 Visit: www.samuelroybois.com
 
@@ -1134,7 +1134,7 @@ Visit: www.samuelroybois.com
 ------------------------------------------------------------------------
 Preview of Western Front's 39th Annual Art Auction
 
-Wednesday, February 29, 2012 from 7:00 â€“ 9:30 pm, admission free
+Wednesday, February 29, 2012 from 7:00 – 9:30 pm, admission free
 Participating artists include: Abbas Akhavan, Sean Arden, Joshua 
 Bartholomew, Lorna Bauer, Matei Bejenaru, Neil Beloufa, Bocci, 
 Raymond Boisjoly, Karin Bubas, Fabiola Carranza, Sophie Belair 
@@ -1186,10 +1186,10 @@ was bright.
 It is against this historic backdrop that Trench Contemporary Art 
 launches its first in depth look into a specific period of Vancouver 
 Painter Ron Stoniers artistic legacy. Consisting of 12-16 small works on 
-panel (never before exhibited) and 5 larger canvasâ€™s, this exhibition 
-examines Stonierâ€™s progress as the young artist moves away from 
+panel (never before exhibited) and 5 larger canvas’s, this exhibition 
+examines Stonier’s progress as the young artist moves away from 
 abstract expressionism toward his post painterly works of the mid to 
-late 1960â€™s.
+late 1960’s.
 
 Working in this smaller format, Stonier executed ideas quickly and 
 easily, exploring composition, colour, structure, line and form in a 
@@ -1206,7 +1206,7 @@ evoking a sense of a spiritual or inner perspective of the landscape
 rather than that of the more conventional external and epic one so 
 often found in Canadian painting.
 
-Ron Stonier continued to paint through the 1960â€™s right up until his 
+Ron Stonier continued to paint through the 1960’s right up until his 
 untimely death in 2001.
 
 Trench Contemporary Art is located at 102, 148 Alexander Street, 
@@ -1361,7 +1361,7 @@ entzaubert is a radical queer d.i.y. film festival happening 2 - 5 august
 2012 at the
 queer wagenplatz schwarzer kanal in berlin
 
-we will create a space for queer/feminist d.i.y. cinema â€“ you provide 
+we will create a space for queer/feminist d.i.y. cinema – you provide 
 the films!
 
 we are looking for movies within or beyond these categories:
@@ -1370,20 +1370,20 @@ experimental, feminist, aids/hiv, funny, crazy, serious, low or no
 budget, music, quality, concise, international, homo-socialist, 
 homosexualist, people of colour, revolutionary, polyamorous, 
 monogamous, lazy, tranny-dyky, faggy, old, brand-new, provocative, 
-difficult, hot,â€¦â€¦we welcome films in any language â€“ multiple 
+difficult, hot,……we welcome films in any language – multiple 
 language/subtitles are always appreciated.
-if thatâ€™s not possible, submit anyway! we will try to find subtitlers.
+if that’s not possible, submit anyway! we will try to find subtitlers.
 
 ******* WORKSHOPS *********
 up for sharing your skills?
 need a reason to make your first film ?
 we plan to organize a couple of workshops during the festival.
 we would like *you* to prepare,
-moderate or host them - or simply share equipmentâ€¦
+moderate or host them - or simply share equipment…
 
 This might be filming, editing, directing, subtitling, writing, costumes, 
 make-up, acting, light/sound/camera as well as workshop discussions.
-write an email with the subject â€žworkshopâ€œ with your ideas!
+write an email with the subject „workshop“ with your ideas!
 
 ******** CONTACT AND DEADLINE *******
 deadline: 1 april 2012
@@ -1396,14 +1396,14 @@ venue: http://schwarzerkanal.squat.net
 entzaubert is non-commercial. entry to all screenings is by donation. 
 we support the idea of copyleft and creative commons. entzaubert 
 offers a platform for movies, films, documentaries that might not get 
-screened in mainÂ­stream commercial festivals.
+screened in main­stream commercial festivals.
 entzaubert is a radical queer festival.
 we think that queer is about living your life in a political way which 
 challenges gender and power structures; also that fucking with gender 
-normativity, abolishing borders and fighting for migrantsâ€™ and workersâ€™ 
+normativity, abolishing borders and fighting for migrants’ and workers’ 
 rights are all part of one struggle.
 the capitalist system is based on social inequality. so for us opposing 
-capitaÂ­lism is connected to the fight against transphobia, homophobia 
+capita­lism is connected to the fight against transphobia, homophobia 
 and sexism as well as racism, fascism and militarism.
 with entzaubert we want to encourage all the rad queers and feminists 
 out there to get their images and word out to celebrate our community 
@@ -1419,7 +1419,7 @@ unterwegs!
 
 wir erwarten jetzt gespannt eure filmeinreichungen :)
 
-aktuelle Downloads und mehr Ã¼ber das Festival findet ihr unter 
+aktuelle Downloads und mehr über das Festival findet ihr unter 
 entzaubert.blogsport.de
 [ bald auch auf deutsch :o) ]
 
@@ -1428,9 +1428,9 @@ LETZTER TAG: 1. APRIL 2012
 Wenn ihr Fragen habt schreibt uns:
 entzaubert AT gmail DOT com
 
-xxxxx wir freuen uns darauf von euch zu hÃ¶ren!
+xxxxx wir freuen uns darauf von euch zu hören!
 
-********* AUFRUF fÃ¼r filmeinreichung ********
+********* AUFRUF für filmeinreichung ********
 
 entzaubert
 2. - 5. august 2011 Berlin
@@ -1439,49 +1439,49 @@ Entzaubert ist ein radikal queer d.i.y.* Filmfestival welches im Sommer
 2012 auf dem queeren Wagenplatz Schwarzer Kanal in Berlin 
 stattfindet.
 
-Wir schaffen einen Raum fÃ¼r queer/ feministisches DIY Kino â€“ und ihr 
+Wir schaffen einen Raum für queer/ feministisches DIY Kino – und ihr 
 tragt die Filme bei!
 
-Wir suchen Filme innerhalb, auÃŸerhalb und jenseits der folgenden 
+Wir suchen Filme innerhalb, außerhalb und jenseits der folgenden 
 Kategorien:
 
-KÃ¼nstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, 
-Porno, experimentell, trashy, feministisch, Aids/HIV, lustig, verrÃ¼ckt, 
-ernst, mit wenig oder ohne Finanzen, Musik, QualitÃ¤t, kurzgefasst, 
+Künstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, 
+Porno, experimentell, trashy, feministisch, Aids/HIV, lustig, verrückt, 
+ernst, mit wenig oder ohne Finanzen, Musik, Qualität, kurzgefasst, 
 international, homo-sozialistisch, homosexuell, people of colour, 
-revolutionÃ¤r, polyamurÃ¶s, monogam, faul, tranny-dyky, schwul, alt, 
+revolutionär, polyamurös, monogam, faul, tranny-dyky, schwul, alt, 
 brandneu, provokativ, schwierig, heiss,....
 
-Filme in jeder Sprache sind willkommen â€“ verschiedene Sprachen/ 
-Untertitel wÃ¤ren toll. Wenn das nicht mÃ¶glich ist: Bitte trotzdem 
+Filme in jeder Sprache sind willkommen – verschiedene Sprachen/ 
+Untertitel wären toll. Wenn das nicht möglich ist: Bitte trotzdem 
 einreichen!
 
-****** AUFRUF FÃœR WORKSHOPS *****
+****** AUFRUF FÜR WORKSHOPS *****
 
-Lust dein KÃ¶nnen zu teilen? Suchst du einen Grund deinen ersten Film 
+Lust dein Können zu teilen? Suchst du einen Grund deinen ersten Film 
 zu machen?
-wÃ¤hrend des festivals wird es zeit und raum fÃ¼r einige workshops 
-geben - dafÃ¼r brauchen wir deine beteiligung! wenn du kenntnisse im 
-filmbereich hast und diese an andere weitergeben mÃ¶chtest, nimm 
+während des festivals wird es zeit und raum für einige workshops 
+geben - dafür brauchen wir deine beteiligung! wenn du kenntnisse im 
+filmbereich hast und diese an andere weitergeben möchtest, nimm 
 kontakt mit uns auf.
-die Workshops kÃ¶nnen Filmen, Schneiden, Regie, Untertiteln, 
-Schreiben, KostÃ¼men, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder 
+die Workshops können Filmen, Schneiden, Regie, Untertiteln, 
+Schreiben, Kostümen, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder 
 auch eine Diskussion beinhalten.
-Schick uns deine Ideen in einer Email mit dem Titel â€žWorkshopâ€œ.
+Schick uns deine Ideen in einer Email mit dem Titel „Workshop“.
 
 ****** was ist entzaubert? ******
 
-entzaubert ist nicht-kommerziell und der Eintritt zu allen Filmen lÃ¤uft 
-Ã¼ber Spenden. Wir unterstÃ¼tzen konzepte wie Copyleft und Creative 
-Commons. Entzaubert bietet eine Plattform fÃ¼r Filme und 
+entzaubert ist nicht-kommerziell und der Eintritt zu allen Filmen läuft 
+über Spenden. Wir unterstützen konzepte wie Copyleft und Creative 
+Commons. Entzaubert bietet eine Plattform für Filme und 
 Dokumentationen, welche vielleicht nicht in mainstream-kommerziellen 
 Festivals gezeigt werden.
 entzaubert ist ein radikales queer Festival. Wir verstehen queer als 
 eine politische Lebenseinstellung, welche Geschlecht und 
 Machtstrukturen anfechtet und auch die Dekonstruktion von 
-Geschlechternormen; den Abbau von Grenzen und den Kampf fÃ¼r 
+Geschlechternormen; den Abbau von Grenzen und den Kampf für 
 Migrant_innen- und Arbeiter_innenrechte alle als Teile eines Kampfes 
-sieht. Das kapitalistische System basiert auf sozialer Ungleichheit. FÃ¼r 
+sieht. Das kapitalistische System basiert auf sozialer Ungleichheit. Für 
 uns ist der Widerstand gegen den Kapitalismus verbunden mit dem 
 Kampf gegen Transphobie, Homophobie und Sexismus, ebenso wie 
 gegen Rassismus, Faschismus und Militarismus.
@@ -1500,18 +1500,18 @@ Room Magazine CALL FOR SUBMISSIONS for Winter 2012: Deadline
 May 30,2012
 Seeking cover art and literary submissions.
 
-Room is Canadaâ€™s oldest literary journal by, and about women.
+Room is Canada’s oldest literary journal by, and about women.
 http://www.roommagazine.com/
 
-Theme for 35.4: Womenâ€™s work, unionization, the work we do freely 
+Theme for 35.4: Women’s work, unionization, the work we do freely 
 from our hearts, birthing a child into the fresh air, all of these things are 
-connected. Roomâ€™s issue 35.4 will address and celebrate the 
+connected. Room’s issue 35.4 will address and celebrate the 
 completion of our 35th anniversary volume with the theme of Labour.
 
 Room is looking for original, unpublished art, fiction, creative non-
-fiction, and poetry that explore all iterations of womenâ€™s labour, from a 
+fiction, and poetry that explore all iterations of women’s labour, from a 
 labour of love, birth labour, the labour movement, traditional and non-
-traditional womenâ€™s laboursâ€”we want to see them all.
+traditional women’s labours—we want to see them all.
 
 (To see what kind of work we publish, check out our current issue, 
 34.4, Siblings, featuring new work by Elizabeth Hay, or any recent back 
@@ -1535,10 +1535,10 @@ issue and your last name in the subject line).
 Room is a space where women can speak, connect, and showcase 
 their creativity. Each quarter, for 33 issues, Room has been publishing 
 original, thought-provoking works, by emerging and established 
-Canadian women writers and artists that reflect womenâ€™s strength, 
+Canadian women writers and artists that reflect women’s strength, 
 sensuality, vulnerability, and wit.
 
-Newsroom: to stay current with Roomâ€™s calls and events, sign-up for 
+Newsroom: to stay current with Room’s calls and events, sign-up for 
 our newsletter <http://www.roommagazine.com/newsletter.html
 For Queries: <mailto:contactus@roommagazine.com>
 

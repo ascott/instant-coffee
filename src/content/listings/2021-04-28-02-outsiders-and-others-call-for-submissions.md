@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 2
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Call for Submissions"
 ---
 

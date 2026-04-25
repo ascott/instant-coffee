@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 6
 type: ""
+venue: "221A"
 summary: "221A | WHAT A DRAG, Erdem Tasdelen | MAY 25"
 ---
 

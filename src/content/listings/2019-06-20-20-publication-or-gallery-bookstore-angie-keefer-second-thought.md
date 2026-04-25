@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 20
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Or Gallery Bookstore | Angie Keefer - Second Thoughts | 1-230PM | JUN 22"
 ---
 

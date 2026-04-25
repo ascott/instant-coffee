@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 48
 type: "CALL"
+venue: "Creative Spark Vancouver"
 summary: "Creative Spark Vancouver | Grants for Emerging Artists | APR 21"
 ---
 

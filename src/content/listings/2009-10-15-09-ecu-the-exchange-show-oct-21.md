@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it all adds up"
 emailDate: "Thu, 15 Oct 2009 08:05:40 -0700"
 number: 9
 type: ""
+venue: "ECU"
 summary: "ECU | The Exchange Show | OCT 21"
 ---
 

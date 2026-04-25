@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 19
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Inhuman // Alien | 12PM | AUG 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 13
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | Nina Davies | Contacting Image Worlds | JAN 16-24 | JAN 16"
 ---
 

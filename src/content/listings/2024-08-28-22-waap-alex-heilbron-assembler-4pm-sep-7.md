@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 22
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | ALEX HEILBRON Assembler | 4PM | SEP 7"
 ---
 

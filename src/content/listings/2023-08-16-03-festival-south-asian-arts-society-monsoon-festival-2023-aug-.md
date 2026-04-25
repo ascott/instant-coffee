@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 3
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | South Asian Arts Society | Monsoon Festival 2023 | AUG 17"
 ---
 

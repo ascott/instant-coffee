@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 29
 type: "FUNDRAISER"
+venue: "Langara College"
 summary: "Langara College | Silent Art Auction | MAR 9"
 ---
 

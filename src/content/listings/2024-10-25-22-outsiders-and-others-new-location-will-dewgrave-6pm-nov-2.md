@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 22
 type: "OPENING"
+venue: "Outsiders and Others [NEW LOCATION]"
 summary: "Outsiders and Others [NEW LOCATION] | WILL DEWGRAVE | 6PM | NOV 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | CAG | Missives presented by P. Staff and R. Simpson | FEB 12"
 ---
 

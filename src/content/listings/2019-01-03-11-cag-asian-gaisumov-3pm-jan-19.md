@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GET WITH IT"
 emailDate: "Thu, 03 Jan 2019 09:00:40 -0800"
 number: 11
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Asian Gaisumov | 3pm | JAN 19"
 ---
 

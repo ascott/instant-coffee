@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 33
 type: "EDUCATION"
+venue: "[ONLINE WORKSHOP] VIVO"
 summary: "[ONLINE WORKSHOP] VIVO | Intro to Music Production & Ableton Live | MAR 17"
 ---
 

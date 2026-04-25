@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 8
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | Roger Farr and Will Owen | NOV 9"
 ---
 
@@ -17,13 +18,13 @@ Spoken; visually projected.
 
 Each poet will present one short text, followed with open discussion. 
 
-listen chen presents a machine translation of Ezra Poundâ€™s Canto 49
+listen chen presents a machine translation of Ezra Pound’s Canto 49
 
 Roger Farr presents KRS-One
 
 Will Owen presents Zhou Zan
 
-Saturday November 9, 2013, 1:00â€“2:30
+Saturday November 9, 2013, 1:00–2:30
 Kootenay School of Writing
 237 Keefer Street, Unit 245
 
@@ -114,7 +115,7 @@ Parcel of pig liver an confidential Party materials, love or
 revolutionary enterprise,
 these are antitheses in the books he's read;
 the question he has no time for allegorized
-by passengers getting on and off in turn: â€œThose who want to get on, get on;
+by passengers getting on and off in turn: “Those who want to get on, get on;
 if it's your stop, say somethingâ€  â€“ history's meaning
 found in excessive annotations of ordinary speech.
 
@@ -129,6 +130,6 @@ nothing more than a mark of the nouveau riche?
 â€œWill have bread, will have everything.â€  He admires
 the Marlboro pressed between his fingers, distinguished emblem
 of two esteemed cultures, characters: Act! Victory lies ahead! Yet he
-identifies himself with the cigarette: â€œI am being burned
+identifies himself with the cigarette: “I am being burned
 to the utmost degree by my own flame
 and curl up in my own smoke.â€

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 39
 type: "CALL"
+venue: "ALCHEMY"
 summary: "ALCHEMY | OPEN CALL ARTIST RESIDENCY | MAR 15"
 ---
 

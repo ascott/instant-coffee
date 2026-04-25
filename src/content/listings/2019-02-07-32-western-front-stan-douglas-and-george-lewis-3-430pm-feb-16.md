@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 32
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Stan Douglas and George Lewis | 3-430PM | FEB 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 13
 type: "OPENING"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Luminescence II | MAR 18"
 ---
 

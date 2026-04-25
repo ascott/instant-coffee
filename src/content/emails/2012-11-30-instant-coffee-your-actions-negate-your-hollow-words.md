@@ -52,7 +52,7 @@ practice. These include the consequences for reconsidering power and ideas
 of progress, and the means for slowing down signification and extending 
 temporality. What are the aesthetic,
 social and political implications of absence and the void as a paradoxical 
-space â€˜fullâ€™ with presence and necessary doubt?
+space ‘full’ with presence and necessary doubt?
 
 Jin-me Yoon is a Professor of Visual Studies at Simon Fraser University and 
 is represented by Catriona Jeffries Gallery.
@@ -75,7 +75,7 @@ Nicolas Sassoon, WAVES at
 Yaletown-Roundhouse Station, Canada Line continues until January 20, 2013.
 
 WAVES is presented in partnership with the Canada Line Public Art Program 
-â€” IntransitBC.
+— IntransitBC.
 
 Gallery hours: Tuesday to Sunday, 12-6 pm.
 
@@ -117,10 +117,10 @@ ambition.
 Mukai's sensitive yet complex geometric drawings and paintings document 
 the artist's patient pursuit of 'understanding' a medium, while revealing that 
 medium's potential to embody the sublime through its capacity for beauty. 
-This exhibition, â€˜The Alchemy of Practiceâ€™ brings together a collection of 
+This exhibition, ‘The Alchemy of Practice’ brings together a collection of 
 drawings and paintings completed over the past 30 years. 
 
-All of Amy Mukaiâ€™s drawings and paintings are ink, oil or acrylic gouache on 
+All of Amy Mukai’s drawings and paintings are ink, oil or acrylic gouache on 
 paper in a variety of sizes.
 
 For more information please contact Trench at 604-681-2577.
@@ -153,7 +153,7 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 ------------------------------------------------------------------------
@@ -224,16 +224,16 @@ canonization practices. Mancini's theorizing of the "aesthetic conscience" and
 his astute analysis of the discourse of the "craft" of poetry are major additions 
 to the critical work on reviewing. This is a "must" for anyone interested in 
 Canadian poetry - and reviewing." 
-â€“ Linda Hutcheon, author of The Canadian Postmodern; A Poetics of 
+– Linda Hutcheon, author of The Canadian Postmodern; A Poetics of 
 Postmoderism: History, Theory, Fiction; The Politics of Postmodernism.
 
 "In You Must Work Harder to Write Poetry of Excellence, Donato Mancini 
 exposes and delimits the ideology behind a practice of poetry reviewing that 
 functions more like diamond appraisal than intellectual engagement. If you 
 read or write poetry whose clarity, carat, colour or cut is deemed flawed in 
-such a critical political economy, you will find in Manciniâ€™s work a challenge to 
+such a critical political economy, you will find in Mancini’s work a challenge to 
 aesthetic exclusivity that is incisive, expansive and potentially liberatory." 
-â€“ Wayde Compton 
+– Wayde Compton 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-11-30-05-vancouver-art-gallery-reading-ian-wallace-tim-lee-and-clint-">05. TALK | Vancouver Art Gallery | Reading Ian Wallace: Tim Lee and Clint Burnham | DEC 4</a>
@@ -242,7 +242,7 @@ Reading Ian Wallace
 The Vancouver Art Gallery is pleased to present a series of talks and lectures 
 alongside the landmark exhibition Ian Wallace: At the Intersection of Painting 
 and Photography. This Tuesday evening, artist Tim Lee and writer Clint 
-Burnham will speak on Wallaceâ€™s At Work series, and its influence on their 
+Burnham will speak on Wallace’s At Work series, and its influence on their 
 own thinking and practice.
 Free with gallery admission.
 
@@ -376,7 +376,7 @@ with. Dimensions Variable embraces this relationship in order to investigate
 the autonomy contemporary art assumes within culture. 
 
 "Roughly, the success or failure of a given painting has come to depend on its 
-ability to hold or stamp itself out or compel conviction as shapeâ€”that, or 
+ability to hold or stamp itself out or compel conviction as shape—that, or 
 somehow to stave off or elude the question of whether or not it does so." 
 Michael Fried "Art and Objecthood" (1967)
 
@@ -395,7 +395,7 @@ Thursday December 6, 2012, 12:30pm
 SFU Gallery, AQ 3004, Burnaby Campus
 
 Labour issues are at the forefront of the current exhibition of work by Allan 
-Sekula at SFU Gallery entitled "This Ainâ€™t China". The work in the exhibition 
+Sekula at SFU Gallery entitled "This Ain’t China". The work in the exhibition 
 examines the transformation of labour focusing on workers in a North 
 American fast food restaurant in the 1970s and recent Chinese factory 
 conditions under global capitalism. The exhibition raises, amongst other 
@@ -405,12 +405,12 @@ authorative rule.
 The timing of this exhibition coincides with job action and strikes at SFU by 
 support workers in the Canadian Union of Public Employees and teaching 
 assistants and sessional instructors in the Teaching Support Staff Union. 
-Sekulaâ€™s exhibition offers a context within which a discussion can take place 
+Sekula’s exhibition offers a context within which a discussion can take place 
 around labour conditions and workers rights at the university.
 
 The panel will raise questions of exploitation, the need for open dialogue, and 
 the role of the university as a site for knowledge, critique and action. As Clint 
-Burnham writes in a recent review of the SFU Gallery exhibition, â€œ "This Ainâ€™t 
+Burnham writes in a recent review of the SFU Gallery exhibition, “ "This Ain’t 
 China" becomes less a comment on shopworn Maoist revolution and more a 
 critique of the globalized conditions of learning from, and looking at, art 
 today.â€ 
@@ -425,7 +425,7 @@ CUPE and TSSU members.
 
 Lynne Fowler is a member of the CUPE 3338 executive.
 
-Allan Sekula: "This Ainâ€™t China" is on at the SFU Gallery until December 15, 
+Allan Sekula: "This Ain’t China" is on at the SFU Gallery until December 15, 
 2012. Sekula is a Los Angeles based artist, writer and critic who works 
 primarily in photography. Along with his visual work (including films), his texts 
 offer a multi-level critique of contemporary late capitalism to question social 
@@ -461,7 +461,7 @@ bike from Whoa! Nellie. Join us for cocktails and a bratwurst barbeque on
 Friday night, and a Western Front bake sale and kids' craft table courtesy of 
 Collage Collage on Saturday.
 
-This yearâ€™s participating vendors include Anita Sikma, AW for Andrea Wong, 
+This year’s participating vendors include Anita Sikma, AW for Andrea Wong, 
 Coconama Chocolate, Contexture Design, Draw Me A Lion, Erin Templeton, 
 Fieldwork, Fable Naturals, Fleet Objects, Gailan Ngan, Henderson Dry 
 Goods, Hendrik Lou, Jennifer Fedorink, Jesse Gray, Nellija Zi, Perro Verlag, 
@@ -469,15 +469,15 @@ Publication Studio, Simply Read Books, Tin Can Studio, Wendy Oakman +
 more.
 
 Proceeds from TOQUE support Western Front, a not-for-profit arts 
-organization. Held in the legendary setting of Western Frontâ€™s 1920s heritage 
+organization. Held in the legendary setting of Western Front’s 1920s heritage 
 building, this fundraiser is a great way to support your artistic community.
 
-For more information about this yearâ€™s event and participating vendors, please 
+For more information about this year’s event and participating vendors, please 
 visit www.toque2012.tumblr.com
 
 â€œA true artistsâ€™ fair with a solidly local feelâ€  â€“ Scout Magazine
 
-â€œOf all the artisan fairs happening this Christmas, the Western Frontâ€™s annual 
+“Of all the artisan fairs happening this Christmas, the Western Front’s annual 
 Toque sale just might be the most artful.â€  - Georgia Straight
 
 Thank you to our supporters
@@ -490,9 +490,9 @@ Exercise is pleased to announce:
 Adam Harrison
 Exposure Length: Four Hours
 
-December 7 â€” January 19
+December 7 — January 19
 
-Please join us for the opening reception Friday December 7, 6â€”10 pm
+Please join us for the opening reception Friday December 7, 6—10 pm
 
 Gallery hours 12-5 Friday and Saturday (ring buzzer)
 Or by appointment
@@ -568,7 +568,7 @@ Assistant Professor - Industrial Design
 Assistant Professor - Interaction Design 
 Assistant Professor - History and Theory of Design
 Assistant Professor - English (EAL/ESL Specialization)
-Assistant/Associate Professor â€“ Illustrative Practices
+Assistant/Associate Professor – Illustrative Practices
 
 Please visit ecuad.ca/jobs for details. 
 
@@ -654,8 +654,8 @@ grunt gallery and help support our future programming! more. . .
 <a href="/instant-coffee/listings/2012-11-30-17-chrysalis-zine-call-dec-14">17. CALL | Chrysalis Zine | CALL | DEC 14</a>
 ------------------------------------------------------------------------
 Chrysalis Zine is seeking work for its third issue. The subject of Issue 3 will 
-beâ€¦
-imâ€¢presâ€¢sion
+be…
+im•pres•sion
 
 noun /imˈpreSHən/ impressions, plural
 
@@ -670,7 +670,7 @@ A difference made by the action or presence of someone or something
 An imitation of a person or thing, esp. one done to entertain
 - he did an impression of Frank Sinatra
 A graphic or pictorial representation of someone or something
-- the police have issued an artistâ€™s impression of the attacker
+- the police have issued an artist’s impression of the attacker
 A mark impressed on a surface by something
 - the impression of his body on the leaves
 
@@ -702,11 +702,11 @@ Exhibition dates: October 19 - December 15, 2012
 ----------
 
 Lyse Lemieux has lived and worked in Vancouver since graduating from the 
-University of British Columbiaâ€™s Fine Arts department in 1976. Over the past 
+University of British Columbia’s Fine Arts department in 1976. Over the past 
 30 years she has exhibited her work in public and private galleries in both 
-Canada and Europe. Most recently Lemieuxâ€™s work was featured in Cut & 
+Canada and Europe. Most recently Lemieux’s work was featured in Cut & 
 Paste at the Equinox Project Space in Vancouver. This first solo exhibition at 
-Republic Gallery demonstrates the broad scope of Lemieuxâ€™s drawing practice 
+Republic Gallery demonstrates the broad scope of Lemieux’s drawing practice 
 and her ongoing commitment to working with paper.
 
 ----------

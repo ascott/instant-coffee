@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 14
 type: "OPENING"
+venue: "Macaulay & Co Fine Art"
 summary: "Macaulay & Co Fine Art | ARL LPY | JUN 20"
 ---
 
 Attila Richard Lukacs - Lawrence Paul Yuxweluptun
 
-June 20th â€“ July 18th
+June 20th – July 18th
 Opening Reception: Saturday June 20th, 2-4pm
 
 Macaulay & Co Fine Art is thrilled to present an exhibition of new work by
@@ -27,21 +28,21 @@ trajectory. Attila lived in Berlin, New York, and Hawaii before returning
 to Vancouver; Lawrence Paul remained here, focused on the land that
 sustains him. Attila is known for oil paintings of shocking gay skinheads
 and soldiers, flowers and trees, monkeys and moons, with a compositional
-style that draws references from Bellini to Gainsborough; Lawrence Paulâ€™s
+style that draws references from Bellini to Gainsborough; Lawrence Paul’s
 work in acrylics combines and overturns a rhetoric of traditional Northwest
 Coast First Nation shapes and forms, colour theory and searing social
-commentary that simply wonâ€™t be silenced.
+commentary that simply won’t be silenced.
 
 Their work connects through many points of commonality. Both engage with
 the surreal, spirit animals and transformation, birds flying into
-paintings, melting figures. Thereâ€™s some fun with form: a dangling monkey
+paintings, melting figures. There’s some fun with form: a dangling monkey
 is a lovely calligraphy, less threatening, less sexual, more gentle than
 previous incarnations. Nostrils curve into moustache shapes, teeth take on
 a terrifying T-Rex dimension. Trees appear and contain various meanings,
 some peering right out at us. Bitumen can be a motivating controversy or
 simply a pigment, but either way stands as a focal point in the body of
 work. Areas of exploration include contemplation, the sacred, isolation,
-mystery, the nature of good and evil â€“ all is open to interpretation,
+mystery, the nature of good and evil – all is open to interpretation,
 random fragments of alphabet, enigmatic figures, mysterious black smoke
 that curls and puffs. All is on display but not much is explained, leaving
 the viewer to read the paintings and resolve them individually.
@@ -69,7 +70,7 @@ Feld, Museum Ludwig, Koln, Germany (2006).
 
 Lawrence Paul Yuxweluptun lives and works in Vancouver, BC. A forthcoming
 retrospective of his work will be on view at MOA, UBC in 2016. Recent
-exhibitions include: Belkin, UBC WITNESSES: Art and Canadaâ€™s Indian
+exhibitions include: Belkin, UBC WITNESSES: Art and Canada’s Indian
 Residential Schools(2013); National Gallery of Canada SAKAHAN:
 International Indigenous Art; Vancouver Art Gallery (2012) Shore, Forest,
 and Beyond: Work from the Audain Collection; Contemporary Art Gallery of

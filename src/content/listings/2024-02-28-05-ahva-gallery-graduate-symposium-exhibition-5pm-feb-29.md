@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 5
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Graduate Symposium Exhibition | 5PM | FEB 29"
 ---
 

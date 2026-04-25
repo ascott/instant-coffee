@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: utopia has that sinking feeling"
 emailDate: "Thu, 08 May 2008 07:40:24 -0700"
 number: 1
 type: ""
+venue: "Or"
 summary: "Or | Alejandro Cesarco, Germaine Koh, Micah Lexier | MAY 8"
 ---
 

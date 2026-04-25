@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 22
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Open Studio: SLOW Relations + Practices Residency | JUN 22"
 ---
 

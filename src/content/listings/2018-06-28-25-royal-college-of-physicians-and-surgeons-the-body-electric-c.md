@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 25
 type: "CALL"
+venue: "Royal College of Physicians and Surgeons"
 summary: "Royal College of Physicians and Surgeons | The Body Electric Call for Submissions | JUL 6"
 ---
 

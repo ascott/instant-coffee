@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 26
 type: "OPENING"
+venue: "Maillardville Cultural Appreciation Society"
 summary: "Maillardville Cultural Appreciation Society | Stephan Wright - Golden Flower | AUG 22"
 ---
 
@@ -17,7 +18,7 @@ The Maillardville Cultural Appreciation Society is pleased to present an
 exhibition by Stephan Wright. Through personal narratives, classical 
 literature and philosophical texts Wright creates sculptural works that 
 address the nuances of non-being and persona. Often addressing a 
-tension between the body and architecture Wrightâ€™s work alters the 
+tension between the body and architecture Wright’s work alters the 
 method of navigating space within the gallery through various 
 sculptural extrusions in the space itself. In this exhibition works are 
 primarily composed of scavenged material organized into a large scale 

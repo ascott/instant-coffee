@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 30
 type: "EXHIBITION"
+venue: "Audain Art Museum"
 summary: "Audain Art Museum | Otherwise Disregarded | MAY 21"
 ---
 

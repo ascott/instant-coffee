@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 69
 type: "OPENING"
+venue: "ECUAD"
 summary: "ECUAD | The Show | MAY 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this might be oversize"
 emailDate: "Thu, 10 Sep 2009 10:10:13 -0700"
 number: 24
 type: ""
+venue: "The Apartment"
 summary: "The Apartment | Bruce Conner, Christos Dikeakos, Joanna Staniszkis | SEP 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 11
 type: "EVENT"
+venue: "SFU SCA"
 summary: "SFU SCA | The World is Ending, Let’s Party | NOV 13"
 ---
 

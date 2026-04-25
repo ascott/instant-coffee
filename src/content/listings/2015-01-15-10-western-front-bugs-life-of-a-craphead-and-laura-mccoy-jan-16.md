@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 10
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | BUGS - Life of a Craphead and Laura McCoy | JAN 16"
 ---
 
@@ -23,21 +24,21 @@ exhibition of their new feature length film Bugs. Following the opening
 premiere of the film, Bugs will be screened on Saturdays at 2pm from
 January 17-February 7.
 
-A response to Disney movies like A Bugâ€™s Life, the film is a modern-day
+A response to Disney movies like A Bug’s Life, the film is a modern-day
 fable about a bug society that expresses satirical ideas about success and
 individualism within a fantasy world. Extending outward from the screen
 space of the film, the installation (made in collaboration with Laura
 McCoy) moves through the entire building, toying with the notions of hype
 and publicity that are a part of going to see a movie. Both playful and
 irreverent, the exhibition embodies the humorous DIY ethos at the heart of
-Life of a Crapheadâ€™s artistic practice.
+Life of a Craphead’s artistic practice.
 
 Artist Biographies
 
 Life of a Craphead is the performance art group of Amy Lam and Jon McCurley
 since 2006. L.o.a.Ch live and work in Toronto, Canada. Projects include
 transporting two prisoners in a cage on the back of a truck, touring a live
-comedy show, giving away everything on a restaurantâ€™s menu, and building a
+comedy show, giving away everything on a restaurant’s menu, and building a
 3-story maze. They were artists-in-residence at the Art Gallery of Ontario
 in the winter of 2013 and produced the Life of a Craphead Fifty Year
 Retrospective, 2006-2056, an exhibition of all the work they will ever

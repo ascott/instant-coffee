@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 23
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | 8EAST - 8 East Pender Street | Album Release : Novel Echopath | JUL 26"
 ---
 

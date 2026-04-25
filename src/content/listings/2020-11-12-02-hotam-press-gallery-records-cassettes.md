@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 2
 type: "CALL"
+venue: "Hotam Press Gallery"
 summary: "Hotam Press Gallery | Records & Cassettes"
 ---
 

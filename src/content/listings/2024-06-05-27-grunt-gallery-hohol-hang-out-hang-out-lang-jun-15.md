@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 27
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | HOHOL (Hang Out Hang Out Lang) | JUN 15"
 ---
 

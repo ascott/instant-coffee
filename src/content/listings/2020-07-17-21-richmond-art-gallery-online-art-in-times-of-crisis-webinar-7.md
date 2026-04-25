@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 21
 type: "TALK"
+venue: "Richmond Art Gallery [ONLINE]"
 summary: "Richmond Art Gallery [ONLINE] | Art in Times of Crisis Webinar | 7-830PM | JUL 28"
 ---
 

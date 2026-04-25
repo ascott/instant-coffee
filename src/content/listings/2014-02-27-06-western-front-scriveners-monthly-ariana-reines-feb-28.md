@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 6
 type: ""
+venue: "Western Front"
 summary: "Western Front | SCRIVENER'S MONTHLY: ARIANA REINES | FEB 28"
 ---
 
@@ -12,23 +13,23 @@ SCRIVENER'S MONTHLY: ARIANA REINES
 Friday, February 28, 2014 @ 8:00pm
 Western Front
 
-Scrivenerâ€™s Monthly presents an evening with New York poet, playwright and 
+Scrivener’s Monthly presents an evening with New York poet, playwright and 
 translator Ariana Reines. For her first visit to Vancouver, she will read some 
 brand new stuff, alongside selections from her recent books of poetry 
 Thursday (2012) and Mercury (2011).
 
-This will be the last scheduled Scrivenerâ€™s Monthly, so donâ€™t miss it!
+This will be the last scheduled Scrivener’s Monthly, so don’t miss it!
 
 Ariana Reines is the author of The Cow (Alberta Prize, 2006), Coeur de Lion 
 (2007), Mercury, (2011), Thursday, (2012), and TELEPHONE, (2009, 
 commissioned and produced by The Foundry Theatre), an Obie-winning play. 
-For Semiotext(e), she is the translator of The Little Black Book of GrisÃ©lidis 
+For Semiotext(e), she is the translator of The Little Black Book of Grisélidis 
 Real: Days and Nights of an Anarchist Whore by Jean-Luc Hennig, and 
 Preliminary Materials for a Theory of the Young-Girl by TIQQUN. For Mal-O-
 Mar, she translated My Heart Laid Bare by Charles Baudelaire. Performances 
 and theatrical works include THE ORIGIN OF THE WORLD at Stuart Shave 
 Modern Art, LORNA (with Jim Fletcher) at the Martin E. Segal Theatre, MISS 
-STâ€™S HIEROGLYPHIC SUFFERING at the Solomon R. Guggenheim Museum, and 
+ST’S HIEROGLYPHIC SUFFERING at the Solomon R. Guggenheim Museum, and 
 SWISSNESS, at The Swiss Institute.
 
 Recent writing has appeared in Mousse, Parkett, The Boston Review, The 

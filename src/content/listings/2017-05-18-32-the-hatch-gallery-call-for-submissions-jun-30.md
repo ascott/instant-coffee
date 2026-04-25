@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 32
 type: "CALL"
+venue: "The Hatch Gallery"
 summary: "The Hatch Gallery | CALL FOR SUBMISSIONS | JUN 30"
 ---
 

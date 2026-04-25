@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Art Gallery at Evergreen (COQUITLAM)"
 summary: "Art Gallery at Evergreen (COQUITLAM) | MANTLE | SEP 1"
 ---
 

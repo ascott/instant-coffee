@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 15
 type: "CALL"
+venue: "BC Arts Council"
 summary: "BC Arts Council | Project Assistance for Visual Artists | NOV 15"
 ---
 

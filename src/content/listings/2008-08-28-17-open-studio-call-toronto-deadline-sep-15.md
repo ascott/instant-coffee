@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 17
 type: ""
+venue: "Open Studio"
 summary: "Open Studio | call | Toronto | deadline | SEP 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 16
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | a Handful of Dust: Lecture w/David Campany | 7-9PM | FEB 9"
 ---
 

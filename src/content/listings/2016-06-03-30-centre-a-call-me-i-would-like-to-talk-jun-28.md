@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 30
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | CALL ME I WOULD LIKE TO TALK | JUN 28"
 ---
 

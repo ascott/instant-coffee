@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 12
 type: ""
+venue: "Exercise"
 summary: "Exercise | Conversation with Rebecca Brewer | JUN 8"
 ---
 
@@ -30,7 +31,7 @@ the first place, the painting remained green. As soon as he used a
 different color, the disturbance that resulted was so great that he covered
 it with green again. For a while he thought that the treacherous female
 soul (treachery no doubt its most important element alongside emptiness)
-could appear as a cubist lemon-yellow spiral among the greenâ€“a shape more
+could appear as a cubist lemon-yellow spiral among the green–a shape more
 or less like one of those sofa-springs that winds crookedly upward. But,
 alas, painting is color as well as form. The yellow refused to meld with
 the massive green of his chive allegory. He had no choice but to remove the

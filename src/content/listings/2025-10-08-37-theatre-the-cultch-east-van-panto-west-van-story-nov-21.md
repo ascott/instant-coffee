@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 37
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | The Cultch | East Van Panto: West Van Story | NOV 21"
 ---
 

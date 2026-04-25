@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 12
 type: "TALK"
+venue: "Connexion Extenxion"
 summary: "Connexion Extenxion | A Talk with Tyler Russel and Joni Low | JAN 28"
 ---
 

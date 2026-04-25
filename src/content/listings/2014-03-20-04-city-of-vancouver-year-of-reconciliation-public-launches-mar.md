@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 4
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | Year of Reconciliation | public launches | MAR 21"
 ---
 

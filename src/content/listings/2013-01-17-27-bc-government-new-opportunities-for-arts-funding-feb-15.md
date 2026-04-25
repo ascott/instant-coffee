@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 27
 type: ""
+venue: "B.C. Government"
 summary: "B.C. Government | New Opportunities for Arts Funding | FEB 15"
 ---
 

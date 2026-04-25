@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 43
 type: "CALL"
+venue: "Mountain Standard Times"
 summary: "Mountain Standard Times | Call for Submissions: M:ST Festival | NOV 30"
 ---
 
@@ -61,7 +62,7 @@ You may also submit up to 2 other items of relevant support material
 and should only be provided if they relate directly to your proposal.
 Submission Procedure:
 If applying by e-mail: Please include all written support as a single PDF
-file. Send PDF's and JPEGâ€™s to info@mstfestival.org before Monday,
+file. Send PDF's and JPEG’s to info@mstfestival.org before Monday,
 November 30, 2015 at 4:30pm, with the subject line ATTN: CALL FOR
 SUBMISSIONS.
 
@@ -76,7 +77,7 @@ Submissions must be postmarked by Monday, November 30, 2015 at
 Send all submissions to:
 
 ATTN: M:ST Festival Programming Committee
-#212, 223 â€“ 12th Avenue SW
+#212, 223 – 12th Avenue SW
 Calgary, AB Canada T2R 0G9
 
 Application Tips:

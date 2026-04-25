@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 8
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO Media Arts Centre | Video Out Technician | JAN 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Soundings: An Exhibition in Five Parts | SEP 8"
 ---
 

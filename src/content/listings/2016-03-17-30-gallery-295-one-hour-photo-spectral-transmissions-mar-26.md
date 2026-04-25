@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 30
 type: "TALK"
+venue: "Gallery 295"
 summary: "Gallery 295 | One Hour Photo: Spectral Transmissions | MAR 26"
 ---
 

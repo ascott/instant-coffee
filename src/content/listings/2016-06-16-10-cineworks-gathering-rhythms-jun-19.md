@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 10
 type: "EVENT"
+venue: "Cineworks"
 summary: "Cineworks | Gathering Rhythms | JUN 19"
 ---
 

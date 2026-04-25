@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 12
 type: "CALL"
+venue: "Shooting Gallery Performance Series"
 summary: "Shooting Gallery Performance Series | CALL FOR SUBMISSIONS! | JAN 10"
 ---
 

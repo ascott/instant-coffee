@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 22
 type: ""
+venue: "y of Vancouver Cultural Grants Deadline"
 summary: "y of Vancouver Cultural Grants Deadline | Four Artist Live/Work Studios | OCT 7"
 ---
 

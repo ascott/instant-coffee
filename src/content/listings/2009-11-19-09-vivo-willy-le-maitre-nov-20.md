@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 9
 type: ""
+venue: "VIVO"
 summary: "VIVO | Willy Le Maitre | NOV 20"
 ---
 
@@ -37,7 +38,7 @@ amalgamations of inter subjective perspective visualize reality as an
 artifact of communication.
 
 "In Edia, entities make and break connections apparently at will,
-paralleling and modeling packet communication - and in Edia Ã¢â‚¬â€œ this
+paralleling and modeling packet communication - and in Edia â€“ this
 system is raised to the level of sentience, for Edia is organic, an
 organism or swarm-organism itself. Part of the brilliance of the work
 is its 'unclarity' - in the same way that Marcel Duchamp's or David

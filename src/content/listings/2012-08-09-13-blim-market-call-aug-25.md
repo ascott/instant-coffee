@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 13
 type: ""
+venue: "Blim Market"
 summary: "Blim Market | CALL | AUG 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 8
 type: "EVENT"
+venue: "Chambar Restaurant"
 summary: "Chambar Restaurant | Likemind Vancouver | JUL 19"
 ---
 

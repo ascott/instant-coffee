@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 19
 type: "EVENT"
+venue: "SFU Harbour Centre"
 summary: "SFU Harbour Centre | Meet the 2023-24 Shadbolt Fellows | 7PM | MAR 21"
 ---
 

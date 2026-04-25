@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 7
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Nothing About Us Without Us | DEC"
 ---
 

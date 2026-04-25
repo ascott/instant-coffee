@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 4
 type: "TALK"
+venue: "Langara"
 summary: "Langara | Philosophers' Jam Dialogue Series | FEB 9"
 ---
 

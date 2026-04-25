@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 37
 type: "CALL"
+venue: "Mayne Island"
 summary: "Mayne Island | Obsidian Artist Residency | JUN 30"
 ---
 

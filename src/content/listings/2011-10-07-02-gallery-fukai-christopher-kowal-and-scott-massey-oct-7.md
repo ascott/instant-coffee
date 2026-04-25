@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 2
 type: "OPENING"
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | Christopher Kowal, and Scott Massey | OCT 7"
 ---
 
@@ -25,7 +26,7 @@ sorrowful impression.
 
 Underneath the Surface: Cycles of the Sun and Scenes of Morbid Fascinations 
 showcases the work of two Vancouver artists, Christopher Kowal and Scott 
-Massey. The exhibition focuses on the parallel narratives in each artistâ€™s works 
+Massey. The exhibition focuses on the parallel narratives in each artist’s works 
 that highlight an intersection between artifice and reality. Staying true to the 
 narratorâ€™s dictum within Poeâ€™s â€œThe Fall of the House of Usherâ€ , this exhibition 
 foreshadows deeper and darker layers of meaning, representation and 
@@ -40,7 +41,7 @@ using a process integral to film, advertising and architectural practice: three-
 dimensional imaging. The subject of the print and accompanying animation, the 
 childhood home of serial killer Jeffrey Dahmer, is meticulously rendered through 
 the creation of a physically accurate digital set and sun system. Referencing 
-documentary films created in the aftermath of Dahmerâ€™s trial, Kowalâ€™s depiction 
+documentary films created in the aftermath of Dahmer’s trial, Kowal’s depiction 
 of the Dahmer family bungalow in Ohio reflects popular preoccupations with true 
 crime and on his own interest in this genre. The fabrication of a photorealistic 
 image using 3D technology prompts questions about the relationship between 
@@ -48,9 +49,9 @@ the real and the constructed, and about the possibility of engaging a
 contemporary vernacular in the production of fine art imagery.
 
 Whereas Christopher Kowal uses photorealistic 3D imagery to render the 
-constructed environment, Scott Masseyâ€™s Torture Box (145,071 kms in 1:21:03 
+constructed environment, Scott Massey’s Torture Box (145,071 kms in 1:21:03 
 @ 1676 kms/hr) (2009) creates an actual environment for pain, utilizing the 
-concentrated rays of our sun. His work references a scene from Frank Herbertâ€™s 
+concentrated rays of our sun. His work references a scene from Frank Herbert’s 
 1965 science fiction novel â€œDune,â€  in which The Queen of Atreides produces 
 a â€œtorture boxâ€  in order to determine if her son Paul, heir to the House of Atreides 
 and thus control of planet Arrakis, is worthy of the responsibility. The durational 
@@ -59,12 +60,12 @@ same way a child would burn to death an insect. Taking 1 hour, 21 minutes, and
 3 seconds, this disc of hot light slowly makes its way across the width of his 
 palm, notating the length of time the earth has traveled around the sun; 145,071 
 kilometers rotating at 1676 kilometers per hour. Accompanying Torture Box 
-(145,071 kms in 1:21:03 @ 1676 kms/hr), Masseyâ€™s photograph, Hydro Poles 
+(145,071 kms in 1:21:03 @ 1676 kms/hr), Massey’s photograph, Hydro Poles 
 Shadowing (After Muybridge) (2002/2010), references the pioneering fast-motion 
 photography of Eedweard Muybridge. The photo depicts a sequence of eight 
 photographs taken from the same spot every hour during the winter solstice. As 
 the sun makes its way across the sky the poleâ€™s shadows â€œrunâ€  across the 
-building, indicative of the earthâ€™s movement through space.
+building, indicative of the earth’s movement through space.
 
 The works in this exhibition are examples of the tensions inherent in the 
 dichotomous relationship between the real and the constructed. What lies 
@@ -94,7 +95,7 @@ London UK (2009). His practice focuses on psychological and conceptual
 relationships to space, incorporating a wide reaching interest in performative 
 actions, and an interest in the psychological process of decoding information, 
 focusing on the trigger that identifies relationships between language, thought 
-and subject matter and how words, sounds and images slip into an audienceâ€™s 
+and subject matter and how words, sounds and images slip into an audience’s 
 media-saturated, cultural unconscious. This is his first, official, curatorial 
 endeavour.
 

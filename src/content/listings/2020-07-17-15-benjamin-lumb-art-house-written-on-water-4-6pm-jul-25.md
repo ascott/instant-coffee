@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 15
 type: "OPENING"
+venue: "Benjamin Lumb Art House"
 summary: "Benjamin Lumb Art House | Written on Water | 4-6PM | JUL 25"
 ---
 

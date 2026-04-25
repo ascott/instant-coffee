@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "WESTERN FRONT"
 summary: "WESTERN FRONT | Broadcasts from Here | JAN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Yactac"
 summary: "Yactac | Catching Butterflies | Fiona Zhao | JUN 21"
 ---
 

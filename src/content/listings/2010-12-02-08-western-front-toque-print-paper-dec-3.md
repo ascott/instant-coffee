@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 8
 type: ""
+venue: "Western Front"
 summary: "Western Front | Toque: Print + Paper | DEC 3"
 ---
 
@@ -11,31 +12,31 @@ Toque: Print + Paper
 
 2010 Holiday Sale
 
-Friday, December 3 from 6 pm â€“ 9 pm
-Saturday, December 4 from 11 am â€“ 5 pm
+Friday, December 3 from 6 pm – 9 pm
+Saturday, December 4 from 11 am – 5 pm
 at the Western Front Luxe Hall, 303 East 8th Ave, Vancouver
 
-Toque, the Western Frontâ€™s annual craft sale, gets a new look this year
+Toque, the Western Front’s annual craft sale, gets a new look this year
 with a focus on books, text and printed material. Please join us on
 December 3rd and 4rth at this unique holiday sale featuring local
 designers, crafters, artists and artist collectives.
 
 Nineteen vendors contribute to Toque this year, with wares ranging from
-books, zines, cards, handcrafted dÃ©cor, jewellery, and other special gifts.
-Long-time Toque favourites return, such as local publisher Simply Readâ€™s
-childrenâ€™s books, Perro Verlagâ€™s wide selection of indie art publications
-from around the world, and Contexture Designâ€™s map based mobiles. These
+books, zines, cards, handcrafted décor, jewellery, and other special gifts.
+Long-time Toque favourites return, such as local publisher Simply Read’s
+children’s books, Perro Verlag’s wide selection of indie art publications
+from around the world, and Contexture Design’s map based mobiles. These
 Toque regulars appear alongside exciting newcomers such as the West Coast
-classic Arsenal Pulp Press, Vancouverâ€™s independent music collective Safe
+classic Arsenal Pulp Press, Vancouver’s independent music collective Safe
 Amplification Society as well as legendary New York Based contemporary art
 publisher Printed Matter, and many others. Look for exclusive Western Front
 publications, as well as a limited edition commissioned tea towel and
 colouring poster by Jeff Hamada, Vancouver based artist and creator of the
 popular blog www.booooooom.com
 
-Toque opens Friday from 6 â€“ 9 pm, where you can browse and enjoy a drink.
+Toque opens Friday from 6 – 9 pm, where you can browse and enjoy a drink.
 On Saturday come by between 11am and 4pm for shopping as well as a special
-collaboration with Collage Collage, a local childrenâ€™s arts and crafts shop
+collaboration with Collage Collage, a local children’s arts and crafts shop
 and teaching space. Bring your children for fun crafting and colouring!
 Fine baked goods will be available from Hatty Cakes.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 12
 type: ""
+venue: "Hunter and Cook"
 summary: "Hunter and Cook | Issue 10 | www.hunterandcook.com | OCT 6"
 ---
 

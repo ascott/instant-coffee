@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 9
 type: "OPENING"
+venue: "arc.hive artist run centre [VICTORIA]"
 summary: "arc.hive artist run centre [VICTORIA] | Orcaphilia | 7PM | JAN 12"
 ---
 

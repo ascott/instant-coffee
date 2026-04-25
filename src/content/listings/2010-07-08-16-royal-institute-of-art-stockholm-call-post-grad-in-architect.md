@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 16
 type: ""
+venue: "Royal Institute of Art, Stockholm"
 summary: "Royal Institute of Art, Stockholm | Call: Post-grad in Architecture and Urban Planning | AUG 16"
 ---
 
@@ -51,7 +52,7 @@ development?
 
 Happy Grounds
 The French philosopher Henri Lefebvre stated in his seminal text from 1968
-Le droit a la ville: Â»Urban life has yet to begin.Â« Resources.10 now starts
+Le droit a la ville: »Urban life has yet to begin.« Resources.10 now starts
 its program Happy Grounds, in which we will search for alternative urban
 models and perspectives on development based on particularly advantageous
 breeding grounds, such as climate, topography, cultural expressions,
@@ -72,20 +73,20 @@ building development and the consequent decimation of biological systems.
 Instead, these activists envision an urban system in which villages and
 towns intersperse with wild as well as managed landscapes, all growing into
 an economic, and physical whole. Included in this vision is a shift from
-the present major sources of income â€“ including rice-fields and a
-devastating mining industry â€“ to diversified agricultural production, I.T.,
+the present major sources of income – including rice-fields and a
+devastating mining industry – to diversified agricultural production, I.T.,
 biotechnology and eco-tourism. Can Goa show the way for the rest of the
 country in a transformation from a rural to an urban economy, thereby
 offering a convincing urban alternative to the mega-cities? Could Goa's
 biological and cultural diversity contribute to a resilient urban complex?
 Would such a hybrid be another way of understanding Urban life? Is the
-Â»forest cityÂ« a distant cousin to the mega-city's urban jungle?
+»forest city« a distant cousin to the mega-city's urban jungle?
 
 With a foundation in the British research institute New Economic Foundation
 and The Happy Planet Index, Resources.10 will discuss Happiness and its
 potential to generate alternative concepts of development. Biodiversity, as
-well as the Indian society's rich simultaneity â€“ in time and space,
-religiously and culturally â€“ will also enrich our analysis. We will learn
+well as the Indian society's rich simultaneity – in time and space,
+religiously and culturally – will also enrich our analysis. We will learn
 from various approaches to the idea of justice and explore how biological
 diversity could contribute to an inclusive development. We will probe the
 attraction of tourism and what relation it has to the social and physical
@@ -114,7 +115,7 @@ ongoing working partnerships with the Stockholm Environment Institute and
 Stockholm Resilience Centre, as well as the department of Biological
 Physics at Chalmers University. With Density Design Lab in Milan we will
 develop our skills in the visualization of urban data. The site-specific
-innovation methodology of FabLab/ TromsÅ‘ will be our kick-off for the year.
+innovation methodology of FabLab/ Tromső will be our kick-off for the year.
 
 Perspectives
 The course is structured in sections each with a specific theme. We will
@@ -142,7 +143,7 @@ lectures and seminars. The common group project will sequentially develop
 in short workshops that follow throughout the course of the year.
 Resources.10 commences week 37, 2010 and concludes week 22, 2011. Winter
 break is between weeks 50 and 3. The fall term will begin with a short
-workshop and study trip tentatively scheduled to TromsÅ‘, Norway and the
+workshop and study trip tentatively scheduled to Tromső, Norway and the
 innovation-hub FabLab. A longer study, research and workshop trip to Goa
 and the west coast of Indian is scheduled for the spring term. The course
 gives 60 academic credits. The cost for study trips and reading materials
@@ -162,7 +163,7 @@ relevant to the subject, as well as describe an idea they wish to develop
 pertinent to the themes presented above. You should be an architect,
 landscape architect, urban or regional planer, designer, engineer, or from
 another discipline such as; photographer, filmmaker, artist, writer,
-journalist or biologist â€“ with a specific interest in architecture and
+journalist or biologist – with a specific interest in architecture and
 urban planning issues. Applicants should have a masters degree or in the
 process of completing their masters thesis. The course can also be attended
 as a lecture series, not participating in the group project, giving 30
@@ -207,7 +208,7 @@ the school often become independent platforms that continue to develop on
 their own.
 
 An increasingly urban world necessitates new perspectives. The three
-programs share an interest in the City, but have different areas of focus â€“
+programs share an interest in the City, but have different areas of focus –
 history and identity, social aspects and future urban possibilities. By
 utilizing methods of research and design we explore the potential of urban
 environments in a rapidly changing world.

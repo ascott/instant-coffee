@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 10
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | RYAN PETER | MAY 25"
 ---
 
@@ -35,8 +36,8 @@ Peter calls "an attempt to recuperate the organic from the artificial."
 
 Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA 
 (2008) from The University of British Columbia. He was a finalist for the 
-11th Annual RBC Canada Painting Competition, exhibited at the MusÃ©e 
-d'art contemporain de MontrÃ©al and at The Power Plant in Toronto. He 
+11th Annual RBC Canada Painting Competition, exhibited at the Musée 
+d'art contemporain de Montréal and at The Power Plant in Toronto. He 
 has participated in recent group exhibitions at Equinox Gallery, 
 Vancouver and the AHVA Library Gallery at UBC. In addition to his 
 painting practice, Peter also works collaboratively with artist Raymond 

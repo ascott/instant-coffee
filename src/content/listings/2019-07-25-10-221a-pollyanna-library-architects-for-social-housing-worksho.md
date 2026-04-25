@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 10
 type: "EDUCATION"
+venue: "221A"
 summary: "221A | Pollyanna 圖書館 Library | Architects for Social Housing Workshops | JUL 26"
 ---
 

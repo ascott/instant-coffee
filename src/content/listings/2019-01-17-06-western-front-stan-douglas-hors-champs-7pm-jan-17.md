@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 6
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Stan Douglas - Hors-champs | 7PM | JAN 17"
 ---
 

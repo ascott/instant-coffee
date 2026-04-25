@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 31
 type: "OPENING"
+venue: "CityScape"
 summary: "CityScape | Anonymous Art Show | 12PM | NOV 23"
 ---
 

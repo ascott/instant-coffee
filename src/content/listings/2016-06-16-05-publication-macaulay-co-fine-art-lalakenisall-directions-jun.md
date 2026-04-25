@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 5
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Macaulay & Co. Fine Art | Lalakenis/All Directions | JUN 18"
 ---
 

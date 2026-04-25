@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 19
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Hippomancy @ Sunset Terrace | DEC 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: love in all its messy, anti-social
 emailDate: "Thu, 12 Feb 2015 14:10:26 -0800"
 number: 7
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | AMOUR FOU | FEB 14"
 ---
 

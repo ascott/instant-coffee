@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 9
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | Kirk Gower | AUG 13"
 ---
 

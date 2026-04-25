@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 14
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | Colleen Heslin | JUN 7"
 ---
 
@@ -21,10 +22,10 @@ Colleen Heslin as an emerging leader in contemporary Canadian art.
 Known for her innovative textile-based methods, Heslin develops
 textures with ink and dye on second-hand fabrics, which upon
 inspection reveal themselves as collage-based, process-formed trompe
-lâ€™oeil. Considering Modern histories of painting and social aspects of
-the medium regarding gender and labor, Heslinâ€™s work engages with
+l’oeil. Considering Modern histories of painting and social aspects of
+the medium regarding gender and labor, Heslin’s work engages with
 material conversations connected through medium crossovers. Heslin
-pushes the limits of painting; itâ€™s definitions, classifications and
+pushes the limits of painting; it’s definitions, classifications and
 hierarchies, disrupting medium-based expectations.
 
 The paintings in Outcasts and Shady Trees follow material traditions
@@ -32,7 +33,7 @@ of re-use in quilt-making, offering a shifted perspective where an
 off-cut edge is cycled into the centre of new work. These central
 abstract forms gesture towards figures in landscapes, pausing on
 poetics of the outcast, questioning what is lost and/or gained through
-perceptual shifts. In a similar fashion of recycling, Heslinâ€™s
+perceptual shifts. In a similar fashion of recycling, Heslin’s
 sculptural work is developed from discarded construction hardware.
 These linear works form sculptural scribbles that play on structural
 material tendencies and aesthetic associations, where piping and rope

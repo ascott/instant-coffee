@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Grosvenor Americas"
 summary: "Grosvenor Americas | Benjamin Lumb - New Life"
 ---
 

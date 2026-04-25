@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 12
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Inside Out, Outside In | JUN 19"
 ---
 
 Satellite Gallery | Inside Out, Outside In: An Afternoon of Creating, Sharing, and 
 Tea. | June 19
 
-Sunday Workshop â€” Inside Out, Outside In: An Afternoon of Creating, Sharing, 
+Sunday Workshop — Inside Out, Outside In: An Afternoon of Creating, Sharing, 
 and Tea.
 
 June 19 | 2-4pm
 
 Join artists Vanessa Black and Neil Chung at Satellite Gallery on Sunday, June 
 19th at 2pm, as they lead you through an exploration of clay, memory, and 
-knowledge set within Peter Morinâ€™s Museum. This program is free of charge, and 
+knowledge set within Peter Morin’s Museum. This program is free of charge, and 
 space is limited. Please RSVP at 604-681-8425 or 
 info@satellitegallery.ca
 
@@ -29,7 +30,7 @@ show her work in exhibitions both in Ottawa and Vancouver, and has been a
 member of a commercial gallery in Ottawa called La Petite Mort. Her work is 
 part of several private and public collections in Ottawa, Vancouver and Toronto.
 
-During Vanessaâ€™s final semester at Emily Carr she developed a body of work 
+During Vanessa’s final semester at Emily Carr she developed a body of work 
 that she continues to build upon and broaden her artistic vocabulary. She 
 currently works to support her practice and has a studio space in the bustling art 
 centre around Main Street in Vancouver.

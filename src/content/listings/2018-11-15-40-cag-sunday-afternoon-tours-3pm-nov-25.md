@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 40
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Sunday Afternoon Tours | 3PM | NOV 25"
 ---
 

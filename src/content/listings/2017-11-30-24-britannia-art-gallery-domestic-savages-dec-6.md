@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 24
 type: "OPENING"
+venue: "BRITANNIA ART GALLERY"
 summary: "BRITANNIA ART GALLERY | DOMESTIC SAVAGES | DEC 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking a turn for the better"
 emailDate: "Thu, 06 May 2010 10:39:18 -0700"
 number: 19
 type: ""
+venue: "Kunstlerhaus Schloss Balmoral"
 summary: "Kunstlerhaus Schloss Balmoral | Call for applications | MAY 31"
 ---
 
@@ -64,10 +65,10 @@ born in, studied in, or live in Rhineland-Palatinate:
 
 - One six-month scholarship for TrAIN, University of the Arts London
 - One six-month scholarship for New York (Flux Factory)
-- Two six-month scholarships for the CitÃ© Internationale des Arts, Paris
+- Two six-month scholarships for the Cité Internationale des Arts, Paris
 - One five-month scholarship for the Kunstlerhaus Schloss Wiepersdorf,
 Brandenburg/Germany
-- One three-month scholarship for the Ecole Nationale SupÃ©rieure d'Art de
+- One three-month scholarship for the Ecole Nationale Supérieure d'Art de
 Dijon, France
 
 The foreign and exchange scholarships are endowed with 1,200 euros per month.

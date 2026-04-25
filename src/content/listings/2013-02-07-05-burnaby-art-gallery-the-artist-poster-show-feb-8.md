@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 5
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | The Artist Poster Show | FEB 8"
 ---
 

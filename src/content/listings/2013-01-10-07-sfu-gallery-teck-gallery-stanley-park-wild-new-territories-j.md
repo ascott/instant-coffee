@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 7
 type: ""
+venue: "SFU GALLERY"
 summary: "SFU GALLERY| TECK GALLERY | STANLEY PARK | WILD NEW TERRITORIES | JAN 12"
 ---
 
@@ -89,7 +90,7 @@ all outdoor works.
 
 778-782-4266 | gallery@sfu.ca | www.sfu.ca/gallery | 
 www.wildnewterritories.com
-SFU Gallery, Burnaby Campus, AQ 3004 | Open Tuesday â€“ Saturday: 12â€“
+SFU Gallery, Burnaby Campus, AQ 3004 | Open Tuesday – Saturday: 12–
 5pm. Closed holiday long weekends.
 SFU Teck Gallery, 515 West Hastings, Vancouver. Open daily during campus 
 hours.

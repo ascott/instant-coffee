@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 12
 type: "TALK"
+venue: "The ACT Art Gallery"
 summary: "The ACT Art Gallery | Dr. Prabhjot Parmar: Coexistence | 2PM | FEB 10"
 ---
 

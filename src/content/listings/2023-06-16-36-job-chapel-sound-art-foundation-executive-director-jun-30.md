@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 36
 type: ""
+venue: "JOB"
 summary: "JOB | Chapel Sound Art Foundation | Executive Director | JUN 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 1
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | Material Explorations | 12-3PM | DEC 28"
 ---
 

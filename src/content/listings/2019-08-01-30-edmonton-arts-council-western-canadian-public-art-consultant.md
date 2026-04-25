@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 30
 type: "CALL"
+venue: "Edmonton Arts Council"
 summary: "Edmonton Arts Council | Western Canadian Public Art Consultants/Curators | AUG 30"
 ---
 

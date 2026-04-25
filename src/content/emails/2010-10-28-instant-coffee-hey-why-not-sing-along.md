@@ -52,8 +52,8 @@ as a starting point, transforming a partly informative presentation on the
 gesture and space. Bronstein uses the subject of Caron, in some ways as a
 decoy to the subject of the 16th century intermezzo, an elaborate form of
 court entertainment often performed between acts of a play or at festivals
-and celebrations. When switching topics, Bronstein pronounces, ï¿½the power
-of the illusion on stage is rendered void.ï¿½ This seems to be true of the
+and celebrations. When switching topics, Bronstein pronounces, �the power
+of the illusion on stage is rendered void.� This seems to be true of the
 lecture on Caron, which, to illustrate the intermezzo, turns into a ballet
 that both disrupts and speaks to the format of the lecture.
 
@@ -73,11 +73,11 @@ rituals and paraphernalia, constructing his own mythologies of the past.
 There is a theatrical element in most of his work as he often casts himself
 as architect or choreographer. This is evident in Intermezzo. Bronstein has
 held recent solo exhibitions such as Pablo Bronstein at the Met, The
-Metropolitan Museum of Art, New York (2009); and Garden Ã  la Mode, a
+Metropolitan Museum of Art, New York (2009); and Garden à la Mode, a
 sculpture court commission for the Tate Britain, London (2010). He has
 participated in group exhibitions including London in Six Easy Steps, ICA,
-London (2005); Characters, Figures and Signs: Choreography as ï¿½Doingï¿½ and
-ï¿½Saying,ï¿½ Tate Modern, London (2009); and the 4th Bucharest Biennale,
+London (2005); Characters, Figures and Signs: Choreography as �Doing� and
+�Saying,� Tate Modern, London (2009); and the 4th Bucharest Biennale,
 Romania (2010). In addition, he has authored several books, including
 Postmodern Architecture in London (2007) and Pablo Bronstein: Ornamental
 Design for the Framing of Doors (2008) published by Koenig Books, London.
@@ -97,7 +97,7 @@ We are grateful for the support of Vancouver Foundation and our members,
 donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 ï¿½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 � 6 pm.
 Admission is by donation.
 
 
@@ -194,7 +194,7 @@ faculty and industry professionals, thus bringing together local and
 international
 researchers and practitioners.
 
-This yearï¿½s e.mixer includes Reliquary, a featured sound performance by
+This year�s e.mixer includes Reliquary, a featured sound performance by
 Philippe
 Pasquier, and a selection of installed projects by Joomi Seo, Zoe
 Tissandier, and
@@ -232,7 +232,7 @@ Boulevard, in Bear Creek Park.
 By SkyTrain take the Expo Line, get off at Surrey Central station, and
 catch the 321
 bus to 88 Avenue.
-By Car directions are available at www.arts.surrey.ca ï¿½ click Surrey Art
+By Car directions are available at www.arts.surrey.ca � click Surrey Art
 Gallery,
 About the Gallery, and Visitor Information.
 
@@ -280,14 +280,14 @@ at MOA from October 29, 2010 through January 23, 2011.
 Man Ray, African Art, and the Modernist Lens brings to light photographs of
 African objects by American artist Man Ray (1890-1976) produced over a
 period of almost twenty years. In addition to providing fresh insight into
-Man Rayï¿½s photographic practice, the exhibition raises questions concerning
+Man Ray�s photographic practice, the exhibition raises questions concerning
 the representation, reception, and perception of African art as mediated by
 the camera lens.
 
 Featured are more than 50 photographs by Man Ray from the 1920s and 1930s
 alongside approximately 50 photographs by his international avant-garde
 contemporaries such as Charles Sheeler, Walker Evans, Alfred Stieglitz, and
-AndrÃ© KertÃ©sz. For the first time, a number of these photographs are
+André Kertész. For the first time, a number of these photographs are
 presented alongside the original African objects they feature. The
 juxtaposition offers a rare opportunity to encounter first-hand how various
 photographic techniques of framing, lighting, camera angle, and cropping
@@ -349,7 +349,7 @@ we're throwing a free multi-room Halloween party on Saturday, Oct 30th.
 The event will showcase the entire complex including our newly renovated
 hotel rooms and lobby, two dining areas, a freshly restored 1950s tiki bar
 and both nightclub and banquet spaces (the Cabaret and the Leeteg Room).
-The night is being produced in collaboration with some of Vancouverï¿½s most
+The night is being produced in collaboration with some of Vancouver�s most
 interesting artists and musicians. Full program listing includes:
 
 Performances by Rodney Graham, Animal Bodies and Joyce Collingwood.
@@ -366,16 +366,16 @@ costumes).
 
 Food Selections by the Cafe and Dining Room at the Waldorf.
 
-Throughout the evening Artist Paul Wong will be presenting ï¿½The Hotelï¿½, a
+Throughout the evening Artist Paul Wong will be presenting �The Hotel�, a
 site-specific experience for the Waldorf Hotel that will blur the
 boundaries of public/private space. Participants will wander the hotel
-hallways and enter ï¿½guest roomsï¿½ at their own discretion.
+hallways and enter �guest rooms� at their own discretion.
 
 The Waldorf Hotel is located at 1489 East Hasting. Entrance to the event is
 free but space is limited. If you have received this email and would like
 to attend, please email us at rsvp@waldorfhotel.com
 facebook twitter
-Â©2010 The Waldorf Hotel | www.waldorfhotel.com | 1489 East Hastings St. |
+©2010 The Waldorf Hotel | www.waldorfhotel.com | 1489 East Hastings St. |
 V5L 1S4
 
 ------------------------------------------------------------------------
@@ -404,14 +404,14 @@ the writer Agatha Christie at an archeological excavation in northeastern
 Syria in the early 1930s, while the others are aerial shots of the same
 area taken by an anonymous photographer 8 to 10 years later. In addition to
 its exhibition in Following A Line, this work has been exhibited in various
-versions at KÃƒÂ¼nstlerhaus Stuttgart (2009); KIOSK, Gent (2010); and
+versions at KÃ¼nstlerhaus Stuttgart (2009); KIOSK, Gent (2010); and
 RaebervonStenglin, Zurich (2010). Selected group exhibitions include
 Triumph of the Will Revisited, International Biennale for Contemporary Art,
 Prague; Cairoscape, Kunstraum Kreuzberg Bethanien, Berlin (2008); On
 Tectonics of History, ISCP, New York (2009); and One Time One Million
 (Migratory Birds/Romantic Capitalism), Uqbar: Society for Representation
 Research, Berlin (2009). Roma Publications have produced several catalogues
-to accompany the artistÃ¢ï¿½ï¿½s recent exhibitions. Kriemann is represented by
+to accompany the artistâ��s recent exhibitions. Kriemann is represented by
 RaebervonStenglin, Zurich and Galerie Wilfried Lentz, Rotterdam.
 
 Following A Line also includes work by Pablo Bronstein, Peter Gazendam,
@@ -444,17 +444,17 @@ In conjunction with the exhibition In Dialogue with Carr, Public Programs
 at the Vancouver Art Gallery is pleased to present a lecture by Bruce
 Braun, After wilderness: waste, resilience and the environmental imagination.
 
-Braun describes: ï¿½As with most artists, interest in Emily Carr has waxed
-and waned. The 1970s and 1980s marked a high point, as Carrï¿½s life and work
+Braun describes: �As with most artists, interest in Emily Carr has waxed
+and waned. The 1970s and 1980s marked a high point, as Carr�s life and work
 captured the attention of feminist and postcolonial scholars, as well as an
 increasingly vocal and influential environmental movement. This talk
 explores ideas of nature and landscape that coincided with rising interest
-in Carrï¿½s work and contrasts them with recent movements in contemporary art
+in Carr�s work and contrasts them with recent movements in contemporary art
 and urban design that figure the relation between natural history and human
-history in very different ways.ï¿½
+history in very different ways.�
 
 Bruce Braun teaches at the University of Minnesota. His books include The
-Intemperate Rainforest: Nature, Culture and Power on Canadaï¿½s West Coast;
+Intemperate Rainforest: Nature, Culture and Power on Canada�s West Coast;
 Remaking Reality: Nature at the Millennium; and Political Matter:
 Technoscience, Democracy and Public Life.
 
@@ -469,13 +469,13 @@ By Donation Tuesday Evenings Sponsored by: Sun Life Financial
 Saturday, November 6th, 2pm
 In the Gallery, 2nd floor
 
-Guest Tour of Song Dongï¿½Waste Not
+Guest Tour of Song Dong�Waste Not
 
 Hsingyuan Tsao
 
-In conjunction with Song Dong ï¿½ Waste Not, Hsingyuan Tsao, professor in art
+In conjunction with Song Dong � Waste Not, Hsingyuan Tsao, professor in art
 history at the University of British Columbia, provides a tour of Song
-Dongï¿½s installation, offering a glimpse into the historical and
+Dong�s installation, offering a glimpse into the historical and
 socio-political contexts behind the objects that comprise the work.
 
 Professor Tsao holds a Ph.D. in Art History from Stanford University. Her
@@ -517,7 +517,7 @@ of each work resembles that of Byzantine iconography but they are presented
 and framed in a modern folk fashion. The juxtaposition of images, styles
 and symbols from various genres and periods creates an unsettling and
 provocative narrative that is anachronistic with its references, yet
-somehow relates to the future. The exhibitionï¿½s title piece depicts an
+somehow relates to the future. The exhibition�s title piece depicts an
 Eve-like 1960s era woman with voluminous mascara eating an apple while
 surrounded by exotic snakes from around the world. This body of work
 moralizes contemporary global issues against those of the past.
@@ -539,24 +539,24 @@ Artist Lyla Rye Sets the Stage for Disaster at the AGGV.
 October 26, 2010 (Victoria B.C.) The Art Gallery of Greater Victoria will
 showcase an experimental Canadian artist with the opening of LAB 10.2: Lyla
 Rye, Erratic Room. In her AGGV debut, Lyla Rye invites visitors to become
-the actors in the artistï¿½s video stage set.
+the actors in the artist�s video stage set.
 
 LAB 10.2: Lyla Rye, Erratic Room runs from November 5, 2010 to January 16,
 2011 at the AGGV. Erratic Room examines how in an earthquake zone, like
 Victoria, our concerns for security and stability extend to a lack of faith
 in the firmness of the ground on which we build.
 
-ï¿½While living in San Francisco, I was introduced to earthquake culture and
+�While living in San Francisco, I was introduced to earthquake culture and
 found myself developing a heightened awareness of the architectural space
-around me and its relative structural strength.ï¿½ Said Rye, ï¿½Although I do
+around me and its relative structural strength.� Said Rye, �Although I do
 not live in an earthquake zone any longer, I am reminded of this mindset by
-the current hyper-security conscious society I live in.ï¿½
+the current hyper-security conscious society I live in.�
 
 Erratic Room consists of video images of various architectural details
 being projected throughout the LAB Gallery in a randomized sequence that
 never appears the same way twice. The installation includes footage of a
 dollhouse, digital animations, fragments of the Buster Keaton films
-Electric House and One Week, shadows and reflections from the artistï¿½s home
+Electric House and One Week, shadows and reflections from the artist�s home
 at night and even amateur disaster footage that has been posted online.
 
 Lyla Rye is an installation artist who lives and works in Toronto. She
@@ -591,32 +591,32 @@ Victoria BC V8S 4L8
 ------------------------------------------------------------------------
 Ewan McNeil: "Peripheral Topographics"
 
-November 5, 2010 ï¿½ February 18, 2011
+November 5, 2010 � February 18, 2011
 SFU Vancouver, 515 West Hastings St.
 
 Opening Reception: Thursday November 4th, 2010, 7 to 9pm
 
-Ewan McNeilï¿½s painting probes the nature of selected southern British
+Ewan McNeil�s painting probes the nature of selected southern British
 Columbia interstitial spaces and structures, each endemically
 characteristic of this region as well as part of the process of
-ï¿½globalisationï¿½. McNeil transforms everyday places and spaces into film
+�globalisation�. McNeil transforms everyday places and spaces into film
 noir settings though his use of monochrome, with the result, as in cinema,
 that this series is not only peripheral, but is also redolent with
-premonitions, where ï¿½something is about to happenï¿½, if it hasnï¿½t already.
+premonitions, where �something is about to happen�, if it hasn�t already.
 
 The disconcerting strangeness of this localized world-view results from a
 complex set of factors working in tandem. The choice of subject, the
 re-imagining of it in black and white, and the weirdness of the everyday
 all contrive to re-educate our eyes in relation to the conventional wisdom
-about ï¿½Beautiful British Columbiaï¿½. The ï¿½best place on earthï¿½ resembles
-here a stage set for a ï¿½strange place on earthï¿½ ï¿½ as if the best is still
-yet to come. In addition, McNeilï¿½s project is part of the global artistic
+about �Beautiful British Columbia�. The �best place on earth� resembles
+here a stage set for a �strange place on earth� � as if the best is still
+yet to come. In addition, McNeil�s project is part of the global artistic
 exploration of the links between painting, photography and cinema, here
-given yet another twist, adding another layer of meaning to the term ï¿½new
-topographicsï¿½.
+given yet another twist, adding another layer of meaning to the term �new
+topographics�.
 
 This exhibition is timed to coincide with the Robert Adams show at the
-Vancouver Art Gallery and the ï¿½Edge of Townï¿½ exhibition at the Equinox
+Vancouver Art Gallery and the �Edge of Town� exhibition at the Equinox
 Gallery (ending on November 13).
 
 Teck Gallery | SFU Vancouver Campus | 515 West Hastings Street, Vancouver, BC
@@ -627,44 +627,44 @@ Teck Gallery | SFU Vancouver Campus | 515 West Hastings Street, Vancouver, BC
 <a href="/instant-coffee/listings/2010-10-28-14-simon-fraser-university-gallery-chris-jordan-nov-6">14. Simon Fraser University Gallery | CHRIS JORDAN | NOV 6</a>
 ------------------------------------------------------------------------
 CHRIS JORDAN
-"Running the Numbers ï¿½ an American self-portrait"
+"Running the Numbers � an American self-portrait"
 
 SFU Gallery, Burnaby Campus
 November 6 to December 17, 2010
 
-Opening Reception: Saturday November 6, 2ï¿½5 pm
+Opening Reception: Saturday November 6, 2�5 pm
 
 Chris Jordan is a Seattle-based photographer who quantifies consumption via
 images that reveal exactly how many products are bought or discarded in a
 given period of time, a minute, an hour, a day or a year. His photograph
 titled Plastic Bottles, for instance, depicts, as stated in its subtitle
-ï¿½two million plastic beverage bottles, the number used in the US every five
-minutes.ï¿½
+�two million plastic beverage bottles, the number used in the US every five
+minutes.�
 
 A brochure with texts by Lucy Lippard and Bill Jeffries is available at the
-exhibition. Copies of Jordanï¿½s book Running the Numbers, an American
+exhibition. Copies of Jordan�s book Running the Numbers, an American
 Self-portrait , published by Prestel, are available for purchase.
 
-Opening Reception: Saturday November 6, 3ï¿½5 pm
+Opening Reception: Saturday November 6, 3�5 pm
 Lunchtime talks on the exhibition: Tuesday and Wednesday, November 9 and
 10, 12:05 and 12:35. Thursday and Friday, 18 and 19, 12:05 and 12:35.
 
 "Running the Numbers" is presented in collaboration with WINSOR GALLERY
 
-FREE PARKING! November 6 only. This email or a printout of the ï¿½CHRIS
-JORDAN: Running the Numbersï¿½ page from our Web site, is your parking pass
+FREE PARKING! November 6 only. This email or a printout of the �CHRIS
+JORDAN: Running the Numbers� page from our Web site, is your parking pass
 in any Visitor Lot at SFU (face up on dashboard or hand to parking attendant).
 
 Simon Fraser University Gallery | Academic Quadrangle 3004 | 778-782-4266 |
 gallery@sfu.ca | sfu.ca/gallery
-SFU Gallery hours: Tuesday to Friday 10am ï¿½ 5pm & Saturday 12 ï¿½ 5pm. Closed
+SFU Gallery hours: Tuesday to Friday 10am � 5pm & Saturday 12 � 5pm. Closed
 Saturday on public holiday weekends
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-10-28-15-the-lions-den-chris-bon-nov-12">15. The Lions Den | Chris Bon | NOV 12</a>
 ------------------------------------------------------------------------
 
-ï¿½Letï¿½s show them yellow light!ï¿½
+�Let�s show them yellow light!�
 
 - Implemented by Chris Boni
 
@@ -677,24 +677,24 @@ uniqueness of 79 East Pender is its flexible un-demarcated locus;
 happenings conclude and arise out of pure individual self-willed deployment).
 
 Simply by reflecting upon ones current relationship to the environment
-that surrounds us, developments in the unyielding potential of ï¿½spaceï¿½ soon
+that surrounds us, developments in the unyielding potential of �space� soon
 begin to propagate, insinuated in the subtleties of fog or mist or carpet
 or every/anything, and enlivened when adapted into areas for contextual
-reflection of further progressive implementation ï¿½ ï¿½To whom, for whom and
-by whom?ï¿½ the art gallery shouts out from a reclined tipping plastic chair
+reflection of further progressive implementation � �To whom, for whom and
+by whom?� the art gallery shouts out from a reclined tipping plastic chair
 whose butt-wavey cast seat seems to be cracking under the abnormal pressure
 of its bearer.
 
 With the meticulous convoluted parameters of an art gallery aside, all
 space initially registers as a means to an end, and it is the living,
 analogical, evolutionary present-day organism of ourselves who are the
-passer-by/invited or curious self initiating ï¿½customer of desire and
-experienceï¿½ that inflict this substantially bold, built matter by merely
-responding to it with questions ï¿½ occasionally attempting to build back
+passer-by/invited or curious self initiating �customer of desire and
+experience� that inflict this substantially bold, built matter by merely
+responding to it with questions � occasionally attempting to build back
 answers.
 
 Make a cognitive scan of a room and see that spaces really do live (of
-course they live ï¿½ we forge our subjectivities upon them!); they exhale
+course they live � we forge our subjectivities upon them!); they exhale
 when their users inhale, and they hermetically conceal the aura from all
 incorporated intentions. This exhibition now has an intention: held for
 one night and two days (Friday the 12th and then the temporally adhered
@@ -703,11 +703,11 @@ light/performative ceremonial tea offerings/discursive orgy on Friday
 night, or grab a flax muffin and head down in the rain, snow, or slush on
 either of your two days off.
 
-ï¿½Letï¿½s show them yellow light!ï¿½
+�Let�s show them yellow light!�
 
 - Implemented by Chris Boni
 
-November 12th 5-11pm ï¿½ November 13th/14th 4-9pm
+November 12th 5-11pm � November 13th/14th 4-9pm
 
 The Lions Den
 
@@ -727,7 +727,7 @@ Nov.15th 7-10pm, 12$
 
 Pecha Kucha Night is a Tri-cities/Vancouver networking, performance and
 speaker series event. Held in over 350 cities worldwide, it is an event
-format that inspires creativeï¿½s from every background and discipline.
+format that inspires creative�s from every background and discipline.
 Pecha Kucha simply means "chit-chat" in Japanese. Devised by Astrid Klein
 and Mark Dytham of Klein Dytham Architecture in Tokyo, Pecha Kucha's very
 specific format is based on a simple idea: 20 images x 20 seconds each.
@@ -768,7 +768,7 @@ how the pieces unfolded. But the work you see is the result of untold hours
 of focused work and countless moments of problem solving: hitting a wall
 and persevering, and often of large financial investment. Of course,
 finished work is what we are striving for but for many artists, the process
-is where the ï¿½artï¿½ actually lies. Everyone else gets just part of the story
+is where the �art� actually lies. Everyone else gets just part of the story
 in the form of the final piece.
 
 As a preview presentation for this yearʼs 14th Annual Eastside Culture

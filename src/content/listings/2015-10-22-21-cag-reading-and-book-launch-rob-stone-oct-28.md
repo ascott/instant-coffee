@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 21
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Reading and Book Launch: Rob Stone | OCT 28"
 ---
 

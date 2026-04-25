@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 7
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Germaine Koh and Gordon Hicks | JAN 22"
 ---
 
@@ -29,8 +30,8 @@ January 22 to March 27
 
 Presented with the Vancouver Biennale
 
-Since Indiaâ€™s economic liberalizations of the early 1990s, the
-countryâ€™s visual landscape and the daily life for many of its citizens
+Since India’s economic liberalizations of the early 1990s, the
+country’s visual landscape and the daily life for many of its citizens
 has been dramatically transformed. Likewise, Indian visual art has
 taken on many new characteristics over the past twenty years as it
 responds to these changes. For those artists based in the
@@ -53,7 +54,7 @@ the world.
 Artists: Ranbir Kaleka, Reena Saini Kallat, TV Santhosh, Sudarshan
 Shetty, artist collective Thukral & Tagra, Hema Upadhyay
 
-Panel Discussion â€“ Conversation on Contemporary Indian Art |
+Panel Discussion – Conversation on Contemporary Indian Art |
 Saturday, March 5, 2-4pm
 
 Surrey Art Gallery
@@ -79,12 +80,12 @@ telepresence, manifested by constant mobile phone and portable
 computer use, relationships between time and space are being
 altered in significant ways. The exhibition There/Here presents a set
 of three artworks related to this contemporary condition. In Koh and
-Hicksâ€™ new work There/Here (2011), multiple doorways link space
+Hicks’ new work There/Here (2011), multiple doorways link space
 and time through the sensation of touch. Using an internet data
 stream, the actions performed on one object are duplicated on the
 other. In this spatial diptych of co-relation the act of entering is
 simultaneously a form of uncanny exiting. Also included in the
-exhibition are Kohâ€™s Call (2006) and Hicksâ€™ loop_02 (2011). Call
+exhibition are Koh’s Call (2006) and Hicks’ loop_02 (2011). Call
 (2006) alters redundant telephone technology to provoke random
 contact and informal discussion with strangers across short
 distances. loop_02 (2011) presents two simultaneous images that
@@ -104,7 +105,7 @@ free admission | refreshments provided
 
 Other related programs for both exhibitions
 
-Curatorâ€™s Tour | Thursday, February 10, 7:30-8:30pm | Surrey Art
+Curator’s Tour | Thursday, February 10, 7:30-8:30pm | Surrey Art
 Gallery
 Join Jordan Strom, Curator of Exhibitions and Collections, Surrey Art
 Gallery for a guided tour of the current exhibitions.

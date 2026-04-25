@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 19
 type: ""
+venue: "Rio Theatre"
 summary: "Rio Theatre | Spaces and Reservations | MAY 20"
 ---
 

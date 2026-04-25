@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 26
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | The Powell Street Festival Society | Spatial Poetics XVI: KIYO | JUL 8"
 ---
 

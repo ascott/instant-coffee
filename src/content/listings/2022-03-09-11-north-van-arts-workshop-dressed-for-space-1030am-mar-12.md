@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 11
 type: "EDUCATION"
+venue: "North Van Arts [WORKSHOP]"
 summary: "North Van Arts [WORKSHOP] | Dressed for Space | 1030AM | MAR 12"
 ---
 

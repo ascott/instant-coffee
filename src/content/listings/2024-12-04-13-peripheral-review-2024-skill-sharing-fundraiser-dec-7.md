@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 13
 type: "FUNDRAISER"
+venue: "Peripheral Review"
 summary: "Peripheral Review | 2024 SKill-Sharing Fundraiser | DEC 7"
 ---
 

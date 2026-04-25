@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 3
 type: "TALK"
+venue: "Or Gallery at SFU Woodward"
 summary: "Or Gallery at SFU Woodward | David Hartt - Artist Talk | MAR 26"
 ---
 
 David Hartt
-Artist Talk at SFU Woodwardâ€™s Thursday, March 26, 7PM
+Artist Talk at SFU Woodward’s Thursday, March 26, 7PM
 Djavad Mowafaghian World Art Centre, Goldcorp Centre for the Arts, 149 W.
 Hastings St.
 
@@ -25,5 +26,5 @@ distils this material into complex and elegant installations.
 
 adrift
 David Hartt
-March 28 â€” May 9, 2015
+March 28 — May 9, 2015
 Or Gallery

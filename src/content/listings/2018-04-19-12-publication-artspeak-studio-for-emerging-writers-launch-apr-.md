@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 12
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Artspeak | Studio for Emerging Writers Launch | APR 24"
 ---
 

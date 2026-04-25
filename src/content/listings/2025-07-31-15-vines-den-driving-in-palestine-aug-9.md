@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "Vines Den"
 summary: "Vines Den | DRIVING IN PALESTINE | AUG 9"
 ---
 

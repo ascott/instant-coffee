@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 34
 type: "EDUCATION"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Tour with Guest Curator Lee Plested | 1PM | JAN 26"
 ---
 

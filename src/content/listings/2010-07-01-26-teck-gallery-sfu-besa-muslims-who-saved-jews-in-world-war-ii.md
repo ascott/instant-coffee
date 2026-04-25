@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 26
 type: ""
+venue: "Teck Gallery, SFU"
 summary: "Teck Gallery, SFU | BESA: Muslims Who Saved Jews in World War II | til | SEP 29"
 ---
 
 BESA: Muslims Who Saved Jews in World War II
-June 24 ï¿½ October 29, 2010
+June 24 � October 29, 2010
 Opening Event: Thursday, June 24, 2010
 
 Teck Gallery, SFU Vancouver Campus
@@ -39,10 +40,10 @@ Besnik Konci, the Albanian Ambassador to Canada
 
 Speakers
 Dr. Zijad Delic, Executive Director, Canadian Islamic
-Congress: ï¿½Jewish-Muslim Relations in Islam and the Balkansï¿½
+Congress: �Jewish-Muslim Relations in Islam and the Balkans�
 Dr. Steven Wasserstrom, Moe and Izetta Tonkon Professor of
-Judaic Studies at Reed College: ï¿½Thoughts on the Rise of the
-Term Abrahamic Religionsï¿½
+Judaic Studies at Reed College: �Thoughts on the Rise of the
+Term Abrahamic Religions�
 
 Followed by a reception in the Teck Gallery c. 8:30pm
 

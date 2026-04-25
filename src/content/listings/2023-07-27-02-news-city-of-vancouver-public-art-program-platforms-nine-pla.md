@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 2
 type: ""
+venue: "NEWS"
 summary: "NEWS | City of Vancouver Public Art Program | Platforms: Nine Places For Seeing"
 ---
 

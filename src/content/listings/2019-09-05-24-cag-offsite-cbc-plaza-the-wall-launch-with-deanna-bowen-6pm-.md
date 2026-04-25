@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 24
 type: "EVENT"
+venue: "CAG (offsite @ CBC Plaza)"
 summary: "CAG (offsite @ CBC Plaza) | The WALL Launch with Deanna Bowen | 6PM | SEP 10"
 ---
 

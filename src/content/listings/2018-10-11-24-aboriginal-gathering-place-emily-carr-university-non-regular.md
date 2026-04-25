@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 24
 type: "EVENT"
+venue: "Aboriginal Gathering Place @ Emily Carr University"
 summary: "Aboriginal Gathering Place @ Emily Carr University | Non-Regular, a book about precarious labour at ECU | OCT 23"
 ---
 

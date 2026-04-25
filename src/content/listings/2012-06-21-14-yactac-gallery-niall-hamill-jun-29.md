@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 14
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Niall Hamill | JUN 29"
 ---
 

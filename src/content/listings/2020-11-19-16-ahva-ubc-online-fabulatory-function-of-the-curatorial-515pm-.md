@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 16
 type: "TALK"
+venue: "AHVA UBC [ONLINE]"
 summary: "AHVA UBC [ONLINE] | Fabulatory Function of the Curatorial | 515PM | NOV 24"
 ---
 

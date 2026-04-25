@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 7
 type: "EVENT"
+venue: "Library at ECU"
 summary: "Library at ECU | On Edge Readings Series: Madeleine Thien | JAN 19"
 ---
 

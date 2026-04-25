@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 6
 type: "OPENING"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | The Facility for Consideration | JAN 15"
 ---
 
@@ -38,7 +39,7 @@ bigger, has become exponentially more complex in the last few decades. The
 implicated range of minute or distant structures and detailed architectures
 to the awareness of the individual is now immense and grows proportionately
 to the availability of information and experience. The networks we
-familiarly navigate have created a Zeno's Paradox Ã¢â‚¬â€œ the vertigo of never
+familiarly navigate have created a Zeno's Paradox â€“ the vertigo of never
 being able to reach the other side of a road which we have always already
 been crossing; the array of measurable points between points multiplies as
 we regard more closely. These include our personal use of the digital, the

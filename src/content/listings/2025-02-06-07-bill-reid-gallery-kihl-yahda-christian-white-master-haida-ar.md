@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | Kihl 'Yahda Christian White: Master Haida Artist | FEB 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 47
 type: "CALL"
+venue: "City of Victoria"
 summary: "City of Victoria | Indigenous Artist in Residence | OCT 4"
 ---
 

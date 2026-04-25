@@ -134,7 +134,7 @@ University of Art + Design, before relocating to Europe in 2007.
 
 Johan Lundh and Monika Szewczyk will discuss currents projects and the "art
 of conversation" as a dynamic form of intellectual exploration. Future
-conversations will feature artist Fia BackstrÃ¶m (New York, US) and a
+conversations will feature artist Fia Backström (New York, US) and a
 discussion about the practice of Kate Craig.
 
 Contemporary Conversations is organized and hosted by independent curator
@@ -173,7 +173,7 @@ represented or facilitated these actions? What and how do moving images
 contribute to these burning conversations?
 
 Panelists: Annette Mangaard [General Idea: Art, AIDS, and the fin de
-siÃ¨cle], Velcrow Ripper [Fierce Light: When Spirit Meets Action], Jeff
+siècle], Velcrow Ripper [Fierce Light: When Spirit Meets Action], Jeff
 Chiba Stearns [Yellow Sticky Notes]
 
 DANA CLAXTON in conversation with MIKE HOOLBOOM
@@ -434,7 +434,7 @@ you to explore and find the answers for:
 Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Where do things begin and end and how would you splice them together?
 - Tiny Cinema
 
-Description of works with artistsÃ¢ï¿½ï¿½ bios at www.vivomediaarts.com
+Description of works with artistsâ�� bios at www.vivomediaarts.com
 <http://www.vivomediaarts.com/>
 The SLAB is a Studio LAB and a community of practice for electronic media
 artists and technology enthusiasts. We foster experimentation and provide
@@ -442,7 +442,7 @@ artists with the means and motivation to develop their art unconstrained by
 new media conventions and assumed ways of using technology. SLAB offers
 workshops and facilitates collaborative projects, providing artists with
 mentorship and technical assistance. The projects conclude in public
-exhibitions and events. SLAB art doesnÃ¢ï¿½ï¿½t attempt to gloss over the rough
+exhibitions and events. SLAB art doesnâ��t attempt to gloss over the rough
 edges of its creation, but instead exposes the processes of its production.
 Blurring the lines between experimentation, creation and public
 presentation, SLAB events are risk-sharing experiences between the artists
@@ -456,7 +456,7 @@ VIVO Media Arts Centre
 1965 Main St Vancouver BC
 www.vivomediaarts.com <http://www.vivomediaarts.com>
 Contact: Dinka Pignon, 604.872.8337, education@vivomediaarts.com
-Ã¯Â¿Â¼
+ï¿¼
 -- 
 vox +1.604.727.1325
 vid skype:furiousgreencloud
@@ -588,16 +588,16 @@ November
 
 1, 2008.
 
-This exhibition marks an exciting transition in EdwardsÃ¢ï¿½ï¿½ work. In his own
+This exhibition marks an exciting transition in Edwardsâ�� work. In his own
 words, he has,
 
-Ã¢ï¿½ï¿½all but abandoned the former Romantic veil through which I looked at my
+â��all but abandoned the former Romantic veil through which I looked at my
 subjects for
 
-a much more practical, straightforward approach.Ã¢ï¿½ï¿½ Working directly from
+a much more practical, straightforward approach.â�� Working directly from
 photographs,
 
-EdwardsÃ¢ï¿½ï¿½ new goal is Ã¢ï¿½ï¿½to retain the feeling of the snapshot in the final
+Edwardsâ�� new goal is â��to retain the feeling of the snapshot in the final
 image. I still work
 
 at stripping away extraneous detail to get to the heart of the subject, but
@@ -606,15 +606,15 @@ have allowed
 myself the luxury of including more information in the new images, thereby
 defining the
 
-spaces in a much more tangible way.Ã¢ï¿½ï¿½
+spaces in a much more tangible way.â��
 
-Urban Development speaks not only of the new direction of EdwardsÃ¢ï¿½ï¿½ process,
+Urban Development speaks not only of the new direction of Edwardsâ�� process,
 but also
 
 to his curiosity of our changing landscapes, or more specifically the
-Ã¢ï¿½ï¿½working landscapeÃ¢ï¿½ï¿½.
+â��working landscapeâ��.
 
-Whereas EdwardsÃ¢ï¿½ï¿½ canvases previously reflected dreamy forests and
+Whereas Edwardsâ�� canvases previously reflected dreamy forests and
 waterfalls, his
 
 panels now capture the realities of farmyards, mills and factories.
@@ -622,7 +622,7 @@ panels now capture the realities of farmyards, mills and factories.
 David Edwards currently lives and works in Vancouver, BC. Urban development
 will be
 
-DavidÃ¢ï¿½ï¿½s first solo exhibition at the Atelier Gallery.
+Davidâ��s first solo exhibition at the Atelier Gallery.
 
 Additional images and interviews available upon request.
 
@@ -743,7 +743,7 @@ www.richmondartgallery.org
 WACK! Weekend
 A conference, a conversation and a tour
 
-Ã¯Â¿Â¼
+ï¿¼
 
 Saturday, October 4 and Sunday, October 5, 2008
 at the Hotel Vancouver, Saturna Island Room
@@ -770,9 +770,9 @@ Full weekend: $60 per person, $48 members and seniors, $30 students
 Saturday OR Sunday: $40 per person $32 members and seniors, $20 students
 
 For tickets contact Group Bookings Office at 604.662.4717
-Ã¯Â¿Â¼
+ï¿¼
 
-Ã¯Â¿Â¼
+ï¿¼
 
 750 Hornby Street Vancouver BC. V6Z 2H7 604.662.4700
 www.vanartgallery.bc.ca
@@ -920,11 +920,11 @@ regarding: the education of curators; the challenges facing
 collection-based curators; trends in curatorial research; and the writing
 of curatorial histories.
 
-Invited guests include FranÃ§ois Aubart, Wayne Baerwaldt, Sabine
+Invited guests include François Aubart, Wayne Baerwaldt, Sabine
 Breitwieser, AA Bronson, Heather Diack, Joseph del Pesco, Rosemary Donegan,
 Sam Durant, Barbara Fischer, Richard Flood, Teresa Gleadowe, Matthew Higgs,
-Candice Hopkins, CÃ©line Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
-CuauhtÃ©moc Medina, Lourdes Morales, and Joanna Mytkowska.
+Candice Hopkins, Céline Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
+Cuauhtémoc Medina, Lourdes Morales, and Joanna Mytkowska.
 
 More information
 

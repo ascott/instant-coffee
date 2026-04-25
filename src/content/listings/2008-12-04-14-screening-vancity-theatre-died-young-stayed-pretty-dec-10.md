@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yes we no"
 emailDate: "Wed, 03 Dec 2008 22:30:06 -0800"
 number: 14
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VANCITY Theatre | DIED YOUNG STAYED PRETTY | DEC 10"
 ---
 
@@ -39,7 +40,7 @@ heard of, but may one day. DIY artists of every stripe, this is your movie.
 nerdiness to track down the evil geniuses responsible for the
 screen-printed, photocopied, hand-doodled, bled-in, spat-in, culture-jammed
 art that is stapled, taped and stuck with chewing-gum onto post boxes, bus
-shelters and telephone poles prÃªt de chez vous." - MELORA KOEPKE, HOUR
+shelters and telephone poles prêt de chez vous." - MELORA KOEPKE, HOUR
 
 "A fascinating look at the rock poster renaissance"- MATT HAYS,
 MIRROR

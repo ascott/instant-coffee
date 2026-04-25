@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 39
 type: "CALL"
+venue: "open, open, open for interplay_2024"
 summary: "open, open, open for interplay_2024 | MAR 15"
 ---
 

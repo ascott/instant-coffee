@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Eadweard Muybridge, Zoopraxographer | APR 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 12
 type: ""
+venue: "VIVO"
 summary: "VIVO | Workshop: CIRCUIT BUILDING | JUL 21"
 ---
 

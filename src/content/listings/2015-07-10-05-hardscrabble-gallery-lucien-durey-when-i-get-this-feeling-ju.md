@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 5
 type: "PERFORMANCE"
+venue: "Hardscrabble Gallery"
 summary: "Hardscrabble Gallery | Lucien Durey - When I Get This Feeling | JUL 12"
 ---
 

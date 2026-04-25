@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 34
 type: ""
+venue: "Yukon Arts Centre Public Art Gallery"
 summary: "Yukon Arts Centre Public Art Gallery | Gallery Arts Administration Intern | AUG 1"
 ---
 
@@ -11,7 +12,7 @@ Gallery Arts Administration Intern
 
 Yukon Arts Centre Public Art Gallery
 
-28 weeks (September 16, 2013 â€“ March 31, 2014)
+28 weeks (September 16, 2013 – March 31, 2014)
 
 Full time - $17.66 / hour (plus $0.72/ hour for health benefits)
 

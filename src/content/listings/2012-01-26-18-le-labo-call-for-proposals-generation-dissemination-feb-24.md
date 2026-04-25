@@ -4,19 +4,20 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 18
 type: ""
+venue: "Le Labo"
 summary: "Le Labo | Call for proposals: Generation Dissemination | FEB 24"
 ---
 
-Call for proposals: Generation Dissemination // Appel Ã  projet: 
-GÃ©nÃ©ration dissÃ©mination
+Call for proposals: Generation Dissemination // Appel à projet: 
+Génération dissémination
 Deadline: Friday February 24, 2012 // Date limite: vendredi, le 24 
-fÃ©vrier 2012
+février 2012
 
-FranÃ§ais Ã  suivre
+Français à suivre
 
 Call for proposals:
 
-It's natural for artists to want to make history â€“ for their work to be 
+It's natural for artists to want to make history – for their work to be 
 known and recorded. It's a very different goal for artists to participate in 
 the recording of history in general. The production of documentation 
 (of art and as art) is a practice that intertwines and dialogues with the 
@@ -63,54 +64,54 @@ original gesture, the process of documentation.)
 
 Please send submissions to: contact@maggieflynn.ca
 
-Appel Ã  projet:
+Appel à projet:
 
-Marquer lâ€™histoire est un souhait naturel des artistes dans un soucis de 
-reconnaissance et dâ€™enregistrement de leur travail. En revanche 
-participer Ã  lâ€™Ã©criture de lâ€™Histoire en gÃ©nÃ©ral est un objectif diffÃ©rent. La 
+Marquer l’histoire est un souhait naturel des artistes dans un soucis de 
+reconnaissance et d’enregistrement de leur travail. En revanche 
+participer à l’écriture de l’Histoire en général est un objectif différent. La 
 production de documentation de l'art, et de documentation comme art, 
 sont des pratiques qui dialoguent et se rapportent au reportage 
-journalistique. Le choix de mÃ©dium et des mÃ©thodes de distribution de 
-la documentation de lâ€™art dÃ©terminent sa trajectoire vers le monde et 
-lâ€™avenir. Le rapport entre la documentation et son sujet est plus 
-compliquÃ© que jamais: une installation est diffusÃ©e par livestream, l'art 
-en ligne laisse sa trace numÃ©rique, les activitÃ©s quotidiennes sont 
-documentÃ©es comme une performance vidÃ©o. Comment est-ce que les 
-mÃ©thodes de documentation et distribution de l'art pourraient affecter 
-l'Ã©crit de l'histoire marquÃ©e dâ€™aujourdâ€™hui? Comment est-ce que 
-lâ€™histoire dâ€™aujourdâ€™hui sera lue demain?
+journalistique. Le choix de médium et des méthodes de distribution de 
+la documentation de l’art déterminent sa trajectoire vers le monde et 
+l’avenir. Le rapport entre la documentation et son sujet est plus 
+compliqué que jamais: une installation est diffusée par livestream, l'art 
+en ligne laisse sa trace numérique, les activités quotidiennes sont 
+documentées comme une performance vidéo. Comment est-ce que les 
+méthodes de documentation et distribution de l'art pourraient affecter 
+l'écrit de l'histoire marquée d’aujourd’hui? Comment est-ce que 
+l’histoire d’aujourd’hui sera lue demain?
 
-Nous cherchons des propositions d'artistes utilisant les mÃ©diums (mais 
-pas seulement) tel la vidÃ©o, le film, l'art interactif, l'art en ligne, la 
+Nous cherchons des propositions d'artistes utilisant les médiums (mais 
+pas seulement) tel la vidéo, le film, l'art interactif, l'art en ligne, la 
 performance et/ou l'installation. Nous demandons aux artistes de 
-proposer une Å“uvre Ã  plusieurs niveaux incluant un geste Â« original Â», 
-et la documentation de ou par ce geste. Le lieu dâ€™exÃ©cution du geste 
-original importe peu, celui-ci peut Ãªtre exÃ©cutÃ© hors de lâ€™espace de 
-crÃ©ation du labo (ex: une installation Ã  site spÃ©cifique, une performance 
-privÃ©e, un endroit gÃ©ographique Ã©loignÃ©) ; ils doivent toutefois Ãªtre 
-exÃ©cutÃ©s durant le temps dâ€™exposition. La documentation de ce geste 
-sera produite par lâ€™artiste montÃ©e dans la galerie avant le terme de 
-lâ€™exposition. Les projets proposÃ©s doivent considÃ©rer le format de 
-l'exposition. L'usage de la documentation devrait Ãªtre un aspect central 
-du travail. Pour plus dâ€™information, vous pouvez vous adresser au 
-contact indiquÃ© ci-dessous.
+proposer une œuvre à plusieurs niveaux incluant un geste « original », 
+et la documentation de ou par ce geste. Le lieu d’exécution du geste 
+original importe peu, celui-ci peut être exécuté hors de l’espace de 
+création du labo (ex: une installation à site spécifique, une performance 
+privée, un endroit géographique éloigné) ; ils doivent toutefois être 
+exécutés durant le temps d’exposition. La documentation de ce geste 
+sera produite par l’artiste montée dans la galerie avant le terme de 
+l’exposition. Les projets proposés doivent considérer le format de 
+l'exposition. L'usage de la documentation devrait être un aspect central 
+du travail. Pour plus d’information, vous pouvez vous adresser au 
+contact indiqué ci-dessous.
 
-L'exposition est commissionnÃ©e par Maggie Flynn pour le programme 
+L'exposition est commissionnée par Maggie Flynn pour le programme 
 de mentorat de Le Labo, sous la tutelle d'Alissa Firth-Eagland. Le Labo 
 (www.lelabo.ca) a pour mission de produire et diffuser des projets 
-francophones en arts mÃ©diatiques et pratiques interdisciplinaires. Ce 
+francophones en arts médiatiques et pratiques interdisciplinaires. Ce 
 projet acceptera des propositions d'artistes francophones et non-
 francophones. L'exposition se tiendra en avril 2012. Les frais d'artistes 
-et les coÃ»ts raisonnables de transport seront payÃ©s.
+et les coûts raisonnables de transport seront payés.
 
 Les propositions doivent inclure:
 - CV
-- Une Ã©noncÃ© artistique (1 paragraphe)
-- Une description du projet proposÃ© (1 page maximum â€“ incluez 
-lâ€™information technique, des matÃ©riaux. DÃ©crivez lâ€™endroit et contexte du 
+- Une énoncé artistique (1 paragraphe)
+- Une description du projet proposé (1 page maximum – incluez 
+l’information technique, des matériaux. Décrivez l’endroit et contexte du 
 geste original et le processus de la documentation)
-- MatÃ©riel d'appui (5 -10 images, liens, ou jusqu'Ã  10 minutes d'oeuvres 
-vidÃ©o/audio)
-- Liste de matÃ©riel d'appui (contexte, durÃ©e, date)
+- Matériel d'appui (5 -10 images, liens, ou jusqu'à 10 minutes d'oeuvres 
+vidéo/audio)
+- Liste de matériel d'appui (contexte, durée, date)
 
-SVP envoyez votre candidature Ã  : contact@maggieflynn.ca
+SVP envoyez votre candidature à : contact@maggieflynn.ca

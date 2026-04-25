@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 21
 type: "EXHIBITION"
+venue: "Portal Pop Up Gallery"
 summary: "Portal Pop Up Gallery | Sena Cleave + Cherry Archer | JAN 21"
 ---
 

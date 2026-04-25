@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 4
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Wishing on My Falsies | 5PM | JAN 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 35
 type: ""
+venue: "The Gathering Place Gallery"
 summary: "The Gathering Place Gallery | Contact exhibition | MAR 20"
 ---
 

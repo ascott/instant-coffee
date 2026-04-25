@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 15
 type: "TALK"
+venue: "Artspeak"
 summary: "Artspeak | SENSING SALON | Elemental Panel | DEC 3"
 ---
 

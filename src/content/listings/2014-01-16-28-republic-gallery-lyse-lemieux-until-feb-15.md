@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 28
 type: ""
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | LYSE LEMIEUX | until | FEB 15"
 ---
 
@@ -43,7 +44,7 @@ Lyse Lemieux has lived and worked in Vancouver since graduating from the
 University of British Columbia's Fine Arts department in 1976. Over the past 
 30 years she has exhibited her work in public and private galleries in both 
 Canada and Europe. In April 2013, we were proud to represent Lyse's work 
-(alongside that of Gwenessa Lam and Ryan Peter) at MontrÃ©al's Papier, a 
+(alongside that of Gwenessa Lam and Ryan Peter) at Montréal's Papier, a 
 contemporary art fair of works on paper. This is Lyse's second solo 
 exhibition at Republic Gallery, following New Work which was shown in the 
 fall of 2012.
@@ -58,7 +59,7 @@ Canadian and international artists. The gallery's roster includes artists
 working in installation, video, sculpture, photography, mixed media, and 
 contemporary painting. A number of our artists work internationally, including 
 recent residencies and exhibitions in Spain, Denmark, Germany, France, and 
-the United States. Republic Gallery recently took part in Papier 13 in MontrÃ©al.
+the United States. Republic Gallery recently took part in Papier 13 in Montréal.
 
 --
 

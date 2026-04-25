@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 16
 type: ""
+venue: "Belkin Art Gallery,"
 summary: "Belkin Art Gallery, | ACTION - CAMERA plus | til | APR 19"
 ---
 
@@ -29,8 +30,8 @@ of their live performance work. By the late 1990s, performance became a
 more clearly defined practice, and for many artists the photograph
 functioned not only as a document, but also as a work of art in itself. As
 a further development, many performances were specifically created for the
-camera rather than a live audienceÃ¢ï¿½ï¿½the viewerÃ¢ï¿½ï¿½s access to the
-Ã¢ï¿½ï¿½performanceÃ¢ï¿½ï¿½
+camera rather than a live audienceâ��the viewerâ��s access to the
+â��performanceâ��
 was exclusively through the photograph. The shift from live performance to
 staged photograph and the reasons behind it are a central anchor to this
 exhibition.
@@ -62,8 +63,8 @@ weariness or lack of interest that can result from information overload.
 Lorna Brown is a Vancouver-based artist, writer, and curator. She has
 exhibited her work internationally since 1984 and has taught at Emily Carr
 University of Art and Design and at Simon Fraser University. Brown was the
-curator for "Group Search: art in the library," a series of artistsÃ¢ï¿½ï¿½
-projects at the Vancouver Public Library (2006Ã¢ï¿½ï¿½08) and is currently
+curator for "Group Search: art in the library," a series of artistsâ��
+projects at the Vancouver Public Library (2006â��08) and is currently
 developing the Centre for Art in Public Spaces at Langara College. She
 received the Vancouver Institute for the Visual Arts Award (1996) and the
 Canada Council Paris Studio Award (2000).

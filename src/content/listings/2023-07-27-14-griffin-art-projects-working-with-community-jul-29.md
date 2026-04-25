@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 14
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Working with Community | JUL 29"
 ---
 

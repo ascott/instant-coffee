@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 28
 type: "CALL"
+venue: "Public Access x Tangled Art + Disability"
 summary: "Public Access x Tangled Art + Disability | PostScript | JUL 30"
 ---
 

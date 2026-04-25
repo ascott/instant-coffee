@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 7
 type: "OPENING"
+venue: "Nikkei Museum"
 summary: "Nikkei Museum | Umami: Savouring Artistic Nikkei Identity | 6PM | MAY 29"
 ---
 

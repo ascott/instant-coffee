@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: and that is it"
 emailDate: "Thu, 02 Jul 2015 11:25:48 -0700"
 number: 8
 type: "CALL"
+venue: "Pinnacle International"
 summary: "Pinnacle International | Call for Artists - Capstan Village Park | JUL 15"
 ---
 

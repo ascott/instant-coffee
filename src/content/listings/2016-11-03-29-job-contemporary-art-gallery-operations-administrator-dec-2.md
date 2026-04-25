@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 29
 type: ""
+venue: "JOB"
 summary: "JOB | Contemporary Art Gallery | Operations administrator | DEC 2"
 ---
 

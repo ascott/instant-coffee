@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 37
 type: ""
+venue: "JOB"
 summary: "JOB | National Gallery of Canada | Art Handler/Truck Driver | OCT 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 6
 type: ""
+venue: "BLIM ART SHOW AND RESIDENCY"
 summary: "BLIM ART SHOW AND RESIDENCY | Deirdre McAdams | FEB 5"
 ---
 

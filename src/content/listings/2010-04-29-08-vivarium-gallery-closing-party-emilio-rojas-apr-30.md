@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 8
 type: ""
+venue: "Vivarium Gallery"
 summary: "Vivarium Gallery | Closing party | Emilio Rojas | APR 30"
 ---
 

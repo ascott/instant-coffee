@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 42
 type: "CALL"
+venue: "Vancouver Public Library"
 summary: "Vancouver Public Library | Community Digital Art Project | MAR 29"
 ---
 

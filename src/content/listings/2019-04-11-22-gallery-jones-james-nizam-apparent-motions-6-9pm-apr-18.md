@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 22
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | James Nizam - Apparent Motions | 6-9PM | APR 18"
 ---
 

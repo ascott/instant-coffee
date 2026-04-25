@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "Combo Club"
 summary: "Combo Club | Combo Club Art show #1 | MAY 9"
 ---
 

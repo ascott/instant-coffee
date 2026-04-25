@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 28
 type: "EXHIBITION"
+venue: "VAG"
 summary: "VAG | Victor Vasarely, Op Art in Vancouver... | OCT 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 14
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Bestway Studio (21 E. Pender) | Cathy Busby, I WONDER book launch | 630PM | AUG 5"
 ---
 

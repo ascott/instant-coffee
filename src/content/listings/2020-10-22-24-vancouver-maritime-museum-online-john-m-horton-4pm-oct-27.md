@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 24
 type: "TALK"
+venue: "Vancouver Maritime Museum [ONLINE]"
 summary: "Vancouver Maritime Museum [ONLINE] | John M. Horton | 4PM | OCT 27"
 ---
 

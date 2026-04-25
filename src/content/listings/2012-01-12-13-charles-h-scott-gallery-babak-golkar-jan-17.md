@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 13
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Babak Golkar | JAN 17"
 ---
 
@@ -16,7 +17,7 @@ Opening Tuesday, January 17, 7:30 pm
 Charles H. Scott Gallery
 
 The Charles H. Scott Gallery is pleased to present Grounds for Standing and 
-Understanding, a solo exhibition by Vancouver artist Babak Golkar. Golkarâ€™s 
+Understanding, a solo exhibition by Vancouver artist Babak Golkar. Golkar’s 
 site-specific installation is made up of two major components that work together 
 to investigate complex relationships between perception, space, architecture 
 and culture.
@@ -25,7 +26,7 @@ Using Persian carpets as a foundation, Golkar literally â€œdraws upâ€  de
 elements from the intricate patterns and transforms them into three-dimensional 
 scale models that resemble architectural mega-towers. Buildings recently 
 constructed in the Middle East, and elsewhere, such as the Burj Khalifa in Dubai 
-(the worldâ€™s tallest building) may come to mind. These architectural miniatures 
+(the world’s tallest building) may come to mind. These architectural miniatures 
 play off the representations of space found in the traditional iconography of the 
 carpets, which would reference specific geographies in their patterning.
 

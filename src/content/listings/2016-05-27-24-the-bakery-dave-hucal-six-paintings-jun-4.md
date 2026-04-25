@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 24
 type: "OPENING"
+venue: "The Bakery"
 summary: "The Bakery | Dave Hucal - Six Paintings | JUN 4"
 ---
 

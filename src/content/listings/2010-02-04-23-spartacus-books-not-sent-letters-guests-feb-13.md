@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 23
 type: ""
+venue: "SPARTACUS BOOKS"
 summary: "SPARTACUS BOOKS | Not Sent Letters & Guests | FEB 13"
 ---
 
@@ -29,7 +30,7 @@ and has exhibited her work internationally. Her video, Hero of Our Time, is
 currently on tour through Canada in a group exhibition titled Diabolique
 that explores various responses to, and representations of, war and
 violence. For her contribution to Not Sent Letters & Guests, Matilda will
-try to extract nuance and novelty from that most clichÃ©d and ubiquitous
+try to extract nuance and novelty from that most clichéd and ubiquitous
 image: the Hollywood celebrity promo shot.
 
 MARGARET DRAGU is an interdisciplinary artist with a multi-personae disorder.

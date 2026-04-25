@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | X- Files: The Truth is Here | FEB 16"
 ---
 

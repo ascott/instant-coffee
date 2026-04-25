@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 7
 type: "OPENING"
+venue: "South Main Gallery"
 summary: "South Main Gallery | AMAN AHEER: Are You My Mother? | 3PM | AUG 4"
 ---
 

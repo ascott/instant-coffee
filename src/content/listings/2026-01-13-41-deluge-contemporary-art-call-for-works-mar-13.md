@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 41
 type: "CALL"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | CALL FOR WORKS | MAR 13"
 ---
 

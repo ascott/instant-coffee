@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 9
 type: ""
+venue: "Powell Street Festival Society and Blim"
 summary: "Powell Street Festival Society and Blim | KAORI KASAI: URA MONCHAN | MAR 4"
 ---
 

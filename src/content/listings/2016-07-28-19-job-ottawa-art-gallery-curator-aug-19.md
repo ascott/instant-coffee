@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 19
 type: ""
+venue: "JOB"
 summary: "JOB | Ottawa Art Gallery | Curator | AUG 19"
 ---
 

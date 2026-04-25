@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 13
 type: ""
+venue: "CINEWORKS"
 summary: "CINEWORKS | Job Posting: Programs Manager + Curator | FEB 6"
 ---
 

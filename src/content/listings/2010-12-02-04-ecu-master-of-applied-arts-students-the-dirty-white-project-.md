@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 4
 type: ""
+venue: "ECU: Master of Applied Arts students"
 summary: "ECU: Master of Applied Arts students | The Dirty White Project | DEC 3"
 ---
 

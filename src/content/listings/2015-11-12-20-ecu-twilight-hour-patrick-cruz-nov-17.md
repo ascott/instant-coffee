@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 20
 type: "TALK"
+venue: "ECU Twilight Hour"
 summary: "ECU Twilight Hour | Patrick Cruz | NOV 17"
 ---
 
@@ -14,7 +15,7 @@ Patrick Cruz is a Filipino-Canadian artist born in Manila, Philippines.
 Cruz is currently living and working in Guelph, Ontario where he is
 pursuing his Masters in Fine Arts at the University of Guelph. He studied
 Painting at the University of the Philippines and received his Bachelor of
-Fine Arts from Emily Carr University of Art + Design in 2010. Cruzâ€™s work
+Fine Arts from Emily Carr University of Art + Design in 2010. Cruz’s work
 adopts aesthetic strategies from folk sensibilities such as ornamentation,
 decoration and patterning as a means of decolonizing the destabilizing
 force of modernity and its effects on marginalized cultures.

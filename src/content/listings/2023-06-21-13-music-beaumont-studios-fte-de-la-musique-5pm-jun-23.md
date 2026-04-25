@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 13
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Beaumont Studios | Fête de la Musique | 5PM | JUN 23"
 ---
 

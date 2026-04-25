@@ -65,13 +65,13 @@ Free
 
 This event is presented
 in partnership with
-SFU Woodwardâ€™s
+SFU Woodward’s
 Cultural programs.
 
-American Leg is Josephine Meckseperâ€™s first exhibition in Canada; 
+American Leg is Josephine Meckseper’s first exhibition in Canada; 
 eight new sculptures presented in the gallery's street-front vitrines. 
 Originally intended for retail, these window spaces provide an ideal site 
-for Meckseperâ€™s work uniting modernism with the formal language of 
+for Meckseper’s work uniting modernism with the formal language of 
 commercial display. Combinations of mass-produced objects and 
 artifacts of recent historical and political events offer a critique of 
 capitalist economy and lay bare some of its contradictions.
@@ -86,14 +86,14 @@ consideration of the everyday as a form of aesthetic and political
 resistance to the mainstream.
 
 This over-arching theme also speaks to a more specific local past. 
-References to Vancouverâ€™s 
+References to Vancouver’s 
 indigenous origins are reflected in a number of sculptures loosely 
 reminiscent of the vertical forms of the North West Coast totem-pole. 
 With these associations, Meckseper pays homage to an exchange 
-system all but eradicated â€“ that of bartering and gift trade within large 
+system all but eradicated – that of bartering and gift trade within large 
 communities.
 
-The exhibition is generously supported by the Institut fÃ¼r 
+The exhibition is generously supported by the Institut für 
 Auslandsbeziehungen e.V.
 
 Image: Josephine Meckseper, American Leg, (2010). Courtesy Andrea 
@@ -123,14 +123,14 @@ the dream state of the whole past existing in simultaneous disarray."
 LUC SANTE, LOW LIFE AND EVIDENCE
 
 Following DIM's presentation of his feature-length Benjamin Smoke in 
-March, â€œNew York" highlights Jem Cohenâ€™s 20-year practice of 
+March, “New York" highlights Jem Cohen’s 20-year practice of 
 picturing New York City. Cohen constructs his city portraits as a 
 witness and collector, compiling film reels and audio recordings that 
 develop into compositions over time.
 Cohen focuses his camera on the liminal spaces of the city and the 
 people who live and work on the margins. His endurance process 
 developed in tandem with his astuteness to the ebb and flow of life 
-passing through capital. In Lost Book Found Cohen reflects, â€œI became 
+passing through capital. In Lost Book Found Cohen reflects, “I became 
 invisible, and then I began to see things that had once been invisible to 
 me.â€ 
 
@@ -169,13 +169,13 @@ __________________
 ------------------------------------------------------------------------
 Please join us for:
 Yo-in 余韻 Reverberation
-May 19 â€“ August 25, 2012
+May 19 – August 25, 2012
 Nikkei National Museum, Burnaby, BC
 Opening reception Thursday, May 24th - 7-9pm
 
-Nobuo Kubota â€¢ Cindy Mochizuki â€¢ Kazuo Nakamura
-Emma Nishimura â€¢ Louise Noguchi â€¢ Jon Sasaki
-Aiko Suzuki â€¢ Shizuye Takashima
+Nobuo Kubota • Cindy Mochizuki • Kazuo Nakamura
+Emma Nishimura • Louise Noguchi • Jon Sasaki
+Aiko Suzuki • Shizuye Takashima
 
 An exhibit in honour of the 70th Anniversary of Japanese Canadian 
 Internment
@@ -241,7 +241,7 @@ and the District of North Vancouver through the Arts Office, Metro
 Vancouver and the Yosef Wosk Foundation.
 
 Satellite Gallery is made possible through the generous support of the 
-Michael Oâ€™Brian Family Foundation. 
+Michael O’Brian Family Foundation. 
 
 Presentation House Gallery
 333 Chesterfield Avenue, North Vancouver, BC V7M 3G9
@@ -272,12 +272,12 @@ South America, and her eventual return to the north.
 
 With her remarkable debut collection, Here Is Where We Disembark, 
 Yukon poet Clea Roberts proffers a perceptive & ecological reading of 
-the Canadian Northâ€™s past and present.
+the Canadian North’s past and present.
 
 Roberts deftly draws out the moments that comprise a cycle of 
-seasons, paying as much attention to the naturalâ€”the winter moonâ€™s 
+seasons, paying as much attention to the natural—the winter moon’s 
 second-hand light that pools in the tracks of tree squirrels & loose 
-threads of migrating birdsâ€”as she does to the manufacturedâ€”the 
+threads of migrating birds—as she does to the manufactured—the 
 peripheral percussion of J-brakes & half-melted ice lanterns. She also 
 casts her gaze back to the Klondike Gold Rush of 1897-1898, raising 
 the voices of those marked by a frenetic race for fortune: a seductive, 
@@ -285,8 +285,8 @@ edgy wolf, a disillusioned photographer, and a pragmatic prostitute,
 among others.
 
 Claire Tacon's debut novel is the 2010 winner of the Metcalf-Rooke 
-Award. In the Field, follows Ellie Lucan. Sheâ€™s got a doctorate in soil 
-science, her husbandâ€™s a prominent academic, and their children are 
+Award. In the Field, follows Ellie Lucan. She’s got a doctorate in soil 
+science, her husband’s a prominent academic, and their children are 
 excelling at the local Montessori school.
 
 When she loses her teaching job, however, she packs up her two sons 
@@ -294,7 +294,7 @@ to spend the summer in her hometown with her mother. She finds her
 mother suffering from dementia and the house in squalor, and she is 
 forced to confront small town prejudice towards her biracial sons. As 
 Ellie is drawn back into the community and finds herself at the mercy of 
-an old lover, sheâ€™s forced to decide where her loyalties lie.
+an old lover, she’s forced to decide where her loyalties lie.
 
 Admission is free and refreshments are served. Books will be available 
 for purchase and signing. UBC Bookstore/Library at Robson Square is 
@@ -361,7 +361,7 @@ Screening Process
 
 By Keith Weiss
 
-Opening: 8 â€“ 11 PM, Friday May 25
+Opening: 8 – 11 PM, Friday May 25
 
 The main focus of these silkscreen editions was to develop an 
 understanding of the tools and materials which I utilize to create the 
@@ -401,7 +401,7 @@ created a space of quiet contemplation. Initially embarking on different
 paths with unique intentions, the end results arrive in a similar 
 atmospheric space. Whether the work strives to invoke empathy in the 
 viewer through representations of identity, politics, or in its formal 
-attributes, ultimately itâ€™s a journey one takes slowly and individually.
+attributes, ultimately it’s a journey one takes slowly and individually.
 
 ---
 Scott Lewis
@@ -424,7 +424,7 @@ To purchase: http://www.brownpapertickets.com/event/246101
 
 Rennie Collection is pleased to present, for ONE NIGHT ONLY, an 
 evening of cinema on May 25, 2012 by Italian artist Francesco Vezzoli. 
-This event, which runs from 7-9pm, is the first exhibition of Vezzoliâ€™s 
+This event, which runs from 7-9pm, is the first exhibition of Vezzoli’s 
 work in Vancouver, with all proceeds from ticket and drink sales to 
 benefit UNIT/PITT Projects.
 
@@ -462,7 +462,7 @@ Angeles (2009); Moderna Museet, Stockholm (2009-2010); Kunsthalle
 Wien (2009); and the Garage Center for Contemporary Culture, 
 Moscow (2010). His works have also been included in several biennials 
 including the 2006 Whitney Biennial, the 49th and 51st Venice 
-Biennials, the 26th SÃ£o Paulo Biennial; and the 6th International 
+Biennials, the 26th São Paulo Biennial; and the 6th International 
 Istanbul Biennial.
 
 UNIT/PITT Projects (formerly the Helen Pitt Gallery) is a non-profit 
@@ -480,7 +480,7 @@ works related to identity, social injustice, appropriation, painting and
 photography. Bob Rennie has garnered an international reputation as 
 a dedicated collector, amassing one of the largest collections of 
 contemporary art in Canada. In 2009, renovations were completed on 
-the oldest building in Vancouverâ€™s Chinatown to display the collection to 
+the oldest building in Vancouver’s Chinatown to display the collection to 
 the public. Rennie Collection at Wing Sang holds two exhibitions a year 
 with supporting catalogues and events.
 
@@ -517,8 +517,8 @@ Peter calls "an attempt to recuperate the organic from the artificial."
 
 Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA 
 (2008) from The University of British Columbia. He was a finalist for the 
-11th Annual RBC Canada Painting Competition, exhibited at the MusÃ©e 
-d'art contemporain de MontrÃ©al and at The Power Plant in Toronto. He 
+11th Annual RBC Canada Painting Competition, exhibited at the Musée 
+d'art contemporain de Montréal and at The Power Plant in Toronto. He 
 has participated in recent group exhibitions at Equinox Gallery, 
 Vancouver and the AHVA Library Gallery at UBC. In addition to his 
 painting practice, Peter also works collaboratively with artist Raymond 
@@ -543,11 +543,11 @@ Contemporary Art Gallery and Or Gallery
 
 CURATORIAL-TALK
 
-Dr. Gregor Jansen, Thomas Thiel, Christina VÃ©gh and Hilke Wagner 
+Dr. Gregor Jansen, Thomas Thiel, Christina Végh and Hilke Wagner 
 
 Saturday, May 26, 6PM
 Co-presented by the Or Gallery, the Contemporary Art Gallery, the 
-Canadian Embassy in Berlin and SFUâ€™s Vancity Office of Community 
+Canadian Embassy in Berlin and SFU’s Vancity Office of Community 
 Engagement
 
 World Art Centre (Room 2555)
@@ -555,16 +555,16 @@ Goldcorp Centre for the Arts
 149 West Hastings St.
 
 Please join us for three introductory presentations by German curators 
-Dr. Gregor Jansen, Thomas Thiel, Christina VÃ©gh and Hilke Wagner, 
+Dr. Gregor Jansen, Thomas Thiel, Christina Végh and Hilke Wagner, 
 each of whom are participating in a research trip across Canada 
 organized by the Canadian Embassy Berlin and the Canada Council 
 for the Arts.
 
 Dr. Gregor Jansen
 Dr. Gregor Jansen assumed his duties as director of the Kunsthalle 
-DÃ¼sseldorf in January 2010. He studied history of art and architecture, 
+Düsseldorf in January 2010. He studied history of art and architecture, 
 philosophy, sociology, and political science at the RWTH Aachen and 
-completed his doctorate in 1998 on the subject â€œEugen SchÃ¶nebeck. A 
+completed his doctorate in 1998 on the subject “Eugen Schönebeck. A 
 German Legend.â€  
 He subsequently worked as curator, art critic, and free-lance author, 
 and lectured in image science and media theory at a number of 
@@ -572,7 +572,7 @@ universities in Germany and the Netherlands.
 From 2005 to the end of 2009, Gregor Janson headed the ZKM | 
 Museum of Contemporary Art in Karlsruhe, where the exhibitions he 
 curated included â€œLight Art from Artificial Lightâ€  (with Peter Weibel), 
-â€œtotalstadt.beijing case. Cultural Aspects of the High-Speed 
+“totalstadt.beijing case. Cultural Aspects of the High-Speed 
 Urbanization in China,â€  â€œMichael Kunze,â€  and â€œVertrautes Terrain. 
 Contemporary Art in & on Germanyâ€  (with Thomas Thiel).
 
@@ -590,32 +590,32 @@ Beside he organized group shows such as â€œMore than a T-Shirtâ€ , â€�
 the event of suspicionâ€  (with Wiebke Gronemeyer), â€œFrom A to B, from 
 B to Pâ€  or â€œBeyond Gestaltungâ€ . Thiel also invented the ongoing video 
 exhibition platform â€œSubjective Projectionsâ€  that is presented in the 
-exhibition spaces as well as on the Kunstvereinâ€™s website. Thomas 
-Thielâ€™s program for the Bielefelder Kunstverein got already two national 
+exhibition spaces as well as on the Kunstverein’s website. Thomas 
+Thiel’s program for the Bielefelder Kunstverein got already two national 
 awards: â€œJump â€“ Grants to Art Associationsâ€  (2009) by Arts Foundation 
-of North-Rhine-Westphalia (Kunststiftung NRW) and an â€œHonorable 
+of North-Rhine-Westphalia (Kunststiftung NRW) and an “Honorable 
 Mentionâ€  in the frame of ADKV-ART COLOGNE Prize for Kunstvereine 
 (2010).
 
 www.bielefelder-kunstverein.de/
 
-Christina VÃ©gh
-Christina VÃ©gh, born in 1970 in Zurich, has been the director of the 
+Christina Végh
+Christina Végh, born in 1970 in Zurich, has been the director of the 
 Bonner Kunstverein since 2005.
-VÃ©gh studied art history, ethnology and philosophy in Zurich und Santa 
+Végh studied art history, ethnology and philosophy in Zurich und Santa 
 Cruz (California), completing her degree with a dissertation on the art 
 of Jorge Pardo. She subsequently worked as a curator at the 
 Kunsthalle Basel from 2000 to 2004, where she latterly held the post of 
 interim director. Reflecting her strong interest in space/architecture and 
-cultural anthropology, VÃ©ghâ€™s curatorial practice is characterized by 
+cultural anthropology, Végh’s curatorial practice is characterized by 
 giving a regional focus to an internationally oriented programme. 
 Having taken up the position of director at the Bonner Kunstverein in 
-2005, VÃ©gh successfully repositioned the associationâ€™s programme, for 
+2005, Végh successfully repositioned the association’s programme, for 
 which it received the Sparda-Bank West award in 2008. The 
 refurbishment of the Bonner Kunstverein building under her direction 
 also gained official recognition in the form of a BDA Nordrhein-
-Westfalen award in 2010. In addition to showing individual artistsâ€™ work, 
-VÃ©gh regularly organizes thematic exhibitions that address socially 
+Westfalen award in 2010. In addition to showing individual artists’ work, 
+Végh regularly organizes thematic exhibitions that address socially 
 related issues. The inclusion of presentations by more established 
 artists provides important historical reference points, as with John 
 Baldessariâ€™s 2007 exhibition â€œMusicâ€ , while the possibilities of an 
@@ -623,7 +623,7 @@ exhibition dispositif are explored through unusual exhibition formats
 such as â€œTotalschadenâ€  (2006, developed with Gregor Schneider) and 
 artistic collaborations (among others, between Mathias Poledna and 
 Christopher Williams in 2009). Besides developing the concept for the 
-Bonner Kunstvereinâ€™s exhibition programme, VÃ©gh quickly made a 
+Bonner Kunstverein’s exhibition programme, Végh quickly made a 
 name for herself by establishing an experimental art education 
 programme for children and young people. Entitled â€œKunst-StÃ¼ckâ€ , it 
 received an award from the state of North Rhine-Westphalia in 2009 in 
@@ -638,13 +638,13 @@ Romance Philology in Kassel, Valencia and Madrid.
 shows Peter Doig, Thomas Hirschhorn, Sarah Morris, Chris Ofili, 
 Santiago Sierra, Barbara Kruger etc.)
 2006-2007 Director of Situation Kunst, part of the art collections of the 
-Ruhr-UniversitÃ¤t Bochum.
+Ruhr-Universität Bochum.
 Since 2007: Director of the Kunstverein Braunschweig (curated solo 
 shows with Armin Boehm, Christoph Keller, Tue Greenfort, Marine 
 Hugonnier, Rosa Barba, Peter Piller, Ariel Schlesinger, Marcel Dzama, 
 Carlos Garaicoa etc.), 
-Since 2011: teaches curatorial praxis at the Hochschule fÃ¼r Bildende 
-KÃ¼nste, Braunschweig
+Since 2011: teaches curatorial praxis at the Hochschule für Bildende 
+Künste, Braunschweig
 
 Publications: http://www.hbk-bs.de/hochschule/personen/hilke-
 wagner/autor-und-herausgeberschaften/index.php
@@ -675,7 +675,7 @@ As part of a larger public-art project, SHOW ME HOW aims to create a
 'knowledge gallery' where participants can donate a skill through 
 drawing. 'Knowledge' for this project is defined as any set of 
 instructions: it could be the special way you scramble eggs, plant your 
-tulip bulbs, or celebrate a special holidayâ€“ anything that other people 
+tulip bulbs, or celebrate a special holiday– anything that other people 
 may benefit from.
 
 SHOW ME HOW is a free drawing event. All materials are provided. 
@@ -691,7 +691,7 @@ http://masters.ecuad.ca/iegallery/
 ------------------------------------------------------------------------
 Facing the Animal 
 Mary Anne Barkhouse, Julie Andreyev, Bill Burns
-May 26 â€” June 29, 2012
+May 26 — June 29, 2012
 Opening Friday, May 25, 8PM 
 Curated by Tarah Hogue
 Artist Talk and Book Signing with Bill Burns: June 7th, 7pm
@@ -705,14 +705,14 @@ media of sculpture, photography, video and installation, we are asked
 to question the categories we use to shape our sense of the world in 
 works that are both irreverent and intimate.
 
-Vancouver-based artist Julie Andreyevâ€™s Animal Lover series is an 
+Vancouver-based artist Julie Andreyev’s Animal Lover series is an 
 â€œinterspecies collaborationâ€  with her two dogs, Tom and Sugi, that 
 includes video works and an online blog). A newly compiled video 
 collection from the blog follows the daily lives of Tom and Sugi, a 
-portrait of the dogsâ€™ unique behaviours and social lives. In the 2009 
+portrait of the dogs’ unique behaviours and social lives. In the 2009 
 video installation, Aria, Tom and Sugi are pictured as the central 
 subjects within the iconic Canadian landscape of Banff, Alberta. 
-Recordings taken from the dogsâ€™ vocalizations and their surrounding 
+Recordings taken from the dogs’ vocalizations and their surrounding 
 environment are composed into a musical soundtrack culminating in an 
 â€œoperatic soloâ€  by Tom.
 
@@ -720,14 +720,14 @@ Mary Anne Barkhouse was born in Vancouver, BC, and belongs to the
 Nimpkish band, Kwakiutl First Nation. Currently based in Ontario, 
 Barkhouse uses animal imagery in ways that examine popular 
 perceptions of them and challenge divisions between scientific and 
-alternate forms of knowledge. In Barkhouseâ€™s most recent work, Red 
+alternate forms of knowledge. In Barkhouse’s most recent work, Red 
 Rover, wooden pull-toys in the shape of coyotes, wolves and poodles 
-face off on playmats configured into a map of Canadaâ€™s west coast, 
+face off on playmats configured into a map of Canada’s west coast, 
 suggestive of contradictions between the treatment of indigenous 
 species and the consumer pet industry.
 
-Toronto-based artist Bill Burnsâ€™ Dogs, Boats and Airplanes series 
-includes a photographic collection from the artistâ€™s travels as well as a 
+Toronto-based artist Bill Burns’ Dogs, Boats and Airplanes series 
+includes a photographic collection from the artist’s travels as well as a 
 collection of salt and pepper shakers of dogs, boats and airplanes. In 
 its glaring absurdity, the work draws attention to the way in which dogs 
 act as double agents that are at home in both urban and natural 
@@ -805,10 +805,10 @@ place in Canadian film history with his seminal road movie HIGHWAY
 inspiring a generation to pick up a camera and shoot. In 2012, four
 teams of emerging Vancouver-based filmmakers were given a chance 
 to
-reconsider the genre of road movies through Cineworkâ€™s first ever
+reconsider the genre of road movies through Cinework’s first ever
 short film contest. The result: four new short films inspired by
 dialogue from HIGHWAY 61 plus a rare 35mm print screening of
-MacDonaldâ€™s film. Celebrations continue with an opportunity to meet
+MacDonald’s film. Celebrations continue with an opportunity to meet
 the contest-winning filmmakers at the after-party.
 
 ADMISSION:
@@ -856,7 +856,7 @@ venues; Jaimie Kendal-Ward on how sex trade workers in the
 Downtown Eastside are portrayed in mainstream media; and Ray Hsu 
 on his new experimental poetry project, the Future is Laser Tag.
 
-Night School will take place at the Rhizome CafÃ©, Thursday May 31st 
+Night School will take place at the Rhizome Café, Thursday May 31st 
 at 7pm. It is by donation but no one will be turned away. Delicious food 
 and drinks will also be available.
 
@@ -875,8 +875,8 @@ ANIMATION ANIMATION
 
 An evening of animated short films from the past 125 years:
 
-Jan Å vankmajer
-DuÅ¡an Vukot
+Jan Švankmajer
+Dušan Vukot
 Ub Iwerks
 Len Lye
 John Whitney
@@ -884,7 +884,7 @@ Hans Richter
 Norman Maclaren
 ++ many more!
 
-99Â¢ admission
+99¢ admission
 
 Thursday, May 31st
 9:00pm till Late
@@ -993,7 +993,7 @@ Saturday June 9, 2012
 Think you can't draw? Think again.
 
 Vancouver Draw Down is an annual, daylong celebration of drawing 
-that challenges every single Vancouveriteâ€”young and oldâ€”to dispel 
+that challenges every single Vancouverite—young and old—to dispel 
 their preconceptions about drawing, touch a pen to a piece of paper, 
 and make a mark. If you can write your name, you can draw!
 
@@ -1057,7 +1057,7 @@ MacKenzie. FREE
 
 Micro/Macro Drawing Lab at The Roundhouse - 11am-4pm
 The Roundhouse, 181 Roundhouse Mews, Vancouver
-Step inside Radix Theatreâ€™s Micro/Macro Drawing Lab to magnify 
+Step inside Radix Theatre’s Micro/Macro Drawing Lab to magnify 
 worlds within worlds as you transform the tiny into the enormous. 
 FREE
 
@@ -1069,7 +1069,7 @@ Damara Jacobs-Morris. FREE with museum admission ($14.50-
 $16.75)
 
 Community Portraits and More at ArtStarts - 12pm-4pm
-ArtStarts Gallery â€“ 808 Richards Street, Vancouver
+ArtStarts Gallery – 808 Richards Street, Vancouver
 Get "drawn in" to a collaborative window mural, participate in a still life 
 drawing activity with a twist, or doodle on the sidewalk chalk art mural. 
 FREE
@@ -1140,7 +1140,7 @@ Instructions (5 minute drawings for people with less experience and/or
 time).
 3. DRAW
 Use whatever drawing tools you like, except when otherwise noted in 
-the instructions. Don't worry about making mistakesâ€”be creative and 
+the instructions. Don't worry about making mistakes—be creative and 
 have fun! We ask that you not use rulers or erasers for any of your 
 drawings, and that you stick to the time limits. Daily drawings should be 
 no larger than 8.5X11.
@@ -1163,12 +1163,12 @@ expressing thoughts. It's a problem- solving tool, a brainstorming
 mechanism, a way to visualize outcomes and a means of creative 
 exchange. It's also a powerful communication device that transcends 
 barriers of language and literacy. The more you draw, the more detail 
-you see in your everyday lifeâ€”shadow, colour, shape, reflection, 
+you see in your everyday life—shadow, colour, shape, reflection, 
 texture.
 It's time to spark the right side of your brain and connect with the 
 innovative and imaginative recesses of your mind. This is about 
-process and pleasure, not about technical skill. That's why everyoneâ€”
-including YOUâ€”can participate!
+process and pleasure, not about technical skill. That's why everyone—
+including YOU—can participate!
 
 Media Contact: Kara Gibbs | vandrawdown@gmail.com | 604.644.6985 
 | www.vancouverdrawdown.com
@@ -1217,13 +1217,13 @@ ideas lend themselves best to short screenplay (and which do not), as
 well as an examination of the means of writing a short screenplay
 designed to give the filmmaker the optimum chance of producing a 
 truly
-compelling â€˜calling card.â€™ A number of successful short films will be
+compelling ‘calling card.’ A number of successful short films will be
 screened during the workshop, some locally produced, some
 international in their origins, with a continued emphasis upon the
 story characteristics and genres which lend themselves well to
 successful execution in short form. Attendees are asked to bring along
 one 50-word idea for a short script, which will be work shopped during
-this session. Copies of Ric Beairstoâ€™s THE TYRANNY OF STORY: 
+this session. Copies of Ric Beairsto’s THE TYRANNY OF STORY: 
 Audience
 Expectations and the Short Screenplay will be available for sale to
 workshop attendees at a discounted rate.
@@ -1244,7 +1244,7 @@ to avoid waiting lists and cancellations.
 
 Cineworks gratefully acknowledges the support of our membership,
 volunteers, sponsors and the ongoing financial assistance of our
-funders-â€“the Canada Council for the Arts, the British Columbia Arts
+funders-–the Canada Council for the Arts, the British Columbia Arts
 Council and the City of Vancouver. www.cineworks.ca
 
 
@@ -1259,7 +1259,7 @@ Serial Formats and Repetitive Actions
 May 12 to September 3, 2012
 
 Collection Vancouver Art Gallery, Gift of Alison and Alan Schwartz 
-Drawn from the Galleryâ€™s permanent collection, this exhibition features 
+Drawn from the Gallery’s permanent collection, this exhibition features 
 artists who utilize repetitive actions or serial images to open up 
 perception both figuratively and literally. From the mechanistic 
 repetition inherent in much domestic work and industrial labour, to the 
@@ -1289,9 +1289,9 @@ transport truck.
 
 The successful candidate will possess the following qualities:
 
-â€¢
-â€¢
-â€¢
+•
+•
+•
 
 Detail oriented and conscientious
 Excellent interpersonal and communication skills
@@ -1299,7 +1299,7 @@ Customer service oriented
 
 Requirements:
 
-â€¢
+•
 
 Must be able to work flexible hours and be away from home for
 approximately three weeks of every month
@@ -1307,41 +1307,41 @@ approximately three weeks of every month
 Ability to safely operate a 5-ton straight frame truck in city and highway
 environments
 
-â€¢
+•
 
 Valid Class 5 BC drivers license or equivalent
 
-â€¢
+•
 
-â€¢
+•
 
 Clean drivers abstract
 
-â€¢
+•
 
 Good physical health (position involves some heavy lifting)
 
 Must be bondable
 
-â€¢
+•
 
 Experience in handling and packaging artwork in a variety of media
 
-â€¢
+•
 
 Ability to commit to the position by written contract for a one year term
 
-â€¢
+•
 
 Assets:
 
 Provide RCMP or provincial police background check
 
-â€¢
+•
 
 Computer literacy
 
-â€¢
+•
 
 Job Description
 
@@ -1352,20 +1352,20 @@ will require unpacking for delivery. Careful handling and consideration is
 essential at all times. You will be responsible for communications with clients
 and the office in Vancouver.
 
-â€¢
+•
 
 Hourly pay rate plus meal and accommodation allowance
 
 Medical and dental benefits after three months
 
-â€¢
+•
 
 ------------------------------------------------------------------------
 25. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-05-23-01-contemporary-art-gallery-josephine-meckseper-talk-may-23-ope">1.
 STUDIO SUBLET | </a>
-I'm looking for one person to sublet my artistsâ€™ studio at 2414 Main Street 
+I'm looking for one person to sublet my artists’ studio at 2414 Main Street 
 (above Pulp Fiction). You'd be sharing the space with a lovely artist, Barb 
 Choit, who works between NYC and Vancouver as a photographer. 
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 19
 type: "EVENT"
+venue: "Lot 19, 855 West Hastings"
 summary: "Lot 19, 855 West Hastings | Art Downtown 2023 | JUN 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 15
 type: "EVENT"
+venue: "Gallery 881"
 summary: "Gallery 881 | SLIDENIGHT VANCOUVER | 7PM | SEP 28"
 ---
 

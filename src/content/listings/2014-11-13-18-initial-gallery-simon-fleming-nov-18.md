@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 18
 type: "OPENING"
+venue: "initial gallery"
 summary: "initial gallery | simon fleming | NOV 18"
 ---
 

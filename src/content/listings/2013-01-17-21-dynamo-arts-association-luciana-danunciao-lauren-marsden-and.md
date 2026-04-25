@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 21
 type: ""
-summary: "Dynamo Arts Association | Luciana D'AnunciaÃ§Ã£o, Lauren Marsden and Liz Knox | JAN 24"
+venue: "Dynamo Arts Association"
+summary: "Dynamo Arts Association | Luciana D'Anunciação, Lauren Marsden and Liz Knox | JAN 24"
 ---
 
-â€œLIGHT SPHERES ARE LUMINESCENT
+“LIGHT SPHERES ARE LUMINESCENT
 
 BUT NUTRITION QUALIFIES WITHIN MAGNIFIED SOUNDS THAT VIBRATE 
 PITCH & HOLLOW WEIGHT
@@ -26,12 +27,12 @@ SATELLITES CHANGE REPTILIAN PATTERNS
 LUMINOUS STORMS NAVIGATE BY PASSIVE STEALTH SINCE THE 
 BIRTH OF EDENâ€ 
 
-Featuring performances by Luciana D'AnunciaÃ§Ã£o, Lauren Marsden and Liz 
+Featuring performances by Luciana D'Anunciação, Lauren Marsden and Liz 
 Knox
 
 Proudly sponsored by FUTURE PROOF
 
-Opening reception January 24, 2013 8pm â€“ 11pm
+Opening reception January 24, 2013 8pm – 11pm
 
 Dynamo Arts Association 
 

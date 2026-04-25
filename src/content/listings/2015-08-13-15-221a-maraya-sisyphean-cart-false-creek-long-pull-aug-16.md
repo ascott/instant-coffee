@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 15
 type: "EVENT"
+venue: "221A"
 summary: "221A | Maraya: Sisyphean Cart False Creek Long Pull | AUG 16"
 ---
 
@@ -14,8 +15,8 @@ part of the International Symposium on Electronic Art (ISEA) 2015.
 Maraya: Sisyphean Cart is an exhibition and performance work by 
 Vancouver-based media artists M. Simon Levin and Henry Tsang and 
 cultural theorist/writer Glen Lowry. Maraya: Sisyphean Cart is a mobile 
-â€˜sousveillanceâ€™ cart that conducts a site-specific participatory spatial 
-investigation of Vancouverâ€™s False Creek and the Dubai Marina. The 
+‘sousveillance’ cart that conducts a site-specific participatory spatial 
+investigation of Vancouver’s False Creek and the Dubai Marina. The 
 project premiered at the 20th ISEA in Dubai in November 2014, and 
 completes its second leg for ISEA 2015 in Vancouver. Read more 
 about the project.

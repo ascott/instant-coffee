@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 14
 type: ""
+venue: "Audain Gallery SFU Woodward's"
 summary: "Audain Gallery SFU Woodward's | Mapping the Everyday | NOV 16"
 ---
 

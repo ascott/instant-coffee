@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Instant Coffee: (Caffeine Instanti
 emailDate: "Thu, 28 Feb 2008 09:50:33 -0800"
 number: 16
 type: ""
+venue: "Fast Forward Media Showcase"
 summary: "Fast Forward Media Showcase | Call: independent filmmakers'"
 ---
 

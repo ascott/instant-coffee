@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "181 Roundhouse Mews"
 summary: "181 Roundhouse Mews | All Bodies Everywhere | 3PM | DEC 6"
 ---
 

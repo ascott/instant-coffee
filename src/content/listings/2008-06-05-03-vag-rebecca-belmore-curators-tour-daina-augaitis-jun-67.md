@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thirty three and a third % brighte
 emailDate: "Thu, 05 Jun 2008 08:20:36 -0700"
 number: 3
 type: ""
+venue: "VAG"
 summary: "VAG | Rebecca Belmore / Curator’s Tour: Daina Augaitis | JUN 6/7"
 ---
 

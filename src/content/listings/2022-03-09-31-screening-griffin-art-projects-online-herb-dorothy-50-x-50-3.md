@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 31
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Griffin Art Projects [ONLINE] | Herb & Dorothy 50 x 50 | 3PM | MAR 20"
 ---
 

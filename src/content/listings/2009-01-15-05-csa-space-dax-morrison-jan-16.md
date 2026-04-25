@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 5
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | DAX MORRISON | JAN 16"
 ---
 

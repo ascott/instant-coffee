@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 9
 type: "EVENT"
+venue: "GAM Gallery"
 summary: "GAM Gallery | Abegael Jackson: One | AUG 29"
 ---
 

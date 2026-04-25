@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 26
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Tour of Looking at Persepolis | 1PM | NOV 3"
 ---
 

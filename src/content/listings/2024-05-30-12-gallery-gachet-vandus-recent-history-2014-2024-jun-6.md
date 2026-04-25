@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 12
 type: "TALK"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | VANDU's Recent History, 2014-2024 | JUN 6"
 ---
 

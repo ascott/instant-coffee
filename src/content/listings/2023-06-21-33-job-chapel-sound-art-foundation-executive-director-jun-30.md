@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 33
 type: ""
+venue: "JOB"
 summary: "JOB | Chapel Sound Art Foundation | Executive Director | JUN 30"
 ---
 

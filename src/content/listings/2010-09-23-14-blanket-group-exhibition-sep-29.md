@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 14
 type: ""
+venue: "BLANKET"
 summary: "BLANKET | Group exhibition | SEP 29"
 ---
 
@@ -39,7 +40,7 @@ Vancouver. His work has appeared in galleries and institutions in Canada,
 the United States and abroad, including Franko Nuero Gallery, Turin;
 Marianne Boesky, New York; Office Baroque, Antwerp; the Vancouver Art
 Gallery (for which, in 2005/2006, he produced the remarkable BASE/MACHINE, a
-light installation in the gallery faÃƒÆ’Ã‚Â§ade); Centre d'art Contemporain,
+light installation in the gallery faÃƒÂ§ade); Centre d'art Contemporain,
 Montreal; The Contemporary Art Gallery, Vancouver; Andrea Rosen Gallery, New
 York, and Art and Public, Geneva. Known for his often enormous renderings of
 simplified geometric shapes featuring circles, rings and parabolas in
@@ -71,10 +72,10 @@ at the University of Toronto and scheduled to be at the VAG in 2011. Kleyn
 lives and works in Vancouver.
 
 Born in Poitiers (France), Sylvain Sailly first studied comics and new media
-in the cole SupÃƒÆ’Ã‚Â©rieure de l'Image in AngoulÃƒÆ’Ã‚Âªme. He subsequently attended
+in the cole SupÃƒÂ©rieure de l'Image in AngoulÃƒÂªme. He subsequently attended
 classes at the Academy of fine art in Milan and at the cole Nationale
-SupÃƒÆ’Ã‚Â©rieure d'Arts of Paris-Cergy. His animations, drawings and installations
-have been shown in la GÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©rale, Paris, Today Art Museum, Beijing, the
+SupÃƒÂ©rieure d'Arts of Paris-Cergy. His animations, drawings and installations
+have been shown in la GÃƒÂ©nÃƒÂ©rale, Paris, Today Art Museum, Beijing, the
 Jakarta Biennale XIII, the Apartment, VIVO Media Arts Centre and Every
 Letter In The Alphabet, Vancouver. Sailly is a French artist based in
 Vancouver.

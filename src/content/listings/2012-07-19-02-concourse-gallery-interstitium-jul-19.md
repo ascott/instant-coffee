@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 2
 type: ""
+venue: "Concourse Gallery"
 summary: "Concourse Gallery | Interstitium | JUL 19"
 ---
 
@@ -15,11 +16,11 @@ Granville Island
 Interstitium
 Translating systems, spaces and media.
 
-Luigi Allemano, Judith McNaughton, Minttumaari MÃ¤ntynen, Joanna Smythe and
+Luigi Allemano, Judith McNaughton, Minttumaari Mäntynen, Joanna Smythe and
 Andres Wanner
 
 In distinct approaches, Luigi Allemano, Judith McNaughton, Minttumaari
-MÃ¤ntynen, Joanna Smythe and Andres Wanner showcase works that interrogate
+Mäntynen, Joanna Smythe and Andres Wanner showcase works that interrogate
 notions of transformation and hybridity.
 
 Exhibition themes operate around the notion that our perception of the world is

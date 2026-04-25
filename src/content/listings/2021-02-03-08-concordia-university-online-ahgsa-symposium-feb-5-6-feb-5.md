@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 8
 type: "TALK"
+venue: "Concordia University [ONLINE]"
 summary: "Concordia University [ONLINE] | AHGSA Symposium | FEB 5 & 6 | FEB 5"
 ---
 

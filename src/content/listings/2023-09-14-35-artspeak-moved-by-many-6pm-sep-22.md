@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 35
 type: "FUNDRAISER"
+venue: "Artspeak"
 summary: "Artspeak | Moved by Many! 6PM | SEP 22"
 ---
 

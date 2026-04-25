@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 14
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | James Welling and Meric Algun Ringborg | NOV 14"
 ---
 
@@ -58,7 +59,7 @@ fire/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival Ã¢â‚¬â€œ
+1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival. www.capturephotofest.com. Artist present. Opening
@@ -95,7 +96,7 @@ notionally composing mini-narratives and realized in a way that seems to
 incorporate different voices and characters, including that of the artist. As
 such the work evolves out of the dictionary akin to a fragmentary novel or
 short story, a series of episodes branching out into a loose meta-narrative
-concerning writing as a creative act as implied through the use of this Ëœfound
+concerning writing as a creative act as implied through the use of this ˜found
 language.
 Vancouver, a city renowned internationally for the significance of its visual arts
 that conceptually re-pictures space and assigns meaning of the global in the
@@ -111,7 +112,7 @@ http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival Ã¢â‚¬â€œ
+1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival, www.capturephotofest.com. Opening reception
@@ -135,7 +136,7 @@ Tuesday, December 3, 7pm
 Erdem Taşdelen is a multidisciplinary artist who lives and works in Vancouver
 and currently teaches in the Critical and Cultural Studies Department at Emily
 Carr University of Art + Design.
-4) Free Guided Visits Ã¢â‚¬â€œ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
+4) Free Guided Visits â€“ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
 14, Dec 15, Jan 5 and Jan 11. All tours start at 3pm. Contemporary Art
 Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications
@@ -162,9 +163,9 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W:
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues Ã¢â‚¬â€œ Sun: 12- 6 pm. FREE ADMISSION
+Hours: Tues â€“ Sun: 12- 6 pm. FREE ADMISSION
 IMAGE: James Welling, Gelatin Photograph 51 (1984), inkjet print mounted to
-metal, 20 Ãƒâ€” 16 inches. Courtesy the artist and David Zwirner Gallery, New
+metal, 20 Ã— 16 inches. Courtesy the artist and David Zwirner Gallery, New
 York / London.
 ENDS
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 8
 type: ""
+venue: "Western Front"
 summary: "Western Front | Talk: Will Holder | Jun 14 | Performance | JUN 15"
 ---
 
@@ -30,7 +31,7 @@ Public events include:
 Thursday June 14th: "An Evening with Robert Ashley" a talk by Will 
 Holder, 8 pm
 
-Friday, June 15th: Performance of Robert Ashleyâ€™s â€œThe 
+Friday, June 15th: Performance of Robert Ashley’s “The 
 Entranceâ€ (1966)
 by Julia Feyrer & Will Holder 8 pm
 
@@ -42,7 +43,7 @@ exhibitions@front.bc.ca
 
 Co-presented by Fillip.
 
-Future iterations of Scrivenerâ€™s monthly will include a public talk by
+Future iterations of Scrivener’s monthly will include a public talk by
 Aaron Flint Jameson, co-presented by Artspeak, and readings and
 screenings by Chris Kraus, co-presented by Emily Carr University of
 Art and Design and Dim Cinema.

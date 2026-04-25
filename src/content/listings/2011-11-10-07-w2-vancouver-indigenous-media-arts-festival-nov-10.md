@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 7
 type: ""
+venue: "W2"
 summary: "W2 | Vancouver Indigenous Media Arts Festival | NOV 10"
 ---
 

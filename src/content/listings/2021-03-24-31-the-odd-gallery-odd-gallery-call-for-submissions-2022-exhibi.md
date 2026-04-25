@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 31
 type: "CALL"
+venue: "The ODD Gallery"
 summary: "The ODD Gallery | ODD Gallery Call for Submissions: 2022 Exhibitions | APR 15"
 ---
 

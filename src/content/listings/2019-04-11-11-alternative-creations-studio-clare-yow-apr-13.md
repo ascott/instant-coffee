@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 11
 type: "OPENING"
+venue: "Alternative Creations Studio"
 summary: "Alternative Creations Studio | Clare Yow | APR 13"
 ---
 

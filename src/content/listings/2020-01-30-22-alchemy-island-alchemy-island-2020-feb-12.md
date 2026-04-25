@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 22
 type: "CALL"
+venue: "Alchemy Island"
 summary: "Alchemy Island | Alchemy Island 2020 | FEB 12"
 ---
 

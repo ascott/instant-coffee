@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 37
 type: "EVENT"
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | Raven by 3 Crows Productions | 1PM | FEB 17"
 ---
 

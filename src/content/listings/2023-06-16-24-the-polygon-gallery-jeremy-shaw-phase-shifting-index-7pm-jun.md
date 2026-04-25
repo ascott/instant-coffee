@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 24
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Jeremy Shaw: Phase Shifting Index | 7PM | JUN 22"
 ---
 

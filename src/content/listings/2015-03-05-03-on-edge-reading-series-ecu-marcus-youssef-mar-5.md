@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 3
 type: "TALK"
+venue: "On Edge Reading Series, ECU"
 summary: "On Edge Reading Series, ECU | Marcus Youssef | MAR 5"
 ---
 

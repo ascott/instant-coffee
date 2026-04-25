@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Deluge Contemporary Art (Victoria)"
 summary: "Deluge Contemporary Art (Victoria) | Jennet Thomas | JUN 6"
 ---
 

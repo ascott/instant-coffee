@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 20
 type: ""
+venue: "Projects Class 2010"
 summary: "Projects Class 2010 | Call for Proposals | JUN 18"
 ---
 

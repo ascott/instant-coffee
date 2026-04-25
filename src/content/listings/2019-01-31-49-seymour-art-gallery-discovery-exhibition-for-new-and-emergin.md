@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 49
 type: "CALL"
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | Discovery Exhibition for New and Emerging Artists | APR 30"
 ---
 

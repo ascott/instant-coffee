@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 35
 type: "CALL"
+venue: "Yukon Arts Centre"
 summary: "Yukon Arts Centre | Chilkoot Trail Artist Residency Program | FEB 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 41
 type: "EVENT"
+venue: "Lipont Art Centre"
 summary: "Lipont Art Centre | Converge - art, literature, music and videogames | MAR 18"
 ---
 

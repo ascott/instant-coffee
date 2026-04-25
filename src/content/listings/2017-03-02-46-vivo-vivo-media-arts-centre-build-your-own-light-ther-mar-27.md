@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 46
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | VIVO Media Arts Centre | Build Your Own Light-Ther | MAR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 9
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | PAC : Photos of the Year | 6-8PM | APR 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 28
 type: ""
+venue: "JOB"
 summary: "JOB | White Rabbit Open Air Arts Projects | Staff Call - Extended Deadline | MAY 10"
 ---
 

@@ -4,19 +4,20 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 14
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | PRINT RESEARCH RESIDENCY | JUL 30"
 ---
 
 PRINT RESEARCH RESIDENCY
 The Print Research Residency is aimed at introducing a Vancouver
 artist to one or more printmaking techniques. Artists with little to
-no experience in printmaking will receive access to MalaspinaÂ’s
+no experience in printmaking will receive access to Malaspinas
 workshops along with technical support from Malaspina staff as they
 learn lithography, intaglio, and or relief.
 
 Working with the artist, Malaspina will help the artist realize a
 project in one print medium. The residency is 6 months in length,
-during which time the artist will have free access to MalaspinaÂ’s
+during which time the artist will have free access to Malaspinas
 workshops and courses, as well as some technical support from
 Malaspina staff. The prime objective of the residency is to introduce
 printmaking to an artist and supply them with a new means of making
@@ -29,36 +30,36 @@ in this residency, the artist must be committed to dedicating regular
 (weekly) time periods in the studio.
 
 Specifics:
-Â• the residency will run for 6 months beginning either September 2009
+ the residency will run for 6 months beginning either September 2009
 or January 2010, depending upon printing method the artist will be
 working with.
-Â• a residency fee of $1500 will be paid to the artist in three
+ a residency fee of $1500 will be paid to the artist in three
 installments: $500 at the commencement of the residency, $500 mid-way,
 and the final $500 upon completion of the residency.
-Â• artists will receive a credit of $200 towards supplies available
+ artists will receive a credit of $200 towards supplies available
 through Malaspina.
-Â• artists will receive access to all facilities and equipment in
-MalaspinaÂ’s studio
-Â• all residency artists need to observe MalaspinaÂ’s studio policies,
+ artists will receive access to all facilities and equipment in
+Malaspinas studio
+ all residency artists need to observe Malaspinas studio policies,
 guidelines, and etiquette
 
 Selection:
 
-Â• A panel of arts professionals will select the successful artist
-based on the artistic merit, clarity of application, and the artistÂ’s
+ A panel of arts professionals will select the successful artist
+based on the artistic merit, clarity of application, and the artists
 ability to commit to the project.
 
 Submission:
-Â• postmark deadline: July 30, 2009
-Â• CV
-Â• Letter of Intent
-Â• numbered image list
-Â• 10-20 images of previous work (using Canada CouncilÂ’s naming convention)
-Â• jpegs should not exceed 72-150 dpi
-Â• please print off a copy of all your documents
+ postmark deadline: July 30, 2009
+ CV
+ Letter of Intent
+ numbered image list
+ 10-20 images of previous work (using Canada Councils naming convention)
+ jpegs should not exceed 72-150 dpi
+ please print off a copy of all your documents
 
 Eligibility
-Â• local artists with no printmaking experience in the medium they wish
+ local artists with no printmaking experience in the medium they wish
 to work in.
 
 The Print Research Residency was initiated in 2008. Elizabeth Zvonar

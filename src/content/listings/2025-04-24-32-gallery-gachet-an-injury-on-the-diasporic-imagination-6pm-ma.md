@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 32
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | An Injury On the Diasporic Imagination | 6PM | MAY 8"
 ---
 

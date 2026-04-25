@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 27
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Vanessa Brown: The Hand of Camille | SEP 15"
 ---
 

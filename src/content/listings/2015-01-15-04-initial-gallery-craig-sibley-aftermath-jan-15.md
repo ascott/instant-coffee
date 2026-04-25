@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 4
 type: "OPENING"
+venue: "Initial Gallery"
 summary: "Initial Gallery | Craig Sibley - Aftermath | JAN 15"
 ---
 
@@ -29,7 +30,7 @@ constructions of rough pieces of studio scrap are reassembled into clean,
 hardedge three-dimensional sculptures but the story lies with the
 discrepancy that the rigid empirical rubric allows before it collapses back
 into disorder. In homage to the West Coast modernist artists of the 1960s
-such as Reg Holmes and Gary Lee Nova, Sibleyâ€™s work reflects on the
+such as Reg Holmes and Gary Lee Nova, Sibley’s work reflects on the
 dialogue between painting, sculpture the past and the present.
 
 2339 granville st

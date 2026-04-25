@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 4
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Can't Sit Still Life | 6-10PM | AUG 16"
 ---
 

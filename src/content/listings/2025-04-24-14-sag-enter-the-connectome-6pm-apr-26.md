@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 14
 type: "EVENT"
+venue: "SAG"
 summary: "SAG | Enter the Connectome | 6PM | APR 26"
 ---
 

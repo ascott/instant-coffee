@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happy end of year and new year"
 emailDate: "Wed, 25 Dec 2024 19:40:12 -0800"
 number: 7
 type: "TALK"
+venue: "SFU"
 summary: "SFU | Speaking — Before, During, and After Colonialism | JAN 30"
 ---
 

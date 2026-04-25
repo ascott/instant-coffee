@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "New Media Gallery [RE-OPENING]"
 summary: "New Media Gallery [RE-OPENING] | Currency | Booking Required | SEP 2"
 ---
 

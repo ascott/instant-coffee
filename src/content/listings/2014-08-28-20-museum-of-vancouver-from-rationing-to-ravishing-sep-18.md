@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 20
 type: ""
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | From Rationing to Ravishing | SEP 18"
 ---
 
-From Rationing to Ravishing: The Transformation of Womenâ€™s Fashion in the
+From Rationing to Ravishing: The Transformation of Women’s Fashion in the
 1940s and 1950s
 
 Co-Curators: Ivan Sayers and Claus Jahnke will provide a media tour and
@@ -20,37 +21,37 @@ for interviews and exhibition previews.
 
 Ravishing exhibition revisits fashion trends of the 1940s and 1950s
 
-(Vancouver, BC) â€” The Museum of Vancouver is excited to announce the
+(Vancouver, BC) — The Museum of Vancouver is excited to announce the
 opening of From Rationing to Ravishing on September 18, 2014. This
 exhibition will feature rare examples of haute couture and Vancouver-made
 clothing that reflect how WWII changed society.
 
-From the collections of guest curators Ivan Sayers and Claus Jahnkeâ€”the
-team that created Art Deco Chicâ€”and the vaults of the Museum of Vancouver,
+From the collections of guest curators Ivan Sayers and Claus Jahnke—the
+team that created Art Deco Chic—and the vaults of the Museum of Vancouver,
 From Rationing to Ravishing will present more than 80 historic garments and
 accessories. Highlights include: wartime wedding dresses, Boeing Vancouver
 overalls, cocktail dresses, and fashions designed by renowned European
-couturiers, including Christian Dior, CristÃ³bal Balenciaga, and Elsa
+couturiers, including Christian Dior, Cristóbal Balenciaga, and Elsa
 Schiaparelli.
 
 The exhibition also includes a dress from Ceil Chapman, who produced
-high-quality, French-inspired garments. She was reportedly Marilyn Monroeâ€™s
+high-quality, French-inspired garments. She was reportedly Marilyn Monroe’s
 favourite designer and counted Elizabeth Taylor and Mamie Van Doren as
-famous clients. Lauren Bacallâ€™s shoes, Peruvian soprano Yma Sumacâ€™s dress
+famous clients. Lauren Bacall’s shoes, Peruvian soprano Yma Sumac’s dress
 suit and a suit from Miss Germany 1955 will also be on display.
 
-â€œIn From Rationing to Ravishing, we tried to bring together a collection of
+“In From Rationing to Ravishing, we tried to bring together a collection of
 garments and accessories that illustrate a variety of historical
 references,â€  stated Sayers, one of Canadaâ€™s preeminent fashion historians.
-Jahnke elaborates, â€œWe chose the artifacts for their relevance, their
+Jahnke elaborates, “We chose the artifacts for their relevance, their
 appearance, and their stories.â€  This exhibition will demonstrate how
 historical events continue to shape our lives.
 
 From Rationing to Ravishing is the second installment in a continuing
-series of fashion exhibitions with Sayers and Jahnke. Sayersâ€”who thinks of
-his exhibitions as lessons in historyâ€”claims, â€œNo era is better illustrated
+series of fashion exhibitions with Sayers and Jahnke. Sayers—who thinks of
+his exhibitions as lessons in history—claims, “No era is better illustrated
 by an examination of its clothing than the period of World War II and the
-postwar years of recovery and rebuilding.â€œ During the war, fashion
+postwar years of recovery and rebuilding.“ During the war, fashion
 designers emphasized manliness; clothes were influenced by the need for
 practicality and economy. In peacetime, a womanly silhouette returned and
 then, in the 1950s, influenced by indulgence and amusement, designers made
@@ -58,15 +59,15 @@ girlishness the rage.
 
 From Rationing to Ravishing will include participatory features that engage
 families, including an activity station for kids and adults alike, and the
-opportunity to digitally wear period garments. Over the exhibitionâ€™s run,
+opportunity to digitally wear period garments. Over the exhibition’s run,
 MOV will host a number of history-themed events, including two fashion
-shows that feature exceptional examples from Sayersâ€™ private collection and
+shows that feature exceptional examples from Sayers’ private collection and
 two â€œtalk and tourâ€  events, also led by Sayers.
 
-Fashion history enthusiasts will get a sneak peek into the curatorsâ€™
+Fashion history enthusiasts will get a sneak peek into the curators’
 collection at Oakridge Centre, where five glamorous garments will be on
 display from September 11th through the 21st. Susan Nicol, General Manager
-at Oakridge Centre explains their commitment to this exhibition: â€œAs a
+at Oakridge Centre explains their commitment to this exhibition: “As a
 fashion and style destination in Vancouver for over 55 years, Oakridge
 Centre has been a driver of the evolution of fashion in the lower mainland.
 We are excited to partner with the Museum of Vancouver to showcase some of
@@ -82,11 +83,11 @@ MOV Events:
 
 Curator's Talk & Tour: From Rationing to Ravishing, with Ivan Sayers
 
-Â· Thursday, October 2, 2014 at 7:00pm
+· Thursday, October 2, 2014 at 7:00pm
 
-Â· Thursday, December 4, 2014 at 7:00pm
+· Thursday, December 4, 2014 at 7:00pm
 
-Â· Additional members-only dates to be announced
+· Additional members-only dates to be announced
 
 Join Vancouver's preeminent fashion historian and From Rationing to
 Ravishing guest curator Ivan Sayers for an informative stroll amongst
@@ -96,13 +97,13 @@ postwar extravagance.
 
 Fashion Show: From Rationing to Ravishing, with Ivan Sayers
 
-Â· Saturday, November 22, 2014 at 7:00pm
+· Saturday, November 22, 2014 at 7:00pm
 
-Â· Saturday, February 28, 2015 at 2:00pm
+· Saturday, February 28, 2015 at 2:00pm
 
 Fashion historian and guest curator Ivan Sayers will produce and narrate
 live fashion shows that complement From Rationing to Ravishing. These shows
-will feature exceptional examples from Ivanâ€™s own private collection and
+will feature exceptional examples from Ivan’s own private collection and
 others.
 
 -30-

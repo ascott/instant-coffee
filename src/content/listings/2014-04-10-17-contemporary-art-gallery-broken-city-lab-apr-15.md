@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 17
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Broken City Lab | APR 15"
 ---
 

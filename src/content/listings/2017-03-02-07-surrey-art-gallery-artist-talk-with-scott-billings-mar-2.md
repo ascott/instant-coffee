@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 7
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artist Talk with Scott Billings | MAR 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 3
 type: ""
+venue: "Keep NSCAD University intact and independent!"
 summary: "Keep NSCAD University intact and independent! | SIGN THE PETITION"
 ---
 

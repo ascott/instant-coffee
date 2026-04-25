@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 5
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Ghostly Makers | JUL 13"
 ---
 

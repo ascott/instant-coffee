@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 6
 type: "OPENING"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | 2068: Touch Change | 7PM | NOV 1"
 ---
 

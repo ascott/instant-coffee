@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 31
 type: "OPENING"
+venue: "Wil Aballe [NEW LOCATION]"
 summary: "Wil Aballe [NEW LOCATION] | HANK BULL Nation to Nation | 6PM | FEB 13"
 ---
 

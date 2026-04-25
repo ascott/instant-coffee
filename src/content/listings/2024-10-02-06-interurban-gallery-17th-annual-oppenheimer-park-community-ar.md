@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "InterUrban Gallery"
 summary: "InterUrban Gallery | 17th Annual Oppenheimer Park Community Art Show"
 ---
 

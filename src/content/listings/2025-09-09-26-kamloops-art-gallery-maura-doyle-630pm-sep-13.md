@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 26
 type: "OPENING"
+venue: "KAMLOOPS ART GALLERY"
 summary: "KAMLOOPS ART GALLERY | Maura Doyle | 630PM | SEP 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 27
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF Film Centre | XINEMA Program 10 | 715PM | SEP 17"
 ---
 

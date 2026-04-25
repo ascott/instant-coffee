@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 6
 type: "OPENING"
+venue: "PHG"
 summary: "PHG | JULIETTE AND FRIENDS | NOV 21"
 ---
 
@@ -14,7 +15,7 @@ Friday, November 21 at 8pm
 Opening remarks, 8:30pm
 
 for Juliette and Friends
-and Lynn Valley #5 Â³Meet Dick OultonÂ²
+and Lynn Valley #5 ³Meet Dick Oulton²
 
 --
 

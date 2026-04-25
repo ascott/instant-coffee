@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 25
 type: "EVENT"
+venue: "BAG"
 summary: "BAG | Kelly Lycan: The Fireplace Closing Tour | 2PM | AUG 25"
 ---
 

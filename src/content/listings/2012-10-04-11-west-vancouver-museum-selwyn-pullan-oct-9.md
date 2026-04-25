@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 11
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Selwyn Pullan | OCT 9"
 ---
 

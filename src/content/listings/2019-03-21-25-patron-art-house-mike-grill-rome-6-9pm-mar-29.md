@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 25
 type: "OPENING"
+venue: "Patron Art House"
 summary: "Patron Art House | MIKE GRILL: ROME | 6-9PM | MAR 29"
 ---
 

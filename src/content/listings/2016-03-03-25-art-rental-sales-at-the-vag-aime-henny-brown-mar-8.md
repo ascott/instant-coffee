@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 25
 type: "TALK"
+venue: "Art Rental & Sales at the VAG"
 summary: "Art Rental & Sales at the VAG | Aime Henny Brown | MAR 8"
 ---
 

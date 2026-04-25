@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 40
 type: "EVENT"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | (re)patterning Val Loewen and Amanda Wood | 6PM | OCT 12"
 ---
 

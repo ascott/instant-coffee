@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 26
 type: "CALL"
+venue: "Exterior Commission for Convention Center"
 summary: "Exterior Commission for Convention Center | Houston Arts Alliance | FEB 20"
 ---
 

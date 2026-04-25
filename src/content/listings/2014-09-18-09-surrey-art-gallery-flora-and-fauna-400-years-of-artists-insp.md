@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 9
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Flora and Fauna - 400 Years of Artists Inspired b | SEP 20"
 ---
 
@@ -30,8 +31,8 @@ and spiritual regeneration. Flora and Fauna: 400 Years of Artists Inspired
 by Nature explores the natural world through paintings, drawings, prints,
 photographs, and crafted objects. Responding to the richness and diversity
 of plant life and the creatures that occupy natural spaces, the artists in
-this exhibition express natureâ€™s complexity and fragility in a variety of
-ways â€“ from the epic and analytical to the detailed and intimate. This
+this exhibition express nature’s complexity and fragility in a variety of
+ways – from the epic and analytical to the detailed and intimate. This
 exceptionally varied exhibition, drawn mainly from the collections of the
 National Gallery of Canada, features 74 works dating from the 16th to the
 21st centuries. Presenting a wide variety of media, scale, and style, it
@@ -62,7 +63,7 @@ at the National Gallery of Canada, and is the co-curator of the exhibition
 Flora and Fauna: 400 Years of Artists Inspired by Nature. During her tour,
 Thomas will examine how and why the artworks on display were chosen, share
 interesting stories about the artworks, and illuminate ideas explored in
-the exhibition. Admission to the opening reception and visiting curatorâ€™s
+the exhibition. Admission to the opening reception and visiting curator’s
 tour is free (donations are gratefully received).
 
 Surrey Art Gallery gratefully acknowledges the support of the B.C. Arts

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 21
 type: "EXHIBITION"
+venue: "Yukon Arts Centre"
 summary: "Yukon Arts Centre | 2025 Yukon Prize Finalist Exhibition | SEP 11"
 ---
 

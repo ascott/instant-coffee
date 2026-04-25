@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: waiting for something to happen"
 emailDate: "Thu, 17 Apr 2008 09:10:58 -0700"
 number: 6
 type: ""
+venue: "KSW"
 summary: "KSW | reading:mark SALERNO | APR 17"
 ---
 

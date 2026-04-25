@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 8
 type: ""
+venue: "League play"
 summary: "League play | Tags | JAN 26"
 ---
 
@@ -23,8 +24,8 @@ group input.
 About League
 League is an open group that gathers to play games and sports that 
 we invent, as an exercise of creative problem-solving. The 
-Vancouver Courier called League â€œThe most incredible development 
+Vancouver Courier called League “The most incredible development 
 in Vancouver recreation this year,... focused on mental exercise as 
-much as physical exertion.â€œ It's free and all are welcome; bring both 
+much as physical exertion.“ It's free and all are welcome; bring both 
 body and mind.
 http://league-league.org

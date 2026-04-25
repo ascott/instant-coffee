@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 10
 type: "OPENING"
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | Andrea Pinheiro | FEB 10"
 ---
 

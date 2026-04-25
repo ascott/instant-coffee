@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 19
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | STEVEN COTTINGHAM: Heat, death | OCT 18"
 ---
 

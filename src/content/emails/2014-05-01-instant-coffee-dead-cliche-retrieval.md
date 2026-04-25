@@ -31,7 +31,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-05-01-17-surrey-art-gallery-symposium-disfiguring-identity-art-migrat">17. Surrey Art Gallery | Symposium | Disfiguring Identity - Art, Migration and Exile | MAY 10</a>
 <a href="/instant-coffee/listings/2014-05-01-18-vandocument-1-year-anniversary-party-may-10">18. VANDOCUMENT | 1 Year Anniversary Party | MAY 10</a>
 <a href="/instant-coffee/listings/2014-05-01-19-rio-theatre-spaces-and-reservations-may-20">19. Rio Theatre | Spaces and Reservations | MAY 20</a>
-<a href="/instant-coffee/listings/2014-05-01-20-western-front-exhibitions-benot-maire-may-21">20. Western Front Exhibitions | BenoÃ®t Maire | MAY 21</a>
+<a href="/instant-coffee/listings/2014-05-01-20-western-front-exhibitions-benot-maire-may-21">20. Western Front Exhibitions | Benoît Maire | MAY 21</a>
 <a href="/instant-coffee/listings/2014-05-01-21-pipeline-magazine-call-for-entries-juried-photography-issue-">21. Pipeline magazine | CALL FOR ENTRIES - JURIED Photography ISSUE | MAY 26</a>
 <a href="/instant-coffee/listings/2014-05-01-22-the-iris-film-collective-call-local-films-and-videos-jun-1">22. The Iris Film Collective | CALL: local films and videos | JUN 1</a>
 23. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -213,7 +213,7 @@ UBCs Museum of Anthropology - 6393 NW Marine Drive
 Presented by UBC's Museum of Anthropology, Without Masks:
 Contemporary Afro-Cuban Art features over 80 Afro-Cuban artworks
 collected by Chris and Marina von Christierson. Curated by Cuban poet,
-art critic and curator Orlando HernÃƒÂ¡ndez, the exhibition was first shown at
+art critic and curator Orlando HernÃ¡ndez, the exhibition was first shown at
 the Johannesberg Art Gallery. It explores the ties that link the histories
 and cultures of Cuba and Africa, and includes works that reflect
 controversial and conflicting aspects of the Cuban national reality that
@@ -250,7 +250,7 @@ at UBC in collaboration with Satellite Gallery. A special thank you to Marina
 Roy for her dedication and support of this project.
 
 Extended Party Mix 
-Dates: April 16 â€“ May 2, 2014
+Dates: April 16 – May 2, 2014
 Closing Reception: May 2 | 7:00pm to 10:00pm
 Venue: Satellite Gallery | 560 Seymour, 2nd Floor, Vancouver 
 Website: www.satellitegallery.ca
@@ -320,14 +320,14 @@ Contemporary Art Gallery
 
 Michael Turner is a Vancouver-based writer of fiction, criticism and song. His 
 published multi-genre literary titles include Hard Core Logo, The 
-Pornographerâ€™s Poem and 8 Ã— 10. He has also written essays on the work of 
+Pornographer’s Poem and 8 × 10. He has also written essays on the work of 
 artists Julia Feyrer, Brian Jungen, Ken Lum, Christina Mackie and Michael 
 Morris, whose 2012 exhibition Letters: Michael Morris and Concrete Poetry 
 was co-curated by Turner and Scott Watson at the Morris and Helen Belkin 
 Gallery, UBC. A frequent collaborator, he has written scripts with Stan 
 Douglas, poems with Geoffrey Farmer and songs with Andrea Young. His 
 writing can be found online at Canadian Art and on his blog at 
-www.mtwebsit.blogspot.ca. Turner will respond to Kevin Schmidtâ€™s 
+www.mtwebsit.blogspot.ca. Turner will respond to Kevin Schmidt’s 
 exhibition.
 
 This series invites cultural and critical producers to present thoughts and 
@@ -451,7 +451,7 @@ Centre Public Art Gallery in presenting/developing visual art exhibitions,
 managing art programs, and working in collection and arts administration. 
 Particular focus for this job is Outreach art programming and promoting the 
 Gallery through social media. The intern will have the opportunity to work with 
-the AdÃ¤ka Cultural Festival and will be integral to Culture Days planning in the 
+the Adäka Cultural Festival and will be integral to Culture Days planning in the 
 Yukon. Hands-on experience will be gained through working on exhibitions, 
 events and education programs as part of the Gallery Team at the Yukon Arts 
 Centre, with our programming partners in the community and directly with 
@@ -490,7 +490,7 @@ YAC blue_email
 Neither Here Nor There: MFA Spring Exhibition
 
 Audain Gallery, Vancouver
-May 8 â€“ 17, 2014
+May 8 – 17, 2014
 
 The idea of a place that is "neither here nor there" invokes somewhere in 
 limbo, an in-between space where nothing is what it seems, and where 
@@ -507,7 +507,7 @@ comprised of an exhibition of interdisciplinary works both inside and outside
 of the Audain Gallery, accompanied by a five night series of live 
 performances at SFU at the Goldcorp Centre for the Arts.
 
-Audain Gallery and offsite: Luciana D'AnunciaÃ§Ã£o, Lucien Durey, Deborah 
+Audain Gallery and offsite: Luciana D'Anunciação, Lucien Durey, Deborah 
 Edmeades, Curtis Grahauer, Jeff Langille, Avery Nabata, Clint Sleeper, Jaime 
 Williams and Nathaniel Wong.
 
@@ -523,13 +523,13 @@ Opening Reception
 Wednesday, May 7, 7pm
 
 Performance Series: A Real Good Performance Festival
-May 7 â€“ 11
+May 7 – 11
 
 Wednesday, May 7
 
 The door is open, please come in
-Luciana D'AnunciaÃ§Ã£o
-5pmâ€“10pm, Room 4210
+Luciana D'Anunciação
+5pm–10pm, Room 4210
 FREE
 
 How I learned to stop verbing and blank the object
@@ -597,7 +597,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audain@sfu.ca
@@ -614,7 +614,7 @@ exhibition, entitled For Men Who Appreciate History, opens May 8 with a
 reception from 6:00-8:00 pm with the artist in attendance and will continue 
 through May 29. This will be the artist's second solo exhibition with the Back 
 Gallery Project.
-Noah Beckerâ€™s interest in masterworks from different art historical periods is 
+Noah Becker’s interest in masterworks from different art historical periods is 
 the foundation upon which he has built bold and ordered compositions. His 
 work questions the contemporary relevance of portraiture in the age of digital 
 photography and the ubiquitous â€œselfieâ€  picture that we have come to 
@@ -646,7 +646,7 @@ City.
 
 
 Emily Carr University of Art + Design and Contemporary Art Gallery present:
-JÃ¼rgen Partenheimer | Renga: Dimensions of Abstraction
+Jürgen Partenheimer | Renga: Dimensions of Abstraction
 
 Thursday, May 8, 7pm
 Emily Carr University of Art + Design
@@ -654,7 +654,7 @@ Lecture Theatre - SB Room 301
 1399 Johnston Street, Vancouver
 
 Please join us for a special event by Audain Distinguished Artist-in-Residence 
-JÃ¼rgen Partenheimer, hosted by Emily Carr University of Art + Design. It will 
+Jürgen Partenheimer, hosted by Emily Carr University of Art + Design. It will 
 involve multiple voices approaching notions of abstraction from a variety of 
 poetic, philosophical and theoretical standpoints.
 
@@ -664,11 +664,11 @@ abstraction, he is considered one of the most important contemporary artists
 in Germany. With theory, poetry and prose as his referential grammar for 
 artistic expression, Partenheimer's work encompasses painting, drawing, 
 sculpture and text. He became internationally renowned following his 
-participation in the Paris, Venice and SÃ£o Paulo Bienniale, and in 2000 became 
+participation in the Paris, Venice and São Paulo Bienniale, and in 2000 became 
 the first contemporary German artist to have a retrospective in China at the 
 National Museum of Art in Beijing. His work has been part of major exhibitions 
 including The Museum of Modern Art in New York and San Francisco, the 
-MirÃ³ Foundation in Barcelona and the Museum Ludwig in Cologne.
+Miró Foundation in Barcelona and the Museum Ludwig in Cologne.
 
 Partenheimer's residency, which began in February, has been a partnership 
 between the Emily Carr University of Art + Design and the Contemporary Art 
@@ -752,7 +752,7 @@ ambitious project that attempts to uncover the mysteries surrounding the
 occult. Please join us for the opening reception Friday, May 9, 2014 8pm - 
 11pm. The artist will also be present during the event. 
 
-â€œUnsubstantiated claims of bizarre behavior that are difficult to prove or 
+“Unsubstantiated claims of bizarre behavior that are difficult to prove or 
 disproveâ€ 
 - Kenneth V Lanning, Special Agent for the FBI Behavioral Science Unit 
 (1992)
@@ -764,7 +764,7 @@ performing Satanic Ritual Abuse (SRA) on unsuspecting victims regularly.
 The initial investigations into SRA were conducted by anthropologists and 
 sociologists, who failed to find evidence of SRA actually occurring; instead 
 they concluded that SRA was a result of rumors and folk legends that were 
-spread by â€œmedia hype, Christian fundamentalism, mental health and law 
+spread by “media hype, Christian fundamentalism, mental health and law 
 enforcement professionals and child abuse advocatesâ€  (The Dilemma of 
 Ritual Abuse: Cautions and Guides for Therapists. Fraser, GA - 1997). 
 Nonetheless Satanic Ritual Abuse became a moral panic that seemed to 
@@ -822,7 +822,7 @@ Saturday, May 10 from 1:00 to 4:00 pm at Emily Carr University of Art +
 Design on Granville Island (Room NB 245). Concurrent with the Grad Show, 
 the symposium brings together eight artists and two writer-curators to 
 examine the effect of place, specifically in painting. Speakers include Ben 
-Reeves, JÃ¼rgen Partenheimer, Landon Mackenzie, Jennifer Lefort, Mark 
+Reeves, Jürgen Partenheimer, Landon Mackenzie, Jennifer Lefort, Mark 
 Neufeld, Willie Brisco, Ehryn Torrel, Megan Hepburn, Julie Trudel and 
 Steffanie Ling.
 
@@ -837,7 +837,7 @@ generationally. Features sculpture, painting, photography, illustration and new
 media by 30 artists. 
 
 Celebratory Party - Friday, May 9th, 7-11pm
-8:30pm performance by Luciana Dâ€™Anunciacao and prOphecy sun
+8:30pm performance by Luciana D’Anunciacao and prOphecy sun
 The Incubator
 585 E Broadway
 http://incubatevancouver.com/exhibition/
@@ -845,7 +845,7 @@ https://www.facebook.com/events/1417137738556075/?source=1
 
 The Incubator is a pop-up gallery, library and event series running from May 
 5-11, dedicated to fostering community and creating mentorship opportunities 
-for women in Vancouverâ€™s cultural sector.. It is our hope that through 
+for women in Vancouver’s cultural sector.. It is our hope that through 
 collective participation, we will be able to open up a dialogue that is both 
 critical and generative in a theoretical context but has a practical impact on 
 young women seeking direction.
@@ -871,7 +871,7 @@ conversation on the power of art to critically address cultural stereotypes
 and experiences of migration. The interactive, two-day symposium Disfiguring 
 Identity: Art, Migration and Exile takes place on May 10 at Centre Stage at 
 Surrey City Centre (City Hall) from 7 30pm to 9 30pm and May 11 at Surrey 
-Art Gallery from 12 00pm to 5 45pm. Admission is free â€“ donations are 
+Art Gallery from 12 00pm to 5 45pm. Admission is free – donations are 
 gratefully received.
 
 Day one is an evening of short films created by emerging and established 
@@ -880,7 +880,7 @@ new media to negotiate the differences and similarities between past and
 present. Films by artists such as Ali Kazimi Richard Fung, John Greyson (Rex 
 vs. Singh), Karin Lee (Shattered), and Vivek Shraya (Seeking Single White 
 Male) will be featured followed with Q&A with filmmakers & curators. 
-Afterparty at Nham Thai featuring DJ Don Chow and DJ â€“A-slam.
+Afterparty at Nham Thai featuring DJ Don Chow and DJ –A-slam.
 
 Day two is an afternoon of panels with artists investigating the use of 
 performance, history, and memory to address art and activism related to 
@@ -903,11 +903,11 @@ Main Gallery gratefully acknowledges the financial assistance of Canada
 Council Equity Office, BC Gaming Multiculturalism, BC Arts Council Co-op 
 Placement. 
 
-This symposium is presented in conjunction with Surrey Art Galleryâ€™s 
+This symposium is presented in conjunction with Surrey Art Gallery’s 
 exhibition Ruptures in Arrival: Art in the Wake of the Komagata Maru.
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 V3W 3L1
 www.arts.surrey.ca
@@ -924,7 +924,7 @@ On May 10 2014, VANDOCUMENT invites the public to come celebrate our
 first year of arts documentation at VIVO Media Arts Centre, 1965 Main Street, 
 Vancouver, between 8:00 pm and 2:00 am. 
 The anniversary party will feature live musical performances, video 
-installations, dance and performance pieces â€“ all by local artists. 
+installations, dance and performance pieces – all by local artists. 
 
 Some of the artists to be featured include:
 * all woman rockers Les Chausettes & local up n' comers Phantoms Again
@@ -937,7 +937,7 @@ sun
 Mondays
 * late night DJ sets by Pete O Miles & kÃ¤nˈveks + Heroshe from Chapel Sound
 
-â€¦ with more artists being added!
+… with more artists being added!
 
 Entry to our event is by donation. Proceeds will be split amongst the artists 
 and VANDOC.
@@ -950,7 +950,7 @@ Vancouver. We accomplish this through three lenses: interviews, previews
 and reviews. 
 
 VANDOCUMENT founder, Ash Tanasiychuk, is a photographer with the vision 
-of capturing the energy and diversity of Vancouverâ€™s exploding arts scene. 
+of capturing the energy and diversity of Vancouver’s exploding arts scene. 
 One year ago, he started VANDOCUMENT, a collective of photographers, 
 videographers, and writers, to portray the exciting vibe of local artists in 
 images and words. The aim is to generate interest, awareness, and support 
@@ -958,7 +958,7 @@ for the art-makers in our midst, to create a vibrant archive that tells the stor
 of the creative surge in Vancouver, as well as connect the larger population 
 of Vancouverites with the art and art events happening around them.
 
-In the last year, VANDOCUMENTâ€™s team of over 40 volunteers have covered 
+In the last year, VANDOCUMENT’s team of over 40 volunteers have covered 
 more than 150 different arts events, including: gallery shows, performances, 
 dance, theatre, music, film and video, and all manners of new and explorative 
 media. The evolving archive can be found on the VANDOCUMENT website at 
@@ -1023,32 +1023,32 @@ Rio.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-05-01-20-western-front-exhibitions-benot-maire-may-21">20. Western Front Exhibitions | BenoÃ®t Maire | MAY 21</a>
+<a href="/instant-coffee/listings/2014-05-01-20-western-front-exhibitions-benot-maire-may-21">20. Western Front Exhibitions | Benoît Maire | MAY 21</a>
 ------------------------------------------------------------------------
 LETTER
-BenoÃ®t Maire
+Benoît Maire
 
 Opening: Tuesday, May 20 @ 7pm
-Exhibition: May 21 â€“ June 28, 2014
+Exhibition: May 21 – June 28, 2014
 
 Gallery hours: Tuesday-Saturday 12-5pm
 
-French artist BenoÃ®t Maire works with film, sculpture and photography, setting 
+French artist Benoît Maire works with film, sculpture and photography, setting 
 materials in dialogue with linguistics and philosophy. Informed by conceptual 
-art practices, Maire brings a material sensibility that draws out an objectâ€™s 
+art practices, Maire brings a material sensibility that draws out an object’s 
 potential to affect, while maintaining an aesthetics of ideas. Poetic systems of 
 display reframe artifacts of observation as objects of study and interrogation. 
 
 On the occasion of this project, Maire will also launch a new limited edition 
-artist book, printed in France by One Star Press. LETTER is Maireâ€™s first solo 
+artist book, printed in France by One Star Press. LETTER is Maire’s first solo 
 exhibition in Canada.
 
-BenoÃ®t Maire (b. 1978, Paris) has presented works at the Luma Foundation, 
+Benoît Maire (b. 1978, Paris) has presented works at the Luma Foundation, 
 Arles; I.C.A.,London; Magasin, Grenoble; Tate Modern, London; and Centre 
 Pompidou, Paris. He is represented in London by Hollybush Gardens, in 
 France by Cortex Athletico, and in Berlin by Croy Nielsen.
 
-Presented with the generous support of the Consulat gÃ©nÃ©ral de France Ã  
+Presented with the generous support of the Consulat général de France à 
 Vancouver.
 
 For further information, please visit front.bc.ca.
@@ -1072,7 +1072,7 @@ For publication in Pipeline July/August 2014
 
 This year for the first time, our photography issue is a juried issue.
 Hong Kong-based M+ curator Tobias Berger, Paris-based art historian and 
-theorist AndrÃ© RouillÃ© and Chinese photographer Maleonn join our Editor-in-
+theorist André Rouillé and Chinese photographer Maleonn join our Editor-in-
 Chief Cristina Sanchez-Kozyreva in the selection of the best submissions.
 
 Eligibility:
@@ -1084,7 +1084,7 @@ on singularity and novelty, independently of your age.
 
 We encourage submissions with images from a single project or limited to two 
 / three bodies of works for a cohesive selection for the juried issue. A 
-cohesive photography project shows the jury that youâ€™ve carefully edited 
+cohesive photography project shows the jury that you’ve carefully edited 
 your selection and are committed to your photography.
 
 Please send low-resolution files, possibly in a PDF, along with a statement 
@@ -1100,7 +1100,7 @@ Submission Deadline: May 26th, 2014.
 
 About Pipeline:
 Pipeline is an independent contemporary art magazine based in Hong Kong.
-The magazineâ€™s name comes from its focus in bridging artists from East and 
+The magazine’s name comes from its focus in bridging artists from East and 
 West, and to connect the different types of curatorial thinking and aesthetic 
 appreciation across the globe with an open mind. The magazine editorial is 
 international, non-event or hype driven, focused on contemporary art but 
@@ -1128,8 +1128,8 @@ Artists maintain copyright on all of their work. By submission, artists grant
 Pipeline the right to print their images and profiles for the purpose of showing 
 their works in the July/August 2014 issue of the magazine, The Photography 
 Annual, for marketing the magazine and for reproduction online, all in relation 
-and limited to The Photography Annual and the magazine. Artistâ€™s recognition 
-is provided with any use. Submitting artists will be added to Pipelineâ€™s 
+and limited to The Photography Annual and the magazine. Artist’s recognition 
+is provided with any use. Submitting artists will be added to Pipeline’s 
 newsletter subscriber list. They may opt out using a link on each newsletter 
 at any time.
 
@@ -1165,7 +1165,7 @@ neighbourhood?
 Sidewalks, alleys and yards are preferable, but no public space (ie parks) as 
 this requires permits etc. Let us know and maybe we can screen near you!
 
-Please spread the wordâ€¦
+Please spread the word…
 
 -The Iris Film Collective
 

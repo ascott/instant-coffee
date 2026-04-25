@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 3
 type: ""
+venue: "Jennifer Kostuik Gallery"
 summary: "Jennifer Kostuik Gallery | Artist Talk: DIANNE BOS | APR 4"
 ---
 
@@ -51,10 +52,10 @@ Canada from 1986 to the present, including the 2007 Garden Shed Galactica,
 Outdoor installation, London Museum, Ontario and 2008 Through the Looking
 Glass, Glenbow Museum, Calgary, Alberta.
 
-Gallery hours: Tuesday to Wednesday 10am Ã¢ï¿½ï¿½ 6pm
-Thursday to Friday 10am Ã¢ï¿½ï¿½ 8pm
-Saturday 10am Ã¢ï¿½ï¿½ 6pm
-Sunday 1pm Ã¢ï¿½ï¿½ 5pm
+Gallery hours: Tuesday to Wednesday 10am â�� 6pm
+Thursday to Friday 10am â�� 8pm
+Saturday 10am â�� 6pm
+Sunday 1pm â�� 5pm
 
 All images for the exhibition are listed on our web site under Dianne Bos:
 www.kostuikgallery

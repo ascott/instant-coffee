@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 8
 type: "OPENING"
+venue: "The Bakery and Dynamo Art Association"
 summary: "The Bakery and Dynamo Art Association | Bend Toward the Sun... | FEB 19"
 ---
 

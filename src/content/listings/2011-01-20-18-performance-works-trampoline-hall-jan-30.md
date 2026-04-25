@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 18
 type: ""
+venue: "Performance Works"
 summary: "Performance Works | Trampoline Hall | JAN 30"
 ---
 
 Trampoline Hall
 
-Sunday, January 30 Â· 7:00pm - 10:30pm
+Sunday, January 30 · 7:00pm - 10:30pm
 
 @Performance Works
 1218 Cartwright Street
@@ -26,7 +27,7 @@ a Q&A with the audience which is usually also a ...lot of fun.
 
 Trampoline Hall was invented by the writer Sheila Heti, and is hosted by
 Misha Glouberman. In Toronto, it is something of an institution, playing
-sold-out shows every month for the past eight years or so. Itâ€™s also played
+sold-out shows every month for the past eight years or so. It’s also played
 to great crowds in around a dozen US cities, including Atlanta, Boston, New
 York, Louisville, Chicago, and San Francisco, and at the Push Festival in
 Vancouver in 2009.
@@ -42,7 +43,7 @@ set design by Mark DeLong Dan Siney
 
 ~~~~
 
-""Unrulyâ€¦ Caustically Funny" - Durham Independent
+""Unruly… Caustically Funny" - Durham Independent
 
 "They've been doing this for several years up in Toronto... now New Yorkers
 are in its thrall. Clearly, we love it." - The Village Voice

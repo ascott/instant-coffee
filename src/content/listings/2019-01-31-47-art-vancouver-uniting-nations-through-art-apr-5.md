@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 47
 type: "CALL"
+venue: "ART VANCOUVER"
 summary: "ART VANCOUVER | Uniting Nations Through Art | APR 5"
 ---
 

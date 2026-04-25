@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Goldcorp Centre | Sgaawaay K’uuna (Edge of the Knife) | 6PM | JAN 26"
 ---
 

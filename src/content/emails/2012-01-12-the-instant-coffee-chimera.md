@@ -14,7 +14,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-01-12-01-contemporary-art-gallery-nancy-gillespie-on-corin-sworn-jan-">01. Contemporary Art Gallery | Nancy Gillespie on Corin Sworn | JAN 12</a>
 <a href="/instant-coffee/listings/2012-01-12-02-catriona-jeffries-ian-wallace-jan-12">02. Catriona Jeffries | Ian Wallace | JAN 12</a>
-<a href="/instant-coffee/listings/2012-01-12-03-grunt-gallery-christoph-runn-jan-12">03. grunt gallery | Christoph RunnÃ© | JAN 12</a>
+<a href="/instant-coffee/listings/2012-01-12-03-grunt-gallery-christoph-runn-jan-12">03. grunt gallery | Christoph Runné | JAN 12</a>
 <a href="/instant-coffee/listings/2012-01-12-04-a-h-andrea-lukic-jan-13">04. A-H- | Andrea Lukic | JAN 13</a>
 <a href="/instant-coffee/listings/2012-01-12-05-centre-a-waiting-for-jan-13">05. Centre A | Waiting For | JAN 13</a>
 <a href="/instant-coffee/listings/2012-01-12-06-unitpitt-projects-robert-dayton-junior-jan-13">06. UNIT/PITT Projects | Robert Dayton Junior | JAN 13</a>
@@ -26,7 +26,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-01-12-12-10-seconds-project-douglas-coupland-jan-16">12. 10 SECONDS PROJECT | DOUGLAS COUPLAND | JAN 16</a>
 <a href="/instant-coffee/listings/2012-01-12-13-charles-h-scott-gallery-babak-golkar-jan-17">13. Charles H. Scott Gallery | Babak Golkar | JAN 17</a>
 <a href="/instant-coffee/listings/2012-01-12-14-waldorf-hotel-push-festival-opening-gala-jan-17">14. Waldorf Hotel | PuSh Festival Opening Gala | JAN 17</a>
-<a href="/instant-coffee/listings/2012-01-12-15-sfu-woodwards-vancouver-latin-american-film-festival-nortead">15. SFU Woodwardâ€™s | Vancouver Latin American Film Festival | Norteado | JAN 18</a>
+<a href="/instant-coffee/listings/2012-01-12-15-sfu-woodwards-vancouver-latin-american-film-festival-nortead">15. SFU Woodward’s | Vancouver Latin American Film Festival | Norteado | JAN 18</a>
 <a href="/instant-coffee/listings/2012-01-12-16-morris-and-helen-belkin-art-gallery-letters-michael-morris-a">16. Morris and Helen Belkin Art Gallery | LETTERS: MICHAEL MORRIS AND CONCRETE POETRY | JAN 19</a>
 <a href="/instant-coffee/listings/2012-01-12-17-not-sent-letters-project-cabaret-jan-21">17. Not Sent Letters Project | cabaret | JAN 21</a>
 <a href="/instant-coffee/listings/2012-01-12-18-langara-college-public-art-speaker-series-2012-john-t-young-">18. Langara College | Public Art Speaker Series 2012 | John T. Young | JAN 26</a>
@@ -56,7 +56,7 @@ Places are free
 
 Nancy Gillespie, poet and scholar, will examine the literary aspects of 
 Corin 
-Swornâ€™s exhibition, Endless Renovation. This thought provoking 
+Sworn’s exhibition, Endless Renovation. This thought provoking 
 installation by 
 Sworn began with the chance discovery of a discarded collection of 
 35mm 
@@ -69,7 +69,7 @@ Gillespie works at the intersection of experimental poetics and New
 Lacanian 
 theory. She is a member of the Kootenay School of Writing, and 
 recently edited 
-a special issue of the journal Open Letter, entitled â€œNegotiating the 
+a special issue of the journal Open Letter, entitled “Negotiating the 
 Social Bond 
 of Poetics,â€  forthcoming in 2012. She completed her Doctorate on The 
 Ecstatic 
@@ -87,7 +87,7 @@ Shifting the Discourse in Feminist Avant-garde Poetics and New
 Lacanian 
 Theory.
 
-Current exhibitions Robert Orchardson Endless FaÃ§ade, Corin Sworn 
+Current exhibitions Robert Orchardson Endless Façade, Corin Sworn 
 Endless 
 Renovation and Federico Herrero Vibrantes continue until January 15, 
 2012.
@@ -106,19 +106,19 @@ info@contemporaryartgallery.ca / www.contemporaryartgallery.ca
 <a href="/instant-coffee/listings/2012-01-12-02-catriona-jeffries-ian-wallace-jan-12">02. Catriona Jeffries | Ian Wallace | JAN 12</a>
 ------------------------------------------------------------------------
 
-Masculin/FÃ©minin
-Ian Wallace Masculin/FÃ©minin 13 January - 18 February 2012 Opening
+Masculin/Féminin
+Ian Wallace Masculin/Féminin 13 January - 18 February 2012 Opening
 Reception: 12 January, 7-9 PM
 
 Catriona Jeffries is pleased to announce the forthcoming solo
 exhibition by Ian Wallace. Focusing on the body of work titled
-Masculin/FÃ©minin which began in the late 1990s, the works included in
+Masculin/Féminin which began in the late 1990s, the works included in
 the exhibition encompass photography, inkjet prints, maquettes and
 large scale canvases.
 
 Maintaining his long standing interest in the spectacularization of
 photography wit hin the framework of abstract painting,
-Masculin/FÃ©minin explores this integration but with a marked
+Masculin/Féminin explores this integration but with a marked
 difference. The photographic imagery selected by the artist has been
 appropriated from various European avant-garde films from the 1950s
 and 60s, such as Godard's Le Mepris, Antonioni's L'Avventura and
@@ -132,7 +132,7 @@ necessarily interested in the films as a narrative, time-based medium.
 As in earlier works such as An Attack on Literature (1975) and Colours
 of the Afternoon (1978-79) the sequential still image was privileged
 over the moving image to construct dramaturgy. Similarly,
-Masculin/FÃ©minin engaged cinema as a site from which to appropriate
+Masculin/Féminin engaged cinema as a site from which to appropriate
 still images through the artist's own process of photography. Shot
 directly off of the video screen, the resultant images often include the
 frame of the television itself as well as the image shudders and scan
@@ -153,21 +153,21 @@ retrospective and accompanying catalogue at the Vancouver Art
 Gallery in October 2012. Recent solo exhibitions include Hauser and
 Wirth, Zurich (2011); The Economy of the Image, The Power Plant,
 Toronto (2010); Catriona Jeffries, Vancouver (2009); Witte de With,
-Rotterdam (2008); Kunstverein fÃ¼r die Rheinlande und Westfalen,
+Rotterdam (2008); Kunstverein für die Rheinlande und Westfalen,
 Duesseldorf (2008); Kunsthalle Zurich (2008); Ian Wallace: In the
 Studio, Charles H. Scott Gallery, Vancouver (2005); Magazine
 Piece(s), 1970 , Belkin Satellite, Vancouver (2005). His work has been
 included in numerous international group exhibitions, such as
 Exhibition, Exhibition, Castello di Rivoli Museum of Contemporary Art,
-Turin (2010); Behind the Fourth Wall: Fictitious Lives â€“ Lived Fiction,
+Turin (2010); Behind the Fourth Wall: Fictitious Lives – Lived Fiction,
 Generali Foundation, Vienna (2010); Enacting Abstraction, Vancouver
 Art Gallery (2009); Road Runners, VOX Contemporary Image,
-Montreal (2009); Les Peintres de la vie moderne , MuseÃ© national d'art
+Montreal (2009); Les Peintres de la vie moderne , Museé national d'art
 moderne, Paris (2006); Intertidal: Vancouver Art and Artists, Museum
 Van Hedendaagse Kunst Antwerpen (MuHKA), Antwerp (2005).
 Recent and historical monographs include Ian Wallace: The Economy
 of the Image (2010); Ian Wallace: A Literature of Images (2008); Ian
-Wallace: In the Studio (2007); Ian Wallace: Masculin/FÃ©minin (1999);
+Wallace: In the Studio (2007); Ian Wallace: Masculin/Féminin (1999);
 Ian Wallace: Clayquot Protest (August 9, 1993) (1998); Ian Wallace:
 Corner of the Studio/ El Taller (1995); Ian Wallace: The Idea of The
 University (1990); Ian Wallace: Images (1989); Ian Wallace: Selected
@@ -183,14 +183,14 @@ Fax +1 604 736 1054
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-01-12-03-grunt-gallery-christoph-runn-jan-12">03. grunt gallery | Christoph RunnÃ© | JAN 12</a>
+<a href="/instant-coffee/listings/2012-01-12-03-grunt-gallery-christoph-runn-jan-12">03. grunt gallery | Christoph Runné | JAN 12</a>
 ------------------------------------------------------------------------
 
 grunt
 
 The Symbolic Meaning of Tree
 
-Christoph RunnÃ©
+Christoph Runné
 
 Opening: Thu, 12 January 2012, 7-11pm
 
@@ -200,8 +200,8 @@ grunt gallery, 350 E 2nd Avenue, Unit 116
 
 Gallery Hours: Tuesday - Saturday, 12 - 5pm
 
-Grunt gallery is pleased to present Christoph RunnÃ©'s 16mm film
-installation entitled "Baum". Through this work, RunnÃ© explores the
+Grunt gallery is pleased to present Christoph Runné's 16mm film
+installation entitled "Baum". Through this work, Runné explores the
 visual symbolism of the tree. While the human condition often seems
 caught in cycles of hopelessness, homelessness, poverty, and
 "uprooted-ness", caused by socio-economic strife, wars, and
@@ -223,12 +223,12 @@ trees caused by the single-frame footage shot of a motion picture
 camera-a staccato movement suggestive of Morse-code
 communication or the arrhythmic pressing of typewriter keys.
 
-Christoph RunnÃ© is a Vancouver-based experimental film, video, and
+Christoph Runné is a Vancouver-based experimental film, video, and
 installation artist. His work explores the unhidden yet seemingly
 invisible world around us. He creates visual tone poems with a
 humanitarian heartbeat whose minimalist and impressionistic
 methodology contradicts the complex human conditions with which
-RunnÃ© engages.
+Runné engages.
 
 contact: demian@grunt.ca
 
@@ -268,7 +268,7 @@ Artists: Matilda Aslizadeh, Natalie Doonan, Gwenessa Lam, Natasha
 McHardy
 Curated by Makiko Hara
 
-Exhibition: January 14 â€“ February 25, 2012
+Exhibition: January 14 – February 25, 2012
 Opening: Friday, January 13, 8:00 pm 
 Artist Talk: Saturday, January 14, 2:00 - 4:00 pm
 
@@ -288,15 +288,15 @@ What does it mean to wait? Is it the passive antithesis to the ambitions
 of capitalism, or is it an active space to imagine and shape reality? 
 Feelings of suspense, dread, or hope are a few of the associations that 
 can accompany an impending transformative event. Waiting can also 
-be a space of contradiction, representing infinite possibility â€“ what is to 
-come â€“ as well as tragic failure â€“ what will not arrive. (Group Artist 
+be a space of contradiction, representing infinite possibility – what is to 
+come – as well as tragic failure – what will not arrive. (Group Artist 
 Statement)
 
-Drawing from Vancouverâ€™s local history, the artists have created new 
-work in response to Centre Aâ€™s current site, location and architecture. 
+Drawing from Vancouver’s local history, the artists have created new 
+work in response to Centre A’s current site, location and architecture. 
 The former BC Electric Railway Company Terminal was once the 
 interurban train station and streetcar terminus, the hub of the City of 
-Vancouverâ€™s early thriving core. The site is steeped in the memories of 
+Vancouver’s early thriving core. The site is steeped in the memories of 
 waves of migrants waiting for the opportunity of a new future.
 
 About the artists: 
@@ -308,8 +308,8 @@ their youth forever. By incorporating multiple temporalities and
 narratives the video explores the connection between desire, waiting, 
 and mortality. The concept of waiting is premised on a linear, 
 chronological understanding of life. Inherent in the decision to migrate 
-is the desire to exchange one flow of time for another â€“ one narrative of 
-life for another â€“ in order to access the American Dream. This 
+is the desire to exchange one flow of time for another – one narrative of 
+life for another – in order to access the American Dream. This 
 endeavor has uncertain outcomes; mortality and fate present hard 
 limits to the desire-driven, subjective experience of time.
 
@@ -324,8 +324,8 @@ Golden Horse in Taipai and LA Freewaves in Los Angeles. Matilda is a
 sessional Instructor at Emily Carr University.
 
 Natalie Doonan's two-channel video piece, Llorando/Crying, features 
-two singers performing Rebekah del Rioâ€™s rendition of Roy Orbisonâ€™s 
-1961 ballad. Each vocalist sings in her second language â€“ one in 
+two singers performing Rebekah del Rio’s rendition of Roy Orbison’s 
+1961 ballad. Each vocalist sings in her second language – one in 
 English, one in Spanish. The strong emotive impact of the performance 
 hinges not only on the personal narrative of unfulfilled expectations, but 
 on the persistent desire to bridge the gap between self and other, 
@@ -337,7 +337,7 @@ terminal patients go to live their final days, a space for tranquil
 reflection, or where unacceptable behaviors are tamed.
 
 Natalie Doonan is a multimedia and performance artist, based in 
-Montreal, QuÃ©bec. Her work explores sub economies and slow 
+Montreal, Québec. Her work explores sub economies and slow 
 practices in urban space. Natalie recently founded le/the Sensorium, a 
 curatorial project presenting a series of performances that engage 
 participation through appealing to sensory-affective registers. Natalie 
@@ -428,7 +428,7 @@ bridge and explore the gap between Canada and romance with somewhat
 dubious results. The Canadian Romantic himself will be performing live, taking 
 topic suggestions from the crowd for his infamous impromptu candlelight 
 Recitations. Expect glittery Bon Mots aplenty from a man of way too much 
-experience. You will come alive with laughter feeling like youâ€™ve woken up at an 
+experience. You will come alive with laughter feeling like you’ve woken up at an 
 undisclosed time with make up smeared across your face.
 
 The evening will also include a tribute to the Ac-tor as singer, and the launch of 
@@ -513,7 +513,7 @@ workshop fee.
 <a href="/instant-coffee/listings/2012-01-12-08-blanket-brian-kokoska-beige-infinity-jan-14">08. BLANKET | Brian Kokoska Beige Infinity | JAN 14</a>
 ------------------------------------------------------------------------
 Brian Kokoska Beige Infinity
-January 14 â€“ February 25
+January 14 – February 25
 Opening reception Saturday January 14, 6-9pm
 
 Double Veronica, 2011
@@ -535,10 +535,10 @@ work is a sense of whimsy with an emphasis on decorations and adornments;
 headgear, hairstyles, flowers, and other embellishments.
 
 Brian Kokoska (b. 1988, Vancouver) is a Canadian artist based in New York.
-Beige Infinity is the artistâ€™s first solo exhibition with Blanket and in
+Beige Infinity is the artist’s first solo exhibition with Blanket and in
 Canada. He received his BFA from Emily Carr University of Art and Design in
 2010. His paintings have been featured in artUS (Los Angeles), V (New York),
-Beautiful/Decay (Los Angeles), Carousel (Toronto), and Piana (KrakÃ³w).
+Beautiful/Decay (Los Angeles), Carousel (Toronto), and Piana (Kraków).
 Recent exhibitions include NADA Art Fair Miami Beach with Blanket,
 Nothingness and Being Skinny, Black Cubicle Toilet Gallery, Celeste House,
 Mexico City, Dependent Art Fair with Silvershed in New York, and The Hand of
@@ -559,27 +559,27 @@ Rixen
 Exhibition
 Sciences of Observation
 Annika Rixen
-January 14 â€” February 18, 2012, 2012
+January 14 — February 18, 2012, 2012
 Opening Friday, January 13, 8pm
 
-The Or Gallery, working in collaboration with the Goethe Institutâ€™s Goethe 
+The Or Gallery, working in collaboration with the Goethe Institut’s Goethe 
 Satellite Vancouver and Revised Projects, is pleased to announce Sciences of 
 Observation a new solo exhibition by Berlin-based artist Annika Rixen.
 
-Rixenâ€™s work frequently employs a process of abstraction based on historical 
+Rixen’s work frequently employs a process of abstraction based on historical 
 research that stems from her background in photography; distilling concrete 
 materials through a series of formal experiments and conceptual filters. For this 
 recent body of work, Rixen has used a book by 19th century scientist John 
-Tyndall as a point of departure. Tyndallâ€™s 1873 publication Six Lectures on Light 
+Tyndall as a point of departure. Tyndall’s 1873 publication Six Lectures on Light 
 is comprised of lectures given while on tour in the continental United States. 
 The six works presented at the Or Gallery are products of the loose application 
-of Tyndallâ€™s ideas and his description of scientific experimentation into an 
-aesthetic regime of observation. Specifically, Tyndallâ€™s introductions convey a 
+of Tyndall’s ideas and his description of scientific experimentation into an 
+aesthetic regime of observation. Specifically, Tyndall’s introductions convey a 
 playful, open-ended, and even mystical approach to scientific knowledge that 
 provides a model for contemporary art practice.
 
 Rixen graduated with her BFA from Emily Carr Institute of Art & Design and 
-holds a Masters of Art in Context from the UniversitÃ¤t der KÃ¼nste Berlin. This is 
+holds a Masters of Art in Context from the Universität der Künste Berlin. This is 
 her first solo exhibition in Vancouver.
 
 Or Gallery
@@ -604,15 +604,15 @@ Beyond Vague Terrain: The City and the Serial Image
 
 Surrey Art Gallery
 
-January 14 â€“ March 18 | Opening Reception: January 14, 7-9pm
+January 14 – March 18 | Opening Reception: January 14, 7-9pm
 
 A city offers both beauty and banality. It is repetitious and dynamic; it can 
 appear to stay the same, yet change drastically over a short period of time. 
-Surrey Art Galleyâ€™s newest exhibition, Beyond Vague Terrain: The City and the 
-Serial Image, shows many sides to cities, especially Metro Vancouverâ€™s. The 
+Surrey Art Galley’s newest exhibition, Beyond Vague Terrain: The City and the 
+Serial Image, shows many sides to cities, especially Metro Vancouver’s. The 
 ambitious, and in many cases large-scale, artworks include a grid of 
 shimmering graphite rubbings of eroded date-stamped sidewalks on 
-Vancouverâ€™s Westside, a 109 foot long light box presenting a panorama of Metro 
+Vancouver’s Westside, a 109 foot long light box presenting a panorama of Metro 
 Vancouver as seen from a moving SkyTrain, and an interactive photographic 
 database of every bus stop in Surrey. Through photography, painting, drawing, 
 and video, artists have used the strategy of multiple images to create 
@@ -626,29 +626,29 @@ to 9pm, and continues to March 18. Admission to this exhibition is by donation.
 
 Many of the images explore urban spaces characterized by vast swaths of 
 street intersections, industrial dead zones, and suburban sprawl. These 
-â€˜defeatured landscapesâ€™, as they came to be known, brought international 
-attention to Vancouverâ€™s art scene â€“ particularly photography â€“ in the 1980s and 
-early 1990s. The architect and philosopher Ignasi de SolÃ -Morales referred to 
-these sorts of urban landscapes as a â€˜terrain vagueâ€™. Beyond Vague Terrain 
+‘defeatured landscapes’, as they came to be known, brought international 
+attention to Vancouver’s art scene – particularly photography – in the 1980s and 
+early 1990s. The architect and philosopher Ignasi de Solà-Morales referred to 
+these sorts of urban landscapes as a ‘terrain vague’. Beyond Vague Terrain 
 brings together works from this historical period, as well as new works. In this 
 exhibition, the multiplicity of images within a single artwork is featured, rather 
 than the individual pictures normally associated with artistic representations of 
-urban landscapes. These serial artworks â€“ both photographic and non-
-photographic â€“ challenge the notion of the â€˜city centreâ€™, and ask that its margins 
-be re-imagined, just as the idea of the generic city is challenged when a placeâ€™s 
+urban landscapes. These serial artworks – both photographic and non-
+photographic – challenge the notion of the ‘city centre’, and ask that its margins 
+be re-imagined, just as the idea of the generic city is challenged when a place’s 
 specific qualities and histories are revealed.
 
 In addition to the strong sense of realism that runs through much of the art, 
 there is also a keen interest on the part of the artists to capture the dynamic 
 aspects of time related to the modern city. Some artworks seek to collapse time 
-and space. For example, Helma Sawatzkyâ€™s recombined images of a new 
+and space. For example, Helma Sawatzky’s recombined images of a new 
 building site in South Surrey speak to the rapid development of this part of the 
 Lower Mainland. Other artworks use a fixed frame method to capture the 
-shifting activities of the city and its landscape. Roy Kiyookaâ€™s street 
+shifting activities of the city and its landscape. Roy Kiyooka’s street 
 photographs freeze moving figures and passing vehicles against storefront 
-facades in late-1970s East Vancouver. Owen Kyddâ€™s moving-still images of 
+facades in late-1970s East Vancouver. Owen Kydd’s moving-still images of 
 Kingsway convey a complex melancholy and rich fabric of the city, while 
-Jeremy Herndlâ€™s series of paintings depict an ever transforming view across a 
+Jeremy Herndl’s series of paintings depict an ever transforming view across a 
 sparsely populated Whalley neighbourhood in North Surrey.
 
 It is often claimed that in the digital era every photograph has been taken 
@@ -661,7 +661,7 @@ and overlooked urban forms from 1970 to the present.
 
 Concurrent to Beyond Terrain Vague: The City and the Serial Image, Surrey Art 
 Gallery is presenting a tactile sound work by artist Kristin Roos as part of Open 
-Sound 2012: On Air, Underground â€“ Making the Inaudible Audible, which is 
+Sound 2012: On Air, Underground – Making the Inaudible Audible, which is 
 guest curated by Ross Birdwise, and runs from January 14 to December 16.
 
 Event Schedule
@@ -672,7 +672,7 @@ Saturday, January 14, 7-9pm | Formal Remarks at 7:30pm
 
 Free; donations gratefully received; DJ mittens & gloves
 
-Curatorâ€™s Tour with Jordan Strom
+Curator’s Tour with Jordan Strom
 
 Thursday, February 9, 7-8:30pm
 
@@ -683,10 +683,10 @@ Among the Plazas and the Courts: Writers Reading the City
 Thursday, March 8, 6:30-8:30pm
 
 How have writers documented and imagined the urban landscape? How do 
-these writings shape the viewerâ€™s perception of this landscape? Readings by 
+these writings shape the viewer’s perception of this landscape? Readings by 
 local writers explore the everyday spaces and experiences of the city. Writers 
 include Jeff Derksen, Cecily Nicholson, and Matthew Stadler. Presented with 
-Kwantlen Polytechnic Universityâ€™s English, Creative Writing and Fine Arts 
+Kwantlen Polytechnic University’s English, Creative Writing and Fine Arts 
 Departments.
 
 Free; donations gratefully received
@@ -748,7 +748,7 @@ the Government of Canada.
 
 Vancouver Codesis the latest manifestation of recent new work by Douglas 
 Coupland that extends the graphic black and white QR code into the realm of 
-colorful modernist paintings, while retaining the codeâ€™s original interactive 
+colorful modernist paintings, while retaining the code’s original interactive 
 function. Vancouver Codes is launching on Canada Line video screens Jan.16-
 31, 2012, on youtube, facebook and at www.onmaingallery.com. 
 
@@ -767,12 +767,12 @@ present information on screen.
 
 In 2011, Coupland exhibited several series of new paintings that riffed on the 
 use of QR codes. The paintings function as both 2-D works of art and as codes 
-that can be scanned to receive a message. Two of these paintings â€˜Live Long 
-And Prosperâ€™ and â€˜ Everything Beautiful is Trueâ€™ are part of Vancouver Codes.
+that can be scanned to receive a message. Two of these paintings ‘Live Long 
+And Prosper’ and ‘ Everything Beautiful is True’ are part of Vancouver Codes.
 
 Vancouver Codesis 10 seconds of elegantly shifting codes that link to twenty 
 pieces of data: including youtube videos, photographs of various sites such as 
-Grouse Mountain, VanDusen Gardens, public artworks including Couplandâ€™s 
+Grouse Mountain, VanDusen Gardens, public artworks including Coupland’s 
 Digital Orca and Terry Fox sculptures, and written messages. He has also 
 created a QR code that links to www.onmaingallery.com: all reasons to take out 
 your smart phone, scan that screen, and see where Coupland takes you. 
@@ -780,8 +780,8 @@ your smart phone, scan that screen, and see where Coupland takes you.
 Douglas Couplandis a well-known Canadian writer and visual artist. His fiction is 
 complemented by works in design and visual art arising from his early formal 
 training. His first novel, the 1991 international bestseller Generation X: Tales 
-for an Accelerated Culture, popularized terms such as â€˜McJobâ€™ and â€˜Generation 
-Xâ€™. He has published thirteen novels, a collection of short stories, seven non-
+for an Accelerated Culture, popularized terms such as ‘McJob’ and ‘Generation 
+X’. He has published thirteen novels, a collection of short stories, seven non-
 fiction books, and a number of works for film and television. Since resuming his 
 practice as a visual artist in 2001, he has exhibited in North America, Europe 
 and Asia. Recent major commissions include a Terry Fox memorial for 
@@ -802,7 +802,7 @@ Opening Tuesday, January 17, 7:30 pm
 Charles H. Scott Gallery
 
 The Charles H. Scott Gallery is pleased to present Grounds for Standing and 
-Understanding, a solo exhibition by Vancouver artist Babak Golkar. Golkarâ€™s 
+Understanding, a solo exhibition by Vancouver artist Babak Golkar. Golkar’s 
 site-specific installation is made up of two major components that work together 
 to investigate complex relationships between perception, space, architecture 
 and culture.
@@ -811,7 +811,7 @@ Using Persian carpets as a foundation, Golkar literally â€œdraws upâ€  de
 elements from the intricate patterns and transforms them into three-dimensional 
 scale models that resemble architectural mega-towers. Buildings recently 
 constructed in the Middle East, and elsewhere, such as the Burj Khalifa in Dubai 
-(the worldâ€™s tallest building) may come to mind. These architectural miniatures 
+(the world’s tallest building) may come to mind. These architectural miniatures 
 play off the representations of space found in the traditional iconography of the 
 carpets, which would reference specific geographies in their patterning.
 
@@ -846,15 +846,15 @@ Tel: 604.844.3809, Web: http://chscott.ecuad.ca
 ------------------------------------------------------------------------
 PuSh Festival Opening Gala Win Tickets Tuesday January 17
 
-Hereâ€™s your chance to win tickets to the opening gala for the PuSh International 
-Performing Arts Festival! Donâ€™t miss the biggest party of the 2012 PuSh 
+Here’s your chance to win tickets to the opening gala for the PuSh International 
+Performing Arts Festival! Don’t miss the biggest party of the 2012 PuSh 
 International Performing Arts Festival! A veritable buffet of creativity spread 
 throughout the hotel, the Opening Gala hosted by CTV News anchor Keri Adams 
 and will be packed with live music, video projections, spontaneous performances, 
-and surprise guests.The cabaret space, hosted by The Sunday Serviceâ€™s Ryan 
-Beil and author of Vancouver Special Charles Demers, will feature Vancouverâ€™s 
+and surprise guests.The cabaret space, hosted by The Sunday Service’s Ryan 
+Beil and author of Vancouver Special Charles Demers, will feature Vancouver’s 
 quick-witted, irreverent, and surprisingly danceable accordion rock band Fang, 
-alongside the ethereal vocals and gorgeous harmonies of e.s.l. Youâ€™ll also have 
+alongside the ethereal vocals and gorgeous harmonies of e.s.l. You’ll also have 
 the opportunity to take in DJ sets by Dubstep veteran Kuma, The Amigos and 
 Jenifer Papararo under the flickering â€œtwilight skyâ€  of the Waldorfâ€™s famous Tiki 
 bar, join in a spur-of-the-moment flamenco dance lesson, make silly faces with 
@@ -864,9 +864,9 @@ there!
 The Waldorf Hotel | www.waldorfhotel.com | 604.253.7141 | 1489 E. Hastings St. 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-01-12-15-sfu-woodwards-vancouver-latin-american-film-festival-nortead">15. SFU Woodwardâ€™s | Vancouver Latin American Film Festival | Norteado | JAN 18</a>
+<a href="/instant-coffee/listings/2012-01-12-15-sfu-woodwards-vancouver-latin-american-film-festival-nortead">15. SFU Woodward’s | Vancouver Latin American Film Festival | Norteado | JAN 18</a>
 ------------------------------------------------------------------------
-SFU Woodwardâ€™s and the Vancouver Latin American Film Festival present:
+SFU Woodward’s and the Vancouver Latin American Film Festival present:
 Norteado
 January 18, 2012 | 6:00pm
 Free event. Djavad Mowafaghian Cinema, Goldcorp Centre for the Arts, 149 
@@ -875,14 +875,14 @@ West Hastings Street | www.sfuwoodwards.ca
 --
 
 Music:
-SFU Woodwardâ€™s presents:
-Myths: The Golden Dawn. An original electronic opera staged by Vancouverâ€™s 
-Myths. January 28, 2012 | 8â€“10 PM
+SFU Woodward’s presents:
+Myths: The Golden Dawn. An original electronic opera staged by Vancouver’s 
+Myths. January 28, 2012 | 8–10 PM
 Tickets: $12 in advance, $15 at the door
 World Art Centre, Goldcorp Centre for the Arts, 149 West Hastings Street | 
 www.sfuwoodwards.ca
 
-SFU Woodwardâ€™s and the Push Festival present:
+SFU Woodward’s and the Push Festival present:
 Colorful World by Turning Point Ensemble.
 January 29, 2012 | 8pm
 Tickets: $38 Adult, $35 Senior, $10 Student
@@ -895,7 +895,7 @@ Literary Arts:
 
 Author: Charlotte Gill speaks about her award winning book 'Eating Dirt: Deep 
 Forests, Big Timber, and Life with the Tree-Planting Tribe'
-January 30, 2012 | 7â€“9 PM
+January 30, 2012 | 7–9 PM
 FREE EVENT.
 World Art Centre, Goldcorp Centre for the Arts, 149 West Hastings Street | 
 www.sfuwoodwards.ca
@@ -1035,7 +1035,7 @@ Shed
 prOphecy sun
 Mark Dahl
 DJ Shumi
-& many moreâ€¦.
+& many more….
 
 119 Main Street, Vancouver
 (just southwest of Alexander)
@@ -1090,13 +1090,13 @@ series/2011-2012.html
 Background bio:
 
 John T. Young is a Harley riding art professor, public artist and host of KCTS-9 
-Public Televisionâ€™s You Call That Art?! He taught Sculpture and Public Art at the 
+Public Television’s You Call That Art?! He taught Sculpture and Public Art at the 
 University of Washington in Seattle, the Public Art Capital of the world, for 25 
 years. He is also a nationally renowned sculptor, having created over 35 large 
 scale outdoor public commissions for cities, counties, and national universities. 
 His work has been exhibited at OK Harris Gallery in New York City since 1986 
 and written about in the New York Times, the Wall Street Journal, Andy 
-Warholâ€™s Interview Magazine, among many others. An author too, he wrote 
+Warhol’s Interview Magazine, among many others. An author too, he wrote 
 Contemporary Public Art in China, the only book in the English language on the 
 subject. John is the soul, inspiration and heart of this production and his ideas, 
 analysis and critiques are You Call That Art?!
@@ -1124,7 +1124,7 @@ camera speeds, exposures, single-framing (animation), in-camera
 editing, and an intro to B/W film, with hands-on collaborative film
 shooting. Day 2 focuses on processing your own B/W Super-8 movie
 film, with hands-on developing trials in our Annex darkroom. Film
-will be transferred by Cineworksâ€™ telecine transfer service, and on
+will be transferred by Cineworks’ telecine transfer service, and on
 Day 3, participants will be able to focus on editing and exhibition
 possibilities, including an overview of Final Cut Pro capabilities,
 sound, and different methods of presenting the film. This workshop is
@@ -1151,9 +1151,9 @@ $100 Non-Members
 *workshop includes Super-8 film and developing chemicals
 
 TO REGISTER:
-By Phone â€“ 604-685-3841
-In Person â€“ Suite 300- 1131 Howe St. (back lane entrance)
-By Email â€“ info@cineworks.ca
+By Phone – 604-685-3841
+In Person – Suite 300- 1131 Howe St. (back lane entrance)
+By Email – info@cineworks.ca
 
 www.cineworks.ca
 
@@ -1214,7 +1214,7 @@ and also through a regular call for submissions.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-01-12-21-city-of-vancouver-viva-vancouver-program-call-jan-31">21. City of Vancouver | VIVA Vancouver program CALL | JAN 31</a>
 ------------------------------------------------------------------------
-The City of Vancouverâ€™s VIVA Vancouver program is seeking innovative 
+The City of Vancouver’s VIVA Vancouver program is seeking innovative 
 conceptual designs for seasonal public space projects in 2012. Seasonal public 
 spaces are pedestrian oriented temporary public spaces that are created 
 through the closure of select roadway on a 24-hour basis for an extended 
@@ -1243,7 +1243,7 @@ vancouver.ca/viva
 
 
 The British School at Rome
-Residencies in Rome 2012â€“13
+Residencies in Rome 2012–13
 
 www.bsr.ac.uk
 
@@ -1281,7 +1281,7 @@ our communal dining room, 24-hour access to our historic library
 collection, a research grant, and at least one group show; they are 
 tenable for three, nine or twelve months.
 
-The awards available for 2012â€“13 include: the inaugural Rome 
+The awards available for 2012–13 include: the inaugural Rome 
 Fellowship in Contemporary Art; Abbey Scholarship and Fellowships; 
 Australia Council Residencies; the Derek Hill Foundation Scholarship; 
 and the Sainsbury Scholarship in Painting and Sculpture.
@@ -1299,10 +1299,10 @@ Mainly January 2012
 ------------------------------------------------------------------------
 EXTENDED- Call for Submissions: Emerging Artist Research Residency 2012
 
-The University of Windsorâ€™s School of Visual Arts offers a one-month Emerging 
+The University of Windsor’s School of Visual Arts offers a one-month Emerging 
 Artist Research Residency program. This residency is an opportunity for 
 emerging artists to cultivate new ideas through research and production, access 
-the schoolâ€™s resources and facilities, and explore arts and culture in the border 
+the school’s resources and facilities, and explore arts and culture in the border 
 region of Windsor/ Detroit.
 
 Resources available include; Sculpture Studio and equipment, Multi media, 
@@ -1371,7 +1371,7 @@ Artworks include small scale and temporary projects, to monumental
 sculptures. Come and be entertained and amazed by recent international public 
 art practices. 
 
-Information on the City of Surreyâ€™s Public Art Program and Surreyâ€™s own Public 
+Information on the City of Surrey’s Public Art Program and Surrey’s own Public 
 Art Collection will also be available.
 
 For further information contact:
@@ -1418,7 +1418,7 @@ Vancouver, B.C.
 Open 7 days a week during normal business hours.
 See Pulpfiction Books (2422 Main Street) for admission.
 
-Johannes Bendzulla is an Italian artist based in DÃ¼sseldorf, Germany.
+Johannes Bendzulla is an Italian artist based in Düsseldorf, Germany.
 He will be present at the opening.
 
 ------------------------------------------------------------------------
@@ -1427,24 +1427,24 @@ He will be present at the opening.
 Room Magazine CALL FOR SUBMISSIONS for Winter 2012: Deadline 
 May 30,2012
 
-Room is Canadaâ€™s oldest literary journal by, and about women.
+Room is Canada’s oldest literary journal by, and about women.
 http://www.roommagazine.com/
 
 Room is a space where women can speak, connect, and showcase 
 their creativity. Each quarter, for 33 issues, Room has been publishing 
 original, thought-provoking works, by emerging and established 
-Canadian women writers and artists that reflect womenâ€™s strength, 
+Canadian women writers and artists that reflect women’s strength, 
 sensuality, vulnerability, and wit.
 
-Theme for 35.4: Womenâ€™s work, unionization, the work we do freely 
+Theme for 35.4: Women’s work, unionization, the work we do freely 
 from our hearts, birthing a child into the fresh air, all of these things are 
-connected. Roomâ€™s issue 35.4 will address and celebrate the 
+connected. Room’s issue 35.4 will address and celebrate the 
 completion of our 35th anniversary volume with the theme of Labour.
 
 Room is looking for original, unpublished art, fiction, creative non-
-fiction, and poetry that explore all iterations of womenâ€™s labour, from a 
+fiction, and poetry that explore all iterations of women’s labour, from a 
 labour of love, birth labour, the labour movement, traditional and non-
-traditional womenâ€™s laboursâ€”we want to see them all.
+traditional women’s labours—we want to see them all.
 
 (To see what kind of work we publish, check out our current issue, 
 34.4, Siblings, featuring new work by Elizabeth Hay, or any recent back 
@@ -1465,7 +1465,7 @@ sent to arteditor@roommagazine.com
 <mailto:arteditor@roommagazine.com>, (include submission for labour 
 issue and your last name in the subject line).
 
-Newsroom: to stay current with Roomâ€™s calls and events, sign-up for our 
+Newsroom: to stay current with Room’s calls and events, sign-up for our 
 newsletter <http://www.roommagazine.com/newsletter.html> 
 http://www.roommagazine.com/newsletter.html.
 For Queries: contactus@roommagazine.com 

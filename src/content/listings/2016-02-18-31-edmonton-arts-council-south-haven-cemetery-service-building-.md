@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 31
 type: "CALL"
+venue: "Edmonton Arts Council"
 summary: "Edmonton Arts Council | South Haven Cemetery Service Building | MAR 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 14
 type: ""
+venue: "The Burrard Hotel"
 summary: "The Burrard Hotel | jamcouver | JUN 15"
 ---
 
@@ -11,7 +12,7 @@ http://www.hoteltakeover.eventbrite.ca/
 
 Color Magazine, Red Bull and Skullcandy invite you to staycation, Saturday
 June 15th, with 3 floors and 24 rooms at The Burrard transformed by
-artistsâ€”both visual and soundâ€”creating a unique interactive experience for
+artists—both visual and sound—creating a unique interactive experience for
 those looking for a little more in a party.
 
 HUMANS in concert!!! +
@@ -19,7 +20,7 @@ http://dashumans.bandcamp.com/
 Announcing the 2013 Jamcouver skate teams, featuring the INSANE, all-new
 custom built skateboard ramp on-site for your entertainment.
 plus
-Student Loan Recordsâ€™ Garage Party/Record release for
+Student Loan Records’ Garage Party/Record release for
 Aaron Read & KoKo.
 http://aaronread.bandcamp.com/
 http://koko1.bandcamp.com/album/kill-me-first

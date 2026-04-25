@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 21
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Online Exhibit: Sticky Impulse | APR 28"
 ---
 

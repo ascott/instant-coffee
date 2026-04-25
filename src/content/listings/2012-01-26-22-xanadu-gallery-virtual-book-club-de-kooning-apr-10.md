@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 22
 type: ""
+venue: "Xanadu Gallery"
 summary: "Xanadu Gallery | Virtual Book Club | de Kooning | APR 10"
 ---
 

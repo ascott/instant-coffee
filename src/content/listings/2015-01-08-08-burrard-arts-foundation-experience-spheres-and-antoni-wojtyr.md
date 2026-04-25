@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 8
 type: "OPENING"
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | Experience Spheres and Antoni Wojtyra | JAN 10"
 ---
 
@@ -21,7 +22,7 @@ and soundscapes.
 
 The project is an mirror of the transformative theatre experience that PuSh
 Festival provides to its audiences. The Experience Spheres seek to deepen
-the participantsâ€™ sense of place, belonging and temporalityâ€”to emerge with
+the participants’ sense of place, belonging and temporality—to emerge with
 a more fully rounded understanding and awareness of their place in the world.
 
 2. BAF is delighted to present new paintings by BAF studio resident: Antoni

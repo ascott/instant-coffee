@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 1
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Underground Man: screening | NOV 19"
 ---
 
@@ -60,7 +61,7 @@ Keren Cytter, Four Seasons, 2009, DVD, duration 12:00
 Tarje Eikanger Gullaksen, Unfinished Symphony, 2009, DVD, duration 19:00
 Eliza Newman-Saul, Nothing Will Come of Nothing, 2009, DVD, duration 9:24
 Chto Delat/What is to be done?, Partisan Songspiel, 2009, DVD, duration 29:00
-Isabelle Cornaro, Premier rÃƒÂ©ve d'Oskar Fischinger, 2008, DVD, duration 1:41
+Isabelle Cornaro, Premier rÃ©ve d'Oskar Fischinger, 2008, DVD, duration 1:41
 and 1:33
 Susan Hiller, The Last Silent Movie, 2007, DVD, duration 20:00
 
@@ -89,7 +90,7 @@ City of Vancouver, and donors.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday Ã¢â‚¬â€œ Saturday, 12-5pm
+* Tuesday â€“ Saturday, 12-5pm
 * Admission is free
 
 If you no longer wish to receive these emails click HERE to uns

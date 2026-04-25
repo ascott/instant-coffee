@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 16
 type: "TALK"
+venue: "UBC AHVA"
 summary: "UBC AHVA | All that matters is the story | SEP 27"
 ---
 

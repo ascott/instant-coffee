@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 19
 type: "OPENING"
+venue: "ECUAD - Micheal O'Brian Exhibition Commons"
 summary: "ECUAD - Micheal O'Brian Exhibition Commons | MFA 2018 Thesis Exhibition | 6-9PM | APR 5"
 ---
 

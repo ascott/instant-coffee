@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 17
 type: "EVENT"
+venue: "The Foreshore"
 summary: "The Foreshore | How can we feel powerful instead of powerless? | APR 10"
 ---
 

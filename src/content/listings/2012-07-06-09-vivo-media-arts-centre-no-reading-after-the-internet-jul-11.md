@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 9
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | No Reading After the Internet | JUL 11"
 ---
 

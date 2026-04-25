@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 10
 type: "TALK"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Ben Reeves | 6:30PM | JUL 19"
 ---
 

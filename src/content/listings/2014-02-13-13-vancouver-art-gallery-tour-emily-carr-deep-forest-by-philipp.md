@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 13
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Tour Emily Carr: Deep Forest by Philippe Raphanel | FEB 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 19
 type: ""
+venue: "LIGHTHOUSE WIRE MAGAZINE"
 summary: "LIGHTHOUSE WIRE MAGAZINE | ACCEPTING SUBMISSIONS FOR ITS 2009-2010 ISSUE | DEC 31"
 ---
 

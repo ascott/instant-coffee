@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 17
 type: ""
+venue: "Centre A"
 summary: "Centre A | Leila Sujir and Maria Lantin | NOV 15"
 ---
 
@@ -12,8 +13,8 @@ CENTRE A
 A CHORUS OF LUNGS
 Leila Sujir and Maria Lantin
 
-November 15, 2013 â€“ January 25, 2014
-Gallery Hours: Tuesday â€“ Saturdays, 11am-6pm
+November 15, 2013 – January 25, 2014
+Gallery Hours: Tuesday – Saturdays, 11am-6pm
 Opening Reception: Friday, November 15, 2013, 7pm
 
 â€œA Chorus of Lungsâ€  is a 3D interactive sound and video installation that 
@@ -25,7 +26,7 @@ create a space for the lungs to become a chorus both visually and audibly.
 The intention is that this installation produces a space of agency for the 
 viewer, re-considering the relationship between art object and viewer, but also 
 exploring tensions and possibilities inherent to the notion of community. The 
-artists state, â€œWe are exploring the tensions between community, chorus, and 
+artists state, “We are exploring the tensions between community, chorus, and 
 individual voicing with an attentiveness to our singular and collective being.â€  
 The work addresses ideas of the individual and society, and within the 
 consideration of Asian identities, reflects on approaches to individual 
@@ -40,7 +41,7 @@ facilitated by the artists.
 
 Leila Sujir is a South Asian-Canadian artist and professor at Concordia 
 University in the Intermedia Cyberarts (IMCA) program of the Studio Arts 
-Department. Sujirâ€™s video works have been shown in exhibitions, including 
+Department. Sujir’s video works have been shown in exhibitions, including 
 group shows at the Museum of Modern Art in New York, the Tate Gallery in 
 Liverpool, UK as well as galleries and festivals all over the world, and are in 
 collections, including the National Gallery of Canada.

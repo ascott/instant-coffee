@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 10
 type: ""
-summary: "Day for Night: Films in the Afternoon | Claire Denis & FranÃ§ois Truffaut | MAY 29"
+venue: "Day for Night: Films in the Afternoon"
+summary: "Day for Night: Films in the Afternoon | Claire Denis & François Truffaut | MAY 29"
 ---
 
 Day for Night: Films in the Afternoon presents a double bill of French
-cinema: Claire Denis's "Beau Travail" and FranÃ§ois Truffaut's "The
+cinema: Claire Denis's "Beau Travail" and François Truffaut's "The
 Story of Adele H."
 
 The Waldorf Hotel |1489 East Hastings
@@ -33,20 +34,20 @@ punctuations.
 
 Followed at 3:45 by:
 
-L'Histoire d'AdÃ¨le H. (The Story of Adele H.)
-Directed by FranÃ§ois Truffaut
+L'Histoire d'Adèle H. (The Story of Adele H.)
+Directed by François Truffaut
 1975
 95 minutes
 
-Based on the real-life diaries of AdÃ¨le Hugo (and impeccably
+Based on the real-life diaries of Adèle Hugo (and impeccably
 photographed by Nestor Almendros), The Story of Adele H. is a
 psychological drama opening in Halifax, Nova Scotia, in the 1860s. The
-daughter of famous French writer Victor Hugo, AdÃ¨le (Isabelle Adjani)
-has left her father's home to seek out her fiancÃ©, the English soldier
+daughter of famous French writer Victor Hugo, Adèle (Isabelle Adjani)
+has left her father's home to seek out her fiancé, the English soldier
 Lt. Albert Pinson (Bruce Robinson). Pinson wants nothing to do with
 her, but she still obsessively follows him and spies on his affairs.
 Unable to cope with the truth, and using her imagination and her
-feelings as carefully as someone writing a piece of fiction, AdÃ¨le
+feelings as carefully as someone writing a piece of fiction, Adèle
 created another world where she became Lieutenant Pinson's wife, where
 love was her religion (and no humiliation too great a sacrifice), and
 where she kept a coded journal. It is this journal that is the basis

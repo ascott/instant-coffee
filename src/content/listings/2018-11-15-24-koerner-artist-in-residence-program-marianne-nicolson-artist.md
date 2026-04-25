@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 24
 type: "TALK"
+venue: "Koerner Artist in Residence Program"
 summary: "Koerner Artist in Residence Program | Marianne Nicolson Artist Talk | 530PM | NOV 21"
 ---
 

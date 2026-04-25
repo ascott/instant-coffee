@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 6
 type: "TALK"
+venue: "[ONLINE] SFU"
 summary: "[ONLINE] SFU | Visual Art Forum: Oliver Ressler | 9:30AM"
 ---
 

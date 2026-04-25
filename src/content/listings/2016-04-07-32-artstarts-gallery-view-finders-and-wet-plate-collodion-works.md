@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 32
 type: "OPENING"
+venue: "ArtStarts Gallery"
 summary: "ArtStarts Gallery | View Finders and Wet Plate Collodion Workshop | APR 16"
 ---
 

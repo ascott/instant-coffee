@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 19
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Andrea Pinheiro - Pulp | FEB 13"
 ---
 
@@ -27,7 +28,7 @@ surface through the application of a painted mask. In the first, small
 pinhole images are reduced to little more than gestures hidden beneath
 thick daubs of paint. The wide angle distortion of the lens used transforms
 the photographic index into a semi-abstracted island on the photo paper.
-Pinheiroâ€™s Paper series shifts the responsibility of the camera as
+Pinheiro’s Paper series shifts the responsibility of the camera as
 documentarian to the scanner, where sheets of blank photographic paper are
 applied with paint and allowed to transform within the bed of the scanner,
 as the colour shifts through its exposure to light.

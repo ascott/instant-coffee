@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 25
 type: ""
+venue: "Artspeak and Fillip"
 summary: "Artspeak and Fillip | Judgment and Contemporary Art Criticism | FEB 27"
 ---
 
@@ -78,7 +79,7 @@ include: Argument Son - Critique electroacoustique de la societe;
 Sexbeat; 2000 Schallplatten; Loving the Alien (Editor); andYo!
 Hermeneutics-Schwarze Kulturkritik: Pop, Medien, Feminismus (Editor).
 He is currently professor of Theory, Practice and Communication of
-Contemporary Art at the Akademie der Bildenden KÃ¼nste in Vienna.
+Contemporary Art at the Akademie der Bildenden Künste in Vienna.
 
 Sylvie Fortin is Editor-in-Chief of Art Papers and is based in
 Atlanta. A curator, art historian, critic and editor, she has worked
@@ -122,7 +123,7 @@ British Columbia.
 
 Tirdad Zolghadr works as a freelance curator, writes for Frieze
 magazine and has also contributed to Parkett, Bidoun, Cabinet,
-Afterall, Neue ZÃ¼rcher Zeitung, Straits Times Singapore, and other
+Afterall, Neue Zürcher Zeitung, Straits Times Singapore, and other
 publications. Since 2004, Zolghadr has curated events at Cubitt
 London, IASPIS Stockholm, Kunsthalle Geneva, various Tehran art spaces
 and other venues. He was co-curator of the International Sharjah

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 3
 type: ""
+venue: "UBC"
 summary: "UBC | Arms Are Overrated:Artist Talk by Stanya Kahn | JAN 17"
 ---
 
-Arms Are Overrated: An Artist's Talk by Stanya KahnÃ¢â‚¬
+Arms Are Overrated: An Artist's Talk by Stanya Kahnâ€
 Distinguishing Visiting Artist Program
 Department of Art History, Visual Art & Theory, University of British Columbia
 
@@ -17,7 +18,7 @@ Thursday, January 17th, 2013
 
 Stanya Kahn is an interdisciplinary artist working primarily in video, with a
 practice that includes performance, writing, sound design, drawing, animation
-and digital media. KahnÃ¢â‚¬â„¢s hybrid media practice borrows from pop 
+and digital media. Kahnâ€™s hybrid media practice borrows from pop 
 vernacular,
 documentary tropes, improvisation, comedy and experimental film/video
 praxis in its re-working of signs, function and meanings in narrativity. The work
@@ -26,22 +27,22 @@ extensive background in live performance. Integrating the scripted with the
 candid, Kahn addresses issues like agency, power, trauma and the uses and
 failings of language.
 
-"Stanya KahnÃ¢â‚¬â„¢s first solo exhibition at this gallery features three thirty- to
+"Stanya Kahnâ€™s first solo exhibition at this gallery features three thirty- to
 forty-minute videos that smack of YouTube vernacular: handheld camera; on-
 camera mic; footage of friends, family, and little kids playing piano. Closer
 observation reveals masterful application of Eisensteinian editing, with
 meticulously choreographed sound tracks and threads of epistemological
-ruminations that indicate a philosophical conscientiousness thatÃ¢â‚¬â„¢s often
-overlooked in conversations about KahnÃ¢â‚¬â„¢s work. Each video canvasses 
+ruminations that indicate a philosophical conscientiousness thatâ€™s often
+overlooked in conversations about Kahnâ€™s work. Each video canvasses 
 the
 concerns and coping mechanisms of a contemporary subject who is forging
 her way through a world in crisis. Before you roll your eyes at the apparent
 pedantry of it all, consider that each work is peppered with slyly subversive
-jokesÃ¢â‚¬â€œÃ¢â‚¬â€œabout butts, blondes, and sexÃ¢â‚¬â€œÃ¢â‚¬â€œas well as remarkable 
+jokesâ€“â€“about butts, blondes, and sexâ€“â€“as well as remarkable 
 personal
 stories and an impressive stream of eclectic facts about animals, ecology,
-and health. KahnÃ¢â‚¬â„¢s characters are contemporary flaneurs, and each is
-steadfast on a physical or linguistic dÃƒÂ©rive that takes the viewer through
+and health. Kahnâ€™s characters are contemporary flaneurs, and each is
+steadfast on a physical or linguistic dÃ©rive that takes the viewer through
 narratives of mortality, trauma, family, and the ethics of civic and ecological
 responsibility."
 Micol Hebron, Stanya Kahn, Critics Pick, Artforum, 2010
@@ -52,7 +53,7 @@ collaborative works have shown in numerous venues nationally and
 internationally including The Whitney Biennial (2008); The California Biennial
 (2010); MoMA/NY; MOCA/LA; The Getty Center/LA, the Hammer
 Museum/LA; the Sundance Film Festival; Migrating Forms Film Festival; the
-Center for Art and Media/KarlsrÃƒÂ¼he; PS1 Museum of Contemporary Art/NY;
+Center for Art and Media/KarlsrÃ¼he; PS1 Museum of Contemporary Art/NY;
 Contemporary Center for Art/Vilnius, Lithuania; MIT, Cambridge; ICA,
 Philadelphia; Kunstalle, Bonn, GDR; The Brooklyn Museum, NY; The
 Hayward Gallery, London; Susanne Vielmetter Los Angeles and Elizabeth
@@ -67,6 +68,6 @@ http://www.ahva.ubc.ca
 
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 Ã¢â‚¬â€œ 6333 Memorial Road
+400 â€“ 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 16
 type: ""
+venue: "VIVO"
 summary: "VIVO | No Reading After the Internet | Giorgio Agamben, \"Notes on Gesture\" | JUN 16"
 ---
 

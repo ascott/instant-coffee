@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 22
 type: "CALL"
+venue: "Dundarave Print Workshop + Gallery"
 summary: "Dundarave Print Workshop + Gallery | Open Call for Submissions | MAR 1"
 ---
 

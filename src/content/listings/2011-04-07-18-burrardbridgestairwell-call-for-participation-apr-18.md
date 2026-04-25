@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 18
 type: ""
+venue: "burrardbridgestairwell"
 summary: "burrardbridgestairwell | Call for Participation | APR 18"
 ---
 
@@ -31,7 +32,7 @@ images in cinema.
 
 The artists are searching for interested individuals and groups to
 sign up to enter into the stairwell and act as extras in our project
-from April 18 to 22. Youâ€™ll have an opportunity to enter an incredible
+from April 18 to 22. You’ll have an opportunity to enter an incredible
 space, see a unique camera apparatus, and be a part of our shoot. 
 To
 participate in the project and for more information please send your

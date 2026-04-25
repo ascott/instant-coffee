@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 13
 type: "OPENING"
+venue: "Deluge Contemporary Art Victoria"
 summary: "Deluge Contemporary Art Victoria | Coupling - Michael Doerksen | JUL 3"
 ---
 
@@ -33,9 +34,9 @@ idyllic unspoiled wilderness.
 
 Finally, Doerksen will exhibit an ongoing large-scale drawing based on this
 found image, painstakingly inscribing the source material. The recombinant
-nature of photographic reproductionâ€”where the vernacular functions not as a
+nature of photographic reproduction—where the vernacular functions not as a
 real language but rather as an abstract set of norms formalized within the
-frameâ€”alongside fossil forms and drawing-as-industry allows the artist to
+frame—alongside fossil forms and drawing-as-industry allows the artist to
 deeply consider the measure and substance of history located in
 contemporary forms of idiomatic representation. The suggestion, as a
 science fiction plot, is that the coupled pleuroceras is mysteriously
@@ -50,7 +51,7 @@ Concordia University in Montreal. His work has evolved as an continuing
 sculptural treatment of the facts of objects in space and the fictions that
 pervade them. He has exhibited nationally and internationally, both
 independently and as a member of the video/performance based art collective
-The Discriminating Gentlemenâ€™s Club. Doerkson was the lead guitarist for
+The Discriminating Gentlemen’s Club. Doerkson was the lead guitarist for
 Sunset Rubdown which released four LPs, two EPs and toured internationally
 before disbanding in 2009. Represented by Galerie Lilian Rodriguez in
 Montreal, Doerksen currently lives in Banff, Alberta where he works at The

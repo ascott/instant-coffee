@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 17
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Anne Low | Chair for a woman | 7 pm | JAN 18"
 ---
 

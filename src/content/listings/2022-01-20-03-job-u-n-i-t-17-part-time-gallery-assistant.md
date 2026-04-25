@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 3
 type: ""
+venue: "JOB"
 summary: "JOB | U N I T 17 | part-time gallery assistant"
 ---
 

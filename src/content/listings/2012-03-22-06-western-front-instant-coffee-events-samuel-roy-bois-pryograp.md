@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 6
 type: ""
+venue: "Western Front"
 summary: "Western Front | Instant Coffee Events | Samuel Roy Bois & Pryography | MAR 24"
 ---
 
@@ -25,7 +26,7 @@ lumber solidly glued together. Cut from douglas fir, one of the hardest
 softwoods, each stool is the playful result of the simplification of form 
 and process.
 
-Samuel Roy Boisâ€™s work will be on display until March 29th.
+Samuel Roy Bois’s work will be on display until March 29th.
 
 ALSO on Saturday
 
@@ -34,7 +35,7 @@ Pryography (Woodburning) Workshop 2-5pm
 Come, burn a design on a piece of wood and make a button 
 
 as part of Instant Coffee, Feeling So Much Yet Doing So Little, a 
-tangential revisiting of the Canadian Artist Collectiveâ€™s prodigious 12 
+tangential revisiting of the Canadian Artist Collective’s prodigious 12 
 year history and an indirect hypothesizing of their speculative future, 
 each Saturday Instant Coffee has invited artists, critics and curators to 
 host a series of low key events.

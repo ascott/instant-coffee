@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 31
 type: "CALL"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | SOUND OF THE SUN, VOLUME III | APR 5"
 ---
 

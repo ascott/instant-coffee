@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 18
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Derek Coulombe | FEB 21"
 ---
 

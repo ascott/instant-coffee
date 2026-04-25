@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vegetabled Micro Email Utopia"
 emailDate: "Wed, 17 Jan 2024 21:50:14 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Western Front"
 summary: "Western Front | Dani and Sheilah ReStack | JAN 13"
 ---
 

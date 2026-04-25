@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 21
 type: ""
+venue: "Vantage Art Projects"
 summary: "Vantage Art Projects | EXHIBITION-IN-PRINT Vol. II: CALL | DEC 31"
 ---
 
@@ -64,7 +65,7 @@ utilities. please contact suzan at smarczak75@hotmail.com to view the space.
 2.
 The Gam | looking to share studio space
 Our artist collective â€œThe Gam,â€  has just acquired an amazing new space.
-It is a 2000 sq. ft. gallery/studio within an artistsâ€™ only building.
+It is a 2000 sq. ft. gallery/studio within an artists’ only building.
 Aroused? We are looking to share our space with a dynamic, easy-going
 individual that is willing to work in an open, collective environment. This
 special someone should also be excited about the opportunity to take part

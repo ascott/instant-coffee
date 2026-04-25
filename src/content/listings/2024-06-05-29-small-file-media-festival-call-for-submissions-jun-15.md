@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 29
 type: "CALL"
+venue: "Small File Media Festival"
 summary: "Small File Media Festival | Call for Submissions | JUN 15"
 ---
 

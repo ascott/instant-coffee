@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 21
 type: "OPENING"
+venue: "Fingerprint Gallery"
 summary: "Fingerprint Gallery | Copy/Paste Culture | OCT 18"
 ---
 

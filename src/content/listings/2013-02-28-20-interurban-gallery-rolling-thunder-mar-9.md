@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 20
 type: ""
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | ROLLING THUNDER | MAR 9"
 ---
 
@@ -67,7 +68,7 @@ THE STORYBOARD LABEL
 SBL is a loosely formulated art and music collective in Vancouver, BC. 
 www.storyboardlabel.com
 
-Copyright Â© 2013 Storyboard Label, All rights reserved. 
+Copyright © 2013 Storyboard Label, All rights reserved. 
 Somehow you ended up on this list, if you want off, please unsubscribe. 
 
 Our mailing address is: 

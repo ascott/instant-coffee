@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 13
 type: ""
+venue: "Project Space"
 summary: "Project Space |  hiring an intern"
 ---
 
@@ -22,9 +23,9 @@ studio run by OCW Arts & Publishing Foundation in collaboration with
 Project Space Studio. As the possibilities inherent to digital space 
 become increasingly infinite, the roles of physical and print spaces are 
 being redefined. Project Space examines, challenges and supports this 
-redefinition process by presenting print and in-person projectsâ€”
+redefinition process by presenting print and in-person projects—
 including a curated selection of publications, exhibitions, workshops, 
-lectures and readingsâ€”for artists, designers, writers, curators and 
+lectures and readings—for artists, designers, writers, curators and 
 publishers. Our shop features a curated selection of art, design and 
 literary publications with a focus on those that are rare, independent, 
 small-run, limited-edition or locally-produced. 

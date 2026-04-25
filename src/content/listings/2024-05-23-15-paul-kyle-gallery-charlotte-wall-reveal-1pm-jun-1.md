@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 15
 type: "OPENING"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Charlotte Wall: Reveal | 1PM | JUN 1"
 ---
 

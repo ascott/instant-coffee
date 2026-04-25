@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 1
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | How Long Can You Contain an Echo? | SEP 17"
 ---
 

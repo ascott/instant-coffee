@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 11
 type: ""
+venue: "Read Books"
 summary: "Read Books | ABRRR: Arnaud Desjardin | NOV 12"
 ---
 
@@ -31,7 +32,7 @@ workshop at READ,
 present an exhibition at Unit/Pitt Projects and launch his latest book at 
 Satellite Gallery.
 
-Artistsâ€™ Books Research Residency
+Artists’ Books Research Residency
 November 12-27, 2013
 Emily Carr University Library
 
@@ -49,7 +50,7 @@ READ Books | Charles H. Scott Gallery
 
 A five session workshop that will focus directly on re-publishing documents 
 selected by 
-the participants, who will each produce a reprint/re-edition/ etcâ€¦of a piece of 
+the participants, who will each produce a reprint/re-edition/ etc…of a piece of 
 art related 
 printed matter (book, magazine, catalogue, ephemera, zine, poster, 
 announcement, manifesto, etc.) 
@@ -69,17 +70,17 @@ magazine
 published in New York in 1975 and 1976 by the American chapter of British
 conceptual art group, Art & Language.
 For more information please visit http://www.helenpittgallery.org
-The Book on Books on Artistsâ€™ Books 
+The Book on Books on Artists’ Books 
 Book Launch/Artist Talk
 Saturday, November 23 at 2:30
 READ Books at the Satellite Gallery
 560 Seymour St, Vancouver
 READ in collaboration with Satellite, presents the launch of Arnaud 
-Desjardinâ€™s
-The Book on Books on Artistsâ€™ Books (BOBOAB). BOBOAB is a bibliography
-of books, pamphlets and catalogues on artistsâ€™ books since the early 1970s 
+Desjardin’s
+The Book on Books on Artists’ Books (BOBOAB). BOBOAB is a bibliography
+of books, pamphlets and catalogues on artists’ books since the early 1970s 
 that
-informs, describes and promotes the distribution and circulation of artistsâ€™ 
+informs, describes and promotes the distribution and circulation of artists’ 
 books.
 The launch will be accompanied by a short talk by the artist.
 For further information please see http://www.satellitegallery.ca

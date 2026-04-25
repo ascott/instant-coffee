@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 8
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Diyan Achjadi | Barbara Zeigler | MAY 28"
 ---
 

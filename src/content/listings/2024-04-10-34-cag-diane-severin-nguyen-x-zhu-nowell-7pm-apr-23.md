@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 34
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Diane Severin Nguyen & X Zhu-Nowell | 7PM | APR 23"
 ---
 

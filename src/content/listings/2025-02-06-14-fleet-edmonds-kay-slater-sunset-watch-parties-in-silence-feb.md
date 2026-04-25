@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 14
 type: "EVENT"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Kay Slater: Sunset Watch Parties in Silence | FEB 7"
 ---
 

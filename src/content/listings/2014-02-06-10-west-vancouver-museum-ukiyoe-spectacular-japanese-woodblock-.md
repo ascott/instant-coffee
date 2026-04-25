@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 10
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Ukiyoe Spectacular: Japanese woodblock prints | FEB 12"
 ---
 
@@ -69,5 +70,5 @@ first come first served basis.
 West Vancouver Museum
 680 17th Street, West Vancouver, BC V7V 3T2
 Westvancouvermuseum.ca
-Open: Tue-Sat, 11am â€“ 2 pm
+Open: Tue-Sat, 11am – 2 pm
 Admission by donation.

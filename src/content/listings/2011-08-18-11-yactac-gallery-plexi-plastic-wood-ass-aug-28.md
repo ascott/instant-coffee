@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 11
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | PLEXI, PLASTIC, WOOD & ASS | AUG 28"
 ---
 
@@ -30,14 +31,14 @@ patrickcruz0@gmail.com
 
 Janice Cheung is a Vancouver based installation artist with a 
 background in photography and extended media through the 
-University of Guelph Ontario. Cheungâ€™s work consists of interactive 
+University of Guelph Ontario. Cheung’s work consists of interactive 
 multimedia installations, often incorporating a multiple of some kind.
 
 Mike Ness is a 27-year old graduate of the Ontario College of Art 
 and Design. Ness' work, which could be described as "emotional 
 surrealism," communicates love, sex and humor. This is 
 particularly evident in pieces such as "Raging Heterosexual" 
-and "Never Being Boring" â€” a naughty, playful and perverted self-
+and "Never Being Boring" — a naughty, playful and perverted self-
 portrait.
 
 Mike Gagne is an illustrator living in Toronto; He studied at the 

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 13
 type: ""
+venue: "Centre A"
 summary: "Centre A | Hajra Waheed | SEP 13"
 ---
 
 CENTRE A'S FALL 2013 EXHIBITION REFLECTS ON LIFE WITHIN THE
 GATED SAUDI ARAMCO HEADQUARTERS
 
-Centre A announces its Fall 2013 exhibition, Ã¢â‚¬Å“Minutes from a Second 
+Centre A announces its Fall 2013 exhibition, â€œMinutes from a Second 
 Story
 by Hajra Waheed.
 
@@ -19,10 +20,10 @@ Contemporary Asian Art is delighted to host Montreal-based artist Hajra
 Waheed's solo exhibition, Minutes from a Second Story . Born in Calgary,
 Waheed was raised within the gated headquarters of Saudi ARAMCO, the
 largest transnational oil corporation in the world and home base to 25% of the
-worlds oil exports. Minutes from a Second StoryÃ¢â‚¬ is a comprehensive body 
+worlds oil exports. Minutes from a Second Storyâ€ is a comprehensive body 
 of
 work that includes video and mixed media works on paper that reflect upon
-WaheedÃ¢â‚¬â„¢s experiences of growing up in ARAMCOs gated compound.
+Waheedâ€™s experiences of growing up in ARAMCOs gated compound.
 
 Centre A is proud to commission a new body of small format video works
 titled The Video Project (2012), which reflect broadly on everyday life in the
@@ -31,7 +32,7 @@ Scrapbook Project (2010-11), a 34 page visual diary that recuperates and
 reconsiders an important period of Gulf history, between the end of the Cold
 War and beginning of the first Gulf War.
 
-Ã¢â‚¬Å“It was during my most formative years, that I began studying this place 
+â€œIt was during my most formative years, that I began studying this place 
 with a
 discerning eye. I realized how critical it was/is to begin to make better sense
 of this rather strange lived experience states Waheed. Though it is by no
@@ -78,7 +79,7 @@ partnerships and programmes that generate new thinking around the material
 in the collection and about the art of the region. Earlier, he co-founded and
 was Curatorial Director of the London-based arts organization Green
 Cardamom. He was a Fellow of the Clore Leadership Programme, Research
-Fellow at Goldsmith College, and Arts Director for the UKÃ¢â‚¬â„¢s Festival of 
+Fellow at Goldsmith College, and Arts Director for the UKâ€™s Festival of 
 Muslim
 Cultures (2006-07). His recent projects include: Safavids Revisited at the
 British Museum (2009); Where Three Dreams Cross at the Whitechapel
@@ -98,7 +99,7 @@ Story by Hajra Waheed.
 Asia Art Archive is an independent, non-profit organization dedicated to
 documenting the recent history of contemporary art in Asia within an
 international context. Founded in 2000, AAA is widely regarded as one of the
-worldÃ¢â‚¬â„¢s leading public resources for contemporary art in Asia. It continues 
+worldâ€™s leading public resources for contemporary art in Asia. It continues 
 to
 grow through a systematic program of research and critical engagement.
 
@@ -120,7 +121,7 @@ in conversation with Haema Sivanesan
 Saturday, October 12, 2013
 3pm
 
-Hajra WaheedÃ¢â‚¬â„¢s art practice responds to strictly imposed restrictions on
+Hajra Waheedâ€™s art practice responds to strictly imposed restrictions on
 photography during her years growing up in Saudi Arabia. This panel
 discussion examines histories of aniconism in the Arab-Islamic world, and its
 tense relation to visual cultures and photo-practices that are ubiquitous in the
@@ -138,9 +139,9 @@ contemporary Asian art, foregrounding a range of diverse contemporary
 artistic practices
 
 Centre A provides a platform for art that engages and educates, promoting
-critical thought and reflective experiences. The CentreÃ¢â‚¬â„¢s gallery space, in 
+critical thought and reflective experiences. The Centreâ€™s gallery space, in 
 the
-heart of VancouverÃ¢â‚¬â„¢s Chinatown, welcomes artists and visitors from 
+heart of Vancouverâ€™s Chinatown, welcomes artists and visitors from 
 diverse
 backgrounds.
 
@@ -155,7 +156,7 @@ generosity of our patrons, donors, members and volunteers.
 
 - 30 -
 
-Available for comment on Ã¢â‚¬Å“Minutes from a Second StoryÃ¢â‚¬ :
+Available for comment on â€œMinutes from a Second Storyâ€ :
 
 Centre A Executive Director: Haema Sivanesan
 

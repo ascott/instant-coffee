@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 23
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Archie Barry: Try Keeping an Open Channel | 6PM | SEP 6"
 ---
 

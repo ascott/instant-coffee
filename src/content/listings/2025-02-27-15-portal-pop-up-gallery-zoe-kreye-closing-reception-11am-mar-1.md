@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 15
 type: "EVENT"
+venue: "PORTAL POP-UP GALLERY"
 summary: "PORTAL POP-UP GALLERY | Zoe Kreye | CLOSING RECEPTION | 11AM | MAR 1"
 ---
 

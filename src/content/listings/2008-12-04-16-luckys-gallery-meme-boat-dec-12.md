@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yes we no"
 emailDate: "Wed, 03 Dec 2008 22:30:06 -0800"
 number: 16
 type: "OPENING"
+venue: "LUCKY'S GALLERY"
 summary: "LUCKY'S GALLERY | MEME BOAT | DEC 12"
 ---
 

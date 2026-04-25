@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 3
 type: ""
+venue: "Club PuSh"
 summary: "Club PuSh | event listings | JAN 16"
 ---
 
 Club PuSh
 At the PuSh International Performing Arts Festival
-January 16 - February 1, 2014, Thuâ€“Sun
+January 16 - February 1, 2014, Thu–Sun
 Performance Works. 1218 Cartwright Street, Granville Island. 19+
 
-Club PuSh is a dynamic space that is all about experimentationâ€”cutting-edge 
+Club PuSh is a dynamic space that is all about experimentation—cutting-edge 
 Marquee Act performances suited for a less traditional, more informal venue. 
 It's also the social hub of the Festival and the best place to grab a drink, hang 
 out with other festival-goers and brush shoulders with PuSh Festival artists. 
@@ -31,29 +32,29 @@ with same-night Marquee Act ticket and for PuSh Passholders).
 . . . . . . . . . . . . . . . .
 
 GENDER FAILURE
-January 16â€“17, 8pm, $29. Writer/storyteller Ivan Coyote and musician Rae 
+January 16–17, 8pm, $29. Writer/storyteller Ivan Coyote and musician Rae 
 Spoon explore their failed attempts to fit into the gender binary. Equal parts 
 hilarious and heartbreaking.
 
-Late Nights at Club PuSh: GORD GRDINAâ€™S HARAM
+Late Nights at Club PuSh: GORD GRDINA’S HARAM
 January 17, 10pm, $10. Arabic music, from Iraqi folk to Egyptian radio music 
-lovingly reinterpreted by Vancouverâ€™s most creative musicians.
+lovingly reinterpreted by Vancouver’s most creative musicians.
 
 COASTAL SOUNDS
 January 18, 7pm (all ages) & 9:30pm (19+), $25 ($6.50 for children under 16). 
 Not your average youth choir, Coastal Sound Youth Choir performs with 
-ultra-hip Woodpigeon (aka Calgaryâ€™s Mark Andrew Hamilton) in a program that 
+ultra-hip Woodpigeon (aka Calgary’s Mark Andrew Hamilton) in a program that 
 includes indie rock, classical, avant-garde, and a joint set of original 
 Woodpigeon songs.
 
 TETUSO: THE IRON MAN
-January 23, 8pm, $25. Join Vancouverâ€™s Eye of Newt ensemble as they 
+January 23, 8pm, $25. Join Vancouver’s Eye of Newt ensemble as they 
 devise a live soundtrack to this magnificently weird Japanese cult film from 
-the â€™80s.
+the ’80s.
 
-TUCKED & PLUCKED: VANCOUVERâ€™S DRAG HERSTORY LIVE ONSTAGE
-January 24, 8PM, $25. Vancouverâ€™ Zee Zee Theatre unearths the history of 
-the drag movement in Vancouver, with special guests from Vancouverâ€™s drag 
+TUCKED & PLUCKED: VANCOUVER’S DRAG HERSTORY LIVE ONSTAGE
+January 24, 8PM, $25. Vancouver’ Zee Zee Theatre unearths the history of 
+the drag movement in Vancouver, with special guests from Vancouver’s drag 
 community. Provocative, funny, festive and strangely thought-provoking. 
 PuSh Passholder Appreciation Night: FREE for Passholders.
 
@@ -74,7 +75,7 @@ string lyre, or krar. Guaranteed to get you up out of your seat. Presented with
 Capilano University.
 
 RYEBERG LIVE
-January 26, 7pm, $25. The return of the online magazineâ€™s live presentation, 
+January 26, 7pm, $25. The return of the online magazine’s live presentation, 
 where guests presents essays inspired by YouTube videos. Speakers this 
 year include authors Lee Henderson and Zsuzsi Gartner, artist Vjeko Sager, 
 and interdisciplinary media artist Sammy Chien.
@@ -89,11 +90,11 @@ January 31, 10pm, $10. Blues-rock-folk from this young Vancouver band,
 celebrating the recent release of their debut, self-titled recording.
 
 DUETS FOR ONE/MYTH & INFRASTRUCTURE
-February 1, 8pm, $29. Duets for One refines performer Tanya Marquardtâ€™s 
+February 1, 8pm, $29. Duets for One refines performer Tanya Marquardt’s 
 memoir of her life as a teen runaway into a cabaret-style montage-alogue, 
 created with co-performer Tim Carlson (Theatre Conspiracy) and director 
-Mallory Catlett. In Myth and Infrastructure, L.A.â€™s Miwa Matreyek steps from 
-behind the video screen to enter a world of her own animationâ€”the 
+Mallory Catlett. In Myth and Infrastructure, L.A.’s Miwa Matreyek steps from 
+behind the video screen to enter a world of her own animation—the 
 intersection of theatre and film, illusion and construction.
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . 
@@ -102,7 +103,7 @@ ABOUT THE PUSH FESTIVAL
 
 The PuSh International Performing Arts Festival is Vancouver's mid-winter 
 festival presenting acclaimed local, national and international artists. The 10th 
-Anniversary PuSh Festival takes place January 14â€“February 2, 2014 at 
+Anniversary PuSh Festival takes place January 14–February 2, 2014 at 
 venues in and around Vancouver and offers work from artists from around 
 the globe. The Festival presents groundbreaking work in the live performing 
 arts with theatre, dance, music, and various forms of multimedia and hybrid 

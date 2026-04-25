@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 40
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO @ the Cinematheque + DIM CINEMA | Byron Peters: Anti-Racist Mathematics and | 730 | OCT 24"
 ---
 

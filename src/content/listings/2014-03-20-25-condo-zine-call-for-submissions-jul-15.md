@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 25
 type: ""
+venue: "Condo Zine"
 summary: "Condo Zine | Call for Submissions | JUL 15"
 ---
 

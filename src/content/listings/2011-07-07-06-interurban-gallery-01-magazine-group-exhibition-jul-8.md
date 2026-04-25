@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 6
 type: ""
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | 01 Magazine Group Exhibition | JUL 8"
 ---
 
@@ -54,7 +55,7 @@ Daniel Jackson, New York
 Grant Willing, Brooklyn
 Heather Martin, Vancouver
 Jennilee Marigomen, Vancouver
-Jeff Otto Oâ€™Brien, Vancouver
+Jeff Otto O’Brien, Vancouver
 Jessica Eaton, Montreal
 Les Ramsay, Vancouver
 Melissa Paget, Vancouver

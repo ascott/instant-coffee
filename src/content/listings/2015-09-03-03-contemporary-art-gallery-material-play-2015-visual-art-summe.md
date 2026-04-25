@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 3
 type: "OPENING"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Material Play: 2015 Visual Art Summer Intensive | SEP 3"
 ---
 
@@ -22,7 +23,7 @@ Contemporary Arts
 Join us for an exhibition of work completed at our first annual Visual Art
 Summer Intensive for youth in partnership with Arts Umbrella and SFU
 which took place from August 4 to 21. This unique and ambitious
-summer program introduced students to Vancouverâ€™s art community
+summer program introduced students to Vancouver’s art community
 through a series of workshops working closely with leading artists,
 curators and educators. Activities included drawing, printmaking and
 ceramics with open studio time at Arts Umbrella; exhibition-making and

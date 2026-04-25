@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 12
 type: ""
+venue: "B.C. Binning Gallery"
 summary: "B.C. Binning Gallery | Diane Borsato | The Moon is Often Referred to As.. | MAR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 9
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | AN/AESTHETICS | NOV 5"
 ---
 
@@ -22,7 +23,7 @@ Reception: Thursday November 10, 7-10 pm
 
 Kathryn Alder, Paige Armstrong, Sophia Bartholomew, Liesel Baumann, John 
 Baziuk, Samantha Bullis, Dan Fagan, Lily Jones, Cliff Sun, Monique Wells, 
-Gamze YalÃ§in, Jimmy Yao
+Gamze Yalçin, Jimmy Yao
 
 In "Anaesthetics: Walter Benjamin's Artwork Essay Reconsidered," Susan Buck 
 Morss summarizes Benjamin's concerns at the end of "The Work of Art in the 

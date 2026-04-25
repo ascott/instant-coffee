@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 11
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Manuel Axel Strain: Needed Medicine | 6-9PM | JAN 10"
 ---
 

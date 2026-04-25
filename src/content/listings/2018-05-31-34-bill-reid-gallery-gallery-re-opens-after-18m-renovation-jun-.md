@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 34
 type: "EVENT"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | Gallery Re-Opens After $1.8M Renovation | JUN 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 19
 type: "FUNDRAISER"
+venue: "Cafe Duello"
 summary: "Cafe Duello | Craftmas Holiday Market and Fundraiser | DEC 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 48
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Family Day | 1-3PM | AUG 17"
 ---
 

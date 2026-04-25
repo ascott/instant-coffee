@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 9
 type: ""
+venue: "Centre A"
 summary: "Centre A | SLOW: Relations + Practices | MAY 15"
 ---
 
@@ -53,7 +54,7 @@ pot-luck meal and open space discussion at the closing reception.
 
 During these events the SLOW working group invites participants to
 investigate questions about the present conditions of artistic practice:
-How do you locate â€˜the studio' in time and space? Where does it begin and
+How do you locate ‘the studio' in time and space? Where does it begin and
 end? How does it relate to others? Is it necessary to become unavailable to
 others in order to have a practice?
 

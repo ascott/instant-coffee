@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 17
 type: "TALK"
+venue: "ACT Art Gallery"
 summary: "ACT Art Gallery | we? ?ay?m k?s ni?ct ?im?x Plant Presentation | APR 20"
 ---
 

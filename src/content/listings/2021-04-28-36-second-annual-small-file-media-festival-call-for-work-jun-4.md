@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 36
 type: "CALL"
+venue: "Second Annual Small File Media Festival"
 summary: "Second Annual Small File Media Festival | Call for work | JUN 4"
 ---
 

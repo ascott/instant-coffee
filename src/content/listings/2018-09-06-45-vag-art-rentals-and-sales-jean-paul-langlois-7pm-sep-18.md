@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 45
 type: "TALK"
+venue: "VAG - Art Rentals and Sales"
 summary: "VAG - Art Rentals and Sales | Jean Paul Langlois | 7PM | SEP 18"
 ---
 

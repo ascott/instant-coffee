@@ -395,7 +395,7 @@ Opening Reception Thursday December 9th, 2010, 6-9pm
 
 Blanket Gallery is pleased to present a second solo exhibition with Corin
 Sworn.
-Swornâ€™s exhibition for Blanket Gallery continues her interest in the
+Sworn’s exhibition for Blanket Gallery continues her interest in the
 use of artifacts as indexes to assist particular stories. Her present work
 examines the reflexive viewer or reader as they make sense of their
 experience through the interpretive acts that these stories encourage.
@@ -403,7 +403,7 @@ experience through the interpretive acts that these stories encourage.
 In the video work The Lens Prism an actor performs various narratives in an
 empty theatre. These stories are delivered either as memory or as the
 citation of research. Each describes some structure of digressions- Chris
-Markerâ€™s La Jette, a poem by Raymond Roussel or the Great Exhibition of
+Marker’s La Jette, a poem by Raymond Roussel or the Great Exhibition of
 1851. The stories although reflecting one another remain separate and
 contemplation is prolonged as a movement though rather than as a conclusion
 to be reached.
@@ -561,12 +561,12 @@ drained of all elemental life! So speaks Galactus!" - Stan Lee, Fantastic
 Four #48
 
 The title of the exhibition, To Tame A Land, makes reference to the 1955
-novel of the same name by American author Louis Lâ€™Amour. It is a coming of
-age story of a young boy orphaned and left to wander â€œa wild land of
+novel of the same name by American author Louis L’Amour. It is a coming of
+age story of a young boy orphaned and left to wander “a wild land of
 canyons and buttes, and on dust-choked cattle trails.â€ Vancouver is known
 worldwide for its natural beauty, and the mountains, forests, lakes and
 ocean it is surrounded by is featured in architectural design almost as a
-faÃ§ade, a picture to be viewed through the glass window of an apartment
+façade, a picture to be viewed through the glass window of an apartment
 building. As our experience of land in the city becomes increasingly
 filtered through urbanization and economics, our perception of the
 wilderness has changed.
@@ -582,7 +582,7 @@ before. With all that we have gained, what has been lost?
 In this exhibition eight artists explore this idea through sculpture. They
 work with the mythical aspects of nature and the symbolic value of organic
 shapes and forms that, in living amongst and apart from for so long, we
-canâ€™t help but look at anew.
+can’t help but look at anew.
 
 Michelle Allard was recently Artist in Residence at La Cite Internationale
 des Arts (Paris)
@@ -711,7 +711,7 @@ info@contemporaryartgallery.ca or 604-681-2700
 HEIDI JOHANSEN AND CHARLIE ROBERTS
 
 Opening Reception December 10th
-December 10th â€“ January 15th
+December 10th – January 15th
 
 In this new series of sculptures by Heidi Johansen and paintings by
 Charlie Roberts, the artists explore themes of darkness, Norwegian winter

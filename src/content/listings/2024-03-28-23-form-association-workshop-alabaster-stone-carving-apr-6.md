@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 23
 type: "EDUCATION"
+venue: "Form Association [WORKSHOP]"
 summary: "Form Association [WORKSHOP] | Alabaster stone carving | APR 6"
 ---
 

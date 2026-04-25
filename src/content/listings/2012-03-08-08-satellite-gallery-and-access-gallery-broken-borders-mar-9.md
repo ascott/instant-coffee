@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 8
 type: ""
+venue: "Satellite Gallery and Access Gallery"
 summary: "Satellite Gallery and Access Gallery | Broken Borders | MAR 9"
 ---
 

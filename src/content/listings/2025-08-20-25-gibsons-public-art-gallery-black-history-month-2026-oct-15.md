@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 25
 type: "CALL"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | Black History Month 2026 | OCT 15"
 ---
 

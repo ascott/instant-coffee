@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 24
 type: "PERFORMANCE"
+venue: "LIVE Biennale @ Trout Lake"
 summary: "LIVE Biennale @ Trout Lake | Patrick Cruz \"Kitchen Codex\" | 3PM | JUL 29"
 ---
 

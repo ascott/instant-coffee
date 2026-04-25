@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 20
 type: ""
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Excavating N. Vancouver: Artist Talk | FEB 4"
 ---
 

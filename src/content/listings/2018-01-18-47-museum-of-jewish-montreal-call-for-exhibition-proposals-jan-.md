@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 47
 type: "CALL"
+venue: "Museum Of Jewish Montreal"
 summary: "Museum Of Jewish Montreal | Call for Exhibition Proposals | JAN 28"
 ---
 

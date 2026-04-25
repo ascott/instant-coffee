@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 19
 type: "OPENING"
+venue: "tag Contemporary"
 summary: "tag Contemporary | A Stitch in Time: Joo Hyun Yun and Sarah Davidson | APR 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 36
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Chinese Canadian Museum | Book Launch: “The Riveter” | 6PM | JUL 10"
 ---
 

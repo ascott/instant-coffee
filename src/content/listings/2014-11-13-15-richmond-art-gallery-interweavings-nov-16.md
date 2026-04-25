@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 15
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | INTERWEAVINGS | NOV 16"
 ---
 
@@ -24,7 +25,7 @@ emerging First Nations artists whose works are continuing and challenging
 traditions. In addition to the knowledge and skills the younger artists
 gain from their mentors and communities, they are also influenced by other
 modes of education, decolonization and globalization. Curator, Nan Capogna
-says, â€œThe senior artistsâ€™ commitment to mentoring a younger of generation
+says, “The senior artists’ commitment to mentoring a younger of generation
 of artists is humbling and inspiring and the works of the younger artists
 are of extraordinary qualityâ€ .
 
@@ -43,9 +44,9 @@ Lawrence Paul Yuxweluptun to the exquisitely carved masks of Latham Mack
 and the compelling photographic images of Tamara Skubovius. A publication
 for the exhibition is being produced.
 
-â€œWe are pleased to partner with the Richmond Art Gallery to present
+“We are pleased to partner with the Richmond Art Gallery to present
 Interweavings,â€  said Susan Jackson, Executive Director, YVR Art Foundation.
-â€œThis exhibition provides a unique opportunity for past YVR Art Foundation
+“This exhibition provides a unique opportunity for past YVR Art Foundation
 scholarship recipients to showcase their stories and accomplishments as BC
 First Nations artists.â€  The Opening Reception is Saturday, November 15,
 1:00-4:00pm and members of the public are invited to attend. The artists
@@ -65,7 +66,7 @@ Vancouver Airport Authority.
 The Richmond Art Gallery also gratefully acknowledges the support of the
 City of Richmond, the British Columbia Arts Council, the Province of
 British Columbia, and Metro Vancouver, the Hamber Foundation for support of
-the exhibitionâ€™s public programming, and Peller Estates and PriceSmart
+the exhibition’s public programming, and Peller Estates and PriceSmart
 Foods Richmond for sponsorship of refreshments for the opening reception.
 
 Richmond Art Gallery

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 2
 type: ""
+venue: "Centre A"
 summary: "Centre A | Maraya website launch and exhibition opening | NOV 4"
 ---
 
-8:00 â€“ 10:30 pm
+8:00 – 10:30 pm
 
 Maraya website launch and exhibition opening.
 

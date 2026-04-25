@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 6
 type: "EVENT"
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | The Lind Prize Exhibition Award Announcement &... | APR 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 10
 type: ""
+venue: "TopDown BottomUp"
 summary: "TopDown BottomUp | La Comunidad | NOV 23"
 ---
 

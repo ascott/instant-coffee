@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 30
 type: "OPENING"
+venue: "Gam Gallery"
 summary: "Gam Gallery | Marta Ribas Solo Exhibition: ATLAS | JUN 14"
 ---
 

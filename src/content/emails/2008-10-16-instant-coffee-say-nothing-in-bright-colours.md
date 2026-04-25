@@ -108,8 +108,8 @@ currently working on book that deals with sculpture and installation art in
 terms of aesthetic categories.
 
 Hanne Darboven was born in 1941 in Munich, Germany. Following a brief
-episode as a pianist, she studied painting at the Staatliche Hochschule fÃ¼r
-Bildende KÃ¼nst in Hamburg. Between 1966 and 1969, she lived intermittently
+episode as a pianist, she studied painting at the Staatliche Hochschule für
+Bildende Künst in Hamburg. Between 1966 and 1969, she lived intermittently
 in New York City, after which she returned to her family home in Hamburg
 where she continues to live and work. Darboven has participated in numerous
 international exhibitions including Documentas 5, 6, and 7 in Kassel, and
@@ -210,7 +210,7 @@ Solder & Sons proudly presents:
 Spark-Writing
 
 A generative sound installation
-by Absolute Value of Noise, Â© 2004
+by Absolute Value of Noise, © 2004
 
 The centre piece of this installation is a "fantastical" instrument in the
 form of a collection of hand made wooden speaker trumpets - a reference to
@@ -491,8 +491,8 @@ silent two-way dialogue. The dots possess a synasthaesic quality; they make
 their presence felt both through their colour and texture, as well as
 through how they collide against each other, how they float, thump and hum
 against the background and get us thinking. These spheres may have come from
-a recognizable set of traditions butÃ¢ï¿½Â¹to refer to the well-worn Pythagorean
-phraseÃ¢ï¿½Â¹they are not without their own special music.
+a recognizable set of traditions butâ�¹to refer to the well-worn Pythagorean
+phraseâ�¹they are not without their own special music.
 
 Blanket
 Contemporary Art Inc.
@@ -677,8 +677,8 @@ The F Word
 
 Rebecca Belmore, Patty Chang, Allyson Clay in collaboration with Lisa
 Robertson and Nathalie Stephens, Kate Craig in collaboration with Margaret
-Dragu, Shawna Dempsey and Lorri Millan, Klara LidÃ©n, Deirdre Logue, Jillian
-McDonald, Lisa Steele and Salla TykkÃ¤
+Dragu, Shawna Dempsey and Lorri Millan, Klara Lidén, Deirdre Logue, Jillian
+McDonald, Lisa Steele and Salla Tykkä
 
 Curated by Alissa Firth-Eagland and Candice Hopkins
 October 18 - November 22, 2008

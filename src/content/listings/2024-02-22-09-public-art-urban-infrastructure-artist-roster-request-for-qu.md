@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 9
 type: "CALL"
+venue: "Public Art + Urban Infrastructure Artist Roster"
 summary: "Public Art + Urban Infrastructure Artist Roster | Request for Qualifications | MAR 1"
 ---
 

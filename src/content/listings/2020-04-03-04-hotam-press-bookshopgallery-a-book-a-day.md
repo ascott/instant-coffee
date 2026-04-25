@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Hotam Press Bookshop/Gallery"
 summary: "Hotam Press Bookshop/Gallery | A Book A Day"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Charlotte Wall: Reveal"
 ---
 

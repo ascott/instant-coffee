@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 7
 type: "OPENING"
+venue: "MNP Tower"
 summary: "MNP Tower | Kate Metten - Work House | 5PM | FEB 29"
 ---
 

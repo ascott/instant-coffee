@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 17
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | No.3 Road Art Column Program 2018 | SEP 18"
 ---
 

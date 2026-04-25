@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:an ethereal dream-like quality"
 emailDate: "Thu, 03 Jul 2014 14:07:59 -0700"
 number: 15
 type: ""
+venue: "CARFAC"
 summary: "CARFAC | Call for Nominations: Visual Arts Advocate Award | AUG 1"
 ---
 

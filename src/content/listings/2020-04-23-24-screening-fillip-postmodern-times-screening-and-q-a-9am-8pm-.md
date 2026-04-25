@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Two mountains reflecting each othe
 emailDate: "Thu, 23 Apr 2020 10:40:07 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Fillip | Postmodern Times (Screening and Q & A) | 9AM-8PM | APR 30"
 ---
 

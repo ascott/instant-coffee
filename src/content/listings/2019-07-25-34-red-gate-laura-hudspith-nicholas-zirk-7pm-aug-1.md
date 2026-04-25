@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 34
 type: "OPENING"
+venue: "Red Gate"
 summary: "Red Gate | LAURA HUDSPITH & NICHOLAS ZIRK | 7PM | AUG 1"
 ---
 

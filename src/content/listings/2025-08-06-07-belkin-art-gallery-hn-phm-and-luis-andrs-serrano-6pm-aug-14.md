@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Draw a Blank"
 emailDate: "Tue, 05 Aug 2025 21:15:15 -0700"
 number: 7
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Hân Ph?m and Luis Andrés Serrano | 6PM | AUG 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 6
 type: "EVENT"
+venue: "BC Culture Days"
 summary: "BC Culture Days | unexpected intersections | Sept 25 - Oct 25 | SEP 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 32
 type: ""
+venue: "Gallery @ Artech"
 summary: "Gallery @ Artech | James Danderfer LIVE | JUL 27"
 ---
 

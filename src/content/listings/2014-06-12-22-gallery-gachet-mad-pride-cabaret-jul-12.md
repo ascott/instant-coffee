@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 22
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Mad Pride Cabaret | JUL 12"
 ---
 
-Exhibition runs: June 20 â€“ August 3rd, 2014
+Exhibition runs: June 20 – August 3rd, 2014
 
 Mad Pride Cabaret and Opening Reception: Saturday, July 12th, 7.00-10.30pm
 
 Mad Cartographies: Wilderness of the Soul will highlight selected works from 
-The Icarus Projectâ€™s 10 year anniversary collection, as well as featured work 
+The Icarus Project’s 10 year anniversary collection, as well as featured work 
 by Jacks McNamara, Faith Rhyne, and Cherise Clarke. The Icarus Project is 
 an international radical mental health support network, alternative media 
 project, and online community by and for people struggling with the 
@@ -29,7 +30,7 @@ The Icarus Project, this show was originally mounted in San Francisco, CA in
 Cloonan, Sophie Crumb, Bec Young, Jacks McNamara, and more. Much of the 
 work is rooted in a DIY, punk rock aesthetic, and includes archival posters, 
 graphics, logos, fliers, book covers, stickers, stencils, and other work from 
-The Icarus Projectâ€™s many publications and events over the years.
+The Icarus Project’s many publications and events over the years.
 
 Mad Pride is an international movement created by psychiatric survivors, 
 consumers, folks labeled â€œmentally illâ€  â€” all of us that proudly reclaim the 
@@ -40,15 +41,15 @@ sane and well-adjusted response to living in such a mad world.
 In Sept 2013, Vancouver Mayor Gregor Robertson declared a Mental Health 
 Crisis. We know what this means: using the language of â€œcareâ€  and 
 â€œsupportâ€ , civic government will co-ordinate the total control of the lives of the 
-most marginalized people in society â€“ those of us called mad. Talk back, fight 
+most marginalized people in society – those of us called mad. Talk back, fight 
 back, make art.
 
-In Gachetâ€™s basis of unity, â€œWe work for the elimination of discrimination 
+In Gachet’s basis of unity, “We work for the elimination of discrimination 
 against people marginalized by their mental health, trauma and/or abuse 
 experience.â€  And we use art to do just that.
 
 All of this madness will culminate in a Mad Pride Cabaret of festivities taking 
-place on Saturday, July 12th 2014, 7 â€“ 10.30pm as part of International Mad 
+place on Saturday, July 12th 2014, 7 – 10.30pm as part of International Mad 
 Pride.
 
 Wednesday to Sunday, 12 - 6 pm
@@ -62,8 +63,8 @@ contact@gachet.org
 1.
 apt sublet | 
 Makiko & Randy are looking for someone appropriate to sublet our apartment July 
-16 â€“ Sept 15. Victoria & E. Georgia between the Drive and Hastings Sunrise. 
-1960â€™s corner unit. Balcony. View. Nicely appointed. Cable. Wi-fi. $1100 month X 
+16 – Sept 15. Victoria & E. Georgia between the Drive and Hastings Sunrise. 
+1960’s corner unit. Balcony. View. Nicely appointed. Cable. Wi-fi. $1100 month X 
 2. Call Randy 778 238 2787. 
 
 2.

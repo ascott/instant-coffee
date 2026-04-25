@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 8
 type: "EVENT"
+venue: "Toast Collective"
 summary: "Toast Collective | Poetry is Bad For You 22 | MAY 26"
 ---
 

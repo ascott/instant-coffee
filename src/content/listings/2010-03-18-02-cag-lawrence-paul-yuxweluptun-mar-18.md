@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a sudden full spectrum light bar m
 emailDate: "Thu, 18 Mar 2010 11:55:38 -0700"
 number: 2
 type: ""
+venue: "CAG"
 summary: "CAG | Lawrence Paul Yuxweluptun | MAR 18"
 ---
 

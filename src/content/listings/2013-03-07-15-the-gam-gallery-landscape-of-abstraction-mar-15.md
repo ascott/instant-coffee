@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 15
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | Landscape of Abstraction | MAR 15"
 ---
 
@@ -36,14 +37,14 @@ duality falls away and it becomes clear that things are much more fluid and
 expansive than they first appear.
 
 Containers of Collapse is a series of paintings by Mel King that employ 
-Chlorella â€“ an ancient type of super algae â€“ as well as incense ash as 
+Chlorella – an ancient type of super algae – as well as incense ash as 
 pigments in her geometric yet ethereal works. King explores painting as a 
 phenomenological experience that derives its power from nature. This is 
 achieved through a rhythmic interplay of forms that moves beyond the 
 simplicity of positive and negative space in composition. The materials used 
 similarly signal a relation to their natural origins. Chlorella is lauded for its 
 health benefits in digestion, while the incense ash is a combination of natural 
-fragrances and Moldavite â€“ a substance that is extra-terrestrial in nature and 
+fragrances and Moldavite – a substance that is extra-terrestrial in nature and 
 possibly formed by a meteorite colliding into Earth and fusing with existing 
 rock to form a new kind of crystal.
 

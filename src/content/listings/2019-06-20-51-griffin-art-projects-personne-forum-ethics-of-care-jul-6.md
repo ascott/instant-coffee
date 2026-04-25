@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 51
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Person/ne Forum: Ethics of Care | JUL 6"
 ---
 

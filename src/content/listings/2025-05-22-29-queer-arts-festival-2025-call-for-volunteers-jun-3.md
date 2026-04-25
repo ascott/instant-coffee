@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 29
 type: "CALL"
+venue: "Queer Arts Festival 2025"
 summary: "Queer Arts Festival 2025 | Call for Volunteers | JUN 3"
 ---
 

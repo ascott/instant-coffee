@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 19
 type: ""
+venue: "JOB"
 summary: "JOB | Other Sites | Coop Position | JUN 14"
 ---
 

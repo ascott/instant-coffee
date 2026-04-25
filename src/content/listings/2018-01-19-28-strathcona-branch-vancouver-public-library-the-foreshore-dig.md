@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 28
 type: "TALK"
+venue: "Strathcona Branch, Vancouver Public Library"
 summary: "Strathcona Branch, Vancouver Public Library | The Foreshore | Dignity and Access | 7-8:30pm | JAN 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 20
 type: "TALK"
+venue: "ECUAD - MOCAP Studio"
 summary: "ECUAD - MOCAP Studio | Flavourcel Artist Talk | 7PM | MAR 26"
 ---
 

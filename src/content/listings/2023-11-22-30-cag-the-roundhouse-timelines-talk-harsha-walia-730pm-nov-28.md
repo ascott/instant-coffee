@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 30
 type: "TALK"
+venue: "CAG @ The Roundhouse"
 summary: "CAG @ The Roundhouse | Timelines Talk - Harsha Walia | 730PM | NOV 28"
 ---
 

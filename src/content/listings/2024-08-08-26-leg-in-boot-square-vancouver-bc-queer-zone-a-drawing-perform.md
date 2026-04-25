@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 26
 type: "PERFORMANCE"
+venue: "Leg-in-boot Square, Vancouver, BC"
 summary: "Leg-in-boot Square, Vancouver, BC | Queer Zone: a drawing performance | AUG 25"
 ---
 

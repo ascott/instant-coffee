@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 43
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Amy Rice | OCT 30"
 ---
 

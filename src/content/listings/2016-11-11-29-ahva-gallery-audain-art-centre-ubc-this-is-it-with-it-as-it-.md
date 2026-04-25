@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 29
 type: "OPENING"
+venue: "AHVA Gallery, Audain Art Centre, UBC"
 summary: "AHVA Gallery, Audain Art Centre, UBC | This is it with it as it is | Curated by Wil Aball | NOV 23"
 ---
 

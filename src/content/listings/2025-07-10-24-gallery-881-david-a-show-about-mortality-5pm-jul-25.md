@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 24
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | David: a show about mortality | 5PM | JUL 25"
 ---
 

@@ -27,7 +27,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-06-30-14-monte-clark-karin-bubas-extended-jul-9">14. Monte Clark | Karin Bubas | extended | JUL 9</a>
 <a href="/instant-coffee/listings/2011-06-30-15-geist-erasure-poetry-contest-jul-15">15. Geist | Erasure Poetry Contest | JUL 15</a>
 <a href="/instant-coffee/listings/2011-06-30-16-access-gallery-elizabeth-milton-auditions-until-jul-23">16. Access Gallery | Elizabeth Milton: Auditions | until | JUL 23</a>
-<a href="/instant-coffee/listings/2011-06-30-17-marriot-downtown-creating-the-tools-computational-aesthetics">17. Marriot Downtown | Creating the Tools â€“ Computational Aesthetics | AUG 5</a>
+<a href="/instant-coffee/listings/2011-06-30-17-marriot-downtown-creating-the-tools-computational-aesthetics">17. Marriot Downtown | Creating the Tools – Computational Aesthetics | AUG 5</a>
 <a href="/instant-coffee/listings/2011-06-30-18-art-city-winnipeg-request-for-proposals-aug-15">18. Art City | Winnipeg | Request for Proposals | AUG 15</a>
 <a href="/instant-coffee/listings/2011-06-30-19-city-of-vancouver-archives-forming-a-new-archives-until-sep-">19. City of Vancouver Archives | Forming: A New Archives | until | SEP 2</a>
 <a href="/instant-coffee/listings/2011-06-30-20-trench-monomania-until-sep-3">20. TRENCH | MONOMANIA | until | SEP 3</a>
@@ -41,13 +41,13 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 Open Call for ARTErra Artistic Residence in Portugal
 
-ARTErra is structure is placed in LobÃ£o da Beira, a village in 
+ARTErra is structure is placed in Lobão da Beira, a village in 
 PORTUGAL, near Tondela, district of Viseu is now open to 
 receive projects from artist.
 ARTERRA is strongly committed to offering the residents a 
-cheerful and productive stay. Because of that, partÂ­nerships 
+cheerful and productive stay. Because of that, part­nerships 
 have been established with the Municipality of Tondela and 
-LobÃ£o da Beira for reception and possible presentations of 
+Lobão da Beira for reception and possible presentations of 
 performative works, exhibitions, workshops, lectures, etc.
 
 We offer two distinct spaces: the house where the residents can 
@@ -69,7 +69,7 @@ persons involved, technical requirements, work characteristics
 and other additional information relevant to the work process).
 Contact name:ARTErra
 Organisation:Arterra
-Address:Rua Nossa Senhora do Crasto,nÂº380 LobÃ£o da Beira
+Address:Rua Nossa Senhora do Crasto,nº380 Lobão da Beira
 3460-207 Tondela
 Telephone:351962781090
 Email:arterra.geral@gmail.com
@@ -96,26 +96,26 @@ event/date,1309446000/eventid,269/Itemid,239/catid,/
 
 This co-production between Redshift and the Powell Street 
 Festival Society explores how Japanese culture has defined the 
-sound art of two radically different Canadian composers. AndrÃ© 
-Cormierâ€™s recent work, Pour Takako Minekawa, is a tribute to the 
-legendary Japanese shibuyake pop icon â€” though Cormierâ€™s 
+sound art of two radically different Canadian composers. André 
+Cormier’s recent work, Pour Takako Minekawa, is a tribute to the 
+legendary Japanese shibuyake pop icon — though Cormier’s 
 music, with its profound handling of a minimal material, 
 perhaps shares more common ground with Japanese Noh 
-Theatre than with... any of Minekawaâ€™s upbeat utterances. This 
-dark, hour-long piece will be premiered by Cormierâ€™s own 
+Theatre than with... any of Minekawa’s upbeat utterances. This 
+dark, hour-long piece will be premiered by Cormier’s own 
 Ensemble Sisyphe. Mark Takeshi McGregor, flute; Robin Streb, 
 viola; Brian Nesselroad, percussion; Allison Hrabluik, 
 projections.
 
-The eveningâ€™s first event is dedicated exclusively to the music 
+The evening’s first event is dedicated exclusively to the music 
 of the Japanese-Canadian composer Yota Kobayashi. This 
 Vancouver-based sound artist has received international 
 acclaim for his haunting electroacoustic scores: listeners are 
 immersed in a psychedelic soundworld of birdsong, temple 
-gongs, heartbeatsâ€¦ even the Skytrain has been effortlessly 
-interwoven into Kobayashiâ€™s rich and nuanced music. Two of 
+gongs, heartbeats… even the Skytrain has been effortlessly 
+interwoven into Kobayashi’s rich and nuanced music. Two of 
 his award-wining works, Tensho and Kakusei, will be heard, 
-along with the premiere of Kobayashiâ€™s newest piece for flute, 
+along with the premiere of Kobayashi’s newest piece for flute, 
 cello, piano and electronics: Shiki. Featuring cellist Alasdair 
 Money, pianist Rachel Kiyo Iwaasa and flutist Mark Takeshi 
 McGregor.
@@ -191,7 +191,7 @@ w. www.gamgallery.com
 ------------------------------------------------------------------------
 RIGHT
 
-A Gallery Exhibition of Emily Carr Universityâ€™s
+A Gallery Exhibition of Emily Carr University’s
 Community Projects Class: The Red Tent Campaign
 
 __________________________________________________
@@ -201,8 +201,8 @@ Katrina Humphreys 604.996.0293
 Avalon Mott 604.613.8446
 
 (Vancouver - July 1, 2011) RIGHT, a group exhibition, responds 
-to Canadaâ€™s lack of a
-national housing strategy, and specifically to Vancouverâ€™s 
+to Canada’s lack of a
+national housing strategy, and specifically to Vancouver’s 
 housing crisis. Emily Carr
 University of Art and Design student Avalon Mott and recent 
 graduate Katrina
@@ -218,10 +218,10 @@ This upcoming show features unique pieces in a range of
 media, which participants
 created as a direct result of their engagement with the topic of 
 homelessness, and
-specifically with the Pivot Legal Societyâ€™s Red Tent Campaign. 
+specifically with the Pivot Legal Society’s Red Tent Campaign. 
 The majority of artworks
 included in RIGHT were originally created to support the 
-participantsâ€™ activist-style
+participants’ activist-style
 public interventions, which were conducted in and around the 
 city of Vancouver, between
 February and April 2011. By holding these interventions, 
@@ -243,7 +243,7 @@ collaborative solutions to
 homelessness and its effects on everyone.
 
 RIGHT will be simultaneously held at the Foyer Gallery and 
-Ikes Gallery CafÃ© in the
+Ikes Gallery Café in the
 Irving K. Barber Learning Centre on UBC campus from July 1 - 
 July 31, 2011. An
 opening reception will be held on Saturday July 2, 2011 at 
@@ -380,7 +380,7 @@ indigenous language to indigenous worldview.
 
 In 20008-2009, she presented the site-specific project The 
 House of the Ghosts at the Vancouver Art Gallery, transforming 
-the Georgia Street faÃ§ade of the Gallery into a Northwest Coast 
+the Georgia Street façade of the Gallery into a Northwest Coast 
 ceremonial house.
 
 Free with Gallery admission
@@ -404,7 +404,7 @@ Colleen Heslin
 Picnic at Bluefish Caves
 
 Opening Thursday July 7, 7pm-10pm
-Room 106 â€“ The Waldorf Hotel
+Room 106 – The Waldorf Hotel
 1489 East Hastings, Vancouver, BC
 
 Curated by Jessica Delorme
@@ -458,12 +458,12 @@ renewal of the Britannia Community Services Centre.
 
 On July 7, 2011 the Britannia Planning & Development 
 Committee is hosting an evening
-www.britanniacentre.org â€¢ somethingishappening@britanniace
+www.britanniacentre.org • somethingishappening@britanniace
 of conversation about planning at Britannia. With live 
 entertainment, video
 presentations, food and prizes, this will be a great event for 
 anyone interested in
-learning more about whatâ€™s happening at Britannia. For more 
+learning more about what’s happening at Britannia. For more 
 information please visit
 www.britanniacentre.org.
 
@@ -496,7 +496,7 @@ Gallery Hours: Tue-Sat 12-5pm
 lasts the run of the exhibition. The performance involves the 
 artist creating a multi-wall, floor-to-ceiling mural of an office 
 space out of post-it-notes. The artist, Immony Men, will spend 
-each day of the exhibition working 9-5 printing out a 360Â° view 
+each day of the exhibition working 9-5 printing out a 360° view 
 of an office one post it note at a time until the main walls of 
 grunt gallery are filled. The artist writes:
 
@@ -530,7 +530,7 @@ national, and international work. more. . .
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-06-30-12-satellite-gallery-damian-moppett-andrea-pinheiro-jul-8">12. Satellite Gallery | Damian Moppett & Andrea Pinheiro | JUL 8</a>
 ------------------------------------------------------------------------
-Satellite Gallery | Opening Reception: Not Photographsâ€”
+Satellite Gallery | Opening Reception: Not Photographs—
 Damian Moppett & Andrea Pinheiro | July 8th
 
 Date: July 8th
@@ -542,7 +542,7 @@ images are built. Moppett utilizes an array of computer-
 generated drawing tools to elaborate and adulterate existing 
 photographs, while Pinheiro physically paints on small 
 photographs, then scans and enlarges the subsequent images 
-to larger size. Both artistsâ€™ techniques arise out of histories of 
+to larger size. Both artists’ techniques arise out of histories of 
 collage and montage. However, their photographs hover at an 
 uneasy interstice between matrix and image, and at a point 
 where form and content are peculiarly fluid. While the results 
@@ -572,7 +572,7 @@ Algoma University, Ontario.
 This exhibition is curated by Reid Shier and organized by 
 Presentation House Gallery.
 Presentation House Gallery gratefully acknowledges the 
-Michael Oâ€™Brian Family Foundation for its generous support of 
+Michael O’Brian Family Foundation for its generous support of 
 Satellite Gallery.
 
 Satellite Gallery
@@ -603,7 +603,7 @@ mapping in order to consider the diverse ways contemporary
 artists draw from these visual and spatial languages to imagine, 
 inform, or incite. During the semester, it became strikingly clear 
 that many of the issues discussed in class resonated with the 
-studentsâ€™ established artistic practices. To culminate the 
+students’ established artistic practices. To culminate the 
 seminar, and in response to the ideas debated and shared, 
 each participant undertook his or her own mapping project, 
 which are exhibited together here. We create maps when we 
@@ -663,7 +663,7 @@ http:www.karinbubas.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-06-30-15-geist-erasure-poetry-contest-jul-15">15. Geist | Erasure Poetry Contest | JUL 15</a>
 ------------------------------------------------------------------------
-NEW Contest Deadlineâ€”more time to erase!
+NEW Contest Deadline—more time to erase!
 geist erasure trophy The entry deadline has been extended to 
 July 15, 2011.
 
@@ -706,7 +706,7 @@ Good luck and happy erasing! Again, the link to enter online.
 ------------------------------------------------------------------------
 Elizabeth Milton: Auditions
 
-Exhibition runs June 25th â€“ July 23rd, 2011
+Exhibition runs June 25th – July 23rd, 2011
 
 This summer Access Gallery supports Vancouver-based artist 
 Elizabeth Milton in the production and presentation of a new 
@@ -737,10 +737,10 @@ access@vaarc.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-06-30-17-marriot-downtown-creating-the-tools-computational-aesthetics">17. Marriot Downtown | Creating the Tools â€“ Computational Aesthetics | AUG 5</a>
+<a href="/instant-coffee/listings/2011-06-30-17-marriot-downtown-creating-the-tools-computational-aesthetics">17. Marriot Downtown | Creating the Tools – Computational Aesthetics | AUG 5</a>
 ------------------------------------------------------------------------
-Vancouver Marriott Pinnacle Downtown Hotel Â· 1128 West 
-Hastings Street Â· Vancouver
+Vancouver Marriott Pinnacle Downtown Hotel · 1128 West 
+Hastings Street · Vancouver
 Public Art Opening: Fri Aug 5, 5:30 pm
 Symposium: Aug 5-7 (9 am each day)
 
@@ -800,7 +800,7 @@ lead collaborative art workshops at our studio in 2012.
 
 Art City is located in West Broadway, a culturally diverse and 
 densely populated
-neighbourhood in the heart of Winnipegâ€™s inner city. Art City is 
+neighbourhood in the heart of Winnipeg’s inner city. Art City is 
 open free-of-charge and
 drop-in to anyone who would like to take part, engaging an 
 average of 25 participants per
@@ -851,8 +851,8 @@ Proposal Details and Requirements
 
 All submissions must include the following:
 
-â€¢ Your name, address, e-mail and phone number.
-â€¢ A short (one page) letter of interest, describing:
+• Your name, address, e-mail and phone number.
+• A short (one page) letter of interest, describing:
 - 
 As an artist, why do you want to collaborate with the West 
 Broadway community?
@@ -860,54 +860,54 @@ Broadway community?
 exchange between you and
 members of the West Broadway community?
 - How will this experience benefit/impact you as an artist?
-â€¢ Title and brief description of the workshop.
-â€¢ A workshop outline describing each daily 4-hour session.
-â€¢ An itemized materials list
-â€¢ A brief biography summarizing professional achievements. (1 
+• Title and brief description of the workshop.
+• A workshop outline describing each daily 4-hour session.
+• An itemized materials list
+• A brief biography summarizing professional achievements. (1 
 paragraph)
-â€¢ CV including professional activity and past community 
-engagement. (3 pgs max) â€˜
-â€¢ Visual support in digital format. (max ten images and/or three 
+• CV including professional activity and past community 
+engagement. (3 pgs max) ‘
+• Visual support in digital format. (max ten images and/or three 
 minutes video)
-â€¢ Include corresponding list of works with title, date, medium, 
+• Include corresponding list of works with title, date, medium, 
 and dimensions.
 
 Selection criteria for Art City Guest Artist Series proposals:
 
-â€¢ Demonstrated professional art practice
-â€¢ Demonstrated understanding of urban and/or cultural issues 
+• Demonstrated professional art practice
+• Demonstrated understanding of urban and/or cultural issues 
 pertaining to
 our community
-â€¢ Experience and willingness in working with participants of all 
+• Experience and willingness in working with participants of all 
 abilities and ages,
 particularly youth
-â€¢ Creativity of project
-â€¢ Applicability and thoroughness of project outline
-â€¢ Content appropriateness for a youth audience
-â€¢ Art media appropriate to Art City and a youth audience (cost, 
+• Creativity of project
+• Applicability and thoroughness of project outline
+• Content appropriateness for a youth audience
+• Art media appropriate to Art City and a youth audience (cost, 
 toxicity, ability to
 instruct, avoiding excess duplication of particular media in 
 calendar year)
-â€¢ Interest in involving new and diverse artists with the Art City 
+• Interest in involving new and diverse artists with the Art City 
 community
 
 Art City participants enjoy the projects best when...
 
-â€¢ The explanation for the activity that makes sense for youth of 
+• The explanation for the activity that makes sense for youth of 
 all ages, is simple, uses
 examples, and is continued as they arrive throughout the 
 evening (with the assistance of
 Art City staff and volunteers!)
-â€¢ They learn something new
-â€¢ They make something they can use and/or play with
-â€¢ They can take something home to share with their friends and 
+• They learn something new
+• They make something they can use and/or play with
+• They can take something home to share with their friends and 
 family
-â€¢ They are able to participate in collaborative projects, 
+• They are able to participate in collaborative projects, 
 especially through working on
 individual or small group components that can be brought 
 together to create larger
 pieces
-â€¢ Activities are culturally relevant to their own lives
+• Activities are culturally relevant to their own lives
 
 If you live in the area or are travelling to Winnipeg, please 
 come visit Art City and see
@@ -917,13 +917,13 @@ how things work! You will have a good time!
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-06-30-19-city-of-vancouver-archives-forming-a-new-archives-until-sep-">19. City of Vancouver Archives | Forming: A New Archives | until | SEP 2</a>
 ------------------------------------------------------------------------
-In collaboration with DuctalÂ® by Lafarge and The University of 
+In collaboration with Ductal® by Lafarge and The University of 
 British Columbia School of Architecture and Landscape 
 Architecture (SALA), the City of Vancouver Archives is pleased 
 to introduce its latest exhibit: Forming: A New Archives for 
 Downtown Vancouver
 
-With concrete forming much of Vancouverâ€™s urban landscape, 
+With concrete forming much of Vancouver’s urban landscape, 
 its presence has become pervasive, and in the context of urban 
 infrastructure, its usage has been rather conventional. More 
 recently, new forms of concrete have been developed, 
@@ -940,9 +940,9 @@ model their designs at a variety of scales. Such explorations
 served to inform the students as they went on to design a larger 
 scale building project that would act as a satellite facility to the 
 City of Vancouver Archives. Collaborating with the studio were 
-representatives of DuctalÂ® from Lafarge who assisted the 
+representatives of Ductal® from Lafarge who assisted the 
 students in casting a life-sized portion of each of their buildings 
-in DuctalÂ®, Lafargeâ€™s Ultra High Performance Concrete. This is 
+in Ductal®, Lafarge’s Ultra High Performance Concrete. This is 
 a new material allowing for increased creative liberties with 
 concrete design while also maintaining the strength of the 
 structure. 
@@ -959,7 +959,7 @@ people, allowing for information to become even more
 accessible to the public and for the Archives to integrate itself 
 into the fabric of city life. 
 
-Exhibit run: Tuesday, June 14, 2011 â€“ Friday, September 2, 
+Exhibit run: Tuesday, June 14, 2011 – Friday, September 2, 
 2011
 
 Ductal, Lafarge Press Release: http://www.ductal-
@@ -989,7 +989,7 @@ Landscape Architecture
 
 City of Vancouver Archives
 
-DuctalÂ® by Lafarge
+Ductal® by Lafarge
 
 
 
@@ -1014,7 +1014,7 @@ Salon installation begins June 23rd and will continue
 throughout the summer.
 
 Paintings, sculpture, photography, drawings, posters, prints, 
-video, film, assemblage and moreâ€¦.
+video, film, assemblage and more….
 
 Works by: Michael Morris, David Mayrs, Laura Baird, Robert 
 Young, Don Jarvis, Ron Stonier, John Koerner, Vikki Alexander, 
@@ -1052,23 +1052,23 @@ TRENCH contemporary art
 Ian Penn
 Projections: A Monument to Personal Memory
 
-June 30 â€“ September 16, 2011
+June 30 – September 16, 2011
 Opening Reception: Wednesday, June 29, 7-9pm
 
 The Vancouver Holocaust Education Centre proudly presents 
 the first solo exhibition of Vancouver-based artist Ian Penn. 
 In "Projections: A Monument to Personal Memory," Penn 
-explores memory and post-memory â€“ the Second Generationâ€™s 
-relationship to the Holocaust â€“ through drawing, video, 
+explores memory and post-memory – the Second Generation’s 
+relationship to the Holocaust – through drawing, video, 
 photography and sculpture. Portraits of elderly women 
 composed of drawings overlaid with video testimony consider 
 how individuals affected by traumatic events project their past 
 in the present. A companion piece composed of family 
 photographs transformed with wax from melted Shabbat 
 candles addresses the complexity of heritage, ritual and 
-remembrance. Pennâ€™s monument â€“ consisting of two distinct 
+remembrance. Penn’s monument – consisting of two distinct 
 but interrelated installations, the surrounding space punctured 
-by sculptures of parchment paper â€“ suggests a mode of 
+by sculptures of parchment paper – suggests a mode of 
 exhibition and commemoration in which the historical and 
 archival, as well as the personal and familial, are essential for 
 understanding.
@@ -1108,17 +1108,17 @@ Introducing the Art Wheelers - Bicycle Led Tours of Vancouver's
 Public Art
 
 In partnership with the Vancouver Area Cycling Coalition and 
-with support from the City of Vancouverâ€™s 125th Anniversary 
-Grants Program, the Art Wheelers will tour Vancouverâ€™s vibrant 
+with support from the City of Vancouver’s 125th Anniversary 
+Grants Program, the Art Wheelers will tour Vancouver’s vibrant 
 displays of public art and dedicated bike lanes in July and 
 August 2011. An arts professional and qualified cycling guide 
 will lead each tour.
 
 Two different tours and themes will be available to the public, 
 aged twelve and up. Each tour tells a unique story about 
-Vancouverâ€™s identity and history through its public art. The 
+Vancouver’s identity and history through its public art. The 
 changing bike routes offer the opportunity to explore the city in 
-new and exciting ways, while learning about the cityâ€™s Public 
+new and exciting ways, while learning about the city’s Public 
 Art program and the international and local artists they have 
 engaged.
 
@@ -1131,7 +1131,7 @@ cost $5-10 (sliding scale) and registration is required online
 (www.artwheelers.com).
 
 Proceeds will go towards the Art Wheelers community 
-partnership with The KidSafe Projectâ€™s Young Leaders Program 
+partnership with The KidSafe Project’s Young Leaders Program 
 (YLP). The Art Wheelers will offer free, bicycled led tours of 
 public art to participants of the YLP. The YLP is a summer 
 program for boys and girls in Grades 6 and 7 who live in 
@@ -1140,11 +1140,11 @@ elementary schools will participate in the tours.
 
 Art Wheelers Public Tour Dates are:
 
-1 â€“ 3 pm on Saturdays:
+1 – 3 pm on Saturdays:
 
 July 2, July 16, August 6, August 20
 
-6 â€“ 8 pm on Wednesdays:
+6 – 8 pm on Wednesdays:
 
 July 6, July 20, August 3, August 17
 
@@ -1154,7 +1154,7 @@ artwheelers@gmail.com
 -- 
 Art Wheelers: Bicycle Led Public Art Tours
 In partnership with the Vancouver Area Cycling Coalition, with 
-support from the City of Vancouverâ€™s 125th Anniversary Grants 
+support from the City of Vancouver’s 125th Anniversary Grants 
 Program
 
 Rosemary Marland Lennox and Carol-Ann Ryan

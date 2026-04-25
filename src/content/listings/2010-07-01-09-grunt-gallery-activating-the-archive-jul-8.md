@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 9
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | ACTIVATING THE ARCHIVE | JUL 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 23
 type: "EDUCATION"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Sixth and Final Session | MAR 30"
 ---
 

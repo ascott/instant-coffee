@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 5
 type: ""
+venue: "Art and Anarchy"
 summary: "Art and Anarchy | Archived Resistance | JUL 17"
 ---
 
 Archived Resistance:
 July 17 to August 8th
-Gallery open Weds-Sun: 5:30 Â– 8:30
+Gallery open Weds-Sun: 5:30  8:30
 {please contact for daytime showings}
 16 E. Hastings. Occupied Coast Salish Territories.
 

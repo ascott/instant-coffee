@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:an ethereal dream-like quality"
 emailDate: "Thu, 03 Jul 2014 14:07:59 -0700"
 number: 17
 type: ""
+venue: "The CHOREOGRAPHIC MARATHON 2014"
 summary: "The CHOREOGRAPHIC MARATHON 2014 | CALL FOR PROPOSALS | OCT 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 11
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Stone Portraits: Jesse Gray | JUL 4"
 ---
 

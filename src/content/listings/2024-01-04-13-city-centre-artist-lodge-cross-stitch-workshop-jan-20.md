@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 13
 type: "EDUCATION"
+venue: "City Centre Artist Lodge"
 summary: "City Centre Artist Lodge | Cross-Stitch Workshop? | JAN 20"
 ---
 

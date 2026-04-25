@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 11
 type: "TALK"
+venue: "AHVA Gallery (UBC)"
 summary: "AHVA Gallery (UBC) | Curator's Talk with Wil Aballe | DEC 3"
 ---
 

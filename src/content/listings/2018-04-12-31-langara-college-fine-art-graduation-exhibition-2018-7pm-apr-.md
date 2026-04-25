@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 31
 type: "OPENING"
+venue: "Langara College"
 summary: "Langara College | Fine Art Graduation Exhibition 2018 | 7PM | APR 18"
 ---
 

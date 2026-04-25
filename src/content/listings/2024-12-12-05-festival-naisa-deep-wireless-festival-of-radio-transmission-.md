@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 5
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | NAISA | Deep Wireless Festival of Radio & Transmission Art | JAN 9"
 ---
 

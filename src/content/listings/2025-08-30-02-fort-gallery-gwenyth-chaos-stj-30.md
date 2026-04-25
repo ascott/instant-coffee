@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 2
 type: "EVENT"
+venue: "Fort Gallery"
 summary: "Fort Gallery | Gwenyth Chao's /st?j/ 3.0"
 ---
 

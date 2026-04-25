@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 6
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | analekta by Merle Addison | APR 7"
 ---
 

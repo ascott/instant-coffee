@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 23
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Soundwalk | SEP 19"
 ---
 

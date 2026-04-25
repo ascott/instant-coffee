@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 12
 type: "EXHIBITION"
+venue: "North Van Arts"
 summary: "North Van Arts | Mother Tongue | FEB 26"
 ---
 

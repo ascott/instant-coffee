@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 9
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | 4 PERSPECTIVES ON CHARLES EDENSHAW | JAN 11"
 ---
 
 PERSPECTIVES ON CHARLES EDENSHAW
 
-Saturday, January 11, 2pm | Curatorâ€™s Tour: Robin K. Wright
+Saturday, January 11, 2pm | Curator’s Tour: Robin K. Wright
 
 Saturday, January 18, 2pm | Perspectives Tour: Kwiaahwah Jones
 
@@ -21,7 +22,7 @@ Installation view of Charles Edenshaw, presented at the Vancouver Art
 Gallery from October 26, 2013 to February 2, 2014
 Photo: Rachel Topham, Vancouver Art Gallery
 
-Curatorâ€™s Tour: Robin K. Wright
+Curator’s Tour: Robin K. Wright
 Charles Edenshaw
 Saturday January 11, 2pm
 In the Gallery, 1st Floor
@@ -38,8 +39,8 @@ Saturday, January 18, 2pm
 In the Gallery, 1st Floor
 
 Kwiaahwah Jones presents a tour of the Charles Edenshaw exhibition 
-that emphasizes oral histories and Edenshawâ€™s social rank amongst 
-the Haida. Jones is co-curator of the Bill Reid Galleryâ€™s current 
+that emphasizes oral histories and Edenshaw’s social rank amongst 
+the Haida. Jones is co-curator of the Bill Reid Gallery’s current 
 exhibition, RezErect: Native Erotica, which provides a provocative 
 exploration into the sensuality and sexuality of works by twenty-seven 
 First Nations artists from the Northwest Coast and central Canada.
@@ -51,7 +52,7 @@ In the Gallery, 1st Floor
 
 Vancouver-based artist Corey Bulpitt presents a special tour of the 
 Charles Edenshaw exhibition, during which he will discus his 
-interpretations of Edenshawâ€™s works. Bulpitt, a great-great grandson of 
+interpretations of Edenshaw’s works. Bulpitt, a great-great grandson of 
 Edenshaw and Louis Collison, is an avid painter, jeweller, and wood 
 and argillite carver known for his playful explorations in a range of 
 mediums, from the carving of totem poles to large-scale paintings 

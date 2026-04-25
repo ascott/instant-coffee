@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 26
 type: "EXHIBITION"
+venue: "West Of Main Art Walk"
 summary: "West Of Main Art Walk | 32nd Annual West Of Main Art Walk is here! | MAY 31"
 ---
 

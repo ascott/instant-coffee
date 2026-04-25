@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 18
 type: ""
+venue: "Oxygen Art Centre"
 summary: "Oxygen Art Centre | CALL FOR SUBMISSIONS | AUG 1"
 ---
 

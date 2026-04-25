@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 19
 type: ""
+venue: "Banff International"
 summary: "Banff International | Curatorial Institute Conference Trade Secrets | NOV 12"
 ---
 
@@ -20,11 +21,11 @@ regarding: the education of curators; the challenges facing
 collection-based curators; trends in curatorial research; and the writing
 of curatorial histories.
 
-Invited guests include FranÃ§ois Aubart, Wayne Baerwaldt, Sabine
+Invited guests include François Aubart, Wayne Baerwaldt, Sabine
 Breitwieser, AA Bronson, Heather Diack, Joseph del Pesco, Rosemary Donegan,
 Sam Durant, Barbara Fischer, Richard Flood, Teresa Gleadowe, Matthew Higgs,
-Candice Hopkins, CÃ©line Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
-CuauhtÃ©moc Medina, and Joanna Mytkowska.
+Candice Hopkins, Céline Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
+Cuauhtémoc Medina, and Joanna Mytkowska.
 
 Scholarship are available for Aboriginal participants.
 

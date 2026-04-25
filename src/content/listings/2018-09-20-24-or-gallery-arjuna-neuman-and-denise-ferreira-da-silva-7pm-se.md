@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 24
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Arjuna Neuman and Denise Ferreira da Silva | 7PM | SEP 28"
 ---
 

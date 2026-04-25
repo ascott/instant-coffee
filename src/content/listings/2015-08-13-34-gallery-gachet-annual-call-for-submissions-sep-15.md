@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 34
 type: "CALL"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Annual Call For Submissions | SEP 15"
 ---
 
@@ -23,7 +24,7 @@ contemporary to outsider to exhibitions representing community-
 engaged and social practice methods as well as a diversity of 
 mediums: photography, video, performance art, drawing, 3D, 
 installation, ceramics, textiles and more. For more information on 
-Gachetâ€™s vision and Basis of Unity, please see http://gachet.org/about.
+Gachet’s vision and Basis of Unity, please see http://gachet.org/about.
 
 We welcome proposals that challenge mental health stigmas, barriers 
 to full social, cultural, and economic participation; disability art; art for 
@@ -51,19 +52,19 @@ selection process by December 15th, 2015.
 Ways to Submit
 Work can be dropped off, mailed, or emailed to the gallery. Gallery 
 Gachet aims to be a low barrier space and accepts proposals in many 
-formats â€“ paper, CD, DVD, Flash Drives and email submissions will all 
+formats – paper, CD, DVD, Flash Drives and email submissions will all 
 be accepted.
 
 Submissions Materials
 1. Documentation of your work or project may include but is not limited 
 to:
-â€¢ 10 â€“ 20 images clearly identified with name, number, title, 
+• 10 – 20 images clearly identified with name, number, title, 
 dimensions, and a numbered image list
-â€¢ a short video that typifies your work
-â€¢ audio recordings
+• a short video that typifies your work
+• audio recordings
 2. A written proposal, describing a well-thought out theme or body of 
 work, explaining what you wish to do and any special requirements 
-(250 â€“ 500 words)
+(250 – 500 words)
 3. A CV or biography, charting your arts education and exhibitions 
 history
 We value nontraditional and traditional forms of arts education and arts 

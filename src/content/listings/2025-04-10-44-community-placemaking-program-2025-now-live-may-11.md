@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 44
 type: "CALL"
+venue: "Community Placemaking Program 2025"
 summary: "Community Placemaking Program 2025 | Now Live! | MAY 11"
 ---
 

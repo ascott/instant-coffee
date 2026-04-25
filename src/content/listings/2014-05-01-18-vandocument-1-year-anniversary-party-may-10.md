@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 18
 type: ""
+venue: "VANDOCUMENT"
 summary: "VANDOCUMENT | 1 Year Anniversary Party | MAY 10"
 ---
 
@@ -15,7 +16,7 @@ On May 10 2014, VANDOCUMENT invites the public to come celebrate our
 first year of arts documentation at VIVO Media Arts Centre, 1965 Main Street, 
 Vancouver, between 8:00 pm and 2:00 am. 
 The anniversary party will feature live musical performances, video 
-installations, dance and performance pieces â€“ all by local artists. 
+installations, dance and performance pieces – all by local artists. 
 
 Some of the artists to be featured include:
 * all woman rockers Les Chausettes & local up n' comers Phantoms Again
@@ -28,7 +29,7 @@ sun
 Mondays
 * late night DJ sets by Pete O Miles & kÃ¤nˈveks + Heroshe from Chapel Sound
 
-â€¦ with more artists being added!
+… with more artists being added!
 
 Entry to our event is by donation. Proceeds will be split amongst the artists 
 and VANDOC.
@@ -41,7 +42,7 @@ Vancouver. We accomplish this through three lenses: interviews, previews
 and reviews. 
 
 VANDOCUMENT founder, Ash Tanasiychuk, is a photographer with the vision 
-of capturing the energy and diversity of Vancouverâ€™s exploding arts scene. 
+of capturing the energy and diversity of Vancouver’s exploding arts scene. 
 One year ago, he started VANDOCUMENT, a collective of photographers, 
 videographers, and writers, to portray the exciting vibe of local artists in 
 images and words. The aim is to generate interest, awareness, and support 
@@ -49,7 +50,7 @@ for the art-makers in our midst, to create a vibrant archive that tells the stor
 of the creative surge in Vancouver, as well as connect the larger population 
 of Vancouverites with the art and art events happening around them.
 
-In the last year, VANDOCUMENTâ€™s team of over 40 volunteers have covered 
+In the last year, VANDOCUMENT’s team of over 40 volunteers have covered 
 more than 150 different arts events, including: gallery shows, performances, 
 dance, theatre, music, film and video, and all manners of new and explorative 
 media. The evolving archive can be found on the VANDOCUMENT website at 

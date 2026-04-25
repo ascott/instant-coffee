@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 11
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Zineb Sedira | MAR 12"
 ---
 
@@ -20,14 +21,14 @@ ECU Theatre (SB301)
 
 This exhibition of London-based artist Zineb Sedira is the only solo exhibition 
 in the multi-part series The Voyage, or Three Years at Sea. Born in France to 
-Algerian parents, Sedira explores Algeriaâ€™s colonial past and the themes of 
+Algerian parents, Sedira explores Algeria’s colonial past and the themes of 
 migration and displacement through sea-related narratives. The 
-Mediterranean Sea plays a significant role in the artistâ€™s work as the site of 
+Mediterranean Sea plays a significant role in the artist’s work as the site of 
 historical, cultural and contemporary â€œmovementâ€  between North Africa and 
 Europe.
 
 The exhibition at the Charles H. Scott Gallery will consist of two recent multi-
-disciplinary projects â€“ Transmettre en abyme, 2012 and Lighthouse in the 
+disciplinary projects – Transmettre en abyme, 2012 and Lighthouse in the 
 Sea of Time, 2011. In Lighthouse in the Sea of Time, Sedira turns her 
 attention to lighthouses on the Algerian coastline. Through her exploration of 
 these impressive structures and the objects and archival materials they 

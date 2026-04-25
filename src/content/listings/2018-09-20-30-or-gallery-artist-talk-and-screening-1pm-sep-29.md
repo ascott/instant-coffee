@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 30
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | Artist Talk and Screening | 1PM | SEP 29"
 ---
 

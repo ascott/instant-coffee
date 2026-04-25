@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 37
 type: "EDUCATION"
+venue: "Introductory Cyanotype at Malaspina Printmakers"
 summary: "Introductory Cyanotype at Malaspina Printmakers | MAY 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 18
 type: ""
+venue: "Hunter and Cook"
 summary: "Hunter and Cook | ACCEPTING ARTIST PROJECT SUBMISSION | DEC 15"
 ---
 

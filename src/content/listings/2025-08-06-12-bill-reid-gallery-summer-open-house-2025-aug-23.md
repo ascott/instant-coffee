@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Draw a Blank"
 emailDate: "Tue, 05 Aug 2025 21:15:15 -0700"
 number: 12
 type: "EVENT"
+venue: "Bill Reid Gallery"
 summary: "Bill Reid Gallery | Summer Open House 2025 | AUG 23"
 ---
 

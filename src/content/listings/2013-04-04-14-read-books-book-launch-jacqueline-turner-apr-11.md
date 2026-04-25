@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 14
 type: ""
+venue: "READ Books"
 summary: "READ Books | Book Launch: Jacqueline Turner | APR 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 17
 type: ""
+venue: "DIM Cinema at the Pacific Cinematheque"
 summary: "DIM Cinema at the Pacific Cinematheque | Voyeurism and Surveillance in Video | JAN 21"
 ---
 
@@ -25,8 +26,8 @@ required are furiously expanding, filling up ever-accumulating archives that
 paradoxically function to erase as much as to preserve.
 
 The artists in this program find ways to make this seemingly inadequate data 
-speak, to locate the extraordinary within the trivial. In Christina Battleâ€™s short 
-video, the CIAâ€™s legacy of spying and the mysterious secrecy of its archive 
+speak, to locate the extraordinary within the trivial. In Christina Battle’s short 
+video, the CIA’s legacy of spying and the mysterious secrecy of its archive 
 visually erupts, only to reveal a paucity of information and the mundane labour 
 of filing. John Smith likewise offers minimal yet pointed visual imagery while 
 producing a personal narrative that navigates the increasing pressures of state 
@@ -36,7 +37,7 @@ surveillance through the twinned developments of lens-based camera
 technology and the mass observation movement. In each of the works, the 
 technologies of surveillance reveal themselves at once as personally 
 subjective, authoritatively powerful, and determined by multiple, unknowable 
-agents. â€“ Stephen Wichuk and Jayne Wilkinson
+agents. – Stephen Wichuk and Jayne Wilkinson
 
 Christina Battle, Wandering Through Secret Storms. 2009, DV, 6mins, 
 Canada.
@@ -48,8 +49,8 @@ USA.
 Total running time: approx. 83 mins.
 
 This program was curated by graduate students at the University of British 
-Columbia in a seminar, led by John Oâ€™Brian of the Department of Art History, 
-Visual Art, and Theory, titled â€œSurveillance, Voyeurism, Criminality, and 
+Columbia in a seminar, led by John O’Brian of the Department of Art History, 
+Visual Art, and Theory, titled “Surveillance, Voyeurism, Criminality, and 
 Photography.â€  Participants included Vikki Addona, Kate Henderson, Jeremy 
 Jaud, Kyoung Yong Lee, Dana Loughlin, Vanessa Parent, Robin Simpson, 
 Sofia Stalner, Shalini Vanan, Stephen Wichuk, and Jayne Wilkinson.

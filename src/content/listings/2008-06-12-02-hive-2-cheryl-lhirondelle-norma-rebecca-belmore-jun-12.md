@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: itty bitty blob"
 emailDate: "Thu, 12 Jun 2008 08:02:51 -0700"
 number: 2
 type: ""
+venue: "HIVE 2"
 summary: "HIVE 2 | Cheryl LHirondelle, Norma, Rebecca Belmore | JUN 12"
 ---
 

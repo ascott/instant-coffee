@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 18
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | Richard Boulet | SEP 5"
 ---
 

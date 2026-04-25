@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 12
 type: "EVENT"
+venue: "Meet at the Belkin"
 summary: "Meet at the Belkin | Narratives of Property outdoor walk | 2PM | APR 12"
 ---
 

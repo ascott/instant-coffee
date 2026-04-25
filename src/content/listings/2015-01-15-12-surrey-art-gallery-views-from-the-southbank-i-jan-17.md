@@ -4,16 +4,17 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 12
 type: "OPENING"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Views from the Southbank I | JAN 17"
 ---
 
 Views from the Southbank I: Histories, Memories, Myths
-Re:Sourceâ€“A Living Archive 1975â€“2015
-Taryn Hubbard: Surrey City Centre nÃ©e Whalley
+Re:Source–A Living Archive 1975–2015
+Taryn Hubbard: Surrey City Centre née Whalley
 
-January 17â€“March 15 | Opening Reception: January 17, 7:30â€“9:30pm
+January 17–March 15 | Opening Reception: January 17, 7:30–9:30pm
 Formal remarks begin at 7:45 pm (opening is preceded by curator s tour from
-6:30â€“7:30pm)
+6:30–7:30pm)
 
 We're kicking off our 40th anniversary with 3 exhibitions focused on South
 of Fraser art.
@@ -28,13 +29,13 @@ Gibbons, Ravi Gill, Shandis Harrison, Jeremy Herndl, Brian Howell, Reuben
 Kambeitz, Micah Lexier, Suzanne Northcott, Deborah Putman, Bill Rennie, Don
 Romanchuck, Carol Sawyer, Kevin Schmidt, and Lenore Tkachuk.
 
-Also on display is Re:Sourceâ€“A Living Archive 1975â€“2015, an evolving
+Also on display is Re:Source–A Living Archive 1975–2015, an evolving
 installation that brings the Gallery's diverse archive to life through the
 lens of 5 artists: Jim Adams, Polly Gibbons, Cora Li-Leger, Haruko Okano,
 and Mandeep Wirk.
 
 Surrey-based writer Taryn Hubbard kicks off the first exhibition of Open
-Sound 2015: Polyphonic Cartograph with Surrey City Centre nÃ©e Whalleyâ€”a
+Sound 2015: Polyphonic Cartograph with Surrey City Centre née Whalley—a
 five channel soundscape of Surrey's new City Centre and surrounding community.
 
 Surrey Art Gallery gratefully acknowledges the financial assistance of City
@@ -42,7 +43,7 @@ of Surrey, BC Arts Council, Canada Council for the Arts, Government of
 Canada through the Department of Canadian Heritage, and Vancouver Foundation.
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 Canada
 V3W 3L1

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 19
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Sound Thinking 2010 | NOV 21"
 ---
 

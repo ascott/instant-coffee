@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 35
 type: "TALK"
+venue: "Strathcona Branch VPL"
 summary: "Strathcona Branch VPL | The Foreshore | Subterranean Weaving | 7-830PM | JUN 5"
 ---
 

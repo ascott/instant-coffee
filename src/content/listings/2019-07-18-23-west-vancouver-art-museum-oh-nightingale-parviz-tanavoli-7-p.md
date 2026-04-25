@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 23
 type: "OPENING"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | Oh Nightingale: Parviz Tanavoli | 7 PM | JUL 23"
 ---
 

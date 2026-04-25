@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 27
 type: ""
+venue: "MALASPINA Printmakers"
 summary: "MALASPINA Printmakers | 2 job oppurtunities | MAR 28"
 ---
 
@@ -12,7 +13,7 @@ STUDIO COORDINATOR
 Reporting to the Executive Director, the Studio Coordinator oversees the
 effective operation of the studio, develops and coordinates workshops and
 courses, and provides guidance and direction to renters that ensure all
-actions align with the Societyâ€™s set standards.
+actions align with the Society’s set standards.
 Responsibilities
 
 * Maintain the physical studio and equipment to a safe
@@ -71,7 +72,7 @@ Application in the subject line.
 PROGRAM ASSISTANT
 
 Under the direction of the Executive Director, the Program Assistant plays
-an integral role in administering the Societyâ€™s mandate through
+an integral role in administering the Society’s mandate through
 coordinating membership renewals, the print sales program, the exhibition
 program and gallery volunteers.
 

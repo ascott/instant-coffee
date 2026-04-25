@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 3
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Dear Leader, What I Love . . . | MAR 23"
 ---
 

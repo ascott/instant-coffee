@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 18
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | UNIT/PITT @ Pale Fire Projects | SOUND OF THE SUN | 9PM | JUL 28"
 ---
 

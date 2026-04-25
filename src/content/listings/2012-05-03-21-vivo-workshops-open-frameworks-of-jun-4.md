@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 21
 type: ""
+venue: "VIVO Workshops"
 summary: "VIVO Workshops | open Frameworks (oF) | JUN 4"
 ---
 

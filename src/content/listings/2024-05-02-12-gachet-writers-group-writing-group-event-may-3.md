@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 12
 type: "EVENT"
+venue: "Gachet Writers Group"
 summary: "Gachet Writers Group | Writing Group Event | MAY 3"
 ---
 

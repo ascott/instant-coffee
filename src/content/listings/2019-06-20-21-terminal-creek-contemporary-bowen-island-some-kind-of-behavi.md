@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 21
 type: "OPENING"
+venue: "Terminal Creek Contemporary (BOWEN ISLAND)"
 summary: "Terminal Creek Contemporary (BOWEN ISLAND) | Some Kind of Behaviour | 12-4PM | JUN 22"
 ---
 

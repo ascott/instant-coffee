@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 12
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | #CAGReads | Leisure presents Herland | MAY 9"
 ---
 

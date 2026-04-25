@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 9
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Screening: Hito Steyeri NOV 27"
 ---
 

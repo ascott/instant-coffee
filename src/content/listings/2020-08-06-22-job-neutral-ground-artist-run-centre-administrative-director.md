@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the commute"
 emailDate: "Thu, 06 Aug 2020 10:45:10 -0700"
 number: 22
 type: ""
+venue: "JOB"
 summary: "JOB | Neutral Ground Artist-Run Centre | Administrative Director | SEP 8"
 ---
 

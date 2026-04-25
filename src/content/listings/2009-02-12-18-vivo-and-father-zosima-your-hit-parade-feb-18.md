@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 18
 type: ""
+venue: "VIVO and Father Zosima"
 summary: "VIVO and Father Zosima | YOUR HIT PARADE | FEB 18"
 ---
 

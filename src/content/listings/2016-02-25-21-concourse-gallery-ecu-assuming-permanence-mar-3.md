@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 21
 type: "OPENING"
+venue: "Concourse Gallery @ ECU"
 summary: "Concourse Gallery @ ECU | Assuming Permanence | MAR 3"
 ---
 

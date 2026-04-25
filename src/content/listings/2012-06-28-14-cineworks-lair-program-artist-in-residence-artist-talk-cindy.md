@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 14
 type: ""
+venue: "Cineworks LAIR Program"
 summary: "Cineworks LAIR Program | Artist In Residence & ARTIST TALK: Cindy Mochizuki | JUL 19"
 ---
 

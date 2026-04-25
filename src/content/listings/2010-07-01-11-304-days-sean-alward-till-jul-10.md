@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 11
 type: ""
+venue: "304 Days"
 summary: "304 Days | Sean Alward | Till | JUL 10"
 ---
 

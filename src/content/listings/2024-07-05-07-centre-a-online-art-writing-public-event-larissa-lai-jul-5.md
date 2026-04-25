@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 7
 type: "TALK"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | Art Writing Public Event: Larissa Lai | JUL 5"
 ---
 

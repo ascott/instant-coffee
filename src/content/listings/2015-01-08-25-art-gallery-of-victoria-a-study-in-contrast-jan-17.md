@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 25
 type: "EXHIBITION"
+venue: "Art Gallery of Victoria"
 summary: "Art Gallery of Victoria | A Study in Contrast | JAN 17"
 ---
 
@@ -24,7 +25,7 @@ established Grosvenor School of Modern Art, staying until 1928. At the
 school she learned colour linocutting from instructor Claude Flight. He
 introduced his pupils to the formal language of the avant-garde art of the
 Italian Futurists, the French Cubists, and the English Vorticists, all of
-which influenced Andrewâ€™s work. Following World War II Andrews emigrated
+which influenced Andrew’s work. Following World War II Andrews emigrated
 from Britain to Campbell River, BC, where she spent the rest of her life
 adapting her modernist approach to decidedly West Coast subjects including
 First Nations culture, the rainforest, and the logging and fishing industries.
@@ -32,8 +33,8 @@ First Nations culture, the rainforest, and the logging and fishing industries.
 Gwenda Morgan studied wood-engraving, part-time, with a variety of
 instructors from 1930-36 at the Grosvenor School. The precision of wood
 engraving appealed to her, as did its relative simplicity as a technique.
-In 1939 she joined the Womenâ€™s Land Army, labouring on local farms
-throughout World War II, and leaving a diary of her time as a â€˜land-girlâ€™.
+In 1939 she joined the Women’s Land Army, labouring on local farms
+throughout World War II, and leaving a diary of her time as a ‘land-girl’.
 Many of her experiences as well as the people and places of her home in the
 Sussex countryside were incorporated into her art. Morgan illustrated books
 for several private presses from 1936 onwards and exhibited occasionally.

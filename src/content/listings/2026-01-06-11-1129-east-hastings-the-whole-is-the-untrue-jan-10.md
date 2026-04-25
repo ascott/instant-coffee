@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 11
 type: "OPENING"
+venue: "1129 East Hastings"
 summary: "1129 East Hastings | The Whole is the Untrue | JAN 10"
 ---
 

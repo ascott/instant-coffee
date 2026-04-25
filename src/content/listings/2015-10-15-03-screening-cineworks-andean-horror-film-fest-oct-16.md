@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 3
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Andean Horror Film Fest | OCT 16"
 ---
 
@@ -83,22 +84,22 @@ that celebrates fantastic horror and folktales.
 Schedule:
 
 Friday October 16:
-5:00 pm â€“ The Curse of Jarjacha.
-7:00 pm â€“ The Other Cinema
-8:00 pm â€“ Opening Reception
+5:00 pm – The Curse of Jarjacha.
+7:00 pm – The Other Cinema
+8:00 pm – Opening Reception
 
 Saturday October 17:
-5:00 pm â€“ The Mystery of the Kharisiri
-7:30 pm â€“ Pishtaco
+5:00 pm – The Mystery of the Kharisiri
+7:30 pm – Pishtaco
 
 Friday October 23:
-5:00 pm â€“ Pishtaco
-7:00 pm â€“ The Mystery of the Kharisiri
+5:00 pm – Pishtaco
+7:00 pm – The Mystery of the Kharisiri
 
 Saturday October 24:
-5:00 pm â€“ The Curse of Jarjacha
-7:00 pm â€“ The Other Cinema. Directors
-8:00 pm â€“ Horror in the Andes: A discussion on Andean folktales and genre films
+5:00 pm – The Curse of Jarjacha
+7:00 pm – The Other Cinema. Directors
+8:00 pm – Horror in the Andes: A discussion on Andean folktales and genre films
 
 Over its thirty year history, the School for the Contemporary Arts at SFU
 has produced outstanding alumni who have gone on to play a major role in

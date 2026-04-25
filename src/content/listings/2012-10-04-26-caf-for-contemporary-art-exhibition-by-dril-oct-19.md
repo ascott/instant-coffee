@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 26
 type: ""
-summary: "cafÃ© for contemporary art | Exhibition by DRIL | OCT 19"
+venue: "café for contemporary art"
+summary: "café for contemporary art | Exhibition by DRIL | OCT 19"
 ---
 
-cafÃ© for contemporary art presents
+café for contemporary art presents
 
 Idle Wild
 Exhibition by DRIL
 
-October 11 â€“ November 16 | Opening Reception: Friday, October 19, 6 - 9 
+October 11 – November 16 | Opening Reception: Friday, October 19, 6 - 9 
 pm
 
 140 E Esplanade, North Vancouver | 778.340.3379 | 
@@ -44,7 +45,7 @@ the unruly nature of imagination amidst the mundane.
 The second work is an immersive four-channel video installation of a hypnotic 
 drive through a nondescript neighborhood. The absence of narrative invites the 
 mind to wander, guided by subconscious desires to interpret the aesthetic 
-contours of the journey and the chance encounters recorded by the cameraâ€™s 
+contours of the journey and the chance encounters recorded by the camera’s 
 automated eye. In this dense emptiness of suburban sprawl, nature looms 
 ominously at its edges, complicating the ideal of the picturesque that the 
 original suburbs sought to be closer to. 
@@ -63,9 +64,9 @@ responsive installations and performances that draw from iconic histories and
 popular culture to question how meaning and history is formulated, perceived 
 and presented. Their poetic explorations of the everyday heighten an 
 awareness of cultural constructs, while reimagining their significance in our 
-present cultural climate. Recent exhibitions include Drifterâ€™s Clip at Open 
+present cultural climate. Recent exhibitions include Drifter’s Clip at Open 
 Space in Victoria, BC (2011) and City Hall, a site-specific performative 
-drawing installation for Vancouverâ€™s city-wide Drawn Festival (2009). In 2013, 
+drawing installation for Vancouver’s city-wide Drawn Festival (2009). In 2013, 
 DRIL will participate in a group exhibition at Kamloops Art Gallery. 
 
 Idle Wild is curated by Joni Low.

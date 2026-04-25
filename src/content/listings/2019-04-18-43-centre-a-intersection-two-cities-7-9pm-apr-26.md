@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 43
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Intersection - Two Cities | 7-9PM | APR 26"
 ---
 

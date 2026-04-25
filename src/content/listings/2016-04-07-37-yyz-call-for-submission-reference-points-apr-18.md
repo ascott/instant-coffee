@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 37
 type: "CALL"
+venue: "YYZ"
 summary: "YYZ | Call for Submission: Reference Points | APR 18"
 ---
 

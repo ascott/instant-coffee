@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 31
 type: "TALK"
+venue: "CAG and Gallery Gachet"
 summary: "CAG and Gallery Gachet | FOR A NEW ACCESSIBILITY panel discussion | NOV 22"
 ---
 
@@ -18,8 +19,8 @@ Gallery Gachet and artist Carmen Papalia.
 Amanda Cachia, Carmen Papalia, Cheryl L'Hirondelle and Margaret
 Dragu: moderated by Cecily Nicholson.
 
-The social condition of disabilityâ€”in which a group or individual is
-disempowered by the systems that they are in relation toâ€”is an
+The social condition of disability—in which a group or individual is
+disempowered by the systems that they are in relation to—is an
 epidemic that effectively marginalizes entire communities with diverse
 and complex needs. Locally, this oppression plays out in schools,
 hospitals, cultural institutions, policing, and through various arms of
@@ -33,7 +34,7 @@ towards a new accessibility:
 -How does our negotiation of access alter our environment?
 -What are the tenets of an open model for access?
 
-BIOâ€™s of participants:
+BIO’s of participants:
 
 Amanda Cachia is an independent curator from Sydney, Australia and
 is currently completing her PhD in Art History, Theory & Criticism at the
@@ -57,12 +58,12 @@ Richmond Women's Centre's Inspirational Woman Award & Mall
 Peepre Award for Outstanding Fitness Leader. She is an internationally
 famous cleaning lady.
 
-Cheryl Lâ€™Hirondelle is an Alberta-born mixed blood
+Cheryl L’Hirondelle is an Alberta-born mixed blood
 (Cree/Metis/German/Polish) community-engaged multi /
 interdisciplinary artist and singer/songwriter, who has been presenting
-and exhibiting her work since the 1980â€™s. Her creative practice
-investigates a Cree worldview (nÃªhiyawin) in contemporary time-space.
-Lâ€™Hirondelle uses song, voice, audio and more to develop endurance-
+and exhibiting her work since the 1980’s. Her creative practice
+investigates a Cree worldview (nêhiyawin) in contemporary time-space.
+L’Hirondelle uses song, voice, audio and more to develop endurance-
 based performances, interventions, site-specific installations,
 participatory projects while she keeps singing and writing songs where
 ever and with whomever she can. Currently Toronto-based, Cheryl has

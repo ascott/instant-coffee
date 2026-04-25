@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 26
 type: ""
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Night Shift \"Quantum: Future Possibilities\" | FEB 15"
 ---
 

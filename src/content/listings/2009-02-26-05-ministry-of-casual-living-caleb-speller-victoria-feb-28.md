@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 5
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | caleb speller | Victoria | FEB 28"
 ---
 

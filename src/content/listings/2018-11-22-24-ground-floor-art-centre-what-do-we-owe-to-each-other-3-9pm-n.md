@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 24
 type: "EVENT"
+venue: "Ground Floor Art Centre"
 summary: "Ground Floor Art Centre | What Do We Owe To Each Other? | 3-9pm | NOV 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 8
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Patrick Cruz, A.S. Dhillon, Debbie Tuepah, ART2012 | JUN 23"
 ---
 
@@ -91,7 +92,7 @@ ARTS 2012 continues to August 18.
 
 These exhibitions are presented concurrently with the outdoor sound 
 art installation Audio Migration (2012) by artist Alex Grunenfelder, 
-which is part of Open Sound 2012: On Air, Underground â€“ Making the 
+which is part of Open Sound 2012: On Air, Underground – Making the 
 Inaudible Audible, guest curated by Ross Birdwise.
 
 The Surrey Art Gallery would like to gratefully acknowledge the Canada 

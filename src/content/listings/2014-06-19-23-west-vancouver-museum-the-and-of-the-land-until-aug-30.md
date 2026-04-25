@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 23
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | THE AND OF THE LAND | until | AUG 30"
 ---
 
@@ -27,10 +28,10 @@ The artists in the exhibition are connected through their relationships to
 one another, as mentors, teachers, students, and friends, and their works 
 address overlapping themes, or even depict the same sights as different 
 visions. Set side by side in the exhibition, windows by Roy Kiyooka and 
-Takao Tanabe look out and in, Pierre Coupeyâ€™s remembered landscape is 
-contrasted with John Fulkerâ€™s real-time photograph, and an apparently 
+Takao Tanabe look out and in, Pierre Coupey’s remembered landscape is 
+contrasted with John Fulker’s real-time photograph, and an apparently 
 dispassionate aerial view of Canada by Michael de Courcy connects Sylvia 
-Taitâ€™s intimate Montreal interior to a publicly accessible Howe Sound drawn 
+Tait’s intimate Montreal interior to a publicly accessible Howe Sound drawn 
 by B. C. Binning.
 
 Although the islands in one harbour may share wall space with the islands 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sorry if my dismissal seemed flipp
 emailDate: "Thu, 22 Jan 2009 12:05:21 -0800"
 number: 7
 type: ""
+venue: "Other Sights for Artists' Projects"
 summary: "Other Sights for Artists' Projects | SHAUN GLADWELL/STORM SEQUENCE | til | JAN 25"
 ---
 
@@ -30,7 +31,7 @@ skateboarding on the concrete pilings, caught in that moment of heightened
 energy just before the storm breaks. Gladwell's skateboarder depicts a
 romantic figure of the beauty and self-absorption of youth, and slowing the
 speed of the image emphasizes the agility and grace of his movement.
-GladwellÃ¢ï¿½ï¿½s work typically explores youth subcultures as a manifestation of
+Gladwellâ��s work typically explores youth subcultures as a manifestation of
 physical prowess in relation to commerce and architectural space. He
 positions his work within a tradition of artistic gestures that respond to
 the city.
@@ -45,14 +46,14 @@ artists, Contemporary Art Centre Vilnius (CAC), Lithuania. He is a founding
 member of the Sydney-based artist collective Imperial Slacks and his work
 is represented by the Anna Schwartz Gallery, Sydney.
 
-OTHER SIGHTS FOR ARTISTSÃ¢ï¿½ï¿½ PROJECTS seeks to create a presence for art in
+OTHER SIGHTS FOR ARTISTSâ�� PROJECTS seeks to create a presence for art in
 spaces and sites that are accessible to a broad public, such as the built
 environment, communications technologies, the media, and the street. Other
 Sights presents projects that consider the aesthetic, economic and
 regulatory conditions of public places and public life.
 
-Storm Sequence is the second project of Other SightÃ¢ï¿½ï¿½s Looking Up program, a
-curated series of artistsÃ¢ï¿½ï¿½ works displayed on the Granville/Robson LED
+Storm Sequence is the second project of Other Sightâ��s Looking Up program, a
+curated series of artistsâ�� works displayed on the Granville/Robson LED
 screens.
 
 Other Sights gratefully acknowledges the support of the Canada Council for

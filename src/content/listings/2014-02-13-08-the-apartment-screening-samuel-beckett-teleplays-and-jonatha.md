@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 8
 type: ""
+venue: "The Apartment"
 summary: "The Apartment | Screening Samuel Beckett Teleplays | and & Jonathan Baldock Performances | FEB 14"
 ---
 

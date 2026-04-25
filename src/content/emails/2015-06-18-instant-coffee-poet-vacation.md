@@ -13,7 +13,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-06-18-01-kiac-dawson-city-midnight-sun-camera-obscura-festival-jun-17">01. EVENT | KIAC Dawson City | Midnight Sun Camera Obscura Festival | JUN 17</a>
 <a href="/instant-coffee/listings/2015-06-18-02-belkin-art-gallery-melancholy-bay-jun-18">02. OPENING | Belkin Art Gallery | Melancholy Bay | JUN 18</a>
-<a href="/instant-coffee/listings/2015-06-18-03-index-gallery-jacquelyn-ross-the-poets-vacation-jun-18">03. OPENING | INDEX Gallery | Jacquelyn Ross - The Poetâ€™s Vacation | JUN 18</a>
+<a href="/instant-coffee/listings/2015-06-18-03-index-gallery-jacquelyn-ross-the-poets-vacation-jun-18">03. OPENING | INDEX Gallery | Jacquelyn Ross - The Poet’s Vacation | JUN 18</a>
 <a href="/instant-coffee/listings/2015-06-18-04-initial-gallery-bjornson-blandy-carter-collective-verses-jun">04. OPENING | Initial Gallery | Bjornson Blandy Carter Collective: Verses | JUN 18</a>
 <a href="/instant-coffee/listings/2015-06-18-05-publication-wallpapers-series-3-jun-18">05. PUBLICATION | WALLPAPERS | Series 3 | JUN 18</a>
 <a href="/instant-coffee/listings/2015-06-18-06-yactac-dynamo-in-spite-of-the-abyss-jun-18">06. OPENING | Yactac @ Dynamo | In spite of the abyss | JUN 18</a>
@@ -53,20 +53,20 @@ Dianne Bos (Canada/France), Lea Bucknell (Canada), Bob Jickling (Canada),
 Ernie Kroeger (Canada), Donald Lawrence (Canada), Doug Smarch (Canada),
 Holly Ward and Kevin Schmidt AKA Desire Machine (Canada/Germany), Carsten
 Wirth (Germany), Andrew Wright (Canada), Mike Yuhasz (Canada). With talks,
-research contributions and writing from Sven DuprÃ© (Germany), Petran
+research contributions and writing from Sven Dupré (Germany), Petran
 Kockelkoren (Holland) and Lance Blomgren (Canada).
 
 During the solstice week, Dawson City will host three projects that look to
-optical historyâ€”the legacy of camera obscurasâ€”as means of interrogating and
+optical history—the legacy of camera obscuras—as means of interrogating and
 celebrating the overlapping domains of art, science, and popular entertainment.
 
 The four-day Camera Obscura Festival features 10 artists who have
 constructed site-specific, temporary camera obscuras that are publically
 accessible in different areas of town. Ranging from small portable devices
-to larger walk-in structures, these darkened spaces will capture Dawsonâ€™s
+to larger walk-in structures, these darkened spaces will capture Dawson’s
 longest days in ways that range from the spooky to the sublime.
 
-In conjunction with the festival, KIACâ€™s ODD Gallery will feature The World
+In conjunction with the festival, KIAC’s ODD Gallery will feature The World
 Inside, a group exhibition with artists Dianne Bos, Lea Bucknell, Bob
 Jickling, Ernie Kroeger, Donald Lawrence, Holly Ward and Kevin Schmidt AKA
 Desire Machine, Andrew Wright and Mike Yuhasz. As a counterpoint to the
@@ -88,7 +88,7 @@ interest in the manner in which early or low-tech forms of imaging,
 illusion and other communications technologies may be merged with new
 technology or with what is now the mundane or obsolete technology of modern
 times. Most of the artists have created works that are self-illuminated;
-the camera obscuraâ€™s optical properties just a starting point for their
+the camera obscura’s optical properties just a starting point for their
 thinking. With work by Dion Fortie, Ryland Fortie, Megan Gamble, Levi
 Glass, Eliza Houg, Devon Lindsay and Bo Yeung.
 
@@ -97,7 +97,7 @@ SCHEDULE
 Wednesday, June 17
 â€œâ€¦strange things doneâ€¦â€  opening: 6-7pm @ SOVA
 Festival Opening Remarks: 7:30pm @ KIAC Ballroom
-Keynote Speaker: Sven DuprÃ©: 7:45pm @ KIAC Ballroom
+Keynote Speaker: Sven Dupré: 7:45pm @ KIAC Ballroom
 
 Thursday, June 18
 Workshop with Donald Lawrence: 3-6pm (drop-ins welcomed) @ Shipwrecks
@@ -129,10 +129,10 @@ _
 Based at Thompson Rivers University in Kamloops, B.C., The Camera Obscura
 Project and this Festival have received funding through an Insight grant
 from The Social Sciences and Humanities Research Council of Canada and from
-the Canada Council for the Arts. Please visit the groupâ€™s website
+the Canada Council for the Arts. Please visit the group’s website
 midnightsuncameraobscura.com or
 www.kiac.ca/oddgallery/projects/cameraobscuraproject/ for updated
-information as the Festival draws near and to learn about group membersâ€™
+information as the Festival draws near and to learn about group members’
 practices.
 
 Klondike Institute of Art & Culture
@@ -159,7 +159,7 @@ and only kilometres west of the ancient city of
 c̓əsnaʔəm, looks out over
 English Bay, Howe Sound and the Georgia Straight, all bodies of water
 renamed by George Vancouver in the 1790s. The title Melancholy Bay is a
-reference to Vancouverâ€™s dispirited response to what he saw as â€œa sublime,
+reference to Vancouver’s dispirited response to what he saw as “a sublime,
 though gloomy spectacle.â€  The settler culture that followed Vancouver to
 establish jurisdiction and displace the indigenous villages and place names
 has been consistent in admixing descriptions of majestic landscape with
@@ -177,7 +177,7 @@ to be an hour. In English Bay it was twelve hours.
 
 Melancholy Bay presents a variety of artistic perspectives that illustrate
 how the port of Vancouver and its environs have been represented over
-several decades. The Universityâ€™s Art Collection yielded works that can be
+several decades. The University’s Art Collection yielded works that can be
 seen as historic documents as well as works of art. These range from the
 bucolic examples of B.C. Binning and Irene Hoffar Reid, social/historical
 ruminations of Roy Arden, Jack Shadbolt and Anne Ramsden, to poetic
@@ -189,12 +189,12 @@ Melancholy Bay also celebrates the twentieth anniversary of the Morris and
 Helen Belkin Art Gallery, which opened in June 1995 and replaced the former
 UBC Fine Arts Gallery that was located since 1948 in the basement of the
 old Main Library. The Gallery is the result of a gift from Dr. Helen Belkin
-and her family. Dr. Belkin was a veteran of the Universityâ€™s heroic
+and her family. Dr. Belkin was a veteran of the University’s heroic
 modernist years when she worked for President Norman MacKenzie. It was
 under his leadership that the Fine Arts, Music and Theatre buildings were
 constructed, and the Belkin Art Gallery completes this fine arts quadrant.
 Designed by Peter Cardew, the award-winning building is a modernist
-constructionâ€”even polemically soâ€”and thus reflects the Galleryâ€™s
+construction—even polemically so—and thus reflects the Gallery’s
 aspirations and traditions. The UBC Fine Arts Gallery was completely
 transformed by the move to the current building and rededication; while the
 former Gallery was exclusively an exhibition space, the Morris and Helen
@@ -206,7 +206,7 @@ artworks through purchase and the generosity of donations.
 This exhibition is made possible with the generous support of the Canada
 Council for the Arts. We gratefully acknowledge the Canada Council
 Acquisitions Assistance program, the Morris and Helen Belkin Foundation,
-our Belkin Curatorâ€™s Forum members and our individual donors who
+our Belkin Curator’s Forum members and our individual donors who
 financially support our acquisitions and donate artworks to the collection.
 
 -
@@ -216,9 +216,9 @@ tel: (604) 822-1389, or fax: (604) 822-6689
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-06-18-03-index-gallery-jacquelyn-ross-the-poets-vacation-jun-18">03. OPENING | INDEX Gallery | Jacquelyn Ross - The Poetâ€™s Vacation | JUN 18</a>
+<a href="/instant-coffee/listings/2015-06-18-03-index-gallery-jacquelyn-ross-the-poets-vacation-jun-18">03. OPENING | INDEX Gallery | Jacquelyn Ross - The Poet’s Vacation | JUN 18</a>
 ------------------------------------------------------------------------
-Jacquelyn Ross | The Poetâ€™s Vacation
+Jacquelyn Ross | The Poet’s Vacation
 
 Opening / 7pm
 Reading / 8pm
@@ -233,11 +233,11 @@ Vancouver
 others drudge and labour. Though to be sure, I myself perhaps drudge away
 at times, when all these industrious workmen have knocked off themselves
 and are taking a rest. In passing, a fitter calls to me: 'It looks to me
-youâ€™re out for a walk again, working hours too!' I laugh and wave to him
+you’re out for a walk again, working hours too!' I laugh and wave to him
 and blithely admit that he is right."
-â€”Robert Walser, The Walk
+—Robert Walser, The Walk
 
-Exploring themes of improvised leisure and creative labour, The Poetâ€™s
+Exploring themes of improvised leisure and creative labour, The Poet’s
 Vacation features new painting, sculpture and writing by Jacquelyn Ross.
 Inspired by garden design, folk etymology and theories of meandering,
 objects are worked and reworked to consider questions of translation and
@@ -386,16 +386,16 @@ Stairs," a photography exhibition by French artist Emile Rubino. Two
 special edition prints realized for the exhibition will be available for
 purchase at the event.
 
-"Ã‰tudes et mesures (translating as: Studies and Measurements) is an ongoing
+"Études et mesures (translating as: Studies and Measurements) is an ongoing
 cycle of individually named and numbered photographic studies, which all
 together constitute a continuous space of investigation centrally
-positioned within Emile Rubinoâ€™s work. This space allows him to explore
+positioned within Emile Rubino’s work. This space allows him to explore
 various recurrent themes or ideas, while creating an ever-evolving personal
 archive, oscillating between finished and unfinished. The present
 exhibition focuses on a thematic study of stairs revolving around one
 central picture."
 
-â€” "Studies and Measurements / Stairs," a photography exhibition by Emile
+— "Studies and Measurements / Stairs," a photography exhibition by Emile
 Rubino with special edition prints
 
 EMILE RUBINO is a French photographer currently based in Vancouver.
@@ -413,10 +413,10 @@ While exploring photographic materiality in a cautiously self-referential
 manner, his studies aim to seamlessly merge materiality and depiction in a
 symbiotic manner, pointing out their indissoluble relationship. Between
 tradition and contemporaneity, or rather by considering "tradition" as
-indefinitely contemporary, Rubinoâ€™s work draws from various artistic
+indefinitely contemporary, Rubino’s work draws from various artistic
 influences ranging from documentary photographic traditions, photographic
 appropriation, conceptual art, painting and drawing in order to evaluate
-photographyâ€™s depictive nature within a broad artistic context.
+photography’s depictive nature within a broad artistic context.
 
 Rubino is a recent graduate of Emily Carr University of Art and Design (BFA
 in Photography). In the fall of 2015, he will begin his MFA at ICP-Bard,
@@ -434,28 +434,28 @@ PROJECT SPACE MEMBERS receive a 20% discount on Emile Rubino's set of
 special edition prints and can purchase both for $20.
 
 Monthly Open Studio events are hosted every third Friday of the month and
-are organized by Project Spaceâ€™s Curatorial Collective. This edition was
+are organized by Project Space’s Curatorial Collective. This edition was
 organized by Melanie Trojkovic.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-06-18-08-221a-vancouver-especially-public-tour-jun-20">08. TALK | 221A | Vancouver Especially: Public Tour | JUN 20</a>
 ------------------------------------------------------------------------
 Public Tour
-Saturday, June 20, 2â€“2:30pm
+Saturday, June 20, 2–2:30pm
 with Brian McBay, Director of 221A
 
 Meet at 221A exhibition room, 221 E Georgia St
 
 Vancouver Especially (A Vancouver Special scaled to its property value in
 1973, then increased by 8 fold) by Canadian artist Ken Lum is the first
-commissioned work presented at 221Aâ€™s outdoor site as part of the
+commissioned work presented at 221A’s outdoor site as part of the
 Semi-Public program at 271 Union Street. The installation is a 1:3 scale
 replica of a mass-produced, Vancouver architectural style of homes known as
 the â€œVancouver Specialâ€ , popularized from 1965 to 1985 with an estimated
 10,000 homes built. In a city that is consistently listed as one of the
-most livable places and one of the most unaffordable places in the worldâ€”a
+most livable places and one of the most unaffordable places in the world—a
 perverse marker of success for investors who make money from the struggles
-of affordabilityâ€”Lumâ€™s Vancouver Especially gives us the ability to imagine
+of affordability—Lum’s Vancouver Especially gives us the ability to imagine
 an insubordinate architecture of the future by looking to the past.
 
 Outdoors
@@ -469,8 +469,8 @@ Vancouver BC
 (604) 568-0812
 hello@221a.ca
 
-Tuesâ€“Sat 12â€“5pm
-Sunâ€“Mon closed
+Tues–Sat 12–5pm
+Sun–Mon closed
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-06-18-09-artspeak-erica-stocking-elizabeth-zvonar-tete-a-tete-jun-20">09. TALK | Artspeak | Erica Stocking & Elizabeth Zvonar Tete-a-Tete | JUN 20</a>
@@ -482,9 +482,9 @@ Saturday, June 20th at 2pm
 Artspeak,
 233 Carrall Street
 
-Please join us this Saturday, June 20th at 2pm for a tete-a-tÃªte between
+Please join us this Saturday, June 20th at 2pm for a tete-a-tête between
 Erica Stocking and Elizabeth Zvonar. The artists will be discussing
-Stockingâ€™s current solo exhibition at Artspeak. Summer refreshments will be
+Stocking’s current solo exhibition at Artspeak. Summer refreshments will be
 served!
 
 www.artspeak.ca
@@ -607,7 +607,7 @@ Mongrel Vegetables: As a follow-up to the Hua Foundation's Choi Project,
 which enhanced our familiarity to Chinese produce, artist Howie Tsui will
 lead a workshop that asks participants to hybridize elements of these
 vegetables into a portrait. This workshop will put a more Sino-centric spin
-on Giuseppe ArcimboldoÃ¢â‚¬â„¢s portraits of heads comprised of vegetables and
+on Giuseppe Arcimboldoâ€™s portraits of heads comprised of vegetables and
 fruits. Perhaps in our current context, these portraits will reflect how
 our bodies are sustained through a melange of crossbred and modified
 ingredients; or in a more benign way, these constructions just illustrate a
@@ -618,7 +618,7 @@ that strengthen our connections with culture, heritage and environmental
 sustainability. http://www.huafoundation.org/
 
 The Chamber, Ian Johnston
-4:00 pm Ã¢â‚¬â€œ 5:30 pm
+4:00 pm â€“ 5:30 pm
 Access Gallery
 222 East Georgia Street, Vancouver
 Instructor: Alex M.F. Quicho
@@ -668,7 +668,7 @@ served.
 
 Speakers, in alphabetical order:
 Vanessa Grondin (http://www.vanessagrondin.com/)
-Richard HeikkilÃ¤-Sawan (http://www.rhsimagine.com/)
+Richard Heikkilä-Sawan (http://www.rhsimagine.com/)
 Julia Dahee Hong (http://www.juliadaheehong.com/)
 Melissa King (http://www.melking.ca/)
 Deborah Kisiel
@@ -681,9 +681,9 @@ Laurel Terlesky (http://laurelterlesky.ca/)
 <a href="/instant-coffee/listings/2015-06-18-13-isea2015-volunteer-program-jun-20">13. CALL | ISEA2015 | Volunteer Program | JUN 20</a>
 ------------------------------------------------------------------------
 ISEA2015 STUDENT VOLUNTEER PROGRAM
-VOLUNTEER APPLICATION DEADLINE â€“ 20 June 2015 22:00 PST
+VOLUNTEER APPLICATION DEADLINE – 20 June 2015 22:00 PST
 The 21st International Symposium on Electronic Art invites students,
-artists, practitioners who want to be â€˜where the action isâ€™ to volunteer
+artists, practitioners who want to be ‘where the action is’ to volunteer
 for ISEA2015.
 What is ISEA2015?
 
@@ -789,7 +789,7 @@ on Twitter: https://twitter.com/ISEA2015
 ------------------------------------------------------------------------
 Attila Richard Lukacs - Lawrence Paul Yuxweluptun
 
-June 20th â€“ July 18th
+June 20th – July 18th
 Opening Reception: Saturday June 20th, 2-4pm
 
 Macaulay & Co Fine Art is thrilled to present an exhibition of new work by
@@ -807,21 +807,21 @@ trajectory. Attila lived in Berlin, New York, and Hawaii before returning
 to Vancouver; Lawrence Paul remained here, focused on the land that
 sustains him. Attila is known for oil paintings of shocking gay skinheads
 and soldiers, flowers and trees, monkeys and moons, with a compositional
-style that draws references from Bellini to Gainsborough; Lawrence Paulâ€™s
+style that draws references from Bellini to Gainsborough; Lawrence Paul’s
 work in acrylics combines and overturns a rhetoric of traditional Northwest
 Coast First Nation shapes and forms, colour theory and searing social
-commentary that simply wonâ€™t be silenced.
+commentary that simply won’t be silenced.
 
 Their work connects through many points of commonality. Both engage with
 the surreal, spirit animals and transformation, birds flying into
-paintings, melting figures. Thereâ€™s some fun with form: a dangling monkey
+paintings, melting figures. There’s some fun with form: a dangling monkey
 is a lovely calligraphy, less threatening, less sexual, more gentle than
 previous incarnations. Nostrils curve into moustache shapes, teeth take on
 a terrifying T-Rex dimension. Trees appear and contain various meanings,
 some peering right out at us. Bitumen can be a motivating controversy or
 simply a pigment, but either way stands as a focal point in the body of
 work. Areas of exploration include contemplation, the sacred, isolation,
-mystery, the nature of good and evil â€“ all is open to interpretation,
+mystery, the nature of good and evil – all is open to interpretation,
 random fragments of alphabet, enigmatic figures, mysterious black smoke
 that curls and puffs. All is on display but not much is explained, leaving
 the viewer to read the paintings and resolve them individually.
@@ -849,7 +849,7 @@ Feld, Museum Ludwig, Koln, Germany (2006).
 
 Lawrence Paul Yuxweluptun lives and works in Vancouver, BC. A forthcoming
 retrospective of his work will be on view at MOA, UBC in 2016. Recent
-exhibitions include: Belkin, UBC WITNESSES: Art and Canadaâ€™s Indian
+exhibitions include: Belkin, UBC WITNESSES: Art and Canada’s Indian
 Residential Schools(2013); National Gallery of Canada SAKAHAN:
 International Indigenous Art; Vancouver Art Gallery (2012) Shore, Forest,
 and Beyond: Work from the Audain Collection; Contemporary Art Gallery of
@@ -870,7 +870,7 @@ Steven Brekelmans & Fiona Curtis
 at Kitsilano Beach, 2:00 PM, 20 June, 2015
 
 Please join us at Kitsilano Beach on Saturday, June 20th for the launch of
-a new artistsâ€™ book by Steven Brekelmans and Fiona Curtis. â€œIf I wanted to
+a new artists’ book by Steven Brekelmans and Fiona Curtis. “If I wanted to
 sit on the sand I wouldnâ€™t have brought this logâ€  is a book of drawings of
 logs.
 
@@ -939,7 +939,7 @@ IN CONVERSATION
 MAEGAN HILL-CARROLL with RAYMOND BOISJOLY
 
 MUNIMENT MONUMENT
-June 11 â€“ Aug 8, 2015
+June 11 – Aug 8, 2015
 
 TALK: Saturday, June 20th, 2 PM
 
@@ -960,10 +960,10 @@ MAEGAN HILL-CARROLL is an artist living and working in Vancouver, Canada.
 She holds and MFA from the University of California Los Angeles and a BFA
 from the University of Manitoba where she grew up in Winnipeg building
 houses. Her work has been exhibited across Canada and in Los Angeles. Most
-recently as one of CONTACTâ€™s primary exhibition at Gallery 44 in Toronto.
+recently as one of CONTACT’s primary exhibition at Gallery 44 in Toronto.
 Her writing has been published in the contemporary art magazine Fillip.
 
-RAYMOND BOISJOLY is an artist of Haida and QuÃ©bÃ©cois descent, living and
+RAYMOND BOISJOLY is an artist of Haida and Québécois descent, living and
 working in Vancouver. Boisjoly's practice operates as active speculation;
 engaging issues of aboriginality, language as cultural practice, and the
 experiential aspects of materiality. His process is situated in proximity
@@ -1011,7 +1011,7 @@ The Documentary Organization of Canada (DOC) is the largest professional
 non-profit association of independent filmmakers in Canada, with more than
 850 members across the country and over 200 members in the BC Chapter.
 Since 1983, DOC (formerly called the CIFC/Canadian Independent Film Caucus)
-Ã¢â‚¬â€œ has been the champion of independent documentary film and television in
+â€“ has been the champion of independent documentary film and television in
 Canada.
 
 http://docbc.org
@@ -1044,7 +1044,7 @@ Register at Unity Yoga or email MysticSandwichAndy@gmail.com
 enquire.*
 
 This workshop will help you make the most of the current astrology by
-giving you a headâ€™s up on the coming monthâ€™s energies, how they will affect
+giving you a head’s up on the coming month’s energies, how they will affect
 you personally (given your sun and rising signs), key dates, and some tools
 to work with the prevailing themes. You will be guided through a
 transformational practice that takes you deep into the psyche where you can
@@ -1161,9 +1161,9 @@ Burrard Arts Foundation is pleased to present a group show of work by six
 Vancouver-based artists that address or innovate with colour by pouring,
 soaking, covering, washing, staining, inflating and negating. Recent works
 by Jeff Hallbauer, Eddy Hofbauer, Zoe Hodgson, Simone Jarvis, Ben Marvin
-and Jacobo Zambrano are paired with a semi-fictional rewriting of colourÃ¢â‚¬â„¢s
+and Jacobo Zambrano are paired with a semi-fictional rewriting of colourâ€™s
 history as a way to reimagine it as a cultural symbol of economy, power,
-pleasure, memory and science. Using fictionÃ¢â‚¬â„¢s idiosyncratic ability to
+pleasure, memory and science. Using fictionâ€™s idiosyncratic ability to
 offer alternative possibilities, the exhibition treats revisionist history
 as a rinse and colour as a flag with all the sanctioned trappings.
 
@@ -1190,8 +1190,8 @@ STEVE HUBERT
 
 WAVES & FLICKERS is a one evening live event within the Planetarium
 presenting collaborations between local contemporary artists and musicians.
-The earth is fully tilted towards the sun, itâ€™s late June in Vancouver and
-there is a wild stirring beneath the Planetariumâ€™s dome. The projected sky
+The earth is fully tilted towards the sun, it’s late June in Vancouver and
+there is a wild stirring beneath the Planetarium’s dome. The projected sky
 is blushed with the ghosts of hazy teenage laser shows and childhood
 curiosity as collaborations between local musicians and artists respond to
 and re-activate this long established site of wonder. WAVES & FLICKERS
@@ -1244,7 +1244,7 @@ Over the past 15 years, Andrew Lee has toured extensively across North
 America and Europe with In Medias Res (File Under: Music) and Siskiyou
 (Constellation Records). He has shared the stage with Kurt Vile, Julianna
 Barwick, Damien Jurado, Frog Eyes, Porcelain Raft and many more and has
-performed at notable festivals such as All Tomorrowâ€™s Parties, Primavera
+performed at notable festivals such as All Tomorrow’s Parties, Primavera
 Sound, and Sled Island. He has also presented special artistic works at the
 Vancouver Art Gallery, The Centre for Performance Research in New York City
 and Kunstradio in Vienna. ​http://www.holyhum.com/
@@ -1255,13 +1255,13 @@ Institute of Art and Design. He works in performance, media, sculpture and
 drawing. His practice involves experimentation with form and process in
 order to express inherent relationships between material and immaterial
 content. He is a founding member of the Vancouver-based artist collective
-â€˜Intermissionâ€™ and is presently a member of â€˜Instant Coffeeâ€™ artist
+‘Intermission’ and is presently a member of ‘Instant Coffee’ artist
 collective. His work has been exhibited nationally, and internationally.
 Lee lives and works in Vancouver BC. http://khanlee.com/
 
 THE RED HOT ICICLES BURNING ON FIRE in collaboration with STEVE HUBERT
 
-THE RED HOT ICICLES BURNING ON FIRE is a rock nâ€™ roll circus from
+THE RED HOT ICICLES BURNING ON FIRE is a rock n’ roll circus from
 Vancouver, BC made up of local musicians Michael McDiarmid, Rick Clark &
 interdisciplinary artist, Elizabeth Milton. Fueled by a shared interest in
 melodrama, glam and disaster, The Icicles are a sonic carnival of complex
@@ -1289,12 +1289,12 @@ Friday June 26th @ 7:00pm
 Offsite Venue: 221A (221 East Georgia Street, Vancouver)
 Free Admission
 
-Scrivenerâ€™s Monthly presents an evening with London-based artist Nils
+Scrivener’s Monthly presents an evening with London-based artist Nils
 Norman talking about his research into adventure playgrounds and other
 architectures of play.
 
 Working across the disciplines of public art, architecture and urban
-planning, Normanâ€™s practice is informed by local politics and ideas of
+planning, Norman’s practice is informed by local politics and ideas of
 alternative economics, ecological systems and play. His projects merge
 utopian alternatives with current urban design to create a humorous
 critique of the discrete histories and functions of public art and urban
@@ -1311,25 +1311,25 @@ small playgrounds and a landscaping project for the City of Roskilde,
 Denmark. He has participated in various biennials worldwide and has
 developed commissions for SculptureCenter, Long Island City, NY; London
 Underground, UK; Tate Modern, UK; Loughborough University, UK; Creative
-Time, NYC and the Centre dâ€™ Art Contemporain, Geneva, Switzerland. He is
+Time, NYC and the Centre d’ Art Contemporain, Geneva, Switzerland. He is
 currently developing two small-scale urban farming parks in the Hague, the
 Netherlands, that test and question the limitations and potentialities of
 permaculture as a possible city-wide alternative design strategy for urban
-centres. He is also the lead artist for the city of Cambridgeâ€™s project to
-redevelop part of Trumpington, an area on the cityâ€™s southern fringe â€“
+centres. He is also the lead artist for the city of Cambridge’s project to
+redevelop part of Trumpington, an area on the city’s southern fringe –
 developing play elements, street furniture, an allotment and community
 garden and wayfinding. He is the author of four publications: Edible Park,
 Nils Norman. Eds. Taco de Neef, Nils Norman, Peter de Rooden, Astrid
 Vorstermans. Valiz, NL. 2012; Thurrock 2015, a comic commissioned by the
 General Public Agency, London, UK, 2004; An Architecture of Play: A Survey
-of Londonâ€™s Adventure Playgrounds, Four Corners, London, UK, 2004; and The
+of London’s Adventure Playgrounds, Four Corners, London, UK, 2004; and The
 Contemporary Picturesque, Book Works, London, UK, 2000. He is a Professor
 at the the Royal Danish Academy of Art and Design, Copenhagen, Denmark,
 where he leads the School of Walls and Space.
 
 -
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 â€œnot publishingâ€  involves readings, performances, and other articulations.
@@ -1426,11 +1426,11 @@ creative expression and their contributions to community and culture.
 
 /JOB DESCRIPTION
 The Assistant Director reports to the Gallery Director, and supports the
-galleryâ€™s main activity: exhibitions and community engagement initiatives.
+gallery’s main activity: exhibitions and community engagement initiatives.
 Key duties include exhibition installation and striking, promotion of
 gallery programming via the website, social media and advertising,
 recruitment and coordination of volunteers, and assistance with the
-galleryâ€™s fundraising and engagement initiatives. The Assistant Director
+gallery’s fundraising and engagement initiatives. The Assistant Director
 and the Gallery Director support each other with day-to-day operations. The
 Assistant Director also prepares submission packages for review, provides
 assistance with grant applications, and greets gallery visitors. This
@@ -1439,27 +1439,27 @@ with a strong interest in artist-run centres, gallery operations, and
 contemporary art practices.
 
 /MAIN JOB TASKS
-â€¢ Assisting with the installation and striking of exhibitions
-â€¢ Identify and action areas of engagement opportunity for the gallery
-â€¢ Assisting with the writing and editing of grants, exhibition essays,
+• Assisting with the installation and striking of exhibitions
+• Identify and action areas of engagement opportunity for the gallery
+• Assisting with the writing and editing of grants, exhibition essays,
 calls and promotional information
-â€¢ General maintenance of exhibition spaces and organization of equipment
-â€¢ Maintenance of the gallery website and promotional activities
-â€¢ Preparing submission packages for review meetings
-â€¢ Coordination of volunteers for major gallery events and day-to-day support
+• General maintenance of exhibition spaces and organization of equipment
+• Maintenance of the gallery website and promotional activities
+• Preparing submission packages for review meetings
+• Coordination of volunteers for major gallery events and day-to-day support
 
 /EDUCATIONAL REQUIREMENTS AND ASSETS
-â€¢ Bachelor of Fine Arts, Art History, or equivalent post-secondary visual
+• Bachelor of Fine Arts, Art History, or equivalent post-secondary visual
 arts education
-â€¢ Knowledge of and interest in non-profit, artist-run centres, and Stride
+• Knowledge of and interest in non-profit, artist-run centres, and Stride
 in particular
-â€¢ Experience with the care & handling, installation & striking of artwork
+• Experience with the care & handling, installation & striking of artwork
 in diverse media
-â€¢ Facility with Mac platforms, Microsoft Office Suite, Adobe Photoshop,
+• Facility with Mac platforms, Microsoft Office Suite, Adobe Photoshop,
 InDesign, Illustrator & Dreamweaver
-â€¢ Excellent research, communication and writing skills, with a pro-active,
+• Excellent research, communication and writing skills, with a pro-active,
 and positive attitude
-â€¢ Solid understanding of contemporary visual arts and related disciplines
+• Solid understanding of contemporary visual arts and related disciplines
 and concerns
 
 /APPLICATION PROCESS
@@ -1474,7 +1474,7 @@ http://www.stride.ab.ca/opportunities.html#employmentopportunities
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-06-18-27-the-seattle-office-of-arts-culture-purchase-of-themed-2-d-ar">27. CALL | The Seattle Office of Arts & Culture | Purchase of Themed 2-D Artworks | JUL 29</a>
 ------------------------------------------------------------------------
-Call to Artists â€“ Purchase of Themed 2-D Artworks
+Call to Artists – Purchase of Themed 2-D Artworks
 The Seattle Office of Arts & Culture, in partnership with Seattle Public
 Utilities
 Eligibility: Professional artists residing in Washington, Oregon, British
@@ -1507,7 +1507,7 @@ FACEBOOK EVENT: http://on.fb.me/1TfCElq
 
 Ariel Kalma & Robert Aiki Aubrey Lowe
 LISTEN: http://bit.ly/1FSMiAp
-Four decades since Ariel Kalmaâ€™s debut album, the French-born musician has
+Four decades since Ariel Kalma’s debut album, the French-born musician has
 circulated corners of culture now legend with his entrancing naturalism,
 linking recently with fellow electronic synth voyagers Robert Aiki Aubrey
 Lowe, known for his solo ambience as Lichens and experimental psych band
@@ -1534,12 +1534,12 @@ http://www.auucvancouver.ca/
 Centre A and RAT school of ART Launch
 New Canada-Korea Exchange and Residency Program
 
-VANCOUVER, BC (June 17, 2015) â€“ Centre A (Vancouver, Canada) and the RAT
+VANCOUVER, BC (June 17, 2015) – Centre A (Vancouver, Canada) and the RAT
 school of ART (Seoul, Korea) are proud to announce the establishment of a
 new exchange and residency program.
 
 The RAT school of ART will host a Canadian artist or culture-maker in a
-residency. The selected resident will take part in RATâ€™s study program from
+residency. The selected resident will take part in RAT’s study program from
 March 1 to June 15, 2016. For the duration of the residency, RAT will
 provide the resident with free tuition as well as free accommodation in an
 apartment in the heart of Jongno-District, downtown Seoul. The resident
@@ -1547,7 +1547,7 @@ will be given the opportunity to present their work, research or
 performances as part of the Black Sheep Lectures.
 
 In exchange, Centre A will host an exhibition in Vancouver with one or more
-participants from the RAT school of ART program, between August 2 â€“
+participants from the RAT school of ART program, between August 2 –
 September 3, 2016.
 
 This new, unique collaboration highlights the role of contemporary artists
@@ -1556,11 +1556,11 @@ opportunities for cultural productivity, and the contestation and
 contemplation of ideas.
 
 With pride in this announcement, Centre A's Executive Director/Curator
-Tyler Russell says: â€œWe are delighted to establish this exchange with RAT.
+Tyler Russell says: “We are delighted to establish this exchange with RAT.
 As an institution committed to fostering intercultural, and transpacific
 artistic dialogue, this is exactly what we should be doing, and I am proud
 that Centre A is able to be a part of facilitating these opportunities.â€ 
-Accordingly, Dirk Fleischmann, RAT school of ART says: â€œOur partnership
+Accordingly, Dirk Fleischmann, RAT school of ART says: “Our partnership
 with Centre A will contribute in a substantial way to our aim to bring
 people from various backgrounds together and form an active environment for
 artistic development and intercultural communication.â€ 
@@ -1571,7 +1571,7 @@ the residency will be one who is eager to learn about Korean and East Asian
 history, culture and art, and who is actively interested in sharing their
 own interests, experiences and knowledge. Critics, curators and other
 culture-makers are equally welcome to apply. The resident will be chosen
-by a small selection jury in Vancouver, and a joint Centre A â€“ RAT
+by a small selection jury in Vancouver, and a joint Centre A – RAT
 interview with the finalists.
 
 To apply, residency applicants should submit:
@@ -1593,9 +1593,9 @@ Further, in Fall 2015, Centre A will be launching a fundraising campaign to
 further support the initiative.
 
 Centre A is a leading public art gallery situated in the heart of
-Vancouverâ€™s Chinatown. Its purpose is to be an engaged participant in the
+Vancouver’s Chinatown. Its purpose is to be an engaged participant in the
 ongoing production of a pluralistic and democratic society. Centre A
-strives to activate contemporary artâ€™s vital role in building and
+strives to activate contemporary art’s vital role in building and
 understanding the long and dynamic Asia-Canada relationship, while tackling
 questions of broader concern from Asian and Asian-diasporic perspectives.
 While playing an active role in community enlivenment and conviviality,
@@ -1612,7 +1612,7 @@ fosters the potential of Korean art. The RAT school of ART was founded in
 since 2009 and taught classes as visiting professor at Lasalle College of
 the Arts (Singapore) and Emily Carr University (Vancouver). Other exchange
 programs of the RAT school of ART include a unique collaboration with
-Frankfurtâ€™sâ€™ StÃ¤delschule coordinated by renowned artists Tobias Rehberger
+Frankfurt’s’ Städelschule coordinated by renowned artists Tobias Rehberger
 and Philippe Pirotte. (http://www.ratschoolofart.com/)
 
 ------------------------------------------------------------------------
@@ -1624,7 +1624,7 @@ Office Space at The Arts Factory
 
 Calling all digital artists, arts administrators and cultural
 organizations! The second level at The Arts Factory is an innovative and
-collaborative work space for Vancouverâ€™s arts community.
+collaborative work space for Vancouver’s arts community.
 
 Office Space features:
 
@@ -1714,7 +1714,7 @@ close to transit, 135, 14, 16, 20 buses
 close to some galleries and breweries and the Drive
 
 The Bakery on Franklin St. is looking for committed emerging/mid career
-artists of nearly any medium to fill itâ€™s studios.
+artists of nearly any medium to fill it’s studios.
 
 If you are interested in renting please contact AHBYAH at
 thebakeryonfranklinst@gmail.com

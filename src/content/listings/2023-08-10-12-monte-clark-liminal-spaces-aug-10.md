@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 12
 type: "OPENING"
+venue: "Monte Clark"
 summary: "Monte Clark | Liminal Spaces | AUG 10"
 ---
 

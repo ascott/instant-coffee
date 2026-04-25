@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 2
 type: ""
+venue: "GRUNT GALLERY"
 summary: "GRUNT GALLERY | exquisite corpse windows | MAR 17"
 ---
 

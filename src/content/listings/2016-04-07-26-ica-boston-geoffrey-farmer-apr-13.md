@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 26
 type: "EXHIBITION"
+venue: "ICA Boston"
 summary: "ICA Boston | Geoffrey Farmer | APR 13"
 ---
 

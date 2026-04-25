@@ -56,7 +56,7 @@ Koerner Library: Main floor, 1958 Main Mall, UBC
 Library Hours: Monday - Friday 8 am to 11 pm; Saturday - Sunday 10 am to 11 pm
 
 This work by Lorna Brown is part of on ongoing inquiry into the topic of
-boredomÃ¢ that she began in 2000. Within various fields of research,
+boredomâ that she began in 2000. Within various fields of research,
 boredom has been written about in diverse ways: as a condition that is
 dangerous to society, a precursor to positive radical change, and the
 result of becoming overwhelmed by tedious, repetitive activity. Placed in

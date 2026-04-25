@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 6
 type: "TALK"
-summary: "CAG | Panel Discussion â€“ Sustenance Festival | OCT 17"
+venue: "CAG"
+summary: "CAG | Panel Discussion – Sustenance Festival | OCT 17"
 ---
 
-Panel Discussion â€“ Sustenance Festival
+Panel Discussion – Sustenance Festival
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver
 www.contemporaryartgallery.ca

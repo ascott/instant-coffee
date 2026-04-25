@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 17
 type: "EXHIBITION"
+venue: "Yactac"
 summary: "Yactac | Room of Her Own | JAN 26 - 28 | JAN 26"
 ---
 

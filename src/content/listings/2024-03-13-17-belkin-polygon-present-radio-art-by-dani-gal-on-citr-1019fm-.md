@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 17
 type: "EVENT"
+venue: "Belkin & Polygon Present"
 summary: "Belkin & Polygon Present | Radio Art by Dani Gal on CiTR 101.9FM | 11AM | MAR 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 24
 type: ""
+venue: "Rovio Animation Company"
 summary: "Rovio Animation Company | Job Opp | Character Painter/Illustrator (Animated | APR 15"
 ---
 

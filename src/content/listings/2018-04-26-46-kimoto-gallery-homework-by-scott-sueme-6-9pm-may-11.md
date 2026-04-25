@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 46
 type: "OPENING"
+venue: "Kimoto Gallery"
 summary: "Kimoto Gallery | HOMEWORK by Scott Sueme | 6-9PM | MAY 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 1
 type: "TALK"
+venue: "ECU Library"
 summary: "ECU Library | Derrick Stacey Denholm | FEB 4"
 ---
 

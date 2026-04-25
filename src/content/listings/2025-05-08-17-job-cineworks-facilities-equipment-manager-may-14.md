@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 17
 type: ""
+venue: "JOB"
 summary: "JOB | Cineworks | FACILITIES & EQUIPMENT MANAGER | MAY 14"
 ---
 

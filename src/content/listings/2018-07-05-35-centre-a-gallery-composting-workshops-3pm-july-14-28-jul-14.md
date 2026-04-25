@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 35
 type: "EDUCATION"
+venue: "Centre A Gallery"
 summary: "Centre A Gallery | Composting Workshops | 3PM | JULY 14 + 28 | JUL 14"
 ---
 

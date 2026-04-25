@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Destiny hope despair alistair"
 emailDate: "Thu, 05 Sep 2024 13:50:26 -0700"
 number: 10
 type: "EVENT"
+venue: "Chinese Canadian Museum"
 summary: "Chinese Canadian Museum | RIOT FOOD HERE | SEP 7"
 ---
 

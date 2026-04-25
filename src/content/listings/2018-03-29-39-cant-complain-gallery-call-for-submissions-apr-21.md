@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 39
 type: "CALL"
+venue: "Can't Complain Gallery"
 summary: "Can't Complain Gallery | Call for Submissions | APR 21"
 ---
 

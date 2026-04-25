@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 14
 type: ""
+venue: "Jeffrey Boone"
 summary: "Jeffrey Boone | Mike Grill | FEB 1"
 ---
 

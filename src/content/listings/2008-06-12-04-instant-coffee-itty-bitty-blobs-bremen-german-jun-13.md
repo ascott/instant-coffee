@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: itty bitty blob"
 emailDate: "Thu, 12 Jun 2008 08:02:51 -0700"
 number: 4
 type: ""
+venue: "INSTANT COFFEE"
 summary: "INSTANT COFFEE | itty bitty blobs | Bremen, German | JUN 13"
 ---
 

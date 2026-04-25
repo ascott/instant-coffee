@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 14
 type: ""
+venue: "SFU At the AUDAIN Gallery"
 summary: "SFU At the AUDAIN Gallery | SO CRAZY IT JUST MIGHT WORK student show | MAR 7"
 ---
 

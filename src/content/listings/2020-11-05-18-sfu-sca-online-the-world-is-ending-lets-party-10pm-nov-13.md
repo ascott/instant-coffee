@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 18
 type: "FUNDRAISER"
+venue: "SFU SCA [ONLINE]"
 summary: "SFU SCA [ONLINE] | The World is Ending, Let’s Party | 10PM | NOV 13"
 ---
 

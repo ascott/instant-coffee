@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 10
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Pacific Crossings [ONLINE] | Triangulations pt III: Dispatches From Manila | JUL 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 6
 type: "CALL"
+venue: "LUMINOUS BODIES"
 summary: "LUMINOUS BODIES | Programmed Art Residency | DEC 15"
 ---
 

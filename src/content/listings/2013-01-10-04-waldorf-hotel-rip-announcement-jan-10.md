@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 4
 type: ""
+venue: "Waldorf Hotel"
 summary: "Waldorf Hotel | RIP: announcement | JAN 10"
 ---
 

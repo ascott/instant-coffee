@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mother of Pearl Moustache Comb"
 emailDate: "Thu, 17 Aug 2017 08:47:17 -0700"
 number: 15
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Decoy Magazine | Annie Briard | AUG 27"
 ---
 

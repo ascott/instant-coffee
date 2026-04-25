@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 20
 type: "EVENT"
+venue: "Mascall Dance"
 summary: "Mascall Dance | BLOOM | 5:30 PM | APR 2"
 ---
 

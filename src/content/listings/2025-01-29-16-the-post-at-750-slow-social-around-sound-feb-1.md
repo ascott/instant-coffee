@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 16
 type: "EVENT"
+venue: "The Post at 750"
 summary: "The Post at 750 | Slow Social: Around Sound | FEB 1"
 ---
 

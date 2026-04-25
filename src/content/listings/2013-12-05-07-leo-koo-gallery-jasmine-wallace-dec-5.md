@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: This May Be for Forever"
 emailDate: "Thu, 05 Dec 2013 11:40:18 -0800"
 number: 7
 type: ""
+venue: "Leo Koo Gallery"
 summary: "Leo Koo Gallery | JASMINE WALLACE | DEC 5"
 ---
 

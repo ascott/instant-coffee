@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 10
 type: "EVENT"
+venue: "Spare Room"
 summary: "Spare Room | LIT LIT LIT LIT VII & launch of Charcuterie 2 | APR 1"
 ---
 

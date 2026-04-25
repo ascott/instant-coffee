@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 6
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Open Call for Public Art Selection Panelists"
 ---
 

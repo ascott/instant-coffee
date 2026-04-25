@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 9
 type: "EVENT"
+venue: "Milano Coffee Roasters"
 summary: "Milano Coffee Roasters | Mural Walking Tour – Latin American Edition | 4PM | OCT 12"
 ---
 

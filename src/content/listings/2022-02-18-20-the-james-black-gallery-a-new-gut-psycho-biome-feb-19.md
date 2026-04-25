@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 20
 type: "PERFORMANCE"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | A new gut psycho-biome | FEB 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 11
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | First Group Show | NOV 27"
 ---
 
@@ -30,7 +31,7 @@ and thinking about art in Vancouver and beyond.
 No Windows presents artworks by local and national artists Rhonda Weppler +
 Trevor Mahovsky, Adad Hannah, Jamie Drouin, and Zoe Tissandier. Each artist
 considers the structures that underlie gallery and museum
-practicesÃ¢ï¿½ï¿½principles and assumptions that may seem invisible or
+practicesâ��principles and assumptions that may seem invisible or
 commonsense, yet shape the creation, mediation, and reception of art.
 
 Each work seeks to transform our perception of gallery practices. Rhonda

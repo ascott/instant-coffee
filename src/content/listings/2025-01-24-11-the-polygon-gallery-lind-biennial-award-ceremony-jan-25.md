@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 11
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Lind Biennial Award Ceremony | JAN 25"
 ---
 

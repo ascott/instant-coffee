@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 15
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Antimatter (VICTORIA) | OCT 11-21 | OCT 11"
 ---
 

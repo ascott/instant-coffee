@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 12
 type: "OPENING"
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Gathie Falk, Devon Knowles, Renée Van Halm | 2-4PM | SEP 7"
 ---
 

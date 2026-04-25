@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 8
 type: "EVENT"
+venue: "Gathering Place Community Center"
 summary: "Gathering Place Community Center | Mad pride Cabaret | 3PM | JUL 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "BAG"
 summary: "BAG | Marika Swan ??upinup | NOV 13"
 ---
 

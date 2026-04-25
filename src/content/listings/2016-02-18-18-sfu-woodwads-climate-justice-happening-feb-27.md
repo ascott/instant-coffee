@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 18
 type: "EVENT"
+venue: "SFU Woodwads"
 summary: "SFU Woodwads | Climate Justice Happening | FEB 27"
 ---
 

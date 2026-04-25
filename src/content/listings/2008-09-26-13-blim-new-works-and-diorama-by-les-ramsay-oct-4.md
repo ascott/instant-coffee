@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: warning: it really is dirty"
 emailDate: "Fri, 26 Sep 2008 00:00:20 -0700"
 number: 13
 type: ""
+venue: "BLIM"
 summary: "BLIM | New Works and Diorama by Les Ramsay | OCT 4"
 ---
 

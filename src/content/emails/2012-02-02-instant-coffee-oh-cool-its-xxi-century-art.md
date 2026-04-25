@@ -25,9 +25,9 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-02-02-12-vivo-media-arts-centre-employment-opportunities-feb-7">12. VIVO Media Arts Centre | Employment Opportunities | FEB 7</a>
 <a href="/instant-coffee/listings/2012-02-02-13-vivo-workshops-final-cup-pro-intermediate-editing-feb-7">13. VIVO Workshops | FINAL CUP PRO INTERMEDIATE: EDITING | FEB 7</a>
 <a href="/instant-coffee/listings/2012-02-02-14-blackyellow-gallery-graham-landin-feb-9">14. Black&Yellow Gallery | Graham Landin | FEB 9</a>
-<a href="/instant-coffee/listings/2012-02-02-15-burnaby-art-gallery-rene-van-halm-feb-9">15. Burnaby Art Gallery | RenÃ©e Van Halm | FEB 9</a>
+<a href="/instant-coffee/listings/2012-02-02-15-burnaby-art-gallery-rene-van-halm-feb-9">15. Burnaby Art Gallery | Renée Van Halm | FEB 9</a>
 <a href="/instant-coffee/listings/2012-02-02-16-exercise-yunhee-min-feb-9">16. Exercise | YUNHEE MIN | FEB 9</a>
-<a href="/instant-coffee/listings/2012-02-02-17-surrey-art-gallery-curators-tour-of-beyond-vague-terrain-feb">17. Surrey Art Gallery | Curatorâ€™s Tour of Beyond Vague Terrain | FEB 9</a>
+<a href="/instant-coffee/listings/2012-02-02-17-surrey-art-gallery-curators-tour-of-beyond-vague-terrain-feb">17. Surrey Art Gallery | Curator’s Tour of Beyond Vague Terrain | FEB 9</a>
 <a href="/instant-coffee/listings/2012-02-02-18-grunt-gallery-old-growth-book-launch-feb-16">18. grunt gallery | Old Growth Book Launch | FEB 16</a>
 <a href="/instant-coffee/listings/2012-02-02-19-ubc-2012-bfaba-visual-art-real-art-real-music-real-times-feb">19. UBC 2012 BFA/BA Visual Art | REAL ART | REAL MUSIC | REAL TIMES | FEB 16</a>
 <a href="/instant-coffee/listings/2012-02-02-20-electricity-is-magic-gallery-call-for-works-feb-29">20. Electricity is Magic Gallery | Call for Works | FEB 29</a>
@@ -59,7 +59,7 @@ and myth. Her large scale works comprise intricate details and
 obsessive mark making which articulate ideas of spiritual and 
 metaphysical significance.
 
-Above image: Guo Fengyi, Enlightment of Yi Chin â€“ the Divination 
+Above image: Guo Fengyi, Enlightment of Yi Chin – the Divination 
 Methods of Guo Le and Guo Die, 1990, Mixed media on paper, 
 Courtesy Long March Space, Beijing.
 
@@ -78,8 +78,8 @@ Emily Carr Lecture Theatre
 Emily Carr University of Art + Design, 1399 Johnston Street Granville 
 Island
 
-The Contemporary Art Gallery presents Frances Starkâ€™s first feature 
-length animation My Best Thing. Premiered at last yearâ€™s 2011 Venice 
+The Contemporary Art Gallery presents Frances Stark’s first feature 
+length animation My Best Thing. Premiered at last year’s 2011 Venice 
 Biennale this compelling work is presented as a large scale projection.
 
 In My Best Thing transcripts of on-line sex chat room discussions 
@@ -119,7 +119,7 @@ and the mutable connections between them.
 
 Aurorae draws our attention to the shifting nature of light. By giving 
 substance to the intangible, Massey creates a subtle animation of the 
-faÃ§ade creating an effect suggesting fluidity within the structure.
+façade creating an effect suggesting fluidity within the structure.
 
 In Via Lactea (above Glacier Lake) at the Yaletown‐Roundhouse 
 Station, Massey deftly combines 171 narrow‐field photographs of the 
@@ -149,9 +149,9 @@ CAG on Facebook / CAG Blog / CAG on VIMEO / CAG on YouTube
 ------------------------------------------------------------------------
 
 OFFSITE: Kota Ezawa
-February 2, 2012 Ã¢â‚¬â€œ September 16, 2012
+February 2, 2012 â€“ September 16, 2012
 
-Vancouver, BC - Opening at the Vancouver Art GalleryÃ¢â‚¬â„¢s Offsite space
+Vancouver, BC - Opening at the Vancouver Art Galleryâ€™s Offsite space
 at Georgia and Thurlow on February 2nd, San Francisco-based artist
 Kota Ezawa presents Hand Vote, a timely and iconic image of
 democracy. At a moment when calls for social reform are a topic of
@@ -159,45 +159,45 @@ discussion both here in Canada and around the world, the large-scale
 wooden tableau depicts a diverse group of people raising their hands
 to vote in what appears to be a town hall meeting.
 
-EzawaÃ¢â‚¬â„¢s Hand Vote is based on a stock photograph the artist found on
+Ezawaâ€™s Hand Vote is based on a stock photograph the artist found on
 the internet. A small version of this work was commissioned for the
 2008 exhibition OURS: Democracy in the Age of Branding at Parsons
 The New School for Design in New York City. At Offsite, Ezawa has
 rendered the picture on large-scale, monumentalizing the image:
 standing more than six metres high and over nine metres wide, Hand
-Vote towers over the street and passersby. Ezawa says, Ã¢â‚¬Å“There is a
+Vote towers over the street and passersby. Ezawa says, â€œThere is a
 boldness to it. In my own trajectory as an artist, this is an important
 piece. When I first started I was best known as a digital animator. This
 is such a physical piece, and marks a real departure from my earlier
-works.Ã¢â‚¬ The sculpture is made of Douglas fir, in keeping with the artistÃ¢â‚¬â„¢s
+works.â€ The sculpture is made of Douglas fir, in keeping with the artistâ€™s
 desire to connect the work to this area.
 
-In addition to wood sculptures such as Hand Vote, EzawaÃ¢â‚¬â„¢s diverse
+In addition to wood sculptures such as Hand Vote, Ezawaâ€™s diverse
 projects include digital animations, slide projections, light boxes, paper
 cut-outs, etchings, and ink drawings. He is perhaps best-known for his
 computer-generated animations of popular television, film and
-photographic images. Often EzawaÃ¢â‚¬â„¢s inspiration comes from images of
+photographic images. Often Ezawaâ€™s inspiration comes from images of
 what may be described as our collective cultural memory. Some of his
 noted works deal with culturally charged events, such as his 2002
 animated remake of the verdict in the O.J. Simpson trial, and short film
 versions of the assassinations of Presidents Abraham Lincoln and John
 F. Kennedy. In his hands, these well-known images become stylized
-and Ã¢â‚¬Ëœpared downÃ¢â‚¬â„¢, bringing the viewerÃ¢â‚¬â„¢s focus to the essentials of the
+and â€˜pared downâ€™, bringing the viewerâ€™s focus to the essentials of the
 image, and calling on the viewer to re-assess their relationship with the
 memory of the event.
 
 Born in Cologne, Germany in 1969, Ezawa has been based in
 California since 1994. His work has been exhibited across Canada and
 the United States, including at the Museum of Modern Art, New York,
-Art Institute of Chicago and Musee dÃ¢â‚¬â„¢Art Moderne de la Ville de Paris.
+Art Institute of Chicago and Musee dâ€™Art Moderne de la Ville de Paris.
 
-Offsite, the GalleryÃ¢â‚¬â„¢s outdoor exhibition space next door to the Shangri-
+Offsite, the Galleryâ€™s outdoor exhibition space next door to the Shangri-
 La Hotel in downtown Vancouver, is dedicated to newly commissioned,
 innovative public art projects. Featuring work by acclaimed
 contemporary artists, the first four exhibitions were: the photo-based
 work of O Zhang in July 2009, a sculptural installation by Ken Lum in
 January 2010, a large-scale sculptural pavilion by artists Heather and
-Ivan Morison in October 2010 and Elspeth PrattÃ¢â‚¬â„¢s Second Date.
+Ivan Morison in October 2010 and Elspeth Prattâ€™s Second Date.
 
 Kota Ezawa will be speaking about Hand Vote at Offsite on Thursday,
 February 2nd at 6:30pm at the inauguration of the work.
@@ -211,7 +211,7 @@ City of Vancouver through the Public Art Program. The Gallery
 recognizes Ian Gillespie, President, Westbank; Ben Yeung, President,
 Peterson Investment Group; and the residents at Shangri-La for their
 support of this space. Offsite: Kota Ezawa is generously supported by
-our Visionary Partner: Michael OÃ¢â‚¬â„¢Brian Family Foundation. Offsite is
+our Visionary Partner: Michael Oâ€™Brian Family Foundation. Offsite is
 curated by Kathleen Ritter, Associate Curator of the Vancouver Art
 Gallery.
 
@@ -299,14 +299,14 @@ Frances Stark has exhibited internationally, solo exhibitions include:
 The Fall of 
 Frances Stark, Van Abbemuseum, Eindhoven, FRAC Bourgone, Dijon 
 (2007) 
-and Culturgest, Lisbon (2008). A retrospective But What of â€˜Frances 
-Stark,â€™ 
+and Culturgest, Lisbon (2008). A retrospective But What of ‘Frances 
+Stark,’ 
 Standing By Itself, a Naked Name, Bare as a Ghost To Whom One 
 Would Like 
 to Lend a Sheet was presented at Nottingham Contemporary (2009) 
 and Centre 
 for Contemporary Arts, Glasgow (2010). Stark is also the author of The 
-Architect and the Housewife (1999) and Collected Writings: 1993â€“2003 
+Architect and the Housewife (1999) and Collected Writings: 1993–2003 
 (2003), 
 both published by Book Works, London.
 
@@ -346,23 +346,23 @@ Objects remain spellbound in the merciful separation of space, no
 material part can commonly share its space with another, and a real 
 unity of diverse elements does not exist in space. - Georg Simmel
 
-The form of a city changes, alas, more rapidly than a manâ€™s heart. - 
+The form of a city changes, alas, more rapidly than a man’s heart. - 
 Baudelaire
 
 Artspeak is pleased to present I had a great trip despite a brutal feeling 
 of cognitive dissonance, a new solo exhibition by Vancouver-based 
 artist Samuel Roy-Bois. Reconfiguring and partitioning the gallery, the 
-exhibition demonstrates the artistâ€™s continued interest in the 
-deconstruction of space. An enclosed living area â€“ inhabited by a 
-stranger free of charge for the duration of the exhibition â€“ will be made 
+exhibition demonstrates the artist’s continued interest in the 
+deconstruction of space. An enclosed living area – inhabited by a 
+stranger free of charge for the duration of the exhibition – will be made 
 private with no public access, its occupant given full authority over its 
 usage. Paired with the built environment is a voice recording that 
-furthers the galleryâ€™s transformation into an intimate place of residence.
+furthers the gallery’s transformation into an intimate place of residence.
 
 Through concealment, the installation portrays a character with a 
-double identity â€“ the individual that we hear and try to visualize and the 
+double identity – the individual that we hear and try to visualize and the 
 one that we will never see and may occasionally hear. By juxtaposing 
-the viewer and the occupantâ€™s respective experiences, Roy-Bois 
+the viewer and the occupant’s respective experiences, Roy-Bois 
 creates an uncanny moment in which they imagine each other, 
 creating a new imagined reality. In addition to bringing forward notions 
 of estrangement, space retribution, and struggles for power, the 
@@ -370,14 +370,14 @@ exhibition contributes to an ongoing discussion in Vancouver about
 how land in the city is divided, occupied, and used.
 
 Originally from Quebec City, Roy-Bois currently resides in Vancouver. 
-He received his BFA from UniversitÃ© Laval in Quebec (1996) and an 
-MFA from Concordia University in MontrÃ©al (2001). His installations 
+He received his BFA from Université Laval in Quebec (1996) and an 
+MFA from Concordia University in Montréal (2001). His installations 
 have been shown across Canada and internationally. Solo exhibitions 
 include Polarizer, Southern Alberta Art Gallery (2009), Let us, then, be 
 up an doing..., Contemporary Art Gallery, Vancouver (2008); 
-Divertissements, Point Ã©phÃ©mÃ¨re, Paris (2007); Improbable and 
-ridiculous, MusÃ©e dâ€™art contemporain de MontrÃ©al (2006); Jâ€™ai entendu 
-un bruit, je me suis sauvÃ©, Or Gallery, Vancouver (2003). He is 
+Divertissements, Point éphémère, Paris (2007); Improbable and 
+ridiculous, Musée d’art contemporain de Montréal (2006); J’ai entendu 
+un bruit, je me suis sauvé, Or Gallery, Vancouver (2003). He is 
 currently artist-in-residence at Langara College, Vancouver.
 
 233 Carrall Street
@@ -387,7 +387,7 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -423,7 +423,7 @@ the
 handmade but my practice is interdisciplinary and includes painting,
 drawing, print-making and animation in addition to book binding.
 --
-Opening: Friday, February 3 - 8 Ã¢â‚¬â€œ 11pm | Show Runs February 3-25
+Opening: Friday, February 3 - 8 â€“ 11pm | Show Runs February 3-25
 
 www.megaspora.us
 
@@ -467,12 +467,12 @@ historical â€œgreat menâ€  of art and literature.
 
 Pennylane Shen is currently the associate curator of Elliott Louis Gallery and 
 has been the curator of Jacana Contemporary Art Gallery in Vancouver. She 
-holds a Masterâ€™s Degree in Visual Culture Theory from New York University and 
+holds a Master’s Degree in Visual Culture Theory from New York University and 
 teaches in the photography department at Langara College. An avid supporter of 
 community arts and culture, she is also active in several non-profit 
-organizations such as the Art for Life annual art auction, New Yorkâ€™s 
+organizations such as the Art for Life annual art auction, New York’s 
 International Asian Film Festival and the Vancouver Asian Film Festival. In 
-Vancouver, Pennylane manages the figurative artistsâ€™ collective Phantoms in 
+Vancouver, Pennylane manages the figurative artists’ collective Phantoms in 
 the Front Yard, showcasing the work of prominent Vancouver artists and holding 
 monthly lectures on art and criticism.
 
@@ -511,9 +511,9 @@ Readings by Garry Thomas Morse and Marita Dachsel.
 Hosted by Elizabeth Bachinsky
 
 $5 suggested donation at the door.
-Grab all three mags for $15! (Thatâ€™s a really good deal, yâ€™all.)
+Grab all three mags for $15! (That’s a really good deal, y’all.)
 
-DJ Thatâ€™s So Raven will be spinning us through the evening.
+DJ That’s So Raven will be spinning us through the evening.
 
 There will be cake. Vegan chocolate mousse layer cake.
 
@@ -539,7 +539,7 @@ Artist Talk: Saturday, February 4 from 1:00 - 2:00 pm
 
 This exhibition by Stuart McCall and Neil Wedman is comprised of two separate 
 bodies of work made years apart but linked by an indelible subject of local 
-history, William Vander Zalmâ€™s Fantasy Garden World. Wedman attended the 
+history, William Vander Zalm’s Fantasy Garden World. Wedman attended the 
 proceedings of the Vander Zalm trial in 1991 and made numerous pencil 
 portraits of those who participated, primarily witnesses as they testified. Years 
 later, McCall documented the neglected gardens just prior to demolition by its 
@@ -567,7 +567,7 @@ Lotus Awards, and International Photography awards. Living in Vancouver, BC
 since 1968, he has been making images for over 25 years.
 
 Since the 1990s he has worked with Vancouver artist Neil Wedman on various 
-photo based projects including â€œEvery Bus Stop from My Place to the 
+photo based projects including “Every Bus Stop from My Place to the 
 Racetrackâ€  (1997), and â€œMovies â€˜til Dawnâ€  (2009). Represented in Vancouver by 
 the Vancouver Art Gallery Art Rentals and Sales and in Calgary at the Axis 
 Contemporary Art Gallery, his work has also been shown at the Surrey Art 
@@ -608,12 +608,12 @@ the Palomar Observatory in San Diego County. Palomar represents a rare
 example of sculpture by Morris and will be accompanied in this exhibition by the 
 original Palomar silkscreen.
 
-Michael Morris is one of the most important artists of Vancouverâ€™s 
+Michael Morris is one of the most important artists of Vancouver’s 
 contemporary scene. He has participated in artist-in-residence programs both in 
 Canada at the Banff Centre (1990) and at Open Studio (2003) and internationally 
-at Berliner KÃ¼nstlerprogramm (1981-1998). He was awarded an Honorary 
+at Berliner Künstlerprogramm (1981-1998). He was awarded an Honorary 
 Doctorate of Humanities in 2005 by Emily Carr University of Art + Design. In 
-2011, he received Canada's prestigious Governor Generalâ€™s Award in Visual and 
+2011, he received Canada's prestigious Governor General’s Award in Visual and 
 Media Arts. Morris currently lives and works in Victoria.
 
 Palomar: Michael Morris is a co-presentation of Presentation House Gallery and 
@@ -628,7 +628,7 @@ Satellite Gallery, 560 Seymour Street, 2nd Floor
 This project is made possible with the generous support of the Audain 
 Foundation, the Canada Council for the Arts, the Vancouver Foundation, and the 
 British Columbia Arts Council. We gratefully acknowledge the support of the 
-Michael O'Brian Family Foundation and the Belkin Curatorâ€™s Forum members.
+Michael O'Brian Family Foundation and the Belkin Curator’s Forum members.
 
 Satellite Gallery is a Michael O'Brian Family Foundation project with partners 
 the Morris and Helen Belkin Art Gallery and the Museum of Anthropology at 
@@ -646,24 +646,24 @@ Vancouver Art Gallery
 
 Free with gallery admission.
 
-On the occasion of Kota Ezawaâ€™s new installation at Vancouver Art 
+On the occasion of Kota Ezawa’s new installation at Vancouver Art 
 Gallery Offsite, we are pleased to present the artist in conversation 
 with writer/curator Clint Burnham, writer/educator/activist Stephen 
 Collis, moderated by Offsite curator Kathleen Ritter.
 
-For Offsite, Ezawaâ€™s large-scale wooden tableau features a group of 
+For Offsite, Ezawa’s large-scale wooden tableau features a group of 
 people raising their hands in what appears to be a town hall meeting. 
 The work is a visual representation of democracy by one of its most 
-prevalent signifiers: the vote. Ezawaâ€™s rendering is faithful to the 
-original source image by maintaining the photographâ€™s basic structure 
+prevalent signifiers: the vote. Ezawa’s rendering is faithful to the 
+original source image by maintaining the photograph’s basic structure 
 and framing. By eliminating details, the image refers less to the specific 
 group of individuals, and more to a general sign of a collective body 
 united in a common purpose. In light of recent events in which 
 demands for societal reform have become apparent in Canada and 
-internationally, Ezawaâ€™s portrait of democracy could not be more 
+internationally, Ezawa’s portrait of democracy could not be more 
 timely.
 
-Ezawaâ€™s work brings to mind a range of associations with regards to 
+Ezawa’s work brings to mind a range of associations with regards to 
 democracy, collective decision making and the investment of the 
 individual in the creation of public space. Clint Burnham, co-curator 
 (with Lorna Brown) of the recent public art project Digital Natives 
@@ -671,7 +671,7 @@ individual in the creation of public space. Clint Burnham, co-curator
 <http://digitalnatives.othersights.ca/> ) and Stephen Collis, whose 
 recent involvement in Occupy Vancouver is documented at 
 http://occupyvancouvervoice.com/ <http://occupyvancouvervoice.com/> 
-, will give local perspective to Ezawaâ€™s evocative image. Public space, 
+, will give local perspective to Ezawa’s evocative image. Public space, 
 in our current historical moment, has become a contested territory, and 
 the occupation of it a powerful and controversial statement. In this 
 context, how has the practice of placing art in public space evolved?
@@ -682,7 +682,7 @@ Scott Gallery, Vancouver; Artpace, San Antonio; and the Wadsworth
 Atheneum in Hartford. He has participated in group exhibitions at the 
 Vancouver Art Gallery; Museum of Modern Art, New York; Metropolitan 
 Museum of Art; San Francisco Museum of Modern Art, Andy Warhol 
-Museum in Pittsburgh; Art Institute of Chicago; MusÃ©e dâ€™Art Moderne 
+Museum in Pittsburgh; Art Institute of Chicago; Musée d’Art Moderne 
 de la Ville de Paris; as well as the 5th Seoul International Biennale of 
 Media Art and the 2004 Shanghai Biennale. Ezawa lives in San 
 Francisco and Berlin.
@@ -822,20 +822,20 @@ directed, motivated individual for the position of Education Coordinator. This i
 part-time position created to further develop our media arts education strategies 
 and outreach. The Education Coordinator works closely with the Technical and 
 Events+Exhibitions departments and is responsible for managing and promoting 
-VIVOâ€™s standard workshops in video production, editing, sound design, 
+VIVO’s standard workshops in video production, editing, sound design, 
 electronics, and other multi-media techniques, and further utilizing and 
 promoting our new digital multi-workstation classroom facility. The coordinator 
-will also continue to evolve VIVOâ€™s SLAB series, a community of practice for 
+will also continue to evolve VIVO’s SLAB series, a community of practice for 
 electronic media artists and technology enthusiasts.
 
 3: Operations Coordinator. Deadline February 11, 2012
 
 The Satellite Video Exchange Society (VIVO Media Arts Centre) seeks an 
 organized, self-directed, motivated individual for the position of Operations 
-Coordinator. This part-time position is responsible for managing VIVOâ€™s front 
-desk activities, coordinating volunteers, and organizing VIVOâ€™s facilities and 
+Coordinator. This part-time position is responsible for managing VIVO’s front 
+desk activities, coordinating volunteers, and organizing VIVO’s facilities and 
 maintenance activities. The Operations Coordinator is responsible for 
-maintaining a positive relationship with VIVOâ€™s membership and the media arts 
+maintaining a positive relationship with VIVO’s membership and the media arts 
 community and is responsible for the maintenance of income and payments to 
 maintain the general management of volunteers, membership, workshops and 
 studio bookings.
@@ -915,19 +915,19 @@ Thanks!
 Stephaney Bird - Assistant Director/Black&Yellow
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-02-02-15-burnaby-art-gallery-rene-van-halm-feb-9">15. Burnaby Art Gallery | RenÃ©e Van Halm | FEB 9</a>
+<a href="/instant-coffee/listings/2012-02-02-15-burnaby-art-gallery-rene-van-halm-feb-9">15. Burnaby Art Gallery | Renée Van Halm | FEB 9</a>
 ------------------------------------------------------------------------
-Canadian Artist RenÃ©e Van Halmâ€™s First Survey Exhibition Spanning 
+Canadian Artist Renée Van Halm’s First Survey Exhibition Spanning 
 Over Thirty Years at Burnaby Art Gallery
 
-RenÃ©e Van Halm: Cross-Cutting/Inside Out
+Renée Van Halm: Cross-Cutting/Inside Out
 
-Featuring primarily Van Halmâ€™s works on paper, the exhibition explores 
-in detail the artistâ€™s interest in the role architecture plays in shaping our 
+Featuring primarily Van Halm’s works on paper, the exhibition explores 
+in detail the artist’s interest in the role architecture plays in shaping our 
 physical and social interactions.
 
-EVENT: Join artist RenÃ©e Van Halm and friends at the Opening 
-Reception for RenÃ©e Van Halm: Cross-Cutting/Inside Out. 
+EVENT: Join artist Renée Van Halm and friends at the Opening 
+Reception for Renée Van Halm: Cross-Cutting/Inside Out. 
 
 DATE: Thursday, February 9, 2012 
 
@@ -957,7 +957,7 @@ YUNHEE MIN
 
 Spectra: fixtures, attachments, and ornamentals
 
-February 9â€”March 4
+February 9—March 4
 Opening reception Thursday February 9, 7-10pm
 
 An edition of prints by Min will be produced with the exhibition.
@@ -973,9 +973,9 @@ V6A 1B5
 exercisecanada.com
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-02-02-17-surrey-art-gallery-curators-tour-of-beyond-vague-terrain-feb">17. Surrey Art Gallery | Curatorâ€™s Tour of Beyond Vague Terrain | FEB 9</a>
+<a href="/instant-coffee/listings/2012-02-02-17-surrey-art-gallery-curators-tour-of-beyond-vague-terrain-feb">17. Surrey Art Gallery | Curator’s Tour of Beyond Vague Terrain | FEB 9</a>
 ------------------------------------------------------------------------
-Curatorâ€™s Tour of Beyond Vague Terrain: City and the Serial Image and Kristin 
+Curator’s Tour of Beyond Vague Terrain: City and the Serial Image and Kristin 
 Roos: Underground
 
 Surrey Art Gallery
@@ -983,15 +983,15 @@ Surrey Art Gallery
 February 9, 7-8:30pm
 
 Surrey Art Gallery is hosting a public tour of its current exhibitions on Thursday, 
-February 9 from 7pm to 8:30pm. Leading the tour is the galleryâ€™s Curator of 
+February 9 from 7pm to 8:30pm. Leading the tour is the gallery’s Curator of 
 Exhibitions and Collections, Jordan Strom, who will provide background on the 
 distinct approaches and techniques of the artists whose works are featured in 
 the exhibitions. The group exhibition Beyond Vague Terrain: The City and the 
-Serial Image shows many sides to cities, especially Metro Vancouverâ€™s. 
+Serial Image shows many sides to cities, especially Metro Vancouver’s. 
 Through photography, painting, drawing, and video, the artists have used the 
 strategy of multiple images to create compelling ways of representing 
 experiences of the spaces associated with cities. The tour will also address 
-Kristen Roosâ€™ sound art installation project titled Underground that uses found 
+Kristen Roos’ sound art installation project titled Underground that uses found 
 sounds and existing furnishings from the Surrey Arts Centre to create a 
 resonant aural and tactile experiences.
 
@@ -1000,17 +1000,17 @@ to the event is by donation. Surrey Art Gallery Association members are free.
 
 The tour will examine how and why the particular artworks on display were 
 chosen for the exhibitions, illustrate interesting stories about how the artworks 
-relate to the artistsâ€™ previous work, and illuminate the many ideas explored in 
+relate to the artists’ previous work, and illuminate the many ideas explored in 
 the exhibitions. Both regular tour participants and first-time gallery visitors are 
 encouraged to ask questions and share their responses to the artworks.
 
 What will those on the tour experience? Beyond Vague Terrain includes Sylvia 
-Grace Bordaâ€™s interactive photographic database and projection that depicts 
-transit pickup and drop-off points across Surrey; Roy Kiyookaâ€™s street 
+Grace Borda’s interactive photographic database and projection that depicts 
+transit pickup and drop-off points across Surrey; Roy Kiyooka’s street 
 photographs that freeze moving figures and passing vehicles against East 
-Vancouver storefront facades in late-1970s; and Helma Sawatzkyâ€™s recombined 
+Vancouver storefront facades in late-1970s; and Helma Sawatzky’s recombined 
 images of a new building site in South Surrey that speak to the rapid 
-development of this part of the Lower Mainland. Kristen Roosâ€™ Underground 
+development of this part of the Lower Mainland. Kristen Roos’ Underground 
 presents a form of furniture music that raises questions about hidden labour and 
 the role of the body in the act of listening. 
 
@@ -1030,7 +1030,7 @@ Michael Nicoll Yahgulanaas
 
 Thursday February 16, 2012, 7-9pm 
 
-Rhizome CafÃ©
+Rhizome Café
 
 317 East Broadway, Vancouver
 
@@ -1091,7 +1091,7 @@ Vancouver, BC
 
 The UBC 2012 BFA/BA Visual Art graduating class cordially invites you 
 to an exciting artistic and musical event to promote and raise the funds 
-for this yearâ€™s Graduating Exhibition 'Too Deep For You,' which will 
+for this year’s Graduating Exhibition 'Too Deep For You,' which will 
 open in April 2012.
 
 SILENT ART AUCTION will feature works by:
@@ -1180,19 +1180,19 @@ Electricity is Magic was founded in 2009 by Matt Griffin and Eric Powell as a
 label to release experimental electronic and electroacoustic music. To date, 
 EiM have released 6 physical and digital records. Quickly, they expanded their 
 scope to include curatorial and gallery projects, beginning with Vinosonic at 
-Chicagoâ€™s Experimental Sound Studio in September 2009. Since then, EiM have 
+Chicago’s Experimental Sound Studio in September 2009. Since then, EiM have 
 partnered with artists and galleries throughout North America to create 
 performative and time-based events in unconventional spaces and contexts.
 
 In the spring of 2012, EiM are proud to be opening the doors to the Electricity is 
 Magic Gallery, an apartment space at 715 Richmond St., in Toronto.
 
-Our aim with the gallery space is to continue to present works that donâ€™t 
+Our aim with the gallery space is to continue to present works that don’t 
 necessarily fit comfortably within a traditional gallery context. Artists will be 
 given the challenge of presenting work which engages with or reacts to the 
 living space of the apartment. We are particularly interested in work which 
 employs some aspect of technological mediation, but not necessarily as the 
-impetus for the piece. Weâ€™re also interested in slow art, which not only 
+impetus for the piece. We’re also interested in slow art, which not only 
 requests, but often demands, and always reminds us of the pleasure in 
 sustained viewing of a particular work.
 
@@ -1231,22 +1231,22 @@ Please feel free to forward or direct others towards this link as well!
 Room Magazine CALL FOR SUBMISSIONS for Winter 2012: Deadline May 
 30,2012
 
-Room is Canadaâ€™s oldest literary journal by, and about women.
+Room is Canada’s oldest literary journal by, and about women.
 http://www.roommagazine.com/
 
 Room is a space where women can speak, connect, and showcase their 
 creativity. Each quarter, for 33 issues, Room has been publishing original, 
 thought-provoking works, by emerging and established Canadian women writers 
-and artists that reflect womenâ€™s strength, sensuality, vulnerability, and wit.
+and artists that reflect women’s strength, sensuality, vulnerability, and wit.
 
-Theme for 35.4: Womenâ€™s work, unionization, the work we do freely from our 
+Theme for 35.4: Women’s work, unionization, the work we do freely from our 
 hearts, birthing a child into the fresh air, all of these things are connected. 
-Roomâ€™s issue 35.4 will address and celebrate the completion of our 35th 
+Room’s issue 35.4 will address and celebrate the completion of our 35th 
 anniversary volume with the theme of Labour.
 
 Room is looking for original, unpublished art, fiction, creative non-fiction, and 
-poetry that explore all iterations of womenâ€™s labour, from a labour of love, birth 
-labour, the labour movement, traditional and non-traditional womenâ€™s laboursâ€”
+poetry that explore all iterations of women’s labour, from a labour of love, birth 
+labour, the labour movement, traditional and non-traditional women’s labours—
 we want to see them all.
 
 (To see what kind of work we publish, check out our current issue, 34.4, 
@@ -1267,7 +1267,7 @@ submissions should be sent to arteditor@roommagazine.com
 <mailto:arteditor@roommagazine.com>, (include submission for labour issue 
 and your last name in the subject line).
 
-Newsroom: to stay current with Roomâ€™s calls and events, sign-up for our 
+Newsroom: to stay current with Room’s calls and events, sign-up for our 
 newsletter <http://www.roommagazine.com/newsletter.html
 For Queries: <mailto:contactus@roommagazine.com>
 

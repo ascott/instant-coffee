@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: nothing happens in good weather"
 emailDate: "Wed, 16 Jan 2008 19:41:13 -0800"
 number: 2
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | KELLY WOOD & MONIKA GRZYMALA | JAN 18"
 ---
 

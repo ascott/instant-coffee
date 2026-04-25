@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: on the count of three"
 emailDate: "Thu, 08 Oct 2009 09:24:10 -0700"
 number: 2
 type: ""
+venue: "UBC"
 summary: "UBC | Open Call For Artist Submissions"
 ---
 

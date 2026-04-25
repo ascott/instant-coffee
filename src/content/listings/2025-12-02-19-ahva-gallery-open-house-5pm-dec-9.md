@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 19
 type: "EVENT"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | Open House | 5PM | DEC 9"
 ---
 

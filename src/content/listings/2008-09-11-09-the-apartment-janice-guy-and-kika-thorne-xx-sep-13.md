@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 9
 type: ""
+venue: "The Apartment"
 summary: "The Apartment | Janice Guy and Kika Thorne | XX | SEP 13"
 ---
 
 The Apartment is delighted to present Mirror and Shadows, the first
 Canadian exhibition of Janice Guy's vintage silver gelatin prints. The
 exhibition includes two bodies of work, Mirror (1979) and Shadows (1977)
-which Guy produced while studying at the Kunstakademie DÃ¼sseldorf 1975-79
+which Guy produced while studying at the Kunstakademie Düsseldorf 1975-79
 with Klaus Rincke and Bernd and Hilla Becher.
 
 Janice Guy's work depicts the artist self-consciously engaged in the act
@@ -50,7 +51,7 @@ Integrated into these formal metaphors is Thorne's conceptual commitment
 to an investigation of our ambient schema, here through the use of
 knowledge systems which evolve understated and eventual. A guiding force
 for this recent work are the cosmological charts of Johannes Kepler. Born in
-1571, in WÃ¼rttemberg, Germany, Kepler published Mysterium Cosmographicum,
+1571, in Württemberg, Germany, Kepler published Mysterium Cosmographicum,
 1596, Harmonice Mundi, 1618 and the Epitome Astronomiae Copernicanae,
 1618â&#65533;&#65533;21, which mapped the antique solar system, realized equations to
 calibrate planetary orbits and proposed a physical explanation of the

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 13
 type: ""
+venue: "NEWS"
 summary: "NEWS | COPE | COPE declares opposition to Bill C-51 | APR 20"
 ---
 
@@ -19,7 +20,7 @@ and Political Rights.
 C-51 effectively makes Canada a police state, with abeyance of due process,
 rule of established law, or parliamentary over site.
 
-By ignoring the charter, Mr. Harperâ€™s government is acting outside the law,
+By ignoring the charter, Mr. Harper’s government is acting outside the law,
 thus we ask that the Governor General declare the Harper government null
 and void and immediately call a general election.
 

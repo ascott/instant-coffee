@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 31
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Canadian Society of Decorative Arts | Super Natural: Place and Practice - Symposium | SEP 8"
 ---
 

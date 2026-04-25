@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 3
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema @ The Cinematheque | The Wiz | 7PM | DEC 20"
 ---
 

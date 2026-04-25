@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Art Gallery of Victoria"
 summary: "Art Gallery of Victoria | sheeshe ‘ch thare? | a crack in the mirror | NOV 6"
 ---
 

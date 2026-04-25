@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 18
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Freedom-Hi! Zines from Hong Kong's Civil Movements | JUL 20"
 ---
 

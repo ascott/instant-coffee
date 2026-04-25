@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: coughing up not passing the buck"
 emailDate: "Thu, 02 Sep 2010 12:40:18 -0700"
 number: 11
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Hannah Rickards | SEP 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Ezra Gray: Maximum Yearn | JUN 18"
 ---
 

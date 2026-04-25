@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 24
 type: "PERFORMANCE"
+venue: "Orpheum Annex 823 Seymour St"
 summary: "Orpheum Annex 823 Seymour St | The Mirror Test | DEC 9"
 ---
 

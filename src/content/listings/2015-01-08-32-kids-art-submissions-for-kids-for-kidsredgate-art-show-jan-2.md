@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 32
 type: "CALL"
+venue: "KIDS"
 summary: "KIDS | ART SUBMISSIONS for KIDS for Kids/RedGate Art Show | JAN 25"
 ---
 

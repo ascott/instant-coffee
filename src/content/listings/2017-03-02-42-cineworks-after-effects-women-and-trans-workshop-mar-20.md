@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 42
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | After Effects (Women and Trans workshop) | MAR 20"
 ---
 

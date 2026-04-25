@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 13
 type: "EVENT"
+venue: "The Well Studios @ City Centre Motel"
 summary: "The Well Studios @ City Centre Motel | PLEASURE PORTAL | SEP 24"
 ---
 

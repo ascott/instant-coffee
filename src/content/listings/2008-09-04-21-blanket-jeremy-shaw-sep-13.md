@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you must enter a Byline"
 emailDate: "Thu, 04 Sep 2008 09:20:55 -0700"
 number: 21
 type: ""
+venue: "Blanket"
 summary: "Blanket | Jeremy Shaw | SEP 13"
 ---
 
@@ -25,10 +26,10 @@ Germany; The Seattle Art Museum, and The Henry Art Gallery, Seattle.
 
 Using techniques/tropes of conceptual and psychedelic art, rock video,
 experimental and documentary film to rework primary and produce secondary
-source materials, Jeremy ShawÃ¢ï¿½ï¿½s practice is immersed in discussing the
+source materials, Jeremy Shawâ��s practice is immersed in discussing the
 transcendence-seeking activities of both mainstream and subculture, with a
 particular interest in the moment when the two collide. In keeping with
-this body, ShawÃ¢ï¿½ï¿½s current exhibition posits scientific representations of
+this body, Shawâ��s current exhibition posits scientific representations of
 altered states with populist notions and the subsequent commercial goods
 they adorn.
 

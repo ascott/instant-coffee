@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Or Gallery"
 summary: "Or Gallery | Model Is the Message | JUN 27"
 ---
 

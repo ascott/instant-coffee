@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 7
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Screening: C. 1983: Film and Video | MAY 4"
 ---
 
@@ -14,7 +15,7 @@ free of charge
 7:30: A program of short experimental films and video from the 1980s 
 that includes key works by notable artists Kate Craig, Ellie Epp, 
 Christopher Gallagher, and David Rimmer
-9:00 â€“10:30: A continuous screening of Rodney Grahamâ€™s 
+9:00 –10:30: A continuous screening of Rodney Graham’s 
 extraordinary first film Two Generators of 1984, a four-minute long 
 night shot of a rushing river illuminated by high wattage lights to the 
 throbbing sound of diesel generators.

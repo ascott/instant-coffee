@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 8
 type: ""
+venue: "Lucky's Comics"
 summary: "Lucky's Comics | Les Ramsay and Allison Tweedie | FEB 5"
 ---
 

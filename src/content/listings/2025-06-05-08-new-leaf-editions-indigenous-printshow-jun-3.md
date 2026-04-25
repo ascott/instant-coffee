@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "NEW LEAF EDITIONS"
 summary: "NEW LEAF EDITIONS | Indigenous Printshow | JUN 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 19
 type: "OPENING"
+venue: "Dr. Sun Yat-Sen Garden + Park"
 summary: "Dr. Sun Yat-Sen Garden + Park | to carve without cutting | AUG 30"
 ---
 

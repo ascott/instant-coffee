@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 28
 type: ""
+venue: "Ancestral Teachings: Contemporary Perspectives"
 summary: "Ancestral Teachings: Contemporary Perspectives | Call for Submissions | Toronto | OCT 14"
 ---
 
@@ -13,7 +14,7 @@ Ancestral Teachings: Contemporary Perspectives
 
 Ancestral Teachings: Contemporary Perspectives will be an exhibition of 
 contemporary Aboriginal Art taking place at the Gladstone Hotel, Toronto, 
-November 15th â€“ 30th, 2011. The exhibition will showcase artwork that will 
+November 15th – 30th, 2011. The exhibition will showcase artwork that will 
 explore how contemporary Aboriginal artists draw upon the values and lessons 
 from oral culture to explore present-day contexts. The central theme of the 
 exhibition will be the Anishnawbe story of the Seven Grandfather Teachings. 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: refuse glow ball"
 emailDate: "Thu, 19 Aug 2010 10:15:10 -0700"
 number: 6
 type: ""
+venue: "City of Vancouver - Request for Ideas - Platforms"
 summary: "City of Vancouver - Request for Ideas - Platforms | Call for Artists | SEP 15"
 ---
 

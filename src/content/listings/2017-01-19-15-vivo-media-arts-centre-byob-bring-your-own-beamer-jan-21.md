@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 15
 type: "CALL"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | BYOB (Bring your own beamer) | JAN 21"
 ---
 

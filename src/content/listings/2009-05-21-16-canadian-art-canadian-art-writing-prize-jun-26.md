@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 16
 type: ""
+venue: "Canadian Art"
 summary: "Canadian Art | CANADIAN ART WRITING PRIZE | JUN 26"
 ---
 

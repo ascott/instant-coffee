@@ -63,10 +63,10 @@ Setup 3 is made up of contributions by Lili Renaud Dewar, Olivia
 Dunbar, Collin Feigle, Feminist Land Art Retreat, Tiziana La Melia,
 Mark Lewis, Silke Otto-Knapp, and Rob Stone.
 
-Setup publishes texts and artistsâ€™ projects by a wide spectrum of 
+Setup publishes texts and artists’ projects by a wide spectrum of 
 contributors, from students to established artists and writers,
 while prioritizing a combination of creativity and rigorous inquiry. Setup 
-began as a project for The Practice of Artistsâ€™ Publishing,
+began as a project for The Practice of Artists’ Publishing,
 a course taught by Kathy Slade at Emily Carr University in the fall of 
 2010. Setup is independently funded and is published by
 Publication Studio Vancouver on an unfixed schedule.
@@ -95,7 +95,7 @@ poems and interviews herein reflect the diversity of forms through
 which art is currently produced and considered. We feature a spectrum 
 of contributors, from students to established artists and writers, all the 
 while prioritizing a combination of creativity and rigorous inquiry. Setup 
-magazine began as a project for The Practice of Artistsâ€™ Publishing, a 
+magazine began as a project for The Practice of Artists’ Publishing, a 
 course taught by Kathy Slade at Emily Carr University in the fall of 
 2010. Published by Publication Studio Vancouver, it is independently 
 funded and released on an unfixed schedule. We gratefully 
@@ -157,10 +157,10 @@ Victoria in 2005.
 
 Judy Radul lives and works in Vancouver. Her practice includes video 
 installation, photography, sculpture, performance, and mixed media 
-installations. Recently Radulâ€™s large scale media installation World 
+installations. Recently Radul’s large scale media installation World 
 Rehearsal Court was exhibited at the Morris and Helen Belkin Gallery, 
 UBC and travelled to the Generali Foundation, Vienna, and Media City 
-Seoul, Korea. This work draws on Radulâ€™s research into the role of 
+Seoul, Korea. This work draws on Radul’s research into the role of 
 theatricality and new technologies in the court of law and it questions 
 the distinctions between experience, testimony, truth, and fiction that 
 the law attempts to make distinct. In 2011 she co-edited the anthology 
@@ -179,19 +179,19 @@ allows her to repeatedly wash down her images, and rework them
 layer by layer, in order to create pictures of great translucency and 
 delicacy.
 
-Solo exhibitions of Otto-Knappâ€™s work include A light in the moon at UC 
+Solo exhibitions of Otto-Knapp’s work include A light in the moon at UC 
 Berkeley Art Museum and Pacific Film Archive (2011); Many many 
-women, Kunstverein MÃ¼nchen, Munich (2010); as well as exhibitions at 
+women, Kunstverein München, Munich (2010); as well as exhibitions at 
 Walter Phillips Gallery, Banff (2009); Modern Art Oxford (2009); Tate 
-Britain, London (2005), and Kunstverein fÃ¼r die Rheinlande und 
-Westfalen, DÃ¼sseldorf (2003). She has participated in group exhibitions 
+Britain, London (2005), and Kunstverein für die Rheinlande und 
+Westfalen, Düsseldorf (2003). She has participated in group exhibitions 
 at the ICA Boston (2011); Migros Museum, Zurich (2010); National 
 Museum of Contemporary Art, Athens (2006); and the 9th International 
 Istanbul Biennial (2005).
 
 Otto-Knapp is represented by Galerie Daniel Buchloz, Cologne; 
 greengrassi, London; Overduin and Kite, Los Angeles; and Gavin 
-Brownâ€™s enterprise, New York.
+Brown’s enterprise, New York.
 
 Sean Weisgerber is a graduate of Emily Carr University of Art + 
 Design. In 2010, he founded 304 Days, an independently funded artist-
@@ -295,8 +295,8 @@ Vancouver.
 
 Atlantean Timepiece - Kevin Murphy
 
-Kevin Murphyâ€™s Atlantean Timepiece is the fourth project in 
-UNIT/PITTâ€™s series What Future.
+Kevin Murphy’s Atlantean Timepiece is the fourth project in 
+UNIT/PITT’s series What Future.
 
 Influenced by widespread concerns surrounding sea level rise, 
 geological instability, earthquakes, and flooding in Vancouver and the 
@@ -307,10 +307,10 @@ narrative, and the trope of the romantic ruin.
 The project proposes the development of a hypothetical public clock 
 for Vancouver, resembling a beacon, crystal, or glass high-rise tower. 
 This reimagined clock tower would become activated only when 
-flooded. Degrading at different rates in seawater, the structureâ€™s 
+flooded. Degrading at different rates in seawater, the structure’s 
 materials would transform into a chemical timeline, giving potential 
 observers in the distant future a window into the elapsed time since the 
-cityâ€™s submersion.
+city’s submersion.
 
 In the interim, the structure would function as a tenuous monument to 
 these potential events, acting as a site for the crystallization of local 
@@ -348,16 +348,16 @@ agency poised to shake up Vancouver's cultural scene.
 The group responsible for reimagining the Waldorf Hotel have 
 announced the formation of Arrival, a new agency that will be 
 collaborating on a series of projects, including the much hyped Fox 
-Cabaret on Main Street. The teamâ€” led by Ernesto Gomez and 
-Thomas Anselmi â€” will be producing events, booking live music and 
+Cabaret on Main Street. The team— led by Ernesto Gomez and 
+Thomas Anselmi — will be producing events, booking live music and 
 entertainment, and looking to consult and collaborate with other like-
 minded Vancouver organizations. Some initial projects for the agency 
 will include:
 
-â€¢ Programming for a massive outdoor block party.
-â€¢ The relaunch of last year's wildly popular Food Cart Festival.
-â€¢ Developing a concept for a new multi-venue creative hub.
-â€¢ The transformation of the Fox, a notorious porn theatre, into a new 
+• Programming for a massive outdoor block party.
+• The relaunch of last year's wildly popular Food Cart Festival.
+• Developing a concept for a new multi-venue creative hub.
+• The transformation of the Fox, a notorious porn theatre, into a new 
 kind of venue.
 
 "Our mission is to create cultural experiences that are exceptional and 
@@ -369,7 +369,7 @@ The Waldorf, a historic hotel located in a remote industrial area of East
 Vancouver. The team saw potential in the space as a creative 
 compound where contemporary art, music, food and culture could 
 convene under one roof. Under the leadership of this team, the hotel 
-flourished as an essential gathering space for Vancouverâ€™s diverse 
+flourished as an essential gathering space for Vancouver’s diverse 
 creative community. Sale of the hotel in early January forced the group 
 to cease operations, causing a media and public outcry. The Globe 
 and Mail described the closure as "the gutting of an art scene" for what 
@@ -430,7 +430,7 @@ Twitter: @ArrivalAgency
 Instagram: @ArrivalAgency
 Facebook: /ArrivalVancouver
 ***
-Â©2013 Arrival Agency | www.arrivalagency.com 
+©2013 Arrival Agency | www.arrivalagency.com 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-03-21-06-artspeak-speakeasy-cate-rimmer-and-jen-weih-mar-23">06. Artspeak | Speakeasy | Cate Rimmer and Jen Weih | MAR 23</a>
@@ -440,7 +440,7 @@ Cate Rimmer and Jen Weih
 Saturday, March 23, 2PM
 
 Speakeasy: Salon is a series of talks and presentations that 
-interrogates Artspeakâ€™s mandate to encourage a dialogue between 
+interrogates Artspeak’s mandate to encourage a dialogue between 
 visual art and writing. In this incarnation, speakers will present within 
 the conversational salon format on wide-ranging subjects including art, 
 music, literature, politics, popular culture, and science. Speakers select 
@@ -452,9 +452,9 @@ the topics explored. Speakeasy: Salon references both the demand for
 interdisciplinary learning in contemporary art and writing practices and 
 an interest in the informal academic institution.
 
-Jen Weih: You Tell the Ocean It Doesnâ€™t Know
+Jen Weih: You Tell the Ocean It Doesn’t Know
 
-â€œI am going to talk about the sprawling set of interests I have related to 
+“I am going to talk about the sprawling set of interests I have related to 
 the fact that the sun is moving really really really fast. It has its own 
 orbit of the galaxy. The image of the sun floating quietly in space with 
 the planets moving around it in circles was true for a time, but is now a 
@@ -495,7 +495,7 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -522,7 +522,7 @@ in the discussion; drawing on his extensive knowledge of the cultural
 life of this city.
 
 This discussion will take place against the backdrop of Presentation 
-House Galleryâ€™s NEWS!exhibition, based on the press photography 
+House Gallery’s NEWS!exhibition, based on the press photography 
 collection of The Vancouver Sun and The Province newspapers. This 
 unique working archive holds a breadth of material that includes over a 
 million photographs. The exhibition spanning the analogue era of news 
@@ -541,10 +541,10 @@ Tim Lee's renowned media artworks often involve reenacting famous
 moments in the history of popular culture. His most recent multimedia 
 installation, Blowin' in the Wind, Bob Dylan, 1963, 2013, currently at the 
 Asia Society Museum in New York, is a karaoke pavilion featuring the 
-artist's cover of the Dylanâ€™s eponymous folk anthem. 
+artist's cover of the Dylan’s eponymous folk anthem. 
 
 Michael Turner is a Vancouver-based writer and art critic whose 
-fictionsâ€”the most recent being8x10, 2009â€”are composed of multiple 
+fictions—the most recent being8x10, 2009—are composed of multiple 
 genres and mediums. His current curatorial endeavour, A Postcard 
 from Victoria, opening this May at the Art Gallery of Greater Victoria is 
 based on a 1983 video by Robert Morin & Lorraine Dufour, with 
@@ -670,7 +670,7 @@ info@contemporaryartgallery.ca www.contemporaryartgallery.ca
 ------------------------------------------------------------------------
 Emily Carr Alumni Gallery QE Theatre| Sean Mills | MAR 26
 
-March 26 â€“ May 27, 2013
+March 26 – May 27, 2013
 Telling Time While Travelling at the Speed of Light
 Sean Mills
 
@@ -766,8 +766,8 @@ http://vanartgallery.bc.ca/
 <a href="/instant-coffee/listings/2013-03-21-13-sfu-goldcorp-centre-talk-michael-taussig-mar-27">13. SFU | Goldcorp Centre | talk: Michael Taussig | MAR 27</a>
 ------------------------------------------------------------------------
 Michael Taussig March 27 Lecture
-"Re-enchantment of the Sun in An Age of Global Meltdownâ€œ
-March 27, 7:00 â€“ 9:00 pm
+"Re-enchantment of the Sun in An Age of Global Meltdown“
+March 27, 7:00 – 9:00 pm
 3200 Djavad Mowafaghian Cinema, Goldcorp Centre for the Arts,
 149 West Hastings Street, Vancouver
 
@@ -833,7 +833,7 @@ http://221a.ca/stratiform
 
 Upcoming SAD talks:
 - Thursday, March 28th, 8pm: On Objects and Melancholy: Drew 
-Shaffer (from Bakerâ€™s Dozen Antiques)
+Shaffer (from Baker’s Dozen Antiques)
 - Friday, April 5th, 8pm: On Spirits and Sadness: David McIntosh 
 (Battery Opera), with Jason Gowans and Mike Love; spirits tasting to 
 follow
@@ -869,15 +869,15 @@ day, from April to October, he looks out upon the treetops from the
 eight by eight foot cabin of the tallest tower in the province. Dan is also 
 a self-taught musician. While living in the woods, he crafted a cello 
 from a solid block of spruce and then taught himself to play it. Because 
-the cello was too big to fit in the cage of the towerâ€™s one hundred and 
+the cello was too big to fit in the cage of the tower’s one hundred and 
 twenty vertical steps, Dan made a body-less version, allowing him to 
-practice during his many hours inside the towerâ€™s cabin. By wedging 
+practice during his many hours inside the tower’s cabin. By wedging 
 the practice cello between the edge of a small worktable and the 
-cabinâ€™s fiberglass octagonal cupola, Dan discovered that he could 
-more than compensate for the instrumentâ€™s lack of a body. The cabin 
+cabin’s fiberglass octagonal cupola, Dan discovered that he could 
+more than compensate for the instrument’s lack of a body. The cabin 
 itself becomes the resonant chamber and the tower becomes the 
 instrument within which the cellist plays. Now, the lookout tower 
-broadcasts Danâ€™s music into the immensity of the landscape and the 
+broadcasts Dan’s music into the immensity of the landscape and the 
 trees become his audience.
 
 The Wood and Wave Each Other Know opened at the Khyber, Halifax 
@@ -922,10 +922,10 @@ the Drawing program at the Alberta College of Art & Design.
 Presented by Ship, an exhibition series programmed by Kuh del 
 Rosario and Warren McLachlan @ Dynamo Arts Association. 
 
-Open March 28 - 30, 12 â€“ 5 or by appointment through to April 7th. 
+Open March 28 - 30, 12 – 5 or by appointment through to April 7th. 
 
 Dynamo Arts Association
-103 â€“ 30 East 6th Ave
+103 – 30 East 6th Ave
 Vancouver, BC
 
 ------------------------------------------------------------------------
@@ -934,7 +934,7 @@ Vancouver, BC
 SCRIVENER'S MONTHLY | THURSDAY MARCH 28TH @ 8PM 
 Michael Taussig | Go Slow Party 
 
-Scrivenerâ€™s Monthly is pleased to present Michael Taussig hosting Go 
+Scrivener’s Monthly is pleased to present Michael Taussig hosting Go 
 Slow Party on Thursday March 28th at 8pm.
 
 Have we gotten to the point where the speed up has finally rendered 
@@ -949,7 +949,7 @@ anthropology at Columbia University in New York.
 
 Please come early, attendance is limited.
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the 
+Scrivener’s Monthly is a series of public presentations that explore the 
 space between material practices and spoken words: a periodical that 
 talks. Set alongside the exhibitions program at Western Front, this 
 experiment in â€œnot publishingâ€  involves readings, performances, and 
@@ -1052,7 +1052,7 @@ divination, symbols and geometry to align and reveal the more hidden
 elemental and energetic aspects of the work.
 
 Born in Chicago, Huanca received a BFA from the University of Houston
-(2004) and studied at StÃƒÆ’Ã‚Â¤delschule, Frankfurt, Germany (2009-10). The
+(2004) and studied at StÃƒÂ¤delschule, Frankfurt, Germany (2009-10). The
 recent recipient of a Fulbright Scholarship, Huanca lived and worked in
 Mexico City in 2012. Huanca has developed a nomadic practice producing
 site-specific projects and exhibitions throughout the United States,
@@ -1126,7 +1126,7 @@ As part of their ongoing research into the subject of the future,
 Cranfield and Slade will present a selection of YouTube videos for the 
 Video Bar at VIVO, drawing from music videos, clips and trailers from 
 movies, and assorted other future-oriented footage. The subject of the 
-future extends and broadens Cranfield and Sladeâ€™s interest in the 
+future extends and broadens Cranfield and Slade’s interest in the 
 notions of melancholia and nostalgia, particularly as expressed by and 
 through popular music. A curious and liminal state, the future is 
 ultimately heralded from the position of the past like a projection from 
@@ -1139,25 +1139,25 @@ is always and forever its own result.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-03-21-21-gallery-295-open-call-apr-1">21. Gallery 295 | open call | APR 1</a>
 ------------------------------------------------------------------------
-Index â€“ Juried Exhibition for Emerging Artists 
+Index – Juried Exhibition for Emerging Artists 
 
-This is an open call for Gallery 295â€™s first annual juried exhibition for 
+This is an open call for Gallery 295’s first annual juried exhibition for 
 emerging artists practicing in photography and related mediums. The 
-work in Index is gathering of some of Vancouverâ€™s most interesting new 
+work in Index is gathering of some of Vancouver’s most interesting new 
 artists using photography today. This exhibition will not be curated on a 
 theme but rather the work will be chosen on the basis of artistic merit 
 and originality.
 
-Indexâ€™s aim is to give emerging artists one of their first exhibitions in a 
+Index’s aim is to give emerging artists one of their first exhibitions in a 
 professional context, showcasing a series of images and their artistic 
 interests. Gallery 295 provides opportunities for artists by engaging 
-with The Labâ€™s facilities and technicians.
+with The Lab’s facilities and technicians.
 
 To apply please email the following information to 
 info@gallery295.com
 
 - Include Index Submission in the subject line.
-- 10 â€“ 20 images of recent work, jpg format, 72dpi, 740 pixels on 
+- 10 – 20 images of recent work, jpg format, 72dpi, 740 pixels on 
 longest side.
 - Image list specifying titles, year, dimensions, medium.
 - Project Statement (if applicable) max 300 words
@@ -1207,7 +1207,7 @@ The morning session will see an overview of the kinds of funding
 available from the public sector for short films with up-to-date 
 information on guidelines, expectations and application closing dates. 
 The afternoon is hands-on as participants judge a set of three funding 
-applications from a juryâ€™s perspective. The participants will be divided 
+applications from a jury’s perspective. The participants will be divided 
 into groups and evaluate the proposals in a mock jury style. After they 
 have made their decisions the instructors will hold a post-mortem with 
 the groups to discuss the results. 
@@ -1291,7 +1291,7 @@ and prepared by qualified chefs.
 Interested artists should submit the following by May 1, 2013:
 
 1. A brief description (max 1 page) of your proposed project while at 
-White Rabbit â€“ please include ideas/concepts you will be exploring, 
+White Rabbit – please include ideas/concepts you will be exploring, 
 materials and any tools that you will need. We encourage projects that 
 are harmonious with the environment, therefore please specify and 
 justify the proposed use of any unnatural materials.

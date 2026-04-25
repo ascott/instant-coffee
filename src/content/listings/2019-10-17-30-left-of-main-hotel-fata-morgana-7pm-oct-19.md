@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 30
 type: "EVENT"
+venue: "Left of Main"
 summary: "Left of Main | Hotel Fata Morgana | 7PM | OCT 19"
 ---
 

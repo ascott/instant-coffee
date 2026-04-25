@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vegetabled Micro Email Utopia"
 emailDate: "Wed, 17 Jan 2024 21:50:14 -0800"
 number: 32
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Firehall Arts Centre | Chelsea Hotel: The Songs of Leonard Cohen | FEB 3"
 ---
 

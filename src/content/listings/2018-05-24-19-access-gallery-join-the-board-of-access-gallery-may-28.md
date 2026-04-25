@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 19
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Join the Board of Access Gallery | MAY 28"
 ---
 

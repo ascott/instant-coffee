@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 20
 type: ""
+venue: "Eyelevel Gallery"
 summary: "Eyelevel Gallery | ERI 5 | CALL | JAN 30"
 ---
 

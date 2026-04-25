@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 7
 type: "EVENT"
+venue: "Library at Emily Carr University"
 summary: "Library at Emily Carr University | Jonina Kirton & Pamela Mordecai | NOV 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 15
 type: ""
+venue: "Toast Collective"
 summary: "Toast Collective | Hot Chicken and a Bottle of Wine | MAR 7"
 ---
 
@@ -19,7 +20,7 @@ New works by Wendy Batemen
 Where words can be temporary, finding a voice as a woman in a world that 
 moves quickly can be challenging. With a needle and thread, Bateman 
 chooses to deliberately and slowly say things that might easily be lost in 
-newsfeeds. She says it with humor and grace. Which, if youâ€™re going to 
+newsfeeds. She says it with humor and grace. Which, if you’re going to 
 anything, ought to begin there. 
 
 Wendy Bateman is from the prairies and now lives in Vancouver. She has had 

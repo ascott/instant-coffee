@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 16
 type: "OPENING"
+venue: "Vancouver Maritime Museum"
 summary: "Vancouver Maritime Museum | Sea Snaps: Maria Steernberg | 6-8PM | APR 13"
 ---
 

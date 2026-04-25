@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GET WITH IT"
 emailDate: "Thu, 03 Jan 2019 09:00:40 -0800"
 number: 7
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Corazón del espantapájaros | 6-9pm | JAN 16"
 ---
 

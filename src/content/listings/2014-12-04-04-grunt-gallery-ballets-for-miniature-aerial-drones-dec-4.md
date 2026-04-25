@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 4
 type: "EVENT"
+venue: "grunt gallery"
 summary: "grunt gallery | Ballets for Miniature Aerial Drones | DEC 4"
 ---
 
@@ -11,9 +12,9 @@ Ballets for Miniature Aerial Drones: A Research Workshop
 
 Julia Feyrer and Donato Mancini
 
-In anticipation of 2015 â€“ which will be the first year in the Age of Drones
-â€“ the grunt gallery invites you to participate in a special life-drawing
-and dance choreography research workshop in Julia Feyrerâ€™s Kitchen.
+In anticipation of 2015 – which will be the first year in the Age of Drones
+– the grunt gallery invites you to participate in a special life-drawing
+and dance choreography research workshop in Julia Feyrer’s Kitchen.
 
 Patrick English, of Kaizen Kinetics International, will be on site to
 demonstrate the dynamic movement capabilities of two models ("The Minion"
@@ -28,10 +29,10 @@ Participants are also invited to bring cassette tapes or mp3s of
 appropriate songs, to contribute musical accompaniment to the movement
 demonstrations.
 
-Kaizenâ€™s drone operator will be available to answer questions about the
+Kaizen’s drone operator will be available to answer questions about the
 possibilities of drone movement, dance and aerospace bylaw.
 
-Short term outcome will be: a â€˜zine publication gathering a selection of
+Short term outcome will be: a ‘zine publication gathering a selection of
 drawings made at (or resulting from) the workshop. Medium term outcome: new
 concepts for scoring drone choreography. Long term outcome: the design and
 staging of 15 ballets for miniature aerial drones.

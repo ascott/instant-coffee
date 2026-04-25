@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 14
 type: "CALL"
+venue: "InterAccess"
 summary: "InterAccess | CALL FOR WORKS: Life as we know it | MAY 15"
 ---
 

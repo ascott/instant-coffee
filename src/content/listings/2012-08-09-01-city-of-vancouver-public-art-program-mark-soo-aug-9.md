@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 1
 type: ""
+venue: "City of Vancouver Public Art Program"
 summary: "City of Vancouver Public Art Program | Mark Soo | AUG 9"
 ---
 
@@ -36,7 +37,7 @@ technologically determined role of the spectator. Soo has exhibited widely at
 venues including the CCA Wattis Institute, San Francisco; Museum van 
 Hedendaagse Kunst Antwerpen, Antwerp; Vancouver Art Gallery, Vancouver; 
 Western Bridge, Seattle; Nasher Museum of Art at Duke University, Durham; 
-Boston Institute of Contemporary Art, Boston; Johann KÃ¶nig, Berlin; and Marian 
+Boston Institute of Contemporary Art, Boston; Johann König, Berlin; and Marian 
 Goodman Gallery, Paris. He was the recipient of a Jack and Doris Shadbolt 
 Foundation VIVA Award for the Visual Arts in 2009.
 

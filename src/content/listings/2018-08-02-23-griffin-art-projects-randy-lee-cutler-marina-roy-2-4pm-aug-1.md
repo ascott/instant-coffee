@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 23
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Randy Lee Cutler & Marina Roy | 2-4PM | AUG 18"
 ---
 

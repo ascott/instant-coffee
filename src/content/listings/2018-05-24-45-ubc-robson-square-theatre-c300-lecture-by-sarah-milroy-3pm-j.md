@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 45
 type: "TALK"
+venue: "UBC Robson Square, Theatre C300"
 summary: "UBC Robson Square, Theatre C300 | Lecture by Sarah Milroy | 3PM | JUN 16"
 ---
 

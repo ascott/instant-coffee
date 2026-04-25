@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 19
 type: "CALL"
+venue: "FRONT Magazine"
 summary: "FRONT Magazine | call: Properties | DEC 1"
 ---
 
-Call for Submissions Â« FRONT Magazine Â« Properties Â« Dec 1
+Call for Submissions « FRONT Magazine « Properties « Dec 1
 
 FRONT Magazine is accepting work on the theme of "Properties." All
 printable genres of visual art, writing and ephemera will be considered.

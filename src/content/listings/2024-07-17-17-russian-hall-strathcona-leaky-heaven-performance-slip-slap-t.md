@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 17
 type: "PERFORMANCE"
+venue: "Russian Hall (Strathcona)"
 summary: "Russian Hall (Strathcona) | Leaky Heaven Performance: Slip Slap Trip Wack | JUL 26"
 ---
 

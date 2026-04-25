@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 19
 type: ""
+venue: "CARFAC BC"
 summary: "CARFAC BC | Wish You Were Here Fundraiser | CALL | JUN 8"
 ---
 
 We invite all CARFAC BC members in good standing to participate in 
 our inaugural postcard fundraising 
 event, Wish You Were Here taking place on Friday June 22 at 
-Woodwardâ€™s Atrium, 111 West Hastings Street, 
+Woodward’s Atrium, 111 West Hastings Street, 
 Vancouver from 10 AM - 6 PM. 
 All work by members will be exhibited and priced at $50 each. The cut 
 is 50/50 between artist and organization. 

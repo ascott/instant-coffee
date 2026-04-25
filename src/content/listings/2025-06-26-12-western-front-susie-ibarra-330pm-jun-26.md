@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 12
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Susie Ibarra | 330PM | JUN 26"
 ---
 

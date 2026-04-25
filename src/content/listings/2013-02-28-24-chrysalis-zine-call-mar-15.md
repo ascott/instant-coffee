@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 24
 type: ""
+venue: "Chrysalis Zine"
 summary: "Chrysalis Zine | CALL | MAR 15"
 ---
 
 Chrysalis Zine is looking for submissions for Issue 4. 
 
-The theme for Issue 4 will beâ€¦
-hisÂ·toÂ·ries
+The theme for Issue 4 will be…
+his·to·ries
 noun [his-tuh-rees, his-trees] plural of hisÂ·toÂ·ry
 the branch of knowledge dealing with past events.
 a continuous, systematic narrative of past events as relating to a particular 

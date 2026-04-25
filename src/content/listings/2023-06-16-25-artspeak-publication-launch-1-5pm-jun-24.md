@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 25
 type: "EVENT"
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Publication Launch | 1-5pm | JUN 24"
 ---
 

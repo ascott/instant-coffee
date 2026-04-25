@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 3
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Barry Doupe - AMIGA Paintings | JAN 5"
 ---
 

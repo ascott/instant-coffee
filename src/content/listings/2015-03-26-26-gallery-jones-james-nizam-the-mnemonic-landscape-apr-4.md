@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 26
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | James Nizam - The Mnemonic Landscape | APR 4"
 ---
 
 James Nizam
 The Mnemonic Landscape
-April 4th â€“ 23rd, 2015
+April 4th – 23rd, 2015
 
 Opening Reception: Saturday, April 4th, 5-8pm
 
 Gallery Jones is pleased to present The Mnemonic Landscape, a solo
-exhibition of new works by James Nizam. The exhibition continues Nizamâ€™s
+exhibition of new works by James Nizam. The exhibition continues Nizam’s
 exploration of the relationship between photography and sculpture, and
 their capacity (alone and in conjunction) to comment on the vagaries of the
 â€œexpandedâ€  artifact. Weaving together photo-sculptural works through a
@@ -27,7 +28,7 @@ dissolution of the trace as it comes into and out of visibility.
 
 James Nizam is a visual artist living in Vancouver. He graduated from the
 University of British Columbia in 2002 and holds a Bachelor of Fine Arts in
-sculpture and photography. Nizamâ€™s work has been exhibited in Canada and
+sculpture and photography. Nizam’s work has been exhibited in Canada and
 abroad with recent exhibitions that include, Vestiges of Memory, Maerz
 Galerie, Leipzig 2015; Poetics of Space, Vancouver Art Gallery 2015; Views
 from the South Banks, Surrey Art Gallery 2015; Die Ausstellung, KIT,

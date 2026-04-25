@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 16
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Antoni Wojtyra and Jason Gowans"
 ---
 

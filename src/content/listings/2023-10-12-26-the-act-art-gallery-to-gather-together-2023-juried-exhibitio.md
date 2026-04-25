@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Half Peeled Orange"
 emailDate: "Wed, 11 Oct 2023 22:20:26 -0700"
 number: 26
 type: "CALL"
+venue: "The ACT Art Gallery"
 summary: "The ACT Art Gallery | To Gather Together – 2023 Juried Exhibition | OCT 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 19
 type: ""
+venue: "Exercise"
 summary: "Exercise | ERIK LAVESSON, NIK GREENE, AND TIMOTHY FUREY | MAR 9"
 ---
 

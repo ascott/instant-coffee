@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 31
 type: ""
+venue: "Art Gallery Greater Victoria"
 summary: "Art Gallery Greater Victoria | lessLIE, Dylan Thomas, Rande Cook and Francis Dick | SEP 21"
 ---
 
-AGGVâ€™s Fall Exhibition Features Exciting New Work from Four Local First 
+AGGV’s Fall Exhibition Features Exciting New Work from Four Local First 
 Nations Artists
 
 Victoria, BC - The Art Gallery of Greater Victoria explores the theme of 
@@ -15,16 +16,16 @@ Indigenous identity through the unique perspective of four First Nation artists
 in the exhibition Urban Thunderbirds / Ravens in a Material World.
 
 The exhibition highlights new and recent works from Coast Salish artists 
-lessLIE and Dylan Thomas, and Kwakwakaâ€™wakw artists Rande Cook and 
+lessLIE and Dylan Thomas, and Kwakwaka’wakw artists Rande Cook and 
 Francis Dick.
 
 Through painting, photography, sculpture and mixed media installations, the 
 artists offer a unique view of First Nations art in the region.
 
-â€œThe vision for the project evolved directly from the concepts being investigated 
+“The vision for the project evolved directly from the concepts being investigated 
 in the work of artists, and co-curators, lessLIE and Rande Cook,â€  said Nicole 
 Stanbridge, AGGV Associate Curator of Contemporary Art and co-curator of 
-the exhibition. â€œThey invited Dylan Thomas and Francis Dick to contribute to 
+the exhibition. “They invited Dylan Thomas and Francis Dick to contribute to 
 the exhibition as well. The bodies of work presented by all four artists furthers 
 their investigation into personal stories, community histories and current 
 events.â€ 
@@ -35,7 +36,7 @@ infused with cross cultural significance and social critique. Together these
 artists re-appropriate North American visual culture in order to reflect urban 
 First Nations identity.
 
-The work of Kwakwakaâ€™wakw artists Rande Cook and Francis Dick is featured 
+The work of Kwakwaka’wakw artists Rande Cook and Francis Dick is featured 
 in Ravens in a Material World. Rande Cook references the creator and 
 trickster Raven in his mixed media installation while Francis Dick creates a 
 distinctive voice with her portrait works , honouring individuals through 
@@ -98,7 +99,7 @@ Thursday, October 10, 7 p.m.
 Artist talk with Francis Dick
 Free with Gallery admission
 
-Friday, October 18, 8 p.m. â€“ 11 p.m.
+Friday, October 18, 8 p.m. – 11 p.m.
 Urbanite
 $18 | $15 for members/students
 Tickets available in advance at www.urbanite.eventbrite.com
@@ -114,17 +115,17 @@ $5 Tickets available in advance at http://decolonization.eventbrite.ca/
 The AGGV and the City of Victoria collaborate to present a dynamic 
 discussion on the contribution of cultural production in the Indigenous 
 Resurgence Movement featuring Taiaiake Alfred from the Indigenous 
-Governance Program at UVic alongside artistsâ€™ lessLIE, Marianne Nicolson 
+Governance Program at UVic alongside artists’ lessLIE, Marianne Nicolson 
 and Tania Willard.
 
-Sunday, November 17, drop-in between 2 p.m. â€“ 4 p.m.
+Sunday, November 17, drop-in between 2 p.m. – 4 p.m.
 Family Sunday: Children their families are invited for an afternoon of 
 performance and art-making inspired by the current exhibition Urban 
 Thunderbirds/Ravens in a Material World.
 Free with Gallery admission
 
 Saturday, November 23, 1:00 p.m.
-Urban Thunderbirds/Ravens in a Material World Catalogue Launch & Artistsâ€™ 
+Urban Thunderbirds/Ravens in a Material World Catalogue Launch & Artists’ 
 Talk featuring lessLIE, Rande Cook, and Dylan Thomas.
 Free with Gallery admission
 

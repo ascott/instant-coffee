@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 5
 type: "PERFORMANCE"
+venue: "The Birdhouse"
 summary: "The Birdhouse | Odd Numbers: Performance Roulette | 8PM | MAR 28"
 ---
 

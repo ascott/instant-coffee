@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 8
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | What Is Welcome? | 6PM | JUN 22"
 ---
 

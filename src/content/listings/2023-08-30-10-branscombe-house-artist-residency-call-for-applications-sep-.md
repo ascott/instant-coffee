@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 10
 type: "CALL"
+venue: "Branscombe House Artist Residency"
 summary: "Branscombe House Artist Residency | Call for Applications | SEP 5"
 ---
 

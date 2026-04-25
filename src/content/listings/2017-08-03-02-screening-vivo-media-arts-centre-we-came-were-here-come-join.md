@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 2
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | We Came, We're Here, Come Join Us | AUG 3"
 ---
 

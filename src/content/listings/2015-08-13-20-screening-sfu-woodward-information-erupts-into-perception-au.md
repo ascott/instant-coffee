@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 20
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Woodward | Information Erupts into Perception | AUG 18"
 ---
 
@@ -26,13 +27,13 @@ Naz Shahrokh, On the Road (be fekret hastam) (United Arab Emirates,
 2013 6:40)
 
 Live Cinema Performance (30 minutes)
-VJ Um Amel with Fadi Z. Sakr, Ã¢â‚¬Å“From Cairo to Gaza: Mobilizing the 
-Body PoliticÃ¢â‚¬
+VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the 
+Body Politicâ€
 
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to
 seemingly random patterns that, when organized into information, can 
-be rendered audiovisually. MoirÃƒÂ© patterns, shadow puppets, analog 
+be rendered audiovisually. MoirÃ© patterns, shadow puppets, analog 
 video decay, surveillance technology, and other media collect and give 
 shape to disavowed histories and the voices of the earth. In some 
 cases these acts of translation permit a heightened political analysis. In 

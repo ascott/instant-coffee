@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 1
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Brendan Tang: Souvenirs From Earth | SEP 2"
 ---
 

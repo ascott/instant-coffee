@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 19
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Archives Access: Pascal | 730PM | FEB 27"
 ---
 

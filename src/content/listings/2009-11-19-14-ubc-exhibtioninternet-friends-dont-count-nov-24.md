@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 14
 type: ""
+venue: "UBC"
 summary: "UBC | Exhibtion:\"Internet Friends Don't Count\" | NOV 24"
 ---
 
@@ -37,10 +38,10 @@ technology. This exhibition hopes to draw connections between those facets.
 Below are a few statements by the artists in their attempts to circumscribe
 the topic in question:
 
-Ã¢â‚¬Å“In the digital world there exists data that is real yet intangible,
+â€œIn the digital world there exists data that is real yet intangible,
 hovering over these boundaries the information itself is ephemeral and
 should not truly exist in material form. However, even if deleted, this
-information will have left inerasable traces of its existence in our world. Ã¢â‚¬Å“
+information will have left inerasable traces of its existence in our world. â€œ
 
 The modification of physical interaction has changed through the variable
 existence and experience of materials within a growing objectless,

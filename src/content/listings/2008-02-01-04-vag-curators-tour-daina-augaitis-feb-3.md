@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee conditioned"
 emailDate: "Thu, 31 Jan 2008 17:20:08 -0800"
 number: 4
 type: ""
+venue: "VAG"
 summary: "VAG | curators tour: Daina Augaitis | FEB 3"
 ---
 

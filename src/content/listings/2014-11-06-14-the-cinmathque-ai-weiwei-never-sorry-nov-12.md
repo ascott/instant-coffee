@@ -4,23 +4,24 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 14
 type: ""
-summary: "The CinÃ©mathÃ¨que | Ai Weiwei: Never Sorry | NOV 12"
+venue: "The Cinémathèque"
+summary: "The Cinémathèque | Ai Weiwei: Never Sorry | NOV 12"
 ---
 
-Film Screening and Discussion at The CinÃ©mathÃ¨que - Ai Weiwei: Never 
+Film Screening and Discussion at The Cinémathèque - Ai Weiwei: Never 
 Sorry
 Wednesday, November 12, 7 pm
 
-The CinÃ©mathÃ¨que, 1131 Howe Street, Vancouver, BC
+The Cinémathèque, 1131 Howe Street, Vancouver, BC
 
-In conjunction with The CinÃ©mathÃ¨que, we are pleased to present Alison 
-Klaymanâ€™s award-winning documentary film Ai Weiwei: Never Sorry, 
+In conjunction with The Cinémathèque, we are pleased to present Alison 
+Klayman’s award-winning documentary film Ai Weiwei: Never Sorry, 
 which examines the complex intersection of artistic practice and social 
 activism as seen through the life and art of the artist. Please join us 
 immediately before the film for an introduction by Carol Lu, artistic 
 director and chief curator of OCAT Shenzhen. A critic and curator based 
 in Beijing, Lu is a Contributing Editor at Frieze Magazine. She was a jury 
-member for the 2011 Venice Biennaleâ€™s Golden Lion Award, a co-artistic 
+member for the 2011 Venice Biennale’s Golden Lion Award, a co-artistic 
 director for the 2012 Gwangju Biennial and writes frequently for 
 international art journals and magazines including e-flux journal, The 
 Exhibitionist, Yishu, Tate Etc. and Contemporary. Her curatorial work 

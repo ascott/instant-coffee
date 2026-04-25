@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 12
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Morgan Wong: Mean Time | SEP 9"
 ---
 

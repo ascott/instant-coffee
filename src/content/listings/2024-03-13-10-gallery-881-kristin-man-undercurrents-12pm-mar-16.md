@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 10
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | Kristin Man - Undercurrents | 12PM | MAR 16"
 ---
 

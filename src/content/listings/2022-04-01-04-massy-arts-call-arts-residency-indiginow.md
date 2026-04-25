@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 4
 type: "CALL"
+venue: "Massy Arts"
 summary: "Massy Arts | CALL - ARTS RESIDENCY - INDIGINOW"
 ---
 

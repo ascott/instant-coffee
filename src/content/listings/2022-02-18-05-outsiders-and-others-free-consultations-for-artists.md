@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 5
 type: "EDUCATION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | FREE consultations for artists!"
 ---
 

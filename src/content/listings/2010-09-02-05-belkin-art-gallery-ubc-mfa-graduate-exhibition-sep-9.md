@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: coughing up not passing the buck"
 emailDate: "Thu, 02 Sep 2010 12:40:18 -0700"
 number: 5
 type: ""
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | UBC MFA Graduate Exhibition | SEP 9"
 ---
 

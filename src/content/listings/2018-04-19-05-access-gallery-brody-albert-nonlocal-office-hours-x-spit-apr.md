@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 5
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Brody Albert: Nonlocal + Office Hours x SPIT | APR 20"
 ---
 

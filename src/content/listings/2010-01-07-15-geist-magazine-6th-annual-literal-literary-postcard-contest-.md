@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 15
 type: ""
+venue: "Geist magazine"
 summary: "Geist magazine | 6th Annual Literal Literary Postcard contest | JAN 15"
 ---
 
@@ -20,7 +21,7 @@ Send us a post­card along with a story that relates to the image. The
 relation­ship can be as tan­gen­tial as you like, so long as there is
 some clear con­nec­tion to the image or place.
 
-Maximum length: 500 words, ficÂ­tion or non-fiction.
+Maximum length: 500 words, fic­tion or non-fiction.
 
 Winning entries will be pub­lished in Geist and at geist.com.
 Honourable mentions will be pub­lished at geist.com.
@@ -33,12 +34,12 @@ story or the card. Include a cover letter with these details:
 * Your name
 * Story title(s)
 * Address
-* Phone numÂ­ber
+* Phone num­ber
 * Email address
 * How you found out about the contest
 
 (Your per­sonal infor­maÂtion is confidential and will be used by
-Geist only to conÂ­tact you.)
+Geist only to con­tact you.)
 
 Entry Fee: $20 for the first entry (includes a 1-year sub­scription
 or subscrip­tion exten­sion), $5 for each addi­tional entry.

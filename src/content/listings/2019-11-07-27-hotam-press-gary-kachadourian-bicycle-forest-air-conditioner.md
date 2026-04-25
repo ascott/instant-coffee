@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 27
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Gary Kachadourian | Bicycle, Forest, Air-Conditioner | NOV 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 21
 type: "OPENING"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Robert Murray: Between Earth and Sky | JUL 10"
 ---
 

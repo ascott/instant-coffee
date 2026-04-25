@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 11
 type: "TALK"
+venue: "Artspeak [ONLINE]"
 summary: "Artspeak [ONLINE] | Lecture with Jinoos Taghizadeh | 6pm | SEP 28"
 ---
 

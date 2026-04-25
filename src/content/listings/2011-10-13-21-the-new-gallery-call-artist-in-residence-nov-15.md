@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE DISSORIENTATION"
 emailDate: "Thu, 13 Oct 2011 13:00:37 -0700"
 number: 21
 type: ""
+venue: "The New Gallery"
 summary: "The New Gallery | CALL: Artist in Residence | NOV 15"
 ---
 

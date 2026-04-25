@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 42
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Western Front | Concert by Still House Plants | 8PM | MAR 15"
 ---
 

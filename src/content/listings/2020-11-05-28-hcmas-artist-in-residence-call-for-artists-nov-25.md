@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 28
 type: "CALL"
+venue: "HCMA's Artist in Residence"
 summary: "HCMA's Artist in Residence | Call for Artists | NOV 25"
 ---
 

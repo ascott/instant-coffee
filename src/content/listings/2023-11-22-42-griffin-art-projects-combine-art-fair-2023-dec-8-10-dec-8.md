@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 42
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | COMBINE Art Fair 2023 | DEC 8-10 | DEC 8"
 ---
 

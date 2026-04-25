@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 19
 type: ""
+venue: "Exit 22 at Capilano University"
 summary: "Exit 22 at Capilano University | THE CRUCIBLE | FEB 15"
 ---
 

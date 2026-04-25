@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 19
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Shannon Pawliw | 12PM | NOV 9"
 ---
 

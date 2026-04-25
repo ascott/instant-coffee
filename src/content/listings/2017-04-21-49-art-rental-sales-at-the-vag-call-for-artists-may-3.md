@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 49
 type: "CALL"
+venue: "Art Rental & Sales at the VAG"
 summary: "Art Rental & Sales at the VAG | Call for Artists | MAY 3"
 ---
 

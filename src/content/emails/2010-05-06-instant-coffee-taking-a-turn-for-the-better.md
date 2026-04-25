@@ -526,7 +526,7 @@ and one computer. La Fabbrica Illuminata (1964) by Luigi Nono takes a
 glimpse into the past of the electronic medium with four channel magnetic
 tape collage and soprano, while Agostino Di Scipio's work encapsulates the
 true meaning of "live electronics" with his background noise study of the
-vocal tract. AndrÃ© Cormier's En Monochrome (2008) isolates musical
+vocal tract. André Cormier's En Monochrome (2008) isolates musical
 parameters, while Hector Bravo Benard's Pink Noise (2005) morphs multiple
 parameters and creates counterpoint within the solo voice. Allison Hrabluik
 will be premiering her latest video Corundum (2010) with sound by Andrea Young.
@@ -1110,10 +1110,10 @@ born in, studied in, or live in Rhineland-Palatinate:
 
 - One six-month scholarship for TrAIN, University of the Arts London
 - One six-month scholarship for New York (Flux Factory)
-- Two six-month scholarships for the CitÃ© Internationale des Arts, Paris
+- Two six-month scholarships for the Cité Internationale des Arts, Paris
 - One five-month scholarship for the Kunstlerhaus Schloss Wiepersdorf,
 Brandenburg/Germany
-- One three-month scholarship for the Ecole Nationale SupÃ©rieure d'Art de
+- One three-month scholarship for the Ecole Nationale Supérieure d'Art de
 Dijon, France
 
 The foreign and exchange scholarships are endowed with 1,200 euros per month.

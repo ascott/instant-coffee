@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 15
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | 12PM | JUL 27"
 ---
 

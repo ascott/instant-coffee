@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 21
 type: "CALL"
+venue: "Perpendicular Play Vol. 5"
 summary: "Perpendicular Play Vol. 5 | Long Distance Picnic | NOV 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 20
 type: ""
+venue: "The Powell Street Festival"
 summary: "The Powell Street Festival | seeking: GENERAL MANAGER & PROGRAMMING DIRECTOR | DEC 6"
 ---
 
@@ -32,31 +33,31 @@ duties, the incumbent will carry out the creative projects in each season
 the board of directors), as well as work on grant writing and production
 management. He or she will develop accurate budgeting forecasts and
 maintain productions on budget. Specific duties include:
-Â·grant-writing
-Â·budget-keeping and forecasting (current budget of $200,000)
-Â·investigating new sources of revenue (grants, donors, foundations and
+·grant-writing
+·budget-keeping and forecasting (current budget of $200,000)
+·investigating new sources of revenue (grants, donors, foundations and
 sponsors)
-Â·submitting society/charitable status reports and other society business
+·submitting society/charitable status reports and other society business
 (T4s, GST return, WCB dues, royalties, etc.)
-Â·general outreach and communications (e-newsletters, production of printed
+·general outreach and communications (e-newsletters, production of printed
 winter newsletters, maintaining media relations, etc.)
-Â·database and membership management
-Â·overseeing hiring, payroll and supervision of summer production staff
+·database and membership management
+·overseeing hiring, payroll and supervision of summer production staff
 (Production Coordinator and Volunteer Coordinator) and other contract staff
 contracting of, and payment to, artists and booking travel arrangements
-Â·overseeing merchandise design and production
-Â·preliminary festival production tasks such as sending out application
+·overseeing merchandise design and production
+·preliminary festival production tasks such as sending out application
 forms to community participants and vendors
-Â·facilitating work of the Board of Directors, the Fundraising Committee,
+·facilitating work of the Board of Directors, the Fundraising Committee,
 Festival Committee and the Advocacy Committee
-Â·researching artists on an ongoing basis
+·researching artists on an ongoing basis
 Â·in cooperation with the Programming Committee, developing each yearâ��s theme
-Â·in cooperation with the Programming Committee, overseeing the development
+·in cooperation with the Programming Committee, overseeing the development
 of each seasonâ��s programming and translating it into project descriptions
-Â·developing relationships year-round with artists and other arts partners
-Â·confirming MCs for the festival
-Â·liaising with festival artists
-Â·establishing community and arts organizational partnerships, sponsorships
+·developing relationships year-round with artists and other arts partners
+·confirming MCs for the festival
+·liaising with festival artists
+·establishing community and arts organizational partnerships, sponsorships
 and projects
 
 The General Manager & Programming Director will be required to attend

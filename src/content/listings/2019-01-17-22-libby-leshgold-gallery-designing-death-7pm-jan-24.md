@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 22
 type: "OPENING"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Designing Death | 7PM | JAN 24"
 ---
 

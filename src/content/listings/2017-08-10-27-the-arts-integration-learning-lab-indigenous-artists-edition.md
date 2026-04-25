@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 27
 type: "CALL"
+venue: "The Arts Integration Learning Lab"
 summary: "The Arts Integration Learning Lab | Indigenous Artists Edition | SEP 5"
 ---
 

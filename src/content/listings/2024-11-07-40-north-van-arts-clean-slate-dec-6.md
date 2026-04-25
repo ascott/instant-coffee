@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 40
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | CLEAN SLATE | DEC 6"
 ---
 

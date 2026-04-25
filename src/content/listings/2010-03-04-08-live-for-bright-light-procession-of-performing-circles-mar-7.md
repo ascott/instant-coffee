@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There is nothing Pre-Raphaelite ab
 emailDate: "Thu, 04 Mar 2010 11:36:49 -0800"
 number: 8
 type: ""
+venue: "LIVE for Bright Light"
 summary: "LIVE for Bright Light | Procession of Performing Circles | MAR 7"
 ---
 

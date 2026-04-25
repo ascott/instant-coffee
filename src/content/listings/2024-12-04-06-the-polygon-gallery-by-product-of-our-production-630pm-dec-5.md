@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 6
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | By-Product Of Our Production | 630PM | DEC 5"
 ---
 

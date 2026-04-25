@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 13
 type: "TALK"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | ...ARCHITECTS ATTUNED TO NATURE | JUL 4"
 ---
 

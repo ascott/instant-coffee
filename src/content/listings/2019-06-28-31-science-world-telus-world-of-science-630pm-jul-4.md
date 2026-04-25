@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 31
 type: "EVENT"
+venue: "Science World"
 summary: "Science World | Telus World of Science | 6:30PM | JUL 4"
 ---
 

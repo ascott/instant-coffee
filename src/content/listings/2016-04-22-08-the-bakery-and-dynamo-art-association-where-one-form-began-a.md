@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 8
 type: "OPENING"
+venue: "The Bakery and Dynamo Art Association"
 summary: "The Bakery and Dynamo Art Association | WHERE ONE FORM BEGAN ANOTHER ENDED | APR 23"
 ---
 

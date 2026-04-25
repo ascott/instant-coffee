@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 6
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Ginger Goodwin Way | JAN 29"
 ---
 
@@ -32,7 +33,7 @@ nose bullet. Campbell, who claimed he fired in self-defense, was never
 brought to trial. There was a huge funeral procession for Goodwin that
 filled the streets of Cumberland, and Goodwin's death resonated in
 Vancouver, sparking the first general strike in Canada's history. This
-synopsis of GoodwinÃŠÂ¼s story is one of many, and the facts change depending
+synopsis of GoodwinÊ¼s story is one of many, and the facts change depending
 on where you find it.
 
 I first heard the story of Ginger Goodwin from my aunt, who lives below the
@@ -46,14 +47,14 @@ sign has generated great debate, and in 2001 the newly appointed provincial
 Liberals had it quietly removed.
 
 At the time of the removal, B.C. Federation of Labour President Jim
-Sinclair wrote Ã¢ï¿½ï¿½Ginger Goodwin was not only an Officer of the Federation,
+Sinclair wrote â��Ginger Goodwin was not only an Officer of the Federation,
 he was a miner, an organizer, a community leader and a tireless advocate
-for the rights of working peopleÃ¢ï¿½Â¦ At least five BC communities have streets
+for the rights of working peopleâ�¦ At least five BC communities have streets
 commemorating coal baron Robert Dunsmuir. Ginger Goodwin Way provides a
-very modest balance.Ã¢ï¿½ï¿½
+very modest balance.â��
 
 The story of Ginger Goodwin has always been plural and ambiguous: one
-figureÃ¢ï¿½ï¿½s story with many variants. In many ways his story could be seen as
+figureâ��s story with many variants. In many ways his story could be seen as
 a point of contestation between official narratives and those that
 circulate by other means.
 
@@ -66,7 +67,7 @@ re- interpreting and taking ownership of narratives that are either in
 danger of being lost, or are only told from one dominant position. The
 exhibition itself derives from the idea that a story can be told within a
 story or beside a story without being the only anchor of the particular
-narrative. GoodwinÃ¢ï¿½ï¿½s story then, becomes an entry point to approach the
+narrative. Goodwinâ��s story then, becomes an entry point to approach the
 diverging stories present in the exhibition itself.
 
 Or Gallery

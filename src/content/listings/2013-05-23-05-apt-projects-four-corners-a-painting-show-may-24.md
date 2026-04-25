@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 5
 type: ""
+venue: "Apt Projects"
 summary: "Apt Projects | Four Corners: A Painting Show | MAY 24"
 ---
 
@@ -48,7 +49,7 @@ Canadian Art Magazine for her writing on contemporary art.
 
 Les Ramsay received his BFA in Visual Arts in 2007 from Emily Carr
 University in Vancouver, and also studied at the Bellas Artes,
-Universidad PolitÃƒÂ©cnica de Valencia, Spain. Ramsay is represented 
+Universidad PolitÃ©cnica de Valencia, Spain. Ramsay is represented 
 by Cooper Cole Gallery in Toronto and his work has been exhibited in
 Canada, Spain, Sweden, and the United States.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 23
 type: "PERFORMANCE"
+venue: "BAG"
 summary: "BAG | A Studio Provoked: A Dancer’s Response | 1PM | NOV 3"
 ---
 

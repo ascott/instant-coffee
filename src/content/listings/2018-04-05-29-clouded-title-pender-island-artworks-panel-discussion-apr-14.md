@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 29
 type: "EVENT"
+venue: "CLOUDED TITLE (PENDER ISLAND)"
 summary: "CLOUDED TITLE (PENDER ISLAND) | Artworks & Panel Discussion | APR 14"
 ---
 

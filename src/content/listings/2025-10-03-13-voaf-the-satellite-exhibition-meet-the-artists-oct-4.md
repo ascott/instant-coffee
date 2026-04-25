@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 13
 type: "TALK"
+venue: "VOAF"
 summary: "VOAF | The Satellite Exhibition | Meet the Artists | OCT 4"
 ---
 

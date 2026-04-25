@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 4
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Robert Arndt | JAN 21"
 ---
 
@@ -14,19 +15,19 @@ Robert Arndt
 January 22 - March 26, 2011
 Opening January 21, 8pm
 Artist Talk February 12, 2pm
-Robert Arndtâ€™s most recent video work, Placeholder, uses a
+Robert Arndt’s most recent video work, Placeholder, uses a
 commercial documentation shoot for a series of homogenous
 blocks as the setting for an absurdist theatre of critical dialogue.
 Through this familiar backdrop of well-considered object
 presentation, the scene becomes a site of dubious discourse, akin
 to an aesthetic sample group. Actors adopt the roles of off-camera
 producers and directors, engaging in disagreeable narration and
-directing the objectsâ€™ placement while negotiating aesthetic
+directing the objects’ placement while negotiating aesthetic
 judgments, language, and the structures of authority through the
 practicalities of collaborative documentation. Moving beyond the
-presentation of video as theatre model, Arndtâ€™s video installation
+presentation of video as theatre model, Arndt’s video installation
 implicates the screen, gallery, and viewer in this discourse through
-itâ€™s unconventional presentation.
+it’s unconventional presentation.
 Arndt's work suggests a manner of reading the object/subject under
 a diversiform of presentations, styles, subjectivity, and institutional
 structures through art and cinematic history. His work shifts
@@ -46,5 +47,5 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

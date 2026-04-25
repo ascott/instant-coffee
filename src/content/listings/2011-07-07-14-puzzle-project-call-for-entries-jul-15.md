@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 14
 type: ""
+venue: "PUZZLE PROJECT"
 summary: "PUZZLE PROJECT | CALL for Entries | JUL 15"
 ---
 

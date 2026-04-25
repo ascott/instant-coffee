@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 2
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Libby Leshgold Gallery and READ Books | Wendy’s Subway | OCT 2"
 ---
 

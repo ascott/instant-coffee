@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 22
 type: ""
+venue: "Banff Centre"
 summary: "Banff Centre | Thematic Residencies | JUN 14"
 ---
 
@@ -17,7 +18,7 @@ Program dates: January 13, 2014 - February 21, 2014
 
 Application deadline: June 14, 2013
 
-Faculty: Postcommodity (Raven Chacon, CristÃ³bal MartÃ­nez, Kade L. 
+Faculty: Postcommodity (Raven Chacon, Cristóbal Martínez, Kade L. 
 Twist, Nathan Young)
 
 Postcommodity will lead a group investigation of the complex 
@@ -28,7 +29,7 @@ born into and continue to occupy? Could it be the various machines
 and systems simultaneously tugging on you for attention and 
 removing the resources beneath your feet? Please note: Enrolment 
 to this program is limited to individuals of Indigenous descent (status, 
-non-status, MÃ©tis or Inuit).
+non-status, Métis or Inuit).
 
 For more information and to apply:
 

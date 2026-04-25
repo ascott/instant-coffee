@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is elementally fundamental. HELL Y
 emailDate: "Thu, 17 Feb 2011 11:28:21 -0800"
 number: 22
 type: ""
+venue: "Yukon School of Visual Arts"
 summary: "Yukon School of Visual Arts | CALL for Applications | MAR 31"
 ---
 

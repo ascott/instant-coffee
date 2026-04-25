@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 39
 type: ""
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Selection Panelist Pool Open Call | SEP 28"
 ---
 

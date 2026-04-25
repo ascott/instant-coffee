@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 7
 type: "TALK"
+venue: "ONLINE"
 summary: "ONLINE | (Re)building the Art World Together: NFTs | 7PM | JAN 27"
 ---
 

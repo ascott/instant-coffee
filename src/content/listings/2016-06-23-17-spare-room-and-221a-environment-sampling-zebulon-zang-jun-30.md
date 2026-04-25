@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 17
 type: "TALK"
+venue: "Spare Room and 221A"
 summary: "Spare Room and 221A | Environment Sampling: Zebulon Zang | JUN 30"
 ---
 

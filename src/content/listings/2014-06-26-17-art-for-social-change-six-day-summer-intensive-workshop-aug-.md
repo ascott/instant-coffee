@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: they do not always believe the man
 emailDate: "Thu, 26 Jun 2014 16:11:54 -0700"
 number: 17
 type: ""
+venue: "Art for Social Change"
 summary: "Art for Social Change | Six-Day Summer Intensive Workshop | AUG 24"
 ---
 

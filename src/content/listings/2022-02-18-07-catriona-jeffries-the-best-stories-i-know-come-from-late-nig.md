@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | The best stories I know come from late night car r | JAN 29"
 ---
 

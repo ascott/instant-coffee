@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 21
 type: "EDUCATION"
+venue: "Free intro to in-person VOICE INTO POETRY Writing"
 summary: "Free intro to in-person VOICE INTO POETRY Writing | FEB 11"
 ---
 

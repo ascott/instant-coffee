@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 7
 type: "EVENT"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | art rock? is back ! | JUL 7&8 | JUL 7"
 ---
 

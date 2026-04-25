@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 25
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Sabine Bitter & Helmut Weber | NOV 15"
 ---
 

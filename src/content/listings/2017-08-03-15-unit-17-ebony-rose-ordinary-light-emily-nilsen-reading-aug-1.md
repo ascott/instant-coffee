@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 15
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | EBONY ROSE - Ordinary Light + Emily Nilsen Reading | AUG 12"
 ---
 

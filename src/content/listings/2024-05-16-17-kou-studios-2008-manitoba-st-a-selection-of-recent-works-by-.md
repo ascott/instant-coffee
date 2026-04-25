@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 17
 type: "OPENING"
+venue: "Kou Studios 2008 Manitoba St."
 summary: "Kou Studios 2008 Manitoba St. | A selection of recent works by Ben Skinner | MAY 25"
 ---
 

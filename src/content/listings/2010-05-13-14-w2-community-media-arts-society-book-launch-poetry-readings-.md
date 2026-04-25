@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 14
 type: ""
+venue: "W2 Community Media Arts Society"
 summary: "W2 Community Media Arts Society | Book launch, poetry readings, music, celebration | MAY 22"
 ---
 

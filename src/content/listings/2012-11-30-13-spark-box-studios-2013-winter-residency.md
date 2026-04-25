@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 13
 type: "CALL"
+venue: "Spark Box Studio's"
 summary: "Spark Box Studio's | 2013 Winter Residency | "
 ---
 

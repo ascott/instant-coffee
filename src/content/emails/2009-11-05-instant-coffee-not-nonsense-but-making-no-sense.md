@@ -315,7 +315,7 @@ Charles Darwin's birth, as well as November 2009 being the 150th
 anniversary of the publication of Darwin's seminal work On the Origin of
 Species, Gallery Atsui is thrilled to present an exhibition of art
 influenced by science, featuring new and original works by: Verena
-Kaminiarz, Mark Mushet, Sonja HÃ©bert, Jesse Gray, Suzanne Kay, Helen Eady,
+Kaminiarz, Mark Mushet, Sonja Hébert, Jesse Gray, Suzanne Kay, Helen Eady,
 Patrick Blaeser.
 
 Exhibition on display until November 28, 2009. Visit www.galleryatsui.com
@@ -373,7 +373,7 @@ Vancouver, BC V6A 1K2
 
 Amy Horne, Anna Szaflarski, Brooklyn Cannon, Cassandra Everestina Falafel
 Sanchez-Brown, Christy Nyiri, Elise Beneteau, Karen Ngan, Melanie Coles,
-MÃ©rida Anderson, Peggy Ngan, Rebecca Brewer
+Mérida Anderson, Peggy Ngan, Rebecca Brewer
 
 Opening reception Friday, November 6, 8 pm
 
@@ -475,7 +475,7 @@ recent books are a series of anti-war-manifesto poems titled one (Palm
 Press, 2009); sexoPUROsexoVELOZ and Septiembre, a translation fromDolores
 Dorantes by Dolores Dorantes (Counterpath Press and Kenning Editions,
 2008); The Route, a collaboration with Patrick Durgin (Atelos, 2008); and
-lip wolf, a translation of lobo de labio by Laura SolÃ³rzano (Action Books,
+lip wolf, a translation of lobo de labio by Laura Solórzano (Action Books,
 2007).
 
 MARIE JAGER was born in Copenhagen, Denmark in 1975, and lives and works in
@@ -902,7 +902,7 @@ for sale after the conclusion of the exhibition.
 
 PROPOSALS:
 
-The TSGÂ¹s Art Advisory Board meets three times a year to review specific
+The TSG¹s Art Advisory Board meets three times a year to review specific
 proposals. Preference is given to new work that responds to the site; only
 in exceptional cases will existing work be considered. We are currently
 looking for exhibitions for 2011 and beyond. Proposals must be received by

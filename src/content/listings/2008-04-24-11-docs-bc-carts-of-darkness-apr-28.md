@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: communication is not our only not 
 emailDate: "Wed, 23 Apr 2008 22:00:25 -0700"
 number: 11
 type: ""
+venue: "DOCS BC"
 summary: "DOCS BC | CARTS OF DARKNESS | APR 28"
 ---
 

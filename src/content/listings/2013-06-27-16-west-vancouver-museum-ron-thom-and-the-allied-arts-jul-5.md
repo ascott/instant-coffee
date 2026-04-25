@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 16
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Ron Thom and the Allied Arts | JUL 5"
 ---
 
@@ -19,11 +20,11 @@ July 5 to September 21, 2013
 Opening Reception on July 4th from 7 p.m. 
 Organized in partnership with Massey College at the University of Toronto and 
 Alumni House at Trent University in Peterborough, this exhibition focuses on 
-Thomâ€™s domestic architecture on the west coast of Canada in the 1950s and 
+Thom’s domestic architecture on the west coast of Canada in the 1950s and 
 shows the design ethos developed in this work and then manifested in 
 Massey College and Trent University in Ontario.
 A recipient of the Order of Canada and numerous Massey Awards for 
-architecture, Ronald J. Thom (1923-1986) is recognized as one of Canadaâ€™s 
+architecture, Ronald J. Thom (1923-1986) is recognized as one of Canada’s 
 most innovative and influential architects. After studying art under B.C. 
 Binning at the Vancouver School of Art in the 1940s, Thom apprenticed in 
 architecture at Thompson, Berwick & Pratt in Vancouver. Enriched by original 

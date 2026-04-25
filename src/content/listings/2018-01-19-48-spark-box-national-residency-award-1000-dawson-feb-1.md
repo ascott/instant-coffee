@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 48
 type: "CALL"
+venue: "SPARK BOX NATIONAL RESIDENCY AWARD & $1,000 DAWSON"
 summary: "SPARK BOX NATIONAL RESIDENCY AWARD & $1,000 DAWSON | FEB 1"
 ---
 

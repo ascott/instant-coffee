@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 28
 type: "EDUCATION"
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | Creating Budgets for Public Art Projects | FEB 8"
 ---
 

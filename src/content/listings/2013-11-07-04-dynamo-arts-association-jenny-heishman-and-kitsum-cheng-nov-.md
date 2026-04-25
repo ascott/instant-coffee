@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 4
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Jenny Heishman and Kitsum Cheng | NOV 8"
 ---
 
@@ -31,20 +32,20 @@ sculpture and video the project roots in a basic exploration... how do we see
 more similarities with those around us? Searching for Land is the reflection of
 one such coordinated search.
 
-Ã¢â‚¬ËœWe did not come directly at each other. in our many correspondences, we
+â€˜We did not come directly at each other. in our many correspondences, we
 have shared the same grounds and described to each other what is behind
 us, and what is facing us in our sculptural practice as well as everyday life. if
 we were two dots, immersed in the same thing, say a die, then we would be
-dots set on different planes. in this sense, we are a part of a number Ã¢â‚¬â€œa
+dots set on different planes. in this sense, we are a part of a number â€“a
 greater whole. This exhibition might map our shared tendencies - or rather our
 tendencies in trying to understand what drives us. Two dots seen at once in a
-three dimensional space: a parabolaÃ¢â‚¬â„¢
-Ã¢â‚¬â€œ Kitsum Cheng
+three dimensional space: a parabolaâ€™
+â€“ Kitsum Cheng
 
 Searching for Land marks the first Vancouver exhibition for both artists.
 
-Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢
-â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦.
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â
+€¦â€¦â€¦â€¦.
 
 Kitsum Cheng was born in Hong Kong and is now based in Frankfurt,
 Germany, where she is currently attending the Staedelschule. Previously, she

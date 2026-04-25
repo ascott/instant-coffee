@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 6
 type: "EVENT"
+venue: "Vancouver Latin American Film Festival"
 summary: "Vancouver Latin American Film Festival | SEP 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 33
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Fúlù (Protection Ritual) | 630PM | MAY 8"
 ---
 

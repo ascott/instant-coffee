@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 40
 type: "CALL"
+venue: "The City of Vancouver and the PNE"
 summary: "The City of Vancouver and the PNE | Expressions of Interest | OCT 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 53
 type: "CALL"
+venue: "Bonnie McComb Kreye Studio Residency"
 summary: "Bonnie McComb Kreye Studio Residency | (VICTORIA) | Call for Applications | NOV 1"
 ---
 

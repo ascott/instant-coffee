@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 17
 type: "EDUCATION"
+venue: "ALIVE 2017"
 summary: "ALIVE 2017 | PERFORMANCE ARTIST WORKSHOPS | AUG 21"
 ---
 

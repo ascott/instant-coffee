@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 10
 type: "CALL"
+venue: "ISEA2015 Vancouver"
 summary: "ISEA2015 Vancouver | Call for Volunteers | JUL 15"
 ---
 

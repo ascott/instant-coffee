@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 28
 type: "OPENING"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Daniel Giordano | 6PM | JUL 25"
 ---
 

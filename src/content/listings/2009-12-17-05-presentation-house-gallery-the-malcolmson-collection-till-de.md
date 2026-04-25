@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 5
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | The Malcolmson Collection | till | DEC 20"
 ---
 
@@ -58,17 +59,17 @@ exhibition brings such rare photographs to Vancouver for the first time.
 The exhibition is generously sponsored by Helen and John O'Brian.
 
 ARTISTS IN THE EXHIBITION INCLUDE :
-Thomas Annan, Roy Arden, EugÃ¨ne Atget, Ã‰douard Baldus, Felice Beato, Gustave
+Thomas Annan, Roy Arden, Eugène Atget, Édouard Baldus, Felice Beato, Gustave
 de Beaucorps, Hans Bellmer, Aenne Biermann, Margaret Bourke-White, Bill
-Brandt, Brassai (Gyula HalÃ¡sz), Adolphe Braun, Manuel Alvarez Bravo, Harry
+Brandt, Brassai (Gyula Halász), Adolphe Braun, Manuel Alvarez Bravo, Harry
 Callahan, Julia Margaret Cameron, Maxime du Camp, Louis de Clercq, Eugene
 Cuvelier, Frantisek Drtikol, Peter Henry Emerson, Walker Evans, Jaroslav
 Fabinger, Geoffrey Farmer, Roger Fenton , Robert Frank, Jean Bauphiste
 Frenet, Jaromir Funke, John Beasley Greene, David Heath, David Octavius Hill
-and Robert Adamson, Takichi Irie, Johnson and Henderson, Andr Ã© KertÃ©sz,
+and Robert Adamson, Takichi Irie, Johnson and Henderson, Andr é Kertész,
 Henry S. King, Germaine Krull, Evan Lee, Gustave Le Gray, Leon Levinstein,
 Mark Lewis, Man Ray, Taj Mahal, Julia Margaret Cameron, Charles Marville,
-Scott McFarland, Tina Modotti, Charles NÃ¨gre, Roger Parry, Albert
+Scott McFarland, Tina Modotti, Charles Nègre, Roger Parry, Albert
 Renger-Patzsch, Franz Roh , Alexander Rodchenko, Thomas Ruff, Auguste
 Salzmann, William Saunders, Alfred Steiglitz, Paul Strand, Josef Sudek,
 William Henry Fox Talbot, Felix Teynard, Adrien Tournachon, John Vanderpant,

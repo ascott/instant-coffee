@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 18
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Token | Contemporary Ongoing | 7PM | JUN 14"
 ---
 

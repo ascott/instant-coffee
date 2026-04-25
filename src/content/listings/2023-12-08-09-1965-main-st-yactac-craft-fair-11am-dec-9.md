@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 9
 type: "EVENT"
+venue: "1965 Main St"
 summary: "1965 Main St | Yactac Craft Fair | 11AM | DEC 9"
 ---
 

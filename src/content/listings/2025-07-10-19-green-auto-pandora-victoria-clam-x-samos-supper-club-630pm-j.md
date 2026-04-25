@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 19
 type: "EVENT"
+venue: "Green Auto (Pandora & Victoria)"
 summary: "Green Auto (Pandora & Victoria) | C.L.A.M. X Samos Supper Club | 630PM | JUL 19"
 ---
 

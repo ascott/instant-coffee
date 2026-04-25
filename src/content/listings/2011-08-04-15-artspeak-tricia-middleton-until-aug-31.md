@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 15
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Tricia Middleton | until | AUG 31"
 ---
 

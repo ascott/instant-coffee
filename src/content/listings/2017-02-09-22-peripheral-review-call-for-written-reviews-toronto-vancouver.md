@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soup will be served"
 emailDate: "Wed, 08 Feb 2017 21:45:39 -0800"
 number: 22
 type: ""
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Written Reviews: Toronto & Vancouver | FEB 20"
 ---
 

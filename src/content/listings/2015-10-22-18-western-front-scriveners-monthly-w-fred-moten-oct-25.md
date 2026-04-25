@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 18
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly w/ Fred Moten | OCT 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 10
 type: ""
+venue: "The Lido Gallery"
 summary: "The Lido Gallery | Helen Teager | JUL 16"
 ---
 
@@ -26,7 +27,7 @@ The Lido Gallery
 Unrealized Art Projects is an exploration and examination of the motives
 behind the collecting and purchasing of a wide variety of objects over a
 four year period. Each item was selected for the direct purpose or
-facilitation of Helen Teagerâ€™s art practice during this time. Chosen for
+facilitation of Helen Teager’s art practice during this time. Chosen for
 either aesthetic or functional properties, these objects remain unrealized
 of their intended purpose. As a result, everyone in attendance will have an
 opportunity on Saturday and Sunday to purchase each object, hopefully

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Gallery 881"
 summary: "Gallery 881 | TANGENTIAL MATTER EXHIBITION & OPENING RECEPTION | MAY 21"
 ---
 

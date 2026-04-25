@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Small Gods"
 emailDate: "Mon, 27 Oct 2025 20:50:04 -0700"
 number: 13
 type: ""
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Randy Lee Cutler Responds to Abbas Akhavan... | NOV 1"
 ---
 

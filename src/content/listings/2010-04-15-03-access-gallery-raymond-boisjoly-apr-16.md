@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 3
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Raymond Boisjoly | APR 16"
 ---
 
@@ -23,7 +24,7 @@ As Boisjoly articulates:
 deliberate constructions with incidental and self-generating forms to grasp the unarticulated 
 middle beyond beginnings and the end. Live feed video projections of television static and video-
 based recursion stand as the visual surrogates for ill-defined and convoluted ideas concerning 
-the situation we find ourselves in, what will never be and what is still to comeâ€“instantaneous and 
+the situation we find ourselves in, what will never be and what is still to come–instantaneous and 
 forever deferred. 
 
 Working from disparate sources bearing no established relation to one another, The Ever-
@@ -31,7 +32,7 @@ Changing Light does not exist to redeem any mere concept. Instead, it provides a
 explore inchoate, expansive potential and existing, delimited phenomena." 
 
 Accompanying the exhibition will be the launch of a text-based public art project by Boisjoly 
-installed on the faÃ§ade of Access Galleryâ€™s new space. 
+installed on the façade of Access Gallery’s new space. 
 
 Access is a non-profit organization dedicated to emergent contemporary art practices. We 
 provide points of access for artists and audiences alike by supporting presentations of diverse 
@@ -40,7 +41,7 @@ practitioners. Access strives to spark critical conversations about contemporary
 experimentation and risk-taking within the gallery space and beyond. 
 
 Raymond Boisjoly is an Aboriginal artist living and working in Vancouver. He wishes to thank the 
-First Peoplesâ€™ Heritage, Language & Culture Council for their support. 
+First Peoples’ Heritage, Language & Culture Council for their support. 
 
 Access Gallery gratefully acknowledges the Canada Council for the Arts, BC Arts Council, City of 
 Vancouver, our members and volunteers. Access is a member of the Pacific Association of Artist 

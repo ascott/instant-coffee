@@ -299,7 +299,7 @@ Sara Pupo
 Matt Shane
 Mona Sharma
 Sherry Walchuk
-Anna RÃºn Tryggvadottir
+Anna Rún Tryggvadottir
 James Whitman
 
 Drawing Works from the Concordia Master of Fine Arts Program

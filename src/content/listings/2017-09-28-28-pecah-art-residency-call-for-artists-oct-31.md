@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 28
 type: "CALL"
+venue: "PECAH"
 summary: "PECAH | art residency | Call for Artists | OCT 31"
 ---
 

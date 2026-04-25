@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 34
 type: "CALL"
+venue: "MUSIC WASTE FESTIVAL 2022"
 summary: "MUSIC WASTE FESTIVAL 2022 | APR 10"
 ---
 

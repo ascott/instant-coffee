@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 26
 type: "EXHIBITION"
+venue: "WAAP ART - ONLINE LAUNCH"
 summary: "WAAP ART - ONLINE LAUNCH |  | CORES | Nicolas Sassoon & Rick Silva | SEP 26"
 ---
 

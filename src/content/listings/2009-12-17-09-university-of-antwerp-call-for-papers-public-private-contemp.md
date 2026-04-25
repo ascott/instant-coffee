@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 9
 type: ""
+venue: "University of Antwerp"
 summary: "University of Antwerp | Call for Papers: Public Private Contemporary Art | DEC 31"
 ---
 

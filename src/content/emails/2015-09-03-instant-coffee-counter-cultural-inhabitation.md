@@ -12,7 +12,7 @@ listingCount: 84
 instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-09-03-01-burnaby-art-gallery-sfu-gallery-alex-morrison-sep-3">01. OPENING | Burnaby Art Gallery & SFU Gallery | Alex Morrison | SEP 3</a>
-<a href="/instant-coffee/listings/2015-09-03-02-contemporary-art-gallery-marie-lorenz-tidal-drive-talks-and-">02. EVENT | Contemporary Art Gallery | Marie Lorenz: Tidal DÃ©rive - Talks and Tours | SEP 3</a>
+<a href="/instant-coffee/listings/2015-09-03-02-contemporary-art-gallery-marie-lorenz-tidal-drive-talks-and-">02. EVENT | Contemporary Art Gallery | Marie Lorenz: Tidal Dérive - Talks and Tours | SEP 3</a>
 <a href="/instant-coffee/listings/2015-09-03-03-contemporary-art-gallery-material-play-2015-visual-art-summe">03. OPENING | Contemporary Art Gallery | Material Play: 2015 Visual Art Summer Intensive | SEP 3</a>
 <a href="/instant-coffee/listings/2015-09-03-04-csa-space-ron-terada-today-its-me-tomorrow-its-you-sep-3">04. OPENING | CSA Space | Ron Terada: Today It's Me, Tomorrow It's You | SEP 3</a>
 <a href="/instant-coffee/listings/2015-09-03-05-emily-carr-university-eugene-boulanger-sep-3">05. TALK | Emily Carr University | Eugene Boulanger | SEP 3</a>
@@ -39,7 +39,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-09-03-26-cag-sfu-ryan-gander-in-conversation-sep-11">26. TALK | CAG @ SFU | Ryan Gander in conversation | SEP 11</a>
 <a href="/instant-coffee/listings/2015-09-03-27-centre-a-le-brothers-underlying-sep-11">27. OPENING | Centre A | Le Brothers: UNDERLYING | SEP 11</a>
 <a href="/instant-coffee/listings/2015-09-03-28-gallery-gachet-the-8th-annual-oppenheimer-park-community-art">28. OPENING | Gallery Gachet | The 8th Annual Oppenheimer Park Community Art Show | SEP 11</a>
-<a href="/instant-coffee/listings/2015-09-03-29-unitpitt-jol-doyle-sep-11">29. OPENING | UNIT/PITT | JoÃ«l Doyle | SEP 11</a>
+<a href="/instant-coffee/listings/2015-09-03-29-unitpitt-jol-doyle-sep-11">29. OPENING | UNIT/PITT | Joël Doyle | SEP 11</a>
 <a href="/instant-coffee/listings/2015-09-03-30-access-gallery-in-conversation-alana-bartol-david-semeniuk-s">30. TALK | Access Gallery | In Conversation: Alana Bartol & David Semeniuk | SEP 12</a>
 <a href="/instant-coffee/listings/2015-09-03-31-catriona-jeffries-janice-kerbel-score-sep-12">31. OPENING | Catriona Jeffries | Janice Kerbel: Score | SEP 12</a>
 <a href="/instant-coffee/listings/2015-09-03-32-chernoff-fine-art-matt-trahan-conditional-statements-sep-12">32. OPENING | Chernoff Fine Art | Matt Trahan: Conditional Statements | SEP 12</a>
@@ -86,7 +86,7 @@ registration required, please book at sfugallery@sfu.ca.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-09-03-02-contemporary-art-gallery-marie-lorenz-tidal-drive-talks-and-">02. EVENT | Contemporary Art Gallery | Marie Lorenz: Tidal DÃ©rive - Talks and Tours | SEP 3</a>
+<a href="/instant-coffee/listings/2015-09-03-02-contemporary-art-gallery-marie-lorenz-tidal-drive-talks-and-">02. EVENT | Contemporary Art Gallery | Marie Lorenz: Tidal Dérive - Talks and Tours | SEP 3</a>
 ------------------------------------------------------------------------
 LIVE STREAMING: New York-based artist Marie Lorenz on a journey
 down the Fraser River & South Gulf Islands in a locally handmade
@@ -99,7 +99,7 @@ of the Fraser River.
 Live stream link: www.contemporaryartgallery.ca/blog/live-stream/
 
 Marie Lorenz
-Tidal DÃ©rive
+Tidal Dérive
 September 1 to 7, 2015
 Fraser River: Hope to Richmond, September 1 to 3
 Salt Spring Island to Isle-de-Lis/Rum Island, September 5 to 7
@@ -119,11 +119,11 @@ In 2014, Marie Lorenz participated in a CAG residency at the Burrard
 Marina Field House Studio which included the construction and launch
 of a boat created from salvaged wood found locally around Vancouver
 and the lower mainland coast line. Driftboat has since travelled to
-Northern California where Lorenz completed tidal dÃ©rives in San
+Northern California where Lorenz completed tidal dérives in San
 Francisco and most recently along the Russian River, Guerneville,
 California.
 
-From September 1 to 7, Tidal DÃ©rive will unfold as an ambitious multi-
+From September 1 to 7, Tidal Dérive will unfold as an ambitious multi-
 day trip along the Fraser River (Hope to Richmond) and between the
 Southern Gulf Islands. Along the route Lorenz will invite participants to
 boat with her. Studying tidal charts of the area, Lorenz uses tides and
@@ -135,7 +135,7 @@ water. The experience and movement of floating, powered by natural
 forces, allows for keen observations and further exploration. As Lorenz
 describes:
 
-â€œI believe that the act of floating has an impact on observation. The
+“I believe that the act of floating has an impact on observation. The
 viewer maintains an awareness of their balance and form as they
 absorb the details in their surroundings. This kind of observation
 creates something new out of something familiar. My boat projects are
@@ -190,17 +190,17 @@ NOTES TO EDITORS:
 
 1. Launch event in Hope, BC
 Time: 9am
-Place: â€˜Put inâ€™ at Wardle Street and 7th Avenue, Hope.
+Place: ‘Put in’ at Wardle Street and 7th Avenue, Hope.
 
-2. Talks and Tours: Our Working Waterfront/Tidal DÃ©rive
+2. Talks and Tours: Our Working Waterfront/Tidal Dérive
 Thursday, September 3, 5-7pm, free
 
-Our Working Waterfront: Guided Tour with Curator, Oana Capota â€“
+Our Working Waterfront: Guided Tour with Curator, Oana Capota –
 5pm
 New Westminster Museums & Archives, 777 Columbia Street, New
 Westminster
 
-Tidal DÃ©rive: Artist Talk with artist Marie Lorenz â€“ 6pm
+Tidal Dérive: Artist Talk with artist Marie Lorenz – 6pm
 Samson V Maritime Museum, 880 Quayside Drive, New Westminster
 Join an evening of exploring the Fraser River through two unique public
 programs: A tour of Our Working Waterfront, 1945-2015 at the New
@@ -241,7 +241,7 @@ Contemporary Arts
 Join us for an exhibition of work completed at our first annual Visual Art
 Summer Intensive for youth in partnership with Arts Umbrella and SFU
 which took place from August 4 to 21. This unique and ambitious
-summer program introduced students to Vancouverâ€™s art community
+summer program introduced students to Vancouver’s art community
 through a series of workshops working closely with leading artists,
 curators and educators. Activities included drawing, printmaking and
 ceramics with open studio time at Arts Umbrella; exhibition-making and
@@ -284,7 +284,7 @@ Emily Carr University of Art and Design
 Vancouver, unceded Coast Salish territories
 
 Eugene Boulanger is ShÃºhtagotâ€™ı̨nę from TulÃ­t'a, in
-the SahtÃº Region of
+the Sahtú Region of
 Treaty 11, in Denendeh.
 
 Eugene is a hunter, an artist, and a visual designer working in digital
@@ -294,7 +294,7 @@ across sectors in British Columbia and the Northwest Territories in
 varying capacities; he is both a founding member of the Vancouver
 Indigenous Media Arts Festival Collective and newly formed northern
 leadership development collective, Dene Nahjo. Most recently, Eugene
-has been living and working in his home community of TulÃ­t'a to
+has been living and working in his home community of Tulít'a to
 organize with youth and the community to develop plans for youth
 advocacy while reconnecting with his traditional territory and Dene way
 of life. Eugene has been facilitating, promoting and advancing dialogue
@@ -314,7 +314,7 @@ This talk kicks off Creative Action Lab Thursdays, a collaboration with
 the On Edge Series
 
 Come meet activists, artists, and people who have changed or are
-changing the world, and those who study them. Weâ€™ll be meeting many
+changing the world, and those who study them. We’ll be meeting many
 Thursdays for a series of lectures, workshops, and other events
 focusing on the potential for societal change, and what we can do to
 bring it about through creative tactics and strategies.
@@ -391,18 +391,18 @@ challenging music available on YouTube. Videos are chosen for both
 their innovative or sublime video content as well as their unique
 musical quality, with an emphasis on material produced Pre-
 Millennium, across many genres and each event is themed. Streamed
-directly from YouTube, EQâ€™d and projected, and accompanied by guest
+directly from YouTube, EQ’d and projected, and accompanied by guest
 musical selectors, the goals of MUSIK KLUB are to continue in the
 tradition of classic variety hours such as Beat Club, Old Grey Whistle
 Test, Top Pop & Musikladen, but with a selective eye / ear.
 
 Elliot Heintzman co-hosts Cheap & Easy, a weekly DJ night dedicated
-to Rock nâ€™ Roll and B-movies, which has been running since 2011.
+to Rock n’ Roll and B-movies, which has been running since 2011.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-09-03-08-vivo-max-connect-at-vivo-media-arts-centre-upcoming-workshop">08. EVENT | VIVO | Max Connect at VIVO Media Arts Centre + Upcoming Workshops | SEP 3</a>
 ------------------------------------------------------------------------
-Hosted in partnership with Cycling â€˜74, this event will be a casual
+Hosted in partnership with Cycling ‘74, this event will be a casual
 evening, featuring artists and makers using Max for their work. No
 previous Max knowledge or experience required. Come for some swag,
 linger for refreshments and stay for the people.
@@ -440,13 +440,13 @@ http://www.vivomediaarts.com/education/upcoming-workshops/
 Vancouver Art Gallery and Burrard Arts Foundation
 co-present FACADE 2015
 
-Projections light up the Galleryâ€™s iconic Robson Street faÃ§ade after
+Projections light up the Gallery’s iconic Robson Street façade after
 sunset
 
-August 25, 2015, Vancouver, BC - FAÃ‡ADE 2015, a
+August 25, 2015, Vancouver, BC - FAÇADE 2015, a
 monumental
 projection mapping project and outdoor architectural intervention, is set
-to transform the Robson Street faÃ§ade of the Vancouver Art Gallery
+to transform the Robson Street façade of the Vancouver Art Gallery
 with the work of Vancouver-based artists from September 4 to
 September 7, 2015. Organized by the Burrard Arts Foundation (BAF) in
 collaboration with the Vancouver Art Gallery, this public art project will
@@ -456,14 +456,14 @@ place after sunset beginning September 4 until September 7, with a
 public reception and encore presentation featuring all artists on
 September 7.
 
-Each work conveys the artistsâ€™ sensibilities in other media while utilizing
+Each work conveys the artists’ sensibilities in other media while utilizing
 techniques related to projection mapping within a site-specific
 architectural context. As a whole the project speaks to the ubiquity of
 digital forms in contemporary life and contemplates the possibilities that
-new technologies have in public art. FAÃ‡ADE 2015 actively engages
+new technologies have in public art. FAÇADE 2015 actively engages
 the public in a grand intervention in the heart of downtown Vancouver.
 
-FAÃ‡ADE 2015 is the inaugural year of an annual festival organized by
+FAÇADE 2015 is the inaugural year of an annual festival organized by
 the Burrard Arts Foundation aimed to provide Vancouver with an
 innovative approach to place-making and a dynamic visual art
 experience in the public realm, taking cues from renowned visual arts
@@ -473,7 +473,7 @@ Toronto.
 Schedule and Participating Artists
 
 Dates and Time: September 4-7, 2015, 9pm to 3am
-Location: Vancouver Art Gallery, Robson Street faÃ§ade between
+Location: Vancouver Art Gallery, Robson Street façade between
 Hornby and Howe Streets
 
 ------------------------------------------------------------------------
@@ -523,8 +523,8 @@ involved
 Bio must include the following criteria (Submitted in Google Doc
 format):
 
-Information on yourself, your art, where youâ€™re located, how long
-youâ€™ve been working in this/these medium(s), if/where you
+Information on yourself, your art, where you’re located, how long
+you’ve been working in this/these medium(s), if/where you
 Trained/Attended school, why you love what you do, where you see
 your
 work taking you, as well as any information pertaining to the chosen
@@ -564,25 +564,25 @@ Than a Joke and More Than a Whim is a collaborative endeavor
 between SFU Gallery and the Burnaby Art Gallery. The tandem
 exhibitions include two newly commissioned projects among other
 works by the artist, as well as works selected by Morrison from the
-institutionsâ€™ collections.
+institutions’ collections.
 
 The linked exhibitions address the architecture and cultural histories of
 each site, calling attention to connections between them. SFU Gallery
-is embedded within Arthur Ericksonâ€™s Brutalist (and utopian)
+is embedded within Arthur Erickson’s Brutalist (and utopian)
 mountaintop university complex, while the BAG is located in a manor
 house that over the years has served as the home of a genteel
 Burnaby family, a monastery, a cult centre, an SFU residence, and
 since 1967 a public art gallery.
 
-Morrisonâ€™s practice investigates built environments and their
+Morrison’s practice investigates built environments and their
 countercultural inhabitation, from hippies and activists to historical re-
 enactors and skateboarders. Examining the aesthetics of political
 protest and counterculture, and the processes by which radical
 impulses are subsumed within commodities and cultural consumption,
-Morrisonâ€™s work troubles notions of authenticity, particularly when the
+Morrison’s work troubles notions of authenticity, particularly when the
 â€œauthenticâ€  is absorbed into the mainstream.
 
-Morrisonâ€™s analysis of architectural styles, the historical context of their
+Morrison’s analysis of architectural styles, the historical context of their
 development and the evolution of their use over time, informs his
 research on the SFU Gallery and Burnaby Art Gallery sites. In doing
 so, Morrison questions not only historical and social narratives, but also
@@ -592,11 +592,11 @@ Alex Morrison (1972) is a Canadian artist who currently lives and works
 in Brussels. His work has been exhibited at institutions such as
 Kunstahalle Wien; Witte de With, Rotterdam; Henry Art Gallery,
 Seattle; 17th Sydney Biennial; Frankfurt Kunstverein; Contemporary
-Art Gallery, Vancouver; Musee dâ€™art contemporain de MontrÃ©al; and
+Art Gallery, Vancouver; Musee d’art contemporain de Montréal; and
 Kunstverein Hannover. In 2005 Sternberg Press published a
 monograph on his work.
 
-Curated by Melanie Oâ€™Brian, SFU Galleries and Jennifer Cane,
+Curated by Melanie O’Brian, SFU Galleries and Jennifer Cane,
 Burnaby Art Gallery.
 
 ------------------------------------------------------------------------
@@ -614,11 +614,11 @@ by an artist talk by a local Vancouver artist.
 Kate Henderson is a Vancouver-based artist who received her MFA in
 Visual Art from the University of British Columbia in 2013 and her BFA
 with a Major in Photography from Emily Carr University of Art and
-Design in 2007. Hendersonâ€™s practice navigates the transitional space
+Design in 2007. Henderson’s practice navigates the transitional space
 between the analog/digital and the body/machine in technologies of
 seeing, surveillance and spectatorship. Henderson repositions low-
 resolution Internet images and videos through digital projection, slide
-projection, print and installationâ€”a process that locates and
+projection, print and installation—a process that locates and
 materializes the digital substrate thereby giving physical form to a
 seemingly intangible medium. Remediating contemporary and
 historical images of ruin, catastrophe and the industrial sublime,
@@ -638,7 +638,7 @@ film. The END OF THE WORLD isn't far off now. See you there!
 September 19 - Windows Collective film installation under North end
 Cambie Bridge
 September 20 - Cameraless Filmmaking Workshop
-Iris Film Collective presents the second part in its â€œCollective
+Iris Film Collective presents the second part in its “Collective
 Unconsciousâ€  Series, which focusses in on other film collectives from
 across the country. We are pleased to host the Windows Collective as
 they drop by on their cross-Canada tour to present an astounding
@@ -647,7 +647,7 @@ workshop on cameraless animation, September 19 and 20th
 respectively. The public will see and interact with silent film loops
 projected on 16mm film, as well as the mechanisms used to house the
 loops. This includes a record turntable converted into a 16mm film
-looper, plexiglass towers, and more. The Windows Collectiveâ€™s
+looper, plexiglass towers, and more. The Windows Collective’s
 contemporary and mobile urban art practice transforms the city itself
 into a canvas, and outdoor film projection is their graffiti.
 The film installation is Under the North Side of Cambie Bridge on
@@ -761,11 +761,11 @@ Visual Art from the University of British Columbia in 2013 and her BFA
 with a Major in Photography from Emily Carr University of Art and
 Design in 2007.
 
-Hendersonâ€™s practice navigates the transitional space between the
+Henderson’s practice navigates the transitional space between the
 analog/digital and the body/machine in technologies of seeing,
 surveillance and spectatorship. Henderson repositions low-resolution
 Internet images and videos through digital projection, slide projection,
-print and installationâ€”a process that locates and materializes the
+print and installation—a process that locates and materializes the
 digital substrate thereby giving physical form to a seemingly intangible
 medium. Remediating contemporary and historical images of ruin,
 catastrophe and the industrial sublime, Henderson seeks to illuminate
@@ -831,26 +831,26 @@ September 9 to November 1, 2015
 Opening Reception: Tuesday, September 8th, 7:30 pm
 Gallery Talk: Saturday, September 12th, 2:00 pm
 
-â€œMy practice considers traditions of painting, with an interest in frayed
+“My practice considers traditions of painting, with an interest in frayed
 boundaries between mediums. Activated by formal abstraction and
 experimental printing methods, I construct paintings using staining,
 dying and sewing techniques. Employing deskilled labour through
 hands-on production, I seek to explore metaphysical concerns relating
 to material and causality.â€ 
-â€” Colleen Heslin
+— Colleen Heslin
 
 Treading Buoylines is an exhibition of new work by Colleen Heslin. The
 paintings in the exhibition, all made within the past year, speak to the
-artistâ€™s recent investigations into form, materiality, experimentation and
+artist’s recent investigations into form, materiality, experimentation and
 happenstance. Though they engage in discourses around painterly
-abstraction, Heslinâ€™s works are comprised of fabric, ink and dyeâ€”
+abstraction, Heslin’s works are comprised of fabric, ink and dye—
 materials that are traditionally associated with crafting and needlework.
 The artist stitches these two seemingly discordant practices together,
 and although the resulting paintings speak of gendered use value,
 Heslin is more focused on the opportunities for experimentation that
 her choice of materials allow. In contrast to paint being applied to the
-surface of the canvas, Heslinsâ€™ inks and dyes seep into the wet surface
-of the commonplace fabric. As the artist has described, â€œthe mark-
+surface of the canvas, Heslins’ inks and dyes seep into the wet surface
+of the commonplace fabric. As the artist has described, “the mark-
 making that appears on the fabric in my work consists of traces of
 pigment from the process of water drying. The lines from this process
 influence my formal decisions and potentials, and that is the space
@@ -900,7 +900,7 @@ Show at 9:30 PM
 Advance tickets $10 on Eventbrite, $15 at the door
 http://www.vivomediaarts.com/vivo-presents-paal-nilssen-love-and-ken-vandermark
 
-â€œThe high impact duo of Paal Nilssen-Love (drums) and Ken Vandermark
+“The high impact duo of Paal Nilssen-Love (drums) and Ken Vandermark
 (reeds) has been working together at an accelerated rate since 2002, and
 they have put out seven albums of exceptional and wide ranging improvised
 music since then. Though they have both worked in many critically
@@ -910,19 +910,19 @@ saxophonist, Ab Baars)- they have continued to return to their duo for
 more than a dozen years because it remains crucial to their creative
 output. â€  â€“ Billions.com
 
-â€œVon Bingen began life when husband and wife duo Jenni Pace and Daniel
+“Von Bingen began life when husband and wife duo Jenni Pace and Daniel
 Presnell (Astral Blessing) temporarily suspended Hildegard (their east
 coast group of clangorous misfits), and relocated to Vancouver, BC where
 they soon met Josh Stevenson (aka Magneticring, and one-time JOMF member),
 and Richard Smith. Influenced by histories of conceptual art practices and
-electronic and outsider music native to the west coast, Von Bingenâ€™s sound
+electronic and outsider music native to the west coast, Von Bingen’s sound
 is at once reminiscent of distant sonics, such as those found in the labs
-of 60â€™s SF pioneers, or overheard in Berlinâ€™s Zodiac Club in the early
+of 60’s SF pioneers, or overheard in Berlin’s Zodiac Club in the early
 70â€™s, while also anticipating the drone of future decades...â€  â€“F.O.L.
 Ministries
 
-â€œJP Carter is a Juno award-winning trumpet player and composer from
-Vancouver, BC, with over 28 years of playing experience. Carterâ€™s singular
+“JP Carter is a Juno award-winning trumpet player and composer from
+Vancouver, BC, with over 28 years of playing experience. Carter’s singular
 approach to the trumpet and versatility as an improvisor and composer make
 him a vital contributor to the Vancouver music community. JP incorporates
 a variety of techniques into his trumpet playing, utilizing and
@@ -931,7 +931,7 @@ experimenting with acoustic (traditional, extended) and electronic
 jpcarter.ca
 
 John Brennan is a Canadian drummer, sound artist and curator based out of
-Vancouver. Best known for curating his renowned concert series â€œDestroy
+Vancouver. Best known for curating his renowned concert series “Destroy
 Vancouverâ€ , Brennan has also been very active on the world stage as an
 accomplished improviser collaborating with the likes of William Hooker,
 Wally Shoup, Chris Cogburn, Nate Wooley, DJ Olive, Josh Zubot, Ellwood
@@ -951,7 +951,7 @@ Experimental Films
 
 Cineworks Studio, 1131 Howe Street (lane entrance)
 Thursday September 10 - Friday September 11
-7.00pm â€“ 10.00pm, FREE
+7.00pm – 10.00pm, FREE
 Running time: 40 minutes, looped
 
 For SWARM 16, Cineworks presents a speculative interweaving of works by
@@ -968,7 +968,7 @@ London. Loo describes her films as compositions of images and sound that
 suggest narratives or convey an event without text or words.
 
 In 2004, she was introduced to films made by makers involved in the London
-Filmmakersâ€™ Co-op, particularly those active in the 1970s. This has
+Filmmakers’ Co-op, particularly those active in the 1970s. This has
 influenced her present work exploring the material capacities of celluloid
 and the spatial and performance-based qualities and possibilities that
 inhere in projection-based presentation. Since 2005, She has been creating
@@ -983,7 +983,7 @@ The New Zealand-born filmmaker, painter, kinetic sculptor, writer and
 genetic and experimental theorist, Len Lye, became a leading avant-garde
 artist in London and New York, bridging pre- and post-World War II
 movements and trends. Associated with many groundbreaking art groups,
-beginning with Londonâ€™s modernist Seven and Five Society in the 1920s, the
+beginning with London’s modernist Seven and Five Society in the 1920s, the
 International Surrealist Movement in the 1930s, and the Kinetic Art
 Movement in the 1960s, Lye is best remembered for his contributions to the
 development of hand-crafted abstract cinema. In the early 1930s he
@@ -994,10 +994,10 @@ from the British General Post Office (GPO), the Imperial Tobacco Company,
 Shell Motor Oil and Imperial Airways, his whimsical animated films of the
 mid- to late-1930s included original camera-less techniques, advertising
 slogans and dynamic musical rhythms. A fierce individualist and anarchistic
-thinker, Lye claimed that, â€œThere has never been a great film unless it was
+thinker, Lye claimed that, “There has never been a great film unless it was
 created in the spirit of the experimental filmmaker.â€  When applied to his
 seldom seen but formally inventive war effort films, this statement
-illuminates Lyeâ€™s under-recognised contribution to the British documentary
+illuminates Lye’s under-recognised contribution to the British documentary
 movement.
 
 Swarm is a 2-night event that marks the launch of Vancouver's artist-run
@@ -1025,7 +1025,7 @@ The Contemporary Art Gallery presents an ambitious exhibition with
 UK artist Ryan Gander, his first solo presentation in Canada
 
 Ryan Gander
-Make every show like itâ€™s your last
+Make every show like it’s your last
 September 11 to November 1, 2015
 B.C. Binning, Alvin Balkind Galleries, window spaces and off-site
 INVITATION: Media Preview: Thursday, September 10, 6-7pm
@@ -1034,7 +1034,7 @@ Artists' Cocktails.
 
 The CAG presents an ambitious exhibition with British artist Ryan
 Gander, his first solo presentation in Canada, comprising a selection of
-new and recent works centered on the artistâ€™s ongoing conceptual
+new and recent works centered on the artist’s ongoing conceptual
 investigations and playful cultural cross references.
 
 Gander is a cultural magpie, his far-reaching curiosity with the world
@@ -1046,12 +1046,12 @@ is a video and associated off-site posters produced by Gander with an
 existing commercial advertising agency, seen at the gallery and in ten
 transit shelter locations in downtown Vancouver. We view what appears
 to be a short television commercial ad campaign promoting imagination
-in the public, notionally commissioned by the British governmentâ€™s
+in the public, notionally commissioned by the British government’s
 Department for Business, Innovation & Skills. It delights us in
 suggesting a dialogue between seemingly disparate things that
 provoke a myriad of remembered associations.
 
-Play and creativity are also central to the series of sculptures I is â€¦
+Play and creativity are also central to the series of sculptures I is …
 (2013). They recall the hiding place dens made by children from all
 manner of household items including bed sheets, golf umbrellas,
 cushions and laundry racks, yet here are remade in memorializing
@@ -1065,11 +1065,11 @@ pull that is not only intellectually arresting, but also affecting in its
 humour.
 
 The exhibition is organised by CAG and produced in collaboration with
-Frac ÃŽle de France â€” Le Plateau, Paris; Manchester Art Gallery, UK;
+Frac Île de France — Le Plateau, Paris; Manchester Art Gallery, UK;
 Centre for Contemporary Art, Derry~Londonderry, Northern Ireland; OK
 Offenes Kulturhaus / Center for Contemporary Art, Linz, Austria; Aspen
-Art Museum, Aspen, Colorado and MusÃ©e dâ€™art contemporain de
-MontrÃ©al.
+Art Museum, Aspen, Colorado and Musée d’art contemporain de
+Montréal.
 
 Produced alongside the exhibition is Culturefield, an expansive 288
 page publication available for a special exhibition price of $50.
@@ -1079,7 +1079,7 @@ Ryan Gander, born in Chester in 1976, lives and works in London.
 Recent solo shows have been held at Singapore Tyler Print Institute,
 Singapore; OK Centre for Contemporary Art, Linz, Austria; Manchester
 Art Gallery, Manchester, UK; Proyectos Monclova, Mexico City (2015);
-FRAC ÃŽle-de-France/ Le Plateau (2013); Palais de Tokyo, Paris (2012);
+FRAC Île-de-France/ Le Plateau (2013); Palais de Tokyo, Paris (2012);
 Museo Tamayo, Mexico City (2012); Haus Konstruktiv, Zurich (2010);
 Solomon R Guggenheim Museum, New York (2010; Ikon Gallery,
 Birmingham (2008); the Stedelijk Museum Bureau, Amsterdam (2007
@@ -1089,12 +1089,12 @@ exhibitions such as the Shanghai Biennale (2012); documenta 13,
 Kassel (2012); ILLUMInations, 54th Biennale di Venezia, Venice
 (2011); 55th Carnegie International, Pittsburgh (2008) and the Sydney
 Biennial (2008). Ryan Gander has been awarded numerous prestigious
-prizes, among others the ZÃ¼rich Art Prize (2009), the ABN Amro Art
+prizes, among others the Zürich Art Prize (2009), the ABN Amro Art
 Prize (2006), the Baloise Art Statements of the Art Basel (2006) and
-the Dutch Prix de Rome for sculpture (2003). Ganderâ€™s works are
+the Dutch Prix de Rome for sculpture (2003). Gander’s works are
 included in both international public and private collections including
 Tate Collection, London; Museum of Contemporary Art, Chicago;
-Museum Moderner Kunst, Vienna; Le Fonds regional dâ€™art
+Museum Moderner Kunst, Vienna; Le Fonds regional d’art
 contemporain du Nord Pas-de-Calais; FNAC, Paris, France; Kadist Art
 Foundation, Paris, France; MaMBO, Bologna; Museum Boijmans Van
 Beuningen, Rotterdam; Arts Council, London; National Museum of
@@ -1119,18 +1119,18 @@ Director Nigel Prince, a playful discussion centred on the themes and
 ideas present in the exhibition.
 
 3. FREE CAG Family Days - Last Saturday of every month:
-Saturday, September 26 and October 31, 12Â·3pm
+Saturday, September 26 and October 31, 12·3pm
 On the last Saturday or each month, the CAG invites all ages to drop-in
 for short exhibition tours and free art making activities that respond to
 our current exhibitions.
 
 September 26: Palette Portraits
-Explore conceptual portraiture in response to Ryan Ganderâ€™s series of
-portraits and palettes painted from memory. Create your own â€˜palette
-portraitâ€™.
+Explore conceptual portraiture in response to Ryan Gander’s series of
+portraits and palettes painted from memory. Create your own ‘palette
+portrait’.
 
 October 31: Hide and Seek Sculptures
-Responding to Ganderâ€™s sculptures that suggest hiding place dens
+Responding to Gander’s sculptures that suggest hiding place dens
 made by children from all manner of household items including bed
 sheets, golf umbrellas, cushions and laundry racks, participants will
 collaborate to create a large shelter structure.
@@ -1145,27 +1145,27 @@ Sylvia Kind
 Tuesday, October 6, 7pm
 Sylvia Kind, PhD is an instructor in the School of Childhood Studies at
 Capilano University and an atelierista at the Capilano University
-Childrenâ€™s Centre. Her work is motivated by an interest in artistic ways
-of knowing, childrenâ€™s studio practices, experimentations with art as
+Children’s Centre. Her work is motivated by an interest in artistic ways
+of knowing, children’s studio practices, experimentations with art as
 research in early childhood settings and the intersections of art and
-pedagogy. Kind will respond to elements of play in Ryan Ganderâ€™s
+pedagogy. Kind will respond to elements of play in Ryan Gander’s
 exhibition.
 
-5. Free Guided Visits â€“ Five free guided visits including one in French!
+5. Free Guided Visits – Five free guided visits including one in French!
 Jas Lally, Saturday, September 19, 3pm: Mike Bourscheid (French),
 Sunday, October 18, 3pm: Nigel Prince, Saturday, October 24, 3pm:
 Maddy Tranter, Sunday, October 25, 3pm: Shaun Dacey, Saturday,
 October 31, 3pm CAG Curator, Shaun Dacey leads a tour of current
-exhibitions. Part of the â€˜Downtown Galleries Tourâ€™ in partnership with
+exhibitions. Part of the ‘Downtown Galleries Tour’ in partnership with
 Audain Gallery at 1pm and Or Gallery at 2pm.
 
-6. SFU Philosopherâ€™s Cafe: Art Salon - Ryan Gander
+6. SFU Philosopher’s Cafe: Art Salon - Ryan Gander
 CAG Curator, Shaun Dacey
 Saturday, September, 26, 4pm. In the classic spirit of social gatherings
-for discussion around new artwork, Philosophersâ€™ CafÃ© will run art
+for discussion around new artwork, Philosophers’ Café will run art
 salons in connection with exhibitions at the CAG. The topic of the
-events will be the artwork itself, and will include the CAGâ€™s
-programming team in lively discussion that highlights Vancouverâ€™s art
+events will be the artwork itself, and will include the CAG’s
+programming team in lively discussion that highlights Vancouver’s art
 scene. Come and explore the issues and ideas that new, contemporary
 artwork raises in a gallery setting. Participate in an in-depth guided tour
 and conversations about current CAG exhibitions with curator Shaun
@@ -1178,8 +1178,8 @@ grunt gallery exhibits:
 Catastrophe, Memory, Reconciliation by Osvaldo Ramirez Castillo
 
 Artist: Osvaldo Ramirez Castillo
-Opening Reception: Thursday September 10 (7â€“10pm) at grunt gallery
-Exhibition Dates: September 10 â€“ October 10
+Opening Reception: Thursday September 10 (7–10pm) at grunt gallery
+Exhibition Dates: September 10 – October 10
 
 Vancouver-based artist Osvaldo Ramirez Castillo explores issues
 around collective memory, historical trauma, and cultural identity in
@@ -1194,18 +1194,18 @@ culture, Pre-Columbian mythology, and Salvadoran popular folklore is
 amalgamated to explore the role of non-linear storytelling expressed in
 mythic form.
 
-grunt galleryâ€™s Media Lab shows a stop-motion animation that recalls
+grunt gallery’s Media Lab shows a stop-motion animation that recalls
 individual identities of lost civilians juxtaposed against Super 8mm film
 footage of a road leading to the village of EL Mozote, where a
 massacre of nearly 1000 civilians took place in 1981 by the Salvadoran
 state army during the armed conflict.
 
-This exhibition also includes a site-specific work â€“ an ornate tapestry
+This exhibition also includes a site-specific work – an ornate tapestry
 design comprised of colourful sawdust. This work is based out of a
 Latin American traditional custom of creating large tapestry or carpet-
 like designs on the ground in public spaces during religious festivities.
 
-Castilloâ€™s work refers to a cultural past and contemporary present,
+Castillo’s work refers to a cultural past and contemporary present,
 fusing a hybridized aesthetic to engage issues about migration,
 historical trauma, identity, and memory. His narratives express a
 multifaceted, interlocking and non-linear approach. Consequently, the
@@ -1213,10 +1213,10 @@ body of work revises and casts new personal interpretations on
 memory-building as a form of resistance, political commentary and
 healing.
 
-Join us for the opening reception on Thursday September 10 (7 â€“ 10
+Join us for the opening reception on Thursday September 10 (7 – 10
 pm); this reception coincides with SWARM, an annual artist-run centre
 festival in Vancouver, BC. An essay written by Alexis Hranchuk will be
-available at the opening. The exhibition runs from September 11 â€“
+available at the opening. The exhibition runs from September 11 –
 October 10, 2015.
 
 URL: http://grunt.ca/exhibitions/catastrophe-memory-reconciliation/
@@ -1252,10 +1252,10 @@ of art environments built by outsider artists, The Builders explores the
 compulsions behind transforming spaces, objects and the self.
 
 Created and directed by Megan Stewart, a theatre artist and MFA
-candidate at SFUâ€™s School for the Contemporary Arts. The Builders
+candidate at SFU’s School for the Contemporary Arts. The Builders
 was devised over a five-month process in collaboration with the
 ensemble: Robert Azevedo, Gordon Havelaar, Eveleen Kozak and
-Keely Oâ€™Brien. Featuring music by David Cowling.
+Keely O’Brien. Featuring music by David Cowling.
 
 Performances take place September 10-12 at 8pm in the basement of
 SFU Woodwards at Goldcorp Centre for the Arts, Room B2540, 149
@@ -1280,7 +1280,7 @@ Gallery Hours: Tuesday-Saturday 12-5pm
 When we touch something, what do we know of it? What can we learn
 about one another, about ourselves, through such proximities?
 Included in this exhibition are sculptures made of clay, others made of
-plaster, and a 16mm film. These are hard and static objectsâ€“born out of
+plaster, and a 16mm film. These are hard and static objects–born out of
 closeness, out of presence and absence. Somewhere there is a
 residue. Every Little Bit Hurts reflects on embodiment, response and
 how forms contain relationships.
@@ -1307,7 +1307,7 @@ with themselves and society. Recent projects include Unlearning
 Walking Club (Unit Pitt, Vancouver), Unlearning Weekenders (<rotor>,
 Graz, Goethe Satellite, Vancouver), Soft/Union (The Apartment,
 Vancouver), Eat Talk Connect (City of Richmond) and
-Ãœberlebenskuns.klub (Haus der Kulturen der Welt, Berlin). She
+Überlebenskuns.klub (Haus der Kulturen der Welt, Berlin). She
 completed a Masters in Public Art at the Bauhaus University Weimar,
 specializing in community engagement and participatory strategies,
 and co-founded theProcess Institute, an artist collective based in
@@ -1333,7 +1333,7 @@ past year she has been in a working mentorship with Vancouver-based
 interdisciplinary artist LAIWAN, supported by the British Columbia Arts
 Council.
 
-Zoe Kreyeâ€™s project co-presented by Live Biennale.
+Zoe Kreye’s project co-presented by Live Biennale.
 
 For more information, please visit front.bc.ca
 
@@ -1342,7 +1342,7 @@ For more information, please visit front.bc.ca
 ------------------------------------------------------------------------
 Far Away So Close: Part III
 Alana Bartol, Mike Bourscheid, David Semeniuk
-September 12â€”October 31, 2015
+September 12—October 31, 2015
 
 Exhibition Opening (in conjunction with SWARM16)
 Friday, September 11, 2015, 7:00 PM
@@ -1363,19 +1363,19 @@ Saturday, October 31, 2015, 2:00 PM
 Far Away So Close is a series of exhibitions, publications, and events that
 explores the idea of distance, considers the bridging of distance as an
 ultimately quixotic gesture, and investigates the particular relationship
-of this gesture to art making. Presented over the course of 2014â€“15, each
+of this gesture to art making. Presented over the course of 2014–15, each
 instalment features emergent artists who draw upon a variety of modes,
 materials, and methodologies, and whose practices are scattered across the
 globe. Part III of Far Away So Close turns its attention to our always
 ultimately inadequate representation of landscape or, more properly, to
-three artists â€“ Alana Bartol, Mike Bourscheid, and David Semeniuk â€“ who
+three artists – Alana Bartol, Mike Bourscheid, and David Semeniuk – who
 examine the elaborate proxies we invent in our attempt to capture,
 represent or claim an â€œauthenticâ€  natural experience.
 *
 
 Alana Bartol an interdisciplinary artist, curator, and educator from
 Windsor, Ontario, currently based in Calgary, Alberta. She is interested in
-ecology as a â€˜life scienceâ€™ that interrogates relationships between place
+ecology as a ‘life science’ that interrogates relationships between place
 and self, nature, and community. Her collaborative and individual works
 explore concepts of visibility and survival through our relationships with
 nature and each other. Bartol holds an MFA from Wayne State University
@@ -1416,7 +1416,7 @@ and our committed donors, members and volunteers.
 ------------------------------------------------------------------------
 SFU MFA Graduating Exhibition
 Audain Gallery, Vancouver
-September 11 â€“ September 26, 2015
+September 11 – September 26, 2015
 
 Opening Reception
 Friday, September 11, 7PM
@@ -1431,7 +1431,7 @@ Jaime Williams and collaborators
 Let it be as it is
 
 This exhibition features three graduating projects by 2015 MFA
-candidates at Simon Fraser Universityâ€™s School for the Contemporary
+candidates at Simon Fraser University’s School for the Contemporary
 Arts. Instead of presenting their works under a unifying title and theme,
 the three artists are exhibiting their respective projects within the
 shared space of the gallery, autonomously.
@@ -1445,7 +1445,7 @@ Williams' multimedia installation explores the potential for improvised
 movement to understand the specific vibrational energies of place.
 
 The exhibition of a graduating project represents the culmination of a
-candidateâ€™s studies, and is presented in partial fulfillment of the
+candidate’s studies, and is presented in partial fulfillment of the
 requirements for the degree of Master of Fine Arts.
 
 Presented by the School for the Contemporary Arts at SFU.
@@ -1463,7 +1463,7 @@ Djavad Mowafaghian World Art Centre
 
 Join us for a special in-conversation event between Gander and CAG Director
 Nigel Prince, a playful discussion centred on the themes and ideas present
-in the exhibition: Make every show like itâ€™s your last.
+in the exhibition: Make every show like it’s your last.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-09-03-27-centre-a-le-brothers-underlying-sep-11">27. OPENING | Centre A | Le Brothers: UNDERLYING | SEP 11</a>
@@ -1473,7 +1473,7 @@ Le Brothers
 Curated by Makiko Hara
 Presented in association with LIVE! Performance Art Biennale
 
-September 11 â€“ October 15, 2015
+September 11 – October 15, 2015
 Opening reception: Friday, September 11 | 7pm
 Gallery hours: Tuesday-Saturday, 11am-6pm
 
@@ -1481,19 +1481,19 @@ Underlying will feature a 3 channel video installation by twin artist
 collective the Le Brothers told via an imaginary war that takes place in
 the water.
 
-Based in Hue, Vietnam, the Le Brothers (Duc Hai & NgoÃ§ Thanh Le)
+Based in Hue, Vietnam, the Le Brothers (Duc Hai & Ngoç Thanh Le)
 have performed and exhibited locally and internationally, including the
 2013 Singapore Biennale, Palais de Tokyo, and DMZ Gang Hwa in
 Korea. Underlying at Centre A marks their first North American solo
 exhibition.
 
-The Le Brothersâ€™ unique approach to history, identity and the
+The Le Brothers’ unique approach to history, identity and the
 interpretation of the past in the present produces work that accelerates
 our understanding of unforgettable events which are presented as
-refined and dignified accounts that invite the viewerâ€™s reflection,
+refined and dignified accounts that invite the viewer’s reflection,
 realization and a deeper respect for culture and custom. Along with
 their own art practices, the Le Brothers are founders and directors of
-Vietnamâ€™s first independent contemporary art gallery and artist in
+Vietnam’s first independent contemporary art gallery and artist in
 residency program New Space Art Foundation in Hue, Vietnam. There
 they have been organizing exhibitions of local and international artists
 since 2008.
@@ -1505,15 +1505,15 @@ Biennale (Sept 23-27, 2015).
 <a href="/instant-coffee/listings/2015-09-03-28-gallery-gachet-the-8th-annual-oppenheimer-park-community-art">28. OPENING | Gallery Gachet | The 8th Annual Oppenheimer Park Community Art Show | SEP 11</a>
 ------------------------------------------------------------------------
 The 8th Annual Oppenheimer Park Community Art Show | In Between!
-Exhibition runs: September 11thâ€“October 25th, 2015
+Exhibition runs: September 11th–October 25th, 2015
 
-Opening reception: Friday, September 11th, 6â€“10pm *part of SWARM
+Opening reception: Friday, September 11th, 6–10pm *part of SWARM
 2015
-Opening day procession from Oppenheimer Parkâ€“488 Powell Stâ€“at
+Opening day procession from Oppenheimer Park–488 Powell St–at
 5pm
 
 Oppenheimer Park and Gallery Gachet are pleased to present In
-Between! this yearâ€™s annual exhibition showcasing artworks from the
+Between! this year’s annual exhibition showcasing artworks from the
 Oppenheimer Park community. Included are painting, drawing, print,
 sculpture, carving, textile, mixed media and video works. This year, the
 exhibition takes on â€œin betweenâ€  as its focus. In Between! represents a
@@ -1521,9 +1521,9 @@ variety of perspectives (between languages, places, nations, cultures,
 life etc.). 35 artistsâ€™ diverse interpretations of inâ€“betweenness will be
 featured in the show.
 
-Salon Shop I Featuring artwork created during OPPENâ€“Arts Studio
+Salon Shop I Featuring artwork created during OPPEN–Arts Studio
 Workshops and HomeGround 2015
-Exhibition runs: Friday, September 11thâ€“Sunday, October 25th, 2015
+Exhibition runs: Friday, September 11th–Sunday, October 25th, 2015
 The Salon Shop is a micro exhibition space within Gallery Gachet
 featuring the work of Gachet Community, Volunteer, Associate and
 Collective members.
@@ -1531,12 +1531,12 @@ Oppenheimer Park artists represent a resolute community of people
 upholding a vision of the Downtown Eastside as a place for art,
 education, recreation, health and healing. This special Salon Shop
 exhibition will feature works created and photos taken during two
-community programs at Oppenheimer Park: OPPENâ€“Arts Studio
+community programs at Oppenheimer Park: OPPEN–Arts Studio
 Workshops and HomeGround 2015.
 
 OFFSITE: Restored public art Installation, by Thunder Larry Parenteau
 at Oppenheimer Park
-Unveiling ceremony: Thursday, October 15th, 2015,1pmâ€“4 pm
+Unveiling ceremony: Thursday, October 15th, 2015,1pm–4 pm
 In conjunction with the exhibition at Gallery Gachet, Oppenheimer Park
 has taken this opportunity to restore a remarkable work of public art, by
 artist Thunder Larry Parenteau.
@@ -1566,22 +1566,22 @@ Canada BC
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-09-03-29-unitpitt-jol-doyle-sep-11">29. OPENING | UNIT/PITT | JoÃ«l Doyle | SEP 11</a>
+<a href="/instant-coffee/listings/2015-09-03-29-unitpitt-jol-doyle-sep-11">29. OPENING | UNIT/PITT | Joël Doyle | SEP 11</a>
 ------------------------------------------------------------------------
-JoÃ«l Doyle: Itâ€™s a long way from the wishbone to the backbone
+Joël Doyle: It’s a long way from the wishbone to the backbone
 
 September 12 to October 24, 2015
 UNIT/PITT, 236 East Pender Street, Vancouver
 
-Opening Friday, September 11, 7pm â€” part of SWARM
+Opening Friday, September 11, 7pm — part of SWARM
 Curated by Zebulon Zang
 
 What does it take to sustain oneself through means that are not limited
 but local, provided the castoffs of those living otherwise?
 
-In his practice JoÃ«l Doyle addresses an interrelation between craft,
+In his practice Joël Doyle addresses an interrelation between craft,
 labour and material as a matrix for the production of art. Working
-primarily in sculpture and installation, Doyleâ€™s most recent series
+primarily in sculpture and installation, Doyle’s most recent series
 utilizes cast-offs from his own work in construction and carpentry.
 Through materials Doyle weaves connections between labour with
 economic consequences (i.e. a day job) and how it feeds the labour
@@ -1590,7 +1590,7 @@ exemplifies the double bind of art and industry as perpetually tethered
 to one another, Doyle also retains a primary focus on key sculptural
 and architectural elements such as balance, gravity and depth. With
 sculptures made from pieces of deconstructed homes there is
-sustained attention to the bodyâ€™s relationship with constructed space as
+sustained attention to the body’s relationship with constructed space as
 these once architectural materials are reconstituted into new forms or
 spaces of encapsulation.
 
@@ -1600,22 +1600,22 @@ public actions collectively called 2055. Rather than celebrating a 40th
 anniversary (which many thought we would never reach), we are
 treating 2015-2016 as a mid-point in a projected 80-year arc, projecting
 hypothetical futures and referencing as-yet-incomplete histories.
-Doyleâ€™s proposition plays against the increasingly glass and steel future
+Doyle’s proposition plays against the increasingly glass and steel future
 of Vancouver and replaces the local tendency of tear down and replace
 with a predisposition towards salvage and reuse.
 
-Doyleâ€™s reworkings act as a proposition for durable construction that
+Doyle’s reworkings act as a proposition for durable construction that
 comes from what already exists. In place of simply keeping a facade to
 disguise an entirely new interior, every piece in each construction is
 given both a new skin and a new function, figured and understood
 through the limitations of what may be found. It is not simply the
-preservation of an image of the past but the renewal of matter. Doyleâ€™s
+preservation of an image of the past but the renewal of matter. Doyle’s
 work proposes a space in which is not up or down or recycling but
 alteration of core principles.
 
-JoÃ«l Doyle works as both an artist and carpenter on Cortes Island, B.C.
+Joël Doyle works as both an artist and carpenter on Cortes Island, B.C.
 He attended the Alberta College of Art and Design, and received his
-BFA from the Nova Scotia College of Art and Design. Doyleâ€™s life in a
+BFA from the Nova Scotia College of Art and Design. Doyle’s life in a
 small rural community heavily informs his practice which uses primarily
 found, salvaged and raw materials to address the interrelationship
 between humans and the natural environment in a modern context.
@@ -1645,7 +1645,7 @@ longing that are evoked by the works on view in the gallery.
 
 Alana Bartol an interdisciplinary artist, curator, and educator from
 Windsor, Ontario, currently based in Calgary, Alberta. She is interested
-in ecology as a â€˜life scienceâ€™ that interrogates relationships between
+in ecology as a ‘life science’ that interrogates relationships between
 place and self, nature, and community. Her collaborative and individual
 works explore concepts of visibility and survival through our
 relationships with nature and each other. Bartol holds an MFA from
@@ -1676,11 +1676,11 @@ Association of Artist Run Centres.
 Janice Kerbel
 Score
 
-12 September â€“ 24 October 2015
-Opening reception: Saturday, 12 September, 3:00 â€“ 6:00
+12 September – 24 October 2015
+Opening reception: Saturday, 12 September, 3:00 – 6:00
 
 Catriona Jeffries is pleased to announce the forthcoming exhibition of
-Janice Kerbelâ€™s Score, an expanded suite of silkscreen prints that
+Janice Kerbel’s Score, an expanded suite of silkscreen prints that
 considers ways of scoring music with the use of typographic
 convention alone. Emerging from DOUG, a performative work in the
 form of 9 songs for 6 voices, Score continues Kerbel's interest in the
@@ -1710,7 +1710,7 @@ The Common Guild; Kill the Workers, Chisenhale, London; Badischer
 Kunstverein, Karlsrhue; and Walter Phillips Gallery, Banff Centre for the
 Arts; Janice Kerbel, Arts Club of Chicago; See it Now, Art Now, Tate
 Britain; Remarkable, commissioned for Frieze Projects; and Nick Silver
-Canâ€™t Sleep, commissioned by Artangel/BBC Radio3. Janice has been
+Can’t Sleep, commissioned by Artangel/BBC Radio3. Janice has been
 nominated for Turner Prize 2015.
 
 ------------------------------------------------------------------------
@@ -1732,7 +1732,7 @@ They Had it Coming: 12 September, 7:00pm-9:00pm
 $9 Cineworks members (promotional code required)
 $11 non-members
 
-Coming to Terms: 12 September, 9.15â€“11.00pm
+Coming to Terms: 12 September, 9.15–11.00pm
 $9 Cineworks members (promotional code required)
 $11 non-members
 
@@ -1757,16 +1757,16 @@ Director: Jon Jost
 Cast: Frank Mosley, Arianne Margot, Roxanne Rogers, Tyler Messner, Blake
 Eckard Director's website: http://www.jonjost.altervista.org/intro.html
 
-"Jostâ€¦absorbs [local] stories and spins them into fictional tales,
+"Jost…absorbs [local] stories and spins them into fictional tales,
 purposefully accentuating the grandiose storytelling aspects of small town
 gossip. The resulting experimental visual poem captures small town middle
 America with more authenticity than any documentary possibly could. They
 Had It Coming enables Jost to dissect a menagerie of classic documentary
-storytelling devices â€” such as reenactments, talking head interviews and
-intertitles â€” and measure their impact on the audience. All the while, They
+storytelling devices — such as reenactments, talking head interviews and
+intertitles — and measure their impact on the audience. All the while, They
 Had It Coming functions as a cultural time capsule that captures the subtle
 societal intricacies of small town Midwestern United States."
-â€“â€“ Don Simpson, Smells Like Screen Spirit
+–– Don Simpson, Smells Like Screen Spirit
 
 Coming to Terms
 USA, 2013, 89 mins, Blu-ray Disc
@@ -1801,7 +1801,7 @@ www.cineworks.ca
 Eli Bornstein
 A New Awareness of Beauty
 
-September 1 â€“ October 10, 2015
+September 1 – October 10, 2015
 Opening reception Saturday September 12, 2-5 pm
 
 Initial Gallery is pleased to announce A New Awareness of Beauty, featuring
@@ -1813,7 +1813,7 @@ represent the formal properties of our environment.
 Eli Bornstein (b.1922) taught in the Visual Art Department of the Faculty
 of Arts at the University of Saskatchewan from 1950 until his retirement in
 1999 as Professor Emeritus. He also founded, contributed to and edited, The
-Structurist Journal from 1960 to 2010. Based in Saskatoon, the artistâ€™s
+Structurist Journal from 1960 to 2010. Based in Saskatoon, the artist’s
 structurist reliefs are the result of six decades of uninterrupted artistic
 practice.  They are matrices that create an experience of light, colour,
 form and space underlying our every visual cue and experience. The calculus
@@ -1821,7 +1821,7 @@ of these reliefs, in theory, is rigid and precise, but the kinetics of
 light seen within is subtle and ethereal.
 
 While other abstract movements looked to the supremacy of man over nature
-this work observes an acknowledgement of natureâ€™s unrivaled presence over
+this work observes an acknowledgement of nature’s unrivaled presence over
 humanity. As we seem destined to end our ecological success as a result of
 an estranged relationship with the environment, this reawakening to nature
 now seems timely.
@@ -1846,19 +1846,19 @@ geographical and socio-political conditions in which utopia might be
 found. The tower, a timeless symbol of eminence and prestige,
 constitutes a nexus at which these interpretations converge.
 
-Breukelmanâ€™s photographs trace how urban development in Vancouver
+Breukelman’s photographs trace how urban development in Vancouver
 subverts utopia, even as it paradoxically strives toward it. In his
 Counterpoint series, Shangri-La semiotically connotes an idyllic
 paradise, one that is at odds with the the abrupt, zigzagging textures of
-the now-iconic tower under construction. Amanatâ€™s architectural
+the now-iconic tower under construction. Amanat’s architectural
 drawings are similarly grounded in familiar geographies and milieus,
 yet remain abstracted as ideas (or ideals). His speculative towers exist
 only as possibilities, exerting their own social and ecological
 dynamisms on an alternative vision of the world: one in which the
 structural lines of each building embrace the sinuous, even chaotic
-colours of their environs. Wardâ€™s sculptural work Ideas and Integrities,
+colours of their environs. Ward’s sculptural work Ideas and Integrities,
 Version 2 responds to political and theoretical postulations of utopia,
-retracing the speculative liminality of Amanatâ€™s images through a
+retracing the speculative liminality of Amanat’s images through a
 gesture of physical suspension.
 
 Republic Gallery
@@ -1874,7 +1874,7 @@ The Toast Collective
 Gallery Hours are Sept 12, 13, 18, 19, 20 12pm to 5pm
 or by appointment.
 
-â€œEqually, we require a collective past - hence the endless
+“Equally, we require a collective past - hence the endless
 reinterpretations of history, frequently to suit the perceptions of the
 present.â€ 
 -Penelope Lively
@@ -1882,15 +1882,15 @@ present.â€
 Dreamy Returns features a backdated collection of videos that re-situate
 the voices of Phillip Guston, Brice Marden, Agnes Martin, Gerhard Richter
 and Alain Badiou, through the artist. The exhibition will also feature a
-new work Nap on Mount Lefroy that reinterprets Lawren Harrisâ€™ 1930
-painting, Mount Lefroy, in the form of embedded video in Papier MÃ¢chÃ©.
+new work Nap on Mount Lefroy that reinterprets Lawren Harris’ 1930
+painting, Mount Lefroy, in the form of embedded video in Papier Mâché.
 
 Nathaniel Wong is an interdisciplinary artist who works in video, sculpture
 and sound. He his works incorporate humour and playful forms that are
 informed by philosophy, literature and history. He recently completed his
 MFA from Simon Fraser University and has shown in Vancouver and Edmonton.
 His upcoming collaboration with Robert Cram, Wreck to the Seamen, Tempest
-to the Field will be part of Fort McMurreyâ€™s igNIGHT temporary public art
+to the Field will be part of Fort McMurrey’s igNIGHT temporary public art
 festival in October 2015.
 
 https:/https://www.facebook.com/events/1659604510943188/?fref=ts
@@ -1917,10 +1917,10 @@ Featuring a Steenbeck Editing and Workflow Demo by Ray Hall
 
 Cineworks Annex, Ironworks, 235 Alexander Street
 (basement, lane entrance: please ring the bell to the right of the gate)
-Sunday September 13, 10.00am â€“ 2.00pm
+Sunday September 13, 10.00am – 2.00pm
 FREE
 
-Odd Sundays are open studio and darkroom events at The Annexâ€“â€“Cineworks'
+Odd Sundays are open studio and darkroom events at The Annex––Cineworks'
 analogue film facility, focusing on hand-, tank-, and machine-based film
 processing, optical and contact printing, animation, installation and
 exhibition.
@@ -1928,7 +1928,7 @@ exhibition.
 Come for an Annex equipment and facilities orientation (please arrive by
 10.30am), bring your own cinefilm or stills negative to develop, come for a
 chat if you'd like to know more about working with 35mm, 16mm and 8mm film,
-or if youâ€™d like advice on a project you have in mind.
+or if you’d like advice on a project you have in mind.
 
 Sunday September 13 will feature a demonstration of the Steenbeck editing
 table and clips bin workflow by filmmaker and former UBC Film educator, Ray
@@ -1984,14 +1984,14 @@ Close Reading
 Burrard Arts Foundation, 108 East Broadway, Vancouver B.C., V5T
 1V9
 Wednesday, September 16th, 2015
-7:00pmâ€”9:30pm
+7:00pm—9:30pm
 
 (Artist books will be available for purchase, and beverages from 33
 Acres Brewing Company will be served.
 This event will be cash only.)
 
 The Burrard Arts Foundation presents Close Reading, an event
-celebrating the launch of the artist book â€œI See Things In You (36
+celebrating the launch of the artist book “I See Things In You (36
 Vancouver Galleries)â€ . Produced by Alexandra Bischoff during BAFâ€™s
 inaugural writing residency, this publication both personifies the art
 gallery and fetishizes the relationship between artist, viewer, and
@@ -2010,7 +2010,7 @@ before an audience; it is within the unique context of this divergence
 that Close Reading encourages the audience to
 interpret the offered texts.
 
-AdÃ¨le Barclayâ€™s writing has appeared in The Literary Review of
+Adèle Barclay’s writing has appeared in The Literary Review of
 Canada, The Pinch, Poetry Is Dead, The Rusty Toque, The Puritan,
 Matrix, Plenitude, and others. She writes and edits arts and culture
 coverage for VANDOCUMENT and is currently writing her doctoral
@@ -2063,13 +2063,13 @@ may apply for Capacity Building, Project, or Cultural Sustainability grants.
 
 Upcoming Key Dates for 2016 Cultural Grants:
 
-Friday, October 2 â€“ Expression of Interest forms due (on Friday, October 9
+Friday, October 2 – Expression of Interest forms due (on Friday, October 9
 all eligible applicants will be emailed an Application form and invited to
 the Application Information Session)
-Tuesday, October 20 â€“ Application Information Session for eligible applicants
-Tuesday, November 3 â€“ One-to-One Application Mentoring Sessions for
+Tuesday, October 20 – Application Information Session for eligible applicants
+Tuesday, November 3 – One-to-One Application Mentoring Sessions for
 eligible applicants
-Thursday, November 12 â€“ Cultural Grant applications due
+Thursday, November 12 – Cultural Grant applications due
 
 The vision of the Cultural Grants Program is to support and enhance arts
 and heritage in Surrey through building organizational capability and
@@ -2089,7 +2089,7 @@ Photo Life Presents Emerging Photographers 2015 Competition
 MEDIA RELEASE
 FOR IMMEDIATE RELEASE
 
-August 27, 2015 â€” Canadian emerging artists who dream of pursuing
+August 27, 2015 — Canadian emerging artists who dream of pursuing
 a career in photography need the opportunity to show how good they
 are. Photo Life's Emerging Photographers competition, which attracts
 hundreds of entries each year, gives them a unique opportunity to
@@ -2104,9 +2104,9 @@ with the photographic community.
 Participating photographers will be judged on their ability to
 demonstrate an original photographic vision and a bold approach in
 their photography. From all submissions received, editors will select the
-most outstanding up-and-coming talents to showcase in Photo Lifeâ€™s
+most outstanding up-and-coming talents to showcase in Photo Life’s
 February/March 2016 issue as well as in the Photo Life Emerging
-Photographerâ€™s online gallery.
+Photographer’s online gallery.
 
 The Photo Life Student Award
 The student participant with the most distinctive work will receive two
@@ -2128,7 +2128,7 @@ Fore more details about Emerging Photographers 2015, please visit
 photolife.com/emerging
 
 About Photo Life
-Established in 1976, Photo Life is Canadaâ€™s leading source for
+Established in 1976, Photo Life is Canada’s leading source for
 photography. Including technical knowledge and tips, industry news
 and events, international travel photography and documentaries, as
 well as innovative approaches, techniques and secrets of the trade.
@@ -2145,21 +2145,21 @@ Call for Submissions: Finished Films & Film-Based Installations
 DEADLINE: DECEMBER 1, 2015
 
 ELIGIBILITY
-â€¢ 16mm or Super 8 film under 22 minutes (submissions accepted in
+• 16mm or Super 8 film under 22 minutes (submissions accepted in
 digital version only)
-â€¢ Installation works must be film-based
-â€¢ Official release date after December 1, 2013
+• Installation works must be film-based
+• Official release date after December 1, 2013
 
 Requirements for exhibition:
-â€¢ 16mm with optical sound
-â€¢ Super 8 mag. stripe
-â€¢ Properly synced Mp3 audio
-â€¢ Soundtracks must be accompanied by detailed syncing
+• 16mm with optical sound
+• Super 8 mag. stripe
+• Properly synced Mp3 audio
+• Soundtracks must be accompanied by detailed syncing
 instructions
-â€¢ Films should have at least 10 feet of leader
-â€¢ Each film must be clearly labeled with running speed (18 or 24
+• Films should have at least 10 feet of leader
+• Each film must be clearly labeled with running speed (18 or 24
 fps), length, title and name of filmmaker
-â€¢ Films must be submitted head out and leaders clearly labeled
+• Films must be submitted head out and leaders clearly labeled
 
 SELECTION PROCESS
 The Festival Programming Committee selects films for exhibition at the
@@ -2193,7 +2193,7 @@ Calgary's $100 Film Festival is one of only a few festivals worldwide
 that exhibits film exclusively on Super 8 and 16mm. When the $100
 Film Festival was born in 1992, it showcased eight short films on Super
 8. The name sprung from the challenge to shoot a short film on four roll
-of Super 8 â€“ which tallied to the cost of $100. In following years, the
+of Super 8 – which tallied to the cost of $100. In following years, the
 festival dropped the budgetary limit and allowed 16 mm film, which
 shifted the focus from low budget to quality small-format films. The
 festival is now an international celebration of creative story telling on
@@ -2212,13 +2212,13 @@ feet and has a full bathroom, a kitchenette and good security.
 
 Rent is $300.00 per month and includes:
 
-â€” Heat, electricity, wifi
-â€” Insurance
-â€” Secure 24hr access
-â€” 9-foot ceilings
-â€” Outside bike rack
-â€” Street parking
-â€” Close to good coffee shops, restaurants, and other amenities
+— Heat, electricity, wifi
+— Insurance
+— Secure 24hr access
+— 9-foot ceilings
+— Outside bike rack
+— Street parking
+— Close to good coffee shops, restaurants, and other amenities
 
 Please contact mathew@mathewarthur.com
 

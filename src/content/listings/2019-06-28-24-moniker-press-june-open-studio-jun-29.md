@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 24
 type: "EVENT"
+venue: "Moniker Press"
 summary: "Moniker Press | June Open Studio | JUN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 15
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Small Gods | 6PM | OCT 16"
 ---
 

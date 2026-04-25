@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 16
 type: ""
+venue: "Other Sights"
 summary: "Other Sights | T&T at Pendulum Gallery | FEB 5"
 ---
 
@@ -28,7 +29,7 @@ Opening Reception: Friday February 5, 6-8 pm
 Other Sights is pleased to announce T & T: False Creek, an exhibition
 created by Canadian artists Tyler Brett and Tony Romano (T&T) to be
 installed in the Pendulum Gallery during the 2010 Winter Olympics.
-Consisting of sculptural assemblages, panoramic print and a childrenâ€™s
+Consisting of sculptural assemblages, panoramic print and a children’s
 colouring centre, the exhibition transforms the public atrium of the HSBC
 Building into an optimistic post-apocalyptic environment.
 

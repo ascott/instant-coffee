@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 9
 type: "EVENT"
+venue: "Secret Lantern"
 summary: "Secret Lantern | SZECRET VHINE UND SZONG | SEP 9"
 ---
 

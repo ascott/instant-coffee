@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 28
 type: "EXHIBITION"
+venue: "CCBC Gallery"
 summary: "CCBC Gallery | Interface: Group Exhibtion | MAR 11"
 ---
 

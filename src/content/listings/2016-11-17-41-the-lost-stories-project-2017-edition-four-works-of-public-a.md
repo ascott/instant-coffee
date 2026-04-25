@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 41
 type: "CALL"
+venue: "The Lost Stories Project 2017 Edition"
 summary: "The Lost Stories Project 2017 Edition | Four Works of Public Art | NOV 25"
 ---
 

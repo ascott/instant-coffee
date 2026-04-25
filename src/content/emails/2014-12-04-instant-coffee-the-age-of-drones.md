@@ -83,7 +83,7 @@ at the cost of the defaulting owner.
 Artsy presents W A L L P A P E R S at NADA Miami
 
 Dec 4th - 7th
-Opening Reception Dec 4th: 6â€“8pm.
+Opening Reception Dec 4th: 6–8pm.
 Deauville Suite Hours - Room 1034
 
 Artsy in collaboration with NADA Miami Beach is pleased to announce a
@@ -93,7 +93,7 @@ Exhibited from Dec 4th - 7th WALLPAPERS will be on view at the Artsy booth,
 as an installation in a Deauville suite and on the NADA Miami Beach Artsy
 micro-site.
 
-Co-Curated by Artsyâ€™s Julia Colavita and East Hampton Shedâ€™s Nate Hitchcock.
+Co-Curated by Artsy’s Julia Colavita and East Hampton Shed’s Nate Hitchcock.
 
 with wallpapers by:
 Laura Brothers
@@ -114,8 +114,8 @@ http://artsywllpprs.com/
 Dead Letter
 Sandra Osborne
 
-December 5th â€” January 3rd, 2014 â€” 2015
-Opening Thursday, December 4th, 6:00 â€” 10:00 PM
+December 5th — January 3rd, 2014 — 2015
+Opening Thursday, December 4th, 6:00 — 10:00 PM
 
 FIELD Contemporary
 17 West Broadway
@@ -123,8 +123,8 @@ FIELD Contemporary
 FIELD Contemporary is pleased to present a new body of ceramic and mixed
 media sculpture by California artist Sandra Osborne.
 
-Dead Letter is a reference to both the idea of the lost and undeliverable â€“
-the oblivion of the Dead Letter Office â€“ as well as the more obscure â€œdead
+Dead Letter is a reference to both the idea of the lost and undeliverable –
+the oblivion of the Dead Letter Office – as well as the more obscure “dead
 letter boxâ€  of the spy world â€“ a secret place through which messages are
 transmitted. The work in this exhibition is addressed to the frailty and
 imperfection of modes of transmission, including the slipperiness of the
@@ -138,7 +138,7 @@ wherein the traces of thought are hidden but not entirely destroyed. The
 stark blankness of porcelain mocks the accessibility of paper. Private
 letters are bundled and tied for keeping; notes are quickly folded and
 stuffed into niches. In other instances they are carefully arranged or set
-among other elementsâ€”presented for consideration as formal objects. There
+among other elements—presented for consideration as formal objects. There
 is an urge to touch, to open the envelopes and remove the letters, yet the
 â€œpaperâ€  is unyielding. In another series, vents and other incidental
 architectural elements subtly pierce the gallery space, suggesting an
@@ -159,8 +159,8 @@ She is currently an Affiliate Artist at Headlands Center for the Arts.
 Selected Works
 Graham Landin
 
-December 5th â€” December 27th, 2014
-Opening Thursday, December 4th, 6:00 â€” 10:00 PM.
+December 5th — December 27th, 2014
+Opening Thursday, December 4th, 6:00 — 10:00 PM.
 
 FIELD Satellite
 29 West Broadway
@@ -182,9 +182,9 @@ Ballets for Miniature Aerial Drones: A Research Workshop
 
 Julia Feyrer and Donato Mancini
 
-In anticipation of 2015 â€“ which will be the first year in the Age of Drones
-â€“ the grunt gallery invites you to participate in a special life-drawing
-and dance choreography research workshop in Julia Feyrerâ€™s Kitchen.
+In anticipation of 2015 – which will be the first year in the Age of Drones
+– the grunt gallery invites you to participate in a special life-drawing
+and dance choreography research workshop in Julia Feyrer’s Kitchen.
 
 Patrick English, of Kaizen Kinetics International, will be on site to
 demonstrate the dynamic movement capabilities of two models ("The Minion"
@@ -199,10 +199,10 @@ Participants are also invited to bring cassette tapes or mp3s of
 appropriate songs, to contribute musical accompaniment to the movement
 demonstrations.
 
-Kaizenâ€™s drone operator will be available to answer questions about the
+Kaizen’s drone operator will be available to answer questions about the
 possibilities of drone movement, dance and aerospace bylaw.
 
-Short term outcome will be: a â€˜zine publication gathering a selection of
+Short term outcome will be: a ‘zine publication gathering a selection of
 drawings made at (or resulting from) the workshop. Medium term outcome: new
 concepts for scoring drone choreography. Long term outcome: the design and
 staging of 15 ballets for miniature aerial drones.
@@ -228,25 +228,25 @@ Grunt
 Beginning the Shape
 
 Kristen Abdai, Maya Beaudry, Scott Kemp, Mel Paget
-December 6, 2014 â€” January 31, 2015, 2014
+December 6, 2014 — January 31, 2015, 2014
 Reception Friday, December 5, 8PM
 
 Curated by Madison Killo
 
 -
 
-Morphogenesis (deriving from the Greek morphÃª) is a biological term used to
+Morphogenesis (deriving from the Greek morphê) is a biological term used to
 explain the genesis of cells and cellular differentiation. It indicates the
 process that causes an organism to develop its shape. Acting as a metaphor
 for artistic and curatorial production, the exhibition propagates a process
 of morphogenetic character. It alludes to the invisible influences that
-develop the shapes of forms. This genesis of form is seen as an â€˜open ended
-becomingâ€™ that is both nonlinear and dynamic. The works in the exhibition
-enter a playing field with no hierarchical divisions â€“ they and the viewer
+develop the shapes of forms. This genesis of form is seen as an ‘open ended
+becoming’ that is both nonlinear and dynamic. The works in the exhibition
+enter a playing field with no hierarchical divisions – they and the viewer
 exist as equal occupant bodies. Existing as a simulation of a body without
 organs, the result is a morphogenesis of a distinct experiential essence.
 
-Including sound, video and sculpture â€“ the works in Beginning the Shape
+Including sound, video and sculpture – the works in Beginning the Shape
 create a singular installation. These three disciplines lend themselves to
 a shifting of experience and a total investment in presence. All of the
 works reference a method of placing the self, emphasizing perception to
@@ -254,11 +254,11 @@ create a multiplicity through their unification.
 
 Included is a video by Mel Paget that calls to being an evolution of
 renderings and shifting alterations through a number of softwares. Maya
-Beaudryâ€™s installation shares with the viewer a constant recycling of shape
+Beaudry’s installation shares with the viewer a constant recycling of shape
 through repetitive gesture, taking form again and again in tandem with the
-surrounding exhibition. The austere constructions of Scott Kempâ€™s shift
+surrounding exhibition. The austere constructions of Scott Kemp’s shift
 space and place through clean-lined reappropriation, derived from the
-shapes found in both Mel Paget and Maya Beaudryâ€™s work. Abdaiâ€™s sound piece
+shapes found in both Mel Paget and Maya Beaudry’s work. Abdai’s sound piece
 creates a symphonic matrix with the surrounding installation, architecting
 and enhancing spatial awareness through its subtle presencing. The echoing
 of the sound installation through different areas of the gallery exalts the
@@ -283,7 +283,7 @@ artist Casey Wei.
 TOQUE coincides with our Holiday Membership Drive, so join/renew at the
 event for perks and prizes and help us reach our goal of 200 members.
 
-Admission is by donation. Proceeds support Western Frontâ€™s year-round art
+Admission is by donation. Proceeds support Western Front’s year-round art
 and new music programs.
 
 PARTICIPATING VENDORS
@@ -315,7 +315,7 @@ happened, it occurs to her to wonder how in the hell the kitchen took 30
 years to turn into a sculpture."
 
 Revisit some old narratives and sketch out a possible present one, with
-grunt gallery, Julia Feyrer and friends. 1985 â€“ 2015
+grunt gallery, Julia Feyrer and friends. 1985 – 2015
 
 Friday, Dec 4th: Drawing 7pm w/ Donato Mancini
 Tuesday, Dec 9th: Reading 7pm w/ Vivienne Bessette
@@ -324,7 +324,7 @@ Friday, Dec 19th: Solstice Party *closing event* bar by Magic Mystery
 Bartenders
 
 Exhibition Text:
-Part 1 â€“ History creeps: the grunt kitchen and Julia Feyrer:
+Part 1 – History creeps: the grunt kitchen and Julia Feyrer:
 http://grunt.ca/wordpress/wp-content/uploads/2014/11/Hedit_Julia-Feyrer-Part-1_FINAL1.pdf
 
 URL: http://grunt.ca/exhibitions/kitchen/
@@ -356,21 +356,21 @@ grunt gallery: 116-350 East 2nd Ave, Vancouver, BC V5T4R8 | grunt.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-12-04-08-screening-dim-cinema-the-and-in-wieland-dec-8">08. SCREENING | DIM Cinema | The And in Wieland | DEC 8</a>
 ------------------------------------------------------------------------
-â€œI thought I was Leni Riefenstahl. It was due perhaps to editing Trudeau.
+“I thought I was Leni Riefenstahl. It was due perhaps to editing Trudeau.
 Would he be a good leader? Or just a politician? Irony came wandering in,
-in the porn of applause for his statement â€˜Reason over passion, that is
-the theme of all my writing.â€™ It should be reason and passion in a
+in the porn of applause for his statement ‘Reason over passion, that is
+the theme of all my writing.’ It should be reason and passion in a
 person.â€  JOYCE WIELAND
 
 Two Pierres are the keystones in these twin portraits of a nation at a
 historical turning point, playfully interlocking the main themes of Joyce
-Wielandâ€™s art. Reason Over Passion explores Canadaâ€™s landscape, symbolism,
+Wieland’s art. Reason Over Passion explores Canada’s landscape, symbolism,
 and bilingualism, while taking issue with the famous "reason over passion"
 statement by Pierre Trudeau, whose every gesture is anatomized in footage
 Wieland shot during the 1968 Liberal leadership convention, when his
 election signalled the possibility of change. Pierre Vallieres
 incorporates reel changes and camera breakdowns as it attempts a
-tightly-framed unbroken shot of the lips of Vallieres, the FLQâ€™s
+tightly-framed unbroken shot of the lips of Vallieres, the FLQ’s
 intellectual leader, as he holds forth, with reason and passion, on labour
 issues, Quebec independence, and women's liberation. Ironically, the
 balance of qualities lacking in Trudeau can be heard in the voice of a
@@ -406,11 +406,11 @@ Free Admission
 Scrivener's Monthly is pleased to present an evening with UBC Art History
 professor T'ai Smith.
 
-Re-translating Marxâ€™s Capital, Volume I, Part 1, Tâ€™ai Smith shows how 20
-yards of linen transform into a coatâ€”and then, through a specious turn in
+Re-translating Marx’s Capital, Volume I, Part 1, T’ai Smith shows how 20
+yards of linen transform into a coat—and then, through a specious turn in
 logic, back into threads again.
 
-Tâ€™ai Smith is an assistant professor in the Department of Art History,
+T’ai Smith is an assistant professor in the Department of Art History,
 Visual Art and Theory and a Wall Scholar at the Peter Wall Institute of
 Advanced Studies at University of British Columbia. Her articles and
 reviews have appeared in Art Journal, Grey Room, Journal of Modern Craft,
@@ -423,7 +423,7 @@ political economy since the 19th-century.
 
 - - -
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the
+Scrivener’s Monthly is a series of public presentations that explore the
 space between material practices and spoken words: a periodical that talks.
 Set alongside the exhibitions program at Western Front, this experiment in
 â€œnot publishingâ€  involves readings, performances, and other articulations.
@@ -449,23 +449,23 @@ Salish Territories
 Facebook Event: https://www.facebook.com/events/797200380342202/
 
 What do you do when a multinational energy corporation sues a handful of
-citizens for $5M? â€¦. You throw a party and you have a bake sale!
+citizens for $5M? …. You throw a party and you have a bake sale!
 
 On Friday, December 12, dozens of Vancouver based artists and performers
 will come together for a cabaret celebrating the resilience and
 determination of those who put themselves on the line to resist Kinder
-Morganâ€™s Trans Mountain Pipeline on Burnaby Mountain.
+Morgan’s Trans Mountain Pipeline on Burnaby Mountain.
 
 In April of 2014 curator Mariane Bourcheix-Laporte and artist Gabriel
 Saloman collaborated with Burnaby Residents Opposing Kinder-Morgan
-Expansion (B.R.O.K.E.) and UNIT/PITT Projects to create the Peopleâ€™s
+Expansion (B.R.O.K.E.) and UNIT/PITT Projects to create the People’s
 Procession Against The Pipelines, an 8-kilometre walk along the existing
-and proposed TransMountain Pipeline in Burnaby, BC. The Peopleâ€™s Procession
+and proposed TransMountain Pipeline in Burnaby, BC. The People’s Procession
 included speakers, performers, a flotilla and a rally featuring hundreds of
 people rallying against the pipeline's expansion. Since then, opposition
 has mushroomed and recently became big news when the Texas-based energy
 corporation Kinder-Morgan went to court seeking an injunction and a massive
-civil suit against a handful of protesters opposing the companyâ€™s work in a
+civil suit against a handful of protesters opposing the company’s work in a
 protected area of Burnaby Mountain. Victims of the civil suit include SFU
 professor and poet Stephen Collis, grandfather and anti-racism activist
 Allan Dutton, and B.R.O.K.E.
@@ -516,7 +516,7 @@ Saturday, December 13
 Free Admission
 
 Derya Akay has taken a playful, painterly approach to transforming Centre
-Aâ€™s gallery space into a unique site for hospitality and sharing. Entitled
+A’s gallery space into a unique site for hospitality and sharing. Entitled
 Breakfast, Lunch, Dinner & Supper, the project consists of a variety of
 food sharing events which include lunches open to the public on a first
 come, first served basis, as well as intimate dinners for limited groups of
@@ -533,11 +533,11 @@ Participation is by donation. Contributions including, but not limited to,
 food ingredients (to be announced weekly), beverages and cash are greatly
 appreciated.
 
-Derya Akayâ€™s practice is a fluid interplay between artistic processes and
+Derya Akay’s practice is a fluid interplay between artistic processes and
 the making of everyday objects, resulting in unique environments and
-experiences. Blurring the contours of artâ€™s definition, Akayâ€™s work
+experiences. Blurring the contours of art’s definition, Akay’s work
 consists of elements made, found or otherwise acquired; the immersive
-environments that result from these elementsâ€™ composition in space; the
+environments that result from these elements’ composition in space; the
 process of facilitating social gatherings; and the various individual and
 social experiences had therein. Further, Akay is interested in how
 knowledge is shared and spread through social exchange, particularly as it
@@ -572,7 +572,7 @@ Thursday DEC 18th exhibition 7pm-12pm
 Friday DEC 19th Daytime viewing 12pm-5pm
 
 SOCIAL CIRCLES is an exhibition organized by Nathalee Paolinelli and Jeff
-StÃ¼ckel exploring the idea of social relations contingent on the artistic,
+Stückel exploring the idea of social relations contingent on the artistic,
 cultural and curatorial practices that produce it. It brings together works
 and collaborations by artists and designers from different generations and
 geographies. With the works presented, we hope to introduce one another to
@@ -614,11 +614,11 @@ Vivienne Basset
 236 East Pender
 7pm-Midnight on December 19th, 2014
 
-As the weather gets cold, thereâ€™s nothing to do but eat people. Come enjoy
+As the weather gets cold, there’s nothing to do but eat people. Come enjoy
 two cult classics that combine music and cannibalism, Big Meat Eater and
 Eat the Rich. Big Meat eater is a locally made film set in â€œBurquitlamâ€ 
 the area between Burnaby and Coquitlam, which combines a human devouring
-alien and dazzling musical numbers. Eat the Rich, set in Thatcherâ€™s
+alien and dazzling musical numbers. Eat the Rich, set in Thatcher’s
 England, stars a disgruntled waiter who joins up with a terrorist cell
 after being fired and transforms an upscale restaurant into a haven for
 cannibalism.
@@ -733,7 +733,7 @@ Program dates: April 27, 2015-May 15, 2015
 Application deadline: January 14, 2015
 
 The Banff International Curatorial Institute's Critical Art Writing
-Ensemble will explore art writing as an aspect of literature â€“ exhibition
+Ensemble will explore art writing as an aspect of literature – exhibition
 catalogues can expand into short novels and stories; reviews into haikus
 and soliloquies that can transcend the ephemerality of quotidian journalism.
 http://http://www.banffcentre.ca/programs/program.aspx?id

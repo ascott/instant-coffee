@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 35
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Oliver Husain: Were Here | 6-8pm | JAN 25"
 ---
 

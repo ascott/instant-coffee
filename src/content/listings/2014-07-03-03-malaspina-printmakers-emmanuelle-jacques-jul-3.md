@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:an ethereal dream-like quality"
 emailDate: "Thu, 03 Jul 2014 14:07:59 -0700"
 number: 3
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Emmanuelle Jacques | JUL 3"
 ---
 

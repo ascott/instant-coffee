@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 15
 type: ""
+venue: "W2 Community Media Arts Society"
 summary: "W2 Community Media Arts Society | Indigital: Tech Your Life | AUG 23"
 ---
 
@@ -18,7 +19,7 @@ day technological experience that will expose Indigenous youth, and
 those interested, to the essential and emerging technologies sector. 
 Through engagement in the InDigital Camp and InDigital Conference 
 experiences, this unparalleled summer experience will nurture 
-participantsâ€™ discovery and interest in ICT, creative, broadcasting and 
+participants’ discovery and interest in ICT, creative, broadcasting and 
 green-tech technologies and expose them to the educational and 
 career options available within these tech-sectors.
 

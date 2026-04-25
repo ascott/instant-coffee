@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 39
 type: ""
+venue: "Firehall Arts Centre"
 summary: "Firehall Arts Centre | oni Latour: The Femme Project until | OCT 6"
 ---
 
 Sept. 4- Oct. 6 | Toni Latour: The Femme Project (Photography Exhibition)
-Firehall Arts Centre Gallery, 280 East Cordova. Open Wed â€“ Sat, 1-5pm.
-The Femme Project, made up of 70 photographs, documents Vancouverâ€™s 
+Firehall Arts Centre Gallery, 280 East Cordova. Open Wed – Sat, 1-5pm.
+The Femme Project, made up of 70 photographs, documents Vancouver’s 
 self-identified queer femme community, focusing specifically on femme 
 identity, representation and politics. This small-scale exhibition represents a 
 curated selection from the project, complete with wall mounted text and 

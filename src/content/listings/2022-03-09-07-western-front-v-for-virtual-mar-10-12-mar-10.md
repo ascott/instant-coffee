@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Western Front"
 summary: "Western Front | V FOR VIRTUAL | MAR 10-12 | MAR 10"
 ---
 

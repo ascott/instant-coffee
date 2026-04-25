@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 12
 type: ""
+venue: "Toast Collective"
 summary: "Toast Collective | Toast & Jams vol. 6 | OCT 26"
 ---
 
@@ -26,7 +27,7 @@ The Phobic Trust
 https://soundcloud.com/thephobictrust
 
 The Phobic Trust is a collective of musicians making experimental drone/ 
-musique concrÃ¨te/ ambient/ found sound/ minimal soundscapes.
+musique concrète/ ambient/ found sound/ minimal soundscapes.
 
 Members are: alyson fun (Vonnegut Dollhouse, Lengthy List of Lovers, 
 Alouette Lake & Palmer, Confessions of Owls, Bread Savage, Ducks 

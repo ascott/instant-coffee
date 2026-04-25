@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 15
 type: ""
+venue: "Centre for Art Tapes"
 summary: "Centre for Art Tapes | call for Submissions | OCT 1"
 ---
 

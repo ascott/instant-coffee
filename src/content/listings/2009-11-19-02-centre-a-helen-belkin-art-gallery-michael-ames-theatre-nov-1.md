@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 2
 type: ""
+venue: "Centre A & Helen Belkin Art Gallery"
 summary: "Centre A & Helen Belkin Art Gallery | Michael Ames Theatre NOV 19 | Anselm Franke NOV 23 | NOV 19"
 ---
 

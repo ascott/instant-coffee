@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 13
 type: ""
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | QULLIQ: In Darkness, Light | FEB 1"
 ---
 

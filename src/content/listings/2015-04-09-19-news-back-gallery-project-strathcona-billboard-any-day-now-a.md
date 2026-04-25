@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 19
 type: ""
+venue: "NEWS"
 summary: "NEWS | Back Gallery Project - Strathcona Billboard | Any Day Now - Annie Briard | APR 12"
 ---
 
@@ -14,21 +15,21 @@ East Hastings St. 100 feet east of Dunlevy ave. in the Patricia Hotel
 parking lot, Vancouver
 
 Back Gallery Project presents the anticipated third and final iteration of
-its Strathcona Billboard Project with artist Annie Briardâ€™s public art work
+its Strathcona Billboard Project with artist Annie Briard’s public art work
 Any Day Now. Loved by locals, the billboard project is a cross-city
-partnership with Torontoâ€™s Pattison Art in Transit program that has been
-enlivening Vancouverâ€™ Downtown East Side with accessible contemporary art.
+partnership with Toronto’s Pattison Art in Transit program that has been
+enlivening Vancouver’ Downtown East Side with accessible contemporary art.
 Any Day Now will be showcased for Capture Photography Festival, launching
 its second year this April.
 
-Annie Briard is a Vancouver-based artist from MontrÃ©al challenging visual
+Annie Briard is a Vancouver-based artist from Montréal challenging visual
 perception through moving image and lens focused work. Her billboard
 project â€œAny Day Nowâ€  is an in-situ photographic installation on East
-Hastings Street. It offers a momentary break in a passerbyâ€™s field of
+Hastings Street. It offers a momentary break in a passerby’s field of
 vision to question how we see and make sense of the world around us. Using
 optical recursion and a 3D viewing potential, â€œAny Day Nowâ€  underlines
 connections between visual attention, wonder, and possibility. Billboards
-catch our eyes through bright colors, bold fonts and rapid messages. â€œAny
+catch our eyes through bright colors, bold fonts and rapid messages. “Any
 Day Nowâ€  rather than showing or telling, provides a mirroring of its
 surrounding space for contemplation. Any day now, a new sight; a moment of
 wonder; any day now, an escape.
@@ -38,7 +39,7 @@ including a 3D viewing and artist talk. More information:
 http://capturephotofest.com/public-installations/any-day-now/
 
 About the artist
-Annie Briard is a Vancouver-based artist from MontrÃ©al challenging visual
+Annie Briard is a Vancouver-based artist from Montréal challenging visual
 perception through moving image and lens focused work.
 She has exhibited in solo and group shows across Canada and
 internationally, including in New York, Paris, Rio, Madrid, and Beijing. In
@@ -53,7 +54,7 @@ in Montreal.
 Annie Briard also teaches at Emily Carr University and Kwantlen University,
 and serves on boards for Montreal/Shanghai based Art Contraste, and
 Vancouver's Access Gallery. She holds a BFA from Concordia University and a
-Masterâ€™s from Emily Carr University. www.anniebriard.com
+Master’s from Emily Carr University. www.anniebriard.com
 
 About Back Gallery Project
 Back Gallery Project, which started in a room behind the Monte Clark

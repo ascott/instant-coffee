@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 21
 type: "EVENT"
+venue: "271 Union St"
 summary: "271 Union St | Facing Canada’s Complicity:Palestine &the Arts | 6PM | SEP 19"
 ---
 

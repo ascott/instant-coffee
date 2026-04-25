@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 32
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | SUM Gallery | The Capilano Review - Issue 3.36 Launch | 7PM | NOV 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lone glove"
 emailDate: "Thu, 10 Dec 2015 11:00:47 -0800"
 number: 14
 type: "CALL"
+venue: "Banff Centre"
 summary: "Banff Centre | Visual + Digital Arts Residencies at The Banff Cen | FEB 3"
 ---
 

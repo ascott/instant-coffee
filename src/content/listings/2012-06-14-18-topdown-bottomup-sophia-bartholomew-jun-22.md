@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 18
 type: ""
+venue: "topdown bottomup"
 summary: "topdown bottomup | sophia bartholomew | JUN 22"
 ---
 
 topdown bottomup presents
 sophia bartholomew
-with kate barbaria, nelly cÃ©sar, evan french, and you
+with kate barbaria, nelly césar, evan french, and you
 aversionofyourself.tumblr.com
 opening: june 22 7PM
 artist run event: july 10 7PM
@@ -29,12 +30,12 @@ double - a placeholder in the archive).
 
 make a version, and a version, and aversion of yourself.
 
-vancouver-based artists nelly cÃ©sar, evan french, and
+vancouver-based artists nelly césar, evan french, and
 somewhat-nomadically-based artist kate barbaria will intervene with or
-borrow from the project during the showâ€™s two week duration.
+borrow from the project during the show’s two week duration.
 
 possibly-cheeky, post-media, project-driven-artist sophia bartholomew
-is recently undergraduated from ubcâ€™s visual arts program. she is a
+is recently undergraduated from ubc’s visual arts program. she is a
 fiction in the way that every name is a fiction. she is an imposter in
 her own role.
 

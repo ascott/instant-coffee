@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Marlon Kroll | OCT 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 4
 type: ""
+venue: "Slivers, Shivers, & Snakeskins"
 summary: "Slivers, Shivers, & Snakeskins | A Happening / | APR 16"
 ---
 

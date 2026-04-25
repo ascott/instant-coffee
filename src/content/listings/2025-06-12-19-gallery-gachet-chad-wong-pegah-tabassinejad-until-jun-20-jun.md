@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "gallery gachet"
 summary: "gallery gachet | Chad Wong & Pegah Tabassinejad | UNTIL JUN 20 | JUN 20"
 ---
 

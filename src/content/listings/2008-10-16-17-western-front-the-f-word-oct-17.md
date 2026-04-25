@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 17
 type: ""
+venue: "Western Front"
 summary: "Western Front | The F Word | OCT 17"
 ---
 
@@ -11,8 +12,8 @@ The F Word
 
 Rebecca Belmore, Patty Chang, Allyson Clay in collaboration with Lisa
 Robertson and Nathalie Stephens, Kate Craig in collaboration with Margaret
-Dragu, Shawna Dempsey and Lorri Millan, Klara LidÃ©n, Deirdre Logue, Jillian
-McDonald, Lisa Steele and Salla TykkÃ¤
+Dragu, Shawna Dempsey and Lorri Millan, Klara Lidén, Deirdre Logue, Jillian
+McDonald, Lisa Steele and Salla Tykkä
 
 Curated by Alissa Firth-Eagland and Candice Hopkins
 October 18 - November 22, 2008

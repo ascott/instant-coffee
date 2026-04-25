@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 25
 type: ""
+venue: "SFU Woodwards"
 summary: "SFU Woodwards | CANZINE WEST 2014 | NOV 8"
 ---
 
@@ -16,7 +17,7 @@ Times bestseller Over Easy, a panel discussion about zines as political
 tools in the digital age, and the Giant Zine and Small Press Fair where
 hundreds of publications are on display and for sale.
 
-Registration is now open if you have work to display or youâ€™d like to join
+Registration is now open if you have work to display or you’d like to join
 the 1-2 Punch Book Pitch where, in front of a crowing crowd, you get two
 minutes to pitch your book to a panel of judges.
 

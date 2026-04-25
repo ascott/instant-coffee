@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 15
 type: "CALL"
+venue: "2016 Portfolio Prize"
 summary: "2016 Portfolio Prize | Call for Applications | FEB 15"
 ---
 

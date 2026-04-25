@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 21
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Deer Lake Gallery | 3rd Annual Summer Arts Festival | JUL 8"
 ---
 

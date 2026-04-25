@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like an onion makes you want to cr
 emailDate: "Thu, 14 Jul 2011 22:35:36 -0700"
 number: 1
 type: ""
+venue: "Centre A"
 summary: "Centre A | CO-LAB: A Workshop + Exhibition Project | JUL 15"
 ---
 
@@ -113,11 +114,11 @@ with and mixes many disciplines and mediums together that include
 interactive storytelling, performance video, photography, documentary,
 sound, sensors, performance art and the internet. Gendron began researching
 how documentary and storytelling could work online. She has since created,
-What We Want; a story about the people in VancouverÃ¢ï¿½ï¿½s Woodward Squat,
-Swirling Uncertainty; an alternative internet doc. About societyÃ¢ï¿½ï¿½s
+What We Want; a story about the people in Vancouverâ��s Woodward Squat,
+Swirling Uncertainty; an alternative internet doc. About societyâ��s
 perception of fear and uncertainty, Everywhere Is Not Everything; about
 credit cards and their effect on individual consumer culture and The Ties
-That Bind; the National Film BoardÃ¢ï¿½ï¿½s first internet documentary.
+That Bind; the National Film Boardâ��s first internet documentary.
 
 Emma Hendrix
 Emma is a multi-media artist and sound designer whose interest in the

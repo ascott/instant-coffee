@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 19
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Auction Preview | FEB 27"
 ---
 

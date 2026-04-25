@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 9
 type: "TALK"
+venue: "New Media Gallery [ONLINE]"
 summary: "New Media Gallery [ONLINE] | Virtual Talk Series | 11AM | SEP 25"
 ---
 

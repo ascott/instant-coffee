@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 19
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | The Anatomy of a Storm | 12PM | JUN 22"
 ---
 

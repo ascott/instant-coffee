@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: warning: it really is dirty"
 emailDate: "Fri, 26 Sep 2008 00:00:20 -0700"
 number: 4
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | MEET THE FILMMAKERS | SEP 29"
 ---
 
@@ -28,7 +29,7 @@ represented or facilitated these actions? What and how do moving images
 contribute to these burning conversations?
 
 Panelists: Annette Mangaard [General Idea: Art, AIDS, and the fin de
-siÃ¨cle], Velcrow Ripper [Fierce Light: When Spirit Meets Action], Jeff
+siècle], Velcrow Ripper [Fierce Light: When Spirit Meets Action], Jeff
 Chiba Stearns [Yellow Sticky Notes]
 
 DANA CLAXTON in conversation with MIKE HOOLBOOM

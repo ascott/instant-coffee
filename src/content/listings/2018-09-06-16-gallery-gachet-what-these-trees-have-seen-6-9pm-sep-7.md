@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 16
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | what these trees have seen | 6-9PM | SEP 7"
 ---
 

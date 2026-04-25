@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 17
 type: "EDUCATION"
+venue: "The Gathered Gallery"
 summary: "The Gathered Gallery | Trade Secrets | Artist Residencies with Spark"
 ---
 

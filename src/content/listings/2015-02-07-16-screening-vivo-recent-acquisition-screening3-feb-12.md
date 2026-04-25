@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | Recent Acquisition Screening#3 | FEB 12"
 ---
 

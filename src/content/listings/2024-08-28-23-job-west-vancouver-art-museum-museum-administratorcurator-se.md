@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 23
 type: ""
+venue: "JOB"
 summary: "JOB | West Vancouver Art Museum | Museum Administrator/Curator | SEP 8"
 ---
 

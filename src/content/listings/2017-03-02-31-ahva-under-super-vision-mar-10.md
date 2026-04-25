@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 31
 type: "EVENT"
+venue: "AHVA"
 summary: "AHVA | Under Super Vision | MAR 10"
 ---
 

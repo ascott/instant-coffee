@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you see complex patterns of colou
 emailDate: "Thu, 27 Jun 2013 14:05:25 -0700"
 number: 9
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | ECU Award Winners Exhibition | JUN 29"
 ---
 

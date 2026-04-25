@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 52
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Left of Main | Dumb Instrument Dance - Public and Private | NOV 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: styles you'll love all season"
 emailDate: "Thu, 27 Aug 2009 08:28:07 -0700"
 number: 5
 type: ""
+venue: "On The Rise Artist Collective"
 summary: "On The Rise Artist Collective | Where We Start From | SEP 3"
 ---
 

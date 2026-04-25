@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  considers relations to be more in
 emailDate: "Thu, 15 Jul 2010 08:45:46 -0700"
 number: 8
 type: ""
+venue: "W2 Storyeum"
 summary: "W2 Storyeum | LOUIS CABRI (reading) | JUL 16"
 ---
 
@@ -38,7 +39,7 @@ My talk will reflect on what can be learned, for poetry, from how some
 Lacanians theorize the subject within consumer culture. The consumer
 culture of late, global capitalism has been theorized as a society of
 commanded enjoyment (McGowan) in which the time of the Other doesn't
-exist (GuÃƒÂ©guen) and the virtual subject presents itself as an object in
+exist (GuÃ©guen) and the virtual subject presents itself as an object in
 commodity form (i.e., as a product lifestyle) (Frankenberger). Is, then,
 the version of revolutionary modernism Mayakovsky and Brik formulated under
 the rubric of a social command for poetry part of a long-passed society

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 23
 type: ""
+venue: "JOB"
 summary: "JOB | Griffin Art Projects | Public Programs and Residency Coordinator | FEB 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 49
 type: "OPENING"
+venue: "#3 Gallery - Ministry of Casual Living (VICTORIA)"
 summary: "#3 Gallery - Ministry of Casual Living (VICTORIA) | Proud To Honour | DEC 7"
 ---
 

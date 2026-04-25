@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 13
 type: ""
+venue: "JOB"
 summary: "JOB | New Media Gallery | Art + Technology Instructor (Specialist) | AUG 9"
 ---
 

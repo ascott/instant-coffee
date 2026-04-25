@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 28
 type: "CALL"
+venue: "From Hear to Here"
 summary: "From Hear to Here | Call for Mentors | AUG 30"
 ---
 

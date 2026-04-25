@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 26
 type: ""
+venue: "JOB"
 summary: "JOB | Griffin Art Projects | Assistant Curator of Engagement | SEP 18"
 ---
 

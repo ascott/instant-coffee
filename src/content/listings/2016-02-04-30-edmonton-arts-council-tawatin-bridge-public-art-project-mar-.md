@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 30
 type: "CALL"
+venue: "Edmonton Arts Council"
 summary: "Edmonton Arts Council | Tawatin Bridge Public Art Project | MAR 29"
 ---
 

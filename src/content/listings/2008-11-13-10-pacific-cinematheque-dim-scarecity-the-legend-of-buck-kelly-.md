@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: will be most satisfying if you tal
 emailDate: "Thu, 13 Nov 2008 09:15:56 -0800"
 number: 10
 type: ""
+venue: "Pacific Cinematheque & DIM"
 summary: "Pacific Cinematheque & DIM | ScareCity & The Legend of Buck Kelly Double Bill | NOV 17"
 ---
 

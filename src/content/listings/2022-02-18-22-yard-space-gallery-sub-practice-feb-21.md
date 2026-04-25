@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 22
 type: "EXHIBITION"
+venue: "Yard Space Gallery"
 summary: "Yard Space Gallery | 'Sub-Practice' | FEB 21"
 ---
 

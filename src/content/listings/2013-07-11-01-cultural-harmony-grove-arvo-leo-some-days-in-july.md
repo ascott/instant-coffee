@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 1
 type: ""
+venue: "CULTURAL HARMONY GROVE"
 summary: "CULTURAL HARMONY GROVE | ARVO LEO | SOME DAYS IN JULY"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 43
 type: ""
+venue: "JOB"
 summary: "JOB | Western Front | Executive Director | APR 26"
 ---
 

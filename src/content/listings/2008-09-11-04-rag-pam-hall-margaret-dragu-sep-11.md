@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 4
 type: ""
+venue: "RAG"
 summary: "RAG | Pam Hall & Margaret Dragu | SEP 11"
 ---
 
@@ -33,13 +34,13 @@ history in four parts", documenting a five year process of site-specific
 installation on the land and water across Canada and in Japan, was
 purchased by the National Gallery of Canada for its Permanent Collection.
 Her most recent interdisciplinary installation "New Readings In Female
-Anatomy", opened at the AGNL in St. JohnÃ¢ï¿½ï¿½s in 2001, and traveled to
+Anatomy", opened at the AGNL in St. Johnâ��s in 2001, and traveled to
 Carleton University Art Gallery 2002. In addition to her visual arts
-practice, Hall has written and illustrated childrenÃ¢ï¿½ï¿½s books, teaches
+practice, Hall has written and illustrated childrenâ��s books, teaches
 graduate students in the United States, and works as a production designer
 in the film industry. Her work on "Rare Birds" was recognized for
-Outstanding Achievement in Production Design by the DirectorÃ¢ï¿½ï¿½s Guild of
-Canada. She lives and works in St. JohnÃ¢ï¿½ï¿½s.
+Outstanding Achievement in Production Design by the Directorâ��s Guild of
+Canada. She lives and works in St. Johnâ��s.
 
 Margaret Dragu is a warm-hearted, fearless and indomitable spirit who has
 left her mark across disciplines and across the country. Dragu's
@@ -56,7 +57,7 @@ activating public projects including the multi-faceted Walking Woman in
 association with the RAG.
 
 Participating artists will be in attendance. An Artist Talk with Margaret
-Dragu will be held on Nov 14, Friday from 5 Ã¢ï¿½ï¿½ 6pm. Opening Reception is
+Dragu will be held on Nov 14, Friday from 5 â�� 6pm. Opening Reception is
 September 11 from 7 - 9pm.
 
 Emily Rosamond

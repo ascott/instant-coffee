@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 7
 type: "TALK"
+venue: "Artspeak"
 summary: "Artspeak | Matt Browning and Jordy Hamilton Conversation | DEC 13"
 ---
 

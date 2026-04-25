@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 8
 type: "PERFORMANCE"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Free LIVE Performances | SEP 30"
 ---
 

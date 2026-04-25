@@ -261,12 +261,12 @@ art+music+food+drink+friends=love
 REECE TERRIS
 
 Opening Reception: Thursday 12 February 6-9pm (Reece Terris in Attendance)
-Exhibition Dates: 05 February Â­ 15 March 2009
+Exhibition Dates: 05 February ­ 15 March 2009
 
 The Jennifer Kostuik Gallery is pleased to announce the first solo
 exhibition with interdisciplinary artist Reece Terris. The exhibit consists
 of two parts. The first features new work based on the process of creating
-the artistÂ¹s large-scale installation project for the Vancouver Art Gallery,
+the artist¹s large-scale installation project for the Vancouver Art Gallery,
 entitled Ought Apartment. The second part of the exhibit provides a survey
 of prominent works by Terris from 2002 to the present.
 
@@ -280,20 +280,20 @@ choices of the era, with exterior walls removed to allow views within. In
 keeping with the authenticity and architectural accuracy of the work, the
 dimensions of each apartment fluctuate so that the design at each level
 indicates the floor plan specific to that decade. As a result, each floor
-reflects the dimension, layout and dÃ©cor emblematic of that periodÂ¹s
+reflects the dimension, layout and décor emblematic of that period¹s
 domestic living and interior design arrangements.
 
-The front section of the Jennifer Kostuik Gallery will feature TerrisÂ¹ new
+The front section of the Jennifer Kostuik Gallery will feature Terris¹ new
 photographic series, Interior Views. These photographs capture interior
 scenes from homes slated for demolition, when the artist was in the process
 of removing and recycling household objects to be used in the Ought
 Apartment installation. They are testimonies of the last stand in time for a
-home, depicting a lone chair or a childÂ¹s drawings on a blank wall, before
+home, depicting a lone chair or a child¹s drawings on a blank wall, before
 its final destruction. The photographs are a considered attempt to emphasize
-the role played by objects in culture Â­ to allow the viewer to witness the
+the role played by objects in culture ­ to allow the viewer to witness the
 fugitive character of their own commitment to consumption. Ideas of
 conservation, maintenance and sustainability permeate the work, reflecting
-the artistÂ¹s investigation towards the enduring nature of material culture
+the artist¹s investigation towards the enduring nature of material culture
 while critiquing of the ethical and environmental costs to which we will
 satisfy the ideal that our home is a refection of ourselves.
 
@@ -302,7 +302,7 @@ Biography
 Born and raised in Vancouver, Terris has traveled and worked as a
 professional carpenter in different countries around the world. His art
 practice extends into a variety of media, including sculptural installation,
-performance, video and photography. TerrisÂ¹ work has been exhibited
+performance, video and photography. Terris¹ work has been exhibited
 throughout Canada and the USA: Spectacle and Artifice (2008), The Macdonald
 Stewart Art Centre, ON; Contrasting Objectives (2006), Whatcom Museum of
 History & Art, Bellingham, WA; Campsites (2005), The Walter Phillips
@@ -1165,7 +1165,7 @@ ultimately deal with that Thing which defies signification.
 Laura Mulvey came to prominence in the 1970s as a filmmaker and theorist.
 She wrote essays for such periodicals/journals as Screen, Spare Rib, and
 Seven Days. Much of her early work investigated questions of spectatorial
-identification and itÃ¢ï¿½ï¿½s relationship to the male gaze, and her writings,
+identification and itâ��s relationship to the male gaze, and her writings,
 particularly the 1975 essay Visual Pleasure and Narrative Cinema, helped
 establish feminist film theory as a bourgeoning legitimate field of study.
 Between 1794 and 1982, Mulvey co-wrote and co-directed six theoretical
@@ -1178,10 +1178,10 @@ examining the fate of revolutionary monuments in the Soviet Union after the
 fall of communism. In 1996, she published Fetishism and Curiosity and in
 2006, Death 24x a Second: Stillness and the Moving Image.
 
-Laura MulveyÃ¢ï¿½ï¿½s lecture was made possible by the Joan Carlisle Irving
+Laura Mulveyâ��s lecture was made possible by the Joan Carlisle Irving
 Lecture Series and thanks to generous contributions provided by the
-PresidentÃ¢ï¿½ï¿½s Advisory Committee on Lectures, UBC and from The Center for
-WomenÃ¢ï¿½ï¿½s and Gender Studies, UBC
+Presidentâ��s Advisory Committee on Lectures, UBC and from The Center for
+Womenâ��s and Gender Studies, UBC
 
 More information: http//www.ahva.ubc.ca/eventsCurrentJCI.cfm
 UBC Department of Art History, Visual Art and Theory
@@ -1262,7 +1262,7 @@ include: Argument Son - Critique electroacoustique de la societe;
 Sexbeat; 2000 Schallplatten; Loving the Alien (Editor); andYo!
 Hermeneutics-Schwarze Kulturkritik: Pop, Medien, Feminismus (Editor).
 He is currently professor of Theory, Practice and Communication of
-Contemporary Art at the Akademie der Bildenden KÃ¼nste in Vienna.
+Contemporary Art at the Akademie der Bildenden Künste in Vienna.
 
 Sylvie Fortin is Editor-in-Chief of Art Papers and is based in
 Atlanta. A curator, art historian, critic and editor, she has worked
@@ -1306,7 +1306,7 @@ British Columbia.
 
 Tirdad Zolghadr works as a freelance curator, writes for Frieze
 magazine and has also contributed to Parkett, Bidoun, Cabinet,
-Afterall, Neue ZÃ¼rcher Zeitung, Straits Times Singapore, and other
+Afterall, Neue Zürcher Zeitung, Straits Times Singapore, and other
 publications. Since 2004, Zolghadr has curated events at Cubitt
 London, IASPIS Stockholm, Kunsthalle Geneva, various Tehran art spaces
 and other venues. He was co-curator of the International Sharjah
@@ -1360,7 +1360,7 @@ and social network sites.
 We are looking for an individual with good people skills, able to negotiate
 delicate and competing interests, has experience working within a budget
 and can offer creative and innovative solutions to challenges. This
-individual should work well in an artistÃ¢ï¿½ï¿½s environment and be able to
+individual should work well in an artistâ��s environment and be able to
 coordinating a dynamic group of contractors to deliver and promote our
 programming. Ideally the candidate should enjoy working as part of a team,
 but be able to initiate and complete projects independently as required.
@@ -1379,7 +1379,7 @@ Qualified applicants please apply by March 1st 2009 with
 Resume and Cover Letter in confidence to:
 gruntHR@yahoo.com
 
-Please label: Search Committee Ã¢ï¿½ï¿½ Programming and Communications
+Please label: Search Committee â�� Programming and Communications
 Coordinator, grunt gallery
 
 
@@ -1670,7 +1670,7 @@ the artists and works from those submitting proposals for exhibition.
 Center of the Inter-American Development Bank, in Washington, DC, 1300 New
 York Avenue, NW, Washington, DC, 20577 USA for approximately six weeks.
 
-11. A catalogue reproducing all the selected works and the artistsÃ¢ï¿½ï¿½
+11. A catalogue reproducing all the selected works and the artistsâ��
 biographies will be published for the exhibition.
 
 12. The IDB Cultural Center will promote the exhibit in Washington, DC, and

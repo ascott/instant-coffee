@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 2
 type: "OPENING"
+venue: "ECUAD"
 summary: "ECUAD | Polyphony | ECUAD's MFA Interim 2019 Exhibition | MAR 22"
 ---
 

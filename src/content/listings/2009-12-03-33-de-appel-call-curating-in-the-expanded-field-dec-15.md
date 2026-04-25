@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 33
 type: ""
+venue: "de Appel"
 summary: "de Appel | CALL: Curating in the expanded field | DEC 15"
 ---
 
@@ -70,8 +71,8 @@ other professionals from the Netherlands and abroad in a very condensed
 period of time, and having the chance to exchange ideas with them, either
 during thematic seminars or during informal encounters. Guest teachers over
 the past years have been e.g. Carlos Basualdo (US) , Gerardo Mosquera
-(CU/US), Paul O'Neill (GB), Jacques RanciÃ¨re (FR), Simon Sheik (SE), Pier
-Luigi Tazzi (IT), Teresa Gleadowe (UK) and Nina MÃ¶ntmann.
+(CU/US), Paul O'Neill (GB), Jacques Rancière (FR), Simon Sheik (SE), Pier
+Luigi Tazzi (IT), Teresa Gleadowe (UK) and Nina Möntmann.
 
 - the opportunity to get acquainted with de Appel from 'the inside', and
 get a better

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | A PRACTICE IN GESTURES | SEP 10"
 ---
 

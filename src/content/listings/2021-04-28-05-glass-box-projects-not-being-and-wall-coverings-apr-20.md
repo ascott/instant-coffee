@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Glass Box Projects"
 summary: "Glass Box Projects | “Not Being” and “WALL COVERINGS” | APR 20"
 ---
 

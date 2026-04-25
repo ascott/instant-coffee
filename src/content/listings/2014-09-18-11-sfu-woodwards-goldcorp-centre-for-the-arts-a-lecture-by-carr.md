@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 11
 type: ""
-summary: "SFU Woodwardâ€™s Goldcorp Centre for the Arts | A LECTURE BY CARRIE MACLEOD: Performing Home | SEP 30"
+venue: "SFU Woodward’s Goldcorp Centre for the Arts"
+summary: "SFU Woodward’s Goldcorp Centre for the Arts | A LECTURE BY CARRIE MACLEOD: Performing Home | SEP 30"
 ---
 
-SFU Woodwardâ€™s Goldcorp Centre for the Arts
+SFU Woodward’s Goldcorp Centre for the Arts
 
 PERFORMING HOME: ENACTING A NEW CHOREOGRAPHY OF BELONGING, A LECTURE BY
 CARRIE MACLEOD
@@ -15,7 +16,7 @@ Tue, 30 Sep 2014 7:00 PM
 
 Is there an art to reinventing home in the upheaval of displacement? This
 evening will offer a feast of poetic narratives on how communities in
-transition are creating new spaces of belonging â€“ against all odds.
+transition are creating new spaces of belonging – against all odds.
 
 In considering the multiple meanings of home in this contemporary global
 culture, we will ask who is making room for whom when frictions from forced

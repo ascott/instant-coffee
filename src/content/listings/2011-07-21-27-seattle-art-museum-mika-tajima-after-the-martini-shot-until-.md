@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 27
 type: ""
+venue: "Seattle Art Museum"
 summary: "Seattle Art Museum | Mika Tajima: After the Martini Shot | until | JUN 17"
 ---
 
 SAM : Mika Tajima 
 After the Martini Shot 
-July 16, 2011â€“June 17, 2012 
+July 16, 2011–June 17, 2012 
 SAM Third Floor Galleries 
 
 Innovative in her approach, Mika Tajima combines painting, sculpture, design, 
@@ -23,17 +24,17 @@ objects in a gallery. A video projection, a painting rack, double-sided painting
 wheels, and freestanding lamps, alongside wall-mounted paintings are brought 
 together in an installation that will begin to burst at the seams.
 
-A graduate of the New Genres MFA Program at New Yorkâ€™s Columbia University, 
-Tajimaâ€™s interdisciplinary practice embraces a wide-range of influence, including 
+A graduate of the New Genres MFA Program at New York’s Columbia University, 
+Tajima’s interdisciplinary practice embraces a wide-range of influence, including 
 critiques of modernism and its failures, the legacy of minimalism, as well as 
-modernist architecture, including the modular structures of Herman Millerâ€™s 
+modernist architecture, including the modular structures of Herman Miller’s 
 Action Office designs of the late 1960s. Often working collaboratively, the artist 
 has worked on projects with Vito Acconci, Charles Atlas, Judith Butler, and the 
 Brooklyn-based noise band, New Humans, of which she is a founding member. 
 Tajima is the sixth artist selected for a solo exhibition in the SAM Next series, the 
-Seattle Art Museumâ€™s contemporary art exhibition program.
+Seattle Art Museum’s contemporary art exhibition program.
 
-â€”Marisa C. SÃ¡nchez, Assistant Curator of Modern & Contemporary Art
+—Marisa C. Sánchez, Assistant Curator of Modern & Contemporary Art
 
 This exhibition is organized by the Seattle Art Museum.
 
@@ -70,7 +71,7 @@ pnwong2@yahoo.ca
 
 2.
 Gam Gallery | two openings for shared studio space
-The Gam is a studio, gallery and boutique located in Vancouverâ€™s downtown east 
+The Gam is a studio, gallery and boutique located in Vancouver’s downtown east 
 side and fronts an artist-only building at 110 E Hastings St (ACME Studios). We 
 are looking to expand our studio operations and currently have two openings for 
 shared studio space. As a Gam studio mate you will enjoy 24 hour access to 
@@ -135,7 +136,7 @@ WEDNESDAY JULY 20th, 2011 till SATURDAY JULY 23rd, 2011
 
 RFD_SHOP HOURS:
 WEDNESDAY to SATURDAY
-12:00 PM â€“ 5:00 PM
+12:00 PM – 5:00 PM
 
 LOCATION:
 318 Industrial Ave.

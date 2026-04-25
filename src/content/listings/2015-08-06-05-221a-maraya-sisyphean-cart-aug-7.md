@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 5
 type: "OPENING"
+venue: "221A"
 summary: "221A | Maraya: Sisyphean Cart | AUG 7"
 ---
 
 Maraya: Sisyphean Cart
-August 4â€“29, 2015
+August 4–29, 2015
 M. Simon Levin, Glen Lowry and Henry Tsang
 
 Opening Reception
@@ -17,8 +18,8 @@ Friday, Aug 7 at 7:00pm
 Artist Talk
 Saturday, Aug 8 at 2:00pm
 
-Maraya: Sisyphean Cart is a mobile â€˜sousveillanceâ€™ cart that conducts a
-site-specific participatory spatial investigation of Vancouverâ€™s False
+Maraya: Sisyphean Cart is a mobile ‘sousveillance’ cart that conducts a
+site-specific participatory spatial investigation of Vancouver’s False
 Creek and the Dubai Marina. It premiered at the 20th International
 Symposium on Electronic Art (ISEA) in Dubai in November 2014, and completes
 its second leg for ISEA 2015 in Vancouver. This custom-designed hand-drawn
@@ -32,15 +33,15 @@ generatively remixing its HD video capture with imagery from its
 doppelganger. Archetypal architectural forms surround the camera,
 reflecting the master-planned urban landscape that in turn reflects the
 design and desire of lifestyle and capital that is so fluid and mobile in
-todayâ€™s globalized economies. The cart itself, and significantly the
-pulling of it, invokes the spectre of labour â€” purposeful walking as a form
-of resistance to readily consumed images of idealized leisure â€” and the
+today’s globalized economies. The cart itself, and significantly the
+pulling of it, invokes the spectre of labour — purposeful walking as a form
+of resistance to readily consumed images of idealized leisure — and the
 Sisyphean weight of this vision.
 
 Read more: http://221a.ca/maraya
 
 221A
 221 E Georgia St
-Tuesâ€“Fri 10amâ€“5pm
-Sat 12â€“5pm
+Tues–Fri 10am–5pm
+Sat 12–5pm
 Free and Open to Public

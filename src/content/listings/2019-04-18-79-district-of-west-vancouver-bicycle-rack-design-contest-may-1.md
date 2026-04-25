@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 79
 type: "CALL"
+venue: "District of West Vancouver"
 summary: "District of West Vancouver | Bicycle Rack Design Contest | MAY 15"
 ---
 

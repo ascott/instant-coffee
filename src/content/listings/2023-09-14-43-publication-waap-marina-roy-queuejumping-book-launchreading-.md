@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 43
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | WAAP | Marina Roy Queuejumping Book launch&reading | 2PM | SEP 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 5
 type: ""
+venue: "Blanket"
 summary: "Blanket | Corin Sworn | DEC 9"
 ---
 
@@ -14,7 +15,7 @@ Opening Reception Thursday December 9th, 2010, 6-9pm
 
 Blanket Gallery is pleased to present a second solo exhibition with Corin
 Sworn.
-Swornâ€™s exhibition for Blanket Gallery continues her interest in the
+Sworn’s exhibition for Blanket Gallery continues her interest in the
 use of artifacts as indexes to assist particular stories. Her present work
 examines the reflexive viewer or reader as they make sense of their
 experience through the interpretive acts that these stories encourage.
@@ -22,7 +23,7 @@ experience through the interpretive acts that these stories encourage.
 In the video work The Lens Prism an actor performs various narratives in an
 empty theatre. These stories are delivered either as memory or as the
 citation of research. Each describes some structure of digressions- Chris
-Markerâ€™s La Jette, a poem by Raymond Roussel or the Great Exhibition of
+Marker’s La Jette, a poem by Raymond Roussel or the Great Exhibition of
 1851. The stories although reflecting one another remain separate and
 contemplation is prolonged as a movement though rather than as a conclusion
 to be reached.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 10
 type: "OPENING"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | We cast Spells on the Mothers... | 6PM | AUG 14"
 ---
 

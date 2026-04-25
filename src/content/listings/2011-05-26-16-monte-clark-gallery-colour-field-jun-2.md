@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 16
 type: ""
+venue: "MONTE CLARK GALLERY"
 summary: "MONTE CLARK GALLERY | COLOUR FIELD | JUN 2"
 ---
 
@@ -22,7 +23,7 @@ These misty landscapes float somewhere near minimalism, the focus of
 the viewer drawn towards the fog shapes. In certain images the hues
 are dreamy, while in others the smoke infusion appears bizarre. The
 contrast of the synthetic within these outdoor settings results in
-unearthly landscapes, highlighting Bubasâ€™s well-known ability to
+unearthly landscapes, highlighting Bubas’s well-known ability to
 create mysterious and captivating narratives within her images.
 
 MONTE CLARK GALLERY

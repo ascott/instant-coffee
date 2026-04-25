@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 22
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Kids First Saturday | 11AM - 3PM | NOV 2"
 ---
 

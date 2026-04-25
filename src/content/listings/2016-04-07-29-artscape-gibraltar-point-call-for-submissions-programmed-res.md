@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 29
 type: "CALL"
+venue: "Artscape Gibraltar Point"
 summary: "Artscape Gibraltar Point | Call for Submissions: PROGRAMMED RESIDENCY Alchemy | APR 15"
 ---
 

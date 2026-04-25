@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 24
 type: "OPENING"
+venue: "(unofficial) Emily Carr Graduate Show"
 summary: "(unofficial) Emily Carr Graduate Show | \"theres a bus loop by our house And An Art Show... | MAY 6"
 ---
 

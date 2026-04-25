@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 14
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | 2024.SMALLFILE.CA | Small File Media Festival | OCT 18"
 ---
 

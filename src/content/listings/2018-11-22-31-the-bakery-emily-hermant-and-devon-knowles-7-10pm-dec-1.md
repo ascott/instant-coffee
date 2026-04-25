@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 31
 type: "OPENING"
+venue: "The Bakery"
 summary: "The Bakery | Emily Hermant and Devon Knowles | 7-10pm | DEC 1"
 ---
 

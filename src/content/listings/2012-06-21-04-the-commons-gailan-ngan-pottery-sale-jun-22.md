@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 4
 type: ""
+venue: "The Commons"
 summary: "The Commons | Gailan Ngan - Pottery Sale | JUN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 22
 type: "EDUCATION"
+venue: "Online"
 summary: "Online | Art at Work: Tax Basics for Artists | FEB 3"
 ---
 

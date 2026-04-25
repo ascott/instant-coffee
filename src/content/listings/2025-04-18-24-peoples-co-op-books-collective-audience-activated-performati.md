@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 24
 type: "EVENT"
+venue: "People's Co-Op Books"
 summary: "People's Co-Op Books | Collective Audience Activated Performative Reading | APR 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 13
 type: ""
+venue: "Richmond Public Art Commission"
 summary: "Richmond Public Art Commission | Public Art Call | OCT 2"
 ---
 

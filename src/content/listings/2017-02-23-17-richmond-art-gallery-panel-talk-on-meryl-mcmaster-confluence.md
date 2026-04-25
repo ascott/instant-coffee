@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 17
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Panel Talk on Meryl McMaster | Confluence | FEB 25"
 ---
 

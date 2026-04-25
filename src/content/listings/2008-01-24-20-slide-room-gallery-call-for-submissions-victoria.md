@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 20
 type: ""
+venue: "Slide Room Gallery"
 summary: "Slide Room Gallery |  Call for Submissions | Victoria"
 ---
 

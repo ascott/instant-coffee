@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 34
 type: "EVENT"
+venue: "Catherdral Square Park"
 summary: "Catherdral Square Park | What Are Our Supports: DRIL Art Collect | June 4-9 | JUN 4"
 ---
 

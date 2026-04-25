@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JUNE 21 THIRD BEACH SUNSET SLOWDAN
 emailDate: "Thu, 18 Jun 2009 09:14:05 -0700"
 number: 9
 type: ""
+venue: "Creative Places + Spaces"
 summary: "Creative Places + Spaces | Bursary | JUL 13"
 ---
 

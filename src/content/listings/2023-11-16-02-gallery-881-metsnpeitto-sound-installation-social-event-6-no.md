@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 2
 type: "EVENT"
+venue: "Gallery 881"
 summary: "Gallery 881 | metsänpeitto Sound Installation & Social Event | 6 | NOV 17"
 ---
 

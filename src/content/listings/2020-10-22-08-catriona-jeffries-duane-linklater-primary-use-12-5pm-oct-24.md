@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 8
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Duane Linklater - primary use | 12-5PM | OCT 24"
 ---
 

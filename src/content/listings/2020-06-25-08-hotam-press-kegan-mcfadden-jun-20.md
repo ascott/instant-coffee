@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Kegan McFadden | JUN 20"
 ---
 

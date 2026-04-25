@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 7
 type: "TALK"
+venue: "Audain Gallery [ONLINE]"
 summary: "Audain Gallery [ONLINE] | Amy Lam in Conversation w/HaeAhn Kwon | 12PM | OCT 24"
 ---
 

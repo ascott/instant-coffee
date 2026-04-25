@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 37
 type: ""
+venue: "Richmond Arts Centre"
 summary: "Richmond Arts Centre | Phytograms: Plant-Based Photo-Processing | AUG 20"
 ---
 

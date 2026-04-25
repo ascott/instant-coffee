@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 13
 type: ""
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | EMPLOYMENT OPPORTUNITY | MAR 1"
 ---
 
@@ -41,7 +42,7 @@ explore and think differently about creativity and how it shapes our
 world. Located in beautiful and culturally rich Vancouver, British 
 Columbia, Emily Carr attracts more than 1800 students from 60 
 countries to our undergraduate and graduate programs. 
-Letters of application should address the candidateâ€™s expertise in the 
+Letters of application should address the candidate’s expertise in the 
 areas of teaching, pedagogical philosophy, current research, 
 professional work and community service. The applicant should include 
 a current curriculum vitae and supporting material including a CD or 

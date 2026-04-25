@@ -4,22 +4,23 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 17
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Catherine Pulkinghorn: Home Dream Home | NOV 28"
 ---
 
 Catherine Pulkinghorn: Home Dream Home
-November 29, 2014 â€“ January 10, 2015
+November 29, 2014 – January 10, 2015
 
 Opening Reception Friday, November 28, 2014, 7:00 pm
 
 In Home Dream Home, Catherine Pulkinghorn integrates her reflections on
-becoming a first-time home buyer in Vancouverâ€™s thriving pre-sale
+becoming a first-time home buyer in Vancouver’s thriving pre-sale
 condominium market. With information gathered from industry professionals
 who responded to her invitation to collaboratively form an on-site,
 post-occupancy evaluation of her apartment, she interrogates the gap
 between rhetoric and reality in the home-buying experience and explores how
 even idealized projects promoted as providing an opportunity for
-affordability can be much more marketing than truth. Pulkinghornâ€™s ultimate
+affordability can be much more marketing than truth. Pulkinghorn’s ultimate
 aim is to distribute a set of research and findings to Vancouver citizens
 engaged in the (onerous) search for affordable housing. As meetings with
 participating designers, planners, developers, financiers, architects, and

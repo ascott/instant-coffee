@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 4
 type: "TALK"
+venue: "MOA [ONLINE]"
 summary: "MOA [ONLINE] | Curator Tour of Shame and Prejudice | 7PM | OCT 22"
 ---
 

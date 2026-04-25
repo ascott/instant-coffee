@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 12
 type: ""
+venue: "UBC"
 summary: "UBC | Associate or Assistant Professor in Visual Art | DEC 1"
 ---
 

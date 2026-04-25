@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 34
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Corpus | 6:30-8pm | JAN 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 27
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Wishing on My Falsies | 5PM | JAN 11"
 ---
 

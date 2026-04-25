@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 14
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Happy Hour with artist Skawennati | AUG 16"
 ---
 

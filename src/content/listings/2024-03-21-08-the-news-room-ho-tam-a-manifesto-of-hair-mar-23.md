@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 8
 type: "OPENING"
+venue: "The News Room"
 summary: "The News Room | Ho Tam - A Manifesto of Hair | MAR 23"
 ---
 

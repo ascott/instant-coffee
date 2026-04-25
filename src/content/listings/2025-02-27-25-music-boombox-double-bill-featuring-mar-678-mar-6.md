@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 25
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | BOOMBOX | DOUBLE BILL featuring: | MAR 6,7,8 | MAR 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 11
 type: ""
+venue: "Republic Gallery"
 summary: "Republic Gallery | Raymond Boisjoly | SEP 16"
 ---
 
@@ -40,7 +41,7 @@ Contingent Matters (2011) at the Vancouver Public Library and All That Was, Will
 Always Have Been, Somehow Never Again (2010) at Access Gallery 
 (Vancouver, BC). Boisjoly was awarded a Fleck Fellowship from the Banff 
 Centre for the Arts in 2010 and participated in the thematic residency La 
-Commune. The Asylum. Die BÃ¼hne. at the Banff Centre in 2011.
+Commune. The Asylum. Die Bühne. at the Banff Centre in 2011.
 
 Boisjoly would like to acknowledge the support of the Canada Council for the 
 Arts.

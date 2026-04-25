@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 6
 type: ""
+venue: "Contemporary Art Society of Vancouver"
 summary: "Contemporary Art Society of Vancouver | Artist Talk: INSTANT COFFEE | DEC 2"
 ---
 

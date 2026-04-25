@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 7
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | GACHET SALON with Rodney DeCroo | FEB 25"
 ---
 
@@ -24,7 +25,7 @@ poems written by Rodney dealing with his early childhood and
 adolescence in a coal mining town just outside Pittsburgh, 
 Pennsylvania. Producer Rob Malowney recorded Rodney reading the 
 poems and then composed and recorded music for each piece. The 
-title is based on the Allegheny river which winds through DeCrooâ€™s 
+title is based on the Allegheny river which winds through DeCroo’s 
 childhood home of western Pennsylvania, merging with the 
 Monongahela River at the heart of Pittsburgh to become the Ohio 
 River: 
@@ -113,7 +114,7 @@ Chris Hillman, Blue Rodeo, Gordon Lightfoot and Jennifer Warnes on
 The Gift: A Tribute To Ian Tyson released by Stony Plain Records and 
 distributed by Warner Music. The version of the Tyson classic, 
 Someday Soon, was chosen by the Toronto Star chose as the Top 
-Track after rating the album 3Â½ out of 4 Stars. dougandrewmusic.com 
+Track after rating the album 3½ out of 4 Stars. dougandrewmusic.com 
 
 MARK HANEY- BIO
 Mark is a double bass composer and performer. Last year he released 
@@ -124,20 +125,20 @@ Vancouver Province). On May 11 Redshift Music and MARS Quartet will
 debut Mark's new work "3339: A Hero's Journey". (aimfortheroses.com)
 
 THE MINIMALIST JUG BAND- BIO
-Each new recording by Vancouverâ€™s Al Mader brings him further into 
-the realm of something like popular music. His first CD, 2003â€™s For 
+Each new recording by Vancouver’s Al Mader brings him further into 
+the realm of something like popular music. His first CD, 2003’s For 
 Crying Out Loud, produced by Chris Houston, had self-deprecating, 
 blackly witty poetry set to sparse, self-taught washtub bass, with 
 abundant references to a pop-cultural scene that Mader then seemed 
 irreconcilable with. Thrift Stories (2007) saw the addition of banjos, 
-guitars, and jug, with guests like Maderâ€™s performing cohort Petunia 
+guitars, and jug, with guests like Mader’s performing cohort Petunia 
 and former Red Herring guitarist Steve Nikleva. It was a strangely 
 exuberant affair, including Maderâ€™s â€œDead Manâ€™s Pantsâ€  (given added 
 local fame by a novelty-tune rearrangement by the Creaking Planks) 
 and â€œRaven or Crowâ€ , which suggests Nick Cave gone rockabilly.
-Maderâ€™s most recent disc, Naive Ville, amps it up even furtherâ€”itâ€™s his 
+Mader’s most recent disc, Naive Ville, amps it up even further—it’s his 
 most confident and most musical offering to date, evoking at times the 
-hobo-jungle equivalent of Black Riderâ€“era Tom Waits, with Maderâ€™s 
+hobo-jungle equivalent of Black Rider–era Tom Waits, with Mader’s 
 obsessive plunkings enriched by trumpets, accordion, keyboards, 
 violin, saw, whistling, and guitar, and songs spanning his trip to Iceland 
 (â€œReykjavikâ€ ), his disenfranchisement from the holiday season (â€œLetâ€™s 

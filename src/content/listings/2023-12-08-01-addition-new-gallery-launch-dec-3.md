@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Addition"
 summary: "Addition | NEW GALLERY LAUNCH | DEC 3"
 ---
 

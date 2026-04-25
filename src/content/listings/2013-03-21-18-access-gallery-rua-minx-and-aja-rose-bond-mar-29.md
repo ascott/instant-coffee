@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 18
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Rua Minx and Aja Rose Bond | MAR 29"
 ---
 
@@ -49,7 +50,7 @@ divination, symbols and geometry to align and reveal the more hidden
 elemental and energetic aspects of the work.
 
 Born in Chicago, Huanca received a BFA from the University of Houston
-(2004) and studied at StÃƒÆ’Ã‚Â¤delschule, Frankfurt, Germany (2009-10). The
+(2004) and studied at StÃƒÂ¤delschule, Frankfurt, Germany (2009-10). The
 recent recipient of a Fulbright Scholarship, Huanca lived and worked in
 Mexico City in 2012. Huanca has developed a nomadic practice producing
 site-specific projects and exhibitions throughout the United States,

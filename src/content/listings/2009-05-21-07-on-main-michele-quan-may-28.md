@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 7
 type: ""
+venue: "ON MAIN"
 summary: "ON MAIN | Michele Quan | MAY 28"
 ---
 

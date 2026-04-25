@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 20
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Video Bar: The Future Was Wide Open | MAR 29"
 ---
 
@@ -20,7 +21,7 @@ As part of their ongoing research into the subject of the future,
 Cranfield and Slade will present a selection of YouTube videos for the 
 Video Bar at VIVO, drawing from music videos, clips and trailers from 
 movies, and assorted other future-oriented footage. The subject of the 
-future extends and broadens Cranfield and Sladeâ€™s interest in the 
+future extends and broadens Cranfield and Slade’s interest in the 
 notions of melancholia and nostalgia, particularly as expressed by and 
 through popular music. A curious and liminal state, the future is 
 ultimately heralded from the position of the past like a projection from 

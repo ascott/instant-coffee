@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 53
 type: "CALL"
+venue: "Hatch Gallery"
 summary: "Hatch Gallery | Call for Submissions | JUN 27"
 ---
 

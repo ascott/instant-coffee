@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 18
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | 24th Annual Chutzpah! Festival | NOV 1 - NOV 10 | NOV 1"
 ---
 

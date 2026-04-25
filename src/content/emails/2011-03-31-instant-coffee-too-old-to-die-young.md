@@ -997,7 +997,7 @@ see bear fruit. The Commune was violently suppressed at the end
 of May, with more than 20,000 Parisians killed in street fighting or 
 summarily executed. This March through May 2011, a group of SFU 
 faculty and students will mark the 140th anniversary of the 
-Commune by declaring La Commune de Vancouverâ€”a series of 
+Commune by declaring La Commune de Vancouver—a series of 
 talks, film screenings, presentations, colloquia, poetry readings, 
 performances, and provocations, many in both French and English. 
 Events will be held at SFU Burnaby and in downtown Vancouver 

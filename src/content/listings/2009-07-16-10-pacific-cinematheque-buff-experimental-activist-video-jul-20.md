@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
 emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
 number: 10
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | BUFF: Experimental + Activist Video | JUL 20"
 ---
 
@@ -25,7 +26,7 @@ lo-fi, experimental and, above all, uncompromising body of film and video. This 
 acknowledges the origins of this tradition, while focusing on contemporary examples of those 
 persevering against the odds of creating media in a dying rustbelt town.
 
-Buffalo WeÂ’re Looking Good!, WKBW | 1980s | 1mins | video
+Buffalo Were Looking Good!, WKBW | 1980s | 1mins | video
 Oscular Pets, Tony Conrad | 2003 | 7mins | video
 Main Attraction, Paris Henderson | 2006 | 5mins | video
 Fork, Chris Ernst | 2007 | 3.5 mins | video/ 16mm

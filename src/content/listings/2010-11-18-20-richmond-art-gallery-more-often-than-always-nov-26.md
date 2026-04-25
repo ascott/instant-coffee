@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 20
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | MORE OFTEN THAN ALWAYS | NOV 26"
 ---
 
@@ -30,7 +31,7 @@ imaginary solutions to real questions, curated by Noxious Sector (Doug
 Jarvis and Ted Hiebert}.
 
 Artists: hannah_g, Julie Gendron & Emma Hendrix, Tetsushi Higashino, Gordon
-Lebredt, Chikako Maria Mori & Boris Nieslony, FranÃ§ois Mathieu, Arjuna
+Lebredt, Chikako Maria Mori & Boris Nieslony, François Mathieu, Arjuna
 Neuman, and Anne-Marie Proulx.
 
 5th Annual Trading Cards Exhibition November 26, 2010 â�� January 23, 2011

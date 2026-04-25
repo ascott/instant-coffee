@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 8
 type: "CALL"
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | Dawson Residency Award & $1000 Bursary | APR 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 18
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Ben Frey | An Exquisite Corpse Drawing Evening | OCT 30"
 ---
 
@@ -19,7 +20,7 @@ the test as you create non-sensical and often hilarious drawings.
 Addmission is free, but seating is limited; call 604-297-4422 to reserve 
 your spot. 19 years and up. Event is facilitated by artist, Ben Frey.
 
-See Ben Freyâ€™s offsite exhibition with the Burnaby Art Gallery at Bob Prittie 
+See Ben Frey’s offsite exhibition with the Burnaby Art Gallery at Bob Prittie 
 Library (Metrotown), October 6-December 7.
 
 Carmen Lam 

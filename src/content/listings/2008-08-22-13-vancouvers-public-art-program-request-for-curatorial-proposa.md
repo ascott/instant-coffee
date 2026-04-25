@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 13
 type: "CALL"
+venue: "Vancouver's Public Art Program"
 summary: "Vancouver's Public Art Program | Request for Curatorial Proposals | SEP 10"
 ---
 

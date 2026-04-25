@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 10
 type: ""
+venue: "NEWS"
 summary: "NEWS | Artspeak | Summer Window, Summer Reading, Summer Holidays | AUG 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 32
 type: "CALL"
+venue: "New Aesthetics 2015"
 summary: "New Aesthetics 2015 | Call for Applications | FEB 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 9
 type: "OPENING"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Sara Faridamin - A Lived Temporality | 6PM | APR 11"
 ---
 

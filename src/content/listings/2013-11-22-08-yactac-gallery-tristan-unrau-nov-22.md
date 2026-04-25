@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 8
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Tristan Unrau | NOV 22"
 ---
 

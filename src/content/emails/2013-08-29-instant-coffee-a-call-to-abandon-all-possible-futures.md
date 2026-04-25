@@ -23,7 +23,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-08-29-09-waap-jonah-samson-sep-5">09. WAAP | JONAH SAMSON | SEP 5</a>
 <a href="/instant-coffee/listings/2013-08-29-10-republic-gallery-jim-breukelman-sep-6">10. REPUBLIC GALLERY | JIM BREUKELMAN | SEP 6</a>
 <a href="/instant-coffee/listings/2013-08-29-11-league-the-n-games-sep-8">11. League | The n Games | SEP 8</a>
-<a href="/instant-coffee/listings/2013-08-29-12-grunt-gallery-josephin-bttger-sergej-tolksdorf-sep-12">12. grunt gallery | Josephin BÃ¶ttger & Sergej Tolksdorf | SEP 12</a>
+<a href="/instant-coffee/listings/2013-08-29-12-grunt-gallery-josephin-bttger-sergej-tolksdorf-sep-12">12. grunt gallery | Josephin Böttger & Sergej Tolksdorf | SEP 12</a>
 <a href="/instant-coffee/listings/2013-08-29-13-malaspina-printmakers-presents-net-eth-going-out-of-the-dark">13. malaspina printmakers presents | NET-ETH: Going out of the Darkness | SEP 13</a>
 <a href="/instant-coffee/listings/2013-08-29-14-the-gam-gallery-serrah-russell-and-lauren-d-zbarsky-sep-13">14. The Gam Gallery | Serrah Russell and Lauren D. Zbarsky | SEP 13</a>
 <a href="/instant-coffee/listings/2013-08-29-15-chinese-cultural-centre-museum-paintings-of-james-k-m-and-sy">15. Chinese Cultural Centre Museum | Paintings of James K-M and Synn Kune Loh | SEP 14</a>
@@ -43,20 +43,20 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-08-29-01-new-forms-festival-http2013newformsfestivalcom">01. New Forms Festival | http://2013.newformsfestival.com/</a>
 ------------------------------------------------------------------------
 22 days to go! Rider Shafique, Hypercube, Lars Bang Larsen RA Sessions, 
-RBMA Radio and moreâ€¦
+RBMA Radio and more…
 August 22nd, 2013
-As we move closer to the final days of summer, this yearâ€™s New Forms 
-Festival continues to heat up with a number of additions to this yearâ€™s bill. 
-New Forms is thrilled to be adding one of the most sought after MCâ€™s in the 
+As we move closer to the final days of summer, this year’s New Forms 
+Festival continues to heat up with a number of additions to this year’s bill. 
+New Forms is thrilled to be adding one of the most sought after MC’s in the 
 UK, Rider Shafique. He will be accompanying Kahn for this special 
 performance.
 
 As well, New Forms will be welcoming The World Premiere of 1024 
-Architectureâ€™s Hypercube. The Paris based artistic team has been making 
+Architecture’s Hypercube. The Paris based artistic team has been making 
 waves all over the world with their thrilling audio-visual instalments, micro-
 architecture and invention by focusing on the interaction between body, 
-space, sound, performance and hi and low-tech visuals. Hypercube â€“ a 10 
-meter cube made from scaffolding and construction materials â€“ will be open to 
+space, sound, performance and hi and low-tech visuals. Hypercube – a 10 
+meter cube made from scaffolding and construction materials – will be open to 
 entry so people can explore the construction that is part kinetic sculpture and 
 part architectural invention. To enter the cube is to imagine our urban future 
 differently. Unlike, or perhaps exactly like, our emerging landscape; the 
@@ -66,10 +66,10 @@ Friday, September 13th at 10 pm, 10:15, 10:30, and 10:45.
 Finally, independent curator and writer, Lars Bang Larsen will be presenting 
 his work on psychedelia and amplification in an artist talk at the Western 
 Front. Larsen is known for his seminal writing on the new generation of artists 
-that emerged from Scandinavia in the 1990â€™s and his work has been shown all 
+that emerged from Scandinavia in the 1990’s and his work has been shown all 
 over Europe, at the German contemporary art festival, Documenta.
 
-New Forms would like to thank this yearâ€™s partners for their ongoing support. 
+New Forms would like to thank this year’s partners for their ongoing support. 
 For 2013, Resident Advisor will be running their well-known RA Sessions, And 
 New Forms will be teaming up with the Red Bull Music Academy to create a 
 special podcast directly from the festival with a number of the main NFF 
@@ -96,15 +96,15 @@ Svilova Independent Residency Program
 
 2014 open call PDF 
 
-Residency period : 26 January â€“ 2 March 2014.
+Residency period : 26 January – 2 March 2014.
 
 SIRP is an artist run residency that allows one international artist a year, the 
-opportunity to live and work in NeukÃ¶lln, Berlin for five weeks. The aim of the 
+opportunity to live and work in Neukölln, Berlin for five weeks. The aim of the 
 residency project, is to provide a space for individual artistic development and 
 experimentation.
 
 The residency program support artists with a 42 square meters 
-studio/apartment in the heart of NeukÃ¶lln. There is no grant in connection to 
+studio/apartment in the heart of Neukölln. There is no grant in connection to 
 the residency. SIRP is glad to help the applicant with letter of 
 content/invitation.
 
@@ -114,7 +114,7 @@ Annica Karlsson Rixon received a Master of Fine Arts in 1997 from the
 California Institute of the Arts in Valencia, California. Her undergraduate 
 studies were accomplished at the Nordic School of Photography in 
 Stockholm, Sweden in 1988. Karlsson Rixon held a professor position at the 
-School of Photography, University of Gothenburg, 2003 â€“ 2007 and she is 
+School of Photography, University of Gothenburg, 2003 – 2007 and she is 
 currently participating in the PHD program at the School of Photography, at 
 the Faculty of Fine and Applied Arts, University of Gothenburg. Karlsson 
 Rixon has exhibited her work extensively since the early 1990s.
@@ -134,7 +134,7 @@ other miscelany.
 July 8-September 8, 2013
 
 Jen Weih is a Vancouver-based artist whose practice includes video, print, 
-sculpture, installation and sound performance. Weihâ€™s two series of works 
+sculpture, installation and sound performance. Weih’s two series of works 
 present diverging aspects of her practice. One set of images are based on 
 fragments, sketches, research and notes from the period 2005-2013, showing 
 elements of inspiration and preliminary thoughts for works. The other set of 
@@ -171,7 +171,7 @@ Hours
 
 Tue.- Sat. 12pm - 6pm
 
-Aug. 28 â€“ Sept. 21, 2013: Disorientations/Illuminations: MFA Graduating 
+Aug. 28 – Sept. 21, 2013: Disorientations/Illuminations: MFA Graduating 
 Exhibition Opening Receptions: 
 Disorientations: Sept. 4, 7pm
 Illuminations: Sept. 11, 7pm
@@ -188,14 +188,14 @@ Disorientations/Illuminations is presented in partial fulfillment of the
 requirements for the degree of Master of the Fine Arts.
 
 Disorientations 
-Aug. 28 â€“ Sept. 7
+Aug. 28 – Sept. 7
 Calla Churchward
 Gabriel Saloman
 Daisy Thompson
 Alize Zorlutuna
 
 Illuminations 
-Sept. 12 â€“ Sept. 21
+Sept. 12 – Sept. 21
 Hamidreza Jadid
 Sydney Koke
 Charlene Vickers
@@ -212,7 +212,7 @@ With Gabriel Saloman
 Sept. 3, 5:30pm
 Audain Gallery
 
-The Beast that Escaped and a Fine, Fine Flavour â€“ A Play
+The Beast that Escaped and a Fine, Fine Flavour – A Play
 By Calla Churchward
 Sept. 5, 6, and 7, 8pm
 Rm. 4270, SFU at Goldcorp Centre for the Arts
@@ -243,7 +243,7 @@ both the subject as well as the photographer, which creates a
 social/performance.
 In this show we are celebrating not only Polaroid instant-film, but all types of 
 instant film. The photographers showing employ a various set of techniques 
-that may use the quality of the film in a â€˜traditionalâ€™ candid way, or may react 
+that may use the quality of the film in a ‘traditional’ candid way, or may react 
 against this view of instant film and use it in a very measured and studious 
 manner. This provides a wide variety of photographs, all seen through the 
 constraints and style of the instant photograph.
@@ -283,9 +283,9 @@ There is no resolution or composure.
 The performance is like the hypercomplexity of todayâ€™s â€œfoamâ€ : the 
 uncontrolled discourse of external references, a production of chaotic 
 signifiers, a chronic vertigo, and an ideology of the surfer. This artwork has 
-been inspired by the belief in that which is â€˜out of jointâ€™; â€˜The part of no partâ€™ is 
-a term taken from the work of Jacques RanciÃ¨re, which refers to the paradox 
-whereby the â€˜non-partâ€™, that which has no defined place in a given order and 
+been inspired by the belief in that which is ‘out of joint’; ‘The part of no part’ is 
+a term taken from the work of Jacques Rancière, which refers to the paradox 
+whereby the ‘non-part’, that which has no defined place in a given order and 
 as the exception to it, stands for the Whole.
 
 Please join us for the grande finale on August 30, 2013.
@@ -295,8 +295,8 @@ Please join us for the grande finale on August 30, 2013.
 Vancouver, BC
 +1 604 568 0812
 hello@221a.ca
-Tuesâ€“Fri 10amâ€“5pm
-Sat 12â€“5pm
+Tues–Fri 10am–5pm
+Sat 12–5pm
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-08-29-07-gallery-295-dan-siney-mid-double-daffy-sep-5">07. Gallery 295 | Dan Siney - Mid Double Daffy | SEP 5</a>
@@ -312,7 +312,7 @@ Back Alley Entrance
 info@gallery295.com	
 www.gallery295.com
 
-Gallery 295 proudly presents Dan Sineyâ€™s new photographic diptychs opening 
+Gallery 295 proudly presents Dan Siney’s new photographic diptychs opening 
 September 5th at Gallery 295. This exhibition will also be on display during 
 SWARM.
 
@@ -324,7 +324,7 @@ resonate are those in which he feels the presence of qualities, powers or
 intensities that change his relationship to both these experiences. These 
 might be grouped together under the label â€œthe affective dimension of imagesâ€ .
 
-Affectsâ€“ qualities, powers, intensitiesâ€“ are not generally found in any single 
+Affects– qualities, powers, intensities– are not generally found in any single 
 part of an image, in the frame, composition, subject, form, thematic, or colour, 
 etc. Instead they tend to insist and subsist through a relation of those 
 elements, in the non-personal expressions activated in the whole. By 
@@ -337,7 +337,7 @@ Dan Siney is an ECUAD undergraduate (2003), who was recently selected for
 the AIMA AGO Photography Prize long list. His photographs were also 
 recently published by Inventory Magazine, in a group artist book entitled 
 â€œQueen of Tsawwassenâ€ , with photographers Ali Bosworth, Seth Fluker, 
-Jennilee Marigomen and Chris Taylor. Sineyâ€™s work has been exhibited in 
+Jennilee Marigomen and Chris Taylor. Siney’s work has been exhibited in 
 group shows throughout North America, Europe and Japan, with solo and two-
 person exhibitions in Canada. Most recently his work was exhibited in 
 â€œPhantasmagoriaâ€  at the Presentation House Gallery, and in a collaborative 
@@ -353,7 +353,7 @@ Artist: Bracken Hanuse Corlett and Csetkwe Fortier
 
 Opening: September 5, 2013, 7-10pm.
 
-Exhibition Dates: September 5 â€“ October 12, 2013
+Exhibition Dates: September 5 – October 12, 2013
 
 URL: http://grunt.ca/exhibitions/wuulhu-to-fuse-together/
 
@@ -367,22 +367,22 @@ struggle to survive; the exhibition investigates this topic with new works in
 painting, drawing, sculpture and digital media.
 
 Csetkwe Fortier elaborates on her painting practice and focus on preservation 
-of traditional foods, â€œThe jars of stcuwin (salmon) represent the preservation 
-and processing of cultural nutritionâ€¦ It is through the use of image, colour, 
+of traditional foods, “The jars of stcuwin (salmon) represent the preservation 
+and processing of cultural nutrition… It is through the use of image, colour, 
 and technique that I express my sadness, frustration and hope in respect to 
 the threat to our health. The content of the jars symbolize the entrapment and 
 dependence that the corporations and government are trying to enforce on the 
 people, by making deals where the land is poisoned.â€ 
 
-Bracken Hanuse Corlett further relates his definition of hunger; â€œI have been 
+Bracken Hanuse Corlett further relates his definition of hunger; “I have been 
 hungry to learn the old ways in a new day. I am hungry for many things that 
 used to be our birth rite: language, songs, forms, ceremony, hunting, fishing, 
-gatheringâ€¦ Through use of new media and old my work is an attempt to calm 
+gathering… Through use of new media and old my work is an attempt to calm 
 the hunger pains and bring attention to our story.â€ 
 
 The artists acknowledge an active and ongoing mentorship with artist, 
 Lawrence Paul Yuxweluptun, throughout the creation of this exhibition. 
-Bracken describes the relationship as multifaceted. â€œHe has given us 
+Bracken describes the relationship as multifaceted. “He has given us 
 invaluable tips and tricks that have helped our technical process in painting 
 and we have had good talks about concept, form, Indian politics and life, art 
 world dealings, and the history of Indigenous art on the coast and in the 
@@ -392,7 +392,7 @@ presence and yet is still a very humble man.â€  Yuxweluptun is curating the
 work featured in the exhibition.
 
 Join grunt gallery for the opening reception on Thursday September 5th from 
-7pmâ€“10pm. The exhibition will run from September 5th â€“ October 12th, 2013. 
+7pm–10pm. The exhibition will run from September 5th – October 12th, 2013. 
 Bracken Hanuse Corlett, Csetkwe Fortier and artist mentor, Lawrence Paul 
 Yuxweluptun, will be in attendance.
 
@@ -400,7 +400,7 @@ Yuxweluptun, will be in attendance.
 
 Exhibition Title: Dynamo Lines
 
-Artist: Josephin BÃ¶ttger & Sergej Tolksdorf
+Artist: Josephin Böttger & Sergej Tolksdorf
 
 Opening: Thurs Sept 12, 7-10pm
 
@@ -412,10 +412,10 @@ Note: Dynamo Lines also coincides with SWARM 2013, read here for more
 info on this annual artist-run centre festival. http://www.paarc.ca/swarm14/
 
 grunt gallery and New Forms Festival present Dynamo Lines, a video, sound 
-and live performance by Josephin BÃ¶ttger and Sergej Tolksdorf, and Trapez 
+and live performance by Josephin Böttger and Sergej Tolksdorf, and Trapez 
 with the support of the Surrey Urban Screen.
 
-Media and installation artist Josephin BÃ¶ttger presents a new work entitled 
+Media and installation artist Josephin Böttger presents a new work entitled 
 Dynamo Lines, which looks at the fragmentation of cityscapes caused by 
 social constructs, urban development, traffic, lights and movement. Three 
 looped video projections depict time-lapsed motion and light from various 
@@ -423,7 +423,7 @@ vantage points of city grids and traffic. The artwork explores the relationship 
 densely populated areas versus individual movements within fragmented 
 spaces.
 
-Working with musician Sergej Tolksdorf, BÃ¶ttgerâ€™s video installation includes 
+Working with musician Sergej Tolksdorf, Böttger’s video installation includes 
 footage of actors emerging as a work team, observing busy highway arteries. 
 But their movements are edited so they appear sporadic, contrapunctual to 
 the rythm and flow of light from the streets. These scenes transition into 
@@ -432,10 +432,10 @@ images into minimalist, white outlines.
 
 The live performance uses an archive of sounds that sync with the projections, 
 along with compositions made for particular scenes. The installation and live 
-performance will take place at grunt galleryâ€™s Media Lab on Thursday 
+performance will take place at grunt gallery’s Media Lab on Thursday 
 September 12, 2013.
 
-Josephin BÃ¶ttger will also be presenting Trapez at New Forms Festival. The 
+Josephin Böttger will also be presenting Trapez at New Forms Festival. The 
 video documents the construction work that occurs at a building site; time 
 and reality is distorted by time lapses and drawn elements that blend into the 
 footage. The video examines construction and demolition, both key 
@@ -445,7 +445,7 @@ shaping the built environment.
 
 The projection appears outdoors on various public spaces and building walls 
 like temporary graffiti. This project will take place at New Forms Festival, at 
-the Centre for Digital Media, from September 12â€“15, 2013.
+the Centre for Digital Media, from September 12–15, 2013.
 
 Join grunt gallery on Thursday September 12th between 7 and 10pm for the 
 Dynamo Lines installation and performance. The installation will be viewable in 
@@ -454,14 +454,14 @@ the Media Lab until September 15th, 2013. www.grunt.ca
 Attend New Forms Festival to view Trapez, which will be taking place at the 
 festival site. http://2013.newformsfestival.com/
 
-Trapez will also be viewable at the Surrey Urban Screen from Sept 6â€“15, 
+Trapez will also be viewable at the Surrey Urban Screen from Sept 6–15, 
 2013. Surrey Urban Screen is an outreach venue of the Surrey Art Gallery and 
 located on the west wall of the Chuck Bailey Recreation Centre. 
 http://www.surrey.ca/culture-recreation/7315.aspx
 
 grunt gallery
 350 E 2nd Ave - Unit 116 Vancouver, BC V5T 4R8 
-t. 604.875.9516 Tues â€“ Sat, 12-5pm 
+t. 604.875.9516 Tues – Sat, 12-5pm 
 
 
 ------------------------------------------------------------------------
@@ -486,7 +486,7 @@ The Flowers of Evil and the writings of French thief and prostitute, Jean Genet,
 who stated: "There exists a close relationship between flowers and convicts. 
 The fragility and delicacy of the former are of the same nature as the brutal 
 insensitivity of the latter". This deeply resonant statement was a theme 
-throughout all of Genetâ€™s writings, and becomes the foundation for this body of 
+throughout all of Genet’s writings, and becomes the foundation for this body of 
 work. 
 
 The haunting photographs appear to be the product of multiple exposures, but 
@@ -502,7 +502,7 @@ photography in an age of digital production.
 Jonah Samson has been photographing, writing, curating and collecting for 
 over a decade. His writing on photography has been included in magazines 
 across North America. He has exhibited nationally and internationally, 
-including Otherworldly at the MusÃ©e EugÃ¨ne Leroy, Lille, France (2012) and 
+including Otherworldly at the Musée Eugène Leroy, Lille, France (2012) and 
 the Museum of Arts and Design, New York (2011), Pleasantville at Studio 9, 
 Istanbul (2011), The Archives of Pleasantville Historical Society at G. Gibson 
 Gallery, Seattle (2011) and Unearthed at the Sainbury Centre for Visual Arts 
@@ -510,7 +510,7 @@ in the UK (2010). In September 2013 Samson will present Another Happy
 Day, a selection of found photographs from his personal collection, which he 
 was invited to develop into a book and exhibition at Presentation House 
 Gallery, Vancouver. In the same month he will also release an artist 
-publication titled Dead Manâ€™s Hand, based on early 20th century crime 
+publication titled Dead Man’s Hand, based on early 20th century crime 
 photography and Film Noir. Samson currently lives on Cape Breton Island, 
 Nova Scotia.
 
@@ -527,9 +527,9 @@ Opening reception: Friday September 6, 6- 9 pm
 In his first exhibition at Republic since 2009, Vancouver photographer Jim 
 Breukelman returns with a new body of work highlighting his recent 
 experimentation with photoassemblage. As its title implies, Out of Fiction 
-borrows from both fantasy â€“ as expressed in raw creativity responding to the 
-banal templates often offered in childrenâ€™s colouring books â€“ and reality: how 
-these processes of imagination manifest themselves â€œin ways both 
+borrows from both fantasy – as expressed in raw creativity responding to the 
+banal templates often offered in children’s colouring books – and reality: how 
+these processes of imagination manifest themselves “in ways both 
 foreseeable and unforeseeableâ€ . The act of bringing these elements together 
 in finished photographic works illuminates the proximity of their origins in a 
 historical, cultural imaginary, as well as the tenuousness of the divisions 
@@ -545,19 +545,19 @@ best-known for his â€œenvironmental portraitsâ€  which mark various idios
 of contemporary human life, such as his series Mesocosm, Paintball: Urban 
 War Game Landscapes, and Hot Properties, works from which were featured 
 in the 2012 Canadian Biennial at the National Gallery in Ottawa. Earlier in 
-2012, Jim received a Mayorâ€™s Arts Award in Visual Art from the City of 
+2012, Jim received a Mayor’s Arts Award in Visual Art from the City of 
 Vancouver. Hot Properties #1 was recently selected by Canada Post to be 
 featured on a postage stamp in a series commemorating 100 years of 
 photography in Canada.
 
 ---------
 Founded in Fall 2006, Republic Gallery exhibits emerging and mid-career 
-Canadian and international artists. The galleryâ€™s roster includes artists 
+Canadian and international artists. The gallery’s roster includes artists 
 working in installation, video, sculpture, photography, mixed media, and 
 contemporary painting. A number of our artists work internationally, including 
 recent residencies and exhibitions in Spain, Denmark, Germany, France, and 
 the United States. Republic Gallery recently took part in Papier 13 in 
-MontrÃ©al.
+Montréal.
 -----------
 
 For more information please contact us by phone at 604.632.1590 or by email 
@@ -576,7 +576,7 @@ sports. Spectators are welcome.
 
 Tuesday 24 September: How To Kickstart workshop <http://league-league.org/?
 p=1725> 
-Free but limited admission â€” get your ticket beginning 26 August at 
+Free but limited admission — get your ticket beginning 26 August at 
 <https://www.eventbrite.com/event/6656795655> 
 Recently expanded to Canada, Kickstarter is a funding platform for creative 
 projects. Join Kickstarter Art Program Director Stephanie Pereira for a primer on 
@@ -584,11 +584,11 @@ how to bring a Kickstarter project to life.
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-08-29-12-grunt-gallery-josephin-bttger-sergej-tolksdorf-sep-12">12. grunt gallery | Josephin BÃ¶ttger & Sergej Tolksdorf | SEP 12</a>
+<a href="/instant-coffee/listings/2013-08-29-12-grunt-gallery-josephin-bttger-sergej-tolksdorf-sep-12">12. grunt gallery | Josephin Böttger & Sergej Tolksdorf | SEP 12</a>
 ------------------------------------------------------------------------
 Exhibition Title: Dynamo Lines
 
-Artist: Josephin BÃ¶ttger & Sergej Tolksdorf
+Artist: Josephin Böttger & Sergej Tolksdorf
 
 Opening: Thurs Sept 12, 7-10pm
 
@@ -600,10 +600,10 @@ Note: Dynamo Lines also coincides with SWARM 2013, read here for more
 info on this annual artist-run centre festival. http://www.paarc.ca/swarm14/
 
 grunt gallery and New Forms Festival present Dynamo Lines, a video, sound 
-and live performance by Josephin BÃ¶ttger and Sergej Tolksdorf, and Trapez 
+and live performance by Josephin Böttger and Sergej Tolksdorf, and Trapez 
 with the support of the Surrey Urban Screen.
 
-Media and installation artist Josephin BÃ¶ttger presents a new work entitled 
+Media and installation artist Josephin Böttger presents a new work entitled 
 Dynamo Lines, which looks at the fragmentation of cityscapes caused by 
 social constructs, urban development, traffic, lights and movement. Three 
 looped video projections depict time-lapsed motion and light from various 
@@ -611,7 +611,7 @@ vantage points of city grids and traffic. The artwork explores the relationship 
 densely populated areas versus individual movements within fragmented 
 spaces.
 
-Working with musician Sergej Tolksdorf, BÃ¶ttgerâ€™s video installation includes 
+Working with musician Sergej Tolksdorf, Böttger’s video installation includes 
 footage of actors emerging as a work team, observing busy highway arteries. 
 But their movements are edited so they appear sporadic, contrapunctual to 
 the rythm and flow of light from the streets. These scenes transition into 
@@ -620,10 +620,10 @@ images into minimalist, white outlines.
 
 The live performance uses an archive of sounds that sync with the projections, 
 along with compositions made for particular scenes. The installation and live 
-performance will take place at grunt galleryâ€™s Media Lab on Thursday 
+performance will take place at grunt gallery’s Media Lab on Thursday 
 September 12, 2013.
 
-Josephin BÃ¶ttger will also be presenting Trapez at New Forms Festival. The 
+Josephin Böttger will also be presenting Trapez at New Forms Festival. The 
 video documents the construction work that occurs at a building site; time 
 and reality is distorted by time lapses and drawn elements that blend into the 
 footage. The video examines construction and demolition, both key 
@@ -633,7 +633,7 @@ shaping the built environment.
 
 The projection appears outdoors on various public spaces and building walls 
 like temporary graffiti. This project will take place at New Forms Festival, at 
-the Centre for Digital Media, from September 12â€“15, 2013.
+the Centre for Digital Media, from September 12–15, 2013.
 
 Join grunt gallery on Thursday September 12th between 7 and 10pm for the 
 Dynamo Lines installation and performance. The installation will be viewable in 
@@ -642,14 +642,14 @@ the Media Lab until September 15th, 2013. www.grunt.ca
 Attend New Forms Festival to view Trapez, which will be taking place at the 
 festival site. http://2013.newformsfestival.com/
 
-Trapez will also be viewable at the Surrey Urban Screen from Sept 6â€“15, 
+Trapez will also be viewable at the Surrey Urban Screen from Sept 6–15, 
 2013. Surrey Urban Screen is an outreach venue of the Surrey Art Gallery and 
 located on the west wall of the Chuck Bailey Recreation Centre. 
 http://www.surrey.ca/culture-recreation/7315.aspx
 
 grunt gallery
 350 E 2nd Ave - Unit 116 Vancouver, BC V5T 4R8 
-t. 604.875.9516 Tues â€“ Sat, 12-5pm 
+t. 604.875.9516 Tues – Sat, 12-5pm 
 
 
 ------------------------------------------------------------------------
@@ -671,14 +671,14 @@ light, so that we can all heal togetherâ€  from the intergenerational trauma 
 is the sad legacy of Canada's Indian Residential School system. 
 
 Organized by Malaspina Printmakers Society, the exhibition spans three 
-venues: Emily Carr University of Art + Design (ECUAD), Malaspinaâ€™s Print 
-Gallery, and the Urban Aboriginal Fair Trade Gallery at SkwachÃ ys Healing 
+venues: Emily Carr University of Art + Design (ECUAD), Malaspina’s Print 
+Gallery, and the Urban Aboriginal Fair Trade Gallery at Skwachàys Healing 
 Lodge located in Vancouver's Downtown Eastside. 
 
 The NET-ETH: Going out of the Darkness exhibition catalogue features 
 essays, poems, biographies and artist statements and the works of sixteen 
 artists including Chris Bose, Lindsey Delaronde, Wayne Dennis, Ken Farris, 
-Mimi Gellman, Bracken Hanuse Corlett, Richard HeikkilÃ¤-Sawan, Raven John, 
+Mimi Gellman, Bracken Hanuse Corlett, Richard Heikkilä-Sawan, Raven John, 
 Lou-ann Ika'wega Neel, Jada-Gabrielle Pape, Patricia Lena Teichert, Kelly 
 Roulette, Adrian Stimson, Jerry Whitehead, Tania Willard and Lawrence Paul 
 Yuxweluptun.
@@ -692,7 +692,7 @@ Opening reception: September 12, 2013, 6:00 to 9:00 pm
 Malaspina Printmakers (1555 Duranleau St, Granville Island)
 Opening reception: September 12, 2013, 6:00 to 9:00 pm
 
-Urban Aboriginal Fair Trade Gallery (SkwachÃ ys Healing Lodge, 29 West 
+Urban Aboriginal Fair Trade Gallery (Skwachàys Healing Lodge, 29 West 
 Pender St)
 Opening reception: September 13, 2013, 6:00 to 9:00 pm
 
@@ -707,7 +707,7 @@ hogue.tarah@gmail.com
 www.malaspinaprintmakers.com
 
 This exhibition is made possible with the generous support of Vancity Credit 
-Union, Emily Carr University of Art + Design, SkwachÃ ys Healing Lodge and 
+Union, Emily Carr University of Art + Design, Skwachàys Healing Lodge and 
 the Urban Aboriginal Fair Trade Gallery as well as Vancouver Foundation.
 
 ------------------------------------------------------------------------
@@ -727,13 +727,13 @@ utilized not as a documentary tool but rather as a medium that expresses the
 bilateral familiarity/transformation of our imaginary/real landscapes of home. 
 Home as a concept is created by a compilation of personal and collective 
 memories that merge and overlap. The intangible and oblique aspects of 
-memory and our recollections of home are suggested in Russellâ€™s 
+memory and our recollections of home are suggested in Russell’s 
 photographs. What emerges is a confusion of the present, the remembered 
 and the imagined, evoking the very process of memory-making and our 
 physical presence in the home. 
 
 Homebody documents the diasporic nature of memory and the evasive locality 
-of the home. Work drawn from three of Russellâ€™s series, Geographics, 
+of the home. Work drawn from three of Russell’s series, Geographics, 
 Windows and Equivalents invite the viewer to revisit the process of memory 
 making and the role of the self in the imaging of the domestic landscape. The 
 home becomes a terrain where time and place lose their locality. Identity and 
@@ -809,7 +809,7 @@ http://www.synnkuneloh.com
 http://jameskm.wordpress.com
 
 Pataphysics is the science of that which is superimposed upon metaphysics, 
-whether within or beyond the latterâ€™s limitations, extending as far beyond 
+whether within or beyond the latter’s limitations, extending as far beyond 
 metaphysics as the latter extends beyond physics.
 Alfred Jarry, 1873 - 1907
 
@@ -928,7 +928,7 @@ successful Safar/Voyage exhibition.
 
 Sept. 15, 2013 at 2:30pm 
 
-MOAâ€™s Michael M. Ames Theatre Gallery
+MOA’s Michael M. Ames Theatre Gallery
 
 Free with museum admission
 
@@ -956,7 +956,7 @@ invite independent and innovative short films and videos that explore the
 aesthetic and form of the moving image and its relation to narrative. 
 
 Monitor 10 encourages new, experimental and risk-taking work that 
-challenges the viewerâ€™s active engagement.
+challenges the viewer’s active engagement.
 
 Selected works will be screened in April 2014 in Toronto, Canada. Monitor 10 
 will be programmed by independent curator and artist Shai Heredia.
@@ -971,7 +971,7 @@ Artist fees will be paid.
 
 Submissions MUST include all of the following 
 
-Â· Name of artist or director
+· Name of artist or director
 
 Â· Full contact information (address, phone, email, website) 
 
@@ -983,9 +983,9 @@ Submissions MUST include all of the following 
 
 Â· Artist CV 
 
-Â· 3 High-resolution production stills
+· 3 High-resolution production stills
 
-Submissions can be sent via email with a URL link to the artist/directorâ€™s 
+Submissions can be sent via email with a URL link to the artist/director’s 
 YouTube/Vimeo account (please provide passwords if necessary and make 
 the link downloadable).
 
@@ -1090,7 +1090,7 @@ artists from the Regional District of Fraser Fort-George though we are open to
 submissions from other regions. 
 Please submit proposals or questions via email or mail to Maeve Hanna, 
 Assistant Curator. Proposals should include a brief description of the project, 
-a CV and 5 â€“ 10 images. Please ensure digital images are high resolution.
+a CV and 5 – 10 images. Please ensure digital images are high resolution.
 Two Rivers Gallery, 725 Civic Plaza, Prince George, BC. V2L 5T1
 TEL (250) 614 7800 ex. 492 FAX (250) 563 3211 Email: 
 maeve@tworiversgallery.ca
@@ -1140,10 +1140,10 @@ standards.
 
 To apply, artists must submit the following:
 
-Â· Jpeg images of the artwork(s). Images must be clearly labeled with 
+· Jpeg images of the artwork(s). Images must be clearly labeled with 
 artist name, title and date.
 
-Â· In a pdf or Word document, please include: (1) a short artist bio/CV; (2) 
+· In a pdf or Word document, please include: (1) a short artist bio/CV; (2) 
 a list of submitted works with title, size, medium, date, dimensions and 
 installation specifications; (3) a short description of each work (approx. 200 
 words)
@@ -1180,7 +1180,7 @@ curated by Bassam El Baroni, closes in 2 weeks: 5pm Monday 2 September
 Applications are invited from individual artists or groups, working in any 
 medium and can be for the presentation of existing works or production of new 
 projects. Artists can make up to 2 proposals and there is a submission fee of 
-â‚¬20 for 1 proposal or â‚¬30 for 2 proposals.
+€20 for 1 proposal or €30 for 2 proposals.
 
 To begin the online submission process please:
 
@@ -1235,9 +1235,9 @@ and events of the Arts Council. The artists are required to sign only the back
 of the canvas as the paintings are displayed anonymously. Each painting is 
 priced at $100. The artist receives 50% and the balance will remain with the 
 Arts Council. Purchased paintings are immediately taken off the wall and 
-given to the purchaser. In its place a sold tag will reveal the artistâ€™s name.
+given to the purchaser. In its place a sold tag will reveal the artist’s name.
 
-The opening reception and sale is Thursday, November 21 at 7:00pm â€“ 
+The opening reception and sale is Thursday, November 21 at 7:00pm – 
 9:30pm and the sale continues until Saturday, December 21, giving the 
 community an opportunity to purchase original art in time for Christmas.
 New Extended Hours! Every Thursday during the exhibition the gallery will 
@@ -1258,15 +1258,15 @@ Tag #AAS13
 All Artwork MUST meet the following requirements:
 Â· We only accept unframed, 8â€  x 8â€  x 1 Â½â€ , back stapled canvas or wood 
 cradle panel
-Â· A limit of 3 submissions per artist
-Â· Two dimensional works only - No relief work - No three dimensional 
+· A limit of 3 submissions per artist
+· Two dimensional works only - No relief work - No three dimensional 
 work
-Â· New submissions only. Previous yearsâ€™ AAS works will not be 
+· New submissions only. Previous years’ AAS works will not be 
 accepted
-Â· Full name, signature, title and website (if available) must be written on 
+· Full name, signature, title and website (if available) must be written on 
 the back of the canvas (Canvases signed on the front will not be accepted.)
 Â· All works must have a title and may not be called â€œUntitledâ€ .
-Â· Paintings must be submitted completely dry and unwired.
+· Paintings must be submitted completely dry and unwired.
 Â· Mark an â€œupâ€  arrow on the back of canvas to indicate top
 Diptychs and triptychs are acceptable but will not be shown together
 

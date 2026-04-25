@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 21
 type: "EDUCATION"
+venue: "Morrow Creative Space"
 summary: "Morrow Creative Space | SENSING WORLDS: Embodied Creation | JUL 22"
 ---
 

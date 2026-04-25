@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 32
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Fringe Festival Midtwentie Theatre | The Bitter Tears of Petra Von Kant | SEPT 6-16 | SEP 6"
 ---
 

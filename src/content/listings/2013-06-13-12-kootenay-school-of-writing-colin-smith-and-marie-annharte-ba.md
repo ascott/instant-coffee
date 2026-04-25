@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 12
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | Colin Smith and Marie Annharte Baker | JUN 15"
 ---
 

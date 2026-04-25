@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 24
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Fazakas Gallery | Beau Dick: Devoured By Consumerism | 6-8PM | MAR 29"
 ---
 

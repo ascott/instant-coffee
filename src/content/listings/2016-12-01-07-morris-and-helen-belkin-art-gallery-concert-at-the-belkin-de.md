@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 7
 type: "PERFORMANCE"
+venue: "MORRIS AND HELEN BELKIN ART GALLERY"
 summary: "MORRIS AND HELEN BELKIN ART GALLERY | Concert at the Belkin | DEC 2"
 ---
 

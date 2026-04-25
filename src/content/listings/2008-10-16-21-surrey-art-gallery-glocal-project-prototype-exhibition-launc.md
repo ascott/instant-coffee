@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 21
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Glocal Project: prototype exhibition launch | OCT 18"
 ---
 

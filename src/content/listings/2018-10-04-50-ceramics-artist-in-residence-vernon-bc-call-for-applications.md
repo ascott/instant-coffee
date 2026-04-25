@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 50
 type: "CALL"
+venue: "Ceramics Artist in Residence (Vernon, BC)"
 summary: "Ceramics Artist in Residence (Vernon, BC) | Call for Applications | NOV 4"
 ---
 

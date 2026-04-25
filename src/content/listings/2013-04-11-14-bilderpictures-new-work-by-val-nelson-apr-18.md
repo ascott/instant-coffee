@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 14
 type: ""
+venue: "Bilder/Pictures"
 summary: "Bilder/Pictures | new work by Val Nelson | APR 18"
 ---
 
@@ -20,7 +21,7 @@ Vancouver
 
 (entrance on east side of the building)
 
-You are cordially invited to a private view at the artistâ€™s studio, prior to 
+You are cordially invited to a private view at the artist’s studio, prior to 
 her solo exhibition next month at Bau-xi Gallery,Toronto.
 
 Refusing to be categorized in terms of subject or "style", with this new 
@@ -35,7 +36,7 @@ images in film montage.
 
 In her process, Nelson keeps painting over the image until it begins to 
 move away from what she thought it was about (the subject), to 
-something that only paint can say. â€œIâ€™m interested in painting something 
+something that only paint can say. “I’m interested in painting something 
 you can recognize, but I need to allow for the flaws and sometimes 
 awkward passages; that opens up the possibility for more interesting 
 things to happen. â€ 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 10
 type: ""
+venue: "Black & Yellow Gallery"
 summary: "Black & Yellow Gallery | I FELT BOARD | AUG 2"
 ---
 
@@ -14,18 +15,18 @@ Black & Yellow Gallery
 
 Contributing Artists
 
-Travis Collier â€“ Designer/BMX Rider
+Travis Collier – Designer/BMX Rider
 David Cohen - Designer
 Brad Harms - Artist
-Danny Vermette â€“ Artist/Sculptor/Visual Display
-Scott Lewis â€“ Artist/Label Head/Curator
-Andy Dixon â€“ Musician/Artist/Designer/Label Head
-Andrew Pommier â€“ Artist/Illustrator
-Shad K â€“ Musician/Spoken Word Artist
-Ehren Salazar â€“ Artist/Illustrator
-Christopher Smith â€“ Artist/Musician
-Ryan Romero â€“ Designer
-Ben Skinner â€“ Artist/Display Designer
+Danny Vermette – Artist/Sculptor/Visual Display
+Scott Lewis – Artist/Label Head/Curator
+Andy Dixon – Musician/Artist/Designer/Label Head
+Andrew Pommier – Artist/Illustrator
+Shad K – Musician/Spoken Word Artist
+Ehren Salazar – Artist/Illustrator
+Christopher Smith – Artist/Musician
+Ryan Romero – Designer
+Ben Skinner – Artist/Display Designer
 
 The show takes place at 7pm-11pm on Thursday, August 2nd.
 Black & Yellow Gallery Room 106 at The Waldorf Hotel.

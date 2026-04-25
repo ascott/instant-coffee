@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 13
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Derya Akay | 6PM | MAY 31"
 ---
 

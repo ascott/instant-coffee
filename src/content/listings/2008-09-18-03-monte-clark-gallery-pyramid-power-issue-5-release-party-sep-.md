@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: sometimes the wrong way is the rig
 emailDate: "Wed, 17 Sep 2008 20:35:29 -0700"
 number: 3
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Pyramid Power Issue 5 Release Party | SEP 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 34
 type: "PERFORMANCE"
+venue: "SFU @ Pacific Spirit United Church"
 summary: "SFU @ Pacific Spirit United Church | Music for the Augmented Pipe Organ | 8PM | NOV 23"
 ---
 

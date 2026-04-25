@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 4
 type: ""
+venue: "Western Front"
 summary: "Western Front | Toque! Christmas Craft Sale | NOV 27"
 ---
 
@@ -26,7 +27,7 @@ important people on your list at Toque, the Western Front's annual fine art
 and craft sale on Friday, November 27 and Saturday, November 28.
 
 Toque features a curated selection of original artwork, jewellery,
-handcrafted home dÃ©cor items, and other unique gifts, all designed and
+handcrafted home décor items, and other unique gifts, all designed and
 manufactured locally. Over 20 artists, designers and artisans come together
 for this signature sale, including familiar Toque participants Simply Read
 Books, Gailan Ngan Ceramics and Contexture Designs along with Toque

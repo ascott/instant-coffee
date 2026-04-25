@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 20
 type: ""
+venue: "PROVISIONS"
 summary: "PROVISIONS | RESEARCH RESIDENCIES | APR 30"
 ---
 
@@ -21,7 +22,7 @@ for residencies September 2013-September 2014
 
 About. 
 
-Provisions Library â€” an art and social change research organization 
+Provisions Library — an art and social change research organization 
 based in Washington DC and at George Mason University, invites 
 proposals from creative social change agents for research projects in 
 partnerships with DC institutions and communities. Provisions research 
@@ -37,7 +38,7 @@ Projects.
 
 Applicants are invited to propose research projects that forge 
 interactions with DC-based academic, policy, research, and cultural 
-institutions. Proposals should be grounded in Provisionsâ€™ social change 
+institutions. Proposals should be grounded in Provisions’ social change 
 Meridians. This year, Provisions has special interest in research 
 projects relating to (but in no way limited by) Agri-Cultures (post-
 industrial permaculture), Mournuments (structures of death, mourning, 
@@ -53,7 +54,7 @@ Archives, Library of Congress, DC Public Library, The Smithsonian, the
 National Zoo, various think-tanks, and numerous public policy 
 institutes. Provisions staff supports residency fellows in building 
 research relationships with DC institutions, organizations, and agencies 
-â€” federal and local alike.
+— federal and local alike.
 
 Support.
 
@@ -62,7 +63,7 @@ research residencies. National Fellowships for artists born/based
 anywhere in the US include travel and lodging. Capital Fellowships for 
 residents of Metropolitan Washington will engage local communities 
 and help expand Provisions public network. Fellows present two talks 
-â€” one at George Mason University presenting past work, and another 
+— one at George Mason University presenting past work, and another 
 at the end of their stay to present research findings to communities 
 across the capital. Fellows also submit a final PDF document 
 presenting their research for publication on Provisions website. All 

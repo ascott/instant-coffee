@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 18
 type: "TALK"
+venue: "Libby Leshgold Gallery [ONLINE]"
 summary: "Libby Leshgold Gallery [ONLINE] | Sébastien Aubin Online Residency and Artist Talk | MAR 16"
 ---
 

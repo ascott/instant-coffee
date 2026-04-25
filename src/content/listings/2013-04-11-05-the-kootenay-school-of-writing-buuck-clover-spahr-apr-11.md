@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 5
 type: ""
+venue: "The Kootenay School of Writing"
 summary: "The Kootenay School of Writing | BUUCK, CLOVER, SPAHR | APR 11"
 ---
 
@@ -40,7 +41,7 @@ the Guardian, as well as on his own blog and in published books.
 Juliana Spahr is a poet, scholar, and editor. She is the author of Well 
 Then There Now (Black Sparrow, 2011); The Transformation (Atelos, 
 2007); This Connection of Everyone with Lungs (University of 
-California Press, 2005); Fuck Youâ€”Alohaâ€”I Love You (Wesleyan 
+California Press, 2005); Fuck You—Aloha—I Love You (Wesleyan 
 University Press, 2001); and Response (Sun & Moon Press, 1996). 
 She is Professor of English at Mills College.
 
@@ -57,7 +58,7 @@ visit
 http://rentassembly.org/?page_id=21
 
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 The Kootenay School of Writing, All rights 
+Copyright © 2013 The Kootenay School of Writing, All rights 
 reserved.
 You are receiving this email because you signed up via our website.
 Our mailing address is:

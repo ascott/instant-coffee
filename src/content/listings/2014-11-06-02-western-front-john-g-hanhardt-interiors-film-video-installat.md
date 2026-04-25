@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 2
 type: ""
+venue: "Western Front"
 summary: "Western Front | John G. Hanhardt | Interior(s): Film, Video & Installation Art | NOV 6"
 ---
 
@@ -19,7 +20,7 @@ moving image in contemporary art. Hanhardt is one of the foremost
 curators of film and video, having worked at MoMA, the Walker Art 
 Center, The Whitney Museum of American Art and the Guggenheim 
 Museum throughout the course of his long career. His talk, in part 
-inspired by Roland Barthesâ€™ â€œHow to Live Together. Novelistic Simulations 
+inspired by Roland Barthes’ “How to Live Together. Novelistic Simulations 
 of Some Everyday Spacesâ€ , will look at how interior spaces are imagined 
 in work ranging from John Ford to Isaac Julien.
 

@@ -83,7 +83,7 @@ of trees, indicating again to her considered curiosity in making
 interventions into existing orders. The photographic device of 
 framing appears in another image of a house floating on the Pacific 
 ocean. Guiding our attention to a beautiful rectilinear window in the 
-houseâ€™s wood shingled exterior, the photograph creates an 
+house’s wood shingled exterior, the photograph creates an 
 aesthetic puncture of the frame within the pictorial, reminiscent of 
 Campbells photographs of fishing symbols found along the West 
 Coast. Within the space of the gallery itself, Campbell enacts a 
@@ -190,7 +190,7 @@ Howe St
 In conjunction with the Vancouver Art Gallery's exhibition WE: 
 Vancouver -
 12 Manifestos for the City, writer and critic Michael Turner presents a
-special screening of SKIP TRACER, Zale Dalenâ€™s legendary 
+special screening of SKIP TRACER, Zale Dalen’s legendary 
 1977 feature about
 a repo man, shot on location in Vancouver and Richmond. Also on 
 the program
@@ -206,10 +206,10 @@ film production has had a strong impact on Vancouver, conflating our
 understanding of the reality of the city with its filmic representation.
 Indeed, there is a perceived anxiety about a city that spends more 
 time
-standing in for other cities than it does in playing itself. Turnerâ€™s
+standing in for other cities than it does in playing itself. Turner’s
 extensive research into film in Vancouver comprises one aspect of 
 the
-cityâ€™s past that continues to resonate today: its filmic image that 
+city’s past that continues to resonate today: its filmic image that 
 is
 projected beyond the city boundaries to elsewhere.
 
@@ -639,7 +639,7 @@ screening of programming selected from the local CBC Television
 Archives vault. From 60s West End beatniks to 80s Kitsilano yuppies
 and Gastown artists looking for affordable studio space - Day for
 Night travels back in time to prove that old French dictum, "plus a
-change, plus c'est la mÃªme chose."
+change, plus c'est la même chose."
 
 Featuring locally-produced commercials and a special centennial
 message to Vancouver from Ronald Reagan.
@@ -982,7 +982,7 @@ o Launching Midnight April 4
 44 LR
 Launching Midnight April 4
 
-April 4 â€“ 30, 2011
+April 4 – 30, 2011
 
 Other Sights for Artists' Projects is pleased to announce the launch of
 Digital Natives, a public artwork commissioned by the City of Vancouver
@@ -993,7 +993,7 @@ Artists and writers from across North America have contributed text
 messages to be broadcast over the month of April, coinciding with the 125th
 Anniversary of the City of Vancouver.
 
-Located on SkwxwÃº7mesh territory, the billboard becomes a space for
+Located on Skwxwú7mesh territory, the billboard becomes a space for
 exchange between native and non-native communities in an exploration of
 language in public space. Interrupting the flow of advertisements, the
 ten-second messages respond to the location and history of the billboard,
@@ -1274,7 +1274,7 @@ April 14 - May 29, 2011
 
 Opening Reception - Thursday, April 14, 7-9pm
 
-March 22, 2011, Abbotsford, BC-Â¦..The Reach Gallery Museum Abbotsford opens
+March 22, 2011, Abbotsford, BC-¦..The Reach Gallery Museum Abbotsford opens
 three new exhibitions in April: Man Turned to Stone: Txwelatse; Betty
 Goodwin: Darkness and Memory and Our Communities Our Stories: Sikh
 Pioneers - 100 Years of Immigration, Integration and Identity. The
@@ -1282,7 +1282,7 @@ exhibitions run from April 14 to May 29, 2011, with the opening reception
 April 14 from 7 to 9pm, 32388 Veterans Way, Abbotsford.
 
 Man Turned to Stone: Txwelatse
-Organized in collaboration with the StÃƒÂ³:lÃ…ï¿½ Research and Resource Management
+Organized in collaboration with the StÃ³:lÅ� Research and Resource Management
 Centre and the T'xwelatse Family
 Stone Txwelatse, is an ancestor of the Chilliwack (Tselxweyeqw), one of
 the St tribes, a man who was born thousands of years ago and
@@ -1291,7 +1291,7 @@ mistreating his wife. Through his transformation he was to give lessons to
 the people on how to live together in a good way. For the St, Stone
 Txwelatse is a beloved, ancestor; a stone man with a living soul.
 
-Over one hundred years ago, Stone TÃ¢xwelatse was taken from St
+Over one hundred years ago, Stone Tâxwelatse was taken from St
 territory. He was more recently discovered in Seattle in the collection of
 the Burke Museum of Natural and Cultural History. After a 14-year
 campaign, Stone Txwelatse was repatriated to the St in 2006. As part
@@ -1348,7 +1348,7 @@ one of the first steps in preserving the century plus long history of Sikhs
 in Canada. This exhibition is organized in collaboration with the Khalsa
 Diwan Society and Centre for Indo Canadian Studies at the University of the
 Fraser Valley. Historic photos that document the development the
-establishment of Abbotsfordï¿½s Sikh community, family artefacts that
+establishment of Abbotsford�s Sikh community, family artefacts that
 illustrate the stories told by pioneers and a glimpse into the Sikh faith
 will provide a fascinating background for the community-wide temple
 Centennial celebrations.
@@ -1404,7 +1404,7 @@ Viewers are encouraged to download an iTunes app to their smartphone to
 fully experience the installation. 
 
 The project is part of Art in Bloom 2011, the Art Gallery of Greater
-Victoriaâ€™s bi-annual fundraiser that runs from March 28 to April 2, 2011.
+Victoria’s bi-annual fundraiser that runs from March 28 to April 2, 2011.
 
 Judy Jheung, a Vancouver based artist, whose installations are often
 interactive, rendering in a form that propels the audience along a journey.
@@ -1588,13 +1588,13 @@ introductory version, combining theory, industry experience and practical
 resources for marketing oneself in the arts.
 
 Some topics include:
-â€¢ Presentation (portfolio, application letters, CVs, submissions, proposals)
-â€¢ Approaching the Vancouver market (gallery profiles and descriptions)
-â€¢ Alternative exhibition options (juried exhibitions, non-profit art
+• Presentation (portfolio, application letters, CVs, submissions, proposals)
+• Approaching the Vancouver market (gallery profiles and descriptions)
+• Alternative exhibition options (juried exhibitions, non-profit art
 spaces, group shows)
-â€¢ Commercial gallery procedures and guidelines (payment, contracts,
-shipping, framing) â€¢ Promotional Development (publications, websites,
-press releases, biographies) â€¢ Professional arts practices (pricing,
+• Commercial gallery procedures and guidelines (payment, contracts,
+shipping, framing) • Promotional Development (publications, websites,
+press releases, biographies) • Professional arts practices (pricing,
 documentation, editions, reproductions) 
 
 In addition, participants will have the opportunity to network with other

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 33
 type: "TALK"
+venue: "Shadbolt Centre for Arts"
 summary: "Shadbolt Centre for Arts | Julia Chang | 7PM | AUG 28"
 ---
 

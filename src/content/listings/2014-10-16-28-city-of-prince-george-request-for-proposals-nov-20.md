@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 28
 type: ""
+venue: "City of Prince George"
 summary: "City of Prince George | Request for Proposals | NOV 20"
 ---
 
@@ -17,7 +18,7 @@ Deadline: November 20, 2014
 
 The City of Prince George seeks to commission an artist to create public 
 art that celebrates the spirit of northern British Columbia for the 
-municipalityâ€™s 100th anniversary.
+municipality’s 100th anniversary.
 
 For the full description of the project and to view the RFP, go to: 
 http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument?

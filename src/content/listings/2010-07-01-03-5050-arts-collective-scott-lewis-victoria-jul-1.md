@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 3
 type: ""
+venue: "50/50 Arts Collective"
 summary: "50/50 Arts Collective | Scott Lewis | Victoria | JUL 1"
 ---
 
@@ -23,10 +24,10 @@ these works we see Lewis digging into the history of an
 industrialized civilization. His own memories of growing up in
 rural western Canada are infused with its overwhelmingly vast
 landscapes. These memories coupled with his own personal
-struggle to justify mankindï¿½s unsustainable path within it
+struggle to justify mankind�s unsustainable path within it
 conjure up themes of death, religion, innocence and the
 supernatural.
-This is Lewisï¿½ first show in two years and first ever in western
+This is Lewis� first show in two years and first ever in western
 Canada.
 
 Scott Lewis was born in the grassy plains of Alberta and raised

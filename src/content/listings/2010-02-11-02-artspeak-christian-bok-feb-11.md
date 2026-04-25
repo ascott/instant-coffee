@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we'll keep the light on for you"
 emailDate: "Thu, 11 Feb 2010 10:30:16 -0800"
 number: 2
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Christian Bok | FEB 11"
 ---
 

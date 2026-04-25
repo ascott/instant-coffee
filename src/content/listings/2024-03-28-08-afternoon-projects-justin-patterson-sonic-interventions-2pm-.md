@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 8
 type: "PERFORMANCE"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Justin Patterson sonic interventions | 2PM | MAR 30"
 ---
 

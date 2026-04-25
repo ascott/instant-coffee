@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Weaving Governance"
 emailDate: "Thu, 19 Dec 2019 09:35:08 -0800"
 number: 7
 type: "EDUCATION"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Camera & Lights for Women & Non-Binary Folks | JAN 24"
 ---
 

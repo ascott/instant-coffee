@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 6
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | taisha paggett and Aisha Sasha John in conversatio | OCT 12"
 ---
 

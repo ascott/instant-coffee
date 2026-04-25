@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 12
 type: ""
+venue: "Dunlevy Snackbar"
 summary: "Dunlevy Snackbar | launch: Setup Edition 1 | APR 16"
 ---
 
@@ -39,7 +40,7 @@ poems and interviews herein reflect the diversity of forms through
 which art is currently produced and considered. We feature a spectrum 
 of contributors, from students to established artists and writers, all the 
 while prioritizing a combination of creativity and rigorous inquiry. Setup 
-magazine began as a project for The Practice of Artistsâ€™ Publishing, a 
+magazine began as a project for The Practice of Artists’ Publishing, a 
 course taught by Kathy Slade at Emily Carr University in the fall of 
 2010. Published by Publication Studio Vancouver, it is independently 
 funded and released on an unfixed schedule. We gratefully 

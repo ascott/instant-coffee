@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 5
 type: "EVENT"
+venue: "VAG @ Four Seasons Hotel"
 summary: "VAG @ Four Seasons Hotel | Audain Prize and VIVA Awards | 7PM | MAY 24"
 ---
 

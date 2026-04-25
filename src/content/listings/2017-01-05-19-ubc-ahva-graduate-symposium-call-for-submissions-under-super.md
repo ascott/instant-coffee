@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 19
 type: "CALL"
+venue: "UBC AHVA Graduate Symposium"
 summary: "UBC AHVA Graduate Symposium | Call for Submissions \"Under Super Vision\" | JAN 15"
 ---
 

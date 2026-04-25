@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 4
 type: "OPENING"
+venue: "SFU Gallery"
 summary: "SFU Gallery | MFA Graduating Exhibition | 7-9PM | SEP 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 14
 type: ""
+venue: "Vancouver International Film Centre"
 summary: "Vancouver International Film Centre | SHOT ON BLOOD: KOZMIKONIC ELECTRONICA | NOV 28"
 ---
 

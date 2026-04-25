@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 22
 type: "EVENT"
+venue: "Deer Lake Art Gallery"
 summary: "Deer Lake Art Gallery | Live at the Gallery | OCT 13"
 ---
 

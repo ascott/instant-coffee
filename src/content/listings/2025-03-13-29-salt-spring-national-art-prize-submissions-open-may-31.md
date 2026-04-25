@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 29
 type: "CALL"
+venue: "Salt Spring National Art Prize"
 summary: "Salt Spring National Art Prize | Submissions open | MAY 31"
 ---
 

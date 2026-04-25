@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: #tearitdown2018"
 emailDate: "Thu, 25 Oct 2018 12:00:18 -0700"
 number: 11
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Big Rock Candy Mountain: QA CHEW’S BUBBLE TROUBLE | OCT 31"
 ---
 

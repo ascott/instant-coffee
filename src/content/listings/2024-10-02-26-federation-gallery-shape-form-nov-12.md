@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 26
 type: "CALL"
+venue: "Federation Gallery"
 summary: "Federation Gallery | Shape & Form | NOV 12"
 ---
 

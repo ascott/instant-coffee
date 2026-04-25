@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 39
 type: "CALL"
+venue: "VIFF"
 summary: "VIFF | Submissions | APR 23"
 ---
 

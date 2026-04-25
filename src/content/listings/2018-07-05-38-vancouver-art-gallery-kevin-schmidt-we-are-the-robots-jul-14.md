@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 38
 type: "OPENING"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Kevin Schmidt: We Are the Robots | JUL 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 13
 type: ""
+venue: "RAG"
 summary: "RAG | Artist Talk & Tour: Susan Stewart and Seaton | JAN 17"
 ---
 

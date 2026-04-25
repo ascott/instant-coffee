@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 12
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Patrick Staff - The Foundation | FEB 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't be fooled"
 emailDate: "Thu, 23 Jul 2009 10:00:47 -0700"
 number: 2
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | Thought On Film XVIII | JUL 23"
 ---
 

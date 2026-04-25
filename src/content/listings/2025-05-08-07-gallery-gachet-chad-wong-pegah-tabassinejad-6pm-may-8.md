@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 7
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | Chad Wong & Pegah Tabassinejad | 6PM | MAY 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 37
 type: "CALL"
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | Dawson Residency Award | MAR 1"
 ---
 

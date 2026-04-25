@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 11
 type: "OPENING"
+venue: "The Apartment"
 summary: "The Apartment | Occasional Furniture | MAR 29"
 ---
 
@@ -18,7 +19,7 @@ Brickell, Cobra, Larry Cohen, Bruce Connor, Mark Dion, Charles and Ray
 Eames, The Edit, Rainer Ganahl, Richard Henriquez, Julian Hou, George Ohr,
 Knauf and Brown, Kelly Lamb, Lee Lozano, Roy McMakin, Tiziana La Melia,
 Maynard Monroe, Matt Murphy Design, Elizabeth McIntosh, Otto Muehl, Gailan
-Ngan, Wayne Ngan, JosÃ©e Aubin Ouellette, Danica Phelps, Althea Thauberger,
+Ngan, Wayne Ngan, Josée Aubin Ouellette, Danica Phelps, Althea Thauberger,
 Lisa Turner Design, Sylvain Sailly, Steven Shearer, Joanna Staniszkis,
 Mungo Thomson, Victor Vasarely and more!
 

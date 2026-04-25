@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 16
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | The Long Table Dinner | JUN 22"
 ---
 

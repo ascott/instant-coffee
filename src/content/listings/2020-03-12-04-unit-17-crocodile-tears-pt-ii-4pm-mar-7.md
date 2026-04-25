@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 4
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Crocodile Tears pt. II | 4PM | MAR 7"
 ---
 

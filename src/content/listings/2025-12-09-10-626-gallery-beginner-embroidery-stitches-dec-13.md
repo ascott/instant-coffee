@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 10
 type: "EDUCATION"
+venue: "626 Gallery"
 summary: "626 Gallery | Beginner Embroidery Stitches | DEC 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 36
 type: "EDUCATION"
+venue: "1000 Parker Street"
 summary: "1000 Parker Street | [WORKSHOP] WEEKEND Drawing/Painting | JUN 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 17
 type: "EDUCATION"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | adhoc plots collective: Walk and Glean | FEB 2"
 ---
 

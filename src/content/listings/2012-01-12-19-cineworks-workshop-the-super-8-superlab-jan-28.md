@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 19
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | WORKSHOP: THE SUPER-8 SUPERLAB | JAN 28"
 ---
 
@@ -16,7 +17,7 @@ camera speeds, exposures, single-framing (animation), in-camera
 editing, and an intro to B/W film, with hands-on collaborative film
 shooting. Day 2 focuses on processing your own B/W Super-8 movie
 film, with hands-on developing trials in our Annex darkroom. Film
-will be transferred by Cineworksâ€™ telecine transfer service, and on
+will be transferred by Cineworks’ telecine transfer service, and on
 Day 3, participants will be able to focus on editing and exhibition
 possibilities, including an overview of Final Cut Pro capabilities,
 sound, and different methods of presenting the film. This workshop is
@@ -43,8 +44,8 @@ $100 Non-Members
 *workshop includes Super-8 film and developing chemicals
 
 TO REGISTER:
-By Phone â€“ 604-685-3841
-In Person â€“ Suite 300- 1131 Howe St. (back lane entrance)
-By Email â€“ info@cineworks.ca
+By Phone – 604-685-3841
+In Person – Suite 300- 1131 Howe St. (back lane entrance)
+By Email – info@cineworks.ca
 
 www.cineworks.ca

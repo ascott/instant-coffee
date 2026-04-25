@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Tania Wilard: dissimulation | SEP 15"
 ---
 

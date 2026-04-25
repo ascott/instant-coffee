@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 7
 type: "OPENING"
+venue: "Ceremonial/Art"
 summary: "Ceremonial/Art | Jinaháa | 4PM | JUL 24"
 ---
 

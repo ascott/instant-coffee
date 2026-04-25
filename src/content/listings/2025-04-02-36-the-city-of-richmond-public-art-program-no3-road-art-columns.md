@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 36
 type: "CALL"
+venue: "The City of Richmond Public Art Program"
 summary: "The City of Richmond Public Art Program | No.3 Road Art Columns Exhibition | MAY 22"
 ---
 

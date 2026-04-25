@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 8
 type: "FUNDRAISER"
+venue: "TRAPP PROJECTS"
 summary: "TRAPP PROJECTS | POP UP FUNDRAISER | DEC 8-10 | DEC 8"
 ---
 

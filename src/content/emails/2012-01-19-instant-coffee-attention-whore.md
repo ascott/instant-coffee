@@ -14,7 +14,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-01-19-01-contemporary-art-gallery-and-push-andrew-cross-the-solo-and-">01. Contemporary Art Gallery and PUSH | Andrew Cross: The Solo and Ensemble | JAN 19</a>
 <a href="/instant-coffee/listings/2012-01-19-02-satellite-gallery-letters-michael-morris-and-concrete-poetry">02. Satellite Gallery | LETTERS: MICHAEL MORRIS AND CONCRETE POETRY | JAN 19</a>
-<a href="/instant-coffee/listings/2012-01-19-03-gallery-gachet-workshop-the-artists-reality-jan-19">03. Gallery Gachet | workshop: The Artistâ€™s Reality | JAN 19</a>
+<a href="/instant-coffee/listings/2012-01-19-03-gallery-gachet-workshop-the-artists-reality-jan-19">03. Gallery Gachet | workshop: The Artist’s Reality | JAN 19</a>
 <a href="/instant-coffee/listings/2012-01-19-04-the-commons-sharing-public-space-jan-19">04. THE COMMONS | SHARING PUBLIC SPACE | JAN 19</a>
 <a href="/instant-coffee/listings/2012-01-19-05-access-new-work-christian-kliegel-ed-pien-and-alison-mactagg">05. ACCESS: NEW WORK | Christian Kliegel, Ed Pien, and Alison MacTaggart | JAN 20</a>
 <a href="/instant-coffee/listings/2012-01-19-06-read-books-book-launches-bill-bissett-jan-19-brian-jungen-ja">06. READ BOOKS | Book Launches | bill bissett | Jan 19 | BRIAN JUNGEN | JAN 20</a>
@@ -29,7 +29,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-01-19-15-presentation-house-gallery-c-1983-jan-27">15. Presentation House Gallery | â€œC. 1983â€  | JAN 27</a>
 <a href="/instant-coffee/listings/2012-01-19-16-shudder-gallery-ive-plumbed-the-depths-of-this-whole-zone-ja">16. Shudder Gallery | Ive Plumbed The Depths Of This Whole Zone | JAN 27</a>
 <a href="/instant-coffee/listings/2012-01-19-17-yactac-gallery-microcosms-jan-28">17. Yactac Gallery | MICROCOS(MS) | JAN 28</a>
-<a href="/instant-coffee/listings/2012-01-19-18-contemporary-art-society-of-vancouver-call-emerging-artists-">18. Contemporary Art Society of Vancouver | Call Emerging Artistâ€™s Prize | JAN 31</a>
+<a href="/instant-coffee/listings/2012-01-19-18-contemporary-art-society-of-vancouver-call-emerging-artists-">18. Contemporary Art Society of Vancouver | Call Emerging Artist’s Prize | JAN 31</a>
 <a href="/instant-coffee/listings/2012-01-19-19-exit-22-at-capilano-university-the-crucible-feb-15">19. Exit 22 at Capilano University | THE CRUCIBLE | FEB 15</a>
 <a href="/instant-coffee/listings/2012-01-19-20-geist-postcard-contest-feb-15">20. Geist | Postcard Contest | FEB 15</a>
 <a href="/instant-coffee/listings/2012-01-19-21-kimmel-harding-nelson-center-for-the-arts-call-for-residency">21. Kimmel Harding Nelson Center for the Arts | CALL for Residency | Nebraska City | MAR 1</a>
@@ -82,9 +82,9 @@ consideration of the shifting nature of cultural value.
 
 Ensemble is a recent collaboration with musicians associated with 
 1970s 
-â€˜progressive' rock, Andrew Cross has worked with a group once 
+‘progressive' rock, Andrew Cross has worked with a group once 
 dubbed 
-Europe's â€˜biggest cult band': The Enid. This will be the first international 
+Europe's ‘biggest cult band': The Enid. This will be the first international 
 screening of Ensemble produced to coincide with The Enid's concert 
 with the 
 City of Birmingham Symphony Orchestra (CBSO) in October 2011.
@@ -198,7 +198,7 @@ Morris and Helen Belkin Art Gallery
 naomi.sawada@ubc.ca tel: 604-822-3640
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-01-19-03-gallery-gachet-workshop-the-artists-reality-jan-19">03. Gallery Gachet | workshop: The Artistâ€™s Reality | JAN 19</a>
+<a href="/instant-coffee/listings/2012-01-19-03-gallery-gachet-workshop-the-artists-reality-jan-19">03. Gallery Gachet | workshop: The Artist’s Reality | JAN 19</a>
 ------------------------------------------------------------------------
 **Please circulate and distribute widely**
 
@@ -207,46 +207,46 @@ Women Resource Society -
 
 launches new workshop series!
 
-The Artistâ€™s Reality:
+The Artist’s Reality:
 
 exploring the cultural landscape and realities of being an artist
 
 Presented by Karen Lievesley and Bernadine Fox
 
-Thurs Jan 19th + 26th, 2012, 7 â€“ 9pm: led by Karen (on the cultural landscape 
+Thurs Jan 19th + 26th, 2012, 7 – 9pm: led by Karen (on the cultural landscape 
 and outsider/visionary art)
 
-Thurs Feb 2nd + 9th, 2012, 7 â€“ 9pm: led by Bernadine (on portfolio building and 
+Thurs Feb 2nd + 9th, 2012, 7 – 9pm: led by Bernadine (on portfolio building and 
 marketing yourself)
 
 Gallery Gachet | 88 East Cordova Street, Vancouver | www.gachet.org
 
 All Welcome | By Donation
 
-Gachetâ€™s Art School continues to be developed with the introduction of a weekly 
+Gachet’s Art School continues to be developed with the introduction of a weekly 
 workshop series presented by Associate Member, Bernadine Fox and long-time 
-gallery supporter, Karen Lievesley on The Artistâ€™s Reality: exploring the cultural 
+gallery supporter, Karen Lievesley on The Artist’s Reality: exploring the cultural 
 landscape and realities of being an artist.
 
-This 4-week workshop series will cover topics ranging from â€œThe history of 
+This 4-week workshop series will cover topics ranging from “The history of 
 artist run centres and cultural institutionsâ€  to â€œVancouverâ€™s Art Scene and 
 Outsider Art - where does Gachet fit?â€ ; from â€œThe economic truth of being an 
 artistâ€  to â€œWays in which to survive economicallyâ€ ; Participants will be 
 encouraged to think about how they sit in relation to the artist run culture 
 movement in Canada and specifically, Vancouver, as well as help them develop 
-their own artsâ€™ careers.
+their own arts’ careers.
 
 Through a weekly lecture series, and interactive discussion, participants will 
 learn all about being an artist and the cultural landscape you inevitably inhabit.
 
-Week 1 â€“ Jan 19th - learning about the art system: CARFAC, the difference 
+Week 1 – Jan 19th - learning about the art system: CARFAC, the difference 
 between art galleries and artist run centres, how Gachet sits in relation to other 
 organizations.
-Week 2 â€“ Jan 26th - a focus on Outsider art, art and healing and the dissident, 
+Week 2 – Jan 26th - a focus on Outsider art, art and healing and the dissident, 
 non-mainstream artists that Gachet supports and represents.
-Week 3 â€“ Feb 2nd - How to develop your portfolio and art practice and the 
+Week 3 – Feb 2nd - How to develop your portfolio and art practice and the 
 economic realities of being an artist.
-Week 4 â€“ Feb 9th - The best ways to market yourself, get your work out into 
+Week 4 – Feb 9th - The best ways to market yourself, get your work out into 
 different communities and online.
 
 For more information, please visit http://gachet.org/ or contact Lara Fitzgerald, 
@@ -273,7 +273,7 @@ January 12 - 21, 2012
 Public Discussion: Jan 19 7:00 PM - 9:00 PM
 Organised by: North Vancouver Urban Forum Society
 
-Venue: CafÃ© for Contemporary Art
+Venue: Café for Contemporary Art
 140 East Esplanade, North Vancouver
 (778) 340-3379
 
@@ -314,7 +314,7 @@ inquiry
 photo project organised by Cath Anne Ambrose. I understand she's still 
 accepting photos of things people love about Lower Lonsdale, so get 
 clickin'! 
-(lovinlolophotos@gmail.com). The cafÃ© for contemporary art is super 
+(lovinlolophotos@gmail.com). The café for contemporary art is super 
 proud to 
 host!
 
@@ -328,7 +328,7 @@ Stay tuned at urbanforum.wordpress.com
 
 Happy 2012!!
 
-all of us at CafÃ© for Contemporary Art/Architecture/Urban Design/Civic 
+all of us at Café for Contemporary Art/Architecture/Urban Design/Civic 
 Engagement/Coffee/Home-made Cream Puffs... you know...
 
 ------------------------------------------------------------------------
@@ -337,15 +337,15 @@ Engagement/Coffee/Home-made Cream Puffs... you know...
 NEW WORK: Christian Kliegel, Ed Pien, and Alison MacTaggart
 January 20 - February 25, 2012
 Access has been a vital space for emerging artists for the past twenty years. In 
-celebration of this, weâ€™ve invited past artists to engage with works they 
+celebration of this, we’ve invited past artists to engage with works they 
 originally presented at Access. Now well-known local, national, and international 
 artists, Christian Kliegel, Ed Pien, and Alison MacTaggart will produce new work 
 launching from the ideas and concerns found earlier in their career. The 
 exhibition will be comprised of three successive installations.
 
-Christian Kliegel: January 20th â€“ 27th, 2012
+Christian Kliegel: January 20th – 27th, 2012
 
-(There is no opening reception at the artistâ€™s request.)
+(There is no opening reception at the artist’s request.)
 
 On view until Friday January 27, 2012, Christian Kliegel reinvents a past work, 
 offering a new and engaging installation physically unfamiliar with, and 
@@ -360,14 +360,14 @@ clinging like barnacles to the hull of a large ship. A reinvention solicits curi
 A reinvention is not objective; it is a call for interpretation. A reinvention is a 
 question about what ideas from the past might mean in the present, and it wants 
 those ideas to be useful, helpful, maybe even critical. A reinvention is ruthless, 
-it asks the past to be more then a well-rehearsed story, â€¦- Helen Molesworth
+it asks the past to be more then a well-rehearsed story, …- Helen Molesworth
 
-In 2006, Access presented Christian Kliegelâ€™s Gloom, Boom, and Doom. Kliegel 
+In 2006, Access presented Christian Kliegel’s Gloom, Boom, and Doom. Kliegel 
 developed a collapsed sculptural installation in the main gallery using materials 
 found in the Access space, (including a gallery wall that he dismantled) altering 
 the overall design of the gallery through its completion. Engaged with the idea of 
 reinvention as promoted by American artist Allan Kaprow and later by curator 
-Helen Molesworth, Kliegelâ€™s current one week installation reinvents his original 
+Helen Molesworth, Kliegel’s current one week installation reinvents his original 
 2006 project as a new work that evokes the past project, yet is completely 
 unlike the original.
 
@@ -392,20 +392,20 @@ undergoing that transformation but in reverse.
 New Work will continue with the following installations (More information 
 specific to these installations will follow in the coming weeks):
 
-Ed Pien: January 29th â€“ February 11th, 2012
+Ed Pien: January 29th – February 11th, 2012
 Reception: Sunday January 29th, 2012 (Artist in Attendance)
 
-In 1995, Access presented Ed Pienâ€™s first solo exhibition in Vancouver. The 
+In 1995, Access presented Ed Pien’s first solo exhibition in Vancouver. The 
 drawing-based installation, The Blue Room used pornography as the source 
 material for three-minute drawings. Thinking about this initial exhibition 16 
 years later, Pien is developing an immersive installation exploring the latest 
 trends in entertainment technology, CGI and 3D.
 
-Alison MacTaggart: February 14th â€“ 25th, 2012
+Alison MacTaggart: February 14th – 25th, 2012
 
-In 2002, Alison MacTaggartâ€™s Access exhibition, The Egg Throwing Apparatus 
+In 2002, Alison MacTaggart’s Access exhibition, The Egg Throwing Apparatus 
 explored the symbolic gesture of projection of self into the social realm. 
-Constructing tool/toy-like egg projectile machines McTaggartâ€™s exhibition gave 
+Constructing tool/toy-like egg projectile machines McTaggart’s exhibition gave 
 physical and sculptural presence to a theoretical discussion of linguistics and 
 the act of coming out. Since her exhibition, MacTaggart has continued to 
 develop playful apparatus dealing with these strands. For New Work 
@@ -433,7 +433,7 @@ bill bissett by Carl Peters and novel by bill bissett both published by
 Talon Books.
 
 Carl Peters will read from textual vishyuns, which attests that bill 
-bissettâ€™s entire body of work consists of an integrated aesthetic praxis 
+bissett’s entire body of work consists of an integrated aesthetic praxis 
 of â€œthe whole artâ€ ; that his drawings, paintings, collages and 
 assemblages challenge artistic conventions of visual language in the 
 same way that his poetry challenges linguistic conventions of syntax 
@@ -460,7 +460,7 @@ The artist will be in attendance.
 READ Books at the Charles H. Scott Gallery and the Art Gallery of 
 Alberta, Edmonton, would like to invite you to join us to celebrate the 
 launch of Brian Jungen: Carapace. The book and limited edition 
-document, Carapace, one of Brian Jungenâ€™s largest works which was 
+document, Carapace, one of Brian Jungen’s largest works which was 
 initially created in early 2009 for the FRAC des Pays de la Loire, 
 France. Jungen then completely reconfigured Carapace for his solo 
 exhibition at the Smithsonian National Museum of the American Indian, 
@@ -503,7 +503,7 @@ Zain Burgess was born and raised in Deep Cove, North Vancouver. He received
 an Associates Degree in Sociology and Philosophy at Capilano University and 
 received a B.F.A. from Emily Carr University of Art and Design with 
 supplementary studies in Berlin at Weissensee Kunsthalle, University of Art and 
-Design. Heâ€™s been living in between Berlin and Vancouver since, basing himself 
+Design. He’s been living in between Berlin and Vancouver since, basing himself 
 out of Vancouver. His work consists of installation, performance, video and 
 sculpture that works with ideas of the cinematic phenomenology and the 
 speculative catharsis of experience. He was recently featured in shows: 
@@ -561,28 +561,28 @@ Presentation House Gallery is pleased to present an artist talk by Paris-born,
 Berlin-based artist Cyprien Gaillard. 
 
 Between iconoclasm and minimal aesthetics, romanticism and Land Art, the 
-work of Cyprien Gaillard questions manâ€™s traces in nature with an archeological 
+work of Cyprien Gaillard questions man’s traces in nature with an archeological 
 approach to recent history. Through sculpture, painting, etching, photography, 
 video, performance and large-scale interventions in public space, Gaillard 
 examines the relics of our built environment with an entropic view of destruction 
 as the starting point of renewal
 
-Gaillardâ€™s most recent work Artefact is a film shot on the artistâ€™s iPhone and 
+Gaillard’s most recent work Artefact is a film shot on the artist’s iPhone and 
 later transferred to 35mm film. The film traces the ancient city of Babylon (near 
-the current city of Al-Hillah in Iraq) cut with a snippet of David Greyâ€™s song 
-â€˜Babylonâ€™ as the score. The work won the 2011 Publikumspreis (peopleâ€™s choice 
-prize) in Germanyâ€™s Young Art Prize exhibition at Berlinâ€™s Hamburgerbahnhof. 
+the current city of Al-Hillah in Iraq) cut with a snippet of David Grey’s song 
+‘Babylon’ as the score. The work won the 2011 Publikumspreis (people’s choice 
+prize) in Germany’s Young Art Prize exhibition at Berlin’s Hamburgerbahnhof. 
 
 In The Recovery of Discovery, Gaillard notoriously built a pyramid out of 72,000 
 bottles of beer at KW Institute for Contemporary Art in Berlin and invited visitors 
-to contribute to the work by drinking it. As Gaillard states:. â€œThe physical 
+to contribute to the work by drinking it. As Gaillard states:. “The physical 
 hangover is also an architectural one, from which one has to recover.â€  
 
-Gaillard was recently awarded the 2010 Prix Marcel Duchamp, Franceâ€™s most 
+Gaillard was recently awarded the 2010 Prix Marcel Duchamp, France’s most 
 prestigious award for contemporary visual arts.
 
-Cyprien Gaillardâ€™s talk is presented in collaboration with Emily Carr University 
-and with the gracious support of the Consulat gÃ©nÃ©ral de France Ã  Vancouver. 
+Cyprien Gaillard’s talk is presented in collaboration with Emily Carr University 
+and with the gracious support of the Consulat général de France à Vancouver. 
 He is represented by Spruth Magers Gallery, Berlin.
 
 ------------------------------------------------------------------------
@@ -591,12 +591,12 @@ He is represented by Spruth Magers Gallery, Berlin.
 Guided Tour
 Presented by the PuSh International Performing Arts Festival, Vancouver Art 
 Gallery and Boca del Lupo
-January 25 â€“ 29, 2012
+January 25 – 29, 2012
 Jan 25, 6pm | Jan 26-29 6pm & 9pm
 Vancouver Art Gallery, 750 Hornby Street.
 
 A beguiling mixture of video and performance, Peter Reder's Guided Tour takes 
-place after-hours in the darkened passages of the Vancouver Art Galleryâ€”a 
+place after-hours in the darkened passages of the Vancouver Art Gallery—a 
 former provincial courthouse and one of the city's most treasured turn-of-the-
 century heritage buildings. From the London-based artist that brought City of 
 Dreams to the 2011 PuSh Festival, Guided Tour similarly explores notions of 
@@ -607,7 +607,7 @@ contemplation of the nature of architectural spaces and the memories they
 embody.
 
 Peter Reder creates intimate, witty, and thoughtful work, often based on 
-historical sources. His site-based work has been seen in some of the worldâ€™s 
+historical sources. His site-based work has been seen in some of the world’s 
 great museums, galleries, and public buildings. He has produced work in the UK 
 for LIFT, National Theatre, South London Gallery, and Somerset House, as well 
 as internationally. Guided Tourpremiered at the Edinburgh Festival in 
@@ -641,12 +641,12 @@ Space.
 <a href="/instant-coffee/listings/2012-01-19-11-centre-a-and-push-chelfitsch-jan-26">11. Centre A and PUSH | Chelfitsch | JAN 26</a>
 ------------------------------------------------------------------------
 Centre A co-presents
-With PuSh International Performing Arts Festival & SFU Woodwardâ€™s
+With PuSh International Performing Arts Festival & SFU Woodward’s
 
 Hot Pepper, Air Conditioner and the Farewell Speech
 chelfitsch (Tokyo, Japan)
 
-January 26 â€“ 28, 2012, 8:00 pm
+January 26 – 28, 2012, 8:00 pm
 (Running Time 65min)
 Studio T, Goldcorp Centre for the Arts, 149 West Hastings Street.
 
@@ -665,7 +665,7 @@ Eligible for PuSh Pass access
 
 A group of office temps plan a farewell party for a recently laid off 
 colleague. Will a Motsu hot pot restaurant do? Someone is obviously 
-tampering with the climate-control system and itâ€™s getting out of hand. 
+tampering with the climate-control system and it’s getting out of hand. 
 Should the police be notified? A coworker makes her farewell speech. 
 What does it have to do with imaginary penguins and the death of a 
 cicada?
@@ -678,8 +678,8 @@ and John Cage, each of the three scenes speak to the dark humour
 and despair of a generation that had been promised a brilliant future 
 only to end up ensnared in fluorescent cubicles.
 
-Strangely hypnoticâ€¦ a three-part meditation on death, class, and 
-listening for the sad poetry in the everydayâ€¦ By creating a jarring 
+Strangely hypnotic… a three-part meditation on death, class, and 
+listening for the sad poetry in the everyday… By creating a jarring 
 juxtaposition between the physical score and the text, the forgettable is 
 remembered, small details speak volumes. - Engine 28
 
@@ -730,7 +730,7 @@ gravity, begun in his Calder-influenced Stabile series of floor-bound
 mobiles. Though caryatids are a common architectural motif of 
 antiquity, sculpted female figures which act as weight-bearing columns, 
 Moppetts' version carries nothing, her fingers grasp towards the ceiling. 
-Within the context of his surrounding Å“uvre, this work conveys the crux 
+Within the context of his surrounding œuvre, this work conveys the crux 
 of our relationship towards history, is it burdensome, or ephemeral? Is it 
 a phantasm we can only clutch at as its influence emanates all around 
 us?
@@ -748,8 +748,8 @@ Born in Calgary, Alberta in 1969 and currently living and working in
 Vancouver, Damian Moppett attended Emily Carr College of Art and 
 Design and received his Master of Fine Arts from Concordia University, 
 Montreal. He has exhibited widely including at The Power Plant, 
-Toronto; The National Gallery of Canada, Ottawa; MusÃ©e d'art 
-contemporain de MontrÃ©al and the Witte de With, Rotterdam.
+Toronto; The National Gallery of Canada, Ottawa; Musée d'art 
+contemporain de Montréal and the Witte de With, Rotterdam.
 
 Rennie Collection has evolved over a number of years to focus on 
 works related to identity, social injustice, appropriation, painting and 
@@ -778,7 +778,7 @@ Exhibition Dates: January 27 - April 1, 2012
 
 This exhibition by Stuart McCall and Neil Wedman is comprised of two separate 
 bodies of work made years apart but linked by an indelible subject of local 
-history, William Vander Zalmâ€™s Fantasy Garden World. Wedman attended the 
+history, William Vander Zalm’s Fantasy Garden World. Wedman attended the 
 proceedings of the Vander Zalm trial in 1991 and made numerous pencil 
 portraits of those who participated, primarily witnesses as they testified. Years 
 later, McCall documented the neglected gardens just prior to demolition by its 
@@ -809,7 +809,7 @@ Lotus Awards, and International Photography awards. Living in Vancouver, BC
 since 1968, he has been making images for over 25 years.
 
 Since the 1990s he has worked with Vancouver artist Neil Wedman on various 
-photo based projects including â€œEvery Bus Stop from My Place to the 
+photo based projects including “Every Bus Stop from My Place to the 
 Racetrackâ€  (1997), and â€œMovies â€˜til Dawnâ€  (2009). Represented in Vancouver by 
 the Vancouver Art Gallery Art Rentals and Sales and in Calgary at the Axis 
 Contemporary Art Gallery, his work has also been shown at the Surrey Art 
@@ -845,7 +845,7 @@ based media artist Jeremy Bailey. Bailey will present a performative artist talk
 and performance in the Grande Luxe Hall, as part of Western Front Media Arts 
 ongoing engagement with networked media arts practice. Bailey as a self-
 proclaimed â€œFamous New Media Artistâ€  employs wry humor to critique â€˜new 
-mediaâ€™ vocabularies and to explore the tension between technology and the 
+media’ vocabularies and to explore the tension between technology and the 
 body through the cartoonish aesthetic of online culture.
 
 Employing expert knowledge of softwear design, Bailey designs specific 
@@ -853,12 +853,12 @@ platforms for both online and live performative contexts, often using consumer
 technology. At Western Front Bailey will perform Nam June Paik for Western 
 Front, in which he designates himself the first practitioner of â€œKinect Artâ€ , in 
 which he utilizes the consumer gaming system Microsoft Kinect, referencing 
-Nam June Paikâ€™s relationship to the invention of video art.
+Nam June Paik’s relationship to the invention of video art.
 
-Western Front Media Arts is presenting Jeremy Baileyâ€™s performance in 
+Western Front Media Arts is presenting Jeremy Bailey’s performance in 
 partnership with Electric Speed at Surrey Art Gallery, an exhibition of works 
 designed for presentation on urban screens curated by Kate Armstrong and 
-Malcolm Levy. Baileyâ€™s new work, Explore The Future of Creativity will be 
+Malcolm Levy. Bailey’s new work, Explore The Future of Creativity will be 
 presented alongside works by John Sasaki, Will Gill and Jillian MacDonald. For 
 more information visit electricspeed.ca
 
@@ -939,22 +939,22 @@ January 28th - Febuaury 11th
 Opening Reception January 27th 7-11pm
 Shudder Gallery 
 
-â€œFirst there was the collapse of civilization, anarchy, genocide, 
-starvation. Then when it seemed things couldnâ€™t get any worse, we got 
+“First there was the collapse of civilization, anarchy, genocide, 
+starvation. Then when it seemed things couldn’t get any worse, we got 
 the plague. The living death. Quickly closing its fist over the entire 
 planet. Then we heard the rumors. That the last scientists were working 
 on a cure that would end the plague and restore the world. Restore 
-itâ€¦â€¦WHY? I like the death. I like the misery. I LIKE THIS 
+it……WHY? I like the death. I like the misery. I LIKE THIS 
 WOOOORRRRLLLLLLLLDDDD!!!!!â€  - Cyborg (1989 dir. Albert Pyun)
 It is with the eyes that the mutants have witnessed the most atrocities 
 therefore it is with these drawings that we commit upon the mutant an 
 act of ocular defenestration. The eyes must always be the first to go.
-Iâ€™ve Plumbed the Depths of this Whole Zone is a group exhibition 
+I’ve Plumbed the Depths of this Whole Zone is a group exhibition 
 featuring Jeff Halladay, Lee Henderson, Michelle Jukic, and Shay 
-Semple. Weâ€™re done with any sort of lengthy exegesis regarding the 
-meaning and purpose of our art. Weâ€™ve been down that toilet before 
-and itâ€™s boring. This show represents the last remaining vestiges of our 
-mutant community that hasnâ€™t packed up and vacated the sewer system 
+Semple. We’re done with any sort of lengthy exegesis regarding the 
+meaning and purpose of our art. We’ve been down that toilet before 
+and it’s boring. This show represents the last remaining vestiges of our 
+mutant community that hasn’t packed up and vacated the sewer system 
 known as Vancouver for more saxophone oriented cities like New York. 
 We have stayed, in the sub-basements and the abandoned tenements. 
 Studying, slowly growing in power, becoming victims of our erudition. 
@@ -1037,12 +1037,12 @@ gases; or for soluble poisons capable of being produced in such quantities as to
 destroy the vegetation of whole continents; or for breeds of disease germs 
 immunised against all possible antibodies.â€  â€“ George Orwell - 1984
 
-A people whoâ€™s primary aims are driving, shopping, and television are subject to 
-terrorism at any time. â€“ Steven Deitz
+A people who’s primary aims are driving, shopping, and television are subject to 
+terrorism at any time. – Steven Deitz
 
 Yactac Gallery is proud to present "Microcos(ms)", a group exhibition by four 
 Contemporary Canadian artists. The works illustrate the presence of biological 
-threats in todayâ€™s society, where fear tactics prop up the present 
+threats in today’s society, where fear tactics prop up the present 
 pharmaceutical economy. The process of division and amalgamation in 
 microorganisms on manufactured surfaces is translated and applied through 
 multiple medias.
@@ -1058,9 +1058,9 @@ Twitter: www.twitter.com/yactac
 Facebook: http://www.facebook.com/pages/Yactac/219495644734594
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-01-19-18-contemporary-art-society-of-vancouver-call-emerging-artists-">18. Contemporary Art Society of Vancouver | Call Emerging Artistâ€™s Prize | JAN 31</a>
+<a href="/instant-coffee/listings/2012-01-19-18-contemporary-art-society-of-vancouver-call-emerging-artists-">18. Contemporary Art Society of Vancouver | Call Emerging Artist’s Prize | JAN 31</a>
 ------------------------------------------------------------------------
-The Contemporary Art Society of Vancouver's Emerging Artistâ€™s Prize is 
+The Contemporary Art Society of Vancouver's Emerging Artist’s Prize is 
 open to artwork in all media by artists residing in the Lower Mainland. Five 
 finalists will be selected by a jury of art professionals to take part in an 
 exhibition of their work at Access Gallery, an artist-run centre in 

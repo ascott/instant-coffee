@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 6
 type: ""
+venue: "NEWS"
 summary: "NEWS | Libby Leshgold Gallery | Notice of Postponement | Defining Death | JAN 24"
 ---
 

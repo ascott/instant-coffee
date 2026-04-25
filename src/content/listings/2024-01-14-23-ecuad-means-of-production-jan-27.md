@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 23
 type: "EDUCATION"
+venue: "ECUAD"
 summary: "ECUAD | Means of Production | JAN 27"
 ---
 

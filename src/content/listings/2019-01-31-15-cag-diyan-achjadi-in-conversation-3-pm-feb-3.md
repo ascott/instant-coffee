@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 15
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Diyan Achjadi in conversation | 3 PM | FEB 3"
 ---
 

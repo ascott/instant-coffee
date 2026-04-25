@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 25
 type: ""
+venue: "Langara College"
 summary: "Langara College | Launches New Dialogue Series | SEP 19"
 ---
 
 Langara Launches New Dialogue Series
 
-Vancouver, BC, September 3, 2013 â€“ Langaraâ€™s Department of Philosophy is 
-thrilled to announce the return of the popular Philosophersâ€™ Jam series for its 
+Vancouver, BC, September 3, 2013 – Langara’s Department of Philosophy is 
+thrilled to announce the return of the popular Philosophers’ Jam series for its 
 third season. 
 
 Hundreds of enquiring minds have attended the series at the College over the 
@@ -23,14 +24,14 @@ What happens to our democracy when people are more and more transparent
 will be explored by lawyer Micheal Vonn, who is the policy director for the BC 
 Civil Liberties Association.
 
-â€œWe're very excited to have such dynamic speakers participate in the 
-Philosophersâ€™ Jam series," said this seasonâ€™s event coordinator Alex Boston, 
+“We're very excited to have such dynamic speakers participate in the 
+Philosophers’ Jam series," said this season’s event coordinator Alex Boston, 
 an instructor from Langara's Philosophy Department. "We've had some 
 incredible discussions result from the previous events, and I'm sure this one 
 won't disappoint."
 
-The inaugural Philosophersâ€™ Jam of the fall 2013 season takes place on 
-Thursday, September 19, at 7:00 pm at Langara Collegeâ€™s Main Campus (100 
+The inaugural Philosophers’ Jam of the fall 2013 season takes place on 
+Thursday, September 19, at 7:00 pm at Langara College’s Main Campus (100 
 West 49th Avenue). The sessions include a short presentation by the guest 
 speaker followed by an open dialogue period. All events are free and open to 
 the public.
@@ -45,7 +46,7 @@ Speaker: John Russell, Langara Philosophy Department
 November 21: Positive and Negative Liberty
 Speaker: Tim Christie, Fraser International College
 
-All Philosophersâ€™ Jams are held on Thursdays and begin at 7:00 pm. Light 
+All Philosophers’ Jams are held on Thursdays and begin at 7:00 pm. Light 
 refreshments will be served. For more information, including full topic 
 descriptions and speaker bios, visit:www.langara.bc.ca/philosophers-jam.
 

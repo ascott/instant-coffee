@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 39
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | Visiting Speakers Panel: France as a Black Space | SEP 28"
 ---
 

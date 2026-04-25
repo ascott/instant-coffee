@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 15
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | â€œC. 1983â€  | JAN 27"
 ---
 

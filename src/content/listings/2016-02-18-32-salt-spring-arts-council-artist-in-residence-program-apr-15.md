@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 32
 type: "CALL"
+venue: "Salt Spring Arts Council"
 summary: "Salt Spring Arts Council | Artist in Residence Program | APR 15"
 ---
 

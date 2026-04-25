@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 12
 type: ""
+venue: "Book Launch"
 summary: "Book Launch | The Man Game by Lee Henderson | SEP 17"
 ---
 

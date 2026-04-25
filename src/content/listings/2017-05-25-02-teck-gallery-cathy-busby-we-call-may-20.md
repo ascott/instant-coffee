@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 2
 type: "OPENING"
+venue: "Teck Gallery"
 summary: "Teck Gallery | Cathy Busby: WE CALL | MAY 20"
 ---
 

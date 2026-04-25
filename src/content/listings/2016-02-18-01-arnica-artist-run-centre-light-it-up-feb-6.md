@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Arnica Artist-Run Centre"
 summary: "Arnica Artist-Run Centre | Light It Up | FEB 6"
 ---
 

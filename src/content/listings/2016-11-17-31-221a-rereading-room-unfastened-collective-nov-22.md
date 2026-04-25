@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 31
 type: "EVENT"
+venue: "221a"
 summary: "221a | Rereading Room & Unfastened Collective | NOV 22"
 ---
 

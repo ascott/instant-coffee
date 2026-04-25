@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "WAAP"
 summary: "WAAP | Julia Rose Sutherland | nightly in August | AUG 1"
 ---
 

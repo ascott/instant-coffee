@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watc
 emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
 number: 13
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Fundraiser: Hold Them Up in Good Light | FEB 22"
 ---
 

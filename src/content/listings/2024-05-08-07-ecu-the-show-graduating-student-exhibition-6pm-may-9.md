@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 7
 type: "OPENING"
+venue: "ECU"
 summary: "ECU | The Show graduating student exhibition | 6PM | MAY 9"
 ---
 

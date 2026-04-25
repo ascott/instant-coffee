@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 12
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Woojae Kim - I hear a silent ... | UNTIL FEB 28th | FEB 28"
 ---
 

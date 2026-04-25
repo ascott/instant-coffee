@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 3
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Eraser Street - Henri Robideau | APR 9"
 ---
 
@@ -29,7 +30,7 @@ experienced in these images. Robideau's narrative embraces a lament for
 what has been lost, a celebration for what has survived, and an admonition
 for the future of a city still in its infancy.
 
-Join us on Thursday April 9 from 7pm Ã¢â‚¬â€œ 10pm for the opening reception of
+Join us on Thursday April 9 from 7pm â€“ 10pm for the opening reception of
 Eraser Street. There will be a forthcoming publication with an essay
 written by Clint Burnham. The exhibition runs from April 9 to May 16, 2015.
 

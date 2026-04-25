@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 12
 type: "EVENT"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Drink & Draw | 7-9PM | JUL 26"
 ---
 

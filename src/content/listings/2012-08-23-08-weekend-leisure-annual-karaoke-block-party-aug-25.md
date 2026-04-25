@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 8
 type: ""
+venue: "Weekend Leisure"
 summary: "Weekend Leisure | ANNUAL KARAOKE BLOCK PARTY! | AUG 25"
 ---
 

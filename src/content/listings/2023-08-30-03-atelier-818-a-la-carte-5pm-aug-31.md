@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 3
 type: "OPENING"
+venue: "Atelier 8.18."
 summary: "Atelier 8.18. | A la Carte | 5PM | AUG 31"
 ---
 

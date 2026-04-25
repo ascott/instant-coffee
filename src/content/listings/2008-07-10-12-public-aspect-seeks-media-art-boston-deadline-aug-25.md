@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee Boils: 95% hotter"
 emailDate: "Thu, 10 Jul 2008 09:30:06 -0700"
 number: 12
 type: ""
+venue: "Public"
 summary: "Public | ASPECT SEEKS MEDIA ART | Boston | deadline | AUG 25"
 ---
 

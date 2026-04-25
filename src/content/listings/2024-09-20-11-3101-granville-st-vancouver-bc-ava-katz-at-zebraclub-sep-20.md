@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 11
 type: "EVENT"
+venue: "3101 Granville St, Vancouver BC"
 summary: "3101 Granville St, Vancouver BC | Ava Katz at Zebraclub | SEP 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 16
 type: "CALL"
+venue: "Writers' Exchange"
 summary: "Writers' Exchange | Literacy Mentors: Fall Program | SEP 16"
 ---
 

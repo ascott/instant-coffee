@@ -4,21 +4,22 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 9
 type: ""
+venue: "Western Front Performance Art"
 summary: "Western Front Performance Art | Fia Backstrom | NOV 29"
 ---
 
 Fia Backstrom
-HERD INSTINCT 360Â°
+HERD INSTINCT 360°
 
 Performance event:
 Saturday, November 29 at 7 PM
 Western Front Grand Luxe
 
-Western Front Performance Art is pleased to present HERD INSTINCT 360Â°, a
+Western Front Performance Art is pleased to present HERD INSTINCT 360°, a
 performance by Fia Backstrom organized by independent curator and writer
 Johan Lundh.
 
-HERD INSTINCT 360Â° is a staged gathering of performances and lectures.
+HERD INSTINCT 360° is a staged gathering of performances and lectures.
 Investigating human collective behavior through subjects such as cult
 mentality, corporate action and faux activism, the performance references
 the politics of group dynamics--the mass-psychosis and totalitarian

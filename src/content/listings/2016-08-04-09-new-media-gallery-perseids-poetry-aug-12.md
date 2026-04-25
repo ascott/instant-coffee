@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 9
 type: "EVENT"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Perseids + Poetry | AUG 12"
 ---
 

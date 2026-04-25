@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 17
 type: "EXHIBITION"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | ELIZABETH ZVONAR | The Future is Coming Every Day | NOV 18"
 ---
 

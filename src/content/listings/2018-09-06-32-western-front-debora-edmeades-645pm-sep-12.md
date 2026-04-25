@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 32
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | Debora Edmeades | 645PM | SEP 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 35
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Boca del Lupo | One Thing Leads to Another | FEB 14"
 ---
 

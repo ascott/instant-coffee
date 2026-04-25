@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | v=d/t | JUN 20"
 ---
 

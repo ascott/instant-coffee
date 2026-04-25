@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 12
 type: "FUNDRAISER"
+venue: "Access Gallery"
 summary: "Access Gallery | One Week Left to Support 23 Days at Sea! | SEP 3"
 ---
 

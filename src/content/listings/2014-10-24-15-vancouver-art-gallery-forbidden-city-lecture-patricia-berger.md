@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 15
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Forbidden City: Lecture | Patricia Berger | OCT 28"
 ---
 
@@ -52,7 +53,7 @@ exhibition showcases nearly 200 precious works from the Forbidden City
 that have rarely been seen outside of China. These exquisite examples 
 from Chinese cultural history date from as early as 500 CE to the early-
 twentieth century and include such treasures as paintings, ceramics, gold 
-and silver wares, jade, cloisonnÃ©, bronzes and textiles.
+and silver wares, jade, cloisonné, bronzes and textiles.
 
 Organized in nine key sections, the exhibition leads visitors through the 
 realms of the Imperial Palace. To enter the Forbidden City was to enter the 
@@ -81,7 +82,7 @@ City are displayed in Consuming-from a jade teacup to a dog's coat or the
 emperor's gilded footbath, these objects were wildly expensive and finely 
 crafted for the use and amusement of the imperial household alone. The 
 Collecting section features the finest examples from the emperor's 
-immense collections of precious ceramics, bronzes and cloisonnÃ© that 
+immense collections of precious ceramics, bronzes and cloisonné that 
 were crafted in China and sequestered in his private chamber, as well as 
 objects from beyond China's borders such as clocks, scientific instruments 
 and European exotica gifted to the emperor by foreign dignitaries. The 

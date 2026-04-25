@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's throw scenarios"
 emailDate: "Thu, 25 Jun 2009 09:02:41 -0700"
 number: 13
 type: ""
+venue: "City of Calgary"
 summary: "City of Calgary | Request for Proposals | JUL 20"
 ---
 

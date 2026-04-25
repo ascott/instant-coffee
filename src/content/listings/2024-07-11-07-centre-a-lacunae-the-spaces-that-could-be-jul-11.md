@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 7
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Lacunae: The spaces that could be | JUL 11"
 ---
 

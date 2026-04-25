@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 26
 type: ""
+venue: "SFU"
 summary: "SFU | The Conference On The Conference | MAR 4"
 ---
 
@@ -42,7 +43,7 @@ Panel 1/Invocation. Is it possible to proceed after this acknowledgement?
 
 2:30 pm - Room 2270 
 Panel 2/conference on the conference on the conference on the conference.
-[Ã’more multiple apings of self-reflexive problematics.Ã“]
+[Òmore multiple apings of self-reflexive problematics.Ó]
 - Nikolai Gauer
 - Chris Welsby
 - Henry Daniel
@@ -61,14 +62,14 @@ Panel 4/Footnotes
 
 Saturday, March 5th
 2:00 pm - Room TBA 
-Panel 5/Squatting the Ã’conference as siteÃ“.
+Panel 5/Squatting the Òconference as siteÓ.
 - Abe Walker
 - Dave Chokroun
 - Vikram Uchida-Khanna 
 
 2:30 pm - Room 2270 
 Panel 6/"Production" or another institutional imperative to fabricate
-objects. [Ã’Legimitation, initiation, certification.Ã“]
+objects. [ÒLegimitation, initiation, certification.Ó]
 - Alex Ferguson 
 - Henry Daniel
 - Jen Delos Reyes
@@ -81,8 +82,8 @@ Panel 7/[In absentia]
 - Stacey Ho
 
 4:00 pm - Room TBA 
-Panel 8/Respondent to panel on respond-ence. [Ã’Is it possible to respond?
-The very idea of...Ã“]
+Panel 8/Respondent to panel on respond-ence. [ÒIs it possible to respond?
+The very idea of...Ó]
 - Roger Farr
 - Am Johal
 - Reg Johanson

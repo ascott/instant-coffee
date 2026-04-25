@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 11
 type: "FUNDRAISER"
+venue: "Rosewood Hotel Georgia"
 summary: "Rosewood Hotel Georgia | CAG Art Auction | NOV 4"
 ---
 

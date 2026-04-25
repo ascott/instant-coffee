@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 10
 type: ""
+venue: "Unit 17 (offsite)"
 summary: "Unit 17 (offsite) | Tania Willard: Land Bank | OCT 7"
 ---
 

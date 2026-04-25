@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 15
 type: ""
+venue: "helen pitt gallery"
 summary: "helen pitt gallery | seeking: Director / Curator | deadline | NOV 1"
 ---
 

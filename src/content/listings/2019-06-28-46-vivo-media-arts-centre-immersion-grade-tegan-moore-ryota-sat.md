@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 46
 type: "OPENING"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Immersion Grade: Tegan Moore, Ryota Sato | JUL 11"
 ---
 

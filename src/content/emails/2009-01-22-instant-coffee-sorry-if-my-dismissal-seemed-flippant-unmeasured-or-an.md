@@ -95,7 +95,7 @@ The Art of Cartoon and Comix Workshop
 Join us for a hands-on, info-packed afternoon of tips and techniques
 for drawing people, dogs, toasters, whisper balloons, plewds, squeams
 and more and making it all into a story. With your toon guide, Eve
-CorbelÃ¢ comix creator and cartoon editor for Geist magazine.
+Corbelâ comix creator and cartoon editor for Geist magazine.
 
 Each participant will receive a Geist cartooning kit, which includes
 paper and drawing pencils. Grownups of all drawing abilities are
@@ -114,7 +114,7 @@ call 1-888-434-7834
 
 The Art of the Short Review
 
-A hands-on workshop for anyone who wants to write what they thinkÃ¢ï¿½ï¿½in
+A hands-on workshop for anyone who wants to write what they thinkâ��in
 as few words as possible. Patty Osborne, a regular contributor to
 Endnotes, will lead participants through the process of honing in on
 what needs to be said in a short review and what is the best way to
@@ -125,7 +125,7 @@ paper. By the end of the workshop you will have written a short
 review!
 
 Saturday February 21, 2009
-1:00Ã¢ï¿½ï¿½4:00 p.m.
+1:00â��4:00 p.m.
 Listel Hotel - 1300 Robson St.
 
 To register: Online - http://www.geist.com/events/review-workshop or
@@ -304,7 +304,7 @@ skateboarding on the concrete pilings, caught in that moment of heightened
 energy just before the storm breaks. Gladwell's skateboarder depicts a
 romantic figure of the beauty and self-absorption of youth, and slowing the
 speed of the image emphasizes the agility and grace of his movement.
-GladwellÃ¢ï¿½ï¿½s work typically explores youth subcultures as a manifestation of
+Gladwellâ��s work typically explores youth subcultures as a manifestation of
 physical prowess in relation to commerce and architectural space. He
 positions his work within a tradition of artistic gestures that respond to
 the city.
@@ -319,14 +319,14 @@ artists, Contemporary Art Centre Vilnius (CAC), Lithuania. He is a founding
 member of the Sydney-based artist collective Imperial Slacks and his work
 is represented by the Anna Schwartz Gallery, Sydney.
 
-OTHER SIGHTS FOR ARTISTSÃ¢ï¿½ï¿½ PROJECTS seeks to create a presence for art in
+OTHER SIGHTS FOR ARTISTSâ�� PROJECTS seeks to create a presence for art in
 spaces and sites that are accessible to a broad public, such as the built
 environment, communications technologies, the media, and the street. Other
 Sights presents projects that consider the aesthetic, economic and
 regulatory conditions of public places and public life.
 
-Storm Sequence is the second project of Other SightÃ¢ï¿½ï¿½s Looking Up program, a
-curated series of artistsÃ¢ï¿½ï¿½ works displayed on the Granville/Robson LED
+Storm Sequence is the second project of Other Sightâ��s Looking Up program, a
+curated series of artistsâ�� works displayed on the Granville/Robson LED
 screens.
 
 Other Sights gratefully acknowledges the support of the Canada Council for

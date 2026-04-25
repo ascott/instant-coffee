@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "Library Window Gallery, ECUAD"
 summary: "Library Window Gallery, ECUAD | Cultivate a Spot | JUL 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 12
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Sustaining Apertures | 6:30PM | MAR 7"
 ---
 

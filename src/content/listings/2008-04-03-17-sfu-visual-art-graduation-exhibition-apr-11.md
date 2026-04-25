@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: in times of ration"
 emailDate: "Thu, 03 Apr 2008 05:06:26 -0700"
 number: 17
 type: ""
+venue: "SFU"
 summary: "SFU | Visual Art Graduation Exhibition | APR 11"
 ---
 

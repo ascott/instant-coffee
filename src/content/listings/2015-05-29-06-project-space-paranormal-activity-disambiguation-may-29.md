@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 6
 type: "EVENT"
+venue: "Project Space"
 summary: "Project Space | Paranormal Activity (Disambiguation) | MAY 29"
 ---
 
@@ -25,14 +26,14 @@ the supernatural as a technology of communal production? How can we
 transfer this into everyday life and the complex structures of politics,
 society and culture?"
 
-â€” "Paranormal Activity (Disambiguation)," a Light Box Library curated by
+— "Paranormal Activity (Disambiguation)," a Light Box Library curated by
 Zine Club
 
 Light boxes by:
 Oana Clitan, Rotterdam
 Lindsey A. Hampton, Vancouver
 Alexandra Lucerna, Moscow
-AneÅ¾ka Minarikova, Prague
+Anežka Minarikova, Prague
 Ryan Ming, Vancouver
 Larissa Monteiro, Rotterdam
 Emmy van Thiel, Breada
@@ -62,5 +63,5 @@ DIRECTIONS TO THE EVENT: Please follow the signs from the front door of 236
 and enter around back in the alley. Knock loudly to be let in.
 
 Monthly Open Studio events are hosted every third Friday of the month (May
-is an exception!) and are organized by Project Spaceâ€™s Curatorial
+is an exception!) and are organized by Project Space’s Curatorial
 Collective. This edition was organized by Sylvana D'Angelo.

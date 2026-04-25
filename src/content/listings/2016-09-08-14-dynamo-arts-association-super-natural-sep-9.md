@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 14
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | (Super) Natural | SEP 9"
 ---
 

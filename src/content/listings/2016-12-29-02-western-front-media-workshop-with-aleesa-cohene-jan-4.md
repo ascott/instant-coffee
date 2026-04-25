@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Longlight Debt and Gloves on your 
 emailDate: "Thu, 29 Dec 2016 08:15:42 -0800"
 number: 2
 type: "CALL"
+venue: "Western Front"
 summary: "Western Front | Media Workshop with Aleesa Cohene | JAN 4"
 ---
 

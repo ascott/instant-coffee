@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 5
 type: "PERFORMANCE"
+venue: "CSA Space"
 summary: "CSA Space | Companion : Marika Vandekraats & Gloria Avgust | JUN 15"
 ---
 

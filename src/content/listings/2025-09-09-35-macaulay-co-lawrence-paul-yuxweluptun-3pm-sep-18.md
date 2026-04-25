@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 35
 type: "OPENING"
+venue: "Macaulay + Co"
 summary: "Macaulay + Co | LAWRENCE PAUL YUXWELUPTUN | 3PM | SEP 18"
 ---
 

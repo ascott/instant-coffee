@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 12
 type: "EVENT"
+venue: "FRONT Magazine"
 summary: "FRONT Magazine | Content Brainstorming Session | NOV 13"
 ---
 

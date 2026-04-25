@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 39
 type: "FUNDRAISER"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | CROCK POT HOT DOG: WL Karaoke | 7PM-2AM | JUL 13"
 ---
 

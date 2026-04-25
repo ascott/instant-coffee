@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's throw scenarios"
 emailDate: "Thu, 25 Jun 2009 09:02:41 -0700"
 number: 2
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Sarah Turner | JUN 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 28
 type: "CALL"
+venue: "MOTHRA"
 summary: "MOTHRA | Call for Applications for Level UP | APR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 31
 type: ""
+venue: "Helen Pitt Gallery"
 summary: "Helen Pitt Gallery | seeking: Director / Curator | deadline | NOV 1"
 ---
 

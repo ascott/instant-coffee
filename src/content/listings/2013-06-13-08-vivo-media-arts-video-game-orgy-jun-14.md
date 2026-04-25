@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 8
 type: ""
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | VIDEO GAME ORGY | JUN 14"
 ---
 
@@ -13,7 +14,7 @@ VIDEO GAME ORGY is your chance to try your hand at an impressive selection
 of vintage video game systems and games. Come to VIVO's most popular
 FUNDRAISER to play all night and to experience a rare selection of media
 art based on video game culture and early computer graphic systems.
-The event raises funds for Vancouverâ€™s oldest media arts access centre and
+The event raises funds for Vancouver’s oldest media arts access centre and
 its commitment in supporting independent media artist, activists and
 community-based makers.FAMICON | SUPER FAMICON | NINTENDO | SUPER NES |
 NINTENDO64 | GAMECUBE | ATARI 2600 | INTELLIVISION | SEGA GENESIS | PONG |

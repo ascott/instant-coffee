@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: west winds of loss"
 emailDate: "Thu, 09 Oct 2014 11:55:48 -0700"
 number: 13
 type: ""
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | good, better and DEFT SENF | OCT 16"
 ---
 

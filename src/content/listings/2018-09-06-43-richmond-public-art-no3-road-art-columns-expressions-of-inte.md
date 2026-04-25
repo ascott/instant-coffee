@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 43
 type: "CALL"
+venue: "Richmond Public Art"
 summary: "Richmond Public Art | No.3 Road Art Columns, Expressions of Interest | SEP 18"
 ---
 

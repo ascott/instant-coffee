@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 14
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | The Capilano Review | TCR Issue 3.34 Launch | APR 7"
 ---
 

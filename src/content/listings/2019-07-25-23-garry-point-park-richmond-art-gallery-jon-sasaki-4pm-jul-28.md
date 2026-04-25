@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 23
 type: "PERFORMANCE"
+venue: "Garry Point Park"
 summary: "Garry Point Park | Richmond Art Gallery | Jon Sasaki | 4PM | JUL 28"
 ---
 

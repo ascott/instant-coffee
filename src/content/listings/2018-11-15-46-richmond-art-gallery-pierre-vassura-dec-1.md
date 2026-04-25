@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 46
 type: "EXHIBITION"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Pierre Vassura |  | DEC 1"
 ---
 

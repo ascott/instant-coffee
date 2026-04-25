@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 9
 type: "CALL"
+venue: "Federation of Canadian Artists"
 summary: "Federation of Canadian Artists | On The Edge Exhibition | MAY 30"
 ---
 

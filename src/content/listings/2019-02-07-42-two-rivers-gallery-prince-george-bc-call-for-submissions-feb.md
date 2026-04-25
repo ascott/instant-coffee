@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 42
 type: "CALL"
+venue: "Two Rivers Gallery (PRINCE GEORGE, BC)"
 summary: "Two Rivers Gallery (PRINCE GEORGE, BC) | Call for Submissions | FEB 24"
 ---
 

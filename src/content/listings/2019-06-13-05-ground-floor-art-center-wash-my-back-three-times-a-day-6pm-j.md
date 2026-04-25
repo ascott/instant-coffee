@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 5
 type: "OPENING"
+venue: "Ground Floor Art Center"
 summary: "Ground Floor Art Center | Wash my back three times a day | 6PM | JUN 13"
 ---
 

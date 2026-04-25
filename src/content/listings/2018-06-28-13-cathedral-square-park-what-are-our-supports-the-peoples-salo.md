@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 13
 type: "EVENT"
+venue: "Cathedral Square Park"
 summary: "Cathedral Square Park | What Are Our Supports: The People's Salon | 5-10PM | JUN 30"
 ---
 

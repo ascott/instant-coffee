@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 21
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Vessels, Paul Halley & Darius Stein | OCT 25"
 ---
 
@@ -29,13 +30,13 @@ Paul presents a series of carved wooden forms whose surfaces have been
 worked meticulously over time. He then juxtaposes each of his forms with 
 a distinctly foreign matter such as latex, sand, or metallic nails. The 
 infusion of foreign matter acts like a protective membrane for its wooden 
-counterpart. Some of Paulâ€™s sculptures stand upright freely while others 
+counterpart. Some of Paul’s sculptures stand upright freely while others 
 succumb to gravity and reach outwardly on the surface of the floor.
 
 Darius offers a multitude of forms and media chronicling the permutations 
 of a hand-tended, manicured grass lawn in the shape of his 11 x 7 ft. fourth 
 floor balcony. He exhibits multiple objects that recount the stages of the 
-lawnâ€™s care, its journey through False Creek and its inevitable decay: a 
+lawn’s care, its journey through False Creek and its inevitable decay: a 
 grass lawn, a raft constructed for the transportation of his lawn (complete 
 with short picket fence), a video performance embedded within the floor of 
 his raft following the safe transport of the lawn from its origin on his 

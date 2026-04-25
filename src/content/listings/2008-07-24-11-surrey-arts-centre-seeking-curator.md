@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: it doesn't have to be perfect to b
 emailDate: "Thu, 24 Jul 2008 08:10:06 -0700"
 number: 11
 type: ""
+venue: "Surrey Arts Centre"
 summary: "Surrey Arts Centre | seeking CURATOR"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 31
 type: ""
+venue: "JOB"
 summary: "JOB | Klondike Institute of Art & Culture | ODD Gallery Director | APR 22"
 ---
 

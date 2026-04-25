@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part of the same \"changing west\"
 emailDate: "Fri, 14 Oct 2016 15:00:22 -0700"
 number: 11
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Publication Studio | Vancouver Book Launch: For Machine Use Only | OCT 15"
 ---
 

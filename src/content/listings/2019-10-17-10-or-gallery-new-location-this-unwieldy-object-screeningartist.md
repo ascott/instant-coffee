@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 10
 type: "TALK"
+venue: "Or Gallery (NEW LOCATION)"
 summary: "Or Gallery (NEW LOCATION) | This Unwieldy Object Screening&Artist Talk | 6-8PM | OCT 17"
 ---
 

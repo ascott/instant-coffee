@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: straight laced up"
 emailDate: "Thu, 28 Aug 2014 13:41:08 -0700"
 number: 1
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | 30th Anniversary Kick Off Party | AUG 28"
 ---
 
 grunt gallery's 30th Anniversary Kick Off Party (6:30pm-8:30pm)
 
-(Vancouver, BC) â€“ Youâ€™re invited to grunt gallery on Thursday, August 28th
-for a cake-cutting event that will kick off gruntâ€™s year-long 30th
+(Vancouver, BC) – You’re invited to grunt gallery on Thursday, August 28th
+for a cake-cutting event that will kick off grunt’s year-long 30th
 Anniversary celebrations!
 
 The event will take place from 6:30-8:30pm at grunt gallery and in the
@@ -28,13 +29,13 @@ the past few years. This monumental work is truly spectacular and
 representative of the important work that happens regularly in the
 Mainspace building where grunt gallery is located.
 
-Whether youâ€™re an old friend of grunt or a new one, we want to celebrate
+Whether you’re an old friend of grunt or a new one, we want to celebrate
 this momentous time with you.
 
 There is no need to RSVP. Come one, come all, and invite your friends.
 
 We hope to see you on August 28th as we raise a glass to 30 years of
-supporting Vancouverâ€™s artist communities!
+supporting Vancouver’s artist communities!
 
 grunt gallery
 http://grunt.ca/30th-anniversary/events/

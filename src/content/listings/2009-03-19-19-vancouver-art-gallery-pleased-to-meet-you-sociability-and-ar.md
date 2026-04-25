@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 19
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Pleased To Meet You: Sociability and Art | MAR 26"
 ---
 

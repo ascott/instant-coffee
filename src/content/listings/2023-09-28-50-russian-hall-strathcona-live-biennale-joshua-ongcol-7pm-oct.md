@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 50
 type: "PERFORMANCE"
+venue: "Russian Hall (Strathcona)"
 summary: "Russian Hall (Strathcona) | LIVE Biennale - Joshua Ongcol | 7PM | OCT"
 ---
 

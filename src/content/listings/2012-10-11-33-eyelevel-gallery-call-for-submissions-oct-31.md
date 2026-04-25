@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 33
 type: ""
+venue: "Eyelevel Gallery"
 summary: "Eyelevel Gallery | Call for Submissions | OCT 31"
 ---
 
@@ -45,7 +46,7 @@ Please note that we do not accept email proposals for our main space.
 
 All submissions can be sent to:
 
-Eyelevel Gallery â€“ Programming Committee
+Eyelevel Gallery – Programming Committee
 c/o: Michael McCormack 
 2159 Gottingen Street
 Halifax, Nova Scotia, Canada

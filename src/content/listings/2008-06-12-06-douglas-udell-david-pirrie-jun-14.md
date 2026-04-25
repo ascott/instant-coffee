@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: itty bitty blob"
 emailDate: "Thu, 12 Jun 2008 08:02:51 -0700"
 number: 6
 type: ""
+venue: "Douglas Udell"
 summary: "Douglas Udell | David Pirrie | JUN 14"
 ---
 

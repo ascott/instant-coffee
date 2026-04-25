@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 14
 type: "PERFORMANCE"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | HAZEL MEYER | MAY 9&12 | MAY 9"
 ---
 

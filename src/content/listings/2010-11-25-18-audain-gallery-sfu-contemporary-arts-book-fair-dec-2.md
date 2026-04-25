@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 18
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | SFU Contemporary Arts Book Fair | DEC 2"
 ---
 
@@ -20,5 +21,5 @@ Featuring projects by:
 Nikita Alagappa, Elena Boulankova, Stephanie Chiu, Andrea Creamer, Kailey
 Fuller-Jackson, Ellick Lee, Cindy Leibel, Stacey Leung, Oliver
 Mctavish-Wisden, Yuki Ochiai, Tamara Robson, Jacquelyn Ross, Monica Rudd,
-David Stein, Alexis Vanderveen, LÃ¶rinc Vass, Ramineh Visseh, Jason Wang,
+David Stein, Alexis Vanderveen, Lörinc Vass, Ramineh Visseh, Jason Wang,
 Vanessa Krystin Wong

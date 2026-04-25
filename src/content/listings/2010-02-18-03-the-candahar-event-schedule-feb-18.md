@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 3
 type: ""
+venue: "The Candahar"
 summary: "The Candahar | event schedule | FEB 18"
 ---
 
@@ -16,11 +17,11 @@ theatrical stage, The Candahar is an artwork that is also a functioning
 bar, open to the public and staffed in collaboration with two Belfast
 bartenders who act as unscripted performers. The project fuses the
 authentic with fantasy, spectacle with stage, and at its heart acts as a
-catalyst for conversation, debate and dialogue â€” and a pint here or there.
+catalyst for conversation, debate and dialogue — and a pint here or there.
 
 During the sixteen days of the 2010 Winter Olympic Games, Presentation
 House Gallery is staging The Candahar as a locus for social interaction and
-the host site for an ambitious series of nightly events â€” musical programs,
+the host site for an ambitious series of nightly events — musical programs,
 theatrical presentations, performances and dialogues, both scripted and
 unscripted. Programmed by author Michael Turner, as well as by invited
 guests, including Winnipeg artist Paul Butler, the Candahar will feature an

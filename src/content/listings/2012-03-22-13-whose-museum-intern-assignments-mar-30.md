@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 13
 type: ""
+venue: "Whose Museum"
 summary: "Whose Museum | Intern Assignments | MAR 30"
 ---
 

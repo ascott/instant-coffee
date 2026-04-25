@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 33
 type: "CALL"
+venue: "EVENT"
 summary: "EVENT | VIVO Media Arts Centre | BYOB (Bring Your Own Beamer) | APR 27"
 ---
 

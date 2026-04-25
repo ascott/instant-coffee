@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 18
 type: ""
+venue: "CAG, Field House Studio"
 summary: "CAG, Field House Studio | Talk: Marie Lorenz | DEC 7"
 ---
 

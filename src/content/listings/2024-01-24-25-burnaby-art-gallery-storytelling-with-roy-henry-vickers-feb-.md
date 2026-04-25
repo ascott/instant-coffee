@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 25
 type: "EVENT"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Storytelling with Roy Henry Vickers | FEB 4"
 ---
 

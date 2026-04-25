@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | ONLINE | sleep and her brother death | 9AM | JUN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 28
 type: "TALK"
+venue: "Elan Fine Art"
 summary: "Elan Fine Art | Tony Robins | 2PM | OCT 14"
 ---
 

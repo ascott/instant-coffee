@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 28
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | found/held | 7-9PM | MAR 1"
 ---
 

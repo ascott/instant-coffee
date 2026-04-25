@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 22
 type: "EVENT"
+venue: "SFU Galleries"
 summary: "SFU Galleries | Reading: Danielle LaFrance: JUST LIKE I LIKE IT | NOV 25"
 ---
 

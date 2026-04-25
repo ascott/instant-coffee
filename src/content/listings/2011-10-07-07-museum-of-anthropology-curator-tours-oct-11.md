@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 7
 type: "TALK"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Curator Tours | OCT 11"
 ---
 
@@ -16,7 +17,7 @@ Price: Free with regular admission
 
 Description: 
 
-Learn about a different aspect of MOAâ€™s collections from a different curator every 
+Learn about a different aspect of MOA’s collections from a different curator every 
 week.
 
 See www.moa.ubc.ca/events for schedule of talks.

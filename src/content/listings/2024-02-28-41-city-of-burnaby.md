@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 41
 type: "CALL"
+venue: "City of Burnaby"
 summary: "City of Burnaby | "
 ---
 

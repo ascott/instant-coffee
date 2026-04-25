@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 11
 type: "EVENT"
+venue: "SFU Goldcorp Centre"
 summary: "SFU Goldcorp Centre | Meet the 2023-24 Shadbolt Fellows | JAN 17"
 ---
 

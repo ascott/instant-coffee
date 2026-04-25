@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 5
 type: ""
+venue: "THE GROUP SHOW"
 summary: "THE GROUP SHOW | TEN ARTISTS FEATURED WITH MASIK | FEB 19"
 ---
 

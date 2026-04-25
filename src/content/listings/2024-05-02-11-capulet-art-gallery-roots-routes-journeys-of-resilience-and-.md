@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 11
 type: "OPENING"
+venue: "Capulet Art Gallery"
 summary: "Capulet Art Gallery | Roots & Routes: Journeys of Resilience and Identit | MAY 3"
 ---
 

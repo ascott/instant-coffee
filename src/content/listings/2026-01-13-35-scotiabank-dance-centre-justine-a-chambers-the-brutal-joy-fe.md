@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 35
 type: "PERFORMANCE"
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | Justine A. Chambers: The Brutal Joy | FEB 5&6 | FEB 5"
 ---
 

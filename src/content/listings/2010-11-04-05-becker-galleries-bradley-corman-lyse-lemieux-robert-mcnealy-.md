@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 5
 type: ""
+venue: "Becker Galleries"
 summary: "Becker Galleries | BRADLEY CORMAN, LYSE LEMIEUX & ROBERT MCNEALY | NOV 5"
 ---
 

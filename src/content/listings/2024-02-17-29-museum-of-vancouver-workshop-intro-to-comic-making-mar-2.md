@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 29
 type: "EDUCATION"
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | [WORKSHOP] Intro to Comic Making | MAR 2"
 ---
 

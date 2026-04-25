@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it's not easy being this hypermobi
 emailDate: "Thu, 16 Apr 2009 08:50:13 -0700"
 number: 17
 type: ""
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Lyse Lemieux | til | MAY 15"
 ---
 

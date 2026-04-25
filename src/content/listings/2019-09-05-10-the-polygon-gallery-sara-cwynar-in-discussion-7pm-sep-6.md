@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 10
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Sara Cwynar: In Discussion | 7PM | SEP 6"
 ---
 

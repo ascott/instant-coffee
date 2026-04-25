@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 50
 type: "CALL"
+venue: "SFU Shadbolt Fellowship in the Humanities"
 summary: "SFU Shadbolt Fellowship in the Humanities | Applications now open | OCT 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 18
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | The Foreshore: Session 6 | JAN 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 9
 type: "TALK"
+venue: "SFU"
 summary: "SFU | VISUAL ART FORUM: Sandra Brewster | OCT 1"
 ---
 

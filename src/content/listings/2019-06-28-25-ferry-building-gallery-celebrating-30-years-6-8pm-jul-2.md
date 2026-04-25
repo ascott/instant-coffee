@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 25
 type: "OPENING"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Celebrating 30 Years | 6-8PM | JUL 2"
 ---
 

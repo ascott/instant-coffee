@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 1
 type: "TALK"
+venue: "Arts Assembly"
 summary: "Arts Assembly | OCT 25"
 ---
 

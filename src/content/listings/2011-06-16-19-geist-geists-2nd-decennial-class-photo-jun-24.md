@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 19
 type: ""
+venue: "Geist"
 summary: "Geist | Geist's 2nd Decennial Class Photo | JUN 24"
 ---
 
@@ -28,7 +29,7 @@ There will also be adult beverages available for purchase.
 Geist's 2nd Decennial Class Photo
 Location: W.I.S.E. Hall, 1882 Adanac Street, Vancouver BC
 Date: Friday, June 24, 2011
-Time: 7:00 â€“ 10:00 pm. The W.I.S.E. Hall will be open later for those who wish to 
+Time: 7:00 – 10:00 pm. The W.I.S.E. Hall will be open later for those who wish to 
 continue celebrating the greatness of Geist.
 Price: Admission is by donation to the Geist Writers and Artists Fund.
 

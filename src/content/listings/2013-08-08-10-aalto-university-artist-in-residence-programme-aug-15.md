@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please be advised requests for ill
 emailDate: "Thu, 08 Aug 2013 16:25:10 -0700"
 number: 10
 type: ""
+venue: "Aalto University"
 summary: "Aalto University | Artist-in-Residence Programme | AUG 15"
 ---
 

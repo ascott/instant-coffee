@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 15
 type: "CALL"
+venue: "Gallery 44"
 summary: "Gallery 44 | Proof annual group exhibition OPEN CALL | SEP 27"
 ---
 

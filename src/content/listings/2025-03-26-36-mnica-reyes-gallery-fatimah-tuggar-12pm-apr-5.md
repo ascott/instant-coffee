@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 36
 type: "OPENING"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | FATIMAH TUGGAR | 12PM | APR 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 19
 type: "OPENING"
+venue: "SUNSET TERRACE"
 summary: "SUNSET TERRACE | Benjamin Marvin - The Macaroni Dance! Or: ... | NOV 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 13
 type: ""
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Lynn Valley Library Gallery |Carolina de la Cajiga | MAR 15"
 ---
 

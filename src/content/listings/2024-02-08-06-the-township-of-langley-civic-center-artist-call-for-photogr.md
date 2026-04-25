@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 6
 type: "CALL"
+venue: "The Township of Langley Civic Center"
 summary: "The Township of Langley Civic Center | Artist Call for Photography Exhibition"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 10
 type: "PERFORMANCE"
+venue: "BOOMBOX"
 summary: "BOOMBOX | TRIPLE BILL | 630PM | MAR 27,28,29 | MAR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 7
 type: ""
+venue: "LES GALLERY"
 summary: "LES GALLERY | Whilst moving backwards...group exhibition | JUL 8"
 ---
 
@@ -27,25 +28,25 @@ This group show of new works by Maryanne Casasanta, Steven Hubert, Bitsy
 Knox and Les Ramsay examines interior and exterior spaces and explores their 
 construction, boundaries and function.
 
-Steven Hubertâ€™s painting, bearing the same title as the show, is a layered scene 
+Steven Hubert’s painting, bearing the same title as the show, is a layered scene 
 that positions the viewer looking out of a window. It expands and contracts to 
 both draw the viewer into its spatial logic and also to somehow reject their 
 interaction. 
 
-Bitsy Knoxâ€™s participation in the exhibition includes four free-standing cats, a 
+Bitsy Knox’s participation in the exhibition includes four free-standing cats, a 
 series of objects deriving from her participation in The Clifford Irving Show 
-(Objectif Exhibitions, Antwerp) by re-creating part of Robert Filiouâ€™s Raining Cats 
+(Objectif Exhibitions, Antwerp) by re-creating part of Robert Filiou’s Raining Cats 
 and Dogs. Inconspicuously included into the gallery space, they function 
 simultaneously as static objects and silent observers, negotiating the realms of 
 kitsch, set design, performance and painting.
 
-Maryanne Casasantaâ€™s Peace Bard is a hand crafted box containing hexagonal 
+Maryanne Casasanta’s Peace Bard is a hand crafted box containing hexagonal 
 cards, each of which depict naturally occurring structures and shapes found in 
 the forest. By containing these photos of the outside world, which are 
 themselves pictures of loosely defined containing structures, the boundaries and 
 operations of inside and outside are playfully recast.
 
-Les Ramsayâ€™s paintings are gently tricky, their patterns and shapes undulate, 
+Les Ramsay’s paintings are gently tricky, their patterns and shapes undulate, 
 foregrounds and backgrounds switch places fluidly. Spaces are constructed 
 and then flipped, patterns are conceived of and then broken. 
 
@@ -58,14 +59,14 @@ Micah Lexier at the Plug In Institute of Contemporary Art, Winnipeg.
 
 Steven Hubert is currently working on his MFA at Simon Fraser University. He 
 has had solo shows at CSA Space, Vancouver, Ministry of Casual Living, 
-Victoria, and Jeffrey Boone Gallery, Vancouver. Stevenâ€™s work has also been 
+Victoria, and Jeffrey Boone Gallery, Vancouver. Steven’s work has also been 
 shown at the Helen Pitt Gallery and the Or Gallery. This year he received the 
 SSHRC Joseph-Armand Bombardier Canada Graduate Scholarship.
 
 Bitsy Knox was born in Vancouver, but lives and works in Brussels, Belgium. 
 Her paintings, videos, installations, writing, and performances have recently 
 been exhibited at Komplot, Brussels, Le Commisariat, Paris, Objectif 
-Exhibitions, Antwerp, TENT, Rotterdam, and Museu dâ€™Arte Contemporani 
+Exhibitions, Antwerp, TENT, Rotterdam, and Museu d’Arte Contemporani 
 Barcelona MACBA, Barcelona, She recently completed her MFA at the Piet 
 Zwart Institute in Rotterdam. 
 

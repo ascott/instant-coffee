@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 14
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | Talk: Justin Novak Criticality and Marketability | APR 12"
 ---
 
@@ -48,6 +49,6 @@ Vancouver, BC V5T 1A6
 www.winsorgallery.com
 info@winsorgallery.com
 
-Open Tues â€“ Fri, 10-6pm
+Open Tues – Fri, 10-6pm
 Saturdays 10-5pm
 or by appointment

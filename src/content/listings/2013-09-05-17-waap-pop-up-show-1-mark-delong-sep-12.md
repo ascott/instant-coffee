@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 17
 type: ""
+venue: "WAAP Pop Up Show #1"
 summary: "WAAP Pop Up Show #1 | Mark Delong | SEP 12"
 ---
 

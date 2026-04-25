@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 28
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Dan Starling | 12PM | SEP 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 11
 type: "CALL"
+venue: "AMS Art Gallery & UBC Sharing Science"
 summary: "AMS Art Gallery & UBC Sharing Science | Absolute Space | JAN 13"
 ---
 
@@ -11,7 +12,7 @@ Absolute Space - CALL FOR SUBMISSIONS
 
 Deadline: January 13, 2015
 
-â€œAbsolute space, in its own nature, without relation to anything external,
+“Absolute space, in its own nature, without relation to anything external,
 remains always similar and immovable. Relative space is some movable
 dimension or measure of the absolute spaces; which our senses determine by
 its position to bodies; and which is commonly taken for immovable space;

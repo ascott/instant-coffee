@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 1
 type: "OPENING"
+venue: "HATCH Art Gallery UBC"
 summary: "HATCH Art Gallery UBC | Our Bodies Are Bodies | 6-9PM | SEP 20"
 ---
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 19
 type: ""
+venue: "Ross Creek Gallery, Nova Scotia"
 summary: "Ross Creek Gallery, Nova Scotia | Residency Opportunities | DEC 1"
 ---
 
-Ross Creek Gallery and Residency Opportunities â€“ deadline Dec. 1.
+Ross Creek Gallery and Residency Opportunities – deadline Dec. 1.
 
 The Ross Creek Centre for the Arts in Nova Scotia Canada welcomes
 applications for artists of all disciplines to participate in a colony or
@@ -34,7 +35,7 @@ about how we use the community gallery.
 
 The Ross Creek Centre for the Arts is a rural multi disciplinary arts
 education and development centre based on 186 acres of farm and forest in
-Nova Scotiaâ€™s Annapolis Valley. Our facilities and programs are designed to
+Nova Scotia’s Annapolis Valley. Our facilities and programs are designed to
 serve the artistic and cultural communities of Nova Scotia, of Canada, and
 of the world, with a focus on professional artist development, youth
 education and Aboriginal arts programming. Website: www.artscentre.ca
@@ -49,7 +50,7 @@ www.artscentre.ca
 
 The Ross Creek Centre for the Arts is a multi disciplinary arts education
 and development centre based on 186 acres of farm and forest in Nova
-Scotiaâ€™s Annapolis Valley. Our facilities and programs are designed to
+Scotia’s Annapolis Valley. Our facilities and programs are designed to
 serve the artistic and cultural communities of Nova Scotia, of Canada, and
 of the world, with a focus on professional artist development, youth
 education and Aboriginal arts programming.

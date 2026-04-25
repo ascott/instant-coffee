@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: full of sass and sparkle"
 emailDate: "Thu, 30 Apr 2009 08:30:09 -0700"
 number: 5
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Jack Shadbolt | MAY 2"
 ---
 

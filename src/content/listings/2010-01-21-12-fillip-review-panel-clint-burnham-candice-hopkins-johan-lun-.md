@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 12
 type: ""
+venue: "Fillip Review"
 summary: "Fillip Review | Panel: Clint Burnham, Candice Hopkins & Johan Lun | JAN 25"
 ---
 
@@ -19,9 +20,9 @@ The second Fillip Review Panel will take place Monday, January 25, at 7pm.
 In this final edition, Vancouver-based writer and curator Clint Burnham
 will discuss the exhibition Expanded literary practices in Vancouver:
 1954-1969 at the SFU Gallery (Vancouver, CA). Ottawa-based curator and
-writer Candice Hopkins will discuss Anne Truittâ€™s recent exhibition at
+writer Candice Hopkins will discuss Anne Truitt’s recent exhibition at
 Hirschhorn Museum and Sculpture Graden (Washington, US). Vancouver-based
-artist and writer Amy Zion will discuss Vancouver Art Galleryâ€™s Offsite
+artist and writer Amy Zion will discuss Vancouver Art Gallery’s Offsite
 project space (Vancouver, CA). The panel will be moderated by Johan Lundh.
 
 Admission is $5 or free for students or with current Fillip subscription.

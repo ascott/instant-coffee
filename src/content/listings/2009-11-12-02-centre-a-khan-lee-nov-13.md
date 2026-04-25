@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 2
 type: ""
+venue: "Centre A"
 summary: "Centre A | KHAN LEE | NOV 13"
 ---
 

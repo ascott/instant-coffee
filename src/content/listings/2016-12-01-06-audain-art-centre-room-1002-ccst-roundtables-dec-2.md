@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 6
 type: "EVENT"
+venue: "Audain Art Centre, Room 1002"
 summary: "Audain Art Centre, Room 1002 | CCST Roundtables | DEC 2"
 ---
 

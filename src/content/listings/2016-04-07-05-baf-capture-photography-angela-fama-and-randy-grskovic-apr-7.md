@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 5
 type: "OPENING"
+venue: "BAF -Capture Photography"
 summary: "BAF -Capture Photography | Angela Fama and Randy Grskovic | APR 7"
 ---
 

@@ -61,11 +61,11 @@ experience civic space? Pencils and paper will be supplied and participants
 will have the opportunity to share their writing.
 
 Michael Turner is a Vancouver-based author of fiction, criticism and song.
-His books include Hard Core Logo, The PornographerÂ¹s Poem and most recently
-8Ã—10. He blogs at this address: http://mtwebsit.blogspot.com/
+His books include Hard Core Logo, The Pornographer¹s Poem and most recently
+8×10. He blogs at this address: http://mtwebsit.blogspot.com/
 
 Thursdays Writing Collective, directed by Elee Kraljii Gardiner, has been
-called, â€œthe biggest, boldest, and by far the most vital conspiracy of
+called, “the biggest, boldest, and by far the most vital conspiracy of
 writers operating in Vancouver at present,â€  by Geist magazine. TWC meets at
 Carnegie Community Centre every Thursday for drop-in creative writing
 sessions. More info at www.thursdayspoemsandprose.ca
@@ -89,7 +89,7 @@ of each work resembles that of Byzantine iconography but they are presented
 and framed in a modern folk fashion. The juxtaposition of images, styles
 and symbols from various genres and periods creates an unsettling and
 provocative narrative that is anachronistic with its references, yet
-somehow relates to the future. The exhibitionÃ¯Â¿Â½s title piece depicts an
+somehow relates to the future. The exhibitionï¿½s title piece depicts an
 Eve-like 1960s era woman with voluminous mascara eating an apple while
 surrounded by exotic snakes from around the world. This body of work
 moralizes contemporary global issues against those of the past.
@@ -170,7 +170,7 @@ Exhibit runs from November 5th until the 28th. Walk-in hours are every
 Saturday of the month from 2-4pm, as well as for the East Side Culture
 Crawl on November 25th 6-10pm, 26th 11-6pm & 27th 12-6pm.
 
-ARTIST BIOâ€™S & STATEMENTS ABOUT THE WORK:
+ARTIST BIO’S & STATEMENTS ABOUT THE WORK:
 
 Erin Boniferro is an artist and small business owner living in Vancouver
 BC. After graduating from Emily Carr in 2002, she went on to work for
@@ -202,7 +202,7 @@ panel was finished by a professional furniture maker.
 
 -----------------
 
-Sonja HÃ©bert born of Acadian heritage has been living and creating in
+Sonja Hébert born of Acadian heritage has been living and creating in
 Vancouver for 19 years. Since receiving her degree from the Emily Carr
 Institute of Art and Design she has continued to develop her practice
 through international and national art residencies, local art events and
@@ -213,11 +213,11 @@ sponsored by Genome BC. Her large scale drawings have been featured in Via
 TVA, a national television series profiling Canadian artists.
 
 The main themes in her work are of dislocation, hybridization, the cycles
-of life and adaptation. Sonjaâ€™s drawings are made of charcoal, graphite,
+of life and adaptation. Sonja’s drawings are made of charcoal, graphite,
 oil sticks and decoupage. Her choices of media for installation are varied
 and include unconventional sculptural materials and altered objects.
 
-â€œI find inspiration in many things but mostly through natural science,
+“I find inspiration in many things but mostly through natural science,
 debris, and mythology, the gesture of dancers, graphs, politics and dreams.
 I draw to get back to basics, to the initial mark making process with
 carbon, the fundamental molecule of all life. I also enjoy manipulating
@@ -256,10 +256,10 @@ presently is experimenting working with more organic ways of printmaking.
 
 Brandy Masch was born in Kitimat, British Columbia, and studied art from an
 early age. She graduated high school in Kelowna and continued on to
-Kelownaâ€™s Okanagan University College to build her portfolio to apply to
+Kelowna’s Okanagan University College to build her portfolio to apply to
 Emily Carr. In 2001, majoring in Printmaking and Drawing she graduated
 from Emily Carr College of Art and Design in Vancouver, British Columbia
-with a BFA. Furthering her education she enrolled in Emily Carrâ€™s
+with a BFA. Furthering her education she enrolled in Emily Carr’s
 Integrated Media Program. Brandy continues to learn and develop her
 knowledge of products and mediums while living and working in Vancouver.
 
@@ -275,7 +275,7 @@ Park neighborhood. Ehren works for a tombstone and monument company in
 Vancouver, and is one of the directors of Little Mountain Gallery. He
 efforts to draw everyday, and aspires to create a new series of works in
 the public realm, painting murals honoring pioneers of Vancouver, depicting
-the people, buildings and neighborhoods of the cityâ€™s forgotten past.
+the people, buildings and neighborhoods of the city’s forgotten past.
 
 ---------------
 
@@ -290,7 +290,7 @@ The foundation of her work lies in the consistently strong process-based
 element, where she employs repetitive techniques to create oil and mixed
 media paintings on wood and canvas.
 
-About the work: Karinâ€™s interest in astronomy has had a deep impact on the
+About the work: Karin’s interest in astronomy has had a deep impact on the
 direction of her work. Each new piece created is a testimony to the
 awe-inspiring magnitude of the universe and the increasing ability of
 humanity to see and understand it.
@@ -313,7 +313,7 @@ influence.
 
 A timely interest in typography, sign painting and font design coupled with
 a distaste for mass marketing led to long term involvement within the mid
-90â€™s re-emergence of graffiti culture, unexpectedly marketable, the
+90’s re-emergence of graffiti culture, unexpectedly marketable, the
 commercialization of the culture attributed to his departure, its
 association with freight trains ultimately steered his inclinations to the
 ethics of tramp travel, riding between cities as an affordable and
@@ -329,12 +329,12 @@ other ventures.
 
 Wile exploring the illusions of identity and the man made archetypes that
 drive the considerations of our perspective, both historically and
-contemporary, Nolanâ€™s work with found materials and objects, in assemblage
+contemporary, Nolan’s work with found materials and objects, in assemblage
 to painting and drawing combinations, commemorates the foundation of our
 present through a glimpse of our past as our landscape becomes increasingly
 less obvious to our heritage.
 
-The array of media that makes up Nealâ€™s work stems from a passion for first
+The array of media that makes up Neal’s work stems from a passion for first
 hand experience, incorporating tangible archetypes in assemblage to his
 illustrative antic, painterly expressions, text and texture.
 
@@ -449,9 +449,9 @@ Lincoln Clarkes, in which Texan women of all class pose with their loaded
 guns. In a country constantly at war with itself and others, this series
 reveals the pity of power.
 
-Byron Daunceyâ€™s Granville Street Saturday Night is voyeuristic and
+Byron Dauncey’s Granville Street Saturday Night is voyeuristic and
 intrusive. Women are photographed candidly outside nightclubs in
-Vancouverâ€™s Entertainment District, exposing a pressure to be beautiful,
+Vancouver’s Entertainment District, exposing a pressure to be beautiful,
 and flaunting the authority that it enables.
 
 El Reinado by Jen Osborne showcases impoverished Colombian beauty
@@ -464,9 +464,9 @@ that are still beautiful.
 Vernissage: Friday, November 5th from 6pm-late. Catalog Gallery 56 Powell
 St Gastown, Vancouver, BC.
 
-Show runs from November 5th â€“ 28th.
+Show runs from November 5th – 28th.
 For private showings outside of gallery hours (Wednesday-Sunday 6pm until
-late) feel free to call Robert Squire â€“ 604.721.4266
+late) feel free to call Robert Squire – 604.721.4266
 
 
 
@@ -570,11 +570,11 @@ Fuse: November 5th, 2010
 Fuse gets objectified! This evening of performance, theatre and music
 explores collecting, material obsessions and everyday encounters. With
 Everything Everyday and Waste Not providing a visual and thematic backdrop,
-join some of Vancouverâ€™s most exciting artists for interpretations on the
+join some of Vancouver’s most exciting artists for interpretations on the
 theme of Stuff.
 
-- Neworld Theatre engulfs you in Hrothgarâ€™s Stuff, an interactive
-theatre pieceâ€”complete with blender drinks. Created by Marcus Youssef and
+- Neworld Theatre engulfs you in Hrothgar’s Stuff, an interactive
+theatre piece—complete with blender drinks. Created by Marcus Youssef and
 Hrothgar Matthews, and featuring improv lounge music by the Bank Dogs.
 
 - Out Innerspace works the crowd with a fresh new dance
@@ -585,7 +585,7 @@ work specifically for Fuse.
 and The Headband Project are celebrating the finale with YOU. Come get your
 own headband. Be part of the movement!
 
-- 16mm film creates sculpture and projections in Alex MacKenzieâ€™s
+- 16mm film creates sculpture and projections in Alex MacKenzie’s
 film installation Accumulation (after Luis and Sandra).
 
 - World-class taiko group Jodaiko make it loud for Fuse.
@@ -636,7 +636,7 @@ social/networking session including local music from Buckman Coe andl DJ
 Brad Winter.
 
 Join media innovators, technologists, artists, citizens, and the online
-community at Fresh Mediaâ€”a celebration of innovation and independent media,
+community at Fresh Media—a celebration of innovation and independent media,
 and a re-imagining of media and journalism.
 
 For more details on this event visit: www.freshmedia.me
@@ -648,37 +648,37 @@ You can also check out Fresh Media on Facebook: http://on.fb.me/ac3ZPJ
 ------------------------------------------------------------------------
 
 CHRIS JORDAN
-"Running the Numbers Ã¯Â¿Â½ an American self-portrait"
+"Running the Numbers ï¿½ an American self-portrait"
 
 SFU Gallery, Burnaby Campus
 November 6 to December 17, 2010
 
-Opening Reception: Saturday November 6, 2Ã¯Â¿Â½5 pm
+Opening Reception: Saturday November 6, 2ï¿½5 pm
 
 Chris Jordan is a Seattle-based photographer who quantifies consumption via
 images that reveal exactly how many products are bought or discarded in a
 given period of time, a minute, an hour, a day or a year. His photograph
 titled Plastic Bottles, for instance, depicts, as stated in its subtitle
-Ã¯Â¿Â½two million plastic beverage bottles, the number used in the US every five
-minutes.Ã¯Â¿Â½
+ï¿½two million plastic beverage bottles, the number used in the US every five
+minutes.ï¿½
 
 A brochure with texts by Lucy Lippard and Bill Jeffries is available at the
-exhibition. Copies of JordanÃ¯Â¿Â½s book Running the Numbers, an American
+exhibition. Copies of Jordanï¿½s book Running the Numbers, an American
 Self-portrait , published by Prestel, are available for purchase.
 
-Opening Reception: Saturday November 6, 3Ã¯Â¿Â½5 pm
+Opening Reception: Saturday November 6, 3ï¿½5 pm
 Lunchtime talks on the exhibition: Tuesday and Wednesday, November 9 and
 10, 12:05 and 12:35. Thursday and Friday, 18 and 19, 12:05 and 12:35.
 
 "Running the Numbers" is presented in collaboration with WINSOR GALLERY
 
-FREE PARKING! November 6 only. This email or a printout of the Ã¯Â¿Â½CHRIS
-JORDAN: Running the NumbersÃ¯Â¿Â½ page from our Web site, is your parking pass
+FREE PARKING! November 6 only. This email or a printout of the ï¿½CHRIS
+JORDAN: Running the Numbersï¿½ page from our Web site, is your parking pass
 in any Visitor Lot at SFU (face up on dashboard or hand to parking attendant).
 
 Simon Fraser University Gallery | Academic Quadrangle 3004 | 778-782-4266 |
 gallery@sfu.ca | sfu.ca/gallery
-SFU Gallery hours: Tuesday to Friday 10am Ã¯Â¿Â½ 5pm & Saturday 12 Ã¯Â¿Â½ 5pm. Closed
+SFU Gallery hours: Tuesday to Friday 10am ï¿½ 5pm & Saturday 12 ï¿½ 5pm. Closed
 Saturday on public holiday weekends
 
 
@@ -692,19 +692,19 @@ Guest Tour of Song Dong - Waste Not
 
 Hsingyuan Tsao
 
-Song Dongâ€™s monumental installation, titled Waste Not, is a collaboration
+Song Dong’s monumental installation, titled Waste Not, is a collaboration
 between the artist and his mother, Zhao Xiangyuan. The installation
-comprises the frame of his motherâ€™s house along with all of the everyday
-objects she meticulously collected over the course of her lifetimeâ€”a
+comprises the frame of his mother’s house along with all of the everyday
+objects she meticulously collected over the course of her lifetime—a
 collection of over ten thousand worn and broken objects, each one of little
-value. Together, the assembled materialsâ€”clothes, books, kitchen utensils,
-toiletries, school supplies, shopping bags, rice bowls, dollsâ€”were used,
+value. Together, the assembled materials—clothes, books, kitchen utensils,
+toiletries, school supplies, shopping bags, rice bowls, dolls—were used,
 then recycled, then hoarded. Meticulously arranged in careful groupings
 throughout the exhibition space, the objects form a miniature cityscape
 that viewers can navigate around and through.
 
 Hsingyuan Tsao, professor in art history at the University of British
-Columbia, provides a tour of Song Dongâ€™s installation, offering a glimpse
+Columbia, provides a tour of Song Dong’s installation, offering a glimpse
 into the historical and socio-political contexts behind the objects that
 comprise the work. Professor Tsao holds a Ph.D. in Art History from
 Stanford University. Her area of special interest is the art of China's
@@ -753,8 +753,8 @@ In conjunction with the exhibition FLAKEY: THE EARLY WORKS OF GLENN LEWIS,
 curated by Helga Pakasaar and Reid Shier,
 at Presentation House Gallery until November 14
 
-An investigation of Glenn Lewisâ€™s rarely-seen early practice through the
-artistâ€™s perspective and in relation to local and international art of the
+An investigation of Glenn Lewis’s rarely-seen early practice through the
+artist’s perspective and in relation to local and international art of the
 1960s and 70s and contemporary art: an abbreviated artist talk by Glenn
 Lewis with presentations by Jordan Strom and William Wood, moderated by
 Helga Pakasaar.
@@ -771,7 +771,7 @@ developed a highly performative practice that includes: ceramics,
 sculpture, performance, environments, synchronized swimming events, radio
 plays, multimedia happenings, installation, correspondence art,
 script-writing, film, photography, and dinner parties. The panel discussion
-will consider the humour and conceptual rigour at the heart of Lewisâ€™s
+will consider the humour and conceptual rigour at the heart of Lewis’s
 rarely seen works from the late-1960s to the mid-1970s, and his prescient
 experiments in mapping everyday life and urban geographies.
 
@@ -779,7 +779,7 @@ Jordan Strom is Curator of Exhibitions and Collections at the Surrey Art
 Gallery where he has recently curated the exhibitions Game Show, Harun
 Farocki: Deep Play, and Checking in with your Hotspots. He is a critic and
 Founding Editor at Fillip Magazine. He has contributed essays to art
-publications and is a contributor to Presentation House Galleryâ€™s
+publications and is a contributor to Presentation House Gallery’s
 forthcoming catalogue on Glenn Lewis.
 
 William Wood is an art historian and critic whose current research focuses
@@ -813,9 +813,9 @@ Paul Chaat Smith is a Comanche author, essayist, and curator. His books and
 exhibitions focus on the contemporary landscape of American Indian politics
 and culture.
 
-Smith joined the Smithsonianâ€™s National Museum of the American Indian in
+Smith joined the Smithsonian’s National Museum of the American Indian in
 2001, where he currently serves as Associate Curator. His projects include
-the NMAIâ€™s history gallery, performance artist James Lunaâ€™s Emendatio at
+the NMAI’s history gallery, performance artist James Luna’s Emendatio at
 the 2005 Venice Biennial, Fritz Scholder: Indian/Not Indian (2008), and
 Brian Jungen: Strange Comfort (2009).
 
@@ -826,7 +826,7 @@ You Know about Indians Is Wrong, was published in 2009 by the University of
 Minnesota Press, and is now in its second printing.
 
 Appointed Critic in Residence three times in galleries in the U.S. and
-Canada, Smithâ€™s exhibitions and essays have explored the work of Richard
+Canada, Smith’s exhibitions and essays have explored the work of Richard
 Ray Whitman, Baco Ohama, Faye HeavyShield, Shelley Niro, Erica Lord, and
 Kent Monkman. He has lectured at the National Gallery of Art, Center for
 the Arts in San Francisco, and the Getty Center for the History of Art and
@@ -917,12 +917,12 @@ Vancouver BC
 ------------------------------------------------------------------------
 EXTENDED- Call for Submissions: Emerging Artist Research Residency 2011
 
-May 9 â€“ June 3, 2011.
+May 9 – June 3, 2011.
 
-The University of Windsorâ€™s School of Visual Arts offers a one-month
+The University of Windsor’s School of Visual Arts offers a one-month
 Emerging Artist Research Residency program. This residency is an
 opportunity for emerging artists to cultivate new ideas through research
-and production, access the schoolâ€™s resources and facilities, and explore
+and production, access the school’s resources and facilities, and explore
 arts and culture in the border region of Windsor/ Detroit.
 
 Resources available include; Sculpture Studio and equipment, Digital Photo
@@ -986,7 +986,7 @@ More information about House Games at : www.housegames.fi
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-11-04-19-ross-creek-gallery-nova-scotia-residency-opportunities-dec-1">19. Ross Creek Gallery, Nova Scotia | Residency Opportunities | DEC 1</a>
 ------------------------------------------------------------------------
-Ross Creek Gallery and Residency Opportunities â€“ deadline Dec. 1.
+Ross Creek Gallery and Residency Opportunities – deadline Dec. 1.
 
 The Ross Creek Centre for the Arts in Nova Scotia Canada welcomes
 applications for artists of all disciplines to participate in a colony or
@@ -1013,7 +1013,7 @@ about how we use the community gallery.
 
 The Ross Creek Centre for the Arts is a rural multi disciplinary arts
 education and development centre based on 186 acres of farm and forest in
-Nova Scotiaâ€™s Annapolis Valley. Our facilities and programs are designed to
+Nova Scotia’s Annapolis Valley. Our facilities and programs are designed to
 serve the artistic and cultural communities of Nova Scotia, of Canada, and
 of the world, with a focus on professional artist development, youth
 education and Aboriginal arts programming. Website: www.artscentre.ca
@@ -1028,7 +1028,7 @@ www.artscentre.ca
 
 The Ross Creek Centre for the Arts is a multi disciplinary arts education
 and development centre based on 186 acres of farm and forest in Nova
-Scotiaâ€™s Annapolis Valley. Our facilities and programs are designed to
+Scotia’s Annapolis Valley. Our facilities and programs are designed to
 serve the artistic and cultural communities of Nova Scotia, of Canada, and
 of the world, with a focus on professional artist development, youth
 education and Aboriginal arts programming.
@@ -1093,7 +1093,7 @@ Codification of the concept 'very'
 Institutional art
 Ideas of academic autonomy and healthy debate
 Conference as an art form (sometimes sublime and sometimes desultory)
-Conference paper clichÃ©s (i.e., saving grace, silver lining, take the good
+Conference paper clichés (i.e., saving grace, silver lining, take the good
 with the bad, don't throw out the baby with the bath-water)
 Is the want for more intimate intellectual exchange a naive romantic
 longing for simpler times of generating controversy and crisis within one's
@@ -1102,7 +1102,7 @@ The Greek symposium
 Poetics of the syllabus
 Eventalism
 Corporate/academic spectacles in The Eyes of the University
-"Eventalism, Ã‰vÃ©nement and 'the surprise of the event' (Nancy)"
+"Eventalism, Événement and 'the surprise of the event' (Nancy)"
 Staging a conference as a mere administrative exercise
 
 Submissions should include:
@@ -1132,14 +1132,14 @@ The Morris and Helen Belkin Art Gallery is pleased to present the first
 solo exhibition in North America of work by Amsterdam based,
 artist-filmmaker Mark Boulos. Boulos was trained as a documentary filmmaker
 and is now working on gallery installations. The exhibition features a new,
-three channel, three projection work, â€˜No Permanent Addressâ€™ (2010) and
-production stills, the two channel, double projection work, â€˜All That is
-Solid Melts Into Airâ€™ (2008) that was recently exhibited at the 6th Berlin
-Biennale, and the single channel monitor work, â€˜The Word Was Godâ€™ (2007).
+three channel, three projection work, ‘No Permanent Address’ (2010) and
+production stills, the two channel, double projection work, ‘All That is
+Solid Melts Into Air’ (2008) that was recently exhibited at the 6th Berlin
+Biennale, and the single channel monitor work, ‘The Word Was God’ (2007).
 
-Boulosâ€™ work revolves around his interest in revolutionary ardour and
-religious ecstasy. In the twenty minute, â€˜All That is Solid Melts Into
-Air,â€™ one screen portrays the Nigerian rebel group MEND who are trying to
+Boulos’ work revolves around his interest in revolutionary ardour and
+religious ecstasy. In the twenty minute, ‘All That is Solid Melts Into
+Air,’ one screen portrays the Nigerian rebel group MEND who are trying to
 sabotage the oil industry in the Niger Delta. Boulos reveals the Marxist
 politics of group members and their adherence to the war god Egbisu who
 they believe, gives them invulnerability to bullets. The sequence climaxes
@@ -1147,11 +1147,11 @@ in a war dance. On the other screen are scenes from the Chicago Stock
 Exchange (where oil is traded) on the day of the Bear Stearns collapse. The
 frenzied traders and gesticulating warriors echo and face each other. This
 work was shown at the 2008 Sidney Biennale and at the 2010 Berlin Biennale.
-â€˜All That is Solid Melts Into Airâ€™ has never been shown in North America.
+‘All That is Solid Melts Into Air’ has never been shown in North America.
 
-The first presentation of â€˜No Permanent Addressâ€™ is at the Morris and Helen
+The first presentation of ‘No Permanent Address’ is at the Morris and Helen
 Belkin Art Gallery. The work is for three screens and consists of portraits
-and vignettes from life with members of the New Peopleâ€™s Army, a Maoist
+and vignettes from life with members of the New People’s Army, a Maoist
 guerrilla group in the Philippines who have recently allowed same-sex
 marriages among the cadres. Boulos talks to various members of the group
 and witnesses their daily life. The piece climaxes with a tense preparation
@@ -1164,7 +1164,7 @@ human portrait of people who have turned to militancy.
 
 This exhibition has been made possible with funding from The Canada Council
 for the Arts, the Mondriaan Foundation, Amsterdam, the Netherlands Film
-Fund, and the generous support of our Belkin Curatorâ€™s Forum members.
+Fund, and the generous support of our Belkin Curator’s Forum members.
 
 Belkin 101
 Thursday November 4, 12:30 - 1:30 pm
@@ -1201,7 +1201,7 @@ West Vancouver Museum
 680 17th Street, West Vancouver, BC
 Open Tue - Sat 11am to 5pm
 
-Takao Tanabeâ€™s career as a visual artist has spanned over sixty years, a
+Takao Tanabe’s career as a visual artist has spanned over sixty years, a
 period throughout which his artistic production has undergone numerous
 stylistic and formal changes. Moving freely between what we often consider
 contradictory realms - abstraction and high realism - Tanabe has painted in

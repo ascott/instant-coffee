@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 5
 type: "TALK"
+venue: "ECUAD - Reliance Theatre"
 summary: "ECUAD - Reliance Theatre | Karin Jones | 11AM | NOV 1"
 ---
 

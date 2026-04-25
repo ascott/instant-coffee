@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 37
 type: "CALL"
+venue: "2019 Artists Engaging Community Program"
 summary: "2019 Artists Engaging Community Program | Request for Qualifications | OCT 3"
 ---
 

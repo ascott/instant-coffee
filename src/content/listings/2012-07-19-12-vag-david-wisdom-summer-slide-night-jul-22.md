@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 12
 type: ""
+venue: "VAG"
 summary: "VAG | David Wisdom: Summer Slide Night | JUL 22"
 ---
 

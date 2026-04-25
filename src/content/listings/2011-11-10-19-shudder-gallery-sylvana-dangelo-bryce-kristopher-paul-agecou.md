@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 19
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | Sylvana D'Angelo & Bryce Kristopher Paul Agecoutay | NOV 17"
 ---
 

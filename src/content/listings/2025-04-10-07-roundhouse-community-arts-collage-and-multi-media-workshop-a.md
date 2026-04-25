@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 7
 type: "EDUCATION"
+venue: "Roundhouse Community Arts"
 summary: "Roundhouse Community Arts | Collage and Multi Media Workshop | APR 11"
 ---
 

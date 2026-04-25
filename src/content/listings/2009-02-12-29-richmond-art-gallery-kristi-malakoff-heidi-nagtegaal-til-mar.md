@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 29
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Kristi Malakoff & Heidi Nagtegaal | til | MAR 22"
 ---
 

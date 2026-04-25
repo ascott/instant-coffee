@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 31
 type: "EVENT"
+venue: "VIVO OFFSITE @ 222 E. Georgia St"
 summary: "VIVO OFFSITE @ 222 E. Georgia St | Text to Speech: Svetlana Boyn | 7-9PM | NOV 22"
 ---
 

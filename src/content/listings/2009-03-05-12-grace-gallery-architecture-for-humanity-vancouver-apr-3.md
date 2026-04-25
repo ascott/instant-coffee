@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in the tradition of the now"
 emailDate: "Thu, 05 Mar 2009 08:55:15 -0800"
 number: 12
 type: ""
+venue: "Grace Gallery"
 summary: "Grace Gallery | Architecture for Humanity Vancouver | APR 3"
 ---
 

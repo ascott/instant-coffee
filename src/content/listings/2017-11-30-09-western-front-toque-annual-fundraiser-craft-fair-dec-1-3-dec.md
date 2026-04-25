@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 9
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | TOQUE Annual Fundraiser & Craft Fair DEC 1-3 | DEC 1"
 ---
 

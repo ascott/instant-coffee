@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 14
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | CROP + Dreamaway | SEP 27"
 ---
 

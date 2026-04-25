@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 50
 type: "EDUCATION"
+venue: "Silk Weaving Studio"
 summary: "Silk Weaving Studio | Beginner weaving class May 3-24 | MAY 3"
 ---
 

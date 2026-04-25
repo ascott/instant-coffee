@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 1
 type: ""
+venue: "304 Days"
 summary: "304 Days | Act One: Adam Gandy | JUL 24"
 ---
 

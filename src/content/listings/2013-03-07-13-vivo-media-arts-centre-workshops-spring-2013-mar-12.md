@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 13
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Workshops | Spring 2013 | MAR 12"
 ---
 
@@ -163,7 +164,7 @@ building a viewing community.
 This course focuses on getting you comfortable with photo-documentation. 
 Although sections of the course will be technical, this is not a technical 
 workshop. Please come comfortable with your camera's basic functions 
-(SLRs, point 'nâ€™ shoots, and mobile phones are all acceptable). Please bring 
+(SLRs, point 'n’ shoots, and mobile phones are all acceptable). Please bring 
 your camera and USB cable to every class!
 
 $220 or $175 with VIVO Producer Membership (Extended)

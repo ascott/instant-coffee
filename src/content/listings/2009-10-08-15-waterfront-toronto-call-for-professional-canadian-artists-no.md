@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: on the count of three"
 emailDate: "Thu, 08 Oct 2009 09:24:10 -0700"
 number: 15
 type: ""
+venue: "Waterfront Toronto"
 summary: "Waterfront Toronto | Call for Professional Canadian Artists | NOV 5"
 ---
 

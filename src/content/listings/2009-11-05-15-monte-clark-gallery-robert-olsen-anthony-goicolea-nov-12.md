@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not nonsense but making no sense"
 emailDate: "Thu, 05 Nov 2009 03:27:25 -0800"
 number: 15
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Robert Olsen & Anthony Goicolea | NOV 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 1
 type: ""
+venue: "CAG"
 summary: "CAG | Elizabeth Zvonar & Face Up: Lozano, Lucas & Nauman | NOV 12"
 ---
 

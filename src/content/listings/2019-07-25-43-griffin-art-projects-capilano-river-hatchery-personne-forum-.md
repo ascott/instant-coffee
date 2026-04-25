@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 43
 type: "EVENT"
+venue: "Griffin Art Projects @ Capilano River Hatchery"
 summary: "Griffin Art Projects @ Capilano River Hatchery | Person/ne Forum: Ethics of Care | 1-4PM | AUG 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 11
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Matt Troy | MAR 28"
 ---
 
@@ -27,7 +28,7 @@ The
 exhibition includes the premiere of three commissioned artworks by 
 Vancouver-based artists Patrick Daggitt, Dan Leonard, andSammy 
 Chien. Five international artworks will be screened by Kim Asendorf 
-(Germany), Michael Borris (France), Joseph YÃ¸lk Chiocchi(United 
+(Germany), Michael Borris (France), Joseph Yølk Chiocchi(United 
 States of America), Chris Collins (United States of America), and 
 James Hicks (United Kingdom).
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 22
 type: ""
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | The Sound I'm Looking For | til | NOV 16"
 ---
 

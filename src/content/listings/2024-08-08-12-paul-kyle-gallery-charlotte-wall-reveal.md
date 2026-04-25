@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Charlotte Wall: Reveal"
 ---
 

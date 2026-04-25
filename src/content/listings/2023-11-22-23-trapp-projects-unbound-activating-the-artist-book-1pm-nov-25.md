@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 23
 type: "OPENING"
+venue: "Trapp Projects"
 summary: "Trapp Projects | Unbound: Activating the Artist Book | 1PM | NOV 25"
 ---
 

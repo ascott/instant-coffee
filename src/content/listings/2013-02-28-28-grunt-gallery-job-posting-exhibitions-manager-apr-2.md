@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 28
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Job Posting: Exhibitions Manager | APR 2"
 ---
 
@@ -93,12 +94,12 @@ interesting.
 How to apply: All applications must be received by Friday, March 1,
 2013 at 5:00pm
 
-If you believe that you are a good fit for us, and weâ€™re a good fit
+If you believe that you are a good fit for us, and we’re a good fit
 for you, please mail or email your resume and cover letter in
 confidence to:
 
 grunt gallery
-#116 â€“ 350 East 2nd Avenue
+#116 – 350 East 2nd Avenue
 Vancouver, BC
 V5T 4R8
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: much to everyone's surprise by pop
 emailDate: "Thu, 14 Aug 2008 00:00:23 -0700"
 number: 2
 type: ""
+venue: "Hunt & Gather"
 summary: "Hunt & Gather | Photographs of Birds by Achim Purschwitz | AUG 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 35
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Artists' Tour Tom Burrows and Jack Jeffrey | NOV 24"
 ---
 

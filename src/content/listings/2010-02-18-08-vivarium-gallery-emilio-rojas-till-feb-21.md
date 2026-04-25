@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 8
 type: ""
+venue: "VIVARIUM GALLERY"
 summary: "VIVARIUM GALLERY | Emilio Rojas | till | FEB 21"
 ---
 
@@ -22,7 +23,7 @@ public embarrassment during the Olympics. Two years ago homelessness count
 identified 2,660 people who were homeless in the Metro Vancouver region,
 and the numbers keep growing. The performance/installation uses traditional
 forms of exhibition; a window display used in stores, and galleries to
-portray a faÃƒÂ§ade that can be then further explored inside. The inside
+portray a faÃ§ade that can be then further explored inside. The inside
 will not be a physical space but the viewer's mind and their own inquiries.
 How do they relate to this issue within their own behavioral, emotional and
 physical parameters? How do they treat the homeless? and what do they do as

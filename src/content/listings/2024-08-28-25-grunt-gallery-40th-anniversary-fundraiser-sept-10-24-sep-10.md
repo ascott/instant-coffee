@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 25
 type: "FUNDRAISER"
+venue: "grunt gallery"
 summary: "grunt gallery | 40th Anniversary fundraiser | SEPT 10-24 | SEP 10"
 ---
 

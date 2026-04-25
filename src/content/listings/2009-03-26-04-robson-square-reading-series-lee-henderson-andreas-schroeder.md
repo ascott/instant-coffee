@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 4
 type: ""
+venue: "Robson Square READING SERIES"
 summary: "Robson Square READING SERIES | Lee Henderson & Andreas Schroeder | MAR 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 14
 type: ""
+venue: "FILLIP EDITIONS"
 summary: "FILLIP EDITIONS | Christian Bak & Micah Lexier's Two Equal Texts"
 ---
 

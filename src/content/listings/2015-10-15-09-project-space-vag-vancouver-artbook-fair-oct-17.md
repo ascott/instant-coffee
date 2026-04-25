@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 9
 type: "EVENT"
+venue: "Project Space @ VAG"
 summary: "Project Space @ VAG | Vancouver Art/Book Fair | OCT 17"
 ---
 
@@ -13,7 +14,7 @@ October 17 + 18, 12-6PM
 Hosted by the Vancouver Art Gallery
 750 Hornby Street, Vancouver
 
-Presented by Project Space, VA/BF is a multi-day festival of artistsâ€™
+Presented by Project Space, VA/BF is a multi-day festival of artists’
 publishing featuring over one hundred local, national and international
 publishers, as well as a diverse line-up of programs, performances and
 artist projects. Featured artists travel to Vancouver from across Canada

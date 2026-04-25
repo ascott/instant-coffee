@@ -46,10 +46,10 @@ UBC Belkin Art Gallery appoints Lorna Brown as Associate Director/Curator
 
 The Morris and Helen Belkin Art Gallery at the University of British
 Columbia is pleased to announce that Lorna Brown has been appointed the
-Galleryâ€™s Associate Director/Curator for a three-year term effective July
+Gallery’s Associate Director/Curator for a three-year term effective July
 2, 2015.
 
-â€œLorna is a highly respected artist, educator, independent curator and
+“Lorna is a highly respected artist, educator, independent curator and
 project instigator and we are absolutely thrilled that she has agreed to
 come to the Belkin,â€  said the Galleryâ€™s Director Scott Watson. â€œLorna will
 help to continue to renew the Gallery and expand our network.â€ 
@@ -57,7 +57,7 @@ help to continue to renew the Gallery and expand our network.â€
 Lorna Brown is a Vancouver-based visual artist, curator, writer, educator
 and editor. She has exhibited her work internationally since 1984. Brown
 was the Director/Curator of Artspeak Gallery from 1999 to 2004 and is a
-founding member of Other Sights for Artistsâ€™ Projects, a collective of
+founding member of Other Sights for Artists’ Projects, a collective of
 artists, architects and curators presenting projects that consider the
 varying conditions of public places and public life. She has taught at
 Emily Carr University of Art and Design and Simon Fraser University. Her
@@ -68,12 +68,12 @@ conference, print and online publishing, original research and commissioned
 artworks. Brown was the inaugural curator for the Inside the Library
 initiative, with Group Search: art in the library, a series of six artist
 commissions for the spaces and systems of the Vancouver Public Library
-Central Branch. Brownâ€™s relationship with the Belkin Art Gallery is
+Central Branch. Brown’s relationship with the Belkin Art Gallery is
 longstanding; she was editor and project manager for Ruins in Process:
 Vancouver Art in the Sixties, an online digital archive of over 1,000
 texts, videos, films and images launched in 2009; her work Threshold was
-shown in the same year at Koerner Library as part of the Galleryâ€™s
-collaboration with the UBC Library; and her work is held in the Belkinâ€™s
+shown in the same year at Koerner Library as part of the Gallery’s
+collaboration with the UBC Library; and her work is held in the Belkin’s
 permanent collection. Brown received the Vancouver Institute for the Visual
 Arts Award in 1996 and the Canada Council Paris Studio Award in 2000. Her
 work is in the collections of the Belkin, the National Gallery of Canada,
@@ -84,20 +84,20 @@ Art and Theory for an additional two-year term, a position he has held
 since January 2012, and will continue in his role as Director of the Morris
 and Helen Belkin Art Gallery.
 The Belkin Art Gallery also takes this opportunity to thank Keith Wallace
-who has gone beyond the call of duty, serving as the Galleryâ€™s Associate
+who has gone beyond the call of duty, serving as the Gallery’s Associate
 Director/Curator since January 2012, and from 2005 to 2007, during which
 time he served as Acting Director for one year. The Belkin has benefited
-greatly from Wallaceâ€™s strong, consistent curatorial direction and
-management of the Galleryâ€™s exhibitions, collections and publications. Over
-the past three and half years Wallaceâ€™s exceptional contributions to the
-Belkinâ€™s exhibition program include co-curating The Spaces Between:
+greatly from Wallace’s strong, consistent curatorial direction and
+management of the Gallery’s exhibitions, collections and publications. Over
+the past three and half years Wallace’s exceptional contributions to the
+Belkin’s exhibition program include co-curating The Spaces Between:
 Contemporary Art from Havana with Antonio Eligio (Tonel), his key role on
-the curatorial team and in organizing Witnesses: Art and Canadaâ€™s Indian
+the curatorial team and in organizing Witnesses: Art and Canada’s Indian
 Residential Schools, and securing the Ai Weiwei: New York Photographs
 1983-1993 exhibition, the latter two the highest attended shows in the
-Galleryâ€™s history. Wallace has served on the University Art Committee and
+Gallery’s history. Wallace has served on the University Art Committee and
 has been the lead in facilitating the development and installation of the
-first outdoor art projects to be funded by the Universityâ€™s Outdoor Art
+first outdoor art projects to be funded by the University’s Outdoor Art
 Matching Fund Program.
 
 ------------------------------------------------------------------------
@@ -107,7 +107,7 @@ Marcus Bowcott: Palimpsest (1999)
 Performance Art Videos from the archives for grunt's 30th Anniversary
 
 WEEK 3: grunt gallery releases newly digitized Performance Videos
-â€“ Curated by Alex Pimm for grunt's 30th Anniversary.
+– Curated by Alex Pimm for grunt's 30th Anniversary.
 
 Aug 4: Full Video | Marcus Bowcott, Palimpsest (Feb 12, 1999)
 http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2805bed8fd&e=5a47416022
@@ -115,24 +115,24 @@ http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2805
 "Marcus and Helene evocatively described what it was like to experience
 such a surreal coming-together of incongruities -
 
-'The bull doesnâ€™t look that big here [in the photo] but he was 1200 pounds,
-and the whole gallery became like a mangerâ€¦ There were tons of people
-packed in there, but all of a sudden youâ€™re honoring this animal, something
+'The bull doesn’t look that big here [in the photo] but he was 1200 pounds,
+and the whole gallery became like a manger… There were tons of people
+packed in there, but all of a sudden you’re honoring this animal, something
 that is often considered to be below us. The cave painting [which was
-projected onto the bullâ€™s body as part of the show] had much to do with
-feeding people. They were honoring the animalâ€¦and today we just shop for
+projected onto the bull’s body as part of the show] had much to do with
+feeding people. They were honoring the animal…and today we just shop for
 meat. We all had to be really quiet to keep it calm; that kind of hush was
 a really interesting addition to the installation and performance.'
 
 'We live atomized lives,â€  Helene continues. â€œWith technology, people become
 more and more isolated from each other. The same thing happens with food
-production. In many different aspects of our lifeâ€¦we are becoming more and
+production. In many different aspects of our life…we are becoming more and
 more specialized.'
 
 A critique or exploration of that atomization could be seen to run through
-Bowcottâ€™s work as a unifying thread, perhaps in a sense of superimposition,
+Bowcott’s work as a unifying thread, perhaps in a sense of superimposition,
 of 'stacking, or layering,' Helene tells me. 'Even Palimpsest, the word,
-has to do with layeringâ€¦ An image on an image,' she says. A cave painting
+has to do with layering… An image on an image,' she says. A cave painting
 projected on the side of a bull. Crushed cars on top of cars on top of cars.
 Interview by Genevieve Michaels, read it here:
 An Image On An Image: A conversation with Marcus Bowcott [ATA article]
@@ -146,13 +146,13 @@ http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=9171
 About the Project:
 
 Over the past three years, Alex Pimm has been overseeing the maintenance
-and archiving of grunt's collection of video documentation â€“ recordings of
+and archiving of grunt's collection of video documentation – recordings of
 performances, installations and various accompanying material that date
-back to gruntâ€™s first days. Pimm's selections emphasize grunt's extensive
-history of creating relationships between diverse communities â€“ including
+back to grunt’s first days. Pimm's selections emphasize grunt's extensive
+history of creating relationships between diverse communities – including
 local and international artists, First Nations artists and LGBTQ artists.
 
-grunt gallery will release a new video every Tuesday from July 21 â€“ August
+grunt gallery will release a new video every Tuesday from July 21 – August
 18, visit the 30th Anniversary Tumblr.
 
 READ | About the 30th Anniversary
@@ -161,8 +161,8 @@ READ | About the 30th Anniversary
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-08-06-03-ground-gallery-in-passing-aug-6">03. OPENING | Ground Gallery | In Passing | AUG 6</a>
 ------------------------------------------------------------------------
-Ground Galleryâ€™s inaugural exhibition, In Passing, is a reflection on
-impermanence and precarity, set within one of Vancouverâ€™s many unoccupied
+Ground Gallery’s inaugural exhibition, In Passing, is a reflection on
+impermanence and precarity, set within one of Vancouver’s many unoccupied
 residential properties. Amidst a social maelstrom of ongoing land claim
 disputes, municipal housing crises, gentrification, and the contentions
 that accompany it, eight artists offer delicate channels into negotiations
@@ -189,8 +189,8 @@ impasse that is endemic to discussions of land, ownership, property, and
 the legacy of estate in Vancouver. Heated polemical debates and more
 traditional forms of activism find an unusual ally in the soft-spokenness
 of In Passing. Central to the exhibition, and abridging each of the
-artistâ€™s furtive works, is also a complicated relationship to the practice
-of trespassing. Trespassing, as conceived from the French trespasser, â€œto
+artist’s furtive works, is also a complicated relationship to the practice
+of trespassing. Trespassing, as conceived from the French trespasser, “to
 pass overâ€ , is often associated with the property rights to a parcel of
 land. But to â€œpass overâ€  can also be understood as a bypass, the whim of a
 cursory glance, or the disregard of something not worth remembering. Rather
@@ -214,7 +214,7 @@ in unorthodox locations.
 <a href="/instant-coffee/listings/2015-08-06-04-news-isea2015-art-program-aug-6">04. NEWS | ISEA2015 | Art Program | AUG 6</a>
 ------------------------------------------------------------------------
 ISEA2015, the 21st International Symposium on Electronic Art.
-August 14th â€“ 19th.
+August 14th – 19th.
 SFU Woodwards.
 
 ART PROGRAM
@@ -224,7 +224,7 @@ town.
 From August 14-19, Greater Vancouver Area will become a huge artspace as
 hundreds of performances, installations, and exhibitions pop up from
 around the world, and ISEA2015 will have something for everyone with any
-interest in electronic arts. This yearâ€™s theme is DISRUPTION: from glitch
+interest in electronic arts. This year’s theme is DISRUPTION: from glitch
 art to DIY, generative art to culture jamming, the first thing to get
 flipped is the notion of No-Fun City.
 
@@ -248,13 +248,13 @@ Geronimo Inutiq will present ARCTICNOISE, encompassing multimedia,
 performance, and remix to create a post-colonial space on the Coast Salish
 territory occupied by Vancouver. With BIT-Human, the Tsleil-Waututh Nation
 and the Vancouver Indigenous Media Arts Festival will lead a two-day
-workshop using GPS devicesâ€“â€“automated and human-poweredâ€“â€“to track changes
+workshop using GPS devices––automated and human-powered––to track changes
 in tides, migration, and history.
 
-TOMORROWâ€™S MUSIC
+TOMORROW’S MUSIC
 
-Straight from MontrÃ©al, MUTEK will present a special cabaret program. Dance
-to data at Canadaâ€™s very first Algorave, where on-the-fly algorithms create
+Straight from Montréal, MUTEK will present a special cabaret program. Dance
+to data at Canada’s very first Algorave, where on-the-fly algorithms create
 the soundtrack. HAKANAI will place human dance in a digitized landscape.
 Experience a sound installation set in an huge, abandoned fur-storage
 vault. You can also make your own drum kits out of junk. As the symposium
@@ -264,14 +264,14 @@ electro-music yacht cruise.
 ART GETS POLITICAL
 Interactive art-walks will explore the development and gentrification of
 downtown Vancouver. (In)famous disruptors the Yes Men will deliver a
-masterclass in using heartless corporationsâ€™ own power against them. Spaces
-you thought were abandoned will come back to startling life, and youâ€™ll
+masterclass in using heartless corporations’ own power against them. Spaces
+you thought were abandoned will come back to startling life, and you’ll
 engage your city in new ways.
 
 PLUG INTO THE FUTURE
 Keynote addresses will explore the future of electronic art as well as
-lessons from Vancouverâ€™s own progressive past. You arenâ€™t just an audience
-member, though: youâ€™re also a participant. transmission+interference
+lessons from Vancouver’s own progressive past. You aren’t just an audience
+member, though: you’re also a participant. transmission+interference
 invites you to build devices that make sound with light. Revisiting the
 Spam Folder will help you create works of art from badly-composed phishing
 emails. Hacking the Knitting Machine will teach you how to make a beer
@@ -315,7 +315,7 @@ http://isea2015.org/
 <a href="/instant-coffee/listings/2015-08-06-05-221a-maraya-sisyphean-cart-aug-7">05. OPENING | 221A | Maraya: Sisyphean Cart | AUG 7</a>
 ------------------------------------------------------------------------
 Maraya: Sisyphean Cart
-August 4â€“29, 2015
+August 4–29, 2015
 M. Simon Levin, Glen Lowry and Henry Tsang
 
 Opening Reception
@@ -324,8 +324,8 @@ Friday, Aug 7 at 7:00pm
 Artist Talk
 Saturday, Aug 8 at 2:00pm
 
-Maraya: Sisyphean Cart is a mobile â€˜sousveillanceâ€™ cart that conducts a
-site-specific participatory spatial investigation of Vancouverâ€™s False
+Maraya: Sisyphean Cart is a mobile ‘sousveillance’ cart that conducts a
+site-specific participatory spatial investigation of Vancouver’s False
 Creek and the Dubai Marina. It premiered at the 20th International
 Symposium on Electronic Art (ISEA) in Dubai in November 2014, and completes
 its second leg for ISEA 2015 in Vancouver. This custom-designed hand-drawn
@@ -339,17 +339,17 @@ generatively remixing its HD video capture with imagery from its
 doppelganger. Archetypal architectural forms surround the camera,
 reflecting the master-planned urban landscape that in turn reflects the
 design and desire of lifestyle and capital that is so fluid and mobile in
-todayâ€™s globalized economies. The cart itself, and significantly the
-pulling of it, invokes the spectre of labour â€” purposeful walking as a form
-of resistance to readily consumed images of idealized leisure â€” and the
+today’s globalized economies. The cart itself, and significantly the
+pulling of it, invokes the spectre of labour — purposeful walking as a form
+of resistance to readily consumed images of idealized leisure — and the
 Sisyphean weight of this vision.
 
 Read more: http://221a.ca/maraya
 
 221A
 221 E Georgia St
-Tuesâ€“Fri 10amâ€“5pm
-Sat 12â€“5pm
+Tues–Fri 10am–5pm
+Sat 12–5pm
 Free and Open to Public
 
 ------------------------------------------------------------------------
@@ -370,8 +370,8 @@ played at the 52nd Venice Biennale with artist Nico Vascellari.
 
 Sissy Spacek (Los Angeles, California)
 
-Prolific noise/noise-core/experimental soundâ€¦ band. Sissy Spacek have more
-than 20 released records. Sissey Spacekâ€™s albums are known to subvert
+Prolific noise/noise-core/experimental sound… band. Sissy Spacek have more
+than 20 released records. Sissey Spacek’s albums are known to subvert
 expectations; this performance will likely be a bombastic one through their
 use of nuanced sound collages and brutal intensity. Peel the shellac off
 you brain with short bursts of grind noise and blast beats.
@@ -382,7 +382,7 @@ Mormon Crosses (Vancouver)
 
 Mormon Crosses will be providing some quality sound, with solid song
 writing and varied arrangements, drawing from grunge and punk. Front
-person Jesse Taylorâ€™s contributions to the underground music scene in
+person Jesse Taylor’s contributions to the underground music scene in
 Vancouver are numerous, including his music projects Twin Crystals and
 Channels 3 and 4, as well as his recordings of countless artists on his
 label Night Prison.
@@ -390,9 +390,9 @@ https://mormoncrosses.bandcamp.com
 
 Rinse Dream (Vancouver)
 
-Rinse Dream builds on Justin Gradinâ€™s prior art-punk project Random Cuts.
+Rinse Dream builds on Justin Gradin’s prior art-punk project Random Cuts.
 RD utilizes samples and sound collage. The band has emerged so some degree
-from Gradinâ€™s art collaborations with Justin Patterson. With Rinse Dream,
+from Gradin’s art collaborations with Justin Patterson. With Rinse Dream,
 conventional sound arrangements are bombarded by collaged soundscapes.
 Close your eyes (and dance) while sonic blobs emphasize as well as blot out
 driving rhythm and hooky songwriting. Rinse Dream welcomes you into a weird
@@ -418,7 +418,7 @@ For viewing arrangements and other inquiries: info[AT]spare-room[DOT]ca
 _
 
 "We found it as we roved the grey: blue paper, an irregular triangle. The
-top point linked to a virtual tour that wrapped us around a towerâ€™s twists,
+top point linked to a virtual tour that wrapped us around a tower’s twists,
 simulating dizziness. $40 a square foot, 48 for a view. The second took us
 down and left, to where work and leisure connected a covered walkway,
 supported by golden arches. We continued, right and slightly up, until the
@@ -447,8 +447,8 @@ http://spare-room.ca/
 <a href="/instant-coffee/listings/2015-08-06-08-baf-studio-surface-soren-solkaer-aug-8">08. OPENING | BAF Studio | SURFACE Soren Solkaer | AUG 8</a>
 ------------------------------------------------------------------------
 SURFACE
-SÃ¸ren SolkÃ¦r
-August 8 â€“ September 12, 2015
+Søren Solkær
+August 8 – September 12, 2015
 
 BAF Studio
 108 East Broadway
@@ -465,10 +465,10 @@ back alleys, train stations, studios and walls across the world. SURFACE is
 the result of a three-year journey photographing in Berlin, London, Paris,
 New York, Los Angeles, Miami, Las Vegas, Stavanger, Athens, Sydney, and
 Copenhagen.
-- SÃ¸ren SolkÃ¦r, 2015
+- Søren Solkær, 2015
 
 Burrard Arts Foundation presents SURFACE, an exhibition by Danish
-photographer SÃ¸ren SolkÃ¦r. SURFACE is a definitive portrait anthology of
+photographer Søren Solkær. SURFACE is a definitive portrait anthology of
 the most significant artists and pioneering icons within the contemporary
 street art scene. The images are part of an international project that
 began in 2012. For three years, Solkaer traveled the globe, photographing
@@ -479,7 +479,7 @@ In celebration of the international scope of the project, the SURFACE
 Exhibition has been displayed (with slight variations) at international
 venues including: Art Equity, Sydney Australia; NKN Gallery, Melbourne
 Australia; Subliminal Projects, Los Angeles, California; Allouche Gallery,
-NYC; Ã˜ksnehallen with V1 Gallery, Copenhagen, Denmark; and with the Burrard
+NYC; Øksnehallen with V1 Gallery, Copenhagen, Denmark; and with the Burrard
 Arts Foundation here in Vancouver.
 The three-year SURFACE project has recently culminated in the publication
 of a 240-page hardcover book featuring portraits of 135 artists. This
@@ -494,19 +494,19 @@ area of academic study. In recent decades, it has been engaged in an active
 discourse regarding its tendency to defy the commodification that dominates
 the contemporary art world. Rooted in direct artistic response to
 socio-political issues and with early and prominent practitioners including
-Keith Haring, Jean-Michel Basquiat and RenÃ© Moncada, street art is uniquely
+Keith Haring, Jean-Michel Basquiat and René Moncada, street art is uniquely
 democratic in that it belongs to a public at large. Art in the public realm
 has the ability to function as an expression of hope or social commentary
 while reclaiming community space and refreshing urban environments. As an
 exhibition and part of a long-term project, S URFACE is directly aligned
-with BAFâ€™s organizational mandate to support and further an engaged
+with BAF’s organizational mandate to support and further an engaged
 appreciation for public art in Vancouver.
 
-During the past twenty years, SÃ¸ren SolkÃ¦r (b. 1969) has photographed leading
+During the past twenty years, Søren Solkær (b. 1969) has photographed leading
 personalities within the world of music, film and art including: David
-Lynch, Jack White, Christopher Walken, BjÃ¶rk, Led Zeppelin, Paul McCartney,
+Lynch, Jack White, Christopher Walken, Björk, Led Zeppelin, Paul McCartney,
 Michael Douglas, Patti Smith, Julian Schnabel, Pharrell, U2, Samuel L.
-Jackson, Amy Winehouse, Damon Albarn among many others. SolkÃ¦r 's works
+Jackson, Amy Winehouse, Damon Albarn among many others. Solkær 's works
 have been exhibited in New York, Oxford, Copenhagen, Sydney, Melbourne,
 London, Edinburgh, Chicago, Milano, Napoli, Bratislava, Reykjavik, Cologne
 and Prague and are part of the permanent collection in The Royal Danish
@@ -532,7 +532,7 @@ After receiving an overwhelming response of nearly 900 submissions from
 artists worldwide, it became clear that Twenty-Three Days at Sea is more
 than simply an artist residency: it is a powerful framework through which
 to address the complexity of our contemporary condition. Compelled by the
-sheer diversity of artistsâ€™ proposals, and the breadth of creative queries,
+sheer diversity of artists’ proposals, and the breadth of creative queries,
 concerns and materials that might be brought to this sea voyage, we have
 expanded our initial parameters of the program so that we may now realize
 it as a three-year project, enabling four international and local emerging
@@ -597,7 +597,7 @@ On Wednesday, August 12th Video Out will host a screening of works newly in
 distribution at VIVO Media Arts Centre that were selected based on the Call
 for Submissions "In A Queer Time and Place".
 
-The title of the call was directly inspired by Jack Halberstamâ€™s canonical
+The title of the call was directly inspired by Jack Halberstam’s canonical
 2005 text of the same name. In an effort to define a contemporary queer
 aesthetic (as Halberstam endeavoured to do) works selected for this program
 represent current visual and conceptual concerns and strategies within the
@@ -632,7 +632,7 @@ remember dreams or have a more involved roll once inside the dream is a
 regulated study of self and reality. The journey between these two states
 is a physical transformation of energy that with practice could be induced.
 
-Sylvana dAngeloâ€™s ongoing examination of her surroundings manifests as
+Sylvana dAngelo’s ongoing examination of her surroundings manifests as
 visual art. Her work focuses on the connections any moment could have with
 the subject, their surroundings and the unifying effect of shared experiences.
 www.sylvanaisthebest.com
@@ -676,7 +676,7 @@ distance to weigh in on these conversations and draw their own conclusions
 from them.
 
 This is especially relevant at a time when information technology
-facilitate the instantaneous access of artworks â€“ or rather, images of the
+facilitate the instantaneous access of artworks – or rather, images of the
 artworks. For it should not be forgotten that the digital technologies
 that mediate the art fundamentally alter the medium of the art as well;
 like a conference call or a video chat, the sound of the work's voice is
@@ -684,7 +684,7 @@ distorted, while its physical substance is sublimated and dematerialised
 into something other than itself.
 
 Well-known for helping to canonise the concept of post-internet in
-contemporary art, MARISA OLSONâ€™s works often interrogate the mutability of
+contemporary art, MARISA OLSON’s works often interrogate the mutability of
 technology. Rendering the idea of â€œmedia archaeologyâ€  as sculpture, Olson
 has reclaimed obsolete technologies and memorialised them as art. As a
 direct counterpoint, DANIEL JEFFERIES presents ink drawings on flower
@@ -697,7 +697,7 @@ own, its positioning in the space and its proximity to other works effects
 an environment where the dialogues between the artworks is just as
 important as the discourses about and around them. And while the works
 comprise a myriad of media and approaches, they all relate to the idea of
-the quotidian â€“ those meanings and rituals inscribed in societyâ€™s customs
+the quotidian – those meanings and rituals inscribed in society’s customs
 and culture.
 
 MAYA BEAUDRY and LES RAMSAY investigate the affective qualities that inhere
@@ -707,29 +707,29 @@ JOHNSTON experiments with the recontextualising of ordinary found objects
 by creating palimpsestic clay moulds.
 
 Other works critically assess the aesthetic contexts in which objects are
-situated. ROULA PARTHENIOUâ€™s sculptures make overt references to
+situated. ROULA PARTHENIOU’s sculptures make overt references to
 commonplace things, but their operations are far more subtle; for they rely
-on their audienceâ€™s acquired familiarity with consumer culture in order for
-their representations to be seen. JASON MCLEANâ€™s collaborative sculpture
+on their audience’s acquired familiarity with consumer culture in order for
+their representations to be seen. JASON MCLEAN’s collaborative sculpture
 with SCOTT LAWRENCE functions cleverly as a visual double entendre.
-VANESSA BROWNâ€™s flat panels fuse picture and sculpture, and the objects
+VANESSA BROWN’s flat panels fuse picture and sculpture, and the objects
 depicted in them are derived surrealistically from dream-activated visual
 fields. BARRY DOUPE explores the various forms â€œa lineâ€  can take, and how
 its elasticity and transformability can be employed to express a vast range
 of emotional states.
 
 The works of MANUEL CORREA and NATASHA MCHARDY examine those endlessly
-traversed landscapes of leisure frequented by tourists. McHardyâ€™s stylised,
-collage-like painting presents Vancouverâ€™s seaside skyline as seen from
-Kits Beach â€“ a familiar summer haunt for many â€“ while Correaâ€™s manipulated
-photographs are shot in some of Italyâ€™s most popular ruins. As vibrant and
+traversed landscapes of leisure frequented by tourists. McHardy’s stylised,
+collage-like painting presents Vancouver’s seaside skyline as seen from
+Kits Beach – a familiar summer haunt for many – while Correa’s manipulated
+photographs are shot in some of Italy’s most popular ruins. As vibrant and
 colourful as the crowded sites they show, these images call attention to
 the plurality of public spaces in the summertime, which can be both
 exhilarating and exhausting.
 
 Indeed, in a physical and cultural landscape littered with things, perhaps
-an objectâ€™s imaginative charge is its most important quality. In SCOTT
-BILLINGSâ€™ video work, this imaginative charge comes with a very physical
+an object’s imaginative charge is its most important quality. In SCOTT
+BILLINGS’ video work, this imaginative charge comes with a very physical
 jolt, while Daniel Kent presents a meditation on technology that uses an
 ironic humour to convey its message. Likewise, DUSTIN BRONS' witty homage
 to Bruce Nauman is as smart as it is hilarious. Kirsten Stoltmann's work
@@ -741,7 +741,7 @@ internet-oriented society.
 
 The thrust of Quoting the Quotidian is therefore not a pedagogic or
 didactic thesis, qualifying the work according to an overarching curatorial
-theme â€“ as many have come to expect from group exhibitions featuring a
+theme – as many have come to expect from group exhibitions featuring a
 diverse range of artists. Rather, it is an affirmation of the works'
 vivacity and articulateness when viewed together in real time, in real space.
 
@@ -769,12 +769,12 @@ Instant Coffee Loves Everyone
 ------------------------------------------------------------------------
 ATTENTION REBEL ARTISTS!
 
-Vancouverâ€™s Performance Art Celebration, the LIVE International Performance
+Vancouver’s Performance Art Celebration, the LIVE International Performance
 Art Biennale offers a new opportunity for emerging artists to participate
-in a unique mentorship/workshop with the infamous transâ€“art superâ€“group La
+in a unique mentorship/workshop with the infamous trans–art super–group La
 Pocha Nostra!
 
-This oneâ€“time mentorship/workshop is taking place September 20 to 23, and
+This one–time mentorship/workshop is taking place September 20 to 23, and
 culminates with a grand spectacle on September 23 to open LIVE 2015. Up to
 12 artists will be selected by La Pocha Nostra from submissions. There is
 NO CHARGE for participation. If selected, LIVE will PAY YOU an artist fee
@@ -829,8 +829,8 @@ earlier works, showing together images of the changing city.
 
 Greg Girard's works have been featured in National Geographic, TIME,
 Newsweek, The New Yorker, The National Post, The Star, and numerous
-other publications. Several books on Girardâ€™s work have been
-published, including Magentaâ€™s Phantom Shanghai, now in itâ€™s 3rd
+other publications. Several books on Girard’s work have been
+published, including Magenta’s Phantom Shanghai, now in it’s 3rd
 edition of printing and listed as one of the top 10 photography books
 of all time by The Independent, (UK). Most recently, Girard's work has
 been shown at the Richmond Art Gallery (Richmond, BC), the
@@ -846,21 +846,21 @@ www.monteclarkgallery.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-08-06-17-vag-fuse-disruption-aug-15">17. EVENT | VAG | FUSE: DISRUPTION | AUG 15</a>
 ------------------------------------------------------------------------
-FUSE, Vancouverâ€™s Best Art Party, Celebrates 10th Anniversary
+FUSE, Vancouver’s Best Art Party, Celebrates 10th Anniversary
 
 On August 15, electronic art takes over the Vancouver Art Gallery
 
 FUSE: DISRUPTION
-8pmâ€“12am, Friday, August 15, 2015
+8pm–12am, Friday, August 15, 2015
 Vancouver Art Gallery (750 Hornby St.)
 
 Admission: $20 plus tax / Free to the Vancouver Art Gallery Members
 Tickets: http://vanartgallery.bc.ca/events_and_programs/fuse.html
 
-July 29, 2015, Vancouver, BC â€“ On August 15, 2015, FUSE will celebrate its
+July 29, 2015, Vancouver, BC – On August 15, 2015, FUSE will celebrate its
 10th anniversary with the biggest FUSE event in its history with FUSE:
 DISRUPTION, joining forces with the 21st International Symposium on
-Electronic Art (ISEA2015), one of the worldâ€™s most prestigious global
+Electronic Art (ISEA2015), one of the world’s most prestigious global
 festivals presenting work at the intersection of art and technology, to
 bring you the works of 50 top local and international artists. Expect to
 experience intriguing ways in which these artists synthesize art and
@@ -881,58 +881,58 @@ inside and outside the Gallery space.
 Some highlights that are not to be missed:
 
 The Electronic Disturbance Theater, a renowned pioneering group of art
-activists, presents FloodNetâ€”the first global online political protest
+activists, presents FloodNet—the first global online political protest
 software that successfully implemented electronic civil disobedience,
 launching a new era of hacktivism since 1998.
 
-TZâ€™IJK is a blind, deaf, and speechless autonomous robot made from mud by
-Paula Gaetano Adi and Gustavo Crembil. Motivated by Latin Americaâ€™s
-cannibalistic and hybrid nature, TZâ€™IJK proposes an alternative and
+TZ’IJK is a blind, deaf, and speechless autonomous robot made from mud by
+Paula Gaetano Adi and Gustavo Crembil. Motivated by Latin America’s
+cannibalistic and hybrid nature, TZ’IJK proposes an alternative and
 disruptive approach to the development of embodied artificial life forms
 and advocates for the integration of high and low technological materials
 and cultures.
 
 URME Surveillance is an interactive project that creates photorealistic,
-3D-printed masks of artist Leonardo Selvaggioâ€™s face, transforming his
+3D-printed masks of artist Leonardo Selvaggio’s face, transforming his
 identity into a defense technology that protects the public from facial
 recognition software. When these masks are worn by the public, they trick
 the surveillance cameras into identifying the wearers as the artist.
 
-Marisa Olsonâ€™s Blue Sky, a video sculpture housed in the gilded carcass of
+Marisa Olson’s Blue Sky, a video sculpture housed in the gilded carcass of
 an obsolete Mac computer tower, offers a feminist critique of disruption as
 a corporate meme, in which disruption connects equally to rupture and
 faux-utopian progress. In the video the artist is shown working in a studio
 environment to create a handmade blue sky.
 
-Kubrick or Korineâ„¢ (Alex Munt and Justin Harvey) launches a TV channel
+Kubrick or Korine™ (Alex Munt and Justin Harvey) launches a TV channel
 conceived for cultural producer, icon and visual artist James Franco. Part
 project and part product, 24 Hour Franco encases the Hollywood image-flow
 within avant-garde form and speaks to the comingling of art and celebrity
 in the global image economy.
 
-Amelia Marzecâ€™s New American Sweatshop is an installation that models a
+Amelia Marzec’s New American Sweatshop is an installation that models a
 manufacturing plant where people hand-build semi-functioning prototypes out
 of post-consumer waste, investigating what our technology could look like
 in a future where the American dollar is worthless.
 
 Created by Winnie Soon, gif project How to get the Mao experience through
-Internetâ€¦ runs on a computer screen through a browser. With its specific
+Internet… runs on a computer screen through a browser. With its specific
 characteristics of grainy texture, continuous looping and cinematic
 sequences, the artwork questions how the digital format might reconfigure
 the experience of a public space and the public figure of Mao Zedong.
 
-Scott Kildallâ€™s internet art and sculpture EquityBot treats twenty-four
+Scott Kildall’s internet art and sculpture EquityBot treats twenty-four
 states of human affect as tradable commodities, â€œinvestingâ€  in emotions
 such as anger, joy, disgust and amazement. It then links these emotions
 with actual stocks to make investments using a simulated brokerage account.
 
-Andres Wannerâ€™s Signature Strokes is a series of performative interventions
+Andres Wanner’s Signature Strokes is a series of performative interventions
 in which a remotely controlled drone paints ephemeral graffiti in public
-space. The title is a play on signature strikesâ€”drone killings based on
+space. The title is a play on signature strikes—drone killings based on
 suspicious behavioural patterns thought to be signatures of terrorists.
 
 Taking up notions of fragments and nostalgia, By the Road is a sound
-sculpture created by BjÃ¸rn Erik Haugen. The soundtracks consist of the
+sculpture created by Bjørn Erik Haugen. The soundtracks consist of the
 sound from car chases in famous movies translated into death metal music.
 
 During the evening, FUSE-goers can also see the following exhibitions:
@@ -964,7 +964,7 @@ ISEA2015
 press release
 
 On Main Gallery presents MIMMiC: Disruption at ISEA2015, a three-day
-exhibition and artistâ€™s demos that includes the premiere of Paul Wongâ€™s
+exhibition and artist’s demos that includes the premiere of Paul Wong’s
 Wave Cycle and three works-in-progress by Evann Siebens, Sammy Chien and
 Adam Myhill & Christine Wallace. All these works have been commissioned
 using MIMMiC. Aug 16-18, Room 2345, Simon Fraser University, Goldcorp
@@ -982,8 +982,8 @@ been three years in the making.
 https://www.youtube.com/watch?v=PTuczx8LGJg
 
 MIMMiC: Disruption August 16-18, 2015
-On exhibit will be Paul Wongâ€™s Wave Cycle (2015), images and sounds of
-crashing water recorded on BCâ€™s wild West Coast. Participants are
+On exhibit will be Paul Wong’s Wave Cycle (2015), images and sounds of
+crashing water recorded on BC’s wild West Coast. Participants are
 encouraged to touch the screens using 1 to 4 finger gestures: taps,
 strokes, and swipes to interact with the artwork. Daily exhibition 2-5pm
 Wave Cycle.
@@ -998,7 +998,7 @@ with Wong/Daggitt.
 
 Evann Siebens work is a response to gesture, the point of contact between
 the user and the interface of MIMMiC. The production involves three
-generations of womenâ€™s hands communicating through touch.
+generations of women’s hands communicating through touch.
 
 Sammy Chien will be directing a new media performance inspired from I
 Ching, the ancient Chinese divination text known as the Book of Changes.
@@ -1012,16 +1012,16 @@ interactive sculpture that incorporates touch-screens and the human form.
 Cinematically composed shots of Wallace, an award-winning female
 bodybuilder, will test our conceptions of touch, consent, gender, and strength.
 
-ISEA is one of the worldâ€™s most prominent international arts and technology
+ISEA is one of the world’s most prominent international arts and technology
 events, bringing together scholarly, artistic, and scientific domains in an
 interdisciplinary discussion and showcase of creative productions applying
 new technologies in art, interactivity, and electronic and digital media.
 The event annually brings together artists, designers, academics,
 technologists, scientists, and general audience in the thousands. The
-symposium consists of a conference, exhibitions, and eventsâ€”from large
+symposium consists of a conference, exhibitions, and events—from large
 scale interactive art to cutting edge electronic music performance.
 
-ISEA2015â€™s theme of DISRUPTION invites a conversation about the aesthetics
+ISEA2015’s theme of DISRUPTION invites a conversation about the aesthetics
 of change, renewal, and game-changing paradigms. We look to raw bursts of
 energy, reconciliation, error, and the destructive and creative forces of
 the new. Disruption contains both blue sky and black smoke. When we speak
@@ -1032,8 +1032,8 @@ technologists hack and subvert to rebuild.
 
 In the last four years ISEA in Istanbul, Albuquerque, New Mexico, Sydney,
 Australia, and Dubai. ISEA2015 marks its return to Canada, since the
-groundbreaking first Canadian ISEA1995 in MontrÃ©al. The Symposium will be
-at the Woodwardâ€™s campus of Simon Fraser University, with events at
+groundbreaking first Canadian ISEA1995 in Montréal. The Symposium will be
+at the Woodward’s campus of Simon Fraser University, with events at
 Vancouver Art Gallery, Emily Carr University and other sites.
 http://isea2015.org/
 
@@ -1064,14 +1064,14 @@ presents new forms of visual and media art. http://onmaingallery.com/
 <a href="/instant-coffee/listings/2015-08-06-19-grunt-gallery-arcticnoise-by-geronimo-inutiq-aka-madeskimo-a">19. OPENING | grunt gallery | ARCTICNOISE by Geronimo Inutiq (aka Madeskimo) | AUG 17</a>
 ------------------------------------------------------------------------
 ARCTICNOISE by Geronimo Inutiq (aka Madeskimo)
-Exhibition Dates: Aug 5 â€“ Aug 22
-Reception: August 17 (7â€“10 pm)
-Location: grunt gallery, Unit 116 â€“350 East 2nd Ave
+Exhibition Dates: Aug 5 – Aug 22
+Reception: August 17 (7–10 pm)
+Location: grunt gallery, Unit 116 –350 East 2nd Ave
 
 URL: http://grunt.ca/exhibitions/arctic-noise/
 
 Join us on Monday, August 17th for the reception of ARCTICNOISE at grunt
-gallery (7â€“10pm). This exhibition runs from August 5 to 22 and is presented
+gallery (7–10pm). This exhibition runs from August 5 to 22 and is presented
 in collaboration with Ethnographic Terminalia and the 21st International
 Symposium on Electronic Arts (ISEA). grunt gallery is excited to co-present
 an exhibition, panel, workshop and a performance for ARCTICNOISE.
@@ -1081,17 +1081,17 @@ EXHIBITION INFO:
 ARCTICNOISE is a media installation by Geronimo Inutiq (madeskimo) that
 draws on archival film footage and sound materials sourced from the Isuma
 Archive at the National Gallery of Canada, as well as sound and film
-materials from the artistâ€™s personal collection and other ethnographical
-material. Conceived as an Indigenous response to Glenn Gouldâ€™s celebrated
+materials from the artist’s personal collection and other ethnographical
+material. Conceived as an Indigenous response to Glenn Gould’s celebrated
 composition â€œThe Idea of the Northâ€ , Inutiq will appropriate Gouldâ€™s piece
 as a musical score, paired with new voices and imagery to produce a layered
 and multi-vocal work.
 
-The project folds into Inutiqâ€™s larger practice of his alter-ego,
+The project folds into Inutiq’s larger practice of his alter-ego,
 madeskimo, that draws on the use of instruments, and digital and analogue
 synthesizers, as well as the remixing and processing of samples from a
-large variety of sourcesâ€” including traditional Inuit, Aboriginal, modern
-electronic and urban musicâ€”in order to create an experimental platform.
+large variety of sources— including traditional Inuit, Aboriginal, modern
+electronic and urban music—in order to create an experimental platform.
 
 At its crux, ARCTICNOISE intends to initiate conversations between various
 communities, Indigenous and non-Indigenous, and to provoke thoughtful
@@ -1108,15 +1108,15 @@ forthcoming publication for ARCTICNOISE.
 Facebook Event: https://www.facebook.com/events/1451774958462409/
 -
 
-ARCTICNOISE: Related Programming â€“
+ARCTICNOISE: Related Programming –
 
-Aug 15: WORKSHOP | Terminus: Archives, Ephemera, and Electronic Art @VIVO â€“
+Aug 15: WORKSHOP | Terminus: Archives, Ephemera, and Electronic Art @VIVO –
 https://www.facebook.com/events/691121607686882/
 
-Aug 15: PERFORMANCE | Geronimo Inutiq at FUSE/DISTURBANCE â€“
+Aug 15: PERFORMANCE | Geronimo Inutiq at FUSE/DISTURBANCE –
 https://www.facebook.com/events/1462623120725769/
 
-Aug 19: PANEL | ARCTICNOISE: DIALOGUES â€“
+Aug 19: PANEL | ARCTICNOISE: DIALOGUES –
 https://www.facebook.com/events/1615533645402945/
 
 ------------------------------------------------------------------------
@@ -1147,7 +1147,7 @@ VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the Body Pol
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to
 seemingly random patterns that, when organized into information, can be
-rendered audiovisually. MoirÃ© patterns, shadow puppets, analog video decay,
+rendered audiovisually. Moiré patterns, shadow puppets, analog video decay,
 surveillance technology, and other media collect and give shape to
 disavowed histories and the voices of the earth. In some cases these acts
 of translation permit a heightened political analysis. In others, they
@@ -1183,13 +1183,13 @@ Roedde House Museum
 1415 Barclay Street (corner of Broughton), Vancouver, BC
 
 On August 19th, Roedde House Museum launches a new exhibition on the
-origins of Vancouver tourism and travel. â€œSouvenirs of Howe Sound: A
+origins of Vancouver tourism and travel. “Souvenirs of Howe Sound: A
 History of Local Tourismâ€  traces the rise of well-known Howe Sound getaways
 such as Bowen Island, Horseshoe Bay, and the Sunshine Coast, in the context
-of Vancouverâ€™s colonization and urbanization. Narrated through historical
+of Vancouver’s colonization and urbanization. Narrated through historical
 photographs and promotional posters of Howe Sound from the early to
 mid-twentieth century, the exhibition captures the sense of wonder that
-early settlers experienced travelling up BCâ€™s stunning coastline and
+early settlers experienced travelling up BC’s stunning coastline and
 invites reflection on what it means to view the landscape as a tourist.
 
 Pioneer businesses such as the Union Steamship and Terminal Steamship
@@ -1201,19 +1201,19 @@ Roeddes, a pioneering West End family, were present during this pivotal
 moment in the emergence of modern tourism in British Columbia, and often
 enjoyed excursions around Vancouver and Howe Sound themselves.
 
-â€œBy sharing the history of tourism in Vancouver, I hope the exhibition can
+“By sharing the history of tourism in Vancouver, I hope the exhibition can
 offer locals and visitors alike a new way of thinking about our
 contemporary attitudes and practices towards land, leisure, and travel,â€ 
 says exhibition curator Racan Souiedan. The tradition of marketing
 Vancouver as a wild and rugged nature destination has a lasting legacy. In
 the most recent Regional Tourism Profile done by Destination BC,
 sightseeing, nature and wildlife viewing placed as the number one
-activities. With the cityâ€™s close proximity to beautiful natural spaces,
-itâ€™s no wonder that the origins of Vancouverâ€™s tourism industry lie in
+activities. With the city’s close proximity to beautiful natural spaces,
+it’s no wonder that the origins of Vancouver’s tourism industry lie in
 discovery and adventure rather than urbanization and development.
 
 The exhibit will feature various promotional materials from the Union and
-Terminal Steamship Companies from the 1920s â€“ 1950s; postcards and
+Terminal Steamship Companies from the 1920s – 1950s; postcards and
 photographs from the early days of Vancouver tourism; Roedde Family photos
 and memories of summers spent at Horseshoe Bay; and accounts from Pauline
 Johnson (Tekahionwake) and Chief Joe Capilano.
@@ -1226,15 +1226,15 @@ The event is free and open to the public.
 
 About Roedde House Museum
 Roedde House Museum is a restored Victorian mansion in the West End that
-was once home to one of Vancouverâ€™s first bookbinders and printers. Today,
+was once home to one of Vancouver’s first bookbinders and printers. Today,
 the museum is both a cultural events venue and a fully interactive site
 where visitors can explore the house and see what life was like for a
 middle-class family in the late 1800s.
 
 Location: Roedde House Museum: 1415 Barclay Street (corner of Broughton),
 Vancouver, BC
-Dates and times: Exhibition runs Wednesday August 19th â€“ Sunday November
-1st. Museum hours: Tuesday â€“ Friday 1:00-4:00pm, Sunday 1:00-4:00pm.
+Dates and times: Exhibition runs Wednesday August 19th – Sunday November
+1st. Museum hours: Tuesday – Friday 1:00-4:00pm, Sunday 1:00-4:00pm.
 Admission: $5
 
 More info: www.roeddehouse.org | 604-684-7040 | info@roeddehouse.org
@@ -1266,14 +1266,14 @@ November 14, 2015. Artists are encouraged to consider the following prompt
 when they apply:
 
 With the passing of Bill C-51 life in Canada no longer toes the line of a
-Big Brother state â€“ it is a reality presently actualizing. Surveillance has
+Big Brother state – it is a reality presently actualizing. Surveillance has
 been an increasingly omnipresent force in North American culture. A social
 expectancy and understanding that we will be watched in some capacity has
-formed. Physically and digitally, a personâ€™s actions are monitored, and the
-question of whether or not that is harmful to oneâ€™s existence arises.
+formed. Physically and digitally, a person’s actions are monitored, and the
+question of whether or not that is harmful to one’s existence arises.
 
-Applicants are also urged to consider the mechanisms and structures â€“
-including but not limited to the social, political, and physical means â€“
+Applicants are also urged to consider the mechanisms and structures –
+including but not limited to the social, political, and physical means –
 that create surveillance states.
 
 SUBMISSION PROCEDURE AND GUIDELINES
@@ -1297,7 +1297,7 @@ research, and interests, if applicable.
 
 3. Support: Please include up to fifteen pieces of additional support
 material, including digital images, videos, text excerpts, or audio clips
-alongside a corresponding numbered image list detailing the artworkâ€™s
+alongside a corresponding numbered image list detailing the artwork’s
 title, medium, physical size, date of completion, and any other necessary
 descriptors. Our Programming Committee will review up to a maximum of five
 minutes of time-based work.
@@ -1318,7 +1318,7 @@ exhibitions. Additionally, we will provide limited financial resources to
 aid artists in managing shipping and travel costs.
 
 Please send completed submission packages to:
-ATTN: Programming Committee â€“ Thematic
+ATTN: Programming Committee – Thematic
 info@thenewgallery.org
 
 ------------------------------------------------------------------------
@@ -1332,7 +1332,7 @@ IMPORTANT DATES
 
 August 14, 2015 | Artist Outreach Conference; attend on-line or in person
 at Tampa International Airport.
-August 17 | Call will be launched via CaFÃ‰
+August 17 | Call will be launched via CaFÉ
 (www.CallForEntry.org<http://www.CallForEntry.org>)
 September 14 | Deadline; applications close at 11:59 p.m. in Mountain
 Time Zone on deadline date.
@@ -1346,12 +1346,12 @@ shape the art and culture of Tampa Bay.
 
 ELIGIBILITY: Open to all professional artists/artist teams who:
 
-Â· demonstrate experience in public art and working with public agencies
+· demonstrate experience in public art and working with public agencies
 
-Â· have completed a commission or sold, at a minimum, one piece of
+· have completed a commission or sold, at a minimum, one piece of
 artwork at a value of at least $15,000
 
-Â· can commit to installation by September 2017
+· can commit to installation by September 2017
 
 For further information on the project, the Artist Outreach Conference, and
 to join the mailing list, visit
@@ -1381,7 +1381,7 @@ personally, however the work must speak to our mandate in specific and
 interesting ways.
 
 Our exhibition calendar features a range of art practices from contemporary
-to outsider to exhibitions representing communityâ€“engaged and social
+to outsider to exhibitions representing community–engaged and social
 practice methods, as well as a diversity of mediums: photography, video,
 performance art, drawing, 3D, installation, ceramics, textiles and more.
 For more information on Gachetâ€™s vision and Basis of Unity, please see
@@ -1399,7 +1399,7 @@ accept proposals for solo, group, juried, curated, or major exhibition
 projects; as well as screenings, workshops, performances and collaborations.
 
 We pay CARFAC fees, and provide support for openings, catering, marketing,
-A/V equipment, installation and a sixâ€“week exhibition run at Gallery Gachet.
+A/V equipment, installation and a six–week exhibition run at Gallery Gachet.
 
 Selection Process
 The Gallery Gachet Collective selects a jury of six artist, curators and
@@ -1411,14 +1411,14 @@ selection process by December 15th, 2015.
 Ways to Submit
 Work can be dropped off, mailed, or emailed to the gallery. Gallery Gachet
 aims to be a low barrier space and accepts proposals in many formats
-â€“paper, CD, DVD, Flash Drives and email submissions will all be accepted.
+–paper, CD, DVD, Flash Drives and email submissions will all be accepted.
 Submissions Materials
 1. Documentation of your work or project may include but is not limited to:
-â€¢ 10â€“20 images clearly identified with name, number, title, dimensions
+• 10–20 images clearly identified with name, number, title, dimensions
 and a numbered image list
-â€¢ a short video that typifies your work
-â€¢ audio recordings
-2. A written proposal describing a wellâ€“thought out theme or body of work,
+• a short video that typifies your work
+• audio recordings
+2. A written proposal describing a well–thought out theme or body of work,
 explaining what you wish  to do and any special requirements (250â€“500
 words)
 3. A CV or biography, charting your arts education and exhibitions
@@ -1427,7 +1427,7 @@ We value traditional and untraditional forms of arts education and arts
 experiences. Feel free to include workshops,  mentorships or profound
 experiences that have led you to cultivate the work you are proposing.
 4. An artist statement (Optional)
-5. A selfâ€“addressed, stamped envelope to have hard copy submission
+5. A self–addressed, stamped envelope to have hard copy submission
 materials returned (Optional)
 
 Submissions Deadline
@@ -1480,7 +1480,7 @@ interact with others and with our surrounding environment. The commons, a
 space of inclusivity where the people can converge, is public territory.
 Spaces in which to gather, rally, riot. Whose territory is this? Territory
 includes the interstitial spaces, alleyways and right-of-ways;
-no-personâ€™s-land. Entering new territory can evoke a sense of adventure,
+no-person’s-land. Entering new territory can evoke a sense of adventure,
 exploration, self-awareness, personal development. Territory is uncharted,
 encroached upon, contested and occupied. They overlap and collide,
 extending into realms of culture, sexuality, and religion. Territory are
@@ -1488,7 +1488,7 @@ lines drawn on a map, the path of a river, a habitat, a title; a
 jurisdiction, a political subdivision; a nation, a state, a province. The
 City of Vancouver takes up and takes over the unceded traditional territory
 of the Musqueam, Squamish and Tsleil-Waututh First Nations. What does
-territory mean living on Canadaâ€™s West Coast, and elsewhere? In our
+territory mean living on Canada’s West Coast, and elsewhere? In our
 contemporary moment might it determine Canadian and provincial histories
 and futures? In what ways can we discuss reconciliation, a home on Native
 land? What is territory?

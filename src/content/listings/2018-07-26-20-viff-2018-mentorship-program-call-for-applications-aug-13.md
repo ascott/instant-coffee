@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 20
 type: "CALL"
+venue: "VIFF 2018 Mentorship Program"
 summary: "VIFF 2018 Mentorship Program | Call for Applications | AUG 13"
 ---
 

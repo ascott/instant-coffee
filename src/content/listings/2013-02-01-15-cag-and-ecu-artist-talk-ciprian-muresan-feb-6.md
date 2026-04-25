@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 15
 type: ""
+venue: "CAG and ECU"
 summary: "CAG and ECU | Artist talk: Ciprian Muresan | FEB 6"
 ---
 

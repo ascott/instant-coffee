@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 17
 type: ""
+venue: "The Banff Centre"
 summary: "The Banff Centre | Performance Photography Workshop | JUN 15"
 ---
 
@@ -20,7 +21,7 @@ participants a once-in-a-lifetime opportunity to immerse themselves in
 the exclusive world of photographing the performing arts. Over the 
 course of this seven-day program, faculty will introduce methods of 
 photography for creative exploration, and participants will delight in The 
-Banff Centreâ€™s multi-faceted field work opportunities with our Dance, 
+Banff Centre’s multi-faceted field work opportunities with our Dance, 
 Theatre, Opera and Music performers.
 All participants are expected to bring digital cameras and their own 
 laptops with software for organizing their images. Upon application, a 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 6
 type: "CALL"
+venue: "Nanaimo Ceramic Arts"
 summary: "Nanaimo Ceramic Arts | Ceramic artist in residence"
 ---
 

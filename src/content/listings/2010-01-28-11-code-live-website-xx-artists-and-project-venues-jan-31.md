@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 11
 type: ""
+venue: "CODE Live WEBSITE XX"
 summary: "CODE Live WEBSITE XX | ARTISTS AND PROJECT VENUES | JAN 31"
 ---
 
@@ -34,12 +35,12 @@ Akoumasflore: Scenoscome, co presentation with the Canadian Film Centre
 Seed: Napoleon Brosseau and Gabe Sahwney
 Mondo Spider: Zero Emissions: eatART (Canada)
 mo_ving: Raquel Kogan, curated by Claudio Rivera-Seguel (Brazil/Chile)
-Breaking the Ice: SocietÃ© des arts technologiques (Canada)
+Breaking the Ice: Societé des arts technologiques (Canada)
 Reactable: Sergi JordÃ , Martin Kaltenbrunner, GÃ¼nter Geiger and Marcos
 Alonso (Austria/Spain)
 Instant Places: Canada CODE: Ian Birse, Laura Kavanaugh (Canada)
 PLAY: The Hertzian Collective: Geoffrey Shea (Canada)
-Analogue Nostalgia Presents / prÃ©sente â€“ Foreign Voices, Common Stories
+Analogue Nostalgia Presents / présente – Foreign Voices, Common Stories
 (Ghettoblaster): James Phillips (Canada)
 
 CODE Lounge: Featuring works by Organelle and Shea Allan-McCachen
@@ -47,7 +48,7 @@ EmilyCarr University of Art and Design >>weblink>>
 
 The Paradise Institute: Janet Cardiff and Georges Bures Miller (Canada)
 Organized by the National Gallery of Canada
-Electromode / Peau dâ€™Ane : Valerie Lamontagne (Canada)
+Electromode / Peau d’Ane : Valerie Lamontagne (Canada)
 Skorpions and Captain Electric : Joanna Berzowska, XS Labs (Canada)
 Walking City and Living Pod : Ying Gao (Canada)
 Company Keeper and Emotional Ties : Sara Diamond (Canada)

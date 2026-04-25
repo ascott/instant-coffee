@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 19
 type: ""
+venue: "JOB"
 summary: "JOB | Kwantlen Polytechnic University | FINE ARTS INSTRUCTOR – PAINTING AND DRAWING | JUN 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Empennage"
 emailDate: "Wed, 09 Oct 2024 20:25:15 -0700"
 number: 3
 type: "OPENING"
+venue: "Lipont Gallery"
 summary: "Lipont Gallery | Summer Blue Series | 7PM | OCT 10"
 ---
 

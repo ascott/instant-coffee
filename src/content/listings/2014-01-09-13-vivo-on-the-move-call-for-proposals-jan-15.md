@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 13
 type: ""
+venue: "VIVO"
 summary: "VIVO | ON THE MOVE - CALL FOR PROPOSALS | JAN 15"
 ---
 

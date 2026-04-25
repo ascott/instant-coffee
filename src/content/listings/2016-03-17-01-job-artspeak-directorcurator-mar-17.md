@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 1
 type: ""
+venue: "JOB"
 summary: "JOB | Artspeak | Director/Curator | MAR 17"
 ---
 

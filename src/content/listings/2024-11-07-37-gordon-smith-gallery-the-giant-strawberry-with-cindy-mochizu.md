@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 37
 type: "TALK"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | The Giant Strawberry with Cindy Mochizuki | 1PM | NOV 30"
 ---
 

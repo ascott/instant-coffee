@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 30
 type: "EVENT"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Drink & Draw | JUL 26"
 ---
 

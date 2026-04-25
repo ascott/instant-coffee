@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: yes we no"
 emailDate: "Wed, 03 Dec 2008 22:30:06 -0800"
 number: 2
 type: "EVENT"
+venue: "ECU: On Edge reading series"
 summary: "ECU: On Edge reading series | Susan Holbrook | DEC 4"
 ---
 

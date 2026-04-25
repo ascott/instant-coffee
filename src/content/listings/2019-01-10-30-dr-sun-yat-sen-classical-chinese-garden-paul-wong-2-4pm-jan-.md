@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 30
 type: "TALK"
+venue: "Dr. Sun Yat-Sen Classical Chinese Garden"
 summary: "Dr. Sun Yat-Sen Classical Chinese Garden | Paul Wong | 2-4PM | JAN 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 24
 type: ""
+venue: "JOB"
 summary: "JOB | Surrey Art Gallery | Interpretive Programmer & Engagement Programmer | JUN 16"
 ---
 

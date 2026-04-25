@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 19
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artist Talk with Paul Wong | JAN 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 13
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | CAARDI: Niki Najm-Abadi | JUL 29"
 ---
 

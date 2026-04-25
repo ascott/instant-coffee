@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 12
 type: "EVENT"
+venue: "Cinevolution Media Arts Society"
 summary: "Cinevolution Media Arts Society | Chinatown Mural Walks | MAY 10-JUN 1 | MAY 10"
 ---
 

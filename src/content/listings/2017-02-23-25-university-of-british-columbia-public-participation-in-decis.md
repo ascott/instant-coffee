@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 25
 type: ""
+venue: "University of British Columbia"
 summary: "University of British Columbia | Public Participation in Decision Making | FEB 28"
 ---
 

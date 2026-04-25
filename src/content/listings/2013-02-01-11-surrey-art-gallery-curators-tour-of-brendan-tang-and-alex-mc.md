@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 11
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Curator's Tour of Brendan Tang and Alex McLeod | FEB 2"
 ---
 
-Curator's Tour of Brendan Tang and Alex McLeodâ€™s The future is already here
+Curator's Tour of Brendan Tang and Alex McLeod’s The future is already here
 
 Surrey Art Gallery
 Saturday February 2, 3:00 PM - 4:00 PM
@@ -26,9 +27,9 @@ boundaries between the real and the virtual.
 The heart of this exhibition is a collaborative mixed-media installation by Tang 
 and McLeod that blends digital projection with ceramic sculpture. Each artist 
 is also represented by a selection of independent work. Inspired by video 
-games, Romantic landscape paintings, and dioramas, McLeodâ€™s surreal 
+games, Romantic landscape paintings, and dioramas, McLeod’s surreal 
 environments depicted in large panoramic photographs exist in their own 
-indeterminate time and space. Brendan Tangâ€™s colourful and wildly 
+indeterminate time and space. Brendan Tang’s colourful and wildly 
 incongruous Manga Ormolu ceramic vessels fuse Asian and Western 
 historical decorative styles with pop art forms derived from Japanese anime 
 and manga. Guest curated by Rachel Lafo.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 27
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Chromaflex 16mm Colour Film Processing | SEP 30"
 ---
 

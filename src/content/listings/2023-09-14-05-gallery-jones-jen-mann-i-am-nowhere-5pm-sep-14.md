@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 5
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Jen Mann I AM NO•W•HERE | 5PM | SEP 14"
 ---
 

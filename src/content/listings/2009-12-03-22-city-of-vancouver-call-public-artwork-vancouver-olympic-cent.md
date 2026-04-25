@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 22
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | CALL: public artwork Vancouver Olympic Centre | DEC 14"
 ---
 

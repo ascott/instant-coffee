@@ -43,10 +43,10 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-04-07-01-contemporary-art-gallery-sharon-hayes-and-ruti-sela-maayan-a">01. Contemporary Art Gallery | SHARON HAYES and RUTI SELA & MAAYAN AMIR | APR 7</a>
 ------------------------------------------------------------------------
 The Contemporary Art Gallery opens two new exhibitions: In the 
-Near Future by American artist Sharon Hayes and Beyond Guilt â€“ 
+Near Future by American artist Sharon Hayes and Beyond Guilt – 
 The Trilogy by Israeli artists Ruti Sela and Maayan Amir. This will be 
-Hayesâ€™ first solo exhibition in Canada and the Vancouver premiere 
-of Sela and Amirâ€™s video series.
+Hayes’ first solo exhibition in Canada and the Vancouver premiere 
+of Sela and Amir’s video series.
 
 April 8 to June 5, 2011
 
@@ -56,7 +56,7 @@ SHARON HAYES
 
 In the Near Future
 
-For Sharon Hayesâ€™ first solo exhibition in Canada, the CAG presents 
+For Sharon Hayes’ first solo exhibition in Canada, the CAG presents 
 In the Near Future, her multifaceted and dynamic installation, 
 incorporating 13 slide projectors and 354 different images. The 
 numerous images were gathered from audience members over 
@@ -74,7 +74,7 @@ public sites she picketed with placards bearing archaic slogans,
 such as â€œWho approved the war in Vietnam?â€  a phrase originally 
 used in 1962 at the Charter Day Protest at the University of 
 California and â€œI am a Man,â€  a slogan taken from the civil rights 
-movement during the Memphis Sanitation strike in 1968. Hayesâ€™ 
+movement during the Memphis Sanitation strike in 1968. Hayes’ 
 discursive and aesthetic investigation chimes with the recent 
 snowballing of mass demonstrations in the Middle East, as well as 
 speaking to the global resurgence of public protest in the early 21st 
@@ -85,10 +85,10 @@ articulate a collective demand.
 
 RUTI SELA & MAAYAN AMIR
 
-Beyond Guilt â€“ The Trilogy
+Beyond Guilt – The Trilogy
 
 For their first solo exhibition in Canada, the CAG presents Beyond 
-Guilt â€“ The Trilogy (2003-2005) a collaborative video series by 
+Guilt – The Trilogy (2003-2005) a collaborative video series by 
 Israeli artists Ruti Sela and Maayan Amir. Its currency rests in its 
 daring and mischievous blend of sex and politics and its jumbling of 
 subject and author. The trilogy begins with Beyond Guilt #1 shot in 
@@ -102,13 +102,13 @@ asked her to document their meeting.
 
 In all three, Sela and Amir are instigators on and off camera, acting 
 as provocateurs as well as ready and willing participants. Beyond 
-Guilt â€“ The Trilogy is at times difficult to watch. The artists create 
+Guilt – The Trilogy is at times difficult to watch. The artists create 
 risky scenarios by negotiating sex in public places and inviting 
 strangers into their hotel room. Yet, Sela and Amir have managed to 
 anaesthetize situations that are out of the ordinary, filled with 
 unknowns and potential risk. They capture a banality within the 
-sensational, neutering much of the provocation. Sela and Amirâ€™s 
-conflation of sex and war isnâ€™t what one would expect â€“ a depiction 
+sensational, neutering much of the provocation. Sela and Amir’s 
+conflation of sex and war isn’t what one would expect – a depiction 
 of spectacle and drama. It is of the everyday and seems to represent 
 a possible tactic for coping with life in Tel Aviv. In a nation continually 
 at war, surrounded by violence, this seems most viable.
@@ -117,8 +117,8 @@ Sharon Hayes, Ruti Sela & Maayan Amir, In-conversation, Friday,
 April 8, 6 pm
 
 An in-conversation event moderated by Curator Jenifer Papararo. 
-Following brief presentations of the artistâ€™s works, discussions will 
-centre around the artistsâ€™ practices, works on display and focus on 
+Following brief presentations of the artist’s works, discussions will 
+centre around the artists’ practices, works on display and focus on 
 issues of process, use of performance and the reversal of 
 subject/author roles. Places are free.
 
@@ -149,7 +149,7 @@ Foundation and our members, donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 
 6R5, Canada www.contemporaryartgallery.ca. Gallery Hours: Wed. - 
-Sun. 12 â€“ 6 pm. Admission is by donation. For more information 
+Sun. 12 – 6 pm. Admission is by donation. For more information 
 please contact: info@contemporaryartgallery.ca or 604-681-2700
 
 
@@ -191,7 +191,7 @@ the gallery for a recipient whose identity is unknown.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free
 
 Objects are shaped by various encounters with systems of 
@@ -227,17 +227,17 @@ Birmingham, UK", Foundation and Empire, 2004.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-04-07-03-cutty-contemporary-art-edge-of-landscape-apr-9">03. Cutty Contemporary Art | Edge of Landscape | APR 9</a>
 ------------------------------------------------------------------------
-Cutty Contemporary Art | Edge of Landscape | APRIL 9th â€“ MAY 8th 
+Cutty Contemporary Art | Edge of Landscape | APRIL 9th – MAY 8th 
 2011
 
-Opening Reception: April 9th, 4pm â€“ 7pm
+Opening Reception: April 9th, 4pm – 7pm
 
 Cutty is an artist-run commercial gallery located at 564 Beatty St.
 
-Open Saturdays and Sundays 10am â€“ 4pm.
+Open Saturdays and Sundays 10am – 4pm.
 
 Cutty CAG is pleased to present its first group show, Edge of
-Landscape. The show offers an investigation into Vancouverâ€™s
+Landscape. The show offers an investigation into Vancouver’s
 relationship to landscape, as a space outside of the traditional
 Canadian landscape trope and sitting on the western edge of the
 continent. The works chosen address contemporary conceptions of
@@ -286,25 +286,25 @@ This spring, Surrey Art Gallery presents the exhibition series
 Dwelling, in which the three exhibitions Yam Lau: Room, Sitely
 Premises, and Domestic Lives: Works from the Permanent
 Collection collectively explore the inner and outer limits of `the
-domesticâ€™. Yam Lau: Room combines photography, video and
+domestic’. Yam Lau: Room combines photography, video and
 digital animation to represent intimate domestic spaces. Sitely
 Premises looks back over the past five decades at innovative
 artwork situated in the exterior spaces of West Coast single family
 homes. Domestic Lives: Works from the Permanent Collection
 explores the many relationships people have to their homes, in a
 wide variety of media. All three exhibitions officially launch on April 9
-with an artist talk and opening reception from 2â€“5:30pm, and
+with an artist talk and opening reception from 2–5:30pm, and
 continue into June.
 
 Yam Lau: Room
 
-April 2 â€“ June 4
+April 2 – June 4
 
 Balancing still and moving image, transparency and privacy, Toronto-
-based artist Yam Lauâ€™s Room: An Extension (2008) and Rehearsal
+based artist Yam Lau’s Room: An Extension (2008) and Rehearsal
 (2010) are video portraits that re-create familiar spaces in varied
 dimensions and perspectives that unfold like architectural origami.
-Lauâ€™s composited videos integrate cinematic and photographic
+Lau’s composited videos integrate cinematic and photographic
 techniques with computer animation and real action scenes in ways
 that illuminate the everyday moments and private settings in which
 individuals reside. This exhibition is presented as part of the Surrey
@@ -313,16 +313,16 @@ Strom.
 
 Sitely Premises
 
-April 9 â€“ June 12
+April 9 – June 12
 
 This group exhibition examines the way in which the exterior spaces
-of the single family detached home, the ones we associate with â€˜the
-yardâ€™ and â€˜the gardenâ€™, have become important sites for art and
-artists on Canadaâ€™s West Coast. Incorporating sculpture,
+of the single family detached home, the ones we associate with ‘the
+yard’ and ‘the garden’, have become important sites for art and
+artists on Canada’s West Coast. Incorporating sculpture,
 performance, installation art, landscape architecture, photography
 and moving image, recent generations of artists challenge our
 preconceptions of house and home, while investigating the limits of
-landscape art, the artistâ€™s studio and the spaces of exhibition.
+landscape art, the artist’s studio and the spaces of exhibition.
 Participating artists are Barbara Cole, Andrew Dadson, Scott Evans,
 Julia Feyrer, Collin Johanson, Deborah Koenker and Roberto
 Pacheco, Heidi Nagtegaal, Carole Itter, N.E. Thing Co., Reece
@@ -330,7 +330,7 @@ Terris, and Kara Uzelman. Curated by Jordan Strom.
 
 Domestic Lives: Works from the Permanent Collection
 
-April 9 â€“ June 12
+April 9 – June 12
 
 Homes function in a multitude of ways. They can be gathering spots
 for family and friends, a sanctuary from a hectic or threatening world,
@@ -338,7 +338,7 @@ and a place for personal expression. They can also be sites for
 familial tension and emotional stress. For artists, domestic interiors
 reveal the realities of household life, and the social and cultural
 norms of a period. The group exhibition Domestic Lives, drawn from
-the Surrey Art Galleryâ€™s permanent collection, features ceramics,
+the Surrey Art Gallery’s permanent collection, features ceramics,
 paintings, prints and photographs that consider the intimate, artistic,
 social, and sometimes eccentric relationships people have with
 their residences. Artists include Doug Biden, Judy Chartrand,
@@ -348,14 +348,14 @@ Barbara Pratezina, Susan Schuppli, and Sandra Semchuk. Curated
 by Brian Foreman.
 
 These exhibitions are presented concurrently with sound-art
-collective Ensemble Sisypheâ€™s computer-assisted voice and viola
+collective Ensemble Sisyphe’s computer-assisted voice and viola
 sound installation Clang Clagan as part of the Open Sound 2011
 series of sound art installations situated around the Surrey Arts
 Centre.
 
 Event Schedule
 
-Artist Talk and Opening Reception | Saturday, April 9, 2â€“5:30pm
+Artist Talk and Opening Reception | Saturday, April 9, 2–5:30pm
 
 Join Toronto-based artist, Yam Lau for a talk about his work
 including Room: An Extension (2008) and Rehearsal (2010), at
@@ -363,7 +363,7 @@ including Room: An Extension (2008) and Rehearsal (2010), at
 exhibitions, from 3 to 5:30pm, with Formal Remarks at 3:30pm.
 These events are free, and everyone is welcome.
 
-Toronto-based artist, Yam Lauâ€™s creative work explores new
+Toronto-based artist, Yam Lau’s creative work explores new
 expressions and qualities of space, time and the image. This
 exploration traverses a diverse field of mediums such as painting,
 animation and digital video. His most recent works combine video
@@ -375,18 +375,18 @@ Yam Lau is a recipient of numerous awards from the Canada,
 Ontario and Toronto Arts Councils. He publishes on art and design
 regularly.
 
-Curatorâ€™s Tour with Jordan Strom and Brian Foreman | Thursday,
-April 21, 7:30â€“9pm
+Curator’s Tour with Jordan Strom and Brian Foreman | Thursday,
+April 21, 7:30–9pm
 
 Surrey Art Gallery Association members free; other guests by
 donation.
 
 Related Talk: Kathy Mezei - Representing Domesticities | Thursday,
-June 2, 7:30â€“9pm
+June 2, 7:30–9pm
 
 Organized by Surrey Art Gallery Association | Free
 
-Family Day | Sunday, June 12, Noonâ€“4pm
+Family Day | Sunday, June 12, Noon–4pm
 Children must be with an adult | Suggested donation: $3 per child
 
 Surrey Art Gallery
@@ -424,7 +424,7 @@ Sustainability has become a key word for building a better future.
 Yet, the term is marked by contradictions. To sustain, by definition, 
 means to support or maintain what is currently in place. However, in 
 the context of rapid changes in the population, unstable economy, 
-and diminishing resources that characterize todayâ€™s global 
+and diminishing resources that characterize today’s global 
 conditions, the ground underneath is shifting drastically. How do the 
 inhabitants of urban spaces navigate the multifarious meanings 
 and uses of the term sustainability? What do current models of 
@@ -444,48 +444,48 @@ Speakers
 Newton and Helen Mayer Harrison (San Jose, California)* Opening 
 Keynote
 
-Arthur Kroker (Victoria, BC) â€“ Canada Research Chair in 
+Arthur Kroker (Victoria, BC) – Canada Research Chair in 
 Technology, Culture and Theory, University of Victoria* Closing 
 Keynote
 
-Nicholas Blomley (Vancouver, BC) â€“ Professor, Simon Fraser 
+Nicholas Blomley (Vancouver, BC) – Professor, Simon Fraser 
 University, Department of Geography
 
-Amanda Boetzkes (Edmonton, AB) â€“ Assistant Professor, University 
+Amanda Boetzkes (Edmonton, AB) – Assistant Professor, University 
 of Alberta, Department of Art + Design
 
-Ian Campbell (The Squamish Nation) â€“ Hereditary Chief of the 
+Ian Campbell (The Squamish Nation) – Hereditary Chief of the 
 Squamish Nation
 
-Seann Dory (Vancouver, BC) â€“ Manager of Sustainability, United We 
+Seann Dory (Vancouver, BC) – Manager of Sustainability, United We 
 Can / SOLEfood
 
-Mari Fujita (Vancouver, BC) â€“ Designer and Professor, University of 
+Mari Fujita (Vancouver, BC) – Designer and Professor, University of 
 British Columbia,
 
 School of Architecture + Landscape Architecture
 
-Anya Gallaccio (San Diego, California) â€“ Professor, UC San Diego, 
+Anya Gallaccio (San Diego, California) – Professor, UC San Diego, 
 Department of Visual Arts
 
-Michael Green (Vancouver, BC) â€“ Architect and Principal of mgb 
+Michael Green (Vancouver, BC) – Architect and Principal of mgb 
 Architecture + Design
 
-Douglas King (Vancouver, BC) â€“ Lawyer, Pivot Legal Society
+Douglas King (Vancouver, BC) – Lawyer, Pivot Legal Society
 
-Kelty Miyoshi McKinnon (Vancouver, BC) â€“ Landscape Architect and 
+Kelty Miyoshi McKinnon (Vancouver, BC) – Landscape Architect and 
 Co-Founder of Living Lab
 
-Inge Roecker (Vancouver, BC) â€“ Architect and Principal of ASIR 
+Inge Roecker (Vancouver, BC) – Architect and Principal of ASIR 
 architekten
 
 Alexander Rose (San Francisco, California) - Executive Director, The 
 Long Now Foundation
 
-Alec Smith (Vancouver, BC) â€“ Architect and Principal of Shape 
+Alec Smith (Vancouver, BC) – Architect and Principal of Shape 
 Architecture
 
-Matthew Soules (Vancouver, BC) â€“ Architect and Principal of MSA
+Matthew Soules (Vancouver, BC) – Architect and Principal of MSA
 
 For tickets, please call 604.662.4717.
 Tickets: $65 adults; $55 members; $30 students (with valid ID).
@@ -510,7 +510,7 @@ As part of the exhibition 'Carl Beam,' the Museum of Anthropology
 presents: Two Talks: Greg Hill, Curator for Carl Beam. Greg Hill, the 
 Audain Curator of Indigenous Art at the National Gallery of Canada, 
 as he offers two different perspectives on his role as curator of the 
-exhibition. Hill was born in Fort Erie, Ontario and is a Kanyenâ€™kehaka 
+exhibition. Hill was born in Fort Erie, Ontario and is a Kanyen’kehaka 
 (Mohawk) of the Six Nations of the Grand River Territory.
 
 Talk One is Sunday, April 10th at 1PM; Talk Two is Tuesday, April 
@@ -527,12 +527,12 @@ Museum of Anthropology | Film Screening: Aekideh | APR 16 + APR
 26
 
 As part of the exhibition, 'Carl Beam,' the Museum of Anthropology 
-presents two screenings of the film: Aekideh. â€˜Aakidehâ€™ is an Ojibwe 
+presents two screenings of the film: Aekideh. ‘Aakideh’ is an Ojibwe 
 word meaning brave or brave-hearted. Artist Carl Beam earned a 
 reputation for being fearless, visionary and ultimately, unforgettable. 
 From his early years growing up on Manitoulin Island to his turbulent 
 years spent at a residential school, this documentary explores how 
-these early experiences not only impacted Beamâ€™s life but also his 
+these early experiences not only impacted Beam’s life but also his 
 art. Screening time: 65 minutes. For background on the film, visit 
 www.carlbeamdoc.com.
 
@@ -596,7 +596,7 @@ Episodes Four & Five of Berlin Alexanderplatz (1980)
 5. Reaper With the Power of Our Lord
 
 Berlin Alexanderplatz is the summa of Fassbinder's art and the
-culmination of his lifelong relationship with Alfred DÃ¶blin's
+culmination of his lifelong relationship with Alfred Döblin's
 monumental novel of Berlin in the 1920s, a book he said 
 was "embedded
 in my mind, my flesh, my body as a whole, and my soul." Originally
@@ -710,42 +710,42 @@ public talk by LuisJacob on Tuesday, April 12th at 7 p.m. in the
 Western Front. Admission is free for all. For more information 
 please contact info@casv.ca.
 
-Luis Jacobâ€™s work has been presented in numerous international 
+Luis Jacob’s work has been presented in numerous international 
 group exhibitions including Haunted: Contemporary 
 Photography/Video/Performance, Solomon R. Guggenheim 
 Museum, New York (2010); Animism, Extra City Kunsthal Antwerp; 
 Kunsthalle Bern (2010); Dance with Camera, University of 
 Pennsylvania, Philadelphia and the Contemporary Art Museum, 
-Houston (2009-2010); If We Canâ€™t Get It Together, The Power Plant 
+Houston (2009-2010); If We Can’t Get It Together, The Power Plant 
 Contemporary Art Gallery, Toronto, Canada (2008); The Order of 
 Things, Museum voor Hedendaagse Kunst, Antwerp (2008); and 
 Documenta 12, Kassel (2007). Text continued below invitation.
 
 Jacob's solo exhibitions include Luis Jacob: Without Persons, Art in 
-General, New York (2010), the StÃ¤dtisches Museum Abteiberg of 
-MÃ¶nchengladbach (2009), the Hamburg Kunstverein (2008); 
-Platform Seoul, PKM Gallery, Seoul (2008); the MusÃ©e dâ€™art de 
+General, New York (2010), the Städtisches Museum Abteiberg of 
+Mönchengladbach (2009), the Hamburg Kunstverein (2008); 
+Platform Seoul, PKM Gallery, Seoul (2008); the Musée d’art de 
 Joliette, Quebec (2008); the Morris and Helen Belkin Art Gallery of 
 the University of British Columbia (2007), and the Art Gallery of 
 Ontario, Toronto (2005).
 
 Luis Jacob recently celebrated a multi-city, mid-career survey with 
-the exhibition, Luis Jacob: Tableaux Vivants at Montrealâ€™s Darling 
+the exhibition, Luis Jacob: Tableaux Vivants at Montreal’s Darling 
 Foundry (June-August 2010) and Luis Jacob: Pictures at an 
-Exhibition at Torontoâ€™s Museum of Contemporary Canadian Art 
+Exhibition at Toronto’s Museum of Contemporary Canadian Art 
 (February-March 2011). He is currently working on a public-art 
-project in Toronto for the cityâ€™s new Dufferin Underpass, featuring a 
+project in Toronto for the city’s new Dufferin Underpass, featuring a 
 series of abstract forms rendered in glass mosaics that read as 
 facially expressive interpolations of the Surrealist idea of 'formless'.
 
 A new publication was produced by MOCCA with Jacob addressing 
-the theoretical aspects of the artistâ€™s work. This limited publication 
+the theoretical aspects of the artist’s work. This limited publication 
 will be available for sale on the night of the CASV artist talk for $10.
 
 Of his triumphant 2010 Darling Foundry show, Canadian Art editor, 
 Richard Rhodes wrote:
 
-â€œâ€¦what sets him apart as an artistâ€¦ namely (is) his affection for art 
+“…what sets him apart as an artist… namely (is) his affection for art 
 in general. Jacob is a lover of the idea of art making. There is 
 something immediate, contingent and volatile in his documentation 
 of far-flung artist projects gathered in the 2009 work Album VIII. 
@@ -787,7 +787,7 @@ In the Gallery
 Join curator Grant Arnold for a tour KEN LUM, the most extensive 
 survey of the Vancouver-based artists work to date. Arnold will offer a 
 tour of the exhibition, highlighting important and recurrent issues 
-that run through Lumâ€™s artistic practice.
+that run through Lum’s artistic practice.
 
 Since he began exhibiting his art in the late 1970s, Lum has 
 developed a complex body of work that includes performances in 
@@ -820,12 +820,12 @@ McIntyre.
 
 Grant Arnold is a writer, curator and educator. He is currently Audain 
 Curator of British Columbia Art at the Vancouver Art Gallery, where 
-he contributes to the Galleryâ€™s exhibition and collecting activities. 
+he contributes to the Gallery’s exhibition and collecting activities. 
 Over the past twenty years he has organized more than thirty-five 
 exhibitions of historical, modern, and contemporary art. Recent 
 exhibition projects have included Reece Terris: Ought Apartment, 
 Mark Lewis: Modern Time, Fred Herzog: Vancouver Photographs, 75 
-Years of Collecting â€“ The Road to Utopia, and Classified Materials: 
+Years of Collecting – The Road to Utopia, and Classified Materials: 
 Accumulations, Archives, Artists (with Daina Augaitis, Bruce 
 Grenville and Monika Szewczyk). Arnold has contributed more than 
 two-dozen essays and articles to exhibition catalogues and journals.
@@ -848,14 +848,14 @@ Hours
 
 Tue.- Sat. 12pm - 6pm
 
-April 14- â€œ April 30, 2011; Grad Show 2008: Visual Art 
+April 14- “ April 30, 2011; Grad Show 2008: Visual Art 
 Graduation Exhibition
 
 Opening: April 13, 7 - 10pm
 
 Nikita Alagappa, Elena Boulankova, Ryan Chow, Michelle Lui, Laura 
 McKillop, Monica Rudd, David Stein, Vikram Uchida-Khanna, Alexis 
-Vanderveen, LÃµrinc Vass, Jason Wang, and Nathaniel Wong
+Vanderveen, Lõrinc Vass, Jason Wang, and Nathaniel Wong
 The School for the Contemporary Arts and the Audain Gallery is 
 pleased to announce Grad Show 2008, the 2011 graduation 
 exhibition of undergraduate visual arts students. The title of this 
@@ -936,30 +936,30 @@ Contractor Mac LaPort of MKL Custom Homes, Project Manager
 Jeremiah Hart and Mark "the Apprentice" Eilers for their work on the 
 construction and installation.
 
-Grunt galleryâ€™s former kitchen space has been transformed into a 
+Grunt gallery’s former kitchen space has been transformed into a 
 lab for the development and presentation of new media artworks, 
 educational support, and adjunct programming for our exhibitions 
 and performance programs. It will also facilitate the streaming of live 
 content allowing us to develop more international impact for the 
 artists we support. 
 
-This media lab will also be a key component of gruntâ€™s Activating the 
+This media lab will also be a key component of grunt’s Activating the 
 Archive project. Activating the Archive is a multi-year project that 
-involves bringing the archive of gruntâ€™s 26 years of production into 
+involves bringing the archive of grunt’s 26 years of production into 
 the digital realm through the development of an online, interactive, 
 database driven website. The media lab will provide facilities for the 
 initial digitization of records and capturing of video. It will also 
 become a site for a curated program of contemporary artists to 
 develop and present new media and performance based work in 
-response to materials found in gruntâ€™s archive. 
+response to materials found in grunt’s archive. 
 
-Gruntâ€™s kitchen has been central to gruntâ€™s history as the literal and 
+Grunt’s kitchen has been central to grunt’s history as the literal and 
 metaphorical heart of the organization. This small room has been 
-the â€˜think-tankâ€™ of our collective where programs and exhibitions 
+the ‘think-tank’ of our collective where programs and exhibitions 
 have been developed while sipping a cup of coffee. It has also been 
 the place where many new ideas and organizations have come into 
-fruition. Gruntâ€™s kitchen has been at the core of what we do. Please 
-join us as we launch this newly equipped space and gruntsâ€™ 
+fruition. Grunt’s kitchen has been at the core of what we do. Please 
+join us as we launch this newly equipped space and grunts’ 
 continued commitment to providing artists with new ways of 
 presenting and disseminating their work.
 
@@ -985,7 +985,7 @@ Brenda Joy Lem
 
 Richmond Art Gallery
 
-April 15 â€“ June 12, 2011
+April 15 – June 12, 2011
 
 Opening: Thursday April 14 at 7pm
 
@@ -994,10 +994,10 @@ spirituality and â€œthe enduring heartâ€  as artist Brenda Joy Lem
 explores her family history and the threads that connect 
 generations. Working from family and archival images and stories 
 told to her by relatives, she recounts fragments from the history of 
-her familyâ€™s immigration from China and early history in Canada. 
-Lemâ€™s grandparents came through the Victoria/Vancouver port when 
+her family’s immigration from China and early history in Canada. 
+Lem’s grandparents came through the Victoria/Vancouver port when 
 they arrived in Canada over 100 years ago. They eventually settled in 
-Oshawa, Ontario where Lemâ€™s grandfather opened the townâ€™s first 
+Oshawa, Ontario where Lem’s grandfather opened the town’s first 
 hand laundry in 1921. The stories told to Lem, like those of many 
 new immigrants, chronicle exclusion, colonialism and personal 
 strife - they also speak of survival, joy and the ability of the heart to 
@@ -1159,7 +1159,7 @@ represent my travels through, and interpretations of, Revelstoke,
 Glacier, Kootenay, Yoho, Jasper, Banff, and Waterton Lakes 
 National Parks.
 
-"Range" is sectioned into two distinct categories â€“ people and 
+"Range" is sectioned into two distinct categories – people and 
 places. The individuals I photograph are those who live and/or work 
 within these park boundaries, fellow hikers encountered on or near 
 the summits of mountain peaks, and groups of recreational 
@@ -1178,7 +1178,7 @@ these mountain landscapes.
 Mike Andrew McLean received his BFA in Media Arts from the Nova 
 Scotia College of Art and Design in Halifax. Since 2004 he has lived 
 on Vancouver Island, where he completed his MFA at the University 
-of Victoria. McLeanâ€™s work has recently been shown in the group 
+of Victoria. McLean’s work has recently been shown in the group 
 exhibition "Sentimental Journeys" at the Contemporary Art Gallery in 
 Vancouver, and in the solo exhibition "Range: Mountain National 
 Parks Photographs" at the Art Gallery of Greater Victoria (LAB 9.1) 
@@ -1232,7 +1232,7 @@ images in cinema.
 
 The artists are searching for interested individuals and groups to
 sign up to enter into the stairwell and act as extras in our project
-from April 18 to 22. Youâ€™ll have an opportunity to enter an incredible
+from April 18 to 22. You’ll have an opportunity to enter an incredible
 space, see a unique camera apparatus, and be a part of our shoot. 
 To
 participate in the project and for more information please send your
@@ -1251,14 +1251,14 @@ There is nothing more reckless than making a permanent decision
 quickly. The theme of Front Magazineâ€™s last issue is â€œReckless,â€  and 
 we are dedicated to following that to its logical conclusion. So we 
 are inviting you to submit something: a word, phrase, drawing, 
-photo, anything. Front Magazineâ€™s current Art Director, Karianne 
+photo, anything. Front Magazine’s current Art Director, Karianne 
 Blank, will get one of the submissions as a tattoo. The selection will 
-be made by Front Magâ€™s curatorial team.
+be made by Front Mag’s curatorial team.
 
 We are looking for submissions that (perhaps) reference the last 2 
 years of Front Magazine, the last 22 years of Front Magazine, that 
 comment upon the existence of Front Mag within the context of 
-Vancouverâ€™s art and cultural production, or reference the history of 
+Vancouver’s art and cultural production, or reference the history of 
 artist publications within BC.
 
 All submissions should fit in an area no larger than 2.5â€ x 5â€  
@@ -1322,24 +1322,24 @@ media artworks in New England.
 
 Since its inception in 2004, Pixilerations has grown to present 369 
 national and international new media artists. Artists have responded 
-to our thematic â€˜Call4Worksâ€™ such as Pairings [v.7], "The Great 
+to our thematic ‘Call4Works’ such as Pairings [v.7], "The Great 
 Disruption [v.6], Fragments and Wholes [v.5] and Stories+/-
 Ornaments [v.4]. Pixilerations has featured convention-defying guest 
 artists in exhibitions, performances and residencies including DJ 
 Spooky, Ulrich Maiss, Liz Phillips, Laurie Anderson, SKIF++, Myriam 
 Thyes, Gail Wight, Heidi Kumao, Dar-Kuen Wu, Pauline Oliveros, 
-Dean & Britta, and Mark Cetilia & Joe Cantrellâ€™s CallSpace, a 
+Dean & Britta, and Mark Cetilia & Joe Cantrell’s CallSpace, a 
 Creative Capital Project.
 
 The Pixilerations festival aims to attract diverse audiences; it 
 includes a blend of traditional venues such as art galleries, 
 auditoriums, recital Halls, with non-traditional spaces such as 
-cinemas, cafes and outdoor areas in Providenceâ€™s historic Arts 
+cinemas, cafes and outdoor areas in Providence’s historic Arts 
 District.
 
 In an era of Facebook/Twitter-inflamed revolutions, biotechnology 
 ethics wars, and youtube-generated museum exhibitions, this year's 
-festival seeks to examine the question "Where â€“ and what â€“ is New 
+festival seeks to examine the question "Where – and what – is New 
 Media Art today?" New Media art traditionally held a role at the 
 intersections of art, science, technology, and social realms, yet 
 artists who do not identify as New Media artists now make free use 
@@ -1400,15 +1400,15 @@ September 2011, applications closing 30 April, 2011.
 The course is designed to assist educators, curators and 
 professionals involved in migrant and community programs to:
 
-â€¢ develop new models and approaches to deal with challenges of 
+• develop new models and approaches to deal with challenges of 
 bringing contemporary audiences to art and bringing art culturally 
 diverse audiences;
-â€¢ explore how engagement with art can be a catalyst for social 
+• explore how engagement with art can be a catalyst for social 
 cohesion and peaceful coexistence and enables people to extend 
 their cultural boundaries;
-â€¢ build resources, skills and opportunities to develop new 
+• build resources, skills and opportunities to develop new 
 approaches and paradigms in addressing new audiences;
-â€¢ work with art as a forum for intercultural dialogue and the socio-
+• work with art as a forum for intercultural dialogue and the socio-
 political importance of art in development of civil society in a 
 culturally heterogeneous Europe.
 
@@ -1461,7 +1461,7 @@ manner and be comfortable working in a cooperative studio
 environment. Residents will be expected to keep their spaces and 
 the studio tidy; as well as treat the facilities and equipment 
 respectfully. The studios will be accessible 24 hours a day. There 
-will be a group exhibition of Residentâ€™s work held in the Mary E. 
+will be a group exhibition of Resident’s work held in the Mary E. 
 Black Gallery in September.
 
 The cost of the residency is $275 for the summer plus a $50 
@@ -1496,7 +1496,7 @@ http://entzaubert.blogsport.de/callout2011/
 
 ---------------------------------------------------------
 
-[[[[[[[[[[[[[[[ fÃ¼r deutsch bitte runterscrollen ]]]]]]]]]]]]]]]]
+[[[[[[[[[[[[[[[ für deutsch bitte runterscrollen ]]]]]]]]]]]]]]]]
 
 ******* hey there queer filmmakers! *******
 
@@ -1518,7 +1518,7 @@ entzaubert is a radical queer d.i.y. film festival
 happening 7-10 july 2011 at the queer wagenplatz schwarzer kanal 
 in berlin
 
-we will create a space for queer/feminist d.i.y. cinema â€“ you provide 
+we will create a space for queer/feminist d.i.y. cinema – you provide 
 the films!
 
 we are looking for movies within or beyond these categories:
@@ -1528,10 +1528,10 @@ experimental, feminist, aids/hiv, funny, crazy, serious, low or no
 budget, music, quality, concise, international, homo-socialist,
 homosexualist, people of colour, revolutionary, polyamorous,
 monogamous, lazy, tranny-dyky, faggy, old, brand-new, provocative,
-difficult, hot,â€¦â€¦we welcome films in any language â€“ multiple
+difficult, hot,……we welcome films in any language – multiple
 language/subtitles are always appreciated.
 
-if thatâ€™s not possible, submit anyway! we will try to find subtitlers.
+if that’s not possible, submit anyway! we will try to find subtitlers.
 
 *******WORKSHOPS*********
 
@@ -1540,14 +1540,14 @@ up for sharing your skills? need a reason to make your first film ?
 we plan to organize a couple of workshops during the festival.
 
 we would like *you* to prepare, moderate or host them - or simply
-share equipmentâ€¦
+share equipment…
 
 This might be filming, editing, directing, subtitling, writing,
 costumes, make-up, acting, light/sound/camera as well as 
 workshop
 discussions.
 
-write an email with the subject â€žworkshopâ€œ with your ideas!
+write an email with the subject „workshop“ with your ideas!
 
 ******** CONTACT AND DEADLINE *******
 
@@ -1564,18 +1564,18 @@ venue: schwarzerkanal.squat.net
 entzaubert is non-commercial. entry to all screenings is by donation.
 we support the idea of copyleft and creative commons. entzaubert
 offers a platform for movies, films, documentaries that might not get
-screened in mainÂ­stream commercial festivals.
+screened in main­stream commercial festivals.
 
 entzaubert is a radical queer festival.
 
 we think that queer is about living your life in a political way which
 challenges gender and power structures; also that fucking with 
 gender
-normativity, abolishing borders and fighting for migrantsâ€™ and
-workersâ€™ rights are all part of one struggle.
+normativity, abolishing borders and fighting for migrants’ and
+workers’ rights are all part of one struggle.
 
 the capitalist system is based on social inequality. so for us
-opposing capitaÂ­lism is connected to the fight against transphobia,
+opposing capita­lism is connected to the fight against transphobia,
 homophobia and sexism as well as racism, fascism and militarism.
 
 with entzaubert we want to encourage all the rad queers and 
@@ -1596,7 +1596,7 @@ unterwegs!
 
 wir erwarten jetzt gespannt eure filmeinreichungen :)
 
-aktuelle Downloads und mehr Ã¼ber das Festival findet ihr unter
+aktuelle Downloads und mehr über das Festival findet ihr unter
 entzaubert.blogsport.de
 
 [ bald auch auf deutsch :o) ]
@@ -1607,7 +1607,7 @@ Wenn ihr Fragen habt schreibt uns:
 
 entzaubert AT gmail DOT com
 
-***wir freuen uns darauf von euch zu hÃ¶ren! ***
+***wir freuen uns darauf von euch zu hören! ***
 
 ********* AUFRUF ********
 
@@ -1620,48 +1620,48 @@ Sommer 2011 auf dem queeren Wagenplatz Schwarzer Kanal in
 Berlin
 stattfindet.
 
-Wir schaffen einen Raum fÃ¼r queer/ feministisches DIY Kino â€“ und 
+Wir schaffen einen Raum für queer/ feministisches DIY Kino – und 
 ihr
 tragt die Filme bei!
 
-Wir suchen Filme innerhalb, auÃŸerhalb und jenseits der folgenden 
+Wir suchen Filme innerhalb, außerhalb und jenseits der folgenden 
 Kategorien:
 
-KÃ¼nstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, 
+Künstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, 
 Porno,
-experimentell, trashy, feministisch, Aids/HIV, lustig, verrÃ¼ckt,
-ernst, mit wenig oder ohne Finanzen, Musik, QualitÃ¤t, kurzgefasst,
+experimentell, trashy, feministisch, Aids/HIV, lustig, verrückt,
+ernst, mit wenig oder ohne Finanzen, Musik, Qualität, kurzgefasst,
 international, homo-sozialistisch, homosexuell, people of colour,
-revolutionÃ¤r, polyamurÃ¶s, monogam, faul, tranny-dyky, schwul, alt,
+revolutionär, polyamurös, monogam, faul, tranny-dyky, schwul, alt,
 brandneu, provokativ, schwierig, heiss,....
 
-Filme in jeder Sprache sind willkommen â€“ verschiedene Sprachen/
-Untertitel wÃ¤ren toll. Wenn das nicht mÃ¶glich ist: Bitte trotzdem
+Filme in jeder Sprache sind willkommen – verschiedene Sprachen/
+Untertitel wären toll. Wenn das nicht möglich ist: Bitte trotzdem
 einreichen!
 
-****** AUFRUF FÃœR WORKSHOPS *****
+****** AUFRUF FÜR WORKSHOPS *****
 
-Lust dein KÃ¶nnen zu teilen? Suchst du einen Grund deinen ersten 
+Lust dein Können zu teilen? Suchst du einen Grund deinen ersten 
 Film zu machen?
 
-wÃ¤hrend des festivals wird es zeit und raum fÃ¼r einige workshops 
+während des festivals wird es zeit und raum für einige workshops 
 geben
-- dafÃ¼r brauchen wir deine beteiligung! wenn du kenntnisse im
-filmbereich hast und diese an andere weitergeben mÃ¶chtest, nimm
+- dafür brauchen wir deine beteiligung! wenn du kenntnisse im
+filmbereich hast und diese an andere weitergeben möchtest, nimm
 kontakt mit uns auf.
 
-die Workshops kÃ¶nnen Filmen, Schneiden, Regie, Untertiteln, 
+die Workshops können Filmen, Schneiden, Regie, Untertiteln, 
 Schreiben,
-KostÃ¼men, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder auch eine
+Kostümen, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder auch eine
 Diskussion beinhalten.
 
-Schick uns deine Ideen in einer Email mit dem Titel â€žWorkshopâ€œ.
+Schick uns deine Ideen in einer Email mit dem Titel „Workshop“.
 
 ****** WAS IST ENTZAUBERT? ******
 
 entzaubert ist nicht-kommerziell und der Eintritt zu allen Filmen
-lÃ¤uft Ã¼ber Spenden. Wir unterstÃ¼tzen konzepte wie Copyleft und
-Creative Commons. Entzaubert bietet eine Plattform fÃ¼r Filme und
+läuft über Spenden. Wir unterstützen konzepte wie Copyleft und
+Creative Commons. Entzaubert bietet eine Plattform für Filme und
 Dokumentationen, welche vielleicht nicht in mainstream-
 kommerziellen
 Festivals gezeigt werden.
@@ -1669,11 +1669,11 @@ Festivals gezeigt werden.
 entzaubert ist ein radikales queer Festival. Wir verstehen queer als
 eine politische Lebensentscheidung, welche Geschlecht und
 Machtstrukturen anfechtet und auch die Dekonstruktion von
-Geschlechternormen; den Abbau von Grenzen und den Kampf fÃ¼r
+Geschlechternormen; den Abbau von Grenzen und den Kampf für
 Migrant_innen- und Arbeiter_innenrechte alle als Teile eines 
 Kampfes
 sieht. Das kapitalistische System basiert auf sozialer Ungleichheit.
-FÃ¼r uns ist der Widerstand gegen den Kapitalismus verbunden mit 
+Für uns ist der Widerstand gegen den Kapitalismus verbunden mit 
 dem
 Kampf gegen Transphobie, Homophobie und Sexismus, ebenso 
 wie gegen
@@ -1718,7 +1718,7 @@ Toronto, Ontario M6K 1X9
 CANADA
 Please include the completed submission form (downloadable at 
 http://www.tais.ca/animationshowcase_submissionform.pdf) , an 
-artist bio and two film stills (tiff or jpg @ 300 dpi â€“ 2 x 3). 
+artist bio and two film stills (tiff or jpg @ 300 dpi – 2 x 3). 
 Description, bio, contact info and download links may be emailed to 
 tais@bellnet.ca or included in mailed submission package. Please 
 do not send large files via email.
@@ -1747,7 +1747,7 @@ CALL FOR PARTICIPATION
 
 SLAB 5: THEREMIN
 workshop | production | performance
-May 25 â€“ June 25, 2011 @ VIVO Media Arts Centre
+May 25 – June 25, 2011 @ VIVO Media Arts Centre
 
 Presented by VIVO Media Arts Centre & the CRES Media Arts 
 Committee (MAC)
@@ -1758,12 +1758,12 @@ Cost: $150 + materials | Subsidized by VIVO & MAC
 
 ABOUT THIS PROJECT
 
-The Theremin, invented in the 1920â€™s by Leon Theremin, is one of 
+The Theremin, invented in the 1920’s by Leon Theremin, is one of 
 the
 earliest electronic music instruments. To this day, it remains 
 profoundly
-unique; in itâ€™s inimitably eerie sound and its uncanny physical
-presenceâ€”as an instrument played gesturally without actually being
+unique; in it’s inimitably eerie sound and its uncanny physical
+presence—as an instrument played gesturally without actually being
 touched. Whilst it is antique, it still holds a place in our future
 imaginary.
 
@@ -1775,11 +1775,11 @@ ViVo Artists in Residence, Rob Symmers, David Leith and Kate
 Rissiek, will
 host a series of 10 workshops. Participants will build their own 
 Theremins
-to take home, experiment with the instrumentâ€™s potential, explore its 
+to take home, experiment with the instrument’s potential, explore its 
 use
 in controlling visuals, and participate in an Experimental Theremin
-Orchestra. This orchestra will play at ViVoâ€™s Signal & Noise Media Art
-Festival, June 23â€“27, 2011.
+Orchestra. This orchestra will play at ViVo’s Signal & Noise Media Art
+Festival, June 23–27, 2011.
 
 WHO CAN PARTICIPATE
 
@@ -1789,7 +1789,7 @@ experienced or just a beginner, or have no experience with sound at
 all
 but want to explore and experimenting with other possible uses of 
 the
-Theremin, such as controlling visuals â€“ you are welcome!
+Theremin, such as controlling visuals – you are welcome!
 
 TECHNICAL INFO
 
@@ -1816,7 +1816,7 @@ Theremax kit
 after
 the workshop, and you take home the Theremin you have built. 
 Participants
-will also need to supply their own enclosure â€“ possible options will 
+will also need to supply their own enclosure – possible options will 
 be
 discussed at the Workshop Orientation, day one.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 8
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | KATE METTEN | 6 PM | JAN 24"
 ---
 

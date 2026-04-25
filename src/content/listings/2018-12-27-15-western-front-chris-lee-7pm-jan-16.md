@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 15
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Chris Lee | 7PM | JAN 16"
 ---
 

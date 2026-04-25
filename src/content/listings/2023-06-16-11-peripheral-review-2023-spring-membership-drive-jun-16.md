@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 11
 type: "FUNDRAISER"
+venue: "Peripheral Review"
 summary: "Peripheral Review | 2023 Spring Membership Drive | JUN 16"
 ---
 

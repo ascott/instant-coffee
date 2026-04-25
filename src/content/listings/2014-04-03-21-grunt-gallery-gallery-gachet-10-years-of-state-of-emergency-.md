@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 21
 type: ""
+venue: "grunt gallery & Gallery Gachet"
 summary: "grunt gallery & Gallery Gachet | 10 years of State of Emergency | APR 11"
 ---
 
 grunt gallery & Gallery Gachet co-present:
 
-10 years of State of Emergency (Ã‰tat d'Urgence)
+10 years of State of Emergency (État d'Urgence)
 by ATSA
 
 (Vancouver, BC) - grunt gallery and Gallery Gachet are proud to co-present 
-10 years of State of Emergency (Ã‰tat d'Urgence), a multidisciplinary visual 
-exhibition based on a retrospective of works from 1998-2013 during Ã‰tat 
+10 years of State of Emergency (État d'Urgence), a multidisciplinary visual 
+exhibition based on a retrospective of works from 1998-2013 during État 
 d'Urgence (State of Emergency) and Fin Novembre (End of November).
 
-The annual event Ã‰tat d'Urgence (State of Emergency) began in 1998 in 
+The annual event État d'Urgence (State of Emergency) began in 1998 in 
 downtown Montreal and was created by ATSA, a not-for-profit organization 
 founded by artists Pierre Allard and Annie Roy. It was originally conceived to 
 celebrate the 50th anniversary of the Universal Declaration of Human Rights. 
@@ -25,7 +26,7 @@ The event itself is a 24-hour, 5-day refugee camp in support of people living
 homeless and under conditions of poverty. The event was created as a 
 public intervention in the city and includes the provision of food, clothing and 
 shelter as well as the production of hundreds of art works from 
-multidisciplinary backgrounds. Ã‰tat d'Urgence was so successful that it has 
+multidisciplinary backgrounds. État d'Urgence was so successful that it has 
 returned on an annual basis and now, 16 years later, goes by the name Fin 
 Novembre.
 
@@ -39,20 +40,20 @@ archives produced throughout the years of the event from 1997 to 2013,
 including the montage U pour Urgence presented at the Canadian 
 Architecture Centre,Deposit, Last resort, Under surveillance, The Brasero 
 and a collection of video capsules by Santiago Bertolino, Steve Patry, 
-Henrique Vera Villanueva and Luc SÃ©nÃ©cal. This selection shows the 
+Henrique Vera Villanueva and Luc Sénécal. This selection shows the 
 evolution of the event and all the political and social difficulties and challenges 
 the artists experienced.
 
 At Gallery Gachet, the 10 years of State of Emergency exhibition features 
 artwork by over 20 artists-local, national and international-who made original 
-contributions to Ã‰tat d'Urgence during the event's run between 1998 and 
+contributions to État d'Urgence during the event's run between 1998 and 
 2010. Included in these works are collaborative illustrations, sound track and 
 photo projects; paintings on unconventional media; drawings, a survival 
 handbook; miniature cardboard architecture and more.
 
 Join us on Friday April 11 at Gallery Gachet (5:30-7:30) and at grunt gallery 
 (7:30-9:30) for the opening receptions of 10 years of State of Emergency 
-(Ã‰tat d'Urgence). There will also be an artist talk on Saturday April 12th (2-
+(État d'Urgence). There will also be an artist talk on Saturday April 12th (2-
 3pm) at grunt gallery. The exhibition at Gallery Gachet runs until May 25th, the 
 exhibition at grunt gallery runs until May 17th.
 
@@ -79,14 +80,14 @@ role in improving society.
 
 ATSA is recipient of the 2013 Honourable mention for the Mayor's Democracy 
 Price, the 2011 Giverny Capital price, the 2010 Pratt & Whitney Canada Nature 
-de l'Art Prize awarded by the Conseil des arts de MontrÃ©al, the Citoyen de la 
+de l'Art Prize awarded by the Conseil des arts de Montréal, the Citoyen de la 
 Culture 2008 award handed out by Les Arts et la Ville and of the Artistes 
 pour la Paix 2008 award. 
 
 ATSA is also proud to have been the spokesperson of Artists in the Art of 
-the City Mouvement (2013), 5Ã¨meSommet citoyen de MontrÃ©al (2009), 22Ã¨me 
-Exposition inter-collÃ©giale d'arts plastiques du RÃ©seau Inter-collÃ©gial des 
-ActivitÃ©s Socioculturelle du QuÃ©bec (RIASQ 2010), and of JournÃ©es 
-QuÃ©bÃ©coises de la SolidaritÃ© Internationale(2011). ATSA is a member of the 
+the City Mouvement (2013), 5èmeSommet citoyen de Montréal (2009), 22ème 
+Exposition inter-collégiale d'arts plastiques du Réseau Inter-collégial des 
+Activités Socioculturelle du Québec (RIASQ 2010), and of Journées 
+Québécoises de la Solidarité Internationale(2011). ATSA is a member of the 
 board of RAIQ.
 http://www.atsa.qc.ca/en/

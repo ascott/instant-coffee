@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 11
 type: "EXHIBITION"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Mythic Spacetime Group | JUN 6"
 ---
 

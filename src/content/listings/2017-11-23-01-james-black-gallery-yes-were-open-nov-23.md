@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 1
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Yes, We're Open | NOV 23"
 ---
 

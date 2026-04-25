@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  considers relations to be more in
 emailDate: "Thu, 15 Jul 2010 08:45:46 -0700"
 number: 12
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | DIM Cinema: Nathaniel Dorsky | JUL 19"
 ---
 
@@ -64,6 +65,6 @@ __________________
 
 Amy Lynn Kazymerchyk
 Associate Programmer: DIM
-Pacific CinÃƒÂ©mathÃƒÂ¨que
+Pacific CinÃ©mathÃ¨que
 cinematheque.bc.ca
 dimcinema.ca

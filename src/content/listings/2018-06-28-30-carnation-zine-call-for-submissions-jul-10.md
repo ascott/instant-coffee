@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 30
 type: "CALL"
+venue: "Carnation Zine"
 summary: "Carnation Zine | Call for submissions | JUL 10"
 ---
 

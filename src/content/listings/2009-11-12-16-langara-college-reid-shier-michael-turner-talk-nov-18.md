@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 16
 type: ""
+venue: "Langara College"
 summary: "Langara College | Reid Shier & Michael Turner Talk | NOV 18"
 ---
 

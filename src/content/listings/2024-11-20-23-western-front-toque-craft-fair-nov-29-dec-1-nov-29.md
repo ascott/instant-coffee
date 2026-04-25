@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 23
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Toque Craft Fair | NOV 29 - DEC 1 | NOV 29"
 ---
 

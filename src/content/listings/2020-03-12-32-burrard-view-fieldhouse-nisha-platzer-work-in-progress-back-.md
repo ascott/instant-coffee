@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 32
 type: "EVENT"
+venue: "Burrard View Fieldhouse"
 summary: "Burrard View Fieldhouse | NISHA PLATZER Work In Progress: BACK HOME | 5PM | MAR 26"
 ---
 

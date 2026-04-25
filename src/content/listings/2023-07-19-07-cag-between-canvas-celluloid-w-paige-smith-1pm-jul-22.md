@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 7
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Between Canvas & Celluloid w/ Paige Smith | 1PM | JUL 22"
 ---
 

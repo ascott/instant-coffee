@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 9
 type: "OPENING"
+venue: "Hotam Press"
 summary: "Hotam Press | POWDER ROOM | 5-7PM | OCT 17"
 ---
 

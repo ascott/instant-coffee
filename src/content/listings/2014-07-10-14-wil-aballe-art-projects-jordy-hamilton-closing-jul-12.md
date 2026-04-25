@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we thank you for a week of raw an
 emailDate: "Thu, 10 Jul 2014 11:45:43 -0700"
 number: 14
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | JORDY HAMILTON | closing | JUL 12"
 ---
 

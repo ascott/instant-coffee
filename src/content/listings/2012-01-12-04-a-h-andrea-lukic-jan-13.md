@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 4
 type: ""
+venue: "A-H-"
 summary: "A-H- | Andrea Lukic | JAN 13"
 ---
 

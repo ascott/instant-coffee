@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 1
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Platforms 2020 | Public Works"
 ---
 

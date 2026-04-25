@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 11
 type: "EVENT"
+venue: "The Music Box"
 summary: "The Music Box | Abstract Textured Acrylic Beach Painting Workshop | JAN 28"
 ---
 

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 13
 type: ""
+venue: "Canzine West"
 summary: "Canzine West | the Zine Fair and Festival of Alternative Culture | OCT 16"
 ---
 
-Canzine West â€“ the Zine Fair and Festival of Alternative Culture
+Canzine West – the Zine Fair and Festival of Alternative Culture
 
 Saturday, Oct. 16
-1 p.m. â€“ 7 p.m.
+1 p.m. – 7 p.m.
 W2 Storyeum
 151 West Cordova, Vancouver
 

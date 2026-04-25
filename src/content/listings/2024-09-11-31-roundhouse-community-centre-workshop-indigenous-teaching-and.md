@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 31
 type: "EDUCATION"
+venue: "Roundhouse Community Centre"
 summary: "Roundhouse Community Centre | [WORKSHOP] Indigenous Teaching and Sharing Circle | SEP 25"
 ---
 

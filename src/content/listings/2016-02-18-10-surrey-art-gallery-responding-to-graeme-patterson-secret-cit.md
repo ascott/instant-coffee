@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 10
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Responding to Graeme Patterson: Secret Citadell | FEB 20"
 ---
 

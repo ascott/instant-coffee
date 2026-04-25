@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 27
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | Cineworks | Chromaflex 16mm Colour Film Processing | JUN 10"
 ---
 

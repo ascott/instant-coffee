@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 37
 type: "EXHIBITION"
+venue: "Concourse Gallery at Emily Carr University"
 summary: "Concourse Gallery at Emily Carr University | Widely Construed | FEB 26"
 ---
 

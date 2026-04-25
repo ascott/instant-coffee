@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 39
 type: "TALK"
+venue: "Centre A Gallery"
 summary: "Centre A Gallery | Tropicopolitan Objects(performance lecture) | 630PM | SEP 14"
 ---
 

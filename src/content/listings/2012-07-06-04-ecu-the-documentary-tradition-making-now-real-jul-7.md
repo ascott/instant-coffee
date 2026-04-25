@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 4
 type: ""
+venue: "ECU"
 summary: "ECU | The Documentary Tradition: Making Now Real | JUL 7"
 ---
 
@@ -19,7 +20,7 @@ Featuring photographs by Sean Arden, Wendy Bower, Douglas Curran,
 Curt Fischbach, Pat Francois, Greg Girard, Ian Joyce, Stuart Seidel, 
 Justin Wonnacott, and Jonathan Taggart
 
-During the month of July Emily Carr Universityâ€™s Continuing Studies 
+During the month of July Emily Carr University’s Continuing Studies 
 Program is offering an exciting array of institutes, exhibitions and 
 classes. Opening in the Concourse Gallery, Saturday, July 7th is the 
 photographic exhibition The Documentary Tradition, part of the July 
@@ -36,9 +37,9 @@ July and works by students of the Continuing Studies program.
 
 Some of the projects featured in the exhibition include:
 
-A selection of Greg Girardâ€™s spectacular Phantom Shanghai 
+A selection of Greg Girard’s spectacular Phantom Shanghai 
 photographs which combine anthropology with a lyrical realism. Girard 
-photographed the cityâ€™s buildings, shops, homes, and neighborhoods 
+photographed the city’s buildings, shops, homes, and neighborhoods 
 looking at present-day Shanghai, where politically inspired neglect 
 meets politically inspired development. Jonathan Taggart, a founding 
 member of the Boreal Collective will exhibit a recent project on remote 
@@ -52,12 +53,12 @@ sociologists, psychologists, and in the art and photography
 communities. Curt Fischbach has documented the fights and the 
 behind the scene world of two time Olympic gold medalist, Cuban boxer 
 Guillermo Rigondeaux who currently holds the World Boxing 
-Associationâ€™s super-bantamweight world title. Wendy Bowerâ€™s portraits 
-of Holden, Albertaâ€™s Farmers Day Parade, show the small prairie town 
-celebrating at a community gathering were men still talk â€˜cropsâ€™. Stuart 
+Association’s super-bantamweight world title. Wendy Bower’s portraits 
+of Holden, Alberta’s Farmers Day Parade, show the small prairie town 
+celebrating at a community gathering were men still talk ‘crops’. Stuart 
 Seidel will show photographs from his travels in Cuba and Pat Francois 
 will be showing portraits from his travels through Mexico. Closer to 
-Vancouver, Ian Joyce has photographed a young familyâ€™s idyllic lifestyle 
+Vancouver, Ian Joyce has photographed a young family’s idyllic lifestyle 
 in the Belcarra community.
 
 JULY 2012 PHOTOGRAPHY INSTITUTE: Guest faculty teaching in July 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 2
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | A CONVERSATION IN AND AROUND C.1983 | MAY 3"
 ---
 

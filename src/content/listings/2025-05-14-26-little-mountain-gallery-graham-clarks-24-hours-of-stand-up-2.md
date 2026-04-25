@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 26
 type: "FUNDRAISER"
+venue: "Little Mountain Gallery"
 summary: "Little Mountain Gallery | Graham Clark’s 24-Hours of Stand-Up 2025 | 8PM | MAY 23"
 ---
 

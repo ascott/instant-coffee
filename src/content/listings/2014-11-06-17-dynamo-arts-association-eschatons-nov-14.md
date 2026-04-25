@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 17
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Eschatons | NOV 14"
 ---
 
@@ -16,19 +17,19 @@ Event Link: https://www.facebook.com/events/642064812576805/?ref=22
 DAA Presents // Artists in Residence: Echatons: The Touch and the 
 Touched.
 Nov 14, 7pm Performance / Encounter.
-Other events taking place between Nov 8 â€“ Nov 19 to be announced.
+Other events taking place between Nov 8 – Nov 19 to be announced.
 
-â€œMy hand which touches the things is itself subject to being touched. 
-â€œThrough this crisscrossing within it of the touching and the tangible, its 
+“My hand which touches the things is itself subject to being touched. 
+“Through this crisscrossing within it of the touching and the tangible, its 
 own movements incorporate themselves in the universe that they 
 interrogate, are recorded on the same map as itâ€  - Bernard Flynn In a 
-discussion of Maurice Merleau-Pontyâ€™s thought.
+discussion of Maurice Merleau-Ponty’s thought.
 
 Eschaton: final event in the devine plan: the end of the world.
 
 Eschatons are a four piece improvisational band that will be installing, 
 recording, jamming, and preparing for the end during their residence at 
-Dynamo Arts Association between November 8th â€“ 16th. A culmination of 
+Dynamo Arts Association between November 8th – 16th. A culmination of 
 free-tuned guitars, textured drumming, improvisation and song forms, this 
 trio combines all the sonic realms of improvised genres. The ongoing 
 collaboration between Jeremy Van Wyck, John Brennan & Bill Batt began 

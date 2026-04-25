@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 3
 type: ""
+venue: "NEWS"
 summary: "NEWS | Polygon Gallery | The Polygon Podcast: Episode 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 5
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | SUSTAIN: Vancouver | SUSTAIN: Vancouver | APR 9"
 ---
 
@@ -29,7 +30,7 @@ Sustainability has become a key word for building a better future.
 Yet, the term is marked by contradictions. To sustain, by definition, 
 means to support or maintain what is currently in place. However, in 
 the context of rapid changes in the population, unstable economy, 
-and diminishing resources that characterize todayâ€™s global 
+and diminishing resources that characterize today’s global 
 conditions, the ground underneath is shifting drastically. How do the 
 inhabitants of urban spaces navigate the multifarious meanings 
 and uses of the term sustainability? What do current models of 
@@ -49,48 +50,48 @@ Speakers
 Newton and Helen Mayer Harrison (San Jose, California)* Opening 
 Keynote
 
-Arthur Kroker (Victoria, BC) â€“ Canada Research Chair in 
+Arthur Kroker (Victoria, BC) – Canada Research Chair in 
 Technology, Culture and Theory, University of Victoria* Closing 
 Keynote
 
-Nicholas Blomley (Vancouver, BC) â€“ Professor, Simon Fraser 
+Nicholas Blomley (Vancouver, BC) – Professor, Simon Fraser 
 University, Department of Geography
 
-Amanda Boetzkes (Edmonton, AB) â€“ Assistant Professor, University 
+Amanda Boetzkes (Edmonton, AB) – Assistant Professor, University 
 of Alberta, Department of Art + Design
 
-Ian Campbell (The Squamish Nation) â€“ Hereditary Chief of the 
+Ian Campbell (The Squamish Nation) – Hereditary Chief of the 
 Squamish Nation
 
-Seann Dory (Vancouver, BC) â€“ Manager of Sustainability, United We 
+Seann Dory (Vancouver, BC) – Manager of Sustainability, United We 
 Can / SOLEfood
 
-Mari Fujita (Vancouver, BC) â€“ Designer and Professor, University of 
+Mari Fujita (Vancouver, BC) – Designer and Professor, University of 
 British Columbia,
 
 School of Architecture + Landscape Architecture
 
-Anya Gallaccio (San Diego, California) â€“ Professor, UC San Diego, 
+Anya Gallaccio (San Diego, California) – Professor, UC San Diego, 
 Department of Visual Arts
 
-Michael Green (Vancouver, BC) â€“ Architect and Principal of mgb 
+Michael Green (Vancouver, BC) – Architect and Principal of mgb 
 Architecture + Design
 
-Douglas King (Vancouver, BC) â€“ Lawyer, Pivot Legal Society
+Douglas King (Vancouver, BC) – Lawyer, Pivot Legal Society
 
-Kelty Miyoshi McKinnon (Vancouver, BC) â€“ Landscape Architect and 
+Kelty Miyoshi McKinnon (Vancouver, BC) – Landscape Architect and 
 Co-Founder of Living Lab
 
-Inge Roecker (Vancouver, BC) â€“ Architect and Principal of ASIR 
+Inge Roecker (Vancouver, BC) – Architect and Principal of ASIR 
 architekten
 
 Alexander Rose (San Francisco, California) - Executive Director, The 
 Long Now Foundation
 
-Alec Smith (Vancouver, BC) â€“ Architect and Principal of Shape 
+Alec Smith (Vancouver, BC) – Architect and Principal of Shape 
 Architecture
 
-Matthew Soules (Vancouver, BC) â€“ Architect and Principal of MSA
+Matthew Soules (Vancouver, BC) – Architect and Principal of MSA
 
 For tickets, please call 604.662.4717.
 Tickets: $65 adults; $55 members; $30 students (with valid ID).

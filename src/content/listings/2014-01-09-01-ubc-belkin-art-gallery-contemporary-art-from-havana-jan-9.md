@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: captures a floating anxiety"
 emailDate: "Thu, 09 Jan 2014 08:40:50 -0800"
 number: 1
 type: ""
+venue: "UBC: Belkin Art Gallery"
 summary: "UBC: Belkin Art Gallery | Contemporary Art from Havana | JAN 9"
 ---
 
 The Spaces Between: Contemporary Art from Havana
 
-January 10â€“April 13, 2014
+January 10–April 13, 2014
 
 Opening reception: 
 Thursday, January 9, 8-10 pm 
 
-Curatorsâ€™ Tour with Tonel and Keith Wallace: 
+Curators’ Tour with Tonel and Keith Wallace: 
 Saturday, January 11, 2 pm
 
 All welcome. Admission is free.
@@ -26,15 +27,15 @@ social spaces and shared sensibilities of artists in this dynamic but
 complex city. It explores contemporary Havana from artistic, cultural, 
 sociological and anthropological perspectives within a new social and 
 economic reality that has made itself evident in Cuba in recent years.
-The Spaces Betweenâ€”that is, the spaces between the artwork and its 
+The Spaces Between—that is, the spaces between the artwork and its 
 reception, between language and truth, and between the actual past 
-and imagined futureâ€”will feature drawings, paintings, prints, 
+and imagined future—will feature drawings, paintings, prints, 
 photographs and videos. There will be approximately seventy works by 
 fourteen artists to include Juan Carlos Alom, Javier Castro, Sandra 
-Ceballos Obaya, Celia - Yunior, Ricardo G. ElÃ­as, Luis GÃ¡rciga Romay, 
-Luis GÃ³mez Armenteros, JesÃºs Hdez-GÃ¼ero, Ernesto Leal, Glenda 
-LeÃ³n, Eduardo PonjuÃ¡n GonzÃ¡lez, Grethell RasÃºa, LÃ¡zaro Saavedra 
-GonzÃ¡lez and Jorge Wellesley
+Ceballos Obaya, Celia - Yunior, Ricardo G. Elías, Luis Gárciga Romay, 
+Luis Gómez Armenteros, Jesús Hdez-Güero, Ernesto Leal, Glenda 
+León, Eduardo Ponjuán González, Grethell Rasúa, Lázaro Saavedra 
+González and Jorge Wellesley
 The artists in the exhibition are cross-generational; some have 
 international reputations while others are younger and not so well 
 known abroad. Some of the artists are teachers of other artists in the 
@@ -47,17 +48,17 @@ citizens, tends towards an introverted and a self-conscious sense of
 identity within a global context. The artists in The Spaces Between are 
 exploring ways of articulating this phenomenon both through direct 
 social engagement and through practices carried out in the privacy of 
-oneâ€™s studio.
+one’s studio.
 The Spaces Between is the first major exhibition in Vancouver of art 
 from Cuba since Utopian Territories that took place in seven galleries 
 in 1997. The exhibition will be accompanied by a fully illustrated 
 catalogue published by Black Dog Publishing in London, UK.
 The Spaces Between is curated by Antonio Eligio (Tonel) and Keith 
 Wallace and co-produced by the Morris and Helen Belkin Art Gallery, 
-University of British Columbia, and Bildmuseet, UmeÃ¥ University, with 
+University of British Columbia, and Bildmuseet, Umeå University, with 
 support from The Canada Council for the Arts. We gratefully 
 acknowledge the support of our Belkin Curator's Forum members.
-â€”
+—
 For more information contact: 
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
 

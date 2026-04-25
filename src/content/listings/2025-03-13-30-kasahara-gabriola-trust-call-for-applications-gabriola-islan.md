@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 30
 type: "CALL"
+venue: "Kasahara Gabriola Trust"
 summary: "Kasahara Gabriola Trust | Call for Applications: Gabriola Island Residency | JUL 16"
 ---
 

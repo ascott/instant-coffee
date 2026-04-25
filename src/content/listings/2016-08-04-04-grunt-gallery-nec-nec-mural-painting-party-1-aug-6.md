@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 4
 type: "EVENT"
+venue: "grunt gallery @ NEC"
 summary: "grunt gallery @ NEC | NEC Mural Painting Party #1 | AUG 6"
 ---
 

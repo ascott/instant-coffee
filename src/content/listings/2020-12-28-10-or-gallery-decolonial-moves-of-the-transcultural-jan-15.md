@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: PLEXUS"
 emailDate: "Sun, 27 Dec 2020 21:00:09 -0800"
 number: 10
 type: "EXHIBITION"
+venue: "Or Gallery"
 summary: "Or Gallery | Decolonial Moves of the Transcultural | JAN 15"
 ---
 

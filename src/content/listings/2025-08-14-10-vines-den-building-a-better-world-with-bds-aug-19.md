@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 10
 type: "EVENT"
+venue: "Vines Den"
 summary: "Vines Den | Building a Better World with BDS | AUG 19"
 ---
 

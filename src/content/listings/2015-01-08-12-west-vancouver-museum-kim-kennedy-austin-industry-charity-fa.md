@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 12
 type: "OPENING"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Kim Kennedy Austin: Industry, Charity, Faith, Hope | JAN 13"
 ---
 

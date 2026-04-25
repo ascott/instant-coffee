@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 11
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Woodwards Atrium | Horns at the Atrium | JUN 26"
 ---
 

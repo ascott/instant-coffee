@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 4
 type: "CALL"
+venue: "Fight for Beauty Open Letter"
 summary: "Fight for Beauty Open Letter | some clarifications | JAN 17"
 ---
 

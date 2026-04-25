@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 9
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | bed | sleep and her brother death | AUG 31"
 ---
 

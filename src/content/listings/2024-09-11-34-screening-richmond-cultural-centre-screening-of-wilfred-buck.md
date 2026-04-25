@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 34
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Richmond Cultural Centre | Screening of Wilfred Buck | 615PM | SEP 26"
 ---
 

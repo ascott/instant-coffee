@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 20
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Western Front | Immanuel Wilkins and Lutosawski Quartet | 7PM | JUN 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 5
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Electric Mud | SEP 4"
 ---
 
@@ -27,13 +28,13 @@ This previous series of monochromatic grey dipped works were installed in
 tense relation to the architecture while considering the domestic aspect of
 the gallery as apartment.
 
-In Electric Mud, six new works showcase WeisgerberÃ¢â‚¬â„¢s continued engagement
+In Electric Mud, six new works showcase Weisgerberâ€™s continued engagement
 in this process-driven direction while introducing new elements, such as
 colour, that bring the paintings to the realm of a broader discussion of
 contemporary abstract painting. His work still explores materiality as
 subject, driven from an interest in dissecting things to explore their
 structure and skin, and how they intersect. Situated at the axis of
-painting, sculpture, and installation, WeisgerberÃ¢â‚¬â„¢s work seamlessly
+painting, sculpture, and installation, Weisgerberâ€™s work seamlessly
 crosses disciplines. It culls through histories and collects fragments
 along the way. These specters flutter in and out, and collide to create
 works that are imprinted with the past and the personal.

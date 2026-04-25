@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 16
 type: "EVENT"
+venue: "CAG [ONLINE]"
 summary: "CAG [ONLINE] | CAG Reads with Marina Roy | 4PM | JUL 25"
 ---
 

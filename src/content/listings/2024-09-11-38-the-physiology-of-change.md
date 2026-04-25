@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 38
 type: "EDUCATION"
+venue: "The Physiology of Change"
 summary: "The Physiology of Change"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 15
 type: "TALK"
+venue: "Artspeak"
 summary: "Artspeak | Nozomu Ogawa: Alternative Asian Art Networks | 630 | JAN 15"
 ---
 

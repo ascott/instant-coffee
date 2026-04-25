@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 3
 type: ""
+venue: "FAG Satellite @ Access Gallery"
 summary: "FAG Satellite @ Access Gallery | Sharlene Bamboat | Performances | OCT 11"
 ---
 
 Final week of FAG Satellite @ Access Gallery;
-The Queenâ€™s Punishment /Sharlene Bamboat / October 11-13
+The Queen’s Punishment /Sharlene Bamboat / October 11-13
 
 Performances at Access Gallery: October 11, 8:30 PM / October 12, 
 8:30 PM / October 13, 9:30 PM
@@ -19,11 +20,11 @@ retribution
 A 3 part performance installation by Sharlene Bamboat.
 
 On March 29, 2012 it was announced that Canada would stop 
-producing the 1Â¢ coin, commonly known as the penny. A symbol of 
-sovereignty and colonial rule, the pennyâ€™s place in Canadian national 
-currency ensured the circulation of the Queenâ€™s profile in Canadaâ€™s 
+producing the 1¢ coin, commonly known as the penny. A symbol of 
+sovereignty and colonial rule, the penny’s place in Canadian national 
+currency ensured the circulation of the Queen’s profile in Canada’s 
 public sphere since her coronation in 1952. The year 2012 also 
-marked another historic event: the Queenâ€™s Diamond Jubilee. What 
+marked another historic event: the Queen’s Diamond Jubilee. What 
 better way to mark the waning of a colonial symbol than the 
 simultaneous pomp and pageantry of a $7.5 million celebration for the 
 Queen in Canada?
@@ -38,19 +39,19 @@ composition, Bamboat uses performance to chart the history of the
 Canadian penny through the legacy of British imperialism. Following 
 her own lineage through colonialism, Bamboat considers how the 
 establishment of British rule in Canada (1763) connects with the 
-introduction of the 1Â¢ coin and handing over of India to the British 
+introduction of the 1¢ coin and handing over of India to the British 
 crown nearly a century later (1858). With the rise and fall of the British 
 Empire, Bamboat traces the residues of those archaic forms of 
-governance â€“ those colonial nationalisms that persist in our present. 
+governance – those colonial nationalisms that persist in our present. 
 Matching the punishment to the crime, Bamboat sentences the Queen 
-to a laborious task of accounting for the pennyâ€™s history in colonial rule.
+to a laborious task of accounting for the penny’s history in colonial rule.
 
 To commemorate the punishment, the artist will be issuing limited 
 edition commemorative postcards with 154 absolved pennies.
 
 - Natalie Kouri-Towe
 
-The Queenâ€™s Punishment is the final installation in a series by 
+The Queen’s Punishment is the final installation in a series by 
 emerging Feminist artists in conjunction with the FAG Satellite @ 
 Access.
 
@@ -65,7 +66,7 @@ Bamboat regularly works in collaboration with artists and academics. In
 2011, she co-created Border Sounds with media artist Alexis Mitchell. 
 A site specific sound and performance installation, Border Sounds 
 challenged the nature of territorial and national borders culminating in 
-a silent disco in an underground parking garage in Toronto. Bamboatâ€™s 
+a silent disco in an underground parking garage in Toronto. Bamboat’s 
 2012 installation, Throwback, a collaboration with the Feminist Art 
 Gallery (FAG) and Montreal-based video and performance artist Ali El-
 Darsa, was a performative response to queer archiving, and the 
@@ -74,7 +75,7 @@ American art production. Upcoming shows include a commission for
 8Fest, Toronto and a performance for Hemispheric Institute Encuentro, 
 Sao Paolo, Brazil.
 
-Bamboatâ€™s work has been exhibited across Canada, Europe, South 
+Bamboat’s work has been exhibited across Canada, Europe, South 
 Asia and the United Kingdom. She is on the programming committee of 
 the Pleasure Dome Film & Video Collective, and works as the 
 programmer for SAVAC (South Asian Visual Arts Centre).

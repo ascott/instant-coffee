@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no excuses"
 emailDate: "Thu, 02 Jul 2009 08:30:59 -0700"
 number: 9
 type: ""
+venue: "National Nikkei Museum & Heritage Centre"
 summary: "National Nikkei Museum & Heritage Centre | The Art of Taiko with Kenny Endo | JUL 30"
 ---
 

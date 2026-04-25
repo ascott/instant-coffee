@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE : if we do not know we do not know 
 emailDate: "Thu, 30 May 2013 11:55:34 -0700"
 number: 23
 type: ""
+venue: "Bombyx Batryticatus Productions"
 summary: "Bombyx Batryticatus Productions | Reading: Alex Leslie and Tom Cho | JUN 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 20
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Grunt Gallery | Book Launch: Requiem for Mirrors and Tigers | 7PM | APR 5"
 ---
 

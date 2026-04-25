@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 16
 type: "CALL"
+venue: "The Works Art & Design Festival"
 summary: "The Works Art & Design Festival | 2020 Call to Enter | NOV 1"
 ---
 

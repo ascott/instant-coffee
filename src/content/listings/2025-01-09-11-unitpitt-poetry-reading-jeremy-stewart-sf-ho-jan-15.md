@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 11
 type: "EVENT"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Poetry Reading: Jeremy Stewart, SF Ho | JAN 15"
 ---
 

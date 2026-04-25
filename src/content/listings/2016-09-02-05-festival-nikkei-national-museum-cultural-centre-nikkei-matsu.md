@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 5
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Nikkei National Museum & Cultural Centre | Nikkei Matsuri Festival | SEP 3"
 ---
 

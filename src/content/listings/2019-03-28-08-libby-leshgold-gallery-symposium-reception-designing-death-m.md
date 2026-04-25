@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 8
 type: "EVENT"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Symposium + Reception | Designing Death | MAR 29"
 ---
 

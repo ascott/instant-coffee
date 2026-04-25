@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 33
 type: "CALL"
+venue: "Vancouver Public Art Program"
 summary: "Vancouver Public Art Program | Launch Pad | JUN 21"
 ---
 

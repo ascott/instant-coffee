@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tributaries"
 emailDate: "Fri, 04 Jul 2025 03:00:07 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Audain Gallery at SCA"
 summary: "Audain Gallery at SCA | Report on the Thing | JUL 3"
 ---
 

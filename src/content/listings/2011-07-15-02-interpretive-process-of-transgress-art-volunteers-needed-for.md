@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like an onion makes you want to cr
 emailDate: "Thu, 14 Jul 2011 22:35:36 -0700"
 number: 2
 type: ""
+venue: "Interpretive Process of Transgress Art"
 summary: "Interpretive Process of Transgress Art | Volunteers Needed for Research | JUL 15"
 ---
 

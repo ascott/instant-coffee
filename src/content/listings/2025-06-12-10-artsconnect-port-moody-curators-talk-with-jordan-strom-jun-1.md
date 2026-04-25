@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 10
 type: "TALK"
+venue: "ArtsConnect, Port Moody"
 summary: "ArtsConnect, Port Moody | Curator’s Talk with Jordan Strom | JUN 14"
 ---
 

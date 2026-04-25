@@ -208,7 +208,7 @@ Micah Lexier is a Toronto based artist whose work has been shown at the
 Contemporary Art Gallery, Vancouver; The New Museum, New York; The British
 Museum, London; Printed Matter, New York; Gitte Weise Galerie, Berlin;
 Musee d'art Contemporain, Montreal; the Vancouver Art Gallery and the Art
-Gallery of Ontario. He is represented in Canada by TrÃ©panier Baer, Calgary
+Gallery of Ontario. He is represented in Canada by Trépanier Baer, Calgary
 and Birch Libralato, Toronto.
 
 Join us on Friday, December 5th from 8-10pm for the launch of this bookwork
@@ -225,7 +225,7 @@ Retrospect
 Publication available at Artspeak starting December 5th, 2008
 
 Retrospect
-Texts by Juan A. GaitÃ¡n, Melvin Moti and Susan Sontag. Reprinted
+Texts by Juan A. Gaitán, Melvin Moti and Susan Sontag. Reprinted
 Postscripts by Colin Browne, Kathleen Ritter and Althea Thauberger.
 
 Work by Don Coltman, Kristan Horton, Jack Lindsay, Melvin Moti, Taras
@@ -640,7 +640,7 @@ heard of, but may one day. DIY artists of every stripe, this is your movie.
 nerdiness to track down the evil geniuses responsible for the
 screen-printed, photocopied, hand-doodled, bled-in, spat-in, culture-jammed
 art that is stapled, taped and stuck with chewing-gum onto post boxes, bus
-shelters and telephone poles prÃªt de chez vous." - MELORA KOEPKE, HOUR
+shelters and telephone poles prêt de chez vous." - MELORA KOEPKE, HOUR
 
 "A fascinating look at the rock poster renaissance"- MATT HAYS,
 MIRROR
@@ -702,7 +702,7 @@ Screening I
 November 26, 2008, 7 - 9 PM
 Between Here and There, Now and Then
 Curated by Liz Park
-Featuring works by Chip Lord, Mona Hatoum, Guillermo GÃ³mez-PeÃ±a and Roberto
+Featuring works by Chip Lord, Mona Hatoum, Guillermo Gómez-Peña and Roberto
 Sifuentes, and Antonia Hirsch
 Screening II
 December 3, 2008, 7 - 9 PM

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 21
 type: ""
+venue: "switch"
 summary: "switch | call for entries: film/video/animation | NOV 1"
 ---
 

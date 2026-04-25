@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 26
 type: "EVENT"
+venue: "CAG [ONLINE]"
 summary: "CAG [ONLINE] | Aug Reads with Hannah Jickling and Helen Reed | 4PM | AUG 16"
 ---
 

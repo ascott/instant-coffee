@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 33
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Call for Submissions: PLOT | APR 30"
 ---
 

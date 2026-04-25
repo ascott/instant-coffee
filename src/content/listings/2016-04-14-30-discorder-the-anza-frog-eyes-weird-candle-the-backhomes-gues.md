@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 30
 type: "FUNDRAISER"
+venue: "Discorder @ the Anza"
 summary: "Discorder @ the Anza | Frog Eyes + Weird Candle + The Backhomes +guests | APR 23"
 ---
 

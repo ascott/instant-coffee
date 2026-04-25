@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Lincoln Clarkes - Here and There | JUN 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 19
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Ryan Gander: Make every show like it's your last | SEP 10"
 ---
 

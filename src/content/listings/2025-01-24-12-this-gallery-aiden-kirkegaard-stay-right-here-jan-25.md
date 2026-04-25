@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 12
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Aiden Kirkegaard - Stay Right Here | JAN 25"
 ---
 

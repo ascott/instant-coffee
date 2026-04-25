@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Luis,  I think this is the beginni
 emailDate: "Thu, 12 Jun 2014 13:37:55 -0700"
 number: 16
 type: ""
+venue: "Initial Gallery"
 summary: "Initial Gallery | Roselina Hung | JUN 19"
 ---
 
@@ -20,7 +21,7 @@ Saturday, June 21st at 2 pm
 
 Initial Gallery is pleased to present Of Myth and Men featuring recent oil 
 paintings by Vancouver based artist Roselina Hung. Combining art-historical 
-and well-known mythological motifs with self-reflective imagery, Hungâ€™s 
+and well-known mythological motifs with self-reflective imagery, Hung’s 
 fantastical oil paintings toy with modern myth-making. The artist, herself often 
 portrayed in obvious disguise, interacts with characters and symbols pulled 
 from mythological story lines and personal memory. By interweaving personal 

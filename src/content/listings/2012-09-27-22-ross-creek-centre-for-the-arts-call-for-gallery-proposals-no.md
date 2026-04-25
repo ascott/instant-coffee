@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 22
 type: ""
+venue: "Ross Creek Centre for the Arts"
 summary: "Ross Creek Centre for the Arts | Call for Gallery Proposals, Nova Scotia | OCT 31"
 ---
 
@@ -34,7 +35,7 @@ programs@artscentre.ca if you have any additional questions
 
 Mail your submissions to:
 
-Artist Program Director â€“ Gallery Submissions â€“ 2013-2014 season
+Artist Program Director – Gallery Submissions – 2013-2014 season
 
 Ross Creek Centre for the Arts 555 Ross Creek Road, Canning, Nova 
 Scotia B0P 1H0 Box 190
@@ -50,7 +51,7 @@ Ross Creek Centre for the Arts
 
 Mobile: 902.698.1777, Phone: 902.582.3842, Fax: 902.582.7943
 
-Box 190 â€¢ 555 Ross Creek Road â€¢ Canning â€¢ NS â€¢ B0P 1H0
+Box 190 • 555 Ross Creek Road • Canning • NS • B0P 1H0
 
 www.artscentre.ca
 
@@ -58,7 +59,7 @@ tw fb
 
 The Ross Creek Centre for the Arts is a multi disciplinary arts 
 education and development centre based on 178 acres of farm and 
-forest in Nova Scotiaâ€™s Annapolis Valley. Our facilities and programs 
+forest in Nova Scotia’s Annapolis Valley. Our facilities and programs 
 are designed to serve the artistic and cultural communities of Nova 
 Scotia, of Canada, and of the world, with a focus on professional artist 
 development, youth education and Aboriginal arts programming.

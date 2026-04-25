@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 15
 type: ""
+venue: "Klondike Institute of Art & Culture"
 summary: "Klondike Institute of Art & Culture | CALL EXHIBITION PROPOSALS & RESIDENCY | APR 1"
 ---
 
@@ -16,7 +17,7 @@ Klondike Institute of Art & Culture (KIAC), Dawson City, Yukon
 DEADLINE: APRIL 1, 2012
 www.kiac.ca
 
-1. EXHIBITION PROPOSALS â€“ ODD Gallery, Dawson City, Yukon
+1. EXHIBITION PROPOSALS – ODD Gallery, Dawson City, Yukon
 We invite professional artists and curators of all experience to submit 
 proposals for exhibitions of contemporary visual art. The ODD Gallery 
 is housed in the main Klondike Institute of Art & Culture building. We 
@@ -26,7 +27,7 @@ Manufactured. The ODD Gallery supports CARFAC-recommended
 exhibition and artist talk fee rates, and offers shipping support. Please 
 visit http://www.kiac.ca/oddgallery/submissions/ for more information.
 
-2. ARTIST IN RESIDENCE â€“ Klondike Institute of Art & Culture, 
+2. ARTIST IN RESIDENCE – Klondike Institute of Art & Culture, 
 Dawson City, Yukon
 We invite artists of all experience to submit proposals for a work-
 creation, development or research tenure of 4 to 12 weeks in our 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 8
 type: "FUNDRAISER"
+venue: "PACIFIC ARTS MARKET"
 summary: "PACIFIC ARTS MARKET | CHARITY ART AUCTION | 6-9PM | JUN 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 6
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Morris and Helen Belkin Art Gallery | Two Concerts with UBC School of Music | DEC 1"
 ---
 

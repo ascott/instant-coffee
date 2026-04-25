@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 24
 type: "CALL"
+venue: "KAPSULA Magazine + ANIMA Casa"
 summary: "KAPSULA Magazine + ANIMA Casa | Rural Writer-In-Residence Extended Deadline | NOV 18"
 ---
 

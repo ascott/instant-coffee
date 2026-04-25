@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 1
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Artists in Conversation: Chen, Gabriel, Sirois | MAY 27"
 ---
 
@@ -22,7 +23,7 @@ Gallery. Following the presentations, the artists will engage in a
 conversation with each other and the audience, facilitated by Surrey Art
 Gallery Curator Jordan Strom. Subjects of the presentations and
 conversation will include: how the South of Fraser region inspires each
-artistâ€™s work; why itâ€™s important to them to make art that reveals the
+artist’s work; why it’s important to them to make art that reveals the
 history of change in this region; how artists seek to capture the present
 moment - â€œthe nowâ€  - through their work; and how their work explores ways
 of depicting the human figure. Admission to this event is free.
@@ -56,11 +57,11 @@ experimental and collaborative methods. Their work is situated in context
 to the rapidly growing â€œSouth of Fraserâ€  region of British Columbiaâ€™s Lower
 Mainland, comprising the municipalities of Surrey, Langley, Delta, and
 White Rock. In capturing the character(s) of a place that is constantly
-changing, the artists offer a brief interval in timeâ€”the present moment
+changing, the artists offer a brief interval in time—the present moment
 animated by the presence of individuals and places. This project is the
 second installment of Views from the Southbank, a trio of exhibitions
 featuring 70 local artists, almost all of whom are from the South of Fraser
-region, celebrating Surrey Art Galleryâ€™s 40th anniversary.
+region, celebrating Surrey Art Gallery’s 40th anniversary.
 
 Surrey Art Gallery gratefully acknowledges the support of the B.C. Arts
 Council, Canada Council for the Arts and the City of Surrey

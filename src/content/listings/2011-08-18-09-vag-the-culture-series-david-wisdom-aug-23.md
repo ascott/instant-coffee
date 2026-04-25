@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 9
 type: ""
+venue: "VAG"
 summary: "VAG | The Culture Series: David Wisdom | AUG 23"
 ---
 

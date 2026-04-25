@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 27
 type: "TALK"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | RAIN CABANA-BOUCHER \"$185\" | JUN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 2
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Maureen Gruben | UNGALAQ (When Stakes Come Loose) | JUN 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 27
 type: "TALK"
+venue: "Kamloops Art Gallery"
 summary: "Kamloops Art Gallery | Records of The Everything... | 1PM | MAR 26"
 ---
 

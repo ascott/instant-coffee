@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 32
 type: "TALK"
+venue: "Science World, False Creek"
 summary: "Science World, False Creek | SEA LEGS - The Foreshore Listens | 430-630PM | SEP 29"
 ---
 

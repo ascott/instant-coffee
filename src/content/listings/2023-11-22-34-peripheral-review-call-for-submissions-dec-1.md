@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 34
 type: "CALL"
+venue: "Peripheral Review"
 summary: "Peripheral Review | Call for Submissions | DEC 1"
 ---
 

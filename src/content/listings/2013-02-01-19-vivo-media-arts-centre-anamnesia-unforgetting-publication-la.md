@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 19
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Anamnesia: Unforgetting Publication Launch | FEB 7"
 ---
 
@@ -21,14 +22,14 @@ Admission: $10 (includes a book) * No one will be turned away for lack of
 funds
 DVD boxset (includes one disc for each video programme): $20.00
 
-In November 2012, VIVO Media Arts Centre, Vancouverâ€™s oldest media 
+In November 2012, VIVO Media Arts Centre, Vancouver’s oldest media 
 access artist run centre, presented Anamnesia: Unforgetting, a series of three 
 screenings of videos from the 1970s and 1980s, collected through the early 
-Satellite Video Exchange program. The videos are now housed in VIVOâ€™s 
+Satellite Video Exchange program. The videos are now housed in VIVO’s 
 Crista Dahl Media Library and Archive, a collection of 4500 titles of 
 international video art and related ephemera. Emerging out of Intermedia, the 
 Satellite Video Exchange collection documents important correspondence, 
-performance and activist video collaborations in Vancouverâ€™s art history.
+performance and activist video collaborations in Vancouver’s art history.
 
 Along with the three video programmes, a publication, DVD box set, and 
 online component were also produced. On February 7th, all contributors to the 
@@ -43,7 +44,7 @@ curator's programmes, and their collaboration with VIVO over the past four
 years, within the history of social and cultural production at SVES. Alex Muir 
 extrapolates upon early artist-television pioneer Byron Black's international 
 practice, his Images from Infinity program on Cable 10, and his affiliation with 
-Robert Filliouâ€™s Eternal Network, Image Bank, and the Western Front. Donato 
+Robert Filliou’s Eternal Network, Image Bank, and the Western Front. Donato 
 Mancini situates his curatorial frame within broader discourses on 
 polytemporality, polyrhythmia, and the archive, in literature, cinema, and 
 poetry. Cecily Nicholson reflects upon the legacy of the Oglala Sioux and 

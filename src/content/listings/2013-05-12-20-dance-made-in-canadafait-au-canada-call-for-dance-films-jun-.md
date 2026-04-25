@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yep, we are back 33.3 percent bett
 emailDate: "Sun, 12 May 2013 14:55:18 -0700"
 number: 20
 type: ""
+venue: "dance: made in canada/fait au canada"
 summary: "dance: made in canada/fait au canada | CALL FOR DANCE FILMS | JUN 5"
 ---
 

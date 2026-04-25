@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 13
 type: ""
+venue: "VAG"
 summary: "VAG | Peter Samis THE CULTURE SERIES | MAR 15"
 ---
 
@@ -24,7 +25,7 @@ Peter Samis is Associate Curator of Interpretations at the San Francisco
 Museum of Modern Art. He served as art historian/content expert for the
 first CD-ROM of modern art, American Visions: 20th Century from the Roy R.
 Neuberger Collection, and spearheaded the development of interactive
-multimedia programs for the inauguration of SFMOMAâ€™s new building in 1995.
+multimedia programs for the inauguration of SFMOMA’s new building in 1995.
 Samis is also an adjunct professor at the University of Lugano,
 Switzerland, focusing on multimedia and art-related topics, and is on the
 governing councils of two museum-focused open source initiatives: Pachyderm

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 38
 type: "OPENING"
+venue: "SPACE"
 summary: "SPACE | The Lost Vancouver: an unexpected Art Deco tour | APR 11"
 ---
 

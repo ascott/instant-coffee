@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 27
 type: "CALL"
+venue: "City of Burnaby"
 summary: "City of Burnaby | Willingdon Greenway Public Art Project | JUN 27"
 ---
 

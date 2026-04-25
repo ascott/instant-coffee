@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 3
 type: ""
+venue: "Bob Brittie Library, Burnaby"
 summary: "Bob Brittie Library, Burnaby | Jen Weih | How Deep Is Your Disaster | until | AUG 8"
 ---
 
@@ -16,7 +17,7 @@ other miscelany.
 July 8-September 8, 2013
 
 Jen Weih is a Vancouver-based artist whose practice includes video, print, 
-sculpture, installation and sound performance. Weihâ€™s two series of works 
+sculpture, installation and sound performance. Weih’s two series of works 
 present diverging aspects of her practice. One set of images are based on 
 fragments, sketches, research and notes from the period 2005-2013, showing 
 elements of inspiration and preliminary thoughts for works. The other set of 

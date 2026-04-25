@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 12
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Dustin Brons | JAN 18"
 ---
 

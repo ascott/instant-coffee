@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 4
 type: ""
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | On Edge readings series | Sharron Proulx-Turner | MAR 28"
 ---
 
@@ -18,9 +19,9 @@ Vancouver, Coast Salish Territories
 
 Free and open to the public
 
-Sharron Proulx-Turner is a member of the MÃ©tis Nation of Alberta. Originally 
+Sharron Proulx-Turner is a member of the Métis Nation of Alberta. Originally 
 from the Ottawa river valley, Sharron is from Algonquin, Ojibwe, Mohawk, 
-Wyandat, Mi'kmaw, French and Irish ancestry. Sheâ€™s a two-spirit nokomis, 
+Wyandat, Mi'kmaw, French and Irish ancestry. She’s a two-spirit nokomis, 
 mom, writer and community worker. Where the Rivers Join (1995), a memoir 
 (Beckylane), was a finalist for the Edna Staebler Award for creative non-
 fiction. what the auntys say (2002), was a finalist for the Gerald Lampert Prize 

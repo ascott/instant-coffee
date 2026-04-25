@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: doing 'nothings' while everyone el
 emailDate: "Thu, 01 Apr 2010 03:24:17 -0700"
 number: 8
 type: ""
+venue: "VAG"
 summary: "VAG | After Hours | Ivan E Coyote, Veda Hille and Bill Richardson | APR 7"
 ---
 

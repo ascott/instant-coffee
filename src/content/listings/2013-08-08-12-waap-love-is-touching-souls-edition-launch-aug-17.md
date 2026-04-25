@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please be advised requests for ill
 emailDate: "Thu, 08 Aug 2013 16:25:10 -0700"
 number: 12
 type: ""
+venue: "WAAP"
 summary: "WAAP | Love Is Touching Souls Edition Launch | AUG 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 2
 type: ""
+venue: "NEWS"
 summary: "NEWS | VAG OFFSITE | Marina Roy: Your Kingdom to Command | JUN 22"
 ---
 

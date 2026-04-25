@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 9
 type: "CALL"
+venue: "Or Gallery"
 summary: "Or Gallery | Nautillus: Flotilla & Or Bookstore | JUL 1"
 ---
 

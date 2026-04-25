@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dagnabbit! Pay ATTENTION to us"
 emailDate: "Thu, 30 Sep 2010 11:25:32 -0700"
 number: 12
 type: ""
+venue: "The STAG"
 summary: "The STAG | Heidi Nagtegaal | OCT 7"
 ---
 
@@ -23,7 +24,7 @@ exciting public events, primarily focusing on her 5 year project: SMOKE
 RINGS. Part sculpture, part installation, part performance, SMOKE RINGS
 invites people to view the gallery as a place for embodiment, freedom and
 play while at the same time invoking a spirit of questioning and exchange.
-Made up of 16 hand-knit rings (2â€™ in diameter and between 10â€™ and 3â€™ in
+Made up of 16 hand-knit rings (2’ in diameter and between 10’ and 3’ in
 length), Smoke Rigs is a temporary zone of autonomy wherein our assumptions
 of how to relate within 4 white walls are re-examined or forgotten.
 
@@ -43,7 +44,7 @@ Heidi, put on white suit and dive into the Smoke Rings. Also the launch of
 the Smoke Ring publication.
 
 October 13th - Heidi will be hosting a Think Tank devoted to a discussion
-of peopleâ€™s experience with the Smoke Rings, TAZ, texts from the
+of people’s experience with the Smoke Rings, TAZ, texts from the
 publication and other topics to be discovered .
 
 The STAG is a Project Space, Gallery and Residency in the Vancouver, BC

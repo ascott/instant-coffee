@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 18
 type: ""
+venue: "Helen Pitt Gallery"
 summary: "Helen Pitt Gallery | Weekend Leisure | PUBLIC ACCESS: 1999 AND BEYOND | MAR 25"
 ---
 
@@ -21,8 +22,8 @@ Passmore, Emmett Hall, Nicolas Sassoon and Angus Ferguson. PUBLIC
 ACCESS will be accompanied by a book, available in late April,
 including commentary by the HP Radio Show (Hank Bull and Patrick
 Ready). The program will be broadcast on Novus Cable Channel 4 from
-March 26 â€“ April 30 and will be shown in the window of the
-soon-to-open UNIT/PITT Projects space at 15 E. Pender from April 8 â€“
+March 26 – April 30 and will be shown in the window of the
+soon-to-open UNIT/PITT Projects space at 15 E. Pender from April 8 –
 23.
 
 For more information, visit http://publicaccess.helenpittgallery.org
@@ -34,9 +35,9 @@ ABOUT PUBLIC ACCESS: 1999 AND BEYOND
 Since 2009, Weekend Leisure has produced a public access television
 programme, the Weekend Leisure Network, which airs locally in
 Vancouver on Novus Network Channel 4. Each episode consists of
-segments that vary in style and content â€“ from studio karaoke
-performances to improvised non-sequiturs â€“ often collaborations with
-individuals in Vancouverâ€™s arts, comedy and karaoke communities. For
+segments that vary in style and content – from studio karaoke
+performances to improvised non-sequiturs – often collaborations with
+individuals in Vancouver’s arts, comedy and karaoke communities. For
 Public Access: 1999 & Beyond, Weekend Leisure has curated local
 artists and comedians to create work that will be shown in an art
 exhibition that takes the form of a public access television
@@ -67,7 +68,7 @@ International.
 Having been an improviser since the age of 14, Nicole Passmore began
 her improv practice in the Canadian Improv Games, and later found a
 home with UBC Improv. Since then she has expanded her horizons to not
-only include improv with Vancouver Theatre Sports Leagueâ€™s Masterclass
+only include improv with Vancouver Theatre Sports League’s Masterclass
 and coaching high school level improvisation, but also collaborating
 with local Vancouver sketch groups such as Pump Trolley Comedy and the
 sketch duo Pony Hunters (with Kaitlin Fontana). In 2009, Nicole played
@@ -80,7 +81,7 @@ Emmett Hall
 Emmett Hall is a Vancouver-based comedian, animator and musician,
 having studied animation at Capilano College and in Vibog, Denmark.
 Working in the animation industry by day, Emmett regularly performs
-sketch and improv by night at comedy events such as Bronx Cheerâ€™s Hero
+sketch and improv by night at comedy events such as Bronx Cheer’s Hero
 Show and The Sunday Service, where he provides musical backup and
 produces a monthly podcast. Hall is also one third of the medieval,
 heavy-metal comedy trio Knights of the Night and the author behind the
@@ -131,7 +132,7 @@ he invented the 'water radio' as artist-in-residence at The Banff
 Centre.
 
 Weekend Leisure
-Graduates of Emily Carrâ€™s Integrated Media program, the four members
+Graduates of Emily Carr’s Integrated Media program, the four members
 of Weekend Leisure (Erich Gerl, Curtis Grahauer, Christy Nyiri and
 Pietro Sammarco) continue to collaborate, utilizing their respective
 backgrounds in video and installation, performance, design, music and

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "221A"
 summary: "221A | The Kitchen Garden at Home/Store - Ron Tran | APR 9"
 ---
 
 The Kitchen Garden at Home/Store
 Ron Tran
-April 9 â€“ May 23, 2015
+April 9 – May 23, 2015
 
 Van Hop Tour: April 11, 3:30-5:00pm
 canadianart.ca/vancouverhop

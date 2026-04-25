@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 30
 type: "CALL"
+venue: "Spark Box"
 summary: "Spark Box | National Artist Residency Award | DEC 15"
 ---
 

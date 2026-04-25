@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: west winds of loss"
 emailDate: "Thu, 09 Oct 2014 11:55:48 -0700"
 number: 20
 type: ""
+venue: "Western Front"
 summary: "Western Front | Image Process: a Fundraiser for the Western Front | OCT 25"
 ---
 

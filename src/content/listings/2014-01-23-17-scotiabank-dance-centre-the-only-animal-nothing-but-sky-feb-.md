@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 17
 type: ""
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | The Only Animal : NOTHING BUT SKY | FEB 21"
 ---
 
@@ -13,12 +14,12 @@ NOTHING BUT SKY
 
 Experience a comic book come to life
 
-VANCOUVER, BC â€” The Only Animal, best known for its imaginative 
+VANCOUVER, BC — The Only Animal, best known for its imaginative 
 locales and site-specific work, moves inside of a theatre with its latest 
-creation, Nothing but Sky, premiering February 21â€“March 2, 2014 at 
+creation, Nothing but Sky, premiering February 21–March 2, 2014 at 
 the Faris family studio at the Scotiabank Dance Centre. Despite this 
 more conventional locale, Nothing but Sky falls right in line with the 
-companyâ€™s mandate to innovate. The action takes place inside a live 
+company’s mandate to innovate. The action takes place inside a live 
 drawing to tell the story of Joe Shuster, the Canadian who first drew 
 Superman.
 
@@ -34,7 +35,7 @@ return to destroy you.
 With 3-D projection mapping, panelled action sequences, and an 
 animation team that includes Paul Dutton (Academy Award winner 
 for Triplets of Belleville,) Nothing but Skyis a comic book brought to 
-life, where we leap off the cliffs of loveâ€¦ and hope that we can fly.
+life, where we leap off the cliffs of love… and hope that we can fly.
 
 Nothing but Sky features video design by Keith Murray, Superman 
 character design by Paul Dutton, costume design by Christine 
@@ -45,7 +46,7 @@ conceived, written and directed by Only Animal Artistic Director
 Kendra Fanconi.
 
 NOTHING BUT SKY
-February 21â€“March 2, 8pm
+February 21–March 2, 8pm
 Preview performance February 20
 Faris Family Studio, Scotiabank Dance Centre
 677 Davie Street, Vancouver

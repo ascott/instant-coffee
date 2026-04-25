@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 16
 type: ""
+venue: "Surrey Urban Screen"
 summary: "Surrey Urban Screen | Call for Proposals | MAY 8"
 ---
 

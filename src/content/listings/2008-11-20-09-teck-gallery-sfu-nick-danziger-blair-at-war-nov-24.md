@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 9
 type: "OPENING"
+venue: "Teck Gallery, SFU"
 summary: "Teck Gallery, SFU | Nick Danziger: Blair at War | NOV 24"
 ---
 
@@ -18,7 +19,7 @@ Ever wondered what decision-making looks like when the participants know
 that human lives will hang in the balance? This exhibition of photographs by
 Nick Danziger is the result of a seemingly uncontroversial assignment to
 document then-prime minister Tony Blair's 50th birthday for The Times
-Magazine. Global events forced a metamorphosis of the assignment Â­ it became
+Magazine. Global events forced a metamorphosis of the assignment ­ it became
 a month-long study of a British prime minister deliberating the pros and
 cons of participating in the war in Iraq, during which Danziger, and his
 collaborator on the project, Times Literary Supplement editor Peter
@@ -32,7 +33,7 @@ scenes of dialogue look more like everyday considerations of whether to
 order this or that type of wine for dinner.
 
 Five years after the invasion of Iraq, these striking photographs do what
-photography often does best Â­ provide privileged access to inaccessible
+photography often does best ­ provide privileged access to inaccessible
 people, events, and processes.
 
 Artist talk: Thursday, November 27, 7pm

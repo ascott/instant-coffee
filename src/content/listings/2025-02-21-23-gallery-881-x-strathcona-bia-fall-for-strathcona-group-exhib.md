@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 23
 type: "EXHIBITION"
+venue: "Gallery 881 x Strathcona BIA"
 summary: "Gallery 881 x Strathcona BIA | Fall for Strathcona Group Exhibition | MAR 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Documentarian: New Acquisitions Screening | 7-930P | JAN 10"
 ---
 

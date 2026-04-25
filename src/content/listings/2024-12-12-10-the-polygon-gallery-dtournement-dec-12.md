@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 10
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Détournement | DEC 12"
 ---
 

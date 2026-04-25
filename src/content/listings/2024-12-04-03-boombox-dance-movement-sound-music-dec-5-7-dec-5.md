@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 3
 type: "PERFORMANCE"
+venue: "BOOMBOX"
 summary: "BOOMBOX | Dance, movement, sound, music | DEC 5-7 | DEC 5"
 ---
 

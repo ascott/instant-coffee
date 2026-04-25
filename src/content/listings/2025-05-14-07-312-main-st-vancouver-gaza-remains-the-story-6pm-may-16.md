@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 7
 type: "OPENING"
+venue: "312 Main St. Vancouver"
 summary: "312 Main St. Vancouver | Gaza Remains the Story | 6PM | MAY 16"
 ---
 

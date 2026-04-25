@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | ECUAD - Reliance Theatre | NEVER STEADY, NEVER STILL | 7PM | JAN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 22
 type: ""
+venue: "Deer Lake Gallery, Burnaby"
 summary: "Deer Lake Gallery, Burnaby | 2015 Call to Artists | OCT 31"
 ---
 

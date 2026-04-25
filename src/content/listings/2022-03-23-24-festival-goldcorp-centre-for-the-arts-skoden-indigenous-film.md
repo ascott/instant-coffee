@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 24
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Goldcorp Centre for the Arts | SKODEN INDIGENOUS FILM FESTIVAL | MAR 31-APR 2 | MAR 31"
 ---
 

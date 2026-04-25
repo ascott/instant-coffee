@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 33
 type: "CALL"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | call for board members | JUL 3"
 ---
 

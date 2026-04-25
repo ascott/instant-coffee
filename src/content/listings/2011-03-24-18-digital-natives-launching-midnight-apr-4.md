@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 18
 type: ""
+venue: "Digital Natives"
 summary: "Digital Natives | Launching Midnight | APR 4"
 ---
 
@@ -25,7 +26,7 @@ o Launching Midnight April 4
 44 LR
 Launching Midnight April 4
 
-April 4 â€“ 30, 2011
+April 4 – 30, 2011
 
 Other Sights for Artists' Projects is pleased to announce the launch of
 Digital Natives, a public artwork commissioned by the City of Vancouver
@@ -36,7 +37,7 @@ Artists and writers from across North America have contributed text
 messages to be broadcast over the month of April, coinciding with the 125th
 Anniversary of the City of Vancouver.
 
-Located on SkwxwÃº7mesh territory, the billboard becomes a space for
+Located on Skwxwú7mesh territory, the billboard becomes a space for
 exchange between native and non-native communities in an exploration of
 language in public space. Interrupting the flow of advertisements, the
 ten-second messages respond to the location and history of the billboard,

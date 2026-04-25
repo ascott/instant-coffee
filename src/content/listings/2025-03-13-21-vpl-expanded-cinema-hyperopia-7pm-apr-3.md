@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 21
 type: "PERFORMANCE"
+venue: "VPL"
 summary: "VPL | Expanded Cinema: Hyperopia | 7PM | APR 3"
 ---
 

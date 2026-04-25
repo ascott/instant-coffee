@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Audain Art Museum"
 summary: "Audain Art Museum | Whistler | Edward Burtynsky: The Scarred Earth | JUN 10"
 ---
 

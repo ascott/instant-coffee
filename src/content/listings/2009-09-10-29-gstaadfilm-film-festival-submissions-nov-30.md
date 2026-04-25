@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: this might be oversize"
 emailDate: "Thu, 10 Sep 2009 10:10:13 -0700"
 number: 29
 type: ""
+venue: "Gstaadfilm Film Festival"
 summary: "Gstaadfilm Film Festival | Submissions | NOV 30"
 ---
 

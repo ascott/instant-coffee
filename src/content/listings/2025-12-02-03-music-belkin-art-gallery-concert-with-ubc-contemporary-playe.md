@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 3
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Belkin Art Gallery | Concert with UBC Contemporary Players | 2PM | DEC 3"
 ---
 

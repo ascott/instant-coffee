@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "Online or Playhouse Studio (649 Cambie St.)"
 summary: "Online or Playhouse Studio (649 Cambie St.) | DBLSPK: ????Pineapple Bun by Howard Dai | JAN 29"
 ---
 

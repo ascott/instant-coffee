@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 25
 type: ""
+venue: "International Performing Arts Conferences"
 summary: "International Performing Arts Conferences | Call for Presentations, Workshops, Papers | MAR 1"
 ---
 

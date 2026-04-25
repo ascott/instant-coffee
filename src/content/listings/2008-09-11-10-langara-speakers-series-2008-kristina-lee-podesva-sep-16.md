@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 10
 type: ""
+venue: "Langara"
 summary: "Langara | Speakers Series 2008 | Kristina Lee Podesva | SEP 16"
 ---
 
@@ -43,7 +44,7 @@ is cofounder of Cornershop Projects, an open framework for the examination
 of the relationship between art and economic transactions, and is Assistant
 Editor at The Fillip Review.
 
-KristinaÃ¢&#65533;&#65533;s most recent project, Showroom, was organized
+Kristinaâ&#65533;&#65533;s most recent project, Showroom, was organized
 with Inge Roecker
 in collaboration with Michelle Allard, Marianne Bos, Patrick Chan, Paul de
 Guzman, Vanessa Kwan, Gwenessa Lam, Heidi Nagtegaal, Alex Pensato, Ryan

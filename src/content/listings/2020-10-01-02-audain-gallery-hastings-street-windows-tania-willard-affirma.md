@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Audain Gallery, Hastings Street Windows"
 summary: "Audain Gallery, Hastings Street Windows | Tania Willard | Affirmations for Wildflowers"
 ---
 

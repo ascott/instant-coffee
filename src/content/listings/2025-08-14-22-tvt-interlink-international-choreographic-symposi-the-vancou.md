@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 22
 type: "EVENT"
+venue: "TvT Interlink International Choreographic Symposi"
 summary: "TvT Interlink International Choreographic Symposi | The Vancouver Art Gallery and The Dance Centre | SEP 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 14
 type: "OPENING"
+venue: "YACYACTACTAC"
 summary: "YACYACTACTAC | A Show of Artist Multiples | NOV 15"
 ---
 

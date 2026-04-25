@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 18
 type: ""
+venue: "SFU"
 summary: "SFU | Call for Papers | FEB 12"
 ---
 

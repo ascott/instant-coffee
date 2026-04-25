@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: what duty do we do?"
 emailDate: "Thu, 21 Feb 2008 08:23:56 -0800"
 number: 19
 type: ""
+venue: "Schema (www.schemamag.ca)"
 summary: "Schema (www.schemamag.ca) | CALL FOR SUBMISSIONS"
 ---
 

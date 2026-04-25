@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 8
 type: "EVENT"
+venue: "People's Co-op Bookstore"
 summary: "People's Co-op Bookstore | CANDIE TANAKA AND JENNIFER ZILM | 730PM | MAR 22"
 ---
 

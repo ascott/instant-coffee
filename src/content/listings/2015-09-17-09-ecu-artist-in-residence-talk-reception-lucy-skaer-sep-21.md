@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 9
 type: "TALK"
+venue: "ECU"
 summary: "ECU | Artist-in-Residence Talk + Reception: Lucy Skaer | SEP 21"
 ---
 

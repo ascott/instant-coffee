@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 14
 type: "TALK"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Charlotte Yao with Chelsea Yuill | 330PM | JUN 14"
 ---
 

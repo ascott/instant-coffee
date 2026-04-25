@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: you decide"
 emailDate: "Thu, 29 Oct 2009 09:25:19 -0700"
 number: 4
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | POSER PANEL | OCT 29"
 ---
 

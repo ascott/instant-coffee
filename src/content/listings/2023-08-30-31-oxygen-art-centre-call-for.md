@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 31
 type: "CALL"
+venue: "Oxygen Art Centre"
 summary: "Oxygen Art Centre | Call for"
 ---
 

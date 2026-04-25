@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 23
 type: "OPENING"
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Dangerous Beauty: The Prints of Albrecht Dürer | DEC 13"
 ---
 

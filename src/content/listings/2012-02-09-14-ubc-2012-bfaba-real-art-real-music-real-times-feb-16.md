@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 14
 type: "EVENT"
+venue: "UBC 2012 BFA/BA"
 summary: "UBC 2012 BFA/BA | REAL ART | REAL MUSIC | REAL TIMES | FEB 16"
 ---
 

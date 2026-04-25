@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: styles you'll love all season"
 emailDate: "Thu, 27 Aug 2009 08:28:07 -0700"
 number: 3
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | A SLIDE SHOW in McLean Park | AUG 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Pale Fire | Rosalind Nashashibi: Vivian's Garden | 9PM | APR 26"
 ---
 

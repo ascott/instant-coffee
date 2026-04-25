@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 24
 type: ""
+venue: "Centre for Art Tapes"
 summary: "Centre for Art Tapes | CALL FOR SUBMISSIONS | APR 20"
 ---
 
@@ -23,7 +24,7 @@ EXPLORATION: To â€œanimateâ€  is to breathe life and soul into the
 inanimate. In near contradiction, to â€œautomateâ€  is to reduce the need for 
 human work in the production process. This exhibition will invite the 
 viewer to ponder this digital problematic and consider the contribution 
-of the animatorâ€™s silent partner - automation. Subject matter is open. 
+of the animator’s silent partner - automation. Subject matter is open. 
 
 SPECIFICATIONS: 
 National: single channel digital animations up to 10 minutes. 
@@ -34,7 +35,7 @@ PREVIEW FORMATS: web, VHS, CD Rom, DVD, USB
 
 SCREENING FORMATS: Uncompressed QuickTime video, preferably 
 mini DV tape or USB (with player software included). 
-Compressed/packaged DVDâ€™s are NOT preferred. 
+Compressed/packaged DVD’s are NOT preferred. 
 
 PLEASE INCLUDE: title and date of work, 150-200 word description, 
 and bio (50-75 words) 

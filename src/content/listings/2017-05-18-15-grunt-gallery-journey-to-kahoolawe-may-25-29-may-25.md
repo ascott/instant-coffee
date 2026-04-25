@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 15
 type: "EVENT"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Journey to Kaho’olawe May 25 - 29 | MAY 25"
 ---
 

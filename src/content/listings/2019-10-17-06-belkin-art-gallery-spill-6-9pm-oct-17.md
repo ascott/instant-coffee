@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 6
 type: "OPENING"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | SPILL | 6-9PM | OCT 17"
 ---
 

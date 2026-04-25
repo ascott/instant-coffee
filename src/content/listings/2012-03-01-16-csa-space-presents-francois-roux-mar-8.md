@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 16
 type: ""
+venue: "CSA space presents"
 summary: "CSA space presents | Francois Roux | MAR 8"
 ---
 

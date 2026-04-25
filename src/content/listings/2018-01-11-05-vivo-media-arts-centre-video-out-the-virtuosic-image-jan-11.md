@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 5
 type: ""
+venue: "VIVO Media Arts Centre & Video Out"
 summary: "VIVO Media Arts Centre & Video Out | The Virtuosic Image | JAN 11"
 ---
 

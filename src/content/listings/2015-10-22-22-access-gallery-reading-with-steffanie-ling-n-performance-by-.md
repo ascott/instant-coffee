@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 22
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | Reading with Steffanie Ling n performance by Der Hammel von Kouver | OCT 29"
 ---
 

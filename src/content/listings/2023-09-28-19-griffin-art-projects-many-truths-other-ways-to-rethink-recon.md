@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 19
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Many Truths & Other Ways to Rethink Reconcil | 1PM | SEP 30"
 ---
 

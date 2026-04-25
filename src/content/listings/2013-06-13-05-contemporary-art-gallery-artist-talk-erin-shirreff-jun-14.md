@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 5
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Artist Talk: Erin Shirreff | JUN 14"
 ---
 
@@ -27,16 +28,16 @@ her current exhibition Pictures at the Contemporary Art Gallery, focusing
 on her interest in differing encounters between representations of image
 and object.
 
-Erin Shirreffâ€™s solo exhibition at the Contemporary Art Gallery is the
-first presentation dedicated exclusively to the artistâ€™s film and video
+Erin Shirreff’s solo exhibition at the Contemporary Art Gallery is the
+first presentation dedicated exclusively to the artist’s film and video
 work. Shirreff is most known for reproducing sculpture as images or making
 sculpture that distils the essence of a photograph, playing these two
-elements against one another as a means to prompt and test the viewerâ€™s
+elements against one another as a means to prompt and test the viewer’s
 response.
 
 The exhibition is presented in collaboration with Carleton University Art
 Gallery and Agnes Etherington Art Centre, collectively marking the first
-comprehensive exhibition of Shirreffâ€™s work in Canada. Each venue presented
+comprehensive exhibition of Shirreff’s work in Canada. Each venue presented
 unique exhibitions, drawing out varied strands in her rich body of work,
 and have come together to produce her first monograph. The publication
 features essays by Sandra Dyck and Jan Allen and an interview with the

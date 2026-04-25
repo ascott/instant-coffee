@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 15
 type: "TALK"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | Memory, Land: A panel Discussion | 2PM | FEB 6"
 ---
 

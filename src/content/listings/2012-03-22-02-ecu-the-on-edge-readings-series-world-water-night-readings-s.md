@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 2
 type: ""
+venue: "ECU"
 summary: "ECU | The On Edge readings series | World Water Night: Readings & Screening | MAR 22"
 ---
 

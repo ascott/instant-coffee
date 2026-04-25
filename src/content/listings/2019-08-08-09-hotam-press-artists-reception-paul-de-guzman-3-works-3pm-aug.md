@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 9
 type: "EVENT"
+venue: "Hotam Press"
 summary: "Hotam Press | Artist's Reception | Paul de Guzman | 3 Works | 3PM | AUG 10"
 ---
 

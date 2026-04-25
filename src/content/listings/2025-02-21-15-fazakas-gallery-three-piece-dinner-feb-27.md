@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 15
 type: "EXHIBITION"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | Three Piece Dinner | FEB 27"
 ---
 

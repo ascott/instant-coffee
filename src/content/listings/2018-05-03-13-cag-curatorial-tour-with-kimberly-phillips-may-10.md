@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 13
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Curatorial tour with Kimberly Phillips | MAY 10"
 ---
 

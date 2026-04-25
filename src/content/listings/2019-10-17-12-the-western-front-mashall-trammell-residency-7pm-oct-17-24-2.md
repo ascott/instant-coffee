@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 12
 type: "EVENT"
+venue: "The Western Front"
 summary: "The Western Front | Mashall Trammell residency | 7PM | OCT 17, 24, 29 | OCT 17"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 17
 type: "PERFORMANCE"
+venue: "Moberly Studio Theatre"
 summary: "Moberly Studio Theatre | Interplay 2018 | SEPT 7+8 | 8PM | SEP 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 2
 type: ""
+venue: "ECU"
 summary: "ECU | Speaker Series: Edgar Heap of Birds | JAN 21"
 ---
 

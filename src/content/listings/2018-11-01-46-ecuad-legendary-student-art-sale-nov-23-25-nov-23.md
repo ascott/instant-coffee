@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 46
 type: "EVENT"
+venue: "ECUAD"
 summary: "ECUAD | Legendary Student Art Sale | NOV 23-25 | NOV 23"
 ---
 

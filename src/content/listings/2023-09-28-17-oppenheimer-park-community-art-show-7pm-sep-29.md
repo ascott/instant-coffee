@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Oppenheimer Park"
 summary: "Oppenheimer Park | Community Art Show | 7PM | SEP 29"
 ---
 

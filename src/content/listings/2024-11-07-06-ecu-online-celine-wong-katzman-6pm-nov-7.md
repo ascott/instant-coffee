@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 6
 type: "TALK"
+venue: "ECU [ONLINE]"
 summary: "ECU [ONLINE] | Celine Wong Katzman | 6PM | NOV 7"
 ---
 

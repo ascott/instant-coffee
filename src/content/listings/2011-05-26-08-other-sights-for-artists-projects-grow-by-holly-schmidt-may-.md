@@ -4,14 +4,15 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 8
 type: ""
-summary: "Other Sights for Artistâ€™s Projects | GROW by Holly Schmidt | MAY 28"
+venue: "Other Sights for Artist’s Projects"
+summary: "Other Sights for Artist’s Projects | GROW by Holly Schmidt | MAY 28"
 ---
 
-Grow: May 1 â€“ November 30 2011
+Grow: May 1 – November 30 2011
 
 Lead Artist: Holly Schmidt
 
-Other Sights for Artistâ€™s Projects is pleased to present Grow, a public art
+Other Sights for Artist’s Projects is pleased to present Grow, a public art
 project that acts as a public forum, teaching tool and creative laboratory
 for ecological and social sustainability practices in South East False
 Creek (SEFC), Vancouver, Canada.
@@ -52,8 +53,8 @@ and activist.
 Other Sights and the Grow project are pleased to be partnering with the
 Vancouver Design Nerds and the Environmental Youth Alliance.
 
-Presented by Other Sights for Artistâ€™s Projects, Grow is part of an
-on-going series of artistâ€™s works that address issues of sustainability in
+Presented by Other Sights for Artist’s Projects, Grow is part of an
+on-going series of artist’s works that address issues of sustainability in
 the development of South East.
 
 Contact:

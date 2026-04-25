@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 8
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Susanna Browne: A Perfect Day | FEB 22"
 ---
 
@@ -12,7 +13,7 @@ Susanna Browne: A Perfect Day
 Launch event, Friday, February 22, 8 pm, at Unit/Pitt Projects, 15 East 
 Pender Street, Vancouver BC
 
-The second project in Unit/Pittâ€™s What Future series of commissioned works 
+The second project in Unit/Pitt’s What Future series of commissioned works 
 is A Perfect Day by Susanna Browne. On Friday, February 22, join us for the 
 launch of the project and its accompanying publication.
 
@@ -25,10 +26,10 @@ East Pender Street, Vancouver; or via the internet).
 
 Exemplifying the inherent sentimentality and melancholy of the Victorian era, 
 A Perfect Day describes the bittersweet feelings one experiences at the end 
-of something wonderful, perfect. Jacobs-Bondâ€™s work, well known during her 
+of something wonderful, perfect. Jacobs-Bond’s work, well known during her 
 lifetime, in the last century has disappeared, and though her music often 
 focused on the upbeat, her life was anything but. Illness, unemployment, and 
-a number of premature deaths in the family plagued Jacobs-Bondâ€™s life, the 
+a number of premature deaths in the family plagued Jacobs-Bond’s life, the 
 most curious being that of her only son, who, in 1932, on a trip to Lake 
 Arrowhead, California, committed suicide. He was found in a room with A 
 Perfect Day playing on the phonograph, his body surrounded by burning 

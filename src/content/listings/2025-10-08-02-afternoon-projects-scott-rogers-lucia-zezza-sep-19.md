@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ticklish Street Corners"
 emailDate: "Tue, 07 Oct 2025 23:10:03 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Scott Rogers Lucia Zezza | SEP 19"
 ---
 

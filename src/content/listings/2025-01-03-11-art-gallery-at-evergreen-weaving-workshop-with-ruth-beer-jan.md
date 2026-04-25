@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 11
 type: "EDUCATION"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Weaving Workshop with Ruth Beer | JAN 18"
 ---
 

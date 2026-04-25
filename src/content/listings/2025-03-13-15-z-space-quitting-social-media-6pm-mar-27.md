@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 15
 type: "EDUCATION"
+venue: "Z-Space"
 summary: "Z-Space | Quitting social media | 6PM | MAR 27"
 ---
 

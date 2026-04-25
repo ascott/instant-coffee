@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 22
 type: ""
+venue: "MIRACLE & CONNELLY"
 summary: "MIRACLE & CONNELLY | The Chief on Top of The Chief, On Top of The Chief | SEP 14"
 ---
 
@@ -20,9 +21,9 @@ Squamish, BC
 All day // September 14th, 2013
 
 Robert Pederson // Jenny G // Jonathan Syme // Laura Piasta // Denzel 
-Washington // Antoni Wojtyra // Mitch Speed // Joda ClÃ©ment // Jeff StÃ¼ckel // 
+Washington // Antoni Wojtyra // Mitch Speed // Joda Clément // Jeff Stückel // 
 Neela Kler // Mark DeLong // The Everything Co. // Jabari Jordan-Walker // 
-Johan BjÃ¶rck // Others to be confirmed...
+Johan Björck // Others to be confirmed...
 
 Preliminary Itinerary: Meet at Solder and Sons at 8:00. Have a mimosa. Have 
 a coffee. Drive to Squamish. Stop at Howe Sound Brewery. Climb to Second 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 25
 type: ""
+venue: "Lucky's Gallery"
 summary: "Lucky's Gallery | Sunday | until | MAY 13"
 ---
 
@@ -18,14 +19,14 @@ KATIE KOZAK
 ANITA SIKMA
 SEAN SIKORSKI
 
-April 21 â€“ May 13 2010
+April 21 – May 13 2010
 
 Opening Reception April 21, 7pm
 Performance by Leah Abramson and Lucien Durey May 12, 7pm
 
 ///////////////////////////////////////////
 
-Luckyâ€™s Gallery is pleased to present the forthcoming group 
+Lucky’s Gallery is pleased to present the forthcoming group 
 exhibition Sunday with Vancouver artists Leah Abramson, Lucien 
 Durey, Tobin Gibson, Katie Kozak, Anita Sikma and Sean Sikorski. 
 An exhibition paradoxical in character Sunday explores the shy 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 28
 type: ""
+venue: "Artscape"
 summary: "Artscape | Creative SPACEMAKING Workshop | MAR 9"
 ---
 

@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 16
 type: ""
+venue: "FIVESIXTY"
 summary: "FIVESIXTY | Beautiful Undead by Lisa Penz | MAY 11"
 ---
 
 Beautiful Undead 
 
 Lisa Penz
-May 11th â€“ June 15th
+May 11th – June 15th
 Opening Reception Friday, May 11th 6:30 - 11:00 pm
 560 Seymour St. Vancouver
 
@@ -19,7 +20,7 @@ On May 11th, FIVESIXTY Artist Lounge in Vancouver will debut
 
 These stunning new paintings surround the hype of the current 
 vampire trend, as Lisa Penz depicts the power and seductiveness of 
-the vampire â€” only to be matched by their humanistic flaws. These 
+the vampire — only to be matched by their humanistic flaws. These 
 dreamy-like haunting works are an extension of Penz's alluring style in 
 which she combines narrative themes with elements of temptationalism 
 in order to bring the viewer into realizing their own thresholds - leading 

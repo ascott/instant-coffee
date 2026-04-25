@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 20
 type: ""
-summary: "UWO | Call for artistsâ€™ online contributions | MAR 29"
+venue: "UWO"
+summary: "UWO | Call for artists’ online contributions | MAR 29"
 ---
 
-Call for artistsâ€™ contributions to an online curatorial project undertaken
+Call for artists’ contributions to an online curatorial project undertaken
 jointly by PhD, MA and MFA students at the University of Western Ontario.
 The impetus of this project is to investigate the duality of artistic
 identity as both a producer and consumer.

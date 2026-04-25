@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 23
 type: ""
+venue: "IN MY BED Magazine"
 summary: "IN MY BED Magazine | CALL FOR SUBMISSIONS | MAR 1"
 ---
 

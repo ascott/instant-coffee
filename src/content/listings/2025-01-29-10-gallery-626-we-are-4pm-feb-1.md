@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 10
 type: "OPENING"
+venue: "Gallery 626"
 summary: "Gallery 626 | WE ARE, | 4PM | FEB 1"
 ---
 

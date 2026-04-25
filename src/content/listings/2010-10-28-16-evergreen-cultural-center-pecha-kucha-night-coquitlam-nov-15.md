@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 16
 type: ""
+venue: "Evergreen Cultural Center"
 summary: "Evergreen Cultural Center | Pecha-Kucha Night Coquitlam | NOV 15"
 ---
 
@@ -14,7 +15,7 @@ Nov.15th 7-10pm, 12$
 
 Pecha Kucha Night is a Tri-cities/Vancouver networking, performance and
 speaker series event. Held in over 350 cities worldwide, it is an event
-format that inspires creativeï¿½s from every background and discipline.
+format that inspires creative�s from every background and discipline.
 Pecha Kucha simply means "chit-chat" in Japanese. Devised by Astrid Klein
 and Mark Dytham of Klein Dytham Architecture in Tokyo, Pecha Kucha's very
 specific format is based on a simple idea: 20 images x 20 seconds each.

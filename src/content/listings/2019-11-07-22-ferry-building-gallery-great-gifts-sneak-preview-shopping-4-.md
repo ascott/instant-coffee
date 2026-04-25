@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 22
 type: "EVENT"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Great Gifts & Sneak Preview Shopping | 4-8PM | NOV 15"
 ---
 

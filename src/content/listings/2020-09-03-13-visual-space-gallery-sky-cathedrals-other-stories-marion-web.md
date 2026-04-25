@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "Visual Space Gallery"
 summary: "Visual Space Gallery | Sky Cathedrals & Other Stories | Marion Webber | SEP 11"
 ---
 

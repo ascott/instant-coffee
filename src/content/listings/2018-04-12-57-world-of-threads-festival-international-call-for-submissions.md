@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 57
 type: "CALL"
+venue: "World of Threads Festival"
 summary: "World of Threads Festival | International Call for Submissions | APR 30"
 ---
 

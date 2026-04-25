@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 54
 type: "CALL"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Print Ready 2018 | FEB 18"
 ---
 

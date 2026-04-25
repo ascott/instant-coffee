@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 4
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Stefany Hemming & Carole Sinclair | 6-8PM | JAN 10"
 ---
 

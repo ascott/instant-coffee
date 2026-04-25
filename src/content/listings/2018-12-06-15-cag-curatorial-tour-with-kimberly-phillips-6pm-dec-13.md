@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 15
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Kimberly Phillips | 6pm | DEC 13"
 ---
 

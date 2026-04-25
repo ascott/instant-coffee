@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 5
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Diane Severin Nguyen & Maureen Gruben | 7PM | FEB 1"
 ---
 

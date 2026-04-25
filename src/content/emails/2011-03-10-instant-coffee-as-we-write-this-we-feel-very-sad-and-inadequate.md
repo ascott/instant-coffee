@@ -45,7 +45,7 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 ON NEWSSTANDS NOW
 
-New Border Crossingsâ€™ Issue: on Production
+New Border Crossings’ Issue: on Production
 
 VOL 30 NO 1 ISSUE 117
 
@@ -56,11 +56,11 @@ INTERVIEWS
 Canadian photographer, Edward Burtynsky, renowned for his large-scale
 photographs of industrial landscapes and most recently, the oil spill in
 the Gulf of Mexico, talks with BC about his extensive bodies of work in
-which he attempts to â€œâ€¦raise our consciousness about how weâ€™re collectively
+which he attempts to “…raise our consciousness about how we’re collectively
 changing the landscape.â€ 
 
 This issue also features an interview with New York-based video artist Mika
-Rottenberg. Meeka Walsh writes of Rottenbergâ€™s work, â€œThe videos have
+Rottenberg. Meeka Walsh writes of Rottenberg’s work, “The videos have
 elements that are unnerving and disturbing in the situations they present,
 but they also hold images of unexpected beauty.â€ 
 
@@ -68,30 +68,30 @@ ARTICLES
 
 Daniel Baird contributes an article on â€œThe Last Newspaper,â€  an exhibition
 at the New Museum in NY, which looks at the role of the newspaper in art
-from the 1960s onwards, â€œâ€¦focusing on newspapersâ€™ contentious role as
+from the 1960s onwards, “…focusing on newspapers’ contentious role as
 authoritative arbiters of information about the world.â€ 
 
-EC Woodley writes on Vancouver artist Liz Magorâ€™s recent sculptural work
+EC Woodley writes on Vancouver artist Liz Magor’s recent sculptural work
 which blurs the line between the artificial and the real.
 
 ART PAGES are by Bill Burns whose work deals with issues of production in
 his unique and particular way.
 
 BORDERVIEWS on the personal and figurative paintings of Eleanor Bond, new
-work by Toronto-based painter Beth Stuart, Risa Horowitzâ€™s existentially
+work by Toronto-based painter Beth Stuart, Risa Horowitz’s existentially
 driven photography project and small worlds fabricated by Bill Burns.
 
 Our CROSSOVERS section includes reviews of the work of Dil Hildebrand,
 Janice Wright Cheney, Otto Dix, Katie Bethune-Leamen, Robert Adams, Wanda
 Koop, Cedric Bomford, and much more.
 
-NOW: Border Crossingsâ€™ Winnipeg Alphabestiary Collection was recently
+NOW: Border Crossings’ Winnipeg Alphabestiary Collection was recently
 acquired by the Winnipeg Art Gallery and will be shown for the first time
 in an exhibition titled â€œBestial Encounters,â€  from April 1 to June 12,
 2011. For more information visit: wag.ca
 
 Border Crossings is a quarterly cultural magazine published in Winnipeg.
-Itâ€™s subject is contemporary Canadian and international art and culture,
+It’s subject is contemporary Canadian and international art and culture,
 which the magazine investigates through articles, columns, reviews,
 profiles, interviews and portfolios.
 
@@ -316,7 +316,7 @@ use of humor, ambiguity, and absurdity. Bartholomew, Hou, and Moore
 conceived and developed the idea of an installation collaboratively yet
 present a range of individual and independent works by each artist.
 
-Initially the trio was inspired by the plans and models for Emilio Ambaszâ€™
+Initially the trio was inspired by the plans and models for Emilio Ambasz’
 â€œMan is an Island,â€  which proposes an imagined structure in an idyllic
 landscape. The utopic model possesses the material effect of being
 something without actually being it. It also anticipates the becoming of
@@ -326,7 +326,7 @@ potentiality seem to be at the root of this exhibition.
 Seeking to remove the filter or screen that gives a film set or prop a
 natural appearance the three artists of Faker Than Faux Fur create
 installations that reference the simulacral world of Hollywood back lots,
-accentuating the propâ€™s immediate failure and/or success as representations
+accentuating the prop’s immediate failure and/or success as representations
 of a real or imagined world. Each artist infuses their sculptural replicas
 with further symbolic adjustments and material adaptations to askew the
 viewers reading of the works. Through the construction of false versions of
@@ -376,24 +376,24 @@ Performance night: Thurs March 24th, 7pm
 
 Gallery Gachet, 88 East Cordova Street, www.gachet.org, t: 604 687 2468
 
-Dallas and Montana King, two of Gachetâ€™s Out of the Rain artists, present
+Dallas and Montana King, two of Gachet’s Out of the Rain artists, present
 exhibitions exploring ideas around emotional transference and the impact of
 loss and trauma within the context of healing. Building on her performance
-at the Vancouver Art Galleryâ€™s FUSE, Dallas expands her installation,
+at the Vancouver Art Gallery’s FUSE, Dallas expands her installation,
 Ceremony where she uses disposable lighters as a symbol of drug use and a
-metaphor for the idea of â€˜throwawayâ€™ lives in the DTES. Montana continues
-her studies of human â€˜chainsâ€™ and the limbic system. Using a multitude of
+metaphor for the idea of ‘throwaway’ lives in the DTES. Montana continues
+her studies of human ‘chains’ and the limbic system. Using a multitude of
 media she creates a conversation between traumatic human experiences and
 the brilliance of the whale's limbic systems.
 
 Ceremony bears direct reference to pre-colonial history of fire-carriers
-and to the role of fire as a metaphor to symbolize lifeâ€™s impenetrable
+and to the role of fire as a metaphor to symbolize life’s impenetrable
 force. Ceremony honours people lost to addiction through the use of
-disposable lighters â€“ a commentary on contemporary, capitalist, throwaway
+disposable lighters – a commentary on contemporary, capitalist, throwaway
 culture. The lighters create a stained glass window effect representing
 colonial-forced Catholic education for indigenous peoples.
 
-The installation is part of Dallasâ€™s healing. â€œWe are all people of the
+The installation is part of Dallas’s healing. “We are all people of the
 earth,â€  she states, â€œand that in order to heal the earth, we have to heal
 ourselves first.
 
@@ -401,14 +401,14 @@ Ceremony features a large ceremony lodge made from thousands of lighters,
 quarter inch wire mesh, tent poles, weaving, and canvas; appropriating
 traditional religious iconography using native art techniques in an
 exciting and new way. The disposable lighters are a symbol of drug use and
-a metaphor for the idea of â€˜throwawayâ€™ lives in the DTES, ranging in colour
+a metaphor for the idea of ‘throwaway’ lives in the DTES, ranging in colour
 from red, yellow, white and black, representing the diversity of the human
 race. Each lighter can be viewed as an individual, broadening the
 addictions debate and suggesting that everyone is affected by addiction.
-Addiction is a global problem, not just endemic to Vancouverâ€™s DTES, and
+Addiction is a global problem, not just endemic to Vancouver’s DTES, and
 the vast majority of people are dependent on something outside themselves
 to make life sweeter, or temporarily more bearable. Inside the structure
-two flat-screen televisions play Dallasâ€™s poetic film (30 min) â€“ the
+two flat-screen televisions play Dallas’s poetic film (30 min) – the
 stories of her daughter, friend and comrade, all whom lost their lives to
 addiction.
 
@@ -598,7 +598,7 @@ shortlisted for the Journey Prize Award. He is a contributing editor
 for the visual art magazines Border Crossings and Contemporary, for
 which he writes on Vancouver art and artists.
 
-The Goethe-Institut is the Federal Republic of Germanyâ€™s cultural
+The Goethe-Institut is the Federal Republic of Germany’s cultural
 institution operational worldwide. Learn more at
 http://www.goethe.de/enindex.htm
 
@@ -665,7 +665,7 @@ Peter Samis is Associate Curator of Interpretations at the San Francisco
 Museum of Modern Art. He served as art historian/content expert for the
 first CD-ROM of modern art, American Visions: 20th Century from the Roy R.
 Neuberger Collection, and spearheaded the development of interactive
-multimedia programs for the inauguration of SFMOMAâ€™s new building in 1995.
+multimedia programs for the inauguration of SFMOMA’s new building in 1995.
 Samis is also an adjunct professor at the University of Lugano,
 Switzerland, focusing on multimedia and art-related topics, and is on the
 governing councils of two museum-focused open source initiatives: Pachyderm
@@ -711,7 +711,7 @@ rhee
 In memory of Wonil Rhee
 
 Wednesday, March 16, 2011
-7:30 pm â€“ 9 pm
+7:30 pm – 9 pm
 Centre A (2 West Hastings Street, Vancouver)
 Live Streaming: http://www.ustream.tv/channel/wonilrhee
 
@@ -754,8 +754,8 @@ Centre A
 Vancouver International Centre for Contemporary Asian Art
 2 West Hastings Street, Vancouver, BC
 Canada V6B 1G6 Tel: 604.683.8326
-Gallery Hours: Tuesday â€“ Saturday 11 am â€“ 6 pm
-Sunday â€“ Monday closed
+Gallery Hours: Tuesday – Saturday 11 am – 6 pm
+Sunday – Monday closed
 www.centrea.org info@centrea.org
 
 
@@ -805,16 +805,16 @@ International Center of Photography where she contributed to Only Skin
 Deep. Changing Visions of the American Self (2004), at the Walker Art
 Center where she provided curatorial assistance to How Latitudes Become
 Forms: Art in a Global Age (2003) and the Paula Cooper Gallery where she
-organized Paul D. Miller aka DJ Spookyâ€™s Path is Prologue: Rebirth of a
+organized Paul D. Miller aka DJ Spooky’s Path is Prologue: Rebirth of a
 Nation (2004). Tancons has also organized exhibitions at non-profit art
 organizations in New York such as Artists Space, Robin Rhode: The Score,
 2005, The Kitchen, Ralph Lemon: The efflorescence of Walter, 2007 and The
-Rotunda Gallery, Masâ€™: From Process to Procession, 2007, as well as in Port
+Rotunda Gallery, Mas’: From Process to Procession, 2007, as well as in Port
 of Spain, Trinidad, Lighting the Shadow: Trinidad in and out of Light,
 2004. She has written for Nka, Third Text and Small Axe as well as for a
 host of exhibition catalogues and lectures and publishes regularly about
 her work on Carnival at conferences worldwide. Tancons holds an MA in
-Museum Studies from the Ã‰cole du Louvre in Paris, an MA in Art History from
+Museum Studies from the École du Louvre in Paris, an MA in Art History from
 the Courtauld Institute in London and is a former curatorial fellow of the
 Whitney Museum Independent Study Program. A native of Guadeloupe, French
 West Indies, Tancons currently lives and works in New Orleans.
@@ -875,10 +875,10 @@ in conjunction with a screening that she curated at Gallery TPW. This
 screening program, "The Permanent Longing for Elsewhere", will be screening
 at DIM Cinema on Monday March 21st.
 
-Provoked by this screening, Marchâ€™s reading will explore Nicholas
-Bourriaudâ€™s idea of what it means to be radicant. Following modernismâ€™s
-attempts to distill essential essences, to postmodernismâ€™s acceptance of
-cultural clutter, to the negotiating impulse of todayâ€™s altermodernity,
+Provoked by this screening, March’s reading will explore Nicholas
+Bourriaud’s idea of what it means to be radicant. Following modernism’s
+attempts to distill essential essences, to postmodernism’s acceptance of
+cultural clutter, to the negotiating impulse of today’s altermodernity,
 Bourriaud crafts a botanical metaphor for the specific reality of how the
 immigrant, the exile, the tourist, and the urban wanderer have become the
 dominant figures of contemporary culture.
@@ -920,13 +920,13 @@ production in Vancouver.
 Participating Artists:
 
 Liz Van Allen Cairns & Jessica Parsons, Mairin Cooley, Jordan & David
-Doody, Athena Papadopoulos, Greg Ryan, Luciana D'AnunciaÃ§Ã£o, Theodore
+Doody, Athena Papadopoulos, Greg Ryan, Luciana D'Anunciação, Theodore
 Bernard, Shawna Mclellan &Sydney Koke & Trevor Rutley , Peter Hadfield,
 Simon Redcrop, Patrick Cruz, Sam Buss, Vincent Van Haaf, Stephen & David
 James, Charlie Satterlee & Chris Boni, Barry Doupe, Emilio Rojas, Daniel
 Rincon, Zahid Jiwa, Devin Mackenzie, Robert Fougere, Paul Paper & Jennilee
 Marigomen, Sammy Chien, Krista Lomax, Sebnem Ozpeta, Ian MacTilstra, Barry
-DoupÃ©, Trifecta (Chase Porter, Sydney Gregoire, Parker McMullin with Drew
+Doupé, Trifecta (Chase Porter, Sydney Gregoire, Parker McMullin with Drew
 Willis & Michaela Mckay) Monica Rudd, Owen Ellis, Darren Gawle & Jen Smyth,
 Leslie Kennah, Melissa Paget, Chris Boni & Charlie Saterlie, Yi Xin Tong,
 Gillian Cole, Nathan Whitford, Marie Horstead, Sarah Jane Holtom, Erica
@@ -962,7 +962,7 @@ http://www.truthislightrecords.com/
 Drop Out Video Arts Society
 http://www.dropoutvideo.com
 
-BYOB and Artist RafaÃ«l Rozendaal:
+BYOB and Artist Rafaël Rozendaal:
 
 http://www.byobworldwide.com/
 
@@ -1063,9 +1063,9 @@ Pocket Landscape | March 18th - April 5th, 2011 | Opening Reception: March
 18th, 2011
 
 Please join us at The Gam Gallery on Friday, March 18th from 6:30pm to
-10:30pm for the opening reception of the group exhibition, â€˜Pocket Landscapeâ€™.
+10:30pm for the opening reception of the group exhibition, ‘Pocket Landscape’.
 
-â€˜The exhibition is an inquiry into the particulars of a pocket of landscape
+‘The exhibition is an inquiry into the particulars of a pocket of landscape
 definitive of place. We consider landscape to be better understood by
 moving through it slowly and gathering detailed information. We are
 interested in observing spaces and places by travelling through them while
@@ -1077,7 +1077,7 @@ move over it and flatten certain blades.
 We are interested in a mimetic response to landscape in pockets, landscape
 found in our pockets, pocket sized landscape, pockets of landscapes or
 landscape that could fit in our pocket. Each artist will use a suitable
-medium to develop their inquiry.â€™
+medium to develop their inquiry.’
 
 Artists:
 Jo Peters
@@ -1126,8 +1126,8 @@ Info
 
 March 20, 2011: Submission deadline
 April 1, 2011: Artists notified on selection
-April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm â€“ 11:00pm (U.S. EST)
-April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm â€“ 6:00pm (U.S. EST)
+April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm – 11:00pm (U.S. EST)
+April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm – 6:00pm (U.S. EST)
 
 Share this announcement on: Facebook | Twitter
 
@@ -1198,7 +1198,7 @@ Mindpirates (Berlin, Germany) www.mindpirates.org
 Mascher Space Co-op (Philadelphia, Pennsylvania) www.mascherdance.com
 Living Arts (Tulsa, Oklahoma)- www.livingarts.org
 La Perrera (Oaxaca, Mexico) www.laperreraoax.com
-LAP!_LaboratÃ³rio de AcÃ£o & Performance (EspÃ­rito Santo, Brazil)
+LAP!_Laboratório de Acão & Performance (Espírito Santo, Brazil)
 www.labperformance.tk
 Konic Thtr (Barcelona, Spain) www.koniclab.info
 Fusebox Festival (Austin, Texas) www.fuseboxfestival.com
@@ -1236,18 +1236,18 @@ participate in Low Lives 3.
 Important Dates:
 March 20, 2011: Submission deadline
 April 1, 2011: Artists notified on selection
-April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm â€“ 11:00pm (U.S. EST)
-April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm â€“ 6:00pm (U.S. EST)
+April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm – 11:00pm (U.S. EST)
+April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm – 6:00pm (U.S. EST)
 
 Founder/Producer/Curator
 Jorge Rojas is a multidisciplinary artist and independent curator. He
 employs both traditional and new media, as well as performative elements to
 investigate communication systems and the effect of technology on artistic
 production, social structures and communities. His work and curatorial
-projects have been exhibited in galleries and museums across MÃ©xico, the
+projects have been exhibited in galleries and museums across México, the
 United States, India and Brazil. Since 2009, he produces and curates Low
 Lives, an international, multi-venue exhibition of live, networked
-performances. Born in Morelos, MÃ©xico.
+performances. Born in Morelos, México.
 
 Co-Producer
 Chez Bushwick, an artist-run organization based in Brooklyn, is dedicated
@@ -1282,11 +1282,11 @@ the part of the host community). People have always wandered, but the
 recent proliferation of migration and mobility in our globalized world
 shifts the reference point of migrant and fixed resident alike: everyone is
 a fellow traveler. While nation-states have long provided a foundation for
-understanding alliances between large groups of people, todayâ€™s cultural
+understanding alliances between large groups of people, today’s cultural
 flows spill across national borders. Migrants are one element among many
 that constitute global circulations of culture, politics and economy, and
 the contemporary denizen must continually negotiate acculturations between
-the many communities that compose their lives. â€œThe Permanent Longing for
+the many communities that compose their lives. “The Permanent Longing for
 Elsewhereâ€  features works that hone in on a sense of frustration that often
 accompanies experiences of migration, exploring how national identification
 is breaking down as a suitable frame of reference in a globalized world. By
@@ -1344,7 +1344,7 @@ time) screens a new digital short entitled The Tree.
 
 JIN-ME YOON (an artist and educator exploring historical and cultural
 memory) presents a new single-channel video excerpted from a larger
-multi-media installation in progress, produced at the ZÃ³calo, Mexico City.
+multi-media installation in progress, produced at the Zócalo, Mexico City.
 
 ANDREW SHORT, HAROLD DONNELLY & JEREMY TODD screen Barricades: The Movie, a
 montaged conflation of post-war countercultural disillusionment,
@@ -1479,7 +1479,7 @@ The One of a Kind Show Vancouver is back for its fourth exciting year
 December 8 - 11, 2011. Don't miss your opportunity to be a part of the One
 of a Kind Show & Sale Vancouver at the New Vancouver Convention Centre. One
 of a Kind Show Vancouver is a shopping destination like no other; with
-fashion shows, contests, and of course some of North Americaâ€™s finest
+fashion shows, contests, and of course some of North America’s finest
 artists and artisans!
 
 How to Apply:
@@ -1624,7 +1624,7 @@ www.britanniacentre.org
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-03-10-29-postgraduate-programme-alpes-art-landscape-place-sound-space">29. Postgraduate programme ALPes | Art, Landscape, Place, Sound Space: CALL | JUN 17</a>
 ------------------------------------------------------------------------
-Postgraduate programme ALPes â€“ Art, Landscape, Place, Sound Space
+Postgraduate programme ALPes – Art, Landscape, Place, Sound Space
 
 Call for Applications
 
@@ -1633,7 +1633,7 @@ Geneva University of Art and Design
 head.hesge.ch/alpes
 
 Lili Weiss, My plainpalais
-PLAINE/OFF, GenÃ¨ve, April 2010
+PLAINE/OFF, Genève, April 2010
 Contact
 
 jean.stern@hesge.ch
@@ -1669,7 +1669,7 @@ background. It leads to the realisation of individual and group practical
 work involved with territory and the city.
 
 Qualification awarded: Certificate of Advanced Studies (20 ECTS)
-Duration: 2 semesters (i.e. 1 â€“ 2 days per week over 32 weeks in total)
+Duration: 2 semesters (i.e. 1 – 2 days per week over 32 weeks in total)
 Fees: 750 CHF per semester
 
 

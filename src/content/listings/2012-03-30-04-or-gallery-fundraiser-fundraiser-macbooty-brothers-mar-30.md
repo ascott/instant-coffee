@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 4
 type: ""
+venue: "OR GALLERY FUNDRAISER"
 summary: "OR GALLERY FUNDRAISER | fundraiser: MacBooty Brothers | MAR 30"
 ---
 

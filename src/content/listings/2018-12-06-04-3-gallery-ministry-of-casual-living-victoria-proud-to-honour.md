@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 4
 type: "OPENING"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Ministry of Casual Living (Victoria) | Proud to Honour | 7-11pm | DEC 7"
 ---
 

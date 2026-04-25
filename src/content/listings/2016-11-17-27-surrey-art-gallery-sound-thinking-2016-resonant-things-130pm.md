@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 27
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Sound Thinking 2016 Resonant Things 1:30pm | NOV 19"
 ---
 

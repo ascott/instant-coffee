@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 11
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | RITUALS EXHIBITION w/BROAD Mag | 2PM | DEC 9"
 ---
 

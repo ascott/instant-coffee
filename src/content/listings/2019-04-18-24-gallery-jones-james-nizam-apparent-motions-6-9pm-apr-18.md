@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 24
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | James Nizam - Apparent Motions | 6-9PM | APR 18"
 ---
 

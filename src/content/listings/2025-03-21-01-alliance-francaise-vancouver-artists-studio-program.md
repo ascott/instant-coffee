@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 1
 type: "CALL"
+venue: "Alliance Francaise Vancouver"
 summary: "Alliance Francaise Vancouver | ARTIST’S STUDIO PROGRAM"
 ---
 

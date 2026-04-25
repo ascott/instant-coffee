@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 5
 type: ""
+venue: "Positive Negative Gallery"
 summary: "Positive Negative Gallery | BARDO | Mel King and Steffen Quong | JAN 16"
 ---
 

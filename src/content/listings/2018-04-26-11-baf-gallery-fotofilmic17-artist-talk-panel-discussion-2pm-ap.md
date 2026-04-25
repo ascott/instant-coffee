@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 11
 type: "TALK"
+venue: "BAF Gallery"
 summary: "BAF Gallery | FOTOFILMIC17 Artist Talk + Panel Discussion | 2PM | APR 28"
 ---
 

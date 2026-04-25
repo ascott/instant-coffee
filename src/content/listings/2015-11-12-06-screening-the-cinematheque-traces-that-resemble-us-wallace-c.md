@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 6
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Traces That Resemble Us: Wallace & Claxton | NOV 12"
 ---
 
@@ -26,7 +27,7 @@ corresponding group exhibition at Monte Clark Gallery.
 
 On November 12 at 6:30pm, Ian Wallace will introduce his selected
 film, Jean-Luc Godard's Contempt (1963), a work cited in Wallace's
-ongoing Masculin/FÃ©minin series (1997-). "A major work of modern art
+ongoing Masculin/Féminin series (1997-). "A major work of modern art
 by one of the greatest artists in the history of cinema." (IW)
 
 On November 12 at 8:30pm, Dana Claxton will introduce her selected

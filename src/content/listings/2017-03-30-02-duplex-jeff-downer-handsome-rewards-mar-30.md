@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 2
 type: "OPENING"
+venue: "Duplex"
 summary: "Duplex | Jeff Downer: Handsome Rewards | MAR 30"
 ---
 

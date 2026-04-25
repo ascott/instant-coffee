@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 21
 type: ""
+venue: "JOB"
 summary: "JOB | Richmond Art Gallery | Art Gallery Attendant | MAR 29"
 ---
 

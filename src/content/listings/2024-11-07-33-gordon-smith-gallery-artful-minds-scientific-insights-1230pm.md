@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 33
 type: "TALK"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | Artful Minds, Scientific Insights | 1230PM | NOV 23"
 ---
 

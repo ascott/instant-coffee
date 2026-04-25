@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 15
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | The Culture Series | talk: Glenn Lewis | JUN 21"
 ---
 

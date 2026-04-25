@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 18
 type: "EVENT"
+venue: "Cineworks and Western Front"
 summary: "Cineworks and Western Front | Dan Starling | JAN 16"
 ---
 

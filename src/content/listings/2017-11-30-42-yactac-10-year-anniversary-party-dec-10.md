@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 42
 type: "FUNDRAISER"
+venue: "Yactac"
 summary: "Yactac | 10 Year Anniversary Party | DEC 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 8
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Reopening Celebration | 5PM | MAR 1"
 ---
 

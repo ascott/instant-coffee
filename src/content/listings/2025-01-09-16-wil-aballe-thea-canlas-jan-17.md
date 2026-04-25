@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 16
 type: "EXHIBITION"
+venue: "Wil Aballe"
 summary: "Wil Aballe | THEA CANLAS | JAN 17"
 ---
 

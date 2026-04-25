@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 7
 type: "TALK"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | VANDU's Recent History, 2014-2024 | 5PM | JUN 6"
 ---
 

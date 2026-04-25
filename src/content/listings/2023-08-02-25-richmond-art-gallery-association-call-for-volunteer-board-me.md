@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 25
 type: "CALL"
+venue: "Richmond Art Gallery Association"
 summary: "Richmond Art Gallery Association | Call for Volunteer Board Members | AUG 18"
 ---
 

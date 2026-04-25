@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 18
 type: "EXHIBITION"
+venue: "DLG"
 summary: "DLG | Self - Made | FEB 17"
 ---
 

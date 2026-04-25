@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 9
 type: "OPENING"
+venue: "SUM gallery"
 summary: "SUM gallery | Odera Igbokwe: New Yams Festival | 7PM | JUN 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 20
 type: "EDUCATION"
+venue: "AP Picks (Online)"
 summary: "AP Picks (Online) | Wikipedia Edit-a-Thon + COVID-19 Resources | APR 2"
 ---
 

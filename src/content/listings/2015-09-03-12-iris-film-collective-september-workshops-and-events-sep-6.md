@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Iris Film Collective"
 summary: "Iris Film Collective | September Workshops and Events | SEP 6"
 ---
 
@@ -19,11 +20,11 @@ by an artist talk by a local Vancouver artist.
 Kate Henderson is a Vancouver-based artist who received her MFA in
 Visual Art from the University of British Columbia in 2013 and her BFA
 with a Major in Photography from Emily Carr University of Art and
-Design in 2007. Hendersonâ€™s practice navigates the transitional space
+Design in 2007. Henderson’s practice navigates the transitional space
 between the analog/digital and the body/machine in technologies of
 seeing, surveillance and spectatorship. Henderson repositions low-
 resolution Internet images and videos through digital projection, slide
-projection, print and installationâ€”a process that locates and
+projection, print and installation—a process that locates and
 materializes the digital substrate thereby giving physical form to a
 seemingly intangible medium. Remediating contemporary and
 historical images of ruin, catastrophe and the industrial sublime,
@@ -43,7 +44,7 @@ film. The END OF THE WORLD isn't far off now. See you there!
 September 19 - Windows Collective film installation under North end
 Cambie Bridge
 September 20 - Cameraless Filmmaking Workshop
-Iris Film Collective presents the second part in its â€œCollective
+Iris Film Collective presents the second part in its “Collective
 Unconsciousâ€  Series, which focusses in on other film collectives from
 across the country. We are pleased to host the Windows Collective as
 they drop by on their cross-Canada tour to present an astounding
@@ -52,7 +53,7 @@ workshop on cameraless animation, September 19 and 20th
 respectively. The public will see and interact with silent film loops
 projected on 16mm film, as well as the mechanisms used to house the
 loops. This includes a record turntable converted into a 16mm film
-looper, plexiglass towers, and more. The Windows Collectiveâ€™s
+looper, plexiglass towers, and more. The Windows Collective’s
 contemporary and mobile urban art practice transforms the city itself
 into a canvas, and outdoor film projection is their graffiti.
 The film installation is Under the North Side of Cambie Bridge on

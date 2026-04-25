@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 10
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Paul Housley - A Studio for a Mind | MAY 30"
 ---
 
@@ -23,7 +24,7 @@ at the same time bringing forth his own distinct language of subjects
 and objects.
 
 The paintings selected for this exhibition depict various objects
-within Housleyâ€™s studio, and also expand to tableaux that include the
+within Housley’s studio, and also expand to tableaux that include the
 workspace itself. When viewed together, the paintings have a Gestalt
 effect, revealing an inner dialogue of the artist and showing his
 studio to be as much a psychological space as well as a physical one.
@@ -31,6 +32,6 @@ studio to be as much a psychological space as well as a physical one.
 Housley received his M.A. in painting from the Royal College of Art in
 London in 1995. He has exhibited at the Peter Bergman Gallery
 (Stockholm), White Columns (New York), Andrea Rosen Gallery (New
-York), Belmacz (London) and Poppy Sebire Gallery (London). Housleyâ€™s
+York), Belmacz (London) and Poppy Sebire Gallery (London). Housley’s
 work has been printed in numerous publications including Artforum,
 Modern Painters, Frieze, The Independent, The Guardian, and ArtSlant.

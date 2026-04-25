@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 18
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Presentation House Theatre | Dil Ka by Playwright Lee Nisar | MAR 21-31st | MAR 21"
 ---
 

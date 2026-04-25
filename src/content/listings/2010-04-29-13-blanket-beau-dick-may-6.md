@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 13
 type: ""
+venue: "BLANKET"
 summary: "BLANKET | Beau Dick | MAY 6"
 ---
 
 Beau Dick
 Pookwis
-May 6th Ã¢ï¿½ï¿½ June 27th, 2010
+May 6th â�� June 27th, 2010
 
 Opening Reception Thursday May 6th 6-9pm
 Artist in Attendance

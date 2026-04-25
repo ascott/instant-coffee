@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Charlotte Yao | MAY 24"
 ---
 

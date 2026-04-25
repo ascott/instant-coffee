@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 4
 type: ""
+venue: "grunt"
 summary: "grunt | Claude Perreault | JAN 9"
 ---
 

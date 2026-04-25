@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 26
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | applause @ sunset - Kate Moss | APR 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 19
 type: "EVENT"
+venue: "Edmonds Park"
 summary: "Edmonds Park | FLEET: League Creative Play Day | 2PM | AUG 11"
 ---
 

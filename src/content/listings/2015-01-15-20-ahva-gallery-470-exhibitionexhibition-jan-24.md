@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 20
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | 470 Exhibition/Exhibition | JAN 24"
 ---
 
@@ -15,9 +16,9 @@ November 26, 2014 to January 24, 2015
 Closing Reception: Wednesday, January 21, 2015 5 to 7pm
 
 The 470 Exhibition/Exhibition is four (4) collaborative works based on the
-organization and curation of a fictional exhibition. The â€˜exhibitionsâ€™ will
+organization and curation of a fictional exhibition. The ‘exhibitions’ will
 be created by teams of students in the 470 Special Topics class who will
-conceive of a â€˜possible exhibitionâ€™ that they would like to see realized.
+conceive of a ‘possible exhibition’ that they would like to see realized.
 The exhibition concepts can range from solo show, historical, contemporary,
 group, Biennale or whatever the curators decide. Although much of the
 research will be done outside of the gallery, the gallery will function as
@@ -33,8 +34,8 @@ the 14th of January. The finished work will be up during the remainder of
 the exhibition period with a closing celebration on the 21st of January, 2015.
 
 ARTISTS:
-Group 1 â€“ Leah French, Sia Young, Romy Sank, Kristen Underwood
-Group 2 Vanessa Grondin, Nick Loewen, Patrick Oâ€™Neill, Shiori Harada
+Group 1 – Leah French, Sia Young, Romy Sank, Kristen Underwood
+Group 2 Vanessa Grondin, Nick Loewen, Patrick O’Neill, Shiori Harada
 Group 3 Sarah Delaney, Zoya Mirzaghitova, Rebecca Ou
 Group 4 Jack Chiu, Angela Ko, Janna Kumi, Sherman Yik
 AHVA Gallery hours: Tuesday to Saturday, 12 - 4 pm

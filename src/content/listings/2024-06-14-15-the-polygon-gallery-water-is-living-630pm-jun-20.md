@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 15
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Water is Living | 6:30PM | JUN 20"
 ---
 

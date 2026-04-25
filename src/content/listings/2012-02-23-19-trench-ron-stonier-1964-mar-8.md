@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 19
 type: ""
+venue: "TRENCH"
 summary: "TRENCH | Ron Stonier: â€œ1964â€  | MAR 8"
 ---
 
@@ -34,10 +35,10 @@ was bright.
 It is against this historic backdrop that Trench Contemporary Art 
 launches its first in depth look into a specific period of Vancouver 
 Painter Ron Stoniers artistic legacy. Consisting of 12-16 small works on 
-panel (never before exhibited) and 5 larger canvasâ€™s, this exhibition 
-examines Stonierâ€™s progress as the young artist moves away from 
+panel (never before exhibited) and 5 larger canvas’s, this exhibition 
+examines Stonier’s progress as the young artist moves away from 
 abstract expressionism toward his post painterly works of the mid to 
-late 1960â€™s.
+late 1960’s.
 
 Working in this smaller format, Stonier executed ideas quickly and 
 easily, exploring composition, colour, structure, line and form in a 
@@ -54,7 +55,7 @@ evoking a sense of a spiritual or inner perspective of the landscape
 rather than that of the more conventional external and epic one so 
 often found in Canadian painting.
 
-Ron Stonier continued to paint through the 1960â€™s right up until his 
+Ron Stonier continued to paint through the 1960’s right up until his 
 untimely death in 2001.
 
 Trench Contemporary Art is located at 102, 148 Alexander Street, 

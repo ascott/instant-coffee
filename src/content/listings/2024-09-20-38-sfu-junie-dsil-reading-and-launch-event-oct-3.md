@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 38
 type: "EVENT"
+venue: "SFU"
 summary: "SFU | Junie Désil Reading and Launch Event | OCT 3"
 ---
 

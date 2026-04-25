@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 14
 type: ""
+venue: "Canadian Art Foundation"
 summary: "Canadian Art Foundation | Gallery Hop Vancouver | APR 30"
 ---
 

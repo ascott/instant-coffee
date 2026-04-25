@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 23
 type: ""
+venue: "JOB"
 summary: "JOB | Kamloops Art Gallery | Assistant Preparator | JUL 31"
 ---
 

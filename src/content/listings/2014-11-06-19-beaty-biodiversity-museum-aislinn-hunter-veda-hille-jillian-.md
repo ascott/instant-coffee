@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 19
 type: ""
+venue: "Beaty Biodiversity Museum"
 summary: "Beaty Biodiversity Museum | Aislinn Hunter, Veda Hille, & Jillian Povarchook | NOV 14"
 ---
 

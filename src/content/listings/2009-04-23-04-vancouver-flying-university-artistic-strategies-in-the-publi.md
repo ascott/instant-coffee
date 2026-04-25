@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 4
 type: ""
+venue: "Vancouver Flying University"
 summary: "Vancouver Flying University | Artistic Strategies in the Public Sphere | APR 24"
 ---
 

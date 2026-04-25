@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 11
 type: ""
+venue: "UBC: Architecture & Landscape Architecture"
 summary: "UBC: Architecture & Landscape Architecture | Winter 2010 Graduation Thesis Exhibition | FEB 5"
 ---
 

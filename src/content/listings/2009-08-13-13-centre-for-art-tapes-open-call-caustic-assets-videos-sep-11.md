@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: expect some mess and try to relax"
 emailDate: "Thu, 13 Aug 2009 09:50:12 -0700"
 number: 13
 type: ""
+venue: "Centre for Art Tapes"
 summary: "Centre for Art Tapes | Open Call: Caustic Assets videos | SEP 11"
 ---
 

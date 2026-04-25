@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 24
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Deborah Leigh: Welcome to My World | FEB 1"
 ---
 

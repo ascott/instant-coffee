@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 3
 type: "PERFORMANCE"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Inner Sublimity"
 ---
 

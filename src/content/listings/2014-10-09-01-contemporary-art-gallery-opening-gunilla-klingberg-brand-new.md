@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: west winds of loss"
 emailDate: "Thu, 09 Oct 2014 11:55:48 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery: opening"
 summary: "Contemporary Art Gallery: opening | Gunilla Klingberg - Brand New View | OCT 9"
 ---
 

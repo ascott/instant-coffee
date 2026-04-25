@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 1
 type: ""
+venue: "ECU: Interdisciplinary Forums"
 summary: "ECU: Interdisciplinary Forums | Durwin Talon, Words and Pictures: Type and Design | MAR 3"
 ---
 

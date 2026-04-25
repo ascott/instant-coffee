@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 23
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Every Little Bit Hurts | SEP 10"
 ---
 
@@ -20,7 +21,7 @@ Gallery Hours: Tuesday-Saturday 12-5pm
 When we touch something, what do we know of it? What can we learn
 about one another, about ourselves, through such proximities?
 Included in this exhibition are sculptures made of clay, others made of
-plaster, and a 16mm film. These are hard and static objectsâ€“born out of
+plaster, and a 16mm film. These are hard and static objects–born out of
 closeness, out of presence and absence. Somewhere there is a
 residue. Every Little Bit Hurts reflects on embodiment, response and
 how forms contain relationships.
@@ -47,7 +48,7 @@ with themselves and society. Recent projects include Unlearning
 Walking Club (Unit Pitt, Vancouver), Unlearning Weekenders (<rotor>,
 Graz, Goethe Satellite, Vancouver), Soft/Union (The Apartment,
 Vancouver), Eat Talk Connect (City of Richmond) and
-Ãœberlebenskuns.klub (Haus der Kulturen der Welt, Berlin). She
+Überlebenskuns.klub (Haus der Kulturen der Welt, Berlin). She
 completed a Masters in Public Art at the Bauhaus University Weimar,
 specializing in community engagement and participatory strategies,
 and co-founded theProcess Institute, an artist collective based in
@@ -73,6 +74,6 @@ past year she has been in a working mentorship with Vancouver-based
 interdisciplinary artist LAIWAN, supported by the British Columbia Arts
 Council.
 
-Zoe Kreyeâ€™s project co-presented by Live Biennale.
+Zoe Kreye’s project co-presented by Live Biennale.
 
 For more information, please visit front.bc.ca

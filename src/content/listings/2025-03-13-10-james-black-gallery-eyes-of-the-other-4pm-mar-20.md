@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 10
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Eyes of the Other | 4PM | MAR 20"
 ---
 

@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 12
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Screening: Jozef Robakowski | JAN 28"
 ---
 
 Contemporary Art Gallery
 Vancouver, BC	
 
-Free Film Screening: JÃ³zef Robakowski 
+Free Film Screening: Józef Robakowski 
 
 Film Screening
 
-JÃ³zef Robakowski
+Józef Robakowski
 My Own Cinema
 January 28, 2013, 7pm
 Duration: 70 minutes
@@ -31,7 +32,7 @@ Performing Arts Festival,
 and supported by
 The Cinematheque.
 
-JÃ³zef Robakowski is a pioneer of independent Polish film. From the early 
+Józef Robakowski is a pioneer of independent Polish film. From the early 
 1970s he interrogated the language, material and mechanics of film, 
 combined with a long-standing interest in conceptualist avant-garde traditions 
 filtered through an insistence on authenticity and personal identity.

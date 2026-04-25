@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 5
 type: ""
+venue: "221A"
 summary: "221A | The Space of Observation | JAN 27"
 ---
 
 http://221a.ca/the-space-of-observation
 
-Exhibition: Jan 28 â€“ Feb 26, 2012
+Exhibition: Jan 28 – Feb 26, 2012
 Artist Talk: 2:00pm, Jan 28
 Opening Reception: 8:00pm, Jan 27
 
@@ -18,7 +19,7 @@ Observation,
 a new project by Richard Ibghy & Marilou Lemmens that investigates 
 the
 linkages between two different types of observational spaces: the
-photographic space of boxersâ€™ portraits, where the prizefighter crafts
+photographic space of boxers’ portraits, where the prizefighter crafts
 a unique persona, and the Cartesian space of economic graphs, where
 statistical data is plotted to derive mathematical functions.
 
@@ -31,7 +32,7 @@ by the demand for coal, led to the rapid development of Wales and
 other mining regions.
 
 With sources that range from British statistician and economist
-William Stanley Jevonsâ€™ first attempts at plotting statistical data
+William Stanley Jevons’ first attempts at plotting statistical data
 onto a Cartesian coordinate system, to archival photographs of Welsh
 working-class boxing heroes, Ibghy & Lemmens simultaneously 
 highlight
@@ -50,7 +51,7 @@ as a site of human invention and intervention.
 ---
 
 Working collaboratively since 2002, Richard Ibghy and Marilou 
-Lemmensâ€™
+Lemmens’
 practice explores questions of economics on a human scale, bridging
 notions of cultural value and economic theory with the complexities
 and underlying armatures of economic behaviour. In recent years the
@@ -60,12 +61,12 @@ for cultural questions in a late-Capitalist era. Their work has been
 presented at galleries and institutions including Richmond Art
 Gallery, Richmond; Labor K1, Berlin; Galleria Alkovi, Helsinki; Morris
 and Helen Belkin Art Gallery, Vancouver; VU, Quebec City; Owens Art
-Gallery, Sackville; European Media Art Festival, OsnabrÃ¼ck and TrafÃ³,
+Gallery, Sackville; European Media Art Festival, Osnabrück and Trafó,
 House of Contemporary Arts, Budapest. Most recently, they have
 presented their work at the 10th Sharjah Biennial, UAE. The artists
 currently live and work in Montreal.
 
-This project is organized by Mandy Ginson as part of 221Aâ€™s curatorial
+This project is organized by Mandy Ginson as part of 221A’s curatorial
 residency programme. Ginson lives and works in Vancouver where she
 produces writing and curatorial projects and works part-time as a
 Curatorial Administrative Assistant at the Vancouver Art Gallery. She

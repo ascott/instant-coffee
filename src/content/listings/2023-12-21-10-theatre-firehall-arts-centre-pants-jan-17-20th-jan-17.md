@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 10
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Firehall Arts Centre | PANTS | JAN 17-20th | JAN 17"
 ---
 

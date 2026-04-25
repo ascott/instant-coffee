@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 18
 type: "CALL"
+venue: "Burnaby Public Art"
 summary: "Burnaby Public Art | Artists Call to Host Nations | MAR 3"
 ---
 

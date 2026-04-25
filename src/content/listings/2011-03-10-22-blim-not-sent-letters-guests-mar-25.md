@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 22
 type: ""
+venue: "BLIM"
 summary: "BLIM | Not Sent Letters & Guests | MAR 25"
 ---
 
@@ -45,7 +46,7 @@ time) screens a new digital short entitled The Tree.
 
 JIN-ME YOON (an artist and educator exploring historical and cultural
 memory) presents a new single-channel video excerpted from a larger
-multi-media installation in progress, produced at the ZÃ³calo, Mexico City.
+multi-media installation in progress, produced at the Zócalo, Mexico City.
 
 ANDREW SHORT, HAROLD DONNELLY & JEREMY TODD screen Barricades: The Movie, a
 montaged conflation of post-war countercultural disillusionment,

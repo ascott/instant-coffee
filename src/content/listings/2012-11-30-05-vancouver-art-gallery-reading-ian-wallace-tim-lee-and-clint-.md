@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 5
 type: "TALK"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Reading Ian Wallace: Tim Lee and Clint Burnham | DEC 4"
 ---
 
@@ -11,7 +12,7 @@ Reading Ian Wallace
 The Vancouver Art Gallery is pleased to present a series of talks and lectures 
 alongside the landmark exhibition Ian Wallace: At the Intersection of Painting 
 and Photography. This Tuesday evening, artist Tim Lee and writer Clint 
-Burnham will speak on Wallaceâ€™s At Work series, and its influence on their 
+Burnham will speak on Wallace’s At Work series, and its influence on their 
 own thinking and practice.
 Free with gallery admission.
 

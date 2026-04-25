@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 3
 type: "OPENING"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | HOME AND AWAY: IAN WALLACE | 6PM | MAR 12"
 ---
 

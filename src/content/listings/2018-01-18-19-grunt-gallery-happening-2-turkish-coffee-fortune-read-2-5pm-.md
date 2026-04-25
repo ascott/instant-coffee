@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 19
 type: "EVENT"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Happening #2: Turkish coffee fortune read | 2-5PM | JAN 20"
 ---
 

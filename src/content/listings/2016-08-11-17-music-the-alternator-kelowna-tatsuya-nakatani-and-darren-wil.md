@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 17
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Alternator (Kelowna) | Tatsuya Nakatani and Darren Williams | AUG 18"
 ---
 

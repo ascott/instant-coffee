@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 32
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | George Wainborn Park | Udlot Udlot | 4PM | MAY 4"
 ---
 

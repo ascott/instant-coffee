@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: and that is it"
 emailDate: "Thu, 02 Jul 2015 11:25:48 -0700"
 number: 5
 type: "EVENT"
+venue: "The Flats"
 summary: "The Flats | The Flats Block Party | JUL 11"
 ---
 
-The Flats, Vancouverâ€™s premier contemporary art district, is throwing its
+The Flats, Vancouver’s premier contemporary art district, is throwing its
 third annual block party this Saturday, July 11th.
 
 Renowned local galleries Burrard Arts Foundation, Equinox Gallery, Macaulay
 Fine Art, Monte Clark Gallery, and Winsor Gallery will play host to crowds
 of local collectors and art-goers as exhibitions are launched, artist talks
 are given, treats by Beta5 Chocolates are served, and the city is brought
-together to celebrate the districtâ€™s growth and success as a cultural
-cornerstone. The dayâ€™s events will conclude with a party at newly-opened
+together to celebrate the district’s growth and success as a cultural
+cornerstone. The day’s events will conclude with a party at newly-opened
 Red Truck Brewery featuring The Trews, No Sinner, Rich Hope, and the Ice
 Cream Social DJs.
 
@@ -27,7 +28,7 @@ Zambrano, Jeff Hallbauer, Simone Jarvis, and Zoe Hodgson.
 multidisciplinary artist Sonny Assu. Assu will speak about his work at 1:00pm.
 
 + Monte Clark Gallery opens a two-person exhibition by Garry Winogrand with
-Larry Clark, titled â€œWomen are better than men. Not only have they
+Larry Clark, titled “Women are better than men. Not only have they
 survived, they do prevail.â€ 
 
 + Macaulay Fine Art exhibits paintings by Attila Richard Lukacs and
@@ -52,9 +53,9 @@ About the Flats
 Initially a network of creeks and marshland, The Flats played a vital role
 as an industrial centre as Vancouver grew from a quaint frontier town to a
 bustling city. Still crisscrossed by the railways that spurred on its
-development, The Flats is now Vancouverâ€™s hottest art district: a
+development, The Flats is now Vancouver’s hottest art district: a
 burgeoning industrial neighbourhood that has recently become home to more
-than 15 of the cityâ€™s most prestigious, experimental, and critically
+than 15 of the city’s most prestigious, experimental, and critically
 acclaimed contemporary art galleries.
 
 To learn more about The Flats, please visit facebook.com/theflatsvancouver

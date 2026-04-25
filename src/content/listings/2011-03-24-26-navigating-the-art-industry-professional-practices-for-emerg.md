@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 26
 type: ""
+venue: "Navigating the Art Industry"
 summary: "Navigating the Art Industry | Professional Practices for Emerging Artists | APR 26"
 ---
 
@@ -25,13 +26,13 @@ introductory version, combining theory, industry experience and practical
 resources for marketing oneself in the arts.
 
 Some topics include:
-â€¢ Presentation (portfolio, application letters, CVs, submissions, proposals)
-â€¢ Approaching the Vancouver market (gallery profiles and descriptions)
-â€¢ Alternative exhibition options (juried exhibitions, non-profit art
+• Presentation (portfolio, application letters, CVs, submissions, proposals)
+• Approaching the Vancouver market (gallery profiles and descriptions)
+• Alternative exhibition options (juried exhibitions, non-profit art
 spaces, group shows)
-â€¢ Commercial gallery procedures and guidelines (payment, contracts,
-shipping, framing) â€¢ Promotional Development (publications, websites,
-press releases, biographies) â€¢ Professional arts practices (pricing,
+• Commercial gallery procedures and guidelines (payment, contracts,
+shipping, framing) • Promotional Development (publications, websites,
+press releases, biographies) • Professional arts practices (pricing,
 documentation, editions, reproductions) 
 
 In addition, participants will have the opportunity to network with other

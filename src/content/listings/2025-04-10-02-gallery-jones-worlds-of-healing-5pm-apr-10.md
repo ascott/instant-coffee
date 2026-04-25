@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 2
 type: "OPENING"
+venue: "Gallery Jones"
 summary: "Gallery Jones | Worlds of Healing | 5PM | APR 10"
 ---
 

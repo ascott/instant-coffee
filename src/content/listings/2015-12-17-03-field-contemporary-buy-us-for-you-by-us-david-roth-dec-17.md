@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fashionable innovation"
 emailDate: "Thu, 17 Dec 2015 13:00:31 -0800"
 number: 3
 type: "OPENING"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Buy Us, For You, By Us - David Roth | DEC 17"
 ---
 

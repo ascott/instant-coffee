@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 17
 type: "CALL"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Christ Church Cathedral exhibition​ | FEB 1"
 ---
 

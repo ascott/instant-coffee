@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 40
 type: "CALL"
+venue: "Surrey 2016 Cultural Grants"
 summary: "Surrey 2016 Cultural Grants | Expression of Interest Forms | OCT 2"
 ---
 
@@ -16,13 +17,13 @@ may apply for Capacity Building, Project, or Cultural Sustainability grants.
 
 Upcoming Key Dates for 2016 Cultural Grants:
 
-Friday, October 2 â€“ Expression of Interest forms due (on Friday, October 9
+Friday, October 2 – Expression of Interest forms due (on Friday, October 9
 all eligible applicants will be emailed an Application form and invited to
 the Application Information Session)
-Tuesday, October 20 â€“ Application Information Session for eligible applicants
-Tuesday, November 3 â€“ One-to-One Application Mentoring Sessions for
+Tuesday, October 20 – Application Information Session for eligible applicants
+Tuesday, November 3 – One-to-One Application Mentoring Sessions for
 eligible applicants
-Thursday, November 12 â€“ Cultural Grant applications due
+Thursday, November 12 – Cultural Grant applications due
 
 The vision of the Cultural Grants Program is to support and enhance arts
 and heritage in Surrey through building organizational capability and

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 35
 type: ""
+venue: "SFU Woodward's"
 summary: "SFU Woodward's | upcoming Cultural Programs: | SEP 25"
 ---
 
@@ -52,9 +53,9 @@ sapphires
 
 THEATRE
 
-â€˜MARCEL DUCHAMPâ€™ A show by Guillaume DÃ©sanges & FrÃ©dÃ©ric Cherboeuf. 
+‘MARCEL DUCHAMP’ A show by Guillaume Désanges & Frédéric Cherboeuf. 
 Co-presented by LIVE Biennale and SFU Woodwards Cultural Program with 
-the generous support of Consulat gÃ©nÃ©ral de France Ã¥ Vancouver
+the generous support of Consulat général de France å Vancouver
 Sunday, September 22, 2013 | 7:30 PM. Tickets: $25 general | $20 
 student/seniors.
 SFU's Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca
@@ -93,7 +94,7 @@ english-writer-in-residence-inaugural-reading-by-made
 
 CABARET - Music, Theatre, Dance, Comedy
 
-Urban Conspiracy 2: Itâ€™s the Economy, Stupid! CBC Debaters Charlie Demers 
+Urban Conspiracy 2: It’s the Economy, Stupid! CBC Debaters Charlie Demers 
 and Richard Side host a cabaret of theatre, music, and diabolical dialogue as 
 they unpack themes of wealth creation, social equity and protection of the 
 environment. Friday, October 4, 2013 | 7:30 pm

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 39
 type: "CALL"
+venue: "University of Manitoba"
 summary: "University of Manitoba | Indigenous Designer in Residence | MAY 15"
 ---
 

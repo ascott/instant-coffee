@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 29
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Nee’ Shah | Our House | CLOSING FEB 1 | FEB 1"
 ---
 

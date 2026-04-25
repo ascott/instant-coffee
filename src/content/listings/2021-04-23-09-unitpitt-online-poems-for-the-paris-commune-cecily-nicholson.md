@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 9
 type: "EVENT"
+venue: "UNIT/PITT [ONLINE]"
 summary: "UNIT/PITT [ONLINE] | Poems for the Paris Commune: Cecily Nicholson, Mer | APR 22"
 ---
 

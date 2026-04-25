@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 9
 type: "OPENING"
+venue: "Evergreen Cultural Centre"
 summary: "Evergreen Cultural Centre | Emerging Creators Incubator Pop-Up Showcase | JUL 25"
 ---
 

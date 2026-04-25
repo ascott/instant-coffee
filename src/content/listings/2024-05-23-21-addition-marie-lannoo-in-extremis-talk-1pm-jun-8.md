@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 21
 type: "OPENING"
+venue: "ADDITION"
 summary: "ADDITION | MARIE LANNOO \"In Extremis\" & TALK | 1PM | JUN 8"
 ---
 

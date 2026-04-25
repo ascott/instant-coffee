@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 3
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | 25 | NOV 23"
 ---
 

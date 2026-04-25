@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 17
 type: "CALL"
+venue: "Perpendicular Play Vol. 2"
 summary: "Perpendicular Play Vol. 2 | Call for Submissions: Wash Your Bowl | DEC 31"
 ---
 

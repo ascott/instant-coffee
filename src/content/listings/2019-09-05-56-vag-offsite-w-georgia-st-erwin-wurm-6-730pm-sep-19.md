@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 56
 type: "OPENING"
+venue: "VAG - Offsite W Georgia St"
 summary: "VAG - Offsite W Georgia St | Erwin Wurm | 6-730PM | SEP 19"
 ---
 

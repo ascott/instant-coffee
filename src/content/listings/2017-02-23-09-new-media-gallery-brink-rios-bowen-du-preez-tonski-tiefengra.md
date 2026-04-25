@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 9
 type: ""
+venue: "New Media Gallery"
 summary: "New Media Gallery | BRINK: Rios, Bowen, du Preez, Tonski, Tiefengraber | FEB 24"
 ---
 

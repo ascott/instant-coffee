@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 18
 type: ""
+venue: "CAG and Cinematheque"
 summary: "CAG and Cinematheque | Nancy Holt: selected Film Works | JUN 10"
 ---
 

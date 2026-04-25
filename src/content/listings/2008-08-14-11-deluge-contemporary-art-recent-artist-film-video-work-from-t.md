@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: much to everyone's surprise by pop
 emailDate: "Thu, 14 Aug 2008 00:00:23 -0700"
 number: 11
 type: ""
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | recent artist film & video work from the UK"
 ---
 

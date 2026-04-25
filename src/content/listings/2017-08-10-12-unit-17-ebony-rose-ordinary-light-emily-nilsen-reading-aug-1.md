@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 12
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | EBONY ROSE - Ordinary Light + Emily Nilsen Reading | AUG 12"
 ---
 

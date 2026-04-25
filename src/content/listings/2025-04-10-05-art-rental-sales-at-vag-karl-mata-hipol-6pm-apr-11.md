@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 5
 type: "TALK"
+venue: "Art Rental & Sales at VAG"
 summary: "Art Rental & Sales at VAG | Karl Mata Hipol | 6PM | APR 11"
 ---
 

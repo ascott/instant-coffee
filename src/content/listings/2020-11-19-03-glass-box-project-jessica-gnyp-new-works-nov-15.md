@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Glass Box Project"
 summary: "Glass Box Project | Jessica Gnyp, new works | NOV 15"
 ---
 

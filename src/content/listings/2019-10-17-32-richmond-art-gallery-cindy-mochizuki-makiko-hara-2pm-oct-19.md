@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 32
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Cindy Mochizuki & Makiko Hara | 2PM | OCT 19"
 ---
 

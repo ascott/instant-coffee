@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why do good things happen to bad p
 emailDate: "Thu, 14 Oct 2010 11:55:39 -0700"
 number: 17
 type: ""
+venue: "The Morris and Helen Belkin Art Gallery"
 summary: "The Morris and Helen Belkin Art Gallery | Mark Boulos | till | DEC 5"
 ---
 

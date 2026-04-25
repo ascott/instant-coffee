@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 3
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | What is Pressure? What is Temperature? | AUG 3"
 ---
 

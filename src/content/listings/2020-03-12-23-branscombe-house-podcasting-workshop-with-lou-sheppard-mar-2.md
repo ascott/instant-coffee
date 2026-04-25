@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 23
 type: "EDUCATION"
+venue: "Branscombe House"
 summary: "Branscombe House | Podcasting Workshop with Lou Sheppard | MAR 21"
 ---
 

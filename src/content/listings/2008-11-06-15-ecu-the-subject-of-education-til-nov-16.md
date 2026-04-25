@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 15
 type: "EXHIBITION"
+venue: "ECU"
 summary: "ECU | \"The Subject of Education\" | til | NOV 16"
 ---
 
@@ -46,7 +47,7 @@ relationship between institutional and non-institutional forms of education
 and of the active participants in, or subjects of, education. Following
 with historical examples such as Robert Filliou's Teaching and Learning as
 Performing Arts, and Ian Wallace's The Idea of University, in addition to
-more recent works such as Kristina Lee PodesvaÃ¢ï¿½ï¿½s Colourschool project, the
+more recent works such as Kristina Lee Podesvaâ��s Colourschool project, the
 works in this exhibition simultaneously critique and extol the educational
 process.
 

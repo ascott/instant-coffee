@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffeed"
 emailDate: "Thu, 07 Feb 2008 09:20:25 -0800"
 number: 3
 type: ""
+venue: "PYRAMID POWER 4"
 summary: "PYRAMID POWER 4 | PARTY 4 | FEB 8"
 ---
 

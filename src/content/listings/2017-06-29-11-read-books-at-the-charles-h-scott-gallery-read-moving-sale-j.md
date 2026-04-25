@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 11
 type: "EVENT"
+venue: "READ Books at the Charles H. Scott Gallery"
 summary: "READ Books at the Charles H. Scott Gallery | READ MOVING SALE | JUL 4"
 ---
 

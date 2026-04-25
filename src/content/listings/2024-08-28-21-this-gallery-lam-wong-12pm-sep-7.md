@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Middle Grey Paint"
 emailDate: "Tue, 27 Aug 2024 23:25:31 -0700"
 number: 21
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Lam Wong | 12PM | SEP 7"
 ---
 

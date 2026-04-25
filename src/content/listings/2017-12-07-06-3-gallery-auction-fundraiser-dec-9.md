@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 6
 type: "EVENT"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Auction Fundraiser | DEC 9"
 ---
 

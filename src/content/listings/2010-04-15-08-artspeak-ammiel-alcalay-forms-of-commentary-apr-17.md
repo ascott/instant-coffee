@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 8
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | AMMIEL ALCALAY: Forms of Commentary | APR 17"
 ---
 
@@ -54,5 +55,5 @@ V6B 2J2 Canada
 info@artspeak.ca
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

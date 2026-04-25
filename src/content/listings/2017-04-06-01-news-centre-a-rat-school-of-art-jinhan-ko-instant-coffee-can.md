@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | Centre A & RAT school of ART | Jinhan Ko & Instant Coffee | Canada-Korea Exchange"
 ---
 

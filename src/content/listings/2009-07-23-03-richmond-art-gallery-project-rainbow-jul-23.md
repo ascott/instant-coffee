@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't be fooled"
 emailDate: "Thu, 23 Jul 2009 10:00:47 -0700"
 number: 3
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Project Rainbow | JUL 23"
 ---
 

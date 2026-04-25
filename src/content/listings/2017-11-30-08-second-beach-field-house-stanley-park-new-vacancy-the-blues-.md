@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 8
 type: "EVENT"
+venue: "Second Beach Field House, Stanley Park"
 summary: "Second Beach Field House, Stanley Park | New Vacancy: The Blues and Failed Paintings | DEC 1"
 ---
 

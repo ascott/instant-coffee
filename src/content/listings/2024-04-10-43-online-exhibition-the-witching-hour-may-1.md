@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 43
 type: "OPENING"
+venue: "Online Exhibition"
 summary: "Online Exhibition | The Witching Hour | MAY 1"
 ---
 

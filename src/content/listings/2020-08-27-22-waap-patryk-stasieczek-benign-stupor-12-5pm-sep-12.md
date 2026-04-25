@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 22
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Patryk Stasieczek: Benign Stupor | 12-5PM | SEP 12"
 ---
 

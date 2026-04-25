@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 21
 type: "OPENING"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | While We Wait | AUG 30"
 ---
 

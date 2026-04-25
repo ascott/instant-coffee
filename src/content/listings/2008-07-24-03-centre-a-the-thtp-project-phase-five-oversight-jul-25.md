@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: it doesn't have to be perfect to b
 emailDate: "Thu, 24 Jul 2008 08:10:06 -0700"
 number: 3
 type: ""
+venue: "Centre A"
 summary: "Centre A | The THTP Project / Phase Five / Oversight | JUL 25"
 ---
 

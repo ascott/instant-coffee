@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 11
 type: ""
+venue: "YAC TAC"
 summary: "YAC TAC | A Formal Idea | MAR 19"
 ---
 

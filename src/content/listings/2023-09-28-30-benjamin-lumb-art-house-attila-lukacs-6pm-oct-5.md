@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 30
 type: "OPENING"
+venue: "Benjamin Lumb Art House"
 summary: "Benjamin Lumb Art House | Attila Lukacs | 6PM | OCT 5"
 ---
 

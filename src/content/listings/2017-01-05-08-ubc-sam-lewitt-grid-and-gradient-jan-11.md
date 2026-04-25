@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 8
 type: "TALK"
+venue: "UBC"
 summary: "UBC | Sam Lewitt - Grid and Gradient | JAN 11"
 ---
 

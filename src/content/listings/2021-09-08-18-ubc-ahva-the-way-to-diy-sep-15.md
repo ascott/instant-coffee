@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 18
 type: "TALK"
+venue: "UBC AHVA"
 summary: "UBC AHVA | The Way to D.I.Y. | SEP 15"
 ---
 

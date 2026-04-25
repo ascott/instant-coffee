@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 28
 type: "CALL"
+venue: "Vancouver Park Board"
 summary: "Vancouver Park Board | Call for Submissions | MAR 15"
 ---
 

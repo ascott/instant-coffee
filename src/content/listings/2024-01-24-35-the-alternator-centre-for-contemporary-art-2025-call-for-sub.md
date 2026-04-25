@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 35
 type: "CALL"
+venue: "The Alternator Centre for Contemporary Art"
 summary: "The Alternator Centre for Contemporary Art | 2025 Call for Submissions | MAR 18"
 ---
 

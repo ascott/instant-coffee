@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fogbow"
 emailDate: "Thu, 27 Aug 2020 08:45:07 -0700"
 number: 13
 type: "CALL"
+venue: "Burnaby Arts Council"
 summary: "Burnaby Arts Council | Call for video submissions | AUG 31"
 ---
 

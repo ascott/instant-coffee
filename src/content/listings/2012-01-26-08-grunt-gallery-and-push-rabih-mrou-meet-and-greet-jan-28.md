@@ -4,35 +4,36 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 8
 type: ""
-summary: "grunt gallery and PUSH | Rabih MrouÃ©: Meet and Greet | JAN 28"
+venue: "grunt gallery and PUSH"
+summary: "grunt gallery and PUSH | Rabih Mroué: Meet and Greet | JAN 28"
 ---
 
-Rabih MrouÃ© Meet and Greet at grunt gallery 
+Rabih Mroué Meet and Greet at grunt gallery 
 
 Saturday January 28, 2012, 4-6pm 
 
 Grunt is partnering with the PuSh International Performing Arts Festival 
 and the Contemporary Art Gallery to present the work of Beirut based 
-artist Rabih MrouÃ©: 
+artist Rabih Mroué: 
 
 Looking for a Missing Employee 
 Performance at Roundhouse, Jan 26-28 8pm
 A thoughtful and provocative performance puzzle in which Lebanese 
-artist Rabih MrouÃ© follows the true story of a man who disappears from 
+artist Rabih Mroué follows the true story of a man who disappears from 
 his low-level post at the Ministry of Finance in Beirut, never to be seen 
 again. 
 
 The Pixelated Revolution
 Lecture-Performance at the Contemporary Art Gallery, Jan 24 8pm
-A lecture-performance Lebanese artist Rabih MrouÃ© about the usage 
+A lecture-performance Lebanese artist Rabih Mroué about the usage 
 of mobile phones during the Syrian revolution. 
 
 I first visited Lebanon in December of 2007 and was struck by the work 
-I saw there. Rabih MrouÃ©'s performances exist in a context of other 
+I saw there. Rabih Mroué's performances exist in a context of other 
 artists in his generation who came of age during the Civil War in 
 Lebanon during the 1980's and their work has a shared interest in 
 found photography and video as elements to be repurposed into story 
-telling. MrouÃ© Together Walid Raad of The Atlas Group, Akram Zaatar, 
+telling. Mroué Together Walid Raad of The Atlas Group, Akram Zaatar, 
 and the Arab Image Foundation, Lamia Joreige and many others an 
 interest in photography and video as media to explore the war and its 
 lingering effects on their society.
@@ -49,19 +50,19 @@ Through Vittorio I was able to meet a large range of artists in the
 community and we had the opportunity to visit Ashkal Alwan the 
 dynamic media centre in Beirut and it was there I viewed a video of the 
 performance Looking for a Missing Employee as well as other work by 
-Rabih MrouÃ©. I was immediately struck by how MrouÃ© was using the 
+Rabih Mroué. I was immediately struck by how Mroué was using the 
 found media and the liberties he took with the material. The work was 
 fresh, brazen and provocative in ways I had never seen before and 
 frankly haven't seen since.
 
-MrouÃ© wasn't in Lebanon at the time but we did have coffee with his 
+Mroué wasn't in Lebanon at the time but we did have coffee with his 
 wife and collaborator Lina Saneh whose work is fresh and exciting in its 
 own right and who I would love to see in an upcoming PuSh Festival. I 
 came back raving to Norman about their work.
 
 I returned to Lebanon in early 2008 for Ashkal Alwan's amazing 
 conference Homeworks 4 where I was able to take in "How Nancy 
-Wished that Everything Was an April Fool's Joke" MrouÃ©'s epic retelling 
+Wished that Everything Was an April Fool's Joke" Mroué's epic retelling 
 of the war through the myriad of factions that fought in it. The four 
 actors sat passively onstage as different posters of the different 
 factions of the Lebanese right and left flashed over their heads and 
@@ -69,11 +70,11 @@ they retold heroic tales of their deaths. The collective weight of the
 stories and the vitriolic retelling spoke to the futility of the conflict and 
 the lasting yet contradictory lessons that were taken from it.
 
-I still don't know how to categorize MrouÃ©'s work. As a refugee from 
+I still don't know how to categorize Mroué's work. As a refugee from 
 theatre who migrated to visual art and performance I have a hard time 
 placing exactly what he does. Theatre has always been a medium 
 based in storytelling for me, while performance takes its strength from 
-image making. But MrouÃ© is somewhere between the two. His use of 
+image making. But Mroué is somewhere between the two. His use of 
 found media to make meaning is fascinating and disturbing but perhaps 
 a fitting tribute to a war that left 300,000 dead and no one to atone for 
 any of those losses. This generation of artists takes its impetus from 
@@ -82,7 +83,7 @@ they take liberties with the truth it is only because the truth is impossible
 to discern within this constantly shifting political landscape where 
 deception and subterfuge go hand in hand.
 
-MrouÃ© tells us a story that will knock your socks off as he takes us 
+Mroué tells us a story that will knock your socks off as he takes us 
 places we have never been before. Don't miss it!
 
 Glenn Alteen

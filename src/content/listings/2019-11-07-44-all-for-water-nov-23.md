@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 44
 type: "CALL"
+venue: "All for Water"
 summary: "All for Water | NOV 23"
 ---
 

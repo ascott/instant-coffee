@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 16
 type: "CALL"
+venue: "Cineworks"
 summary: "Cineworks | Project-C | 5 min films | AUG 1"
 ---
 

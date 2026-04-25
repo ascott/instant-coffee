@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 2
 type: ""
+venue: "221A"
 summary: "221A | Lorna Macintyre and Zin Taylor | APR 3"
 ---
 

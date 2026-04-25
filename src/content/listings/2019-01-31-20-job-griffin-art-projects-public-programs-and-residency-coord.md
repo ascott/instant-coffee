@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 20
 type: ""
+venue: "JOB"
 summary: "JOB | Griffin Art Projects | Public Programs and Residency Coordinator | FEB 7"
 ---
 

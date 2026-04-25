@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 30
 type: "OPENING"
+venue: "DUPLEX"
 summary: "DUPLEX | Dog-Ear to the Left of the Centrefold | APR 26"
 ---
 

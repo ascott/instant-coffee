@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 28
 type: "OPENING"
+venue: "Ground Floor Art Center"
 summary: "Ground Floor Art Center | Nehiyaw Isko: Cheyenne Rain LeGrande | 8-11PM | APR 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 1
 type: ""
+venue: "ECU"
 summary: "ECU | On Edge readings | Cecily Nicholson, Proma Tagore, Ghia Aweida | OCT 4"
 ---
 

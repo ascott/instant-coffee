@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 21
 type: "OPENING"
+venue: "INDEX GALLERY"
 summary: "INDEX GALLERY | Susanna Browne + Monique Levesque | NOV 20"
 ---
 
@@ -18,7 +19,7 @@ Opening: November 20th @ 8pm
 Love is a projection, but it still deserves to be acknowledged. As you
 fall, stage your own desires: get a fantasy, make a Pinterest board, then
 have a dream wedding. Use the potency of symbols to devise your own
-yearnings, and donâ€™t settle for anything less.
+yearnings, and don’t settle for anything less.
 
 http://doesheworshipyou.weebly.com/
 

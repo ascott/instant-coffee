@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 15
 type: ""
+venue: "The Belkin Art Gallery"
 summary: "The Belkin Art Gallery | Marianne Nicolson Artist Talk & Catalogue Launch | MAR 25"
 ---
 

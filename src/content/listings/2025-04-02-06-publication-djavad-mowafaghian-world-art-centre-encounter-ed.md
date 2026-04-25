@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 6
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Djavad Mowafaghian World Art Centre | Encounter Educational Modernism | APR 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 33
 type: "CALL"
+venue: "Ar(n)t Write"
 summary: "Ar(n)t Write | call for submissions | JUN 1"
 ---
 

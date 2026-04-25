@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 21
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | Crossover | JUN 11"
 ---
 

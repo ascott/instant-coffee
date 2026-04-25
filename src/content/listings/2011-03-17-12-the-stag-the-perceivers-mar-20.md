@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 12
 type: ""
+venue: "The STAG"
 summary: "The STAG | The Perceivers | MAR 20"
 ---
 
@@ -55,7 +56,7 @@ Think Tank brings together Creators and a Public to engage in an
 interdisciplinary exchange of ideas, problem solving and mutual aid. A
 visiting presenter - perhaps an artist, an educator, a community organizer
 - meets with a room full of guests and poses a question, presents a work in
-progress, or reveals a particular challenge theyâ€™re facing in their work .
+progress, or reveals a particular challenge they’re facing in their work .
 By transforming a traditional â€œartist talkâ€  into a non-linear dialogical
 space, Think Tank hopes to reveal the potential resources to be found
 through transparency, questioning and communing with people both inside and

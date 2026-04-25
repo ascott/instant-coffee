@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: utopia has that sinking feeling"
 emailDate: "Thu, 08 May 2008 07:40:24 -0700"
 number: 16
 type: ""
+venue: "Pacific Cinematheque"
 summary: "Pacific Cinematheque | DAMP | MAY 14"
 ---
 

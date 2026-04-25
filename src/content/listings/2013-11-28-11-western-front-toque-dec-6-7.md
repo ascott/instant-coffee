@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 11
 type: ""
+venue: "Western Front"
 summary: "Western Front | TOQUE | DEC 6 & 7"
 ---
 

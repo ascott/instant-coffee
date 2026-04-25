@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 11
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Case Study: Vancouver Art Gallery and Protocols | FEB 21"
 ---
 

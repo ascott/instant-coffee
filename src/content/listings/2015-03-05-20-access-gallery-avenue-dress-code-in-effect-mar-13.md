@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 20
 type: "OPENING"
+venue: "Access Gallery & Avenue"
 summary: "Access Gallery & Avenue | Dress Code In Effect | MAR 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 29
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | DIM Cinema: Symbiopsychotaxiplasm | 7:30PM | JAN 24"
 ---
 

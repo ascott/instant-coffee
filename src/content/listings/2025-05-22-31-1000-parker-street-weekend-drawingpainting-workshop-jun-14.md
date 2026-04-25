@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 31
 type: "EDUCATION"
+venue: "1000 Parker Street"
 summary: "1000 Parker Street | WEEKEND Drawing/Painting Workshop | JUN 14"
 ---
 

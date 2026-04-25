@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 3
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | SAMMICHES | MAR 8"
 ---
 

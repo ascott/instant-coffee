@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) Instant Coffee: you must enter a Byline"
 emailDate: "Thu, 04 Sep 2008 09:20:55 -0700"
 number: 22
 type: ""
+venue: "SFU"
 summary: "SFU | Alison Norlen: Roller Coaster | SEP 13"
 ---
 
 Alison Norlen: Roller Coaster
-September 13 Â­ October 25, 2008
+September 13 ­ October 25, 2008
 SFU Gallery, Burnaby Campus
 
 Opening: Saturday September 13 from 3pm to 5pm
@@ -16,16 +17,16 @@ Opening: Saturday September 13 from 3pm to 5pm
 Artist Talk: Thursday September 11 at 7pm, Emily Carr University
 
 Anselm Kiefer meets Carol Wainio? The roller coaster of civilization is
-compressed into Alison NorlenÂ¹s dense, complex, and monumental drawings. SFU
-will show three of NorlenÂ¹s organically claustrophobic pictures that combine
+compressed into Alison Norlen¹s dense, complex, and monumental drawings. SFU
+will show three of Norlen¹s organically claustrophobic pictures that combine
 memories of places she has actually visited with images from postcards and
 other travel souvenirs.
 
-NorlenÂ¹s art is about the nature and seductiveness of built structures and
+Norlen¹s art is about the nature and seductiveness of built structures and
 the hidden beauty found in the sub-universe of themed entertainment zones,
 such as PNE-style amusement parks and shopping malls.
 
-This is NorlenÂ¹s first Vancouver exhibition. Her work is in the collections
+This is Norlen¹s first Vancouver exhibition. Her work is in the collections
 of the National Gallery of Canada, the Mackenzie Art Gallery, the
 Confederation Centre for the Arts, the Mendel Art Gallery, the Winnipeg Art
 Gallery and The Rooms (the Art Gallery of Newfoundland and Labrador).

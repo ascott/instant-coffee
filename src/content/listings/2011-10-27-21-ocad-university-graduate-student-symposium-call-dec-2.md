@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 21
 type: ""
+venue: "OCAD University"
 summary: "OCAD University | Graduate Student Symposium: CALL | DEC 2"
 ---
 
@@ -15,9 +16,9 @@ Symposium and Art Exhibition
 Theme: Art & Struggle
 
 Presented by the Contemporary Art, Design and New Media Art Histories
-Masterâ€™s Program at OCAD University, Toronto
+Master’s Program at OCAD University, Toronto
 
-March 8 â€“ 9 , 2012
+March 8 – 9 , 2012
 
 Paper Proposal & Artwork Submission Deadline: December 2, 2011
 
@@ -25,7 +26,7 @@ The term â€œstruggleâ€  contains both liberating and oppressive connotati
 resulting tension
 has long been considered an inherent aspect of art production. Struggle 
 manifests in various
-forms, whether political, cultural, economic, or personal. While the â€œstruggling 
+forms, whether political, cultural, economic, or personal. While the “struggling 
 artistâ€  has been
 a problematic art historical trope, this symposium seeks to revisit the issue of 
 struggle in an

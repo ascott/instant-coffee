@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "READ Books bookstore window"
 summary: "READ Books bookstore window | After Hours: Casey Wei's 69 Years in a Day | JAN 6"
 ---
 

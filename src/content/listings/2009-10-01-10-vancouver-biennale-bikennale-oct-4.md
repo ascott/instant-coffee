@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we like those knobbly claws"
 emailDate: "Thu, 01 Oct 2009 09:21:52 -0700"
 number: 10
 type: ""
+venue: "Vancouver Biennale"
 summary: "Vancouver Biennale | BIKEnnale | OCT 4"
 ---
 

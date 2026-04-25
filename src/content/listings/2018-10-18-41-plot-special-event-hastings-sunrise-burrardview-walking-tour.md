@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 41
 type: "EVENT"
+venue: "PLOT Special Event"
 summary: "PLOT Special Event | Hastings-Sunrise & Burrardview walking Tour | 1PM | OCT 27"
 ---
 

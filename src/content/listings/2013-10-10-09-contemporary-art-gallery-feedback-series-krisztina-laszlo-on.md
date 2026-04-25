@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 9
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Feedback Series: Krisztina Laszlo on Mike Nelson | OCT 17"
 ---
 

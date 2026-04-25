@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 17
 type: ""
+venue: "LANGARA COLLEGE"
 summary: "LANGARA COLLEGE | Liz Magor | APR 5"
 ---
 
@@ -31,7 +32,7 @@ Join us for our upcoming event, Visual Artist Talk: Liz Magor
 SPEAKER BIO
 
 Liz Magor is a Vancouver-based artist who studied at the University of 
-British Columbia, Vancouver; Parsonâ€™s School of Design, New York; 
+British Columbia, Vancouver; Parson’s School of Design, New York; 
 and Vancouver School of Art. Since the early 1970s, Magor has 
 produced numerous sculptural and photo-based works that have 
 sensitively addressed issues of place and refuge, creation and 
@@ -41,7 +42,7 @@ Montreal, and has also been included in a number of group exhibitions
 over the last 35 years including Take Me There Show Me the Way, 
 2008 Haunch of Venison, New York; Intertidal, 2005 MuHKA, Antwerp, 
 Belgium; Baja to Vancouver, 2004, Wattis Institute, San Francisco; and 
-Elusive Paradise 2001, National Gallery of Canada, Ottawa. Magorâ€™s 
+Elusive Paradise 2001, National Gallery of Canada, Ottawa. Magor’s 
 work has also been exhibited in such major international exhibitions as 
 Documental VIII (1987), Kassel; the 41st Venice Biennale, and the 4th 
 Biennale of Sydney. Magor has taught at Ontario College of Art and 

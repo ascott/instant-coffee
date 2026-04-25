@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 29
 type: "CALL"
+venue: "Public Art Project Municipal Hall"
 summary: "Public Art Project Municipal Hall | Call to Artists / Expression of Interest | SEP 27"
 ---
 

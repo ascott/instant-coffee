@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: only sweeping"
 emailDate: "Thu, 26 Mar 2015 14:20:00 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | People with Cameras and Laura Widmer | MAR 23"
 ---
 
@@ -15,9 +16,9 @@ Laura Widmer: Face to Face
 March 24 to June 8, 2015
 McGill Library
 
-The Burnaby Art Galleryâ€™s Offsite Exhibitions showcases artworks from
+The Burnaby Art Gallery’s Offsite Exhibitions showcases artworks from
 local, emerging, as well as nationally-known, established artists in the
-spaces of Burnabyâ€™s Public Libraries.
+spaces of Burnaby’s Public Libraries.
 From March to June 2015 the gallery is pleased to present:
 
 -People With Cameras
@@ -27,7 +28,7 @@ holdings of the City of Burnaby Archives, the photography collection of the
 Burnaby Village Museum, and the archives of the City of Burnaby Art
 Collection maintained by the Burnaby Art Gallery. Many of these photographs
 can be accessed through Heritage Burnaby, an initiative of the City of
-Burnabyâ€™s Community Heritage Commission.
+Burnaby’s Community Heritage Commission.
 
 The history of Burnaby runs roughly parallel to the history of photography,
 but it was not until 1900 when the Kodak Brownie Box roll-film camera was
@@ -36,7 +37,7 @@ activity that anyone could engage in. Many of the photographs in this
 exhibit show how quickly the taking of photographs became a leisure pursuit.
 
 This show is the fourth Burnaby Art Gallery Offsite Exhibition drawn from
-Heritage Burnabyâ€™s holdings. Previous exhibits include Greetings from
+Heritage Burnaby’s holdings. Previous exhibits include Greetings from
 Burnaby, an exhibition of Burnaby postcards, and an exhibition about the
 community that once existed on the site of what is now Barnet Marine Park.
 For this exhibit, gallery staff was assisted by City of Burnaby Archives
@@ -47,8 +48,8 @@ _
 
 Laura Widmer is an award winning Canadian printmaker based in Kelowna,
 British Columbia. Her work first came toour attention in 2010 when she
-received first prize for her entry in that yearâ€™s Open Studio National
-Printmaking Awards, Canadaâ€™s most prestigious award dedicated to
+received first prize for her entry in that year’s Open Studio National
+Printmaking Awards, Canada’s most prestigious award dedicated to
 printmaking. The winning work, entitled One of the Daves I Know, is
 included in this exhibit.
 
@@ -58,7 +59,7 @@ Widmer had a solo exhibition at the Penticton Art Gallery and last year she
 completed a residency at Banff. Her work has been shown across Canada and
 internationally.
 
-â€œMy work is a quiet act of defiance in a digital age. I wish to draw
+“My work is a quiet act of defiance in a digital age. I wish to draw
 attention to the tactile, sensual subtleties of our world at a time when
 the word â€œtouchâ€  frequently references a finger-swipe across a flat,
 rectangular screen. I use a deliberately physical process and emphasize the

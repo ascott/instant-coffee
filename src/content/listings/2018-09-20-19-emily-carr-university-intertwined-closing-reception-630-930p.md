@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 19
 type: "EVENT"
+venue: "Emily Carr University"
 summary: "Emily Carr University | INTERTWINED (Closing Reception) | 630-930PM | SEP 27"
 ---
 

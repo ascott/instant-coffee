@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 39
 type: "OPENING"
+venue: "Burnaby Arts Gallery"
 summary: "Burnaby Arts Gallery | Jeff Ladouceur: Pearl Path | 7-9PM | JUN 14"
 ---
 

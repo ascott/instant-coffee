@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 20
 type: "EVENT"
+venue: "2016 Prism Prize @ Vancity Theatre"
 summary: "2016 Prism Prize @ Vancity Theatre | Top 20 Best Canadian Music Video Awards | APR 11"
 ---
 

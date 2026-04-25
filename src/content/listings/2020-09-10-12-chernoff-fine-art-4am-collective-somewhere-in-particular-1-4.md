@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 12
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | 4AM Collective - Somewhere in Particular | 1-4PM | SEP 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 9
 type: ""
+venue: "Hardscrabble Gallery"
 summary: "Hardscrabble Gallery | Kim Kennedy Austin | MAY 25"
 ---
 
@@ -13,8 +14,8 @@ Kim Kennedy Austin: Sunny Thoughts & Busy Fingers
 May 26 - June 16, 2013
 Opening reception Saturday, May 25, 6 - 9 pm
 
-Kim Kennedy Austinâ€™s exhibition at Hardscrabble Gallery will consist of 
-12 new works on paper. These new watercolours continue Kimâ€™s 
+Kim Kennedy Austin’s exhibition at Hardscrabble Gallery will consist of 
+12 new works on paper. These new watercolours continue Kim’s 
 mixing of language and mark making, veering off the dusty road of 
 vintage paperbacks and onto the rabbit trail of formal, pithy aphorisms, 
 held in painted oval doilies with scalloped edges.
@@ -24,7 +25,7 @@ expands on the serial logic of maxims sourced from popular culture,
 traditionalist sects, youth literature and film. Works titled Hands to Work 
 & Heart to God, Fight Flight Avoidance Submission and Gym Tan 
 Laundry reflect the truths and rules of conduct expressed through 
-Shaker handiwork, Caesar Milanâ€™s dog whispering and the ethics of 
+Shaker handiwork, Caesar Milan’s dog whispering and the ethics of 
 Jersey Shore.
 
 Since receiving her BFA from the Emily Carr Institute in 2001, Kim 

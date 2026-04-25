@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Neighbour's Plate"
 emailDate: "Thu, 26 Nov 2020 09:10:12 -0800"
 number: 12
 type: "OPENING"
+venue: "Vicuña Art Studio"
 summary: "Vicuña Art Studio | Annual Winter Art Show [livestream] | NOV 27"
 ---
 

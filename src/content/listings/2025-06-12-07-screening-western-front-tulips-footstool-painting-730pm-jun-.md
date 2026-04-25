@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Western Front | Tulip(s), Footstool, Painting | 730PM | JUN 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 10
 type: "EDUCATION"
+venue: "ArtStarts in Schools"
 summary: "ArtStarts in Schools | Artists in the Classroom Mentorship Salon | MAY 5"
 ---
 

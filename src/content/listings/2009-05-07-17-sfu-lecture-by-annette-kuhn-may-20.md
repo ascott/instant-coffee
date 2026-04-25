@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: show us your jazz hands"
 emailDate: "Thu, 07 May 2009 09:10:15 -0700"
 number: 17
 type: ""
+venue: "SFU"
 summary: "SFU | Lecture by Annette Kuhn | MAY 20"
 ---
 

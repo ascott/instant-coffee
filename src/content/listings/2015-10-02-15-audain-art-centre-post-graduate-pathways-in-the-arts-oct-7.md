@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 15
 type: "TALK"
+venue: "Audain Art Centre"
 summary: "Audain Art Centre | Post-Graduate Pathways in the Arts | OCT 7"
 ---
 

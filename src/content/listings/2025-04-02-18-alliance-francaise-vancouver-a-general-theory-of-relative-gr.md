@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 18
 type: "OPENING"
+venue: "Alliance Francaise Vancouver"
 summary: "Alliance Francaise Vancouver | A General Theory of Relative Ground | APR 5"
 ---
 

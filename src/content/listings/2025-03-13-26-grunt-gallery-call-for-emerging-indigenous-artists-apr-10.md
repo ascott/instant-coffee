@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 26
 type: "CALL"
+venue: "grunt gallery"
 summary: "grunt gallery | Call for Emerging Indigenous Artists | APR 10"
 ---
 

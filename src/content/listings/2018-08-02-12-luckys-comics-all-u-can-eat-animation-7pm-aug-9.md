@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 12
 type: "EVENT"
+venue: "Lucky's Comics"
 summary: "Lucky's Comics | All U Can Eat Animation | 7PM | AUG 9"
 ---
 

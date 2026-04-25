@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 34
 type: "CALL"
+venue: "Exposure Photography Festival"
 summary: "Exposure Photography Festival | Open Call | OCT 4"
 ---
 

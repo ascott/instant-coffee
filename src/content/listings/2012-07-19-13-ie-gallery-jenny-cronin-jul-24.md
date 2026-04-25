@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 13
 type: ""
+venue: "ie gallery"
 summary: "ie gallery | Jenny Cronin | JUL 24"
 ---
 
 The Summer Residency continues at ie gallery!
-July Resident ï¿½ Jenny Cronin
+July Resident � Jenny Cronin
 
 Jenny Cronin
 July 1st - July 27th

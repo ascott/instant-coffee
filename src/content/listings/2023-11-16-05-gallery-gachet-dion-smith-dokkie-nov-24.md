@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 5
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | Dion Smith-Dokkie | NOV 24"
 ---
 

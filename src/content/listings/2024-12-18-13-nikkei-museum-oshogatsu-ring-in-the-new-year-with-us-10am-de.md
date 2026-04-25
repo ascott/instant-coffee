@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 13
 type: "EVENT"
+venue: "Nikkei Museum"
 summary: "Nikkei Museum | Oshogatsu: Ring in the New Year with Us! | 10AM | DEC 4"
 ---
 

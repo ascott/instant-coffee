@@ -4,24 +4,25 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 11
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | A Night of Poetry&Music for The Montreal Uprising | JUN 7"
 ---
 
 A Night of Poetry and Music for The Montreal Uprising
 
-Kootenay School of Writing and Rhizome CafÃ© present
+Kootenay School of Writing and Rhizome Café present
 
 A Night of Poetry and Music for The Montreal Uprising
-Friday June 8 @ Rhizome CafÃ© 317 E. Broadway
+Friday June 8 @ Rhizome Café 317 E. Broadway
 Vancouver, Unceded territories of the Musqueam, Squamish and Tsleil-
 Waututh people
 7pm sharp 
 
 As a writer's collective that was formed in 1984 in response to the 
 closure of accessible public education, KSW presents an evening of 
-poetry and music hosted by Rhizome CafÃ©, responding to the request 
+poetry and music hosted by Rhizome Café, responding to the request 
 for solidarity and support for the Legal Committee of the CLASSE, 
-whom the Montreal Gazette have dubbed â€œQuebecâ€™s most militant 
+whom the Montreal Gazette have dubbed “Quebec’s most militant 
 student groupâ€ .
 
 Featuring: The Vancouver Complaints Choir, Wayde Compton, Kim 
@@ -33,13 +34,13 @@ Danielle LaFrance, Patrick Morrison, Chris Ewart. And more!
 
 In their call for support. La Classe writes:
 
-â€œWe write you during a dark time for democratic, human and 
+“We write you during a dark time for democratic, human and 
 associative rights in Quebec with the following appeal for your help and 
 solidarity. As you have no doubt heard, the government recently 
 enacted legislation that amounts to the single biggest attack on the 
 right to organize and freedom of expression in North America since the 
 McCarthy period and the biggest attack on civil and democratic rights 
-since the enactment of the War Measures Act in 1970 [â€¦] While we 
+since the enactment of the War Measures Act in 1970 […] While we 
 fight, on principle, against this judicialization of a political conflict, we 
 have no choice but to acknowledge that the struggle on the streets has 
 been, for many, transferred to the courtroom and we must act to 
@@ -87,13 +88,13 @@ prohibitions is considered, legally, equivalent to having violated them
 and is equally punishable by these crippling fines.
 
 One cannot view this law in isolation. In the past few months, the 
-QuÃ©bec student movement - inspired by Occupy, the Indignados of 
+Québec student movement - inspired by Occupy, the Indignados of 
 Spain, the students of Chile, and over 50 years of student struggle in 
-QuÃ©bec; and presently at North America's forefront of fighting the 
+Québec; and presently at North America's forefront of fighting the 
 government's austerity agenda - has been confronted by precedent-
 shattering judicial and police repression in an attempt to force the end 
 of the strike and our right to organize collectively. Our strike was voted 
-and is re-voted every week in local general assemblies across QuÃ©bec. 
+and is re-voted every week in local general assemblies across Québec. 
 As of May 18th, 2012 our committee has documented and is supporting 
 472 criminal accusations as well as 1047 ticket and penal offenses. 
 One week in April saw over 600 arrests in three days. And those 
@@ -148,10 +149,10 @@ solidarity donations. We thank you for adding your organization's
 support to the list.
 
 If you have any questions, please contact us via email legal AT asse-
-solidaritÃ©.qc.ca. Telephone numbers can be given to you in a private 
+solidarité.qc.ca. Telephone numbers can be given to you in a private 
 message. You can also send you donation directly to the order of 
-"Association pour une solidaritÃ© syndicale Ã©tudiante" (2065 rue 
-Parthenais, Bureau 383, MontrÃ©al, QC, H2K 3T1)
+"Association pour une solidarité syndicale étudiante" (2065 rue 
+Parthenais, Bureau 383, Montréal, QC, H2K 3T1)
 
-The Kootenay School of Writing Â· 237 Keefer Â· Unit 245 Â· Vancouver, 
+The Kootenay School of Writing · 237 Keefer · Unit 245 · Vancouver, 
 BC V6A 1X6

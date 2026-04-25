@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 16
 type: "OPENING"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | A Generous Spirit: Highlights from the Permanen... | JUL 24"
 ---
 

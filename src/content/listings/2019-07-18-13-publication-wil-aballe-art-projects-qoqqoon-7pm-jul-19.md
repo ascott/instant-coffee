@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 13
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Wil Aballe Art Projects | QOQQOON | 7PM | JUL 19"
 ---
 

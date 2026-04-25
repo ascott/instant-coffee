@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "Atelier Presse Papier"
 summary: "Atelier Presse Papier | Madeline Mackay | APR 19"
 ---
 

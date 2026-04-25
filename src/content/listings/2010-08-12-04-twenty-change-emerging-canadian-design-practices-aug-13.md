@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feeling so much doing so little"
 emailDate: "Thu, 12 Aug 2010 11:15:08 -0700"
 number: 4
 type: ""
+venue: "TWENTY + CHANGE"
 summary: "TWENTY + CHANGE | Emerging Canadian Design Practices | AUG 13"
 ---
 
@@ -23,7 +24,7 @@ infrastructure, propose new models for public space and housing, and
 examine the unique relationship between the single-family house and landscape.
 
 The design practices include, 5468796 Architecture Inc., AGATHOM Co.,
-Altius Architecture Inc., Campos Leckie, Dâ€™Arcy Jones Design Inc.,
+Altius Architecture Inc., Campos Leckie, D’Arcy Jones Design Inc.,
 Dubbeldam Design Architects, EVOKE International Design Inc, Gow Hastings
 Architects Inc., Lapointe Architects, Lateral Office, Marko Simcic
 Architect, mcfarlane | green | biggar Architecture + Design, _naturehumaine

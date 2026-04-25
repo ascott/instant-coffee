@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 14
 type: "OPENING"
+venue: "AUDAIN GALLERY"
 summary: "AUDAIN GALLERY | Maura Doyle: Dear Universe | JAN 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hush"
 emailDate: "Wed, 24 Feb 2021 08:25:11 -0800"
 number: 8
 type: "TALK"
+venue: "[ONLINE] SFU"
 summary: "[ONLINE] SFU | Dylan Robinson: On Listening Positionality | 12PM | FEB 24"
 ---
 

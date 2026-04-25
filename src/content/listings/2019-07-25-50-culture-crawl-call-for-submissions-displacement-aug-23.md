@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 50
 type: "CALL"
+venue: "Culture Crawl"
 summary: "Culture Crawl | Call for Submissions - Displacement | AUG 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: there are two ICs in iconic"
 emailDate: "Thu, 09 Feb 2012 15:37:28 -0800"
 number: 21
 type: "CALL"
+venue: "San Francisco Art Institute"
 summary: "San Francisco Art Institute | IN DEPTH: Summer Undergraduate Residency Program | APR 1"
 ---
 
@@ -11,7 +12,7 @@ San Francisco Art Institute
 IN DEPTH: Summer Undergraduate Residency Program at the San 
 Francisco Art Institute (SFAI)
 
-June 18Â­â€“August 10, 2012
+June 18­–August 10, 2012
 
 Priority application deadline: April 1
 
@@ -71,7 +72,7 @@ application form and submission instructions.
 
 PROGRAM COST
 Tuition: 4,698 USD
-Housing (optional): 275â€“325 USD per week depending on room type 
+Housing (optional): 275–325 USD per week depending on room type 
 and availability
 
 2012 SEMINAR LEADERS
@@ -89,7 +90,7 @@ Rhea Anastas is an art historian and Interim Director of the M.A
 program in Art and Curatorial Practices in the Public Sphere at the 
 Roski School of Fine Arts at USC. She co-founded Orchard, a 
 cooperatively organized gallery on New York's Lower East Side, and 
-has edited three books: Dan Graham: Works 1965â€“2000 (2001), 
+has edited three books: Dan Graham: Works 1965–2000 (2001), 
 Witness to Her Art (2006), and Allan McCollum (2012).
 
 Bill Berkson is a poet, art critic, and Professor Emeritus at SFAI. A 
@@ -120,7 +121,7 @@ exhibited widely, including at SFMOMA and LACMA.
 
 Hans Winkler has realized actions and interventions in public space 
 since 1984. In 2008 he curated the exhibition Looking for Mushrooms, 
-about the art movement in San Francisco from 1955â€“1968, at the 
+about the art movement in San Francisco from 1955–1968, at the 
 Museum Ludwig in Cologne, Germany.
 
 Pamela Z is a composer/performer and media artist who combines a 
@@ -142,7 +143,7 @@ generation.
 
 22. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
-1100ftÂ² Art/Production Space for Rent (East Van)
+1100ft² Art/Production Space for Rent (East Van)
 
 
 Second floor of a warehouse, with high ceilings and mountain views, 
@@ -150,7 +151,7 @@ available for a month-to-month art/production studio. It's within the
 Culture Crawl boundary (Victoria Drive @ Franklin).
 This space would best suit professional working artists, wanting a 
 straightforward, quiet and mainly private workspace. The space is 
-adaptable and very secure. 1100ftÂ² includes 3 rooms with lockable 
+adaptable and very secure. 1100ft² includes 3 rooms with lockable 
 doors (2 small and one bigger), and two larger open spaces. A 
 ventilation room could be negotiated. Looking for someone who is not 
 using anything too toxic or too messy. Stair access only so it is not 

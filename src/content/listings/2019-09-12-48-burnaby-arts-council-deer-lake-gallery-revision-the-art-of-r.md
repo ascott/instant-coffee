@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 48
 type: "EDUCATION"
+venue: "Burnaby Arts Council"
 summary: "Burnaby Arts Council | Deer Lake Gallery | ReVision: the art of recycling | OCT 6"
 ---
 

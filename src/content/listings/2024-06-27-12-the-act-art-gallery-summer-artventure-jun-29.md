@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Deckchair Cinema"
 emailDate: "Thu, 27 Jun 2024 10:00:09 -0700"
 number: 12
 type: "OPENING"
+venue: "The ACT Art Gallery"
 summary: "The ACT Art Gallery | Summer ARTventure | JUN 29"
 ---
 

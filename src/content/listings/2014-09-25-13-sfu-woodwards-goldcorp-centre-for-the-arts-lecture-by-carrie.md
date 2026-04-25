@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 13
 type: ""
-summary: "SFU Woodwardâ€™s Goldcorp Centre for the Arts | LECTURE BY CARRIE MACLEOD | SEP 30"
+venue: "SFU Woodward’s Goldcorp Centre for the Arts"
+summary: "SFU Woodward’s Goldcorp Centre for the Arts | LECTURE BY CARRIE MACLEOD | SEP 30"
 ---
 
-SFU Woodwardâ€™s Goldcorp Centre for the Arts
+SFU Woodward’s Goldcorp Centre for the Arts
 
 PERFORMING HOME: ENACTING A NEW CHOREOGRAPHY OF BELONGING, A LECTURE BY
 CARRIE MACLEOD
@@ -15,7 +16,7 @@ Tue, 30 Sep 2014 7:00 PM
 
 Is there an art to reinventing home in the upheaval of displacement? This
 evening will offer a feast of poetic narratives on how communities in
-transition are creating new spaces of belonging â€“ against all odds.
+transition are creating new spaces of belonging – against all odds.
 
 In considering the multiple meanings of home in this contemporary global
 culture, we will ask who is making room for whom when frictions from forced
@@ -50,7 +51,7 @@ Fiorella Pinillos fpinillo@sfu.ca via instantcoffee.org
 2:25 PM (1 hour ago)
 
 to vancouver
-SFU Woodwardâ€™s Goldcorp Centre for the Arts
+SFU Woodward’s Goldcorp Centre for the Arts
 
 JUSTIN A. LANGLOIS | USELESSNESS & ANTAGONISM: SUGGESTIONS FOR A NEW ENGAGEMENT
 

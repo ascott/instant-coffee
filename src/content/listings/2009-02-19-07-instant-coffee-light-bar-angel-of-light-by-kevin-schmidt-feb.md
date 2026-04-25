@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: come mint meant breathe"
 emailDate: "Thu, 19 Feb 2009 10:50:12 -0800"
 number: 7
 type: ""
+venue: "Instant Coffee"
 summary: "Instant Coffee | LIGHT BAR | Angel of Light by Kevin Schmidt | FEB 21"
 ---
 

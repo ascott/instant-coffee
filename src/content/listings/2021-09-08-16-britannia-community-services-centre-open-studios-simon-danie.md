@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 16
 type: "EVENT"
+venue: "Britannia Community Services Centre"
 summary: "Britannia Community Services Centre | Open Studios: Simon Daniel James | SEP 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: come mint meant breathe"
 emailDate: "Thu, 19 Feb 2009 10:50:12 -0800"
 number: 19
 type: ""
+venue: "SFU"
 summary: "SFU | Black Communities in B.C. | til | MAY 10"
 ---
 

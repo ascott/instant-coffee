@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 9
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Pussy Riot Closing Celebration | 6PM | JUN 6"
 ---
 

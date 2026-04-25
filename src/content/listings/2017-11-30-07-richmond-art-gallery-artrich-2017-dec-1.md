@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 7
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | ArtRich 2017 | DEC 1"
 ---
 

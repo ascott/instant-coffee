@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) Instant Coffee: warning: it really is dirty"
 emailDate: "Fri, 26 Sep 2008 00:00:20 -0700"
 number: 15
 type: ""
+venue: "VAG"
 summary: "VAG | WACK! Weekend | OCT 4"
 ---
 
 WACK! Weekend
 A conference, a conversation and a tour
 
-Ã¯Â¿Â¼
+ï¿¼
 
 Saturday, October 4 and Sunday, October 5, 2008
 at the Hotel Vancouver, Saturna Island Room
@@ -37,9 +38,9 @@ Full weekend: $60 per person, $48 members and seniors, $30 students
 Saturday OR Sunday: $40 per person $32 members and seniors, $20 students
 
 For tickets contact Group Bookings Office at 604.662.4717
-Ã¯Â¿Â¼
+ï¿¼
 
-Ã¯Â¿Â¼
+ï¿¼
 
 750 Hornby Street Vancouver BC. V6Z 2H7 604.662.4700
 www.vanartgallery.bc.ca

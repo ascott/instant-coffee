@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 10
 type: "OPENING"
+venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | The Sound I'm Looking For Part 2 | NOV 25"
 ---
 

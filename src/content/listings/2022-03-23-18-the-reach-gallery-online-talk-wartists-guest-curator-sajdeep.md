@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 18
 type: "TALK"
+venue: "The Reach Gallery [ONLINE]"
 summary: "The Reach Gallery [ONLINE] | Talk w/artists& guest curator Sajdeep Soomal | 1PM | MAR 29"
 ---
 

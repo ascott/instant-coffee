@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 10
 type: "EVENT"
+venue: "Access Gallery - The Foreshore"
 summary: "Access Gallery - The Foreshore | Session 13 | Kara Uzelman and Holly Ward | APR 18"
 ---
 

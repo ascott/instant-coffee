@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 12
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Farheen HaQ - Remember | Victoria | OCT 17"
 ---
 

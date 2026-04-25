@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 7
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | SWARM 19 | Annual Festival of Artist-Run Culture | SEP 7"
 ---
 

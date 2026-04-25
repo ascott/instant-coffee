@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 40
 type: "EXHIBITION"
+venue: "BAG @ Bob Prittie Library"
 summary: "BAG @ Bob Prittie Library | Natasha Katedralis | UNTIL JUN 17 | JUN 17"
 ---
 

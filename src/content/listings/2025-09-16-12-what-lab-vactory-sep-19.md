@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 12
 type: "PERFORMANCE"
+venue: "What Lab"
 summary: "What Lab | vActory | SEP 19"
 ---
 

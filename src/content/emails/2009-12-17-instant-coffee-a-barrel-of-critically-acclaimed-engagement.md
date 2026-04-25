@@ -135,8 +135,8 @@ definition of space in artistic and curatorial practices.
 
 MJ#7 includes contributions by: Zeigam Azizov, Mieke Bal, Cathleen Chaffee,
 Anselm Franke, RoseLee Goldberg, Milena Hoegsberg, Bartomeu Mar­, Isabel
-Tejeda MartÃ­n, Peter Osborne, Filipa Ramos, Marco Scotini, Mary Anne
-Staniszewski, MarkÃ©ta StarÃ¡.
+Tejeda Martín, Peter Osborne, Filipa Ramos, Marco Scotini, Mary Anne
+Staniszewski, Markéta Stará.
 
 Manifesta Journal is an initiative of the Manifesta Foundation, Amsterdam
 and is published together with our ongoing Italian publication partner
@@ -355,17 +355,17 @@ exhibition brings such rare photographs to Vancouver for the first time.
 The exhibition is generously sponsored by Helen and John O'Brian.
 
 ARTISTS IN THE EXHIBITION INCLUDE :
-Thomas Annan, Roy Arden, EugÃ¨ne Atget, Ã‰douard Baldus, Felice Beato, Gustave
+Thomas Annan, Roy Arden, Eugène Atget, Édouard Baldus, Felice Beato, Gustave
 de Beaucorps, Hans Bellmer, Aenne Biermann, Margaret Bourke-White, Bill
-Brandt, Brassai (Gyula HalÃ¡sz), Adolphe Braun, Manuel Alvarez Bravo, Harry
+Brandt, Brassai (Gyula Halász), Adolphe Braun, Manuel Alvarez Bravo, Harry
 Callahan, Julia Margaret Cameron, Maxime du Camp, Louis de Clercq, Eugene
 Cuvelier, Frantisek Drtikol, Peter Henry Emerson, Walker Evans, Jaroslav
 Fabinger, Geoffrey Farmer, Roger Fenton , Robert Frank, Jean Bauphiste
 Frenet, Jaromir Funke, John Beasley Greene, David Heath, David Octavius Hill
-and Robert Adamson, Takichi Irie, Johnson and Henderson, Andr Ã© KertÃ©sz,
+and Robert Adamson, Takichi Irie, Johnson and Henderson, Andr é Kertész,
 Henry S. King, Germaine Krull, Evan Lee, Gustave Le Gray, Leon Levinstein,
 Mark Lewis, Man Ray, Taj Mahal, Julia Margaret Cameron, Charles Marville,
-Scott McFarland, Tina Modotti, Charles NÃ¨gre, Roger Parry, Albert
+Scott McFarland, Tina Modotti, Charles Nègre, Roger Parry, Albert
 Renger-Patzsch, Franz Roh , Alexander Rodchenko, Thomas Ruff, Auguste
 Salzmann, William Saunders, Alfred Steiglitz, Paul Strand, Josef Sudek,
 William Henry Fox Talbot, Felix Teynard, Adrien Tournachon, John Vanderpant,
@@ -669,7 +669,7 @@ medium learnt in Beginning Lithography or the equivalent. Students
 will also be introduced to photo plate lithography.
 
 Gillian Armitage was educated at Western Washington University, USA
-and Kingston-upon â€“Hull College of Art, England. She has instructed
+and Kingston-upon –Hull College of Art, England. She has instructed
 at ECIAD, Vancouver; Kwantlen College, Surrey and Scarborough School
 of Art, U.K. Her artist practice includes painting, lithography,
 intaglio and relief printing.
@@ -721,7 +721,7 @@ reviewed by an international jury. The applications are assessed on the
 basis of merit and the ability of BAC to support the proposed project.
 
 You can apply to come to BAC for a minimum of 4 weeks and a maximum of 8
-weeks during the period April â€“ June, or September â€“ December 2010. It is
+weeks during the period April – June, or September – December 2010. It is
 possible to divide your stay across two separate visits should this benefit
 your project. Please specify your preferred time and length of stay in the
 application.
@@ -763,7 +763,7 @@ screenings in conjunction with the residency and production programs.
 
 In 2009 BAC hosted the following artists and curators as part of the AIR
 program: Petra Bauer & Kim Einarsson (SE), Ruth Hege Halstensen (NO), Lise
-Harlev (DK), Sara JordenÅ‘ (SE) and Tommy StÃ¸ckel (DK).
+Harlev (DK), Sara Jordenő (SE) and Tommy Støckel (DK).
 
 Please visit www.balticartcenter.com for further information.
 
@@ -963,12 +963,12 @@ H + F Curatorial Grant
 Call For An Assistant Curator / Exhibition Coordinator
 
 Application deadline: February 28, 2010
-FRAC Nord â€“ Pas de Calais (F),
+FRAC Nord – Pas de Calais (F),
 de Appel arts centre (NL),
 H + F Curatorial Grant
 
 The "H+F Curatorial Grant" is an ambitious and original initiative which
-allows the FRAC Nordâ€“Pas de Calais (Dunkirk/France) in close partnership
+allows the FRAC Nord–Pas de Calais (Dunkirk/France) in close partnership
 with the private collector Han Nefkens (H+F Collection) and the de Appel
 arts centre (Amsterdam/NL), to give young international curators the
 opportunity to participate in the development of exhibition projects based
@@ -1008,7 +1008,7 @@ Please send your application containing a recent CV (including a
 photograph) and a motivation letter before February 28th 2010 to:
 
 FRAC Nord-Pas de Calais
-930 avenue de RosendaÃ«l
+930 avenue de Rosendaël
 59240 Dunkerque (France)
 Tel. 03 28 65 84 20
 http://www.fracnpdc.fr
@@ -1067,7 +1067,7 @@ SELECTION PROCESS
 One application will be chosen
 The decision is final
 
-GroÃŸe Elbstr. 36, 3.OG, 22767 Hamburg
+Große Elbstr. 36, 3.OG, 22767 Hamburg
 www.caribicresidency.com <http://www.caribicresidency.com/>
 
 

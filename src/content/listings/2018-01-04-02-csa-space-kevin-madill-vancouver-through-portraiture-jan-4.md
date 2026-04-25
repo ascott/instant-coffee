@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 2
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Kevin Madill :Vancouver Through Portraiture | JAN 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 10
 type: ""
+venue: "The Crying Room"
 summary: "The Crying Room | The Writing on the Wall | Sylvain Sailly | until | MAY 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 1
 type: ""
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Raymond Boisjoly | FEB 28"
 ---
 
@@ -21,7 +22,7 @@ of cultural practice is expressed, artistically or otherwise. Created through th
 use of existing video as material in the production of static images, Boisjoly 
 has selected a trio of televised performances retrieved from Youtube by the 
 musicians Pat & Lolly Vegas (Write Me, Baby, 1965), Buffy Sainte-Marie, 
-(Heâ€™s A Keeper Of The Fire, 1969) and Sly & the Family Stone (Thank you, 
+(He’s A Keeper Of The Fire, 1969) and Sly & the Family Stone (Thank you, 
 1970). Each of these videos was played on simple video playback technology 
 placed on a flatbed scanner. During this process the scanner registered the 
 video in motion, creating a distorted and disfigured image where edits become 

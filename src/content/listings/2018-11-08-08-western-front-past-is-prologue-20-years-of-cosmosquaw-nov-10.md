@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 8
 type: ""
+venue: "Western Front"
 summary: "Western Front | Past is Prologue: 20 Years of COSMOSQUAW | NOV 10"
 ---
 

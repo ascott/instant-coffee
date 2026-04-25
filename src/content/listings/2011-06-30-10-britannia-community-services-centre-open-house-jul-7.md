@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 10
 type: ""
+venue: "BRITANNIA COMMUNITY SERVICES CENTRE"
 summary: "BRITANNIA COMMUNITY SERVICES CENTRE | OPEN HOUSE | JUL 7"
 ---
 
@@ -51,11 +52,11 @@ renewal of the Britannia Community Services Centre.
 
 On July 7, 2011 the Britannia Planning & Development 
 Committee is hosting an evening
-www.britanniacentre.org â€¢ somethingishappening@britanniace
+www.britanniacentre.org • somethingishappening@britanniace
 of conversation about planning at Britannia. With live 
 entertainment, video
 presentations, food and prizes, this will be a great event for 
 anyone interested in
-learning more about whatâ€™s happening at Britannia. For more 
+learning more about what’s happening at Britannia. For more 
 information please visit
 www.britanniacentre.org.

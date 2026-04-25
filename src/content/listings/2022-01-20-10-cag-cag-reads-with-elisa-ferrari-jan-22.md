@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 10
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | CAG Reads with Elisa Ferrari | JAN 22"
 ---
 

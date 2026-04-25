@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 12
 type: ""
+venue: "CSA"
 summary: "CSA | Sylvia Grace Borda | till | JAN 17"
 ---
 

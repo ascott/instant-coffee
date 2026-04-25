@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 24
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Tom Hsu: With a Hint Will Keep You Wandering | APR 12"
 ---
 

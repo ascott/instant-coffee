@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 15
 type: "EVENT"
+venue: "Red Gates Art Society"
 summary: "Red Gates Art Society | SOUND IN CONTEXT: FIELD RECORDING | MAY 5"
 ---
 

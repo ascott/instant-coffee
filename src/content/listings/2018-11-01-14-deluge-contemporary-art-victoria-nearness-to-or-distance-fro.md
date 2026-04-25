@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 14
 type: "OPENING"
+venue: "Deluge Contemporary Art (VICTORIA)"
 summary: "Deluge Contemporary Art (VICTORIA) | Nearness To or Distance From | 7-10PM | NOV 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: RIOT FOOD"
 emailDate: "Thu, 17 May 2018 08:55:12 -0700"
 number: 13
 type: "TALK"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Robert Dayton: The Empty Bed | MAY 25"
 ---
 

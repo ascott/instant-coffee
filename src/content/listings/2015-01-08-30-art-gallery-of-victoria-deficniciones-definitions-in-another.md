@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 30
 type: "OPENING"
+venue: "Art Gallery of Victoria"
 summary: "Art Gallery of Victoria | Deficniciones (Definitions) - In Another Place, An | JAN 23"
 ---
 
@@ -31,7 +32,7 @@ Curated by Michelle Jacques and Toby Lawrence
 
 In Another Place, And Here brings together the work of eight local,
 national, and international artists in an exploration of the relationships
-between geography, politics, identityâ€“and photography.
+between geography, politics, identity–and photography.
 
 The exhibition takes its cues from the Dionne Brand novel that inspired its
 title, highlighting a shared artistic inclination to investigate the
@@ -39,7 +40,7 @@ relationships between the self and place. The artists are from varied
 locations, and each brings a unique approach to picturing the human
 relationship to the environment. Yet out of this diversity emerges a very
 focused conversation, one that encourages the viewer to think about
-Vancouver Islandâ€™s coastal location and the complexities that underlie our
+Vancouver Island’s coastal location and the complexities that underlie our
 relationships to this place.
 
 The exhibition also provides an opportunity for the AGGV to think
@@ -50,7 +51,7 @@ to be widespread throughout the coastal British Columbia region, the
 selected photographic works are as thought-provoking as they are visually
 engaging.
 
-Exhibiting artists include Nadia Huggins, Oâ€™Neil Lawrence, Mike Andrew
+Exhibiting artists include Nadia Huggins, O’Neil Lawrence, Mike Andrew
 McLean, Meryl McMaster, Troy Moth, Dawit Petros, Krista Belle Stewart, and
 Li Xinmo.
 

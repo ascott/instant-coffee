@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 16
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | NOW, NEVER: Opening & Show | NOV 7"
 ---
 

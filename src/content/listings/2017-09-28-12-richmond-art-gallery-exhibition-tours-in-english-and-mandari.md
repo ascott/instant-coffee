@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 12
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Exhibition Tours in English and Mandarin | OCT 1"
 ---
 

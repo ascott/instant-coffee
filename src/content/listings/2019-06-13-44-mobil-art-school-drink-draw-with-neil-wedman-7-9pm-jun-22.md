@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 44
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Drink & Draw with Neil Wedman | 7-9PM | JUN 22"
 ---
 

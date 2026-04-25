@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 14
 type: ""
+venue: "Other Sights"
 summary: "Other Sights | Grow Event: Seed Exchange | OCT 26"
 ---
 
@@ -22,12 +23,12 @@ As fall is now here, we wanted to take a moment to acknowledge the hard work
 and effort of all the people that contributed to Grow with a special event called 
 the Seed Exchange.
 
-As Grow draws to a close, weâ€™ve been collecting numerous seeds from the 
+As Grow draws to a close, we’ve been collecting numerous seeds from the 
 Bulkhead Lab to share at the Exchange. In an effort to disperse Grow broadly 
 we invite everyone to plant these seeds around Vancouver. If you have some 
 seeds of your own that you would like to trade, pop them into envelopes, seal 
 and label with the date and seed type and bring them with you. Expand your 
-range of veggies, herbs and fruit by trading your radish seeds for a neighbourâ€™s 
+range of veggies, herbs and fruit by trading your radish seeds for a neighbour’s 
 kale seeds.
 
 Please, drop by between 7:00pm and 9:00pm on Wednesday, October 26th for 

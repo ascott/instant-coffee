@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: THIS IS GREAT MATERIAL"
 emailDate: "Thu, 09 Jul 2020 09:50:12 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Number 3 Gallery (Online)"
 summary: "Number 3 Gallery (Online) | All This Time | JUL 9"
 ---
 

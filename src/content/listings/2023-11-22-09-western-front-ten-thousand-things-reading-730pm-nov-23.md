@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 9
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Ten Thousand Things - Reading | 730PM | NOV 23"
 ---
 

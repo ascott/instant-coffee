@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 17
 type: "OPENING"
+venue: "PORTAL POP-UP GALLERY"
 summary: "PORTAL POP-UP GALLERY | Khim Hipol: Maglinis Tayo (Let's Clean) | 530PM | SEP 27"
 ---
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 4
 type: ""
-summary: "Waldorf Hotel Tiki Bar | Protecting Vancouverâ€™s Cultural Spaces | JAN 17"
+venue: "Waldorf Hotel Tiki Bar"
+summary: "Waldorf Hotel Tiki Bar | Protecting Vancouver’s Cultural Spaces | JAN 17"
 ---
 
-Rolling the Dice: Protecting Vancouverâ€™s Cultural Spaces
+Rolling the Dice: Protecting Vancouver’s Cultural Spaces
 
 Waldorf Hotel Tiki Bar, Thursday, Jan 17, 8pm
 Proceeds support W2 Legal Fund.
@@ -20,7 +21,7 @@ such as Submerged Studios and the Red Gate were shut down last year by
 the City of Vancouver, and recent closures were the result of developers 
 making deals without considering the needs of the cultural sector. 
 
-Tonightâ€™s â€˜Rolling the Diceâ€™ event at the Waldorf Hotelâ€™s famous Tiki Bar, will 
+Tonight’s ‘Rolling the Dice’ event at the Waldorf Hotel’s famous Tiki Bar, will 
 support the W2 community by raising funds for their legal strategy and 
 showing love for another threatened cultural venue, the Waldorf Hotel. 
 
@@ -33,7 +34,7 @@ December.
 The W2 community has been using the hashtag #W2Belongs2Me and 
 connecting with Vancouverites concerned about City cultural amenity policy 
 that is clearly failing the arts community. Cease Wyss, Squamish media 
-artist, cites: â€œThe news this week that the City of Vancouver and Woodwardâ€™s 
+artist, cites: “The news this week that the City of Vancouver and Woodward’s 
 developer Westbank are bailing out the new CBC studio theatre with $1 
 million, shows that developers can build beautiful cultural spaces but 
 Vancouver arts groups can not afford to operate them with this developer-
@@ -53,18 +54,18 @@ informed the City back in February 2012 that it was not receiving adequate
 property management services for these fees and would not pay. W2 also 
 pointed out that if two of the most wealthy business owners, H.Y. Louie and 
 Jimmy Pattison, were not paying municipal taxes for 10 years (in order to 
-make Woodwardâ€™s a success), then surely the community amenity should 
+make Woodward’s a success), then surely the community amenity should 
 not be paying an amenity fee. W2 has received no operating assistance from 
-the City of Vancouver, and is proposing that it should be supported in itâ€™s 
+the City of Vancouver, and is proposing that it should be supported in it’s 
 start-up year. 
 
 "We need to be building up Vancouver's arts and culture," stated Gregor 
 Robertson when speaking about the sale of the Waldorf Hotel. He also stated 
-recently, â€œW2 is an important hub for arts and media groups and community 
+recently, “W2 is an important hub for arts and media groups and community 
 members in the Downtown Eastside.â€  There are many similarities between the 
 two popular arts hubs, given they are both negatively impacted by developer 
 deals which used the creative sector to get deals done, but then ignored the 
-creative communityâ€™s needs during their start-up phase. While the Waldorf is 
+creative community’s needs during their start-up phase. While the Waldorf is 
 a privately-owned for-profit business model and W2 is a community-owned 
 not-for-profit, they both strive for economic self-sufficiency and are widely 
 recognized for their innovative programming and designs as cultural hubs. 
@@ -80,12 +81,12 @@ what is being seen by many as a hostile takeover of the organization and
 space. The demands of the community are:
 
 The City of Vancouver waive the $85,000 amenity fee, as both commercial 
-projects in the Woodwardâ€™s atrium are not required to pay property taxes for 
+projects in the Woodward’s atrium are not required to pay property taxes for 
 10 years
 The W2 members and stakeholders must be fully included in decisions 
 around the future of W2 and the only community-access amenity at 
-Woodwardâ€™s.
-The City stop funding and hiring â€˜scabâ€™ non-union contractors to operate W2 
+Woodward’s.
+The City stop funding and hiring ‘scab’ non-union contractors to operate W2 
 while locking out W2 programs and services.
 Immediately open the W2 Media Cafe, community meeting room, and 
 basement community broadcasting studio for program delivery.

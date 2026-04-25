@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 31
 type: "CALL"
+venue: "Call for First Nations Illustrators"
 summary: "Call for First Nations Illustrators | The Great Vancouver Island Land Grab | FEB 28"
 ---
 

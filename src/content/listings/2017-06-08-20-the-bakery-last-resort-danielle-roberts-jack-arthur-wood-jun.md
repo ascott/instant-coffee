@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: function of the white cane"
 emailDate: "Thu, 08 Jun 2017 16:52:32 -0700"
 number: 20
 type: "OPENING"
+venue: "The Bakery"
 summary: "The Bakery | Last Resort | Danielle Roberts & Jack Arthur Wood | JUN 17"
 ---
 

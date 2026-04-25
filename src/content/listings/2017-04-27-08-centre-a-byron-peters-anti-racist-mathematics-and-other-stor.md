@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 8
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Byron Peters | Anti-Racist Mathematics and Other Stories | APR 29"
 ---
 

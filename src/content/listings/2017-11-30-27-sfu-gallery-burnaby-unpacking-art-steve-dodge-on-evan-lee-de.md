@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 27
 type: "TALK"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Unpacking Art: Steve Dodge on Evan Lee | DEC 6"
 ---
 

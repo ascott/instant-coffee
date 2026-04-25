@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 23
 type: "EVENT"
+venue: "CAG Reads [ONLINE]"
 summary: "CAG Reads [ONLINE] | Audie Murray presents... | 4PM | JUL 16"
 ---
 

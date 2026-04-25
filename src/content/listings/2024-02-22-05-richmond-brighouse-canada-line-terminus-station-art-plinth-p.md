@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 5
 type: "CALL"
+venue: "Richmond-Brighouse Canada Line Terminus Station"
 summary: "Richmond-Brighouse Canada Line Terminus Station | Art Plinth Program | FEB"
 ---
 

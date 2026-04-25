@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 8
 type: "EVENT"
+venue: "Selectors' Records - Publication Studio"
 summary: "Selectors' Records - Publication Studio | Nascar: Stories by Steffanie Ling | AUG 10"
 ---
 

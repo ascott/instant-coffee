@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: for the love of wisdom not wisdom 
 emailDate: "Thu, 03 Apr 2014 12:17:14 -0700"
 number: 13
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Feedback Talk | Shama Khanna and Broken City Lab at Fieldhouse | APR 8"
 ---
 
@@ -11,7 +12,7 @@ Feedback Talk
 Shama Khanna
 Tuesday, April 8, 7pm
 
-London-based curator Shama Khannaâ€™s current research project Flatness 
+London-based curator Shama Khanna’s current research project Flatness 
 engages screen-based images and immaterial culture in relation to the 
 internet. Launched at the Oberhausen Short Film Festival and operating 
 across multiple platforms including www.flatness.eu, it features contributions 

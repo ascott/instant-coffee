@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 30
 type: "EXHIBITION"
+venue: "Far Afield (ONLINE)"
 summary: "Far Afield (ONLINE) | Lianne Zannier: all the cool girls... | SEP 12"
 ---
 

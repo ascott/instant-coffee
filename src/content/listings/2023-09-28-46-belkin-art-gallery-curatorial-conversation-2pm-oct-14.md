@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 46
 type: "TALK"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Curatorial Conversation | 2PM | OCT 14"
 ---
 

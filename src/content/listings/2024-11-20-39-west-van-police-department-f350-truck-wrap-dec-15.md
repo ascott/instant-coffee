@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 39
 type: "CALL"
+venue: "West Van Police Department"
 summary: "West Van Police Department | F350 truck wrap | DEC 15"
 ---
 

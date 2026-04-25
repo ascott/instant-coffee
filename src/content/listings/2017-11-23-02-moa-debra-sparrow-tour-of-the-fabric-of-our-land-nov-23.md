@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 2
 type: "EVENT"
+venue: "MOA"
 summary: "MOA | Debra Sparrow Tour of The Fabric of Our Land | NOV 23"
 ---
 

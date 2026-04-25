@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 16
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema @ The Cinematheque | Species of Spaces | 7PM | JUL 12"
 ---
 

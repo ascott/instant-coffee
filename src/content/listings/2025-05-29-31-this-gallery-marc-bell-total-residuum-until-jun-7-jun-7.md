@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silent Brick Portal"
 emailDate: "Wed, 28 May 2025 21:10:07 -0700"
 number: 31
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Marc Bell-Total Residuum | UNTIL JUN 7 | JUN 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 11
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | workshops | JAN 12"
 ---
 

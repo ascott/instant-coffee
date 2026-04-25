@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 15
 type: ""
+venue: "Geist"
 summary: "Geist | Erasure Poetry Contest | JUL 15"
 ---
 
-NEW Contest Deadlineâ€”more time to erase!
+NEW Contest Deadline—more time to erase!
 geist erasure trophy The entry deadline has been extended to 
 July 15, 2011.
 

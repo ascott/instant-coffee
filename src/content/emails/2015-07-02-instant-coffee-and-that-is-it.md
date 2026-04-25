@@ -40,13 +40,13 @@ visual arts. There is no clear or one path in becoming an artist, but there
 are steps involved in maintaining an exciting and enriching career. As
 emerging artists you have to be creative, not just in your work, but in
 practical life. The workshop is designed to be both formal and informal.
-You will have a solid artist Ã¢â‚¬Å“packageÃ¢â‚¬ (statement, proposal, and portfolio)
+You will have a solid artist â€œpackageâ€ (statement, proposal, and portfolio)
 that you can modify for funding, exhibition submissions, residencies, and
 maybe even getting into other programs. And you will have an intimate
 conversation with a working artist in how to maintain a practice, be
 disciplined with your methodology, and be part of an artistic community.
 
-Jade Yumang was named after his motherÃ¢â‚¬â„¢s beauty salon and from an earlier
+Jade Yumang was named after his motherâ€™s beauty salon and from an earlier
 age has been obsessed with beautiful, yet slightly off things. His work
 primarily focuses on the concept of queer form through sculptural
 abstraction, installation, and performance. He received his MFA at Parsons
@@ -198,15 +198,15 @@ https://www.facebook.com/events/121442001523507/
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-07-02-05-the-flats-the-flats-block-party-jul-11">05. EVENT | The Flats | The Flats Block Party | JUL 11</a>
 ------------------------------------------------------------------------
-The Flats, Vancouverâ€™s premier contemporary art district, is throwing its
+The Flats, Vancouver’s premier contemporary art district, is throwing its
 third annual block party this Saturday, July 11th.
 
 Renowned local galleries Burrard Arts Foundation, Equinox Gallery, Macaulay
 Fine Art, Monte Clark Gallery, and Winsor Gallery will play host to crowds
 of local collectors and art-goers as exhibitions are launched, artist talks
 are given, treats by Beta5 Chocolates are served, and the city is brought
-together to celebrate the districtâ€™s growth and success as a cultural
-cornerstone. The dayâ€™s events will conclude with a party at newly-opened
+together to celebrate the district’s growth and success as a cultural
+cornerstone. The day’s events will conclude with a party at newly-opened
 Red Truck Brewery featuring The Trews, No Sinner, Rich Hope, and the Ice
 Cream Social DJs.
 
@@ -218,7 +218,7 @@ Zambrano, Jeff Hallbauer, Simone Jarvis, and Zoe Hodgson.
 multidisciplinary artist Sonny Assu. Assu will speak about his work at 1:00pm.
 
 + Monte Clark Gallery opens a two-person exhibition by Garry Winogrand with
-Larry Clark, titled â€œWomen are better than men. Not only have they
+Larry Clark, titled “Women are better than men. Not only have they
 survived, they do prevail.â€ 
 
 + Macaulay Fine Art exhibits paintings by Attila Richard Lukacs and
@@ -243,9 +243,9 @@ About the Flats
 Initially a network of creeks and marshland, The Flats played a vital role
 as an industrial centre as Vancouver grew from a quaint frontier town to a
 bustling city. Still crisscrossed by the railways that spurred on its
-development, The Flats is now Vancouverâ€™s hottest art district: a
+development, The Flats is now Vancouver’s hottest art district: a
 burgeoning industrial neighbourhood that has recently become home to more
-than 15 of the cityâ€™s most prestigious, experimental, and critically
+than 15 of the city’s most prestigious, experimental, and critically
 acclaimed contemporary art galleries.
 
 To learn more about The Flats, please visit facebook.com/theflatsvancouver
@@ -264,7 +264,7 @@ visual and media art practices.
 We produce 5 to 6 exhibitions annually. These exhibitions are determined by
 a curatorial committee made up of approximately 9 people, consisting of
 curators, programming staff, board members and artists. They meet for 5
-days in August to review and select exhibitions for the 2016 Ã¢â‚¬â€œ 2017
+days in August to review and select exhibitions for the 2016 â€“ 2017
 programming cycle.
 
 We invite you to submit your exhibition proposal to grunt gallery. If you
@@ -301,11 +301,11 @@ ISEA2015 is a six-day symposium featuring over 450 speakers, workshops,
 tutorials, panels, papers and institutional presentations. It showcases
 over 180 artworks ranging from large-scale interactive installations to
 cutting-edge electronic music performances. The theme of
-ISEA2015â€”Disruptionâ€”encourages us to re-examine and re-negotiate the
+ISEA2015—Disruption—encourages us to re-examine and re-negotiate the
 frontiers between academia and art, practice and theory, systems and
 reality, art and society.
 
-Centered at SFU Woodward's downtown campus , ISEA2015â€™s programming will
+Centered at SFU Woodward's downtown campus , ISEA2015’s programming will
 overflow to venues across Metro Vancouver. Partners include local artistic
 organisations and venues such as the Vancouver Art Gallery, Western Front,
 VIVO, the Museum of Vancouver, Grunt Gallery, Vancouver New Music, 221A,

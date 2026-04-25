@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 12
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Future Bodies: Marissa Diamond | SEP 8"
 ---
 

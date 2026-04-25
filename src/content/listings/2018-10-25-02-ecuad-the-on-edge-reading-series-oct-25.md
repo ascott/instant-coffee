@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: #tearitdown2018"
 emailDate: "Thu, 25 Oct 2018 12:00:18 -0700"
 number: 2
 type: "EVENT"
+venue: "ECUAD"
 summary: "ECUAD | The On Edge Reading Series | OCT 25"
 ---
 

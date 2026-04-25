@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 8
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Lecture Series: Compulsion of Collecting | JAN 18"
 ---
 

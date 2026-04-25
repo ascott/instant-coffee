@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 27
 type: "OPENING"
+venue: "Audain Art Centre"
 summary: "Audain Art Centre | UBC Grad Show: Re: Exhibition | APR 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 10
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Artist Talk | Robert Youds | OCT 25"
 ---
 

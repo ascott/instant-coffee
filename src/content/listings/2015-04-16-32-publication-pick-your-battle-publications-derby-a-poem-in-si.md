@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 32
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Pick Your Battle Publications | DERBY A Poem in Six Parts | MAY 1"
 ---
 

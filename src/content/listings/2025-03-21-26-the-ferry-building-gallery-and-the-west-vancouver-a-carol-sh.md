@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 26
 type: "EVENT"
+venue: "The Ferry Building Gallery and the West Vancouver"
 summary: "The Ferry Building Gallery and the West Vancouver | A Carol Shumas Retrospective | APR 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you are a source of information"
 emailDate: "Thu, 27 Mar 2008 09:10:57 -0700"
 number: 4
 type: ""
+venue: "ECI"
 summary: "ECI | Theory is my Co-Pilot: Marina Roy | MAR 27"
 ---
 

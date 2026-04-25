@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 39
 type: "CALL"
+venue: "Creative Spark Vancouver"
 summary: "Creative Spark Vancouver | New Grant for Emerging Artists: Creative Spark Van | APR 15"
 ---
 

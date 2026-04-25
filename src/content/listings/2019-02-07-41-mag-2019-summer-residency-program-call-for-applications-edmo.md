@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 41
 type: "CALL"
+venue: "MAG 2019 Summer Residency Program"
 summary: "MAG 2019 Summer Residency Program | Call for Applications (Edmonton, AB) | FEB 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 37
 type: "OPENING"
+venue: "Dr. Sun Yat-Sen Classical Chinese Garden"
 summary: "Dr. Sun Yat-Sen Classical Chinese Garden | CHAJI Exhibition / Garden Tea House | 530PM | SEP 13"
 ---
 

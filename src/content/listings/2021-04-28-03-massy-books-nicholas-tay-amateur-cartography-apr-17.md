@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Massy Books"
 summary: "Massy Books | Nicholas Tay - Amateur Cartography | APR 17"
 ---
 

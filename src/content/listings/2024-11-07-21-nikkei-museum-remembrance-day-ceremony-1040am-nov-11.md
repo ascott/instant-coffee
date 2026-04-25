@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 21
 type: "EVENT"
+venue: "Nikkei Museum"
 summary: "Nikkei Museum | Remembrance Day ceremony | 1040AM | NOV 11"
 ---
 

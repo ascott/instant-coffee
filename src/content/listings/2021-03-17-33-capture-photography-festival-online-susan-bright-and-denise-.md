@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 33
 type: "TALK"
+venue: "Capture Photography Festival [ONLINE]"
 summary: "Capture Photography Festival [ONLINE] | Susan Bright and Denise Wolff | 1PM | APR 3"
 ---
 

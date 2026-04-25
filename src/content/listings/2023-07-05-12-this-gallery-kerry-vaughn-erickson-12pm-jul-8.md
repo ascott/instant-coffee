@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 12
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Kerry Vaughn Erickson | 12PM | JUL 8"
 ---
 

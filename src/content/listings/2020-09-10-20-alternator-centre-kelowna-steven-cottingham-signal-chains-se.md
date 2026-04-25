@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 20
 type: "EXHIBITION"
+venue: "Alternator Centre [Kelowna]"
 summary: "Alternator Centre [Kelowna] | Steven Cottingham | Signal Chains | SEP 18"
 ---
 

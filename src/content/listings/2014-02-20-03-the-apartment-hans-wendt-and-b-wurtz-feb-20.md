@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 3
 type: ""
+venue: "The Apartment"
 summary: "The Apartment | Hans Wendt and B Wurtz | FEB 20"
 ---
 
@@ -33,14 +34,14 @@ technical medium.
 At this time The Apartment will also present a small grouping of works by 
 New York artist B Wurtz. This is Bâ€™s third exhibition with the gallery.  
 Using a constrained palette of materials re-purposed from everyday life 
-Wurtzâ€™s art takes up the most American of modes, POP, to realize a critical 
+Wurtz’s art takes up the most American of modes, POP, to realize a critical 
 perspective that is aesthetically rarified while materially familiar. 
 Philosophically committed to a program of simple means his arts' fragile form 
 achieves a commanding presence, realizing a sound stature which is 
 inherently vulnerable.
-â€œMost of my works are fairly simple arrangements. It often takes a long time to 
-get them where I want, but sometimes itâ€™s just a matter of a minor tweak that 
-clinches it all. I donâ€™t want to obscure what the objects are. I like that there is 
+“Most of my works are fairly simple arrangements. It often takes a long time to 
+get them where I want, but sometimes it’s just a matter of a minor tweak that 
+clinches it all. I don’t want to obscure what the objects are. I like that there is 
 inherent meaning attached to them in terms of their use-value, but ultimately I 
 want the work to be formal, nearly classical.â€ [1]   B Wurtz has exhibited 
 extensively since graduating with a MFA from Cal Arts in 1980. He was 
@@ -51,7 +52,7 @@ Berlin (2013), Kate McGarry, London (2013), Metro Pictures, New York
 Rotterdamn (1999). Earlier this month Wurtz gave a talk at the Sculpture 
 Center in NY and will give a similar presentation on his practice, now over 40 
 years of art making, at the gallery on Saturday, February 22, 3pm.  
-[1] B Wurtz as told to Lauren Oâ€™Neill-Butler, B Wurtz, 500 words, 
+[1] B Wurtz as told to Lauren O’Neill-Butler, B Wurtz, 500 words, 
 (Artforum.com, 06.18.13)
 
 Hans Wendt New Paintings

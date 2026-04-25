@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 10
 type: ""
+venue: "( ) space"
 summary: "( ) space | Creative City Conversation | JAN 14"
 ---
 

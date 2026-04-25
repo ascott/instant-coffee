@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 29
 type: ""
+venue: "City of Richmond"
 summary: "City of Richmond | Call to Artists: Art in Unexpected Places | JUL 31"
 ---
 

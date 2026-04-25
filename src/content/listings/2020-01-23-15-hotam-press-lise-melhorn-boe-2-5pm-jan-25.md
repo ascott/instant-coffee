@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 15
 type: "OPENING"
+venue: "Hotam Press"
 summary: "Hotam Press | Lise Melhorn-Boe | 2-5PM | JAN 25"
 ---
 

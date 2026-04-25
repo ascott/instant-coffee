@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 18
 type: ""
+venue: "JOB"
 summary: "JOB | Centre A | Gallery Coordinator (YCW) | AUG 30"
 ---
 

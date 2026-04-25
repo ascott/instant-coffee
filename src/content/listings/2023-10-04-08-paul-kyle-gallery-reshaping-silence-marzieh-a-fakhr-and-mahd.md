@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 8
 type: ""
+venue: "PAUL KYLE GALLERY"
 summary: "PAUL KYLE GALLERY | Reshaping Silence: Marzieh A. Fakhr and Mahdieh Ra | OCT 7"
 ---
 

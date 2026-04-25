@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 21
 type: ""
+venue: "2010 VANCOUVER PRIDE PARADE"
 summary: "2010 VANCOUVER PRIDE PARADE | Call to Artists: Creation of Grand Prize Trophy | JUL 26"
 ---
 
@@ -23,8 +24,8 @@ Proposal Guidelines
 Theme:
 Artists are asked to incorporate imagery reflecting the Pride
 Parade story (protest, diversity of LGBT people and
-celebration) and its current theme to ï¿½ï¿½Educate, Liberate,
-Celebrateï¿½ï¿½.
+celebration) and its current theme to ��Educate, Liberate,
+Celebrate��.
 
 Materials and design:
 The trophy must be of durable, shatter-proof material. Metal is
@@ -44,7 +45,7 @@ finished work is to be completed, ready for presentation, by July
 
 Proposals may delivered in person, my mail or e-mailed in PDF
 format, and should include the following:
-1. A one-page resume of the artistï¿½s qualification and up to two
+1. A one-page resume of the artist�s qualification and up to two
 pages of images of previous work relevant to this Call.
 2. Initial concept sketch, up to two pages..
 3. Written description of the concept.
@@ -81,10 +82,10 @@ What began as a small protest march through the Davie Village
 has blossomed into a world-class Pride Parade attracting not
 only supporters within the LGBT community in Vancouver but
 our friends worldwide. The bigger we get, the more fun we
-have and the more we can showcase Canadaï¿½s proud diversity.
+have and the more we can showcase Canada�s proud diversity.
 Particularly dear to the hearts of the VPS is the fact that our
 Pride Parade can provide inspiration and courage to the LGBT
 community worldwide. Our Pride started as a brave peaceful
-protest (ï¿½Weï¿½re here! Weï¿½re queer!ï¿½) and has grown into a role
+protest (�We�re here! We�re queer!�) and has grown into a role
 model for LGBT communities who continue to fight hard for
 their human rights.

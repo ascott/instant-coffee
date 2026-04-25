@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 9
 type: "CALL"
+venue: "Shooting Gallery"
 summary: "Shooting Gallery | Call for submissions, performance/dance/theatre... | JAN 10"
 ---
 

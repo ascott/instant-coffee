@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 33
 type: ""
+venue: "Art Rental & Sales at VAG"
 summary: "Art Rental & Sales at VAG | Vanessa Hall-Patch | 6PM | FEB 21"
 ---
 

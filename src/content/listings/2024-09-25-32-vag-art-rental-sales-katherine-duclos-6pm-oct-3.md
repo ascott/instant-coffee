@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 32
 type: "TALK"
+venue: "VAG Art Rental & Sales"
 summary: "VAG Art Rental & Sales | Katherine Duclos | 6PM | OCT 3"
 ---
 

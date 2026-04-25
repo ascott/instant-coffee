@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the night of a thousand bees"
 emailDate: "Thu, 08 Sep 2016 13:25:56 -0700"
 number: 26
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Cameron Kerr: Electric Cedar, Hemlock Blues. | SEP 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 34
 type: "EXHIBITION"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | BARRY DOUPE and JEFF HALLBAUER Bumblebee and Ducky | FEB 26"
 ---
 

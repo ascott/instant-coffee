@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 31
 type: "EVENT"
+venue: "SFU English"
 summary: "SFU English | writer-in- residence Junie Dsil | 7PM | OCT 3"
 ---
 

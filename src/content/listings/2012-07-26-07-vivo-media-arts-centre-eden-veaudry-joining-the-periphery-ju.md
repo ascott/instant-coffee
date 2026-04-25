@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 7
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Eden Veaudry: Joining The Periphery | JUL 28"
 ---
 
@@ -24,7 +25,7 @@ residency. During her travels she was drawn to the flowers and plant
 life in Lima. The blossoms, stems and leaf morphology of plants were 
 embroidered into concrete, domestic textiles, car exhaust, metal gates, 
 signage and city lights, creating variegated botanical scapes. New 
-colours, forms and textures invited her to look closerâ€“for longer, and 
+colours, forms and textures invited her to look closer–for longer, and 
 study the plants in digital photographs and video.
 
 Peruvian textiles and weaving also caught Veaudry's attention for their 
@@ -38,7 +39,7 @@ pixilation and abstraction.
 Joining the Periphery is the act of suturing distanced viewing. Veaudry 
 brought her attention to micro-gazing back to Vancouver, and has been 
 observing botanic forms at foot level around the city. In the 
-presentation of her animate objects residency, Veaudryâ€™s attention to 
+presentation of her animate objects residency, Veaudry’s attention to 
 floral blooms will frame the space for her durational installation.
 
 Eden Veaudry (b.1981) lives and works in Vancouver.

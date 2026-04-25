@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 17
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Laid Over To Cover : Weaving and Photography | JAN 16"
 ---
 
@@ -37,7 +38,7 @@ traditional and functional artifacts: nineteenth and twentieth century wool
 and cedar weavings produced within a network of inter-related and
 over-lapping oral traditions. This legacy is expanded in the exhibition and
 brought into the present with the work of contemporary practitioners Keith
-Nahanee (Squamish Nation), and Melvin Williams (LilÂ¹wat Nation).
+Nahanee (Squamish Nation), and Melvin Williams (Lil¹wat Nation).
 
 The exhibition is organized by Presentation House Gallery and generously
 supported by The Audain Foundation and by the North Vancouver Office of

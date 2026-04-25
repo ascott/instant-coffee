@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 20
 type: "PERFORMANCE"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | TENDER ENGINE: Mardon + Mitsuhashi | 8PM | JUN 28"
 ---
 

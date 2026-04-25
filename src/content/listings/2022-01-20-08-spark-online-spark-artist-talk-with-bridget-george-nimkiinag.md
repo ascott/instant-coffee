@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 8
 type: "TALK"
+venue: "Spark [ONLINE]"
 summary: "Spark [ONLINE] | Spark Artist Talk with Bridget George (Nimkiinagwa | JAN 20"
 ---
 

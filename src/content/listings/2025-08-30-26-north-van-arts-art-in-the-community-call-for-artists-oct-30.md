@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 26
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | Art in the Community: Call for Artists | OCT 30"
 ---
 

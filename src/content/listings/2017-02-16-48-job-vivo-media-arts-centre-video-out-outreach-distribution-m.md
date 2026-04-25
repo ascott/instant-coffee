@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 48
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO Media Arts Centre | Video Out: Outreach + Distribution Manager | MAR 27"
 ---
 

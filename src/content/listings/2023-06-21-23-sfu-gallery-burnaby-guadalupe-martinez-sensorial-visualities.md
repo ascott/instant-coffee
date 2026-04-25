@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 23
 type: "OPENING"
+venue: "SFU Gallery (Burnaby)"
 summary: "SFU Gallery (Burnaby) | Guadalupe Martinez: Sensorial Visualities | 2PM | JUN 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 29
 type: ""
+venue: "June Eco-Arts Salon"
 summary: "June Eco-Arts Salon | Fashion designer Nicole Bridger | JUN 26"
 ---
 

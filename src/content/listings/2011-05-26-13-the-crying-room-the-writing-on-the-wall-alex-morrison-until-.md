@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 13
 type: ""
+venue: "The Crying Room: The Writing on the Wall"
 summary: "The Crying Room: The Writing on the Wall | Alex Morrison | until | MAY 30"
 ---
 

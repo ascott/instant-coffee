@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 38
 type: "OPENING"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | Interstitial Defect | 7PM | APR 20"
 ---
 

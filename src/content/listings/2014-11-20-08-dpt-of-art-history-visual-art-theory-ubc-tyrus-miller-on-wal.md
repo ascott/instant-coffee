@@ -4,7 +4,8 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 8
 type: "TALK"
-summary: "Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjaminâ€™s Psychogeography | NOV 21"
+venue: "Dpt. of Art History, Visual Art & Theory, UBC"
+summary: "Dpt. of Art History, Visual Art & Theory, UBC | Tyrus Miller on Walter Benjamin’s Psychogeography | NOV 21"
 ---
 
 Professor Tyrus Miller, University of California, Santa Cruz

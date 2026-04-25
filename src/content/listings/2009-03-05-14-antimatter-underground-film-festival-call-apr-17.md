@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in the tradition of the now"
 emailDate: "Thu, 05 Mar 2009 08:55:15 -0800"
 number: 14
 type: ""
+venue: "Antimatter Underground Film Festival"
 summary: "Antimatter Underground Film Festival | CALL | APR 17"
 ---
 

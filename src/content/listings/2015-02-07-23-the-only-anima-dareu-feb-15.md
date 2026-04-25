@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 23
 type: "CALL"
+venue: "The Only Anima"
 summary: "The Only Anima | DAREU! | FEB 15"
 ---
 
@@ -16,7 +17,7 @@ Create an Augmented Reality site-specific experience
 Our 2nd Story mobile app gives access to your content onsite
 Theme: RISK
 Place: Granville Island
-Workshops: Wednesdays 4-8 PM, March 11 â€“ June 17, 2015
+Workshops: Wednesdays 4-8 PM, March 11 – June 17, 2015
 Premiere: September 10-20, 2015 at Vancouver Fringe
 
 Using our custom mobile app, participants will collaborate in the creation

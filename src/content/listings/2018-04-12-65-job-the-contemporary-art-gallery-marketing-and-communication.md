@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 65
 type: ""
+venue: "JOB"
 summary: "JOB | The Contemporary Art Gallery | Marketing and Communications Assistant | MAY 28"
 ---
 

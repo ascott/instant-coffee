@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 24
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | BFA Graduating Exhibition 2016: ____, and a space | APR 13"
 ---
 

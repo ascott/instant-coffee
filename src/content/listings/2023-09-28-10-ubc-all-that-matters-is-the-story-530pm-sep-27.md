@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 10
 type: "TALK"
+venue: "UBC"
 summary: "UBC | All that matters is the story | 530PM | SEP 27"
 ---
 

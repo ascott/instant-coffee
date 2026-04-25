@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 29
 type: "CALL"
+venue: "POINT Magazine"
 summary: "POINT Magazine | Call for Creative Content | MAR 22"
 ---
 

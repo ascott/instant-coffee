@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 9
 type: "OPENING"
+venue: "Deer Lake Art Gallery"
 summary: "Deer Lake Art Gallery | Jawahir: Jewels | 12PM | AUG 18"
 ---
 

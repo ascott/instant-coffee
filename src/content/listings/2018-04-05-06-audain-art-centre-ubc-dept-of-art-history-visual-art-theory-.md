@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 6
 type: "EDUCATION"
+venue: "Audain Art Centre @ UBC"
 summary: "Audain Art Centre @ UBC | Dept of Art History, Visual Art & Theory Symposium | APR 6"
 ---
 

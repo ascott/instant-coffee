@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 1
 type: ""
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | SONNY ASSU | MAY 13"
 ---
 
@@ -15,8 +16,8 @@ Opening reception: Thursday May 13th, 6 to 8pm
 www.equinoxgallery.com
 
 Equinox Gallery is pleased to present an exhibition of new works by
-Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (KwakwakaÃ¢ï¿½ï¿½wakw)
-of the WekaÃ¢ï¿½ï¿½yi First Nation (Cape Mudge) and looks to his heritage to
+Vancouver artist Sonny Assu. Sonny Assu is Laich-kwil-tach (Kwakwakaâ��wakw)
+of the Wekaâ��yi First Nation (Cape Mudge) and looks to his heritage to
 address, unravel, and in some instances, complicate, the issues of personal
 lineage within the realm of contemporary culture.
 

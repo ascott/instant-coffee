@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 9
 type: ""
+venue: "SFU Woodward's"
 summary: "SFU Woodward's | Dylan Robinson: Art Music's Indigenous Inclusions | OCT 20"
 ---
 
@@ -22,7 +23,7 @@ Concerti for throat singers, operas on Indigenous subjects, and powwow
 symphonies. Despite an increasing number of collaborations between 
 Indigenous artists and classical music ensembles, the political exigencies 
 of First Nations communities across Canada are scarcely referenced in 
-such work. As Cherokee scholar Craig Womack has noted, while â€œAmerica 
+such work. As Cherokee scholar Craig Womack has noted, while “America 
 loves Native American Culture[,] America is much less enthusiastic about 
 Native American land claimsâ€ . This talk examines the space between 
 classical and Indigenous musical forms, and the attendant politics of 

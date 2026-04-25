@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  it’s a complicated thing to loo
 emailDate: "Thu, 12 Nov 2015 12:57:10 -0800"
 number: 19
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Cornelia Wyngaarden: Heroines | NOV 17"
 ---
 

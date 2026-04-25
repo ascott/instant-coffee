@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 1
 type: ""
+venue: "CITY OF VANCOUVER"
 summary: "CITY OF VANCOUVER | Call: ARTIST STUDIO AWARDS PROGRAM | JUL 24"
 ---
 
-THE CITY OF VANCOUVERâ€™S ARTIST STUDIO AWARDS PROGRAM 
+THE CITY OF VANCOUVER’S ARTIST STUDIO AWARDS PROGRAM 
 NOW ACCEPTING APPLICATIONS
-The City of Vancouverâ€™s Artist Studio Awards Program is offering two- and 
+The City of Vancouver’s Artist Studio Awards Program is offering two- and 
 three-year residencies in live/work and work/only studios starting February 
 2015. Artists currently residing in Vancouver who can demonstrate financial 
 need are eligible to apply. Eligible artists will be evaluated on the artistic 
@@ -17,7 +18,7 @@ merit of their work.
 
 OPEN HOUSE
 
-Come see the incredible studios available through this program â€“ we are 
+Come see the incredible studios available through this program – we are 
 hosting open houses on Thursday July 24th between 4pm and 7 pm and 
 on Saturday August 16th between 1 pm and 4 pm. City staff will be on 
 hand to answer questions.

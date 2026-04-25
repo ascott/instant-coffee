@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 2
 type: ""
+venue: "Art Waste: a three day festival"
 summary: "Art Waste: a three day festival | opening at Gallery Gachet | JUN 6"
 ---
 

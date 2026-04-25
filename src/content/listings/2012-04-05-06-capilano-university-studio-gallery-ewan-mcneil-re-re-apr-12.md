@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GOOD NEWS!"
 emailDate: "Thu, 05 Apr 2012 12:01:16 -0700"
 number: 6
 type: ""
+venue: "Capilano University Studio Gallery"
 summary: "Capilano University Studio Gallery | Ewan McNeil / RE + RE | APR 12"
 ---
 
@@ -18,7 +19,7 @@ Capilano University Studio Gallery
 This exhibition is Curated by Marcus Bowcott . 
 
 â€œRE + REâ€  is a builderʼs term about â€œreviewing and replacingâ€  or 
-â€œreviewing and 
+“reviewing and 
 renovatingâ€ . Itʼs an apt title for this exhibition. More importantly the 
 spirit of â€œRE + REâ€  is 
 at the heart of McNeilʼs practice of photography, painting, sculpture 
@@ -39,6 +40,6 @@ The unsentimental nature of this work is not only embodied in form, it
 is embraced in 
 process. McNeilʼs self critical practice involves reconﬁguring highly 
 articulated images in 
-relation to a table saw. After all, as he states... â€œthe saw is a drawing 
+relation to a table saw. After all, as he states... “the saw is a drawing 
 instrument, a tool 
 for editing.â€

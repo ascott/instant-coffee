@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 5
 type: "TALK"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Katie Ohe and Katherine Ylitalo in Conversation | SEP 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 21
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | The Director-DP Relationship | JUL 3"
 ---
 

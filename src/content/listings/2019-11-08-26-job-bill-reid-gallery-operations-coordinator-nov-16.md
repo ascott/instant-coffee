@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 26
 type: ""
+venue: "JOB"
 summary: "JOB | Bill Reid Gallery | Operations Coordinator | NOV 16"
 ---
 

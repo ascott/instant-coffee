@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 4
 type: "OPENING"
+venue: "Red Gate Arts Society"
 summary: "Red Gate Arts Society | Different Things | MAR 5"
 ---
 

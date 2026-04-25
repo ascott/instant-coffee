@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 6
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | Artist Talk by Bik Van der Pol | JAN 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 22
 type: ""
+venue: "PNE CONTAINER ART 2010"
 summary: "PNE CONTAINER ART 2010 | CALL | AUG 21"
 ---
 
@@ -37,7 +38,7 @@ celebration!
 
 When
 August 21st to September 6th, 2010
-Opening Day: August 21, 10am ï¿½ 11pm
+Opening Day: August 21, 10am � 11pm
 Set up: Containers will be in position for the week of August
 16th
 Pick up: Pick up will take place Sept 7th to 9th
@@ -81,21 +82,21 @@ surface.
 
 SUBMISSION DEADLINE - June 30th
 Submission Requirements:
-ï¿½ Drawing, write up and other details of your proposed work,
+� Drawing, write up and other details of your proposed work,
 including any
 technical requirements including electricity
-ï¿½ Resume or CV
-ï¿½ Completed Submission form
-ï¿½ Biography
-ï¿½ Artist Statement
-ï¿½ Three Images of past artwork(s) photo, CD, jpeg, pdf (no larger
+� Resume or CV
+� Completed Submission form
+� Biography
+� Artist Statement
+� Three Images of past artwork(s) photo, CD, jpeg, pdf (no larger
 than 450
 dpi per image)
-ï¿½ A numbered list of artworks
-ï¿½ S.A.S.E.
+� A numbered list of artworks
+� S.A.S.E.
 
 The PNE retains the right to advertise the art exhibition and has
-permission to use artistï¿½s names for that purpose.
+permission to use artist�s names for that purpose.
 
 If you have questions please contact Caryn or Valerie by email
 or phone.
@@ -125,9 +126,9 @@ ____________________
 LIST OF PAST WORKS:
 1) Title:
 __________________________________________________
-_______Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬Â¬
+_______¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 
-Size (hï¿½ x wï¿½):
+Size (h� x w�):
 __________________________________________________
 ________
 
@@ -139,7 +140,7 @@ ____________
 __________________________________________________
 _______
 
-Size (hï¿½ x wï¿½):
+Size (h� x w�):
 __________________________________________________
 ________
 
@@ -151,7 +152,7 @@ ____________
 __________________________________________________
 _______
 
-Size (hï¿½ x wï¿½):
+Size (h� x w�):
 __________________________________________________
 ________
 

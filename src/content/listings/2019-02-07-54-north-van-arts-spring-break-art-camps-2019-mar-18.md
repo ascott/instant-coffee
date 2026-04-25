@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 54
 type: "EDUCATION"
+venue: "North Van Arts"
 summary: "North Van Arts | Spring Break Art Camps 2019 | MAR 18"
 ---
 

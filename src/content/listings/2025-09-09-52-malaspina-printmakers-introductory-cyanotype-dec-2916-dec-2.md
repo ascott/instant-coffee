@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 52
 type: "EDUCATION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Introductory Cyanotype | DEC 2,9,16 | DEC 2"
 ---
 

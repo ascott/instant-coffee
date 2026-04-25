@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 31
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO @ the Cinematheque | 45th Anniversary Screening | SEP 12"
 ---
 

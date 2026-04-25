@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 22
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Madame Maverick | NOV 15"
 ---
 

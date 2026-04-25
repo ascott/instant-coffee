@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 49
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | THE FORESHORE LISTENS | 7-9PM | SEP 26"
 ---
 

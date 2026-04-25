@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 44
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | 12-3pm | JAN 28"
 ---
 

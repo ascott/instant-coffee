@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 25
 type: "OPENING"
+venue: "Publication Studio"
 summary: "Publication Studio | Rock and Roll Meeting | FEB 28"
 ---
 

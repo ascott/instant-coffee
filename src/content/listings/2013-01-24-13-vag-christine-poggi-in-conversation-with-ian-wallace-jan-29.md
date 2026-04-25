@@ -4,26 +4,27 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 13
 type: ""
+venue: "VAG"
 summary: "VAG | Christine Poggi in conversation with Ian Wallace | JAN 29"
 ---
 
-Event: International Speaker Series â€“ Christine Poggi in conversation with Ian 
+Event: International Speaker Series – Christine Poggi in conversation with Ian 
 Wallace
 Date: Tuesday, January 29, 2013
 Time: 7 pm
 Location: Vancouver Art Gallery, 750 Hornby Street, Vancouver, BC, V6Z 2H7
 
-Created in conjunction with the landmark exhibition â€œIan Wallace: At the 
+Created in conjunction with the landmark exhibition “Ian Wallace: At the 
 Intersection of Painting and Photography,â€  the talks series Reading Ian 
 Wallace: An International Perspective consists of conversations that provide a 
-rare opportunity for first-hand insight into Wallaceâ€™s expansive career.
+rare opportunity for first-hand insight into Wallace’s expansive career.
 
 The second talk in this series features critic and scholar Christine Poggi in 
 conversation with Ian Wallace on Tuesday, January 29 at 7 pm. Collage has 
-been a recurring strategy in Ian Wallaceâ€™s work, and the recent proliferation of 
+been a recurring strategy in Ian Wallace’s work, and the recent proliferation of 
 collage-based activity in the wider art sphere suggests its significance in 
 contemporary production. In this talk, Poggi will address collage in the wider 
-context of art history and relate it to Wallaceâ€™s practice.
+context of art history and relate it to Wallace’s practice.
 
 Reading Ian Wallace: An International Perspective is a partnership between 
 the Vancouver Art Gallery and the Canadian Art Foundation International 

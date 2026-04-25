@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 32
 type: ""
+venue: "JOB"
 summary: "JOB | CAG | Communications & Development Assistant | APR 5"
 ---
 

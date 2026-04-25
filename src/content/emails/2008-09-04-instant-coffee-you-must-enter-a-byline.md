@@ -544,7 +544,7 @@ and desired by others. But is Wikipedia really a valuable resource if
 anyone can add to it? If uneducated enthusiasts can argue opinion on its
 pages with academic professionals, and the peer review system is just
 everyone, can we trust its content to be the best possible information? If
-Second Life is really an online UtopiaÃ¢ï¿½Â¢ where anything and everything can
+Second Life is really an online Utopiaâ�¢ where anything and everything can
 happen, then why do most Avatars conform to contemporary ideas about the
 ideal human body? Why does it have an economy based on capitalism? Why does
 it so closely resemble the world we already occupy?
@@ -573,7 +573,7 @@ Space
 
 Allison Tweedie, Shawna Mclellan
 
-September 5 Ã¢ï¿½ï¿½ October 18
+September 5 â�� October 18
 
 Opening Reception September 5, 8pm
 
@@ -583,20 +583,20 @@ to twilight, a homonym that describes the diffused illumination of a
 nearing dark sky as well as an uncertain state of being, here space is
 investigated both literally and figuratively.
 
-In Jim JarmuschÃ¢ï¿½ï¿½s film Deadman, Train Fireman (Crispin Glover) asks William
-Blake (Johnny Depp) to look out the boxcar window. He says: Ã¢ï¿½ï¿½DoesnÃ¢ï¿½ï¿½t it
-remind you of when youÃ¢ï¿½ï¿½re in the boat, and then later that night you were
+In Jim Jarmuschâ��s film Deadman, Train Fireman (Crispin Glover) asks William
+Blake (Johnny Depp) to look out the boxcar window. He says: â��Doesnâ��t it
+remind you of when youâ��re in the boat, and then later that night you were
 lying looking up at the ceiling and the water in your head was not
 dissimilar from the landscape - and you think to yourself, why is it that
-the landscape is moving, but the boat is still?Ã¢ï¿½ï¿½ Using the language of
-collage, Allison TweedieÃ¢ï¿½ï¿½s video projection produces pivots of parallactic
+the landscape is moving, but the boat is still?â�� Using the language of
+collage, Allison Tweedieâ��s video projection produces pivots of parallactic
 disorientation, an effect defined as the apparent displacement of an object
 caused by a change in observational position. Tweedie follows the sight of
 a satellite in the night sky and as stars roll by on the periphery, the
 orbiting satellite holds a still and faint position in our gaze.
 
-Shawna MclellanÃ¢ï¿½ï¿½s Phosphorescent Incubator asks the question what is an
-experience? At the hub of MclellanÃ¢ï¿½ï¿½s project is the childhood game of
+Shawna Mclellanâ��s Phosphorescent Incubator asks the question what is an
+experience? At the hub of Mclellanâ��s project is the childhood game of
 turning small imaginative spaces into a rainbow of situations and meaning.
 Made out of raw canvas coated with glow-in-the-dark paint, Phosphorescent
 Incubator is a makeshift polygonal prism slightly smaller than the room in
@@ -844,7 +844,7 @@ Cornerstone Architecture; Diamond and Schmitt Architects; Eric Vance &
 Associates; Gomberoff Bell Lyon Architects Group; Hotson Bakker Boniface
 Haden Architects + Urbanists; Hunter Laird Engineering Ltd.; Inform
 Interiors; Kalico Developments Ltd.; Robert Lemon Architect Inc.; McCarthy
-TÃ©trault LLP; Nancy Spooner; Consulting Inc.; Parklane Homes; Polygon
+Tétrault LLP; Nancy Spooner; Consulting Inc.; Parklane Homes; Polygon
 Homes; PWL Partnership Landscape Architects Inc.; Raffi Architects; Take
 Root Properties; Stantec Consulting Ltd.; Nora Stevenson; Tankoos; Yarmon
 Group of Companies; Townline Group of Companies; TR Trades Reproduction
@@ -1020,10 +1020,10 @@ Germany; The Seattle Art Museum, and The Henry Art Gallery, Seattle.
 
 Using techniques/tropes of conceptual and psychedelic art, rock video,
 experimental and documentary film to rework primary and produce secondary
-source materials, Jeremy ShawÃ¢ï¿½ï¿½s practice is immersed in discussing the
+source materials, Jeremy Shawâ��s practice is immersed in discussing the
 transcendence-seeking activities of both mainstream and subculture, with a
 particular interest in the moment when the two collide. In keeping with
-this body, ShawÃ¢ï¿½ï¿½s current exhibition posits scientific representations of
+this body, Shawâ��s current exhibition posits scientific representations of
 altered states with populist notions and the subsequent commercial goods
 they adorn.
 
@@ -1039,7 +1039,7 @@ www.blanketgallery.com
 <a href="/instant-coffee/listings/2008-09-04-22-sfu-alison-norlen-roller-coaster-sep-13">22. SFU | Alison Norlen: Roller Coaster | SEP 13</a>
 ------------------------------------------------------------------------
 Alison Norlen: Roller Coaster
-September 13 Â­ October 25, 2008
+September 13 ­ October 25, 2008
 SFU Gallery, Burnaby Campus
 
 Opening: Saturday September 13 from 3pm to 5pm
@@ -1047,16 +1047,16 @@ Opening: Saturday September 13 from 3pm to 5pm
 Artist Talk: Thursday September 11 at 7pm, Emily Carr University
 
 Anselm Kiefer meets Carol Wainio? The roller coaster of civilization is
-compressed into Alison NorlenÂ¹s dense, complex, and monumental drawings. SFU
-will show three of NorlenÂ¹s organically claustrophobic pictures that combine
+compressed into Alison Norlen¹s dense, complex, and monumental drawings. SFU
+will show three of Norlen¹s organically claustrophobic pictures that combine
 memories of places she has actually visited with images from postcards and
 other travel souvenirs.
 
-NorlenÂ¹s art is about the nature and seductiveness of built structures and
+Norlen¹s art is about the nature and seductiveness of built structures and
 the hidden beauty found in the sub-universe of themed entertainment zones,
 such as PNE-style amusement parks and shopping malls.
 
-This is NorlenÂ¹s first Vancouver exhibition. Her work is in the collections
+This is Norlen¹s first Vancouver exhibition. Her work is in the collections
 of the National Gallery of Canada, the Mackenzie Art Gallery, the
 Confederation Centre for the Arts, the Mendel Art Gallery, the Winnipeg Art
 Gallery and The Rooms (the Art Gallery of Newfoundland and Labrador).
@@ -1538,12 +1538,12 @@ Applications must include
 THE APPLICATION MUST REACH FLAGGFABRIKKEN BY POST OR E-MAIL NO LATER THAN
 OCTOBER 1ST 2008. The residencies will be decided before November 15th 2008.
 
-POST THE APPLICATION TO: Artist in residence Flaggfabrikken Ã¢ï¿½ï¿½ senter for
+POST THE APPLICATION TO: Artist in residence Flaggfabrikken â�� senter for
 fotografi og billedkunst M¸llendalsveien 17, 5009 Bergen Norway
 
 or e-mail to: post@flaggfabrikken.net
 
-For those using courier services Ã¢ï¿½ï¿½ Note that the package/envelope should
+For those using courier services â�� Note that the package/envelope should
 also be marked with: "Entrance from Klaus Hanssens vei"
 
 PLEASE NOTE: if you want your submitted material in return you have to

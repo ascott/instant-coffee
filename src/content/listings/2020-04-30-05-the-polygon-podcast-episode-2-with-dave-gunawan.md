@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 5
 type: "TALK"
+venue: "The Polygon Podcast"
 summary: "The Polygon Podcast | Episode 2 with Dave Gunawan"
 ---
 

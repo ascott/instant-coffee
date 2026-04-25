@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 18
 type: "EDUCATION"
+venue: "Fillip"
 summary: "Fillip | Reading Group: Nathan Crompton on Utopias | NOV 18"
 ---
 

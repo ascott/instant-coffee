@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 45
 type: "PERFORMANCE"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | LIVE Biennale - Megan Arnold | 830PM | OCT 13"
 ---
 

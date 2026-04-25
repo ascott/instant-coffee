@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 23
 type: "OPENING"
+venue: "Elissa Cristall Gallery"
 summary: "Elissa Cristall Gallery | A Cabinet of Curiosities | JUN 10"
 ---
 

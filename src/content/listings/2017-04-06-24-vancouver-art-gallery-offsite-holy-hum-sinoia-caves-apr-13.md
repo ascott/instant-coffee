@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ANYTHING IS POSSIBLE!"
 emailDate: "Thu, 06 Apr 2017 12:50:49 -0700"
 number: 24
 type: "PERFORMANCE"
+venue: "Vancouver Art Gallery Offsite"
 summary: "Vancouver Art Gallery Offsite | Holy Hum + Sinoia Caves | APR 13"
 ---
 

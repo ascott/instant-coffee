@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mother of Pearl Moustache Comb"
 emailDate: "Thu, 17 Aug 2017 08:47:17 -0700"
 number: 16
 type: "EVENT"
+venue: "Nanaimo Art Gallery"
 summary: "Nanaimo Art Gallery | Island Dreams | AUG 27"
 ---
 

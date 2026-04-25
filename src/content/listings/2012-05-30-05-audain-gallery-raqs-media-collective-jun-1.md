@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 5
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Raqs Media Collective | JUN 1"
 ---
 
 Raqs Media Collective
 Primary Education of the Autodidact
 
-Window Project: June 1 â€“ Sept. 4, 2012
+Window Project: June 1 – Sept. 4, 2012
 Opening reception in the Audain Gallery: June 1, 6 PM
 
 Audain Gallery

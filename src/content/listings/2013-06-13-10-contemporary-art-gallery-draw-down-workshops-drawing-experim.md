@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 10
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Draw Down Workshops: Drawing Experiments | JUN 15"
 ---
 
@@ -56,7 +57,7 @@ window spaces at the CAG and off-site at Yaletown-Roundhouse Station,
 Canada Line and The Burrard Marina Field House Studio Residency Program.
 
 As It Comes at Yaletown-Roundhouse Station, Canada Line is presented in
-partnership with the Canada Line Public Art Program â€” IntransitBC.
+partnership with the Canada Line Public Art Program — IntransitBC.
 
 Contemporary Art Gallery
 

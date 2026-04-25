@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 2
 type: ""
+venue: "Elissa Cristall Gallery"
 summary: "Elissa Cristall Gallery | Louise Phillips and Karen Garrett de Luna | JUL 21"
 ---
 

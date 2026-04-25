@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 32
 type: ""
+venue: "Dear Diary"
 summary: "Dear Diary | Call for Participation |"
 ---
 

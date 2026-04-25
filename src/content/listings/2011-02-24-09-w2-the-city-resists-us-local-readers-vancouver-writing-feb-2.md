@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 9
 type: ""
+venue: "W2: THE CITY RESISTS US:"
 summary: "W2: THE CITY RESISTS US: | LOCAL READERS + VANCOUVER WRITING | FEB 25"
 ---
 

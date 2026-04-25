@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 18
 type: ""
+venue: "VAG"
 summary: "VAG | Michael Morris in conversation with Scott Watson | MAR 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 20
 type: "OPENING"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | A Decade of Collecting Art | NOV 15"
 ---
 

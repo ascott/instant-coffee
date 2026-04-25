@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 22
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | TechniCowlour | 5PM | FEB 12"
 ---
 

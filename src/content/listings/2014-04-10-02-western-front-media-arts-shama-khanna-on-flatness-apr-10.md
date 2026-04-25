@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 2
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | Shama Khanna: On Flatness | APR 10"
 ---
 
@@ -13,9 +14,9 @@ Western Front 303 East 8th Avenue
 
 Western Front Curator in Residence Shama Khanna will present a series of 
 films, writing and research related to her ongoing project Flatness. The 
-Flatness project extends from the thematic programme of artistsâ€™ moving 
+Flatness project extends from the thematic programme of artists’ moving 
 image works curated by Khanna at Oberhausen International Short Film 
-Festival in May 2013 entitled, â€˜Flatness: Cinema after the Internetâ€™. Returning to 
+Festival in May 2013 entitled, ‘Flatness: Cinema after the Internet’. Returning to 
 the small screen, in July 2013 Khanna launched the website flatness.eu 
 presenting many of the works from the festival (including programmes by 
 sub-curators Oliver Laric, Anthea Hamilton and Ed Atkins), and research and 

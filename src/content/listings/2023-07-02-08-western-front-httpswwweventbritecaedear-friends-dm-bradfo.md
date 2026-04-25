@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 8
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | https://www.eventbrite.ca/e/dear-friends-dm-bradfo"
 ---
 

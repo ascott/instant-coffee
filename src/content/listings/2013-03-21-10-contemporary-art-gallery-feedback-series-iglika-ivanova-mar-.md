@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 10
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | feedback series: Iglika Ivanova | MAR 26"
 ---
 

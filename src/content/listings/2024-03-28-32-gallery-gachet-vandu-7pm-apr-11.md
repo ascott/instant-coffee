@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 32
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | VANDU | 7PM | APR 11"
 ---
 

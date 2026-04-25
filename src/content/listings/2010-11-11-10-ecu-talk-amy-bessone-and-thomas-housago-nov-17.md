@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: thinks common sense is silly"
 emailDate: "Thu, 11 Nov 2010 11:05:36 -0800"
 number: 10
 type: ""
+venue: "ECU"
 summary: "ECU | talk: Amy Bessone and Thomas Housago | NOV 17"
 ---
 

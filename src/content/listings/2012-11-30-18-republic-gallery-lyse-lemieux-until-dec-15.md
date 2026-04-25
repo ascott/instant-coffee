@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 18
 type: "OPENING"
+venue: "REPUBLIC GALLERY"
 summary: "REPUBLIC GALLERY | LYSE LEMIEUX | until | DEC 15"
 ---
 
@@ -18,11 +19,11 @@ Exhibition dates: October 19 - December 15, 2012
 
 
 Lyse Lemieux has lived and worked in Vancouver since graduating from the 
-University of British Columbiaâ€™s Fine Arts department in 1976. Over the past 
+University of British Columbia’s Fine Arts department in 1976. Over the past 
 30 years she has exhibited her work in public and private galleries in both 
-Canada and Europe. Most recently Lemieuxâ€™s work was featured in Cut & 
+Canada and Europe. Most recently Lemieux’s work was featured in Cut & 
 Paste at the Equinox Project Space in Vancouver. This first solo exhibition at 
-Republic Gallery demonstrates the broad scope of Lemieuxâ€™s drawing practice 
+Republic Gallery demonstrates the broad scope of Lemieux’s drawing practice 
 and her ongoing commitment to working with paper.
 
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: on the count of three"
 emailDate: "Thu, 08 Oct 2009 09:24:10 -0700"
 number: 4
 type: ""
+venue: "Morris and Helen Belkin Gallery"
 summary: "Morris and Helen Belkin Gallery | Judy Radul | OCT 8"
 ---
 

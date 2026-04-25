@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 26
 type: "CALL"
+venue: "Kent Harrison Arts Council"
 summary: "Kent Harrison Arts Council | Call for our 2024-25 Artist-in-Residence | APR 15"
 ---
 

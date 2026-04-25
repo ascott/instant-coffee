@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 9
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | COLLEEN BROWN | SEP 30"
 ---
 

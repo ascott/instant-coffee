@@ -43,10 +43,10 @@ announce new essays commissioned as part of Institutions by Artists
 are available at arcpost.ca/articles.
 
 They include: â€œCrises (and Coping) in the Work of General Ideaâ€  by 
-Philip Monk; â€œA Productive Irritant: Parasitical Inhabitations in 
+Philip Monk; “A Productive Irritant: Parasitical Inhabitations in 
 Contemporary Artâ€  by Matt Post & Chris Fitzpatrick, â€œInstitutions of 
 Regionalism: Artist-collectivism in London, Ontario, 1960-1990â€  by 
-Christopher Regimbal, â€œArtmoreorless: The Early Performances of 
+Christopher Regimbal, “Artmoreorless: The Early Performances of 
 Ascoâ€  by Jesi Khadivi, â€œImperfect Compliance: A Trajectory of 
 Transformationâ€  by Dana Claxton and Tania Willard and â€œManifesto 
 on Artistsâ€™ Rightsâ€  by Tania Bruguera.
@@ -57,7 +57,7 @@ Two special Institutions by Artists commissions were initiated and
 produced during the conference: Call to Order by Kathleen Ritter and 
 James S. Maxwell and Study 1 by Artifact Institute. The complete Call 
 to Order recordings and scores are available for listening and 
-download. Artifact Institute has released the â€œStudy 1: Participants in 
+download. Artifact Institute has released the “Study 1: Participants in 
 the Institutions by Artists Conferenceâ€  report which can be 
 downloaded here.
 
@@ -76,7 +76,7 @@ A two part review by Ian Harbour at Decoy Magazine
 
 A report from Georgie Meagher for an
 
-Liz Parkâ€™s review for Afterall
+Liz Park’s review for Afterall
 
 plus â€œInstitutions by Artists: Resistance or Retreat?â€  by Diana 
 Sherlock for C Magazine and â€œAll for Oneâ€  by Alexander Provan for 
@@ -86,7 +86,7 @@ Big Thanks! to all our conference partners and volunteers!
 
 MODERATORS
 Glenn Alteen, Am Johal, Amy Kazymerchyck, Jonathan Middleton, 
-Kim Nguyen, John Oâ€™Brian, Magnolia Pauker, Robin Simpson, Kate 
+Kim Nguyen, John O’Brian, Magnolia Pauker, Robin Simpson, Kate 
 Steinmann, Jordan Strom, Keith Wallace, Jin-me Yoon, Amy Zion
 
 SFU FACULTY LIAISONS
@@ -99,7 +99,7 @@ Andrew McCord, Greg Monforton, Jean Routhier, Sandra Wintner
 PRODUCTION AND GUEST SERVICES VOLUNTEERS
 Barbara Cole, Brady Cranfield, Sydney Hart, Jesi Khadivi, Lauren 
 Marsden, Brian McBay, Justin Muir, Liz Park, Althea Thauberger, 
-Howie Tsui, Michael Turner, Julia VallvÃ©, Annabel Vaughan, Alexis 
+Howie Tsui, Michael Turner, Julia Vallvé, Annabel Vaughan, Alexis 
 Zavialoff, Christina Andreola , JosÃ© Arias Montoya , Erin Brown , 
 Ajaye Bureyko , Sheena Clark , Andrea Creamer , Caroline 
 Engelstad , Emma Fitzmaurice , Lisa Graston , Michelle Hadbavny , 
@@ -119,37 +119,37 @@ would like to continue to let you know about new releases and
 research opportunities on ArcPost.ca
 
 If you wish to be removed from this mailing list please choose 
-â€˜unsubscribeâ€™ at the bottom of this email.
+‘unsubscribe’ at the bottom of this email.
 
 La Pacific Association of Artist Run Centres et Fillip sont heureux 
-dâ€™annoncer que de nouveaux textes commissionnÃ©s pour Institutions 
-by Artists ont Ã©tÃ© publiÃ©s en ligne sur arcpost.ca/articles. Parmi ceux-
+d’annoncer que de nouveaux textes commissionnés pour Institutions 
+by Artists ont été publiés en ligne sur arcpost.ca/articles. Parmi ceux-
 ci, on retrouve : â€œCrises (and Coping) in the Work of General Ideaâ€  
-par Philip Monk; â€œA Productive Irritant: Parasitical Inhabitations in 
+par Philip Monk; “A Productive Irritant: Parasitical Inhabitations in 
 Contemporary Artâ€  par Matt Post & Chris Fitzpatrick, â€œInstitutions of 
 Regionalism: Artist-collectivism in London, Ontario, 1960-1990â€  par 
-Christopher Regimbal, â€œArtmoreorless: The Early Performances of 
+Christopher Regimbal, “Artmoreorless: The Early Performances of 
 Ascoâ€  par Jesi Khadivi, â€œImperfect Compliance: A Trajectory of 
 Transformationâ€  par Dana Claxton et Tania Willard, et â€œManifesto on 
 Artistsâ€™ Rightsâ€  par Tania Bruguera.
 
-Oeuvres commandÃ©es sur arcpost
-Deux nouvelles Å“uvres commandÃ©es ont Ã©tÃ© rÃ©alisÃ©es dans le 
+Oeuvres commandées sur arcpost
+Deux nouvelles œuvres commandées ont été réalisées dans le 
 cadre du projet Institutions by Artists : Call to Order de Kathleen Ritter 
-et James S. Maxwell et Study 1 de lâ€™Artifact Institute. Les partitions et 
-enregistrements de Call to Order peuvent Ãªtre tÃ©lÃ©chargÃ©s et Ã©coutÃ©s 
+et James S. Maxwell et Study 1 de l’Artifact Institute. Les partitions et 
+enregistrements de Call to Order peuvent être téléchargés et écoutés 
 en ligne. Le rapport de Study 1: Participants in the Institutions by 
-Artists Conference peut Ã©galement Ãªtre tÃ©lÃ©chargÃ© de notre site 
+Artists Conference peut également être téléchargé de notre site 
 internet.
 
-Rappel : la documentation vidÃ©o complÃ¨te de la confÃ©rence 
-Institutions by Artists peut Ãªtre visionnÃ©e en ligne. La sÃ©rie de vidÃ©os, 
+Rappel : la documentation vidéo complète de la conférence 
+Institutions by Artists peut être visionnée en ligne. La série de vidéos, 
 produite Ian Barbour, Darren Heroux, Josh Olson et Ron Tran, offre 
 plus de 33 heures de visionnement et documente toutes les sessions 
-et dÃ©bats de la confÃ©rence.
+et débats de la conférence.
 
-Plusieurs comptes-rendus de la confÃ©rence Institution By Artists ont 
-Ã©tÃ© publiÃ©s, dont un article de Bryne McLaughlin dans Canadian Art
+Plusieurs comptes-rendus de la conférence Institution By Artists ont 
+été publiés, dont un article de Bryne McLaughlin dans Canadian Art
 
 Johanna Plant de Portage Press
 
@@ -157,27 +157,27 @@ Une revue en deux-temps dâ€™Ian Harbour pour Decoy Magazine 
 
 Un compte-rendu de Georgie Meagher pour an
 
-Un exposÃ© de Liz Park pour Afterall
+Un exposé de Liz Park pour Afterall
 
 Et â€œInstitutions by Artists: Resistance or Retreat?â€  par Diana Sherlock 
 pour C Magazine et â€œAll for Oneâ€  par Alexander Provan pour Frieze.
 
-Nous remercions sincÃ¨rement tous nos partenaires et bÃ©nÃ©voles!
+Nous remercions sincèrement tous nos partenaires et bénévoles!
 
-MODÃ‰RATEURS : Glenn Alteen, Am Johal, Amy Kazymerchyck, 
-Jonathan Middleton, Kim Nguyen, John Oâ€™Brian, Magnolia Pauker, 
+MODÉRATEURS : Glenn Alteen, Am Johal, Amy Kazymerchyck, 
+Jonathan Middleton, Kim Nguyen, John O’Brian, Magnolia Pauker, 
 Robin Simpson, Kate Steinmann, Jordan Strom, Keith Wallace, Jin-
 me Yoon, Amy Zion
 
-MEMBRES DE LA FACULTÃ‰ Ã  SFU : Sabine Bitter, Elspeth Pratt
+MEMBRES DE LA FACULTÉ à SFU : Sabine Bitter, Elspeth Pratt
 
 TECHNICIENS DE SFU : Heather Blakemore, Heather Lamb, Stefan 
 Smulovitz, Jordan Boivin, Andrew McCord, Greg Monforton, Jean 
 Routhier, Sandra Wintner
 
-BÃ‰NÃ‰VOLES : Barbara Cole, Brady Cranfield, Sydney Hart, Jesi 
+BÉNÉVOLES : Barbara Cole, Brady Cranfield, Sydney Hart, Jesi 
 Khadivi, Lauren Marsden, Brian McBay, Justin Muir, Liz Park, Althea 
-Thauberger, Howie Tsui, Michael Turner, Julia VallvÃ©, Annabel 
+Thauberger, Howie Tsui, Michael Turner, Julia Vallvé, Annabel 
 Vaughan, Alexis Zavialoff, Christina Andreola , JosÃ© Arias Montoya , 
 Erin Brown , Ajaye Bureyko , Sheena Clark , Andrea Creamer , 
 Caroline Engelstad , Emma Fitzmaurice , Lisa Graston , Michelle 
@@ -191,11 +191,11 @@ Les organisateurs du projet Institutions by Artists :
 Lorna Brown, Kristina Lee Podesva, Jeff Khonsary, Allison Collins, et 
 Mariane Bourcheix-Laporte.
 
-Nous vous avons envoyÃ© des nouvelles du projet Institutions by 
-Artists grÃ¢ce Ã  nos partenariats avec ARCA, PAARC et Fillip, et 
-aimerions continuer Ã  vous garder au courant dâ€™opportunitÃ©s de 
-recherche et des nouveautÃ©s sur Arcpost.ca. Si vous ne dÃ©sirez plus 
-recevoir de courriels, veuillez cliquer â€˜unsubscribe.â€™
+Nous vous avons envoyé des nouvelles du projet Institutions by 
+Artists grâce à nos partenariats avec ARCA, PAARC et Fillip, et 
+aimerions continuer à vous garder au courant d’opportunités de 
+recherche et des nouveautés sur Arcpost.ca. Si vous ne désirez plus 
+recevoir de courriels, veuillez cliquer ‘unsubscribe.’
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-04-11-02-presentation-house-gallery-slavs-and-tatars-apr-11">02. Presentation House Gallery | SLAVS AND TATARS | APR 11</a>
@@ -208,7 +208,7 @@ April 11
 
 EXHIBITION
 
-FRIENDSHIP OF NATIONS: POLISH SHIâ€™ITE SHOWBIZ
+FRIENDSHIP OF NATIONS: POLISH SHI’ITE SHOWBIZ
 
 April 12 to May 26, 2013
 
@@ -222,15 +222,15 @@ REVERSE JOY LAUNCH: Wednesday April 10, 5:30PM at the
 fountain in the Wall Center Plaza, intersection of Burrard and Nelson
 
 Presentation House Gallery is pleased to announce Friendship of 
-Nations: Polish Shiâ€™ite Showbiz, the first exhibition in Canada of the 
+Nations: Polish Shi’ite Showbiz, the first exhibition in Canada of the 
 artist collective Slavs and Tatars.
 
 Curated by Vancouver-based artist Babak Golkar, Friendship of 
-Nations: Polish Shiâ€™ite Showbiz traces a shared genealogy between 
+Nations: Polish Shi’ite Showbiz traces a shared genealogy between 
 Iran and Poland. Beginning as an investigation into the Iranian 
-Revolution of 1979 and the Solidarity Movement of 1980 â€“ two key 
+Revolution of 1979 and the Solidarity Movement of 1980 – two key 
 moments that bookend the stories of twenty-first century Islamic 
-modernity and twentieth-century communism, respectively â€“ the 
+modernity and twentieth-century communism, respectively – the 
 project draws on research that stretches from the seventeenth-
 century Sarmatism of the Polish nobility, to the recent Green
 movement in Iran. Channeling the folklore and artisanal crafts of both 
@@ -248,7 +248,7 @@ in a number of European cities.
 
 Slavs and Tatars is a collective devoted to an area east of the former 
 Berlin Wall and west of the Great Wall of China known as Eurasia. 
-The collectiveâ€™s work spans several media, disciplines, and a broad 
+The collective’s work spans several media, disciplines, and a broad 
 spectrum of cultural registers (high and low) focusing on an oft-
 forgotten sphere of influence between Slavs, Caucasians and 
 Central Asians. The members of the collective are based between 
@@ -258,13 +258,13 @@ Love Me, Love Me Not: Changed Names(onestar press, 2010), Not
 Moscow Not Mecca(Revolver/Secession, 2012), 
 Khhhhhhh(Mousse/Moravia Gallery, 2012) as well astheir translation 
 of the legendary Azeri satire Molla Nasreddin: the
-magazine that wouldâ€™ve, couldâ€™ve, shouldâ€™ve (JRP-Ringier, 2011). 
+magazine that would’ve, could’ve, should’ve (JRP-Ringier, 2011). 
 Their work has been exhibited at the 10th Sharjah, 8th Mercosul, 3rd 
 Thessaloniki, and 9th Gwangju Biennials and Museum of Modern Art, 
 NYC.
 
 Visit www.presentationhousegallery.org for more information about
-FRIENDSHIP OF NATIONS: POLISH SHIâ€™ITE SHOWBIZ.
+FRIENDSHIP OF NATIONS: POLISH SHI’ITE SHOWBIZ.
 
 Presentation House Gallery
 333 Chesterfield Avenue
@@ -286,7 +286,7 @@ The Ends of the Earth
 
 Book Launch and Reading
 April 11, 2013 at 7pm
-Please join READ for the launch of Jacqueline Turnerâ€™s 'The Ends of 
+Please join READ for the launch of Jacqueline Turner’s 'The Ends of 
 the Earth'. Turner will read from her new book and will be joined by 
 students from her creative writing class at Emily Carr University
 who will read short works prepared especially for this event.
@@ -296,13 +296,13 @@ environmental nightmares, and broken relationships to find love cast
 away at the end of days. Its urban settings are counterbalanced with 
 the idea of escape, deserted islands, and ocean solitudes. In this 
 collection of playful, challenging, and beautiful poems, Jacqueline 
-Turner uses the interrobang â€” a question mark combined with an 
-exclamation point, the excited question â€” as a symbol of our times to 
+Turner uses the interrobang — a question mark combined with an 
+exclamation point, the excited question — as a symbol of our times to 
 move the work through a host of genres. Like notes washed ashore 
 in bottles, this book seeks an exchange. Its scope is as vast as the 
 question of how to survive modernity. In The Ends of the Earth,
 you can smell the salt air or revel in an alternate vision of the future.
-â€”ECW Press, publisher of 'The Ends of the
+—ECW Press, publisher of 'The Ends of the
 Earth'
 
 The following Emily Carr creative writing students will read new work:
@@ -353,7 +353,7 @@ examines and redefines men's roles and relationships.
 Drawn from the collection of the Morris and Helen Belkin Art Gallery, 
 Full Frontal explores the relationship between masculinity and male 
 sexuality, and why the image of a naked man, baring all, is one of 
-societyâ€™s last taboos.
+society’s last taboos.
 
 With works spanning over 50 years, Full Frontal investigates the 
 stake our society has placed in representations of the male body, 
@@ -361,8 +361,8 @@ questioning why â€œmanhoodâ€  refers to both male identity and the
 physical penis. Through photographs, paintings, drawings, sculpture, 
 video and archival material, Full Frontalexplores how artists, both 
 publically and privately, have represented the penis-phallus. The 
-exhibition couples images of the phallusâ€”the socially approved 
-symbol of male powerâ€”with images of the fleshâ€”the often censored 
+exhibition couples images of the phallus—the socially approved 
+symbol of male power—with images of the flesh—the often censored 
 penis that our society carefully regulates.
 
 In bringing many perspectives and subjectivities to the sexualized 
@@ -380,7 +380,7 @@ Jungen, Bruce LaBruce, Attila Richard Lukacs, Robert Mapplethorpe,
 Eric Metcalfe, Michael Morris, Jack Shadbolt, Wolfgang Tillmans, 
 Vincent Trasov, Joyce Wieland, and others.
 
-Full Frontal is curated by Katie Schroeder, a Masterâ€™s Candidate in 
+Full Frontal is curated by Katie Schroeder, a Master’s Candidate in 
 the Critical and Curatorial Studies program at The University of 
 British Columbia.
 
@@ -403,7 +403,7 @@ Anthropology at UBC, and Presentation House Gallery.
 For more information, visit www.satellitegallery.ca, or contact Karen 
 Benbassat at 604.681.8425 or karen@satellitegallery.ca.
 
-Copyright Â© 2011 Satellite Gallery, All rights reserved.
+Copyright © 2011 Satellite Gallery, All rights reserved.
 Our mailing address is:
 560 Seymour Street, 2nd Floor
 Vancouver, BC,
@@ -447,7 +447,7 @@ the Guardian, as well as on his own blog and in published books.
 Juliana Spahr is a poet, scholar, and editor. She is the author of Well 
 Then There Now (Black Sparrow, 2011); The Transformation (Atelos, 
 2007); This Connection of Everyone with Lungs (University of 
-California Press, 2005); Fuck Youâ€”Alohaâ€”I Love You (Wesleyan 
+California Press, 2005); Fuck You—Aloha—I Love You (Wesleyan 
 University Press, 2001); and Response (Sun & Moon Press, 1996). 
 She is Professor of English at Mills College.
 
@@ -464,7 +464,7 @@ visit
 http://rentassembly.org/?page_id=21
 
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 The Kootenay School of Writing, All rights 
+Copyright © 2013 The Kootenay School of Writing, All rights 
 reserved.
 You are receiving this email because you signed up via our website.
 Our mailing address is:
@@ -482,7 +482,7 @@ Grant Arnold and Robin Simpson
 Saturday, April 13, 2PM
 
 Speakeasy: Salon is a series of talks and presentations that 
-interrogates Artspeakâ€™s mandate to encourage a dialogue between 
+interrogates Artspeak’s mandate to encourage a dialogue between 
 visual art and writing. In this incarnation, speakers will present within 
 the conversational salon format on wide-ranging subjects including 
 art, music, literature, politics, popular culture, and science. Speakers 
@@ -499,7 +499,7 @@ Grant Arnold: The Lord of Obstacles in the Suburbs: My Carved Ivory
 Figure of Ganesh
 
 Grant Arnold is currently Audain Curator of British Columbia Art at the 
-Vancouver Art Gallery, where he contributes to the Galleryâ€™s 
+Vancouver Art Gallery, where he contributes to the Gallery’s 
 exhibition and collecting activities. He was previously Senior Curator 
 at the Art Gallery of Windsor and Extension Coordinator at the 
 Mendel Art Gallery in Saskatoon. He holds an M.A. in art history from 
@@ -519,16 +519,16 @@ Myfanwy MacLeod, Gareth Moore and Jerry Pethick.
 
 Robin Simpson
 
-â€œI had just contracted an upper respiratory infection when Kim asked 
+“I had just contracted an upper respiratory infection when Kim asked 
 me to participate in this series. The infection was working its way 
 between my sinuses and bronchial passage. I refused to rest my 
 voice and within a week I had lost it completely. That was about a 
 month ago, my voice has returned but I continue to run into people 
 who have the same infection. Most of these people are in some way 
 or another connected to artist-run culture here in Vancouver. 
-Something is going around. ItÂ´s caught at openings and talks, the 
+Something is going around. It´s caught at openings and talks, the 
 handful of bars we frequent, from popular library books, and the other 
-speakeasies and studio parties we attend. IÂ´ve been daydreaming of 
+speakeasies and studio parties we attend. I´ve been daydreaming of 
 a new mute art scene or at least one where we all spoke in hushed, 
 guttural voices.
 
@@ -565,7 +565,7 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free
 
 
@@ -610,16 +610,16 @@ Lou Lynn began exploring the sculptural potential of glass in the mid
 undertook at the Pilchuck Glass School, in Washington. Her work 
 draws from an interest in archaic and industrial tools and artifacts. 
 Working in glass and bronze, Lynn creates a tension between the 
-materialsâ€™ strength and fragility and is central in her re-interpretation 
+materials’ strength and fragility and is central in her re-interpretation 
 of tools and artifacts that once held a prominent place in industrial 
 and domestic environments. 
 
-Lynnâ€™s sculpture has been widely exhibited and is displayed in 
+Lynn’s sculpture has been widely exhibited and is displayed in 
 prominent public collections in Canada and internationally. Lynn is 
 the recipient of the Vancouver Foundation VADA Award and in 2006 
 the Gerson Award for Excellence, Innovation & Leadership, from the 
 Craft Council of BC. She has twice been nominated for the Governor 
-Generalâ€™s Award (Saidye Bronfman Award) and in 2010 she was 
+General’s Award (Saidye Bronfman Award) and in 2010 she was 
 inducted into the Royal Canadian Academy of Arts. Lou Lynn lives 
 and maintains a studio in Winlaw, BC.
 
@@ -633,7 +633,7 @@ and Japan. He has been a resident artist at the Archie Bray
 Foundation for the Ceramic Arts (Helena, MT) and at the European 
 Ceramic Work Centre (s-Hertogenbosch, NL).
 
-Tangâ€™s work is exhibited in Canada and internationally. He has 
+Tang’s work is exhibited in Canada and internationally. He has 
 been profiled by The Knowledge Network, and featured in printed 
 publications including The National Post, Wired (UK and Italy), and 
 ELLE (Canada). In 2012 Tang received the RBC Emerging Artist 
@@ -675,11 +675,11 @@ RELATED PROGRAMMING
 
 THURSDAY, MAY 9
 
-Artistsâ€™ Talk with Brendan Lee Satish Tang and Julie York
+Artists’ Talk with Brendan Lee Satish Tang and Julie York
 
 7:00pm -8:00pm
 
-Meet and Greet Director, Rachel Rosenfield Lafo following the Artistsâ€™ 
+Meet and Greet Director, Rachel Rosenfield Lafo following the Artists’ 
 talk
 
 8:00pm -9:00pm No-host bar-social. Free admission
@@ -691,7 +691,7 @@ FILM SCREENING: AI WEI WEI: NEVER SORRY
 Director: Alison Klayman / 91 Mins / Documentary / Language: 
 Mandarin / English
 
-Time: 7:00pm â€“ 9:30pm
+Time: 7:00pm – 9:30pm
 
 Admission: $5 cash at the door; Richmond Art Gallery members free
 
@@ -726,13 +726,13 @@ Surrey Art Gallery
 
 April 13 - June 16
 
-Spectacular Sangeet is Surrey Art Galleryâ€™s new larger-than-life 
+Spectacular Sangeet is Surrey Art Gallery’s new larger-than-life 
 exhibition of performance and theatricality spanning the grand scale of 
 old Bollywood films to the more intimate spaces of community 
-traditions. Sangeet â€“ the Hindi word for music and dance â€“ refers to a 
+traditions. Sangeet – the Hindi word for music and dance – refers to a 
 selection of South Asian musical styles. Spectacular Sangeet features 
 these same styles remixed with digital design, new media, and 
-contemporary art with generous helpings of humour, fun â€“ and a dash 
+contemporary art with generous helpings of humour, fun – and a dash 
 of irony. This group exhibition, with artworks from eight Canadian and 
 British artists, illuminates relationships between the body and music, 
 the individual and the group, gender and labour, spirituality and the 
@@ -743,7 +743,7 @@ Ikbal Singh (Vancouver), and Meera Margaret Singh (Toronto).
 
 Spectacular Sangeet launches on April 13 with a talk by visual artist 
 Meera Margaret Singh at 6:30pm followed by an opening reception 
-from 7:30pm to 9:30pm. The exhibition continues to June 16 â€“ 
+from 7:30pm to 9:30pm. The exhibition continues to June 16 – 
 admission is by donation.
 
 This exhilarating assembly of retro Bollywood poster collage, kinetic 
@@ -754,11 +754,11 @@ Burman mines Bollywood film history, courtesan culture, Indian comic
 books, and found art to create a layered meditation on identity, gender, 
 and music. Oliver Husain unravels notions of beauty, and plays with 
 mirroring and multiplicity while putting the theatrical back into film. Ron 
-Sanghaâ€™s new, digitally altered pictures of Bharatanatyam performance 
+Sangha’s new, digitally altered pictures of Bharatanatyam performance 
 consider the relationship between the singular dancer and the many. 
 Whether celebratory or critical, audacious or introspective, each 
 artwork presents a picture worth a thousand songs and represents a 
-living â€“ and vibrant â€“ artistic tradition.
+living – and vibrant – artistic tradition.
 
 Spectacular Sangeet is curated by Naveen Girn and Jordan Strom
 
@@ -770,7 +770,7 @@ Life
 
 Ongoing to 
 
-Presented in the Surrey Art Centreâ€™s lobby elevator, Ian Skeddâ€™s new 
+Presented in the Surrey Art Centre’s lobby elevator, Ian Skedd’s new 
 sound installation responds to genres of background music and 
 soundtracks of public announcement. This is the first of three 
 exhibitions within the Open Sound 2013: Sound / Tract program that is 
@@ -778,16 +778,16 @@ guest curated by Debra Zhou.
 
 Events
 
-Artistâ€™s Talk with Meera Margaret Singh
+Artist’s Talk with Meera Margaret Singh
 
 Saturday, April 13, 6:30pm
 
-Join one of the Toronto arts sceneâ€™s vital emerging voices, Meera 
+Join one of the Toronto arts scene’s vital emerging voices, Meera 
 Margaret Singh, for a discussion of her video installation piece, 
 Community Centre. This work examines private and public moments of 
 celebration through dance, family and community.
 
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 Opening Reception
 
@@ -795,11 +795,11 @@ Saturday, April 13, 7:30-9:30pm | Formal Remarks: 7:45pm
 
 with DJ Reminisce
 
-Free â€“ donations gratefully received
+Free – donations gratefully received
 
 Surrey Art Gallery
 
-13750 â€“ 88th Avenue,
+13750 – 88th Avenue,
 
 Surrey, BC
 
@@ -878,7 +878,7 @@ movement, interaction and ideas.
 
 More than six years in the making, the exhibition is a thought-
 provoking and dynamic presentation featuring noted hotels around the 
-globe and throughout history. Co-curated by the Galleryâ€™s Senior 
+globe and throughout history. Co-curated by the Gallery’s Senior 
 Curator Bruce Grenville with Assistant Curator Stephanie Rebick, this 
 first-ever exhibition on the hotel as a defining architectural structure of 
 the modern age fills a considerable void in existing scholarship on this 
@@ -910,7 +910,7 @@ Tokyo. These were developed in collaboration with the top figures in
 Dutch design, art and architecture, alongside major input from new 
 emerging professionals, and the development of projects with design 
 students. Central to their concepts is a lack of fear for the impossible 
-and unknown, and a desire to treat travellers with â€˜cultural luggageâ€™ as 
+and unknown, and a desire to treat travellers with ‘cultural luggage’ as 
 an opportunity for social exchange.
 
 Oxenaar, together with Guda Stoop and Chef Thor made her mark in 
@@ -918,8 +918,8 @@ the hospitality business, by initiating the Supperclub Amsterdam, the
 first lounge-restaurant in the city. In her talk she will describe how her 
 background in curating art in public space has led her to develop 
 inventive frameworks for exchange by treating the hotel as place of risk 
-and adventure, as well as commerce and culture. For Oxenaar, â€˜Grand 
-Hotelâ€™ stands for a mentality in which a cosmopolitan perspective, a 
+and adventure, as well as commerce and culture. For Oxenaar, ‘Grand 
+Hotel’ stands for a mentality in which a cosmopolitan perspective, a 
 personal approach and innovative design contribute to a constant 
 interplay between the private and the public. In this interplay, what is 
 most important is the exchange of cultural knowledge. Suzanne 
@@ -1047,7 +1047,7 @@ poems and interviews herein reflect the diversity of forms through
 which art is currently produced and considered. We feature a spectrum 
 of contributors, from students to established artists and writers, all the 
 while prioritizing a combination of creativity and rigorous inquiry. Setup 
-magazine began as a project for The Practice of Artistsâ€™ Publishing, a 
+magazine began as a project for The Practice of Artists’ Publishing, a 
 course taught by Kathy Slade at Emily Carr University in the fall of 
 2010. Published by Publication Studio Vancouver, it is independently 
 funded and released on an unfixed schedule. We gratefully 
@@ -1058,8 +1058,8 @@ acknowledge the generosity of our contributors and readers.
 ------------------------------------------------------------------------
 I Need All the Friends I Can Get: SFU Visual Art BFA Graduating 
 Exhibition
-Exhibition: April 18 â€“ April 27
-Opening Reception: Wednesday, April 17, 7 â€“ 10 pm
+Exhibition: April 18 – April 27
+Opening Reception: Wednesday, April 17, 7 – 10 pm
 
 The School for the Contemporary Arts and the Audain Gallery are 
 pleased to announce I Need All the Friends I Can Get, the 2013 SFU 
@@ -1074,7 +1074,7 @@ asking: How do artists remain open to the possibility of intimacy, not
 only between each other but also between their own work and 
 themselves?
 
-I Need All the Friends I Can Get features work by JosÃ© Arias, Emma 
+I Need All the Friends I Can Get features work by José Arias, Emma 
 Brack, Whitney Chow, Andrea Creamer, Brenna Holler, Tasia Mathot, 
 Kate Mitchell, Ramineh Visseh, Vanessa Krystin Wong, and Risa 
 Yamaguchi.
@@ -1084,7 +1084,7 @@ Presented by the School for the Contemporary Arts at SFU.
 Audain Gallery
 Simon Fraser University Goldcorp Centre for the Arts
 149 West Hastings Street
-Tuesday â€“ Saturday, 12 â€“ 6 pm
+Tuesday – Saturday, 12 – 6 pm
 info@audaingallery.ca
 778-782-9102
 www.audaingallery.ca
@@ -1106,7 +1106,7 @@ Vancouver
 
 (entrance on east side of the building)
 
-You are cordially invited to a private view at the artistâ€™s studio, prior to 
+You are cordially invited to a private view at the artist’s studio, prior to 
 her solo exhibition next month at Bau-xi Gallery,Toronto.
 
 Refusing to be categorized in terms of subject or "style", with this new 
@@ -1121,7 +1121,7 @@ images in film montage.
 
 In her process, Nelson keeps painting over the image until it begins to 
 move away from what she thought it was about (the subject), to 
-something that only paint can say. â€œIâ€™m interested in painting something 
+something that only paint can say. “I’m interested in painting something 
 you can recognize, but I need to allow for the flaws and sometimes 
 awkward passages; that opens up the possibility for more interesting 
 things to happen. â€ 
@@ -1168,12 +1168,12 @@ Erin Shirreff
 Pictures
 April 19 to June 16, 2013
 
-Erin Shirreffâ€™s solo exhibition at the Contemporary Art Gallery is the first 
-presentation dedicated exclusively to the artistâ€™s film and video work. 
+Erin Shirreff’s solo exhibition at the Contemporary Art Gallery is the first 
+presentation dedicated exclusively to the artist’s film and video work. 
 Shirreff is most known for reproducing sculpture as images or making 
 sculpture that distils the essence of a photograph, playing these two 
 elements against one another as a means to prompt and test the 
-viewerâ€™s response.
+viewer’s response.
 
 Each of the four works in the exhibition begin with a picture that is then 
 altered in some manner: given three dimensional form, or subjected to 
@@ -1183,10 +1183,10 @@ Sculpture Park (Tony Smith), tracking of a static shot. Many of the
 videos have a central feature, focusing on a building, sculpture or 
 landscape. A recent work Lake is an image of Lake Okanagan in B.C. 
 where Shirreff grew up and her family still lives. The image is from an 
-early â€™80s tourism magazine and has a hand painted quality. For this 
+early ’80s tourism magazine and has a hand painted quality. For this 
 work Shirreff altered the original image, creating variations with subtle 
 shifts in colour, which she re-photographed and sequenced in a 
-manner that both holds and changes the viewerâ€™s attention. Whether it 
+manner that both holds and changes the viewer’s attention. Whether it 
 is a photograph of Lake Okanagan, a Medardo Rosso sculpture from 
 1896, Tony Smith sculptures or the United Nations Building in New 
 York, the thing or scene being represented loses its central focus as 
@@ -1195,7 +1195,7 @@ and our encounter with it.
 
 The exhibition is presented in collaboration with Carleton University Art 
 Gallery and Agnes Etherington Art Centre, collectively marking the first 
-comprehensive exhibition of Shirreffâ€™s work in Canada. Each venue 
+comprehensive exhibition of Shirreff’s work in Canada. Each venue 
 presented unique exhibitions, drawing out varied strands in her rich 
 body of work, and have come together to produce her first monograph. 
 The publication features essays by Sandra Dyck and Jan Allen and an 
@@ -1225,7 +1225,7 @@ of our planet Earth and its annual orbit around the sun. Photography
 has always played a central role within her work, both as a way of 
 engaging with the landscape and as a way of documenting site-specific 
 projects. This exhibition comprises major photographic pieces which 
-reveal Holtâ€™s ongoing sensibilities regarding framing, viewing and 
+reveal Holt’s ongoing sensibilities regarding framing, viewing and 
 picturing through apertures, openings and other structures, including 
 early work such as Concrete Visions (1967) the important Bar None 
 (1967) made with the artist Robert Smithson; a series of photographs 
@@ -1237,7 +1237,7 @@ Vancouver itself could not be a more appropriate location for this
 exhibition, the city renowned for its setting within magnificent natural 
 surroundings, the ongoing photographic legacies of image-making 
 within international visual arts practice, and for also being the site of 
-the seminal Glue Pour (1970) by Smithson, Holtâ€™s late husband.
+the seminal Glue Pour (1970) by Smithson, Holt’s late husband.
 
 Nancy Holt was born in Worcester, Massachusetts in 1938 and 
 currently lives and works in Galisteo, New Mexico. She has received 
@@ -1246,21 +1246,21 @@ Creative Artist Fellowships, a Guggenheim Fellowship and an
 Honorary Doctorate from the University of South Florida, Tampa. Holt 
 has produced site-specific environmental works in numerous public 
 places around the world she has also completed large-scale land 
-reclamation projects and Holtâ€™s films and videos, have been seen in 
+reclamation projects and Holt’s films and videos, have been seen in 
 exhibitions at major institutions internationally including the The New 
 Museum of Contemporary Art, New York; The Whitney Museum of 
 American Art, New York; The Museum of Modern Art, New York; 
 Museum of Contemporary Art, Los Angeles; Tampere Art Museum and 
-Museum of Contemporary Art, Finland; MusÃ©e dâ€™Art Moderne de la 
+Museum of Contemporary Art, Finland; Musée d’Art Moderne de la 
 Ville de Paris; Tate Modern, London; Barbican Centre, London; 
-SFMoMA, San Francisco; Museo Tamayo Arte ContemporÃ¡neo, 
+SFMoMA, San Francisco; Museo Tamayo Arte Contemporáneo, 
 Mexico City; Dia Center for the Arts, New York, and P.S.1 MoMa 
 Contemporary Art Center, New York.
 
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening â€“ Thursday, April 18, 7-10pm at the CAG
+1) Exhibition Opening – Thursday, April 18, 7-10pm at the CAG
 Public opening and celebration of the exhibition.
 Opening reception sponsor: Kronenbourg 1664.
 
@@ -1288,13 +1288,13 @@ Tuesday, April 23, 7pm
 Randy Lee Cutler is an Associate Professor in the Faculty of Visual Art 
 + Material Practice at Emily Carr University. As a writer, artist and 
 educator she is invested in the emergence of new cultural forms and 
-expression. Launching from Erin Shirreffâ€™s exhibition, Cutler will share 
+expression. Launching from Erin Shirreff’s exhibition, Cutler will share 
 her research into crystals.
 Allison Collins
 Tuesday, May 21, 7 pm
 Allison Collins is a curator, writer and researcher who currently holds 
 the position of Adult Public Programs Coordinator at the Vancouver Art 
-Gallery. Prompted by both Erin Shirreff and Nancy Holtâ€™s exhibitions, 
+Gallery. Prompted by both Erin Shirreff and Nancy Holt’s exhibitions, 
 Collins will share her research into the material nature of video and 
 film.
 Marian Penner Bancroft
@@ -1309,7 +1309,7 @@ and more recently, video. Her current interests are the intersections of
 the photographic image with history, music and mapping strategies in 
 relation to representations of landscape.
 
-4) Free Guided Visits â€“ Saturdays, May 4, June 8, June 15 and June 
+4) Free Guided Visits – Saturdays, May 4, June 8, June 15 and June 
 22, Contemporary Art Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications 
 Coordinator , Curator Jenifer Papararo and Shaun Dacey, Curator of 
@@ -1347,7 +1347,7 @@ E: j.henderson@contemporaryartgallery.ca W:
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 
 6R5
-Hours: Tues â€“ Sun: 12 â€“ 6 pm. FREE ADMISSION 
+Hours: Tues – Sun: 12 – 6 pm. FREE ADMISSION 
 
 ENDS
 
@@ -1361,7 +1361,7 @@ residency with Raymond Boisjoly is supported by the Province of British
 Columbia through the Ministry of Advanced Education, Innovation and 
 Technology. As It Comes at Yaletown-Roundhouse Station, Canada 
 Line is presented in partnership with the Canada Line Public Art 
-Program â€” IntransitBC.
+Program — IntransitBC.
 
 
 ------------------------------------------------------------------------
@@ -1374,18 +1374,18 @@ UBC 2013 BFA/BA Visual Art Graduating Exhibition
 April 18th 2013
 
 The Department of Art History, Visual Art and Theory at UBC is 
-pleased to present Is It Happening? this yearâ€™s BFA/BA Visual Art 
+pleased to present Is It Happening? this year’s BFA/BA Visual Art 
 Graduating Exhibition. Featuring work from a diverse background of 
 theories, materials and methodologies, the exhibition showcases the 
-culmination of the studentsâ€™ investigations, both material and 
+culmination of the students’ investigations, both material and 
 dematerial, throughout the past four years.
 
-Please join us in celebrating the graduatesâ€™ achievements and enjoy 
+Please join us in celebrating the graduates’ achievements and enjoy 
 the work of emerging young talent in your city!
 
 Opening Reception: April 18th 2013, 5-9PM
 
-Exhibition runs April 18th â€“ 27th 2013
+Exhibition runs April 18th – 27th 2013
 
 Monday-Saturday | 12-4PM
 
@@ -1416,12 +1416,12 @@ Free and open to the public
 
 Made from a seemingly random selection of materials sourced from 
 nearby construction sites, Shanghai-based artist collective MadeIn 
-Companyâ€™s installation Calm at Offsite prompts us reconsider issues of 
+Company’s installation Calm at Offsite prompts us reconsider issues of 
 perception. At first glance this site-specific sculpture appears to be 
 debris from a recent disaster, demolition or construction project, but 
 upon closer inspection the pile of rubble slowly undulates. In a state of 
 constant flux, it evokes the endlessly changing cityscape that has 
-become typical in present day China and elsewhere. Calmâ€™s ambiguity, 
+become typical in present day China and elsewhere. Calm’s ambiguity, 
 along with its unexpected ability to move, provokes us to question ways 
 of observing, believing and understanding facts, and reminds us that 
 the truth often differs from what it seems.
@@ -1431,7 +1431,7 @@ and provocateur Xu Zhen in 2009. The Shanghai-based group
 satirically portrays itself as a contemporary art corporation focused on 
 the production of creativity, with up to thirty artists working on any 
 given project. Aside from this practice, MadeIn Company curates 
-exhibitions and supports othersâ€™ art projects, including the online 
+exhibitions and supports others’ art projects, including the online 
 Chinese contemporary art forum Art Ba-Ba. The group has participated 
 in both national and international exhibitions at such institutions as 
 ShanghART Gallery, Shanghai; Long March Space, Beijing; S.M.A.K., 
@@ -1439,10 +1439,10 @@ Gent; IKON Gallery, Birmingham; Kunsthalle Bern; Hayward Gallery,
 London; and Rijskakademie, Amsterdam and has also participated in 
 the 8th Shanghai Biennale; 7th Busan Biennale and 1st Kiev Biennale.
 
-Offsite is the Vancouver Art Galleryâ€™s outdoor public art space in the 
+Offsite is the Vancouver Art Gallery’s outdoor public art space in the 
 heart of urban Vancouver. Presenting an innovative program of 
 rotating projects, Offsite serves as a site for local and international 
-contemporary artistsâ€™ explorations of issues related to the surrounding 
+contemporary artists’ explorations of issues related to the surrounding 
 urban context. Featured artists consider the site-specific potential of art 
 within the public realm and respond to the changing social and cultural 
 conditions of our contemporary world. Offsite exhibits new temporary 
@@ -1507,7 +1507,7 @@ the studios will be accessible 24 hours a day
 residents are expected to keep their spaces and the studio tidy, as 
 well as treat the facilities and equipment respectfully
 
-there will be a group exhibition of residentsâ€™ work held in the Mary E. 
+there will be a group exhibition of residents’ work held in the Mary E. 
 Black Gallery in September
 
 the deadline for all application forms is on Friday April 30th, 2013 at 
@@ -1541,7 +1541,7 @@ for residencies September 2013-September 2014
 
 About. 
 
-Provisions Library â€” an art and social change research organization 
+Provisions Library — an art and social change research organization 
 based in Washington DC and at George Mason University, invites 
 proposals from creative social change agents for research projects in 
 partnerships with DC institutions and communities. Provisions research 
@@ -1557,7 +1557,7 @@ Projects.
 
 Applicants are invited to propose research projects that forge 
 interactions with DC-based academic, policy, research, and cultural 
-institutions. Proposals should be grounded in Provisionsâ€™ social change 
+institutions. Proposals should be grounded in Provisions’ social change 
 Meridians. This year, Provisions has special interest in research 
 projects relating to (but in no way limited by) Agri-Cultures (post-
 industrial permaculture), Mournuments (structures of death, mourning, 
@@ -1573,7 +1573,7 @@ Archives, Library of Congress, DC Public Library, The Smithsonian, the
 National Zoo, various think-tanks, and numerous public policy 
 institutes. Provisions staff supports residency fellows in building 
 research relationships with DC institutions, organizations, and agencies 
-â€” federal and local alike.
+— federal and local alike.
 
 Support.
 
@@ -1582,7 +1582,7 @@ research residencies. National Fellowships for artists born/based
 anywhere in the US include travel and lodging. Capital Fellowships for 
 residents of Metropolitan Washington will engage local communities 
 and help expand Provisions public network. Fellows present two talks 
-â€” one at George Mason University presenting past work, and another 
+— one at George Mason University presenting past work, and another 
 at the end of their stay to present research findings to communities 
 across the capital. Fellows also submit a final PDF document 
 presenting their research for publication on Provisions website. All 
@@ -1674,19 +1674,19 @@ Washington, DC 20015
 CARFAC National presents:
 Artists for Artistsc
 Mentorship, teaching strategies and other tools for visual artists
-May 31st â€“ June 2nd, 2013, Vancouver
+May 31st – June 2nd, 2013, Vancouver
 
 www.carfac.ca
 
 This spring visual artists from across Canada will meet in Vancouver 
-for CARFAC Nationalâ€™s annual conference, Artists for Artists. Panels 
+for CARFAC National’s annual conference, Artists for Artists. Panels 
 will cover, tools for marketing yourself to schools, reclaiming traditional 
 knowledge for indigenous communities, how artists can benefit from 
 the knowledge of their peers through mentorship programs, and how 
-the Artistâ€™s Resale Right would allow artists to share in the profits made 
+the Artist’s Resale Right would allow artists to share in the profits made 
 from their work if it comes to Canada. Mix and mingle with other artists 
-at receptions celebrating CARFACâ€™s 45th Anniversary and the winner 
-of this yearâ€™s Visual Arts Advocacy Award.
+at receptions celebrating CARFAC’s 45th Anniversary and the winner 
+of this year’s Visual Arts Advocacy Award.
 
 Call for Nominations: CARFAC National Visual Arts Advocate Award
 
@@ -1718,7 +1718,7 @@ Program dates: January 13, 2014 - February 21, 2014
 
 Application deadline: June 14, 2013
 
-Faculty: Postcommodity (Raven Chacon, CristÃ³bal MartÃ­nez, Kade L. 
+Faculty: Postcommodity (Raven Chacon, Cristóbal Martínez, Kade L. 
 Twist, Nathan Young)
 
 Postcommodity will lead a group investigation of the complex 
@@ -1729,7 +1729,7 @@ born into and continue to occupy? Could it be the various machines
 and systems simultaneously tugging on you for attention and 
 removing the resources beneath your feet? Please note: Enrolment 
 to this program is limited to individuals of Indigenous descent (status, 
-non-status, MÃ©tis or Inuit).
+non-status, Métis or Inuit).
 
 For more information and to apply:
 

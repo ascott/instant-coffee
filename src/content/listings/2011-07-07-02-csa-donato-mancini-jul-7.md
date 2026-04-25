@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 2
 type: ""
+venue: "CSA"
 summary: "CSA | DONATO MANCINI | JUL 7"
 ---
 
@@ -15,7 +16,7 @@ Curated by Christopher Brayshaw and Steven Tong
 7 July - 21 August, 2011
 Opening reception Thursday, 7 July, 2011, 6-9 pm
 
-#5â€“2414 Main Street
+#5–2414 Main Street
 Vancouver, BC
 V5T 3E2 CANADA
 

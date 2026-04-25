@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 23
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Capture Writing Prize | SEP 14"
 ---
 

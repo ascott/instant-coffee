@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the only way up is down"
 emailDate: "Thu, 11 Jun 2009 09:25:08 -0700"
 number: 11
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | The Cast of Shadows | JUN 19"
 ---
 

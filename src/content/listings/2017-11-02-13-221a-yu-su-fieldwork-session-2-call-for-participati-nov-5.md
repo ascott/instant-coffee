@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 13
 type: "EVENT"
+venue: "221A"
 summary: "221A | Yu Su | Fieldwork Session #2: Call for participati | NOV 5"
 ---
 

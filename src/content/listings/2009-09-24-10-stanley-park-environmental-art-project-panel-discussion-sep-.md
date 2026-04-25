@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: our songs are better"
 emailDate: "Thu, 24 Sep 2009 09:00:25 -0700"
 number: 10
 type: ""
+venue: "Stanley Park Environmental Art Project"
 summary: "Stanley Park Environmental Art Project | Panel Discussion | SEP 26"
 ---
 

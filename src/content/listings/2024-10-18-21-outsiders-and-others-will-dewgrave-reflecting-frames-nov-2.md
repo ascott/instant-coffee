@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 21
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | WILL DEWGRAVE: Reflecting Frames | NOV 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 4
 type: ""
+venue: "SHUDDER GALLERY"
 summary: "SHUDDER GALLERY | studioCAMP | JUL 27"
 ---
 
@@ -24,7 +25,7 @@ technical system is actually physically shaped and how it operates
 when placed in our surrounding architecture? 
 
 MORE OR LESS is a whimsical manifestation of this relationship and 
-seeks to highlight and play with our â€˜more or lessâ€™ knowledge of how the 
+seeks to highlight and play with our ‘more or less’ knowledge of how the 
 built environment around us actually exists.
 
 Opening Reception: Friday July 27, 7pm

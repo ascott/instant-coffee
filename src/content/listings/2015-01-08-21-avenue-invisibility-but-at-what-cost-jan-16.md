@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 21
 type: "OPENING"
+venue: "AVENUE"
 summary: "AVENUE | Invisibility, But At What Cost? | JAN 16"
 ---
 

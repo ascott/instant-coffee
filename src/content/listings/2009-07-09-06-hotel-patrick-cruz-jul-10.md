@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 6
 type: ""
+venue: "HOTEL"
 summary: "HOTEL | Patrick Cruz | JUL 10"
 ---
 

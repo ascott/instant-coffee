@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 21
 type: "EVENT"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Concert with UBC Contemporary Players | 2PM | APR 3"
 ---
 

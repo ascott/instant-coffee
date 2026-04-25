@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Extended! MAKE. BELIEVE | JUN 8"
 ---
 

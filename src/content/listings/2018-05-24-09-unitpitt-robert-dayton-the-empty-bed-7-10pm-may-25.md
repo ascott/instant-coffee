@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 9
 type: "TALK"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | Robert Dayton: The Empty Bed | 7-10PM | MAY 25"
 ---
 

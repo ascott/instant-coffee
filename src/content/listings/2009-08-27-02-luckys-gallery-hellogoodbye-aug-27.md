@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: styles you'll love all season"
 emailDate: "Thu, 27 Aug 2009 08:28:07 -0700"
 number: 2
 type: ""
+venue: "Lucky's Gallery"
 summary: "Lucky's Gallery | hello/goodbye | AUG 27"
 ---
 

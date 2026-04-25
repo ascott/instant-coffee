@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JUNE 21 THIRD BEACH SUNSET SLOWDAN
 emailDate: "Thu, 18 Jun 2009 09:14:05 -0700"
 number: 8
 type: ""
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Public talk by Tom Hill | JUN 27"
 ---
 

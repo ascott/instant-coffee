@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 20
 type: "EDUCATION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | [WORKSHOP] WVAM! Drop-In Family Art Project | APR 27"
 ---
 

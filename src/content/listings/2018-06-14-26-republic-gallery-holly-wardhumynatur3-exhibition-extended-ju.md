@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 26
 type: "EXHIBITION"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Holly Wardhumynatur3 | Exhibition Extended | JUN 30"
 ---
 

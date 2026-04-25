@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 26
 type: "TALK"
+venue: "Spark Artist Talk: Ovila Mailhot"
 summary: "Spark Artist Talk: Ovila Mailhot | Online | OCT 22"
 ---
 

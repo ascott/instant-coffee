@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 47
 type: "CALL"
+venue: "Library and Archives of Canada"
 summary: "Library and Archives of Canada | Artist Residency | JUL 5"
 ---
 

@@ -130,7 +130,7 @@ members, donors and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC,
 V6B 6R5, Canada www.contemporaryartgallery.ca. Gallery
-Hours: Wed. - Sun. 12 Ã¢ï¿½ï¿½ 6 pm.
+Hours: Wed. - Sun. 12 â�� 6 pm.
 Admission is free by donation.
 
 For more information please contact:
@@ -284,7 +284,7 @@ Friday, November 21 at 8pm
 Opening remarks, 8:30pm
 
 for Juliette and Friends
-and Lynn Valley #5 Â³Meet Dick OultonÂ²
+and Lynn Valley #5 ³Meet Dick Oulton²
 
 --
 
@@ -382,7 +382,7 @@ Ever wondered what decision-making looks like when the participants know
 that human lives will hang in the balance? This exhibition of photographs by
 Nick Danziger is the result of a seemingly uncontroversial assignment to
 document then-prime minister Tony Blair's 50th birthday for The Times
-Magazine. Global events forced a metamorphosis of the assignment Â­ it became
+Magazine. Global events forced a metamorphosis of the assignment ­ it became
 a month-long study of a British prime minister deliberating the pros and
 cons of participating in the war in Iraq, during which Danziger, and his
 collaborator on the project, Times Literary Supplement editor Peter
@@ -396,7 +396,7 @@ scenes of dialogue look more like everyday considerations of whether to
 order this or that type of wine for dinner.
 
 Five years after the invasion of Iraq, these striking photographs do what
-photography often does best Â­ provide privileged access to inaccessible
+photography often does best ­ provide privileged access to inaccessible
 people, events, and processes.
 
 Artist talk: Thursday, November 27, 7pm
@@ -582,7 +582,7 @@ Chip Lord, YVR: Arrival and Departure, 1979
 
 Mona Hatoum, Bars, Barbs and Borders â&#65533;&#65533; The Negotiating Table, 1983
 
-Guillermo GÃ³mez-PeÃ±a and Roberto Sifuentes, Dangerous Border Game, 1996
+Guillermo Gómez-Peña and Roberto Sifuentes, Dangerous Border Game, 1996
 
 Antonia Hirsch, Empire Line, 1998
 
@@ -663,7 +663,7 @@ RG image
 Cast A Pall, 2008
 
 edition of 15, with 2 proofs
-each edition consists of two 19" x 18" GiclÃ©e prints on HahnemÃ¼hle
+each edition consists of two 19" x 18" Giclée prints on Hahnemühle
 Watercolour paper
 black lacquer Eastern Maple frames
 Certificate of Authenticity from the artist's studio
@@ -923,7 +923,7 @@ normally be given to Canadian citizens and permanent residents.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2008-11-20-19-front-magazine-call-properties-dec-1">19. CALL | FRONT Magazine | call: Properties | DEC 1</a>
 ------------------------------------------------------------------------
-Call for Submissions Â« FRONT Magazine Â« Properties Â« Dec 1
+Call for Submissions « FRONT Magazine « Properties « Dec 1
 
 FRONT Magazine is accepting work on the theme of "Properties." All
 printable genres of visual art, writing and ephemera will be considered.
@@ -959,7 +959,7 @@ Deadline: December 17th, 2008.
 The Eyelevel Gallery is seeking artists interested in fulfilling a 3-week
 residency in Halifax , NS at the Eyelevel Gallery in conjunction
 with the Dawson Printshop. The artist in residence will develop work based
-in printed matter (books, posters, multiples, prints, postcards, zinesÃ¢ï¿½Â¦)
+in printed matter (books, posters, multiples, prints, postcards, zinesâ�¦)
 with letterpress printing and bookbinding resources provided by the Dawson
 Printshop while occupying the Eyelevel Gallery as an open studio. The
 residency will take place between the 8th and 28th of February, 2009, and
@@ -970,7 +970,7 @@ With over 1200 cases of moveable type (both metal and wood) a typographic
 history spanning over 500 years, the Dawson Printshop represents one of
 Canada's most extensive collections of letterpress printing technology, and
 has generously loaned the use of its resources printing , bookbinding,
-foil stamping and platemaking equipment, as well as type to EyelevelÃ¢ï¿½ï¿½s open
+foil stamping and platemaking equipment, as well as type to Eyelevelâ��s open
 studio for the duration of the residency. The Artist in residence will be
 expected to be present at the Open Studio for a minimum of 25 hours per
 week and should be willing to work in an environment where the public and
@@ -1002,7 +1002,7 @@ anything else that is relevant. No originals please!
 -Production itinerary of what you will be
 working on during the residency.
 
-Briefly explain why you are interested in using the printshopÃ¢ï¿½ï¿½s resources
+Briefly explain why you are interested in using the printshopâ��s resources
 as part of this project What interest do you have in letterpress printing
 and how will these resources enhance your project? Any experience in
 letterpress printing and bookbinding technologies is an asset. New ideas,
@@ -1025,7 +1025,7 @@ special projects, and workshops, Eyelevel Gallery has provided a forum for
 the discussion and education of contemporary visual art for over 30 years.
 
 The Dawson Printshop is a historic collection of letterpress printing
-technology that forms the heart of NSCAD University Ã¢ï¿½ï¿½s academic and
+technology that forms the heart of NSCAD University â��s academic and
 commercial letterpress activities. As a teaching printshop, it hosts a
 variety of popular book arts courses from bookbinding to printing with
 antique metal and wood type. It also serves as a student and alumni led

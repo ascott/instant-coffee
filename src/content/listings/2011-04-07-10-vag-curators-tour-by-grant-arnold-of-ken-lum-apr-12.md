@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 10
 type: ""
+venue: "VAG"
 summary: "VAG | Curators Tour by Grant Arnold of KEN LUM | APR 12"
 ---
 
@@ -20,7 +21,7 @@ In the Gallery
 Join curator Grant Arnold for a tour KEN LUM, the most extensive 
 survey of the Vancouver-based artists work to date. Arnold will offer a 
 tour of the exhibition, highlighting important and recurrent issues 
-that run through Lumâ€™s artistic practice.
+that run through Lum’s artistic practice.
 
 Since he began exhibiting his art in the late 1970s, Lum has 
 developed a complex body of work that includes performances in 
@@ -53,12 +54,12 @@ McIntyre.
 
 Grant Arnold is a writer, curator and educator. He is currently Audain 
 Curator of British Columbia Art at the Vancouver Art Gallery, where 
-he contributes to the Galleryâ€™s exhibition and collecting activities. 
+he contributes to the Gallery’s exhibition and collecting activities. 
 Over the past twenty years he has organized more than thirty-five 
 exhibitions of historical, modern, and contemporary art. Recent 
 exhibition projects have included Reece Terris: Ought Apartment, 
 Mark Lewis: Modern Time, Fred Herzog: Vancouver Photographs, 75 
-Years of Collecting â€“ The Road to Utopia, and Classified Materials: 
+Years of Collecting – The Road to Utopia, and Classified Materials: 
 Accumulations, Archives, Artists (with Daina Augaitis, Bruce 
 Grenville and Monika Szewczyk). Arnold has contributed more than 
 two-dozen essays and articles to exhibition catalogues and journals.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 2
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Red Gate Revue Stage | ABOVE THE HOSPITAL | JAN 12-21st | JAN 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: redacted"
 emailDate: "Thu, 13 Mar 2014 12:05:22 -0700"
 number: 16
 type: "TALK"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Artist Talk: Krista Belle Stewart | MAR 20"
 ---
 

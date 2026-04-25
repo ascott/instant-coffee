@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 16
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Gone With the Wind | JUN 8"
 ---
 

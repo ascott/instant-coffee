@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 15
 type: "OPENING"
+venue: "Spare Room"
 summary: "Spare Room | Mucking around at the beginning and the end | AUG 12"
 ---
 

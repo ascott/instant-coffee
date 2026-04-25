@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Coopers Park (Under the Cambie Bridge) | Non-Stop Beautiful Ladies | 825PM | AUG 18"
 ---
 

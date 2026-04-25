@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 8
 type: "CALL"
+venue: "Cartems Donuts Downtown"
 summary: "Cartems Donuts Downtown | “Unlikely Futures” Call for Submissions | JUL 6"
 ---
 

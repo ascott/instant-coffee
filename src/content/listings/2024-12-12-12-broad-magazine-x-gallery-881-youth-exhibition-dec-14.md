@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Happy December"
 emailDate: "Thu, 12 Dec 2024 00:50:07 -0800"
 number: 12
 type: "OPENING"
+venue: "BROAD Magazine x Gallery 881"
 summary: "BROAD Magazine x Gallery 881 | YOUTH EXHIBITION | DEC 14"
 ---
 

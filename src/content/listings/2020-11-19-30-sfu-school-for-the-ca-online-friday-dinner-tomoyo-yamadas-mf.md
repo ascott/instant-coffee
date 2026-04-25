@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 30
 type: "EXHIBITION"
+venue: "SFU School for the CA [ONLINE]"
 summary: "SFU School for the CA [ONLINE] | Friday Dinner: Tomoyo Yamada's MFA Project | NOV 27"
 ---
 

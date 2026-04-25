@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pride in being Kanye West's neighb
 emailDate: "Thu, 12 Jan 2017 10:11:26 -0800"
 number: 18
 type: "OPENING"
+venue: "SURREY ART GALLERY"
 summary: "SURREY ART GALLERY | Out of Sight | A Risky Jump | From Form to Fantasy | JAN 21"
 ---
 

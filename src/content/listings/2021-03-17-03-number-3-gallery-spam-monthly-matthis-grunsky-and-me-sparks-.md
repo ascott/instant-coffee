@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Number 3 Gallery"
 summary: "Number 3 Gallery | SPAM MONTHLY : Matthis Grunsky and M.E. Sparks | MAR 1"
 ---
 

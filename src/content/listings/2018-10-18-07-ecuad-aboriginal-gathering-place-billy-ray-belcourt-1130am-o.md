@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 7
 type: "TALK"
+venue: "ECUAD - Aboriginal Gathering Place"
 summary: "ECUAD - Aboriginal Gathering Place | Billy-Ray Belcourt | 1130AM | OCT 18"
 ---
 

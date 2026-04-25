@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: independent of allegiance"
 emailDate: "Fri, 29 Dec 2017 19:15:04 -0800"
 number: 1
 type: ""
+venue: "Naked State Art Residency"
 summary: "Naked State Art Residency | Call for Submissions | JAN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 3
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Objects of Desire | MAR 4"
 ---
 

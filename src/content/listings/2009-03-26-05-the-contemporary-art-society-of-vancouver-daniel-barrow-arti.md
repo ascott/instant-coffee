@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 5
 type: ""
+venue: "The Contemporary Art Society of Vancouver"
 summary: "The Contemporary Art Society of Vancouver | Daniel Barrow, Artist Talk | MAR 26"
 ---
 

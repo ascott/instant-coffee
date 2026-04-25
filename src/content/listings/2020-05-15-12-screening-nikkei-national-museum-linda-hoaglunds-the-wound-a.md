@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stories of Home"
 emailDate: "Thu, 14 May 2020 18:35:10 -0700"
 number: 12
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Nikkei National Museum | Linda Hoaglund's \"The Wound and The Gift\" | MAY 16"
 ---
 

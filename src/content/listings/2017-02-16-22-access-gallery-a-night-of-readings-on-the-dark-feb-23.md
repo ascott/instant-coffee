@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 22
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | A Night of Readings on the Dark | FEB 23"
 ---
 

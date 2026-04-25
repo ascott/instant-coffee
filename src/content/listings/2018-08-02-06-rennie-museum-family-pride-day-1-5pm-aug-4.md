@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 6
 type: "EVENT"
+venue: "Rennie Museum"
 summary: "Rennie Museum | Family Pride Day | 1-5PM | AUG 4"
 ---
 

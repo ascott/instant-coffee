@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "SFU Gallery"
 summary: "SFU Gallery | Selections from the SFU Art Collection | SEP 14"
 ---
 

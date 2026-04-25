@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 15
 type: ""
+venue: "Unlearning Weekenders"
 summary: "Unlearning Weekenders | FINAL EVENT | JUN 15"
 ---
 
@@ -17,17 +18,17 @@ internal personal space and external public space.
 
 upcoming WEEKENDERS:
 
-June 15: FINAL EVENT Unlearning Procession, 9am â€“ 9pm (with breaks &
+June 15: FINAL EVENT Unlearning Procession, 9am – 9pm (with breaks &
 meeting points along the way) check blog for map.
 
 June 16: Feedback Gathering Ceremony TBA
 June 22: Artist Talk, 4pm @ CAG Field House
 
-*June 15, 2008 â€“ Lehman Brothers files for Chapter 11 bankruptcy,
+*June 15, 2008 – Lehman Brothers files for Chapter 11 bankruptcy,
 triggering the 2008 financial crisis.
 
 Everyone welcome:
-For those who are looking to explore Unlearning throughâ€¦movement, shared
+For those who are looking to explore Unlearning through…movement, shared
 experience, magic, ceremony, social change, decolonization, perception,
 capitalist critique, embodiment, other ways of knowing, metaphysics,
 connecting to nature, walking, performance art, intuition, spirituality,

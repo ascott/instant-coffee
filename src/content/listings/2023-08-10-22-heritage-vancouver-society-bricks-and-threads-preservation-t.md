@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 22
 type: "EXHIBITION"
+venue: "Heritage Vancouver Society"
 summary: "Heritage Vancouver Society | Bricks and Threads: Preservation, Transformation a | AUG 19"
 ---
 

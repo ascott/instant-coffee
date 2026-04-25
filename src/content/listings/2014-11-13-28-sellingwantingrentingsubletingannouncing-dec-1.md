@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 28
 type: "CALL"
+venue: "SELLing/WANTing/RENTing/SUBLETing/ANNOUNCing"
 summary: "SELLing/WANTing/RENTing/SUBLETing/ANNOUNCing |  | DEC 1"
 ---
 

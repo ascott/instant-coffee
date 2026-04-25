@@ -30,10 +30,10 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-11-07-16-artspeak-back-to-the-door-nov-15">16. Artspeak | Back to the Door | NOV 15</a>
 <a href="/instant-coffee/listings/2013-11-07-17-centre-a-leila-sujir-and-maria-lantin-nov-15">17. Centre A | Leila Sujir and Maria Lantin | NOV 15</a>
 <a href="/instant-coffee/listings/2013-11-07-18-goldcorp-centre-for-the-arts-poetry-reading-too-true-nov-15">18. Goldcorp Centre for the Arts | Poetry Reading: Too True | NOV 15</a>
-<a href="/instant-coffee/listings/2013-11-07-19-luckys-comics-katie-webster-nov-15">19. Luckyâ€™s Comics | Katie Webster | NOV 15</a>
+<a href="/instant-coffee/listings/2013-11-07-19-luckys-comics-katie-webster-nov-15">19. Lucky’s Comics | Katie Webster | NOV 15</a>
 <a href="/instant-coffee/listings/2013-11-07-20-sfu-woodward-experiments-in-arab-cinema-nov-15">20. SFU Woodward | Experiments in Arab Cinema | NOV 15</a>
 <a href="/instant-coffee/listings/2013-11-07-21-unitpitt-projects-re-the-fox-nov-15">21. UNIT/PITT Projects | Re: The Fox | NOV 15</a>
-<a href="/instant-coffee/listings/2013-11-07-22-softunion-workshop-luciana-danunciao-zoe-kreye-mirae-rosner-">22. Soft/Union WORKSHOP | Luciana D'AnunciaÃ§Ã£o, Zoe Kreye, Mirae Rosner | NOV 16</a>
+<a href="/instant-coffee/listings/2013-11-07-22-softunion-workshop-luciana-danunciao-zoe-kreye-mirae-rosner-">22. Soft/Union WORKSHOP | Luciana D'Anunciação, Zoe Kreye, Mirae Rosner | NOV 16</a>
 <a href="/instant-coffee/listings/2013-11-07-23-richmond-art-gallery-margaret-dragu-nov-17">23. Richmond Art Gallery | Margaret Dragu | NOV 17</a>
 
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ Canadian and international artists. The gallery's roster includes artists workin
 in installation, video, sculpture, photography, mixed media, and contemporary
 painting. A number of our artists work internationally, including recent
 residencies and exhibitions in Spain, Denmark, Germany, France, and the
-United States. Republic Gallery recently took part in Papier 13 in MontrÃƒÂ©al.
+United States. Republic Gallery recently took part in Papier 13 in MontrÃ©al.
 
 -----------
 
@@ -105,8 +105,8 @@ photographs from her Newsstand series (1993-94) and Bottle Grid series
 Toronto, she began producing photographic mailers that carry the physical 
 traces of their journeys through the mail system, a practice that has 
 continued for subsequent exhibitions. She has mailed over 1,000 photographs 
-across the world. A new set of mailers â€“ 27 folded photographs taken in 
-Trinity Church Cemetery in upper Manhattan â€“ will be featured in the 
+across the world. A new set of mailers – 27 folded photographs taken in 
+Trinity Church Cemetery in upper Manhattan – will be featured in the 
 exhibition.
 
 Moyra Davey: Ornament and Reproach is curated by John Goodwin, and 
@@ -137,16 +137,16 @@ The gallery was originally formed with Roger Bywater, but since 2006 it has
 been under the direction of Goodwin, presenting exhibitions by artists such as 
 Rodney Graham, Mark Dion, Garry Neill Kennedy, Steven Shearer, Moyra 
 Davey and Jeremy Deller. He was the executive director of Printed Matter, 
-Inc., New York from 1988 â€“ 1993 and Shark Editions from 1990 â€“ 2001. From 
-1983 â€“ 1988 and 2000 â€“ 2001 Goodwin was the executive director of Art 
+Inc., New York from 1988 – 1993 and Shark Editions from 1990 – 2001. From 
+1983 – 1988 and 2000 – 2001 Goodwin was the executive director of Art 
 Metropole, Toronto.
 
 Moyra Davey: Ornament and Reproach is curated by John Goodwin. The 
-exhibition is generously supported by the Michael Oâ€™Brian Family Foundation, 
+exhibition is generously supported by the Michael O’Brian Family Foundation, 
 and organized by the Presentation House Gallery and Satellite Gallery.
 
-Satellite Gallery â€“ 560 Seymour Street, 2nd Floor, Vancouver BC
-Wednesday â€“ Saturday, 12 â€“ 6 pm
+Satellite Gallery – 560 Seymour Street, 2nd Floor, Vancouver BC
+Wednesday – Saturday, 12 – 6 pm
 www.satellitegallery.ca
 
 ------------------------------------------------------------------------
@@ -171,21 +171,21 @@ or so...
 
 a)
 
-Whatâ€™s the definition of harmony? Actually hang on letâ€™s try work this out. I 
-think itâ€™s when two or more things fit together â€” when two or more things fit 
-but at differing pitches â€” slightly off but slightly not â€” yeah when two or more 
-things just work together but at differing levelsâ€” differing tonesâ€” diff-erâ€”ring 
-shadesâ€” difffffferring textures.
+What’s the definition of harmony? Actually hang on let’s try work this out. I 
+think it’s when two or more things fit together — when two or more things fit 
+but at differing pitches — slightly off but slightly not — yeah when two or more 
+things just work together but at differing levels— differing tones— diff-er—ring 
+shades— difffffferring textures.
 
-What happens when these two or more things fit together â€” at differing 
-pitchesâ€” slightly off but slightly not â€” when they just work together but at 
+What happens when these two or more things fit together — at differing 
+pitches— slightly off but slightly not — when they just work together but at 
 differing levels/tones/shades/textures? You mean when 
-things/objects/materials/moments harmonize? Yeahâ€”Itâ€™s something you 
-feel/see/hear/recognizeâ€” a rhythm of sortsâ€” rhythmic momentsâ€”Rhythmic 
-moments of material harmonyâ€”materials harmonizeâ€”yeah things fit â€” 
-conversation in form â€”beyond conversation
+things/objects/materials/moments harmonize? Yeah—It’s something you 
+feel/see/hear/recognize— a rhythm of sorts— rhythmic moments—Rhythmic 
+moments of material harmony—materials harmonize—yeah things fit — 
+conversation in form —beyond conversation
 
-â€” beyond receptionâ€” thatâ€™s flipped straight up
+— beyond reception— that’s flipped straight up
 
 b)
 
@@ -222,20 +222,20 @@ sculpture and video the project roots in a basic exploration... how do we see
 more similarities with those around us? Searching for Land is the reflection of
 one such coordinated search.
 
-Ã¢â‚¬ËœWe did not come directly at each other. in our many correspondences, we
+â€˜We did not come directly at each other. in our many correspondences, we
 have shared the same grounds and described to each other what is behind
 us, and what is facing us in our sculptural practice as well as everyday life. if
 we were two dots, immersed in the same thing, say a die, then we would be
-dots set on different planes. in this sense, we are a part of a number Ã¢â‚¬â€œa
+dots set on different planes. in this sense, we are a part of a number â€“a
 greater whole. This exhibition might map our shared tendencies - or rather our
 tendencies in trying to understand what drives us. Two dots seen at once in a
-three dimensional space: a parabolaÃ¢â‚¬â„¢
-Ã¢â‚¬â€œ Kitsum Cheng
+three dimensional space: a parabolaâ€™
+â€“ Kitsum Cheng
 
 Searching for Land marks the first Vancouver exhibition for both artists.
 
-Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢
-â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦Ã¢â‚¬Â¦.
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â
+€¦â€¦â€¦â€¦.
 
 Kitsum Cheng was born in Hong Kong and is now based in Frankfurt,
 Germany, where she is currently attending the Staedelschule. Previously, she
@@ -273,7 +273,7 @@ Vancouver, BC
 
 Join us for the first event in the Critical Reflections Speaker Series, featuring 
 two talks and a publication launch. Jo-Anne Birnie Danzker, Director of the 
-Frye Art Museum, Seattle, will discuss the artist's â€˜Subsensorialâ€™ works and 
+Frye Art Museum, Seattle, will discuss the artist's ‘Subsensorial’ works and 
 pioneering conceptual and media-based artists, Muntadas, will speak about 
 his recent work. The event will be followed by the launch of About Academia 
 (Case Study: Simon Fraser University, Vancouver, BC), a new publication of 
@@ -286,15 +286,15 @@ About the book
 
 Addressing the unique social, political, and economic context for universities 
 and academia in Vancouver, British Columbia, About Academia (Case Study: 
-Simon Fraser University, Vancouver, BC) is part of Muntadasâ€™ residency 
+Simon Fraser University, Vancouver, BC) is part of Muntadas’ residency 
 through the Audain Visual Artist in Residence Program at the School for 
 Contemporary Arts at Simon Fraser University and is realized in partnership 
 with Line magazine and the Audain Gallery. About Academia (Case Study: 
 Simon Fraser University, Vancouver, BC) adds to the work initiated by 
-Muntadasâ€™ original project, About Academia, which was produced through the 
+Muntadas’ original project, About Academia, which was produced through the 
 Art Forum program at the David Rockefeller Center for Latin American Studies 
 at Harvard University in 2011. The two panel discussions reproduced here 
-were organized to locate Muntadasâ€™ project in Vancouver and further essays 
+were organized to locate Muntadas’ project in Vancouver and further essays 
 from students, academics, and activists were commissioned to negotiate the 
 site-specific context and history of academia and the university at Simon 
 Fraser University and beyond.
@@ -321,19 +321,19 @@ Muntadas' incisive works have addressed ideas such as the relationship
 between public and private, the role of the media in transmitting ideas and 
 information, and the complex dynamics of architecture and other social 
 frameworks. From his early works of the 1970s that utilized the senses and 
-his 1981 manifesto that demanded audiences consider â€˜What are we looking 
-at?â€™ to his ongoing series On Translation, which wrestles with cultural 
+his 1981 manifesto that demanded audiences consider ‘What are we looking 
+at?’ to his ongoing series On Translation, which wrestles with cultural 
 interpretation, Muntadas has created a vast body of work that investigates the 
 visible and invisible systems of power in a society dominated by the 
 spectacles of mass media, hyper-consumption and constantly evolving 
 technologies.
 
 The Gallery's Chief Curator/Associate Director Daina Augaitis was invited by 
-the artist and the Muse Nacional Centro de Arte Reina SofÃ­a, Madrid to curate 
+the artist and the Muse Nacional Centro de Arte Reina Sofía, Madrid to curate 
 this major exhibition, a great honour and recognition of Augaitis' ongoing 
 engagement with the artist's work. The exhibition opened to great acclaim at 
-the Reina SofÃ­aâ€”one of Europe's most prestigious contemporary art 
-museumsâ€”in November of 2011 with an official ceremony attended by Queen 
+the Reina Sofía—one of Europe's most prestigious contemporary art 
+museums—in November of 2011 with an official ceremony attended by Queen 
 Sophia of Spain before travelling to the Museu Gulbenkian in Lisbon and the 
 Jeu de Paume in Paris. The Gallery is thrilled to be hosting the final 
 presentation of this important international exhibition.
@@ -343,7 +343,7 @@ linked works from different moments of the artist's career and traces the
 diverse subjects that have occupied his interest for four decades.
 
 Muntadas: Entre/Between is organized by the Museo Nacional Centro de Arte 
-Reina SofÃ­a, in collaboration with the Vancouver Art Gallery and curated by 
+Reina Sofía, in collaboration with the Vancouver Art Gallery and curated by 
 Daina Augaitis, Chief Curator/Associate Director.
 Generously Supported by:
 Joan Anderson, Rick Erickson and Donna Partridge,
@@ -356,7 +356,7 @@ States Consulate General in Vancouver.
 HOWIE TSUI
 CELESTIALS OF GOLD MOUNTAIN
 Opens FRIDAY, November 8, 2013 (please note: not Thurs, Nov 7) 7-9 p.m.
-Runs Nov 8 â€“ Dec 21, 2013
+Runs Nov 8 – Dec 21, 2013
 
 WAAP
 528-2050 Scotia St.
@@ -383,7 +383,7 @@ Stauffer Prize (2005) from the Canada Council for most outstanding young
 artist. His work is in private collections, the Canada Council Art Bank, City of 
 Ottawa, Ottawa Art Gallery, and Centre d'exposition de Baie-Saint-Paul. Solo 
 exhibits include the Carleton University Art Gallery, Ace Art Inc (Winnipeg), 
-MontrÃ©al arts interculturels, Centre A, Agnes Etherington Art Centre 
+Montréal arts interculturels, Centre A, Agnes Etherington Art Centre 
 (Kingston), with group engagements at the West Vancouver Museum, Boston 
 University School of Fine Arts, Art Institute of Chicago and the Asian Art 
 Museum of San Francisco. His work has been featured in Border Crossings, 
@@ -418,13 +418,13 @@ Spoken; visually projected.
 
 Each poet will present one short text, followed with open discussion. 
 
-listen chen presents a machine translation of Ezra Poundâ€™s Canto 49
+listen chen presents a machine translation of Ezra Pound’s Canto 49
 
 Roger Farr presents KRS-One
 
 Will Owen presents Zhou Zan
 
-Saturday November 9, 2013, 1:00â€“2:30
+Saturday November 9, 2013, 1:00–2:30
 Kootenay School of Writing
 237 Keefer Street, Unit 245
 
@@ -515,7 +515,7 @@ Parcel of pig liver an confidential Party materials, love or
 revolutionary enterprise,
 these are antitheses in the books he's read;
 the question he has no time for allegorized
-by passengers getting on and off in turn: â€œThose who want to get on, get on;
+by passengers getting on and off in turn: “Those who want to get on, get on;
 if it's your stop, say somethingâ€  â€“ history's meaning
 found in excessive annotations of ordinary speech.
 
@@ -530,7 +530,7 @@ nothing more than a mark of the nouveau riche?
 â€œWill have bread, will have everything.â€  He admires
 the Marlboro pressed between his fingers, distinguished emblem
 of two esteemed cultures, characters: Act! Victory lies ahead! Yet he
-identifies himself with the cigarette: â€œI am being burned
+identifies himself with the cigarette: “I am being burned
 to the utmost degree by my own flame
 and curl up in my own smoke.â€ 
 
@@ -547,7 +547,7 @@ published by New Documents, on November 9th 2013, 4PM at Or Bookstore,
 Vancouver, 555 Hamilton, BC, Canada.
 
 Walter Benjamin was an influential philosopher and art theoretician, best 
-known for his 1936 essay â€œThe Work of Art in the Age of Mechanical 
+known for his 1936 essay “The Work of Art in the Age of Mechanical 
 Reproductionâ€ . In 1986 â€” many years after his tragic death â€” Walter 
 Benjamin reappeared in public with the lecture â€œMondrian â€™63â€“â€™96″ organized 
 by the Marxist Center in Ljubljana. In recent years, Mr. Benjamin has been an 
@@ -559,7 +559,7 @@ Recent Writing collects nine essays by Walter Benjamin written between
 these texts cover art, originality, museums, and art history, among other 
 subjects.
 
-In conjunction with the launch at the Or, we will screen Mondrian â€™63â€“â€™96, a 
+In conjunction with the launch at the Or, we will screen Mondrian ’63–’96, a 
 film of a lecture delivered by Walter Benjamin at the Marxist Center in 
 Ljubljana in 1986. In this talk, Benjamin presents several works of the abstract 
 artist ranging in date from 1963 to 1996.
@@ -579,7 +579,7 @@ UNIT/PITT Projects, the SFU Vancity Office of Community Engagement & the
 SFU Institute for the Humanities present:
 
 Spaces of Contestation: Art, Activism and the City is a series of talks, 
-curated by Mariane Bourcheix-Laporte, presented by SFUâ€™s Vancity Office of 
+curated by Mariane Bourcheix-Laporte, presented by SFU’s Vancity Office of 
 Community Engagement, the SFU Institute for the Humanities, and UNIT/PITT 
 Projects. The series is part of a multi-layered project researching the 
 aesthetic and conceptual overlap existing between strategies for participatory 
@@ -620,7 +620,7 @@ the Centre for Global Political Economy at SFU. His research focuses on
 macroeconomic governance in the affluent global North, especially the ways 
 in which monetary and fiscal policy affect and are affected by economic and 
 ecological crisis, and their relationship to the range of social arrangements we 
-call â€˜democracyâ€™. He is the author of Disassembly Required: A Field Guide to 
+call ‘democracy’. He is the author of Disassembly Required: A Field Guide to 
 Actually Existing Capitalism (2013), and Our Daily Bread: Wages, Workers, 
 and the Political Economy of the American West (2008).
 
@@ -659,7 +659,7 @@ of Tear-Gas Epiphanies: New Economies of Protest, Culture and Vision in
 Canada (upcoming). Her research focuses on activism, visual culture and 
 changing economies. Using Canada as main case study, her work looks at 
 the relationship between the parallel appearance in the mid-1990s of global 
-anti-capitalist protest movements and a growing discourse around â€œcreative 
+anti-capitalist protest movements and a growing discourse around “creative 
 industriesâ€  as a sector of great economic potential. Focusing on the 
 international art world, the designation of urban spaces as â€œcreative cities,â€  
 and an increasing economic precarity amongst creative workers, her research 
@@ -698,7 +698,7 @@ workshop at READ,
 present an exhibition at Unit/Pitt Projects and launch his latest book at 
 Satellite Gallery.
 
-Artistsâ€™ Books Research Residency
+Artists’ Books Research Residency
 November 12-27, 2013
 Emily Carr University Library
 
@@ -716,7 +716,7 @@ READ Books | Charles H. Scott Gallery
 
 A five session workshop that will focus directly on re-publishing documents 
 selected by 
-the participants, who will each produce a reprint/re-edition/ etcâ€¦of a piece of 
+the participants, who will each produce a reprint/re-edition/ etc…of a piece of 
 art related 
 printed matter (book, magazine, catalogue, ephemera, zine, poster, 
 announcement, manifesto, etc.) 
@@ -736,17 +736,17 @@ magazine
 published in New York in 1975 and 1976 by the American chapter of British
 conceptual art group, Art & Language.
 For more information please visit http://www.helenpittgallery.org
-The Book on Books on Artistsâ€™ Books 
+The Book on Books on Artists’ Books 
 Book Launch/Artist Talk
 Saturday, November 23 at 2:30
 READ Books at the Satellite Gallery
 560 Seymour St, Vancouver
 READ in collaboration with Satellite, presents the launch of Arnaud 
-Desjardinâ€™s
-The Book on Books on Artistsâ€™ Books (BOBOAB). BOBOAB is a bibliography
-of books, pamphlets and catalogues on artistsâ€™ books since the early 1970s 
+Desjardin’s
+The Book on Books on Artists’ Books (BOBOAB). BOBOAB is a bibliography
+of books, pamphlets and catalogues on artists’ books since the early 1970s 
 that
-informs, describes and promotes the distribution and circulation of artistsâ€™ 
+informs, describes and promotes the distribution and circulation of artists’ 
 books.
 The launch will be accompanied by a short talk by the artist.
 For further information please see http://www.satellitegallery.ca
@@ -792,13 +792,13 @@ architecture leads the viewer in galleries and museums; and how one might,
 or might not, distinguish between architectural spaces and the spaces 
 created by art.
 
-Samuel Roy-Bois is a Vancouver based artist. He has a BFA from UniversitÃ© 
-Laval, Quebec and a MFA from Concordia University, MontrÃ©al. His work has 
+Samuel Roy-Bois is a Vancouver based artist. He has a BFA from Université 
+Laval, Quebec and a MFA from Concordia University, Montréal. His work has 
 been shown across Canada and internationally including at Langara College, 
 Vancouver; Artspeak, Vancouver; Parisian Laundry, Montreal; Southern 
 Alberta Art Gallery, Lethbridge; Republic Gallery, Vancouver; Contemporary 
-Art Gallery, Vancouver; Point Ã©phÃ©mÃ¨re, Paris; MusÃ©e d'art contemporain de 
-MontrÃ©al; Quartier Ã©phÃ©mÃ¨re, Montreal; and Or Gallery, Vancouver. He is 
+Art Gallery, Vancouver; Point éphémère, Paris; Musée d'art contemporain de 
+Montréal; Quartier éphémère, Montreal; and Or Gallery, Vancouver. He is 
 faculty at UBC Okanagan.
 
 Robert Kleyn is a Vancouver based artist and architect. His work has been 
@@ -820,7 +820,7 @@ Rome Prize and Venice Biennale juries. His writing has been published in
 Leslie Van Duzer is Director of UBC's School of Architecture and Landscape 
 Architecture. She is co-author of four books: "Adolf Loos: Works in the Czech 
 Lands", "Mies van der Rohe: Krefeld Villas", "Rudolf Arnheim: Revealing 
-Vision", and "Villa MÃ¼ller: A Work of Adolf Loos". The two building 
+Vision", and "Villa Müller: A Work of Adolf Loos". The two building 
 monographs were awarded the architects' journal "Top Ten Books of the Year" 
 award in London. She has published in international journals and lectured 
 throughout Europe and North America. Her forthcoming book, "The Art of 
@@ -853,18 +853,18 @@ Giniger.
 
 Absolute Countdown traces Ginigerâ€™s attempt to â€œcheer upâ€  a weeping willow 
 with the help of artificial wind. The melancholic object becomes the subject of 
-this poetic intervention, as the artistâ€™s forceful yet ephemeral action attempts 
-to momentarily erase the willowâ€™s somber shrug. While this monumentalâ€”but 
-ultimately untenableâ€”gesture eventually dissolves, its afterimage comes 
+this poetic intervention, as the artist’s forceful yet ephemeral action attempts 
+to momentarily erase the willow’s somber shrug. While this monumental—but 
+ultimately untenable—gesture eventually dissolves, its afterimage comes 
 laden with the gravity of sentiment, the instability of expectation, and the 
 brevity of romantic ideals.
 
-The exhibition takes it title from the artistâ€™s online work of the same 
+The exhibition takes it title from the artist’s online work of the same 
 name,www.absolutecountdown.com
 
-Absolute Countdown is Ginigerâ€™s first solo exhibition in North America.
+Absolute Countdown is Giniger’s first solo exhibition in North America.
 
-Noa Giniger (b. 1977, Israel) graduated from the Ecole Nationale SupÃ©rieur 
+Noa Giniger (b. 1977, Israel) graduated from the Ecole Nationale Supérieur 
 des Beaux-Arts de Paris in 2005. In 2003, she received a fellowship from the 
 Collin LeFranc Foundation in France to attend the School of art at Carnegie 
 Mellon University in Pittsburgh, USA. Between 2006-2008, she was a resident 
@@ -872,14 +872,14 @@ at De Ateliers, Amsterdam and in 2011 she was a Royal Dutch Institute
 Affiliated Fellow at the American Academy in Rome. Her work has been 
 exhibited internationally, including at Galerie Thaddaeus Ropac, Paris; 
 Bloomfield Science Museum, Jerusalem; Galerie Gabriel Rolt, Amsterdam; 
-Sommer Gallery for contemporary art, Tel- Aviv; Galeries dâ€™exposition du quai 
+Sommer Gallery for contemporary art, Tel- Aviv; Galeries d’exposition du quai 
 Malaquais, Beaux-arts de Paris; De Appel Arts Centre, Amsterdam; Speedy 
 Wash, Wiels, Brussels; The Herzliya Museum of Contemporary Art, Herzliya; 
 Attitudes, Geneva and Passage du Retz, Paris, among others. Giniger lives 
 and works in Amsterdam.
 
 This project was made with the support of the Ostrofsky Family Fund, 
-Mondriaan Fund, Stichting SchÃ¼rmann-Krant, Israelâ€™s Office of Cultural Affairs 
+Mondriaan Fund, Stichting Schürmann-Krant, Israel’s Office of Cultural Affairs 
 and Cineworks Independent Filmmakers Society.
 
 Western Front
@@ -947,7 +947,7 @@ fire/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival Ã¢â‚¬â€œ
+1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival. www.capturephotofest.com. Artist present. Opening
@@ -984,7 +984,7 @@ notionally composing mini-narratives and realized in a way that seems to
 incorporate different voices and characters, including that of the artist. As
 such the work evolves out of the dictionary akin to a fragmentary novel or
 short story, a series of episodes branching out into a loose meta-narrative
-concerning writing as a creative act as implied through the use of this Ëœfound
+concerning writing as a creative act as implied through the use of this ˜found
 language.
 Vancouver, a city renowned internationally for the significance of its visual arts
 that conceptually re-pictures space and assigns meaning of the global in the
@@ -1000,7 +1000,7 @@ http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival Ã¢â‚¬â€œ
+1) Exhibition Opening and Closing Party for Capture Photography Festival â€“
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture
 Photography Festival, www.capturephotofest.com. Opening reception
@@ -1024,7 +1024,7 @@ Tuesday, December 3, 7pm
 Erdem Taşdelen is a multidisciplinary artist who lives and works in Vancouver
 and currently teaches in the Critical and Cultural Studies Department at Emily
 Carr University of Art + Design.
-4) Free Guided Visits Ã¢â‚¬â€œ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
+4) Free Guided Visits â€“ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec
 14, Dec 15, Jan 5 and Jan 11. All tours start at 3pm. Contemporary Art
 Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications
@@ -1051,9 +1051,9 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W:
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues Ã¢â‚¬â€œ Sun: 12- 6 pm. FREE ADMISSION
+Hours: Tues â€“ Sun: 12- 6 pm. FREE ADMISSION
 IMAGE: James Welling, Gelatin Photograph 51 (1984), inkjet print mounted to
-metal, 20 Ãƒâ€” 16 inches. Courtesy the artist and David Zwirner Gallery, New
+metal, 20 Ã— 16 inches. Courtesy the artist and David Zwirner Gallery, New
 York / London.
 ENDS
 
@@ -1098,9 +1098,9 @@ intuitive and material practice within a contextual framework of feminist critic
 theory.
 I seek to reconcile the ontology of my childhood with that of my adulthood 
 experience through the physical representation of the orifice wherein lies both 
-formal and conceptual tensions. Illusory materials of the 1980â€™s are pulled, 
+formal and conceptual tensions. Illusory materials of the 1980’s are pulled, 
 stretched, pierced, and sewn in, over, and through hunted, harvested, and 
-preserved â€˜rawâ€™ materials of the present time; forcing a relationship between 
+preserved ‘raw’ materials of the present time; forcing a relationship between 
 past and present, domestic and wild. The orifice is a place of balance and 
 unbalance. A membrane represents a place of collision, a site for inspection 
 in relationships before the entrance or exit into multiple narratives which are 
@@ -1137,11 +1137,11 @@ There is a 6.5 inch step at the front entrance
 BECKY KOLSRUD, KALUP LINZY, 
 ELIZABETH MILTON
 
-November 16, 2013â€“January 18, 2014 
+November 16, 2013–January 18, 2014 
 Opening: Friday, November 15, 8pm 
 
 Based on the telenovela, Back to the Door takes its title from a common soap 
-opera tropeâ€”where a character is speaking ill of another, and the subject of 
+opera trope—where a character is speaking ill of another, and the subject of 
 their derision is standing in the door behind them. Unlike its counterpart, the 
 soap opera, the telenovela is a fictional serial with a predetermined duration, 
 depicting both the development and conclusion of a central plotline. Subjects 
@@ -1160,7 +1160,7 @@ Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 www.artspeak.ca 
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-11-07-17-centre-a-leila-sujir-and-maria-lantin-nov-15">17. Centre A | Leila Sujir and Maria Lantin | NOV 15</a>
@@ -1170,8 +1170,8 @@ CENTRE A
 A CHORUS OF LUNGS
 Leila Sujir and Maria Lantin
 
-November 15, 2013 â€“ January 25, 2014
-Gallery Hours: Tuesday â€“ Saturdays, 11am-6pm
+November 15, 2013 – January 25, 2014
+Gallery Hours: Tuesday – Saturdays, 11am-6pm
 Opening Reception: Friday, November 15, 2013, 7pm
 
 â€œA Chorus of Lungsâ€  is a 3D interactive sound and video installation that 
@@ -1183,7 +1183,7 @@ create a space for the lungs to become a chorus both visually and audibly.
 The intention is that this installation produces a space of agency for the 
 viewer, re-considering the relationship between art object and viewer, but also 
 exploring tensions and possibilities inherent to the notion of community. The 
-artists state, â€œWe are exploring the tensions between community, chorus, and 
+artists state, “We are exploring the tensions between community, chorus, and 
 individual voicing with an attentiveness to our singular and collective being.â€  
 The work addresses ideas of the individual and society, and within the 
 consideration of Asian identities, reflects on approaches to individual 
@@ -1198,7 +1198,7 @@ facilitated by the artists.
 
 Leila Sujir is a South Asian-Canadian artist and professor at Concordia 
 University in the Intermedia Cyberarts (IMCA) program of the Studio Arts 
-Department. Sujirâ€™s video works have been shown in exhibitions, including 
+Department. Sujir’s video works have been shown in exhibitions, including 
 group shows at the Museum of Modern Art in New York, the Tate Gallery in 
 Liverpool, UK as well as galleries and festivals all over the world, and are in 
 collections, including the National Gallery of Canada.
@@ -1238,7 +1238,7 @@ discussion about the nature of truth in poetry, mining biography and
 autobiography in their works, and whether or not it is possible to be too true.
 
 Elizabeth Bachinsky is the author of five collections of poetry: Curio, Home of 
-Sudden Service, God of Missed Connections, I Donâ€™t Feel so Good, and The 
+Sudden Service, God of Missed Connections, I Don’t Feel so Good, and The 
 Hottest Summer in Recorded History. Her poetry has been nominated for 
 awards including the Pat Lowther Award, The Kobzar Literary Award, The 
 George Ryga Award for Social Awareness in Literature, the Governor 
@@ -1255,7 +1255,7 @@ literary journals and anthologies, including Best Canadian Poetry in English,
 2011. Her play Initiation Trilogy was produced by Electric Company Theatre, 
 was featured at the 2012 Vancouver International Writers Fest, and was 
 nominated for the Jessie Richardson Award for Outstanding New Script. She 
-is the Artist in Residence at UVicâ€™s Centre for Studies in Religion and 
+is the Artist in Residence at UVic’s Centre for Studies in Religion and 
 Society. After many years in Vancouver and Edmonton, she and her family 
 now live in Victoria.
 
@@ -1263,24 +1263,24 @@ Amber Dawn is a writer from Vancouver, Canada. Author of Lambda Award-
 winning novel Sub Rosa and editor of the anthologies Fist of the Spider 
 Women: Fear and Queer Desire and With A Rough Tongue: Femmes Write 
 Porn. Until August 2012, she was director of programming for the Vancouver 
-Queer Film Festival. Amber Dawn was 2012 winner of the Writersâ€™ Trust of 
+Queer Film Festival. Amber Dawn was 2012 winner of the Writers’ Trust of 
 Canada Dayne Ogilvie Prize for LGBT writers. She currently teaches 
 Speculative Fiction writing at Douglas College.
 
-Jennica Harperâ€™s most recent book of poetry is Wood. Her previous books are 
+Jennica Harper’s most recent book of poetry is Wood. Her previous books are 
 What It Feels Like for a Girl and The Octopus and Other Poems, and she has 
 a poem forthcoming in the anthology I Found It at the Movies. Her long poem 
 â€œLiner Notesâ€  won a Silver National Magazine Award, and her work has twice 
-been selected for Vancouverâ€™s Poetry in Transit program. Jennica is also a 
-film and TV writer, and most recently wrote on YTVâ€™s teen comedy Mr. 
+been selected for Vancouver’s Poetry in Transit program. Jennica is also a 
+film and TV writer, and most recently wrote on YTV’s teen comedy Mr. 
 Young.
 
 http://sfuwoodwards.ca/index.php/events/details/too-true-the-poetry
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-11-07-19-luckys-comics-katie-webster-nov-15">19. Luckyâ€™s Comics | Katie Webster | NOV 15</a>
+<a href="/instant-coffee/listings/2013-11-07-19-luckys-comics-katie-webster-nov-15">19. Lucky’s Comics | Katie Webster | NOV 15</a>
 ------------------------------------------------------------------------
-Luckyâ€™s Comics, Books and Gallery presents // 
+Lucky’s Comics, Books and Gallery presents // 
 Celebrated Summer: Photos by Katie Webster 
 //
 Opening: Friday November 15th from 8-11pm
@@ -1295,7 +1295,7 @@ presented in celebration of the great northern summer.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-11-07-20-sfu-woodward-experiments-in-arab-cinema-nov-15">20. SFU Woodward | Experiments in Arab Cinema | NOV 15</a>
 ------------------------------------------------------------------------
-Experiments in Arab Cinema â€“ a film series of contemporary experiments in 
+Experiments in Arab Cinema – a film series of contemporary experiments in 
 film from Morocco, Lebanon, and Egypt, curated by SFU Professor Laura 
 Marks
 November 15-16, 2013
@@ -1334,7 +1334,7 @@ dizzying double-screen video, The Holy Zero, explains the numerical forces
 underlying the visible world.
 
 Gheith al-Amine, King Lost His Tooth (2012, 5:00)
-Mohssin Harraki, ProblÃ¨me 5 (arabes gÃ©nÃ©alogiques) (Morocco/France, 2010-
+Mohssin Harraki, Problème 5 (arabes généalogiques) (Morocco/France, 2010-
 2011, 2:14)
 Mounir Fatmi, Mixology (Morocco/France, 2010, 11:40)
 Ahmed El Shaer, Recycle the Code (Egypt, 2010, 2:47)
@@ -1360,7 +1360,7 @@ November 16, 8 p.m. - The Body in the Archive
 Like The Three Disappearances of Souad Hosni, some of these works search 
 for latent histories in archives of cinema and late-night TV. Maha Maamoun's 
 2026 is a dark science-fiction fantasy inspired by Chris Marker's low-budget 
-classic La JetÃ©e. Raed Yassin's The New Film of 2009, composed of 
+classic La Jetée. Raed Yassin's The New Film of 2009, composed of 
 hundreds of Egyptian popular films, proves scarily prescient of the longevity of 
 Egypt's military regime. Sherif El Azma's dive into the archive of 1930s 
 Egyptian and colonial cinema results in a seductive and uncanny neo-noir 
@@ -1397,7 +1397,7 @@ Arts at Simon Fraser University, Vancouver, where she is the Dena Wosk
 University
 Professor.
 
-SFU Woodwardâ€™s Cultural Programs
+SFU Woodward’s Cultural Programs
 
 SFU Woodward's Cultural Programs a dedicated part of SFU becoming 
 Canada's most Community Engagement University. Through cultural 
@@ -1405,7 +1405,7 @@ programming and arts discourse, SFU Woodward's supports public access to
 the arts within its unique location in Vancouver's DTES, with the belief that the 
 right to culture is for all.
 
-SFU Wâ€™s core activities are focused on community partnerships within 
+SFU W’s core activities are focused on community partnerships within 
 Vancouver's vibrant arts community, resulting in a wide variety of free and low-
 cost public programming at Goldcorp Centre for the Arts. In three short years 
 SFU Woodward's has formed relationships with 25 cultural partners, 
@@ -1465,15 +1465,15 @@ The ultimate aim of Re: The Fox is to produce as a form of live historical
 bootlegging where authenticity is not a marketable gimmick but a political 
 problem of transmission from one generation to the next.
 
-â€œif you are concerned with trying to reclaim art as an instrument of social and 
+“if you are concerned with trying to reclaim art as an instrument of social and 
 cultural transformation, in exposing the domination of the 
 culture/administrative apparatus as well as art which indolently reflects that 
 apparatus, you are urged to participate in this journal. its editorial thrust is 
 ideological: it aims at a contribution to the wider movement of social 
 criticism/transformation. (our contribution will be on the art front but by no 
-means limited to the fixed context closure of â€˜artâ€™.) we need a broad social 
+means limited to the fixed context closure of ‘art’.) we need a broad social 
 base in positive opposition to the ideological content and social relations 
-reproduced by â€˜officialâ€™ â€˜digitalâ€™ culture. those of you wishing to participate 
+reproduced by ‘official’ ‘digital’ culture. those of you wishing to participate 
 should send correspondence to: the editors, post office box 728. canal street 
 station, new york city, 10013 236 east pender street, vancouver v6a 1t7â€ 
 
@@ -1481,13 +1481,13 @@ The exhibition is part of Arnaud Desjardin's ABRRR - Artists' Books Research
 Residency in Vancouver, co-produced with the Emily Carr University Library 
 and READ Books. The residency includes a workshop at READ Books, 
 residency activities at the Emily Carr University Library, and the launch of his 
-"Book on Books on Artistsâ€™ Books" at Satellite Gallery.
+"Book on Books on Artists’ Books" at Satellite Gallery.
 
 Arnaud Desjardin is a French artist, curator and publisher currently based in 
 London. He describes his ongoing publication project, The Everyday Press, 
-as a â€œchannel for collaborations with artists, curators, writers and academics 
+as a “channel for collaborations with artists, curators, writers and academics 
 to produce acts of publication to be considered as art works.â€  Having recently 
-published a sourcebook on artistsâ€™ books ("Book on Books on Artistsâ€™ 
+published a sourcebook on artists’ books ("Book on Books on Artists’ 
 Books"), Desjardin is currently developing an online archival project in 
 collaboration with Banner Repeater, an artist led project space in London.
 
@@ -1507,9 +1507,9 @@ to donors, volunteers, artists, and cultural workers, without whom we would be
 unable to continue. 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-11-07-22-softunion-workshop-luciana-danunciao-zoe-kreye-mirae-rosner-">22. Soft/Union WORKSHOP | Luciana D'AnunciaÃ§Ã£o, Zoe Kreye, Mirae Rosner | NOV 16</a>
+<a href="/instant-coffee/listings/2013-11-07-22-softunion-workshop-luciana-danunciao-zoe-kreye-mirae-rosner-">22. Soft/Union WORKSHOP | Luciana D'Anunciação, Zoe Kreye, Mirae Rosner | NOV 16</a>
 ------------------------------------------------------------------------
-Movement Workshop with Luciana D'AnunciaÃ§Ã£o,
+Movement Workshop with Luciana D'Anunciação,
 Zoe Kreye and Mirae Rosner
 Saturday, November 16, 2013
 
@@ -1518,7 +1518,7 @@ Gallery welcomes Soft/Union - a dance and movement workshop that stems
 from the processes that have been integral to the iconic westcoast dancer's 
 choreography and art forms. 
 
-Soft/Union will be led by Luciana Dâ€™Anunciacao, Zoe Kreye and Mirae Rosner. 
+Soft/Union will be led by Luciana D’Anunciacao, Zoe Kreye and Mirae Rosner. 
 Patterns of daily routines create well worn pathways that shape our modes of 
 experience. When we invite our bodies to lead we free ourselves to follow 
 unexpected directions and discover our vivid imaginations. Soft/Union is body-
@@ -1526,12 +1526,12 @@ based. We will learn from our senses and perception, build awareness of
 individual and group process and create space for embodied experience. 
 Accessible to all bodies and experience levels.
 
-Mirae Rosner (Canada), Zoe Kreye (Canada) & Luciana D'AnunciaÃ§Ã£o (Brazil) 
+Mirae Rosner (Canada), Zoe Kreye (Canada) & Luciana D'Anunciação (Brazil) 
 are members of, and gain deep inspiration from working with Dance Troupe 
 Practice (DTP): a self-organized and non-hierarchical dance collective that is 
 open to those interested in exploring life and creativity through movement.
 
-Based in Vancouver since 2007, Luciana D'AnunciaÃ§Ã£o is a Brazilian artist 
+Based in Vancouver since 2007, Luciana D'Anunciação is a Brazilian artist 
 whose practice draws upon performance, dance, video, and installation. She 
 has performed and exhibited in Canada, Brazil, the United States, Germany, 
 the United Kingdom, and Poland. Currently D'Anunciacao is a graduate 
@@ -1575,25 +1575,25 @@ VERB WOMAN: the wall is in my head/ a dance of forgetting
 
 Memory:
 International Mail Art Exhibition and Swap.
-November 17, 2013 â€“January 12, 2014
+November 17, 2013 –January 12, 2014
 
 Richmond Art Gallery presents two new exhibitions opening on Saturday, 
-November 16 from 3:00 â€“ 5:00pm; VERB WOMAN: the wall is in my head/ a 
+November 16 from 3:00 – 5:00pm; VERB WOMAN: the wall is in my head/ a 
 dance of forgetting by Margaret Dragu and Memory: International Mail Art 
 Exhibition and Swap organized by Kathy Tycholis.
-This will be Governor-General Award Winner Margaret Draguâ€™s first Gallery-
+This will be Governor-General Award Winner Margaret Dragu’s first Gallery-
 based solo exhibition with a new video work to be launched at the Opening 
 Reception. Exploring conflict and forgetting within public and private contexts, 
 Dragu's lens focuses on footage from Berlin and Belfast as well as 
 documentation from her 2009-2011 performances of VERB WOMAN: a dance 
-of forgetting (dedicated to her mother who had Alzheimerâ€™s disease). The new 
+of forgetting (dedicated to her mother who had Alzheimer’s disease). The new 
 two channel-video, divided into â€œconflictâ€  and â€œforgettingâ€  channels, considers 
 the underlying tensions of conscious and unconscious â€œforgettingâ€  by 
 individuals and nations faced with painful histories. 
 Dragu will be present in the exhibition space at selected times, inviting visitors 
 to participate in a Community Quilt Chance Operation. Visitors will be 
 encouraged to record and upload sounds into a collective soundtrack, The 
-Artist is Working, and then, using dice or cards, will direct Draguâ€™s dance 
+Artist is Working, and then, using dice or cards, will direct Dragu’s dance 
 movements in the tradition of composer/artist, John Cage and 
 dancer/choreographer, Merce Cunningham.
 Also included in the exhibition is a newly designed website by Dragu that 
@@ -1605,7 +1605,7 @@ Margaret Dragu is a multidisciplinary artist whose work as a dancer,
 choreographer, performance artist and film maker has taken her into galleries, 
 museums, theatres, nightclubs, libraries, universities, parks and parade 
 routes throughout Canada, the USA and Western Europe. A feminist and 
-social activist, Draguâ€™s four decade-long practice has explored issues of 
+social activist, Dragu’s four decade-long practice has explored issues of 
 gender, class, labour, sex, representation, memory and death. She 
 continues to engage community in her performance work and also in her role 
 as personal trainer and fitness instructor. An exhibition brochure with an 
@@ -1625,7 +1625,7 @@ international network.
 An opening reception will be held on Saturday, November 16 from 3:00 to 5:00 
 pm with the video launch at 3:20pm. Artist Margaret Dragu will be in 
 attendance. Both events are free and open to the public. Exhibitions are on 
-view from November 17, 2013 â€“ January 12, 2014
+view from November 17, 2013 – January 12, 2014
 
 The Richmond Art Gallery is located in the Richmond Cultural Centre, 7700 
 Minoru Gate, Richmond. The Richmond Art Gallery gratefully acknowledges 

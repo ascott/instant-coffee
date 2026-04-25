@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 16
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Morris and Helen Belkin Art Gallery | Two Concerts with UBC School of Music | DEC 1"
 ---
 

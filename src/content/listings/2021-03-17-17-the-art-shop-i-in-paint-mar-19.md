@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "The Art Shop"
 summary: "The Art Shop | I IN PAINT | MAR 19"
 ---
 

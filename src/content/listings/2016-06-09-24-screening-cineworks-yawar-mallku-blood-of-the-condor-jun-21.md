@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Yawar Mallku (Blood of The Condor) | JUN 21"
 ---
 

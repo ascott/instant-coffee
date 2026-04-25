@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 2
 type: "OPENING"
+venue: "TRENCH Contemporary Art"
 summary: "TRENCH Contemporary Art | Amy Mukai: The Alchemy of Practice | NOV 29"
 ---
 
@@ -30,10 +31,10 @@ ambition.
 Mukai's sensitive yet complex geometric drawings and paintings document 
 the artist's patient pursuit of 'understanding' a medium, while revealing that 
 medium's potential to embody the sublime through its capacity for beauty. 
-This exhibition, â€˜The Alchemy of Practiceâ€™ brings together a collection of 
+This exhibition, ‘The Alchemy of Practice’ brings together a collection of 
 drawings and paintings completed over the past 30 years. 
 
-All of Amy Mukaiâ€™s drawings and paintings are ink, oil or acrylic gouache on 
+All of Amy Mukai’s drawings and paintings are ink, oil or acrylic gouache on 
 paper in a variety of sizes.
 
 For more information please contact Trench at 604-681-2577.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Hotam Press Gallery"
 summary: "Hotam Press Gallery | Guesthood and Alienhood | MAR 20"
 ---
 

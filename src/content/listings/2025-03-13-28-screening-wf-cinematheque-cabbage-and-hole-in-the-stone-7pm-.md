@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 28
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | WF @ Cinematheque | Cabbage and hole in the stone | 7PM | APR 17"
 ---
 

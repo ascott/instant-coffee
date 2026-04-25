@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 15
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Reads with Gabi Dao and Christian Vistan | OCT 17"
 ---
 

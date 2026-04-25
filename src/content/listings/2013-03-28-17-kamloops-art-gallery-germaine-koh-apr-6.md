@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 17
 type: ""
+venue: "Kamloops Art Gallery"
 summary: "Kamloops Art Gallery | Germaine Koh | APR 6"
 ---
 

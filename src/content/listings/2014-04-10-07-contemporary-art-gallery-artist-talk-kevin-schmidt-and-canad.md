@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 7
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Artist Talk: Kevin Schmidt and Canadian Art Launch | APR 12"
 ---
 
@@ -14,18 +15,18 @@ As part of our contribution to the city wide Canadian Art Gallery Hop, this
 year artist Kevin Schmidt will lead a walking tour and discussion of the ideas 
 and themes present in his exhibition.
 
-6:00 P.M.â€“8:00 P.M.
+6:00 P.M.–8:00 P.M.
 CONTEMPORARY ART GALLERY
 TO ATTEND, PLEASE RSVP TO RSVP@CANADIANART.CA
 
 The perfect way to end the Hop day is with a celebration! Join Canadian Art 
 editor Richard Rhodes at the launch of the Spring issue. The event will take 
-place at the Contemporary Art Gallery where you can enjoy Kevin Schmidtâ€™s 
+place at the Contemporary Art Gallery where you can enjoy Kevin Schmidt’s 
 new solo exhibition.
 
 The Spring issue of Canadian Art includes an exploration of the work of Erin 
 Shirreff, who recently had an exhibition at the CAG; a look at the late Arnaud 
-Maggs; Tammi Campbellâ€™s relationship with Frank Stella, Clement Greenberg 
+Maggs; Tammi Campbell’s relationship with Frank Stella, Clement Greenberg 
 and Modernism in general; along with other highlight articles about painter 
 Otto Rogers, sculptor Ron Huebner and multimedia artists Barbara Astman 
 and Julie Favreau.

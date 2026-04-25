@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 17
 type: "EVENT"
+venue: "ARTS ASSEMBLY @ PLOT"
 summary: "ARTS ASSEMBLY @ PLOT | With: Two Histories of Solitude | JUL 26"
 ---
 

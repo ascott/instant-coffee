@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 5
 type: "EDUCATION"
+venue: "Stanley Park Ecology Society"
 summary: "Stanley Park Ecology Society | Art Night: Sketching with Skulls | NOV 2"
 ---
 

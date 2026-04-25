@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 18
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | The Lind Biennial | 6PM | NOV 9"
 ---
 

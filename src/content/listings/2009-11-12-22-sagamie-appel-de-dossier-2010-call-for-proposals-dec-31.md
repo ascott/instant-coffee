@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 22
 type: ""
+venue: "SAGAMIE"
 summary: "SAGAMIE | Appel de dossier / 2010 / Call for proposals | DEC 31"
 ---
 
@@ -46,7 +47,7 @@ art.
 Artists and curators are invited to submit exhibition projects. The Centre
 SAGAMIE will publish a colour book to accompany each exhibition. Artists
 will be remunerated according to the CARFAC/RAAV fee schedule. The
-exhibition hall is spacious (floor space: 50â€™x30â€™, 15mx9m; ceiling: 11â€™,
+exhibition hall is spacious (floor space: 50’x30’, 15mx9m; ceiling: 11’,
 3.4m) and is located in downtown Alma. The exhibition center welcomes all
 forms of contemporary artistic expression, with particular emphasis on
 projects exploring contemporary digital art. This forum for experimental
@@ -72,7 +73,7 @@ Proposals must be postmarked before January 31, 2010*** and sent to :
 Centre SAGAMIE
 50, rue St-Joseph
 C.P. 517
-Alma, QuÃ©bec
+Alma, Québec
 Canada
 G8B 5W1
 
@@ -81,7 +82,7 @@ Please indicate clearly at the top of your proposal whether you are under
 or over 35 years of age. Emerging artists (35 years and under) will be
 evaluated within their peer group by the programming committee, as will
 more experienced artists, in order to facilitate the integration of the new
-generation of artists into the network of independent artistsâ€™ centers.
+generation of artists into the network of independent artists’ centers.
 
 ** PRINTING OF VISUAL DOCUMENTS
 Note that you are now required to submit the entire proposal on standard
@@ -107,28 +108,28 @@ forward this message to artists and centers you are familiar with.
 
 Visit our BLOG at this address: http://www.centresagamie.blogspot.com
 
-ï¿¼
+￼
 
 Le Centre SAGAMIE est soutenu par le Conseil des arts et des lettres du
-QuÃ©bec, le Conseil des Arts du Canada et par Ville dâ€™Alma. Le Centre
-SAGAMIE remercie Ã©galement la ConfÃ©rence RÃ©gionale des Ã‰lus (CRÃ‰), le
+Québec, le Conseil des Arts du Canada et par Ville d’Alma. Le Centre
+SAGAMIE remercie également la Conférence Régionale des Élus (CRÉ), le
 Fonds
-de stabilisation et de consolidation des arts et de la culture du QuÃ©bec,
-le CRCD, Emploi QuÃ©bec, le CRC, le CLD ainsi que ses 349 membres pour leur
+de stabilisation et de consolidation des arts et de la culture du Québec,
+le CRCD, Emploi Québec, le CRC, le CLD ainsi que ses 349 membres pour leur
 soutien financier. Le Centre SAGAMIE est membre du Regroupement des
-centres d'artistes autogÃ©rÃ©s du QuÃ©bec.
+centres d'artistes autogérés du Québec.
 
 The Centre SAGAMIE receives support from the Conseil des arts et des
-lettres du QuÃ©bec, the Canada Council for the Arts and the City of Alma.
-The Centre SAGAMIE is also grateful to the ConfÃ©rence RÃ©gionale des Ã‰lus
-(CRÃ‰), the Fonds de stabilisation et de consolidation des arts et de la
-culture du QuÃ©bec, the CRCD, Emploi QuÃ©bec, the CRC, the CLD and its 349
+lettres du Québec, the Canada Council for the Arts and the City of Alma.
+The Centre SAGAMIE is also grateful to the Conférence Régionale des Élus
+(CRÉ), the Fonds de stabilisation et de consolidation des arts et de la
+culture du Québec, the CRCD, Emploi Québec, the CRC, the CLD and its 349
 membres for their financial support. The Centre SAGAMIE is a member of the
-Regroupement des centres d'artistes autogÃ©rÃ©s du QuÃ©bec.
+Regroupement des centres d'artistes autogérés du Québec.
 
 SAGAMIE
 Centre d'art contemporain / Contemporary Art Centre
-50, St-Joseph, C.P. 517, Alma, (QuÃ©bec), G8B 5W1, tÃ©lÃ©phone et tÃ©lÃ©copie :
+50, St-Joseph, C.P. 517, Alma, (Québec), G8B 5W1, téléphone et télécopie :
 (418) 662-7280
 sagamie@cgocable.ca http://www.sagamie.com/
 

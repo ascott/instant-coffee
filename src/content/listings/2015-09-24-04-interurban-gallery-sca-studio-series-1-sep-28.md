@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 4
 type: "EVENT"
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | SCA Studio Series #1 | SEP 28"
 ---
 

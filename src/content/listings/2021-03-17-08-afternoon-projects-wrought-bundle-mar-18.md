@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Wrought Bundle | MAR 18"
 ---
 

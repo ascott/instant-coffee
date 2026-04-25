@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 26
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Traces of Discovery: Conversation on Jerry Pethick | OCT 30"
 ---
 

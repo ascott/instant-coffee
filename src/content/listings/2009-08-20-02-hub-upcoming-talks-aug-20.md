@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: now conforming to safety requireme
 emailDate: "Thu, 20 Aug 2009 09:01:09 -0700"
 number: 2
 type: ""
+venue: "HUB"
 summary: "HUB | Upcoming Talks | AUG 20"
 ---
 

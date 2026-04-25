@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 13
 type: "EVENT"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Tiffany Law and Francisco Berlanga | AUG 3"
 ---
 

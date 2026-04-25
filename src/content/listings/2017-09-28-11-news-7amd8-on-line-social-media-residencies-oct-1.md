@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 11
 type: ""
+venue: "NEWS"
 summary: "NEWS | 7a*md8 | On-Line Social Media Residencies | OCT 1"
 ---
 

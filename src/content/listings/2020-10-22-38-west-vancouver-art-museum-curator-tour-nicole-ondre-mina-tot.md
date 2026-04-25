@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 38
 type: "EDUCATION"
+venue: "West Vancouver Art Museum"
 summary: "West Vancouver Art Museum | curator tour NICOLE ONDRE & MINA TOTINO | 2PM | NOV 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 10
 type: "OPENING"
+venue: "U N I T 17"
 summary: "U N I T 17 | Paul Kajander & Isabelle Pauwels | 6PM | JUL 22"
 ---
 

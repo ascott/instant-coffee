@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 5
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Traces of Discovery: Conversation on Jerry Pethick | OCT 30"
 ---
 

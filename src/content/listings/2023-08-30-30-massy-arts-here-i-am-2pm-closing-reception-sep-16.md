@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 30
 type: "EVENT"
+venue: "Massy Arts"
 summary: "Massy Arts | Here I am, ... | 2PM | CLOSING RECEPTION | SEP 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 7
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Rodney Graham Remembered | 7PM | DEC 4"
 ---
 

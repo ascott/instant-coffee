@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 26
 type: ""
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | CALL | NOV 12"
 ---
 
@@ -27,7 +28,7 @@ reflect the multiple layers of community, relationships and memories this
 new initiative will help to foster for many years to come.
 
 All information on how to apply to this public art opportunity can be found 
-by downloading a PDF copy of the RFQ document from the Artistâ€™s 
+by downloading a PDF copy of the RFQ document from the Artist’s 
 Opportunities webpage:
 http://www.richmond.ca/culture/publicart/opportunities.htm
 

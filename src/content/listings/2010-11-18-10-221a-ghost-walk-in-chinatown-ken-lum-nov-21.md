@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 10
 type: ""
+venue: "221A"
 summary: "221A | Ghost Walk in Chinatown, Ken Lum | NOV 21"
 ---
 
@@ -35,7 +36,7 @@ Star Press, Paris. Lum was Project Manager for Okwui Enwezorâ��s The
 Short Century: Independence and Liberation Movements in Africa 1945 â��
 1994 (2001). He was also co-curator of the 7th Sharjah Biennial
 (2005), and Shanghai Modern: 1919 â�� 1945 (2005). Lum has exhibited
-widely, including SÃ£o Paulo Biennial (1998), Shanghai Biennale (2000),
+widely, including São Paulo Biennial (1998), Shanghai Biennale (2000),
 Documenta 11 (2002), the Istanbul Biennial (2007), and the Gwangju
 Biennale (2008). He is currently working on two public art
 commissions, one in Berlin and the other in Utrecht.

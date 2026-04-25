@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 32
 type: "CALL"
+venue: "Iris Film Collective"
 summary: "Iris Film Collective | Call for Participants: ONE TAKE SUPER 8 | APR 15"
 ---
 

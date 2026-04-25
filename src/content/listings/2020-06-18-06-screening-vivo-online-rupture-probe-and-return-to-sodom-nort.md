@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 6
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | ONLINE | Rupture Probe and Return to Sodom North | 7PM | JUN 18"
 ---
 

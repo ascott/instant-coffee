@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 35
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Art+Feminism Wikipediathon | MAR 6"
 ---
 

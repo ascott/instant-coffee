@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: i"
 emailDate: "Wed, 23 May 2012 08:57:21 -0700"
 number: 22
 type: ""
+venue: "Cineworks Independent Filmmakers Society"
 summary: "Cineworks Independent Filmmakers Society | WRITING SHORT SCREENPLAYS | JUN 16"
 ---
 
@@ -23,13 +24,13 @@ ideas lend themselves best to short screenplay (and which do not), as
 well as an examination of the means of writing a short screenplay
 designed to give the filmmaker the optimum chance of producing a 
 truly
-compelling â€˜calling card.â€™ A number of successful short films will be
+compelling ‘calling card.’ A number of successful short films will be
 screened during the workshop, some locally produced, some
 international in their origins, with a continued emphasis upon the
 story characteristics and genres which lend themselves well to
 successful execution in short form. Attendees are asked to bring along
 one 50-word idea for a short script, which will be work shopped during
-this session. Copies of Ric Beairstoâ€™s THE TYRANNY OF STORY: 
+this session. Copies of Ric Beairsto’s THE TYRANNY OF STORY: 
 Audience
 Expectations and the Short Screenplay will be available for sale to
 workshop attendees at a discounted rate.
@@ -50,5 +51,5 @@ to avoid waiting lists and cancellations.
 
 Cineworks gratefully acknowledges the support of our membership,
 volunteers, sponsors and the ongoing financial assistance of our
-funders-â€“the Canada Council for the Arts, the British Columbia Arts
+funders-–the Canada Council for the Arts, the British Columbia Arts
 Council and the City of Vancouver. www.cineworks.ca

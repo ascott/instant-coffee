@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 36
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Curatorial tour with Kimberly Phillips | 6PM | FEB 21"
 ---
 

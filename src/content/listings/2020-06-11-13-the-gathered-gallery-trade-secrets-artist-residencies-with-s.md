@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Let Individuals Represent Individu
 emailDate: "Thu, 11 Jun 2020 10:00:09 -0700"
 number: 13
 type: "EDUCATION"
+venue: "The Gathered Gallery"
 summary: "The Gathered Gallery | Trade Secrets | Artist Residencies with Spark Box Studio | 7PM | JUN 23"
 ---
 

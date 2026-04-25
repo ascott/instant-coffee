@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 4
 type: ""
+venue: "THE COMMONS"
 summary: "THE COMMONS | SHARING PUBLIC SPACE | JAN 19"
 ---
 
@@ -13,7 +14,7 @@ January 12 - 21, 2012
 Public Discussion: Jan 19 7:00 PM - 9:00 PM
 Organised by: North Vancouver Urban Forum Society
 
-Venue: CafÃ© for Contemporary Art
+Venue: Café for Contemporary Art
 140 East Esplanade, North Vancouver
 (778) 340-3379
 
@@ -54,7 +55,7 @@ inquiry
 photo project organised by Cath Anne Ambrose. I understand she's still 
 accepting photos of things people love about Lower Lonsdale, so get 
 clickin'! 
-(lovinlolophotos@gmail.com). The cafÃ© for contemporary art is super 
+(lovinlolophotos@gmail.com). The café for contemporary art is super 
 proud to 
 host!
 
@@ -68,5 +69,5 @@ Stay tuned at urbanforum.wordpress.com
 
 Happy 2012!!
 
-all of us at CafÃ© for Contemporary Art/Architecture/Urban Design/Civic 
+all of us at Café for Contemporary Art/Architecture/Urban Design/Civic 
 Engagement/Coffee/Home-made Cream Puffs... you know...

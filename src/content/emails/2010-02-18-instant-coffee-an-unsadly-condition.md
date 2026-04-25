@@ -153,11 +153,11 @@ theatrical stage, The Candahar is an artwork that is also a functioning
 bar, open to the public and staffed in collaboration with two Belfast
 bartenders who act as unscripted performers. The project fuses the
 authentic with fantasy, spectacle with stage, and at its heart acts as a
-catalyst for conversation, debate and dialogue â€” and a pint here or there.
+catalyst for conversation, debate and dialogue — and a pint here or there.
 
 During the sixteen days of the 2010 Winter Olympic Games, Presentation
 House Gallery is staging The Candahar as a locus for social interaction and
-the host site for an ambitious series of nightly events â€” musical programs,
+the host site for an ambitious series of nightly events — musical programs,
 theatrical presentations, performances and dialogues, both scripted and
 unscripted. Programmed by author Michael Turner, as well as by invited
 guests, including Winnipeg artist Paul Butler, the Candahar will feature an
@@ -288,7 +288,7 @@ Fri Feb 19
 
 $5
 
-Lois Klassen and Pierre-AndrÃ© Sonolet (Covering Up)
+Lois Klassen and Pierre-André Sonolet (Covering Up)
 
 Masque Tea
 
@@ -438,7 +438,7 @@ High Tea
 
 High T, is an ambient audio-visual performance, augmented with: rose petals
 & Chinese black tea, pine smoked Chinese black tea, paraguayan roasted yeba
-matÃ©, & Seamist tea. Together these affectations touch the boundary between
+maté, & Seamist tea. Together these affectations touch the boundary between
 immersion and remediation. Call it liminal social media.
 
 Fri March 12
@@ -471,7 +471,7 @@ FREE
 
 Oboro family and friends
 
-Le thÃ© de l'amitiÃ©
+Le thé de l'amitié
 
 ( Skype Tea with Oboro, Montreal)
 
@@ -505,7 +505,7 @@ More information: http://bright-light.ca/
 Come have a cup of tea!
 
 World Tea Party is presented in partnership with the Vancouver 2010
-Cultural Olympiad the City of Vancouver â€˜s Olympic and Paralympic Public
+Cultural Olympiad the City of Vancouver ‘s Olympic and Paralympic Public
 Art Program: Bright Light.
 
 Tea generously provided by Pari Azarm Motamedi, DAVIDsTEA www.davidstea.com
@@ -569,7 +569,7 @@ Signs, City Wall, City Path is a public installation by local artists
 Jenipher Hur and Avery Nabata. Part of the Bright Light festival, this work
 is a series of outdoor installations that humourously co-opt billboard
 marketing, tourist maps and other forms of official public signage.
-Jenipher Hur and Avery Nabata address the familiar features of Vancouverâ€™s
+Jenipher Hur and Avery Nabata address the familiar features of Vancouver’s
 constantly changing cityscape, subtly drawing our critical attention to the
 way the city represents and negotiates its complex social reality.
 
@@ -619,7 +619,7 @@ http://paulwongprojects.bigcartel.com/
 
 Lifetime Olympic Pop Up Shop, 354 Water Street, Vancouver, BC.
 
-â€˜5â€™ is commissioned by The City of Vancouver through its Olympic and
+‘5’ is commissioned by The City of Vancouver through its Olympic and
 Paralympic Public Art Program, as part of Mapping and Marking
 Artist-Initiated Projects for Vancouver 2010.
 
@@ -647,7 +647,7 @@ public embarrassment during the Olympics. Two years ago homelessness count
 identified 2,660 people who were homeless in the Metro Vancouver region,
 and the numbers keep growing. The performance/installation uses traditional
 forms of exhibition; a window display used in stores, and galleries to
-portray a faÃƒÂ§ade that can be then further explored inside. The inside
+portray a faÃ§ade that can be then further explored inside. The inside
 will not be a physical space but the viewer's mind and their own inquiries.
 How do they relate to this issue within their own behavioral, emotional and
 physical parameters? How do they treat the homeless? and what do they do as
@@ -711,7 +711,7 @@ neighbourhood from January to March 2010.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free
 
 
@@ -800,9 +800,9 @@ the Sydney Biennale, Venice Biennale, Documenta XI in Kassel, Germany, the
 Ken Lum was Head of the Graduate Program in Studio Art from 2000 to 2006 at
 the University of British Columbia, where he taught from 1990 until 2006.
 He also spent two years as a visiting professor at the ecole Nationale
-SuprÃƒÂ©rieure des Beaux-Arts in Paris. Lum guest-taught at the Akademie der
+SuprÃ©rieure des Beaux-Arts in Paris. Lum guest-taught at the Akademie der
 Bildenden Kunst in Munich, Germany, the China Art Academy in Hangzhou,
-China and the lÃ¢ Ecole da Arts Plastique in Fort de France, Martinique. He
+China and the lâ Ecole da Arts Plastique in Fort de France, Martinique. He
 has been widely published and is the Founding Editor of Yishu: The Journal
 of Contemporary Chinese Art. Lum was made a Guggenheim Fellow in 1999 and
 awarded a Killam Award for Outstanding Research in 1998 and the Hnatyshyn

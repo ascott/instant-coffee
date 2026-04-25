@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 12
 type: "EVENT"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Farewell from the Directors | 3PM | DEC 7"
 ---
 

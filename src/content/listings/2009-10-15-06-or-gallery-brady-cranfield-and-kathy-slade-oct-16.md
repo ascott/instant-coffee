@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it all adds up"
 emailDate: "Thu, 15 Oct 2009 08:05:40 -0700"
 number: 6
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | BRADY CRANFIELD and KATHY SLADE | OCT 16"
 ---
 

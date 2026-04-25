@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 3
 type: "OPENING"
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Kevin Murphy | Victoria | AUG 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 10
 type: "OPENING"
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | PSYCHIC PLAZA | OCT 14"
 ---
 
@@ -13,7 +14,7 @@ PSYCHIC PLAZA
 
 OPENING RECEPTION OCTOBER 13, 2011 7-11pm
 
-Exhibit OCTOBER 14â€“ 29, 2011
+Exhibit OCTOBER 14– 29, 2011
 
 AVERY NABATA, SIMON REDEKOP, JANICE CHEUNG, CHRIS BONI, MAKIKO 
 YOSHII, IAN EDMONDS, ALAINNA WHACHELL, AARON MORAN
@@ -33,7 +34,7 @@ He is the co-founder of Smoke Signals publishing and is currently participating 
 the 2011 Fraser Valley Biennale.
 
 Ian Edmonds is a senior student at Emily Carr University of Art + Design. He 
-recently had a solo show at the Vancouver School of Art Gallery called â€œLet it go 
+recently had a solo show at the Vancouver School of Art Gallery called “Let it go 
 to your headâ€  in 2011.
 
 Setareh Yasan received her BFA from Emily Carr University of Art + Design in 

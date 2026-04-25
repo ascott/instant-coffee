@@ -120,7 +120,7 @@ Didier Courbot, Jamie Hilder, David Horvitz, Kelly Mark, Carey Young
 
 Curated by Gabrielle Moser
 
-June 23â€“July 28, 2012
+June 23–July 28, 2012
 
 Opening Reception: Friday, June 22, 8-11 pm
 
@@ -151,16 +151,16 @@ prioritize useless labour: work that cannot be â€œput to workâ€  in order
 participate in the global economy.
 
 For several artists in the exhibition, work involves assuming and 
-exceeding the role of the everyday labourer, such as Carey Youngâ€™s 
+exceeding the role of the everyday labourer, such as Carey Young’s 
 video documenting her presentation of free, â€œhow toâ€  advice on public 
-speaking in Londonâ€™s Speakersâ€™ Corner, or David Horvitzâ€™s offer to stop 
-what heâ€™s doing and devote one minute to thinking about you in 
+speaking in London’s Speakers’ Corner, or David Horvitz’s offer to stop 
+what he’s doing and devote one minute to thinking about you in 
 exchange for one dollar. For others, making artistic labour visible, both 
-in and outside the studio, is a key concern, as in Kelly Markâ€™s artist 
+in and outside the studio, is a key concern, as in Kelly Mark’s artist 
 contracts with Canadian galleries which have been renegotiated so that 
 her work is renumerated according to the hourly minimum wage (an 
 amount that is always higher than the CARFAC-suggested artist fee). 
-Similarly, Didier Courbotâ€™s photographic series captures his ongoing 
+Similarly, Didier Courbot’s photographic series captures his ongoing 
 interventions meant to fulfil practical urban â€œneeds,â€  such as painting in 
 a crosswalk on a busy street, or installing a birdhouse on a streetlamp: 
 a project he will expand on through performance and photographic 
@@ -177,8 +177,8 @@ works as part of his ongoing â€œneedsâ€  series. Courbotâ€™s residen
 of an ongoing residency program for French visual artists initiated by 
 the Consulate General of France in Vancouver.
 
-Didier Courbot (Paris, France) works with a range of mediaâ€”sculpture, 
-video, photographyâ€”to document the urban environment with an 
+Didier Courbot (Paris, France) works with a range of media—sculpture, 
+video, photography—to document the urban environment with an 
 extraordinary sensitivity. His recreations of specific elements and his 
 subtle interventions draw attention to the forgotten and discarded. 
 Courbot has been included in exhibitions at the Jeu de Paume, Paris; 
@@ -194,7 +194,7 @@ Poetry Movement at the University of British Columbia in 2010. He is
 presently a post-doctoral researcher in the Graduate School of 
 Education and Information Sciences at UCLA.
 
-David Horvitz (New York City)â€™s practice spans photography, 
+David Horvitz (New York City)’s practice spans photography, 
 performance, sculpture, and print media. Recurring interests across 
 these disciplines include attention to strategies of information 
 circulation and the impermanence of digital artifacts. His work has been 
@@ -208,7 +208,7 @@ everyday life. Hidden in the repetitive mundane tasks, routines and
 rituals of contemporary culture, she finds startling moments of poetic 
 individuation. She has exhibited widely across Canada, and 
 internationally at venues including the Art Gallery of Ontario, Toronto; 
-MusÃ©e dâ€™Art Contemporain, Montreal; and Ikon Gallery, Birmingham UK. 
+Musée d’Art Contemporain, Montreal; and Ikon Gallery, Birmingham UK. 
 Mark represented Canada at the Liverpool Biennale in 2006 and the 
 Sydney Biennale in 1998.
 
@@ -249,8 +249,8 @@ Wednesday, June 27, 7 pm, Access Gallery
 
 In tandem with Always Working, curator Gabrielle Moser co-facilitates a 
 meeting of No Reading After the Internet, an out-loud reading group 
-organized by Alex Muir and VIVO. Focusing on artist Hito Steyerlâ€™s 2010 
-e-flux essay, â€œPolitics of Art: Contemporary Art and the Transition to 
+organized by Alex Muir and VIVO. Focusing on artist Hito Steyerl’s 2010 
+e-flux essay, “Politics of Art: Contemporary Art and the Transition to 
 Post-Democracy,â€  the group will discuss the textâ€™s call for an art that 
 examines the politics of its own production and its relation to the works 
 in the exhibition. No Reading After the Internet is a monthly opportunity 
@@ -331,7 +331,7 @@ project space.
 
 This years successful candidate is, Sophia Bartholomew, showing with 
 guests,
-Kate Barbaria, Nelly CÃ©sar, and Evan French.
+Kate Barbaria, Nelly César, and Evan French.
 aversionofyourself.tumblr.com
 
 Please join us at the opening, this Friday, TOMORROW! :) June 22 7PM
@@ -487,7 +487,7 @@ ARTS 2012 continues to August 18.
 
 These exhibitions are presented concurrently with the outdoor sound 
 art installation Audio Migration (2012) by artist Alex Grunenfelder, 
-which is part of Open Sound 2012: On Air, Underground â€“ Making the 
+which is part of Open Sound 2012: On Air, Underground – Making the 
 Inaudible Audible, guest curated by Ross Birdwise.
 
 The Surrey Art Gallery would like to gratefully acknowledge the Canada 
@@ -522,10 +522,10 @@ studied and worked with several key galleries abroad, and Rogatnick,
 who had studied architecture at Harvard, both brought with them new 
 perspectives about contemporary art and design. Encouraged by Jack 
 Shadbolt and Arthur Erickson, Balkind and Rogatnick opened the NDG 
-in adjacent apartments above Tony Caveltiâ€™s and Karl Stittgenâ€™s 
+in adjacent apartments above Tony Cavelti’s and Karl Stittgen’s 
 jewellery studio in West Vancouver.
 
-Balkind, somewhat disparagingly, later wrote: â€œVancouver in 1955 was 
+Balkind, somewhat disparagingly, later wrote: “Vancouver in 1955 was 
 a sleepy provincial, rather stuffy city, sitting tight on the only distinction 
 it had: its natural beauty.â€  The North Shore however, with its inspiring 
 natural setting (and then relatively affordable property) was also a 
@@ -534,10 +534,10 @@ architects and other creative intellectuals.
 
 The NDG profiled contemporary art during a time of public 
 apprehension and distrust towards modernism. The original press 
-release announced that â€œthe New Design Gallery, [will] show the public 
+release announced that “the New Design Gallery, [will] show the public 
 fine art and good design that can be used in daily life [and serve] as a 
 centre for artists who are in harmony with the modern spirit.â€  While the 
-NDGâ€™s successful openings drew crowds of people seeking, as 
+NDG’s successful openings drew crowds of people seeking, as 
 Rogatnick suggestsâ€œa sophisticated art milieu,â€  he points out â€œâ€¦ they 
 didnâ€™t buy very much.â€  The gallery subsequently moved to Vancouver 
 in 1958 where it shared space with the newly formed Arts Club and 
@@ -565,7 +565,7 @@ Application deadline: Extended to June 29, 2012
 
 Speaking for real: this isn't a history painting, it's a book of stories. A 
 book being written with stories like the ones you get told when you're 
-getting your head chopped offâ€”before going up there, or coming back 
+getting your head chopped off—before going up there, or coming back 
 from the show. Stories like they tell in museums.
 
 This residency is addressed to participants willing to engage in 
@@ -576,7 +576,7 @@ exhibition space, criticism). The residency will thus be structured in as
 many points of enunciation, with individual studio and research time, 
 public talks, and collective discussions enhanced by screenings and 
 reading sessions.
-26 Wood Land School â€“ What colour is the present?
+26 Wood Land School – What colour is the present?
 Faculty: Duane Linklater
 Guest: Brian Jungen
 Program dates: January 7, 2013 - February 22, 2013
@@ -592,7 +592,7 @@ by our languages, where we come from, our city lives, our rural lives (or
 in between). We will get together to see what becomes of this.
 
 Please note: Enrolment to this program is limited to individuals of 
-Aboriginal descent (status, non-status, MÃ©tis or Inuit).
+Aboriginal descent (status, non-status, Métis or Inuit).
 27 Our Literal Speed: Stuff Near Art That Is Not Art, Which Is Treated 
 As If It Were Art, Is Now The Substance of Most Serious Art
 Program dates: January 7, 2013 - February 22, 2013
@@ -665,7 +665,7 @@ stories or small pieces of writing. The event will be hosted by Solder
 and Sons with the opening date scheduled for July and book screening 
 to continue throughout the summer months. 
 
-Submissions are open to all members of Vancouverâ€™s emerging 
+Submissions are open to all members of Vancouver’s emerging 
 creative community, but please remember that due to space limitations 
 we will only be able to accept a limited number of artists. 
 
@@ -693,14 +693,14 @@ Deadline is June 29th, 2012
 RICHMOND ART GALLERY
 close your eyes
 Sophie Jodoin
-June 29 â€“ August 26, 2012
+June 29 – August 26, 2012
 
 Richmond Art Gallery is pleased to present an exhibition by Montreal-
 based artist, Sophie Jodoin. Close your eyes, covers a span of four 
 years and includes a video and three bodies of work; Small Dramas & 
 Little Nothings, Charred and Vigils. The exhibit is comprised largely of 
 drawing and collages, and is conceived as a continuous thread echoing 
-the course of human experience. Jodoinâ€™s works form a collection of 
+the course of human experience. Jodoin’s works form a collection of 
 quiet narratives and struggles. 
 
 Known for her exploration of difficult themes, such as war, childhood 
@@ -708,7 +708,7 @@ trauma, abandonment and violence, Jodoin examines her subjects with
 a careful eye and skilled hand. Fragments, broken parts and remnants 
 all combine as evidence of unkind or brutal acts; however, it is not the 
 surface of violence that deserves examination. Jodoin prefers to 
-explore her subjectâ€™s inner life, questioning how their fragility and 
+explore her subject’s inner life, questioning how their fragility and 
 resiliency exists within a bleak, psychological landscape. Jodoin avoids 
 sensationalist readings; she does not seek to shock the viewer but 
 enjoins them to take a second look at those parts of life which make us 
@@ -716,13 +716,13 @@ uncomfortable. Reduced to monochromatic tones, her intimately sized
 drawings hang in an empty contemplative space of the gallery, 
 mirroring the blank landscapes of their content.
 
-The exhibition is a rare opportunity to view Jodoinâ€™s work on the west 
+The exhibition is a rare opportunity to view Jodoin’s work on the west 
 coast and has been scheduled to coincide with the fourth annual 
 Vancouver DRAWN festival. The opening will be on Thursday, June 28 
 at 7pm. The artist will be in attendance.
 
-In conjunction with the exhibition a Curatorâ€™s Tour & Lunch will held on 
-Thursday July 12, 12â€“1pm. Dr. Lynn Ruscheinsky will give a talk as 
+In conjunction with the exhibition a Curator’s Tour & Lunch will held on 
+Thursday July 12, 12–1pm. Dr. Lynn Ruscheinsky will give a talk as 
 part of the DRAWN Festival on Sunday, July 15, 2-3pm. Ruscheinsky 
 will discuss the exhibition in the context of contemporary drawing. To 
 learn more about DRAWN visit: www.drawnfestival.ca
@@ -732,7 +732,7 @@ Her practice rests on a commitment to drawing as a discipline for
 exploring engaged content and includes collage, painting, lightboxes, 
 objects and video. Her work is found in numerous private, corporate, 
 and public collections. She studied Visual Arts at Concordia University. 
-Recent exhibits include Volta NY, MusÃ©e dâ€™art de Joliette, Museum 
+Recent exhibits include Volta NY, Musée d’art de Joliette, Museum 
 London, Art Gallery of Greater Victoria, Galerie Bertrand Grimont 
 (Paris). She is represented by Newzones (Calgary) and Battat 
 Contemporary (Montreal).
@@ -762,7 +762,7 @@ weather report (and film) by the late, great George Kuchar. Michael
 Rudnick will be in attendance. 
 
 These two San Francisco mavericks met when Rudnick was a student 
-in the early days of Kucharâ€™s infamous class at the San Francisco Art 
+in the early days of Kuchar’s infamous class at the San Francisco Art 
 Institute. Both filmmakers demonstrate a commitment to in-camera 
 editing with virtuosic use single shots altered with video effects and 
 image layering. This low-fi aesthetic leads the viewer into fantastical, 
@@ -771,12 +771,12 @@ funhouse mirror, reveling in our disturbing social truths.
 
 George Kuchar ranks as one of the most important and prolific 
 American independent film and video makers. With his homemade 
-Super 8 and 16mm potboilers and melodramas of the 1950s, â€™60s, and 
-â€™70s, he became legendary as a distinctive underground filmmaker 
+Super 8 and 16mm potboilers and melodramas of the 1950s, ’60s, and 
+’70s, he became legendary as a distinctive underground filmmaker 
 whose work influenced many other artists including Andy Warhol, John 
 Waters and David Lynch.
 
-Michael Rudnickâ€™s art practice has moved between moving images and 
+Michael Rudnick’s art practice has moved between moving images and 
 moving objects for over 40 years, largely in the alternative film world of 
 San Francisco. His ongoing video series Claude is a psychologically 
 charged project, an exorcism of demons embodied in the character 
@@ -785,14 +785,14 @@ diary entries. A master filmmaker, Rudnick has made over a150 films
 including ongoing documentaries of the places and people in his life, as 
 well as the work of other artists including Chris Burden and Nancy 
 Ruben. The Apartment and Western Front Media Arts are thrilled to 
-present Michael Rudnickâ€™s Canadian premiere. 
+present Michael Rudnick’s Canadian premiere. 
 
 Program: George Kuchar: HotSpell 25.55 mins. Michael Rudnick: 
 Episodes of Claude, 60 mins
 
-Western Front â€“ 303 East 8th Avenue
+Western Front – 303 East 8th Avenue
 Admission: Free
-For additional information contact Media Arts Curator Sarah Todd â€“ 
+For additional information contact Media Arts Curator Sarah Todd – 
 sarahtodd@front.bc.ca
 
 -- 
@@ -860,7 +860,7 @@ On Friday, November 30, 2012 the Gallery will host a Closing party for
 all participants
 and will be open to the public.
 
-The Gallery is not able to provide artistâ€™s transportation or 
+The Gallery is not able to provide artist’s transportation or 
 accommodation for this
 Exhibition
 
@@ -869,7 +869,7 @@ A current CV, a brief artist statement, a statement of the proposed
 work, up to 6 images
 of similar work or 5 minutes of video. Indicate in your proposal how 
 much wall/gallery
-space you require â€“ i.e. postage stamp size and upward. (see gallery 
+space you require – i.e. postage stamp size and upward. (see gallery 
 floor plan at
 www.richmondartgallery.org). Online submissions will not be accepted.
 
@@ -880,7 +880,7 @@ Temporary Assignment
 Richmond Art Gallery
 7700 Minoru Gate
 Richmond, BC V6Y 1R9
-GALLERY CLOSED FOR RENOVATIONS: December 3, 2012 â€“ 
+GALLERY CLOSED FOR RENOVATIONS: December 3, 2012 – 
 January 24, 2013
 
 Nan Capogna, Curator

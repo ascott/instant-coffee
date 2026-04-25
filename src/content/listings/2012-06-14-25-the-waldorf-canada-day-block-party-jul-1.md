@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 25
 type: ""
+venue: "The Waldorf"
 summary: "The Waldorf | Canada Day Block Party | JUL 1"
 ---
 
@@ -37,14 +38,14 @@ Cesar De la Parra.
 Canada Day Block Party 
 The Waldorf Hotel 
 1489 E.Hastings 
-12pmâ€”6pm 
+12pm—6pm 
 Free
 
 About The Waldorf Hotel 
 The Waldorf is a historic Hotel and Tiki Bar reimagined as a creative 
 compound where contemporary art, music, food and culture convene 
 under one roof. Special events, unique spaces, great food and 
-hospitality, thereâ€™s always something happening at The Waldorfâ€¦
+hospitality, there’s always something happening at The Waldorf…
 
 About Yelp 
 Yelp connects people with great local businesses. We're one part 

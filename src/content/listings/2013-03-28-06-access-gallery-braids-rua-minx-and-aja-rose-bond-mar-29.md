@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 6
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | BRAIDS; Rua Minx and Aja Rose Bond | MAR 29"
 ---
 
@@ -12,9 +13,9 @@ Rose Bond
 
 Performance and Reception: Friday March 29, 8pm
 
-Residency: March 4 â€“ 28, 2013
+Residency: March 4 – 28, 2013
 
-Installation: March 30 â€“ April 27, 2013
+Installation: March 30 – April 27, 2013
 
 Access Gallery presents Braids a co-residency and installation between 
 emerging Vancouver artist Aja Rose Bond and RUA MINX, an experimental 
@@ -33,14 +34,14 @@ of the residency and the opening of the installation with a performance
 produced by Bond and RUA MINX. 
 
 Aja Rose Bond, a cofounder of the Strathcona Art Gallery (STAG), has built a 
-name for herself in Vancouverâ€™s arts, noise, and activist communities. She 
+name for herself in Vancouver’s arts, noise, and activist communities. She 
 has held residencies at Hammock and Artbank, as well as exhibitions at 
 STAG and Goonies. Her other projects and collaborations include; 
 HYPERCRAFT Studio, The STAG (Strathcona Art Gallery) Library, Craft Pride 
 Procession, Her Jazz Noise Collective, UNARC (Underground Network of 
 Artist-Run Culture), WOEVAN (Witches of East Van), Seamrippers Craft 
 Collective, Diadem (w/partner Gabriel Saloman), In Flux (w/members of 
-Shearing Pinx), DJ Tapes and the Womenâ€™s Studies performance series co-
+Shearing Pinx), DJ Tapes and the Women’s Studies performance series co-
 produced w/VIVO Media Arts Center. Bond is an intermedia artist with 
 background in music, craft and fashion respectively, drawing from the deep 
 influence of D.I.Y. punk, feminisms and magick. Her intimate relationship with 
@@ -49,17 +50,17 @@ use of divination, symbols and geometry to align and reveal the more hidden
 elemental and energetic aspects of the work.
 
 Born in Chicago, Huanca received a BFA from the University of Houston 
-(2004) and studied at StÃ¤delschule, Frankfurt, Germany (2009-10). The recent 
+(2004) and studied at Städelschule, Frankfurt, Germany (2009-10). The recent 
 recipient of a Fulbright Scholarship, Huanca lived and worked in Mexico City 
 in 2012. Huanca has developed a nomadic practice producing site-specific 
 projects and exhibitions throughout the United States, Austria, Norway, Peru, 
 Germany, and Korea. Although embodied in a wide variety of media, her work 
-expresses a thorough engagement with linguistic experimentation. Huancaâ€™s 
+expresses a thorough engagement with linguistic experimentation. Huanca’s 
 work conveys distinctive and precise observations on the function of the 
 garment as an ever-evolving manner of language production and a traditional 
 form of cultural transmission. The results are performative platforms that are a 
 product of a compulsive attitude towards the search for material beacons and 
-parallel experiences. This project will be Huancaâ€™s first in Canada.
+parallel experiences. This project will be Huanca’s first in Canada.
 
 Access Gallery gratefully acknowledges the support of the Canada Council for 
 the Arts, BC Arts Council and the City of Vancouver.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 42
 type: "CALL"
+venue: "Digital Carnival 2019"
 summary: "Digital Carnival 2019 | Call for Artists | APR 15"
 ---
 

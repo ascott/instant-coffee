@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pinkish sentiments"
 emailDate: "Thu, 23 Oct 2014 17:15:15 -0700"
 number: 21
 type: ""
+venue: "Kamloops Art Gallery"
 summary: "Kamloops Art Gallery | L U M I N O C I T Y | OCT 31"
 ---
 
@@ -14,7 +15,7 @@ As we move into winter, downtown Kamloops will feature light and
 liveliness. Be sure to head downtown after dark for the festivities. 
 Luminocity is a week-long public art project featuring video projection, new 
 media works and events in public spaces throughout the downtown core of 
-Kamloops. Opening on Halloweâ€™en night, the event will begin with a Lost 
+Kamloops. Opening on Hallowe’en night, the event will begin with a Lost 
 Souls Parade, merging mobile video projects with theatrical spectacle 
 drawn from Latin American traditions that celebrate life and death and the 
 passage of time, as fall transforms to winter.

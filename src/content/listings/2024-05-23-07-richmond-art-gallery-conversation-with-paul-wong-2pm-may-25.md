@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 7
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Conversation with Paul Wong | 2PM | MAY 25"
 ---
 

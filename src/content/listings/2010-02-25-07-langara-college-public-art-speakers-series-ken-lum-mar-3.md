@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 7
 type: ""
+venue: "Langara College"
 summary: "Langara College | Public Art Speakers Series: Ken Lum | MAR 3"
 ---
 
@@ -32,7 +33,7 @@ Sydney Biennale (1992), Venice Biennale (1995, 2001), Istanbul Biennale
 
 Lum was Head of the Graduate Program in Studio Art at UBC from 2000 to
 2006, and spent 2 years as a visiting professor at the Ã�cole Nationale
-SupÃ©rieure des Beaux-Arts in Paris. He also guest-taught at the Akademie
+Supérieure des Beaux-Arts in Paris. He also guest-taught at the Akademie
 der Bildenden Kunst in Munich, Germany, the China Art Academy in Hangzhou,
 China and the lâ��Ecole dâ��Arts Plastique in Fort de France, Martinique. He
 has published widely and is the founding editor of Yishu: The Journal of

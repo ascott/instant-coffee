@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 26
 type: "EXHIBITION"
+venue: "OXYGEN"
 summary: "OXYGEN | HOST ARTIST CHRIS DUFOUR DURING SUMMER RESIDENCY | JUL 1"
 ---
 

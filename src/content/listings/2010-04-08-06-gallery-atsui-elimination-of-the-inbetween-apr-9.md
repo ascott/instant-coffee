@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing your altitude"
 emailDate: "Thu, 08 Apr 2010 08:55:19 -0700"
 number: 6
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | Elimination of the Inbetween | APR 9"
 ---
 
@@ -18,7 +19,7 @@ Sara Pupo
 Matt Shane
 Mona Sharma
 Sherry Walchuk
-Anna RÃºn Tryggvadottir
+Anna Rún Tryggvadottir
 James Whitman
 
 Drawing Works from the Concordia Master of Fine Arts Program

@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 2
 type: ""
+venue: "ie gallery"
 summary: "ie gallery | Drek Campbell and Sunny Sealeopard | closing | JUN 28"
 ---
 
 Drek Campbell and Sunny Sealeopard | Document of a Sidewalk | 
 June 26
 ie gallery
-June 1 â€“ 30, 2012
+June 1 – 30, 2012
 
-Closing reception: Thursday, June 28, 6â€“9pm
+Closing reception: Thursday, June 28, 6–9pm
 
 Join us for the closing celebration of our artists in residence for the 
 month of June. Sunny Sealeopard and and Drek Campbell took over 
@@ -25,12 +26,12 @@ Sediment
 
 I view trash as an evolution of material form, rather than an object
 fixed in time. We mark objects with the story of our life right up to
-the moment we discard them. We crush beer cans when weâ€™re 
+the moment we discard them. We crush beer cans when we’re 
 excited, 
 or
-wrinkle paper when weâ€™re thinking about a friend we havenâ€™t seen, 
+wrinkle paper when we’re thinking about a friend we haven’t seen, 
 the
-grocery list we wrote when we couldnâ€™t afford rent. We try to think
+grocery list we wrote when we couldn’t afford rent. We try to think
 very little about what they become after we throw them away. In 
 working
 with these discarded objects, I look at the value of entropy, not as
@@ -39,7 +40,7 @@ builds an understanding of our future.
 
 Sunny Sealeopard (Allison Karow)
 
-Responding to Drekâ€™s combine/formations and my own collected 
+Responding to Drek’s combine/formations and my own collected 
 materials, I explode diagrams, compressing and decompressing 
 layers 
 into a deformed micro landscape. Repetition creates growth and 

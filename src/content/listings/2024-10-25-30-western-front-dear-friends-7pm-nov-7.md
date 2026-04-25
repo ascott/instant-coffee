@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 30
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Dear Friends &: | 7PM | NOV 7"
 ---
 

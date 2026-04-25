@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 12
 type: ""
+venue: "VAG"
 summary: "VAG | Isabelle Pauwels THE CULTURE SERIES | MAY 17"
 ---
 
@@ -20,7 +21,7 @@ Isabelle Pauwels as part of the Culture Series.
 
 Pauwels is a Vancouver-based artist with a primary thematic focus on
 narrative structures and how they shape our sensory experience.
-Working primarily in video installation, Pauwelsâ€™ conceptually-based
+Working primarily in video installation, Pauwels’ conceptually-based
 work draws from interests in hybrid cultural forms, prosumer
 production, early history of television and film, and narratives of
 colonial-era exploration. She is the winner of the 2009 Brink Award

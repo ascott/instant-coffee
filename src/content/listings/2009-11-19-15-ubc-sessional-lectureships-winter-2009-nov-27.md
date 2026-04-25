@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 15
 type: ""
+venue: "UBC"
 summary: "UBC | SESSIONAL LECTURESHIPS: Winter 2009 | NOV 27"
 ---
 

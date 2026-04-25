@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Vancouver Maritime Museum"
 summary: "Vancouver Maritime Museum | Chi-Ming Yeung: Ships and the Sea | JAN 13"
 ---
 

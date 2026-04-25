@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 17
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Kegan McFadden | OCT 11"
 ---
 

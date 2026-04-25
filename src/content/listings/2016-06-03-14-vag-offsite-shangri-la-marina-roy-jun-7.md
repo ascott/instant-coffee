@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 14
 type: "TALK"
+venue: "VAG Offsite @ Shangri La"
 summary: "VAG Offsite @ Shangri La | Marina Roy | JUN 7"
 ---
 

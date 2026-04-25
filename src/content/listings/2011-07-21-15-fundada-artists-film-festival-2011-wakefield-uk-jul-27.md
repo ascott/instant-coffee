@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 15
 type: ""
+venue: "Fundada Artists' Film Festival 2011"
 summary: "Fundada Artists' Film Festival 2011 | Wakefield, UK | JUL 27"
 ---
 
@@ -14,7 +15,7 @@ FREE ENTRY
 The programme will run 5-7pm and 7-9pm
 
 Sparrow+Castice (UK) - Sparrow & Castice Do Wakefield (2011) World 
-PremiÃ¨re
+Première
 
 On Monday June 13th 2011 Sparrow+Castice went to Wakefield. One week later 
 on Sunday 19th they returned to Birmingham. At some point between these two 
@@ -24,12 +25,12 @@ sparrowandcastice.tumblr.com
 Simona da Pozzo (IT) - Exclave (2010)
 
 Portable Grounds is an intervention about territory, identity and mobility: it acts as 
-a compulsive reflex that pushes to transport, to have objects â€“or parts of them- 
+a compulsive reflex that pushes to transport, to have objects –or parts of them- 
 with the idea to have a physical link with that we love, to despite distances. A 
 attitude to condense sadness in objects that nourish nostalgia.
 www.simonadapozzo.net
 
-Marius Leneweit & RocÃ­o RodrÃ­guez (DE) ...niland 2 (...no land 2) (2011)
+Marius Leneweit & Rocío Rodríguez (DE) ...niland 2 (...no land 2) (2011)
 
 ...niland (no land) is a visionary work about the adaptation and transformation of 
 humankind to a life beneath the water surface. The work is based on themes of 
@@ -40,14 +41,14 @@ ambivalence of the symbiosis human-environment and examines the stringent
 concurrence of climate change and cultural change.
 www.gruppefisch.com
 
-Patrick Moser (US) - Patty Goes (2011) UK PremiÃ¨re!
+Patrick Moser (US) - Patty Goes (2011) UK Première!
 
 An animated homage to the Patterson footage that inspired me as a child.
 www.patrickmoserpaintings.com
 
 Fin McMorran (UK) - Women and Sheds (2010-11)
 
-9 women tell their stories, about their sheds â€“ private space, workshops, refuges 
+9 women tell their stories, about their sheds – private space, workshops, refuges 
 and occasional disaster areas. A representative of the local shed community 
 replies, detailing some of her hopes and aspirations and revealing some truths 
 about the complex nature of sheds.
@@ -74,7 +75,7 @@ Alice Bradshaw (UK) - Rubbish (2011)
 A montage from the Museum of Contemporary Rubbish.
 museumofcontemporaryrubbish.blogspot.com
 
-RÃ©mi Mazet (FR) - Siggil (2010)
+Rémi Mazet (FR) - Siggil (2010)
 
 Dakar is a popular district. An old man, Lamine, is getting ready to go to an 
 important meeting. At the other side of the city, in a sumptuous villa, someone is 
@@ -82,7 +83,7 @@ waiting for him anxiously.
 www.sacrebleuprod.com
 
 Marzia Moretti (IT) - Azione Sovversiva Minima 6 (Minimal Subversive Action 6) 
-(2010) World PremiÃ¨re
+(2010) World Première
 
 Intake, compression, power, exhaust.
 

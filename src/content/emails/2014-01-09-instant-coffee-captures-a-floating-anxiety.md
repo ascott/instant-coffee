@@ -49,12 +49,12 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 The Spaces Between: Contemporary Art from Havana
 
-January 10â€“April 13, 2014
+January 10–April 13, 2014
 
 Opening reception: 
 Thursday, January 9, 8-10 pm 
 
-Curatorsâ€™ Tour with Tonel and Keith Wallace: 
+Curators’ Tour with Tonel and Keith Wallace: 
 Saturday, January 11, 2 pm
 
 All welcome. Admission is free.
@@ -66,15 +66,15 @@ social spaces and shared sensibilities of artists in this dynamic but
 complex city. It explores contemporary Havana from artistic, cultural, 
 sociological and anthropological perspectives within a new social and 
 economic reality that has made itself evident in Cuba in recent years.
-The Spaces Betweenâ€”that is, the spaces between the artwork and its 
+The Spaces Between—that is, the spaces between the artwork and its 
 reception, between language and truth, and between the actual past 
-and imagined futureâ€”will feature drawings, paintings, prints, 
+and imagined future—will feature drawings, paintings, prints, 
 photographs and videos. There will be approximately seventy works by 
 fourteen artists to include Juan Carlos Alom, Javier Castro, Sandra 
-Ceballos Obaya, Celia - Yunior, Ricardo G. ElÃ­as, Luis GÃ¡rciga Romay, 
-Luis GÃ³mez Armenteros, JesÃºs Hdez-GÃ¼ero, Ernesto Leal, Glenda 
-LeÃ³n, Eduardo PonjuÃ¡n GonzÃ¡lez, Grethell RasÃºa, LÃ¡zaro Saavedra 
-GonzÃ¡lez and Jorge Wellesley
+Ceballos Obaya, Celia - Yunior, Ricardo G. Elías, Luis Gárciga Romay, 
+Luis Gómez Armenteros, Jesús Hdez-Güero, Ernesto Leal, Glenda 
+León, Eduardo Ponjuán González, Grethell Rasúa, Lázaro Saavedra 
+González and Jorge Wellesley
 The artists in the exhibition are cross-generational; some have 
 international reputations while others are younger and not so well 
 known abroad. Some of the artists are teachers of other artists in the 
@@ -87,17 +87,17 @@ citizens, tends towards an introverted and a self-conscious sense of
 identity within a global context. The artists in The Spaces Between are 
 exploring ways of articulating this phenomenon both through direct 
 social engagement and through practices carried out in the privacy of 
-oneâ€™s studio.
+one’s studio.
 The Spaces Between is the first major exhibition in Vancouver of art 
 from Cuba since Utopian Territories that took place in seven galleries 
 in 1997. The exhibition will be accompanied by a fully illustrated 
 catalogue published by Black Dog Publishing in London, UK.
 The Spaces Between is curated by Antonio Eligio (Tonel) and Keith 
 Wallace and co-produced by the Morris and Helen Belkin Art Gallery, 
-University of British Columbia, and Bildmuseet, UmeÃ¥ University, with 
+University of British Columbia, and Bildmuseet, Umeå University, with 
 support from The Canada Council for the Arts. We gratefully 
 acknowledge the support of our Belkin Curator's Forum members.
-â€”
+—
 For more information contact: 
 Jana Tyner, tel: 604-822-1389, jana.tyner@ubc.ca
 
@@ -126,23 +126,23 @@ exploring contemporary social dance, featuring videos and serial
 photographs by Vancouver-based Evann Siebens and paintings by 
 Toronto-based Mark Dudiak.
 
-Evann Siebensâ€™ video work Chromatic Revelry connects the ordered, 
-harmonic fugue and prelude compositions within J.S. Bachâ€™s Well-
+Evann Siebens’ video work Chromatic Revelry connects the ordered, 
+harmonic fugue and prelude compositions within J.S. Bach’s Well-
 Tempered Clavier with the chaos of rave culture. With each of the 10 
 short films shot on Super 8 film in clubs and at raves in the 1990s, the 
 piece suggests a timelessness to parties, celebration and dance. The 
 visual chaos is married to the musical chromatic scale, and stitches it 
-to the artistâ€™s classical dance training and aesthetic. The film is a 
-synthesis of Siebensâ€™ experimental dancefilm work and traditional 
+to the artist’s classical dance training and aesthetic. The film is a 
+synthesis of Siebens’ experimental dancefilm work and traditional 
 documentary filmmaking and reflects her ongoing investigation into 
 media and dance. It is trans-historical, lost in time, and comments on 
 the nature of revelry, celebration and the human form rather than a 
 particular moment in history.
 
-Mark Dudiakâ€™s Laser Paintings are an ongoing series of air-brushed 
-paintings evocative of 1990â€™s electronic music album covers or 
+Mark Dudiak’s Laser Paintings are an ongoing series of air-brushed 
+paintings evocative of 1990’s electronic music album covers or 
 discotheque murals. Each Laser Painting is created systematically 
-using a semi-mechanical airbrushing technique of the artistâ€™s own 
+using a semi-mechanical airbrushing technique of the artist’s own 
 design, according to a set of predetermined formal parameters; 
 uniform dimensions, a fixed palette based upon the chroma in the 
 visible light spectrum, and a strict figure / ground relationship. They 
@@ -178,37 +178,37 @@ at Toronto's Nuit Blanche. www.markdudiak.com
 ------------------------------------------------------------------------
 Vexations
 Yannick Desranleau & Chloe Lum (Seripop)
-January 11 â€“ March 8, 2014
+January 11 – March 8, 2014
 
 Opening Reception: Friday January 10, 2014, 8pm
 In Conversation: Seripop with Kimberly Phillips: Saturday January 11, 
 2014, 2pm
 
 In Vexations, Yannick Desranleau and Chloe Lum consider the space 
-and surfaces of the gallery as a receptacle for a visual response â€“ a 
+and surfaces of the gallery as a receptacle for a visual response – a 
 vessel that will be both present and formless in the support of a 
 resulting â€œsentenceâ€  that will be uttered. Through the manipulation of 
-coloured paper against other materials, Desranleau and Lumâ€™s 
+coloured paper against other materials, Desranleau and Lum’s 
 sculptures react to both plans and void, to create tension between 
 volume and flatness, mass and fragility, material stress and failure, and 
 inertia.
 As Seripop, Desranleau and Lum create immersive installations and 
 freestanding works that articulate themselves with the physical space 
 they inhabit. In these works they associate a number of objects 
-through various strategies and mise-en-scÃ¨nes, privileging a sustained 
+through various strategies and mise-en-scènes, privileging a sustained 
 state of instability portrayed through entropic systems. These systems, 
 revealed through active decay, accumulation, ephemerality or other 
 stresses, give agency to the objects and their architectural frame; as 
 they react in function of the performing nature of the settling matter, 
 their interaction with these elements thus becomes a collaborative one. 
 
-Yannick Desranleau and Chloe Lum live and work in MontrÃ©al. In their 
+Yannick Desranleau and Chloe Lum live and work in Montréal. In their 
 installations, sculptures, prints and other interventions, they explore 
 how material entropy affects the readings of a given work, through the 
 implementation of strategies displaying diverse forms of mechanical 
 contingency. They have exhibited in Canada and abroad, notably at 
 YYZ artists' outlet (Toronto, 2013), The Blackwood Gallery (University 
-of Toronto, 2012), MusÃ©e d'Art Contemporain de MontrÃ©al (QuÃ©bec 
+of Toronto, 2012), Musée d'Art Contemporain de Montréal (Québec 
 Triennial 2011), Kunsthalle Wien (Vienna, Austria, 2010), BALTIC 
 Centre for Contemporary Art (Gateshead, England, 2009), and 
 Whitechapel Project Space (London, England, 2007). Their 
@@ -240,19 +240,19 @@ This exhibition features emerging photographers Andrew Jenkins,
 Avalon Mott, Bahar Habibi, David Peters, Jeff Downer, Shannon 
 McCubbin, and Tess Sereda.
 
-Gallery 295 presents itâ€™s first annual emerging curators exhibition. 
+Gallery 295 presents it’s first annual emerging curators exhibition. 
 Avalon Mott has been selected to curate an exhibition of emerging 
 artists. Mott is a recent graduate from Emily Carr University of Art and 
 Design. Recent curated exhibitions include: City of Richmond Public Art 
-Commission, You Came Here By Chance â€“ 221A, Capture 
-Photography Festival â€“ Olympic Village Canada Line Skytrain.
+Commission, You Came Here By Chance – 221A, Capture 
+Photography Festival – Olympic Village Canada Line Skytrain.
 
 Conceived around the binary notions of transience and permanence, 
 Locate aims to explore ideas of place. Through physical or social 
 spaces, one aims to find a setting that they can inhabit and define. This 
 action of locating oneself becomes increasingly difficult during periods 
 of transition and instability. Locate brings to light this desire to find 
-oneâ€™s place, and provides the viewer a space to contemplate their own 
+one’s place, and provides the viewer a space to contemplate their own 
 act of location.
 
 Best,
@@ -267,9 +267,9 @@ The Kamloops Art Gallery is seeking a highly-motivated person for the
 position of Education & Public Programs Coordinator.
 The principal goal of the position is to achieve a standard of excellence 
 in overall program development including public programs, studio 
-programs, school programs and community-based projects â€“ initiatives 
+programs, school programs and community-based projects – initiatives 
 that build understanding of art and its practices, by engaging visitors of 
-all ages and experience levels, with the goal of growing KAGâ€™s 
+all ages and experience levels, with the goal of growing KAG’s 
 audience participation. The successful candidate possesses a degree 
 in art education or a related field with a strong understanding of current 
 art museum/gallery educational practices, theory and trends; 
@@ -283,7 +283,7 @@ Application deadline: noon Friday, January 10, 2014
 Please email, mail or deliver applications to:
 Margaret Chrumka, Manager of Operations
 Kamloops Art Gallery
-101 â€“ 465 Victoria Street
+101 – 465 Victoria Street
 Kamloops, BC V2C 2A9
 mchrumka@kag.bc.ca
 Please do not fax your applications.
@@ -297,12 +297,12 @@ pursue other opportunities this January, sadly it meant she will also be
 taking her partner, who happens to be our skookum on-call installation 
 labourer. This position will also be posted officially soon, but please let 
 me know if you or anyone you know in the Kamloops area may be 
-interested or eligible for this positionâ€¦or if you know a brilliant 
+interested or eligible for this position…or if you know a brilliant 
 Education & Public Program Coordinator who comes with a gallery 
 preparatory partner!
 
 KAMLOOPS ART GALLERY
-101 â€“ 465 Victoria Street
+101 – 465 Victoria Street
 Kamloops BC V2C 2A9
 250-377-2400
 www.kag.bc.ca
@@ -318,8 +318,8 @@ Curated by Wil Aballe
 Opening reception: Friday, January 10th, 7 - 9pm
 Exhibition: January 10th - February 1st, 2014
 
-Since the early 00â€™s, under the moniker Office Supplies Incorporated, 
-Joseph Staplesâ€™ practice has been based in work made for the street. 
+Since the early 00’s, under the moniker Office Supplies Incorporated, 
+Joseph Staples’ practice has been based in work made for the street. 
 He began extensive experiments with collages, working with black and 
 white photocopies and screen prints he put up on walls around the city. 
 As Staples worked with the technique, he began to develop a theory of 
@@ -327,7 +327,7 @@ the collage, encapsulated by a tight set of parameters. The most
 persistent and key idea was simply to use a single image to build 
 many.
 
-In this new body of work, Staplesâ€™ focus has changed to where the 
+In this new body of work, Staples’ focus has changed to where the 
 image has become less important than the line made by cutting. With 
 the image gone, the trace remains of process are what have become 
 significant. The space between two images collaged together is only as 
@@ -346,8 +346,8 @@ sections remaining becomes a limited but flexible lexicon of form to
 allow for experimental compositions. In the way the Dadists in the 20's 
 and Burroughs in the 60's wanted to break up language's structure in 
 new ways to attempt to disrupt cohesion to allow for fresh thinking 
-about poetry, Staplesâ€™ attempt is to free himself and the viewer from 
-the way his and other artistsâ€™ collage look at juxtaposition and contrast. 
+about poetry, Staples’ attempt is to free himself and the viewer from 
+the way his and other artists’ collage look at juxtaposition and contrast. 
 The large format collages presented will expand on the syntax Staples 
 has created over the last decade.
 
@@ -386,7 +386,7 @@ Vancouver Museum and the Nikkei National Museum. This is a rare
 opportunity to see unusual works by internationally renowned artists, 
 such as Kuniyoshi, Yoshifuji and Hiroshige, among many others. 
 Curated by ukiyo-e scholar Inagaki Shinichi and West Vancouver 
-Museumâ€™s Kiriko Watanabe, Ukiyoe Spectacular reveals compelling 
+Museum’s Kiriko Watanabe, Ukiyoe Spectacular reveals compelling 
 images of the supernatural and epic myths, as well as portraits of 
 courageous samurai and historical events. 
 
@@ -446,7 +446,7 @@ that references a specific lineage of art history and absurdist theatre to
 do with rituals and materials of healing, conflating the forms of 
 sculpture, painting and performance against the body. Through 
 juxtapositions of genre and material, Baldock encourages the 
-exhibitionâ€™s ongoing metamorphosis. Hot Spots presents felt, ceramic, 
+exhibition’s ongoing metamorphosis. Hot Spots presents felt, ceramic, 
 sand, and scent through methodologies of painting: the unique 
 alchemy of the artist amongst the transcendental "I". 
 
@@ -499,7 +499,7 @@ subsequent rearrangement) the objects in Rezoning surrender to
 relationships, sympathetic narratives of support and collapse. The 
 common frontal, albeit three-dimensional, relationship with sculpture 
 and the immersive experience of installations are two common modes 
-that speak to different aspects of an individualâ€™s experience. In 
+that speak to different aspects of an individual’s experience. In 
 Rezoning, Brown initiates an additional relationship of being beside, 
 near and with; drawing attention to our social relationships in the built 
 landscape. In this way Rezoning is an active investigation of 
@@ -509,7 +509,7 @@ provide Brown and her dialogue partners with the impetus to stand
 beside each other and the work, realizing their active/passive position 
 within this landscape of things.
 
-Colleen Brownâ€™s work has most recently been included in David 
+Colleen Brown’s work has most recently been included in David 
 Horwitz:Carry-on at Gallery West in The Hague andBlack Hole is Also 
 Supernova at the Richmond Art Gallery. Brown began her education 
 with a B.A. Psych from Simon Fraser University, focusing on 
@@ -538,7 +538,7 @@ Screenings: 14.02.14 8pm
 ------------------------------------------------------------------------
 PERSPECTIVES ON CHARLES EDENSHAW
 
-Saturday, January 11, 2pm | Curatorâ€™s Tour: Robin K. Wright
+Saturday, January 11, 2pm | Curator’s Tour: Robin K. Wright
 
 Saturday, January 18, 2pm | Perspectives Tour: Kwiaahwah Jones
 
@@ -550,7 +550,7 @@ Installation view of Charles Edenshaw, presented at the Vancouver Art
 Gallery from October 26, 2013 to February 2, 2014
 Photo: Rachel Topham, Vancouver Art Gallery
 
-Curatorâ€™s Tour: Robin K. Wright
+Curator’s Tour: Robin K. Wright
 Charles Edenshaw
 Saturday January 11, 2pm
 In the Gallery, 1st Floor
@@ -567,8 +567,8 @@ Saturday, January 18, 2pm
 In the Gallery, 1st Floor
 
 Kwiaahwah Jones presents a tour of the Charles Edenshaw exhibition 
-that emphasizes oral histories and Edenshawâ€™s social rank amongst 
-the Haida. Jones is co-curator of the Bill Reid Galleryâ€™s current 
+that emphasizes oral histories and Edenshaw’s social rank amongst 
+the Haida. Jones is co-curator of the Bill Reid Gallery’s current 
 exhibition, RezErect: Native Erotica, which provides a provocative 
 exploration into the sensuality and sexuality of works by twenty-seven 
 First Nations artists from the Northwest Coast and central Canada.
@@ -580,7 +580,7 @@ In the Gallery, 1st Floor
 
 Vancouver-based artist Corey Bulpitt presents a special tour of the 
 Charles Edenshaw exhibition, during which he will discus his 
-interpretations of Edenshawâ€™s works. Bulpitt, a great-great grandson of 
+interpretations of Edenshaw’s works. Bulpitt, a great-great grandson of 
 Edenshaw and Louis Collison, is an avid painter, jeweller, and wood 
 and argillite carver known for his playful explorations in a range of 
 mediums, from the carving of totem poles to large-scale paintings 
@@ -617,8 +617,8 @@ www.vanartgallery.bc.ca
 ------------------------------------------------------------------------
 
 Title: Kinetica
-Exhibition Runs: January 15 â€“ February 1, 2014
-Opening Reception: Wednesday, January 15 2014, 5 â€“ 7pm
+Exhibition Runs: January 15 – February 1, 2014
+Opening Reception: Wednesday, January 15 2014, 5 – 7pm
 
 Green. Red. Go. Stop. Fast. Slow. Forwards. Backwards. We concern 
 ourselves on a daily basis with ways of depicting and capturing 
@@ -637,7 +637,7 @@ change, gesture, and the kinetics of art.
 Artists in the exhibition: Paul Bucci, Emma Choo, Alex Cu Unjieng, 
 Adrian Diaz, Olivia Dreisinger, Diana Hart, Micaela Kwiatkowski, Soda 
 Leavey, Sharon Lin, Nicholas Loewen, David Longpre, Christian Lovell, 
-Katharine Meng-Yuan Yi, Patrick Oâ€™Neill, Robert Psutka, Xiao Qin 
+Katharine Meng-Yuan Yi, Patrick O’Neill, Robert Psutka, Xiao Qin 
 Yang, Emma Windsor-Liscombe, Chadman Wong, Ivan Yastrebov, 
 and Jonathan Tippett as guest artist.
 
@@ -650,7 +650,7 @@ of British Columbia (UBC).
 
 Gallery Address: AHVA Gallery - rm. 1001, Audain Art Centre, 6398 
 University Blvd.
-Gallery Hours: Wednesday â€“ Saturday, 12 â€“ 4pm.
+Gallery Hours: Wednesday – Saturday, 12 – 4pm.
 Phone: 604 822 4563
 Web: www.gallery.ahva.ubc.ca
 
@@ -690,8 +690,8 @@ and staff and oversee their implementation and control
 with shop manager
 
 - Manage day-to-day financial details in collaboration with staff 
-including scheduling and execution of payments of artistsÂ´ and 
-publishersÂ´ fees from inventory and projects
+including scheduling and execution of payments of artists´ and 
+publishers´ fees from inventory and projects
 
 - Assist in the development and control of project budgets for 
 programming, publishing, and travel
@@ -736,17 +736,17 @@ Althea Thauberger: Marat Sade Bohnice
 
 January 16 - March 8, 2014
 
-Althea Thaubergerâ€™s Marat Sade Bohnice is a video installation that 
-centres on the staging of Peter Weissâ€™ 1963 play Marat/Sade at the 
+Althea Thauberger’s Marat Sade Bohnice is a video installation that 
+centres on the staging of Peter Weiss’ 1963 play Marat/Sade at the 
 Bohnice Psychiatric Hospital in Prague. Her work documents the 
 reconfiguration and presentation of the play in this location to 
-audiences of the institutionâ€™s patients and staff, and in doing so 
+audiences of the institution’s patients and staff, and in doing so 
 approaches layered issues of reassessment and (de)institutionalization 
 within shifting political terrains.
 
 The original 1963 play imagines that the Marquis de Sade wrote and 
 directed a play about the assassination of Jean-Paul Marat while the 
-former was interned in Franceâ€™s Charenton asylum in 1808, nineteen 
+former was interned in France’s Charenton asylum in 1808, nineteen 
 years after the beginning of the French Revolution and immense 
 institutional reform. It was the beginning of reformed mental illness 
 treatment - from punishment to therapy - and in the 1963 play, the 
@@ -755,12 +755,12 @@ historical characters. The play reveals an ongoing debate about
 whether the imperatives of revolution originate within the individual or 
 within society as a whole.
 
-While the original play is set in Charentonâ€™s bathhouse, Thaubergerâ€™s 
+While the original play is set in Charenton’s bathhouse, Thauberger’s 
 production took place in the decommissioned waterworks and laundry 
 facilities of Bohnice, another post-revolutionary institution and the 
 largest psychiatric clinic in the Czech Republic. Her video 
 documentation of the play is punctuated by interviews with staff and 
-patients of the institution that function to disrupt the playâ€™s narrative 
+patients of the institution that function to disrupt the play’s narrative 
 and specifically situate it. Like Charenton, Bohnice is an institution 
 through which broader structural, ideological and economic societal 
 shifts can be read: it privatized its core services shortly after the Velvet 
@@ -769,21 +769,21 @@ Thauberger produced the play in collaboration with Akanda, an
 experimental theatre company in Prague.
 
 Marat Sade Bohnice approaches philosophical and art histories, 
-questions artâ€™s agency and its role within therapy, as well as troubles 
+questions art’s agency and its role within therapy, as well as troubles 
 the systems of human (un)freedom. Shown in Vancouver for the first 
 time, the work can be read beside the conditions of deinstutionalization 
-in the city. Consistent with Thaubergerâ€™s practice, in which she often 
+in the city. Consistent with Thauberger’s practice, in which she often 
 works with seemingly marginal groups through which larger societal 
 structures may be examined (such as a Kashmiri theatre group, new 
 mothers in Copenhagen, San Diego military wives, Canadian tree 
 planters, Canadian women in uniform deployed in Afghanistan, male 
 youth in the German civil service, minority-language poets in Italy and 
-resident artists of Vancouverâ€™s Downtown Eastside), the project Marat 
+resident artists of Vancouver’s Downtown Eastside), the project Marat 
 Sade Bohnice creates a space of expression and self-presentation for 
 her collaborators, and reveals social and political issues without 
 assuming an entrenched critical position.
 
-Thaubergerâ€™s work has been shown widely including at The Power 
+Thauberger’s work has been shown widely including at The Power 
 Plant, Toronto; the 7th Liverpool Biennial; The 17th Sydney Biennial; 
 The 3rd Gaungzhou Triennial; Manifesta 7, Trento, Italy; National 
 Gallery of Canada, Ottawa; Andy Warhol Museum, Pittsburgh; Belkin 
@@ -791,7 +791,7 @@ Art Gallery, Vancouver; Vancouver Art Gallery; BAK, Utrecht;
 Kunstverein Wolfsburg; Art Gallery of Nova Scotia, Halifax; Singapore 
 History Museum; Museum van Hedendaagse Kunst, Antwerp; Berkeley 
 Art Museum; Insite, San Diego/Tijuana; White Columns, New York; 
-Presentation House Gallery, North Vancouver; KÃ¼nstlerhaus 
+Presentation House Gallery, North Vancouver; Künstlerhaus 
 Bethanien, Berlin; Artspeak, Vancouver; and Seattle Art Museum. She 
 recently presented at the 2013 Creative Time Summit in New York. 
 She studied at Concordia University (BFA) and University of Victoria 
@@ -817,21 +817,21 @@ describe a background level of learned social behaviour about the
 â€œproperâ€  use of the body. By slipping between time periods, institutional 
 frameworks and social contexts, Marat Sade Bohnice excavates the 
 accumulation of these implicit techniques. Addressing those themes, 
-Helen Reed will discuss multiplicity and mimesis in Thaubergerâ€™s work. 
+Helen Reed will discuss multiplicity and mimesis in Thauberger’s work. 
 An ongoing series of talks, No Looking After the Internet prompts the 
 close reading of images and objects, and encourages visual literacy 
 through sustained private and public attention in the gallery.
 
-Exhibition Tour: Melanie Oâ€™Brian
+Exhibition Tour: Melanie O’Brian
 Saturday, February 22, 1pm
 Audain Gallery
 
 Join us for a tour of the exhibition led by Curator and SFU Galleries 
-Director, Melanie Oâ€™Brian. Afterward, walk with us to the Satellite 
-Gallery for a 2pm tour of works from the collection of Michael Oâ€™Brian, 
+Director, Melanie O’Brian. Afterward, walk with us to the Satellite 
+Gallery for a 2pm tour of works from the collection of Michael O’Brian, 
 led by curators Cate Rimmer, Keith Wallace, Karen Duffek and Helga 
 Pakasaar. Then continue to Contemporary Art Gallery for a 3pm tour 
-of projects by AurÃ©lien Froment and Tim Etchells, led by CAG Director 
+of projects by Aurélien Froment and Tim Etchells, led by CAG Director 
 Nigel Prince. 
 
 Panel Discussion: The Madness of History: Situating Marat Sade 
@@ -839,10 +839,10 @@ Bohnice in Time and Space
 Wednesday, March 5, 6pm
 Audain Gallery
 
-Please join us for a panel discussion about Thaubergerâ€™s production of 
+Please join us for a panel discussion about Thauberger’s production of 
 Marat Sade Bohnice, presented in collaboration with the SFU Institute 
 for the Humanities. Considering the exhibition of Marat Sade Bohnice 
-in the context of Vancouver, the panel will address Peter Weissâ€™ life 
+in the context of Vancouver, the panel will address Peter Weiss’ life 
 and practice; the Foucauldian themes of madness and the carceral; 
 the histories of de-institutionalization and mental health reform in 
 British Columbia; and the critical value of cultural intervention and 
@@ -978,11 +978,11 @@ www.positivenegativegallery.com
 BARDO presents a new series of paintings by Mel King and Steffen 
 Quong which explores the liminal spaces that exist between edges, 
 horizons and thresholds. The veil of darkness becomes the substrate for 
-the composition to grow out of, collapsing and challenging each artistâ€™s 
+the composition to grow out of, collapsing and challenging each artist’s 
 expectations of composition, process and finality.
 
 The show opens on Thursday, January 16, and runs until February 1. 
-The gallery is open Thursdayâ€“Saturday 1â€“4 PM.
+The gallery is open Thursday–Saturday 1–4 PM.
 
 
 ------------------------------------------------------------------------
@@ -998,7 +998,7 @@ Gallery Hours: Tuesday-Saturday 12-5pm
 Western Front is pleased to present Escape Scenes, a solo exhibition 
 by Vancouver based artist Julia Feyrer. In a new body of work 
 including 16mm film and cyanotype photograms, the artist explores 
-mediated perception as an imprecise form of measurement. Feyrerâ€™s 
+mediated perception as an imprecise form of measurement. Feyrer’s 
 works inhabit the space between static and moving images, where 
 makeshift narratives reveal the fantasy logic of their own construction. 
 The exhibition will also include a new artist book by Feyrer, published 
@@ -1006,14 +1006,14 @@ by Perro Verlag.
 
 Biography
 
-Julia Feyrer (b. 1982 Victoria, BC) currently lives and works in VanÂ­couÂ­
-ver. She received her MeisÂ­terÂ­schÃ¼Â­lerin from the StÃ¤delschule in FrankÂ­
-furt, GerÂ­many in 2010, and her Bachelor of Fine Arts from the Emily 
-Carr InstiÂ­tute of Art and Design in VanÂ­couÂ­ver in 2004. Recent solo and 
+Julia Feyrer (b. 1982 Victoria, BC) currently lives and works in Van­cou­
+ver. She received her Meis­ter­schü­lerin from the Städelschule in Frank­
+furt, Ger­many in 2010, and her Bachelor of Fine Arts from the Emily 
+Carr Insti­tute of Art and Design in Van­cou­ver in 2004. Recent solo and 
 two-person exhibitions include Bottles Under The Influence (with 
 Tamara Henderson) at the Walter Phillips Gallery, Banff (2013); 
 Alternatives and Opportunities at Catriona Jeffries, Vancouver (2012); 
-Irregular Time Signatures at Johan Berggren Gallery, MalmÃ¶ (2011); 
+Irregular Time Signatures at Johan Berggren Gallery, Malmö (2011); 
 and The Poodle Dog Ornamental Bar at Artspeak, Vancouver (2010).
 
 Western Front
@@ -1067,7 +1067,7 @@ Join us at Satellite Gallery as artist Marina Roy will consider the current
 exhibition Moyra Davey: Ornament and Reproach through the lens of 
 the quotidian, the accidental, and the literary. In particular, she will look 
 at the constellation of domestic objects, books, old photographs, 
-money, and dust of the apartment interior in Daveyâ€™s work, as well as 
+money, and dust of the apartment interior in Davey’s work, as well as 
 her perambulatory engagement with the street, subway, and cemetery.
 
 Marina Roy is a Vancouver-based artist working across a variety of 
@@ -1098,8 +1098,8 @@ and video works. For her 2001 exhibition at goodwater in Toronto, she
 began producing photographic mailers that carry the physical traces of 
 their journeys through the mail system, a practice that has continued 
 for subsequent exhibitions. She has mailed over 1,000 photographs 
-across the world. A new set of mailers â€“ 27 folded photographs taken 
-in Trinity Church Cemetery in upper Manhattan â€“ will be featured in the 
+across the world. A new set of mailers – 27 folded photographs taken 
+in Trinity Church Cemetery in upper Manhattan – will be featured in the 
 exhibition.
 
 Born in Canada, Moyra Davey studied photography at Concordia 
@@ -1122,22 +1122,22 @@ and organized by Presentation House Gallery.
 <a href="/instant-coffee/listings/2014-01-09-18-sfu-gallery-damian-moppett-the-bells-jan-18">18. SFU Gallery | Damian Moppett: The Bells | JAN 18</a>
 ------------------------------------------------------------------------
 Damian Moppett: The Bells
-SFU Gallery, January 18 â€“ April 19, 2014
+SFU Gallery, January 18 – April 19, 2014
 
 Opening Reception
-January 18, 11:00am â€“ 1:00pm
+January 18, 11:00am – 1:00pm
 Brunch and spiked coffee
 
 SFU Gallery, Academic Quadrangle 3004
 8888 University Drive, Burnaby
 
-Damian Moppettâ€™s conceptual and studio-based practice explores a 
+Damian Moppett’s conceptual and studio-based practice explores a 
 complex relationship between art and cultural history. Utilizing 
-photography, sculpture, drawing, painting and video, Moppettâ€™s self-
+photography, sculpture, drawing, painting and video, Moppett’s self-
 reflexive engagement with his references is visible in the work, 
 highlighting connections between seemingly discrete historical 
-moments. Images of the artist's own studio â€“ as a site of process, 
-experimentation and performance for art making â€“ appear frequently in 
+moments. Images of the artist's own studio – as a site of process, 
+experimentation and performance for art making – appear frequently in 
 Moppett's work of the last several years. His studio images are visually 
 dense and populated with tools, materials, artworks in process, and 
 referents from Peter Paul Rubens, Auguste Rodin and Anthony Caro to 
@@ -1150,7 +1150,7 @@ accompanied by a soundtrack of the artist responding to the images.
 The distance provided by the multiple cameras provokes the 
 consideration of a material practice over time. Referencing Hollis 
 Framptonâ€™s work, specifically the 1971 film â€œ(nostalgia)â€ , which depicts 
-the slow burning of photographs from Framptonâ€™s early artistic 
+the slow burning of photographs from Frampton’s early artistic 
 explorations with a soundtrack of comments, Moppett similarly asks 
 viewers to engage with past and present temporalities within the work.
 
@@ -1165,9 +1165,9 @@ the exhibition presents watercolours, maquettes and studies that relate
 to the process of the work.
 
 Connected to the permutations of the studio is the forthcoming 
-permanent outdoor installation of a sculptural work by Moppett, â€œLarge 
+permanent outdoor installation of a sculptural work by Moppett, “Large 
 Painting and Caryatid Maquette in Studio at Night (Sculpture Version)â€ , 
-2012 on SFUâ€™s Burnaby campus as part of the SFU Art Collection. The 
+2012 on SFU’s Burnaby campus as part of the SFU Art Collection. The 
 sculpture presents the studio as a kind of stage set. The artist 
 transformed a painting of the studio into a three-dimensional space, 
 taking abstracted shapes and reproducing them as large-scale cutouts 
@@ -1176,9 +1176,9 @@ in painted aluminum.
 The exhibition â€œThe Bellsâ€  will be accompanied by a publication. The 
 first in a new SFU Galleries publication series, the publication includes 
 a commissioned parallel text by Lisa Robertson and as well as critical 
-source materials related to the artistâ€™s layered practice.
+source materials related to the artist’s layered practice.
 
-Curated by Melanie Oâ€™Brian
+Curated by Melanie O’Brian
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-01-09-19-western-front-society-job-opp-exhibitions-curator-jan-24">19. Western Front Society | Job Opp: Exhibitions Curator | JAN 24</a>
@@ -1290,7 +1290,7 @@ Sunset Terrace
 
 8-11pm
 
-â€”â€”â€”â€”â€”â€”-
+——————-
 
 We went to the watching place
 for entertainment.
@@ -1324,11 +1324,11 @@ Don't just stand there,
 do not leave your valuables unattended,
 and remember to log in.
 
-â€”â€”â€”â€”â€”â€”-
+——————-
 
 A collaborative enterprise with partners : Adam Shaw & Logan Sturrock
 
-â€”â€”â€”-----------
+———-----------
 
 2028clark.tumblr.com
 
@@ -1340,11 +1340,11 @@ On Edge readings schedule.
 
 All readings are at 7 pm on Thursdays in SB 406 at Emily Carr:
 
-Jan 30 â€“Daniela Elza + Gillian Jerome 
-Feb 27 â€“Adrienne Fitzpatrick + Veena Gokhale 
+Jan 30 –Daniela Elza + Gillian Jerome 
+Feb 27 –Adrienne Fitzpatrick + Veena Gokhale 
 March 6 - Gerry Shikatani 
-Mar 13 â€“ Daniel Heath Justice + Jeremy Tankard 
-Mar 27 â€“ Roger Farr + Rob Budde 
+Mar 13 – Daniel Heath Justice + Jeremy Tankard 
+Mar 27 – Roger Farr + Rob Budde 
 
 Author bios:
 
@@ -1358,7 +1358,7 @@ helps run the Twisted Poets Reading Series, and is on the board of the
 Capilano Review. Daniela will be the 2014 Writer-In-Residence at the 
 University of the Fraser Valley.
 
-Gillian Jeromeâ€™s first book of non-fiction Hope In Shadows, Stories and 
+Gillian Jerome’s first book of non-fiction Hope In Shadows, Stories and 
 Photographs from Vancouver's Downtown Eastside (with Brad Cran) 
 won the 2008 City of Vancouver Book Award and was shortlisted for a 
 BC Book Prize. Her first book of poems, Red Nest (Nightwood), won 
@@ -1379,24 +1379,24 @@ the Central Interior and Northwest Coast of BC.
 Veena Gokhale has published fiction and poetry in literary journals and 
 anthologies, read from her work, and received writing grants since 
 1993. Guernica Editions published her first collection, Bombay Wali 
-and Other Stories, in 2013. Mark Frutkin says of Bombay Wali, â€œâ€¦
+and Other Stories, in 2013. Mark Frutkin says of Bombay Wali, “…
 These are rich stories, well-imagined, deeply felt." Starting her career 
 as a journalist in Bombay, Gokhale first came to Canada on a 
 journalism fellowship in 1990. She eventually immigrated to Canada, 
 completed a Masters, and worked for non-profit organizations. She 
-received a grant from VivacitÃ© MontrÃ©al, Quebec Arts Council, for her 
+received a grant from Vivacité Montréal, Quebec Arts Council, for her 
 first novel whose working title is Simply There To Help. 
 http://www.veenago.com/story
 
 Gerry Shikatani has created work in prose, textsound performance, 
 experimental film collaboration and above all, poetry. His poetry 
 collections include AQUEDUCT: poems and texts from Europe, 1979-
-87 and his latest volume The Portâ€™s Seasonal Rental (2011). His 
+87 and his latest volume The Port’s Seasonal Rental (2011). His 
 current literary work niwa, set in gardens in Japan, is the second part 
 of his two-volume garden poems. Volume 1, First Book, Three 
-Gardens of AndalucÃ­a appeared in 2003. Gerry is the founding director 
-of Lorcaâ€™s Granada: writersâ€™ retreat, workshop and colloquia in 
-Granada, Spain in homage to the legacy of Federico GarcÃ­a Lorca. As 
+Gardens of Andalucía appeared in 2003. Gerry is the founding director 
+of Lorca’s Granada: writers’ retreat, workshop and colloquia in 
+Granada, Spain in homage to the legacy of Federico García Lorca. As 
 an international culinary critic and travel/gastronomy writer, he is a 
 specialist on Spain and recipient of the Cross of the Order of Civil 
 Merit, granted by King Juan Carlos of Spain.
@@ -1415,14 +1415,14 @@ American Literature.
 
 Jeremy Tankard is the award-winning author and illustrator of the best-
 selling picture books: Grumpy Bird, Boo Hoo Bird and Me Hungry and 
-the illustrator of Piggy Bunny by Rachel Vail, and Itâ€™s a Tiger! by David 
+the illustrator of Piggy Bunny by Rachel Vail, and It’s a Tiger! by David 
 LaRochelle. Jeremy was born in Cape Town, South Africa but left at 
 the age of four for a new life in the United States. He eventually landed 
 in Canada where he lived in Calgary, Toronto and now Vancouver.
 
 Roger Farr is the author of Surplus (poetry; Line Books, 2006), IKMQ 
 (prose-poetry; New Star, 2012), and Means (poetry, radio script, 
-prose; Line Books, 2012). He has been described as â€œa poet of great 
+prose; Line Books, 2012). He has been described as “a poet of great 
 heart and aesthetic/political commitment.â€  As a cultural critic, his writing 
 on radical social movements and the avant-garde has appeared in 
 numerous literary and 'movement' periodicals, and has been broadcast 
@@ -1433,7 +1433,7 @@ Rob Budde teaches creative writing at the University of Northern BC in
 Prince George. He has published seven books (poetry, novels, 
 interviews, and short fiction), his latest being Finding Ft. George 
 (Caitlin Press) and declining america (BookThug). His recent interest is 
-experimental activist ecopoetry; he is working on a study of Devilâ€™s 
+experimental activist ecopoetry; he is working on a study of Devil’s 
 Club / Hoolhghulh tentatively titled Panax and an essay on animal-
 human relations called â€œThe Parahuman.â€ 
 
@@ -1458,18 +1458,18 @@ meet in Paris, marry and after many years on the European continent,
 settle on historic Gotland Island, a Swedish outpost approximately 
 equidistant between the Swedish mainland and the Baltic state of 
 Latvia. With the untimely death of William in 1906 and that of
-Caroline in 1935, the estate, in the early 70â€™s, created the Brucebo 
+Caroline in 1935, the estate, in the early 70’s, created the Brucebo 
 Fine Art (Scholarship) Foundation, an organization promoting island-
 based cultural history and fine art. To commemorate the unique 
-Swedish- Canadian link of Carolineâ€™s and Williamâ€™s marriage and 
+Swedish- Canadian link of Caroline’s and William’s marriage and 
 impressive artistry, two annual fine art scholarships for
 younger, professional Canadian artists were established : The Brucebo 
 Fine Art Summer Residency Scholarship and The William Blair Bruce 
 European Fine Art Travel Scholarship.
 
 The Brucebo Fine Art Summer Residency Scholarship funds a three 
-month working residency â€“ starting
-June 1, 2014 â€“ at the Brucebo studio cottage in the SjÃ¤lsÃ¶ fishing 
+month working residency – starting
+June 1, 2014 – at the Brucebo studio cottage in the Själsö fishing 
 village, 7 km north of of Visby in Gotland,
 Sweden. The scholarship covers travel expenses Canada - Gotland 
 (return), the use of the studio cottage, a
@@ -1479,7 +1479,7 @@ The William Blair Bruce Travel Scholarship finances a European
 research sejour, to be undertaken within the
 next year. The tour is based on an approved Fine Art-related 
 investigative project. Total value: SEK 30.000. As a
-final part of the â€˜Bruce Travelâ€™ the recipient must visit Visby via 
+final part of the ‘Bruce Travel’ the recipient must visit Visby via 
 Stockholm. While in Visby, she/he will give a
 public lecture sponsored by the Foundation on the investigative theme 
 pursued during her/his recent European
@@ -1492,8 +1492,8 @@ form here: http://bruceboscholarships.com/index.php/application
 For more info on the BFAS Scholarships, Gotland, the studio cottage 
 and the Caroline Benedicks - William Blair
 Bruce story, visit the BFAS website at : www.bruceboscholarships.com
-The scholarships are administered by Concordia Universityâ€™s Faculty of 
-Fine Arts, Associate Deanâ€™s Office,
+The scholarships are administered by Concordia University’s Faculty of 
+Fine Arts, Associate Dean’s Office,
 Montreal and the Chair of the Brucebo Fine Art Evaluation Committee: 
 Jessica Auer. For more information on
 the scholarships or your application, email: 
@@ -1508,14 +1508,14 @@ tel: 450 672-6096.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-01-09-23-festival-of-central-and-eastern-european-film-call-jan-31">23. Festival of Central and Eastern European Film | Call | JAN 31</a>
 ------------------------------------------------------------------------
-goEast â€“ Festival of Central and Eastern European Film	
+goEast – Festival of Central and Eastern European Film	
 
-9â€“15 April 2014 
+9–15 April 2014 
 
 Deadline for entries: 31 January 2014
 
 Festival Office
-FriedrichstraÃŸe 32
+Friedrichstraße 32
 65185 Wiesbaden
 Germany
 
@@ -1535,9 +1535,9 @@ dialogue, is dominated by questions of (multiple) European identities
 and processes of rapid social and political transformation. The 
 programme expresses a cultural mission: to provide a public platform 
 for remarkable, unusual and engaged films unlikely to find distribution 
-on the commercial cinema circuit. Festival visitorsâ€”filmmakers and 
+on the commercial cinema circuit. Festival visitors—filmmakers and 
 industry specialists from Germany and abroad, local film enthusiasts 
-and international guestsâ€”are enthusiastic about the quality and 
+and international guests—are enthusiastic about the quality and 
 special atmosphere of a festival that facilitates the exchange of skills 
 and knowledge. goEast is dedicated to the cinematic experience, to 
 new developments and topical themes, to the artistic heritage of 
@@ -1549,9 +1549,9 @@ encourage the work of young and emerging artists of up to 35 years of
 age, working in or between the fields of experimental film and video 
 art. We ask all filmmakers, artists, producers, gallery owners and 
 universities to submit their most current works and projects to the 
-goEast â€“ Experimental Film and Video Art Competition. Up to 15 works 
+goEast – Experimental Film and Video Art Competition. Up to 15 works 
 will be nominated to contend for the Open Frame Award, endowed with 
-5,000 euros. The selected works will screen at Caligari FilmBÃ¼hne or in 
+5,000 euros. The selected works will screen at Caligari FilmBühne or in 
 the exhibition space of Nassauischer Kunstverein, depending on the 
 prefered environment. A second screening venue will be Deutsches 
 Filmmuseum, Frankfurt. All participating directors and artists will be 
@@ -1600,8 +1600,8 @@ Call for Artists: 2014 Chilkoot Trail Artist Residency Program
 The deadline is fast approaching: February 1st, 2014; apply now!
 
 Together Yukon Arts Centre, Parks Canada and the US National Park 
-Service are seeking three visual artists â€“ one from Canada, one from 
-the United States and one regional (Yukon or Alaska) â€“ to participate in 
+Service are seeking three visual artists – one from Canada, one from 
+the United States and one regional (Yukon or Alaska) – to participate in 
 a cross-border creative journey. The Chilkoot Trail Artist Residency 
 Program invites artists to hike the famous Chilkoot Trail, passing 
 through Klondike Gold Rush National Historic Park (Alaska) and 
@@ -1616,7 +1616,7 @@ and early August) hiking the historic trail once traversed by Tlingit First
 Nation traders and Klondike Gold Rush Stampeders, spending one to 
 three days at each campsite
 selected artists are expected to interact with hikers, make art and 
-engage with siteâ€™s natural and historic heritage
+engage with site’s natural and historic heritage
 each artist must provide and carry all of their backpacking gear, food 
 and art supplies for the journey; artists should be accompanied by a 
 friend or family member as support during their trek
@@ -1643,22 +1643,22 @@ TBG+S seeks new Director
 09 January 2014
 Director of Temple Bar Gallery + Studios (TBG+S)
 About Temple Bar Gallery + Studios 
-Temple Bar Gallery + Studios (TBG+S) is a gallery and artistsâ€™ studios 
+Temple Bar Gallery + Studios (TBG+S) is a gallery and artists’ studios 
 complex located in the heart of Dublin city and the Temple Bar cultural 
-quarter. It is one of Irelandâ€™s foremost centres for contemporary visual 
+quarter. It is one of Ireland’s foremost centres for contemporary visual 
 art and has its roots in the independent art scene in Dublin in the 
-1980â€™s, as one of the earliest and most ambitious artistsâ€™ collectives.
+1980’s, as one of the earliest and most ambitious artists’ collectives.
 
 Today, TBG+S works to support professional visual artists and to 
 connect people with the engaging dynamic of art. It provides affordable 
 studio space to over 40 artists annually and a vibrant programme of 
 public exhibitions and events to engage loyal and new audiences. As 
-one of Irelandâ€™s foremost centres for production and exhibition of 
+one of Ireland’s foremost centres for production and exhibition of 
 contemporary art, TBG+S has crystallised its strategic objectives 
 around three core activities.
 
 Mission
-CREATE the TBG+S building is home to 30 artistsâ€™ studios that provide 
+CREATE the TBG+S building is home to 30 artists’ studios that provide 
 artists with a warm and spacious working environment and enable 
 artists to be located within a creative community in the city. 
 
@@ -1674,10 +1674,10 @@ Education strand
 
 Role of Director
 In 2013, TBG+S celebrated its 30th anniversary year, giving it definition 
-under the theme of â€˜Generationâ€™ meaning both a period of 30 years 
+under the theme of ‘Generation’ meaning both a period of 30 years 
 and the act of creating. Coming out of the 30th anniversary year, and 
 with the future secured, TBG+S is seeking a new Director to provide 
-artistic and strategic leadership, building on the organisationâ€™s 
+artistic and strategic leadership, building on the organisation’s 
 achievements to date and leading it into the next exciting phase of 
 development. 
 
@@ -1685,15 +1685,15 @@ The successful candidate will have a clear and focused vision that will
 enhance the importance of TBG+S locally and internationally, explore 
 new directions and deliver on its mission for its multiple constituencies. 
 It will be a unique opportunity to lead and motivate the dynamic and 
-loyal TBG+S team staff across the three pillars of the organisation â€“ 
+loyal TBG+S team staff across the three pillars of the organisation – 
 Create, Exhibit and Engage - to develop partnerships in collaboration 
 with stakeholders, and to ensure that TBG+S continues to be defined, 
-as one of Irelandâ€™s most relevant and vibrant cultural organisations.
+as one of Ireland’s most relevant and vibrant cultural organisations.
 
 The closing date for applications is 12pm on Tuesday 4th February 
 2014
 
-For further information and to apply for the Directorâ€™s position, please 
+For further information and to apply for the Director’s position, please 
 download the full job description by clicking the link below
 Directors_Role_Downloadable_full_description.pdf
 
@@ -1897,7 +1897,7 @@ Exhibition (BIMPE).
 
 BIMPE is held every two years in Vancouver, British Columbia, 
 Canada. This exhibition is a showcase for small scale works measuring 
-no more than 15cm Ã— 10cm, and is open to images made using all 
+no more than 15cm × 10cm, and is open to images made using all 
 printmaking techniques from traditional line etching to contemporary 
 digital processes. It is open to all artists in the whole world who use 
 printmaking techniques.

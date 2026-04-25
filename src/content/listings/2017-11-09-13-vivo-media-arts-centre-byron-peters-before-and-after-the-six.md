@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 13
 type: "OPENING"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Byron Peters | Before and After the Sixth Radar Conference | NOV 16"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | \"Platforms: Nine Places For Seeing\" June Works"
 ---
 

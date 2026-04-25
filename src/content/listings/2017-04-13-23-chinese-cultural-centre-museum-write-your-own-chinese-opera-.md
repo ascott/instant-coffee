@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 23
 type: "EDUCATION"
+venue: "Chinese Cultural Centre Museum"
 summary: "Chinese Cultural Centre Museum | Write Your Own Chinese Opera 101 (Workshop) | APR 22"
 ---
 

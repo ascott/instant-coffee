@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "BAF Gallery Winter 2017 Exhibitions"
 summary: "BAF Gallery Winter 2017 Exhibitions | Kim Kenndy Austin | Andrew Kent | NOV 2"
 ---
 

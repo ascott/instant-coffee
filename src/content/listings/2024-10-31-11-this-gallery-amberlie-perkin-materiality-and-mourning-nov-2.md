@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 11
 type: "EDUCATION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Amberlie Perkin - Materiality and Mourning | NOV 2"
 ---
 

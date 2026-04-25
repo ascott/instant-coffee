@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 10
 type: ""
+venue: "Arnica Artist Run Centre"
 summary: "Arnica Artist Run Centre | 2014 International Print Exchange | FEB 28"
 ---
 

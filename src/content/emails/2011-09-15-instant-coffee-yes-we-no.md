@@ -19,7 +19,7 @@ listingCount: 56
 <a href="/instant-coffee/listings/2011-09-15-05-fillip-stockhausen-at-ground-zero-now-online-sep-15">05. Fillip | Stockhausen at Ground Zero | Now Online | SEP 15</a>
 <a href="/instant-coffee/listings/2011-09-15-06-live2011-httpwwwlivebiennaleca-sep-15">06. LIVE2011 | http://www.livebiennale.ca | SEP 15</a>
 <a href="/instant-coffee/listings/2011-09-15-07-richmond-art-gallery-landon-mackenzie-sep-15">07. Richmond Art Gallery | LANDON MACKENZIE | SEP 15</a>
-<a href="/instant-coffee/listings/2011-09-15-08-audain-gallery-sfu-woodwards-young-hae-chang-heavy-industrie">08. Audain Gallery SFU Woodwardâ€™s | YOUNG-HAE CHANG HEAVY INDUSTRIES | SEP 16</a>
+<a href="/instant-coffee/listings/2011-09-15-08-audain-gallery-sfu-woodwards-young-hae-chang-heavy-industrie">08. Audain Gallery SFU Woodward’s | YOUNG-HAE CHANG HEAVY INDUSTRIES | SEP 16</a>
 <a href="/instant-coffee/listings/2011-09-15-09-centre-a-young-hae-chnag-heavy-industries-sep-16">09. Centre A | YOUNG-HAE CHNAG HEAVY INDUSTRIES | SEP 16</a>
 <a href="/instant-coffee/listings/2011-09-15-10-everything-about-sculpture-new-online-database-sep-16">10. Everything about Sculpture | new, online database | SEP 16</a>
 <a href="/instant-coffee/listings/2011-09-15-11-republic-gallery-raymond-boisjoly-sep-16">11. Republic Gallery | Raymond Boisjoly | SEP 16</a>
@@ -35,7 +35,7 @@ listingCount: 56
 <a href="/instant-coffee/listings/2011-09-15-21-west-vancouver-museum-sonny-assu-sep-19">21. West Vancouver Museum | Sonny Assu | SEP 19</a>
 <a href="/instant-coffee/listings/2011-09-15-22-langara-philosophers-jam-dialogue-series-sep-20">22. Langara | Philosophers' Jam Dialogue Series | SEP 20</a>
 <a href="/instant-coffee/listings/2011-09-15-23-art-gallery-of-greater-victoria-performance-kurt-johannessen">23. Art Gallery of Greater Victoria | performance: Kurt Johannessen | SEP 21</a>
-<a href="/instant-coffee/listings/2011-09-15-24-the-rio-theatre-larry-clarks-wassup-rockers-sep-21">24. THE RIO THEATRE | LARRY CLARKâ€™S WASSUP ROCKERS | SEP 21</a>
+<a href="/instant-coffee/listings/2011-09-15-24-the-rio-theatre-larry-clarks-wassup-rockers-sep-21">24. THE RIO THEATRE | LARRY CLARK’S WASSUP ROCKERS | SEP 21</a>
 <a href="/instant-coffee/listings/2011-09-15-25-vivo-media-art-centre-nicolas-boone-with-philippe-pasquier-s">25. VIVO Media Art Centre | Nicolas Boone with Philippe Pasquier | SEP 21</a>
 <a href="/instant-coffee/listings/2011-09-15-26-vivo-media-arts-centre-job-posting-distribution-assistant-se">26. VIVO MEDIA ARTS CENTRE | JOB POSTING: DISTRIBUTION ASSISTANT | SEP 23</a>
 <a href="/instant-coffee/listings/2011-09-15-27-arts-council-windsor-region-seeking-executive-director-oct-7">27. Arts Council Windsor & Region | seeking: Executive Director | OCT 7</a>
@@ -81,15 +81,15 @@ Artist in attendance.
 Monte Clark Gallery is pleased to present a solo exhibition of new
 work by Owen Kydd entitled The Reckless Moment.
 
-The works featured in The Reckless Moment are a progression of Kyddâ€™s
+The works featured in The Reckless Moment are a progression of Kydd’s
 exploration of the roots of the still image. Documenting Pico
-Boulevard in Los Angeles from static camera angles, Kyddâ€™s durational
-photographs contain evidence of movementâ€”headlights passing, wind
+Boulevard in Los Angeles from static camera angles, Kydd’s durational
+photographs contain evidence of movement—headlights passing, wind
 blowing curtains, and at times the hand-held camera. The fluorescent
 lights illuminate facades, neon lights splash sharp colour into idle
 corners, and headlights send tracers across windows.
 
-At night Picoâ€™s storefronts and displays dramatize a quiet Los Angeles
+At night Pico’s storefronts and displays dramatize a quiet Los Angeles
 nostalgia. Under the glow their fixtures and products become evidence
 of a different life, a daylight past, one that is temporarily
 suspended in a bright noir-like chiaroscuro.
@@ -166,31 +166,31 @@ in the shifting of technologies and tenses - from darkroom to digital,
 taking a captured past into a technological future.
 
 ARTICLES
-Stephen Horne explores Lynne Cohenâ€™s photographed interiors, discovering in
+Stephen Horne explores Lynne Cohen’s photographed interiors, discovering in
 them the intriguing tension of â€œstage sets waiting for an action to begin.â€ 
 
 Daniel Baird assays the continuum of self, as embodied, and expanded, by
 Suzy Lake in her experiments in self-portraiture.
 
-And Lee Henderson follows the flux in Evan Leeâ€™s photoconceptual work and
-in his approach to new technologies: â€œSeen through his artwork, the changes
+And Lee Henderson follows the flux in Evan Lee’s photoconceptual work and
+in his approach to new technologies: “Seen through his artwork, the changes
 to photography are all liberations.â€ 
 
 ALSO IN THIS ISSUE:
 PHOTO PORTFOLIO by Jessica Eaton in her â€œCubes for Albers and Lewittâ€  series.
 
 BORDERVIEWS on the mysteriously prolific and previously unseen work of
-Vivian Maier; Sarah Anne Johnsonâ€™s playful, timely and provocative â€œArctic
+Vivian Maier; Sarah Anne Johnson’s playful, timely and provocative “Arctic
 Wonderlandâ€ ; the â€œedgy brightnessâ€  of Steve Ackermanâ€™s black-and-white
-photography; and the merging of stellar and cellular in Andrew Wrightâ€™s
+photography; and the merging of stellar and cellular in Andrew Wright’s
 â€œCoronaeâ€  series.
 
 And our extensive CROSSOVERS section, with reviews of recent exhibitions of
 Stan Douglas, Rodney Graham and Tacita Dean, Anna von Gwinner and Markus
-SchÃ¤del, Kent Monkman, Davida Nemeroff, Guillermo Trejo, Elspeth Pratt,
-Susan Feindel, The Otolith Group, Thomas Hirschhorn and IÃ±igo
+Schädel, Kent Monkman, Davida Nemeroff, Guillermo Trejo, Elspeth Pratt,
+Susan Feindel, The Otolith Group, Thomas Hirschhorn and Iñigo
 Manglano-Ovalle, the Venice Biennale, Donigan Cumming, â€œThe Durable Idiomâ€ ,
-Allison Schulnik, Jessica Groome, Anri Sala, â€œVoices of Fire: toward a post
+Allison Schulnik, Jessica Groome, Anri Sala, “Voices of Fire: toward a post
 Postmodern theory of Abstractionâ€ , and Gordon Lebredt: Nonworks.
 
 Border Crossings is a quarterly cultural magazine published in Winnipeg.
@@ -215,19 +215,19 @@ projects@bordercrossingsmag.com
 Now Online
 Stockhausen at Ground Zero
 
-Christian HÃ¤nggi on Stockhausen and 9-11
+Christian Hänggi on Stockhausen and 9-11
 
 Five days after the World Trade Center attacks, German composer Karlheinz 
 Stockhausen held a press conference in Hamburg in which he claimed that the 
 attacks had been â€œgreatest work of art that has ever existed.â€  These remarks 
 were taken out of context and led to a caesura in his career.
 
-A decade after this exchange, writer Christian HÃ¤nggi argues that Stockhausenâ€™s 
+A decade after this exchange, writer Christian Hänggi argues that Stockhausen’s 
 enigmatic comments can be revalorized in a less emotionally charged manner. 
 The essay Stockhausen at Ground Zero is available in full, online, in advance of 
 its release in Fillip 15 in November. The issue is available for pre-order for $15 
 postage paid, and through Motto Distribution (Europe), Textfield Distribution 
-(USA), and Disticor (Canada/USA). Subscriptions are available for $30 / â‚¬30 for 
+(USA), and Disticor (Canada/USA). Subscriptions are available for $30 / €30 for 
 one year (three issues) via the Fillip website.
 
 Fillip
@@ -266,9 +266,9 @@ Monday, Sept 19, Trench Gallery, 6:00PM
 Robin Brass
 
 Tuesday, Sept 20, Gachet, 7:00PM
-FOLLY - "lâ€™Ã©tat de folie perÃ§u" - Curated by Irene Loughlin
+FOLLY - "l’état de folie perçu" - Curated by Irene Loughlin
 
-Diane Thorn, Irene Loughlin, Naufus Ramirez-Figueroa, Pedro GuillÃ¨n Cuevas 
+Diane Thorn, Irene Loughlin, Naufus Ramirez-Figueroa, Pedro Guillèn Cuevas 
 aka Tecuani Chen
 
 Wednesday, Sept 21, 7:00PM
@@ -293,11 +293,11 @@ CLOSING: Re-LIVE - Curated by Jesse Birch
 Raymond Boisjoly, Francisco-Fernando Granados, Curtis Grahauer, Brian Lye, 
 Elizabeth Milton, Ron Tran
 
-Sept 9 â€“ Oct 22, Satellite Gallery Storefront Window (560 Seymour Street)
+Sept 9 – Oct 22, Satellite Gallery Storefront Window (560 Seymour Street)
 Brian Lye
 
 Sept 19, 21, VIVO
-Curated by Marie-HÃ©lÃ¨ne Tessier
+Curated by Marie-Hélène Tessier
 Nicolas Boone
 September 19 - Liquidation at Pacific Cinematheque
 September 21 - Video Presentation at VIVO
@@ -326,7 +326,7 @@ will show up on our website http://www.livebiennale.ca/
 LANDON MACKENZIE
 Crossing Over,
 Why Cloud the Whites
-Opening Reception: Thursday September 15, 7â€“9pm
+Opening Reception: Thursday September 15, 7–9pm
 Exhibition Dates: September 10 - October 30, 2011
 
 Crossing Over, Why Cloud the Whites is a selection of paintings by Landon 
@@ -337,12 +337,12 @@ elements, these works explore the relationship between the innovative process
 of painting and the political and imaginative subtexts embedded in 
 representations.
 
-Mackenzieâ€™s research in cartography and later, neurology, yields an extensive 
+Mackenzie’s research in cartography and later, neurology, yields an extensive 
 repository of information and images, which she works into the many layers of 
 her large canvases. Wiring, tracking, neurons, signals, ladders, networks of 
 fragmentary webs and other real or fictive imagery combine in a balance of 
 tensions between chaos and order, colour and form, creating metaphors of 
-place and experience. The expansive scale of Mackenzieâ€™s paintings and the 
+place and experience. The expansive scale of Mackenzie’s paintings and the 
 density and scope of cultural, geographical, historical and scientific information 
 underlying the abstract forms speak to the complexities of contemporary life and 
 how we physically and intellectually connect with it.
@@ -360,18 +360,18 @@ The exhibition will close on Sunday October 30, 2011.
 
 RELATED PROGRAMS
 
-Open Forum in the Gallery â€“ The Art of Painting: Then and Now
+Open Forum in the Gallery – The Art of Painting: Then and Now
 September 10 - Canadian Painting History, Dr. Denise Oleksijczuk
 September 17 - Artist Talk, Landon Mackenzie
 September 24 - Contemporary Painting Practices, Carol-Ann Ryan
 Free Admission. Everyone welcome. 
-2â€“3pm
+2–3pm
 
 Crossing Over: Painting a Critical Conversation
 Landon Mackenzie & Dr. Glen Lowry in Conversation;
 Soundscape to Paintings with Dennis Burke and reception
-Richmond Art Gallery, Thursday October 20, 7â€“9pm
-Symposium continues on Friday October 21, 4â€“10pm 
+Richmond Art Gallery, Thursday October 20, 7–9pm
+Symposium continues on Friday October 21, 4–10pm 
 at Emily Carr University of Art + Design on Granville Island, 301 SB
 
 Richmond Art Gallery
@@ -385,7 +385,7 @@ Email: gallery@richmond.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-09-15-08-audain-gallery-sfu-woodwards-young-hae-chang-heavy-industrie">08. Audain Gallery SFU Woodwardâ€™s | YOUNG-HAE CHANG HEAVY INDUSTRIES | SEP 16</a>
+<a href="/instant-coffee/listings/2011-09-15-08-audain-gallery-sfu-woodwards-young-hae-chang-heavy-industrie">08. Audain Gallery SFU Woodward’s | YOUNG-HAE CHANG HEAVY INDUSTRIES | SEP 16</a>
 ------------------------------------------------------------------------
 Audain Gallery
 
@@ -413,12 +413,12 @@ title, presented over two exhibitions across both galleries, running from
 September 13 to November 5 at the Audain Gallery and from September 16 to 
 October 21at Centre A. A series of salons and talks by the artists, co-organized 
 by The Audain Gallery and Centre A, will also be scheduled in September during 
-the artistsâ€™ stay in Vancouver.
+the artists’ stay in Vancouver.
 
 At the Audain Gallery, THERE ARE NO PROBLEMS IN ART is a fast-moving, 
 text-based video work with a jazz score that contrasts the routine conflict and 
 struggle of daily existence with the seemingly unproblematic and easy life of an 
-artist. Done in the artistsâ€™ characteristically irreverent manner, that juxtaposition 
+artist. Done in the artists’ characteristically irreverent manner, that juxtaposition 
 is examined from the perspective of a narrator whose wry yet empathetic 
 musings paradoxically express both resigned corroboration and self-aware 
 critical inquiry.
@@ -431,7 +431,7 @@ the Centre Pompidou, Paris, and the New Museum, New York.
 
 Audain Gallery Hours: Tuesday to Saturday 12:00 to 6:00 PM
 
-Audain Gallery SFU Woodwardâ€™s
+Audain Gallery SFU Woodward’s
 Goldcorp Centre for the Arts
 149 West Hastings Street
 Vancouver, BC, Canada V6B 1H4
@@ -441,13 +441,13 @@ www.audaingallery.ca
 About the Audain Gallery
 
 The Audain Gallery serves as a vital aspect of the Visual Arts program at Simon 
-Fraser Universityâ€™s School for the Contemporary Arts. Its mission is to advance 
+Fraser University’s School for the Contemporary Arts. Its mission is to advance 
 the aesthetic and discursive production and presentation of contemporary visual 
 art through a responsive program of exhibitions in support of engaged pedagogy. 
 The Audain Gallery encourages conceptual and experimental projects that 
 explore the dialogue between the social and the cultural in contemporary artistic 
 practices. The Audain Visual Artists in Residence Program and student 
-exhibitions are central to the galleryâ€™s programming.
+exhibitions are central to the gallery’s programming.
 
 The Audain Gallery is curated by Sabine Bitter.
 
@@ -463,17 +463,17 @@ THERE ARE NO PROBLEMS IN ART
 International Artist in Residence Program and exhibitions
 
 Exhibitions
-September 13 â€“ October 21, 2011 at Centre A
-September 13 â€“ November 5, 2011 at the Audain Gallery
+September 13 – October 21, 2011 at Centre A
+September 13 – November 5, 2011 at the Audain Gallery
 
 Artist Talk September 16, 6 â€“ 8 pm at the Audain Gallery 
 
 Opening Reception Friday, September 16  7 â€“ 9 pm at the Audain Gallery & 8
-â€“ 10 pm at Centre A
+– 10 pm at Centre A
 
-Public Salon HI, WEâ€™RE YOUNG-HAE AND MARC, AND WE WERE IN TOWN FOR A FEW
+Public Salon HI, WE’RE YOUNG-HAE AND MARC, AND WE WERE IN TOWN FOR A FEW
 DAYS DOING SOMETHING OR OTHER, IF YOU ARE INTERESTED
-October 5, 6 â€“ 8 pm at Centre A
+October 5, 6 – 8 pm at Centre A
 
 Co-Curators Sabine Bitter and Makiko Hara
 
@@ -491,7 +491,7 @@ the complexities of the relationships between art, artists, curator,
 institutions, communities in this specific area so called Down Town East
 Side (DTES) where both Centre A and the Audain Gallery are located. A
 series of artist talks and salon will be scheduled in September 2011 in
-conjunction with Centre A during the artistsâ€™ stay in Vancouver.
+conjunction with Centre A during the artists’ stay in Vancouver.
 
 YOUNG-HAE CHANG HEAVY INDUSTRIES is yhchang.com. Its principals, Young-hae
 Chang (Korea) and Marc Voge (U.S.A.), are based in Seoul. YHCHI has made
@@ -594,7 +594,7 @@ Contingent Matters (2011) at the Vancouver Public Library and All That Was, Will
 Always Have Been, Somehow Never Again (2010) at Access Gallery 
 (Vancouver, BC). Boisjoly was awarded a Fleck Fellowship from the Banff 
 Centre for the Arts in 2010 and participated in the thematic residency La 
-Commune. The Asylum. Die BÃ¼hne. at the Banff Centre in 2011.
+Commune. The Asylum. Die Bühne. at the Banff Centre in 2011.
 
 Boisjoly would like to acknowledge the support of the Canada Council for the 
 Arts.
@@ -620,7 +620,7 @@ Wrong Wave 2 consists of two nights of Vancouver-based bands Myths, Flash
 Palace, B-Lines, and Cowards, and DJs Eli Bornowsky and Andrea Lukic at The
 Waldorf Hotel, a one-night "chamber performance" by UK artist and musician
 Mathew Sawyer at UNIT/PITT, and a panel discussion/listening event devoted
-to Vancouverâ€™s most influential art-band UJ3RK5 with an oral history of the
+to Vancouver’s most influential art-band UJ3RK5 with an oral history of the
 band presented by David Wisdom at Emily Carr University.
 
 MYTHS, FLASH PALACE, DJ ELI BRONOWSKY
@@ -663,7 +663,7 @@ Shawn Hunt
 
 Curated by Lawrence Paul Yuxweluptun
 
-September 17 â€“ October 15
+September 17 – October 15
 
 Opening reception Saturday September 17 6-9pm
 
@@ -689,7 +689,7 @@ by Shawn Hunt
 Five Sixty, Satellite Gallery and Blanket Contemporary Art Inc. present MIX:
 An Evening of Art, Music, Video and Performance all under one roof
 
-Vancouver, B.C.â€”on Saturday, September 17 from 6pm to Midnight, Five Sixty, 
+Vancouver, B.C.—on Saturday, September 17 from 6pm to Midnight, Five Sixty, 
 Satellite Gallery and Blanket Contemporary Art Inc. invite Vancouverites to MIX, 
 from the gallery to the club, from art to video to performance. For just one 
 evening, the lines between our spaces will blur as visitors are invited to be 
@@ -700,23 +700,23 @@ Highlights from MIX include:
 
 Five Sixty
 
-Florist Thomas Hobbsâ€™ first fine art show entitled The tragedy behind everybody's 
+Florist Thomas Hobbs’ first fine art show entitled The tragedy behind everybody's 
 crummy lives. Thomas Hobbs uses 'Jerry Springer ladies' light boxes and 
 digitally manipulated, found paint-by-number figures to expose the frightening 
 world of freaks that he has spent a lifetime helping the world avoid. (September 
-17 â€“ October 22)
+17 – October 22)
 
 Carylann Loeppky showing large-scale paintings, ephemeral figurative abstracts 
 on canvas and board drawn from the moment of 'getting ready to go out'. 
 Fourteen years of album-cover design for major record labels first led this self-
 taught painter to miniature portraits, which are now being used as studies for 
-these larger works. (September 17 â€“ October 22)
+these larger works. (September 17 – October 22)
 
 Brian Kent Gotro premiers his 9-projection video installation, Dronescape (2011), 
 re-imagining his Digital Dreamscapes Trilogy into a larger video scape 
 punctuated by a virtual audience moving in slow rhythm/reaction. This interplay 
 suggests the act of dreaming as a creative process versus simply as a bi-
-product of sleep. Video is at the core of Gotroâ€™s interdisciplinary practice. Turning 
+product of sleep. Video is at the core of Gotro’s interdisciplinary practice. Turning 
 the camera on himself and his surroundings, Gotro engages in both critique and 
 examination of the world around him.
 
@@ -728,31 +728,31 @@ associated with the avant-garde scene in Vancouver during the 1960s. A long-
 time resident of Hornby Island, Payne has continued his painting practice, 
 making abstractions informed by a dynamic relation to the natural world. This 
 new body of work derives from sources as diverse as medieval illumination and 
-the mid-20th century French artist Bernard RÃ©quichot. Gordon Payne: New 
+the mid-20th century French artist Bernard Réquichot. Gordon Payne: New 
 Works is curated by Scott Watson and organized by the Morris and Helen Belkin 
-Art Gallery. (September 17 â€“ October 22)
+Art Gallery. (September 17 – October 22)
 
-Brian Lyeâ€™s Training a Fool is Not a Joke (2011) is a looped film that takes 
+Brian Lye’s Training a Fool is Not a Joke (2011) is a looped film that takes 
 inspiration from Rodney Graham's Vexation Island (1997). Set in the back yard of 
 a South Vancouver home that is slated for demolition, Lye performs as an 
 apprentice tree pruner who has been hired to remove a large, dead branch from 
 a tree. However, the inexperienced arborist is put at risk when the task at hand 
 goes awry. Training a Fool is Not a Joke will screen in the windows of Satellite 
-Gallery as part of Re-LIVE Vancouver, curated by Jesse Birch. (September 17 â€“ 
+Gallery as part of Re-LIVE Vancouver, curated by Jesse Birch. (September 17 – 
 October 22)
 
 Blanket Contemporary Art Inc.
 
 Blanket presents a solo exhibition of Shawn Hunt, curated by Lawrence Paul 
-Yuxweluptun. Shawn Huntâ€™s art practice takes an interdisciplinary approach 
+Yuxweluptun. Shawn Hunt’s art practice takes an interdisciplinary approach 
 towards his experience with Native and European identity and contemporary 
-popular culture. Formally rigorous and socially engaged, Huntâ€™s work is an 
+popular culture. Formally rigorous and socially engaged, Hunt’s work is an 
 amalgamation of contemporary Native and non-Native realities while addressing 
-the â€˜other.â€™ Key elements in Hunt's pictorial practice are his treatment of the 
+the ‘other.’ Key elements in Hunt's pictorial practice are his treatment of the 
 formline, which in Northwest Coast art is the exterior connecting line that defines 
 all the abstract design elements that make up figurative subject. Hunt 
 radicalizes tradition by removing the formline, suggesting an identity in flux. By 
-subverting conventional usage of the Northwest Coast vocabulary, Huntâ€™s work 
+subverting conventional usage of the Northwest Coast vocabulary, Hunt’s work 
 becomes contemporary and surreal, offering new critical potential.
 
 Mix Details:
@@ -760,7 +760,7 @@ Saturday, September 17, 6pm to midnight
 Free admission from 6 to 10pm
 Five Sixty admission rate after 10pm: $15
 560 Seymour Street, Vancouver
-Copyright Â© 2011 Carylann Loeppky, All rights reserved.
+Copyright © 2011 Carylann Loeppky, All rights reserved.
 My mailing address is:
 Carylann Loeppky
 328-1000 Parker Street
@@ -834,28 +834,28 @@ Artist talk with Brendan Fernandes, Saturday September 17, 6:30
 
 Three exciting new exhibitions that look at the important role of
 translation in contemporary art and life will open Saturday, September 17
-with an illustrated Artistâ€™s Talk by Brendan Fernandes followed by an
+with an illustrated Artist’s Talk by Brendan Fernandes followed by an
 opening reception at the Surrey Art Gallery.
 
 Brendan Fernandes: Disscontinent
 
 September 17 to December 11
 
-How does oneâ€™s identity come to be? How are we defined by language and
+How does one’s identity come to be? How are we defined by language and
 speech? The exhibition Disscontinent is 2010 Sobey Art Award nominee
-Brendan Fernandesâ€™ Lower Mainland debut. It features seven recent artworks
+Brendan Fernandes’ Lower Mainland debut. It features seven recent artworks
 that examine language and power, diaspora and cross-cultural communication,
 and the conventions of ethnographic museums in defining cultures. The works
 raise questions about identity and authenticity through pictures of
 language, and soundtracks of mixed spoken word. The breakdown of language,
 as well as its constructive and creative aspects, comes together in the
-artistâ€™s immersive installations.
+artist’s immersive installations.
 
-â€œI am interested in how language becomes codified, where it creates
+“I am interested in how language becomes codified, where it creates
 barriers that allow for understanding within specific groups and
 communities,â€  says Fernandes. â€œIn particular, I am investigating how
 language can be altered and forgotten through the process of migration. It
-defines identity via oneâ€™s transformation of becoming something else
+defines identity via one’s transformation of becoming something else
 through processes of loss and gain, forgetfulness and remembrance.â€  The
 title for this exhibition refers to the discontinuities of identity and
 language, and the increasingly common migratory patterns of individuals and
@@ -869,7 +869,7 @@ crescendo with a 12-foot wide mural accompanied by video-mask sculptures
 that erupt in Morse Code-like messages. In the earliest made work in the
 exhibition, the artist recites a text related to the story of Robinson
 Crusoe, but does so after hiring an acting coach to teach him to speak
-English with Swahili, Indian and Canadian accents â€“ accents representing
+English with Swahili, Indian and Canadian accents – accents representing
 each of the artistâ€™s own cultural backgrounds. The â€œdissâ€  in
 â€œdisscontinentâ€  refers to the pronunciation of the word â€œthisâ€  in
 Afro-Caribbean English.
@@ -879,16 +879,16 @@ About the artist
 Born in Kenya of Indian heritage, Brendan Fernandes immigrated to Canada in
 the 1990s. He has exhibited nationally and internationally including
 exhibitions at The Art Gallery of Hamilton, The Studio Museum in Harlem,
-The Andy Warhol Museum, The Art Gallery of York University, Manif dâ€™Art:
+The Andy Warhol Museum, The Art Gallery of York University, Manif d’Art:
 The Quebec City Biennial, The Third Guangzhou Triennial. He held the
 position of Artist in Residence at The School of Visual Arts, NY, in the
 graduate program for computer arts (2008). He is a recipient of a New
 Commissions Project through Art in General, NY (2010) and is a Sobey Art
 Award nominee. Fernandes splits his time between Toronto and New York.
-Fernandesâ€™ talk is part of the Surrey Art Galleryâ€™s Speakerâ€™s Series on
+Fernandes’ talk is part of the Surrey Art Gallery’s Speaker’s Series on
 South Asian and East Asian Contemporary Art.
 
-This is Fernandesâ€™ first solo show in the Lower Mainland.
+This is Fernandes’ first solo show in the Lower Mainland.
 
 Finding Correspondences: Digital Natives, Soheila K. Esfahani, Mark
 Neufeld, Emilio Rojas, Tony Romano, Ming Wong
@@ -903,41 +903,41 @@ media in contemporary art, and the acceleration of globalization,
 translation has become a key subject of artists at the beginning of the new
 century.
 
-Among the works in the exhibition is Ming Wongâ€™s video installation In Love
-for the Mood (2009), in which the original actors of Wong Kar-waiâ€™s 2000
+Among the works in the exhibition is Ming Wong’s video installation In Love
+for the Mood (2009), in which the original actors of Wong Kar-wai’s 2000
 film In the Mood for Love are replaced by a Caucasian actress from New
 Zealand studying in Singapore. This actress attempts to recreate the
-original filmâ€™s emotional power by speaking the parts of two separate
-characters in Cantonese. Her three separate deliveries of the sceneâ€™s lines
+original film’s emotional power by speaking the parts of two separate
+characters in Cantonese. Her three separate deliveries of the scene’s lines
 point to the aspect of performance that is so critical to speaking in a
-foreign language. Tony Romanoâ€™s Imagine Band (2009) uses the lyrics from
-John Lennonâ€™s Imagine that have been translated by ten professional
+foreign language. Tony Romano’s Imagine Band (2009) uses the lyrics from
+John Lennon’s Imagine that have been translated by ten professional
 translation services through ten different foreign languages and back into
 English, with the new English version recorded on a 45 record, performed by
 the artist. Another project, titled Digital Natives (2011), looks at
-translation between local first nations languages (Musqueam, Kwakâ€™wala,
+translation between local first nations languages (Musqueam, Kwak’wala,
 Squamish, Tatlan, and Thompson) and several settler languages (English,
 French, and Cantonese) that had originally been generated in Twitter on a
 public electronic billboard, but is now resituated in the gallery.
 
-Dipna Horra: Dhuniaâ€“Part One
+Dipna Horra: Dhunia–Part One
 
 September 9 to December 16
 
-Ottawa-based artist Dipna Horraâ€™s sound art installation Dhuniaâ€“Part One
+Ottawa-based artist Dipna Horra’s sound art installation Dhunia–Part One
 uses found architectural forms to transmit a tale recounted in Punjabi of
-the Goddess Parvati's quest for material wealth. Through Horraâ€™s process
+the Goddess Parvati's quest for material wealth. Through Horra’s process
 she sees hybridity, identity, and a transcultural synthesis of materials
 and thoughts. Since 2003, the artist has been exploring with architectural
-installations that involve sound, film, and performance. Dhuniaâ€“Part One
+installations that involve sound, film, and performance. Dhunia–Part One
 runs from September 9 to December 16, and is the third installment of Open
 Sound 2011: Nests Built by Birds.
 
 Opening Event Schedule:
 
-Artistâ€™s Talk and Opening Reception
+Artist’s Talk and Opening Reception
 
-Saturday, September 17, 6:30â€“9pm
+Saturday, September 17, 6:30–9pm
 
 Surrey Art Gallery
 
@@ -945,21 +945,21 @@ Free
 
 Event Schedule
 
-6:30pm: Artistâ€™s Talk by Brendan Fernandes.
+6:30pm: Artist’s Talk by Brendan Fernandes.
 
 7:30pm: Formal Remarks
 
-7:30 â€“ 9pm: Opening Reception featuring DJâ€™d African raregroove music by
+7:30 – 9pm: Opening Reception featuring DJ’d African raregroove music by
 Joshua Stevenson
 
 Other Related Events:
 
 Culture Days at the Surrey Art Gallery | Saturday, October 1
 
-1 â€“ 4pm: Demonstrations by members of the Federation of Canadian
-Artistsâ€“Fraser Valley Chapter
+1 – 4pm: Demonstrations by members of the Federation of Canadian
+Artists–Fraser Valley Chapter
 
-2:30 â€“ 3:30pm: Curatorâ€™s tour of exhibitions. Co-presented with Surrey Art
+2:30 – 3:30pm: Curator’s tour of exhibitions. Co-presented with Surrey Art
 Gallery Association.
 
 Panel Discussion: Dislocutions | Saturday, October 15, 2:30-4:30pm
@@ -968,12 +968,12 @@ An engaging discussion about translation and representation with
 artist-curator Lorna Brown, scholar Anne Murphy, novelist Fauzia Rafiq, and
 artist Emilio Rojas.
 
-Curatorâ€™s Tour with Jordan Strom and Brian Foreman | Thursday, November 10,
-7:30â€“9pm
+Curator’s Tour with Jordan Strom and Brian Foreman | Thursday, November 10,
+7:30–9pm
 
 By donation; Surrey Art Gallery Association members free
 
-Family Day | Sunday, November 13, Noonâ€“4pm
+Family Day | Sunday, November 13, Noon–4pm
 
 Children must be with an adult | Suggested donation: $4 per child
 
@@ -1022,7 +1022,7 @@ are sourcing materials, or have specific reference to British Columbia in their
 work.
 
 This exhibition is strategically set to align with IDS West in an effort to broaden 
-the exposure of British Columbiaâ€™s regional design.
+the exposure of British Columbia’s regional design.
 
 Submissions will be judged on conceptual merit and/or execution of design.
 
@@ -1046,7 +1046,7 @@ SEPTEMBER 18th |
 
 In recognition of the longstanding relationship between the Musqueam First 
 Nation and the Museum of Anthropology, we invite you to join us on the afternoon 
-of Sunday, September 18, to witness MOAÂ¡Â¯s welcome plaza receiving the 
+of Sunday, September 18, to witness MOA¡¯s welcome plaza receiving the 
 Musqueam name xʷəÂ¨Â½iwən ce:p kʷÂ¦ÃˆəÂ¦Ãˆ nəὠeyəɬ, Â¡Â±Remember your teachings.Â¡Â± 
 As part of the celebration, we will also be commemorating the installation of two 
 Musqueam artworks, Salish Footprint by Susan Point and Transformation by Joe 
@@ -1063,29 +1063,29 @@ Drive, Vancouver BC V6T 1Z2
 ------------------------------------------------------------------------
 Monday September 19 2011 7:30pm
 Nicolas Boone LIQUIDATION
-Curated by Marie-HÃ©lÃ¨ne Tessier
+Curated by Marie-Hélène Tessier
 Presented by DIM Cinema at the Pacific Cinematheque
 1131 Howe St. Vancouver $10.50+ $3membership
 dimcinema.ca / cinematheque.bc.ca
 
-Nicolas Boone and Marie-HÃ©lÃ¨ne Tessier in attendance
+Nicolas Boone and Marie-Hélène Tessier in attendance
 
 Nicolas Boone is (b. 1974) is a visual artist based in Paris. He graduated from 
-Ã‰cole Nationale SupÃ©rieure des Beaux-Arts de Paris in 2001. His earlier work 
+École Nationale Supérieure des Beaux-Arts de Paris in 2001. His earlier work 
 used the language of filmmaking to produce ephemeral performances without 
 film stock. Eventually, his meticulously improvised â€œparadesâ€  were recorded and 
 edited into film loops to create a living discourse around the death of cinema. La 
 Transhumance Fantastique (2006) recycles the codes of fantastic and horror 
-cinema while a tracking shot along train rails leads nowhere â€” or towards a 
+cinema while a tracking shot along train rails leads nowhere — or towards a 
 Western, a conquest, an exodus towards utopia, a future determined by 
-someone else. As in all of Booneâ€™s films, the central character is a crowd of 
+someone else. As in all of Boone’s films, the central character is a crowd of 
 extras forming a compact corpus and obeying simple instructions commanded 
 by a megaphone: the shout of the director-dictator, the authority of the absurd, 
-the conductor of non-sense. Booneâ€™s moving mises-en-scÃ¨ne emerge from 
+the conductor of non-sense. Boone’s moving mises-en-scène emerge from 
 improvisations in which chaos invites chance and accidents do happen. 
 Transbup (2009) is a more traditional narrative that emerged after a massive anti-
-ad campaign made up of nine shorts (BUP - La sÃ©rie). Transbup exposes the 
-different faces of the mediaâ€™s totalitarian invasion of our individual freedom. 
+ad campaign made up of nine shorts (BUP - La série). Transbup exposes the 
+different faces of the media’s totalitarian invasion of our individual freedom. 
 Boone points fingers at all institutions and their perverse mechanisms. Here, the 
 characters are looking for an escape from a world Boone holds in disgust.
 
@@ -1095,14 +1095,14 @@ La Transhumance Fantastique | France 2006. Colour, DV. 55 mins.
 Programmed in parallel with the exhibition LIQUIDATION and the production of 
 NOTHING HAPPENING at VIVO Media Arts Centre. Co-presented with the LIVE 
 International Performance Art Biennale and Swarm Festival of Artist Run Culture. 
-LIQUIDATION is presented with the generous support of the Consulat gÃ©nÃ©ral de 
-France Ã  Vancouver and Institut FranÃ§ais.
+LIQUIDATION is presented with the generous support of the Consulat général de 
+France à Vancouver and Institut Français.
 
 __________________
 
 Amy Kazymerchyk
 Associate Programmer: DIM Cinema
-Pacific CinÃ©mathÃ¨que
+Pacific Cinémathèque
 cinematheque.bc.ca
 dimcinema.ca
 
@@ -1141,7 +1141,7 @@ the news coverage. He has taken our collective vulnerability and is
 questioning the fine-line between controlled celebration and out-of-control
 mayhem. 
 
-â€œThis idea is about peoples' reactions to cheer when good things happen and
+“This idea is about peoples' reactions to cheer when good things happen and
 even when bad things happen. When the Olympic torch was relit for the
 Canucks' playoff run, people got excited... and when the city rioted people
 got even more excited. It's a strange world in which we liveâ€  (J.C.S., 2011).
@@ -1196,15 +1196,15 @@ storage area of an ethnographic museum, as fine art in an exhibition of aestheti
 objects in a commercial gallery, and the tourist shop emphasizing curiosities, 
 souvenirs or keepsakes to take home.
 
-Vancouver-based artist Sonny Assu is Laich-kwil-tach (Kwakwakaâ€™wakw) of the 
-Wekaâ€™yi First Nation of Cape Mudge, Vancouver Island. Assuâ€™s work has been 
+Vancouver-based artist Sonny Assu is Laich-kwil-tach (Kwakwaka’wakw) of the 
+Weka’yi First Nation of Cape Mudge, Vancouver Island. Assu’s work has been 
 featured in several notable group exhibits over the past years, How Soon is 
 Now?, Vancouver Art Gallery; Comic Relief, National Gallery of Canada; 
 Challenging Traditions: Contemporary First Nations Art of the Northwest Coast; 
 McMichael Canadian Art Collection, and Changing Hands: Art Without 
 Reservation Part 2, Museum of Arts and Design in New York City. A recent solo 
 exhibit, Sonny Assu: As Defined Within the Indian Act, was held at the Belkin 
-Satellite Gallery, Vancouver. Assuâ€™s work is in the collection of the National 
+Satellite Gallery, Vancouver. Assu’s work is in the collection of the National 
 Gallery, the Seattle Art Museum, the Museum of Anthropology at UBC, and in 
 public and private collections across Canada and the United States. The artist is 
 represented by the Equinox Gallery in Vancouver.
@@ -1266,7 +1266,7 @@ Langara.
 ------------------------------------------------------------------------
 Norwegian Performance Artist to Descend on Victoria
 
-Victoria, BC â€“ (September 9, 2011) -The Art Gallery of Greater Victoria and Open 
+Victoria, BC – (September 9, 2011) -The Art Gallery of Greater Victoria and Open 
 Space will present Norwegian performance artist, Kurt Johannessen, in his 
 Victoria debut on September 21. 
 
@@ -1279,9 +1279,9 @@ sentence works to short story and picture books.
 Johannessen will arrive in Victoria in mid-September to plan his performance, 
 scouring the city for an appropriate venue and theme for his performance.
 
-â€œThe AGGV is pleased to partner with Open Space to bring world-class 
+“The AGGV is pleased to partner with Open Space to bring world-class 
 performance art to Victoria,â€  said AGGV director Jon Tupper. â€œJohannessenâ€™s 
-lyrical public performance will fascinate Victorians and truly fulfill the Galleryâ€™s 
+lyrical public performance will fascinate Victorians and truly fulfill the Gallery’s 
 mandate of bringing art into the community.â€ 
 
 "Kurt Johannessen's visit continues a long-standing series of internationally -
@@ -1297,7 +1297,7 @@ Johnston, Pauline Cummins (N Ireland) and Poshya Kakl (Iraq).
 Johannessen participated in the 2010 edition of the International Festival of 
 Performance Art Navinki, an annual international performance festival in Minsk, 
 Belarus. In December 2010, Johannessen presented new performances at 
-Guangzhou Live â€“ International Action Art Festival at the 53 Art Museum in 
+Guangzhou Live – International Action Art Festival at the 53 Art Museum in 
 Guangzhou, People's Republic of China.
 
 Kurt Johannessen was born in Norway in 1960 and is currently based in 
@@ -1305,7 +1305,7 @@ Bergen. He was educated at The Slade School of Fine Art in London, The
 Iceland Akademy of the Arts in Reykjavik and The National Academy of Fine Art 
 in Bergen.
 
-Johannessenâ€™s visit to Victoria is supported in part by Norwayâ€™s Office of 
+Johannessen’s visit to Victoria is supported in part by Norway’s Office of 
 Contemporary Art and the City of Bergen.
 
 -30-
@@ -1325,24 +1325,24 @@ director@openspace.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-09-15-24-the-rio-theatre-larry-clarks-wassup-rockers-sep-21">24. THE RIO THEATRE | LARRY CLARKâ€™S WASSUP ROCKERS | SEP 21</a>
+<a href="/instant-coffee/listings/2011-09-15-24-the-rio-theatre-larry-clarks-wassup-rockers-sep-21">24. THE RIO THEATRE | LARRY CLARK’S WASSUP ROCKERS | SEP 21</a>
 ------------------------------------------------------------------------
 Wednesday SEPTEMBER 21, 2011, 9:30 PM
 Film Screening
 
-LARRY CLARKâ€™S WASSUP ROCKERS
+LARRY CLARK’S WASSUP ROCKERS
 THE RIO THEATRE, 1660 EAST BROADWAY, VANCOUVER
 
 TICKETS: $5 AT THE DOOR
 
-Larry Clarkâ€™s enduring fascination with the lifestyles of urban and suburban 
+Larry Clark’s enduring fascination with the lifestyles of urban and suburban 
 teenagers has been the focus of a world renowned photographic practice as well 
 as a number of feature-length movies, including his groundbreaking 1995 film 
 Kids. In conjunction with the exhibition Larry Clark: Tulsa, currently on view at 
 Presentation House Gallery, North Vancouver, we are pleased to present a 
-screening of Clarkâ€™s 2005 film Wassup Rockers.
+screening of Clark’s 2005 film Wassup Rockers.
 
-Like much of Clarkâ€™s work, Wassup Rockers offers a compelling blend of fact 
+Like much of Clark’s work, Wassup Rockers offers a compelling blend of fact 
 and fiction in its intimate look at a group of Guatemalan American and 
 Salvadoran American teenagers in South Central Los Angeles. However, instead 
 of conforming to the hip hop culture of their gang-infested neighborhood, the 
@@ -1360,11 +1360,11 @@ VIVO Media Art Centre
 Nicolas Boone NOTHING HAPPENING (Video Presentation) with Philippe Pasquier
 Wednesday September 21, 8pm (0-10$)
 1965 Main St. Vancouver vivomediaarts.com
-Curated by Marie-HÃ©lÃ¨ne Tessier
+Curated by Marie-Hélène Tessier
 
 VIVO presents NOTHING HAPPENING, the finished video work by French Artist
 in Residence Nicolas Boone, that emerges from a three-hour live performance
-filmed during PAARCâ€™s Swarm Festival of Artist Run Culture on Thursday
+filmed during PAARC’s Swarm Festival of Artist Run Culture on Thursday
 September 8. The video NOTHING HAPPENING will be accompanied by a live
 soundtrack performed by Philippe Pasquier, and presented in conjunction
 with the LIVE International Performance Biennale Sept 15-25, hosted by
@@ -1376,7 +1376,7 @@ construction workers shares the stage with a concrete truck, steamroller,
 excavator, barricades, orange cones, and traffic control tape. NOTHING
 HAPPENING addresses the savage economic development that is steamrolling
 cultural spaces, bohemia and marginality to create a condo wonderland. It
-is a mirror reflecting our cityâ€™s relationship to territory, land, and
+is a mirror reflecting our city’s relationship to territory, land, and
 frontiers of economic and political power. NOTHING HAPPENING is a video
 loop of hand shakes between City Hall, land speculators and private
 enterprises. NOTHING HAPPENING is an artist preaching upside down from a
@@ -1397,7 +1397,7 @@ edited into film loops to create a living discourse around the death of cinema.
 NOTHING HAPPENING AND LIQUIDATION are co-presented by LIVE International
 Performance Biennale, DIM Cinema and the Pacific Cinematheque. Nicolas
 Boone's Artist Residency and Exhibition is generously supported by the
-Consulate General of France in Vancouver and Institut FranÃ§ais. NOTHING
+Consulate General of France in Vancouver and Institut Français. NOTHING
 HAPPENING is sponsored by Kerrisdale Equipment, Lafarge, Western One, A+B
 Tool Rentals, Rona and Home Depot. The installation of LIQUIDATION is
 generously supported by The Grunt Gallery and The Western Front.
@@ -1443,15 +1443,15 @@ computer fluency and a capacity to juggle multiple tasks to deadline using Mac
 OS, Word, FileMaker, and Excel. Understanding of Photoshop, Illustrator, DVD 
 Studio Pro and Final Cut Pro would be an asset. This position also draws upon a 
 strong understanding of the festival programming process, video and media art 
-in Canada, artist run culture and VIVOâ€™s mandate.
+in Canada, artist run culture and VIVO’s mandate.
 
-Applications should outline an applicantâ€™s:
+Applications should outline an applicant’s:
 
-â€¢ Familiarity with video art and distribution
+• Familiarity with video art and distribution
 
-â€¢ Communication and administrative work experience
+• Communication and administrative work experience
 
-â€¢ Computer and technical skills
+• Computer and technical skills
 
 If you are interested in applying for this position, please email a resume and 
 cover letter by 5pm Friday, September 23 to:
@@ -1496,50 +1496,50 @@ Board of Directors, will oversee all aspects of the organization's
 operations, including development, budgeting and finance, communications,
 partnerships and future planning/visioning.
 
-Â· Oversee management of all aspects of operations and all tasks
+· Oversee management of all aspects of operations and all tasks
 related to the general administration of the organization.
 
-Â· Grant writing and reporting.
+· Grant writing and reporting.
 
-Â· Fundraising and resource development.
+· Fundraising and resource development.
 
-Â· Management of financial records, budgets and fiscal accountability.
+· Management of financial records, budgets and fiscal accountability.
 
-Â· Hiring and management of both part-time and contract staff.
+· Hiring and management of both part-time and contract staff.
 
-Â· Regular reporting to the Board of Directors.
+· Regular reporting to the Board of Directors.
 
 Qualifications:
 
-Â· Post-secondary degree, preferably in arts, arts administration,
+· Post-secondary degree, preferably in arts, arts administration,
 management or a similar field.
 
-Â· Administrative experience, preferably with some experience in the
+· Administrative experience, preferably with some experience in the
 non-profit sector.
 
-Â· Strong organizational, managerial and analytical skills.
+· Strong organizational, managerial and analytical skills.
 
-Â· Excellent interpersonal and collaborative skills.
+· Excellent interpersonal and collaborative skills.
 
-Â· Excellent written and verbal communication skills, with evidence of
+· Excellent written and verbal communication skills, with evidence of
 successful grant writing.
 
-Â· Experience with financial recording and budgeting.
+· Experience with financial recording and budgeting.
 
-Â· The ability to work independently and multi-task is crucial.
+· The ability to work independently and multi-task is crucial.
 
-Â· An understanding of the non-profit sector and an interest in
+· An understanding of the non-profit sector and an interest in
 contemporary arts and culture will be considered an asset.
 
 Additional Information:
 
-Â· This position is a full-time appointment ranging from 20-40 hrs/wk.
+· This position is a full-time appointment ranging from 20-40 hrs/wk.
 
-Â· Annual salary range: $30,000- $50,000 (pending grant approval)
+· Annual salary range: $30,000- $50,000 (pending grant approval)
 
-Â· The position will commence late October 2011.
+· The position will commence late October 2011.
 
-Â· The position will be offered with three (3) month probation period
+· The position will be offered with three (3) month probation period
 attached
 
 How to Apply:
@@ -1567,7 +1567,7 @@ Ancestral Teachings: Contemporary Perspectives
 
 Ancestral Teachings: Contemporary Perspectives will be an exhibition of 
 contemporary Aboriginal Art taking place at the Gladstone Hotel, Toronto, 
-November 15th â€“ 30th, 2011. The exhibition will showcase artwork that will 
+November 15th – 30th, 2011. The exhibition will showcase artwork that will 
 explore how contemporary Aboriginal artists draw upon the values and lessons 
 from oral culture to explore present-day contexts. The central theme of the 
 exhibition will be the Anishnawbe story of the Seven Grandfather Teachings. 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 8
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | roundtable | | Ivan Drury, Cecily Nicholson & Russell Baker | DEC 9"
 ---
 

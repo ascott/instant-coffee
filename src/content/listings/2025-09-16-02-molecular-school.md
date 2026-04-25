@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 2
 type: "EDUCATION"
+venue: "MOLECULAR SCHOOL"
 summary: "MOLECULAR SCHOOL"
 ---
 

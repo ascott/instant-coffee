@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 23
 type: "TALK"
+venue: "[ONLINE]"
 summary: "[ONLINE] | Artist Talk with Luke Parnell | APR 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 2
 type: "OPENING"
+venue: "Duplex"
 summary: "Duplex | Olga Abeleva + Shizen Jambor: The Influencers | JUN 14"
 ---
 

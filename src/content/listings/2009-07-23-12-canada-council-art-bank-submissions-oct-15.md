@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't be fooled"
 emailDate: "Thu, 23 Jul 2009 10:00:47 -0700"
 number: 12
 type: ""
+venue: "Canada Council"
 summary: "Canada Council | Art Bank Submissions | OCT 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ...seal skins, gathered kelp"
 emailDate: "Thu, 25 Jan 2018 10:10:08 -0800"
 number: 2
 type: ""
+venue: "SFU's Vancity Office of Community Engagement"
 summary: "SFU's Vancity Office of Community Engagement | Birth of a Family | JAN 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 27
 type: "CALL"
+venue: "Malaspina Printmakers Society"
 summary: "Malaspina Printmakers Society | Submissions | DEC 11"
 ---
 

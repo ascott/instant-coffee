@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 2
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Poste Restante | APR 8"
 ---
 
@@ -40,7 +41,7 @@ the gallery for a recipient whose identity is unknown.
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free
 
 Objects are shaped by various encounters with systems of 

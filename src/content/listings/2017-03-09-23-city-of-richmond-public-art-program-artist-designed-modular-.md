@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 23
 type: ""
+venue: "City of Richmond Public Art Program"
 summary: "City of Richmond Public Art Program | Artist Designed Modular Seating | MAR 20"
 ---
 

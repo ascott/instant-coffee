@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 14
 type: ""
+venue: "Eco-Arts Salon"
 summary: "Eco-Arts Salon | Naomi Steinberg: ELEMENTAL | JUL 27"
 ---
 
@@ -25,7 +26,7 @@ about the elements (air, earth, water, fire, metal) as the metaphoric access poi
 for an intergenerational story-share and workshop series.
 
 During ELEMENTAL: earth extracts from community stories will be represented 
-in a cob â€˜storytellersâ€™ benchâ€™ to be built in Robson Park (13th and Kingsway). 
+in a cob ‘storytellers’ bench’ to be built in Robson Park (13th and Kingsway). 
 This site is an important geographic locater as it is part of a watershed from 
 which St. George Creek flows towards the False Creek Flats, networking with 
 many other underground streams along the way. The bench is in support of 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 18
 type: "CALL"
+venue: "Deer Crossing The Art Farm (Gibson)"
 summary: "Deer Crossing The Art Farm (Gibson) | The Foreshore Project | JUL 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 23
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Smart Tax Accounting for Artists | FEB 18"
 ---
 

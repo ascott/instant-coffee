@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 23
 type: ""
+venue: "PUSH"
 summary: "PUSH | SAD SACK, BY NIGHT | FEB 2"
 ---
 
@@ -15,9 +16,9 @@ Find respite from the mopey rigour of the winter months in an evening
 dedicated to the expression of West Coast melancholy.
 
 Curated by artist Vanessa Kwan, the evening features words and slide
-shows by former host of CBC radioâ€™s Nightlines, David Wisdom; a
+shows by former host of CBC radio’s Nightlines, David Wisdom; a
 discussion of â€œMy Melancholy Babyâ€  with radical psychoanalyst Andrew
-Feldmar, a hearbreaker of a set by Hello, Blue Roses (Destroyerâ€™s Dan
+Feldmar, a hearbreaker of a set by Hello, Blue Roses (Destroyer’s Dan
 Bejar with Sydney Vermont); and other surprises.
 A night to remember, mistily.
 

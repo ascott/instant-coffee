@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "ONLINE"
 summary: "ONLINE | When I look at the camera, I'm looking at you | 4PM | JAN 30"
 ---
 

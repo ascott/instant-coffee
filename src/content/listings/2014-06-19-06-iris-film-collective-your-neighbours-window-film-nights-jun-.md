@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 6
 type: ""
-summary: "Iris Film Collective | YOUR NEIGHBOURâ€™S WINDOW FILM NIGHTS | JUN 20"
+venue: "Iris Film Collective"
+summary: "Iris Film Collective | YOUR NEIGHBOUR’S WINDOW FILM NIGHTS | JUN 20"
 ---
 
 Iris Film Collective Presents
-YOUR NEIGHBOURâ€™S WINDOW FILM NIGHTS!
+YOUR NEIGHBOUR’S WINDOW FILM NIGHTS!
 June 20/21/22 2014, 9:30pm nightly, various locations.
 
 FREE outdoor film screenings in the Grandview-Woodland Neighbourhood 

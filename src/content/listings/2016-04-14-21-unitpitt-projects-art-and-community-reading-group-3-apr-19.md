@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 21
 type: "TALK"
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Art and Community Reading Group #3 | APR 19"
 ---
 

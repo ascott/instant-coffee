@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 20
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Panel Discussion on the Art of Jim Adams | APR 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 29
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Firehall Arts Centre | A History of Motown | AUG 6-17 | AUG 6"
 ---
 

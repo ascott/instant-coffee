@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: back into threads again"
 emailDate: "Thu, 11 Dec 2014 14:40:16 -0800"
 number: 14
 type: ""
+venue: "JOB"
 summary: "JOB | Powell Street Festival Society | Executive Director at Powell St. Festival Society | JAN 2"
 ---
 
@@ -11,9 +12,9 @@ JOB POSTING: Executive Director at Powell Street Festival Society
 
 ABOUT THE SOCIETY
 
-The Powell Street Festival Societyâ€™s (PSFS) mission is to cultivate
+The Powell Street Festival Society’s (PSFS) mission is to cultivate
 Japanese Canadian arts and culture to connect communities. Our main
-activity is producing the Powell Street Festival (PSF) in Vancouverâ€™s
+activity is producing the Powell Street Festival (PSF) in Vancouver’s
 historic Japanese Canadian neighbourhood. PSF is an annual celebration of
 Japanese Canadian arts and culture. Inaugurated in 1977, it is the largest
 event of its kind in Canada and the longest running community festival in
@@ -29,7 +30,7 @@ Director works with the Artistic Director, Administrative Assistant,
 bookkeeper, contract staff and volunteer committees. The Executive Director
 is committed to upholding and communicating the mission, vision, values and
 policies of the Powell Street Festival Society. This position oversees the
-Societyâ€™s operational, human resource, communications, and financial
+Society’s operational, human resource, communications, and financial
 planning and management, and community relations, advocacy and engagement.
 In addition to general administrative and managerial duties, the Executive
 Director is responsible for grant writing, sponsorship and donor
@@ -44,7 +45,7 @@ to connecting communities, while cultivating and supporting talented
 artists and cultural producers. The Executive Director will lead the
 organization in strengthening these objectives, as well as launch the
 Powell Street Festival Society into an era of diversification. The
-Executive Director will expand the Societyâ€™s community and public reach,
+Executive Director will expand the Society’s community and public reach,
 donor, membership and sponsorship profiles and strengthen community ties
 and partnerships. The Executive Director will help establish the Powell
 Street Society as a renowned community hub to engage with Japanese Canadian
@@ -69,12 +70,12 @@ Outreach Committee.
 * People resource planning and management:
 -- Oversees for the recruitment, management, and ongoing development of
 salaried and contract employees.
--- Provides direction to the Societyâ€™s volunteer strategy and program.
+-- Provides direction to the Society’s volunteer strategy and program.
 * Financial planning and management:
 -- Ensures the financial health of the organization.
 -- Responsible for writing and researching grants, and producing annual
 reports.
--- Responsible for overseeing all aspects of the Societyâ€™s budget,
+-- Responsible for overseeing all aspects of the Society’s budget,
 including annual forecasts and reporting to the Board of Directors.
 -- Works in conjunction with the Fundraising Committee to develop and
 achieve fundraising goals.
@@ -87,7 +88,7 @@ sponsorships and projects.
 * Risk management:
 -- Responsible for short and long term planning, and for informing the
 Board of Directors of potential risks and/or significant changes that
-impact the Societyâ€™s mission.
+impact the Society’s mission.
 * Communications planning and management
 -- Oversees and directs staff and volunteers in outreach, marketing and
 communications strategies related to the annual Powell Street Festival and
@@ -128,8 +129,8 @@ applications are encouraged, as we will evaluate and interview suitable
 candidates as applications are received.
 
 Applications will be accepted by email only. Please submit a resume and
-cover letter to gm@powellstreetfestival.com, with the subject heading â€˜PSFS
-Executive Director.â€™
+cover letter to gm@powellstreetfestival.com, with the subject heading ‘PSFS
+Executive Director.’
 
 No phone calls please. Visit www.powellstreetfestival.com for more information.
 

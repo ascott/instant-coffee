@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Small Gods"
 emailDate: "Mon, 27 Oct 2025 20:50:04 -0700"
 number: 9
 type: ""
+venue: "Paneficio Gallery"
 summary: "Paneficio Gallery | FIRSTS"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Rethink"
 emailDate: "Thu, 08 Oct 2020 08:20:05 -0700"
 number: 40
 type: "PERFORMANCE"
+venue: "Western Front"
 summary: "Western Front | Meredith Bates, Lief Hall, Josema Zamorano | OCT 24 | OCT 25"
 ---
 

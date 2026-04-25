@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: come mint meant breathe"
 emailDate: "Thu, 19 Feb 2009 10:50:12 -0800"
 number: 9
 type: ""
+venue: "Other Sights for Artists' Projects"
 summary: "Other Sights for Artists' Projects | PIPILOTTI RIST | til | FEB 22"
 ---
 

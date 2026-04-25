@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 25
 type: "EXHIBITION"
+venue: "UBC AHVA Gallery"
 summary: "UBC AHVA Gallery | Weird Flux | APR 18"
 ---
 

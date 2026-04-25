@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: utopia has that sinking feeling"
 emailDate: "Thu, 08 May 2008 07:40:24 -0700"
 number: 19
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | CALL: WHO WILL GIVE UP THEIR DISTINCTIONS?"
 ---
 

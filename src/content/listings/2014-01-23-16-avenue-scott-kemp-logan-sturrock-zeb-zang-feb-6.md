@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 16
 type: ""
+venue: "Avenue"
 summary: "Avenue | Scott Kemp, Logan Sturrock, Zeb Zang | FEB 6"
 ---
 

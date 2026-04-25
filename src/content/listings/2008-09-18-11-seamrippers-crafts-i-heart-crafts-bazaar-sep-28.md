@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: sometimes the wrong way is the rig
 emailDate: "Wed, 17 Sep 2008 20:35:29 -0700"
 number: 11
 type: ""
+venue: "seamrippers crafts"
 summary: "seamrippers crafts | I Heart Crafts Bazaar | SEP 28"
 ---
 

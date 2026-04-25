@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 10
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | PRINT READY: Dynamo Zine Exhibition | JAN 18"
 ---
 

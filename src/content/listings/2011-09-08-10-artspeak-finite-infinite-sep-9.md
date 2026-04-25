@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 10
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Finite + Infinite | SEP 9"
 ---
 
@@ -76,7 +77,7 @@ Panel Discussion
 November 10, 2011 at 7PM
 Iain Baxter&, David Bellman & Meirion Cynog Evans, Adam Lauder, 
 Mary Williams
-Djavad Mowafaghian Cinema, SFU Woodwardâ€™s, 149 West Hastings
+Djavad Mowafaghian Cinema, SFU Woodward’s, 149 West Hastings
 
 Exhibition Tour
 November 12, 2011 at 2PM
@@ -96,5 +97,5 @@ info@artspeak.ca
 
 Tel. 604.688.0051
 Fax 604.685.1912
-Tuesday â€“ Saturday, 12-5pm
+Tuesday – Saturday, 12-5pm
 Admission is free

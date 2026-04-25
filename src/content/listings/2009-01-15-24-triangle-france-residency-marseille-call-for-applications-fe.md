@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 24
 type: ""
+venue: "Triangle France residency (Marseille)"
 summary: "Triangle France residency (Marseille) | CALL FOR APPLICATIONS | FEB 1"
 ---
 

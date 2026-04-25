@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 13
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Toque Craft Fair | DEC 5"
 ---
 

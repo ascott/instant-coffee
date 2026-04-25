@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in the tradition of the now"
 emailDate: "Thu, 05 Mar 2009 08:55:15 -0800"
 number: 9
 type: ""
+venue: "ROBSON READING SERIES"
 summary: "ROBSON READING SERIES | A NIGHT OF GRITTY CAN LIT | MAR 12"
 ---
 

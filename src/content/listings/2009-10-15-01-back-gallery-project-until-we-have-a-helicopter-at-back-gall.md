@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it all adds up"
 emailDate: "Thu, 15 Oct 2009 08:05:40 -0700"
 number: 1
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Until We Have A Helicopter at Back Gallery Project | OCT 15"
 ---
 

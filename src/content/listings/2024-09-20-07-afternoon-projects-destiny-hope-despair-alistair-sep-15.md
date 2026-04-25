@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Destiny hope despair alistair | SEP 15"
 ---
 

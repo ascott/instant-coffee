@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 25
 type: ""
+venue: "VIVO Workshops"
 summary: "VIVO Workshops | SLAB 6 | CALL FOR PARTICIPATION | APR 26"
 ---
 
@@ -11,14 +12,14 @@ CALL FOR PARTICIPATION
 
 SLAB 6: Expanding the Theremin
 workshop | production | performance & exhibition
-April 26 â€“ May 26, 2012
+April 26 – May 26, 2012
 Cost: $150 + HST | Subsidized by VIVO
 
 Instructors: Rob Symmers, David Leith, Marlyn Chipman
 
 This workshop is a continuation of VIVO's previous Theremin 
 workshops, in which people built their own theremins and learned how 
-to play them. We now wish to expand the thereminâ€™s capabilities by 
+to play them. We now wish to expand the theremin’s capabilities by 
 interfacing it with various audio/visual devices, electronics, lights and 
 mechanics. Using the theremin's ability to produce both sound and 
 control voltages, the participants will create video and light imagery, 

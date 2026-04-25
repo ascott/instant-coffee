@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 28
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Works from Bryan Cathcart | APR 30"
 ---
 

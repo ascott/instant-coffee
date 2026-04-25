@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 6
 type: "TALK"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | Steven Brekelmans | 12PM | MAY 25"
 ---
 

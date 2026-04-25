@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 10
 type: ""
+venue: "Mapping and Marking Vancouver 2010"
 summary: "Mapping and Marking Vancouver 2010 | deadline | OCT 16"
 ---
 
@@ -42,7 +43,7 @@ artists are eligible. Independent curators or non-profit art organizations
 may also apply to work with one or more artists.
 Call for Expressions of Interest:
 http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf
-<file:///Â¥Â¥pdfÂ¥artistinitiated2010.pdf>
+<file:///¥¥pdf¥artistinitiated2010.pdf>
 
 ---
 You are currently subscribed to publicart-online as:

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 14
 type: ""
+venue: "DIM Cinema"
 summary: "DIM Cinema | Chick Strand: The Liberation of Cinema | FEB 28"
 ---
 
@@ -19,20 +20,20 @@ landscapes, and gestures. Influenced by west coast experimental filmmakers
 of the 1960s and 70s and her own education in anthropology and ethnography,
 Strand immersed her filmmaking in the joy of being with people. For 30
 years, she made films about the people and landscapes of California and
-Mexico. Ã¢ï¿½ï¿½To leave out the spirit of the people presents a thin tapestry of
+Mexico. â��To leave out the spirit of the people presents a thin tapestry of
 the culture, easy to rent, lacking in strength and depth. I want to know
 really what it is like to be a breathing, talking, moving, emotional,
-relating individual in the society.Ã¢ï¿½ï¿½ Strand also strove for intimacy with
+relating individual in the society.â�� Strand also strove for intimacy with
 her camera, keeping it close to her body and trusting her own weight and
 motion to persuade its gaze. Her physical intimacy with her subjects is
 evidenced in the dominance of close-ups. The resulting shallow depth of
 field creates kinetic compositions of horizons flattened against
 sun-stroked faces and cropped bodies in motion. Her appreciation of
 synchronicity, intuition and romance is also evident in her found-footage
-collages. Ã¢ï¿½ï¿½If poetry is the art of making evocative connections between
+collages. â��If poetry is the art of making evocative connections between
 otherwise dissimilar phenomena, then Chick Strand is a great poet, for
 these films transcend their material to create a surreal and sublime
-universe beyond reasonÃ¢ï¿½ï¿½ (Gene Youngblood).
+universe beyond reasonâ�� (Gene Youngblood).
 
 Programme Curated by Dominic Angerame and Canyon Cinema
 
@@ -54,6 +55,6 @@ __________________
 
 Amy Lynn Kazymerchyk
 Associate Programmer: DIM Cinema
-Pacific CinÃƒÂ©mathÃƒÂ¨que
+Pacific CinÃ©mathÃ¨que
 cinematheque.bc.ca
 dimcinema.ca

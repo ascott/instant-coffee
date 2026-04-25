@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 6
 type: ""
+venue: "Centre A"
 summary: "Centre A | Howie Tsui | MAY 28"
 ---
 

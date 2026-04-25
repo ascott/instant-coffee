@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 2
 type: ""
+venue: "New Documents"
 summary: "New Documents | available | Sad, Depressed, People by David Horvitz | NOV 22"
 ---
 

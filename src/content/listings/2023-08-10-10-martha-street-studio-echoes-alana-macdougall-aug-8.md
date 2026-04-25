@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "Martha Street Studio"
 summary: "Martha Street Studio | Echoes // Alana MacDougall | AUG 8"
 ---
 

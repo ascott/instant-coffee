@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 22
 type: ""
+venue: "Netherlands Film Academy Amsterdam"
 summary: "Netherlands Film Academy Amsterdam | Call for Applications: Master's Programme | APR 15"
 ---
 

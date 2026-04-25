@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 21
 type: "EDUCATION"
+venue: "Young Guns Studio"
 summary: "Young Guns Studio | [WORKSHOP] Urban Sketchbooking | 10AM | AUG 25"
 ---
 

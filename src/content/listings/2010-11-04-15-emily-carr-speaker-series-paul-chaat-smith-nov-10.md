@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 15
 type: ""
+venue: "Emily Carr Speaker Series"
 summary: "Emily Carr Speaker Series | Paul Chaat Smith | NOV 10"
 ---
 
@@ -17,9 +18,9 @@ Paul Chaat Smith is a Comanche author, essayist, and curator. His books and
 exhibitions focus on the contemporary landscape of American Indian politics
 and culture.
 
-Smith joined the Smithsonianâ€™s National Museum of the American Indian in
+Smith joined the Smithsonian’s National Museum of the American Indian in
 2001, where he currently serves as Associate Curator. His projects include
-the NMAIâ€™s history gallery, performance artist James Lunaâ€™s Emendatio at
+the NMAI’s history gallery, performance artist James Luna’s Emendatio at
 the 2005 Venice Biennial, Fritz Scholder: Indian/Not Indian (2008), and
 Brian Jungen: Strange Comfort (2009).
 
@@ -30,7 +31,7 @@ You Know about Indians Is Wrong, was published in 2009 by the University of
 Minnesota Press, and is now in its second printing.
 
 Appointed Critic in Residence three times in galleries in the U.S. and
-Canada, Smithâ€™s exhibitions and essays have explored the work of Richard
+Canada, Smith’s exhibitions and essays have explored the work of Richard
 Ray Whitman, Baco Ohama, Faye HeavyShield, Shelley Niro, Erica Lord, and
 Kent Monkman. He has lectured at the National Gallery of Art, Center for
 the Arts in San Francisco, and the Getty Center for the History of Art and

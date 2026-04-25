@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 7
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | taisha paggett: i believe in echoes | 7-9 | OCT 12"
 ---
 

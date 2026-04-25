@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 15
 type: ""
+venue: "714 Jackson"
 summary: "714 Jackson | CALL for Sooner or Later | AUG 1"
 ---
 
@@ -13,7 +14,7 @@ Later is an art show that feels like your things in the right place.
 Site-specific work is encouraged: wall space, shelving and various house
 features including door frames, window sills and nooks (for example) can be
 used to display your work. Placement of pieces in specific rooms (e.g.,
-bedrooms, bathrooms) will affect the feel of each artistâ€™s contribution and
+bedrooms, bathrooms) will affect the feel of each artist’s contribution and
 will be taken into consideration upon submission.
 
 Any medium is accepted, however three-dimensional work should be suited to

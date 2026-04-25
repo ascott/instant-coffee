@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffeed"
 emailDate: "Thu, 07 Feb 2008 09:20:25 -0800"
 number: 1
 type: ""
+venue: "ECI"
 summary: "ECI | artist talk: Hadley + Maxwell | FEB 7"
 ---
 

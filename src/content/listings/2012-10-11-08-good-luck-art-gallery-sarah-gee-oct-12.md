@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 8
 type: ""
+venue: "GOOD LUCK! Art Gallery"
 summary: "GOOD LUCK! Art Gallery | Sarah Gee | OCT 12"
 ---
 
@@ -44,7 +45,7 @@ Vancouver, British Columbia.
 It is our goal to provide an exciting retail space to connect young artists 
 with new collectors and appreciators. Rather than seeking donations 
 from the public, we promise to provide quality artwork at a reasonable 
-price. Consider it a â€˜mom and pop-up-shopâ€™ for art in Vancouver.
+price. Consider it a ‘mom and pop-up-shop’ for art in Vancouver.
 
 Foregoing the traditional models of an art gallery, Good Luck will 
 change the art on the walls daily, while keeping stock of everything we 

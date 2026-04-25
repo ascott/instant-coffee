@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 41
 type: "EVENT"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Happening #3: 1001 Fortunes | 2-5 PM | JAN 27"
 ---
 

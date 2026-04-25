@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 28
 type: "TALK"
+venue: "Centre A & Cinevolution"
 summary: "Centre A & Cinevolution | [ONLINE] Yen-Chao Lin | 6PM | SEP 25"
 ---
 

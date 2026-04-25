@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 21
 type: "EDUCATION"
+venue: "Monica Reyes Gallery"
 summary: "Monica Reyes Gallery | Annie Briard | APR 9"
 ---
 

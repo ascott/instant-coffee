@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 15
 type: ""
+venue: "On Main"
 summary: "On Main | camera/whore | JUL 14"
 ---
 
@@ -14,7 +15,7 @@ presents
 camera/whore
 ɔɐɯǝɹɐʍɥoɹǝ
 Saturday, July 14, 2012
-8 pm â€“ 2 am
+8 pm – 2 am
 Admission $5
 Gallery 1965
 1965 Main St. Vancouver, BC
@@ -120,7 +121,7 @@ http://www.grunt.ca/
 
 B R I N G　　 U R　　C A M E R A S
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2012 ON MAIN, All rights reserved. 
+Copyright © 2012 ON MAIN, All rights reserved. 
 You are receiving this email because you have subscribed to the ON 
 MAIN mailing list. 
 Our mailing address is: 

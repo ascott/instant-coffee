@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 3
 type: "EVENT"
+venue: "Portal Pop Up Gallery"
 summary: "Portal Pop Up Gallery | Russell Leng | FEB 25"
 ---
 

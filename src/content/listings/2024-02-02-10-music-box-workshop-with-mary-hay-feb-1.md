@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 10
 type: "EVENT"
+venue: "Music Box"
 summary: "Music Box | workshop with Mary Hay | FEB 1"
 ---
 

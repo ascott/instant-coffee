@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | Man Made Cloud by Carolina Franzen | APR 3"
 ---
 

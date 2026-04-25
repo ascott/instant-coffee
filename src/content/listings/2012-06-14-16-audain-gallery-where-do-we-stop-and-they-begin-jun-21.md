@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 16
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Where do we stop and they begin? | JUN 21"
 ---
 

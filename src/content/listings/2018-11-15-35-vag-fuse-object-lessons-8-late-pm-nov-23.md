@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 35
 type: "EVENT"
+venue: "VAG"
 summary: "VAG | FUSE: Object Lessons | 8 - Late PM | NOV 23"
 ---
 

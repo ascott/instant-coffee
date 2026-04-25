@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 7
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | 11am | Artist talk | OCT 7"
 ---
 

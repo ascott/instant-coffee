@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Delay your individuality"
 emailDate: "Thu, 29 Jun 2017 10:14:59 -0700"
 number: 8
 type: ""
+venue: "JOB"
 summary: "JOB | Mountain Standard Time Performance Art Festival | Production Director | JUN 30"
 ---
 

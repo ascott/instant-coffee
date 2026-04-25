@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 14
 type: ""
+venue: "The Otesha Project"
 summary: "The Otesha Project | seeking individuals for bicycle touring | MAY 1"
 ---
 
@@ -21,7 +22,7 @@ social justice.
 
 Expect to brave the elements, push your limits, experience communal 
 living, and maybe spontaneously craft up superhero costumes to bike 
-around in. Explore issues like renewable energy on Canadaâ€™s stunning 
+around in. Explore issues like renewable energy on Canada’s stunning 
 east coast, watershed sustainability along the shores of the Great 
 Lakes, and food security in the fertile fields of Ontario.
 
@@ -32,11 +33,11 @@ education, bike touring, camping, working with youth, and rocking
 stunning spandex shorts. 
 
 2012 Tours:
-Rising Tide Tour, Fredericton to Halifax, May 1st â€“ June 21st
+Rising Tide Tour, Fredericton to Halifax, May 1st – June 21st
 9 Day Pedal to Plate Tour, all ages, Ottawa Region, July 7th-15th
-Water Works Tour, Kitchener-Waterloo to Ottawa, Sept 1st â€“ October 
+Water Works Tour, Kitchener-Waterloo to Ottawa, Sept 1st – October 
 22nd
-Phenomenal Food Tour, Kitchener-Waterloo to Ottawa, Sept 1st â€“ 
+Phenomenal Food Tour, Kitchener-Waterloo to Ottawa, Sept 1st – 
 October 22nd
 
 Intrigued? Apply Today. First applied, first considered.

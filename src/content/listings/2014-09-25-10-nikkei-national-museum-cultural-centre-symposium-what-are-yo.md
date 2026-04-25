@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 10
 type: ""
+venue: "Nikkei National Museum & Cultural Centre"
 summary: "Nikkei National Museum & Cultural Centre | Symposium: What are You? What are We? | SEP 27"
 ---
 
@@ -36,8 +37,8 @@ Thanks also to the Vancouver Foundation, the Canada Council for the Arts
 1. Symposium: What are We? honouring nikkei identity - Saturday, September
 27, 2014 - 10am - 4pm.
 
-2. Followed by the Hip Hapa Hooray from 4pm â€“ 7pm. A celebration of the
-part asian, 100% hapa exhibit, and Hapa Palooza Festivalâ€™s
+2. Followed by the Hip Hapa Hooray from 4pm – 7pm. A celebration of the
+part asian, 100% hapa exhibit, and Hapa Palooza Festival’s
 (www.hapapalooza.com) inaugural community awards honouring Ann Makosinski,
 youth inventor of the hollow flashlight that runs on human heat and 2013
 Google Science Fair winner, Kip Fulbeck,US award-winning artist, activist,

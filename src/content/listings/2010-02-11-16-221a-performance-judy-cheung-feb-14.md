@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we'll keep the light on for you"
 emailDate: "Thu, 11 Feb 2010 10:30:16 -0800"
 number: 16
 type: ""
+venue: "221A"
 summary: "221A | Performance: Judy Cheung | FEB 14"
 ---
 

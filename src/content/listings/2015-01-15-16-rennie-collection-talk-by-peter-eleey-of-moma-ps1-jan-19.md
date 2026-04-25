@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 16
 type: "TALK"
+venue: "Rennie Collection"
 summary: "Rennie Collection | Talk by Peter Eleey of MoMA PS1 | JAN 19"
 ---
 
@@ -31,7 +32,7 @@ Lanigan-Schmidt, and Maria Lassnig. He also curated September 11, a group
 exhibition organized on the occasion of the tenth anniversary of the
 terrorist attacks in 2011, and oversaw MoMA PS1's expanded presentation of
 the Mike Kelley retrospective in 2013, which was the largest solo
-exhibition in the institutionÃ¢â‚¬â„¢s history. From 2007 through 2010, Eleey was
+exhibition in the institutionâ€™s history. From 2007 through 2010, Eleey was
 a curator at the Walker Art Center in Minneapolis, where he organized
 exhibitions with Trisha Brown and Goshka Macuga, along with the group shows
 The Quick and the Dead and The Talent Show. Before joining the Walker, he

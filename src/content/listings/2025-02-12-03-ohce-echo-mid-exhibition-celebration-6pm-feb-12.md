@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 3
 type: "EVENT"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | Mid Exhibition Celebration | 6PM | FEB 12"
 ---
 

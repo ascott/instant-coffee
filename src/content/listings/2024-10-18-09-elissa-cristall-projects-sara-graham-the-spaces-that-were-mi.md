@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 9
 type: "OPENING"
+venue: "Elissa Cristall Projects"
 summary: "Elissa Cristall Projects | Sara Graham THE SPACES THAT WERE MISSED HAVE BEEN | OCT 17"
 ---
 

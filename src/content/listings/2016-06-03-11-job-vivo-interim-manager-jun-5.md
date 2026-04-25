@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 11
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO | Interim Manager | JUN 5"
 ---
 

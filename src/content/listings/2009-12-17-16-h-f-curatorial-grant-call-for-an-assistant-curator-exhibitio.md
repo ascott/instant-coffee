@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a barrel of critically acclaimed e
 emailDate: "Thu, 17 Dec 2009 08:35:20 -0800"
 number: 16
 type: ""
+venue: "H + F Curatorial Grant"
 summary: "H + F Curatorial Grant | Call For An Assistant Curator / Exhibition Coordin | FEB 28"
 ---
 
@@ -13,12 +14,12 @@ H + F Curatorial Grant
 Call For An Assistant Curator / Exhibition Coordinator
 
 Application deadline: February 28, 2010
-FRAC Nord â€“ Pas de Calais (F),
+FRAC Nord – Pas de Calais (F),
 de Appel arts centre (NL),
 H + F Curatorial Grant
 
 The "H+F Curatorial Grant" is an ambitious and original initiative which
-allows the FRAC Nordâ€“Pas de Calais (Dunkirk/France) in close partnership
+allows the FRAC Nord–Pas de Calais (Dunkirk/France) in close partnership
 with the private collector Han Nefkens (H+F Collection) and the de Appel
 arts centre (Amsterdam/NL), to give young international curators the
 opportunity to participate in the development of exhibition projects based
@@ -58,7 +59,7 @@ Please send your application containing a recent CV (including a
 photograph) and a motivation letter before February 28th 2010 to:
 
 FRAC Nord-Pas de Calais
-930 avenue de RosendaÃ«l
+930 avenue de Rosendaël
 59240 Dunkerque (France)
 Tel. 03 28 65 84 20
 http://www.fracnpdc.fr

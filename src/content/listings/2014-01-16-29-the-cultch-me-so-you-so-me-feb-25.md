@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 29
 type: ""
+venue: "The Cultch"
 summary: "The Cultch | ME SO YOU SO ME | FEB 25"
 ---
 
-ME SO YOU SO ME: The Cultch presents Out Innerspace (Vancouver)â€™s Me So 
+ME SO YOU SO ME: The Cultch presents Out Innerspace (Vancouver)’s Me So 
 You So Me. Fueled by Japanese historical and pop culture, classical Indian tabla 
 rhythms and cartoons, this new work reveals projections of the self: through the 
 eyes of a partner, the dynamic of a couple, and the genre-defying music of 

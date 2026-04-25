@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 9
 type: ""
+venue: "SFU"
 summary: "SFU | The Conference On The Conference | MAR 4"
 ---
 
@@ -84,7 +85,7 @@ Panel 7/[In absentia]
 
 4:00 pm - Room TBA
 Panel 8/Respondent to panel on respond-ence. [ŅIs it possible to respond?
-The very idea of...Ã“]
+The very idea of...Ó]
 - Roger Farr
 - Am Johal
 - Reg Johanson

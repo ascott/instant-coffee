@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 17
 type: "OPENING"
+venue: "SFU Galleries"
 summary: "SFU Galleries | The Geometry of Knowing | JAN 14"
 ---
 
 The Geometry of Knowing
 
-Part 1: SFU Gallery, Burnaby, January 15 â€“ February 28, 2015
-Part 2: Audain Gallery, Vancouver, January 15 â€“ February 28, 2015
-Part 3: SFU Gallery, Burnaby, March 21 â€“ May 15, 2015
-Part 4: Audain Gallery, Vancouver, March 19 â€“ March 28, 2015
+Part 1: SFU Gallery, Burnaby, January 15 – February 28, 2015
+Part 2: Audain Gallery, Vancouver, January 15 – February 28, 2015
+Part 3: SFU Gallery, Burnaby, March 21 – May 15, 2015
+Part 4: Audain Gallery, Vancouver, March 19 – March 28, 2015
 
 Opening Reception and Event with Jeneen Frei Njootli and Kara Uzelman
 Wednesday, JAN 14, 2015, 7pm
@@ -29,7 +30,7 @@ space for innovative thinking and experimentation outside given frameworks.
 
 Many works in the exhibition engage hybrid forms of fieldwork, borrowing
 methodologies and tools from anthropology, hunting, marine navigation,
-chemistry, herbology and horticulture. For example, Kika Thorneâ€™s new
+chemistry, herbology and horticulture. For example, Kika Thorne’s new
 sculptural work, The Question of a Hunch, extends her ongoing interests in
 geometry, the visible spectrum and magnetism as a field upon which to
 project questions regarding chemical composition and its political
@@ -37,16 +38,16 @@ ramifications.
 
 Knowing through embodiment calls into play the geometry of sense
 perception, communication and collaboration between artists and physical
-enactments. For example, Carole Itterâ€™s 1979 photographic series, Euclid,
+enactments. For example, Carole Itter’s 1979 photographic series, Euclid,
 documents musician Al Neil tracing Euclidean geometric theorems in the sand
 at Cates Park in North Vancouver. These images were projected as part of a
-collaborative live performance with Al Neil on piano, used on Neilâ€™s Fog
+collaborative live performance with Al Neil on piano, used on Neil’s Fog
 and Boot album cover, as well as existing as photographic works in their
 own right.
 
 Manipulating materials, forms and images is a fundamental aspect of
 artistic production and transfigures how we experience, interpret and know
-the world. Camille Henrotâ€™s 2011 video, The Strife of Love in a Dream, for
+the world. Camille Henrot’s 2011 video, The Strife of Love in a Dream, for
 example, composes a visual atlas of strategies to conquer anxiety and fear
 through mythology, medicine, religion, art, ritual and tourism.
 
@@ -65,7 +66,7 @@ The exhibition includes work by over thirty Canadian and international
 artists across the first three parts, including works from the SFU Art
 Collection. The fourth component is constituted as an SFU School for
 Contemporary Arts visual arts course in which students respond to the
-exhibitionâ€™s theme.
+exhibition’s theme.
 
 Part 1: Derya Akay, Eli Bornowsky, Neil Campbell, Julia Feyrer, Lawren
 Harris, Roy Kiyooka, Michael Morris, Gordon Smith, Frank Stella, Takao
@@ -76,7 +77,7 @@ Jungen, David MacWilliam, N.E. Thing Co., Kara Uzelman, Brent Wadden. Part
 Devon Knowles, Evan Lee, Bruce Nauman, Hannah Rickards, Kika Thorne, Brent
 Wadden. Part 4: Students from the SCA
 
-Curated by Amy Kazymerchyk and Melanie Oâ€™Brian. Supported by a Project
+Curated by Amy Kazymerchyk and Melanie O’Brian. Supported by a Project
 Grant from the Canada Council for the Arts.
 
 Events

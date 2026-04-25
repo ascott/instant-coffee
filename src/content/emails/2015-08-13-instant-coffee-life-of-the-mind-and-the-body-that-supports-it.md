@@ -54,14 +54,14 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-08-13-01-grunt-gallery-arcticnoise-by-geronimo-inutiq-aka-madeskimo">01. OPENING | grunt gallery | ARCTICNOISE by Geronimo Inutiq (aka Madeskimo)</a>
 ------------------------------------------------------------------------
 ARCTICNOISE by Geronimo Inutiq (aka Madeskimo)
-Exhibition Dates: Aug 5 Ã¢â‚¬â€œ Aug 22
-Reception: August 17 (7Ã¢â‚¬â€œ10 pm)
-Location: grunt gallery, Unit 116 Ã¢â‚¬â€œ350 East 2nd Ave
+Exhibition Dates: Aug 5 â€“ Aug 22
+Reception: August 17 (7â€“10 pm)
+Location: grunt gallery, Unit 116 â€“350 East 2nd Ave
 
 URL: http://grunt.ca/exhibitions/arctic-noise/
 
 Join us on Monday, August 17th for the reception of ARCTICNOISE at 
-grunt gallery (7Ã¢â‚¬â€œ10pm). This exhibition runs from August 5 to 22 and 
+grunt gallery (7â€“10pm). This exhibition runs from August 5 to 22 and 
 is presented in collaboration with Ethnographic Terminalia and the 21st 
 International Symposium on Electronic Arts (ISEA). grunt gallery is 
 excited to co-present an exhibition, panel, workshop and a 
@@ -72,14 +72,14 @@ EXHIBITION INFO:
 ARCTICNOISE is a media installation by Geronimo Inutiq (madeskimo) 
 that draws on archival film footage and sound materials sourced from 
 the Isuma Archive at the National Gallery of Canada, as well as sound 
-and film materials from the artistÃ¢â‚¬â„¢s personal collection and other 
+and film materials from the artistâ€™s personal collection and other 
 ethnographical material. Conceived as an Indigenous response to 
-Glenn GouldÃ¢â‚¬â„¢s celebrated composition Ã¢â‚¬Å“The Idea of the NorthÃ¢
-â‚¬ , Inutiq will appropriate GouldÃ¢â‚¬â„¢s piece as a musical score, paired 
+Glenn Gouldâ€™s celebrated composition â€œThe Idea of the Northâ
+€ , Inutiq will appropriate Gouldâ€™s piece as a musical score, paired 
 with new voices and imagery to produce a layered
 and multi-vocal work.
 
-The project folds into InutiqÃ¢â‚¬â„¢s larger practice of his alter-ego,
+The project folds into Inutiqâ€™s larger practice of his alter-ego,
 madeskimo, that draws on the use of instruments, and digital and 
 analogue synthesizers, as well as the remixing and processing of 
 samples from a large variety of sourcesÃ¢â‚¬â€  including traditional Inuit, 
@@ -103,17 +103,17 @@ Facebook Event:
 https://www.facebook.com/events/1451774958462409/
 -
 
-ARCTICNOISE: Related Programming Ã¢â‚¬â€œ
+ARCTICNOISE: Related Programming â€“
 
 Aug 15: WORKSHOP | Terminus: Archives, Ephemera, and Electronic 
-Art @VIVO Ã¢â‚¬â€œ
+Art @VIVO â€“
 https://www.facebook.com/events/691121607686882/
 
 Aug 15: PERFORMANCE | Geronimo Inutiq at FUSE/DISTURBANCE 
-Ã¢â‚¬â€œ
+â€“
 https://www.facebook.com/events/1462623120725769/
 
-Aug 19: PANEL | ARCTICNOISE: DIALOGUES Ã¢â‚¬â€œ
+Aug 19: PANEL | ARCTICNOISE: DIALOGUES â€“
 https://www.facebook.com/events/1615533645402945/
 
 ------------------------------------------------------------------------
@@ -138,13 +138,13 @@ http://performance.gruntarchives.org/video-on-loving-and-longing.html#lightbox
 
 About the Project:
 Over the past three years, Alex Pimm has been overseeing the maintenance
-and archiving of grunt's collection of video documentation â€“ recordings of
+and archiving of grunt's collection of video documentation – recordings of
 performances, installations and various accompanying material that date
-back to gruntâ€™s first days. Pimm's selections emphasize grunt's extensive
-history of creating relationships between diverse communities â€“ including
+back to grunt’s first days. Pimm's selections emphasize grunt's extensive
+history of creating relationships between diverse communities – including
 local and international artists, First Nations artists and LGBTQ artists.
 
-grunt gallery will release a new video every Tuesday from July 21 â€“ August
+grunt gallery will release a new video every Tuesday from July 21 – August
 25, visit the 30th Anniversary Tumblr.
 
 About the 30th Anniversary
@@ -268,12 +268,12 @@ by creating palimpsestic clay moulds.
 Other works critically assess the aesthetic contexts in which objects are
 situated. ROULA PARTHENIOU's sculptures make overt references to
 commonplace things, but their operations are far more subtle; for they rely
-on their audienceÃ¢â‚¬â„¢s acquired familiarity with consumer culture in order for
+on their audienceâ€™s acquired familiarity with consumer culture in order for
 their representations to be seen. JASON MCLEAN's collaborative sculpture
 with SCOTT LAWRENCE functions cleverly as a visual double entendre.
 VANESSA BROWN's flat panels fuse picture and sculpture, and the objects
 depicted in them are derived surrealistically from dream-activated visual
-fields. BARRY DOUPE explores the various forms Ã¢â‚¬Å“a lineÃ¢â‚¬ can take, and how
+fields. BARRY DOUPE explores the various forms â€œa lineâ€ can take, and how
 its elasticity and transformability can be employed to express a vast range
 of emotional states.
 
@@ -375,7 +375,7 @@ SFU Woodwards.
 
 ART PROGRAM
 
-Join us from August 14 â€“ 19 for the 21st International Symposium on 
+Join us from August 14 – 19 for the 21st International Symposium on 
 Electronic Art (ISEA2015). 
 
 Over the course of six days, over 450 speakers will present workshops, 
@@ -459,9 +459,9 @@ A UC Berkeley Department of Art Practice Wiesenfeld Visiting Artist Lecture
 
 Proposal Deadline: 11:59 PM, August 14th, 2015
 Decision Announced: August 21st, 2015
-Date of Lecture: To Be Determined, February â€“ April, 2016
+Date of Lecture: To Be Determined, February – April, 2016
 Where: UC Berkeley Campus
-Presenterâ€™s Honorarium: $750
+Presenter’s Honorarium: $750
 Presentation Budget: $250
 Submission materials: 300 word proposal, 5 images or links, image
 description, travel plans, CV/website
@@ -498,15 +498,15 @@ historical situation within an interim of crisis and flux. In a period of
 social, political, industrial and environmental impasse, broad and 
 diverse groups of people have been formally committed to a haphazard 
 exploration of un/de-regulated interstices of the physical and the virtual 
-in hopes of finding work-arounds, new grades of pay dirtâ€”and perhaps 
+in hopes of finding work-arounds, new grades of pay dirt—and perhaps 
 even the odd revolutionary silver bullet.
 
 In over 40 years of existence, VIVO has aspired to foster, whenever 
 possible, the space of tenuous creative exploration that is traced out by 
-ISEAâ€™s thematics. Often, such space issues forth prototypes with spiky 
+ISEA’s thematics. Often, such space issues forth prototypes with spiky 
 cyberpunk physicality: clunky, not yet streamlined, grotesque, speckled 
 with the historically residual. Several of the works featured at VIVO are 
-deliberately rudimentaryâ€”playful but also underdetermined to the end 
+deliberately rudimentary—playful but also underdetermined to the end 
 of making much space for their interlocutors. Both work and platform, 
 they are typically simple and crude metaphors and metonyms that 
 nonetheless touch on profound questions of subjecthood and 
@@ -516,7 +516,7 @@ Ongoing installation works:
 
 We Are With You
 Brady Marks
-An intrinsic quality of a two-dimensional image is itâ€™s single point of 
+An intrinsic quality of a two-dimensional image is it’s single point of 
 view. Much of visual art has struggled against this flatness, most 
 successfully in sculpture, film and mixed media. However, recent 3D 
 Film/TV (stereoscopic displays) have failed to add a significant point of 
@@ -548,8 +548,8 @@ Three Hollywood Grammars: Conversation, Chase, Shootout
 Angela Ferraiolo
 Three Hollywood Grammars is a computational video made by 
 deconstructing three classic scenes from Hollywood cinema: the A/B 
-walk-and-talk conversation essential to police procedurals, the â€˜mano Ã  
-manoâ€™ shootout of neo-noir thrillers, and the gritty urban chase scene of 
+walk-and-talk conversation essential to police procedurals, the ‘mano à 
+mano’ shootout of neo-noir thrillers, and the gritty urban chase scene of 
 70s Hollywood realism. Each of these iconic cinematic patterns was 
 deconstructed, edited, color graded, and exported as single frames. 
 For exhibition, these frames are then reconfigured through the use of 
@@ -568,7 +568,7 @@ Angela Ferraiolo is an experimental videomaker working with noise,
 randomness, and generative processes. Her work has been screened 
 at galleries and festivals nationally and internationally, including 
 Microscope Gallery (Bushwick), New York Film Festival (New York), 
-Courtisane (Ghent), AWXFF (New York), CollectÃ¬f Jeune Cinema 
+Courtisane (Ghent), AWXFF (New York), Collectìf Jeune Cinema 
 (Paris), and the Australian Experimental Film Festival (Melbourne), as 
 well as the International Conference of Generative Art (Rome), and the 
 International Conference of Computer Graphics, Imaging and 
@@ -594,12 +594,12 @@ the forms of mechanical amplification on display and it describes the
 situation of the piece itself as a platform for multiple experiences of 
 gain staging.
 
-Ed Osbornâ€˜s sound art pieces take many forms including installation, 
+Ed Osborn‘s sound art pieces take many forms including installation, 
 sculpture, radio, video, performance, and public projects. His works 
 combine a visceral sense of space, aurality, and motion with a precise 
 economy of materials. Ranging from rumbling fans and sounding train 
 sets to squirming music boxes and delicate feedback networks, 
-Osbornâ€™s kinetic and audible pieces function as resonating systems 
+Osborn’s kinetic and audible pieces function as resonating systems 
 that are by turns playful and oblique, engaging and enigmatic. Osborn 
 has performed, exhibited, and lectured, and held residencies 
 throughout the United States, Canada, Europe, Australia, New 
@@ -653,10 +653,10 @@ domain of the flesh.
 Tom Slater is an artist and researcher who works with digital media and 
 physical computing to build immersive audiovisual environments. 
 Currently a director of Call & Response and PhD researcher at 
-University College Falmouth, Tomâ€™s creative practice revolves around 
+University College Falmouth, Tom’s creative practice revolves around 
 how sound and image producing technologies affect our understanding 
 of spatial dis/embodiment.
-Jeremy Keenanâ€˜s practice has manifested as sonic art, music, 
+Jeremy Keenan‘s practice has manifested as sonic art, music, 
 multichannel sound, and immersive performance. His current line of 
 practice surrounds ideas of feedback, the reconfiguration of familiar 
 audio tools like speakers and microphones, and the communicative 
@@ -668,8 +668,8 @@ to the anthropologist of the same name.
 
 Addendum to Coincidence Engines
 Emmanuel Madan
-The piece is part of Madanâ€™s ongoing engagement as part of the 
-MontrÃ©al-based collective [The User] with the ideas of GyÃ¶rgy Ligeti 
+The piece is part of Madan’s ongoing engagement as part of the 
+Montréal-based collective [The User] with the ideas of György Ligeti 
 surrounding determinacy and indeterminacy in complex mechanical 
 systems. The performer selects from a large pool of ostensibly identical 
 clocks, placing these on one of several metal surfaces to which contact 
@@ -684,10 +684,10 @@ Approximate
 demarcator of constellations in other cosmos.
 
 Emmanuel Madan is a composer, sound artist, and curator based in 
-MontrÃ©al. He studied electro-acoustic composition in the early 1990s 
+Montréal. He studied electro-acoustic composition in the early 1990s 
 under the direction of Francis Dhomont. He then spent five years 
 working in community radio broadcasting as an engineer, journalist, 
-and producer. Since 1998, Madanâ€™s main focus has been an artistic 
+and producer. Since 1998, Madan’s main focus has been an artistic 
 collaboration with architect Thomas McIntosh known by the name [The 
 User]. To date, this duo has produced three major projects: Symphony 
 for dot matrix printers, Silophone, and Coincidence Engines. 
@@ -766,12 +766,12 @@ This Year: will become known once the poos emerge from the ghost's anal jungle.
 ------------------------------------------------------------------------
 ATTENTION REBEL ARTISTS!
 
-VancouverÃ¢â‚¬â„¢s Performance Art Celebration, the LIVE International 
+Vancouverâ€™s Performance Art Celebration, the LIVE International 
 Performance Art Biennale offers a new opportunity for emerging artists 
 to participate in a unique mentorship/workshop with the infamous 
-transÃ¢â‚¬â€œart superÃ¢â‚¬â€œgroup La Pocha Nostra!
+transâ€“art superâ€“group La Pocha Nostra!
 
-This oneÃ¢â‚¬â€œtime mentorship/workshop is taking place September 20 to 
+This oneâ€“time mentorship/workshop is taking place September 20 to 
 23, and culminates with a grand spectacle on September 23 to open 
 LIVE 2015. Up to 12 artists will be selected by La Pocha Nostra from 
 submissions. There is NO CHARGE for participation. If selected, LIVE 
@@ -900,7 +900,7 @@ a corporate meme, in which disruption connects equally to rupture and
 faux-utopian progress. In the video the artist is shown working in a studio
 environment to create a handmade blue sky.
 
-Kubrick or KorineÃ¢â€žÂ¢ (Alex Munt and Justin Harvey) launches a TV channel
+Kubrick or Korineâ„¢ (Alex Munt and Justin Harvey) launches a TV channel
 conceived for cultural producer, icon and visual artist James Franco. Part
 project and part product, 24 Hour Franco encases the Hollywood image-flow
 within avant-garde form and speaks to the comingling of art and celebrity
@@ -922,13 +922,13 @@ states of human affect as tradable commodities, "investing" in emotions
 such as anger, joy, disgust and amazement. It then links these emotions
 with actual stocks to make investments using a simulated brokerage account.
 
-Andres WannerÃ¢â‚¬â„¢s Signature Strokes is a series of performative interventions
+Andres Wannerâ€™s Signature Strokes is a series of performative interventions
 in which a remotely controlled drone paints ephemeral graffiti in public
 space. The title is a play on signature strikesÃ¢â‚¬â€ drone killings based on
 suspicious behavioural patterns thought to be signatures of terrorists.
 
 Taking up notions of fragments and nostalgia, By the Road is a sound
-sculpture created by BjÃƒÂ¸rn Erik Haugen. The soundtracks consist of the
+sculpture created by BjÃ¸rn Erik Haugen. The soundtracks consist of the
 sound from car chases in famous movies translated into death metal music.
 
 During the evening, FUSE-goers can also see the following exhibitions:
@@ -962,8 +962,8 @@ part of the International Symposium on Electronic Art (ISEA) 2015.
 Maraya: Sisyphean Cart is an exhibition and performance work by 
 Vancouver-based media artists M. Simon Levin and Henry Tsang and 
 cultural theorist/writer Glen Lowry. Maraya: Sisyphean Cart is a mobile 
-â€˜sousveillanceâ€™ cart that conducts a site-specific participatory spatial 
-investigation of Vancouverâ€™s False Creek and the Dubai Marina. The 
+‘sousveillance’ cart that conducts a site-specific participatory spatial 
+investigation of Vancouver’s False Creek and the Dubai Marina. The 
 project premiered at the 20th ISEA in Dubai in November 2014, and 
 completes its second leg for ISEA 2015 in Vancouver. Read more 
 about the project.
@@ -994,8 +994,8 @@ ISEA2015
 press release
 
 On Main Gallery presents MIMMiC: Disruption at ISEA2015, a three-
-day exhibition and artistÃ¢â‚¬â„¢s demos that includes the premiere of Paul 
-WongÃ¢â‚¬â„¢s Wave Cycle and three works-in-progress by Evann 
+day exhibition and artistâ€™s demos that includes the premiere of Paul 
+Wongâ€™s Wave Cycle and three works-in-progress by Evann 
 Siebens, Sammy Chien and Adam Myhill & Christine Wallace. All these 
 works have been commissioned using MIMMiC. Aug 16-18, Room 
 2345, Simon Fraser University, Goldcorp Centre for the Arts.
@@ -1013,8 +1013,8 @@ making.
 https://www.youtube.com/watch?v=PTuczx8LGJg
 
 MIMMiC: Disruption August 16-18, 2015
-On exhibit will be Paul WongÃ¢â‚¬â„¢s Wave Cycle (2015), images and 
-sounds of crashing water recorded on BCÃ¢â‚¬â„¢s wild West Coast. 
+On exhibit will be Paul Wongâ€™s Wave Cycle (2015), images and 
+sounds of crashing water recorded on BCâ€™s wild West Coast. 
 Participants are encouraged to touch the screens using 1 to 4 finger 
 gestures: taps, strokes, and swipes to interact with the artwork. Daily 
 exhibition 2-5pm Wave Cycle.
@@ -1030,7 +1030,7 @@ Wallace with Wong/Daggitt.
 
 Evann Siebens work is a response to gesture, the point of contact 
 between the user and the interface of MIMMiC. The production 
-involves three generations of womenÃ¢â‚¬â„¢s hands communicating 
+involves three generations of womenâ€™s hands communicating 
 through touch.
 
 Sammy Chien will be directing a new media performance inspired from 
@@ -1047,7 +1047,7 @@ form. Cinematically composed shots of Wallace, an award-winning
 female bodybuilder, will test our conceptions of touch, consent, gender, 
 and strength.
 
-ISEA is one of the worldÃ¢â‚¬â„¢s most prominent international arts and 
+ISEA is one of the worldâ€™s most prominent international arts and 
 technology events, bringing together scholarly, artistic, and scientific 
 domains in an interdisciplinary discussion and showcase of creative 
 productions applying new technologies in art, interactivity, and 
@@ -1057,7 +1057,7 @@ in the thousands. The symposium consists of a conference, exhibitions,
 and eventsÃ¢â‚¬â€ from large scale interactive art to cutting edge electronic 
 music performance.
 
-ISEA2015Ã¢â‚¬â„¢s theme of DISRUPTION invites a conversation about 
+ISEA2015â€™s theme of DISRUPTION invites a conversation about 
 the aesthetics of change, renewal, and game-changing paradigms. We 
 look to raw bursts of energy, reconciliation, error, and the destructive 
 and creative forces of the new. Disruption contains both blue sky and 
@@ -1069,8 +1069,8 @@ technologists hack and subvert to rebuild.
 
 In the last four years ISEA in Istanbul, Albuquerque, New Mexico, 
 Sydney, Australia, and Dubai. ISEA2015 marks its return to Canada, 
-since the groundbreaking first Canadian ISEA1995 in MontrÃƒÂ©al. The 
-Symposium will be at the WoodwardÃ¢â‚¬â„¢s campus of Simon Fraser 
+since the groundbreaking first Canadian ISEA1995 in MontrÃ©al. The 
+Symposium will be at the Woodwardâ€™s campus of Simon Fraser 
 University, with events at Vancouver Art Gallery, Emily Carr University 
 and other sites. http://isea2015.org/
 
@@ -1155,7 +1155,7 @@ are available for pre-order now and ship in late September. To celebrate, our
 entire catalogue is also 20% off through August 17!
 
 Jon Rafman: Nine Eyes employs a new approach to the strategy of artistic 
-appropriation, extracting screenshots from Google Street Viewâ€™s vast online 
+appropriation, extracting screenshots from Google Street View’s vast online 
 archive to create singular photographs that range from the lyrical to the abject. 
 The book includes essays by Kate Steinmann, Joanne McNeil, Sohrab 
 Mohebbi, Gabrielle Moser, and Jon and Sandra Rafman.
@@ -1166,8 +1166,8 @@ ISBN: 978-1-927354-17-9
 
 Seth and Sheila Stayed Behind pairs a short story by writer Sheila Heti with 
 photographs by Seth Fluker. â€œSethâ€  and â€œSheilaâ€  are the main characters of 
-Hetiâ€™s abstract narrative of longing and transition, one which sets the stage for 
-Flukerâ€™s photographs of a wintry Toronto landscape filled with 
+Heti’s abstract narrative of longing and transition, one which sets the stage for 
+Fluker’s photographs of a wintry Toronto landscape filled with 
 anthropomorphized automobiles and embankments of dirty snow. 
 
 $35 $28
@@ -1175,8 +1175,8 @@ $35 $28
 ISBN: 978-1-927354-22-3
 
 David Horvitz: Mood Disorder documents the propagation of a photograph of 
-David Horvitz across the Internet. The imageâ€”a self portrait of the artist with 
-his head in his hands, ocean waves crashing in the backgroundâ€”was initially 
+David Horvitz across the Internet. The image—a self portrait of the artist with 
+his head in his hands, ocean waves crashing in the background—was initially 
 uploaded to the Wikimedia Commons and placed on various Wikipedia pages. 
 From there, the image began to circulate, appearing on over a hundred 
 websites as a â€œstockâ€  photo to illustrate articles on a wide range of mental 
@@ -1254,13 +1254,13 @@ Naz Shahrokh, On the Road (be fekret hastam) (United Arab Emirates,
 2013 6:40)
 
 Live Cinema Performance (30 minutes)
-VJ Um Amel with Fadi Z. Sakr, Ã¢â‚¬Å“From Cairo to Gaza: Mobilizing the 
-Body PoliticÃ¢â‚¬
+VJ Um Amel with Fadi Z. Sakr, â€œFrom Cairo to Gaza: Mobilizing the 
+Body Politicâ€
 
 These works identify patterns of information that lie below visible and
 audible thresholds and bring them into perception. They are alert to
 seemingly random patterns that, when organized into information, can 
-be rendered audiovisually. MoirÃƒÂ© patterns, shadow puppets, analog 
+be rendered audiovisually. MoirÃ© patterns, shadow puppets, analog 
 video decay, surveillance technology, and other media collect and give 
 shape to disavowed histories and the voices of the earth. In some 
 cases these acts of translation permit a heightened political analysis. In 
@@ -1310,10 +1310,10 @@ worked for companies such as Sony Pictures Imageworks (Los
 Angeles and Vancouver), Framestore (London), Weta Digital (New 
 Zealand) and MPC (Vancouver), with a filmography including three 
 Best Visual Effects Academy Award winners and one in selection: 
-James Cameronâ€™s Avatar, Christopher Nolanâ€™s The Dark Knight, Life of 
+James Cameron’s Avatar, Christopher Nolan’s The Dark Knight, Life of 
 Pi, and Superman: Man of Steel.
 
-As a solo artist, David's work includes a 13-Â­part series of short 
+As a solo artist, David's work includes a 13-­part series of short 
 documentary pieces mapping his transcontinental journey, offering 
 unique insight on links between geopolitics and the spiritual in Asia and 
 the Middle East. He has taught his skills amongst schools in Canada, 
@@ -1337,7 +1337,7 @@ Compelling stories about collisions between art & science will be brought
 to you by:
 
 - Emily Smith, Textile Artist |Learning with fiber
-- Graham With, Brewmaster at Parallel 49 | Science with senses â€“ the
+- Graham With, Brewmaster at Parallel 49 | Science with senses – the
 science of brewing
 - Laura Ulrich, Biological illustrator/animator in training |Finding a
 balance between art, science, and sharing knowledge
@@ -1352,7 +1352,7 @@ art show!
 
 When: 8:00pm on Wednesday, August 19, 2015. Door opens at 7:30pm.
 
-Where: CafÃ© Deux Soleils. 2096 Commercial Drive, Vancouver, BC.
+Where: Café Deux Soleils. 2096 Commercial Drive, Vancouver, BC.
 
 Cost: $6.00 cover at the door. Proceeds will be used to cover the cost of
 running this event, and to fund future Curiosity Collider events
@@ -1370,46 +1370,46 @@ Roedde House Museum
 1415 Barclay Street (corner of Broughton), Vancouver, BC
 
 On August 19th, Roedde House Museum launches a new exhibition on 
-the origins of Vancouver tourism and travel. Ã¢â‚¬Å“Souvenirs of Howe 
-Sound: A History of Local TourismÃ¢â‚¬ traces the rise of well-known 
+the origins of Vancouver tourism and travel. â€œSouvenirs of Howe 
+Sound: A History of Local Tourismâ€ traces the rise of well-known 
 Howe Sound getaways such as Bowen Island, Horseshoe Bay, and the 
-Sunshine Coast, in the context of VancouverÃ¢â‚¬â„¢s colonization and 
+Sunshine Coast, in the context of Vancouverâ€™s colonization and 
 urbanization. Narrated through historical photographs and promotional 
 posters of Howe Sound from the early to mid-twentieth century, the 
 exhibition captures the sense of wonder that early settlers experienced 
-travelling up BCÃ¢â‚¬â„¢s stunning coastline and invites reflection on what 
+travelling up BCâ€™s stunning coastline and invites reflection on what 
 it means to view the landscape as a tourist.
 
 Pioneer businesses such as the Union Steamship and Terminal 
 Steamship companies played a large role in the tourist industry by 
-creating impressions of British Columbia as a Ã¢â‚¬Å“pristine wildernessÃ¢
-â‚¬ preserved for the enjoyment of modern, Ã¢â‚¬Å“civilizedÃ¢â‚¬ travellers. 
+creating impressions of British Columbia as a â€œpristine wildernessâ
+€ preserved for the enjoyment of modern, â€œcivilizedâ€ travellers. 
 Such depictions erased indigenous presence and relied on a vision of 
 the land as uninhabited. The Roeddes, a pioneering West End family, 
 were present during this pivotal moment in the emergence of modern 
 tourism in British Columbia, and often enjoyed excursions around 
 Vancouver and Howe Sound themselves.
 
-Ã¢â‚¬Å“By sharing the history of tourism in Vancouver, I hope the 
+â€œBy sharing the history of tourism in Vancouver, I hope the 
 exhibition can offer locals and visitors alike a new way of thinking about 
 our contemporary attitudes and practices towards land, leisure, and 
-travel,Ã¢â‚¬ says exhibition curator Racan Souiedan. The tradition of 
+travel,â€ says exhibition curator Racan Souiedan. The tradition of 
 marketing Vancouver as a wild and rugged nature destination has a 
 lasting legacy. In the most recent Regional Tourism Profile done by 
 Destination BC, sightseeing, nature and wildlife viewing placed as the 
-number one activities. With the cityÃ¢â‚¬â„¢s close proximity to beautiful 
-natural spaces, itÃ¢â‚¬â„¢s no wonder that the origins of VancouverÃ¢â‚¬â„¢s 
+number one activities. With the cityâ€™s close proximity to beautiful 
+natural spaces, itâ€™s no wonder that the origins of Vancouverâ€™s 
 tourism industry lie in discovery and adventure rather than urbanization 
 and development.
 
 The exhibit will feature various promotional materials from the Union 
-and Terminal Steamship Companies from the 1920s Ã¢â‚¬â€œ 1950s; 
+and Terminal Steamship Companies from the 1920s â€“ 1950s; 
 postcards and photographs from the early days of Vancouver tourism; 
 Roedde Family photos and memories of summers spent at Horseshoe 
 Bay; and accounts from Pauline Johnson (Tekahionwake) and Chief 
 Joe Capilano.
 
-Ã¢â‚¬Å“Souvenirs of Howe SoundÃ¢â‚¬ will have a special launch event and 
+â€œSouvenirs of Howe Soundâ€ will have a special launch event and 
 open reception on Wednesday, August 19th from 5:00pm to 7:00pm. 
 SFU History Professor, Dr. Jack Little will give a presentation: 'Views 
 from the Deck: Union Steamship Cruises on Canada's Pacific Coast, 
@@ -1417,15 +1417,15 @@ from the Deck: Union Steamship Cruises on Canada's Pacific Coast,
 
 About Roedde House Museum
 Roedde House Museum is a restored Victorian mansion in the West 
-End that was once home to one of VancouverÃ¢â‚¬â„¢s first bookbinders 
+End that was once home to one of Vancouverâ€™s first bookbinders 
 and printers. Today, the museum is both a cultural events venue and a 
 fully interactive site where visitors can explore the house and see what 
 life was like for a middle-class family in the late 1800s.
 
 Location: Roedde House Museum: 1415 Barclay Street (corner of 
 Broughton), Vancouver, BC Dates and times: Exhibition runs 
-Wednesday August 19th Ã¢â‚¬â€œ Sunday November
-1st. Museum hours: Tuesday Ã¢â‚¬â€œ Friday 1:00-4:00pm, Sunday 1:00-
+Wednesday August 19th â€“ Sunday November
+1st. Museum hours: Tuesday â€“ Friday 1:00-4:00pm, Sunday 1:00-
 4:00pm. Admission: $5
 
 More info: www.roeddehouse.org | 604-684-7040 | 
@@ -1457,13 +1457,13 @@ SLOW EDITIONS.
 
 Lauren rice is an artist based in Vancouver. She received a BA from the 
 University of British Columbia and in 2013 was a guest student of Lucy 
-McKenzie at the DÃ¼sseldorf Kunstakademie. 
+McKenzie at the Düsseldorf Kunstakademie. 
 
 Agnes Scherer is a german artist and cultural scientist. Born 1985, she 
 grew up in a rural Bavarian region where music events for young 
 people are still called "Beat Nights". She studied art history, 
-archaeology, cultural anthropology, sociology and fine art in TÃ¼bingen, 
-Vienna and DÃ¼sseldorf. Currently she is working on an operetta project 
+archaeology, cultural anthropology, sociology and fine art in Tübingen, 
+Vienna and Düsseldorf. Currently she is working on an operetta project 
 in Scotland. 
 
 Sojourner Truth Parsons is getting older and isn't so thrilled about it. 
@@ -1498,7 +1498,7 @@ The Maillardville Cultural Appreciation Society is pleased to present an
 exhibition by Stephan Wright. Through personal narratives, classical 
 literature and philosophical texts Wright creates sculptural works that 
 address the nuances of non-being and persona. Often addressing a 
-tension between the body and architecture Wrightâ€™s work alters the 
+tension between the body and architecture Wright’s work alters the 
 method of navigating space within the gallery through various 
 sculptural extrusions in the space itself. In this exhibition works are 
 primarily composed of scavenged material organized into a large scale 
@@ -1522,12 +1522,12 @@ Open Call for Laundry, Writers, and Readers
 Reading between the clotheslines
 
 Consider the line(s) as a horizon. This is an open invitation to read in an
-imagined underwater space marked by 3 clotheslinesâ€”a liminal space between
+imagined underwater space marked by 3 clotheslines—a liminal space between
 multiple horizons, and states of wet and dry. 
 
 This is an open call for laundry, sheets, shirts, socks, skirts, etc. to be
 washed and hung on the lines, and poetry to be read in between them. If
-youâ€™re interested in submitting laundry or reading at the event, email:
+you’re interested in submitting laundry or reading at the event, email:
 christianvistan@gmail.com for laundry collection. 
 
 Laundry Pick-Up
@@ -1566,9 +1566,9 @@ Notik Masowan?, Frederick Cummings, 4:49
 Woa Enjelsch, Kandis Friesen, 8:04
 Happy Profiling, Wassan Ali, 4:30
 spuren legen_verwehen, lann hornscheidt & laYla zami, 12:31
-Quâ€˜est-ce que Ã§a veut dire?, kimura byol-nathalie, 100 seconds
+Qu‘est-ce que ça veut dire?, kimura byol-nathalie, 100 seconds
 Tomboi Gatoey Mango (Eps.1), Jai Arun Ravine, 3:03
-Kettleâ€™s Boiling, Alison Smith, 3:16
+Kettle’s Boiling, Alison Smith, 3:16
 Writing the Land, Kevin Lee Burton, 7:46
 East Van Italian-Canadian Queers, Juli Saragosa
 
@@ -1584,9 +1584,9 @@ in conversation: SUNDAY AUGUST 23, 2PM
 
 Reception: SUNDAY AUGUST 23, 3PM
 
-Kinder Morgen in the German language directly translates as â€˜Children
-Tomorrowâ€™, and artist Nancy Bleck calls up this meaning alongside the 
-name â€˜Kinder Morganâ€™ as an energy corporation, as a way to align with 
+Kinder Morgen in the German language directly translates as ‘Children
+Tomorrow’, and artist Nancy Bleck calls up this meaning alongside the 
+name ‘Kinder Morgan’ as an energy corporation, as a way to align with 
 the Tsleil Waututh cultural world-view of how things get done, always 
 with an eye toward the seven generations yet unborn, or tomorrow's 
 children.
@@ -1610,7 +1610,7 @@ Admission is free of charge.
 
 4360 Gallant Ave, North Vancouver BC (in the heart of Deep Cove)
 
-Open 7 days a week, 10 a.m. â€“ 5 p.m. except stat holidays
+Open 7 days a week, 10 a.m. – 5 p.m. except stat holidays
 www.seymourartgallery.com
 
 For more info, contact Curator/Director Sarah Cavanaugh at
@@ -1646,16 +1646,16 @@ place from October 16 to November 14, 2015. Artists are encouraged
 to consider the following prompt when they apply:
 
 With the passing of Bill C-51 life in Canada no longer toes the line of a
-Big Brother state Ã¢â‚¬â€œ it is a reality presently actualizing. Surveillance 
+Big Brother state â€“ it is a reality presently actualizing. Surveillance 
 has been an increasingly omnipresent force in North American culture. 
 A social expectancy and understanding that we will be watched in 
-some capacity has formed. Physically and digitally, a personÃ¢â‚¬â„¢s 
+some capacity has formed. Physically and digitally, a personâ€™s 
 actions are monitored, and the question of whether or not that is 
-harmful to oneÃ¢â‚¬â„¢s existence arises.
+harmful to oneâ€™s existence arises.
 
-Applicants are also urged to consider the mechanisms and structures Ã¢
-â‚¬â€œ including but not limited to the social, political, and physical means Ã¢
-â‚¬â€œ that create surveillance states.
+Applicants are also urged to consider the mechanisms and structures â
+€“ including but not limited to the social, political, and physical means â
+€“ that create surveillance states.
 
 SUBMISSION PROCEDURE AND GUIDELINES
 
@@ -1679,8 +1679,8 @@ research, and interests, if applicable.
 
 3. Support: Please include up to fifteen pieces of additional support
 material, including digital images, videos, text excerpts, or audio clips
-alongside a corresponding numbered image list detailing the artworkÃ¢
-â‚¬â„¢s title, medium, physical size, date of completion, and any other 
+alongside a corresponding numbered image list detailing the artworkâ
+€™s title, medium, physical size, date of completion, and any other 
 necessary descriptors. Our Programming Committee will review up to a 
 maximum of five minutes of time-based work.
 
@@ -1700,7 +1700,7 @@ group exhibitions. Additionally, we will provide limited financial
 resources to aid artists in managing shipping and travel costs.
 
 Please send completed submission packages to:
-ATTN: Programming Committee Ã¢â‚¬â€œ Thematic
+ATTN: Programming Committee â€“ Thematic
 info@thenewgallery.org
 
 ------------------------------------------------------------------------
@@ -1708,7 +1708,7 @@ info@thenewgallery.org
 ------------------------------------------------------------------------
 Victory Square Block Party Returns with Irreplaceable Line-up of Local Artists
 
-(Vancouverâ€”August 11) Music Waste and CiTR 101.9FM are pleased to present
+(Vancouver—August 11) Music Waste and CiTR 101.9FM are pleased to present
 the 11th annual Victory Square Block Party on Sunday, September 6, 2015
 from 2-9p.m. This free event invites music fans from across the Lower
 Mainland to Victory Square Park (Cambie St and W Hastings St) to celebrate
@@ -1717,41 +1717,41 @@ of local bands.
 
 "Everything is set for us to have an unforgettable festival this year,â€ 
 says Victory Square Block Party and Music Waste organizer Mark Richardson.
-â€œThe line-up is really musically diverse and shows the variety of different
-sounds you can find in Vancouverâ€™s independent music scene right now. Itâ€™s
+“The line-up is really musically diverse and shows the variety of different
+sounds you can find in Vancouver’s independent music scene right now. It’s
 a great way for people to support Vancouver musicians as well as CiTR and
 Megaphone Magazine, all for free.â€ 
 
 With performances from Woolworm, Ramzi, Other Jesus, Cave Girl, Gal Gracen,
 Fake Tears, Whitney K, and Twin River, the line‐up features a set of
-artists from Vancouverâ€™s current independent music scene that would not be
+artists from Vancouver’s current independent music scene that would not be
 found at any other event. DJs Owen Ellis and bb.yu will spin music
 throughout the day, filling the space between bands and Miss Christie Lee
 from Musqueam will be doing an opening celebration for the event. On-air
 personalities from CiTR will be on-site to emcee and interview bands as
 part of an all-day live broadcast on 101.9 FM and streaming at www.citr.ca.
-Local business Whatâ€™s up? Hot Dog! will be selling hot dogs created
+Local business What’s up? Hot Dog! will be selling hot dogs created
 especially for the event.
 
 Continuing its tradition of supporting community media in Vancouver,
 partial sponsorship and raffle proceeds will be donated to Megaphone, a
 magazine sold on the streets of Vancouver by homeless and low‐income
-vendors, and CiTR 101.9FM, Vancouverâ€™s independent community and
+vendors, and CiTR 101.9FM, Vancouver’s independent community and
 campus-based broadcaster.
 
-â€œThe Block Party exists to support awesome community-based organizations
+“The Block Party exists to support awesome community-based organizations
 and exciting new music coming out of Vancouver,â€  says Sarah Cordingley,
-Music Director at CiTR. â€œCiTR is always happy to be a part of it, and
+Music Director at CiTR. “CiTR is always happy to be a part of it, and
 Vancouver wouldnâ€™t be the same without it.â€ 
 
-Since 2004, the Block Party has become a staple of Vancouverâ€™s independent
+Since 2004, the Block Party has become a staple of Vancouver’s independent
 music scene, and of the Labour Day weekend. Remaining committed to local
 talent, the Block Party counts bands such as Pink Mountaintops, The
 Unicorns, White Lung, Slam Dunk, and The Pack A.D. among its alumni.
 
 The 2015 Victory Square Block Party promises to be an unforgettable event.
 We would like to thank our sponsors for helping to make this event
-possible: Champion Sponsor Whatâ€™s Up? Hot Dog! Gold Sponsors Hastings
+possible: Champion Sponsor What’s Up? Hot Dog! Gold Sponsors Hastings
 Crossing BIA, SFU Woodwards Center for Community Engagement, FACTOR Silver
 Sponsor Print Print Bronze Sponsors Audiopile Records, Neptoon Records,
 Girls Rock Camp Vancouver, Safe Amplification Site Society, Vinyl Records,
@@ -1805,7 +1805,7 @@ contemporary to outsider to exhibitions representing community-
 engaged and social practice methods as well as a diversity of 
 mediums: photography, video, performance art, drawing, 3D, 
 installation, ceramics, textiles and more. For more information on 
-Gachetâ€™s vision and Basis of Unity, please see http://gachet.org/about.
+Gachet’s vision and Basis of Unity, please see http://gachet.org/about.
 
 We welcome proposals that challenge mental health stigmas, barriers 
 to full social, cultural, and economic participation; disability art; art for 
@@ -1833,19 +1833,19 @@ selection process by December 15th, 2015.
 Ways to Submit
 Work can be dropped off, mailed, or emailed to the gallery. Gallery 
 Gachet aims to be a low barrier space and accepts proposals in many 
-formats â€“ paper, CD, DVD, Flash Drives and email submissions will all 
+formats – paper, CD, DVD, Flash Drives and email submissions will all 
 be accepted.
 
 Submissions Materials
 1. Documentation of your work or project may include but is not limited 
 to:
-â€¢ 10 â€“ 20 images clearly identified with name, number, title, 
+• 10 – 20 images clearly identified with name, number, title, 
 dimensions, and a numbered image list
-â€¢ a short video that typifies your work
-â€¢ audio recordings
+• a short video that typifies your work
+• audio recordings
 2. A written proposal, describing a well-thought out theme or body of 
 work, explaining what you wish to do and any special requirements 
-(250 â€“ 500 words)
+(250 – 500 words)
 3. A CV or biography, charting your arts education and exhibitions 
 history
 We value nontraditional and traditional forms of arts education and arts 
@@ -1893,7 +1893,7 @@ PLATFORM centre for photographic + digital arts
 PLATFORM welcomes proposals for new or recent work by contemporary artists,
 artist collectives, curators or collaborations practicing within the realm
 of photographic and digital art practices. To gain a greater understanding
-of the centre and itâ€™s programming please visit our website to review past
+of the centre and it’s programming please visit our website to review past
 programming. For further information please contact
 programming@platformgallery.org.
 
@@ -1902,8 +1902,8 @@ artist-run centre that fosters an environment of critical discourse for the
 exhibition, promotion, and dissemination of photo-based and digital art
 practices. PLATFORM programs six in house exhibitions each yeah and is
 committed to paying CARFAC fees. Eligible submissions are reviewed by the
-Directors and a rotating advisory panel comprised of PLATFORMâ€™s Board of
-Directors. The Centreâ€™s programming is usually scheduled 2â€“3 years in
+Directors and a rotating advisory panel comprised of PLATFORM’s Board of
+Directors. The Centre’s programming is usually scheduled 2–3 years in
 advance. PLATFORM will not return submission packages and only successful
 applicants will be notified.
 
@@ -1953,7 +1953,7 @@ artists, and acrylic or watercolour painters working on smaller canvas.
 (Inadequate ventilation for oil painting.) Some storage space for
 stretchers and such. The studio is secured with a gate. Street parking is
 almost always available, and nearby bus + nightbus routes along Hastings.
-Close to cafÃ©s, restaurants and corner stores. Call/text Brit at
+Close to cafés, restaurants and corner stores. Call/text Brit at
 778.887.0044 to see.
 
 2.
@@ -1967,7 +1967,7 @@ Are you a collaborative, creative artist looking to share studio space?
 Share 1000sq.ft studio space with four other women artists in the Herd of
 Women Studio at 1000 Parker Street.
 
-This space is best suited to an artist who doesnâ€™t need wall space, either
+This space is best suited to an artist who doesn’t need wall space, either
 for working or for displaying their work. It is next to a large, bright
 window and is approximately 100 ft. sq.
 

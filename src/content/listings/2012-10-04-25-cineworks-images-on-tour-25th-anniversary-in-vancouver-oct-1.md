@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 25
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | Images on Tour: 25th Anniversary in Vancouver | OCT 18"
 ---
 
@@ -13,7 +14,7 @@ Co-presented by Cineworks, DIM Cinema, and Pacific Cinematheque.
 
 As the forefront platform for showcasing independent and experimental moving 
 images in Canada, Images has been premiering the best of new cinema 
-including video art, new media and media installations by the worldâ€™s leading 
+including video art, new media and media installations by the world’s leading 
 moving-image artists including Matthew Barney, Shary Boyle, and Zacharias 
 Kunuk.
 

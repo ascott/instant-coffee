@@ -57,27 +57,27 @@ On Sunday, May 12, 2013:
 
 Payday Millionaire open for a resurrected Bengali Winter (!!) and Echo 
 Dynamic
-@ SASStorinoâ€™s (the new Safe Amplification Site Society venue), 1739 
+@ SASStorino’s (the new Safe Amplification Site Society venue), 1739 
 Venables St. in Vancouver.
-Itâ€™s all ages, and thereâ€™s NO BOOZE - we mean it!
-Thereâ€™s a $5 cover, with the doors opening at 8pm and our set starting 
+It’s all ages, and there’s NO BOOZE - we mean it!
+There’s a $5 cover, with the doors opening at 8pm and our set starting 
 at 9pm.
 
 On Friday, May 17, 2013:
 
-Weâ€™re recording a 2-set live performance and invite you and your 
+We’re recording a 2-set live performance and invite you and your 
 friends to be in the audience.
-Hopefully itâ€™ll turn out OK and we can include it in the Payday 
+Hopefully it’ll turn out OK and we can include it in the Payday 
 Millionaire free downloads catalogue.
-Donâ€™t miss this chance to be immortalized while calling us awful names 
+Don’t miss this chance to be immortalized while calling us awful names 
 between our songs (or perhaps buying us beers?).
-Weâ€™ll try to capture at least seven new tracks and many of the oldies 
-weâ€™ve reworked with Nat on bass.
+We’ll try to capture at least seven new tracks and many of the oldies 
+we’ve reworked with Nat on bass.
 
-PLUS a Kranky CafÃ© Music Night is ALWAYS worth the effort!
+PLUS a Kranky Café Music Night is ALWAYS worth the effort!
 Food, beer & wine will be available: KRANKY CAFE,228 E. 4th Ave., 
 Vancouver.
-This live recording event is from 7-9pm ONLY and itâ€™s Absolutely 
+This live recording event is from 7-9pm ONLY and it’s Absolutely 
 FREE!
 
 Looking forward to playing for you & yours again soon,
@@ -111,8 +111,8 @@ Instant Coffee is an artist collective based between Vancouver and
 Toronto. Formed in 2000, the collective's current active membership 
 includes Jinhan Ko, Khan Lee, Kelly Lycan and Jenifer Papararo in 
 Vancouver, with Cecilia Berkovic and Kate Monro in Toronto. They 
-have shown interÂ­naÂ­tionÂ­ally, have exhibÂ­ited in many promiÂ­nent art instiÂ­
-tuÂ­tions, and have proÂ­duced numerÂ­ous projects in pubÂ­lic space.
+have shown inter­na­tion­ally, have exhib­ited in many promi­nent art insti­
+tu­tions, and have pro­duced numer­ous projects in pub­lic space.
 
 Teck Gallery 
 515 W. Hastings Street, Vancouver
@@ -185,28 +185,28 @@ Burnaby, B.C.| V5G 2J3
 
 Tel. 604-297-4425
 
-Â· www.burnabyartgallery.ca
+· www.burnabyartgallery.ca
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-05-12-04-cafe-for-contemporary-art-bob-sherrin-may-15">04. Cafe for Contemporary Art | Bob Sherrin | MAY 15</a>
 ------------------------------------------------------------------------
-cafÃ© for contemporary art presents
+café for contemporary art presents
 
 Corporate Impatience Playland
 
 Works from now and then by Bob Sherrin
 
-May 10 â€“ June 8, 2013
-Opening reception: Wednesday May 15, 7pm â€“ 9pm 
+May 10 – June 8, 2013
+Opening reception: Wednesday May 15, 7pm – 9pm 
 
-Corporate Impatience Playland examines Bob Sherrinâ€™s latest works 
+Corporate Impatience Playland examines Bob Sherrin’s latest works 
 against a backdrop of older works, brought forth in a new context 
 through a reflection on our innate desire for success, by looking at our 
 achievements and failures in the realm of time. The works in this 
 exhibition are drawn from five different series: Corporate, Impatience, 
-Playland, Drivers, and Menâ€™s Room, with the last two being his latest.
+Playland, Drivers, and Men’s Room, with the last two being his latest.
 
-Shot from a driverâ€™s perspective with the hood of the car in the 
+Shot from a driver’s perspective with the hood of the car in the 
 foreground penetrating the environment as it flows through time 
 towards the vanishing point in the horizon, Drivers, a series of black 
 and white and colour photographs, evokes an intrinsic sense of 
@@ -221,17 +221,17 @@ By doing so, he reinforces the uncertainty of the present moment and
 our tendency to reminisce about past as fixed memories. 
 
 The concept of success and how it is measured and referred to in our 
-recorded history is alluded to in some of Sherrinâ€™s works, such as the 
+recorded history is alluded to in some of Sherrin’s works, such as the 
 Corporate, where he gives a visual and written interpretation/definition 
 of the homonym â€œcorporationâ€ . Selected works from Impatience further 
 elaborate on this notion, where each banner sees an image of a baby 
 naively interacting with historical fragments of past successes and 
 failures spanning millennia. Together, these series of banners highlight 
-our collective naivetÃ©, greed, and impatience in what appears to be an 
+our collective naiveté, greed, and impatience in what appears to be an 
 indefinite recurrent loop.
 
 The road to the desired destination in the Drivers, together with a 
-series of trophies, Menâ€™s Room, assembled using salvaged and found 
+series of trophies, Men’s Room, assembled using salvaged and found 
 materials, further illustrate our need for achievement as an inherent 
 human characteristic and personality, which is largely engraved in our 
 success-driven societies. What arises from this analogy is a 
@@ -247,7 +247,7 @@ photography, and 3D works. Sherrin has participated in many diverse
 artistic productions over the years, some of which involved 
 collaborative works with other artists such as Barrie Jones and Jan 
 Westendorp. Notable works include participation in the artist collective 
-TBA â€“ Television by Artists â€“ which for several years produced weekly 
+TBA – Television by Artists – which for several years produced weekly 
 art videos that were aired on Shaw cable. He currently teaches in the 
 English department at Capilano University, while actively staying 
 committed to various other artistic projects, which include: a 2-part 
@@ -255,7 +255,7 @@ drama (in collaboration with the playwright/actor Wanda Graham), a
 continued production of Walkers and Drivers photo series, a series of 
 poems (entitled Bobby Cuts Grass), and a work of long fiction. 
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 Cafe for Contemporary Art, All rights reserved.
+Copyright © 2013 Cafe for Contemporary Art, All rights reserved.
 This is a list of journalists, papers, bloggers and more to whom we 
 send our press releases. If you would rather not receive press releases 
 from the cafe for contemporary art you may click unsubscribe.
@@ -305,7 +305,7 @@ and prepared by qualified chefs.
 Interested artists should submit the following by May 15, 2013:
 
 1. A brief description (max 1 page) of your proposed project while at 
-White Rabbit â€“ please include ideas/concepts you will be exploring, 
+White Rabbit – please include ideas/concepts you will be exploring, 
 materials and any tools that you will need. We encourage projects that 
 are harmonious with the environment, therefore please specify and 
 justify the proposed use of any unnatural materials.
@@ -339,7 +339,7 @@ https://www.facebook.com/events/196148970534187/
 2013 photography graduates from Emily Carr University of Art + 
 Design. The selected images aim to address the idea of space in 
 relation to environment, both from a physical stand point and a state of 
-mind. Through the included photographâ€™s considered contributions, the 
+mind. Through the included photograph’s considered contributions, the 
 binaries of transience and permanence when occupying space are 
 evaluated by the photographic medium and supplementary materials. 
 As viewers interact with the works exhibited, it is intended that they in 
@@ -373,7 +373,7 @@ ERDEM TAŞDELEN
 
 Tide
 
-Opening reception: Thursday May 16, 6 â€“ 8 pm
+Opening reception: Thursday May 16, 6 – 8 pm
 Showing: May 17 to June 22, 2013
 
 Erdem Taşdelen lives and works in Vancouver, Canada. He holds a BA 
@@ -400,7 +400,7 @@ constructed and culturally learned aspects of self-expression. He has
 exhibited in solo
 and group exhibitions at venues such as Galeri NON, ARTER, 
 Sanatorium, Hayaka Arti
-and Kasa Galeri in Istanbul; Museum fÃ¼r angewandte 
+and Kasa Galeri in Istanbul; Museum für angewandte 
 Kunst/Gegenwartskunst in Vienna;
 Western Front, 221A and Charles H. Scott Gallery in Vancouver BC; 
 and Oakville
@@ -421,7 +421,7 @@ artists work internationally, including recent residencies and exhibitions
 in Spain,
 Denmark, Germany, France, and the United States. Republic Gallery 
 recently took part
-in Papier 13 in MontrÃ©al.
+in Papier 13 in Montréal.
 
 -----------
 
@@ -473,7 +473,7 @@ exhibited her work in Vancouver and Prague.
 
 Steven Brekelmans was born in Vancouver, attended the Emily Carr 
 Institute of Art and Design and recently graduated from the University 
-of Victoriaâ€™s MFA program. Working across a variety of mediums, he 
+of Victoria’s MFA program. Working across a variety of mediums, he 
 has exhibited his work both locally and internationally at the Western 
 Front, Or Gallery Berlin, The Western Bridge (Seattle) and Soi Fischer 
 Projects (Toronto).
@@ -497,7 +497,7 @@ a public art mural project. Her work and writing have been published
 and exhibited in Canada, USA, and Europe.
 
 Devon Knowles maintains a materially-centred practice that assesses 
-historical and contemporary models of production â€“ interrogated 
+historical and contemporary models of production – interrogated 
 productions cultural positions and how they form material language. 
 She utilizes this language to establish an intimacy directly between the 
 physical material, its use, and its history. It is from within this blended 
@@ -541,7 +541,7 @@ Employment Opportunities
 We are looking to hire a highly motivated person for the position of 
 Registrar.
 
-The Registrar is a key member of the KAGâ€™s Program Team. Reporting 
+The Registrar is a key member of the KAG’s Program Team. Reporting 
 to the Curator, the Registrar provides a standard of excellence in the 
 operation and maintenance of all activities in the areas of registration 
 and collections, ensuring the safety and longevity of works of art and 
@@ -633,15 +633,15 @@ Khan Lee
 Join us on May 23rd for the opening reception of the inaugural 
 exhibition at Centre A's new space, hearts and arrows by Khan Lee!
 
-May 23 â€“ July 27, 2013
+May 23 – July 27, 2013
 Gallery Hours: Tuesdays-Saturdays, 11am-6pm
 Preview Reception: Thursday, May 23, 2013, 8pm
 Essay: Jenifer Papararo
 
 "I wanted to see if the short duration of this action
-in the video will compress the entire eventâ€¦"
+in the video will compress the entire event…"
 
-Centre A opens its new gallery in Vancouverâ€™s historic Chinatown with 
+Centre A opens its new gallery in Vancouver’s historic Chinatown with 
 an exhibition of new work by Korean-born, Vancouver-based artist 
 Khan Lee. The exhibition hearts and arrows, takes its title from a new 
 durational video work by Lee which depicts the process of the artist 
@@ -661,7 +661,7 @@ and celebratory.
 Khan Lee was born in Seoul, Korea where he studied architecture at 
 Hong-Ik University, and studied fine art at Emily Carr Institute of Art 
 and Design in Vancouver. He is a founding member of Vancouver 
-based artist collective â€˜Intermissionâ€™ and presently a member of Instant 
+based artist collective ‘Intermission’ and presently a member of Instant 
 Coffee artist collective. His experiments with form, medium, content, 
 and expression have resulted in performance, sculpture, and media 
 works. Lee lives and works in Vancouver BC, and has exhibited 
@@ -700,7 +700,7 @@ Pottery
 
 May 24 - July 6, 2013
 Opening Reception: Thursday, May 23 from 6 to 9 pm
-Curatorâ€™s talk with Nora Vaillant and Shelly Rosenblum: Saturday, May 
+Curator’s talk with Nora Vaillant and Shelly Rosenblum: Saturday, May 
 25 at 4 pm
 
 High Fire Culture features the work of West Coast potters Lari Robson, 
@@ -785,7 +785,7 @@ Magazine for her writing on contemporary art.
 
 Les Ramsay received his BFA in Visual Arts in 2007 from Emily Carr
 University in Vancouver, and also studied at the Bellas Artes,
-Universidad PolitÃ©cnica de Valencia, Spain. Ramsay is represented by
+Universidad Politécnica de Valencia, Spain. Ramsay is represented by
 Cooper Cole Gallery in Toronto and his work has been exhibited in
 Canada, Spain, Sweden, and the United States.
 
@@ -831,10 +831,10 @@ Janice. 604.338.2959
 As an independent art initiative located in SE Portland, Oregon, 
 RECESS strives to support the work of artists, activists, and event-
 based practitioners both locally and internationally. Over the past three 
-years, weâ€™ve hosted group and solo exhibitions, community events, 
+years, we’ve hosted group and solo exhibitions, community events, 
 musical acts, dinners, political gatherings, lectures, and performances 
 that aim to explore possibilities for change within the arts and our 
-larger sociopolitical context. Weâ€™re now accepting applications for 
+larger sociopolitical context. We’re now accepting applications for 
 Summer internships. Interns will work closely with RECESS staff and 
 artists to realize a variety of projects. Credit for internships may be 
 arranged upon request.
@@ -866,10 +866,10 @@ on
 
 - Expanding our online presence via social networking platforms
 
-- Overseeing sound mixing and ticketing for events in RECESSâ€™ main 
+- Overseeing sound mixing and ticketing for events in RECESS’ main 
 space
 
-Please send a copy of your CV or resumÃ©, portfolio or writing 
+Please send a copy of your CV or resumé, portfolio or writing 
 sample(optional), and a letter of interest (most important) to 
 info@recessart.com no later than May 21st. The letter of interest 
 should address:
@@ -877,7 +877,7 @@ should address:
 - Why you think you would be the best candidate for an intern position 
 at RECESS.
 
-- What project areas youâ€™d like to focus on.
+- What project areas you’d like to focus on.
 
 - A description of any skills or experience that may be of value for 
 executing said project(s) over the course of your internship.
@@ -1015,9 +1015,9 @@ Nanaimo Art Gallery
 
 Artists are invited to submit proposals for inclusion in a group exhibition 
 at Nanaimo Art Gallery called Ancients Among Us: The Art and Science 
-of Sturgeon, at the Galleryâ€™s downtown location, July 5 to August 4, 
+of Sturgeon, at the Gallery’s downtown location, July 5 to August 4, 
 2013. The project is co-presented by Nanaimo Art Gallery, Nanaimo 
-Museum and Vancouver Island Universityâ€™s International Centre for 
+Museum and Vancouver Island University’s International Centre for 
 Sturgeon Studies, in conjunction with the 7th International Symposium 
 on Sturgeon, which takes place July 21-25 at the Vancouver Island 
 Conference Centre in Nanaimo. For information on the conference visit 
@@ -1036,7 +1036,7 @@ International Centre for Sturgeon Studies and Nanaimo Art Gallery.
 Shipping to and from the Gallery will be the responsibility of the artist. 
 Works must arrive ready to install.
 
-Artists are invited to tour Vancouver Island Universityâ€™s new 
+Artists are invited to tour Vancouver Island University’s new 
 International Centre for Sturgeon Studies. Please contact Nanaimo Art 
 Gallery at asrgroup@nanaimogallery.ca or 250.754.1750 to arrange a 
 tour. Please note that participation in the tour is not required in order 
@@ -1093,7 +1093,7 @@ dance: made in canada Festival
 
 Toronto ON M4Z 1P2
 
-1 â€˜Dance Film Submissionâ€™ registration form (attached) for each film
+1 ‘Dance Film Submission’ registration form (attached) for each film
 
 1 disk with a QuickTime version of your film (the file must end in 
 .mov)
@@ -1119,17 +1119,17 @@ Lewis on October, 30 1972. The project consists of the four artists
 walking three separate paths documenting their experiences in 
 photographs. The project resurged in 2012 when Michael de Courcy 
 launched the website Background / Vancouver project, exposing this 
-unique perspective of Vancouverâ€™s 1972 identity to new audiences 
+unique perspective of Vancouver’s 1972 identity to new audiences 
 online. grunt will be exhibiting the original photo mural conceived and 
 produced by Michael de Courcy as part of an ongoing photographic 
-documentary project of Vancouverâ€™s artists collective, Intermedia 
+documentary project of Vancouver’s artists collective, Intermedia 
 society.
 
 On October 30, 2012, Vancouver artists, Emilio Rojas, Guadalupe 
 Martinez, and Igor Santizo, revisited this conceptual project. 40 years 
 to the day, these three artists came together to forge a new, fourth 
 path that intersects with the original paths which revisits ideas about 
-Vancouverâ€™s identity and history. The retrospective project is entitled, 
+Vancouver’s identity and history. The retrospective project is entitled, 
 ThisPlace / Vancouver.
 
 The group explores the aspect of the social; through conversations, 
@@ -1154,34 +1154,34 @@ www.grunt.ca for more details). Discussions held at these meeting will
 contribute to the web-based component of this project will be launched 
 on October 30, 2013.
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+…………………………………………………………..
 
 Tuesday May 14
 
 Social Cartography: Am Johal and Sarah Shamash (7pm)
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+…………………………………………………………..
 
 Saturday May 18
 
-Background / Vancouver artistsâ€™ talk: Michael de Courcy with Glenn 
+Background / Vancouver artists’ talk: Michael de Courcy with Glenn 
 Lewis and Grant Arnold (2pm)
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+…………………………………………………………..
 
 Thursday May 23
 
 Sound walk (5pm) // Mapping and Sound Panel: Vincent Andrisani and 
 Randolph Jordan (7pm)
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+…………………………………………………………..
 
 Saturday May 25th
 
-ThisPlace / Vancouver artistsâ€™ talk: Emilio Rojas, Igor Santizo, 
+ThisPlace / Vancouver artists’ talk: Emilio Rojas, Igor Santizo, 
 Guadalupe Martinez (2pm) // Potluck Dinner (5pm)
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+…………………………………………………………..
 
 (All of these events will take place at grunt gallery - 350E 2nd - Unit 
 116 Vancouver, BC V5T 4R8)
@@ -1195,12 +1195,12 @@ May 9th - June 9th 2013
 Opening May, Thursday, 9th, 6-9pm
 
 Angus Ferguson is a Vancouver artist whose paintings of dystopic 
-landscapes reference sci-fi book covers of the 70â€™s and post-
+landscapes reference sci-fi book covers of the 70’s and post-
 apocalyptic film. At times, these landscapes are populated with 
 humanoid figures, whose rendering in gestural marks set them apart 
 from the flat surfaces of the landscapes and backdrops, thereby 
 suggesting a tension between these figures and their environment. In 
-Fergusonâ€™s works, both the past and the future are empty. Ferguson's 
+Ferguson’s works, both the past and the future are empty. Ferguson's 
 images are frequently hung salon style, rather than in tidy rows, 
 enabling viewers to freely wander from image to image, roving with 
 their eyes and imaginations. *For his first solo exhibition at CSA Space, 
@@ -1276,12 +1276,12 @@ B.C. Binning Gallery
 Opening:
 Thursday, April 18, 7-10 pm
 
-Erin Shirreffâ€™s solo exhibition at the Contemporary Art Gallery is the first 
-presentation dedicated exclusively to the artistâ€™s film and video work. 
+Erin Shirreff’s solo exhibition at the Contemporary Art Gallery is the first 
+presentation dedicated exclusively to the artist’s film and video work. 
 Shirreff is most known for reproducing sculpture as images or making 
 sculpture that distils the essence of a photograph, playing these two 
 elements against one another as a means to prompt and test the 
-viewerâ€™s response. 
+viewer’s response. 
 
 Lake (2012) uses an image of Lake Okanagan in B. C. where Shirreff 
 grew up and her family still lives, the picture taken from an early 1980s 
@@ -1291,7 +1291,7 @@ subtle shifts in colour and light to alter the original hand-painted quality.
 
 The exhibition is presented in collaboration with Carleton University Art 
 Gallery and Agnes Etherington Art Centre, collectively marking the first 
-comprehensive exhibition of Shirreffâ€™s work in Canada.
+comprehensive exhibition of Shirreff’s work in Canada.
 
 Exhibition
 
@@ -1347,7 +1347,7 @@ Exhibition: May 3rd through June 16th
 The artists in the group show Properties tarry with the thoughts and 
 histories that live and breathe in the walls and objects that surround us. 
 This is the second in a pair of exhibitions that look at the attitudes of 
-objects. Propertiesâ€™ sister exhibition Edible Glasses looked to the roles 
+objects. Properties’ sister exhibition Edible Glasses looked to the roles 
 of objects as active performers, whereas Properties looks to the 
 unconscious thoughts of things. 
 
@@ -1363,23 +1363,23 @@ orientation and geometry, specifically within the histories of
 cartography and draughtsmanship. Current projects touch upon 
 sundials, hopscotch and Victorian architecture. 
 
-Devon Knowlesâ€™ material centered practice assesses historical and 
+Devon Knowles’ material centered practice assesses historical and 
 contemporary models of production, interrogating their cultural 
 positions and how they form material language. Through the 
 investigation of a material an intimacy is also established directly 
 between its physicality, use and history. It is from within this blended 
-configuration where Knowlesâ€™ practice engages, and where the 
+configuration where Knowles’ practice engages, and where the 
 conscious act of making becomes conceptually productive. While 
 acknowledging a material's history, she allows her subjective material 
 sensibilities and attentiveness to the optical experience to enter the 
 work expanding beyond set material customs and asking how known 
 material language can be cajoled into delivering a new understanding.
 
-Erica Stockingâ€™s artistic practice investigates inherent and 
+Erica Stocking’s artistic practice investigates inherent and 
 manufactured value, the desire for connection, and notions of place. 
 She works site specifically, using found materials to draw out local 
-narratives from the surrounding contexts. Stockingâ€™s projects ask 
-where value is located and where both an individualâ€™s and an objectâ€™s 
+narratives from the surrounding contexts. Stocking’s projects ask 
+where value is located and where both an individual’s and an object’s 
 sense of agency occurs. Rooted in the personal, her work evolves 
 from a desire to find a sense of place in the world, often resulting in 
 installations where the inside and outside are complicated. These 
@@ -1468,7 +1468,7 @@ July 13, and Food Cart Festival (date and location TBD).
 
 Show Details
 Black Flag
-With Good For You, Piggy, Vacant State, and liÃ©
+With Good For You, Piggy, Vacant State, and lié
 Saturday, July 20
 Chinese Cultural Centre of Greater Vancouver
 50 East Pender Street
@@ -1507,7 +1507,7 @@ Screening of The Exiles Thursday, June 13, 2013, 7PM
 Room 4955, 4th Floor
 Goldcorp Centre for the Arts, 149 West Hastings, Vancouver
 
-Raymond Boisjolyâ€™s practice operates as active speculation. Through 
+Raymond Boisjoly’s practice operates as active speculation. Through 
 text and
 graphic presentation his work reveals the provisional character of 
 knowledge. More
@@ -1519,9 +1519,9 @@ between sender and receiver).
 
 Concerned with the process of image production and dealing directly 
 with
-materiality, Boisjolyâ€™s works in "(And) Other Echoes" function at the 
+materiality, Boisjoly’s works in "(And) Other Echoes" function at the 
 threshold of
-visibility. Continuing the artistâ€™s examination into technological 
+visibility. Continuing the artist’s examination into technological 
 mediation and its
 capture of cultural and political intervals, the work takes the 1961 film 
 "The Exiles" as
@@ -1553,7 +1553,7 @@ has been exhibited in Vancouver at Presentation House Gallery,
 Contemporary Art
 Gallery, Catriona Jeffries Gallery, Centre A and Vancouver Art Gallery, 
 as well as at
-Torontoâ€™s The Power Plant and Western Bridge in Seattle.
+Toronto’s The Power Plant and Western Bridge in Seattle.
 
 Free parking available Friday, April 26th 6-8pm only. Use the exhibition 
 invite or a printout from the exhibition page on our Website as a 
@@ -1581,7 +1581,7 @@ decisions were made, what steps were rejected, what traces of
 production are still visible? Once such questions are asked, a 
 biography of the image can be written.
 The exhibition includes work by the Vienna-based artists Thomas 
-Freiler, KrÃ¼ger & Pardeller, Tatiana Lecomte, Christian Mayer, Sissa 
+Freiler, Krüger & Pardeller, Tatiana Lecomte, Christian Mayer, Sissa 
 Micheli, and Anita Witek, and the Vancouver-based artists Arni 
 Haraldsson, Tim Lee, Kyla Mallett, Jayce Salloum, Kevin Schmidt, and 
 Elizabeth Zvonar.

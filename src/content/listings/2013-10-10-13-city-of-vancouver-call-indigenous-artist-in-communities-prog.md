@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 13
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | Call: Indigenous Artist in Communities Program | OCT 21"
 ---
 

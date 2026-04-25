@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Warm Shadow"
 emailDate: "Thu, 02 Nov 2017 09:13:32 -0700"
 number: 17
 type: "EVENT"
+venue: "Lord Strathcona Elementary School"
 summary: "Lord Strathcona Elementary School | The Strathcona Herbarium Launch | NOV 9"
 ---
 

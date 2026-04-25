@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 37
 type: "OPENING"
+venue: "MOA at UBC"
 summary: "MOA at UBC | Nuxalk Strong | 7PM | FEB 20"
 ---
 

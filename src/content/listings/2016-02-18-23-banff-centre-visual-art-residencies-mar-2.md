@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 23
 type: "CALL"
+venue: "Banff Centre"
 summary: "Banff Centre | Visual Art Residencies | MAR 2"
 ---
 

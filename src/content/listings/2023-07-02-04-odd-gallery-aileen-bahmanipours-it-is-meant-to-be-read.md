@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "ODD Gallery"
 summary: "ODD Gallery | Aileen Bahmanipour's IT IS MEANT TO BE READ"
 ---
 

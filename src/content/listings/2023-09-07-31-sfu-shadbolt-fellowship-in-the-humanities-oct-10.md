@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 31
 type: "CALL"
+venue: "SFU Shadbolt Fellowship in the Humanities"
 summary: "SFU Shadbolt Fellowship in the Humanities | OCT 10"
 ---
 

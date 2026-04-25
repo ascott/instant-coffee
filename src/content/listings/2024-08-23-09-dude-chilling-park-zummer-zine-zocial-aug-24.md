@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 9
 type: "EVENT"
+venue: "Dude Chilling Park"
 summary: "Dude Chilling Park | Zummer Zine Zocial | AUG 24"
 ---
 

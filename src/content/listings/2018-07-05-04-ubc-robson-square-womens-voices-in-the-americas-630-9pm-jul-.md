@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 4
 type: "TALK"
+venue: "UBC Robson Square"
 summary: "UBC Robson Square | Women's Voices in the Americas | 630-9PM | JUL 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 32
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Dance Centre | In Conversation (world premiere) | MAY 23&24 | MAY 23"
 ---
 

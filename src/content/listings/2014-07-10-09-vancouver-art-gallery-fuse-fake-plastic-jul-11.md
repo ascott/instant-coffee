@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we thank you for a week of raw an
 emailDate: "Thu, 10 Jul 2014 11:45:43 -0700"
 number: 9
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | FUSE: fake plastic | JUL 11"
 ---
 

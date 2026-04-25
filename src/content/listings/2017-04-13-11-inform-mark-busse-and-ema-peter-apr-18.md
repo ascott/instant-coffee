@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 11
 type: "TALK"
+venue: "Inform"
 summary: "Inform | Mark Busse and Ema Peter | APR 18"
 ---
 

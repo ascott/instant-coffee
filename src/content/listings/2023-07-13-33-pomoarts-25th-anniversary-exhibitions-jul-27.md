@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nest-work"
 emailDate: "Thu, 13 Jul 2023 13:00:12 -0700"
 number: 33
 type: ""
+venue: "PoMoArts"
 summary: "PoMoArts | 25th Anniversary Exhibitions | JUL 27"
 ---
 

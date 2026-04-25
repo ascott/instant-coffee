@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 11
 type: ""
+venue: "The Audain Gallery"
 summary: "The Audain Gallery | red diva projects: a series of events | FEB 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 17
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Selectors Records | Whitney Houston, vol 2. | MAR 29"
 ---
 

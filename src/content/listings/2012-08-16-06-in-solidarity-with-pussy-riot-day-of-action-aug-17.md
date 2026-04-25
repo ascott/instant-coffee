@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 6
 type: ""
+venue: "In Solidarity with Pussy Riot"
 summary: "In Solidarity with Pussy Riot | Day of Action | AUG 17"
 ---
 
@@ -20,7 +21,7 @@ alleged members of the feminist punk collective Pussy Riot are on trial,
 facing a seven-year sentence following their arrest in the Spring of 
 2012 for an action Pussy Riot performed at the Cathedral of Christ the 
 Savior in Moscow. We encourage you to answer, in equally impatient 
-and unreasonable terms, the Russian governmentâ€™s excessive use of 
+and unreasonable terms, the Russian government’s excessive use of 
 force specifically as well as its intimidation towards all forms of dissent 
 in general, especially against artistic and political freedom of 
 expression. 
@@ -38,8 +39,8 @@ voice can move, grow, debate, and generate a desire and belief in the
 right to individual autonomy and equality regardless of difference. And 
 so will we.
 
-As Dr. Martin Luther King Jr once famously wrote: â€œInjustice anywhere is 
-a threat to justice everywhereâ€¦ Whatever affects one directly, affects 
+As Dr. Martin Luther King Jr once famously wrote: “Injustice anywhere is 
+a threat to justice everywhere… Whatever affects one directly, affects 
 all indirectly.â€ 
 
 And so, the actions of Pussy Riot are our actions.
@@ -75,7 +76,7 @@ Dena Beard (Curator)
 Aja Rose Bond & Gabriel Saloman (The STAG)
 Alex Cuff (Writer, Teacher)
 Randy Lee Cutler (Emily Carr University)
-Courtney Dailey (Red76/Mildredâ€™s Lane/Project Mobile Livre - The Book 
+Courtney Dailey (Red76/Mildred’s Lane/Project Mobile Livre - The Book 
 Mobile)
 Joseph del Pesco (Kadist Art Foundation)
 Jamie Emerick (Artist)

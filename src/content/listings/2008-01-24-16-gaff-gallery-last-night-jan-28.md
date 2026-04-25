@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 16
 type: ""
+venue: "Gaff Gallery"
 summary: "Gaff Gallery | last night | JAN 28"
 ---
 

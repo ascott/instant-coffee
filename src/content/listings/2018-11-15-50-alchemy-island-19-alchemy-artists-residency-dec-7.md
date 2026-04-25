@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 50
 type: "CALL"
+venue: "Alchemy Island '19"
 summary: "Alchemy Island '19 | Alchemy Artists Residency | DEC 7"
 ---
 

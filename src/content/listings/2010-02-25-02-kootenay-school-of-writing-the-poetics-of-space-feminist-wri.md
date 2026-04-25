@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 2
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | The Poetics of Space: Feminist Writers in Dialogue | FEB 25"
 ---
 

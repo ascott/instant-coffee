@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 17
 type: ""
+venue: "THE ROBSON READING SERIES"
 summary: "THE ROBSON READING SERIES | SUZANNE BUFFFAM & DEREK LUNDY | MAR 24"
 ---
 
@@ -20,9 +21,9 @@ introduces us to a Chaplinesque literary "irrationalist" whose musings on
 such earthly wonders as clouds, flags, middle names and moonlight disclose
 new perspectives on time, faith, and the origins of life. At once whimsical
 and heartbreaking, these eccentric lyrics investigate the shifting grounds
-of knowledge while refusing to take any authority â€“ be it Epictetus,
-ThÃ©rÃ¨se de Lisieux, Nicolaus Copernicus, Ma Yuan, or the fugitive spectre
-of self â€“ too seriously. Suzanne currently teaches creative writing at the
+of knowledge while refusing to take any authority – be it Epictetus,
+Thérèse de Lisieux, Nicolaus Copernicus, Ma Yuan, or the fugitive spectre
+of self – too seriously. Suzanne currently teaches creative writing at the
 University of Chicago.
 
 Derek Lundy turns 60 at the end of a year in which three good friends have

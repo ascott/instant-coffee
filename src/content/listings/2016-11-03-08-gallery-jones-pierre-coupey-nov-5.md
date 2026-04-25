@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 8
 type: "TALK"
+venue: "Gallery Jones"
 summary: "Gallery Jones | PIERRE COUPEY | NOV 5"
 ---
 

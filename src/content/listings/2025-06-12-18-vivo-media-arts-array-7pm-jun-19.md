@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 18
 type: "PERFORMANCE"
+venue: "VIVO Media Arts"
 summary: "VIVO Media Arts | ARRAY | 7PM | JUN 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 30
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF CENTRE | Exterminating Angel Live Score | 730 | JUL 6"
 ---
 

@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Shary Boyle | Flesh and Blood | Ron Tran Off-site | JUN 16"
 ---
 
 The Contemporary Art Gallery launches two new projects: Flesh and Blood a 
-solo exhibition by Toronto-based artist Shary Boyle curated by Louise DÃ©ry, and 
+solo exhibition by Toronto-based artist Shary Boyle curated by Louise Déry, and 
 the interactive artwork A Way To Go by Vancouver-based artist Ron Tran, 
 commissioned by the Contemporary Art Gallery.
 
@@ -24,7 +25,7 @@ sculpture, painting, writing and performance Boyle creates installations that
 examine a range of psychological and emotional situations rooted in a fictional 
 world. Her position is at once feminist yet poetic, located within dreamlike states. 
 Tense with troubled emotions, possessing an expressive immediacy and poised 
-between grace and strangeness, her portraits and â€˜genre scenesâ€™ read as 
+between grace and strangeness, her portraits and ‘genre scenes’ read as 
 allegories of the human condition. Their resolutely symbolic language raises bold 
 perspectives on the present, revealing a conscience haunted by a consideration 
 of the morals of our world today. Centring on heredity, sexuality and death, and 
@@ -32,15 +33,15 @@ the nature of our place within the greater animal kingdom, these conditions form
 a visual investigation into the complex links between the individual and society as 
 a whole.
 
-Flesh and Blood is curated by Louise DÃ©ry and accompanied by a new 
+Flesh and Blood is curated by Louise Déry and accompanied by a new 
 hardcover catalogue, including images of work in the exhibition. It is available at 
 the Contemporary Art Gallery, priced $40. Please email 
 info@contemporaryartgallery.ca for more information. 
 
-The exhibition is organized by Galerie de l'UQAM (UniversitÃ© du QuÃ©bec Ã  
-MontrÃ©al) in partnership with the Art Gallery of Ontario and with the collaboration 
+The exhibition is organized by Galerie de l'UQAM (Université du Québec à 
+Montréal) in partnership with the Art Gallery of Ontario and with the collaboration 
 of the Contemporary Art Gallery, Vancouver. With support from The Canada 
-Council for the Arts and the Conseil des arts et des lettres du QuÃ©bec.
+Council for the Arts and the Conseil des arts et des lettres du Québec.
 
 At the Contemporary Art Gallery the exhibition is generously supported by 
 Canadian Heritage.
@@ -56,9 +57,9 @@ offering to walk them home at night or relocating ordinary objects such as his
 apartment door, which he removed for six weeks for display in an exhibition. 
 
 For A Way to Go, Tran guides his audience on an unexpected route through 
-Vancouverâ€™s downtown core, navigating alleyways and shortcuts. The 
-word â€˜alleyâ€™ derives from the original French word â€˜allÃ©eâ€™ which literally translates 
-as â€˜a way to goâ€™. For this project, Tran names several alleyways as a means to 
+Vancouver’s downtown core, navigating alleyways and shortcuts. The 
+word ‘alley’ derives from the original French word ‘allée’ which literally translates 
+as ‘a way to go’. For this project, Tran names several alleyways as a means to 
 establish their usage and elevate their status. Unlike traditional methods of street 
 naming, which often reference political figures or historical events, Tran has 
 used personal experiences, such as encounters with individuals and objects to 
@@ -66,7 +67,7 @@ determine the description of these overlooked places. Following the trail
 established by the artist, participants are led into an immersive, interactive 
 experience through the use of a GPS enabled mobile device. A series of digital 
 images, audio tracks and video files corresponding to specific locations are 
-revealed reflecting the artistâ€™s experiences and offering an understanding of his 
+revealed reflecting the artist’s experiences and offering an understanding of his 
 descriptive classifications while bringing to light hidden narratives. A Way to Go 
 creates opportunities to re-examine downtown Vancouver through a project that 
 is decidedly personal and unique.
@@ -86,12 +87,12 @@ Canadian Art Foundation. With special thanks to Hannah Hughes.
 
 Public Events
 
-Shary Boyle and Louise DÃ©ry in-conversation
+Shary Boyle and Louise Déry in-conversation
 Friday, June 17, 6pm
 An in-conversation event between artist and curator in conjunction with the 
 touring exhibition Flesh and Blood. Discussion will centre on the development of 
 the exhibition, its various differing presentations and focus on the major themes 
-running through Boyleâ€™s work. Places are free.
+running through Boyle’s work. Places are free.
 
 Walking Tour 
 Saturday July 9, 4pm 
@@ -116,7 +117,7 @@ grateful for the support of Vancouver Foundation and our members, donors, and
 volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada 
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 â€“ 6 pm. 
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 – 6 pm. 
 Admission is by donation. For more information please contact: 
 info@contemporaryartgallery.ca or 604.681.2700
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 34
 type: "CALL"
+venue: "ALCHEMY PEC 2024"
 summary: "ALCHEMY PEC 2024 | Residency - call for submissions | APR 15"
 ---
 

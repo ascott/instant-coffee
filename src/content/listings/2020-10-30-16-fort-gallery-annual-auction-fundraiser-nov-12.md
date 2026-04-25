@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 16
 type: "EVENT"
+venue: "Fort Gallery"
 summary: "Fort Gallery | Annual Auction Fundraiser | NOV 12"
 ---
 

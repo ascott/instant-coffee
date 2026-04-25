@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 17
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Stitch n Bitch Workshop - Boro | JUL 20"
 ---
 

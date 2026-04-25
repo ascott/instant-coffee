@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 10
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Moniker Press | Screen Ecologies Book Launch + Reading | MAR 29"
 ---
 

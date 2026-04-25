@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 35
 type: "EXHIBITION"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | MH Awareness | MAY 3"
 ---
 

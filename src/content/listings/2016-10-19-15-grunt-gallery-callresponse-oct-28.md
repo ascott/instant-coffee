@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like shoulder pads in a business s
 emailDate: "Wed, 19 Oct 2016 12:20:16 -0700"
 number: 15
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | #callresponse | OCT 28"
 ---
 

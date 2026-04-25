@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 11
 type: "OPENING"
+venue: "The Phoenix Gallery"
 summary: "The Phoenix Gallery | Interpretive Stories | OCT 2"
 ---
 

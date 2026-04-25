@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE OFFICE OF THE ORGANIZATION"
 emailDate: "Thu, 26 Mar 2009 11:30:07 -0700"
 number: 9
 type: ""
+venue: "UBC"
 summary: "UBC | Fifth Annual Art History Undergraduate Symposium | MAR 27"
 ---
 

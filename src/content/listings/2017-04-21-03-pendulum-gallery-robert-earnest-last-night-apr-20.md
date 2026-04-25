@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 3
 type: "OPENING"
+venue: "Pendulum Gallery"
 summary: "Pendulum Gallery | Robert Earnest Last Night | APR 20"
 ---
 

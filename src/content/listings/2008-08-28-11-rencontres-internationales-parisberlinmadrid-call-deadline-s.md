@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 11
 type: ""
+venue: "Rencontres Internationales Paris/Berlin/Madrid"
 summary: "Rencontres Internationales Paris/Berlin/Madrid | CALL | deadline | SEP 5"
 ---
 

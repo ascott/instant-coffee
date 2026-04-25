@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 11
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Reopening Celebration | 5PM | MAR 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vitrines"
 emailDate: "Thu, 31 Mar 2022 19:50:06 -0700"
 number: 35
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | 2022 ARTS WRITING MENTORSHIP | APR 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slow dance the sun down"
 emailDate: "Thu, 21 Jul 2011 14:35:58 -0700"
 number: 5
 type: ""
+venue: "Solder and Sons"
 summary: "Solder and Sons | Social with Barb Choit | JUL 21"
 ---
 

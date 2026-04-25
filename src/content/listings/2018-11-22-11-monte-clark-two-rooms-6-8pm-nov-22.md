@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 11
 type: "OPENING"
+venue: "Monte Clark"
 summary: "Monte Clark | TWO ROOMS | 6-8pm | NOV 22"
 ---
 

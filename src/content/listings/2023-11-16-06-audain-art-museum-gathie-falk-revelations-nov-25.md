@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: mets�npeitto"
 emailDate: "Wed, 15 Nov 2023 17:47:39 -0800"
 number: 6
 type: "EVENT"
+venue: "AUDAIN ART MUSEUM"
 summary: "AUDAIN ART MUSEUM | Gathie Falk: Revelations | NOV 25"
 ---
 

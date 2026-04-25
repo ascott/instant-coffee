@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Outsiders and Others window gallery"
 summary: "Outsiders and Others window gallery | The Many Faces of Time | MAY 8"
 ---
 

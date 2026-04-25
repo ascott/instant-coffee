@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 42
 type: "TALK"
+venue: "ECUAD - Rennie Hall"
 summary: "ECUAD - Rennie Hall | PANEL I Practice | 5PM | OCT 25"
 ---
 

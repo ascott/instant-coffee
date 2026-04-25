@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 57
 type: ""
+venue: "JOB"
 summary: "JOB | Access Gallery | STUDENT CO-OP POSITION: Curatorial Assistant | APR 29"
 ---
 

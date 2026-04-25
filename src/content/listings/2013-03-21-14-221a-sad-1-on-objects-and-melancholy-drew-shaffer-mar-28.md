@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 14
 type: ""
+venue: "221A"
 summary: "221A | SAD 1: On Objects and Melancholy, Drew Shaffer | MAR 28"
 ---
 
@@ -42,7 +43,7 @@ http://221a.ca/stratiform
 
 Upcoming SAD talks:
 - Thursday, March 28th, 8pm: On Objects and Melancholy: Drew 
-Shaffer (from Bakerâ€™s Dozen Antiques)
+Shaffer (from Baker’s Dozen Antiques)
 - Friday, April 5th, 8pm: On Spirits and Sadness: David McIntosh 
 (Battery Opera), with Jason Gowans and Mike Love; spirits tasting to 
 follow

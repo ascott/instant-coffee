@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 7
 type: "CALL"
+venue: "AHGSA of Concordia University"
 summary: "AHGSA of Concordia University | Thrivance | Le Fleurissement | MAR 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 41
 type: "CALL"
+venue: "Art Next Door"
 summary: "Art Next Door | Group Exhibition - 'Hanging Out' | NOV 1"
 ---
 

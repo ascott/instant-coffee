@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 20
 type: "EVENT"
+venue: "Capilano Review @ Arts Factory Society"
 summary: "Capilano Review @ Arts Factory Society | Future Concrete Reading | MAR 3"
 ---
 

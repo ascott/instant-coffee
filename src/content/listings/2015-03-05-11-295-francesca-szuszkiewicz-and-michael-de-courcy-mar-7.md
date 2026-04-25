@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 11
 type: "TALK"
+venue: "295"
 summary: "295 | Francesca Szuszkiewicz and Michael de Courcy | MAR 7"
 ---
 

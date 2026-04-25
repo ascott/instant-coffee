@@ -12,7 +12,7 @@ listingCount: 40
 instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-10-30-01-access-reading-by-steffanie-ling-performance-by-der-hammel-v">01. EVENT | Access | Reading by Steffanie Ling & Performance by Der Hammel von Kouver | OCT 29</a>
-<a href="/instant-coffee/listings/2015-10-30-02-screening-cineworks-viff-vancity-theatre-ghosts-of-the-civil">02. SCREENING | Cineworks & VIFF Vancity Theatre | Ghostsâ€¦ Of The Civil Dead (35mm) | OCT 29</a>
+<a href="/instant-coffee/listings/2015-10-30-02-screening-cineworks-viff-vancity-theatre-ghosts-of-the-civil">02. SCREENING | Cineworks & VIFF Vancity Theatre | Ghosts… Of The Civil Dead (35mm) | OCT 29</a>
 <a href="/instant-coffee/listings/2015-10-30-03-screening-viff-vancity-theatre-jem-noble-ghost-materialities">03. SCREENING | VIFF Vancity Theatre | Jem Noble: Ghost Materialities | OCT 29</a>
 <a href="/instant-coffee/listings/2015-10-30-04-or-gallery-myfanwy-macleod-the-private-life-of-the-rabbit-oc">04. OPENING | Or Gallery | Myfanwy MacLeod: The Private Life of the Rabbit | OCT 30</a>
 <a href="/instant-coffee/listings/2015-10-30-05-vag-traces-of-discovery-conversation-on-jerry-pethick-oct-30">05. TALK | VAG | Traces of Discovery: Conversation on Jerry Pethick | OCT 30</a>
@@ -21,7 +21,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2015-10-30-08-screening-cineworks-viff-vancity-theatre-they-live-oct-31">08. SCREENING | Cineworks & VIFF Vancity Theatre | They Live | OCT 31</a>
 <a href="/instant-coffee/listings/2015-10-30-09-screening-nikkei-national-museum-right-to-remain-documentary">09. SCREENING | Nikkei National Museum | Right to Remain documentary by Greg Masuda | OCT 31</a>
 <a href="/instant-coffee/listings/2015-10-30-10-vag-artists-tour-lee-bul-in-the-gallery-oct-31">10. TALK | VAG | Artist's Tour - Lee Bul - in the Gallery | OCT 31</a>
-<a href="/instant-coffee/listings/2015-10-30-11-unitpitt-19752055-art-and-community-panel-discussion-nov-3">11. TALK | UNIT/PITT | 1975â€“2055: Art and Community Panel Discussion | NOV 3</a>
+<a href="/instant-coffee/listings/2015-10-30-11-unitpitt-19752055-art-and-community-panel-discussion-nov-3">11. TALK | UNIT/PITT | 1975–2055: Art and Community Panel Discussion | NOV 3</a>
 <a href="/instant-coffee/listings/2015-10-30-12-vag-eric-metcalfe-gathie-falk-and-carole-itter-nov-3">12. TALK | VAG | Eric Metcalfe, Gathie Falk and Carole Itter | NOV 3</a>
 <a href="/instant-coffee/listings/2015-10-30-13-waap-graham-landin-nov-5">13. OPENING | WAAP | Graham Landin | NOV 5</a>
 <a href="/instant-coffee/listings/2015-10-30-14-vivo-bent-a-showcase-of-circuit-bending-nov-7">14. EVENT | VIVO | BENT: A Showcase of Circuit Bending | NOV 7</a>
@@ -67,7 +67,7 @@ occasional pamphlet of criticism and writing in Vancouver, and a
 curator at CSA Space. Currently, she is writing a book of letters and
 stories that weigh in on banality, social awkwardness and smoking.
 
-Tanya Lukin Linklaterâ€˜s practice spans experimental choreography,
+Tanya Lukin Linklater‘s practice spans experimental choreography,
 performance, video, and text. Her work has been performed/exhibited
 internationally, and her poetry and essays have been published in
 numerous journals and catalogues. She studied atUniversity of Alberta
@@ -77,11 +77,11 @@ family from the Native Villages of Port Lions and Afognak in southern
 Alaska and makes her home in northern Ontario, Canada.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-10-30-02-screening-cineworks-viff-vancity-theatre-ghosts-of-the-civil">02. SCREENING | Cineworks & VIFF Vancity Theatre | Ghostsâ€¦ Of The Civil Dead (35mm) | OCT 29</a>
+<a href="/instant-coffee/listings/2015-10-30-02-screening-cineworks-viff-vancity-theatre-ghosts-of-the-civil">02. SCREENING | Cineworks & VIFF Vancity Theatre | Ghosts… Of The Civil Dead (35mm) | OCT 29</a>
 ------------------------------------------------------------------------
 Cineworks and VIFF Vancity Theatre present:
 
-Ghostsâ€¦ Of The Civil Dead (Australia, 1988, 93 mins)
+Ghosts… Of The Civil Dead (Australia, 1988, 93 mins)
 35mm film print from the National Film and Sound Archive of Australia
 Director: John Hillcoat
 Writer/Producer: Evan English
@@ -97,7 +97,7 @@ Concessions: $9
 Non-members: $11
 Tickets: http://bit.ly/1M5A6zi
 Special Offer: This screening is FREE with a ticket to Ghost Materialities
-â€“ details at http://bit.ly/1OGRKAj
+– details at http://bit.ly/1OGRKAj
 
 This is a one-off screening opportunity made possible by exceptional
 permission granted to Jem Noble (Cineworks) by Producer Evan English,
@@ -107,10 +107,10 @@ doubly special with a screening from 35mm film print from the National Film
 and Sound
 Archive of Australia.
 
-Long in rights limbo (and never issued on bluray), GHOSTSâ€¦ Of The Civil
+Long in rights limbo (and never issued on bluray), GHOSTS… Of The Civil
 Dead is a near legendary Australian prison drama co-written and starring
 Nick Cave, and the feature debut of director John Hillcoat (The Road; The
-Proposition). Hard-hitting doesnâ€™t begin to do it justice, this is an
+Proposition). Hard-hitting doesn’t begin to do it justice, this is an
 intense, scary, uncompromising film, but one that seems more relevant than
 ever judging by the mini-industry in prison-building that has taken over
 North America in the interim.
@@ -122,13 +122,13 @@ report on its causes. The film, like the Committee, flashes back to trace
 the events that have led to the lockdown. What we see is a process of
 systematic, brutalizing repression - culminating in an explosion of violence.
 
-"Echoes of Stanley Kubrick at his most uncompromisingâ€¦" Derek Malcolm, The
+"Echoes of Stanley Kubrick at his most uncompromising…" Derek Malcolm, The
 Guardian
 
 "The most powerful ever to come out of Australia." Andrew Urban, The Age
 
-"The anger that seethes throughout John Hillcoatâ€™s debut feature film,
-Ghostsâ€¦ of the Civil Dead, can be felt in almost every scene." Thomas
+"The anger that seethes throughout John Hillcoat’s debut feature film,
+Ghosts… of the Civil Dead, can be felt in almost every scene." Thomas
 Caldwell, Senses of Cinema
 
 Founded in 1982, The Greater Vancouver International Film Festival Society
@@ -153,7 +153,7 @@ VIFF Vancity Theatre presents:
 JEM NOBLE
 Ghost Materialities: Undisclosed Forces and the Neoliberal Subject
 
-Essay-Performance and Artist Edits of Ghostsâ€¦ Of The Civil Dead (John
+Essay-Performance and Artist Edits of Ghosts… Of The Civil Dead (John
 Hillcoat) and They Live (John Carpenter)
 
 Total Running Time: 75 minutes
@@ -165,7 +165,7 @@ VIFF Vancity Theatre
 Concessions: $9
 General Admission: $11
 Special Offer: Tickets for this presentation provide free entry to the
-subsequent screening of Ghostsâ€¦ Of The Civil Dead, 8.45pm
+subsequent screening of Ghosts… Of The Civil Dead, 8.45pm
 (http://bit.ly/1OQIRlY)
 Tickets: http://bit.ly/1QQ3f5P
 
@@ -196,14 +196,14 @@ responsibility; in understanding the forces shaping and comprising our own
 subjectivities; in the shadow of growing, elitist, economic power.
 
 This presentation will be followed by a rare screening of the theatrical
-version of Ghostsâ€¦ Of The Civil Dead, in partnership with Cineworks. This
+version of Ghosts… Of The Civil Dead, in partnership with Cineworks. This
 is a one-off screening opportunity made possible by exceptional permission
 granted to Jem Noble by Producer Evan English, during an unresolved period
 when all other screening rights (including those requested by TIFF) are
 being withheld. This unique event is made doubly special with a screening
 from 35mm film print from the National Film and Sound Archive of Australia.
 
-John Carpenterâ€™s They Live screens at Vancity Theatre in partnership with
+John Carpenter’s They Live screens at Vancity Theatre in partnership with
 Cineworks on Halloween.
 
 Jem Noble is based in Vancouver and works with a wide range of production
@@ -215,7 +215,7 @@ installations and publications that draw the aesthetics of material and
 visual culture into questions of what forces they express, mediate and connect.
 
 Among recent projects Noble has produced image, text and audio work in
-conjunction with Bruce Naumanâ€™s Days at the ICA, London; created a
+conjunction with Bruce Nauman’s Days at the ICA, London; created a
 lecture-performance for the European Art Research Network at Documenta 13;
 developed a lending-library of self-improvement materials on commercially
 obsolete media found in Hobart second-hand shops for permanent installation
@@ -296,7 +296,7 @@ info@accessgallery.ca or 604 689 2907.
 
 Alana Bartol an interdisciplinary artist, curator, and educator from
 Windsor, Ontario, currently based in Calgary, Alberta. She is interested
-in ecology as a â€˜life scienceâ€™ that interrogates relationships between
+in ecology as a ‘life science’ that interrogates relationships between
 place and self, nature, and community. Her collaborative and individual
 works explore concepts of visibility and survival through our
 relationships with nature and each other. Bartol holds an MFA from
@@ -307,17 +307,17 @@ first student-run gallery, and received a Thomas C Rumble Fellowship.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-10-30-07-cag-audain-and-or-gallery-downtown-galleries-tour-oct-31">07. TALK | CAG, Audain and Or Gallery | Downtown Galleries Tour | OCT 31</a>
 ------------------------------------------------------------------------
-The Contemporary Art Gallery, Audain Gallery and Or Gallery presentâ€¦
+The Contemporary Art Gallery, Audain Gallery and Or Gallery present…
 Downtown Galleries Tour
 Saturday, October 31, 1-3pm
 
-This special â€˜Halloween Downtown Galleries Tourâ€™ begins with the
-exhibition: Lili Reynaud-Dewar: â€˜My Epidemic (Teaching Bjarne Melgaard's
-Class)â€™ led by curator Amy Kazymerchyk with the artist and seminar students
-at Audain Gallery at 1pm and Myfanwy MacLeod, â€˜The Private Life of the
-Rabbitâ€™ at Or Gallery at 2pm. Finally, concluding with CAG curator, Shaun
-Dacey touring the exhibition: Ryan Gander, â€˜Make every show like it's your
-lastâ€™, at 3pm. Join in the tour all the way through or jump in at any stop.
+This special ‘Halloween Downtown Galleries Tour’ begins with the
+exhibition: Lili Reynaud-Dewar: ‘My Epidemic (Teaching Bjarne Melgaard's
+Class)’ led by curator Amy Kazymerchyk with the artist and seminar students
+at Audain Gallery at 1pm and Myfanwy MacLeod, ‘The Private Life of the
+Rabbit’ at Or Gallery at 2pm. Finally, concluding with CAG curator, Shaun
+Dacey touring the exhibition: Ryan Gander, ‘Make every show like it's your
+last’, at 3pm. Join in the tour all the way through or jump in at any stop.
 
 Audain Gallery
 149 West Hastings Street, Vancouver
@@ -353,7 +353,7 @@ reveal the true nature of the world we live in: the power elite is in fact
 an alien race, feeding off our apathy through the promotion of rampant
 consumerism. Far-fetched? Tell that to Donald Trump!
 
-See also Ghost Materialities, Thurs 29 October â€“ a presentation addressing
+See also Ghost Materialities, Thurs 29 October – a presentation addressing
 this film and John Hillcoat's Ghosts... Of The Civil Dead (both released in
 1988) as searing critiques of Reaganomics / Neoliberalism:
 http://bit.ly/1OGRKAj
@@ -379,18 +379,18 @@ www.cineworks.ca
 <a href="/instant-coffee/listings/2015-10-30-09-screening-nikkei-national-museum-right-to-remain-documentary">09. SCREENING | Nikkei National Museum | Right to Remain documentary by Greg Masuda | OCT 31</a>
 ------------------------------------------------------------------------
 Revitalizing Japantown? Exhibition
-October 24, 2015 â€“ January 31, 2016
+October 24, 2015 – January 31, 2016
 Nikkei National Museum
 6688 Southoaks Crescent, Burnaby (corner of Kingsway & Sperling)
 www.nikkeiplace.org
 
-A creative repossession of the human rights legacies of Vancouverâ€™s
+A creative repossession of the human rights legacies of Vancouver’s
 Downtown Eastside (DTES). This multi-layered exhibition looks at the
 contradictions, co-optation, commemoration, heritage, and redress that have
 shaped the DTES as unearthed by a three-year Social Sciences and Humanities
 Research Council of Canada (SSHRC)-funded research project.
 
-PUBLIC PROGRAMS â€“ Free and open to the public
+PUBLIC PROGRAMS – Free and open to the public
 
 Saturday, October 31, 2015
 3pm
@@ -399,7 +399,7 @@ Film Screening of Right to Remain documentary by Greg Masuda
 Saturday, November 28, 2015
 2pm
 Right to Remain Artist Team talk and Pie Chats in collaboration with the
-â€˜Seeing the Whole Pictureâ€™ Project
+‘Seeing the Whole Picture’ Project
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-10-30-10-vag-artists-tour-lee-bul-in-the-gallery-oct-31">10. TALK | VAG | Artist's Tour - Lee Bul - in the Gallery | OCT 31</a>
@@ -415,16 +415,16 @@ Free for Members or with Gallery admission.
 Meet at the Title Wall.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2015-10-30-11-unitpitt-19752055-art-and-community-panel-discussion-nov-3">11. TALK | UNIT/PITT | 1975â€“2055: Art and Community Panel Discussion | NOV 3</a>
+<a href="/instant-coffee/listings/2015-10-30-11-unitpitt-19752055-art-and-community-panel-discussion-nov-3">11. TALK | UNIT/PITT | 1975–2055: Art and Community Panel Discussion | NOV 3</a>
 ------------------------------------------------------------------------
-1975â€“2055: Art and Community Panel Discussion
+1975–2055: Art and Community Panel Discussion
 
-Tuesday November 3, 7â€“9 p.m.
+Tuesday November 3, 7–9 p.m.
 Co-presented by: UNIT/PITT Projects and Vancouver Moving
 Theatre/Heart of the City Festival
 Location: UNIT/PITT Projects, 236 East Pender St.
 
-1975â€“2055: Art and Community is a panel discussion co-presented by
+1975–2055: Art and Community is a panel discussion co-presented by
 UNIT/PITT Projects (part of 2055 public programs) and Vancouver
 Moving Theatre/Heart of the City Festival that brings together
 representatives of five community-driven arts organization in the DTES.
@@ -440,12 +440,12 @@ elaborate a framework for sustaining the communities and the
 practices driving these organizations.
 
 Panelists:
-Terry Hunter â€“ Vancouver Moving Theatre
-Cecily Nicholson â€“ Gallery Gachet
-Michael Clague â€“ Community Arts Council of Vancouver
-Andrea Creamer â€“ SFU, Super Cool Tuesdays, Toast Collective
-Laiwan â€“ Or Gallery founding curator, activist, artist
-Jamie Ward â€“ UNIT/PITT Projects
+Terry Hunter – Vancouver Moving Theatre
+Cecily Nicholson – Gallery Gachet
+Michael Clague – Community Arts Council of Vancouver
+Andrea Creamer – SFU, Super Cool Tuesdays, Toast Collective
+Laiwan – Or Gallery founding curator, activist, artist
+Jamie Ward – UNIT/PITT Projects
 
 
 ------------------------------------------------------------------------
@@ -527,7 +527,7 @@ BENT: A Showcase of Circuit Bending at VIVO
 Saturday, November 7th . Doors at 7pm
 2625 Kaslo Street, Vancouver, BC, Canada, BC V5M 3G9
 
-If youâ€™re remotely interested in electronics, experimental music, hacking,
+If you’re remotely interested in electronics, experimental music, hacking,
 or just want to get transported to another dimension, this event is worth
 visiting.
 
@@ -570,7 +570,7 @@ unforgettable program of experimental music at the Orpheum Annex on
 Sunday, November 8, 2015.
 
 The centre piece of SEE is a new composition written by Remy Siu
-specifically for Vancouver Chinese Music Ensemble (VCME): â€œVCME is
+specifically for Vancouver Chinese Music Ensemble (VCME): “VCME is
 presenting an exciting opportunity for me to explore the tension
 between the instruments of my ancestors and my Western composition
 training. The demographic of Vancouver has allowed these unique
@@ -584,9 +584,9 @@ Chinese-Canadian on the West Coast of Canada.â€
 
 The other highlight of the program will be the premiere of a piece by
 interdisciplinary media artist Sammy Chien who will perform (dance)
-and lead the musicians through physical gestures: â€œWith this piece Iâ€™d
+and lead the musicians through physical gestures: “With this piece I’d
 like to explore the notion of Wu Wei, which is a Taoist philosophy of the
-â€˜non-doingâ€™. I see it as an attitude, a way of life that is without much
+‘non-doing’. I see it as an attitude, a way of life that is without much
 effort and intentions while naturally attaining harmony with the
 universe.â€ 
 
@@ -646,13 +646,13 @@ Lief Hall is a composer, singer-songwriter, director/choreographer and
 creator of opera, musical theatre, video and installation. Hall was
 previously the vocalist for Vancouver no wave punk band Mutators
 (2007), a vocalist for the improvisational trio Glaciers (2009), and
-one half of Canadian â€˜femme noirâ€™ pop duo MYTHS (2012). Her most
+one half of Canadian ‘femme noir’ pop duo MYTHS (2012). Her most
 recent EP Transform (2015) marks a new direction in her solo musical
 work, creating dark electronic pop, which merges the experimental
 dance music with layered vocal harmonies, exploring themes of love,
 identity, and fear in a post-human world. Hall has performed her solo
 music alongside artists such as Bear in Heaven and Inga Coupland and
-was named on NMEâ€™s list of â€™50 Brand New Artists Set to Storm in
+was named on NME’s list of ’50 Brand New Artists Set to Storm in
 2015′.
 
 Her interdisciplinary installation and performance works explore
@@ -684,14 +684,14 @@ in the world.
 For Remembrance Day, DIM Cinema presents Stella Polare, an immersive essay
 film on the nature of war, terror and resistance; loss, memory and
 forgetting. The soft voice of an anonymous narrator addresses us, the
-viewers, in the second person, situating us behind the camera as flÃ¢neurs
-casting our strangerâ€™s gaze across an unnamed European city. There we
-encounter some of the townâ€™s inhabitants as they stroll along a jetty in
+viewers, in the second person, situating us behind the camera as flâneurs
+casting our stranger’s gaze across an unnamed European city. There we
+encounter some of the town’s inhabitants as they stroll along a jetty in
 the fading evening light, peer into shop windows in half-deserted streets,
 and drift through the interiors of 19th-century apartments and museums,
 following the â€œdusted faded traces of a glorious imperial past.â€  From
 these images, and from fragments of sounds and voices, develops a forensic
-narrative around â€œpast histories, events and incidents that bleed into the
+narrative around “past histories, events and incidents that bleed into the
 presentâ€  (Andy Birtwhistle, Vertigo Magazine).
 
 Stella Polare | Great Britain 2006. Dir: Anthea Kennedy and Ian Wiblin. 76
@@ -732,10 +732,10 @@ Thursday, November 12th at 7:00PM (plus a film screening at 8:30PM)
 Djavad Mowafaghian World Art Centre @ Goldcorp Centre for the Arts
 (149 W Hastings St)
 
-In this book, Laura Marks examines one of the worldâ€™s most
+In this book, Laura Marks examines one of the world’s most
 impressive, and affecting, bodies of independent and experimental
 cinema from the last twenty-five years: film and video works from the
-Arabic-speaking world. Some of these worksâ€™ creative strategies are
+Arabic-speaking world. Some of these works’ creative strategies are
 shared by filmmakers around the world; others arise from the particular
 economic, social, political, and historical circumstances of Arab
 countries, whose urgency, Marks argues, seems to demand
@@ -745,7 +745,7 @@ Grounded in a study of infrastructures for independent and
 experimental media art in the Arab world and a broad knowledge of
 hundreds of films and videos, Hanan al-Cinema approaches these
 works thematically. Topics include the nomadism of the highway,
-nostalgia for â€˜70s radicalism, a romance with the archive, algorithmic
+nostalgia for ‘70s radicalism, a romance with the archive, algorithmic
 and glitch media, haptic and networked space, and cinema of the body.
 Marks develops an aesthetic of enfolding and unfolding to elucidate the
 different ways that cinema can make events perceptible, seek
@@ -758,12 +758,12 @@ the Contemporary Arts at Simon Fraser University. She is the author of
 Enfoldment and Infinity: An Islamic Genealogy of New Media Art (MIT
 Press).
 
-â€œLaura U. Marks is one of the most original and remarkable minds of
+“Laura U. Marks is one of the most original and remarkable minds of
 this generation. Hanan al-Cinema is a singular achievement that
 continues Marks's journey through experimental film and video,
 vanguard media studies, and her deep engagement with Arab visual
 culture. Introducing a body of work that will be unfamiliar to many,
-Marksâ€™s searching analyses and insights make an invaluable
+Marks’s searching analyses and insights make an invaluable
 contribution to the field.â€  â€”Akira Mizuta Lippit, Chair, Bryan Singer
 Division of Critical Studies, USC School of Cinematic Arts
 
@@ -779,15 +779,15 @@ November 12 to November 29, 2015
 Opening Thursday, November 12, 7 pm. The Toast Collective, 648
 Kingsway, Vancouver BC
 
-â€œIt always seems a bit artificial to find your way back because all that
+“It always seems a bit artificial to find your way back because all that
 change has gone on, through the thinking before, the making and then
 the aftermath.â€ - Chantal Joffe
 
 Echoing the idea of Chantal Joffe, we cannot speak of the original
 intentions of the Tex Mex paintings. The series began as a reaction to
 fascinations; it is a series that evolved from the obsessive tendency of
-a painter. The viewer is presented with a loose narrative based on â€˜Tex
-Mexâ€™ food trends and a playful palette.
+a painter. The viewer is presented with a loose narrative based on ‘Tex
+Mex’ food trends and a playful palette.
 
 Corie Waugh is a visual artist who works with oil paint and
 photography. Her focus is on process-based work, paying close

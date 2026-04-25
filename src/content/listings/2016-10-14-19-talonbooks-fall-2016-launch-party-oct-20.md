@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part of the same \"changing west\"
 emailDate: "Fri, 14 Oct 2016 15:00:22 -0700"
 number: 19
 type: "EVENT"
+venue: "Talonbooks"
 summary: "Talonbooks | Fall 2016 Launch Party | OCT 20"
 ---
 

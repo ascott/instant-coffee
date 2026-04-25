@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 4
 type: "CALL"
+venue: "Edmonton Arts Council"
 summary: "Edmonton Arts Council | Urban Mural Opportunity (RFP) | JUL 4"
 ---
 

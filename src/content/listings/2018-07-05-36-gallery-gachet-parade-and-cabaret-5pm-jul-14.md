@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 36
 type: "EVENT"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Parade and Cabaret | 5PM | JUL 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 30
 type: "FUNDRAISER"
+venue: "AHVA Department @ CBC STUDIOS"
 summary: "AHVA Department @ CBC STUDIOS | Fundraiser for the 2017 BFA/BA Visual Art | FEB 3"
 ---
 

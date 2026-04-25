@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't let that hanker dangle"
 emailDate: "Thu, 03 Sep 2009 09:40:19 -0700"
 number: 3
 type: ""
+venue: "Belkin & Grunt"
 summary: "Belkin & Grunt | Celebration of Ruins in Process | SEP 3"
 ---
 

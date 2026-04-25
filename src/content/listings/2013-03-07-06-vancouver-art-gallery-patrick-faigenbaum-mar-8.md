@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 6
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | PATRICK FAIGENBAUM | MAR 8"
 ---
 

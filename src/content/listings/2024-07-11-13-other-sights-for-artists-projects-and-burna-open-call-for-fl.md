@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 13
 type: "CALL"
+venue: "Other Sights for Artists’ Projects and Burna"
 summary: "Other Sights for Artists’ Projects and Burna | Open call for FLEET: Edmonds | JUL 15"
 ---
 

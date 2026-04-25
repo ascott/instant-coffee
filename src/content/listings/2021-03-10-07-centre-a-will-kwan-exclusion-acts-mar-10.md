@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Will Kwan: Exclusion Acts | MAR 10"
 ---
 

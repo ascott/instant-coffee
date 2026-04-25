@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 18
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | GROWLER: birthday bash! | OCT 11"
 ---
 
 GROWLER: grunt gallery's birthday bash!
-Event Time: Saturday October 11th, 8pm â€“ 1am.
+Event Time: Saturday October 11th, 8pm – 1am.
 Location: The Anza Club, 3 W 8th Ave, Vancouver, BC V5Y 1M8
-Tickets: $10 â€“ available at the door.
+Tickets: $10 – available at the door.
 
 Celebrate grunt gallery's 30th anniversary at GROWLER. Arrive early to
-witness a special performance by poet Janet Rogers â€“ Mohawk writer and
+witness a special performance by poet Janet Rogers – Mohawk writer and
 Victoria's poet laureate. Ready yourself for heavy guitars, beats and
-indigenous drums and visuals with The Monster Project â€“ featuring artists
+indigenous drums and visuals with The Monster Project – featuring artists
 Chris Bose, Bracken Hanuse-Corlett and Dean Hunt. Finally, dance your way
 past midnight with a DJ set by hip-hop artist Ostwelve.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feeling so much doing so little"
 emailDate: "Thu, 12 Aug 2010 11:15:08 -0700"
 number: 2
 type: ""
+venue: "BROKEN PENCIL"
 summary: "BROKEN PENCIL | Summer Issue (#48) Out Now! | AUG 13"
 ---
 

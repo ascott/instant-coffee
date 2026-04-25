@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 20
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Deep Blue | Thomas Ankersmit,Valerio Tricoli,John Wiese |730PM | NOV 20"
 ---
 

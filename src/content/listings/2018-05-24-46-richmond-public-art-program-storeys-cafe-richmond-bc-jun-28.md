@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 46
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Storey's Cafe, Richmond, BC | JUN 28"
 ---
 

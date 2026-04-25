@@ -17,11 +17,11 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-06-19-03-make-gallery-vancouver-creatives-a-photography-exhibit-by-vn">03. Make Gallery | Vancouver Creatives: A Photography Exhibit by VNB | JUN 19</a>
 <a href="/instant-coffee/listings/2014-06-19-04-vivo-media-arts-centre-the-meg-torwl-collection-reception-ju">04. VIVO Media Arts Centre | THE MEG TORWL COLLECTION | RECEPTION | JUN 19</a>
 <a href="/instant-coffee/listings/2014-06-19-05-avenue-opening-and-performance-allison-watters-jun-20">05. Avenue: opening and performance | Allison Watters | JUN 20</a>
-<a href="/instant-coffee/listings/2014-06-19-06-iris-film-collective-your-neighbours-window-film-nights-jun-">06. Iris Film Collective | YOUR NEIGHBOURâ€™S WINDOW FILM NIGHTS | JUN 20</a>
+<a href="/instant-coffee/listings/2014-06-19-06-iris-film-collective-your-neighbours-window-film-nights-jun-">06. Iris Film Collective | YOUR NEIGHBOUR’S WINDOW FILM NIGHTS | JUN 20</a>
 <a href="/instant-coffee/listings/2014-06-19-07-satellite-gallery-tour-of-queering-citizenship-with-jayne-wi">07. Satellite Gallery | Tour of Queering Citizenship with Jayne Wilkinson | JUN 21</a>
 <a href="/instant-coffee/listings/2014-06-19-08-vancouver-art-gallery-artist-talk-janet-cardiff-and-george-b">08. Vancouver Art Gallery | Artist Talk: Janet Cardiff and George Bures Miller | JUN 21</a>
 <a href="/instant-coffee/listings/2014-06-19-09-contemporary-art-gallery-emerging-dance-summer-intensive-cal">09. Contemporary Art Gallery | Emerging Dance Summer Intensive Call | JUN 25</a>
-<a href="/instant-coffee/listings/2014-06-19-10-sfu-galleries-at-artists-studio-talk-kelly-lycan-jun-25">10. SFU Galleries at Artistâ€™s Studio | Talk: Kelly Lycan | JUN 25</a>
+<a href="/instant-coffee/listings/2014-06-19-10-sfu-galleries-at-artists-studio-talk-kelly-lycan-jun-25">10. SFU Galleries at Artist’s Studio | Talk: Kelly Lycan | JUN 25</a>
 <a href="/instant-coffee/listings/2014-06-19-11-contemporary-art-gallery-artist-talk-maryam-jafri-jun-26">11. Contemporary Art Gallery | Artist Talk: Maryam Jafri | JUN 26</a>
 <a href="/instant-coffee/listings/2014-06-19-12-contemporary-art-gallery-western-front-and-dim-bernadette-by">12. Contemporary Art Gallery, Western Front and Dim | Bernadette by Duncan Campbell | JUN 26</a>
 <a href="/instant-coffee/listings/2014-06-19-13-dynamo-arts-association-hapt-in-the-organ-felt-by-jordan-mil">13. Dynamo Arts Association | Hapt in the Organ Felt by Jordan Milner | JUN 26</a>
@@ -43,7 +43,7 @@ Rodney Graham
 Torqued Chandelier Release 
 and Other Works
 
-June 20 â€“ August 17, 2014
+June 20 – August 17, 2014
 
 Opening Reception:
 Thursday, June 19, 8-10 pm
@@ -58,8 +58,8 @@ This spring and summer, three Vancouver galleries join forces with
 exhibitions to celebrate renowned Vancouver artist Rodney Graham. 
 Internationally known for his humour and deep engagement with exploring 
 ideas about art in our era of mass communication, Graham works in 
-several mediaâ€”film, video, photography, sound, text, sculpture, installation 
-and paintingâ€”to reflect his ongoing concerns that are part autobiography, 
+several media—film, video, photography, sound, text, sculpture, installation 
+and painting—to reflect his ongoing concerns that are part autobiography, 
 part detective novel, part psychoanalysis and part philosophy of 
 consciousness.
 
@@ -72,13 +72,13 @@ modern art history as Graham provides the tools to liberate forms ossified
 by authoritarianism so they can be energized anew. Dating from the late 
 1980s onward, many of the pieces presented are making Canadian 
 debuts. From light boxes to video, paintings to installations, the spectrum 
-of work exhibited highlights Grahamâ€™s considerable and varied inspirations.
+of work exhibited highlights Graham’s considerable and varied inspirations.
 
 The Morris and Helen Belkin Art Gallery at the University of British 
 Columbia and Charles H. Scott Gallery at the Emily Carr University of Art + 
 Design are mounting Graham shows relying on key loans from the Rennie 
 Collection. The Belkin exhibition (June 20-August 17) is built around 
-Torqued Chandelier Release (2005)â€”a film loop of a spinning chandelierâ€”
+Torqued Chandelier Release (2005)—a film loop of a spinning chandelier—
 with other works from both the Belkin collection, including Vexation Island 
 (1997), and the artist of "things that turn" and contain sexual connotations.
 
@@ -133,7 +133,7 @@ of sound lies. It is another dimension of assemblage, driven by desire.
 The use of sound in space exonerates the use of linear thinking and
 inherently links itself to a rhizomatic and affectual space.
 
-The rhizome is inherently connected to an artistÃ¢â‚¬â„¢s practice, as each 
+The rhizome is inherently connected to an artistâ€™s practice, as each 
 series,each study, is connected through a thought process that seeks to 
 grasp onto a certain interconnectivity of existence.
 
@@ -178,7 +178,7 @@ contemporarily. Midway between documentary and portraiture, the
 resulting 22 handprinted black-and-white photographs focus on many key 
 industries making up the creative fabric of present-day Vancouver. All 
 photographs are purely analog, a VNB Photo trait, being taken on special 
-coated paper using a massive 1920s 8Ã—10 camera system to deliver 
+coated paper using a massive 1920s 8×10 camera system to deliver 
 authentic and vibrant historical portraits of inspiring Vancouverites.
 
 For over 6 months, VNB reached out industry per industry to dozens of 
@@ -190,11 +190,11 @@ talents and vote for them to win individual industry categories. As a result
 10 of the portraits featured in the exhibition were directly chosen from the 
 participating community.
 
-The intent behind the work isnâ€™t to claim â€˜theâ€™ very best creative 
-Vancouverites but rather to offer an open discourse on â€˜who does whatâ€™ 
+The intent behind the work isn’t to claim ‘the’ very best creative 
+Vancouverites but rather to offer an open discourse on ‘who does what’ 
 remarkably in the most diverse yet inclusive fashion possible. In the end 
-the vision presented isnâ€™t absolute or conclusive: it brings together both the 
-promise and legacy of Vancouverâ€™s creative culture.
+the vision presented isn’t absolute or conclusive: it brings together both the 
+promise and legacy of Vancouver’s creative culture.
 
 View the full portfolio here: http://vnbphoto.com/vancouver-creatives/
 
@@ -296,10 +296,10 @@ Sculptures can be seen in performance with the artist on Friday June 20th,
 7pm at 165 e.Hastings.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-06-19-06-iris-film-collective-your-neighbours-window-film-nights-jun-">06. Iris Film Collective | YOUR NEIGHBOURâ€™S WINDOW FILM NIGHTS | JUN 20</a>
+<a href="/instant-coffee/listings/2014-06-19-06-iris-film-collective-your-neighbours-window-film-nights-jun-">06. Iris Film Collective | YOUR NEIGHBOUR’S WINDOW FILM NIGHTS | JUN 20</a>
 ------------------------------------------------------------------------
 Iris Film Collective Presents
-YOUR NEIGHBOURâ€™S WINDOW FILM NIGHTS!
+YOUR NEIGHBOUR’S WINDOW FILM NIGHTS!
 June 20/21/22 2014, 9:30pm nightly, various locations.
 
 FREE outdoor film screenings in the Grandview-Woodland Neighbourhood 
@@ -329,12 +329,12 @@ Satellite Gallery
 560 Seymour Street, 2nd Floor
 604-681-8425
 
-Join us for a tour of Satellite Galleryâ€™s current exhibition Queering 
+Join us for a tour of Satellite Gallery’s current exhibition Queering 
 Citizenship with Vancouver-based writer and scholar Jayne Wilkinson. 
 From Vancouver's West End to Zagreb, Croatia, Queering Citizenship 
 reflects a landscape that is socially and politically uneven. By considering 
 the climate of queer citizens in Eastern Europe and Africa, the exhibition 
-poses the question, â€œHow might art and culture help us to look again at the 
+poses the question, “How might art and culture help us to look again at the 
 way in which we understand the conditions of queer citizens in global 
 politics?â€  The artists in the exhibition engage with the term queer not only 
 as an identity that embraces different sexualities, genders, international 
@@ -344,7 +344,7 @@ the familiar ways citizenship and belonging are defined.
 The exhibition includes works by Canadian-based and international artists 
 Shawna Dempsey and Lorri Millan, Francisco-Fernando Granados, Igor 
 Grubić, Kevin Madill, Naufus RamÃ­rez-Figuroa, Benny Nemerofsky 
-Ramsay and Pascal LiÃ¨vre, Emily Roysdon and Alize Zorlutuna. Queering 
+Ramsay and Pascal Lièvre, Emily Roysdon and Alize Zorlutuna. Queering 
 Citizenship is curated by Derrick Chang, a Master's candidate in the 
 Critical and Curatorial Studies program at the University of British 
 Columbia.
@@ -376,12 +376,12 @@ Dark suggestive spaces full of embodied memory: Janet Cardiff and
 George Bures Miller will provide an overview of their works and practice, 
 focusing on the exhibition Lost in the Memory Palace a selected survey 
 exhibition opening June 20th, 2014 at the Vancouver Art Gallery. Lost in 
-the Memory Palace takes as its focus â€˜the room,â€™ with a selection of Cardiff 
+the Memory Palace takes as its focus ‘the room,’ with a selection of Cardiff 
 and Miller's work from the mid-1990s to today, presenting key early 
 installations such as The Dark Pool (1995) and The Muriel Lake Incident 
 (1999) and recent works including The Killing Machine (2007) and 
 Experiment in F# Minor (2013). The exhibition offers an opportunity to 
-consider the room as a metaphor in the artistsâ€™ works, as an offering 
+consider the room as a metaphor in the artists’ works, as an offering 
 shelter from a stormy world, a place to withdraw and to convalesce; or a 
 site of mystery and danger, and in some instances, of death. 
 
@@ -389,9 +389,9 @@ Janet Cardiff (b. 1957, Brussels, Ontario) and George Bures Miller (b.
 1960, Vegreville, Alberta) create immersive multimedia works usually 
 involving sound. Recent solo exhibitions include, the Art Gallery of Ontario, 
 Akademie der Kunste, Berlin; Luhring Augustine, New York; The 
-Hamburger Banhoff Museum fÃ¼r Gegenwart, Berlin; Modern Art Oxford; 
+Hamburger Banhoff Museum für Gegenwart, Berlin; Modern Art Oxford; 
 The Fruitmarket Gallery, Edinburgh; The Miami Art Museum; The Museu 
-d'Art Contemporani de Barcelona; and MathildenhÃ¶he, Darmstatdt. They 
+d'Art Contemporani de Barcelona; and Mathildenhöhe, Darmstatdt. They 
 were participants in dOCUMENTA (13) in Kassel, Germany, presenting 2 
 new works. Additionally, their work has been presented by several major 
 institutions, including MOMA, New York; P.S.1 Contemporary Art Center, 
@@ -420,7 +420,7 @@ Contemporary Art Gallery, Vancouver
 
 Emerging Dance Summer Intensive| Call for participants aged 17 to 25yrs old
 
-July 3 â€“ September 4, 2014
+July 3 – September 4, 2014
 (Every Tuesday and Thursday for three hour sessions)
 
 July dates: 12-3pm
@@ -446,9 +446,9 @@ developing an idea into a performance targeting self-motivated individuals
 who would benefit from a summer of discussions around the issues and 
 questions that arise for emerging artists today.
 
-The Summer Intensive is part of the CAGâ€™s two month residency with artist 
+The Summer Intensive is part of the CAG’s two month residency with artist 
 Brendan Fernandes at the CAG Burrard Marina Field House Studio. 
-Participants will engage and respond to Fernandesâ€™ practice interrogating 
+Participants will engage and respond to Fernandes’ practice interrogating 
 their own perceptions of diaspora and cultural identity in relation to 
 authenticity. While in Vancouver, Fernandes will undertake new research 
 exploring the gendered and queer male body in ballet, questioning hierarchies 
@@ -457,7 +457,7 @@ studied ballet and modern dance techniques, and left due to injury, Fernandes
 seeks to explore the ways that this art form has affected and shaped his 
 sense of self, as a means to recover the language of movement embodied 
 within his own identity. Fernandes will work with a ballet foot stretcher, a 
-wooden device used to develop the â€˜perfectlyâ€™ formed arch in a dancerâ€™s foot. 
+wooden device used to develop the ‘perfectly’ formed arch in a dancer’s foot. 
 Considering the rigid physical requirements and its effect on those who 
 attempt to fit the mould, Fernandes proposes to develop a performance with 
 associated photographs utilizing architectural supports such as walls, floors, 
@@ -482,25 +482,25 @@ Contemporary Art Gallery, 555 Nelson Street, Vancouver
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-06-19-10-sfu-galleries-at-artists-studio-talk-kelly-lycan-jun-25">10. SFU Galleries at Artistâ€™s Studio | Talk: Kelly Lycan | JUN 25</a>
+<a href="/instant-coffee/listings/2014-06-19-10-sfu-galleries-at-artists-studio-talk-kelly-lycan-jun-25">10. SFU Galleries at Artist’s Studio | Talk: Kelly Lycan | JUN 25</a>
 ------------------------------------------------------------------------
 Kelly Lycan: Artist Talk
 Wednesday, June 25, 7pm
-Artistâ€™s Studio, 1202 East Pender Street, Vancouver
+Artist’s Studio, 1202 East Pender Street, Vancouver
 Free
 
 Kelly Lycan will discuss her installation and photo-based practice within 
 the context of her current exhibition at SFU Gallery entitled 
 Autobiography for No One. Examining how value, particularly for objects, 
-is contingent upon conditions of display, Lycanâ€™s work considers viewing 
+is contingent upon conditions of display, Lycan’s work considers viewing 
 conditions from the studio to the gallery while referencing retail 
 vernaculars, art history, design and commercial photography.
 
 Her all-white installation presents a proliferation of materials as a still life 
 within the platform of the gallery. Akin to a studio space, the gallery 
 contains this in-development installation to reveal the process of the still 
-life before it is captured or fixed. The talk will occur in Lycanâ€™s space of 
-production â€“ the studio â€“ which offers an opportunity to consider the 
+life before it is captured or fixed. The talk will occur in Lycan’s space of 
+production – the studio – which offers an opportunity to consider the 
 slippage between the studio and gallery and how the work operates 
 between (and beyond) these sites, as well as to examine the 
 monochrome and white itself.
@@ -520,7 +520,7 @@ Maryam Jafri
 Thursday, June 26, 7pm
 
 Please join us for a talk by New York based artist Maryam Jafri, one of the 
-artists included in The Act of Seeing with Oneâ€™s Own Eyes.
+artists included in The Act of Seeing with One’s Own Eyes.
 
 Maryam Jafri lives and works in New York and Copenhagen. In her moving 
 image works, Jafri blurs the distinction between scripted films and unscripted 
@@ -531,16 +531,16 @@ factory are not told that they are making fetish products to be sold to the
 masses in the United States, and this selective disclosure can be seen in the 
 disconnect between the production process and the final product itself. 
 Parallels can be made between the secretive nature within the leather 
-factory, the viewerâ€™s unsurety of who is an actor and who is not, as well as 
+factory, the viewer’s unsurety of who is an actor and who is not, as well as 
 to the overall editing process which yields a carefully restrained video work 
 about the complex topics of overseas factories and the world of fetish 
-paraphernalia. Jafriâ€™s solo exhibitions include: Solo Show, Gasworks, London 
+paraphernalia. Jafri’s solo exhibitions include: Solo Show, Gasworks, London 
 (2014); Backdrop, Bielefelder kustverein, Bielefeld, Germany (2013); Stages, 
 WYSPA Institute of Art, Gdansk (2012); Geographies, Museum of 
 Contemporary Art, Roskilde (2012); Headlines and Small Print (with Anderas 
 Fogarasi), Galerie Nova/WHW Zagreb (2012); Global Slum, Beirut Project 
 Space, Cairo (2012). She has also exhibited in group exhibitions including: 
-Fassbinder Jetzt â€“ Fassbinder and Contemporary Art, Deutsches 
+Fassbinder Jetzt – Fassbinder and Contemporary Art, Deutsches 
 Filmmuseum, Frankfurt (2013); Past is Present (Murals), Museum of 
 Contemporary Art, Detroit (2013); Ten Thousand Wiles, Hundred Thousand 
 Tricks, MuKHA, Antwerp (2013); When Attitudes Became Forms Become 
@@ -702,20 +702,20 @@ August 16, 2014.
 
 In A Trip To The Moon the works of Groat, Limit and Pinheiro destabilize 
 the viewer by removing any recognizable horizon line. The fragmentary 
-aspect of Maggie GroatÃ¢â‚¬â„¢s sculptural wall work Ã¢â‚¬Å“13 Moonlight 
+aspect of Maggie Groatâ€™s sculptural wall work â€œ13 Moonlight 
 Reflectors or A Proposal for Returning Moonlight Back to the Moon (August 
-3rd)Ã¢â‚¬ diffracts the exhibition in its reflection, dismantling the other works 
+3rd)â€ diffracts the exhibition in its reflection, dismantling the other works 
 in the show into an abstraction that challenges the surety of the spectator. 
-The leveler in Jimmy Limit photographic print Ã¢â‚¬Å“Level with Ginger Root 
+The leveler in Jimmy Limit photographic print â€œLevel with Ginger Root 
 on Grey (Accuracy, Agriculture, Conceal, Control, Even, Fluidity, Fresh, 
 Future, Healthy Eating, Herb, Isolation, Morality, Nobody, Progress, 
 Recovery, Success, Truth)belies its utilitarian value and becomes a foreign 
 object floating in negative space. His multiple slip cast ceramics hint at a 
 future archaeology, collection/archive of information that will eventually be 
 lost and rediscovered and examined or translated like the rediscovery of 
-Greek philosophy in the Middle Ages. [1] Andrea PinheiroÃ¢â‚¬â„¢s scanned 
-and enlarged paintings on photographic prints, Ã¢â‚¬Å“LadderÃ¢â‚¬ and Ã¢
-â‚¬Å“Bridge,Ã¢â‚¬ hint at this eventual unearthing and interpretation, marks 
+Greek philosophy in the Middle Ages. [1] Andrea Pinheiroâ€™s scanned 
+and enlarged paintings on photographic prints, â€œLadderâ€ and â
+€œBridge,â€ hint at this eventual unearthing and interpretation, marks 
 that contain a recognizable logic to be deciphered and a path to achieve it. 
 By exploring the assumption that what we know now will be identified in the 
 future, A Trip To The Moon stakes its claim on the skeptic and the optimist 
@@ -734,7 +734,7 @@ in his work include exotic fruit, hardware store goods and his own
 handmade ceramics. Drawing on industrial supply aesthetics, stock 
 imagery and his work as a commercial photographer, Limit addresses how 
 photography functions both as a tool of commerce and as a commodity. 
-LimitÃ¢â‚¬â„¢s work has recently appeared on the covers of C Magazine and 
+Limitâ€™s work has recently appeared on the covers of C Magazine and 
 cura Magazine (Italy) and has been featured in Magenta Magazine and 
 Canadian Art. He has exhibited in Toronto, Rome and New York City. His 
 work is on view this spring in solo shows at Rodman Hall/Brock University 
@@ -764,13 +764,13 @@ Lucie Chan and Marigold Santos: ATTACHMENTS
 June 27 to August 17, 2014
 
 The Richmond Art Gallery is pleased to present ATTACHMENTS by Lucie 
-Chan and Marigold Santos from June 27 â€“ August 17, 2014. Storytelling 
+Chan and Marigold Santos from June 27 – August 17, 2014. Storytelling 
 through drawing is important to the works in this exhibition. Creating 
 surreal worlds of elaborate detail, their drawings and paintings explore 
 notions of identity and place, cultural attachment and loss through the 
 seemingly ordinary and fleeting to the supernatural.
 
-Lucie Chanâ€™s drawings are derived from her conversations with others, 
+Lucie Chan’s drawings are derived from her conversations with others, 
 often strangers, who share their stories with her in what she calls a 
 â€œcultural lesson.â€  Her method of gathering stories varies according to the 
 situations she creates; in one she placed an ad calling for participants; in 
@@ -778,21 +778,21 @@ another she interviewed taxi drivers as she was being driven to the airport;
 more recently she lived and worked for a month in a small town in 
 Portugal. These personal exchanges are embodied in her installations; 
 comprised of hundreds of small drawings pinned precariously yet 
-expansively across the gallery walls. The installationâ€™s form and the 
-oddment of images depicted â€“ objects, words, animals and simple human 
-activity â€“ reflect on the temporal and elusive nature of human connections 
+expansively across the gallery walls. The installation’s form and the 
+oddment of images depicted – objects, words, animals and simple human 
+activity – reflect on the temporal and elusive nature of human connections 
 and longings.
 
 Guyanese-Canadian artist Lucie Chan holds a BFA with distinction from 
 ACAD University and a MFA from NSCAD University. Her work has been 
 shown nationally both in group and solo exhibitions. She has also 
-completed artistâ€“in-residence programs across Canada, and twice at 
-ARTerra in LobÃ£o da Beira, Portugal.
+completed artist–in-residence programs across Canada, and twice at 
+ARTerra in Lobão da Beira, Portugal.
 
-Marigold Santosâ€™ large scale paintings are informed by both her immigrant 
+Marigold Santos’ large scale paintings are informed by both her immigrant 
 experience and Filipino folklore she grew up with as a child. Notions of 
 attachment and separation, being grounded or uprooted relate to her 
-explorations of home, identity and place. Featured in some of Santosâ€™ 
+explorations of home, identity and place. Featured in some of Santos’ 
 paintings is a frightening creature known as the â€œasuangâ€  in Filipino 
 folklore. This vampire-like creature, generally depicted as female, severs 
 her body from the waist up, hunting at night and returning to her lower half 
@@ -803,7 +803,7 @@ potentially conflicting identities.
 Marigold Santos completed her BFA in Printmaking at the University of 
 Calgary in 2006, is a recipient of numerous awards, and has exhibited her 
 work within Canada, United States, and Japan. She currently resides in 
-MontrÃ©al, where she completed her MFA from Concordia University in 
+Montréal, where she completed her MFA from Concordia University in 
 2011.
 
 The opening is Thursday, June 26, 7:00 to 9:00pm. The artists will be in 
@@ -832,7 +832,7 @@ Email: gallery@richmond.ca
 ------------------------------------------------------------------------
 Eight Ounces Half a Pound: Guadalupe Martinez, Katherine Soucie, 
 Tommy Ting
-28 June â€“ 8 Aug, 2014
+28 June – 8 Aug, 2014
 Opening Reception Friday 27 June, 2014, 7:00 pm
 Yee Fung Toy Society Singers' performance at the opening reception, 
 7:00 pm
@@ -840,8 +840,8 @@ Yee Fung Toy Society Singers' performance at the opening reception,
 Eight Ounces Half a Pound considers lost local histories of labour that 
 have been silenced or overwritten through time. Referring to an ancient 
 Chinese idiom, the phrase â€œhalf a pound, right ouncesâ€  was sung by â€˜70s 
-Canto-Pop star Samuel Hui â€” who gained notoriety for incorporating 
-working class colloquialisms into his lyrics â€” and suggests that no matter 
+Canto-Pop star Samuel Hui — who gained notoriety for incorporating 
+working class colloquialisms into his lyrics — and suggests that no matter 
 what our efforts may be, we perpetually work to the same ends. 
 Presenting the work of three exceptional emergent artists, Eight Ounces 
 Half a Pound addresses the ghosts of those racialized labourers who 
@@ -849,13 +849,13 @@ once inhabited Vancouver, and the lost material archive of their
 experience and skill. Katherine Soucie works with pre-consumer waste 
 from the textile industry, binding cast-off, discarded fabrics to create 
 uncanny forms that recall the absent bodies of the workers themselves. 
-Tommy Tingâ€™s sculpture creates a facsimile of the dubiously dubbed â€œIron 
+Tommy Ting’s sculpture creates a facsimile of the dubiously dubbed “Iron 
 Chinkâ€  machine installed in Steveston canneries at the turn of the 
 twentieth century, which, as its name implies, was meant to replace the 
 (dreadfully underpaid) Chinese fish butchers. Guadalupe Martinez, 
 whose site-specific, research-based practice is concerned with ideas of 
 dispossession and belonging, gathers detritus that might speak to to the 
-neighborhoodâ€™s invisible pasts, assembling them within the gallery space 
+neighborhood’s invisible pasts, assembling them within the gallery space 
 as a vestige of lost movements, knowledge, lives and labour.
 
 ---
@@ -871,11 +871,11 @@ www.accessgallery.ca
 ------------------------------------------------------------------------
 Hadden Park Air Tasting Tour
 
-DATE: Saturday 28 June, 1:45pmâ€“4:15pm
+DATE: Saturday 28 June, 1:45pm–4:15pm
 LOCATION: Hadden Park Field House, 1015 Maple Street, Vancouver
 
 IN CASE OF RAIN the Tour will be rescheduled to Saturday 5 July, 
-2:30pmâ€“5:00pm.
+2:30pm–5:00pm.
 
 This tour will present a brief introduction to the practice of air tasting 
 followed by several guided tastings on the grounds of Hadden Park.
@@ -883,14 +883,14 @@ followed by several guided tastings on the grounds of Hadden Park.
 Please register on Eventbrite:
 https://www.eventbrite.com/e/hadden-park-air-tasting-tour-tickets-
 11941775171
-If youâ€™re interested but the registration is full please message me and Iâ€™ll 
+If you’re interested but the registration is full please message me and I’ll 
 try to make room for you.
 
 There is a $5 fee to help cover the cost of your air tasting handbook and 
 snacks.
 
-Some parts of the tour will be filmed. If you donâ€™t wish to be filmed please 
-let us know and weâ€™ll make sure to omit you.
+Some parts of the tour will be filmed. If you don’t wish to be filmed please 
+let us know and we’ll make sure to omit you.
 
 MORE INFO ABOUT AIR TASTING:
 
@@ -899,7 +899,7 @@ Briefly put, Air Tasting is simply paying close attention to your experience
 of the air and trying to develop an increased awareness of it. Although 
 focused mainly on the olfactory sense of smell it also encompasses 
 haptic perceptions such as temperature, texture and humidity. There are 
-a few easy steps one can take to heighten oneâ€™s olfactory sense, and 
+a few easy steps one can take to heighten one’s olfactory sense, and 
 some basic vocabularies can help in identifying different aromas and 
 sensations. Like wine tasting, air tasting can be both an individual and a 
 social activity. Ultimately it is about your own experience, but sharing 
@@ -910,8 +910,8 @@ For more info about Air Tasting visit http://airtasting.com/
 
 If you have any questions please contact me at info@airtasting.com
 
-The Hadden Park Air Tasting tour is presented by Alex GrÃ¼nenfelder in 
-collaboration with the Vancouver Board of Parks and Recreationâ€™s Field 
+The Hadden Park Air Tasting tour is presented by Alex Grünenfelder in 
+collaboration with the Vancouver Board of Parks and Recreation’s Field 
 House Residency program. The Hadden Park Field House at 1015 Maple 
 Street is currently being used by the artist group ten fifteen maple for a 
 three-year residency. The residency is one of several taking place in field 
@@ -983,7 +983,7 @@ Potential points of discussion could include, but are not limited to: land and
 ecology, artistic communities, isolation, language, sovereignty, regional 
 history, neighborhoods, local politics, urban development, relocation, and 
 itinerancy.
-What It Looks Like embraces professional, experimental and naÃ¯ve audio 
+What It Looks Like embraces professional, experimental and naïve audio 
 work about art. Submissions need not be accompanied by a CV, nor is 
 formal training in art, recording, or writing a requirement in order to submit 
 work.
@@ -1039,7 +1039,7 @@ the creativity of the filmmakers involved in producing them. Submissions
 from independent and commercial filmmakers, emerging or established, 
 are all recognized and encouraged.
 
-Renderâ€™s focus is on innovative and cutting-edge music videos that push 
+Render’s focus is on innovative and cutting-edge music videos that push 
 the creative boundaries of the art form. The music video is often seen as a 
 supplement to the music in the video: Render turns this understanding 
 upside-down, championing the videos, the work that goes into them and 
@@ -1078,10 +1078,10 @@ The artists in the exhibition are connected through their relationships to
 one another, as mentors, teachers, students, and friends, and their works 
 address overlapping themes, or even depict the same sights as different 
 visions. Set side by side in the exhibition, windows by Roy Kiyooka and 
-Takao Tanabe look out and in, Pierre Coupeyâ€™s remembered landscape is 
-contrasted with John Fulkerâ€™s real-time photograph, and an apparently 
+Takao Tanabe look out and in, Pierre Coupey’s remembered landscape is 
+contrasted with John Fulker’s real-time photograph, and an apparently 
 dispassionate aerial view of Canada by Michael de Courcy connects Sylvia 
-Taitâ€™s intimate Montreal interior to a publicly accessible Howe Sound drawn 
+Tait’s intimate Montreal interior to a publicly accessible Howe Sound drawn 
 by B. C. Binning.
 
 Although the islands in one harbour may share wall space with the islands 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 8
 type: "FUNDRAISER"
+venue: "Or Gallery"
 summary: "Or Gallery | Happy BOrthday | 7 pm | DEC 7"
 ---
 

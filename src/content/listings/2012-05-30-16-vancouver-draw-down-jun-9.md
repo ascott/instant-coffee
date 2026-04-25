@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 16
 type: ""
+venue: "VANCOUVER DRAW DOWN"
 summary: "VANCOUVER DRAW DOWN | | JUN 9"
 ---
 
@@ -20,7 +21,7 @@ Saturday June 9, 2012
 Think you can't draw? Think again.
 
 Vancouver Draw Down is an annual, daylong celebration of drawing 
-that challenges every single Vancouveriteâ€”young and oldâ€”to dispel 
+that challenges every single Vancouverite—young and old—to dispel 
 their preconceptions about drawing, touch a pen to a piece of paper, 
 and make a mark. If you can write your name, you can draw!
 
@@ -109,7 +110,7 @@ for everyone, they're portraits like you've never seen. FREE
 
 Micro/Macro Drawing Lab at The Roundhouse - 11am-4pm
 The Roundhouse, 181 Roundhouse Mews, Vancouver
-Step inside Radix Theatreâ€™s Micro/Macro Drawing Lab to magnify worlds 
+Step inside Radix Theatre’s Micro/Macro Drawing Lab to magnify worlds 
 within worlds as you transform the tiny into the enormous. FREE
 
 Human and Animal Forms at MOA - 11am-4pm
@@ -125,7 +126,7 @@ of togetherness as you draw serious and silly portraits of each other.
 FREE
 
 The Face of our Community at ArtStarts - 12pm-4pm
-ArtStarts Gallery â€“ 808 Richards Street, Vancouver
+ArtStarts Gallery – 808 Richards Street, Vancouver
 Get "drawn in" to a collaborative window mural, participate in a still life 
 drawing activity with a twist, or doodle on the sidewalk chalk art mural. 
 FREE
@@ -193,13 +194,13 @@ expressing thoughts. It's a problem-solving tool, a brainstorming
 mechanism, a way to visualize outcomes and a means of creative 
 exchange. It's also a powerful communication device that transcends 
 barriers of language and literacy. The more you draw, the more detail 
-you see in your everyday lifeâ€”shadow, colour, shape, reflection, 
+you see in your everyday life—shadow, colour, shape, reflection, 
 texture.
 
 It's time to spark the right side of your brain and connect with the 
 innovative and imaginative recesses of your mind. This is about 
-process and pleasure, not about technical skill. That's why everyoneâ€”
-including YOUâ€”can participate! 
+process and pleasure, not about technical skill. That's why everyone—
+including YOU—can participate! 
 
 Media Contact: Kara Gibbs | vandrawdown@gmail.com | 604.644.6985 | 
 www.vancouverdrawdown.com

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | Macaulay & Co. Fine Art | Barb Choit: Pronk Boutique - Extended"
 ---
 

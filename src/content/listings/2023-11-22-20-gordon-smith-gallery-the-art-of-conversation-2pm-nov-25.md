@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 20
 type: "TALK"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | The Art of Conversation | 2PM | NOV 25"
 ---
 

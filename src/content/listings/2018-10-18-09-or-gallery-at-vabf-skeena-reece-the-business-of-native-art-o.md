@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 9
 type: "EVENT"
+venue: "Or Gallery at VABF"
 summary: "Or Gallery at VABF | Skeena Reece: The Business of Native Art... | OCT 18"
 ---
 

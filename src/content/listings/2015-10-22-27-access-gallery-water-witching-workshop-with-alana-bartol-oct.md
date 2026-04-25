@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 27
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | Water Witching Workshop with Alana Bartol | OCT 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 14
 type: "OPENING"
+venue: "Rising Sun Gallery"
 summary: "Rising Sun Gallery | Decolonization: Transcendence of an Indigenous Ide | AUG 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 63
 type: "CALL"
+venue: "Dazibao"
 summary: "Dazibao | online, Instagram residency | MAY 15"
 ---
 

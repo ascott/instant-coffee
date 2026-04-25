@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 11
 type: ""
+venue: "Emily Carr Alumni Gallery"
 summary: "Emily Carr Alumni Gallery | Sean Mills | MAR 26"
 ---
 
 Emily Carr Alumni Gallery QE Theatre| Sean Mills | MAR 26
 
-March 26 â€“ May 27, 2013
+March 26 – May 27, 2013
 Telling Time While Travelling at the Speed of Light
 Sean Mills
 

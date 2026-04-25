@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 34
 type: "EVENT"
+venue: "Fort Gallery (Fort Langley)"
 summary: "Fort Gallery (Fort Langley) | 4th Friday | Allan Briesmaster | 7PM | MAR 27"
 ---
 

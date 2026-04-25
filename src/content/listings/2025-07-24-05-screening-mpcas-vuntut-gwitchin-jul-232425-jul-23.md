@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 5
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | MPCAS | Vuntut Gwitchin | JUL 23,24,25 | JUL 23"
 ---
 

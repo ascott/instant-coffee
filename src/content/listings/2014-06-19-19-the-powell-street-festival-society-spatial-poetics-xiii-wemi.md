@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: blank faced"
 emailDate: "Thu, 19 Jun 2014 11:17:27 -0700"
 number: 19
 type: ""
+venue: "The Powell Street Festival Society"
 summary: "The Powell Street Festival Society | Spatial Poetics XIII: WeMix | JUL 3"
 ---
 

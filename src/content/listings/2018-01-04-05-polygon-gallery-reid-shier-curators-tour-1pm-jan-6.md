@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 5
 type: "EVENT"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | Reid Shier - Curator’s Tour- 1PM | JAN 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 9
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | SFU Center for the Arts | Karel Doing: Growing Images | 730PM | MAR 19"
 ---
 

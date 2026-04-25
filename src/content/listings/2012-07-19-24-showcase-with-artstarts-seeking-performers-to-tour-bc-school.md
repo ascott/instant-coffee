@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 24
 type: ""
+venue: "Showcase with ArtStarts"
 summary: "Showcase with ArtStarts | Seeking performers to tour BC schools in 2013-2014 | OCT 5"
 ---
 
@@ -14,7 +15,7 @@ and established artists the chance to present a 12-minute sample of their curren
 touring show to school and community arts programmers interested in booking
 shows for young audiences for the 2013-2014 school year.
 
-This yearï¿½s Showcase will be presented at the Orpheum Annex in downtown
+This year�s Showcase will be presented at the Orpheum Annex in downtown
 Vancouver on February 28 and March 1, 2013.
 
 To find out more about touring with ArtStarts, watch highlight videos of last year's

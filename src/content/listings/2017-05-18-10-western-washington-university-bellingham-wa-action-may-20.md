@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 10
 type: "EVENT"
+venue: "Western Washington University, Bellingham WA"
 summary: "Western Washington University, Bellingham WA | ACTION!! | MAY 20"
 ---
 

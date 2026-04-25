@@ -316,7 +316,7 @@ October 25 - January 29, 2009
 
 Vancouver Art Gallery
 750 Hornby Street,
-Vancouver,Â¨BC V6Z 2H7
+Vancouver,¨BC V6Z 2H7
 
 http://www.vanartgallery.bc.ca
 
@@ -368,7 +368,7 @@ During a career that spans 40 years, Wall has established an international
 reputation for his photographic work. In the mid-1970s, he began making
 colour transparencies displayed in lightboxes, a format with which he is
 widely associated. These luminous backlit pictures revolutionized the way
-photographic art could be presented. Wall's images are often largeÃ¢ï¿½ï¿½some
+photographic art could be presented. Wall's images are often largeâ��some
 more than 12-feet wide. He sees them as 'tableaux', a term traditionally
 attached to painting. He has called his work 'cinematography' because of
 the way methods normally associated with filmmaking are combined with
@@ -434,11 +434,11 @@ that explores how feminist art enables the public expression of feelings.
 The presentation will emphasize the importance of collectivity and utopia
 in feminist art both past and present.
 
-Ann Cvetkovich is Professor of English and WomenÃ¢ï¿½ï¿½s and Gender Studies at
+Ann Cvetkovich is Professor of English and Womenâ��s and Gender Studies at
 the University of Texas at Austin. She is the author of Mixed Feelings:
 Feminism, Mass Culture, and Victorian Sensationalism (Rutgers, 1992) and An
 Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures (Duke,
-2003). She edited, with Ann Pellegrini, Ã¢ï¿½ï¿½Public Sentiments,Ã¢ï¿½ï¿½ a special
+2003). She edited, with Ann Pellegrini, â��Public Sentiments,â�� a special
 issue of The Scholar and Feminist Online (www.barnard.edu/sfonline
 <http://www.barnard.edu/sfonline> ). She is also editor, with Annamarie
 Jagose, of GLQ: A Journal of Lesbian and Gay Studies. She is currently
@@ -895,17 +895,17 @@ www.richmondartgallery.org
 <a href="/instant-coffee/listings/2008-10-23-17-sfu-gallery-less-is-more-the-poetics-of-erasure-nov-1">17. SFU Gallery | Less is More: the Poetics of Erasure | NOV 1</a>
 ------------------------------------------------------------------------
 Less is More: the Poetics of Erasure
-November 1 Â­ December 12, 2008
+November 1 ­ December 12, 2008
 SFU Gallery, Burnaby Campus
 Symposium: Saturday November 1 at 2pm
 Opening + book launch: Saturday November 1 following symposium, until 5pm
 
-Monica Aasprong Â· Andrea Actis Â· James Arthur Â· Oana Avasilichioaei Â· Derek
-Beaulieu Â· Jen Bervin Â· Rebecca Brown Â· Louis Cabri Â· Steve Collis Â· Jeff
-Derksen Â· Alexandra Dipple Â· Sarah Dowling Â· Jennifer Borges Foster Â· Jamie
-Hilder Â· Kristin Lucas Â· Michael Maranda/Parasitic Ventures Press Â· Erin
-MourÃ© Â· Tom Phillips Â· Kristina Lee Podesva Â· Angela Rawlings Â· Mary Ruefle
-Â· Susan Schuppli Â· Nick Thurston Â· Aaron Vidaver
+Monica Aasprong · Andrea Actis · James Arthur · Oana Avasilichioaei · Derek
+Beaulieu · Jen Bervin · Rebecca Brown · Louis Cabri · Steve Collis · Jeff
+Derksen · Alexandra Dipple · Sarah Dowling · Jennifer Borges Foster · Jamie
+Hilder · Kristin Lucas · Michael Maranda/Parasitic Ventures Press · Erin
+Mouré · Tom Phillips · Kristina Lee Podesva · Angela Rawlings · Mary Ruefle
+· Susan Schuppli · Nick Thurston · Aaron Vidaver
 
 Erasure is much in the news these daysâ&#65533;¹stock portfolio values erased, a
 neighbourhood buried under water by storms, candidates for office learning
@@ -913,7 +913,7 @@ that the public chose someone else, or a Fortune 500 company ceasing to
 exist. Erasure, however, has another side that deserves to be in the news:
 the poetic and the critical. This is the side reflected in this 24-person
 international exhibition, which includes the first-ever installation of the
-entirety of Tom PhillipsÂ¹s book A Humument.
+entirety of Tom Phillips¹s book A Humument.
 
 The poets, writers, and artists in Less is More have each responded to the
 ironic, formal, political, and semantic possibilities that awaited
@@ -927,8 +927,8 @@ meaning, erasures provide an intriguing model for the ways in which meaning
 is created in the first place; it is epistemology, with fun added.
 
 Symposium, Opening, Book Launch: Saturday November 1
-Please join us for a panel discussion on Â³The Poetics and Politics of
-ErasureÂ² with Derek Beaulieu, Clint Burnham, and Kristina Lee Podesva, Nick
+Please join us for a panel discussion on ³The Poetics and Politics of
+Erasure² with Derek Beaulieu, Clint Burnham, and Kristina Lee Podesva, Nick
 Thurston. Panel starting at 2pm, in room AQ3003, next to SFU Gallery.
 Followed by reception to 5pm.
 
@@ -1003,11 +1003,11 @@ regarding: the education of curators; the challenges facing
 collection-based curators; trends in curatorial research; and the writing
 of curatorial histories.
 
-Invited guests include FranÃ§ois Aubart, Wayne Baerwaldt, Sabine
+Invited guests include François Aubart, Wayne Baerwaldt, Sabine
 Breitwieser, AA Bronson, Heather Diack, Joseph del Pesco, Rosemary Donegan,
 Sam Durant, Barbara Fischer, Richard Flood, Teresa Gleadowe, Matthew Higgs,
-Candice Hopkins, CÃ©line Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
-CuauhtÃ©moc Medina, and Joanna Mytkowska.
+Candice Hopkins, Céline Kopp, Ken Lum, Francesco Manacorda, Marc Mayer,
+Cuauhtémoc Medina, and Joanna Mytkowska.
 
 Scholarship are available for Aboriginal participants.
 
@@ -1177,20 +1177,20 @@ www.nscad.ns.ca/about/employment.php
 The Nova Scotia College of Art and Design (NSCAD University) invites
 applications for:
 
-Â· Assistant Professor: Division of Craft (Ceramics)
+· Assistant Professor: Division of Craft (Ceramics)
 
-Â· Assistant Professor: Division of Craft (Fashion)
+· Assistant Professor: Division of Craft (Fashion)
 
-Â· Assistant Professor, Division of Media Arts (Photography)
+· Assistant Professor, Division of Media Arts (Photography)
 
-Â· Assistant Professor, Interdisciplinary Design (Visual
+· Assistant Professor, Interdisciplinary Design (Visual
 Communication and Product Design)
 
-Â· Director of Library Services
+· Director of Library Services
 
-Â· Director of Visual Resource Collection
+· Director of Visual Resource Collection
 
-Â· Sessional appointments in a number of teaching areas
+· Sessional appointments in a number of teaching areas
 
 For complete vacancy notices, including application deadlines and
 submission requirements, please visit: www.nscad.ns.ca/about/employment.php
@@ -1373,7 +1373,7 @@ Candidate Submissions
 
 Inquiries, nominations and applications should be made by email to Dr.
 Niamh Oâ&#65533;&#65533;Laoghaire, President of CAMDO: niamh.olaoghaire@utoronto.ca.
-Applications should include a current resumÃ© and letter of interest.
+Applications should include a current resumé and letter of interest.
 
 Application Deadline: December 1 or until a suitable candidate has been found.
 

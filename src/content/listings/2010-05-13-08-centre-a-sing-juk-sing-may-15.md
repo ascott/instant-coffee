@@ -4,30 +4,31 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 8
 type: ""
+venue: "Centre A"
 summary: "Centre A | SING JUK SING | MAY 15"
 ---
 
 Centre A presents
 
 SING JUK SING
-A live streaming performance between Vancouver and MontrÃ©al
+A live streaming performance between Vancouver and Montréal
 
 with Master Toa Wong and Mary Sui Yee Wong
 
 Saturday, May 15, 2010
 Centre A, 2 West Hastings Street, Vancouver, 1:00 pm, (Pacific Time)
-OBORO, 4001 Berri, # 301, MontrÃ©al. 4:00 pm (Eastern Time)
+OBORO, 4001 Berri, # 301, Montréal. 4:00 pm (Eastern Time)
 
 Artists: Master Toa Wong and Mary Sui Yee Wong
-Curatpr: Janet Lumb, Festival AccÃ¨s Asie, MontrÃ©al
+Curatpr: Janet Lumb, Festival Accès Asie, Montréal
 Curator: Makiko Hara, Centre A, Vancouver
 
 Co-produced by Oboro and Centre A
-in collaboration with Festival AccÃ¨s Asie, MontrÃ©al and ExplorASIA, Vancouver
+in collaboration with Festival Accès Asie, Montréal and ExplorASIA, Vancouver
 Patron: Joanne Luui Mah
 
 In Sing Juk Sing, a renowned Vancouver master musician, Toa Wong, and a
-MontrÃ©al visual artist, Mary Sui Yee Wong, meet through cyber technology in
+Montréal visual artist, Mary Sui Yee Wong, meet through cyber technology in
 a live streaming performance.
 
 By invoking a childhood fantasy of becoming a pop star with an irrational
@@ -35,7 +36,7 @@ fear of singing, Mary Sui Yee Wong will work in tandem with her father, Toa
 Wong, to create an experimental performance that embraces the complexities
 of inter-generational communication, acculturation, and hybridization.
 
-The project title, SING JUK SING [G,ï¿¹G] is a play on the term juk sing
+The project title, SING JUK SING [G,￹G] is a play on the term juk sing
 (bamboo essence), a term coined at the turn of the 20th century in
 reference to overseas-born Chinese. Like the bamboo flowing between two
 knots, overseas Chinese straddle two worlds. By combining the word sing (to
@@ -63,4 +64,4 @@ from Hong Kong in 1963. Wong has exhibited extensively in solo and group
 exhibitions in Canada and internationally. She has been involved in
 numerous curatorial initiatives and is an active member of the Chinese
 community. Wong is presently teaching in the Studio Arts program at
-Concordia University, MontrÃ©al.
+Concordia University, Montréal.

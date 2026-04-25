@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 8
 type: ""
+venue: "Student Loan Records"
 summary: "Student Loan Records | 1st RELEASE EVENT | FEB 25"
 ---
 
@@ -27,7 +28,7 @@ FOR THE RECORD
 
 a group art show
 
-DYNAMO GALLERY â€¢ 142 WEST HASTINGS STREET 
+DYNAMO GALLERY • 142 WEST HASTINGS STREET 
 6:30PM - 10:30PM
 
 Please join us Saturday, February 25th for the first installment in a 
@@ -62,7 +63,7 @@ STUDENT LOAN RECORDS
 
 1st RELEASE PARTY
 
-THE ASTORIA PUB 769 â€¢ EAST HASTINGS STREET 
+THE ASTORIA PUB 769 • EAST HASTINGS STREET 
 9PM - 2AM 
 
 Please join us Saturday, February 25th for the release of our first 
@@ -97,8 +98,8 @@ With support from:
 KOKO
 
 Free-form waves of pop punk wrapped up in a sonic assault, ripped 
-from the screaming treesâ€™ clutches and funneled through their own 
-acerbic sense of humour. The new underground movementâ€™s golden 
+from the screaming trees’ clutches and funneled through their own 
+acerbic sense of humour. The new underground movement’s golden 
 child.
 
 EVENT LINK: http://www.facebook.com/events/337426062964324/
@@ -106,14 +107,14 @@ EVENT LINK: http://www.facebook.com/events/337426062964324/
 STUDENT LOAN RECORDS 
 
 Student Loan Records will strive to last as long as our debts. We 
-operate with the goal of showcasing Vancouverâ€™s emerging artists by 
-cooperating and building upon the cityâ€™s diverse and widely talented art 
+operate with the goal of showcasing Vancouver’s emerging artists by 
+cooperating and building upon the city’s diverse and widely talented art 
 scene. For all our releases, artists will own and control all the work we 
 help them produce. Our aim is to facilitate a self-sufficient stream of 
 vinyl-only releases, made possible by organizing community involved 
 events such as art shows and record release parties. On every level, 
-we intend to support the artistic community of this supposed â€˜No Fun 
-Cityâ€™. 
+we intend to support the artistic community of this supposed ‘No Fun 
+City’. 
 
 Student Loan Records is Natasha Lands, Daniel Rincon and Jarrett 
 Evan Samson. 

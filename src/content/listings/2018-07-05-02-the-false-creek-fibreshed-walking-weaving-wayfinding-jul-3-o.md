@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 2
 type: "EVENT"
+venue: "The False Creek Fibreshed"
 summary: "The False Creek Fibreshed | Walking, Weaving, Wayfinding | JUL 3 - OCT 21 | JUL 3"
 ---
 

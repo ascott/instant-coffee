@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 17
 type: "OPENING"
+venue: "Studio 13 Fine Art"
 summary: "Studio 13 Fine Art | we made it through the wilderness | OCT 10"
 ---
 

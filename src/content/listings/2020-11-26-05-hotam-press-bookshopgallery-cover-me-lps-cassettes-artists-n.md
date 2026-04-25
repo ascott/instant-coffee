@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Neighbour's Plate"
 emailDate: "Thu, 26 Nov 2020 09:10:12 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Hotam Press Bookshop/Gallery"
 summary: "Hotam Press Bookshop/Gallery | COVER ME – LPs, Cassettes, Artists | NOV 21"
 ---
 

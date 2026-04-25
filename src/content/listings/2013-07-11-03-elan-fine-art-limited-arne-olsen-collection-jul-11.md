@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 3
 type: ""
+venue: "Elan Fine Art Limited"
 summary: "Elan Fine Art Limited | Arne Olsen Collection | JUL 11"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 31
 type: "OPENING"
+venue: "The Artiste Gallery"
 summary: "The Artiste Gallery | Intimate Landscapes of the Mind | 7PM | JUL 26"
 ---
 

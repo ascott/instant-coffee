@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 6
 type: ""
+venue: "READ BOOKS"
 summary: "READ BOOKS | Book Launches | bill bissett | Jan 19 | BRIAN JUNGEN | JAN 20"
 ---
 
@@ -18,7 +19,7 @@ bill bissett by Carl Peters and novel by bill bissett both published by
 Talon Books.
 
 Carl Peters will read from textual vishyuns, which attests that bill 
-bissettâ€™s entire body of work consists of an integrated aesthetic praxis 
+bissett’s entire body of work consists of an integrated aesthetic praxis 
 of â€œthe whole artâ€ ; that his drawings, paintings, collages and 
 assemblages challenge artistic conventions of visual language in the 
 same way that his poetry challenges linguistic conventions of syntax 
@@ -45,7 +46,7 @@ The artist will be in attendance.
 READ Books at the Charles H. Scott Gallery and the Art Gallery of 
 Alberta, Edmonton, would like to invite you to join us to celebrate the 
 launch of Brian Jungen: Carapace. The book and limited edition 
-document, Carapace, one of Brian Jungenâ€™s largest works which was 
+document, Carapace, one of Brian Jungen’s largest works which was 
 initially created in early 2009 for the FRAC des Pays de la Loire, 
 France. Jungen then completely reconfigured Carapace for his solo 
 exhibition at the Smithsonian National Museum of the American Indian, 

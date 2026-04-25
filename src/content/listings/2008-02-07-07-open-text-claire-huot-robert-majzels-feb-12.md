@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffeed"
 emailDate: "Thu, 07 Feb 2008 09:20:25 -0800"
 number: 7
 type: ""
+venue: "OPEN TEXT"
 summary: "OPEN TEXT | CLAIRE HUOT & ROBERT MAJZELS | FEB 12"
 ---
 

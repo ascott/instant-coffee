@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: in my time of quarantine"
 emailDate: "Fri, 03 Apr 2020 10:45:12 -0700"
 number: 9
 type: "EDUCATION"
+venue: "CreativeMornings"
 summary: "CreativeMornings | Lecture Series | APR 3"
 ---
 

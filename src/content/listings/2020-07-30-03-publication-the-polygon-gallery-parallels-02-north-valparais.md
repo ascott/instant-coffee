@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 3
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | The Polygon Gallery | Parallels 02: North Valparaiso"
 ---
 

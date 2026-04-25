@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
 emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
 number: 2
 type: "EVENT"
+venue: "Cineworks"
 summary: "Cineworks | THOUGHT ON FILM VIII | AUG 27"
 ---
 

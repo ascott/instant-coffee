@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 25
 type: "EVENT"
+venue: "SFU Woodwards"
 summary: "SFU Woodwards | Dancing around Copyright: Who owns a Dance? | SEP 20"
 ---
 

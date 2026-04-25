@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Party Politics"
 emailDate: "Thu, 02 Oct 2008 09:00:08 -0700"
 number: 13
 type: ""
+venue: "UBC"
 summary: "UBC | Mary Kelly Lecture | OCT 6"
 ---
 

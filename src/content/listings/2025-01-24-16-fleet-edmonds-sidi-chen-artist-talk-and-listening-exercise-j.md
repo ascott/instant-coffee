@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 16
 type: "TALK"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Sidi Chen Artist Talk and Listening Exercise | JAN 26"
 ---
 

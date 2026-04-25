@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 1
 type: "CALL"
+venue: "CAG"
 summary: "CAG | Call for Volunteers | Ongoing"
 ---
 

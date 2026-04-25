@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 26
 type: "CALL"
+venue: "Art Wrap Program"
 summary: "Art Wrap Program | West Vancouver, BC (Hydro Boxes) | AUG 30"
 ---
 

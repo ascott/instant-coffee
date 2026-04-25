@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 8
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Capilano River Hatchery | Tea Ceremony with Lam Wong | 1PM | AUG 10"
 ---
 

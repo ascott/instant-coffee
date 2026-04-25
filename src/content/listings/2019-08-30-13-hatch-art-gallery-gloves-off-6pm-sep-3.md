@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 13
 type: "OPENING"
+venue: "Hatch Art Gallery"
 summary: "Hatch Art Gallery | GLOVES OFF | 6PM | SEP 3"
 ---
 

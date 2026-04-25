@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 12
 type: ""
+venue: "Western Front"
 summary: "Western Front | SCRIVENER'S MONTHLY: ARIANA REINES | FEB 28"
 ---
 
 SCRIVENER'S MONTHLY: ARIANA REINES
 February 28, 2014 @ 8:00pm
 Western Front
-Scrivenerâ€™s Monthly is pleased to present an evening with New York poet, 
+Scrivener’s Monthly is pleased to present an evening with New York poet, 
 playwright and translator Ariana Reines. For her first presentation in 
 Vancouver, she will likely read from her most recent book of poems, Mercury 
 (Fence Books, 2011).
@@ -20,9 +21,9 @@ This is the last scheduled Scrivener's Monthly - don't miss it!
 Ariana Reines has published several books of poetry including Coeur de Lion 
 (Mal-O-Mar, 2007; FenceBooks, 2011) and The Cow (Fence Books, 2006), 
 and her play Telephone produced by The Foundry Theatre in 2009 received 
-two Obie Awards. She has translated Tiqqunâ€™s Preliminary Materials For a 
+two Obie Awards. She has translated Tiqqun’s Preliminary Materials For a 
 Theory of the Young-Girl (Semiotext(e), 2012), The Little Black Book of 
-GrisÃ©lidis RÃ©al: Days and Nights of an Anarchist Whore by Jean-Luc Hennig 
+Grisélidis Réal: Days and Nights of an Anarchist Whore by Jean-Luc Hennig 
 (Semiotext(e), 2009), and MY HEART LAID BARE by Charles Baudelaire (Mal-
 O-Mar, 2009).
 

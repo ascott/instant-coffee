@@ -49,7 +49,7 @@ PLUS White Columns Print Portfolio (2007)
 letter-press prints by Peter Doig, Dave Muller, Adam Pendleton, and Kay Rosen.
 
 PLUS Or Gallery editions by Stan Douglas, Ron Terada, Nicole+Ryan,
-Hadley+Maxwellâ€¦
+Hadley+Maxwell…
 
 PLUS Fillip & New Document editions
 
@@ -65,7 +65,7 @@ December 10 - 17, 2014
 
 Join us at READ for our annual Holiday reading sale!
 
-READ Books features a wide selection of artistsâ€™ books, monographs,
+READ Books features a wide selection of artists’ books, monographs,
 critical theory and more. Treat yourself or a loved one to a new book this
 year!
 
@@ -93,7 +93,7 @@ http://chscott.ecuad.ca/read
 ------------------------------------------------------------------------
 SCRIVENER'S MONTHLY:
 
-Tâ€™AI SMITH TALKING ABOUT FROCK COATS AND CAPITAL
+T’AI SMITH TALKING ABOUT FROCK COATS AND CAPITAL
 
 Thursday, December 11th @ 8pm
 Western Front, 303 East 8th Avenue
@@ -102,7 +102,7 @@ Free Admission
 Scrivener's Monthly is pleased to present an evening with UBC Art History
 professor T'ai Smith.
 
-Re-translating Marxâ€™s Capital, Volume I, Part 1, Tai Smith shows how 20
+Re-translating Marx’s Capital, Volume I, Part 1, Tai Smith shows how 20
 yards of linen transform into a coat, and then, through a specious turn in
 logic, back into threads again.
 
@@ -151,13 +151,13 @@ happened, it occurs to her to wonder how in the hell the kitchen took 30
 years to turn into a sculpture."
 
 Revisit some old narratives and sketch out a possible present one, with
-grunt gallery, Julia Feyrer and friends. 1985 â€“ 2015
+grunt gallery, Julia Feyrer and friends. 1985 – 2015
 
 Friday, December 12th: Recording 7pm (with Pietro Sammarco)
 Friday, December 19th: Solstice Party *closing event*
 
 Exhibition Text:
-Part 1 â€“ History creeps: the grunt kitchen and Julia Feyrer:
+Part 1 – History creeps: the grunt kitchen and Julia Feyrer:
 http://grunt.ca/wordpress/wp-content/uploads/2014/11/Hedit_Julia-Feyrer-Part-1_FINAL1.pdf
 
 URL: http://grunt.ca/exhibitions/kitchen/
@@ -179,23 +179,23 @@ Entrance: By donation ($5-$20)
 Facebook Event: https://www.facebook.com/events/797200380342202/
 
 What do you do when a multinational energy corporation sues a handful of
-citizens for $5M? â€¦. You throw a party and you have a bake sale!
+citizens for $5M? …. You throw a party and you have a bake sale!
 
 On Friday, December 12, dozens of Vancouver based artists and performers
 will come together for a cabaret celebrating the resilience and
 determination of those who put themselves on the line to resist Kinder
-Morganâ€™s Trans Mountain Pipeline on Burnaby Mountain.
+Morgan’s Trans Mountain Pipeline on Burnaby Mountain.
 
 In April of 2014 curator Mariane Bourcheix-Laporte and artist Gabriel
 Saloman collaborated with Burnaby Residents Opposing Kinder-Morgan
-Expansion (B.R.O.K.E.) and UNIT/PITT Projects to create the Peopleâ€™s
+Expansion (B.R.O.K.E.) and UNIT/PITT Projects to create the People’s
 Procession Against The Pipelines, an 8-kilometre walk along the existing
-and proposed TransMountain Pipeline in Burnaby, BC. The Peopleâ€™s Procession
+and proposed TransMountain Pipeline in Burnaby, BC. The People’s Procession
 included speakers, performers, a flotilla and a rally featuring hundreds of
 people rallying against the pipeline's expansion. Since then, opposition
 has mushroomed and recently became big news when the Texas-based energy
 corporation Kinder-Morgan went to court seeking an injunction and a massive
-civil suit against a handful of protesters opposing the companyâ€™s work in a
+civil suit against a handful of protesters opposing the company’s work in a
 protected area of Burnaby Mountain. Victims of the civil suit include SFU
 professor and poet Stephen Collis, grandfather and anti-racism activist
 Allan Dutton, and B.R.O.K.E.
@@ -209,7 +209,7 @@ musicians and comedians (see below for confirmed participants).
 Additionally there will be a â€œBake Saleâ€  table with limited edition prints,
 publications, artworks, gifts and other materials donated by local artists
 for purchase. This evening also marks the release of a limited edition
-print of Stephen Collisâ€™ poem 72 Theses Against Tar Sands Pipelines and the
+print of Stephen Collis’ poem 72 Theses Against Tar Sands Pipelines and the
 Continued Exploitation of Fossil Fuels, designed by Marten Sims and hand
 printed by Matt Parisien and Val Loewen at Malaspina Printers who
 generously donated all materials and labour.
@@ -349,7 +349,7 @@ launch of a new edition by Tony Romano.
 PSV is pleased to present Trapp Editions: Love & Ornament, an exhibition by
 Trapp Projects featuring art work and publications by Claire Greenshaw,
 Tony Romano, Isabelle Pauwels, Kathy Slade, T&T (Tony Romano & Tyler
-Brett), Jacques VilleglÃ© and others. The exhibition launches a new edition
+Brett), Jacques Villeglé and others. The exhibition launches a new edition
 Love and Ornament (2006-2014), a photographic â€œrecordâ€  by Toronto-based
 artist Tony Romano.
 
@@ -360,7 +360,7 @@ Editions has produced close to two hundred editions that vary in form from
 music recordings, photographs, lenticular prints, sculptures and
 publications, this exhibition presents a selection of works that fit the
 context of Publication Studio. On display in the exhibition are prints,
-artistsâ€™ books, catalogues and record covers.
+artists’ books, catalogues and record covers.
 
 Trapp Projects was initiated by Patrik Andersson in 1997 as a curatorial
 platform on which to introduce local and international artist to as wide an
@@ -473,7 +473,7 @@ Submission types:
 
 We are delighted to announce the 21st International Symposium on Electronic
 Art (ISEA) will be held August 14-18, 2015, in Vancouver, Canada. The
-ISEA2015 symposium will be hosted by Simon Fraser Universityâ€™s Faculty of
+ISEA2015 symposium will be hosted by Simon Fraser University’s Faculty of
 Communication Arts and Technology (FCAT), and a vast variety of local
 academic and artistic partners. ISEA is the largest nomadic international
 gathering on 'electronic and emergent media'. Since its start in the
@@ -597,7 +597,7 @@ ISEA International Headquarters is supported by the University of Brighton
 QUEER MAGS CALL FOR SUBMISSIONS
 Two queer magazines (his + her) under the same publishing umbrella are
 seeking written and visual submissions for their inaugural issues. Check
-â€˜em out at www.hisandhermag.com. his + her are open to illustrations,
+‘em out at www.hisandhermag.com. his + her are open to illustrations,
 photo-essays, non-academic essays, personal reflections, poetry,
 interviews/features, and anything else you have in mind. Content within the
 magazines will be light-hearted, of general interest, yet still carry some
@@ -611,9 +611,9 @@ JOB POSTING: Executive Director at Powell Street Festival Society
 
 ABOUT THE SOCIETY
 
-The Powell Street Festival Societyâ€™s (PSFS) mission is to cultivate
+The Powell Street Festival Society’s (PSFS) mission is to cultivate
 Japanese Canadian arts and culture to connect communities. Our main
-activity is producing the Powell Street Festival (PSF) in Vancouverâ€™s
+activity is producing the Powell Street Festival (PSF) in Vancouver’s
 historic Japanese Canadian neighbourhood. PSF is an annual celebration of
 Japanese Canadian arts and culture. Inaugurated in 1977, it is the largest
 event of its kind in Canada and the longest running community festival in
@@ -629,7 +629,7 @@ Director works with the Artistic Director, Administrative Assistant,
 bookkeeper, contract staff and volunteer committees. The Executive Director
 is committed to upholding and communicating the mission, vision, values and
 policies of the Powell Street Festival Society. This position oversees the
-Societyâ€™s operational, human resource, communications, and financial
+Society’s operational, human resource, communications, and financial
 planning and management, and community relations, advocacy and engagement.
 In addition to general administrative and managerial duties, the Executive
 Director is responsible for grant writing, sponsorship and donor
@@ -644,7 +644,7 @@ to connecting communities, while cultivating and supporting talented
 artists and cultural producers. The Executive Director will lead the
 organization in strengthening these objectives, as well as launch the
 Powell Street Festival Society into an era of diversification. The
-Executive Director will expand the Societyâ€™s community and public reach,
+Executive Director will expand the Society’s community and public reach,
 donor, membership and sponsorship profiles and strengthen community ties
 and partnerships. The Executive Director will help establish the Powell
 Street Society as a renowned community hub to engage with Japanese Canadian
@@ -669,12 +669,12 @@ Outreach Committee.
 * People resource planning and management:
 -- Oversees for the recruitment, management, and ongoing development of
 salaried and contract employees.
--- Provides direction to the Societyâ€™s volunteer strategy and program.
+-- Provides direction to the Society’s volunteer strategy and program.
 * Financial planning and management:
 -- Ensures the financial health of the organization.
 -- Responsible for writing and researching grants, and producing annual
 reports.
--- Responsible for overseeing all aspects of the Societyâ€™s budget,
+-- Responsible for overseeing all aspects of the Society’s budget,
 including annual forecasts and reporting to the Board of Directors.
 -- Works in conjunction with the Fundraising Committee to develop and
 achieve fundraising goals.
@@ -687,7 +687,7 @@ sponsorships and projects.
 * Risk management:
 -- Responsible for short and long term planning, and for informing the
 Board of Directors of potential risks and/or significant changes that
-impact the Societyâ€™s mission.
+impact the Society’s mission.
 * Communications planning and management
 -- Oversees and directs staff and volunteers in outreach, marketing and
 communications strategies related to the annual Powell Street Festival and
@@ -728,8 +728,8 @@ applications are encouraged, as we will evaluate and interview suitable
 candidates as applications are received.
 
 Applications will be accepted by email only. Please submit a resume and
-cover letter to gm@powellstreetfestival.com, with the subject heading â€˜PSFS
-Executive Director.â€™
+cover letter to gm@powellstreetfestival.com, with the subject heading ‘PSFS
+Executive Director.’
 
 No phone calls please. Visit www.powellstreetfestival.com for more information.
 
@@ -742,10 +742,10 @@ interest; however, only short-listed candidates will be contacted.
 Visuals and Archive Manager at Catriona Jeffries, Vancouver
 
 The gallery is seeking to fill the position of a Visuals and Archive
-Manager. This position oversees all aspects relating to the galleryâ€™s
+Manager. This position oversees all aspects relating to the gallery’s
 archive, visuals and website. The successful candidate would be responsible
 for the digital and physical image and text archive; layout and updating of
-gallery visuals such as artist PDFâ€™s, text PDFâ€™s, design of regular
+gallery visuals such as artist PDF’s, text PDF’s, design of regular
 communication documents , alongside the management and maintenance of the
 gallery website and IT details.
 
@@ -817,17 +817,17 @@ Europe. Two young artists, Caroline Benedicks of Sweden and William Blair
 Bruce of Hamilton, Canada, meet in Paris, marry and after many years on the
 European continent, settle on Gotland Island. With the untimely death of
 William in 1906 and that of Caroline in 1935, the estate, in the early
-70â€™s, created the Brucebo Fine Art Scholarship Foundation, an organization
+70’s, created the Brucebo Fine Art Scholarship Foundation, an organization
 promoting island-based cultural history and fine art. To commemorate the
-unique Swedish-Canadian link of Carolineâ€™s and Williamâ€™s marriage and
+unique Swedish-Canadian link of Caroline’s and William’s marriage and
 impressive artistry, two annual fine art scholarships for younger,
 professional Canadian artists were established : The Brucebo Fine Art
 Summer Residency Scholarship and The William Blair Bruce European Fine Art
 Travel Scholarship.
 
 The Brucebo Fine Art Summer Residency Scholarship funds a three month
-working residency â€“ starting June 1, 2014 â€“ at the Brucebo studio cottage
-in the SjÃ¤lsÃ¶ fishing village, 7 km north of of Visby in Gotland, Sweden.
+working residency – starting June 1, 2014 – at the Brucebo studio cottage
+in the Själsö fishing village, 7 km north of of Visby in Gotland, Sweden.
 The scholarship covers travel expenses Canada - Gotland (return), the use
 of the studio cottage, a monthly food stipend plus a small equipment
 grant. Total approximate value : SEK 30.000.
@@ -835,7 +835,7 @@ grant. Total approximate value : SEK 30.000.
 The William Blair Bruce Travel Scholarship finances a European research
 sejour, to be undertaken within the next year. The tour is based on an
 approved Fine Art-related investigative project. Total value: SEK 30.000.
-As a final part of the â€˜Bruce Travelâ€™ the recipient must visit Visby via
+As a final part of the ‘Bruce Travel’ the recipient must visit Visby via
 Stockholm. While in Visby, she/he will give a public lecture sponsored by
 the Foundation on the investigative theme pursued during her/his recent
 European travel.
@@ -848,8 +848,8 @@ For more information on the Scholarships, the studio cottage, previous
 scholarship recipients and the Caroline Benedicks - William Blair Bruce
 story, visit the Brucebo Scholarships website at : www.bruceboscholarships.com
 
-The scholarships are administered by Concordia Universityâ€™s Faculty of Fine
-Arts, Associate Deanâ€™s Office in Montreal and the Chair of the Brucebo Fine
+The scholarships are administered by Concordia University’s Faculty of Fine
+Arts, Associate Dean’s Office in Montreal and the Chair of the Brucebo Fine
 Art Evaluation Committee: Jessica Auer. For more information on the
 scholarships, the residency or your application, email:
 brucebosubmission@gmail.com

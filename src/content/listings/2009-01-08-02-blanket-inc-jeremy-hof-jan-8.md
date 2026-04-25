@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 2
 type: ""
+venue: "BLANKET INC."
 summary: "BLANKET INC. | Jeremy Hof | JAN 8"
 ---
 
@@ -32,9 +33,9 @@ Hof indicates a formal interest in minimalist sculpture, but negotiates this
 oeuvre with his own interests that would be at odds with historical
 Minimalism. He continues to collapse the distinction between the hand made,
 high art and everyday objects, but creatively misconstrues the objectives of
-his predecessors. His are subversive rearticulations of MinimalismÂ¹s
+his predecessors. His are subversive rearticulations of Minimalism¹s
 aesthetic which subtly defy its anti symbolic stance. While recalling Carl
-AndreÂ¹s brick sculptures, he undermines the supposed neutrality of such
+Andre¹s brick sculptures, he undermines the supposed neutrality of such
 work. The glacial reproduction of commercial bricks into cast acrylic latex
 fakes (made by Hof himself over a four month period, no less) are stacked
 and arranged in a cube. Its placement on a plinth co-opts the minimal

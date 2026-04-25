@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ptyx"
 emailDate: "Fri, 27 Mar 2020 07:30:14 -0700"
 number: 19
 type: "EDUCATION"
+venue: "PAVED Arts"
 summary: "PAVED Arts | Virtual Exhibition Tour | 7PM | APR 2"
 ---
 

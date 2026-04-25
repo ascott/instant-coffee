@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Weaving Governance"
 emailDate: "Thu, 19 Dec 2019 09:35:08 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Bicycle, Forest, Air-Conditioner | JAN 11"
 ---
 

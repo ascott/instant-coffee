@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 43
 type: "EDUCATION"
+venue: "Richmond"
 summary: "Richmond | 2025 Capstan Village Public Art Walking Tours | MAY 10"
 ---
 

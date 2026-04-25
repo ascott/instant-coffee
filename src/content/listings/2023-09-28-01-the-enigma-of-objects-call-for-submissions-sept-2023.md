@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 1
 type: "CALL"
+venue: "The Enigma of Objects"
 summary: "The Enigma of Objects | Call for Submissions - Sept 2023"
 ---
 

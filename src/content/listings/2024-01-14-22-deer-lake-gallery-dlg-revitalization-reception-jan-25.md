@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nine Places for Seeing "
 emailDate: "Sat, 13 Jan 2024 22:05:07 -0800"
 number: 22
 type: "OPENING"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | DLG Revitalization Reception | JAN 25"
 ---
 

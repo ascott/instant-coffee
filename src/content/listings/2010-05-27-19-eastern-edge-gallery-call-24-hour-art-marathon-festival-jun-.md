@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 19
 type: ""
+venue: "Eastern Edge Gallery"
 summary: "Eastern Edge Gallery | Call: 24 Hour Art Marathon Festival | JUN 15"
 ---
 
@@ -29,7 +30,7 @@ We include artists of all ages and experience, providing opportunities for
 younger artists to interact with more experienced artists and access a wide
 range of artistic expression. We're highly participatory with an eye to
 develop young artists and audiences while celebrating achievement in
-contemporary art. We complement Eastern Edgeâ€™s yearly programming by
+contemporary art. We complement Eastern Edge’s yearly programming by
 offering artistic diversity with a focus on community outreach and audience
 participation.
 

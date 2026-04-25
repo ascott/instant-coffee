@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 22
 type: "TALK"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | CAARDI: Niki Najm-Abadi | JUL 29"
 ---
 

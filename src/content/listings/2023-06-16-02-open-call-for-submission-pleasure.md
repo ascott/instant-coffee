@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 2
 type: "CALL"
+venue: "Open call for submission: Pleasure"
 summary: "Open call for submission: Pleasure"
 ---
 

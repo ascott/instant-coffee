@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 1
 type: "EVENT"
+venue: "Vancouver Biennale at MOV"
 summary: "Vancouver Biennale at MOV | nerd_funk | NOV 1"
 ---
 

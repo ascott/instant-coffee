@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 2
 type: ""
+venue: "Balcone"
 summary: "Balcone | Below the Line | FEB 24"
 ---
 
@@ -33,9 +34,9 @@ projecting, layering and manipulating drawings on overhead projectors.
 Barrow has performed at The Walker Art Center (Minneapolis), PS1
 Contemporary Art Center (New York), The Museum of Contemporary Art (Los
 Angeles) and the Gene Siskel Film Center (Chicago). Barrow is the 2010
-winner of the Sobey Art Award, the 2007 winner of the Canada Councilï¿½s
+winner of the Sobey Art Award, the 2007 winner of the Canada Council�s
 Victor Martyn Lynch-Staunton award and the 2008 winner of the Images
-Festivalï¿½s Images Prize. Barrow is represented by Jessica Bradley Art +
+Festival�s Images Prize. Barrow is represented by Jessica Bradley Art +
 Projects, Toronto.
 
 Derek Dunlop currently lives in Winnipeg. He received his MFA from the

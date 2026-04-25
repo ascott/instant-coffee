@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 22
 type: "TALK"
+venue: "Curiosity Collider"
 summary: "Curiosity Collider | Untold stories of... | AUG 19"
 ---
 
@@ -13,7 +14,7 @@ Compelling stories about collisions between art & science will be brought
 to you by:
 
 - Emily Smith, Textile Artist |Learning with fiber
-- Graham With, Brewmaster at Parallel 49 | Science with senses â€“ the
+- Graham With, Brewmaster at Parallel 49 | Science with senses – the
 science of brewing
 - Laura Ulrich, Biological illustrator/animator in training |Finding a
 balance between art, science, and sharing knowledge
@@ -28,7 +29,7 @@ art show!
 
 When: 8:00pm on Wednesday, August 19, 2015. Door opens at 7:30pm.
 
-Where: CafÃ© Deux Soleils. 2096 Commercial Drive, Vancouver, BC.
+Where: Café Deux Soleils. 2096 Commercial Drive, Vancouver, BC.
 
 Cost: $6.00 cover at the door. Proceeds will be used to cover the cost of
 running this event, and to fund future Curiosity Collider events

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 14
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Jess MacCormack | UNTIL ARP 12 | APR 12"
 ---
 

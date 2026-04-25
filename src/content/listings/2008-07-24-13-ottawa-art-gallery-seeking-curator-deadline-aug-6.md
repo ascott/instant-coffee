@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: it doesn't have to be perfect to b
 emailDate: "Thu, 24 Jul 2008 08:10:06 -0700"
 number: 13
 type: ""
+venue: "OTTAWA ART GALLERY"
 summary: "OTTAWA ART GALLERY | seeking CURATOR | deadline | AUG 6"
 ---
 

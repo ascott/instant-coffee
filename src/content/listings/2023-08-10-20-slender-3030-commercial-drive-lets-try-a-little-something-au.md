@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 20
 type: "OPENING"
+venue: "Slender, 3030 Commercial Drive"
 summary: "Slender, 3030 Commercial Drive | “Let's try a little something” | AUG 18"
 ---
 

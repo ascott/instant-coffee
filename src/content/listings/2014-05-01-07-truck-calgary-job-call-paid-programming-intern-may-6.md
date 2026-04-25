@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 7
 type: ""
+venue: "TRUCK, Calgary"
 summary: "TRUCK, Calgary | Job Call: Paid Programming Intern | MAY 6"
 ---
 

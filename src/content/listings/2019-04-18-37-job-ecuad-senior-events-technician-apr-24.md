@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 37
 type: ""
+venue: "JOB"
 summary: "JOB | ECUAD | Senior Events Technician | APR 24"
 ---
 

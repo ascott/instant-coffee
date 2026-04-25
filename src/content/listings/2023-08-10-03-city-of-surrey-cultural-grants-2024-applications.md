@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 3
 type: "CALL"
+venue: "City of Surrey"
 summary: "City of Surrey | Cultural Grants: 2024 Applications"
 ---
 

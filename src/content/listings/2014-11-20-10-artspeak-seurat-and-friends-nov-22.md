@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost-But-Not-Quite"
 emailDate: "Thu, 20 Nov 2014 11:10:31 -0800"
 number: 10
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | Seurat and Friends | NOV 22"
 ---
 
@@ -11,7 +12,7 @@ summary: "Artspeak | Seurat and Friends | NOV 22"
 
 MATT BROWNING, JORDY HAMILTON, GYUN HUR
 
-November 22, 2014â€“January 10, 2015
+November 22, 2014–January 10, 2015
 Opening Friday, November 21, 8pm
 
 He has just graduated from his masters degree in fine arts. The opening for
@@ -32,5 +33,5 @@ Artspeak,
 
 233 Carrall Street
 Vancouver, BC, V6B 2J2
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm
 http://www.artspeak.ca

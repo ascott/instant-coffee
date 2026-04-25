@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 4
 type: "TALK"
+venue: "ECU"
 summary: "ECU | Panel Discussion | Vanessa Brown, Nomi Chi,.... | MAR 2"
 ---
 

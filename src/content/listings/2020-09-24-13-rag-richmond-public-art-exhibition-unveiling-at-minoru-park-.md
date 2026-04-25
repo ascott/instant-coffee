@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 13
 type: "EXHIBITION"
+venue: "RAG + Richmond Public Art Exhibition"
 summary: "RAG + Richmond Public Art Exhibition | Unveiling at Minoru Park | 3PM | SEP 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 10
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | Job Opportunity - Social Planner II | JUN 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 18
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | OTONOM by Hank Bull | 2PM | SEP 16"
 ---
 

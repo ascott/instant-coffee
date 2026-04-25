@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  when bored we reserve the right t
 emailDate: "Thu, 08 Sep 2011 11:25:40 -0700"
 number: 14
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Brian Lye | SEP 9"
 ---
 

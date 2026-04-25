@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 9
 type: "EVENT"
+venue: "Queen Elizabeth Theatre"
 summary: "Queen Elizabeth Theatre | Summer Art Party | 7PM | AUG 1"
 ---
 

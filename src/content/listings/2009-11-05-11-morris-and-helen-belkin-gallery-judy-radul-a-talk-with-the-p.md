@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not nonsense but making no sense"
 emailDate: "Thu, 05 Nov 2009 03:27:25 -0800"
 number: 11
 type: ""
+venue: "Morris and Helen Belkin Gallery"
 summary: "Morris and Helen Belkin Gallery | Judy Radul: A talk with the production team | NOV 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 26
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Rebecca La Marre | 6PM | JUL 3"
 ---
 

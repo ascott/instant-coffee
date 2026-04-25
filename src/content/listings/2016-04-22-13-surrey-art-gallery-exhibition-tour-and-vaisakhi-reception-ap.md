@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 13
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Exhibition Tour and Vaisakhi Reception | APR 27"
 ---
 

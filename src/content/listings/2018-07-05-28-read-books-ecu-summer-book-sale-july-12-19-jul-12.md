@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 28
 type: "EVENT"
+venue: "READ Books @ ECU"
 summary: "READ Books @ ECU | Summer Book Sale | JULY 12-19 | JUL 12"
 ---
 

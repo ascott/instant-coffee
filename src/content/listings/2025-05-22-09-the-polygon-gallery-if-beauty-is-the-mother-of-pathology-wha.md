@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 9
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | If Beauty Is The Mother Of Pathology, What Is Desi | MAY 22"
 ---
 

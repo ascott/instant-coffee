@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 6
 type: "EVENT"
+venue: "ECU Library"
 summary: "ECU Library | On Edge Reading Series: Doretta Lau + Chelsea Rooney | MAR 24"
 ---
 

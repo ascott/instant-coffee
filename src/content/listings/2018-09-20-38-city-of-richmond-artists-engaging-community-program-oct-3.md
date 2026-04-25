@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 38
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | Artists Engaging Community Program | OCT 3"
 ---
 

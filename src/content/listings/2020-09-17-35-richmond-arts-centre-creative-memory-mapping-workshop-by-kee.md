@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 35
 type: "EDUCATION"
+venue: "Richmond Arts Centre"
 summary: "Richmond Arts Centre | Creative Memory Mapping Workshop by Keely O'Brien | OCT 1"
 ---
 

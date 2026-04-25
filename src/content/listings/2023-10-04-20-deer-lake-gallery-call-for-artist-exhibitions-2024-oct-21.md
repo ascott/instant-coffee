@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 20
 type: ""
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Call for Artist Exhibitions 2024 | OCT 21"
 ---
 

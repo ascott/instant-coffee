@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 18
 type: "OPENING"
+venue: "Deer Lake Art Gallery"
 summary: "Deer Lake Art Gallery | Jay Senetchko | 12PM | JAN 19"
 ---
 

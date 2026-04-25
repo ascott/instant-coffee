@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://vimeo.com/35180950"
 emailDate: "Thu, 26 Jan 2012 11:35:03 -0800"
 number: 13
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Guo Fengyi, Frances Stark, Scott Massey | FEB 2"
 ---
 
@@ -32,21 +33,21 @@ metaphysical significance.
 
 The exhibition at the CAG will feature an in-depth selection of work that 
 invites visitors to engage in a world combining theories of mysticism, 
-tradition, cosmology, energy maps, divination and dynastic sites â€“ all 
+tradition, cosmology, energy maps, divination and dynastic sites – all 
 systems which are fast disappearing in a modernized China.
 
 Frances Stark My Best Thing, 2011
 Digital video, duration 99 mins, Courtesy the artist, Marc Foxx, Los 
 Angeles; 
-Gavin Brownâ€™s Enterprise, New York City; Greengassi London; Galerie 
+Gavin Brown’s Enterprise, New York City; Greengassi London; Galerie 
 Buchholz, Cologne
 
 Frances Stark
 My Best Thing
 February 3 to April 15, 2012
 
-The Contemporary Art Gallery presents Frances Starkâ€™s first feature 
-length animation My Best Thing. Premiered at last yearâ€™s 2011 Venice 
+The Contemporary Art Gallery presents Frances Stark’s first feature 
+length animation My Best Thing. Premiered at last year’s 2011 Venice 
 Biennale this compelling work is presented as a large scale projection 
 in the Alvin Balkind Gallery at the CAG.
 
@@ -83,13 +84,13 @@ Vancouver artist Scott Massey.
 With discrete works sited in the windows of CAG and at the Yaletown-
 Roundhouse Canada Line station, Massey links both locations through 
 two new pieces exploring notions of time and space, and the mutable 
-connections between them. Masseyâ€™s work accentuates and amplifies 
+connections between them. Massey’s work accentuates and amplifies 
 natural phenomena, often heightened through artificial means or slight 
 manipulations. 
 
 Across the front of the CAG, Aurorae draws our attention to the shifting 
 nature of light. By giving substance to the intangible, Massey creates a 
-subtle animation of the faÃ§ade creating an effect suggesting fluidity 
+subtle animation of the façade creating an effect suggesting fluidity 
 within the structure. 
 
 In Via Lactea (above Glacier Lake) at the Yaletown-Roundhouse 
@@ -125,4 +126,4 @@ E: s.lavitt@contemporaryartgallery.ca
 www.contemporaryartgallery.ca
 
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5 
-Hours: Wed. - Sun. 12 â€“ 6 pm. FREE ENTRY
+Hours: Wed. - Sun. 12 – 6 pm. FREE ENTRY

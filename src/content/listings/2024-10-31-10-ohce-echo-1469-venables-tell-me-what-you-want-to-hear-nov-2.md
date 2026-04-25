@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "OHCE-ECHO, 1469 Venables"
 summary: "OHCE-ECHO, 1469 Venables | Tell me what you want to hear | NOV 2"
 ---
 

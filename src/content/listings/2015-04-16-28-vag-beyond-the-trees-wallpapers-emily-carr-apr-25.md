@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 28
 type: "EXHIBITION"
+venue: "VAG"
 summary: "VAG | Beyond the Trees: WALLPAPERS - Emily Carr | APR 25"
 ---
 

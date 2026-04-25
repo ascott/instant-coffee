@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you are a complex diamond and we 
 emailDate: "Thu, 03 Jan 2013 11:03:39 -0800"
 number: 7
 type: ""
+venue: "KRANKY CAFE"
 summary: "KRANKY CAFE | NOT SENT LETTERS & GUESTS | JAN 11"
 ---
 
@@ -12,7 +13,7 @@ NOT SENT LETTERS & GUESTS
 @ KRANKY CAFE - 216 E. 4th Avenue, Vancouver
 Friday Evening, January 11th, 2013
 2 Hour Programme: 7-9pm SHARP!
-$5 Suggested Donation â€“ No One Turned Away
+$5 Suggested Donation – No One Turned Away
 (space/seating is extremely limited)
 
 interdisciplinary works by

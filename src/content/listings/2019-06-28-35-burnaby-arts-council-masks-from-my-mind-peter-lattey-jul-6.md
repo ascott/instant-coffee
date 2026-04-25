@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 35
 type: "OPENING"
+venue: "Burnaby Arts Council"
 summary: "Burnaby Arts Council | Masks from my Mind - Peter Lattey | JUL 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 10
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | In Transition: New Art from India | MAY 1"
 ---
 

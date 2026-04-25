@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 7
 type: "TALK"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | BC CULTURE DAYS | SEP 30"
 ---
 

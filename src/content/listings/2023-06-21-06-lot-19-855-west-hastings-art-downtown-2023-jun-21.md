@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 6
 type: "EVENT"
+venue: "Lot 19, 855 West Hastings"
 summary: "Lot 19, 855 West Hastings | Art Downtown 2023 | JUN 21"
 ---
 

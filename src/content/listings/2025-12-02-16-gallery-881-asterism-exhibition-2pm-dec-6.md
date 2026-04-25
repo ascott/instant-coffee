@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 16
 type: "OPENING"
+venue: "Gallery 881"
 summary: "Gallery 881 | ASTERISM EXHIBITION | 2PM | DEC 6"
 ---
 

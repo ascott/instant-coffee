@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 8
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Robson Square | ART ROCK? NO. 31 FINALE | 630-10PM | APR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 1
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Torrie Groening, David Ostrem, and Davida Kidd | NOV 5"
 ---
 

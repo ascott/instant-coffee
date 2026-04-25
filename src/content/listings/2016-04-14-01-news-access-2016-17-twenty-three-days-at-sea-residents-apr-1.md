@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | Access | 2016 -17 Twenty-Three Days at Sea Residents | APR 14"
 ---
 

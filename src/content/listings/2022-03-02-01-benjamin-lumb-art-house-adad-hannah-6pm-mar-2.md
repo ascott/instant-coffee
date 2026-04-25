@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Benjamin Lumb Art House"
 summary: "Benjamin Lumb Art House | Adad Hannah | 6pm | MAR 2"
 ---
 

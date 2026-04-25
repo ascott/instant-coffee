@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 17
 type: "EVENT"
+venue: "New Media Gallery"
 summary: "New Media Gallery | OpenLAB DROP-IN | FEB 1"
 ---
 

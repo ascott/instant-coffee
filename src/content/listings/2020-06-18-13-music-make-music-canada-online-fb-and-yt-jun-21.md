@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 13
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Make Music Canada | online (FB and YT) | JUN 21"
 ---
 

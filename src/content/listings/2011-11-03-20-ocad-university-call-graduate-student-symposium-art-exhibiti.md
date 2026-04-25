@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art, ruse and subterfuge"
 emailDate: "Thu, 03 Nov 2011 10:55:42 -0700"
 number: 20
 type: ""
+venue: "OCAD University"
 summary: "OCAD University | CALL: Graduate Student Symposium & Art Exhibition | DEC 2"
 ---
 

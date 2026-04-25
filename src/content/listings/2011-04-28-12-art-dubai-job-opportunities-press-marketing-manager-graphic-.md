@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 12
 type: ""
+venue: "Art Dubai: Job Opportunities"
 summary: "Art Dubai: Job Opportunities | Press & Marketing Manager | Graphic & Web Designer | APR 30"
 ---
 
@@ -48,7 +49,7 @@ required.
 Graphic & Web Designer
 Implementing the fair's brand identity, the in-house designer will 
 create templates for and populate each piece of collateral, and see 
-the materials â€“ including catalogues and booklets - through from 
+the materials – including catalogues and booklets - through from 
 concept to production. The ideal candidate will be bilingual in 
 spoken and written English and Arabic, have a degree in graphic 
 design, have a minimum of two years professional design and 

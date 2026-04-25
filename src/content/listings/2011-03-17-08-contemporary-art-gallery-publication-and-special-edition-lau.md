@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 8
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Publication and Special Edition Launch: ROY ARDEN | MAR 19"
 ---
 

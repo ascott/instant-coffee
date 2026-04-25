@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 5
 type: "OPENING"
+venue: "Deer Lake Art Gallery"
 summary: "Deer Lake Art Gallery | Outdoor Garden Exhibition: Jazz Wood | AUG 10"
 ---
 

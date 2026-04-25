@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 20
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | The Fraud that Goes Under the Name of Love | JUN 1"
 ---
 

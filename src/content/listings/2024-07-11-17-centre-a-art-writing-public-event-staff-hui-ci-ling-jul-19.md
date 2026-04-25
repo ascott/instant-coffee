@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 17
 type: "EDUCATION"
+venue: "Centre A"
 summary: "Centre A | Art Writing Public Event: Staff Hui Ci Ling | JUL 19"
 ---
 

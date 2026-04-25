@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cerulean blue cracks us up"
 emailDate: "Thu, 22 Apr 2010 12:14:58 -0700"
 number: 14
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | In Transition: New Art from India | MAY 1"
 ---
 

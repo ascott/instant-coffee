@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 57
 type: "OPENING"
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Imagining Fusang | 2PM | JUN 29"
 ---
 

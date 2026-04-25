@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: This May Be for Forever"
 emailDate: "Thu, 05 Dec 2013 11:40:18 -0800"
 number: 16
 type: ""
+venue: "TRENCH Contemporary Art"
 summary: "TRENCH Contemporary Art | Archiving | DEC 12"
 ---
 

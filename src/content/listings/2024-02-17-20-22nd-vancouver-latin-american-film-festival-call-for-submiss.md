@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 20
 type: "CALL"
+venue: "22nd Vancouver Latin American Film Festival"
 summary: "22nd Vancouver Latin American Film Festival | Call for Submissions | FEB 29"
 ---
 

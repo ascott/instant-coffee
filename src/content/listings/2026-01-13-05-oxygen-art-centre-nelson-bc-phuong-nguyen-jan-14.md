@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 5
 type: "OPENING"
+venue: "Oxygen Art Centre [NELSON, BC]"
 summary: "Oxygen Art Centre [NELSON, BC] | Phuong Nguyen | JAN 14"
 ---
 

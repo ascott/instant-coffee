@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 1
 type: "CALL"
+venue: "Kalamalka Press + Caetani Cultural Centre (VERNON)"
 summary: "Kalamalka Press + Caetani Cultural Centre (VERNON) | fully-funded Writer-in-Residence Program"
 ---
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 23
 type: ""
+venue: "JOB"
 summary: "JOB | CARFAC BC | Membership Coordinator | JAN 30"
 ---
 
-CARFAC BC Membership Coordinator â€“ Vancouver office
+CARFAC BC Membership Coordinator – Vancouver office
 Deadline: January 30, 2015 by 5:00pm
 
 CARFAC BC is a non-profit organization dedicated to improving the
@@ -23,7 +24,7 @@ established guidelines.
 Establish and maintain familiarity with CARFAC history, policies,
 guidelines, and bylaws.
 Maintain office records, files, and equipment.
-Ensure BCâ€™s desk is open to the public on a regular basis.
+Ensure BC’s desk is open to the public on a regular basis.
 Prioritize, organize and undertake multiple tasks. Inform employers
 when demands become unrealistic. Be willing to ask for help and oversee
 volunteers to complete tasks.

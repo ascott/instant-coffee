@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 10
 type: "OPENING"
+venue: "BAF Gallery"
 summary: "BAF Gallery | Howie Tsui, Cindy Mochizuki, Candice Okada | 7PM | JAN 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 2
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Toque Craft Fair Dec 2nd,3rd, 4th"
 ---
 

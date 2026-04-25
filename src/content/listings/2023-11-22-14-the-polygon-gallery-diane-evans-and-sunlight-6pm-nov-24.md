@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 14
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Diane Evans and Sunlight | 6PM | NOV 24"
 ---
 

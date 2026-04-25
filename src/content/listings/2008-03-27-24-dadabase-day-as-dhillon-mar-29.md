@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you are a source of information"
 emailDate: "Thu, 27 Mar 2008 09:10:57 -0700"
 number: 24
 type: ""
+venue: "DADABASE"
 summary: "DADABASE | Day A.S. Dhillon| MAR 29"
 ---
 

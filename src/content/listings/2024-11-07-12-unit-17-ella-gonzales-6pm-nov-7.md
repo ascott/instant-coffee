@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 12
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Ella Gonzales | 6PM | NOV 7"
 ---
 

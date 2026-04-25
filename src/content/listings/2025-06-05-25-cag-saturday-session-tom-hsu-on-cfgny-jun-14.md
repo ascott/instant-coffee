@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 25
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Saturday Session: Tom Hsu on CFGNY | JUN 14"
 ---
 

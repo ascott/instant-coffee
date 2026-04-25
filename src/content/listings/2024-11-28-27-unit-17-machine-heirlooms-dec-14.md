@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 27
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | MACHINE HEIRLOOMS | DEC 14"
 ---
 

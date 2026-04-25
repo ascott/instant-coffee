@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 13
 type: "EVENT"
+venue: "Morrow"
 summary: "Morrow | Shion Skye Carter | SEP 4"
 ---
 

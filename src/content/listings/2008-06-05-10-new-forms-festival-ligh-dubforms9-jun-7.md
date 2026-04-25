@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: thirty three and a third % brighte
 emailDate: "Thu, 05 Jun 2008 08:20:36 -0700"
 number: 10
 type: ""
+venue: "new forms festival + ligh"
 summary: "new forms festival + ligh | DUBFORMS9 | JUN 7"
 ---
 

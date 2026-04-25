@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cognitive dissonance verse congrue
 emailDate: "Thu, 11 Apr 2013 16:25:23 -0700"
 number: 10
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Curatorial Tour of Grand Hotel | APR 14"
 ---
 
@@ -28,7 +29,7 @@ movement, interaction and ideas.
 
 More than six years in the making, the exhibition is a thought-
 provoking and dynamic presentation featuring noted hotels around the 
-globe and throughout history. Co-curated by the Galleryâ€™s Senior 
+globe and throughout history. Co-curated by the Gallery’s Senior 
 Curator Bruce Grenville with Assistant Curator Stephanie Rebick, this 
 first-ever exhibition on the hotel as a defining architectural structure of 
 the modern age fills a considerable void in existing scholarship on this 
@@ -60,7 +61,7 @@ Tokyo. These were developed in collaboration with the top figures in
 Dutch design, art and architecture, alongside major input from new 
 emerging professionals, and the development of projects with design 
 students. Central to their concepts is a lack of fear for the impossible 
-and unknown, and a desire to treat travellers with â€˜cultural luggageâ€™ as 
+and unknown, and a desire to treat travellers with ‘cultural luggage’ as 
 an opportunity for social exchange.
 
 Oxenaar, together with Guda Stoop and Chef Thor made her mark in 
@@ -68,8 +69,8 @@ the hospitality business, by initiating the Supperclub Amsterdam, the
 first lounge-restaurant in the city. In her talk she will describe how her 
 background in curating art in public space has led her to develop 
 inventive frameworks for exchange by treating the hotel as place of risk 
-and adventure, as well as commerce and culture. For Oxenaar, â€˜Grand 
-Hotelâ€™ stands for a mentality in which a cosmopolitan perspective, a 
+and adventure, as well as commerce and culture. For Oxenaar, ‘Grand 
+Hotel’ stands for a mentality in which a cosmopolitan perspective, a 
 personal approach and innovative design contribute to a constant 
 interplay between the private and the public. In this interplay, what is 
 most important is the exchange of cultural knowledge. Suzanne 

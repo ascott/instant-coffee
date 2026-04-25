@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 12
 type: ""
+venue: "Firehall Arts Centre"
 summary: "Firehall Arts Centre | Curatorial Opportunity: Peace at War | AUG 31"
 ---
 
@@ -13,7 +14,7 @@ The Firehall Arts Centre is seeking a curator for an upcoming
 exhibition to complement the production Vimy which will run Oct 28 
 through Nov. 19. We are interested in a multi faceted examination of 
 the issues around seeking peace while waging war. This exhibition 
-will form part of the programming that examines Vancouverâ€™s identity 
+will form part of the programming that examines Vancouver’s identity 
 through the history of armed conflicts and quests for peace that have 
 punctuated its history. An honorarium will be paid and there is a 
 small budget for materials and supplies. The exhibition will open on 

@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 17
 type: ""
-summary: "Marriot Downtown | Creating the Tools â€“ Computational Aesthetics | AUG 5"
+venue: "Marriot Downtown"
+summary: "Marriot Downtown | Creating the Tools – Computational Aesthetics | AUG 5"
 ---
 
-Vancouver Marriott Pinnacle Downtown Hotel Â· 1128 West 
-Hastings Street Â· Vancouver
+Vancouver Marriott Pinnacle Downtown Hotel · 1128 West 
+Hastings Street · Vancouver
 Public Art Opening: Fri Aug 5, 5:30 pm
 Symposium: Aug 5-7 (9 am each day)
 

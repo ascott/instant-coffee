@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 18
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | 16mm Filmmaking Workshop Series | JAN 22"
 ---
 

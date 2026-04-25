@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 18
 type: ""
+venue: "La Centrale Galerie"
 summary: "La Centrale Galerie | JOB POSTING | OCT 11"
 ---
 
@@ -63,7 +64,7 @@ Deadline: Monday, September 20, 2010- 5pm
 Only those candidates selected for an interview will be contacted.
 Thank you for your understanding.
 
-N.B. The feminine is used in this text to facilitate itÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s reading and in no
+N.B. The feminine is used in this text to facilitate itÃ¢ï¿½ï¿½s reading and in no
 way means to exclude
 other genders.
 

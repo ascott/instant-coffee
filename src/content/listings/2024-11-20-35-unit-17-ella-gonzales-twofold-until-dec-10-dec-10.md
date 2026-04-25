@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 35
 type: "EXHIBITION"
+venue: "Unit 17"
 summary: "Unit 17 | Ella Gonzales 'Twofold' | UNTIL DEC 10 | DEC 10"
 ---
 

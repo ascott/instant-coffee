@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 45
 type: "EVENT"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Christmas Boutique | 11-5PM | DEC 1"
 ---
 

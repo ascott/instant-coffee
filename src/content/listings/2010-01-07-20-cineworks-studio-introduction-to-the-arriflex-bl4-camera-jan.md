@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 20
 type: ""
+venue: "Cineworks Studio"
 summary: "Cineworks Studio | INTRODUCTION TO THE ARRIFLEX BL4 CAMERA | JAN 31"
 ---
 

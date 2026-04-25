@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 25
 type: ""
+venue: "fonderie darling"
 summary: "fonderie darling | CALL FOR RESIDENCIES, STUDIOS AND PLAN LARGE | FEB 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gobbled Up"
 emailDate: "Wed, 05 Jul 2023 10:25:12 -0700"
 number: 15
 type: "TALK"
+venue: "Heritage Vancouver Society [ONLINE]"
 summary: "Heritage Vancouver Society [ONLINE] | Disasters and Heritage | 12PM | JUL 11"
 ---
 

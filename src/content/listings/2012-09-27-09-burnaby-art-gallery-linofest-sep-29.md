@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 9
 type: ""
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Linofest | SEP 29"
 ---
 
-Burnaby Art Gallery presents Linofest, Saturday Sept 29, noon â€“ 5 pm
+Burnaby Art Gallery presents Linofest, Saturday Sept 29, noon – 5 pm
 
 Celebrate Culture Days in Burnaby with a day dedicated to the art of 
-Linocut. Free artist talks and demos with some of BCâ€™s most skilled 
+Linocut. Free artist talks and demos with some of BC’s most skilled 
 printmakers including Nic Vandergugten, Gary Sims, Susan Gransby, 
 Torrie Groening and many more. Hundreds of prints will be on display 
 and for sale with a free drop-in printing project for kids with 

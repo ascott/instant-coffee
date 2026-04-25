@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 23
 type: ""
+venue: "ART GALLERY OF GREATER VICTORIA"
 summary: "ART GALLERY OF GREATER VICTORIA | The LAB | CALL | DEC 31"
 ---
 
@@ -23,7 +24,7 @@ projects, The LAB is a contemporary space within the Art Gallery. This
 exhibition space is a site for new work, as well as a project space in
 which proposals are invited to engage with the site itself. The Gallery
 welcomes all forms of media, performance or innovative museological
-projects. Projects may also involve the Galleryâ€™s permanent collection.
+projects. Projects may also involve the Gallery’s permanent collection.
 
 CONTACT:
 

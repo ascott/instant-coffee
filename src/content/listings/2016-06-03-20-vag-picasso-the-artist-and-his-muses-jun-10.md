@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 20
 type: "OPENING"
+venue: "VAG"
 summary: "VAG | Picasso: The Artist and His Muses | JUN 10"
 ---
 

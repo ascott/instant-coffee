@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 9
 type: "EVENT"
+venue: "Other Sights"
 summary: "Other Sights | FLEET site Open House | FEB 10"
 ---
 

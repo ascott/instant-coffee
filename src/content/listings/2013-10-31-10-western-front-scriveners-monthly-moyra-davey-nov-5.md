@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 10
 type: ""
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly: Moyra Davey | NOV 5"
 ---
 
@@ -17,9 +18,9 @@ Davey will be in Vancouver to open her exhibition Ornament and Reproach at
 Presentation House Satellite Gallery and she will also give a talk at Emily Carr 
 University. 
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the space 
+Scrivener’s Monthly is a series of public presentations that explore the space 
 between material practices and spoken words: a periodical that talks. Set 
-alongside the exhibitions program at Western Front, this experiment in â€œnot 
+alongside the exhibitions program at Western Front, this experiment in “not 
 publishingâ€  involves readings, performances, and other articulations.
 
 Visit www.front.bc.ca for more information.

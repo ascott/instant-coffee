@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 11
 type: ""
+venue: "VIVO Sound Workshops"
 summary: "VIVO Sound Workshops | LOGIC PRO - INTRO | MAY 18"
 ---
 

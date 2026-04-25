@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Museum Dogs"
 emailDate: "Thu, 05 Jan 2017 10:25:36 -0800"
 number: 1
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Galleries West magazine | Galleries West Digital | JAN 1"
 ---
 

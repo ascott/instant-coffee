@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: air misty but not raining"
 emailDate: "Thu, 10 Nov 2016 17:20:05 -0800"
 number: 14
 type: "TALK"
+venue: "Art Rental and Sales at the Vancouver Art Gallery"
 summary: "Art Rental and Sales at the Vancouver Art Gallery | Scott Bertram | NOV 15"
 ---
 

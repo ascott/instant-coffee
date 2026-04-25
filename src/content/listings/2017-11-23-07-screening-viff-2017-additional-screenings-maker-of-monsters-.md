@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 7
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIFF 2017 Additional Screenings | Maker of Monsters: The Extraordinary Life of Beau | NOV 24"
 ---
 

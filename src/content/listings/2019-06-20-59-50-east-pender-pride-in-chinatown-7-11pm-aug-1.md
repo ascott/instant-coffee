@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 59
 type: "EVENT"
+venue: "50 East Pender"
 summary: "50 East Pender | PRIDE IN CHINATOWN | 7-11PM | AUG 1"
 ---
 

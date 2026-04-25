@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 26
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | It begins with knowing and not knowing | 2PM | JUL 20"
 ---
 

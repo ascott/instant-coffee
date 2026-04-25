@@ -43,10 +43,10 @@ New Design British Columbia
 
 Cutty Contemporary Art - Alternate Exhibition Space
 564 Beatty St., Vancouver BC
-29 September â€“ 16 October, 2011
+29 September – 16 October, 2011
 Opening reception 29 September, 7-11 pm
 
-Open Weekends, 12pm â€“ 6pm, or by appointment
+Open Weekends, 12pm – 6pm, or by appointment
 
 New Design British Columbia
 
@@ -61,7 +61,7 @@ Carey Ann Schaefer
 Nathan Martell
 
 New Design British Columbia is an exhibition showcasing contemporary, multi-
-disciplinary work from British Columbiaâ€™s emerging design community. Set to 
+disciplinary work from British Columbia’s emerging design community. Set to 
 align with IDSWest, this exhibition will explore regional ideas in furniture, lighting, 
 ceramics, outdoor apparel, and the principles of object making.
 
@@ -84,7 +84,7 @@ Cutty Contemporary Art Gallery;
 
 Opening reception 29 September, 7-11 pm
 
-Open Weekends, 12pm â€“ 6pm, or by appointment
+Open Weekends, 12pm – 6pm, or by appointment
 
 www.randygrskovic.com
 
@@ -93,13 +93,13 @@ www.cuttycag.com
 Randy Grskovic is constructing a database. It is not linear. Or particularly 
 organized. Perhaps it is not even functional.
 
-Reoccurring Themes takes up the idea of (dys)function and Grskovicâ€™s interest 
+Reoccurring Themes takes up the idea of (dys)function and Grskovic’s interest 
 in functionality or the lack of it. What happens to objects, images and ideas when 
 they are removed from their original purpose or context? And, how can new and 
 productive spaces be explored by this confusion? The images for this series 
 have been carefully collected and curated to investigate these questions. They 
 have been precisely cut, arranged, layered and pasted and reorganized from 
-linear histories into contemporary somethings that arenâ€™t so readily readable.
+linear histories into contemporary somethings that aren’t so readily readable.
 
 Randy Grskovic works with fragments, from books, magazines or other 
 ephemera, to create new narratives. His work often focuses on the intrinsic 
@@ -136,7 +136,7 @@ reciprocal relationship. It is our goal to help artists support themselves throu
 their work with direct connection to emerging art collectors. Our gallery 
 operates in the front of a 5000sq ft. space that house 16 working artists. We do 
 not represent artists exclusively but choose to exhibit projects we believe in. We 
-are currently housed in a beautiful 1920â€™s era building on Beatty st. The last 
+are currently housed in a beautiful 1920’s era building on Beatty st. The last 
 building on the block yet to be redeveloped. Our building is slated for 
 gentrification at the end of this year.
 
@@ -225,7 +225,7 @@ sep29_mousse.jpg
 
 Mousse Issue #30 out now
 
-Octoberâ€“November 2011
+October–November 2011
 
 www.moussemagazine.it
 
@@ -239,13 +239,13 @@ time: â€œwhat the hell am I doing here, now?â€  Critics also have their c
 Roelstraete observes the qualitative dodginess of the artistic production of his 
 contemporaries.
 
-Nicholas Cullinan is impressed by the way Phyllida Barlowâ€™s recent output 
+Nicholas Cullinan is impressed by the way Phyllida Barlow’s recent output 
 manages to control space. The interview with the artist is an opportunity to 
 retrace certain stages of her long career.
 
 Ana Teixeira Pinto interviews David Levine for PART OF THE PROCESS, to find 
 out about the origins of a performance that is a reflection on the life and times of 
-Abstract Expressionism. And what links the artistâ€™s father to Mark Rothko.
+Abstract Expressionism. And what links the artist’s father to Mark Rothko.
 
 Jan Verwoert offers a surprising look at the vilest forms of judgment, shedding 
 light on the close ties that exist between judge and judged. How can we get 
@@ -255,7 +255,7 @@ George Kuchar has left us. And he has taken with him one of the most sincere,
 impassioned and comical perspectives on reality. Together with his twin brother 
 Mike, George was one of the most highly esteemed underground filmmakers, 
 forerunners of all the low-fi and parodistic approaches to narrative cinema. For 
-PORTFOLIO, Juan A. SuÃ¡rez provides a memorable portrait.
+PORTFOLIO, Juan A. Suárez provides a memorable portrait.
 
 According to Andrew Berardini, Llyn Foulkes is a very undervalued artist. This 
 contribution for LOST & FOUND is an opportunity to figure out the reasons 
@@ -269,7 +269,7 @@ In NICE TO MEET YOU:
 Interviewed by Cecilia Alemani, Dan Finsel outlines a psychological voyage 
 inspired by the legendary Farrah Fawcett.
 
-Ben Schumacher creates original trompe lâ€™oeil effects, paintings transformed 
+Ben Schumacher creates original trompe l’oeil effects, paintings transformed 
 into 3D objects. He talks about it with Bob Nickas.
 
 According to John Henderson, Abstract Expressionism is a readymade to grab, 
@@ -295,15 +295,15 @@ redefinition of space, the structure of the theater and the translation of thoug
 into words are the protagonists.
 
 PARIS: The painting method of Jonathan Binet explores the crest between 
-concept and the physical, intention and chance. Vincent HonorÃ© met the artist, to 
+concept and the physical, intention and chance. Vincent Honoré met the artist, to 
 discover that the stopping point of a work can be set over the phone.
 
 NEW YORK: Tim Rollins and Julie Ault discuss their post-Group Material activity. 
-From the work of K.O.S, Rollinsâ€™ students in the South Bronx, to Aultâ€™s particular 
+From the work of K.O.S, Rollins’ students in the South Bronx, to Ault’s particular 
 editorial and curatorial efforts involving rediscoveries and restored value.
 
 BERLIN: Starship is a paper spacecraft. A Berlin-based magazine with Ariane 
-MÃ¼ller, Martin Ebner and Hans-Christian Dany at its helm. Gigiotto Del Vecchio 
+Müller, Martin Ebner and Hans-Christian Dany at its helm. Gigiotto Del Vecchio 
 met the crew.
 
 This time the ARTIST PROJECT is transformed into an exchange between an 
@@ -322,7 +322,7 @@ Ulrich Obrist, who met for Mousse with Alison Knowles, one of the key Fluxus
 figures.
 
 Rob Giampietro is both a designer and a writer: this is why he loves wordplay, 
-poetry and puzzlesâ€¦ For REPRINT he has selected a short story by Lydia 
+poetry and puzzles… For REPRINT he has selected a short story by Lydia 
 David, and other very concrete things.
 
 What are the reasons behind the widespread interest in the question of 
@@ -330,12 +330,12 @@ the â€œthemeâ€  in much of the art of recent years? Chus MartÃ­nez answ
 an extraordinary perspective that reconsiders concepts of reality, history and 
 language.
 
-For the second appointment with the column WHATâ€™S ALTERNATIVE? / 
+For the second appointment with the column WHAT’S ALTERNATIVE? / 
 ALTERNATIVE TO WHAT?, Vincenzo de Bellis meets Andrea Fraser to talk 
 about the experience of Orchard and the less familiar aspects of non-profit 
 operation in the United States.
 
-Tamar GuimarÃ£es demonstrates that delving into a device like an archive or a 
+Tamar Guimarães demonstrates that delving into a device like an archive or a 
 phenomenon like hypnosis never leaves one unscathed. She talks about it with 
 Andrea Lissoni, referring to her works.
 
@@ -354,7 +354,7 @@ FROM MOUSSE PUBLISHING
 Out now:
 abc art berlin contemporary: about painting
 Dalia Dūdėnaitė and Elena Narbutaitė. Sleeper
-The 6th Momentum Biennial. Imagine Being Here Now â€“ Reminder 
+The 6th Momentum Biennial. Imagine Being Here Now – Reminder 
 
 Upcoming titles:
 The Otolith Group. Thoughtform / La forma del pensiero
@@ -377,7 +377,7 @@ Stills from films by George and Mike Kuchar.
 VIVO Media Arts Centre
 Thursday September 29, 7PM Free
 No Reading After the Internet
-September's Reading: Paul Willemen, "PhotogÃ©nie and Epstein" (1982)
+September's Reading: Paul Willemen, "Photogénie and Epstein" (1982)
 Facilitated by Alex Muir
 1965 Main St. www.vivomediaarts.com
 
@@ -385,24 +385,24 @@ No Reading returns in September with materials on early French avant-garde
 film. Paul Willemenâ€™s article â€œPhotogÃ©nie and Epstein,â€  surveys the texts of Jean 
 Epstein and his contemporaries (Louis Delluc, Riciotto Canudo). Willemen 
 characterizes their efforts as some of the earliest attempts to theorize film. As a 
-result or in addition, Willemen relates their development of the term, PhotogÃ©nie, 
-to the concept of cinephilia. The discussion of medium and theory andâ€”and 
-particularly Willemenâ€™s distinction between how Epstein situates himself with 
-respect to his concepts as opposed to how Breton and the surrealists doâ€”is of 
-interest; however the bare concept of PhotogÃ©nie is also resonant for us in and 
+result or in addition, Willemen relates their development of the term, Photogénie, 
+to the concept of cinephilia. The discussion of medium and theory and—and 
+particularly Willemen’s distinction between how Epstein situates himself with 
+respect to his concepts as opposed to how Breton and the surrealists do—is of 
+interest; however the bare concept of Photogénie is also resonant for us in and 
 of itself. Hot on the heels of two different video projects shot/presented in town 
 by French artists Nicolas Boone and Neil Beloufa, which take in the interrelation 
 of civic space and photogenic vision, we will supplement this salon with a 
-sampling of Epsteinâ€™s own writings, and film works. 
+sampling of Epstein’s own writings, and film works. 
 
 Paul Willemen is a British film critic and cultural theorist, who has written 
 extensively on cinephilia, the concept of third cinema and national form in film 
 journals such as Afterimage and Framework. The text we are looking at was 
 republished in his book Looks and Frictions.
 
-Jean Epstein was a Polish emigrÃ©, who was a key member of the Parisian film 
+Jean Epstein was a Polish emigré, who was a key member of the Parisian film 
 avant-garde of the 1920s and 30s. Working alongside the likes of Germaine 
-Dulac, Man Ray, Fernand LÃ©ger and Abel Gance, Epstein wrote extensively on 
+Dulac, Man Ray, Fernand Léger and Abel Gance, Epstein wrote extensively on 
 film, and shot more than 30 works from the 1920s thru to the end of the 1940s. 
 ---
 
@@ -547,17 +547,17 @@ Find us on Facebook!
 WORLD PREMIERE of West Wind: The Vision of Tom Thomson
 Saturday, October 1st at the Vancouver International Film Festival
 
-A Documentary Film by MichÃ¨le Hozer & Peter Raymont
+A Documentary Film by Michèle Hozer & Peter Raymont
 
 This provocative, never seen before look at one of Canada's art legends 
-explores the life of Tom Thomson (1877â€“1917), an influential Canadian artist 
+explores the life of Tom Thomson (1877–1917), an influential Canadian artist 
 who directly influenced a group of Canadian painters that would come to be 
 known as the Group of Seven.
 
 How did a commercial illustrator, whose favourite pastime was fishing and 
 reading poetry, find within himself the passion and confidence to portray 
-Ontarioâ€™s lakes, rivers, trees and skies with glorious colour and energy as no one 
-had before? What is it about Thomsonâ€™s life, art and death that haunt us still; that 
+Ontario’s lakes, rivers, trees and skies with glorious colour and energy as no one 
+had before? What is it about Thomson’s life, art and death that haunt us still; that 
 draw thousands of people each year to his cairn in Canoe Lake, and propel his 
 little oil sketches to the stratosphere of the Canadian art market?
 
@@ -579,8 +579,8 @@ Project Culture is a Common Purpose
 by the artist Francisco Camacho
 
 Vancouver is the most culturally diverse city in Canada. Akin to the words of our 
-current Mayor, Gregor Robertson, during his inaugural speech at Vancouverâ€™s 
-city hall in 2008, â€œwe come together to affirm our common purposeâ€¦ not [by] 
+current Mayor, Gregor Robertson, during his inaugural speech at Vancouver’s 
+city hall in 2008, “we come together to affirm our common purpose… not [by] 
 leading a city of generic uniformity, but a city rich with artistic voices and the 
 cultural wealth that flows from our diversityâ€ . The Western Front couldnâ€™t agree 
 more, for nearly 40-years we have been developing artistic programmes and 
@@ -593,7 +593,7 @@ a Common Purpose. The project will start with a series of events and talks that
 will take place throughout the month of October. Together we will explore the 
 position of culture within the public commons of our city, Vancouver. Camacho 
 will use these events and conversations to feed his research towards a broader 
-investigation on the buoyancy of cultureâ€™s position within the public sphere of 
+investigation on the buoyancy of culture’s position within the public sphere of 
 many local contexts. He has identified Canada and indeed Vancouver, as a 
 unique case to begin this project. 
 
@@ -617,24 +617,24 @@ project. Contact us with your comments and testimonials about the ways that
 public culture, a cultural event or institution that is publicly funded, has influenced 
 your life, your education, your growth, and your community. Please send your 
 texts, photographs and videos to common_culture@front.bc.ca A blog is being 
-run to track and share the developments of this participation and Camachoâ€™s 
+run to track and share the developments of this participation and Camacho’s 
 ongoing research http://cultureisacommon.tumblr.com/
 
 Biography The Columbian artist Francisco Camacho, seeks ways in which his 
 work can exist within official social channels. His projects are the results of 
 investigations and collaborations with local-contexts. Regular collaborators 
 include politicians and lawyers, which allow his discourse to be examined by 
-other structures of society, apart from the art scene. Camachoâ€™s projects often 
+other structures of society, apart from the art scene. Camacho’s projects often 
 leave the art world to become significant in other fields and can be viewed as a 
 form of political activism or social discourse. His practice evolves around the 
 possibility of art having practical effects on the broader culture and re-defines 
 common concepts that can lead art to change the way in which we conceive 
-society. Francisco Camachoâ€™s previous projects have taken place in New 
+society. Francisco Camacho’s previous projects have taken place in New 
 Mexico, where he investigated the reasons behind the inhabitants of a village 
 deciding to change its name to Truth or Consequences; in the Netherlands with 
 his project Group Marriage, he continues to petition the Dutch parliament to open 
 civil marriage to groups of citizens who would marry each other, and more 
-recently Entkustung de lâ€™art was presented at the Casino of Luxembourg and it 
+recently Entkustung de l’art was presented at the Casino of Luxembourg and it 
 featured collaborations with the Luxembourg Military School, local politicians 
 from the Senate, the Minister of Culture, a strong man and a hip hop band.
 
@@ -642,7 +642,7 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. http://front.bc.ca E. exhibitions@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 
 Copyright (C) 2011 Western Front Society All rights reserved 
@@ -687,7 +687,7 @@ Linguistic, psychoanalytic and medical, colonial and architectural, thin,
 labyrinthine, silent and loose associations constitute the body of this book.
 
 When I was first invited to curate an exhibition in Amsterdam I discovered a 
-volatile sociopolitical context. The streets are calmâ€”most of the timeâ€”but my 
+volatile sociopolitical context. The streets are calm—most of the time—but my 
 door and bicycle are always double-locked. Official letters in the mailbox 
 encourage me to be vigilant. I spent only nine months in the city and was almost 
 immediately confronted with a dispersed and disguised anxiety. A crisis so 
@@ -736,7 +736,7 @@ beyond a relationship to physical structures to a consideration of social spaces
 creating situations for encounter, participation and dispersal.
 
 In this expanded field of art and interaction, curators, institutions and artists 
-themselves have shifted their relationship to the creative processâ€”and the 
+themselves have shifted their relationship to the creative process—and the 
 display and creation of public art. This series of talks will address some of these 
 perspectives; from the evolution of curatorial practices beyond gallery walls, to 
 artists engaging with civic infrastructure, to mapping the open-ended, transient 
@@ -753,7 +753,7 @@ Artist and curator Kathleen Ritter gives an overview of the evolution of public 
 through the lens of her own practice. As curator of exhibitions such as Expect 
 Delays (Artspeak Gallery, 2003), How Soon is Now (Vancouver Art Gallery, 
 2009) and WE: Vancouver (Vancouver Art Gallery, 2011), Ritter traces a course 
-through contemporary public practice â€“ from the gallery to the street.
+through contemporary public practice – from the gallery to the street.
 
 Kathleen Ritter is an artist and a writer based in Vancouver. Her work has been 
 exhibited at the Agnes Etherington Art Centre (2010), VIVO (2009), Prefix (2009), 
@@ -762,7 +762,7 @@ Modern Fuel (2008), the Robert McLaughlin Gallery (2008), Western Front
 anthology Places and Non-Places of Contemporary Art (2005) and the journals 
 ESSE, Fillip Magazine, Open Letter, and Prefix Photo. She has curated several 
 exhibitions, including WE: Vancouver (2011) and How Soon Is Now (2009) at the 
-Vancouver Art Gallery, and Expect Delays (2003), a series of artistâ€™s 
+Vancouver Art Gallery, and Expect Delays (2003), a series of artist’s 
 interventions that took place throughout the City of Vancouver. As the Associate 
 Curator at the Vancouver Art Gallery, she coordinates Vancouver Art Gallery 
 Offsite, an outdoor site for temporary public artworks where she has curated 
@@ -907,19 +907,19 @@ TrepanierBaer Presents Vikky Alexander: Island
 October 6th through to October 29th, 2011
 Opening in the company of the artist October 6th from 6 to 8 pm.
 
-TrÃ©panierBaer cordially invites you to the opening of Vikky Alexander:
+TrépanierBaer cordially invites you to the opening of Vikky Alexander:
 Island, an exhibition of new work.
 
 Presented for the first time is Island Series, an exquisite suite of ten
 black and white photographs.
 
 For complete details, please open the attached announcement or contact the
-gallery at + (403) 244 Â¬2066 or by e-mail at info@tbg1.com.
+gallery at + (403) 244 ¬2066 or by e-mail at info@tbg1.com.
 
 We look forward to seeing you!
 
-TrÃ©panierBaer Gallery
-105 Â¬ 999 Â¬ 8th Street SW
+TrépanierBaer Gallery
+105 ¬ 999 ¬ 8th Street SW
 Calgary, AB T2R 1J5
 Canada
 www.trepanierbaer.com 
@@ -941,7 +941,7 @@ a refreshing and exciting change for her. This work still has her trademark
 creepy-cute characters and some other surprises of interesting subject matter. 
 This is a show not to be missed as these pieces are sure to sell fast.
 Call 604 872 8180 or info@blim.ca for more information.
-Opening: Friday, October 7 - 8 â€“ Midnite | Show Runs October 7-29.
+Opening: Friday, October 7 - 8 – Midnite | Show Runs October 7-29.
 
 For BLIM
 Yuriko Iga - Director
@@ -1038,7 +1038,7 @@ By Appointment: onmain@gmail.com 604.872.7713
 ______________________________________________________
 
 â€œâ€¦a rare opportunity to view pivotal pieces.â€  Preview Magazine
-â€œâ€¦well worth seeing." Malcolm Parry, Vancouver Sun
+“…well worth seeing." Malcolm Parry, Vancouver Sun
 
 This inaugural exhibition is a celebration of Vancouver art and artists featuring 
 works from the collection of Rick Erickson curated by Michael Turner. On Main 
@@ -1066,8 +1066,8 @@ Man Ray, Frederic Remington, Chick Rice, Charlie Roberts, Marc Rudis,
 Unknown, Jan Wade, Neil Wedman , Paul Wong, Michael Nicoll Yahgulanaas 
 and Lawrence Paul Yuxweluptun.
 
-Curatorâ€™s Talk with Michael Turner Sat., Oct. 8th 8pm
-â€œWhat distinguishes Rick Ericksonâ€™s collecting is that while many grow to 
+Curator’s Talk with Michael Turner Sat., Oct. 8th 8pm
+“What distinguishes Rick Erickson’s collecting is that while many grow to 
 appreciate art, Rick grew up on Main Street with artists. While the more 
 ambitious art collections often boast a focus, this collection is a reflection of his 
 four-corner engagement with the city and its histories. In that sense it is as much 
@@ -1084,7 +1084,7 @@ Turner, 2011).
 ------------------------------------------------------------------------
 New exhibition explores historic link between Inuit and Japanese printmakers
 
-BURNABY, BC, September 2011â€” The Japanese Canadian National Museum 
+BURNABY, BC, September 2011— The Japanese Canadian National Museum 
 is pleased to present Inuit Prints: Japanese Inspiration from October 11 to 
 December 3, 2011, at 6688 Southoaks Crescent, Burnaby. This exhibition is 
 organized by the Canadian Museum of Civilization with the assistance of the 
@@ -1100,18 +1100,18 @@ works of art from Japan and the world-renowned Cape Dorset print studio. It also
 pays tribute to James Houston, the man who first introduced Japanese prints to 
 the Arctic.
 
-â€œThe exposure to Japanese printmaking gave the Inuit a new form of cultural 
+“The exposure to Japanese printmaking gave the Inuit a new form of cultural 
 expression, and they soon gave the world an original, distinctive and exciting 
 genre of graphic arts,â€  said Dr. Victor Rabinovitch, President and CEO of the 
-Canadian Museum of Civilization Corporation. â€œThis is a wonderful example of 
+Canadian Museum of Civilization Corporation. “This is a wonderful example of 
 the outstanding benefits of cultural interaction and adaptation.â€  
 
 Inuit Prints: Japanese Inspiration explores the Japanese influences on the early 
 years of the Cape Dorset studio. In 1957, James Houston, then a government 
 employee, introduced printmaking to Cape Dorset as a potential source of 
 income for the Inuit. To learn more about printmaking himself, Houston travelled 
-the next year to Japan, studying for three months with one of the worldâ€™s leading 
-masters of the art, Unâ€™ichi Hiratsuka. The exhibition includes some of the rarest 
+the next year to Japan, studying for three months with one of the world’s leading 
+masters of the art, Un’ichi Hiratsuka. The exhibition includes some of the rarest 
 and earliest Cape Dorset prints and the actual Japanese prints that were brought 
 into Cape Dorset in 1959,inspiringthe Inuit artists. By juxtaposing the works, the 
 exhibition reveals the many ways in which the Cape Dorset artists 
@@ -1152,7 +1152,7 @@ by co-curator Asato Ikeda
 Saturday, October 22, 2011, 2pm
 Admission by donation
 Discover the historical background of both Japanese and Inuit prints. Canadian 
-artist, James Houstonâ€™s trip to Japan in the 1950s has informed the Inuit print 
+artist, James Houston’s trip to Japan in the 1950s has informed the Inuit print 
 practice in the Arctic, and the Inuit-Japan exchange is now situated in the long, 
 transnational history of Japanese woodblock prints.
 Asato Ikeda is a Ph.D Candidate in the Department of Art History, Visual Art and 
@@ -1168,14 +1168,14 @@ Admission by donation
 Independent scholar Maiko Behr provides an overview of the history of 
 woodblock printing in Japan, with a focus on the themes and techniques of 
 Hiratsuka Unâ€™ichi and other artists of the mid-20th century â€œCreative Printsâ€  
-movement. After the presentation, enjoy a walk-through of the exhibition â€œInuit 
+movement. After the presentation, enjoy a walk-through of the exhibition “Inuit 
 Prints: Japanese Inspiration.â€ 
 
 National Nikkei Museum and Heritage Centre
 6688 Southoaks Crescent, Burnaby, BC V5E 4M7
 604.777.7000
 www.nikkeiplace.org
-Museum hours: Tuesday â€“ Saturday 11am â€“ 5pm
+Museum hours: Tuesday – Saturday 11am – 5pm
 First Thursday open until 9pm
 Admission by donation
 
@@ -1189,11 +1189,11 @@ than 1.3 million visitors each year.
 The National Nikkei Museum & Heritage Centre is a multi-use facility in Burnaby, 
 BC. Officially opened on September 22, 2000, the Centre houses the National 
 Nikkei Heritage Centre and the Japanese Canadian National Museum. The 
-Centreâ€™s mission is to preserve and promote Japanese Canadian history, arts 
+Centre’s mission is to preserve and promote Japanese Canadian history, arts 
 and culture through vibrant programs and exhibits that connect generations and 
 inspire diverse audiences.
 
-â€“ 30 â€“
+– 30 –
 
 Media contact
 Nichola Ogiwara
@@ -1243,7 +1243,7 @@ This is a call for sound-based work that employs recording and/or post-
 production technologies as a means of exploring the sounds of our everyday 
 acoustic environment, and unlocking the potential for new and expanded 
 listening experiences. Artists engaged in practices related to ambient sound 
-design, soundscape recording, musique concrÃ¨te, etc are invited to submit work 
+design, soundscape recording, musique concrète, etc are invited to submit work 
 as a CD or uncompressed data file (wav or aiff) via web transfer or disc. The 
 maximum duration of the work may not exceed 8 minutes, and the submission 
 must be accompanied by an artist statement (maximum 300 words) outlining 
@@ -1331,12 +1331,12 @@ RESPONSIBILITIES
 The Exhibitions Curator reports to the Executive Director, and is responsible for:
  
 â€¢ Developing and communicating a dynamic vision for the Exhibitions Program 
-â€¢ Curating exhibitions and all associated programming
+• Curating exhibitions and all associated programming
  
-â€¢ Editing publications
+• Editing publications
  
 â€¢ Writing grants and seeking opportunities for additional funding or support 
-â€¢ Supervising one part-time staff member, contract workers, as well as 
+• Supervising one part-time staff member, contract workers, as well as 
 volunteers
 
 QUALIFICATIONS
@@ -1350,15 +1350,15 @@ QUALIFICATIONS
 â€¢ Strong organizational skills 
 
 â€¢ Ability to provide direction and work with a diverse staff 
-â€¢ High capacity to meet deadlines and work under pressure
+• High capacity to meet deadlines and work under pressure
 â€¢ Knowledge of a broad range of issues related to the arts 
-â€¢ A clear understanding of the philosophy and history of the Canadian artist-run 
+• A clear understanding of the philosophy and history of the Canadian artist-run 
 centre
 movement
-â€¢ Knowledge of the principle funding agencies and prior grant writing experience
-â€¢ Knowledge of managing publications and print projects
+• Knowledge of the principle funding agencies and prior grant writing experience
+• Knowledge of managing publications and print projects
 â€¢ Experience installing a variety of art exhibitions 
-â€¢ Mac OS, Microsoft Office and Filemaker Pro, an asset
+• Mac OS, Microsoft Office and Filemaker Pro, an asset
 
 BENEFITS
 A competitive benefits package is available after the three months probation 

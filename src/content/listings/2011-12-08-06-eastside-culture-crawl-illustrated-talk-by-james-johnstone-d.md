@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 6
 type: ""
+venue: "Eastside Culture Crawl"
 summary: "Eastside Culture Crawl | illustrated talk by James Johnstone | DEC 8"
 ---
 

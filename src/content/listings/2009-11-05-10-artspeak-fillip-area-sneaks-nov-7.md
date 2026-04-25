@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not nonsense but making no sense"
 emailDate: "Thu, 05 Nov 2009 03:27:25 -0800"
 number: 10
 type: ""
+venue: "ARTSPEAK & FILLIP"
 summary: "ARTSPEAK & FILLIP | Area Sneaks | NOV 7"
 ---
 
@@ -37,7 +38,7 @@ recent books are a series of anti-war-manifesto poems titled one (Palm
 Press, 2009); sexoPUROsexoVELOZ and Septiembre, a translation fromDolores
 Dorantes by Dolores Dorantes (Counterpath Press and Kenning Editions,
 2008); The Route, a collaboration with Patrick Durgin (Atelos, 2008); and
-lip wolf, a translation of lobo de labio by Laura SolÃ³rzano (Action Books,
+lip wolf, a translation of lobo de labio by Laura Solórzano (Action Books,
 2007).
 
 MARIE JAGER was born in Copenhagen, Denmark in 1975, and lives and works in

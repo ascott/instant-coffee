@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 38
 type: "CALL"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Open Call - Hard Edge | MAR 23"
 ---
 

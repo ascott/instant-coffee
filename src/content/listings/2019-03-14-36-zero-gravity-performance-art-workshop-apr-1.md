@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 36
 type: "CALL"
+venue: "Zero Gravity"
 summary: "Zero Gravity | Performance Art WORKSHOP | APR 1"
 ---
 

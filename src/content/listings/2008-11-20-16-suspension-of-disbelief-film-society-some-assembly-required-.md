@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 16
 type: "EVENT"
+venue: "Suspension of Disbelief Film Society"
 summary: "Suspension of Disbelief Film Society | SOME ASSEMBLY REQUIRED | NOV 29"
 ---
 

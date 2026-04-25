@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: happily destined for a life of imi
 emailDate: "Thu, 13 Jan 2011 12:50:34 -0800"
 number: 19
 type: ""
+venue: "City of Vancouver 125th Anniversary Grant Program"
 summary: "City of Vancouver 125th Anniversary Grant Program | | MAR 4"
 ---
 

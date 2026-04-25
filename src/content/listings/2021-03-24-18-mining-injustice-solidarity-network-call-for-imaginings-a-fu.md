@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 18
 type: "CALL"
+venue: "Mining Injustice Solidarity Network"
 summary: "Mining Injustice Solidarity Network | Call for Imaginings: A future beyond extractivism | MAR 31"
 ---
 

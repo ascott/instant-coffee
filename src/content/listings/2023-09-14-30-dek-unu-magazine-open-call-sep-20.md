@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 30
 type: "CALL"
+venue: "Dek Unu Magazine"
 summary: "Dek Unu Magazine | Open Call | SEP 20"
 ---
 

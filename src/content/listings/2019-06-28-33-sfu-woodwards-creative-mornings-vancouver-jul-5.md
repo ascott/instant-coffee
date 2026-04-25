@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 33
 type: "TALK"
+venue: "SFU Woodward's"
 summary: "SFU Woodward's | Creative Mornings / Vancouver | JUL 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the harder you look the harder you
 emailDate: "Thu, 10 Oct 2013 08:41:11 -0700"
 number: 20
 type: ""
+venue: "King County Parks, WA, USA"
 summary: "King County Parks, WA, USA | Request for Qualifications - Lake to Sound Trail | NOV 12"
 ---
 

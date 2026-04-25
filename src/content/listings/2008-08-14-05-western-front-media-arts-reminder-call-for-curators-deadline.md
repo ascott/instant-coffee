@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: much to everyone's surprise by pop
 emailDate: "Thu, 14 Aug 2008 00:00:23 -0700"
 number: 5
 type: ""
+venue: "Western Front Media Arts"
 summary: "Western Front Media Arts | reminder: Call for Curators | deadline | AUG 22"
 ---
 

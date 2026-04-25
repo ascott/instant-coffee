@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 11
 type: "CALL"
+venue: "Caetani Cultural Centre (Vernon)"
 summary: "Caetani Cultural Centre (Vernon) | Ceramic artist in residence | AUG 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 33
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | CAG | Book Launch | Robert Kleyn: Page 10 | 630PM | OCT 19"
 ---
 

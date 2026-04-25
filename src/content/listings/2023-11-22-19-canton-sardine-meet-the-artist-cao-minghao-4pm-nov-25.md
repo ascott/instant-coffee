@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 19
 type: "EVENT"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Meet the Artist: Cao Minghao | 4PM | NOV 25"
 ---
 

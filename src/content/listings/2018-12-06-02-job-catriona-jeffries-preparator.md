@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 2
 type: ""
+venue: "JOB"
 summary: "JOB | Catriona Jeffries | Preparator"
 ---
 

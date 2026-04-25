@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 10
 type: ""
+venue: "Banff Artist in Residence programs"
 summary: "Banff Artist in Residence programs | CALL | JUN 29"
 ---
 
@@ -15,7 +16,7 @@ Application deadline: Extended to June 29, 2012
 
 Speaking for real: this isn't a history painting, it's a book of stories. A 
 book being written with stories like the ones you get told when you're 
-getting your head chopped offâ€”before going up there, or coming back 
+getting your head chopped off—before going up there, or coming back 
 from the show. Stories like they tell in museums.
 
 This residency is addressed to participants willing to engage in 
@@ -26,7 +27,7 @@ exhibition space, criticism). The residency will thus be structured in as
 many points of enunciation, with individual studio and research time, 
 public talks, and collective discussions enhanced by screenings and 
 reading sessions.
-26 Wood Land School â€“ What colour is the present?
+26 Wood Land School – What colour is the present?
 Faculty: Duane Linklater
 Guest: Brian Jungen
 Program dates: January 7, 2013 - February 22, 2013
@@ -42,7 +43,7 @@ by our languages, where we come from, our city lives, our rural lives (or
 in between). We will get together to see what becomes of this.
 
 Please note: Enrolment to this program is limited to individuals of 
-Aboriginal descent (status, non-status, MÃ©tis or Inuit).
+Aboriginal descent (status, non-status, Métis or Inuit).
 27 Our Literal Speed: Stuff Near Art That Is Not Art, Which Is Treated 
 As If It Were Art, Is Now The Substance of Most Serious Art
 Program dates: January 7, 2013 - February 22, 2013

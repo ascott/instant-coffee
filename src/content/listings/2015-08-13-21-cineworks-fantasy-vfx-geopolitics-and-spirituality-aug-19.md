@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 21
 type: "TALK"
+venue: "Cineworks"
 summary: "Cineworks | Fantasy VFX, Geopolitics and Spirituality | AUG 19"
 ---
 
@@ -31,10 +32,10 @@ worked for companies such as Sony Pictures Imageworks (Los
 Angeles and Vancouver), Framestore (London), Weta Digital (New 
 Zealand) and MPC (Vancouver), with a filmography including three 
 Best Visual Effects Academy Award winners and one in selection: 
-James Cameronâ€™s Avatar, Christopher Nolanâ€™s The Dark Knight, Life of 
+James Cameron’s Avatar, Christopher Nolan’s The Dark Knight, Life of 
 Pi, and Superman: Man of Steel.
 
-As a solo artist, David's work includes a 13-Â­part series of short 
+As a solo artist, David's work includes a 13-­part series of short 
 documentary pieces mapping his transcontinental journey, offering 
 unique insight on links between geopolitics and the spiritual in Asia and 
 the Middle East. He has taught his skills amongst schools in Canada, 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a goldish yellow pyramid in the m
 emailDate: "Wed, 26 May 2010 22:25:23 -0700"
 number: 7
 type: ""
+venue: "Artspeak and Fillip, with Motto"
 summary: "Artspeak and Fillip, with Motto | Rob Giampietro | MAY 29"
 ---
 
@@ -16,7 +17,7 @@ Organized by Artspeak and Fillip, with Motto, Berlin
 Motto Storefront transforms Artspeak into a temporary space for the sale,
 presentation, and discussion of contemporary art publishing. The selection
 of printed matter for the store has been made by Motto, a Berlin and
-ZÃ¼rich-based bookstore and distributor specializing in experimental, small
+Zürich-based bookstore and distributor specializing in experimental, small
 run, and self-published artist books, magazines, and fanzines.
 
 Talks and Workshops

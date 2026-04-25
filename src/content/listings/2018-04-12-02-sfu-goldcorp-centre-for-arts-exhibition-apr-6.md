@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "SFU Goldcorp Centre for Arts"
 summary: "SFU Goldcorp Centre for Arts | Exhibition | APR 6"
 ---
 

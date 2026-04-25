@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 20
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | NEW EXHIBITION: Shimabuku, When Sky Was Sea | NOV 20"
 ---
 
@@ -17,7 +18,7 @@ November 21, 2014 to January 11, 2015
 
 Opening reception: Thursday, November 20, 7-10pm.
 
-The exhibition When Sky was Sea demonstrates the breadth of the artistâ€™s
+The exhibition When Sky was Sea demonstrates the breadth of the artist’s
 practice, works in the exhibition reveal an essential correspondence to
 things elsewhere in a wider world, insisting on our grasp of the continuity
 that exists between art and (non-art) life. As the artist travels the
@@ -29,8 +30,8 @@ artist in Japan, through to presenting a wide variety of more recent work
 for which he has since become internationally celebrated, the exhibition
 exemplifies an extraordinary curiosity and freedom of expression. Shimabuku
 uses installation, video, photography, drawings, sculpture and events alike
-to convey his intense fascination with the natural worldâ€”equally the animal
-and vegetable realmsâ€”and the countless manifestations of human culture
+to convey his intense fascination with the natural world—equally the animal
+and vegetable realms—and the countless manifestations of human culture
 within it. His artistic proposition is essentially one of storytelling and
 discovery.
 
@@ -46,8 +47,8 @@ Switzerland (2014); Something that Floats/Something that Sinks, Ikon
 Gallery, Birmingham, UK and Noto, 21st Century Museum of Contemporary Art,
 Kanazawa, Japan (2013); Leaves Swim, Nogueras Blanchard, Barcelona, Spain
 (2012); Man should try to avoid contact with alien life forms, Centre
-international d'art et du paysage de lâ€™ÃŽle de VassiviÃ¨re, VassiviÃ¨re,
-France; On the water, CAPC musÃ©e dâ€™art contemporain de Bordeaux (2011); The
+international d'art et du paysage de l’Île de Vassivière, Vassivière,
+France; On the water, CAPC musée d’art contemporain de Bordeaux (2011); The
 Watari Museum of Contemporary Art, Tokyo (2009); DAAD galerie, Berlin;
 Wilkinson Gallery (2007); Swansea Jack Memorial Dog Swimming Competition,
 Glynn Vivian Art Gallery, Swansea (2003); Then, I Decided To Give a Tour of

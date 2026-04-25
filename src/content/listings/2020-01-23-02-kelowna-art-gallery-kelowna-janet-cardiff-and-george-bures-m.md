@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Kelowna Art Gallery (KELOWNA)"
 summary: "Kelowna Art Gallery (KELOWNA) | Janet Cardiff and George Bures Miller | JAN 18"
 ---
 

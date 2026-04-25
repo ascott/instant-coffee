@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 11
 type: "CALL"
+venue: "Martha Street Studio"
 summary: "Martha Street Studio | Open Call for Exhibition Proposals 2025/26"
 ---
 

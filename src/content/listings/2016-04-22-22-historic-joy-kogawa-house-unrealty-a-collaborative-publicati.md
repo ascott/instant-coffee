@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 22
 type: "CALL"
+venue: "Historic Joy Kogawa House"
 summary: "Historic Joy Kogawa House | \"(un)realty,\" a collaborative publication | MAY 5"
 ---
 

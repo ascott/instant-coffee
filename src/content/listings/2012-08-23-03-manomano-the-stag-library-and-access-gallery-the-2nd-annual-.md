@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 3
 type: ""
+venue: "manomano, The STAG Library and Access Gallery"
 summary: "manomano, The STAG Library and Access Gallery | The 2nd Annual CRAFT PRIDE PROCESSION | AUG 24"
 ---
 

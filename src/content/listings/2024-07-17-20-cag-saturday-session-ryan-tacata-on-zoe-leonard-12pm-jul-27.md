@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 20
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Saturday Session: Ryan Tacata on Zoe Leonard | 12PM | JUL 27"
 ---
 

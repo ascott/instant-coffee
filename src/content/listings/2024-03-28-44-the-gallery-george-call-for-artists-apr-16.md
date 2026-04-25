@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 44
 type: "CALL"
+venue: "The Gallery George"
 summary: "The Gallery George | CALL FOR ARTISTS! | APR 16"
 ---
 

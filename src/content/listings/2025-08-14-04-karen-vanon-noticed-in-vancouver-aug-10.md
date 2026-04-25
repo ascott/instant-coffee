@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Karen Vanon"
 summary: "Karen Vanon | Noticed in Vancouver... | AUG 10"
 ---
 

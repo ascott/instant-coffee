@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 31
 type: "EVENT"
+venue: "The Western Front"
 summary: "The Western Front | Adults Are So Last Year! | 12-4PM | JUN 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 19
 type: "CALL"
+venue: "Portal Pop-up"
 summary: "Portal Pop-up | Call for submissions | OCT 24"
 ---
 

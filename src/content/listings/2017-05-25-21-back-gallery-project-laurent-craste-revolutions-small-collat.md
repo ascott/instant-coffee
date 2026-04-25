@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 21
 type: "OPENING"
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Laurent Craste | Revolution's Small Collateral Dam | JUN 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 28
 type: ""
+venue: "Firehall"
 summary: "Firehall | Call for submissions: Heartbreak Hotel | MAR 9"
 ---
 
@@ -48,4 +49,4 @@ selected. The FAC retains 25% commission on sales of work.
 
 Exhibition dates: April 13- May 15, 2011
 
-Gallery hours: Wed.- Sat. 1:00 p.m. Ã¢ï¿½ï¿½ 5:00p.m.
+Gallery hours: Wed.- Sat. 1:00 p.m. â�� 5:00p.m.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 9
 type: "OPENING"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Jeffrey Hallbauer: At the Hour of Closing Summer | SEP 7"
 ---
 

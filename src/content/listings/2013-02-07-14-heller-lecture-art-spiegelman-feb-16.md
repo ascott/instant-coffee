@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 14
 type: ""
+venue: "HELLER LECTURE"
 summary: "HELLER LECTURE | Art Spiegelman | FEB 16"
 ---
 
 As part of the CO-MIX exhibition, artist Art Spiegelman will be the featured 
-guest of this yearâ€™s HELLER LECTURE.
+guest of this year’s HELLER LECTURE.
 Senior curator Bruce Grenville will be interviewing Spiegelman on stage at the 
 Goldcorp Centre for the Arts about his life, career, and the future of the 
 comics genre.

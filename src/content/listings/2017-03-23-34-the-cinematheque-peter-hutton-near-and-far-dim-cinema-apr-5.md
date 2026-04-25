@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 34
 type: ""
+venue: "The Cinematheque"
 summary: "The Cinematheque | Peter Hutton : Near and Far | DIM Cinema | APR 5"
 ---
 

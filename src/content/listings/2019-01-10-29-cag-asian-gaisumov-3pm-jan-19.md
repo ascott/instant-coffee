@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 29
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Asian Gaisumov | 3pm | JAN 19"
 ---
 

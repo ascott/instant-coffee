@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 17
 type: ""
+venue: "Gallery 295"
 summary: "Gallery 295 | Call for studio visits | MAY 31"
 ---
 

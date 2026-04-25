@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 14
 type: ""
+venue: "Terra Vivente Art Studio"
 summary: "Terra Vivente Art Studio | Artist Residency | MAR 15"
 ---
 

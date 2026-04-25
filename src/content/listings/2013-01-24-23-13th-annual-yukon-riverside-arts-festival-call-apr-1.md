@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are struck with sharpness by t
 emailDate: "Thu, 24 Jan 2013 11:11:13 -0800"
 number: 23
 type: ""
+venue: "13th Annual Yukon Riverside Arts Festival"
 summary: "13th Annual Yukon Riverside Arts Festival | CALL | APR 1"
 ---
 
 13th Annual Yukon Riverside Arts Festival
-August 15 â€“ 18, 2013 in Dawson City
+August 15 – 18, 2013 in Dawson City
 
 CALL FOR SUBMISSIONS
 INITIAL REVIEW DATE: APRIL 1st, 2013

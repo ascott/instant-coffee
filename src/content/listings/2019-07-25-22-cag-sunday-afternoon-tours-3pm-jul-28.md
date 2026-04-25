@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 22
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Sunday Afternoon Tours | 3PM | JUL 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "New Media Gallery"
 summary: "New Media Gallery | PLAY PATTERN NO.1 : RED (2016) | FEB 5"
 ---
 

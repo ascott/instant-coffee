@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not nonsense but making no sense"
 emailDate: "Thu, 05 Nov 2009 03:27:25 -0800"
 number: 14
 type: ""
+venue: "ECU: Speaker Series Lecture"
 summary: "ECU: Speaker Series Lecture | Alex Schweder | NOV 12"
 ---
 

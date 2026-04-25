@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wasting Techniques"
 emailDate: "Wed, 27 Jan 2021 11:45:08 -0800"
 number: 33
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Gu Xiong: The Remains of a Journey | NOV 13"
 ---
 

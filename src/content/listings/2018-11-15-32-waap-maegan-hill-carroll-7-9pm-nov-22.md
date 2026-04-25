@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 32
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Maegan Hill-Carroll | 7-9PM | NOV 22"
 ---
 

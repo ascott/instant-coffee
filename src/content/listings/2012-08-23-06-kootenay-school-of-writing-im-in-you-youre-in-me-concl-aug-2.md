@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a fish pond in relation to the oce
 emailDate: "Thu, 23 Aug 2012 13:35:09 -0700"
 number: 6
 type: ""
-summary: "Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me [Concl.] | AUG 25"
+venue: "Kootenay School of Writing"
+summary: "Kootenay School of Writing | I’m In You, You’re In Me [Concl.] | AUG 25"
 ---
 
-Iâ€™m In You, Youâ€™re In Me [Concl.]
+I’m In You, You’re In Me [Concl.]
 
 A Kootenay School of Writing summer series of poets presenting poems / 
 antipoems / language. 
@@ -57,7 +58,7 @@ To surrendor to loss
 
 Animageis captivating
 You know Toshow Lay
-bare Stairs whose steps donâ€™t
+bare Stairs whose steps don’t
 follow
 Expose your color
 
@@ -160,10 +161,10 @@ beings, and enjoying the fame of their passed selves, make accumulation of
 glory unto their last durations. Others rather than be lost in the uncomfortable 
 night of nothing, were content to recede into the common being, and make 
 one particle of the publick soul of all things, which was no more than to return 
-into their unknown and divine Originall again. Ã†gyptian ingenuity was more 
+into their unknown and divine Originall again. Ægyptian ingenuity was more 
 unsatisfied, continuing their bodies in sweet consistences, to attend the 
 return of their souls. But all was vanity, feeding the winde, and folly. The 
-Ã†gyptian Mummies, which Cambyses or time hath spared, avarice now 
+Ægyptian Mummies, which Cambyses or time hath spared, avarice now 
 consumeth. Mummie is become Merchandise, Miszraim cures wounds, and 
 Pharaoh is sold for balsoms.
 
@@ -176,18 +177,18 @@ There were no visitors about on that leaden-grey day shortly before Christmas,
 not even the obligatory group of schoolchildren one inevitably encounters in 
 such a place. But as if they had come to people this deserted stage, a squad 
 of characters in Napoleonic costume suddenly appeared tramping up and 
-down the few streets, beatÂ¬ing drums and blowing fifes; and bringing up the 
+down the few streets, beat¬ing drums and blowing fifes; and bringing up the 
 rear was a slatternly, garishly made-up sutler woman pulling a curious 
-handÂ¬cart with a goose shut in a cage. For a while I watched these 
+hand¬cart with a goose shut in a cage. For a while I watched these 
 mummers, who seemed to be in perpetual motion, as they disappeared 
 amongst the buildings only to re-emerge elsewhere. At length I bought a 
 ticket for the Waterloo Panorama, housed in an immense domed rotunda, 
-where from a raised platform in the middle one can view the battle â€” a 
-favourite subject with panorama artists â€” in every direction. It is like being at 
+where from a raised platform in the middle one can view the battle — a 
+favourite subject with panorama artists — in every direction. It is like being at 
 the centre of events. On a sort of landscaped proscenium, immediately below 
 the wooden rail amidst tree-stumps and undergrowth in the blood-stained 
 sand, lie lifesize horses, and cut-down infantrymen, hussars and chevaux-
-lÃ©gers, eyes rolling in pain or already extinguished. Their faces are moulded 
+légers, eyes rolling in pain or already extinguished. Their faces are moulded 
 from wax but the boots, the leather belts, the weapons, the cuirasses, and 
 the splendidly coloured uniforms, probably stuffed with eelgrass, rags and the 
 like, are to all appearances authentic. Across this horrific three-dimensional 
@@ -203,4 +204,4 @@ The night after the battle, the air must have been filled with death rattles and
 groans. Now there is nothing but the silent brown soil. Whatever became of 
 the corpses and mortal remains? Are they buried under the memorial? Are we 
 standing on a mountain of death? Is that our ultimate vantage point? Does one 
-really have the much-vaunted historÂ¬ical overview from such a position?
+really have the much-vaunted histor¬ical overview from such a position?

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Liu Lobby Gallery @ UBC"
 summary: "Liu Lobby Gallery @ UBC | Dialogues on Humanity | DEC 1"
 ---
 

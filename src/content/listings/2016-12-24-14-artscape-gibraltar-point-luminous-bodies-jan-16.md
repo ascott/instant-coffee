@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 14
 type: "CALL"
+venue: "Artscape Gibraltar Point"
 summary: "Artscape Gibraltar Point | LUMINOUS BODIES | JAN 16"
 ---
 

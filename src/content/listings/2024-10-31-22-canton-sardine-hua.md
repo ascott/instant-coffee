@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 22
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Hua"
 ---
 

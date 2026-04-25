@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 19
 type: ""
+venue: "Algoma University, Sault Ste. Marie, ON"
 summary: "Algoma University, Sault Ste. Marie, ON | seeking: Studio Technician, Fine Arts | AUG 19"
 ---
 

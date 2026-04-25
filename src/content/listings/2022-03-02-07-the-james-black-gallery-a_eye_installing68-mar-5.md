@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 7
 type: "EXHIBITION"
+venue: "The James Black Gallery"
 summary: "The James Black Gallery | a_EYE_installing....68% | MAR 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 11
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | GET WITH IT reading group | 7PM | JAN 15"
 ---
 

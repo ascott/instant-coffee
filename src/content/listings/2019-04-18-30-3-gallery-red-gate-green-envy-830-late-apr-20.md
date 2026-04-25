@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 30
 type: "FUNDRAISER"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Red Gate | Green Envy | 8:30-late | APR 20"
 ---
 

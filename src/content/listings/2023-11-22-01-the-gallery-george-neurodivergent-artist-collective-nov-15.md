@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "The Gallery George"
 summary: "The Gallery George | Neurodivergent Artist Collective | NOV 15"
 ---
 

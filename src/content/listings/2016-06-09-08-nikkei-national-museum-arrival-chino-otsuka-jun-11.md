@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 8
 type: "OPENING"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Arrival - Chino Otsuka | JUN 11"
 ---
 

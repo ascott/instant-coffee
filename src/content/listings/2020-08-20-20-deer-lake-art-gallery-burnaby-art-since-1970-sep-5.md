@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 20
 type: "EXHIBITION"
+venue: "Deer Lake Art Gallery (Burnaby)"
 summary: "Deer Lake Art Gallery (Burnaby) | Art Since 1970 | SEP 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 2
 type: "EVENT"
+venue: "Vancouver Biennale"
 summary: "Vancouver Biennale | #Artproject2020 Digital Expo | OCT 11"
 ---
 

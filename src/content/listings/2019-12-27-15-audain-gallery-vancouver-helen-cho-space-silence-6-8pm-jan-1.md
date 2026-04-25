@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 15
 type: "OPENING"
+venue: "Audain Gallery (Vancouver)"
 summary: "Audain Gallery (Vancouver) | Helen Cho: Space Silence | 6-8PM | JAN 15"
 ---
 

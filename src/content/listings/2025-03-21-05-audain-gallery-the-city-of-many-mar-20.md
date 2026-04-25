@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Audain Gallery"
 summary: "Audain Gallery | The City of Many | MAR 20"
 ---
 

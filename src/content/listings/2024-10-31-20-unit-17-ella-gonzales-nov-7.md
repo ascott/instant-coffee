@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 20
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Ella Gonzales | NOV 7"
 ---
 

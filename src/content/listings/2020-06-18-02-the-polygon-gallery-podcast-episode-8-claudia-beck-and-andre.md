@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 2
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Podcast: Episode 8 Claudia Beck and Andrew Gruft | JUN 15"
 ---
 

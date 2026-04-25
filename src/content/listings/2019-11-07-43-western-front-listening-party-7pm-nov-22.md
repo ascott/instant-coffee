@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Thu, 07 Nov 2019 09:16:36 -0800"
 number: 43
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Listening Party | 7PM | NOV 22"
 ---
 

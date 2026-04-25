@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 13
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | 2 job postings in Public Programs | DEC 28"
 ---
 
@@ -14,7 +15,7 @@ Coordinator Public Programs: Family, Children and Schools.
 
 CAG
 
-The Contemporary Art Gallery is Vancouverâ€™s longest standing independent 
+The Contemporary Art Gallery is Vancouver’s longest standing independent 
 art gallery dedicated to the research, exhibition, education and documentation 
 of contemporary visual art as it is practiced locally through to internationally. It 
 aspires to generate significant audiences for its innovative and diverse 
@@ -31,7 +32,7 @@ Job Summary
 The Learning Coordinator will utilize knowledge and experience of the visual 
 arts, pedagogy, museum education, artistic and learning practices, art history 
 and a broad awareness of other creative practices and culture conceive, 
-develop and lead on Educational and Public Programâ€™s families, youth and 
+develop and lead on Educational and Public Program’s families, youth and 
 school for a range of programs. The education and public program events will 
 vary in format ranging from talks, tours as well as workshop and gallery 
 activities. They will be varied in medium, and may consist of both in-gallery 
@@ -57,7 +58,7 @@ presence and online activities by working in consultation with internal staff an
 external partners.
 Develops and oversees program schedules, coordinating logistics, managing 
 internal briefings and all production requirements, and measuring/assessing 
-visitorsâ€™ experiences.
+visitors’ experiences.
 Oversees live production, ensuring all projects and activities meet expected 
 standards.
 Coordinates and assists in the development of a core group of volunteers who 
@@ -77,7 +78,7 @@ also required to perform other duties as assigned.
 
 Qualifications
 Education and Experience
-A degree in an arts discipline plus 3 yearsâ€™ experience developing, facilitating, 
+A degree in an arts discipline plus 3 years’ experience developing, facilitating, 
 and leading others in the delivery of public discussions and programs for 
 diverse audiences including children.
 
@@ -95,10 +96,10 @@ communication for programs
 Excellent writing and editing skills with great attention to detail and ability to 
 synthesize and explain information write for diverse audiences.
 Strong presentation, facilitation and mediation skills.
-Strong ability to build on their relationships and the Galleryâ€™s networks to 
+Strong ability to build on their relationships and the Gallery’s networks to 
 further develop partnerships locally and internationally with the aim of working 
 collaboratively when possible.
-Solid ability to apply diplomacy and professionalism and represent CAGâ€™s 
+Solid ability to apply diplomacy and professionalism and represent CAG’s 
 values.
 Solid computer literacy including MS Office and Outlook.
 Desired, not but required: Creative Suite and skills in troubleshooting A/V 
@@ -124,7 +125,7 @@ The Contemporary Art Gallery (CAG) is searching for a part-time Learning
 Coordinator Public Programs: Talks and Public Programmes.
 
 CAG
-The Contemporary Art Gallery is Vancouverâ€™s longest standing independent 
+The Contemporary Art Gallery is Vancouver’s longest standing independent 
 public art gallery dedicated to the research, exhibition, education and 
 documentation of contemporary visual art as it is practiced locally through to 
 internationally. It aspires to generate significant audiences for its innovative 
@@ -140,7 +141,7 @@ Job Summary
 The Learning Coordinator applies knowledge and experience of the visual arts, 
 visual and critical theory, art history and broad awareness of the other 
 theoretical, creative practices and culture to conceive, develop and lead the 
-Contemporary Art Galleryâ€™s Talks and Public Programs. Primarily for adult 
+Contemporary Art Gallery’s Talks and Public Programs. Primarily for adult 
 audiences, the Coordinator addresses audiences of both specialist and non-
 specialist interests and knowledge. Weekend and evening work is required.
 
@@ -174,7 +175,7 @@ budget.
 Researches, invites and collaborates with a range of cultural practitioners, 
 such as artists and theorists to ensure the most innovative, accessible, and 
 intellectually rigorous program.
-Builds and maintains professional relationships and CAGâ€™s networks to further 
+Builds and maintains professional relationships and CAG’s networks to further 
 develop partnerships locally and internationally with the aim of working 
 collaboratively whenever possible.
 Develops, builds and maintains relationships to ensure the growth and 
@@ -185,7 +186,7 @@ also required to perform other duties as assigned.
 
 Qualifications
 Education and Experience
-A degree in arts discipline plus 3-5 yearsâ€™ experience developing, facilitating 
+A degree in arts discipline plus 3-5 years’ experience developing, facilitating 
 and leading others in the delivery of public discussions and programs. Has 
 experience working with partners in galleries and academic settings 
 performing duties relevant to this position.
@@ -203,7 +204,7 @@ Strong ability to synthesize and explain ideas and information clearly, both in
 writing and verbally
 Solid ability to think strategically and introduce new innovative ways to 
 develop program communication.
-Solid ability to apply diplomacy and professionalism and represent CAGâ€™s 
+Solid ability to apply diplomacy and professionalism and represent CAG’s 
 values.
 Solid computer literacy including MS Office and Outlook.
 Desired, not but required: Creative Suite and skills in troubleshooting A/V 

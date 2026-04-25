@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 27
 type: ""
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | OPEN CALL: NATIONAL RESIDENCY AWARD 2014 | NOV 30"
 ---
 

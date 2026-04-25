@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 16
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Aretha Pereira | 6PM | MAY 13"
 ---
 

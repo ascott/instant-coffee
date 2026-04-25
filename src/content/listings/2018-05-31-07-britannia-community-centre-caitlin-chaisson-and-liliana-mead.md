@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 7
 type: "EDUCATION"
+venue: "Britannia Community Centre"
 summary: "Britannia Community Centre | Caitlin Chaisson and Liliana Mead Martin | JUN 2"
 ---
 

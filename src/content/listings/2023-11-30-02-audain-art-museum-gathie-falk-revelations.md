@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 2
 type: "EXHIBITION"
+venue: "Audain Art Museum"
 summary: "Audain Art Museum | Gathie Falk: Revelations"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 12
 type: "TALK"
+venue: "Access @ Burrard Arts Foundation"
 summary: "Access @ Burrard Arts Foundation | Nour Bishouty and Christopher Boyne | MAY 28"
 ---
 

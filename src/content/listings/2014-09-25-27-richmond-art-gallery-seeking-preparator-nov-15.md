@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 27
 type: ""
+venue: "RICHMOND ART GALLERY"
 summary: "RICHMOND ART GALLERY | seeking: PREPARATOR | NOV 15"
 ---
 
@@ -28,10 +29,10 @@ needed.
 
 REQUIREMENTS
 
-Â· Completion of two years minimum course work in the visual arts and
+· Completion of two years minimum course work in the visual arts and
 one or more relevant trades relevant to the work
 
-Â· A minimum of two to three years experience and knowledge in one or
+· A minimum of two to three years experience and knowledge in one or
 more of the following areas required: experience working in a museum or
 gallery and the techniques of safe handling and movement of works of art
 (required of all incumbents); packing and crating of artworks; mount
@@ -39,19 +40,19 @@ making; techniques, materials and methods used in the installation of two
 and three-dimensional works of art; standard practices, methods and skills,
 materials, variety of tools and equipment for carpentry and cabinet making.
 
-Â· Ability to install and maintain computer hardware and software in
+· Ability to install and maintain computer hardware and software in
 exhibition and perform basic hardware and software troubleshooting.
 
-Â· Ability to lift and move heavy objects, communication and teamwork
+· Ability to lift and move heavy objects, communication and teamwork
 skills required.
 
-Â· Demonstrated understanding of hazards and necessary safety
+· Demonstrated understanding of hazards and necessary safety
 precautions involved in the work.
 
-Â· Valid B.C. Driverâ€™s License; agree to become certified to drive
+· Valid B.C. Driver’s License; agree to become certified to drive
 City vehicle.
 
-Â· Candidate must pass and maintain a criminal and police record search.
+· Candidate must pass and maintain a criminal and police record search.
 
 SALARY: $24.11 12% in lieu of benefits
 HOURS: Hours may include weekends and evenings. This is an on-call casual

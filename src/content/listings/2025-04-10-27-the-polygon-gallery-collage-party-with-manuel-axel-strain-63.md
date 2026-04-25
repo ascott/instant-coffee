@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 27
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Collage Party with Manuel Axel Strain | 630PM | APR 17"
 ---
 

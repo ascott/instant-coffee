@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: BAD MOON RISING"
 emailDate: "Thu, 08 Aug 2019 09:41:15 -0700"
 number: 18
 type: "OPENING"
+venue: "Terminal Creek Contemporary"
 summary: "Terminal Creek Contemporary | The Raiders | 12PM | AUG 17"
 ---
 

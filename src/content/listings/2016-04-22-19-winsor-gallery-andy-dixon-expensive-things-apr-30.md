@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 19
 type: "OPENING"
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | andy dixon : expensive things | APR 30"
 ---
 

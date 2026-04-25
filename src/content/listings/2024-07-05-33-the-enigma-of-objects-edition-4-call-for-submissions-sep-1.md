@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Preambulating Typings"
 emailDate: "Thu, 04 Jul 2024 20:25:17 -0700"
 number: 33
 type: "CALL"
+venue: "The Enigma of Objects"
 summary: "The Enigma of Objects | Edition 4 Call for Submissions | SEP 1"
 ---
 

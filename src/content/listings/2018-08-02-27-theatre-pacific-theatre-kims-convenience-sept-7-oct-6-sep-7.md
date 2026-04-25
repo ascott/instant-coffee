@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 27
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Pacific Theatre | Kim's Convenience | SEPT 7- OCT 6 | SEP 7"
 ---
 

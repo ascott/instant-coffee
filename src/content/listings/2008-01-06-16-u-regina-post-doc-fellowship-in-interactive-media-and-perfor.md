@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: the year of bright days"
 emailDate: "Sun, 06 Jan 2008 13:20:29 -0800"
 number: 16
 type: ""
+venue: "U Regina"
 summary: "U Regina | Post-Doc Fellowship in Interactive Media and Performance"
 ---
 

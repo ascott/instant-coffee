@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: PINK NOISE"
 emailDate: "Thu, 06 Nov 2014 11:15:23 -0800"
 number: 5
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Enlightenment: Heather Passmore | NOV 6"
 ---
 
@@ -19,21 +20,21 @@ acrylic paint on found antique hand drawn sheet music manuscripts. The
 series explores specific historical representations of sexuality which 
 destabilize contemporary pornography and sexual epistemes. The works 
 re-present pornographic prints by anonymous artists of the Enlightenment 
-era on handwritten sheet music to Haydnâ€”a prominent classical 
+era on handwritten sheet music to Haydn—a prominent classical 
 composer of the same period.
 
 Although the age of the libertine is the only period in early modern history 
-that shares the sexual liberalism of our own, Passmoreâ€™s research of 
+that shares the sexual liberalism of our own, Passmore’s research of 
 erotic prints circulated in this era reveals a number of fundamental 
-differences to modern pornographyâ€”namely a great emphasis on 
-humour and fertility. This â€˜earthierâ€™ eroticism or naturalism within the 
+differences to modern pornography—namely a great emphasis on 
+humour and fertility. This ‘earthier’ eroticism or naturalism within the 
 realm of 18th Century libertinage frequently includes putti as a decorative 
 element within the image. Both profane and sacred, their iconography is 
 perhaps deliberately unfixed. The same image may contain secular 
 cupids, sacred cherubs, or mere mortal babies.
 
 18th Century prints often incorporate elements of self-reflexive ribaldry. 
-Passmoreâ€™s mixed media works present depictions of sexuality which 
+Passmore’s mixed media works present depictions of sexuality which 
 combine bawdiness and humour within opulence and grandeur. Many 
 prints simply celebrate sexuality. Cultural pleasures such as games and 
 music are often presented as components of sexual behavior and/or 
@@ -45,7 +46,7 @@ Heather Passmore is a contemporary artist based in Vancouver, Canada.
 For the past ten years she has exhibited extensively in major solo and 
 group exhibitions across Canada and internationally. Her practice 
 reconfigures painting, drawing, printmaking and photography with a 
-variety of socio-historically laden materials. Heatherâ€™s artwork frequently 
+variety of socio-historically laden materials. Heather’s artwork frequently 
 intersects social justice issues using materials which bear histories of 
 taste and accumulations of labour. These have included illegal milk from 
 community supported agriculture, linoleum from demolished Vancouver 

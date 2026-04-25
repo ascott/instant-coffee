@@ -196,7 +196,7 @@ Live and silent auction, entertainment, fun
 Entrance by donation
 
 Friday, March 19, 4-5pm
-Le thÃ© de l'amitiÃ©
+Le thé de l'amitié
 Skype Tea with Oboro (Montreal) featuring parlour games and other surprises.
 
 Friday, March 19, 7-9pm
@@ -267,7 +267,7 @@ intellectual experience of language.
 TASKMASTER
 
 Rachelle Sawatsky presents a talk about the early history of Essondale, one
-of VancouverÃ¢s earliest hospitals for the mentally ill.
+of Vancouverâs earliest hospitals for the mentally ill.
 
 FLATGREY
 
@@ -275,7 +275,7 @@ Neal Rockwell presents a new monologue.
 
 RUSALKA
 
-Donato Mancini reads his poem Ã¢ ligature.
+Donato Mancini reads his poem â ligature.
 
 THE RITA
 
@@ -465,7 +465,7 @@ time historical and contemporary literature and research on one of the
 National Film Board of Canada's most (in)famous initiatives to date.
 
 Between 1967 and 1980, the activist documentary program Challenge for
-Change/SociÃ©tÃ© Nouvelle produced films in both French and English.
+Change/Société Nouvelle produced films in both French and English.
 Challenge for Change presents an examination of the radical politics and
 cinema of the legendary documentary film program devoted to social change.
 

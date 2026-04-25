@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 33
 type: "CALL"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | Submissions Call for 2022 Exhibitions | APR 30"
 ---
 

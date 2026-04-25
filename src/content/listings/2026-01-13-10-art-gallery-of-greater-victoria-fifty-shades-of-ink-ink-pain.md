@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 10
 type: "OPENING"
+venue: "Art Gallery of Greater Victoria"
 summary: "Art Gallery of Greater Victoria | Fifty Shades of Ink: Ink Paintings... | 5PM | JAN 16"
 ---
 

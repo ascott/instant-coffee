@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we can fake it"
 emailDate: "Thu, 21 Jan 2010 09:00:41 -0800"
 number: 16
 type: ""
+venue: "ECU"
 summary: "ECU | LECTURE: Dexter Sinister | JAN 28"
 ---
 
@@ -25,12 +26,12 @@ Their work bridges the domains of graphic design and fine art, often
 involving the participation of other writers, musicians, and artists in
 projects. Dexter Sinister participated in the 2008 Whitney Biennial. They
 recently participated in Performa 09 and have been included in exhibitions
-at the Kunstverein MÃ¼nchen, 2008; and in 2007 at Centre
+at the Kunstverein München, 2008; and in 2007 at Centre
 
 d'Art Contemporain, Geneva; the Architectural Association, London; Store
 Gallery, London; and the Swiss Institute, New York.
 
-Each semester, Emily Carrâ€™s various lecture series bring to campus the
+Each semester, Emily Carr’s various lecture series bring to campus the
 unique and diverse perspectives of world-renowned artists, architects,
 designers, curators, scholars, and writers. Each speaker presents their
 work and invites the audience to participate in a critical discussion. The

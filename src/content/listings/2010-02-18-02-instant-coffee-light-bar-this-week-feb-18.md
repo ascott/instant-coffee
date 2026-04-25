@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 2
 type: ""
+venue: "INSTANT COFFEE"
 summary: "INSTANT COFFEE | Light Bar | this week | FEB 18"
 ---
 

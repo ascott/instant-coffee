@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 26
 type: "EXHIBITION"
+venue: "Museum of Anthropology at UBC"
 summary: "Museum of Anthropology at UBC | Arts of Resistance | MAY 17"
 ---
 

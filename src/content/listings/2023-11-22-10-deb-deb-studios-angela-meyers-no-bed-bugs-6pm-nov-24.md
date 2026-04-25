@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 10
 type: "OPENING"
+venue: "Deb Deb Studios"
 summary: "Deb Deb Studios | Angela Meyers: NO Bed Bugs | 6PM | NOV 24"
 ---
 

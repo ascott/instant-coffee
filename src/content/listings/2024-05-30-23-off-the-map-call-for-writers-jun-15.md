@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 23
 type: "CALL"
+venue: "Off the Map"
 summary: "Off the Map | CALL FOR WRITERS | JUN 15"
 ---
 

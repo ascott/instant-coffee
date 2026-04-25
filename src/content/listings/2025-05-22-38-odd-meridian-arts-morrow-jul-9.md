@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 38
 type: "EVENT"
+venue: "Odd Meridian Arts"
 summary: "Odd Meridian Arts | Morrow | JUL 9"
 ---
 

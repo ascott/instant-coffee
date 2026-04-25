@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 42
 type: "EVENT"
+venue: "The Dance Centre"
 summary: "The Dance Centre | PuSh Festival | Dana Michel | CUTLASS SPRING | FEB 6"
 ---
 

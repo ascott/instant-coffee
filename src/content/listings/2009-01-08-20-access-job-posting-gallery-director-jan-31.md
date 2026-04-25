@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 20
 type: ""
+venue: "ACCESS"
 summary: "ACCESS | Job Posting Gallery Director | JAN 31"
 ---
 

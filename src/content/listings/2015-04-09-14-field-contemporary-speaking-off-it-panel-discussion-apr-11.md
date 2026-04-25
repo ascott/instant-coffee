@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 14
 type: "TALK"
+venue: "FIELD Contemporary"
 summary: "FIELD Contemporary | Speaking Off It : Panel discussion | APR 11"
 ---
 
@@ -24,7 +25,7 @@ and material engagement in photography. In the format of a conversation
 between artists, this performative and informal speaking panel will speak
 to the breath of material practice through the position of photography.
 This format of photographic dialogue continues to deepen the legacy of
-Vancouver photoconceptualists of the 1980â€™s and brings the conceptualism of
+Vancouver photoconceptualists of the 1980’s and brings the conceptualism of
 photographic engagement back to the forefront on contemporary culture in
 this panel of photographic image makers. This panel, composed with artists
 in varying degrees of their careers brings together Sean Alward, Manuel

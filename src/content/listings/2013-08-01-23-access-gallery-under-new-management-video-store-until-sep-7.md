@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 23
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Under New Management: Video Store | until | SEP 7"
 ---
 

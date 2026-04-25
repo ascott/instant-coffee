@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 24
 type: "TALK"
+venue: "Connection Salon Gallery"
 summary: "Connection Salon Gallery | Art Talks in Plain English Series | 530PM | JUN 25"
 ---
 

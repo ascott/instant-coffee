@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Churchmouse"
 emailDate: "Mon, 10 Nov 2025 23:40:03 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Walk in Gratitude; Write in Empathy"
 ---
 

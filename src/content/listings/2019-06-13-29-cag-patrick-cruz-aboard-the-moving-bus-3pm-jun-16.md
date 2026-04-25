@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 29
 type: "PERFORMANCE"
+venue: "CAG"
 summary: "CAG | Patrick Cruz aboard the moving bus | 3PM | JUN 16"
 ---
 

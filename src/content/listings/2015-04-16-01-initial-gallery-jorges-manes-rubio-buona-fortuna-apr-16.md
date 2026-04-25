@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 1
 type: "OPENING"
+venue: "Initial Gallery"
 summary: "Initial Gallery | Jorges Manes Rubio: Buona Fortuna | APR 16"
 ---
 
 Jorges Manes Rubio: Buona Fortuna
 
-April 16 â€“ May 9, 2015
+April 16 – May 9, 2015
 
 Opening reception:
 Thursday April 16, 6-9 pm
@@ -19,9 +20,9 @@ In his new work Buona Fortuna, Rubio transports us to the mountains of the
 villages were abandoned after a series of devastating earthquakes and
 landslides. Hidden among these ruins, and despite all the decay and
 destruction, several churches and chapels reveal themselves in all their
-glory. A closer look into Rubioâ€™s photographs expose empty altars and
+glory. A closer look into Rubio’s photographs expose empty altars and
 pedestals; in fact all the relics are missing. This is direct consequence
-from the looters and art merchants who didnâ€™t think twice about breaking in
+from the looters and art merchants who didn’t think twice about breaking in
 and remove paintings, sculptures and other sacred relics.
 
 Despite all the emptiness and disrepair, Rubio manages to capture these
@@ -38,5 +39,5 @@ Rubio is currently busy trying to get all the permissions and funding to
 reopen some of them to the public. His plan is creating a series of new
 artworks and installations that will replace the stolen figures,
 transforming these abandoned places into new cultural scenarios. But for
-now, his photographs have brought to life places that we couldnâ€™t even
+now, his photographs have brought to life places that we couldn’t even
 dream of.

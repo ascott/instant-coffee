@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 39
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | 16mm Colour Contact Printing | APR 29"
 ---
 

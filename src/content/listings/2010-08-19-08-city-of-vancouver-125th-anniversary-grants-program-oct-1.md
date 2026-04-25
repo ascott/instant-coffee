@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: refuse glow ball"
 emailDate: "Thu, 19 Aug 2010 10:15:10 -0700"
 number: 8
 type: ""
+venue: "City of Vancouver"
 summary: "City of Vancouver | 125th Anniversary Grants Program | OCT 1"
 ---
 

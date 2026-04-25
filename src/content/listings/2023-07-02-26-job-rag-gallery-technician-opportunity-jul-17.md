@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 26
 type: ""
+venue: "JOB"
 summary: "JOB | RAG | Gallery Technician Opportunity | JUL 17"
 ---
 

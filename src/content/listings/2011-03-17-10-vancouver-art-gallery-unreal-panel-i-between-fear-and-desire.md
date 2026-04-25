@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 10
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | UNREAL PANEL I / BETWEEN FEAR AND DESIRE | MAR 19"
 ---
 
@@ -68,8 +69,8 @@ that inspired them. Each one is a verb: an action describing the ways we
 encounter and experience the city, as well as how we might envision it anew.
 
 This exhibition brings together more than forty recent projects from
-various disciplinesâ€”architecture and design, art and visual culture,
-literature and activismâ€”that are produced in Vancouver and reflect uniquely
+various disciplines—architecture and design, art and visual culture,
+literature and activism—that are produced in Vancouver and reflect uniquely
 on the city. Individual or collective, they are realized by people who
 propose new ways we might inhabit this place. The exhibition title refers
 to the multiple perspectives that make up the pronoun â€œwe,â€  reflecting the
@@ -88,9 +89,9 @@ Howe St
 
 10 dollars 50 cents, regular / 9 dollars, seniors and students
 
-In conjunction with the Vancouver Art Galleryâ€™s exhibition WE: Vancouver â€“
+In conjunction with the Vancouver Art Gallery’s exhibition WE: Vancouver –
 12 Manifestos for the City, Vancouver writer and critic Michael Turner
-presents a special screening of SKIP TRACER, Zale Dalenâ€™s legendary 1977
+presents a special screening of SKIP TRACER, Zale Dalen’s legendary 1977
 feature about a repo man, shot on location in Vancouver and Richmond. Also
 on the program are two shorts by Turner, followed by a Question and Answer
 period and discussion.
@@ -103,12 +104,12 @@ understanding of the reality of the city with its filmic representation.
 Indeed, there is a perceived anxiety about a city that spends more time
 standing in for other cities than it does in â€œplayingâ€  itself. Turnerâ€™s
 extensive research into film in Vancouver comprises one aspect of the
-cityâ€™s past that continues to resonate today: its filmic image that is
+city’s past that continues to resonate today: its filmic image that is
 projected beyond the city boundaries to elsewhere.
 
 Turner is a Vancouver-based writer of fiction, criticism and song, and
 founder of Arsenal Pulp Press. Recent publications include 8x10 and The
-Pornographerâ€™s Poem. Turner has also worked in collaboration with artist
+Pornographer’s Poem. Turner has also worked in collaboration with artist
 Stan Douglas on two experimental-video screenplays, titled Journey Into
 Fear (Istanbul Biennial, 2001) and Suspiria (Documenta XI, 2002), as well
 as on a screenplay with filmmaker Bruce LaBruce, titled Untitled Von

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 9
 type: "EVENT"
+venue: "866 East Broadway"
 summary: "866 East Broadway | Trail's End | NOV 29"
 ---
 

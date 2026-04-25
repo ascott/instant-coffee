@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Individuated Space"
 emailDate: "Wed, 03 Feb 2021 09:25:44 -0800"
 number: 10
 type: "TALK"
+venue: "ReIssue [ONLINE]"
 summary: "ReIssue [ONLINE] | Speaker Series: Ardele Lister | 12PM | FEB 5"
 ---
 

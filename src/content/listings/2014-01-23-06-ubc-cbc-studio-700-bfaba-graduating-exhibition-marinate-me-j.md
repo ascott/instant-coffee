@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 6
 type: ""
+venue: "UBC @ CBC Studio 700"
 summary: "UBC @ CBC Studio 700 | BFA/BA Graduating Exhibition: Marinate Me | JAN 24"
 ---
 
@@ -11,7 +12,7 @@ Marinate Me
 Date: January 24, 2014
 Time: 7:00 PM
 Location: CBC Studio 700, 700 Hamilton Street, Vancouver, BC
-A fundraiser and art auction for 2014â€™s BFA/BA Visual Art graduating 
+A fundraiser and art auction for 2014’s BFA/BA Visual Art graduating 
 exhibition. 7pm to 11pm.
 We cordially invite you to a music and art filled event to promote and 
 raise funds for this year's BFA/BA Visual Art Graduating Exhibition 
@@ -51,6 +52,6 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Art History, Visual Art & Theory Dept.
 University of British Columbia
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003

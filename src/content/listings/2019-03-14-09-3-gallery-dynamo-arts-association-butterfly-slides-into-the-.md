@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 9
 type: "EVENT"
+venue: "#3 Gallery"
 summary: "#3 Gallery | Dynamo Arts Association | Butterfly Slides Into The Flame | 7pm | MAR 15"
 ---
 

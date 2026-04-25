@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: failure is out of the question"
 emailDate: "Wed, 02 Jul 2008 03:45:17 -0700"
 number: 10
 type: ""
+venue: "BALCONE"
 summary: "BALCONE | justin tyler tate and tara nicholson | til | JUL 20"
 ---
 

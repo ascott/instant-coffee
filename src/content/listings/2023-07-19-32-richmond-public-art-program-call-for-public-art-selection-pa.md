@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 32
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Call for Public Art Selection Panelists | SEP 28"
 ---
 

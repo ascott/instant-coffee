@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 28
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Miao Xiaochun: A Glimpse Through Time | 2PM | MAR 8"
 ---
 

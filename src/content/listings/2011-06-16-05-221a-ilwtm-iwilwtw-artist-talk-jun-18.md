@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolute tooths"
 emailDate: "Thu, 16 Jun 2011 11:46:38 -0700"
 number: 5
 type: ""
+venue: "221A"
 summary: "221A | ILWTM; IWILWTW, Artist Talk | JUN 18"
 ---
 
@@ -12,11 +13,11 @@ http://221a.ca/ilwtm-iwilwtw
 I live with twenty machines; I wish I lived with twenty wives
 
 Curated By: Dennis Rosenfeld
-Exhibition: May 21 â€“ Jun 26
+Exhibition: May 21 – Jun 26
 Opening Reception: 8 pm, May 20
 Artist Talk: 2 pm, Jun 18
 
-Scott Billingsâ€™ practice explores the mimetic relationship between the
+Scott Billings’ practice explores the mimetic relationship between the
 technological apparatus and somatic motility. Often employing his own
 body and figures of animals, he makes moving images and moving objects
 which reside somewhere between cinema and automata. Irreducible to
@@ -25,7 +26,7 @@ spectral body seeks to evince the spurious dualisms and thresholds of
 man/animal, body/mind, animate/ inanimate. By illuminating the
 animality of the cinematic apparatus, his work attempts to register an
 embodied active spectatorship: one which prompts an interrogation of
-the device â€“ the source of the moving illusion â€“ while presencing the
+the device – the source of the moving illusion – while presencing the
 viewerʼs body within the space. Scott Billings holds an MFA from the
 University of British Columbia, a BFA from Emily Carr University, and
 a BASc in Mechanical Engineering from the University of Waterloo. He

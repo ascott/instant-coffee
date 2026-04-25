@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 20
 type: ""
+venue: "CENTRE A"
 summary: "CENTRE A | Music Temple Performance | SEP 12"
 ---
 
@@ -19,7 +20,7 @@ Free Admission
 Artists Emi Honda and Jordan McKenzie will be performing in their 
 sculptural installation once again on September 12, 7PM at Centre A. 
 
-Honda and McKenzie began Elfin Saddle after migrating from Canadaâ€™s 
+Honda and McKenzie began Elfin Saddle after migrating from Canada’s 
 lush west coast to Montreal, transporting their nature-inspired creations to 
 the urban environs of the east. Already seasoned collaborators in 
 sculptural installation and music, Elfin Saddle began as a more contained 

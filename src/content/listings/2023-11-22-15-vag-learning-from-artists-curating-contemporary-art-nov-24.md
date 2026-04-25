@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 15
 type: "TALK"
+venue: "VAG"
 summary: "VAG | LEARNING FROM ARTISTS: CURATING CONTEMPORARY ART | NOV 24"
 ---
 

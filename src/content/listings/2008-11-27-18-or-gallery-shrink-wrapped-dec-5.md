@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 18
 type: ""
+venue: "OR GALLERY"
 summary: "OR GALLERY | shrink-wrapped | DEC 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 17
 type: "OPENING"
+venue: "Duplex Art Society Gallery"
 summary: "Duplex Art Society Gallery | INNER THREAD – Suzy King / Aug 26 + 27 | AUG 26"
 ---
 

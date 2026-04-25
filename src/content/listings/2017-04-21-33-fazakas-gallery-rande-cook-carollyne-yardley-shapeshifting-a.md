@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 33
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | RANDE COOK & CAROLLYNE YARDLEY Shapeshifting | APR 27"
 ---
 

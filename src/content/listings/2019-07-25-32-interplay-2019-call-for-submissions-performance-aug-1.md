@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 32
 type: "CALL"
+venue: "Interplay 2019"
 summary: "Interplay 2019 | Call for Submissions - Performance | AUG 1"
 ---
 

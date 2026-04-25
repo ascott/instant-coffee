@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 5
 type: "EDUCATION"
+venue: "Centre A"
 summary: "Centre A | Art + Feminism Wikipedia Edit-a-thon | MAR 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 12
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Corrina Hammond | JUL 25"
 ---
 

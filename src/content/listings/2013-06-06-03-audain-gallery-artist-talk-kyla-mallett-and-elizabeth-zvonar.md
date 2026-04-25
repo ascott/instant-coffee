@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 3
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | Artist Talk: Kyla Mallett and Elizabeth Zvonar | JUN 6"
 ---
 
@@ -53,7 +54,7 @@ Running from May 9 to August 17, 2013, The Biography of Images: Parallel
 Biographies is the third in a series of group exhibitions from the Austrian
 Federal Photography Collection, in this case bringing together artists from
 Vienna and Vancouver. The exhibition includes work by the Vienna-based
-artists Thomas Freiler, KrÃƒÂ¼ger & Pardeller, Tatiana Lecomte, Christian
+artists Thomas Freiler, KrÃ¼ger & Pardeller, Tatiana Lecomte, Christian
 Mayer, Sissa Micheli, and Anita Witek, and the Vancouver-based artists Arni
 Haraldsson, Tim Lee, Kyla Mallett, Jayce Salloum, Kevin Schmidt, and
 Elizabeth Zvonar.
@@ -64,7 +65,7 @@ Ministry for Education, Arts and Culture (BMUKK).
 
 Upcoming Event
 
-Artist Talk with Arni Haraldsson and Jayce Salloum Â¨July 18, 6pm, Audain
+Artist Talk with Arni Haraldsson and Jayce Salloum ¨July 18, 6pm, Audain
 Gallery
 
 --------- --------- --------- --------- --------
@@ -73,7 +74,7 @@ Brady Cranfield | Gallery Assistant
 Audain Gallery 
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 Ã¢ï¿½ï¿½ 149 West Hastings
+#3275 â�� 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102 
 E: info@audaingallery.ca 

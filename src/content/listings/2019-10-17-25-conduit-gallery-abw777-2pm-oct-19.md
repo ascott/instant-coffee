@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 25
 type: "TALK"
+venue: "Conduit Gallery"
 summary: "Conduit Gallery | ABW:777 | 2PM | OCT 19"
 ---
 

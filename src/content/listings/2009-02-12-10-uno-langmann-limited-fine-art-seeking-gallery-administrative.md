@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 10
 type: ""
+venue: "Uno Langmann Limited Fine Art"
 summary: "Uno Langmann Limited Fine Art | seeking | Gallery Administrative Assistant | FEB 13"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 66
 type: "CALL"
+venue: "Kickstart Disability Arts & Culture"
 summary: "Kickstart Disability Arts & Culture | Call for Artists | AUG 1"
 ---
 

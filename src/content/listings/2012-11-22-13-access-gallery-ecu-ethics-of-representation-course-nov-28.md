@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh feelings"
 emailDate: "Thu, 22 Nov 2012 11:14:50 -0800"
 number: 13
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | ECU Ethics of Representation course | NOV 28"
 ---
 

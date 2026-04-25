@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 46
 type: "CALL"
+venue: "XINEMA"
 summary: "XINEMA | CALL FOR EXPERIMENTAL FILM & MEDIA ART/WORKSHOPS/G | JUN 1"
 ---
 

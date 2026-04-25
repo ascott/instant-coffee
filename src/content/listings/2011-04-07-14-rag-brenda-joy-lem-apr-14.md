@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 14
 type: ""
+venue: "RAG"
 summary: "RAG | Brenda Joy Lem | APR 14"
 ---
 
@@ -13,7 +14,7 @@ Brenda Joy Lem
 
 Richmond Art Gallery
 
-April 15 â€“ June 12, 2011
+April 15 – June 12, 2011
 
 Opening: Thursday April 14 at 7pm
 
@@ -22,10 +23,10 @@ spirituality and â€œthe enduring heartâ€  as artist Brenda Joy Lem
 explores her family history and the threads that connect 
 generations. Working from family and archival images and stories 
 told to her by relatives, she recounts fragments from the history of 
-her familyâ€™s immigration from China and early history in Canada. 
-Lemâ€™s grandparents came through the Victoria/Vancouver port when 
+her family’s immigration from China and early history in Canada. 
+Lem’s grandparents came through the Victoria/Vancouver port when 
 they arrived in Canada over 100 years ago. They eventually settled in 
-Oshawa, Ontario where Lemâ€™s grandfather opened the townâ€™s first 
+Oshawa, Ontario where Lem’s grandfather opened the town’s first 
 hand laundry in 1921. The stories told to Lem, like those of many 
 new immigrants, chronicle exclusion, colonialism and personal 
 strife - they also speak of survival, joy and the ability of the heart to 

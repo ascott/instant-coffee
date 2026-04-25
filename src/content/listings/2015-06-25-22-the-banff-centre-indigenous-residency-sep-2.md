@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 22
 type: "CALL"
+venue: "The Banff Centre"
 summary: "The Banff Centre | Indigenous Residency | SEP 2"
 ---
 
@@ -12,7 +13,7 @@ www.banffcentre.ca/va
 
 Indigenous Residency
 Guest Faculty: Candice Hopkins, others to be announced
-Program Dates: January 11 â€“ February 12, 2016
+Program Dates: January 11 – February 12, 2016
 Apply by September 2
 http://www.banffcentre.ca/programs/program.aspx?id=1602
 
@@ -29,7 +30,7 @@ Email: helloartstudio@hotmail.com
 
 - Located near Main and Broadway (the building at the corner on Broadway
 and Kingsway)
-- It is on 2nd floor, just above the Gene cafÃ© and Art Rath art supply shop
+- It is on 2nd floor, just above the Gene café and Art Rath art supply shop
 - Wood floor and nice big window overlooking Main st.
 - Approximately 10'x 6'
 - $ 200 (utility $10)
@@ -38,7 +39,7 @@ and Kingsway)
 
 2.
 
-The Gam is taking the summer off and weâ€™re looking to rent out the gallery
+The Gam is taking the summer off and we’re looking to rent out the gallery
 for the months of July and August. If you are interested in a studio space,
 hosting an art exhibition, having a project space or a retail pop-up shop
 please contact us at thegam@live.com.
@@ -50,7 +51,7 @@ community to help you promote your events.
 
 The Space
 Size: 435 SQFT
-Capacity: 40 â€“ 50 People
+Capacity: 40 – 50 People
 Bathrooms: 1
 
 Amenities

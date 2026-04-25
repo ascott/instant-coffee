@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 50
 type: "EDUCATION"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Family Day: Re-imagined Landscapes | 12-3PM | APR 28"
 ---
 

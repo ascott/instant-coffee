@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 20
 type: "PERFORMANCE"
+venue: "Model"
 summary: "Model | Ramaya Tegegne: YOU DON'T ALWAYS HAVE TO BE YOU... | OCT 23"
 ---
 
@@ -21,7 +22,7 @@ Ramaya Tegegne lives and works in Geneva, Switzerland. She currently
 co-runs the contemporary art space Forde and the bookshop Oraibi Books with
 Beckbooks. She has recently presented her work at Marbriers 4, Geneva;
 Galerie Emanuel Layr, Vienna; Sunview Lunchoenette, New York; Berlin;
-Maladie dâ€™Amour, Grenoble; and Curtat Tunnel, Lausanne. Her latest artistâ€™s
+Maladie d’Amour, Grenoble; and Curtat Tunnel, Lausanne. Her latest artist’s
 book, Menage a trois, has just been published by Fri Art Fribourg on the
 occasion of her solo exhibition there.
 

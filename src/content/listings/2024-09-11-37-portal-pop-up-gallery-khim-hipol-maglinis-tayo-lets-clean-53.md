@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 37
 type: "OPENING"
+venue: "PORTAL POP-UP GALLERY"
 summary: "PORTAL POP-UP GALLERY | Khim Hipol: Maglinis Tayo (Let's Clean) | 530PM | SEP 27"
 ---
 

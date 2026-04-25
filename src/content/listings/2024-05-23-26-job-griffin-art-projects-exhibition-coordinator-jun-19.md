@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 26
 type: ""
+venue: "JOB"
 summary: "JOB | Griffin Art Projects | Exhibition Coordinator | JUN 19"
 ---
 

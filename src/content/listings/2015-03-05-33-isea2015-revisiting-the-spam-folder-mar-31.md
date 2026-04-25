@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 33
 type: "CALL"
+venue: "ISEA2015"
 summary: "ISEA2015 | Revisiting The Spam Folder... | MAR 31"
 ---
 

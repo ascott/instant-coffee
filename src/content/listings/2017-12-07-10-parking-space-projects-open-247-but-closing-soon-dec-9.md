@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 10
 type: "OPENING"
+venue: "Parking Space Projects"
 summary: "Parking Space Projects | OPEN 24/7 BUT CLOSING SOON | DEC 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 36
 type: ""
+venue: "JOB"
 summary: "JOB | Mission Museum | Curatorial Assistant | MAY 21"
 ---
 

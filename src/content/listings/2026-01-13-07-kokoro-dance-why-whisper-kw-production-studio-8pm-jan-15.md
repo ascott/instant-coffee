@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 7
 type: "PERFORMANCE"
+venue: "Kokoro Dance + Why Whisper"
 summary: "Kokoro Dance + Why Whisper | KW Production Studio | 8PM | JAN 15"
 ---
 

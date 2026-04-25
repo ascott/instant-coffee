@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 2015"
 emailDate: "Thu, 08 Jan 2015 15:55:10 -0800"
 number: 9
 type: "TALK"
+venue: "Emily Carr University"
 summary: "Emily Carr University | Brendan Tang | JAN 12"
 ---
 
@@ -25,9 +26,9 @@ He has been a resident artist at the Archie Bray Foundation for the Ceramic
 Arts (Helena, MT) and has participated in an international residency at the
 European Ceramic Work Centre ('s-Hertogenbosch, NL).
 
-Tangâ€™s work has been showcased at galleries and in printed and online
+Tang’s work has been showcased at galleries and in printed and online
 media. He has been exhibited at the Museum of Fine Art in Boston, the
-MusÃ©e d'art contemporain de MontrÃ©al in QB, and Art Labor in Shanghai, as
+Musée d'art contemporain de Montréal in QB, and Art Labor in Shanghai, as
 well being a recipient of the 2012 RBC Emerging Artist Award at the
 Gardiner Museum in Toronto. He has been profiled by The Knowledge Network,
 and featured in printed publications including The National Post, Wired (UK

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hyperopia"
 emailDate: "Thu, 07 Sep 2023 06:59:52 -0700"
 number: 17
 type: "TALK"
+venue: "Invisible Ink"
 summary: "Invisible Ink | Artist Talk by Shadbolt Fellow Ghinwa Yassine | SEP 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 17
 type: ""
+venue: "Cutty Contemporary Art Gallery"
 summary: "Cutty Contemporary Art Gallery | New Design British Columbia Call for Submissions | SEP 18"
 ---
 
@@ -28,7 +29,7 @@ are sourcing materials, or have specific reference to British Columbia in their
 work.
 
 This exhibition is strategically set to align with IDS West in an effort to broaden 
-the exposure of British Columbiaâ€™s regional design.
+the exposure of British Columbia’s regional design.
 
 Submissions will be judged on conceptual merit and/or execution of design.
 

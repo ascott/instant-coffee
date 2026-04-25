@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 25
 type: "TALK"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | Guest Speaker: Roald Nasgaard | SEP 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 6
 type: "EVENT"
+venue: "North Van Arts"
 summary: "North Van Arts | 50th Anniversary Opening & Celebration | 7-9PM | JUL 25"
 ---
 

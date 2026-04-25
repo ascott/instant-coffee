@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 19
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Laying Ground | MAR 27"
 ---
 

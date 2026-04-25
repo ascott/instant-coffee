@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 18
 type: "OPENING"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Chester Fields: Unsung | 1PM | AUG 12"
 ---
 

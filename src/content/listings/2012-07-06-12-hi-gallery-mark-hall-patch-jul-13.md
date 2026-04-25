@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 12
 type: ""
+venue: "Hi Gallery"
 summary: "Hi Gallery | Mark Hall-Patch | JUL 13"
 ---
 

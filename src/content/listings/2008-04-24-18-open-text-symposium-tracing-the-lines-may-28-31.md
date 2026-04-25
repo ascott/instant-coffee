@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: communication is not our only not 
 emailDate: "Wed, 23 Apr 2008 22:00:25 -0700"
 number: 18
 type: ""
+venue: "OPEN TEXT"
 summary: "OPEN TEXT | Symposium : TRACING THE LINES | MAY 28-31"
 ---
 

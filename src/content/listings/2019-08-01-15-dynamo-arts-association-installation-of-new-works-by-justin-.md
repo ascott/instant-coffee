@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 15
 type: "EXHIBITION"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Installation of new works by Justin Patterson | AUG 9"
 ---
 

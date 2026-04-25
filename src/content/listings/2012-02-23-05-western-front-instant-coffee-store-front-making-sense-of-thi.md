@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 5
 type: ""
+venue: "Western Front"
 summary: "Western Front | Instant Coffee STORE FRONT | Making Sense of Things Together: Amy Fung | FEB 25"
 ---
 

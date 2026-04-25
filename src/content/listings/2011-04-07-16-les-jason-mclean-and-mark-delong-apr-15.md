@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 16
 type: ""
+venue: "LES"
 summary: "LES | Jason McLean and Mark DeLong | APR 15"
 ---
 

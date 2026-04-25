@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Massy Arts Society"
 summary: "Massy Arts Society | Rydel Cerezo | To Be From The Same Tree | AUG 7"
 ---
 

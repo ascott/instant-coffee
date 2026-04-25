@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: magalamagala"
 emailDate: "Thu, 20 Mar 2025 18:50:05 -0700"
 number: 31
 type: "EVENT"
+venue: "Musqueam Cultural Centre"
 summary: "Musqueam Cultural Centre | Keywords Symposium: Labour and Land | APR 4"
 ---
 

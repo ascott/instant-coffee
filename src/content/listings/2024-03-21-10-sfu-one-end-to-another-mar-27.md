@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bikebike"
 emailDate: "Wed, 20 Mar 2024 18:15:17 -0700"
 number: 10
 type: "OPENING"
+venue: "SFU"
 summary: "SFU | One End to Another | MAR 27"
 ---
 

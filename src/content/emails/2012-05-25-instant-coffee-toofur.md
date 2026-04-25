@@ -164,12 +164,12 @@ Admission to film night is $10 which includes one drink. TICKETS WILL
 NOT BE AVAILABLE AT THE DOOR, so be sure to get yours in advance, either online at 
 http://www.brownpapertickets.com/event/246101 or with cash at the Rennie Collection office during regular office hours (Monday-Friday, 9 am - 5 pm). Due to the nature of the films, this event is strictly 19+. All films are courtesy Galleria Franco Noero, Torino with special thanks to Whistler Water and Kronenbourg 1664.
 
-Francesco Vezzoli's work explores melodrama, humour, and glamour, gravitating towards famous film directors, authors, fashion designers and pop icons, who star, contribute, or are referenced in his work. He studied at Central St. Martin's School of Art in London from 1992 to 1995. He has exhibited at many institutions including The New Museum of Contemporary Art, New York (2002); Castello di Rivoli Museo d'Arte Contemporanea, Turin (2002); Fondazione Prada, Milan (2004, 2005 and 2011); Museu Serralves, Porto (2005); Le Consortium, Dijon (2006); Tate Modern, London (2006); Solomon R. Guggenheim Museum (2007); Museum of Contemporary Art, Los Angeles (2009); Moderna Museet, Stockholm (2009-2010); Kunsthalle Wien (2009); and the Garage Center for Contemporary Culture, Moscow (2010). His works have also been included in several biennials including the 2006 Whitney Biennial, the 49th and 51st Venice Biennials, the 26th SÃ£o Paulo Biennial; and the 6th International Istanbul Bienn
+Francesco Vezzoli's work explores melodrama, humour, and glamour, gravitating towards famous film directors, authors, fashion designers and pop icons, who star, contribute, or are referenced in his work. He studied at Central St. Martin's School of Art in London from 1992 to 1995. He has exhibited at many institutions including The New Museum of Contemporary Art, New York (2002); Castello di Rivoli Museo d'Arte Contemporanea, Turin (2002); Fondazione Prada, Milan (2004, 2005 and 2011); Museu Serralves, Porto (2005); Le Consortium, Dijon (2006); Tate Modern, London (2006); Solomon R. Guggenheim Museum (2007); Museum of Contemporary Art, Los Angeles (2009); Moderna Museet, Stockholm (2009-2010); Kunsthalle Wien (2009); and the Garage Center for Contemporary Culture, Moscow (2010). His works have also been included in several biennials including the 2006 Whitney Biennial, the 49th and 51st Venice Biennials, the 26th São Paulo Biennial; and the 6th International Istanbul Bienn
  ial.
 
 UNIT/PITT Projects (formerly the Helen Pitt Gallery) is a non-profit artist-run centre dedicated to the promotion of experimental contemporary art that addresses social, political, cultural, and critical issues. They promote and facilitate public dialogue concerning critical awareness, social consciousness, contemporary art practices and community. From their small presentation and office space at 15 East Pender Street in Vancouver, they present visual art, performance, video, web-based projects, low-power radio, music and books by artists, and public actions.
 
-Rennie Collection has evolved over a number of years to focus on works related to identity, social injustice, appropriation, painting and photography. Bob Rennie has garnered an international reputation as a dedicated collector, amassing one of the largest collections of contemporary art in Canada. In 2009, renovations were completed on the oldest building in Vancouverâ€™s Chinatown to display the collection to the public. Rennie Collection at Wing Sang holds two exhibitions a year with supporting catalogues and events.
+Rennie Collection has evolved over a number of years to focus on works related to identity, social injustice, appropriation, painting and photography. Bob Rennie has garnered an international reputation as a dedicated collector, amassing one of the largest collections of contemporary art in Canada. In 2009, renovations were completed on the oldest building in Vancouver’s Chinatown to display the collection to the public. Rennie Collection at Wing Sang holds two exhibitions a year with supporting catalogues and events.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-05-25-08-republic-gallery-ryan-peter-may-25">08. Republic Gallery | RYAN PETER | MAY 25</a>
 ------------------------------------------------------------------------
@@ -189,7 +189,7 @@ Through the use of seemingly ordinary chemical substances such as industrial pla
 
 --
 
-Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA (2008) from The University of British Columbia. He was a finalist for the 11th Annual RBC Canada Painting Competition, exhibited at the MusÃ©e d'art contemporain de MontrÃ©al and at The Power Plant in Toronto. He has participated in recent group exhibitions at Equinox Gallery, Vancouver and the AHVA Library Gallery at UBC. In addition to his painting practice, Peter also works collaboratively with artist Raymond Boisjoly on projects for exhibitions in Canada and the United States. This is his second solo show with Republic Gallery.
+Based in Vancouver, Ryan Peter holds a BFA (2004) and an MFA (2008) from The University of British Columbia. He was a finalist for the 11th Annual RBC Canada Painting Competition, exhibited at the Musée d'art contemporain de Montréal and at The Power Plant in Toronto. He has participated in recent group exhibitions at Equinox Gallery, Vancouver and the AHVA Library Gallery at UBC. In addition to his painting practice, Peter also works collaboratively with artist Raymond Boisjoly on projects for exhibitions in Canada and the United States. This is his second solo show with Republic Gallery.
 
 --
 
@@ -219,7 +219,7 @@ Goldcorp Centre for the Arts
 149 West Hastings St.
 
 Please join us for three introductory presentations by German curators 
-Dr. Gregor Jansen, Thomas Thiel, Christina VÃ©gh and Hilke Wagner, each of whom are participating in a research trip across Canada organized by the Canadian Embassy Berlin and the Canada Council for the Arts.
+Dr. Gregor Jansen, Thomas Thiel, Christina Végh and Hilke Wagner, each of whom are participating in a research trip across Canada organized by the Canadian Embassy Berlin and the Canada Council for the Arts.
 
 Dr. Gregor Jansen
 Dr. Gregor Jansen assumed his duties as director of the Kunsthalle DÃ¼sseldorf in January 2010. He studied history of art and architecture, philosophy, sociology, and political science at the RWTH Aachen and completed his doctorate in 1998 on the subject â€œEugen SchÃ¶nebeck. A German Legend.â€  He subsequently worked as curator, art critic, and free-lance author, and lectured in image science and media theory at a number of universities in Germany and the Netherlands.From 2005 to the end of 2009, Gregor Janson headed the ZKM | Museum of Contemporary Art in Karlsruhe, where the exhibitions he curated included â€œLight Art from Artificial Lightâ€  (with Peter Weibel), â€œtotalstadt.beijing case. Cultural Aspects of the High-Speed Urbanization in China,â€  â€œMichael Kunze,â€  and â€œVertrautes Terrain. Contemporary Art in & on Germanyâ€  (with Thomas Thiel).
@@ -233,9 +233,9 @@ Associationsâ€  (2009) by Arts Foundation of North-Rhine-Westphalia (Kunststi
 
 www.bielefelder-kunstverein.de/
 
-Christina VÃ©gh
-Christina VÃ©gh, born in 1970 in Zurich, has been the director of the Bonner Kunstverein since 2005.
-VÃ©gh studied art history, ethnology and philosophy in Zurich und Santa Cruz (California), completing her degree with a dissertation on the art of Jorge Pardo. She subsequently worked as a curator at the 
+Christina Végh
+Christina Végh, born in 1970 in Zurich, has been the director of the Bonner Kunstverein since 2005.
+Végh studied art history, ethnology and philosophy in Zurich und Santa Cruz (California), completing her degree with a dissertation on the art of Jorge Pardo. She subsequently worked as a curator at the 
 Kunsthalle Basel from 2000 to 2004, where she latterly held the post of interim director. Reflecting her strong interest in space/architecture and cultural anthropology, VÃ©ghâ€™s curatorial practice is characterized by giving a regional focus to an internationally oriented programme. Having taken up the position of director at the Bonner Kunstverein in 2005, VÃ©gh successfully repositioned the associationâ€™s programme, for which it received the Sparda-Bank West award in 2008. The refurbishment of the Bonner Kunstverein building under her direction also gained official recognition in the form of a BDA Nordrhein-Westfalen award in 2010. In addition to showing individual artistsâ€™ work, VÃ©gh regularly organizes thematic exhibitions that address socially related issues. The inclusion of presentations by more established artists provides important historical reference points, as with John Baldessariâ€™s 2007 exhibition â€œMusicâ€ , while the possibi
  lities 
 of
@@ -244,8 +244,8 @@ an exhibition dispositif are explored through unusual exhibition formats such as
 www.bonner-kunstverein.de
 
 Hilke Wagner
-born in 1972 in Kassel, Germany. Studies: Art History, Philosophy and Romance Philology in Kassel, Valencia and Madrid. 2003-2006: Curator at kestnergesellschaft in Hannover. (curated shows Peter Doig, Thomas Hirschhorn, Sarah Morris, Chris Ofili, Santiago Sierra, Barbara Kruger etc.)2006-2007 Director of Situation Kunst, part of the art collections of the Ruhr-UniversitÃ¤t Bochum.Since 2007: Director of the Kunstverein Braunschweig (curated solo shows with Armin Boehm, Christoph Keller, Tue Greenfort, Marine Hugonnier, Rosa Barba, Peter Piller, Ariel Schlesinger, Marcel Dzama, Carlos Garaicoa etc.), 
-Since 2011: teaches curatorial praxis at the Hochschule fÃ¼r Bildende KÃ¼nste, Braunschweig
+born in 1972 in Kassel, Germany. Studies: Art History, Philosophy and Romance Philology in Kassel, Valencia and Madrid. 2003-2006: Curator at kestnergesellschaft in Hannover. (curated shows Peter Doig, Thomas Hirschhorn, Sarah Morris, Chris Ofili, Santiago Sierra, Barbara Kruger etc.)2006-2007 Director of Situation Kunst, part of the art collections of the Ruhr-Universität Bochum.Since 2007: Director of the Kunstverein Braunschweig (curated solo shows with Armin Boehm, Christoph Keller, Tue Greenfort, Marine Hugonnier, Rosa Barba, Peter Piller, Ariel Schlesinger, Marcel Dzama, Carlos Garaicoa etc.), 
+Since 2011: teaches curatorial praxis at the Hochschule für Bildende Künste, Braunschweig
 
 Publications: http://www.hbk-bs.de/hochschule/personen/hilke-
 wagner/autor-und-herausgeberschaften/index.php
@@ -269,7 +269,7 @@ Saturday May 26, Sunday May 27, 1103
 
 What knowledge can you share with others? Contribute your cool trick, skill, recipe, directions, instructions, formula, prescription, blueprint, plan, technique, procedure, approach, strategy, tactic, talent, genius, expertise, or creativity and take away some new knowledge in return!
 
-As part of a larger public-art project, SHOW ME HOW aims to create a 'knowledge gallery' where participants can donate a skill through drawing. 'Knowledge' for this project is defined as any set of instructions: it could be the special way you scramble eggs, plant your tulip bulbs, or celebrate a special holidayâ€“ anything that other people may benefit from.
+As part of a larger public-art project, SHOW ME HOW aims to create a 'knowledge gallery' where participants can donate a skill through drawing. 'Knowledge' for this project is defined as any set of instructions: it could be the special way you scramble eggs, plant your tulip bulbs, or celebrate a special holiday– anything that other people may benefit from.
 
 SHOW ME HOW is a free drawing event. All materials are provided. 
 
@@ -284,20 +284,20 @@ http://masters.ecuad.ca/iegallery/
 ------------------------------------------------------------------------
 Facing the Animal 
 Mary Anne Barkhouse, Julie Andreyev, Bill Burns
-May 26 â€” June 29, 2012
+May 26 — June 29, 2012
 Opening Friday, May 25, 8PM 
 Curated by Tarah Hogue
 Artist Talk and Book Signing with Bill Burns: June 7th, 7pm
 
 The works in this exhibition ask what facing the animal might mean in contemporary art. Using wolves and their domesticated descendents as subjects, the artists challenge dualities of human/animal and culture/nature in favour of more complex interactions. Through narratives of conservation, industry, wilderness and urban life using the media of sculpture, photography, video and installation, we are asked to question the categories we use to shape our sense of the world in works that are both irreverent and intimate.
 
-Vancouver-based artist Julie Andreyevâ€™s Animal Lover series is an 
+Vancouver-based artist Julie Andreyev’s Animal Lover series is an 
 â€œinterspecies collaborationâ€  with her two dogs, Tom and Sugi, that includes video works and an online blog). A newly compiled video collection from the blog follows the daily lives of Tom and Sugi, a portrait of the dogsâ€™ unique behaviours and social lives. In the 2009 video installation, Aria, Tom and Sugi are pictured as the central subjects within the iconic Canadian landscape of Banff, Alberta. 
 Recordings taken from the dogsâ€™ vocalizations and their surrounding environment are composed into a musical soundtrack culminating in an â€œoperatic soloâ€  by Tom.
 
-Mary Anne Barkhouse was born in Vancouver, BC, and belongs to the Nimpkish band, Kwakiutl First Nation. Currently based in Ontario, Barkhouse uses animal imagery in ways that examine popular perceptions of them and challenge divisions between scientific and alternate forms of knowledge. In Barkhouseâ€™s most recent work, Red Rover, wooden pull-toys in the shape of coyotes, wolves and poodles face off on playmats configured into a map of Canadaâ€™s west coast, suggestive of contradictions between the treatment of indigenous species and the consumer pet industry.
+Mary Anne Barkhouse was born in Vancouver, BC, and belongs to the Nimpkish band, Kwakiutl First Nation. Currently based in Ontario, Barkhouse uses animal imagery in ways that examine popular perceptions of them and challenge divisions between scientific and alternate forms of knowledge. In Barkhouse’s most recent work, Red Rover, wooden pull-toys in the shape of coyotes, wolves and poodles face off on playmats configured into a map of Canada’s west coast, suggestive of contradictions between the treatment of indigenous species and the consumer pet industry.
 
-Toronto-based artist Bill Burnsâ€™ Dogs, Boats and Airplanes series includes a photographic collection from the artistâ€™s travels as well as a collection of salt and pepper shakers of dogs, boats and airplanes. In its glaring absurdity, the work draws attention to the way in which dogs act as double agents that are at home in both urban and natural environments. The animals become a site of intellectual engagement with a highly rationalized and bureaucratic conception of nature, in which pedigree, global capital, movement and travel are all at stake.
+Toronto-based artist Bill Burns’ Dogs, Boats and Airplanes series includes a photographic collection from the artist’s travels as well as a collection of salt and pepper shakers of dogs, boats and airplanes. In its glaring absurdity, the work draws attention to the way in which dogs act as double agents that are at home in both urban and natural environments. The animals become a site of intellectual engagement with a highly rationalized and bureaucratic conception of nature, in which pedigree, global capital, movement and travel are all at stake.
 
 Facing the Animal is curated by Tarah Hogue, a candidate to the Masters Degree in Critical and Curatorial Studies at The University of British Columbia.
 
@@ -350,7 +350,7 @@ CINEWORKS AND PACIFIC CINEMATHEQUE PRESENT: BACK
 DOWN THE HIGHWAY/ HIGHWAY 61
 
 In 1991, then emerging Canadian filmmaker Bruce McDonald cemented hisplace in Canadian film history with his seminal road movie HIGHWAY 
-61,inspiring a generation to pick up a camera and shoot. In 2012, fourteams of emerging Vancouver-based filmmakers were given a chance toreconsider the genre of road movies through Cineworkâ€™s first evershort film contest. The result: four new short films inspired bydialogue from HIGHWAY 61 plus a rare 35mm print screening ofMacDonaldâ€™s film. Celebrations continue with an opportunity to meetthe contest-winning filmmakers at the after-party.
+61,inspiring a generation to pick up a camera and shoot. In 2012, fourteams of emerging Vancouver-based filmmakers were given a chance toreconsider the genre of road movies through Cinework’s first evershort film contest. The result: four new short films inspired bydialogue from HIGHWAY 61 plus a rare 35mm print screening ofMacDonald’s film. Celebrations continue with an opportunity to meetthe contest-winning filmmakers at the after-party.
 
 ADMISSION:
 
@@ -385,7 +385,7 @@ www.facebook.com/vancitynightschool.
 Speakers include Ryan McCormick, on the process of creating a feasibility study for the Safe Amplification Site Society and new all ages venues; Jaimie Kendal-Ward on how sex trade workers in the 
 Downtown Eastside are portrayed in mainstream media; and Ray Hsu on his new experimental poetry project, the Future is Laser Tag.
 
-Night School will take place at the Rhizome CafÃ©, Thursday May 31st at 7pm. It is by donation but no one will be turned away. Delicious food and drinks will also be available.
+Night School will take place at the Rhizome Café, Thursday May 31st at 7pm. It is by donation but no one will be turned away. Delicious food and drinks will also be available.
 
 More info at https://www.facebook.com/events/420117818006969/
 
@@ -403,7 +403,7 @@ ANIMATION ANIMATION
 An evening of animated short films from the past 125 years:
 
 Jan Å vankmajer
-DuÅ¡an Vukot
+Dušan Vukot
 Ub Iwerks
 Len Lye
 John Whitney
@@ -411,7 +411,7 @@ Hans Richter
 Norman Maclaren
 ++ many more!
 
-99Â¢ admission
+99¢ admission
 
 Thursday, May 31st
 9:00pm till Late
@@ -496,7 +496,7 @@ Saturday June 9, 2012
 
 Think you can't draw? Think again.
 
-Vancouver Draw Down is an annual, daylong celebration of drawing that challenges every single Vancouveriteâ€”young and oldâ€”to dispel their preconceptions about drawing, touch a pen to a piece of paper, and make a mark. If you can write your name, you can draw!
+Vancouver Draw Down is an annual, daylong celebration of drawing that challenges every single Vancouverite—young and old—to dispel their preconceptions about drawing, touch a pen to a piece of paper, and make a mark. If you can write your name, you can draw!
 
 On Saturday June 9, 2012, 18 different arts and cultural organizations across Vancouver will host a total of 27 diverse, hands-on drawing workshops in community centres, museums, art galleries and on the street! You can add to a mural, do a pinprick drawing, doodle, sketch, improve your still life or life drawing techniques, create your own font, draw inside a 12-foot high paper tunnel, and much more. The workshops are designed with a come-and-go atmosphere, and participants are encouraged to move around to different events throughout the day.
 
@@ -529,7 +529,7 @@ MacKenzie. FREE
 
 Micro/Macro Drawing Lab at The Roundhouse - 11am-4pm
 The Roundhouse, 181 Roundhouse Mews, Vancouver
-Step inside Radix Theatreâ€™s Micro/Macro Drawing Lab to magnify 
+Step inside Radix Theatre’s Micro/Macro Drawing Lab to magnify 
 worlds within worlds as you transform the tiny into the enormous. 
 FREE
 
@@ -541,7 +541,7 @@ Damara Jacobs-Morris. FREE with museum admission ($14.50-
 $16.75)
 
 Community Portraits and More at ArtStarts - 12pm-4pm
-ArtStarts Gallery â€“ 808 Richards Street, Vancouver
+ArtStarts Gallery – 808 Richards Street, Vancouver
 Get "drawn in" to a collaborative window mural, participate in a still life 
 drawing activity with a twist, or doodle on the sidewalk chalk art mural. 
 FREE
@@ -593,7 +593,7 @@ Each Daily Drawing Project will consist of two sets of instructions.
 Choose the Challenging Instructions (15 minute drawings for people with more drawing experience and/or time), or the Just For Fun 
 Instructions (5 minute drawings for people with less experience and/or time).
 3. DRAW
-Use whatever drawing tools you like, except when otherwise noted in the instructions. Don't worry about making mistakesâ€”be creative and have fun! We ask that you not use rulers or erasers for any of your drawings, and that you stick to the time limits. Daily drawings should be no larger than 8.5X11.
+Use whatever drawing tools you like, except when otherwise noted in the instructions. Don't worry about making mistakes—be creative and have fun! We ask that you not use rulers or erasers for any of your drawings, and that you stick to the time limits. Daily drawings should be no larger than 8.5X11.
 4. SHARE
 Share your work with us! Send us scans or photographs of your daily drawings at any point during the month-long challenge and we'll put them up on our website and facebook page. Email vandrawdown@gmail.com with jpeg files no larger than 72 dpi, 1024 X 768 pixels, maximum 1MB. All drawings featured in our galleries remain anonymous.
 
@@ -603,8 +603,8 @@ BUT I'M NOT AN ARTIST. WHY SHOULD I DRAW?
 
 We're glad you asked...
 
-Drawing is a way of capturing ideas, encouraging observation, and expressing thoughts. It's a problem- solving tool, a brainstorming mechanism, a way to visualize outcomes and a means of creative exchange. It's also a powerful communication device that transcends barriers of language and literacy. The more you draw, the more detail you see in your everyday lifeâ€”shadow, colour, shape, reflection, texture.
-It's time to spark the right side of your brain and connect with the innovative and imaginative recesses of your mind. This is about process and pleasure, not about technical skill. That's why everyoneâ€”including YOUâ€”can participate!
+Drawing is a way of capturing ideas, encouraging observation, and expressing thoughts. It's a problem- solving tool, a brainstorming mechanism, a way to visualize outcomes and a means of creative exchange. It's also a powerful communication device that transcends barriers of language and literacy. The more you draw, the more detail you see in your everyday life—shadow, colour, shape, reflection, texture.
+It's time to spark the right side of your brain and connect with the innovative and imaginative recesses of your mind. This is about process and pleasure, not about technical skill. That's why everyone—including YOU—can participate!
 
 Media Contact: Kara Gibbs | vandrawdown@gmail.com | 604.644.6985 
 | www.vancouverdrawdown.com
@@ -635,7 +635,7 @@ WRITING SHORT SCREENPLAYS: THE GOOD NEWS AND BAD
 
 This four-hour workshop will address the art of storytelling in its broadest, most accessible sense, then range through to the much more exacting craft of short story writing for the screen. Focus will be on the increased flexibility of short form (the good news) but will include discussion of the impact of the obvious constraints of writing within more immediate boundaries (the bad news). Particular attention will be paid to the evaluative skills involved in determining which story ideas lend themselves best to short screenplay (and which do not), as well as an examination of the means of writing a short screenplay designed to give the filmmaker the optimum chance of producing a truly compelling €˜calling card.€™ A number of successful short films will be screened during the workshop, some locally produced, some international in their origins, with a continued emphasis upon the story characteristics and genres which lend themselves well to successful execution in short 
  form.
-Attendees are asked to bring along one 50-word idea for a short script, which will be work shopped duringthis session. Copies of Ric Beairstoâ€™s THE TYRANNY OF STORY: 
+Attendees are asked to bring along one 50-word idea for a short script, which will be work shopped duringthis session. Copies of Ric Beairsto’s THE TYRANNY OF STORY: 
 Audience
 Expectations and the Short Screenplay will be available for sale toworkshop attendees at a discounted rate.
 
@@ -651,7 +651,7 @@ Payment by Credit Card, Debit and Cash accepted
 
 *PLEASE NOTE: There is a maximum of 10 spots available. Register earlyto avoid waiting lists and cancellations.
 
-Cineworks gratefully acknowledges the support of our membership,volunteers, sponsors and the ongoing financial assistance of ourfunders-â€“the Canada Council for the Arts, the British Columbia Arts Council and the City of Vancouver. www.cineworks.ca
+Cineworks gratefully acknowledges the support of our membership,volunteers, sponsors and the ongoing financial assistance of ourfunders-–the Canada Council for the Arts, the British Columbia Arts Council and the City of Vancouver. www.cineworks.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-05-25-22-vancouver-art-gallery-again-and-again-and-again-until-sep-3">22. Vancouver Art Gallery | AGAIN AND AGAIN AND AGAIN | until | SEP 3</a>
 ------------------------------------------------------------------------

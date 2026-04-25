@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 21
 type: ""
+venue: "Art Diversity & Integration - subsidised cours"
 summary: "Art Diversity & Integration - subsidised cours | CALL | APR 29"
 ---
 
@@ -46,15 +47,15 @@ September 2011, applications closing 30 April, 2011.
 The course is designed to assist educators, curators and 
 professionals involved in migrant and community programs to:
 
-â€¢ develop new models and approaches to deal with challenges of 
+• develop new models and approaches to deal with challenges of 
 bringing contemporary audiences to art and bringing art culturally 
 diverse audiences;
-â€¢ explore how engagement with art can be a catalyst for social 
+• explore how engagement with art can be a catalyst for social 
 cohesion and peaceful coexistence and enables people to extend 
 their cultural boundaries;
-â€¢ build resources, skills and opportunities to develop new 
+• build resources, skills and opportunities to develop new 
 approaches and paradigms in addressing new audiences;
-â€¢ work with art as a forum for intercultural dialogue and the socio-
+• work with art as a forum for intercultural dialogue and the socio-
 political importance of art in development of civil society in a 
 culturally heterogeneous Europe.
 

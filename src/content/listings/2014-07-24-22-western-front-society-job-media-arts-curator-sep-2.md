@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 22
 type: ""
+venue: "Western Front Society"
 summary: "Western Front Society | JOB: Media Arts Curator | SEP 2"
 ---
 
@@ -35,32 +36,32 @@ Responsibilities:
 The Media Arts Curator reports directly to the Executive Director and 
 assumes the leadership and responsibility for:
 
-Â· Developing and communicating a dynamic vision for the Media Arts 
+· Developing and communicating a dynamic vision for the Media Arts 
 Program
-Â· Curating artist production residencies
-Â· Curating screenings and public presentations of work generated 
+· Curating artist production residencies
+· Curating screenings and public presentations of work generated 
 through both the residency program and the Western Front Media Archive
-Â· Writing grants and pursuing opportunities for additional funding and 
+· Writing grants and pursuing opportunities for additional funding and 
 support
-Â· Facilitating access to the Western Frontâ€™s archival holdings
-Â· Assuming responsibility for the media production studio/space
+· Facilitating access to the Western Front’s archival holdings
+· Assuming responsibility for the media production studio/space
 
 Qualifications:
-Â· Extensive knowledge of Media Art practices, both historical and 
+· Extensive knowledge of Media Art practices, both historical and 
 contemporary
-Â· Extensive knowledge and understanding of broader art historical and 
+· Extensive knowledge and understanding of broader art historical and 
 contemporary art context
-Â· Knowledge and understanding of moving image archive practices
-Â· A clear understanding of the philosophy and history of the Canadian 
+· Knowledge and understanding of moving image archive practices
+· A clear understanding of the philosophy and history of the Canadian 
 artist-run centre movement
-Â· Excellent written and verbal communications skills
-Â· Proven financial management experience
-Â· Ability to effectively delegate and supervise staff, volunteers, interns 
+· Excellent written and verbal communications skills
+· Proven financial management experience
+· Ability to effectively delegate and supervise staff, volunteers, interns 
 and external contractors
-Â· Knowledge of the principle funding agencies and prior grant writing 
+· Knowledge of the principle funding agencies and prior grant writing 
 experience
-Â· Knowledge of managing publications and print projects
-Â· Knowledge of audio/video systems, new media and new technologies
+· Knowledge of managing publications and print projects
+· Knowledge of audio/video systems, new media and new technologies
 
 Benefits:
 A competitive benefits package is available after the three months 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Righteousness and Recklessness"
 emailDate: "Thu, 11 Aug 2011 11:16:30 -0700"
 number: 1
 type: ""
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | SOME PAINTINGS | AUG 11"
 ---
 

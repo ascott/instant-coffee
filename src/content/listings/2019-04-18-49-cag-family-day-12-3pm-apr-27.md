@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 49
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | 12-3pm | APR 27"
 ---
 

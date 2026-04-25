@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 7
 type: ""
-summary: "A Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me | FEB 9"
+venue: "A Kootenay School of Writing"
+summary: "A Kootenay School of Writing | I’m In You, You’re In Me | FEB 9"
 ---
 
-Iâ€™m In You, Youâ€™re In Me
+I’m In You, You’re In Me
 A Kootenay School of Writing series.
 Poets presenting poems / antipoems / language.
 Spoken; visually projected.
@@ -29,7 +30,7 @@ Kootenay School of Writing
 
 *
 
-bill bissett. â€œwe suspekt each othr uv knowing how to spell th word 
+bill bissett. “we suspekt each othr uv knowing how to spell th word 
 informashun.â€  Sailor. (Talon Books, 1978).
 
 aftr i didnt want to see th
@@ -93,8 +94,8 @@ of them to drop. The man and the woman and the chyld digging thru the snow
 they wer eating maws and dead leaves which they vomitit up agen. Freazing 
 col they wer nor dint have nothing to make a fire with to get warm. Starveling 
 they wer and near come to the end of ther strength.
-The chyld said, â€˜O Im so col Im afeart Im going to dy. If only we had a littl 
-fire to get warm at.â€™
+The chyld said, ‘O Im so col Im afeart Im going to dy. If only we had a littl 
+fire to get warm at.’
 
 The man dint have no way of making a fire he dint have no flint and steal 
 nor nothing. Wood all roun them only there wernt no way he knowit of getting 
@@ -108,37 +109,37 @@ Ive groan so very thin
 Ive got a littl cook pot
 But nothing to put in
 
-The man and the woman said to the clevver looking bloak, â€˜Do you know 
-how to make fire?â€™
-The clevver looking bloak said, â€˜O yes if I know any thing I know that right a 
+The man and the woman said to the clevver looking bloak, ‘Do you know 
+how to make fire?’
+The clevver looking bloak said, ‘O yes if I know any thing I know that right a 
 nuff. Fires my middl name you myt say.â€ 
-The man and the woman said, â€˜Wud you make a littl fire then weare 
-freazing of the col.â€™
-The clevver looking bloak said, â€˜That for you and what for me?â€™
-The man and the woman said, â€˜What do we have for whatfers?â€™ They lookit 
+The man and the woman said, ‘Wud you make a littl fire then weare 
+freazing of the col.’
+The clevver looking bloak said, ‘That for you and what for me?’
+The man and the woman said, ‘What do we have for whatfers?’ They lookit 
 1 to the other and boath at the chyld.
-The clevver looking bloak said, â€˜Iwl tel you what Iwl do Iwl share you my fire 
-and my cook pot if youwl share me what to put in the pot.â€™ He wer looking at 
+The clevver looking bloak said, ‘Iwl tel you what Iwl do Iwl share you my fire 
+and my cook pot if youwl share me what to put in the pot.’ He wer looking at 
 the chyld.
 The man and the woman thot: 2 out of 3 a live is bettern 3 dead. They said, 
-â€˜Done.â€™
+‘Done.’
 They kilt the chyld and drunk its blood and cut up the meat for cooking.
-The clevver looking bloak said, â€˜Iwl show you how to make fire plus Iwl give 
+The clevver looking bloak said, ‘Iwl show you how to make fire plus Iwl give 
 you flint and steal and makings nor you dont have to share me nothing of the 
-meat only the hart.â€™
+meat only the hart.’
 Which he made the fire then and give them flint and steal and makings 
 then he cookt the hart of the chyld and et it.
-The clevver looking bloak said, â€˜Clevverness is gone now but littl by little 
+The clevver looking bloak said, ‘Clevverness is gone now but littl by little 
 itwl come back [...]
 
 *
 
 Dorothy Lusk. â€œOral Tragedy.â€  Oral Tragedy. (Tsunami Editions, 1988).
 
-Ordinance â€˜distancedâ€™ thus, called â€˜desireâ€™ â€“ â€˜Iâ€™ pass out eventually. Often
+Ordinance ‘distanced’ thus, called ‘desire’ – ‘I’ pass out eventually. Often
 this caught too once smothered discord.
 
-Your handâ€™s nerves cut automotivation catching each OWN clasp all
+Your hand’s nerves cut automotivation catching each OWN clasp all
 plunder all stud and stake position.
 
 Can he finalize such fragments in said factitious bootybags? Well,
@@ -151,21 +152,21 @@ strikes so hands dial but like that. A final voice in an ear like a promise.
 Post is delivered at all hours even weekends & vanity anticipates though
 diurnally nonplussed or trust this recurrence.
 
-SENTENCEDâ€”the guy who got stuck in a helicopter & a guy that got
+SENTENCED—the guy who got stuck in a helicopter & a guy that got
 stuck in the house. All hunkering while down with glanders he WILL
-order others. Shiftless foci wonâ€™t observe an onus & left to OWN loss,
-drawl & stick up our chins. Do make distinct then but whereâ€™s the
+order others. Shiftless foci won’t observe an onus & left to OWN loss,
+drawl & stick up our chins. Do make distinct then but where’s the
 difference?
 
 You are left with what you get and
 Your love is dross
 Well you remain whose world is none of mine
-I who lovâ€™st well remain left.
+I who lov’st well remain left.
 
 & shall interference come between me? Jar down mine own gritty polish
 & wonder when saliva segues patina. You get what you are left. While
-distinctions make pleasures own device or fucking doesnâ€™tâ€”hitched to
-mine caboose maraud or donâ€™t.
+distinctions make pleasures own device or fucking doesn’t—hitched to
+mine caboose maraud or don’t.
 
 Appears far greater than all machinery yet always misses affecting more
 than a few monthes or paragraphs. Not usually called tragedy [...]

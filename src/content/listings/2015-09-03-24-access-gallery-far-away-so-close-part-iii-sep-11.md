@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 24
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Far Away So Close: Part III | SEP 11"
 ---
 
 Far Away So Close: Part III
 Alana Bartol, Mike Bourscheid, David Semeniuk
-September 12â€”October 31, 2015
+September 12—October 31, 2015
 
 Exhibition Opening (in conjunction with SWARM16)
 Friday, September 11, 2015, 7:00 PM
@@ -30,19 +31,19 @@ Saturday, October 31, 2015, 2:00 PM
 Far Away So Close is a series of exhibitions, publications, and events that
 explores the idea of distance, considers the bridging of distance as an
 ultimately quixotic gesture, and investigates the particular relationship
-of this gesture to art making. Presented over the course of 2014â€“15, each
+of this gesture to art making. Presented over the course of 2014–15, each
 instalment features emergent artists who draw upon a variety of modes,
 materials, and methodologies, and whose practices are scattered across the
 globe. Part III of Far Away So Close turns its attention to our always
 ultimately inadequate representation of landscape or, more properly, to
-three artists â€“ Alana Bartol, Mike Bourscheid, and David Semeniuk â€“ who
+three artists – Alana Bartol, Mike Bourscheid, and David Semeniuk – who
 examine the elaborate proxies we invent in our attempt to capture,
 represent or claim an â€œauthenticâ€  natural experience.
 *
 
 Alana Bartol an interdisciplinary artist, curator, and educator from
 Windsor, Ontario, currently based in Calgary, Alberta. She is interested in
-ecology as a â€˜life scienceâ€™ that interrogates relationships between place
+ecology as a ‘life science’ that interrogates relationships between place
 and self, nature, and community. Her collaborative and individual works
 explore concepts of visibility and survival through our relationships with
 nature and each other. Bartol holds an MFA from Wayne State University

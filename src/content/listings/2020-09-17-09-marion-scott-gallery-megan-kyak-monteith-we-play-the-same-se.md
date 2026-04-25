@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Marion Scott Gallery"
 summary: "Marion Scott Gallery | Megan Kyak-Monteith: We Play the Same | SEP 12"
 ---
 

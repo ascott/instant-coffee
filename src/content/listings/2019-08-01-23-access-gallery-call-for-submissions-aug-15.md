@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 23
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | Call for Submissions | AUG 15"
 ---
 

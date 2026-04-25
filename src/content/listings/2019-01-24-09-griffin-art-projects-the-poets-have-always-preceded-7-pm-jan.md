@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 9
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | the poets have always preceded | 7 PM | JAN 25"
 ---
 

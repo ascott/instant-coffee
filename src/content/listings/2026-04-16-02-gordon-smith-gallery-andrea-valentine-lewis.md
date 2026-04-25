@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 2
 type: ""
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | Andrea Valentine-Lewis"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 25
 type: "TALK"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Maggie Orth｜730pm | NOV 3"
 ---
 

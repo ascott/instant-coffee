@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 19
 type: "EXHIBITION"
+venue: "Hotam Press"
 summary: "Hotam Press | Guesthood and Alienhood | MAR 20"
 ---
 

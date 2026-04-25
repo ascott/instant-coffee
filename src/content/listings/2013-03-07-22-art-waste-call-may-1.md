@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 22
 type: ""
+venue: "Art Waste"
 summary: "Art Waste | CALL | MAY 1"
 ---
 
@@ -16,7 +17,7 @@ together a group show at Interurban (1 E Hastings st) conceived in the spirit of
 Music Waste. An open call to all artists who live, work and create across 
 Vancouver.
 
-Vancouverâ€™s cultural habitat is endangered, yet the art and artists not only 
+Vancouver’s cultural habitat is endangered, yet the art and artists not only 
 remain but thrive. As in nature, we adapt through resourcefulness and 
 ingenuity to survive. Merely by practicing and creating, we are protesting the 
 gentrification and displacement that has been so rampant in the Vancouver art 

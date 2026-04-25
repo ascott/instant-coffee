@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bitter sweet"
 emailDate: "Thu, 07 Aug 2014 11:58:22 -0700"
 number: 5
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Sojin Kim | AUG 15"
 ---
 

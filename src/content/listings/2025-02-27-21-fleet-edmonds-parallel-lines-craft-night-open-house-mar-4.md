@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 21
 type: "EVENT"
+venue: "FLEET: Edmonds"
 summary: "FLEET: Edmonds | Parallel Lines, Craft Night, Open House | MAR 4"
 ---
 

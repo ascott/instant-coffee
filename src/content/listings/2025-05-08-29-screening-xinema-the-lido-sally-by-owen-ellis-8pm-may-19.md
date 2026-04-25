@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 29
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA @ The Lido | Sally by Owen Ellis | 8PM | MAY 19"
 ---
 

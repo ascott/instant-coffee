@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 17
 type: "EVENT"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Winter Art Market and Open House | DEC 15-17th | DEC 15"
 ---
 

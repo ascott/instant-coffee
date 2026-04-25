@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sublimity Spells"
 emailDate: "Tue, 07 May 2024 23:10:10 -0700"
 number: 33
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Firehall Arts Centre | Paddle Song | MAY 24"
 ---
 

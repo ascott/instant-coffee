@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 16
 type: ""
+venue: "UBC"
 summary: "UBC | MFA Open Studios | DEC 4"
 ---
 

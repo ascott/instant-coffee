@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 29
 type: "CALL"
+venue: "Level UP! 2025-2026!"
 summary: "Level UP! 2025-2026! | Call for Applications | APR 18"
 ---
 

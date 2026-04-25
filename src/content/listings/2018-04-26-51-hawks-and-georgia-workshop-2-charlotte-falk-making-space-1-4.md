@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 51
 type: "EDUCATION"
+venue: "Hawks and Georgia"
 summary: "Hawks and Georgia | WORKSHOP 2: CHARLOTTE FALK | MAKING SPACE | 1-4PM | MAY 12"
 ---
 

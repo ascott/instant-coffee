@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 34
 type: "OPENING"
+venue: "FAZAKAS GALLERY + TANuYAP PROJECT SPACE"
 summary: "FAZAKAS GALLERY + TANuYAP PROJECT SPACE | RANDE COOK: Eye Candy | 6-9PM | SEP 13"
 ---
 

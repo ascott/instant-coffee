@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 47
 type: "FUNDRAISER"
+venue: "Western Front"
 summary: "Western Front | TOQUE Annual Fundraiser & Craft Fair DEC 1-3 | DEC 1"
 ---
 

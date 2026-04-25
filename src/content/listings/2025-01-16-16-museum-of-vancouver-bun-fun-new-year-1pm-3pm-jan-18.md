@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 16
 type: ""
+venue: "Museum of Vancouver"
 summary: "Museum of Vancouver | Bun Fun New Year | 1PM, 3PM | JAN 18"
 ---
 

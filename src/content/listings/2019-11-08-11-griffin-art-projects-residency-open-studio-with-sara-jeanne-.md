@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 11
 type: "EVENT"
+venue: "Griffin Art Projects Residency"
 summary: "Griffin Art Projects Residency | Open Studio with Sara-Jeanne Bourget | 1-3PM | NOV 9"
 ---
 

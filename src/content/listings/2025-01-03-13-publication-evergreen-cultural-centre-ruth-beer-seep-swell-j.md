@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goober"
 emailDate: "Thu, 02 Jan 2025 23:30:06 -0800"
 number: 13
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Evergreen Cultural Centre | Ruth Beer: Seep | Swell? | JAN 25"
 ---
 

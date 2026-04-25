@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please be advised requests for ill
 emailDate: "Thu, 08 Aug 2013 16:25:10 -0700"
 number: 13
 type: ""
+venue: "Anvil Centre, New Westminister"
 summary: "Anvil Centre, New Westminister | DIGITAL/NEW MEDIA DIRECTOR / CURATOR | AUG 21"
 ---
 

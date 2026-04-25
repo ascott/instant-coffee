@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that's not our monster"
 emailDate: "Thu, 09 Apr 2009 10:30:15 -0700"
 number: 19
 type: "CALL"
+venue: "Toronto Animated Image Society"
 summary: "Toronto Animated Image Society | ANIMATION SHOWCASE CALL FOR SUBMISSIONS | MAY 29"
 ---
 

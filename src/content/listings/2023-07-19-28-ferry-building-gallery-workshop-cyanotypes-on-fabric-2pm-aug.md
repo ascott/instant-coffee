@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 28
 type: "EDUCATION"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Workshop: Cyanotypes on Fabric | 2PM | AUG 9"
 ---
 

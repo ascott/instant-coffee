@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as effective as metal cutting wood
 emailDate: "Thu, 19 Nov 2009 09:41:23 -0800"
 number: 16
 type: ""
+venue: "W2 Perel Gallery"
 summary: "W2 Perel Gallery | David Marriott (reading) | NOV 27"
 ---
 

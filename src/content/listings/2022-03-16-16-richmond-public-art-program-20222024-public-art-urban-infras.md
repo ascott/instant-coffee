@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 16
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | 2022–2024 Public Art & Urban Infrastructure Artist | MAR 21"
 ---
 

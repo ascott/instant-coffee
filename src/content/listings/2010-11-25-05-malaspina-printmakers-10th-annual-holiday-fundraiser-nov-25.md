@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are no possessives in this e
 emailDate: "Thu, 25 Nov 2010 11:05:19 -0800"
 number: 5
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | 10th Annual Holiday Fundraiser | NOV 25"
 ---
 

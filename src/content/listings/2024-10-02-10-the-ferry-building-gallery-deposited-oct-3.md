@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
 emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "The Ferry Building Gallery"
 summary: "The Ferry Building Gallery | deposit/ed | OCT 3"
 ---
 

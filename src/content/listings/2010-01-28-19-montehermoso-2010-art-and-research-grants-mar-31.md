@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT proselytizing COFFEE: Come On!"
 emailDate: "Wed, 27 Jan 2010 23:55:10 -0800"
 number: 19
 type: ""
+venue: "MONTEHERMOSO 2010"
 summary: "MONTEHERMOSO 2010 | Art and Research Grants | MAR 31"
 ---
 
@@ -13,7 +14,7 @@ Montehermoso Kulturunea
 Montehermoso 2010 Art and Research Grants
 Centro Cultural
 Montehermoso Kulturunea
-Fray ZacarÃ­as MartÃ­nez, 2
+Fray Zacarías Martínez, 2
 01001 Vitoria-Gasteiz
 SPAIN
 info@montehermoso.net
@@ -75,21 +76,21 @@ info@montehermoso.net
 2009 Selected projects
 Artists' projects:
 Leonor Antunes (Lisbon, 1972)
-Paloma Polo CarreÃ±o (Madrid, 1983)
+Paloma Polo Carreño (Madrid, 1983)
 Nadia Barkate & Marion Cruza (Bilbao, 1980; Bilbao 1982)
 Niamh O'Malley (Castlebar, 1975)
-Carissa RodrÃ­guez (New York, 1970)
+Carissa Rodríguez (New York, 1970)
 Azucena Vieites (Hernani, 1967)
 Erika Arzt & Juan Linares (London, 1969; Cambrils, 1972)
 Jorge Satorre (Mexico DF, 1979)
 
 Curatorial project:
-Tetriss Production (MalmÃ¶)
+Tetriss Production (Malmö)
 
 Research:
 Giovanna Zapperi (Rome, 1978)
 Aaron Schuster (Washington, 1974)
-AloÃ±a Intxaurandieta & Edu Hurtado (Lezo, 1984; Valladolid, 1986)
+Aloña Intxaurandieta & Edu Hurtado (Lezo, 1984; Valladolid, 1986)
 
 Film Script:
 Juan Ibarrondo (Vitoria-Gasteiz, 1962)
@@ -104,7 +105,7 @@ Artspeak is pleased to announce the publication Judgment and Contemporary
 Art Criticism (2010). The result of a public forum and reading room that
 investigated the present state of art criticism, this publication features
 commissioned texts by forum presenters and respondents Jeff Derksen,
-Diedrich Diederichsen, James Elkins, Maria Fusco, Sven LÃ¼tticken, Tom
+Diedrich Diederichsen, James Elkins, Maria Fusco, Sven Lütticken, Tom
 Morton, Kristina Lee Podesva, William Wood and Tirdad Zolghadr. Examining
 the efficacy and function of art criticism, the publication focuses on the
 role of judgment and valuation in contemporary art writing and includes
@@ -133,7 +134,7 @@ Artspeak is a Vancouver based artist run centre established in 1986 that
 presents contemporary practices, innovative publications, book works,
 editions, talks, and events that encourage dialogue between visual art and
 writing. Past publications include the work of artists and writers such as
-Roy Arden, Stan Douglas, Juan A. GaitÃ¡n, Janice Kerbel, Tim Lee, Mark
+Roy Arden, Stan Douglas, Juan A. Gaitán, Janice Kerbel, Tim Lee, Mark
 Lewis, Shirin Neshat, Isabelle Pauwels, Lisa Robertson, Kathy Slade, and
 Susan Sontag.
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 12
 type: "TALK"
+venue: "Centre A [ONLINE]"
 summary: "Centre A [ONLINE] | InstA Salon: Pixy Liao | 12PM | JUL 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 40
 type: "OPENING"
+venue: "Ground Floor Art Center"
 summary: "Ground Floor Art Center | Simon Hauck | 8-11PM | FEB 6"
 ---
 

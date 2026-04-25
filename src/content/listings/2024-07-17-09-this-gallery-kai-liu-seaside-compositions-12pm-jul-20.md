@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 9
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Kai Liu - Seaside Compositions | 12PM | JUL 20"
 ---
 

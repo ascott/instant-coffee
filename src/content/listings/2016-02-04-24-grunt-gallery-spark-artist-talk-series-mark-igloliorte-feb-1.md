@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 24
 type: "TALK"
+venue: "grunt gallery"
 summary: "grunt gallery | Spark: Artist Talk Series - Mark Igloliorte | FEB 18"
 ---
 

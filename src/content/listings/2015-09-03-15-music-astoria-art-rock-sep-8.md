@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 15
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Astoria | art rock? | SEP 8"
 ---
 

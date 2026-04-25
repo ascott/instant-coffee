@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Fieldnotes "
 emailDate: "Thu, 25 Jul 2024 19:00:28 -0700"
 number: 24
 type: "OPENING"
+venue: "New Leaf Editions Gallery"
 summary: "New Leaf Editions Gallery | Joyce Majiski | Improbable Dances | AUG 1"
 ---
 

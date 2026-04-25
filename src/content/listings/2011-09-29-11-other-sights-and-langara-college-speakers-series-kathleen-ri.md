@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 11
 type: ""
+venue: "OTHER SIGHTS AND LANGARA COLLEGE"
 summary: "OTHER SIGHTS AND LANGARA COLLEGE | SPEAKERS SERIES: KATHLEEN RITTER | OCT 5"
 ---
 
@@ -20,7 +21,7 @@ beyond a relationship to physical structures to a consideration of social spaces
 creating situations for encounter, participation and dispersal.
 
 In this expanded field of art and interaction, curators, institutions and artists 
-themselves have shifted their relationship to the creative processâ€”and the 
+themselves have shifted their relationship to the creative process—and the 
 display and creation of public art. This series of talks will address some of these 
 perspectives; from the evolution of curatorial practices beyond gallery walls, to 
 artists engaging with civic infrastructure, to mapping the open-ended, transient 
@@ -37,7 +38,7 @@ Artist and curator Kathleen Ritter gives an overview of the evolution of public 
 through the lens of her own practice. As curator of exhibitions such as Expect 
 Delays (Artspeak Gallery, 2003), How Soon is Now (Vancouver Art Gallery, 
 2009) and WE: Vancouver (Vancouver Art Gallery, 2011), Ritter traces a course 
-through contemporary public practice â€“ from the gallery to the street.
+through contemporary public practice – from the gallery to the street.
 
 Kathleen Ritter is an artist and a writer based in Vancouver. Her work has been 
 exhibited at the Agnes Etherington Art Centre (2010), VIVO (2009), Prefix (2009), 
@@ -46,7 +47,7 @@ Modern Fuel (2008), the Robert McLaughlin Gallery (2008), Western Front
 anthology Places and Non-Places of Contemporary Art (2005) and the journals 
 ESSE, Fillip Magazine, Open Letter, and Prefix Photo. She has curated several 
 exhibitions, including WE: Vancouver (2011) and How Soon Is Now (2009) at the 
-Vancouver Art Gallery, and Expect Delays (2003), a series of artistâ€™s 
+Vancouver Art Gallery, and Expect Delays (2003), a series of artist’s 
 interventions that took place throughout the City of Vancouver. As the Associate 
 Curator at the Vancouver Art Gallery, she coordinates Vancouver Art Gallery 
 Offsite, an outdoor site for temporary public artworks where she has curated 

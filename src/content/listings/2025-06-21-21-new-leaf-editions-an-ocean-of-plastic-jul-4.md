@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: free listening sessions"
 emailDate: "Fri, 20 Jun 2025 17:55:16 -0700"
 number: 21
 type: "EXHIBITION"
+venue: "NEW LEAF EDITIONS"
 summary: "NEW LEAF EDITIONS | An Ocean of Plastic | JUL 4"
 ---
 

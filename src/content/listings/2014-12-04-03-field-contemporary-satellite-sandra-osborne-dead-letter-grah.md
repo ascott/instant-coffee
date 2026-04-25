@@ -4,14 +4,15 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 3
 type: "OPENING"
+venue: "FIELD Contemporary + Satellite"
 summary: "FIELD Contemporary + Satellite | Sandra Osborne - Dead Letter, Graham Landin | DEC 4"
 ---
 
 Dead Letter
 Sandra Osborne
 
-December 5th â€” January 3rd, 2014 â€” 2015
-Opening Thursday, December 4th, 6:00 â€” 10:00 PM
+December 5th — January 3rd, 2014 — 2015
+Opening Thursday, December 4th, 6:00 — 10:00 PM
 
 FIELD Contemporary
 17 West Broadway
@@ -19,8 +20,8 @@ FIELD Contemporary
 FIELD Contemporary is pleased to present a new body of ceramic and mixed
 media sculpture by California artist Sandra Osborne.
 
-Dead Letter is a reference to both the idea of the lost and undeliverable â€“
-the oblivion of the Dead Letter Office â€“ as well as the more obscure â€œdead
+Dead Letter is a reference to both the idea of the lost and undeliverable –
+the oblivion of the Dead Letter Office – as well as the more obscure “dead
 letter boxâ€  of the spy world â€“ a secret place through which messages are
 transmitted. The work in this exhibition is addressed to the frailty and
 imperfection of modes of transmission, including the slipperiness of the
@@ -34,7 +35,7 @@ wherein the traces of thought are hidden but not entirely destroyed. The
 stark blankness of porcelain mocks the accessibility of paper. Private
 letters are bundled and tied for keeping; notes are quickly folded and
 stuffed into niches. In other instances they are carefully arranged or set
-among other elementsâ€”presented for consideration as formal objects. There
+among other elements—presented for consideration as formal objects. There
 is an urge to touch, to open the envelopes and remove the letters, yet the
 â€œpaperâ€  is unyielding. In another series, vents and other incidental
 architectural elements subtly pierce the gallery space, suggesting an
@@ -55,8 +56,8 @@ She is currently an Affiliate Artist at Headlands Center for the Arts.
 Selected Works
 Graham Landin
 
-December 5th â€” December 27th, 2014
-Opening Thursday, December 4th, 6:00 â€” 10:00 PM.
+December 5th — December 27th, 2014
+Opening Thursday, December 4th, 6:00 — 10:00 PM.
 
 FIELD Satellite
 29 West Broadway

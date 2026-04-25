@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Acquisitions "
 emailDate: "Thu, 02 Oct 2025 19:10:08 -0700"
 number: 4
 type: "CALL"
+venue: "PoMoArts"
 summary: "PoMoArts | 2026 Ceramic Artist in Residence"
 ---
 

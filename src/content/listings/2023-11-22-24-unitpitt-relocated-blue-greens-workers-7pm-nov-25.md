@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 24
 type: "OPENING"
+venue: "UNIT/PITT (relocated)"
 summary: "UNIT/PITT (relocated) | Blue Greens Workers | 7PM | NOV 25"
 ---
 

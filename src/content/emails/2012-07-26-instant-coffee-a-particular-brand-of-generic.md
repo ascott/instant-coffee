@@ -17,7 +17,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-07-26-03-little-mountain-gallery-reality-jul-27">03. Little Mountain Gallery | Reality | JUL 27</a>
 <a href="/instant-coffee/listings/2012-07-26-04-shudder-gallery-studiocamp-jul-27">04. SHUDDER GALLERY | studioCAMP | JUL 27</a>
 <a href="/instant-coffee/listings/2012-07-26-05-access-gallery-the-secrets-of-building-an-alcohol-producing-">05. Access Gallery | The secrets of building an alcohol producing still | JUL 28</a>
-<a href="/instant-coffee/listings/2012-07-26-06-kootenay-school-of-writing-im-in-you-youre-in-me-cont-jul-28">06. Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me [cont.] | JUL 28</a>
+<a href="/instant-coffee/listings/2012-07-26-06-kootenay-school-of-writing-im-in-you-youre-in-me-cont-jul-28">06. Kootenay School of Writing | I’m In You, You’re In Me [cont.] | JUL 28</a>
 <a href="/instant-coffee/listings/2012-07-26-07-vivo-media-arts-centre-eden-veaudry-joining-the-periphery-ju">07. VIVO Media Arts Centre | Eden Veaudry: Joining The Periphery | JUL 28</a>
 <a href="/instant-coffee/listings/2012-07-26-08-vivo-education-call-for-entries-and-processing-vancouver-jul">08. VIVO Education | Call for Entries and Processing Vancouver | JUL 30</a>
 <a href="/instant-coffee/listings/2012-07-26-09-quinary-art-projects-the-material-glitch-jul-31">09. Quinary Art Projects | The Material Glitch | JUL 31</a>
@@ -39,7 +39,7 @@ Details for the exhibition are as follows:
 
 Night Shift
 Brady Cranfield and Jamie Hilder
-July 1 â€“ July 31, 2012
+July 1 – July 31, 2012
 Reception July 27 8:00pm
 
 Or Gallery is pleased to present Night Shift, a collaborative
@@ -50,17 +50,17 @@ market.
 In response to the idea that titanium dioxide, the primary ingredient
 in white paint, is used as an indicator of economic recovery, the
 artists will paint the walls of the gallery white every night for the
-duration of the exhibition. As the title implies, the artistsâ€™ labour
+duration of the exhibition. As the title implies, the artists’ labour
 will take place at night while the gallery is closed and will be
-performed for an amount of time equal to the galleryâ€™s regular
+performed for an amount of time equal to the gallery’s regular
 business hours. Several microphones will record the sounds of the
 painting and these sounds will be played back during the day while the
 gallery is open to the public. Over the course of the exhibition, as
 paint builds up on the wall, these sounds will also accrue after each
-nightâ€™s work, with each subsequent track layered on top of the
-previous nightâ€™s recordings.
+night’s work, with each subsequent track layered on top of the
+previous night’s recordings.
 
-This exhibition is part of Cranfield and Hilderâ€™s larger inquiry into
+This exhibition is part of Cranfield and Hilder’s larger inquiry into
 the â€œEconomistâ€™s Aestheticâ€  â€“ a term they use to describe the effects
 of the growing influence of the rhetoric of business upon global
 political discourse. The accumulation of paint and sound in Night
@@ -94,7 +94,7 @@ Dunlevy Snack Bar
 433 Dunlevy Ave
 
 The Commons in collaboration with Dunlevy Snack Bar are thrilled to 
-present a screening of Noam Gonickâ€™s groundbreaking feature Stryker. 
+present a screening of Noam Gonick’s groundbreaking feature Stryker. 
 Recently screened at the MMK (Frankfurt), Stryker was premiered at 
 the 2004 Venice Film Festival and is in the collection of MoMA, New 
 York.
@@ -213,7 +213,7 @@ technical system is actually physically shaped and how it operates
 when placed in our surrounding architecture? 
 
 MORE OR LESS is a whimsical manifestation of this relationship and 
-seeks to highlight and play with our â€˜more or lessâ€™ knowledge of how the 
+seeks to highlight and play with our ‘more or less’ knowledge of how the 
 built environment around us actually exists.
 
 Opening Reception: Friday July 27, 7pm
@@ -241,11 +241,11 @@ Sat. July 28th
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-07-26-06-kootenay-school-of-writing-im-in-you-youre-in-me-cont-jul-28">06. Kootenay School of Writing | Iâ€™m In You, Youâ€™re In Me [cont.] | JUL 28</a>
+<a href="/instant-coffee/listings/2012-07-26-06-kootenay-school-of-writing-im-in-you-youre-in-me-cont-jul-28">06. Kootenay School of Writing | I’m In You, You’re In Me [cont.] | JUL 28</a>
 ------------------------------------------------------------------------
 I'm In You, You're In Me [cont.]
 
-Iâ€™m In You, Youâ€™re In Me [cont.]
+I’m In You, You’re In Me [cont.]
 
 A Kootenay School of Writing summer series of poets presenting 
 poems / antipoems / language. 
@@ -271,16 +271,16 @@ After a certain age our memories are so intertwined with one another
 that what we are thinking of, the book we are reading, scarcely matters 
 anymore. We have put something of ourselves everywhere, everything 
 is fertile, everything is dangerous, and we can make discoveries no 
-less precious than in Pascal's PensÃ©es in an advertisement for soap.
+less precious than in Pascal's Pensées in an advertisement for soap.
 - from In Search of Lost Time, Vol V, The Captive & The Fugitive - 
 Marcel Proust
 
 Deepwater Horizon Heron
 
 Figure of flight, feathered longing on wings, 
-Living mirror of the soulâ€™s migration, 
+Living mirror of the soul’s migration, 
 
-Whose words are arcs of air, a singingâ€” 
+Whose words are arcs of air, a singing— 
 You, historian, mark the horizon, 
 
 And scan the depths from your axis of stillness 
@@ -289,8 +289,8 @@ To probe for what might swallow your hunger.
 When we build industrial mosquitoes 
 And lower our coke straws, our proboscis 
 
-Nosing into the oceanâ€™s dark abyss 
-Until it explodes, and abyss looks backâ€” 
+Nosing into the ocean’s dark abyss 
+Until it explodes, and abyss looks back— 
 
 No Twitter plumes, no blazings of anger, 
 No spill pools, no American swimwear 
@@ -376,7 +376,7 @@ residency. During her travels she was drawn to the flowers and plant
 life in Lima. The blossoms, stems and leaf morphology of plants were 
 embroidered into concrete, domestic textiles, car exhaust, metal gates, 
 signage and city lights, creating variegated botanical scapes. New 
-colours, forms and textures invited her to look closerâ€“for longer, and 
+colours, forms and textures invited her to look closer–for longer, and 
 study the plants in digital photographs and video.
 
 Peruvian textiles and weaving also caught Veaudry's attention for their 
@@ -390,7 +390,7 @@ pixilation and abstraction.
 Joining the Periphery is the act of suturing distanced viewing. Veaudry 
 brought her attention to micro-gazing back to Vancouver, and has been 
 observing botanic forms at foot level around the city. In the 
-presentation of her animate objects residency, Veaudryâ€™s attention to 
+presentation of her animate objects residency, Veaudry’s attention to 
 floral blooms will frame the space for her durational installation.
 
 Eden Veaudry (b.1981) lives and works in Vancouver.
@@ -549,18 +549,18 @@ Black & Yellow Gallery
 
 Contributing Artists
 
-Travis Collier â€“ Designer/BMX Rider
+Travis Collier – Designer/BMX Rider
 David Cohen - Designer
 Brad Harms - Artist
-Danny Vermette â€“ Artist/Sculptor/Visual Display
-Scott Lewis â€“ Artist/Label Head/Curator
-Andy Dixon â€“ Musician/Artist/Designer/Label Head
-Andrew Pommier â€“ Artist/Illustrator
-Shad K â€“ Musician/Spoken Word Artist
-Ehren Salazar â€“ Artist/Illustrator
-Christopher Smith â€“ Artist/Musician
-Ryan Romero â€“ Designer
-Ben Skinner â€“ Artist/Display Designer
+Danny Vermette – Artist/Sculptor/Visual Display
+Scott Lewis – Artist/Label Head/Curator
+Andy Dixon – Musician/Artist/Designer/Label Head
+Andrew Pommier – Artist/Illustrator
+Shad K – Musician/Spoken Word Artist
+Ehren Salazar – Artist/Illustrator
+Christopher Smith – Artist/Musician
+Ryan Romero – Designer
+Ben Skinner – Artist/Display Designer
 
 The show takes place at 7pm-11pm on Thursday, August 2nd.
 Black & Yellow Gallery Room 106 at The Waldorf Hotel.
@@ -634,7 +634,7 @@ Much of the visual art of the twenty-first century vivifies the formerly
 neutral, decorative surfaces that have surrounded the discussion, 
 production, and display of artworks: the gallery opening, the white 
 cube, the PowerPoint lecture, the auction house. And over the last 
-decade a renewed sense of artâ€™s expressive possibility has flourished 
+decade a renewed sense of art’s expressive possibility has flourished 
 as more stuff began to be treated as if it were art. A cloud of evaluative 
 anxiety accompanies this new art. Perhaps we have so much 
 information today that only its deficit can bring about a truly arresting 
@@ -761,7 +761,7 @@ http://www.facebook.com/mindofasnail
 We've got great references from previous landlords, good credit etc.
 We are ready to move anytime from now to October and are looking to 
 spend about $1000/month.
-email Jessica or ChloÃ© at mindofasnail@gmail.com
+email Jessica or Chloé at mindofasnail@gmail.com
 
 instant coffee: a particularly generic brandy
 

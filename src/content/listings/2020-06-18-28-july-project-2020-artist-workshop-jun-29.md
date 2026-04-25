@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 28
 type: "EDUCATION"
+venue: "July Project 2020"
 summary: "July Project 2020 | Artist Workshop | JUN 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 14
 type: ""
+venue: "THE POLYGON GALLERY"
 summary: "THE POLYGON GALLERY | Conversations on Response | MAR 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not nonsense but making no sense"
 emailDate: "Thu, 05 Nov 2009 03:27:25 -0800"
 number: 18
 type: ""
+venue: "TORONTO SCULPTURE GARDEN"
 summary: "TORONTO SCULPTURE GARDEN | CALL FOR PROPOSALS | deadline | JAN 15"
 ---
 
@@ -38,7 +39,7 @@ for sale after the conclusion of the exhibition.
 
 PROPOSALS:
 
-The TSGÂ¹s Art Advisory Board meets three times a year to review specific
+The TSG¹s Art Advisory Board meets three times a year to review specific
 proposals. Preference is given to new work that responds to the site; only
 in exceptional cases will existing work be considered. We are currently
 looking for exhibitions for 2011 and beyond. Proposals must be received by

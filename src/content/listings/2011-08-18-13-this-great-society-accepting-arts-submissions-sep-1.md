@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 13
 type: ""
+venue: "This Great Society"
 summary: "This Great Society | accepting arts submissions | SEP 1"
 ---
 

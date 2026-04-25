@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 36
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | REGENERATION: Indigenous Video Games | 8PM | OCT 19"
 ---
 

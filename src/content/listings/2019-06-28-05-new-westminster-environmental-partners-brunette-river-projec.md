@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 5
 type: "CALL"
+venue: "New Westminster Environmental Partners"
 summary: "New Westminster Environmental Partners | Brunette River Projects"
 ---
 

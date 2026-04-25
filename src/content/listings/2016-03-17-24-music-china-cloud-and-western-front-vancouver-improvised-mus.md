@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 24
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | China Cloud and Western Front | Vancouver Improvised Music Meeting 2016 | MAR 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 5
 type: ""
+venue: "Institutions by Artists"
 summary: "Institutions by Artists | The Festival | OCT 11"
 ---
 

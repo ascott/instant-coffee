@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 26
 type: ""
+venue: "TAIS ANIMATION SHOWCASE"
 summary: "TAIS ANIMATION SHOWCASE | CALL FOR SUBMISSIONS | MAY 16"
 ---
 
@@ -37,7 +38,7 @@ CANADA
 Please include the completed submission form (downloadable at
 www.tais.ca/animationshowcase_submissionform.pdf), an artist 
 bio and two
-film stills (tiff or jpg @ 300 dpi Â­ 2 x 3). Submission form, bio, films
+film stills (tiff or jpg @ 300 dpi ­ 2 x 3). Submission form, bio, films
 stills and download links may be emailed to tais@bellnet.ca or 
 included in
 mailed submission package. Please do not send large files via 

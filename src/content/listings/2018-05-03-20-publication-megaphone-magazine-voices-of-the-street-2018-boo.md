@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 20
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Megaphone Magazine | Voices of the Street 2018: Book Launch | MAY 16"
 ---
 

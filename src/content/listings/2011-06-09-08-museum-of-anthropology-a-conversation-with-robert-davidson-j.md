@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 8
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | A Conversation with Robert Davidson | JUN 12"
 ---
 
 Haida artist Robert Davidson will give a public talk about the exquisite
 designs of Charles Edenshaw and offer some interpretations based upon his
 study of this famous late 19th early 20th century Haida master artist.
-Robert Davidson, Guud San Glans, is one of Canadaâ€™s most respected and
+Robert Davidson, Guud San Glans, is one of Canada’s most respected and
 important contemporary artists. He is a leading figure in the renaissance
 of Haida art and culture. For more than thirty years, Robert Davidson has
 worked as an artist and has produced an internationally acclaimed body of
 work. His work is private and public collections internationally. He has
 received the Order of British Columbia, in 1996 was awarded the Order of
 Canada and in 2010 received the Audain prize for Lifetime Achievement and
-the prestigious Governor Generalâ€™s award.
+the prestigious Governor General’s award.
 
 June 12 at 1 PM
 

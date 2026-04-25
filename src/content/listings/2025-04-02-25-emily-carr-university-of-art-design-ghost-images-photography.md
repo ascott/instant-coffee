@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 25
 type: "TALK"
+venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | Ghost Images: Photography and Trace | APR 8"
 ---
 

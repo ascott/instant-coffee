@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: perpetual gong"
 emailDate: "Fri, 22 Apr 2016 12:30:51 -0700"
 number: 2
 type: ""
+venue: "NEWS"
 summary: "NEWS | VIVA Awards Recipients | Raymond Boisjoly and Kelly Lycan"
 ---
 

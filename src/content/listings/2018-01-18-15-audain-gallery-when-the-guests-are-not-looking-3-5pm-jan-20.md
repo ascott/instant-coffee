@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 15
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | When the Guests Are Not Looking | 3-5pm | JAN 20"
 ---
 

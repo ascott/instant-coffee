@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 10
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Artist's Tour - Lee Bul - in the Gallery | OCT 31"
 ---
 

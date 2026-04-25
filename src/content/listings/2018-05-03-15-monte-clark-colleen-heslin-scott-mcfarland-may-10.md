@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 15
 type: "OPENING"
+venue: "Monte Clark"
 summary: "Monte Clark | Colleen Heslin | Scott McFarland | MAY 10"
 ---
 

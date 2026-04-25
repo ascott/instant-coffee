@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 1
 type: ""
+venue: "CAG and Western Front"
 summary: "CAG and Western Front | Pablo Bronstein | OCT 28"
 ---
 
@@ -25,8 +26,8 @@ as a starting point, transforming a partly informative presentation on the
 gesture and space. Bronstein uses the subject of Caron, in some ways as a
 decoy to the subject of the 16th century intermezzo, an elaborate form of
 court entertainment often performed between acts of a play or at festivals
-and celebrations. When switching topics, Bronstein pronounces, ï¿½the power
-of the illusion on stage is rendered void.ï¿½ This seems to be true of the
+and celebrations. When switching topics, Bronstein pronounces, �the power
+of the illusion on stage is rendered void.� This seems to be true of the
 lecture on Caron, which, to illustrate the intermezzo, turns into a ballet
 that both disrupts and speaks to the format of the lecture.
 
@@ -46,11 +47,11 @@ rituals and paraphernalia, constructing his own mythologies of the past.
 There is a theatrical element in most of his work as he often casts himself
 as architect or choreographer. This is evident in Intermezzo. Bronstein has
 held recent solo exhibitions such as Pablo Bronstein at the Met, The
-Metropolitan Museum of Art, New York (2009); and Garden Ã  la Mode, a
+Metropolitan Museum of Art, New York (2009); and Garden à la Mode, a
 sculpture court commission for the Tate Britain, London (2010). He has
 participated in group exhibitions including London in Six Easy Steps, ICA,
-London (2005); Characters, Figures and Signs: Choreography as ï¿½Doingï¿½ and
-ï¿½Saying,ï¿½ Tate Modern, London (2009); and the 4th Bucharest Biennale,
+London (2005); Characters, Figures and Signs: Choreography as �Doing� and
+�Saying,� Tate Modern, London (2009); and the 4th Bucharest Biennale,
 Romania (2010). In addition, he has authored several books, including
 Postmodern Architecture in London (2007) and Pablo Bronstein: Ornamental
 Design for the Framing of Doors (2008) published by Koenig Books, London.
@@ -70,5 +71,5 @@ We are grateful for the support of Vancouver Foundation and our members,
 donors, and volunteers.
 
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
-www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 ï¿½ 6 pm.
+www.contemporaryartgallery.ca. Gallery Hours: Wed. - Sun. 12 � 6 pm.
 Admission is by donation.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 16
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | KWÍKWI | OCT 13"
 ---
 

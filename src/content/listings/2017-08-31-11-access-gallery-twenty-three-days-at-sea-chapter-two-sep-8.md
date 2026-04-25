@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 11
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Twenty-Three Days at Sea, Chapter Two | SEP 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: epistolary detours"
 emailDate: "Thu, 24 Sep 2015 15:50:26 -0700"
 number: 11
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | URGENT IMAGINATION: ART AND URBAN DEVELOPMENT | OCT 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 34
 type: "EDUCATION"
+venue: "Art + Technology LAB"
 summary: "Art + Technology LAB | Intro to Touch Designer: Synths | MAY 24"
 ---
 

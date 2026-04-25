@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Decision Tree"
 emailDate: "Wed, 28 Apr 2021 08:35:15 -0700"
 number: 34
 type: "CALL"
+venue: "Neutral Ground Artist-Run Centre"
 summary: "Neutral Ground Artist-Run Centre | Call for Proposals: Main Gallery & Window Gallery | JUN 1"
 ---
 

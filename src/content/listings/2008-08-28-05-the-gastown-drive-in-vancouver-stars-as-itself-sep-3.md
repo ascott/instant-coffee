@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 5
 type: ""
+venue: "THE GASTOWN DRIVE-IN"
 summary: "THE GASTOWN DRIVE-IN | Vancouver Stars as Itself | SEP 3"
 ---
 
@@ -16,7 +17,7 @@ level of the EasyPark parkade on Water Street will be transformed into a
 drive-in that welcomes drive-in, bike-in and walk-in audiences for a
 celebration of BC film.
 
-The theme of the film series is Ã¢ï¿½ï¿½Vancouver Stars as Itself.Ã¢ï¿½ï¿½ Featuring
+The theme of the film series is â��Vancouver Stars as Itself.â�� Featuring
 shorts and feature films that have been shot in part or wholly within the
 Metro Vancouver area, the drive-in will showcase the talents of BC
 filmmakers. The provocative venue for the film series is an enticement to
@@ -57,9 +58,9 @@ Alice and Martha is the tale of two women who earn their living at a
 tedious delivery job. The film follows the protagonists through their daily
 routine; against the backdrop of Vancouver, Martha monopolizes the
 conversation with her nostalgic memories of the old country, her
-disenchantment of modern-day life, and her dreams of escape. AliceÃ¢ï¿½ï¿½s
+disenchantment of modern-day life, and her dreams of escape. Aliceâ��s
 pent-up anxieties and emotions translate into anger as she is forced to
-respond to MarthaÃ¢ï¿½ï¿½s antics. She wonders if sheÃ¢ï¿½ï¿½ll be able to keep it
+respond to Marthaâ��s antics. She wonders if sheâ��ll be able to keep it
 together in the presence of her overbearing companion whose observations
 force her to question such a mundane existence. To what lengths will they
 go to escape their repetitive daily lives?
@@ -76,9 +77,9 @@ Fetching Cody is an edgy yet sweet romantic comedy set in the Downtown
 Eastside. Art Frankel (Baruchel) is a hustler and general lay-about who is
 head over heels in love with the luminous Cody (Lind). When she falls into
 a coma from an apparent overdose, it is up to Art to seek out the one
-person who offers him any kind of hope: his homeless friend HarveyÃ¢ï¿½ï¿½and the
+person who offers him any kind of hope: his homeless friend Harveyâ��and the
 time machine he found in a dumpster. Desperate to reach her, Art suspends
-disbelief and embarks on a quest through time and space, deep into CodyÃ¢ï¿½ï¿½s
+disbelief and embarks on a quest through time and space, deep into Codyâ��s
 past. A thought provoking and funny movie about the sacrifices people will
 make for love.
 
@@ -117,9 +118,9 @@ preceded by The Reincarnation of W (2008)
 Director: Yun Lam Li
 
 The Reincarnation of W is a metaphorical journey of W. It is set in the
-background of the re-construction of VancouverÃ¢ï¿½ï¿½s controversial WoodwardÃ¢ï¿½ï¿½s
+background of the re-construction of Vancouverâ��s controversial Woodwardâ��s
 building. Chapter One: As 8:30am approaches, clouds gather strength over
-VancouverÃ¢ï¿½ï¿½s Downtown Eastside. As water mist sprays over his hollow body, W
+Vancouverâ��s Downtown Eastside. As water mist sprays over his hollow body, W
 faces the moment he hopes will lead to enlightenment. Chapter Two: The
 journey of W is now complete. He waits for his turn to reincarnate while
 solemnly watching the world he left behind.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Tue, 09 Dec 2025 00:15:09 -0800"
 number: 15
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Open Studios with Claudia Goulet-Blais | DEC 14"
 ---
 

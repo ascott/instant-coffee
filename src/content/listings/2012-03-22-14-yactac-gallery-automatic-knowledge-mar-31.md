@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 14
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Automatic Knowledge | MAR 31"
 ---
 

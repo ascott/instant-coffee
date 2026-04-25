@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please don't feed the silly goose"
 emailDate: "Thu, 23 Apr 2009 09:40:17 -0700"
 number: 2
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | The Wild so Close | APR 24"
 ---
 

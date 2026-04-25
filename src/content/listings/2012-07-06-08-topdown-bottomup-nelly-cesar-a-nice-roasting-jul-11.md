@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sometimes the lazy route is the ri
 emailDate: "Thu, 05 Jul 2012 18:40:14 -0700"
 number: 8
 type: ""
+venue: "Topdown Bottomup"
 summary: "Topdown Bottomup | Nelly Cesar | A Nice Roasting | JUL 11"
 ---
 
-artist run event: a performance by nelly cÃ©sar. 
+artist run event: a performance by nelly césar. 
 
-nelly cÃ©sar will present a different version, co-opting / appropriating / 
+nelly césar will present a different version, co-opting / appropriating / 
 shifting / ameliorating sophia bartholomew's project and installation 
 A/VERSION in the topdown bottomup gallery space.
 

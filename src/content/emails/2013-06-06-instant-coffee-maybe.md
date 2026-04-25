@@ -255,7 +255,7 @@ Running from May 9 to August 17, 2013, The Biography of Images: Parallel
 Biographies is the third in a series of group exhibitions from the Austrian
 Federal Photography Collection, in this case bringing together artists from
 Vienna and Vancouver. The exhibition includes work by the Vienna-based
-artists Thomas Freiler, KrÃƒÂ¼ger & Pardeller, Tatiana Lecomte, Christian
+artists Thomas Freiler, KrÃ¼ger & Pardeller, Tatiana Lecomte, Christian
 Mayer, Sissa Micheli, and Anita Witek, and the Vancouver-based artists Arni
 Haraldsson, Tim Lee, Kyla Mallett, Jayce Salloum, Kevin Schmidt, and
 Elizabeth Zvonar.
@@ -266,7 +266,7 @@ Ministry for Education, Arts and Culture (BMUKK).
 
 Upcoming Event
 
-Artist Talk with Arni Haraldsson and Jayce Salloum Â¨July 18, 6pm, Audain
+Artist Talk with Arni Haraldsson and Jayce Salloum ¨July 18, 6pm, Audain
 Gallery
 
 --------- --------- --------- --------- --------
@@ -275,7 +275,7 @@ Brady Cranfield | Gallery Assistant
 Audain Gallery 
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 Ã¢ï¿½ï¿½ 149 West Hastings
+#3275 â�� 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102 
 E: info@audaingallery.ca 
@@ -629,7 +629,7 @@ the first place, the painting remained green. As soon as he used a
 different color, the disturbance that resulted was so great that he covered
 it with green again. For a while he thought that the treacherous female
 soul (treachery no doubt its most important element alongside emptiness)
-could appear as a cubist lemon-yellow spiral among the greenâ€“a shape more
+could appear as a cubist lemon-yellow spiral among the green–a shape more
 or less like one of those sofa-springs that winds crookedly upward. But,
 alas, painting is color as well as form. The yellow refused to meld with
 the massive green of his chive allegory. He had no choice but to remove the
@@ -746,7 +746,7 @@ relevant, responsive and responsible partner in the cultural and economic
 development of the design industry in Vancouver.
 
 A site-specific installation Perched-in-Chinatown brings the exhibition
-into Gardenâ€™s outdoor space. This work features 9 unique birdhouses
+into Garden’s outdoor space. This work features 9 unique birdhouses
 engagingly interspersed among the architectural and horticultural elements
 of this famous garden. Take a tour of the garden and discover how these
 design objects can augment or mediate your experience of this elegantly
@@ -790,7 +790,7 @@ and Michelle Jacques (Chief Curator, Art Gallery of Greater Victoria). This
 will be followed by a reception at the Contemporary Art Gallery with
 traditional Trini Roti for purchase.
 
-Funded by the UBC PresidentÃ¢ï¿½ï¿½s Endowment Fund in partnership with the
+Funded by the UBC Presidentâ��s Endowment Fund in partnership with the
 Roundhouse Community Arts and Recreation Centre and the CAG.
 
 
@@ -1295,15 +1295,15 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. admin@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 
 Unsubscribe | View in Browser Copyright (C) 2011 Western Front Society
 All rights reserved
 
-Sent to vancouver@instantcoffee.org â€” why did I get this?
+Sent to vancouver@instantcoffee.org — why did I get this?
 unsubscribe from this list | update subscription preferences
-Western Front Society Â· 303 East 8th Ave. Â· Vancouver, BC V5T 1S1 
+Western Front Society · 303 East 8th Ave. · Vancouver, BC V5T 1S1 
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-06-06-26-cineworks-gracenotes-jun-19">26. Cineworks | GRACENOTES | JUN 19</a>

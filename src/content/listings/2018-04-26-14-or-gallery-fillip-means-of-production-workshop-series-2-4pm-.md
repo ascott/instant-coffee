@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 14
 type: "EDUCATION"
+venue: "Or Gallery"
 summary: "Or Gallery | Fillip | Means of Production Workshop Series | 2-4PM | APR 28"
 ---
 

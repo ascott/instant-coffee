@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 9
 type: "PERFORMANCE"
+venue: "grunt gallery"
 summary: "grunt gallery | MARCH OF THE MONARCH | A public performance by David Khang | AUG 30"
 ---
 

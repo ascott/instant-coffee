@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 32
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Capture @ The Cinematheque | Wavelength + Blow-Up | APR 22"
 ---
 
@@ -12,15 +13,15 @@ Capture Photography Festival presents
 WAVELENGTH + BLOW-UP
 April 22, 24 - 7:00pm
 
-VANCOUVER â€” The Cinematheque and the second annual Capture Photography
+VANCOUVER — The Cinematheque and the second annual Capture Photography
 Festival present two masterworks from the mid-'60s that explore the
 intersection between photography and cinema: Canadian great Michael Snow's
 iconic Wavelength (1967), and Michelangelo Antonioni's landmark
 English-language debut, Blow-Up (1966).
 
 Curated by Vancouver-based artist Casey Wei, this two-film program draws
-thematic lines between Snow's legendary 45-minute continuous zoom â€” one of
-avant-garde cinema's most celebrated and influential works â€” and
+thematic lines between Snow's legendary 45-minute continuous zoom — one of
+avant-garde cinema's most celebrated and influential works — and
 Antonioni's critically-lauded tale of a swinging '60s fashion photographer
 (David Hemmings) who begins to lose his grip on reality when he
 inadvertently photographs a murder.

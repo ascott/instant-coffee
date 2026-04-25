@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 8
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Pacific Crossings: Dispatches from Manila | AUG 13"
 ---
 

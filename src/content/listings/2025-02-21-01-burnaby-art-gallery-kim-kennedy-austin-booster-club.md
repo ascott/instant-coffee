@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Kim Kennedy Austin: Booster Club"
 ---
 

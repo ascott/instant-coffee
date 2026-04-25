@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 17
 type: "CALL"
+venue: "Stride Gallery, Calgary AB"
 summary: "Stride Gallery, Calgary AB | OPEN CALL FOR SUBMISSIONS | JAN 15"
 ---
 

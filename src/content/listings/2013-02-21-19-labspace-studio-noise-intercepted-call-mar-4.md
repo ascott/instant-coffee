@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LUV SEX LUV SEX LUV SEX LUV SEX"
 emailDate: "Thu, 21 Feb 2013 12:09:48 -0800"
 number: 19
 type: ""
+venue: "Labspace Studio"
 summary: "Labspace Studio | Noise Intercepted | CALL | MAR 4"
 ---
 

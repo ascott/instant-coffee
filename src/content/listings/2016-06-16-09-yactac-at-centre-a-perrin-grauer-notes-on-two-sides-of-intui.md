@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
 emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
 number: 9
 type: "OPENING"
+venue: "Yactac at Centre A"
 summary: "Yactac at Centre A | Perrin Grauer: NOTES on TWO SIDES of Intuition | JUN 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Richmond Art Gallery | Multilingual Screening & Discussion | 630-830PM | OCT 19"
 ---
 

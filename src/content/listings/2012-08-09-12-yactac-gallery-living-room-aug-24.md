@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a perfectly rational adjustment to
 emailDate: "Thu, 09 Aug 2012 11:10:38 -0700"
 number: 12
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Living Room | AUG 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 28
 type: ""
+venue: "Geist"
 summary: "Geist | workshop: Writing the Narrative Scene | MAY 21"
 ---
 
@@ -26,9 +27,9 @@ Visit Caroline's website
 Writing the Narrative Scene
 Location: Listel Hotel, 1300 Robson Street, Vancouver BC
 Date: Saturday, May 21, 2011
-Time: 1:00 â€“ 4:00 pm
+Time: 1:00 – 4:00 pm
 Price: $50 (includes a one-year subscription to Geist for yourself or 
 a friend) 
-To register click here or call us at 604â€“681â€“9161
+To register click here or call us at 604–681–9161
 
 Geist, 210 - 111 West Hastings Street, Vancouver BC V6B 1H4.

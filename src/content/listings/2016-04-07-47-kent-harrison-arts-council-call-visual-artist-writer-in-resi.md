@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 47
 type: "CALL"
+venue: "Kent Harrison Arts Council"
 summary: "Kent Harrison Arts Council | Call: Visual Artist / Writer in Residence | JUN 1"
 ---
 

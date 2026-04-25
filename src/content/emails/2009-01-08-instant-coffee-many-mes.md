@@ -104,9 +104,9 @@ Hof indicates a formal interest in minimalist sculpture, but negotiates this
 oeuvre with his own interests that would be at odds with historical
 Minimalism. He continues to collapse the distinction between the hand made,
 high art and everyday objects, but creatively misconstrues the objectives of
-his predecessors. His are subversive rearticulations of MinimalismÂ¹s
+his predecessors. His are subversive rearticulations of Minimalism¹s
 aesthetic which subtly defy its anti symbolic stance. While recalling Carl
-AndreÂ¹s brick sculptures, he undermines the supposed neutrality of such
+Andre¹s brick sculptures, he undermines the supposed neutrality of such
 work. The glacial reproduction of commercial bricks into cast acrylic latex
 fakes (made by Hof himself over a four month period, no less) are stacked
 and arranged in a cube. Its placement on a plinth co-opts the minimal
@@ -455,7 +455,7 @@ cooking
 and eating while raising questions about the status of this genre within
 the history of thought. Among the texts included in Thought for Food is How
 to Cook and Eat in Chinese by Buwei Yang Chao, considered one of North
-AmericaÃ¢ï¿½ï¿½s first introductions to Chinese cooking. VehicleÃ¢ï¿½ï¿½s
+Americaâ��s first introductions to Chinese cooking. Vehicleâ��s
 inaugural reading room sets the stage for a series of programs that
 connects rituals of food to current economic, political, and cultural
 conditions. Weekly programs include:
@@ -617,30 +617,30 @@ RAPPEL: APPEL A PROJETS
 
 DATE LIMITE: LE 16 JANVIER 2009, 17:00HR
 
-Twenty + Change est une sÃ©rie continue d'expositions mettant en Ã©vidance
+Twenty + Change est une série continue d'expositions mettant en évidance
 des designersoeuvrant dans les domaines de l'architecture, l'architecture
-du paysage et le design urbain. La premiÃ¨re edition Twenty + Change en 2007
-avait comme but de prÃ©senter le travail des designers torontois en debut de
-carriÃ¨re. Compte tenu du succÃ¨s et de l'intÃ©ret gÃ©nÃ©ral porte sur cette
-premiÃ¨re exposition, la prochaine Ã©dition de Twenty + Change parcourira le
+du paysage et le design urbain. La première edition Twenty + Change en 2007
+avait comme but de présenter le travail des designers torontois en debut de
+carrière. Compte tenu du succès et de l'intéret général porte sur cette
+première exposition, la prochaine édition de Twenty + Change parcourira le
 Canada au complet, et donc est a la recherche de projets Ã  travers le pays.
 
 Appel Ã  projets pour l'exposition :
 
 Twenty + Change cherche Ã  Ã©tablir un forum public pour des jeunes designers
-en debut decarrieres n'ayant pas encore recus une attention mÃ©diatique ni
-une reconnaissance du public pour leur travail thÃ©orique ou pour leurs
-oeuvres realisÃ©es. Le comitÃ© organisateur de Twenty + Change invite en ce
+en debut decarrieres n'ayant pas encore recus une attention médiatique ni
+une reconnaissance du public pour leur travail théorique ou pour leurs
+oeuvres realisées. Le comité organisateur de Twenty + Change invite en ce
 moment les jeunes firmes Ã©mergentes au Canada Ã  soumettre des projets qui
-pourraient Ã©ventuellement Ãªtre inclus dans la prochaines exposition, qui
+pourraient éventuellement être inclus dans la prochaines exposition, qui
 sera lancÃ©e le 3 juin 2009 et part la suite voyagera Ã  travers le pays. Les
 projets choisis seront inclus dans le catalogue de l'exposition qui sera
 disponible a partir du l'ouverture de l'exposition Twenty + Change 2009.
 
-Les projets seront choisis par un comitÃ© de sÃ©lection comprenant
+Les projets seront choisis par un comité de sélection comprenant
 praticiens, Ã©crivains, et professeurs Å&#65533;uvrant dans les domaines de
 lâ&#65533;&#65533;architecture, de lâ&#65533;&#65533;architecture du paysage, du design urbain, ou de
-disciplines connexes. Le comitÃ© de sÃ©lection inclus :
+disciplines connexes. Le comité de sélection inclus :
 
 Joost Bakker, Principal, Hotson Bakker Boniface Haden architects +
 urbanistes, Vancouver
@@ -648,7 +648,7 @@ urbanistes, Vancouver
 Ian Chodikoff, Editeur, revue Canadian Architect
 
 Anne Cormier, Directrice, Ã&#65533;cole dâ&#65533;&#65533;architecture de lâ&#65533;&#65533;UniversitÃ© de MontrÃ©al,
-MontrÃ©al
+Montréal
 
 Christine Macy, Doyenne, Faculty of Architecture and Planning at Dalhousie
 University, Halifax
@@ -656,12 +656,12 @@ University, Halifax
 Chris Pommer, Principal, PLANT Architect Inc., Toronto
 
 La date limite pour la reception des soumissions est le 16 janvier 2009 a
-17:00 heures. PriÃ¨re de consulter fichier pdf ci-joint pour les critÃ¨res de
+17:00 heures. Prière de consulter fichier pdf ci-joint pour les critères de
 soumission.
 
 La date limite pour la reception des soumissions est le 16 janvier 2009 Ã 
 17:00 heures. Veuilleznoter que les critÃ¨res de soumission ont Ã©tÃ© mis Ã 
-jour. PriÃ¨re de consulter fichier pdf ci-joint pourles critÃ¨res de soumission.
+jour. Prière de consulter fichier pdf ci-joint pourles critères de soumission.
 
 Pour toutes informations supplementaires consultez le site
 www.twentyandchange.org
@@ -733,7 +733,7 @@ Through the Regions of;
 Albi, Amarillo, Firenze, London, Celebration,
 N______, The Atlantic Ocean, Trento, Marfa, Cornwall,
 The Mississippi River, New Westminster, Spaceport, Barmouth,
-Old Schoolhouse Road, Milton Keynes, KÃ¶ln, ________,
+Old Schoolhouse Road, Milton Keynes, Köln, ________,
 South Holland Polders, Lascaux II, &,
 
 Comprising Incidents Inhabited by the Author
@@ -1387,9 +1387,9 @@ Hof indicates a formal interest in minimalist sculpture, but negotiates this
 oeuvre with his own interests that would be at odds with historical
 Minimalism. He continues to collapse the distinction between the hand made,
 high art and everyday objects, but creatively misconstrues the objectives of
-his predecessors. His are subversive rearticulations of MinimalismÂ¹s
+his predecessors. His are subversive rearticulations of Minimalism¹s
 aesthetic which subtly defy its anti symbolic stance. While recalling Carl
-AndreÂ¹s brick sculptures, he undermines the supposed neutrality of such
+Andre¹s brick sculptures, he undermines the supposed neutrality of such
 work. The glacial reproduction of commercial bricks into cast acrylic latex
 fakes (made by Hof himself over a four month period, no less) are stacked
 and arranged in a cube. Its placement on a plinth co-opts the minimal
@@ -1559,11 +1559,11 @@ Michael Turner, LA><ART, the Simon Fraser University School for the
 Contemporary Arts, The Canada Council for the Arts, The BC Arts Council,
 The BC Gaming Commission and the City of Vancouver.
 
-Ã¯Â¿Â¼
+ï¿¼
 
 Emily Carr Co-op Student Curators Exhibition:
 
-Ã¯Â¿Â¼
+ï¿¼
 
 Julian Geoghegan & Simon de BrÃ&#65533;Â©e
 Parametric Fraternity
@@ -1740,7 +1740,7 @@ cooking
 and eating while raising questions about the status of this genre within
 the history of thought. Among the texts included in Thought for Food is How
 to Cook and Eat in Chinese by Buwei Yang Chao, considered one of North
-AmericaÃ¢ï¿½ï¿½s first introductions to Chinese cooking. VehicleÃ¢ï¿½ï¿½s
+Americaâ��s first introductions to Chinese cooking. Vehicleâ��s
 inaugural reading room sets the stage for a series of programs that
 connects rituals of food to current economic, political, and cultural
 conditions. Weekly programs include:
@@ -1902,30 +1902,30 @@ RAPPEL: APPEL A PROJETS
 
 DATE LIMITE: LE 16 JANVIER 2009, 17:00HR
 
-Twenty + Change est une sÃ©rie continue d'expositions mettant en Ã©vidance
+Twenty + Change est une série continue d'expositions mettant en évidance
 des designersoeuvrant dans les domaines de l'architecture, l'architecture
-du paysage et le design urbain. La premiÃ¨re edition Twenty + Change en 2007
-avait comme but de prÃ©senter le travail des designers torontois en debut de
-carriÃ¨re. Compte tenu du succÃ¨s et de l'intÃ©ret gÃ©nÃ©ral porte sur cette
-premiÃ¨re exposition, la prochaine Ã©dition de Twenty + Change parcourira le
+du paysage et le design urbain. La première edition Twenty + Change en 2007
+avait comme but de présenter le travail des designers torontois en debut de
+carrière. Compte tenu du succès et de l'intéret général porte sur cette
+première exposition, la prochaine édition de Twenty + Change parcourira le
 Canada au complet, et donc est a la recherche de projets Ã  travers le pays.
 
 Appel Ã  projets pour l'exposition :
 
 Twenty + Change cherche Ã  Ã©tablir un forum public pour des jeunes designers
-en debut decarrieres n'ayant pas encore recus une attention mÃ©diatique ni
-une reconnaissance du public pour leur travail thÃ©orique ou pour leurs
-oeuvres realisÃ©es. Le comitÃ© organisateur de Twenty + Change invite en ce
+en debut decarrieres n'ayant pas encore recus une attention médiatique ni
+une reconnaissance du public pour leur travail théorique ou pour leurs
+oeuvres realisées. Le comité organisateur de Twenty + Change invite en ce
 moment les jeunes firmes Ã©mergentes au Canada Ã  soumettre des projets qui
-pourraient Ã©ventuellement Ãªtre inclus dans la prochaines exposition, qui
+pourraient éventuellement être inclus dans la prochaines exposition, qui
 sera lancÃ©e le 3 juin 2009 et part la suite voyagera Ã  travers le pays. Les
 projets choisis seront inclus dans le catalogue de l'exposition qui sera
 disponible a partir du l'ouverture de l'exposition Twenty + Change 2009.
 
-Les projets seront choisis par un comitÃ© de sÃ©lection comprenant
+Les projets seront choisis par un comité de sélection comprenant
 praticiens, Ã©crivains, et professeurs Å&#65533;uvrant dans les domaines de
 lâ&#65533;&#65533;architecture, de lâ&#65533;&#65533;architecture du paysage, du design urbain, ou de
-disciplines connexes. Le comitÃ© de sÃ©lection inclus :
+disciplines connexes. Le comité de sélection inclus :
 
 Joost Bakker, Principal, Hotson Bakker Boniface Haden architects +
 urbanistes, Vancouver
@@ -1933,7 +1933,7 @@ urbanistes, Vancouver
 Ian Chodikoff, Editeur, revue Canadian Architect
 
 Anne Cormier, Directrice, Ã&#65533;cole dâ&#65533;&#65533;architecture de lâ&#65533;&#65533;UniversitÃ© de MontrÃ©al,
-MontrÃ©al
+Montréal
 
 Christine Macy, Doyenne, Faculty of Architecture and Planning at Dalhousie
 University, Halifax
@@ -1941,12 +1941,12 @@ University, Halifax
 Chris Pommer, Principal, PLANT Architect Inc., Toronto
 
 La date limite pour la reception des soumissions est le 16 janvier 2009 a
-17:00 heures. PriÃ¨re de consulter fichier pdf ci-joint pour les critÃ¨res de
+17:00 heures. Prière de consulter fichier pdf ci-joint pour les critères de
 soumission.
 
 La date limite pour la reception des soumissions est le 16 janvier 2009 Ã 
 17:00 heures. Veuilleznoter que les critÃ¨res de soumission ont Ã©tÃ© mis Ã 
-jour. PriÃ¨re de consulter fichier pdf ci-joint pourles critÃ¨res de soumission.
+jour. Prière de consulter fichier pdf ci-joint pourles critères de soumission.
 
 Pour toutes informations supplementaires consultez le site
 www.twentyandchange.org
@@ -2018,7 +2018,7 @@ Through the Regions of;
 Albi, Amarillo, Firenze, London, Celebration,
 N______, The Atlantic Ocean, Trento, Marfa, Cornwall,
 The Mississippi River, New Westminster, Spaceport, Barmouth,
-Old Schoolhouse Road, Milton Keynes, KÃ¶ln, ________,
+Old Schoolhouse Road, Milton Keynes, Köln, ________,
 South Holland Polders, Lascaux II, &,
 
 Comprising Incidents Inhabited by the Author

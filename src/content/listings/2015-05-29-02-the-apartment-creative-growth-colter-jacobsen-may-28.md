@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 2
 type: "OPENING"
+venue: "The Apartment"
 summary: "The Apartment | Creative Growth & Colter Jacobsen | MAY 28"
 ---
 
@@ -21,9 +22,9 @@ gallery artists from Creative Growth. For over 42 years, Creative Growth
 Art Center, in Oakland, California, has served as a studio space and
 gallery for people with developmental, physical and mental disabilities.
 Believed to be the oldest and largest such program in the world, the
-Centerâ€™s philosophy is to allow for the creative talent in every person to
+Center’s philosophy is to allow for the creative talent in every person to
 develop. Currently serving over 160 artists, it has been a model program
-for numerous others world-wide. Creative Growthâ€™s goal is to have its
+for numerous others world-wide. Creative Growth’s goal is to have its
 people be seen as leading contemporary artists, and is proud to have three
 of them to be the only artists with developmental disabilities to have
 their work acquired by the Museum of Modern Art, New York.
@@ -57,7 +58,7 @@ others one may weave idle tapestries of mystery."
 -Gavin Maxwell from Ring of Bright Water
 
 The Apartment is thrilled to present a solo exhibition of San Francisco
-based artist Colter Jacobsen. Jacobsenâ€™s latest work continues to
+based artist Colter Jacobsen. Jacobsen’s latest work continues to
 incorporate sculpture and collage alongside his technically adroit
 drawings, using primarily found materials and a deep sense of poetic
 contemplation. Jacobsen has exhibited his work around the world including

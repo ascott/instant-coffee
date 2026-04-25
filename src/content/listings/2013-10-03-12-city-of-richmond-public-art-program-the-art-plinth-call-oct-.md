@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 12
 type: ""
+venue: "City of Richmond Public Art Program"
 summary: "City of Richmond Public Art Program | the Art Plinth | CALL | OCT 7"
 ---
 

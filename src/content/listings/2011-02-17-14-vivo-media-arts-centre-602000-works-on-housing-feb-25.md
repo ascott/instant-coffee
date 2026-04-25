@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is elementally fundamental. HELL Y
 emailDate: "Thu, 17 Feb 2011 11:28:21 -0800"
 number: 14
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | 602,000: WORKS ON HOUSING | FEB 25"
 ---
 

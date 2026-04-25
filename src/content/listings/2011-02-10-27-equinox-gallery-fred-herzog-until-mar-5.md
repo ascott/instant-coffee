@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 27
 type: ""
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | FRED HERZOG | until | MAR 5"
 ---
 

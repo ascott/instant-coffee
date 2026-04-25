@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 4
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Moon Gate | 630PM | MAY 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 8
 type: "OPENING"
+venue: "Yactac @ Red Gate Arts Society"
 summary: "Yactac @ Red Gate Arts Society | Sanho Mansion, Rejina Kim , Peggy and Karen Ngan | DEC 15"
 ---
 

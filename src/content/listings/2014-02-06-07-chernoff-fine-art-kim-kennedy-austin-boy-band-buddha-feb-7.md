@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a suburban side effect"
 emailDate: "Thu, 06 Feb 2014 15:55:10 -0800"
 number: 7
 type: ""
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | Kim Kennedy Austin: Boy Band Buddha | FEB 7"
 ---
 
@@ -24,8 +25,8 @@ reincarnation of a Tibetan Lama or Tulku.
 Tweets culled from the twitter page of Abz Love are presented as Zen 
 Koans for contemplation. Utilizing as research material for her 
 knowledge of Buddhism such enlightened sources as the 1986 Eddie 
-Murphy movie The Golden Child, Hermann Hesseâ€™s novel Siddhartha, 
-Vicki MacKenzieâ€™s book Reincarnation: The Boy Lama, a BBC4 
+Murphy movie The Golden Child, Hermann Hesse’s novel Siddhartha, 
+Vicki MacKenzie’s book Reincarnation: The Boy Lama, a BBC4 
 program The Reluctant Lama along with a smattering of Wikipedia 
 pages, this exhibition posits a surely fundamental misreading and 
 misrepresentation of Tibetan Buddhism. 

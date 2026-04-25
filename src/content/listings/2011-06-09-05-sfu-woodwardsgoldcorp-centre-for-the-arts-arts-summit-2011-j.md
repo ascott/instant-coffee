@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 5
 type: ""
+venue: "SFU Woodward's/Goldcorp Centre for the Arts"
 summary: "SFU Woodward's/Goldcorp Centre for the Arts | Arts Summit 2011 | JUN 10"
 ---
 

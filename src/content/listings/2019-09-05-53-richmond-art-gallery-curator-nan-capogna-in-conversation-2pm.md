@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 53
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Curator Nan Capogna in Conversation | 2PM | SEP 15"
 ---
 

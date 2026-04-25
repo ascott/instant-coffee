@@ -4,22 +4,23 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 28
 type: ""
+venue: "Emily Carr University"
 summary: "Emily Carr University | On Edge Series - Fall Schedule | SEP 19"
 ---
 
 All readings are at 7 pm on Thursdays in SB 406 at Emily Carr University of 
 Art + Design:
 
-Sept 19 â€“ Joanne Arnott + Gregory Scofield
+Sept 19 – Joanne Arnott + Gregory Scofield
 Special event: launch of Joanne Arnott's new book, A Night for the Lady
 
-Oct 3 â€“ Mercedes Eng + Alex Leslie
+Oct 3 – Mercedes Eng + Alex Leslie
 
-Oct 17 â€“ Gillian Wigmore + Hannah Calder
+Oct 17 – Gillian Wigmore + Hannah Calder
 
-Nov 7 â€“ Susan Holbrook + Nicole Markotic
+Nov 7 – Susan Holbrook + Nicole Markotic
 
-Nov 21 â€“ Colin Browne + Phinder Dulai
+Nov 21 – Colin Browne + Phinder Dulai
 
 Author bios:
 
@@ -34,13 +35,13 @@ in local and national literary organizations, and a self-employed mother of six
 young people.
 
 Gregory Scofield has written many books of poetry, including: Louis (2011), 
-Kipocihkan: Poems New & Selected (2009), I Knew Two MÃ©tis Women (1999, 
+Kipocihkan: Poems New & Selected (2009), I Knew Two Métis Women (1999, 
 republished 2010), Love Medicine and One Song (1997, rereleased 2009), 
 Native Canadiana: Songs from the Urban Rez (1996), and The Gathering: 
 Stones for the Medicine Wheel (1993). He is known for blending storytelling, 
 song, spoken word and the Cree language. His maternal ancestry can be 
 traced back to the fur trade and to the Metis community of Kinosota, 
-Manitoba, established in 1828 by the Hudsonâ€™s Bay Company. His poetry and 
+Manitoba, established in 1828 by the Hudson’s Bay Company. His poetry and 
 memoir, Thunder Through My Veins (1999) is taught at numerous universities. 
 He has served as Writer-in-Residence at the University of Manitoba and 
 Memorial University of Newfoundland.
@@ -91,7 +92,7 @@ Body). She currently publishes a poetry chapbook series, Wrinkle Press,
 which includes work by Robert Kroetsch, Nikki Reimer, and Fred Wah, and is 
 working on a poetry manuscript, tentatively titled Micro-managing.
 
-Susan Holbrookâ€™s poetry books are the Trillium-nominated Joy Is So 
+Susan Holbrook’s poetry books are the Trillium-nominated Joy Is So 
 Exhausting (Coach House 2009), Good Egg Bad Seed (Nomados 2004) and 
 misled (Red Deer 1999), which was shortlisted for the Pat Lowther Memorial 
 Award and the Stephan G. Stephansson Award. She teaches North 
@@ -99,13 +100,13 @@ American literatures and Creative Writing at the University of Windsor. She
 recently co-edited The Letters of Gertrude Stein and Virgil Thomson: 
 Composition as Conversation (Oxford U P, 2010).
 
-Colin Browneâ€™s most recent book of poetry, The Properties (2012), was 
-described by Daphne Marlatt as â€œa major work from a poet writing at the peak 
+Colin Browne’s most recent book of poetry, The Properties (2012), was 
+described by Daphne Marlatt as “a major work from a poet writing at the peak 
 of both outrage and love." Browne is also the author of Abraham (Brick Books, 
 1987); the critically acclaimed collection of poetry Ground Water (Talonbooks, 
-2002), which was nominated for a Governor Generalâ€™s Literary Award and a 
+2002), which was nominated for a Governor General’s Literary Award and a 
 Dorothy Livesay Poetry Prize; and The Shovel (Talonbooks, 2007), shortlisted 
-for the 2008 ReLit Award. Browneâ€™s films include Linton Garner: I Never Said 
+for the 2008 ReLit Award. Browne’s films include Linton Garner: I Never Said 
 Goodbye (2003), Father and Son (1992) and White Lake (1989), which was 
 nominated for a Genie for Best Feature Length Documentary.
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 12
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Damian Moppett & Andrea Pinheiro | JUL 8"
 ---
 
-Satellite Gallery | Opening Reception: Not Photographsâ€”
+Satellite Gallery | Opening Reception: Not Photographs—
 Damian Moppett & Andrea Pinheiro | July 8th
 
 Date: July 8th
@@ -19,7 +20,7 @@ images are built. Moppett utilizes an array of computer-
 generated drawing tools to elaborate and adulterate existing 
 photographs, while Pinheiro physically paints on small 
 photographs, then scans and enlarges the subsequent images 
-to larger size. Both artistsâ€™ techniques arise out of histories of 
+to larger size. Both artists’ techniques arise out of histories of 
 collage and montage. However, their photographs hover at an 
 uneasy interstice between matrix and image, and at a point 
 where form and content are peculiarly fluid. While the results 
@@ -49,7 +50,7 @@ Algoma University, Ontario.
 This exhibition is curated by Reid Shier and organized by 
 Presentation House Gallery.
 Presentation House Gallery gratefully acknowledges the 
-Michael Oâ€™Brian Family Foundation for its generous support of 
+Michael O’Brian Family Foundation for its generous support of 
 Satellite Gallery.
 
 Satellite Gallery

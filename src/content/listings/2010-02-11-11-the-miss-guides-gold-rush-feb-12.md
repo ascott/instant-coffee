@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we'll keep the light on for you"
 emailDate: "Thu, 11 Feb 2010 10:30:16 -0800"
 number: 11
 type: ""
+venue: "The Miss Guides"
 summary: "The Miss Guides | GOLD RUSH! | FEB 12"
 ---
 
 The Miss Guides: A Cultural Walking Collective Present:
-Gold has always had this kind of magic Â¦ It's never been clear if we have
+Gold has always had this kind of magic ¦ It's never been clear if we have
 gold -- or gold
 GOLD RUSH! Art, Bars & Speculation is a new urban walk/performance by The Miss
 Guides, presented by the Vancouver Organizing Committee for the 2010

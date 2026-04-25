@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Vancouver Public Art Program"
 summary: "Vancouver Public Art Program | Platforms: Nine Places for Seeing"
 ---
 

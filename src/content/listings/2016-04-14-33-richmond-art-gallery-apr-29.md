@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 33
 type: "OPENING"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery |  | APR 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 16
 type: "TALK"
+venue: "CAG @ ECU"
 summary: "CAG @ ECU | John Wood and Paul Harrison | FEB 15"
 ---
 

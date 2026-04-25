@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 16
 type: "OPENING"
+venue: "Mónica Reyes Gallery"
 summary: "Mónica Reyes Gallery | Steven Brekelmans | 12PM | APR 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 16
 type: "EVENT"
+venue: "Fraser Valley Music Awards 2020"
 summary: "Fraser Valley Music Awards 2020 | Sook-Yin Lee to Make Keynote Presentation | NOV 19"
 ---
 

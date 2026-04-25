@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 21
 type: ""
-summary: "Gam Gallery | Michelle Weinstein â€“ Mars Pamphleteer | SEP 12"
+venue: "Gam Gallery"
+summary: "Gam Gallery | Michelle Weinstein – Mars Pamphleteer | SEP 12"
 ---
 
-Michelle Weinstein â€“ Mars Pamphleteer
+Michelle Weinstein – Mars Pamphleteer
 Gam Gallery
 110 E Hastings Street, Vancouver BC
 
@@ -16,7 +17,7 @@ Opening reception: Friday September 12, 7 pm - 1 am
 Presented in conjunction with Swarm, Annual festival of artist-run culture
 
 Mars Pamphleteer is an experimentation and a fusion of two prospects
-â€“composite photos taken by the robotic mars rovers, and the conspiracy
+–composite photos taken by the robotic mars rovers, and the conspiracy
 theory expounding that the original U.S. moon landing of 1969 was staged in
 a movie studio. 
 
@@ -43,7 +44,7 @@ affective experience of the space or narrative that it is representing.
 
 This project is in honor of Mars One, which plans to begin the colonization
 of Mars in 2024. The Martian outpost will be funded through a spectacular
-reality TV show based on the colonyâ€™s operations.
+reality TV show based on the colony’s operations.
 
 Born in Toronto, and raised in Connecticut, Michelle Weinstein earned her
 Bachelor of Fine Art at Maine College of Art, and Yale University. She

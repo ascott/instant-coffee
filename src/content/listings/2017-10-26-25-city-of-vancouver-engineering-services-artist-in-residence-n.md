@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 25
 type: "CALL"
+venue: "City of Vancouver - Engineering Services"
 summary: "City of Vancouver - Engineering Services | Artist in Residence | NOV 24"
 ---
 

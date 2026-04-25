@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 5
 type: ""
+venue: "Burrard Arts Foundation"
 summary: "Burrard Arts Foundation | Opening | 3 exhibitions | APR 11"
 ---
 
@@ -13,10 +14,10 @@ Friday, April 11 7-9 p.m.
 The Burrard Arts Foundation (BAF) is proud to announce the opening of our 
 new non-profit gallery space, BAF Studio, located at 108 East Broadway in 
 Vancouver. The space consists of 3 distinct galleries, showcasing thework 
-of up-and-coming contemporary artists. The galleryâ€™s aim is to provide 
+of up-and-coming contemporary artists. The gallery’s aim is to provide 
 Vancouverites with more opportunities to enjoy contemporary art in 
 Vancouver, and will also serve as a valuable platform for emerging artists to 
-showcase their work. BAF Studio will be open for the publicâ€™s enjoyment 
+showcase their work. BAF Studio will be open for the public’s enjoyment 
 Tuesday through Saturday from 12:00 pm to 5:00 pm, and all of our 
 exhibitions are free. The Official Opening Event takes place on Friday April 
 11, 2014, from 7:00 pm to 9:00 pm. For our opening show, we are working 

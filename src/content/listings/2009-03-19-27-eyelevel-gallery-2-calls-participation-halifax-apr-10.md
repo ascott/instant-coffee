@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dance in our experience"
 emailDate: "Thu, 19 Mar 2009 12:15:46 -0700"
 number: 27
 type: ""
+venue: "Eyelevel Gallery"
 summary: "Eyelevel Gallery | 2 calls Participation | Halifax | APR 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 21
 type: "CALL"
+venue: "PoMoArts"
 summary: "PoMoArts | Art 4 Life Call for Submissions | AUG 13"
 ---
 

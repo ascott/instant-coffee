@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 22
 type: "TALK"
+venue: "Centre A"
 summary: "Centre A | THE SPIRIT KEEPERS OF MAKUTAAY | AN ARTIST TALK WITH YEN-CHAO LIN | SEP 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 15
 type: ""
+venue: "JOB"
 summary: "JOB | UBC Okanagan | Associate Professor | JAN 16"
 ---
 

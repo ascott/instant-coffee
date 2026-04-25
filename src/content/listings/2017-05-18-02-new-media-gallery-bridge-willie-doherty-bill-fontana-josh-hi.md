@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 2
 type: "OPENING"
+venue: "New Media Gallery"
 summary: "New Media Gallery | BRIDGE | Willie Doherty, Bill Fontana, Josh Hite.. | MAY 19"
 ---
 

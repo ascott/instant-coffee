@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 21
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Audain Gallery | Martine Syms - Video Program -7pm | NOV 19"
 ---
 

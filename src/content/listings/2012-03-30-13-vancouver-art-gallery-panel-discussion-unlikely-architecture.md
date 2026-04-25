@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 13
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | panel discussion | Unlikely Architectures: Contested Territories | APR 3"
 ---
 
@@ -15,20 +16,20 @@ Vancouver Art Gallery, 4th floor
 750 Hornby Street
 
 Unlikely Architectures is a series of discussions that investigates the 
-city as it shifts and growsâ€”it is, in many ways, a discussion of possible 
-futures. The artist working in public space, a citizenâ€™s occupation of the 
-plaza, an architectâ€™s re-configuration of the built environment, the city-
-plannerâ€™s vision for the city; all these creative â€˜momentsâ€™ push our 
+city as it shifts and grows—it is, in many ways, a discussion of possible 
+futures. The artist working in public space, a citizen’s occupation of the 
+plaza, an architect’s re-configuration of the built environment, the city-
+planner’s vision for the city; all these creative ‘moments’ push our 
 environment towards change. A broad future, however, must also 
-acknowledge its pastâ€”and the city encompasses many.
+acknowledge its past—and the city encompasses many.
 
 This second of three conversations will uncover some of these pivotal 
 moments. Annabel Vaughan, graduate architect and city thinker, will 
-speak on the evolution of public space in the cityâ€”with some specific 
+speak on the evolution of public space in the city—with some specific 
 reference to familiar downtown landmarks. Susan Roy, historian, traces 
 the chronology of First Nations reserve land in the city, and artist/ 
 curator Sabine Bitter finds new associations for the nightly blast of 
-Vancouverâ€™s Nine Oâ€™clock Gun. Together and separately, they plumb 
+Vancouver’s Nine O’clock Gun. Together and separately, they plumb 
 the past to propose new ways of regarding our urban environment. The 
 discussion will be moderated by writer, curator and educator Sadira 
 Rodrigues.
@@ -38,12 +39,12 @@ and an internationally recognized multi-media artist. In collaboration
 with Vienna-based artist Helmut Weber, she addresses recent urban 
 geographies, architecture and the politics of representation and of 
 space. She is currently Curator at the Audain Gallery at SFU 
-Woodwardâ€™s.
+Woodward’s.
 
 Susan Roy is a post-doctoral research fellow in the Department of 
 History, York University. Her book These Mysterious People: Shaping 
 History and Archaeology in the Northwest Coast Community (McGill-
-Queenâ€™s University Press, 2010) examines the history of the Musqueam 
+Queen’s University Press, 2010) examines the history of the Musqueam 
 First Nation and the Marpole Midden on the Fraser River. She also 
 works as a historical research consultant for First Nations in Canada.
 
@@ -57,7 +58,7 @@ intersection of art and architecture in the public realm will shape the
 outcome. She has co-written articles for Artspeak, West Coast Line and 
 Vancouver Matters [Vancouver: Blueimprint, 2008] with Rob Brownie 
 and has exhibited work at Artspeak Gallery, Presentation House 
-Gallery, Vancouver Art Gallery, La Fonderie Darling, MontrÃ©al and the 
+Gallery, Vancouver Art Gallery, La Fonderie Darling, Montréal and the 
 Other Gallery in Banff.
 
 Over the last decade Sadira Rodrigues has worked in a variety of roles 

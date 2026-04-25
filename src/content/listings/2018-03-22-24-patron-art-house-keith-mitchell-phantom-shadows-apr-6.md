@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 24
 type: "OPENING"
+venue: "Patron Art House"
 summary: "Patron Art House | Keith Mitchell: Phantom Shadows | APR 6"
 ---
 

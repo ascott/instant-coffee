@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 4
 type: "OPENING"
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | Cultivating Equilibrium | APR 9"
 ---
 
@@ -14,7 +15,7 @@ Opening Thursday, April 9, 8pm
 
 In Cultivating Equilibrium, Madison Killo and Patrick Campbell transform
 the UNIT/PITT gallery space into an immersive, non-site recontextualization
-of what is known in the rhetoric of its community of supporters as â€œOur
+of what is known in the rhetoric of its community of supporters as “Our
 Green Jewel.â€ 
 
 Built on an extremely valuable piece of land, Bloedel Conservatory was
@@ -43,7 +44,7 @@ received his BFA from Emily Carr in 2010. His work highlights and
 acknowledges the presence of societal histories. Informed by his formal
 training in photography, he seeks to preserve the lasting ephemera of these
 architectures. His practice often uses traditional cinematic modes of
-production â€“ situated in installations that enhance the construction of
+production – situated in installations that enhance the construction of
 place. The content of his work mediates between the public and the private,
 structuring narratives around fragments of the everyday.
 

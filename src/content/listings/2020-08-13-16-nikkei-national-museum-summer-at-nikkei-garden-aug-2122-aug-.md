@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 16
 type: "EVENT"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Summer at Nikkei Garden | Aug 21/22 | AUG 21"
 ---
 

@@ -44,7 +44,7 @@ INTERSECTIONS
 Goes Live!
 
 Cineworks Independent Filmmakers Society in partnership with The Tomorrow 
-Collectiveâ€™s Brief Encounters is pleased to present the premiere of 
+Collective’s Brief Encounters is pleased to present the premiere of 
 INTERSECTIONS, a new moving image project where a local artists and 
 filmmakers are matched together for a two month span to create new works 
 online.
@@ -138,25 +138,25 @@ exhibition will be accompanied by an oral story performance entitled Revolting
 Rhyme. 
 
 Dan Starling's solo exhibition takes Charlie and the Chocolate Factory, the 
-popular childrenâ€™s book written by Roald Dahl in 1964 as it's starting point. 
+popular children’s book written by Roald Dahl in 1964 as it's starting point. 
 Dahl was criticized for his racist characterization of the workers in the 
 chocolate factory of the book as â€œpygmies from Africa.â€  In the subsequent 
-edition, he chose to refer to them instead as the â€œOompa-loompas from 
+edition, he chose to refer to them instead as the “Oompa-loompas from 
 Oompaloompaland.â€  Starling chose to redraw all the original illustrations from 
 the second edition using drypoint and then produce a series of subsequent 
-alterations to the images that call attention to this history as a kind of â€œreturn 
+alterations to the images that call attention to this history as a kind of “return 
 of the repressed.â€  Working in drypoint and etching, a new medium for Starling, 
 the final project will encompass four new books showing this evolution as it 
 progresses.
 
 Dan Starling is a multidisciplinary artist whose practice encompasses video, 
 sculpture, performance, installation, photography, painting as well as artist 
-books and art writing. Starlingâ€™s work takes different aesthetic traditions and 
+books and art writing. Starling’s work takes different aesthetic traditions and 
 rubs them together to bring forth the contradictions inherent in each. He 
 studied art history at UBC and visual art at Emily Carr and has experience 
 exhibiting locally, nationally and recently in an international art context in both 
 solo and group exhibitions. In the spring of 2011, Starling returned to 
-Vancouver after completing a Meisterschuler at the StÃ¤delschule Art 
+Vancouver after completing a Meisterschuler at the Städelschule Art 
 Academy in Frankfurt Germany. He is currently a sessional faculty member 
 at Emily Carr University.
 
@@ -187,7 +187,7 @@ SFU's Goldcorp Centre for the Arts,
 
 The interdisciplinary practice of Donato Mancini focuses mainly on poetry,
 bookworks, text-based visual art and cultural criticism. His first two books of
-procedural and visual writing, Ligatures (New Star 2005) and Ãƒâ€ thel (New Star
+procedural and visual writing, Ligatures (New Star 2005) and Ã†thel (New Star
 2007) were each nominated for the ReLit Award. Two more books, Buffet
 World (New Star) and Fact 'n' Value (Fillip Editions) were published in 2011.
 Mancini's collaborative visual works have been exhibited in Canada, the United
@@ -195,9 +195,9 @@ States, Scandinavia and Cuba. Notable exhibitions include Surveillance
 Sketch (Artspeak, Vancouver 2003), Untitled: Conversation Loops (The
 Western Front, Vancouver 2004; with Miguel da Conceicao, Jacob Gleeson,
 and Elisa Rathje) , Angels in the Angles at (Gallery Atsui, Vancouver 2009;
-with Marina Roy and Christian BÃƒÂ¶k) and the solo exhibition of print works I
+with Marina Roy and Christian BÃ¶k) and the solo exhibition of print works I
 Smell Something Burning (H.K.Y.D.) (CSA, Vancouver 2011). An exhibition of
-new print works commissioned by the Malaspina PrintmakerÃ¢â‚¬â„¢s Society is
+new print works commissioned by the Malaspina Printmakerâ€™s Society is
 forthcoming through the Institutions By Artists convention in Vancouver. He
 co-directed the world's first genuine in-world avatar documentary AVATARA
 (Centre A, Vancouver 2003), now part of the Ubu Web international archive of
@@ -206,7 +206,7 @@ since 2003, he was a principal organiser of the interdisciplinary N 49 15.832 -
 W 123 05.921 Positions Colloquium in August 2008 (VIVO Media Arts,
 Vancouver). His first book of critical writing You Must Work Harder to Write
 Poetry of Excellence was just published by BookThug (Toronto). He is
-currently a curator in residence in VIVOÃ¢â‚¬â„¢s Crista Dahl Media Library &
+currently a curator in residence in VIVOâ€™s Crista Dahl Media Library &
 Archive, as part of the project Anamnesia: Unforgetting , and is enrolled in the
 PhD program in English at the University of British Columbia.
 
@@ -244,7 +244,7 @@ Paintings, drawings, photographs and sculpture
 Opening Reception Thursday, January 31st, 6-9pm
 *New Hours: Fri-Sat 12:00-5:00pm*
 
-Stenten is a Middle English word meaning â€˜to stretch, stretch out or elongate.â€™ 
+Stenten is a Middle English word meaning ‘to stretch, stretch out or elongate.’ 
 For our 2013 Winter Group Show at Trench Contemporary Art, we are very 
 excited to feature three emerging artists with a mixture of mid-career and 
 established artists, originally from Vancouver.
@@ -252,35 +252,35 @@ established artists, originally from Vancouver.
 Our three emerging artists include Evan Broens, Ed Spence and Gabriel 
 Dubois.
 
-The thorough, diligent yet serene lines of Even Broensâ€™ wall sculptures reflect 
-the â€œformal, poetic, and philosophical possibilities of sculpture. From this 
+The thorough, diligent yet serene lines of Even Broens’ wall sculptures reflect 
+the “formal, poetic, and philosophical possibilities of sculpture. From this 
 point of departure, objects possess an essence. In studying the essence of 
 objects, there is potential for a greater understanding of how we are 
 ontologically bound with them.â€ 
 
-The patient hand-cut â€˜digitizationâ€™ of Ed Spenceâ€™s reorganized places â€œsuggest 
-a state of flux or perceptive revelationâ€¦[where] the fracturing of surface brings 
+The patient hand-cut ‘digitization’ of Ed Spence’s reorganized places “suggest 
+a state of flux or perceptive revelation…[where] the fracturing of surface brings 
 into question our valuation of digital craft in contrast to the hand made.â€  His 
-creation of an â€œalternative perception is mediated by the aesthetics of an 
+creation of an “alternative perception is mediated by the aesthetics of an 
 indexed colour mode andâ€¦onscreen isometry.â€ 
 
-The rich, colourful sensory travels of Gabriel Duboisâ€™ paint strokes bring his 
+The rich, colourful sensory travels of Gabriel Dubois’ paint strokes bring his 
 â€œoutside artâ€  inside, where messages and images are broken down into â€œhints 
 of figurative formsâ€  and carefully placed lines. Here, graffiti, drafting, paint, line, 
 colour and found materials intertwine ideas of the urban, the personal and the 
 formal, while challenging our assumptions of where these all belong.
 
 These three young artists coupled with works by Ron Stonier, Michael Morris, 
-Vincent Trasov, Amy Mukai, Carrie Walker and more, continue Trenchâ€™s 
-commitment to Vancouverâ€™s artistic lineage from past to present.
+Vincent Trasov, Amy Mukai, Carrie Walker and more, continue Trench’s 
+commitment to Vancouver’s artistic lineage from past to present.
 
-There will be a few surprises as well, so we hope youâ€™ll join us!
+There will be a few surprises as well, so we hope you’ll join us!
 
 For more information please contact Trench at 604-681-2577.
 rachel@trenchgallery.com
 www.trenchgallery.com
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2013 Trench Contemporary Art, All rights reserved. 
+Copyright © 2013 Trench Contemporary Art, All rights reserved. 
 You are receiving this email because you shared your address with us. 
 Our mailing address is: 
 Trench Contemporary Art
@@ -352,7 +352,7 @@ North Vancouver, BC
 On February 2 at 3:00 PM, Presentation House Gallery will host a lecture on 
 the work of Marianne Wex by Avigail Moss, a writer, artist and educator 
 currently living in Los Angeles. Moss has done extensive research on Wex 
-and gave a lecture in conjunction with Wexâ€™s recent exhibition at Yale Union. 
+and gave a lecture in conjunction with Wex’s recent exhibition at Yale Union. 
 She has an MA from University College, London and has published on visual 
 culture, modern art history and contemporary art. She is co-editor of "Painting 
 - The Implicit Horizon" published by Jan Van Eyck Academie, Masstricht, 
@@ -363,13 +363,13 @@ Let's Take Back Our Space" on display at Presentation House Gallery until
 March 24. Throughout the 1970s, Wex photographed thousands of women 
 and men in the streets of Hamburg, which she combined with re-photographed 
 images from mass media into an in-depth archive of photo-collages and a 
-book entitled "Letâ€™s Take Back Our Space: 'Female' and 'Male' Body 
+book entitled "Let’s Take Back Our Space: 'Female' and 'Male' Body 
 Language as a Result of Patriarchal Structures" (1979). This study provides 
 an expansive historical impression of how we create and present ourselves, 
 and the degree to which gender-specific conditioning and hierarchies are 
 reflected in everyday poses, gestures, and other non-verbal communication.
 
-"Marianne Wex: Letâ€™s Take Back Our Space" is organized by Yale Union, 
+"Marianne Wex: Let’s Take Back Our Space" is organized by Yale Union, 
 Portland, Oregon, with assistance from Bildwechsel Archive, Hamburg.
 
 ------------------------------------------------------------------------
@@ -386,12 +386,12 @@ light tender
 Exhibition dates: February 1 - March 2, 2013
 Opening reception: Saturday, February 2, 2-4 pm
 
-Antonia Hirschâ€™s installation incorporates objects and video to continue her 
+Antonia Hirsch’s installation incorporates objects and video to continue her 
 inquiry into the interconnection between affect and economy. The show brings 
 together the abstract phenomenon of colour and the very concrete trade in cut 
 flowers. light tender mobilizes these elements of trade, affect, and colour and 
 proposes that an economy be understood as not merely a system of fiscal 
-transactions, but as a system of representationâ€”expressive of a way of 
+transactions, but as a system of representation—expressive of a way of 
 perceiving and interacting with the world and each other. While affect is both a 
 generator and a consequence of economic exchanges, it is, conversely, also 
 the modality of those economic exchanges that structure affect, resulting in 
@@ -426,30 +426,30 @@ www.republicgallery.com | +1.604.632.1590
 <a href="/instant-coffee/listings/2013-02-01-10-richmond-art-gallery-andante-a-walking-pace-feb-2">10. Richmond Art Gallery | Andante (a walking pace) | FEB 2</a>
 ------------------------------------------------------------------------
 RICHMOND ART GALLERY
-Exhibition Dates: February 2 â€“ March 24, 2013
+Exhibition Dates: February 2 – March 24, 2013
 Title: Andante (a walking pace)
 Opening Reception Saturday, February 2, 3:00-5:00pm
-Artists: Cheryl Lâ€™Hirondelle, Mike Andrew McLean, Haruko Okano, Ruth 
+Artists: Cheryl L’Hirondelle, Mike Andrew McLean, Haruko Okano, Ruth 
 Scheuing, UWHAH; a collaborative entity of Vancouver-based artists.
 
 The title of the exhibition draws from the tempo marking, andante, to mean - 
 â€œat a walking paceâ€  â€“ a moderately slow pace that enables one to be attentive 
-to oneâ€™s surroundings, literally and imaginatively. The history of walking is an 
+to one’s surroundings, literally and imaginatively. The history of walking is an 
 intriguing one with the capacity for narratives that hold cultural, political, social 
 and spiritual meanings.
 The works in the exhibition Andante (a walking pace) are conceived as a 
 conceptual practice, a process from which emerge diverse narratives reflecting 
-artistsâ€™ responses to the various urban and rural landscapes they move in and 
-consider. Walking has an intimate relationship with the earth â€“ whether it is 
-covered in concrete or left bare. Cheryl Lâ€™Hirondelle and Ruth Scheuing 
-explore the urban environment; their responses to the cityâ€™s architecture and 
-geography recall the â€˜Situationistsâ€™ and â€˜Psychogeographyâ€™, and the practice 
+artists’ responses to the various urban and rural landscapes they move in and 
+consider. Walking has an intimate relationship with the earth – whether it is 
+covered in concrete or left bare. Cheryl L’Hirondelle and Ruth Scheuing 
+explore the urban environment; their responses to the city’s architecture and 
+geography recall the ‘Situationists’ and ‘Psychogeography’, and the practice 
 of â€œderiveâ€  (drifting). Through their unplanned navigations to encounter new and 
 authentic experiences, both artists focus our attention to details abstracted 
 from their exploratory walks. The natural environment is the terrain traversed in 
-Haruko Okano and Mike Andrew McLeanâ€™s work. Haruko Okano immerses 
+Haruko Okano and Mike Andrew McLean’s work. Haruko Okano immerses 
 herself in nature to focus her attention and to better ensure an unmediated 
-experience. Mike Andrew McLeanâ€™s images of the Canadian Rockies 
+experience. Mike Andrew McLean’s images of the Canadian Rockies 
 evidence a changing landscape while reminding us of its impact in on the 
 formation of a collective Canadian identity. The collaborative artists, UWHAH, 
 seek to bridge both wilderness and urban contexts, responding to the 
@@ -469,8 +469,8 @@ British Columbia Arts Council and the Province of British Columbia.
 
 RELATED PROGRAMMING
 
-Artistsâ€™ Tour / Talk 
-Saturday, February 2, 2:30pmâ€“3:00 pm 
+Artists’ Tour / Talk 
+Saturday, February 2, 2:30pm–3:00 pm 
 Free Admission. Everyone welcome to attend. 
 
 Free Film Screening: puujee 
@@ -497,7 +497,7 @@ Email: gallery@richmond.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-02-01-11-surrey-art-gallery-curators-tour-of-brendan-tang-and-alex-mc">11. Surrey Art Gallery | Curator's Tour of Brendan Tang and Alex McLeod | FEB 2</a>
 ------------------------------------------------------------------------
-Curator's Tour of Brendan Tang and Alex McLeodâ€™s The future is already here
+Curator's Tour of Brendan Tang and Alex McLeod’s The future is already here
 
 Surrey Art Gallery
 Saturday February 2, 3:00 PM - 4:00 PM
@@ -516,9 +516,9 @@ boundaries between the real and the virtual.
 The heart of this exhibition is a collaborative mixed-media installation by Tang 
 and McLeod that blends digital projection with ceramic sculpture. Each artist 
 is also represented by a selection of independent work. Inspired by video 
-games, Romantic landscape paintings, and dioramas, McLeodâ€™s surreal 
+games, Romantic landscape paintings, and dioramas, McLeod’s surreal 
 environments depicted in large panoramic photographs exist in their own 
-indeterminate time and space. Brendan Tangâ€™s colourful and wildly 
+indeterminate time and space. Brendan Tang’s colourful and wildly 
 incongruous Manga Ormolu ceramic vessels fuse Asian and Western 
 historical decorative styles with pop art forms derived from Japanese anime 
 and manga. Guest curated by Rachel Lafo.
@@ -599,10 +599,10 @@ Canadian Art Foundation International Speaker Series
 Date: February 5, 2013
 Time: 7:00 pm
 Location: Vancouver Art Gallery
-Created in conjunction with the landmark exhibition â€œIan Wallace: At the 
+Created in conjunction with the landmark exhibition “Ian Wallace: At the 
 Intersection of Painting and Photography,â€  the talks series Reading Ian 
 Wallace: An International Perspective consists of conversations that provide a 
-rare opportunity for first-hand insight into Wallaceâ€™s expansive career.
+rare opportunity for first-hand insight into Wallace’s expansive career.
 
 Renowned artists and critics, in conversation with Wallace himself, will 
 contextualize the evolution of his artistic practice as it relates to the larger 
@@ -613,7 +613,7 @@ The third talk in this series features artist Stan Douglas in conversation with
 Ian Wallace on February 5 at 7 p.m. Sharing a long history in Vancouver, 
 Douglas and Wallace have employed a cinematic â€œeyeâ€  in creating their 
 photographic works. Douglas and Wallace, who have both helped define 
-Vancouverâ€™s art scene internationally, will discuss the broader implications of 
+Vancouver’s art scene internationally, will discuss the broader implications of 
 such cinematic references during this event.
 
 Reading Ian Wallace: An International Perspective is a partnership between 
@@ -670,12 +670,12 @@ Room 102, Lasserre Building
 
 All welcome. Admission is free.
 
-The University of British Columbiaâ€™s Critical and Curatorial Studies Program 
+The University of British Columbia’s Critical and Curatorial Studies Program 
 and the Morris and Helen Belkin Art Gallery present a talk byJan Verwoert, 
 Just how green, wet, close or far away? as part of the Curatorial Lecture 
 Series:
 
-â€œArtistic research? What research? The history of artistic inquiry goes back to 
+“Artistic research? What research? The history of artistic inquiry goes back to 
 the days of alchemy. Did we ever stop trying to turn crap into gold? If not, 
 what concepts are around to again understand art as dedicated to elementary 
 transformations and the discovery of very particular states and qualities?
@@ -684,7 +684,7 @@ Jan Verwoert is a critic and writer on contemporary art and cultural theory
 based in Berlin. He is a contributing editor of frieze magazine and his writing 
 has appeared in journals, anthologies and monographs. He teaches at the 
 Piet Zwart Institute Rotterdam, the de Appel Curatorial Programme and the 
-Hâ€™Midrasha School of Art, Tel Aviv. Verwoert is the author of Bas Jan Ader: In 
+H’Midrasha School of Art, Tel Aviv. Verwoert is the author of Bas Jan Ader: In 
 Search of the Miraculous (MIT Press/Afterall Books, 2006) and the essay 
 collectionTell Me What You Want What You Really Really Want (Sternberg 
 Press/Piet Zwart Institute, 2010). In the summer of 2009, Verwoert led the 
@@ -733,7 +733,7 @@ realities of the contemporary world.
 
 Included in the show are two newly commissioned pieces by the 
 Contemporary Art Gallery with our partners FRAC Champagne-Ardenne and 
-Centre dâ€™Art Contemporain, Geneva: an installation, Recycled Playground, 
+Centre d’Art Contemporain, Geneva: an installation, Recycled Playground, 
 which gives the exhibition its title and overarching tone, and a companion 
 video Protesting Against Myself. Mureşanâ€™s videos, drawings and 
 installations 
@@ -767,13 +767,13 @@ House, using it as a studio and a place for community engagement,
 coinciding with the launch of As It Comes, two new interrelated public works.
 
 The colloquial use and structure of the written or spoken word figure 
-prominently in Boisjolyâ€™s work. He often transforms the meaning and 
+prominently in Boisjoly’s work. He often transforms the meaning and 
 significance of language by rendering phrases indecipherable or by reordering 
-clichÃ©d aphorisms and mixing metaphors.
+clichéd aphorisms and mixing metaphors.
 
 As It Comes re-assembles passages taken from three North American First 
 Nations autobiographies: Black Elk Speaks, Yellow Wolf His Own Story and 
-During My Time by Florence Edenshaw Davidson, Boisjolyâ€™s great 
+During My Time by Florence Edenshaw Davidson, Boisjoly’s great 
 grandmother. All of the texts tell of the legislation of indigenous rights amidst 
 the coming of modernity, with each written as a personal account yet 
 authored by and credited to someone else.
@@ -786,7 +786,7 @@ of British Columbia through the Ministry of Advanced Education, Innovation
 and Technology.
 
 As It Comes at Yaletown-Roundhouse Station, Canada Line is presented in 
-partnership with the Canada Line Public Art Program â€” IntransitBC.
+partnership with the Canada Line Public Art Program — IntransitBC.
 
 
 ------------------------------------------------------------------------
@@ -886,14 +886,14 @@ Admission: $10 (includes a book) * No one will be turned away for lack of
 funds
 DVD boxset (includes one disc for each video programme): $20.00
 
-In November 2012, VIVO Media Arts Centre, Vancouverâ€™s oldest media 
+In November 2012, VIVO Media Arts Centre, Vancouver’s oldest media 
 access artist run centre, presented Anamnesia: Unforgetting, a series of three 
 screenings of videos from the 1970s and 1980s, collected through the early 
-Satellite Video Exchange program. The videos are now housed in VIVOâ€™s 
+Satellite Video Exchange program. The videos are now housed in VIVO’s 
 Crista Dahl Media Library and Archive, a collection of 4500 titles of 
 international video art and related ephemera. Emerging out of Intermedia, the 
 Satellite Video Exchange collection documents important correspondence, 
-performance and activist video collaborations in Vancouverâ€™s art history.
+performance and activist video collaborations in Vancouver’s art history.
 
 Along with the three video programmes, a publication, DVD box set, and 
 online component were also produced. On February 7th, all contributors to the 
@@ -908,7 +908,7 @@ curator's programmes, and their collaboration with VIVO over the past four
 years, within the history of social and cultural production at SVES. Alex Muir 
 extrapolates upon early artist-television pioneer Byron Black's international 
 practice, his Images from Infinity program on Cable 10, and his affiliation with 
-Robert Filliouâ€™s Eternal Network, Image Bank, and the Western Front. Donato 
+Robert Filliou’s Eternal Network, Image Bank, and the Western Front. Donato 
 Mancini situates his curatorial frame within broader discourses on 
 polytemporality, polyrhythmia, and the archive, in literature, cinema, and 
 poetry. Cecily Nicholson reflects upon the legacy of the Oglala Sioux and 
@@ -937,8 +937,8 @@ The Burnaby Art Gallery is pleased to present The Artist Poster Show,
 opening Friday, February 8, 2013.
 
 The Artist Poster Show explores the didactic evolution of artist exhibition 
-posters. Drawn primarily from the Burnaby Art Galleryâ€™s permanent collection, 
-the showcase spotlights the artistâ€™s ability to communicate time, place, 
+posters. Drawn primarily from the Burnaby Art Gallery’s permanent collection, 
+the showcase spotlights the artist’s ability to communicate time, place, 
 symbolism or space though an exhibition poster.
 
 See a range of works from 27 different artists, including Ron Eckert, Brendan 
@@ -951,7 +951,7 @@ commissioned 12-poster series by Sonny Assu.
 For more information and the full list of artists please see the attached pdf.
 
 Feel free to contact me for more information about the exhibit or Sonny 
-Assuâ€™s commissioned series. High-resolution images are also available upon 
+Assu’s commissioned series. High-resolution images are also available upon 
 request.
 
 All the best,
@@ -976,11 +976,11 @@ Emily Carr University and the Contemporary Art Gallery (CAG) presents The
 new Y-CAG teen program for youth aged 15-18. Y-CAG aims to equip youth 
 with many conceptual and practical tools as a way to look critically at art and 
 the world. It offers opportunities to participate fully in the life of a gallery and to 
-share ideas about art and culture. With Vancouverâ€™s vibrant art and culture 
+share ideas about art and culture. With Vancouver’s vibrant art and culture 
 scene as a backdrop, the Y-CAG teens will have direct and exclusive access 
 to gallery professionals, educators and artists, participate in studio and media 
 workshops at Emily Carr University and explore the Contemporary Art 
-Galleryâ€™s vast archive of artworks.
+Gallery’s vast archive of artworks.
 
 Teens will develop new skills and connect with the contemporary art world 
 allowing participants in Y-CAG to imagine a unique year-end project that may 
@@ -990,14 +990,14 @@ have a passion for art and are interested in pursuing a career in the arts.
 Participants will gain a deep insight into gallery, museum and curatorial life.
 What do Y-CAG Teens Do?
 
-Â· Meet twice a month and build relationships with other creative teens, 
+· Meet twice a month and build relationships with other creative teens, 
 Contemporary Art Gallery and Emily Carr University of Art + Design staff, and 
 visiting museum professionals and artists;
-Â· Identify interests and questions and use these to explore art through a 
+· Identify interests and questions and use these to explore art through a 
 variety of means, from looking, researching, and discussing to art making;
-Â· Place contemporary art within the context of what is going on in the 
+· Place contemporary art within the context of what is going on in the 
 larger world; and
-Â· Work with a variety of people and teen peers to create a public art 
+· Work with a variety of people and teen peers to create a public art 
 exhibition or event.
 
 Cost
@@ -1005,7 +1005,7 @@ The cost of the program is $350 for the entire six months and includes
 refreshments at each session. 
 Deadline February 8.
 Schedule
-Teens will meet twice a month from 4:00 â€“ 7:00 PM on the first and last 
+Teens will meet twice a month from 4:00 – 7:00 PM on the first and last 
 Monday of the month for afterschool meetings facilitated by educators and art 
 professionals. Meetings will alternate between the CAG and Emily Carr.
 About the Institutions
@@ -1013,7 +1013,7 @@ Emily Carr University of Art + Design is one of the most established post-
 secondary institutions in British Columbia and the only one that is dedicated 
 solely to professional education and learning in the arts, media and design. 
 Emily Carr's alumni and faculty are among the most influential and important 
-artists and designers working in their respective fields. Emily Carrâ€™s teen 
+artists and designers working in their respective fields. Emily Carr’s teen 
 programs allow high school students to gain familiarity at an art and design 
 university and to develop their skills through the mentorship of art 
 professionals. Through this access, teens are able to create and refine their 
@@ -1047,12 +1047,12 @@ photographs. These new works are documentation of archetypal wilderness
 signals that the artists have created in attempt to communicate not only with 
 each other, but with the encountering world, Anybody.
 
-Jenny G will occupy our LightBox project space. Jennyâ€™s practice is firmly 
+Jenny G will occupy our LightBox project space. Jenny’s practice is firmly 
 based in painting and drawing. The artist used this opportunity produce her 
 first large scale photographic work.
 
 Starting from a simple monoprint technique, the work is then photographed 
-with a 4Ã—5 camera. Next, the image is transformed through a digital drawing 
+with a 4×5 camera. Next, the image is transformed through a digital drawing 
 process. The final piece fluctuates between the enlarged handmade, tentative 
 marks left by the printmaking process and the factual meanderings of the 
 digital process.
@@ -1075,7 +1075,7 @@ info@gallery295.com
 Hunting Grounds marks a place of isolation, revelation, and psychic 
 connection. Incorporating drawing, sculpture, ceramics, installation and stop-
 motion video, it is a decidedly old-school endeavour. It is unabashedly 
-sentimental, exploratory, and curious -- itâ€™s an acid trip in the woods, a post-
+sentimental, exploratory, and curious -- it’s an acid trip in the woods, a post-
 apocalyptic hike to higher ground, the discovery of a new species in your 
 backyard. 
 
@@ -1083,7 +1083,7 @@ backyard.
 
 Natasha Broad, alias Maus Hunt, makes work that highlights relationships in 
 the natural world. She is best known for her whooping cranes, drawn large-
-scale and conceived to raise awareness about the cranesâ€™ endangerment by 
+scale and conceived to raise awareness about the cranes’ endangerment by 
 the Alberta tar sands. 
 
 Vanessa Brown is an interdisciplinary artist whose practice spans painting, 
@@ -1125,7 +1125,7 @@ WHAT: Shooting of graduate student's video installation project
 WHEN: February 9th and 10th, 2013
 WHERE: Emily Carr University, South Building
 
-My name is Pascale ThÃ©orÃªt-Groulx and I am a graduate student at Emily 
+My name is Pascale Théorêt-Groulx and I am a graduate student at Emily 
 Carr University in Vancouver. I am working on a video installation for an 
 exhibition coming up in March and I am looking for participants/performers. I 
 need about 20 people; young (although over 19), old, tall, short, male, female, 

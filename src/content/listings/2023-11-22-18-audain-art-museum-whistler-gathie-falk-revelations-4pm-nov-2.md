@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 18
 type: "OPENING"
+venue: "Audain Art Museum [WHISTLER]"
 summary: "Audain Art Museum [WHISTLER] | Gathie Falk: Revelations | 4PM | NOV 25"
 ---
 

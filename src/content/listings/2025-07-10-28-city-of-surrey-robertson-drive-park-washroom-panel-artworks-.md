@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 28
 type: "CALL"
+venue: "City of Surrey"
 summary: "City of Surrey | Robertson Drive Park Washroom Panel Artworks | AUG 4"
 ---
 

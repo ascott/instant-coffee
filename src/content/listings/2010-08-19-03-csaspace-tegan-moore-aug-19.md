@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: refuse glow ball"
 emailDate: "Thu, 19 Aug 2010 10:15:10 -0700"
 number: 3
 type: ""
+venue: "CSAspace"
 summary: "CSAspace | Tegan Moore | AUG 19"
 ---
 

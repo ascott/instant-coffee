@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 25
 type: ""
+venue: "The Shebeen Whisk(e)y House"
 summary: "The Shebeen Whisk(e)y House | Pitching Your Thing to the Media | JUN 20"
 ---
 
@@ -24,8 +25,8 @@ Attend
 
 SPECIAL VANCOUVER MEDIA GUEST: Mr. Stephen Quinn!
 
-Whatever you have to pitch to the media for coverage â€” your band's new
-record, your new publishing company, the fact you won a big shiny award â€”
+Whatever you have to pitch to the media for coverage — your band's new
+record, your new publishing company, the fact you won a big shiny award —
 it's not always easy to attract attention. While different media outlets
 and platforms have their... Read More
 

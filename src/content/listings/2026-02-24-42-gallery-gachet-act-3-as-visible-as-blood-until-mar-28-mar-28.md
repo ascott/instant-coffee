@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 42
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Act 3: As Visible as Blood | UNTIL MAR 28 | MAR 28"
 ---
 

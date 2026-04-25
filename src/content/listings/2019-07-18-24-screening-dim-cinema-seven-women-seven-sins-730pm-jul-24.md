@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 24
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Seven Women Seven Sins | 7:30PM | JUL 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 17
 type: "EVENT"
+venue: "Neurodivergent Artist Collective"
 summary: "Neurodivergent Artist Collective | interplay: visions of difference and possibility | FEB 8"
 ---
 

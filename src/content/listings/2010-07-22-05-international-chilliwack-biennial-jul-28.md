@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please use wide-eyedly"
 emailDate: "Thu, 22 Jul 2010 10:56:25 -0700"
 number: 5
 type: ""
+venue: "International Chilliwack Biennial"
 summary: "International Chilliwack Biennial | | JUL 28"
 ---
 

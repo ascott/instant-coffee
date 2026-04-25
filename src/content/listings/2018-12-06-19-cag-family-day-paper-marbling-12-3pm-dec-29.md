@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 19
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | Family Day | Paper Marbling | 12-3pm | DEC 29"
 ---
 

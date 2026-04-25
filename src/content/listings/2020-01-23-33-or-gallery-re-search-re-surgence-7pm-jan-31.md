@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 33
 type: "OPENING"
+venue: "Or Gallery"
 summary: "Or Gallery | Re-search Re-surgence | 7PM | JAN 31"
 ---
 

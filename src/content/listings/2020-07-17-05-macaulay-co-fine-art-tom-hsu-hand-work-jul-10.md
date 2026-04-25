@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Macaulay & Co. Fine Art"
 summary: "Macaulay & Co. Fine Art | Tom Hsu - hand work | JUL 10"
 ---
 

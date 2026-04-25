@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 5
 type: ""
+venue: "JOB"
 summary: "JOB | North Van Arts | Hiring for Canada Summer Jobs"
 ---
 

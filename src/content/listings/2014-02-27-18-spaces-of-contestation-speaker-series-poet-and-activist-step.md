@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 18
 type: ""
+venue: "Spaces of Contestation Speaker Series"
 summary: "Spaces of Contestation Speaker Series | Poet and activist Stephen Collis | MAR 12"
 ---
 
@@ -14,20 +15,20 @@ Riot Dogs and Research Labs: Poetry and Struggle
 by Urban Subjects
 
 Wednesday March 12, 7pm
-World Art Centre at SFU Woodwardâ€™s (149 West Hastings)
+World Art Centre at SFU Woodward’s (149 West Hastings)
 
-What is poetry for in a time of spiralling struggle? Sometimes itâ€™s just a riot 
-dog, at best maybe able to bite a copâ€™s leg, or at least warn you when they 
+What is poetry for in a time of spiralling struggle? Sometimes it’s just a riot 
+dog, at best maybe able to bite a cop’s leg, or at least warn you when they 
 are at the door. Sometimes it allows us to think differently about the spaces 
 we need to contest. Poet and activist Stephen Collis will explore some of 
-these spaces, inside and outside of poemsâ€”from the streets, to urban and 
+these spaces, inside and outside of poems—from the streets, to urban and 
 suburban â€œcommons,â€  to the conceptual space of the future and the 
 pervasive and interconnected spaces of resource extraction that enclose 
 such futurity in diminishing climate returns. 
 
 Stephen Collis is a poet and professor of contemporary literature at Simon 
 Fraser University. His many books of poetry include The Commons (Talon 
-Books 2008), On the Material (Talon Books 2010â€”awarded the BC Book 
+Books 2008), On the Material (Talon Books 2010—awarded the BC Book 
 Prize for Poetry), and To the Barricades (Talon Books 2013). He has also 
 written two books of criticism and a novel, The Red Album (BookThug 2013). 
 His collection of essays on the Occupy movement, Dispatches from the 
@@ -50,7 +51,7 @@ the realization of site-specific participatory performances.
 
 The speaker series is co-presented by UNIT/PITT, the SFU Vancity Office of 
 Community Engagement and the SFU Institute for the Humanities. The project 
-is supported through the BC Arts Councilâ€™s Arts-Based Community 
+is supported through the BC Arts Council’s Arts-Based Community 
 Development Program and by the Hamber Foundation.
 
 For more information on the project: 

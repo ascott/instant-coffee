@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 4
 type: ""
+venue: "Blim"
 summary: "Blim | Caroline Ballhorn | JUN 5"
 ---
 

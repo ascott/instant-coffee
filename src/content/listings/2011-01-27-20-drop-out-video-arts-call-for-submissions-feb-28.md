@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 20
 type: ""
+venue: "Drop Out Video Arts"
 summary: "Drop Out Video Arts | CALL FOR SUBMISSIONS | FEB 28"
 ---
 

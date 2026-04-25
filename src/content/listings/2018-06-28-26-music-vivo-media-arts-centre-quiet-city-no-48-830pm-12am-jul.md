@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 26
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | VIVO Media Arts Centre | Quiet City no. 48 | 830PM-12AM | JUL 6"
 ---
 

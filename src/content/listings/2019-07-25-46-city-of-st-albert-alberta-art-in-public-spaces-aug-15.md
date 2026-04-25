@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 46
 type: "CALL"
+venue: "City of St. Albert (ALBERTA)"
 summary: "City of St. Albert (ALBERTA) | Art in Public Spaces | AUG 15"
 ---
 

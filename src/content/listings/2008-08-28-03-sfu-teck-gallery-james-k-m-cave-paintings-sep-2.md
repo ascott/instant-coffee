@@ -4,22 +4,23 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 3
 type: ""
+venue: "SFU"
 summary: "SFU | Teck Gallery | James K-M: Cave Paintings | SEP 2"
 ---
 
 James K-M: Cave Paintings
-September 2 Ã¢ï¿½ï¿½ November 22, 2008
+September 2 â�� November 22, 2008
 Teck Gallery, Vancouver Campus (515 West Hastings)
 
 Opening: Friday September 5, 8pm to 9pm
 
-Artist talk: Monday September 15, 7pm: Ã¢ï¿½ï¿½Is There Anything Old Here?Ã¢ï¿½ï¿½
+Artist talk: Monday September 15, 7pm: â��Is There Anything Old Here?â��
 
 Geometric abstraction has historically been one important way to picture
 idealized, utopian, or optically dizzying models of pictorial space. James
-K-MÃ¢ï¿½ï¿½s hyper-organized matrices of simple geometric shapes form complex
-visual spaces. They also explore what Bloch and Adorno called Ã¢ï¿½ï¿½the
-contradictions of utopian longing,Ã¢ï¿½ï¿½ a condition that applies to all art
+K-Mâ��s hyper-organized matrices of simple geometric shapes form complex
+visual spaces. They also explore what Bloch and Adorno called â��the
+contradictions of utopian longing,â�� a condition that applies to all art
 with utopian aspirations, regardless of its form. Abstraction returned
 painting to the realm of ideas: idealism, science, philosophy, and the
 spiritual were all touchstones in the period from 1900 to 1980. Does
@@ -37,7 +38,7 @@ Please join us for the opening of the exhibition at the Teck Gallery, SFU
 Vancouver Campus. The artist will be in attendance. Opening remarks at 8:30pm.
 
 Artist Talk: Monday, September 15, 7pm
-The artist will present a talk titled Ã¢ï¿½ï¿½Is There Anything Old Here?Ã¢ï¿½ï¿½ Room
+The artist will present a talk titled â��Is There Anything Old Here?â�� Room
 1600, SFU Vancouver Campus
 
 Publication:

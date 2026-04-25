@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Maya Beaudry: Nesting"
 ---
 

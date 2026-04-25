@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 15
 type: "OPENING"
+venue: "Polygon Gallery"
 summary: "Polygon Gallery | Sḵwx̱wú7mesh Nation Basketball: Photographs by Ala | APR 13"
 ---
 

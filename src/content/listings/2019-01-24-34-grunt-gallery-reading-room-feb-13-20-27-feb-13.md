@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 34
 type: "EDUCATION"
+venue: "grunt gallery"
 summary: "grunt gallery | Reading Room | FEB 13, 20, 27 | FEB 13"
 ---
 

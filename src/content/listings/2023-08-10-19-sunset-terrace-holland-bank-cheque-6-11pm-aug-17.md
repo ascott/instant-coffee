@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lect"
 emailDate: "Wed, 09 Aug 2023 23:34:14 -0700"
 number: 19
 type: "OPENING"
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | Holland Bank Cheque | 6-11pm | AUG 17"
 ---
 

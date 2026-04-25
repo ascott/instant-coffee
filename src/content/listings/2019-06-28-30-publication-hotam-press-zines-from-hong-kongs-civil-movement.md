@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 30
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Hotam Press | Zines from Hong Kong's Civil Movements | JUL 4"
 ---
 

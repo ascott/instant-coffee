@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 74
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Virtual Reality Puppet Theatre | MAY 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 9
 type: "CALL"
+venue: "Project Space's TEN"
 summary: "Project Space's TEN | Night market fundraiser - looking for volunteers | JUL 3"
 ---
 

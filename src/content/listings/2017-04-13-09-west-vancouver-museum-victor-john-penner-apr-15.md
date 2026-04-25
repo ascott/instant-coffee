@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under a Leaf"
 emailDate: "Thu, 13 Apr 2017 08:46:53 -0700"
 number: 9
 type: "TALK"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | Victor John Penner | APR 15"
 ---
 

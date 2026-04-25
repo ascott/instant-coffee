@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like an onion makes you want to cr
 emailDate: "Thu, 14 Jul 2011 22:35:36 -0700"
 number: 12
 type: ""
+venue: "Fleeting Glance: a fast & dirty project"
 summary: "Fleeting Glance: a fast & dirty project | CALL | AUG 1"
 ---
 

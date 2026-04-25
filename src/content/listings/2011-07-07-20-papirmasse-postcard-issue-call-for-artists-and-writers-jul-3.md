@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 20
 type: ""
+venue: "Papirmasse Postcard Issue"
 summary: "Papirmasse Postcard Issue | CALL FOR ARTISTS AND WRITERS! | JUL 31"
 ---
 
@@ -17,7 +18,7 @@ Deadline: postmarked July 31 2011
 Papirmasse is putting out a postcard issue to celebrate the summer! We want 
 your laziest, tawdriest, sexiest, slummingest, most adventurous summer stories 
 and images. Did you climb a mountain? Throw up at a wedding reception? Win a 
-national election? Whatever the case may be â€“ real or fictional â€“ we want to see 
+national election? Whatever the case may be – real or fictional – we want to see 
 it.
 
 You can submit either a short story (max. 300 words) or a visual image.
@@ -27,7 +28,7 @@ How to submit:
 This is a postcard issue, and we want you to submit by mailing us a postcard.
 
 Artists: mail us a 5.25 x 7.25 inch postcard that visually addresses the theme of 
-what you did on your summer vacation. Donâ€™t worry about making it too literal â€“ 
+what you did on your summer vacation. Don’t worry about making it too literal – 
 we like a little imagination. On the back please include your full name, website (if 
 you have one), mailing address, e-mail address, and phone number.
 
@@ -36,7 +37,7 @@ be either typed or handwritten, and all forms of writing are accepted. On the ba
 please include your full name, website (if you have one), mailing address, e-mail 
 address, and phone number.
 
-Please note that the final print size will be 5Ã—7 inches.
+Please note that the final print size will be 5×7 inches.
 
 Send entries to:
 

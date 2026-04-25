@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 26
 type: "EVENT"
+venue: "Hatch Art Gallery"
 summary: "Hatch Art Gallery | 100s Day | FEB 13"
 ---
 

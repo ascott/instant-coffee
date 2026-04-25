@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 10
 type: "TALK"
+venue: "Tasai @ Raymond Lum Photography Studio"
 summary: "Tasai @ Raymond Lum Photography Studio | ONExONE | APR 10"
 ---
 
@@ -15,11 +16,11 @@ Raymond Lum Photography Studio
 1810 Pine Street, Vancouver
 
 What to expect at ONExONE
-1. LISTEN to a brief 6 minute presentation (the hors dâ€™oeuvre)
+1. LISTEN to a brief 6 minute presentation (the hors d’oeuvre)
 2. PARTICIPATE in a lively discussion (the main course)
 3. MAKE connections
 4. BE inspired
-5. BASK in the warm glow youâ€™ll feel afterwards
+5. BASK in the warm glow you’ll feel afterwards
 
 Meg Middelstedt: In Defense of Story: Safeguarding Story in a Consumer Society
 Meg cares not just about the craft of creating stories, but about the deep

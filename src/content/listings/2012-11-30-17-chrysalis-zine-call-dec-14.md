@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 17
 type: "CALL"
+venue: "Chrysalis Zine"
 summary: "Chrysalis Zine | CALL | DEC 14"
 ---
 
 Chrysalis Zine is seeking work for its third issue. The subject of Issue 3 will 
-beâ€¦
-imâ€¢presâ€¢sion
+be…
+im•pres•sion
 
 noun /imˈpreSHən/ impressions, plural
 
@@ -24,7 +25,7 @@ A difference made by the action or presence of someone or something
 An imitation of a person or thing, esp. one done to entertain
 - he did an impression of Frank Sinatra
 A graphic or pictorial representation of someone or something
-- the police have issued an artistâ€™s impression of the attacker
+- the police have issued an artist’s impression of the attacker
 A mark impressed on a surface by something
 - the impression of his body on the leaves
 

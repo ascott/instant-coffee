@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 11
 type: ""
+venue: "Vancouver Park Board"
 summary: "Vancouver Park Board | Aboriginal Artists: Carving Residency Opportunity | AUG 6"
 ---
 

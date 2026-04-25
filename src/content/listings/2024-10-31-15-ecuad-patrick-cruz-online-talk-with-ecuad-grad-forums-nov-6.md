@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 15
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | Patrick Cruz Online Talk with ECUAD Grad Forums | NOV 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 24
 type: "EVENT"
+venue: "MOV"
 summary: "MOV | Why I Design | 7-11PM | NOV 3"
 ---
 

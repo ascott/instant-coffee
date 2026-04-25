@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 46
 type: "EVENT"
+venue: "Big Rock Candy Mountain"
 summary: "Big Rock Candy Mountain | QA CHEW'S BUBBLE TROUBLE & Mouthfeel | OCT 31"
 ---
 

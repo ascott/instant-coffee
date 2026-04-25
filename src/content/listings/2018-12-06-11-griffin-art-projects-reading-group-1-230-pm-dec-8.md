@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: He Who Dreams"
 emailDate: "Thu, 06 Dec 2018 12:20:10 -0800"
 number: 11
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Reading Group | 1-2:30 pm | DEC 8"
 ---
 

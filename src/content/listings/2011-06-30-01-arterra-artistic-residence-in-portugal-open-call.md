@@ -4,18 +4,19 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 1
 type: ""
+venue: "ARTErra Artistic Residence in Portugal"
 summary: "ARTErra Artistic Residence in Portugal | Open Call"
 ---
 
 Open Call for ARTErra Artistic Residence in Portugal
 
-ARTErra is structure is placed in LobÃ£o da Beira, a village in 
+ARTErra is structure is placed in Lobão da Beira, a village in 
 PORTUGAL, near Tondela, district of Viseu is now open to 
 receive projects from artist.
 ARTERRA is strongly committed to offering the residents a 
-cheerful and productive stay. Because of that, partÂ­nerships 
+cheerful and productive stay. Because of that, part­nerships 
 have been established with the Municipality of Tondela and 
-LobÃ£o da Beira for reception and possible presentations of 
+Lobão da Beira for reception and possible presentations of 
 performative works, exhibitions, workshops, lectures, etc.
 
 We offer two distinct spaces: the house where the residents can 
@@ -37,7 +38,7 @@ persons involved, technical requirements, work characteristics
 and other additional information relevant to the work process).
 Contact name:ARTErra
 Organisation:Arterra
-Address:Rua Nossa Senhora do Crasto,nÂº380 LobÃ£o da Beira
+Address:Rua Nossa Senhora do Crasto,nº380 Lobão da Beira
 3460-207 Tondela
 Telephone:351962781090
 Email:arterra.geral@gmail.com

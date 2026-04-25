@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 9
 type: "EXHIBITION"
+venue: "Hotam Press Gallery"
 summary: "Hotam Press Gallery | THE NEWS ROOM | JAN 29"
 ---
 

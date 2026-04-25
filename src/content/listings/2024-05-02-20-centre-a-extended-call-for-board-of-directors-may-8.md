@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 20
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Extended: Call for Board of Directors | MAY 8"
 ---
 

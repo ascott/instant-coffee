@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: packing pansies"
 emailDate: "Thu, 15 Apr 2010 09:30:29 -0700"
 number: 14
 type: ""
+venue: "LES Gallery"
 summary: "LES Gallery | Mark DeLon | APR 24"
 ---
 
 Lady Baltimore
 New Works By Mark DeLong
-Opening Reception Saturday April 24th 7:00 â€“ 11:00pm
-April 24th â€“ May 24th
+Opening Reception Saturday April 24th 7:00 – 11:00pm
+April 24th – May 24th
 
 LES Gallery
 1879 Powell St. Vancouver
@@ -26,5 +27,5 @@ group exhibitions including Ed Varie Gallery in New York, Hunter and Cook Galler
 and Attache Gallery internationally. Delong currently lives and works in Vancouver, B.C.
 
 Gallery hours:
-Thursday â€“ Friday 1 â€“ 6, Saturday 12 â€“ 5
+Thursday – Friday 1 – 6, Saturday 12 – 5
 www.lesgallery.ca

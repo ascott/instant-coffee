@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gas"
 emailDate: "Thu, 19 Sep 2024 18:15:13 -0700"
 number: 37
 type: "CALL"
+venue: "The Sidney and Gertrude Zack Gallery"
 summary: "The Sidney and Gertrude Zack Gallery | 2025 Exhibitions | SEP 30"
 ---
 

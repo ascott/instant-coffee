@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unearthing, Folding, Burning"
 emailDate: "Thu, 11 Apr 2019 12:25:25 -0700"
 number: 12
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Katharine Meng-yuan Yi | Healing brush | 3PM | APR 13"
 ---
 

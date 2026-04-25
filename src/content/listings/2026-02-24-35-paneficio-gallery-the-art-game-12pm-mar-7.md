@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 35
 type: "FUNDRAISER"
+venue: "Paneficio Gallery"
 summary: "Paneficio Gallery | THE ART GAME | 12PM | MAR 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 50
 type: "OPENING"
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | The State of Infinite Division | 6-8pm | FEB 1"
 ---
 

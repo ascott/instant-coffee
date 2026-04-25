@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 3
 type: ""
+venue: "ECU: On Edge readings series"
 summary: "ECU: On Edge readings series | Janet Marie Rogers | SEP 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 42
 type: "EVENT"
+venue: "grunt gallery"
 summary: "grunt gallery | Representing the Ephemeral: wen yau | JUL 9"
 ---
 

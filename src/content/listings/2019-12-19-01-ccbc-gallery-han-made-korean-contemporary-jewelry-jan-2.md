@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Weaving Governance"
 emailDate: "Thu, 19 Dec 2019 09:35:08 -0800"
 number: 1
 type: "OPENING"
+venue: "CCBC Gallery"
 summary: "CCBC Gallery | HAN made, Korean Contemporary Jewelry | JAN 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 17
 type: ""
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Simranpreet Anand: Living with the Eternal | 2:00P | APR 19"
 ---
 

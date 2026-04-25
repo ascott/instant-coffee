@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 14
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Drink & Draw | 630-9PM | SEP 7"
 ---
 

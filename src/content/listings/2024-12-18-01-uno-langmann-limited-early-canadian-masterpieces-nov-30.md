@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "Uno Langmann Limited"
 summary: "Uno Langmann Limited | EARLY CANADIAN MASTERPIECES | NOV 30"
 ---
 

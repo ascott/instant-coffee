@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 10
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | Break The Legs of What I Want To Happen | JUN 6"
 ---
 
 Break The Legs of What I Want To Happen
 7 - 21 June, 2014
 Opening Reception Friday 6 June, 2014, 7:00 pm
-Curatorsâ€™ and Artistsâ€™ Tours Saturday 7 June, 2014 hourly from 1:00 until 4:00 
+Curators’ and Artists’ Tours Saturday 7 June, 2014 hourly from 1:00 until 4:00 
 pm and Friday 13 June, 2014 from 2:00 until 4:00 pm
 
 Hovering - as our culture now seems to be - on the brink of abandoning so 
@@ -18,7 +19,7 @@ many paradigms of knowledge and, along with them, assumptions about
 what it means to succeed, the notion of failure itself is proving to be an 
 increasingly evocative site of investigation for artists. Break the Legs Of 
 What I Want To Happen is a collaborative curatorial project developed and 
-realized by the graduating students of Emily Carr Universityâ€™s AHIS 401 
+realized by the graduating students of Emily Carr University’s AHIS 401 
 Topics in Curatorial Projects seminar under the instruction of Access 
 Director/Curator Kimberly Phillips.
 
@@ -43,9 +44,9 @@ pleasure and diversity of drawing, rather than on skill and technical ability.
 
 Draw No Conclusions is held in conjunction with Break the Legs of What I 
 Want To Happen, an exhibition exploring the possibilities of failure, 
-collaboratively curated by the students of Emily Carr Universityâ€™s AHIS 401 
+collaboratively curated by the students of Emily Carr University’s AHIS 401 
 Topics in Curatorial Projects seminar under the instruction of Access 
-Director/Curator Kimberly Phillips. Held in Accessâ€™ gallery space, Draw No 
+Director/Curator Kimberly Phillips. Held in Access’ gallery space, Draw No 
 Conclusions offers participants the opportunity to experiment freely with mark 
 making while exhibiting artists Lexie Owen, Sarah and Rachel Seburn, as 
 well as participating curators Eric Miranda and Jacobo Zambrano, speak 

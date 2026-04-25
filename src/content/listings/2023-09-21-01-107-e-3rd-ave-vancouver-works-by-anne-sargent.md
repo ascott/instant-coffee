@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cropsss"
 emailDate: "Thu, 21 Sep 2023 09:50:06 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "107 E. 3rd. Ave. Vancouver"
 summary: "107 E. 3rd. Ave. Vancouver | works by Anne Sargent"
 ---
 

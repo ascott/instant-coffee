@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: taking the cabin apart"
 emailDate: "Thu, 28 Sep 2017 10:30:05 -0700"
 number: 16
 type: "EXHIBITION"
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Ground Signals Exhibition Tour | OCT 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two times double crossed legged"
 emailDate: "Thu, 29 Jan 2009 09:40:07 -0800"
 number: 11
 type: ""
+venue: "2009 Sobey Art Award"
 summary: "2009 Sobey Art Award | Deadline | FEB 2"
 ---
 
@@ -17,7 +18,7 @@ For details and nomination guidelines, visit artgalleryofnovascotia.ca
 The 2009 Sobey Art Award curatorial advisory panel is made up of five
 distinguished representatives, each from an art gallery located in five
 regions across Canada. The panelists represent the Atlantic Provinces,
-QuÃ©bec, Ontario, Prairies and the North, and the West Coast and Yukon.
+Québec, Ontario, Prairies and the North, and the West Coast and Yukon.
 The curatorial panel creates a list of five artists from each region;
 these 25 artists are selected from the list of all nominated artists.
 The panel makes their decisions based on professional knowledge of
@@ -29,7 +30,7 @@ Liz Wylie, Curator at the Kelowna Art Gallery (West Coast and Yukon)
 Kitty Scott, Director, Visual Arts, The Banff Centre (Prairies and the
 North)
 Ivan Jurakic, Curator at Cambridge Galleries (Ontario)
-Louise DÃ©ry, Director/Curator for Galerie l'UQAM (QuÃ©bec)
+Louise Déry, Director/Curator for Galerie l'UQAM (Québec)
 Terry Graff, Curator & Deputy Director for the Beaverbrook Art Gallery
 (Atlantic)
 
@@ -65,7 +66,7 @@ BACKGROUND
 The Art Gallery of Nova Scotia is responsible for accepting nominations
 for the 2009 Sobey Art Award from recognized agents and institutions. A
 panel of curatorial advisors, consisting of a representative from a
-noted gallery in each of five regions (Atlantic, QuÃ©bec, Ontario,
+noted gallery in each of five regions (Atlantic, Québec, Ontario,
 Prairies and The North and West Coast and Yukon), develops the shortlist
 for the Award. The curatorial panel creates a list of five artists from
 each region; these are selected from the list of nominated artists, and
@@ -85,9 +86,9 @@ by the Art Gallery of Nova Scotia.
 
 Previous winners have included:
 2002 - Brian Jungen (West Coast and Yukon)
-2004 - Jean-Pierre Gauthier (QuÃ©bec)
+2004 - Jean-Pierre Gauthier (Québec)
 2006 - Annie Pootoogook (Prairies and the North)
-2007 - Michel de Broin (QuÃ©bec)
+2007 - Michel de Broin (Québec)
 2008 - Tim Lee (West Coast and Yukon)
 
 SOBEY ART FOUNDATION

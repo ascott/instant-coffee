@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 6
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Evan Broens Perrin Grauer | NOV 29"
 ---
 

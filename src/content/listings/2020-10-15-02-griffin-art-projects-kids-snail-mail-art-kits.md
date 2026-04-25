@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 2
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | KIDS: Snail Mail Art Kits"
 ---
 

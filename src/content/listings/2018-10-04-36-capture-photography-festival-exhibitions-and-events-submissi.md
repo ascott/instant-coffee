@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 36
 type: "CALL"
+venue: "CAPTURE PHOTOGRAPHY FESTIVAL"
 summary: "CAPTURE PHOTOGRAPHY FESTIVAL | EXHIBITIONS AND EVENTS SUBMISSIONS | OCT 21"
 ---
 

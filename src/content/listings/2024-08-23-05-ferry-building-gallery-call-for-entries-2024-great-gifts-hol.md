@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Zummer Zine Zocial"
 emailDate: "Thu, 22 Aug 2024 19:40:14 -0700"
 number: 5
 type: "CALL"
+venue: "Ferry Building Gallery"
 summary: "Ferry Building Gallery | Call for Entries: 2024 Great Gifts Holiday Exhibit"
 ---
 

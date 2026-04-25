@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 15
 type: "FUNDRAISER"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Savour: RAGA’s High Tea and Auction | 3-7PM | NOV 17"
 ---
 

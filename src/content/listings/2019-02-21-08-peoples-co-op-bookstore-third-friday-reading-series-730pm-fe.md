@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 8
 type: "EVENT"
+venue: "People's Co-op Bookstore"
 summary: "People's Co-op Bookstore | THIRD FRIDAY reading series | 730PM | FEB 22"
 ---
 

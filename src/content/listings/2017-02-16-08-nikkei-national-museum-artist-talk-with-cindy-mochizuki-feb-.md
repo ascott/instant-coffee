@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slop sink, bike parking, and bus l
 emailDate: "Thu, 16 Feb 2017 10:25:14 -0800"
 number: 8
 type: "TALK"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Artist Talk with Cindy Mochizuki | FEB 18"
 ---
 

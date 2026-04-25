@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 16
 type: ""
+venue: "manomano, The STAG Library and Access Gallery"
 summary: "manomano, The STAG Library and Access Gallery | The 2nd Annual CRAFT PRIDE PROCESSION | AUG 24"
 ---
 

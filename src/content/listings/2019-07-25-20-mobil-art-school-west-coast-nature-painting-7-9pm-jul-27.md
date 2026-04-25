@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 20
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | West Coast nature painting | 7-9PM | JUL 27"
 ---
 

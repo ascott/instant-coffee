@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 33
 type: "OPENING"
+venue: "WAAP"
 summary: "WAAP | Mitch Speed: Permanent Head | 6-9PM | SEP 12"
 ---
 

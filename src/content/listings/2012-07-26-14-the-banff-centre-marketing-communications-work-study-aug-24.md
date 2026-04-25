@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 14
 type: ""
+venue: "The Banff Centre"
 summary: "The Banff Centre | Marketing & Communications Work Study | AUG 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are interested in twins and isl
 emailDate: "Wed, 30 May 2012 12:21:18 -0700"
 number: 18
 type: ""
+venue: "ON MAIN"
 summary: "ON MAIN | Call for Artists - CAMERA/WHORE | JUN 21"
 ---
 
@@ -24,7 +25,7 @@ form/forum activated by the viewers/viewed blurring the boundaries
 between artist/audience, voyeur/exhibitionist, spectator/spectacle, and 
 consumer/consumed.
 
-Camera/whoreâ€™s name is appropriated from net culture. Popularized by 
+Camera/whore’s name is appropriated from net culture. Popularized by 
 the home webcam, â€œCamera whoreâ€  or â€œcam whoreâ€ , is an internet 
 slang developed by the rapid trend of digital representations. The slash 
 (/) is inserted to draw attention to the separation of both the camera 

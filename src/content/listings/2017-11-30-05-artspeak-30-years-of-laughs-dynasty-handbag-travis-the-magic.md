@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 5
 type: "FUNDRAISER"
+venue: "Artspeak"
 summary: "Artspeak | 30 Years of Laughs | Dynasty Handbag + Travis the Magician | DEC 1"
 ---
 

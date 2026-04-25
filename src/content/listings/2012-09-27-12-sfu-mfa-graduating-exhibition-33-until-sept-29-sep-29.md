@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 12
 type: ""
+venue: "SFU MFA Graduating Exhibition"
 summary: "SFU MFA Graduating Exhibition | 3/3 | until Sept 29 | SEP 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
 emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
 number: 8
 type: ""
+venue: "Macaulay & Co."
 summary: "Macaulay & Co. | Judy Chartrand | Givin it Back 2017 | MAR 24"
 ---
 

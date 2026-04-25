@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it's not easy being this hypermobi
 emailDate: "Thu, 16 Apr 2009 08:50:13 -0700"
 number: 8
 type: ""
+venue: "Or Gallery and Charles H. Scott Gallery"
 summary: "Or Gallery and Charles H. Scott Gallery | Lisl Ponger and Tim Sharp | APR 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Automatic Negative Thoughts"
 emailDate: "Thu, 04 Jul 2019 06:40:40 -0700"
 number: 14
 type: "TALK"
+venue: "CAG"
 summary: "CAG | What's Copyright Got to Do with It? | 3PM | JUL 6"
 ---
 

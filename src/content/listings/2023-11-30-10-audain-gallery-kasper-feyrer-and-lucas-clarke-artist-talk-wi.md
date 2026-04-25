@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 10
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Kasper Feyrer and Lucas Clarke Artist Talk with Bo | DEC 2"
 ---
 

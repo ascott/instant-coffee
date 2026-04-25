@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 26
 type: "CALL"
+venue: "Bowling Green Community Activity Centre"
 summary: "Bowling Green Community Activity Centre | Call to Artists | FEB 5"
 ---
 

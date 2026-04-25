@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 18
 type: ""
+venue: "La Galerie, Contemporary Art Centre"
 summary: "La Galerie, Contemporary Art Centre | residency programme: curator | JAN 23"
 ---
 

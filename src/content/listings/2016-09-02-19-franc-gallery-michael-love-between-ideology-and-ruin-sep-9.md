@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 19
 type: "OPENING"
+venue: "Franc Gallery"
 summary: "Franc Gallery | Michael Love: Between Ideology and Ruin | SEP 9"
 ---
 

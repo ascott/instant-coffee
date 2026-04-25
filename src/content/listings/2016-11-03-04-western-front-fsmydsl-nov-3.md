@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND..."
 emailDate: "Thu, 03 Nov 2016 10:45:15 -0700"
 number: 4
 type: ""
+venue: "Western Front"
 summary: "Western Front | FSMYDSL | NOV 3"
 ---
 

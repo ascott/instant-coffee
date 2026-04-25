@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 8
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | Liz Magor | JAN 10"
 ---
 

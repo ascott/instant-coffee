@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no more reality"
 emailDate: "Thu, 13 Jun 2013 09:11:02 -0700"
 number: 25
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Ian Forbes | JUN 21"
 ---
 

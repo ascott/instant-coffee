@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 17
 type: "EVENT"
+venue: "THE CAPILANO REVIEW"
 summary: "THE CAPILANO REVIEW | CULTURAL REALITIES OF RESISTANCE | MAR 4"
 ---
 

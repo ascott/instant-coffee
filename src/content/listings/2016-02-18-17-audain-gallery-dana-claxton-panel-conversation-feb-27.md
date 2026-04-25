@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 17
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Dana Claxton: Panel Conversation | FEB 27"
 ---
 

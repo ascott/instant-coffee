@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 14
 type: "CALL"
+venue: "Cheeky Proletariat Gallery"
 summary: "Cheeky Proletariat Gallery | WHITE | DEC 3"
 ---
 

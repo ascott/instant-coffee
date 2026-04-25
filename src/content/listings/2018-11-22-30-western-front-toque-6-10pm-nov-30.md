@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 30
 type: "FUNDRAISER"
+venue: "Western Front"
 summary: "Western Front | TOQUE | 6-10pm | NOV 30"
 ---
 

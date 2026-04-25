@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: much to everyone's surprise by pop
 emailDate: "Thu, 14 Aug 2008 00:00:23 -0700"
 number: 4
 type: ""
+venue: "OPEN TEXT"
 summary: "OPEN TEXT | Capilano Art-Vending Machine Launch | AUG 20"
 ---
 

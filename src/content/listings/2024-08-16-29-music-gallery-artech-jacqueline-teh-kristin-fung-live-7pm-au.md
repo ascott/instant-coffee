@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 29
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Gallery @ Artech | Jacqueline Teh & Kristin Fung LIVE | 7PM | AUG 30"
 ---
 

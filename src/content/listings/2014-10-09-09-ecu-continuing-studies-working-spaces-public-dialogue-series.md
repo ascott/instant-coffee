@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: west winds of loss"
 emailDate: "Thu, 09 Oct 2014 11:55:48 -0700"
 number: 9
 type: ""
+venue: "ECU: continuing studies"
 summary: "ECU: continuing studies | Working Spaces | Public Dialogue Series | OCT 15"
 ---
 

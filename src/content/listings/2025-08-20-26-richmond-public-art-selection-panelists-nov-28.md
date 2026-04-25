@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 26
 type: "CALL"
+venue: "Richmond Public Art"
 summary: "Richmond Public Art | Selection Panelists | NOV 28"
 ---
 

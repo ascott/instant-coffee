@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Alienhood"
 emailDate: "Wed, 10 Mar 2021 08:05:19 -0800"
 number: 20
 type: "EDUCATION"
+venue: "VIVO [ONLINE WORKSHOP]"
 summary: "VIVO [ONLINE WORKSHOP] | Intro to Music Production & Ableton Live | MAR 16"
 ---
 

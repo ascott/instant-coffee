@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 36
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | MASSEY ARTS | Zine Launch: “Dreaming Hand-in-Hand” | 5PM | MAR 24"
 ---
 

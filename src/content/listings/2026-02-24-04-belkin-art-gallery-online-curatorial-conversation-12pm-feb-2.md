@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Soft Piano Feet"
 emailDate: "Mon, 23 Feb 2026 22:30:09 -0800"
 number: 4
 type: "TALK"
+venue: "Belkin Art Gallery [ONLINE]"
 summary: "Belkin Art Gallery [ONLINE] | Curatorial Conversation | 12PM | FEB 24"
 ---
 

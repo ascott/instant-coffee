@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: You're the stars up in the sky; yo
 emailDate: "Fri, 22 Oct 2010 09:28:53 -0700"
 number: 15
 type: ""
+venue: "Simon Fraser University Gallery"
 summary: "Simon Fraser University Gallery | A talk with Randi Winter | OCT 28"
 ---
 

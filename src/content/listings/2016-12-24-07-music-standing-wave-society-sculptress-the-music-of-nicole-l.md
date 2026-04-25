@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a street vending location"
 emailDate: "Fri, 23 Dec 2016 21:20:06 -0800"
 number: 7
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Standing Wave Society | SCULPTRESS: THE MUSIC OF NICOLE LIZEE | DEC 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Taxes"
 emailDate: "Wed, 24 Mar 2021 08:00:11 -0700"
 number: 32
 type: "CALL"
+venue: "The Fifty Fifty Arts Collective"
 summary: "The Fifty Fifty Arts Collective | Call for Submissions for the 2021/22 Programming | APR 23"
 ---
 

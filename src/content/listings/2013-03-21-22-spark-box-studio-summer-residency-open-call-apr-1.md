@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 22
 type: ""
+venue: "Spark Box Studio"
 summary: "Spark Box Studio | Summer Residency Open Call | APR 1"
 ---
 

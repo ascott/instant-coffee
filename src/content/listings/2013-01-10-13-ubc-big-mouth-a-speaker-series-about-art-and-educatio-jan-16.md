@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 13
 type: ""
+venue: "UBC"
 summary: "UBC | BIG MOUTH: A Speaker Series about Art and Educatio | JAN 16"
 ---
 
@@ -49,25 +50,25 @@ www.mfineart.ca
 3.	Omer Arbel
 Omer Arbel is the Founder of Omer Arbel Office (OAO), a creative firm that 
 has produced boundary-breaking projects such as The 23.2 House, which 
-was shortlisted for the 2010 World Architecture Festival Award. OAOâ€™s limited 
+was shortlisted for the 2010 World Architecture Festival Award. OAO’s limited 
 edition furniture has been exhibited in galleries including the Vancouver Art 
 Gallery and the Chicago Athenaeum Museum. In 2010, Arbel co-designed the 
 2010 Winter Olympic Medals with artist Corinne Hunt. Arbel is the recipient of 
-the Canada Councilâ€™s 2010 Ron Thom Early Design Achievement Award. He 
+the Canada Council’s 2010 Ron Thom Early Design Achievement Award. He 
 is also Creative Director at Bocci, a high-end manufacturing and design 
 company. 
 www.omerarbel.com
 
 4.	Bruce Haden
 Bruce is Principal at DIALOG, an award-winning Architecture firm that is 
-behind notable projects such as SFUâ€™s UniverCity and UBCâ€™s new AMS 
+behind notable projects such as SFU’s UniverCity and UBC’s new AMS 
 Student Union Building. In fact, Bruce is Project Architect for the new SUB. 
 Bruce has extensive experience in institutional, social services, residential, 
 retail and First Nations projects, with work ranging widely from wastewater 
 treatment plants to cafes. Bruce has chaired the Vancouver Urban Design 
 Panel, and has been the Vancouver correspondent for Canadian Architect 
 Magazine for a decade. Recently, he was the President of the Board of 
-Vancouverâ€™s Contemporary Art Gallery. 
+Vancouver’s Contemporary Art Gallery. 
 www.dialog.ca
 
 5.	Graeme Berglund

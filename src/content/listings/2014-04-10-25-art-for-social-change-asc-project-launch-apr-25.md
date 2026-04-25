@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 25
 type: ""
+venue: "Art for Social Change (ASC!)"
 summary: "Art for Social Change (ASC!) | Project Launch | APR 25"
 ---
 
@@ -27,7 +28,7 @@ Thursday, May 29 to Saturday, June 7, 2014
 
 Arts Health BC (artshealthbc.ca), Judith Marcuse Projects, the International 
 Centre of Art for Social Change (ICASC), the ASC! Project, and the City of 
-Vancouver invite you to join us in the Studio Theatre of Vancouverâ€™s 
+Vancouver invite you to join us in the Studio Theatre of Vancouver’s 
 Performing Arts Lodge (PAL) for a series of events designed to explore aging 
 and the wellbeing of seniors in our communities. All events are free!
 

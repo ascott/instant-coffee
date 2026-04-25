@@ -4,13 +4,14 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 4
 type: ""
+venue: "Gallery FUKAI"
 summary: "Gallery FUKAI | THE HAPPIEST FUTURE | OCT 5"
 ---
 
 Gallery FUKAI is very pleased to announce THE HAPPIEST FUTURE, a solo 
 show of new work from former Vancouver based artist Sonny Assu.
 
-THE HAPPIEST FUTURE has been inspired by World War I â€“ II / Communist 
+THE HAPPIEST FUTURE has been inspired by World War I – II / Communist 
 era propaganda dissemination, and based on the oppressive language that 
 has been, and continues to be used by the Canadian government, its officials, 
 its departments, and its bills of law. The language used, which has never been 

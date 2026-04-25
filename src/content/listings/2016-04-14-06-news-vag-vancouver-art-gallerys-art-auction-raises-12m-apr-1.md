@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 6
 type: ""
+venue: "NEWS"
 summary: "NEWS | VAG | Vancouver Art Gallery's Art Auction Raises $1.2M | APR 14"
 ---
 

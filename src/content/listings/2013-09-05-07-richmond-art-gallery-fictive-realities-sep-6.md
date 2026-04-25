@@ -4,37 +4,38 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: using the random to find the patte
 emailDate: "Thu, 05 Sep 2013 13:01:17 -0700"
 number: 7
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Fictive Realities | SEP 6"
 ---
 
-Date: September 7 â€“ November 3, 2013
+Date: September 7 – November 3, 2013
 Artists: Michelle Gay , Lee Henderson, Doug Jarvis, Steve Lyons, Peter Morin 
 Title: Fictive Realities
 Opening Friday September 6, 7:00pm to 9:00pm
 Curator: Paul Walde
 Description
-Fictive Realities: What is real and how do we know itâ€™s real? In a wired world 
+Fictive Realities: What is real and how do we know it’s real? In a wired world 
 where so much of our daily communication and consumption of information is 
 mediated through technology, how do we separate fiction from reality? 
 Language itself is already mediating and informing our experiences as we 
 post, tweet and blog to potentially millions. Recognizing that many of things 
-that we take for granted in everyday life are constructionsâ€” fabrications that 
-colour our vision of our lives and our environmentsâ€”the artists in Fictive 
+that we take for granted in everyday life are constructions— fabrications that 
+colour our vision of our lives and our environments—the artists in Fictive 
 Realities present â€œtruthsâ€  about our lives by overlaying them on the familiar 
 and the mundane. Using technologies such interactive digital projection, 
 artware (artist made software), video mediated sculptural installations, and 
 good old fashioned storytelling, Fictive Realities is an exhibition that literally 
 and figuratively projects alternate visions of our reality making us aware of the 
 fictions we inhabit. 
-Saturday, Sept 7, 2:00 â€“ 4:00 pm
-ARTISTSâ€™ PANEL DISCUSSION
+Saturday, Sept 7, 2:00 – 4:00 pm
+ARTISTS’ PANEL DISCUSSION
 
 Guest curator Paul Walde facilitates a panel discussion with the artists 
 exhibiting in Fictive Realities.
 
 Free admission, everyone welcome.
 
-Curator Paul Walde is an intermedia artist, composer, and curator. Waldeâ€™s 
+Curator Paul Walde is an intermedia artist, composer, and curator. Walde’s 
 body of work suggests unexpected interconnections between landscape, 
 identity, and technology and includes painting, photography, printmaking, 
 sculpture, installation and audio. Recently his work was seen at the Electric 
@@ -59,7 +60,7 @@ member of Audio Lodge, a Canadian experimental sound art collective.
 Michelle Gay studied art and art history at the University of Toronto and 
 received her MFA from NSCAD (Halifax, Nova Scotia). Her work often 
 experiments with the ubiquitous desktop PC, as a site of intimate virtual or 
-digital experiences â€“ teasing out resonant connections between machines 
+digital experiences – teasing out resonant connections between machines 
 and bodies and between digital and actual spaces. She often collaborates 
 with her brother and particle physicist Colin Gay on these â€œartwareâ€  projects. 
 Interested in the possibilities of touch and poetics within new media platforms, 
@@ -90,8 +91,8 @@ LABEL Festival in Victoria BC, and was the 2010-11 Artist-in-residence
 Fellow at the Centre for Studies in Religion and Society, University of Victoria. 
 His personal and collective projects have recently been shown at G++ 
 Interactive Media Arts Gallery, Victoria, PAVED Arts, Saskatoon, Latitude 53, 
-Edmonton, Eastern Edge, St. Johnâ€™s, Harbour Front Gallery, Toronto, and the 
-Xiâ€™an Academy of Fine Arts in Xiâ€™an, China. Jarvis is the current President of 
+Edmonton, Eastern Edge, St. John’s, Harbour Front Gallery, Toronto, and the 
+Xi’an Academy of Fine Arts in Xi’an, China. Jarvis is the current President of 
 the Pacific Association of Artist Run Centres and a board member of the 
 Ministry of Casual Living. He holds an MFA in studio art from the University of 
 Guelph, ON, and is currently Guest Curator at Open Space Arts Society 
@@ -103,7 +104,7 @@ recently been exhibited at Espace Electra, Fondation EDF (Paris), Artspace
 and in the 2009 Windsor Biennial at the Art Gallery of Windsor. He received 
 an MA in Art History from Concordia University and a BFA in Studio Art from 
 the University of Western Ontario. He participated in a two month artist 
-residency at CitÃ© Internationale des Arts in Paris just prior to beginning his 
+residency at Cité Internationale des Arts in Paris just prior to beginning his 
 PhD course work at UWO. His studies are funded by the SSHRC.
 
 Peter Morin is a Tahltan Nation artist, curator and writer currently based in 
@@ -115,9 +116,9 @@ exhibitions and live events. Morin has curated exhibitions at the Museum of
 Anthropology, Western Front, The Burnaby Art Gallery and Grunt Gallery 
 among others and in 2011 curated Revisiting the Silence, an exhibition of 
 photographs by Adelaide de Menil, at the Bill Reid Gallery of Northwest Coast 
-Art and Peter Morinâ€™s Museum at Satellite Gallery, both in Vancouver. In 2010 
+Art and Peter Morin’s Museum at Satellite Gallery, both in Vancouver. In 2010 
 the artist was awarded the British Columbia Creative Achievement Award for 
-First Nationsâ€™ Art. Morin is currently serving as the curator in residence at 
+First Nations’ Art. Morin is currently serving as the curator in residence at 
 Open Space Artist Run Centre in Victoria BC.
 
 Richmond Art Gallery 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copper Numens"
 emailDate: "Thu, 24 Oct 2019 10:13:31 -0700"
 number: 9
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Sunday Afternoon Tours | OCT 27"
 ---
 

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 31
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Adventures in Chemistry: Darkroom Safety | APR 19"
 ---
 
 Adventures in Chemistry: Darkroom Safety
 
-Sunday Apr 19, 11.00am â€“ 1.00pm
+Sunday Apr 19, 11.00am – 1.00pm
 
 Cineworks Annex, Ironworks, 235 Alexander Street
 (basement, lane entrance: please ring the bell to the right of the gate)

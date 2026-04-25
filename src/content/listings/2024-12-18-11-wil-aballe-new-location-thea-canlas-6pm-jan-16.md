@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Histrionic Vortex"
 emailDate: "Tue, 17 Dec 2024 21:15:06 -0800"
 number: 11
 type: "OPENING"
+venue: "Wil Aballe [NEW LOCATION]"
 summary: "Wil Aballe [NEW LOCATION] | THEA CANLAS | 6PM | JAN 16"
 ---
 

@@ -30,7 +30,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-09-27-16-modern-fuel-artist-run-centre-seeking-artistic-director-king">16. Modern Fuel Artist-Run Centre | seeking: Artistic Director, Kingston | OCT 1</a>
 <a href="/instant-coffee/listings/2012-09-27-17-vivo-media-arts-centre-gadget-making-with-arduino-oct-1">17. VIVO Media Arts Centre | Gadget Making with Arduino | OCT 1</a>
 <a href="/instant-coffee/listings/2012-09-27-18-exercise-marina-pinsky-oct-5">18. Exercise | Marina Pinsky | OCT 5</a>
-<a href="/instant-coffee/listings/2012-09-27-19-cineworks-cindy-mochizukis-shiro-yagi-closing-oct-6">19. Cineworks | Cindy Mochizukiâ€™s Shiro Yagi | Closing | OCT 6</a>
+<a href="/instant-coffee/listings/2012-09-27-19-cineworks-cindy-mochizukis-shiro-yagi-closing-oct-6">19. Cineworks | Cindy Mochizuki’s Shiro Yagi | Closing | OCT 6</a>
 <a href="/instant-coffee/listings/2012-09-27-20-west-vancouver-museum-selwyn-pullan-oct-9">20. West Vancouver Museum | Selwyn Pullan | OCT 9</a>
 <a href="/instant-coffee/listings/2012-09-27-21-grunt-gallery-mounira-al-solh-oct-11">21. grunt gallery | Mounira Al Solh | OCT 11</a>
 <a href="/instant-coffee/listings/2012-09-27-22-ross-creek-centre-for-the-arts-call-for-gallery-proposals-no">22. Ross Creek Centre for the Arts | Call for Gallery Proposals, Nova Scotia | OCT 31</a>
@@ -42,11 +42,11 @@ instant coffee listings / send us your art posts for free
 ------------------------------------------------------------------------
 State of Mind: New California Art Circa 1970
 
-September 28 â€“ December 9, 2012
+September 28 – December 9, 2012
 
 Opening Reception: Thursday, September 27, 8-10 pm
 
-Curatorsâ€™ Talk: Saturday, September 29, 1:30-3 pm
+Curators’ Talk: Saturday, September 29, 1:30-3 pm
 
 State of Mind: New California Art Circa 1970 investigates Conceptual 
 art and related avant-garde activities from the late 1960s to the mid-
@@ -55,7 +55,7 @@ other transplants, attracted by its beauty, climate and relative ease of
 living. More importantly, this part of the US was emerging as a leading 
 incubator for social change and a youth-oriented counterculture, 
 tendencies that were complementary to artists seeking alternatives to 
-traditional modes of art making. Californiaâ€™s art schools, universities 
+traditional modes of art making. California’s art schools, universities 
 and artist-run spaces provided new exhibition opportunities and, 
 additionally, the distance from the New York art press, commercial 
 galleries and museums gave artists greater freedom to experiment as 
@@ -66,7 +66,7 @@ represented tradition, California the future.
 Artists working in California at this time deemphasized the art object in 
 favour of the idea and process that went into its making. They explored 
 new noncommercial genres: text-based works, video, sound, 
-performance, installations, mail art and artistsâ€™ books. No longer bound 
+performance, installations, mail art and artists’ books. No longer bound 
 by practical considerations of scale, materials, or salability, they turned 
 to collectivity, ephemerality, body-oriented performance, the merging 
 of art and life, political commentary and social interaction which have 
@@ -76,8 +76,8 @@ forty years.
 Organized around central themes such as mapping the environment, 
 the street, feminism, and the body, the exhibition features 
 approximately 150 works by 60 artists, ranging from those who 
-became major international figuresâ€”Ant Farm, John Baldessari, Chris 
-Burden, Lynn Hershman, Bruce Nauman, Martha Rosler, Ed Ruschaâ€”
+became major international figures—Ant Farm, John Baldessari, Chris 
+Burden, Lynn Hershman, Bruce Nauman, Martha Rosler, Ed Ruscha—
 to lesser-known artists who nonetheless made important contributions 
 and merit renewed attention. The exhibition consists of video, film, 
 photography, installation, artist's books, drawing, and paintings. 
@@ -86,7 +86,7 @@ ephemera.
 
 State of Mind: New California Art Circa 1970 complements the 
 upcoming exhibition at the Vancouver Art Gallery, Traffic: Conceptual 
-Art in Canada 1965â€“1980, an ambitious project that examines similar 
+Art in Canada 1965–1980, an ambitious project that examines similar 
 sensibilities as they developed in Canada. In addition, several of the 
 artists in State of Mind visited Vancouver at the time, mostly at the 
 invitation of Image Bank and the Western Front.
@@ -103,7 +103,7 @@ and the ICI Board of Trustees.
 
 The Morris and Helen Belkin Art Gallery gratefully acknowledges the 
 generous support of the Canada Council for the Arts and our Belkin 
-Curatorâ€™s Forum members.
+Curator’s Forum members.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-09-27-02-satellite-gallery-myfanwy-macleod-sep-27">02. Satellite Gallery | MYFANWY MACLEOD | SEP 27</a>
@@ -126,7 +126,7 @@ MacLeod. The series consists of origami sculptures and photographs
 of origami designs, each made from pages of a Playboy magazine in 
 which Vancouver-born playmate, Dorothy Stratten, appears as a 
 centerfold. Through a process of folding and unfolding, the works fulfill 
-Hugh Hefnerâ€™s criteria for the ideal centerfoldâ€”namely, that â€œa situation 
+Hugh Hefner’s criteria for the ideal centerfold—namely, that “a situation 
 is suggested: the presence of someone not in the picture.â€ 
 
 Dorothy Stratten (1960â€“1980) was â€œdiscoveredâ€  by her future husband 
@@ -138,7 +138,7 @@ became involved with filmmaker Peter Bogdanovich. After she ended
 her marriage to him, Stratten was murdered by Snider, who then 
 committed suicide.
 
-Her grisly death inspired Bob Fosseâ€™s film Star 80 (1983) as well as the 
+Her grisly death inspired Bob Fosse’s film Star 80 (1983) as well as the 
 TV movie Death of a Centerfold: The Dorothy Stratten Story (1981). 
 Stratten was also the subject of a book by Bogdanovich written four 
 years after her death, titled The Killing of the Unicorn: Dorothy Stratten 
@@ -156,11 +156,11 @@ throughout Canada, the United States and Europe, with recent
 exhibitions at the National Gallery of Canada and Mass MoCa. She is 
 the recipient of a VIVA award from the Doris and Jack Shadbolt 
 Foundation in 1999. She was awarded the City of Vancouver artist 
-studio residency (2002â€“2005) and the Glenfiddich Distillery artist-in-
+studio residency (2002–2005) and the Glenfiddich Distillery artist-in-
 residence program (2005).
 
 In 2008, MacLeod was commissioned to create a public sculpture for 
-the City of Vancouverâ€™s Olympic and Paralympic public art program. 
+the City of Vancouver’s Olympic and Paralympic public art program. 
 The Birds were permanently installed in April 2010. Her work is held in 
 public collections, including the national gallery of Canada, the 
 Vancouver Art Gallery, and in numerous private Canadian collections. 
@@ -183,7 +183,7 @@ samples from their menu, including homemade chutney, charcuterie,
 and beyond. The new and upcoming Show & Tell Press presents Made 
 in Vancouver (their inaugural, handbound publication), a pop-up shop 
 with a well curated selection of artist books/zines in the Satellite 
-bookstore, as well as a reading space in the Galleryâ€™s storefront 
+bookstore, as well as a reading space in the Gallery’s storefront 
 window. M&C Fine Art presents new works by artist Shawn Hunt. 
 
 
@@ -219,7 +219,7 @@ www.greencollege.ubc.ca
 ------------------------------------------------------------------------
 FAG Satellite @ Access Gallery continues this week with;
 
-Little girl / ugly girl / not bad / just evil girl / Ariel Smith / September 25 â€“ 
+Little girl / ugly girl / not bad / just evil girl / Ariel Smith / September 25 – 
 29
 
 Reception (Artist in attendance): Friday September 28th, 7-10pm
@@ -251,8 +251,8 @@ Media Arts Network Ontario (MANO).
 
 Her experience as a girl, and as a survivor of abuse and exploitation is 
 at the root of her practice, and has influenced how she sees most 
-everything in the worldâ€”men, women, relationships, economics, race, 
-class, social hierarchies, feminism, the law. Arielâ€™s experience with 
+everything in the world—men, women, relationships, economics, race, 
+class, social hierarchies, feminism, the law. Ariel’s experience with 
 difference and marginalization forms the basis for much of her film and 
 video work.
 
@@ -308,7 +308,7 @@ Other Upcoming events/installations for FAG @ Access include;
 
 October 02-06 Valerie Salez (Canada) In the shadow of our own dust
 
-October 09-13 Sharlene Bamboat (Toronto) The Queenâ€™s Punishment
+October 09-13 Sharlene Bamboat (Toronto) The Queen’s Punishment
 
 Access Gallery gratefully acknowledges the Canada Council for the 
 Arts, BC Arts Council, City of Vancouver, our members and volunteers. 
@@ -344,7 +344,7 @@ labour lawyer and human rights mediator/specialist, in 2003 she
 established her own practice providing advice on employment, labour, 
 human rights, privacy, intellectual property, governance, and charity 
 law to non profit organizations, co-ops and social innovators of all 
-kinds. In 2005, she co-founded the Artistsâ€™ Legal Outreach legal advice 
+kinds. In 2005, she co-founded the Artists’ Legal Outreach legal advice 
 clinic in BC (artistslegaloutreach.ca). A recognized expert in copyright 
 and its impact on artists she appeared before the Legislative 
 Committee on Bill C-11 in March 2012. She teaches copyright to the 
@@ -357,7 +357,7 @@ Bailey. Lindsay worked at Bennett Jones LLP in Toronto, Ontario
 practicing business law with experience working with media, 
 technology and entertainment clients requiring a range of business and 
 intellectual law property services. During her years in Toronto, Lindsay 
-volunteered at the Artistsâ€™ Legal Advice Service (ALAS) providing 
+volunteered at the Artists’ Legal Advice Service (ALAS) providing 
 summary legal advice to artists of a range of practices. Since her years 
 in Toronto, Lindsay has been instrumentally involved with Femmarte, a 
 private art fund committed to supporting the careers of contemporary 
@@ -379,10 +379,10 @@ Know Your Copyright
 Friday, September 28, 2012
 
 W2, W2 Media Cafe is located at 111 West Hastings St, in the Atrium 
-of the Woodwardâ€™s heritage building, at the corner of Abbott and 
+of the Woodward’s heritage building, at the corner of Abbott and 
 Hastings in downtown Vancouver, BC.
 
-11:00am â€“ 1 p.m. 
+11:00am – 1 p.m. 
 
 Free.
 
@@ -492,21 +492,21 @@ Perpetual Sunset by INSTANT COFFEE
 
 Launch event * meet at the skytrain * live music * the sunset * tequila sunrise 
 
-Saturday, September 29th, 4:30pm â€“ 7:30pm
+Saturday, September 29th, 4:30pm – 7:30pm
 
 Meet at the Canada Line Yaletown Station or Cambie Street station at 4:30 
 pm 
-sharp. Weâ€™ll ride the train together. Live on train performance by Mariachi 
+sharp. We’ll ride the train together. Live on train performance by Mariachi 
 Spirit.
 
-Instant Coffee is launching â€˜Perpetual Sunsetâ€™ our new public commission, 
+Instant Coffee is launching ‘Perpetual Sunset’ our new public commission, 
 which fills the west-facing wall of the Camino Development Project in 
 Richmond 
 and can be seen from the Canada Line. Spanning over 80 feet wide and 40 
 feet 
 high, the mural made of nearly 40,000 individual reflective coloured sequins is 
 designed to catch the natural light, most directly echoing the setting sun. The 
-immense scale of the artwork creates a mirroring effect that extends the sunâ€™s 
+immense scale of the artwork creates a mirroring effect that extends the sun’s 
 rays and sustains this daily occurrence in its refraction. 
 
 This romantic gesture to portray, capture and stay the majesty of the sunset 
@@ -519,23 +519,23 @@ of it. Instant Coffee builds on this shared infatuation and need to represent th
 every day event, but also wants to rival this desire by portraying it on a grand 
 scale while simultaneously extending its physical properties.
 
-â€˜Perpetual Sunsetâ€™ was commissioned by the City of Richmond Public Art 
+‘Perpetual Sunset’ was commissioned by the City of Richmond Public Art 
 Program and the Camino Strata Council with support from Urban Art 
 Management
 
-If you canâ€™t make the train at 4:30 pm please join us at The Camino 
+If you can’t make the train at 4:30 pm please join us at The Camino 
 Development, 8068 Westminster Highway located in Richmond at the 
-intersection of Westminster Highway and No. 3 Road. Itâ€™s not so far.
+intersection of Westminster Highway and No. 3 Road. It’s not so far.
 
 Contact us@instantcoffee.org for more information
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2012-09-27-09-burnaby-art-gallery-linofest-sep-29">09. Burnaby Art Gallery | Linofest | SEP 29</a>
 ------------------------------------------------------------------------
-Burnaby Art Gallery presents Linofest, Saturday Sept 29, noon â€“ 5 pm
+Burnaby Art Gallery presents Linofest, Saturday Sept 29, noon – 5 pm
 
 Celebrate Culture Days in Burnaby with a day dedicated to the art of 
-Linocut. Free artist talks and demos with some of BCâ€™s most skilled 
+Linocut. Free artist talks and demos with some of BC’s most skilled 
 printmakers including Nic Vandergugten, Gary Sims, Susan Gransby, 
 Torrie Groening and many more. Hundreds of prints will be on display 
 and for sale with a free drop-in printing project for kids with 
@@ -627,7 +627,7 @@ Havent seen the exhibition yet? Check out our Curatorial Intern's essay
 on the exhibition then come down to the gallery 12-6pm Wed-Sat.
 
 When I began to write about the context of this show as the Curatorial 
-Intern for On Main I didnâ€™t know where to begin. The question was how 
+Intern for On Main I didn’t know where to begin. The question was how 
 to context the many layers of qualities and circumstance that 
 interconnect in such inert ways to form a concerted thesis, a creative 
 partnership, an exhibition and publication.
@@ -643,17 +643,17 @@ way, not so different then understanding anything: how our bodies age,
 how cities change, our self, others. Time is the unifying theme of all 
 works in this exhibition, and with it, the exhibition will end.  
 
-I remember when I saw Lisa Steeleâ€™s, Birthday Suit with scars and 
+I remember when I saw Lisa Steele’s, Birthday Suit with scars and 
 defects, 1974, as she mesmerized me with the magic of magnetic 
-tapeâ€™s ability to record the unceasing passage of time, and within this 
-the lived bodyâ€™s journey through life, and the deathly depiction of all 
+tape’s ability to record the unceasing passage of time, and within this 
+the lived body’s journey through life, and the deathly depiction of all 
 things. This process based work declared the body as a subject of 
 interrogation and preservation.With this, the Long Time marks several 
 important milestone in time. 
 
   First and foremost, in the life and career of the artists, who have 
 once again turned the camera back onto them self returning to the 
-early video experimentation of the mid 70â€™s to produce a broad 
+early video experimentation of the mid 70’s to produce a broad 
 intersection into their recent 21st Century praxis. For this exhibition, we 
 were lucky to witness the completion of before I wake..., a difficult and 
 traumatic work for the artist to complete which had been in progress 
@@ -666,8 +666,8 @@ final installment, to complete the series, explores what happens after
 death; what happens after just one of them dies? With this concern for 
 the transience of all things, video rescues the subject for eternity and 
 yet, makes clear their mortality: all representations will die, all 
-representations are death. In Roland Barthesâ€™ Camera Lucida, Barthes 
-considers a picture of his mother: â€œthe photograph tells me death in the 
+representations are death. In Roland Barthes’ Camera Lucida, Barthes 
+considers a picture of his mother: “the photograph tells me death in the 
 future. What pricks me is the discovery of this equivalence. In front of 
 the photograph of my mother as a child, I tell myself: she is going to 
 die: I shudder ... over a catastrophe which has already occurredâ€ . Like 
@@ -682,11 +682,11 @@ long project within the artist run center culture is no coincidence. In
 fact, I believe it to be a deliberate creative, ethical and political decision 
 by the Steele + Tomczak. Many of those involved with the Long Time 
 have been artist-run from the very beginning. Tomczak is one of the 
-co-founders of Vancouverâ€™s early artist run centers PUMPS + Power, 
+co-founders of Vancouver’s early artist run centers PUMPS + Power, 
 and along with Lisa Steele runs VTape. Lisa Steele is co-founder of V-
 Tape, a Toronto based artist run center which is also the largest 
 archive of art tapes in North America. Crista Dahl, VIVO cofounder, has 
-organized VIVOâ€™s expansive collection of Steele + Tomczak from within 
+organized VIVO’s expansive collection of Steele + Tomczak from within 
 the archive for this exhibition. Furthermore, the curator, Paul Wong, is 
 cofounder of VIVO Media Arts Center and On Main. The two 
 organizations have partnered to present this important artist-run 
@@ -704,7 +704,7 @@ of international significance. We hope to enlighten the public to these
 important contributions within Canadian video art history. In this 
 respect, the Long Time will be on tour throughout Canada in the 
 coming years. We hope you get a chance to appreciate the exhibition 
-in itâ€™s first iteration here at On Main.
+in it’s first iteration here at On Main.
 
    On behalf of On Main, I would like to thank all those who have 
 visited us at 1965 Main St over the course of this exhibition. I would like 
@@ -757,7 +757,7 @@ Saturday, September 29 @ 7pm-11pm
 In conjunction with Pro Am @ The Western Front
 
 Ping: Submarines, ham radio operators, and internet connected computers 
-send out signals and wait for a responseâ€¦
+send out signals and wait for a response…
 sometimes called an echo request, all of those things are kind of about 
 waiting alone in the darkness and hoping (believing) that someone will reply.
 
@@ -765,7 +765,7 @@ Feat works by: Cory Arcangel, Nicolas Sassoon, Brenna Murphy, Sara Ludy,
 Duncan Alexander, Matthew Williamson, Stage, Chris Shier & more
 
 Free Admission
-Nicola Internet CafÃ©
+Nicola Internet Café
 1565 Robson St. 
 
 http://front.bc.ca/events/pro-am-art-and-culture-on-the-internet/
@@ -777,9 +777,9 @@ http://front.bc.ca/events/pro-am-art-and-culture-on-the-internet/
 Vancouver Art Gallery Presents Major Survey of Pivotal Art Movement
 
 TRAFFIC: Conceptual Art in Canada, 1965-1980
-September 29, 2012 â€“ January 20, 2013
+September 29, 2012 – January 20, 2013
 
-Vancouver, BC â€“ Brash, witty, touching and more than occasionally 
+Vancouver, BC – Brash, witty, touching and more than occasionally 
 subversive, conceptual art revolutionized ideas of art in the late-20th 
 century, creating new outlooks for artistic expression which continue to 
 be influential today. Opening on September 29th at the Vancouver Art 
@@ -789,7 +789,7 @@ sweeping survey of this important art movement
 
 Five years in the making, this exhibition is the result of an 
 unprecedented collaboration between curators from institutions across 
-the country. â€œWe are very proud to be part of this important 
+the country. “We are very proud to be part of this important 
 collaborative exhibition,â€  said Gallery director Kathleen Bartels. â€œTraffic 
 represents a significant contribution to the historical record of 
 contemporary art in Canada and we are pleased to partner with other 
@@ -797,30 +797,30 @@ Canadian art institutions and galleries in organizing this landmark
 exhibition.â€ 
 
 Conceptual art emerged in the context of the social and political turmoil 
-of the 1960s and 1970s â€“ from feminism and gay liberation to anti-
-racism and anti-war movements â€“ and presented a profound challenge 
+of the 1960s and 1970s – from feminism and gay liberation to anti-
+racism and anti-war movements – and presented a profound challenge 
 to the institution of art. In Vancouver, as elsewhere, conceptual art was 
 both inspired by and an active participant in the ferment and fervour of 
-the times. From Vincent Trasovâ€™s Mr. Peanut campaign in 1974â€¦ to 
-Gathie Falkâ€™s examination of societyâ€™s constraints on women in her 
-1972 performance Red Angelâ€¦ to the tongue-in-cheek wit of N.E. 
-Thingâ€™s productionsâ€¦ Vancouver artists bucked tradition and 
+the times. From Vincent Trasov’s Mr. Peanut campaign in 1974… to 
+Gathie Falk’s examination of society’s constraints on women in her 
+1972 performance Red Angel… to the tongue-in-cheek wit of N.E. 
+Thing’s productions… Vancouver artists bucked tradition and 
 traditional views of art.
 
 Mapping the diverse forms of conceptualism, the exhibition includes 
 examples of performance art, film and video art, and many other art 
-practices which broke new ground during the era. â€œThis was a period of 
+practices which broke new ground during the era. “This was a period of 
 amazing experimentation in artâ€  said Grant Arnold, Audain Curator of 
-British Columbia Art at the Vancouver Art Gallery. â€œConceptualism is 
+British Columbia Art at the Vancouver Art Gallery. “Conceptualism is 
 one of the most wide-reaching and long-lasting artistic movements in 
-the history of contemporary art and the movementâ€™s influence in this 
+the history of contemporary art and the movement’s influence in this 
 country has long deserved this major recognition and attention.â€ 
 
 Traffic also presents notable early works by Christos Dikeakos, Rodney 
 Graham, Jeff Wall and other now internationally renowned Vancouver-
-based artists. Other artists featured in Traffic include Vancouverâ€™s 
+based artists. Other artists featured in Traffic include Vancouver’s 
 Michael de Courcy, Carole Itter, Roy Kiyooka and N.E. Thing Co.; 
-Torontoâ€™s General Idea, Joyce Wieland and Michael Snow; Montrealâ€™s 
+Toronto’s General Idea, Joyce Wieland and Michael Snow; Montreal’s 
 William Vazan, David Tomas, Raymond Gervais and Rober Racine; 
 Clive Robertson and Paul Woodrow in the prairies and pivotal 
 conceptual artists such as John Baldessari and Lawrence Weiner who 
@@ -836,7 +836,7 @@ Germany in 2013.
 
 Traffic is curated by Grant Arnold (Vancouver Art Gallery), Catherine 
 Crowston (Art Gallery of Alberta), Barbara Fischer (Justina M. Barnicke 
-Gallery, Hart House, University of Toronto), MichÃ¨le ThÃ©riault (Leonard 
+Gallery, Hart House, University of Toronto), Michèle Thériault (Leonard 
 & Bina Ellen Art Gallery, Concordia University) with Vincent Bonin (also 
 the Ellen Gallery), and Jayne Wark (Nova Scotia College of Art and 
 Design). Organized by the Art Gallery of Alberta, Justina M. Barnicke 
@@ -877,19 +877,19 @@ Gachet "Salon Shop" all year, starting this fall. Here is Gallery Gachet's
 Basis of Unity to give you some inspiration:
 
 Our Basis of Unity
-â€¢	We agree to support the artistic and professional development of 
+•	We agree to support the artistic and professional development of 
 our community as a means to achieve social, cultural and economic 
 justice
-â€¢	We agree to support the wellness of people marginalized by their 
+•	We agree to support the wellness of people marginalized by their 
 mental health, trauma and/or abuse experience
-â€¢	We work for the elimination of discrimination against people 
+•	We work for the elimination of discrimination against people 
 marginalized by their mental health, trauma and/or abuse experience
-â€¢	We believe in the expression and practice of art and culture as a 
+•	We believe in the expression and practice of art and culture as a 
 human right
-â€¢	We agree to promote the critical function of art and culture in 
+•	We agree to promote the critical function of art and culture in 
 building a healthy societyW
-â€¢	We believe art is a means for survival, self-expression and health
-â€¢	
+•	We believe art is a means for survival, self-expression and health
+•	
 The "Salon Shop" is an inclusive micro-gallery space located within our 
 Gachet walls featuring work by Gachet's collective and volunteer 
 members. As art and cultural spaces and resources are seized and 
@@ -951,7 +951,7 @@ Run Centre facilitating the presentation, interpretation, and production of
 contemporary visual, time-based and interdisciplinary arts. Modern Fuel 
 supports innovation and experimentation, and is committed to the education 
 of interested publics and the diversification of its audiences. This is an 
-exciting time for Modern Fuel as it moves into Kingstonâ€™s new arts cluster, the 
+exciting time for Modern Fuel as it moves into Kingston’s new arts cluster, the 
 Tett Centre for Creativity & Learning.
 
 Position Summary:
@@ -970,7 +970,7 @@ Key Roles and Responsibilities:
 ● Chairs the Programming Committee
 ● With the Programming Committee and other involved individuals and 
 organizations, the Artistic Director develops the annual schedule of 
-exhibitions and events for Modern Fuelâ€™s programming streams: Main Gallery, 
+exhibitions and events for Modern Fuel’s programming streams: Main Gallery, 
 State of Flux, New Media Workspace and Art in the Streets.
 ● Initiates and solicits programming at the Centre, which may include up 
 to 2 independently curated exhibitions. Communicates and coordinates with 
@@ -1005,7 +1005,7 @@ Director and Gallery Assistant.
 ● Engages in community networking including organizing artist dinners.
 ● Assists the Administrative Director and relevant staff and Board 
 members with the development of budgets, maintenance of financial records 
-as needed, and preparation of the year-end auditorâ€™s report as needed.
+as needed, and preparation of the year-end auditor’s report as needed.
 ● Supports the coordination of membership renewal campaigns.
 ● Presents a welcoming and informative face to the patrons and public 
 who visit the gallery.
@@ -1139,28 +1139,28 @@ Canada
 www.exercisecanada.com
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-09-27-19-cineworks-cindy-mochizukis-shiro-yagi-closing-oct-6">19. Cineworks | Cindy Mochizukiâ€™s Shiro Yagi | Closing | OCT 6</a>
+<a href="/instant-coffee/listings/2012-09-27-19-cineworks-cindy-mochizukis-shiro-yagi-closing-oct-6">19. Cineworks | Cindy Mochizuki’s Shiro Yagi | Closing | OCT 6</a>
 ------------------------------------------------------------------------
-Cineworks proudly presents: Cindy Mochizukiâ€™s Shiro Yagi
+Cineworks proudly presents: Cindy Mochizuki’s Shiro Yagi
 
 2012 Local Artist in Residence (LAIR) Final Presentation
 
 Shiro Yagi is an experimental animated film that is inspired from the last sheet 
-of existing music of the artistâ€™s maternal grandfather, Sueo Mori. Mori was a 
+of existing music of the artist’s maternal grandfather, Sueo Mori. Mori was a 
 poet, composer and high school teacher based in Yokohama, Japan. The 
 composition and poem was written in 1927. The film explores the re-connection 
 of memory through conversations, between the director and her mother that 
-ensued after Moriâ€™s musical and literary practices were re-discovered from the 
+ensued after Mori’s musical and literary practices were re-discovered from the 
 piece of ephemera.
 
-The film is set in a fictional â€˜land of sleepâ€™, where a mother and her two children 
+The film is set in a fictional ‘land of sleep’, where a mother and her two children 
 encounter the haunting music of their late grandfather. The narrative is 
-juxtaposed with the actual interview with the artistâ€™s mother that calls into 
+juxtaposed with the actual interview with the artist’s mother that calls into 
 question the reliability of memory against time.
 
-Shiro Yagi features sound design by Antoine BÃ©dard with new compositions by 
-mimiâ€™s ami and Takeo Yamashiro. The layered aesthetic treatment of the 
-animation explores the 1920â€™s genre of early Japanese cinema and storytelling 
+Shiro Yagi features sound design by Antoine Bédard with new compositions by 
+mimi’s ami and Takeo Yamashiro. The layered aesthetic treatment of the 
+animation explores the 1920’s genre of early Japanese cinema and storytelling 
 techniques kamishibai (Japanese paper theatre), and tatebanko (miniature 
 paper dioramas). The stop motion set is created by moveable panels of paper 
 and have integrated lighting designed by James Proudfoot. The animation also 
@@ -1168,7 +1168,7 @@ includes rotoscoped treatment of video, super 8 footage, and photographs. The
 film is narrated by Maiko Bae Yamamoto and James Long.
 
 The production of this film has received financial assistance from B.C. Arts 
-Council. National Association of Japanese Canadians, NFB Filmmakerâ€™s 
+Council. National Association of Japanese Canadians, NFB Filmmaker’s 
 Assistance Program, Cineworks LAIR Residency and The City of Vancouver. 
 
 Join us for this closing reception/screening/installation on Saturday, October 6, 
@@ -1177,7 +1177,7 @@ Join us for this closing reception/screening/installation on Saturday, October 6
 At our Cineworks Studio (1131 Howe St, back lane entrance). The film will 
 screen on loop throughout the evening.
 
-8 â€“ 10 p.m. Free
+8 – 10 p.m. Free
 
 With Refreshments sponsored by The Powell Street Festival and Driftwood 
 Brewery
@@ -1375,7 +1375,7 @@ programs@artscentre.ca if you have any additional questions
 
 Mail your submissions to:
 
-Artist Program Director â€“ Gallery Submissions â€“ 2013-2014 season
+Artist Program Director – Gallery Submissions – 2013-2014 season
 
 Ross Creek Centre for the Arts 555 Ross Creek Road, Canning, Nova 
 Scotia B0P 1H0 Box 190
@@ -1391,7 +1391,7 @@ Ross Creek Centre for the Arts
 
 Mobile: 902.698.1777, Phone: 902.582.3842, Fax: 902.582.7943
 
-Box 190 â€¢ 555 Ross Creek Road â€¢ Canning â€¢ NS â€¢ B0P 1H0
+Box 190 • 555 Ross Creek Road • Canning • NS • B0P 1H0
 
 www.artscentre.ca
 
@@ -1399,7 +1399,7 @@ tw fb
 
 The Ross Creek Centre for the Arts is a multi disciplinary arts 
 education and development centre based on 178 acres of farm and 
-forest in Nova Scotiaâ€™s Annapolis Valley. Our facilities and programs 
+forest in Nova Scotia’s Annapolis Valley. Our facilities and programs 
 are designed to serve the artistic and cultural communities of Nova 
 Scotia, of Canada, and of the world, with a focus on professional artist 
 development, youth education and Aboriginal arts programming.

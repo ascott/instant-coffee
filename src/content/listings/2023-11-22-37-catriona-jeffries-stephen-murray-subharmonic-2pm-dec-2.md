@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 37
 type: "EVENT"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Stephen Murray Subharmonic | 2PM | DEC 2"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 10
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Laura Lamb | APR 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
 emailDate: "Thu, 22 May 2025 13:30:11 -0700"
 number: 19
 type: "TALK"
+venue: "Virtual Artist Talk"
 summary: "Virtual Artist Talk | Sondi at Access Gallery | MAY 28"
 ---
 

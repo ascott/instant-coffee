@@ -4,14 +4,15 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 10
 type: ""
-summary: "Richmond Art Gallery | Young Peopleâ€™s Image World: Dr. Stuart R. Poyntz | MAR 5"
+venue: "Richmond Art Gallery"
+summary: "Richmond Art Gallery | Young People’s Image World: Dr. Stuart R. Poyntz | MAR 5"
 ---
 
 Richmond Art Gallery
 
-Young Peopleâ€™s Image World: Media Literacy for the Digital Age
+Young People’s Image World: Media Literacy for the Digital Age
 A discussion with Dr. Stuart R. Poyntz, Ph.D.
-Saturday March 5, 1â€“2pm in the Gallery
+Saturday March 5, 1–2pm in the Gallery
 
 This discussion looks at the impact of digital media on youth culture. How
 does imagery from television, film, video games, and fashion magazines
@@ -21,8 +22,8 @@ daily basis?
 
 Dr. Stuart R. Poyntz is an Assistant Professor of Media, Technology and
 Production for the School of Communication at Simon Fraser University. Dr.
-Poyntz works with childrenâ€™s media culture, theories of the public sphere,
-and young peopleâ€™s historical thinking in relation to digital media. He has
+Poyntz works with children’s media culture, theories of the public sphere,
+and young people’s historical thinking in relation to digital media. He has
 an extensive background in the history of media literacy, nationally and
 internationally, and has published writing in the Canadian Journal of
 Education, the Review of Education, Pedagogy and Cultural Studies, and

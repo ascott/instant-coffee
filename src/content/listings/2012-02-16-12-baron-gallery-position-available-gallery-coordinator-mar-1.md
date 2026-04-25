@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is reason enough"
 emailDate: "Thu, 16 Feb 2012 14:45:40 -0800"
 number: 12
 type: ""
+venue: "Baron Gallery"
 summary: "Baron Gallery | Position available: Gallery Coordinator | MAR 1"
 ---
 
@@ -24,21 +25,21 @@ job.
 
 Desired/Required Skills:
 
-â€¢ Understanding of Social Media platforms for marketing purposes
+• Understanding of Social Media platforms for marketing purposes
 
-â€¢ Proficiency with Photoshop for design of marketing kits
+• Proficiency with Photoshop for design of marketing kits
 
-â€¢ Knowledge of contemporary art
+• Knowledge of contemporary art
 
 (preferably some educational or professional experience)
 
-â€¢ Strong written and interpersonal skills
+• Strong written and interpersonal skills
 
-â€¢ Fluency in written and spoken English
+• Fluency in written and spoken English
 
-â€¢ Some French an asset
+• Some French an asset
 
-â€¢ Positive and energetic personality with enthusiasm for the gallery and 
+• Positive and energetic personality with enthusiasm for the gallery and 
 its potential
 
 How to Apply:

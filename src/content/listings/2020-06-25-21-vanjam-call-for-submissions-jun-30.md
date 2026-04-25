@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 21
 type: "CALL"
+venue: "VANJAM"
 summary: "VANJAM | Call for Submissions | JUN 30"
 ---
 

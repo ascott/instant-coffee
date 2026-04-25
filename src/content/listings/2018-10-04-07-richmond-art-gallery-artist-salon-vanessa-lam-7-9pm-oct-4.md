@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 7
 type: "TALK"
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Artist Salon: Vanessa Lam | 7-9PM | OCT 4"
 ---
 

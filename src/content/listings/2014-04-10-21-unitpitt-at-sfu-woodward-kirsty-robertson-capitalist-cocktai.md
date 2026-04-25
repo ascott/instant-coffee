@@ -4,17 +4,18 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 21
 type: ""
+venue: "UNIT/PITT at SFU Woodward"
 summary: "UNIT/PITT at SFU Woodward | Kirsty Robertson: Capitalist Cocktails ... | APR 16"
 ---
 
-Kirsty Robertson: Capitalist Cocktails and Moscow Mules â€“ Activism in the 
+Kirsty Robertson: Capitalist Cocktails and Moscow Mules – Activism in the 
 Museum and Gallery
 
 Spaces of Contestation Speaker Series, Talk 5
 
 Wednesday April 16, 7pm
 
-World Art Centre at SFU Woodwardâ€™s (149 West Hastings)
+World Art Centre at SFU Woodward’s (149 West Hastings)
 
 Activism in the museum and gallery
 
@@ -51,7 +52,7 @@ performances.
 
 The speaker series is co-presented by UNIT/PITT, the SFU Vancity Office of 
 Community Engagement and the SFU Institute for the Humanities. Collective 
-Walks/Spaces of Contestation is supported through the BC Arts Councilâ€™s 
+Walks/Spaces of Contestation is supported through the BC Arts Council’s 
 Arts-Based Community Development Program and by the Hamber Foundation.
 
 UNIT/PITT

@@ -12,7 +12,7 @@ listingCount: 26
 
 instant coffee listings / send us your art posts for free 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-12-06-01-gallery-gachets-20th-anniversary-collective-habitat-1997-201">01. Gallery Gachetâ€™s 20th Anniversary | Collective Habitat 1997-2012 | DEC 6</a>
+<a href="/instant-coffee/listings/2012-12-06-01-gallery-gachets-20th-anniversary-collective-habitat-1997-201">01. Gallery Gachet’s 20th Anniversary | Collective Habitat 1997-2012 | DEC 6</a>
 <a href="/instant-coffee/listings/2012-12-06-02-western-front-toque-craft-fair-fundraiser-dec-7">02. Western Front | TOQUE: CRAFT FAIR + FUNDRAISER | DEC 7</a>
 <a href="/instant-coffee/listings/2012-12-06-03-or-gallery-things-matter-dec-7">03. OR GALLERY | Things' Matter | DEC 7</a>
 <a href="/instant-coffee/listings/2012-12-06-04-exercise-adam-harrison-dec-7">04. EXERCISE | Adam Harrison | DEC 7</a>
@@ -27,16 +27,16 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2012-12-06-13-contemporary-art-gallery-2-job-postings-in-public-programs-d">13. Contemporary Art Gallery | 2 job postings in Public Programs | DEC 28</a>
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2012-12-06-01-gallery-gachets-20th-anniversary-collective-habitat-1997-201">01. Gallery Gachetâ€™s 20th Anniversary | Collective Habitat 1997-2012 | DEC 6</a>
+<a href="/instant-coffee/listings/2012-12-06-01-gallery-gachets-20th-anniversary-collective-habitat-1997-201">01. Gallery Gachet’s 20th Anniversary | Collective Habitat 1997-2012 | DEC 6</a>
 ------------------------------------------------------------------------
-In honour of Gallery Gachetâ€™s 20th Anniversary
+In honour of Gallery Gachet’s 20th Anniversary
 Collective Habitat 1997-2012
 ART-i-FACT: 88 East Cordova
 Curated by Bernadine Fox
 Dec 6th - Feb 17th, 2012
 Opening night: Thurs Dec 6th, 7-10pm
 This year Gallery Gachet celebrates 20 years of being an artist-run centre, 
-and 15 years of inhabiting our space at 88 East Cordova Street in Vancouverâ€™s 
+and 15 years of inhabiting our space at 88 East Cordova Street in Vancouver’s 
 Downtown Eastside. It is also the year our lease expires - renewal is in 
 process but the longevity of maintaining our home is uncertain in a 
 transitioning community rife with instability, gentrifying forces, and rapidly 
@@ -47,23 +47,23 @@ ART-i-FACT: 88 East Cordova is a thematic series of programming examining
 and illuminating the state of contemporary arts culture in Vancouver, using our 
 building as artifact, case-study, and portal. This examination emerges 
 foremost from the perspectives of the artists who have utilized the space over 
-the past to the present day. Last autumnâ€™s presentation consisted of a 
+the past to the present day. Last autumn’s presentation consisted of a 
 Canada Council-funded performance art series curated by Irene Loughlin, The 
 State of Perceived Folly in collaboration with LIVE 2011, as well as the 
 Gallery Gachet & Oppenheimer Park Community Art Show that just 
 celebrated and paid homage to our community engaged arts history.
-This fallâ€™s collective focused ART-i-FACT exhibition is entitled, Collective 
-Habitat 1997-2012. It presents Gachet Collective Membersâ€™ works, past and 
+This fall’s collective focused ART-i-FACT exhibition is entitled, Collective 
+Habitat 1997-2012. It presents Gachet Collective Members’ works, past and 
 present, engaging audiences with contemporary disability/mental health 
-diversity/politicized art practices, artists and allies. Gachetâ€™s gallery and 
+diversity/politicized art practices, artists and allies. Gachet’s gallery and 
 studio space, precariously balanced in a neighbourhood undergoing advanced 
 gentrification has emerged as a symbol of creative refuge and artist-driven 
 authenticity. We present our physical space, 88 East Cordova, as a window 
-through which to view Gachet Collective Membersâ€™ works and critical voices, 
-and to further the publicâ€™s understanding of artist-run centres and threatened 
+through which to view Gachet Collective Members’ works and critical voices, 
+and to further the public’s understanding of artist-run centres and threatened 
 habitat.
 The gallery and studio space at 88 East Cordova Street will drip with 
-incarnations of our collectiveâ€™s momentum, transforming the space into a 
+incarnations of our collective’s momentum, transforming the space into a 
 visage with emblazoned walls, plinths, illuminated nooks and crannies. 
 Cumulatively this will paint an image of the essential relationship between 
 physical space and artistic development for both individual artists and 
@@ -73,35 +73,35 @@ bears witness to creative engagement with art against oppression, paradigms
 of self-taught vs. school taught, politically motivated art, art borne of abuse 
 and marginalization, inclusive art, and art revealing the power dynamics within 
 contemporary art practice and institutions. 88 East Cordova has provided a 
-backdrop for struggles, fruition, reinvention and triumphs. Gachetâ€™s 
+backdrop for struggles, fruition, reinvention and triumphs. Gachet’s 
 contributions are unusual, subversive and underrepresented. In the 
 development of the knowledge exchange concerning art, Gachet engages 
 mental diversity, inclusivity issues and intersections of oppression. Vision, 
 reality and artistic output have an intimate relationship with perspective and 
 socially-defined definitions of sanity and competence. As we move into a 
 more expansive and accepting climate in the contemporary art world in 
-Canada - one that is warming to outsider, disability and political art â€“ 
+Canada - one that is warming to outsider, disability and political art – 
 Collective Habitat creates an artistic and theoretical record of Gallery 
-Gachetâ€™s participation in this zeitgeist.
+Gachet’s participation in this zeitgeist.
 The space has not only been home to Gachet artists for 15 years. The artist 
 collective Futura Bold was formed while renting 88 East Cordova as a studio 
 from 1984 to 1986. Founding members Graham Gillmore, Angela Grossmann, 
 Attila Richard Lukacs and Derek Root later became internationally-recognized 
-artists. Sharing their studio was artist Susi Milne, the Western Frontâ€™s video 
+artists. Sharing their studio was artist Susi Milne, the Western Front’s video 
 and performance art curator at the time, and acclaimed writer and luminary, 
 Douglas Coupland, who later in 2002 joined the Futura Bold Collective. In the 
 mid 1990s Wesley Yuen, a collector and gallerist, ran Project Gallery at 88 
 East Cordova. It is also rumoured that Jack Shadbolt ran his studio out of the 
 space - but no specific information is available to confirm this fact, so it will 
-remain a whisper in 88 East Cordovaâ€™s past.
+remain a whisper in 88 East Cordova’s past.
 The show opens on Thursday December 6th, and is curated by long-time 
 Gachet Associate Member, Bernadine Fox. With a catalogue contribution by 
-Mary Ann Anderson, who was Gachetâ€™s first staff person and continued on for 
-nearly a decade - she brought the 88 East Cordova â€˜for rentâ€™ listing to the 
-Collectiveâ€™s attention in 1997 - and an essay by visual artist and writer, Bruce 
+Mary Ann Anderson, who was Gachet’s first staff person and continued on for 
+nearly a decade - she brought the 88 East Cordova ‘for rent’ listing to the 
+Collective’s attention in 1997 - and an essay by visual artist and writer, Bruce 
 Ray, one of our longest members on the Collective. To celebrate Gallery 
-Gachetâ€™s practice of exhibiting established artists, our Salon Shop area pays 
-tribute to the many incredible artists weâ€™ve had the privilege of working with 
+Gachet’s practice of exhibiting established artists, our Salon Shop area pays 
+tribute to the many incredible artists we’ve had the privilege of working with 
 over the years, including: Vasan Sitthiket, Claudia Bernal, Grant Mercs, S.D. 
 Holman, Judy Jheung, Chumpon and Noi Apisuk, Deb Thompson; as well as 
 a portion of the front gallery space dedicated to telling the history of the 
@@ -142,7 +142,7 @@ bike from Whoa! Nellie. Join us for cocktails and a bratwurst barbeque on
 Friday night, and a Western Front bake sale and kids' craft table courtesy of 
 Collage Collage on Saturday.
 
-This yearâ€™s participating vendors include Anita Sikma, AW for Andrea Wong, 
+This year’s participating vendors include Anita Sikma, AW for Andrea Wong, 
 Coconama Chocolate, Contexture Design, Draw Me A Lion, Erin Templeton, 
 Fieldwork, Fable Naturals, Fleet Objects, Gailan Ngan, Henderson Dry 
 Goods, Hendrik Lou, Jennifer Fedorink, Jesse Gray, Nellija Zi, Perro Verlag, 
@@ -150,15 +150,15 @@ Publication Studio, Simply Read Books, Tin Can Studio, Wendy Oakman +
 more.
 
 Proceeds from TOQUE support Western Front, a not-for-profit arts 
-organization. Held in the legendary setting of Western Frontâ€™s 1920s heritage 
+organization. Held in the legendary setting of Western Front’s 1920s heritage 
 building, this fundraiser is a great way to support your artistic community.
 
-For more information about this yearâ€™s event and participating vendors, please 
+For more information about this year’s event and participating vendors, please 
 visit www.toque2012.tumblr.com
 
 â€œA true artistsâ€™ fair with a solidly local feelâ€  â€“ Scout Magazine
 
-â€œOf all the artisan fairs happening this Christmas, the Western Frontâ€™s annual 
+“Of all the artisan fairs happening this Christmas, the Western Front’s annual 
 Toque sale just might be the most artful.â€  - Georgia Straight
 
 
@@ -221,7 +221,7 @@ Please join us for the opening reception Friday October 7th, 6-10 pm
 
 An edition will be published with the exhibition.
 
-With support from Grieger, DÃ¼sseldorf.
+With support from Grieger, Düsseldorf.
 
 Gallery hours 12-5 Friday and Saturday (ring buzzer)
 Or by appointment
@@ -244,8 +244,8 @@ from Vancouver based artist Jason Gowans.
 Please join us for the opening reception on Friday December 7th from 8pm. 
 Gallery FUKAI is located at 602 Hastings Street at Princess.
 
-"I wondered if itâ€™s possible to represent the idea of landscape in photography 
-without representing the actual sites. Itâ€™s both the genius and curse of 
+"I wondered if it’s possible to represent the idea of landscape in photography 
+without representing the actual sites. It’s both the genius and curse of 
 photography to be bound to the time and place of its subject. The location of 
 the landscape is forever the forefront of the photo in question. Could I make 
 images that address the landscape genre all the while representing an 
@@ -258,10 +258,10 @@ and be confronted with images that were decidedly underwhelming. They
 conveyed none of the concepts I was interested in once they were bound to a 
 rectilinear plane
 
-Works such as Robert Smithsonâ€™s Non-Sites, Michael Snowâ€™s La RÃ©gion 
+Works such as Robert Smithson’s Non-Sites, Michael Snow’s La Région 
 Centrale, or western movie sets were extremely influential in providing 
 answers while I was investigating this problem. In fact, many of the works in 
-this exhibition were designed looking directly at Smithsonâ€™s Non-Sites. His 
+this exhibition were designed looking directly at Smithson’s Non-Sites. His 
 sculptures provided a skeleton to build up the imagery. 
 
 This show was created from physical objects. I built maquettes using found 
@@ -309,7 +309,7 @@ on fragments, influenced by pre-historic middens, garbage dumps, and
 geological formations. Founded in his life-long interest in archeology and 
 partly a response to current development and land issues in the city, his 
 works evoke the physical remains of human history hidden just below 
-Vancouverâ€™s parking lots, condo developments, and city streets. Alward is 
+Vancouver’s parking lots, condo developments, and city streets. Alward is 
 interested in how these images reconfigure space, how time is enacted within 
 these spaces, and how history is formulated as a present experience: now. 
 
@@ -352,7 +352,7 @@ With goods ranging from publications, T-shirts, textiles, ceramics, dolls,
 baked goods and more by:
 
 Mitmunk Design http://mitmunk.com/
-Dennis Ha & Barry DoupÃ©
+Dennis Ha & Barry Doupé
 Justine and Janice Cheung
 Peggy and Karen Ngan
 And more.....
@@ -377,14 +377,14 @@ Tix: $10.50/$9 + $3 membership
 http://www.dimcinema.ca
 
 DIRECTOR BARRY DOUPÃ‰ IN ATTENDANCE! ► In The Colors that 
-Combine to Make White are Important, Vancouver animator Barry DoupÃ© 
+Combine to Make White are Important, Vancouver animator Barry Doupé 
 explores the power structure within a failing Japanese glass factory. Two 
-parallel storylines â€” one involving the investigation of a suspect employee, 
-the other a stolen painting â€” converge in an exposition on gender and desire. 
-DoupÃ©â€™s computer-animated film has its characters rapidly evolve through 
+parallel storylines — one involving the investigation of a suspect employee, 
+the other a stolen painting — converge in an exposition on gender and desire. 
+Doupé’s computer-animated film has its characters rapidly evolve through 
 three distinct acts, while subverting the dominant archetypes in the Japanese 
 salaryman genre. The hierarchical relationship between boss and employees 
-is undone to examine language, art, and expression. DoupÃ©â€™s characters are 
+is undone to examine language, art, and expression. Doupé’s characters are 
 looking for something only to be found through a crisis of feeling, a shaking up 
 of the human world. The film peeks into another, formerly invisible world, one 
 which wants to know the meaning of the body, the meaning of attraction. 
@@ -395,7 +395,7 @@ points, flattening them out into a dialogue of desperate, over-reaching
 thoughts and searching inquiries about nature, love, mortality, and 
 consciousness. Colour, computer animation/ SD video. 119mins.
 
-Barry DoupÃ©, born 1982 in Victoria, B.C., is a Vancouver-based artist 
+Barry Doupé, born 1982 in Victoria, B.C., is a Vancouver-based artist 
 primarily working with computer animation. He graduated from Emily Carr 
 University in 2004 with a Bachelor of Media Arts majoring in animation. His 
 films have been screened at various venues across Canada and around the 
@@ -447,7 +447,7 @@ Nicolas Sassoon, WAVES at
 Yaletown-Roundhouse Station, Canada Line continues until January 20, 2013.
 
 WAVES is presented in partnership with the Canada Line Public Art Program 
-â€” IntransitBC.
+— IntransitBC.
 
 Gallery hours: Tuesday to Sunday, 12-6 pm.
 
@@ -501,17 +501,17 @@ composed the soundtrack, which took the form of a five hour terrestrial pirate
 radio broadcast from the rooftop of the parking garage at the corner of Main 
 and Georgia in Vancouver.
 
-From the perspective of Art History, modern artâ€™s intellectual superiority (and 
+From the perspective of Art History, modern art’s intellectual superiority (and 
 heroic self-congratulation) over design is fully justified since designers are 
 able to avoid confronting the abyss of their own desire due to one thing: the 
 clientâ€™s desire. Designers can â€œplay the gameâ€  with little problem since their 
-desire is simply to fulfill the clientâ€™s desire. Conversely, detached from the 
+desire is simply to fulfill the client’s desire. Conversely, detached from the 
 guild or systems of patronage, modern artists are tormented by the enigma of 
-the question of the otherâ€™s desire, Che vuoi? (what does the 'Other' want from 
+the question of the other’s desire, Che vuoi? (what does the 'Other' want from 
 me?) and ultimately propelled by the question, â€œhow do I know what I want?â€ 
 
 So the story goes: while costume designers are busy making costumes to 
-fulfill whatever desire theyâ€™ve been presented with, it is only in art that we can 
+fulfill whatever desire they’ve been presented with, it is only in art that we can 
 ask the question: what is a costume? But does this stereotypical theorization 
 still hold? It is capitalism that turns the question around and affects design 
 and art equivalently in its speculation about desire. For if something is 
@@ -524,12 +524,12 @@ Are we too proud to be exploited as designers are? Should we be realistic and
 accept the game even though it may diminish our opportunity to confront the 
 question of what it is we want to achieve as artists today? Could this be the 
 story that we are trying to tell? On Friday December 14, 2012 at 221A, 
-Tiziana La Meliaâ€™s performance will present the costumes aspect of The Part 
+Tiziana La Melia’s performance will present the costumes aspect of The Part 
 of No Part.
 
 Dan Starling (b. 1979, Vancouver, BC) is an interdisciplinary artist from 
 Vancouver whose work has been recently exhibited at the Kunsthall, Oslo. He 
-has been educated at Emily Carr University and StÃ¤delschule, Frankfurt am 
+has been educated at Emily Carr University and Städelschule, Frankfurt am 
 Main.
 
 Tiziana La Melia (Vancouver) uses performance to fuse poetry, costumes, 
@@ -553,14 +553,14 @@ Form in Matter, a solo exhibition by Vancouver artist Karen Zalamea.
 Opening Reception: Fri, Dec 14th 7:00 - 9:00
 Exhibition Runs: Dec 14th - Jan 26th
 
-Exploring the visual language of maps and modeling, Zalameaâ€™s current body 
+Exploring the visual language of maps and modeling, Zalamea’s current body 
 of photographic images present transformed representations of space. 
 Qualities of line, light, shadow and transparency permeate her images of 
 deconstructed maquettes. Photographed in the studio, the resulting grayscale 
 planes and fragments suggest shifting spaces and perspectives rendered 
 displaced, dislodged, disoriented.
 
-Zalameaâ€™s work is involved in the material concerns of image-making 
+Zalamea’s work is involved in the material concerns of image-making 
 practices, often incorporating labour-intensive processes that bring together 
 elements of drawing, sculpture and performance in her photographic and video 
 production.
@@ -579,7 +579,7 @@ Coordinator Public Programs: Family, Children and Schools.
 
 CAG
 
-The Contemporary Art Gallery is Vancouverâ€™s longest standing independent 
+The Contemporary Art Gallery is Vancouver’s longest standing independent 
 art gallery dedicated to the research, exhibition, education and documentation 
 of contemporary visual art as it is practiced locally through to internationally. It 
 aspires to generate significant audiences for its innovative and diverse 
@@ -596,7 +596,7 @@ Job Summary
 The Learning Coordinator will utilize knowledge and experience of the visual 
 arts, pedagogy, museum education, artistic and learning practices, art history 
 and a broad awareness of other creative practices and culture conceive, 
-develop and lead on Educational and Public Programâ€™s families, youth and 
+develop and lead on Educational and Public Program’s families, youth and 
 school for a range of programs. The education and public program events will 
 vary in format ranging from talks, tours as well as workshop and gallery 
 activities. They will be varied in medium, and may consist of both in-gallery 
@@ -622,7 +622,7 @@ presence and online activities by working in consultation with internal staff an
 external partners.
 Develops and oversees program schedules, coordinating logistics, managing 
 internal briefings and all production requirements, and measuring/assessing 
-visitorsâ€™ experiences.
+visitors’ experiences.
 Oversees live production, ensuring all projects and activities meet expected 
 standards.
 Coordinates and assists in the development of a core group of volunteers who 
@@ -642,7 +642,7 @@ also required to perform other duties as assigned.
 
 Qualifications
 Education and Experience
-A degree in an arts discipline plus 3 yearsâ€™ experience developing, facilitating, 
+A degree in an arts discipline plus 3 years’ experience developing, facilitating, 
 and leading others in the delivery of public discussions and programs for 
 diverse audiences including children.
 
@@ -660,10 +660,10 @@ communication for programs
 Excellent writing and editing skills with great attention to detail and ability to 
 synthesize and explain information write for diverse audiences.
 Strong presentation, facilitation and mediation skills.
-Strong ability to build on their relationships and the Galleryâ€™s networks to 
+Strong ability to build on their relationships and the Gallery’s networks to 
 further develop partnerships locally and internationally with the aim of working 
 collaboratively when possible.
-Solid ability to apply diplomacy and professionalism and represent CAGâ€™s 
+Solid ability to apply diplomacy and professionalism and represent CAG’s 
 values.
 Solid computer literacy including MS Office and Outlook.
 Desired, not but required: Creative Suite and skills in troubleshooting A/V 
@@ -689,7 +689,7 @@ The Contemporary Art Gallery (CAG) is searching for a part-time Learning
 Coordinator Public Programs: Talks and Public Programmes.
 
 CAG
-The Contemporary Art Gallery is Vancouverâ€™s longest standing independent 
+The Contemporary Art Gallery is Vancouver’s longest standing independent 
 public art gallery dedicated to the research, exhibition, education and 
 documentation of contemporary visual art as it is practiced locally through to 
 internationally. It aspires to generate significant audiences for its innovative 
@@ -705,7 +705,7 @@ Job Summary
 The Learning Coordinator applies knowledge and experience of the visual arts, 
 visual and critical theory, art history and broad awareness of the other 
 theoretical, creative practices and culture to conceive, develop and lead the 
-Contemporary Art Galleryâ€™s Talks and Public Programs. Primarily for adult 
+Contemporary Art Gallery’s Talks and Public Programs. Primarily for adult 
 audiences, the Coordinator addresses audiences of both specialist and non-
 specialist interests and knowledge. Weekend and evening work is required.
 
@@ -739,7 +739,7 @@ budget.
 Researches, invites and collaborates with a range of cultural practitioners, 
 such as artists and theorists to ensure the most innovative, accessible, and 
 intellectually rigorous program.
-Builds and maintains professional relationships and CAGâ€™s networks to further 
+Builds and maintains professional relationships and CAG’s networks to further 
 develop partnerships locally and internationally with the aim of working 
 collaboratively whenever possible.
 Develops, builds and maintains relationships to ensure the growth and 
@@ -750,7 +750,7 @@ also required to perform other duties as assigned.
 
 Qualifications
 Education and Experience
-A degree in arts discipline plus 3-5 yearsâ€™ experience developing, facilitating 
+A degree in arts discipline plus 3-5 years’ experience developing, facilitating 
 and leading others in the delivery of public discussions and programs. Has 
 experience working with partners in galleries and academic settings 
 performing duties relevant to this position.
@@ -768,7 +768,7 @@ Strong ability to synthesize and explain ideas and information clearly, both in
 writing and verbally
 Solid ability to think strategically and introduce new innovative ways to 
 develop program communication.
-Solid ability to apply diplomacy and professionalism and represent CAGâ€™s 
+Solid ability to apply diplomacy and professionalism and represent CAG’s 
 values.
 Solid computer literacy including MS Office and Outlook.
 Desired, not but required: Creative Suite and skills in troubleshooting A/V 

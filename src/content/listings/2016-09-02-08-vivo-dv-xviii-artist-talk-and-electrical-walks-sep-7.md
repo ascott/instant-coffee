@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 8
 type: "TALK"
+venue: "VIVO"
 summary: "VIVO | DV XVIII: Artist Talk and Electrical Walks | SEP 7"
 ---
 

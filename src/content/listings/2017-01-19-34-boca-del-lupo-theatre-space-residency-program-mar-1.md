@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Milk Flower"
 emailDate: "Thu, 19 Jan 2017 08:25:44 -0800"
 number: 34
 type: "CALL"
+venue: "Boca del Lupo Theatre"
 summary: "Boca del Lupo Theatre | Space Residency Program | MAR 1"
 ---
 

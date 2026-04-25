@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watc
 emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
 number: 10
 type: ""
+venue: "Vancouver Institute for Social Research"
 summary: "Vancouver Institute for Social Research | Clint Burnham:Does the Internet have anUnconscious | FEB 18"
 ---
 

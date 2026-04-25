@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: buses are awesome"
 emailDate: "Thu, 15 Jan 2009 08:46:01 -0800"
 number: 20
 type: ""
+venue: "Ministry of Casual Living"
 summary: "Ministry of Casual Living | Rhonda Weppler and Trevor Mahovsky | til | JAN 31"
 ---
 

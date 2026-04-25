@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 57
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | West Vancouver Art Museum | POETRY IN BRONZE: PARVIZ TANAVOLI | 6 PM | SEP 19"
 ---
 

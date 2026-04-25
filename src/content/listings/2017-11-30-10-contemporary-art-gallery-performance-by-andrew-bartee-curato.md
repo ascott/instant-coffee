@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 10
 type: "PERFORMANCE"
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | performance by Andrew Bartee + Curatorial tour | DEC 2"
 ---
 

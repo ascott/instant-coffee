@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: when times are tough"
 emailDate: "Fri, 14 Sep 2018 12:10:19 -0700"
 number: 33
 type: "CALL"
+venue: "The Britannia Artist Grant Program 2018"
 summary: "The Britannia Artist Grant Program 2018 | DEC 31"
 ---
 

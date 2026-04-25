@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 33
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts [ONLINE] | PRESENTS:2023 | 7PM | SEP 21"
 ---
 

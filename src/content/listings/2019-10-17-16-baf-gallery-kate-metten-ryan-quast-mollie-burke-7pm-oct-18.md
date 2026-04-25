@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 16
 type: "OPENING"
+venue: "BAF Gallery"
 summary: "BAF Gallery | Kate Metten, Ryan Quast, Mollie Burke | 7PM | OCT 18"
 ---
 

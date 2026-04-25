@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 22
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | READ Books | The Stories Were Not Told by Sandra Semchuk | MAR 20"
 ---
 

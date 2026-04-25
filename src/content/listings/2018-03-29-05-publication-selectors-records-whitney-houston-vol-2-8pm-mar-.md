@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 5
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Selectors Records | Whitney Houston, vol 2 | 8PM | MAR 29"
 ---
 

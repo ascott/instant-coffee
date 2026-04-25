@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: garblegarble"
 emailDate: "Fri, 21 Feb 2025 00:43:26 -0800"
 number: 26
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | Two exhibitions by Cheyenne Rain LeGrande & Justin | MAR 6"
 ---
 

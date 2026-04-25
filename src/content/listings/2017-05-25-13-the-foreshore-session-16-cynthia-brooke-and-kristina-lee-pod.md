@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 13
 type: "TALK"
+venue: "The Foreshore"
 summary: "The Foreshore | Session 16 | Cynthia Brooke and Kristina Lee Podesva | MAY 30"
 ---
 

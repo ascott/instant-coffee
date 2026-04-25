@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Neighbour's Plate"
 emailDate: "Thu, 26 Nov 2020 09:10:12 -0800"
 number: 9
 type: "FUNDRAISER"
+venue: "North Van Arts"
 summary: "North Van Arts | Anonymous Art Show [online] | NOV 26"
 ---
 

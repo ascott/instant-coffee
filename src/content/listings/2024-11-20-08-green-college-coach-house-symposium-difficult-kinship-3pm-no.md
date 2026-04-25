@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 8
 type: "TALK"
+venue: "Green College Coach House"
 summary: "Green College Coach House | Symposium: Difficult Kinship | 3PM | NOV 22"
 ---
 

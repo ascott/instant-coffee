@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 26
 type: ""
+venue: "Vancouver One of a Kind"
 summary: "Vancouver One of a Kind | Call for Artisans | MAY 2"
 ---
 
@@ -14,7 +15,7 @@ The One of a Kind Show Vancouver is back for its fourth exciting year
 December 8 - 11, 2011. Don't miss your opportunity to be a part of the One
 of a Kind Show & Sale Vancouver at the New Vancouver Convention Centre. One
 of a Kind Show Vancouver is a shopping destination like no other; with
-fashion shows, contests, and of course some of North Americaâ€™s finest
+fashion shows, contests, and of course some of North America’s finest
 artists and artisans!
 
 How to Apply:

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 44
 type: "EDUCATION"
+venue: "Vivo Media Arts Centre & Capture"
 summary: "Vivo Media Arts Centre & Capture | Cinematography: Ways of Seeing | APR 20"
 ---
 

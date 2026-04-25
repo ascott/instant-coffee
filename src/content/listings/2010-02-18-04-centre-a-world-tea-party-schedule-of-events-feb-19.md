@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an unSADly condition"
 emailDate: "Thu, 18 Feb 2010 09:50:26 -0800"
 number: 4
 type: ""
+venue: "Centre A"
 summary: "Centre A | WORLD TEA PARTY | schedule of events | FEB 19"
 ---
 
@@ -55,7 +56,7 @@ Fri Feb 19
 
 $5
 
-Lois Klassen and Pierre-AndrÃ© Sonolet (Covering Up)
+Lois Klassen and Pierre-André Sonolet (Covering Up)
 
 Masque Tea
 
@@ -205,7 +206,7 @@ High Tea
 
 High T, is an ambient audio-visual performance, augmented with: rose petals
 & Chinese black tea, pine smoked Chinese black tea, paraguayan roasted yeba
-matÃ©, & Seamist tea. Together these affectations touch the boundary between
+maté, & Seamist tea. Together these affectations touch the boundary between
 immersion and remediation. Call it liminal social media.
 
 Fri March 12
@@ -238,7 +239,7 @@ FREE
 
 Oboro family and friends
 
-Le thÃ© de l'amitiÃ©
+Le thé de l'amitié
 
 ( Skype Tea with Oboro, Montreal)
 
@@ -272,7 +273,7 @@ More information: http://bright-light.ca/
 Come have a cup of tea!
 
 World Tea Party is presented in partnership with the Vancouver 2010
-Cultural Olympiad the City of Vancouver â€˜s Olympic and Paralympic Public
+Cultural Olympiad the City of Vancouver ‘s Olympic and Paralympic Public
 Art Program: Bright Light.
 
 Tea generously provided by Pari Azarm Motamedi, DAVIDsTEA www.davidstea.com

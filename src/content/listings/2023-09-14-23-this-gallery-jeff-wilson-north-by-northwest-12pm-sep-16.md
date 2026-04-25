@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 23
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Jeff Wilson - North by Northwest | 12PM | SEP 16"
 ---
 

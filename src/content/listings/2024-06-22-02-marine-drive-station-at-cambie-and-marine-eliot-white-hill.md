@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Silly Information"
 emailDate: "Fri, 21 Jun 2024 21:55:15 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Marine Drive station at Cambie and Marine"
 summary: "Marine Drive station at Cambie and Marine | Eliot White-Hill­"
 ---
 

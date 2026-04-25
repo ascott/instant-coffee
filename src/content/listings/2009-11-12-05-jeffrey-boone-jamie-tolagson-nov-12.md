@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 5
 type: ""
+venue: "Jeffrey Boone"
 summary: "Jeffrey Boone | Jamie Tolagson | NOV 12"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 22
 type: "EXHIBITION"
+venue: "UNIT/PITT [ONLINE]"
 summary: "UNIT/PITT [ONLINE] | I SPY 2021...a disposable camera project | FEB 28"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we like those knobbly claws"
 emailDate: "Thu, 01 Oct 2009 09:21:52 -0700"
 number: 12
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | ROY ARDEN | OCT 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no excuses"
 emailDate: "Thu, 02 Jul 2009 08:30:59 -0700"
 number: 12
 type: ""
+venue: "Medea Collaborative Media"
 summary: "Medea Collaborative Media | MEDEA IS HIRING AT MALMOe UNIVERSITY, SWEDEN | OCT 1"
 ---
 

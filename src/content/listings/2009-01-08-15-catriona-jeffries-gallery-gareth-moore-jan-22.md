@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: MANY MEs"
 emailDate: "Thu, 08 Jan 2009 00:05:16 -0800"
 number: 15
 type: ""
+venue: "Catriona Jeffries Gallery"
 summary: "Catriona Jeffries Gallery | Gareth Moore | JAN 22"
 ---
 
@@ -16,7 +17,7 @@ Through the Regions of;
 Albi, Amarillo, Firenze, London, Celebration,
 N______, The Atlantic Ocean, Trento, Marfa, Cornwall,
 The Mississippi River, New Westminster, Spaceport, Barmouth,
-Old Schoolhouse Road, Milton Keynes, KÃ¶ln, ________,
+Old Schoolhouse Road, Milton Keynes, Köln, ________,
 South Holland Polders, Lascaux II, &,
 
 Comprising Incidents Inhabited by the Author

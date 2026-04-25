@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 37
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema at the Cinematheque | Larissa Sansour & Soda_Jerk | 730PM | JAN 23"
 ---
 

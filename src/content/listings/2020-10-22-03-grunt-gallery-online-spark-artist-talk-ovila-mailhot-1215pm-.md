@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Recto-Verso"
 emailDate: "Thu, 22 Oct 2020 08:35:10 -0700"
 number: 3
 type: "TALK"
+venue: "grunt gallery [ONLINE]"
 summary: "grunt gallery [ONLINE] | Spark Artist Talk: Ovila Mailhot | 12:15PM | OCT 22"
 ---
 

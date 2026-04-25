@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ism"
 emailDate: "Wed, 06 Jan 2010 23:45:37 -0800"
 number: 12
 type: ""
+venue: "Blanket"
 summary: "Blanket | Audrey Capel Doray | JAN 14"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 49
 type: "PERFORMANCE"
+venue: "Centre A Gallery"
 summary: "Centre A Gallery | An eating performance with Olivia Chow | 7PM | JUL 19"
 ---
 

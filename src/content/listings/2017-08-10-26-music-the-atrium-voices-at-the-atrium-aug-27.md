@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 26
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | The Atrium | VOICES AT THE ATRIUM | AUG 27"
 ---
 

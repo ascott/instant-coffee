@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sartorial Daub"
 emailDate: "Thu, 13 Aug 2020 08:15:11 -0700"
 number: 19
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Kamloops Art Gallery | Kevin Schmidt Book Launch | 5PM | AUG 26"
 ---
 

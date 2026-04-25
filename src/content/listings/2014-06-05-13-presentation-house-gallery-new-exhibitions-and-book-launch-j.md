@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Put your thoughts in your hands"
 emailDate: "Thu, 05 Jun 2014 09:27:30 -0700"
 number: 13
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | New Exhibitions and book launch | JUN 6"
 ---
 
@@ -23,14 +24,14 @@ exhibitions share a fascination with experiments in alternative living and
 countercultural resistance.
 
 "Bruce Stewart: Dollarton Pleasure Faire, 1972" - curated by Bill Jeffries - 
-showcases Stewartâ€™s photographs from the Dollarton Pleasure Faire: a two-
+showcases Stewart’s photographs from the Dollarton Pleasure Faire: a two-
 week celebration of alternative living at the embattled Maplewood Mudflats in 
 North Vancouver. Stewart, who had been documenting renaissance faires 
-and hippie-era festivals throughout the province, acted as the eventâ€™s official 
+and hippie-era festivals throughout the province, acted as the event’s official 
 photographer. His images capture the sun-kissed pleasure, playful repose 
 and rebellious exuberance of the Faire before the well-publicized destruction 
 of the Mudflats in the early seventies. West of Eden, a publication situating 
-Stewartâ€™s project within the social tensions of the time, will be launched at the 
+Stewart’s project within the social tensions of the time, will be launched at the 
 exhibition.
 
 As one of Vancouver's most celebrated artists, Liz Magor presents 

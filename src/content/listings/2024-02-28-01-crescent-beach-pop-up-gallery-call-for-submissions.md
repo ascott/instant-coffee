@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 1
 type: "CALL"
+venue: "Crescent Beach Pop-Up Gallery"
 summary: "Crescent Beach Pop-Up Gallery | Call for Submissions"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 41
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Rolande Souliere Walking Tour | 3PM | APR 7"
 ---
 

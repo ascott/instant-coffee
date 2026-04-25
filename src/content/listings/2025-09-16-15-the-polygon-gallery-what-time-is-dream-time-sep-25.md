@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 15
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | What Time is Dream Time? | SEP 25"
 ---
 

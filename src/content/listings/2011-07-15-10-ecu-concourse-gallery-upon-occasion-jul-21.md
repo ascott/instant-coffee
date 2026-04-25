@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like an onion makes you want to cr
 emailDate: "Thu, 14 Jul 2011 22:35:36 -0700"
 number: 10
 type: ""
+venue: "ECU"
 summary: "ECU | Concourse Gallery | Upon Occasion | JUL 21"
 ---
 

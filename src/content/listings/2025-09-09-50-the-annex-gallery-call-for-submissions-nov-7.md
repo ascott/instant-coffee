@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 50
 type: "CALL"
+venue: "The Annex Gallery"
 summary: "The Annex Gallery | Call for Submissions | NOV 7"
 ---
 

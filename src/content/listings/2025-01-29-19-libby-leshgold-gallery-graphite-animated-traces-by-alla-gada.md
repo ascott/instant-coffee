@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 19
 type: "EVENT"
+venue: "Libby Leshgold Gallery"
 summary: "Libby Leshgold Gallery | Graphite: Animated Traces by Alla Gadassik | 4PM | FEB 5"
 ---
 

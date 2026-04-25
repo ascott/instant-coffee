@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 34
 type: "FUNDRAISER"
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | CROCK POT HOT DOG: WL Karaoke | 7PM-2AM | JUL 13"
 ---
 

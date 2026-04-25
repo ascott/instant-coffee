@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 13
 type: ""
+venue: "VIVO Media Arts Centre Archives"
 summary: "VIVO Media Arts Centre Archives | Top Ten: 1976 | MAR 30"
 ---
 

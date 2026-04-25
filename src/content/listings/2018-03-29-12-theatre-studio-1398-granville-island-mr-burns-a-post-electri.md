@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 12
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | Studio 1398 Granville Island | Mr. Burns, a post-electric play | 8PM | APR 3"
 ---
 

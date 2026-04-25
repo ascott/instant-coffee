@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 14
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Christine D Onofrio | MAR 19"
 ---
 

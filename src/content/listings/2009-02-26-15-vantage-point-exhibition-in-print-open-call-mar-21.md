@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 15
 type: ""
+venue: "VANTAGE POINT EXHIBITION-IN-PRINT"
 summary: "VANTAGE POINT EXHIBITION-IN-PRINT | OPEN CALL | MAR 21"
 ---
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 3
 type: "OPENING"
-summary: "INDEX Gallery | Jacquelyn Ross - The Poetâ€™s Vacation | JUN 18"
+venue: "INDEX Gallery"
+summary: "INDEX Gallery | Jacquelyn Ross - The Poet’s Vacation | JUN 18"
 ---
 
-Jacquelyn Ross | The Poetâ€™s Vacation
+Jacquelyn Ross | The Poet’s Vacation
 
 Opening / 7pm
 Reading / 8pm
@@ -22,11 +23,11 @@ Vancouver
 others drudge and labour. Though to be sure, I myself perhaps drudge away
 at times, when all these industrious workmen have knocked off themselves
 and are taking a rest. In passing, a fitter calls to me: 'It looks to me
-youâ€™re out for a walk again, working hours too!' I laugh and wave to him
+you’re out for a walk again, working hours too!' I laugh and wave to him
 and blithely admit that he is right."
-â€”Robert Walser, The Walk
+—Robert Walser, The Walk
 
-Exploring themes of improvised leisure and creative labour, The Poetâ€™s
+Exploring themes of improvised leisure and creative labour, The Poet’s
 Vacation features new painting, sculpture and writing by Jacquelyn Ross.
 Inspired by garden design, folk etymology and theories of meandering,
 objects are worked and reworked to consider questions of translation and

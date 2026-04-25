@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 16
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | The Course of a Distant Empire | Jay Senetchko | JAN 18"
 ---
 

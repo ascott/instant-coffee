@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: two who are one and one who is thr
 emailDate: "Thu, 27 Feb 2014 11:57:18 -0800"
 number: 11
 type: ""
+venue: "Audain Gallery"
 summary: "Audain Gallery | panel: Marina Marrow, Jan Pfeiffer, Jerry Zaslove | MAR 5"
 ---
 
@@ -16,7 +17,7 @@ Marrow, Jan Pfeiffer and Jerry Zaslove, moderated by Samir Gandesha.
 
 Considering the complex and far-reaching implications of the exhibition of
 Marat Sade Bohnice in the unique context of Vancouver, the panel will
-address topics including Peter WeissÃ¢â‚¬â„¢ life and practice, the Foucauldian
+address topics including Peter Weissâ€™ life and practice, the Foucauldian
 themes of madness and the carceral, the histories of de-institutionalization
 and mental health reform in British Columbia and elsewhere, shifting notions
 of human rights and citizenship, and the critical value of cultural intervention
@@ -72,7 +73,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 Ã¢â‚¬â€œ 149 West Hastings
+#3275 â€“ 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audaingallery@sfu.ca

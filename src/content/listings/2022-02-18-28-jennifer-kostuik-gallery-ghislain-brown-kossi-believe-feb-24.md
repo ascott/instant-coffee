@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 28
 type: "EXHIBITION"
+venue: "Jennifer Kostuik Gallery"
 summary: "Jennifer Kostuik Gallery | Ghislain Brown-Kossi: Believe | FEB 24"
 ---
 

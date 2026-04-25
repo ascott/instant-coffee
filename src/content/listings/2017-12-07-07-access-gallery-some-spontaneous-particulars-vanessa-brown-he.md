@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: But don't come inside"
 emailDate: "Thu, 07 Dec 2017 09:10:13 -0800"
 number: 7
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Some Spontaneous Particulars | Vanessa Brown, Heide Hinrichs, Kathleen Ritter | DEC 9"
 ---
 

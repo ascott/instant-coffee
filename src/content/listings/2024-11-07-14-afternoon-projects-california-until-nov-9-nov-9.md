@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 14
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | CALIFORNIA | UNTIL NOV 9 | NOV 9"
 ---
 

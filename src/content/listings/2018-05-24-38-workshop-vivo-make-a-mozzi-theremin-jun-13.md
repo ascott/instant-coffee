@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Digital Breadcrumb"
 emailDate: "Thu, 24 May 2018 09:03:21 -0700"
 number: 38
 type: "EDUCATION"
+venue: "WORKSHOP"
 summary: "WORKSHOP | VIVO | Make a Mozzi Theremin | JUN 13"
 ---
 

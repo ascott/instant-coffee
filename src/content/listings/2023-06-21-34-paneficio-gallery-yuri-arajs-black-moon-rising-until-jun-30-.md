@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 34
 type: "EXHIBITION"
+venue: "Paneficio Gallery"
 summary: "Paneficio Gallery | Yuri Arajs: Black Moon Rising | Until JUN 30 | JUN 30"
 ---
 

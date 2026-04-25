@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 20
 type: "EDUCATION"
+venue: "ALIVE 2017"
 summary: "ALIVE 2017 | PERFORMANCE ARTIST WORKSHOPS | AUG 21"
 ---
 

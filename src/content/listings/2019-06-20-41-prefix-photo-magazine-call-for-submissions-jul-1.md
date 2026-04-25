@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 41
 type: "CALL"
+venue: "Prefix Photo Magazine"
 summary: "Prefix Photo Magazine | Call for Submissions | JUL 1"
 ---
 

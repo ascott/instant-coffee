@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we thank you for a week of raw an
 emailDate: "Thu, 10 Jul 2014 11:45:43 -0700"
 number: 7
 type: ""
+venue: "East Van Studios"
 summary: "East Van Studios | Localisms | JUL 11"
 ---
 

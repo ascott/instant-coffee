@@ -4,23 +4,24 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: nice surprises come from bad decis
 emailDate: "Thu, 04 Sep 2014 12:47:34 -0700"
 number: 4
 type: ""
-summary: "Morris and Helen Belkin Art Gallery | Ai Weiwei New York Photographs 1983â€“1993 | SEP 4"
+venue: "Morris and Helen Belkin Art Gallery"
+summary: "Morris and Helen Belkin Art Gallery | Ai Weiwei New York Photographs 1983–1993 | SEP 4"
 ---
 
 Ai Weiwei
-New York Photographs 1983â€“1993
+New York Photographs 1983–1993
 September 5 to November 30, 2014
 Opening Reception:
 Thursday, September 4, 8-10 pm
 
 All welcome. Admission is free.
 
-Ai Weiwei: New York Photographs 1983â€“1993 consists of 227 black-and-white
+Ai Weiwei: New York Photographs 1983–1993 consists of 227 black-and-white
 photographs taken by Ai Weiwei during the decade that he resided in New
 York City, his first time away from China. The photographs were personally
 selected by the artist from over 10,000 negatives that are housed at Three
 Shadows Photography Art Center in Beijing and together represent a single
-work of artâ€”no one image is more important than another.
+work of art—no one image is more important than another.
 
 Born in 1957, Ai Weiwei grew up in China during the Cultural Revolution.
 The New York photographs, presented in chronological order, form a layering
@@ -30,7 +31,7 @@ through his interactions with friends and acquaintances arriving from
 China, the meeting of new friends in New York such as Allen Ginsberg, his
 observation of rampant poverty in the East Village neighbourhood where he
 lived, and his images of political demonstrations and celebratory festivals
-taking place in New York at the time. While Ai Weiweiâ€™s intention was not
+taking place in New York at the time. While Ai Weiwei’s intention was not
 to be a documentarian, this body of work nonetheless has become a personal
 and impressionistic diary that represents a specific historical moment in a
 city that was experiencing significant social change.
@@ -46,7 +47,7 @@ China following his return there in 1993.
 This exhibition is organized in collaboration with Three Shadows
 Photography Art Center, Beijing, and Chambers Fine Art in New York and
 Beijing. It has been made possible with funding from the Canada Council for
-the Arts and the Belkin Curatorâ€™s Forum.
+the Arts and the Belkin Curator’s Forum.
 
 Morris and Helen Belkin Art Gallery
 1825 Main Mall, Vancouver, BC Canada V6T 1Z2 

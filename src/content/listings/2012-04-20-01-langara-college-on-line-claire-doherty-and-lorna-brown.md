@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 1
 type: ""
+venue: "Langara College"
 summary: "Langara College | on-line: Claire Doherty and Lorna Brown"
 ---
 
@@ -19,14 +20,14 @@ Nowhereisland, a large-scale public art project conceived by artist Alex
 Hartley and commissioned as part of the UK Cultural Olympiad 2012. 
 This island, originating from the Arctic, will journey around the south 
 west region of England this summer, stopping at ports and harbours as 
-a visiting â€˜island nationâ€™. Accompanied by its land based Embassy, its 
+a visiting ‘island nation’. Accompanied by its land based Embassy, its 
 six-week journey will finish in Bristol on the 9th September 2012. The 
 public is invited to learn more, become a citizen, and track the new 
 nation's progress here.
 
 Claire Doherty is a curator and writer who investigates new and 
 unconventional models of curatorial practice. Situations commissions 
-artistsâ€™ projects, often outside conventional gallery or museum settings, 
+artists’ projects, often outside conventional gallery or museum settings, 
 with an emphasis on new forms of public engagement which span 
 international boundaries. In collaboration with the Litmus Research 
 Initiative at Massey University and a vast network of curators and 
@@ -39,14 +40,14 @@ Doherty lectures and publishes internationally. She is editor of
 Contemporary Art: From Studio to Situation; (Black Dog Publishing, 
 2004); Documents of Contemporary Art: Situation(Whitechapel/ MIT 
 Press, 2009), and co-editor with David Cross of One Day Sculpture 
-(Kerber, 2009), with Paul Oâ€™Neill, Locating the Producers: Durational 
+(Kerber, 2009), with Paul O’Neill, Locating the Producers: Durational 
 Approaches to Public Art (Valiz, 2011) and with Gerrie van Noord, 
 Heather and Ivan Morison: Falling into Place (Book Works, 2009).
 
 Lorna Brown is an artist, writer, independent curator and founding 
 member of Other Sights and participant in the Communications Office.
 
-This conversation is the final installment of â€œThe Situation is This: 
+This conversation is the final installment of “The Situation is This: 
 Speakers Series 2011â€  and a bridge to â€œThe Future is Floatingâ€ , a 
 series of Communication Office events that will take place in various 
 locations around Vancouver during 2012.
@@ -55,7 +56,7 @@ We are grateful to our Speaker Series partner the Langara College
 Centre for Art in Public Spaces and project funders the City of 
 Vancouver 125 and the Public Art Program.
 
-Listen to the interview (MP3 - DuraÂ­tion: 50:58 â€” 70.2MB)
+Listen to the interview (MP3 - Dura­tion: 50:58 — 70.2MB)
 
 About The Communications Office:
 
@@ -68,11 +69,11 @@ focus our attentions, invite new ideas and put us in touch, whether face
 to face or ear to ear.
 
 This podcast is launched on the anniversary of the 2010 eruption of 
-the Icelandic volcano EyjafjallajÃ¶kull, whose free-floating ash cloud 
+the Icelandic volcano Eyjafjallajökull, whose free-floating ash cloud 
 covered much of Northern Europe, causing 6 days of air travel 
 disruptions across the continent. The grounding of European flights 
-avoided about 344Ã—106 kg of CO2 emissions per day, while the 
-volcano emitted about 150Ã—106 kg of CO2 per day.
+avoided about 344×106 kg of CO2 emissions per day, while the 
+volcano emitted about 150×106 kg of CO2 per day.
 
 WE SEND EVENT NEWS AND UPDATES TO OTHER SIGHTS FOR 
 ARTISTS' MEMBERS WHO HAVE OPTED IN EITHER VIA OUR 
@@ -81,5 +82,5 @@ CONTACT INFORMATION TO OTHER SIGHTS FOR ARTISTS'
 PROJECTS FOR THIS PURPOSE. |
 IF YOU NO LONGER WISH TO RECEIVE EMAILS PLEASE 
 UNSUBSCRIBE
-Â©2012 OTHER SIGHTS FOR ARTISTS' PROJECTS, ALL RIGHTS 
+©2012 OTHER SIGHTS FOR ARTISTS' PROJECTS, ALL RIGHTS 
 RESERVED

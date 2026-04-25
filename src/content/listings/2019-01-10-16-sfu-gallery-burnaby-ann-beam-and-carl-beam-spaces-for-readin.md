@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 16
 type: "EXHIBITION"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Ann Beam and Carl Beam: Spaces for Reading | JAN 15"
 ---
 

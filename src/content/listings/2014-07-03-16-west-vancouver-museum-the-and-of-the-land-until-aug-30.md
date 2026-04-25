@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:an ethereal dream-like quality"
 emailDate: "Thu, 03 Jul 2014 14:07:59 -0700"
 number: 16
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | THE AND OF THE LAND | until | AUG 30"
 ---
 

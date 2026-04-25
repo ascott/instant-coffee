@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 65
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | No.3 Road Art Columns, Requests for Proposals | APR 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Trajectories of Unlooking"
 emailDate: "Wed, 08 Sep 2021 00:35:09 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Part Of Studio"
 summary: "Part Of Studio | The Children of Takaya"
 ---
 

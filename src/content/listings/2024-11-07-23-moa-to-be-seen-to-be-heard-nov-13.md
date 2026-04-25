@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 23
 type: "EXHIBITION"
+venue: "MOA"
 summary: "MOA | To Be Seen, To Be Heard | NOV 13"
 ---
 

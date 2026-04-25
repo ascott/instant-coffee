@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 5
 type: "EVENT"
+venue: "The Ministry of Casual Living"
 summary: "The Ministry of Casual Living | VICTORIA | Film + Sound Series No. 2 New German Cinema | JUL 27"
 ---
 

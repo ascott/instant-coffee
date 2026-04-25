@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: too old to die young"
 emailDate: "Thu, 31 Mar 2011 12:41:14 -0700"
 number: 25
 type: ""
+venue: "The Ministry of Causal Living"
 summary: "The Ministry of Causal Living | Table Talk Arts Collective | Victoria | APR 20"
 ---
 

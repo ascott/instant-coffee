@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: won't you please come home with me
 emailDate: "Thu, 09 Dec 2010 09:26:33 -0800"
 number: 7
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Edition Sale | DEC 9"
 ---
 

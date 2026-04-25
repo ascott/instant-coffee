@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 16 Jul 2025 22:15:13 -0700"
 number: 19
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | AILEEN BAHMANIPOUR | JUL 31"
 ---
 

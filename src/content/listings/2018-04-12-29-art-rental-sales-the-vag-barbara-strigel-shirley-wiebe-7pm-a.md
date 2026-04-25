@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 29
 type: "TALK"
+venue: "Art Rental & Sales @ the VAG"
 summary: "Art Rental & Sales @ the VAG | Barbara Strigel & Shirley Wiebe | 7PM | APR 17"
 ---
 

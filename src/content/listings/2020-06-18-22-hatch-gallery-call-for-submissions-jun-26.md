@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 22
 type: "CALL"
+venue: "Hatch Gallery"
 summary: "Hatch Gallery | Call for Submissions | JUN 26"
 ---
 

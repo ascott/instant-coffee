@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 23
 type: ""
+venue: "VIVO Workshops"
 summary: "VIVO Workshops | MASTER CLASS: PERFORMANCE ART / VIDEO | APR 9"
 ---
 

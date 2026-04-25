@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed sheets, golf umbrellas and lau
 emailDate: "Thu, 27 Aug 2015 10:40:36 -0700"
 number: 1
 type: "EVENT"
+venue: "Interurban Gallery"
 summary: "Interurban Gallery | THE PARTY + HAUNT | AUG 27"
 ---
 

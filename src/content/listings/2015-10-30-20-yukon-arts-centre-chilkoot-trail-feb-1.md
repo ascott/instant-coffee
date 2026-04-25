@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 20
 type: "CALL"
+venue: "Yukon Arts Centre"
 summary: "Yukon Arts Centre | Chilkoot Trail | FEB 1"
 ---
 

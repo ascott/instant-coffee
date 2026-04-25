@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mourner’s Revery "
 emailDate: "Thu, 11 Jul 2024 13:25:24 -0700"
 number: 9
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Anti-Icon: Apokalypsis + Coloratura Opening Celebr | JUL 11"
 ---
 

@@ -19,11 +19,11 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-04-03-05-the-apartment-cd-release-event-sins-fantasies-apr-4">05. The Apartment | CD Release Event: Sins & Fantasies | APR 4</a>
 <a href="/instant-coffee/listings/2014-04-03-06-vivo-not-sent-letters-guests-apr-4">06. VIVO | NOT SENT LETTERS & GUESTS | APR 4</a>
 <a href="/instant-coffee/listings/2014-04-03-07-western-front-artspeak-and-221a-new-narratives-in-art-writin">07. Western Front, Artspeak and 221A | New Narratives in art writing | APR 4</a>
-<a href="/instant-coffee/listings/2014-04-03-08-contemporary-art-gallery-talk-and-book-launch-jrgen-partenhe">08. Contemporary Art Gallery | talk and book launch: JÃ¼rgen Partenheimer | APR 5</a>
+<a href="/instant-coffee/listings/2014-04-03-08-contemporary-art-gallery-talk-and-book-launch-jrgen-partenhe">08. Contemporary Art Gallery | talk and book launch: Jürgen Partenheimer | APR 5</a>
 <a href="/instant-coffee/listings/2014-04-03-09-maillardville-cultural-appreciation-society-mandy-mitton-apr">09. Maillardville Cultural Appreciation Society | MANDY MITTON | APR 5</a>
 <a href="/instant-coffee/listings/2014-04-03-10-or-gallery-james-hoff-apr-5">10. Or Gallery | James Hoff | APR 5</a>
 <a href="/instant-coffee/listings/2014-04-03-11-the-toast-collective-other-worlds-film-night-brother-from-an">11. The Toast Collective | Other Worlds Film Night Brother from Another Plant | APR 5</a>
-<a href="/instant-coffee/listings/2014-04-03-12-down-on-the-corner-carlos-coln-apr-6">12. Down on the Corner | Carlos ColÃ­n | APR 6</a>
+<a href="/instant-coffee/listings/2014-04-03-12-down-on-the-corner-carlos-coln-apr-6">12. Down on the Corner | Carlos Colín | APR 6</a>
 <a href="/instant-coffee/listings/2014-04-03-13-contemporary-art-gallery-feedback-talk-shama-khanna-and-brok">13. Contemporary Art Gallery | Feedback Talk | Shama Khanna and Broken City Lab at Fieldhouse | APR 8</a>
 <a href="/instant-coffee/listings/2014-04-03-14-vancouver-art-gallery-music-appreciation-society-presents-le">14. Vancouver Art Gallery | Music Appreciation Society presents Led Zeppelin | APR 8</a>
 <a href="/instant-coffee/listings/2014-04-03-15-back-gallery-project-miriam-aroeste-apr-10">15. Back Gallery Project | Miriam Aroeste | APR 10</a>
@@ -68,13 +68,13 @@ tendencies in the art of its time, including arte povera, conceptual art
 and post-Minimalism to conceive of curatorial practice as a linguistic 
 medium.
 
-Working with Szeemannâ€™s book as case study, 'With A Bao A Qu' 
+Working with Szeemann’s book as case study, 'With A Bao A Qu' 
 reflects on the form and structure of the artist's book. By stylistically 
 adopting a subjective literary voice, drawn, at least partially, from Jorge 
-Luis Borgesâ€™s 'Book of Imaginary Beings' (published in English in 
+Luis Borges’s 'Book of Imaginary Beings' (published in English in 
 1969), 
 
-Fuscoâ€™s book shifts its focus away from the reading of art's conceptual 
+Fusco’s book shifts its focus away from the reading of art's conceptual 
 properties to that of its physical, material embodiment.
 
 Maria Fusco is a Belfast-born writer, editor and critic. Her research is 
@@ -89,11 +89,11 @@ Fusco was the inaugural Writer in Residence at Whitechapel
 Gallery in London, and Critic in Residence at The Kadist Art 
 Foundation in Paris. She was Director of Art Writing at Goldsmiths, 
 University of London where she founded and led MFA Art Writing. 
-Currently, Fusco is a Chancellorâ€™s Fellow at Edinburgh College of Art in 
+Currently, Fusco is a Chancellor’s Fellow at Edinburgh College of Art in 
 Scotland.
 
-New Documents is a Vancouver and Los Angelesâ€“based art 
-book publisher operating in collaboration with Vancouverâ€™s Projectile 
+New Documents is a Vancouver and Los Angeles–based art 
+book publisher operating in collaboration with Vancouver’s Projectile 
 Publishing Society.
 
 Maria Fusco is in Vancouver to participate in 'There are reasons 
@@ -170,7 +170,7 @@ nebulae implying the body is one in a vast sea of stars. The
 photographs interspersed throughout the exhibition ground and 
 confuse the constructed images through the improbable reflections 
 and refractions of colour, light and nature within our constructed 
-world, abstracting how we understand what we aâ‚¬â„¢re seeing.
+world, abstracting how we understand what we a€™re seeing.
 
 Future Cities Shanghai 
 Malcolm Levy 
@@ -186,7 +186,7 @@ the larger series 'Other-Frames' which looks to activate the questions
 of what the chip of the camera can reveal in a greater context. The 
 work itself is an activity of searching for unexploited qualities inherent 
 in exploitation; not a defiant negation as with the alternative media 
-originated in the Ã¢â‚¬â„¢60s, but a manipulation of manipulation.
+originated in the â€™60s, but a manipulation of manipulation.
 
 For more information visit www.gallery295.com
 
@@ -249,7 +249,7 @@ thrilled to present new music virtuoso Mark Takeshi McGregor.
 
 Described as a â€œnational treasureâ€  (WholeNote Magazine) and as a musician 
 of â€œtremendous flair and intensityâ€  (Globe and Mail), Mark Takeshi McGregor 
-has firmly established himself as one of Canadaâ€™s premiere flutists and a 
+has firmly established himself as one of Canada’s premiere flutists and a 
 respected interpreter of the music of our time. On Friday, April 4th, 2014, 
 McGregor will present the CD release concert of his sophomore solo album 
 on Redshift Records, Sins & Fantasies.
@@ -258,7 +258,7 @@ McGregor will present his solo flute project, The Seven Deadly Sins, featuring
 seven solo flute pieces by as many Canadian composers, and each inspired 
 by a Deadly Sin: Dorothy Chang(Wrath), James Beckwith Maxwell (Envy), 
 Jocelyn Morlock (Lust),Gregory Lee Newsome (Greed), Benton Roark (Sloth), 
-Owen Underhill (Pride), and McGregorâ€™s own composition inspired by 
+Owen Underhill (Pride), and McGregor’s own composition inspired by 
 Gluttony, Le dernier repas de Monsieur Creosote. Performed on no less than 
 four different flutes, The Seven Deadly Sins is a one-man virtuosic 
 exploration of the underbelly of human behaviour, ranging from the 
@@ -285,7 +285,7 @@ Tara Travis & Elizabeth Milton
 Soressa Gardner & Dennis E. Bolen
 
 ongoing projections & digital shorts by
-Manuel PiÃ±a
+Manuel Piña
 Annie Briard
 
 digital shorts by
@@ -293,7 +293,7 @@ Dahlačkov
 Kristen Roos, Paolo Pennuti & Elisa Ferrari
 Graham Meisner
 Laura Lamb
-EdÃ©n Bastida Kullick
+Edén Bastida Kullick
 Kate Henderson
 Margaret Dragu
 
@@ -336,13 +336,13 @@ use of humour to critically investigate the garish excesses of popular culture.
 
 Soressa Gardner & Dennis E. Bolen
 return to NSL&G with a new interdisciplinary work, using material from 
-Bolenâ€™s recently published poetry collection Black Liquor to explore both post-
+Bolen’s recently published poetry collection Black Liquor to explore both post-
 war, working-class malaise and the cynically reasoned present. Gardner is a 
 new music composer and classically trained vocalist. Bolen is a novelist, 
-editor, teacher and journalist (as well as Gardnerâ€™s partner and frequent 
+editor, teacher and journalist (as well as Gardner’s partner and frequent 
 collaborator).
 
-Manuel PiÃ±a
+Manuel Piña
 is a Vancouver-based artist and teacher originally from Havana, Cuba. Much 
 of his recent work considers the ways in which images are conceived, 
 consumed and understood within digitally mediated culture(s). For NSL&G he 
@@ -385,11 +385,11 @@ Laura Lamb
 is a Vancouver-based visual artist originally from Kenora, Ontario. Her work 
 explores the appearance of narrative; the struggle to live authentically; 
 displacement, marginality, utopia and disaster. Before creating the umbrella 
-project and fictive world of Lambâ€™s Performing Objects, Laura created bodies 
+project and fictive world of Lamb’s Performing Objects, Laura created bodies 
 of work in video and photography. For NSL&G Lamb presents Bits and 
 Tatters, a recent video work.
 
-EdÃ©n Bastida Kullick
+Edén Bastida Kullick
 is an interdisciplinary artist and doctoral student in Buenos Aires, Argentina 
 (originally from Monterrey, Mexico). For NSL&G he presents Stat US, a short 
 digital film questioning the Puerto Rican state, the status of Puerto Rico, the 
@@ -414,7 +414,7 @@ will be screened: Get Devices, Get Rolling and Get Group-y.
 Neil Eustache
 returns to NSL&G after presenting the interactive Cool Indians On Main Street 
 VIVO Bench last fall with Vancouver-based interdisciplinary artist Charlene 
-Vickers. Eustache, a wannabe Indian extra whoâ€™s seriously part white, will 
+Vickers. Eustache, a wannabe Indian extra who’s seriously part white, will 
 read from his most recent poems and other writings.
 
 Jeremy Todd
@@ -445,7 +445,7 @@ SPECIAL THANKS to all VIVO Media Arts Centre Staff & Volunteers.
 ------------------------------------------------------------------------
 There are reasons for looking and feeling and thinking about things that
 are invisible: a two day event on New Narratives in art writing
-Apr 4 â€“ Apr 5, 2014
+Apr 4 – Apr 5, 2014
 
 Friday, April 4 @ 7pm | Eileen Myles and Jacob Wren
 Saturday, April 5 @ 2pm | Lynne Tillman and Maria Fusco
@@ -479,17 +479,17 @@ Diamond.
 Co-presented by 221A, Artspeak, and Western Front
 Organized by Amy Fung
 
-â€”â€”â€”
+———
 
 Biographies
 
-Maria Fuscoâ€™s most recent book is With A Bao A Qu Reading When Attitudes
+Maria Fusco’s most recent book is With A Bao A Qu Reading When Attitudes
 Become Form (Los Angeles/Vancouver: New Documents, 2013), a collection
 of short stories The Mechanical Copula (Berlin/New York: Sternberg
-Press, 2011), published in French as COPULATION MÃ‰CANIQUE (Paris:
-Ã©ditions Ã¨re, 2012). She is also the founder/editorial director of The
+Press, 2011), published in French as COPULATION MÉCANIQUE (Paris:
+éditions ère, 2012). She is also the founder/editorial director of The
 Happy Hypocrite a semi-annual journal for and about experimental art
-writing and is currently a Chancellorâ€™s Fellow at Edinburgh College of
+writing and is currently a Chancellor’s Fellow at Edinburgh College of
 Art, University of Edinburgh and was Director of Art Writing at
 Goldsmiths, University of London.
 
@@ -497,12 +497,12 @@ Eileen Myles, a poet best known for merging avant-garde poetics with
 working-class vernacular has produced more than twenty volumes of
 poetry, fiction, nonfiction, libretti, plays, and performance pieces
 since 1974. The Importance of Being Iceland/travel essays in art was
-awarded the Warhol/creative capital art writersâ€™ grant in 2007. The
+awarded the Warhol/creative capital art writers’ grant in 2007. The
 Foundation for Contemporary Art awarded her a grant for poetry in 2014;
-Her Inferno (a poetâ€™s novel) is now available (in her own voice) on
+Her Inferno (a poet’s novel) is now available (in her own voice) on
 ITunes; in 2012 she received a Guggenheim fellowship. â€œStreet Retreat,â€ 
 her essay about living on the streets of New York City with a group of
-Buddhists and homeless activists will be included in this yearâ€™s Whitney
+Buddhists and homeless activists will be included in this year’s Whitney
 Biennial.
 
 Lynne Tillman is a novelist, short story writer, and critic. Her most
@@ -515,7 +515,7 @@ Notable Book of the Year. She has written three nonfiction books,
 including The Velvet Years: Warhols Factory 1965-67. In April 2014, her
 second essay collection WHAT WOULD LYNNE TILLMAN DO? will be 
 published
-by Richard Nashâ€™s Red Lemonade Press. Currently, she is working on a
+by Richard Nash’s Red Lemonade Press. Currently, she is working on a
 novel, MEN AND APPARITIONS (an excerpt to be part of the Whitney
 Biennial 2014).
 
@@ -524,10 +524,10 @@ include: Unrehearsed Beauty, Families Are Formed Through Copulation,
 Revenge Fantasies of the Politically Dispossessed and Polyamorous Love
 Song, a finalist for the 2013 Fence Modern Prize in Prose. As
 co-artistic director of Montreal-based interdisciplinary group PME-ART
-he has co-created the performances: En franÃ§ais comme en anglais, itâ€™s
-easy to criticize, the HOSPITALITÃ‰ / HOSPITALITY series including
+he has co-created the performances: En français comme en anglais, it’s
+easy to criticize, the HOSPITALITÉ / HOSPITALITY series including
 Individualism Was A Mistake and The DJ Who Gave Too Much Information and
-Every Song Iâ€™ve Ever Written. He travels internationally with alarming
+Every Song I’ve Ever Written. He travels internationally with alarming
 frequency and frequently writes about contemporary art.
 
 Western Front
@@ -543,12 +543,12 @@ H. Tuesday - Saturday 12-5pm
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-04-03-08-contemporary-art-gallery-talk-and-book-launch-jrgen-partenhe">08. Contemporary Art Gallery | talk and book launch: JÃ¼rgen Partenheimer | APR 5</a>
+<a href="/instant-coffee/listings/2014-04-03-08-contemporary-art-gallery-talk-and-book-launch-jrgen-partenhe">08. Contemporary Art Gallery | talk and book launch: Jürgen Partenheimer | APR 5</a>
 ------------------------------------------------------------------------
 Please join us to celebrate the launch of our NEW CAG BOOK SHOP
-with a special artist talk, book launch & signing with JÃ¼rgen Partenheimer
+with a special artist talk, book launch & signing with Jürgen Partenheimer
 
-Saturday April 5, 1.30â€“2.30pm
+Saturday April 5, 1.30–2.30pm
 In partnership with ECUAD, Partenheimer is living and working in Vancouver 
 from February to May, 2014 as the Audain Distinguished Artist-in-Residence.
 
@@ -559,7 +559,7 @@ with CAG, Pinakothek der Moderne, Munich; Gemeentemuseum Den Haag and
 Deichtorhellen Hamburg, Sammlung Falckenberg, is available from the CAG 
 Bookshop and online at the special price $50.
 
-JÃ¼rgen Partenheimer (born in 1947 in Munich) is internationally renowned for 
+Jürgen Partenheimer (born in 1947 in Munich) is internationally renowned for 
 his multifaceted work. In his artistic formulations, constructive elements of 
 minimal art are combined with lyrical intensity. With critical awareness 
 Partenheimer measures and maps the freedom of art that is continuously 
@@ -598,7 +598,7 @@ Coquitlam , B.C.
 ------------------------------------------------------------------------
 How Wheeling Feels When the Ground Walks Away 
 James Hoff
-April 5 â€” May 3, 2014
+April 5 — May 3, 2014
 Reception *Saturday*, April 5, 8PM (Artist talk at 7PM) 
 Curated by Kathy Slade
 
@@ -610,7 +610,7 @@ Cage concert in Italy to a Dead Prez concert at Evergreen State College, and
 in the streets during political unrest in India, China, and Greece.
 
 James Hoff is an artist and publisher who lives and works in New York. He 
-works across diverse formats including the artistsâ€™ book, live performance, 
+works across diverse formats including the artists’ book, live performance, 
 writing, painting, sculpture, and sound art. Guided by both his editorial 
 practice and archival impulses, Hoff employs minor histories as source 
 material, which are then re-worked or re-contextualized, forging new 
@@ -625,7 +625,7 @@ Information with Miriam Katzeff in 2006.
 
 How Wheeling Feels When the Ground Walks Away is guest curated by 
 Kathy Slade and marks the second of a series of exhibitions and projects 
-comprising The Troubled Pastoral. The series, conceived of by Mark LanctÃ´t 
+comprising The Troubled Pastoral. The series, conceived of by Mark Lanctôt 
 and Jonathan Middleton, takes on a broad set of themes including pessimism, 
 psychedelia, altered states and drug use, black comedy, science-fiction 
 dystopia, class struggle (within the context of an increasingly marginal or 
@@ -745,9 +745,9 @@ accessibility
 To learn more: http://thetoast.org/
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-04-03-12-down-on-the-corner-carlos-coln-apr-6">12. Down on the Corner | Carlos ColÃ­n | APR 6</a>
+<a href="/instant-coffee/listings/2014-04-03-12-down-on-the-corner-carlos-coln-apr-6">12. Down on the Corner | Carlos Colín | APR 6</a>
 ------------------------------------------------------------------------
-Down on the Corner is happy to present Carlos ColÃ­n the final programmed 
+Down on the Corner is happy to present Carlos Colín the final programmed 
 artist @ Gene Cafe.
 
 NO LUGAR (To Cameron Clow)
@@ -758,7 +758,7 @@ Reception: Sunday April 6th 5.30-7pm
 
 Artist Talk at 6pm
 
-Carlos ColÃ­n (b Guadalajara, Jalisco, Mexico in 1980) Grew up in Mexico City. 
+Carlos Colín (b Guadalajara, Jalisco, Mexico in 1980) Grew up in Mexico City. 
 He studied Visual Communication and Design (2000-2004), and holds an MFA 
 at the National School of Fine Art (UNAM) (2009-2011), in Mexico City. He 
 recently completed a second MFA at the University of British Columbia (UBC) 
@@ -767,7 +767,7 @@ in Vancouver, BC (2011-2013).
 His research consists in investigating how contemporary art, artists, and art 
 institutions are involved in current social movements and, by extension, how 
 art contributes to social change and social activism in Latin American. As a 
-Latin American artist, Carlos ColÃ­n brings perspectives on the discourse of 
+Latin American artist, Carlos Colín brings perspectives on the discourse of 
 how art evolves inside societies, how it finds expressions, and how art 
 changes over time, as well as the implications this has for Latin America.
 
@@ -776,7 +776,7 @@ larger conversation within which artwork can circulate.
 Located in the window space of Gene coffee shop, on the corner of Main St 
 and Kingsway in Vancouver. Down on the Corner invites artists to utilize the 
 space considering its physicality and location, creating work or interventions 
-that integrate the coffee shopâ€™s environment and architecture.
+that integrate the coffee shop’s environment and architecture.
 
 Programmed by Guadalupe Martinez and Kate Moss
 
@@ -788,7 +788,7 @@ Feedback Talk
 Shama Khanna
 Tuesday, April 8, 7pm
 
-London-based curator Shama Khannaâ€™s current research project Flatness 
+London-based curator Shama Khanna’s current research project Flatness 
 engages screen-based images and immaterial culture in relation to the 
 internet. Launched at the Oberhausen Short Film Festival and operating 
 across multiple platforms including www.flatness.eu, it features contributions 
@@ -903,7 +903,7 @@ For more information visit
 www.backgalleryproject.com
 
 Follow on Twitter | Friend on Facebook | Forward to Friend 
-Copyright Â© 2014 Back Gallery Project, All rights reserved.
+Copyright © 2014 Back Gallery Project, All rights reserved.
 
 Our mailing address is:
 Back Gallery Project
@@ -924,7 +924,7 @@ Opening Reception: Thursday, April 10, 6-8 PM
 
 Charlie Roberts, b.1983 i Kansas, USA. Lives and works in Olso, Norway. 
 Selected solo exhibitions: Kravets Wehby Gallery, New York (2013, 2011, 2010, 
-2008, 2006), David Risley Gallery, KÃ¶penhamn (2013), Richard Heller Gallery, 
+2008, 2006), David Risley Gallery, Köpenhamn (2013), Richard Heller Gallery, 
 Santa Monica, USA (2012, 2009, 2008, 2007, 2006), Kunsthal KAdE, 
 Amsterfoort, Holland (2010), Rice Gallery, Texas, USA (2008), Vous Etes Ici, 
 Amsterdam, Holland (2012, 2008, 2007), Galleri Magnus Karlsson, Stockholm 
@@ -936,7 +936,7 @@ mfineart.ca
 <a href="/instant-coffee/listings/2014-04-03-17-richmond-lulu-series-art-in-the-city-richard-tetrault-apr-10">17. Richmond | Lulu Series: Art in the City | Richard Tetrault | APR 10</a>
 ------------------------------------------------------------------------
 Lulu Series: Art in the City
-Richmondâ€™s annual series of talks about art, the city and creating connections 
+Richmond’s annual series of talks about art, the city and creating connections 
 between citizens and their communities.
 
 Richmond City Hall Council Chambers
@@ -950,7 +950,7 @@ Thursday, April 10 7:00 p.m.
 Richard Tetrault
 FROM THE GROUND UP: THE MAKING OF MURALS
 Using murals to explore cultural identity and as an expression of personal 
-dignity and strength, artist Richard Tetraultâ€™s public art projects typically 
+dignity and strength, artist Richard Tetrault’s public art projects typically 
 involve youth mentorship, community activism, extensive planning and 
 outreach. In this presentation, Richard will reveal both the challenges and 
 successes of these projects as they reflect a process of engagement with 
@@ -990,12 +990,12 @@ This spring exhibition will use plant and flora imagery to explore perennial
 matters such as economic policies, financial crises, the art market and 
 immigration.
 
-Time is simultaneously slowed down and sped up in Sarah Smuts Kennedyâ€™s 
-Principle of Hope, a stop-motion animation described by the artist as a â€˜poetic 
-drama of cause and effectâ€™ that documents the life cycle of six colonies of 
+Time is simultaneously slowed down and sped up in Sarah Smuts Kennedy’s 
+Principle of Hope, a stop-motion animation described by the artist as a ‘poetic 
+drama of cause and effect’ that documents the life cycle of six colonies of 
 chia seedlings, a rediscovered Aztec super food traded as currency and 
 banned by the colonising Spanish. Principle of Hope follows the utopian 
-impulse using the aesthetic strategy of modelling possible â€˜what ifâ€™ scenarios, 
+impulse using the aesthetic strategy of modelling possible ‘what if’ scenarios, 
 in this case the cause and effect implications current global economic policy 
 of growth has on resource use and demand.
 
@@ -1006,7 +1006,7 @@ With his new series of flowers, there is a persistence of the beauty that
 surrounds rife with contradictions and allegory that relates to other works in 
 this exhibition.
 
-Brad Tinmouthâ€™s sculpture, Tulipiere, is derived from his research on 
+Brad Tinmouth’s sculpture, Tulipiere, is derived from his research on 
 Tulipmania. Tulip mania was a brief period of time where Dutch tulip bulbs 
 fueled what is considered the world's first speculative economic bubble. 
 Tulips plagued by a colour breaking virus that caused vibrant streaks of 
@@ -1017,13 +1017,13 @@ wages of a skilled worker. As tulip price plateaued these contract holders
 found themselves holding highly inflated paper shares of still ungrown bulbs 
 and no clients willing to pay the over-inflated reseller's price. This caused a 
 major crash in the market leaving thousands with nothing but beautiful 
-â€˜brokenâ€™ tulips.
+‘broken’ tulips.
 
 Interestingly, because the price of tulips had risen to such heights, it became 
 such that it was much more affordable to purchase a painting of tulips than it 
 was to buy actual tulips, fueling the art market that resulted in the Golden Age 
 of Dutch painting. Two transmounted cibachrome prints from Christopher 
-Rodriguesâ€™ series of Still Lifes refer to the oil paintings of Dutch masters 
+Rodrigues’ series of Still Lifes refer to the oil paintings of Dutch masters 
 Coenraat Roepel (Still Life with Flowers, 1721) and Rachel Ruysch (Still Life 
 with Flowers on a Marble Tabletop, 1716). The cibachrome medium is an 
 additionally significant choice as the silver particles of the photograph echo 
@@ -1033,7 +1033,7 @@ painting while "borrowing" pixels of color from images found on the Internet
 using search engines and scanned from his own paintings; he entirely 
 absents the camera from the artistic process.
 
-Sean Alwardâ€™s work utilizes the inherent light sensitivity of plants in order to 
+Sean Alward’s work utilizes the inherent light sensitivity of plants in order to 
 make photo prints. In one body of work, leaf surfaces act as an analogue for 
 photographic paper and chlorophyll assumes the role of silver halide. For his 
 Double Invasive series, the artist took samples of English ivy and Norway 
@@ -1064,7 +1064,7 @@ graduated from York University. His work deals with sustainable and efficient
 systems. He aims to make everyone as happy as he is. Tinmouth is the Studio 
 Manager for Kent Monkman and was co-director of Butcher Gallery from 
 2009-2013. His work has been shown at Cooper Cole and Nuit Blanche in 
-Toronto, Pierre FranÃ§ois Ouellette art contemporain 221 in Montreal, Esam 
+Toronto, Pierre François Ouellette art contemporain 221 in Montreal, Esam 
 Caen in France, Preteen Gallery in Mexico and Dokfest in German. He has an 
 upcoming solo exhibition at OhMyDays Gallery in Singapore in the summer of 
 2014. http://bradtinmouth.com 
@@ -1131,7 +1131,7 @@ movement; not here. Post Rem, the exhibition, will look at moments when
 chance occurrences become the source of inspiration from which 
 contemporary artists derive to make work.
 
-Evan Broensâ€™ work originated from a photograph he took of a wall with a 
+Evan Broens’ work originated from a photograph he took of a wall with a 
 mismatched yellow tone of painted over graffiti. The form it created caught 
 his attention and lingered with him for two years. The conceptual framework 
 for this work was to research this form and visit all the possibilities this 
@@ -1139,13 +1139,13 @@ shape could be, eventually constructing a spectrum of possibilities. The
 meaning of the work is multivalent; in one form, the abstract shape has been 
 transformed into an enigmatic poem.
 
-Patryk Stasieczekâ€™s Negative-Positive; Negative (inverse) is a photographic 
+Patryk Stasieczek’s Negative-Positive; Negative (inverse) is a photographic 
 work arrived at through a meditation of surface, space, and the properties of 
 the photographic act in relationship to its material. Composed in a traditional 
 darkroom setting, this diptych speaks to the process analogue production and 
 its stages through installation. Both works are duplicates of the other; one 
 speaks to the conditions of the apparatus while the other performs the 
-referent. Stasieczekâ€™s practice is focused on phrasing photographic prints 
+referent. Stasieczek’s practice is focused on phrasing photographic prints 
 and installations through interventions in the stages of image production in 
 both a non-representational & representational manner. While approaching 
 the concept of photography trough a versed methodology, his practice 
@@ -1155,7 +1155,7 @@ photographic image production.
 Similarly, Jason Gowans has been wrestling with this notion. He will show 
 photographs from his new series, A Law That Is Implied Without Being Said. 
 Using the physical processes of photography, he offers something we 
-werenâ€™t expecting: an expansive landscape with a white void that casts an 
+weren’t expecting: an expansive landscape with a white void that casts an 
 inexplicable shadow. The compositions appeal formally, but jar narratively. 
 These silver gelatin photographs, made in the darkroom from 4x5 negatives 
 and contact printed on paper, are inspired by the idea of the penumbra. The 
@@ -1165,7 +1165,7 @@ penumbra is a law that is implied without being explicit. It presents itself as
 black and white, but is in fact is open to interpretation. The penumbra is the 
 space where an argument is made.
 
-Michael Morrisâ€™ Screen Test: Jean Harlow are eight cibachrome photos from 
+Michael Morris’ Screen Test: Jean Harlow are eight cibachrome photos from 
 1976 that have been recently discovered in storage where they have been 
 for the last 38 years! The photos were printed from the original slides shot in 
 1965, which have been lost, making each photograph unique. A movie poster 
@@ -1175,7 +1175,7 @@ series underlines the artist's fascination for LA and Hollywood, in particular.
 These photos are also reminiscent of Kenneth Anger's "noir" classic book of 
 scandals, Hollywood / Babylon.
 
-Victoria-based Matt Trahanâ€™s work examines the material possibilities of 
+Victoria-based Matt Trahan’s work examines the material possibilities of 
 drawing by challenging some of its most fundamental precepts, including the 
 relationship between positive and negative space, figure and ground, and the 
 discreteness of line. He also uses drawing as a framework for highlighting 
@@ -1200,13 +1200,13 @@ Jason Gowans lives and works in Vancouver. He received a BFA in
 photography at Concordia University in photography. He is a photo-based 
 artist, the co-founder of Gallery 295 and the founding member of The 
 Everything Company art collective. Recent solo projects include: Dumb as a 
-Painter w/Tonik Wojtyra, Gallery 295, Vancouver (2013); Three Wrongs Donâ€™t 
+Painter w/Tonik Wojtyra, Gallery 295, Vancouver (2013); Three Wrongs Don’t 
 Make a Right w/The Everything Co., Access Gallery (2013); Five Landscape 
-Modes, Gallery Fukai, Vancouver (2013); Iâ€™m Doing Everything Iâ€™ve Always 
+Modes, Gallery Fukai, Vancouver (2013); I’m Doing Everything I’ve Always 
 Wanted, All The Time, Everyday, Little Mountain Gallery, Vancouver (2012). 
 Recent group exhibitions include: Magenta Flash Forward Exhibtion, Various 
 Cities (2013-14); Romancing the Anthropocene w/The Everything Co., 
-Scotiabank Nuit Blanche, Toronto (2013); Nouvelles GÃ©ographies, GaleriÃ©, 
+Scotiabank Nuit Blanche, Toronto (2013); Nouvelles Géographies, Galerié, 
 Perception Park, Paris (2013); Recreation of The Lure of the Sea for 40th 
 anniversary, The Western Front, Vancouver (2013); Chief on top of the Chief, 
 Miracle & Connelly presents, Vancouver (2012).
@@ -1218,7 +1218,7 @@ activity. He is a Canadian, born in Saltdean England in 1942. In 1969 he
 founded Image Bank with Vincent Trasov, a method for personal exchange 
 between artists; 1973 he was co-founder and co-director of Western Front 
 Society, Vancouver; 1981, he was invited with Trasov to Berlin as guests of 
-the Berliner KÃ¼nstlerprogramm DAAD; 1990, he and Trasov founded the 
+the Berliner Künstlerprogramm DAAD; 1990, he and Trasov founded the 
 Morris/Trasov Archive, currently housed at Morris and Helen Belkin Art 
 Gallery, Vancouver, to research contemporary art. Morris has curated 
 numerous exhibitions. His work in represented in private and public 
@@ -1227,7 +1227,7 @@ collections nationally and internationally
 Patryk Stasieczek is a visual artist living in Vancouver, BC. He is in the final 
 stages of the Master of Applied Arts program at Emily Carr University of Art + 
 Design. He holds a BFA in photography and philosophy from Concordia 
-University in MontrÃ©al, and has exhibited nationally, participating in exhibitions 
+University in Montréal, and has exhibited nationally, participating in exhibitions 
 at Gallery 295, Galerie Les Territoires, Eastern Bloc, and the FOFA Gallery.
 
 Matt Trahan is an artist currently living in Victoria, BC. He holds a BFA from 
@@ -1241,7 +1241,7 @@ Victoria; and surface to air, Deluge Contemporary Art, Victoria
 ------------------------------------------------------------------------
 April 11 - Life Hacks for BC Arts Council grants
 Speakers: Sue Donaldson and Sheryl Jones
-Time: 1 â€“ 5pm
+Time: 1 – 5pm
 Where: Cineworks Studio, 1131 Howe St (back lane entrance)
 Cost: Members $10/Non members $15 + GST (refreshments to be served
 afterwards) No one will be turned away due to lack of funds.
@@ -1256,11 +1256,11 @@ Sue Donaldson will be providing context for the Council in giving a
 history of its background, who sits on its Board, how it was
 established, its relationship with the province, what the money at
 Council is for and how much there is, how grants programs work for
-individual artists, collectives and organizationsâ€”from how a grant
+individual artists, collectives and organizations—from how a grant
 program is developed, what to look for when preparing a submission, what
 happens after an application for funding arrives at Council and what
 goes on during adjudication and afterwards. There will be a detailed
-description of the peer-review assessment process and Councilâ€™s
+description of the peer-review assessment process and Council’s
 commitment to it.
 
 Sheryl Jones will talk specifically about her remit as a new grant
@@ -1269,7 +1269,7 @@ her experience of the grants process at Council in her first few months.
 
 There will be time for questions and comments throughout the session
 with time provided at the end of day for more private or specific
-conversationsâ€”refreshments will be provided.
+conversations—refreshments will be provided.
 
 Sue Donaldson is the BC Arts Council officer responsible for grants
 programs for visual arts organizations, museums and aboriginal cultural
@@ -1289,15 +1289,15 @@ visual arts and craft.
 ------------------------------------------------------------------------
 grunt gallery & Gallery Gachet co-present:
 
-10 years of State of Emergency (Ã‰tat d'Urgence)
+10 years of State of Emergency (État d'Urgence)
 by ATSA
 
 (Vancouver, BC) - grunt gallery and Gallery Gachet are proud to co-present 
-10 years of State of Emergency (Ã‰tat d'Urgence), a multidisciplinary visual 
-exhibition based on a retrospective of works from 1998-2013 during Ã‰tat 
+10 years of State of Emergency (État d'Urgence), a multidisciplinary visual 
+exhibition based on a retrospective of works from 1998-2013 during État 
 d'Urgence (State of Emergency) and Fin Novembre (End of November).
 
-The annual event Ã‰tat d'Urgence (State of Emergency) began in 1998 in 
+The annual event État d'Urgence (State of Emergency) began in 1998 in 
 downtown Montreal and was created by ATSA, a not-for-profit organization 
 founded by artists Pierre Allard and Annie Roy. It was originally conceived to 
 celebrate the 50th anniversary of the Universal Declaration of Human Rights. 
@@ -1305,7 +1305,7 @@ The event itself is a 24-hour, 5-day refugee camp in support of people living
 homeless and under conditions of poverty. The event was created as a 
 public intervention in the city and includes the provision of food, clothing and 
 shelter as well as the production of hundreds of art works from 
-multidisciplinary backgrounds. Ã‰tat d'Urgence was so successful that it has 
+multidisciplinary backgrounds. État d'Urgence was so successful that it has 
 returned on an annual basis and now, 16 years later, goes by the name Fin 
 Novembre.
 
@@ -1319,20 +1319,20 @@ archives produced throughout the years of the event from 1997 to 2013,
 including the montage U pour Urgence presented at the Canadian 
 Architecture Centre,Deposit, Last resort, Under surveillance, The Brasero 
 and a collection of video capsules by Santiago Bertolino, Steve Patry, 
-Henrique Vera Villanueva and Luc SÃ©nÃ©cal. This selection shows the 
+Henrique Vera Villanueva and Luc Sénécal. This selection shows the 
 evolution of the event and all the political and social difficulties and challenges 
 the artists experienced.
 
 At Gallery Gachet, the 10 years of State of Emergency exhibition features 
 artwork by over 20 artists-local, national and international-who made original 
-contributions to Ã‰tat d'Urgence during the event's run between 1998 and 
+contributions to État d'Urgence during the event's run between 1998 and 
 2010. Included in these works are collaborative illustrations, sound track and 
 photo projects; paintings on unconventional media; drawings, a survival 
 handbook; miniature cardboard architecture and more.
 
 Join us on Friday April 11 at Gallery Gachet (5:30-7:30) and at grunt gallery 
 (7:30-9:30) for the opening receptions of 10 years of State of Emergency 
-(Ã‰tat d'Urgence). There will also be an artist talk on Saturday April 12th (2-
+(État d'Urgence). There will also be an artist talk on Saturday April 12th (2-
 3pm) at grunt gallery. The exhibition at Gallery Gachet runs until May 25th, the 
 exhibition at grunt gallery runs until May 17th.
 
@@ -1359,15 +1359,15 @@ role in improving society.
 
 ATSA is recipient of the 2013 Honourable mention for the Mayor's Democracy 
 Price, the 2011 Giverny Capital price, the 2010 Pratt & Whitney Canada Nature 
-de l'Art Prize awarded by the Conseil des arts de MontrÃ©al, the Citoyen de la 
+de l'Art Prize awarded by the Conseil des arts de Montréal, the Citoyen de la 
 Culture 2008 award handed out by Les Arts et la Ville and of the Artistes 
 pour la Paix 2008 award. 
 
 ATSA is also proud to have been the spokesperson of Artists in the Art of 
-the City Mouvement (2013), 5Ã¨meSommet citoyen de MontrÃ©al (2009), 22Ã¨me 
-Exposition inter-collÃ©giale d'arts plastiques du RÃ©seau Inter-collÃ©gial des 
-ActivitÃ©s Socioculturelle du QuÃ©bec (RIASQ 2010), and of JournÃ©es 
-QuÃ©bÃ©coises de la SolidaritÃ© Internationale(2011). ATSA is a member of the 
+the City Mouvement (2013), 5èmeSommet citoyen de Montréal (2009), 22ème 
+Exposition inter-collégiale d'arts plastiques du Réseau Inter-collégial des 
+Activités Socioculturelle du Québec (RIASQ 2010), and of Journées 
+Québécoises de la Solidarité Internationale(2011). ATSA is a member of the 
 board of RAIQ.
 http://www.atsa.qc.ca/en/
 
@@ -1381,13 +1381,13 @@ April 12 to June 15 | Opening Reception - April 12, 7 30 - 9 30pm
 Artist s Talk with Ali Kazimi - April 12, 6 30pm
 
 Marking the 100th anniversary of the Komagata Maru episode, Surrey Art 
-Galleryâ€™s group exhibition Ruptures in Arrival - Art in the Wake of the 
+Gallery’s group exhibition Ruptures in Arrival - Art in the Wake of the 
 Komagata Maru brings together for the first time a cross-section of visual art 
 related to this history, and presents these works alongside art that 
-addresses more recent histories of mass migration from Asia to Canadaâ€™s 
-West Coast. Ten artists from Canada and India contribute works â€“ in a wide 
+addresses more recent histories of mass migration from Asia to Canada’s 
+West Coast. Ten artists from Canada and India contribute works – in a wide 
 range of media including painting, drawing, photography, sculpture, 3D film, 
-and installation art â€“ that explore history s relationship to memory, mass media 
+and installation art – that explore history s relationship to memory, mass media 
 s affects on personal experience, the creative use of fact and fiction, and the 
 visual narratives of transpacific mass migration. Over the course of the 
 exhibition, events such as artist s talks, film screenings, tours, Family Day, 
@@ -1398,10 +1398,10 @@ Admission to this exhibition is by donation.
 
 The Komagata Maru was a Japanese steamship that sailed to Vancouver in 
 1914, carrying 376 passengers from Punjab, India. Only 23 passengers were 
-allowed to land, and following 2 months of detention in Vancouverâ€™s harbour 
+allowed to land, and following 2 months of detention in Vancouver’s harbour 
 the ship was forced to return to India. The Komagata Maru episode has come 
 to reflect a troubling moment in Canadian history when the federal 
-governmentâ€™s discriminatory immigration policies coincided with widespread 
+government’s discriminatory immigration policies coincided with widespread 
 racism among mainstream Canadian society. The episode had tragic 
 consequences for many individuals. It has become an important locus for 
 conversations on Canadian history, identity, and citizenship. The Ruptures in 
@@ -1419,32 +1419,32 @@ route of the Komagata Maru and its passengers journey from Asia to Canada
 and back again. Toronto filmmaker and new media artist Ali Kazimi has 
 created a new immersive 3D film installation that presents a series of 
 vignettes about everyday life for South Asian Canadians on shore during the 
-time of the Komagata Maru s detention in Vancouverâ€™s harbour. Surrey-based 
+time of the Komagata Maru s detention in Vancouver’s harbour. Surrey-based 
 artist Jarnail Singh will present the newest and largest in a series of paintings 
 he has been working on about the Komagata Maru episode. Evan Lee, a 
 Vancouver-based artist, has created a new set of inkjet prints using 3D 
 digital modelling based on press photography from the arrival of two boats to 
-Canadaâ€™s West Coast: the MV Ocean Lady from Sri Lanka in 2009, and the 
-MV Sun Sea from Chinaâ€™s Fujian province in 1999.
+Canada’s West Coast: the MV Ocean Lady from Sri Lanka in 2009, and the 
+MV Sun Sea from China’s Fujian province in 1999.
 
 Surrey Art Gallery gratefully acknowledges the financial assistance of City of 
 Surrey, BC Arts Council, Canada Council for the Arts, Government of Canada 
 through the Department of Canadian Heritage, and Vancouver Foundation.
 
 Ruptures in Arrival: Art in the Wake of the Komagata Maru is presented in 
-partnership with Komagata Maru 1914 â€“ 2014: Generations, Geographies and 
+partnership with Komagata Maru 1914 – 2014: Generations, Geographies and 
 Echoes, a collaboration between eight organizations across Metro 
 Vancouver that are presenting events and exhibitions related to the living 
 legacies of the Komagata Maru episode. www.komagatamaru100.com
 
-Exhibition Launch with Artistâ€™s Talk and Opening Reception
+Exhibition Launch with Artist’s Talk and Opening Reception
 Ruptures in Arrival: Art in the Wake of the Komagata Maru launches on April 
-12 with an artistâ€™s talk at 6:30pm, followed by an opening reception from 
+12 with an artist’s talk at 6:30pm, followed by an opening reception from 
 7:30pm to 9:30pm (formal remarks at 7:45pm). Toronto-based artist Ali Kazimi 
 will give an illustrated talk about his art practice, major works, and the context 
 for his work on display in the exhibition. There is another event taking place 
 on this evening, so visitors are encouraged to arrive early in order to find 
-parking. Admission to the opening reception and artistâ€™s talk is free (donations 
+parking. Admission to the opening reception and artist’s talk is free (donations 
 are gratefully received).
 
 Also on exhibit is BogScape, a sound art installation inspired by Burns Bog by 
@@ -1453,7 +1453,7 @@ Sonorous Kingdom, an exhibition that addresses the relationship between
 sound and vegetation.
 
 Surrey Art Gallery
-13750 â€“ 88th Avenue
+13750 – 88th Avenue
 Surrey, BC
 Canada
 V3W 3L1
@@ -1505,12 +1505,12 @@ Vancouver, BC V6B 2X6
 <a href="/instant-coffee/listings/2014-04-03-25-on-main-gallery-thru-the-trapdoor-apr-22">25. On Main Gallery | Thru The Trapdoor | APR 22</a>
 ------------------------------------------------------------------------
 Project Description
-OMG â€“ On Main Gallery presents Thru The Trapdoor
+OMG – On Main Gallery presents Thru The Trapdoor
 An interdisciplinary art event with multiple curators and dozens of artists.
 Artistic Director: Paul Wong, Producer: Rick Erickson
-Exhibition: April 23 â€“ 25, Wed. Thurs. Fri. 12pm â€“ 8pm 
-Press Preview: April 22, 3 â€“ 4pm
-Artist and VIP Opening: Tues., April 22, 6 â€“ 10 pm
+Exhibition: April 23 – 25, Wed. Thurs. Fri. 12pm – 8pm 
+Press Preview: April 22, 3 – 4pm
+Artist and VIP Opening: Tues., April 22, 6 – 10 pm
 
 Thru The Trapdoor Closing Event Sat. April 26, 8 - 2 am $10 Admission
 Site-specific installations, projections, visuals, sculpture, performances, 
@@ -1532,7 +1532,7 @@ bringing together some of the best new and established talent and producers
 in Vancity to collaborate and create something extraordinary. We will be 
 using the upstairs, downstairs, video mapping the building exteriors and 
 taking over the parking lot. This is going to be big and legendary happening 
-harking back to the free spirit of 1980â€™s artists warehouse shows. We are 
+harking back to the free spirit of 1980’s artists warehouse shows. We are 
 going all out with a blast.
 Sponsors/Participating Organizations to date: grunt gallery, New Forms 
 Festival, Hybridity Music, Bomber Brewing, VIVO Media Arts, and way more 

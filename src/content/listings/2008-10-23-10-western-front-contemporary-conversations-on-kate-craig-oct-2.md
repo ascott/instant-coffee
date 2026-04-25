@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: pleasure will keep us together"
 emailDate: "Thu, 23 Oct 2008 09:20:07 -0700"
 number: 10
 type: ""
+venue: "Western Front"
 summary: "Western Front | Contemporary Conversations on Kate Craig | OCT 26"
 ---
 

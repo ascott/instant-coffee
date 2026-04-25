@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver Especially"
 emailDate: "Thu, 19 Feb 2015 14:30:53 -0800"
 number: 27
 type: "CALL"
+venue: "The Banff Centre"
 summary: "The Banff Centre | Blueprint for Happiness/Artist in Residence Summer | MAR 4"
 ---
 

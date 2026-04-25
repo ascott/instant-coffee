@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) THE INSTANT COFFEE CHIMERA"
 emailDate: "Thu, 12 Jan 2012 11:05:03 -0800"
 number: 6
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Robert Dayton Junior | JAN 13"
 ---
 
@@ -27,7 +28,7 @@ bridge and explore the gap between Canada and romance with somewhat
 dubious results. The Canadian Romantic himself will be performing live, taking 
 topic suggestions from the crowd for his infamous impromptu candlelight 
 Recitations. Expect glittery Bon Mots aplenty from a man of way too much 
-experience. You will come alive with laughter feeling like youâ€™ve woken up at an 
+experience. You will come alive with laughter feeling like you’ve woken up at an 
 undisclosed time with make up smeared across your face.
 
 The evening will also include a tribute to the Ac-tor as singer, and the launch of 

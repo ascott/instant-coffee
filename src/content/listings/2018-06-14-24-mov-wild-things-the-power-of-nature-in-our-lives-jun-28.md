@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 24
 type: "EXHIBITION"
+venue: "MOV"
 summary: "MOV | Wild Things: The Power of Nature in Our Lives | JUN 28"
 ---
 

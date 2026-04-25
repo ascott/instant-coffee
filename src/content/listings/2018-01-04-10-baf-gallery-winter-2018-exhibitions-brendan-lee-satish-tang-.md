@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 10
 type: "OPENING"
+venue: "BAF Gallery Winter 2018 Exhibitions"
 summary: "BAF Gallery Winter 2018 Exhibitions | Brendan Lee Satish Tang | Lucien Durey | JAN 11"
 ---
 

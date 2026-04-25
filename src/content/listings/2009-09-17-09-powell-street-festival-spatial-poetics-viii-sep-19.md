@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 9
 type: ""
+venue: "Powell Street Festival"
 summary: "Powell Street Festival | Spatial Poetics VIII | SEP 19"
 ---
 
@@ -20,11 +21,11 @@ SHIMA IUCHI & JEAN ROUTHIER
 MARK SOO & JOHN KORSRUD (with musicians Evan Arntzen, Saul Berson, Michael Braverman, 
 Bruce Freedman, Graham Ord, and Bill Runge)
 Powell Street Festival Society presents the eighth annual Spatial Poetics, an interdisciplinary 
-event that celebrates collaboration, experimentation and innovation. This yearâ€™s end result is a 
+event that celebrates collaboration, experimentation and innovation. This year’s end result is a 
 collection of 2 new works that explore ideas of memory, space, community, and dialogue by 
 emerging and established Asian Canadian artists and collaborators. Spatial Poetics VIII 
 combines works by partnered artists, Shima Iuchi and Jean Routhier, and Mark Soo and John 
-Korsrud. Elaborating upon the Festival theme of Migration, this edition of Spatial Poeticsâ€™ artists 
+Korsrud. Elaborating upon the Festival theme of Migration, this edition of Spatial Poetics’ artists 
 engage with new and experimental locales, including the streetscape of Japantown and a 
 rooftop location overlooking the docks of Vancouver. Iuchi and Routhier present a video and 
 audio work, while Soo and Korsrud present a conceptual musical performance in the Downtown 

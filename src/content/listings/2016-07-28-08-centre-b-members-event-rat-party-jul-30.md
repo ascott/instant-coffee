@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 8
 type: "EVENT"
+venue: "Centre B"
 summary: "Centre B | MEMBERS EVENT: RAT PARTY | JUL 30"
 ---
 

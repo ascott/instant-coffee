@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 33
 type: "EDUCATION"
+venue: "Webinar"
 summary: "Webinar | Making Public Art with Specialist Fabricators | APR 24"
 ---
 

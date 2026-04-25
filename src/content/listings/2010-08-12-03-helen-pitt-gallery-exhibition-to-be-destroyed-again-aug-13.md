@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feeling so much doing so little"
 emailDate: "Thu, 12 Aug 2010 11:15:08 -0700"
 number: 3
 type: ""
+venue: "Helen Pitt Gallery"
 summary: "Helen Pitt Gallery | Exhibition To Be Destroyed, Again | AUG 13"
 ---
 

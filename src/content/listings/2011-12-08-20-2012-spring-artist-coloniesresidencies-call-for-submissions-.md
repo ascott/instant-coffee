@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: VARIOUS SUNDRY THINGS"
 emailDate: "Wed, 07 Dec 2011 22:45:29 -0800"
 number: 20
 type: ""
+venue: "2012 Spring Artist Colonies/Residencies"
 summary: "2012 Spring Artist Colonies/Residencies | Call For Submissions, Nova Scotia | DEC 15"
 ---
 

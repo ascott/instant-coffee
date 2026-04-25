@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 4
 type: "EXHIBITION"
+venue: "Audain Gallery at SFU Galleries"
 summary: "Audain Gallery at SFU Galleries | Elizabeth Zvonar: Knock on Wood + Whistle | JAN 13"
 ---
 

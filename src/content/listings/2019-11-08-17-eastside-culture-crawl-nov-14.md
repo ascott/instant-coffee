@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 17
 type: "EVENT"
+venue: "Eastside Culture Crawl"
 summary: "Eastside Culture Crawl | NOV 14"
 ---
 

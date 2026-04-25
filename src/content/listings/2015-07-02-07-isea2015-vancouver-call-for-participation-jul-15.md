@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: and that is it"
 emailDate: "Thu, 02 Jul 2015 11:25:48 -0700"
 number: 7
 type: "CALL"
+venue: "ISEA2015 Vancouver"
 summary: "ISEA2015 Vancouver | Call For Participation | JUL 15"
 ---
 
@@ -26,11 +27,11 @@ ISEA2015 is a six-day symposium featuring over 450 speakers, workshops,
 tutorials, panels, papers and institutional presentations. It showcases
 over 180 artworks ranging from large-scale interactive installations to
 cutting-edge electronic music performances. The theme of
-ISEA2015â€”Disruptionâ€”encourages us to re-examine and re-negotiate the
+ISEA2015—Disruption—encourages us to re-examine and re-negotiate the
 frontiers between academia and art, practice and theory, systems and
 reality, art and society.
 
-Centered at SFU Woodward's downtown campus , ISEA2015â€™s programming will
+Centered at SFU Woodward's downtown campus , ISEA2015’s programming will
 overflow to venues across Metro Vancouver. Partners include local artistic
 organisations and venues such as the Vancouver Art Gallery, Western Front,
 VIVO, the Museum of Vancouver, Grunt Gallery, Vancouver New Music, 221A,

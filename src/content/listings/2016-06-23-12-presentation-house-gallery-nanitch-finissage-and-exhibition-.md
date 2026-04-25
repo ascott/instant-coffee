@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 12
 type: "TALK"
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | NANITCH: Finissage and Exhibition Tour | JUN 27"
 ---
 

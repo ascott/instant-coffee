@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 7
 type: ""
+venue: "The Artbank"
 summary: "The Artbank | Vancouver: A Pretty Shitty City | MAR 25"
 ---
 

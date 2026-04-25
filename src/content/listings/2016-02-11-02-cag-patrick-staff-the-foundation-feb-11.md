@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we give preference"
 emailDate: "Thu, 11 Feb 2016 13:05:49 -0800"
 number: 2
 type: "OPENING"
+venue: "CAG"
 summary: "CAG | Patrick Staff - The Foundation | FEB 11"
 ---
 

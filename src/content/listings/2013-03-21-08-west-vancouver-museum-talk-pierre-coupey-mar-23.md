@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 8
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | talk: Pierre Coupey | MAR 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 14
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Kids First Saturdays | OCT 3"
 ---
 

@@ -15,7 +15,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-09-04-01-audain-gallery-lossless-sfu-mfa-graduating-exhibition-sep-4">01. Audain Gallery | Lossless: SFU MFA Graduating Exhibition | SEP 4</a>
 <a href="/instant-coffee/listings/2014-09-04-02-csa-space-window-bended-harmony-julian-hou-sep-4">02. CSA Space | Window Bended Harmony: Julian Hou | SEP 4</a>
 <a href="/instant-coffee/listings/2014-09-04-03-field-contemporary-mike-bourscheid-sep-4">03. Field Contemporary | Mike Bourscheid | SEP 4</a>
-<a href="/instant-coffee/listings/2014-09-04-04-morris-and-helen-belkin-art-gallery-ai-weiwei-new-york-photo">04. Morris and Helen Belkin Art Gallery | Ai Weiwei New York Photographs 1983â€“1993 | SEP 4</a>
+<a href="/instant-coffee/listings/2014-09-04-04-morris-and-helen-belkin-art-gallery-ai-weiwei-new-york-photo">04. Morris and Helen Belkin Art Gallery | Ai Weiwei New York Photographs 1983–1993 | SEP 4</a>
 <a href="/instant-coffee/listings/2014-09-04-05-wil-aballe-art-projects-electric-mud-sep-4">05. Wil Aballe Art Projects | Electric Mud | SEP 4</a>
 <a href="/instant-coffee/listings/2014-09-04-06-city-of-vancouver-art-studio-awards-deadline-friday-sep-5">06. City of Vancouver | ART STUDIO AWARDS DEADLINE FRIDAY | SEP 5</a>
 <a href="/instant-coffee/listings/2014-09-04-07-gallery-295-kelly-lycan-celia-perrin-sidarou-sep-5">07. Gallery 295 | Kelly Lycan & Celia Perrin Sidarou | SEP 5</a>
@@ -27,12 +27,12 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2014-09-04-13-republic-gallery-ryan-peter-sediment-sep-10">13. Republic Gallery | Ryan Peter: SEDIMENT | SEP 10</a>
 <a href="/instant-coffee/listings/2014-09-04-14-western-front-life-and-people-mark-delong-barry-doupe-lorna-">14. Western Front | Life and People | Mark DeLong, Barry Doupe, Lorna Mills | SEP 11</a>
 <a href="/instant-coffee/listings/2014-09-04-15-avenue-too-true-katrina-niebergal-sep-11">15. Avenue | TOO TRUE Katrina Niebergal | SEP 11</a>
-<a href="/instant-coffee/listings/2014-09-04-16-contemporary-art-gallery-xxx-opening-and-artist-talk-jrgen-p">16. Contemporary Art Gallery XXX | opening and artist talk: JÃ¼rgen Partenheimer | SEP 11</a>
+<a href="/instant-coffee/listings/2014-09-04-16-contemporary-art-gallery-xxx-opening-and-artist-talk-jrgen-p">16. Contemporary Art Gallery XXX | opening and artist talk: Jürgen Partenheimer | SEP 11</a>
 <a href="/instant-coffee/listings/2014-09-04-17-malaspina-printmakers-jimmy-xerox-the-mala-mala-malas-sep-11">17. Malaspina Printmakers | Jimmy Xerox & the Mala Mala Malas | SEP 11</a>
 <a href="/instant-coffee/listings/2014-09-04-18-access-far-away-so-close-part-i-sep-12">18. Access | Far Away So Close: part I | SEP 12</a>
 <a href="/instant-coffee/listings/2014-09-04-19-artspeak-yuji-agematsu-sep-12">19. Artspeak, | YUJI AGEMATSU | SEP 12</a>
 <a href="/instant-coffee/listings/2014-09-04-20-centre-a-music-temple-performance-sep-12">20. CENTRE A | Music Temple Performance | SEP 12</a>
-<a href="/instant-coffee/listings/2014-09-04-21-gam-gallery-michelle-weinstein-mars-pamphleteer-sep-12">21. Gam Gallery | Michelle Weinstein â€“ Mars Pamphleteer | SEP 12</a>
+<a href="/instant-coffee/listings/2014-09-04-21-gam-gallery-michelle-weinstein-mars-pamphleteer-sep-12">21. Gam Gallery | Michelle Weinstein – Mars Pamphleteer | SEP 12</a>
 <a href="/instant-coffee/listings/2014-09-04-22-presentation-house-gallery-kelly-lycan-underglow-sep-12">22. Presentation House Gallery | Kelly Lycan: Underglow | SEP 12</a>
 <a href="/instant-coffee/listings/2014-09-04-23-the-apartment-robert-kleyn-and-mitch-speed-systems-sep-12">23. The Apartment | Robert Kleyn and Mitch Speed: Systems | SEP 12</a>
 <a href="/instant-coffee/listings/2014-09-04-24-unitpitt-projects-andrew-smith-ithaca-smith-mark-cunningham-">24. UNIT/PITT Projects | Andrew Smith, Ithaca Smith, Mark Cunningham | SEP 12</a>
@@ -57,29 +57,29 @@ September 4 - 27, 2014
 
 Lossless is an exhibition featuring graduating projects by the 2014 MFA
 candidates at Simon Fraser University's School for the Contemporary Arts.
-Video, sculpture, performance and installation projects by this yearâ€™s
+Video, sculpture, performance and installation projects by this year’s
 graduates share a number of related concerns, while formulating distinct
 frameworks for individual investigation.
 
-Deborah Edmeades' video work and Luciana D'AnunciaÃ§ao's performances pursue
+Deborah Edmeades' video work and Luciana D'Anunciaçao's performances pursue
 questions of subjective and sensory experience. Edmeades' two-channel
 video, On the Validity of Illusion, shows a woman offering sage advice to
-her double. The trope of the spirit guide figures the events that follow â€“
-the staging of various optical tricks and sensory effects â€“ as charmed
+her double. The trope of the spirit guide figures the events that follow –
+the staging of various optical tricks and sensory effects – as charmed
 one-acts and mythical labours. The methodical experiments conjure the work
 of a scientist but the tone suggests rather, serious and exhaustive play.
-Performances by D'AnunciaÃ§ao engage the body as a shape, a sound and a
+Performances by D'Anunciaçao engage the body as a shape, a sound and a
 malleable force. Poses and gestures, in combination with projected light
 and video, visually disorder the body and render the human form strange to
 the eye. Responding to various materials that have been uprooted and
-imported for the performance, the artistâ€™s graduating project, When will my
+imported for the performance, the artist’s graduating project, When will my
 hands become roots?, considers embodied impressions of locatedness.
 
 Videos by Jeffrey Langille and sculptures by Avery Nabata explore temporal
 orders and perceptual modes. Langille's videos are often set in liminal
 zones and animated by atmospheric effects and happenstance events. Some
 scenes are so quiet and motionless that the moving images could be mistaken
-for still photos. Once weâ€™re drawn into the slow tempo of these works
+for still photos. Once we’re drawn into the slow tempo of these works
 however, we begin to pay careful attention to their subjects and subtle
 â€œhappenings.â€  Interested in cycles of making and unmaking, Nabataâ€™s wood
 sculptures are lightly managed, anticipatory objects. The subtle forms
@@ -88,12 +88,12 @@ gathering in their minimal parts some projection of a cohesive whole.
 
 Nathaniel Wong has examined, often to comic effect, vernacular languages
 and forms that exist alongside established disciplines. Invoking the
-conventions of music and cinema, Wongâ€™s installation, Thus Spoke Death and
+conventions of music and cinema, Wong’s installation, Thus Spoke Death and
 Transfiguration, loosely relates engrained creative habits, ritual acts and
 blithe theatricality.
 
 The exhibition of a graduating project represents the culmination of a
-candidateâ€™s studies, and is presented in partial fulfillment of the
+candidate’s studies, and is presented in partial fulfillment of the
 requirements for the degree of Master of Fine Arts.
 
 Presented with the School for the Contemporary Arts at SFU.
@@ -103,17 +103,17 @@ Opening Reception
 Wednesday, September 10, 7pm
 
 Installation and Performance: When will my hands become roots?
-Luciana D'AnunciaÃ§ao
-September 10 â€“ 13
+Luciana D'Anunciaçao
+September 10 – 13
 Studio T (on the 2nd floor)
-Sept. 10: Installation, 7 â€“ 9pm
-Sept. 11 â€“ 13: Installation, 12 â€“ 6pm
-Sept. 11 â€“ 13: Performance, 8pm
+Sept. 10: Installation, 7 – 9pm
+Sept. 11 – 13: Installation, 12 – 6pm
+Sept. 11 – 13: Performance, 8pm
 
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audain@sfu.ca
@@ -165,7 +165,7 @@ Mike Bourscheid lives and works in Luxemburg and in Vancouver. He received
 MFA at the University of arts Berlin (UdK) under the guidance of Michaela
 Meise and Lothar Baumgarten.
 
-Growing up in Luxembourg, Mike BourscheidÃ¢â‚¬â„¢s youth was immersed in
+Growing up in Luxembourg, Mike Bourscheidâ€™s youth was immersed in
 storytelling, fairy tales and the personal heroics of daily pub culture.
 His hometown was small and conservative. Like most small towns, the pubs
 were the epicenter of drama, where suppressed social and political tensions
@@ -223,22 +223,22 @@ Performance, Speedo, bronze sculptures, beach mat
 2014
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-09-04-04-morris-and-helen-belkin-art-gallery-ai-weiwei-new-york-photo">04. Morris and Helen Belkin Art Gallery | Ai Weiwei New York Photographs 1983â€“1993 | SEP 4</a>
+<a href="/instant-coffee/listings/2014-09-04-04-morris-and-helen-belkin-art-gallery-ai-weiwei-new-york-photo">04. Morris and Helen Belkin Art Gallery | Ai Weiwei New York Photographs 1983–1993 | SEP 4</a>
 ------------------------------------------------------------------------
 Ai Weiwei
-New York Photographs 1983â€“1993
+New York Photographs 1983–1993
 September 5 to November 30, 2014
 Opening Reception:
 Thursday, September 4, 8-10 pm
 
 All welcome. Admission is free.
 
-Ai Weiwei: New York Photographs 1983â€“1993 consists of 227 black-and-white
+Ai Weiwei: New York Photographs 1983–1993 consists of 227 black-and-white
 photographs taken by Ai Weiwei during the decade that he resided in New
 York City, his first time away from China. The photographs were personally
 selected by the artist from over 10,000 negatives that are housed at Three
 Shadows Photography Art Center in Beijing and together represent a single
-work of artâ€”no one image is more important than another.
+work of art—no one image is more important than another.
 
 Born in 1957, Ai Weiwei grew up in China during the Cultural Revolution.
 The New York photographs, presented in chronological order, form a layering
@@ -248,7 +248,7 @@ through his interactions with friends and acquaintances arriving from
 China, the meeting of new friends in New York such as Allen Ginsberg, his
 observation of rampant poverty in the East Village neighbourhood where he
 lived, and his images of political demonstrations and celebratory festivals
-taking place in New York at the time. While Ai Weiweiâ€™s intention was not
+taking place in New York at the time. While Ai Weiwei’s intention was not
 to be a documentarian, this body of work nonetheless has become a personal
 and impressionistic diary that represents a specific historical moment in a
 city that was experiencing significant social change.
@@ -264,7 +264,7 @@ China following his return there in 1993.
 This exhibition is organized in collaboration with Three Shadows
 Photography Art Center, Beijing, and Chambers Fine Art in New York and
 Beijing. It has been made possible with funding from the Canada Council for
-the Arts and the Belkin Curatorâ€™s Forum.
+the Arts and the Belkin Curator’s Forum.
 
 Morris and Helen Belkin Art Gallery
 1825 Main Mall, Vancouver, BC Canada V6T 1Z2 
@@ -300,13 +300,13 @@ This previous series of monochromatic grey dipped works were installed in
 tense relation to the architecture while considering the domestic aspect of
 the gallery as apartment.
 
-In Electric Mud, six new works showcase WeisgerberÃ¢â‚¬â„¢s continued engagement
+In Electric Mud, six new works showcase Weisgerberâ€™s continued engagement
 in this process-driven direction while introducing new elements, such as
 colour, that bring the paintings to the realm of a broader discussion of
 contemporary abstract painting. His work still explores materiality as
 subject, driven from an interest in dissecting things to explore their
 structure and skin, and how they intersect. Situated at the axis of
-painting, sculpture, and installation, WeisgerberÃ¢â‚¬â„¢s work seamlessly
+painting, sculpture, and installation, Weisgerberâ€™s work seamlessly
 crosses disciplines. It culls through histories and collects fragments
 along the way. These specters flutter in and out, and collide to create
 works that are imprinted with the past and the personal.
@@ -382,7 +382,7 @@ Opening: Friday September 5th, 7-9pm
 This exhibition folds the practices of Kelly Lycan and Celia Perrin
 Sidarous together as they investigate the value of objects through
 photographic installation. Working collaboratively Lycan and Sidarous
-highlight a phrase from Gertrude SteinÃ¢â‚¬â„¢s Tender Buttons as an imagined arc
+highlight a phrase from Gertrude Steinâ€™s Tender Buttons as an imagined arc
 for their mutual fascination with the latent presence of objects.
 
 Gallery 295
@@ -422,7 +422,7 @@ forthcoming in the journal Scorched Earth.
 
 Antonia Hirsch: Negative Space
 
-September 6 Ã¢â‚¬â€œ December 13, 2014
+September 6 â€“ December 13, 2014
 
 SFU Gallery, AQ3004, Simon Fraser University, Burnaby BC
 
@@ -444,12 +444,12 @@ installation includes images and objects that span from astronomy to
 contemporary mobile devices as points of departure to address a complex
 network of speculative ideas. The exhibition's exploration of seeing and
 believing manifests in evocations of outer space and devices such as the
-Claude glass (or black mirror)Ã¢â‚¬â€œused by 18th and 19th century landscape
-painters â€œthat simultaneously pull the user into an interior world while
+Claude glass (or black mirror)â€“used by 18th and 19th century landscape
+painters “that simultaneously pull the user into an interior world while
 projecting worlds away. Taking up a history of reflection, Negative Space
 sets forth inquiries into the contexts of technology, philosophy and
-creative practice, questioning how we and our devicesÃ¢â‚¬â€œboth historical and
-present day â€œfavor the image over the real
+creative practice, questioning how we and our devicesâ€“both historical and
+present day “favor the image over the real
 
 Hirsch is a Berlin based artist, writer and editor. Her work has been
 exhibited at the Contemporary Art Gallery, Vancouver; The Power Plant,
@@ -541,7 +541,7 @@ Sameer Farooq: I Want to Grow Old (2008) and The Silk Road of Pop (2013).
 
 For the remainder of 2014, the CAG will host a series of new
 artists-in-residence. Each will begin research toward participatory
-projects to be realized throughout 2014â€“2015. Those artists-in-residence
+projects to be realized throughout 2014–2015. Those artists-in-residence
 include: Keg de Souza, Maddie Leach and Sameer Farooq.
 
 Sameer Farooq and Mirjam Linschooten
@@ -557,13 +557,13 @@ cultural contexts. Something stolen, something new, something borrowed and
 something blue (2014) responded directly to the looting of the Egyptian
 Museum at Tahrir Square during the Arab Spring. They built a temporary
 photo studio in Cairo and worked with a local calligrapher to make
-announcement posters asking the simple question: â€˜What objects from your
-home would you like to see displayed in the Egyptian Museum?â€™ For a month,
+announcement posters asking the simple question: ‘What objects from your
+home would you like to see displayed in the Egyptian Museum?’ For a month,
 they photographed and interviewed people with the objects that were brought
 in. The project has been developed as a publication for display in the CAG
 bookshop. As part of their visit, Farooq will screen two documentary films,
 I Want to Grow Old (2008) and The Silk Road of Pop (2013) that he made in
-China over the past decade (2004â€“2014).
+China over the past decade (2004–2014).
 
 - See more at:
 http://www.contemporaryartgallery.ca/events/film-screening-sameer-farooq-i-want-to-grow-old-the-silk-road-of-pop/#sthash.2l27QYor.dpuf
@@ -666,9 +666,9 @@ Gallery Hours: Tuesday-Saturday 12-5pm
 
 *Mark DeLong Performance and Book Launch: Sept 25 @ 8pm
 
-Borrowing its title from Vancouver artist Barry Doupeâ€™s new film, the
+Borrowing its title from Vancouver artist Barry Doupe’s new film, the
 result of a 2013 Western Front Production Residency, our fall exhibition
-includes Doupeâ€™s new work alongside sculptures by Vancouver artist Mark
+includes Doupe’s new work alongside sculptures by Vancouver artist Mark
 DeLong and animated GIFs by Toronto-based Lorna Mills. Often focusing on
 pop culture material that occupies the fringes of the mainstream, each of
 these artists produces their work with an intensive, craft-like rigor.
@@ -692,7 +692,7 @@ working with video and animation. He graduated from the Emily Carr
 University in 2004 with a Bachelor of Media Arts majoring in animation. His
 films use imagery and language derived from the subconscious; developed
 through writing exercises and automatic drawing. He often creates settings
-within which a charactersâ€™ self-expression or action is challenged and
+within which a characters’ self-expression or action is challenged and
 thwarted, resulting in comic, violent and poetic spectacles. His films
 have been screened throughout Canada and Internationally including the Ann
 Arbor Film Festival (Ann Arbor, Michigan), International Film Festival
@@ -710,7 +710,7 @@ Sheroes (year(s)), Toronto; When Analog Was Periodical (2013) Berlin; and
 :::Zip The Bright::: (2013) at Trinity Square Video, Toronto. Her most
 recent solo exhibition, The Axis of Something (2013) was exhibited at
 Transfer Gallery in Brooklyn, New York. Lorna Mills also curated in 2014 a
-two-part video remake of John Bergerâ€™s 1972 BBC production, Ways of Seeing,
+two-part video remake of John Berger’s 1972 BBC production, Ways of Seeing,
 retitled Ways of Something for Theoneminutes program at The Sandberg
 Institute in Amsterdam.
 
@@ -746,7 +746,7 @@ Too True
 Is there a nugget of colonial pathos in the chill vibes of your banana 
 pillow? How much salt from the southern oceans can you fit into a story? 
 Does a bouquet of rare flowers deliver affect to me directly or are they the 
-envelope of something more ineffableâ€”contained within? Some heart of 
+envelope of something more ineffable—contained within? Some heart of 
 mystery.
 
 What placement of paranoia, optimism, love, grandeur, insult, longing is 
@@ -755,33 +755,33 @@ a jungle of half-decayed signs and maybe not notice a single leaf
 anywhere, or consider a colour for a colour. 
 
 Authentic optimism. A true vacation. Extracting meanings. It sounds more 
-real to say that itâ€™s the signs keeping the objects alive. Giving them new 
+real to say that it’s the signs keeping the objects alive. Giving them new 
 manufacture, new life. Creating industries and purposes and opening 
 new realities. 
 
 Packing our business around a fertile world.
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-09-04-16-contemporary-art-gallery-xxx-opening-and-artist-talk-jrgen-p">16. Contemporary Art Gallery XXX | opening and artist talk: JÃ¼rgen Partenheimer | SEP 11</a>
+<a href="/instant-coffee/listings/2014-09-04-16-contemporary-art-gallery-xxx-opening-and-artist-talk-jrgen-p">16. Contemporary Art Gallery XXX | opening and artist talk: Jürgen Partenheimer | SEP 11</a>
 ------------------------------------------------------------------------
 Exhibition Opening
-JÃ¼rgen Partenheimer
-The Archive â€“ The Raven Diaries
+Jürgen Partenheimer
+The Archive – The Raven Diaries
 September 12 to November 9, 2014
 
-Exhibition Opening â€“ Thursday, September 11, 7 to 10pm at the CAG
+Exhibition Opening – Thursday, September 11, 7 to 10pm at the CAG
 Public opening and celebration of the exhibition. Artist in attendance.
 Opening reception sponsor: Kronenbourg 1664 and E & J Gallo Winery Canada
 
 The Contemporary Art Gallery presents the first solo exhibition in Canada
-of work by acclaimed German artist JÃ¼rgen Partenheimer. Reflecting the
-diversity of the artistâ€™s practice, the exhibition comprises works on
+of work by acclaimed German artist Jürgen Partenheimer. Reflecting the
+diversity of the artist’s practice, the exhibition comprises works on
 paper, text, printmaking, ceramics and sculpture, much of it produced in
 Vancouver in spring 2014 during his recent residency as the Audain
 Distinguished Artist-in-Residence, hosted by Emily Carr University of Art +
 Design.
 
-Partenheimerâ€™s work is essentially abstract; his drawings and paintings,
+Partenheimer’s work is essentially abstract; his drawings and paintings,
 caught seemingly on the verge of dissolution, are remarkable for their
 fragile beauty, whilst sculpture and ceramic work, suggesting some
 usefulness, remain elusive with respect to any specific function. Drawing
@@ -810,20 +810,20 @@ back to a space of the imagination through the perception of the world of
 things.
 
 Four institutions have joined together in a partnership showing various
-aspects of Partenheimerâ€™s work: the Pinakothek der Moderne in Munich, the
+aspects of Partenheimer’s work: the Pinakothek der Moderne in Munich, the
 Falckenberg Collection, Deichtorhallen Hamburg, the Gemeentemuseum Den Haag
 and the Contemporary Art Gallery in Vancouver. All four exhibitions have
 independent installation concepts related to their locations and spaces,
 and open up various subjective and reflexive realms of experience to visitors.
 
 The accompanying book contains a series of commissioned essays where
-philosophers, historians, artistâ€™s, physicists and poets reflect on the
-multi-faceted nature of Partenheimerâ€™s work. The publication The Archive is
+philosophers, historians, artist’s, physicists and poets reflect on the
+multi-faceted nature of Partenheimer’s work. The publication The Archive is
 available for sale in the CAG bookshop or online at
 www.contemporaryartgallery.ca for the special exhibition price of $50.
 
 As part of the Vancouver New Music Festival, the Vancouver Electronic
-Ensemble will create an improvised performance responding to Partenheimerâ€™s
+Ensemble will create an improvised performance responding to Partenheimer’s
 work. See notes to editors section below for further details.
 
 The exhibition is generously supported by Jane Irwin and Ross Hill. We
@@ -831,23 +831,23 @@ gratefully acknowledge the support of the Consulate General of the Federal
 Republic of Germany, Vancouver. With assistance from Niki Design and Glass
 Studio Inc., North Vancouver.
 
-Artist Talk | JÃ¼rgen Partenheimer
+Artist Talk | Jürgen Partenheimer
 Saturday, September 13, 4pm
 Join the artist on a walk through tour of his exhibition.
 
-JÃ¼rgen Partenheimer
-The Archive â€“ The Raven Diaries
+Jürgen Partenheimer
+The Archive – The Raven Diaries
 September 12 to November 9, 2014
 
 The Contemporary Art Gallery presents the first solo exhibition in Canada
-of work by acclaimed German artist JÃ¼rgen Partenheimer. Reflecting the
-diversity of the artistâ€™s practice, the exhibition comprises works on
+of work by acclaimed German artist Jürgen Partenheimer. Reflecting the
+diversity of the artist’s practice, the exhibition comprises works on
 paper, text, printmaking, ceramics and sculpture, much of it produced in
 Vancouver in spring 2014 during his recent residency as the Audain
 Distinguished Artist-in-Residence, hosted by Emily Carr University of Art +
 Design.
 
-Partenheimerâ€™s work is essentially abstract; his drawings and paintings,
+Partenheimer’s work is essentially abstract; his drawings and paintings,
 caught seemingly on the verge of dissolution, are remarkable for their
 fragile beauty, whilst sculpture and ceramic work, suggesting some
 usefulness, remain elusive with respect to any specific function. His
@@ -924,7 +924,7 @@ that exists between utterance and comprehension, and the always-inadequate
 means we employ in our perpetual drive to define ourselves and to connect
 with others. They explore the disappointments and frustrations of language,
 and playfully investigate the responsibility we so often ask objects to
-bear â€“ objects that are themselves indifferent to our desires â€“ in our
+bear – objects that are themselves indifferent to our desires – in our
 efforts to shuttle meaning across the unpredictable terrain that is social
 life.
 
@@ -937,7 +937,7 @@ Tuesday, September 16, 2014, 7:00 pm
 
 Access is committed to encouraging dialogue linking artists of different
 generations to one another and to the wider community. Part of our ongoing
-In Conversation series, tonightâ€™s informal event will bring the exhibiting
+In Conversation series, tonight’s informal event will bring the exhibiting
 artists of Far Away So Close: Part I into discussion with Access
 Director/Curator Kimberly Phillips. Join us as we explore themes of
 melancholy, magic, distance and longing that are evoked by the works on
@@ -962,7 +962,7 @@ Inbox
 
 YUJI AGEMATSU
 
-September 13â€“October 25, 2014
+September 13–October 25, 2014
 
 Opening: Friday, September 12, 7pm
 Performance: Saturday, September 13, 8pm at 163 East Pender, 3rd Floor
@@ -975,7 +975,7 @@ collections, of an amateur, informal variety, such as the undiscerning
 landfill, or through more discriminating eyes, to be taken home for their
 sheen or how they lay against one another. There are things that give,
 things that take. Things the economy forgot, or things that peculiarize
-time. Itâ€™s always high tide in New York City.
+time. It’s always high tide in New York City.
 
 [continue reading...]
 
@@ -984,7 +984,7 @@ Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 www.artspeak.ca
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-09-04-20-centre-a-music-temple-performance-sep-12">20. CENTRE A | Music Temple Performance | SEP 12</a>
@@ -1001,7 +1001,7 @@ Free Admission
 Artists Emi Honda and Jordan McKenzie will be performing in their 
 sculptural installation once again on September 12, 7PM at Centre A. 
 
-Honda and McKenzie began Elfin Saddle after migrating from Canadaâ€™s 
+Honda and McKenzie began Elfin Saddle after migrating from Canada’s 
 lush west coast to Montreal, transporting their nature-inspired creations to 
 the urban environs of the east. Already seasoned collaborators in 
 sculptural installation and music, Elfin Saddle began as a more contained 
@@ -1023,9 +1023,9 @@ PLEASE NOTE OUR NEW POSTAL ADDRESS:
 PO Box 88363 Chinatown, Vancouver, BC V6A 4A6
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2014-09-04-21-gam-gallery-michelle-weinstein-mars-pamphleteer-sep-12">21. Gam Gallery | Michelle Weinstein â€“ Mars Pamphleteer | SEP 12</a>
+<a href="/instant-coffee/listings/2014-09-04-21-gam-gallery-michelle-weinstein-mars-pamphleteer-sep-12">21. Gam Gallery | Michelle Weinstein – Mars Pamphleteer | SEP 12</a>
 ------------------------------------------------------------------------
-Michelle Weinstein â€“ Mars Pamphleteer
+Michelle Weinstein – Mars Pamphleteer
 Gam Gallery
 110 E Hastings Street, Vancouver BC
 
@@ -1034,7 +1034,7 @@ Opening reception: Friday September 12, 7 pm - 1 am
 Presented in conjunction with Swarm, Annual festival of artist-run culture
 
 Mars Pamphleteer is an experimentation and a fusion of two prospects
-â€“composite photos taken by the robotic mars rovers, and the conspiracy
+–composite photos taken by the robotic mars rovers, and the conspiracy
 theory expounding that the original U.S. moon landing of 1969 was staged in
 a movie studio. 
 
@@ -1061,7 +1061,7 @@ affective experience of the space or narrative that it is representing.
 
 This project is in honor of Mars One, which plans to begin the colonization
 of Mars in 2024. The Martian outpost will be funded through a spectacular
-reality TV show based on the colonyâ€™s operations.
+reality TV show based on the colony’s operations.
 
 Born in Toronto, and raised in Connecticut, Michelle Weinstein earned her
 Bachelor of Fine Art at Maine College of Art, and Yale University. She
@@ -1084,7 +1084,7 @@ September 13 - November 2, 2014
 Opening Reception: Friday, September 12, 7PM
 
 Presentation House Gallery is pleased to announce an exhibition of new
-works by Vancouver artist Kelly Lycan designed in response to the Galleryâ€™s
+works by Vancouver artist Kelly Lycan designed in response to the Gallery’s
 architecture. The artist reflects on the growing impact of omnipresent
 digital imagery on the display and reproduction of photographs. 
 
@@ -1092,17 +1092,17 @@ digital imagery on the display and reproduction of photographs.
 York photography gallery opened by Alfred Steiglitz in 1905. As home to the
 Photo-Secessionists, 291 became renowned as the first exhibition space to
 showcase photography as art, and introduced many European avant-garde
-artists to America. Lycanâ€™s structure mimics a black and white photograph
+artists to America. Lycan’s structure mimics a black and white photograph
 taken by Alfred Stieglitz of a 1906 exhibition at 291. Viewers are invited
 to walk through a simulation of the photographic illusion of this gallery
 space, complete with Victorian decorative elements including curtained
-wainscotting and burlap walls â€“ everything except pictures on the walls.
+wainscotting and burlap walls – everything except pictures on the walls.
 
 Lycan has also created interventions in Presentation House Gallery that
 frame the impact of display methods on our reception of art and the roles
 of institutions in the production of cultural histories. The temporal
 hybrids and spatial alterations - photographic details of modernist gallery
-architecture and architectural elements from the Galleryâ€™s past - disrupt a
+architecture and architectural elements from the Gallery’s past - disrupt a
 passive experience of representation. Lycan draws attention to the
 interplay between systems of representation and perceptual experience.
 "Underglow" offers an opportunity to consider the impact of architectural
@@ -1150,10 +1150,10 @@ production.
 
 Speed employs bold serial and taxonomic graphics on found magazine pages
 and large format fibre paper. He culls patterns of black and white forms or
-characters from the materialâ€™s surfaces in his recent series "New Yorker
+characters from the material’s surfaces in his recent series "New Yorker
 Collages," mirroring systems of base technology and forms of automatic
-writing. Speedâ€™s collages and drawings are presented on sculptural bases
-and hanging mechanisms, giving a gravitas to the worksâ€™ physical materiality.
+writing. Speed’s collages and drawings are presented on sculptural bases
+and hanging mechanisms, giving a gravitas to the works’ physical materiality.
 
 Robert Kleyn is a visual artist and practicing architect who studied
 mathematics and architecture at UBC in the early 1970s. His works have been
@@ -1178,7 +1178,7 @@ info@theapt.ca
 Andrew Smith, Ithaca Smith, Mark Cunningham: The Monochrome Shop
 
 Open for business from September 13 to Saturday October 11. Opening
-reception, Friday September 12, 8pm â€” part of #SWARM15.
+reception, Friday September 12, 8pm — part of #SWARM15.
 
 The monochrome shop is here to sell
 
@@ -1187,10 +1187,10 @@ Cunningham.
 
 The monochrome shop is here to sell. While we take the commodification of
 art as a given, and as a starting point, this is not a position that we
-inhabit with ease or comfort. We occupy it because we simply canâ€™t afford
+inhabit with ease or comfort. We occupy it because we simply can’t afford
 not to. Like the commodity, the monochrome is at first glance something
 trivial and obvious, while on the contrary it is a thing so complex, and so
-full of metaphysical subtleties that it canâ€™t help but contaminate and
+full of metaphysical subtleties that it can’t help but contaminate and
 change the way we relate to people and things. So stupid, yet so mentally
 and emotionally exposed. So brash, yet so insecure.
 
@@ -1199,11 +1199,11 @@ abstraction today. We experience the economy as a monochromatic field that
 includes every- and no-thing, every- and no-where, every extreme of
 existence, as well as the thinning middle, and in which everything that
 circulates between us is coloured by money. Monochromatic abstraction, like
-most â€˜eventsâ€™ of the modernist avant garde that have been accorded any
+most ‘events’ of the modernist avant garde that have been accorded any
 historical significance, mostly appears today as little more than an
 over-repeated trope squeezed out of MFA programs everywhere, a trope that
 leans heavily toward the whims of the art market. In which case, why
-shouldnâ€™t we just do the same thing? Those debts donâ€™t pay off themselves.
+shouldn’t we just do the same thing? Those debts don’t pay off themselves.
 Which is to say, monochromes sell, or at least this is our speculation.
 
 The commodification of our monochromes does not preclude other, surplus
@@ -1214,16 +1214,16 @@ and a place to disappear.
 
 How much would you pay for a place to disappear?
 
-Friday September 12, 8pm â€“ Opening Reception
-Wednesday September 17, 7pm â€“ Artist talk by Ithaca Smith
-Saturday October 4, 2pm â€“ Book launch and talk by Mark Cunningham
+Friday September 12, 8pm – Opening Reception
+Wednesday September 17, 7pm – Artist talk by Ithaca Smith
+Saturday October 4, 2pm – Book launch and talk by Mark Cunningham
 
 Alongside these scheduled events, each artist will be keeping shop in the
 gallery at the following times throughout the exhibition:
-Andrew Smith and Mark Cunningham â€“ Saturday September 13, 12-5pm; Saturday
+Andrew Smith and Mark Cunningham – Saturday September 13, 12-5pm; Saturday
 October 11, 12-5pm.
-Ithaca Smith â€“ Wednesday September 17, 12-5pm
-Mark Cunningham â€“ Each Wednesday for the duration of the project, 12-2pm;
+Ithaca Smith – Wednesday September 17, 12-5pm
+Mark Cunningham – Each Wednesday for the duration of the project, 12-2pm;
 Saturdays, September 20 and 27, 12-2pm.
 (NB: This shop-keeping schedule may be subject to change at short notice.)
 
@@ -1234,7 +1234,7 @@ gaze, approached from both voyeuristic and autobiographical standpoints.
 
 Ithaca Smith is a self-taught artist, poet, and writer. Her approach to
 production is multi-faceted and informed by the phenomenological binding of
-the body, place and capital. This will be Smithâ€™s inaugural exhibition of
+the body, place and capital. This will be Smith’s inaugural exhibition of
 paintings that she has commissioned by the artist Andrew Smith. Ithaca
 Smith lives and works in Portland, Oregon.
 
@@ -1262,7 +1262,7 @@ http://www.fieldworkmarfa.org/
 Great Britain , 2013. Dir: Joanna Hogg. 104 min.
 
 The third feature from writer-director Joanna Hogg
-(Unrelated, Archipelago) â€œreaffirms Hogg's status as a distinctive,
+(Unrelated, Archipelago) “reaffirms Hogg's status as a distinctive,
 singular, and challenging voice of British cinemaâ€  (Mark Kermode, The
 Guardian). Doyenne of punk Viv Albertine and Turner-nominated artist Liam
 Gillick play a married couple who decide to move house, a midlife upheaval
@@ -1280,7 +1280,7 @@ Tix: $11/9 + $3membership
 dimcinema.ca (http://www.dimcinema.ca) / thecinematheque.ca
 (http://www.thecinematheque.ca)
 
-Contact: MichÃ¨le Smith, programming@dimcinema.ca
+Contact: Michèle Smith, programming@dimcinema.ca
 For updates and more information, visit us on Facebook
 (http://www.facebook.com/dimcinema/)
 
@@ -1306,7 +1306,7 @@ of Contemporary Art Leipzig, Germany. Langdon will offer a short course in
 reading objects, environments and messages. Stimulated by the curious genre
 of design fiction, the programme asserts storytelling as the primary
 function of design. Langdon will conduct a three day workshop oSeptember
-16â€“18 exploring narrative approaches to design, a series of connected
+16–18 exploring narrative approaches to design, a series of connected
 exercises subjecting a collection of found materials to various manual and
 conceptual processes. 
 
@@ -1463,7 +1463,7 @@ Migration (PCHC-MoM) to provide guided tours in various languages to small
 groups of visitors by special arrangements in the last four weeks of the
 exhibition.
 
-Maison MusÃ©e Roedde House Museum
+Maison Musée Roedde House Museum
 1415 Barclay Street,
 Vancouver, BC V6G 1J6
 T 604.684.7040
@@ -1494,7 +1494,7 @@ Ranch" uncovers one of Stanley Park's all but forgotten histories. The
 Kanaka Ranch in the West End was home to Vancouver's Hawaiian community,
 coal makers, and creators of the city's first Longshore Labour Union. "Each
 of these portraits showcases an aspect of early Vancouver history and links
-it to our present moment" explains exhibition curator LibertÃ© Reilly. "By
+it to our present moment" explains exhibition curator Liberté Reilly. "By
 featuring a diversity of stories from the late 1800s era, this exhibit
 offers a window into our city's past in celebration of its future."
 
@@ -1532,12 +1532,12 @@ Media Contacts:
 Sheila Giffen, Museum Manager
 info@roeddehouse.org | 604-684-7040
 
-LibertÃ© Reilly, Programme Assistant & Curator
+Liberté Reilly, Programme Assistant & Curator
 liberte@roeddehouse.org | 604-684-7040
 
 Alyssa Sy de Jesus, Programme Assistant & Curator
 alyssa@roeddehouse.org
-<file:///C:UsersRoeddeHouseMuseum-2DocumentsRoedde%20ShareLibertÃ©Exhib
+<file:///C:UsersRoeddeHouseMuseum-2DocumentsRoedde%20ShareLibertéExhib
 itsSummer%202014AdvertsPress%20Releasealyssa@roeddehouse.org> |
 604-684-7040
 

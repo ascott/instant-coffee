@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Teck Gallery"
 summary: "Teck Gallery | Krista Belle Stewart: Eye Eye | JUN 19"
 ---
 

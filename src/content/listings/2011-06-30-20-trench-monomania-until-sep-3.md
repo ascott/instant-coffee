@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 20
 type: ""
+venue: "TRENCH"
 summary: "TRENCH | MONOMANIA | until | SEP 3"
 ---
 
@@ -24,7 +25,7 @@ Salon installation begins June 23rd and will continue
 throughout the summer.
 
 Paintings, sculpture, photography, drawings, posters, prints, 
-video, film, assemblage and moreâ€¦.
+video, film, assemblage and more….
 
 Works by: Michael Morris, David Mayrs, Laura Baird, Robert 
 Young, Don Jarvis, Ron Stonier, John Koerner, Vikki Alexander, 

@@ -70,7 +70,7 @@ kingsgatemallhappenings@gmail.com, or find her at the mall!
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-06-05-02-art-waste-artwastetumblrcom-jun-5">02. ART WASTE | artwaste.tumblr.com | JUN 5</a>
 ------------------------------------------------------------------------
-ART WASTE // JUNE 5 â€“ 8, 2014
+ART WASTE // JUNE 5 – 8, 2014
 artwaste.tumblr.com
 
 Presented in co-ordination with local music festival Music Waste, Art Waste is 
@@ -86,10 +86,10 @@ Art Waste Group Show
 7PM - 11PM
 Gallery Gachet - 88 E Cordova
 
-This year's theme of group show submissions is â€˜Public/Private' to address 
+This year's theme of group show submissions is ‘Public/Private' to address 
 this dichotomy in artistic practice and in the public realm, and to act as 
 catalyst for artists to share their private world with the public world. 
-Featuring the works of: Forked Animal, Noe Bagshaw, VÃ­ctor Ballesteros, 
+Featuring the works of: Forked Animal, Noe Bagshaw, Víctor Ballesteros, 
 Kate Brown, Eva Bryant, Kyle Buds, Angela Campbell, Cheryl Carpenter, Paul 
 Antony Carr, Romulo Cesar, Annie Chiavaroli, Gillian Cole, Tanya Crail, 
 Sylvana dAngelo, Sarah Davidson, Drek, Rommy Ghaly, Georgia Graham, Kati 
@@ -334,7 +334,7 @@ and mental health, and usefulness.
 
 Matthew Van Asselt is a printmaker living and working in Vancouver. He 
 graduated with a BFA at Purchase College, State University of New York, 
-in May 2013. Matthewâ€™s work lies somewhere between satirical and 
+in May 2013. Matthew’s work lies somewhere between satirical and 
 earnest. His reactions to our built environment are proposed futures that 
 walk the fine line between the absurd and the expected, or sometimes 
 are merely reflections of moments that already exist, but suggest the 
@@ -342,10 +342,10 @@ same paradox. Matthew plays with an underlying utopian drive, creating
 worlds that, though clearly referential to our own, are far more fantastical, 
 or that take ideas that do exist a little too far.
 
-Matthewâ€™s process begins with photographs, which he obsessively takes 
+Matthew’s process begins with photographs, which he obsessively takes 
 everywhere he goes. With these photos he makes collages and drawings 
 which finally get resolved as silkscreen prints. Though clearly 
-photographic in nature, Matthewâ€™s prints take on an added layer of 
+photographic in nature, Matthew’s prints take on an added layer of 
 obscurity through this translation by hand, depicting worlds that reference 
 â€œthe realâ€  but are a little too good (or bad) to be true.
 
@@ -382,11 +382,11 @@ The hair of the dog? To fight fire with fire? A spike with a spike, networks
 with networking, institutions with institutionalisms? Power with the 
 accumulation of power? Strikes with strikes, violence with violence, class 
 with class? Escapism with escape... Art with art? What means justify what 
-end? For the self? The career? The family? The nation? The world? Allâ€™s fair 
+end? For the self? The career? The family? The nation? The world? All’s fair 
 in love and war, right? Sorry, he says, but it's all for my love Olive!
 
 A small selection from a larger body of new paintings, this show stems from 
-a single image cartoon of Popeye The Sailor Man. The cartoonâ€™s relation to the 
+a single image cartoon of Popeye The Sailor Man. The cartoon’s relation to the 
 depiction of time, repetition, violence, and love inspired the series. The 
 paintings are constructed using a simple system. Right fist or left fist? Back 
 of the hand or front of the hand? White paint or black paint? 
@@ -395,7 +395,7 @@ Bio
 
 Jordy Hamilton completed an MFA at the University of British Columbia in 
 2011. In 2012, he was a finalist in the RBC Painting Competition, as well as in 
-the Contemporary Art Society of Vancouverâ€™s inaugural emerging artistâ€™s 
+the Contemporary Art Society of Vancouver’s inaugural emerging artist’s 
 prize. Jordy currently lives and works in Vancouver. Within his art practice, 
 painting has functioned as the primary mode in a multifaceted approach to 
 making art. Sculpture, film, photography and installation have been produced 
@@ -446,12 +446,12 @@ spiritual industrialization.
 Recent solo showings include Bite the Dog that feeds you (2014), Yactac 
 Gallery; West coast Maximalist (2013), Sunset Terrace; birth of a seagull 
 eschewed by a crow in good standing (2012), Small Gallery; Yin Yang 
-Temple (2011), Unit/Pitt; Forecast situation (2011), Luckyâ€™s Gallery and Made 
+Temple (2011), Unit/Pitt; Forecast situation (2011), Lucky’s Gallery and Made 
 in the Philippines (2010), W00 Gallery. Recent group exhibitions include Cool 
 Memories (2014), Light & Space Contemporary; Radiation (2013), 
 Chulangkorn Art University; Dark side of the Sun (2013), Art informal; 
 Monomania (2013), Trench Gallery; Welcome to Sax Island (2012) Or Gallery 
-Berlin; Picturing Intuition (2011) Sub Gallery; The Gift (2010) Luckyâ€™s 
+Berlin; Picturing Intuition (2011) Sub Gallery; The Gift (2010) Lucky’s 
 Gallery.Upcoming exhibitions include a group show in Planet Gallery in Seoul, 
 Korea and collaborative projects in Manila, Philippines.
 
@@ -462,9 +462,9 @@ Friday, June 6, 6pm
 Artist talk followed by opening reception
 
 And He Built A Crooked House is an exhibition of works by Lauren Cherry 
-and Max Springer (Los Angeles), ValÃ©rian Goalec (Brussels) and Nicolas 
+and Max Springer (Los Angeles), Valérian Goalec (Brussels) and Nicolas 
 Sassoon (Biarritz/Vancouver) that explores French theorist Georges 
-Batailleâ€™s concept of Base Materialism.
+Bataille’s concept of Base Materialism.
 
 The exhibition takes its title from a short story by Robert A. Heinlein involving 
 a house newly designed by the protagonist Quintus Teal that, as a result of 
@@ -489,7 +489,7 @@ hello@221a.ca
 Break The Legs of What I Want To Happen
 7 - 21 June, 2014
 Opening Reception Friday 6 June, 2014, 7:00 pm
-Curatorsâ€™ and Artistsâ€™ Tours Saturday 7 June, 2014 hourly from 1:00 until 4:00 
+Curators’ and Artists’ Tours Saturday 7 June, 2014 hourly from 1:00 until 4:00 
 pm and Friday 13 June, 2014 from 2:00 until 4:00 pm
 
 Hovering - as our culture now seems to be - on the brink of abandoning so 
@@ -497,7 +497,7 @@ many paradigms of knowledge and, along with them, assumptions about
 what it means to succeed, the notion of failure itself is proving to be an 
 increasingly evocative site of investigation for artists. Break the Legs Of 
 What I Want To Happen is a collaborative curatorial project developed and 
-realized by the graduating students of Emily Carr Universityâ€™s AHIS 401 
+realized by the graduating students of Emily Carr University’s AHIS 401 
 Topics in Curatorial Projects seminar under the instruction of Access 
 Director/Curator Kimberly Phillips.
 
@@ -522,9 +522,9 @@ pleasure and diversity of drawing, rather than on skill and technical ability.
 
 Draw No Conclusions is held in conjunction with Break the Legs of What I 
 Want To Happen, an exhibition exploring the possibilities of failure, 
-collaboratively curated by the students of Emily Carr Universityâ€™s AHIS 401 
+collaboratively curated by the students of Emily Carr University’s AHIS 401 
 Topics in Curatorial Projects seminar under the instruction of Access 
-Director/Curator Kimberly Phillips. Held in Accessâ€™ gallery space, Draw No 
+Director/Curator Kimberly Phillips. Held in Access’ gallery space, Draw No 
 Conclusions offers participants the opportunity to experiment freely with mark 
 making while exhibiting artists Lexie Owen, Sarah and Rachel Seburn, as 
 well as participating curators Eric Miranda and Jacobo Zambrano, speak 
@@ -549,7 +549,7 @@ CATHY BUSBY, DAVID MACWILLIAM, RACHELLE SAWATSKY,
 KRISTA BELLE STEWART 
 Curated by JONAH GRAY
 
-June 7â€“July 26, 2014
+June 7–July 26, 2014
 Opening: Friday, June 6, 8pm
 
 Boris Groys recently claimed that artworks are inherently sick and require a 
@@ -567,7 +567,7 @@ Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 www.artspeak.ca 
-Tuesdayâ€“Saturday, 12â€“5pm
+Tuesday–Saturday, 12–5pm
 Forward or Unsubscribe
 
 ------------------------------------------------------------------------
@@ -583,7 +583,7 @@ Manuel Correa
 Andrew Querner
 
 Gallery 295 is pleased to present three local photographers. Olivia Bull, 
-Manuel Correa, and Andrew Querner. INDEX is the galleryâ€™s second annual 
+Manuel Correa, and Andrew Querner. INDEX is the gallery’s second annual 
 juried exhibition of emerging artists working within photography. This 
 exhibition sets out to explore current trends and practices in contemporary 
 photography and also to act as a platform for younger artists to have their 
@@ -609,7 +609,7 @@ recorded. The work is part of the larger series 'Other-Frames' which looks to
 activate the questions of what the chip of the camera can reveal in a greater 
 context. The work itself is an activity of searching for unexploited qualities 
 inherent in exploitation; not a defiant negation as with the alternative media 
-originated in the â€™60s, but a manipulation of manipulation.
+originated in the ’60s, but a manipulation of manipulation.
 
 Gallery 295, 295 East 2nd Ave, Vancouver, BC, V5T 1B8
 Tel: 604 876 1737 www.gallery295.com
@@ -634,14 +634,14 @@ exhibitions share a fascination with experiments in alternative living and
 countercultural resistance.
 
 "Bruce Stewart: Dollarton Pleasure Faire, 1972" - curated by Bill Jeffries - 
-showcases Stewartâ€™s photographs from the Dollarton Pleasure Faire: a two-
+showcases Stewart’s photographs from the Dollarton Pleasure Faire: a two-
 week celebration of alternative living at the embattled Maplewood Mudflats in 
 North Vancouver. Stewart, who had been documenting renaissance faires 
-and hippie-era festivals throughout the province, acted as the eventâ€™s official 
+and hippie-era festivals throughout the province, acted as the event’s official 
 photographer. His images capture the sun-kissed pleasure, playful repose 
 and rebellious exuberance of the Faire before the well-publicized destruction 
 of the Mudflats in the early seventies. West of Eden, a publication situating 
-Stewartâ€™s project within the social tensions of the time, will be launched at the 
+Stewart’s project within the social tensions of the time, will be launched at the 
 exhibition.
 
 As one of Vancouver's most celebrated artists, Liz Magor presents 
@@ -686,10 +686,10 @@ Colleen Heslin as an emerging leader in contemporary Canadian art.
 Known for her innovative textile-based methods, Heslin develops
 textures with ink and dye on second-hand fabrics, which upon
 inspection reveal themselves as collage-based, process-formed trompe
-lâ€™oeil. Considering Modern histories of painting and social aspects of
-the medium regarding gender and labor, Heslinâ€™s work engages with
+l’oeil. Considering Modern histories of painting and social aspects of
+the medium regarding gender and labor, Heslin’s work engages with
 material conversations connected through medium crossovers. Heslin
-pushes the limits of painting; itâ€™s definitions, classifications and
+pushes the limits of painting; it’s definitions, classifications and
 hierarchies, disrupting medium-based expectations.
 
 The paintings in Outcasts and Shady Trees follow material traditions
@@ -697,7 +697,7 @@ of re-use in quilt-making, offering a shifted perspective where an
 off-cut edge is cycled into the centre of new work. These central
 abstract forms gesture towards figures in landscapes, pausing on
 poetics of the outcast, questioning what is lost and/or gained through
-perceptual shifts. In a similar fashion of recycling, Heslinâ€™s
+perceptual shifts. In a similar fashion of recycling, Heslin’s
 sculptural work is developed from discarded construction hardware.
 These linear works form sculptural scribbles that play on structural
 material tendencies and aesthetic associations, where piping and rope
@@ -726,7 +726,7 @@ Artist Talk: Brendan Fernandes - Tuesday, June 10, 7pm
 
 This summer the CAG will host a two month residency from June to August 
 with Canadian artist Brendan Fernandes. Please join us for a talk introducing 
-Fernandesâ€™ residency, he will discuss his recent projects.
+Fernandes’ residency, he will discuss his recent projects.
 
 While in Vancouver, Fernandes will undertake new research exploring the 
 gendered and queer male body in ballet, questioning hierarchies that dance 
@@ -738,11 +738,11 @@ own identity.
 
 Brendan Fernandes is a Canadian artist of Kenyan and Indian descent 
 splitting his time between Toronto and New York City. In 2010 he was a 
-finalist for the Sobey Art Award Canadaâ€™s preeminent award for 
+finalist for the Sobey Art Award Canada’s preeminent award for 
 contemporary art and was recently awarded a Robert Rauschenberg 
 Residency Fellowship. He has exhibited widely throughout Canada, the US 
-and internationally including exhibitions at the MusÃ©e dâ€™art contemporain de 
-MontrÃ©al; The National Gallery of Canada, Ottawa; The Solomon R. 
+and internationally including exhibitions at the Musée d’art contemporain de 
+Montréal; The National Gallery of Canada, Ottawa; The Solomon R. 
 Guggenheim Museum; New York; The Andy Warhol Museum, Pittsburgh and 
 the Deutsche Guggenheim, Berlin. His work is represented by Diaz 
 Contemporary, Toronto.
@@ -762,9 +762,9 @@ www.contemporaryartgallery.ca
 Ursula Mayer: Not a curse, nor a bargain, but a hymn
 
 Audain Gallery, Vancouver
-June 12 â€“ August 02, 2014
+June 12 – August 02, 2014
 
-Ursula Mayerâ€™s practice is grounded in the semiotics of cinema. Her single 
+Ursula Mayer’s practice is grounded in the semiotics of cinema. Her single 
 and multi-channel films are crystalline circuits of images composed of signs 
 borrowed from architecture, fashion, literature, politics, mythology, geology 
 and visual art. These references cross multiple periods, locations, figures 
@@ -784,9 +784,9 @@ highlights Medea, Ayn Rand and Margaret Thatcher as symbolic figures from
 these periods, whose ideologies have accumulated in our increasingly 
 individuated, neo-liberal ethos.
 
-Mayer is also attuned to perceptions and representations of these figuresâ€™ 
-femininity, sexuality and power. The exhibitionâ€™s title is borrowed from 
-Mayerâ€™s film Gonda (2012). It is excerpted from a rhetorical question Gonda 
+Mayer is also attuned to perceptions and representations of these figures’ 
+femininity, sexuality and power. The exhibition’s title is borrowed from 
+Mayer’s film Gonda (2012). It is excerpted from a rhetorical question Gonda 
 poses about the existence of an ideal woman like herself. To address the role 
 that images play in the construction of private and social identity, Mayer 
 composes reflexive loops between the gaze and gestures of the image and 
@@ -794,23 +794,23 @@ spectator.
 
 Mayer enlists a number of theoretical, structural and material frameworks to 
 parse the construction of visual language and its impact on social formation, 
-including Patricia MacCormackâ€™s proposition for cinesexuality; Maria Fuscoâ€™s 
-liquification of grammar; Pier Paolo Pasoliniâ€™s vision for a cinema of poetry; 
-Gilles Deleuzeâ€™s formulation on the crystals of time; Donna Haraway's cyborg 
-manifesto; and Bruno Gironcoliâ€™s modernist sculpture. Mayer synthesizes 
+including Patricia MacCormack’s proposition for cinesexuality; Maria Fusco’s 
+liquification of grammar; Pier Paolo Pasolini’s vision for a cinema of poetry; 
+Gilles Deleuze’s formulation on the crystals of time; Donna Haraway's cyborg 
+manifesto; and Bruno Gironcoli’s modernist sculpture. Mayer synthesizes 
 these conceptual forces to transfigure the curse of idealism into a hymn.
 
 Ursula Mayer is an Austrian artist who lives and works in London. She 
 studied at the Academy of Fine Arts, Vienna and at Goldsmiths College, 
 London. She has exhibited in major art festivals and institutions such as 
-Moderna Musset, MalmÃ¶; 21haus, Vienna; Ursula Blickle Foundation, Kraichtal; 
+Moderna Musset, Malmö; 21haus, Vienna; Ursula Blickle Foundation, Kraichtal; 
 Palais de Tokyo, Paris; Tramway, Glasgow; Performa 11, New York; 11th 
 Baltic Triennial at CAC Vilnius; 2nd Athens Biennale; The Banff Centre; Centre 
 Pompidou, Paris; Kunstverein Hamburg; Institute of Contemporary Arts, 
 London; Whitechapel Gallery, London; MoMA PS1, New York; and Kunsthalle 
 Basel.
 
-All works are courtesy of the artist; JuliÃ¨tte Jongma, Amsterdam; Krobath 
+All works are courtesy of the artist; Juliètte Jongma, Amsterdam; Krobath 
 Wien | Berlin; and Monitor, Rome.
 
 Curated by Amy Kazymerchyk.
@@ -832,7 +832,7 @@ DIM Cinema at The Cinematheque
 www.dimcinema.ca
 www.thecinematheque.ca
 
-Further unfolding the cinematic grammar of Ursula Mayerâ€™s films Gonda 
+Further unfolding the cinematic grammar of Ursula Mayer’s films Gonda 
 (2012) and Medea (2013), House of Mirrors is a survey of her cinematic work 
 from 2005-2010, featuring Last Hours of Ancient Sunlight (2009), The Lunch 
 in Fur/ Le Dejeuner en Fourrure (2008), The Crystal Gaze (2007), Interiors 
@@ -852,7 +852,7 @@ Facilitated by Laura U. Marks
 Wednesday, July 9, 6pm
 Audain Gallery
 
-Laura U. Marks will facilitate an open reading of Ursula Mayerâ€™s images using 
+Laura U. Marks will facilitate an open reading of Ursula Mayer’s images using 
 affective analysis, a method that postpones thinking in order to attend to 
 affective and bodily responses and perceptions. No Looking After the Internet 
 prompts the open reading of images and objects, and encourages visual 
@@ -879,7 +879,7 @@ Gallery Assistant
 Audain Gallery
 Simon Fraser University
 Goldcorp Centre for the Arts
-#3275 â€“ 149 West Hastings
+#3275 – 149 West Hastings
 Vancouver BC V6B 1H4
 P: (778) 782-9102
 E: audain@sfu.ca
@@ -894,14 +894,14 @@ Contemporary Art Gallery, Vancouver
 New Exhibitions Open
 Thursday June 12, 7-10pm
 
-'The Act of Seeing with Oneâ€™s Own Eyes'
-Stefan BrÃ¼ggemann, 'Headlines and Last Lines in the Movies'
+'The Act of Seeing with One’s Own Eyes'
+Stefan Brüggemann, 'Headlines and Last Lines in the Movies'
 
-Opening reception: Thursday, June 12, 7â€“10pm
+Opening reception: Thursday, June 12, 7–10pm
 
 Join us to celebrate the opening of our two new exhibitions:
 
-'The Act of Seeing with Oneâ€™s Own Eyes'
+'The Act of Seeing with One’s Own Eyes'
 
 Ed Atkins
 Edgardo Aragon
@@ -917,7 +917,7 @@ Shahryar Nashat
 June 13 to June 29, 2014
 B. C. Binning and Alvin Balkind Galleries
 
-'The Act of Seeing with Oneâ€™s Own Eyes' is a group exhibition of recent film 
+'The Act of Seeing with One’s Own Eyes' is a group exhibition of recent film 
 and video that seeks to interrogate notions of uncertainty within the 
 documentary format. Work by ten artists engages with the conventions of 
 source footage, narrative voice and re-enactment, questioning perceptions of 
@@ -932,20 +932,20 @@ This exhibition is generously supported by Inform Interiors.
 Western Front and Dim Cinema and will screen in the Grand Luxe Hall at the 
 Western Front, 303 8 Ave E, Vancouver from June 26 to June 29 during 
 opening hours: noon to 5pm. Please join for a reception and screening 
-Thursday, June 26 from 8â€“10pm.
+Thursday, June 26 from 8–10pm.
 
-Stefan BrÃ¼ggemann
+Stefan Brüggemann
 'Headlines and Last Lines in the Movies'
 June 13 to September 7, 2014
-Gallery faÃ§ade
+Gallery façade
 
-'Headlines & Last Lines in the Movies' transforms the faÃ§ade of the 
+'Headlines & Last Lines in the Movies' transforms the façade of the 
 Contemporary Art Gallery, wooden cladding covering its frontage and south 
 east corner. Resembling a construction site, the structure becomes the 
 ground for the work; the title a precise description of itself. In this new mural, 
-BrÃ¼ggemann writes headlines from current newspapers, from local to global, 
-in combination with excerpts of last lines from popular films. â€˜Forget it Jake, its 
-Chinatownâ€™ could be spray-painted next to â€˜Enbridge Pipeline Rejectedâ€™, the 
+Brüggemann writes headlines from current newspapers, from local to global, 
+in combination with excerpts of last lines from popular films. ‘Forget it Jake, its 
+Chinatown’ could be spray-painted next to ‘Enbridge Pipeline Rejected’, the 
 juxtaposition of appropriated texts creating both a familiarity and an oddly 
 appropriate pairing suggestive of narratives that may exist to connect current 
 news items with scripted dialogue.
@@ -965,7 +965,7 @@ www.contemporaryartgallery.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2014-06-05-18-satellite-gallery-francisco-fernando-granados-jun-14">18. Satellite Gallery | Francisco-Fernando Granados | JUN 14</a>
 ------------------------------------------------------------------------
-spatial profilingâ€¦
+spatial profiling…
 with artist Francisco-Fernando Granados
 Saturday, June 14 from 1 to 4pm
 Satellite Gallery
@@ -973,14 +973,14 @@ Satellite Gallery
 In conjunction with Vancouver Draw Down, join us at Satellite Gallery to 
 participate in a drawing intervention directly on the Gallery walls and building 
 architecture with Toronto-based artist Francisco-Fernando Granados. spatial 
-profilingâ€¦ is a participatory process and site-specific drawing project based 
+profiling… is a participatory process and site-specific drawing project based 
 on a performance by Granados. The action consists of a continuous tracing 
 of the outline of the profile of members of the public as they move along the 
 contours of the gallery. Drawn directly on the wall, the trace of the action 
 forms a pattern that indicates the passing of the outermost edges of the body 
 in time, through a process that pushes past the boundaries of the identifiable.
 
-spatial profilingâ€¦
+spatial profiling…
 
 face touches wall
 repeatedly outline profile using mark-making tool
@@ -999,14 +999,14 @@ Ex Teresa Arte Actual (Mexico City), Kulturhuset (Stockholm), and Theatre
 Academy at the University of the Arts (Helsinki). He is a member of the 
 7a*11d International Performance Festival Collective and has also volunteered 
 as a member of the editorial board for FUSE Magazine. A recipient of the 
-Governor Generalâ€™s Silver Medal for academic achievement upon graduating 
-from Vancouverâ€™s Emily Carr University in 2010, he completed a Masters of 
+Governor General’s Silver Medal for academic achievement upon graduating 
+from Vancouver’s Emily Carr University in 2010, he completed a Masters of 
 Visual Studies at the University of Toronto in 2012. He is currently a sessional 
 faculty member in the Department of Arts, Culture and Media at the University 
 of Toronto Scarborough, and in the Department of Art at OCAD University.
 
-Satellite Gallery â€“ 560 Seymour Street, 2nd Floor, Vancouver 
-Wednesday â€“ Saturday, 12 â€“ 6 pm
+Satellite Gallery – 560 Seymour Street, 2nd Floor, Vancouver 
+Wednesday – Saturday, 12 – 6 pm
 www.satellitegallery.ca
 
 ------------------------------------------------------------------------
@@ -1034,7 +1034,7 @@ France-Vancouver
 A Curatorial Conversation
 
 Alexandre Baudelot, Marie Cozette, Laurence Gateau, Marta Ponsa, 
-Claire Le Restif, Vincent VerlÃ©
+Claire Le Restif, Vincent Verlé
 
 Saturday, June 14, 2014, 6-8 pm
 
@@ -1047,27 +1047,27 @@ admin@front.bc.ca
 Please join us at the Western Front for a panel discussion between six 
 French curators and three local participants on the occasion of their 
 research visit to Vancouver. Alexandra Baudelot (Co-Director, Les 
-Laboratoires dâ€™Aubervilliers), Marie Cozette (Director, Centre dâ€™art 
-contemporain â€“ La Synagogue de Delme), Laurence Gateau (Director, 
+Laboratoires d’Aubervilliers), Marie Cozette (Director, Centre d’art 
+contemporain – La Synagogue de Delme), Laurence Gateau (Director, 
 FRAC Pays-de-Loire), Marta Ponsa (Head, Department of Artistic 
-Projects, Jeu de Paume), Claire Le Restif (Director, Centre dâ€™art 
-contemporain dâ€™Ivry-le CrÃ©dac), and Vincent VerlÃ© (Director, Centre dâ€™art 
+Projects, Jeu de Paume), Claire Le Restif (Director, Centre d’art 
+contemporain d’Ivry-le Crédac), and Vincent Verlé (Director, Centre d’art 
 Bastille-Grenoble) will discuss their programs, institutions and research: 
 Outlier Contexts and Communities (with Nigel Prince, Contemporary Art 
 Gallery); Interstitial Spaces (with Amy Kazymerchyk, SFU Galleries 
 Audain Gallery) and Experiential/Experimental (with Lorna Brown, artist 
 and independent curator), with Shelly Rosenblum (Morris and Helen 
-Belkin Art Gallery, UBC) as the eveningâ€™s moderator.
+Belkin Art Gallery, UBC) as the evening’s moderator.
 
 France-Vancouver: A Curatorial Conversation is hosted by the Western 
-Front and co-presented by the Consulat GÃ©nÃ©ral de France, Vancouver, 
+Front and co-presented by the Consulat Général de France, Vancouver, 
 the Contemporary Art Gallery, SFU Galleries and the UBC Morris and 
 Helen Belkin Art Gallery.
 
 Curator Biographies
 
 Alexandra Baudelot
-Co-director since 2013 of Les Laboratories dâ€™Aubervilliers in the 
+Co-director since 2013 of Les Laboratories d’Aubervilliers in the 
 northeastern suburbs of Paris, Alexandra Baudelot has worked as 
 exhibition curator, editor and writer. In 2009, she created and managed 
 the contemporary art platform Rosascape, an independent art centre 
@@ -1076,20 +1076,20 @@ research process and reflections on the role of artwork and ways of
 sharing it with the public.
 
 Marie Cozette
-Marie Cozette is Director of the Centre dâ€™art contemporain â€“ La 
+Marie Cozette is Director of the Centre d’art contemporain – La 
 Synagogue de Delme, located in a 19th century synagogue in rural 
 eastern France. Since her arrival there in 2007, Cozette has curated 
 numerous solo exhibitions by artists including Susan Hiller, Marie Cool 
-and Fabio Balducci, Louise HervÃ© and ChloÃ© Maillet, and Erick Beltran, 
+and Fabio Balducci, Louise Hervé and Chloé Maillet, and Erick Beltran, 
 and collaborated with guest curators including Mathieu Copeland and 
 Anna Colin to create exhibitions on themes of identity, migration and the 
 politics and sounds of ethnomusicology. In 2004, Cozette co-founded and 
-co-curated BÃ©tonsalon, an independent art space in Paris.
+co-curated Bétonsalon, an independent art space in Paris.
 
 Laurence Gateau 
 Laurence Gateau has been Director of FRAC Pays-de-la-Loire since 
 2005, where she has curated exhibitions by artists including Thomas 
-Huber, Fabrice Hyber, Monica Bonvicini, Gina Pane, Tatiana TrouvÃ©, 
+Huber, Fabrice Hyber, Monica Bonvicini, Gina Pane, Tatiana Trouvé, 
 Martin Boyce, Jand Marc Camille Chaimowicz. (The French Regional 
 Contemporary Art Funds [FRAC] are public collections that were created 
 in 1982 to disseminate contemporary art within each region of France.) 
@@ -1101,31 +1101,31 @@ survey exhibition on Chinese artists in 2004.
 Marta Ponsa
 Since 2007, Marta Ponsa has been Head of the Department of Artistic 
 Projects and Cultural activities at the Jeu de Paume, Paris where she is 
-responsible for the Jeu de Paumeâ€™s online exhibition space Espace 
+responsible for the Jeu de Paume’s online exhibition space Espace 
 Virtuel and webzine, Le Magazine. For Espace Virtuel, Ponsa has 
-curated exhibitions on Mark Lewis, Samuel Bianchini and AgnÃ¨s de 
+curated exhibitions on Mark Lewis, Samuel Bianchini and Agnès de 
 Cayeux. Prior to this, she spent eight years in the Department of 
 Photography and Visual Arts at La Caixa Foundation, Barcelona where 
 she organized exhibitions by Richard Avedon, Lee Friedlander and 
 Pierrick Sorin.
 
 Claire Le Restif
-Claire Le Restif has been Director of the Centre dâ€™art contemporain 
-dâ€™Ivry-le-CrÃ©dac since 2003, where she has worked with artists such as 
-Lara Almarcegui, Leonor Antunes, Mircea Cantor, Peter Coffin, AurÃ©lien 
+Claire Le Restif has been Director of the Centre d’art contemporain 
+d’Ivry-le-Crédac since 2003, where she has worked with artists such as 
+Lara Almarcegui, Leonor Antunes, Mircea Cantor, Peter Coffin, Aurélien 
 Froment, Geert Goiris, Friedrich Kunath, Mathieu Mercier and Jessica 
 Warboys. As an independent curator, Le Restif has organized exhibitions 
 for numerous venues, including: Attitudes, Geneva; Kunsthausbaselland, 
 Basel; Smack Mellon Center, Brooklyn; Aksanat Art Center, Istanbul; and 
 Academia de Bellas Artes, Madrid.
 
-Vincent VerlÃ©
-Vincent VerlÃ© has been Director of the Centre dâ€™Art Bastille in Grenoble 
-since 2011. In 2001, VerlÃ© arrived in Grenoble while managing the artistic 
-collective Ici MÃªme. He became the art critic for a local cultural 
+Vincent Verlé
+Vincent Verlé has been Director of the Centre d’Art Bastille in Grenoble 
+since 2011. In 2001, Verlé arrived in Grenoble while managing the artistic 
+collective Ici Même. He became the art critic for a local cultural 
 newspaper, while at the same time collaborating as one of the 
 contributors for Nouvelle Galerie, a local contemporary art gallery. He 
-joined the Centre dâ€™Art Bastille as Manager of Public Programs when it 
+joined the Centre d’Art Bastille as Manager of Public Programs when it 
 first opened in 2006, where he continues to focus on composing and 
 creating coherent approaches and dialogues between artworks and 
 engaging new audiences.
@@ -1151,12 +1151,12 @@ Spatial Poetics, an evening of experimental performance pieces, returns July
 create new performance-based work together and encouraged to work 
 beyond their usual disciplines.
 
-This thirteenth edition of Spatial Poetics is curated by YACTAC â€“ the Young 
-Asian Collective Twins Artist Collective â€“ who are two sets of twin sisters 
+This thirteenth edition of Spatial Poetics is curated by YACTAC – the Young 
+Asian Collective Twins Artist Collective – who are two sets of twin sisters 
 (Janice & Justine Cheung and Peggy & Karen Ngan). As the title suggests, 
 "WeMix" features an eclectic mix of emerging Asian Canadian artists working 
 in a variety of different forms. As working artists themselves, YACTAC‟s 
-affinity runs deep with interdisciplinary and collaborative practice. â€œIt is like a 
+affinity runs deep with interdisciplinary and collaborative practice. “It is like a 
 milkshake,â€  say YACTAC. â€œWe mix butoh, shakuhachi flute, conceptual art, 
 poetry, music and design.â€ 
 
@@ -1171,7 +1171,7 @@ cellist/composer Nicholas Epperson will pay homage to Japanese Canadians
 through poems, music and dance.
 
 Spatial Poetics XIII: WeMix is a presentation for the upcoming 38th Annual 
-Powell Street Festival taking place August 1 â€“ 3, 2014 at Oppenheimer Park 
+Powell Street Festival taking place August 1 – 3, 2014 at Oppenheimer Park 
 and other venues.
 
 -30-

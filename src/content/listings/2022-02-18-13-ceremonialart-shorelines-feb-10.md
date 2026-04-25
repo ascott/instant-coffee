@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Space Walk"
 emailDate: "Thu, 17 Feb 2022 20:15:06 -0800"
 number: 13
 type: "EXHIBITION"
+venue: "CEREMONIAL/ART"
 summary: "CEREMONIAL/ART | Shorelines | FEB 10"
 ---
 

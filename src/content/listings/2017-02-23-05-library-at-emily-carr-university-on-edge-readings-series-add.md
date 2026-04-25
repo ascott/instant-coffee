@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: to fulfill their dying wish"
 emailDate: "Thu, 23 Feb 2017 00:11:11 -0800"
 number: 5
 type: ""
+venue: "Library at Emily Carr University"
 summary: "Library at Emily Carr University | On Edge Readings Series | Adderson & Spenst | FEB 23"
 ---
 

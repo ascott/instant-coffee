@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 12
 type: "OPENING"
+venue: "Monte Clark"
 summary: "Monte Clark | Scott McFarland - Duration Photographs | APR 16"
 ---
 

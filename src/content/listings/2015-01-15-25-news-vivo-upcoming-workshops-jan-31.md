@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 25
 type: ""
+venue: "NEWS"
 summary: "NEWS | VIVO | Upcoming Workshops | JAN 31"
 ---
 
@@ -32,7 +33,7 @@ under the skilled guidence of the instructors.
 This workshop includes the necessary skills and practice required for
 competancy when renting camera, lights and sound equipment from VIVO. On
 completion of the workshop, participants can apply to rent equipment
-through our Tech department. Check out VIVOâ€™s great value equipment rental
+through our Tech department. Check out VIVO’s great value equipment rental
 rates. (Beginner workshop)
 
 *
@@ -63,6 +64,6 @@ Advanced Processing: Processing & Pixels
 February 11th, 7-10pm | $72 for non-Members; $60 for VIVO members. |
 Register for this event via Eventbrite.
 This intermediate workshop will focus on pixels as building blocks rather
-than vector methods like line() and ellipse(). Weâ€™ll explore algorithms and
+than vector methods like line() and ellipse(). We’ll explore algorithms and
 techniques for playing with pixel data to create interesting effects.
 Participants should be comfortable using Processing.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 40
 type: "EDUCATION"
+venue: "CARFAC BC"
 summary: "CARFAC BC | Marketing Your Atwork | APR 30"
 ---
 

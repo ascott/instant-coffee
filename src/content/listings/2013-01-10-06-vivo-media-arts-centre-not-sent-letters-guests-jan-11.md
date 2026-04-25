@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we will live happily together flo
 emailDate: "Thu, 10 Jan 2013 12:05:49 -0800"
 number: 6
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | NOT SENT LETTERS & GUESTS | JAN 11"
 ---
 
@@ -33,7 +34,7 @@ NOT SENT LETTERS & GUESTS
 @ VIVO Media Arts Centre 1965 Main Street, Vancouver
 Friday Evening, January 11th, 2013
 2 Hour Programme Only: 7-9pm SHARP!
-$5 Suggested Donation â€“ No One Turned Away
+$5 Suggested Donation – No One Turned Away
 
 interdisciplinary works by
 MARINA ROY

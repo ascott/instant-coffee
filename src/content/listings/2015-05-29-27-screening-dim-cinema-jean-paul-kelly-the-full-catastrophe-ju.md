@@ -4,25 +4,26 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 27
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema | Jean-Paul Kelly: The Full Catastrophe | JUN 10"
 ---
 
 Jean-Paul Kelly: The Full Catastrophe
 
-Programmed by MichÃ¨le Smith
+Programmed by Michèle Smith
 
 Using abstraction, animation, and re-enactments, Toronto-based artist
-Jean-Paul Kelly â€” the 2014 recipient of the Kazuko Trust Award for
+Jean-Paul Kelly — the 2014 recipient of the Kazuko Trust Award for
 â€œartistic excellence in the moving imageâ€  at the New York Film Festival â€”
 has created a powerful series of short videos that examine the attractors
 and repulsors of various forms of media representation. Details from
 documentaries, press cuttings, publications, and online media streams are
 isolated, superimposed, composited, and otherwise reconfigured into new
-meanings â€” often in disturbing pairings of pleasure and pain, desire and
+meanings — often in disturbing pairings of pleasure and pain, desire and
 trauma. The centrepiece of the program, Service of the goods, is a
 shot-by-shot reproduction of scenes from various Frederick Wiseman
 documentaries, which have been stripped of their naturalistic signifiers
-to bring underlying ideologies into sharper focus. â€œThis film is not only
+to bring underlying ideologies into sharper focus. “This film is not only
 a bang-on piece of filmic analysis; it also poses fundamental questions
 about the representation of social institutions, and those stuck inside of
 themâ€  (Michael Sicinski, Keyframe Magazine).

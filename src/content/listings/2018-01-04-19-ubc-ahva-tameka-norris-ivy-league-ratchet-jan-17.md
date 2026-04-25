@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 19
 type: "TALK"
+venue: "UBC AHVA"
 summary: "UBC AHVA | Tameka Norris “Ivy League Ratchet” | JAN 17"
 ---
 

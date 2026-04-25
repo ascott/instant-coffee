@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: culture is culture"
 emailDate: "Thu, 20 Mar 2014 11:15:31 -0700"
 number: 19
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Sung Pil Yoon | MAR 28"
 ---
 

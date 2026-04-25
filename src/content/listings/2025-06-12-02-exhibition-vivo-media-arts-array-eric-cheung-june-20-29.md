@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Goodbye Seahorse Coated Environmen
 emailDate: "Wed, 11 Jun 2025 21:25:12 -0700"
 number: 2
 type: ""
+venue: "Exhibition"
 summary: "Exhibition | VIVO Media Arts | ARRAY | Eric Cheung | June 20-29"
 ---
 

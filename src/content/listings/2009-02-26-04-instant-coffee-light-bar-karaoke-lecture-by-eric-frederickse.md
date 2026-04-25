@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 4
 type: ""
+venue: "INSTANT COFFEE"
 summary: "INSTANT COFFEE | Light Bar | Karaoke Lecture by Eric Fredericksen | FEB 28"
 ---
 

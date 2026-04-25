@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: experience the mushiness and the s
 emailDate: "Thu, 09 Oct 2008 08:50:37 -0700"
 number: 26
 type: ""
+venue: "Langara College"
 summary: "Langara College | Speaker Series: Barbara Cole & Antonia Hirsch | OCT 21"
 ---
 
@@ -41,12 +42,12 @@ As an artist producing works for gallery installations and public spaces,
 Antonia Hirsch will address issues and concerns faced by artists as they
 develop projects for temporary and permanent contexts. Her recently
 commissioned permanent public artwork Double Blind will is a key feature of
-the Vancouver Community CollegeÃ¢ï¿½ï¿½s (VCC) Broadway Campus Expansion Project.
+the Vancouver Community Collegeâ��s (VCC) Broadway Campus Expansion Project.
 Using convex security mirrors that are common to urban public spaces,
-Double Blind extends across three floors within the soaring atrium of VCCÃ¢ï¿½ï¿½s
+Double Blind extends across three floors within the soaring atrium of VCCâ��s
 new building. In winter 2006/07 and as part of Group Search: Art in the
 Library, Antonia Hirsch presented Anthropometrics, a largescale poster
-series that appeared Ã¢ï¿½ï¿½informallyÃ¢ï¿½ï¿½ on hoardings across the City of
+series that appeared â��informallyâ�� on hoardings across the City of
 Vancouver, and at the Vancouver Public Library. Referencing these examples,
 Hirsch will explore the issues of production and the concerns of audience
 reception that are specific to art in public spaces.
@@ -72,7 +73,7 @@ Project for the Main Street Transit
 Corridor
 +
 Marko Simcic
-Ã¢ï¿½ï¿½ParkÃ¢ï¿½ï¿½, a project for the Ontario
+â��Parkâ��, a project for the Ontario
 Street Greenway
 Spring 2009
 

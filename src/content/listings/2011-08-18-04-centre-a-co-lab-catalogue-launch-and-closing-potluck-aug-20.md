@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 4
 type: ""
+venue: "Centre A"
 summary: "Centre A | CO-LAB Catalogue Launch and Closing Potluck | AUG 20"
 ---
 

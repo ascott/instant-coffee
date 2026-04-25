@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 47
 type: "EVENT"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | READING | 3PM | APR 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 8
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Langara College room A130 | Johannesburg | 630PM | NOV 1"
 ---
 

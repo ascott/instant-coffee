@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 5
 type: ""
+venue: "PuSh International Performing Arts Festival"
 summary: "PuSh International Performing Arts Festival | Rouge by Julie Andre T. | FEB 3"
 ---
 
@@ -32,7 +33,7 @@ actions and sudden questions. As the performance space gives way under the
 vermillion, she asks again and again, "What colour is this?" Because red
 remains that diabolical colour in which everything is revealed.
 
-Rouge is a compelling one-woman show by Julie AndrÃƒÂ©e T. An iconoclast in
+Rouge is a compelling one-woman show by Julie AndrÃ©e T. An iconoclast in
 the first degree, her work refuses all semblance of theatrical character
 and narrative. Rouge is a depiction in extreme monochromea constantly
 mutating piece that takes shape in a frenzy of accumulation and a search
@@ -44,7 +45,7 @@ Julie Andre T. has entranced audiences with hybrid works where dialogue, a
 series of actions and a mishmash of unusual images are gradually distilled
 into poetry. Born in Montreal in 1973, she is a graduate of Concordia
 University and is currently guest faculty in performance art at the School
-of The Museum of Fine Arts in Boston. Julie AndrÃƒÂ©e T. finds expression
+of The Museum of Fine Arts in Boston. Julie AndrÃ©e T. finds expression
 through installation and performance, and was a featured artist at this
 years Avignon Festival. Between the poetic and the pedestrian, her work
 draws on abstract yet recognizable common spaces that serve as points of

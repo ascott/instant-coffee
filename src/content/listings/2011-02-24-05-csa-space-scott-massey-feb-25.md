@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 5
 type: ""
+venue: "CSA Space"
 summary: "CSA Space | Scott Massey | FEB 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 18
 type: "OPENING"
+venue: "Nanaimo Art Gallery"
 summary: "Nanaimo Art Gallery | Arvo Leo | The Orchids/ Had the Look of Flowers That Are... | JUN 22"
 ---
 

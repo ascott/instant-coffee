@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Instant Coffee: (Caffeine Instanti
 emailDate: "Thu, 28 Feb 2008 09:50:33 -0800"
 number: 2
 type: ""
+venue: "CSA"
 summary: "CSA | CAROL SAWYER | FEB 28"
 ---
 

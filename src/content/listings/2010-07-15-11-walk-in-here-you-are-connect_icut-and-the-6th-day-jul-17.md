@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  considers relations to be more in
 emailDate: "Thu, 15 Jul 2010 08:45:46 -0700"
 number: 11
 type: ""
+venue: "Walk In Here You Are"
 summary: "Walk In Here You Are | Connect_icut and The 6th Day | JUL 17"
 ---
 

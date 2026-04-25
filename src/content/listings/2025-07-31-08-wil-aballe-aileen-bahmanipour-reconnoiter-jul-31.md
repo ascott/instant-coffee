@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Under Construction"
 emailDate: "Wed, 30 Jul 2025 20:31:24 -0700"
 number: 8
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | Aileen Bahmanipour: Reconnoiter | JUL 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 17
 type: "OPENING"
+venue: "Franc Gallery"
 summary: "Franc Gallery | TESS RAFAEL | Sponge Setting | DEC 2"
 ---
 

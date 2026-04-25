@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 50
 type: "EVENT"
+venue: "Centre A"
 summary: "Centre A | Rungh Art+Feminism Wikipedia Edit-a-thon | 12PM | APR 27"
 ---
 

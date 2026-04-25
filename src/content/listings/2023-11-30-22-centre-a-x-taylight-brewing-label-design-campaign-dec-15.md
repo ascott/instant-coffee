@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ebnfl?h "
 emailDate: "Thu, 30 Nov 2023 13:20:08 -0800"
 number: 22
 type: "CALL"
+venue: "Centre A x Taylight Brewing"
 summary: "Centre A x Taylight Brewing | Label Design Campaign | DEC 15"
 ---
 

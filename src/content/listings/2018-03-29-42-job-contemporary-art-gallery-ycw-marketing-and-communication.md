@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 42
 type: ""
+venue: "JOB"
 summary: "JOB | Contemporary Art Gallery | YCW Marketing and Communications Assistant | MAY 1"
 ---
 

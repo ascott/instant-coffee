@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 22
 type: "TALK"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Martine Syms Exhibition Tour - 3pm | NOV 19"
 ---
 

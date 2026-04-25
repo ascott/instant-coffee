@@ -642,7 +642,7 @@ relationship between institutional and non-institutional forms of education
 and of the active participants in, or subjects of, education. Following
 with historical examples such as Robert Filliou's Teaching and Learning as
 Performing Arts, and Ian Wallace's The Idea of University, in addition to
-more recent works such as Kristina Lee PodesvaÃ¢ï¿½ï¿½s Colourschool project, the
+more recent works such as Kristina Lee Podesvaâ��s Colourschool project, the
 works in this exhibition simultaneously critique and extol the educational
 process.
 
@@ -868,27 +868,27 @@ Maintain a clean, well organized, safe working environment
 
 Qualifications:
 
-Ã¢ï¿½Â¢ A post-secondary degree in visual arts/visual studies/museum studies
+â�¢ A post-secondary degree in visual arts/visual studies/museum studies
 and/or demonstrated experience in artist-run centres, not-for-profit
 organizations, public/private galleries or museums
-Ã¢ï¿½Â¢ A thorough knowledge of contemporary cultural practices on a local,
+â�¢ A thorough knowledge of contemporary cultural practices on a local,
 national and international level
-Ã¢ï¿½Â¢ Proven experience working with budgets, researching and writing
+â�¢ Proven experience working with budgets, researching and writing
 government and foundation grants
-Ã¢ï¿½Â¢ Effective interpersonal skills and the ability to work in partnership
+â�¢ Effective interpersonal skills and the ability to work in partnership
 with the FCG Board, committees, artists and community members
-Ã¢ï¿½Â¢ Experience managing volunteers and event planning
-Ã¢ï¿½Â¢ Exceptional organizational and written skills
-Ã¢ï¿½Â¢ A strong working knowledge of various Mac applications (word,
+â�¢ Experience managing volunteers and event planning
+â�¢ Exceptional organizational and written skills
+â�¢ A strong working knowledge of various Mac applications (word,
 spreadsheets, graphics, web)
-Ã¢ï¿½Â¢ Ability to work comfortably with A/V Technology
+â�¢ Ability to work comfortably with A/V Technology
 
 Application must include:
 
-Ã¢ï¿½Â¢ A cover letter outlining your experience and interest and relevant skills
+â�¢ A cover letter outlining your experience and interest and relevant skills
 as they relate to artists an run centre
-Ã¢ï¿½Â¢ A current CV
-Ã¢ï¿½Â¢ Names of three references with contact information
+â�¢ A current CV
+â�¢ Names of three references with contact information
 
 Salary: 30,940.00 annually
 The successful candidate will receive four weeks paid vacation in the

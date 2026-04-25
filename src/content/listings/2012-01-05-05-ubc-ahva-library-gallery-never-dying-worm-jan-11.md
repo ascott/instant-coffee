@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we’re waylaid "
 emailDate: "Wed, 04 Jan 2012 21:35:09 -0800"
 number: 5
 type: ""
+venue: "ubc"
 summary: "ubc | AHVA Library Gallery | NEVER-DYING WORM | JAN 11"
 ---
 

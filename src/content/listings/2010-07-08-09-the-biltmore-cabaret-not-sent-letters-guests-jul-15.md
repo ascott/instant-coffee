@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 9
 type: ""
+venue: "The Biltmore Cabaret"
 summary: "The Biltmore Cabaret | NOT SENT LETTERS & GUESTS | JUL 15"
 ---
 

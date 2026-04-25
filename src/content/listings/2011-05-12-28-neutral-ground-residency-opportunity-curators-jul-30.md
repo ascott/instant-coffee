@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 28
 type: ""
+venue: "Neutral Ground"
 summary: "Neutral Ground | Residency Opportunity; Curators | JUL 30"
 ---
 

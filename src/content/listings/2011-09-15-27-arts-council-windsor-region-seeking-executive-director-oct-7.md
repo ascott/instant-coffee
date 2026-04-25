@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: yes we no"
 emailDate: "Thu, 15 Sep 2011 11:17:49 -0700"
 number: 27
 type: ""
+venue: "Arts Council Windsor & Region"
 summary: "Arts Council Windsor & Region | seeking: Executive Director | OCT 7"
 ---
 
@@ -37,50 +38,50 @@ Board of Directors, will oversee all aspects of the organization's
 operations, including development, budgeting and finance, communications,
 partnerships and future planning/visioning.
 
-Â· Oversee management of all aspects of operations and all tasks
+· Oversee management of all aspects of operations and all tasks
 related to the general administration of the organization.
 
-Â· Grant writing and reporting.
+· Grant writing and reporting.
 
-Â· Fundraising and resource development.
+· Fundraising and resource development.
 
-Â· Management of financial records, budgets and fiscal accountability.
+· Management of financial records, budgets and fiscal accountability.
 
-Â· Hiring and management of both part-time and contract staff.
+· Hiring and management of both part-time and contract staff.
 
-Â· Regular reporting to the Board of Directors.
+· Regular reporting to the Board of Directors.
 
 Qualifications:
 
-Â· Post-secondary degree, preferably in arts, arts administration,
+· Post-secondary degree, preferably in arts, arts administration,
 management or a similar field.
 
-Â· Administrative experience, preferably with some experience in the
+· Administrative experience, preferably with some experience in the
 non-profit sector.
 
-Â· Strong organizational, managerial and analytical skills.
+· Strong organizational, managerial and analytical skills.
 
-Â· Excellent interpersonal and collaborative skills.
+· Excellent interpersonal and collaborative skills.
 
-Â· Excellent written and verbal communication skills, with evidence of
+· Excellent written and verbal communication skills, with evidence of
 successful grant writing.
 
-Â· Experience with financial recording and budgeting.
+· Experience with financial recording and budgeting.
 
-Â· The ability to work independently and multi-task is crucial.
+· The ability to work independently and multi-task is crucial.
 
-Â· An understanding of the non-profit sector and an interest in
+· An understanding of the non-profit sector and an interest in
 contemporary arts and culture will be considered an asset.
 
 Additional Information:
 
-Â· This position is a full-time appointment ranging from 20-40 hrs/wk.
+· This position is a full-time appointment ranging from 20-40 hrs/wk.
 
-Â· Annual salary range: $30,000- $50,000 (pending grant approval)
+· Annual salary range: $30,000- $50,000 (pending grant approval)
 
-Â· The position will commence late October 2011.
+· The position will commence late October 2011.
 
-Â· The position will be offered with three (3) month probation period
+· The position will be offered with three (3) month probation period
 attached
 
 How to Apply:

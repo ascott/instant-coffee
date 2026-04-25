@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Everything is in the language we u
 emailDate: "Thu, 03 Sep 2020 10:40:19 -0700"
 number: 18
 type: "CALL"
+venue: "Community Arts Council of Vancouver"
 summary: "Community Arts Council of Vancouver | Stage to Page | Poetry Development Project | OCT 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Crocodile Tears (*corrected)"
 emailDate: "Thu, 30 Jan 2020 13:50:06 -0800"
 number: 8
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | The Sodomite Invasion | 7PM | JAN 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the truth of the matter of fact"
 emailDate: "Thu, 03 May 2012 11:51:36 -0700"
 number: 23
 type: ""
+venue: "International Directing Lab"
 summary: "International Directing Lab | workshop | JUL 1"
 ---
 
@@ -61,7 +62,7 @@ everythingnoel@gmail.com
 
 2.
 studio sublet | 
-I'm looking for one or two people to sublet my private artistsâ€™ 
+I'm looking for one or two people to sublet my private artists’ 
 studio at 2414 Main Street (above Pulp Fiction).
 
 Available June 1st 2011 for 6 -12 month.

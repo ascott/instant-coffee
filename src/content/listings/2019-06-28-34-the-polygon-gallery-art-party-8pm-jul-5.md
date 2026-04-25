@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 34
 type: "EVENT"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Art Party | 8PM | JUL 5"
 ---
 

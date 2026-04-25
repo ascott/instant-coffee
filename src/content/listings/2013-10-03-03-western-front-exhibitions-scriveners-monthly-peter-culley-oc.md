@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 3
 type: ""
+venue: "Western Front Exhibitions"
 summary: "Western Front Exhibitions | Scrivener's Monthly: Peter Culley | OCT 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 6
 type: "FUNDRAISER"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Art Auction 2023 | SEP 21"
 ---
 

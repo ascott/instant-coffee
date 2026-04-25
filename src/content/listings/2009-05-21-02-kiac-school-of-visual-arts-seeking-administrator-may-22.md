@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: please play quietly"
 emailDate: "Thu, 21 May 2009 09:33:14 -0700"
 number: 2
 type: ""
+venue: "KIAC School of Visual Arts"
 summary: "KIAC School of Visual Arts | Seeking | Administrator | MAY 22"
 ---
 

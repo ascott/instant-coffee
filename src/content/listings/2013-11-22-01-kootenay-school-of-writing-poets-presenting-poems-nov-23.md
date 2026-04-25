@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 1
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | poets presenting poems | NOV 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 21
 type: ""
+venue: "Elsewhere Artist Collaborative"
 summary: "Elsewhere Artist Collaborative | 2009 residency program | Greensboro, NC | DEC 31"
 ---
 

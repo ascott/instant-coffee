@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 13
 type: "PERFORMANCE"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | VICTORIA | Jesse Malmed: Untitled (Just Kidding) | MAR 27"
 ---
 

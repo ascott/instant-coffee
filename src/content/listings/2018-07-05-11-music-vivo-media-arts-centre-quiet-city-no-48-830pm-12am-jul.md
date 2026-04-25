@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 11
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | VIVO Media Arts Centre | Quiet City no. 48 | 830PM-12AM | JUL 6"
 ---
 

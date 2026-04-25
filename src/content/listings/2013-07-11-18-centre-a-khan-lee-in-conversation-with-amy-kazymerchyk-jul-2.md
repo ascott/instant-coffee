@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 18
 type: ""
+venue: "Centre A"
 summary: "Centre A | Khan Lee in Conversation with Amy Kazymerchyk | JUL 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 25
 type: "TALK"
+venue: "221A"
 summary: "221A | Fellowship Talks: Lauren Crazybull | 2PM | NOV 16"
 ---
 

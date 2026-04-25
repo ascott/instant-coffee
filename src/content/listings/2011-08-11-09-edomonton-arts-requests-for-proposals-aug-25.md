@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Righteousness and Recklessness"
 emailDate: "Thu, 11 Aug 2011 11:16:30 -0700"
 number: 9
 type: ""
+venue: "EDOMONTON ARTS"
 summary: "EDOMONTON ARTS | Requests for Proposals | AUG 25"
 ---
 

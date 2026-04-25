@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 16
 type: "TALK"
+venue: "Grunt Gallery"
 summary: "Grunt Gallery | Carole Itter in conversation w/Krista Lomax | 2PM | JUL 7"
 ---
 

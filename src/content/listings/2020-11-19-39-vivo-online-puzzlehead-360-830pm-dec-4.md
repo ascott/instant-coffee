@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 39
 type: "EVENT"
+venue: "VIVO [ONLINE]"
 summary: "VIVO [ONLINE] | PUZZLEHEAD 360º | 830PM | DEC 4"
 ---
 

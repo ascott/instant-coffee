@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 45
 type: "FUNDRAISER"
+venue: "Access Gallery"
 summary: "Access Gallery | More is MORE | NOV 23"
 ---
 

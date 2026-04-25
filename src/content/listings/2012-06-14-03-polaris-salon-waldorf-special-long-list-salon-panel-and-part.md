@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a week of liquid intelligence"
 emailDate: "Thu, 14 Jun 2012 08:07:01 -0700"
 number: 3
 type: ""
+venue: "Polaris Salon @ Waldorf"
 summary: "Polaris Salon @ Waldorf | Special Long List Salon: Panel and Party | JUN 14"
 ---
 
@@ -15,7 +16,7 @@ www.clarityoneaudio.com
 This special edition of the Polaris Salon - rolling in the wake of the just 
 announced Long List - features a panel of Vancouver based jurists 
 who will discuss The Long List, titles they predict will make The Short 
-List and albums that didnâ€™t make it into the 2012 mix. 
+List and albums that didn’t make it into the 2012 mix. 
 
 Panel Features
 
@@ -43,10 +44,10 @@ Vancouver BC
 19+
 
 About The Waldorf:
-East Vancouverâ€™s Famous Waldorf is a historic 64-year-old hotel re-
+East Vancouver’s Famous Waldorf is a historic 64-year-old hotel re-
 imagined as a creative compound where contemporary art, music, 
 food and culture convene under one roof. Special events, unique 
-spaces, great food and hospitality. Thereâ€™s always something 
+spaces, great food and hospitality. There’s always something 
 happening at The Waldorf. 
 
 To stay up to date with Waldorf events/culture, find and follow us 

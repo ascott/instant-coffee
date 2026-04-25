@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 14
 type: "EVENT"
+venue: "MOA"
 summary: "MOA | Shawn Hunt's Transformation Mask | NOV 30"
 ---
 

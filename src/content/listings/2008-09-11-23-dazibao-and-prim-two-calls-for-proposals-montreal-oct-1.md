@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: reflect it in plexi"
 emailDate: "Thu, 11 Sep 2008 08:55:18 -0700"
 number: 23
 type: ""
+venue: "Dazibao and PRIM"
 summary: "Dazibao and PRIM | TWO CALLS FOR PROPOSALS | Montreal | OCT 1"
 ---
 
@@ -40,13 +41,13 @@ YOUR PROPOSAL MUST INCLUDEÃ&#65533;Â
 Ã&#65533;Â a precise description of your project proposal, the technical equipment
 and facilities required to produce the work and the technical equipment and
 assistance necessary to disseminate the work
-a budget of the projectÃ¢ï¿½ï¿½s technical production
+a budget of the projectâ��s technical production
 a self-addressed stamped envelopeÃ&#65533;Â 
 
 SELECTION CRITERIAÃ&#65533;Â 
 
 The overall innovation of the project
-The projectÃ¢ï¿½ï¿½s pertinence to contemporary art practices
+The projectâ��s pertinence to contemporary art practices
 The synthesis between the proposed content and the technology usedÃ&#65533;Â 
 
 We do not accept proposals via e-mail. Incomplete submissions or
@@ -85,11 +86,11 @@ Opening: Thursday, January 8 at 5 p.m. Ã&#65533;Â
 
 The exhibition includes three videos projected on a loop that show Bas Jan
 Ader falling, trying to defy gravity. Not without a quiet humour as well as
-a certain romanticism, Jan AderÃ¢ï¿½ï¿½s conceptual performances, created for the
+a certain romanticism, Jan Aderâ��s conceptual performances, created for the
 camera, provoke a state of expectation and contemplation, leaving the
 viewer on the lookout for the moment when the artist relinquishes his hold
 on gravity. The exhibition is completed by two additional works playing on
-gravity in a completely different register: the famous IÃ¢ï¿½ï¿½m Too Sad To Tell
+gravity in a completely different register: the famous Iâ��m Too Sad To Tell
 You, showing a close-up of the artist in tears, and Night Fall. Ã&#65533;Â 
 
 Bas Jan Ader was born in The Netherlands but lived and worked for many
@@ -119,7 +120,7 @@ YOUR PROPOSAL MUST INCLUDE Ã&#65533;Â
 
 2. a 500 word description of the intended performance project, including a
 clear mention on how it enters into dialogue with the thematic of the
-exhibition and AderÃ¢ï¿½ï¿½s work.
+exhibition and Aderâ��s work.
 
 3. a visual dossier (formatted in PowerPoint, MAC compatible) - 10 images
 maximum

@@ -4,15 +4,16 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encourages you to start sentences 
 emailDate: "Thu, 17 Mar 2011 11:56:31 -0700"
 number: 9
 type: ""
+venue: "Fillip, Triple Canopy, and Queen's Nails"
 summary: "Fillip, Triple Canopy, and Queen's Nails | The Persistence and Absence of Criticism | MAR 19"
 ---
 
 Secondary Information:
 The Persistence and Absence of Criticism
 
-Saturday, March 19, 2â€“4 pm
+Saturday, March 19, 2–4 pm
 3191 Mission Street
-Queenâ€™s Nails Projects
+Queen’s Nails Projects
 San Francisco, CA 94110
 
 Fillip, Triple Canopy, and Queen's Nails invite you to Secondary
@@ -26,7 +27,7 @@ Secondary Information brings together a small group of Bay Area writers and
 editors for a discussion with the editors of Fillip (Vancouver, BC) and
 Triple Canopy (New York, Los Angeles) about the numerous vehicles for, and
 approaches to, art criticism today, considering their value and
-significance vis-Ã -vis a spectrum of temporal and spatial contexts and
+significance vis-à-vis a spectrum of temporal and spatial contexts and
 engagements. How has the decentralization of publishing and the
 fragmentation of readerships affected art criticism? How are critical
 public spaces constituted around various forms of publication, whether
@@ -37,7 +38,7 @@ be, the role of criticism in relation to the speculative global art market
 and its preternatural ability to absorb, or cannibalize, oppositional
 discourses?
 
-This discussion will take as points of departure Fillip and Artspeakâ€™s
+This discussion will take as points of departure Fillip and Artspeak’s
 Judgment and Contemporary Art Criticism book and forum (2009) and related
 texts, as well as Print and Demand, Triple Canopy's ongoing series of
 conversations about how print culture is being changed by the manifold
@@ -85,7 +86,7 @@ Kristina Lee Podesva is a Vancouver-based artist and writer, and editor of
 Fillip. Her works and writing have appeared in exhibition and publication
 projects throughout Canada, the United States, and Europe. Her writing has
 been published in Fillip and Bidoun, as well as in books such as Judgment
-and Contemporary Art Criticism, Komma (after Dalton Trumboâ€™s Johnny Got His
+and Contemporary Art Criticism, Komma (after Dalton Trumbo’s Johnny Got His
 Gun), and 100% Vancouver.
 
 Alexander Provan is a writer living in Brooklyn. He is the editor of the
@@ -95,7 +96,7 @@ has appeared in the Nation, the Believer, n+1, GQ, and Bookforum.
 Triple Canopy is an online magazine, workspace, and platform for editorial
 and curatorial activities. Working collaboratively with writers, artists,
 and researchers, Triple Canopy facilitates projects that engage the
-Internetâ€™s specific characteristics as a public forum and as a medium, one
+Internet’s specific characteristics as a public forum and as a medium, one
 with its own evolving practices of reading and viewing, economies of
 attention, and modes of interaction. In doing so, Triple Canopy is charting
 an expanded field of publication, drawing on the history of print culture

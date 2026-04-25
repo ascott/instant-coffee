@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 53
 type: "CALL"
+venue: "Curiosity Collider"
 summary: "Curiosity Collider | Call for Submissions (Filmmaker) - Her Story... | MAR 25"
 ---
 

@@ -113,7 +113,7 @@ in the crowd that poked fun at the lack of the global media coverage
 of large pro Ahmadinejad demonstrations. The sign depicted a
 television containing a still-frame of an empty city street with the
 CNN logo at the bottom. Underneath the television set read the words
-Â³We are the invisible crowd for the western media.Â²With this series
+³We are the invisible crowd for the western media.²With this series
 of photographs, Mohammad Javad is attempting to map the social and
 economic makeup of the pro Government masses in Iran. Ignored by
 modern secular middle class as uneducated, ignorant and or hired
@@ -169,7 +169,7 @@ info@centrea.org | www.centrea.org
 ------------------------------------------------------------------------
 Archived Resistance:
 July 17 to August 8th
-Gallery open Weds-Sun: 5:30 Â– 8:30
+Gallery open Weds-Sun: 5:30  8:30
 {please contact for daytime showings}
 16 E. Hastings. Occupied Coast Salish Territories.
 
@@ -253,8 +253,8 @@ web. www.douglasudellgallery.com
 ------------------------------------------------------------------------
 Interface/Interfacing: kinetic and sound installation by Diana Burgoyne and Robin Ripley
 
-July 15 Â– September 5, 2009
-Opening Reception: July 18, Saturday, 4 Â– 6pm
+July 15  September 5, 2009
+Opening Reception: July 18, Saturday, 4  6pm
 Numen Gallery, 120 - 1058 Mainland St., Vancouver
 
 Wednesday - Saturday 11 - 6
@@ -272,10 +272,10 @@ intersect through this drawing together of various art practices and sensory exp
 Accompanying the installation is NOTION, a series of mixed media works by Robin Ripley, that 
 takes us further into this extra-ordinary experiencing of everyday objects.
 
-DIANA BURGOYNEÂ’s work addresses the relationships between society, technology, and the 
+DIANA BURGOYNEs work addresses the relationships between society, technology, and the 
 human environment. Burgoyne assembles electronic components to create works that appear 
-Â“hand-madeÂ” to humanize what is often perceived as a sterile material. The material, content, and
-aesthetic of her art practice are developed from the idea of constructing Â“Electronic Folk ArtÂ”.
+hand-made to humanize what is often perceived as a sterile material. The material, content, and
+aesthetic of her art practice are developed from the idea of constructing Electronic Folk Art.
 
 ROBIN RIPLEY works with the language of objects, highlighting the composite nature of 
 perception. Her work re-examines familiar objects as well as explores their function as signifiers 
@@ -283,7 +283,7 @@ and repository for sensory information, knowledge and memory. Ripley creates obj
 not exist in the natural world and yet reflect or transmit information about our world and our place 
 in it.
 
-ArtistsÂ’ websites:
+Artists websites:
 http://www.ecuad.ca/~dburg/main.htm
 http://robinripley.com/
 
@@ -324,7 +324,7 @@ lo-fi, experimental and, above all, uncompromising body of film and video. This 
 acknowledges the origins of this tradition, while focusing on contemporary examples of those 
 persevering against the odds of creating media in a dying rustbelt town.
 
-Buffalo WeÂ’re Looking Good!, WKBW | 1980s | 1mins | video
+Buffalo Were Looking Good!, WKBW | 1980s | 1mins | video
 Oscular Pets, Tony Conrad | 2003 | 7mins | video
 Main Attraction, Paris Henderson | 2006 | 5mins | video
 Fork, Chris Ernst | 2007 | 3.5 mins | video/ 16mm
@@ -351,7 +351,7 @@ VIVO Media Arts Centre + Limelight Video present
 Artist In Residence talk | installation | screening
 
 JEM NOBLE
-MAGNETIC CITY Â– a VHS story
+MAGNETIC CITY  a VHS story
 
 Visceral mechanics and the aesthetics of circulation
 
@@ -360,7 +360,7 @@ Wednesday July 22 2009
 9pm Screening of Harold and Maude on used VHS
 VIVO Media Arts Centre 1965 Main Street Vancouver Free
 
-Â“VHS video has carried significant influence across global cultures
+VHS video has carried significant influence across global cultures
 since its launch in 1976. From the mass democratisation of
 moving-image archive to the unforeseen explosion in domestic
 motion-picture distribution, the story of VHS is a dense narrative in
@@ -368,39 +368,39 @@ which the long history of magnetic-tape recording technology,
 catalysed by the strategies and contingencies of competitive commerce,
 translates into a distinct veneer of visual aesthetics; into complex
 patterns of material circulation; into proliferating pathways of
-demand and desire.Â”
+demand and desire.
 
-Â“As popular culture embraces an ever-accelerating cycle of commercial
+As popular culture embraces an ever-accelerating cycle of commercial
 supercession and redundancy in video formats, what emerges and what
 fades with the dwindling use of VHS? How does the format look today,
 in the year after production of its cassettes and stand-alone VCRs
 finally ceased? How does this look speak to an aesthetics of
 nostalgia? What does it signify with regard to personal and social
 memory, to our changing habits of engagement with material culture and
-landscape?Â”
+landscape?
 
 These are questions posed by VIVO Artist In Residence, Jem Noble (UK),
 framing a three-month research project supported in part by Limelight
 Video in Kitsilano, addressing VHS rental as a unique form of social
-inscription Â– Â“a disappearing phenomenon of exchange through which
+inscription  a disappearing phenomenon of exchange through which
 social forces are materialized in cumulative patterns of magnetic
 distortion. Drawing on a cast of diverse influences including the
-laceratedÂ–poster appropriations of Jacques VilleglÃ© and Raymond Hains,
-the language of deterioration in Christian MarclayÂ’s vinyl
+laceratedposter appropriations of Jacques Villeglé and Raymond Hains,
+the language of deterioration in Christian Marclays vinyl
 installations, and the discourse of agency, movement and landscape in
-proximity to land art practices,Â” NobleÂ’s project is an idiosyncratic
-exploration of Â“entanglement between people, places and media in
-specific material form.Â”
+proximity to land art practices, Nobles project is an idiosyncratic
+exploration of entanglement between people, places and media in
+specific material form.
 
-Â“Distilling the potentially vast field of research into a relationship
+Distilling the potentially vast field of research into a relationship
 with a single video-tape from a single video store, the project has
 taken shape around the image quality and rental trajectory of the
 movie Harold & Maude, released on VHS in 1980. Made possible by
 Limelight Video manager, Adam Thomas, and owner Don Newton, with their
-generous gift of access to the storeÂ’s rental database, the artistÂ’s
+generous gift of access to the stores rental database, the artists
 undertakings include a bicycle journey, approximately tracing the
-Â“elastic movement of the cassette through the city as far back as
-records allow.Â” In conclusion to his residency at VIVO, Noble will
+elastic movement of the cassette through the city as far back as
+records allow. In conclusion to his residency at VIVO, Noble will
 present a series of installations accompanied by a talk on the
 development of his thoughts around the subject. After an intermission
 for food and conversation, these will be followed by a screening of
@@ -408,23 +408,23 @@ Harold & Maude from the original VHS tape at the centre of the work.
 
 JEM NOBLE
 Born: 1974, Stone UK
-Â“An evolving palette of gestures, materials and mediaÂ”, Jem NobleÂ’s
-practice is loosely defined by concerns with Â“the phenomenology of
+An evolving palette of gestures, materials and media, Jem Nobles
+practice is loosely defined by concerns with the phenomenology of
 attention, and tensions between individuation and interdependence in
 different forms of human engagement. Using production and
 appropriation strategies in collaborative and solo contexts across a
 range of disciplines including sound, music, video, sculpture, text,
-social encounter and performance,Â” NobleÂ’s work often draws on
-elements of Â“intimacy and alienation, exploring spectacle as a means
+social encounter and performance, Nobles work often draws on
+elements of intimacy and alienation, exploring spectacle as a means
 to amplify complexities that underlie the processes and relationships
-we take for granted in the everyday.Â” Recent group exhibitions: Signal
+we take for granted in the everyday. Recent group exhibitions: Signal
 & Noise 09, Vancouver; SMART Project Space, Amsterdam (2009);
-Manifesta 7 (in collaboration with PiratbyrÃ¥n), Tate Britain, ICA
+Manifesta 7 (in collaboration with Piratbyrån), Tate Britain, ICA
 London (2008). Solo exhibition: Spike Island (2008).
 
 LIMELIGHT VIDEO
 2505 Alma Street, Vancouver, 604-228-1478
-Â“Limelight Video began life in 1983 as Video Stop, specializing in
+Limelight Video began life in 1983 as Video Stop, specializing in
 foreign and independent movies. The store and its impressive film
 collection came to the attention of Don Newton, who was operating one
 of BC's first video rental businesses on Robson Street in Downtown
@@ -448,7 +448,7 @@ a few.
 Including works by a broad spectrum of lesser-known directors, the
 Limelight collection of over 25,000 titles represents almost every
 film-producing country in the world, including a comprehensive archive
-of nearly every Canadian film ever released on video.Â” Â– Jem Noble
+of nearly every Canadian film ever released on video.  Jem Noble
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2009-07-16-12-cineworks-thought-on-film-xvii-jul-23">12. Cineworks | Thought on Film XVII | JUL 23</a>
@@ -464,8 +464,8 @@ of texts confronting issues in contemporary, cutting-edge cinematic
 practice and philosophy.
 
 In anticipation of Cineworks's SWARM exhibition, Moveable City, July's
-meeting will feature Maurice Merleau-Ponty's Â“The Intertwining Â– The
-Chiasm,Â” the last and incomplete chapter from The Visible and the
+meeting will feature Maurice Merleau-Ponty's The Intertwining  The
+Chiasm, the last and incomplete chapter from The Visible and the
 Invisible written before his death. Moveable City is an exhibition that
 seeks to bring into reflection the layers of our subjective experience when
 moving in and through the built environment. The exhibition is interested
@@ -473,14 +473,14 @@ in prying open the strait between perception and imagination by asking us
 to recognize the constant potentiality of time and place to become
 something radically transformed. With this in mind, we will be looking at
 the work of Merleau-Ponty whose thoughts on perception eventually
-culminated in his concept of Â“ChiasmÂ” or flesh, which is the crossing
+culminated in his concept of Chiasm or flesh, which is the crossing
 over between subjective experience and objective existence. Merleau-Ponty
 asks us to consider our bodies as both part of the tangible world as well
 as the world through which we perceive the tangible things that lay beyond
 our bodies.
 
 Experimenting with the form of reading groups and their discussions, this
-monthÂ’s selection will be read out loud by participants. No pre-reading
+months selection will be read out loud by participants. No pre-reading
 required!
 
 Please note: July's reading will take place at Cineworks's new annex space
@@ -490,7 +490,7 @@ hesitate to contact Programs Manager + Curator cheyanne turions at
 cheyanne@cineworks.ca.
 
 Thought On Film XVIII
-reading Merleau-Ponty's Â“The Intertwining-The ChiasmÂ”
+reading Merleau-Ponty's The Intertwining-The Chiasm
 Cineworks Annex in the Ironworks building [235 Alexander street.]
 23 July 2009, 6pm
 Free
@@ -653,7 +653,7 @@ corner of Granville and Hastings Streets, beside the Sinclair
 Centre, rain or shine (bring an umbrella!)
 
 Walking the Ruins runs July 9-August 1: Thursdays + Fridays at 7pm;
-Saturdays at 2pm. Tickets $20 (includes entry to Harbour CenterÂ’s The
+Saturdays at 2pm. Tickets $20 (includes entry to Harbour Centers The
 Lookout, valued at $13) available through: themissguides.com or
 ticketstonight.ca or 604.684.2787
 
@@ -671,7 +671,7 @@ http://themissguides.com
 We are currently taking submissions for the 10th annual Hard Liquor and Porn Film Festival being 
 held October 2009 in Toronto and Montreal.
 
-10th Annual Hard Liquor and Porn Film Festivalâ€¨Saturday October 17, 2009 - Bloor Cinema Torontoâ€¨
+10th Annual Hard Liquor and Porn Film Festival Saturday October 17, 2009 - Bloor Cinema Toronto 
 Saturday October 24, 2009 - Montreal - venue TBA
 
 This is a comedy short film festival for naughty, racy and sometimes raunchy short films. We can't 

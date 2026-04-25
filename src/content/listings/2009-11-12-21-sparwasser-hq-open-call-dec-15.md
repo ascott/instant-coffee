@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 21
 type: ""
+venue: "Sparwasser HQ"
 summary: "Sparwasser HQ | //// OPEN CALL | DEC 15"
 ---
 
@@ -16,7 +17,7 @@ OPEN CALL and residency programme "netres" @ Sparwasser HQOur aim is to
 research internationally and to invite two Nordic/Baltic artists to Berlin.
 Visual artists and other arts related producers who use the public sphere,
 better described with Scandinavian offentligheden or German die
-Ã–ffentlichkeit can apply. We are also interested to know how you would
+Öffentlichkeit can apply. We are also interested to know how you would
 consider the use of rhetoric practically and critically. We are not
 expecting descriptions of sculptures for an open square but rather works
 reflecting situations and performance of life itself. The works do not

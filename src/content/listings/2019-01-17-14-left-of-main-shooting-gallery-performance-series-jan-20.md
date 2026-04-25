@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 14
 type: "CALL"
+venue: "Left of Main"
 summary: "Left of Main | Shooting Gallery Performance Series | JAN 20"
 ---
 

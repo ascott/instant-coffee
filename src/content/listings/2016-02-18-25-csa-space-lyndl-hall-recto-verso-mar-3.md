@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 25
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Lyndl Hall: recto-verso | MAR 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 2
 type: ""
+venue: "Unit/Pitt Projects"
 summary: "Unit/Pitt Projects | SETUP - Release Party | MAY 12"
 ---
 

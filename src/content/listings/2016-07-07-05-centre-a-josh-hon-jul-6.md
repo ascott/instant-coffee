@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: adding immeasurably to freedom of 
 emailDate: "Thu, 07 Jul 2016 15:25:18 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "Centre A"
 summary: "Centre A | Josh Hon | JUL 6"
 ---
 

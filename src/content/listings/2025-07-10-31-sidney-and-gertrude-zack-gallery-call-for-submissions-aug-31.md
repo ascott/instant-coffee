@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 31
 type: "CALL"
+venue: "Sidney and Gertrude Zack Gallery"
 summary: "Sidney and Gertrude Zack Gallery | Call for Submissions | AUG 31"
 ---
 

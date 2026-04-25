@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: interviews her future self"
 emailDate: "Thu, 01 Oct 2015 18:45:09 -0700"
 number: 17
 type: "EVENT"
+venue: "Western Front"
 summary: "Western Front | Every Little Bit Hurts: Screening and Performance | OCT 8"
 ---
 

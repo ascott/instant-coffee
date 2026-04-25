@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 5
 type: "OPENING"
+venue: "Ke'kemkemelay healing garden"
 summary: "Ke'kemkemelay healing garden | Mga Kwento - Many Stories | AUG 7"
 ---
 

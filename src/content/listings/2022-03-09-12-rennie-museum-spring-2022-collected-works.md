@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Atomic Oxygen"
 emailDate: "Wed, 09 Mar 2022 08:25:06 -0800"
 number: 12
 type: "EXHIBITION"
+venue: "rennie museum"
 summary: "rennie museum | Spring 2022: Collected Works | "
 ---
 

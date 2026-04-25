@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 20
 type: "EDUCATION"
+venue: "New Media Gallery"
 summary: "New Media Gallery | [WORKSHOP] Public Art Camp for Teens | MAR 21"
 ---
 

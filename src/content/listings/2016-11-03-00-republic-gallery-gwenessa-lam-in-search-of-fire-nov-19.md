@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 0
 type: "OPENING"
+venue: "Republic Gallery"
 summary: "Republic Gallery | GWENESSA LAM: IN SEARCH OF FIRE | NOV 19"
 ---
 

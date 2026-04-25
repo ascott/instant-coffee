@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 22
 type: "CALL"
+venue: "No.3 Road Art Columns Exhibition"
 summary: "No.3 Road Art Columns Exhibition | seeks proposals | MAY 22"
 ---
 

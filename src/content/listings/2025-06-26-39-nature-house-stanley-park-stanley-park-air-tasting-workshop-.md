@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 39
 type: "EDUCATION"
+venue: "Nature House Stanley Park"
 summary: "Nature House Stanley Park | Stanley Park Air Tasting Workshop | JUL 12"
 ---
 

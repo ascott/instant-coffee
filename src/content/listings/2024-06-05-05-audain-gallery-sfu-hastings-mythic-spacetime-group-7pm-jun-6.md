@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 5
 type: "OPENING"
+venue: "AUDAIN GALLERY SFU Hastings"
 summary: "AUDAIN GALLERY SFU Hastings | Mythic Spacetime Group | 7PM | JUN 6"
 ---
 

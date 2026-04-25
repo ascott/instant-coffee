@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Visiteur"
 emailDate: "Thu, 27 Jul 2023 06:05:03 -0700"
 number: 24
 type: "EXHIBITION"
+venue: "THIS Gallery"
 summary: "THIS Gallery | DTES Small Arts Grants Recipients Exhibition | AUG 5"
 ---
 

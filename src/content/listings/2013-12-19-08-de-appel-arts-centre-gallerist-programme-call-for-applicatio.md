@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the flatting imperative"
 emailDate: "Thu, 19 Dec 2013 12:46:17 -0800"
 number: 8
 type: ""
+venue: "De Appel arts centre"
 summary: "De Appel arts centre | Gallerist Programme: call for applications | JAN 13"
 ---
 

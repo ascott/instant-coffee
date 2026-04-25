@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 45
 type: "EDUCATION"
+venue: "Burnaby Art Gallery"
 summary: "Burnaby Art Gallery | Charitable Donations Workshop | 10am-1pm | JAN 28"
 ---
 

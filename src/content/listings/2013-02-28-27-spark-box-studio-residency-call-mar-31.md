@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 27
 type: ""
+venue: "Spark Box"
 summary: "Spark Box | Studio Residency Call | MAR 31"
 ---
 
-Spark Box Studio Residency Call â€“ for artists of all kinds who want to get 
+Spark Box Studio Residency Call – for artists of all kinds who want to get 
 away from their everyday and make some damn art.
 Ongoing Application 
 1 Week - 2 Months

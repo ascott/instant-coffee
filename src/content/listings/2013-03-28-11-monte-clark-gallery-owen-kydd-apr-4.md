@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 11
 type: ""
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | OWEN KYDD | APR 4"
 ---
 
@@ -12,7 +13,7 @@ April 4 to May 4, 2013
 Opening reception Thursday April 4, 6pm to 8pm
 
 Developed in relationship to his durational photographs, the pieces in
-Owen Kyddâ€™s new exhibition test the boundaries of the video /
+Owen Kydd’s new exhibition test the boundaries of the video /
 photograph dichotomy he is known to supervise. Pulling classical cues
 from composition, painting, collage, and studio practice, the works
 reflect an expanding medium, one that Kydd has cultivated and

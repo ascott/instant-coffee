@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 22
 type: ""
+venue: "The Banff Centre"
 summary: "The Banff Centre | Director and Chief Curator, Visual and Digital Art | AUG 31"
 ---
 

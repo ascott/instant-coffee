@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 34
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | READ Books | Dan Adler | SEP 26"
 ---
 

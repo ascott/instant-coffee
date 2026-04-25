@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: they do not always believe the man
 emailDate: "Thu, 26 Jun 2014 16:11:54 -0700"
 number: 4
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Hapt in the Organ Felt | JUN 26"
 ---
 

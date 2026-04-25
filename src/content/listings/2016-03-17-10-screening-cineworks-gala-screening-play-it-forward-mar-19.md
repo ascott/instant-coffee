@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 10
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks | Gala Screening: Play It Forward | MAR 19"
 ---
 

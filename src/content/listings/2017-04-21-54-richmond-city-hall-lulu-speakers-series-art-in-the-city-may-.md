@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 54
 type: "TALK"
+venue: "Richmond City Hall"
 summary: "Richmond City Hall | Lulu Speakers Series: Art in the City | MAY 4"
 ---
 

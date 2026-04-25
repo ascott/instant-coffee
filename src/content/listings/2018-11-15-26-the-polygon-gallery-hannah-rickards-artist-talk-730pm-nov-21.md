@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 26
 type: "TALK"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | Hannah Rickards: Artist Talk | 730PM | NOV 21"
 ---
 

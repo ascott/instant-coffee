@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ARCHIVES WEEK"
 emailDate: "Thu, 08 Nov 2018 13:00:57 -0800"
 number: 9
 type: ""
+venue: "Spare Room"
 summary: "Spare Room | Now Reading: Jennifer Fisher's Tactile Affects | NOV 12"
 ---
 

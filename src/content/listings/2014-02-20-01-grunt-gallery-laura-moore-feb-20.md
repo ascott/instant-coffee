@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 1
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Laura Moore | FEB 20"
 ---
 

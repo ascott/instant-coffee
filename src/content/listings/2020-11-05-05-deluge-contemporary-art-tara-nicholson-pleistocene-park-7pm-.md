@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 5
 type: "OPENING"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | Tara Nicholson - Pleistocene Park | 7PM | NOV 6"
 ---
 

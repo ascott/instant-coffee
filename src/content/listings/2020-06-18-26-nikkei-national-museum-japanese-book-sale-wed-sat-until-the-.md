@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Allonge"
 emailDate: "Thu, 18 Jun 2020 08:05:12 -0700"
 number: 26
 type: "EVENT"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Japanese Book Sale | WED-SAT UNTIL THE 27th | JUN 27"
 ---
 

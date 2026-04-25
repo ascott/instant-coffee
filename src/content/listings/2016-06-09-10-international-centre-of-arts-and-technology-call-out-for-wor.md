@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 10
 type: "CALL"
+venue: "International Centre of Arts and Technology"
 summary: "International Centre of Arts and Technology | Call out for Workshops at ICOAAT | JUN 12"
 ---
 

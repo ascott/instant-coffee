@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 27
 type: ""
+venue: "Iris Film Collective and Cineworks"
 summary: "Iris Film Collective and Cineworks | CHROMAFLEX, a workshop | NOV 15"
 ---
 

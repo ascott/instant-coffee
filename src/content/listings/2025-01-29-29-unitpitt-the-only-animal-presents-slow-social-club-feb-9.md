@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 29
 type: "EDUCATION"
+venue: "UNIT/PITT"
 summary: "UNIT/PITT | The Only Animal presents: Slow Social Club | FEB 9"
 ---
 

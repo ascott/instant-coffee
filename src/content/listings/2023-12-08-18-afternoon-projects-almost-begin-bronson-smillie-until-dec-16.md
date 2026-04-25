@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 18
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Almost Begin Bronson Smillie | UNTIL DEC 16 | DEC 16"
 ---
 

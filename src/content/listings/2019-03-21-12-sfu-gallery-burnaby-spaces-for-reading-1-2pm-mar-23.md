@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 12
 type: "EVENT"
+venue: "SFU Gallery, Burnaby"
 summary: "SFU Gallery, Burnaby | Spaces for Reading | 1-2PM | MAR 23"
 ---
 

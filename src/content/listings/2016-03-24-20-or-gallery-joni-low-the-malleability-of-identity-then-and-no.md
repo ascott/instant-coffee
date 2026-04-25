@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How Does a Single Blade of Grass 
 emailDate: "Thu, 24 Mar 2016 14:20:41 -0700"
 number: 20
 type: "TALK"
+venue: "Or Gallery"
 summary: "Or Gallery | Joni Low The malleability of identity then and now | MAR 31"
 ---
 

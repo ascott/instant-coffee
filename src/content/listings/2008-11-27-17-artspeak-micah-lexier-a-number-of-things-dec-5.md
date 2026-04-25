@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 17
 type: ""
+venue: "Artspeak"
 summary: "Artspeak | Micah Lexier | A Number of Things | DEC 5"
 ---
 
@@ -28,7 +29,7 @@ Micah Lexier is a Toronto based artist whose work has been shown at the
 Contemporary Art Gallery, Vancouver; The New Museum, New York; The British
 Museum, London; Printed Matter, New York; Gitte Weise Galerie, Berlin;
 Musee d'art Contemporain, Montreal; the Vancouver Art Gallery and the Art
-Gallery of Ontario. He is represented in Canada by TrÃ©panier Baer, Calgary
+Gallery of Ontario. He is represented in Canada by Trépanier Baer, Calgary
 and Birch Libralato, Toronto.
 
 Join us on Friday, December 5th from 8-10pm for the launch of this bookwork

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let the days fly"
 emailDate: "Thu, 12 Sep 2013 09:45:49 -0700"
 number: 25
 type: ""
-summary: "UBCâ€™s The Department of Art History | A Talk by Terry Smith | SEP 16"
+venue: "UBC’s The Department of Art History"
+summary: "UBC’s The Department of Art History | A Talk by Terry Smith | SEP 16"
 ---
 
-UBCâ€™s The Department of Art History, Visual Art & Theory Presents:
+UBC’s The Department of Art History, Visual Art & Theory Presents:
 
 BC Binning Memorial Lecture Series
 Thinking Contemporary Art; Curating Contemporaneity: A Talk by Terry Smith
@@ -48,7 +49,7 @@ Foundation for Art and Visual Culture, University of Sydney. He was a
 member of the Art & Language group (New York) and a founder of Union 
 Media Services (Sydney). He is the author of a number of books, notably 
 Making the Modern: Industry, Art and Design in America (University of 
-Chicago Press, 1993; inaugural Georgia Oâ€™Keeffe Museum Book Prize 2009); 
+Chicago Press, 1993; inaugural Georgia O’Keeffe Museum Book Prize 2009); 
 Transformations in Australian Art, volume 1, The Nineteenth Century: 
 Landscape, Colony and Nation, volume 2, The Twentieth Century: Modernism 
 and Aboriginality (Craftsman House, Sydney, 2002); The Architecture of 

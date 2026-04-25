@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 1
 type: ""
+venue: "NEWS"
 summary: "NEWS | PLOT @ Access Gallery | OH x SPIT: Artist-led Literature and Publishing"
 ---
 

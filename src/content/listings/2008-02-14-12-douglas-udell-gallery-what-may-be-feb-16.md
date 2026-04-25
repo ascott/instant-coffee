@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee at cruising speed"
 emailDate: "Thu, 14 Feb 2008 07:58:05 -0800"
 number: 12
 type: ""
+venue: "Douglas Udell Gallery"
 summary: "Douglas Udell Gallery | What May Be | FEB 16"
 ---
 

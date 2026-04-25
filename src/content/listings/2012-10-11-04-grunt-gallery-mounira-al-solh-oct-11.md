@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 4
 type: ""
+venue: "grunt gallery"
 summary: "grunt gallery | Mounira Al Solh | OCT 11"
 ---
 

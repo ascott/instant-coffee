@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 4
 type: ""
+venue: "JOB"
 summary: "JOB | City of Vancouver | PUBLIC ART PLANNER | AUG 3"
 ---
 

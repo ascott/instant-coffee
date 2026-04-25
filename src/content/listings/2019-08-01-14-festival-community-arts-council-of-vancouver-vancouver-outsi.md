@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things Fall Into Place"
 emailDate: "Thu, 01 Aug 2019 11:10:14 -0700"
 number: 14
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Community Arts Council of Vancouver | Vancouver Outsider Arts Festival | AUG 9"
 ---
 

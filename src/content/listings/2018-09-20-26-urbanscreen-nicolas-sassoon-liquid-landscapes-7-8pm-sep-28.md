@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearl of Laughter"
 emailDate: "Thu, 20 Sep 2018 08:15:56 -0700"
 number: 26
 type: "TALK"
+venue: "UrbanScreen"
 summary: "UrbanScreen | Nicolas Sassoon: Liquid Landscapes | 7-8PM | SEP 28"
 ---
 

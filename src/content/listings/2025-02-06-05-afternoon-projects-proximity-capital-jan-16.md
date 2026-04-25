@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: booster club"
 emailDate: "Thu, 06 Feb 2025 01:50:13 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Proximity Capital | JAN 16"
 ---
 

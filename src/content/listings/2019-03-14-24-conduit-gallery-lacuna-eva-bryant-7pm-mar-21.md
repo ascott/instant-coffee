@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 24
 type: "OPENING"
+venue: "Conduit Gallery"
 summary: "Conduit Gallery | LACUNA | Eva Bryant | 7pm | MAR 21"
 ---
 

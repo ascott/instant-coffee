@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 13
 type: "EVENT"
+venue: "Vancouver Maritime Museum"
 summary: "Vancouver Maritime Museum | SpongeBob SquarePants to visit the VMM! | JAN 17"
 ---
 
@@ -12,12 +13,12 @@ ANIMATED 3D MOVIE!
 
 Saturday January 17, 1.30 - 2.30pm
 Vancouver Maritime Museum
-Saturday, January 17th, 1:30pm â€“ 2:30pm
+Saturday, January 17th, 1:30pm – 2:30pm
 1905 Ogden Avenue, Vancouver
 VancouverMaritimeMuseum.com
 
-VANCOUVER, B.C. (January 12, 2015) â€“ For the first time, SpongeBob
-SquarePants, the worldâ€™s favorite sea dwelling invertebrate, comes ashore
+VANCOUVER, B.C. (January 12, 2015) – For the first time, SpongeBob
+SquarePants, the world’s favorite sea dwelling invertebrate, comes ashore
 to our world for his most super-heroic adventure yet, in his new 3D movie,
 â€œTHE SPONGEBOB MOVIE: SPONGE OUT OF WATERâ€ , which hits theatre screens on
 February 6.
@@ -29,13 +30,13 @@ Families who visit the Vancouver Maritime Museum will have an opportunity
 to meet the new Superhero SpongeBob and take photos with the famous
 character. Mini movie posters will also be available, while quantities last.
 
-From Paramount Animation and Nickelodeon Movies comes â€œTHE SPONGEBOB MOVIE:
+From Paramount Animation and Nickelodeon Movies comes “THE SPONGEBOB MOVIE:
 SPONGE OUT OF WATER,â€  an all-new 3D adventure thatâ€™s as wild and funny as
-its name. For the first time, SpongeBob SquarePants, the worldâ€™s favourite
+its name. For the first time, SpongeBob SquarePants, the world’s favourite
 sea dwelling invertebrate, comes ashore to our world for his most
 super-heroic adventure yet.
 
-Produced by Paul Tibbitt and Mary Parent. Based on the series â€œSpongeBob
+Produced by Paul Tibbitt and Mary Parent. Based on the series “SpongeBob
 SquarePantsâ€  created by Stephen Hillenburg. Story by Stephen Hillenburg &
 Paul Tibbitt, screenplay by Glenn Berger & Jonathan Aibel and Paul Tibbitt
 and directed by Paul Tibbitt.

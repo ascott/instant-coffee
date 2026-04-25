@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Portals"
 emailDate: "Thu, 05 Jun 2025 08:55:15 -0700"
 number: 24
 type: "OPENING"
+venue: "Zebraclub"
 summary: "Zebraclub | Ali Bruce | JUN 13"
 ---
 

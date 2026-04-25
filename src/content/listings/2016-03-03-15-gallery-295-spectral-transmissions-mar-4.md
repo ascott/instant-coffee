@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sing for your supper"
 emailDate: "Thu, 03 Mar 2016 12:20:48 -0800"
 number: 15
 type: "OPENING"
+venue: "Gallery 295"
 summary: "Gallery 295 | Spectral Transmissions | MAR 4"
 ---
 

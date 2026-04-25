@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 32
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Board of Directors: Call for Members | APR 28"
 ---
 

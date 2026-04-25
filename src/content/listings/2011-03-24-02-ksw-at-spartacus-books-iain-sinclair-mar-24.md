@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 2
 type: ""
+venue: "KSW at Spartacus Books"
 summary: "KSW at Spartacus Books | iain SINCLAIR | MAR 24"
 ---
 

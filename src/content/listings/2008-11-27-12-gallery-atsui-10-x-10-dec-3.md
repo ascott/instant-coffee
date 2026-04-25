@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: shaken not stirred"
 emailDate: "Thu, 27 Nov 2008 08:25:25 -0800"
 number: 12
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | 10 x 10 | DEC 3"
 ---
 

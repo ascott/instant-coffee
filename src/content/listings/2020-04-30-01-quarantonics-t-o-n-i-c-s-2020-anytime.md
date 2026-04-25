@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Isolation"
 emailDate: "Thu, 30 Apr 2020 13:20:05 -0700"
 number: 1
 type: "CALL"
+venue: "@QuaranTonics"
 summary: "@QuaranTonics | T O N I C S | 2020 (ANYTIME)"
 ---
 

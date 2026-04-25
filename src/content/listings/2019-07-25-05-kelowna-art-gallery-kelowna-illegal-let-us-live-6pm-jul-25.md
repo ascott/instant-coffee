@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 5
 type: "PERFORMANCE"
+venue: "Kelowna Art Gallery (KELOWNA)"
 summary: "Kelowna Art Gallery (KELOWNA) | Illegal: Let Us Live | 6PM | JUL 25"
 ---
 

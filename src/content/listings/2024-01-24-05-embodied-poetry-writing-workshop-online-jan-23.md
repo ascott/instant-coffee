@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Frybread "
 emailDate: "Wed, 24 Jan 2024 14:50:19 -0800"
 number: 5
 type: "EDUCATION"
+venue: "Embodied Poetry Writing Workshop"
 summary: "Embodied Poetry Writing Workshop | Online | JAN 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 13
 type: "OPENING"
+venue: "Spare Room"
 summary: "Spare Room | Tegan Moore - Is Evaporation Emotion? | 8PM | AUG 18"
 ---
 

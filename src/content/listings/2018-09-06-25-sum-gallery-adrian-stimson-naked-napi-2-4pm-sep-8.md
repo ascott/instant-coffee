@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 25
 type: "OPENING"
+venue: "SUM Gallery"
 summary: "SUM Gallery | Adrian Stimson: Naked Napi | 2-4PM | SEP 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mythic Spacetime Group"
 emailDate: "Thu, 30 May 2024 00:55:16 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | To Be Belligerent//To Commit To Memory//To Live Wi"
 ---
 

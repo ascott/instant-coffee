@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 5
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | C. 1983 Part II | MAR 23"
 ---
 
 C. 1983 Part II
 OPENING RECEPTION Friday, March 23, Opening Reception, 7 pm
-With a special screening of Rodney Grahamâ€™s Two Generators (1984, 
+With a special screening of Rodney Graham’s Two Generators (1984, 
 4 minutes, sound) screening continuously in the Presentation House 
 Theatre from 7:30 to 9:00 pm. 
 Artsits in the exhibition: Vikky Alexander, Kati Campbell, Share 

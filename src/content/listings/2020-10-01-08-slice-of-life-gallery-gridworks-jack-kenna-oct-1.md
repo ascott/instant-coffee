@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Gridworks"
 emailDate: "Thu, 01 Oct 2020 10:30:19 -0700"
 number: 8
 type: "OPENING"
+venue: "Slice of Life Gallery"
 summary: "Slice of Life Gallery | Gridworks | Jack Kenna | OCT 1"
 ---
 

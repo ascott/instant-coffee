@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Kevin Schmidt & Marian Penner Bancroft | MAR 27"
 ---
 
@@ -50,11 +51,11 @@ Read more on the
 exhibition here
 
 The Contemporary Art Gallery presents a major new commission at 
-the Yaletown-Roundhouse Station by influential Vancouverâ€“based 
+the Yaletown-Roundhouse Station by influential Vancouver–based 
 photographer Marian Penner Bancroft.
 
 In Boulevard, details from a sequence of photographs of winter trees 
-are grouped in mirrored formations around two of the stationâ€™s glass 
+are grouped in mirrored formations around two of the station’s glass 
 walls. Penner Bancroft made these images along the Cambie 
 Heritage Boulevard where the Canada Line forms a subterranean 
 echo of the road.

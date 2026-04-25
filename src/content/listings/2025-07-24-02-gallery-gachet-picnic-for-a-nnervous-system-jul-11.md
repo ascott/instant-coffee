@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Copied and Pasted and Odourless"
 emailDate: "Wed, 23 Jul 2025 20:15:06 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "gallery gachet"
 summary: "gallery gachet | Picnic for a N(n)ervous System | JUL 11"
 ---
 

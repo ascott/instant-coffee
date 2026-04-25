@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
 emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
 number: 42
 type: "CALL"
+venue: "City of Surrey"
 summary: "City of Surrey | Wall and Gate Design | MAR 30"
 ---
 

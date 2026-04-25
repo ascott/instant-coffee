@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 24
 type: "CALL"
+venue: "True Colours Youth Art Exhibition"
 summary: "True Colours Youth Art Exhibition | Call for Artwork Submissions | APR 21"
 ---
 

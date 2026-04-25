@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: How Now Is Too Soon"
 emailDate: "Thu, 05 Feb 2009 09:30:10 -0800"
 number: 8
 type: ""
+venue: "Vehicle: Thinking Through the Box"
 summary: "Vehicle: Thinking Through the Box | Jeffrey Swartz | FEB 10"
 ---
 

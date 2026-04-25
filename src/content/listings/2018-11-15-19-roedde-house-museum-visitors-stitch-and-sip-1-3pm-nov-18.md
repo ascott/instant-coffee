@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 19
 type: "EVENT"
+venue: "Roedde House Museum"
 summary: "Roedde House Museum | Visitor’s Stitch and Sip | 1-3PM | NOV 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPIT"
 emailDate: "Thu, 19 Apr 2018 08:15:52 -0700"
 number: 9
 type: "EVENT"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Celebrate Spring Festival & Bloom Art Silent Aucti | APR 21"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 12
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Amberlie Perkin - Veils & Echoes | 12PM | OCT 26"
 ---
 

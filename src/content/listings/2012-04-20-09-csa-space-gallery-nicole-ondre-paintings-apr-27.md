@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: moderate sorrow for this tardy sau
 emailDate: "Fri, 20 Apr 2012 15:25:21 -0700"
 number: 9
 type: ""
+venue: "CSA space gallery"
 summary: "CSA space gallery | NICOLE ONDRE | PAINTINGS | APR 27"
 ---
 
@@ -13,7 +14,7 @@ CSA SPACE VANCOUVER
 Curated by Graham Dalik & Adam Harrison
 
 27 April - 27 May, 2012
-Opening reception: Friday, 27 April, 18:00 â€“ 21:00
+Opening reception: Friday, 27 April, 18:00 – 21:00
 
 Nicole Ondre is a Vancouver-based artist, and co-founder of Exercise 
 Projects.
@@ -31,12 +32,12 @@ Mon-Wed 10am-8pm, Thurs-Sat 10am-9pm, Sundays and holidays
 11am-7pm.
 
 follow on Twitter | friend on Facebook | forward to a friend 
-Copyright Â© 2012 CSA space gallery, All rights reserved.
+Copyright © 2012 CSA space gallery, All rights reserved.
 You are email because you have in past in person or on web opted into 
 our emailing list. If you wish to unsubscribe click on the subscribe 
 button.
 Our mailing address is:
 CSA space gallery
-#5â€“2414 Main Street
+#5–2414 Main Street
 Vancouver, Bc V5T 3E2
 Canada

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 15
 type: ""
+venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | CALL FOR LOWER MAINLAND ARTISTS | JUL 7"
 ---
 
@@ -35,7 +36,7 @@ On Friday, November 30, 2012 the Gallery will host a Closing party for
 all participants
 and will be open to the public.
 
-The Gallery is not able to provide artistâ€™s transportation or 
+The Gallery is not able to provide artist’s transportation or 
 accommodation for this
 Exhibition
 
@@ -44,7 +45,7 @@ A current CV, a brief artist statement, a statement of the proposed
 work, up to 6 images
 of similar work or 5 minutes of video. Indicate in your proposal how 
 much wall/gallery
-space you require â€“ i.e. postage stamp size and upward. (see gallery 
+space you require – i.e. postage stamp size and upward. (see gallery 
 floor plan at
 www.richmondartgallery.org). Online submissions will not be accepted.
 
@@ -55,7 +56,7 @@ Temporary Assignment
 Richmond Art Gallery
 7700 Minoru Gate
 Richmond, BC V6Y 1R9
-GALLERY CLOSED FOR RENOVATIONS: December 3, 2012 â€“ 
+GALLERY CLOSED FOR RENOVATIONS: December 3, 2012 – 
 January 24, 2013
 
 Nan Capogna, Curator

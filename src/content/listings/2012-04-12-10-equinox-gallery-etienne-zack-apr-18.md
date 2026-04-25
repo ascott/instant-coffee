@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 10
 type: ""
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Etienne Zack | APR 18"
 ---
 

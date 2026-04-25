@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 3
 type: ""
+venue: "Balcone"
 summary: "Balcone | Aitken, Donald & Neufeld | FEB 3"
 ---
 
@@ -57,7 +58,7 @@ between Berlin and Vancouver. In 2005, he was chosen as the first
 inaugural
 recipient of the Joseph Plaskett Award, which was created to 
 support an
-artist for a year in Europe. Neufeldâ€™s work has been shown in 
+artist for a year in Europe. Neufeld’s work has been shown in 
 Vancouver,
 Seattle, Berlin, Toronto, Melbourne, and Skien, Norway. He has a 
 BFA from

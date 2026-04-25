@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 10
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Noah Becker | MAY 8"
 ---
 
@@ -14,7 +15,7 @@ exhibition, entitled For Men Who Appreciate History, opens May 8 with a
 reception from 6:00-8:00 pm with the artist in attendance and will continue 
 through May 29. This will be the artist's second solo exhibition with the Back 
 Gallery Project.
-Noah Beckerâ€™s interest in masterworks from different art historical periods is 
+Noah Becker’s interest in masterworks from different art historical periods is 
 the foundation upon which he has built bold and ordered compositions. His 
 work questions the contemporary relevance of portraiture in the age of digital 
 photography and the ubiquitous â€œselfieâ€  picture that we have come to 

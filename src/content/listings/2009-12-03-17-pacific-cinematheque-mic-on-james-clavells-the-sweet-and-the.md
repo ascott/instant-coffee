@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 17
 type: ""
+venue: "Pacific Cinematheque: Mic"
 summary: "Pacific Cinematheque: Mic | on James Clavell's The Sweet and the Bitter | DEC 10"
 ---
 

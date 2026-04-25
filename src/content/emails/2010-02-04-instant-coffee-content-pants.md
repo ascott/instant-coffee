@@ -508,7 +508,7 @@ A newly commissioned work by Vancouver artist Rebecca Belmore will be in
 the Hastings Street window of the gallery.
 
 The show also includes a new work from Jimmie Durham, an important figure
-in contemporary indigenous art, a work from Cheryl LÃ¢ Hirondelle in
+in contemporary indigenous art, a work from Cheryl Lâ Hirondelle in
 collaboration with Andrew Lee, and a photo-text installation by New
 York-based artist Andrea Geyer and a large-scale installation by Matthew
 Buckingham, also of New York.
@@ -797,7 +797,7 @@ dsullivant@vanartgallery.bc.ca
 ------------------------------------------------------------------------
 W2 presents Hot One Inch Action MEDALISTS
 
-Saturday February 6, 2010 Â· doors @ 8pm
+Saturday February 6, 2010 · doors @ 8pm
 W2 Culture + Media House - 112 W Hastings Vancouver
 
 February 6, 2010, Vancouver, BC With its building success and 100-150
@@ -1030,7 +1030,7 @@ and Paralympic Public Art Program.
 Contact: info@bright-light.ca
 Media Contact: Gwen Kallio
 Opening Receptions Friday, February 12, 7 to 10pm
-Copyright Â© 2010 the artists and writers. Site by The Future.
+Copyright © 2010 the artists and writers. Site by The Future.
 
 
 ------------------------------------------------------------------------
@@ -1118,7 +1118,7 @@ Saturday, March 13: Van Bands: KICK EVRYTHING and CALL THE CITY play loud, 10pm
 Wednesday, March 17: Slickerslacker is Fiona Bowie and Jim Peers (guitar,
 vox, knobs and tubes, buttons, various utensils and sliders), 10pm
 
-Thursday, March 18: Danish Artist Ditte LyngkÃ¦r Pedersen will host a
+Thursday, March 18: Danish Artist Ditte Lyngkær Pedersen will host a
 screening event based on her video works and give a short presentation on
 the artists-run exhibition space rum46 in Ã�rhus, Denmark, 8pm
 
@@ -1217,7 +1217,7 @@ and has exhibited her work internationally. Her video, Hero of Our Time, is
 currently on tour through Canada in a group exhibition titled Diabolique
 that explores various responses to, and representations of, war and
 violence. For her contribution to Not Sent Letters & Guests, Matilda will
-try to extract nuance and novelty from that most clichÃ©d and ubiquitous
+try to extract nuance and novelty from that most clichéd and ubiquitous
 image: the Hollywood celebrity promo shot.
 
 MARGARET DRAGU is an interdisciplinary artist with a multi-personae disorder.

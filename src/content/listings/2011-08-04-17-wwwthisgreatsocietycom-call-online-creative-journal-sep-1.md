@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 17
 type: ""
+venue: "www.thisgreatsociety.com"
 summary: "www.thisgreatsociety.com | CALL: online creative journal | SEP 1"
 ---
 

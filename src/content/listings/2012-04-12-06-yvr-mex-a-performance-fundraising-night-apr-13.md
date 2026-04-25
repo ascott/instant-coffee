@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 6
 type: ""
+venue: "YVR- MEX"
 summary: "YVR- MEX | A performance (fundraising night) | APR 13"
 ---
 

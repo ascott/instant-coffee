@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 61
 type: "OPENING"
+venue: "Centre A"
 summary: "Centre A | Haruko Okano | 12-4PM | OCT 26"
 ---
 

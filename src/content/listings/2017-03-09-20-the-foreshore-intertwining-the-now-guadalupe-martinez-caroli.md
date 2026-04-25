@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: intimacy and communication"
 emailDate: "Wed, 08 Mar 2017 23:30:18 -0800"
 number: 20
 type: ""
+venue: "The Foreshore"
 summary: "The Foreshore | Intertwining the Now | Guadalupe Martinez & Carolina Bergonzoni | MAR 18"
 ---
 

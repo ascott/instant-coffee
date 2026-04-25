@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: counter-cultural inhabitation"
 emailDate: "Thu, 03 Sep 2015 16:20:12 -0700"
 number: 30
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | In Conversation: Alana Bartol & David Semeniuk | SEP 12"
 ---
 
@@ -22,7 +23,7 @@ longing that are evoked by the works on view in the gallery.
 
 Alana Bartol an interdisciplinary artist, curator, and educator from
 Windsor, Ontario, currently based in Calgary, Alberta. She is interested
-in ecology as a â€˜life scienceâ€™ that interrogates relationships between
+in ecology as a ‘life science’ that interrogates relationships between
 place and self, nature, and community. Her collaborative and individual
 works explore concepts of visibility and survival through our
 relationships with nature and each other. Bartol holds an MFA from

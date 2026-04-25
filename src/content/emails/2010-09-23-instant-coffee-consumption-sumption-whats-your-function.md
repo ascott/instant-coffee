@@ -72,12 +72,12 @@ Opening Reception // Thursday, September 23rd // 7pm - 11pm
 Captivated by still life, Les Ramsay seeks an intimacy with form while
 romancing notions and techniques of abstract painting. His work is invested
 in the exploration of tropes found in modern, cubist, and abstract art
-examining the contrasts between the artistsÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½ intellect and their whim. He
+examining the contrasts between the artistsÃ¢ï¿½ï¿½ intellect and their whim. He
 exhibits several new paintings and sculptures that investigate
 circumstances where subject and composition exist in limbo.
 
 Les Ramsay has received his BFA in visual arts in 2007 from the Emily Carr
-University, and also studied at the Bellas Artes, Universidad PolitÃƒÆ’Ã‚Â©cnica
+University, and also studied at the Bellas Artes, Universidad PolitÃƒÂ©cnica
 de Valencia, Spain. His work has been exhibited in Canada, Spain, and the
 United States.
 
@@ -210,20 +210,20 @@ audaingallery.ca
 
 C MAGAZINE ISSUE 107 â€œANIMALSâ€  ON NEWSSTANDS NOW
 Issue 107 includes feature essays by Carla Benzan, writing about the lives
-and deaths of Carolee Schneemannâ€™s cats; Karen Houle, on ethics and animal
-kinship; Jon Davies, on Mike Whiteâ€™s film, Year of the Dog; and Helena
+and deaths of Carolee Schneemann’s cats; Karen Houle, on ethics and animal
+kinship; Jon Davies, on Mike White’s film, Year of the Dog; and Helena
 Reckitt, writing about touch and affect in human/non-human animal
 relationships. Reviews include the winning entry for the 2010 New Critics
-Competition: Corinna Kirsch on Justin Thomas Schaeferâ€™s Comedy Comedy, as
+Competition: Corinna Kirsch on Justin Thomas Schaefer’s Comedy Comedy, as
 well as reviews of exhibitions and projects by Marina Abramović, Adrian
 Blackwell, Christian Boltanski, Carlos Garaicoa, David Hoffos, Kristan
 Horton, Stephen Kelly, Ryan Trecartin, Daryl Vocat, Marion Wagschal, and
 the Alberta Biennial. This issue also includes Bird Radio for Afghanistan,
 an artist project by Bill Burns, with an accompanying essay by Gentiane
-BÃ©langer.
+Bélanger.
 
 2010 C New Critics Competition:
-C Magazine is proud to announce the winner of this yearâ€™s C New Critics
+C Magazine is proud to announce the winner of this year’s C New Critics
 Competition:
 
 Corinna Kirsch
@@ -235,7 +235,7 @@ Review of Wangechi Mutu: This You Call Civilization? at the Art Gallery of
 Ontario, Toronto.
 
 Corinna Kirsch is a curator and writer living in Chicago. She was the 2009
-- 2010 Oâ€™Brien Curatorial Fellow at the Weisman Art Museum at the
+- 2010 O’Brien Curatorial Fellow at the Weisman Art Museum at the
 University of Minnesota and is the co-founder of the curatorial project
 space Concertina Gallery in Chicago. In 2009 she received her MA in Modern
 Art History, Theory, and Criticism from The School of the Art Institute of
@@ -243,9 +243,9 @@ Chicago. Her review of Justin Thomas Schaefer: Comedy Comedy at Midway
 Contemporary Art, Minneapolis appears in C107.
 
 Farah Yusuf is an artist and student who lives and works in Toronto. She is
-completing her final year towards a BFA in OCADâ€™s Art Criticism and
+completing her final year towards a BFA in OCAD’s Art Criticism and
 Curatorial Practices program. Her new media work r u part of the art? was
-shown at Torontoâ€™s Nuit Blanche in 2008. Her writing will appear in C
+shown at Toronto’s Nuit Blanche in 2008. Her writing will appear in C
 Magazine issue 109, in Spring 2011.
 
 The C New Critics Competition is an annual competition designed to help
@@ -267,7 +267,7 @@ http://www.thedrakehotel.ca
 
 Venue Sponsor: The Drake Hotel
 
-C School is an initiative aimed at extending C Magazineâ€™s mandate to
+C School is an initiative aimed at extending C Magazine’s mandate to
 advance education in contemporary visual art and culture. C School offers
 study guides and research material in conjunction with each issue theme,
 beginning with C104 (study guides and bibliographies are available online
@@ -280,7 +280,7 @@ inquiries, contact Kate at
 info@cmagazine.com
 
 PHOTO CREDIT:
-Francis AlÃ¿s (in collaboration with Rafael Ortega), Gringo, 2003, Mexico,
+Francis Alÿs (in collaboration with Rafael Ortega), Gringo, 2003, Mexico,
 video documentation of an action, 5 min. Image courtesy of David Zwirner,
 New York
 __________________________________
@@ -383,7 +383,7 @@ published widely
 in BOMB, PAJ: art + performance, Modern Painters, The Brooklyn Rail,
 Performa07, Museo,
 
-Fanzine, EXIT, and at the Poetry FoundationÃ¢â‚¬â„¢s Harriet weblog. Currently he
+Fanzine, EXIT, and at the Poetry Foundationâ€™s Harriet weblog. Currently he
 is working on a
 
 collection of critical writings, Sovereignty and Us: Critical Objects
@@ -516,7 +516,7 @@ Progress: Vancouver Art in the Sixties
 Speakers
 
 Fern Bayer, Independent researcher/curator/archivist, author of the
-catalogue raisonnÃƒÆ’Ã‚Â© of General Idea, (published in 2011)
+catalogue raisonnÃƒÂ© of General Idea, (published in 2011)
 Caitlin Jones, Executive director, Western Front, Vancouver
 Makiko Hara, curator, Centre A
 *Fern Bayer will participate through Skype from Toronto.
@@ -552,18 +552,18 @@ primarily Japan. For three years Bayer was the manager of the Rome studio
 of American artist Joseph Kosuth. In 1997 she guest-curated the exhibition
 The Search for the Spirit: General Idea 1968-1975 for the Art Gallery of
 Ontario, which presented several hundred previously unseen works from the
-"General Idea Archive," mostly early works that had been ÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½shelved' or put
+"General Idea Archive," mostly early works that had been Ã¢ï¿½ï¿½shelved' or put
 aside by the artists as they moved on to project after project during their
 25-year collaboration (active 1969-94). Bayer completed the 632-page
 "Finding Aid" to the vast General Idea fonds [Archive], which is currently
 housed in the National Gallery of Canada's Library and Archive and is one
 of the most actively consulted archival holding at the gallery (see
 http://www.gallery.ca/english/library/biblio/ngc112.html). She researched
-and compiled the complete body of ÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½editioned works' that was published in
+and compiled the complete body of Ã¢ï¿½ï¿½editioned works' that was published in
 Barbara Fischer, ed. General Idea Editions" 1967-1995 (Mississauga:
 Blackwood Gallery, 2003). Bayer was recently a Research Fellow at the
 National Gallery of Canada and is currently completing the catalogue
-raisonnÃƒÆ’Ã‚Â© of the entire body of work of General Idea, to be published in 2011.
+raisonnÃƒÂ© of the entire body of work of General Idea, to be published in 2011.
 
 [Caitlin Jones]
 
@@ -664,7 +664,7 @@ Criticism. The result of a public forum and reading room (held in 2009 at
 Emily Carr University and at Artspeak respectively) that investigated the
 role of valuation art criticism, this publication features commissioned
 texts by forum presenters and respondents: Jeff Derksen, Diedrich
-Diederichsen, James Elkins, Maria Fusco, Sven LÃƒÂ¼tticken, Tom Morton,
+Diederichsen, James Elkins, Maria Fusco, Sven LÃ¼tticken, Tom Morton,
 Kristina Lee Podesva, William Wood and Tirdad Zolghadr. Examining the
 efficacy and function of art criticism, the publication focuses on the role
 of judgment in contemporary art writing and includes transcriptions from
@@ -765,7 +765,7 @@ Vancouver. His work has appeared in galleries and institutions in Canada,
 the United States and abroad, including Franko Nuero Gallery, Turin;
 Marianne Boesky, New York; Office Baroque, Antwerp; the Vancouver Art
 Gallery (for which, in 2005/2006, he produced the remarkable BASE/MACHINE, a
-light installation in the gallery faÃƒÆ’Ã‚Â§ade); Centre d'art Contemporain,
+light installation in the gallery faÃƒÂ§ade); Centre d'art Contemporain,
 Montreal; The Contemporary Art Gallery, Vancouver; Andrea Rosen Gallery, New
 York, and Art and Public, Geneva. Known for his often enormous renderings of
 simplified geometric shapes featuring circles, rings and parabolas in
@@ -797,10 +797,10 @@ at the University of Toronto and scheduled to be at the VAG in 2011. Kleyn
 lives and works in Vancouver.
 
 Born in Poitiers (France), Sylvain Sailly first studied comics and new media
-in the cole SupÃƒÆ’Ã‚Â©rieure de l'Image in AngoulÃƒÆ’Ã‚Âªme. He subsequently attended
+in the cole SupÃƒÂ©rieure de l'Image in AngoulÃƒÂªme. He subsequently attended
 classes at the Academy of fine art in Milan and at the cole Nationale
-SupÃƒÆ’Ã‚Â©rieure d'Arts of Paris-Cergy. His animations, drawings and installations
-have been shown in la GÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©rale, Paris, Today Art Museum, Beijing, the
+SupÃƒÂ©rieure d'Arts of Paris-Cergy. His animations, drawings and installations
+have been shown in la GÃƒÂ©nÃƒÂ©rale, Paris, Today Art Museum, Beijing, the
 Jakarta Biennale XIII, the Apartment, VIVO Media Arts Centre and Every
 Letter In The Alphabet, Vancouver. Sailly is a French artist based in
 Vancouver.
@@ -1051,7 +1051,7 @@ Deadline: Monday, September 20, 2010- 5pm
 Only those candidates selected for an interview will be contacted.
 Thank you for your understanding.
 
-N.B. The feminine is used in this text to facilitate itÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s reading and in no
+N.B. The feminine is used in this text to facilitate itÃ¢ï¿½ï¿½s reading and in no
 way means to exclude
 other genders.
 
@@ -1097,7 +1097,7 @@ Please note that we do not accept email proposals for our main space.
 
 All submissions can be sent to:
 
-Eyelevel Gallery Ã¢â‚¬â€œ Programming Committee
+Eyelevel Gallery â€“ Programming Committee
 c/o: Michael McCormack
 2063 Gottingen Street
 Halifax, Nova Scotia, Canada

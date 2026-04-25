@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 5
 type: "CALL"
+venue: "L'Expressoir (PARIS)"
 summary: "L'Expressoir (PARIS) | Artist Residency | JAN 5"
 ---
 

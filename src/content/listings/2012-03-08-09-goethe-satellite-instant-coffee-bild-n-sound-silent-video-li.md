@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 9
 type: ""
+venue: "Goethe Satellite"
 summary: "Goethe Satellite | Instant Coffee | Bild N Sound: silent video // live music | MAR 10"
 ---
 

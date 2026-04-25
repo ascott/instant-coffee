@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 38
 type: ""
+venue: "JOB"
 summary: "JOB | Belkin Art Gallery | Curator of Outdoor Art | MAY 12"
 ---
 

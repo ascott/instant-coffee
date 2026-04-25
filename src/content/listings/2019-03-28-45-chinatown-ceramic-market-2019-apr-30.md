@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Money"
 emailDate: "Thu, 28 Mar 2019 09:30:43 -0700"
 number: 45
 type: "CALL"
+venue: "Chinatown Ceramic Market 2019"
 summary: "Chinatown Ceramic Market 2019 | APR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: has threadbare SLAYER pajamas"
 emailDate: "Thu, 18 Nov 2010 09:55:25 -0800"
 number: 5
 type: ""
+venue: "Helen Pitt Gallery"
 summary: "Helen Pitt Gallery | Reoccurrence: Serial Motifs | NOV 19"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: deitrus and other stuff"
 emailDate: "Thu, 29 Sep 2011 16:55:11 -0700"
 number: 3
 type: ""
+venue: "Mousse Issue #30 out now"
 summary: "Mousse Issue #30 out now | www.moussemagazine.it | SEP 29"
 ---
 
@@ -13,7 +14,7 @@ sep29_mousse.jpg
 
 Mousse Issue #30 out now
 
-Octoberâ€“November 2011
+October–November 2011
 
 www.moussemagazine.it
 
@@ -27,13 +28,13 @@ time: â€œwhat the hell am I doing here, now?â€  Critics also have their c
 Roelstraete observes the qualitative dodginess of the artistic production of his 
 contemporaries.
 
-Nicholas Cullinan is impressed by the way Phyllida Barlowâ€™s recent output 
+Nicholas Cullinan is impressed by the way Phyllida Barlow’s recent output 
 manages to control space. The interview with the artist is an opportunity to 
 retrace certain stages of her long career.
 
 Ana Teixeira Pinto interviews David Levine for PART OF THE PROCESS, to find 
 out about the origins of a performance that is a reflection on the life and times of 
-Abstract Expressionism. And what links the artistâ€™s father to Mark Rothko.
+Abstract Expressionism. And what links the artist’s father to Mark Rothko.
 
 Jan Verwoert offers a surprising look at the vilest forms of judgment, shedding 
 light on the close ties that exist between judge and judged. How can we get 
@@ -43,7 +44,7 @@ George Kuchar has left us. And he has taken with him one of the most sincere,
 impassioned and comical perspectives on reality. Together with his twin brother 
 Mike, George was one of the most highly esteemed underground filmmakers, 
 forerunners of all the low-fi and parodistic approaches to narrative cinema. For 
-PORTFOLIO, Juan A. SuÃ¡rez provides a memorable portrait.
+PORTFOLIO, Juan A. Suárez provides a memorable portrait.
 
 According to Andrew Berardini, Llyn Foulkes is a very undervalued artist. This 
 contribution for LOST & FOUND is an opportunity to figure out the reasons 
@@ -57,7 +58,7 @@ In NICE TO MEET YOU:
 Interviewed by Cecilia Alemani, Dan Finsel outlines a psychological voyage 
 inspired by the legendary Farrah Fawcett.
 
-Ben Schumacher creates original trompe lâ€™oeil effects, paintings transformed 
+Ben Schumacher creates original trompe l’oeil effects, paintings transformed 
 into 3D objects. He talks about it with Bob Nickas.
 
 According to John Henderson, Abstract Expressionism is a readymade to grab, 
@@ -83,15 +84,15 @@ redefinition of space, the structure of the theater and the translation of thoug
 into words are the protagonists.
 
 PARIS: The painting method of Jonathan Binet explores the crest between 
-concept and the physical, intention and chance. Vincent HonorÃ© met the artist, to 
+concept and the physical, intention and chance. Vincent Honoré met the artist, to 
 discover that the stopping point of a work can be set over the phone.
 
 NEW YORK: Tim Rollins and Julie Ault discuss their post-Group Material activity. 
-From the work of K.O.S, Rollinsâ€™ students in the South Bronx, to Aultâ€™s particular 
+From the work of K.O.S, Rollins’ students in the South Bronx, to Ault’s particular 
 editorial and curatorial efforts involving rediscoveries and restored value.
 
 BERLIN: Starship is a paper spacecraft. A Berlin-based magazine with Ariane 
-MÃ¼ller, Martin Ebner and Hans-Christian Dany at its helm. Gigiotto Del Vecchio 
+Müller, Martin Ebner and Hans-Christian Dany at its helm. Gigiotto Del Vecchio 
 met the crew.
 
 This time the ARTIST PROJECT is transformed into an exchange between an 
@@ -110,7 +111,7 @@ Ulrich Obrist, who met for Mousse with Alison Knowles, one of the key Fluxus
 figures.
 
 Rob Giampietro is both a designer and a writer: this is why he loves wordplay, 
-poetry and puzzlesâ€¦ For REPRINT he has selected a short story by Lydia 
+poetry and puzzles… For REPRINT he has selected a short story by Lydia 
 David, and other very concrete things.
 
 What are the reasons behind the widespread interest in the question of 
@@ -118,12 +119,12 @@ the â€œthemeâ€  in much of the art of recent years? Chus MartÃ­nez answ
 an extraordinary perspective that reconsiders concepts of reality, history and 
 language.
 
-For the second appointment with the column WHATâ€™S ALTERNATIVE? / 
+For the second appointment with the column WHAT’S ALTERNATIVE? / 
 ALTERNATIVE TO WHAT?, Vincenzo de Bellis meets Andrea Fraser to talk 
 about the experience of Orchard and the less familiar aspects of non-profit 
 operation in the United States.
 
-Tamar GuimarÃ£es demonstrates that delving into a device like an archive or a 
+Tamar Guimarães demonstrates that delving into a device like an archive or a 
 phenomenon like hypnosis never leaves one unscathed. She talks about it with 
 Andrea Lissoni, referring to her works.
 
@@ -142,7 +143,7 @@ FROM MOUSSE PUBLISHING
 Out now:
 abc art berlin contemporary: about painting
 Dalia Dūdėnaitė and Elena Narbutaitė. Sleeper
-The 6th Momentum Biennial. Imagine Being Here Now â€“ Reminder 
+The 6th Momentum Biennial. Imagine Being Here Now – Reminder 
 
 Upcoming titles:
 The Otolith Group. Thoughtform / La forma del pensiero

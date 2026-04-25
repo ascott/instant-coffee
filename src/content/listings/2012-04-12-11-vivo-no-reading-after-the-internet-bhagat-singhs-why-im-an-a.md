@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: wasting time like making time"
 emailDate: "Thu, 12 Apr 2012 10:30:34 -0700"
 number: 11
 type: ""
+venue: "VIVO"
 summary: "VIVO | No Reading After the Internet | Bhagat Singh's \"Why I'm An Atheist\" | APR 18"
 ---
 
@@ -33,7 +34,7 @@ and dogma of every sort.
 
 ---
 
-Bhagat Singh (1907â€“1931) was an Indian nationalist considered to be one of the 
+Bhagat Singh (1907–1931) was an Indian nationalist considered to be one of the 
 most influential revolutionaries of the Indian independence movement. He is 
 often referred to as Shaheed Bhagat Singh, the Hindi-Urdu word Shaheed 
 meaning "martyr".

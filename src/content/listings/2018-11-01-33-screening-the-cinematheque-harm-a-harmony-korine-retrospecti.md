@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 33
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | HARM: A Harmony Korine Retrospective | NOV 8-15 | NOV 8"
 ---
 

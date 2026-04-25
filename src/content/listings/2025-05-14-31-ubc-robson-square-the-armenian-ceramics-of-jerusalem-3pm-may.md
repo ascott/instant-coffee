@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vacuum Packed Molecules"
 emailDate: "Tue, 13 May 2025 21:40:12 -0700"
 number: 31
 type: "TALK"
+venue: "UBC Robson Square"
 summary: "UBC Robson Square | The Armenian Ceramics of Jerusalem | 3PM | MAY 25"
 ---
 

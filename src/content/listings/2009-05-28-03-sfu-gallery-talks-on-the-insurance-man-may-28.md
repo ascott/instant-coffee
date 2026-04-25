@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: that looks nice"
 emailDate: "Thu, 28 May 2009 08:57:00 -0700"
 number: 3
 type: ""
+venue: "SFU Gallery"
 summary: "SFU Gallery | Talks on The Insurance Man | MAY 28"
 ---
 

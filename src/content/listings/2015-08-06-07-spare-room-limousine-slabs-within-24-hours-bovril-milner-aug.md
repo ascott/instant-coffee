@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 7
 type: "OPENING"
+venue: "SPARE ROOM"
 summary: "SPARE ROOM | Limousine Slabs Within 24 Hours - Bovril & Milner | AUG 7"
 ---
 
@@ -24,7 +25,7 @@ For viewing arrangements and other inquiries: info[AT]spare-room[DOT]ca
 _
 
 "We found it as we roved the grey: blue paper, an irregular triangle. The
-top point linked to a virtual tour that wrapped us around a towerâ€™s twists,
+top point linked to a virtual tour that wrapped us around a tower’s twists,
 simulating dizziness. $40 a square foot, 48 for a view. The second took us
 down and left, to where work and leisure connected a covered walkway,
 supported by golden arches. We continued, right and slightly up, until the

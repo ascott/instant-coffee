@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feels something akin to shy in you
 emailDate: "Thu, 31 Jul 2014 12:37:30 -0700"
 number: 21
 type: ""
+venue: "IN MY BED Magazine"
 summary: "IN MY BED Magazine | Call for Submissions | SEP 1"
 ---
 

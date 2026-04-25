@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 28
 type: "OPENING"
+venue: "SUM gallery"
 summary: "SUM gallery | FOREST / FLUX / FREQUENCY | 7PM | NOV 7"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 8
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | A Bright Mark Left - Group Exhibition | AUG 16"
 ---
 

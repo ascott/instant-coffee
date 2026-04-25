@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Swarm Surroundings"
 emailDate: "Wed, 13 Sep 2023 23:20:13 -0700"
 number: 4
 type: "EVENT"
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | Audrey Siegel responds to Manuel Axel Strain | 6PM | SEP 14"
 ---
 

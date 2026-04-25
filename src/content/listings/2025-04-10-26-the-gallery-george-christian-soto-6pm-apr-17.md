@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 26
 type: "FUNDRAISER"
+venue: "The Gallery George"
 summary: "The Gallery George | Christian Soto | 6PM | APR 17"
 ---
 

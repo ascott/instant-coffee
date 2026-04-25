@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opting for plan b"
 emailDate: "Thu, 03 Oct 2013 12:46:00 -0700"
 number: 11
 type: ""
+venue: "Gallery Jones"
 summary: "Gallery Jones | DANNY SINGER: SMALL BENEATH THE SKY | OCT 5"
 ---
 

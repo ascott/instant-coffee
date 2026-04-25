@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 30
 type: "OPENING"
+venue: "Catriona Jeffries"
 summary: "Catriona Jeffries | Unexplained Parade | FEB 9"
 ---
 

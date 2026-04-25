@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a particular brand of generic"
 emailDate: "Thu, 26 Jul 2012 12:28:15 -0700"
 number: 2
 type: ""
+venue: "The Commons @ Dunlevy Snack Bar"
 summary: "The Commons @ Dunlevy Snack Bar | Screening: Noam Gonick/ Stryker | JUL 27"
 ---
 
@@ -17,7 +18,7 @@ Dunlevy Snack Bar
 433 Dunlevy Ave
 
 The Commons in collaboration with Dunlevy Snack Bar are thrilled to 
-present a screening of Noam Gonickâ€™s groundbreaking feature Stryker. 
+present a screening of Noam Gonick’s groundbreaking feature Stryker. 
 Recently screened at the MMK (Frankfurt), Stryker was premiered at 
 the 2004 Venice Film Festival and is in the collection of MoMA, New 
 York.

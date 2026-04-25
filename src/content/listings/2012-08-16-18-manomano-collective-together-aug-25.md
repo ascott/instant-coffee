@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 18
 type: ""
+venue: "manomano collective"
 summary: "manomano collective | TOGETHER | AUG 25"
 ---
 
@@ -42,7 +43,7 @@ coincidences, cohesive thinking, *magic, and irony. Yactac as a
 collective is dedicated to the necessities of art flow. To promote, 
 support, and encourage the creation of art daily; as they believe in the 
 innate creative qualities of art-making within us all. http://yactac.com/.
-Soledad MuÃ±oz is an interdisciplinary canadian artist raised in Chile.
+Soledad Muñoz is an interdisciplinary canadian artist raised in Chile.
 Through the combination of new and old technologies she explores the 
 in-between and ever-changing bridges between sonic and visual 
 spheres, navigating away from language and representation. 
@@ -51,4 +52,4 @@ Alex Achtem is a vancouver based artist with a BFA from Emily Carr.
 She lived in Amsterdam while on an exchange at Gerrit Rietveld 
 Academie. Her focus in sculpture has recently delved into more 
 interdisciplinary approaches. Her work has been exhibited on 
-Vancouverâ€™s public transit system in part of their public art incentive.
+Vancouver’s public transit system in part of their public art incentive.

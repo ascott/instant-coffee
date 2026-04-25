@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 53
 type: "OPENING"
+venue: "UNIT 17"
 summary: "UNIT 17 | NICOLE ONDRE | 6-9PM | DEC 7"
 ---
 

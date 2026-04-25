@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Artmoreorless"
 emailDate: "Mon, 08 Sep 2025 22:30:13 -0700"
 number: 7
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Richard Boulet: If I May Digress, Part 2 | SEP 6"
 ---
 

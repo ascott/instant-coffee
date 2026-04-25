@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bonsoir,  mon nom est café solubl
 emailDate: "Thu, 29 Mar 2012 19:40:09 -0700"
 number: 18
 type: ""
+venue: "Exercise"
 summary: "Exercise | REBECCA BREWER | APR 6"
 ---
 
@@ -13,7 +14,7 @@ REBECCA BREWER
 
 Nine Paintings of Ayn Rand
 
-April 6 â€” May 6
+April 6 — May 6
 Opening reception Friday April 6, 7-10 PM
 
 Gallery hours 12-5 Thurs-Sat (ring buzzer)

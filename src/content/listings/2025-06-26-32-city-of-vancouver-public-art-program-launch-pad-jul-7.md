@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 32
 type: "CALL"
+venue: "City of Vancouver Public Art Program"
 summary: "City of Vancouver Public Art Program | Launch Pad | JUL 7"
 ---
 

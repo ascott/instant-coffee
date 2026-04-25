@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: stammering through our disfluencie
 emailDate: "Thu, 30 Jun 2011 12:27:08 -0700"
 number: 5
 type: ""
+venue: "RIGHT"
 summary: "RIGHT | ECU's Community Projects Class | JUL 2"
 ---
 
 RIGHT
 
-A Gallery Exhibition of Emily Carr Universityâ€™s
+A Gallery Exhibition of Emily Carr University’s
 Community Projects Class: The Red Tent Campaign
 
 __________________________________________________
@@ -19,8 +20,8 @@ Katrina Humphreys 604.996.0293
 Avalon Mott 604.613.8446
 
 (Vancouver - July 1, 2011) RIGHT, a group exhibition, responds 
-to Canadaâ€™s lack of a
-national housing strategy, and specifically to Vancouverâ€™s 
+to Canada’s lack of a
+national housing strategy, and specifically to Vancouver’s 
 housing crisis. Emily Carr
 University of Art and Design student Avalon Mott and recent 
 graduate Katrina
@@ -36,10 +37,10 @@ This upcoming show features unique pieces in a range of
 media, which participants
 created as a direct result of their engagement with the topic of 
 homelessness, and
-specifically with the Pivot Legal Societyâ€™s Red Tent Campaign. 
+specifically with the Pivot Legal Society’s Red Tent Campaign. 
 The majority of artworks
 included in RIGHT were originally created to support the 
-participantsâ€™ activist-style
+participants’ activist-style
 public interventions, which were conducted in and around the 
 city of Vancouver, between
 February and April 2011. By holding these interventions, 
@@ -61,7 +62,7 @@ collaborative solutions to
 homelessness and its effects on everyone.
 
 RIGHT will be simultaneously held at the Foyer Gallery and 
-Ikes Gallery CafÃ© in the
+Ikes Gallery Café in the
 Irving K. Barber Learning Centre on UBC campus from July 1 - 
 July 31, 2011. An
 opening reception will be held on Saturday July 2, 2011 at 

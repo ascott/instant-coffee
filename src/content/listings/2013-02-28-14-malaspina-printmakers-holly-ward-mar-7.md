@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we are protesting ourselves"
 emailDate: "Thu, 28 Feb 2013 14:30:30 -0800"
 number: 14
 type: ""
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Holly Ward | MAR 7"
 ---
 

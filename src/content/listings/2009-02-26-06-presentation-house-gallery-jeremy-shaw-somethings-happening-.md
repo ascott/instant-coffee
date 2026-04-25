@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: switching to the Year of Special"
 emailDate: "Thu, 26 Feb 2009 09:05:14 -0800"
 number: 6
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | JEREMY SHAW: Something's Happening Here | MAR 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 28
 type: "OPENING"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | the poets have always preceded | 7-9PM | JAN 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 43
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Exhibition Tour in French | 3PM | NOV 18"
 ---
 

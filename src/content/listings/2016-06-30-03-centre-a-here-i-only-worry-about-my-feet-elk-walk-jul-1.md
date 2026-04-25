@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: feet everybody"
 emailDate: "Thu, 30 Jun 2016 12:00:20 -0700"
 number: 3
 type: "PERFORMANCE"
+venue: "Centre A"
 summary: "Centre A | Here I only worry about my feet... Elk Walk | JUL 1"
 ---
 

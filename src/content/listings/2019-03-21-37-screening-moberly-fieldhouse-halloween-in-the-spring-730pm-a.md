@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 37
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Moberly Fieldhouse | Halloween In The Spring | 730PM | APR 4"
 ---
 

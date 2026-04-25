@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 11
 type: "PERFORMANCE"
+venue: "Studio D, Goldcorp Centre for the Arts"
 summary: "Studio D, Goldcorp Centre for the Arts | Books JAN 11-13th | JAN 11"
 ---
 

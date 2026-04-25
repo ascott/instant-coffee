@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 24
 type: ""
-summary: "SFU's Vancity Office of Community Engagement | Lindsay Brown: Vancouverâ€™s UN Hanitat Forum | OCT 15"
+venue: "SFU's Vancity Office of Community Engagement"
+summary: "SFU's Vancity Office of Community Engagement | Lindsay Brown: Vancouver’s UN Hanitat Forum | OCT 15"
 ---
 
-Lindsay Brown: The Lost History of Vancouverâ€™s UN Habitat Forum 
+Lindsay Brown: The Lost History of Vancouver’s UN Habitat Forum 
 Monday, October 15, 2012 
 7:00pm until 9:00pm 
 

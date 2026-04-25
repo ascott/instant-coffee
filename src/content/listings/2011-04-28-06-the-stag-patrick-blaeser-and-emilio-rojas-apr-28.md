@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 6
 type: ""
+venue: "The STAG"
 summary: "The STAG | Patrick Blaeser and Emilio Rojas | APR 28"
 ---
 
@@ -52,7 +53,7 @@ Patrick Blaeser
 Patrick Blaeser has a BFA in Photography form ECUAD and MFA 
 from the Glasgow School of Art. He uses a variety of mediums 
 including photography, textiles and illustration and to express 
-apocalyptic and Utopian attitudes. Blaeserâ€™s practice consists of 
+apocalyptic and Utopian attitudes. Blaeser’s practice consists of 
 examining society to pick apart issues through the lens of possible 
 futures and pasts. By reevaluating these fictions he tries to discover 
 new routes for understanding and adjusting those ideas and how 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an archival newsstand"
 emailDate: "Thu, 27 Apr 2017 08:21:16 -0700"
 number: 23
 type: "OPENING"
+venue: "UBC MASTER OF FINE ARTS GRADUATE EXHIBITION"
 summary: "UBC MASTER OF FINE ARTS GRADUATE EXHIBITION | CANDLE | MAY 5"
 ---
 

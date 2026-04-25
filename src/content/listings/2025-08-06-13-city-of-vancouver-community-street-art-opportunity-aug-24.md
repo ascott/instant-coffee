@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Draw a Blank"
 emailDate: "Tue, 05 Aug 2025 21:15:15 -0700"
 number: 13
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | Community Street Art Opportunity | AUG 24"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: how do we put this delicately?"
 emailDate: "Thu, 09 Jul 2009 09:45:24 -0700"
 number: 9
 type: ""
+venue: "VanDusen Botanical Garden"
 summary: "VanDusen Botanical Garden | Second Site II Artist Talks | JUL 12"
 ---
 

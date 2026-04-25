@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fashionable innovation"
 emailDate: "Thu, 17 Dec 2015 13:00:31 -0800"
 number: 6
 type: ""
+venue: "NEWS"
 summary: "NEWS | Artspeak | 0 | DEC 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 32
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Fermentation Feminism | 7PM | SEP 13"
 ---
 

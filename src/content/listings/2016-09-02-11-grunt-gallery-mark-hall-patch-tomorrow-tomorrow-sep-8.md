@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: (entrance in back alley)"
 emailDate: "Thu, 01 Sep 2016 17:20:04 -0700"
 number: 11
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | Mark Hall-Patch: Tomorrow, Tomorrow | SEP 8"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is a constant"
 emailDate: "Wed, 05 Nov 2008 23:20:06 -0800"
 number: 19
 type: ""
+venue: "JOB"
 summary: "JOB | Forest City Gallery | Position Available: Director | London, ON | NOV 21"
 ---
 
@@ -60,27 +61,27 @@ Maintain a clean, well organized, safe working environment
 
 Qualifications:
 
-Ã¢ï¿½Â¢ A post-secondary degree in visual arts/visual studies/museum studies
+â�¢ A post-secondary degree in visual arts/visual studies/museum studies
 and/or demonstrated experience in artist-run centres, not-for-profit
 organizations, public/private galleries or museums
-Ã¢ï¿½Â¢ A thorough knowledge of contemporary cultural practices on a local,
+â�¢ A thorough knowledge of contemporary cultural practices on a local,
 national and international level
-Ã¢ï¿½Â¢ Proven experience working with budgets, researching and writing
+â�¢ Proven experience working with budgets, researching and writing
 government and foundation grants
-Ã¢ï¿½Â¢ Effective interpersonal skills and the ability to work in partnership
+â�¢ Effective interpersonal skills and the ability to work in partnership
 with the FCG Board, committees, artists and community members
-Ã¢ï¿½Â¢ Experience managing volunteers and event planning
-Ã¢ï¿½Â¢ Exceptional organizational and written skills
-Ã¢ï¿½Â¢ A strong working knowledge of various Mac applications (word,
+â�¢ Experience managing volunteers and event planning
+â�¢ Exceptional organizational and written skills
+â�¢ A strong working knowledge of various Mac applications (word,
 spreadsheets, graphics, web)
-Ã¢ï¿½Â¢ Ability to work comfortably with A/V Technology
+â�¢ Ability to work comfortably with A/V Technology
 
 Application must include:
 
-Ã¢ï¿½Â¢ A cover letter outlining your experience and interest and relevant skills
+â�¢ A cover letter outlining your experience and interest and relevant skills
 as they relate to artists an run centre
-Ã¢ï¿½Â¢ A current CV
-Ã¢ï¿½Â¢ Names of three references with contact information
+â�¢ A current CV
+â�¢ Names of three references with contact information
 
 Salary: 30,940.00 annually
 The successful candidate will receive four weeks paid vacation in the

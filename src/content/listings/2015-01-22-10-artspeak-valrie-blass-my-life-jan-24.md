@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: opacity, subterfuge and repetition
 emailDate: "Thu, 22 Jan 2015 12:46:31 -0800"
 number: 10
 type: "OPENING"
+venue: "Artspeak"
 summary: "Artspeak | VALÉRIE BLASS: MY LIFE | JAN 24"
 ---
 

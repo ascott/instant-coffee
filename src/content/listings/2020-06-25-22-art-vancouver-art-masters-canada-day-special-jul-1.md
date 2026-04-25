@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 22
 type: "EVENT"
+venue: "Art Vancouver"
 summary: "Art Vancouver | Art Masters: Canada Day Special | JUL 1"
 ---
 

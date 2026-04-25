@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: no excuses"
 emailDate: "Thu, 02 Jul 2009 08:30:59 -0700"
 number: 8
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Tour with Lee Henderson | JUL 14"
 ---
 

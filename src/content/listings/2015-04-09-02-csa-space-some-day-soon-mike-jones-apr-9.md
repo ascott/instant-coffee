@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 2
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Some Day Soon - Mike Jones | APR 9"
 ---
 

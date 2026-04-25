@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Wishy-Washy Bodies"
 emailDate: "Wed, 25 Oct 2017 20:35:04 -0700"
 number: 2
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Carriers | OCT 26"
 ---
 

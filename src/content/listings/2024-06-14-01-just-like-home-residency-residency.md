@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 1
 type: "CALL"
+venue: "Just Like Home Residency residency"
 summary: "Just Like Home Residency residency"
 ---
 

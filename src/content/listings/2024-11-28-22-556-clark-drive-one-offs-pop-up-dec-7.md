@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 22
 type: "EVENT"
+venue: "556 Clark Drive"
 summary: "556 Clark Drive | One-Offs Pop Up | DEC 7"
 ---
 

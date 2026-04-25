@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 32
 type: "EVENT"
+venue: "Robson Square Rink"
 summary: "Robson Square Rink | The n Games | 11AM | APR 6"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 18
 type: "FUNDRAISER"
+venue: "Peripheral Review"
 summary: "Peripheral Review | 2023 Fundraiser Auction | SEP 29"
 ---
 

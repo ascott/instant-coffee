@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 1
 type: "CALL"
+venue: "Self-Directed Artist in Residence (Vernon, BC)"
 summary: "Self-Directed Artist in Residence (Vernon, BC) | Call for Applications | Ongoing"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 11
 type: ""
+venue: "Sunset Terrace"
 summary: "Sunset Terrace | The Happy Hour cassette lounge with Late Cuts | JUL 26"
 ---
 
@@ -34,7 +35,7 @@ booths available for intimate replays - tape dubbing station to multiply your
 choice tracks! Art supplies for cover jamming - Cheap drinks available all 
 night!
 
-FEATURINâ€™ mix TAPES by:
+FEATURIN’ mix TAPES by:
 
 Nafisa Kaptownwala
 Nick Howe
@@ -63,11 +64,11 @@ Maya Baudry
 Flip Jupiter
 Moo Paget
 Logan Sturrock
-Johan BjÃ¶rck 
+Johan Björck 
 Lamb Shiveral
 Sharona Franklin
 Prichard Macfarlene
-Flyinâ€™
+Flyin’
 Bobby Socks
 Kyle Bee
 Arritudes In Error

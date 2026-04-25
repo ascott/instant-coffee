@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 5
 type: ""
+venue: "Helen Pitt"
 summary: "Helen Pitt | Weekend Leisure | PUBLIC ACCESS: 1999 & Beyond | MAR 25"
 ---
 

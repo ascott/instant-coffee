@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: getting that sideways feeling you 
 emailDate: "Thu, 20 Nov 2008 00:00:07 -0800"
 number: 14
 type: "OPENING"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | open house | NOV 29"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 13
 type: "OPENING"
+venue: "SCA Audain Gallery"
 summary: "SCA Audain Gallery | Oscar Tuazon: What Trees Need | JAN 16"
 ---
 

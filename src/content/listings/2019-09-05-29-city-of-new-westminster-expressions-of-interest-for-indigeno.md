@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 29
 type: "CALL"
+venue: "City of New Westminster"
 summary: "City of New Westminster | Expressions of interest for Indigenous Artists | SEP 12"
 ---
 

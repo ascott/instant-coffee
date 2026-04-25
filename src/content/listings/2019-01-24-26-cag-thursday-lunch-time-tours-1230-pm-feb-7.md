@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 26
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Thursday Lunch Time Tours | 12:30 pm | FEB 7"
 ---
 

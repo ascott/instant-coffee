@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 16
 type: "OPENING"
+venue: "Paneficio Gallery"
 summary: "Paneficio Gallery | After the Rains | MAY 4"
 ---
 

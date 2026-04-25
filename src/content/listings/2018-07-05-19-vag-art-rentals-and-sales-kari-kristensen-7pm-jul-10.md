@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Backward Glance"
 emailDate: "Thu, 05 Jul 2018 06:50:04 -0700"
 number: 19
 type: "TALK"
+venue: "VAG - Art Rentals and Sales"
 summary: "VAG - Art Rentals and Sales | Kari Kristensen | 7PM | JUL 10"
 ---
 

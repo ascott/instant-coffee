@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 34
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | H.R. MacMillan Space Centre | Laraaji with Ramzi at The Planetarium | APR 23"
 ---
 
@@ -35,5 +36,5 @@ Vancouver (via Montreal) producer Phoebe Guillemot locks into hypnotic,
 tropically tinged grooves through both ambient and more overtly rhythmic
 experimentations in digital pop for meditative, imagistic and heavily
 immersive realms of melody and digital psychedelia. Following the acclaimed
-(self-released) "BÃƒâ€°BiTES" and "Etwal Timoun" on Total Statis, Ramzi builds
+(self-released) "BÃ‰BiTES" and "Etwal Timoun" on Total Statis, Ramzi builds
 a one-off performance of warm, comfort-pursuing ambience.

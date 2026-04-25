@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 53
 type: "CALL"
+venue: "Britrannia Artist Grant Program"
 summary: "Britrannia Artist Grant Program | Call for Applications | DEC 31"
 ---
 

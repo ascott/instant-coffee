@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bring modesty back"
 emailDate: "Thu, 23 Jan 2014 11:40:37 -0800"
 number: 2
 type: ""
+venue: "Macaulay Fine Art"
 summary: "Macaulay Fine Art | Brad Phillips | JAN 23"
 ---
 

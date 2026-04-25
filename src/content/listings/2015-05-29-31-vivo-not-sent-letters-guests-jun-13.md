@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: liquidate"
 emailDate: "Thu, 28 May 2015 18:05:33 -0700"
 number: 31
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | NOT SENT LETTERS & GUESTS | JUN 13"
 ---
 
@@ -59,7 +60,7 @@ hints at the impact of technological embodiment upon psychological being.
 KAREN KNIGHTS & CRISTA DAHL (a past librarian and current committee member
 of the Crista Dahl Media Library & Archive -- and an original member of the
 Satellite Video Exchange Society responsible for the formation and
-continued maintenance of VIVOâ€™s archive) debut Predict My Future For Free.
+continued maintenance of VIVO’s archive) debut Predict My Future For Free.
 Through readings of early manifestos, forgotten correspondence, arcane
 notations, and imagery, disparate pathways to an imagined future are
 traced; pulled from the remnant hoard of sporadic intercourse between
@@ -82,7 +83,7 @@ Kitsilano Ratepayer's Association (KRA), a group of property owners in
 Vancouver's west side neighbourhood, and is an artifact of its coordinated
 efforts. As historian Daniel Ross has shown, defining the â€œhippy problemâ€ 
 was a way for neighbourhood elites to make sense of, and control, the new
-identities converging in Kitsilano, â€œbased on a youthful and sometimes
+identities converging in Kitsilano, “based on a youthful and sometimes
 hedonistic exploration of alternatives to middle-class values and consumer
 capitalism."
 

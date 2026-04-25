@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 8
 type: "OPENING"
+venue: "BC Artscape"
 summary: "BC Artscape | Sun Wah Centre | 2019 MAU Calendar | 6-9PM | JAN 11"
 ---
 

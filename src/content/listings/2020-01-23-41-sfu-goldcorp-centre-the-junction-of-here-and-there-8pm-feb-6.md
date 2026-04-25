@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Razzle Dazzle"
 emailDate: "Thu, 23 Jan 2020 08:20:11 -0800"
 number: 41
 type: "PERFORMANCE"
+venue: "SFU Goldcorp Centre"
 summary: "SFU Goldcorp Centre | The Junction of Here and There | 8PM | FEB 6-8 | FEB 6"
 ---
 

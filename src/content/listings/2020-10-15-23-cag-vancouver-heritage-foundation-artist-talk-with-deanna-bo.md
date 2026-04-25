@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 23
 type: "EVENT"
+venue: "CAG & Vancouver Heritage Foundation"
 summary: "CAG & Vancouver Heritage Foundation | Artist Talk with Deanna Bowen | OCT 21"
 ---
 

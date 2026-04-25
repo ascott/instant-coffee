@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hick up"
 emailDate: "Thu, 12 Feb 2009 10:00:15 -0800"
 number: 20
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Build your own FM Transmitter workshop | FEB 20"
 ---
 

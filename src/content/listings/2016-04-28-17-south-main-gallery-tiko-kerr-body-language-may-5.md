@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the idea of a coastal haven"
 emailDate: "Thu, 28 Apr 2016 11:26:38 -0700"
 number: 17
 type: "OPENING"
+venue: "South Main Gallery"
 summary: "South Main Gallery | Tiko Kerr: Body Language | MAY 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 16
 type: "EVENT"
+venue: "Dude Chilling"
 summary: "Dude Chilling | ?ummer Zine Zocial | 10AM | AUG 24"
 ---
 

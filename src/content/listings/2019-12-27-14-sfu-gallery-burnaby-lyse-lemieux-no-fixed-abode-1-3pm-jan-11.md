@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Druidry"
 emailDate: "Thu, 26 Dec 2019 16:40:09 -0800"
 number: 14
 type: "OPENING"
+venue: "SFU Gallery (Burnaby)"
 summary: "SFU Gallery (Burnaby) | Lyse Lemieux: No Fixed Abode | 1-3PM | JAN 11"
 ---
 

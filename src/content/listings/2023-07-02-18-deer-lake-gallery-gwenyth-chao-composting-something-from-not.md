@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 18
 type: "EXHIBITION"
+venue: "Deer Lake Gallery"
 summary: "Deer Lake Gallery | Gwenyth Chao: compos(t)ing something from nothing | JUL 8"
 ---
 

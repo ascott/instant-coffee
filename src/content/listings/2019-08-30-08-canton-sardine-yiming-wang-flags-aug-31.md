@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 8
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Yiming Wang: Flags | AUG 31"
 ---
 

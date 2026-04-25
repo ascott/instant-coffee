@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sang Song"
 emailDate: "Thu, 14 Dec 2017 11:15:03 -0800"
 number: 16
 type: "CALL"
+venue: "Britannia Artist Grant Program 2017"
 summary: "Britannia Artist Grant Program 2017 | DEC 31"
 ---
 

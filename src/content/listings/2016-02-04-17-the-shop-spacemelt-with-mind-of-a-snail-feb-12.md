@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 17
 type: "PERFORMANCE"
+venue: "The Shop"
 summary: "The Shop | SpaceMelt with Mind of a Snail | FEB 12"
 ---
 

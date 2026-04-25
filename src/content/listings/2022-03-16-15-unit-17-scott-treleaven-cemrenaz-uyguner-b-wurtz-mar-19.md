@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: do redo repeat"
 emailDate: "Wed, 16 Mar 2022 13:10:15 -0700"
 number: 15
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Scott Treleaven, Cemrenaz Uyguner & B. Wurtz | MAR 19"
 ---
 

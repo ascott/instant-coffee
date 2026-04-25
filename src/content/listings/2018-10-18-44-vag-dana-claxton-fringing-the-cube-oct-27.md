@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 44
 type: "EXHIBITION"
+venue: "VAG"
 summary: "VAG | Dana Claxton: Fringing the Cube | OCT 27"
 ---
 

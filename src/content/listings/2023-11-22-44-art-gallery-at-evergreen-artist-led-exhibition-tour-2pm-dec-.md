@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 44
 type: "TALK"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | Artist-led Exhibition Tour | 2PM | DEC 9"
 ---
 

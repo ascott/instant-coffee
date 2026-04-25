@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfunny Colours & Visual Hiccups"
 emailDate: "Wed, 30 Aug 2023 09:15:06 -0700"
 number: 8
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Life = Absurd | 12PM | SEP 2"
 ---
 

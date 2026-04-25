@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 15
 type: "EXHIBITION"
+venue: "U N I T 1 7"
 summary: "U N I T 1 7 | \"Infinity Ball\" | MAR 13"
 ---
 

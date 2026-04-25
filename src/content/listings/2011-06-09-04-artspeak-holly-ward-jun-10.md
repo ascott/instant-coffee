@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 4
 type: ""
+venue: "ARTSPEAK"
 summary: "ARTSPEAK | Holly Ward | JUN 10"
 ---
 
@@ -43,5 +44,5 @@ Republic Gallery (Vancouver).
 
 * Tel. 604.688.0051
 * Fax 604.685.1912
-* Tuesday â€“ Saturday, 12-5pm
+* Tuesday – Saturday, 12-5pm
 * Admission is free

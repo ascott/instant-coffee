@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 1
 type: "EXHIBITION"
+venue: "Red Gate Art Gallery"
 summary: "Red Gate Art Gallery | So Far.a Bunch Of Faces: Jesse Blanchard | APR 23"
 ---
 

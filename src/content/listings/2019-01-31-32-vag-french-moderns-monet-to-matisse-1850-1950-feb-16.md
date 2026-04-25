@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 32
 type: "OPENING"
+venue: "VAG"
 summary: "VAG | French Moderns: Monet to Matisse, 1850 - 1950 | FEB 16"
 ---
 

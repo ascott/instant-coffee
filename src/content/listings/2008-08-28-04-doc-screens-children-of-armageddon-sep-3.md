@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 4
 type: ""
+venue: "DOC SCREENS"
 summary: "DOC SCREENS | Children of Armageddon | SEP 3"
 ---
 
@@ -41,7 +42,7 @@ Festival.
 Children of Armageddon was produced by Vancouverâ&#65533;&#65533;s Red Letter Films, one of
 a select few francophone production companies outside of Quebec and France.
 
-Produced with the participation of SociÃ©tÃ© Radio-Canada, and of the RÃ©seau
+Produced with the participation of Société Radio-Canada, and of the Réseau
 de lâ&#65533;&#65533;Information (Radio-Canada), the Canadian Television Fund created by
 the Government of Canada and the Canadian Cable Industry, Rogers
 Documentary Fund, the Canadian Independent Film and Video Fund, The

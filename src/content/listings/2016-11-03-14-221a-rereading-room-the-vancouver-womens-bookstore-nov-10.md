@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AND...2"
 emailDate: "Thu, 03 Nov 2016 11:00:15 -0700"
 number: 14
 type: "OPENING"
+venue: "221a"
 summary: "221a | Rereading Room: The Vancouver Women's Bookstore | NOV 10"
 ---
 

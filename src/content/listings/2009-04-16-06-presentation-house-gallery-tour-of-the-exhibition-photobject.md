@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it's not easy being this hypermobi
 emailDate: "Thu, 16 Apr 2009 08:50:13 -0700"
 number: 6
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | TOUR of the exhibition phot(o)bjects | APR 18"
 ---
 

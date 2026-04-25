@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 8
 type: "OPENING"
+venue: "SPACE 554 Clark Dr"
 summary: "SPACE 554 Clark Dr | OSA-1 | 6PM | JUL 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 7
 type: "EXHIBITION"
+venue: "Delbrook Community Center"
 summary: "Delbrook Community Center | Feeling the Pull | JUN 10"
 ---
 

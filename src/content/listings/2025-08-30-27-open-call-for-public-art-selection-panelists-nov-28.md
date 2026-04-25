@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 27
 type: "CALL"
+venue: "Open Call for Public Art Selection Panelists"
 summary: "Open Call for Public Art Selection Panelists | NOV 28"
 ---
 

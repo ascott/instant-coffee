@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SCHISM"
 emailDate: "Thu, 07 Mar 2013 11:10:59 -0800"
 number: 12
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Gallery Talk; Magnolia Pauke | MAR 12"
 ---
 

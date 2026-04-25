@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 49
 type: "EDUCATION"
+venue: "VIVO"
 summary: "VIVO | Intro to Music Production & Ableton Live | APR 23"
 ---
 

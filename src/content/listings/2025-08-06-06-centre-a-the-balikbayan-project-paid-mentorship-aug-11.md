@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Draw a Blank"
 emailDate: "Tue, 05 Aug 2025 21:15:15 -0700"
 number: 6
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | The Balikbayan Project paid mentorship | AUG 11"
 ---
 

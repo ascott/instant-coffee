@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Strange. The first time I've heard
 emailDate: "Thu, 14 Jan 2010 04:42:53 -0800"
 number: 6
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Laid Over To Cover : Weaving and Photography | JAN 16"
 ---
 

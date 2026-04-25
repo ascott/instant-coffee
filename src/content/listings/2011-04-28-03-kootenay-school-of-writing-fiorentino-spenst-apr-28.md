@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reaching the voracious masses"
 emailDate: "Thu, 28 Apr 2011 11:21:13 -0700"
 number: 3
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | FIORENTINO + SPENST | APR 28"
 ---
 
@@ -28,7 +29,7 @@ Books, 2006) which was shortlist...ed for the 2006 A.M. Klein Award
 for Poetry and Hello Serotonin (Coach House Books, 2004) and the 
 humour book Asthmatica (Insomniac Press, 2005). His most recent 
 editorial projects are the anthologies Career Suicide! Contemporary 
-Literary Humour (DC Books, 2003) and Post-Prairie â€“ a 
+Literary Humour (DC Books, 2003) and Post-Prairie – a 
 collaborative effort with Robert Kroetsch, (Talonbooks, 2005). He 
 lives in Montreal where he is the Editor of Matrix magazine and 
 Snare Books.

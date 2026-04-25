@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bubble Wrap"
 emailDate: "Thu, 18 May 2017 10:00:02 -0700"
 number: 8
 type: "FUNDRAISER"
+venue: "Vancouver Art Book Fair"
 summary: "Vancouver Art Book Fair | VABF Social Club: Comedy Special Fundraiser | MAY 20"
 ---
 

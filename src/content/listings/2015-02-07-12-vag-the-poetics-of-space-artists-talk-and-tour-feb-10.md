@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: making friends by accident"
 emailDate: "Sat, 07 Feb 2015 00:30:29 -0800"
 number: 12
 type: "TALK"
+venue: "VAG"
 summary: "VAG | The Poetics of Space Artists' Talk and Tour | FEB 10"
 ---
 
@@ -13,7 +14,7 @@ Tuesday, February 10, 7pm
 In the Gallery, 3rd Floor
 
 Exhibition co-curator Daina Augaitis leads this tour with exhibiting
-artists RenÃ©e Van Halm, Shelagh Keeley and Michael Drebert. Short
+artists Renée Van Halm, Shelagh Keeley and Michael Drebert. Short
 presentations about the works on display will explore cultural,
 phenomenological and conceptual approaches to considering space.
 
@@ -28,8 +29,8 @@ space; in the book Bachelard discusses the way our perceptions of shelter
 begin to delineate the very essence of how we think and imagine. Using this
 text as a starting point, the exhibition explores the symbolic meaning of
 spaces as tied to ideas of perception, memory, intimacy and experience.
-Inspired by CÃ©zanne's analytic approach to depicting space (on view in a
-concurrent exhibition at the Gallery in CÃ©zanne and the Modern), the first
+Inspired by Cézanne's analytic approach to depicting space (on view in a
+concurrent exhibition at the Gallery in Cézanne and the Modern), the first
 section of the exhibition, "Fracturing of Form," examines the ways artists
 have historically contended with conveying pictorial problems of depth on a
 two dimensional plane. The following area, "Psychic Weight of the

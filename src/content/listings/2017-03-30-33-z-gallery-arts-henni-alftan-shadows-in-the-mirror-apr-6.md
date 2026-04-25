@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 33
 type: "EXHIBITION"
+venue: "Z Gallery Arts"
 summary: "Z Gallery Arts | Henni Alftan | Shadows in the Mirror | APR 6"
 ---
 

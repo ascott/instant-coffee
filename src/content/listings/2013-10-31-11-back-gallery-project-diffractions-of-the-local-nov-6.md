@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: caressed or crushed"
 emailDate: "Thu, 31 Oct 2013 12:30:24 -0700"
 number: 11
 type: ""
+venue: "Back Gallery Project"
 summary: "Back Gallery Project | Diffractions of the Local | NOV 6"
 ---
 
@@ -28,10 +29,10 @@ morph, adapt and contribute to Vancouver's artistic landscape.
 Artists (part 1):
 
 Gabriela Aceves
-Nelly CÃ©sar
-Carlos ColÃ­n
-Guadalupe MartÃ­nez
-Manuel PiÃ±a
+Nelly César
+Carlos Colín
+Guadalupe Martínez
+Manuel Piña
 Emilio Rojas
 Josema Zamorano
 

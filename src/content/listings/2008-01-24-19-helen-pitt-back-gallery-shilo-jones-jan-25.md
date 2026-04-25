@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffee: donkey"
 emailDate: "Thu, 24 Jan 2008 09:06:45 -0800"
 number: 19
 type: ""
+venue: "Helen Pitt Back Gallery"
 summary: "Helen Pitt Back Gallery | Shilo Jones | JAN 25"
 ---
 

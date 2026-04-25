@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ain't no tea party"
 emailDate: "Thu, 04 Nov 2010 10:02:15 -0700"
 number: 23
 type: ""
+venue: "[ Artist Run Website Project]"
 summary: "[ Artist Run Website Project] | Call for Interest | DEC 30"
 ---
 

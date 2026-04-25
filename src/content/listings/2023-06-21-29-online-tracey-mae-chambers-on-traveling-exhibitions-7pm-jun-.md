@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 29
 type: "TALK"
+venue: "[ONLINE]"
 summary: "[ONLINE] | Tracey-Mae Chambers on Traveling Exhibitions | 7PM | JUN 28"
 ---
 

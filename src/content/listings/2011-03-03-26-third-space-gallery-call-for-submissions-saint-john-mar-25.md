@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Social Pickle"
 emailDate: "Thu, 03 Mar 2011 11:06:18 -0800"
 number: 26
 type: ""
+venue: "Third Space Gallery"
 summary: "Third Space Gallery | CALL FOR SUBMISSIONS Saint John | MAR 25"
 ---
 
@@ -18,7 +19,7 @@ with various organizations and
 establishments in the city of Saint John. Third Space will consider
 interdisciplinary submissions and
 is committed to representing local, regional and national professional
-contemporary artists. Weâ€™ll be
+contemporary artists. We’ll be
 looking for submissions of contemporary painting, sculpture, printmaking,
 performance projects, new
 media, or other works that look to engage the public in relevant topics of
@@ -39,12 +40,12 @@ include a weblink
 Artist CV (MAXIMUM 3 pages)
 Artist statement (250 words maximum)
 
-â€¢
-â€¢
-â€¢
-â€¢
-â€¢
-â€¢
+•
+•
+•
+•
+•
+•
 
 In your cover letter please indicate if you can offer an artist-talk,
 workshop or presentation, and to
@@ -54,7 +55,7 @@ university that does not have a fine arts program, thus third space gallery
 strives to fulfill a critical
 pedagogical role towards the diffusion of contemporary art.
 
-Proposals can be emailed to: tiersespace@gmail.com with â€˜Submission 2011â€™
+Proposals can be emailed to: tiersespace@gmail.com with ‘Submission 2011’
 in the subject line.
 
 Proposals can be sent via post to:
@@ -65,7 +66,7 @@ Disclaimer: Third Space Gallery is not responsible for lost items. If
 sufficient postage is not included on a
 self-addressed, stamped envelope the materials will not be returned.
 
-Third Space Gallery is committed to paying artistâ€™s fees as outlined in the
+Third Space Gallery is committed to paying artist’s fees as outlined in the
 CARFAC fee schedule.
 
 For more information please contact the gallery at (506) 650-1634 or

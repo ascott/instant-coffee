@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Usury Mucus"
 emailDate: "Wed, 22 May 2024 21:00:17 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Prophouse: an exhibition of 1 million objects | MAY 17"
 ---
 

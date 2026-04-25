@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  glimpses of glitter on catching o
 emailDate: "Thu, 04 Apr 2013 11:55:45 -0700"
 number: 19
 type: ""
+venue: "King Alt Film and Video Festival"
 summary: "King Alt Film and Video Festival | CALL | JUN 20"
 ---
 

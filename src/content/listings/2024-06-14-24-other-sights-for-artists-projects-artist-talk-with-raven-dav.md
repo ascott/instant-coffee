@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 24
 type: "TALK"
+venue: "Other Sights for Artists' Projects"
 summary: "Other Sights for Artists' Projects | Artist Talk with Raven Davis and Bonnie Devine | JUN 22"
 ---
 

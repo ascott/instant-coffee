@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: ART IS EVERYDAY"
 emailDate: "Thu, 27 Oct 2011 12:30:17 -0700"
 number: 14
 type: ""
+venue: "Little Mountain Gallery"
 summary: "Little Mountain Gallery | Jason Gowans | NOV 4"
 ---
 
@@ -15,7 +16,7 @@ V5V 2G8
 I'm doing everything I've always wanted, all the time, everyday.
 New works by Jason Gowans
 
-Wednesday November 2 â€“ 13th, Opening reception November 4, 7-9pm.
+Wednesday November 2 – 13th, Opening reception November 4, 7-9pm.
 
 Little Mountain Gallery presents "I'm doing everything I've always
 wanted, all the time, everyday", a solo exhibition of new work by

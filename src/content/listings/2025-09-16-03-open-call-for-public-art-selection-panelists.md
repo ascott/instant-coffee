@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: cave cave"
 emailDate: "Tue, 16 Sep 2025 01:50:18 -0700"
 number: 3
 type: "CALL"
+venue: "Open Call for Public Art Selection Panelists"
 summary: "Open Call for Public Art Selection Panelists"
 ---
 

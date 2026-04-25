@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Slippery hand reaches slippery tai
 emailDate: "Thu, 19 Jul 2018 17:25:10 -0700"
 number: 25
 type: "CALL"
+venue: "City of Richmond Public Art Opportunity"
 summary: "City of Richmond Public Art Opportunity | Request for Qualifications | AUG 9"
 ---
 

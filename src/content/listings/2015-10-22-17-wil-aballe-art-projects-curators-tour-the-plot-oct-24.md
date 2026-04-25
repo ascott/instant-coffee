@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: part man part lama demon"
 emailDate: "Thu, 22 Oct 2015 13:00:43 -0700"
 number: 17
 type: "TALK"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Curator's Tour: The Plot | OCT 24"
 ---
 

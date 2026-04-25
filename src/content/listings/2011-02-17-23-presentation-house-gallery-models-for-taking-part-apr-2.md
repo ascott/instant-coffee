@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is elementally fundamental. HELL Y
 emailDate: "Thu, 17 Feb 2011 11:28:21 -0800"
 number: 23
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | MODELS FOR TAKING PART | APR 2"
 ---
 

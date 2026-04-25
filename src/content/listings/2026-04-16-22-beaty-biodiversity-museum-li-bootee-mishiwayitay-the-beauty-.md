@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 22
 type: ""
+venue: "Beaty Biodiversity Museum"
 summary: "Beaty Biodiversity Museum | Li Bootee Mishiwayitay — The Beauty of It All | APR 25"
 ---
 

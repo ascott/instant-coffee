@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 25
 type: "EVENT"
+venue: "Grosvenor Ambleside"
 summary: "Grosvenor Ambleside | Art & Scotch | 6PM | JUL 25"
 ---
 

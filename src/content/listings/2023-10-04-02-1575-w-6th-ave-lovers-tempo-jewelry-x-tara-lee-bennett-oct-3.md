@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pony Boi"
 emailDate: "Wed, 04 Oct 2023 08:00:21 -0700"
 number: 2
 type: ""
+venue: "1575 W 6th Ave"
 summary: "1575 W 6th Ave | Lover's Tempo Jewelry x Tara Lee Bennett | OCT 3"
 ---
 

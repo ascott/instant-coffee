@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not backwards"
 emailDate: "Thu, 04 Jan 2018 08:20:18 -0800"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema at the Cinematheque | Symbiopsychotaxiplasm (Take One) | JAN 24"
 ---
 

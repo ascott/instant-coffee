@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing your altitude"
 emailDate: "Thu, 08 Apr 2010 08:55:19 -0700"
 number: 14
 type: ""
+venue: "THE WALL, CBC Plaz"
 summary: "THE WALL, CBC Plaz | Eric Deis, Last Chance | APR 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 2
 type: "OPENING"
+venue: "Ladner Pioneer Library"
 summary: "Ladner Pioneer Library | The Cactus Packing Project | SEP 17"
 ---
 
@@ -48,7 +49,7 @@ Packing Plant.)
 The Cactus Packing Project is an ongoing collaboration/travelling
 exhibition by Filipino artist, Christian Vistan in Delta, BC and potter,
 Jasmine Baetz in Boston, MA. This will be the second iteration/stop of
-The Cactus Packing Projectâ€”the first, as part of a group exhibition,
+The Cactus Packing Project—the first, as part of a group exhibition,
 Four Significant Landscapes, at The Packing Plant, an artist-run project
 space located in Nashville, TN. This iteration of The Cactus Packing
 Project at the Ladner Pioneer Library involves several cacti shipped

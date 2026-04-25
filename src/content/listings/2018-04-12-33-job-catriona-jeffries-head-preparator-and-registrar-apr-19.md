@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 33
 type: ""
+venue: "JOB"
 summary: "JOB | Catriona Jeffries | Head Preparator and Registrar | APR 19"
 ---
 

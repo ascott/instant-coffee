@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 17
 type: "EVENT"
+venue: "Gibsons Public Art Gallery"
 summary: "Gibsons Public Art Gallery | Closing Reception | 2PM | APR 27"
 ---
 

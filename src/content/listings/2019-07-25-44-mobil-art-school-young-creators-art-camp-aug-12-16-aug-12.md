@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Ufe"
 emailDate: "Thu, 25 Jul 2019 09:05:54 -0700"
 number: 44
 type: "EDUCATION"
+venue: "Mobil Art School"
 summary: "Mobil Art School | Young creators art camp | AUG 12-16 | AUG 12"
 ---
 

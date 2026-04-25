@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pearls of People"
 emailDate: "Thu, 24 Oct 2024 20:20:10 -0700"
 number: 4
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | CALIFORNIA Ido Radon | OCT 5"
 ---
 

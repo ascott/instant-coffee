@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Chance of Dust"
 emailDate: "Thu, 13 Jun 2019 06:20:58 -0700"
 number: 54
 type: "TALK"
+venue: "Republic Gallery"
 summary: "Republic Gallery | Marian Penner Bancroft | 630PM | JUN 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: oh cool, its XXI century art"
 emailDate: "Thu, 02 Feb 2012 09:25:29 -0800"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery | Guo Fengyi, Frances Stark and Scott Massey | FEB 2"
 ---
 
@@ -29,7 +30,7 @@ and myth. Her large scale works comprise intricate details and
 obsessive mark making which articulate ideas of spiritual and 
 metaphysical significance.
 
-Above image: Guo Fengyi, Enlightment of Yi Chin â€“ the Divination 
+Above image: Guo Fengyi, Enlightment of Yi Chin – the Divination 
 Methods of Guo Le and Guo Die, 1990, Mixed media on paper, 
 Courtesy Long March Space, Beijing.
 
@@ -48,8 +49,8 @@ Emily Carr Lecture Theatre
 Emily Carr University of Art + Design, 1399 Johnston Street Granville 
 Island
 
-The Contemporary Art Gallery presents Frances Starkâ€™s first feature 
-length animation My Best Thing. Premiered at last yearâ€™s 2011 Venice 
+The Contemporary Art Gallery presents Frances Stark’s first feature 
+length animation My Best Thing. Premiered at last year’s 2011 Venice 
 Biennale this compelling work is presented as a large scale projection.
 
 In My Best Thing transcripts of on-line sex chat room discussions 
@@ -89,7 +90,7 @@ and the mutable connections between them.
 
 Aurorae draws our attention to the shifting nature of light. By giving 
 substance to the intangible, Massey creates a subtle animation of the 
-faÃ§ade creating an effect suggesting fluidity within the structure.
+façade creating an effect suggesting fluidity within the structure.
 
 In Via Lactea (above Glacier Lake) at the Yaletown‐Roundhouse 
 Station, Massey deftly combines 171 narrow‐field photographs of the 

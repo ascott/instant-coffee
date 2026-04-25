@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: why do good things happen to bad p
 emailDate: "Thu, 14 Oct 2010 11:55:39 -0700"
 number: 10
 type: ""
+venue: "CAG and EVERY LETTER IN THE ALPHABET"
 summary: "CAG and EVERY LETTER IN THE ALPHABET | Slide Show by KYLA MALLETT | OCT 20"
 ---
 

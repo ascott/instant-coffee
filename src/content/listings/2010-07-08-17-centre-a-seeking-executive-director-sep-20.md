@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: attention seeking hoarders"
 emailDate: "Thu, 08 Jul 2010 09:10:17 -0700"
 number: 17
 type: ""
+venue: "Centre A"
 summary: "Centre A | Seeking: EXECUTIVE DIRECTOR | SEP 20"
 ---
 
@@ -14,7 +15,7 @@ Salary range: $45,000 - $60,000
 
 Are you a passionate and creative individual with amazing interpersonal
 skills? Do you have the vision and drive to help shape the future of one of
-Canadaâ€™s important public galleries? The Vancouver International Centre for
+Canada’s important public galleries? The Vancouver International Centre for
 Contemporary Asian Art (Centre A) is seeking an Executive Director to build
 on its accomplishments and lead its future development. Centre A was
 founded in 1999 in order to establish a major Canadian centre for

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet & Sour Face"
 emailDate: "Thu, 27 Dec 2018 07:36:04 -0800"
 number: 5
 type: "EXHIBITION"
+venue: "VAG - Art Rentals and Sales"
 summary: "VAG - Art Rentals and Sales | Cameron McLellan | JAN 7"
 ---
 

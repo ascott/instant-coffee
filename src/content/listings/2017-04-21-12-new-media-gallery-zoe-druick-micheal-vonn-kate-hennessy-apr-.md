@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 12
 type: "TALK"
+venue: "New Media Gallery"
 summary: "New Media Gallery | Zoe Druick, Micheal Vonn, Kate Hennessy | APR 22"
 ---
 

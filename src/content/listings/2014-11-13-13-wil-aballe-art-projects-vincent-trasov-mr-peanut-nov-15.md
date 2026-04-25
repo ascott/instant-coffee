@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like the First Time"
 emailDate: "Thu, 13 Nov 2014 14:50:14 -0800"
 number: 13
 type: "OPENING"
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | VINCENT TRASOV | MR. PEANUT | NOV 15"
 ---
 
@@ -33,12 +34,12 @@ www.WAAPart.com
 
 Artist Vincent Trasov ran for mayor of Vancouver in 1974 as Mr. Peanut.
 Vincent Trasov was also a founder member of the Western Front. With the
-help of Vancouver artistsâ€™ community he ran for an Art City on an
+help of Vancouver artists’ community he ran for an Art City on an
 art-centric platform: P for Performance, E for Elegance, A for Art, N for
-Nonsense, U for Uniqueness, and T for Talent Mr Peanut didnâ€™t win the
+Nonsense, U for Uniqueness, and T for Talent Mr Peanut didn’t win the
 election but captured a lot of media and the attention of City Hall.
-Trasovâ€™s performance brought Vancouver to national and international
-attention and received features in Esquire magazine and Andy Warholâ€™s
+Trasov’s performance brought Vancouver to national and international
+attention and received features in Esquire magazine and Andy Warhol’s
 Interview magazine. Beat writer William S Burroughs, who happened to be in
 town, endorsed his candidacy for Mayor:
 

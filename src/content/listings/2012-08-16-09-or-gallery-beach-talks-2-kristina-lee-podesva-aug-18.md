@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we could careless; we couldn't car
 emailDate: "Thu, 16 Aug 2012 10:50:34 -0700"
 number: 9
 type: ""
+venue: "Or Gallery"
 summary: "Or Gallery | Beach Talks 2: Kristina Lee Podesva | AUG 18"
 ---
 
@@ -25,13 +26,13 @@ Part recitation, part listening party, Going Under takes inspiration from
 a reading of Herman Melvilleâ€™s 1888 â€œJohn Marrâ€  alongside a 
 presentation of sea shanties and African American work songs to 
 broadly explore coping in â€œsinking shipâ€  times. In such a milieu, not 
-unlike our own, Podesva asks what is or might be the artistâ€™s 
+unlike our own, Podesva asks what is or might be the artist’s 
 relationship to society? Is this dynamic one structured by obsolescence 
 or consequence, solidarity or passivity, camaraderie or alienation? How 
 can we develop a practice that goes beyond basic survival to the 
 articulation of demands and dreams?
 
-This talk will depart from the evidence left in Melvilleâ€™s story, published 
+This talk will depart from the evidence left in Melville’s story, published 
 just before his death in 1891, and will encourage the development of 
 new strategies and relations tailored to our own time and terrain. 
 Copies of â€œJohn Marrâ€  will be made available at the talk.

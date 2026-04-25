@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 7
 type: "EVENT"
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | Doug Wideen: Crocodile Love | 7PM | OCT 17"
 ---
 

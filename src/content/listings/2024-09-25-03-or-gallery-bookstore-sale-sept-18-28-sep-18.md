@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 3
 type: "EVENT"
+venue: "Or Gallery"
 summary: "Or Gallery | Bookstore Sale | SEPT 18-28 | SEP 18"
 ---
 

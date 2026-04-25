@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: innocence at home"
 emailDate: "Thu, 05 Mar 2015 13:36:08 -0800"
 number: 25
 type: "TALK"
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Countercultures Forum | MAR 15"
 ---
 

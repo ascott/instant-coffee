@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unparaphrasable and Schizzed Out"
 emailDate: "Wed, 19 Jul 2023 09:05:47 -0700"
 number: 14
 type: ""
+venue: "JOB"
 summary: "JOB | Uno Langmann Limited Fine Art | Admin Assistant | JUL 23"
 ---
 

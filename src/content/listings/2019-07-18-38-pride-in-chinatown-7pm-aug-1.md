@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 38
 type: "EXHIBITION"
+venue: "Pride in Chinatown"
 summary: "Pride in Chinatown | 7PM | AUG 1"
 ---
 

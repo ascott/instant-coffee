@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 41
 type: "EVENT"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Omnipresence Through the Instrumental | JUL 9"
 ---
 

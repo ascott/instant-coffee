@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 22
 type: "EVENT"
+venue: "Access Gallery"
 summary: "Access Gallery | The Foreshore: Eric Fredericksen and Dr. Cissie Fu | APR 4"
 ---
 

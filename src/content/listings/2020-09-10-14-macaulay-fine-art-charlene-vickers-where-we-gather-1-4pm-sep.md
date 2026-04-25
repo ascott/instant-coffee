@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Parallelepiped"
 emailDate: "Thu, 10 Sep 2020 06:00:03 -0700"
 number: 14
 type: "OPENING"
+venue: "Macaulay Fine Art"
 summary: "Macaulay Fine Art | CHARLENE VICKERS | WHERE WE GATHER | 1-4PM | SEP 12"
 ---
 

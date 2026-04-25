@@ -336,7 +336,7 @@ Ikbal Singh, will be silk-screening the logo of the collective, Albrecht
 Durerâ��s Sechs Kissen (6 Pillows), made in 1493. Please bring a t-shirt,
 paper, cloth or surface that you want the design to be silk-screened on.
 
-Covering Up, a project by Lois Klassen and Pierre-AndrÃ© Sonolet will also
+Covering Up, a project by Lois Klassen and Pierre-André Sonolet will also
 be presenting documentation. The project involved participants to impose
 the personal by using household linen and bedding on a rapidly changing
 urban landscape producing momentary gestures of resistance.
@@ -358,17 +358,17 @@ Alexandra Phillips, Naufus Ramirez-Figueroa, Emilio Rojas, Ikbal Singh.
 ------------------------------------------------------------------------
 ENSEMBLE SISYPHE : 01
 
-Conversations - HermÃ©nÃ©gilde Chiasson
+Conversations - Herménégilde Chiasson
 
-Andrea Young Â· voice
+Andrea Young · voice
 
-Robin Streb Â· viola
+Robin Streb · viola
 
-Chris Bagan Â· piano
+Chris Bagan · piano
 
-Works by Antoine Beuger Â· Andrea Young Â· AndrÃ© Cormier
+Works by Antoine Beuger · Andrea Young · André Cormier
 
-The Vancity Culture Lab Â· 1895 Venables Street, Vancouver
+The Vancity Culture Lab · 1895 Venables Street, Vancouver
 March 2 / 2010. 8.00 pm $10-$20
 
 ------------------------------------------------------------------------
@@ -399,7 +399,7 @@ Sydney Biennale (1992), Venice Biennale (1995, 2001), Istanbul Biennale
 
 Lum was Head of the Graduate Program in Studio Art at UBC from 2000 to
 2006, and spent 2 years as a visiting professor at the Ã�cole Nationale
-SupÃ©rieure des Beaux-Arts in Paris. He also guest-taught at the Akademie
+Supérieure des Beaux-Arts in Paris. He also guest-taught at the Akademie
 der Bildenden Kunst in Munich, Germany, the China Art Academy in Hangzhou,
 China and the lâ��Ecole dâ��Arts Plastique in Fort de France, Martinique. He
 has published widely and is the founding editor of Yishu: The Journal of
@@ -536,13 +536,13 @@ BLANKET
 
 Photogenic: Abstract Photography
 Markus Amm, Walead Beshty, Liz Deschenes,
-Lorna Macintyre, LÃ¡szlÃ³ Moholy-Nagy, Mark Soo, and James Welling
+Lorna Macintyre, László Moholy-Nagy, Mark Soo, and James Welling
 
 March 5 - April 10, 2010
 Opening Reception Friday March 5, 2010 6-9 pm
 
 Blanket is pleased to present a group exhibition of works by Markus Amm,
-Walead Beshty, Liz Deschenes, Lorna Macintyre, LÃ¡szlÃ³ Moholy-Nagy, Mark Soo,
+Walead Beshty, Liz Deschenes, Lorna Macintyre, László Moholy-Nagy, Mark Soo,
 and James Welling. The exhibition aims to look at diverse conceptual
 inquiries driving artists to investigate the application of abstraction in
 photography today. Beyond a set of formal similarities, the artists share
@@ -619,7 +619,7 @@ Harris Lieberman, New York, Francesca Kaufmann, Milan, Italy, Gagosian
 Gallery, New York and Akureyrar Art Museum, Iceland. Macintyre lives and
 works in Glasgow, UK.
 
-LÃ¡szlÃ³ Moholy-Nagy (born 1895, Bacsbarsod, Hungary - died 1946, Chicago) is
+László Moholy-Nagy (born 1895, Bacsbarsod, Hungary - died 1946, Chicago) is
 Hungarian painter, photographer, and art teacher. After studying law in
 Budapest, he went to Berlin in 1919, and in 1923 he took charge of the metal
 workshop of the Bauhaus as well as the Bauhausbook series of publications.
@@ -656,7 +656,7 @@ Los Angeles.
 
 The gallery would like to thank all participating artists, Miguel Abreu
 Gallery and Wallspace Gallery in New York, Karin Gunther Gallery in Hamburg,
-Mary Mary in Glasgow, Regen Projects in Los Angeles, the estate of LÃ¡szlÃ³
+Mary Mary in Glasgow, Regen Projects in Los Angeles, the estate of László
 Moholy-Nagy and Daniel Hug for making this exhibition possible.
 
 For more information please contact the gallery: info@blanketgallery.com or
@@ -680,7 +680,7 @@ info@galleryatsui.com
 ------------------------------------------------------------------------
 W2 Community Media Arts and SFU Visual Art Students Present:
 
-SFUÃ¢ï¿½ï¿½s Visual Art Student Show
+SFUâ��s Visual Art Student Show
 
 March 6-14, 2010
 Opening - Friday March 5, 7pm

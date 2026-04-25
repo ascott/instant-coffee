@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: best ingested in small doses"
 emailDate: "Thu, 01 Aug 2013 00:27:42 -0700"
 number: 7
 type: ""
+venue: "Kootenay School of Writing"
 summary: "Kootenay School of Writing | Robert Mittenthal, Will Owen and Maged Zaher | AUG 4"
 ---
 

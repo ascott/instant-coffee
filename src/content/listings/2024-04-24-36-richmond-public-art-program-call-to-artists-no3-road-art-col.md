@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 36
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Call to Artists, No.3 Road Art Columns | MAY 6"
 ---
 

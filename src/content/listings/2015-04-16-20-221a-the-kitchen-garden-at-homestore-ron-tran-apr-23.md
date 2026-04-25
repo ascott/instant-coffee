@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: applause"
 emailDate: "Thu, 16 Apr 2015 16:15:08 -0700"
 number: 20
 type: "OPENING"
+venue: "221A"
 summary: "221A | The Kitchen Garden at Home/Store - Ron Tran | APR 23"
 ---
 
 The Kitchen Garden at Home/Store
 Ron Tran
-April 9 â€“ May 23, 2015
+April 9 – May 23, 2015
 
 Reception: April 23, 7pm
 

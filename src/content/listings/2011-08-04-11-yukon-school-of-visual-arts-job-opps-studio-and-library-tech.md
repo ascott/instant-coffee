@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 11
 type: ""
+venue: "Yukon School of Visual Arts"
 summary: "Yukon School of Visual Arts | JOB OPPS: Studio and Library Technicians plus | AUG 17"
 ---
 

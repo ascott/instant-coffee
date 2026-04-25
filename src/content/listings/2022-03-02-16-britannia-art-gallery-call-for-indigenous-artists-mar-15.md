@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Houses of Credit Cards"
 emailDate: "Tue, 01 Mar 2022 21:15:02 -0800"
 number: 16
 type: "CALL"
+venue: "Britannia Art Gallery"
 summary: "Britannia Art Gallery | Call for Indigenous Artists | MAR 15"
 ---
 

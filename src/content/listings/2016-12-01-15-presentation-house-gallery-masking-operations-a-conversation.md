@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Saturn Returning Pleasures"
 emailDate: "Thu, 01 Dec 2016 09:41:25 -0800"
 number: 15
 type: "TALK"
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Masking Operations: A Conversation | DEC 4"
 ---
 

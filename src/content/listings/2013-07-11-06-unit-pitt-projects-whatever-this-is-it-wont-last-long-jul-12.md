@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 6
 type: ""
+venue: "Unit Pitt Projects"
 summary: "Unit Pitt Projects | Whatever This Is It Wont Last Long | JUL 12"
 ---
 

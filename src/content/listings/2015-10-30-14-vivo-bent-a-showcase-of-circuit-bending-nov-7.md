@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 14
 type: "EVENT"
+venue: "VIVO"
 summary: "VIVO | BENT: A Showcase of Circuit Bending | NOV 7"
 ---
 
@@ -12,7 +13,7 @@ BENT: A Showcase of Circuit Bending at VIVO
 Saturday, November 7th . Doors at 7pm
 2625 Kaslo Street, Vancouver, BC, Canada, BC V5M 3G9
 
-If youâ€™re remotely interested in electronics, experimental music, hacking,
+If you’re remotely interested in electronics, experimental music, hacking,
 or just want to get transported to another dimension, this event is worth
 visiting.
 

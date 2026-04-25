@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 34
 type: "EVENT"
+venue: "Publication Studio Vancouver/Selectors Records"
 summary: "Publication Studio Vancouver/Selectors Records | ISSUE 404 no.7 LAUNCH+FLEXER LISTENING PARTY | MAR 24"
 ---
 

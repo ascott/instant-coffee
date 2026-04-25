@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 20
 type: "OPENING"
+venue: "Kwantlen Polytechnic University [SURREY]"
 summary: "Kwantlen Polytechnic University [SURREY] | Quixotic | 6PM | APR 5"
 ---
 

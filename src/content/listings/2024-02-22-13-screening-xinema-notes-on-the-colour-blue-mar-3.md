@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 13
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | XINEMA | notes on the colour blue | MAR 3"
 ---
 

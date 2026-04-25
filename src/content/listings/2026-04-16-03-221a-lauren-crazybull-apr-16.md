@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bluhbluhbluh"
 emailDate: "Wed, 15 Apr 2026 21:56:19 -0700"
 number: 3
 type: ""
+venue: "221A"
 summary: "221A | Lauren Crazybull | APR 16"
 ---
 

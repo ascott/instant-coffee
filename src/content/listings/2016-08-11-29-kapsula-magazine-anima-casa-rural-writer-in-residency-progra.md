@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: extra-terrestrial discussion"
 emailDate: "Thu, 11 Aug 2016 11:15:22 -0700"
 number: 29
 type: "CALL"
+venue: "KAPSULA Magazine & ANIMA Casa Rural"
 summary: "KAPSULA Magazine & ANIMA Casa Rural | Writer in Residency Program | OCT 14"
 ---
 

@@ -4,7 +4,8 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we are demonstrative and we canno
 emailDate: "Thu, 17 Jan 2013 11:00:36 -0800"
 number: 10
 type: ""
-summary: "KSW | Iâ€™m In You, Youâ€™re In Me | JAN 19"
+venue: "KSW"
+summary: "KSW | I’m In You, You’re In Me | JAN 19"
 ---
 
 Saturday, January 19, 2013 @ 1:00 pm
@@ -12,7 +13,7 @@ Saturday, January 19, 2013 @ 1:00 pm
 Kootenay School of Writing 2012 
 237 Keefer Street, Unit 245
 
-Iâ€™m In You, Youâ€™re In Me 
+I’m In You, You’re In Me 
 
 A Kootenay School of Writing series of poets presenting poems / antipoems / 
 language. 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Unfortunately"
 emailDate: "Wed, 25 Jun 2025 19:40:14 -0700"
 number: 20
 type: "EVENT"
+venue: "Kelowna Art Gallery"
 summary: "Kelowna Art Gallery | Free Admission + Family Art Activities | JUL 1"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 8
 type: "OPENING"
+venue: "Shadbolt Centre for the Arts"
 summary: "Shadbolt Centre for the Arts | Unbound Gestures | 6PM | FEB 29"
 ---
 

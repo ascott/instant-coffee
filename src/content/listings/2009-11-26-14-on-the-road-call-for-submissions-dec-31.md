@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: CONSERVATORY TIMES"
 emailDate: "Thu, 26 Nov 2009 08:35:24 -0800"
 number: 14
 type: ""
+venue: "On The Road"
 summary: "On The Road | Call for Submissions | DEC 31"
 ---
 

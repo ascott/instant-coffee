@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Upper Side of the Sky"
 emailDate: "Thu, 15 Oct 2020 09:15:53 -0700"
 number: 16
 type: "EVENT"
+venue: "Catriona Jefferies (online)"
 summary: "Catriona Jefferies (online) | Tanya Lukin Linklater | OCT 17"
 ---
 

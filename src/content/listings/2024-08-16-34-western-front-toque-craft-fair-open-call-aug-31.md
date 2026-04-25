@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 34
 type: "CALL"
+venue: "Western Front"
 summary: "Western Front | Toque Craft Fair Open Call | AUG 31"
 ---
 

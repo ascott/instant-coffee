@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) instant coffeed"
 emailDate: "Thu, 07 Feb 2008 09:20:25 -0800"
 number: 11
 type: ""
+venue: "Antimatter Festival 2008"
 summary: "Antimatter Festival 2008 | Call for Entries"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Persnickety Bunburying"
 emailDate: "Thu, 21 Mar 2019 08:46:30 -0700"
 number: 45
 type: "TALK"
+venue: "Art Gallery at Evergreen (COQUITLAM)"
 summary: "Art Gallery at Evergreen (COQUITLAM) | Amalie Atkins: where the hour floats | 1030AM | APR 6"
 ---
 

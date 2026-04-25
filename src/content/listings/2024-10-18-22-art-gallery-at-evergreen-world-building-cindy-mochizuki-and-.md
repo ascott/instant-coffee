@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: NORMALIZATIONS"
 emailDate: "Thu, 17 Oct 2024 17:15:12 -0700"
 number: 22
 type: "TALK"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | World Building: Cindy Mochizuki and Shizuka Kai | NOV 6"
 ---
 

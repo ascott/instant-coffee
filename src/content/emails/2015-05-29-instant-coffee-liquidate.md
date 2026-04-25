@@ -66,7 +66,7 @@ Gallery. Following the presentations, the artists will engage in a
 conversation with each other and the audience, facilitated by Surrey Art
 Gallery Curator Jordan Strom. Subjects of the presentations and
 conversation will include: how the South of Fraser region inspires each
-artistâ€™s work; why itâ€™s important to them to make art that reveals the
+artist’s work; why it’s important to them to make art that reveals the
 history of change in this region; how artists seek to capture the present
 moment - â€œthe nowâ€  - through their work; and how their work explores ways
 of depicting the human figure. Admission to this event is free.
@@ -100,11 +100,11 @@ experimental and collaborative methods. Their work is situated in context
 to the rapidly growing â€œSouth of Fraserâ€  region of British Columbiaâ€™s Lower
 Mainland, comprising the municipalities of Surrey, Langley, Delta, and
 White Rock. In capturing the character(s) of a place that is constantly
-changing, the artists offer a brief interval in timeâ€”the present moment
+changing, the artists offer a brief interval in time—the present moment
 animated by the presence of individuals and places. This project is the
 second installment of Views from the Southbank, a trio of exhibitions
 featuring 70 local artists, almost all of whom are from the South of Fraser
-region, celebrating Surrey Art Galleryâ€™s 40th anniversary.
+region, celebrating Surrey Art Gallery’s 40th anniversary.
 
 Surrey Art Gallery gratefully acknowledges the support of the B.C. Arts
 Council, Canada Council for the Arts and the City of Surrey
@@ -130,9 +130,9 @@ gallery artists from Creative Growth. For over 42 years, Creative Growth
 Art Center, in Oakland, California, has served as a studio space and
 gallery for people with developmental, physical and mental disabilities.
 Believed to be the oldest and largest such program in the world, the
-Centerâ€™s philosophy is to allow for the creative talent in every person to
+Center’s philosophy is to allow for the creative talent in every person to
 develop. Currently serving over 160 artists, it has been a model program
-for numerous others world-wide. Creative Growthâ€™s goal is to have its
+for numerous others world-wide. Creative Growth’s goal is to have its
 people be seen as leading contemporary artists, and is proud to have three
 of them to be the only artists with developmental disabilities to have
 their work acquired by the Museum of Modern Art, New York.
@@ -166,7 +166,7 @@ others one may weave idle tapestries of mystery."
 -Gavin Maxwell from Ring of Bright Water
 
 The Apartment is thrilled to present a solo exhibition of San Francisco
-based artist Colter Jacobsen. Jacobsenâ€™s latest work continues to
+based artist Colter Jacobsen. Jacobsen’s latest work continues to
 incorporate sculpture and collage alongside his technically adroit
 drawings, using primarily found materials and a deep sense of poetic
 contemplation. Jacobsen has exhibited his work around the world including
@@ -188,14 +188,14 @@ Burnaby Art Gallery
 This exhibition features prints by Canadian artist Dalla Husband
 (1899-1944) made during her time in Paris through the 1920s and 1930s. Born
 in Winnipeg, Manitoba in 1899, Husband grew up in Vernon, British Columbia
-on her familyâ€™s ranch on Lake Kalamalka. Her parents moved to Canada from
+on her family’s ranch on Lake Kalamalka. Her parents moved to Canada from
 England around the time of her birth to seek new career opportunities,
 which eventually brought them to the west coast in 1907. Her father, Major
 Herbert Husband, was a rancher who also served two mayoral terms in Vernon
 prior to his premature and tragic death in 1912. Husband had the luxury of
 travelling while growing up, visiting relatives in Winnipeg at the age of
 13 with her father, as well as going to England twice to visit her
-grandmother. At the time of her grandmotherâ€™s death, Husband received an
+grandmother. At the time of her grandmother’s death, Husband received an
 inheritance, which she chose to spend on a courageous move to pursue her career
 
 ------------------------------------------------------------------------
@@ -205,7 +205,7 @@ LIQUIDATE
 
 An art publication sale by Contemporary Art Gallery, Access Gallery,
 Fillip, Presentation House Gallery, Or Gallery and Western Front
-Weâ€™ve been busy spring cleaning. The Contemporary Art Gallery, Access
+We’ve been busy spring cleaning. The Contemporary Art Gallery, Access
 Gallery, Fillip, Presentation House Gallery, Or Gallery and Western Front
 have joined forces to bring you some serious discounts on art publications
 new and old. This one time only evening sale is not to be missed.
@@ -224,7 +224,7 @@ artists, curators and cultural practitioners, as well as those entering a
 new experimental phase of their practice. We enable critical conversations
 and risk taking through new configurations of audience, artists and community.
 Sample titles on sale:
-Unsuitable as an Institution: The Tenacity of Access Gallery 1992â€”2014
+Unsuitable as an Institution: The Tenacity of Access Gallery 1992—2014
 Far Away So Close, Part I
 Far Away So Close, Part II
 Ian Johnston: Reinventing Consumption
@@ -244,11 +244,11 @@ children, offer a series of residencies for Canadian and international
 artists directly contributing to the local scene, and publish insightful
 catalogues that create a lasting legacy of exhibited work.
 Sample titles on sale:
-Every building on 100 West Hastings â€“ Stan Douglas
-DONKY@NINJA@WITCH â€“ FASTWÃœRMS
-You are my sunshine/You are my nebula â€“ Euan MacDonald
+Every building on 100 West Hastings – Stan Douglas
+DONKY@NINJA@WITCH – FASTWÜRMS
+You are my sunshine/You are my nebula – Euan MacDonald
 Brian Jungen
-Cabin Photographs â€“ Scott McFarland
+Cabin Photographs – Scott McFarland
 
 About Fillip and New Documents:
 Fillip is a Vancouver-based publishing organization formed in 2004 to
@@ -279,7 +279,7 @@ The D'Or Series (Food for Thought, Notes on Collaboration, Explorations in
 Psychic Geography, Goin' Solo)
 
 About Presentation House Gallery:
-Presentation House Galleryâ€™s mandate is to exhibit and disseminate
+Presentation House Gallery’s mandate is to exhibit and disseminate
 photography and media art, emphasizing contemporary Canadian work within a
 context of historical and international art. Since 1984 they have produced
 over 100 publications, featuring a diverse range of artists and
@@ -290,7 +290,7 @@ Annette Kelm. Presentation House Gallery aims to offer the community a
 range of experiences which will engage viewers with new considerations
 about the world in which they live.
 Sample titles on sale:
-Active Process: Artistâ€™s Books Photographic and Contemporary, Twenty-eight
+Active Process: Artist’s Books Photographic and Contemporary, Twenty-eight
 U.S. and Canadian Artists
 Death and the Family, Gisele Amantea, Marian Penner Bancroft, Wyn Geleynse,
 etc.
@@ -299,7 +299,7 @@ Judy Radul: People Things Enter Exit
 Attila Richard Lukacs / POLAROIDS / Michael Morris
 
 About Western Front:
-Established in 1973 the Western Front is one of Canadaâ€™s leading
+Established in 1973 the Western Front is one of Canada’s leading
 artist-run-centers for contemporary art and new music. We produce and
 present visual art, exhibitions, new music concerts and workshops,
 media-art residencies, performance art and other artist driven initiatives.
@@ -387,14 +387,14 @@ the supernatural as a technology of communal production? How can we
 transfer this into everyday life and the complex structures of politics,
 society and culture?"
 
-â€” "Paranormal Activity (Disambiguation)," a Light Box Library curated by
+— "Paranormal Activity (Disambiguation)," a Light Box Library curated by
 Zine Club
 
 Light boxes by:
 Oana Clitan, Rotterdam
 Lindsey A. Hampton, Vancouver
 Alexandra Lucerna, Moscow
-AneÅ¾ka Minarikova, Prague
+Anežka Minarikova, Prague
 Ryan Ming, Vancouver
 Larissa Monteiro, Rotterdam
 Emmy van Thiel, Breada
@@ -424,7 +424,7 @@ DIRECTIONS TO THE EVENT: Please follow the signs from the front door of 236
 and enter around back in the alley. Knock loudly to be let in.
 
 Monthly Open Studio events are hosted every third Friday of the month (May
-is an exception!) and are organized by Project Spaceâ€™s Curatorial
+is an exception!) and are organized by Project Space’s Curatorial
 Collective. This edition was organized by Sylvana D'Angelo.
 
 ------------------------------------------------------------------------
@@ -437,31 +437,31 @@ Chris Bose and the Arbour Collective
 Alternator Centre for Contemporary Art
 103-421 Cawston Ave, Kelowna
 
-Controversial art from societyâ€™s fringes opens at the Alternator Centre
+Controversial art from society’s fringes opens at the Alternator Centre
 Friday May 29th the controversial God Save the Underworld exhibit opens at
 the Alternator Centre for Contemporary Art.
 The exhibit is headed by Chris Bose and features work from other members of
-Kamloopsâ€™ Arbour Collective, an urban Aboriginal, MÃ©tis and Inuit artist
+Kamloops’ Arbour Collective, an urban Aboriginal, Métis and Inuit artist
 association.
 â€œThe underworld is a community that society rarely acknowledges,â€  says
-Bose. â€œThis exhibit brings outsider art from the fringes of our social
+Bose. “This exhibit brings outsider art from the fringes of our social
 systems; it is created for people who will never step foot in a gallery or
 museum.â€ 
-Much of the exhibitâ€™s contentious content wrestles with themes of missing
+Much of the exhibit’s contentious content wrestles with themes of missing
 Aboriginal women, poverty and issues of injustice facing an array of
 underserved and plighted communities.
-Presented over Canadaâ€™s June 21st National Aboriginal Day and Canada Day on
-July 1st, God Save the Underworld also draws heavily on Canadaâ€™s history of
+Presented over Canada’s June 21st National Aboriginal Day and Canada Day on
+July 1st, God Save the Underworld also draws heavily on Canada’s history of
 colonialism and our current relationship with the British monarchy.
-The new exhibit follows gallery manager Peter Greenâ€™s address to Kelownaâ€™s
+The new exhibit follows gallery manager Peter Green’s address to Kelowna’s
 City Council earlier this month that outlined the importance of the
-Alternatorâ€™s socially engaged art.
-â€œStreet art and graffiti are often vilified and synonymous with urban
+Alternator’s socially engaged art.
+“Street art and graffiti are often vilified and synonymous with urban
 decay,â€  says Green. â€œGod Save the Underworld is however politically
 charged and an incredibly potent expression.â€ 
 In honour of National Aboriginal Day on June 21st, the Bose will partner
 with an undisclosed downtown business to paint a public mural.
-The Alternator and Bose are slated to participate in the cityâ€™s Canada Day
+The Alternator and Bose are slated to participate in the city’s Canada Day
 celebrations in Waterfront Park on July 1st. Festivalgoers will be invited
 to collaborate with Bose on a painting to express their national identity.
 The opening reception for God Save the Underworld will be held at the
@@ -502,12 +502,12 @@ Saturday, May 30, 12:30 pm at the Belkin Gallery. All are welcome.
 
 The Morris and Helen Belkin Art Gallery is pleased to present object
 approaching short blue waves, an exhibition of work by the 2015 graduates
-of the University of British Columbiaâ€™s two-year Master of Fine Arts
+of the University of British Columbia’s two-year Master of Fine Arts
 program: Eric Angus, Jamey Braden, Anyse Ducharme, Jessica Gnyp, and
 Michelle Weinstein. This program is limited each year to a small group of
 four to six artists, which over the two years fosters different
 sensibilities developed within an intimate and dialogic working
-environment. The artists in this yearâ€™s exhibition share an interest in
+environment. The artists in this year’s exhibition share an interest in
 aspects of materiality and the relationships between two and three
 dimensional work.
 
@@ -529,7 +529,7 @@ overlooked to become visible, to be accepted as it is.
 In her work, Anyse Ducharme is interested in the computer, the Internet and
 the circulation of digital imagery. Originally from Sturgeon Falls,
 Ontario, Ducharme holds a BFA (photography and media art) from the
-University of Ottawa and a diploma in 3D animation from la CitÃ© CollÃ©giale.
+University of Ottawa and a diploma in 3D animation from la Cité Collégiale.
 She has exhibited both in group and solo exhibitions, including fiction at
 la Galerie du Nouvel-Ontario (Sudbury), Digital Alterities at InterAccess
 Electronic Media Arts Centre (Toronto), and as part of the Flash Forward
@@ -543,7 +543,7 @@ informed by a movement between these two fields. Her work has recently been
 exhibited at the Satellite Gallery (Vancouver) and the UBC AHVA Gallery.
 She is a recipient of a Social Sciences and Humanities Research Council
 Scholarship, the BC Arts Council Scholarship and the University of British
-Columbiaâ€™s Arts Graduate Student Research Award.
+Columbia’s Arts Graduate Student Research Award.
 
 Born in Toronto and raised in Connecticut, Michelle Weinstein earned her
 BFA from Maine College of Art. She began exhibiting her work upon
@@ -558,7 +558,7 @@ Humanities Research Award (SSHRC) in 2014.
 The exhibition is presented with support from the Department of Art
 History, Visual Art and Theory at the University of British Columbia.
 
-â€”
+—
 
 For further information please contact: Jana Tyner at jana.tyner@ubc.ca,
 tel: (604) 822-1389, or fax: (604) 822-6689
@@ -578,7 +578,7 @@ NONAME
 New works by Janice Cheung
 
 Janice Cheung is a Vancouver based installation artist with a background in
-photography and extended media through the University of Guelph. CheungÃ¢â‚¬â„¢s
+photography and extended media through the University of Guelph. Cheungâ€™s
 work consists of interactive multimedia installations, often incorporating
 a multiple of some kind. She is also the Creative Director of the Young
 Asian Canadian Twin Artist Collective a.k.a >> Yactac
@@ -608,7 +608,7 @@ at the same time bringing forth his own distinct language of subjects
 and objects.
 
 The paintings selected for this exhibition depict various objects
-within Housleyâ€™s studio, and also expand to tableaux that include the
+within Housley’s studio, and also expand to tableaux that include the
 workspace itself. When viewed together, the paintings have a Gestalt
 effect, revealing an inner dialogue of the artist and showing his
 studio to be as much a psychological space as well as a physical one.
@@ -616,7 +616,7 @@ studio to be as much a psychological space as well as a physical one.
 Housley received his M.A. in painting from the Royal College of Art in
 London in 1995. He has exhibited at the Peter Bergman Gallery
 (Stockholm), White Columns (New York), Andrea Rosen Gallery (New
-York), Belmacz (London) and Poppy Sebire Gallery (London). Housleyâ€™s
+York), Belmacz (London) and Poppy Sebire Gallery (London). Housley’s
 work has been printed in numerous publications including Artforum,
 Modern Painters, Frieze, The Independent, The Guardian, and ArtSlant.
 
@@ -629,13 +629,13 @@ Opening Reception: Saturday, May 30th, 6:30pm
 @ The Blank Tank Gallery (#102 - 148 Alexander St, Gastown - Vancouver)
 RSVP on Facebook: https://www.facebook.com/events/1437859176532572/
 
-This collection has featured in the European edition of PhotoÂ® magazine and
+This collection has featured in the European edition of Photo® magazine and
 has been exhibited in Paris and Dubai. It is showing in Vancouver for the
 first time.
 
 Photographed over the course of three years, the Mumbai Sleeping collection
 exposes the diversity of a basic human experience, forcing us to question
-whether a good nightâ€™s sleep is a luxury or a necessity. Utilizing both
+whether a good night’s sleep is a luxury or a necessity. Utilizing both
 video and photography the collection also provokes thought on whether
 photography romanticizes certain documentary subjects.
 
@@ -646,10 +646,10 @@ documentary filmmaker and photographer exploring narratives of the human
 condition. He studied cultural anthropology at Duke University and
 completed his Masters in film production at UBC.
 
-Dhruvâ€™s films are distributed globally and have been nominated for various
+Dhruv’s films are distributed globally and have been nominated for various
 awards on the festival circuit. His debut feature, â€œFrom Dustâ€  was
 critically acclaimed by the international press and screened at the United
-Nations for its exposÃ© of gentrification in the wake of natural disasters.
+Nations for its exposé of gentrification in the wake of natural disasters.
 
 In 2009, while directing a series of commercial films for a luxury real
 estate developer in Mumbai, Dhruv began roaming the streets at night to
@@ -671,27 +671,27 @@ Mid-career Survey of Vancouver-based and
 Internationally Renowned Artist Geoffrey Farmer
 Opens May 30 at the Vancouver Art Gallery
 
-Highlighting major works from the artistâ€™s 15-year practice
+Highlighting major works from the artist’s 15-year practice
 
 Media preview: 9:00am, Thursday, May 28, 2015, at the Vancouver Art Gallery
 Media attending please RSVP to Debra Zhou, dzhou@vanartgallery.bc.ca
 
-May 21, 2015, Vancouver, BC â€“ The first major mid-career survey of artist
+May 21, 2015, Vancouver, BC – The first major mid-career survey of artist
 Geoffrey Farmer opens at the Vancouver Art Gallery on May 30, 2015.
 Featuring 6 major installations and several new sculptures, including some
-of the artistâ€™s most recognizable and technically complex projects, How Do
+of the artist’s most recognizable and technically complex projects, How Do
 I Fit This Ghost in My Mouth? traverses through the 15-year career of this
 Vancouver-based artist who has gained international recognition for his
 ground-breaking installations.
 
-â€œWe are excited to showcase Geoffrey Farmerâ€™s outstanding and
+“We are excited to showcase Geoffrey Farmer’s outstanding and
 thought-provoking artistic output at the Vancouver Art Gallery, following
 his critically acclaimed presentation at dOCUMENTA 13 in 2012. How Do I Fit
-This Ghost in My Mouth? illustrates Farmerâ€™s ability to create
+This Ghost in My Mouth? illustrates Farmer’s ability to create
 extraordinary art from simple yet strategic use of found materials, taking
 Gallery visitors on a memorable journey that evokes personal, social and
 art historical narratives,â€  said Kathleen S. Bartels, Director of the
-Vancouver Art Gallery. â€œWe are especially thrilled to display for the first
+Vancouver Art Gallery. “We are especially thrilled to display for the first
 time The Surgeon and the Photographer, a monumental installation that was
 acquired by the Gallery in 2010.â€ 
 
@@ -702,16 +702,16 @@ whose diverse sources include pop culture, literature, art and personal
 history. Deeply influenced by the artistic traditions of collage and
 assemblage, Farmer explores spatial perception and the passage of time,
 while simultaneously implicating the historical, psychological and the
-philosophical. His works are rarely exhibited the same way twiceâ€”they
+philosophical. His works are rarely exhibited the same way twice—they
 respond to the specific space and context, turning the gallery into an
 improvisational site and temporal event.
 
-â€œWhat becomes apparent in this survey of the last 15 years of Farmerâ€™s
+“What becomes apparent in this survey of the last 15 years of Farmer’s
 practice are the diverse ways that he uses the accumulations of the
-pastâ€”from text to image to theatre propâ€”in order to reshuffle the
+past—from text to image to theatre prop—in order to reshuffle the
 narratives of history. In locating this exhibition at the Vancouver Art
 Gallery, he begins by evolving the dramatic life of Francis Rattenbury, the
-architect of the original courthouse building, one where Farmerâ€™s father
+architect of the original courthouse building, one where Farmer’s father
 once served as a prosecutor. Stories that are real and surreal are woven
 into a complex and pulsating experience of discovery for the viewer,â€  said
 Daina Augaitis, Chief Curator/Associate Director of the Vancouver Art Gallery.
@@ -719,15 +719,15 @@ Daina Augaitis, Chief Curator/Associate Director of the Vancouver Art Gallery.
 (...)
 
 How Do I Fit This Ghost in My Mouth? is organized by the Vancouver Art
-Gallery and curated by Daina Augaitis, the Galleryâ€™s Chief
+Gallery and curated by Daina Augaitis, the Gallery’s Chief
 Curator/Associate Director, with Diana Freundl, Assistant Curator. This
 exhibition is accompanied by a substantial 400-page artist book by Geoffrey
 Farmer. Co-published by the Vancouver Art Gallery and Black Dog Publishing
 in the UK, this publication focuses on The Surgeon and the Photographer and
-features the artistâ€™s annotations of each element in the installation.
+features the artist’s annotations of each element in the installation.
 
 SPECIAL EVENTS:
-Artistâ€™s talk: Saturday, June 13, 3pm, at the Vancouver Art Gallery
+Artist’s talk: Saturday, June 13, 3pm, at the Vancouver Art Gallery
 Catacombs Tour: June 6/13, July 4/11, August 1/8, 11am and 1pm, at the
 Vancouver Art Gallery
 
@@ -737,13 +737,13 @@ Vancouver Art Gallery
 ------------------------------------------------------------------------
 Cineworks Annex, Ironworks, 235 Alexander Street
 (basement, lane entrance: please ring the bell to the right of the gate)
-Sunday May 31, 10.00am â€“ 2.00pm
+Sunday May 31, 10.00am – 2.00pm
 
 FREE
 
 Open Film Lab and Analogue Studio Drop-In
 
-Odd Sundays are open studio and darkroom events at The Annexâ€“â€“Cineworks'
+Odd Sundays are open studio and darkroom events at The Annex––Cineworks'
 analogue film facility, focusing on hand-, tank-, and machine-based film
 processing, optical and contact printing, animation, installation and
 exhibition.
@@ -751,7 +751,7 @@ exhibition.
 Come for an Annex equipment and facilities orientation (please arrive by
 10.30am for one of these), bring your own cine film or stills negative to
 develop, come for a chat if you'd like to know more about working with
-35mm, 16mm and 8mm film, or if youâ€™d like advice on a project you have in mind.
+35mm, 16mm and 8mm film, or if you’d like advice on a project you have in mind.
 
 Sunday May 31 will feature a Chromaflex chemistry line, with hands-on
 demonstrations of the processing technique pioneered by Richard Tuohy and
@@ -777,7 +777,7 @@ www.cineworks.ca
 YOU ARE INVITED TO A LIVE TAPING OF CRASH GALLERY - A NEW ART COMPETITION
 TELEVISION SERIES
 
-Lark Productions and CBC have teamed up to bring you Crash Gallery â€“ a
+Lark Productions and CBC have teamed up to bring you Crash Gallery – a
 ground breaking new art competition series. Artists of all backgrounds will
 step out of their comfort zone and create spontaneous art while competing
 against their peers in front of a live voting audience.
@@ -787,8 +787,8 @@ to cheer them on and ultimately decide who the victor of the evening will be.
 
 This is your chance to see what creative cloth these artists are cut from
 as you watch them go toe to toe in a mainstream network television event.
-Watch them paint, sculpt, and perhaps even paper machÃ© their way to the top
-of this new art competition â€“ and new TV series.
+Watch them paint, sculpt, and perhaps even paper maché their way to the top
+of this new art competition – and new TV series.
 
 WHO:
 Artists, Gallery Owners, Curators, Art Experts, Art Lovers and Aficionados!
@@ -825,7 +825,7 @@ The Charles H. Scott Gallery is pleased to present Drawings, a solo
 exhibition by distinguished Canadian artist Garry Neill Kennedy.
 
 The exhibition features an extensive collection of nearly 1600 pieces, made
-up of notes, drawings and doodles begun during the artistâ€™s twenty-three
+up of notes, drawings and doodles begun during the artist’s twenty-three
 year tenure as president of the Nova Scotia College of Art and Design. The
 exhibition presents an accumulation of ten years worth of plans, from the
 late 1970s to the late 1980s, for future art works and installations,
@@ -842,14 +842,14 @@ Kennedy recently exhibited his work at The National Gallery of Canada, The
 Art Gallery of Nova Scotia, Portikus in Frankfurt am Main, Diaz
 Contemporary in Toronto, Or Gallery, and The Apartment in Vancouver. His
 recent publications include The Last Art College: Nova Scotia College of
-Art and Design, 1968 -1978, published by MIT Press and a catalogue raisonnÃ©
+Art and Design, 1968 -1978, published by MIT Press and a catalogue raisonné
 titled Garry Neill Kennedy: Printed Matter 1971-2009, published by the
 Library and Archives of the National Gallery of Canada. In 2003 he was a
-recipient of the Order of Canada and in 2004, the Governor Generalâ€™s Award
+recipient of the Order of Canada and in 2004, the Governor General’s Award
 in the Visual Arts and Media. Kennedy taught at the Nova Scotia College of
 Art and Design for over forty years, serving as president from 1967 - 1990.
 He has also been a visiting professor at California Institute of the Arts
-and Ã‰cole des Beaux Arts, Paris, Emily Carr University, and University of
+and École des Beaux Arts, Paris, Emily Carr University, and University of
 British Columbia.
 
 For further information contact Kathy Slade at kslade@ecuad.ca
@@ -873,12 +873,12 @@ Robert Lynds Gallery
 Vancouver, BC V6J 1K1
 
 The Robert Lynds Gallery is pleased to present the work of Sascha
-Yamashita. Yamashitaâ€™s interdisciplinary solo-exhibition, Secret Sacred
+Yamashita. Yamashita’s interdisciplinary solo-exhibition, Secret Sacred
 Ritual, explores elements of rite within his esoteric ceremonial
 performance in the construction and deconstruction of the art object.
 Yamashita transforms the gallery space into a sacrosanct domain to house
 his series of process-based panels, and for the witnessing of the artifact
-of his ceremonial practice. Examining secret societies, Yamashitaâ€™s work
+of his ceremonial practice. Examining secret societies, Yamashita’s work
 references various religions and sacred cults throughout history through
 the appropriation of symbols, and challenges the supremacy of the
 commodified art object.
@@ -901,7 +901,7 @@ fortifying its staying power as a prominent west-side gallery.
 Vancouver, BC V6J 1K1
 
 Hours of Operation:
-Tuesday â€“ Friday 10am to 5:30pm
+Tuesday – Friday 10am to 5:30pm
 Saturday 11am to 5pm
 Sunday - Monday by appointment
 Contact:
@@ -917,7 +917,7 @@ http://twitter.com/rlgallery
 ------------------------------------------------------------------------
 Speculative Frictions
 
-RÃ¤ di Martino (Italy/UK)
+Rä di Martino (Italy/UK)
 Shambhavi Kaul (India/US)
 Jennet Thomas (UK)
 Hope Tucker (US)
@@ -931,7 +931,7 @@ Exhibition Hours: Wed to Sat, 12 to 5pm
 Speculative Frictions is a media installation exploring constructed
 cinematic landscapes, narratives restructured though repurposed
 footage/sound and tropes of speculative fiction and surrealism. It
-comprises the works Petite histoire des plateaux abandonnÃ©s (di Martino),
+comprises the works Petite histoire des plateaux abandonnés (di Martino),
 Handful of Dust (Tucker), 21 Chitrakoot (Kaul) and The Advice Shape (Thomas).
 
 In this exhibition, facts and fictions are gloriously recombined or
@@ -943,18 +943,18 @@ between natural and invented landscapes, past and future, the real and
 anomalous: the bleed-through of artificial and constructed worlds onto the
 connatural is exalted.
 
-In the DrÃ¢a Valley vestiges of Hollywood in the form of crumbling stage
-sets wait to be reclaimed by the Moroccan desertâ€”foregounding the notional
+In the Drâa Valley vestiges of Hollywood in the form of crumbling stage
+sets wait to be reclaimed by the Moroccan desert—foregounding the notional
 power of mirage and what exactly constitutes an oasis (and for whom) in a
 trenchant critique of the dividends of colonialism and cultural capital.
 During shooting of The Conquerer in Utah, horses hooves churned up lethal
-sand stormsâ€”a befouled legacy of more than 119 above-ground nuclear
+sand storms—a befouled legacy of more than 119 above-ground nuclear
 testsâ€”resulting in the slow but inexorable poisoning of â€œdownwinders,â€ 
 largely Shivwits extras from the Paiute nation. The Prussian blue produced
 in cyanotypes printed from frames of the 1954 film is also used to treat
 radiation sickness; a literal and symbolic recuperation of the image
 memory. A popular television series from India is unmoored from its
-referents, uninhabited and then reanimatedâ€”transporting us from the
+referents, uninhabited and then reanimated—transporting us from the
 aesthetics of destruction to the construction of aesthetics with the
 velocity and intensity of a shooting star. In some surreal present or
 future on some simulacrum of a soundstage The Nurse exhorts us to take a
@@ -965,15 +965,15 @@ and the daft fleetness of photographic â€œevidenceâ€  we internalize the 
 of artifice and adapt it to our experience as voyeurs. Congratulations are
 in order. â€œYou have a split emotional register. Would you like to reseal it?â€ 
 
-RÃ¤ di Martino is a graduate of Chelsea College of Art and of the Slade
+Rä di Martino is a graduate of Chelsea College of Art and of the Slade
 School of Art. Born in Rome, she moved to London in 1997 and to New York in
-2005. Selected recent solo exhibitions include: RÃ¤ di Martino, Museion,
-Bolzano (2014), RÃ¤ di Martino, MAXX Project, Sierre (2014), Marilyn,
-Galleria Il Capricorno, Venice (2014), RÃ¤ di Martino â€“ Greater Torino,
-Fondazione Sandretto, Turin (2012); La controfigura â€“ The Stand-In, Monitor
-Gallery, Rome (2011); RÃ¤ di Martino (Artscape at) Vartaj Gallery (2010); RÃ¤
+2005. Selected recent solo exhibitions include: Rä di Martino, Museion,
+Bolzano (2014), Rä di Martino, MAXX Project, Sierre (2014), Marilyn,
+Galleria Il Capricorno, Venice (2014), Rä di Martino – Greater Torino,
+Fondazione Sandretto, Turin (2012); La controfigura – The Stand-In, Monitor
+Gallery, Rome (2011); Rä di Martino (Artscape at) Vartaj Gallery (2010); Rä
 di Martino, Artissima, Turin (2010); The Night Walker and Other Works, CAV,
-Coimbra (2009); RÃ¤ di Martino, Espaces Doll â€“ Les Urbaines Festival,
+Coimbra (2009); Rä di Martino, Espaces Doll – Les Urbaines Festival,
 Lausanne (2008). Selected group shows include: Concrete, MUMA, Melbourne,
 Australia (2014),Worlds In Collision, Samstaag Museum, Adelaide (2014),
 Ruins in Reverse, Tate Modern, London & MALI, Lima (2013); Mardin Biennale,
@@ -1002,11 +1002,11 @@ and how cultural memories are re-made and distorted according to the needs
 of each era. The convergence of neoliberal ideology with new technology,
 and how that influences our construction of reality is an increasingly
 important theme. Thomas emerged from the anarchistic, experimental culture
-of Londonâ€™s underground film and live art club scene in the 1990s, where
+of London’s underground film and live art club scene in the 1990s, where
 she was a cofounder of the Exploding Cinema Collective. Her single screen
 work has screened extensively in film festivals internationally and
 recently at the Tate Britain. Recent exhibitions include All Suffering SOON
-TO END! (2010) and School of Change(2012) at Mattâ€™s Gallery in London. Her
+TO END! (2010) and School of Change(2012) at Matt’s Gallery in London. Her
 first book of experimental fiction, The Unspeakable Freedom Device, will be
 published by Bookworks in July of this year.
 
@@ -1090,7 +1090,7 @@ Curated by Amy Kazymerchyk and Melanie O'Brian
 CENTRE A
 
 We Are Woven Throught with Strangers and Strangeness
-Richard HeikkilÃ¤-Sawan, Deborah Kisiel, Bianca Lee, Ceri Richards, and Risa
+Richard Heikkilä-Sawan, Deborah Kisiel, Bianca Lee, Ceri Richards, and Risa
 Yokoi
 June 4 - July 4, 2015
 
@@ -1100,16 +1100,16 @@ Thursday, June 4, 2015
 Free Admission
 
 We Are Woven Through with Strangers and Strangeness is a group exhibition
-highlighting the works of five emerging artists chosen from this yearâ€™s
+highlighting the works of five emerging artists chosen from this year’s
 graduating exhibitions of Emily Carr University of Art + Design (Richard
-HeikkilÃ¤-Sawan, Deborah Kisiel, Bianca Lee) and the University of British
+Heikkilä-Sawan, Deborah Kisiel, Bianca Lee) and the University of British
 Columbia (Ceri Richards, and Risa Yokoi). The exhibition also marks the
-first curatorial project for Centre Aâ€™s exhibitions intern, Alex Cu
-Unjieng, and is part of Centre Aâ€™s commitment to young and promising artists.
+first curatorial project for Centre A’s exhibitions intern, Alex Cu
+Unjieng, and is part of Centre A’s commitment to young and promising artists.
 
-The title takes its name from a line in Lâ€™Intrus, an essay by philosopher
+The title takes its name from a line in L’Intrus, an essay by philosopher
 Jean Luc Nancy which suggests a view of our own bodies as strange even to
-us, questioning where the â€˜outsideâ€™ ends and the self begins, considering
+us, questioning where the ‘outside’ ends and the self begins, considering
 where identity is found, and to what extent it is tangled up in the world
 our bodies inhabit. Through the works of this exhibition we see these
 concerns along with notions of identity politics, labor, and different ways
@@ -1119,31 +1119,31 @@ where we may explore the ways in which our lives are, as Nancy puts it,
 â€œwoven through with strangers and strangeness.â€  The strangeness of
 inhabiting a body; of the simultaneous necessity and impossibility of
 communicating the experience of that body; of the process of coming to know
-oneâ€™s self and oneâ€™s relation to others; and the strangeness of certain
-identities being automatically deemed â€˜normalâ€™ while others must
+one’s self and one’s relation to others; and the strangeness of certain
+identities being automatically deemed ‘normal’ while others must
 continuously fight to attain the same status.
 
 In creating a platform for the exploration of these ideas, the show seeks
 to sustain a vision that expects differences of sex, skin, desire, and
 knowledge, while being invigorated by the ability of these differences to
 threaten, through their perceived strangeness, powers that organize the
-ordinary. â€˜Strangenessâ€™ then becomes a productive tool for questioning the
+ordinary. ‘Strangeness’ then becomes a productive tool for questioning the
 systems of norms that created the term to begin with; a way to shift our
 angle of vision and find other ways of understanding.
 
-The works featured in this exhibition include Deborah Kisielâ€™s wall-mounted
+The works featured in this exhibition include Deborah Kisiel’s wall-mounted
 ceramic text piece written in shorthand, an interactive installation of an
 unravelled thrift store sweater by Risa Yokoi, an organically sprawling
-soft sculpture by Ceri Richards, Bianca Leeâ€™s blanket of bright pink faux
+soft sculpture by Ceri Richards, Bianca Lee’s blanket of bright pink faux
 fur on which rest folded reddish-brown clay forms drizzled with glaze, and
-a rainbow-dyed buffalo hide flag by Richard HeikkilÃ¤-Sawan.
+a rainbow-dyed buffalo hide flag by Richard Heikkilä-Sawan.
 
 Through its public programming, this exhibition will seek to act as a space
-for cultural producers to meet and explore their own and each otherâ€™s
+for cultural producers to meet and explore their own and each other’s
 practices.
 
 The curator would like to acknowledge with great thanks the support and
-assistance she received from Centre Aâ€™s Natalie Tan, Tyler Russell, and
+assistance she received from Centre A’s Natalie Tan, Tyler Russell, and
 Julia Dahee Hong, as well as Anton Cu Unjieng and Nelson Tully.
 
 ---
@@ -1181,10 +1181,10 @@ Ryder White
 John Woods
 
 'Iris Film Collective is a Vancouver-based group of independent artists
-creating, exhibiting and touring film-based worksâ€”single channel, expanded,
-sculptural, installationâ€”with the goal of increasing the visibility and
-accessibility of experimental media art. Above all, our interest in cinÃ©
-filmâ€”actual celluloidâ€”at a time when this medium is shifting from an
+creating, exhibiting and touring film-based works—single channel, expanded,
+sculptural, installation—with the goal of increasing the visibility and
+accessibility of experimental media art. Above all, our interest in ciné
+film—actual celluloid—at a time when this medium is shifting from an
 industrial model to an artisanal one.'
 
 http://www.irisfilmcollective.com
@@ -1227,13 +1227,13 @@ weight is poised there.
 ------------------------------------------------------------------------
 Diptychs by Mark Igloliorte @ grunt gallery
 Opening: Thursday, June 4 (7-10pm)
-Exhibition Dates: June 4 â€“ July 18, 2015
+Exhibition Dates: June 4 – July 18, 2015
 URL: http://grunt.ca/exhibitions/diptychs/
 
 Diptychs by artist Mark Igloliorte features over a hundred observational
 works of still lifes and studio vignette paintings, a series that has been
 ongoing since 2010. Painted upon torn phonebook paper, Igloliorte uses this
-practice to explore ideas of place â€“ both the studio interior and at the
+practice to explore ideas of place – both the studio interior and at the
 city, town or whole region the phonebook paper indexes.
 
 Alla prima paintings of similar size and palette depict commonplace objects
@@ -1247,7 +1247,7 @@ multitudes over a definitive original.
 
 Join us on Thursday June 4 (7-10 pm) for the opening reception of Diptychs
 at grunt gallery. The artist will be in attendance. This exhibition runs
-from June 4 â€“ July 18, 2015.
+from June 4 – July 18, 2015.
 
 Artist Bio:
 
@@ -1256,10 +1256,10 @@ grew up in Happy Valley-Goose Bay, Labrador. His artistic work is primarily
 painting and drawing. He has exhibited in group and solo shows across
 Canada. Recently, Igloliorte has participated in national and international
 exhibitions such as Beat Nation, Vancouver Art Gallery, Vancouver, BC; Le
-Nouveau Pleinairisme, MusÃ©e national des beaux-arts du QuÃ©bec, QuÃ©bec, QC;
+Nouveau Pleinairisme, Musée national des beaux-arts du Québec, Québec, QC;
 drift, (Solo), curator Ryan Rice, The Toronto Free Gallery, Toronto, ON;
-and The QuÃ©bec Triennial 2011: The Work Ahead of Us, MusÃ©e dâ€™art
-contemporain de MontrÃ©al, MontrÃ©al QC. He has been the recipient of a
+and The Québec Triennial 2011: The Work Ahead of Us, Musée d’art
+contemporain de Montréal, Montréal QC. He has been the recipient of a
 number of awards and grants including the Lillian Vineberg Award in
 Painting and Drawing, The Newfoundland and Labrador Arts Council Visual
 Arts Grant, and a Canada Council for the Arts Emerging Artist Grant.
@@ -1267,8 +1267,8 @@ Igloliorte is represented by Gallerie Donald Browne.
 
 He holds a Bachelor of Education (Intermediate/Secondary) from Memorial
 University of Newfoundland, a Bachelor of Fine Art, Major in Fine Art from
-the Nova Scotia College of Art and Design and a Masterâ€™s of Fine Art,
-Studio Art â€“ Painting and Drawing from Concordia University School of
+the Nova Scotia College of Art and Design and a Master’s of Fine Art,
+Studio Art – Painting and Drawing from Concordia University School of
 Graduate Studies.
 
 Igloliorte is an Assistant Professor at Emily Carr University of Art and
@@ -1283,19 +1283,19 @@ June 6 - July 18, 2015
 
 Opening Reception Friday June 5, 2015, 7:00 PM
 
-Ian Johnstonâ€™s sculptural practice is a supple one, having involved
+Ian Johnston’s sculptural practice is a supple one, having involved
 numerous shifts in both method and expression over the course of his
 career. It is a trajectory he has likened to a stream of consciousness. At
 its core, however, is a persistent inquiry into the nature and consequences
 of our relationship with the material world, an exploration, to quote the
 artist, â€œof the space that engages our physical selves.â€  Perhaps not
 surprisingly, this investigation has resulted in a body of work unified by
-its sensuousâ€”and stubbornâ€”materiality. Johnston brings his architecture and
+its sensuous—and stubborn—materiality. Johnston brings his architecture and
 ceramics background to this exhibition. The Chamber is an enormous
 inflating and deflating installation that shrouds and reveals an enormous
 mass of discarded household items diverted from what the artist terms "the
 waste stream." Mesmerizing and sobering, The Chamber suggests to viewers,
-as Johnston states, â€œthe paradoxical relationship between limited resources
+as Johnston states, “the paradoxical relationship between limited resources
 and seemingly unlimited appetite.â€ 
 
 *
@@ -1331,7 +1331,7 @@ JUNE 5 TO JULY 3
 Opening reception, Friday, June 5, 2015
 7PM-11PM
 
-Lorna Bauer and Jon Knowles are artists living and working in MontrÃ©al.
+Lorna Bauer and Jon Knowles are artists living and working in Montréal.
 
 MODEL
 147 MAIN ST, VANCOUVER
@@ -1342,7 +1342,7 @@ Gallery hours by Appointment
 ------------------------------------------------------------------------
 #saltandwater: The Palestinian-Israeli Conflict
 Noor Abuarafeh, Ayed Arafah, Mais Darwazah, and Rehab Nazzal
-6 June â€” 17 July, 2015
+6 June — 17 July, 2015
 Reception 5 June, 8:00PM
 Curated by Margaret Stern
 
@@ -1353,19 +1353,19 @@ Althusserâ€™s â€œabsent causeâ€  within a structure. He posits that 
 itself is intrinsic to its effects, that Jacques Lacanâ€™s â€œrealâ€  and Louis
 Althusserâ€™s â€œabsent causeâ€  can never be represented in their entirety, as
 the signifier will always take the place of the signified. In looking at
-the Palestinian-Israeli conflict, Jamesonâ€™s argument can bring new light to
+the Palestinian-Israeli conflict, Jameson’s argument can bring new light to
 the violence and unspeakable totality of the ongoing occupation. Seemingly
 innocuous substances, salt and water, can be viewed as materials which are
 inherently political. Palestinians now receive at most 73 litres of water
-per capita, lower than the World Health Organizationâ€™s recommended 100
+per capita, lower than the World Health Organization’s recommended 100
 litres for daily consumption. The seas are another space of contestation,
 as access to the Dead Sea and the Mediterranean Sea is not available to
 Palestinians without severe security restrictions.
 
 It is never until a life force is removed that one notices its critical
 importance. In the summer of 2014, approximately 350 Palestinian prisoners
-participated in a hunger strike. 183 administrative detainees â€“
-Palestinians held without charge or trial â€“ were unfairly detained in
+participated in a hunger strike. 183 administrative detainees –
+Palestinians held without charge or trial – were unfairly detained in
 Israeli jails. The hashtag that emerged from the strike was
 â€œ#saltandwater,â€  supporting the consumption by the prisoners of only salt
 and water for survival. Salt and water became symbols for life, for
@@ -1378,9 +1378,9 @@ foreclosed to any Palestinian economic activity.
 The curator, Margaret Stern, selected four Palestinian artists who work
 within this theme. They use water and salt as signifiers of the
 industrialization and politicization of resources with political
-ramifications for the human body. Rehab Nazzalâ€™s A Dead Sea (2010), Noor
-Abuarafehâ€™s A State Closer to Death Than it is to Life (2012), Mais
-Darwazahâ€™s My Love Awaits Me by the Sea (2013) and Ayed Arafahâ€™s Horizon
+ramifications for the human body. Rehab Nazzal’s A Dead Sea (2010), Noor
+Abuarafeh’s A State Closer to Death Than it is to Life (2012), Mais
+Darwazah’s My Love Awaits Me by the Sea (2013) and Ayed Arafah’s Horizon
 (2010) play with both salt and water to explore issues of boundaries and
 resources. Examining this conflict from the material realm of metaphor and
 bodily necessity allows questions to be asked of the occupation of the
@@ -1452,20 +1452,20 @@ Curated by Amy Kazymerchyk and Melanie O'Brian
 ------------------------------------------------------------------------
 Jean-Paul Kelly: The Full Catastrophe
 
-Programmed by MichÃ¨le Smith
+Programmed by Michèle Smith
 
 Using abstraction, animation, and re-enactments, Toronto-based artist
-Jean-Paul Kelly â€” the 2014 recipient of the Kazuko Trust Award for
+Jean-Paul Kelly — the 2014 recipient of the Kazuko Trust Award for
 â€œartistic excellence in the moving imageâ€  at the New York Film Festival â€”
 has created a powerful series of short videos that examine the attractors
 and repulsors of various forms of media representation. Details from
 documentaries, press cuttings, publications, and online media streams are
 isolated, superimposed, composited, and otherwise reconfigured into new
-meanings â€” often in disturbing pairings of pleasure and pain, desire and
+meanings — often in disturbing pairings of pleasure and pain, desire and
 trauma. The centrepiece of the program, Service of the goods, is a
 shot-by-shot reproduction of scenes from various Frederick Wiseman
 documentaries, which have been stripped of their naturalistic signifiers
-to bring underlying ideologies into sharper focus. â€œThis film is not only
+to bring underlying ideologies into sharper focus. “This film is not only
 a bang-on piece of filmic analysis; it also poses fundamental questions
 about the representation of social institutions, and those stuck inside of
 themâ€  (Michael Sicinski, Keyframe Magazine).
@@ -1499,8 +1499,8 @@ www.dimcinema.ca, www.thecinematheque.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2015-05-29-28-screening-cineworks-double-negative-collective-jun-12">28. SCREENING | Cineworks | Double Negative Collective | JUN 12</a>
 ------------------------------------------------------------------------
-Cineworks Studio, 300 â€“1131 Howe Street (lane entrance)
-Friday Jun 12, 7.30pm â€“ 9.30pm
+Cineworks Studio, 300 –1131 Howe Street (lane entrance)
+Friday Jun 12, 7.30pm – 9.30pm
 FREE
 
 Iris Film Collective and Cineworks present:
@@ -1524,16 +1524,16 @@ Program:
 Where We Stand | 05:00 | Lindsay McIntyre
 The Broken Altar | 19:30 | Mike Rollo
 Acrobat | 28:00 | Eduardo Menz
-H2T | 05:30 | Charles-AndrÃ© Coderre
+H2T | 05:30 | Charles-André Coderre
 Mamori | 08:00 | Carl Lemieux
 Lunar Almanac | 04:00 | Malena Szlam
-Never a Foot Too Far, Even | 14:00 | DaÃ¯chi SaÃ¯to
+Never a Foot Too Far, Even | 14:00 | Daïchi Saïto
 
 'Iris Film Collective is a Vancouver-based group of independent artists
-creating, exhibiting and touring film-based worksâ€”single channel, expanded,
-sculptural, installationâ€”with the goal of increasing the visibility and
-accessibility of experimental media art. Above all, our interest in cinÃ©
-filmâ€”actual celluloidâ€”at a time when this medium is shifting from an
+creating, exhibiting and touring film-based works—single channel, expanded,
+sculptural, installation—with the goal of increasing the visibility and
+accessibility of experimental media art. Above all, our interest in ciné
+film—actual celluloid—at a time when this medium is shifting from an
 industrial model to an artisanal one.'
 
 http://www.irisfilmcollective.com
@@ -1562,7 +1562,7 @@ www.ticketstonight.ca
 Info http://thedancecentre.ca/programs/12_minutes_max
 
 12 Minutes Max showcases five eclectic contemporary dance works each
-lasting 12 minutes or less, by some of Vancouverâ€™s most exciting and
+lasting 12 minutes or less, by some of Vancouver’s most exciting and
 innovative up-and-coming choreographers: Caitlin Griffin, Con8 Collective
 (Charlotte Newman and Georgina Alpen), MAYCE (Robert Azevedo, Antonio
 Somera, and Marisa Gold), Natalie Tin Yin Gan and Francesca Frewer, and
@@ -1592,15 +1592,15 @@ discovering camera is the prism we have found to draw these forces
 together...We provide no prescription for what film ought to be, but
 elucidate what it is: impossible pasts and futures in a trajectory of
 unravelling present, images pausing and passing from somewhere up there, in
-back of the head." â€” from the Double Negative Collective Manifesto
+back of the head." — from the Double Negative Collective Manifesto
 
 http://doublenegativecollective.blogspot.ca/
 
 'Iris Film Collective is a Vancouver-based group of independent artists
-creating, exhibiting and touring film-based worksâ€”single channel, expanded,
-sculptural, installationâ€”with the goal of increasing the visibility and
-accessibility of experimental media art. Above all, our interest in cinÃ©
-filmâ€”actual celluloidâ€”at a time when this medium is shifting from an
+creating, exhibiting and touring film-based works—single channel, expanded,
+sculptural, installation—with the goal of increasing the visibility and
+accessibility of experimental media art. Above all, our interest in ciné
+film—actual celluloid—at a time when this medium is shifting from an
 industrial model to an artisanal one.'
 
 http://www.irisfilmcollective.com
@@ -1668,7 +1668,7 @@ hints at the impact of technological embodiment upon psychological being.
 KAREN KNIGHTS & CRISTA DAHL (a past librarian and current committee member
 of the Crista Dahl Media Library & Archive -- and an original member of the
 Satellite Video Exchange Society responsible for the formation and
-continued maintenance of VIVOâ€™s archive) debut Predict My Future For Free.
+continued maintenance of VIVO’s archive) debut Predict My Future For Free.
 Through readings of early manifestos, forgotten correspondence, arcane
 notations, and imagery, disparate pathways to an imagined future are
 traced; pulled from the remnant hoard of sporadic intercourse between
@@ -1691,7 +1691,7 @@ Kitsilano Ratepayer's Association (KRA), a group of property owners in
 Vancouver's west side neighbourhood, and is an artifact of its coordinated
 efforts. As historian Daniel Ross has shown, defining the â€œhippy problemâ€ 
 was a way for neighbourhood elites to make sense of, and control, the new
-identities converging in Kitsilano, â€œbased on a youthful and sometimes
+identities converging in Kitsilano, “based on a youthful and sometimes
 hedonistic exploration of alternatives to middle-class values and consumer
 capitalism."
 
@@ -1880,7 +1880,7 @@ Women Studio at 1000 Parker Street.
 Enjoy a comfortable shared space with lots of natural light!
 Rent is $210/month, one-month damage deposit required.
 
-NOTE: This space is best suited to an artist who doesnâ€™t need to use much
+NOTE: This space is best suited to an artist who doesn’t need to use much
 wall space, either for working or for displaying their work.
 
 If interested contact herdofwomen@gmail.com

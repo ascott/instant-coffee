@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 27
 type: "EVENT"
+venue: "grunt gallery and Morris and Belkin Art Gallery"
 summary: "grunt gallery and Morris and Belkin Art Gallery | Cutting Copper | MAR 4"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 46
 type: "CALL"
+venue: "Mount Pleasant Community Art Screen"
 summary: "Mount Pleasant Community Art Screen | Call for Submissions | JAN 12"
 ---
 

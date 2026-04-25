@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 12
 type: ""
+venue: "WOMEN IN CLOTHES"
 summary: "WOMEN IN CLOTHES | LAUNCH | SEP 29"
 ---
 
@@ -25,9 +26,9 @@ secular, religious, wealthy and working class, the book investigates,
 through text and images, the ritual that binds them all in the daily act of
 getting dressed.
 
-The Vancouver event is unique among other launches for the book: itâ€™s
+The Vancouver event is unique among other launches for the book: it’s
 organized by four contributors (all writers and artists themselves) who
-live in Vancouverâ€”Jaclyn Bruneau, Jennifer Croll, Doretta Lau, and Zoe
+live in Vancouver—Jaclyn Bruneau, Jennifer Croll, Doretta Lau, and Zoe
 Welch. The four have assembled a diverse group of interesting and stylish
 local women for a panel discussion about the influence of style in their
 lives; among those are writer Amber Dawn, publicist Cynara Geissler, artist

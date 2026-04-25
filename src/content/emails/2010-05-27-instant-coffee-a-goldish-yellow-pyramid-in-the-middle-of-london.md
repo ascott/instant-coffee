@@ -256,7 +256,7 @@ Organized by Artspeak and Fillip, with Motto, Berlin
 Motto Storefront transforms Artspeak into a temporary space for the sale,
 presentation, and discussion of contemporary art publishing. The selection
 of printed matter for the store has been made by Motto, a Berlin and
-ZÃ¼rich-based bookstore and distributor specializing in experimental, small
+Zürich-based bookstore and distributor specializing in experimental, small
 run, and self-published artist books, magazines, and fanzines.
 
 Talks and Workshops
@@ -356,26 +356,26 @@ Zomparelli and Elee Kraljii Gardiner
 
 GET YOUR CREATIVE MOJO WORKING!
 
-This 2 1/2-hour workÂ­shop is packed with exerÂ­cises designed to get
+This 2 1/2-hour work­shop is packed with exer­cises designed to get
 you going or bust through writer's block.
 
 Are you wondering what you really want to write about? Are you stuck
 on a poem or story that just won't come right? Join Daniel and Elee
-for an inspirÃ‚Â­ing mix of prompts in all genÃ‚res and styles,
-guarÂ­anÂ­teed to get things movÂ­ing in your creÃ‚ative life. Tips,
-techÃ‚niques and take-aways galore-includÂ­ing an irrevÂ­erÃ‚ent but
-highly effecÂ­tive handÂ­out. Bring a pen or penÃ‚cil, and get ready for
+for an inspirÂ­ing mix of prompts in all genÂres and styles,
+guar­an­teed to get things mov­ing in your creÂative life. Tips,
+techÂniques and take-aways galore-includ­ing an irrev­erÂent but
+highly effec­tive hand­out. Bring a pen or penÂcil, and get ready for
 takeoff!
 
-This interÂ­acÂ­tive workshop, led by Daniel Zomparelli, poet and
-editor of Poetry Is Dead magÂ­aÂ­zine, and Elee Kraljii Gardiner,
-writer and direcÂ­tor of Thursdays Writing Collective, will push your
-writÂ­ing in new direcÂ­tions.
+This inter­ac­tive workshop, led by Daniel Zomparelli, poet and
+editor of Poetry Is Dead mag­a­zine, and Elee Kraljii Gardiner,
+writer and direc­tor of Thursdays Writing Collective, will push your
+writ­ing in new direc­tions.
 
 Location:Listel Hotel, 1300 Robson Street, Vancouver
 Date: Saturday, May 29, 2010
 Time: 1:00pm - 3:30pm
-Price: $30 (includes a one-year subÃ‚Â­scripÃ‚Â­tion to Geist for yourÃ‚Â­self
+Price: $30 (includes a one-year subÂ­scripÂ­tion to Geist for yourÂ­self
 or a friend.)
 Register now online (http://www.geist.com/workshops/creative-blender)
 or by phone 604-681-9161
@@ -475,14 +475,14 @@ April 24 - May 29, 2010
 
 Curated by Darrin Martens
 
-Friend or Foe features new work by two renowned Canadian artists â€“ Rebecca
+Friend or Foe features new work by two renowned Canadian artists – Rebecca
 Belmore and Terrance Houle. The exhibition explores the stereotyped First
 Nations body within contemporary social contexts. Belmore will present a
 new video projection based on a recent performance held at The University
-of British Columbiaâ€™s Museum of Anthropology. The performance explores both
+of British Columbia’s Museum of Anthropology. The performance explores both
 the relationship between First Nations and the Museum and the homeless
 aboriginal body. Alongside this work will be, Victorious, a reconfigured
-video work from the 2009 Hive Festival. Houleâ€™s contribution includes a
+video work from the 2009 Hive Festival. Houle’s contribution includes a
 recent series of pin-hole photographs documenting and questioning
 aboriginal stereotypes within the context of First Nations dioramas at the
 Calgary Stampede alongside a new video projection, which examines the myths
@@ -497,7 +497,7 @@ into and explore colonialism and the social affects of racial stereotyping.
 Anishinabe born Rebecca Belmore bases her practice in Vancouver, British
 Columbia. Since 1987, her multi-disciplinary work has addressed history,
 place and identity through the media of sculpture, installation, video and
-performance. Belmore was Canadaâ€™s official representative at the 2005
+performance. Belmore was Canada’s official representative at the 2005
 Venice Biennale.
 
 Terrance Houle is an internationally recognized multi-disciplinary artist
@@ -520,7 +520,7 @@ The University of British Columbia.
 ------------------------------------------------------------------------
 Spark Box Studio Residency is now accepting Fall 2010 applications.
 
-Spark Box Studioâ€™s Artist Residency Program provides live/work space to
+Spark Box Studio’s Artist Residency Program provides live/work space to
 accommodate both emerging and professional printmakers, photographers,
 painters, illustrators and writers. Artists-in-residence have access to our
 professional studio and resources. The Residency Program affords artists
@@ -694,9 +694,9 @@ promotional material, critical discourse, calendar of events, and press
 releases, in collaboration with other VIVO departments, about VIVO's media
 arts programming.
 - Appropriate record keeping and reporting of resources, events,
-exhibitions and other projects, particularly as it pertains to VIVOÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s
+exhibitions and other projects, particularly as it pertains to VIVOÃ¢ï¿½ï¿½s
 archive.
-- Coordinating the human resources and budget for VIVOÃƒÂ¢Ã¯Â¿Â½Ã¯Â¿Â½s annual Signal +
+- Coordinating the human resources and budget for VIVOÃ¢ï¿½ï¿½s annual Signal +
 Noise Festival. This may include assisting in grant writing and research.
 - Coordinating and working with the Programming Advisory Committee and
 department staff to establish, implement, assess and maintain appropriate
@@ -869,7 +869,7 @@ www.vivomediaarts.com
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-05-27-18-luckys-gallery-treats-for-faceballs-jun-5">18. Lucky's Gallery | TREATS FOR FACEBALLS | JUN 5</a>
 ------------------------------------------------------------------------
-Art Waste and LuckyÃŠÂ¼s Gallery present:
+Art Waste and LuckyÊ¼s Gallery present:
 TREATS FOR FACEBALLS
 An exhibition of new collaborative paintings by the art team DUSTY PEAS
 JUNE 5 - 13, 2010
@@ -889,7 +889,7 @@ small press fairs in Montreal, Sackville, Toronto and San Francisco, and
 via Halifax INK and the
 RCAAQ at Printed Matter's New York Art Book Fair. Both artists are included
 in The Cheaper Show
-No. 9 at VancouverÃŠÂ¼s LES Gallery, June 26, 2010.
+No. 9 at VancouverÊ¼s LES Gallery, June 26, 2010.
 Jamie Q received her BFA in sculpture from ACAD in 2002. She was a member
 of the Long Haul artists' collective in
 Montreal for four years, and is currently completing her MFA at The
@@ -905,7 +905,7 @@ DUSTY PEAS ARE AVAILABLE FOR INTERVIEWS. CONTACT DUSTYPEAS@GMAIL.COM
 Available at the opening:
 NEW!! LIMITED EDITION BOOK SET:
 This hand-silkscreened two-book set includes Surprise
-Prize, Dusty PeasÃŠÂ¼ first narrative art book; and Treats for
+Prize, Dusty PeasÊ¼ first narrative art book; and Treats for
 Faceballs, a collection of abstract work that accompanies
 the story.
 Two-book set. 14 pages each. 4" x 4" five-colour silkscreen.
@@ -936,7 +936,7 @@ We include artists of all ages and experience, providing opportunities for
 younger artists to interact with more experienced artists and access a wide
 range of artistic expression. We're highly participatory with an eye to
 develop young artists and audiences while celebrating achievement in
-contemporary art. We complement Eastern Edgeâ€™s yearly programming by
+contemporary art. We complement Eastern Edge’s yearly programming by
 offering artistic diversity with a focus on community outreach and audience
 participation.
 
@@ -1159,7 +1159,7 @@ projects, The LAB is a contemporary space within the Art Gallery. This
 exhibition space is a site for new work, as well as a project space in
 which proposals are invited to engage with the site itself. The Gallery
 welcomes all forms of media, performance or innovative museological
-projects. Projects may also involve the Galleryâ€™s permanent collection.
+projects. Projects may also involve the Gallery’s permanent collection.
 
 CONTACT:
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dancing to music about dancing"
 emailDate: "Thu, 10 Feb 2011 11:10:50 -0800"
 number: 21
 type: ""
+venue: "ECU"
 summary: "ECU | lecture: Lorna Brown and Kristina Podesva | FEB 17"
 ---
 

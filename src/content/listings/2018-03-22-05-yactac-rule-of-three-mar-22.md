@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tar Sands Tale"
 emailDate: "Thu, 22 Mar 2018 08:40:45 -0700"
 number: 5
 type: "OPENING"
+venue: "Yactac"
 summary: "Yactac | Rule of Three | MAR 22"
 ---
 

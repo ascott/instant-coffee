@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 9
 type: ""
+venue: "SFU"
 summary: "SFU | Visual Art Graduation Exhibition 2009 | APR 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 27
 type: ""
+venue: "Belkin"
 summary: "Belkin | ART+FEMINISM WIKIPEDIA EDIT-A-THON | MAR 12"
 ---
 

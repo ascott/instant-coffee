@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 21
 type: "CALL"
+venue: "The Banff Centre"
 summary: "The Banff Centre | Banff Artist in Residence (BAiR) | SEP 2"
 ---
 
@@ -16,7 +17,7 @@ sculpture, printmaking, papermaking, ceramics, fibre, video, digital
 technology, and more.
 
 BAiR New Materiality
-Program Dates: January 11 â€“ February 12, 2016
+Program Dates: January 11 – February 12, 2016
 Apply by September 2
 Banff Artist in Residence (BAiR) New Materiality is a contemporary art
 residency that challenges participants to engage with materials in
@@ -30,7 +31,7 @@ hand to provide consultation and curatorial insights through studio visits.
 http://www.banffcentre.ca/programs/program.aspx?id=1601
 
 BAiR Late Winter Intensive
-Program Dates February 29 â€“ March 25, 2016
+Program Dates February 29 – March 25, 2016
 Apply by September 30
 http://www.banffcentre.ca/programs/program.aspx?id=1596
 

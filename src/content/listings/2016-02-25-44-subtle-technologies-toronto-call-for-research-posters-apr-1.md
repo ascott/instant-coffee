@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sandstorm en-route to an exhibitio
 emailDate: "Thu, 25 Feb 2016 13:20:50 -0800"
 number: 44
 type: "CALL"
+venue: "Subtle Technologies (Toronto)"
 summary: "Subtle Technologies (Toronto) | Call for Research Posters | APR 1"
 ---
 

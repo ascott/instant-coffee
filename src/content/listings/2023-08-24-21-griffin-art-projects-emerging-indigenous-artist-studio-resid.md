@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: gatekeeper"
 emailDate: "Thu, 24 Aug 2023 15:02:43 -0700"
 number: 21
 type: "CALL"
+venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | Emerging Indigenous Artist Studio Residency & Ment | OCT 13"
 ---
 

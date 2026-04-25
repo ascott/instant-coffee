@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
 emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
 number: 33
 type: "EVENT"
+venue: "EVENT"
 summary: "EVENT | PACIFIC LEGAL EDUCATION & OUTREACH SOC | LEGAL SELF ASSESSMENT AND LEARNING TOOL LAUNCH | MAY 12"
 ---
 

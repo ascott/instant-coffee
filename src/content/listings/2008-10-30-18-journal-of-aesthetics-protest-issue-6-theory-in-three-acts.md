@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not afraid to use the wooden sp
 emailDate: "Thu, 30 Oct 2008 08:35:15 -0700"
 number: 18
 type: ""
+venue: "Journal of Aesthetics & Protest"
 summary: "Journal of Aesthetics & Protest | issue #6: Theory in Three Acts"
 ---
 
@@ -36,7 +37,7 @@ Three Sections Are:
 
 I Love To We
 Amy Franceschini, Fritz Haeg, Bonnie Fortune, Brett Bloom,
-Julianna Parr, Mark Chamberlain, Charlotte SÃ¡enz (aka Lozeh Luna,
+Julianna Parr, Mark Chamberlain, Charlotte Sáenz (aka Lozeh Luna,
 Kelly MarieMartin, Aviv Kruglanski, Kate Rich, Ben Schaafsma, Aimee Le
 Duc, Lisa Anne Auerbach, Veronica Wiman, Town Hall Meetings
 (Daniel Tucker, Nato Thompson and LA Participants)

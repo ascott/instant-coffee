@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hitherto the detritus, ride amongs
 emailDate: "Thu, 18 Sep 2014 12:19:41 -0700"
 number: 3
 type: ""
+venue: "Vancouver Park Board"
 summary: "Vancouver Park Board | Field Guides: Guest Speaker- Matt Hern | SEP 18"
 ---
 

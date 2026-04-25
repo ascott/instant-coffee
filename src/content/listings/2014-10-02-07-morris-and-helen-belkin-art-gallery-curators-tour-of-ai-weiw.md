@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: all we need is you"
 emailDate: "Thu, 02 Oct 2014 12:05:44 -0700"
 number: 7
 type: ""
+venue: "Morris and Helen Belkin Art Gallery"
 summary: "Morris and Helen Belkin Art Gallery | Curator's Tour of Ai Weiwei: New York Photographs | OCT 4"
 ---
 
@@ -16,11 +17,11 @@ Ai Weiwei: New York Photographs 1983-1993 at the Belkin Gallery. Wallace
 will lead you through the exhibit's backstory and offer insights into the
 cultural and social context of the photographs.
 
-Ai Weiwei: New York Photographs 1983â€“1993 consists of 227 black-and-white
+Ai Weiwei: New York Photographs 1983–1993 consists of 227 black-and-white
 photographs taken by Ai Weiwei during the decade that he resided in New
 York City. The photographs were personally selected by the artist from over
 10,000 negatives that are housed at Three Shadows Photography Art Center in
-Beijing and together represent a single work of artâ€”no one image is more
+Beijing and together represent a single work of art—no one image is more
 important than another.
 
 Born in 1957, Ai Weiwei grew up in China during the Cultural Revolution.
@@ -31,7 +32,7 @@ through his interactions with friends and acquaintances arriving from
 China, the meeting of new friends in New York such as Allen Ginsberg, his
 observation of rampant poverty in the East Village neighbourhood where he
 lived, and his images of political demonstrations and celebratory festivals
-taking place in New York at the time. While Ai Weiweiâ€™s intention was not
+taking place in New York at the time. While Ai Weiwei’s intention was not
 to be a documentarian, this body of work nonetheless has become a personal
 and impressionistic diary that represents a specific historical moment in a
 city that was experiencing significant social change.
@@ -47,7 +48,7 @@ China following his return there in 1993.
 This exhibition is organized in collaboration with Three Shadows
 Photography Art Center, Beijing, and Chambers Fine Art in New York and
 Beijing. It has been made possible with funding from the Canada Council for
-the Arts and the Belkin Curatorâ€™s Forum. Ai Weiwei: New York Photographs
+the Arts and the Belkin Curator’s Forum. Ai Weiwei: New York Photographs
 1983-1993 continues until November 30.
 
 Morris and Helen Belkin Art Gallery

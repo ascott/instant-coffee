@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Victoria Arts Council Gallery"
 summary: "Victoria Arts Council Gallery | 2018 BMK Residents | This Amazing Day | JUL 25"
 ---
 

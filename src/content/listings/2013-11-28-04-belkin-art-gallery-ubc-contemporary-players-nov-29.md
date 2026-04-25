@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 4
 type: ""
+venue: "Belkin Art Gallery"
 summary: "Belkin Art Gallery | UBC Contemporary Players | Nov 29"
 ---
 

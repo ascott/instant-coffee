@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 3
 type: "EXHIBITION"
+venue: "Paul Kyle Gallery"
 summary: "Paul Kyle Gallery | James O’Mara: Duets | APR 20"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: What are u working on?"
 emailDate: "Thu, 23 Jul 2020 09:55:10 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Sidney and Gertrude Zack Art Gallery"
 summary: "Sidney and Gertrude Zack Art Gallery | Beyond the Surface"
 ---
 

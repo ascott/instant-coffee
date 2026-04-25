@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  any attempt to introduce an appea
 emailDate: "Thu, 21 Nov 2013 22:10:35 -0800"
 number: 15
 type: ""
+venue: "Contemporary Art Gallery"
 summary: "Contemporary Art Gallery| Feedback Talk: William Wood | NOV 26"
 ---
 

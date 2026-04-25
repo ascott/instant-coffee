@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 12
 type: "OPENING"
+venue: "grunt gallery"
 summary: "grunt gallery | WOVEN WORK FROM NEAR HERE | SEP 6"
 ---
 

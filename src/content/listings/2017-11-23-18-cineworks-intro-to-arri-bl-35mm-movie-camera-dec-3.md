@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pender Guy"
 emailDate: "Thu, 23 Nov 2017 13:25:03 -0800"
 number: 18
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Intro to Arri BL 35mm Movie Camera | DEC 3"
 ---
 

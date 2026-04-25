@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bitter sweet"
 emailDate: "Thu, 07 Aug 2014 11:58:22 -0700"
 number: 10
 type: ""
+venue: "DIM Cinema"
 summary: "DIM Cinema | Scenes from America | on the road with Jørgen Leth and Robert Frank | AUG 18"
 ---
 

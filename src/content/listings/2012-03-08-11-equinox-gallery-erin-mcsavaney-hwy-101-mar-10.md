@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 11
 type: ""
+venue: "Equinox Gallery"
 summary: "Equinox Gallery | Erin McSavaney: HWY 101 | MAR 10"
 ---
 

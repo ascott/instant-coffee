@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 5
 type: "EVENT"
+venue: "Artspeak"
 summary: "Artspeak | Prairie Aunties On The Coast - Readings | 7PM | OCT 18"
 ---
 

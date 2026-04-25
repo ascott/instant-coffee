@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a bit self involved these days"
 emailDate: "Thu, 25 Sep 2014 16:20:11 -0700"
 number: 25
 type: ""
+venue: "UBC"
 summary: "UBC | AHVA Gallery | Outcomes | until | OCT 11"
 ---
 
@@ -19,12 +20,12 @@ Please join the UBC Department of Art History, Visual Art & Theory (AHVA)
 at the AHVA Gallery in the Audain Art Centre on Wednesday, October 1st and
 8th at 12:30pm for artists talks with full time Faculty:
 
-October 1 with Barrie Jones, Barbara Zeigler and Manuel PiÃ±a.
+October 1 with Barrie Jones, Barbara Zeigler and Manuel Piña.
 
 October 8 with Marina Roy, Gu Xiong and Phil McCrum.
 
-Artist featured in the exhibition are: Dana Claxton, Christine Dâ€™Onofrio,
-Gu Xiong, Gareth James, Phil McCrum, Manuel PiÃ±a, Richard Prince, Marina
+Artist featured in the exhibition are: Dana Claxton, Christine D’Onofrio,
+Gu Xiong, Gareth James, Phil McCrum, Manuel Piña, Richard Prince, Marina
 Roy, Barbara Zeigler, Scott Billings, Jade Yumang, Barrie Jones,
 
 Kevin Murphy, Josh Hite, Cathy Busby, Garry Kennedy and Beau Dick.
@@ -53,7 +54,7 @@ Department of Art History, Visual Art & Theory
 
 University of British Columbia
 
-400 â€“ 6333 Memorial Road
+400 – 6333 Memorial Road
 
 Vancouver, BC V6T 1Z2
 

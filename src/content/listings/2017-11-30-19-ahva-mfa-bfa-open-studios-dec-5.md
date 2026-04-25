@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: InfinitelyClose"
 emailDate: "Thu, 30 Nov 2017 10:25:04 -0800"
 number: 19
 type: "EVENT"
+venue: "AHVA"
 summary: "AHVA | MFA + BFA Open Studios | DEC 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears (corrected)"
 emailDate: "Fri, 19 Jan 2018 07:24:34 -0800"
 number: 46
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Hand Processing Motion Picture Film | JAN 28"
 ---
 

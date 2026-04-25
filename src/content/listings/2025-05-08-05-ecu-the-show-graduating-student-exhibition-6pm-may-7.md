@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Thought Through"
 emailDate: "Wed, 07 May 2025 20:10:14 -0700"
 number: 5
 type: "OPENING"
+venue: "ECU"
 summary: "ECU | The Show graduating student exhibition | 6PM | MAY 7"
 ---
 

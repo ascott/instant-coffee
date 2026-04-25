@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: spilled the salt"
 emailDate: "Thu, 26 May 2011 15:20:45 -0700"
 number: 1
 type: ""
+venue: "A Sign for the City"
 summary: "A Sign for the City | public art project by Sabine Bitter & Helmut Weber | MAY 26"
 ---
 

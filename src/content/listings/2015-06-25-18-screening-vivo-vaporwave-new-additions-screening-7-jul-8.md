@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: studio spaces for sublet"
 emailDate: "Thu, 25 Jun 2015 16:30:13 -0700"
 number: 18
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO | VAPORWAVE New Additions Screening #7 | JUL 8"
 ---
 
@@ -25,7 +26,7 @@ thematic Call For Submissions VAPORWAVE .
 VAPORWAVE is an internet art and video aesthetic characterized by its
 trippy and ironic combination of visual references that range from the
 iconography of classical antiquity (white marble, plaster busts),
-simplistic digital renderings of the 1990â€™s and early 2000â€™s, and the lo-fi
+simplistic digital renderings of the 1990’s and early 2000’s, and the lo-fi
 aesthetics of CD-ROM imagery, especially clip art or early animation. It
 originated in underground online art forums and is related to the movement
 coined "The New Aesthetic" which considers works that often satirically

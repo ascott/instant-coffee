@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dead cliche retrieval"
 emailDate: "Thu, 01 May 2014 12:25:50 -0700"
 number: 4
 type: ""
+venue: "Satellite Gallery"
 summary: "Satellite Gallery | Extended Party Mix | closing party | MAY 2"
 ---
 
@@ -32,7 +33,7 @@ at UBC in collaboration with Satellite Gallery. A special thank you to Marina
 Roy for her dedication and support of this project.
 
 Extended Party Mix 
-Dates: April 16 â€“ May 2, 2014
+Dates: April 16 – May 2, 2014
 Closing Reception: May 2 | 7:00pm to 10:00pm
 Venue: Satellite Gallery | 560 Seymour, 2nd Floor, Vancouver 
 Website: www.satellitegallery.ca

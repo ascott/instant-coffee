@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 2
 type: "FUNDRAISER"
+venue: "AutoForm"
 summary: "AutoForm | Luxury Showcase for Charity | 6-10PM | NOV 15"
 ---
 

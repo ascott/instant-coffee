@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tarmac is a familiar backdrop"
 emailDate: "Thu, 20 Jul 2017 11:30:11 -0700"
 number: 9
 type: "TALK"
+venue: "UNIT/PITT Society for Art and Critical Awareness"
 summary: "UNIT/PITT Society for Art and Critical Awareness | Projector Verse | JUL 23"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 5
 type: "PERFORMANCE"
+venue: "Gold Saucer"
 summary: "Gold Saucer | \"solo\" | AUG 30"
 ---
 

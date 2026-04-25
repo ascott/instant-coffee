@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 23
 type: "TALK"
+venue: "ECUAD"
 summary: "ECUAD | Practice: a panel discussion | 5-7PM | FEB 28"
 ---
 

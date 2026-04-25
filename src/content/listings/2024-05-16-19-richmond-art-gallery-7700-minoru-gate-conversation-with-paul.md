@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Moon Gate"
 emailDate: "Thu, 16 May 2024 13:45:10 -0700"
 number: 19
 type: "TALK"
+venue: "Richmond Art Gallery, 7700 Minoru Gate"
 summary: "Richmond Art Gallery, 7700 Minoru Gate | Conversation with Paul Wong | MAY 25"
 ---
 

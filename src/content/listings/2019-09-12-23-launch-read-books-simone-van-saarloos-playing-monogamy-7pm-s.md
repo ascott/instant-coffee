@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SO FAST, SO STILL"
 emailDate: "Thu, 12 Sep 2019 07:00:18 -0700"
 number: 23
 type: "TALK"
+venue: "Launch"
 summary: "Launch | READ Books | Simon/e van Saarloos | Playing Monogamy | 7PM | SEP 20"
 ---
 

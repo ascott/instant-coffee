@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bitter sweet"
 emailDate: "Thu, 07 Aug 2014 11:58:22 -0700"
 number: 3
 type: ""
+venue: "Vancouver Maritime Museum"
 summary: "Vancouver Maritime Museum | Artists' Talk with Cedric Nathan and Jim Bomford | AUG 7"
 ---
 

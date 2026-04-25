@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 10
 type: "TALK"
+venue: "Rennie Museum"
 summary: "Rennie Museum | Rennie Speaker Series: Gary Simmons | NOV 15"
 ---
 

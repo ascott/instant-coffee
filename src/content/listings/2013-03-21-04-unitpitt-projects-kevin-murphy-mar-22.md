@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 4
 type: ""
+venue: "UNIT/PITT Projects"
 summary: "UNIT/PITT Projects | Kevin Murphy | MAR 22"
 ---
 
@@ -16,8 +17,8 @@ Vancouver.
 
 Atlantean Timepiece - Kevin Murphy
 
-Kevin Murphyâ€™s Atlantean Timepiece is the fourth project in 
-UNIT/PITTâ€™s series What Future.
+Kevin Murphy’s Atlantean Timepiece is the fourth project in 
+UNIT/PITT’s series What Future.
 
 Influenced by widespread concerns surrounding sea level rise, 
 geological instability, earthquakes, and flooding in Vancouver and the 
@@ -28,10 +29,10 @@ narrative, and the trope of the romantic ruin.
 The project proposes the development of a hypothetical public clock 
 for Vancouver, resembling a beacon, crystal, or glass high-rise tower. 
 This reimagined clock tower would become activated only when 
-flooded. Degrading at different rates in seawater, the structureâ€™s 
+flooded. Degrading at different rates in seawater, the structure’s 
 materials would transform into a chemical timeline, giving potential 
 observers in the distant future a window into the elapsed time since the 
-cityâ€™s submersion.
+city’s submersion.
 
 In the interim, the structure would function as a tenuous monument to 
 these potential events, acting as a site for the crystallization of local 

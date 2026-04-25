@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
 emailDate: "Thu, 17 Sep 2020 09:40:41 -0700"
 number: 24
 type: "EXHIBITION"
+venue: "Richmond Culture Days"
 summary: "Richmond Culture Days | Lou Sheppard | Murmurations: A Score for Social Distancing | SEP 25"
 ---
 

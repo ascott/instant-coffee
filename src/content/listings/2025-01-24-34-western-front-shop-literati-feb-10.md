@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 34
 type: "CALL"
+venue: "Western Front"
 summary: "Western Front | Shop Literati | FEB 10"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Misspelled Moonless Night"
 emailDate: "Mon, 01 Dec 2025 19:45:10 -0800"
 number: 18
 type: "EVENT"
+venue: "The Ellis Building"
 summary: "The Ellis Building | Share Your Art | 1PM | DEC 7"
 ---
 

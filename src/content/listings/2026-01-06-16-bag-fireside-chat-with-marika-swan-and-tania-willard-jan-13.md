@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Clump"
 emailDate: "Mon, 05 Jan 2026 23:45:07 -0800"
 number: 16
 type: "EVENT"
+venue: "BAG"
 summary: "BAG | Fireside Chat with Marika Swan and Tania Willard | JAN 13"
 ---
 

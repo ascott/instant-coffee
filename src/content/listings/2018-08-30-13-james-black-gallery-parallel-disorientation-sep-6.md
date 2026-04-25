@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: pierced with thousands of pine nee
 emailDate: "Wed, 29 Aug 2018 21:35:04 -0700"
 number: 13
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | PARALLEL DISORIENTATION | SEP 6"
 ---
 

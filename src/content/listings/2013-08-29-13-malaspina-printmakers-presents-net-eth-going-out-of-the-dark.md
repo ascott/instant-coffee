@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 13
 type: ""
+venue: "malaspina printmakers presents"
 summary: "malaspina printmakers presents | NET-ETH: Going out of the Darkness | SEP 13"
 ---
 
@@ -23,14 +24,14 @@ light, so that we can all heal togetherâ€  from the intergenerational trauma 
 is the sad legacy of Canada's Indian Residential School system. 
 
 Organized by Malaspina Printmakers Society, the exhibition spans three 
-venues: Emily Carr University of Art + Design (ECUAD), Malaspinaâ€™s Print 
-Gallery, and the Urban Aboriginal Fair Trade Gallery at SkwachÃ ys Healing 
+venues: Emily Carr University of Art + Design (ECUAD), Malaspina’s Print 
+Gallery, and the Urban Aboriginal Fair Trade Gallery at Skwachàys Healing 
 Lodge located in Vancouver's Downtown Eastside. 
 
 The NET-ETH: Going out of the Darkness exhibition catalogue features 
 essays, poems, biographies and artist statements and the works of sixteen 
 artists including Chris Bose, Lindsey Delaronde, Wayne Dennis, Ken Farris, 
-Mimi Gellman, Bracken Hanuse Corlett, Richard HeikkilÃ¤-Sawan, Raven John, 
+Mimi Gellman, Bracken Hanuse Corlett, Richard Heikkilä-Sawan, Raven John, 
 Lou-ann Ika'wega Neel, Jada-Gabrielle Pape, Patricia Lena Teichert, Kelly 
 Roulette, Adrian Stimson, Jerry Whitehead, Tania Willard and Lawrence Paul 
 Yuxweluptun.
@@ -44,7 +45,7 @@ Opening reception: September 12, 2013, 6:00 to 9:00 pm
 Malaspina Printmakers (1555 Duranleau St, Granville Island)
 Opening reception: September 12, 2013, 6:00 to 9:00 pm
 
-Urban Aboriginal Fair Trade Gallery (SkwachÃ ys Healing Lodge, 29 West 
+Urban Aboriginal Fair Trade Gallery (Skwachàys Healing Lodge, 29 West 
 Pender St)
 Opening reception: September 13, 2013, 6:00 to 9:00 pm
 
@@ -59,5 +60,5 @@ hogue.tarah@gmail.com
 www.malaspinaprintmakers.com
 
 This exhibition is made possible with the generous support of Vancity Credit 
-Union, Emily Carr University of Art + Design, SkwachÃ ys Healing Lodge and 
+Union, Emily Carr University of Art + Design, Skwachàys Healing Lodge and 
 the Urban Aboriginal Fair Trade Gallery as well as Vancouver Foundation.

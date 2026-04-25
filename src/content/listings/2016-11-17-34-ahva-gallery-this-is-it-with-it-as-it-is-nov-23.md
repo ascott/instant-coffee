@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Not somebody not."
 emailDate: "Thu, 17 Nov 2016 10:15:30 -0800"
 number: 34
 type: "OPENING"
+venue: "AHVA Gallery"
 summary: "AHVA Gallery | This is it with it as it is | NOV 23"
 ---
 

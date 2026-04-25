@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a rose by any other name would sm
 emailDate: "Thu, 07 Jul 2011 12:03:12 -0700"
 number: 21
 type: ""
+venue: "Creating the Tools"
 summary: "Creating the Tools | Computational Aesthetics Opening | AUG 5"
 ---
 
-Creating the Tools â€“ Computational Aesthetics Opening | Marriot Downtown | 
+Creating the Tools – Computational Aesthetics Opening | Marriot Downtown | 
 AUG 5
-Vancouver Marriott Pinnacle Downtown Hotel Â· 1128 West Hastings Street Â· 
+Vancouver Marriott Pinnacle Downtown Hotel · 1128 West Hastings Street · 
 Vancouver
 Public Art Opening: Fri Aug 5, 5:30 pm
 Symposium: Aug 5-7 (9 am each day)

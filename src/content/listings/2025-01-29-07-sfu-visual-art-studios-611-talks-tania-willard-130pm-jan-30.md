@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 7
 type: "TALK"
+venue: "SFU Visual Art Studios"
 summary: "SFU Visual Art Studios | 611 Talks: Tania Willard | 130PM | JAN 30"
 ---
 

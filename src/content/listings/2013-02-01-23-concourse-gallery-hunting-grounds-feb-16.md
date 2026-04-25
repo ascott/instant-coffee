@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 23
 type: ""
+venue: "Concourse Gallery"
 summary: "Concourse Gallery | Hunting Grounds | FEB 16"
 ---
 
@@ -14,7 +15,7 @@ summary: "Concourse Gallery | Hunting Grounds | FEB 16"
 Hunting Grounds marks a place of isolation, revelation, and psychic 
 connection. Incorporating drawing, sculpture, ceramics, installation and stop-
 motion video, it is a decidedly old-school endeavour. It is unabashedly 
-sentimental, exploratory, and curious -- itâ€™s an acid trip in the woods, a post-
+sentimental, exploratory, and curious -- it’s an acid trip in the woods, a post-
 apocalyptic hike to higher ground, the discovery of a new species in your 
 backyard. 
 
@@ -22,7 +23,7 @@ backyard.
 
 Natasha Broad, alias Maus Hunt, makes work that highlights relationships in 
 the natural world. She is best known for her whooping cranes, drawn large-
-scale and conceived to raise awareness about the cranesâ€™ endangerment by 
+scale and conceived to raise awareness about the cranes’ endangerment by 
 the Alberta tar sands. 
 
 Vanessa Brown is an interdisciplinary artist whose practice spans painting, 
@@ -62,7 +63,7 @@ WHAT: Shooting of graduate student's video installation project
 WHEN: February 9th and 10th, 2013
 WHERE: Emily Carr University, South Building
 
-My name is Pascale ThÃ©orÃªt-Groulx and I am a graduate student at Emily 
+My name is Pascale Théorêt-Groulx and I am a graduate student at Emily 
 Carr University in Vancouver. I am working on a video installation for an 
 exhibition coming up in March and I am looking for participants/performers. I 
 need about 20 people; young (although over 19), old, tall, short, male, female, 

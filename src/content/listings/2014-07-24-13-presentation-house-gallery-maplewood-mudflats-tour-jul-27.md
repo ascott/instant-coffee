@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: who in the world does not want mor
 emailDate: "Thu, 24 Jul 2014 08:16:36 -0700"
 number: 13
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | MAPLEWOOD MUDFLATS TOUR | JUL 27"
 ---
 
@@ -15,7 +16,7 @@ Presented in partnership with the Wild Bird Trust's "Return of the Osprey
 Festival"
 
 Presentation House Gallery is pleased to offer a tour of the Maplewood 
-Conservation Areaâ€”the storied site of our current exhibition, "Bruce 
+Conservation Area—the storied site of our current exhibition, "Bruce 
 Stewart: Dollarton Pleasure Faire, 1972." Join curator and former 
 Presentation House Gallery Director Bill Jeffries and Patricia Banning-
 Lover, President of the Wild Bird Trust of British Columbia, for a historic 

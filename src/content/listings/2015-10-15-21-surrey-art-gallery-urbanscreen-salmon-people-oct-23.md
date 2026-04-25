@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 21
 type: "EVENT"
+venue: "Surrey Art Gallery UrbanScreen"
 summary: "Surrey Art Gallery UrbanScreen | Salmon People | OCT 23"
 ---
 
@@ -45,7 +46,7 @@ Salmon People was made possible through the GRAND AD-NODE Project Fund,
 Emily Carr University of Art + Design.
 
 About UrbanScreen:
-Imagined by artists and built by the City, Surreyâ€™s UrbanScreen is Canada's
+Imagined by artists and built by the City, Surrey’s UrbanScreen is Canada's
 largest non-commercial outdoor urban screen dedicated to presenting digital
 and interactive art. UrbanScreen is an offsite venue of the Surrey Art
 Gallery and is located on the west wall of Chuck Bailey Recreation Centre
@@ -60,7 +61,7 @@ Council Unique Opportunities Program, and is a legacy of the Vancouver 2010
 Cultural Olympiad project CODE. Surrey Art Gallery gratefully acknowledges
 funding support from the Canada Council for the Arts and the BC Arts
 Council for its ongoing programming including this exhibition.
-UrbanScreenâ€™s equipment renewal was made possible by the Canada Cultural
+UrbanScreen’s equipment renewal was made possible by the Canada Cultural
 Spaces Fund of the Department of Canadian Heritage and the City of Surrey.
 
 More information about UrbanScreen is available at www.surreyurbanscreen.ca.

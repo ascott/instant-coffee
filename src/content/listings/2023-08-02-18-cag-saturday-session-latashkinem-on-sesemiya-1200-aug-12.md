@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 18
 type: "EVENT"
+venue: "CAG"
 summary: "CAG | Saturday Session: Latashkinem on Sesemiya | 12:00 | AUG 12"
 ---
 

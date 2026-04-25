@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the process of making things toget
 emailDate: "Thu, 17 Mar 2016 15:40:37 -0700"
 number: 38
 type: "CALL"
+venue: "Artscape Gibraltar Point"
 summary: "Artscape Gibraltar Point | Open Call: Alchemy | APR 15"
 ---
 

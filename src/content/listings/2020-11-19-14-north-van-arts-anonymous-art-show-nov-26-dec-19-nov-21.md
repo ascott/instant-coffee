@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Endless Staircase"
 emailDate: "Thu, 19 Nov 2020 08:30:06 -0800"
 number: 14
 type: "FUNDRAISER"
+venue: "North Van Arts"
 summary: "North Van Arts | Anonymous Art Show | NOV 26 - DEC 19 | NOV 21"
 ---
 

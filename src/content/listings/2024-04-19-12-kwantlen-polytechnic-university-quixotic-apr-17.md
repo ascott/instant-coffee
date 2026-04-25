@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Art Studio for Rent"
 emailDate: "Thu, 18 Apr 2024 17:00:12 -0700"
 number: 12
 type: "EXHIBITION"
+venue: "Kwantlen Polytechnic University"
 summary: "Kwantlen Polytechnic University | Quixotic | APR 17"
 ---
 

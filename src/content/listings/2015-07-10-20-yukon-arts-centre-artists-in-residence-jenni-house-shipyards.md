@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 20
 type: "CALL"
+venue: "Yukon Arts Centre"
 summary: "Yukon Arts Centre | Artists In Residence: Jenni House, Shipyards Park | JUL 20"
 ---
 

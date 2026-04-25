@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Octave of Intelligence"
 emailDate: "Thu, 17 Jan 2019 15:00:10 -0800"
 number: 1
 type: "EXHIBITION"
+venue: "The West Vancouver Art Museum"
 summary: "The West Vancouver Art Museum | Ron Stonier: A Concept of Time | JAN 16"
 ---
 

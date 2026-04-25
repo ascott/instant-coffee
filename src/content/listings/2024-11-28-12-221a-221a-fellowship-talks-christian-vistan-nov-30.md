@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Farm "
 emailDate: "Wed, 27 Nov 2024 23:30:09 -0800"
 number: 12
 type: "EVENT"
+venue: "221A"
 summary: "221A | 221A Fellowship Talks: Christian Vistan | NOV 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Angel Hair Nontent"
 emailDate: "Wed, 16 Aug 2023 09:00:17 -0700"
 number: 8
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Polygon Gallery | DRIVING IN PALESTINE BY REHAB NAZZAL | 530PM | AUG 20"
 ---
 

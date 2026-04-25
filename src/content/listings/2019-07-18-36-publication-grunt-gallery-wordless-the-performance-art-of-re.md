@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Estuary"
 emailDate: "Thu, 18 Jul 2019 07:00:18 -0700"
 number: 36
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | grunt gallery | Wordless - The Performance Art of Rebecca Belmore | JUL 28"
 ---
 

@@ -49,7 +49,7 @@ Following launch events and lectures in Berlin, Rotterdam, and Vancouver, Fillip
 
 Orders & Subscriptions
 The issue is available for purchase for $15 postage paid and can be ordered through Motto Distribution (Europe), Textfield Distribution (US), Disticor (Canada/US), and The Book Society (Asia). Subscriptions are available for
-$25 / Ã¢ï¿½Â¬25 for one year (three issues) via the Fillip Web site.
+$25 / â�¬25 for one year (three issues) via the Fillip Web site.
 
 Advertising information can be found at http://fillip.ca/advertising.
 
@@ -222,7 +222,7 @@ Lani Maestro | Emily Carr Speaker Series Wednesday, October 20, 2010 - 7:00pm
 
 Emily Carr Lecture Theatre (SB Room 301) 1400 Johnston Street, Granville Island,Vancouver
 
-Lani Maestro is a Canadian artist born in Philippines who now divides her time between France and Canada. Maestro has been a Canadian representative to numerous international exhibitions including The Beppu Project, Beppu, Japan, (2009), 9th Sharjah Biennial Sharjah, United Arab Emirates (2009), the Shanghai Biennial , Shanghai, China (2000), 11th Biennale of Sydney, Sydney, Australia (1998), 5th International Istanbul Biennial, Istanbul, Turkey (1997), Asia Pacific Triennial, Brisbane, Australia (1997) and TraversÃ©es/Crossings"at the National Gallery of Canada. Ottawa ,(1998). In
+Lani Maestro is a Canadian artist born in Philippines who now divides her time between France and Canada. Maestro has been a Canadian representative to numerous international exhibitions including The Beppu Project, Beppu, Japan, (2009), 9th Sharjah Biennial Sharjah, United Arab Emirates (2009), the Shanghai Biennial , Shanghai, China (2000), 11th Biennale of Sydney, Sydney, Australia (1998), 5th International Istanbul Biennial, Istanbul, Turkey (1997), Asia Pacific Triennial, Brisbane, Australia (1997) and Traversées/Crossings"at the National Gallery of Canada. Ottawa ,(1998). In
 1986 Lani Maestro was awarded the Biennal Prize for her work in the Segunda Bienal de la Habana in Havana, Cuba. Recent solo exhibitiions include, je suis toi, Eglise Saint Nicholas , Wharf, Centre d'art contemporain de Bassse-Normandie, Caen, France (2006), Sing Mother (Twilight eats you), The Dalhousie Art Gallery, Halifax, Nova Scotia, (2006) and currently,The Forgetting of Air in collaboration with Malcolm Goldstein at The Darling Foundry in Montreal until November 28, 2010.
 
 This talk is presented in conjunction with her rain, a new installation by Lani Maestro at Centre A from October 16 - December 4, 2010. Opening reception, Friday, October 15, 8pm.
@@ -366,7 +366,7 @@ The Museum of Anthropology is pleased to announce Man Ray, African Art, and the 
 
 Man Ray, African Art, and the Modernist Lens brings to light photographs of African objects by American artist Man Ray (1890-1976) produced over a period of almost twenty years. In addition to providing fresh insight into Man Rayâ??s photographic practice, the exhibition raises questions concerning the representation, reception, and perception of African art as mediated by the camera lens.
 
-Featured are more than 50 photographs by Man Ray from the 1920s and 1930s alongside approximately 50 photographs by his international avant-garde contemporaries such as Charles Sheeler, Walker Evans, Alfred Stieglitz, and AndrÃ© KertÃ©sz. For the first time, a number of these photographs are presented alongside the original African objects they feature. The juxtaposition offers a rare opportunity to encounter first-hand how various photographic techniques of framing, lighting, camera angle, and cropping evoke radically different interpretations of these objects. Books, avant-garde journals, and popular magazines also on display illustrate how these photographs circulated and promoted ideas about African art and culture to an international audience.
+Featured are more than 50 photographs by Man Ray from the 1920s and 1930s alongside approximately 50 photographs by his international avant-garde contemporaries such as Charles Sheeler, Walker Evans, Alfred Stieglitz, and André Kertész. For the first time, a number of these photographs are presented alongside the original African objects they feature. The juxtaposition offers a rare opportunity to encounter first-hand how various photographic techniques of framing, lighting, camera angle, and cropping evoke radically different interpretations of these objects. Books, avant-garde journals, and popular magazines also on display illustrate how these photographs circulated and promoted ideas about African art and culture to an international audience.
 
 Curated by Wendy Grossman, the exhibition frames the objects and images within diverse contexts, including the Harlem Renaissance, Surrealism, and the worlds of high fashion and popular culture.
 

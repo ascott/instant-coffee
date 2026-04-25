@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we want to tell you something"
 emailDate: "Thu, 04 Jun 2009 09:30:15 -0700"
 number: 9
 type: ""
+venue: "Western Front"
 summary: "Western Front | What Moves Us | JUN 5"
 ---
 

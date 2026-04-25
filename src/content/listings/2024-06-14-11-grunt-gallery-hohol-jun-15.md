@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: HOHOL"
 emailDate: "Fri, 14 Jun 2024 14:46:46 -0700"
 number: 11
 type: "EVENT"
+venue: "grunt gallery"
 summary: "grunt gallery | HOHOL | JUN 15"
 ---
 

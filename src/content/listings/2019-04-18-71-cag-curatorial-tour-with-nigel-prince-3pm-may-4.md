@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 71
 type: "TALK"
+venue: "CAG"
 summary: "CAG | Curatorial Tour with Nigel Prince | 3PM | MAY 4"
 ---
 

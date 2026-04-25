@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Say Nothing in Bright Colours"
 emailDate: "Thu, 16 Oct 2008 09:50:07 -0700"
 number: 24
 type: ""
+venue: "THE PACIFIC CINEMATHEQUE"
 summary: "THE PACIFIC CINEMATHEQUE | Dear Joanie, I made a Movie... | OCT 20"
 ---
 

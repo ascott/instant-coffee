@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: maybe"
 emailDate: "Thu, 06 Jun 2013 13:26:07 -0700"
 number: 16
 type: ""
+venue: "CAG and Roundhouse"
 summary: "CAG and Roundhouse | Screening and talk: Richard Fung | JUN 9"
 ---
 
@@ -27,5 +28,5 @@ and Michelle Jacques (Chief Curator, Art Gallery of Greater Victoria). This
 will be followed by a reception at the Contemporary Art Gallery with
 traditional Trini Roti for purchase.
 
-Funded by the UBC PresidentÃ¢ï¿½ï¿½s Endowment Fund in partnership with the
+Funded by the UBC Presidentâ��s Endowment Fund in partnership with the
 Roundhouse Community Arts and Recreation Centre and the CAG.

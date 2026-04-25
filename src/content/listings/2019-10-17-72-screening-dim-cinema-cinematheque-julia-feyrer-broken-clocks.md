@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Literary Meadow"
 emailDate: "Thu, 17 Oct 2019 10:00:45 -0700"
 number: 72
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | DIM Cinema @ Cinematheque | Julia Feyrer: Broken Clocks | 730PM | OCT 30"
 ---
 

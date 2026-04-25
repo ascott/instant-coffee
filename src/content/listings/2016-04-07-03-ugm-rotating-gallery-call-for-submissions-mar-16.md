@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flesh tones"
 emailDate: "Thu, 07 Apr 2016 12:16:46 -0700"
 number: 3
 type: "CALL"
+venue: "UGM Rotating Gallery"
 summary: "UGM Rotating Gallery | Call for Submissions | MAR 16"
 ---
 

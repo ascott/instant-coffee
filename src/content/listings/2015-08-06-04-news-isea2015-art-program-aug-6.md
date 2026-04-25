@@ -4,11 +4,12 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  abandoned spaces will come back t
 emailDate: "Thu, 06 Aug 2015 15:00:31 -0700"
 number: 4
 type: ""
+venue: "NEWS"
 summary: "NEWS | ISEA2015 | Art Program | AUG 6"
 ---
 
 ISEA2015, the 21st International Symposium on Electronic Art.
-August 14th â€“ 19th.
+August 14th – 19th.
 SFU Woodwards.
 
 ART PROGRAM
@@ -18,7 +19,7 @@ town.
 From August 14-19, Greater Vancouver Area will become a huge artspace as
 hundreds of performances, installations, and exhibitions pop up from
 around the world, and ISEA2015 will have something for everyone with any
-interest in electronic arts. This yearâ€™s theme is DISRUPTION: from glitch
+interest in electronic arts. This year’s theme is DISRUPTION: from glitch
 art to DIY, generative art to culture jamming, the first thing to get
 flipped is the notion of No-Fun City.
 
@@ -42,13 +43,13 @@ Geronimo Inutiq will present ARCTICNOISE, encompassing multimedia,
 performance, and remix to create a post-colonial space on the Coast Salish
 territory occupied by Vancouver. With BIT-Human, the Tsleil-Waututh Nation
 and the Vancouver Indigenous Media Arts Festival will lead a two-day
-workshop using GPS devicesâ€“â€“automated and human-poweredâ€“â€“to track changes
+workshop using GPS devices––automated and human-powered––to track changes
 in tides, migration, and history.
 
-TOMORROWâ€™S MUSIC
+TOMORROW’S MUSIC
 
-Straight from MontrÃ©al, MUTEK will present a special cabaret program. Dance
-to data at Canadaâ€™s very first Algorave, where on-the-fly algorithms create
+Straight from Montréal, MUTEK will present a special cabaret program. Dance
+to data at Canada’s very first Algorave, where on-the-fly algorithms create
 the soundtrack. HAKANAI will place human dance in a digitized landscape.
 Experience a sound installation set in an huge, abandoned fur-storage
 vault. You can also make your own drum kits out of junk. As the symposium
@@ -58,14 +59,14 @@ electro-music yacht cruise.
 ART GETS POLITICAL
 Interactive art-walks will explore the development and gentrification of
 downtown Vancouver. (In)famous disruptors the Yes Men will deliver a
-masterclass in using heartless corporationsâ€™ own power against them. Spaces
-you thought were abandoned will come back to startling life, and youâ€™ll
+masterclass in using heartless corporations’ own power against them. Spaces
+you thought were abandoned will come back to startling life, and you’ll
 engage your city in new ways.
 
 PLUG INTO THE FUTURE
 Keynote addresses will explore the future of electronic art as well as
-lessons from Vancouverâ€™s own progressive past. You arenâ€™t just an audience
-member, though: youâ€™re also a participant. transmission+interference
+lessons from Vancouver’s own progressive past. You aren’t just an audience
+member, though: you’re also a participant. transmission+interference
 invites you to build devices that make sound with light. Revisiting the
 Spam Folder will help you create works of art from badly-composed phishing
 emails. Hacking the Knitting Machine will teach you how to make a beer

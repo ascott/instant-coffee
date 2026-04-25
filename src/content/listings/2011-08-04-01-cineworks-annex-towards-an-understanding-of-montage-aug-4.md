@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 1
 type: ""
+venue: "Cineworks Annex,"
 summary: "Cineworks Annex, | TOWARDS AN UNDERSTANDING OF MONTAGE | AUG 4"
 ---
 

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: take the easy way"
 emailDate: "Thu, 21 Mar 2013 07:15:53 -0700"
 number: 13
 type: ""
+venue: "SFU"
 summary: "SFU | Goldcorp Centre | talk: Michael Taussig | MAR 27"
 ---
 
 Michael Taussig March 27 Lecture
-"Re-enchantment of the Sun in An Age of Global Meltdownâ€œ
-March 27, 7:00 â€“ 9:00 pm
+"Re-enchantment of the Sun in An Age of Global Meltdown“
+March 27, 7:00 – 9:00 pm
 3200 Djavad Mowafaghian Cinema, Goldcorp Centre for the Arts,
 149 West Hastings Street, Vancouver
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 21
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Call for Submission: Drawn, Draw, Drawing | JUL 1"
 ---
 

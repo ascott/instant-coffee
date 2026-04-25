@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: not a ton"
 emailDate: "Wed, 15 Jan 2025 20:50:12 -0800"
 number: 24
 type: ""
+venue: "ECU"
 summary: "ECU | Iris Film Collective x XINEMA present... | 7PM | JAN 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Never"
 emailDate: "Thu, 12 Apr 2018 09:40:05 -0700"
 number: 3
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | 221A - Pollyanna Library | Science Fiction and the Other...| 7-1030PM | APR 12"
 ---
 

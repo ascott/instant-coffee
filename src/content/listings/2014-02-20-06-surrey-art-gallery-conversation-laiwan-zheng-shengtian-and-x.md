@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 6
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Conversation | Laiwan, Zheng Shengtian and Xiaojing Yan | FEB 22"
 ---
 
@@ -20,7 +21,7 @@ Vancouver-based Laiwan and Toronto-based Xiaojing Yan, as well as
 Vancouver-based artist/curator Zheng Shengtian will discuss their work in 
 relation to the current exhibition (Da bao)(Takeout). The artist-panelists will 
 explore relationships between Canadian and Chinese art and artists, and will 
-share how the experience of having lived â€“ or having distant family roots â€“ in 
+share how the experience of having lived – or having distant family roots – in 
 China has influenced their artmaking. The conversation will be moderated by 
 Surrey Art Gallery Curator of Exhibitions and Collections, Jordan Strom. 
 
@@ -56,7 +57,7 @@ the only English-language journal on contemporary Chinese art. He is a
 founding member and has been a Board Director of the Vancouver 
 International Centre for Contemporary Asian Art since 1999. He has 
 presented his artwork internationally for several decades. His artistic 
-collaboration with Wang Dongling â€“ Guanshan Gathering â€“ is being presented 
+collaboration with Wang Dongling – Guanshan Gathering – is being presented 
 at the Chambers Gallery (New York) until February 22. As an independent 
 curator, Zheng has organized and curated numerous exhibitions including 
 Jiangnan: Modern and Contemporary Chinese Art (Vancouver), Shanghai 

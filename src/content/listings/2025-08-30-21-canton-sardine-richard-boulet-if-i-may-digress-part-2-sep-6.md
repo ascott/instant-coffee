@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bed"
 emailDate: "Sat, 30 Aug 2025 09:05:13 -0700"
 number: 21
 type: "OPENING"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Richard Boulet: If I May Digress, Part 2 | SEP 6"
 ---
 

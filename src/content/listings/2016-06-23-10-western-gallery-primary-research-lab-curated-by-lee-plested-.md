@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riding the oscillator"
 emailDate: "Thu, 23 Jun 2016 12:35:16 -0700"
 number: 10
 type: "OPENING"
+venue: "Western Gallery"
 summary: "Western Gallery | Primary Research Lab curated by Lee Plested | JUN 26"
 ---
 

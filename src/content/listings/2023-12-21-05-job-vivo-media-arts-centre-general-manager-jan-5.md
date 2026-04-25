@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mainframe Miracle Breath"
 emailDate: "Wed, 20 Dec 2023 22:20:13 -0800"
 number: 5
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO Media Arts Centre | General Manager | JAN 5"
 ---
 

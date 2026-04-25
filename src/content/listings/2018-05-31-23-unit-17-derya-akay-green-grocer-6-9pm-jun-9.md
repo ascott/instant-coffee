@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 23
 type: "OPENING"
+venue: "Unit 17"
 summary: "Unit 17 | Derya Akay: Green Grocer | 6-9PM | JUN 9"
 ---
 

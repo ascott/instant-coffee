@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 12
 type: ""
+venue: "Wil Aballe Art Projects"
 summary: "Wil Aballe Art Projects | Fabricating Space: The Politics of Domesticity | JAN 16"
 ---
 

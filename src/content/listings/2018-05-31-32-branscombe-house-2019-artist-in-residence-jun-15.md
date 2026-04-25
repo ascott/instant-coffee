@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 32
 type: "CALL"
+venue: "Branscombe House"
 summary: "Branscombe House | 2019 Artist-in-Residence | JUN 15"
 ---
 

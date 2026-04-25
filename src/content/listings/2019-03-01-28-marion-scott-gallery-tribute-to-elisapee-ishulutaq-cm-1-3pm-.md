@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 28
 type: "EVENT"
+venue: "Marion Scott Gallery"
 summary: "Marion Scott Gallery | Tribute to Elisapee Ishulutaq, CM | 1-3PM | MAR 9"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 23
 type: ""
+venue: "ON MAIN GALLERY"
 summary: "ON MAIN GALLERY | Thru the Trapdoor! | APR 22"
 ---
 
@@ -11,21 +12,21 @@ ON MAIN GALLERY PRESENTS: Thru the Trapdoor!
 Is this email not displaying correctly?
 View it in your browser.
 
-OMG â€“ On Main Gallery presents: THRU THE TRAPDOOR
+OMG – On Main Gallery presents: THRU THE TRAPDOOR
 A major interdisciplinary art event featuring over 50 artists and curators.
 Artistic Director: Paul Wong
 Producer: Rick Erickson
 
-Opening: Tuesday Apr. 22, 8 â€“ 10 PM
-Exhibition: Apr 23 â€“ 25, 12 â€“ 8 PM Free Admission
+Opening: Tuesday Apr. 22, 8 – 10 PM
+Exhibition: Apr 23 – 25, 12 – 8 PM Free Admission
 Performances, Interactive Works, Artist and Curator Talks: Apr 23 - 25, 6-8 
 PM 
-Art Party: Saturday Apr 26, 8PM â€“ 2AM $10 Admission
+Art Party: Saturday Apr 26, 8PM – 2AM $10 Admission
 1965 Main St., Vancouver
 
 Site-specific installations, projections, visuals, sculpture, performance, music, 
 relational experiences, assemblages, constructions, participatory 
-happenings, sound, interactive art, and moreâ€¦
+happenings, sound, interactive art, and more…
 
 Trapdoor is a 5-day exhibition concluding with a monumental closing event. 
 This is the final act and the end of an era for 1965 Main St., an important and 
@@ -106,21 +107,21 @@ Trevor Discoe
 Vjeko Sager
 Wynne Palmer
 William Bros 
-AND MOREâ€¦
+AND MORE…
 
 For the closing Art Party on Sat. April 26, we are going all out creating a 
 spectacular experience. Happening in a combined 10,000 sq. ft. of space, the 
 Art Party will include the upstairs, downstairs, and parking lot of 1965 Main 
 St. There will be video mapping on the building exterior, and we will feature 
-an additional lineup of performers, DJâ€™s, musicians, and visual artists for this 
+an additional lineup of performers, DJ’s, musicians, and visual artists for this 
 stellar event.
 
-This is going to be legendary, harking back to the free spirit of 1980â€™s artistsâ€™ 
+This is going to be legendary, harking back to the free spirit of 1980’s artists’ 
 warehouse shows.
 
 Sponsors/participating organizations to date: Bomber Brewing, Cinevolution 
 Media Arts Society, grunt Gallery, Hybridity Media, New Forms Festival, Or 
-Gallery, VANDOCUMENT, VIVO Media Arts Centre, and moreâ€¦
+Gallery, VANDOCUMENT, VIVO Media Arts Centre, and more…
 
 For further information and images, please contact 
 kenneth@onmaingallery.com

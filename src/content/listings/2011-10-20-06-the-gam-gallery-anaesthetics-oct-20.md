@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GAUDY daffy, DEAD Duck"
 emailDate: "Thu, 20 Oct 2011 12:40:22 -0700"
 number: 6
 type: ""
+venue: "The Gam Gallery"
 summary: "The Gam Gallery | AN/AESTHETICS | OCT 20"
 ---
 
@@ -19,14 +20,14 @@ October 20 - November 3, 2011
 Opening Reception: Thursday October 20, 2011 7-10 pm
 
 Youmi Choi, Charmain Hung, Mia Ikeda, Elisha Kim, Lin Lilly Li, Jasmine 
-Schuett, Ye Jin Song, Tony Wu, Gamze YalÃ§in, Kaitlin Zhang, Lucy Zhong, and 
+Schuett, Ye Jin Song, Tony Wu, Gamze Yalçin, Kaitlin Zhang, Lucy Zhong, and 
 Diamond Zhou
 
-This exhibition draws on Susan Buck-Morssâ€™ 1993 text for the journal 
-October, â€œAesthetics and Anaesthetics: Walter Bejaminâ€™s Artwork Essay 
+This exhibition draws on Susan Buck-Morss’ 1993 text for the journal 
+October, “Aesthetics and Anaesthetics: Walter Bejamin’s Artwork Essay 
 Reconsidered.â€  Students explore the etymology of the term â€œaestheticâ€  that Buck-
-Morss discusses as the Greek â€˜aisthitikosâ€™: that which is perceptive by feeling. 
-Buck-Morss writes, â€œAisthisis is the sensory experience of perception. The 
+Morss discusses as the Greek ‘aisthitikos’: that which is perceptive by feeling. 
+Buck-Morss writes, “Aisthisis is the sensory experience of perception. The 
 original field of aesthetics is not art but reality â€“ corporeal, material nature.â€  
 Through the mediums of photography, paint, drawing and installation, the artists 
 will offer their own varied interpretations of this term and explore the evolution of 

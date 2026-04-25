@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 39
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | SLOW Relations + Practices BIPOC residency | MAY 13"
 ---
 

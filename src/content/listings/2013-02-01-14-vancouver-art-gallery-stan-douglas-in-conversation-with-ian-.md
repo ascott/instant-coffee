@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 14
 type: ""
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Stan Douglas In Conversation With Ian Wallace | FEB 5"
 ---
 
@@ -12,10 +13,10 @@ Canadian Art Foundation International Speaker Series
 Date: February 5, 2013
 Time: 7:00 pm
 Location: Vancouver Art Gallery
-Created in conjunction with the landmark exhibition â€œIan Wallace: At the 
+Created in conjunction with the landmark exhibition “Ian Wallace: At the 
 Intersection of Painting and Photography,â€  the talks series Reading Ian 
 Wallace: An International Perspective consists of conversations that provide a 
-rare opportunity for first-hand insight into Wallaceâ€™s expansive career.
+rare opportunity for first-hand insight into Wallace’s expansive career.
 
 Renowned artists and critics, in conversation with Wallace himself, will 
 contextualize the evolution of his artistic practice as it relates to the larger 
@@ -26,7 +27,7 @@ The third talk in this series features artist Stan Douglas in conversation with
 Ian Wallace on February 5 at 7 p.m. Sharing a long history in Vancouver, 
 Douglas and Wallace have employed a cinematic â€œeyeâ€  in creating their 
 photographic works. Douglas and Wallace, who have both helped define 
-Vancouverâ€™s art scene internationally, will discuss the broader implications of 
+Vancouver’s art scene internationally, will discuss the broader implications of 
 such cinematic references during this event.
 
 Reading Ian Wallace: An International Perspective is a partnership between 

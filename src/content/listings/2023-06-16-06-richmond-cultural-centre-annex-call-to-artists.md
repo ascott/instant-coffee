@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 6
 type: "CALL"
+venue: "Richmond Cultural Centre Annex"
 summary: "Richmond Cultural Centre Annex | Call to Artists"
 ---
 

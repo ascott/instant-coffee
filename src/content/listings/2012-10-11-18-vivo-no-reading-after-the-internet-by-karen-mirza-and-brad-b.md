@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: waiting for better words"
 emailDate: "Thu, 11 Oct 2012 08:20:31 -0700"
 number: 18
 type: ""
+venue: "VIVO"
 summary: "VIVO | No Reading After the Internet | by Karen Mirza and Brad Butler | OCT 17"
 ---
 
@@ -42,7 +43,7 @@ from the Berlin underground to the front lines of the Spanish Civil War
 and on to other parts of Europe, the story teems with characters, 
 almost all of whom are based on historical figures.
 
-Peter Ulrich Weiss (8 November 1916 â€“ 10 May 1982) was a German 
+Peter Ulrich Weiss (8 November 1916 – 10 May 1982) was a German 
 writer, painter, graphic artist, and experimental filmmaker of adopted 
 Swedish nationality. He is particularly known for his plays Marat/Sade 
 and The Investigation and his novel The Aesthetics of Resistance. 
@@ -61,9 +62,9 @@ filmmaker remains less well-known.
 Karen Mirza and Brad Butler have worked together since 1998, and in 
 2004 formed no.w.here, an artist-run space for the production, 
 discussion and dissemination of practices engaged with the moving 
-image, politics, technology and aesthetics. no.w.hereâ€™s role as a 
+image, politics, technology and aesthetics. no.w.here’s role as a 
 cooperative environment is directly related to the centering of Mirza 
-and Butlerâ€™s own practice upon collaboration, dialogue and the social. 
+and Butler’s own practice upon collaboration, dialogue and the social. 
 Mirza and Butler are currently producing a new film, entitled Deep 
 State, in collaboration with science fiction author China Mieville which 
 takes its starting point in different moments of political struggle, 

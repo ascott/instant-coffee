@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: 6 green letter words"
 emailDate: "Thu, 05 Apr 2018 11:50:05 -0700"
 number: 23
 type: "EVENT"
+venue: "What are Our Supports"
 summary: "What are Our Supports | Outer Plexus: Stacy Ho, w/ sound by Elisa Ferrari | APR 12"
 ---
 

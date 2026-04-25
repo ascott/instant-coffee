@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE ETHICS"
 emailDate: "Thu, 04 Aug 2011 11:47:07 -0700"
 number: 4
 type: ""
+venue: "Ayden Gallery"
 summary: "Ayden Gallery | Tangled Wires | AUG 5"
 ---
 

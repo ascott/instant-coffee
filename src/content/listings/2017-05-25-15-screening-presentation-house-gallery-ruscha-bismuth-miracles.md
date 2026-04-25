@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the porcelain vase"
 emailDate: "Wed, 24 May 2017 22:45:08 -0700"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Presentation House Gallery | RUSCHA + BISMUTH: MIRACLES AND MISSING PIECES | MAY 31"
 ---
 

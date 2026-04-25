@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: on the count of three"
 emailDate: "Thu, 08 Oct 2009 09:24:10 -0700"
 number: 3
 type: ""
+venue: "Jeffrey Boone Gallery"
 summary: "Jeffrey Boone Gallery | Carrie Walker | OCT 8"
 ---
 

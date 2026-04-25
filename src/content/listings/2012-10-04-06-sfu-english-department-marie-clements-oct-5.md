@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Meditation Cornwall"
 emailDate: "Thu, 04 Oct 2012 15:55:10 -0700"
 number: 6
 type: ""
+venue: "SFU English Department"
 summary: "SFU English Department | Marie Clements | OCT 5"
 ---
 
@@ -22,7 +23,7 @@ Harbour Centre, SFU
 Free and Open to the Public
 
 About Marie Clements
-Marie Clements is an award-winning MÃ©tis Dene playwright, screenwriter,
+Marie Clements is an award-winning Métis Dene playwright, screenwriter,
 performer, director, and producer, and co-director of Frog Girl Films and
 red diva projects. She has worked extensively in and across a variety of
 media including theatre, performance, film, new media, radio, and
@@ -30,7 +31,7 @@ television. Her twelve plays, including Copper Thunderbird, Burning Vision,
 and The Unnatural and Accidental Women, have been presented on some of 
 the
 most prestigious stages for Canadian and international work including the
-Festival de thÃ©Ã¢tre des AmÃ©riques in Montreal (Urban Tattoo 2001; Burning
+Festival de théâtre des Amériques in Montreal (Urban Tattoo 2001; Burning
 Vision 2003), and the National Arts Centre and The Magnetic North Festival
 in Ottawa (Burning Vision 2003; Copper Thunderbird 2007; Edward Curtis
 Project 2013). Her work has garnered numerous awards, including the 2004

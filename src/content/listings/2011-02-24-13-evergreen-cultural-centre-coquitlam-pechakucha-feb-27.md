@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: There are two ICs in iconclastic"
 emailDate: "Thu, 24 Feb 2011 11:28:15 -0800"
 number: 13
 type: ""
+venue: "EVERGREEN CULTURAL CENTRE COQUITLAM"
 summary: "EVERGREEN CULTURAL CENTRE COQUITLAM | PECHAKUCHA | FEB 27"
 ---
 
 FEB 27TH 2011 PECHAKUCHA NIGHT COQUITLAM IS BACK FOR VOL# 2!!!
-(PART OF THE WATERï¿½S EDGE FESTIVAL)
+(PART OF THE WATER�S EDGE FESTIVAL)
 
-ITï¿½S TIME TO BUY TICKETS!!!!
+IT�S TIME TO BUY TICKETS!!!!
 
 SUNDAY FEBRUARY 27TH 2011 7PM
 EVERGREEN CULTURAL CENTRE COQUITLAM
 TICKETS: 12$ RESERVED SEATING
 MUST BUY IN ADVANCE: www.watersedgemusic.ca
 
-WHY YOU GOTTAï¿½COME: PKN (PechaKucha Night) is a dynamic convergence of
+WHY YOU GOTTA�COME: PKN (PechaKucha Night) is a dynamic convergence of
 local artists, hipsters and entrepreneurs who come to network, be inspired
 and share what they do with a live audience. After PKN Coquitlam Vol #1 in
 November 2010 received rave reviews, PKN has quickly become one of the

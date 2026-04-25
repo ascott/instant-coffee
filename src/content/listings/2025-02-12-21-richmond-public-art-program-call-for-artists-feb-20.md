@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 21
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | Call for Artists | FEB 20"
 ---
 

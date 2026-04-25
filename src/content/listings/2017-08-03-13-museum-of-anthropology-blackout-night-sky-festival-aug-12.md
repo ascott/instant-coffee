@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Like a glass frog"
 emailDate: "Thu, 03 Aug 2017 10:10:09 -0700"
 number: 13
 type: "EVENT"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Blackout: Night Sky Festival | AUG 12"
 ---
 

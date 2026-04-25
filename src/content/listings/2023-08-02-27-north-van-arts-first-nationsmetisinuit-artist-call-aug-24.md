@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 27
 type: "CALL"
+venue: "North Van Arts"
 summary: "North Van Arts | First Nations/Metis/Inuit Artist Call | AUG 24"
 ---
 

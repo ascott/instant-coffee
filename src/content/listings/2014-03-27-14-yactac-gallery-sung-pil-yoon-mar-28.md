@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you cant watch your train go by i
 emailDate: "Thu, 27 Mar 2014 06:52:38 -0700"
 number: 14
 type: ""
+venue: "Yactac Gallery"
 summary: "Yactac Gallery | Sung Pil Yoon | MAR 28"
 ---
 

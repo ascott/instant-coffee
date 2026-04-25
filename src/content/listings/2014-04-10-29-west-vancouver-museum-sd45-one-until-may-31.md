@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a reality based on experience"
 emailDate: "Thu, 10 Apr 2014 11:21:27 -0700"
 number: 29
 type: ""
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | SD45 One | until | MAY 31"
 ---
 

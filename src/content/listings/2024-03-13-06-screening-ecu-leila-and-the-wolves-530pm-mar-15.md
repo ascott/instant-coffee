@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 6
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | ECU | Leila and the Wolves | 530PM | MAR 15"
 ---
 

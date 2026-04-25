@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A call to abandon all possible fut
 emailDate: "Thu, 29 Aug 2013 16:01:03 -0700"
 number: 20
 type: ""
+venue: "SAVAC : CALL"
 summary: "SAVAC : CALL | Monitor 10: New South Asian Short Film + Video | SEP 15"
 ---
 
@@ -17,7 +18,7 @@ invite independent and innovative short films and videos that explore the
 aesthetic and form of the moving image and its relation to narrative. 
 
 Monitor 10 encourages new, experimental and risk-taking work that 
-challenges the viewerâ€™s active engagement.
+challenges the viewer’s active engagement.
 
 Selected works will be screened in April 2014 in Toronto, Canada. Monitor 10 
 will be programmed by independent curator and artist Shai Heredia.
@@ -32,7 +33,7 @@ Artist fees will be paid.
 
 Submissions MUST include all of the following 
 
-Â· Name of artist or director
+· Name of artist or director
 
 Â· Full contact information (address, phone, email, website) 
 
@@ -44,9 +45,9 @@ Submissions MUST include all of the following 
 
 Â· Artist CV 
 
-Â· 3 High-resolution production stills
+· 3 High-resolution production stills
 
-Submissions can be sent via email with a URL link to the artist/directorâ€™s 
+Submissions can be sent via email with a URL link to the artist/director’s 
 YouTube/Vimeo account (please provide passwords if necessary and make 
 the link downloadable).
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 7
 type: "OPENING"
+venue: "Monte Clark Gallery"
 summary: "Monte Clark Gallery | Owen Kydd | OCT 17"
 ---
 
@@ -16,7 +17,7 @@ In his exhibition at Monte Clark Gallery, Owen Kydd presents a
 selection of new works including photographic murals and videos on
 digital screens.
 
-Writer Aaron Peck first described Kyddâ€™s early video works on monitors
+Writer Aaron Peck first described Kydd’s early video works on monitors
 as â€œdurational photographs,â€  pieces that challenged the boundaries
 between photography and video while at the same time resisting aspects
 of cinema inherent to moving images. Kydd has since continued to

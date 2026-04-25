@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LOVE AND PROTEST"
 emailDate: "Thu, 20 Aug 2020 09:55:37 -0700"
 number: 17
 type: "EVENT"
+venue: "Branscombe House"
 summary: "Branscombe House | Give/Take: Pride Online Screening | 7PM | AUG 27"
 ---
 

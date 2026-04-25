@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 10
 type: "TALK"
+venue: "BAF [ONLINE]"
 summary: "BAF [ONLINE] | Katie So and Jackie Dives | 2PM | JUL 18"
 ---
 

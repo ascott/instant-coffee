@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 29
 type: "OPENING"
+venue: "Seymour Art Gallery"
 summary: "Seymour Art Gallery | Kinder Morgen - Children Tomorrow | AUG 23"
 ---
 
@@ -16,9 +17,9 @@ in conversation: SUNDAY AUGUST 23, 2PM
 
 Reception: SUNDAY AUGUST 23, 3PM
 
-Kinder Morgen in the German language directly translates as â€˜Children
-Tomorrowâ€™, and artist Nancy Bleck calls up this meaning alongside the 
-name â€˜Kinder Morganâ€™ as an energy corporation, as a way to align with 
+Kinder Morgen in the German language directly translates as ‘Children
+Tomorrow’, and artist Nancy Bleck calls up this meaning alongside the 
+name ‘Kinder Morgan’ as an energy corporation, as a way to align with 
 the Tsleil Waututh cultural world-view of how things get done, always 
 with an eye toward the seven generations yet unborn, or tomorrow's 
 children.
@@ -42,7 +43,7 @@ Admission is free of charge.
 
 4360 Gallant Ave, North Vancouver BC (in the heart of Deep Cove)
 
-Open 7 days a week, 10 a.m. â€“ 5 p.m. except stat holidays
+Open 7 days a week, 10 a.m. – 5 p.m. except stat holidays
 www.seymourartgallery.com
 
 For more info, contact Curator/Director Sarah Cavanaugh at

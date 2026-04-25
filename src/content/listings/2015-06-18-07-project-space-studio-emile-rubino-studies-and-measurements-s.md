@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poet vacation"
 emailDate: "Thu, 18 Jun 2015 14:56:06 -0700"
 number: 7
 type: "OPENING"
+venue: "Project Space Studio"
 summary: "Project Space Studio | Emile Rubino: Studies and Measurements / Stairs | JUN 19"
 ---
 
@@ -20,16 +21,16 @@ Stairs," a photography exhibition by French artist Emile Rubino. Two
 special edition prints realized for the exhibition will be available for
 purchase at the event.
 
-"Ã‰tudes et mesures (translating as: Studies and Measurements) is an ongoing
+"Études et mesures (translating as: Studies and Measurements) is an ongoing
 cycle of individually named and numbered photographic studies, which all
 together constitute a continuous space of investigation centrally
-positioned within Emile Rubinoâ€™s work. This space allows him to explore
+positioned within Emile Rubino’s work. This space allows him to explore
 various recurrent themes or ideas, while creating an ever-evolving personal
 archive, oscillating between finished and unfinished. The present
 exhibition focuses on a thematic study of stairs revolving around one
 central picture."
 
-â€” "Studies and Measurements / Stairs," a photography exhibition by Emile
+— "Studies and Measurements / Stairs," a photography exhibition by Emile
 Rubino with special edition prints
 
 EMILE RUBINO is a French photographer currently based in Vancouver.
@@ -47,10 +48,10 @@ While exploring photographic materiality in a cautiously self-referential
 manner, his studies aim to seamlessly merge materiality and depiction in a
 symbiotic manner, pointing out their indissoluble relationship. Between
 tradition and contemporaneity, or rather by considering "tradition" as
-indefinitely contemporary, Rubinoâ€™s work draws from various artistic
+indefinitely contemporary, Rubino’s work draws from various artistic
 influences ranging from documentary photographic traditions, photographic
 appropriation, conceptual art, painting and drawing in order to evaluate
-photographyâ€™s depictive nature within a broad artistic context.
+photography’s depictive nature within a broad artistic context.
 
 Rubino is a recent graduate of Emily Carr University of Art and Design (BFA
 in Photography). In the fall of 2015, he will begin his MFA at ICP-Bard,
@@ -68,5 +69,5 @@ PROJECT SPACE MEMBERS receive a 20% discount on Emile Rubino's set of
 special edition prints and can purchase both for $20.
 
 Monthly Open Studio events are hosted every third Friday of the month and
-are organized by Project Spaceâ€™s Curatorial Collective. This edition was
+are organized by Project Space’s Curatorial Collective. This edition was
 organized by Melanie Trojkovic.

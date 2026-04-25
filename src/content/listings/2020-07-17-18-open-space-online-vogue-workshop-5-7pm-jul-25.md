@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 18
 type: "EDUCATION"
+venue: "Open Space [ONLINE]"
 summary: "Open Space [ONLINE] | Vogue Workshop | 5-7PM | JUL 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
 emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
 number: 28
 type: "OPENING"
+venue: "West Vancouver Museum"
 summary: "West Vancouver Museum | THE CERAMIC ART OF THOMAS KAKINUMA | 7-9PM | JAN 23"
 ---
 

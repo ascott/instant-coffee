@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 15
 type: ""
+venue: "THEATRE"
 summary: "THEATRE | CBC Studio 700 | Movin' On Up | 7PM | JUN 22"
 ---
 

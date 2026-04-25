@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 20
 type: "TALK"
+venue: "ECUAD - Sculpture Studio D1359"
 summary: "ECUAD - Sculpture Studio D1359 | TWILIGHT HOUR - ZADIE XA | 6-8PM | JAN 16"
 ---
 

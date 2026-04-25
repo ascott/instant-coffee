@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: turning base metals into gold"
 emailDate: "Thu, 29 Apr 2010 12:34:42 -0700"
 number: 14
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | panel | Brady Cranfield, Leonard J. Paul and Anju Singh | MAY 6"
 ---
 

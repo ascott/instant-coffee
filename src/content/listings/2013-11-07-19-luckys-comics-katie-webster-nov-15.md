@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 19
 type: ""
-summary: "Luckyâ€™s Comics | Katie Webster | NOV 15"
+venue: "Lucky’s Comics"
+summary: "Lucky’s Comics | Katie Webster | NOV 15"
 ---
 
-Luckyâ€™s Comics, Books and Gallery presents // 
+Lucky’s Comics, Books and Gallery presents // 
 Celebrated Summer: Photos by Katie Webster 
 //
 Opening: Friday November 15th from 8-11pm

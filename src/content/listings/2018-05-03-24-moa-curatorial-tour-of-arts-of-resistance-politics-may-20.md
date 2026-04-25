@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sans Sans"
 emailDate: "Thu, 03 May 2018 09:55:06 -0700"
 number: 24
 type: "TALK"
+venue: "MOA"
 summary: "MOA | Curatorial Tour of Arts of Resistance: Politics... | MAY 20"
 ---
 

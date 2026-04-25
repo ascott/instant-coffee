@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Whatsoever is delighted in solitud
 emailDate: "Thu, 06 Dec 2012 13:32:33 -0800"
 number: 6
 type: ""
+venue: "Access Gallery"
 summary: "Access Gallery | talk: Sean Alward | DEC 8"
 ---
 
@@ -22,7 +23,7 @@ on fragments, influenced by pre-historic middens, garbage dumps, and
 geological formations. Founded in his life-long interest in archeology and 
 partly a response to current development and land issues in the city, his 
 works evoke the physical remains of human history hidden just below 
-Vancouverâ€™s parking lots, condo developments, and city streets. Alward is 
+Vancouver’s parking lots, condo developments, and city streets. Alward is 
 interested in how these images reconfigure space, how time is enacted within 
 these spaces, and how history is formulated as a present experience: now. 
 

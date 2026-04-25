@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vancouver on the GPS"
 emailDate: "Thu, 31 May 2018 08:20:29 -0700"
 number: 26
 type: "TALK"
+venue: "UNIT/PITT & ARTS ASSEMBLY"
 summary: "UNIT/PITT & ARTS ASSEMBLY | COLLECTIVE RECKONING | JUN 10"
 ---
 

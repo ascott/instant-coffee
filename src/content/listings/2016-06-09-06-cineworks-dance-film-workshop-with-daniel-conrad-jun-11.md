@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 6
 type: "EDUCATION"
+venue: "Cineworks"
 summary: "Cineworks | Dance Film Workshop with Daniel Conrad | JUN 11"
 ---
 

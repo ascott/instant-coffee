@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: poly queer love ballad"
 emailDate: "Thu, 24 Jan 2019 09:30:32 -0800"
 number: 44
 type: "CALL"
+venue: "Access Gallery"
 summary: "Access Gallery | PLOT | MAR 18"
 ---
 

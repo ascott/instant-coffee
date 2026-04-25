@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mesomonuments"
 emailDate: "Fri, 30 Oct 2020 10:50:51 -0700"
 number: 12
 type: "OPENING"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | Tara Nicholson - Pleistocene Park | NOV 6"
 ---
 

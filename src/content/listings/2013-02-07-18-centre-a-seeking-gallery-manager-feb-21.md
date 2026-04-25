@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  we were in chains soaked in fetid
 emailDate: "Thu, 07 Feb 2013 13:17:54 -0800"
 number: 18
 type: ""
+venue: "Centre A"
 summary: "Centre A | Seeking Gallery Manager | FEB 21"
 ---
 
@@ -37,7 +38,7 @@ The Gallery Manager co-ordinates membership administration and
 communications, and is responsible for writing and issuing regular member 
 newsletters, growing the membership and generating renewals. S/he will be 
 an active participant in donor development and audience development 
-initiatives. S/he will manage website content and Centre Aâ€™s social media.
+initiatives. S/he will manage website content and Centre A’s social media.
 
 Strong English language skills are essential to this role as the candidate will 
 be required to undertake a variety of writing tasks including drafting press 
@@ -70,7 +71,7 @@ familiarity with Excel and database applications. Centre A uses Giftworks, a
 database application for managing memberships and donations and Access 
 for managing event ticket sales and receipting.
 
-A valid driverâ€™s license and access to a vehicle is an asset. The candidate 
+A valid driver’s license and access to a vehicle is an asset. The candidate 
 must be available to work Saturdays. From time to time the candidate will be 
 required to work after hours to manage or assist with events. S/he will be 
 compensated with time in lieu for any after hours work.

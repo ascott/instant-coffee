@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Spasms"
 emailDate: "Wed, 03 Jan 2024 23:35:05 -0800"
 number: 9
 type: "EDUCATION"
+venue: "[ONLINE]"
 summary: "[ONLINE] | [WORKSHOP] Develop a Writing Ritual | JAN 15"
 ---
 

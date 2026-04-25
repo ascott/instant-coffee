@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: peripheral relation to a dominant 
 emailDate: "Thu, 04 Aug 2016 12:05:27 -0700"
 number: 1
 type: "TALK"
+venue: "Access Gallery"
 summary: "Access Gallery | Ed Spence, Ian Wallace & Helga Pakasaar | AUG 4"
 ---
 

@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 20
 type: ""
+venue: "Richmond"
 summary: "Richmond | Quintet Development Public Art Project: call | MAR 26"
 ---
 
-Quintet Development Public Art Project â€“ Request for Qualifications
+Quintet Development Public Art Project – Request for Qualifications
 
 This Request for Qualifications (RFQ) invites artists and artist teams to 
 consider the notion of multiple communities. What constitutes the coming 
@@ -28,7 +29,7 @@ Eligibility: Canadian Residents
 Deadline for Submissions: March 26, 2014, 5:00pm
 
 All information about the project is contained in the PDF Terms of Reference 
-document accessible from our â€˜Call to Artistsâ€™ webpage: 
+document accessible from our ‘Call to Artists’ webpage: 
 http://www.richmond.ca/culture/publicart/opportunities.htm
 
 Questions? Contact: publicart@richmond.ca

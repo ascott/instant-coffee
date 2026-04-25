@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 11
 type: ""
+venue: "Waldorf"
 summary: "Waldorf | Day for Night | Werner Herzog | MAR 13"
 ---
 
@@ -46,6 +47,6 @@ shortlisted for the Journey Prize Award. He is a contributing editor
 for the visual art magazines Border Crossings and Contemporary, for
 which he writes on Vancouver art and artists.
 
-The Goethe-Institut is the Federal Republic of Germanyâ€™s cultural
+The Goethe-Institut is the Federal Republic of Germany’s cultural
 institution operational worldwide. Learn more at
 http://www.goethe.de/enindex.htm

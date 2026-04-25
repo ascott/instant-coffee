@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sneeze to Sneeze"
 emailDate: "Thu, 29 Mar 2018 09:35:07 -0700"
 number: 15
 type: "TALK"
+venue: "SFU Room 4390 Goldcorp Centre for the Arts"
 summary: "SFU Room 4390 Goldcorp Centre for the Arts | Symposium on Surveillance, Art... | 2-8PM | APR 4"
 ---
 

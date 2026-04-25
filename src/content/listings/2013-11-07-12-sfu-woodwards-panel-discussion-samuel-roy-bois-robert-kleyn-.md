@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the sex of art"
 emailDate: "Thu, 07 Nov 2013 12:00:50 -0800"
 number: 12
 type: ""
+venue: "SFU Woodwards"
 summary: "SFU Woodwards | Panel Discussion | Samuel Roy-Bois, Robert Kleyn, Leslie Van Duzer | NOV 12"
 ---
 
@@ -37,13 +38,13 @@ architecture leads the viewer in galleries and museums; and how one might,
 or might not, distinguish between architectural spaces and the spaces 
 created by art.
 
-Samuel Roy-Bois is a Vancouver based artist. He has a BFA from UniversitÃ© 
-Laval, Quebec and a MFA from Concordia University, MontrÃ©al. His work has 
+Samuel Roy-Bois is a Vancouver based artist. He has a BFA from Université 
+Laval, Quebec and a MFA from Concordia University, Montréal. His work has 
 been shown across Canada and internationally including at Langara College, 
 Vancouver; Artspeak, Vancouver; Parisian Laundry, Montreal; Southern 
 Alberta Art Gallery, Lethbridge; Republic Gallery, Vancouver; Contemporary 
-Art Gallery, Vancouver; Point Ã©phÃ©mÃ¨re, Paris; MusÃ©e d'art contemporain de 
-MontrÃ©al; Quartier Ã©phÃ©mÃ¨re, Montreal; and Or Gallery, Vancouver. He is 
+Art Gallery, Vancouver; Point éphémère, Paris; Musée d'art contemporain de 
+Montréal; Quartier éphémère, Montreal; and Or Gallery, Vancouver. He is 
 faculty at UBC Okanagan.
 
 Robert Kleyn is a Vancouver based artist and architect. His work has been 
@@ -65,7 +66,7 @@ Rome Prize and Venice Biennale juries. His writing has been published in
 Leslie Van Duzer is Director of UBC's School of Architecture and Landscape 
 Architecture. She is co-author of four books: "Adolf Loos: Works in the Czech 
 Lands", "Mies van der Rohe: Krefeld Villas", "Rudolf Arnheim: Revealing 
-Vision", and "Villa MÃ¼ller: A Work of Adolf Loos". The two building 
+Vision", and "Villa Müller: A Work of Adolf Loos". The two building 
 monographs were awarded the architects' journal "Top Ten Books of the Year" 
 award in London. She has published in international journals and lectured 
 throughout Europe and North America. Her forthcoming book, "The Art of 

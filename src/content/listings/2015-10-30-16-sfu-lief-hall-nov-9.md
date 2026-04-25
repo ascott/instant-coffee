@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Jerry"
 emailDate: "Thu, 29 Oct 2015 17:05:14 -0700"
 number: 16
 type: "EVENT"
+venue: "SFU"
 summary: "SFU | Lief Hall | NOV 9"
 ---
 
@@ -35,13 +36,13 @@ Lief Hall is a composer, singer-songwriter, director/choreographer and
 creator of opera, musical theatre, video and installation. Hall was
 previously the vocalist for Vancouver no wave punk band Mutators
 (2007), a vocalist for the improvisational trio Glaciers (2009), and
-one half of Canadian â€˜femme noirâ€™ pop duo MYTHS (2012). Her most
+one half of Canadian ‘femme noir’ pop duo MYTHS (2012). Her most
 recent EP Transform (2015) marks a new direction in her solo musical
 work, creating dark electronic pop, which merges the experimental
 dance music with layered vocal harmonies, exploring themes of love,
 identity, and fear in a post-human world. Hall has performed her solo
 music alongside artists such as Bear in Heaven and Inga Coupland and
-was named on NMEâ€™s list of â€™50 Brand New Artists Set to Storm in
+was named on NME’s list of ’50 Brand New Artists Set to Storm in
 2015′.
 
 Her interdisciplinary installation and performance works explore

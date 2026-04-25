@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 34
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | Bramble Nancy Drewitt: Between the Worlds | 6PM | MAR 1"
 ---
 

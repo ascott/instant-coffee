@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 20
 type: "OPENING"
+venue: "Fazakas Gallery"
 summary: "Fazakas Gallery | MARK PRESTON & COUZYN VAN HEUVELEN: Great North | FEB 8"
 ---
 

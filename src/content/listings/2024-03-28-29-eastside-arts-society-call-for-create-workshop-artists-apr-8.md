@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 29
 type: "CALL"
+venue: "Eastside Arts Society"
 summary: "Eastside Arts Society | CALL FOR CREATE WORKSHOP ARTISTS | APR 8"
 ---
 

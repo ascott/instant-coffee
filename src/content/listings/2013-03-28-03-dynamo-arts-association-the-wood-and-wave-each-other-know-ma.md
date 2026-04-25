@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
 emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
 number: 3
 type: ""
+venue: "Dynamo Arts Association"
 summary: "Dynamo Arts Association | The Wood and Wave Each Other Know | MAR 28"
 ---
 
@@ -20,13 +21,13 @@ from April to October, he looks out upon the treetops from the eight by eight
 foot cabin of the tallest tower in the province. Dan is also a self-taught 
 musician. While living in the woods, he crafted a cello from a solid block of 
 spruce and then taught himself to play it. Because the cello was too big to fit 
-in the cage of the towerâ€™s one hundred and twenty vertical steps, Dan made a 
+in the cage of the tower’s one hundred and twenty vertical steps, Dan made a 
 body-less version, allowing him to practice during his many hours inside the 
-towerâ€™s cabin. By wedging the practice cello between the edge of a small 
-worktable and the cabinâ€™s fiberglass octagonal cupola, Dan discovered that he 
-could more than compensate for the instrumentâ€™s lack of a body. The cabin 
+tower’s cabin. By wedging the practice cello between the edge of a small 
+worktable and the cabin’s fiberglass octagonal cupola, Dan discovered that he 
+could more than compensate for the instrument’s lack of a body. The cabin 
 itself becomes the resonant chamber and the tower becomes the instrument 
-within which the cellist plays. Now, the lookout tower broadcasts Danâ€™s music 
+within which the cellist plays. Now, the lookout tower broadcasts Dan’s music 
 into the immensity of the landscape and the trees become his audience.
 
 The Wood and Wave Each Other Know opened at the Khyber, Halifax and 
@@ -68,8 +69,8 @@ Presented by Ship, an exhibition series programmed by Kuh del Rosario and
 Warren McLachlan @ Dynamo Arts Association. 
 http://cargocollective.com/_Ship_Art_
 
-Open March 28 - 30, 12 â€“ 5 or by appointment through to April 7th. 
+Open March 28 - 30, 12 – 5 or by appointment through to April 7th. 
 
 Dynamo Arts Association
-103 â€“ 30 East 6th Ave
+103 – 30 East 6th Ave
 Vancouver, BC

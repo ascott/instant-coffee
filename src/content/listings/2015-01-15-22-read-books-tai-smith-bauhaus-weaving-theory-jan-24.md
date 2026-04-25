@@ -4,10 +4,11 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 22
 type: "EVENT"
-summary: "READ Books | Tâ€™ai Smith - Bauhaus Weaving Theory | JAN 24"
+venue: "READ Books"
+summary: "READ Books | T’ai Smith - Bauhaus Weaving Theory | JAN 24"
 ---
 
-Tâ€™ai Smith
+T’ai Smith
 Bauhaus Weaving Theory: From Feminine Craft to Mode of Design
 
 Book Launch
@@ -15,7 +16,7 @@ Saturday January 24, 2015, 2pm, READ Books
 
 Please join READ Books for the launch of Bauhaus Weaving Theory: From
 Feminine Craft to Mode of Design published by University of Minnesota Press
-(2014). In Bauhaus Weaving Tâ€™ai Smith deftly reframes the Bauhaus weaving
+(2014). In Bauhaus Weaving T’ai Smith deftly reframes the Bauhaus weaving
 workshop as central to theoretical inquiry at the school, uncovering new
 significance in the work the weavers did as writers. Exploring questions of
 establishing value and legitimacy in the art world along with the limits of

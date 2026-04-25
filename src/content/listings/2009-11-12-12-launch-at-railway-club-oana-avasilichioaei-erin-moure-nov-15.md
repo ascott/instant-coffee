@@ -4,7 +4,8 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: dropping pennies like we have a mi
 emailDate: "Wed, 11 Nov 2009 21:55:25 -0800"
 number: 12
 type: ""
-summary: "Launch at Railway Club | oana AVASILICHIOAEI & eriÂ­n MOURE | NOV 15"
+venue: "Launch at Railway Club"
+summary: "Launch at Railway Club | oana AVASILICHIOAEI & eri­n MOURE | NOV 15"
 ---
 
 oana AVASILICHIOAEI
@@ -71,7 +72,7 @@ tyrant and a wolfbat.
 Erin Moure's most recent book of poems is inspired by the medieval Iberian
 lyric repertoire: O Cadoiro (2007). Her translations of Chus Pato from
 Galician and (with Robert Majzels) Nicole Brossard from French are widely
-known Chus Pato's m-TalÃƒÂ¡ just appeared in Moure's English version in
+known Chus Pato's m-TalÃ¡ just appeared in Moure's English version in
 spring of 2009. A new book of poetry, O Resplandor, will appear from Anansi
 in 2010. Moure will be writer in residence at the University of Ottawa from
 January-April 2010.

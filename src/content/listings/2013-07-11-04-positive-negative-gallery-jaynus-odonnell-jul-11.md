@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shambling and shamanistic"
 emailDate: "Wed, 10 Jul 2013 23:10:27 -0700"
 number: 4
 type: ""
+venue: "Positive Negative Gallery"
 summary: "Positive Negative Gallery | Jaynus O'Donnell | JUL 11"
 ---
 

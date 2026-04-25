@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 46
 type: "CALL"
+venue: "THIRD SHIFT"
 summary: "THIRD SHIFT | Call for Project and Residency Proposals | MAY 1"
 ---
 

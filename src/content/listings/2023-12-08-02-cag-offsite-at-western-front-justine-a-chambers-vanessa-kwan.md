@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 2
 type: "TALK"
+venue: "CAG, Offsite at Western Front"
 summary: "CAG, Offsite at Western Front | Justine A. Chambers & Vanessa Kwan | 730 PM | DEC 7"
 ---
 

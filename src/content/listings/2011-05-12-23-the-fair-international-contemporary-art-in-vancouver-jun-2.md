@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a superlatively unpernicious vali
 emailDate: "Thu, 12 May 2011 10:54:19 -0700"
 number: 23
 type: ""
+venue: "THE FAIR"
 summary: "THE FAIR | International Contemporary Art in Vancouver | JUN 2"
 ---
 

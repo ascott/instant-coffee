@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: reread ixnay"
 emailDate: "Wed, 26 Jan 2022 08:05:13 -0800"
 number: 21
 type: "EDUCATION"
+venue: "MOV [ONLINE]"
 summary: "MOV [ONLINE] | Indigo Dye Demo | 1PM | FEB 5"
 ---
 

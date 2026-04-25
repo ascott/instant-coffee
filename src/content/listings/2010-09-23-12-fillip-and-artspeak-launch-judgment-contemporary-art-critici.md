@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: consumption sumption what's your f
 emailDate: "Thu, 23 Sep 2010 08:51:15 -0700"
 number: 12
 type: ""
+venue: "Fillip and Artspeak"
 summary: "Fillip and Artspeak | Launch: Judgment & Contemporary Art Criticism | SEP 28"
 ---
 
@@ -15,7 +16,7 @@ Criticism. The result of a public forum and reading room (held in 2009 at
 Emily Carr University and at Artspeak respectively) that investigated the
 role of valuation art criticism, this publication features commissioned
 texts by forum presenters and respondents: Jeff Derksen, Diedrich
-Diederichsen, James Elkins, Maria Fusco, Sven LÃƒÂ¼tticken, Tom Morton,
+Diederichsen, James Elkins, Maria Fusco, Sven LÃ¼tticken, Tom Morton,
 Kristina Lee Podesva, William Wood and Tirdad Zolghadr. Examining the
 efficacy and function of art criticism, the publication focuses on the role
 of judgment in contemporary art writing and includes transcriptions from

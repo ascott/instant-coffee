@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: riddle the human condition"
 emailDate: "Thu, 18 Feb 2016 12:51:00 -0800"
 number: 7
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scrivener's Monthly: Charles Mudede | FEB 18"
 ---
 

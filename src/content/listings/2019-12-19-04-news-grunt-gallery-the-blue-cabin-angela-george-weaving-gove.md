@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Weaving Governance"
 emailDate: "Thu, 19 Dec 2019 09:35:08 -0800"
 number: 4
 type: ""
+venue: "NEWS"
 summary: "NEWS | grunt gallery | The Blue Cabin | Angela George \"Weaving Governance\" | JAN 6"
 ---
 

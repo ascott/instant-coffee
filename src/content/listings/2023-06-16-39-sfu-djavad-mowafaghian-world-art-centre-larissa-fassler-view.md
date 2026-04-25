@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: outdoor"
 emailDate: "Thu, 15 Jun 2023 18:46:20 -0700"
 number: 39
 type: "EVENT"
+venue: "SFU Djavad Mowafaghian World Art Centre"
 summary: "SFU Djavad Mowafaghian World Art Centre | Larissa Fassler: Viewshed — Book Launch | JUL 4"
 ---
 

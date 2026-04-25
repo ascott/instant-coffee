@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 6
 type: "CALL"
+venue: "Open Space [VICTORIA]"
 summary: "Open Space [VICTORIA] | Small Press Fest 2024 - Open Call | AUG 16"
 ---
 

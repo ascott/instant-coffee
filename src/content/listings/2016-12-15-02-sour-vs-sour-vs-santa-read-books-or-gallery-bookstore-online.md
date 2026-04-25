@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Sweet Dragon Skin"
 emailDate: "Thu, 15 Dec 2016 09:35:48 -0800"
 number: 2
 type: "EVENT"
+venue: "SOUR VS SOUR VS SANTA"
 summary: "SOUR VS SOUR VS SANTA | READ BOOKS, OR Gallery Bookstore, Online ect"
 ---
 

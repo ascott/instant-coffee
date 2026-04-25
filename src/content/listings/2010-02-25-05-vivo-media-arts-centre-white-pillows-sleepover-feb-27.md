@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 5
 type: ""
+venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | White Pillows Sleepover | FEB 27"
 ---
 
@@ -29,7 +30,7 @@ Ikbal Singh, will be silk-screening the logo of the collective, Albrecht
 Durerâ��s Sechs Kissen (6 Pillows), made in 1493. Please bring a t-shirt,
 paper, cloth or surface that you want the design to be silk-screened on.
 
-Covering Up, a project by Lois Klassen and Pierre-AndrÃ© Sonolet will also
+Covering Up, a project by Lois Klassen and Pierre-André Sonolet will also
 be presenting documentation. The project involved participants to impose
 the personal by using household linen and bedding on a rapidly changing
 urban landscape producing momentary gestures of resistance.

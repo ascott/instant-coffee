@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: changing the idea that form is an 
 emailDate: "Thu, 02 Dec 2010 11:01:19 -0800"
 number: 10
 type: ""
+venue: "BORDER CROSSINGS"
 summary: "BORDER CROSSINGS | NEW ISSUE ON NEWSSTANDS | DEC 4"
 ---
 
@@ -16,7 +17,7 @@ Issue 116 features:
 INTERVIEWS with
 
 Raymond Pettibon
-â€œI like to say things with a visual economy of line and, as much as I can,
+“I like to say things with a visual economy of line and, as much as I can,
 in words.â€  states Pettibon in an interview with Border Crossings. The
 California-based artist talks with BC about his comic-like works on paper
 that combine text and drawn images inspired by figures from popular
@@ -40,8 +41,8 @@ David Bolduc: Towards a More Interior Life by Gary Michael Dault
 Startling new FICTION by Canadian writer Laura Trunkey
 
 BORDERVIEWS on truth-telling by Cathy Busby, the trucking architecture of
-Randall Anderson, Jillian McDonaldâ€™s ghouls and zombies and Cliff Eyland
-and Guy Maddinâ€™s rapturous book collaborations.
+Randall Anderson, Jillian McDonald’s ghouls and zombies and Cliff Eyland
+and Guy Maddin’s rapturous book collaborations.
 
 Including REVIEWS of Carolee Schneemann, William Eakin, Anne Truitt, Larry
 Glawson, Jessica Stockholder, David Wityk, the Sixth Berlin Biennial for

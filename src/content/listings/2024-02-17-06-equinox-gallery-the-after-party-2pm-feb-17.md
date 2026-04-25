@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Passwordless"
 emailDate: "Fri, 16 Feb 2024 20:35:18 -0800"
 number: 6
 type: "OPENING"
+venue: "EQUINOX GALLERY"
 summary: "EQUINOX GALLERY | The After Party | 2PM | FEB 17"
 ---
 

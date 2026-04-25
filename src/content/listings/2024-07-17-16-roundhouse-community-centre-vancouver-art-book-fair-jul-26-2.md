@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tickle Friend"
 emailDate: "Tue, 16 Jul 2024 23:05:20 -0700"
 number: 16
 type: "EVENT"
+venue: "Roundhouse Community Centre"
 summary: "Roundhouse Community Centre | Vancouver Art Book Fair | JUL 26-27 | JUL 26"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 14
 type: "EVENT"
+venue: "Artspeak"
 summary: "Artspeak | LAIWAN | 2PM | JUN 22"
 ---
 

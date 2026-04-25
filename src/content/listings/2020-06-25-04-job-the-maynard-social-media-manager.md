@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Iconic"
 emailDate: "Thu, 25 Jun 2020 14:25:08 -0700"
 number: 4
 type: ""
+venue: "JOB"
 summary: "JOB | The Maynard | Social Media Manager"
 ---
 

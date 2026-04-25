@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Transit"
 emailDate: "Wed, 07 Aug 2024 22:40:12 -0700"
 number: 1
 type: "CALL"
+venue: "CALL FOR TRANS ARTISTS"
 summary: "CALL FOR TRANS ARTISTS"
 ---
 

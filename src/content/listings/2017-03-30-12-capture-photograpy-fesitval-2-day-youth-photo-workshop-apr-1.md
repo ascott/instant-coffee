@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 12
 type: "EDUCATION"
+venue: "Capture Photograpy Fesitval"
 summary: "Capture Photograpy Fesitval | 2-Day Youth Photo Workshop | APR 1"
 ---
 

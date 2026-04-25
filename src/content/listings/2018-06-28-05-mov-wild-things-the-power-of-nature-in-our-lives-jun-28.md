@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Chicken is an Egg"
 emailDate: "Thu, 28 Jun 2018 08:01:06 -0700"
 number: 5
 type: "EXHIBITION"
+venue: "MOV"
 summary: "MOV | Wild Things: The Power of Nature in Our Lives | JUN 28"
 ---
 

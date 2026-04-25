@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Garden"
 emailDate: "Thu, 22 Feb 2024 01:50:40 -0800"
 number: 11
 type: "OPENING"
+venue: "THIS Gallery"
 summary: "THIS Gallery | Cara Bain - Surroundings | MAR 2"
 ---
 

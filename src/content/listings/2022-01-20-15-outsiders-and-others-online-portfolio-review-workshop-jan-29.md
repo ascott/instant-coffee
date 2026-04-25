@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Broadcasts from Here"
 emailDate: "Wed, 19 Jan 2022 19:10:10 -0800"
 number: 15
 type: "EDUCATION"
+venue: "Outsiders and Others [ONLINE]"
 summary: "Outsiders and Others [ONLINE] | Portfolio Review Workshop | JAN 29"
 ---
 

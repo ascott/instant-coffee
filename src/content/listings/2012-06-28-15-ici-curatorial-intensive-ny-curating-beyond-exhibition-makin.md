@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: predilection for diction"
 emailDate: "Thu, 28 Jun 2012 16:41:00 -0700"
 number: 15
 type: ""
+venue: "ICI"
 summary: "ICI | Curatorial Intensive, NY | Curating Beyond Exhibition Making | AUG 10"
 ---
 
 ICI announces Fall 2012 Curatorial Intensive: 
 Curating Beyond Exhibition Making
-October 21â€“30, 2012
+October 21–30, 2012
 
 Application deadline: August 10, 2012
 
@@ -30,8 +31,8 @@ programming.
 
 Recognizing there are few opportunities for professionals to receive 
 practical training and guidance while also working, the Curatorial 
-Intensive is targeted toward self-motivated individualsâ€”working 
-independently or in institutionsâ€”who would benefit from a week of 
+Intensive is targeted toward self-motivated individuals—working 
+independently or in institutions—who would benefit from a week of 
 intensive conversations around issues and questions that arise for 
 curators. These range from the pragmatics of developing a program 
 and building working relationships with artists, to the theoretical 
@@ -45,7 +46,7 @@ Hromack (Head of Digital Media, Whitney Museum of American Art),
 Anthony Huberman (Director, The Artist's Institute), Brian Kuan Wood 
 (Editor, e-flux journal), Carin Kuoni (Director, Vera List Center for Art 
 and Politics, The New School), Sina Najafi (Editor-in-Chief, Cabinet 
-Magazine), SofÃ­a Olascoaga (independent curator and educator), 
+Magazine), Sofía Olascoaga (independent curator and educator), 
 and 
 Sally Tallant (Artistic Director, Liverpool Biennial).
 

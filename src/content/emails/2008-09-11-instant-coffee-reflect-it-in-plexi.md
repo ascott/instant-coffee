@@ -242,13 +242,13 @@ history in four parts", documenting a five year process of site-specific
 installation on the land and water across Canada and in Japan, was
 purchased by the National Gallery of Canada for its Permanent Collection.
 Her most recent interdisciplinary installation "New Readings In Female
-Anatomy", opened at the AGNL in St. JohnÃ¢ï¿½ï¿½s in 2001, and traveled to
+Anatomy", opened at the AGNL in St. Johnâ��s in 2001, and traveled to
 Carleton University Art Gallery 2002. In addition to her visual arts
-practice, Hall has written and illustrated childrenÃ¢ï¿½ï¿½s books, teaches
+practice, Hall has written and illustrated childrenâ��s books, teaches
 graduate students in the United States, and works as a production designer
 in the film industry. Her work on "Rare Birds" was recognized for
-Outstanding Achievement in Production Design by the DirectorÃ¢ï¿½ï¿½s Guild of
-Canada. She lives and works in St. JohnÃ¢ï¿½ï¿½s.
+Outstanding Achievement in Production Design by the Directorâ��s Guild of
+Canada. She lives and works in St. Johnâ��s.
 
 Margaret Dragu is a warm-hearted, fearless and indomitable spirit who has
 left her mark across disciplines and across the country. Dragu's
@@ -265,7 +265,7 @@ activating public projects including the multi-faceted Walking Woman in
 association with the RAG.
 
 Participating artists will be in attendance. An Artist Talk with Margaret
-Dragu will be held on Nov 14, Friday from 5 Ã¢ï¿½ï¿½ 6pm. Opening Reception is
+Dragu will be held on Nov 14, Friday from 5 â�� 6pm. Opening Reception is
 September 11 from 7 - 9pm.
 
 Emily Rosamond
@@ -518,7 +518,7 @@ Web: sfu.ca/gallery
 The Apartment is delighted to present Mirror and Shadows, the first
 Canadian exhibition of Janice Guy's vintage silver gelatin prints. The
 exhibition includes two bodies of work, Mirror (1979) and Shadows (1977)
-which Guy produced while studying at the Kunstakademie DÃ¼sseldorf 1975-79
+which Guy produced while studying at the Kunstakademie Düsseldorf 1975-79
 with Klaus Rincke and Bernd and Hilla Becher.
 
 Janice Guy's work depicts the artist self-consciously engaged in the act
@@ -558,7 +558,7 @@ Integrated into these formal metaphors is Thorne's conceptual commitment
 to an investigation of our ambient schema, here through the use of
 knowledge systems which evolve understated and eventual. A guiding force
 for this recent work are the cosmological charts of Johannes Kepler. Born in
-1571, in WÃ¼rttemberg, Germany, Kepler published Mysterium Cosmographicum,
+1571, in Württemberg, Germany, Kepler published Mysterium Cosmographicum,
 1596, Harmonice Mundi, 1618 and the Epitome Astronomiae Copernicanae,
 1618â&#65533;&#65533;21, which mapped the antique solar system, realized equations to
 calibrate planetary orbits and proposed a physical explanation of the
@@ -636,7 +636,7 @@ is cofounder of Cornershop Projects, an open framework for the examination
 of the relationship between art and economic transactions, and is Assistant
 Editor at The Fillip Review.
 
-KristinaÃ¢&#65533;&#65533;s most recent project, Showroom, was organized
+Kristinaâ&#65533;&#65533;s most recent project, Showroom, was organized
 with Inge Roecker
 in collaboration with Michelle Allard, Marianne Bos, Patrick Chan, Paul de
 Guzman, Vanessa Kwan, Gwenessa Lam, Heidi Nagtegaal, Alex Pensato, Ryan
@@ -954,8 +954,8 @@ subjects. The process of getting sitters to relax is much less extreme now,
 but it can still be difficult. For commercial photographers, the skill of
 putting strangers at ease is crucial but not always successful.
 
-In his current work, photographic portraits mediate Ron TranÃ¢ï¿½ï¿½s interactions
-with unfamiliar people Ã¢ï¿½ï¿½ in some cases the strangers are nameless people
+In his current work, photographic portraits mediate Ron Tranâ��s interactions
+with unfamiliar people â�� in some cases the strangers are nameless people
 found in lost snapshots, and sometimes they are the portrait photographers
 themselves.
 
@@ -963,15 +963,15 @@ Over a number of months Ron Tran visited Photonation, Photo Express, and
 the Sears Portrait Studio, not to photograph people, but to work with the
 photographers there, to foreground their backgrounds, taking pictures of
 props. He would bring out toppled columns, guitars and flowers, tires and
-bats Ã¢ï¿½ï¿½ imbricating inanimate subjects that signify gender, culture, or
+bats â�� imbricating inanimate subjects that signify gender, culture, or
 class. Photographed together, their relationships become complicated, as
 they should be.
 
-But photographs by themselves donÃ¢ï¿½ï¿½t tell our stories, at least not the way
+But photographs by themselves donâ��t tell our stories, at least not the way
 we would tell them. We collaborate with our pictures and build stories
 around them, stories that we tell others, stories that we tell ourselves.
 Occasionally, however, photographs remind us of stories that we once told,
-but donÃ¢ï¿½ï¿½t want to tell anymore. Sometimes we lose our photos, and sometimes
+but donâ��t want to tell anymore. Sometimes we lose our photos, and sometimes
 we never wanted them in the first place. Sometimes they end up in places we
 never intended them to be.
 
@@ -981,8 +981,8 @@ during his wanderings in Vancouver and abroad, or donated to his collection
 by family and friends. By cutting and sandwiching these photos together,
 Ron Tran plays with the contingent nature of the photographs, creating new
 possibilities for narratives from the vestiges of lost ones. With their
-bent corners and unknown faces, these photographs are props Ã¢ï¿½ï¿½objects as
-much as imagesÃ¢ï¿½ï¿½ and you can do anything with them under such circumstances.
+bent corners and unknown faces, these photographs are props â��objects as
+much as imagesâ�� and you can do anything with them under such circumstances.
 
 -Jesse Birch-
 
@@ -1024,15 +1024,15 @@ Gallery at San Diego, Brauer Museum of Art in Valparaiso Indiana,
 Georgetown University Gallery in Washington D.C. and the University of
 Maine Museum of Art in Orono, Maine.
 
-Ã¢ï¿½ï¿½An interest in the use of symbolic personal objects to create visual
+â��An interest in the use of symbolic personal objects to create visual
 narratives has been a constant thread throughout the work by Torrie
 Groening. The new digitally collaged works presented in A Maximalist for
 Dinner represent a new focus for the artist that incorporates traditional
 and non-traditional approaches to creating prints. The concepts of identity
-and representation are present in each work signifying GroeningÃ¢ï¿½ï¿½s interest
+and representation are present in each work signifying Groeningâ��s interest
 in exploring her own identity and the multiplicity of meaning that objects
 may symbolize in relation to one another and within the context of each
-digital collage.Ã¢ï¿½ï¿½ says the exhibitionÃ¢ï¿½ï¿½s curator Darrin Martens.
+digital collage.â�� says the exhibitionâ��s curator Darrin Martens.
 
 An opening reception will be held Saturday, September 13, from 1-3 p.m.
 The artist will be in attendance.
@@ -1045,7 +1045,7 @@ hour from 1-4 p.m. No pre-registration is required.
 September 19, 12:10-12:50 p.m., $8.50 (advanced registration required).
 * Artist Talk on Sunday, September 21, 5-6:30 p.m. free of charge.
 
-For more information about the GalleryÃ¢ï¿½ï¿½s exhibits, programs, tours or
+For more information about the Galleryâ��s exhibits, programs, tours or
 registration call 604.297.4422 or visit burnabyartgallery.ca.
 
 The Burnaby Art Gallery located at 6344 Deer Lake Avenue. The galleries are
@@ -1147,7 +1147,7 @@ us@instantcoffee.org
 ------------------------------------------------------------------------
 
 
-Pikene pÃ¥ Broen (Girls on the Bridge) is happy to announce the BAR
+Pikene på Broen (Girls on the Bridge) is happy to announce the BAR
 International artist-in-residency program open!
 BAR International invites artists from the Barents Region, Nordic countries
 and internationally to explore the Barents borderland in transition.
@@ -1157,13 +1157,13 @@ decisions and a laboratory for creative solutions to economic, cultural and
 social challenges in the border region.
 BAR facilitates art-production and mediation in the Barents Region: both
 studio-based work/research and artistic process in public space. BAR is
-connected to other projects produced by Pikene pÃ¥ Broen: the annual winter
+connected to other projects produced by Pikene på Broen: the annual winter
 festival Barents Spektakel and the Barents Art Triennial. These events
 become presentation arenas for works produced under art-residency.
 BAR is a 3-year project that was started in 2008. It is part of the Nordic
 AiR network, and is supported by the Nordic Culture Point, Norwegian Arts
 Council, Barents Secretariat, Norwegian Ministry of Foreign Affairs,
-Finnmark County and SÃ¸r-Varanger Municipality.
+Finnmark County and Sør-Varanger Municipality.
 Artists are invited to apply for an artist-in-residency in Kirkenes for a
 period of 1 to 6 months.
 BAR covers costs for your travel to Kirkenes, per diems, accommodation and
@@ -1183,7 +1183,7 @@ reply within 10 days after we receive your application.
 A new application policy for 2009-2010 will be announced. The application
 can be sent by e-mail to pikene@pikene.no (please, put â&#65533;&#65533;BAR Internationalâ&#65533;&#65533;
 in the subject of your e-mail),
-or by regular mail to: Pikene pÃ¥ Broen, Box 180, N-9915 Kirkenes, Norway
+or by regular mail to: Pikene på Broen, Box 180, N-9915 Kirkenes, Norway
 
 For more information:
 www.barinternational.no
@@ -1202,7 +1202,7 @@ globalised. From static to dynamic, from closed to open, from monocultural
 to multicultural, from masculine to feminine.
 Kirkenes has become a real bordertown, with trade and movement across the
 borders. Kirkenes has become a laboratory for a new time. It used to be a
-physical and psychological disadvantage. But not any more. Now itÂ´s an
+physical and psychological disadvantage. But not any more. Now it´s an
 interesting place at the forefront of exploding the closed and controlled
 national borders.â&#65533;&#65533; (Morten StrÃ¸ksnes, writer and historian, 2003)
 
@@ -1354,13 +1354,13 @@ YOUR PROPOSAL MUST INCLUDEÃ&#65533;Â
 Ã&#65533;Â a precise description of your project proposal, the technical equipment
 and facilities required to produce the work and the technical equipment and
 assistance necessary to disseminate the work
-a budget of the projectÃ¢ï¿½ï¿½s technical production
+a budget of the projectâ��s technical production
 a self-addressed stamped envelopeÃ&#65533;Â 
 
 SELECTION CRITERIAÃ&#65533;Â 
 
 The overall innovation of the project
-The projectÃ¢ï¿½ï¿½s pertinence to contemporary art practices
+The projectâ��s pertinence to contemporary art practices
 The synthesis between the proposed content and the technology usedÃ&#65533;Â 
 
 We do not accept proposals via e-mail. Incomplete submissions or
@@ -1399,11 +1399,11 @@ Opening: Thursday, January 8 at 5 p.m. Ã&#65533;Â
 
 The exhibition includes three videos projected on a loop that show Bas Jan
 Ader falling, trying to defy gravity. Not without a quiet humour as well as
-a certain romanticism, Jan AderÃ¢ï¿½ï¿½s conceptual performances, created for the
+a certain romanticism, Jan Aderâ��s conceptual performances, created for the
 camera, provoke a state of expectation and contemplation, leaving the
 viewer on the lookout for the moment when the artist relinquishes his hold
 on gravity. The exhibition is completed by two additional works playing on
-gravity in a completely different register: the famous IÃ¢ï¿½ï¿½m Too Sad To Tell
+gravity in a completely different register: the famous Iâ��m Too Sad To Tell
 You, showing a close-up of the artist in tears, and Night Fall. Ã&#65533;Â 
 
 Bas Jan Ader was born in The Netherlands but lived and worked for many
@@ -1433,7 +1433,7 @@ YOUR PROPOSAL MUST INCLUDE Ã&#65533;Â
 
 2. a 500 word description of the intended performance project, including a
 clear mention on how it enters into dialogue with the thematic of the
-exhibition and AderÃ¢ï¿½ï¿½s work.
+exhibition and Aderâ��s work.
 
 3. a visual dossier (formatted in PowerPoint, MAC compatible) - 10 images
 maximum

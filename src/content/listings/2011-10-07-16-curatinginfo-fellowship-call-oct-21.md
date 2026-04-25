@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: OCCUPYWALLSTREET (delayed by a day
 emailDate: "Fri, 07 Oct 2011 08:20:43 -0700"
 number: 16
 type: "CALL"
+venue: "Curating.info Fellowship"
 summary: "Curating.info Fellowship | CALL | OCT 21"
 ---
 
@@ -18,7 +19,7 @@ In response to the need for paid hands-on experience in curating, Curating.info
 Founder and Editor-in-Chief Michelle Kasprzak designed the Curating.info 
 Fellowship as a way to facilitate this essential experience. The inaugural 
 Fellowship will take place in partnership with Centre for Contemporary Arts 
-(CCA) Glasgow, a dynamic organisation in one of Europeâ€™s most culturally-
+(CCA) Glasgow, a dynamic organisation in one of Europe’s most culturally-
 vibrant cities. The Fellowship is funded partly by CCA, and partly by the 
 Curating.info community itself through a crowdfunding campaign. Please donate 
 to the campaign here: http://rockethub.com/projects/2505-curating-info-
@@ -26,7 +27,7 @@ fellowship.
 
 The Fellow will work at the CCA in Glasgow, Scotland four days per week over 
 the six month fellowship, working on a curatorial project or body of curatorial 
-research. Fellows will be paid a flat fee of Â£8,000. Ideal candidates for the 
+research. Fellows will be paid a flat fee of £8,000. Ideal candidates for the 
 Fellowship are emerging or mid-career curators who can demonstrate passion 
 and fresh thinking in curating and writing about contemporary art, and who have 
 a vision for what the role of the curator means today.

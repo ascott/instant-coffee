@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: acts of resurgence"
 emailDate: "Thu, 11 Jan 2018 10:35:07 -0800"
 number: 17
 type: ""
+venue: "Deluge Contemporary Art (VICTORIA)"
 summary: "Deluge Contemporary Art (VICTORIA) | Real Tears | Christine D'Onofrio | JAN 19"
 ---
 

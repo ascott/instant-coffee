@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: GENERATING AFFIRMATIONS"
 emailDate: "Thu, 24 Mar 2011 15:41:02 -0700"
 number: 6
 type: ""
+venue: "Shudder Gallery"
 summary: "Shudder Gallery | The LMPC | | In Conversation | MAR 24 & Happy Hour | MAR 25"
 ---
 

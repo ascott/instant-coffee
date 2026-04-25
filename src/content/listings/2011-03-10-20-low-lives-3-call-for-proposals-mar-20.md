@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 20
 type: ""
+venue: "Low Lives 3"
 summary: "Low Lives 3 | Call for Proposals | MAR 20"
 ---
 
@@ -28,8 +29,8 @@ Info
 
 March 20, 2011: Submission deadline
 April 1, 2011: Artists notified on selection
-April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm â€“ 11:00pm (U.S. EST)
-April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm â€“ 6:00pm (U.S. EST)
+April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm – 11:00pm (U.S. EST)
+April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm – 6:00pm (U.S. EST)
 
 Share this announcement on: Facebook | Twitter
 
@@ -100,7 +101,7 @@ Mindpirates (Berlin, Germany) www.mindpirates.org
 Mascher Space Co-op (Philadelphia, Pennsylvania) www.mascherdance.com
 Living Arts (Tulsa, Oklahoma)- www.livingarts.org
 La Perrera (Oaxaca, Mexico) www.laperreraoax.com
-LAP!_LaboratÃ³rio de AcÃ£o & Performance (EspÃ­rito Santo, Brazil)
+LAP!_Laboratório de Acão & Performance (Espírito Santo, Brazil)
 www.labperformance.tk
 Konic Thtr (Barcelona, Spain) www.koniclab.info
 Fusebox Festival (Austin, Texas) www.fuseboxfestival.com
@@ -138,18 +139,18 @@ participate in Low Lives 3.
 Important Dates:
 March 20, 2011: Submission deadline
 April 1, 2011: Artists notified on selection
-April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm â€“ 11:00pm (U.S. EST)
-April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm â€“ 6:00pm (U.S. EST)
+April 29, 2011: Low Lives 3 Exhibition- Day 1 - 8:00pm – 11:00pm (U.S. EST)
+April 30, 2011: Low Lives 3 Exhibition- Day 2 - 3:00pm – 6:00pm (U.S. EST)
 
 Founder/Producer/Curator
 Jorge Rojas is a multidisciplinary artist and independent curator. He
 employs both traditional and new media, as well as performative elements to
 investigate communication systems and the effect of technology on artistic
 production, social structures and communities. His work and curatorial
-projects have been exhibited in galleries and museums across MÃ©xico, the
+projects have been exhibited in galleries and museums across México, the
 United States, India and Brazil. Since 2009, he produces and curates Low
 Lives, an international, multi-venue exhibition of live, networked
-performances. Born in Morelos, MÃ©xico.
+performances. Born in Morelos, México.
 
 Co-Producer
 Chez Bushwick, an artist-run organization based in Brooklyn, is dedicated

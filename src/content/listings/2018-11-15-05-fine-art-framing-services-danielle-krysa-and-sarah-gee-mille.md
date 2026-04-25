@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 5
 type: "OPENING"
+venue: "Fine Art Framing & Services"
 summary: "Fine Art Framing & Services | Danielle Krysa and Sarah Gee Miller | 5-10PM | NOV 15"
 ---
 

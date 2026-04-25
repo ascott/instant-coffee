@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 28
 type: "CALL"
+venue: "Off the Map"
 summary: "Off the Map | CALL FOR WRITERS | JUN 15"
 ---
 

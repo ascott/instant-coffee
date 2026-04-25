@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  How can something so familiar inc
 emailDate: "Thu, 27 Sep 2012 12:05:11 -0700"
 number: 10
 type: ""
+venue: "Kootenay School of Writing and Play Chthonics"
 summary: "Kootenay School of Writing and Play Chthonics | Jam Ismail | SEP 29"
 ---
 

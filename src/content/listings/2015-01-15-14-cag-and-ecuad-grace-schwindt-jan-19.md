@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"If you get in my creative vicini
 emailDate: "Thu, 15 Jan 2015 13:25:50 -0800"
 number: 14
 type: "TALK"
+venue: "CAG and ECUAD"
 summary: "CAG and ECUAD | Grace Schwindt | JAN 19"
 ---
 
@@ -14,10 +15,10 @@ Emily Carr University of Art + Design
 Room 301, 1399 Johnston St, Vancouver
 Monday, January 19, 6pm
 
-CAG and ECUAD presentâ€¦
+CAG and ECUAD present…
 
 Join us for a talk by Grace Schwindt on the occasion of her solo
-exhibition: Only A Free Individual Can Create A Free Society (January 23 â€“
+exhibition: Only A Free Individual Can Create A Free Society (January 23 –
 February 15, 2015).
 
 Grace Schwindt (born 1979, Germany) is an artist based in London working
@@ -26,14 +27,14 @@ works use minimal architectural elements and props to mark a location, in
 which she places bodies including her own. Using a tightly scripted
 choreography in which every move relates to institutionalised systems she
 investigates how social relations and understandings about oneself are
-formed, often through acts of exclusion and destruction. The artistâ€™s
+formed, often through acts of exclusion and destruction. The artist’s
 interviews with individuals often serve as a starting point for
 fictionalised dialogues delivered by performers. Represented by Zeno X
 Gallery in Antwerp, her work is distributed by Argos Centre for Media and
 Art. Recent solo presentations include South London Gallery; ICA, London;
 Whitechapel Gallery, London; Spill Festival, Basement, Brighton; Collective
 Gallery, Edinburgh and White Columns, New York. Schwindt was shortlisted
-for this yearâ€™s Jarman Film Award.
+for this year’s Jarman Film Award.
 
 Only A Free Individual Can Create A Free Society is a new film installation
 by German artist Grace Schwindt which revisits discussions she witnessed as
@@ -52,7 +53,7 @@ This is a free event, everyone is welcome.
 
 *
 
-Contemporary Art Gallery â€“ New exhibitions:
+Contemporary Art Gallery – New exhibitions:
 Opening reception: Thursday, January 22, 7-10pm
 
 Grace Schwindt, Only A Free Individual Can Create A Free Society

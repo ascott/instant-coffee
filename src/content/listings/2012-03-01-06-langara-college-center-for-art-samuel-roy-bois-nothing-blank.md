@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT DICKENSIAN COFFEE"
 emailDate: "Thu, 01 Mar 2012 15:45:18 -0800"
 number: 6
 type: ""
+venue: "Langara College Center for Art"
 summary: "Langara College Center for Art | Samuel Roy-Bois: Nothing Blank Forever | MAR 2"
 ---
 

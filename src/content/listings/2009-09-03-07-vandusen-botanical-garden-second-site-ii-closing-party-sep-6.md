@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: don't let that hanker dangle"
 emailDate: "Thu, 03 Sep 2009 09:40:19 -0700"
 number: 7
 type: ""
+venue: "VanDusen Botanical Garden"
 summary: "VanDusen Botanical Garden | Second Site II Closing Party | SEP 6"
 ---
 

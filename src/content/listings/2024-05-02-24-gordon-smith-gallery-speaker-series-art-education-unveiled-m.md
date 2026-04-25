@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 24
 type: "TALK"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | Speaker Series - Art Education Unveiled | MAY 9"
 ---
 

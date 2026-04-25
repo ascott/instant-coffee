@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Cloudy Corner"
 emailDate: "Wed, 27 Mar 2024 20:30:27 -0700"
 number: 37
 type: "EVENT"
+venue: "Oxygen Art Centre [ONLINE]"
 summary: "Oxygen Art Centre [ONLINE] | Author Reading Series | 1PM | APR 13"
 ---
 

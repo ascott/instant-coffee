@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unconventional travelling"
 emailDate: "Thu, 26 May 2016 18:15:08 -0700"
 number: 8
 type: "EVENT"
+venue: "Mount Pleasant"
 summary: "Mount Pleasant | ROVE | MAY 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: \"\"yyyyoyyyyy\""
 emailDate: "Thu, 01 Nov 2018 09:01:24 -0700"
 number: 31
 type: "TALK"
+venue: "READ Books @ ECU"
 summary: "READ Books @ ECU | AMinder Dhaliwal Talk + Book Launch | 6PM | NOV 8"
 ---
 

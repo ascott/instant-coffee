@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 41
 type: "CALL"
+venue: "Shadbolt Fellowship in the Humanities"
 summary: "Shadbolt Fellowship in the Humanities | Open for Applications | OCT 13"
 ---
 

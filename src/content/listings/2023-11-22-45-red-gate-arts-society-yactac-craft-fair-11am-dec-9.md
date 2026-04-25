@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 45
 type: "EVENT"
+venue: "Red Gate Arts Society"
 summary: "Red Gate Arts Society | Yactac Craft Fair | 11AM | DEC 9"
 ---
 

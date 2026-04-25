@@ -82,7 +82,7 @@ BC) Stefan Smulovitz is a highly accomplished musician and an award-winning
 composer. As a software developer he created Kenaxis, a major innovation in
 the use of the computer as a real-time instrument. His virtuosic command of
 Kenaxis has resulted in an international reputation for Smulovitz, who
-regularly performs with the worldÃ¢ï¿½ï¿½s leading improvisers and composes for
+regularly performs with the worldâ��s leading improvisers and composes for
 ensembles ranging from orchestras to string
 quartets.Ã�Â (http://www.kenaxis.com/) Light Compositions is hosted by TOM
 CONE, 9pm
@@ -91,10 +91,10 @@ See www.instantcoffee.org <http://www.instantcoffee.org> for a growing list
 of events, and for other information contact us@instantcoffee.org
 
 Where: Instant Coffee Light Bar: 33 West Cordova St. (blood alley entrance)
-When: opening hours, Wednesday to Saturday, 7pm Ã¢ï¿½ï¿½ 12 am, and for special
+When: opening hours, Wednesday to Saturday, 7pm â�� 12 am, and for special
 events, beginning February 12 through March 20, 2010;
 
-* there is limited capacity so come early and stay long * weÃ¢ï¿½ï¿½ll leave the
+* there is limited capacity so come early and stay long * weâ��ll leave the
 light on for you
 
 The artist collective Instant Coffee presents Light Bar, a full-spectrum
@@ -110,7 +110,7 @@ individuals, but for Light Bar Instant Coffee puts it to the test in small
 or large group situations.
 
 As part of Bright Light a collaborative project that brings together
-fourteen arts organizations from VancouverÃ¢ï¿½ï¿½s Downtown Eastside. Bright
+fourteen arts organizations from Vancouverâ��s Downtown Eastside. Bright
 Light is commissioned by the City of Vancouver through its Olympic and
 Paralympic Public Art Program, www.bright-light.ca
 
@@ -210,13 +210,13 @@ BLANKET
 
 Photogenic: Abstract Photography
 Markus Amm, Walead Beshty, Liz Deschenes,
-Lorna Macintyre, LÃ¡szlÃ³ Moholy-Nagy, Mark Soo, and James Welling
+Lorna Macintyre, László Moholy-Nagy, Mark Soo, and James Welling
 
 March 5 - April 10, 2010
 Opening Reception Friday March 5, 2010 6-9 pm
 
 Blanket is pleased to present a group exhibition of works by Markus Amm,
-Walead Beshty, Liz Deschenes, Lorna Macintyre, LÃ¡szlÃ³ Moholy-Nagy, Mark Soo,
+Walead Beshty, Liz Deschenes, Lorna Macintyre, László Moholy-Nagy, Mark Soo,
 and James Welling. The exhibition aims to look at diverse conceptual
 inquiries driving artists to investigate the application of abstraction in
 photography today. Beyond a set of formal similarities, the artists share
@@ -293,7 +293,7 @@ Harris Lieberman, New York, Francesca Kaufmann, Milan, Italy, Gagosian
 Gallery, New York and Akureyrar Art Museum, Iceland. Macintyre lives and
 works in Glasgow, UK.
 
-LÃ¡szlÃ³ Moholy-Nagy (born 1895, Bacsbarsod, Hungary - died 1946, Chicago) is
+László Moholy-Nagy (born 1895, Bacsbarsod, Hungary - died 1946, Chicago) is
 Hungarian painter, photographer, and art teacher. After studying law in
 Budapest, he went to Berlin in 1919, and in 1923 he took charge of the metal
 workshop of the Bauhaus as well as the Bauhausbook series of publications.
@@ -330,7 +330,7 @@ Los Angeles.
 
 The gallery would like to thank all participating artists, Miguel Abreu
 Gallery and Wallspace Gallery in New York, Karin Gunther Gallery in Hamburg,
-Mary Mary in Glasgow, Regen Projects in Los Angeles, the estate of LÃ¡szlÃ³
+Mary Mary in Glasgow, Regen Projects in Los Angeles, the estate of László
 Moholy-Nagy and Daniel Hug for making this exhibition possible.
 
 For more information please contact the gallery: info@blanketgallery.com or
@@ -362,7 +362,7 @@ Murphy Piltdown.
 <a href="/instant-coffee/listings/2010-03-04-06-221a-artist-talk-and-panel-discussion-mar-6">06. 221A | Artist Talk and Panel Discussion | MAR 6</a>
 ------------------------------------------------------------------------
 Artist Talk and Panel Discussion
-March 6, 2010 Ã¢ï¿½ï¿½ 2pm
+March 6, 2010 â�� 2pm
 
 David Hucal and the 221A Artist Run Centre invite you to join us this
 Saturday, March 6th for artist talks and continued discussions around
@@ -383,14 +383,14 @@ home in Port Moody to the chosen dinning location. The dinners are most
 often held in Vancouver.
 In 2009, Duske accepted the invitation. The dinner was held on February
 13th, 2010 at 221A ARC. There was a private reception viewable through
-221AÃ¢ï¿½ï¿½s store front windows and an open reception was held soon after. This
+221Aâ��s store front windows and an open reception was held soon after. This
 project explores social structures, relationships and traditions through
 the act of dinner and all of its parts from invitations to remnants.
 
-Gallery Hours:Â¨Thursday & Friday 4:00pm 8:00pmÂ¨Saturday 12:00pm
-5:00pmÂ¨Sunday 11:00am 3:00pmOr by appointment
+Gallery Hours:¨Thursday & Friday 4:00pm 8:00pm¨Saturday 12:00pm
+5:00pm¨Sunday 11:00am 3:00pmOr by appointment
 *Hours are in effect only during exhibitions.
-221A ARTIST RUN CENTRE221 E. GEORGIA ST. UNIT #100 (AT MAIN)Â¨VANCOUVER,
+221A ARTIST RUN CENTRE221 E. GEORGIA ST. UNIT #100 (AT MAIN)¨VANCOUVER,
 BC. CANADA V6A 1Z6T: 604 568 0812E: hello@221a.ca
 W: http://221a.ca
 
@@ -947,12 +947,12 @@ March 12.
 
 ABOUT THE NEW W:
 
-"W2010 announces a new formationÃ¢ï¿½ï¿½both for the magazine and the Kootenay
+"W2010 announces a new formationâ��both for the magazine and the Kootenay
 School of Writing. KSW, the more venerable of the two, is 25 years old this
 fall; W is ten. A new collective structure is in place for the School: a
-cluster of semi-autonomous yet intersecting Ã¢ï¿½ï¿½podsÃ¢ï¿½ï¿½ (or Ã¢ï¿½ï¿½cellsÃ¢ï¿½ï¿½ if you
-prefer a more radical conception), each with its own projects or Ã¢ï¿½ï¿½areas of
-influenceÃ¢ï¿½ï¿½ (readings / pedagogy / publication, etc). W2010 begins a new
+cluster of semi-autonomous yet intersecting â��podsâ�� (or â��cellsâ�� if you
+prefer a more radical conception), each with its own projects or â��areas of
+influenceâ�� (readings / pedagogy / publication, etc). W2010 begins a new
 conception of the magazine as an annual: this first issue gathers work from
 the present collective (or perhaps we should now say collectives) written
 this year; future annual issues will be announced with a themed call, for
@@ -961,26 +961,26 @@ year (see below for the call for the next issue). We hope work will be
 written dialogically as an issue accumulates: an initial selection of
 material will be posted, and then responses / extensions / contestations
 /emendations, etc, as they come; at the close of a year/issue, a print run
-of at least a Ã¢ï¿½ï¿½selectionÃ¢ï¿½ï¿½ of the yearÃ¢ï¿½ï¿½s material will ideally then be
+of at least a â��selectionâ�� of the yearâ��s material will ideally then be
 issued.
 
 The work in W2010 might surprise some familiar with the magazine and the
 School. For starters, there is some fiction here. We are doing our cultural
-work at a time of unprecedented pressures, as the Ã¢ï¿½ï¿½long neoliberal momentÃ¢ï¿½ï¿½
-(to borrow Jeff DerksenÃ¢ï¿½ï¿½s phrase) grinds on, responding to the current
+work at a time of unprecedented pressures, as the â��long neoliberal momentâ��
+(to borrow Jeff Derksenâ��s phrase) grinds on, responding to the current
 market crisis not by a return to some sort of neo-Keynsean economics, but
 rather, with bailouts for the rich and amped up privatizations. Meanwhile
-the public sphereÃ¢ï¿½ï¿½already just a pool of faint light beneath one last
-sputtering streetlampÃ¢ï¿½ï¿½seems set to finally wink out altogether. In
+the public sphereâ��already just a pool of faint light beneath one last
+sputtering streetlampâ��seems set to finally wink out altogether. In
 Vancouver, this has a lot to do with the Olympics, its hundreds of new
-security cameras, its 1 billion dollar security budget, and its Ã¢ï¿½ï¿½safe
-assembly areasÃ¢ï¿½ï¿½ (outside of which we can imagine the majority of the city
-as an Ã¢ï¿½ï¿½unsafe assembly zoneÃ¢ï¿½ï¿½). Beside this we have the provincial
-governmentÃ¢ï¿½ï¿½s concerted efforts to privatize, expropriate, expel, and
+security cameras, its 1 billion dollar security budget, and its â��safe
+assembly areasâ�� (outside of which we can imagine the majority of the city
+as an â��unsafe assembly zoneâ��). Beside this we have the provincial
+governmentâ��s concerted efforts to privatize, expropriate, expel, and
 otherwise suppress a still-vital cultural sector. In such an environment,
 we feel it is essential to broaden and strengthen affinities, working
-towards something of a cultural front to face Ã¢ï¿½ï¿½a world that seems to hold
-together only through the infinite management of its own collapseÃ¢ï¿½ï¿½ (The
+towards something of a cultural front to face â��a world that seems to hold
+together only through the infinite management of its own collapseâ�� (The
 Coming Insurrection 7). From deep in the collapse, we reach out."
 
 For more information click here : http://www.kswnet.org/
@@ -991,7 +991,7 @@ info@kswnet.org for posting to our community calendar <<<
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2010-03-04-17-sfu-teck-gallery-bridge-city-links-for-a-fragile-peninsula-m">17. SFU, Teck Gallery | Bridge City Links for a Fragile Peninsula | MAR 15</a>
 ------------------------------------------------------------------------
-Bridge City Links for a Fragile Peninsula, 1895Ã¢ï¿½ï¿½1980
+Bridge City Links for a Fragile Peninsula, 1895â��1980
 March 15 to June 22, 2010
 
 Simon Fraser University, Teck Gallery
@@ -1084,19 +1084,19 @@ staff of 11 employees of the Arts Services Unit; and performs other related
 duties.
 
 Basic requirements of the position
-Â· a university degree in arts, public or business administration or
+· a university degree in arts, public or business administration or
 equivalent combination of education and 10 years of professional practice
 and experience;
 
-Â· five years' experience in service delivery, management and
+· five years' experience in service delivery, management and
 administration, preferably in an arts related environment;
 
-Â· excellent interpersonal, negotiation, collaboration, business
+· excellent interpersonal, negotiation, collaboration, business
 analysis, communication and team-building skills;
-Â· ability to motivate staff and to deal with conflicting priorities
+· ability to motivate staff and to deal with conflicting priorities
 and differing points of view; and strong planning, organizational,
 analytical, risk management and policy development skills.
-Â· This position requires the use of both official languages. The
+· This position requires the use of both official languages. The
 requirements in the second official language are: an advanced level in oral
 and reading comprehension and an intermediate level in writing.
 
@@ -1110,11 +1110,11 @@ quoting the competition number listed above and a copy of your resume to
 the attention of Roch Brunelle, Human Resources, prior to the closing date
 by either:Â Â 
 
-Â· email: competition1@canadacouncil.ca
+· email: competition1@canadacouncil.ca
 
-Â· fax: 613.566.4323
+· fax: 613.566.4323
 
-Â· mail: 350 Albert Street, P.O. Box 1047, Ottawa, Ontario, K1P 5V8
+· mail: 350 Albert Street, P.O. Box 1047, Ottawa, Ontario, K1P 5V8
 
 For a copy of the job description, please contact Roch Brunelle at
 613-566-4414, extension 4124 or by e-mail at competition1@canadacouncil.ca
@@ -1125,7 +1125,7 @@ We value diversity in our workforce and encourage candidates to
 self-identify as members of the following designated groups:Â	women,
 visible minorities, Aboriginal peoples and persons with disabilities.
 
-ï¿¼Chef, Services aux arts
+￼Chef, Services aux arts
 
 Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : RÃ©gulier Ã  plein temps
 Ã�chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de clÃ´ture : 19
@@ -1134,7 +1134,7 @@ mars 2010
 Au sujet du Conseil des Arts du Canada
 Joignez-vous Ã  notre Ã©quipe et participez au soutien de la crÃ©ativitÃ©
 canadienne! Le Conseil des Arts du Canada est un organisme national
-dynamique et tenu en trÃ¨s haute estime qui a pour mandat de promouvoir
+dynamique et tenu en très haute estime qui a pour mandat de promouvoir
 lâ��Ã©tude, la diffusion des arts, ainsi que la production dâ��Å�uvres dâ��art.Â 
 Nos salaires et avantages sociaux sont trÃ¨s concurrentiels.Â  Pour plus
 dâ��information au sujet du Conseil des Arts du Canada, veuillez visiter
@@ -1144,18 +1144,18 @@ Au sujet du poste
 Sous la supervision directe du directeur de la Division des disciplines
 artistiques, contribuer Ã  la planification stratÃ©gique et au dÃ©veloppement
 global de la Division des disciplines artistiques, faciliter la gestion
-continue des programmes de la Division des disciplines artistiques, gÃ©rer
+continue des programmes de la Division des disciplines artistiques, gérer
 la production de documents sur lâ��architecture de programmes et fournir des
 informations sur le Conseil des Arts du Canada et ses programmes; mettre en
 Å�uvre des politiques et procÃ©dures administratives relatives aux
 subventions de faÃ§on efficace et efficiente;Â  gÃ©rer les activitÃ©s de
 gestion du Centre dâ��inscription du Conseil; diriger le dÃ©veloppement
 dâ��outils clÃ©s, gÃ©rer les activitÃ©s, le budget et onze (11) employÃ©s des
-Services aux arts; accomplir d'autres tÃ¢ches connexes.
+Services aux arts; accomplir d'autres tâches connexes.
 
 Exigences du poste
 
-Â· un diplÃ´me universitaire en art, en administration des affaires ou
+· un diplôme universitaire en art, en administration des affaires ou
 en administration publique ou une combinaison dâ��Ã©tudes et 10 annÃ©es
 dâ��expÃ©rience professionnelle et pratique.
 
@@ -1163,44 +1163,44 @@ dâ��expÃ©rience professionnelle et pratique.
 dâ��administration comportant des responsabilitÃ©s croissantes, de prÃ©fÃ©rence
 dans le milieu des arts;
 
-Â· beaucoup d'entregent et d'excellentes habiletÃ©s pour la
-nÃ©gotiation, la collaboration, la communication et la constitution d'Ã©quipes;
+· beaucoup d'entregent et d'excellentes habiletés pour la
+négotiation, la collaboration, la communication et la constitution d'équipes;
 
-Â· la capacitÃ© de motiver le personnel et de traiter les prioritÃ©s
+· la capacité de motiver le personnel et de traiter les priorités
 conflictuelles et les points de vue divergents; et
 
-Â· de solides habiletÃ©s en matiÃ¨re de planification, d'analyse, de
-gestion de risques et d'Ã©laboration de
+· de solides habiletés en matière de planification, d'analyse, de
+gestion de risques et d'élaboration de
 
-Â· Les fonctions du poste requiÃ¨rent l'utilisation des deux langues
+· Les fonctions du poste requièrent l'utilisation des deux langues
 officielles.Â	Les exigences relatives Ã  la deuxiÃ¨me langue officielle sont
-les suivantes: parler : niveau avancÃ©; lire : niveau avancÃ©; Ã©crire :
-niveau intremÃ©diaire.
+les suivantes: parler : niveau avancé; lire : niveau avancé; écrire :
+niveau intremédiaire.
 
 Ce poste est situÃ© Ã  Ottawa et peut exiger jusqu'Ã  10 jours de dÃ©placements
-par annÃ©e.
+par année.
 
 Comment soumettre votre candidature politiques;
 Remplissez le formulaire de demande dâ��emploi
 <http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm> ,
-y indiquant le numÃ©ro du concours, joignez-y une copie de votre curriculum
+y indiquant le numéro du concours, joignez-y une copie de votre curriculum
 vitÃ¦ et faites parvenir le tout Ã  Roch Brunelle, Ressources humaines, avant
 la date de fermeture, soit par :
-Â· courriel : competition1@canadacouncil.ca
-Â· tÃ©lÃ©copieur : 613-566-4323
-Â· courrier postal : 350, rue Albert, C.P. 1047, Ottawa (Ontario)
+· courriel : competition1@canadacouncil.ca
+· télécopieur : 613-566-4323
+· courrier postal : 350, rue Albert, C.P. 1047, Ottawa (Ontario)
 K1P 5V8
 
 Pour plus dâ��informations ou pour un profil dâ��emploi plus dÃ©taillÃ©, veuillez
 communiquer avec Roch Brunelle au (613) 566-4414, poste 4124 ou par
 courriel Ã  competition1@canadacouncil.ca
 <mailto:competition1@canadacouncil.ca> .Â  Nous remercions tous les
-candidats et les candidates de leur intÃ©rÃªt; cependant, nous ne
+candidats et les candidates de leur intérêt; cependant, nous ne
 communiquerons quâ��avec les personnes sÃ©lectionnÃ©es pour une entrevue.
 
 Nous valorisons lâ��Ã©quitÃ© et la diversitÃ© dans notre effectif, et nous
 encourageons les candidats Ã  sâ��identifier selon les groupes dÃ©signÃ©s
-suivants : femmes, minoritÃ©s visibles, Autochtones, personnes handicapÃ©es.
+suivants : femmes, minorités visibles, Autochtones, personnes handicapées.
 
 P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'Ã©cran
 
@@ -1208,8 +1208,8 @@ Roch Brunelle
 Human Ressources Administrative Assistant/
 Adjoint administratif en Ressources Humaines
 Canada Council for the Arts/Conseil des Arts du Canada
-tÃ©lÃ©phone: 1800-263-5588 x.4124
-fax/tÃ©lÃ©copieur: 613-566-4323
+téléphone: 1800-263-5588 x.4124
+fax/télécopieur: 613-566-4323
 Any distribution, use or copying of this e-mail or the information it
 contains by other than the intended recipient(s) is unauthorized. If you
 are not the intended recipient, please notify me at the telephone number
@@ -1218,9 +1218,9 @@ immediately. Thank you.
 
 Toute distribution, utilisation ou reproduction du courriel ou des
 renseignements qui s'y trouvent par une personne autre que son destinataire
-prÃ©vu est interdit. Si vous avez reÃ§u le message par erreur, veuillez m'en
-aviser par tÃ©lÃ©phone (au numÃ©ro prÃ©citÃ©) ou par courriel, puis supprimer
-sans dÃ©lai la version originale de la communication ainsi que toutes ses
+prévu est interdit. Si vous avez reçu le message par erreur, veuillez m'en
+aviser par téléphone (au numéro précité) ou par courriel, puis supprimer
+sans délai la version originale de la communication ainsi que toutes ses
 copies. Merci de votre collaboration.
 
 
@@ -1258,19 +1258,19 @@ staff of 11 employees of the Arts Services Unit; and performs other related
 duties.
 
 Basic requirements of the position
-Â· a university degree in arts, public or business administration or
+· a university degree in arts, public or business administration or
 equivalent combination of education and 10 years of professional practice
 and experience;
 
-Â· five years' experience in service delivery, management and
+· five years' experience in service delivery, management and
 administration, preferably in an arts related environment;
 
-Â· excellent interpersonal, negotiation, collaboration, business
+· excellent interpersonal, negotiation, collaboration, business
 analysis, communication and team-building skills;
-Â· ability to motivate staff and to deal with conflicting priorities
+· ability to motivate staff and to deal with conflicting priorities
 and differing points of view; and strong planning, organizational,
 analytical, risk management and policy development skills.
-Â· This position requires the use of both official languages. The
+· This position requires the use of both official languages. The
 requirements in the second official language are: an advanced level in oral
 and reading comprehension and an intermediate level in writing.
 
@@ -1284,11 +1284,11 @@ quoting the competition number listed above and a copy of your resume to
 the attention of Roch Brunelle, Human Resources, prior to the closing date
 by either:Â Â 
 
-Â· email: competition1@canadacouncil.ca
+· email: competition1@canadacouncil.ca
 
-Â· fax: 613.566.4323
+· fax: 613.566.4323
 
-Â· mail: 350 Albert Street, P.O. Box 1047, Ottawa, Ontario, K1P 5V8
+· mail: 350 Albert Street, P.O. Box 1047, Ottawa, Ontario, K1P 5V8
 
 For a copy of the job description, please contact Roch Brunelle at
 613-566-4414, extension 4124 or by e-mail at competition1@canadacouncil.ca
@@ -1299,18 +1299,18 @@ We value diversity in our workforce and encourage candidates to
 self-identify as members of the following designated groups:Â	women,
 visible minorities, Aboriginal peoples and persons with disabilities.
 
-ï¿¼Chef, Services aux arts
+￼Chef, Services aux arts
 
 Concours no :Â Â  4600 (Interne/Externe)Â Â Â Â Â Â Â Â  Statut : RÃ©gulier
 Ã  plein temps
 Ã�chelle salariale : 83 600 $ Ã Â	105 000 $Â Â Â Â Â Â Â Â Â  Date de
-clÃ´ture : 19
+clôture : 19
 mars 2010
 
 Au sujet du Conseil des Arts du Canada
 Joignez-vous Ã  notre Ã©quipe et participez au soutien de la crÃ©ativitÃ©
 canadienne! Le Conseil des Arts du Canada est un organisme national
-dynamique et tenu en trÃ¨s haute estime qui a pour mandat de promouvoir
+dynamique et tenu en très haute estime qui a pour mandat de promouvoir
 lâ��Ã©tude, la diffusion des arts, ainsi que la production dâ��Å�uvres
 dâ��art.Â 
 Nos salaires et avantages sociaux sont trÃ¨s concurrentiels.Â  Pour plus
@@ -1321,18 +1321,18 @@ Au sujet du poste
 Sous la supervision directe du directeur de la Division des disciplines
 artistiques, contribuer Ã  la planification stratÃ©gique et au dÃ©veloppement
 global de la Division des disciplines artistiques, faciliter la gestion
-continue des programmes de la Division des disciplines artistiques, gÃ©rer
+continue des programmes de la Division des disciplines artistiques, gérer
 la production de documents sur lâ��architecture de programmes et fournir des
 informations sur le Conseil des Arts du Canada et ses programmes; mettre en
 Å�uvre des politiques et procÃ©dures administratives relatives aux
 subventions de faÃ§on efficace et efficiente;Â  gÃ©rer les activitÃ©s de
 gestion du Centre dâ��inscription du Conseil; diriger le dÃ©veloppement
 dâ��outils clÃ©s, gÃ©rer les activitÃ©s, le budget et onze (11) employÃ©s des
-Services aux arts; accomplir d'autres tÃ¢ches connexes.
+Services aux arts; accomplir d'autres tâches connexes.
 
 Exigences du poste
 
-Â· un diplÃ´me universitaire en art, en administration des affaires ou
+· un diplôme universitaire en art, en administration des affaires ou
 en administration publique ou une combinaison dâ��Ã©tudes et 10 annÃ©es
 dâ��expÃ©rience professionnelle et pratique.
 
@@ -1340,32 +1340,32 @@ dâ��expÃ©rience professionnelle et pratique.
 dâ��administration comportant des responsabilitÃ©s croissantes, de prÃ©fÃ©rence
 dans le milieu des arts;
 
-Â· beaucoup d'entregent et d'excellentes habiletÃ©s pour la
-nÃ©gotiation, la collaboration, la communication et la constitution d'Ã©quipes;
+· beaucoup d'entregent et d'excellentes habiletés pour la
+négotiation, la collaboration, la communication et la constitution d'équipes;
 
-Â· la capacitÃ© de motiver le personnel et de traiter les prioritÃ©s
+· la capacité de motiver le personnel et de traiter les priorités
 conflictuelles et les points de vue divergents; et
 
-Â· de solides habiletÃ©s en matiÃ¨re de planification, d'analyse, de
-gestion de risques et d'Ã©laboration de
+· de solides habiletés en matière de planification, d'analyse, de
+gestion de risques et d'élaboration de
 
-Â· Les fonctions du poste requiÃ¨rent l'utilisation des deux langues
+· Les fonctions du poste requièrent l'utilisation des deux langues
 officielles.Â	Les exigences relatives Ã  la deuxiÃ¨me langue officielle sont
-les suivantes: parler : niveau avancÃ©; lire : niveau avancÃ©; Ã©crire :
-niveau intremÃ©diaire.
+les suivantes: parler : niveau avancé; lire : niveau avancé; écrire :
+niveau intremédiaire.
 
 Ce poste est situÃ© Ã  Ottawa et peut exiger jusqu'Ã  10 jours de dÃ©placements
-par annÃ©e.
+par année.
 
 Comment soumettre votre candidature politiques;
 Remplissez le formulaire de demande dâ��emploi
 <http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm> ,
-y indiquant le numÃ©ro du concours, joignez-y une copie de votre curriculum
+y indiquant le numéro du concours, joignez-y une copie de votre curriculum
 vitÃ¦ et faites parvenir le tout Ã  Roch Brunelle, Ressources humaines, avant
 la date de fermeture, soit par :
-Â· courriel : competition1@canadacouncil.ca
-Â· tÃ©lÃ©copieur : 613-566-4323
-Â· courrier postal : 350, rue Albert, C.P. 1047, Ottawa (Ontario)
+· courriel : competition1@canadacouncil.ca
+· télécopieur : 613-566-4323
+· courrier postal : 350, rue Albert, C.P. 1047, Ottawa (Ontario)
 K1P 5V8
 
 Pour plus dâ��informations ou pour un profil dâ��emploi plus dÃ©taillÃ©,
@@ -1373,12 +1373,12 @@ veuillez
 communiquer avec Roch Brunelle au (613) 566-4414, poste 4124 ou par
 courriel Ã  competition1@canadacouncil.ca
 <mailto:competition1@canadacouncil.ca> .Â  Nous remercions tous les
-candidats et les candidates de leur intÃ©rÃªt; cependant, nous ne
+candidats et les candidates de leur intérêt; cependant, nous ne
 communiquerons quâ��avec les personnes sÃ©lectionnÃ©es pour une entrevue.
 
 Nous valorisons lâ��Ã©quitÃ© et la diversitÃ© dans notre effectif, et nous
 encourageons les candidats Ã  sâ��identifier selon les groupes dÃ©signÃ©s
-suivants : femmes, minoritÃ©s visibles, Autochtones, personnes handicapÃ©es.
+suivants : femmes, minorités visibles, Autochtones, personnes handicapées.
 
 P Think green; read on screen /Pensons Ã  l'environnement; lisons Ã  l'Ã©cran
 
@@ -1386,8 +1386,8 @@ Roch Brunelle
 Human Ressources Administrative Assistant/
 Adjoint administratif en Ressources Humaines
 Canada Council for the Arts/Conseil des Arts du Canada
-tÃ©lÃ©phone: 1800-263-5588 x.4124
-fax/tÃ©lÃ©copieur: 613-566-4323
+téléphone: 1800-263-5588 x.4124
+fax/télécopieur: 613-566-4323
 Any distribution, use or copying of this e-mail or the information it
 contains by other than the intended recipient(s) is unauthorized. If you
 are not the intended recipient, please notify me at the telephone number
@@ -1396,9 +1396,9 @@ immediately. Thank you.
 
 Toute distribution, utilisation ou reproduction du courriel ou des
 renseignements qui s'y trouvent par une personne autre que son destinataire
-prÃ©vu est interdit. Si vous avez reÃ§u le message par erreur, veuillez m'en
-aviser par tÃ©lÃ©phone (au numÃ©ro prÃ©citÃ©) ou par courriel, puis supprimer
-sans dÃ©lai la version originale de la communication ainsi que toutes ses
+prévu est interdit. Si vous avez reçu le message par erreur, veuillez m'en
+aviser par téléphone (au numéro précité) ou par courriel, puis supprimer
+sans délai la version originale de la communication ainsi que toutes ses
 copies. Merci de votre collaboration.
 
 

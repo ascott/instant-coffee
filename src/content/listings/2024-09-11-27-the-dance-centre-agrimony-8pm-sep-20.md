@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Footlong Yeoman Work"
 emailDate: "Tue, 10 Sep 2024 23:45:06 -0700"
 number: 27
 type: "PERFORMANCE"
+venue: "The Dance Centre"
 summary: "The Dance Centre | Agrimony | 8PM | SEP 20"
 ---
 

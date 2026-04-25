@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Loquacious"
 emailDate: "Thu, 18 Apr 2019 08:21:14 -0700"
 number: 76
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | MOV | DOXA: Toad People | 7PM | MAY 9"
 ---
 

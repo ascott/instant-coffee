@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: it doesn't have to be awesome it j
 emailDate: "Thu, 25 Feb 2010 12:50:40 -0800"
 number: 4
 type: ""
+venue: "W2"
 summary: "W2 | Open Data + Culture | Gregor Robertson & Lawrence Lessig | FEB 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: unprofessional collaborative group
 emailDate: "Thu, 02 Jun 2016 18:10:12 -0700"
 number: 17
 type: "OPENING"
+venue: "CSA Space"
 summary: "CSA Space | Tegan Moore - Subtraction Inventories | JUN 9"
 ---
 

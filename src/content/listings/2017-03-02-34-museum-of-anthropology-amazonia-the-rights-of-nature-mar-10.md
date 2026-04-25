@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Things need things"
 emailDate: "Thu, 02 Mar 2017 09:15:19 -0800"
 number: 34
 type: "EXHIBITION"
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Amazonia: The Rights of Nature | MAR 10"
 ---
 

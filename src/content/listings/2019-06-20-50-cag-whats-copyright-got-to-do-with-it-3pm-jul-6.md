@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: A Tree in a Backyard"
 emailDate: "Thu, 20 Jun 2019 08:00:51 -0700"
 number: 50
 type: "EDUCATION"
+venue: "CAG"
 summary: "CAG | What’s Copyright Got to Do with It? | 3PM | JUL 6"
 ---
 

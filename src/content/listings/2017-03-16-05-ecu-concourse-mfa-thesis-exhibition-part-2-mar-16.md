@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Julio and Romiette"
 emailDate: "Thu, 16 Mar 2017 10:11:04 -0700"
 number: 5
 type: "OPENING"
+venue: "ECU Concourse"
 summary: "ECU Concourse | MFA Thesis Exhibition Part 2 | MAR 16"
 ---
 

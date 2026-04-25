@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intellectuals’ Saliva"
 emailDate: "Thu, 02 Aug 2018 07:50:09 -0700"
 number: 19
 type: "EVENT"
+venue: "Rennie Museum"
 summary: "Rennie Museum | Book Club | 6PM | AUG 14"
 ---
 

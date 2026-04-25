@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watc
 emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
 number: 9
 type: ""
+venue: "DIM Cinema at the Pacific Cinematheque"
 summary: "DIM Cinema at the Pacific Cinematheque | You Are Not I & Cat Swallows Parakeet and Speaks! | FEB 18"
 ---
 

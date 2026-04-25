@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pumpkin Building Forever"
 emailDate: "Tue, 30 Jul 2024 22:25:17 -0700"
 number: 13
 type: "OPENING"
+venue: "Outsiders and Others"
 summary: "Outsiders and Others | The Many Faces of Time: Part Deux | 2PM | AUG 3"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bit by bit"
 emailDate: "Wed, 09 Jul 2025 22:25:11 -0700"
 number: 13
 type: "TALK"
+venue: "Upstart & Crow"
 summary: "Upstart & Crow | Q&A with Nicholas Triolo | 7PM | JUL 15"
 ---
 

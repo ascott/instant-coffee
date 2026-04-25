@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: sincerity may seem a bit anachroni
 emailDate: "Thu, 09 Nov 2017 12:20:05 -0800"
 number: 9
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | READ Books | Camera Austria International Issue 139 | NOV 14"
 ---
 

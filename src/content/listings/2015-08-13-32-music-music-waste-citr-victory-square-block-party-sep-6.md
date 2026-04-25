@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  life of the mind and the body tha
 emailDate: "Thu, 13 Aug 2015 09:50:28 -0700"
 number: 32
 type: ""
+venue: "MUSIC"
 summary: "MUSIC | Music Waste & CiTR | Victory Square Block Party | SEP 6"
 ---
 
 Victory Square Block Party Returns with Irreplaceable Line-up of Local Artists
 
-(Vancouverâ€”August 11) Music Waste and CiTR 101.9FM are pleased to present
+(Vancouver—August 11) Music Waste and CiTR 101.9FM are pleased to present
 the 11th annual Victory Square Block Party on Sunday, September 6, 2015
 from 2-9p.m. This free event invites music fans from across the Lower
 Mainland to Victory Square Park (Cambie St and W Hastings St) to celebrate
@@ -18,41 +19,41 @@ of local bands.
 
 "Everything is set for us to have an unforgettable festival this year,â€ 
 says Victory Square Block Party and Music Waste organizer Mark Richardson.
-â€œThe line-up is really musically diverse and shows the variety of different
-sounds you can find in Vancouverâ€™s independent music scene right now. Itâ€™s
+“The line-up is really musically diverse and shows the variety of different
+sounds you can find in Vancouver’s independent music scene right now. It’s
 a great way for people to support Vancouver musicians as well as CiTR and
 Megaphone Magazine, all for free.â€ 
 
 With performances from Woolworm, Ramzi, Other Jesus, Cave Girl, Gal Gracen,
 Fake Tears, Whitney K, and Twin River, the line‐up features a set of
-artists from Vancouverâ€™s current independent music scene that would not be
+artists from Vancouver’s current independent music scene that would not be
 found at any other event. DJs Owen Ellis and bb.yu will spin music
 throughout the day, filling the space between bands and Miss Christie Lee
 from Musqueam will be doing an opening celebration for the event. On-air
 personalities from CiTR will be on-site to emcee and interview bands as
 part of an all-day live broadcast on 101.9 FM and streaming at www.citr.ca.
-Local business Whatâ€™s up? Hot Dog! will be selling hot dogs created
+Local business What’s up? Hot Dog! will be selling hot dogs created
 especially for the event.
 
 Continuing its tradition of supporting community media in Vancouver,
 partial sponsorship and raffle proceeds will be donated to Megaphone, a
 magazine sold on the streets of Vancouver by homeless and low‐income
-vendors, and CiTR 101.9FM, Vancouverâ€™s independent community and
+vendors, and CiTR 101.9FM, Vancouver’s independent community and
 campus-based broadcaster.
 
-â€œThe Block Party exists to support awesome community-based organizations
+“The Block Party exists to support awesome community-based organizations
 and exciting new music coming out of Vancouver,â€  says Sarah Cordingley,
-Music Director at CiTR. â€œCiTR is always happy to be a part of it, and
+Music Director at CiTR. “CiTR is always happy to be a part of it, and
 Vancouver wouldnâ€™t be the same without it.â€ 
 
-Since 2004, the Block Party has become a staple of Vancouverâ€™s independent
+Since 2004, the Block Party has become a staple of Vancouver’s independent
 music scene, and of the Labour Day weekend. Remaining committed to local
 talent, the Block Party counts bands such as Pink Mountaintops, The
 Unicorns, White Lung, Slam Dunk, and The Pack A.D. among its alumni.
 
 The 2015 Victory Square Block Party promises to be an unforgettable event.
 We would like to thank our sponsors for helping to make this event
-possible: Champion Sponsor Whatâ€™s Up? Hot Dog! Gold Sponsors Hastings
+possible: Champion Sponsor What’s Up? Hot Dog! Gold Sponsors Hastings
 Crossing BIA, SFU Woodwards Center for Community Engagement, FACTOR Silver
 Sponsor Print Print Bronze Sponsors Audiopile Records, Neptoon Records,
 Girls Rock Camp Vancouver, Safe Amplification Site Society, Vinyl Records,

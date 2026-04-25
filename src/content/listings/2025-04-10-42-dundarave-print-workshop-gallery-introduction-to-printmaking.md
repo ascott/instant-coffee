@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Stainless Steel Seagull"
 emailDate: "Wed, 09 Apr 2025 21:40:10 -0700"
 number: 42
 type: "EDUCATION"
+venue: "Dundarave Print Workshop + Gallery"
 summary: "Dundarave Print Workshop + Gallery | Introduction to Printmaking | MAY 9"
 ---
 

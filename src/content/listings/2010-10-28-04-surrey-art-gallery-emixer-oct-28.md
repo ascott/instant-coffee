@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: hey, why not sing along?"
 emailDate: "Thu, 28 Oct 2010 10:16:00 -0700"
 number: 4
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | e.mixer | OCT 28"
 ---
 
@@ -23,7 +24,7 @@ faculty and industry professionals, thus bringing together local and
 international
 researchers and practitioners.
 
-This yearï¿½s e.mixer includes Reliquary, a featured sound performance by
+This year�s e.mixer includes Reliquary, a featured sound performance by
 Philippe
 Pasquier, and a selection of installed projects by Joomi Seo, Zoe
 Tissandier, and
@@ -61,6 +62,6 @@ Boulevard, in Bear Creek Park.
 By SkyTrain take the Expo Line, get off at Surrey Central station, and
 catch the 321
 bus to 88 Avenue.
-By Car directions are available at www.arts.surrey.ca ï¿½ click Surrey Art
+By Car directions are available at www.arts.surrey.ca � click Surrey Art
 Gallery,
 About the Gallery, and Visitor Information.

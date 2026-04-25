@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 2
 type: ""
+venue: "ECU"
 summary: "ECU | on the edge reading series | Brad Cran | JAN 31"
 ---
 

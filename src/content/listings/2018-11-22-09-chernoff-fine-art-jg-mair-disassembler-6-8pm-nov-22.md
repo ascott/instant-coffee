@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Future is You and Me"
 emailDate: "Thu, 22 Nov 2018 11:55:07 -0800"
 number: 9
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | JG Mair - Disassembler | 6-8pm | NOV 22"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: absolutely no absolutes"
 emailDate: "Thu, 20 Jan 2011 11:50:44 -0800"
 number: 24
 type: ""
+venue: "DTES arts and culture Romp"
 summary: "DTES arts and culture Romp | seeking submissions | MAR 15"
 ---
 

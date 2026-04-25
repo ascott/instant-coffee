@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: For Forever"
 emailDate: "Thu, 24 Sep 2020 10:40:16 -0700"
 number: 37
 type: "CALL"
+venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Artist Call, Richmond, BC | OCT 20"
 ---
 

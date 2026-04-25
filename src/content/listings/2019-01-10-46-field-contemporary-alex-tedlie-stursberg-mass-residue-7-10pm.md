@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 46
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | Alex Tedlie-Stursberg | Mass Residue | 7-10PM | JAN 31"
 ---
 

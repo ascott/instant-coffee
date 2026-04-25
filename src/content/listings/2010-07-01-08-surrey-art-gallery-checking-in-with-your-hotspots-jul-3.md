@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're syntaxed"
 emailDate: "Thu, 01 Jul 2010 10:30:10 -0700"
 number: 8
 type: ""
+venue: "Surrey Art Gallery"
 summary: "Surrey Art Gallery | Checking in with your hotspots | JUL 3"
 ---
 
@@ -59,7 +60,7 @@ Surrey, BC
 Canada V3W 3L1
 
 604-501-5566 begin_of_the_skype_highlighting		  604-501-5566	    end_of_the_skype_highlighting
-begin_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ 604-501-5566 begin_of_the_skype_highlighting		   604-501-5566      end_of_the_skype_highlightingÃ‚ Ã‚ Ã‚ Ã‚ Ã‚ Ã‚ end_of_the_skype_highlighting
+begin_of_the_skype_highlightingÂ Â Â Â Â Â Â Â Â Â Â Â Â Â 604-501-5566 begin_of_the_skype_highlighting		   604-501-5566      end_of_the_skype_highlightingÂ Â Â Â Â Â end_of_the_skype_highlighting
 
 artgallery@surrey.ca
 

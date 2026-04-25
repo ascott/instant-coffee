@@ -65,8 +65,8 @@ Sunset Terrace
 ------------------------------------------------------------------------
 Sunny Side Up
 Christopher Kuhn
-October Thursday 24th â€” November Saturday 22nd
-Opening Thursday, October 23rd 6:00 â€” 10:00 PM
+October Thursday 24th — November Saturday 22nd
+Opening Thursday, October 23rd 6:00 — 10:00 PM
 FIELD Contemporary
 17 West Broadway
 
@@ -129,7 +129,7 @@ FIELD Satellite, 29 West Broadway, Vancouver, BC
 
 FIELD Satellite is pleased to present N I R D V A N D V A, an exhibition 
 featuring work by Vancouver-based artists Kuh Del Rosario and Scott 
-Lewis. The title of the show takes its root in Sanskrit and refers to oneÂ´s 
+Lewis. The title of the show takes its root in Sanskrit and refers to one´s 
 ability to be free from dualities. The concept of Nirdvandva was later 
 popularized in the realm of psychology by Carl Jung who used it as a 
 frame for discussing Hegelian dialectics and the notion of transcendence. It 
@@ -137,7 +137,7 @@ is the ethos of Nirdvandva that is shared in the art practices of both Del
 Rosario and Lewis.
 
 Although invested in material process, decay and regeneraton, both artists 
-arrive at this commonality through their own trajectory. Del RosarioÂ´s 
+arrive at this commonality through their own trajectory. Del Rosario´s 
 interrogation of sculpture recalls early memories of living in The Philippines 
 and of witnessing objects devolve into detritus, get beaten into the earth, 
 and then slowly grow as they compound with other materials in their 
@@ -145,14 +145,14 @@ proximity. Her sculptures speak to the life cycles many urban materials
 face as they are extracted from nature, transformed by industry only to be 
 discarded and then consumed again by the planet until they recapitulate 
 themselves as hybrid objects - incapable of performing their part within the 
-logic of their desired mechanism, but mutated from nature. In LewisÂ´s 
+logic of their desired mechanism, but mutated from nature. In Lewis´s 
 practice the life cycle of materials articulate themselves on the canvas 
 through a process that fluctuates between additive gesture and forced 
 erosion. Sometimes this manifests itself in the literal application of 
 materials such as wheat-paste posters and newsprint that are later 
 scraped away. Sometimes this relationship is merely implied by the 
 topographical effect that comes from mixing and manipulating paint that 
-does not bind with its substract. Embedded in his sensibility is LewisÂ´s 
+does not bind with its substract. Embedded in his sensibility is Lewis´s 
 relationship to his own background as a musician and the cathartic power 
 of post-punk noise.
 
@@ -255,11 +255,11 @@ Adam Putnam is an artist whose work investigates the correlation between
 the seen and unseen; interior and exterior space, a geometry that is often 
 represented as the relationship between bodies and architecture. 
 Reclaimed Empire (Deep Edit), 2008-2014 is a selection of short films from 
-an ongoing series comprised of over 60 fragments and short works. â€œThe 
-original title, reclaimed empire, initially an overt nod to Warholâ€™s â€˜Empire,â€™ 
+an ongoing series comprised of over 60 fragments and short works. “The 
+original title, reclaimed empire, initially an overt nod to Warhol’s ‘Empire,’ 
 speaks less about homage, and more to the notion of a constant return to 
-repeated subject matter â€“ a gaze that never leaves, that stares un-
-blinkingly â€“ mechanically â€“ at the same subject. This was my Empire, 
+repeated subject matter – a gaze that never leaves, that stares un-
+blinkingly – mechanically – at the same subject. This was my Empire, 
 comprised of whatever was on hand in my studio, sculptural fragments, 
 broken mirrors, architectural models and other detritus.â€ 
 
@@ -326,40 +326,40 @@ Organised by Drew Ann Wake and Tyler Russell
 Free and open to the public
 
 In the 1970s there was a proposal to put a natural gas pipeline through the 
-MacKenzie Valley in Canadaâ€™s North. At the time, Justice Thomas Berger 
+MacKenzie Valley in Canada’s North. At the time, Justice Thomas Berger 
 was commissioned to conduct an inquiry to investigate the social, 
 environmental and economic impacts of the project and to put forward 
 recommendations. Conducting hearings in communities throughout the 
-MacKenzie Valley and across the Canadaâ€™s North, Justice Berger both 
+MacKenzie Valley and across the Canada’s North, Justice Berger both 
 listened to and heard what people had to say. The series of community 
 consultations, organised by UBC Professor of Law Michael Jackson, were 
 preciously captured on tape by celebrated documentary filmmaker Jesse 
-Nishihata. Drew Ann Wake, a researcher on Nishihataâ€™s Inquiry Film, has 
+Nishihata. Drew Ann Wake, a researcher on Nishihata’s Inquiry Film, has 
 maintained life-long relationships with the people she met during the 
 Inquiry process. Valuing her personal relationships and driven by questions 
-surrounding how the people of Canadaâ€™s North can both be listened to and 
+surrounding how the people of Canada’s North can both be listened to and 
 heard, in recent years, reflecting on the methodologies of her mentor Jesse 
-Nishihata, Wake produced Inquiry â€“ an exhibition and audio recording 
+Nishihata, Wake produced Inquiry – an exhibition and audio recording 
 project that both collects and shares the voices, stories and perspectives of 
-people across Canadaâ€™s North. Recently, in collaboration with Amy 
-Perreault of UBCâ€™s Centre for Teaching, Learning and Technology, Wake 
+people across Canada’s North. Recently, in collaboration with Amy 
+Perreault of UBC’s Centre for Teaching, Learning and Technology, Wake 
 has been testing interactive media techniques for enhancing the capacity 
-of Southern Canadian listenersâ€™ capacity to hear the stories being told by 
+of Southern Canadian listeners’ capacity to hear the stories being told by 
 Northern elders.
 
 This special two-day project consists of an examination of Drew Ann 
-Wakeâ€™s exhibition design practice, a keynote speech by Professor Michael 
-Jackson, a presentation of Wake and Perreaultâ€™s interactive media design 
-work and a screening of Jesse Nishihataâ€™s Inquiry Film: A Report on the 
+Wake’s exhibition design practice, a keynote speech by Professor Michael 
+Jackson, a presentation of Wake and Perreault’s interactive media design 
+work and a screening of Jesse Nishihata’s Inquiry Film: A Report on the 
 Mackenzie Valley Pipeline.
 
 This is a timely presentation on a variety of fronts. In hyper-local terms it 
 rests as a point of reference to those seeking to have their voices heard in 
 the face of transformation/gentrification in Chinatown. In light of the 
-Vancouver Art Galleryâ€™s recent collaboration with oil and gas pipeline 
+Vancouver Art Gallery’s recent collaboration with oil and gas pipeline 
 stakeholders, Enbridge and the Chinese National Offshore Oil Corporation, 
 it offers reflection on the ongoing, international conversation about art 
-sponsorshipsâ€™ relationship to the artistic realm of possibility. Importantly, the 
+sponsorships’ relationship to the artistic realm of possibility. Importantly, the 
 project lends an opportunity to consider strategies for inter-cultural 
 communication and understanding given the complexity of shifting power 
 relationships and ongoing developments in the new international divisions 
@@ -425,16 +425,16 @@ Logan Sturrock
 Allison Watters
 Zebulon Zang
 
-The other day I was listening to Robert Ashleyâ€™s composition Automatic 
+The other day I was listening to Robert Ashley’s composition Automatic 
 Writing on headphones. Amidst the chaos of hissing sounds, and bi-lingual 
 mutters, there is a bass line that bounces along with so much pleasure that 
 it seems like it is coming from a different space, a different circumstance, 
-but there it is glued to Ashleyâ€™s composition.
+but there it is glued to Ashley’s composition.
 
 This reminded me of a night when I was sitting alone in the middle room 
 at Avenue, and like many nights I could hear what was occurring next door 
-on the Balmoralâ€™s dance floor. The bass seemed to shine through the 
-roomâ€™s stucco wall, rattling it, animating it, as if it was a creature in its own 
+on the Balmoral’s dance floor. The bass seemed to shine through the 
+room’s stucco wall, rattling it, animating it, as if it was a creature in its own 
 right, enticing me to document its presence. I fished a field recorder out of 
 my bag. Turning on this machine always seduces me. The amplification of 
 hearing to colossal levels. The unbelievable affirming nudge that what your 
@@ -443,7 +443,7 @@ you are listening to? Just press record. That evening the sounds coming
 from the Balmoral were fucked; this was the descriptor that came to mind 
 to describe a scene that I could not understand. A throttling bass line, a 
 beat, and a melody; all discernible, all comfortably submergible within the 
-clichÃ©s that populate any dance floor, all of this was mixed with a sound 
+clichés that populate any dance floor, all of this was mixed with a sound 
 that I could not name but only picture. It was as though a bomb had been 
 set off in the Balmoral. As the music stretched on so did the explosions, 
 covering the groove stroke for stroke. Its every ripple seemed to propose a 
@@ -474,7 +474,7 @@ oven on. A sensation I feel some duty to report as I am referring to the fact
 that Avenue was once a pizza parlour. I rushed into the larger room to find 
 a studio mate sitting beneath his light, listening in full blast to an album 
 called New History Warfare by Colin Stetson. â€œThis, is mixing with that?â€  
-Against the sound coming from the boom box my friend couldâ€™ve only seen 
+Against the sound coming from the boom box my friend could’ve only seen 
 a mouthed statement along with a few giggly arm gestures directed at the 
 Balmoral, it probably looked as though I was dancing, raving towards the 
 wall, and at that moment, with my headphones off these moves were 
@@ -499,7 +499,7 @@ Dynamo Arts Association
 Reception: Saturday October 25, 8pm 
 *** with performance at 9pm
 
-The word Ã¢â‚¬Å“vesselsÃ¢â‚¬ offers an array of different meanings and 
+The word â€œvesselsâ€ offers an array of different meanings and 
 connotations. 
 Some of the most common refer to an object used as a container, a craft 
 designed for water transportation, or the more literary translation which 
@@ -515,14 +515,14 @@ Paul presents a series of carved wooden forms whose surfaces have been
 worked meticulously over time. He then juxtaposes each of his forms with 
 a distinctly foreign matter such as latex, sand, or metallic nails. The 
 infusion of foreign matter acts like a protective membrane for its wooden 
-counterpart. Some of PaulÃ¢â‚¬â„¢s sculptures stand upright freely while 
+counterpart. Some of Paulâ€™s sculptures stand upright freely while 
 others 
 succumb to gravity and reach outwardly on the surface of the floor.
 
 Darius offers a multitude of forms and media chronicling the permutations 
 of a hand-tended, manicured grass lawn in the shape of his 11 x 7 ft. fourth 
 floor balcony. He exhibits multiple objects that recount the stages of the 
-lawnÃ¢â‚¬â„¢s care, its journey through False Creek and its inevitable decay: a 
+lawnâ€™s care, its journey through False Creek and its inevitable decay: a 
 grass lawn, a raft constructed for the transportation of his lawn (complete 
 with short picket fence), a video performance embedded within the floor of 
 his raft following the safe transport of the lawn from its origin on his 
@@ -535,16 +535,16 @@ Darius Stein and Paul Halley are both based in Vancouver.
 <a href="/instant-coffee/listings/2014-10-24-09-field-trip-sfu-phg-sag-and-maillardville-oct-25">09. Field Trip | SFU, PHG, SAG and Maillardville | OCT 25</a>
 ------------------------------------------------------------------------
 Field Trip
-Sat, 25 Oct 2014 11:00 AM â€“ 9:00 PM
+Sat, 25 Oct 2014 11:00 AM – 9:00 PM
 $10. Tickets at https://www.eventbrite.ca/e/field-trip-tickets-13419731779
 
-Field Trip is an invitation to explore the art that lies beyond Vancouverâ€™s 
+Field Trip is an invitation to explore the art that lies beyond Vancouver’s 
 borders by creating a convenient transportation option to shuttle art 
 audiences to important suburban art institutions around Metro Vancouver. 
 What began as an informal conversation has now become an actuality: an 
 art bus that will shuttle enthusiastic gallery goers to exhibition spaces and 
 communities in the region. An experience that extends beyond traversing 
-from point â€˜Aâ€™ to point â€˜Bâ€™, the bus will also be a site of conversations and 
+from point ‘A’ to point ‘B’, the bus will also be a site of conversations and 
 events related to art in the destination communities. The one day tour will 
 visit the Presentation House Gallery in North Vancouver, SFU Gallery on 
 Burnaby Mountain, Mallardville Cultural Appreciation Society in Coquitlam, 
@@ -555,11 +555,11 @@ Meeting place: Audain Gallery, 149 West Hastings St. - 11:00am
 
 Bus stops:
 
-â€¢ Presentation House Gallery
-â€¢ SFU Gallery
-â€¢ Maillardville Cultural Appreciation Society
-â€¢ Surrey Art Gallery
-â€¢ optional tour: SFU Surreyâ€™s SIAT Media Lab
+• Presentation House Gallery
+• SFU Gallery
+• Maillardville Cultural Appreciation Society
+• Surrey Art Gallery
+• optional tour: SFU Surrey’s SIAT Media Lab
 
 Please note:
 
@@ -583,7 +583,7 @@ He is currently a member of both the Vancouver Public Art Committee and
 Centre A (the Vancouver International Centre for Contemporary Asian Art) 
 board.
 
-Field Trip is a partnership project co-presented by SFUâ€™s Vancity Office of 
+Field Trip is a partnership project co-presented by SFU’s Vancity Office of 
 Community Engagement and SFU Galleries.
 
 ------------------------------------------------------------------------
@@ -657,11 +657,11 @@ Tickets are $59 - only a few spots left!
 BUY TICKETS ONLINE: front.bc.ca/events/image-process.
 
 Join us for cocktails, dinner and a screening of animated works from the 
-Western Frontâ€™s Archive. Proceeds support the Western Front Archive, an 
+Western Front’s Archive. Proceeds support the Western Front Archive, an 
 important collection of works spanning a 41-year history. Be among the first 
 to view newly digitized works with special guests in attendance.
 
-Works by Hank Bull + Eric Metcalfe, Barry DoupÃ©, Ko Nakajima, Sylvain 
+Works by Hank Bull + Eric Metcalfe, Barry Doupé, Ko Nakajima, Sylvain 
 Sailly, Liz Vander Zaag, and more.
 
 Cocktails by Sons of Vancouver, dinner by Roaming Dragon + snacks by 
@@ -695,7 +695,7 @@ The Phobic Trust
 https://soundcloud.com/thephobictrust
 
 The Phobic Trust is a collective of musicians making experimental drone/ 
-musique concrÃ¨te/ ambient/ found sound/ minimal soundscapes.
+musique concrète/ ambient/ found sound/ minimal soundscapes.
 
 Members are: alyson fun (Vonnegut Dollhouse, Lengthy List of Lovers, 
 Alouette Lake & Palmer, Confessions of Owls, Bread Savage, Ducks 
@@ -730,7 +730,7 @@ accommodate this step
 The Commons
 Emily Carr Concourse Gallery | October 27 - November 1, 2014
 
-For one week each semester, Emily Carrâ€™s Concourse Gallery will be 
+For one week each semester, Emily Carr’s Concourse Gallery will be 
 transformed into The Commons. Part prototype, part program, The 
 Commons is made up of a kit of modular parts intended to create dynamic 
 spaces for teaching, learning, and social mixing at our new campus; and to 
@@ -740,16 +740,16 @@ experiment with the relationship between built form, such as the
 arrangement of tables and chairs, and social scenarios, such as playing a 
 collaborative game.
 
-In the Fall of 2014, the focus of The Commons is on Emily Carrâ€™s history. 
+In the Fall of 2014, the focus of The Commons is on Emily Carr’s history. 
 Through a series of curated and open-ended events, students, faculty, staff 
 and our community at large to explore and interrogate key questions about 
-our past. How has our institutionâ€™s identity and approach to teaching and 
+our past. How has our institution’s identity and approach to teaching and 
 learning evolved? What influence has our location on Granville Island had 
-on the schoolâ€™s culture? Who has been critical to our institutionâ€™s history, 
+on the school’s culture? Who has been critical to our institution’s history, 
 and what have members of community moved on to do? Events in The 
 Commons will be both practical and speculative, inviting participants to 
-â€˜rename a space in for one day for $1â€™ or to attend a Ghost Talk of haunts 
-from Emily Carrâ€™s past. Events Include
+‘rename a space in for one day for $1’ or to attend a Ghost Talk of haunts 
+from Emily Carr’s past. Events Include
 
 Extra-Curricular: 9:00 - 11:00 am, Monday, Wednesday + Friday, October 
 27 - 31
@@ -758,7 +758,7 @@ meetings will invite faculty, staff, and students to speculate on the
 pedagogical possibilities that could exist beyond the constraints of 
 curriculum and institutionalized education as we commonly experience it.
 
-Name a Space for $1 for a Day: 12:00 â€“ 1:00 pm daily, October 27 - 31
+Name a Space for $1 for a Day: 12:00 – 1:00 pm daily, October 27 - 31
 A drop-in event at lunch time in which students, staff, faculty and the public 
 may propose a new name for a space within the school. Led by SPACE 
 student Diana Hanitzsch.
@@ -776,17 +776,17 @@ contemporary moment, while considering our own position and agency
 within the institution.
 
 Propositions for an Archive: 7:00 pm, Monday, October 27
-This panel introduces the questions core questions about Emily Carrâ€™s 
-history: how has our institutionâ€™s identity and approach to teaching and 
+This panel introduces the questions core questions about Emily Carr’s 
+history: how has our institution’s identity and approach to teaching and 
 learning evolved? What influence has our location on Granville Island had 
-on the schoolâ€™s culture? What are the critical moments in our history, and 
+on the school’s culture? What are the critical moments in our history, and 
 what did our institution look like at those junctures? Panelists will be invited 
 to discuss specific and seminal moments in our history as a means for 
 generating conversation. Speakers include Sam Carter, Renee Van Halm, 
 Sally Mitchner, Laiwan, Jeff Derksen, Vanessa Richards, Rod Roodenburg, 
 Brenda Crabtree and Glen Lowry. Moderated by Sadira Rodrigues.
 
-Fill-in-the-Blank: 9:00 â€“ 12:00 pm, Tuesday, October 28
+Fill-in-the-Blank: 9:00 – 12:00 pm, Tuesday, October 28
 HUMN 304, Social Practice Seminar
 Provocative interactive statements and prompts generated by students in 
 the Social Practice seminar HUMN 304 will encourage passers-by to share 
@@ -796,7 +796,7 @@ will be visualized by communication design students in DESN 410.
 
 Emily Carr Hauntings: An Open Storytelling Event: 7:00 pm, Tuesday, 
 October 28
-This evening storytelling event invites members of Emily Carrâ€™s community, 
+This evening storytelling event invites members of Emily Carr’s community, 
 past and present, to share hauntings, recollections and hidden histories.
 
 Student Town Hall: 11:30 am - 1:00 pm, Wednesday, October 29
@@ -811,7 +811,7 @@ This is an exploratory workshop in which students in DESN 310 will be
 venturing out into Granville Island to record, transcribe and reimagine the 
 space and identity of the island, with the aim of creating graphic 
 representations of this new speculative space. Based in approaches of 
-agile design and psychogeographic dÃ©rive, this workshop will encourage 
+agile design and psychogeographic dérive, this workshop will encourage 
 participants to consider the broadest range of physical and ambient layers 
 that make up the island's identity. It is also a preamble to a speculative 
 mapping project to take place at Great Northern Way. Led by Katherine 
@@ -822,7 +822,7 @@ How do we make, occupy and adapt the spaces we use for work? How are
 these prescribed spaces affecting our interactions and decision making 
 processes? Are we shaping these spaces, or do these spaces shape us? 
 This three part conversation series invites cultural practitioners to share 
-their ideas around three configurations of contemporary working space â€“ 
+their ideas around three configurations of contemporary working space – 
 conversation spaces, transitional spaces and virtual spaces. Conversations 
 facilitated by Allison Collins, Antoni Wojtyra, Peter Jamieson, Sydney Hart 
 and Josh Hite. Hosted and moderated by Michelle Fu.
@@ -833,9 +833,9 @@ support of a diverse and evolving curriculum. Hosted by William
 Newhouse.
 
 Diagramming the Art School: 5:30 pm, Thursday, October 30
-AHIS 333, Interdisciplinary Forums â€“ â€˜The Art Schoolâ€™
-Students in AHIS 333, studying a variety of historical and contemporary â€˜art 
-school modelsâ€™ will generate simple diagrams illustrating an interpretation 
+AHIS 333, Interdisciplinary Forums – ‘The Art School’
+Students in AHIS 333, studying a variety of historical and contemporary ‘art 
+school models’ will generate simple diagrams illustrating an interpretation 
 of the model they currently inhabit at Emily Carr, or another of their choice. 
 Diagrams will be installed in the Concourse throughout the week; students 
 will visit the space for a discussion on October 30.
@@ -843,7 +843,7 @@ will visit the space for a discussion on October 30.
 Halloween: The Commons as Party Space: 7:00 pm, Friday, October 31
 Students Union Annual Halloween Party
 How will spaces in our new campus support a range of social activity, 
-including parties? This annual Halloween gathering will â€˜live testâ€™ The 
+including parties? This annual Halloween gathering will ‘live test’ The 
 Commons as party space. Please note this event is open to students, 
 faculty and staff only.
 
@@ -860,16 +860,16 @@ OPENING RECEPTION
 Tuesday, October 28
 6-9 pm
 
-The unusual landscapes painted in Rebecca Chaperonâ€™s Eccentric 
+The unusual landscapes painted in Rebecca Chaperon’s Eccentric 
 Gardens are imagined physical spaces brimming with creative energy. 
 They represent the inner â€œplacesâ€  we access for creativity and imagination, 
 places that exist within our larger internal/personal landscape.
 In the Eccentric Gardens exhibition at Initial Gallery we see new sculptures 
-and paintings from Chaperon that reveal the artistâ€™s nostalgia for place 
+and paintings from Chaperon that reveal the artist’s nostalgia for place 
 crystallized. These Eccentric Gardens are living symbols for this perpetual 
 internal place that is the wellspring of creativity and imagination. 
-Chaperonâ€™s work often presents a surreal version of the world, places that 
-waver just outside of our perception. This time Chaperonâ€™s exploration of 
+Chaperon’s work often presents a surreal version of the world, places that 
+waver just outside of our perception. This time Chaperon’s exploration of 
 place has led to a gentle introversion - to depict a place that is her creative 
 origin.
 
@@ -940,7 +940,7 @@ exhibition showcases nearly 200 precious works from the Forbidden City
 that have rarely been seen outside of China. These exquisite examples 
 from Chinese cultural history date from as early as 500 CE to the early-
 twentieth century and include such treasures as paintings, ceramics, gold 
-and silver wares, jade, cloisonnÃ©, bronzes and textiles.
+and silver wares, jade, cloisonné, bronzes and textiles.
 
 Organized in nine key sections, the exhibition leads visitors through the 
 realms of the Imperial Palace. To enter the Forbidden City was to enter the 
@@ -969,7 +969,7 @@ City are displayed in Consuming-from a jade teacup to a dog's coat or the
 emperor's gilded footbath, these objects were wildly expensive and finely 
 crafted for the use and amusement of the imperial household alone. The 
 Collecting section features the finest examples from the emperor's 
-immense collections of precious ceramics, bronzes and cloisonnÃ© that 
+immense collections of precious ceramics, bronzes and cloisonné that 
 were crafted in China and sequestered in his private chamber, as well as 
 objects from beyond China's borders such as clocks, scientific instruments 
 and European exotica gifted to the emperor by foreign dignitaries. The 
@@ -997,13 +997,13 @@ To be beside yourself. To think of others, besides yourself. To feel outside
 yourself. We are in interaction with an affective field, the body a surface of 
 intensities, the brain translating these, at times, as emotions or feelings. 
 Artworks have the capacity to move us, and artworks contain much that 
-resists interpretation. The Ã¢â‚¬Ëœemotional turnÃ¢â‚¬â„¢ in art might stem from the 
+resists interpretation. The â€˜emotional turnâ€™ in art might stem from the 
 realization that the experience of the body means something, especially in 
-its connection to the surrounding world Ã¢â‚¬â€œ how relations between things, 
+its connection to the surrounding world â€“ how relations between things, 
 object, beings, and events, assemblages of materials and entities external 
 to ourselves, have potential for sparking new affective relations. Feeling 
 the body destabilized and decentered can bring one closer to demystifying 
-the Ã¢â‚¬â„¢primacy of the subject,Ã¢â‚¬â„¢ a position upon which oppressive, 
+the â€™primacy of the subject,â€™ a position upon which oppressive, 
 alienating 
 structures continue to capitalize. We have come to realize that to be 
 affected and to have the capacity to affect figures largely around questions 
@@ -1042,7 +1042,7 @@ Pamela Francis
 Reception/Financial Processing Specialist
 Department of Art History, Visual Art & Theory
 University of British Columbia
-400 Ã¢â‚¬â€œ 6333 Memorial Road
+400 â€“ 6333 Memorial Road
 Vancouver, BC V6T 1Z2
 Tel: 604 822 2757 Fax: 604 822 9003
 ahva.dept@ubc.ca
@@ -1062,7 +1062,7 @@ Access Gallery
 Far Away So Close is a series of exhibitions, publications, and events that 
 explores the idea of distance, approaches the bridging of distance as an 
 ultimately quixotic gesture, and investigates the particular relationship of 
-this gesture to art making. Presented over the course of 2014â€“15 at 
+this gesture to art making. Presented over the course of 2014–15 at 
 Access Gallery, each installment features emergent artists who draw upon 
 a variety of methodologies and materials, and whose practices are 
 scattered across the globe. 
@@ -1073,11 +1073,11 @@ silkscreened prints, and from cut vinyl to hand-written correspondence, the
 work of the six artists presented is concerned with describing the gulf that 
 exists between utterance and comprehension, and the always-inadequate 
 means we employ in our perpetual drive to define ourselves and connect 
-with others. They are concerned with desireâ€”the space between what we 
-want and what we haveâ€”with longing, and with loss. They explore the 
+with others. They are concerned with desire—the space between what we 
+want and what we have—with longing, and with loss. They explore the 
 disappointments and frustrations of language, and playfully investigate the 
-responsibility we so often ask images and objects to bearâ€”objects that are 
-themselves indifferent to our desiresâ€”in our efforts to shuttle meaning 
+responsibility we so often ask images and objects to bear—objects that are 
+themselves indifferent to our desires—in our efforts to shuttle meaning 
 across the unpredictable terrain of social life. 
 
 Raymond Boisjoly and Vanessa Kwan were invited to contribute to this 
@@ -1087,7 +1087,7 @@ speak from different places but share a concern for language, loss, and
 mistranslations. Writing, for both, is a vital aspect of artistic practice. These 
 texts and drawings sit alongside the works of Hyemin Kim, Sarah Stein, 
 Jim Verburg, Erdem Taşdelen, Nicole Kelly Westman and Hyung-Min Yoon, 
-offering neither interpretation of the exhibitionâ€™s forms nor elucidation of its 
+offering neither interpretation of the exhibition’s forms nor elucidation of its 
 focus. What they bring, instead, is a conjuring, a fugitive summons, of the 
 shadowy, seductive space between any image and how it is seen; between 
 any object and how it is felt; between any utterance and how it is heard.
@@ -1097,7 +1097,7 @@ both Boisjoly and Kwan.
 
 **
 
-Raymond Boisjoly is an Indigenous artist of Haida and QuÃ©bÃ©cois descent 
+Raymond Boisjoly is an Indigenous artist of Haida and Québécois descent 
 from Chilliwack, BC, currently based in Vancouver. His work engages 
 issues of Indigeneity, language as a cultural practice, and experiential 
 aspects
@@ -1109,7 +1109,7 @@ was awarded a Fleck Fellowship from the Banff Centre in 2010. He is
 represented by Catriona Jeffries Gallery. Boisjoly is also participating in the 
 upcoming exhibitions
 sitelines 2 0 14 : Unsettled Landscapes, site Santa Fe and L'avenir 
-(looking forward), La Biennale de MontrÃ©al. Carleton University Art Gallery 
+(looking forward), La Biennale de Montréal. Carleton University Art Gallery 
 will present new and recent
 works in fall 2014 in an exhibition titled Interlocutions. This fall, Boisjoly will 
 serve as Lead Faculty for â€œIn Kindâ€  Negotiations, a thematic residency at 
@@ -1122,7 +1122,7 @@ Access Gallery, and Your Private Sky (Penticton) at the Art Gallery of the
 South Okanagan. Public art commissions include Vancouver Vancouver 
 Vancouver (2010) and Geyser for Hilcrest Park (2012, with Erica Stocking), 
 both for the City of Vancouver. She is a founding member of the arts 
-collective Norma, which received a Mayorâ€™s Arts Award for Public ARt in 
+collective Norma, which received a Mayor’s Arts Award for Public ARt in 
 2011. Other recent projects include Sad Sack, a series of collaborations on 
 the subject of melancholy, andEverything Between Open and Closed, a 
 study of signs. She currently works as Curator of Special Projects at grunt 
@@ -1146,7 +1146,7 @@ the test as you create non-sensical and often hilarious drawings.
 Addmission is free, but seating is limited; call 604-297-4422 to reserve 
 your spot. 19 years and up. Event is facilitated by artist, Ben Frey.
 
-See Ben Freyâ€™s offsite exhibition with the Burnaby Art Gallery at Bob Prittie 
+See Ben Frey’s offsite exhibition with the Burnaby Art Gallery at Bob Prittie 
 Library (Metrotown), October 6-December 7.
 
 Carmen Lam 
@@ -1177,11 +1177,11 @@ components through composed plastics.
 
 -
 
-Scott Kempâ€™s work consists of minimalistic constructions that shift space 
+Scott Kemp’s work consists of minimalistic constructions that shift space 
 and place through clean-lined re-appropriation. He received his BFA from 
 Emily Carr University in the spring of 2014, and has shown throughout 
 Vancouver, at galleries such as the Surrey Art Gallery, Avenue Gallery, 
-East Van Studios, Access Gallery, and Dynamo Arts Foundation. Kempâ€™s 
+East Van Studios, Access Gallery, and Dynamo Arts Foundation. Kemp’s 
 work is often site specific - emphasizing the architecture of the gallery 
 space.
 
@@ -1198,10 +1198,10 @@ Instant Coffee: Pink Noise
 Din Sink 
 Aileen Bryant
 Mr Vacation
-Soledad MuÃ±oz Fiegehen and Young Braised
+Soledad Muñoz Fiegehen and Young Braised
 Joe Chylan and the Fucks Not Given
 Ronan McGrath
-Johan BjÃ¶rck
+Johan Björck
 Sinoia Caves
 Pink Erasers 
 The Pink Lincolns 
@@ -1213,7 +1213,7 @@ Noise drives at colliding and provoking the basic sensory mechanics of
 colour and sound to form temperamental emotional connections. Their 
 cursory research takes its initial form as part of Luminocity as a gathering 
 place and a series of music performances. Instant Coffee will turn 
-Kamloopsâ€™ Rotary Bandshell at Riverside Park into a vibrant pink-washed 
+Kamloops’ Rotary Bandshell at Riverside Park into a vibrant pink-washed 
 venue from which to host four evenings of events. Come through the back 
 and delve into a material investigation of pink noise.* 
 
@@ -1263,10 +1263,10 @@ late night: pink slide show
 
 Saturday, November 1st, 9pm 
 
-Soledad MuÃ±oz Fiegehen and Jaymes Bowman (Young Braised)
+Soledad Muñoz Fiegehen and Jaymes Bowman (Young Braised)
 
 They have recently come together on stage to perform a mix of rap, and 
-experimental noise with visual effect. MuÃ±oz Fiegehen is an artist who 
+experimental noise with visual effect. Muñoz Fiegehen is an artist who 
 uses sculpture and the built environment to project and transform sound. 
 Bowman comes from a Christian urban music background, which he twists 
 into unique live performances that focus on language through an under 
@@ -1286,13 +1286,13 @@ Friday, November 7, 9pm
 
 Ronan McGrath 
 
-Kamloopâ€™s Ronan McGrath will perform The Rose Tree an articulation of 
+Kamloop’s Ronan McGrath will perform The Rose Tree an articulation of 
 his fixation on pink noise. As well as his guitar/sampler oriented tracks from 
 his current 'No Spectrum' project. 
 
-Johan BjÃ¶rck 
+Johan Björck 
 
-Johan BjÃ¶rck is a Swedish visual artists and musician whose performance 
+Johan Björck is a Swedish visual artists and musician whose performance 
 for Pink Noise will combine euro-funk, poetry and jazz-keyboard 
 soundcloud.com/johanbjorck
 
@@ -1341,7 +1341,7 @@ As we move into winter, downtown Kamloops will feature light and
 liveliness. Be sure to head downtown after dark for the festivities. 
 Luminocity is a week-long public art project featuring video projection, new 
 media works and events in public spaces throughout the downtown core of 
-Kamloops. Opening on Halloweâ€™en night, the event will begin with a Lost 
+Kamloops. Opening on Hallowe’en night, the event will begin with a Lost 
 Souls Parade, merging mobile video projects with theatrical spectacle 
 drawn from Latin American traditions that celebrate life and death and the 
 passage of time, as fall transforms to winter.
@@ -1359,7 +1359,7 @@ and entertainment in support of the 2015 LIVE Biennale. Come out and
 help us make LIVE 2015 happen!
 
 Attending this special fundraising event gets you your own handmade 
-ceramic bowl filled with delicious soup â€” and a chance to bid on classic 
+ceramic bowl filled with delicious soup — and a chance to bid on classic 
 ceramic pieces by renowned artists such as Sing-Ying Ho, Glenn Lewis, 
 Gailan Ngan, Wayne Ngan, and John Springer in a once only auction 
 hosted by the eminent Hank Bull.
@@ -1369,9 +1369,9 @@ Claire Madill, Becky McEachern, Dylan McHugh, Maria Palotas, Marty
 Peters, Ron Vallis, Chris Watt, Jinny Whitehead, Elizabeth Zvonar and 
 more!
 
-Special Â¡LIVE! bowls by Patricia Galamb!
+Special ¡LIVE! bowls by Patricia Galamb!
 Special soup chefs Christos Dikeakos, Guadalupe Martinez, Leisha 
-Oâ€™Donohue and Bernadette Phan!
+O’Donohue and Bernadette Phan!
 
 Friday November 7, 7pm 
 303 East 8th Avenue
@@ -1382,7 +1382,7 @@ Tickets available online at eventbrite.ca/e/stoned-soup-live-biennale-
 fundraiser-tickets-13355028249
 Preview the art and check back for updates! http://livebiennale.tumblr.com/ 
 
-LIVE 2015â€”presenting a dynamic mix of performance art from here and 
+LIVE 2015—presenting a dynamic mix of performance art from here and 
 around the world. Join us in 2015 for a celebration featuring performances, 
 events, workshops, talks, festivities and more.
 

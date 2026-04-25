@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Reverse Mentor"
 emailDate: "Thu, 05 Sep 2019 10:16:17 -0700"
 number: 44
 type: "OPENING"
+venue: "Glass Box Project"
 summary: "Glass Box Project | Ed Spence - Detox Garden | 7-10PM | SEP 14"
 ---
 

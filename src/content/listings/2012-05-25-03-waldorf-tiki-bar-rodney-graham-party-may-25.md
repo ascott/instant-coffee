@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: toofur"
 emailDate: "Fri, 25 May 2012 16:00:46 -0700"
 number: 3
 type: ""
+venue: "Waldorf Tiki Bar"
 summary: "Waldorf Tiki Bar | Rodney Graham Party| May 25"
 ---
 

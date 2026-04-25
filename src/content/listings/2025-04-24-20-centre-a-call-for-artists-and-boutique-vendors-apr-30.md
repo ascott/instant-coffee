@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nepo Schism Art"
 emailDate: "Wed, 23 Apr 2025 19:11:58 -0700"
 number: 20
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Call for Artists and Boutique Vendors | APR 30"
 ---
 

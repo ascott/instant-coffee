@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Middle of Midnight"
 emailDate: "Fri, 17 Jul 2020 06:55:11 -0700"
 number: 6
 type: "EXHIBITION"
+venue: "Western Front"
 summary: "Western Front | Everything is in the language we use | JUL 15"
 ---
 

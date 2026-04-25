@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 7
 type: "EVENT"
+venue: "The Gallery George's satellite location"
 summary: "The Gallery George's satellite location | Gastown Holiday Pop Up Market | DEC 8-17th | DEC 8"
 ---
 

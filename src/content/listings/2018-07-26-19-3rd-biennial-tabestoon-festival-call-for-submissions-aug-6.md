@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: light, sink"
 emailDate: "Thu, 26 Jul 2018 16:40:20 -0700"
 number: 19
 type: "CALL"
+venue: "3rd biennial Tabestoon Festival"
 summary: "3rd biennial Tabestoon Festival | Call for Submissions | AUG 6"
 ---
 

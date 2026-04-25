@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  if all were everything we would b
 emailDate: "Fri, 01 Feb 2013 15:48:50 -0800"
 number: 13
 type: ""
+venue: "Vancouver Institute for Social Research"
 summary: "Vancouver Institute for Social Research | a 9-week pilot project | FEB 4"
 ---
 

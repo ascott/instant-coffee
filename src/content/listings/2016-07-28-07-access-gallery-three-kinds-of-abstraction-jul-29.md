@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Housing Justice"
 emailDate: "Thu, 28 Jul 2016 12:00:24 -0700"
 number: 7
 type: "OPENING"
+venue: "Access Gallery"
 summary: "Access Gallery | Three Kinds of Abstraction | JUL 29"
 ---
 

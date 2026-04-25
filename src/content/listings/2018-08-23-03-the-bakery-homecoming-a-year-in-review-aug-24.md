@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: each brick and stone"
 emailDate: "Thu, 23 Aug 2018 11:48:57 -0700"
 number: 3
 type: "OPENING"
+venue: "THE BAKERY"
 summary: "THE BAKERY | HOMECOMING - A YEAR IN REVIEW | AUG 24"
 ---
 

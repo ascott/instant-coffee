@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  in the end the diamond is obliter
 emailDate: "Thu, 23 May 2013 08:55:30 -0700"
 number: 25
 type: ""
+venue: "Western Front"
 summary: "Western Front | Western Front 40th Anniversary Celebration | JUN 16"
 ---
 
@@ -28,7 +29,7 @@ guests still to be announced.
 There will be a bbq, games, activities for kids by Collage Collage and 
 much more. Come celebrate with us!
 
-ESTABLISHED IN 1973, Western Front is one of Canadaâ€™s leading 
+ESTABLISHED IN 1973, Western Front is one of Canada’s leading 
 centres for contemporary art and new music. We produce and present 
 visual art exhibitions, new music concerts and workshops, media-art 
 residencies, performance art and other artist-driven initiatives. Through 
@@ -44,5 +45,5 @@ Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
 W. www.front.bc.ca E. admin@front.bc.ca
-Gallery Hours: Tuesday â€“ Friday 12 â€“ 5pm
+Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 12
 type: "CALL"
+venue: "VABF"
 summary: "VABF | VOLUNTEER FOR 2018 VANCOUVER ART BOOK FAIR | OCT 18"
 ---
 

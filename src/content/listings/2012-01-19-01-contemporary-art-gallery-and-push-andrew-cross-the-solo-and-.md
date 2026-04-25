@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attention Whore"
 emailDate: "Thu, 19 Jan 2012 11:15:13 -0800"
 number: 1
 type: ""
+venue: "Contemporary Art Gallery and PUSH"
 summary: "Contemporary Art Gallery and PUSH | Andrew Cross: The Solo and Ensemble | JAN 19"
 ---
 
@@ -51,9 +52,9 @@ consideration of the shifting nature of cultural value.
 
 Ensemble is a recent collaboration with musicians associated with 
 1970s 
-â€˜progressive' rock, Andrew Cross has worked with a group once 
+‘progressive' rock, Andrew Cross has worked with a group once 
 dubbed 
-Europe's â€˜biggest cult band': The Enid. This will be the first international 
+Europe's ‘biggest cult band': The Enid. This will be the first international 
 screening of Ensemble produced to coincide with The Enid's concert 
 with the 
 City of Birmingham Symphony Orchestra (CBSO) in October 2011.

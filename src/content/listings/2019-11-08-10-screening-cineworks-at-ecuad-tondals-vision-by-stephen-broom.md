@@ -4,6 +4,7 @@ emailSubject: "***Spam*** (ic-vancouver) INSTANT COFFEE: nerd_funk"
 emailDate: "Fri, 08 Nov 2019 07:36:41 -0800"
 number: 10
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Cineworks at ECUAD | Tondal's Vision by Stephen Broomer | 7:30PM | NOV 9"
 ---
 

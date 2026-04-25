@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 5
 type: "EDUCATION"
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Writers Group | AUG 16"
 ---
 

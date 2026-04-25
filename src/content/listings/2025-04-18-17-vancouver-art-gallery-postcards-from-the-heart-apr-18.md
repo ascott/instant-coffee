@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
 emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Postcards from the Heart | APR 18"
 ---
 

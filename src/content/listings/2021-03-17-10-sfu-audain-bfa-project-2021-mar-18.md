@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nondescript Fulcrum"
 emailDate: "Wed, 17 Mar 2021 07:30:48 -0700"
 number: 10
 type: "EXHIBITION"
+venue: "SFU Audain"
 summary: "SFU Audain | BFA Project 2021 | MAR 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: shoulda woulda coulda"
 emailDate: "Thu, 20 Feb 2014 13:20:19 -0800"
 number: 18
 type: ""
+venue: "Test Kitchen"
 summary: "Test Kitchen | colin mclaine: 7 inch release | MAR 9"
 ---
 

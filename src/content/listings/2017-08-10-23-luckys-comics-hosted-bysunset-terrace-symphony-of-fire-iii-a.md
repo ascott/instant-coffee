@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Smile Without Smiling"
 emailDate: "Thu, 10 Aug 2017 08:50:08 -0700"
 number: 23
 type: "CALL"
+venue: "Luckys Comics hosted bySunset Terrace"
 summary: "Luckys Comics hosted bySunset Terrace | Symphony of Fire III | AUG 24"
 ---
 

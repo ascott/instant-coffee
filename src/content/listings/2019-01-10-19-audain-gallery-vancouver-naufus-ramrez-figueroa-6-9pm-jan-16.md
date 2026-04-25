@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 19
 type: "OPENING"
+venue: "Audain Gallery (Vancouver)"
 summary: "Audain Gallery (Vancouver) | Naufus Ramírez-Figueroa | 6-9pm | JAN 16"
 ---
 

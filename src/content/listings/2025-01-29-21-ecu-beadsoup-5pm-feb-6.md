@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Peanut Pearl"
 emailDate: "Tue, 28 Jan 2025 19:45:08 -0800"
 number: 21
 type: "OPENING"
+venue: "ECU"
 summary: "ECU | Beadsoup! | 5PM | FEB 6"
 ---
 

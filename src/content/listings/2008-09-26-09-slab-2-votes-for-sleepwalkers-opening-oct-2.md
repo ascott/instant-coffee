@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: warning: it really is dirty"
 emailDate: "Fri, 26 Sep 2008 00:00:20 -0700"
 number: 9
 type: ""
+venue: "SLAB 2"
 summary: "SLAB 2 | VOTES FOR SLEEPWALKERS | opening | OCT 2"
 ---
 
@@ -38,7 +39,7 @@ you to explore and find the answers for:
 Ã¢ï¿½Â¢Ã&#65533;Â Ã&#65533;Â Ã&#65533;Â  Where do things begin and end and how would you splice them together?
 - Tiny Cinema
 
-Description of works with artistsÃ¢ï¿½ï¿½ bios at www.vivomediaarts.com
+Description of works with artistsâ�� bios at www.vivomediaarts.com
 <http://www.vivomediaarts.com/>
 The SLAB is a Studio LAB and a community of practice for electronic media
 artists and technology enthusiasts. We foster experimentation and provide
@@ -46,7 +47,7 @@ artists with the means and motivation to develop their art unconstrained by
 new media conventions and assumed ways of using technology. SLAB offers
 workshops and facilitates collaborative projects, providing artists with
 mentorship and technical assistance. The projects conclude in public
-exhibitions and events. SLAB art doesnÃ¢ï¿½ï¿½t attempt to gloss over the rough
+exhibitions and events. SLAB art doesnâ��t attempt to gloss over the rough
 edges of its creation, but instead exposes the processes of its production.
 Blurring the lines between experimentation, creation and public
 presentation, SLAB events are risk-sharing experiences between the artists
@@ -60,7 +61,7 @@ VIVO Media Arts Centre
 1965 Main St Vancouver BC
 www.vivomediaarts.com <http://www.vivomediaarts.com>
 Contact: Dinka Pignon, 604.872.8337, education@vivomediaarts.com
-Ã¯Â¿Â¼
+ï¿¼
 -- 
 vox +1.604.727.1325
 vid skype:furiousgreencloud

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Left Incomplete"
 emailDate: "Tue, 19 Aug 2025 21:20:09 -0700"
 number: 6
 type: "OPENING"
+venue: "4by4 Gallery"
 summary: "4by4 Gallery | Blood Libel | 7PM | AUG 23"
 ---
 

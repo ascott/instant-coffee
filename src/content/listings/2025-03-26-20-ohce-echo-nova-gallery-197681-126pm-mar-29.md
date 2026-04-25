@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
 emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
 number: 20
 type: "OPENING"
+venue: "OHCE-ECHO"
 summary: "OHCE-ECHO | NOVA Gallery: 1976–81 | 12–6PM | MAR 29"
 ---
 

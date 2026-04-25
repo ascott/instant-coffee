@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Eternalisms"
 emailDate: "Thu, 10 Jan 2019 08:45:39 -0800"
 number: 14
 type: "PERFORMANCE"
+venue: "The Polygon Gallery"
 summary: "The Polygon Gallery | John Cage - Musicircus | 1-4PM | JAN 13"
 ---
 

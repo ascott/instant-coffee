@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 24
 type: "TALK"
+venue: "221A"
 summary: "221A | 221A Fellowship Talks: Christian Vistan | 2PM | NOV 30"
 ---
 

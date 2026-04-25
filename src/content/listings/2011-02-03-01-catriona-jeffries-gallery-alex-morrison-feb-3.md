@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's exchange gifts"
 emailDate: "Thu, 03 Feb 2011 11:08:26 -0800"
 number: 1
 type: ""
+venue: "Catriona Jeffries Gallery"
 summary: "Catriona Jeffries Gallery | Alex Morrison | FEB 3"
 ---
 
@@ -51,7 +52,7 @@ forthcoming exhibition, Melanchotopia at the Witte de With,
 Rotterdam in September of 2011. Morrison has had recent solo
 exhibitions at Artspeak, Vancouver (2010); Every Letter in the
 Alphabet, Vancouver (2010); CSA Space, Vancouver (2009);
-Catriona Jeffries, Vancouver (2007) and BÃƒÂ¼ro Friedrich, Berlin
+Catriona Jeffries, Vancouver (2007) and BÃ¼ro Friedrich, Berlin
 (2005). His work was included in the recent Sydney Biennial (2010);
 It Is What It Is, National Gallery of Canada, Ottawa (2010); Following
 a Line, Contemporary Art Gallery, Vancouver (2010); Cubes, Blocks
@@ -72,4 +73,4 @@ Arabella Campbell
 Robert Kleyn, Works 1969-1983
 19 May - 25 June 2011
 
-Art Basel 15 Ã¢ï¿½ï¿½ 19 June 2011
+Art Basel 15 â�� 19 June 2011

@@ -4,12 +4,13 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 17
 type: ""
+venue: "W2"
 summary: "W2 | Hot One Inch Action MEDALISTS | FEB 6"
 ---
 
 W2 presents Hot One Inch Action MEDALISTS
 
-Saturday February 6, 2010 Â· doors @ 8pm
+Saturday February 6, 2010 · doors @ 8pm
 W2 Culture + Media House - 112 W Hastings Vancouver
 
 February 6, 2010, Vancouver, BC With its building success and 100-150

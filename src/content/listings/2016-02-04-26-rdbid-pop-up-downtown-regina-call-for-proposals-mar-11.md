@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: creative placemaking"
 emailDate: "Thu, 04 Feb 2016 12:42:09 -0800"
 number: 26
 type: "CALL"
+venue: "RDBID Pop Up Downtown (Regina)"
 summary: "RDBID Pop Up Downtown (Regina) | Call for Proposals | MAR 11"
 ---
 

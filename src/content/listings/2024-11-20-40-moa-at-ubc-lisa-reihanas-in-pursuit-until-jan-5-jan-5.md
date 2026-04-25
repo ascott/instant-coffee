@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Positionless Software"
 emailDate: "Tue, 19 Nov 2024 22:15:17 -0800"
 number: 40
 type: "EXHIBITION"
+venue: "MOA at UBC"
 summary: "MOA at UBC | Lisa Reihana's in Pursuit... | UNTIL JAN 5 | JAN 5"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 26
 type: "EXHIBITION"
+venue: "Afternoon Projects"
 summary: "Afternoon Projects | Proximity Capital | UNTIL FEB 22 | FEB 22"
 ---
 

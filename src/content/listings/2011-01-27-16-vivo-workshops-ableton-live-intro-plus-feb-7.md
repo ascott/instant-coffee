@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT carnivalesque COFFEE"
 emailDate: "Thu, 27 Jan 2011 11:06:52 -0800"
 number: 16
 type: ""
+venue: "VIVO WORKSHOPS"
 summary: "VIVO WORKSHOPS | ABLETON LIVE - INTRO plus | FEB 7"
 ---
 

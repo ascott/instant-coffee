@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: encounter top"
 emailDate: "Thu, 18 Aug 2011 16:35:18 -0700"
 number: 3
 type: ""
+venue: "Studio3"
 summary: "Studio3 | Scott Moore | AUG 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hair Fork"
 emailDate: "Thu, 02 Feb 2017 12:15:53 -0800"
 number: 22
 type: "EVENT"
+venue: "SFU"
 summary: "SFU | Book Launch: Alberto Toscano & Clint Burnham | FEB 8"
 ---
 

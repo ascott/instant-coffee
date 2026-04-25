@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: lone glove"
 emailDate: "Thu, 10 Dec 2015 11:00:47 -0800"
 number: 10
 type: "OPENING"
+venue: "Field Contemporary"
 summary: "Field Contemporary | David Roth: Buy Us, For You, By Us | DEC 17"
 ---
 

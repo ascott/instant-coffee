@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pamela Anderson"
 emailDate: "Thu, 14 Aug 2025 03:55:20 -0700"
 number: 3
 type: "CALL"
+venue: "City of Richmond"
 summary: "City of Richmond | Open Call for Public Art Selection Panelists"
 ---
 

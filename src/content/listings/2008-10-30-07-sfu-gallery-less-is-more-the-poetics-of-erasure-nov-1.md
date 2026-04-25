@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not afraid to use the wooden sp
 emailDate: "Thu, 30 Oct 2008 08:35:15 -0700"
 number: 7
 type: ""
+venue: "SFU Gallery,"
 summary: "SFU Gallery, | Less is More: the Poetics of Erasure | NOV 1"
 ---
 

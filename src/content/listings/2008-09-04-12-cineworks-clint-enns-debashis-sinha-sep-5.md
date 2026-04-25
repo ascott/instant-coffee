@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: you must enter a Byline"
 emailDate: "Thu, 04 Sep 2008 09:20:55 -0700"
 number: 12
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | CLINT ENNS + DEBASHIS SINHA | SEP 5"
 ---
 

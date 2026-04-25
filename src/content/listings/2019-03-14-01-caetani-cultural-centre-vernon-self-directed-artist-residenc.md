@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 1
 type: "CALL"
+venue: "Caetani Cultural Centre (Vernon)"
 summary: "Caetani Cultural Centre (Vernon) | Self-Directed Artist Residency"
 ---
 

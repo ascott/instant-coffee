@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the Age of Drones"
 emailDate: "Thu, 04 Dec 2014 11:45:36 -0800"
 number: 1
 type: "OPENING"
+venue: "AVENUE"
 summary: "AVENUE | 7343 Recent work by Brett Barmby | DEC 4"
 ---
 

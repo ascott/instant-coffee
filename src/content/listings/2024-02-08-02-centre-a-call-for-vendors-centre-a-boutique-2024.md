@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fleet"
 emailDate: "Thu, 08 Feb 2024 11:50:12 -0800"
 number: 2
 type: "CALL"
+venue: "Centre A"
 summary: "Centre A | Call for Vendors: Centre A Boutique 2024"
 ---
 

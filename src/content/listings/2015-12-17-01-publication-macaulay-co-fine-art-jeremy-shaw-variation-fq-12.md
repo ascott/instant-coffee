@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: fashionable innovation"
 emailDate: "Thu, 17 Dec 2015 13:00:31 -0800"
 number: 1
 type: ""
+venue: "PUBLICATION"
 summary: "PUBLICATION | Macaulay & Co Fine Art | Jeremy Shaw Variation FQ 12\" vinyl release | DEC 16"
 ---
 

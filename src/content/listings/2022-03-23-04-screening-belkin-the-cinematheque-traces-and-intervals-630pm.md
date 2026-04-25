@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: h:X->T(Z)"
 emailDate: "Wed, 23 Mar 2022 08:20:17 -0700"
 number: 4
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Belkin @ The Cinematheque | Traces and Intervals | 630PM | MAR 24"
 ---
 

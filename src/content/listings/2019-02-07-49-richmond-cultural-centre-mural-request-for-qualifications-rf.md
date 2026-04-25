@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Hormone Fork"
 emailDate: "Thu, 07 Feb 2019 07:51:30 -0800"
 number: 49
 type: "CALL"
+venue: "Richmond Cultural Centre"
 summary: "Richmond Cultural Centre | Mural, Request for Qualifications (RFQ) | MAR 5"
 ---
 

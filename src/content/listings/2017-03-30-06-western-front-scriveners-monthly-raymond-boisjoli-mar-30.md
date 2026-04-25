@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Lens Plae"
 emailDate: "Thu, 30 Mar 2017 09:19:57 -0700"
 number: 6
 type: "TALK"
+venue: "Western Front"
 summary: "Western Front | Scriveners Monthly: Raymond Boisjoli | MAR 30"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Yellye Unio Umlit Bipazx"
 emailDate: "Thu, 26 Apr 2018 09:21:35 -0700"
 number: 17
 type: "EXHIBITION"
+venue: "Vancouver Art Gallery"
 summary: "Vancouver Art Gallery | Emily Carr in Dialogue with Mattie Gunterman | APR 28"
 ---
 

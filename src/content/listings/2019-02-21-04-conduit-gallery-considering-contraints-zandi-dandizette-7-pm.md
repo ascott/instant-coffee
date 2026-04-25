@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 4
 type: "PERFORMANCE"
+venue: "Conduit Gallery"
 summary: "Conduit Gallery | considering contraints | zandi dandizette | 7 PM | FEB 21"
 ---
 

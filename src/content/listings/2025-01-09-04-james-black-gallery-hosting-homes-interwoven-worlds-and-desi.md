@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Uno "
 emailDate: "Thu, 09 Jan 2025 14:45:10 -0800"
 number: 4
 type: "OPENING"
+venue: "James Black Gallery"
 summary: "James Black Gallery | Hosting Home(s): Interwoven Worlds and Desires | JAN 11"
 ---
 

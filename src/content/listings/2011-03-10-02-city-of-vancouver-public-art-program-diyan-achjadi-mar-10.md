@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: as we write this,  we feel very sa
 emailDate: "Thu, 10 Mar 2011 13:12:50 -0800"
 number: 2
 type: ""
+venue: "City of Vancouver Public Art Program"
 summary: "City of Vancouver Public Art Program | Diyan Achjadi | MAR 10"
 ---
 

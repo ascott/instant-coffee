@@ -4,37 +4,38 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  a stream of consciousness totteri
 emailDate: "Thu, 16 Jan 2014 11:46:21 -0800"
 number: 20
 type: ""
-summary: "Contemporary Art Gallery | AurÃ©lien Froment, FrÃ¶bel FrÃ¶beled | JAN 23"
+venue: "Contemporary Art Gallery"
+summary: "Contemporary Art Gallery | Aurélien Froment, Fröbel Fröbeled | JAN 23"
 ---
 
 Contemporary Art Gallery, Vancouver
 
 New Exhibition: 
-AurÃ©lien Froment, FrÃ¶bel FrÃ¶beled 
+Aurélien Froment, Fröbel Fröbeled 
 January 24 to March 15, 2014
 Opening: Thursday January 23, 7-10 pm
 
 The Contemporary Art Gallery presents the first Canadian solo exhibition of 
-French artist AurÃ©lien Froment, comprising of an ambitious new commission.
+French artist Aurélien Froment, comprising of an ambitious new commission.
 Froment has produced a body of work focused around a series of 
 educational toys (Spielgaben or play gifts) designed by the German founder 
-of the Kindergarten movement, Friedrich FrÃ¶bel (1782â€“1852). Fromentâ€™s 
-longstanding interest in FrÃ¶bel was aroused by the openness of the system 
+of the Kindergarten movement, Friedrich Fröbel (1782–1852). Froment’s 
+longstanding interest in Fröbel was aroused by the openness of the system 
 of objects, how each shape begets another and how all images are keys to 
 the other. Historically accurate replicas of the toys have been made 
 presented alongside an ensemble of photographs and will be presented for 
 the first time in the complete sequence as imagined by their author. 
-FrÃ¶bel drew on the ideas of philosopher Jean-Jacques Rousseau and the 
+Fröbel drew on the ideas of philosopher Jean-Jacques Rousseau and the 
 experiences of Swiss pedagogue Johan Pestalozzi to advocate for a 
 practice of education where children and teachers are co-workers, with play 
-and self-activity at the center of the learning process. FrÃ¶bel brought together 
-existing childrenâ€™s toys suck as wooden blocks and balls and stripped them 
+and self-activity at the center of the learning process. Fröbel brought together 
+existing children’s toys suck as wooden blocks and balls and stripped them 
 of any pre-determined educational purposes such as letters, numbers, 
 figures or colours; instead creating an overarching system of relationships 
 where each toy foreshadowed the next while being transformed. For 
 example a soft ball turns into a hard wooden sphere; a sphere into a cube via 
 a cylinder; and so on, until volumes become surfaces, surfaces become 
-lines. Throughout his career, FrÃ¶bel refined his play gifts to achieve the 
+lines. Throughout his career, Fröbel refined his play gifts to achieve the 
 greatest scope through different forms and relations creating a modest but 
 complex body of works. From simple geometrical shapes that could appear 
 as a chair, a train or a flower he also introduced abstract notions such as 
@@ -45,7 +46,7 @@ demonstrate and be arranged in a pleasing way.
 In this exhibition, each wooden play gift is used and depicted by Froment in a 
 number of different ways specific to the three realms while also introducing 
 references to cultural and material forms. In some of the accompanying 
-photographs, the gifts are staged based on engravings featured in FrÃ¶belâ€™s 
+photographs, the gifts are staged based on engravings featured in Fröbel’s 
 own manuals. Representing a throne, a church, a castle, a cross or a sentry 
 box, the photographs draw the imaginary atlas of an archetypal world rooted 
 in the 19th Century. Whether Froment photographs them like diagrams, 
@@ -54,14 +55,14 @@ divorced from their original context and instead create a constellation of
 images that unfold as another gift in themselves, prompting questions of how 
 we perceive, structure and understand the world. 
 The exhibition is made in collaboration with Villa Arson, Nice, France; Spike 
-Island, Bristol, UK; Frac ÃŽle de France â€” Le Plateau, Paris, France and 
+Island, Bristol, UK; Frac Île de France — Le Plateau, Paris, France and 
 Heidelberger Kunstverein, Germany. Research toward the production of this 
-work is funded by a grant from programme â€˜Hors les mursâ€™ 2011 of the Institut 
-FranÃ§ais. The exhibition is supported by the Consulat GÃ©nÃ©ral de France Ã  
-Vancouver and Institut FranÃ§ais. 
-Born in 1976 in Angers, France, AurÃ©lien Froment lives and works in Dublin 
+work is funded by a grant from programme ‘Hors les murs’ 2011 of the Institut 
+Français. The exhibition is supported by the Consulat Général de France à 
+Vancouver and Institut Français. 
+Born in 1976 in Angers, France, Aurélien Froment lives and works in Dublin 
 and has had several solo exhibitions including Le CREDAC, Ivry-sur-Seine, 
-Paysages, marines et scÃ¨nes de genre, MusÃ©e dÃ©partemental de 
+Paysages, marines et scènes de genre, Musée départemental de 
 Rochechouart; CCA Wattis Institute for Contemporary Arts, San Francisco; 
 Bonniers Konsthall, Stockholm and Palais de Tokyo, Paris. In addition, he has 
 participated in major group shows including The Encyclopedic Palace, 55th 
@@ -73,17 +74,17 @@ http://www.contemporaryartgallery.ca/exhibitions/aurelien-froment-frobel-
 frobeled/. 
 NOTES TO EDITORS: 
 1.	Public Events: Exhibition Opening & Public Programmes
-Exhibition Opening â€“ Thursday, January 23, 7 to 10pm at the CAG
+Exhibition Opening – Thursday, January 23, 7 to 10pm at the CAG
 Public opening and celebration of the exhibition. Artist in attendance. 
 Opening reception sponsor: Kronenbourg 1664 and E & J Gallo Winery 
 Canada
 
-2.	Screening: Interludes: AurÃ©lien Froment
+2.	Screening: Interludes: Aurélien Froment
 Monday, January 20, 7.30 pm
 Tickets: $9-11 (plus $3 Cinematheque membership)
 The Cinematheque, 1131 Howe Street
 DIM Cinema, an ongoing series at The Cinematheque, presents videos by the 
-French artist AurÃ©lien Froment, to complement his first Canadian solo 
+French artist Aurélien Froment, to complement his first Canadian solo 
 exhibition, at the Contemporary Art Gallery. Often using the format of 
 instructional videos, Froment examines the semantic power of images and 
 their elusive relationship to words. Viewers will emerge from the screening 
@@ -96,7 +97,7 @@ meaning is never fixed and what one sees is not what others see. Presented
 in association with The Cinematheque and PuSh International Performing Arts 
 Festival.
 
-3.	Free Guided Visits â€“ Saturdays & Sundays: All tours start at 3pm at the
+3.	Free Guided Visits – Saturdays & Sundays: All tours start at 3pm at the
 Contemporary Art Gallery; Feb 1st, Feb 8th, Feb 22nd, Feb 23rd, March 1st, 
 March 2nd and March 9th.
 Join Nigel Prince, Executive Director, Jill Henderson, Communications 
@@ -131,4 +132,4 @@ Jill Henderson, Communications Coordinator
 T: 604.681.2700 E: j.henderson@contemporaryartgallery.ca W: 
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5 
-Hours: Tues â€“ Sun: 12 â€“ 6 pm. FREE ADMISSION
+Hours: Tues – Sun: 12 – 6 pm. FREE ADMISSION

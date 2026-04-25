@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tender Engine"
 emailDate: "Fri, 28 Jun 2019 08:01:40 -0700"
 number: 26
 type: "EXHIBITION"
+venue: "grunt gallery"
 summary: "grunt gallery | Rebecca Belmore: nindinawemaganidog | JUL 2"
 ---
 

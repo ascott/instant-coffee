@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: SPILL"
 emailDate: "Fri, 30 Aug 2019 00:10:18 -0700"
 number: 6
 type: ""
+venue: "JOB"
 summary: "JOB | Independent Media Arts Alliance | Intern for National Media Arts Conference | AUG 30"
 ---
 

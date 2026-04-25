@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: tutma"
 emailDate: "Thu, 14 Jun 2018 08:15:23 -0700"
 number: 15
 type: "EVENT"
+venue: "Mallory Amirault & Cam Scott"
 summary: "Mallory Amirault & Cam Scott | JUN 18"
 ---
 

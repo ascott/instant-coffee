@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Almost a Memory"
 emailDate: "Thu, 04 Oct 2018 09:05:20 -0700"
 number: 39
 type: "TALK"
+venue: "ECUAD - Sculpture Studio, D1357"
 summary: "ECUAD - Sculpture Studio, D1357 | Twilight Hour - Lucie Chan | 6PM | OCT 24"
 ---
 

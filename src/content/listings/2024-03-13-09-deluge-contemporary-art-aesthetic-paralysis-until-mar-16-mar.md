@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Attosecond Pulses"
 emailDate: "Tue, 12 Mar 2024 22:35:05 -0700"
 number: 9
 type: "EXHIBITION"
+venue: "Deluge Contemporary Art"
 summary: "Deluge Contemporary Art | Aesthetic Paralysis | UNTIL MAR 16 | MAR 16"
 ---
 

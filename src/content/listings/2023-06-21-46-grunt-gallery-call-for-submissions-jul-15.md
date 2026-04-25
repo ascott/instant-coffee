@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Raindrops Filled With Milk"
 emailDate: "Wed, 21 Jun 2023 10:39:42 -0700"
 number: 46
 type: "CALL"
+venue: "grunt gallery"
 summary: "grunt gallery | Call for Submissions | JUL 15"
 ---
 

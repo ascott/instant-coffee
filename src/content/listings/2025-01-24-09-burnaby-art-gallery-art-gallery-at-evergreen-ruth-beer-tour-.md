@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beta wilds"
 emailDate: "Thu, 23 Jan 2025 20:10:03 -0800"
 number: 9
 type: "EVENT"
+venue: "Burnaby Art Gallery & Art Gallery at Evergreen"
 summary: "Burnaby Art Gallery & Art Gallery at Evergreen | Ruth Beer Tour and Publication Launch | JAN 25"
 ---
 

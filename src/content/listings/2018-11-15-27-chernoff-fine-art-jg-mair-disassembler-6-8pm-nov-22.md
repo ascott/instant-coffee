@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
 emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
 number: 27
 type: "OPENING"
+venue: "Chernoff Fine Art"
 summary: "Chernoff Fine Art | JG Mair - Disassembler | 6-8PM | NOV 22"
 ---
 

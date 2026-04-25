@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: $2.25 per million litres"
 emailDate: "Thu, 09 Jul 2015 17:10:16 -0700"
 number: 15
 type: "CALL"
+venue: "City of Vancouver"
 summary: "City of Vancouver | 2015 Mayor's Arts Awards - Extended Deadline | JUL 17"
 ---
 

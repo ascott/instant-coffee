@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
 emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
 number: 28
 type: "OPENING"
+venue: "SFU SCA"
 summary: "SFU SCA | Friday Dinner: Tomoyo Yamada's MFA Project | NOV 27"
 ---
 

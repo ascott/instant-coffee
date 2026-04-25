@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Counter-Archives"
 emailDate: "Thu, 07 Mar 2024 10:15:18 -0800"
 number: 33
 type: ""
+venue: "CICA Vancouver"
 summary: "CICA Vancouver | A Live Performance by Modern Biology | MAR 16"
 ---
 

@@ -4,20 +4,21 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: an Encyclopedia of Anticipation"
 emailDate: "Thu, 22 Mar 2012 10:36:07 -0700"
 number: 17
 type: ""
+venue: "Winsor Gallery"
 summary: "Winsor Gallery | ANGELA GROSSMANN | APR 4"
 ---
 
 Winsor Gallery is pleased to present The Future is Female, an exhibition of new 
 works by Angela Grossmann. Please join us for the opening reception on 
-Wednesday, April 4, from 6:00 â€“ 8:00 pm. The artist will be in attendance. We 
+Wednesday, April 4, from 6:00 – 8:00 pm. The artist will be in attendance. We 
 also welcome you to join us on Saturday, April 28, at 3:30 pm for an engaging 
 artist talk by Angela, presented as part of Canadian Art Gallery Hop Vancouver. 
-Winsor Gallery is open Monday â€“ Saturday, 10:00 am â€“ 6:00 pm, and Sundays, 
-11:00 am â€“ 5:00 pm.
+Winsor Gallery is open Monday – Saturday, 10:00 am – 6:00 pm, and Sundays, 
+11:00 am – 5:00 pm.
 
 ANGELA GROSSMANN
 THE FUTURE IS FEMALE
-April 4 â€“ May 6, 2012
+April 4 – May 6, 2012
 
 Angela Grossmannn 
 <http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/r/>

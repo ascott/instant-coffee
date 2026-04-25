@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: a sudden full spectrum light bar m
 emailDate: "Thu, 18 Mar 2010 11:55:38 -0700"
 number: 19
 type: ""
+venue: "2010 WORLD TELEKINESIS COMPETITION"
 summary: "2010 WORLD TELEKINESIS COMPETITION | CALL | APR 30"
 ---
 

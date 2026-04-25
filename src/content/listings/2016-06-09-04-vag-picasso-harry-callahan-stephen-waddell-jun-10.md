@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: secret vacancies"
 emailDate: "Thu, 09 Jun 2016 13:00:11 -0700"
 number: 4
 type: "OPENING"
+venue: "VAG"
 summary: "VAG | Picasso - Harry Callahan - Stephen Waddell | JUN 10"
 ---
 

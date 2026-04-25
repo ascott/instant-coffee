@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: being lazy and wishy washy"
 emailDate: "Thu, 28 Nov 2013 03:25:25 -0800"
 number: 1
 type: ""
+venue: "MIRACLE AND CONNELLY"
 summary: "MIRACLE AND CONNELLY | 2014 Calendar | NOV 26 & 27"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: Instant Coffee: (Caffeine Instanti
 emailDate: "Thu, 28 Feb 2008 09:50:33 -0800"
 number: 11
 type: ""
+venue: "1:1 projects"
 summary: "1:1 projects | THE UNFAIR FAIR | Rome"
 ---
 

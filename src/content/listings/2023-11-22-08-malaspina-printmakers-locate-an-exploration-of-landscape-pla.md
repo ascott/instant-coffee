@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Elephant Feather"
 emailDate: "Wed, 22 Nov 2023 06:30:15 -0800"
 number: 8
 type: "EXHIBITION"
+venue: "Malaspina Printmakers"
 summary: "Malaspina Printmakers | Locate: An exploration of Landscape & Place | 6PM | NOV 23"
 ---
 

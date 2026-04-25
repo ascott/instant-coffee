@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Autumn Rhythm No. 30"
 emailDate: "Thu, 23 Feb 2012 10:45:11 -0800"
 number: 15
 type: ""
+venue: "A-H-"
 summary: "A-H- | Dilate, Daylaid, Dielate | MAR 2"
 ---
 

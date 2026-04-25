@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: like rat and bear"
 emailDate: "Thu, 17 Sep 2015 11:35:48 -0700"
 number: 17
 type: "FUNDRAISER"
+venue: "Project Space @ Untitled Art Space"
 summary: "Project Space @ Untitled Art Space | Membership Drive Launch Party | SEP 26"
 ---
 

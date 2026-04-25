@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Pataphysical Jam"
 emailDate: "Tue, 27 Feb 2024 21:30:11 -0800"
 number: 38
 type: "PERFORMANCE"
+venue: "Scotiabank Dance Centre"
 summary: "Scotiabank Dance Centre | Arno Schuitemaker | 8PM | MAR 14"
 ---
 

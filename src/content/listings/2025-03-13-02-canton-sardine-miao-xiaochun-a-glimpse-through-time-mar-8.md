@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Spit Paintings"
 emailDate: "Wed, 12 Mar 2025 22:45:13 -0700"
 number: 2
 type: "EXHIBITION"
+venue: "Canton-sardine"
 summary: "Canton-sardine | Miao Xiaochun: A Glimpse Through Time | MAR 8"
 ---
 

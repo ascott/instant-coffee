@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dont get so emotional"
 emailDate: "Wed, 30 Aug 2017 22:20:03 -0700"
 number: 2
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | VIVO Media Arts Centre | Too Soon - New Acquisitions Screening | AUG 31"
 ---
 

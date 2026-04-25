@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Tongue Blush"
 emailDate: "Tue, 23 Apr 2024 21:30:08 -0700"
 number: 31
 type: "EDUCATION"
+venue: "Art Gallery at Evergreen"
 summary: "Art Gallery at Evergreen | [WORKSHOP] Wander and Words | MAY 4"
 ---
 

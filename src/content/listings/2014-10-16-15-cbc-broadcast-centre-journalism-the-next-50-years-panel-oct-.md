@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: just the simplest form"
 emailDate: "Thu, 16 Oct 2014 15:45:10 -0700"
 number: 15
 type: ""
+venue: "CBC Broadcast Centre"
 summary: "CBC Broadcast Centre | Journalism: the-next-50-years, Panel | OCT 23"
 ---
 

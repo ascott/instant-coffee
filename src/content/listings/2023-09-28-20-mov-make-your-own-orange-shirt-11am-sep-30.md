@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Combinatorial Sameness"
 emailDate: "Wed, 27 Sep 2023 23:37:37 -0700"
 number: 20
 type: "EDUCATION"
+venue: "MOV"
 summary: "MOV | Make Your Own Orange Shirt | 11AM | SEP 30"
 ---
 

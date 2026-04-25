@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: could you be interesting under new
 emailDate: "Thu, 02 Apr 2009 14:20:09 -0700"
 number: 6
 type: ""
+venue: "Western Front exhibitions"
 summary: "Western Front exhibitions | Talk Jef Clarke: SciFi & Lawrence Paul Yuxwelptun | APR 4"
 ---
 
@@ -25,11 +26,11 @@ supernatural landscape. These spirits, whose intense colourings glow with
 extraterrestrial luminescence and whose ovoid forms bear resemblances to
 mechanical or android-like parts, are portrayed as caught in a state of
 ambiguous reverie.The exhibition is held in conjunction with a series of
-talks by writers that explore YuxweluptunÃ¢ï¿½ï¿½s work in relation to the genre
+talks by writers that explore Yuxweluptunâ��s work in relation to the genre
 of science fiction. The talk, by Jef Clarke, will be the final one of the
 series.
 
-Jef Clarke is a PhD student in Simon Fraser UniversityÃ¢ï¿½ï¿½s English Literature
+Jef Clarke is a PhD student in Simon Fraser Universityâ��s English Literature
 department. His research interests are rather too varied, rabid and
 unfocused, but are officially sited at the intersections of race, the body,
 utopian/dystopian tensions and representations of technology.

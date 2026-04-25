@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Magic Words"
 emailDate: "Tue, 04 Jun 2024 23:26:25 -0700"
 number: 23
 type: "EDUCATION"
+venue: "Moniker Press"
 summary: "Moniker Press | WORKSHOPS: Riso Basics (101) | JUN 13&15 | JUN 13"
 ---
 

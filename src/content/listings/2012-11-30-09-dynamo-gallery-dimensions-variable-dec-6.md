@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: your actions negate your hollow wo
 emailDate: "Thu, 29 Nov 2012 21:27:25 -0800"
 number: 9
 type: "OPENING"
+venue: "Dynamo Gallery"
 summary: "Dynamo Gallery | Dimensions Variable | DEC 6"
 ---
 
@@ -37,7 +38,7 @@ with. Dimensions Variable embraces this relationship in order to investigate
 the autonomy contemporary art assumes within culture. 
 
 "Roughly, the success or failure of a given painting has come to depend on its 
-ability to hold or stamp itself out or compel conviction as shapeâ€”that, or 
+ability to hold or stamp itself out or compel conviction as shape—that, or 
 somehow to stave off or elude the question of whether or not it does so." 
 Michael Fried "Art and Objecthood" (1967)
 

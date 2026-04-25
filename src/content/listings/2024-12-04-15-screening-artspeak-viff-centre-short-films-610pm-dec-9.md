@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Colorlessness Blossom"
 emailDate: "Wed, 04 Dec 2024 09:23:03 -0800"
 number: 15
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Artspeak @ VIFF Centre | Short Films | 610PM | DEC 9"
 ---
 

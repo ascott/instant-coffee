@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: AGENTE COSTURA"
 emailDate: "Thu, 19 Jul 2012 10:38:59 -0700"
 number: 22
 type: ""
+venue: "Powell Street Festival Film Trilogy"
 summary: "Powell Street Festival Film Trilogy | | AUG 8"
 ---
 
@@ -26,7 +27,7 @@ By Lynda Nakashima
 As Long As I Can Remember explores the history and rich diversity of the Powell
 Street Festival, made in honour of its 25th anniversary year (2001). Reflecting
 the history of Japanese Canadians in Vancouver and the humble beginnings of
-the Festival itself, Nakashimaï¿½s documentary portrays the Festival with a sense
+the Festival itself, Nakashima�s documentary portrays the Festival with a sense
 of pride, community and reverence.
 
 The Way We Are
@@ -44,8 +45,8 @@ The Spirit of Nihonmachi
 By Greg Masuda
 (2012)
 For 35 years the Powell Street Festival has returned to its historical roots in
-Oppenheimer Park on Powell Street, an area once home to Vancouverï¿½s
-Japanese Canadian population, . Situated in Vancouverï¿½s Downtown Eastside,
+Oppenheimer Park on Powell Street, an area once home to Vancouver�s
+Japanese Canadian population, . Situated in Vancouver�s Downtown Eastside,
 this neighbourhood is now often narrowly described as been a site for drug
 abuse, homelessness and mental illness. Laugh, learn and cheer as you
 experience both the vibrant Powell Street Festival and the life and community of

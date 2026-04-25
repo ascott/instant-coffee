@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 27
 type: "CALL"
+venue: "Art Wrap Program"
 summary: "Art Wrap Program | West Vancouver, BC (Hydro Boxes) | AUG 30"
 ---
 

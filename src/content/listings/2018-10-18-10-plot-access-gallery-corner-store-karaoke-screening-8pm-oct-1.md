@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Bamboo Hair Curtain"
 emailDate: "Thu, 18 Oct 2018 10:05:17 -0700"
 number: 10
 type: "PERFORMANCE"
+venue: "PLOT @ Access Gallery"
 summary: "PLOT @ Access Gallery | Corner Store | Karaoke + Screening | 8PM | OCT 18"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: where did we go wrong?"
 emailDate: "Thu, 21 Jun 2012 12:00:27 -0700"
 number: 7
 type: ""
+venue: "Presentation House Gallery"
 summary: "Presentation House Gallery | Exhibition Tour by Aaron Peck | JUN 23"
 ---
 

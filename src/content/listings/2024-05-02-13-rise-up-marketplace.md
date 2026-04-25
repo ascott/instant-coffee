@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: COMBOCOMBO"
 emailDate: "Thu, 02 May 2024 00:00:15 -0700"
 number: 13
 type: "TALK"
+venue: "Rise Up Marketplace"
 summary: "Rise Up Marketplace | "
 ---
 

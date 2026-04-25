@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: the result of several cups of coff
 emailDate: "Wed, 25 Jan 2017 22:50:16 -0800"
 number: 34
 type: "CALL"
+venue: "The Salt Spring National Art Prize"
 summary: "The Salt Spring National Art Prize | 2017 Call For Artist Submissions | MAY 31"
 ---
 

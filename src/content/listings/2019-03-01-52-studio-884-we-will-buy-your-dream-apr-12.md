@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: WE WILL BUY YOUR DREAM"
 emailDate: "Fri, 01 Mar 2019 13:30:14 -0800"
 number: 52
 type: "OPENING"
+venue: "Studio 884"
 summary: "Studio 884 | WE WILL BUY YOUR DREAM | APR 12"
 ---
 

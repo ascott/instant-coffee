@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: bidders from near and afar"
 emailDate: "Thu, 14 Apr 2016 15:56:11 -0700"
 number: 3
 type: "OPENING"
+venue: "Franc Gallery"
 summary: "Franc Gallery | Ed Spence - Soft Error | APR 14"
 ---
 

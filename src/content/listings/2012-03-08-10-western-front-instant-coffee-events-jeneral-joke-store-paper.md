@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: knock knock"
 emailDate: "Thu, 08 Mar 2012 13:10:14 -0800"
 number: 10
 type: ""
+venue: "Western Front"
 summary: "Western Front | Instant Coffee Events | JENERAL JOKE Store & Paper Folding Doodle | MAR 10"
 ---
 

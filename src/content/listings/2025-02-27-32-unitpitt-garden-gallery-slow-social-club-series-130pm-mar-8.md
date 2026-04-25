@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Twelve Summers"
 emailDate: "Wed, 26 Feb 2025 22:50:07 -0800"
 number: 32
 type: "EDUCATION"
+venue: "UNIT/PITT Garden + Gallery"
 summary: "UNIT/PITT Garden + Gallery | Slow Social Club series | 130PM | MAR 8"
 ---
 

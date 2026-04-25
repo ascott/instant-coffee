@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: It's not like they expect us to be
 emailDate: "Thu, 03 Dec 2009 10:20:17 -0800"
 number: 18
 type: ""
+venue: "Western Front"
 summary: "Western Front | Reception for newExecutive Director: Caitlin Jones | DEC 10"
 ---
 
@@ -19,7 +20,7 @@ decade as a curator and administrator at major institutions in the United
 States. From 2001-06 she worked in the curatorial and conservation
 departments of the Solomon R. Guggenheim Museum. There she co-curated the
 groundbreaking exhibition -Seeing Double: Emulation in Theory and Practice-
-and coordinated the Deutsche Guggenheim exhibition Ã¢-Nam June Paik: Global
+and coordinated the Deutsche Guggenheim exhibition â-Nam June Paik: Global
 Groove 2004- in Berlin. She was also the coordinator of the Variable Media
 Network, an international consortium of art institutions dedicated to the
 preservation and documentation of video, performance and installation art.

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: we're reminded of memories"
 emailDate: "Thu, 13 May 2010 09:10:22 -0700"
 number: 3
 type: ""
+venue: "Gallery Atsui"
 summary: "Gallery Atsui | Funny Business | MAY 14"
 ---
 
@@ -29,7 +30,7 @@ experience frequently mediated by props or forms of armour that alleviate
 the tension and self-consciousness that often accompanies such
 performances. Funny Business also investigates the reception of
 performative works of art, and how the gallery space functions as a
-platform for more ephemeral modes of artistic engagement Ã¢ï¿½ï¿½ both at the
+platform for more ephemeral modes of artistic engagement â�� both at the
 exhibition's opening reception and for its duration. Specifically, the
 exhibition will address the absence and presence of an audience as an
 integral component to the comedic process.

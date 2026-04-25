@@ -19,7 +19,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2011-03-03-07-gallery-fukai-until-we-have-a-helicopter-mar-4">07. Gallery Fukai | Until We Have A Helicopter | MAR 4</a>
 <a href="/instant-coffee/listings/2011-03-03-08-morris-and-helen-belkin-art-gallery-didier-civil-faces-of-ca">08. Morris and Helen Belkin Art Gallery | Didier Civil: "Faces of Carnival / Jacmel, Haiti" | MAR 4</a>
 <a href="/instant-coffee/listings/2011-03-03-09-sfu-the-conference-on-the-conference-mar-4">09. SFU | The Conference On The Conference | MAR 4</a>
-<a href="/instant-coffee/listings/2011-03-03-10-richmond-art-gallery-young-peoples-image-world-dr-stuart-r-p">10. Richmond Art Gallery | Young Peopleâ€™s Image World: Dr. Stuart R. Poyntz | MAR 5</a>
+<a href="/instant-coffee/listings/2011-03-03-10-richmond-art-gallery-young-peoples-image-world-dr-stuart-r-p">10. Richmond Art Gallery | Young People’s Image World: Dr. Stuart R. Poyntz | MAR 5</a>
 <a href="/instant-coffee/listings/2011-03-03-11-sfu-university-gallery-joan-balzar-vancouver-orbital-mar-5">11. SFU UNiversity Gallery | JOAN BALZAR: VANCOUVER ORBITAL | MAR 5</a>
 <a href="/instant-coffee/listings/2011-03-03-12-studio-3-body-asylum-mar-5">12. Studio #3 | BODY ASYLUM | MAR 5</a>
 <a href="/instant-coffee/listings/2011-03-03-13-vivarium-gallery-create-own-website-in-4-hours-using-blogspo">13. Vivarium Gallery | create own website in 4 hours using Blogspot | MAR 5</a>
@@ -146,7 +146,7 @@ EMILIO ROJAS
 Title: 33,797
 
 An unfinished drawing made entirely out of crosses creates the profile of
-the right-wing Mexican President, Felipe CalderÃ³n. A visual representation
+the right-wing Mexican President, Felipe Calderón. A visual representation
 of each life that has been lost in the country's self-denominated "war"
 against the country's drug cartels. Initiated in December 2006 by the
 President,in 4 years -according to government figures - this conflict has
@@ -159,7 +159,7 @@ This eruption of violence affects the livelihoods of thousands of families
 and has led to an unprecedented climate of fear in the country. The latest
 national polls indicate that 8 out of 10 Mexicans believe the "narcos" are
 winning the war, and more than half of the population disapproves of
-President CalderÃ³n's actions against the cartels. With this work, Emilio
+President Calderón's actions against the cartels. With this work, Emilio
 Rojas joins the ranks of contemporary Mexican artists who use their work to
 protest the country's current violence, in a campaign titled, No Mas
 Sangre, (No more blood). In a time of heightened fear and uncertainty, with
@@ -231,7 +231,7 @@ Bertha Bermudez, Scott deLahunta, Marijke Hoogenboom, Chris Ziegler,
 Frederic Bevilacqua, Sarah Fdili Alaoui, Barbara Meneses Gutierrez, Amsterdam
 Richard Blythe, Melbourne
 Sher Doruff, Amsterdam
-Cathy van Eck, ZÃ¼rich
+Cathy van Eck, Zürich
 Mark Fleischman, Cape Town
 Abhishek Hazra, Bangalore
 Anders Hultqvist, Gothenburg
@@ -271,23 +271,23 @@ Manifestos Now!
 Simon Fraser University Teck Gallery
 SFU Vancouver Campus - 515 West Hastings
 
-February 22 â€“ May 27, 2011
+February 22 – May 27, 2011
 
 Manifestos Now! is an exhibition selected from 30 contemporary manifestos
 appearing in a special issue of The Capilano Review, published
 simultaneously with the show. The magazine and show explore, revisit, and
 revive the untapped and unexplored potentials of the manifesto in a
-contemporary context. Artists and writers Marie-HÃ©lÃ¨ne Tessier, Christian
-BÃ¶k, Frank Davey, Hadley+Maxwell, Reg Johanson, and others have contributed
+contemporary context. Artists and writers Marie-Hélène Tessier, Christian
+Bök, Frank Davey, Hadley+Maxwell, Reg Johanson, and others have contributed
 work in the challenging spirit of the early 20th century manifesto.
 
 This exhibition coincides with the Vancouver Art Gallery exhibition: WE:
-Vancouver â€“12 Manifestos for the City.
+Vancouver –12 Manifestos for the City.
 
-Artists: derek beaulieu , Christian BÃ¶k, Colin Browne, Pierre Coupey, Frank
+Artists: derek beaulieu , Christian Bök, Colin Browne, Pierre Coupey, Frank
 Davey, Jeff Derksen, Hadley + Maxwell, Oliver Hockenhull, Reg Johanson,
 Alex MacKenzie, Steve McCaffery, Henri Meschonnic, Kim Minkus, provag,
-Nikki Reimer, Lisa Robertson, Avra Spector, Marie-HÃ©lÃ¨ne Tessier and Edward Top
+Nikki Reimer, Lisa Robertson, Avra Spector, Marie-Hélène Tessier and Edward Top
 
 Panel Discussion: Manifestos Now!
 Thursday March 3, 7pm in Room 7000
@@ -296,7 +296,7 @@ SFU Vancouver, 515 W. Hastings St.
 Followed by a walking tour of the exhibition in the Teck Gallery.
 
 Speakers: Brian Ganter, Lisa Robertson, Reg Johanson,
-Pierre Coupey, and Marie-HÃ©lÃ¨ne Tessier
+Pierre Coupey, and Marie-Hélène Tessier
 
 Teck Gallery, SFU Vancouver Campus
 515 West Hastings Street, Vancouver, BC
@@ -541,7 +541,7 @@ Panel 7/[In absentia]
 
 4:00 pm - Room TBA
 Panel 8/Respondent to panel on respond-ence. [ŅIs it possible to respond?
-The very idea of...Ã“]
+The very idea of...Ó]
 - Roger Farr
 - Am Johal
 - Reg Johanson
@@ -556,13 +556,13 @@ theconferenceontheconference.ca
 
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2011-03-03-10-richmond-art-gallery-young-peoples-image-world-dr-stuart-r-p">10. Richmond Art Gallery | Young Peopleâ€™s Image World: Dr. Stuart R. Poyntz | MAR 5</a>
+<a href="/instant-coffee/listings/2011-03-03-10-richmond-art-gallery-young-peoples-image-world-dr-stuart-r-p">10. Richmond Art Gallery | Young People’s Image World: Dr. Stuart R. Poyntz | MAR 5</a>
 ------------------------------------------------------------------------
 Richmond Art Gallery
 
-Young Peopleâ€™s Image World: Media Literacy for the Digital Age
+Young People’s Image World: Media Literacy for the Digital Age
 A discussion with Dr. Stuart R. Poyntz, Ph.D.
-Saturday March 5, 1â€“2pm in the Gallery
+Saturday March 5, 1–2pm in the Gallery
 
 This discussion looks at the impact of digital media on youth culture. How
 does imagery from television, film, video games, and fashion magazines
@@ -572,8 +572,8 @@ daily basis?
 
 Dr. Stuart R. Poyntz is an Assistant Professor of Media, Technology and
 Production for the School of Communication at Simon Fraser University. Dr.
-Poyntz works with childrenâ€™s media culture, theories of the public sphere,
-and young peopleâ€™s historical thinking in relation to digital media. He has
+Poyntz works with children’s media culture, theories of the public sphere,
+and young people’s historical thinking in relation to digital media. He has
 an extensive background in the history of media literacy, nationally and
 internationally, and has published writing in the Canadian Journal of
 Education, the Review of Education, Pedagogy and Cultural Studies, and
@@ -607,18 +607,18 @@ SFU Burnaby Campus: Academic Quadrangle, Room 3004
 Opening Reception: Saturday March 5 , 3-5pm
 
 Vancouver Orbital re-examines the evolution of West Coast hard-edge
-abstraction, as seen through the lens of Joan Balzarâ€™s quasi-scientific
+abstraction, as seen through the lens of Joan Balzar’s quasi-scientific
 paintings of orbits, arcs and horizon lines. These works were created
-between the 1960s and 2010, and are a key strand in Balzarâ€™s fifty years of
+between the 1960s and 2010, and are a key strand in Balzar’s fifty years of
 abstract painting, which she produced in a global context, exploring the
-role and impact of non-referential art â€“ a project that never left
+role and impact of non-referential art – a project that never left
 real-world references far behind.
 
 The exhibition and its catalogue explore the aesthetic and philosophical
-links between Balzarâ€™s abstract painting and a range of real-world
+links between Balzar’s abstract painting and a range of real-world
 phenomena, including other orbital phenomena in Greater Vancouver.
 
-Opening Reception: Saturday March 5 , 3 â€“ 5 pm
+Opening Reception: Saturday March 5 , 3 – 5 pm
 
 Eight lunchtime talks with Bill Jeffries, SFU Gallery Director: Tuesday to
 Friday, March 8 to 11, 12:05 and 12:35
@@ -629,8 +629,8 @@ Visitor Lot at SFU (face up on dashboard or hand to parking attendant).
 
 778-782-4266 | gallery@sfu.ca | sfu.ca/gallery
 
-Gallery Hours: Tuesday â€“ Friday : 10am â€“ 5pm
-Saturday : 12pm â€“ 5pm. Closed Saturdays on holiday long weekends.
+Gallery Hours: Tuesday – Friday : 10am – 5pm
+Saturday : 12pm – 5pm. Closed Saturdays on holiday long weekends.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-03-03-12-studio-3-body-asylum-mar-5">12. Studio #3 | BODY ASYLUM | MAR 5</a>
@@ -755,7 +755,7 @@ March 5 at W2 Storyeum.
 To celebrate, we're sharing a compilation from DJ She, DJ Lady Jane, Betti
 Forde, and Blondtron. The 74-minute compilation gives you a sample of the
 talented DJs featured at Utopia, while raising awareness for the 100th
-Anniversary of International Womenâ€™s Day. (Utopia Artist Compiltion also
+Anniversary of International Women’s Day. (Utopia Artist Compiltion also
 available.)
 Listen / download: http://soundcloud.com/blondtron/utopia-dj-compilation
 http://soundcloud.com/blondtron/utopia-artist-compilation
@@ -776,12 +776,12 @@ the Conference and evening performance.
 Mobile Dance Party info:
 http://www.creativetechnology.org/page/mobile-dance-party
 
-At 8pm, our 100th Anniversary International Womenâ€™s Day Showcase begins.
+At 8pm, our 100th Anniversary International Women’s Day Showcase begins.
 Featuring musical performances by First Nations artists Tanya Tagaq, JB The
 First Lady, and cello prodigy Chris Derksen; live readings by local
 Vancouver writers Hannah Calder, Hiromi Goto, Kim Fu and Antoinette Rea;
 and the biggest lineup of female electronic artists ever to hit a Canadian
-stage â€“ including Peaches, Isis Salam (Thunderheist), Betti Forde,
+stage – including Peaches, Isis Salam (Thunderheist), Betti Forde,
 B-Traits, The Librarian, Lynx, Zenobia, She, Blondtron, Lady Lane, Tank
 Girl, Miss M, Just Sheila, The Square Root of Evil, JNL, Miss Innocent, and
 DJ Tapes. Visual Media artists include VJ Electrabelle, Julie Gendron,
@@ -820,14 +820,14 @@ world where homeless people, socialist poseurs and fashion designers
 co-exist.
 
 Following a dispute with her father, Madeleine (Nicola Lipman), a
-young QuÃ©bÃ©cois women, goes to live in Vancouver. She works at several
+young Québécois women, goes to live in Vancouver. She works at several
 jobs there and becomes the mistress of Toro (John Juliani), a macho
 social worker and political activist. Preoccupied with fantasies about
 falling in love with a clown, Madeleine believes she may have met him
 in David (Wayne Specht), a young man she encounters by accident. While
 Toro reveals himself to be an egotistical, cruel male chauvinist,
 David proves to have an ineffectual gentleness. He and a skid row
-habituÃ© (Gordon Robertson) help Madeleine regain confidence in herself
+habitué (Gordon Robertson) help Madeleine regain confidence in herself
 and realize she is her own person, free of illusions.
 
 The first contemporary Canadian feature film directed by a woman,
@@ -843,12 +843,12 @@ Preceded by:
 
 Notes for a Film About Donna & Gail (1966)
 
-One of Don Owenâ€™s seminal works, the medium-length Notes for a Film
+One of Don Owen’s seminal works, the medium-length Notes for a Film
 About Donna & Gail depicts the short-lived friendship between two
-working-class women in Montreal: the waifish Donna (MichÃ¨le Chicoine)
+working-class women in Montreal: the waifish Donna (Michèle Chicoine)
 and the hard-edged, more experienced Gail (Jackie Burroughs). Although
-they are at first inseparable, Donnaâ€™s strange, erratic behaviourâ€“ and
-her penchant for fantasy â€“ becomes an increasingly insurmountable
+they are at first inseparable, Donna’s strange, erratic behaviour– and
+her penchant for fantasy – becomes an increasingly insurmountable
 obstacle. Arguably the first English-Canadian film to feature lesbian
 characters and to reflect a strong European influence, Notes uses such
 techniques as a shady, unreliable narrator (Patrick Watson) to raise
@@ -891,7 +891,7 @@ Live from the Vancouver Art Gallery
 
 TUNE IN
 
-March 7 â€“ 11, 201
+March 7 – 11, 201
 
 LIVE BROADCAST FROM THE GALLERY ROTUNDA
 
@@ -901,7 +901,7 @@ In conjunction with WE: VANCOUVER, the Vancouver Art Gallery is pleased to
 present live broadcasts by VANCOUVER CO-OPERATIVE RADIO, a non-commercial,
 co-operatively-owned, listener-supported, community radio station. Over the
 course of 6 days in March, the Co-op Radio broadcasts selected programs
-live from the Vancouver Art Galleryâ€™s rotunda.
+live from the Vancouver Art Gallery’s rotunda.
 
 Located in the heart of Vancouver's Downtown Eastside, Co-op Radio is a
 voice for the voiceless that strives to provide a space for
@@ -911,35 +911,35 @@ and political concerns of the geographic and cultural communities of BC.
 
 Mon March 7:
 
-1pm â€“ 2:30pm: When Spirit Whispers (First Nations News)
+1pm – 2:30pm: When Spirit Whispers (First Nations News)
 
-4pm â€“ 5pm: East Side Story (Downtown Eastside Voices)
+4pm – 5pm: East Side Story (Downtown Eastside Voices)
 
 Tue March 8:
 
-1pm â€“ 2pm: Sneâ€™waylh (First Nations Language Learning)
+1pm – 2pm: Sne’waylh (First Nations Language Learning)
 
 2pm - 3pm: Fruit Salad (Queer News and Views)
 
-3pm â€“ 4pm: Drishti Point (Yoga)
+3pm – 4pm: Drishti Point (Yoga)
 
-4pm â€“ 5pm: Conscious Living (Exploring spirituality)
+4pm – 5pm: Conscious Living (Exploring spirituality)
 
-5pm â€“ 6pm: Bulland Awaaz (South Asian community voices and news)
+5pm – 6pm: Bulland Awaaz (South Asian community voices and news)
 
-7pm â€“ 8pm: Iranian Womenâ€™s Voice (Iranian community voices and news)
+7pm – 8pm: Iranian Women’s Voice (Iranian community voices and news)
 
 Wed March 9:
 
-12noon â€“ 1pm: Metis Matters (Metis updates and politics)
+12noon – 1pm: Metis Matters (Metis updates and politics)
 
 Thu March 10:
 
-4pm â€“ 5pm: It Takes a Village (Exploring parenting in all its various forms)
+4pm – 5pm: It Takes a Village (Exploring parenting in all its various forms)
 
 Fri March 11:
 
-1pm â€“ 2pm: Animal Voices (animal rights programming)
+1pm – 2pm: Animal Voices (animal rights programming)
 
 Listen live on air CFRO 102.7FM or online http://www.coopradio.org/
 
@@ -1035,9 +1035,9 @@ Long and Derek Sullivan in residence to perform their on-going project The
 Illustrated Dictionary of Received Ideas.
 
 Seated at their Invented Desk For Copying, a desk re-imagined from the
-unfinished pages of Gustave Flaubertâ€™s last novel Bouvard and PÃ©cuchet, the
-artists work towards illustrating and translating every entry in Flaubertâ€™s
-The Dictionary of Received Ideas. Flaubertâ€™s satirical dictionary contains
+unfinished pages of Gustave Flaubert’s last novel Bouvard and Pécuchet, the
+artists work towards illustrating and translating every entry in Flaubert’s
+The Dictionary of Received Ideas. Flaubert’s satirical dictionary contains
 950 biting and surprisingly contemporary entries which Long and Sullivan
 interpret and compile into their collected illustrations. This work forms
 an on-going series of bookworks titled The Illustrated Dictionary of
@@ -1046,7 +1046,7 @@ Received Ideas.
 Long and Sullivan have performed numerous public drawing sessions to
 further their work on The Illustrated Dictionary of Received Ideas at
 galleries and book stores including Printed Matter Inc, MoMA PS1, Mercer
-Union, Art Metropole, The MusÃ©e Juste Pour Rire in Montreal, Flat Time
+Union, Art Metropole, The Musée Juste Pour Rire in Montreal, Flat Time
 House in London, UK, and Shandy Hall in Coxwold, UK.
 
 Gareth Long lives and works in New York. He holds a BA in Visual Studies
@@ -1093,7 +1093,7 @@ March 9 to April 17, 2011
 Opening Tuesday March 8 at 7:30pm
 
 The Charles H. Scott Gallery is pleased to present a solo exhibition by
-local Vancouver artist Ron Tran. Tranâ€™s installation at the Charles H.
+local Vancouver artist Ron Tran. Tran’s installation at the Charles H.
 Scott Gallery is about a stick. Purchased on the street where it was cut
 from a nearby tree the stick had no discernable use or value. Intrigued by
 its potential, Tran has created a project centred on developing meaning and
@@ -1106,7 +1106,7 @@ Devon Knowles, Pietro Sammarco, Anne Low, Kevin Chong, Justin Patterson,
 Nicolas Sassoon, Sylvain Sailly, Erica Stocking, Paul Kajander, Seth
 Landman. While transformed into the rarified art object and inserted into
 the gallery context, the stick will be returned to its original context on
-the completion of Tranâ€™s project.
+the completion of Tran’s project.
 
 Ron Tran has exhibited in both group and solo exhibitions in Canada, Europe
 and Asia. He has participated in the Berlin Biennale 6, East International
@@ -1144,7 +1144,7 @@ Opening Reception: March 9, 2011 @ 7 pm, Audain Gallery
 Roundtable Discussion: March 17, 10 am
 Audain Gallery hours: Tuesday - Saturday, 12-6pm
 
-Vancouver, B.C. â€“ The Audain Gallery and SFUâ€™s School for the Contemporary
+Vancouver, B.C. – The Audain Gallery and SFU’s School for the Contemporary
 Arts are
 pleased to announce a new exhibition I Could Be Wrong, which opens on
 Wednesday,
@@ -1174,7 +1174,7 @@ deconstruction of the
 expert and the amateur, and navigation through systems of authority and
 bureaucracy.
 Throughout I Could be Wrong there is an understanding of difference and
-â€˜othernessâ€™ that
+‘otherness’ that
 aids in the assertion of new perspectives towards dominant ideology.
 
 Taking the experience of the student in a long process of learning, full of
@@ -1187,7 +1187,7 @@ levels of progress and achievement.
 
 The Audain Gallery serves as a vital aspect of the Visual Arts program at
 Simon Fraser
-Universityâ€™s School for the Contemporary Arts. The Audain Galleryâ€™s mission
+University’s School for the Contemporary Arts. The Audain Gallery’s mission
 is to
 advance the aesthetic and discursive production and presentation of
 contemporary visual
@@ -1202,7 +1202,7 @@ Media inquiries:
 
 Lenore Swenerton
 Director of Marketing
-SFU Woodwardâ€™s
+SFU Woodward’s
 T: 778 782 9223
 C: 604.230.2859,
 E: lenoresw@shaw.ca
@@ -1470,7 +1470,7 @@ ill-considered, your hasty and heedless.
 Recklessness may lead to abject failure or wild success. Either way, we're
 ready. Deadline March 25.
 
-All submissions should include the artistâ€™s name, contact information, and
+All submissions should include the artist’s name, contact information, and
 a biography of 50 words or less.
 
 More info at front.bc.ca/frontmagazine/submissions.
@@ -1491,7 +1491,7 @@ with various organizations and
 establishments in the city of Saint John. Third Space will consider
 interdisciplinary submissions and
 is committed to representing local, regional and national professional
-contemporary artists. Weâ€™ll be
+contemporary artists. We’ll be
 looking for submissions of contemporary painting, sculpture, printmaking,
 performance projects, new
 media, or other works that look to engage the public in relevant topics of
@@ -1512,12 +1512,12 @@ include a weblink
 Artist CV (MAXIMUM 3 pages)
 Artist statement (250 words maximum)
 
-â€¢
-â€¢
-â€¢
-â€¢
-â€¢
-â€¢
+•
+•
+•
+•
+•
+•
 
 In your cover letter please indicate if you can offer an artist-talk,
 workshop or presentation, and to
@@ -1527,7 +1527,7 @@ university that does not have a fine arts program, thus third space gallery
 strives to fulfill a critical
 pedagogical role towards the diffusion of contemporary art.
 
-Proposals can be emailed to: tiersespace@gmail.com with â€˜Submission 2011â€™
+Proposals can be emailed to: tiersespace@gmail.com with ‘Submission 2011’
 in the subject line.
 
 Proposals can be sent via post to:
@@ -1538,7 +1538,7 @@ Disclaimer: Third Space Gallery is not responsible for lost items. If
 sufficient postage is not included on a
 self-addressed, stamped envelope the materials will not be returned.
 
-Third Space Gallery is committed to paying artistâ€™s fees as outlined in the
+Third Space Gallery is committed to paying artist’s fees as outlined in the
 CARFAC fee schedule.
 
 For more information please contact the gallery at (506) 650-1634 or
@@ -1552,7 +1552,7 @@ STUDIO COORDINATOR
 Reporting to the Executive Director, the Studio Coordinator oversees the
 effective operation of the studio, develops and coordinates workshops and
 courses, and provides guidance and direction to renters that ensure all
-actions align with the Societyâ€™s set standards.
+actions align with the Society’s set standards.
 Responsibilities
 
 * Maintain the physical studio and equipment to a safe
@@ -1612,7 +1612,7 @@ Application in the subject line.
 PROGRAM ASSISTANT
 
 Under the direction of the Executive Director, the Program Assistant plays
-an integral role in administering the Societyâ€™s mandate through
+an integral role in administering the Society’s mandate through
 coordinating membership renewals, the print sales program, the exhibition
 program and gallery volunteers.
 
@@ -1660,7 +1660,7 @@ Application in the subject line.
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2011-03-03-28-5th-entzaubert-queer-diy-film-festival-call-apr-30">28. 5th entzaubert queer d.i.y. film festival | CALL | APR 30</a>
 ------------------------------------------------------------------------
-[[[[[[[[[[[[[[[ fÃ¼r deutsch bitte runterscrollen ]]]]]]]]]]]]]]]]
+[[[[[[[[[[[[[[[ für deutsch bitte runterscrollen ]]]]]]]]]]]]]]]]
 
 ******* hey there queer filmmakers! *******
 
@@ -1680,7 +1680,7 @@ entzaubert is a radical queer d.i.y. film festival
 
 happening 7-10 july 2011 at the queer wagenplatz schwarzer kanal in berlin
 
-we will create a space for queer/feminist d.i.y. cinema â€“ you provide the
+we will create a space for queer/feminist d.i.y. cinema – you provide the
 films!
 
 we are looking for movies within or beyond these categories:
@@ -1690,10 +1690,10 @@ experimental, feminist, aids/hiv, funny, crazy, serious, low or no
 budget, music, quality, concise, international, homo-socialist,
 homosexualist, people of colour, revolutionary, polyamorous,
 monogamous, lazy, tranny-dyky, faggy, old, brand-new, provocative,
-difficult, hot,â€¦â€¦we welcome films in any language â€“ multiple
+difficult, hot,……we welcome films in any language – multiple
 language/subtitles are always appreciated.
 
-if thatâ€™s not possible, submit anyway! we will try to find subtitlers.
+if that’s not possible, submit anyway! we will try to find subtitlers.
 
 *******WORKSHOPS*********
 
@@ -1702,13 +1702,13 @@ up for sharing your skills? need a reason to make your first film ?
 we plan to organize a couple of workshops during the festival.
 
 we would like *you* to prepare, moderate or host them - or simply
-share equipmentâ€¦
+share equipment…
 
 This might be filming, editing, directing, subtitling, writing,
 costumes, make-up, acting, light/sound/camera as well as workshop
 discussions.
 
-write an email with the subject â€žworkshopâ€œ with your ideas!
+write an email with the subject „workshop“ with your ideas!
 
 ******** CONTACT AND DEADLINE *******
 
@@ -1725,17 +1725,17 @@ venue: schwarzerkanal.squat.net
 entzaubert is non-commercial. entry to all screenings is by donation.
 we support the idea of copyleft and creative commons. entzaubert
 offers a platform for movies, films, documentaries that might not get
-screened in mainÂ­stream commercial festivals.
+screened in main­stream commercial festivals.
 
 entzaubert is a radical queer festival.
 
 we think that queer is about living your life in a political way which
 challenges gender and power structures; also that fucking with gender
-normativity, abolishing borders and fighting for migrantsâ€™ and
-workersâ€™ rights are all part of one struggle.
+normativity, abolishing borders and fighting for migrants’ and
+workers’ rights are all part of one struggle.
 
 the capitalist system is based on social inequality. so for us
-opposing capitaÂ­lism is connected to the fight against transphobia,
+opposing capita­lism is connected to the fight against transphobia,
 homophobia and sexism as well as racism, fascism and militarism.
 
 with entzaubert we want to encourage all the rad queers and feminists
@@ -1753,7 +1753,7 @@ das 5. entzaubert queer d.i.y. unkommerzielles Filmfestival ist unterwegs!
 
 wir erwarten jetzt gespannt eure filmeinreichungen :)
 
-aktuelle Downloads und mehr Ã¼ber das Festival findet ihr unter
+aktuelle Downloads und mehr über das Festival findet ihr unter
 entzaubert.blogsport.de
 
 [ bald auch auf deutsch :o) ]
@@ -1764,7 +1764,7 @@ Wenn ihr Fragen habt schreibt uns:
 
 entzaubert AT gmail DOT com
 
-***wir freuen uns darauf von euch zu hÃ¶ren! ***
+***wir freuen uns darauf von euch zu hören! ***
 
 ********* AUFRUF ********
 
@@ -1776,52 +1776,52 @@ Entzaubert ist ein radikal queer d.i.y.* Filmfestival welches im
 Sommer 2011 auf dem queeren Wagenplatz Schwarzer Kanal in Berlin
 stattfindet.
 
-Wir schaffen einen Raum fÃ¼r queer/ feministisches DIY Kino â€“ und ihr
+Wir schaffen einen Raum für queer/ feministisches DIY Kino – und ihr
 tragt die Filme bei!
 
-Wir suchen Filme innerhalb, auÃŸerhalb und jenseits der folgenden Kategorien:
+Wir suchen Filme innerhalb, außerhalb und jenseits der folgenden Kategorien:
 
-KÃ¼nstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, Porno,
-experimentell, trashy, feministisch, Aids/HIV, lustig, verrÃ¼ckt,
-ernst, mit wenig oder ohne Finanzen, Musik, QualitÃ¤t, kurzgefasst,
+Künstlerisch, punky, grenzen-los, anarchisch, Dokumentationen, Porno,
+experimentell, trashy, feministisch, Aids/HIV, lustig, verrückt,
+ernst, mit wenig oder ohne Finanzen, Musik, Qualität, kurzgefasst,
 international, homo-sozialistisch, homosexuell, people of colour,
-revolutionÃ¤r, polyamurÃ¶s, monogam, faul, tranny-dyky, schwul, alt,
+revolutionär, polyamurös, monogam, faul, tranny-dyky, schwul, alt,
 brandneu, provokativ, schwierig, heiss,....
 
-Filme in jeder Sprache sind willkommen â€“ verschiedene Sprachen/
-Untertitel wÃ¤ren toll. Wenn das nicht mÃ¶glich ist: Bitte trotzdem
+Filme in jeder Sprache sind willkommen – verschiedene Sprachen/
+Untertitel wären toll. Wenn das nicht möglich ist: Bitte trotzdem
 einreichen!
 
-****** AUFRUF FÃœR WORKSHOPS *****
+****** AUFRUF FÜR WORKSHOPS *****
 
-Lust dein KÃ¶nnen zu teilen? Suchst du einen Grund deinen ersten Film zu machen?
+Lust dein Können zu teilen? Suchst du einen Grund deinen ersten Film zu machen?
 
-wÃ¤hrend des festivals wird es zeit und raum fÃ¼r einige workshops geben
-- dafÃ¼r brauchen wir deine beteiligung! wenn du kenntnisse im
-filmbereich hast und diese an andere weitergeben mÃ¶chtest, nimm
+während des festivals wird es zeit und raum für einige workshops geben
+- dafür brauchen wir deine beteiligung! wenn du kenntnisse im
+filmbereich hast und diese an andere weitergeben möchtest, nimm
 kontakt mit uns auf.
 
-die Workshops kÃ¶nnen Filmen, Schneiden, Regie, Untertiteln, Schreiben,
-KostÃ¼men, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder auch eine
+die Workshops können Filmen, Schneiden, Regie, Untertiteln, Schreiben,
+Kostümen, Make-up, Schauspiel, Licht/ Ton/ Kamera, oder auch eine
 Diskussion beinhalten.
 
-Schick uns deine Ideen in einer Email mit dem Titel â€žWorkshopâ€œ.
+Schick uns deine Ideen in einer Email mit dem Titel „Workshop“.
 
 ****** WAS IST ENTZAUBERT? ******
 
 entzaubert ist nicht-kommerziell und der Eintritt zu allen Filmen
-lÃ¤uft Ã¼ber Spenden. Wir unterstÃ¼tzen konzepte wie Copyleft und
-Creative Commons. Entzaubert bietet eine Plattform fÃ¼r Filme und
+läuft über Spenden. Wir unterstützen konzepte wie Copyleft und
+Creative Commons. Entzaubert bietet eine Plattform für Filme und
 Dokumentationen, welche vielleicht nicht in mainstream-kommerziellen
 Festivals gezeigt werden.
 
 entzaubert ist ein radikales queer Festival. Wir verstehen queer als
 eine politische Lebensentscheidung, welche Geschlecht und
 Machtstrukturen anfechtet und auch die Dekonstruktion von
-Geschlechternormen; den Abbau von Grenzen und den Kampf fÃ¼r
+Geschlechternormen; den Abbau von Grenzen und den Kampf für
 Migrant_innen- und Arbeiter_innenrechte alle als Teile eines Kampfes
 sieht. Das kapitalistische System basiert auf sozialer Ungleichheit.
-FÃ¼r uns ist der Widerstand gegen den Kapitalismus verbunden mit dem
+Für uns ist der Widerstand gegen den Kapitalismus verbunden mit dem
 Kampf gegen Transphobie, Homophobie und Sexismus, ebenso wie gegen
 Rassismus, Faschismus und Militarismus.
 
@@ -1849,21 +1849,21 @@ and here on facebook
 Call for art and for written submissions:
 
 Call for Submissions for Winter 2011:deadline May 15, 2011
-Room is Canadaâ€™s oldest literary journal by, for, and about women.
+Room is Canada’s oldest literary journal by, for, and about women.
 http://www.roommagazine.com/
 
 Room is a space where women can speak, connect, and showcase their
 creativity. Each quarter, for 33 issues, Room has been publishing original,
 thought-provoking works, by emerging and established Canadian women writers
-and artists that reflect womenâ€™s strength, sensuality, vulnerability, and wit.
-Roomâ€™s 2011 winter issue, 34.4, will focus on Sibling Relationships. Are
+and artists that reflect women’s strength, sensuality, vulnerability, and wit.
+Room’s 2011 winter issue, 34.4, will focus on Sibling Relationships. Are
 the connections between twins different than that of other siblings? How
 are relationships with brothers different from those with sisters? When
 does a friend become family?
 Room is looking for original, unpublished art, fiction, creative
 non-fiction, and poetry that explore the multifaceted dimensions of these
 complex relationships. From the joyful connections to the troubling
-heartaches of sib relationshipsâ€”we want to see them all.
+heartaches of sib relationships—we want to see them all.
 (To see what kind of work we publish, check out our current issue, 33.4,
 All of us Sacred, featuring cover art by Susan Point, or any recent back
 issue available from our website.)
@@ -1880,13 +1880,13 @@ submissions page (above). All art submissions should be sent to
 arteditor@roommagazine.com.
 
 Note: We publish quarterly, with two of the issues being themed and the
-other two, non-themed. Roomâ€™s cover art is in colour, and interior art is
+other two, non-themed. Room’s cover art is in colour, and interior art is
 in grey-scale and as such, all artwork submitted for consideration should
 be well suited for reproduction in grey-scale, with a strong sense of line
-and contrast. We now feature issuesâ€™ interior art on our webpage in colour
+and contrast. We now feature issues’ interior art on our webpage in colour
 once the issue has been published.
 
-Newsroom: to stay current with Roomâ€™s calls and events, sign-up for our
+Newsroom: to stay current with Room’s calls and events, sign-up for our
 newsletter at: http://www.roommagazine.com/newsletter.html
 
 Contact: contactus@roommagazine.com or arteditor@roommagazine.com

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 14
 type: "OPENING"
+venue: "Audain Gallery"
 summary: "Audain Gallery | Lili Reynaud-Dewar: My Epidemic (Teaching...) | OCT 21"
 ---
 
@@ -43,12 +44,12 @@ Grenoble. She has recently presented solo exhibitions at the New Museum,
 New York; Index, Stockholm; Outpost, Norwich, England; and Kunsthalle
 Basel, and participated in the 12th Lyon Biennial, the 2012 La Triennale,
 and the 5th Berlin Biennial. Since 2010 she has held a professorship at
-Haute Ã©cole d'art et design in Geneva.
+Haute école d'art et design in Geneva.
 
 Reynaud-Dewar is a 2015 Audain Visual Artist in Residence, which is
 co-presented by SFU Galleries and SFU's School for the Contemporary Arts.
-Her residency and exhibition are supported by the Institut franÃ§ais and the
-Consulat GÃ©nÃ©ral de France Ã  Vancouver.
+Her residency and exhibition are supported by the Institut français and the
+Consulat Général de France à Vancouver.
 
 Curated by Amy Kazymerchyk.
 
@@ -56,7 +57,7 @@ Events
 
 My Epidemic (Teaching Bjarne Melgaard's Class)
 Seminar Friday and Saturday, October 9 - 10; 16 - 17; 23 - 24; 30 - 31
-Ramaya Tegegne joins the seminar October 23 â€“ 24.
+Ramaya Tegegne joins the seminar October 23 – 24.
 Audain Gallery
 
 Ramaya Tegegne

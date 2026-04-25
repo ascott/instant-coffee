@@ -36,7 +36,7 @@ instant coffee listings / send us your art posts for free
 <a href="/instant-coffee/listings/2013-10-31-22-centre-a-leila-sujir-and-maria-lantin-nov-15">22. CENTRE A | Leila Sujir and Maria Lantin | NOV 15</a>
 <a href="/instant-coffee/listings/2013-10-31-23-sfu-goldcorp-centre-for-the-arts-experiments-in-arab-cinema-">23. SFU; Goldcorp Centre for the Arts | Experiments in Arab Cinema | NOV 15</a>
 <a href="/instant-coffee/listings/2013-10-31-24-softunion-workshop-zoe-kreye-and-mirae-rosner-nov-16">24. Soft/Union WORKSHOP | Zoe Kreye and Mirae Rosner | NOV 16</a>
-<a href="/instant-coffee/listings/2013-10-31-25-contemporary-art-society-of-vancouver-emerging-artists-prize">25. Contemporary Art Society of Vancouver | Emerging Artistâ€™s Prize open competition </a>
+<a href="/instant-coffee/listings/2013-10-31-25-contemporary-art-society-of-vancouver-emerging-artists-prize">25. Contemporary Art Society of Vancouver | Emerging Artist’s Prize open competition </a>
 <a href="/instant-coffee/listings/2013-10-31-26-grunt-gallery-jayce-salloum-until-nov-30">26. grunt gallery | Jayce Salloum | until | NOV 30</a>
 <a href="/instant-coffee/listings/2013-10-31-27-spark-box-studio-open-call-national-residency-award-2014-nov">27. Spark Box Studio | OPEN CALL: NATIONAL RESIDENCY AWARD 2014 | NOV 30</a>
 <a href="/instant-coffee/listings/2013-10-31-28-telus-garden-calling-on-canadian-artists-dec-2">28. TELUS Garden | Calling on Canadian artists | DEC 2</a>
@@ -85,12 +85,12 @@ Plug In Institute of Contemporary Art, Winnipeg, Manitoba
 Deadline for applications: November 1, 2013
 
 Plug In Institute of Contemporary Art, in partnership with Mentoring Artists for 
-Womenâ€™s Art, is now accepting applications for the 2014 Summer Institute 
+Women’s Art, is now accepting applications for the 2014 Summer Institute 
 featuring Toronto-based artists Deirdre Logue and Allyson Mitchell as faculty.
 
 The Summer Institute is an international post-graduate artist residency for 
 professional artists working in all disciplines and media. The 2014 edition of 
-Plug In ICAâ€™s Summer Institute invites participants who wish to work 
+Plug In ICA’s Summer Institute invites participants who wish to work 
 independently or collaboratively, based upon their own interests and projects. 
 There will also be opportunities to work in a collaborative peer-to-peer 
 environment through group activities, planned during the session. A number of 
@@ -104,28 +104,28 @@ participants will have the opportunity to consider a broad range of practices,
 language and strategies that could be called â€œfeminist,â€  and that contribute to 
 anti-oppression politics.
 
-This critical discursive opportunity will take place in Plug In ICAâ€™s new 
+This critical discursive opportunity will take place in Plug In ICA’s new 
 purpose-built facilities, with an adjoining workshop, art research library, 
-gallery, bookshop and cafÃ©. Plug In ICA is located at the perimeter of the 
+gallery, bookshop and café. Plug In ICA is located at the perimeter of the 
 University of Winnipeg campus, adjacent to the Winnipeg Art Gallery, and in 
 the heart of an urban environment. 
 
 Deirdre Logue and Allyson Mitchell are artists and co-founders of FAG 
-(Feminist Art Gallery). Operating out of the coupleâ€™s converted garage in 
+(Feminist Art Gallery). Operating out of the couple’s converted garage in 
 Toronto, Logue and Mitchell have aligned development and artistic goals in 
 order to operate FAG on its own terms. Their alternative funding system 
 resists the reliance on government or corporate cash, favoring instead a 
-network of feminist community contributors. FAGâ€™s micro-funding program, 
+network of feminist community contributors. FAG’s micro-funding program, 
 DAG, has supported a variety of art projects, among them Les Blues, a group 
 dedicated to increasing the visibility and histories of queer people of colour. 
 NAG, their angry letter writing campaign, took the Toronto International Film 
-Festival to task for their racist and misogynist list of â€œ100 essential filmmakers 
+Festival to task for their racist and misogynist list of “100 essential filmmakers 
 of all time.â€  Recent exhibitions include the presentation of art porn hybrid 
 Community Action Center by AL Steiner and AK Burns and a focus on the UK 
 based Cinenova collection as animated by eight local activists and artists.
 
-FAG is committed to the cultivation of a new kind of sisterhood that isnâ€™t 
-based on gender and privilege and a new kind of brotherhood that isnâ€™t based 
+FAG is committed to the cultivation of a new kind of sisterhood that isn’t 
+based on gender and privilege and a new kind of brotherhood that isn’t based 
 on rape and pillage. FAG is feminist in its resistance and in its attempts to 
 reconcile â€œartsâ€  participation in oppressive systems. FAG is feminist in its 
 insistence on closing the gap between studio, gallery, art, activism, social 
@@ -134,12 +134,12 @@ https://www.facebook.com/FeministArtGallery
 
 As well as operating this truly alternative arts space, Deirdre Logue is 
 currently the Development Director at Vtape and Allyson Mitchell works as 
-Associate Professor in the School of Gender, Sexuality and Womenâ€™s 
+Associate Professor in the School of Gender, Sexuality and Women’s 
 Studies at York University. Both have prolific international art practices. 
 www.allysonmitchell.com and www.deirdrelogue.com
 
 For more information and to apply for the Summer Institute 2014, please visit 
-Plug In ICAâ€™s website at http://plugin.org/summer-institute.
+Plug In ICA’s website at http://plugin.org/summer-institute.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-10-31-03-canzine-west-nov-2">03. Canzine West | | NOV 2</a>
@@ -154,12 +154,12 @@ and share their wares.
 The heart of Canzine West will be a giant zine fair running throughout the day 
 and featuring zines, comics, small press books, and much more! Over one 
 hundred titles on display!
-Programming this year includes Jordan Abel, Taylor Basso, AimÃ©e Henny 
+Programming this year includes Jordan Abel, Taylor Basso, Aimée Henny 
 Brown, Meaghen Buckley, Cathy Busby, Jennica Harper, Luke Krienke, 
 Sarah Leavitt, Miriam Libicki, Geoff Mann, Alessandra Naccarato, Catherine 
-Owen, Colin Upton, and Matthew Walsh. Come and meet this eventâ€™s diverse 
+Owen, Colin Upton, and Matthew Walsh. Come and meet this event’s diverse 
 group of featured artists, educators, writers, publishers, curators and 
-performers under one roof. And donâ€™t forget: Sign up in advance to participate 
+performers under one roof. And don’t forget: Sign up in advance to participate 
 in the â€œ1-2 Punch Book Pitchâ€  at Canzine West. To sign up, please email 
 canzine@brokenpencil.com with your: name, email address, phone number 
 and 2-3 line description of the project you are going to pitch.
@@ -167,7 +167,7 @@ Sign up now! We only have room for 8 participants and this will be first come,
 first served.
 The winner of the pitch gets bragging rights and a Broken Pencil prize pack 
 worth $200
-To learn more about this yearâ€™s Canzine West please visit: 
+To learn more about this year’s Canzine West please visit: 
 http://www.brokenpencil.com/canzine-vancouver
 
 ------------------------------------------------------------------------
@@ -190,21 +190,21 @@ Where: Cineworks Annex, 235 Alexander St (down the ramp)
 Edition I - Process Reversal:
 
 A short program of 16mm film works from the Process Reversal Collective and 
-other artist-run film groups including Lâ€™Abominable (Paris, France), The 
+other artist-run film groups including L’Abominable (Paris, France), The 
 Double Negative Collective (Montreal, PQ), Cherry Kino (Leeds, UK) and The 
 Handmade Film Institute (Boulder, CO). Filmmakers including Sarah Biagini, 
 Andrew Busti, Taylor Dunne, Nicolas Rey, Kevin Rice, Robert Schaller, 
 Martha Jurksaitis & Philippe Leonard.
 
-Guest Programmer Bio: Kevin Rice is a â€˜film archivistâ€™ whose practice focuses 
+Guest Programmer Bio: Kevin Rice is a ‘film archivist’ whose practice focuses 
 on the study of photochemical theories, the development of lab resources for 
 filmmakers, and the documentation of various darkroom odysseys on motion 
 picture film. He has worked with several artist-run film labs including no.w.here 
-(London), Lâ€™Abominable (Paris), Klubvizija (Zagreb), and LaborBerlin (Berlin). 
+(London), L’Abominable (Paris), Klubvizija (Zagreb), and LaborBerlin (Berlin). 
 In 2012, he helped found Process Reversal, a film collective dedicated to 
 producing resources for filmmakers and film labs. His most recent work 
 includes the engineering of a black and white reversal process based on the 
-properties of seawater for an adaptation of Homerâ€™s Epic Cycle.
+properties of seawater for an adaptation of Homer’s Epic Cycle.
 
 For more information, visit 
 http://processreversal.org/ 
@@ -222,7 +222,7 @@ Douglas Udell Gallery, Vancouver
 Douglasudellgallery.com
 
 Douglas Udell Gallery presents a special group photography show for the 
-second half of Vancouverâ€™s Capture Photography Festival.
+second half of Vancouver’s Capture Photography Festival.
 
 This photo exhibition features work from international heavyhitters in the field 
 of contemporary photography. Artists include Hiroshi Sugimoto, Loretta Lux, 
@@ -292,13 +292,13 @@ Japanese Canadian Redress agreement.
 
 3-5pm Panel Discussion - Research on Japanese Canadians: What are the 
 Challenges? What are the Possibilities? Moderated by Roy Miki, the panel 
-will feature Audrey Kobayashi (Queenâ€™s University), Jeff Masuda (University of 
+will feature Audrey Kobayashi (Queen’s University), Jeff Masuda (University of 
 Manitoba), Kirsten Emiko McAllister (Simon Fraser University), Mona Oikawa 
 (York University) and John Price (University of Victoria). Sponsored by the 
 Nikkei National Museum, SFU's Centre for Policy Studies on Culture and 
 Communities and the Asian Canadian Study Society.
 
-3pm Book launch of Dr. Mona Oikawaâ€™s Cartographies of Violence: 
+3pm Book launch of Dr. Mona Oikawa’s Cartographies of Violence: 
 Japanese Canadian Women, Memory, and the Subjects of Internment (2012)
 
 5 - 6:30pm Exhibit Reception and opening of our new Resource Centre. 
@@ -416,9 +416,9 @@ Davey will be in Vancouver to open her exhibition Ornament and Reproach at
 Presentation House Satellite Gallery and she will also give a talk at Emily Carr 
 University. 
 
-Scrivenerâ€™s Monthly is a series of public presentations that explore the space 
+Scrivener’s Monthly is a series of public presentations that explore the space 
 between material practices and spoken words: a periodical that talks. Set 
-alongside the exhibitions program at Western Front, this experiment in â€œnot 
+alongside the exhibitions program at Western Front, this experiment in “not 
 publishingâ€  involves readings, performances, and other articulations.
 
 Visit www.front.bc.ca for more information.
@@ -447,10 +447,10 @@ morph, adapt and contribute to Vancouver's artistic landscape.
 Artists (part 1):
 
 Gabriela Aceves
-Nelly CÃ©sar
-Carlos ColÃ­n
-Guadalupe MartÃ­nez
-Manuel PiÃ±a
+Nelly César
+Carlos Colín
+Guadalupe Martínez
+Manuel Piña
 Emilio Rojas
 Josema Zamorano
 
@@ -482,23 +482,23 @@ at Satellite Gallery. This event is free and open to the public.
 Moyra Davey is an acclaimed photographer, writer, and filmmaker based in 
 New York. Through an understated approach to photography and video, as 
 well as her insightful critical writing on photography, she considers the 
-meanings carried in everyday objects. Ornament and Reproach, the artistâ€™s 
+meanings carried in everyday objects. Ornament and Reproach, the artist’s 
 upcoming exhibition at Satellite Gallery, is organized by Presentation House 
 Gallery and guest curated by John Goodwin who has worked with the artist 
-since 1993. The exhibition provides an overview of Daveyâ€™s practice with early 
+since 1993. The exhibition provides an overview of Davey’s practice with early 
 works including the multipleMoney Box (1993), published by Shark Editions, 
 New York, photographs from her Newsstand series (1993-94), Bottle Grid 
 series (1996-2000), and video works. For her 2007 exhibition at goodwater in 
 Toronto, she began producing photographic mailers that carry the physical 
 traces of their journeys through the mail system, a practice that has 
 continued for subsequent exhibitions. She has mailed over 1,000 photographs 
-across the world. A new set of mailers â€“ 27 folded photographs taken in 
-Trinity Church Cemetery in upper Manhattan â€“ will be featured in the 
+across the world. A new set of mailers – 27 folded photographs taken in 
+Trinity Church Cemetery in upper Manhattan – will be featured in the 
 exhibition.
 
 Ornament and Reproach will be accompanied by a new publication and 
 limited edition titled Empties (2013), a 36-page book featuring images from 
-Daveyâ€™s Bottle Grid series.
+Davey’s Bottle Grid series.
 
 Additional Events and Artist Talks:
 Scriverner's Monthly at the Western Front
@@ -508,11 +508,11 @@ Exhibition Opening at Satellite:
 Thursday, November 7 | 6-8pm
 Artist will be in attendance
 
-Satellite Gallery is a Michael Oâ€™Brian Family Foundation project with partners 
+Satellite Gallery is a Michael O’Brian Family Foundation project with partners 
 the Morris and Helen Belkin Art Gallery and the Museum of Anthropology at 
 UBC,Presentation House Gallery and the Charles H. Scott Gallery. Moyra 
 Davey public programs are presented in collaboration with Emily Carr 
-University and Scrivenerâ€™s Monthly, Western Front.
+University and Scrivener’s Monthly, Western Front.
 
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-10-31-13-leo-koo-gallery-james-kemp-nov-7">13. Leo Koo Gallery | James Kemp | NOV 7</a>
@@ -531,13 +531,13 @@ connection to natural materials and processes in a way that fetishizes the
 unashamedly organic. His sculptures twist and turn, unsure of themselves as 
 they take on new characteristics from different perspectives. They engage 
 through their unpredictability, as surface and shape compete for attention. 
-Kempâ€™s thoughtfully applied textures result in surfaces that are spackled, 
+Kemp’s thoughtfully applied textures result in surfaces that are spackled, 
 gouged, and impressed with bite marks and crevices. These provide onlookers 
 with a moment of recognition and uneasy attraction, and incite the instinctual 
 need to understand through touch. The wrinkles and folds of his materials are 
 at once familiar and unidentifiable, and the sculptures, more akin to rolling 
 flesh, are haphazardly stacked or warped into impossible shapes. The 
-discomfort provoked by Kempâ€™s pieces seems to reveal the extent to which 
+discomfort provoked by Kemp’s pieces seems to reveal the extent to which 
 we are repelled by a close encounter with the organic or instinctual, being 
 more accustomed to the processed and aseptic.
 
@@ -546,7 +546,7 @@ Kemp, a graduate from Emily Carr University of Art + Design and winner of the
 Artist in Residence at the Port Moody Arts Centre. Kemp has assisted artists 
 such as David Robinson and Liz Magor, the latter for whom he helped develop 
 public artwork for the Surrey Museum and a recent exhibition at Catriona 
-Jeffries Gallery, among other projects. A number of Kempâ€™s works have joined 
+Jeffries Gallery, among other projects. A number of Kemp’s works have joined 
 the permanent collection at the Genesee Center for the Arts in Rochester, 
 New York, where he exhibited in 2013. He has participated in group and solo 
 shows throughout the Lower Mainland and in Montreal, and was a nominee for 
@@ -594,7 +594,7 @@ Canadian and international artists. The gallery's roster includes artists workin
 in installation, video, sculpture, photography, mixed media, and contemporary 
 painting. A number of our artists work internationally, including recent 
 residencies and exhibitions in Spain, Denmark, Germany, France, and the 
-United States. Republic Gallery recently took part in Papier 13 in MontrÃ©al.
+United States. Republic Gallery recently took part in Papier 13 in Montréal.
 
 -----------
 
@@ -627,8 +627,8 @@ photographs from her Newsstand series (1993-94) and Bottle Grid series
 Toronto, she began producing photographic mailers that carry the physical 
 traces of their journeys through the mail system, a practice that has 
 continued for subsequent exhibitions. She has mailed over 1,000 photographs 
-across the world. A new set of mailers â€“ 27 folded photographs taken in 
-Trinity Church Cemetery in upper Manhattan â€“ will be featured in the 
+across the world. A new set of mailers – 27 folded photographs taken in 
+Trinity Church Cemetery in upper Manhattan – will be featured in the 
 exhibition.
 
 Moyra Davey: Ornament and Reproach is curated by John Goodwin, and 
@@ -659,16 +659,16 @@ The gallery was originally formed with Roger Bywater, but since 2006 it has
 been under the direction of Goodwin, presenting exhibitions by artists such as 
 Rodney Graham, Mark Dion, Garry Neill Kennedy, Steven Shearer, Moyra 
 Davey and Jeremy Deller. He was the executive director of Printed Matter, 
-Inc., New York from 1988 â€“ 1993 and Shark Editions from 1990 â€“ 2001. From 
-1983 â€“ 1988 and 2000 â€“ 2001 Goodwin was the executive director of Art 
+Inc., New York from 1988 – 1993 and Shark Editions from 1990 – 2001. From 
+1983 – 1988 and 2000 – 2001 Goodwin was the executive director of Art 
 Metropole, Toronto.
 
 Moyra Davey: Ornament and Reproach is curated by John Goodwin. The 
-exhibition is generously supported by the Michael Oâ€™Brian Family Foundation, 
+exhibition is generously supported by the Michael O’Brian Family Foundation, 
 and organized by the Presentation House Gallery and Satellite Gallery.
 
-Satellite Gallery â€“ 560 Seymour Street, 2nd Floor, Vancouver BC
-Wednesday â€“ Saturday, 12 â€“ 6 pm
+Satellite Gallery – 560 Seymour Street, 2nd Floor, Vancouver BC
+Wednesday – Saturday, 12 – 6 pm
 www.satellitegallery.ca
 
 ------------------------------------------------------------------------
@@ -701,14 +701,14 @@ Access Gallery presents our Annual Fundraising Auction!
 SO GOOD IT HURTS
 
 Friday, November 8, 2013
-7:00pm â€“ 12:00am
+7:00pm – 12:00am
 222 East Georgia Street
 $20; Free for Members.
 
 Auction Preview Evening: Wednesday, November 6, 2013
-7:00 â€“ 10:00pm
+7:00 – 10:00pm
 
-Works on view November 2 â€“ November 8, 2013, regular gallery hours
+Works on view November 2 – November 8, 2013, regular gallery hours
 
 Visit our Auction Website: auction.accessgallery.ca
 
@@ -718,14 +718,14 @@ Absentee/Phone bids accepted at k.phillips@accessgallery.ca and (604) 689-
 Access Gallery invites you to our 2013 auction fundraiser! Join us on Friday 
 November 8th at 7pm for So Good It Hurts.
 
-Come sip lovely drinks, nibble hors dâ€™ourves and deserts by Chicha Silvestre 
+Come sip lovely drinks, nibble hors d’ourves and deserts by Chicha Silvestre 
 Gusto Latino and Mochikas, and dance the night away with music by Heidi 
 Nagtegaal.
 
 So Good It Hurts will feature both live and silent auctions hosted by special 
-guests The Lady Benjamins. This yearâ€™s auction features over 45 works 
+guests The Lady Benjamins. This year’s auction features over 45 works 
 generously donated by internationally renowned and locally respected artists, 
-as well as some of Vancouverâ€™s most exciting emergent talent. Artists 
+as well as some of Vancouver’s most exciting emergent talent. Artists 
 include: Alison MacTaggart, Andrew Lee, Angela Grossmann, Angus 
 Ferguson, Attila Richard Lukacs, Brady Cranfield, Christine D'Onofrio, Damla 
 Tamer, David Wisdom, Dawn Johnston, Eric Metcalfe, Fan-Ling Suen, 
@@ -762,17 +762,17 @@ k.phillips@accessgallery.ca
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-10-31-18-dynamo-arts-association-jenny-heishman-and-kitsum-cheng-nov-">18. Dynamo Arts Association | Jenny Heishman and Kitsum Cheng | NOV 8</a>
 ------------------------------------------------------------------------
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.
+……………………………………………………………………………….
 SEARCHING FOR LAND
 New works by Jenny Heishman and Kitsum Cheng
 Presented by SHIP, Hosted by Dynamo Arts Association
-#103 â€“ 30 E 6th Ave Vancouver, BC
+#103 – 30 E 6th Ave Vancouver, BC
 
 OPENING RECEPTION Friday November 8, 2013 7-11PM
 ARTIST TALK Saturday November 9, 2013 2PM
 EXHIBITION RUN November 8-22, 2013
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.
+……………………………………………………………………………….
 
 Please Join us Friday, November 8, 2013 7-11PM for the opening reception of 
 SEARCHING FOR LAND, a site specific installation featuring new works by 
@@ -789,19 +789,19 @@ sculpture and video the project roots in a basic exploration... how do we see
 more similarities with those around us? Searching for Land is the reflection of 
 one such coordinated search.
 
-â€˜We did not come directly at each other. in our many correspondences, we 
+‘We did not come directly at each other. in our many correspondences, we 
 have shared the same grounds and described to each other what is behind 
 us, and what is facing us in our sculptural practice as well as everyday life. if 
 we were two dots, immersed in the same thing, say a die, then we would be 
-dots set on different planes. in this sense, we are a part of a number â€“a 
+dots set on different planes. in this sense, we are a part of a number –a 
 greater whole. This exhibition might map our shared tendencies - or rather our 
 tendencies in trying to understand what drives us. Two dots seen at once in a 
-three dimensional space: a parabolaâ€™
-â€“ Kitsum Cheng
+three dimensional space: a parabola’
+– Kitsum Cheng
 
 Searching for Land marks the first Vancouver exhibition for both artists.
 
-â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.
+……………………………………………………………………………….
 
 Kitsum Cheng was born in Hong Kong and is now based in Frankfurt, 
 Germany, where she is currently attending the Staedelschule. Previously, she 
@@ -837,7 +837,7 @@ Exhibition: Nov 14 - Dec 21, 2013
 Western Front is pleased to present Absolute Countdown, a solo exhibition 
 by Amsterdam based artist Noa Giniger.
 
-Noa Ginigerâ€™s minimal and playful work is founded on the basis that nothing is 
+Noa Giniger’s minimal and playful work is founded on the basis that nothing is 
 stable, secure or steady. She frequently takes actions, words and phrases 
 that are closely connected to her own experiences, and presents them to 
 others. Once stripped of their biography or location, they may strike a 
@@ -855,7 +855,7 @@ featured in Kiosk, Programma magazine and F.R. David. Absolute Countdown
 will be Giniger's first solo exhibition in North America.
 
 This project was made with the support the Ostrofsky Family Fund, 
-Mondriaan Fund, Stichting SchÃ¼rmann-Krant, and Israelâ€™s Office of Cultural 
+Mondriaan Fund, Stichting Schürmann-Krant, and Israel’s Office of Cultural 
 Affairs and Cineworks Independent Filmmakers Society.
 
 
@@ -894,15 +894,15 @@ Welling sought to remove photography from its subject, in order to trigger
 personal associations in the viewer and to explore how we see, rather than 
 what we see. These works were frequently contact-printed to gain what 
 Welling described as â€œa facsimile effect,â€  involving no enlargement from the 
-negative. As Welling stated at the time, â€œthe (small) image convinces me of 
+negative. As Welling stated at the time, “the (small) image convinces me of 
 its truth in a way larger images cannot.â€ 
 The exhibition and publication, Mind on Fire, brings together around one 
-hundred of Wellingâ€™s early, experimental and abstract works from this period, 
+hundred of Welling’s early, experimental and abstract works from this period, 
 statements which surround the mechanical and philosophical parameters of 
 photography, being tested through a variety of photographic paper, film, 
 cameras; materials in flux and subject to a myriad of simultaneous meanings.
 This exhibition has been developed in partnership between MK Gallery, Milton 
-Keynes, UK and Centro Galego de Arte ContemporÃ¡nea â€” CGAC, Santiago 
+Keynes, UK and Centro Galego de Arte Contemporánea — CGAC, Santiago 
 de Compostela, Spain. Special thanks also to David Zwirner, New York; 
 Maureen Paley, London; Galeria Marta Cervera, Madrid; Regen Projects, Los 
 Angeles and Galerie Nelson-Freeman, Paris.
@@ -913,7 +913,7 @@ fire/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“ 
+1) Exhibition Opening and Closing Party for Capture Photography Festival – 
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture 
 Photography Festival. www.capturephotofest.com. Artist present. Opening 
@@ -924,18 +924,18 @@ Emily Carr University of Art + Design
 Room 301, 1399 Johnston Street, Granville Island
 Dominic McIver Lopes, Professor in the Department of Philosophy at UBC, 
 and President of the American Society for Aesthetics, joins artist James 
-Welling for a public conversation considering Wellingâ€™s practice.
+Welling for a public conversation considering Welling’s practice.
 
 Meric Algun Ringborg
 November 15, 2013 to January 12, 2014
 Opening Thursday November 14, 7-10 pm
 At the Contemporary Art Gallery we present a solo exhibition by Turkish artist 
 Meric Algun Ringborg, her first in a museum in North America, comprising a 
-new large-scale commission sited across the faÃ§ade of our building. Visitors 
-are invited to â€˜readâ€™ the gallery, the work wrapping around the outside as 
+new large-scale commission sited across the façade of our building. Visitors 
+are invited to ‘read’ the gallery, the work wrapping around the outside as 
 individual phrases envelope the physical structure.
 Through the appropriation of methodologies that include collecting, 
-systematizing and list making, much of Algun Ringborgâ€™s practice centres on 
+systematizing and list making, much of Algun Ringborg’s practice centres on 
 notions of cultural identity, language, belonging and the adjoining 
 bureaucracies. In 2012 billboards were presented in the exhibition Show Off 
 that took place in Malmo and Nicosia consecutively. The questions shown 
@@ -950,7 +950,7 @@ notionally composing mini-narratives and realized in a way that seems to
 incorporate different voices and characters, including that of the artist. As 
 such the work evolves out of the dictionary akin to a fragmentary novel or 
 short story, a series of episodes branching out into a loose meta-narrative 
-concerning writing as a creative act as implied through the use of this â€˜foundâ€™ 
+concerning writing as a creative act as implied through the use of this ‘found’ 
 language.
 Vancouver, a city renowned internationally for the significance of its visual arts 
 that conceptually re-pictures space and assigns meaning of the global in the 
@@ -960,19 +960,19 @@ the narratives implicit in everyday routine and our daily lives. Its siting on t
 external surface of the gallery incites an evocation of the porosity of meaning 
 that may emerge from such a public institution, through a contemplation of 
 private ideas and thoughts seeping into the public domain.
-Production support for the exhibition with MeriÃ§ AlgÃ¼n Ringborg is generously 
+Production support for the exhibition with Meriç Algün Ringborg is generously 
 provided by SAHA Association. www.saha.org.tr
 http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 
-1) Exhibition Opening and Closing Party for Capture Photography Festival â€“ 
+1) Exhibition Opening and Closing Party for Capture Photography Festival – 
 Thursday, November 14, 7-10pm at the CAG
 Public opening and celebration of the exhibition and closing party for Capture 
 Photography Festival, www.capturephotofest.com. Opening reception 
 sponsor: Kronenbourg 1664.
 2) Artist talk: 
-MeriÃ§ AlgÃ¼n Ringborg
+Meriç Algün Ringborg
 Wednesday, November 20, 7pm
 Emily Carr University of Art + Design
 Room 301, 1399 Johnston Street, Granville Island
@@ -992,7 +992,7 @@ Tuesday, December 3, 7pm
 Erdem Taşdelen is a multidisciplinary artist who lives and works in Vancouver 
 and currently teaches in the Critical and Cultural Studies Department at Emily 
 Carr University of Art + Design.
-4) Free Guided Visits â€“ Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec 
+4) Free Guided Visits – Saturdays & Sundays: Nov 16, Dec 1, Dec 7, Dec 
 14, Dec 15, Jan 5 and Jan 11. All tours start at 3pm. Contemporary Art 
 Gallery
 Join Nigel Prince, Executive Director, Jill Henderson, Communications 
@@ -1019,9 +1019,9 @@ T: 604.681.2700
 E: j.henderson@contemporaryartgallery.ca W: 
 www.contemporaryartgallery.ca
 Contemporary Art Gallery - 555 Nelson Street, Vancouver, BC V6B 6R5
-Hours: Tues â€“ Sun: 12 â€“ 6 pm. FREE ADMISSION 
+Hours: Tues – Sun: 12 – 6 pm. FREE ADMISSION 
 IMAGE: James Welling, Gelatin Photograph 51 (1984), inkjet print mounted to 
-metal, 20 Ã— 16 inches. Courtesy the artist and David Zwirner Gallery, New 
+metal, 20 × 16 inches. Courtesy the artist and David Zwirner Gallery, New 
 York / London.
 ENDS	
 
@@ -1044,43 +1044,43 @@ Foundation and our members, donors, and volunteers.
 <a href="/instant-coffee/listings/2013-10-31-21-art-gallery-of-greater-victoria-harold-mortimer-lamb-nov-15">21. Art Gallery of Greater Victoria | Harold Mortimer-Lamb | NOV 15</a>
 ------------------------------------------------------------------------
 Victoria, BC - This fall, the Art Gallery of Greater Victoria will look at one 
-manâ€™s lifelong passion for Canadian Art with the opening of Harold Mortimer-
+man’s lifelong passion for Canadian Art with the opening of Harold Mortimer-
 Lamb: The Art Lover.
 
 Harold Mortimer-Lamb: The Art Lover runs from Nov. 15, 2013 to Feb. 23, 
-2014 in the AGGVâ€™s Pollard Gallery. The exhibition features a large selection 
+2014 in the AGGV’s Pollard Gallery. The exhibition features a large selection 
 of works donated to the AGGV by Mortimer-Lamb (1872-1970) including his 
 own award-winning photographs and paintings, and works by the many artists 
 in his life, such as well known Canadians Jack Shadbolt and Frederick H. 
 Varley. Works by Mortimer-Lamb, Varley, Sophie Pemberton and others, 
 borrowed from public and private collections, will augment the exhibition.
 
-â€œHarold Mortimer-Lamb was a great supporter of the Art Gallery of Greater 
+“Harold Mortimer-Lamb was a great supporter of the Art Gallery of Greater 
 Victoria. He donated works to the AGGV during his lifetime; through a 
 bequest; and many more have been purchased with a fund that was 
 established as part of his estate,â€  said Jon Tupper, director of the AGGV. 
-â€œMortimer-Lamb has been extremely important to the growth of this institution, 
+“Mortimer-Lamb has been extremely important to the growth of this institution, 
 and we are deeply indebted to Robert Amos for creating this remarkable 
 exploration of his life and legacy.â€ 
 
 Mortimer-Lamb was a significant figure in the Canadian art world for decades 
 but there has been little information available about the man and his life. 
 Robert Amos, guest curator of the exhibition and art columnist for the Times 
-Colonist, began researching Mortimer-Lambâ€™s story in 1978 when his estate 
-arrived at the AGGV. The Art Lover is the result of Amosâ€™ many years of work 
+Colonist, began researching Mortimer-Lamb’s story in 1978 when his estate 
+arrived at the AGGV. The Art Lover is the result of Amos’ many years of work 
 on the subject. Amos has also authored a book by the same name which is 
 being launched by TouchWood Editions to coincide with the exhibition 
 opening.
 
-â€œMortimer-Lamb loved art: the artworks, the people who made them, and 
+“Mortimer-Lamb loved art: the artworks, the people who made them, and 
 those who inspired them,â€  said Amos. â€œHe is mentioned in the index of many 
-books about Canadian art history but â€“ until now â€“ has remained a figure in 
+books about Canadian art history but – until now – has remained a figure in 
 the background.â€ 
 
 At the age of 70 Mortimer-Lamb married the 30-year-old artist Vera 
 Weatherbie. They enjoyed 28 years of marriage. When Vera passed away in 
 1977 the AGGV received the Harold and Vera Mortimer-Lamb Bequest which 
-included 192 pieces of art, their books, papers, over 250 of Haroldâ€™s 
+included 192 pieces of art, their books, papers, over 250 of Harold’s 
 photographs and a substantial sum of money to be used as an art-purchase 
 fund.
 
@@ -1090,18 +1090,18 @@ For more information, visit www.aggv.ca or call 250-384-4171.
 Related Events at the AGGV
 All included with Gallery admission.
 
-Saturday, November 16, 2 p.m. â€“ 4 p.m.
+Saturday, November 16, 2 p.m. – 4 p.m.
 Afternoon with the Author: Join author Robert Amos and TouchWood Editions 
 for the launch of Harold Mortimer-Lamb: The Art Lover and experience the 
 current gallery exhibition of the same title curated by Amos featuring 
 Mortimer-Lamb's photos, paintings and art collection.
 
 Thursday, November 28, 7 p.m.
-Curatorâ€™s Tour: Harold Mortimer Lamb: The Art Lover with Guest Curator 
+Curator’s Tour: Harold Mortimer Lamb: The Art Lover with Guest Curator 
 Robert Amos
 
 Thursday, February 13, 7 p.m.
-Curatorâ€™s Tour: Harold Mortimer Lamb: The Art Lover with Guest Curator 
+Curator’s Tour: Harold Mortimer Lamb: The Art Lover with Guest Curator 
 Robert Amos
 
 Sandra Hudson
@@ -1120,7 +1120,7 @@ INTERACTIVE VIDEO AND SOUND TECHNOLOGY
 Centre A announces its winter 2013 exhibition, â€œA Chorus of Lungsâ€  by Leila 
 Sujir and Maria Lantin.
 
-VANCOUVER, BC (October 30, 2013) â€“ Centre A: Vancouver International 
+VANCOUVER, BC (October 30, 2013) – Centre A: Vancouver International 
 Centre for Contemporary Asian Art is pleased to announce the November 15th 
 opening of â€œA Chorus of Lungs,â€  an exhibition by Canadian artists Leila Sujir 
 and Maria Lantin. Animated lungs, accompanied by the sounds of the ebb 
@@ -1136,16 +1136,16 @@ encounters a dreamlike â€˜visionâ€™ space. â€œA Chorus of Lungsâ�
 technology and the social sphere, with particular reference to ideas regarding 
 the body and the state. 
 
-The artists explain, â€œWe are exploring the tension between community, 
+The artists explain, “We are exploring the tension between community, 
 chorus, and individual voices with an attentiveness to our singular and 
 collective being. By giving a performative role to the viewer, we are considering 
 the relationship between the virtual and the real, and the possibility of the 
 blurring of these categories.â€ 
 
-Haema Sivanesan, Executive Director at Centre A, states, â€œCanadian artists, 
+Haema Sivanesan, Executive Director at Centre A, states, “Canadian artists, 
 universities and institutions are amongst those at the forefront of developing 
-3D interactive technologies. Leila Sujir and Maria Lantinâ€™s collaborative 
-installation re-considers the viewerâ€™s relationship to the artwork, creating a 
+3D interactive technologies. Leila Sujir and Maria Lantin’s collaborative 
+installation re-considers the viewer’s relationship to the artwork, creating a 
 dreamlike, poetic experience in the gallery.â€ 
 
 â€œA Chorus of Lungsâ€  will be Centre Aâ€™s first presentation of interactive 3D 
@@ -1153,11 +1153,11 @@ drawing video and sound installation. Public programs, including artist talks
 and 3D drawing workshops, will accompany the work. A publication with an 
 essay by Michelle Jacques, Chief Curator of the Art Gallery of Greater 
 Victoria, will also be available at Centre A. The exhibition will be on display 
-from November 15, 2013 â€“ January 25, 2014. 
+from November 15, 2013 – January 25, 2014. 
 
 Information:
-November 15, 2013 â€“ January 25, 2014
-Gallery Hours: Tuesdays â€“ Saturdays, 11am â€“ 6pm 
+November 15, 2013 – January 25, 2014
+Gallery Hours: Tuesdays – Saturdays, 11am – 6pm 
 Preview reception: Friday, November 15, 2013
 
 For information on public programs, please visit http://www.centrea.org.
@@ -1172,11 +1172,11 @@ contemporary Asian art, foregrounding a range of diverse contemporary
 artistic practices
 
 Centre A provides a platform for art that engages and educates, promoting 
-critical thought and reflective experiences. The Centreâ€™s gallery space, in the 
-heart of Vancouverâ€™s Chinatown, welcomes artists and visitors from diverse 
+critical thought and reflective experiences. The Centre’s gallery space, in the 
+heart of Vancouver’s Chinatown, welcomes artists and visitors from diverse 
 backgrounds.
 
-Centre A makes a significant contribution to Vancouverâ€™s cultural landscape 
+Centre A makes a significant contribution to Vancouver’s cultural landscape 
 by contributing to the cultural infrastructure of the city, with a view to 
 positioning Asia within the Canadian imagination.
 
@@ -1185,7 +1185,7 @@ The Canada Council for the Arts, the BC Arts Council, BC Community
 Gaming Grant program, the City of Vancouver, Cultural Services, and the 
 generosity of our patrons, donors, members and volunteers.
 
-â€“ 30 â€“
+– 30 –
 
 Available for comment on â€œA Chorus of Lungsâ€ :
 
@@ -1228,7 +1228,7 @@ arab-cinema
 
 THEATRE:
 
-SFUâ€™s School for the Contemporary Arts presents UBU COCU. A play by 
+SFU’s School for the Contemporary Arts presents UBU COCU. A play by 
 Alfred Jarry
 October 22-26 and October 29 - November 2
 Tickets: $15. $5 for students and seniors. Tickets available at the door.
@@ -1264,7 +1264,7 @@ comics-journalist-joe-sacco
 LITERARY:
 
 Book Launch: Children of Air India, Un/authorized Exhibits and Interjections.
-Join RenÃ©e Sarojini Saklikar as she launches her first book of poetry.
+Join Renée Sarojini Saklikar as she launches her first book of poetry.
 Wednesday, November 13, 2013, 7:00PM. Free
 Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca.
 
@@ -1359,7 +1359,7 @@ Twitter: @SFU_W | Facebook: SFU Woodward's
 ------------------------------------------------------------------------
 <a href="/instant-coffee/listings/2013-10-31-24-softunion-workshop-zoe-kreye-and-mirae-rosner-nov-16">24. Soft/Union WORKSHOP | Zoe Kreye and Mirae Rosner | NOV 16</a>
 ------------------------------------------------------------------------
-Movement Workshop with Luciana D'AnunciaÃ§Ã£o,
+Movement Workshop with Luciana D'Anunciação,
 Zoe Kreye and Mirae Rosner
 Saturday, November 16, 2013
 
@@ -1368,7 +1368,7 @@ Gallery welcomes Soft/Union - a dance and movement workshop that stems
 from the processes that have been integral to the iconic westcoast dancer's 
 choreography and art forms. 
 
-Soft/Union will be led by Luciana Dâ€™Anunciacao, Zoe Kreye and Mirae Rosner. 
+Soft/Union will be led by Luciana D’Anunciacao, Zoe Kreye and Mirae Rosner. 
 Patterns of daily routines create well worn pathways that shape our modes of 
 experience. When we invite our bodies to lead we free ourselves to follow 
 unexpected directions and discover our vivid imaginations. Soft/Union is body-
@@ -1376,12 +1376,12 @@ based. We will learn from our senses and perception, build awareness of
 individual and group process and create space for embodied experience. 
 Accessible to all bodies and experience levels.
 
-Mirae Rosner (Canada), Zoe Kreye (Canada) & Luciana D'AnunciaÃ§Ã£o (Brazil) 
+Mirae Rosner (Canada), Zoe Kreye (Canada) & Luciana D'Anunciação (Brazil) 
 are members of, and gain deep inspiration from working with Dance Troupe 
 Practice (DTP): a self-organized and non-hierarchical dance collective that is 
 open to those interested in exploring life and creativity through movement.
 
-Based in Vancouver since 2007, Luciana D'AnunciaÃ§Ã£o is a Brazilian artist 
+Based in Vancouver since 2007, Luciana D'Anunciação is a Brazilian artist 
 whose practice draws upon performance, dance, video, and installation. She 
 has performed and exhibited in Canada, Brazil, the United States, Germany, 
 the United Kingdom, and Poland. Currently D'Anunciacao is a graduate 
@@ -1417,23 +1417,23 @@ To enroll in the workshop, or for more information, please contact
 tobin@theapt.ca
 
 ------------------------------------------------------------------------
-<a href="/instant-coffee/listings/2013-10-31-25-contemporary-art-society-of-vancouver-emerging-artists-prize">25. Contemporary Art Society of Vancouver | Emerging Artistâ€™s Prize open competition </a>
+<a href="/instant-coffee/listings/2013-10-31-25-contemporary-art-society-of-vancouver-emerging-artists-prize">25. Contemporary Art Society of Vancouver | Emerging Artist’s Prize open competition </a>
 ------------------------------------------------------------------------
-Contemporary Art Society of Vancouver launches second Emerging Artistâ€™s 
+Contemporary Art Society of Vancouver launches second Emerging Artist’s 
 Prize open competition
 
 As of October 23rd, emerging artists in Vancouver and the Lower Mainland 
 will be able to submit their work for consideration for the second Emerging 
-Artistâ€™s Prize. 
+Artist’s Prize. 
 
 The Contemporary Art Society of Vancouver (CASV) has announced the 
 prize, which comes with a cash award of $3,000 to encourage and support 
 artists within the first five years of their careers. 
 
 The prize is the only one of its kind selected through an open competition. 
-â€œThere are other artist prizes awarded in Vancouver, but those are by 
+“There are other artist prizes awarded in Vancouver, but those are by 
 nomination only, and focus on mid-career or senior artists,â€  explained CASV 
-Board Member, Rachel Lafo, Chair of the Emerging Artistâ€™s Prize. â€œWe 
+Board Member, Rachel Lafo, Chair of the Emerging Artist’s Prize. “We 
 wanted to provide emerging artists with a chance to showcase their work and 
 receive financial support to enable them to keep on working.â€  
 
@@ -1456,7 +1456,7 @@ Celant, Jessica Stockholder, Omer Arbel, Wanda Koop, Rebecca Belmore,
 Stan Douglas and many others.
 
 For more information about eligibility and how to apply, please see the CASV 
-website at http://www.casv.ca and click on the Emerging Artistâ€™s Prize link or 
+website at http://www.casv.ca and click on the Emerging Artist’s Prize link or 
 http://submissions.casv.ca/
 
 MEDIA CONTACT: emergingartistsprize@casv.ca
@@ -1466,26 +1466,26 @@ MEDIA CONTACT: emergingartistsprize@casv.ca
 <a href="/instant-coffee/listings/2013-10-31-26-grunt-gallery-jayce-salloum-until-nov-30">26. grunt gallery | Jayce Salloum | until | NOV 30</a>
 ------------------------------------------------------------------------
 PRESS RELEASE: 
-grunt gallery â€“ Vancouver, BC
+grunt gallery – Vancouver, BC
 
 Exhibition: location/dis-location(s): contingent promises
 Artist: Jayce Salloum
-Exhibition date: Oct 25 â€“ Nov 30, 2013
-116 â€“ 350 East 2nd Avenue, Vancouver BC V5T 4R8
+Exhibition date: Oct 25 – Nov 30, 2013
+116 – 350 East 2nd Avenue, Vancouver BC V5T 4R8
 ph: 604-875-9516 fax: 604-877-0073 web: www.grunt.ca
 
 grunt gallery is pleased to announce a new installation of photographs by 
 Jayce Salloum, entitled location/dis-location(s): contingent promises.
 
-location/dis-location(s): contingent promises continues Salloumâ€™s visualization 
-of the nature of the â€˜naturalâ€™ and constructed environments. An extensive 
+location/dis-location(s): contingent promises continues Salloum’s visualization 
+of the nature of the ‘natural’ and constructed environments. An extensive 
 assembly of photographs, taken at various places the artist has visited over 
 recent years, is composed through various signifiers and aesthetics. The 
 images depict locations considered public and private, claimed and unsigned 
 spaces, forms of the common, socio/ideological stage fronts, and domestic 
 settings. 
 
-The viewerâ€™s subjectivity aids how one might identify themes and locate the 
+The viewer’s subjectivity aids how one might identify themes and locate the 
 familiar, creating relationships between images and groupings. However, 
 locations of photos vary without division. Deeper inspection might reveal 
 dissidence; recognition and dislocation wavers throughout this panoramic 
@@ -1498,7 +1498,7 @@ nature informs the human(e). This exhibition considers the complexity of how
 the reading of spaces might overlap, separate, and collapse into one another, 
 inferring an oblique mapping of histories.
 
-These photographs are from Salloumâ€™s ongoing body of work, untitled: 
+These photographs are from Salloum’s ongoing body of work, untitled: 
 photographs, that attempts to critically engage in the representation of public 
 and private space. location/dis-location(s) approaches coming to terms with 
 what it means to be making photographs here (and elsewhere) and the 
@@ -1512,7 +1512,7 @@ October of this year.
 
 Join us at grunt gallery on October 25th for the opening reception of the 
 exhibition. A booklet with an essay written by Keith Wallace on Jayce 
-Salloumâ€™s practice will be available at the gallery. The exhibition continues to 
+Salloum’s practice will be available at the gallery. The exhibition continues to 
 November 30th.
 
 This exhibition is dedicated to 52 Week of Gulf Labor. Gulf Labor is a coalition 
@@ -1562,7 +1562,7 @@ Please let us know if you require further information.
 
 Thank you,
 
-Tracey Mactavish Architect AIBC MRAIC LEEDÂ®AP
+Tracey Mactavish Architect AIBC MRAIC LEED®AP
 Associate
 
 office of mcfarlane biggar

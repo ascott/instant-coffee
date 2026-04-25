@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
 emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
 number: 40
 type: "EXHIBITION"
+venue: "Sweet Cereal Mountain"
 summary: "Sweet Cereal Mountain | Khan Lee “ “ | UNTIL APR 25 | APR 25"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Vegetabled Micro Email Utopia"
 emailDate: "Wed, 17 Jan 2024 21:50:14 -0800"
 number: 30
 type: "OPENING"
+venue: "SLICE OF LIFE GALLERY"
 summary: "SLICE OF LIFE GALLERY | Dacey Eliot | 7PM | FEB 1"
 ---
 

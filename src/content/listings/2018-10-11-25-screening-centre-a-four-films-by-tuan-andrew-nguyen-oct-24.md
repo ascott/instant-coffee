@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: psychic embodiment in the out-of-d
 emailDate: "Wed, 10 Oct 2018 23:20:09 -0700"
 number: 25
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | Centre A | Four Films by Tuan Andrew Nguyen | OCT 24"
 ---
 

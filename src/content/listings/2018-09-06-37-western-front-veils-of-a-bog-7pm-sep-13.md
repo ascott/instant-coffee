@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Knot of Flowers"
 emailDate: "Thu, 06 Sep 2018 10:05:06 -0700"
 number: 37
 type: "OPENING"
+venue: "Western Front"
 summary: "Western Front | Veils of a Bog | 7PM | SEP 13"
 ---
 

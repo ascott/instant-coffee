@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Between Sounds"
 emailDate: "Fri, 21 Apr 2017 08:16:06 -0700"
 number: 30
 type: ""
+venue: "SCREENING"
 summary: "SCREENING | The Cinematheque | Peter Hutton: Near & Far, Part Two | DIM Cinema | APR 26"
 ---
 

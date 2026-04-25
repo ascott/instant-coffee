@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Blue Rare Fount"
 emailDate: "Tue, 09 Apr 2024 22:35:02 -0700"
 number: 11
 type: "OPENING"
+venue: "gallery gachet"
 summary: "gallery gachet | To Be Belligerent//To Commit To Memory//To... | 7PM | APR 11"
 ---
 

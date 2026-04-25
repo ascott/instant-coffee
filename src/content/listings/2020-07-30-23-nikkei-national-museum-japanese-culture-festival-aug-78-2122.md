@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Prosopopetic Lemondrops"
 emailDate: "Thu, 30 Jul 2020 09:00:16 -0700"
 number: 23
 type: "EVENT"
+venue: "Nikkei National Museum"
 summary: "Nikkei National Museum | Japanese culture festival | AUG 7+8, 21+22 | AUG 7"
 ---
 

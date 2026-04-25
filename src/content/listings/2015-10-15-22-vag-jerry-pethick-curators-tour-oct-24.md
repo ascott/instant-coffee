@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: art/book fairs"
 emailDate: "Thu, 15 Oct 2015 13:01:27 -0700"
 number: 22
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Jerry Pethick: Curator's Tour | OCT 24"
 ---
 

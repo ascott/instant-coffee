@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 40
 type: "CALL"
+venue: "Public Art Project Municipal Hall"
 summary: "Public Art Project Municipal Hall | Call to Artists / Expression of Interest | SEP 27"
 ---
 

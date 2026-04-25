@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: glad to be here"
 emailDate: "Thu, 17 Sep 2009 09:45:31 -0700"
 number: 8
 type: ""
+venue: "Cineworks"
 summary: "Cineworks | MAKING A FEATURE WITH NO MONEY | SEP 19"
 ---
 
@@ -11,7 +12,7 @@ MAKING A FEATURE WITH NO MONEY AND MAKING IT GOOD
 Quality Independent Filmmaking on the Cheap
 
 A crash course in independent feature filmmaking with independent/no-budget film director Sean 
-MacPherson. Gain the skills, learn the basics, visualize your film and bring it to lifeâ€“without a
+MacPherson. Gain the skills, learn the basics, visualize your film and bring it to life–without a
 budget.
 
 If you have had a feature film idea burning in your brain, and need the proper push to go out 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: http://friendsof439.wordpress.com/
 emailDate: "Fri, 13 Dec 2013 15:55:11 -0800"
 number: 16
 type: ""
+venue: "Publication Studio Vancouver (NEW LOCATION)"
 summary: "Publication Studio Vancouver (NEW LOCATION) | SOME WOOLLY BUZZ |  Until FEB 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: letting you off the hook,  line an
 emailDate: "Thu, 13 Feb 2014 12:37:03 -0800"
 number: 10
 type: ""
+venue: "Dim Cinema at The Cinematheque"
 summary: "Dim Cinema at The Cinematheque | Helen Marten and Zoe Tissandier | FEB 17"
 ---
 
@@ -16,15 +17,15 @@ http://www.dimcinema.ca / http://www.thecinematheque.ca
 
 "Synthetic Properties" brings together two recent films that illustrate the 
 simultaneous banality and wonder of contemporary image and object making 
-technology. Helen Martenâ€™s Evian Disease exploits the medium of digital 
+technology. Helen Marten’s Evian Disease exploits the medium of digital 
 animation. Structured by six narrators floating through a modern apartment, 
 the spectacularly artificial composition investigates the absurd materiality of 
 digital artifice and the sanitized but seductive formal vocabulary of CGI 
-animation. Zoe Tissandierâ€™s new work In Praise of Scribes focuses a similarly 
+animation. Zoe Tissandier’s new work In Praise of Scribes focuses a similarly 
 meditative gaze upon an advanced 3D printing machine. An in-depth visual 
 analysis of the 3D printing process produces an allegory around the 
 potentiality and complexity of the endlessly reproducible object, drawing the 
-printing processâ€™s resultant object as both banal artifact and fetishistic 
+printing process’s resultant object as both banal artifact and fetishistic 
 talisman.
 
 Evian Disease (2012) by Helen Marten. Animation by Adam Sinclair Digital 
@@ -37,7 +38,7 @@ the artist.
 
 Helen Marten lives and works in London. Recent solo exhibitions includeEvian 
 Disease, Palais de Tokyo, Paris (2012); Park Nights: Dust and Piranhas, 
-Serpentine Gallery (2011); Take a stick and make it sharp, Johann KÃ¶nig, 
+Serpentine Gallery (2011); Take a stick and make it sharp, Johann König, 
 Berlin (2011) and Wicked Patterns, T293, Naples (2010). Marten participated 
 in the 2013 Venice Biennale. Recent group exhibitions include New pictures 
 of common objects, MoMA PS1, New York (2012).

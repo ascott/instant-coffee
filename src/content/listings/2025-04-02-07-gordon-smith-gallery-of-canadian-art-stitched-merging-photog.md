@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 7
 type: "OPENING"
+venue: "Gordon Smith Gallery of Canadian Art"
 summary: "Gordon Smith Gallery of Canadian Art | Stitched: Merging Photography and Textile Practice | APR 1"
 ---
 

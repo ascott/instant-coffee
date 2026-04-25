@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Permacomputing Lunch"
 emailDate: "Thu, 15 Aug 2024 21:35:11 -0700"
 number: 27
 type: "OPENING"
+venue: "Dr. Sun Yat-sen Classical Chinese Garden"
 summary: "Dr. Sun Yat-sen Classical Chinese Garden | to carve without cutting | 5PM | AUG 30"
 ---
 

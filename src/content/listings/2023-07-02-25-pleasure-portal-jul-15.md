@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: heat sink"
 emailDate: "Sat, 01 Jul 2023 22:25:11 -0700"
 number: 25
 type: "CALL"
+venue: "PLEASURE PORTAL"
 summary: "PLEASURE PORTAL | JUL 15"
 ---
 

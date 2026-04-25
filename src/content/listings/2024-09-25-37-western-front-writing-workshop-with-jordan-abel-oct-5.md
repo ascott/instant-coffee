@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Polkadot Nectar"
 emailDate: "Tue, 24 Sep 2024 19:50:08 -0700"
 number: 37
 type: "EDUCATION"
+venue: "Western Front"
 summary: "Western Front | Writing Workshop with Jordan Abel | OCT 5"
 ---
 

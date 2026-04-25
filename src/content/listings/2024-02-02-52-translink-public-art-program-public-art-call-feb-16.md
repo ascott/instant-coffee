@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Confused Still Life"
 emailDate: "Thu, 01 Feb 2024 21:25:09 -0800"
 number: 52
 type: "CALL"
+venue: "TransLink Public Art Program"
 summary: "TransLink Public Art Program | Public Art Call | FEB 16"
 ---
 

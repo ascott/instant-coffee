@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nonhuman Cows Wrist "
 emailDate: "Thu, 07 Dec 2023 19:00:05 -0800"
 number: 24
 type: "CALL"
+venue: "Red Gate Arts Society"
 summary: "Red Gate Arts Society | Call for Submissions - Red Gate TV Show! | DEC 10"
 ---
 

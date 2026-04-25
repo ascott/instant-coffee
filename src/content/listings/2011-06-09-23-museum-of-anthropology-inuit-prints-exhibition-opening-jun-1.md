@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: is a line image of loops with a fe
 emailDate: "Thu, 09 Jun 2011 08:37:36 -0700"
 number: 23
 type: ""
+venue: "Museum of Anthropology"
 summary: "Museum of Anthropology | Inuit Prints (Exhibition Opening) | JUN 19"
 ---
 
@@ -13,10 +14,10 @@ also tells the little-known
 
 story of how, fifty years ago, the Canadian artist and â€œdiscovererâ€  of
 Inuit art, James Houston, travelled to Japan to study printmaking with
-Unâ€™ichi Hiratsuka.
+Un’ichi Hiratsuka.
 
 In conjunction with this exhibit is: Faces and Voices of the Inuit Art
-Market â€“ A UBC Student Exhibit
+Market – A UBC Student Exhibit
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2

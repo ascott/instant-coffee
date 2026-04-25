@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Emerald Friday"
 emailDate: "Fri, 17 Aug 2018 16:20:08 -0700"
 number: 12
 type: ""
+venue: "FESTIVAL"
 summary: "FESTIVAL | Hadden Park Field House | FESTIVAL FOR PUBLIK SPACE | 5-930PM | AUG 18"
 ---
 

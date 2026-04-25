@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: flower power"
 emailDate: "Tue, 01 Apr 2025 22:45:12 -0700"
 number: 34
 type: "CALL"
+venue: "Federation Gallery"
 summary: "Federation Gallery | 2025 OTE | APR 30"
 ---
 

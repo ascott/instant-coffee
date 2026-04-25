@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Friendly Reminder"
 emailDate: "Mon, 12 Jan 2026 19:40:04 -0800"
 number: 9
 type: "OPENING"
+venue: "Wil Aballe"
 summary: "Wil Aballe | CATHY BUSBY & GARRY NEILL KENNEDY | 6PM | JAN 15"
 ---
 

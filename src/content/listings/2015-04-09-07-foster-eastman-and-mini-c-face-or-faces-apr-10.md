@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: open sesame"
 emailDate: "Thu, 09 Apr 2015 11:31:21 -0700"
 number: 7
 type: "OPENING"
+venue: "Foster Eastman and Mini C"
 summary: "Foster Eastman and Mini C | Face or Faces | APR 10"
 ---
 
@@ -41,7 +42,7 @@ Project, and the Concourse Gallery. In 2014, she was the finalist for the
 AIMIA/AGO photography prize.
 In the past few years, Senchenko has closely examined the cultural and
 social structures while interested in the urban spaces that we created and
-occupy. The current political situation in Ukraine, Senchenkoâ€™s native
+occupy. The current political situation in Ukraine, Senchenko’s native
 country, has firmly dictated the emotional tone in her practice. In order
 to express these emotions, photograph, found images, text, collage, and
 performance are a few of the mediums and elements that exist in her practice.
@@ -66,7 +67,7 @@ Face of Beauty.
 
 Agnon Wong
 Inspired by the limitless power of cinema at a very young age, animation
-and storytelling was something that consumed Agnonâ€™s childhood. Agnon
+and storytelling was something that consumed Agnon’s childhood. Agnon
 gravitated towards Japanese pop culture influences in cinema and animations
 and eventually ended up at Emily Carr University of Arts and Design in
 Vancouver BC. Photography became a medium for Agnon to explore and to
@@ -99,7 +100,7 @@ considered diverse issues including the historical atrocities that occurred
 under Mao Tse-tung during the cultural revolution in China, the challenges
 that Canadian veterans returning from Afghanistan face as they reintegrate
 into civilian life, as well collaborative works that leverage visual arts
-to give voice to Canadianâ€™s experiences with depression and suicide.
+to give voice to Canadian’s experiences with depression and suicide.
 The lestweforgetCANADA murals created by Foster, veterans and community
 members were exhibited at the Canadian War Museum in Ottawa Nov 8-11, 2014.
 

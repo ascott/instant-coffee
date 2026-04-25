@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: let's throw scenarios"
 emailDate: "Thu, 25 Jun 2009 09:02:41 -0700"
 number: 6
 type: ""
+venue: "Public Private Cubic Couple"
 summary: "Public Private Cubic Couple | JUN 27"
 ---
 

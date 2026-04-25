@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Simply Sleeping"
 emailDate: "Wed, 06 Nov 2024 21:50:13 -0800"
 number: 3
 type: "TALK"
+venue: "Gordon Smith Gallery"
 summary: "Gordon Smith Gallery | Jeremy Shaw and Andrew Booth | 530PM | NOV 4"
 ---
 

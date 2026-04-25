@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: is not afraid to use the wooden sp
 emailDate: "Thu, 30 Oct 2008 08:35:15 -0700"
 number: 5
 type: ""
+venue: "Plank Gallery"
 summary: "Plank Gallery | Clusterf+ck | OCT 31"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: beepbeep"
 emailDate: "Thu, 31 Oct 2024 14:40:53 -0700"
 number: 26
 type: "CALL"
+venue: "West Vancouver Police Department"
 summary: "West Vancouver Police Department | F350 truck wrap | DEC 15"
 ---
 

@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Intermezzo"
 emailDate: "Thu, 21 Feb 2019 08:11:17 -0800"
 number: 51
 type: ""
+venue: "JOB"
 summary: "JOB | VIVO Media Arts Centre | Special Effects for Video for Teens | MAR 18"
 ---
 

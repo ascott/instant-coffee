@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Mass Residue"
 emailDate: "Thu, 31 Jan 2019 08:31:20 -0800"
 number: 41
 type: "CALL"
+venue: "Future Witch Collective"
 summary: "Future Witch Collective | Open Privacy Research Society | MAR 10"
 ---
 

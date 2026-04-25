@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Nothing Happens in Good Weather"
 emailDate: "Thu, 10 Nov 2011 12:00:41 -0800"
 number: 1
 type: ""
+venue: "Other Sights & South Hill"
 summary: "Other Sights & South Hill | Instant Coffee: Nothing Happens in Good Weather"
 ---
 

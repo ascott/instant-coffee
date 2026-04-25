@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: LEGENDARY"
 emailDate: "Thu, 07 Apr 2011 11:21:46 -0700"
 number: 25
 type: ""
+venue: "VIVO"
 summary: "VIVO | CALL for workshop | SLAB 5: THEREMIN | MAY 25"
 ---
 
@@ -11,7 +12,7 @@ CALL FOR PARTICIPATION
 
 SLAB 5: THEREMIN
 workshop | production | performance
-May 25 â€“ June 25, 2011 @ VIVO Media Arts Centre
+May 25 – June 25, 2011 @ VIVO Media Arts Centre
 
 Presented by VIVO Media Arts Centre & the CRES Media Arts 
 Committee (MAC)
@@ -22,12 +23,12 @@ Cost: $150 + materials | Subsidized by VIVO & MAC
 
 ABOUT THIS PROJECT
 
-The Theremin, invented in the 1920â€™s by Leon Theremin, is one of 
+The Theremin, invented in the 1920’s by Leon Theremin, is one of 
 the
 earliest electronic music instruments. To this day, it remains 
 profoundly
-unique; in itâ€™s inimitably eerie sound and its uncanny physical
-presenceâ€”as an instrument played gesturally without actually being
+unique; in it’s inimitably eerie sound and its uncanny physical
+presence—as an instrument played gesturally without actually being
 touched. Whilst it is antique, it still holds a place in our future
 imaginary.
 
@@ -39,11 +40,11 @@ ViVo Artists in Residence, Rob Symmers, David Leith and Kate
 Rissiek, will
 host a series of 10 workshops. Participants will build their own 
 Theremins
-to take home, experiment with the instrumentâ€™s potential, explore its 
+to take home, experiment with the instrument’s potential, explore its 
 use
 in controlling visuals, and participate in an Experimental Theremin
-Orchestra. This orchestra will play at ViVoâ€™s Signal & Noise Media Art
-Festival, June 23â€“27, 2011.
+Orchestra. This orchestra will play at ViVo’s Signal & Noise Media Art
+Festival, June 23–27, 2011.
 
 WHO CAN PARTICIPATE
 
@@ -53,7 +54,7 @@ experienced or just a beginner, or have no experience with sound at
 all
 but want to explore and experimenting with other possible uses of 
 the
-Theremin, such as controlling visuals â€“ you are welcome!
+Theremin, such as controlling visuals – you are welcome!
 
 TECHNICAL INFO
 
@@ -80,7 +81,7 @@ Theremax kit
 after
 the workshop, and you take home the Theremin you have built. 
 Participants
-will also need to supply their own enclosure â€“ possible options will 
+will also need to supply their own enclosure – possible options will 
 be
 discussed at the Workshop Orientation, day one.
 

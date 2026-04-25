@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) Instant Coffee: we want to be where you are"
 emailDate: "Thu, 28 Aug 2008 08:50:41 -0700"
 number: 14
 type: ""
+venue: "Gallery Gachet"
 summary: "Gallery Gachet | Sabine Bitter / Helmut Weber | SEP 5"
 ---
 

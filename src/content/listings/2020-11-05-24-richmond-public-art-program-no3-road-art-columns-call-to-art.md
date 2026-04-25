@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
 emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
 number: 24
 type: "CALL"
+venue: "Richmond Public Art Program"
 summary: "Richmond Public Art Program | No.3 Road Art Columns, call to artists | NOV 16"
 ---
 

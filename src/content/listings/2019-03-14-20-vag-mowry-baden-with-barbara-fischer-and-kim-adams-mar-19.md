@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE:  qaʔ yəxw - water honours us"
 emailDate: "Thu, 14 Mar 2019 14:30:17 -0700"
 number: 20
 type: "TALK"
+venue: "VAG"
 summary: "VAG | Mowry Baden with Barbara Fischer and Kim Adams | MAR 19"
 ---
 

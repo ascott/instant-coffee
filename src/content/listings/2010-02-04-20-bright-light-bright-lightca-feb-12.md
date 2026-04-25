@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: content pants"
 emailDate: "Thu, 04 Feb 2010 08:40:11 -0800"
 number: 20
 type: ""
+venue: "Bright Light"
 summary: "Bright Light | bright-light.ca | FEB 12"
 ---
 
@@ -67,4 +68,4 @@ and Paralympic Public Art Program.
 Contact: info@bright-light.ca
 Media Contact: Gwen Kallio
 Opening Receptions Friday, February 12, 7 to 10pm
-Copyright Â© 2010 the artists and writers. Site by The Future.
+Copyright © 2010 the artists and writers. Site by The Future.

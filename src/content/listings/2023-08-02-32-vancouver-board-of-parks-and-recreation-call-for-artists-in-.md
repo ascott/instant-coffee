@@ -4,6 +4,7 @@ emailSubject: "(ic-vancouver) INSTANT COFFEE: Dot Calm"
 emailDate: "Wed, 02 Aug 2023 07:45:14 -0700"
 number: 32
 type: "CALL"
+venue: "Vancouver Board of Parks and Recreation"
 summary: "Vancouver Board of Parks and Recreation | CALL FOR ARTISTS IN COMMUNITIES 2024-2025 | SEP 12"
 ---
 
